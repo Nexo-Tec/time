@@ -1,0 +1,17 @@
+name: Últimas publicações Gama
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo with my latest posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GAMA_LIST"
+          feed_list: "https://gamarevista.uol.com.br/feed/"
+          max_post_count: 5
