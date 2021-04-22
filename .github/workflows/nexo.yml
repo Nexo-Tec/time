@@ -1,4 +1,4 @@
-name: Últimas publicações no nexo
+name: Últimas publicações no Nexo
 on:
   schedule:
     - cron: '0 12 * * *'
