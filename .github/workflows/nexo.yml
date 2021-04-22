@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "NEXO_LIST"
-          feed_list: "https://www.nexojornal.com.br/rss.xml"
+          feed_list: "https://www.nexojornal.com.br/rss.xml?cache=no"
           max_post_count: 5
 
       # Runs a set of commands using the runners shell
