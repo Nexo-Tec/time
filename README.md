@@ -10,11 +10,11 @@ Faça parte do time de tecnologia do Nexo
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A nova aposta em uma série derivada de ‘How I Met Your Mother’](https://www.nexojornal.com.br/expresso/2021/04/22/A-nova-aposta-em-uma-s%C3%A9rie-derivada-de-%E2%80%98How-I-Met-Your-Mother%E2%80%99)
-- [Como o corte de verbas joga a ciência brasileira na incerteza](https://www.nexojornal.com.br/expresso/2021/04/22/Como-o-corte-de-verbas-joga-a-ci%C3%AAncia-brasileira-na-incerteza)
-- [Como os programas de habitação podem levar à periferização](https://www.nexojornal.com.br/academico/2021/04/22/Como-os-programas-de-habita%C3%A7%C3%A3o-podem-levar-%C3%A0-periferiza%C3%A7%C3%A3o)
-- [O saldo de gases de efeito estufa nos municípios brasileiros](https://www.nexojornal.com.br/grafico/2021/04/22/O-saldo-de-gases-de-efeito-estufa-nos-munic%C3%ADpios-brasileiros)
-- [Bolsonaro na Cúpula do Clima: promessas e pedido de dinheiro](https://www.nexojornal.com.br/expresso/2021/04/22/Bolsonaro-na-C%C3%BApula-do-Clima-promessas-e-pedido-de-dinheiro)
+- [Quais os efeitos da turbulência na definição do Orçamento](https://www.nexojornal.com.br/expresso/2021/04/23/Quais-os-efeitos-da-turbul%C3%AAncia-na-defini%C3%A7%C3%A3o-do-Or%C3%A7amento)
+- [Como o STF garante a Lula uma vitória jurídica e política](https://www.nexojornal.com.br/expresso/2021/04/22/Como-o-STF-garante-a-Lula-uma-vit%C3%B3ria-jur%C3%ADdica-e-pol%C3%ADtica)
+- [Só a união das vítimas da corrupção é capaz de mudar o jogo](https://www.nexojornal.com.br/colunistas/2021/S%C3%B3-a-uni%C3%A3o-das-v%C3%ADtimas-da-corrup%C3%A7%C3%A3o-%C3%A9-capaz-de-mudar-o-jogo)
+- [Covid e gestantes: a inclusão na vacinação após alta de mortes](https://www.nexojornal.com.br/expresso/2021/04/22/Covid-e-gestantes-a-inclus%C3%A3o-na-vacina%C3%A7%C3%A3o-ap%C3%B3s-alta-de-mortes)
+- [Por que países antecipam metas ambientais na Cúpula do Clima](https://www.nexojornal.com.br/expresso/2021/04/22/Por-que-pa%C3%ADses-antecipam-metas-ambientais-na-C%C3%BApula-do-Clima)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
