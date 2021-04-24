@@ -20,10 +20,10 @@ Faça parte do time de tecnologia do Nexo
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Kevin O Chris](https://gamarevista.uol.com.br/pessoas/questionario-proust/kevin-o-chris/)
-- [Além do barrigão](https://gamarevista.uol.com.br/estilo-de-vida/saude/alem-do-barrigao/)
-- [Trans](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trans/)
-- [Veja (ou reveja) o melhor do cinema de 2020](https://gamarevista.uol.com.br/achamos-que-vale/assistir/veja-ou-reveja-o-melhor-do-cinema-de-2020/)
-- [A grande ciência de Laurie Anderson](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-grande-ciencia-de-laurie-anderson/)
+- [Kevin O Chris](http://gamarevista.uol.com.br/pessoas/questionario-proust/kevin-o-chris/)
+- [Além do barrigão](http://gamarevista.uol.com.br/estilo-de-vida/saude/alem-do-barrigao/)
+- [Trans](http://gamarevista.uol.com.br/cultura/trecho-de-livro/trans/)
+- [Veja (ou reveja) o melhor do cinema de 2020](http://gamarevista.uol.com.br/achamos-que-vale/assistir/veja-ou-reveja-o-melhor-do-cinema-de-2020/)
+- [A grande ciência de Laurie Anderson](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-grande-ciencia-de-laurie-anderson/)
 <!-- GAMA_LIST:END -->
 
