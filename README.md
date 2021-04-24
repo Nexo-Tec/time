@@ -10,11 +10,11 @@ Faça parte do time de tecnologia do Nexo
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [100 dias de uma travesti em uma câmara municipal](https://www.nexojornal.com.br/colunistas/tribuna/2021/100-dias-de-uma-travesti-em-uma-c%C3%A2mara-municipal)
-- [As únicas filmagens do Titanic, agora em 4K e cores](https://www.nexojornal.com.br/expresso/2021/04/23/As-%C3%BAnicas-filmagens-do-Titanic-agora-em-4K-e-cores)
-- [Como começar a ouvir música gaúcha](https://www.nexojornal.com.br/podcast/2021/04/23/Como-come%C3%A7ar-a-ouvir-m%C3%BAsica-ga%C3%BAcha)
-- [As big techs, o imposto de links e a crise no jornalismo](https://www.nexojornal.com.br/ensaio/2021/As-big-techs-o-imposto-de-links-e-a-crise-no-jornalismo)
-- [O que uma escritora nonagenária pensa sobre o Twitter](https://www.nexojornal.com.br/expresso/2021/04/23/O-que-uma-escritora-nonagen%C3%A1ria-pensa-sobre-o-Twitter)
+- [Quais os efeitos da turbulência na definição do Orçamento](https://www.nexojornal.com.br/expresso/2021/04/23/Quais-os-efeitos-da-turbul%C3%AAncia-na-defini%C3%A7%C3%A3o-do-Or%C3%A7amento)
+- [Como o STF garante a Lula uma vitória jurídica e política](https://www.nexojornal.com.br/expresso/2021/04/22/Como-o-STF-garante-a-Lula-uma-vit%C3%B3ria-jur%C3%ADdica-e-pol%C3%ADtica)
+- [Só a união das vítimas da corrupção é capaz de mudar o jogo](https://www.nexojornal.com.br/colunistas/2021/S%C3%B3-a-uni%C3%A3o-das-v%C3%ADtimas-da-corrup%C3%A7%C3%A3o-%C3%A9-capaz-de-mudar-o-jogo)
+- [Covid e gestantes: a inclusão na vacinação após alta de mortes](https://www.nexojornal.com.br/expresso/2021/04/22/Covid-e-gestantes-a-inclus%C3%A3o-na-vacina%C3%A7%C3%A3o-ap%C3%B3s-alta-de-mortes)
+- [Por que países antecipam metas ambientais na Cúpula do Clima](https://www.nexojornal.com.br/expresso/2021/04/22/Por-que-pa%C3%ADses-antecipam-metas-ambientais-na-C%C3%BApula-do-Clima)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
