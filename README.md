@@ -103,10 +103,10 @@ Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publi
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Defesas](http://gamarevista.uol.com.br/colunistas/winnie-bueno/defesas/)
 - [@jef.delgado](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jef-delgado/)
 - [Valéria Tinoco: “A dor do luto é o outro lado do amor”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/valeria-tinoco-qual-a-sua-dor/)
 - [Kevin O Chris](http://gamarevista.uol.com.br/pessoas/questionario-proust/kevin-o-chris/)
 - [Além do barrigão](http://gamarevista.uol.com.br/estilo-de-vida/saude/alem-do-barrigao/)
-- [Trans](http://gamarevista.uol.com.br/cultura/trecho-de-livro/trans/)
 <!-- GAMA_LIST:END -->
 
