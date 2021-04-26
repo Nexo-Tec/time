@@ -24,9 +24,11 @@ Alguns destaques:
 
 Temos uma apresentação em que falamos muito do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
 
-<div align="center" style="max-width: 50%;">
+<div align="center" width="50">
 
 [![Nexo de código aberto](https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s)
+
+<a href="https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s" target="_blank" title="Nexo de código aberto" alt="Nexo de código aberto"><img src="https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg" alt="Nexo de código aberto"   style="max-width:50%;"/></a>
 
 </div>
 
@@ -42,7 +44,10 @@ E como todos os times nesses tempos de pandemia pelos quais passamos, a sensaç�
 
 ![Processos](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/process.png)
 
-Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório com projetos e milestones quando necessário. Toda a comunicação é feita através de Slack e Google Hangout marcados com antecedência. Também organizamos um backlog em Spreadsheets pois há sempre questões em triagem aparecendo que não se encaixam exatamenet como issue em nenhum de nossos repositórios. Temos um canal chamado **#dailyremoremeeting** em que podemos fazer de forma assíncrona a comunicação do que fizemos, o que pretendemos fazer e se há algo nos impedindo.
+Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório com projetos e milestones quando necessário. Toda a comunicação é feita através de Slack e Google Hangout marcados com antecedência. Fazemos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets pois há sempre questões em triagem aparecendo que não se encaixam exatamenet como issue em nenhum de nossos repositórios. Temos um canal chamado **#dailyremoremeeting** em que podemos fazer de forma assíncrona a comunicação do que fizemos, o que pretendemos fazer e se há algo nos impedindo.
+
+E estamos contantemente explorando. Contantemente apresendendo.
+
 ## Time atual
 
 <a href="https://github.com/atmasuko">
