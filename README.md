@@ -24,9 +24,7 @@ Alguns destaques:
 
 Temos uma apresentação em que falamos muito do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
 
-<div align="center" width="50">
-
-[![Nexo de código aberto](https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s)
+<div align="center">
 
 <a href="https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s" target="_blank" title="Nexo de código aberto" alt="Nexo de código aberto"><img src="https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg" alt="Nexo de código aberto"   style="max-width:50%;"/></a>
 
