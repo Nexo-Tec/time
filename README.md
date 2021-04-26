@@ -24,11 +24,11 @@ Alguns destaques:
 
 Temos uma apresentação em que falamos muito do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
 
-<div align="center">
+<p align="middle">
 
-<a href="https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s" target="_blank" title="Nexo de código aberto" alt="Nexo de código aberto"><img src="https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg" alt="Nexo de código aberto"   style="max-width:50%;"/></a>
+<a href="https://www.youtube.com/watch?v=rdpReYuxI5M&t=2s" target="_blank" title="Nexo de código aberto" alt="Nexo de código aberto"><img src="https://i.ytimg.com/vi/rdpReYuxI5M/maxresdefault.jpg" alt="Nexo de código aberto" width="450px"/></a>
 
-</div>
+</p>
 
 Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por ser um time relativamente pequeno nossa proposta para elevar nossa produtividade é o uso dos benefícios de uma adoção de arquiteturas Cloud e serverless, fazendo uso de serviços gerenciados.
 
