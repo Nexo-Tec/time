@@ -30,7 +30,7 @@ Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnolo
 
 </p>
 
-Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por ser um time relativamente pequeno, nossa proposta para elevar a produtividade é usufruir dos benefícios de arquiteturas Cloud e serverless, utilizando serviços gerenciados.
+Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por sermos um time relativamente pequeno, nossa proposta para elevar a produtividade é usufruir dos benefícios de arquiteturas Cloud e serverless, utilizando serviços gerenciados.
 
 Fazemos regulamente **Imersões** em tópicos nos quais o time precisa se aprofundar, com sessões explorando sistemas genéricos ou um tipo de implementação. Uma prática que tem se mostrado cada vez mais essencial com o trabalho remoto é o _mob programming_, como programação em par, mas com todos programando juntos uma mesma funcionalidade e desenvolvendo uma prova de conceito.
 
