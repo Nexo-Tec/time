@@ -1,4 +1,4 @@
-# Vagas abertas - Maio 2021
+# Vagas Abertas - Maio 2021
 
 > Esta  é uma forma experimental de contratação de desenvolvedores que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las.
 
@@ -6,7 +6,7 @@
 - Salário: Queremos explorar várias possibilidades de níveis de senioridade, mas o valor inicial CLT é de R$ 3.500,000/mês com plano de saúde e vale alimentação incluídos.  
 - Modalidade: Trabalho remoto.
 
-## Perfis buscados
+## Perfil Desejado
 
 Somos um time _lean_. Não temos divisões de _squads_ e todos em _teoria_ são capazes de trabalhar em qualquer parte de nosso sistema. Mas cada pessoa possui suas particularidades e pontos fracos. Geralmente nos dividimos em:
 
