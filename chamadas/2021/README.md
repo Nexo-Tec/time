@@ -37,7 +37,7 @@ O que queremos entender é: em que parte, como pessoa desenvolvedora, você se e
 
 - A tecnologia é essencialmente apolítica, devendo sempre se manter numa posição de neutralidade.
 - Você prefere trabalhar em projetos novos. Mexer em código legado é perda de tempo. É sempre melhor começar do zero.
-- Você não costuma lidar bem com projetos que apresentam incertezas ou possuam mudanças inesperadas de última hora (sempre é claro, alterando nossas entregas).
+- Você não costuma lidar bem com projetos que apresentam incertezas ou possuam mudanças inesperadas de última hora (sempre, é claro, alterando nossas entregas).
   
 ## Como se candidatar
 
