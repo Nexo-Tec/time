@@ -96,11 +96,11 @@ E estamos contantemente explorando. Contantemente apresendendo.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tecendo as políticas de saúde](https://www.nexojornal.com.br/externo/2021/04/25/Tecendo-as-pol%C3%ADticas-de-sa%C3%BAde)
-- [As ‘comorbidades políticas’ da América Latina na pandemia](https://www.nexojornal.com.br/entrevista/2021/04/25/As-%E2%80%98comorbidades-pol%C3%ADticas%E2%80%99-da-Am%C3%A9rica-Latina-na-pandemia)
-- [Desigualdade de gênero e raça: o perfil da pobreza na crise](https://www.nexojornal.com.br/expresso/2021/04/25/Desigualdade-de-g%C3%AAnero-e-ra%C3%A7a-o-perfil-da-pobreza-na-crise)
-- [A primeira gravação de Joni Mitchell, ícone da música folk](https://www.nexojornal.com.br/expresso/2021/04/24/A-primeira-grava%C3%A7%C3%A3o-de-Joni-Mitchell-%C3%ADcone-da-m%C3%BAsica-folk)
-- [5 livros de autores africanos que me revelaram a África](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autores-africanos-que-me-revelaram-a-%C3%81frica)
+- [Quais os pontos de pressão sobre o governo na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/04/26/Quais-os-pontos-de-press%C3%A3o-sobre-o-governo-na-CPI-da-Covid)
+- [O aumento na fortuna dos bilionários durante a pandemia](https://www.nexojornal.com.br/grafico/2021/04/26/O-aumento-na-fortuna-dos-bilion%C3%A1rios-durante-a-pandemia)
+- [O projeto paulista que veta a diversidade sexual na publicidade](https://www.nexojornal.com.br/expresso/2021/04/26/O-projeto-paulista-que-veta-a-diversidade-sexual-na-publicidade)
+- [A saga dos livros ‘Shadow and bone’ até virar série](https://www.nexojornal.com.br/expresso/2021/04/26/A-saga-dos-livros-%E2%80%98Shadow-and-bone%E2%80%99-at%C3%A9-virar-s%C3%A9rie)
+- [As CPIs têm história longa e nem sempre eficiente no Brasil](https://www.nexojornal.com.br/colunistas/2021/As-CPIs-t%C3%AAm-hist%C3%B3ria-longa-e-nem-sempre-eficiente-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
