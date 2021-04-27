@@ -4,7 +4,7 @@
 
 ## Quem somos
 
-Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e também operamos o sistema de gestão de identidades e de assinaturas de nosso jornal.
+Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e também operamos o sistema de gestão de identidades e de assinaturas do nosso jornal.
 
 Alguns destaques:
 
@@ -22,7 +22,7 @@ Alguns destaques:
 
 ## Cultura
 
-Temos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
+Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
 
 <p align="middle">
 
@@ -38,13 +38,13 @@ Seguindo as recomendações do [State of DevOps 2019](https://services.google.co
 
 ![Healthcheck](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/hc.png)
 
-E como todos os times nesses tempos de pandemia pelos quais passamos, a sensação de produtividade é algo que afeta a todos. Se alguém tiver um item negativado, um polegar negativo, todo o time fica junta e tentamos resolver a questão.
+E como todos os times nesses tempos de pandemia pelos quais atravessamos, a sensação de baixa produtividade é algo que afeta todos nós. Por isso, caso alguém apresente um item negativado, um polegar negativo, todo o time se une e tentamos resolver a questão conjuntamente.
 
 ![Processos](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/process.png)
 
-Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório com projetos e milestones quando necessário. Toda a comunicação é feita através de Slack e Google Hangout marcados com antecedência. Fazemos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets pois há sempre questões em triagem aparecendo que não se encaixam exatamenet como issue em nenhum de nossos repositórios. Temos um canal chamado **#dailyremoremeeting** em que podemos fazer de forma assíncrona a comunicação do que fizemos, o que pretendemos fazer e se há algo nos impedindo.
+Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório, com projetos e milestones quando necessário. Toda a comunicação é feita através do Slack e Google Hangout, marcados com antecedência. Realizamos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets, pois há sempre questões em triagem aparecendo que não se encaixam exatamente como issue em nenhum dos nossos repositórios. Temos também um canal no Slack chamado **#dailyremoremeeting** em que podemos fazer, de forma assíncrona, a comunicação do que fizemos anteriormente, o que pretendemos fazer ao longo do dia e se há algum bloqueio pessoal naquela data.
 
-E estamos contantemente explorando. Contantemente apresendendo.
+Estamos contantemente explorando. E aprendendo constantemente.
 
 ## Time atual
 
