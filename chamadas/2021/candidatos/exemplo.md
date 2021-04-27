@@ -21,7 +21,7 @@ Este arquivo é em [markdown](https://guides.github.com/features/mastering-markd
 - Inspiração: cite pessoas que te inspiram - Não precisa ser necessariamente da área de tecnologia
 - Tecnologia que mais gostaria de trabalhar
 - Possui algum projeto que gostaria de executar?
-- "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo, e seu papel hoje na sociedade em meio ao cenário de fake news e notícias adversariais? Nos diga brevemente qual a sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento).
+- "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news e notícias adversariais? Nos diga brevemente qual a sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento).
 - E-mail e celular para contato. Iremos preferencialmente manter toda a comunicação por e-mail
 
 Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento de dados para os propósitos desta chamada:
