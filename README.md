@@ -4,14 +4,14 @@
 
 ## Quem somos
 
-Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças mais interativas, por exemplo. Além disso, criamos matérias em colaboração com a redação e também operamos o sistema de gestão de identidades e de assinaturas de nosso jornal.
+Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e também operamos o sistema de gestão de identidades e de assinaturas de nosso jornal.
 
 Alguns destaques:
 
 - [Melhor site ou serviço móvel de notícias](https://events.wan-ifra.org/events/latam-digital-media-awards-2017/content/1637)
 - [General Excellence in Online Journalism - Small Newsroom](https://awards.journalists.org/winners/2017/)
 - [Terceiro lugar em matéria de Ciência e Saúde em português pela cobertura da pandemia](https://www.icfj.org/news/journalists-icfj-network-honored-pandemic-coverage-five-languages) com o especial sobre a [história do SUS](https://www.nexojornal.com.br/especial/2020/04/28/O-passado-o-presente-e-o-futuro-do-SUS-para-ler-guardar-e-consultar).
-- Nosso time foi destaque no [blog da AWS sobre nossa forma de utilizar a Cloud](https://aws.amazon.com/pt/blogs/startups/news-startup-nexo-runs-a-lean-tech-team-by-leveraging-aws-and-amplify/)
+- Nosso time foi destaque no [blog da AWS sobre a nossa forma de utilizar a Cloud](https://aws.amazon.com/pt/blogs/startups/news-startup-nexo-runs-a-lean-tech-team-by-leveraging-aws-and-amplify/)
 
 ## Stack
 
@@ -22,7 +22,7 @@ Alguns destaques:
 
 ## Cultura
 
-Temos uma apresentação em que falamos muito do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
+Temos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
 
 <p align="middle">
 
@@ -30,11 +30,11 @@ Temos uma apresentação em que falamos muito do alinhamento da equipe de tecnol
 
 </p>
 
-Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por ser um time relativamente pequeno nossa proposta para elevar nossa produtividade é o uso dos benefícios de uma adoção de arquiteturas Cloud e serverless, fazendo uso de serviços gerenciados.
+Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por ser um time relativamente pequeno, nossa proposta para elevar a produtividade é usufruir dos benefícios de arquiteturas Cloud e serverless, utilizando serviços gerenciados.
 
-Fazemos regulamente **Imersões**, em tópicos nos quais o time precisa se aprofundar com sessões explorando sistemas genéricos ou um tipo de implementação. Uma prática que tem se mostrado cada vez mais essencial, com o trabalho remoto é o _mob programming_, como programação em par mas com todos programando juntos uma mesma funcionalidade, desenvolvendo uma prova de conceito e outros.
+Fazemos regulamente **Imersões** em tópicos nos quais o time precisa se aprofundar, com sessões explorando sistemas genéricos ou um tipo de implementação. Uma prática que tem se mostrado cada vez mais essencial com o trabalho remoto é o _mob programming_, como programação em par, mas com todos programando juntos uma mesma funcionalidade e desenvolvendo uma prova de conceito.
 
-Seguindo as recomendações do [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) estamos adotando uma estratégia de melhorar nossa produtividade em contraposição com SDO e performance organizacional, por nosso time ser menor e por poder focar nossas energias em táticas bem definidas. E tudo começa pela segurança emocional do time que é o item mais importante de nossos _healthchecks_ mensais.
+Seguindo as recomendações do [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), e como nosso time é reduzido e focamos nossas energias em táticas bem definidas, buscamos adotar uma estratégia de aprimorar nossa produtividade em contraposição ao SDO e performance organizacional. Claro, tudo começa pela segurança emocional do time, considerado o item mais importante de nossos _healthchecks_ mensais.
 
 ![Healthcheck](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/hc.png)
 
