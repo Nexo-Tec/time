@@ -44,7 +44,7 @@ E como todos os times nesses tempos de pandemia pelos quais atravessamos, a sens
 
 Hoje nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório, com projetos e milestones quando necessário. Toda a comunicação é feita através do Slack e Google Hangout, marcados com antecedência. Realizamos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets, pois há sempre questões em triagem aparecendo que não se encaixam exatamente como issue em nenhum dos nossos repositórios. Temos também um canal no Slack chamado **#dailyremoremeeting** em que podemos fazer, de forma assíncrona, a comunicação do que fizemos anteriormente, o que pretendemos fazer ao longo do dia e se há algum bloqueio pessoal naquela data.
 
-Estamos contantemente explorando. E aprendendo constantemente.
+Estamos contantemente explorando. E aprendendo diariamente.
 
 ## Time atual
 
