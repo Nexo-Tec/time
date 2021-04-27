@@ -4,7 +4,7 @@
 
 ## Quem somos
 
-Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). O time já desempenhou diversos papéis mas sempre estratégicos e fundamentais para o jornal. Cuidamos dos **CMSs**, exploramos peças mais interativas e criamos matérias em colaboração com a redação e também operamos o sistema de gestão de identidades e de assinaturas de nosso jornal.
+Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças mais interativas, por exemplo. Além disso, criamos matérias em colaboração com a redação e também operamos o sistema de gestão de identidades e de assinaturas de nosso jornal.
 
 Alguns destaques:
 
