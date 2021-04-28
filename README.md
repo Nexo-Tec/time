@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O documentário que resgata a história do ‘Woodstock negro’](https://www.nexojornal.com.br/expresso/2021/04/27/O-document%C3%A1rio-que-resgata-a-hist%C3%B3ria-do-%E2%80%98Woodstock-negro%E2%80%99)
-- [O potencial de Renan Calheiros para fustigar Bolsonaro](https://www.nexojornal.com.br/podcast/2021/04/27/O-potencial-de-Renan-Calheiros-para-fustigar-Bolsonaro)
-- [A cidade no Japão feita para a circulação de veículos sem motorista](https://www.nexojornal.com.br/expresso/2021/04/27/A-cidade-no-Jap%C3%A3o-feita-para-a-circula%C3%A7%C3%A3o-de-ve%C3%ADculos-sem-motorista)
-- [Os Manuscritos do Mar Morto analisados por inteligência artificial](https://www.nexojornal.com.br/expresso/2021/04/27/Os-Manuscritos-do-Mar-Morto-analisados-por-intelig%C3%AAncia-artificial)
-- [Por que a política de privacidade da Apple atrapalha o Facebook](https://www.nexojornal.com.br/expresso/2021/04/27/Por-que-a-pol%C3%ADtica-de-privacidade-da-Apple-atrapalha-o-Facebook)
+- [Quais os pontos de pressão sobre o governo na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/04/26/Quais-os-pontos-de-press%C3%A3o-sobre-o-governo-na-CPI-da-Covid)
+- [O aumento na fortuna dos bilionários durante a pandemia](https://www.nexojornal.com.br/grafico/2021/04/26/O-aumento-na-fortuna-dos-bilion%C3%A1rios-durante-a-pandemia)
+- [O projeto paulista que veta a diversidade sexual na publicidade](https://www.nexojornal.com.br/expresso/2021/04/26/O-projeto-paulista-que-veta-a-diversidade-sexual-na-publicidade)
+- [A saga dos livros ‘Shadow and bone’ até virar série](https://www.nexojornal.com.br/expresso/2021/04/26/A-saga-dos-livros-%E2%80%98Shadow-and-bone%E2%80%99-at%C3%A9-virar-s%C3%A9rie)
+- [As CPIs têm história longa e nem sempre eficiente no Brasil](https://www.nexojornal.com.br/colunistas/2021/As-CPIs-t%C3%AAm-hist%C3%B3ria-longa-e-nem-sempre-eficiente-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
