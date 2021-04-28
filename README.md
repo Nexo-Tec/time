@@ -22,7 +22,7 @@ Alguns destaques:
 
 ## Cultura
 
-Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver.
+Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver. Recomendamos que assista ao vídeo abaixo para se familiarizar com a cultura de trabalho que sustenta nossa equipe.
 
 <p align="middle">
 
