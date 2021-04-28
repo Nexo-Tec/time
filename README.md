@@ -34,7 +34,7 @@ Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [W
 
 Fazemos regulamente **Imersões** em tópicos nos quais o time precisa se aprofundar, com sessões explorando sistemas genéricos ou um tipo de implementação. Uma prática que tem se mostrado cada vez mais essencial com o trabalho remoto é o _mob programming_, como programação em par, mas com todos programando juntos uma mesma funcionalidade e desenvolvendo uma prova de conceito.
 
-Seguindo as recomendações do [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), e como nosso time é reduzido e focamos nossas energias em táticas bem definidas, buscamos adotar uma estratégia de aprimorar nossa produtividade em contraposição ao SDO e performance organizacional. Claro, tudo começa pela segurança emocional do time, considerado o item mais importante de nossos _healthchecks_ mensais.
+Seguindo as recomendações do [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), e levando em consideração que nosso time é reduzido e focado em táticas bem definidas, buscamos adotar uma estratégia de aprimorar nossa produtividade em contraposição ao SDO e performance organizacional. Claro, tudo começa pela segurança emocional do time, considerado o item mais importante de nossos _healthchecks_ mensais.
 
 ![Healthcheck](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/hc.png)
 
