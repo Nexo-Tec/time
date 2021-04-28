@@ -106,10 +106,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sábado é sempre um pouco pior](http://gamarevista.uol.com.br/colunistas/letrux/sabado-e-sempre-um-pouco-pior/)
 - [Technics SL-1200](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/technics-sl-1200/)
 - [Já pensou em ser flexitariano?](http://gamarevista.uol.com.br/estilo-de-vida/saude/ja-pensou-em-ser-flexitariano/)
 - [Defesas](http://gamarevista.uol.com.br/colunistas/winnie-bueno/defesas/)
 - [@jef.delgado](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jef-delgado/)
-- [Valéria Tinoco: “A dor do luto é o outro lado do amor”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/valeria-tinoco-qual-a-sua-dor/)
 <!-- GAMA_LIST:END -->
 
