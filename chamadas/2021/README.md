@@ -41,7 +41,7 @@ O que queremos entender é: em que parte, como pessoa desenvolvedora, você se e
   
 ## Como se candidatar
 
-O primeiro passo é fazer um fork deste repositório. Em sua cópia do nosso repositório, crie um arquivo markdown com seu nome na pasta `chamadas/2021/candidatos` utilizando o seu usuário como título. Por exemplo, o usuário do Ibrahim é [ibrahimcesar](https://github.com/ibrahimcesar), ele criaria `ibrahimcesar.md` nesta pasta.
+O primeiro passo é fazer um fork deste repositório. Em sua cópia do nosso repositório, crie um arquivo markdown com seu nome na pasta `chamadas/2021/candidaturas` utilizando o seu usuário como título. Por exemplo, o usuário do Ibrahim é [ibrahimcesar](https://github.com/ibrahimcesar), ele criaria `ibrahimcesar.md` nesta pasta.
 
 ### Choose your own adventure
 
