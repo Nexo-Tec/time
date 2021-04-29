@@ -116,5 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A inclusão de pessoas com deficiência na educação](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-inclus%C3%A3o-de-pessoas-com-defici%C3%AAncia-na-educa%C3%A7%C3%A3o)
+- [Agropecuária sustentável na Caatinga em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/Agropecu%C3%A1ria-sustent%C3%A1vel-na-Caatinga-em-6-pontos)
+- [Arthur Bragança: agricultura e desmatamento](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/04/27/Arthur-Bragan%C3%A7a-agricultura-e-desmatamento)
+- [5 pontos sobre os benefícios para a primeira infância do controle emocional dos pais](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/5-pontos-sobre-os-benef%C3%ADcios-para-a-primeira-inf%C3%A2ncia-do-controle-emocional-dos-pais)
+- [7 pontos sobre a vacinação contra a covid-19](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/7-pontos-sobre-a-vacina%C3%A7%C3%A3o-contra-a-covid-19)
 <!-- PP_LIST:END -->
 
