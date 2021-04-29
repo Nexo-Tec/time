@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como ser mais proativo no trabalho](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ser-mais-proativo-no-trabalho/)
 - [Entre a Flor e a Pistola](http://gamarevista.uol.com.br/formato/conversas/entre-a-flor-e-a-pistola/)
 - [Sábado é sempre um pouco pior](http://gamarevista.uol.com.br/colunistas/letrux/sabado-e-sempre-um-pouco-pior/)
 - [Technics SL-1200](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/technics-sl-1200/)
 - [Já pensou em ser flexitariano?](http://gamarevista.uol.com.br/estilo-de-vida/saude/ja-pensou-em-ser-flexitariano/)
-- [Defesas](http://gamarevista.uol.com.br/colunistas/winnie-bueno/defesas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
