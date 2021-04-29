@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O documentário que resgata a história do ‘Woodstock negro’](https://www.nexojornal.com.br/expresso/2021/04/27/O-document%C3%A1rio-que-resgata-a-hist%C3%B3ria-do-%E2%80%98Woodstock-negro%E2%80%99)
-- [O potencial de Renan Calheiros para fustigar Bolsonaro](https://www.nexojornal.com.br/podcast/2021/04/27/O-potencial-de-Renan-Calheiros-para-fustigar-Bolsonaro)
-- [A cidade no Japão feita para a circulação de veículos sem motorista](https://www.nexojornal.com.br/expresso/2021/04/27/A-cidade-no-Jap%C3%A3o-feita-para-a-circula%C3%A7%C3%A3o-de-ve%C3%ADculos-sem-motorista)
-- [Os Manuscritos do Mar Morto analisados por inteligência artificial](https://www.nexojornal.com.br/expresso/2021/04/27/Os-Manuscritos-do-Mar-Morto-analisados-por-intelig%C3%AAncia-artificial)
-- [Por que a política de privacidade da Apple atrapalha o Facebook](https://www.nexojornal.com.br/expresso/2021/04/27/Por-que-a-pol%C3%ADtica-de-privacidade-da-Apple-atrapalha-o-Facebook)
+- [Brasil, 400 mil mortos: quais as chances de novas ondas](https://www.nexojornal.com.br/expresso/2021/04/28/Brasil-400-mil-mortos-quais-as-chances-de-novas-ondas)
+- [Quais os marcos dos primeiros 100 dias de Biden na Casa Branca](https://www.nexojornal.com.br/expresso/2021/04/28/Quais-os-marcos-dos-primeiros-100-dias-de-Biden-na-Casa-Branca)
+- [‘Bidenomics’: opção pragmática pelo radicalismo](https://www.nexojornal.com.br/colunistas/2021/%E2%80%98Bidenomics%E2%80%99-op%C3%A7%C3%A3o-pragm%C3%A1tica-pelo-radicalismo)
+- [Spotify, 15 anos. O que você sabe sobre a plataforma?](https://www.nexojornal.com.br/interativo/2021/04/28/Spotify-15-anos.-O-que-voc%C3%AA-sabe-sobre-a-plataforma)
+- [O artista que cria capas de autobiografias de anônimos](https://www.nexojornal.com.br/expresso/2021/04/28/O-artista-que-cria-capas-de-autobiografias-de-an%C3%B4nimos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
