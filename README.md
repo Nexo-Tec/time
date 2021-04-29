@@ -113,3 +113,8 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Defesas](http://gamarevista.uol.com.br/colunistas/winnie-bueno/defesas/)
 <!-- GAMA_LIST:END -->
 
+### Nexo Políticas Públicas
+
+<!-- PP_LIST:START -->
+<!-- PP_LIST:END -->
+
