@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sente à mesa brasileira](http://gamarevista.uol.com.br/pessoas/uma-turma/sente-a-mesa-brasileira/)
+- [Continuo Preta](http://gamarevista.uol.com.br/cultura/trecho-de-livro/continuo-preta/)
 - [O novo vídeo dos Chemical Brothers](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-novo-video-dos-chemical-brothers/)
 - [Histórias esquecidas do futebol feminino](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/historias-esquecidas-do-futebol-feminino/)
 - [Uma animação para dormir melhor](http://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-animacao-para-dormir-melhor/)
-- [Terapia de (outros) casais](http://gamarevista.uol.com.br/achamos-que-vale/assistir/terapia-de-outros-casais/)
-- [Uma revista epistolar](http://gamarevista.uol.com.br/achamos-que-vale/ler/uma-revista-epistolar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
