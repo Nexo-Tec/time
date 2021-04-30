@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais são as contestações ao ‘Projeto de Lei da Grilagem’](https://www.nexojornal.com.br/expresso/2021/04/29/Quais-s%C3%A3o-as-contesta%C3%A7%C3%B5es-ao-%E2%80%98Projeto-de-Lei-da-Grilagem%E2%80%99)
 - [Brasil, 400 mil mortos: quais as chances de novas ondas](https://www.nexojornal.com.br/expresso/2021/04/28/Brasil-400-mil-mortos-quais-as-chances-de-novas-ondas)
 - [Quais os marcos dos primeiros 100 dias de Biden na Casa Branca](https://www.nexojornal.com.br/expresso/2021/04/28/Quais-os-marcos-dos-primeiros-100-dias-de-Biden-na-Casa-Branca)
 - [‘Bidenomics’: opção pragmática pelo radicalismo](https://www.nexojornal.com.br/colunistas/2021/%E2%80%98Bidenomics%E2%80%99-op%C3%A7%C3%A3o-pragm%C3%A1tica-pelo-radicalismo)
 - [Spotify, 15 anos. O que você sabe sobre a plataforma?](https://www.nexojornal.com.br/interativo/2021/04/28/Spotify-15-anos.-O-que-voc%C3%AA-sabe-sobre-a-plataforma)
+- [O artista que cria capas de autobiografias de anônimos](https://www.nexojornal.com.br/expresso/2021/04/28/O-artista-que-cria-capas-de-autobiografias-de-an%C3%B4nimos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
