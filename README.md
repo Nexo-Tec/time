@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a troca constante de cargos de chefia ameaça o Inep](https://www.nexojornal.com.br/expresso/2021/04/29/Como-a-troca-constante-de-cargos-de-chefia-amea%C3%A7a-o-Inep)
-- [400 mil perdas no Brasil: por que parece que normalizamos a morte](https://www.nexojornal.com.br/expresso/2021/04/29/400-mil-perdas-no-Brasil-por-que-parece-que-normalizamos-a-morte)
-- [O Oscar de Chloé Zhao e as relações entre cinema e política](https://www.nexojornal.com.br/ensaio/2021/O-Oscar-de-Chlo%C3%A9-Zhao-e-as-rela%C3%A7%C3%B5es-entre-cinema-e-pol%C3%ADtica)
-- [Europa: os critérios e as polêmicas do passaporte vacinal](https://www.nexojornal.com.br/podcast/2021/04/29/Europa-os-crit%C3%A9rios-e-as-pol%C3%AAmicas-do-passaporte-vacinal)
-- [O mapa de opções veganas em restaurantes do país](https://www.nexojornal.com.br/expresso/2021/04/29/O-mapa-de-op%C3%A7%C3%B5es-veganas-em-restaurantes-do-pa%C3%ADs)
+- [Como historiadores montam acervos com registros da pandemia](https://www.nexojornal.com.br/expresso/2021/04/30/Como-historiadores-montam-acervos-com-registros-da-pandemia)
+- [A rave que vai testar os protocolos de reabertura na Inglaterra](https://www.nexojornal.com.br/expresso/2021/04/30/A-rave-que-vai-testar-os-protocolos-de-reabertura-na-Inglaterra)
+- [A morte dos inocentes: crianças como alvo de violência](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-morte-dos-inocentes-crian%C3%A7as-como-alvo-de-viol%C3%AAncia)
+- [Blaxploitation: a música do cinema negro americano](https://www.nexojornal.com.br/podcast/2021/04/30/Blaxploitation-a-m%C3%BAsica-do-cinema-negro-americano)
+- [Polarização em 2022 e a assimetria que poucos enxergam](https://www.nexojornal.com.br/ensaio/2021/Polariza%C3%A7%C3%A3o-em-2022-e-a-assimetria-que-poucos-enxergam)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
