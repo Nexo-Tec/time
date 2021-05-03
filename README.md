@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carta a Fernanda Young](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-fernanda-young/)
 - [@nao_tatsumi](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nao_tatsumi/)
 - [Francisco S. Guimarães:”O Brasil tem grande tradição na pesquisa do canabidiol”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/francisco-s-guimaraeso-hora-da-maconha/)
 - [Bel Coelho](http://gamarevista.uol.com.br/pessoas/questionario-proust/bel-coelho/)
 - [Sente à mesa brasileira](http://gamarevista.uol.com.br/pessoas/uma-turma/sente-a-mesa-brasileira/)
-- [Continuo Preta](http://gamarevista.uol.com.br/cultura/trecho-de-livro/continuo-preta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
