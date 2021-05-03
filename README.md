@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A estrutura de receitas e gastos dos municípios em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-estrutura-de-receitas-e-gastos-dos-munic%C3%ADpios-em-6-pontos)
-- [9 conceitos para entender a pandemia](https://pp.nexojornal.com.br/glossario/9-conceitos-para-entender-a-pandemia)
-- [Quais os efeitos de pequenas intervenções para reduzir o uso de água e energia](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/Quais-os-efeitos-de-pequenas-interven%C3%A7%C3%B5es-para-reduzir-o-uso-de-%C3%A1gua-e-energia)
-- [O sertanejo é, antes de tudo, um caatingueiro](https://pp.nexojornal.com.br/opiniao/2021/O-sertanejo-%C3%A9-antes-de-tudo-um-caatingueiro)
 - [As desigualdades na educação ressaltadas pela pandemia](https://pp.nexojornal.com.br/Dados/2021/04/29/As-desigualdades-na-educa%C3%A7%C3%A3o-ressaltadas-pela-pandemia)
+- [A inclusão de pessoas com deficiência na educação](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-inclus%C3%A3o-de-pessoas-com-defici%C3%AAncia-na-educa%C3%A7%C3%A3o)
+- [Agropecuária sustentável na Caatinga em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/Agropecu%C3%A1ria-sustent%C3%A1vel-na-Caatinga-em-6-pontos)
+- [Arthur Bragança: agricultura e desmatamento](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/04/27/Arthur-Bragan%C3%A7a-agricultura-e-desmatamento)
+- [5 pontos sobre os benefícios para a primeira infância do controle emocional dos pais](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/5-pontos-sobre-os-benef%C3%ADcios-para-a-primeira-inf%C3%A2ncia-do-controle-emocional-dos-pais)
 <!-- PP_LIST:END -->
 
