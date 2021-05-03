@@ -110,7 +110,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [@nao_tatsumi](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nao_tatsumi/)
 - [Francisco S. Guimarães:”O Brasil tem grande tradição na pesquisa do canabidiol”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/francisco-s-guimaraeso-hora-da-maconha/)
 - [Bel Coelho](http://gamarevista.uol.com.br/pessoas/questionario-proust/bel-coelho/)
-- [Sente à mesa brasileira](http://gamarevista.uol.com.br/pessoas/uma-turma/sente-a-mesa-brasileira/)
+- [Sente-se à mesa brasileira](http://gamarevista.uol.com.br/pessoas/uma-turma/sente-a-mesa-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
