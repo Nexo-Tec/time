@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conexões ultramarinas](https://www.nexojornal.com.br/externo/2021/05/02/Conex%C3%B5es-ultramarinas)
+- [Como o Brexit abala a política da Irlanda do Norte](https://www.nexojornal.com.br/expresso/2021/05/02/Como-o-Brexit-abala-a-pol%C3%ADtica-da-Irlanda-do-Norte)
+- [Por que Congresso e Supremo miram Ricardo Salles](https://www.nexojornal.com.br/expresso/2021/05/02/Por-que-Congresso-e-Supremo-miram-Ricardo-Salles)
+- [As investidas frustradas do governo no início da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/02/As-investidas-frustradas-do-governo-no-in%C3%ADcio-da-CPI-da-Covid)
 - [A coletânea que reúne as primeiras gravações realizadas no Japão](https://www.nexojornal.com.br/expresso/2021/05/01/A-colet%C3%A2nea-que-re%C3%BAne-as-primeiras-grava%C3%A7%C3%B5es-realizadas-no-Jap%C3%A3o)
-- [Os sonhos e dificuldades da ‘economia dos criadores’](https://www.nexojornal.com.br/expresso/2021/05/01/Os-sonhos-e-dificuldades-da-%E2%80%98economia-dos-criadores%E2%80%99)
-- [O site que mostra quais dados faltam na vacinação no país](https://www.nexojornal.com.br/expresso/2021/05/01/O-site-que-mostra-quais-dados-faltam-na-vacina%C3%A7%C3%A3o-no-pa%C3%ADs)
-- [‘De patinho feio, o SUS virou um cisne sem recursos’](https://www.nexojornal.com.br/entrevista/2021/05/01/%E2%80%98De-patinho-feio-o-SUS-virou-um-cisne-sem-recursos%E2%80%99)
-- [O que faz de Sobral a capital da educação brasileira](https://www.nexojornal.com.br/ensaio/2021/O-que-faz-de-Sobral-a-capital-da-educa%C3%A7%C3%A3o-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
