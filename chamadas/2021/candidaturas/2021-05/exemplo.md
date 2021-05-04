@@ -1,6 +1,6 @@
 # Seu nome
 
-> Desenvolvedor* ... faça uma breve descrição de você!
+> Desenvolvedor* ... faça uma breve descrição sobre você!
 
 ## Seu desafio
 
