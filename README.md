@@ -1,17 +1,17 @@
 # Nexo Tecnologia
 
-> Temos três vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
+> Temos 3 (três) vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
 
 ## Quem somos
 
-Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e também operamos o sistema de gestão de identidades e de assinaturas do nosso jornal.
+Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do Jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e operamos o sistema de gestão de identidades e assinaturas do nosso Jornal.
 
 Alguns destaques:
 
 - [Melhor site ou serviço móvel de notícias](https://events.wan-ifra.org/events/latam-digital-media-awards-2017/content/1637)
 - [General Excellence in Online Journalism - Small Newsroom](https://awards.journalists.org/winners/2017/)
 - [Terceiro lugar em matéria de Ciência e Saúde em português pela cobertura da pandemia](https://www.icfj.org/news/journalists-icfj-network-honored-pandemic-coverage-five-languages) com o especial sobre a [história do SUS](https://www.nexojornal.com.br/especial/2020/04/28/O-passado-o-presente-e-o-futuro-do-SUS-para-ler-guardar-e-consultar).
-- Nosso time foi destaque no [blog da AWS sobre a nossa forma de utilizar a Cloud](https://aws.amazon.com/pt/blogs/startups/news-startup-nexo-runs-a-lean-tech-team-by-leveraging-aws-and-amplify/)
+- Nosso time de tecnologia foi destaque no [blog da AWS sobre a nossa forma de utilizar a Cloud](https://aws.amazon.com/pt/blogs/startups/news-startup-nexo-runs-a-lean-tech-team-by-leveraging-aws-and-amplify/)
 
 ## Stack
 
@@ -22,7 +22,7 @@ Alguns destaques:
 
 ## Cultura
 
-Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos desenvolver. Recomendamos que assista ao vídeo abaixo para se familiarizar com a cultura de trabalho que sustenta nossa equipe.
+Possuímos uma apresentação em que falamos sobre o alinhamento da equipe de tecnologia com o time e a cultura de desenvolvimento que buscamos promover. Recomendamos que assista ao vídeo abaixo para se familiarizar com a cultura de trabalho que sustenta nossa equipe.
 
 <p align="middle">
 
@@ -30,19 +30,19 @@ Possuímos uma apresentação em que falamos do alinhamento da equipe de tecnolo
 
 </p>
 
-Nós adotamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por sermos um time relativamente pequeno, nossa proposta para elevar a produtividade é usufruir dos benefícios de arquiteturas Cloud e serverless, utilizando serviços gerenciados.
+Nós incorporamos uma cultura de DevOps e adoção da nuvem. Procuramos aderir ao [Well-Architected Framework](https://aws.amazon.com/pt/architecture/well-architected/?nc1=h_ls&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc) com ambientes segregados e uso de IaC. Por constituirmos um time relativamente pequeno, nossa proposta para elevar a produtividade é usufruir dos benefícios de arquiteturas Cloud e serverless utilizando serviços gerenciados.
 
-Fazemos regulamente **Imersões** em tópicos nos quais o time precisa se aprofundar, com sessões explorando sistemas genéricos ou um tipo de implementação. Uma prática que tem se mostrado cada vez mais essencial com o trabalho remoto é o _mob programming_, como programação em par, mas com todos programando juntos uma mesma funcionalidade e desenvolvendo uma prova de conceito.
+Fazemos regulamente **Imersões** em tópicos nos quais o time precisa se aprofundar, com sessões explorando sistemas genéricos ou um tipo específico de implementação. Uma prática que tem se mostrado cada vez mais essencial com o trabalho remoto é o _mob programming_, como programação em par, mas com todos programando conjuntamente uma mesma funcionalidade e desenvolvendo uma prova de conceito.
 
 Seguindo as recomendações do [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), e levando em consideração que nosso time é reduzido e focado em táticas bem definidas, buscamos adotar uma estratégia de aprimorar nossa produtividade em contraposição ao SDO e performance organizacional. Claro, tudo começa pela segurança emocional do time, considerado o item mais importante de nossos _healthchecks_ mensais.
 
 ![Healthcheck](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/hc.png)
 
-E como todos os times nesses tempos de pandemia pelos quais atravessamos, a sensação de baixa produtividade é algo que afeta todos nós. Por isso, caso alguém apresente um item negativado, isto é, um polegar negativo nos _healthchecks_, todo o time se une e tentamos resolver a questão conjuntamente.
+E como a maioria das equipes nos tempos de pandemia pelos quais atravessamos, a sensação de baixa produtividade impera e pode afetar todos nós. Por isso, caso alguém apresente um item negativado, isto é, um polegar negativo nos _healthchecks_, todo o time se une e tentamos resolver a questão conjuntamente.
 
 ![Processos](https://nexo-estaticos.s3.amazonaws.com/assets/images/newsletters/tecnologia/process.png)
 
-Atualmente, nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório, com projetos e milestones quando necessário. Toda a comunicação é feita através do Slack e Google Hangout, marcados com antecedência. Realizamos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets, pois há sempre questões em triagem aparecendo que não se encaixam exatamente como issue em nenhum dos nossos repositórios. Temos também um canal no Slack chamado **#dailyremoremeeting** em que relatamos e descrevemos, de forma assíncrona, as tarefas que fizemos anteriormente, o que pretendemos fazer ao longo do dia e se há algum bloqueio pessoal naquela data específica.
+Atualmente, nosso workflow de trabalho se divide entre projetos e o dia a dia das publicações. Nosso sistema de versionamento é o Git e nos organizamos ao redor de issues em cada repositório, com projetos e milestones quando necessário. Toda a comunicação é feita por meio do Slack e Google Hangout, marcados com antecedência. Realizamos dinâmicas através do [Metro Retro](https://metroretro.io/) e discutimos estratégias e táticas de atuação. Também organizamos um backlog em Spreadsheets, pois há sempre questões em triagem aparecendo que não se encaixam exatamente como issue em nenhum dos nossos repositórios. Possuímos também um canal no Slack chamado **#dailyremoremeeting** onde relatamos e descrevemos, de forma assíncrona, as tarefas que fizemos anteriormente, o que pretendemos fazer ao longo do dia e se há algum bloqueio pessoal naquela data específica.
 
 Estamos contantemente explorando. E aprendendo diariamente.
 
