@@ -16,7 +16,7 @@ Este arquivo é em [markdown](https://guides.github.com/features/mastering-markd
 
 - Nome Completo
 - Pronome
-- Se possui dev.to, bibliotecas opensource, etc.
+- Se possui dev.to, bibliotecas open source, etc.
 - LinkedIn e link para o seu CV
 - Inspiração: cite pessoas que te inspiram - Não precisa ser necessariamente da área de tecnologia
 - Tecnologia que mais gostaria de trabalhar
