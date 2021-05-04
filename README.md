@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com mortes, sem reformas: o saldo dos protestos na Colômbia](https://www.nexojornal.com.br/expresso/2021/05/04/Com-mortes-sem-reformas-o-saldo-dos-protestos-na-Col%C3%B4mbia)
-- [O que são os Proud Boys. E como o Canadá conseguiu sua extinção](https://www.nexojornal.com.br/expresso/2021/05/04/O-que-s%C3%A3o-os-Proud-Boys.-E-como-o-Canad%C3%A1-conseguiu-sua-extin%C3%A7%C3%A3o)
-- [O crescimento no Instagram dos participantes do BBB 21](https://www.nexojornal.com.br/grafico/2021/05/04/O-crescimento-no-Instagram-dos-participantes-do-BBB-21)
 - [Como a Polícia Federal mira líderes indígenas por críticas ao governo](https://www.nexojornal.com.br/expresso/2021/05/03/Como-a-Pol%C3%ADcia-Federal-mira-l%C3%ADderes-ind%C3%ADgenas-por-cr%C3%ADticas-ao-governo)
 - [Quais as críticas de Mandetta à conduta do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/03/Quais-as-cr%C3%ADticas-de-Mandetta-%C3%A0-conduta-do-governo-Bolsonaro)
+- [A fome, o queijo e a carne mais barata do mercado](https://www.nexojornal.com.br/colunistas/2021/A-fome-o-queijo-e-a-carne-mais-barata-do-mercado)
+- [Como evoluiu o câncer que levou Bruno Covas à UTI](https://www.nexojornal.com.br/expresso/2021/05/03/Como-evoluiu-o-c%C3%A2ncer-que-levou-Bruno-Covas-%C3%A0-UTI)
+- [As tecnologias que tentam desenvolver a tradução animal](https://www.nexojornal.com.br/expresso/2021/05/03/As-tecnologias-que-tentam-desenvolver-a-tradu%C3%A7%C3%A3o-animal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
