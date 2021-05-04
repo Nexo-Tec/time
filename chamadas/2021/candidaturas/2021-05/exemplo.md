@@ -28,4 +28,4 @@ Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento 
 
 - [ ] Eu, XXXX, expresso meu pleno consentimento em compartilhar estes dados para fins do processo e estou ciente de que poderei, a qualquer momento, solicitar a exclusão destes dados, de acordo com a [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), notificando a equipe diretamente através do email _tecnologia@nexojornal.com.br_, que se compromete dentro dos prazos legais na execução de meus direitos.
 
-PS: Você pode incluir quaisquer informações extras, links e recursos que considere relevantes para os propósitos desta chamada.
+PS: Você pode incluir quaisquer informações extras, links e recursos que considere pertinentes para os propósitos desta chamada.
