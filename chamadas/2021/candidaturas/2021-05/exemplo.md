@@ -1,6 +1,6 @@
 # Seu nome
 
-> Desenvolvedor Jr. ... faça uma breve descrição sobre você!
+> Vaga para Desenvolvedor Jr. Faça uma breve descrição sobre você!
 
 ## Seu desafio
 
