@@ -3,7 +3,7 @@
 > Esta  é uma forma experimental de contratação de desenvolvedores que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las.
 
 - Número de vagas abertas: 3 (três). 
-- Salário: Queremos explorar várias possibilidades de níveis de senioridade, mas o valor inicial CLT é de R$ 3.500,000/mês com plano de saúde e vale alimentação incluídos.  
+- Salário: A depender do nível de senioridade. O valor inicial para Desenvolvedor Jr., em contrato CLT, é de R$ 3.500,00 ao mês, com benefícios (plano de saúde, vale alimentação e ajuda de custo com internet para o trabalho remoto).  
 - Modalidade: Trabalho remoto.
 
 ## Perfil Desejado
