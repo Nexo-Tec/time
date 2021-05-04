@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cancelar ou ensinar?](http://gamarevista.uol.com.br/sociedade/cancelar-ou-ensinar/)
+- [O BBB 21 e seus debates](http://gamarevista.uol.com.br/sociedade/o-bbb-21-e-seus-debates/)
 - [Carta a Fernanda Young](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-fernanda-young/)
 - [@nao_tatsumi](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nao_tatsumi/)
 - [Francisco S. Guimarães:”O Brasil tem grande tradição na pesquisa do canabidiol”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/francisco-s-guimaraeso-hora-da-maconha/)
-- [Bel Coelho](http://gamarevista.uol.com.br/pessoas/questionario-proust/bel-coelho/)
-- [Sente-se à mesa brasileira](http://gamarevista.uol.com.br/pessoas/uma-turma/sente-a-mesa-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
