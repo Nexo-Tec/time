@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as críticas de Mandetta à conduta do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/03/Quais-as-cr%C3%ADticas-de-Mandetta-%C3%A0-conduta-do-governo-Bolsonaro)
-- [A fome, o queijo e a carne mais barata do mercado](https://www.nexojornal.com.br/colunistas/2021/A-fome-o-queijo-e-a-carne-mais-barata-do-mercado)
-- [Como evoluiu o câncer que levou Bruno Covas à UTI](https://www.nexojornal.com.br/expresso/2021/05/03/Como-evoluiu-o-c%C3%A2ncer-que-levou-Bruno-Covas-%C3%A0-UTI)
-- [As tecnologias que tentam desenvolver a tradução animal](https://www.nexojornal.com.br/expresso/2021/05/03/As-tecnologias-que-tentam-desenvolver-a-tradu%C3%A7%C3%A3o-animal)
-- [A chegada dos imunizantes da Pfizer. E a pressa para vacinar](https://www.nexojornal.com.br/podcast/2021/05/03/A-chegada-dos-imunizantes-da-Pfizer.-E-a-pressa-para-vacinar)
+- [Conexões ultramarinas](https://www.nexojornal.com.br/externo/2021/05/02/Conex%C3%B5es-ultramarinas)
+- [Como o Brexit abala a política da Irlanda do Norte](https://www.nexojornal.com.br/expresso/2021/05/02/Como-o-Brexit-abala-a-pol%C3%ADtica-da-Irlanda-do-Norte)
+- [Por que Congresso e Supremo miram Ricardo Salles](https://www.nexojornal.com.br/expresso/2021/05/02/Por-que-Congresso-e-Supremo-miram-Ricardo-Salles)
+- [As investidas frustradas do governo no início da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/02/As-investidas-frustradas-do-governo-no-in%C3%ADcio-da-CPI-da-Covid)
+- [A coletânea que reúne as primeiras gravações realizadas no Japão](https://www.nexojornal.com.br/expresso/2021/05/01/A-colet%C3%A2nea-que-re%C3%BAne-as-primeiras-grava%C3%A7%C3%B5es-realizadas-no-Jap%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
