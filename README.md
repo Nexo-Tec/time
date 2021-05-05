@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os 10 anos do reconhecimento da união civil homoafetiva no Brasil](https://www.nexojornal.com.br/expresso/2021/05/04/Os-10-anos-do-reconhecimento-da-uni%C3%A3o-civil-homoafetiva-no-Brasil)
-- [Qual o lugar de Ciro Gomes com Lula na disputa presidencial](https://www.nexojornal.com.br/expresso/2021/05/04/Qual-o-lugar-de-Ciro-Gomes-com-Lula-na-disputa-presidencial)
-- [Sobre ódio e amor: comunicação em tempos de cólera](https://www.nexojornal.com.br/ensaio/2021/Sobre-%C3%B3dio-e-amor-comunica%C3%A7%C3%A3o-em-tempos-de-c%C3%B3lera1)
-- [Quais os impactos da falta da segunda dose da Coronavac](https://www.nexojornal.com.br/expresso/2021/05/04/Quais-os-impactos-da-falta-da-segunda-dose-da-Coronavac)
-- [Racismo, bifobia, cancelamento: o que que marcou o BBB 21](https://www.nexojornal.com.br/expresso/2021/05/04/Racismo-bifobia-cancelamento-o-que-que-marcou-o-BBB-21)
+- [A fotógrafa que fez carreira registrando animais filhotes](https://www.nexojornal.com.br/expresso/2021/05/05/A-fot%C3%B3grafa-que-fez-carreira-registrando-animais-filhotes)
+- [A tecnologia de monitoramento de voz registrada pelo Spotify](https://www.nexojornal.com.br/expresso/2021/05/05/A-tecnologia-de-monitoramento-de-voz-registrada-pelo-Spotify)
+- [A propaganda oficial e a realidade da vacinação no Brasil](https://www.nexojornal.com.br/podcast/2021/05/05/A-propaganda-oficial-e-a-realidade-da-vacina%C3%A7%C3%A3o-no-Brasil)
+- [A plataforma que ensina jovens sobre a crise do clima](https://www.nexojornal.com.br/expresso/2021/05/05/A-plataforma-que-ensina-jovens-sobre-a-crise-do-clima)
+- [A jornada de trabalho de 4 dias que será testada na Espanha](https://www.nexojornal.com.br/expresso/2021/05/05/A-jornada-de-trabalho-de-4-dias-que-ser%C3%A1-testada-na-Espanha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
