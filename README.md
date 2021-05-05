@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os 10 anos do reconhecimento da união civil homoafetiva no Brasil](https://www.nexojornal.com.br/expresso/2021/05/04/Os-10-anos-do-reconhecimento-da-uni%C3%A3o-civil-homoafetiva-no-Brasil)
-- [Qual o lugar de Ciro Gomes com Lula na disputa presidencial](https://www.nexojornal.com.br/expresso/2021/05/04/Qual-o-lugar-de-Ciro-Gomes-com-Lula-na-disputa-presidencial)
-- [Sobre ódio e amor: comunicação em tempos de cólera](https://www.nexojornal.com.br/ensaio/2021/Sobre-%C3%B3dio-e-amor-comunica%C3%A7%C3%A3o-em-tempos-de-c%C3%B3lera1)
-- [Quais os impactos da falta da segunda dose da Coronavac](https://www.nexojornal.com.br/expresso/2021/05/04/Quais-os-impactos-da-falta-da-segunda-dose-da-Coronavac)
-- [Racismo, bifobia, cancelamento: o que que marcou o BBB 21](https://www.nexojornal.com.br/expresso/2021/05/04/Racismo-bifobia-cancelamento-o-que-que-marcou-o-BBB-21)
+- [Com mortes, sem reformas: o saldo dos protestos na Colômbia](https://www.nexojornal.com.br/expresso/2021/05/04/Com-mortes-sem-reformas-o-saldo-dos-protestos-na-Col%C3%B4mbia)
+- [O que são os Proud Boys. E como o Canadá conseguiu sua extinção](https://www.nexojornal.com.br/expresso/2021/05/04/O-que-s%C3%A3o-os-Proud-Boys.-E-como-o-Canad%C3%A1-conseguiu-sua-extin%C3%A7%C3%A3o)
+- [O crescimento no Instagram dos participantes do BBB 21](https://www.nexojornal.com.br/grafico/2021/05/04/O-crescimento-no-Instagram-dos-participantes-do-BBB-21)
+- [Como a Polícia Federal mira líderes indígenas por críticas ao governo](https://www.nexojornal.com.br/expresso/2021/05/03/Como-a-Pol%C3%ADcia-Federal-mira-l%C3%ADderes-ind%C3%ADgenas-por-cr%C3%ADticas-ao-governo)
+- [Quais as críticas de Mandetta à conduta do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/03/Quais-as-cr%C3%ADticas-de-Mandetta-%C3%A0-conduta-do-governo-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
