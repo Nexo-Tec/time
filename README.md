@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Tribologia](http://gamarevista.uol.com.br/colunistas/marcello-dantas/tribologia/)
 - [Gloria Kalil: ‘O Planalto abriu a porta para o palavrão’](http://gamarevista.uol.com.br/sociedade/gloria-kalil-o-planalto-abriu-a-porta-para-o-palavrao/)
 - [Cadeira de Plástico](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cadeira-de-plastico/)
 - [Cancelar ou ensinar?](http://gamarevista.uol.com.br/sociedade/cancelar-ou-ensinar/)
 - [O BBB 21 e seus debates](http://gamarevista.uol.com.br/sociedade/o-bbb-21-e-seus-debates/)
-- [Carta a Fernanda Young](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-fernanda-young/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
