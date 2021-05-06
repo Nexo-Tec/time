@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Fogo no parquinho](http://gamarevista.uol.com.br/filhos/fogo-no-parquinho/)
-- [Tribologia](http://gamarevista.uol.com.br/colunistas/marcello-dantas/tribologia/)
-- [Gloria Kalil: ‘O Planalto abriu a porta para o palavrão’](http://gamarevista.uol.com.br/sociedade/gloria-kalil-o-planalto-abriu-a-porta-para-o-palavrao/)
-- [Cadeira de Plástico](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cadeira-de-plastico/)
-- [Cancelar ou ensinar?](http://gamarevista.uol.com.br/sociedade/cancelar-ou-ensinar/)
+- [‘Succession’? Não, F1](http://gamarevista.uol.com.br/achamos-que-vale/assistir/succession-nao-f1/)
+- [O álbum branco de João Gilberto](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-album-branco-de-joao-gilberto/)
+- [‘Enciclopédia Negra’ vira exposição na Pinacoteca](http://gamarevista.uol.com.br/achamos-que-vale/ir/enciclopedia-negra-vira-exposicao-na-pinacoteca/)
+- [Memórias de um relacionamento abusivo](http://gamarevista.uol.com.br/achamos-que-vale/ler/memorias-de-um-relacionamento-abusivo/)
+- [Um curso por mais democracia na internet](http://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-por-mais-democracia-na-internet/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
