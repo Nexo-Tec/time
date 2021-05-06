@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os 10 anos do reconhecimento da união civil homoafetiva no Brasil](https://www.nexojornal.com.br/expresso/2021/05/04/Os-10-anos-do-reconhecimento-da-uni%C3%A3o-civil-homoafetiva-no-Brasil)
-- [Qual o lugar de Ciro Gomes com Lula na disputa presidencial](https://www.nexojornal.com.br/expresso/2021/05/04/Qual-o-lugar-de-Ciro-Gomes-com-Lula-na-disputa-presidencial)
-- [Sobre ódio e amor: comunicação em tempos de cólera](https://www.nexojornal.com.br/ensaio/2021/Sobre-%C3%B3dio-e-amor-comunica%C3%A7%C3%A3o-em-tempos-de-c%C3%B3lera1)
-- [Quais os impactos da falta da segunda dose da Coronavac](https://www.nexojornal.com.br/expresso/2021/05/04/Quais-os-impactos-da-falta-da-segunda-dose-da-Coronavac)
-- [Racismo, bifobia, cancelamento: o que que marcou o BBB 21](https://www.nexojornal.com.br/expresso/2021/05/04/Racismo-bifobia-cancelamento-o-que-que-marcou-o-BBB-21)
+- [O projeto que substitui a Lei de Segurança Nacional sob análise](https://www.nexojornal.com.br/expresso/2021/05/05/O-projeto-que-substitui-a-Lei-de-Seguran%C3%A7a-Nacional-sob-an%C3%A1lise)
+- [CPI da Covid: o que pesa contra Bolsonaro nas falas dos ex-ministros](https://www.nexojornal.com.br/expresso/2021/05/05/CPI-da-Covid-o-que-pesa-contra-Bolsonaro-nas-falas-dos-ex-ministros)
+- [A dívida das igrejas com a União em 2021](https://www.nexojornal.com.br/grafico/2021/05/05/A-d%C3%ADvida-das-igrejas-com-a-Uni%C3%A3o-em-2021)
+- [O que nós aprendemos com as bactérias termófilas](https://www.nexojornal.com.br/colunistas/2021/O-que-n%C3%B3s-aprendemos-com-as-bact%C3%A9rias-term%C3%B3filas)
+- [A fotógrafa que fez carreira registrando animais filhotes](https://www.nexojornal.com.br/expresso/2021/05/05/A-fot%C3%B3grafa-que-fez-carreira-registrando-animais-filhotes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
