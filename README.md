@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [6 perguntas que a ciência já respondeu sobre agricultura e desenvolvimento econômico](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-agricultura-e-desenvolvimento-econ%C3%B4mico)
+- [Como salas de aula brasileiras se tornaram mais segregadas que nos EUA](https://pp.nexojornal.com.br/topico/2021/05/05/Como-salas-de-aula-brasileiras-se-tornaram-mais-segregadas-que-nos-EUA)
 - [Como cientistas brasileiras se organizam em defesa da vida das mulheres e da ciência na pandemia](https://pp.nexojornal.com.br/topico/2021/05/04/Como-cientistas-brasileiras-se-organizam-em-defesa-da-vida-das-mulheres-e-da-ci%C3%AAncia-na-pandemia)
 - [Há espaço na pandemia para discutir soluções para a crise climática?](https://pp.nexojornal.com.br/opiniao/2021/H%C3%A1-espa%C3%A7o-na-pandemia-para-discutir-solu%C3%A7%C3%B5es-para-a-crise-clim%C3%A1tica)
 - [Renato Maluf: abordagem multiescalar dos sistemas alimentares](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/04/Renato-Maluf-abordagem-multiescalar-dos-sistemas-alimentares)
-- [Os desafios do debate público sobre discursos de ódio nas redes](https://pp.nexojornal.com.br/ponto-de-vista/2021/Os-desafios-do-debate-p%C3%BAblico-sobre-discursos-de-%C3%B3dio-nas-redes)
-- [Em torno da paixão de Robson Silveira da Luz e o combate ao racismo no Brasil](https://pp.nexojornal.com.br/opiniao/2021/Em-torno-da-paix%C3%A3o-de-Robson-Silveira-da-Luz-e-o-combate-ao-racismo-no-Brasil)
 <!-- PP_LIST:END -->
 
