@@ -1,6 +1,6 @@
 # Vagas Abertas - Maio 2021
 
-> Esta  é uma forma experimental de contratação de pessoas desenvolvedoras que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las.
+> Esta  é uma forma experimental de contratação de pessoas desenvolvedoras que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las. [Saiba mais sobre o time](https://github.com/Nexo-Tec/time).
 
 - Número de vagas abertas: 3 (três). 
 - Salário: A depender do nível de senioridade. O valor inicial para Desenvolvedor Jr., em contrato CLT, é de R$ 3.500,00 ao mês, com benefícios (plano de saúde, vale alimentação e ajuda de custo com internet para o trabalho remoto).  
