@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Lua na Caixa d’Água](http://gamarevista.uol.com.br/cultura/trecho-de-livro/a-lua-na-caixa-dagua/)
 - [‘Succession’? Não, F1](http://gamarevista.uol.com.br/achamos-que-vale/assistir/succession-nao-f1/)
 - [O álbum branco de João Gilberto](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-album-branco-de-joao-gilberto/)
 - [‘Enciclopédia Negra’ vira exposição na Pinacoteca](http://gamarevista.uol.com.br/achamos-que-vale/ir/enciclopedia-negra-vira-exposicao-na-pinacoteca/)
 - [Memórias de um relacionamento abusivo](http://gamarevista.uol.com.br/achamos-que-vale/ler/memorias-de-um-relacionamento-abusivo/)
-- [Um curso por mais democracia na internet](http://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-por-mais-democracia-na-internet/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
