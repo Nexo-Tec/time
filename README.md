@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto que substitui a Lei de Segurança Nacional sob análise](https://www.nexojornal.com.br/expresso/2021/05/05/O-projeto-que-substitui-a-Lei-de-Seguran%C3%A7a-Nacional-sob-an%C3%A1lise)
-- [CPI da Covid: o que pesa contra Bolsonaro nas falas dos ex-ministros](https://www.nexojornal.com.br/expresso/2021/05/05/CPI-da-Covid-o-que-pesa-contra-Bolsonaro-nas-falas-dos-ex-ministros)
-- [A dívida das igrejas com a União em 2021](https://www.nexojornal.com.br/grafico/2021/05/05/A-d%C3%ADvida-das-igrejas-com-a-Uni%C3%A3o-em-2021)
-- [O que nós aprendemos com as bactérias termófilas](https://www.nexojornal.com.br/colunistas/2021/O-que-n%C3%B3s-aprendemos-com-as-bact%C3%A9rias-term%C3%B3filas)
-- [A fotógrafa que fez carreira registrando animais filhotes](https://www.nexojornal.com.br/expresso/2021/05/05/A-fot%C3%B3grafa-que-fez-carreira-registrando-animais-filhotes)
+- [Os efeitos e os limites da decisão do STF contra operações policiais](https://www.nexojornal.com.br/expresso/2021/05/06/Os-efeitos-e-os-limites-da-decis%C3%A3o-do-STF-contra-opera%C3%A7%C3%B5es-policiais)
+- [CPI da Covid: as omissões de Queiroga diante das cobranças ao governo](https://www.nexojornal.com.br/expresso/2021/05/06/CPI-da-Covid-as-omiss%C3%B5es-de-Queiroga-diante-das-cobran%C3%A7as-ao-governo)
+- [‘Governo quer milícia oficial para fiscalizar a Amazônia’](https://www.nexojornal.com.br/entrevista/2021/05/06/%E2%80%98Governo-quer-mil%C3%ADcia-oficial-para-fiscalizar-a-Amaz%C3%B4nia%E2%80%99)
+- [As instituições estão funcionando no Brasil de Bolsonaro?](https://www.nexojornal.com.br/colunistas/2021/As-institui%C3%A7%C3%B5es-est%C3%A3o-funcionando-no-Brasil-de-Bolsonaro)
+- [A série derivada sobre o que veio antes de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2021/05/06/A-s%C3%A9rie-derivada-sobre-o-que-veio-antes-de-%E2%80%98Game-of-Thrones%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
