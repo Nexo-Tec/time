@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os efeitos e os limites da decisão do STF contra operações policiais](https://www.nexojornal.com.br/expresso/2021/05/06/Os-efeitos-e-os-limites-da-decis%C3%A3o-do-STF-contra-opera%C3%A7%C3%B5es-policiais)
-- [CPI da Covid: as omissões de Queiroga diante das cobranças ao governo](https://www.nexojornal.com.br/expresso/2021/05/06/CPI-da-Covid-as-omiss%C3%B5es-de-Queiroga-diante-das-cobran%C3%A7as-ao-governo)
-- [‘Governo quer milícia oficial para fiscalizar a Amazônia’](https://www.nexojornal.com.br/entrevista/2021/05/06/%E2%80%98Governo-quer-mil%C3%ADcia-oficial-para-fiscalizar-a-Amaz%C3%B4nia%E2%80%99)
-- [As instituições estão funcionando no Brasil de Bolsonaro?](https://www.nexojornal.com.br/colunistas/2021/As-institui%C3%A7%C3%B5es-est%C3%A3o-funcionando-no-Brasil-de-Bolsonaro)
-- [A série derivada sobre o que veio antes de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2021/05/06/A-s%C3%A9rie-derivada-sobre-o-que-veio-antes-de-%E2%80%98Game-of-Thrones%E2%80%99)
+- [Como as operações policiais viraram regra no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2021/05/07/Como-as-opera%C3%A7%C3%B5es-policiais-viraram-regra-no-Rio-de-Janeiro)
+- [Quais os efeitos da vacinação contra covid na mortalidade no país](https://www.nexojornal.com.br/expresso/2021/05/07/Quais-os-efeitos-da-vacina%C3%A7%C3%A3o-contra-covid-na-mortalidade-no-pa%C3%ADs)
+- [Luto no trabalho: ‘não temos como não falar sobre isso’](https://www.nexojornal.com.br/entrevista/2021/05/07/Luto-no-trabalho-%E2%80%98n%C3%A3o-temos-como-n%C3%A3o-falar-sobre-isso%E2%80%99)
+- [O racismo nosso de cada dia e o 13 de Maio de 1888](https://www.nexojornal.com.br/colunistas/tribuna/2021/O-racismo-nosso-de-cada-dia-e-o-13-de-Maio-de-1888)
+- [O massacre de Jacarezinho e o projeto miliciano de 2022](https://www.nexojornal.com.br/perspectiva/2021/05/07/O-massacre-de-Jacarezinho-e-o-projeto-miliciano-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
