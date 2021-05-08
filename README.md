@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Duda Beat](http://gamarevista.uol.com.br/pessoas/questionario-proust/duda-beat/)
 - [Fazer uma aula de pole dance](http://gamarevista.uol.com.br/experiencias/test-drive/fazer-uma-aula-de-pole-dance/)
 - [A Lua na Caixa d’Água](http://gamarevista.uol.com.br/cultura/trecho-de-livro/a-lua-na-caixa-dagua/)
 - [‘Succession’? Não, F1](http://gamarevista.uol.com.br/achamos-que-vale/assistir/succession-nao-f1/)
 - [O álbum branco de João Gilberto](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-album-branco-de-joao-gilberto/)
-- [‘Enciclopédia Negra’ vira exposição na Pinacoteca](http://gamarevista.uol.com.br/achamos-que-vale/ir/enciclopedia-negra-vira-exposicao-na-pinacoteca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
