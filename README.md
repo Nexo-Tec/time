@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A atuação de vereadores no orçamento municipal em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-atua%C3%A7%C3%A3o-de-vereadores-no-or%C3%A7amento-municipal-em-4-pontos)
+- [Dilemas da reserva de financiamento para candidaturas não brancas](https://pp.nexojornal.com.br/opiniao/2021/Dilemas-da-reserva-de-financiamento-para-candidaturas-n%C3%A3o-brancas)
 - [Fiscalização, transparência e fomento são fundamentais para combater o desmatamento e desenvolvimento do setor florestal da Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Fiscaliza%C3%A7%C3%A3o-transpar%C3%AAncia-e-fomento-s%C3%A3o-fundamentais-para-combater-o-desmatamento-e-desenvolvimento-do-setor-florestal-da-Amaz%C3%B4nia)
 - [Defendendo a ciência em uma era de pós-fatos](https://pp.nexojornal.com.br/topico/2021/05/09/Defendendo-a-ci%C3%AAncia-em-uma-era-de-p%C3%B3s-fatos)
 - [A carne de laboratório](https://pp.nexojornal.com.br/opiniao/2021/A-carne-de-laborat%C3%B3rio)
-- [A capoeira é recurso na educação](https://pp.nexojornal.com.br/opiniao/2021/A-capoeira-%C3%A9-recurso-na-educa%C3%A7%C3%A3o)
-- [O que são plataformas de fazendas de clique e por que elas importam](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-que-s%C3%A3o-plataformas-de-fazendas-de-clique-e-por-que-elas-importam)
 <!-- PP_LIST:END -->
 
