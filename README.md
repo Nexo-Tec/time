@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A persistência da segunda onda de covid no Amazonas](https://www.nexojornal.com.br/expresso/2021/05/10/A-persist%C3%AAncia-da-segunda-onda-de-covid-no-Amazonas)
-- [O legado do soulman Cassiano para a música brasileira](https://www.nexojornal.com.br/expresso/2021/05/10/O-legado-do-soulman-Cassiano-para-a-m%C3%BAsica-brasileira)
-- [De onde vem o caju e onde ele é produzido](https://www.nexojornal.com.br/grafico/2021/05/10/De-onde-vem-o-caju-e-onde-ele-%C3%A9-produzido)
-- [O novo labirinto da reforma tributária no Congresso](https://www.nexojornal.com.br/expresso/2021/05/10/O-novo-labirinto-da-reforma-tribut%C3%A1ria-no-Congresso)
-- [As políticas de reparação (ou a falta delas) no Brasil](https://www.nexojornal.com.br/colunistas/2021/As-pol%C3%ADticas-de-repara%C3%A7%C3%A3o-ou-a-falta-delas-no-Brasil)
+- [Massacre do Jacarezinho: o que falta ser explicado](https://www.nexojornal.com.br/expresso/2021/05/10/Massacre-do-Jacarezinho-o-que-falta-ser-explicado)
+- [O vazamento de ‘Marighella’ antes do lançamento oficial](https://www.nexojornal.com.br/expresso/2021/05/10/O-vazamento-de-%E2%80%98Marighella%E2%80%99-antes-do-lan%C3%A7amento-oficial)
+- [As cortinas de fumaça de Bolsonaro quando está sob pressão](https://www.nexojornal.com.br/expresso/2021/05/09/As-cortinas-de-fuma%C3%A7a-de-Bolsonaro-quando-est%C3%A1-sob-press%C3%A3o)
+- [‘Quanto mais casos, maiores as chances de uma nova variante’](https://www.nexojornal.com.br/entrevista/2021/05/09/%E2%80%98Quanto-mais-casos-maiores-as-chances-de-uma-nova-variante%E2%80%99)
+- [Pelo direito de saber quando seremos vacinados](https://www.nexojornal.com.br/ensaio/2021/Pelo-direito-de-saber-quando-seremos-vacinados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
