@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Duda Beat](http://gamarevista.uol.com.br/pessoas/questionario-proust/duda-beat/)
-- [Fazer uma aula de pole dance](http://gamarevista.uol.com.br/experiencias/test-drive/fazer-uma-aula-de-pole-dance/)
-- [A Lua na Caixa d’Água](http://gamarevista.uol.com.br/cultura/trecho-de-livro/a-lua-na-caixa-dagua/)
-- [‘Succession’? Não, F1](http://gamarevista.uol.com.br/achamos-que-vale/assistir/succession-nao-f1/)
-- [O álbum branco de João Gilberto](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-album-branco-de-joao-gilberto/)
+- [All Star de cano longo](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/all-star-de-cano-longo/)
+- [CV: Anderson F. Brito](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-anderson-f-brito/)
+- [O futuro dos desfiles de moda](http://gamarevista.uol.com.br/estilo-de-vida/o-futuro-dos-desfiles-de-moda/)
+- [Pra não dizer que não falei das cores](http://gamarevista.uol.com.br/colunistas/leandro-sarmatz/pra-nao-dizer-que-nao-falei-das-cores/)
+- [@markbittman](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/markbittman/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
