@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Scot Martin: drones e o estudo do clima e da saúde humana](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/06/Scot-Martin-drones-e-o-estudo-do-clima-e-da-sa%C3%BAde-humana)
+- [Fiscalização, transparência e fomento são fundamentais para combater o desmatamento e desenvolvimento do setor florestal da Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Fiscaliza%C3%A7%C3%A3o-transpar%C3%AAncia-e-fomento-s%C3%A3o-fundamentais-para-combater-o-desmatamento-e-desenvolvimento-do-setor-florestal-da-Amaz%C3%B4nia)
+- [Defendendo a ciência em uma era de pós-fatos](https://pp.nexojornal.com.br/topico/2021/05/09/Defendendo-a-ci%C3%AAncia-em-uma-era-de-p%C3%B3s-fatos)
+- [A carne de laboratório](https://pp.nexojornal.com.br/opiniao/2021/A-carne-de-laborat%C3%B3rio)
+- [A capoeira é recurso na educação](https://pp.nexojornal.com.br/opiniao/2021/A-capoeira-%C3%A9-recurso-na-educa%C3%A7%C3%A3o)
 - [O que são plataformas de fazendas de clique e por que elas importam](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-que-s%C3%A3o-plataformas-de-fazendas-de-clique-e-por-que-elas-importam)
-- [6 perguntas que a ciência já respondeu sobre agricultura e desenvolvimento econômico](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-agricultura-e-desenvolvimento-econ%C3%B4mico)
-- [Como salas de aula brasileiras se tornaram mais segregadas que nos EUA](https://pp.nexojornal.com.br/topico/2021/05/05/Como-salas-de-aula-brasileiras-se-tornaram-mais-segregadas-que-nos-EUA)
-- [Como cientistas brasileiras se organizam em defesa da vida das mulheres e da ciência na pandemia](https://pp.nexojornal.com.br/topico/2021/05/04/Como-cientistas-brasileiras-se-organizam-em-defesa-da-vida-das-mulheres-e-da-ci%C3%AAncia-na-pandemia)
 <!-- PP_LIST:END -->
 
