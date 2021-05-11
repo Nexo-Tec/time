@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O alerta da Anvisa e a suspensão da vacinação de grávidas](https://www.nexojornal.com.br/podcast/2021/05/11/O-alerta-da-Anvisa-e-a-suspens%C3%A3o-da-vacina%C3%A7%C3%A3o-de-gr%C3%A1vidas)
-- [Por que o Globo de Ouro pode não acontecer em 2022](https://www.nexojornal.com.br/expresso/2021/05/11/Por-que-o-Globo-de-Ouro-pode-n%C3%A3o-acontecer-em-2022)
-- [O aumento da tensão entre militares e governo na França](https://www.nexojornal.com.br/expresso/2021/05/11/O-aumento-da-tens%C3%A3o-entre-militares-e-governo-na-Fran%C3%A7a)
-- [Tratoraço: o orçamento secreto de Bolsonaro por apoio parlamentar](https://www.nexojornal.com.br/expresso/2021/05/11/Tratora%C3%A7o-o-or%C3%A7amento-secreto-de-Bolsonaro-por-apoio-parlamentar)
-- [Qual a relação entre dengue e covid-19, segundo este estudo](https://www.nexojornal.com.br/expresso/2021/05/11/Qual-a-rela%C3%A7%C3%A3o-entre-dengue-e-covid-19-segundo-este-estudo)
+- [A persistência da segunda onda de covid no Amazonas](https://www.nexojornal.com.br/expresso/2021/05/10/A-persist%C3%AAncia-da-segunda-onda-de-covid-no-Amazonas)
+- [O legado do soulman Cassiano para a música brasileira](https://www.nexojornal.com.br/expresso/2021/05/10/O-legado-do-soulman-Cassiano-para-a-m%C3%BAsica-brasileira)
+- [De onde vem o caju e onde ele é produzido](https://www.nexojornal.com.br/grafico/2021/05/10/De-onde-vem-o-caju-e-onde-ele-%C3%A9-produzido)
+- [O novo labirinto da reforma tributária no Congresso](https://www.nexojornal.com.br/expresso/2021/05/10/O-novo-labirinto-da-reforma-tribut%C3%A1ria-no-Congresso)
+- [As políticas de reparação (ou a falta delas) no Brasil](https://www.nexojornal.com.br/colunistas/2021/As-pol%C3%ADticas-de-repara%C3%A7%C3%A3o-ou-a-falta-delas-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
