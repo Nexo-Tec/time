@@ -120,6 +120,6 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Defendendo a ciência em uma era de pós-fatos](https://pp.nexojornal.com.br/topico/2021/05/09/Defendendo-a-ci%C3%AAncia-em-uma-era-de-p%C3%B3s-fatos)
 - [A carne de laboratório](https://pp.nexojornal.com.br/opiniao/2021/A-carne-de-laborat%C3%B3rio)
 - [A capoeira é recurso na educação](https://pp.nexojornal.com.br/opiniao/2021/A-capoeira-%C3%A9-recurso-na-educa%C3%A7%C3%A3o)
-- [Scot Martin: drones e o estudo do clima e da saúde humana](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/06/Scot-Martin-drones-e-o-estudo-do-clima-e-da-sa%C3%BAde-humana)
+- [O que são plataformas de fazendas de clique e por que elas importam](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-que-s%C3%A3o-plataformas-de-fazendas-de-clique-e-por-que-elas-importam)
 <!-- PP_LIST:END -->
 
