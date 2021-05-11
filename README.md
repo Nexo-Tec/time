@@ -1,6 +1,6 @@
 # Nexo Tecnologia
 
-> Temos 3 (três) vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
+> Temos 4 (quatro) vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
 
 ## Quem somos
 
