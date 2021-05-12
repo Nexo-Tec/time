@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A persistência da segunda onda de covid no Amazonas](https://www.nexojornal.com.br/expresso/2021/05/10/A-persist%C3%AAncia-da-segunda-onda-de-covid-no-Amazonas)
-- [O legado do soulman Cassiano para a música brasileira](https://www.nexojornal.com.br/expresso/2021/05/10/O-legado-do-soulman-Cassiano-para-a-m%C3%BAsica-brasileira)
-- [De onde vem o caju e onde ele é produzido](https://www.nexojornal.com.br/grafico/2021/05/10/De-onde-vem-o-caju-e-onde-ele-%C3%A9-produzido)
-- [O novo labirinto da reforma tributária no Congresso](https://www.nexojornal.com.br/expresso/2021/05/10/O-novo-labirinto-da-reforma-tribut%C3%A1ria-no-Congresso)
-- [As políticas de reparação (ou a falta delas) no Brasil](https://www.nexojornal.com.br/colunistas/2021/As-pol%C3%ADticas-de-repara%C3%A7%C3%A3o-ou-a-falta-delas-no-Brasil)
+- [Por que a UFRJ corre risco de paralisar suas atividades](https://www.nexojornal.com.br/expresso/2021/05/11/Por-que-a-UFRJ-corre-risco-de-paralisar-suas-atividades)
+- [Como o presidente da Anvisa tenta se desvincular de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/11/Como-o-presidente-da-Anvisa-tenta-se-desvincular-de-Bolsonaro)
+- [A resposta de Biden ao ciberataque a um oleoduto nos EUA](https://www.nexojornal.com.br/expresso/2021/05/11/A-resposta-de-Biden-ao-ciberataque-a-um-oleoduto-nos-EUA)
+- [A autonomia institucional do Inep em risco](https://www.nexojornal.com.br/colunistas/2021/A-autonomia-institucional-do-Inep-em-risco)
+- [O que une a inflação acima da meta de Bolsonaro à de Dilma](https://www.nexojornal.com.br/expresso/2021/05/11/O-que-une-a-infla%C3%A7%C3%A3o-acima-da-meta-de-Bolsonaro-%C3%A0-de-Dilma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
