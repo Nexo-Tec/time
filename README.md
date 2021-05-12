@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quem quer ser um personagem de anime?](http://gamarevista.uol.com.br/cultura/quem-quer-ser-um-personagem-de-anime/)
 - [All Star de cano longo](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/all-star-de-cano-longo/)
 - [CV: Anderson F. Brito](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-anderson-f-brito/)
 - [O futuro dos desfiles de moda](http://gamarevista.uol.com.br/estilo-de-vida/o-futuro-dos-desfiles-de-moda/)
 - [Pra não dizer que não falei das cores](http://gamarevista.uol.com.br/colunistas/leandro-sarmatz/pra-nao-dizer-que-nao-falei-das-cores/)
-- [@markbittman](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/markbittman/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
