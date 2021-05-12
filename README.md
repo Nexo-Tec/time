@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O alerta da Anvisa e a suspensão da vacinação de grávidas](https://www.nexojornal.com.br/podcast/2021/05/11/O-alerta-da-Anvisa-e-a-suspens%C3%A3o-da-vacina%C3%A7%C3%A3o-de-gr%C3%A1vidas)
-- [Por que o Globo de Ouro pode não acontecer em 2022](https://www.nexojornal.com.br/expresso/2021/05/11/Por-que-o-Globo-de-Ouro-pode-n%C3%A3o-acontecer-em-2022)
-- [O aumento da tensão entre militares e governo na França](https://www.nexojornal.com.br/expresso/2021/05/11/O-aumento-da-tens%C3%A3o-entre-militares-e-governo-na-Fran%C3%A7a)
-- [Tratoraço: o orçamento secreto de Bolsonaro por apoio parlamentar](https://www.nexojornal.com.br/expresso/2021/05/11/Tratora%C3%A7o-o-or%C3%A7amento-secreto-de-Bolsonaro-por-apoio-parlamentar)
-- [Qual a relação entre dengue e covid-19, segundo este estudo](https://www.nexojornal.com.br/expresso/2021/05/11/Qual-a-rela%C3%A7%C3%A3o-entre-dengue-e-covid-19-segundo-este-estudo)
+- [Por que a UFRJ corre risco de paralisar suas atividades](https://www.nexojornal.com.br/expresso/2021/05/11/Por-que-a-UFRJ-corre-risco-de-paralisar-suas-atividades)
+- [Como o presidente da Anvisa tenta se desvincular de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/11/Como-o-presidente-da-Anvisa-tenta-se-desvincular-de-Bolsonaro)
+- [A resposta de Biden ao ciberataque a um oleoduto nos EUA](https://www.nexojornal.com.br/expresso/2021/05/11/A-resposta-de-Biden-ao-ciberataque-a-um-oleoduto-nos-EUA)
+- [A autonomia institucional do Inep em risco](https://www.nexojornal.com.br/colunistas/2021/A-autonomia-institucional-do-Inep-em-risco)
+- [O que une a inflação acima da meta de Bolsonaro à de Dilma](https://www.nexojornal.com.br/expresso/2021/05/11/O-que-une-a-infla%C3%A7%C3%A3o-acima-da-meta-de-Bolsonaro-%C3%A0-de-Dilma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
