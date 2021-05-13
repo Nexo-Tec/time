@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a UFRJ corre risco de paralisar suas atividades](https://www.nexojornal.com.br/expresso/2021/05/11/Por-que-a-UFRJ-corre-risco-de-paralisar-suas-atividades)
-- [Como o presidente da Anvisa tenta se desvincular de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/11/Como-o-presidente-da-Anvisa-tenta-se-desvincular-de-Bolsonaro)
-- [A resposta de Biden ao ciberataque a um oleoduto nos EUA](https://www.nexojornal.com.br/expresso/2021/05/11/A-resposta-de-Biden-ao-ciberataque-a-um-oleoduto-nos-EUA)
-- [A autonomia institucional do Inep em risco](https://www.nexojornal.com.br/colunistas/2021/A-autonomia-institucional-do-Inep-em-risco)
-- [O que une a inflação acima da meta de Bolsonaro à de Dilma](https://www.nexojornal.com.br/expresso/2021/05/11/O-que-une-a-infla%C3%A7%C3%A3o-acima-da-meta-de-Bolsonaro-%C3%A0-de-Dilma)
+- [Qual a trajetória da lei contra o trabalho escravo no Brasil](https://www.nexojornal.com.br/expresso/2021/05/12/Qual-a-trajet%C3%B3ria-da-lei-contra-o-trabalho-escravo-no-Brasil)
+- [A volta da discussão sobre política industrial](https://www.nexojornal.com.br/colunistas/2021/A-volta-da-discuss%C3%A3o-sobre-pol%C3%ADtica-industrial)
+- [Como a delação contra Toffoli impacta o Supremo](https://www.nexojornal.com.br/expresso/2021/05/12/Como-a-dela%C3%A7%C3%A3o-contra-Toffoli-impacta-o-Supremo)
+- [Como a carta da Pfizer confirma a inação na compra de vacinas](https://www.nexojornal.com.br/expresso/2021/05/12/Como-a-carta-da-Pfizer-confirma-a-ina%C3%A7%C3%A3o-na-compra-de-vacinas)
+- [A proposta da oposição venezuelana para um acordo com Maduro](https://www.nexojornal.com.br/expresso/2021/05/12/A-proposta-da-oposi%C3%A7%C3%A3o-venezuelana-para-um-acordo-com-Maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
