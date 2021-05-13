@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como alugar um imóvel na pandemia](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-alugar-um-imovel-na-pandemia/)
 - [Treze de maio nas ruas](http://gamarevista.uol.com.br/colunistas/bianca-santana/treze-de-maio-nas-ruas/)
 - [Quem quer ser um personagem de anime?](http://gamarevista.uol.com.br/cultura/quem-quer-ser-um-personagem-de-anime/)
 - [All Star de cano longo](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/all-star-de-cano-longo/)
 - [CV: Anderson F. Brito](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-anderson-f-brito/)
-- [O futuro dos desfiles de moda](http://gamarevista.uol.com.br/estilo-de-vida/o-futuro-dos-desfiles-de-moda/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
