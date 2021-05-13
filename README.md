@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como alugar um imóvel na pandemia](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-alugar-um-imovel-na-pandemia/)
-- [Treze de maio nas ruas](http://gamarevista.uol.com.br/colunistas/bianca-santana/treze-de-maio-nas-ruas/)
-- [Quem quer ser um personagem de anime?](http://gamarevista.uol.com.br/cultura/quem-quer-ser-um-personagem-de-anime/)
-- [All Star de cano longo](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/all-star-de-cano-longo/)
-- [CV: Anderson F. Brito](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-anderson-f-brito/)
+- [A obra de Mario Cravo Neto](http://gamarevista.uol.com.br/achamos-que-vale/ir/a-obra-de-mario-cravo-neto/)
+- [Dormir é o novo sexo](http://gamarevista.uol.com.br/achamos-que-vale/ler/dormir-e-o-novo-sexo/)
+- [O novo disco de St. Vincent](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-disco-de-st-vincent/)
+- [A música negra brasileira, do glamour à criminalização](http://gamarevista.uol.com.br/achamos-que-vale/fazer/a-musica-negra-brasileira-do-glamour-a-criminalizacao/)
+- [Trotskistas irreverentes contra a ditadura](http://gamarevista.uol.com.br/achamos-que-vale/assistir/trotskistas-irreverentes-contra-a-ditadura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
