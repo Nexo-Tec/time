@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto de lei que afrouxa o licenciamento ambiental](https://www.nexojornal.com.br/expresso/2021/05/13/O-projeto-de-lei-que-afrouxa-o-licenciamento-ambiental)
-- [Perdeu algo da CPI da Covid? Veja o que aconteceu até aqui](https://www.nexojornal.com.br/expresso/2021/05/13/Perdeu-algo-da-CPI-da-Covid-Veja-o-que-aconteceu-at%C3%A9-aqui)
-- [Jacarezinho, Paraisópolis e o genocídio preto](https://www.nexojornal.com.br/ensaio/2021/Jacarezinho-Parais%C3%B3polis-e-o-genoc%C3%ADdio-preto)
-- [De emergencial a permanente: a trajetória do Pronampe](https://www.nexojornal.com.br/expresso/2021/05/13/De-emergencial-a-permanente-a-trajet%C3%B3ria-do-Pronampe)
-- [A transposição de ‘Grande sertão: veredas’ para os quadrinhos](https://www.nexojornal.com.br/expresso/2021/05/13/A-transposi%C3%A7%C3%A3o-de-%E2%80%98Grande-sert%C3%A3o-veredas%E2%80%99-para-os-quadrinhos)
+- [Qual a trajetória da lei contra o trabalho escravo no Brasil](https://www.nexojornal.com.br/expresso/2021/05/12/Qual-a-trajet%C3%B3ria-da-lei-contra-o-trabalho-escravo-no-Brasil)
+- [A volta da discussão sobre política industrial](https://www.nexojornal.com.br/colunistas/2021/A-volta-da-discuss%C3%A3o-sobre-pol%C3%ADtica-industrial)
+- [Como a delação contra Toffoli impacta o Supremo](https://www.nexojornal.com.br/expresso/2021/05/12/Como-a-dela%C3%A7%C3%A3o-contra-Toffoli-impacta-o-Supremo)
+- [Como a carta da Pfizer confirma a inação na compra de vacinas](https://www.nexojornal.com.br/expresso/2021/05/12/Como-a-carta-da-Pfizer-confirma-a-ina%C3%A7%C3%A3o-na-compra-de-vacinas)
+- [A proposta da oposição venezuelana para um acordo com Maduro](https://www.nexojornal.com.br/expresso/2021/05/12/A-proposta-da-oposi%C3%A7%C3%A3o-venezuelana-para-um-acordo-com-Maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
