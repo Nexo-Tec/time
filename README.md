@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Amanda Schutze: eficiência energética no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/13/Amanda-Schutze-efici%C3%AAncia-energ%C3%A9tica-no-Brasil)
-- [Agricultura e meio ambiente](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/13/Agricultura-e-meio-ambiente)
-- [Como o ensino à distância impacta a formação de professores de ciências](https://pp.nexojornal.com.br/academico/2021/Como-o-ensino-%C3%A0-dist%C3%A2ncia-impacta-a-forma%C3%A7%C3%A3o-de-professores-de-ci%C3%AAncias)
 - [A atuação de vereadores no orçamento municipal em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-atua%C3%A7%C3%A3o-de-vereadores-no-or%C3%A7amento-municipal-em-4-pontos)
 - [Dilemas da reserva de financiamento para candidaturas não brancas](https://pp.nexojornal.com.br/opiniao/2021/Dilemas-da-reserva-de-financiamento-para-candidaturas-n%C3%A3o-brancas)
+- [Fiscalização, transparência e fomento são fundamentais para combater o desmatamento e desenvolvimento do setor florestal da Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Fiscaliza%C3%A7%C3%A3o-transpar%C3%AAncia-e-fomento-s%C3%A3o-fundamentais-para-combater-o-desmatamento-e-desenvolvimento-do-setor-florestal-da-Amaz%C3%B4nia)
+- [Defendendo a ciência em uma era de pós-fatos](https://pp.nexojornal.com.br/topico/2021/05/09/Defendendo-a-ci%C3%AAncia-em-uma-era-de-p%C3%B3s-fatos)
+- [A carne de laboratório](https://pp.nexojornal.com.br/opiniao/2021/A-carne-de-laborat%C3%B3rio)
 <!-- PP_LIST:END -->
 
