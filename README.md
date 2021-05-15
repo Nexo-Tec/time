@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mortes em queda, casos em alta: o quadro de risco da covid](https://www.nexojornal.com.br/expresso/2021/05/14/Mortes-em-queda-casos-em-alta-o-quadro-de-risco-da-covid)
-- [O arquivo digital de receitas comunitárias indianas](https://www.nexojornal.com.br/expresso/2021/05/14/O-arquivo-digital-de-receitas-comunit%C3%A1rias-indianas)
-- [O direito de Pazuello pelo silêncio. E outros calados em CPIs](https://www.nexojornal.com.br/expresso/2021/05/14/O-direito-de-Pazuello-pelo-sil%C3%AAncio.-E-outros-calados-em-CPIs)
-- [Longevidade latino-americana](https://www.nexojornal.com.br/externo/2021/05/14/Longevidade-latino-americana)
-- [Um 13 de maio histórico para a luta antirracista brasileira](https://www.nexojornal.com.br/colunistas/tribuna/2021/Um-13-de-maio-hist%C3%B3rico-para-a-luta-antirracista-brasileira)
+- [O projeto de lei que afrouxa o licenciamento ambiental](https://www.nexojornal.com.br/expresso/2021/05/13/O-projeto-de-lei-que-afrouxa-o-licenciamento-ambiental)
+- [Perdeu algo da CPI da Covid? Veja o que aconteceu até aqui](https://www.nexojornal.com.br/expresso/2021/05/13/Perdeu-algo-da-CPI-da-Covid-Veja-o-que-aconteceu-at%C3%A9-aqui)
+- [Jacarezinho, Paraisópolis e o genocídio preto](https://www.nexojornal.com.br/ensaio/2021/Jacarezinho-Parais%C3%B3polis-e-o-genoc%C3%ADdio-preto)
+- [De emergencial a permanente: a trajetória do Pronampe](https://www.nexojornal.com.br/expresso/2021/05/13/De-emergencial-a-permanente-a-trajet%C3%B3ria-do-Pronampe)
+- [A transposição de ‘Grande sertão: veredas’ para os quadrinhos](https://www.nexojornal.com.br/expresso/2021/05/13/A-transposi%C3%A7%C3%A3o-de-%E2%80%98Grande-sert%C3%A3o-veredas%E2%80%99-para-os-quadrinhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
