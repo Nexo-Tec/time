@@ -116,9 +116,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como o ensino à distância impacta a formação de professores de ciências](https://pp.nexojornal.com.br/academico/2021/Como-o-ensino-%C3%A0-dist%C3%A2ncia-impacta-a-forma%C3%A7%C3%A3o-de-professores-de-ci%C3%AAncias1)
 - [Amanda Schutze: eficiência energética no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/13/Amanda-Schutze-efici%C3%AAncia-energ%C3%A9tica-no-Brasil)
 - [Agricultura e meio ambiente](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/13/Agricultura-e-meio-ambiente)
+- [Como o ensino à distância impacta a formação de professores de ciências](https://pp.nexojornal.com.br/academico/2021/Como-o-ensino-%C3%A0-dist%C3%A2ncia-impacta-a-forma%C3%A7%C3%A3o-de-professores-de-ci%C3%AAncias)
 - [A atuação de vereadores no orçamento municipal em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-atua%C3%A7%C3%A3o-de-vereadores-no-or%C3%A7amento-municipal-em-4-pontos)
 - [Dilemas da reserva de financiamento para candidaturas não brancas](https://pp.nexojornal.com.br/opiniao/2021/Dilemas-da-reserva-de-financiamento-para-candidaturas-n%C3%A3o-brancas)
 <!-- PP_LIST:END -->
