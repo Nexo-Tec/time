@@ -1,14 +1,16 @@
-# Seu nome
+# Rafael Trestini
 
 > Vaga para Pessoa Desenvolvedora. Faça uma breve descrição sobre você!
 
+Pessoal, essa nao é a entrega de um desafio, portanto me perdoem tê-los feito perder tempo. Ja sou fã do Nexo, e achei TAAAAAAO legal essa abordagem de processo de seleção que senti que deveria parabenizá-los, e também já de antemão, me desculpar por eventualmente copiá-los nos processos da minha empresa ;-)
+
+Se estivesse nesse momento de carreira, certamente iria ficar com muita vontade de fazer parte desse time. Lição de DevXP ja na abordagem da contratacao.
+
+Parabéns!
+
 ## Seu desafio
 
-Este arquivo é em [markdown](https://guides.github.com/features/mastering-markdown/). Neste link você pode ver como fazer a _maioria_ dos **recursos** que precisar!
-
-```markdown
-Este arquivo é em [markdown](https://guides.github.com/features/mastering-markdown/). Neste link você pode ver como fazer a _maioria_ dos **recursos** que precisar!
-```
+Criar um conceito de engajamento de contratação tão legal quanto o de vocês ;-)
 
 ----
 
