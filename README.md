@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Luiz Filipe Souza: ‘Não é planejamento, é estratégia’](http://gamarevista.uol.com.br/podcast/podcast-da-semana/luiz-filipe-souza-da-pra-arriscar/)
 - [Karol Conká](http://gamarevista.uol.com.br/pessoas/questionario-proust/karol-conka/)
 - [Atos Humanos](http://gamarevista.uol.com.br/cultura/trecho-de-livro/atos-humanos/)
 - [Uma boa dose de uísque nacional](http://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/uma-boa-dose-de-uisque-nacional/)
 - [A obra de Mario Cravo Neto](http://gamarevista.uol.com.br/achamos-que-vale/ir/a-obra-de-mario-cravo-neto/)
-- [Dormir é o novo sexo](http://gamarevista.uol.com.br/achamos-que-vale/ler/dormir-e-o-novo-sexo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
