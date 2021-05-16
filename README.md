@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem foi Picciani, o mais longevo chefe da Assembleia do Rio](https://www.nexojornal.com.br/expresso/2021/05/14/Quem-foi-Picciani-o-mais-longevo-chefe-da-Assembleia-do-Rio)
 - [Mortes em queda, casos em alta: o quadro de risco da covid](https://www.nexojornal.com.br/expresso/2021/05/14/Mortes-em-queda-casos-em-alta-o-quadro-de-risco-da-covid)
 - [O arquivo digital de receitas comunitárias indianas](https://www.nexojornal.com.br/expresso/2021/05/14/O-arquivo-digital-de-receitas-comunit%C3%A1rias-indianas)
 - [O direito de Pazuello pelo silêncio. E outros calados em CPIs](https://www.nexojornal.com.br/expresso/2021/05/14/O-direito-de-Pazuello-pelo-sil%C3%AAncio.-E-outros-calados-em-CPIs)
 - [Longevidade latino-americana](https://www.nexojornal.com.br/externo/2021/05/14/Longevidade-latino-americana)
-- [Um 13 de maio histórico para a luta antirracista brasileira](https://www.nexojornal.com.br/colunistas/tribuna/2021/Um-13-de-maio-hist%C3%B3rico-para-a-luta-antirracista-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
