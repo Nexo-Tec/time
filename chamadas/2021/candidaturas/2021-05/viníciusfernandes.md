@@ -12,6 +12,14 @@ https://www.menislofi.com/wp-content/nexo_candidatura/
 *Link para repositório com o código*<br>
 https://github.com/viniciusfersil123/nexo_candidatura
 
+### Breve Descrição do fluxo de trabalho #
+1. Li todos os links sugeridos
+2. Escolhi qual deles ofereceria para mim um desafio suficientemente difícil para ser estimulante mas que ao mesmo tempo demandasse um tempo de estudo que garantisse uma inscrição rápida
+3. Mapeei as dependências de conhecimento que deveria ter
+4. Fiz um *sprint* estudando o que julguei não estar suficientemente fundamento para mim, assim garanti que ao passar pelo tutorial oferecido não estaria apenas copiando instruções
+5. Segui os passos indicados no link adaptando para a forma que estou habituado a criar apps no React, com o npx. Sempre que foi proposto algum desafio, pausei o vídeo e resolvi sozinho antes de ver a solução
+6. Com o app pronto, fiz um *build* e seu subsequente *deploy* no domínio da minha empresa
+
 
 ----
 
