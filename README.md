@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A morte de Bruno Covas após a batalha contra o câncer](https://www.nexojornal.com.br/expresso/2021/05/16/A-morte-de-Bruno-Covas-ap%C3%B3s-a-batalha-contra-o-c%C3%A2ncer)
 - [‘As religiões não têm um fim em si mesmas em Jerusalém’](https://www.nexojornal.com.br/entrevista/2021/05/16/%E2%80%98As-religi%C3%B5es-n%C3%A3o-t%C3%AAm-um-fim-em-si-mesmas-em-Jerusal%C3%A9m%E2%80%99)
 - [A Semana de Arte Moderna comemorada em 17 meses](https://www.nexojornal.com.br/expresso/2021/05/16/A-Semana-de-Arte-Moderna-comemorada-em-17-meses)
 - [5 livros (mais um) sobre psicanálise crítica](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-mais-um-sobre-psican%C3%A1lise-cr%C3%ADtica)
 - [Os desafios que a geração coronavírus precisará enfrentar](https://www.nexojornal.com.br/ensaio/2021/Os-desafios-que-a-gera%C3%A7%C3%A3o-coronav%C3%ADrus-precisar%C3%A1-enfrentar)
-- [Por que não faz sentido escolher qual vacina tomar contra a covid](https://www.nexojornal.com.br/expresso/2021/05/16/Por-que-n%C3%A3o-faz-sentido-escolher-qual-vacina-tomar-contra-a-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
