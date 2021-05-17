@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é a ‘tese tributária do século’. E como ela afeta a União](https://www.nexojornal.com.br/expresso/2021/05/17/O-que-%C3%A9-a-%E2%80%98tese-tribut%C3%A1ria-do-s%C3%A9culo%E2%80%99.-E-como-ela-afeta-a-Uni%C3%A3o)
-- [Constituição do Chile: a vitória da esquerda e dos independentes](https://www.nexojornal.com.br/expresso/2021/05/17/Constitui%C3%A7%C3%A3o-do-Chile-a-vit%C3%B3ria-da-esquerda-e-dos-independentes)
 - [Guerra do streaming: a fusão da Warner com a Discovery](https://www.nexojornal.com.br/expresso/2021/05/17/Guerra-do-streaming-a-fus%C3%A3o-da-Warner-com-a-Discovery)
 - [Um Big Mac feito do zero, com seus 54 ingredientes](https://www.nexojornal.com.br/expresso/2021/05/17/Um-Big-Mac-feito-do-zero-com-seus-54-ingredientes)
 - [As iniciativas de fomento ao dinamismo econômico local](https://www.nexojornal.com.br/ensaio/2021/As-iniciativas-de-fomento-ao-dinamismo-econ%C3%B4mico-local)
+- [Como ações e inações da pasta da Cultura minam o setor](https://www.nexojornal.com.br/expresso/2021/05/16/Como-a%C3%A7%C3%B5es-e-ina%C3%A7%C3%B5es-da-pasta-da-Cultura-minam-o-setor)
+- [Por que o Enem corre risco de não acontecer em 2021](https://www.nexojornal.com.br/expresso/2021/05/16/Por-que-o-Enem-corre-risco-de-n%C3%A3o-acontecer-em-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
