@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Doenças crônicas não transmissíveis](https://pp.nexojornal.com.br/glossario/Doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis)
+- [O que afeta a qualidade dos cuidados maternos e a saúde física de crianças no seu primeiro ano de vida?](https://pp.nexojornal.com.br/academico/2021/O-que-afeta-a-qualidade-dos-cuidados-maternos-e-a-sa%C3%BAde-f%C3%ADsica-de-crian%C3%A7as-no-seu-primeiro-ano-de-vida)
+- [Autoritarismo e pandemia: conexões e correspondências](https://pp.nexojornal.com.br/opiniao/2021/Autoritarismo-e-pandemia-conex%C3%B5es-e-correspond%C3%AAncias)
+- [Por uma cultura de conservação em zoológicos e aquários](https://pp.nexojornal.com.br/opiniao/2021/Por-uma-cultura-de-conserva%C3%A7%C3%A3o-em-zool%C3%B3gicos-e-aqu%C3%A1rios)
 - [Como o ensino à distância impacta a formação de professores de ciências](https://pp.nexojornal.com.br/academico/2021/Como-o-ensino-%C3%A0-dist%C3%A2ncia-impacta-a-forma%C3%A7%C3%A3o-de-professores-de-ci%C3%AAncias1)
-- [Amanda Schutze: eficiência energética no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/13/Amanda-Schutze-efici%C3%AAncia-energ%C3%A9tica-no-Brasil)
-- [Agricultura e meio ambiente](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/13/Agricultura-e-meio-ambiente)
-- [A atuação de vereadores no orçamento municipal em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-atua%C3%A7%C3%A3o-de-vereadores-no-or%C3%A7amento-municipal-em-4-pontos)
-- [Dilemas da reserva de financiamento para candidaturas não brancas](https://pp.nexojornal.com.br/opiniao/2021/Dilemas-da-reserva-de-financiamento-para-candidaturas-n%C3%A3o-brancas)
 <!-- PP_LIST:END -->
 
