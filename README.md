@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Crenças de autoeficácia de estudantes dos anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2021/Cren%C3%A7as-de-autoefic%C3%A1cia-de-estudantes-dos-anos-finais-do-ensino-fundamental)
 - [Doenças crônicas não transmissíveis](https://pp.nexojornal.com.br/glossario/Doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis)
 - [O que afeta a qualidade dos cuidados maternos e a saúde física de crianças no seu primeiro ano de vida?](https://pp.nexojornal.com.br/academico/2021/O-que-afeta-a-qualidade-dos-cuidados-maternos-e-a-sa%C3%BAde-f%C3%ADsica-de-crian%C3%A7as-no-seu-primeiro-ano-de-vida)
 - [Autoritarismo e pandemia: conexões e correspondências](https://pp.nexojornal.com.br/opiniao/2021/Autoritarismo-e-pandemia-conex%C3%B5es-e-correspond%C3%AAncias)
 - [Por uma cultura de conservação em zoológicos e aquários](https://pp.nexojornal.com.br/opiniao/2021/Por-uma-cultura-de-conserva%C3%A7%C3%A3o-em-zool%C3%B3gicos-e-aqu%C3%A1rios)
-- [Como o ensino à distância impacta a formação de professores de ciências](https://pp.nexojornal.com.br/academico/2021/Como-o-ensino-%C3%A0-dist%C3%A2ncia-impacta-a-forma%C3%A7%C3%A3o-de-professores-de-ci%C3%AAncias1)
 <!-- PP_LIST:END -->
 
