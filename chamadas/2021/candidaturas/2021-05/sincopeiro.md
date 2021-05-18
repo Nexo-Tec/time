@@ -9,7 +9,7 @@
 	- Mano Brown
 	- Filipe Deschamps
 	- Silvio Almeida
-- Tecnologia Escolhida: React
+- Tecnologia com a qual mais gostaria de trabalhar: React / Nextjs
 - Email: afelipe.freitas@gmail.com
 - Telefone: (11) 97251-0821
 - Possui algum projeto que gostaria de executar? Sim! Executei o projeto [Crie uma aplicação Web sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
@@ -26,5 +26,6 @@ Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento 
  - [x] Eu, XXXX, expresso meu pleno consentimento em compartilhar estes dados para fins do processo seletivo do Nexo Jornal, e estou ciente de que poderei, a qualquer momento, solicitar a exclusão dos meus dados pessoais, de acordo com a  [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), notificando a equipe responsável pela guarda desses dados por meio do email  _[tecnologia@nexojornal.com.br](mailto:tecnologia@nexojornal.com.br)_  que fará a eliminação de seus dados pessoais guardados dentro dos prazos legais.
 
 
-[Repositório do Projeto](https://github.com/sincopeiro/wildrydes-site)
-[Link para o Projeto Deployado](https://main.dfrg7cickqo1u.amplifyapp.com/)
+## [Repositório do Projeto](https://github.com/sincopeiro/wildrydes-site)
+
+## [Link para o Projeto Deployado](https://main.dfrg7cickqo1u.amplifyapp.com/)
