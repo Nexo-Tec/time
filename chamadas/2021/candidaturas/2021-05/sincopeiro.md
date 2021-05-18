@@ -8,6 +8,8 @@
 	- Filipe Deschamps
 	- Silvio Almeida
 	- Mano Brown
+	- Nildo Ouriques
+	- Darcy Ribeiro
 - Tecnologia Escolhida: React
 - Email: afelipe.freitas@gmail.com
 - Telefone: (11) 97251-0821
