@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Guerra do streaming: a fusão da Warner com a Discovery](https://www.nexojornal.com.br/expresso/2021/05/17/Guerra-do-streaming-a-fus%C3%A3o-da-Warner-com-a-Discovery)
-- [Um Big Mac feito do zero, com seus 54 ingredientes](https://www.nexojornal.com.br/expresso/2021/05/17/Um-Big-Mac-feito-do-zero-com-seus-54-ingredientes)
-- [As iniciativas de fomento ao dinamismo econômico local](https://www.nexojornal.com.br/ensaio/2021/As-iniciativas-de-fomento-ao-dinamismo-econ%C3%B4mico-local)
-- [Como ações e inações da pasta da Cultura minam o setor](https://www.nexojornal.com.br/expresso/2021/05/16/Como-a%C3%A7%C3%B5es-e-ina%C3%A7%C3%B5es-da-pasta-da-Cultura-minam-o-setor)
-- [Por que o Enem corre risco de não acontecer em 2021](https://www.nexojornal.com.br/expresso/2021/05/16/Por-que-o-Enem-corre-risco-de-n%C3%A3o-acontecer-em-2021)
+- [Por que cientistas têm dúvidas sobre a origem da covid-19](https://www.nexojornal.com.br/expresso/2021/05/18/Por-que-cientistas-t%C3%AAm-d%C3%BAvidas-sobre-a-origem-da-covid-19)
+- [A investida do procurador-geral contra um professor da USP](https://www.nexojornal.com.br/expresso/2021/05/18/A-investida-do-procurador-geral-contra-um-professor-da-USP)
+- [Por que o PIB do Brasil pode crescer mesmo ficando parado](https://www.nexojornal.com.br/expresso/2021/05/17/Por-que-o-PIB-do-Brasil-pode-crescer-mesmo-ficando-parado)
+- [Quais os eixos para a gestão de Ricardo Nunes em São Paulo](https://www.nexojornal.com.br/expresso/2021/05/17/Quais-os-eixos-para-a-gest%C3%A3o-de-Ricardo-Nunes-em-S%C3%A3o-Paulo)
+- [‘Drogas psicodélicas são opção promissora contra doenças’](https://www.nexojornal.com.br/entrevista/2021/05/17/%E2%80%98Drogas-psicod%C3%A9licas-s%C3%A3o-op%C3%A7%C3%A3o-promissora-contra-doen%C3%A7as%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
