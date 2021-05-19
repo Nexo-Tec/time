@@ -5,12 +5,14 @@ Por interesse próprio, sempre estudei programação de forma auto-didata, até 
 
 Recentemente, concluí o bootcamp intensivo de 9 semanas da Ironhack em Desenvolvimento Web Full Stack Full Stack da [Ironhack](https://www.ironhack.com/en/web-development). Nele, tive a oportunidade de aprofundar meus conhecimentos, aprender tecnologias como React, NodeJS, Express e MongoDB, e pôr em prática através de vários projetos. Aqui, destaco 3: [Oddmarket](https://oddmarket.netlify.app/), [Fight Club](https://github.com/sincopeiro/fight-club-game), [Datify](https://gracious-bassi-f1a28d.netlify.app/)
 
+Agora, estou em busca de uma oportunidade como desenvolvedor júnior que me permita desenvolver na carreira.
+
 
 ## Seu Desafio
 
 Desafio Escolhido: [Crie uma aplicação Web sem servidor](https://aws.amazon.com/pt/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 
-No Readme do repositório, coloquei os motivos da escolha e documentei meu percurso para concluir o projeto
+No Readme do repositório, coloquei os motivos da escolha e documentei meu percurso para concluir o projeto. Desde já, já deixo minha impressão de espanto com o poder dos recursos da AWS - Foi como descobrir um universo totalmente novo. Concluir o projeto me deixou extremamente interessado em aprofundar estudos e entender as possibilidades que a ferramenta perdida, e compreender melhor os conceitos de arquitetura cloud.
 
 [Repositório do Projeto](https://github.com/sincopeiro/wildrydes-site)
 [Link para o Projeto Live](https://main.dfrg7cickqo1u.amplifyapp.com/)
