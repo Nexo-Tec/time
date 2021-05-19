@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um vinho e um casaquinho](http://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-vinho-e-um-casaquinho/)
 - [Panela de Pressão](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-de-pressao/)
 - [Que saudade do futuro](http://gamarevista.uol.com.br/colunistas/fernando-luna/que-saudade-do-futuro/)
 - [@vivicaif](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vivicaif/)
 - [Luiz Filipe Souza: ‘Não é planejamento, é estratégia’](http://gamarevista.uol.com.br/podcast/podcast-da-semana/luiz-filipe-souza-da-pra-arriscar/)
-- [Karol Conká](http://gamarevista.uol.com.br/pessoas/questionario-proust/karol-conka/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
