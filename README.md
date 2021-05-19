@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Crenças de autoeficácia de estudantes dos anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2021/Cren%C3%A7as-de-autoefic%C3%A1cia-de-estudantes-dos-anos-finais-do-ensino-fundamental)
-- [Doenças crônicas não transmissíveis](https://pp.nexojornal.com.br/glossario/Doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis)
-- [O que afeta a qualidade dos cuidados maternos e a saúde física de crianças no seu primeiro ano de vida?](https://pp.nexojornal.com.br/academico/2021/O-que-afeta-a-qualidade-dos-cuidados-maternos-e-a-sa%C3%BAde-f%C3%ADsica-de-crian%C3%A7as-no-seu-primeiro-ano-de-vida)
-- [Autoritarismo e pandemia: conexões e correspondências](https://pp.nexojornal.com.br/opiniao/2021/Autoritarismo-e-pandemia-conex%C3%B5es-e-correspond%C3%AAncias)
-- [Por uma cultura de conservação em zoológicos e aquários](https://pp.nexojornal.com.br/opiniao/2021/Por-uma-cultura-de-conserva%C3%A7%C3%A3o-em-zool%C3%B3gicos-e-aqu%C3%A1rios)
+- [Quatro mitos sobre a questão racial nas eleições de 2020](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/Quatro-mitos-sobre-a-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-de-2020)
+- [Como aprofundar o conceito de ‘lugar de fala’ usando as ideias de Patricia Hill Collins](https://pp.nexojornal.com.br/academico/2021/Como-aprofundar-o-conceito-de-%E2%80%98lugar-de-fala%E2%80%99-usando-as-ideias-de-Patricia-Hill-Collins)
+- [O que sabemos sobre a diversidade no cinema brasileiro](https://pp.nexojornal.com.br/opiniao/2021/O-que-sabemos-sobre-a-diversidade-no-cinema-brasileiro)
+- [Raça e gênero na publicidade nas últimas três décadas](https://pp.nexojornal.com.br/opiniao/2021/Ra%C3%A7a-e-g%C3%AAnero-na-publicidade-nas-%C3%BAltimas-tr%C3%AAs-d%C3%A9cadas)
+- [O Grupo de Estudos Multidisciplinares da Ação Afirmativa](https://pp.nexojornal.com.br/opiniao/2021/O-Grupo-de-Estudos-Multidisciplinares-da-A%C3%A7%C3%A3o-Afirmativa)
 <!-- PP_LIST:END -->
 
