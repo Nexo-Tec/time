@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que cientistas têm dúvidas sobre a origem da covid-19](https://www.nexojornal.com.br/expresso/2021/05/18/Por-que-cientistas-t%C3%AAm-d%C3%BAvidas-sobre-a-origem-da-covid-19)
+- [A investida do procurador-geral contra um professor da USP](https://www.nexojornal.com.br/expresso/2021/05/18/A-investida-do-procurador-geral-contra-um-professor-da-USP)
 - [Por que o PIB do Brasil pode crescer mesmo ficando parado](https://www.nexojornal.com.br/expresso/2021/05/17/Por-que-o-PIB-do-Brasil-pode-crescer-mesmo-ficando-parado)
 - [Quais os eixos para a gestão de Ricardo Nunes em São Paulo](https://www.nexojornal.com.br/expresso/2021/05/17/Quais-os-eixos-para-a-gest%C3%A3o-de-Ricardo-Nunes-em-S%C3%A3o-Paulo)
 - [‘Drogas psicodélicas são opção promissora contra doenças’](https://www.nexojornal.com.br/entrevista/2021/05/17/%E2%80%98Drogas-psicod%C3%A9licas-s%C3%A3o-op%C3%A7%C3%A3o-promissora-contra-doen%C3%A7as%E2%80%99)
-- [O impacto da suspensão da produção de vacinas no Brasil](https://www.nexojornal.com.br/expresso/2021/05/17/O-impacto-da-suspens%C3%A3o-da-produ%C3%A7%C3%A3o-de-vacinas-no-Brasil)
-- [O filho do porteiro e as universidades públicas brasileiras](https://www.nexojornal.com.br/colunistas/2021/O-filho-do-porteiro-e-as-universidades-p%C3%BAblicas-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
