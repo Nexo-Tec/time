@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que cientistas têm dúvidas sobre a origem da covid-19](https://www.nexojornal.com.br/expresso/2021/05/18/Por-que-cientistas-t%C3%AAm-d%C3%BAvidas-sobre-a-origem-da-covid-19)
-- [A investida do procurador-geral contra um professor da USP](https://www.nexojornal.com.br/expresso/2021/05/18/A-investida-do-procurador-geral-contra-um-professor-da-USP)
-- [Por que o PIB do Brasil pode crescer mesmo ficando parado](https://www.nexojornal.com.br/expresso/2021/05/17/Por-que-o-PIB-do-Brasil-pode-crescer-mesmo-ficando-parado)
-- [Quais os eixos para a gestão de Ricardo Nunes em São Paulo](https://www.nexojornal.com.br/expresso/2021/05/17/Quais-os-eixos-para-a-gest%C3%A3o-de-Ricardo-Nunes-em-S%C3%A3o-Paulo)
-- [‘Drogas psicodélicas são opção promissora contra doenças’](https://www.nexojornal.com.br/entrevista/2021/05/17/%E2%80%98Drogas-psicod%C3%A9licas-s%C3%A3o-op%C3%A7%C3%A3o-promissora-contra-doen%C3%A7as%E2%80%99)
+- [Como a política agrava a desinformação na pandemia](https://www.nexojornal.com.br/expresso/2021/05/19/Como-a-pol%C3%ADtica-agrava-a-desinforma%C3%A7%C3%A3o-na-pandemia)
+- [A crise migratória e política nos enclaves espanhóis na África](https://www.nexojornal.com.br/expresso/2021/05/19/A-crise-migrat%C3%B3ria-e-pol%C3%ADtica-nos-enclaves-espanh%C3%B3is-na-%C3%81frica)
+- [A operação da Polícia Federal contra Salles e seu ministério](https://www.nexojornal.com.br/expresso/2021/05/19/A-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-contra-Salles-e-seu-minist%C3%A9rio)
+- [Como Ernesto Araújo tentou blindar Bolsonaro na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/18/Como-Ernesto-Ara%C3%BAjo-tentou-blindar-Bolsonaro-na-CPI-da-Covid)
+- [Quais são as preocupações em torno da cepa indiana da covid](https://www.nexojornal.com.br/expresso/2021/05/18/Quais-s%C3%A3o-as-preocupa%C3%A7%C3%B5es-em-torno-da-cepa-indiana-da-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
