@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [100 anos de Mercedes Baptista, 1ª bailarina negra do Brasil](https://www.nexojornal.com.br/expresso/2021/05/20/100-anos-de-Mercedes-Baptista-1%C2%AA-bailarina-negra-do-Brasil)
-- [A aprovação da privatização da Eletrobras na Câmara](https://www.nexojornal.com.br/expresso/2021/05/20/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-na-C%C3%A2mara)
 - [A pressão crescente por um cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2021/05/20/A-press%C3%A3o-crescente-por-um-cessar-fogo-na-Faixa-de-Gaza)
 - [As tentativas de contenção da ‘boiada’ estourada por Salles](https://www.nexojornal.com.br/podcast/2021/05/19/As-tentativas-de-conten%C3%A7%C3%A3o-da-%E2%80%98boiada%E2%80%99-estourada-por-Salles)
 - [Meio ambiente: o novo caso de polícia do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Meio-ambiente-o-novo-caso-de-pol%C3%ADcia-do-governo-Bolsonaro)
+- [Como Pazuello distorce a realidade para poupar Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Como-Pazuello-distorce-a-realidade-para-poupar-Bolsonaro)
+- [O otimismo de Guedes com a arrecadação e o emprego faz sentido?](https://www.nexojornal.com.br/expresso/2021/05/19/O-otimismo-de-Guedes-com-a-arrecada%C3%A7%C3%A3o-e-o-emprego-faz-sentido)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
