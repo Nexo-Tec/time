@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a política agrava a desinformação na pandemia](https://www.nexojornal.com.br/expresso/2021/05/19/Como-a-pol%C3%ADtica-agrava-a-desinforma%C3%A7%C3%A3o-na-pandemia)
+- [A crise migratória e política nos enclaves espanhóis na África](https://www.nexojornal.com.br/expresso/2021/05/19/A-crise-migrat%C3%B3ria-e-pol%C3%ADtica-nos-enclaves-espanh%C3%B3is-na-%C3%81frica)
 - [A operação da Polícia Federal contra Salles e seu ministério](https://www.nexojornal.com.br/expresso/2021/05/19/A-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-contra-Salles-e-seu-minist%C3%A9rio)
 - [Como Ernesto Araújo tentou blindar Bolsonaro na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/18/Como-Ernesto-Ara%C3%BAjo-tentou-blindar-Bolsonaro-na-CPI-da-Covid)
 - [Quais são as preocupações em torno da cepa indiana da covid](https://www.nexojornal.com.br/expresso/2021/05/18/Quais-s%C3%A3o-as-preocupa%C3%A7%C3%B5es-em-torno-da-cepa-indiana-da-covid)
-- [O aumento dos registros de armas no Brasil com Bolsonaro](https://www.nexojornal.com.br/grafico/2021/05/18/O-aumento-dos-registros-de-armas-no-Brasil-com-Bolsonaro)
-- [‘Natureba’: sobre ciência, técnica e tecnologia](https://www.nexojornal.com.br/ensaio/2021/%E2%80%98Natureba%E2%80%99-sobre-ci%C3%AAncia-t%C3%A9cnica-e-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
