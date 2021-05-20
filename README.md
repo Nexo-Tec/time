@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a política agrava a desinformação na pandemia](https://www.nexojornal.com.br/expresso/2021/05/19/Como-a-pol%C3%ADtica-agrava-a-desinforma%C3%A7%C3%A3o-na-pandemia)
-- [A crise migratória e política nos enclaves espanhóis na África](https://www.nexojornal.com.br/expresso/2021/05/19/A-crise-migrat%C3%B3ria-e-pol%C3%ADtica-nos-enclaves-espanh%C3%B3is-na-%C3%81frica)
-- [A operação da Polícia Federal contra Salles e seu ministério](https://www.nexojornal.com.br/expresso/2021/05/19/A-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-contra-Salles-e-seu-minist%C3%A9rio)
-- [Como Ernesto Araújo tentou blindar Bolsonaro na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/18/Como-Ernesto-Ara%C3%BAjo-tentou-blindar-Bolsonaro-na-CPI-da-Covid)
-- [Quais são as preocupações em torno da cepa indiana da covid](https://www.nexojornal.com.br/expresso/2021/05/18/Quais-s%C3%A3o-as-preocupa%C3%A7%C3%B5es-em-torno-da-cepa-indiana-da-covid)
+- [As tentativas de contenção da ‘boiada’ estourada por Salles](https://www.nexojornal.com.br/podcast/2021/05/19/As-tentativas-de-conten%C3%A7%C3%A3o-da-%E2%80%98boiada%E2%80%99-estourada-por-Salles)
+- [Meio ambiente: o novo caso de polícia do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Meio-ambiente-o-novo-caso-de-pol%C3%ADcia-do-governo-Bolsonaro)
+- [Como Pazuello distorce a realidade para poupar Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Como-Pazuello-distorce-a-realidade-para-poupar-Bolsonaro)
+- [O otimismo de Guedes com a arrecadação e o emprego faz sentido?](https://www.nexojornal.com.br/expresso/2021/05/19/O-otimismo-de-Guedes-com-a-arrecada%C3%A7%C3%A3o-e-o-emprego-faz-sentido)
+- [Os estudos que purificaram o sabor delicioso](https://www.nexojornal.com.br/colunistas/2021/Os-estudos-que-purificaram-o-sabor-delicioso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
