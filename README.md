@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Vinícius Duarte: fusão nuclear e o futuro do planeta](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/20/Vin%C3%ADcius-Duarte-fus%C3%A3o-nuclear-e-o-futuro-do-planeta)
+- [Agricultura, biodiversidade e a provisão de serviços ecossistêmicos nas paisagens brasileiras](https://pp.nexojornal.com.br/opiniao/2021/Agricultura-biodiversidade-e-a-provis%C3%A3o-de-servi%C3%A7os-ecossist%C3%AAmicos-nas-paisagens-brasileiras)
+- [Chacina do Jacarezinho: servidores públicos apoiando o populismo penal racista](https://pp.nexojornal.com.br/opiniao/2021/Chacina-do-Jacarezinho-servidores-p%C3%BAblicos-apoiando-o-populismo-penal-racista)
 - [Quatro mitos sobre a questão racial nas eleições de 2020](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/Quatro-mitos-sobre-a-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-de-2020)
 - [Como aprofundar o conceito de ‘lugar de fala’ usando as ideias de Patricia Hill Collins](https://pp.nexojornal.com.br/academico/2021/Como-aprofundar-o-conceito-de-%E2%80%98lugar-de-fala%E2%80%99-usando-as-ideias-de-Patricia-Hill-Collins)
-- [O que sabemos sobre a diversidade no cinema brasileiro](https://pp.nexojornal.com.br/opiniao/2021/O-que-sabemos-sobre-a-diversidade-no-cinema-brasileiro)
-- [Raça e gênero na publicidade nas últimas três décadas](https://pp.nexojornal.com.br/opiniao/2021/Ra%C3%A7a-e-g%C3%AAnero-na-publicidade-nas-%C3%BAltimas-tr%C3%AAs-d%C3%A9cadas)
-- [O Grupo de Estudos Multidisciplinares da Ação Afirmativa](https://pp.nexojornal.com.br/opiniao/2021/O-Grupo-de-Estudos-Multidisciplinares-da-A%C3%A7%C3%A3o-Afirmativa)
 <!-- PP_LIST:END -->
 
