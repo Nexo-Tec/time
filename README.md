@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A pressão crescente por um cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2021/05/20/A-press%C3%A3o-crescente-por-um-cessar-fogo-na-Faixa-de-Gaza)
 - [As tentativas de contenção da ‘boiada’ estourada por Salles](https://www.nexojornal.com.br/podcast/2021/05/19/As-tentativas-de-conten%C3%A7%C3%A3o-da-%E2%80%98boiada%E2%80%99-estourada-por-Salles)
 - [Meio ambiente: o novo caso de polícia do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Meio-ambiente-o-novo-caso-de-pol%C3%ADcia-do-governo-Bolsonaro)
 - [Como Pazuello distorce a realidade para poupar Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Como-Pazuello-distorce-a-realidade-para-poupar-Bolsonaro)
 - [O otimismo de Guedes com a arrecadação e o emprego faz sentido?](https://www.nexojornal.com.br/expresso/2021/05/19/O-otimismo-de-Guedes-com-a-arrecada%C3%A7%C3%A3o-e-o-emprego-faz-sentido)
+- [Os estudos que purificaram o sabor delicioso](https://www.nexojornal.com.br/colunistas/2021/Os-estudos-que-purificaram-o-sabor-delicioso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
