@@ -1,16 +1,23 @@
 # Tarek Campos Saleh
 
-> Vaga para Pessoa Desenvolvedora. Faça uma breve descrição sobre você!
+Olá, me chamo Tarek, tenho 21 anos, sou de Goiânia-GO e atualmente estou buscando por opurtunidades de trabalho como Desenvolvedor. Possuo experiência profissional na área de técnologia atuando como SysAdmin, onde adquiri conhecimentos sólidos do funcionamento por "trás dos panos" dos softwares e demais funcionalidades da área. Sou comunicativo, sempre aberto a novos conhecimentos e autoditada, procuro sempre resolver os problemas diários da forma mais otimizada e, sempre, com utilização de boas práticas. 
 
-Olá, me chamo Tarek, tenho 21 anos e atualmente estou buscando por oprutunidades de trabalho como Desenvolvedor.
+Atualmente curso Engenharia de Computação pela Universidade Federal de Goiás. Estudo, por conta própria, frameworks de desenvolvimento web modernos e possuo um grande interesse em scriptings languages e in-client 3d rendering utilizando Three.js/WebGL. 
+
 
 ## Seu desafio
 
-Este arquivo é em [markdown](https://guides.github.com/features/mastering-markdown/). Neste link você pode ver como fazer a _maioria_ dos **recursos** que precisar!
+Para meu desafio optei por apresentar um projeto de autoria própria, mais especificamente, um projeto desenvolvido especialmente para essa candidatura.
 
-```markdown
-Este arquivo é em [markdown](https://guides.github.com/features/mastering-markdown/). Neste link você pode ver como fazer a _maioria_ dos **recursos** que precisar!
-```
+>Você pode acessar meu projeto, atualmente em produção através desse [link](https://tarek.vercel.app/).
+
+Como abordagem utilizada, acredito que não há maneira melhor de me comunicar e apresentar meu desafio se ele mesmo for uma apresentação de quem eu sou! 
+
+Para a construção desse site, foi utilizado o [Next.js](https://nextjs.org/docs), em um nível mais básico, optei por abstrair toda potência de Server Side Rendering fornecida pela framework, de modo a atuar de maneira perfomática para a criação de uma identidade visual própria, construída em [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html) e [CSS3](https://devdocs.io/css/).
+
+> Mais Informações a respeito a respeito do projeto você pode obter acessando diretamente o meu [repositório do projeto](https://github.com/tarekcampossaleh/portfolio).
+
+Em viés de transparência e utilização de boas práticas, esse projeto foi construído utilizando versionamento GIT, você pode encontrar todos meus commits nesse [link](https://github.com/tarekcampossaleh/portfolio/commits/main). 
 
 ----
 
@@ -36,6 +43,7 @@ Este arquivo é em [markdown](https://guides.github.com/features/mastering-markd
     - tarekcampossaleh@gmail.com
     - (62) 9 9992-6725
 
-<br />
 
+
+----
 - [x] Eu, Tarek Campos Saleh, expresso meu pleno consentimento em compartilhar estes dados para fins do processo seletivo do Nexo Jornal, e estou ciente de que poderei, a qualquer momento, solicitar a exclusão dos meus dados pessoais, de acordo com a [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), notificando a equipe responsável pela guarda desses dados por meio do email _tecnologia@nexojornal.com.br_ que fará a eliminação de seus dados pessoais guardados dentro dos prazos legais.
