@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como tirar uma ideia do papel](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-tirar-uma-ideia-do-papel/)
-- [Um vinho e um casaquinho](http://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-vinho-e-um-casaquinho/)
-- [Panela de Pressão](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-de-pressao/)
-- [Que saudade do futuro](http://gamarevista.uol.com.br/colunistas/fernando-luna/que-saudade-do-futuro/)
-- [@vivicaif](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vivicaif/)
+- [Como tirar uma ideia do papel](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-tirar-uma-ideia-do-papel/)
+- [Um vinho e um casaquinho](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-vinho-e-um-casaquinho/)
+- [Panela de Pressão](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-de-pressao/)
+- [Que saudade do futuro](https://gamarevista.uol.com.br/colunistas/fernando-luna/que-saudade-do-futuro/)
+- [@vivicaif](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vivicaif/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
