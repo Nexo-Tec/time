@@ -20,7 +20,7 @@ O que queremos entender é: em que parte, como pessoa desenvolvedora, você se e
 
 ### Caso se sinta confortável com as afirmações abaixo, encorajamos fortemente que você se candidate para esta vaga!
 
-### Atenção! Não é necessário, nem obrigatório, possuir experiência em todos os tópicos listados abaixo. Se você domina Typescript mas não possua certificado da AWS, por exemplo, nós continuamos a encorajar a sua candidatura!
+### Atenção! Não é necessário, nem obrigatório, possuir experiência em todos os tópicos listados abaixo. Se você domina TypeScript mas não possua certificado da AWS, por exemplo, nós continuamos a encorajar a sua candidatura!
 
 - Domina ou tem introdução em TypeScript
 - Conhece PHP, ou utiliza o framework WordPress com maestria
