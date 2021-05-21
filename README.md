@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [100 anos de Mercedes Baptista, 1ª bailarina negra do Brasil](https://www.nexojornal.com.br/expresso/2021/05/20/100-anos-de-Mercedes-Baptista-1%C2%AA-bailarina-negra-do-Brasil)
-- [A aprovação da privatização da Eletrobras na Câmara](https://www.nexojornal.com.br/expresso/2021/05/20/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-na-C%C3%A2mara)
-- [A pressão crescente por um cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2021/05/20/A-press%C3%A3o-crescente-por-um-cessar-fogo-na-Faixa-de-Gaza)
-- [As tentativas de contenção da ‘boiada’ estourada por Salles](https://www.nexojornal.com.br/podcast/2021/05/19/As-tentativas-de-conten%C3%A7%C3%A3o-da-%E2%80%98boiada%E2%80%99-estourada-por-Salles)
-- [Meio ambiente: o novo caso de polícia do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/05/19/Meio-ambiente-o-novo-caso-de-pol%C3%ADcia-do-governo-Bolsonaro)
+- [Qual o saldo da guerra em Gaza, segundo 3 especialistas](https://www.nexojornal.com.br/expresso/2021/05/21/Qual-o-saldo-da-guerra-em-Gaza-segundo-3-especialistas)
+- [Os suspeitos de sumirem com 3 meninos em Belford Roxo](https://www.nexojornal.com.br/expresso/2021/05/21/Os-suspeitos-de-sumirem-com-3-meninos-em-Belford-Roxo)
+- [As questões técnicas e éticas que envolvem a xepa da vacina](https://www.nexojornal.com.br/expresso/2021/05/21/As-quest%C3%B5es-t%C3%A9cnicas-e-%C3%A9ticas-que-envolvem-a-xepa-da-vacina)
+- [Como Pazuello distribuiu culpas em seu 2º dia na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/20/Como-Pazuello-distribuiu-culpas-em-seu-2%C2%BA-dia-na-CPI-da-Covid)
+- [A exclusão da Procuradoria-Geral da operação contra Salles](https://www.nexojornal.com.br/expresso/2021/05/20/A-exclus%C3%A3o-da-Procuradoria-Geral-da-opera%C3%A7%C3%A3o-contra-Salles)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
