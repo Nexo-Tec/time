@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O dinheiro’: ambição e poder no mercado financeiro de Paris](https://www.nexojornal.com.br/estante/trechos/2021/05/21/%E2%80%98O-dinheiro%E2%80%99-ambi%C3%A7%C3%A3o-e-poder-no-mercado-financeiro-de-Paris)
-- [Qual o saldo da guerra em Gaza, segundo 3 especialistas](https://www.nexojornal.com.br/expresso/2021/05/21/Qual-o-saldo-da-guerra-em-Gaza-segundo-3-especialistas)
-- [Os suspeitos de sumirem com 3 meninos em Belford Roxo](https://www.nexojornal.com.br/expresso/2021/05/21/Os-suspeitos-de-sumirem-com-3-meninos-em-Belford-Roxo)
-- [As questões técnicas e éticas que envolvem a xepa da vacina](https://www.nexojornal.com.br/expresso/2021/05/21/As-quest%C3%B5es-t%C3%A9cnicas-e-%C3%A9ticas-que-envolvem-a-xepa-da-vacina)
-- [Como Pazuello distribuiu culpas em seu 2º dia na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/20/Como-Pazuello-distribuiu-culpas-em-seu-2%C2%BA-dia-na-CPI-da-Covid)
+- [Por que quem mente na CPI da Covid não vai preso](https://www.nexojornal.com.br/expresso/2021/05/21/Por-que-quem-mente-na-CPI-da-Covid-n%C3%A3o-vai-preso)
+- [O que a foto de Lula com FHC rende a eles. E à política em geral](https://www.nexojornal.com.br/expresso/2021/05/21/O-que-a-foto-de-Lula-com-FHC-rende-a-eles.-E-%C3%A0-pol%C3%ADtica-em-geral)
+- [Extratos da Semana 21.05.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-21.05.2021)
+- [Os impactos da pandemia na população trans](https://www.nexojornal.com.br/colunistas/tribuna/2021/Os-impactos-da-pandemia-na-popula%C3%A7%C3%A3o-trans)
+- [Por que o discurso de ‘matar bandido’ ecoa tanto na sociedade](https://www.nexojornal.com.br/expresso/2021/05/21/Por-que-o-discurso-de-%E2%80%98matar-bandido%E2%80%99-ecoa-tanto-na-sociedade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
