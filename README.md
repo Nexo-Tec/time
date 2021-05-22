@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Gretchen](http://gamarevista.uol.com.br/pessoas/questionario-proust/gretchen/)
 - [“A moda sustentável pode significar uma tomada de consciência muito maior”](http://gamarevista.uol.com.br/cultura/a-moda-sustentavel-pode-significar-uma-tomada-de-consciencia-muito-maior/)
 - [Extraterrestre](http://gamarevista.uol.com.br/cultura/trecho-de-livro/extraterrestre/)
 - [Pet Shop Boys no Rio em 1994](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/pet-shop-boys-no-rio-em-1994/)
 - [O caso Evandro agora na TV](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-caso-evandro-agora-na-tv/)
-- [A nova onda do forró](http://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-onda-do-forro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
