@@ -18,8 +18,7 @@ Por uma decisão coletiva dos participantes do projeto, optamos por não tornar 
 - LinkedIn: [Darian Rabbani](https://www.linkedin.com/in/darian-rabbani-20b083201/) // [link para CV](https://drive.google.com/file/d/1W5UhzMwa81xA19THdIDo_goJGUFM0e1h/view?usp=sharing)
 
 - Inspiração: 
-Marielle Franco
-Mano Brown e Padre Júlio Lancellotti
+Marielle Franco, Mano Brown e Padre Júlio Lancellotti
 
 - Tecnologia com a qual mais gostaria de trabalhar:
 > Gostaria de trabalhar com algo ligado à segurança da informação. Entretanto é só um desejo, tenho interesse e disponibilidade para trabalhar com outras tecnologias.
