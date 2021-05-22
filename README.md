@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O dinheiro’: ambição e poder no mercado financeiro de Paris](https://www.nexojornal.com.br/estante/trechos/2021/05/21/%E2%80%98O-dinheiro%E2%80%99-ambi%C3%A7%C3%A3o-e-poder-no-mercado-financeiro-de-Paris)
 - [Qual o saldo da guerra em Gaza, segundo 3 especialistas](https://www.nexojornal.com.br/expresso/2021/05/21/Qual-o-saldo-da-guerra-em-Gaza-segundo-3-especialistas)
 - [Os suspeitos de sumirem com 3 meninos em Belford Roxo](https://www.nexojornal.com.br/expresso/2021/05/21/Os-suspeitos-de-sumirem-com-3-meninos-em-Belford-Roxo)
 - [As questões técnicas e éticas que envolvem a xepa da vacina](https://www.nexojornal.com.br/expresso/2021/05/21/As-quest%C3%B5es-t%C3%A9cnicas-e-%C3%A9ticas-que-envolvem-a-xepa-da-vacina)
 - [Como Pazuello distribuiu culpas em seu 2º dia na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/20/Como-Pazuello-distribuiu-culpas-em-seu-2%C2%BA-dia-na-CPI-da-Covid)
+- [A exclusão da Procuradoria-Geral da operação contra Salles](https://www.nexojornal.com.br/expresso/2021/05/20/A-exclus%C3%A3o-da-Procuradoria-Geral-da-opera%C3%A7%C3%A3o-contra-Salles)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
