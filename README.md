@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que quem mente na CPI da Covid não vai preso](https://www.nexojornal.com.br/expresso/2021/05/21/Por-que-quem-mente-na-CPI-da-Covid-n%C3%A3o-vai-preso)
-- [O que a foto de Lula com FHC rende a eles. E à política em geral](https://www.nexojornal.com.br/expresso/2021/05/21/O-que-a-foto-de-Lula-com-FHC-rende-a-eles.-E-%C3%A0-pol%C3%ADtica-em-geral)
-- [Extratos da Semana 21.05.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-21.05.2021)
-- [Os impactos da pandemia na população trans](https://www.nexojornal.com.br/colunistas/tribuna/2021/Os-impactos-da-pandemia-na-popula%C3%A7%C3%A3o-trans)
-- [Por que o discurso de ‘matar bandido’ ecoa tanto na sociedade](https://www.nexojornal.com.br/expresso/2021/05/21/Por-que-o-discurso-de-%E2%80%98matar-bandido%E2%80%99-ecoa-tanto-na-sociedade)
+- [A trajetória e o legado do arquiteto Paulo Mendes da Rocha](https://www.nexojornal.com.br/expresso/2021/05/23/A-trajet%C3%B3ria-e-o-legado-do-arquiteto-Paulo-Mendes-da-Rocha)
+- [A CPI da Covid como uma expressão da ‘intolerância mútua’](https://www.nexojornal.com.br/ensaio/2021/A-CPI-da-Covid-como-uma-express%C3%A3o-da-%E2%80%98intoler%C3%A2ncia-m%C3%BAtua%E2%80%99)
+- [‘A reforma constitucional no Chile pode nem acontecer’](https://www.nexojornal.com.br/entrevista/2021/05/23/%E2%80%98A-reforma-constitucional-no-Chile-pode-nem-acontecer%E2%80%99)
+- [Por que o agronegócio bate recordes de exportação na crise](https://www.nexojornal.com.br/expresso/2021/05/23/Por-que-o-agroneg%C3%B3cio-bate-recordes-de-exporta%C3%A7%C3%A3o-na-crise)
+- [As associações de vítimas da covid que brigam por reparação](https://www.nexojornal.com.br/expresso/2021/05/23/As-associa%C3%A7%C3%B5es-de-v%C3%ADtimas-da-covid-que-brigam-por-repara%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
