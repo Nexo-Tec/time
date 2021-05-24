@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@simon_gillespie_studio](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/simon_gillespie_studio/)
 - [“Nosso corpo inteiro é erógeno, capaz de sentir muitas coisas”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/nosso-corpo-inteiro-e-erogeno-capaz-de-sentir-muitas-coisas/)
 - [Gretchen](http://gamarevista.uol.com.br/pessoas/questionario-proust/gretchen/)
 - [“A moda sustentável pode significar uma tomada de consciência muito maior”](http://gamarevista.uol.com.br/cultura/a-moda-sustentavel-pode-significar-uma-tomada-de-consciencia-muito-maior/)
 - [Extraterrestre](http://gamarevista.uol.com.br/cultura/trecho-de-livro/extraterrestre/)
-- [Pet Shop Boys no Rio em 1994](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/pet-shop-boys-no-rio-em-1994/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
