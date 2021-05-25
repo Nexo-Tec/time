@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A trajetória e o legado do arquiteto Paulo Mendes da Rocha](https://www.nexojornal.com.br/expresso/2021/05/23/A-trajet%C3%B3ria-e-o-legado-do-arquiteto-Paulo-Mendes-da-Rocha)
-- [A CPI da Covid como uma expressão da ‘intolerância mútua’](https://www.nexojornal.com.br/ensaio/2021/A-CPI-da-Covid-como-uma-express%C3%A3o-da-%E2%80%98intoler%C3%A2ncia-m%C3%BAtua%E2%80%99)
-- [‘A reforma constitucional no Chile pode nem acontecer’](https://www.nexojornal.com.br/entrevista/2021/05/23/%E2%80%98A-reforma-constitucional-no-Chile-pode-nem-acontecer%E2%80%99)
-- [Por que o agronegócio bate recordes de exportação na crise](https://www.nexojornal.com.br/expresso/2021/05/23/Por-que-o-agroneg%C3%B3cio-bate-recordes-de-exporta%C3%A7%C3%A3o-na-crise)
-- [As associações de vítimas da covid que brigam por reparação](https://www.nexojornal.com.br/expresso/2021/05/23/As-associa%C3%A7%C3%B5es-de-v%C3%ADtimas-da-covid-que-brigam-por-repara%C3%A7%C3%A3o)
+- [As alternativas para um programa social no pós-pandemia](https://www.nexojornal.com.br/expresso/2021/05/24/As-alternativas-para-um-programa-social-no-p%C3%B3s-pandemia)
+- [O que é o ‘orçamento sensível a gênero’ adotado em Lyon](https://www.nexojornal.com.br/expresso/2021/05/24/O-que-%C3%A9-o-%E2%80%98or%C3%A7amento-sens%C3%ADvel-a-g%C3%AAnero%E2%80%99-adotado-em-Lyon)
+- [O brilho dos vaga-lumes errantes: sobre política e imaginação](https://www.nexojornal.com.br/colunistas/2021/O-brilho-dos-vaga-lumes-errantes-sobre-pol%C3%ADtica-e-imagina%C3%A7%C3%A3o)
+- [7 iniciativas online para encontrar os arquivos de Da Vinci](https://www.nexojornal.com.br/expresso/2021/05/24/7-iniciativas-online-para-encontrar-os-arquivos-de-Da-Vinci)
+- [A desigualdade ‘escandalosa’ na vacinação mundial](https://www.nexojornal.com.br/podcast/2021/05/24/A-desigualdade-%E2%80%98escandalosa%E2%80%99-na-vacina%C3%A7%C3%A3o-mundial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
