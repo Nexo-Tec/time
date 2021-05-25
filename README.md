@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O caso George Floyd e o debate racial no Brasil](https://www.nexojornal.com.br/expresso/2021/05/24/O-caso-George-Floyd-e-o-debate-racial-no-Brasil)
+- [Qual a cronologia científica da cloroquina na pandemia](https://www.nexojornal.com.br/expresso/2021/05/24/Qual-a-cronologia-cient%C3%ADfica-da-cloroquina-na-pandemia)
 - [As alternativas para um programa social no pós-pandemia](https://www.nexojornal.com.br/expresso/2021/05/24/As-alternativas-para-um-programa-social-no-p%C3%B3s-pandemia)
 - [O que é o ‘orçamento sensível a gênero’ adotado em Lyon](https://www.nexojornal.com.br/expresso/2021/05/24/O-que-%C3%A9-o-%E2%80%98or%C3%A7amento-sens%C3%ADvel-a-g%C3%AAnero%E2%80%99-adotado-em-Lyon)
 - [O brilho dos vaga-lumes errantes: sobre política e imaginação](https://www.nexojornal.com.br/colunistas/2021/O-brilho-dos-vaga-lumes-errantes-sobre-pol%C3%ADtica-e-imagina%C3%A7%C3%A3o)
-- [7 iniciativas online para encontrar os arquivos de Da Vinci](https://www.nexojornal.com.br/expresso/2021/05/24/7-iniciativas-online-para-encontrar-os-arquivos-de-Da-Vinci)
-- [A desigualdade ‘escandalosa’ na vacinação mundial](https://www.nexojornal.com.br/podcast/2021/05/24/A-desigualdade-%E2%80%98escandalosa%E2%80%99-na-vacina%C3%A7%C3%A3o-mundial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
