@@ -12,8 +12,6 @@ Meus maiores obstáculos foram entender o fluxo de autenticação no Spotify (cu
 
 ![image](https://user-images.githubusercontent.com/46767547/119419864-75794280-bcd1-11eb-87b6-6a90ced9770f.png)
 
-----
-
 ## Informações Básicas
 
 - Nome Completo: *Guilherme Parzianello*
