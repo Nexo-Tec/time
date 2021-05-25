@@ -16,15 +16,15 @@ Meus maiores obstáculos foram entender o fluxo de autenticação no Spotify (cu
 
 ## Informações Básicas
 
-- Nome Completo: Guilherme Parzianello
-- Pronome: Ele/dele
-- LinkedIn e link para o seu CV: https://www.linkedin.com/in/guilherme-parzianello/
-- Inspiração: cite pessoas que te inspiram - Não precisa ser necessariamente da área de tecnologia
-- Tecnologia com a qual mais gostaria de trabalhar: Javascript, Node, React
-- Possui algum projeto que gostaria de executar?
-- "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news? Relate brevemente sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento).
-- E-mail: glhrm_@live.com
-- Celular: (51) 9 8193 7651
+- Nome Completo: *Guilherme Parzianello*
+- Pronome: *Ele/dele*
+- LinkedIn: *https://www.linkedin.com/in/guilherme-parzianello/*
+- CV: *https://drive.google.com/file/d/1tC84ffD-iShzuU6ik8HGlad8T4WcbUBU/view?usp=sharing*
+- Inspiração: *Minhas inspirações vêm de todos os lados: de mentes geniais como Kate Bush, Pedro Almodóvar e José Saramago ao amor, força e altruísmo de minha mãe.*
+- Tecnologia com a qual mais gostaria de trabalhar: *Javascript, Node, React*
+- "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news? Relate brevemente sua opinião sobre esse assunto. *Vejo que o alvo do jornalismo sempre foi a desinformação: o que mudou foi a forma como ela se apresenta. Se hoje se mostra mais cínica e agressiva, como uma indústria de fake news, até ontem parecia escapar pelos dedos sob a forma de um senso comum. Em ambos os casos há uma lacuna (não raro intencional) de informação que vejo como papel do jornalismo apontar e preencher.*
+- E-mail: *glhrm_@live.com*
+- Celular: *(51) 9 8193 7651*
 
 Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento de dados para os propósitos desta chamada:
 
