@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Mayra Pinheiro expôs na CPI a aposta do governo na cloroquina](https://www.nexojornal.com.br/expresso/2021/05/25/Como-Mayra-Pinheiro-exp%C3%B4s-na-CPI-a-aposta-do-governo-na-cloroquina)
-- [O autoritarismo furtivo da perseguição a um professor](https://www.nexojornal.com.br/ensaio/2021/O-autoritarismo-furtivo-da-persegui%C3%A7%C3%A3o-a-um-professor)
-- [A história ilustrada de um saber: antidepressivos](https://www.nexojornal.com.br/grafico/2021/05/25/A-hist%C3%B3ria-ilustrada-de-um-saber-antidepressivos)
-- [O acervo digital com a obra de Vinicius de Moraes](https://www.nexojornal.com.br/expresso/2021/05/25/O-acervo-digital-com-a-obra-de-Vinicius-de-Moraes)
-- [A falha digital usada para justificar a falha nas vacinas](https://www.nexojornal.com.br/expresso/2021/05/25/A-falha-digital-usada-para-justificar-a-falha-nas-vacinas)
+- [O caso George Floyd e o debate racial no Brasil](https://www.nexojornal.com.br/expresso/2021/05/24/O-caso-George-Floyd-e-o-debate-racial-no-Brasil)
+- [Qual a cronologia científica da cloroquina na pandemia](https://www.nexojornal.com.br/expresso/2021/05/24/Qual-a-cronologia-cient%C3%ADfica-da-cloroquina-na-pandemia)
+- [As alternativas para um programa social no pós-pandemia](https://www.nexojornal.com.br/expresso/2021/05/24/As-alternativas-para-um-programa-social-no-p%C3%B3s-pandemia)
+- [O que é o ‘orçamento sensível a gênero’ adotado em Lyon](https://www.nexojornal.com.br/expresso/2021/05/24/O-que-%C3%A9-o-%E2%80%98or%C3%A7amento-sens%C3%ADvel-a-g%C3%AAnero%E2%80%99-adotado-em-Lyon)
+- [O brilho dos vaga-lumes errantes: sobre política e imaginação](https://www.nexojornal.com.br/colunistas/2021/O-brilho-dos-vaga-lumes-errantes-sobre-pol%C3%ADtica-e-imagina%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
