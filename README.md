@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A história afro-americana contada pela comida](http://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-historia-afro-americana-contada-pela-comida/)
 - [Por um futuro mais sustentável](http://gamarevista.uol.com.br/sustentabilidade/por-um-futuro-mais-sustentavel/)
 - [d20](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/d20/)
 - [@simon_gillespie_studio](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/simon_gillespie_studio/)
 - [“Nosso corpo inteiro é erógeno, capaz de sentir muitas coisas”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/nosso-corpo-inteiro-e-erogeno-capaz-de-sentir-muitas-coisas/)
-- [Gretchen](http://gamarevista.uol.com.br/pessoas/questionario-proust/gretchen/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
