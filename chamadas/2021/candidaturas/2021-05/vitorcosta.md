@@ -10,7 +10,7 @@ Desde então vivo estudando novas tecnologias e aperfeiçoando meus conhecimento
 
 Fiz um projeto de autoria própria especificamente para essa vaga. Fiz tudo em duas semanas, então algumas coisas foram feitas com pressa... mas estava com medo de demorar de mais para aplicar para esta chamada! Os repositórios estão linkados na página principal. Também fiz uma pequena apresentação do projeto na página inicial. O projeto é completamente funcional, nenhum dado é estático. O back-end atualiza as informações uma vez por dia. Também está com SSR configurado!
 
-[nexo.vitorcosta.me](nexo.vitorcosta.me)
+[nexo.vitorcosta.me](https://nexo.vitorcosta.me)
 
 _ps: Hospedei junto com o meu site pessoal (que eu já tinha), e isso não gerou nenhum custo para mim. Aproveitei o domínio e criei apenas um subdomínio novo, o certificado SSL foi feito com o let's encrypt._
 
