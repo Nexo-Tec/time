@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Políticas de combate às doenças crônicas não transmissíveis no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-combate-%C3%A0s-doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis-no-Brasil)
 - [Dia Internacional da Biodiversidade: como estados e municípios podem reforçar seu engajamento com o desenvolvimento sustentável](https://pp.nexojornal.com.br/ponto-de-vista/2021/Dia-Internacional-da-Biodiversidade-como-estados-e-munic%C3%ADpios-podem-refor%C3%A7ar-seu-engajamento-com-o-desenvolvimento-sustent%C3%A1vel)
 - [Regeneração natural como estratégia para restauração de ecossistemas](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/25/Regenera%C3%A7%C3%A3o-natural-como-estrat%C3%A9gia-para-restaura%C3%A7%C3%A3o-de-ecossistemas)
 - [Ética e alocação de recursos em saúde](https://pp.nexojornal.com.br/glossario/%C3%89tica-e-aloca%C3%A7%C3%A3o-de-recursos-em-sa%C3%BAde)
 - [Como raça, gênero e posição social compõem o quadro de desigualdades educacionais em São Paulo](https://pp.nexojornal.com.br/academico/2021/Como-ra%C3%A7a-g%C3%AAnero-e-posi%C3%A7%C3%A3o-social-comp%C3%B5em-o-quadro-de-desigualdades-educacionais-em-S%C3%A3o-Paulo)
-- [O que a sociologia de Florestan Fernandes pode nos ensinar sobre o assassinato de Marielle Franco?](https://pp.nexojornal.com.br/opiniao/2021/O-que-a-sociologia-de-Florestan-Fernandes-pode-nos-ensinar-sobre-o-assassinato-de-Marielle-Franco)
 <!-- PP_LIST:END -->
 
