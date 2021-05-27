@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Para o Paulo Gustavo](http://gamarevista.uol.com.br/colunistas/letrux/para-o-paulo-gustavo/)
-- [A história afro-americana contada pela comida](http://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-historia-afro-americana-contada-pela-comida/)
-- [Por um futuro mais sustentável](http://gamarevista.uol.com.br/sociedade/sustentabilidade/por-um-futuro-mais-sustentavel/)
-- [d20](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/d20/)
-- [@simon_gillespie_studio](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/simon_gillespie_studio/)
+- [O ano em que a música mudou o mundo](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-ano-em-que-a-musica-mudou-o-mundo/)
+- [O vencedor do Oscar agora em livro](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-vencedor-do-oscar-agora-em-livro/)
+- [Podcast destrincha a história do Xingu](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-destrincha-a-historia-do-xingu/)
+- [A história do craque italiano Roberto Baggio](http://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-craque-italiano-roberto-baggio/)
+- [Álbuns que contam 25 anos de história](http://gamarevista.uol.com.br/achamos-que-vale/ler/albuns-que-contam-25-anos-de-historia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
