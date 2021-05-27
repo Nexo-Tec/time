@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Mayra Pinheiro expôs na CPI a aposta do governo na cloroquina](https://www.nexojornal.com.br/expresso/2021/05/25/Como-Mayra-Pinheiro-exp%C3%B4s-na-CPI-a-aposta-do-governo-na-cloroquina)
-- [O autoritarismo furtivo da perseguição a um professor](https://www.nexojornal.com.br/ensaio/2021/O-autoritarismo-furtivo-da-persegui%C3%A7%C3%A3o-a-um-professor)
-- [A história ilustrada de um saber: antidepressivos](https://www.nexojornal.com.br/grafico/2021/05/25/A-hist%C3%B3ria-ilustrada-de-um-saber-antidepressivos)
-- [O acervo digital com a obra de Vinicius de Moraes](https://www.nexojornal.com.br/expresso/2021/05/25/O-acervo-digital-com-a-obra-de-Vinicius-de-Moraes)
-- [A falha digital usada para justificar a falha nas vacinas](https://www.nexojornal.com.br/expresso/2021/05/25/A-falha-digital-usada-para-justificar-a-falha-nas-vacinas)
+- [Como o Brasil reage ao novo agravamento da pandemia](https://www.nexojornal.com.br/expresso/2021/05/26/Como-o-Brasil-reage-ao-novo-agravamento-da-pandemia)
+- [O projeto que dá visibilidade ao design gráfico sírio](https://www.nexojornal.com.br/expresso/2021/05/26/O-projeto-que-d%C3%A1-visibilidade-ao-design-gr%C3%A1fico-s%C3%ADrio)
+- [O futuro dos grandes centros urbanos no pós-pandemia](https://www.nexojornal.com.br/colunistas/2021/O-futuro-dos-grandes-centros-urbanos-no-p%C3%B3s-pandemia)
+- [Japão: as pressões econômicas em torno das Olimpíadas](https://www.nexojornal.com.br/expresso/2021/05/26/Jap%C3%A3o-as-press%C3%B5es-econ%C3%B4micas-em-torno-das-Olimp%C3%ADadas)
+- [Por que Pazuello será convocado de novo pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/26/Por-que-Pazuello-ser%C3%A1-convocado-de-novo-pela-CPI-da-Covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
