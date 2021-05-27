@@ -108,7 +108,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- GAMA_LIST:START -->
 - [Para o Paulo Gustavo](http://gamarevista.uol.com.br/colunistas/letrux/para-o-paulo-gustavo/)
 - [A história afro-americana contada pela comida](http://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-historia-afro-americana-contada-pela-comida/)
-- [Por um futuro mais sustentável](http://gamarevista.uol.com.br/formato/apoio/por-um-futuro-mais-sustentavel/)
+- [Por um futuro mais sustentável](http://gamarevista.uol.com.br/sociedade/sustentabilidade/por-um-futuro-mais-sustentavel/)
 - [d20](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/d20/)
 - [@simon_gillespie_studio](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/simon_gillespie_studio/)
 <!-- GAMA_LIST:END -->
