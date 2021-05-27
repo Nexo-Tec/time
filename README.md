@@ -110,7 +110,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O vencedor do Oscar agora em livro](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-vencedor-do-oscar-agora-em-livro/)
 - [Podcast destrincha a história do Xingu](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-destrincha-a-historia-do-xingu/)
 - [A história do craque italiano Roberto Baggio](http://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-craque-italiano-roberto-baggio/)
-- [Álbuns que contam 25 anos de história](http://gamarevista.uol.com.br/achamos-que-vale/ler/albuns-que-contam-25-anos-de-historia/)
+- [Críticas que contam 25 anos de história da música](http://gamarevista.uol.com.br/achamos-que-vale/ler/albuns-que-contam-25-anos-de-historia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
