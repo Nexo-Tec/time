@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Recorde na pandemia: o histórico do desemprego no Brasil](https://www.nexojornal.com.br/expresso/2021/05/27/Recorde-na-pandemia-o-hist%C3%B3rico-do-desemprego-no-Brasil)
-- [O começo de uma nova era tecnológica e as inovações de 2020](https://www.nexojornal.com.br/ensaio/2021/O-come%C3%A7o-de-uma-nova-era-tecnol%C3%B3gica-e-as-inova%C3%A7%C3%B5es-de-2020)
-- [A cronologia da delação de Sérgio Cabral até sua anulação](https://www.nexojornal.com.br/expresso/2021/05/27/A-cronologia-da-dela%C3%A7%C3%A3o-de-S%C3%A9rgio-Cabral-at%C3%A9-sua-anula%C3%A7%C3%A3o)
-- [O impacto de isentar motos de pedágio, como quer Bolsonaro](https://www.nexojornal.com.br/podcast/2021/05/27/O-impacto-de-isentar-motos-de-ped%C3%A1gio-como-quer-Bolsonaro)
-- [Por que o país poderia vacinar antes, segundo o chefe do Butantan](https://www.nexojornal.com.br/expresso/2021/05/27/Por-que-o-pa%C3%ADs-poderia-vacinar-antes-segundo-o-chefe-do-Butantan)
+- [Como o Brasil reage ao novo agravamento da pandemia](https://www.nexojornal.com.br/expresso/2021/05/26/Como-o-Brasil-reage-ao-novo-agravamento-da-pandemia)
+- [O projeto que dá visibilidade ao design gráfico sírio](https://www.nexojornal.com.br/expresso/2021/05/26/O-projeto-que-d%C3%A1-visibilidade-ao-design-gr%C3%A1fico-s%C3%ADrio)
+- [O futuro dos grandes centros urbanos no pós-pandemia](https://www.nexojornal.com.br/colunistas/2021/O-futuro-dos-grandes-centros-urbanos-no-p%C3%B3s-pandemia)
+- [Japão: as pressões econômicas em torno das Olimpíadas](https://www.nexojornal.com.br/expresso/2021/05/26/Jap%C3%A3o-as-press%C3%B5es-econ%C3%B4micas-em-torno-das-Olimp%C3%ADadas)
+- [Por que Pazuello será convocado de novo pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/05/26/Por-que-Pazuello-ser%C3%A1-convocado-de-novo-pela-CPI-da-Covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
