@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A vez das livreiras](http://gamarevista.uol.com.br/pessoas/uma-turma/a-vez-das-livreiras/)
 - [Doramar ou a Odisseia](http://gamarevista.uol.com.br/cultura/trecho-de-livro/doramar-ou-a-odisseia/)
 - [O ano em que a música mudou o mundo](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-ano-em-que-a-musica-mudou-o-mundo/)
 - [O vencedor do Oscar agora em livro](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-vencedor-do-oscar-agora-em-livro/)
 - [Podcast destrincha a história do Xingu](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-destrincha-a-historia-do-xingu/)
-- [A história do craque italiano Roberto Baggio](http://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-craque-italiano-roberto-baggio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
