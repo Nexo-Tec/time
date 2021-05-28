@@ -1,4 +1,4 @@
-# Vagas Abertas - Maio 2021
+# [ENCERRADO] Vagas - Maio 2021
 
 > Esta  é uma forma experimental de contratação de pessoas desenvolvedoras que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las. [Saiba mais sobre o time](https://github.com/Nexo-Tec/time).
 
