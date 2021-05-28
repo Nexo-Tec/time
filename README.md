@@ -1,6 +1,6 @@
 # Nexo Tecnologia
 
-> Temos 3 (três) vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
+> O processo seletivo da [chamada de Maio](chamadas/2021/README.md) já se encerrou. Obrigado a todas pessoas que submiteram! Em breve postaremos os resultados de nosso rico e experimental processo de seleção.
 
 ## Quem somos
 
@@ -96,30 +96,30 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto que substitui a Lei de Segurança Nacional sob análise](https://www.nexojornal.com.br/expresso/2021/05/05/O-projeto-que-substitui-a-Lei-de-Seguran%C3%A7a-Nacional-sob-an%C3%A1lise)
-- [CPI da Covid: o que pesa contra Bolsonaro nas falas dos ex-ministros](https://www.nexojornal.com.br/expresso/2021/05/05/CPI-da-Covid-o-que-pesa-contra-Bolsonaro-nas-falas-dos-ex-ministros)
-- [A dívida das igrejas com a União em 2021](https://www.nexojornal.com.br/grafico/2021/05/05/A-d%C3%ADvida-das-igrejas-com-a-Uni%C3%A3o-em-2021)
-- [O que nós aprendemos com as bactérias termófilas](https://www.nexojornal.com.br/colunistas/2021/O-que-n%C3%B3s-aprendemos-com-as-bact%C3%A9rias-term%C3%B3filas)
-- [A fotógrafa que fez carreira registrando animais filhotes](https://www.nexojornal.com.br/expresso/2021/05/05/A-fot%C3%B3grafa-que-fez-carreira-registrando-animais-filhotes)
+- [Recorde na pandemia: o histórico do desemprego no Brasil](https://www.nexojornal.com.br/expresso/2021/05/27/Recorde-na-pandemia-o-hist%C3%B3rico-do-desemprego-no-Brasil)
+- [O começo de uma nova era tecnológica e as inovações de 2020](https://www.nexojornal.com.br/ensaio/2021/O-come%C3%A7o-de-uma-nova-era-tecnol%C3%B3gica-e-as-inova%C3%A7%C3%B5es-de-2020)
+- [A cronologia da delação de Sérgio Cabral até sua anulação](https://www.nexojornal.com.br/expresso/2021/05/27/A-cronologia-da-dela%C3%A7%C3%A3o-de-S%C3%A9rgio-Cabral-at%C3%A9-sua-anula%C3%A7%C3%A3o)
+- [O impacto de isentar motos de pedágio, como quer Bolsonaro](https://www.nexojornal.com.br/podcast/2021/05/27/O-impacto-de-isentar-motos-de-ped%C3%A1gio-como-quer-Bolsonaro)
+- [Por que o país poderia vacinar antes, segundo o chefe do Butantan](https://www.nexojornal.com.br/expresso/2021/05/27/Por-que-o-pa%C3%ADs-poderia-vacinar-antes-segundo-o-chefe-do-Butantan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Fogo no parquinho](http://gamarevista.uol.com.br/filhos/fogo-no-parquinho/)
-- [Tribologia](http://gamarevista.uol.com.br/colunistas/marcello-dantas/tribologia/)
-- [Gloria Kalil: ‘O Planalto abriu a porta para o palavrão’](http://gamarevista.uol.com.br/sociedade/gloria-kalil-o-planalto-abriu-a-porta-para-o-palavrao/)
-- [Cadeira de Plástico](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cadeira-de-plastico/)
-- [Cancelar ou ensinar?](http://gamarevista.uol.com.br/sociedade/cancelar-ou-ensinar/)
+- [A vez das livreiras](http://gamarevista.uol.com.br/pessoas/uma-turma/a-vez-das-livreiras/)
+- [Doramar ou a Odisseia](http://gamarevista.uol.com.br/cultura/trecho-de-livro/doramar-ou-a-odisseia/)
+- [O ano em que a música mudou o mundo](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-ano-em-que-a-musica-mudou-o-mundo/)
+- [O vencedor do Oscar agora em livro](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-vencedor-do-oscar-agora-em-livro/)
+- [Podcast destrincha a história do Xingu](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-destrincha-a-historia-do-xingu/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [6 perguntas que a ciência já respondeu sobre agricultura e desenvolvimento econômico](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-agricultura-e-desenvolvimento-econ%C3%B4mico)
-- [Como salas de aula brasileiras se tornaram mais segregadas que nos EUA](https://pp.nexojornal.com.br/topico/2021/05/05/Como-salas-de-aula-brasileiras-se-tornaram-mais-segregadas-que-nos-EUA)
-- [Como cientistas brasileiras se organizam em defesa da vida das mulheres e da ciência na pandemia](https://pp.nexojornal.com.br/topico/2021/05/04/Como-cientistas-brasileiras-se-organizam-em-defesa-da-vida-das-mulheres-e-da-ci%C3%AAncia-na-pandemia)
-- [Há espaço na pandemia para discutir soluções para a crise climática?](https://pp.nexojornal.com.br/opiniao/2021/H%C3%A1-espa%C3%A7o-na-pandemia-para-discutir-solu%C3%A7%C3%B5es-para-a-crise-clim%C3%A1tica)
-- [Renato Maluf: abordagem multiescalar dos sistemas alimentares](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/05/04/Renato-Maluf-abordagem-multiescalar-dos-sistemas-alimentares)
+- [Políticas de combate às doenças crônicas não transmissíveis no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-combate-%C3%A0s-doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis-no-Brasil)
+- [Dia Internacional da Biodiversidade: como estados e municípios podem reforçar seu engajamento com o desenvolvimento sustentável](https://pp.nexojornal.com.br/ponto-de-vista/2021/Dia-Internacional-da-Biodiversidade-como-estados-e-munic%C3%ADpios-podem-refor%C3%A7ar-seu-engajamento-com-o-desenvolvimento-sustent%C3%A1vel)
+- [Regeneração natural como estratégia para restauração de ecossistemas](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/25/Regenera%C3%A7%C3%A3o-natural-como-estrat%C3%A9gia-para-restaura%C3%A7%C3%A3o-de-ecossistemas)
+- [Ética e alocação de recursos em saúde](https://pp.nexojornal.com.br/glossario/%C3%89tica-e-aloca%C3%A7%C3%A3o-de-recursos-em-sa%C3%BAde)
+- [Como raça, gênero e posição social compõem o quadro de desigualdades educacionais em São Paulo](https://pp.nexojornal.com.br/academico/2021/Como-ra%C3%A7a-g%C3%AAnero-e-posi%C3%A7%C3%A3o-social-comp%C3%B5em-o-quadro-de-desigualdades-educacionais-em-S%C3%A3o-Paulo)
 <!-- PP_LIST:END -->
 

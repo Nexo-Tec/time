@@ -1,8 +1,8 @@
-# Vagas Abertas - Maio 2021
+# [ENCERRADO] Vagas - Maio 2021
 
-> Esta  é uma forma experimental de contratação de pessoas desenvolvedoras que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las.
+> Esta  é uma forma experimental de contratação de pessoas desenvolvedoras que torna o próprio processo de candidatura similar ao nosso dia a dia. Quaisquer críticas ou sugestões, estamos sempre abertos para recebê-las. [Saiba mais sobre o time](https://github.com/Nexo-Tec/time).
 
-- Número de vagas abertas: 3 (três). 
+- Número de vagas abertas: 4 (quatro). 
 - Salário: A depender do nível de senioridade. O valor inicial para Desenvolvedor Jr., em contrato CLT, é de R$ 3.500,00 ao mês, com benefícios (plano de saúde, vale alimentação e ajuda de custo com internet para o trabalho remoto).  
 - Modalidade: Trabalho remoto.
 
@@ -19,6 +19,8 @@ Mas a realidade não é puramente binária. Há diversos momentos de interlocuç
 O que queremos entender é: em que parte, como pessoa desenvolvedora, você se encaixa, quais tecnologias se sente confortável em utilizar e para onde pretende se desenvolver futuramente.
 
 ### Caso se sinta confortável com as afirmações abaixo, encorajamos fortemente que você se candidate para esta vaga!
+
+### Atenção! Não é necessário, nem obrigatório, possuir experiência em todos os tópicos listados abaixo. Se você domina TypeScript mas não possua certificado da AWS, por exemplo, nós continuamos a encorajar a sua candidatura!
 
 - Domina ou tem introdução em TypeScript
 - Conhece PHP, ou utiliza o framework WordPress com maestria
