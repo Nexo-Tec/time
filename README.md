@@ -1,6 +1,6 @@
 # Nexo Tecnologia
 
-> Temos 4 (quatro) vagas abertas no momento! Saiba mais em [chamadas](chamadas/2021/README.md)
+> O processo seletivo da [chamada de Maio](chamadas/2021/README.md) já se encerrou. Obrigado a todas pessoas que submiteram! Em breve postaremos os resultados de nosso rico e experimental processo de seleção.
 
 ## Quem somos
 
