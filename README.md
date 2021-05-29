@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a oposição justifica protesto antigoverno na pandemia](https://www.nexojornal.com.br/expresso/2021/05/28/Como-a-oposi%C3%A7%C3%A3o-justifica-protesto-antigoverno-na-pandemia)
-- [O reconhecimento alemão do genocídio cometido na Namíbia](https://www.nexojornal.com.br/expresso/2021/05/28/O-reconhecimento-alem%C3%A3o-do-genoc%C3%ADdio-cometido-na-Nam%C3%ADbia)
-- [Como 'risadas' são identificadas em animais, segundo este estudo](https://www.nexojornal.com.br/expresso/2021/05/28/Como-risadas-s%C3%A3o-identificadas-em-animais-segundo-este-estudo)
-- [As grávidas vitimadas pela covid e os órfãos da pandemia](https://www.nexojornal.com.br/colunistas/tribuna/2021/As-gr%C3%A1vidas-vitimadas-pela-covid-e-os-%C3%B3rf%C3%A3os-da-pandemia)
-- [Transparência para garantir confiança](https://www.nexojornal.com.br/externo/2021/05/28/Transpar%C3%AAncia-para-garantir-confian%C3%A7a)
+- [A 4ª vitória eleitoral de Assad. E a situação atual da Síria](https://www.nexojornal.com.br/expresso/2021/05/28/A-4%C2%AA-vit%C3%B3ria-eleitoral-de-Assad.-E-a-situa%C3%A7%C3%A3o-atual-da-S%C3%ADria)
+- [O que a lei diz sobre a participação militar em atos políticos](https://www.nexojornal.com.br/expresso/2021/05/28/O-que-a-lei-diz-sobre-a-participa%C3%A7%C3%A3o-militar-em-atos-pol%C3%ADticos)
+- [A suspeita de assédio sexual que pesa contra Neymar](https://www.nexojornal.com.br/expresso/2021/05/28/A-suspeita-de-ass%C3%A9dio-sexual-que-pesa-contra-Neymar)
+- [Recorde na pandemia: o histórico do desemprego no Brasil](https://www.nexojornal.com.br/expresso/2021/05/27/Recorde-na-pandemia-o-hist%C3%B3rico-do-desemprego-no-Brasil)
+- [O começo de uma nova era tecnológica e as inovações de 2020](https://www.nexojornal.com.br/ensaio/2021/O-come%C3%A7o-de-uma-nova-era-tecnol%C3%B3gica-e-as-inova%C3%A7%C3%B5es-de-2020)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
