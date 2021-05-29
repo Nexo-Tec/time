@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A 4ª vitória eleitoral de Assad. E a situação atual da Síria](https://www.nexojornal.com.br/expresso/2021/05/28/A-4%C2%AA-vit%C3%B3ria-eleitoral-de-Assad.-E-a-situa%C3%A7%C3%A3o-atual-da-S%C3%ADria)
+- [O que a lei diz sobre a participação militar em atos políticos](https://www.nexojornal.com.br/expresso/2021/05/28/O-que-a-lei-diz-sobre-a-participa%C3%A7%C3%A3o-militar-em-atos-pol%C3%ADticos)
+- [A suspeita de assédio sexual que pesa contra Neymar](https://www.nexojornal.com.br/expresso/2021/05/28/A-suspeita-de-ass%C3%A9dio-sexual-que-pesa-contra-Neymar)
 - [Recorde na pandemia: o histórico do desemprego no Brasil](https://www.nexojornal.com.br/expresso/2021/05/27/Recorde-na-pandemia-o-hist%C3%B3rico-do-desemprego-no-Brasil)
 - [O começo de uma nova era tecnológica e as inovações de 2020](https://www.nexojornal.com.br/ensaio/2021/O-come%C3%A7o-de-uma-nova-era-tecnol%C3%B3gica-e-as-inova%C3%A7%C3%B5es-de-2020)
-- [A cronologia da delação de Sérgio Cabral até sua anulação](https://www.nexojornal.com.br/expresso/2021/05/27/A-cronologia-da-dela%C3%A7%C3%A3o-de-S%C3%A9rgio-Cabral-at%C3%A9-sua-anula%C3%A7%C3%A3o)
-- [O impacto de isentar motos de pedágio, como quer Bolsonaro](https://www.nexojornal.com.br/podcast/2021/05/27/O-impacto-de-isentar-motos-de-ped%C3%A1gio-como-quer-Bolsonaro)
-- [Por que o país poderia vacinar antes, segundo o chefe do Butantan](https://www.nexojornal.com.br/expresso/2021/05/27/Por-que-o-pa%C3%ADs-poderia-vacinar-antes-segundo-o-chefe-do-Butantan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
