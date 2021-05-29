@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Recorde na pandemia: o histórico do desemprego no Brasil](https://www.nexojornal.com.br/expresso/2021/05/27/Recorde-na-pandemia-o-hist%C3%B3rico-do-desemprego-no-Brasil)
-- [O começo de uma nova era tecnológica e as inovações de 2020](https://www.nexojornal.com.br/ensaio/2021/O-come%C3%A7o-de-uma-nova-era-tecnol%C3%B3gica-e-as-inova%C3%A7%C3%B5es-de-2020)
-- [A cronologia da delação de Sérgio Cabral até sua anulação](https://www.nexojornal.com.br/expresso/2021/05/27/A-cronologia-da-dela%C3%A7%C3%A3o-de-S%C3%A9rgio-Cabral-at%C3%A9-sua-anula%C3%A7%C3%A3o)
-- [O impacto de isentar motos de pedágio, como quer Bolsonaro](https://www.nexojornal.com.br/podcast/2021/05/27/O-impacto-de-isentar-motos-de-ped%C3%A1gio-como-quer-Bolsonaro)
-- [Por que o país poderia vacinar antes, segundo o chefe do Butantan](https://www.nexojornal.com.br/expresso/2021/05/27/Por-que-o-pa%C3%ADs-poderia-vacinar-antes-segundo-o-chefe-do-Butantan)
+- [Como a oposição justifica protesto antigoverno na pandemia](https://www.nexojornal.com.br/expresso/2021/05/28/Como-a-oposi%C3%A7%C3%A3o-justifica-protesto-antigoverno-na-pandemia)
+- [O reconhecimento alemão do genocídio cometido na Namíbia](https://www.nexojornal.com.br/expresso/2021/05/28/O-reconhecimento-alem%C3%A3o-do-genoc%C3%ADdio-cometido-na-Nam%C3%ADbia)
+- [Como 'risadas' são identificadas em animais, segundo este estudo](https://www.nexojornal.com.br/expresso/2021/05/28/Como-risadas-s%C3%A3o-identificadas-em-animais-segundo-este-estudo)
+- [As grávidas vitimadas pela covid e os órfãos da pandemia](https://www.nexojornal.com.br/colunistas/tribuna/2021/As-gr%C3%A1vidas-vitimadas-pela-covid-e-os-%C3%B3rf%C3%A3os-da-pandemia)
+- [Transparência para garantir confiança](https://www.nexojornal.com.br/externo/2021/05/28/Transpar%C3%AAncia-para-garantir-confian%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
