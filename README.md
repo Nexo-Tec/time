@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a oposição justifica protesto antigoverno na pandemia](https://www.nexojornal.com.br/expresso/2021/05/28/Como-a-oposi%C3%A7%C3%A3o-justifica-protesto-antigoverno-na-pandemia)
-- [O reconhecimento alemão do genocídio cometido na Namíbia](https://www.nexojornal.com.br/expresso/2021/05/28/O-reconhecimento-alem%C3%A3o-do-genoc%C3%ADdio-cometido-na-Nam%C3%ADbia)
-- [Como 'risadas' são identificadas em animais, segundo este estudo](https://www.nexojornal.com.br/expresso/2021/05/28/Como-risadas-s%C3%A3o-identificadas-em-animais-segundo-este-estudo)
-- [As grávidas vitimadas pela covid e os órfãos da pandemia](https://www.nexojornal.com.br/colunistas/tribuna/2021/As-gr%C3%A1vidas-vitimadas-pela-covid-e-os-%C3%B3rf%C3%A3os-da-pandemia)
-- [Transparência para garantir confiança](https://www.nexojornal.com.br/externo/2021/05/28/Transpar%C3%AAncia-para-garantir-confian%C3%A7a)
+- [Como seria o sistema operacional do Mac nas mãos da Microsoft](https://www.nexojornal.com.br/expresso/2021/05/30/Como-seria-o-sistema-operacional-do-Mac-nas-m%C3%A3os-da-Microsoft)
+- [5 livros de crônicas que me inspiraram como cronista](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-cr%C3%B4nicas-que-me-inspiraram-como-cronista)
+- [Os EUA entre o nacionalismo e a diplomacia da vacina](https://www.nexojornal.com.br/expresso/2021/05/30/Os-EUA-entre-o-nacionalismo-e-a-diplomacia-da-vacina)
+- [VIP: o perfil da extrema riqueza brasileira](https://www.nexojornal.com.br/ensaio/2021/VIP-o-perfil-da-extrema-riqueza-brasileira)
+- [Os riscos da CPI da Covid virar palco para a desinformação](https://www.nexojornal.com.br/expresso/2021/05/30/Os-riscos-da-CPI-da-Covid-virar-palco-para-a-desinforma%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
