@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os pacotes de Biden para acelerar o crescimento americano](https://www.nexojornal.com.br/expresso/2021/05/30/Os-pacotes-de-Biden-para-acelerar-o-crescimento-americano)
-- [Não há nada mais democrático do que a polarização](https://www.nexojornal.com.br/ensaio/2021/N%C3%A3o-h%C3%A1-nada-mais-democr%C3%A1tico-do-que-a-polariza%C3%A7%C3%A3o)
 - [Como seria o sistema operacional do Mac nas mãos da Microsoft](https://www.nexojornal.com.br/expresso/2021/05/30/Como-seria-o-sistema-operacional-do-Mac-nas-m%C3%A3os-da-Microsoft)
 - [5 livros de crônicas que me inspiraram como cronista](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-cr%C3%B4nicas-que-me-inspiraram-como-cronista)
 - [Os EUA entre o nacionalismo e a diplomacia da vacina](https://www.nexojornal.com.br/expresso/2021/05/30/Os-EUA-entre-o-nacionalismo-e-a-diplomacia-da-vacina)
+- [VIP: o perfil da extrema riqueza brasileira](https://www.nexojornal.com.br/ensaio/2021/VIP-o-perfil-da-extrema-riqueza-brasileira)
+- [Os riscos da CPI da Covid virar palco para a desinformação](https://www.nexojornal.com.br/expresso/2021/05/30/Os-riscos-da-CPI-da-Covid-virar-palco-para-a-desinforma%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
