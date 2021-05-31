@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Políticas de combate às doenças crônicas não transmissíveis no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-combate-%C3%A0s-doen%C3%A7as-cr%C3%B4nicas-n%C3%A3o-transmiss%C3%ADveis-no-Brasil)
-- [Dia Internacional da Biodiversidade: como estados e municípios podem reforçar seu engajamento com o desenvolvimento sustentável](https://pp.nexojornal.com.br/ponto-de-vista/2021/Dia-Internacional-da-Biodiversidade-como-estados-e-munic%C3%ADpios-podem-refor%C3%A7ar-seu-engajamento-com-o-desenvolvimento-sustent%C3%A1vel)
-- [Regeneração natural como estratégia para restauração de ecossistemas](https://pp.nexojornal.com.br/bibliografia-basica/2021/05/25/Regenera%C3%A7%C3%A3o-natural-como-estrat%C3%A9gia-para-restaura%C3%A7%C3%A3o-de-ecossistemas)
-- [Ética e alocação de recursos em saúde](https://pp.nexojornal.com.br/glossario/%C3%89tica-e-aloca%C3%A7%C3%A3o-de-recursos-em-sa%C3%BAde)
-- [Como raça, gênero e posição social compõem o quadro de desigualdades educacionais em São Paulo](https://pp.nexojornal.com.br/academico/2021/Como-ra%C3%A7a-g%C3%AAnero-e-posi%C3%A7%C3%A3o-social-comp%C3%B5em-o-quadro-de-desigualdades-educacionais-em-S%C3%A3o-Paulo)
+- [Revoltas escravas no Brasil do século 19](https://pp.nexojornal.com.br/linha-do-tempo/2021/Revoltas-escravas-no-Brasil-do-s%C3%A9culo-19)
+- [As democracias e a mudança do clima: os últimos eventos da política climática à luz do podcast Revoar](https://pp.nexojornal.com.br/opiniao/2021/As-democracias-e-a-mudan%C3%A7a-do-clima-os-%C3%BAltimos-eventos-da-pol%C3%ADtica-clim%C3%A1tica-%C3%A0-luz-do-podcast-Revoar)
+- [Conjugando políticas públicas e ações transformadoras no combate às violências de gênero](https://pp.nexojornal.com.br/opiniao/2021/Conjugando-pol%C3%ADticas-p%C3%BAblicas-e-a%C3%A7%C3%B5es-transformadoras-no-combate-%C3%A0s-viol%C3%AAncias-de-g%C3%AAnero)
+- [Triangulação como princípio estruturador da avaliação de políticas](https://pp.nexojornal.com.br/ponto-de-vista/2021/Triangula%C3%A7%C3%A3o-como-princ%C3%ADpio-estruturador-da-avalia%C3%A7%C3%A3o-de-pol%C3%ADticas)
+- [Afinal, por que o afronte da Geração Tombamento incomoda tanto?](https://pp.nexojornal.com.br/opiniao/2021/Afinal-por-que-o-afronte-da-Gera%C3%A7%C3%A3o-Tombamento-incomoda-tanto)
 <!-- PP_LIST:END -->
 
