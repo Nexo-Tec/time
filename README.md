@@ -107,7 +107,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [@mollybaz](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mollybaz/)
-- [André Carvalhal: “Não existe consumo consciente em um mercado inconsciente”](http://gamarevista.uol.com.br/podcast/andre-carvalhal-seu-lixo-aumentou/)
+- [André Carvalhal: “Não existe consumo consciente em um mercado inconsciente”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/andre-carvalhal-seu-lixo-aumentou/)
 - [Bárbara Paz](http://gamarevista.uol.com.br/pessoas/questionario-proust/barbara-paz/)
 - [A vez das livreiras](http://gamarevista.uol.com.br/pessoas/uma-turma/a-vez-das-livreiras/)
 - [Doramar ou a Odisseia](http://gamarevista.uol.com.br/cultura/trecho-de-livro/doramar-ou-a-odisseia/)
