@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as evidências de que há um ministério paralelo na Saúde](https://www.nexojornal.com.br/expresso/2021/05/30/Quais-as-evid%C3%AAncias-de-que-h%C3%A1-um-minist%C3%A9rio-paralelo-na-Sa%C3%BAde)
-- [Os questionamentos à compra federal de um sistema de vigilância](https://www.nexojornal.com.br/expresso/2021/05/30/Os-questionamentos-%C3%A0-compra-federal-de-um-sistema-de-vigil%C3%A2ncia)
 - [Os pacotes de Biden para acelerar o crescimento americano](https://www.nexojornal.com.br/expresso/2021/05/30/Os-pacotes-de-Biden-para-acelerar-o-crescimento-americano)
 - [Não há nada mais democrático do que a polarização](https://www.nexojornal.com.br/ensaio/2021/N%C3%A3o-h%C3%A1-nada-mais-democr%C3%A1tico-do-que-a-polariza%C3%A7%C3%A3o)
 - [Como seria o sistema operacional do Mac nas mãos da Microsoft](https://www.nexojornal.com.br/expresso/2021/05/30/Como-seria-o-sistema-operacional-do-Mac-nas-m%C3%A3os-da-Microsoft)
+- [5 livros de crônicas que me inspiraram como cronista](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-cr%C3%B4nicas-que-me-inspiraram-como-cronista)
+- [Os EUA entre o nacionalismo e a diplomacia da vacina](https://www.nexojornal.com.br/expresso/2021/05/30/Os-EUA-entre-o-nacionalismo-e-a-diplomacia-da-vacina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
