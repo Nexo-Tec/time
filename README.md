@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@mollybaz](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mollybaz/)
 - [André Carvalhal: “Não existe consumo consciente em um mercado inconsciente”](http://gamarevista.uol.com.br/podcast/andre-carvalhal-seu-lixo-aumentou/)
 - [Bárbara Paz](http://gamarevista.uol.com.br/pessoas/questionario-proust/barbara-paz/)
 - [A vez das livreiras](http://gamarevista.uol.com.br/pessoas/uma-turma/a-vez-das-livreiras/)
 - [Doramar ou a Odisseia](http://gamarevista.uol.com.br/cultura/trecho-de-livro/doramar-ou-a-odisseia/)
-- [O ano em que a música mudou o mundo](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-ano-em-que-a-musica-mudou-o-mundo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
