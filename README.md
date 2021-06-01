@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Floyd e protestos no Brasil: a força da participação popular no caos](https://www.nexojornal.com.br/colunistas/2021/Floyd-e-protestos-no-Brasil-a-for%C3%A7a-da-participa%C3%A7%C3%A3o-popular-no-caos)
-- [Como a vacinação em massa impactou a pandemia em Serrana](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-vacina%C3%A7%C3%A3o-em-massa-impactou-a-pandemia-em-Serrana)
-- [Como a crise atual do setor elétrico se compara a 2001](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-crise-atual-do-setor-el%C3%A9trico-se-compara-a-2001)
-- [Dominguinhos do Estácio: os títulos e as escolas do sambista](https://www.nexojornal.com.br/expresso/2021/05/31/Dominguinhos-do-Est%C3%A1cio-os-t%C3%ADtulos-e-as-escolas-do-sambista)
-- [Qual a amplitude política dos protestos contra o governo](https://www.nexojornal.com.br/expresso/2021/05/31/Qual-a-amplitude-pol%C3%ADtica-dos-protestos-contra-o-governo)
+- [A Copa América no Brasil da pandemia descontrolada](https://www.nexojornal.com.br/podcast/2021/05/31/A-Copa-Am%C3%A9rica-no-Brasil-da-pandemia-descontrolada)
+- [O livro que mostra como criar imagens táteis](https://www.nexojornal.com.br/expresso/2021/05/31/O-livro-que-mostra-como-criar-imagens-t%C3%A1teis)
+- [O que é o Patriota, partido que espera Bolsonaro (de novo)](https://www.nexojornal.com.br/expresso/2021/05/31/O-que-%C3%A9-o-Patriota-partido-que-espera-Bolsonaro-de-novo)
+- [As ações do Reino Unido na América Latina nos anos 60](https://www.nexojornal.com.br/expresso/2021/05/31/As-a%C3%A7%C3%B5es-do-Reino-Unido-na-Am%C3%A9rica-Latina-nos-anos-60)
+- [O que é a mucormicose, doença agravada na Índia na pandemia](https://www.nexojornal.com.br/expresso/2021/05/31/O-que-%C3%A9-a-mucormicose-doen%C3%A7a-agravada-na-%C3%8Dndia-na-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
