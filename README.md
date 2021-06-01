@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as evidências de que há um ministério paralelo na Saúde](https://www.nexojornal.com.br/expresso/2021/05/30/Quais-as-evid%C3%AAncias-de-que-h%C3%A1-um-minist%C3%A9rio-paralelo-na-Sa%C3%BAde)
-- [Os questionamentos à compra federal de um sistema de vigilância](https://www.nexojornal.com.br/expresso/2021/05/30/Os-questionamentos-%C3%A0-compra-federal-de-um-sistema-de-vigil%C3%A2ncia)
-- [Os pacotes de Biden para acelerar o crescimento americano](https://www.nexojornal.com.br/expresso/2021/05/30/Os-pacotes-de-Biden-para-acelerar-o-crescimento-americano)
-- [Não há nada mais democrático do que a polarização](https://www.nexojornal.com.br/ensaio/2021/N%C3%A3o-h%C3%A1-nada-mais-democr%C3%A1tico-do-que-a-polariza%C3%A7%C3%A3o)
-- [Como seria o sistema operacional do Mac nas mãos da Microsoft](https://www.nexojornal.com.br/expresso/2021/05/30/Como-seria-o-sistema-operacional-do-Mac-nas-m%C3%A3os-da-Microsoft)
+- [Floyd e protestos no Brasil: a força da participação popular no caos](https://www.nexojornal.com.br/colunistas/2021/Floyd-e-protestos-no-Brasil-a-for%C3%A7a-da-participa%C3%A7%C3%A3o-popular-no-caos)
+- [Como a vacinação em massa impactou a pandemia em Serrana](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-vacina%C3%A7%C3%A3o-em-massa-impactou-a-pandemia-em-Serrana)
+- [Como a crise atual do setor elétrico se compara a 2001](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-crise-atual-do-setor-el%C3%A9trico-se-compara-a-2001)
+- [Dominguinhos do Estácio: os títulos e as escolas do sambista](https://www.nexojornal.com.br/expresso/2021/05/31/Dominguinhos-do-Est%C3%A1cio-os-t%C3%ADtulos-e-as-escolas-do-sambista)
+- [Qual a amplitude política dos protestos contra o governo](https://www.nexojornal.com.br/expresso/2021/05/31/Qual-a-amplitude-pol%C3%ADtica-dos-protestos-contra-o-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
