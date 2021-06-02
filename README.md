@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Floyd e protestos no Brasil: a força da participação popular no caos](https://www.nexojornal.com.br/colunistas/2021/Floyd-e-protestos-no-Brasil-a-for%C3%A7a-da-participa%C3%A7%C3%A3o-popular-no-caos)
-- [Como a vacinação em massa impactou a pandemia em Serrana](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-vacina%C3%A7%C3%A3o-em-massa-impactou-a-pandemia-em-Serrana)
-- [Como a crise atual do setor elétrico se compara a 2001](https://www.nexojornal.com.br/expresso/2021/05/31/Como-a-crise-atual-do-setor-el%C3%A9trico-se-compara-a-2001)
-- [Dominguinhos do Estácio: os títulos e as escolas do sambista](https://www.nexojornal.com.br/expresso/2021/05/31/Dominguinhos-do-Est%C3%A1cio-os-t%C3%ADtulos-e-as-escolas-do-sambista)
-- [Qual a amplitude política dos protestos contra o governo](https://www.nexojornal.com.br/expresso/2021/05/31/Qual-a-amplitude-pol%C3%ADtica-dos-protestos-contra-o-governo)
+- [Como a CPI da Covid confrontou o discurso de Nise Yamaguchi](https://www.nexojornal.com.br/expresso/2021/06/01/Como-a-CPI-da-Covid-confrontou-o-discurso-de-Nise-Yamaguchi)
+- [A Lei de Segurança Nacional e os juristas autoritários](https://www.nexojornal.com.br/ensaio/2021/A-Lei-de-Seguran%C3%A7a-Nacional-e-os-juristas-autorit%C3%A1rios1)
+- [Quem são os ativistas que defendem o ‘veganismo popular’](https://www.nexojornal.com.br/expresso/2021/06/01/Quem-s%C3%A3o-os-ativistas-que-defendem-o-%E2%80%98veganismo-popular%E2%80%99)
+- [‘Ainda não temos o direito à memória LGBTI brasileira’](https://www.nexojornal.com.br/entrevista/2021/06/01/%E2%80%98Ainda-n%C3%A3o-temos-o-direito-%C3%A0-mem%C3%B3ria-LGBTI-brasileira%E2%80%99)
+- [Por que o PIB cresceu mesmo com a piora da pandemia](https://www.nexojornal.com.br/expresso/2021/06/01/Por-que-o-PIB-cresceu-mesmo-com-a-piora-da-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
