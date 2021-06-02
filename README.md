@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [À Luz no Fundo do Poço](http://gamarevista.uol.com.br/colunistas/marcello-dantas/a-luz-no-fundo-do-poco/)
 - [Notícias de um massacre particular](http://gamarevista.uol.com.br/sociedade/noticias-de-um-massacre-particular/)
 - [‘Eden’ e a aposta da Netflix em animes para conquistar o mundo](http://gamarevista.uol.com.br/cultura/eden-e-a-aposta-da-netflix-em-animes-para-conquistar-o-mundo/)
 - [Chanel Nº5](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chanel-no5/)
 - [Vai passar](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/vai-passar/)
-- [@mollybaz](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mollybaz/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
