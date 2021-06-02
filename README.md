@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [À Luz no Fundo do Poço](http://gamarevista.uol.com.br/colunistas/marcello-dantas/a-luz-no-fundo-do-poco/)
-- [Notícias de um massacre particular](http://gamarevista.uol.com.br/sociedade/noticias-de-um-massacre-particular/)
-- [‘Eden’ e a aposta da Netflix em animes para conquistar o mundo](http://gamarevista.uol.com.br/cultura/eden-e-a-aposta-da-netflix-em-animes-para-conquistar-o-mundo/)
-- [Chanel Nº5](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chanel-no5/)
-- [Vai passar](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/vai-passar/)
+- [‘Persona’, um disco obscuro brasileiro](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/persona-um-disco-obscuro-brasileiro/)
+- [O show pandêmico de um homem só](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-pandemico-de-um-homem-so/)
+- [O vírus e o laboratório](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-virus-e-o-laboratorio/)
+- [Já dá para maratonar ‘Mare of Easttown’](http://gamarevista.uol.com.br/achamos-que-vale/assistir/ja-da-para-maratonar-mare-of-easttown/)
+- [O que pensa Zuenir Ventura aos 90](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-que-pensa-zuenir-ventura-aos-90/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
