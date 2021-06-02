@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Anna Venturini: democracia e o acesso ao ensino superior](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/01/Anna-Venturini-democracia-e-o-acesso-ao-ensino-superior)
-- [Tem veneno nesse pacote](https://pp.nexojornal.com.br/opiniao/2021/Tem-veneno-nesse-pacote)
 - [Eficiência energética no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Efici%C3%AAncia-energ%C3%A9tica-no-Brasil1)
 - [Qual o papel do Pacto pela Restauração da Mata Atlântica](https://pp.nexojornal.com.br/opiniao/2021/Qual-o-papel-do-Pacto-pela-Restaura%C3%A7%C3%A3o-da-Mata-Atl%C3%A2ntica)
 - [A escola mudou, mas não para todos: a urgência de um novo pensamento sobre tecnologias educacionais](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-escola-mudou-mas-n%C3%A3o-para-todos-a-urg%C3%AAncia-de-um-novo-pensamento-sobre-tecnologias-educacionais)
+- [Desenhando um programa de proteção social durante a covid-19](https://pp.nexojornal.com.br/topico/2021/05/31/Desenhando-um-programa-de-prote%C3%A7%C3%A3o-social-durante-a-covid-19)
+- [Revoltas escravas no Brasil do século 19](https://pp.nexojornal.com.br/linha-do-tempo/2021/Revoltas-escravas-no-Brasil-do-s%C3%A9culo-19)
 <!-- PP_LIST:END -->
 
