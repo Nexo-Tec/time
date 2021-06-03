@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como driblar a positividade tóxica](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-driblar-a-positividade-toxica/)
 - [‘Persona’, um disco obscuro brasileiro](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/persona-um-disco-obscuro-brasileiro/)
 - [O show pandêmico de um homem só](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-pandemico-de-um-homem-so/)
 - [O vírus e o laboratório](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-virus-e-o-laboratorio/)
 - [Já dá para maratonar ‘Mare of Easttown’](http://gamarevista.uol.com.br/achamos-que-vale/assistir/ja-da-para-maratonar-mare-of-easttown/)
-- [O que pensa Zuenir Ventura aos 90](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-que-pensa-zuenir-ventura-aos-90/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
