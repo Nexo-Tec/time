@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a CPI da Covid confrontou o discurso de Nise Yamaguchi](https://www.nexojornal.com.br/expresso/2021/06/01/Como-a-CPI-da-Covid-confrontou-o-discurso-de-Nise-Yamaguchi)
-- [A Lei de Segurança Nacional e os juristas autoritários](https://www.nexojornal.com.br/ensaio/2021/A-Lei-de-Seguran%C3%A7a-Nacional-e-os-juristas-autorit%C3%A1rios1)
-- [Quem são os ativistas que defendem o ‘veganismo popular’](https://www.nexojornal.com.br/expresso/2021/06/01/Quem-s%C3%A3o-os-ativistas-que-defendem-o-%E2%80%98veganismo-popular%E2%80%99)
-- [‘Ainda não temos o direito à memória LGBTI brasileira’](https://www.nexojornal.com.br/entrevista/2021/06/01/%E2%80%98Ainda-n%C3%A3o-temos-o-direito-%C3%A0-mem%C3%B3ria-LGBTI-brasileira%E2%80%99)
-- [Por que o PIB cresceu mesmo com a piora da pandemia](https://www.nexojornal.com.br/expresso/2021/06/01/Por-que-o-PIB-cresceu-mesmo-com-a-piora-da-pandemia)
+- [O que pesa contra a Nestlé e os alimentos ultraprocessados](https://www.nexojornal.com.br/expresso/2021/06/02/O-que-pesa-contra-a-Nestl%C3%A9-e-os-alimentos-ultraprocessados)
+- [Da Justiça à CPI: o que pesa contra o governador do Amazonas](https://www.nexojornal.com.br/expresso/2021/06/02/Da-Justi%C3%A7a-%C3%A0-CPI-o-que-pesa-contra-o-governador-do-Amazonas)
+- [3 pontos do discurso de Bolsonaro na TV sob panelaço](https://www.nexojornal.com.br/expresso/2021/06/02/3-pontos-do-discurso-de-Bolsonaro-na-TV-sob-panela%C3%A7o)
+- [A incrível estupidez de se destruir a educação pública](https://www.nexojornal.com.br/colunistas/2021/A-incr%C3%ADvel-estupidez-de-se-destruir-a-educa%C3%A7%C3%A3o-p%C3%BAblica)
+- [Onde se encontram os sítios arqueológicos do Brasil](https://www.nexojornal.com.br/grafico/2021/06/02/Onde-se-encontram-os-s%C3%ADtios-arqueol%C3%B3gicos-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
