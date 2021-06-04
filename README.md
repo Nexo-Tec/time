@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pensar Sem Corrimão](http://gamarevista.uol.com.br/cultura/trecho-de-livro/pensar-sem-corrimao/)
+- [O colecionador de quinquilharias (cheias de valor)](http://gamarevista.uol.com.br/pessoas/biografia-visual/o-colecionador-de-quinquilharias-cheias-de-valor/)
 - [Como driblar a positividade tóxica](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-driblar-a-positividade-toxica/)
 - [‘Persona’, um disco obscuro brasileiro](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/persona-um-disco-obscuro-brasileiro/)
 - [O show pandêmico de um homem só](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-pandemico-de-um-homem-so/)
-- [O vírus e o laboratório](http://gamarevista.uol.com.br/achamos-que-vale/ler/o-virus-e-o-laboratorio/)
-- [Já dá para maratonar ‘Mare of Easttown’](http://gamarevista.uol.com.br/achamos-que-vale/assistir/ja-da-para-maratonar-mare-of-easttown/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
