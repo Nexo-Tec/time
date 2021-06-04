@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Que diferença faz ter mais mulheres na política?](https://www.nexojornal.com.br/podcast/2021/06/03/Que-diferen%C3%A7a-faz-ter-mais-mulheres-na-pol%C3%ADtica)
+- [Quais os interesses financeiros na realização da Copa América](https://www.nexojornal.com.br/expresso/2021/06/03/Quais-os-interesses-financeiros-na-realiza%C3%A7%C3%A3o-da-Copa-Am%C3%A9rica)
+- [As medidas da CPI da Covid para tentar superar a ‘terra plana’](https://www.nexojornal.com.br/expresso/2021/06/03/As-medidas-da-CPI-da-Covid-para-tentar-superar-a-%E2%80%98terra-plana%E2%80%99)
+- [Biden e as pequenas grandes mudanças](https://www.nexojornal.com.br/colunistas/2021/06/03/Biden-e-as-pequenas-grandes-mudan%C3%A7as)
 - [O que pesa contra a Nestlé e os alimentos ultraprocessados](https://www.nexojornal.com.br/expresso/2021/06/02/O-que-pesa-contra-a-Nestl%C3%A9-e-os-alimentos-ultraprocessados)
-- [Da Justiça à CPI: o que pesa contra o governador do Amazonas](https://www.nexojornal.com.br/expresso/2021/06/02/Da-Justi%C3%A7a-%C3%A0-CPI-o-que-pesa-contra-o-governador-do-Amazonas)
-- [3 pontos do discurso de Bolsonaro na TV sob panelaço](https://www.nexojornal.com.br/expresso/2021/06/02/3-pontos-do-discurso-de-Bolsonaro-na-TV-sob-panela%C3%A7o)
-- [A incrível estupidez de se destruir a educação pública](https://www.nexojornal.com.br/colunistas/2021/A-incr%C3%ADvel-estupidez-de-se-destruir-a-educa%C3%A7%C3%A3o-p%C3%BAblica)
-- [Onde se encontram os sítios arqueológicos do Brasil](https://www.nexojornal.com.br/grafico/2021/06/02/Onde-se-encontram-os-s%C3%ADtios-arqueol%C3%B3gicos-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
