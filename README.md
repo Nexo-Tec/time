@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Que diferença faz ter mais mulheres na política?](https://www.nexojornal.com.br/podcast/2021/06/03/Que-diferen%C3%A7a-faz-ter-mais-mulheres-na-pol%C3%ADtica)
-- [Quais os interesses financeiros na realização da Copa América](https://www.nexojornal.com.br/expresso/2021/06/03/Quais-os-interesses-financeiros-na-realiza%C3%A7%C3%A3o-da-Copa-Am%C3%A9rica)
-- [As medidas da CPI da Covid para tentar superar a ‘terra plana’](https://www.nexojornal.com.br/expresso/2021/06/03/As-medidas-da-CPI-da-Covid-para-tentar-superar-a-%E2%80%98terra-plana%E2%80%99)
-- [Biden e as pequenas grandes mudanças](https://www.nexojornal.com.br/colunistas/2021/06/03/Biden-e-as-pequenas-grandes-mudan%C3%A7as)
-- [O que pesa contra a Nestlé e os alimentos ultraprocessados](https://www.nexojornal.com.br/expresso/2021/06/02/O-que-pesa-contra-a-Nestl%C3%A9-e-os-alimentos-ultraprocessados)
+- [O ‘banco falante’ que conta histórias da memória negra](https://www.nexojornal.com.br/expresso/2021/06/04/O-%E2%80%98banco-falante%E2%80%99-que-conta-hist%C3%B3rias-da-mem%C3%B3ria-negra)
+- [Mais desmatamento, menos chuva e menor produção agrícola](https://www.nexojornal.com.br/externo/2021/06/04/Mais-desmatamento-menos-chuva-e-menor-produ%C3%A7%C3%A3o-agr%C3%ADcola)
+- [Por políticas públicas que protejam a vida das mulheres](https://www.nexojornal.com.br/colunistas/tribuna/2021/Por-pol%C3%ADticas-p%C3%BAblicas-que-protejam-a-vida-das-mulheres)
+- [Quais os entraves para a democracia interna nos partidos](https://www.nexojornal.com.br/expresso/2021/06/04/Quais-os-entraves-para-a-democracia-interna-nos-partidos)
+- [Do ‘guarda da esquina’ ao poder central: a ação contra opositores](https://www.nexojornal.com.br/expresso/2021/06/04/Do-%E2%80%98guarda-da-esquina%E2%80%99-ao-poder-central-a-a%C3%A7%C3%A3o-contra-opositores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
