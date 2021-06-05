@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carol Solberg](http://gamarevista.uol.com.br/pessoas/questionario-proust/carol-solberg/)
 - [Pensar Sem Corrimão](http://gamarevista.uol.com.br/cultura/trecho-de-livro/pensar-sem-corrimao/)
 - [O colecionador de quinquilharias (cheias de valor)](http://gamarevista.uol.com.br/pessoas/biografia-visual/o-colecionador-de-quinquilharias-cheias-de-valor/)
 - [Como driblar a positividade tóxica](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-driblar-a-positividade-toxica/)
 - [‘Persona’, um disco obscuro brasileiro](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/persona-um-disco-obscuro-brasileiro/)
-- [O show pandêmico de um homem só](http://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-pandemico-de-um-homem-so/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
