@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Limites da reforma política: onde está a representação de  mulheres negras?](https://pp.nexojornal.com.br/opiniao/2021/Limites-da-reforma-pol%C3%ADtica-onde-est%C3%A1-a-representa%C3%A7%C3%A3o-de-mulheres-negras)
+- [Como ações locais em comunidades do Rio de Janeiro impactaram o avanço do contágio do novo coronavírus](https://pp.nexojornal.com.br/academico/2021/Como-a%C3%A7%C3%B5es-locais-em-comunidades-do-Rio-de-Janeiro-impactaram-o-avan%C3%A7o-do-cont%C3%A1gio-do-novo-coronav%C3%ADrus)
 - [Anna Venturini: democracia e o acesso ao ensino superior](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/01/Anna-Venturini-democracia-e-o-acesso-ao-ensino-superior)
 - [Tem veneno nesse pacote](https://pp.nexojornal.com.br/opiniao/2021/Tem-veneno-nesse-pacote)
 - [Eficiência energética no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Efici%C3%AAncia-energ%C3%A9tica-no-Brasil1)
-- [Qual o papel do Pacto pela Restauração da Mata Atlântica](https://pp.nexojornal.com.br/opiniao/2021/Qual-o-papel-do-Pacto-pela-Restaura%C3%A7%C3%A3o-da-Mata-Atl%C3%A2ntica)
-- [A escola mudou, mas não para todos: a urgência de um novo pensamento sobre tecnologias educacionais](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-escola-mudou-mas-n%C3%A3o-para-todos-a-urg%C3%AAncia-de-um-novo-pensamento-sobre-tecnologias-educacionais)
 <!-- PP_LIST:END -->
 
