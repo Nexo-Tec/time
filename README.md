@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O ‘banco falante’ que conta histórias da memória negra](https://www.nexojornal.com.br/expresso/2021/06/04/O-%E2%80%98banco-falante%E2%80%99-que-conta-hist%C3%B3rias-da-mem%C3%B3ria-negra)
-- [Mais desmatamento, menos chuva e menor produção agrícola](https://www.nexojornal.com.br/externo/2021/06/04/Mais-desmatamento-menos-chuva-e-menor-produ%C3%A7%C3%A3o-agr%C3%ADcola)
-- [Por políticas públicas que protejam a vida das mulheres](https://www.nexojornal.com.br/colunistas/tribuna/2021/Por-pol%C3%ADticas-p%C3%BAblicas-que-protejam-a-vida-das-mulheres)
-- [Quais os entraves para a democracia interna nos partidos](https://www.nexojornal.com.br/expresso/2021/06/04/Quais-os-entraves-para-a-democracia-interna-nos-partidos)
-- [Do ‘guarda da esquina’ ao poder central: a ação contra opositores](https://www.nexojornal.com.br/expresso/2021/06/04/Do-%E2%80%98guarda-da-esquina%E2%80%99-ao-poder-central-a-a%C3%A7%C3%A3o-contra-opositores)
+- [Por que a consciência não é o ‘fantasma na máquina’](https://www.nexojornal.com.br/externo/2021/06/05/Por-que-a-consci%C3%AAncia-n%C3%A3o-%C3%A9-o-%E2%80%98fantasma-na-m%C3%A1quina%E2%80%99)
+- [5 livros de escritores argentinos sobre o Brasil](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-escritores-argentinos-sobre-o-Brasil)
+- [O que é o parlamento indígena criado na pandemia](https://www.nexojornal.com.br/expresso/2021/06/05/O-que-%C3%A9-o-parlamento-ind%C3%ADgena-criado-na-pandemia)
+- [O legado de Sueli Carneiro, por 3 intelectuais negras](https://www.nexojornal.com.br/video/O-legado-de-Sueli-Carneiro-por-3-intelectuais-negras)
+- [Não existe futuro sustentável sem educação ambiental](https://www.nexojornal.com.br/ensaio/2021/N%C3%A3o-existe-futuro-sustent%C3%A1vel-sem-educa%C3%A7%C3%A3o-ambiental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
