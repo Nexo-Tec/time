@@ -46,9 +46,6 @@ Fiz ambos pois acreditei que se encaixavam como uma luva.
 - "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news? Relate brevemente sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento).
     Informação é tudo, ela vence guerras e dita o jogo seja ele qual for, fake news não é algo relativamente novo, existe a muito tempo, só que agora demos um nome, porém se parar e analisar o jornalismo sempre esteve aí para mostrar a verdade, afinal jornalismo crítico vem disso né, no nosso atual contexto social acredito que um jornalismo crítico e sucinto pode mudar sim o rumo que uma nação pode tomar, e sei que a informação é a coisa mais preciosa e valisosa que temos hoje em dia.
 
-- E-mail e celular para contato. Iremos, preferencialmente, manter toda a comunicação por e-mail
-    decoesp@gmail.com
-    071 993851873
 
 Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento de dados para os propósitos desta chamada:
 
