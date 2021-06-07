@@ -33,7 +33,7 @@ Por fim, utilizei [esse tutorial](https://dev.to/yuribenjamin/how-to-deploy-reac
 - Tecnologia com a qual mais gostaria de trabalhar: ReactJS e NodeJS, mas aberta a outras tecnologias, claro.
 - Possui algum projeto que gostaria de executar?: Tenho vontade de criar um site interativo sobre educação feminista, numa vibe parecida com esse [aqui](https://ncase.me/trust/), mas ainda estou elaborando como vai ser.
 - "Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news? Relate brevemente sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento): Acredito que educação e informação são essenciais para a construção de uma sociedade democrática. No momento atual, as fake news e a polarização estão trazendo muita desinformação e tornando o diálogo muito difícil. Para avançarmos na sociedade brasileira, é preciso que existam debates saudáveis, algo que infelizmente está diminuindo. Para chegar nas pessoas, precisamos de acessibilidade e também trazer conhecimento, uma das formas de alcançar isso é através do jornalismo.
-- E-mail e celular para contato. Iremos, preferencialmente, manter toda a comunicação por e-mail: defreitasferreira.mariana@gmail.com - 021988766709
+
 
 Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento de dados para os propósitos desta chamada:
 
