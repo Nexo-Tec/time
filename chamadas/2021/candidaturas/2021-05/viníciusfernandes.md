@@ -44,9 +44,6 @@ https://github.com/viniciusfersil123/waveTableOsc<br>
 - *"Uma democracia saudável requer jornalismo crítico, que examine e monitore qualquer governo, uma vez que estamos todos sujeitos a prestar contas." Qual a sua visão do jornalismo e seu papel hoje na sociedade em meio ao cenário de fake news? Relate brevemente sua opinião sobre esse assunto. (Lembre-se, não há resposta correta. Toda a indústria tem discutido e debatido essas questões no momento).*<br>
   As últimas eleições presidenciais no Brasil, além de eventos internacionais como:eleição de Donald Trump e Brexit, atestam de forma inequívoca o potencial nocivo da dispersão irrestrita de informações não confirmadas em redes sociais. Pautadas,em grande medida, por modelos de negócios nos quais a atenção do usuário é a mercadoria em questão, há, por parte das grandes empresas proprietárias destas redes, grande interesse em desenvolver algoritmos de inteligência artificial finamente calibrados para garantir o máximo de tempo na tela, garantindo assim, a rentabilidade vertiginosa de seus serviços oferecidos a empresas terceiras. Há, nesse contexto, um grande desiquilibrio ético entre este modelo de negócios e políticas (públicas ou privadas) que assegurem um trânsito de informações fiadas em algum lastro institucional confiável. O jornalismo cumpre, nesse cenário, papel crucial, ao tornar público, através de métodos diversos, informações espistemlogicamente alocadas em discursividades eticamente ligadas ao interesse social.
 
- -*E-mail e celular para contato. Iremos, preferencialmente, manter toda a comunicação por e-mail*<br>
- - Email: viniciusfersil@gmail.com<br>
- - Celular:11 971963771<br>
 
 Por favor, caso esteja de acordo, declare seu consentimento de compartilhamento de dados para os propósitos desta chamada:
 
