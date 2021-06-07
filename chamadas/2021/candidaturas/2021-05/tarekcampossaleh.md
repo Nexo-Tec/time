@@ -40,10 +40,6 @@ Em viés de transparência e utilização de boas práticas, esse projeto foi co
 <br><p>Acredito que apesar de sua existência desde os primórdios da comunicação Humana, o jornalismo, a intensidade de informações e dados cujo os quais somos expostos diariamente nunca foi tão robusto. Afinal, como presenciamos no decorrer dos últimos anos, a internet, através das redes sociais, possibilitou que qualquer um que possua uma mínima conexão, seja capaz de redigir e narrar informações cotidianas, estas que mesmo sem fundo de veracidade e/ou fontes concretas estão a mercê de se tornarem, pontentes, decisivas e perigosas Fake News.<p> Outrossim, é valido salientar que dado a atual conjuntura, cabe como papel crucial à veículos de jornalismo crítico, examinar, policiar e fiscalizar, de maneira transparente, dos menores aos maiores cargos governamentais. Tendo em vista que tais ações, em prol da manutenção de uma democracia saúdavel, são tidas como prioridade, uma vez que estamos refém de falsas informações até mesmo dos maiores líderes políticos, como [ocorrido ano passado com o Presidente Donald Trump](https://www.b9.com.br/134452/donald-trump-ja-tem-8-tweets-restringidos-pelo-twitter-durante-as-eleicoes-presidenciais-dos-eua/).<p/>
 <br />
 
-- **E-mail e celular:** 
-    - tarekcampossaleh@gmail.com
-    - (62) 9 9992-6725
-
 
 
 ----
