@@ -30,12 +30,5 @@ obs: no readme que está no repositório tem mais informações sobre o projeto!
 
   - Eu acredito que o jornalismo crítico é essencial nesse momento em que vivemos, já que os partidos políticos são tratados como times de futebol, e as pessoas focam em apontar dedos e não em solucionar problemas, é fundamental que existam pessoas que observem a situação de fora, podendo assim ver os dois lados da moeda, são essas pessoas que solucionam os problemas! pode ter muita coisa errada ai mas é minha opinião com mais conhecimento e tempo ela costuma mudar, obrigado por ler.
 
-- **E-mail e celular para contato**
-- Celular (91)98460-1156
-- Emails:
-
-  - coutinho.codes@gmail.com
-  - emmanoel.cesar967@gmail.com
-    <br/>
 
 - [x] Eu, Emmanoel Cezar Santos Coutinho, expresso meu pleno consentimento em compartilhar estes dados para fins do processo seletivo do Nexo Jornal, e estou ciente de que poderei, a qualquer momento, solicitar a exclusão dos meus dados pessoais, de acordo com a [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), notificando a equipe responsável pela guarda desses dados por meio do email _tecnologia@nexojornal.com.br_ que fará a eliminação de seus dados pessoais guardados dentro dos prazos legais.
