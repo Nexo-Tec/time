@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A decisão da Nigéria de proibir o acesso ao Twitter no país](https://www.nexojornal.com.br/expresso/2021/06/07/A-decis%C3%A3o-da-Nig%C3%A9ria-de-proibir-o-acesso-ao-Twitter-no-pa%C3%ADs)
-- [Corrupção e assédio: a saída turbulenta do presidentes da CBF](https://www.nexojornal.com.br/expresso/2021/06/07/Corrup%C3%A7%C3%A3o-e-ass%C3%A9dio-a-sa%C3%ADda-turbulenta-do-presidentes-da-CBF)
-- [Como o aperto no fim da eleição reduziu o extremismo no Peru](https://www.nexojornal.com.br/expresso/2021/06/07/Como-o-aperto-no-fim-da-elei%C3%A7%C3%A3o-reduziu-o-extremismo-no-Peru)
-- [‘Pagou, quebrou’: a psicologia por trás das rage rooms](https://www.nexojornal.com.br/expresso/2021/06/07/%E2%80%98Pagou-quebrou%E2%80%99-a-psicologia-por-tr%C3%A1s-das-rage-rooms)
 - [O direito autoral e a regulamentação do Marco Civil](https://www.nexojornal.com.br/ensaio/2021/O-direito-autoral-e-a-regulamenta%C3%A7%C3%A3o-do-Marco-Civil)
+- [‘A extensão do auxílio emergencial é uma necessidade’](https://www.nexojornal.com.br/entrevista/2021/06/06/%E2%80%98A-extens%C3%A3o-do-aux%C3%ADlio-emergencial-%C3%A9-uma-necessidade%E2%80%99)
+- [Quais as suspeitas sobre a ação de Bretas na Lava Jato do Rio](https://www.nexojornal.com.br/expresso/2021/06/06/Quais-as-suspeitas-sobre-a-a%C3%A7%C3%A3o-de-Bretas-na-Lava-Jato-do-Rio)
+- [Por que a consciência não é o ‘fantasma na máquina’](https://www.nexojornal.com.br/externo/2021/06/05/Por-que-a-consci%C3%AAncia-n%C3%A3o-%C3%A9-o-%E2%80%98fantasma-na-m%C3%A1quina%E2%80%99)
+- [5 livros de escritores argentinos sobre o Brasil](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-escritores-argentinos-sobre-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
