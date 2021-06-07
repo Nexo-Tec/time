@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O direito autoral e a regulamentação do Marco Civil](https://www.nexojornal.com.br/ensaio/2021/O-direito-autoral-e-a-regulamenta%C3%A7%C3%A3o-do-Marco-Civil)
+- [‘A extensão do auxílio emergencial é uma necessidade’](https://www.nexojornal.com.br/entrevista/2021/06/06/%E2%80%98A-extens%C3%A3o-do-aux%C3%ADlio-emergencial-%C3%A9-uma-necessidade%E2%80%99)
+- [Quais as suspeitas sobre a ação de Bretas na Lava Jato do Rio](https://www.nexojornal.com.br/expresso/2021/06/06/Quais-as-suspeitas-sobre-a-a%C3%A7%C3%A3o-de-Bretas-na-Lava-Jato-do-Rio)
 - [Por que a consciência não é o ‘fantasma na máquina’](https://www.nexojornal.com.br/externo/2021/06/05/Por-que-a-consci%C3%AAncia-n%C3%A3o-%C3%A9-o-%E2%80%98fantasma-na-m%C3%A1quina%E2%80%99)
 - [5 livros de escritores argentinos sobre o Brasil](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-escritores-argentinos-sobre-o-Brasil)
-- [O que é o parlamento indígena criado na pandemia](https://www.nexojornal.com.br/expresso/2021/06/05/O-que-%C3%A9-o-parlamento-ind%C3%ADgena-criado-na-pandemia)
-- [O legado de Sueli Carneiro, por 3 intelectuais negras](https://www.nexojornal.com.br/video/O-legado-de-Sueli-Carneiro-por-3-intelectuais-negras)
-- [Não existe futuro sustentável sem educação ambiental](https://www.nexojornal.com.br/ensaio/2021/N%C3%A3o-existe-futuro-sustent%C3%A1vel-sem-educa%C3%A7%C3%A3o-ambiental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
