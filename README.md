@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como o castigo corporal pode afetar o desenvolvimento cerebral infantil](https://pp.nexojornal.com.br/topico/2021/06/07/Como-o-castigo-corporal-pode-afetar-o-desenvolvimento-cerebral-infantil)
 - [Audiências Públicas no STF](https://pp.nexojornal.com.br/linha-do-tempo/2021/Audi%C3%AAncias-P%C3%BAblicas-no-STF)
 - [Limites da reforma política: onde está a representação de  mulheres negras?](https://pp.nexojornal.com.br/opiniao/2021/Limites-da-reforma-pol%C3%ADtica-onde-est%C3%A1-a-representa%C3%A7%C3%A3o-de-mulheres-negras)
 - [Como ações locais em comunidades do Rio de Janeiro impactaram o avanço do contágio do novo coronavírus](https://pp.nexojornal.com.br/academico/2021/Como-a%C3%A7%C3%B5es-locais-em-comunidades-do-Rio-de-Janeiro-impactaram-o-avan%C3%A7o-do-cont%C3%A1gio-do-novo-coronav%C3%ADrus)
 - [Anna Venturini: democracia e o acesso ao ensino superior](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/01/Anna-Venturini-democracia-e-o-acesso-ao-ensino-superior)
+- [Tem veneno nesse pacote](https://pp.nexojornal.com.br/opiniao/2021/Tem-veneno-nesse-pacote)
 <!-- PP_LIST:END -->
 
