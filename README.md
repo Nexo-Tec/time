@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o Amazonas vive uma onda de violência](https://www.nexojornal.com.br/expresso/2021/06/07/Por-que-o-Amazonas-vive-uma-onda-de-viol%C3%AAncia)
-- [Branquitude: hora de tocar o despertador da nossa cidadania](https://www.nexojornal.com.br/colunistas/2021/Branquitude-hora-de-tocar-o-despertador-da-nossa-cidadania)
-- [Ministério paralelo da Saúde: qual o problema de sua existência](https://www.nexojornal.com.br/expresso/2021/06/07/Minist%C3%A9rio-paralelo-da-Sa%C3%BAde-qual-o-problema-de-sua-exist%C3%AAncia)
-- [Voto impresso: da questão técnica ao golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/07/Voto-impresso-da-quest%C3%A3o-t%C3%A9cnica-ao-golpismo-de-Bolsonaro)
-- [Os painéis online que centralizam dados da pandemia](https://www.nexojornal.com.br/expresso/2021/06/07/Os-pain%C3%A9is-online-que-centralizam-dados-da-pandemia)
+- [O direito autoral e a regulamentação do Marco Civil](https://www.nexojornal.com.br/ensaio/2021/O-direito-autoral-e-a-regulamenta%C3%A7%C3%A3o-do-Marco-Civil)
+- [‘A extensão do auxílio emergencial é uma necessidade’](https://www.nexojornal.com.br/entrevista/2021/06/06/%E2%80%98A-extens%C3%A3o-do-aux%C3%ADlio-emergencial-%C3%A9-uma-necessidade%E2%80%99)
+- [Quais as suspeitas sobre a ação de Bretas na Lava Jato do Rio](https://www.nexojornal.com.br/expresso/2021/06/06/Quais-as-suspeitas-sobre-a-a%C3%A7%C3%A3o-de-Bretas-na-Lava-Jato-do-Rio)
+- [Por que a consciência não é o ‘fantasma na máquina’](https://www.nexojornal.com.br/externo/2021/06/05/Por-que-a-consci%C3%AAncia-n%C3%A3o-%C3%A9-o-%E2%80%98fantasma-na-m%C3%A1quina%E2%80%99)
+- [5 livros de escritores argentinos sobre o Brasil](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-escritores-argentinos-sobre-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
