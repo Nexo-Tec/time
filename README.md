@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: João Diamante](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-joao-diamante/)
 - [Carta às crianças Marcelino](http://gamarevista.uol.com.br/colunistas/bianca-santana/carta-as-criancas-marcelino/)
 - [Rodo de Pia](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/rodo-de-pia/)
 - [Yoga, para carregar](http://gamarevista.uol.com.br/estilo-de-vida/bem-estar/yoga-para-carregar/)
 - [Notas do nosso pesadelo](http://gamarevista.uol.com.br/colunistas/leandro-sarmatz/notas-do-nosso-pesadelo/)
-- [@lhommestatue](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lhommestatue/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
