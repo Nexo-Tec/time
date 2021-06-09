@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Queiroga expõe um ministério decorativo da Saúde](https://www.nexojornal.com.br/expresso/2021/06/08/Como-Queiroga-exp%C3%B5e-um-minist%C3%A9rio-decorativo-da-Sa%C3%BAde)
-- [4 pontos sobre o imposto mínimo global para multinacionais](https://www.nexojornal.com.br/expresso/2021/06/08/4-pontos-sobre-o-imposto-m%C3%ADnimo-global-para-multinacionais)
-- [O que é o rehab da corrupção adotado na Espanha](https://www.nexojornal.com.br/expresso/2021/06/08/O-que-%C3%A9-o-rehab-da-corrup%C3%A7%C3%A3o-adotado-na-Espanha)
-- [#StopAsianHate: ser asiático no Brasil é como nos EUA?](https://www.nexojornal.com.br/ensaio/2021/StopAsianHate-ser-asi%C3%A1tico-no-Brasil-%C3%A9-como-nos-EUA)
-- [A disputa sobre os rumos do inquérito dos atos antidemocráticos](https://www.nexojornal.com.br/expresso/2021/06/08/A-disputa-sobre-os-rumos-do-inqu%C3%A9rito-dos-atos-antidemocr%C3%A1ticos)
+- [Por que o Amazonas vive uma onda de violência](https://www.nexojornal.com.br/expresso/2021/06/07/Por-que-o-Amazonas-vive-uma-onda-de-viol%C3%AAncia)
+- [Branquitude: hora de tocar o despertador da nossa cidadania](https://www.nexojornal.com.br/colunistas/2021/Branquitude-hora-de-tocar-o-despertador-da-nossa-cidadania)
+- [Ministério paralelo da Saúde: qual o problema de sua existência](https://www.nexojornal.com.br/expresso/2021/06/07/Minist%C3%A9rio-paralelo-da-Sa%C3%BAde-qual-o-problema-de-sua-exist%C3%AAncia)
+- [Voto impresso: da questão técnica ao golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/07/Voto-impresso-da-quest%C3%A3o-t%C3%A9cnica-ao-golpismo-de-Bolsonaro)
+- [Os painéis online que centralizam dados da pandemia](https://www.nexojornal.com.br/expresso/2021/06/07/Os-pain%C3%A9is-online-que-centralizam-dados-da-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
