@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carta às crianças Marcelino](http://gamarevista.uol.com.br/colunistas/bianca-santana/carta-as-criancas-marcelino/)
 - [Rodo de Pia](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/rodo-de-pia/)
 - [Yoga, para carregar](http://gamarevista.uol.com.br/estilo-de-vida/bem-estar/yoga-para-carregar/)
 - [Notas do nosso pesadelo](http://gamarevista.uol.com.br/colunistas/leandro-sarmatz/notas-do-nosso-pesadelo/)
 - [@lhommestatue](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lhommestatue/)
-- [Renata Corrêa e Antonio Prata: o relacionamento do século 21](http://gamarevista.uol.com.br/podcast/podcast-da-semana/renata-correa-e-antonio-prata-solteiro-casado-ou-outra-coisa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
