@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: João Diamante](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-joao-diamante/)
-- [Carta às crianças Marcelino](http://gamarevista.uol.com.br/colunistas/bianca-santana/carta-as-criancas-marcelino/)
-- [Rodo de Pia](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/rodo-de-pia/)
-- [Yoga, para carregar](http://gamarevista.uol.com.br/estilo-de-vida/bem-estar/yoga-para-carregar/)
-- [Notas do nosso pesadelo](http://gamarevista.uol.com.br/colunistas/leandro-sarmatz/notas-do-nosso-pesadelo/)
+- [Os segredos do hip hop paulista](http://gamarevista.uol.com.br/achamos-que-vale/assistir/os-segredos-do-hip-hop-paulista/)
+- [Os livros de Philip Roth e o livro sobre ele](http://gamarevista.uol.com.br/achamos-que-vale/ler/os-livros-de-philip-roth-e-o-livro-sobre-ele/)
+- [Uma lista de artistas trans e não binários](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-lista-de-artistas-trans-e-nao-binarios/)
+- [A live de Gilberto Gil e Juliette](http://gamarevista.uol.com.br/achamos-que-vale/assistir/a-live-de-gilberto-gil-e-juliette/)
+- [A pobreza de tempo das mulheres](http://gamarevista.uol.com.br/achamos-que-vale/ler/a-pobreza-de-tempo-das-mulheres/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
