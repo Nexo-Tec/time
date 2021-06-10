@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Queiroga expõe um ministério decorativo da Saúde](https://www.nexojornal.com.br/expresso/2021/06/08/Como-Queiroga-exp%C3%B5e-um-minist%C3%A9rio-decorativo-da-Sa%C3%BAde)
-- [4 pontos sobre o imposto mínimo global para multinacionais](https://www.nexojornal.com.br/expresso/2021/06/08/4-pontos-sobre-o-imposto-m%C3%ADnimo-global-para-multinacionais)
-- [O que é o rehab da corrupção adotado na Espanha](https://www.nexojornal.com.br/expresso/2021/06/08/O-que-%C3%A9-o-rehab-da-corrup%C3%A7%C3%A3o-adotado-na-Espanha)
-- [#StopAsianHate: ser asiático no Brasil é como nos EUA?](https://www.nexojornal.com.br/ensaio/2021/StopAsianHate-ser-asi%C3%A1tico-no-Brasil-%C3%A9-como-nos-EUA)
-- [A disputa sobre os rumos do inquérito dos atos antidemocráticos](https://www.nexojornal.com.br/expresso/2021/06/08/A-disputa-sobre-os-rumos-do-inqu%C3%A9rito-dos-atos-antidemocr%C3%A1ticos)
+- [Como Bolsonaro usou o TCU para justificar seu negacionismo](https://www.nexojornal.com.br/expresso/2021/06/09/Como-Bolsonaro-usou-o-TCU-para-justificar-seu-negacionismo)
+- [‘O luto por Kathlen representa um conjunto de despedidas’](https://www.nexojornal.com.br/entrevista/2021/06/09/%E2%80%98O-luto-por-Kathlen-representa-um-conjunto-de-despedidas%E2%80%99)
+- [O caminho de Crivella até a embaixada na África do Sul](https://www.nexojornal.com.br/expresso/2021/06/09/O-caminho-de-Crivella-at%C3%A9-a-embaixada-na-%C3%81frica-do-Sul)
+- [As políticas de expansão urbana nas cidades brasileiras](https://www.nexojornal.com.br/academico/2021/06/09/As-pol%C3%ADticas-de-expans%C3%A3o-urbana-nas-cidades-brasileiras)
+- [Como o futebol reacende a tensão entre Rússia e Ucrânia](https://www.nexojornal.com.br/expresso/2021/06/09/Como-o-futebol-reacende-a-tens%C3%A3o-entre-R%C3%BAssia-e-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
