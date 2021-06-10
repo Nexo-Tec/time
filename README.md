@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como ganhos com restauração florestal na Mata Atlântica são comprometidos pelo desmatamento de florestas antigas](https://pp.nexojornal.com.br/academico/2021/Como-ganhos-com-restaura%C3%A7%C3%A3o-florestal-na-Mata-Atl%C3%A2ntica-s%C3%A3o-comprometidos-pelo-desmatamento-de-florestas-antigas)
 - [A diminuição da cobertura vacinal no Brasil nos últimos anos](https://pp.nexojornal.com.br/Dados/2021/06/08/A-diminui%C3%A7%C3%A3o-da-cobertura-vacinal-no-Brasil-nos-%C3%BAltimos-anos)
 - [Miguel Calmon: restauração ambiental](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/08/Miguel-Calmon-restaura%C3%A7%C3%A3o-ambiental)
 - [Como o castigo corporal pode afetar o desenvolvimento cerebral infantil](https://pp.nexojornal.com.br/topico/2021/06/07/Como-o-castigo-corporal-pode-afetar-o-desenvolvimento-cerebral-infantil)
 - [Audiências públicas no STF](https://pp.nexojornal.com.br/linha-do-tempo/2021/Audi%C3%AAncias-p%C3%BAblicas-no-STF1)
-- [Limites da reforma política: onde está a representação de  mulheres negras?](https://pp.nexojornal.com.br/opiniao/2021/Limites-da-reforma-pol%C3%ADtica-onde-est%C3%A1-a-representa%C3%A7%C3%A3o-de-mulheres-negras)
 <!-- PP_LIST:END -->
 
