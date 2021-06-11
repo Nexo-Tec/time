@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Bolsonaro usou o TCU para justificar seu negacionismo](https://www.nexojornal.com.br/expresso/2021/06/09/Como-Bolsonaro-usou-o-TCU-para-justificar-seu-negacionismo)
-- [‘O luto por Kathlen representa um conjunto de despedidas’](https://www.nexojornal.com.br/entrevista/2021/06/09/%E2%80%98O-luto-por-Kathlen-representa-um-conjunto-de-despedidas%E2%80%99)
-- [O caminho de Crivella até a embaixada na África do Sul](https://www.nexojornal.com.br/expresso/2021/06/09/O-caminho-de-Crivella-at%C3%A9-a-embaixada-na-%C3%81frica-do-Sul)
-- [As políticas de expansão urbana nas cidades brasileiras](https://www.nexojornal.com.br/academico/2021/06/09/As-pol%C3%ADticas-de-expans%C3%A3o-urbana-nas-cidades-brasileiras)
-- [Como o futebol reacende a tensão entre Rússia e Ucrânia](https://www.nexojornal.com.br/expresso/2021/06/09/Como-o-futebol-reacende-a-tens%C3%A3o-entre-R%C3%BAssia-e-Ucr%C3%A2nia)
+- [Os entraves ao plano de convocar governadores na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/10/Os-entraves-ao-plano-de-convocar-governadores-na-CPI-da-Covid)
+- [Como o Pix está sendo usado para esquemas de pirâmide](https://www.nexojornal.com.br/expresso/2021/06/10/Como-o-Pix-est%C3%A1-sendo-usado-para-esquemas-de-pir%C3%A2mide)
+- [Licenciamento ambiental: o que está em jogo?](https://www.nexojornal.com.br/ensaio/2021/Licenciamento-ambiental-o-que-est%C3%A1-em-jogo)
+- [O dever do Estado quando um jornalista é ferido em um protesto](https://www.nexojornal.com.br/expresso/2021/06/10/O-dever-do-Estado-quando-um-jornalista-%C3%A9-ferido-em-um-protesto)
+- [Como a literatura coreana ganha espaço no Brasil](https://www.nexojornal.com.br/expresso/2021/06/10/Como-a-literatura-coreana-ganha-espa%C3%A7o-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
