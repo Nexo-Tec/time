@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os entraves ao plano de convocar governadores na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/10/Os-entraves-ao-plano-de-convocar-governadores-na-CPI-da-Covid)
-- [Como o Pix está sendo usado para esquemas de pirâmide](https://www.nexojornal.com.br/expresso/2021/06/10/Como-o-Pix-est%C3%A1-sendo-usado-para-esquemas-de-pir%C3%A2mide)
-- [Licenciamento ambiental: o que está em jogo?](https://www.nexojornal.com.br/ensaio/2021/Licenciamento-ambiental-o-que-est%C3%A1-em-jogo)
-- [O dever do Estado quando um jornalista é ferido em um protesto](https://www.nexojornal.com.br/expresso/2021/06/10/O-dever-do-Estado-quando-um-jornalista-%C3%A9-ferido-em-um-protesto)
-- [Como a literatura coreana ganha espaço no Brasil](https://www.nexojornal.com.br/expresso/2021/06/10/Como-a-literatura-coreana-ganha-espa%C3%A7o-no-Brasil)
+- [Como derrubar a falsa tese de que não dava para vacinar antes](https://www.nexojornal.com.br/expresso/2021/06/11/Como-derrubar-a-falsa-tese-de-que-n%C3%A3o-dava-para-vacinar-antes)
+- [5 sambistas da nova geração de ‘bambas’ do carnaval do Rio](https://www.nexojornal.com.br/expresso/2021/06/11/5-sambistas-da-nova-gera%C3%A7%C3%A3o-de-%E2%80%98bambas%E2%80%99-do-carnaval-do-Rio)
+- [O papel da agenda de sustentabilidade na estabilidade financeira](https://www.nexojornal.com.br/ensaio/2021/O-papel-da-agenda-de-sustentabilidade-na-estabilidade-financeira)
+- [Educação na pandemia](https://www.nexojornal.com.br/externo/2021/06/11/Educa%C3%A7%C3%A3o-na-pandemia)
+- [‘Dumpster diving’: os vídeos que registram achados no lixo](https://www.nexojornal.com.br/expresso/2021/06/11/%E2%80%98Dumpster-diving%E2%80%99-os-v%C3%ADdeos-que-registram-achados-no-lixo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
