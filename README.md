@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Francisco Bosco](http://gamarevista.uol.com.br/pessoas/questionario-proust/francisco-bosco/)
 - [O Ministério da Verdade](http://gamarevista.uol.com.br/cultura/trecho-de-livro/o-ministerio-da-verdade/)
 - [Os segredos do hip hop paulista](http://gamarevista.uol.com.br/achamos-que-vale/assistir/os-segredos-do-hip-hop-paulista/)
 - [Os livros de Philip Roth e o livro sobre ele](http://gamarevista.uol.com.br/achamos-que-vale/ler/os-livros-de-philip-roth-e-o-livro-sobre-ele/)
 - [Uma lista de artistas trans e não binários](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-lista-de-artistas-trans-e-nao-binarios/)
-- [A live de Gilberto Gil e Juliette](http://gamarevista.uol.com.br/achamos-que-vale/assistir/a-live-de-gilberto-gil-e-juliette/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
