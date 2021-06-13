@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como derrubar a falsa tese de que não dava para vacinar antes](https://www.nexojornal.com.br/expresso/2021/06/11/Como-derrubar-a-falsa-tese-de-que-n%C3%A3o-dava-para-vacinar-antes)
-- [5 sambistas da nova geração de ‘bambas’ do carnaval do Rio](https://www.nexojornal.com.br/expresso/2021/06/11/5-sambistas-da-nova-gera%C3%A7%C3%A3o-de-%E2%80%98bambas%E2%80%99-do-carnaval-do-Rio)
-- [O papel da agenda de sustentabilidade na estabilidade financeira](https://www.nexojornal.com.br/ensaio/2021/O-papel-da-agenda-de-sustentabilidade-na-estabilidade-financeira)
-- [Educação na pandemia](https://www.nexojornal.com.br/externo/2021/06/11/Educa%C3%A7%C3%A3o-na-pandemia)
-- [‘Dumpster diving’: os vídeos que registram achados no lixo](https://www.nexojornal.com.br/expresso/2021/06/11/%E2%80%98Dumpster-diving%E2%80%99-os-v%C3%ADdeos-que-registram-achados-no-lixo)
+- [‘Copa América reforça narrativa negacionista de Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/06/12/%E2%80%98Copa-Am%C3%A9rica-refor%C3%A7a-narrativa-negacionista-de-Bolsonaro%E2%80%99)
+- [A trajetória de Osmar Terra, do comunismo ao ‘ministério paralelo’](https://www.nexojornal.com.br/expresso/2021/06/12/A-trajet%C3%B3ria-de-Osmar-Terra-do-comunismo-ao-%E2%80%98minist%C3%A9rio-paralelo%E2%80%99)
+- [Onde estavam, estão e estarão os militares em relação a Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/12/Onde-estavam-est%C3%A3o-e-estar%C3%A3o-os-militares-em-rela%C3%A7%C3%A3o-a-Bolsonaro)
+- [O expurgo de livros da cruzada bolsonarista na Fundação Palmares](https://www.nexojornal.com.br/expresso/2021/06/12/O-expurgo-de-livros-da-cruzada-bolsonarista-na-Funda%C3%A7%C3%A3o-Palmares)
+- [5 livros para conhecer a literatura de Pier Paolo Pasolini](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-conhecer-a-literatura-de-Pier-Paolo-Pasolini)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
