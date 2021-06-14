@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Desigualdade da cama](http://gamarevista.uol.com.br/colunistas/fernando-luna/desigualdade-da-cama/)
 - [@byjuanalvear](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/byjuanalvear/)
 - [Marcello Dantas: “O NFT democratizou a especulação na arte”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/marcello-dantas-nft-o-que/)
 - [Francisco Bosco](http://gamarevista.uol.com.br/pessoas/questionario-proust/francisco-bosco/)
 - [O Ministério da Verdade](http://gamarevista.uol.com.br/cultura/trecho-de-livro/o-ministerio-da-verdade/)
-- [Os segredos do hip hop paulista](http://gamarevista.uol.com.br/achamos-que-vale/assistir/os-segredos-do-hip-hop-paulista/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
