@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A divergência no Supremo sobre as quebras de sigilo pela CPI](https://www.nexojornal.com.br/expresso/2021/06/15/A-diverg%C3%AAncia-no-Supremo-sobre-as-quebras-de-sigilo-pela-CPI)
-- [O estágio da vacinação em 2 doses contra a covid-19 no mundo](https://www.nexojornal.com.br/grafico/2021/06/14/O-est%C3%A1gio-da-vacina%C3%A7%C3%A3o-em-2-doses-contra-a-covid-19-no-mundo)
-- [A chegada da Força Nacional à terra indígena Yanomami](https://www.nexojornal.com.br/expresso/2021/06/14/A-chegada-da-For%C3%A7a-Nacional-%C3%A0-terra-ind%C3%ADgena-Yanomami)
-- [As vítimas das balas certeiras: por Kathlen, Viviane e Maria Célia](https://www.nexojornal.com.br/colunistas/2021/As-v%C3%ADtimas-das-balas-certeiras-por-Kathlen-Viviane-e-Maria-C%C3%A9lia)
-- [O sangue em falta durante a pandemia. E o que saber para doar](https://www.nexojornal.com.br/expresso/2021/06/14/O-sangue-em-falta-durante-a-pandemia.-E-o-que-saber-para-doar)
+- [Quais provas a CPI da Covid diz ter contra o governo federal](https://www.nexojornal.com.br/expresso/2021/06/13/Quais-provas-a-CPI-da-Covid-diz-ter-contra-o-governo-federal)
+- [O que é a tese do marco temporal em terras indígenas](https://www.nexojornal.com.br/expresso/2021/06/13/O-que-%C3%A9-a-tese-do-marco-temporal-em-terras-ind%C3%ADgenas)
+- [Qual o papel dos testes após mais de um ano de pandemia](https://www.nexojornal.com.br/expresso/2021/06/13/Qual-o-papel-dos-testes-ap%C3%B3s-mais-de-um-ano-de-pandemia)
+- [Vacinação de pessoas com deficiência: uma questão de justiça](https://www.nexojornal.com.br/ensaio/2021/Vacina%C3%A7%C3%A3o-de-pessoas-com-defici%C3%AAncia-uma-quest%C3%A3o-de-justi%C3%A7a)
+- [‘Copa América reforça narrativa negacionista de Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/06/12/%E2%80%98Copa-Am%C3%A9rica-refor%C3%A7a-narrativa-negacionista-de-Bolsonaro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
