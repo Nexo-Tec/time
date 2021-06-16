@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aprenda a falar bem para uma multidão virtual](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprenda-a-falar-bem-para-uma-multidao-virtual/)
 - [Bandeira do arco-íris](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bandeira-do-arco-iris/)
 - [Shittrap: entenda esse estilo musical ofensivo](http://gamarevista.uol.com.br/cultura/shittrap-entenda-esse-estilo-musical-ofensivo/)
 - [Desigualdade da cama](http://gamarevista.uol.com.br/colunistas/fernando-luna/desigualdade-da-cama/)
 - [@byjuanalvear](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/byjuanalvear/)
-- [Marcello Dantas: “O NFT democratizou a especulação na arte”](http://gamarevista.uol.com.br/podcast/podcast-da-semana/marcello-dantas-nft-o-que/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
