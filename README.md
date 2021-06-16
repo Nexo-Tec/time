@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A divergência no Supremo sobre as quebras de sigilo pela CPI](https://www.nexojornal.com.br/expresso/2021/06/15/A-diverg%C3%AAncia-no-Supremo-sobre-as-quebras-de-sigilo-pela-CPI)
-- [O estágio da vacinação em 2 doses contra a covid-19 no mundo](https://www.nexojornal.com.br/grafico/2021/06/14/O-est%C3%A1gio-da-vacina%C3%A7%C3%A3o-em-2-doses-contra-a-covid-19-no-mundo)
-- [A chegada da Força Nacional à terra indígena Yanomami](https://www.nexojornal.com.br/expresso/2021/06/14/A-chegada-da-For%C3%A7a-Nacional-%C3%A0-terra-ind%C3%ADgena-Yanomami)
-- [As vítimas das balas certeiras: por Kathlen, Viviane e Maria Célia](https://www.nexojornal.com.br/colunistas/2021/As-v%C3%ADtimas-das-balas-certeiras-por-Kathlen-Viviane-e-Maria-C%C3%A9lia)
-- [O sangue em falta durante a pandemia. E o que saber para doar](https://www.nexojornal.com.br/expresso/2021/06/14/O-sangue-em-falta-durante-a-pandemia.-E-o-que-saber-para-doar)
+- [Os laços cada vez mais apertados do DEM com o bolsonarismo](https://www.nexojornal.com.br/expresso/2021/06/15/Os-la%C3%A7os-cada-vez-mais-apertados-do-DEM-com-o-bolsonarismo)
+- [Manaus sufocada: os rumos do caso mais agudo da pandemia](https://www.nexojornal.com.br/expresso/2021/06/15/Manaus-sufocada-os-rumos-do-caso-mais-agudo-da-pandemia)
+- [Como a inflação pode turbinar as contas do governo federal](https://www.nexojornal.com.br/expresso/2021/06/15/Como-a-infla%C3%A7%C3%A3o-pode-turbinar-as-contas-do-governo-federal)
+- [A locação social como opção para reduzir o deficit habitacional](https://www.nexojornal.com.br/ensaio/2021/A-loca%C3%A7%C3%A3o-social-como-op%C3%A7%C3%A3o-para-reduzir-o-deficit-habitacional)
+- [Que variante é essa? Os nomes dados pela OMS às cepas da covid](https://www.nexojornal.com.br/expresso/2021/06/15/Que-variante-%C3%A9-essa-Os-nomes-dados-pela-OMS-%C3%A0s-cepas-da-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
