@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os laços cada vez mais apertados do DEM com o bolsonarismo](https://www.nexojornal.com.br/expresso/2021/06/15/Os-la%C3%A7os-cada-vez-mais-apertados-do-DEM-com-o-bolsonarismo)
-- [Manaus sufocada: os rumos do caso mais agudo da pandemia](https://www.nexojornal.com.br/expresso/2021/06/15/Manaus-sufocada-os-rumos-do-caso-mais-agudo-da-pandemia)
-- [Como a inflação pode turbinar as contas do governo federal](https://www.nexojornal.com.br/expresso/2021/06/15/Como-a-infla%C3%A7%C3%A3o-pode-turbinar-as-contas-do-governo-federal)
-- [A locação social como opção para reduzir o deficit habitacional](https://www.nexojornal.com.br/ensaio/2021/A-loca%C3%A7%C3%A3o-social-como-op%C3%A7%C3%A3o-para-reduzir-o-deficit-habitacional)
-- [Que variante é essa? Os nomes dados pela OMS às cepas da covid](https://www.nexojornal.com.br/expresso/2021/06/15/Que-variante-%C3%A9-essa-Os-nomes-dados-pela-OMS-%C3%A0s-cepas-da-covid)
+- [‘A tecnologia alterou a dinâmica das relações raciais’](https://www.nexojornal.com.br/entrevista/2021/06/16/%E2%80%98A-tecnologia-alterou-a-din%C3%A2mica-das-rela%C3%A7%C3%B5es-raciais%E2%80%99)
+- [Por que Carlos Wizard virou alvo da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/16/Por-que-Carlos-Wizard-virou-alvo-da-CPI-da-Covid)
+- [Huck e Amoedo fora, Doria dentro: qual o quadro da terceira via](https://www.nexojornal.com.br/expresso/2021/06/16/Huck-e-Amoedo-fora-Doria-dentro-qual-o-quadro-da-terceira-via)
+- [Meio milhão de mortos e a busca por cientistas contra a ciência](https://www.nexojornal.com.br/colunistas/2021/Meio-milh%C3%A3o-de-mortos-e-a-busca-por-cientistas-contra-a-ci%C3%AAncia)
+- [Quais os efeitos de mais um aumento na taxa básica de juros](https://www.nexojornal.com.br/expresso/2021/06/16/Quais-os-efeitos-de-mais-um-aumento-na-taxa-b%C3%A1sica-de-juros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
