@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dá para julgar um alimento pelo rótulo?](http://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/da-para-julgar-um-alimento-pelo-rotulo/)
 - [Documentários musicais para todos os gostos](http://gamarevista.uol.com.br/achamos-que-vale/assistir/documentarios-musicais-para-todos-os-gostos/)
 - [Ela está de volta](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/ela-esta-de-volta/)
 - [Para entender os games](http://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-para-entender-os-games/)
 - [Os 30 discos mais importantes de 1991](http://gamarevista.uol.com.br/achamos-que-vale/ler/os-30-discos-mais-importantes-de-1991/)
-- [Uma nova geração de judeus & millennials](http://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-geracao-de-judeus-millennials/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
