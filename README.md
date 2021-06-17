@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O que sabemos sobre aborto no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/O-que-sabemos-sobre-aborto-no-Brasil)
 - [A regulamentação do Sistema Nacional de Educação](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-regulamenta%C3%A7%C3%A3o-do-Sistema-Nacional-de-Educa%C3%A7%C3%A3o)
 - [6 pontos sobre a relação entre comunicação e saúde](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-a-rela%C3%A7%C3%A3o-entre-comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
 - [A restauração florestal em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-restaura%C3%A7%C3%A3o-florestal-em-7-pontos)
 - [Mulheres, ciência e pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Mulheres-ci%C3%AAncia-e-pandemia)
+- [Boas práticas: cooperação e inovação para o desenvolvimento sustentável](https://pp.nexojornal.com.br/ponto-de-vista/2021/Boas-pr%C3%A1ticas-coopera%C3%A7%C3%A3o-e-inova%C3%A7%C3%A3o-para-o-desenvolvimento-sustent%C3%A1vel)
 <!-- PP_LIST:END -->
 
