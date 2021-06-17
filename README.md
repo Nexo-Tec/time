@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Aprenda a falar bem para uma multidão virtual](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprenda-a-falar-bem-para-uma-multidao-virtual/)
-- [Bandeira do arco-íris](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bandeira-do-arco-iris/)
-- [Shittrap: entenda esse estilo musical ofensivo](http://gamarevista.uol.com.br/cultura/shittrap-entenda-esse-estilo-musical-ofensivo/)
-- [Desigualdade da cama](http://gamarevista.uol.com.br/colunistas/fernando-luna/desigualdade-da-cama/)
-- [@byjuanalvear](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/byjuanalvear/)
+- [Documentários musicais para todos os gostos](http://gamarevista.uol.com.br/achamos-que-vale/assistir/documentarios-musicais-para-todos-os-gostos/)
+- [Ela está de volta](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/ela-esta-de-volta/)
+- [Para entender os games](http://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-para-entender-os-games/)
+- [Os 30 discos mais importantes de 1991](http://gamarevista.uol.com.br/achamos-que-vale/ler/os-30-discos-mais-importantes-de-1991/)
+- [Uma nova geração de judeus & millennials](http://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-geracao-de-judeus-millennials/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
