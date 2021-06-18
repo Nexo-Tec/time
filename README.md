@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A tecnologia alterou a dinâmica das relações raciais’](https://www.nexojornal.com.br/entrevista/2021/06/16/%E2%80%98A-tecnologia-alterou-a-din%C3%A2mica-das-rela%C3%A7%C3%B5es-raciais%E2%80%99)
-- [Por que Carlos Wizard virou alvo da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/16/Por-que-Carlos-Wizard-virou-alvo-da-CPI-da-Covid)
-- [Huck e Amoedo fora, Doria dentro: qual o quadro da terceira via](https://www.nexojornal.com.br/expresso/2021/06/16/Huck-e-Amoedo-fora-Doria-dentro-qual-o-quadro-da-terceira-via)
-- [Meio milhão de mortos e a busca por cientistas contra a ciência](https://www.nexojornal.com.br/colunistas/2021/Meio-milh%C3%A3o-de-mortos-e-a-busca-por-cientistas-contra-a-ci%C3%AAncia)
-- [Quais os efeitos de mais um aumento na taxa básica de juros](https://www.nexojornal.com.br/expresso/2021/06/16/Quais-os-efeitos-de-mais-um-aumento-na-taxa-b%C3%A1sica-de-juros)
+- [O caminho até Bolsonaro dizer que não há caixa-preta no BNDES](https://www.nexojornal.com.br/expresso/2021/06/17/O-caminho-at%C3%A9-Bolsonaro-dizer-que-n%C3%A3o-h%C3%A1-caixa-preta-no-BNDES)
+- [Brasil: entre castas e beijos, o autoritarismo segue ignorado](https://www.nexojornal.com.br/colunistas/2021/Brasil-entre-castas-e-beijos-o-autoritarismo-segue-ignorado)
+- [O artista que registra em fotos pinturas que foram parar no lixo](https://www.nexojornal.com.br/expresso/2021/06/17/O-artista-que-registra-em-fotos-pinturas-que-foram-parar-no-lixo)
+- [A busca por um remédio eficaz contra a covid-19](https://www.nexojornal.com.br/expresso/2021/06/17/A-busca-por-um-rem%C3%A9dio-eficaz-contra-a-covid-19)
+- [Privatizar a Eletrobras é uma boa ideia ou não para o país?](https://www.nexojornal.com.br/expresso/2021/06/17/Privatizar-a-Eletrobras-%C3%A9-uma-boa-ideia-ou-n%C3%A3o-para-o-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
