@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caminho até Bolsonaro dizer que não há caixa-preta no BNDES](https://www.nexojornal.com.br/expresso/2021/06/17/O-caminho-at%C3%A9-Bolsonaro-dizer-que-n%C3%A3o-h%C3%A1-caixa-preta-no-BNDES)
 - [Brasil: entre castas e beijos, o autoritarismo segue ignorado](https://www.nexojornal.com.br/colunistas/2021/Brasil-entre-castas-e-beijos-o-autoritarismo-segue-ignorado)
 - [O artista que registra em fotos pinturas que foram parar no lixo](https://www.nexojornal.com.br/expresso/2021/06/17/O-artista-que-registra-em-fotos-pinturas-que-foram-parar-no-lixo)
 - [A busca por um remédio eficaz contra a covid-19](https://www.nexojornal.com.br/expresso/2021/06/17/A-busca-por-um-rem%C3%A9dio-eficaz-contra-a-covid-19)
 - [Privatizar a Eletrobras é uma boa ideia ou não para o país?](https://www.nexojornal.com.br/expresso/2021/06/17/Privatizar-a-Eletrobras-%C3%A9-uma-boa-ideia-ou-n%C3%A3o-para-o-pa%C3%ADs)
+- [O Brasil prestes a atingir meio milhão de mortos por covid](https://www.nexojornal.com.br/podcast/2021/06/17/O-Brasil-prestes-a-atingir-meio-milh%C3%A3o-de-mortos-por-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
