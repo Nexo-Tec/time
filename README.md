@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como a participação infantil pode contribuir para ações de divulgação científica](https://pp.nexojornal.com.br/academico/2021/Como-a-participa%C3%A7%C3%A3o-infantil-pode-contribuir-para-a%C3%A7%C3%B5es-de-divulga%C3%A7%C3%A3o-cient%C3%ADfica)
 - [O que sabemos sobre aborto no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/O-que-sabemos-sobre-aborto-no-Brasil)
 - [A regulamentação do Sistema Nacional de Educação](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-regulamenta%C3%A7%C3%A3o-do-Sistema-Nacional-de-Educa%C3%A7%C3%A3o)
 - [6 pontos sobre a relação entre comunicação e saúde](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-a-rela%C3%A7%C3%A3o-entre-comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
 - [A restauração florestal em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-restaura%C3%A7%C3%A3o-florestal-em-7-pontos)
-- [Mulheres, ciência e pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Mulheres-ci%C3%AAncia-e-pandemia)
 <!-- PP_LIST:END -->
 
