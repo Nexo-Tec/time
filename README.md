@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As críticas ao concurso do BuzzFeed de criação de conteúdo](https://www.nexojornal.com.br/expresso/2021/06/18/As-cr%C3%ADticas-ao-concurso-do-BuzzFeed-de-cria%C3%A7%C3%A3o-de-conte%C3%BAdo)
-- [Como Ortega persegue adversários e cala a imprensa na Nicarágua](https://www.nexojornal.com.br/expresso/2021/06/18/Como-Ortega-persegue-advers%C3%A1rios-e-cala-a-imprensa-na-Nicar%C3%A1gua)
-- [Quem são os 14 investigados pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/18/Quem-s%C3%A3o-os-14-investigados-pela-CPI-da-Covid)
-- [O caminho até Bolsonaro dizer que não há caixa-preta no BNDES](https://www.nexojornal.com.br/expresso/2021/06/17/O-caminho-at%C3%A9-Bolsonaro-dizer-que-n%C3%A3o-h%C3%A1-caixa-preta-no-BNDES)
-- [Brasil: entre castas e beijos, o autoritarismo segue ignorado](https://www.nexojornal.com.br/colunistas/2021/Brasil-entre-castas-e-beijos-o-autoritarismo-segue-ignorado)
+- [Como a chegada de Dino ao PSB impacta a aliança de Lula](https://www.nexojornal.com.br/expresso/2021/06/19/Como-a-chegada-de-Dino-ao-PSB-impacta-a-alian%C3%A7a-de-Lula)
+- [A disputa de força nas ruas entre oposição e bolsonarismo](https://www.nexojornal.com.br/expresso/2021/06/18/A-disputa-de-for%C3%A7a-nas-ruas-entre-oposi%C3%A7%C3%A3o-e-bolsonarismo)
+- [Carne: por que nunca se comeu tão pouco e se exportou tanto](https://www.nexojornal.com.br/expresso/2021/06/18/Carne-por-que-nunca-se-comeu-t%C3%A3o-pouco-e-se-exportou-tanto)
+- [Por que nazistas não são protegidos pela liberdade de expressão](https://www.nexojornal.com.br/expresso/2021/06/18/Por-que-nazistas-n%C3%A3o-s%C3%A3o-protegidos-pela-liberdade-de-express%C3%A3o)
+- [Por que ‘Em um bairro de Nova York’ gerou um debate sobre colorismo](https://www.nexojornal.com.br/expresso/2021/06/18/Por-que-%E2%80%98Em-um-bairro-de-Nova-York%E2%80%99-gerou-um-debate-sobre-colorismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
