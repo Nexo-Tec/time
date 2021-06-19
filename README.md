@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As críticas ao concurso do BuzzFeed de criação de conteúdo](https://www.nexojornal.com.br/expresso/2021/06/18/As-cr%C3%ADticas-ao-concurso-do-BuzzFeed-de-cria%C3%A7%C3%A3o-de-conte%C3%BAdo)
+- [Como Ortega persegue adversários e cala a imprensa na Nicarágua](https://www.nexojornal.com.br/expresso/2021/06/18/Como-Ortega-persegue-advers%C3%A1rios-e-cala-a-imprensa-na-Nicar%C3%A1gua)
+- [Quem são os 14 investigados pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/06/18/Quem-s%C3%A3o-os-14-investigados-pela-CPI-da-Covid)
 - [O caminho até Bolsonaro dizer que não há caixa-preta no BNDES](https://www.nexojornal.com.br/expresso/2021/06/17/O-caminho-at%C3%A9-Bolsonaro-dizer-que-n%C3%A3o-h%C3%A1-caixa-preta-no-BNDES)
 - [Brasil: entre castas e beijos, o autoritarismo segue ignorado](https://www.nexojornal.com.br/colunistas/2021/Brasil-entre-castas-e-beijos-o-autoritarismo-segue-ignorado)
-- [O artista que registra em fotos pinturas que foram parar no lixo](https://www.nexojornal.com.br/expresso/2021/06/17/O-artista-que-registra-em-fotos-pinturas-que-foram-parar-no-lixo)
-- [A busca por um remédio eficaz contra a covid-19](https://www.nexojornal.com.br/expresso/2021/06/17/A-busca-por-um-rem%C3%A9dio-eficaz-contra-a-covid-19)
-- [Privatizar a Eletrobras é uma boa ideia ou não para o país?](https://www.nexojornal.com.br/expresso/2021/06/17/Privatizar-a-Eletrobras-%C3%A9-uma-boa-ideia-ou-n%C3%A3o-para-o-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
