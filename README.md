@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre o amor e suas possibilidades nos tempos presentes](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-amor-e-suas-possibilidades-nos-tempos-presentes)
-- [Faces da precarização do mercado de trabalho no Brasil](https://www.nexojornal.com.br/ensaio/2021/Faces-da-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho-no-Brasil)
-- [O crescimento do atos pelo impeachment de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/19/O-crescimento-do-atos-pelo-impeachment-de-Bolsonaro)
-- [O conservadorismo do Tribunal de Justiça paulista sob análise](https://www.nexojornal.com.br/expresso/2021/06/19/O-conservadorismo-do-Tribunal-de-Justi%C3%A7a-paulista-sob-an%C3%A1lise)
 - [Huck no debate público. E nas tardes de domingo na TV](https://www.nexojornal.com.br/expresso/2021/06/19/Huck-no-debate-p%C3%BAblico.-E-nas-tardes-de-domingo-na-TV)
+- [Como as sanções de Trump empurram o Irã para a linha-dura](https://www.nexojornal.com.br/expresso/2021/06/19/Como-as-san%C3%A7%C3%B5es-de-Trump-empurram-o-Ir%C3%A3-para-a-linha-dura)
+- [500 mil mortos na pandemia: por que poderia ser diferente](https://www.nexojornal.com.br/especial/2021/06/19/500-mil-mortos-na-pandemia-por-que-poderia-ser-diferente)
+- [Como a chegada de Dino ao PSB impacta a aliança de Lula](https://www.nexojornal.com.br/expresso/2021/06/19/Como-a-chegada-de-Dino-ao-PSB-impacta-a-alian%C3%A7a-de-Lula)
+- [A disputa de força nas ruas entre oposição e bolsonarismo](https://www.nexojornal.com.br/expresso/2021/06/18/A-disputa-de-for%C3%A7a-nas-ruas-entre-oposi%C3%A7%C3%A3o-e-bolsonarismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
