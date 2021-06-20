@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Meme é cultura: @saquinhodelixo](http://gamarevista.uol.com.br/podcast/podcast-da-semana/meme-e-cultura-saquinhodelixo/)
 - [Silva](http://gamarevista.uol.com.br/pessoas/questionario-proust/silva/)
 - [Reino Transcendente](http://gamarevista.uol.com.br/cultura/trecho-de-livro/reino-transcendente/)
 - [Dá para julgar um alimento pelo rótulo?](http://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/da-para-julgar-um-alimento-pelo-rotulo/)
 - [Documentários musicais para todos os gostos](http://gamarevista.uol.com.br/achamos-que-vale/assistir/documentarios-musicais-para-todos-os-gostos/)
-- [Ela está de volta](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/ela-esta-de-volta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
