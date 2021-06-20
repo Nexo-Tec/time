@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a chegada de Dino ao PSB impacta a aliança de Lula](https://www.nexojornal.com.br/expresso/2021/06/19/Como-a-chegada-de-Dino-ao-PSB-impacta-a-alian%C3%A7a-de-Lula)
-- [A disputa de força nas ruas entre oposição e bolsonarismo](https://www.nexojornal.com.br/expresso/2021/06/18/A-disputa-de-for%C3%A7a-nas-ruas-entre-oposi%C3%A7%C3%A3o-e-bolsonarismo)
-- [Carne: por que nunca se comeu tão pouco e se exportou tanto](https://www.nexojornal.com.br/expresso/2021/06/18/Carne-por-que-nunca-se-comeu-t%C3%A3o-pouco-e-se-exportou-tanto)
-- [Por que nazistas não são protegidos pela liberdade de expressão](https://www.nexojornal.com.br/expresso/2021/06/18/Por-que-nazistas-n%C3%A3o-s%C3%A3o-protegidos-pela-liberdade-de-express%C3%A3o)
-- [Por que ‘Em um bairro de Nova York’ gerou um debate sobre colorismo](https://www.nexojornal.com.br/expresso/2021/06/18/Por-que-%E2%80%98Em-um-bairro-de-Nova-York%E2%80%99-gerou-um-debate-sobre-colorismo)
+- [5 livros sobre o amor e suas possibilidades nos tempos presentes](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-amor-e-suas-possibilidades-nos-tempos-presentes)
+- [Faces da precarização do mercado de trabalho no Brasil](https://www.nexojornal.com.br/ensaio/2021/Faces-da-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho-no-Brasil)
+- [O crescimento do atos pelo impeachment de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/19/O-crescimento-do-atos-pelo-impeachment-de-Bolsonaro)
+- [O conservadorismo do Tribunal de Justiça paulista sob análise](https://www.nexojornal.com.br/expresso/2021/06/19/O-conservadorismo-do-Tribunal-de-Justi%C3%A7a-paulista-sob-an%C3%A1lise)
+- [Huck no debate público. E nas tardes de domingo na TV](https://www.nexojornal.com.br/expresso/2021/06/19/Huck-no-debate-p%C3%BAblico.-E-nas-tardes-de-domingo-na-TV)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
