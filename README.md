@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A queda de interesse pela CPI da Covid nas redes sociais](https://www.nexojornal.com.br/expresso/2021/06/20/A-queda-de-interesse-pela-CPI-da-Covid-nas-redes-sociais)
-- [‘Há uma guerra silenciada em curso contra os indígenas’](https://www.nexojornal.com.br/entrevista/2021/06/20/%E2%80%98H%C3%A1-uma-guerra-silenciada-em-curso-contra-os-ind%C3%ADgenas%E2%80%99)
-- [A proposta de reforma administrativa e a desigualdade](https://www.nexojornal.com.br/ensaio/2021/A-proposta-de-reforma-administrativa-e-a-desigualdade)
 - [5 livros sobre o amor e suas possibilidades nos tempos presentes](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-amor-e-suas-possibilidades-nos-tempos-presentes)
 - [Faces da precarização do mercado de trabalho no Brasil](https://www.nexojornal.com.br/ensaio/2021/Faces-da-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho-no-Brasil)
+- [O crescimento do atos pelo impeachment de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/19/O-crescimento-do-atos-pelo-impeachment-de-Bolsonaro)
+- [O conservadorismo do Tribunal de Justiça paulista sob análise](https://www.nexojornal.com.br/expresso/2021/06/19/O-conservadorismo-do-Tribunal-de-Justi%C3%A7a-paulista-sob-an%C3%A1lise)
+- [Huck no debate público. E nas tardes de domingo na TV](https://www.nexojornal.com.br/expresso/2021/06/19/Huck-no-debate-p%C3%BAblico.-E-nas-tardes-de-domingo-na-TV)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
