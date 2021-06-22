@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A queda de interesse pela CPI da Covid nas redes sociais](https://www.nexojornal.com.br/expresso/2021/06/20/A-queda-de-interesse-pela-CPI-da-Covid-nas-redes-sociais)
-- [‘Há uma guerra silenciada em curso contra os indígenas’](https://www.nexojornal.com.br/entrevista/2021/06/20/%E2%80%98H%C3%A1-uma-guerra-silenciada-em-curso-contra-os-ind%C3%ADgenas%E2%80%99)
-- [A proposta de reforma administrativa e a desigualdade](https://www.nexojornal.com.br/ensaio/2021/A-proposta-de-reforma-administrativa-e-a-desigualdade)
-- [5 livros sobre o amor e suas possibilidades nos tempos presentes](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-amor-e-suas-possibilidades-nos-tempos-presentes)
-- [Faces da precarização do mercado de trabalho no Brasil](https://www.nexojornal.com.br/ensaio/2021/Faces-da-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho-no-Brasil)
+- [A aprovação da privatização da Eletrobras e seus impactos](https://www.nexojornal.com.br/expresso/2021/06/21/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-e-seus-impactos)
+- [Como a falta de transparência atrapalha a vacinação](https://www.nexojornal.com.br/expresso/2021/06/21/Como-a-falta-de-transpar%C3%AAncia-atrapalha-a-vacina%C3%A7%C3%A3o1)
+- [A nova home do ‘Nexo’ e a ampliação de seu projeto editorial](https://www.nexojornal.com.br/expresso/2021/06/21/A-nova-home-do-%E2%80%98Nexo%E2%80%99-e-a-amplia%C3%A7%C3%A3o-de-seu-projeto-editorial)
+- [Sobre o sequestro da política empreendido pelo governo federal](https://www.nexojornal.com.br/colunistas/2021/Sobre-o-sequestro-da-pol%C3%ADtica-empreendido-pelo-governo-federal)
+- [Rosa Weber suspende convocação de governadores pela CPI](https://www.nexojornal.com.br/extra/2021/06/21/Rosa-Weber-suspende-convoca%C3%A7%C3%A3o-de-governadores-pela-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
