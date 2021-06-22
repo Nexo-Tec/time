@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Primeiro lote com 1,5 milhão de vacinas Janssen chega ao Brasil](https://www.nexojornal.com.br/extra/2021/06/22/Primeiro-lote-com-15-milh%C3%A3o-de-vacinas-Janssen-chega-ao-Brasil)
+- [TSE dá 15 dias para Bolsonaro provar suposta fraude em urna](https://www.nexojornal.com.br/extra/2021/06/22/TSE-d%C3%A1-15-dias-para-Bolsonaro-provar-suposta-fraude-em-urna)
 - [A aprovação da privatização da Eletrobras e seus impactos](https://www.nexojornal.com.br/expresso/2021/06/21/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-e-seus-impactos)
 - [Como a falta de transparência atrapalha a vacinação](https://www.nexojornal.com.br/expresso/2021/06/21/Como-a-falta-de-transpar%C3%AAncia-atrapalha-a-vacina%C3%A7%C3%A3o1)
 - [A nova home do ‘Nexo’ e a ampliação de seu projeto editorial](https://www.nexojornal.com.br/expresso/2021/06/21/A-nova-home-do-%E2%80%98Nexo%E2%80%99-e-a-amplia%C3%A7%C3%A3o-de-seu-projeto-editorial)
-- [Sobre o sequestro da política empreendido pelo governo federal](https://www.nexojornal.com.br/colunistas/2021/Sobre-o-sequestro-da-pol%C3%ADtica-empreendido-pelo-governo-federal)
-- [Rosa Weber suspende convocação de governadores pela CPI](https://www.nexojornal.com.br/extra/2021/06/21/Rosa-Weber-suspende-convoca%C3%A7%C3%A3o-de-governadores-pela-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
