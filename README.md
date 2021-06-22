@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como a participação infantil pode contribuir para ações de divulgação científica](https://pp.nexojornal.com.br/academico/2021/Como-a-participa%C3%A7%C3%A3o-infantil-pode-contribuir-para-a%C3%A7%C3%B5es-de-divulga%C3%A7%C3%A3o-cient%C3%ADfica)
-- [O que sabemos sobre aborto no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/O-que-sabemos-sobre-aborto-no-Brasil)
-- [A regulamentação do Sistema Nacional de Educação](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-regulamenta%C3%A7%C3%A3o-do-Sistema-Nacional-de-Educa%C3%A7%C3%A3o)
-- [6 pontos sobre a relação entre comunicação e saúde](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-a-rela%C3%A7%C3%A3o-entre-comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
-- [A restauração florestal em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-restaura%C3%A7%C3%A3o-florestal-em-7-pontos)
+- [Como um projeto investiga o legado da escravidão em uma universidade americana](https://pp.nexojornal.com.br/topico/2021/06/21/Como-um-projeto-investiga-o-legado-da-escravid%C3%A3o-em-uma-universidade-americana)
+- [Restauração ecológica no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Restaura%C3%A7%C3%A3o-ecol%C3%B3gica-no-Brasil)
+- [Panoramas e desafios da eficiência energética na indústria](https://pp.nexojornal.com.br/academico/2021/Panoramas-e-desafios-da-efici%C3%AAncia-energ%C3%A9tica-na-ind%C3%BAstria)
+- [11 pontos sobre o tratamento precoce à covid-19](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/11-pontos-sobre-o-tratamento-precoce-%C3%A0-covid-19)
+- [Crescimento econômico não é suficiente](https://pp.nexojornal.com.br/topico/2021/06/21/Crescimento-econ%C3%B4mico-n%C3%A3o-%C3%A9-suficiente)
 <!-- PP_LIST:END -->
 
