@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Mariana Valente](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mariana-valente/)
+- [Sobre vacina, Hebe e um amor impossível](http://gamarevista.uol.com.br/colunistas/letrux/sobre-vacina-hebe-e-um-amor-impossivel/)
 - [Geladeira Multidoor Conectada DQ90X](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/parcerias/geladeira-multidoor-conectada-dq90x/)
 - [À moda delas](http://gamarevista.uol.com.br/pessoas/uma-turma/a-moda-delas/)
 - [@accidentallywesanderson](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/accidentallywesanderson/)
-- [O luto e a luta das mães negras](http://gamarevista.uol.com.br/colunistas/winnie-bueno/o-luto-e-a-luta-das-maes-negras/)
-- [Meme é cultura: @saquinhodelixo](http://gamarevista.uol.com.br/podcast/podcast-da-semana/meme-e-cultura-saquinhodelixo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
