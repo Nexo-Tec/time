@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Primeiro lote com 1,5 milhão de vacinas Janssen chega ao Brasil](https://www.nexojornal.com.br/extra/2021/06/22/Primeiro-lote-com-15-milh%C3%A3o-de-vacinas-Janssen-chega-ao-Brasil)
-- [TSE dá 15 dias para Bolsonaro provar suposta fraude em urna](https://www.nexojornal.com.br/extra/2021/06/22/TSE-d%C3%A1-15-dias-para-Bolsonaro-provar-suposta-fraude-em-urna)
-- [A aprovação da privatização da Eletrobras e seus impactos](https://www.nexojornal.com.br/expresso/2021/06/21/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-e-seus-impactos)
-- [Como a falta de transparência atrapalha a vacinação](https://www.nexojornal.com.br/expresso/2021/06/21/Como-a-falta-de-transpar%C3%AAncia-atrapalha-a-vacina%C3%A7%C3%A3o1)
-- [A nova home do ‘Nexo’ e a ampliação de seu projeto editorial](https://www.nexojornal.com.br/expresso/2021/06/21/A-nova-home-do-%E2%80%98Nexo%E2%80%99-e-a-amplia%C3%A7%C3%A3o-de-seu-projeto-editorial)
+- [Jornal pró-democracia de Hong Kong anuncia fechamento](https://www.nexojornal.com.br/extra/2021/06/23/Jornal-pr%C3%B3-democracia-de-Hong-Kong-anuncia-fechamento)
+- [Governo lança Plano Safra com mais recursos e juros maiores](https://www.nexojornal.com.br/extra/2021/06/23/Governo-lan%C3%A7a-Plano-Safra-com-mais-recursos-e-juros-maiores)
+- [Como Osmar Terra está ligado à tese da imunidade de rebanho](https://www.nexojornal.com.br/expresso/2021/06/22/Como-Osmar-Terra-est%C3%A1-ligado-%C3%A0-tese-da-imunidade-de-rebanho)
+- [A produção de lítio no mundo e o preço das baterias](https://www.nexojornal.com.br/grafico/2021/06/22/A-produ%C3%A7%C3%A3o-de-l%C3%ADtio-no-mundo-e-o-pre%C3%A7o-das-baterias)
+- [País terá racionamento ‘educativo’ para evitar apagão, diz Lira](https://www.nexojornal.com.br/extra/2021/06/22/Pa%C3%ADs-ter%C3%A1-racionamento-%E2%80%98educativo%E2%80%99-para-evitar-apag%C3%A3o-diz-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
