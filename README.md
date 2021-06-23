@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Programa mundial de distribuição de vacinas será reformulado](https://www.nexojornal.com.br/extra/2021/06/23/Programa-mundial-de-distribui%C3%A7%C3%A3o-de-vacinas-ser%C3%A1-reformulado)
-- [Jacarezinho: laudos mostram tiros nas costas e à queima-roupa](https://www.nexojornal.com.br/extra/2021/06/23/Jacarezinho-laudos-mostram-tiros-nas-costas-e-%C3%A0-queima-roupa)
-- [5 anos após o Brexit, como estão Reino Unido e União Europeia](https://www.nexojornal.com.br/expresso/2021/06/23/5-anos-ap%C3%B3s-o-Brexit-como-est%C3%A3o-Reino-Unido-e-Uni%C3%A3o-Europeia)
-- [Covaxin: das pesquisas na Índia aos negócios suspeitos no Brasil](https://www.nexojornal.com.br/expresso/2021/06/23/Covaxin-das-pesquisas-na-%C3%8Dndia-aos-neg%C3%B3cios-suspeitos-no-Brasil)
-- [CPI aprova depoimento sigiloso de Wilson Witzel](https://www.nexojornal.com.br/extra/2021/06/23/CPI-aprova-depoimento-sigiloso-de-Wilson-Witzel)
+- [Jornal pró-democracia de Hong Kong anuncia fechamento](https://www.nexojornal.com.br/extra/2021/06/23/Jornal-pr%C3%B3-democracia-de-Hong-Kong-anuncia-fechamento)
+- [Governo lança Plano Safra com mais recursos e juros maiores](https://www.nexojornal.com.br/extra/2021/06/23/Governo-lan%C3%A7a-Plano-Safra-com-mais-recursos-e-juros-maiores)
+- [Como Osmar Terra está ligado à tese da imunidade de rebanho](https://www.nexojornal.com.br/expresso/2021/06/22/Como-Osmar-Terra-est%C3%A1-ligado-%C3%A0-tese-da-imunidade-de-rebanho)
+- [A produção de lítio no mundo e o preço das baterias](https://www.nexojornal.com.br/grafico/2021/06/22/A-produ%C3%A7%C3%A3o-de-l%C3%ADtio-no-mundo-e-o-pre%C3%A7o-das-baterias)
+- [País terá racionamento ‘educativo’ para evitar apagão, diz Lira](https://www.nexojornal.com.br/extra/2021/06/22/Pa%C3%ADs-ter%C3%A1-racionamento-%E2%80%98educativo%E2%80%99-para-evitar-apag%C3%A3o-diz-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
