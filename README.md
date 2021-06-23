@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Primeiro lote com 1,5 milhão de vacinas Janssen chega ao Brasil](https://www.nexojornal.com.br/extra/2021/06/22/Primeiro-lote-com-15-milh%C3%A3o-de-vacinas-Janssen-chega-ao-Brasil)
-- [TSE dá 15 dias para Bolsonaro provar suposta fraude em urna](https://www.nexojornal.com.br/extra/2021/06/22/TSE-d%C3%A1-15-dias-para-Bolsonaro-provar-suposta-fraude-em-urna)
-- [A aprovação da privatização da Eletrobras e seus impactos](https://www.nexojornal.com.br/expresso/2021/06/21/A-aprova%C3%A7%C3%A3o-da-privatiza%C3%A7%C3%A3o-da-Eletrobras-e-seus-impactos)
-- [Como a falta de transparência atrapalha a vacinação](https://www.nexojornal.com.br/expresso/2021/06/21/Como-a-falta-de-transpar%C3%AAncia-atrapalha-a-vacina%C3%A7%C3%A3o1)
-- [A nova home do ‘Nexo’ e a ampliação de seu projeto editorial](https://www.nexojornal.com.br/expresso/2021/06/21/A-nova-home-do-%E2%80%98Nexo%E2%80%99-e-a-amplia%C3%A7%C3%A3o-de-seu-projeto-editorial)
+- [As atitudes individuais e oficiais que marcam a vacinação](https://www.nexojornal.com.br/podcast/2021/06/22/As-atitudes-individuais-e-oficiais-que-marcam-a-vacina%C3%A7%C3%A3o)
+- [O que pode mudar na Lei de Improbidade Administrativa](https://www.nexojornal.com.br/expresso/2021/06/22/O-que-pode-mudar-na-Lei-de-Improbidade-Administrativa)
+- [CPI da Covid pode investigar redes sociais, diz Omar Aziz](https://www.nexojornal.com.br/extra/2021/06/22/CPI-da-Covid-pode-investigar-redes-sociais-diz-Omar-Aziz)
+- [‘Mesmo quem usufrui de direitos não vive a democracia’](https://www.nexojornal.com.br/expresso/2021/06/22/%E2%80%98Mesmo-quem-usufrui-de-direitos-n%C3%A3o-vive-a-democracia%E2%80%99)
+- [Educação merece prioridade, mas não sabe priorizar](https://www.nexojornal.com.br/colunistas/2021/Educa%C3%A7%C3%A3o-merece-prioridade-mas-n%C3%A3o-sabe-priorizar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
