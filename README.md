@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [“Tive pensamentos suicidas no Rio. Não estava mais acostumado a ser tratado como um ‘crioulo’”](http://gamarevista.uol.com.br/formato/conversas/eu-tive-pensamentos-suicidas-no-rio-nao-estava-mais-acostumado-a-ser-tratado-como-um-crioulo/)
-- [CV: Mariana Valente](http://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mariana-valente/)
-- [Sobre vacina, Hebe e um amor impossível](http://gamarevista.uol.com.br/colunistas/letrux/sobre-vacina-hebe-e-um-amor-impossivel/)
-- [Geladeira Multidoor Conectada DQ90X](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/parcerias/geladeira-multidoor-conectada-dq90x/)
-- [À moda delas](http://gamarevista.uol.com.br/pessoas/uma-turma/a-moda-delas/)
+- [Liniker protagoniza série da Amazon Prime Video](http://gamarevista.uol.com.br/achamos-que-vale/assistir/liniker-protagoniza-serie-da-amazon-prime-video/)
+- [O retorno do Kings of Convenience, após 12 anos](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-kings-of-convenience-apos-12-anos/)
+- [MAM da Bahia volta à vida](http://gamarevista.uol.com.br/achamos-que-vale/ir/mam-da-bahia-volta-a-vida/)
+- [Um perfil de Omar Sy, protagonista de ‘Lupin’](http://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-de-omar-sy-protagonista-de-lupin/)
+- [Novela ‘Roque Santeiro’ no Globoplay](http://gamarevista.uol.com.br/achamos-que-vale/assistir/novela-roque-santeiro-no-globoplay/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
