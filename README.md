@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jornal pró-democracia de Hong Kong anuncia fechamento](https://www.nexojornal.com.br/extra/2021/06/23/Jornal-pr%C3%B3-democracia-de-Hong-Kong-anuncia-fechamento)
-- [Governo lança Plano Safra com mais recursos e juros maiores](https://www.nexojornal.com.br/extra/2021/06/23/Governo-lan%C3%A7a-Plano-Safra-com-mais-recursos-e-juros-maiores)
-- [Como Osmar Terra está ligado à tese da imunidade de rebanho](https://www.nexojornal.com.br/expresso/2021/06/22/Como-Osmar-Terra-est%C3%A1-ligado-%C3%A0-tese-da-imunidade-de-rebanho)
-- [A produção de lítio no mundo e o preço das baterias](https://www.nexojornal.com.br/grafico/2021/06/22/A-produ%C3%A7%C3%A3o-de-l%C3%ADtio-no-mundo-e-o-pre%C3%A7o-das-baterias)
-- [País terá racionamento ‘educativo’ para evitar apagão, diz Lira](https://www.nexojornal.com.br/extra/2021/06/22/Pa%C3%ADs-ter%C3%A1-racionamento-%E2%80%98educativo%E2%80%99-para-evitar-apag%C3%A3o-diz-Lira)
+- [Assessor de Bolsonaro, Filipe Martins vira réu por gesto racista](https://www.nexojornal.com.br/extra/2021/06/24/Assessor-de-Bolsonaro-Filipe-Martins-vira-r%C3%A9u-por-gesto-racista)
+- [Prédio de 12 andares desaba parcialmente em Miami](https://www.nexojornal.com.br/extra/2021/06/24/Pr%C3%A9dio-de-12-andares-desaba-parcialmente-em-Miami)
+- [Britney Spears pede fim de tutela ‘abusiva’ em depoimento](https://www.nexojornal.com.br/extra/2021/06/24/Britney-Spears-pede-fim-de-tutela-%E2%80%98abusiva%E2%80%99-em-depoimento)
+- [Por que Salles sai, mas a política ambiental tem tudo para ficar](https://www.nexojornal.com.br/expresso/2021/06/23/Por-que-Salles-sai-mas-a-pol%C3%ADtica-ambiental-tem-tudo-para-ficar)
+- [Do empresário ao presidente: quem é quem no caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/23/Do-empres%C3%A1rio-ao-presidente-quem-%C3%A9-quem-no-caso-Covaxin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
