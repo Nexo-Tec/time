@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Assessor de Bolsonaro, Filipe Martins vira réu por gesto racista](https://www.nexojornal.com.br/extra/2021/06/24/Assessor-de-Bolsonaro-Filipe-Martins-vira-r%C3%A9u-por-gesto-racista)
-- [Prédio de 12 andares desaba parcialmente em Miami](https://www.nexojornal.com.br/extra/2021/06/24/Pr%C3%A9dio-de-12-andares-desaba-parcialmente-em-Miami)
-- [Britney Spears pede fim de tutela ‘abusiva’ em depoimento](https://www.nexojornal.com.br/extra/2021/06/24/Britney-Spears-pede-fim-de-tutela-%E2%80%98abusiva%E2%80%99-em-depoimento)
-- [Por que Salles sai, mas a política ambiental tem tudo para ficar](https://www.nexojornal.com.br/expresso/2021/06/23/Por-que-Salles-sai-mas-a-pol%C3%ADtica-ambiental-tem-tudo-para-ficar)
-- [Do empresário ao presidente: quem é quem no caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/23/Do-empres%C3%A1rio-ao-presidente-quem-%C3%A9-quem-no-caso-Covaxin)
+- [Argentina reserva 1% dos cargos públicos para pessoas trans](https://www.nexojornal.com.br/extra/2021/06/25/Argentina-reserva-1-dos-cargos-p%C3%BAblicos-para-pessoas-trans)
+- [Polícia Civil indicia 9 PMs por mortes em baile funk em SP](https://www.nexojornal.com.br/extra/2021/06/25/Pol%C3%ADcia-Civil-indicia-9-PMs-por-mortes-em-baile-funk-em-SP)
+- [Lula venceria Bolsonaro no 1º turno, segundo pesquisa Ipec](https://www.nexojornal.com.br/extra/2021/06/25/Lula-venceria-Bolsonaro-no-1%C2%BA-turno-segundo-pesquisa-Ipec1)
+- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
+- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
