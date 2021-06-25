@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as plataformas de streaming afetam a produção audiovisual](https://www.nexojornal.com.br/academico/2021/06/24/Como-as-plataformas-de-streaming-afetam-a-produ%C3%A7%C3%A3o-audiovisual)
-- [Bolsonaro volta a incentivar uma criança a tirar a máscara](https://www.nexojornal.com.br/extra/2021/06/24/Bolsonaro-volta-a-incentivar-uma-crian%C3%A7a-a-tirar-a-m%C3%A1scara)
-- [Por que se teme o julgamento de civis pela Justiça Militar](https://www.nexojornal.com.br/expresso/2021/06/24/Por-que-se-teme-o-julgamento-de-civis-pela-Justi%C3%A7a-Militar)
-- [Microsoft faz anúncio oficial de lançamento do Windows 11](https://www.nexojornal.com.br/extra/2021/06/24/Microsoft-faz-an%C3%BAncio-oficial-de-lan%C3%A7amento-do-Windows-11)
-- [Loki se torna o primeiro protagonista LGBTI da Marvel](https://www.nexojornal.com.br/extra/2021/06/24/Loki-se-torna-o-primeiro-protagonista-LGBTI-da-Marvel)
+- [Assessor de Bolsonaro, Filipe Martins vira réu por gesto racista](https://www.nexojornal.com.br/extra/2021/06/24/Assessor-de-Bolsonaro-Filipe-Martins-vira-r%C3%A9u-por-gesto-racista)
+- [Prédio de 12 andares desaba parcialmente em Miami](https://www.nexojornal.com.br/extra/2021/06/24/Pr%C3%A9dio-de-12-andares-desaba-parcialmente-em-Miami)
+- [Britney Spears pede fim de tutela ‘abusiva’ em depoimento](https://www.nexojornal.com.br/extra/2021/06/24/Britney-Spears-pede-fim-de-tutela-%E2%80%98abusiva%E2%80%99-em-depoimento)
+- [Por que Salles sai, mas a política ambiental tem tudo para ficar](https://www.nexojornal.com.br/expresso/2021/06/23/Por-que-Salles-sai-mas-a-pol%C3%ADtica-ambiental-tem-tudo-para-ficar)
+- [Do empresário ao presidente: quem é quem no caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/23/Do-empres%C3%A1rio-ao-presidente-quem-%C3%A9-quem-no-caso-Covaxin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
