@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentina reserva 1% dos cargos públicos para pessoas trans](https://www.nexojornal.com.br/extra/2021/06/25/Argentina-reserva-1-dos-cargos-p%C3%BAblicos-para-pessoas-trans)
-- [Polícia Civil indicia 9 PMs por mortes em baile funk em SP](https://www.nexojornal.com.br/extra/2021/06/25/Pol%C3%ADcia-Civil-indicia-9-PMs-por-mortes-em-baile-funk-em-SP)
-- [Lula venceria Bolsonaro no 1º turno, segundo pesquisa Ipec](https://www.nexojornal.com.br/extra/2021/06/25/Lula-venceria-Bolsonaro-no-1%C2%BA-turno-segundo-pesquisa-Ipec1)
-- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
-- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
+- [Como as plataformas de streaming afetam a produção audiovisual](https://www.nexojornal.com.br/academico/2021/06/24/Como-as-plataformas-de-streaming-afetam-a-produ%C3%A7%C3%A3o-audiovisual)
+- [Bolsonaro volta a incentivar uma criança a tirar a máscara](https://www.nexojornal.com.br/extra/2021/06/24/Bolsonaro-volta-a-incentivar-uma-crian%C3%A7a-a-tirar-a-m%C3%A1scara)
+- [Por que se teme o julgamento de civis pela Justiça Militar](https://www.nexojornal.com.br/expresso/2021/06/24/Por-que-se-teme-o-julgamento-de-civis-pela-Justi%C3%A7a-Militar)
+- [Microsoft faz anúncio oficial de lançamento do Windows 11](https://www.nexojornal.com.br/extra/2021/06/24/Microsoft-faz-an%C3%BAncio-oficial-de-lan%C3%A7amento-do-Windows-11)
+- [Loki se torna o primeiro protagonista LGBTI da Marvel](https://www.nexojornal.com.br/extra/2021/06/24/Loki-se-torna-o-primeiro-protagonista-LGBTI-da-Marvel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
