@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as plataformas de streaming afetam a produção audiovisual](https://www.nexojornal.com.br/academico/2021/06/24/Como-as-plataformas-de-streaming-afetam-a-produ%C3%A7%C3%A3o-audiovisual)
-- [Bolsonaro volta a incentivar uma criança a tirar a máscara](https://www.nexojornal.com.br/extra/2021/06/24/Bolsonaro-volta-a-incentivar-uma-crian%C3%A7a-a-tirar-a-m%C3%A1scara)
-- [Por que se teme o julgamento de civis pela Justiça Militar](https://www.nexojornal.com.br/expresso/2021/06/24/Por-que-se-teme-o-julgamento-de-civis-pela-Justi%C3%A7a-Militar)
-- [Microsoft faz anúncio oficial de lançamento do Windows 11](https://www.nexojornal.com.br/extra/2021/06/24/Microsoft-faz-an%C3%BAncio-oficial-de-lan%C3%A7amento-do-Windows-11)
-- [Loki se torna o primeiro protagonista LGBTI da Marvel](https://www.nexojornal.com.br/extra/2021/06/24/Loki-se-torna-o-primeiro-protagonista-LGBTI-da-Marvel)
+- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
+- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
+- [Gilmar Mendes amplia suspeição de Moro em ações contra Lula](https://www.nexojornal.com.br/extra/2021/06/24/Gilmar-Mendes-amplia-suspei%C3%A7%C3%A3o-de-Moro-em-a%C3%A7%C3%B5es-contra-Lula)
+- [Direitos LGBTI: o novo embate entre União Europeia e Hungria](https://www.nexojornal.com.br/expresso/2021/06/24/Direitos-LGBTI-o-novo-embate-entre-Uni%C3%A3o-Europeia-e-Hungria)
+- [Escola Móbile, Anne Frank, globalismo e imbecilização](https://www.nexojornal.com.br/ensaio/2021/Escola-M%C3%B3bile-Anne-Frank-globalismo-e-imbeciliza%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
