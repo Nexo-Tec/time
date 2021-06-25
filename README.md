@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como o Xou da Xuxa tirou do ar o primeiro programa de TV feminista do Brasil?](http://gamarevista.uol.com.br/sociedade/como-o-xou-da-xuxa-tirou-do-ar-o-primeiro-programa-de-tv-feminista-do-brasil/)
 - [O Essencial de Perigosas Sapatas](http://gamarevista.uol.com.br/cultura/trecho-de-livro/o-essencial-de-perigosas-sapatas/)
 - [Liniker protagoniza série da Amazon Prime Video](http://gamarevista.uol.com.br/achamos-que-vale/assistir/liniker-protagoniza-serie-da-amazon-prime-video/)
 - [O retorno do Kings of Convenience, após 12 anos](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-kings-of-convenience-apos-12-anos/)
 - [MAM da Bahia volta à vida](http://gamarevista.uol.com.br/achamos-que-vale/ir/mam-da-bahia-volta-a-vida/)
-- [Um perfil de Omar Sy, protagonista de ‘Lupin’](http://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-de-omar-sy-protagonista-de-lupin/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
