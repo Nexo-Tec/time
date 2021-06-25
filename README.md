@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as plataformas de streaming afetam a produção audiovisual](https://www.nexojornal.com.br/academico/2021/06/24/Como-as-plataformas-de-streaming-afetam-a-produ%C3%A7%C3%A3o-audiovisual)
-- [Bolsonaro volta a incentivar uma criança a tirar a máscara](https://www.nexojornal.com.br/extra/2021/06/24/Bolsonaro-volta-a-incentivar-uma-crian%C3%A7a-a-tirar-a-m%C3%A1scara)
-- [Por que se teme o julgamento de civis pela Justiça Militar](https://www.nexojornal.com.br/expresso/2021/06/24/Por-que-se-teme-o-julgamento-de-civis-pela-Justi%C3%A7a-Militar)
-- [Microsoft faz anúncio oficial de lançamento do Windows 11](https://www.nexojornal.com.br/extra/2021/06/24/Microsoft-faz-an%C3%BAncio-oficial-de-lan%C3%A7amento-do-Windows-11)
-- [Loki se torna o primeiro protagonista LGBTI da Marvel](https://www.nexojornal.com.br/extra/2021/06/24/Loki-se-torna-o-primeiro-protagonista-LGBTI-da-Marvel)
+- [Desigualdade aumenta no Brasil da pandemia: o 1% está mais rico](https://www.nexojornal.com.br/extra/2021/06/25/Desigualdade-aumenta-no-Brasil-da-pandemia-o-1-est%C3%A1-mais-rico)
+- [Como são feitas as estimativas de mortes evitáveis na pandemia](https://www.nexojornal.com.br/expresso/2021/06/25/Como-s%C3%A3o-feitas-as-estimativas-de-mortes-evit%C3%A1veis-na-pandemia)
+- [Denunciante de Bolsonaro chegou de colete à prova de bala na CPI](https://www.nexojornal.com.br/extra/2021/06/25/Denunciante-de-Bolsonaro-chegou-de-colete-%C3%A0-prova-de-bala-na-CPI)
+- [‘Eric Hobsbawm’: o intelectual que viveu e narrou a história](https://www.nexojornal.com.br/estante/trechos/2021/06/25/%E2%80%98Eric-Hobsbawm%E2%80%99-o-intelectual-que-viveu-e-narrou-a-hist%C3%B3ria)
+- [Governo entrega reforma do Imposto de Renda](https://www.nexojornal.com.br/extra/2021/06/25/Governo-entrega-reforma-do-Imposto-de-Renda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
