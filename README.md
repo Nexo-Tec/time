@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Essencial de Perigosas Sapatas](http://gamarevista.uol.com.br/cultura/trecho-de-livro/o-essencial-de-perigosas-sapatas/)
 - [Liniker protagoniza série da Amazon Prime Video](http://gamarevista.uol.com.br/achamos-que-vale/assistir/liniker-protagoniza-serie-da-amazon-prime-video/)
 - [O retorno do Kings of Convenience, após 12 anos](http://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-kings-of-convenience-apos-12-anos/)
 - [MAM da Bahia volta à vida](http://gamarevista.uol.com.br/achamos-que-vale/ir/mam-da-bahia-volta-a-vida/)
 - [Um perfil de Omar Sy, protagonista de ‘Lupin’](http://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-de-omar-sy-protagonista-de-lupin/)
-- [Novela ‘Roque Santeiro’ no Globoplay](http://gamarevista.uol.com.br/achamos-que-vale/assistir/novela-roque-santeiro-no-globoplay/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
