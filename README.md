@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
-- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
-- [Gilmar Mendes amplia suspeição de Moro em ações contra Lula](https://www.nexojornal.com.br/extra/2021/06/24/Gilmar-Mendes-amplia-suspei%C3%A7%C3%A3o-de-Moro-em-a%C3%A7%C3%B5es-contra-Lula)
-- [Direitos LGBTI: o novo embate entre União Europeia e Hungria](https://www.nexojornal.com.br/expresso/2021/06/24/Direitos-LGBTI-o-novo-embate-entre-Uni%C3%A3o-Europeia-e-Hungria)
-- [Escola Móbile, Anne Frank, globalismo e imbecilização](https://www.nexojornal.com.br/ensaio/2021/Escola-M%C3%B3bile-Anne-Frank-globalismo-e-imbeciliza%C3%A7%C3%A3o)
+- [Assessor de Bolsonaro, Filipe Martins vira réu por gesto racista](https://www.nexojornal.com.br/extra/2021/06/24/Assessor-de-Bolsonaro-Filipe-Martins-vira-r%C3%A9u-por-gesto-racista)
+- [Prédio de 12 andares desaba parcialmente em Miami](https://www.nexojornal.com.br/extra/2021/06/24/Pr%C3%A9dio-de-12-andares-desaba-parcialmente-em-Miami)
+- [Britney Spears pede fim de tutela ‘abusiva’ em depoimento](https://www.nexojornal.com.br/extra/2021/06/24/Britney-Spears-pede-fim-de-tutela-%E2%80%98abusiva%E2%80%99-em-depoimento)
+- [Por que Salles sai, mas a política ambiental tem tudo para ficar](https://www.nexojornal.com.br/expresso/2021/06/23/Por-que-Salles-sai-mas-a-pol%C3%ADtica-ambiental-tem-tudo-para-ficar)
+- [Do empresário ao presidente: quem é quem no caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/23/Do-empres%C3%A1rio-ao-presidente-quem-%C3%A9-quem-no-caso-Covaxin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
