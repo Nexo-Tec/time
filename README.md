@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desigualdade aumenta no Brasil da pandemia: o 1% está mais rico](https://www.nexojornal.com.br/extra/2021/06/25/Desigualdade-aumenta-no-Brasil-da-pandemia-o-1-est%C3%A1-mais-rico)
-- [Como são feitas as estimativas de mortes evitáveis na pandemia](https://www.nexojornal.com.br/expresso/2021/06/25/Como-s%C3%A3o-feitas-as-estimativas-de-mortes-evit%C3%A1veis-na-pandemia)
-- [Denunciante de Bolsonaro chegou de colete à prova de bala na CPI](https://www.nexojornal.com.br/extra/2021/06/25/Denunciante-de-Bolsonaro-chegou-de-colete-%C3%A0-prova-de-bala-na-CPI)
-- [‘Eric Hobsbawm’: o intelectual que viveu e narrou a história](https://www.nexojornal.com.br/estante/trechos/2021/06/25/%E2%80%98Eric-Hobsbawm%E2%80%99-o-intelectual-que-viveu-e-narrou-a-hist%C3%B3ria)
-- [Governo entrega reforma do Imposto de Renda](https://www.nexojornal.com.br/extra/2021/06/25/Governo-entrega-reforma-do-Imposto-de-Renda)
+- [Argentina reserva 1% dos cargos públicos para pessoas trans](https://www.nexojornal.com.br/extra/2021/06/25/Argentina-reserva-1-dos-cargos-p%C3%BAblicos-para-pessoas-trans)
+- [Polícia Civil indicia 9 PMs por mortes em baile funk em SP](https://www.nexojornal.com.br/extra/2021/06/25/Pol%C3%ADcia-Civil-indicia-9-PMs-por-mortes-em-baile-funk-em-SP)
+- [Lula venceria Bolsonaro no 1º turno, segundo pesquisa Ipec](https://www.nexojornal.com.br/extra/2021/06/25/Lula-venceria-Bolsonaro-no-1%C2%BA-turno-segundo-pesquisa-Ipec1)
+- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
+- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
