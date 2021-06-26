@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentina reserva 1% dos cargos públicos para pessoas trans](https://www.nexojornal.com.br/extra/2021/06/25/Argentina-reserva-1-dos-cargos-p%C3%BAblicos-para-pessoas-trans)
-- [Polícia Civil indicia 9 PMs por mortes em baile funk em SP](https://www.nexojornal.com.br/extra/2021/06/25/Pol%C3%ADcia-Civil-indicia-9-PMs-por-mortes-em-baile-funk-em-SP)
-- [Lula venceria Bolsonaro no 1º turno, segundo pesquisa Ipec](https://www.nexojornal.com.br/extra/2021/06/25/Lula-venceria-Bolsonaro-no-1%C2%BA-turno-segundo-pesquisa-Ipec1)
-- [Por que a CPI vê o caso Covaxin como o mais grave para o governo](https://www.nexojornal.com.br/expresso/2021/06/25/Por-que-a-CPI-v%C3%AA-o-caso-Covaxin-como-o-mais-grave-para-o-governo)
-- [África se prepara para viver pior momento da pandemia em julho](https://www.nexojornal.com.br/extra/2021/06/25/%C3%81frica-se-prepara-para-viver-pior-momento-da-pandemia-em-julho)
+- [Perguntado sobre Covaxin, Bolsonaro volta a insultar jornalistas](https://www.nexojornal.com.br/extra/2021/06/25/Perguntado-sobre-Covaxin-Bolsonaro-volta-a-insultar-jornalistas)
+- [‘Mundo olha, mas não age na crise indígena por causa da pandemia’](https://www.nexojornal.com.br/entrevista/2021/06/25/%E2%80%98Mundo-olha-mas-n%C3%A3o-age-na-crise-ind%C3%ADgena-por-causa-da-pandemia%E2%80%99)
+- [O projeto que explica o papel da comida na literatura](https://www.nexojornal.com.br/expresso/2021/06/25/O-projeto-que-explica-o-papel-da-comida-na-literatura)
+- [O portal que reúne estudos sobre áreas protegidas](https://www.nexojornal.com.br/expresso/2021/06/25/O-portal-que-re%C3%BAne-estudos-sobre-%C3%A1reas-protegidas)
+- [Em silêncio, a sífilis avança](https://www.nexojornal.com.br/externo/2021/06/25/Em-sil%C3%AAncio-a-s%C3%ADfilis-avan%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
