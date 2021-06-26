@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Ensino superior público e cortes orçamentários: discricionariedade ou discriminação?](https://pp.nexojornal.com.br/opiniao/2021/Ensino-superior-p%C3%BAblico-e-cortes-or%C3%A7ament%C3%A1rios-discricionariedade-ou-discrimina%C3%A7%C3%A3o)
-- [Racismo, contágio e passados pós-epidêmicos](https://pp.nexojornal.com.br/opiniao/2021/Racismo-cont%C3%A1gio-e-passados-p%C3%B3s-epid%C3%AAmicos)
 - [Cegueira botânica, conservação ambiental e sustentabilidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/06/23/Cegueira-bot%C3%A2nica-conserva%C3%A7%C3%A3o-ambiental-e-sustentabilidade)
 - [Como um projeto investiga o legado da escravidão em uma universidade americana](https://pp.nexojornal.com.br/topico/2021/06/21/Como-um-projeto-investiga-o-legado-da-escravid%C3%A3o-em-uma-universidade-americana)
 - [Restauração ecológica no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/Restaura%C3%A7%C3%A3o-ecol%C3%B3gica-no-Brasil)
+- [Panoramas e desafios da eficiência energética na indústria](https://pp.nexojornal.com.br/academico/2021/Panoramas-e-desafios-da-efici%C3%AAncia-energ%C3%A9tica-na-ind%C3%BAstria)
+- [11 pontos sobre o tratamento precoce à covid-19](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/11-pontos-sobre-o-tratamento-precoce-%C3%A0-covid-19)
 <!-- PP_LIST:END -->
 
