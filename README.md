@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Partidos se posicionam contra voto impresso](https://www.nexojornal.com.br/extra/2021/06/26/Partidos-se-posicionam-contra-voto-impresso)
-- [Como Britney Spears faz a mídia reavaliar responsabilidades](https://www.nexojornal.com.br/expresso/2021/06/26/Como-Britney-Spears-faz-a-m%C3%ADdia-reavaliar-responsabilidades)
-- [‘Pressão sobre Lira em protestos é atalho para impeachment’](https://www.nexojornal.com.br/entrevista/2021/06/26/%E2%80%98Press%C3%A3o-sobre-Lira-em-protestos-%C3%A9-atalho-para-impeachment%E2%80%99)
-- [O site que disponibiliza imagens de obras em domínio público](https://www.nexojornal.com.br/expresso/2021/06/26/O-site-que-disponibiliza-imagens-de-obras-em-dom%C3%ADnio-p%C3%BAblico)
-- [5 livros que tratam do que é ser negro no Brasil](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-tratam-do-que-%C3%A9-ser-negro-no-Brasil)
+- [Helicóptero de presidente da Colômbia é atacado por tiros](https://www.nexojornal.com.br/extra/2021/06/26/Helic%C3%B3ptero-de-presidente-da-Col%C3%B4mbia-%C3%A9-atacado-por-tiros)
+- [Justiça condena União por ofensas contra as mulheres](https://www.nexojornal.com.br/extra/2021/06/26/Justi%C3%A7a-condena-Uni%C3%A3o-por-ofensas-contra-as-mulheres)
+- [Como os irmãos Miranda põem o líder do governo sob suspeita](https://www.nexojornal.com.br/expresso/2021/06/26/Como-os-irm%C3%A3os-Miranda-p%C3%B5em-o-l%C3%ADder-do-governo-sob-suspeita)
+- [Perguntado sobre Covaxin, Bolsonaro volta a insultar jornalistas](https://www.nexojornal.com.br/extra/2021/06/25/Perguntado-sobre-Covaxin-Bolsonaro-volta-a-insultar-jornalistas)
+- [‘Mundo olha, mas não age na crise indígena por causa da pandemia’](https://www.nexojornal.com.br/entrevista/2021/06/25/%E2%80%98Mundo-olha-mas-n%C3%A3o-age-na-crise-ind%C3%ADgena-por-causa-da-pandemia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
