@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Helicóptero de presidente da Colômbia é atacado por tiros](https://www.nexojornal.com.br/extra/2021/06/26/Helic%C3%B3ptero-de-presidente-da-Col%C3%B4mbia-%C3%A9-atacado-por-tiros)
-- [Justiça condena União por ofensas contra as mulheres](https://www.nexojornal.com.br/extra/2021/06/26/Justi%C3%A7a-condena-Uni%C3%A3o-por-ofensas-contra-as-mulheres)
-- [Como os irmãos Miranda põem o líder do governo sob suspeita](https://www.nexojornal.com.br/expresso/2021/06/26/Como-os-irm%C3%A3os-Miranda-p%C3%B5em-o-l%C3%ADder-do-governo-sob-suspeita)
 - [Perguntado sobre Covaxin, Bolsonaro volta a insultar jornalistas](https://www.nexojornal.com.br/extra/2021/06/25/Perguntado-sobre-Covaxin-Bolsonaro-volta-a-insultar-jornalistas)
 - [‘Mundo olha, mas não age na crise indígena por causa da pandemia’](https://www.nexojornal.com.br/entrevista/2021/06/25/%E2%80%98Mundo-olha-mas-n%C3%A3o-age-na-crise-ind%C3%ADgena-por-causa-da-pandemia%E2%80%99)
+- [O projeto que explica o papel da comida na literatura](https://www.nexojornal.com.br/expresso/2021/06/25/O-projeto-que-explica-o-papel-da-comida-na-literatura)
+- [O portal que reúne estudos sobre áreas protegidas](https://www.nexojornal.com.br/expresso/2021/06/25/O-portal-que-re%C3%BAne-estudos-sobre-%C3%A1reas-protegidas)
+- [Em silêncio, a sífilis avança](https://www.nexojornal.com.br/externo/2021/06/25/Em-sil%C3%AAncio-a-s%C3%ADfilis-avan%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
