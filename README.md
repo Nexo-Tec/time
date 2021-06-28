@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministério confirma primeira morte por cepa indiana](https://www.nexojornal.com.br/extra/2021/06/27/Minist%C3%A9rio-confirma-primeira-morte-por-cepa-indiana)
-- [Caso Covaxin muda agenda da campanha contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/06/27/Caso-Covaxin-muda-agenda-da-campanha-contra-Bolsonaro)
-- [Partidos se posicionam contra voto impresso](https://www.nexojornal.com.br/extra/2021/06/26/Partidos-se-posicionam-contra-voto-impresso)
-- [Como Britney Spears faz a mídia reavaliar responsabilidades](https://www.nexojornal.com.br/expresso/2021/06/26/Como-Britney-Spears-faz-a-m%C3%ADdia-reavaliar-responsabilidades)
-- [‘Pressão sobre Lira em protestos é atalho para impeachment’](https://www.nexojornal.com.br/entrevista/2021/06/26/%E2%80%98Press%C3%A3o-sobre-Lira-em-protestos-%C3%A9-atalho-para-impeachment%E2%80%99)
+- [A nova alta das commodities. E os efeitos para o Brasil](https://www.nexojornal.com.br/expresso/2021/06/27/A-nova-alta-das-commodities.-E-os-efeitos-para-o-Brasil)
+- [O aumento da presença militar nas eleições. E o que esperar para 2022](https://www.nexojornal.com.br/expresso/2021/06/27/O-aumento-da-presen%C3%A7a-militar-nas-elei%C3%A7%C3%B5es.-E-o-que-esperar-para-2022)
+- [O papel da educação cidadã no combate à polarização](https://www.nexojornal.com.br/ensaio/2021/O-papel-da-educa%C3%A7%C3%A3o-cidad%C3%A3-no-combate-%C3%A0-polariza%C3%A7%C3%A3o)
+- [O que você sabe sobre o evento que originou o Dia do Orgulho LGBTI?](https://www.nexojornal.com.br/interativo/2021/06/27/O-que-voc%C3%AA-sabe-sobre-o-evento-que-originou-o-Dia-do-Orgulho-LGBTI)
+- [Governo propõe imposto de 5% sobre valorização de imóvel](https://www.nexojornal.com.br/extra/2021/06/27/Governo-prop%C3%B5e-imposto-de-5-sobre-valoriza%C3%A7%C3%A3o-de-im%C3%B3vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
