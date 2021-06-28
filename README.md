@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministério confirma primeira morte por cepa indiana](https://www.nexojornal.com.br/extra/2021/06/27/Minist%C3%A9rio-confirma-primeira-morte-por-cepa-indiana)
-- [Caso Covaxin muda agenda da campanha contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/06/27/Caso-Covaxin-muda-agenda-da-campanha-contra-Bolsonaro)
-- [Partidos se posicionam contra voto impresso](https://www.nexojornal.com.br/extra/2021/06/26/Partidos-se-posicionam-contra-voto-impresso)
-- [Como Britney Spears faz a mídia reavaliar responsabilidades](https://www.nexojornal.com.br/expresso/2021/06/26/Como-Britney-Spears-faz-a-m%C3%ADdia-reavaliar-responsabilidades)
-- [‘Pressão sobre Lira em protestos é atalho para impeachment’](https://www.nexojornal.com.br/entrevista/2021/06/26/%E2%80%98Press%C3%A3o-sobre-Lira-em-protestos-%C3%A9-atalho-para-impeachment%E2%80%99)
+- [Os 4 motivos que trazem Trump de volta aos comícios](https://www.nexojornal.com.br/expresso/2021/06/28/Os-4-motivos-que-trazem-Trump-de-volta-aos-com%C3%ADcios)
+- [Partidos de Macron e Le Pen saem derrotados na França](https://www.nexojornal.com.br/extra/2021/06/28/Partidos-de-Macron-e-Le-Pen-saem-derrotados-na-Fran%C3%A7a)
+- [A suspeita nos negócios da vacina para além do caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/28/A-suspeita-nos-neg%C3%B3cios-da-vacina-para-al%C3%A9m-do-caso-Covaxin)
+- [ONU cita Brasil pela 1ª vez em debate sobre genocídio indígena](https://www.nexojornal.com.br/extra/2021/06/28/ONU-cita-Brasil-pela-1%C2%AA-vez-em-debate-sobre-genoc%C3%ADdio-ind%C3%ADgena)
+- [Morto aos 69, jornalista Artur Xexéo foi referência no Rio](https://www.nexojornal.com.br/extra/2021/06/28/Morto-aos-69-jornalista-Artur-Xex%C3%A9o-foi-refer%C3%AAncia-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
