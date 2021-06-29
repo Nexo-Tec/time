@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Garrafa Térmica Stanley](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garrafa-termica-stanley/)
 - [O T da questão](http://gamarevista.uol.com.br/formato/depoimento/o-t-da-questao/)
 - [@i_am_inti](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/i_am_inti/)
 - [O dia em que o Brasil começou a morrer](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-dia-em-que-o-brasil-comecou-a-morrer/)
 - [Sergio Athié: o novo escritório pós-pandemia](http://gamarevista.uol.com.br/podcast/podcast-da-semana/sergio-athie-o-novo-escritorio-pos-pandemia/)
-- [Mariana Lima](http://gamarevista.uol.com.br/pessoas/questionario-proust/mariana-lima/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
