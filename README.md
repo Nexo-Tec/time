@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os 4 motivos que trazem Trump de volta aos comícios](https://www.nexojornal.com.br/expresso/2021/06/28/Os-4-motivos-que-trazem-Trump-de-volta-aos-com%C3%ADcios)
-- [Partidos de Macron e Le Pen saem derrotados na França](https://www.nexojornal.com.br/extra/2021/06/28/Partidos-de-Macron-e-Le-Pen-saem-derrotados-na-Fran%C3%A7a)
-- [A suspeita nos negócios da vacina para além do caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/28/A-suspeita-nos-neg%C3%B3cios-da-vacina-para-al%C3%A9m-do-caso-Covaxin)
-- [ONU cita Brasil pela 1ª vez em debate sobre genocídio indígena](https://www.nexojornal.com.br/extra/2021/06/28/ONU-cita-Brasil-pela-1%C2%AA-vez-em-debate-sobre-genoc%C3%ADdio-ind%C3%ADgena)
-- [Morto aos 69, jornalista Artur Xexéo foi referência no Rio](https://www.nexojornal.com.br/extra/2021/06/28/Morto-aos-69-jornalista-Artur-Xex%C3%A9o-foi-refer%C3%AAncia-no-Rio)
+- [O projeto que ensina como reaproveitar os alimentos](https://www.nexojornal.com.br/expresso/2021/06/29/O-projeto-que-ensina-como-reaproveitar-os-alimentos)
+- [A decisão do STJ sobre o uso do nome ‘Legião Urbana’](https://www.nexojornal.com.br/expresso/2021/06/29/A-decis%C3%A3o-do-STJ-sobre-o-uso-do-nome-%E2%80%98Legi%C3%A3o-Urbana%E2%80%99)
+- [Ministério da Saúde decide suspender compra da Covaxin](https://www.nexojornal.com.br/extra/2021/06/29/Minist%C3%A9rio-da-Sa%C3%BAde-decide-suspender-compra-da-Covaxin)
+- [A estratégia de aplicar vacinas diferentes numa mesma pessoa](https://www.nexojornal.com.br/podcast/2021/06/29/A-estrat%C3%A9gia-de-aplicar-vacinas-diferentes-numa-mesma-pessoa)
+- [França aprova fertilização in vitro para solteiras e lésbicas](https://www.nexojornal.com.br/extra/2021/06/29/Fran%C3%A7a-aprova-fertiliza%C3%A7%C3%A3o-in-vitro-para-solteiras-e-l%C3%A9sbicas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
