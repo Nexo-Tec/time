@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Felicidade foi ‘simbora’: pandemia, corrupção e tristeza](https://www.nexojornal.com.br/colunistas/2021/Felicidade-foi-%E2%80%98simbora%E2%80%99-pandemia-corrup%C3%A7%C3%A3o-e-tristeza)
+- [Ministro pede economia de energia em meio a crise hidrelétrica](https://www.nexojornal.com.br/extra/2021/06/28/Ministro-pede-economia-de-energia-em-meio-a-crise-hidrel%C3%A9trica)
 - [México: Suprema Corte descriminaliza uso recreativo de maconha](https://www.nexojornal.com.br/extra/2021/06/28/M%C3%A9xico-Suprema-Corte-descriminaliza-uso-recreativo-de-maconha)
 - [O que você precisa saber sobre a plataforma HBO Max](https://www.nexojornal.com.br/expresso/2021/06/28/O-que-voc%C3%AA-precisa-saber-sobre-a-plataforma-HBO-Max)
 - [As dimensões da caçada policial até a morte de Lázaro](https://www.nexojornal.com.br/podcast/2021/06/28/As-dimens%C3%B5es-da-ca%C3%A7ada-policial-at%C3%A9-a-morte-de-L%C3%A1zaro)
-- [Banco americano JP Morgan compra 40% do digital C6 Bank](https://www.nexojornal.com.br/extra/2021/06/28/Banco-americano-JP-Morgan-compra-40-do-digital-C6-Bank)
-- [Senadores apresentam notícia-crime contra Bolsonaro no STF](https://www.nexojornal.com.br/extra/2021/06/28/Senadores-apresentam-not%C3%ADcia-crime-contra-Bolsonaro-no-STF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
