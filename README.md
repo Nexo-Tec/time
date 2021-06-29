@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [México: Suprema Corte descriminaliza uso recreativo de maconha](https://www.nexojornal.com.br/extra/2021/06/28/M%C3%A9xico-Suprema-Corte-descriminaliza-uso-recreativo-de-maconha)
-- [O que você precisa saber sobre a plataforma HBO Max](https://www.nexojornal.com.br/expresso/2021/06/28/O-que-voc%C3%AA-precisa-saber-sobre-a-plataforma-HBO-Max)
-- [As dimensões da caçada policial até a morte de Lázaro](https://www.nexojornal.com.br/podcast/2021/06/28/As-dimens%C3%B5es-da-ca%C3%A7ada-policial-at%C3%A9-a-morte-de-L%C3%A1zaro)
-- [Banco americano JP Morgan compra 40% do digital C6 Bank](https://www.nexojornal.com.br/extra/2021/06/28/Banco-americano-JP-Morgan-compra-40-do-digital-C6-Bank)
-- [Senadores apresentam notícia-crime contra Bolsonaro no STF](https://www.nexojornal.com.br/extra/2021/06/28/Senadores-apresentam-not%C3%ADcia-crime-contra-Bolsonaro-no-STF)
+- [Os 4 motivos que trazem Trump de volta aos comícios](https://www.nexojornal.com.br/expresso/2021/06/28/Os-4-motivos-que-trazem-Trump-de-volta-aos-com%C3%ADcios)
+- [Partidos de Macron e Le Pen saem derrotados na França](https://www.nexojornal.com.br/extra/2021/06/28/Partidos-de-Macron-e-Le-Pen-saem-derrotados-na-Fran%C3%A7a)
+- [A suspeita nos negócios da vacina para além do caso Covaxin](https://www.nexojornal.com.br/expresso/2021/06/28/A-suspeita-nos-neg%C3%B3cios-da-vacina-para-al%C3%A9m-do-caso-Covaxin)
+- [ONU cita Brasil pela 1ª vez em debate sobre genocídio indígena](https://www.nexojornal.com.br/extra/2021/06/28/ONU-cita-Brasil-pela-1%C2%AA-vez-em-debate-sobre-genoc%C3%ADdio-ind%C3%ADgena)
+- [Morto aos 69, jornalista Artur Xexéo foi referência no Rio](https://www.nexojornal.com.br/extra/2021/06/28/Morto-aos-69-jornalista-Artur-Xex%C3%A9o-foi-refer%C3%AAncia-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
