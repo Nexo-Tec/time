@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Ricardo Paes de Barros: a perda de aprendizagem na pandemia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/29/Ricardo-Paes-de-Barros-a-perda-de-aprendizagem-na-pandemia)
 - [Produção de alimentos e mudanças climáticas na Mata Atlântica](https://pp.nexojornal.com.br/opiniao/2021/Produ%C3%A7%C3%A3o-de-alimentos-e-mudan%C3%A7as-clim%C3%A1ticas-na-Mata-Atl%C3%A2ntica1)
 - [O apagão de dados e políticas públicas de diversidade no cinema brasileiro](https://pp.nexojornal.com.br/opiniao/2021/O-apag%C3%A3o-de-dados-e-pol%C3%ADticas-p%C3%BAblicas-de-diversidade-no-cinema-brasileiro)
 - [Princípios para construir uma renda básica universal no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2021/Princ%C3%ADpios-para-construir-uma-renda-b%C3%A1sica-universal-no-Brasil)
 - [Quem são as mulheres pan-africanistas e como podem reescrever as relações internacionais?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Quem-s%C3%A3o-as-mulheres-pan-africanistas-e-como-podem-reescrever-as-rela%C3%A7%C3%B5es-internacionais)
+- [Ensino superior público e cortes orçamentários: discricionariedade ou discriminação?](https://pp.nexojornal.com.br/opiniao/2021/Ensino-superior-p%C3%BAblico-e-cortes-or%C3%A7ament%C3%A1rios-discricionariedade-ou-discrimina%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
