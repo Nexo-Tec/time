@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As suspeitas de propina nas vacinas do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/30/As-suspeitas-de-propina-nas-vacinas-do-governo-Bolsonaro)
-- [Em busca da esperança: voltar a sonhar o Brasil](https://www.nexojornal.com.br/colunistas/2021/Em-busca-da-esperan%C3%A7a-voltar-a-sonhar-o-Brasil)
-- [Startup promete oferecer ‘bifes’ em impressoras 3D em 2022](https://www.nexojornal.com.br/extra/2021/06/29/Startup-promete-oferecer-%E2%80%98bifes%E2%80%99-em-impressoras-3D-em-2022)
-- [O que diz o projeto que muda a demarcação de terras indígenas](https://www.nexojornal.com.br/expresso/2021/06/29/O-que-diz-o-projeto-que-muda-a-demarca%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas)
-- [Das usinas à sua casa: o passo a passo da conta de luz](https://www.nexojornal.com.br/expresso/2021/06/29/Das-usinas-%C3%A0-sua-casa-o-passo-a-passo-da-conta-de-luz)
+- [Enem abre inscrições para prova de 2021; prazo é 14 de julho](https://www.nexojornal.com.br/extra/2021/06/30/Enem-abre-inscri%C3%A7%C3%B5es-para-prova-de-2021-prazo-%C3%A9-14-de-julho)
+- [CPI da Covid convoca envolvidos em suspeitas de propina](https://www.nexojornal.com.br/extra/2021/06/30/CPI-da-Covid-convoca-envolvidos-em-suspeitas-de-propina)
+- [Por que o desemprego não cede, mesmo com a melhora do PIB](https://www.nexojornal.com.br/expresso/2021/06/30/Por-que-o-desemprego-n%C3%A3o-cede-mesmo-com-a-melhora-do-PIB)
+- [Procuradoria-Geral fala em investigar Bolsonaro só depois da CPI](https://www.nexojornal.com.br/extra/2021/06/30/Procuradoria-Geral-fala-em-investigar-Bolsonaro-s%C3%B3-depois-da-CPI)
+- [A história ilustrada de um saber: geolocalização](https://www.nexojornal.com.br/grafico/2021/06/30/A-hist%C3%B3ria-ilustrada-de-um-saber-geolocaliza%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
