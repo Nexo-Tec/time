@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Enem abre inscrições para prova de 2021; prazo é 14 de julho](https://www.nexojornal.com.br/extra/2021/06/30/Enem-abre-inscri%C3%A7%C3%B5es-para-prova-de-2021-prazo-%C3%A9-14-de-julho)
-- [CPI da Covid convoca envolvidos em suspeitas de propina](https://www.nexojornal.com.br/extra/2021/06/30/CPI-da-Covid-convoca-envolvidos-em-suspeitas-de-propina)
-- [Por que o desemprego não cede, mesmo com a melhora do PIB](https://www.nexojornal.com.br/expresso/2021/06/30/Por-que-o-desemprego-n%C3%A3o-cede-mesmo-com-a-melhora-do-PIB)
-- [Procuradoria-Geral fala em investigar Bolsonaro só depois da CPI](https://www.nexojornal.com.br/extra/2021/06/30/Procuradoria-Geral-fala-em-investigar-Bolsonaro-s%C3%B3-depois-da-CPI)
-- [A história ilustrada de um saber: geolocalização](https://www.nexojornal.com.br/grafico/2021/06/30/A-hist%C3%B3ria-ilustrada-de-um-saber-geolocaliza%C3%A7%C3%A3o)
+- [O projeto que ensina como reaproveitar os alimentos](https://www.nexojornal.com.br/expresso/2021/06/29/O-projeto-que-ensina-como-reaproveitar-os-alimentos)
+- [A decisão do STJ sobre o uso do nome ‘Legião Urbana’](https://www.nexojornal.com.br/expresso/2021/06/29/A-decis%C3%A3o-do-STJ-sobre-o-uso-do-nome-%E2%80%98Legi%C3%A3o-Urbana%E2%80%99)
+- [Ministério da Saúde decide suspender compra da Covaxin](https://www.nexojornal.com.br/extra/2021/06/29/Minist%C3%A9rio-da-Sa%C3%BAde-decide-suspender-compra-da-Covaxin)
+- [A estratégia de aplicar vacinas diferentes numa mesma pessoa](https://www.nexojornal.com.br/podcast/2021/06/29/A-estrat%C3%A9gia-de-aplicar-vacinas-diferentes-numa-mesma-pessoa)
+- [França aprova fertilização in vitro para solteiras e lésbicas](https://www.nexojornal.com.br/extra/2021/06/29/Fran%C3%A7a-aprova-fertiliza%C3%A7%C3%A3o-in-vitro-para-solteiras-e-l%C3%A9sbicas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
