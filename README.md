@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As suspeitas de propina nas vacinas do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/30/As-suspeitas-de-propina-nas-vacinas-do-governo-Bolsonaro)
-- [Em busca da esperança: voltar a sonhar o Brasil](https://www.nexojornal.com.br/colunistas/2021/Em-busca-da-esperan%C3%A7a-voltar-a-sonhar-o-Brasil)
-- [Startup promete oferecer ‘bifes’ em impressoras 3D em 2022](https://www.nexojornal.com.br/extra/2021/06/29/Startup-promete-oferecer-%E2%80%98bifes%E2%80%99-em-impressoras-3D-em-2022)
-- [O que diz o projeto que muda a demarcação de terras indígenas](https://www.nexojornal.com.br/expresso/2021/06/29/O-que-diz-o-projeto-que-muda-a-demarca%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas)
-- [Das usinas à sua casa: o passo a passo da conta de luz](https://www.nexojornal.com.br/expresso/2021/06/29/Das-usinas-%C3%A0-sua-casa-o-passo-a-passo-da-conta-de-luz)
+- [O projeto que ensina como reaproveitar os alimentos](https://www.nexojornal.com.br/expresso/2021/06/29/O-projeto-que-ensina-como-reaproveitar-os-alimentos)
+- [A decisão do STJ sobre o uso do nome ‘Legião Urbana’](https://www.nexojornal.com.br/expresso/2021/06/29/A-decis%C3%A3o-do-STJ-sobre-o-uso-do-nome-%E2%80%98Legi%C3%A3o-Urbana%E2%80%99)
+- [Ministério da Saúde decide suspender compra da Covaxin](https://www.nexojornal.com.br/extra/2021/06/29/Minist%C3%A9rio-da-Sa%C3%BAde-decide-suspender-compra-da-Covaxin)
+- [A estratégia de aplicar vacinas diferentes numa mesma pessoa](https://www.nexojornal.com.br/podcast/2021/06/29/A-estrat%C3%A9gia-de-aplicar-vacinas-diferentes-numa-mesma-pessoa)
+- [França aprova fertilização in vitro para solteiras e lésbicas](https://www.nexojornal.com.br/extra/2021/06/29/Fran%C3%A7a-aprova-fertiliza%C3%A7%C3%A3o-in-vitro-para-solteiras-e-l%C3%A9sbicas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
