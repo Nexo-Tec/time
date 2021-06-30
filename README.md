@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A máscara das 1000 faces](http://gamarevista.uol.com.br/colunistas/marcello-dantas/a-mascara-das-1000-faces/)
 - [O sucesso do rap acústico no Brasil](http://gamarevista.uol.com.br/cultura/o-sucesso-do-rap-acustico-no-brasil/)
 - [Garrafa Térmica Stanley](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garrafa-termica-stanley/)
 - [O T da questão](http://gamarevista.uol.com.br/formato/depoimento/o-t-da-questao/)
 - [@i_am_inti](http://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/i_am_inti/)
-- [O dia em que o Brasil começou a morrer](http://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-dia-em-que-o-brasil-comecou-a-morrer/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
