@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como manter uma rotina de leitura](http://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-manter-uma-rotina-de-leitura/)
-- [A máscara das 1000 faces](http://gamarevista.uol.com.br/colunistas/marcello-dantas/a-mascara-das-1000-faces/)
-- [O sucesso do rap acústico no Brasil](http://gamarevista.uol.com.br/cultura/o-sucesso-do-rap-acustico-no-brasil/)
-- [Garrafa Térmica Stanley](http://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garrafa-termica-stanley/)
-- [O T da questão](http://gamarevista.uol.com.br/formato/depoimento/o-t-da-questao/)
+- [A história de trigêmeos que se reencontraram por acaso](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-de-trigemeos-que-se-reencontraram-por-acaso/)
+- [O primeiro de quatro novos singles de Letrux](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-primeiro-de-quatro-novos-singles-de-letrux/)
+- [Você realmente conhece João Gilberto?](https://gamarevista.uol.com.br/achamos-que-vale/ler/voce-realmente-conhece-joao-gilberto/)
+- [Espetáculo audiovisual com Filipe Catto inaugura série “Instantâneas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/espetaculo-audiovisual-com-filipe-catto-inaugura-serie-instantaneas/)
+- [Como o governo da Índia (também) perdeu o controle da pandemia](https://gamarevista.uol.com.br/achamos-que-vale/ler/como-o-governo-da-india-tambem-perdeu-o-controle-da-pandemia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
