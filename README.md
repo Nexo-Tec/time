@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As suspeitas de propina nas vacinas do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/06/30/As-suspeitas-de-propina-nas-vacinas-do-governo-Bolsonaro)
-- [Em busca da esperança: voltar a sonhar o Brasil](https://www.nexojornal.com.br/colunistas/2021/Em-busca-da-esperan%C3%A7a-voltar-a-sonhar-o-Brasil)
-- [Startup promete oferecer ‘bifes’ em impressoras 3D em 2022](https://www.nexojornal.com.br/extra/2021/06/29/Startup-promete-oferecer-%E2%80%98bifes%E2%80%99-em-impressoras-3D-em-2022)
-- [O que diz o projeto que muda a demarcação de terras indígenas](https://www.nexojornal.com.br/expresso/2021/06/29/O-que-diz-o-projeto-que-muda-a-demarca%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas)
-- [Das usinas à sua casa: o passo a passo da conta de luz](https://www.nexojornal.com.br/expresso/2021/06/29/Das-usinas-%C3%A0-sua-casa-o-passo-a-passo-da-conta-de-luz)
+- [O aumento da autodeclaração de negros na população brasileira](https://www.nexojornal.com.br/academico/2021/06/30/O-aumento-da-autodeclara%C3%A7%C3%A3o-de-negros-na-popula%C3%A7%C3%A3o-brasileira)
+- [Por que o frio é ideal para comer pratos mais calóricos](https://www.nexojornal.com.br/colunistas/2021/Por-que-o-frio-%C3%A9-ideal-para-comer-pratos-mais-cal%C3%B3ricos)
+- [‘A China tem uma vida política intensa, mas diferente do Ocidente’](https://www.nexojornal.com.br/entrevista/2021/06/30/%E2%80%98A-China-tem-uma-vida-pol%C3%ADtica-intensa-mas-diferente-do-Ocidente%E2%80%99)
+- [Apple e funcionários entram em choque sobre trabalho remoto](https://www.nexojornal.com.br/extra/2021/06/30/Apple-e-funcion%C3%A1rios-entram-em-choque-sobre-trabalho-remoto)
+- [Atriz Allison Mack é condenada à prisão por participação em culto](https://www.nexojornal.com.br/extra/2021/06/30/Atriz-Allison-Mack-%C3%A9-condenada-%C3%A0-pris%C3%A3o-por-participa%C3%A7%C3%A3o-em-culto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
