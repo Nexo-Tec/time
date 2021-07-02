@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As dúvidas que cercam o novo denunciante da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/01/As-d%C3%BAvidas-que-cercam-o-novo-denunciante-da-CPI-da-Covid)
+- [‘Forças especiais’: uma vida marcada pela violência](https://www.nexojornal.com.br/estante/trechos/2021/07/01/%E2%80%98For%C3%A7as-especiais%E2%80%99-uma-vida-marcada-pela-viol%C3%AAncia)
+- [Da defesa para o ataque: a busca por uma bala de prata](https://www.nexojornal.com.br/colunistas/2021/Da-defesa-para-o-ataque-a-busca-por-uma-bala-de-prata)
+- [Wagner Moura e mais brasileiros são convidados a votar no Oscar](https://www.nexojornal.com.br/extra/2021/07/01/Wagner-Moura-e-mais-brasileiros-s%C3%A3o-convidados-a-votar-no-Oscar)
 - [‘Não há disposição política’, diz Lira sobre impeachment](https://www.nexojornal.com.br/extra/2021/07/01/%E2%80%98N%C3%A3o-h%C3%A1-disposi%C3%A7%C3%A3o-pol%C3%ADtica%E2%80%99-diz-Lira-sobre-impeachment)
-- [Os marcadores de páginas com ilustrações de Van Gogh](https://www.nexojornal.com.br/expresso/2021/07/01/Os-marcadores-de-p%C3%A1ginas-com-ilustra%C3%A7%C3%B5es-de-Van-Gogh)
-- [‘Zola’: a sequência de 148 tuítes que virou filme](https://www.nexojornal.com.br/expresso/2021/07/01/%E2%80%98Zola%E2%80%99-a-sequ%C3%AAncia-de-148-tu%C3%ADtes-que-virou-filme)
-- [Outro recorde de fogo na Amazônia. E o alerta para a estação seca](https://www.nexojornal.com.br/podcast/2021/07/01/Outro-recorde-de-fogo-na-Amaz%C3%B4nia.-E-o-alerta-para-a-esta%C3%A7%C3%A3o-seca)
-- [Presidente afastado da CBF acusa antecessor de chantagem](https://www.nexojornal.com.br/extra/2021/07/01/Presidente-afastado-da-CBF-acusa-antecessor-de-chantagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
