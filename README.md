@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não há disposição política’, diz Lira sobre impeachment](https://www.nexojornal.com.br/extra/2021/07/01/%E2%80%98N%C3%A3o-h%C3%A1-disposi%C3%A7%C3%A3o-pol%C3%ADtica%E2%80%99-diz-Lira-sobre-impeachment)
-- [Os marcadores de páginas com ilustrações de Van Gogh](https://www.nexojornal.com.br/expresso/2021/07/01/Os-marcadores-de-p%C3%A1ginas-com-ilustra%C3%A7%C3%B5es-de-Van-Gogh)
-- [‘Zola’: a sequência de 148 tuítes que virou filme](https://www.nexojornal.com.br/expresso/2021/07/01/%E2%80%98Zola%E2%80%99-a-sequ%C3%AAncia-de-148-tu%C3%ADtes-que-virou-filme)
-- [Outro recorde de fogo na Amazônia. E o alerta para a estação seca](https://www.nexojornal.com.br/podcast/2021/07/01/Outro-recorde-de-fogo-na-Amaz%C3%B4nia.-E-o-alerta-para-a-esta%C3%A7%C3%A3o-seca)
-- [Presidente afastado da CBF acusa antecessor de chantagem](https://www.nexojornal.com.br/extra/2021/07/01/Presidente-afastado-da-CBF-acusa-antecessor-de-chantagem)
+- [Como o pedido de impeachment amplo reforça a ação da oposição](https://www.nexojornal.com.br/expresso/2021/06/30/Como-o-pedido-de-impeachment-amplo-refor%C3%A7a-a-a%C3%A7%C3%A3o-da-oposi%C3%A7%C3%A3o)
+- [O aumento da autodeclaração de negros na população brasileira](https://www.nexojornal.com.br/academico/2021/06/30/O-aumento-da-autodeclara%C3%A7%C3%A3o-de-negros-na-popula%C3%A7%C3%A3o-brasileira)
+- [Por que o frio é ideal para comer pratos mais calóricos](https://www.nexojornal.com.br/colunistas/2021/Por-que-o-frio-%C3%A9-ideal-para-comer-pratos-mais-cal%C3%B3ricos)
+- [‘A China tem uma vida política intensa, mas diferente do Ocidente’](https://www.nexojornal.com.br/entrevista/2021/06/30/%E2%80%98A-China-tem-uma-vida-pol%C3%ADtica-intensa-mas-diferente-do-Ocidente%E2%80%99)
+- [Apple e funcionários entram em choque sobre trabalho remoto](https://www.nexojornal.com.br/extra/2021/06/30/Apple-e-funcion%C3%A1rios-entram-em-choque-sobre-trabalho-remoto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
