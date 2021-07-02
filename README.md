@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o pedido de impeachment amplo reforça a ação da oposição](https://www.nexojornal.com.br/expresso/2021/06/30/Como-o-pedido-de-impeachment-amplo-refor%C3%A7a-a-a%C3%A7%C3%A3o-da-oposi%C3%A7%C3%A3o)
-- [O aumento da autodeclaração de negros na população brasileira](https://www.nexojornal.com.br/academico/2021/06/30/O-aumento-da-autodeclara%C3%A7%C3%A3o-de-negros-na-popula%C3%A7%C3%A3o-brasileira)
-- [Por que o frio é ideal para comer pratos mais calóricos](https://www.nexojornal.com.br/colunistas/2021/Por-que-o-frio-%C3%A9-ideal-para-comer-pratos-mais-cal%C3%B3ricos)
-- [‘A China tem uma vida política intensa, mas diferente do Ocidente’](https://www.nexojornal.com.br/entrevista/2021/06/30/%E2%80%98A-China-tem-uma-vida-pol%C3%ADtica-intensa-mas-diferente-do-Ocidente%E2%80%99)
-- [Apple e funcionários entram em choque sobre trabalho remoto](https://www.nexojornal.com.br/extra/2021/06/30/Apple-e-funcion%C3%A1rios-entram-em-choque-sobre-trabalho-remoto)
+- [As dúvidas que cercam o novo denunciante da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/01/As-d%C3%BAvidas-que-cercam-o-novo-denunciante-da-CPI-da-Covid)
+- [‘Forças especiais’: uma vida marcada pela violência](https://www.nexojornal.com.br/estante/trechos/2021/07/01/%E2%80%98For%C3%A7as-especiais%E2%80%99-uma-vida-marcada-pela-viol%C3%AAncia)
+- [Da defesa para o ataque: a busca por uma bala de prata](https://www.nexojornal.com.br/colunistas/2021/Da-defesa-para-o-ataque-a-busca-por-uma-bala-de-prata)
+- [Wagner Moura e mais brasileiros são convidados a votar no Oscar](https://www.nexojornal.com.br/extra/2021/07/01/Wagner-Moura-e-mais-brasileiros-s%C3%A3o-convidados-a-votar-no-Oscar)
+- [‘Não há disposição política’, diz Lira sobre impeachment](https://www.nexojornal.com.br/extra/2021/07/01/%E2%80%98N%C3%A3o-h%C3%A1-disposi%C3%A7%C3%A3o-pol%C3%ADtica%E2%80%99-diz-Lira-sobre-impeachment)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
