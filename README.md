@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Conversas Desconfortáveis com um Homem Negro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conversas-desconfortaveis-com-um-homem-negro/)
 - [A história de trigêmeos que se reencontraram por acaso](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-de-trigemeos-que-se-reencontraram-por-acaso/)
 - [O primeiro de quatro novos singles de Letrux](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-primeiro-de-quatro-novos-singles-de-letrux/)
 - [Você realmente conhece João Gilberto?](https://gamarevista.uol.com.br/achamos-que-vale/ler/voce-realmente-conhece-joao-gilberto/)
 - [Espetáculo audiovisual com Filipe Catto inaugura série “Instantâneas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/espetaculo-audiovisual-com-filipe-catto-inaugura-serie-instantaneas/)
-- [Como o governo da Índia (também) perdeu o controle da pandemia](https://gamarevista.uol.com.br/achamos-que-vale/ler/como-o-governo-da-india-tambem-perdeu-o-controle-da-pandemia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
