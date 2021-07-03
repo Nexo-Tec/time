@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As dúvidas que cercam o novo denunciante da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/01/As-d%C3%BAvidas-que-cercam-o-novo-denunciante-da-CPI-da-Covid)
-- [‘Forças especiais’: uma vida marcada pela violência](https://www.nexojornal.com.br/estante/trechos/2021/07/01/%E2%80%98For%C3%A7as-especiais%E2%80%99-uma-vida-marcada-pela-viol%C3%AAncia)
-- [Da defesa para o ataque: a busca por uma bala de prata](https://www.nexojornal.com.br/colunistas/2021/Da-defesa-para-o-ataque-a-busca-por-uma-bala-de-prata)
-- [Wagner Moura e mais brasileiros são convidados a votar no Oscar](https://www.nexojornal.com.br/extra/2021/07/01/Wagner-Moura-e-mais-brasileiros-s%C3%A3o-convidados-a-votar-no-Oscar)
-- [‘Não há disposição política’, diz Lira sobre impeachment](https://www.nexojornal.com.br/extra/2021/07/01/%E2%80%98N%C3%A3o-h%C3%A1-disposi%C3%A7%C3%A3o-pol%C3%ADtica%E2%80%99-diz-Lira-sobre-impeachment)
+- [Oposição vai às ruas reforçada pelas suspeitas de propina](https://www.nexojornal.com.br/extra/2021/07/02/Oposi%C3%A7%C3%A3o-vai-%C3%A0s-ruas-refor%C3%A7ada-pelas-suspeitas-de-propina)
+- [O que Eduardo Leite se assumir gay diz sobre a política nacional](https://www.nexojornal.com.br/expresso/2021/07/02/O-que-Eduardo-Leite-se-assumir-gay-diz-sobre-a-pol%C3%ADtica-nacional)
+- [Do negacionismo à corrupção: o que move a indignação nacional](https://www.nexojornal.com.br/expresso/2021/07/02/Do-negacionismo-%C3%A0-corrup%C3%A7%C3%A3o-o-que-move-a-indigna%C3%A7%C3%A3o-nacional)
+- [Dia da Mulher Negra: uma resistência ao apagamento histórico](https://www.nexojornal.com.br/colunistas/tribuna/2021/Dia-da-Mulher-Negra-uma-resist%C3%AAncia-ao-apagamento-hist%C3%B3rico)
+- [Como o Taleban se prepara para recuperar terreno no Afeganistão](https://www.nexojornal.com.br/expresso/2021/07/02/Como-o-Taleban-se-prepara-para-recuperar-terreno-no-Afeganist%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
