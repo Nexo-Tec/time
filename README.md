@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cao Hamburger](https://gamarevista.uol.com.br/pessoas/questionario-proust/cao-hamburger/)
 - [A vida depois do pornô](https://gamarevista.uol.com.br/sociedade/a-vida-depois-do-porno/)
 - [Conversas Desconfortáveis com um Homem Negro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conversas-desconfortaveis-com-um-homem-negro/)
 - [A história de trigêmeos que se reencontraram por acaso](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-de-trigemeos-que-se-reencontraram-por-acaso/)
 - [O primeiro de quatro novos singles de Letrux](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-primeiro-de-quatro-novos-singles-de-letrux/)
-- [Você realmente conhece João Gilberto?](https://gamarevista.uol.com.br/achamos-que-vale/ler/voce-realmente-conhece-joao-gilberto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
