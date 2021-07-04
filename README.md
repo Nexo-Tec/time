@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Oposição vai às ruas reforçada pelas suspeitas de propina](https://www.nexojornal.com.br/extra/2021/07/02/Oposi%C3%A7%C3%A3o-vai-%C3%A0s-ruas-refor%C3%A7ada-pelas-suspeitas-de-propina)
-- [O que Eduardo Leite se assumir gay diz sobre a política nacional](https://www.nexojornal.com.br/expresso/2021/07/02/O-que-Eduardo-Leite-se-assumir-gay-diz-sobre-a-pol%C3%ADtica-nacional)
-- [Do negacionismo à corrupção: o que move a indignação nacional](https://www.nexojornal.com.br/expresso/2021/07/02/Do-negacionismo-%C3%A0-corrup%C3%A7%C3%A3o-o-que-move-a-indigna%C3%A7%C3%A3o-nacional)
-- [Dia da Mulher Negra: uma resistência ao apagamento histórico](https://www.nexojornal.com.br/colunistas/tribuna/2021/Dia-da-Mulher-Negra-uma-resist%C3%AAncia-ao-apagamento-hist%C3%B3rico)
-- [Como o Taleban se prepara para recuperar terreno no Afeganistão](https://www.nexojornal.com.br/expresso/2021/07/02/Como-o-Taleban-se-prepara-para-recuperar-terreno-no-Afeganist%C3%A3o)
+- [5 livros para pensar a sustentabilidade na prática](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-pensar-a-sustentabilidade-na-pr%C3%A1tica)
+- [Os prejuízos da onda de calor às cidades norte-americanas](https://www.nexojornal.com.br/expresso/2021/07/04/Os-preju%C3%ADzos-da-onda-de-calor-%C3%A0s-cidades-norte-americanas)
+- [Mais vacina e leitos livres, menos mortes: a pandemia vai recuar?](https://www.nexojornal.com.br/expresso/2021/07/04/Mais-vacina-e-leitos-livres-menos-mortes-a-pandemia-vai-recuar)
+- [As três décadas de Marco Aurélio como ministro do Supremo](https://www.nexojornal.com.br/expresso/2021/07/04/As-tr%C3%AAs-d%C3%A9cadas-de-Marco-Aur%C3%A9lio-como-ministro-do-Supremo)
+- [Reduzir Bolsonaro à corrupção é erro factual e político](https://www.nexojornal.com.br/ensaio/2021/Reduzir-Bolsonaro-%C3%A0-corrup%C3%A7%C3%A3o-%C3%A9-erro-factual-e-pol%C3%ADtico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
