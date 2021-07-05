@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A agropecuária precisa da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/A-agropecu%C3%A1ria-precisa-da-Amaz%C3%B4nia)
-- [No Brasil, uma Espera Feliz?](https://pp.nexojornal.com.br/ponto-de-vista/2021/No-Brasil-uma-Espera-Feliz)
-- [Ensino domiciliar enquanto bandeira política do conservadorismo na educação](https://pp.nexojornal.com.br/opiniao/2021/Ensino-domiciliar-enquanto-bandeira-pol%C3%ADtica-do-conservadorismo-na-educa%C3%A7%C3%A3o)
-- [Desafios para a transição a sistemas alimentares sustentáveis](https://pp.nexojornal.com.br/opiniao/2021/Desafios-para-a-transi%C3%A7%C3%A3o-a-sistemas-alimentares-sustent%C3%A1veis)
 - [Agendas de biodiversidade e clima caminham a passos lentos para a integração necessária](https://pp.nexojornal.com.br/opiniao/2021/Agendas-de-biodiversidade-e-clima-caminham-a-passos-lentos-para-a-integra%C3%A7%C3%A3o-necess%C3%A1ria)
+- [A falácia da iniciativa privada como salvação do SUS](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-fal%C3%A1cia-da-iniciativa-privada-como-salva%C3%A7%C3%A3o-do-SUS)
+- [Por que o número de homicídios aumentou em democracias da América Latina?](https://pp.nexojornal.com.br/academico/2021/Por-que-o-n%C3%BAmero-de-homic%C3%ADdios-aumentou-em-democracias-da-Am%C3%A9rica-Latina)
+- [Atividade política corporativa do setor de alimentos e bebidas ultraprocessados](https://pp.nexojornal.com.br/bibliografia-basica/2021/06/30/Atividade-pol%C3%ADtica-corporativa-do-setor-de-alimentos-e-bebidas-ultraprocessados)
+- [Ricardo Paes de Barros: a perda de aprendizagem na pandemia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/06/29/Ricardo-Paes-de-Barros-a-perda-de-aprendizagem-na-pandemia)
 <!-- PP_LIST:END -->
 
