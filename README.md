@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Estrelas, engravatados, tiranos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/estrelas-engravatados-tiranos/)
 - [@derrick_o_boateng](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/derrick_o_boateng/)
 - [Lua Barros: “Quanto mais pressa com os filhos, menos conexão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lua-barros-ta-com-pressa/)
 - [Cao Hamburger](https://gamarevista.uol.com.br/pessoas/questionario-proust/cao-hamburger/)
 - [A vida depois do pornô](https://gamarevista.uol.com.br/sociedade/a-vida-depois-do-porno/)
-- [Conversas Desconfortáveis com um Homem Negro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conversas-desconfortaveis-com-um-homem-negro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
