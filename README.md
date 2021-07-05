@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para pensar a sustentabilidade na prática](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-pensar-a-sustentabilidade-na-pr%C3%A1tica)
-- [Os prejuízos da onda de calor às cidades norte-americanas](https://www.nexojornal.com.br/expresso/2021/07/04/Os-preju%C3%ADzos-da-onda-de-calor-%C3%A0s-cidades-norte-americanas)
-- [Mais vacina e leitos livres, menos mortes: a pandemia vai recuar?](https://www.nexojornal.com.br/expresso/2021/07/04/Mais-vacina-e-leitos-livres-menos-mortes-a-pandemia-vai-recuar)
-- [As três décadas de Marco Aurélio como ministro do Supremo](https://www.nexojornal.com.br/expresso/2021/07/04/As-tr%C3%AAs-d%C3%A9cadas-de-Marco-Aur%C3%A9lio-como-ministro-do-Supremo)
-- [Reduzir Bolsonaro à corrupção é erro factual e político](https://www.nexojornal.com.br/ensaio/2021/Reduzir-Bolsonaro-%C3%A0-corrup%C3%A7%C3%A3o-%C3%A9-erro-factual-e-pol%C3%ADtico)
+- [Embarcação que travou Canal de Suez poderá voltar a navegar](https://www.nexojornal.com.br/extra/2021/07/05/Embarca%C3%A7%C3%A3o-que-travou-Canal-de-Suez-poder%C3%A1-voltar-a-navegar)
+- [Autoridades apuram casos de aplicação de 3ª dose da vacina](https://www.nexojornal.com.br/extra/2021/07/05/Autoridades-apuram-casos-de-aplica%C3%A7%C3%A3o-de-3%C2%AA-dose-da-vacina)
+- [Como prefeituras tentam frear os ‘sommeliers de vacina’](https://www.nexojornal.com.br/expresso/2021/07/05/Como-prefeituras-tentam-frear-os-%E2%80%98sommeliers-de-vacina%E2%80%99)
+- [Nova Lei de Licitações: as transformações do direito administrativo](https://www.nexojornal.com.br/ensaio/2021/Nova-Lei-de-Licita%C3%A7%C3%B5es-as-transforma%C3%A7%C3%B5es-do-direito-administrativo)
+- [Por que estrangeiros estão colocando tanto dinheiro na bolsa](https://www.nexojornal.com.br/expresso/2021/07/05/Por-que-estrangeiros-est%C3%A3o-colocando-tanto-dinheiro-na-bolsa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
