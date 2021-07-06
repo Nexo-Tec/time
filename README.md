@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Não há pressa para desobrigar uso de máscaras, diz Queiroga](https://www.nexojornal.com.br/extra/2021/07/05/N%C3%A3o-h%C3%A1-pressa-para-desobrigar-uso-de-m%C3%A1scaras-diz-Queiroga)
-- [Áudio de ex-cunhada cita Bolsonaro em caso de rachadinhas](https://www.nexojornal.com.br/extra/2021/07/05/%C3%81udio-de-ex-cunhada-cita-Bolsonaro-em-caso-de-rachadinhas)
 - [Embarcação que travou Canal de Suez poderá voltar a navegar](https://www.nexojornal.com.br/extra/2021/07/05/Embarca%C3%A7%C3%A3o-que-travou-Canal-de-Suez-poder%C3%A1-voltar-a-navegar)
 - [Autoridades apuram casos de aplicação de 3ª dose da vacina](https://www.nexojornal.com.br/extra/2021/07/05/Autoridades-apuram-casos-de-aplica%C3%A7%C3%A3o-de-3%C2%AA-dose-da-vacina)
 - [Como prefeituras tentam frear os ‘sommeliers de vacina’](https://www.nexojornal.com.br/expresso/2021/07/05/Como-prefeituras-tentam-frear-os-%E2%80%98sommeliers-de-vacina%E2%80%99)
+- [Nova Lei de Licitações: as transformações do direito administrativo](https://www.nexojornal.com.br/ensaio/2021/Nova-Lei-de-Licita%C3%A7%C3%B5es-as-transforma%C3%A7%C3%B5es-do-direito-administrativo)
+- [Por que estrangeiros estão colocando tanto dinheiro na bolsa](https://www.nexojornal.com.br/expresso/2021/07/05/Por-que-estrangeiros-est%C3%A3o-colocando-tanto-dinheiro-na-bolsa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
