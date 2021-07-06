@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Não há pressa para desobrigar uso de máscaras, diz Queiroga](https://www.nexojornal.com.br/extra/2021/07/05/N%C3%A3o-h%C3%A1-pressa-para-desobrigar-uso-de-m%C3%A1scaras-diz-Queiroga)
-- [Áudio de ex-cunhada cita Bolsonaro em caso de rachadinhas](https://www.nexojornal.com.br/extra/2021/07/05/%C3%81udio-de-ex-cunhada-cita-Bolsonaro-em-caso-de-rachadinhas)
-- [Embarcação que travou Canal de Suez poderá voltar a navegar](https://www.nexojornal.com.br/extra/2021/07/05/Embarca%C3%A7%C3%A3o-que-travou-Canal-de-Suez-poder%C3%A1-voltar-a-navegar)
-- [Autoridades apuram casos de aplicação de 3ª dose da vacina](https://www.nexojornal.com.br/extra/2021/07/05/Autoridades-apuram-casos-de-aplica%C3%A7%C3%A3o-de-3%C2%AA-dose-da-vacina)
-- [Como prefeituras tentam frear os ‘sommeliers de vacina’](https://www.nexojornal.com.br/expresso/2021/07/05/Como-prefeituras-tentam-frear-os-%E2%80%98sommeliers-de-vacina%E2%80%99)
+- [Bolsonaro entre rachadinha, prevaricação e operação abafa](https://www.nexojornal.com.br/expresso/2021/07/06/Bolsonaro-entre-rachadinha-prevarica%C3%A7%C3%A3o-e-opera%C3%A7%C3%A3o-abafa)
+- [Sombra da corrupção: até o Novo agora é ‘Fora Bolsonaro’](https://www.nexojornal.com.br/expresso/2021/07/05/Sombra-da-corrup%C3%A7%C3%A3o-at%C3%A9-o-Novo-agora-%C3%A9-%E2%80%98Fora-Bolsonaro%E2%80%99)
+- [A extrema direita estagnou? Esta especialista responde](https://www.nexojornal.com.br/entrevista/2021/07/05/A-extrema-direita-estagnou-Esta-especialista-responde)
+- [De Canudos ao caso Lázaro: o espetáculo da morte no Brasil](https://www.nexojornal.com.br/colunistas/2021/De-Canudos-ao-caso-L%C3%A1zaro-o-espet%C3%A1culo-da-morte-no-Brasil)
+- [Fiesp elege novo presidente após 17 anos de Paulo Skaf](https://www.nexojornal.com.br/extra/2021/07/05/Fiesp-elege-novo-presidente-ap%C3%B3s-17-anos-de-Paulo-Skaf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
