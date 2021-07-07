@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro entre rachadinha, prevaricação e operação abafa](https://www.nexojornal.com.br/expresso/2021/07/06/Bolsonaro-entre-rachadinha-prevarica%C3%A7%C3%A3o-e-opera%C3%A7%C3%A3o-abafa)
-- [Sombra da corrupção: até o Novo agora é ‘Fora Bolsonaro’](https://www.nexojornal.com.br/expresso/2021/07/05/Sombra-da-corrup%C3%A7%C3%A3o-at%C3%A9-o-Novo-agora-%C3%A9-%E2%80%98Fora-Bolsonaro%E2%80%99)
-- [A extrema direita estagnou? Esta especialista responde](https://www.nexojornal.com.br/entrevista/2021/07/05/A-extrema-direita-estagnou-Esta-especialista-responde)
-- [De Canudos ao caso Lázaro: o espetáculo da morte no Brasil](https://www.nexojornal.com.br/colunistas/2021/De-Canudos-ao-caso-L%C3%A1zaro-o-espet%C3%A1culo-da-morte-no-Brasil)
-- [Fiesp elege novo presidente após 17 anos de Paulo Skaf](https://www.nexojornal.com.br/extra/2021/07/05/Fiesp-elege-novo-presidente-ap%C3%B3s-17-anos-de-Paulo-Skaf)
+- [De PM a reverendo: a intermediação suspeita das vacinas](https://www.nexojornal.com.br/expresso/2021/07/06/De-PM-a-reverendo-a-intermedia%C3%A7%C3%A3o-suspeita-das-vacinas)
+- [Por que há violência em protestos. E quais suas consequências](https://www.nexojornal.com.br/entrevista/2021/07/06/Por-que-h%C3%A1-viol%C3%AAncia-em-protestos.-E-quais-suas-consequ%C3%AAncias)
+- [O auxílio emergencial foi prorrogado. Mas o que vem depois?](https://www.nexojornal.com.br/expresso/2021/07/06/O-aux%C3%ADlio-emergencial-foi-prorrogado.-Mas-o-que-vem-depois)
+- [Merenda escolar: os mais pobres recebem menos](https://www.nexojornal.com.br/colunistas/2021/Merenda-escolar-os-mais-pobres-recebem-menos)
+- [Rússia abre disputa com a França pelo uso do termo ‘champanhe’](https://www.nexojornal.com.br/extra/2021/07/06/R%C3%BAssia-abre-disputa-com-a-Fran%C3%A7a-pelo-uso-do-termo-%E2%80%98champanhe%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
