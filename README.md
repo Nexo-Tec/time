@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Doença de sobreviver](https://gamarevista.uol.com.br/colunistas/bianca-santana/doenca-de-sobreviver/)
 - [Como anda o debate LGBTQI+ nas escolas?](https://gamarevista.uol.com.br/sociedade/debate-lgbtqia-escolas/)
 - [Hashi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/hashi/)
 - [Estrelas, engravatados, tiranos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/estrelas-engravatados-tiranos/)
 - [@derrick_o_boateng](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/derrick_o_boateng/)
-- [Lua Barros: “Quanto mais pressa com os filhos, menos conexão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lua-barros-ta-com-pressa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
