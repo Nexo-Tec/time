@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Justiça social e serviço doméstico: a parceria de W.E.B Du Bois com Isabel Eaton](https://pp.nexojornal.com.br/opiniao/2021/Justi%C3%A7a-social-e-servi%C3%A7o-dom%C3%A9stico-a-parceria-de-W.E.B-Du-Bois-com-Isabel-Eaton)
 - [7 perguntas que a ciência já respondeu sobre invasões biológicas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/7-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-invas%C3%B5es-biol%C3%B3gicas)
 - [A agropecuária precisa da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/A-agropecu%C3%A1ria-precisa-da-Amaz%C3%B4nia)
 - [No Brasil, uma Espera Feliz?](https://pp.nexojornal.com.br/ponto-de-vista/2021/No-Brasil-uma-Espera-Feliz)
 - [Ensino domiciliar enquanto bandeira política do conservadorismo na educação](https://pp.nexojornal.com.br/opiniao/2021/Ensino-domiciliar-enquanto-bandeira-pol%C3%ADtica-do-conservadorismo-na-educa%C3%A7%C3%A3o)
+- [Desafios para a transição a sistemas alimentares sustentáveis](https://pp.nexojornal.com.br/opiniao/2021/Desafios-para-a-transi%C3%A7%C3%A3o-a-sistemas-alimentares-sustent%C3%A1veis)
 <!-- PP_LIST:END -->
 
