@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [De PM a reverendo: a intermediação suspeita das vacinas](https://www.nexojornal.com.br/expresso/2021/07/06/De-PM-a-reverendo-a-intermedia%C3%A7%C3%A3o-suspeita-das-vacinas)
+- [Por que há violência em protestos. E quais suas consequências](https://www.nexojornal.com.br/entrevista/2021/07/06/Por-que-h%C3%A1-viol%C3%AAncia-em-protestos.-E-quais-suas-consequ%C3%AAncias)
 - [O auxílio emergencial foi prorrogado. Mas o que vem depois?](https://www.nexojornal.com.br/expresso/2021/07/06/O-aux%C3%ADlio-emergencial-foi-prorrogado.-Mas-o-que-vem-depois)
 - [Merenda escolar: os mais pobres recebem menos](https://www.nexojornal.com.br/colunistas/2021/Merenda-escolar-os-mais-pobres-recebem-menos)
 - [Rússia abre disputa com a França pelo uso do termo ‘champanhe’](https://www.nexojornal.com.br/extra/2021/07/06/R%C3%BAssia-abre-disputa-com-a-Fran%C3%A7a-pelo-uso-do-termo-%E2%80%98champanhe%E2%80%99)
-- [Cofundador do Facebook passa Lemann e vira brasileiro mais rico](https://www.nexojornal.com.br/extra/2021/07/06/Cofundador-do-Facebook-passa-Lemann-e-vira-brasileiro-mais-rico)
-- [‘Terra do Papai Noel’, no Ártico, tem dia mais quente em 107 anos](https://www.nexojornal.com.br/extra/2021/07/06/%E2%80%98Terra-do-Papai-Noel%E2%80%99-no-%C3%81rtico-tem-dia-mais-quente-em-107-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
