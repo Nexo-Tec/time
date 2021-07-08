@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De PM a reverendo: a intermediação suspeita das vacinas](https://www.nexojornal.com.br/expresso/2021/07/06/De-PM-a-reverendo-a-intermedia%C3%A7%C3%A3o-suspeita-das-vacinas)
-- [Por que há violência em protestos. E quais suas consequências](https://www.nexojornal.com.br/entrevista/2021/07/06/Por-que-h%C3%A1-viol%C3%AAncia-em-protestos.-E-quais-suas-consequ%C3%AAncias)
-- [O auxílio emergencial foi prorrogado. Mas o que vem depois?](https://www.nexojornal.com.br/expresso/2021/07/06/O-aux%C3%ADlio-emergencial-foi-prorrogado.-Mas-o-que-vem-depois)
-- [Merenda escolar: os mais pobres recebem menos](https://www.nexojornal.com.br/colunistas/2021/Merenda-escolar-os-mais-pobres-recebem-menos)
-- [Rússia abre disputa com a França pelo uso do termo ‘champanhe’](https://www.nexojornal.com.br/extra/2021/07/06/R%C3%BAssia-abre-disputa-com-a-Fran%C3%A7a-pelo-uso-do-termo-%E2%80%98champanhe%E2%80%99)
+- [A prisão na CPI do suspeito de pedir propina na vacina](https://www.nexojornal.com.br/expresso/2021/07/08/A-pris%C3%A3o-na-CPI-do-suspeito-de-pedir-propina-na-vacina)
+- [Aziz fala em ‘falcatrua’ de militares e Forças Armadas reagem](https://www.nexojornal.com.br/extra/2021/07/07/Aziz-fala-em-%E2%80%98falcatrua%E2%80%99-de-militares-e-For%C3%A7as-Armadas-reagem)
+- [O que há de preocupante nos casos da variante delta no país](https://www.nexojornal.com.br/expresso/2021/07/07/O-que-h%C3%A1-de-preocupante-nos-casos-da-variante-delta-no-pa%C3%ADs)
+- [Anvisa autoriza vacinação de voluntários em testes da Butanvac](https://www.nexojornal.com.br/extra/2021/07/07/Anvisa-autoriza-vacina%C3%A7%C3%A3o-de-volunt%C3%A1rios-em-testes-da-Butanvac)
+- [‘O ceticismo é uma atitude saudável diante da vida’](https://www.nexojornal.com.br/podcast/2021/07/07/%E2%80%98O-ceticismo-%C3%A9-uma-atitude-saud%C3%A1vel-diante-da-vida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
