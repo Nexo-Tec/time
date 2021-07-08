@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Cleissa Regina Martins](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cleissa-regina-martins/)
-- [Doença de sobreviver](https://gamarevista.uol.com.br/colunistas/bianca-santana/doenca-de-sobreviver/)
-- [Como anda o debate LGBTQI+ nas escolas?](https://gamarevista.uol.com.br/sociedade/debate-lgbtqia-escolas/)
-- [Hashi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/hashi/)
-- [Estrelas, engravatados, tiranos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/estrelas-engravatados-tiranos/)
+- [“Veneno”, série espanhola sobre um ícone LGBTQIA+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/veneno-serie-espanhola-sobre-um-icone-lgbtqia/)
+- [Reportagem esmiúça o pesadelo de Britney Spears](https://gamarevista.uol.com.br/achamos-que-vale/ler/reportagem-esmiuca-o-pesadelo-de-britney-spears/)
+- [Podcast relembra os 70 anos de história da Bienal](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-relembra-os-70-anos-de-historia-da-bienal/)
+- [Primeira exposição individual da artista paulistana Erika Versutti](https://gamarevista.uol.com.br/achamos-que-vale/ir/primeira-exposicao-individual-da-artista-paulistana-erika-versutti/)
+- [Livro analisa a relevância do disco “Sobrevivendo no Inferno”, dos Racionais](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-analisa-a-relevancia-do-disco-sobrevivendo-no-inferno-dos-racionais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
