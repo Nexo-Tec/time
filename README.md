@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Povos originários, saúde e a pandemia](https://pp.nexojornal.com.br/opiniao/2021/Povos-origin%C3%A1rios-sa%C3%BAde-e-a-pandemia1)
+- [De bom pagador a superendividado](https://pp.nexojornal.com.br/opiniao/2021/De-bom-pagador-a-superendividado)
+- [O uso de dados para garantir o direito de facto ao transporte](https://pp.nexojornal.com.br/opiniao/2021/O-uso-de-dados-para-garantir-o-direito-de-facto-ao-transporte)
+- [“Morreu de covid-38”: reações no Instagram sobre Jacarezinho](https://pp.nexojornal.com.br/opiniao/2021/%E2%80%9CMorreu-de-covid-38%E2%80%9D-rea%C3%A7%C3%B5es-no-Instagram-sobre-Jacarezinho)
 - [Igualdade racial como política pública: agenda-setting e coalizões de defesa](https://pp.nexojornal.com.br/ponto-de-vista/2021/Igualdade-racial-como-pol%C3%ADtica-p%C3%BAblica-agenda-setting-e-coaliz%C3%B5es-de-defesa)
-- [Justiça social e serviço doméstico: a parceria de W.E.B Du Bois com Isabel Eaton](https://pp.nexojornal.com.br/opiniao/2021/Justi%C3%A7a-social-e-servi%C3%A7o-dom%C3%A9stico-a-parceria-de-W.E.B-Du-Bois-com-Isabel-Eaton)
-- [7 perguntas que a ciência já respondeu sobre invasões biológicas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/7-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-invas%C3%B5es-biol%C3%B3gicas)
-- [A agropecuária precisa da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/A-agropecu%C3%A1ria-precisa-da-Amaz%C3%B4nia)
-- [No Brasil, uma Espera Feliz?](https://pp.nexojornal.com.br/ponto-de-vista/2021/No-Brasil-uma-Espera-Feliz)
 <!-- PP_LIST:END -->
 
