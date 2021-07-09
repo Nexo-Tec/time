@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A prisão na CPI do suspeito de pedir propina na vacina](https://www.nexojornal.com.br/expresso/2021/07/08/A-pris%C3%A3o-na-CPI-do-suspeito-de-pedir-propina-na-vacina)
-- [Aziz fala em ‘falcatrua’ de militares e Forças Armadas reagem](https://www.nexojornal.com.br/extra/2021/07/07/Aziz-fala-em-%E2%80%98falcatrua%E2%80%99-de-militares-e-For%C3%A7as-Armadas-reagem)
-- [O que há de preocupante nos casos da variante delta no país](https://www.nexojornal.com.br/expresso/2021/07/07/O-que-h%C3%A1-de-preocupante-nos-casos-da-variante-delta-no-pa%C3%ADs)
-- [Anvisa autoriza vacinação de voluntários em testes da Butanvac](https://www.nexojornal.com.br/extra/2021/07/07/Anvisa-autoriza-vacina%C3%A7%C3%A3o-de-volunt%C3%A1rios-em-testes-da-Butanvac)
-- [‘O ceticismo é uma atitude saudável diante da vida’](https://www.nexojornal.com.br/podcast/2021/07/07/%E2%80%98O-ceticismo-%C3%A9-uma-atitude-saud%C3%A1vel-diante-da-vida%E2%80%99)
+- [Sob pressão, Bolsonaro redobra ameaças: como lidar com elas](https://www.nexojornal.com.br/expresso/2021/07/09/Sob-press%C3%A3o-Bolsonaro-redobra-amea%C3%A7as-como-lidar-com-elas)
+- [Adiantar a 2ª dose ou avançar com a 1ª? O dilema nos estados](https://www.nexojornal.com.br/expresso/2021/07/08/Adiantar-a-2%C2%AA-dose-ou-avan%C3%A7ar-com-a-1%C2%AA-O-dilema-nos-estados)
+- [Um software que organiza tarefas de acadêmicos e pesquisadores](https://www.nexojornal.com.br/expresso/2021/07/08/Um-software-que-organiza-tarefas-de-acad%C3%AAmicos-e-pesquisadores)
+- [‘A extinção das abelhas’: solidão em mundo pós-pandêmico](https://www.nexojornal.com.br/estante/trechos/2021/07/08/%E2%80%98A-extin%C3%A7%C3%A3o-das-abelhas%E2%80%99-solid%C3%A3o-em-mundo-p%C3%B3s-pand%C3%AAmico)
+- [No Brasil, Eurocopa teve mais buscas do que Copa América](https://www.nexojornal.com.br/grafico/2021/07/08/No-Brasil-Eurocopa-teve-mais-buscas-do-que-Copa-Am%C3%A9rica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
