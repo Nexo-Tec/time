@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Claudia Rankine: “Em todas as sociedades, incluindo o Brasil, a cor da pele faz diferença”](https://gamarevista.uol.com.br/formato/conversas/claudia-rankine-em-todas-as-sociedades-incluindo-o-brasil-a-cor-da-pele-faz-diferenca/)
 - [“Veneno”, série espanhola sobre um ícone LGBTQIA+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/veneno-serie-espanhola-sobre-um-icone-lgbtqia/)
 - [Reportagem esmiúça o pesadelo de Britney Spears](https://gamarevista.uol.com.br/achamos-que-vale/ler/reportagem-esmiuca-o-pesadelo-de-britney-spears/)
 - [Podcast relembra os 70 anos de história da Bienal](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-relembra-os-70-anos-de-historia-da-bienal/)
 - [Primeira exposição individual da artista paulistana Erika Versutti](https://gamarevista.uol.com.br/achamos-que-vale/ir/primeira-exposicao-individual-da-artista-paulistana-erika-versutti/)
-- [Livro analisa a relevância do disco “Sobrevivendo no Inferno”, dos Racionais](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-analisa-a-relevancia-do-disco-sobrevivendo-no-inferno-dos-racionais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
