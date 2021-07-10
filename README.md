@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob pressão, Bolsonaro redobra ameaças: como lidar com elas](https://www.nexojornal.com.br/expresso/2021/07/09/Sob-press%C3%A3o-Bolsonaro-redobra-amea%C3%A7as-como-lidar-com-elas)
-- [Adiantar a 2ª dose ou avançar com a 1ª? O dilema nos estados](https://www.nexojornal.com.br/expresso/2021/07/08/Adiantar-a-2%C2%AA-dose-ou-avan%C3%A7ar-com-a-1%C2%AA-O-dilema-nos-estados)
-- [Um software que organiza tarefas de acadêmicos e pesquisadores](https://www.nexojornal.com.br/expresso/2021/07/08/Um-software-que-organiza-tarefas-de-acad%C3%AAmicos-e-pesquisadores)
-- [‘A extinção das abelhas’: solidão em mundo pós-pandêmico](https://www.nexojornal.com.br/estante/trechos/2021/07/08/%E2%80%98A-extin%C3%A7%C3%A3o-das-abelhas%E2%80%99-solid%C3%A3o-em-mundo-p%C3%B3s-pand%C3%AAmico)
-- [No Brasil, Eurocopa teve mais buscas do que Copa América](https://www.nexojornal.com.br/grafico/2021/07/08/No-Brasil-Eurocopa-teve-mais-buscas-do-que-Copa-Am%C3%A9rica)
+- [TikTok vai remover automaticamente cenas de nudez](https://www.nexojornal.com.br/extra/2021/07/09/TikTok-vai-remover-automaticamente-cenas-de-nudez)
+- [Final da Copa América terá público nas arquibancadas](https://www.nexojornal.com.br/extra/2021/07/09/Final-da-Copa-Am%C3%A9rica-ter%C3%A1-p%C3%BAblico-nas-arquibancadas)
+- [O robô que expõe políticos ‘distraídos’ com o celular](https://www.nexojornal.com.br/expresso/2021/07/09/O-rob%C3%B4-que-exp%C3%B5e-pol%C3%ADticos-%E2%80%98distra%C3%ADdos%E2%80%99-com-o-celular)
+- [Energia para startups](https://www.nexojornal.com.br/externo/2021/07/09/Energia-para-startups)
+- [Por que sentimos pena de robôs. E os prós e contras dessa empatia](https://www.nexojornal.com.br/expresso/2021/07/09/Por-que-sentimos-pena-de-rob%C3%B4s.-E-os-pr%C3%B3s-e-contras-dessa-empatia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
