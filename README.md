@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TikTok vai remover automaticamente cenas de nudez](https://www.nexojornal.com.br/extra/2021/07/09/TikTok-vai-remover-automaticamente-cenas-de-nudez)
-- [Final da Copa América terá público nas arquibancadas](https://www.nexojornal.com.br/extra/2021/07/09/Final-da-Copa-Am%C3%A9rica-ter%C3%A1-p%C3%BAblico-nas-arquibancadas)
-- [O robô que expõe políticos ‘distraídos’ com o celular](https://www.nexojornal.com.br/expresso/2021/07/09/O-rob%C3%B4-que-exp%C3%B5e-pol%C3%ADticos-%E2%80%98distra%C3%ADdos%E2%80%99-com-o-celular)
-- [Energia para startups](https://www.nexojornal.com.br/externo/2021/07/09/Energia-para-startups)
-- [Por que sentimos pena de robôs. E os prós e contras dessa empatia](https://www.nexojornal.com.br/expresso/2021/07/09/Por-que-sentimos-pena-de-rob%C3%B4s.-E-os-pr%C3%B3s-e-contras-dessa-empatia)
+- [‘A necropolítica não é novidade na história brasileira’](https://www.nexojornal.com.br/entrevista/2021/07/10/%E2%80%98A-necropol%C3%ADtica-n%C3%A3o-%C3%A9-novidade-na-hist%C3%B3ria-brasileira%E2%80%99)
+- [Falando em Jogos Olímpicos, onde anda o direito ao esporte?](https://www.nexojornal.com.br/ensaio/2021/Falando-em-Jogos-Ol%C3%ADmpicos-onde-anda-o-direito-ao-esporte)
+- [Motociata tem repetição de ataques de Bolsonaro e detenção de opositora](https://www.nexojornal.com.br/extra/2021/07/10/Motociata-tem-repeti%C3%A7%C3%A3o-de-ataques-de-Bolsonaro-e-deten%C3%A7%C3%A3o-de-opositora)
+- [Quem está com Bolsonaro em seu momento mais crítico até aqui](https://www.nexojornal.com.br/expresso/2021/07/10/Quem-est%C3%A1-com-Bolsonaro-em-seu-momento-mais-cr%C3%ADtico-at%C3%A9-aqui)
+- [Quem é Kátia Tapety, primeira transexual eleita do Brasil](https://www.nexojornal.com.br/expresso/2021/07/10/Quem-%C3%A9-K%C3%A1tia-Tapety-primeira-transexual-eleita-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
