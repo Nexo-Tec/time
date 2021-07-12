@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A necropolítica não é novidade na história brasileira’](https://www.nexojornal.com.br/entrevista/2021/07/10/%E2%80%98A-necropol%C3%ADtica-n%C3%A3o-%C3%A9-novidade-na-hist%C3%B3ria-brasileira%E2%80%99)
-- [Falando em Jogos Olímpicos, onde anda o direito ao esporte?](https://www.nexojornal.com.br/ensaio/2021/Falando-em-Jogos-Ol%C3%ADmpicos-onde-anda-o-direito-ao-esporte)
-- [Motociata tem repetição de ataques de Bolsonaro e detenção de opositora](https://www.nexojornal.com.br/extra/2021/07/10/Motociata-tem-repeti%C3%A7%C3%A3o-de-ataques-de-Bolsonaro-e-deten%C3%A7%C3%A3o-de-opositora)
-- [Quem está com Bolsonaro em seu momento mais crítico até aqui](https://www.nexojornal.com.br/expresso/2021/07/10/Quem-est%C3%A1-com-Bolsonaro-em-seu-momento-mais-cr%C3%ADtico-at%C3%A9-aqui)
-- [Quem é Kátia Tapety, primeira transexual eleita do Brasil](https://www.nexojornal.com.br/expresso/2021/07/10/Quem-%C3%A9-K%C3%A1tia-Tapety-primeira-transexual-eleita-do-Brasil)
+- [Por que o caso Covaxin pode ser grave mesmo sem pagamento](https://www.nexojornal.com.br/expresso/2021/07/11/Por-que-o-caso-Covaxin-pode-ser-grave-mesmo-sem-pagamento)
+- [Maioria vê corrupção no governo Bolsonaro, segundo Datafolha](https://www.nexojornal.com.br/extra/2021/07/11/Maioria-v%C3%AA-corrup%C3%A7%C3%A3o-no-governo-Bolsonaro-segundo-Datafolha)
+- [São Paulo anuncia vacinação de adolescentes em agosto](https://www.nexojornal.com.br/extra/2021/07/11/S%C3%A3o-Paulo-anuncia-vacina%C3%A7%C3%A3o-de-adolescentes-em-agosto)
+- [O que o Japão tem a nos ensinar sobre a crise elétrica](https://www.nexojornal.com.br/ensaio/2021/O-que-o-Jap%C3%A3o-tem-a-nos-ensinar-sobre-a-crise-el%C3%A9trica)
+- [Quais os riscos de apagão de dados sobre doenças crônicas](https://www.nexojornal.com.br/expresso/2021/07/11/Quais-os-riscos-de-apag%C3%A3o-de-dados-sobre-doen%C3%A7as-cr%C3%B4nicas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
