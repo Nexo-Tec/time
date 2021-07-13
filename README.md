@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Povos originários, saúde e a pandemia](https://pp.nexojornal.com.br/opiniao/2021/Povos-origin%C3%A1rios-sa%C3%BAde-e-a-pandemia1)
-- [De bom pagador a superendividado](https://pp.nexojornal.com.br/opiniao/2021/De-bom-pagador-a-superendividado)
-- [O uso de dados para garantir o direito de facto ao transporte](https://pp.nexojornal.com.br/opiniao/2021/O-uso-de-dados-para-garantir-o-direito-de-facto-ao-transporte)
-- [“Morreu de covid-38”: reações no Instagram sobre Jacarezinho](https://pp.nexojornal.com.br/opiniao/2021/%E2%80%9CMorreu-de-covid-38%E2%80%9D-rea%C3%A7%C3%B5es-no-Instagram-sobre-Jacarezinho)
-- [Igualdade racial como política pública: agenda-setting e coalizões de defesa](https://pp.nexojornal.com.br/ponto-de-vista/2021/Igualdade-racial-como-pol%C3%ADtica-p%C3%BAblica-agenda-setting-e-coaliz%C3%B5es-de-defesa)
+- [Indígenas que subvertem a velha divisão entre antropólogos e nativos](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/12/Ind%C3%ADgenas-que-subvertem-a-velha-divis%C3%A3o-entre-antrop%C3%B3logos-e-nativos)
+- [Espécies exóticas invasoras](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/12/Esp%C3%A9cies-ex%C3%B3ticas-invasoras)
+- [O que já se propôs sobre a questão racial no Congresso Nacional brasileiro?](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-que-j%C3%A1-se-prop%C3%B4s-sobre-a-quest%C3%A3o-racial-no-Congresso-Nacional-brasileiro)
+- [Periferias, desigualdades e invenções na pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Periferias-desigualdades-e-inven%C3%A7%C3%B5es-na-pandemia)
+- [Mérito e cotas](https://pp.nexojornal.com.br/opiniao/2021/M%C3%A9rito-e-cotas)
 <!-- PP_LIST:END -->
 
