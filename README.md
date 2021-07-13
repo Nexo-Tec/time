@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais questões guiam o inquérito de prevaricação contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Quais-quest%C3%B5es-guiam-o-inqu%C3%A9rito-de-prevarica%C3%A7%C3%A3o-contra-Bolsonaro)
-- [O Haiti: símbolo de um sonho de liberdade nas Américas](https://www.nexojornal.com.br/colunistas/2021/O-Haiti-s%C3%ADmbolo-de-um-sonho-de-liberdade-nas-Am%C3%A9ricas)
-- [Quais os planos para a retomada dos eventos no país](https://www.nexojornal.com.br/expresso/2021/07/12/Quais-os-planos-para-a-retomada-dos-eventos-no-pa%C3%ADs)
-- [Bolsonaro indica André Mendonça ao Supremo](https://www.nexojornal.com.br/extra/2021/07/12/Bolsonaro-indica-Andr%C3%A9-Mendon%C3%A7a-ao-Supremo)
-- [Os novos esportes da Olimpíada de Tóquio. E as chances do Brasil](https://www.nexojornal.com.br/expresso/2021/07/12/Os-novos-esportes-da-Olimp%C3%ADada-de-T%C3%B3quio.-E-as-chances-do-Brasil)
+- [Polícia inglesa prende 49 por distúrbios na final da Eurocopa](https://www.nexojornal.com.br/extra/2021/07/12/Pol%C3%ADcia-inglesa-prende-49-por-dist%C3%BArbios-na-final-da-Eurocopa)
+- [Por que o caso Covaxin pode ser grave mesmo sem pagamento](https://www.nexojornal.com.br/expresso/2021/07/11/Por-que-o-caso-Covaxin-pode-ser-grave-mesmo-sem-pagamento)
+- [Maioria vê corrupção no governo Bolsonaro, segundo Datafolha](https://www.nexojornal.com.br/extra/2021/07/11/Maioria-v%C3%AA-corrup%C3%A7%C3%A3o-no-governo-Bolsonaro-segundo-Datafolha)
+- [São Paulo anuncia vacinação de adolescentes em agosto](https://www.nexojornal.com.br/extra/2021/07/11/S%C3%A3o-Paulo-anuncia-vacina%C3%A7%C3%A3o-de-adolescentes-em-agosto)
+- [O que o Japão tem a nos ensinar sobre a crise elétrica](https://www.nexojornal.com.br/ensaio/2021/O-que-o-Jap%C3%A3o-tem-a-nos-ensinar-sobre-a-crise-el%C3%A9trica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
