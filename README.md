@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que são as doenças mentais?](https://gamarevista.uol.com.br/estilo-de-vida/saude/o-que-sao-as-doencas-mentais/)
 - [Crocs](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs/)
 - [Amizade não tem idade](https://gamarevista.uol.com.br/formato/reportagem/amizade-nao-tem-idade/)
 - [2021: uma motociata no espaço](https://gamarevista.uol.com.br/colunistas/fernando-luna/2021-uma-motociata-no-espaco/)
 - [@giu.alfeo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/giulia-alfeo/)
-- [André Trigueiro: ‘Nosso analfabetismo ambiental é a nossa tragédia’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andre-trigueiro-podcast-meio-ambiente/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
