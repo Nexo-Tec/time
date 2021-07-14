@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Comorbidades políticas e ambientais e a sindemia da biodiversidade](https://pp.nexojornal.com.br/opiniao/2021/Comorbidades-pol%C3%ADticas-e-ambientais-e-a-sindemia-da-biodiversidade)
-- [Ricardo Madeira: a relevância de mensurar práticas de gestão escolar](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/07/13/Ricardo-Madeira-a-relev%C3%A2ncia-de-mensurar-pr%C3%A1ticas-de-gest%C3%A3o-escolar)
-- [A violência política de gênero e a violência política contra as mulheres](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero-e-a-viol%C3%AAncia-pol%C3%ADtica-contra-as-mulheres)
-- [Ambiente alimentar digital e a pandemia de covid-19 no Brasil: um estímulo ao consumo de alimentos ultraprocessados](https://pp.nexojornal.com.br/opiniao/2021/Ambiente-alimentar-digital-e-a-pandemia-de-covid-19-no-Brasil-um-est%C3%ADmulo-ao-consumo-de-alimentos-ultraprocessados)
-- [Labirintos da participação social na política urbana de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/Labirintos-da-participa%C3%A7%C3%A3o-social-na-pol%C3%ADtica-urbana-de-S%C3%A3o-Paulo)
+- [Indígenas que subvertem a velha divisão entre antropólogos e nativos](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/12/Ind%C3%ADgenas-que-subvertem-a-velha-divis%C3%A3o-entre-antrop%C3%B3logos-e-nativos)
+- [Espécies exóticas invasoras](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/12/Esp%C3%A9cies-ex%C3%B3ticas-invasoras)
+- [O que já se propôs sobre a questão racial no Congresso Nacional brasileiro?](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-que-j%C3%A1-se-prop%C3%B4s-sobre-a-quest%C3%A3o-racial-no-Congresso-Nacional-brasileiro)
+- [Periferias, desigualdades e invenções na pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Periferias-desigualdades-e-inven%C3%A7%C3%B5es-na-pandemia)
+- [Mérito e cotas](https://pp.nexojornal.com.br/opiniao/2021/M%C3%A9rito-e-cotas)
 <!-- PP_LIST:END -->
 
