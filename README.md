@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [De ‘Star Wars’ a ‘The Crown’: confira os indicados ao Emmy 2021](https://www.nexojornal.com.br/extra/2021/07/13/De-%E2%80%98Star-Wars%E2%80%99-a-%E2%80%98The-Crown%E2%80%99-confira-os-indicados-ao-Emmy-2021)
+- [O que fez Mendonça ser indicado por Bolsonaro para o Supremo](https://www.nexojornal.com.br/expresso/2021/07/13/O-que-fez-Mendon%C3%A7a-ser-indicado-por-Bolsonaro-para-o-Supremo)
+- [Bolsonaro sanciona com vetos MP da privatização da Eletrobras](https://www.nexojornal.com.br/extra/2021/07/13/Bolsonaro-sanciona-com-vetos-MP-da-privatiza%C3%A7%C3%A3o-da-Eletrobras)
 - [Quais questões guiam o inquérito de prevaricação contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Quais-quest%C3%B5es-guiam-o-inqu%C3%A9rito-de-prevarica%C3%A7%C3%A3o-contra-Bolsonaro)
 - [O Haiti: símbolo de um sonho de liberdade nas Américas](https://www.nexojornal.com.br/colunistas/2021/O-Haiti-s%C3%ADmbolo-de-um-sonho-de-liberdade-nas-Am%C3%A9ricas)
-- [Quais os planos para a retomada dos eventos no país](https://www.nexojornal.com.br/expresso/2021/07/12/Quais-os-planos-para-a-retomada-dos-eventos-no-pa%C3%ADs)
-- [Bolsonaro indica André Mendonça ao Supremo](https://www.nexojornal.com.br/extra/2021/07/12/Bolsonaro-indica-Andr%C3%A9-Mendon%C3%A7a-ao-Supremo)
-- [Os novos esportes da Olimpíada de Tóquio. E as chances do Brasil](https://www.nexojornal.com.br/expresso/2021/07/12/Os-novos-esportes-da-Olimp%C3%ADada-de-T%C3%B3quio.-E-as-chances-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
