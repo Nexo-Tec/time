@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais questões guiam o inquérito de prevaricação contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Quais-quest%C3%B5es-guiam-o-inqu%C3%A9rito-de-prevarica%C3%A7%C3%A3o-contra-Bolsonaro)
-- [O Haiti: símbolo de um sonho de liberdade nas Américas](https://www.nexojornal.com.br/colunistas/2021/O-Haiti-s%C3%ADmbolo-de-um-sonho-de-liberdade-nas-Am%C3%A9ricas)
-- [Quais os planos para a retomada dos eventos no país](https://www.nexojornal.com.br/expresso/2021/07/12/Quais-os-planos-para-a-retomada-dos-eventos-no-pa%C3%ADs)
-- [Bolsonaro indica André Mendonça ao Supremo](https://www.nexojornal.com.br/extra/2021/07/12/Bolsonaro-indica-Andr%C3%A9-Mendon%C3%A7a-ao-Supremo)
-- [Os novos esportes da Olimpíada de Tóquio. E as chances do Brasil](https://www.nexojornal.com.br/expresso/2021/07/12/Os-novos-esportes-da-Olimp%C3%ADada-de-T%C3%B3quio.-E-as-chances-do-Brasil)
+- [Bolsonaro vai ao hospital para examinar dores abdominais](https://www.nexojornal.com.br/extra/2021/07/14/Bolsonaro-vai-ao-hospital-para-examinar-dores-abdominais)
+- [Reunião dos Poderes: os limites de tentativas de frear Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Reuni%C3%A3o-dos-Poderes-os-limites-de-tentativas-de-frear-Bolsonaro)
+- [Caso Marielle: quais os efeitos de tantas trocas de investigadores](https://www.nexojornal.com.br/expresso/2021/07/13/Caso-Marielle-quais-os-efeitos-de-tantas-trocas-de-investigadores)
+- [5 motores das manifestações de rua em Cuba](https://www.nexojornal.com.br/expresso/2021/07/13/5-motores-das-manifesta%C3%A7%C3%B5es-de-rua-em-Cuba)
+- [Como as democracias (re)nascem: ideias para o Brasil](https://www.nexojornal.com.br/colunistas/2021/Como-as-democracias-renascem-ideias-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
