@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Incêndio atinge prédio da Secretaria de Segurança do RS](https://www.nexojornal.com.br/extra/2021/07/15/Inc%C3%AAndio-atinge-pr%C3%A9dio-da-Secretaria-de-Seguran%C3%A7a-do-RS)
-- [Bolsonaro faz exames e não tem previsão de alta](https://www.nexojornal.com.br/extra/2021/07/15/Bolsonaro-faz-exames-e-n%C3%A3o-tem-previs%C3%A3o-de-alta)
-- [Supremo anula decisão que censurou checagem de fatos](https://www.nexojornal.com.br/extra/2021/07/15/Supremo-anula-decis%C3%A3o-que-censurou-checagem-de-fatos)
-- [Os contornos políticos da hospitalização de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/15/Os-contornos-pol%C3%ADticos-da-hospitaliza%C3%A7%C3%A3o-de-Bolsonaro)
-- [Caso Covaxin: quais os nós da investigação da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/14/Caso-Covaxin-quais-os-n%C3%B3s-da-investiga%C3%A7%C3%A3o-da-CPI-da-Covid)
+- [Por que até o Supremo Tribunal Federal agora tem perfil no TikTok](https://www.nexojornal.com.br/expresso/2021/07/14/Por-que-at%C3%A9-o-Supremo-Tribunal-Federal-agora-tem-perfil-no-TikTok)
+- [Moraes libera TSE a usar novas provas em ações contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/07/14/Moraes-libera-TSE-a-usar-novas-provas-em-a%C3%A7%C3%B5es-contra-Bolsonaro)
+- [Anvisa autoriza testes com mais duas vacinas contra a covid](https://www.nexojornal.com.br/extra/2021/07/14/Anvisa-autoriza-testes-com-mais-duas-vacinas-contra-a-covid)
+- [Papa Francisco recebe alta e deixa hospital após cirurgia](https://www.nexojornal.com.br/extra/2021/07/14/Papa-Francisco-recebe-alta-e-deixa-hospital-ap%C3%B3s-cirurgia)
+- [Bolsonaro vai ao hospital para examinar dores abdominais](https://www.nexojornal.com.br/extra/2021/07/14/Bolsonaro-vai-ao-hospital-para-examinar-dores-abdominais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
