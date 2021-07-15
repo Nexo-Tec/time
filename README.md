@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro vai ao hospital para examinar dores abdominais](https://www.nexojornal.com.br/extra/2021/07/14/Bolsonaro-vai-ao-hospital-para-examinar-dores-abdominais)
-- [Reunião dos Poderes: os limites de tentativas de frear Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Reuni%C3%A3o-dos-Poderes-os-limites-de-tentativas-de-frear-Bolsonaro)
-- [Caso Marielle: quais os efeitos de tantas trocas de investigadores](https://www.nexojornal.com.br/expresso/2021/07/13/Caso-Marielle-quais-os-efeitos-de-tantas-trocas-de-investigadores)
-- [5 motores das manifestações de rua em Cuba](https://www.nexojornal.com.br/expresso/2021/07/13/5-motores-das-manifesta%C3%A7%C3%B5es-de-rua-em-Cuba)
-- [Como as democracias (re)nascem: ideias para o Brasil](https://www.nexojornal.com.br/colunistas/2021/Como-as-democracias-renascem-ideias-para-o-Brasil)
+- [Incêndio atinge prédio da Secretaria de Segurança do RS](https://www.nexojornal.com.br/extra/2021/07/15/Inc%C3%AAndio-atinge-pr%C3%A9dio-da-Secretaria-de-Seguran%C3%A7a-do-RS)
+- [Bolsonaro faz exames e não tem previsão de alta](https://www.nexojornal.com.br/extra/2021/07/15/Bolsonaro-faz-exames-e-n%C3%A3o-tem-previs%C3%A3o-de-alta)
+- [Supremo anula decisão que censurou checagem de fatos](https://www.nexojornal.com.br/extra/2021/07/15/Supremo-anula-decis%C3%A3o-que-censurou-checagem-de-fatos)
+- [Os contornos políticos da hospitalização de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/15/Os-contornos-pol%C3%ADticos-da-hospitaliza%C3%A7%C3%A3o-de-Bolsonaro)
+- [Caso Covaxin: quais os nós da investigação da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/14/Caso-Covaxin-quais-os-n%C3%B3s-da-investiga%C3%A7%C3%A3o-da-CPI-da-Covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
