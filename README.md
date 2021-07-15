@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O panorama da educação no Brasil, segundo este relatório](https://pp.nexojornal.com.br/topico/2021/07/14/O-panorama-da-educa%C3%A7%C3%A3o-no-Brasil-segundo-este-relat%C3%B3rio)
 - [Comorbidades políticas e ambientais e a sindemia da biodiversidade](https://pp.nexojornal.com.br/opiniao/2021/Comorbidades-pol%C3%ADticas-e-ambientais-e-a-sindemia-da-biodiversidade)
 - [Ricardo Madeira: a relevância de mensurar práticas de gestão escolar](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/07/13/Ricardo-Madeira-a-relev%C3%A2ncia-de-mensurar-pr%C3%A1ticas-de-gest%C3%A3o-escolar)
 - [A violência política de gênero e a violência política contra as mulheres](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero-e-a-viol%C3%AAncia-pol%C3%ADtica-contra-as-mulheres)
 - [Ambiente alimentar digital e a pandemia de covid-19 no Brasil: um estímulo ao consumo de alimentos ultraprocessados](https://pp.nexojornal.com.br/opiniao/2021/Ambiente-alimentar-digital-e-a-pandemia-de-covid-19-no-Brasil-um-est%C3%ADmulo-ao-consumo-de-alimentos-ultraprocessados)
+- [Labirintos da participação social na política urbana de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/Labirintos-da-participa%C3%A7%C3%A3o-social-na-pol%C3%ADtica-urbana-de-S%C3%A3o-Paulo)
 <!-- PP_LIST:END -->
 
