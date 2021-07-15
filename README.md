@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [5 dicas para sua defesa pessoal virtual](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-proteger-seus-dados/)
 - [Férias sem milhagem](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ferias-sem-milhagem/)
 - [O que são as doenças mentais?](https://gamarevista.uol.com.br/estilo-de-vida/saude/o-que-sao-as-doencas-mentais/)
 - [Crocs](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs/)
 - [Amizade não tem idade](https://gamarevista.uol.com.br/formato/reportagem/amizade-nao-tem-idade/)
-- [2021: uma motociata no espaço](https://gamarevista.uol.com.br/colunistas/fernando-luna/2021-uma-motociata-no-espaco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
