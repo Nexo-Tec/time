@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que até o Supremo Tribunal Federal agora tem perfil no TikTok](https://www.nexojornal.com.br/expresso/2021/07/14/Por-que-at%C3%A9-o-Supremo-Tribunal-Federal-agora-tem-perfil-no-TikTok)
+- [Moraes libera TSE a usar novas provas em ações contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/07/14/Moraes-libera-TSE-a-usar-novas-provas-em-a%C3%A7%C3%B5es-contra-Bolsonaro)
+- [Anvisa autoriza testes com mais duas vacinas contra a covid](https://www.nexojornal.com.br/extra/2021/07/14/Anvisa-autoriza-testes-com-mais-duas-vacinas-contra-a-covid)
+- [Papa Francisco recebe alta e deixa hospital após cirurgia](https://www.nexojornal.com.br/extra/2021/07/14/Papa-Francisco-recebe-alta-e-deixa-hospital-ap%C3%B3s-cirurgia)
 - [Bolsonaro vai ao hospital para examinar dores abdominais](https://www.nexojornal.com.br/extra/2021/07/14/Bolsonaro-vai-ao-hospital-para-examinar-dores-abdominais)
-- [Reunião dos Poderes: os limites de tentativas de frear Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/13/Reuni%C3%A3o-dos-Poderes-os-limites-de-tentativas-de-frear-Bolsonaro)
-- [Caso Marielle: quais os efeitos de tantas trocas de investigadores](https://www.nexojornal.com.br/expresso/2021/07/13/Caso-Marielle-quais-os-efeitos-de-tantas-trocas-de-investigadores)
-- [5 motores das manifestações de rua em Cuba](https://www.nexojornal.com.br/expresso/2021/07/13/5-motores-das-manifesta%C3%A7%C3%B5es-de-rua-em-Cuba)
-- [Como as democracias (re)nascem: ideias para o Brasil](https://www.nexojornal.com.br/colunistas/2021/Como-as-democracias-renascem-ideias-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
