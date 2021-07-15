@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [5 dicas para sua defesa pessoal virtual](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-proteger-seus-dados/)
-- [Férias sem milhagem](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ferias-sem-milhagem/)
-- [O que são as doenças mentais?](https://gamarevista.uol.com.br/estilo-de-vida/saude/o-que-sao-as-doencas-mentais/)
-- [Crocs](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs/)
-- [Amizade não tem idade](https://gamarevista.uol.com.br/formato/reportagem/amizade-nao-tem-idade/)
+- [Os 8 anos da batalha de poesia falada Slam do 13](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-8-anos-da-batalha-de-poesia-falada-slam-do-13/)
+- [“Brujas”, a nova exposição de Nuno Ramos em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/brujas-a-nova-exposicao-de-nuno-ramos-em-sao-paulo/)
+- [Novo livro de Olga Tokarczuk, ganhadora do Nobel](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-livro-de-olga-tokarczuk-ganhadora-do-nobel/)
+- [A nova temporada do podcast “Meu Inconsciente Coletivo”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-temporada-do-podcast-meu-inconsciente-coletivo/)
+- [“AmarElo”: filme do concerto de Emicida acaba de entrar na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/amarelo-filme-do-concerto-de-emicida-acaba-de-entrar-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
