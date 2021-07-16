@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Feirinha badalada do Rio vai de cesta a mercadão](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/junta-local-organicos-rio/)
 - [Antes que Eu me Esqueça](https://gamarevista.uol.com.br/cultura/trecho-de-livro/antes-que-eu-me-esqueca/)
 - [Os 8 anos da batalha de poesia falada Slam do 13](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-8-anos-da-batalha-de-poesia-falada-slam-do-13/)
 - [“Brujas”, a nova exposição de Nuno Ramos em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/brujas-a-nova-exposicao-de-nuno-ramos-em-sao-paulo/)
 - [Novo livro de Olga Tokarczuk, ganhadora do Nobel](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-livro-de-olga-tokarczuk-ganhadora-do-nobel/)
-- [A nova temporada do podcast “Meu Inconsciente Coletivo”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-temporada-do-podcast-meu-inconsciente-coletivo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
