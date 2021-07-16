@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [CPI será suspensa durante recesso e retomada em agosto](https://www.nexojornal.com.br/extra/2021/07/15/CPI-ser%C3%A1-suspensa-durante-recesso-e-retomada-em-agosto)
-- [Os dados do trabalho infantil no Brasil antes da pandemia](https://www.nexojornal.com.br/grafico/2021/07/15/Os-dados-do-trabalho-infantil-no-Brasil-antes-da-pandemia)
-- [A plataforma que conecta as áreas rurais à cidade de São Paulo](https://www.nexojornal.com.br/expresso/2021/07/15/A-plataforma-que-conecta-as-%C3%A1reas-rurais-%C3%A0-cidade-de-S%C3%A3o-Paulo)
-- [Violência contra LGBTI: um fenômeno que cresce no escuro](https://www.nexojornal.com.br/podcast/2021/07/15/Viol%C3%AAncia-contra-LGBTI-um-fen%C3%B4meno-que-cresce-no-escuro)
-- [Congresso aprova Orçamento de 2022 que triplica fundo eleitoral](https://www.nexojornal.com.br/extra/2021/07/15/Congresso-aprova-Or%C3%A7amento-de-2022-que-triplica-fundo-eleitoral)
+- [Incêndio atinge prédio da Secretaria de Segurança do RS](https://www.nexojornal.com.br/extra/2021/07/15/Inc%C3%AAndio-atinge-pr%C3%A9dio-da-Secretaria-de-Seguran%C3%A7a-do-RS)
+- [Bolsonaro faz exames e não tem previsão de alta](https://www.nexojornal.com.br/extra/2021/07/15/Bolsonaro-faz-exames-e-n%C3%A3o-tem-previs%C3%A3o-de-alta)
+- [Supremo anula decisão que censurou checagem de fatos](https://www.nexojornal.com.br/extra/2021/07/15/Supremo-anula-decis%C3%A3o-que-censurou-checagem-de-fatos)
+- [Os contornos políticos da hospitalização de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/07/15/Os-contornos-pol%C3%ADticos-da-hospitaliza%C3%A7%C3%A3o-de-Bolsonaro)
+- [Caso Covaxin: quais os nós da investigação da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/07/14/Caso-Covaxin-quais-os-n%C3%B3s-da-investiga%C3%A7%C3%A3o-da-CPI-da-Covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
