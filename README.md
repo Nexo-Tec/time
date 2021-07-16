@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Antes que Eu me Esqueça](https://gamarevista.uol.com.br/cultura/trecho-de-livro/antes-que-eu-me-esqueca/)
 - [Os 8 anos da batalha de poesia falada Slam do 13](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-8-anos-da-batalha-de-poesia-falada-slam-do-13/)
 - [“Brujas”, a nova exposição de Nuno Ramos em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/brujas-a-nova-exposicao-de-nuno-ramos-em-sao-paulo/)
 - [Novo livro de Olga Tokarczuk, ganhadora do Nobel](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-livro-de-olga-tokarczuk-ganhadora-do-nobel/)
 - [A nova temporada do podcast “Meu Inconsciente Coletivo”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-temporada-do-podcast-meu-inconsciente-coletivo/)
-- [“AmarElo”: filme do concerto de Emicida acaba de entrar na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/amarelo-filme-do-concerto-de-emicida-acaba-de-entrar-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
