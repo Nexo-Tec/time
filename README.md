@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [CPI será suspensa durante recesso e retomada em agosto](https://www.nexojornal.com.br/extra/2021/07/15/CPI-ser%C3%A1-suspensa-durante-recesso-e-retomada-em-agosto)
-- [Os dados do trabalho infantil no Brasil antes da pandemia](https://www.nexojornal.com.br/grafico/2021/07/15/Os-dados-do-trabalho-infantil-no-Brasil-antes-da-pandemia)
-- [A plataforma que conecta as áreas rurais à cidade de São Paulo](https://www.nexojornal.com.br/expresso/2021/07/15/A-plataforma-que-conecta-as-%C3%A1reas-rurais-%C3%A0-cidade-de-S%C3%A3o-Paulo)
-- [Violência contra LGBTI: um fenômeno que cresce no escuro](https://www.nexojornal.com.br/podcast/2021/07/15/Viol%C3%AAncia-contra-LGBTI-um-fen%C3%B4meno-que-cresce-no-escuro)
-- [Congresso aprova Orçamento de 2022 que triplica fundo eleitoral](https://www.nexojornal.com.br/extra/2021/07/15/Congresso-aprova-Or%C3%A7amento-de-2022-que-triplica-fundo-eleitoral)
+- [Presidente alemão atribui mortes às mudanças climáticas](https://www.nexojornal.com.br/extra/2021/07/16/Presidente-alem%C3%A3o-atribui-mortes-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
+- [Bolsonaro retira sonda e médicos apostam em tratamento clínico](https://www.nexojornal.com.br/extra/2021/07/16/Bolsonaro-retira-sonda-e-m%C3%A9dicos-apostam-em-tratamento-cl%C3%ADnico)
+- [Lab Nexo oferece atividade de formação para jovens jornalistas](https://www.nexojornal.com.br/expresso/2021/07/15/Lab-Nexo-oferece-atividade-de-forma%C3%A7%C3%A3o-para-jovens-jornalistas)
+- [O que moveu os dados de segurança pública do Brasil em 2020](https://www.nexojornal.com.br/expresso/2021/07/15/O-que-moveu-os-dados-de-seguran%C3%A7a-p%C3%BAblica-do-Brasil-em-2020)
+- [Qual o papel da Davati na crise das vacinas na mira da CPI](https://www.nexojornal.com.br/expresso/2021/07/15/Qual-o-papel-da-Davati-na-crise-das-vacinas-na-mira-da-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
