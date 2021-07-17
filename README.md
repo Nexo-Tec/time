@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Comitê confirma primeiro caso de covid na Vila Olímpica](https://www.nexojornal.com.br/extra/2021/07/17/Comit%C3%AA-confirma-primeiro-caso-de-covid-na-Vila-Ol%C3%ADmpica)
 - [Por que a ideia de semipresidencialismo reaparece no Brasil](https://www.nexojornal.com.br/expresso/2021/07/17/Por-que-a-ideia-de-semipresidencialismo-reaparece-no-Brasil)
 - [A iniciativa que apura censura à internet. E as críticas a ela](https://www.nexojornal.com.br/expresso/2021/07/17/A-iniciativa-que-apura-censura-%C3%A0-internet.-E-as-cr%C3%ADticas-a-ela)
 - [Respirando microplásticos](https://www.nexojornal.com.br/externo/2021/07/16/Respirando-micropl%C3%A1sticos)
 - [O que o fundo eleitoral recorde diz sobre o Congresso hoje](https://www.nexojornal.com.br/expresso/2021/07/16/O-que-o-fundo-eleitoral-recorde-diz-sobre-o-Congresso-hoje)
-- [Preço médio da gasolina ultrapassa R$ 6 por litro no Brasil](https://www.nexojornal.com.br/extra/2021/07/16/Pre%C3%A7o-m%C3%A9dio-da-gasolina-ultrapassa-R-6-por-litro-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
