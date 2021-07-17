@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Presidente alemão atribui mortes às mudanças climáticas](https://www.nexojornal.com.br/extra/2021/07/16/Presidente-alem%C3%A3o-atribui-mortes-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
-- [Bolsonaro retira sonda e médicos apostam em tratamento clínico](https://www.nexojornal.com.br/extra/2021/07/16/Bolsonaro-retira-sonda-e-m%C3%A9dicos-apostam-em-tratamento-cl%C3%ADnico)
-- [Lab Nexo oferece atividade de formação para jovens jornalistas](https://www.nexojornal.com.br/expresso/2021/07/15/Lab-Nexo-oferece-atividade-de-forma%C3%A7%C3%A3o-para-jovens-jornalistas)
-- [O que moveu os dados de segurança pública do Brasil em 2020](https://www.nexojornal.com.br/expresso/2021/07/15/O-que-moveu-os-dados-de-seguran%C3%A7a-p%C3%BAblica-do-Brasil-em-2020)
-- [Qual o papel da Davati na crise das vacinas na mira da CPI](https://www.nexojornal.com.br/expresso/2021/07/15/Qual-o-papel-da-Davati-na-crise-das-vacinas-na-mira-da-CPI)
+- [Por que a ideia de semipresidencialismo reaparece no Brasil](https://www.nexojornal.com.br/expresso/2021/07/17/Por-que-a-ideia-de-semipresidencialismo-reaparece-no-Brasil)
+- [A iniciativa que apura censura à internet. E as críticas a ela](https://www.nexojornal.com.br/expresso/2021/07/17/A-iniciativa-que-apura-censura-%C3%A0-internet.-E-as-cr%C3%ADticas-a-ela)
+- [Respirando microplásticos](https://www.nexojornal.com.br/externo/2021/07/16/Respirando-micropl%C3%A1sticos)
+- [O que o fundo eleitoral recorde diz sobre o Congresso hoje](https://www.nexojornal.com.br/expresso/2021/07/16/O-que-o-fundo-eleitoral-recorde-diz-sobre-o-Congresso-hoje)
+- [Preço médio da gasolina ultrapassa R$ 6 por litro no Brasil](https://www.nexojornal.com.br/extra/2021/07/16/Pre%C3%A7o-m%C3%A9dio-da-gasolina-ultrapassa-R-6-por-litro-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
