@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comitê confirma primeiro caso de covid na Vila Olímpica](https://www.nexojornal.com.br/extra/2021/07/17/Comit%C3%AA-confirma-primeiro-caso-de-covid-na-Vila-Ol%C3%ADmpica)
-- [Por que a ideia de semipresidencialismo reaparece no Brasil](https://www.nexojornal.com.br/expresso/2021/07/17/Por-que-a-ideia-de-semipresidencialismo-reaparece-no-Brasil)
-- [A iniciativa que apura censura à internet. E as críticas a ela](https://www.nexojornal.com.br/expresso/2021/07/17/A-iniciativa-que-apura-censura-%C3%A0-internet.-E-as-cr%C3%ADticas-a-ela)
-- [Respirando microplásticos](https://www.nexojornal.com.br/externo/2021/07/16/Respirando-micropl%C3%A1sticos)
-- [O que o fundo eleitoral recorde diz sobre o Congresso hoje](https://www.nexojornal.com.br/expresso/2021/07/16/O-que-o-fundo-eleitoral-recorde-diz-sobre-o-Congresso-hoje)
+- [Milhares vão às ruas na França contra campanha de vacinação](https://www.nexojornal.com.br/extra/2021/07/17/Milhares-v%C3%A3o-%C3%A0s-ruas-na-Fran%C3%A7a-contra-campanha-de-vacina%C3%A7%C3%A3o)
+- [O advogado que analisa os aspectos legais de filmes e séries](https://www.nexojornal.com.br/expresso/2021/07/17/O-advogado-que-analisa-os-aspectos-legais-de-filmes-e-s%C3%A9ries)
+- [5 livros de autoras sul-coreanas sobre trauma e transgressão](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autoras-sul-coreanas-sobre-trauma-e-transgress%C3%A3o)
+- [‘Os militares se acham mais bem preparados que os civis’](https://www.nexojornal.com.br/entrevista/2021/07/17/%E2%80%98Os-militares-se-acham-mais-bem-preparados-que-os-civis%E2%80%99)
+- [Bidenomics e as medidas de promoção da concorrência](https://www.nexojornal.com.br/ensaio/2021/Bidenomics-e-as-medidas-de-promo%C3%A7%C3%A3o-da-concorr%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
