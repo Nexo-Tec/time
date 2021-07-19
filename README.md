@@ -106,11 +106,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Não despolitize](https://gamarevista.uol.com.br/colunistas/winnie-bueno/nao-despolitize/)
 - [@gabriela.bilo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabriela-bilo/)
 - [Ricardo Freire: ‘Viajar vai ser um direito reconquistado’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ricardo-freire-saudade-de-viajar/)
 - [Craque Neto](https://gamarevista.uol.com.br/pessoas/questionario-proust/craque-neto/)
 - [Feirinha badalada do Rio vai de cesta a mercadão](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/junta-local-organicos-rio/)
-- [Antes que Eu me Esqueça](https://gamarevista.uol.com.br/cultura/trecho-de-livro/antes-que-eu-me-esqueca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
