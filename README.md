@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro recebe alta e deixa hospital em São Paulo](https://www.nexojornal.com.br/extra/2021/07/18/Bolsonaro-recebe-alta-e-deixa-hospital-em-S%C3%A3o-Paulo)
-- [Os documentos inéditos sobre o quilombo de Palmares](https://www.nexojornal.com.br/incoming/2021/07/18/Os-documentos-in%C3%A9ditos-sobre-o-quilombo-de-Palmares)
-- [Milhares vão às ruas na França contra campanha de vacinação](https://www.nexojornal.com.br/extra/2021/07/17/Milhares-v%C3%A3o-%C3%A0s-ruas-na-Fran%C3%A7a-contra-campanha-de-vacina%C3%A7%C3%A3o)
-- [O advogado que analisa os aspectos legais de filmes e séries](https://www.nexojornal.com.br/expresso/2021/07/17/O-advogado-que-analisa-os-aspectos-legais-de-filmes-e-s%C3%A9ries)
-- [5 livros de autoras sul-coreanas sobre trauma e transgressão](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autoras-sul-coreanas-sobre-trauma-e-transgress%C3%A3o)
+- [Anvisa autoriza testes com terceira dose da AstraZeneca](https://www.nexojornal.com.br/extra/2021/07/19/Anvisa-autoriza-testes-com-terceira-dose-da-AstraZeneca)
+- [São Paulo marca novo ciclo de imunização contra covid para 2022](https://www.nexojornal.com.br/extra/2021/07/19/S%C3%A3o-Paulo-marca-novo-ciclo-de-imuniza%C3%A7%C3%A3o-contra-covid-para-2022)
+- [Frente fria impulsionada por ciclone avança pelo Brasil](https://www.nexojornal.com.br/extra/2021/07/19/Frente-fria-impulsionada-por-ciclone-avan%C3%A7a-pelo-Brasil)
+- [Sistema de espionagem foi usado para invadir celulares de opositores](https://www.nexojornal.com.br/extra/2021/07/18/Sistema-de-espionagem-foi-usado-para-invadir-celulares-de-opositores)
+- [O aumento de chacinas policiais no Rio durante a pandemia](https://www.nexojornal.com.br/expresso/2021/07/18/O-aumento-de-chacinas-policiais-no-Rio-durante-a-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
