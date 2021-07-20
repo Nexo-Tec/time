@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Índia tem até 4,9 milhões de mortes ‘extras’ na pandemia, diz estudo](https://www.nexojornal.com.br/extra/2021/07/20/%C3%8Dndia-tem-at%C3%A9-49-milh%C3%B5es-de-mortes-%E2%80%98extras%E2%80%99-na-pandemia-diz-estudo)
-- [Em foguete sem piloto, Bezos faz viagem espacial histórica](https://www.nexojornal.com.br/extra/2021/07/20/Em-foguete-sem-piloto-Bezos-faz-viagem-espacial-hist%C3%B3rica)
-- [Bolsonaro diz que não sancionará fundo eleitoral de R$ 5,7 bi](https://www.nexojornal.com.br/extra/2021/07/20/Bolsonaro-diz-que-n%C3%A3o-sancionar%C3%A1-fundo-eleitoral-de-R-57-bi)
-- [Quando torcer contra o país significa torcer a favor dele](https://www.nexojornal.com.br/colunistas/2021/Quando-torcer-contra-o-pa%C3%ADs-significa-torcer-a-favor-dele)
-- [A mudança na logística de vacinas que é investigada pela CPI](https://www.nexojornal.com.br/expresso/2021/07/19/A-mudan%C3%A7a-na-log%C3%ADstica-de-vacinas-que-%C3%A9-investigada-pela-CPI)
+- [Alvo de boicote, Ben and Jerry’s sai de territórios ocupados por Israel](https://www.nexojornal.com.br/extra/2021/07/19/Alvo-de-boicote-Ben-and-Jerry%E2%80%99s-sai-de-territ%C3%B3rios-ocupados-por-Israel)
+- [Desmate na Amazônia cresce 51% em 11 meses, diz instituto](https://www.nexojornal.com.br/extra/2021/07/19/Desmate-na-Amaz%C3%B4nia-cresce-51-em-11-meses-diz-instituto)
+- [De ‘Frankenstein’ a ‘Titane’: o que é terror corporal](https://www.nexojornal.com.br/expresso/2021/07/19/De-%E2%80%98Frankenstein%E2%80%99-a-%E2%80%98Titane%E2%80%99-o-que-%C3%A9-terror-corporal)
+- [Premiê haitiano diz a jornal que vai renunciar ao cargo](https://www.nexojornal.com.br/extra/2021/07/19/Premi%C3%AA-haitiano-diz-a-jornal-que-vai-renunciar-ao-cargo)
+- [Como funciona e onde foi usado o programa de espionagem Pegasus](https://www.nexojornal.com.br/expresso/2021/07/19/Como-funciona-e-onde-foi-usado-o-programa-de-espionagem-Pegasus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
