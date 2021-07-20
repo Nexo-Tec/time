@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O nexo água-energia-alimentos e o desenvolvimento sustentável](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/19/O-nexo-%C3%A1gua-energia-alimentos-e-o-desenvolvimento-sustent%C3%A1vel)
+- [Naufrágios propositais e a prevenção das invasões biológicas marinhas](https://pp.nexojornal.com.br/opiniao/2021/Naufr%C3%A1gios-propositais-e-a-preven%C3%A7%C3%A3o-das-invas%C3%B5es-biol%C3%B3gicas-marinhas)
+- [Pesquisa qualitativa no estudo das políticas públicas: um campo em disputa](https://pp.nexojornal.com.br/ponto-de-vista/2021/Pesquisa-qualitativa-no-estudo-das-pol%C3%ADticas-p%C3%BAblicas-um-campo-em-disputa)
 - [Julho das Pretas: tempo de esperançar nas lutas das mulheres negras brasileiras](https://pp.nexojornal.com.br/ponto-de-vista/2021/Julho-das-Pretas-tempo-de-esperan%C3%A7ar-nas-lutas-das-mulheres-negras-brasileiras)
 - [6 pontos sobre corrupção e saúde](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-corrup%C3%A7%C3%A3o-e-sa%C3%BAde)
-- [O panorama da educação no Brasil, segundo este relatório](https://pp.nexojornal.com.br/topico/2021/07/14/O-panorama-da-educa%C3%A7%C3%A3o-no-Brasil-segundo-este-relat%C3%B3rio)
-- [Comorbidades políticas e ambientais e a sindemia da biodiversidade](https://pp.nexojornal.com.br/opiniao/2021/Comorbidades-pol%C3%ADticas-e-ambientais-e-a-sindemia-da-biodiversidade)
-- [Ricardo Madeira: a relevância de mensurar práticas de gestão escolar](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/07/13/Ricardo-Madeira-a-relev%C3%A2ncia-de-mensurar-pr%C3%A1ticas-de-gest%C3%A3o-escolar)
 <!-- PP_LIST:END -->
 
