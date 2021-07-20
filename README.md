@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anvisa autoriza testes com terceira dose da AstraZeneca](https://www.nexojornal.com.br/extra/2021/07/19/Anvisa-autoriza-testes-com-terceira-dose-da-AstraZeneca)
-- [São Paulo marca novo ciclo de imunização contra covid para 2022](https://www.nexojornal.com.br/extra/2021/07/19/S%C3%A3o-Paulo-marca-novo-ciclo-de-imuniza%C3%A7%C3%A3o-contra-covid-para-2022)
-- [Frente fria impulsionada por ciclone avança pelo Brasil](https://www.nexojornal.com.br/extra/2021/07/19/Frente-fria-impulsionada-por-ciclone-avan%C3%A7a-pelo-Brasil)
-- [Sistema de espionagem foi usado para invadir celulares de opositores](https://www.nexojornal.com.br/extra/2021/07/18/Sistema-de-espionagem-foi-usado-para-invadir-celulares-de-opositores)
-- [O aumento de chacinas policiais no Rio durante a pandemia](https://www.nexojornal.com.br/expresso/2021/07/18/O-aumento-de-chacinas-policiais-no-Rio-durante-a-pandemia)
+- [Alvo de boicote, Ben and Jerry’s sai de territórios ocupados por Israel](https://www.nexojornal.com.br/extra/2021/07/19/Alvo-de-boicote-Ben-and-Jerry%E2%80%99s-sai-de-territ%C3%B3rios-ocupados-por-Israel)
+- [Desmate na Amazônia cresce 51% em 11 meses, diz instituto](https://www.nexojornal.com.br/extra/2021/07/19/Desmate-na-Amaz%C3%B4nia-cresce-51-em-11-meses-diz-instituto)
+- [De ‘Frankenstein’ a ‘Titane’: o que é terror corporal](https://www.nexojornal.com.br/expresso/2021/07/19/De-%E2%80%98Frankenstein%E2%80%99-a-%E2%80%98Titane%E2%80%99-o-que-%C3%A9-terror-corporal)
+- [Premiê haitiano diz a jornal que vai renunciar ao cargo](https://www.nexojornal.com.br/extra/2021/07/19/Premi%C3%AA-haitiano-diz-a-jornal-que-vai-renunciar-ao-cargo)
+- [Como funciona e onde foi usado o programa de espionagem Pegasus](https://www.nexojornal.com.br/expresso/2021/07/19/Como-funciona-e-onde-foi-usado-o-programa-de-espionagem-Pegasus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
