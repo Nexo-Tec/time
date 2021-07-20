@@ -107,7 +107,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Monóculo de Fotografia](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/monoculo-de-fotografia/)
-- [Quanto vale o seu boicote?](https://gamarevista.uol.com.br/sociedade/quanto-vale-o-seu-boicote/)
+- [Quanto vale o seu boicote?](https://gamarevista.uol.com.br/sociedade/quanto-vale-seu-boicote/)
 - [Não despolitize](https://gamarevista.uol.com.br/colunistas/winnie-bueno/nao-despolitize/)
 - [@gabriela.bilo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabriela-bilo/)
 - [Ricardo Freire: ‘Viajar vai ser um direito reconquistado’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ricardo-freire-saudade-de-viajar/)
