@@ -96,11 +96,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As opções de Bolsonaro diante do fundo eleitoral. E o seu discurso](https://www.nexojornal.com.br/expresso/2021/07/20/As-op%C3%A7%C3%B5es-de-Bolsonaro-diante-do-fundo-eleitoral.-E-o-seu-discurso)
-- [Protestos de atletas: o que pode e o que não pode na Olimpíada](https://www.nexojornal.com.br/expresso/2021/07/20/Protestos-de-atletas-o-que-pode-e-o-que-n%C3%A3o-pode-na-Olimp%C3%ADada)
-- [A indicação de Aras para um 2º mandato na Procuradoria-Geral](https://www.nexojornal.com.br/expresso/2021/07/20/A-indica%C3%A7%C3%A3o-de-Aras-para-um-2%C2%BA-mandato-na-Procuradoria-Geral)
-- [Haiti nomeia novo premiê após assassinato de presidente](https://www.nexojornal.com.br/extra/2021/07/20/Haiti-nomeia-novo-premi%C3%AA-ap%C3%B3s-assassinato-de-presidente)
-- [Por que manter os cuidados, mesmo com o recuo da covid](https://www.nexojornal.com.br/expresso/2021/07/20/Por-que-manter-os-cuidados-mesmo-com-o-recuo-da-covid)
+- [Índia tem até 4,9 milhões de mortes ‘extras’ na pandemia, diz estudo](https://www.nexojornal.com.br/extra/2021/07/20/%C3%8Dndia-tem-at%C3%A9-49-milh%C3%B5es-de-mortes-%E2%80%98extras%E2%80%99-na-pandemia-diz-estudo)
+- [Em foguete sem piloto, Bezos faz viagem espacial histórica](https://www.nexojornal.com.br/extra/2021/07/20/Em-foguete-sem-piloto-Bezos-faz-viagem-espacial-hist%C3%B3rica)
+- [Bolsonaro diz que não sancionará fundo eleitoral de R$ 5,7 bi](https://www.nexojornal.com.br/extra/2021/07/20/Bolsonaro-diz-que-n%C3%A3o-sancionar%C3%A1-fundo-eleitoral-de-R-57-bi)
+- [Quando torcer contra o país significa torcer a favor dele](https://www.nexojornal.com.br/colunistas/2021/Quando-torcer-contra-o-pa%C3%ADs-significa-torcer-a-favor-dele)
+- [A mudança na logística de vacinas que é investigada pela CPI](https://www.nexojornal.com.br/expresso/2021/07/19/A-mudan%C3%A7a-na-log%C3%ADstica-de-vacinas-que-%C3%A9-investigada-pela-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
