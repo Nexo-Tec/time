@@ -16,7 +16,7 @@ Alguns destaques:
 ## Stack
 
 <p align="middle">
-<a href="https://amzn.to/3tpAp6i" target="_blank" title="JavaScript" alt="JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://amzn.to/2QorOSA" target="_blank" title="TypeScript" alt="TypeScript"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://pt-br.reactjs.org/" target="_blank" title="React" alt="React"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://wordpress.org/" target="_blank" title="WP" alt="WP"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Wordpress"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://devbooks.club/books/aws-well-architected/" target="_blank" title="AWS" alt="AWS"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://aws.amazon.com/serverless/" target="_blank" title="Serverless" alt="Serverless"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://nodejs.org/" target="_blank" title="NodeJS" alt="NodeJS"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="100px"  style="max-width:100px;"/>&nbsp; &nbsp;<a href="https://nextjs.org/" target="_blank" title="NextJS" alt="NextJS"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NextJS" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://docs.amplify.aws/" target="_blank" title="AWS Amplify" alt="AWS Amplify"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://code.visualstudio.com/" target="_blank" title="Code" alt="Code"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="Code" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.terraform.io/" target="_blank" title="Terraform" alt="Terraform"><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="100px"  style="max-width:100px;"/></a>
+<a href="https://amzn.to/3tpAp6i" target="_blank" title="JavaScript" alt="JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://amzn.to/2QorOSA" target="_blank" title="TypeScript" alt="TypeScript"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://pt-br.reactjs.org/" target="_blank" title="React" alt="React"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://wordpress.org/" target="_blank" title="WP" alt="WP"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Wordpress"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://devbooks.club/books/aws-well-architected/" target="_blank" title="AWS" alt="AWS"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS"  width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://aws.amazon.com/serverless/" target="_blank" title="Serverless" alt="Serverless"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://nodejs.org/" target="_blank" title="NodeJS" alt="NodeJS"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="100px"  style="max-width:100px;"/>&nbsp; &nbsp;<a href="https://nextjs.org/" target="_blank" title="NextJS" alt="NextJS"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NextJS" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://docs.amplify.aws/" target="_blank" title="AWS Amplify" alt="AWS Amplify"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://code.visualstudio.com/" target="_blank" title="Code" alt="Code"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Code" width="100px"  style="max-width:100px;"/></a>&nbsp; &nbsp;<a href="https://www.terraform.io/" target="_blank" title="Terraform" alt="Terraform"><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="100px"  style="max-width:100px;"/></a>
 </p>
 
 
@@ -51,14 +51,32 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <a href="https://github.com/atmasuko">
   <img src="https://github.com/atmasuko.png?size=50">
 </a>
+<a href="https://github.com/decoesp">
+  <img src="https://github.com/decoesp.png?size=50">
+</a>
 <a href="https://github.com/krollopes">
   <img src="https://github.com/krollopes.png?size=50">
+</a>
+<a href="https://github.com/EmmanoelCoutinho">
+  <img src="https://github.com/EmmanoelCoutinho.png?size=50">
 </a>
 <a href="https://github.com/ibrahimcesar">
   <img src="https://github.com/ibrahimcesar.png?size=50">
 </a>
+<a href="https://github.com/ferreira-mariana">
+  <img src="https://github.com/ferreira-mariana.png?size=50">
+</a>
 <a href="https://github.com/mariannakinuyo">
   <img src="https://github.com/mariannakinuyo.png?size=50">
+</a>
+<a href="https://github.com/tarekcampossaleh">
+  <img src="https://github.com/tarekcampossaleh.png?size=50">
+</a>
+<a href="https://github.com/victorgois">
+  <img src="https://github.com/victorgois.png?size=50">
+</a>
+<a href="https://github.com/viniciusfersil123">
+  <img src="https://github.com/viniciusfersil123.png?size=50">
 </a>
 
 ## Já fizeram parte do time
