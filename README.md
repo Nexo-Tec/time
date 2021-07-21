@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As opções de Bolsonaro diante do fundo eleitoral. E o seu discurso](https://www.nexojornal.com.br/expresso/2021/07/20/As-op%C3%A7%C3%B5es-de-Bolsonaro-diante-do-fundo-eleitoral.-E-o-seu-discurso)
-- [Protestos de atletas: o que pode e o que não pode na Olimpíada](https://www.nexojornal.com.br/expresso/2021/07/20/Protestos-de-atletas-o-que-pode-e-o-que-n%C3%A3o-pode-na-Olimp%C3%ADada)
-- [A indicação de Aras para um 2º mandato na Procuradoria-Geral](https://www.nexojornal.com.br/expresso/2021/07/20/A-indica%C3%A7%C3%A3o-de-Aras-para-um-2%C2%BA-mandato-na-Procuradoria-Geral)
-- [Haiti nomeia novo premiê após assassinato de presidente](https://www.nexojornal.com.br/extra/2021/07/20/Haiti-nomeia-novo-premi%C3%AA-ap%C3%B3s-assassinato-de-presidente)
-- [Por que manter os cuidados, mesmo com o recuo da covid](https://www.nexojornal.com.br/expresso/2021/07/20/Por-que-manter-os-cuidados-mesmo-com-o-recuo-da-covid)
+- [O projeto que facilita o acesso a diários oficiais de municípios](https://www.nexojornal.com.br/expresso/2021/07/21/O-projeto-que-facilita-o-acesso-a-di%C3%A1rios-oficiais-de-munic%C3%ADpios)
+- [Instituições democráticas em tempos de CPI](https://www.nexojornal.com.br/ensaio/2021/Institui%C3%A7%C3%B5es-democr%C3%A1ticas-em-tempos-de-CPI)
+- [Como a arqueologia ajuda a entender as mudanças climáticas](https://www.nexojornal.com.br/expresso/2021/07/21/Como-a-arqueologia-ajuda-a-entender-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [Covid reduz expectativa de vida nos EUA em um ano e meio](https://www.nexojornal.com.br/extra/2021/07/21/Covid-reduz-expectativa-de-vida-nos-EUA-em-um-ano-e-meio)
+- [Austrália vai sediar a Olimpíada pela terceira vez em 2032](https://www.nexojornal.com.br/grafico/2021/07/21/Austr%C3%A1lia-vai-sediar-a-Olimp%C3%ADada-pela-terceira-vez-em-2032)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
