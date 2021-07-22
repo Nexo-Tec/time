@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto que facilita o acesso a diários oficiais de municípios](https://www.nexojornal.com.br/expresso/2021/07/21/O-projeto-que-facilita-o-acesso-a-di%C3%A1rios-oficiais-de-munic%C3%ADpios)
-- [Instituições democráticas em tempos de CPI](https://www.nexojornal.com.br/ensaio/2021/Institui%C3%A7%C3%B5es-democr%C3%A1ticas-em-tempos-de-CPI)
-- [Como a arqueologia ajuda a entender as mudanças climáticas](https://www.nexojornal.com.br/expresso/2021/07/21/Como-a-arqueologia-ajuda-a-entender-as-mudan%C3%A7as-clim%C3%A1ticas)
-- [Covid reduz expectativa de vida nos EUA em um ano e meio](https://www.nexojornal.com.br/extra/2021/07/21/Covid-reduz-expectativa-de-vida-nos-EUA-em-um-ano-e-meio)
-- [Austrália vai sediar a Olimpíada pela terceira vez em 2032](https://www.nexojornal.com.br/grafico/2021/07/21/Austr%C3%A1lia-vai-sediar-a-Olimp%C3%ADada-pela-terceira-vez-em-2032)
+- [YouTube apaga nova leva de vídeos de Bolsonaro por inverdades](https://www.nexojornal.com.br/extra/2021/07/22/YouTube-apaga-nova-leva-de-v%C3%ADdeos-de-Bolsonaro-por-inverdades)
+- [As representações do corpo masculino na arte contemporânea](https://www.nexojornal.com.br/academico/2021/07/22/As-representa%C3%A7%C3%B5es-do-corpo-masculino-na-arte-contempor%C3%A2nea)
+- [Eric Clapton se nega a fazer shows com prova de vacinação](https://www.nexojornal.com.br/extra/2021/07/22/Eric-Clapton-se-nega-a-fazer-shows-com-prova-de-vacina%C3%A7%C3%A3o)
+- [O momento do governo, de golpismo a centrão fortalecido](https://www.nexojornal.com.br/expresso/2021/07/22/O-momento-do-governo-de-golpismo-a-centr%C3%A3o-fortalecido)
+- [Escolas municipais só reabriram em 16,2% das cidades em 2021](https://www.nexojornal.com.br/extra/2021/07/22/Escolas-municipais-s%C3%B3-reabriram-em-162-das-cidades-em-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
