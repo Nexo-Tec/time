@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Debates reúnem escritoras da América do Sul e Alemanha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debates-reunem-escritoras-da-america-do-sul-e-alemanha/)
+- [Um ano do Negrê, primeiro portal de mídia negra nordestina](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-ano-do-negre-primeiro-portal-de-midia-negra-nordestina/)
+- [“Mãe de Santo”, espetáculo online no Sesc Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/mae-de-santo-espetaculo-online-no-sesc-rio/)
 - [CV: Anielle Franco](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/anielle-franco/)
 - [Sem torcida para atletas negacionistas](https://gamarevista.uol.com.br/colunistas/letrux/sem-torcida-para-atletas-negacionistas/)
-- [Monóculo de Fotografia](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/monoculo-de-fotografia/)
-- [Quanto vale o seu boicote?](https://gamarevista.uol.com.br/sociedade/quanto-vale-seu-boicote/)
-- [Não despolitize](https://gamarevista.uol.com.br/colunistas/winnie-bueno/nao-despolitize/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
