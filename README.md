@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Palavras de amor de Leonard para Marianne](https://gamarevista.uol.com.br/achamos-que-vale/assistir/palavras-de-amor-de-leonard-para-marianne/)
+- [A ética do deepfake no documentário sobre Bourdain](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-etica-do-deepfake-no-documentario-sobre-bourdain/)
 - [Debates reúnem escritoras da América do Sul e Alemanha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debates-reunem-escritoras-da-america-do-sul-e-alemanha/)
 - [Um ano do Negrê, primeiro portal de mídia negra nordestina](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-ano-do-negre-primeiro-portal-de-midia-negra-nordestina/)
 - [“Mãe de Santo”, espetáculo online no Sesc Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/mae-de-santo-espetaculo-online-no-sesc-rio/)
-- [CV: Anielle Franco](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/anielle-franco/)
-- [Sem torcida para atletas negacionistas](https://gamarevista.uol.com.br/colunistas/letrux/sem-torcida-para-atletas-negacionistas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
