@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o cenário da volta às aulas presenciais no Brasil](https://www.nexojornal.com.br/expresso/2021/07/21/Qual-o-cen%C3%A1rio-da-volta-%C3%A0s-aulas-presenciais-no-Brasil)
-- [A pandemia dos não-vacinados e a saúde das instituições](https://www.nexojornal.com.br/colunistas/2021/A-pandemia-dos-n%C3%A3o-vacinados-e-a-sa%C3%BAde-das-institui%C3%A7%C3%B5es)
-- [O impacto político das Olimpíadas para o governo japonês](https://www.nexojornal.com.br/expresso/2021/07/21/O-impacto-pol%C3%ADtico-das-Olimp%C3%ADadas-para-o-governo-japon%C3%AAs)
-- [Tóquio 2020 veta fotos de atletas com joelho no chão, diz jornal](https://www.nexojornal.com.br/extra/2021/07/21/T%C3%B3quio-2020-veta-fotos-de-atletas-com-joelho-no-ch%C3%A3o-diz-jornal)
-- [Líder de seita sexual terá que pagar US$ 3,4 milhões a vítimas](https://www.nexojornal.com.br/extra/2021/07/21/L%C3%ADder-de-seita-sexual-ter%C3%A1-que-pagar-US-34-milh%C3%B5es-a-v%C3%ADtimas)
+- [O projeto que facilita o acesso a diários oficiais de municípios](https://www.nexojornal.com.br/expresso/2021/07/21/O-projeto-que-facilita-o-acesso-a-di%C3%A1rios-oficiais-de-munic%C3%ADpios)
+- [Instituições democráticas em tempos de CPI](https://www.nexojornal.com.br/ensaio/2021/Institui%C3%A7%C3%B5es-democr%C3%A1ticas-em-tempos-de-CPI)
+- [Como a arqueologia ajuda a entender as mudanças climáticas](https://www.nexojornal.com.br/expresso/2021/07/21/Como-a-arqueologia-ajuda-a-entender-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [Covid reduz expectativa de vida nos EUA em um ano e meio](https://www.nexojornal.com.br/extra/2021/07/21/Covid-reduz-expectativa-de-vida-nos-EUA-em-um-ano-e-meio)
+- [Austrália vai sediar a Olimpíada pela terceira vez em 2032](https://www.nexojornal.com.br/grafico/2021/07/21/Austr%C3%A1lia-vai-sediar-a-Olimp%C3%ADada-pela-terceira-vez-em-2032)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
