@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cartas para Minha Avó](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cartas-para-minha-avo/)
 - [As muitas personalidades de Helena Mattar](https://gamarevista.uol.com.br/pessoas/biografia-visual/as-muitas-personalidades-de-helena-mattar/)
 - [Palavras de amor de Leonard para Marianne](https://gamarevista.uol.com.br/achamos-que-vale/assistir/palavras-de-amor-de-leonard-para-marianne/)
 - [A ética do deepfake no documentário sobre Bourdain](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-etica-do-deepfake-no-documentario-sobre-bourdain/)
 - [Debates reúnem escritoras da América do Sul e Alemanha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debates-reunem-escritoras-da-america-do-sul-e-alemanha/)
-- [Um ano do Negrê, primeiro portal de mídia negra nordestina](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-ano-do-negre-primeiro-portal-de-midia-negra-nordestina/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
