@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [YouTube apaga nova leva de vídeos de Bolsonaro por inverdades](https://www.nexojornal.com.br/extra/2021/07/22/YouTube-apaga-nova-leva-de-v%C3%ADdeos-de-Bolsonaro-por-inverdades)
-- [As representações do corpo masculino na arte contemporânea](https://www.nexojornal.com.br/academico/2021/07/22/As-representa%C3%A7%C3%B5es-do-corpo-masculino-na-arte-contempor%C3%A2nea)
-- [Eric Clapton se nega a fazer shows com prova de vacinação](https://www.nexojornal.com.br/extra/2021/07/22/Eric-Clapton-se-nega-a-fazer-shows-com-prova-de-vacina%C3%A7%C3%A3o)
-- [O momento do governo, de golpismo a centrão fortalecido](https://www.nexojornal.com.br/expresso/2021/07/22/O-momento-do-governo-de-golpismo-a-centr%C3%A3o-fortalecido)
-- [Escolas municipais só reabriram em 16,2% das cidades em 2021](https://www.nexojornal.com.br/extra/2021/07/22/Escolas-municipais-s%C3%B3-reabriram-em-162-das-cidades-em-2021)
+- [O histórico dos esportes presentes nas Olimpíadas](https://www.nexojornal.com.br/grafico/2021/07/22/O-hist%C3%B3rico-dos-esportes-presentes-nas-Olimp%C3%ADadas)
+- [Quem é Ciro Nogueira, o nome do centrão para assumir a Casa Civil](https://www.nexojornal.com.br/expresso/2021/07/22/Quem-%C3%A9-Ciro-Nogueira-o-nome-do-centr%C3%A3o-para-assumir-a-Casa-Civil)
+- [Entre ameaças e ataques à urna: quais os riscos para a eleição](https://www.nexojornal.com.br/expresso/2021/07/22/Entre-amea%C3%A7as-e-ataques-%C3%A0-urna-quais-os-riscos-para-a-elei%C3%A7%C3%A3o)
+- [Dados cidadãos: histórias que registros oficiais não contam](https://www.nexojornal.com.br/ensaio/2021/Dados-cidad%C3%A3os-hist%C3%B3rias-que-registros-oficiais-n%C3%A3o-contam)
+- [Com nova lei, filhx de líder argentino adota RG não binário](https://www.nexojornal.com.br/extra/2021/07/22/Com-nova-lei-filhx-de-l%C3%ADder-argentino-adota-RG-n%C3%A3o-bin%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
