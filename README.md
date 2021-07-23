@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o cenário da volta às aulas presenciais no Brasil](https://www.nexojornal.com.br/expresso/2021/07/21/Qual-o-cen%C3%A1rio-da-volta-%C3%A0s-aulas-presenciais-no-Brasil)
-- [A pandemia dos não-vacinados e a saúde das instituições](https://www.nexojornal.com.br/colunistas/2021/A-pandemia-dos-n%C3%A3o-vacinados-e-a-sa%C3%BAde-das-institui%C3%A7%C3%B5es)
-- [O impacto político das Olimpíadas para o governo japonês](https://www.nexojornal.com.br/expresso/2021/07/21/O-impacto-pol%C3%ADtico-das-Olimp%C3%ADadas-para-o-governo-japon%C3%AAs)
-- [Tóquio 2020 veta fotos de atletas com joelho no chão, diz jornal](https://www.nexojornal.com.br/extra/2021/07/21/T%C3%B3quio-2020-veta-fotos-de-atletas-com-joelho-no-ch%C3%A3o-diz-jornal)
-- [Líder de seita sexual terá que pagar US$ 3,4 milhões a vítimas](https://www.nexojornal.com.br/extra/2021/07/21/L%C3%ADder-de-seita-sexual-ter%C3%A1-que-pagar-US-34-milh%C3%B5es-a-v%C3%ADtimas)
+- [YouTube apaga nova leva de vídeos de Bolsonaro por inverdades](https://www.nexojornal.com.br/extra/2021/07/22/YouTube-apaga-nova-leva-de-v%C3%ADdeos-de-Bolsonaro-por-inverdades)
+- [As representações do corpo masculino na arte contemporânea](https://www.nexojornal.com.br/academico/2021/07/22/As-representa%C3%A7%C3%B5es-do-corpo-masculino-na-arte-contempor%C3%A2nea)
+- [Eric Clapton se nega a fazer shows com prova de vacinação](https://www.nexojornal.com.br/extra/2021/07/22/Eric-Clapton-se-nega-a-fazer-shows-com-prova-de-vacina%C3%A7%C3%A3o)
+- [O momento do governo, de golpismo a centrão fortalecido](https://www.nexojornal.com.br/expresso/2021/07/22/O-momento-do-governo-de-golpismo-a-centr%C3%A3o-fortalecido)
+- [Escolas municipais só reabriram em 16,2% das cidades em 2021](https://www.nexojornal.com.br/extra/2021/07/22/Escolas-municipais-s%C3%B3-reabriram-em-162-das-cidades-em-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
