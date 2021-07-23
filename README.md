@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [YouTube apaga nova leva de vídeos de Bolsonaro por inverdades](https://www.nexojornal.com.br/extra/2021/07/22/YouTube-apaga-nova-leva-de-v%C3%ADdeos-de-Bolsonaro-por-inverdades)
-- [As representações do corpo masculino na arte contemporânea](https://www.nexojornal.com.br/academico/2021/07/22/As-representa%C3%A7%C3%B5es-do-corpo-masculino-na-arte-contempor%C3%A2nea)
-- [Eric Clapton se nega a fazer shows com prova de vacinação](https://www.nexojornal.com.br/extra/2021/07/22/Eric-Clapton-se-nega-a-fazer-shows-com-prova-de-vacina%C3%A7%C3%A3o)
-- [O momento do governo, de golpismo a centrão fortalecido](https://www.nexojornal.com.br/expresso/2021/07/22/O-momento-do-governo-de-golpismo-a-centr%C3%A3o-fortalecido)
-- [Escolas municipais só reabriram em 16,2% das cidades em 2021](https://www.nexojornal.com.br/extra/2021/07/22/Escolas-municipais-s%C3%B3-reabriram-em-162-das-cidades-em-2021)
+- [Geração elétrica pode chegar ao limite em novembro](https://www.nexojornal.com.br/extra/2021/07/23/Gera%C3%A7%C3%A3o-el%C3%A9trica-pode-chegar-ao-limite-em-novembro)
+- [‘Apoio evangélico a Bolsonaro já não é mais o mesmo’](https://www.nexojornal.com.br/entrevista/2021/07/23/%E2%80%98Apoio-evang%C3%A9lico-a-Bolsonaro-j%C3%A1-n%C3%A3o-%C3%A9-mais-o-mesmo%E2%80%99)
+- [Vila Olímpica tem escassez de testes para covid, diz TV japonesa](https://www.nexojornal.com.br/extra/2021/07/23/Vila-Ol%C3%ADmpica-tem-escassez-de-testes-para-covid-diz-TV-japonesa)
+- [Oposição volta às ruas para quarto ato a favor do impeachment](https://www.nexojornal.com.br/extra/2021/07/23/Oposi%C3%A7%C3%A3o-volta-%C3%A0s-ruas-para-quarto-ato-a-favor-do-impeachment)
+- [Bolsonaro fala em se filiar ao PP para eleição de 2022](https://www.nexojornal.com.br/extra/2021/07/23/Bolsonaro-fala-em-se-filiar-ao-PP-para-elei%C3%A7%C3%A3o-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
