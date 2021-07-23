@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Dia Internacional da Agricultura Familiar: entre a celebração e o alerta](https://pp.nexojornal.com.br/opiniao/2021/Dia-Internacional-da-Agricultura-Familiar-entre-a-celebra%C3%A7%C3%A3o-e-o-alerta)
-- [Tensão entre autonomia decisória e a gestão dos recursos educacionais: o papel do STF na definição dos gastos estaduais em educação](https://pp.nexojornal.com.br/opiniao/2021/Tens%C3%A3o-entre-autonomia-decis%C3%B3ria-e-a-gest%C3%A3o-dos-recursos-educacionais-o-papel-do-STF-na-defini%C3%A7%C3%A3o-dos-gastos-estaduais-em-educa%C3%A7%C3%A3o)
 - [O nexo água-energia-alimentos e o desenvolvimento sustentável](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/19/O-nexo-%C3%A1gua-energia-alimentos-e-o-desenvolvimento-sustent%C3%A1vel)
 - [Naufrágios propositais e a prevenção das invasões biológicas marinhas](https://pp.nexojornal.com.br/opiniao/2021/Naufr%C3%A1gios-propositais-e-a-preven%C3%A7%C3%A3o-das-invas%C3%B5es-biol%C3%B3gicas-marinhas)
 - [Pesquisa qualitativa no estudo das políticas públicas: um campo em disputa](https://pp.nexojornal.com.br/ponto-de-vista/2021/Pesquisa-qualitativa-no-estudo-das-pol%C3%ADticas-p%C3%BAblicas-um-campo-em-disputa)
+- [Julho das Pretas: tempo de esperançar nas lutas das mulheres negras brasileiras](https://pp.nexojornal.com.br/ponto-de-vista/2021/Julho-das-Pretas-tempo-de-esperan%C3%A7ar-nas-lutas-das-mulheres-negras-brasileiras)
+- [6 pontos sobre corrupção e saúde](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-corrup%C3%A7%C3%A3o-e-sa%C3%BAde)
 <!-- PP_LIST:END -->
 
