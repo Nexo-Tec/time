@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O histórico dos esportes presentes nas Olimpíadas](https://www.nexojornal.com.br/grafico/2021/07/22/O-hist%C3%B3rico-dos-esportes-presentes-nas-Olimp%C3%ADadas)
-- [Quem é Ciro Nogueira, o nome do centrão para assumir a Casa Civil](https://www.nexojornal.com.br/expresso/2021/07/22/Quem-%C3%A9-Ciro-Nogueira-o-nome-do-centr%C3%A3o-para-assumir-a-Casa-Civil)
-- [Entre ameaças e ataques à urna: quais os riscos para a eleição](https://www.nexojornal.com.br/expresso/2021/07/22/Entre-amea%C3%A7as-e-ataques-%C3%A0-urna-quais-os-riscos-para-a-elei%C3%A7%C3%A3o)
-- [Dados cidadãos: histórias que registros oficiais não contam](https://www.nexojornal.com.br/ensaio/2021/Dados-cidad%C3%A3os-hist%C3%B3rias-que-registros-oficiais-n%C3%A3o-contam)
-- [Com nova lei, filhx de líder argentino adota RG não binário](https://www.nexojornal.com.br/extra/2021/07/22/Com-nova-lei-filhx-de-l%C3%ADder-argentino-adota-RG-n%C3%A3o-bin%C3%A1rio)
+- [Geração elétrica pode chegar ao limite em novembro](https://www.nexojornal.com.br/extra/2021/07/23/Gera%C3%A7%C3%A3o-el%C3%A9trica-pode-chegar-ao-limite-em-novembro)
+- [‘Apoio evangélico a Bolsonaro já não é mais o mesmo’](https://www.nexojornal.com.br/entrevista/2021/07/23/%E2%80%98Apoio-evang%C3%A9lico-a-Bolsonaro-j%C3%A1-n%C3%A3o-%C3%A9-mais-o-mesmo%E2%80%99)
+- [Vila Olímpica tem escassez de testes para covid, diz TV japonesa](https://www.nexojornal.com.br/extra/2021/07/23/Vila-Ol%C3%ADmpica-tem-escassez-de-testes-para-covid-diz-TV-japonesa)
+- [Oposição volta às ruas para quarto ato a favor do impeachment](https://www.nexojornal.com.br/extra/2021/07/23/Oposi%C3%A7%C3%A3o-volta-%C3%A0s-ruas-para-quarto-ato-a-favor-do-impeachment)
+- [Bolsonaro fala em se filiar ao PP para eleição de 2022](https://www.nexojornal.com.br/extra/2021/07/23/Bolsonaro-fala-em-se-filiar-ao-PP-para-elei%C3%A7%C3%A3o-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
