@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como fica o bolsonarismo raiz em um governo de centrão](https://www.nexojornal.com.br/expresso/2021/07/23/Como-fica-o-bolsonarismo-raiz-em-um-governo-de-centr%C3%A3o)
-- [Brasileira do atletismo é liberada de suspensão por doping](https://www.nexojornal.com.br/extra/2021/07/23/Brasileira-do-atletismo-%C3%A9-liberada-de-suspens%C3%A3o-por-doping)
-- [Jogos vs. vírus: as lições da abertura da Olimpíada no Japão](https://www.nexojornal.com.br/colunistas/tribuna/2021/Jogos-vs.-v%C3%ADrus-as-li%C3%A7%C3%B5es-da-abertura-da-Olimp%C3%ADada-no-Jap%C3%A3o)
-- [‘É preciso defender a democracia para debater a educação’](https://www.nexojornal.com.br/entrevista/2021/07/23/%E2%80%98%C3%89-preciso-defender-a-democracia-para-debater-a-educa%C3%A7%C3%A3o%E2%80%99)
-- [Como surgem novas palavras. E quem cuida da língua portuguesa](https://www.nexojornal.com.br/expresso/2021/07/23/Como-surgem-novas-palavras.-E-quem-cuida-da-l%C3%ADngua-portuguesa)
+- [Geração elétrica pode chegar ao limite em novembro](https://www.nexojornal.com.br/extra/2021/07/23/Gera%C3%A7%C3%A3o-el%C3%A9trica-pode-chegar-ao-limite-em-novembro)
+- [‘Apoio evangélico a Bolsonaro já não é mais o mesmo’](https://www.nexojornal.com.br/entrevista/2021/07/23/%E2%80%98Apoio-evang%C3%A9lico-a-Bolsonaro-j%C3%A1-n%C3%A3o-%C3%A9-mais-o-mesmo%E2%80%99)
+- [Vila Olímpica tem escassez de testes para covid, diz TV japonesa](https://www.nexojornal.com.br/extra/2021/07/23/Vila-Ol%C3%ADmpica-tem-escassez-de-testes-para-covid-diz-TV-japonesa)
+- [Oposição volta às ruas para quarto ato a favor do impeachment](https://www.nexojornal.com.br/extra/2021/07/23/Oposi%C3%A7%C3%A3o-volta-%C3%A0s-ruas-para-quarto-ato-a-favor-do-impeachment)
+- [Bolsonaro fala em se filiar ao PP para eleição de 2022](https://www.nexojornal.com.br/extra/2021/07/23/Bolsonaro-fala-em-se-filiar-ao-PP-para-elei%C3%A7%C3%A3o-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
