@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [4 iniciativas que encorajam a presença feminina na ciência](https://www.nexojornal.com.br/expresso/2021/07/24/4-iniciativas-que-encorajam-a-presen%C3%A7a-feminina-na-ci%C3%AAncia)
-- [5 livros para refletir sobre economia e relações humanas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-refletir-sobre-economia-e-rela%C3%A7%C3%B5es-humanas)
-- [Como estes estudos reforçam a importância da 2ª dose](https://www.nexojornal.com.br/expresso/2021/07/24/Como-estes-estudos-refor%C3%A7am-a-import%C3%A2ncia-da-2%C2%AA-dose)
-- [‘A falta de punição dos militares gerou uma situação insustentável’](https://www.nexojornal.com.br/entrevista/2021/07/24/%E2%80%98A-falta-de-puni%C3%A7%C3%A3o-dos-militares-gerou-uma-situa%C3%A7%C3%A3o-insustent%C3%A1vel%E2%80%99)
-- [Avaliações nacionais de educação básica: para onde ir?](https://www.nexojornal.com.br/ensaio/2021/Avalia%C3%A7%C3%B5es-nacionais-de-educa%C3%A7%C3%A3o-b%C3%A1sica-para-onde-ir)
+- [Anvisa suspende estudos clínicos com a Covaxin no Brasil](https://www.nexojornal.com.br/extra/2021/07/24/Anvisa-suspende-estudos-cl%C3%ADnicos-com-a-Covaxin-no-Brasil)
+- [As primeiras medalhas em Tóquio. E o Brasil fora dos pódios](https://www.nexojornal.com.br/extra/2021/07/24/As-primeiras-medalhas-em-T%C3%B3quio.-E-o-Brasil-fora-dos-p%C3%B3dios)
+- [Como fica o bolsonarismo raiz em um governo de centrão](https://www.nexojornal.com.br/expresso/2021/07/23/Como-fica-o-bolsonarismo-raiz-em-um-governo-de-centr%C3%A3o)
+- [Brasileira do atletismo é liberada de suspensão por doping](https://www.nexojornal.com.br/extra/2021/07/23/Brasileira-do-atletismo-%C3%A9-liberada-de-suspens%C3%A3o-por-doping)
+- [Jogos vs. vírus: as lições da abertura da Olimpíada no Japão](https://www.nexojornal.com.br/colunistas/tribuna/2021/Jogos-vs.-v%C3%ADrus-as-li%C3%A7%C3%B5es-da-abertura-da-Olimp%C3%ADada-no-Jap%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
