@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Livia La Gatto e Luciana Paes: humor com filtro](https://gamarevista.uol.com.br/podcast/podcast-da-semana/livia-la-gatto-luciana-paes-ta-rindo-de-que/)
 - [Andréia Horta](https://gamarevista.uol.com.br/pessoas/questionario-proust/andreia-horta/)
 - [Cartas para Minha Avó](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cartas-para-minha-avo/)
 - [As muitas personalidades de Helena Mattar](https://gamarevista.uol.com.br/pessoas/biografia-visual/as-muitas-personalidades-de-helena-mattar/)
 - [Palavras de amor de Leonard para Marianne](https://gamarevista.uol.com.br/achamos-que-vale/assistir/palavras-de-amor-de-leonard-para-marianne/)
-- [A ética do deepfake no documentário sobre Bourdain](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-etica-do-deepfake-no-documentario-sobre-bourdain/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
