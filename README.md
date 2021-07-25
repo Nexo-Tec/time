@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anvisa suspende estudos clínicos com a Covaxin no Brasil](https://www.nexojornal.com.br/extra/2021/07/24/Anvisa-suspende-estudos-cl%C3%ADnicos-com-a-Covaxin-no-Brasil)
-- [As primeiras medalhas em Tóquio. E o Brasil fora dos pódios](https://www.nexojornal.com.br/extra/2021/07/24/As-primeiras-medalhas-em-T%C3%B3quio.-E-o-Brasil-fora-dos-p%C3%B3dios)
 - [Como fica o bolsonarismo raiz em um governo de centrão](https://www.nexojornal.com.br/expresso/2021/07/23/Como-fica-o-bolsonarismo-raiz-em-um-governo-de-centr%C3%A3o)
 - [Brasileira do atletismo é liberada de suspensão por doping](https://www.nexojornal.com.br/extra/2021/07/23/Brasileira-do-atletismo-%C3%A9-liberada-de-suspens%C3%A3o-por-doping)
 - [Jogos vs. vírus: as lições da abertura da Olimpíada no Japão](https://www.nexojornal.com.br/colunistas/tribuna/2021/Jogos-vs.-v%C3%ADrus-as-li%C3%A7%C3%B5es-da-abertura-da-Olimp%C3%ADada-no-Jap%C3%A3o)
+- [‘É preciso defender a democracia para debater a educação’](https://www.nexojornal.com.br/entrevista/2021/07/23/%E2%80%98%C3%89-preciso-defender-a-democracia-para-debater-a-educa%C3%A7%C3%A3o%E2%80%99)
+- [Como surgem novas palavras. E quem cuida da língua portuguesa](https://www.nexojornal.com.br/expresso/2021/07/23/Como-surgem-novas-palavras.-E-quem-cuida-da-l%C3%ADngua-portuguesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
