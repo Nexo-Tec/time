@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Comunicação e saúde](https://pp.nexojornal.com.br/glossario/Comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
+- [As desigualdades que não cabem nos estudos de estratificação](https://pp.nexojornal.com.br/ponto-de-vista/2021/As-desigualdades-que-n%C3%A3o-cabem-nos-estudos-de-estratifica%C3%A7%C3%A3o)
+- [O retrocesso da grande estratégia geopolítica brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-retrocesso-da-grande-estrat%C3%A9gia-geopol%C3%ADtica-brasileira)
 - [Dia Internacional da Agricultura Familiar: entre a celebração e o alerta](https://pp.nexojornal.com.br/opiniao/2021/Dia-Internacional-da-Agricultura-Familiar-entre-a-celebra%C3%A7%C3%A3o-e-o-alerta)
 - [Tensão entre autonomia decisória e a gestão dos recursos educacionais: o papel do STF na definição dos gastos estaduais em educação](https://pp.nexojornal.com.br/opiniao/2021/Tens%C3%A3o-entre-autonomia-decis%C3%B3ria-e-a-gest%C3%A3o-dos-recursos-educacionais-o-papel-do-STF-na-defini%C3%A7%C3%A3o-dos-gastos-estaduais-em-educa%C3%A7%C3%A3o)
-- [O nexo água-energia-alimentos e o desenvolvimento sustentável](https://pp.nexojornal.com.br/bibliografia-basica/2021/07/19/O-nexo-%C3%A1gua-energia-alimentos-e-o-desenvolvimento-sustent%C3%A1vel)
-- [Naufrágios propositais e a prevenção das invasões biológicas marinhas](https://pp.nexojornal.com.br/opiniao/2021/Naufr%C3%A1gios-propositais-e-a-preven%C3%A7%C3%A3o-das-invas%C3%B5es-biol%C3%B3gicas-marinhas)
-- [Pesquisa qualitativa no estudo das políticas públicas: um campo em disputa](https://pp.nexojornal.com.br/ponto-de-vista/2021/Pesquisa-qualitativa-no-estudo-das-pol%C3%ADticas-p%C3%BAblicas-um-campo-em-disputa)
 <!-- PP_LIST:END -->
 
