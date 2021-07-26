@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rayssa Leal ganha prata no skate aos 13 anos de idade](https://www.nexojornal.com.br/extra/2021/07/26/Rayssa-Leal-ganha-prata-no-skate-aos-13-anos-de-idade)
-- [O que está por trás de alimentos mais baratos durante a crise](https://www.nexojornal.com.br/expresso/2021/07/26/O-que-est%C3%A1-por-tr%C3%A1s-de-alimentos-mais-baratos-durante-a-crise)
-- [O Acordo de Escazú e a educação ambiental como ferramenta](https://www.nexojornal.com.br/ensaio/2021/O-Acordo-de-Escaz%C3%BA-e-a-educa%C3%A7%C3%A3o-ambiental-como-ferramenta)
-- [‘A ultra-direita cooptou o debate sobre ativismo judicial’](https://www.nexojornal.com.br/entrevista/2021/07/26/%E2%80%98A-ultra-direita-cooptou-o-debate-sobre-ativismo-judicial%E2%80%99)
-- [Como hospitais tentam retomar a atenção a doenças além da covid](https://www.nexojornal.com.br/expresso/2021/07/26/Como-hospitais-tentam-retomar-a-aten%C3%A7%C3%A3o-a-doen%C3%A7as-al%C3%A9m-da-covid)
+- [Líder do ranking mundial de golfe pega covid e não joga Olimpíada](https://www.nexojornal.com.br/extra/2021/07/25/L%C3%ADder-do-ranking-mundial-de-golfe-pega-covid-e-n%C3%A3o-joga-Olimp%C3%ADada)
+- [Polícia prende suspeito de atear fogo na estátua de Borba Gato](https://www.nexojornal.com.br/extra/2021/07/25/Pol%C3%ADcia-prende-suspeito-de-atear-fogo-na-est%C3%A1tua-de-Borba-Gato)
+- [Brasil conquista primeiras medalhas em Tóquio](https://www.nexojornal.com.br/extra/2021/07/25/Brasil-conquista-primeiras-medalhas-em-T%C3%B3quio)
+- [4 iniciativas que encorajam a presença feminina na ciência](https://www.nexojornal.com.br/expresso/2021/07/24/4-iniciativas-que-encorajam-a-presen%C3%A7a-feminina-na-ci%C3%AAncia)
+- [5 livros para refletir sobre economia e relações humanas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-refletir-sobre-economia-e-rela%C3%A7%C3%B5es-humanas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
