@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Almodóvar e Sorrentino concorrem ao Leão de Ouro em 2021](https://www.nexojornal.com.br/extra/2021/07/26/Almod%C3%B3var-e-Sorrentino-concorrem-ao-Le%C3%A3o-de-Ouro-em-2021)
-- [Governo decide reduzir intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/07/26/Governo-decide-reduzir-intervalo-entre-doses-da-Pfizer)
-- [Bolsonaro se reuniu com líder xenófoba da ultradireita alemã](https://www.nexojornal.com.br/extra/2021/07/26/Bolsonaro-se-reuniu-com-l%C3%ADder-xen%C3%B3foba-da-ultradireita-alem%C3%A3)
-- [Medalhistas brasileiros têm em média o dobro da idade de Rayssa](https://www.nexojornal.com.br/grafico/2021/07/26/Medalhistas-brasileiros-t%C3%AAm-em-m%C3%A9dia-o-dobro-da-idade-de-Rayssa)
-- [Lava Jato negociou contratação de programa espião Pegasus](https://www.nexojornal.com.br/extra/2021/07/26/Lava-Jato-negociou-contrata%C3%A7%C3%A3o-de-programa-espi%C3%A3o-Pegasus)
+- [Rayssa Leal ganha prata no skate aos 13 anos de idade](https://www.nexojornal.com.br/extra/2021/07/26/Rayssa-Leal-ganha-prata-no-skate-aos-13-anos-de-idade)
+- [O que está por trás de alimentos mais baratos durante a crise](https://www.nexojornal.com.br/expresso/2021/07/26/O-que-est%C3%A1-por-tr%C3%A1s-de-alimentos-mais-baratos-durante-a-crise)
+- [O Acordo de Escazú e a educação ambiental como ferramenta](https://www.nexojornal.com.br/ensaio/2021/O-Acordo-de-Escaz%C3%BA-e-a-educa%C3%A7%C3%A3o-ambiental-como-ferramenta)
+- [‘A ultra-direita cooptou o debate sobre ativismo judicial’](https://www.nexojornal.com.br/entrevista/2021/07/26/%E2%80%98A-ultra-direita-cooptou-o-debate-sobre-ativismo-judicial%E2%80%99)
+- [Como hospitais tentam retomar a atenção a doenças além da covid](https://www.nexojornal.com.br/expresso/2021/07/26/Como-hospitais-tentam-retomar-a-aten%C3%A7%C3%A3o-a-doen%C3%A7as-al%C3%A9m-da-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
