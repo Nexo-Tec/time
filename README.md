@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil ganha ouro no surfe e bronze na natação](https://www.nexojornal.com.br/extra/2021/07/27/Brasil-ganha-ouro-no-surfe-e-bronze-na-nata%C3%A7%C3%A3o)
-- [Um flecha que veio de Tóquio no país dos terrivelmente racistas](https://www.nexojornal.com.br/colunistas/2021/Um-flecha-que-veio-de-T%C3%B3quio-no-pa%C3%ADs-dos-terrivelmente-racistas)
-- [O sexismo nos uniformes olímpicos. E a reação das atletas](https://www.nexojornal.com.br/expresso/2021/07/26/O-sexismo-nos-uniformes-ol%C3%ADmpicos.-E-a-rea%C3%A7%C3%A3o-das-atletas)
-- [Borba Gato e os bandeirantes: do mito à desconstrução](https://www.nexojornal.com.br/expresso/2021/07/26/Borba-Gato-e-os-bandeirantes-do-mito-%C3%A0-desconstru%C3%A7%C3%A3o)
-- [Para Bolsonaro, Mourão ‘por vezes atrapalha um pouco’](https://www.nexojornal.com.br/extra/2021/07/26/Para-Bolsonaro-Mour%C3%A3o-%E2%80%98por-vezes-atrapalha-um-pouco%E2%80%99)
+- [Almodóvar e Sorrentino concorrem ao Leão de Ouro em 2021](https://www.nexojornal.com.br/extra/2021/07/26/Almod%C3%B3var-e-Sorrentino-concorrem-ao-Le%C3%A3o-de-Ouro-em-2021)
+- [Governo decide reduzir intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/07/26/Governo-decide-reduzir-intervalo-entre-doses-da-Pfizer)
+- [Bolsonaro se reuniu com líder xenófoba da ultradireita alemã](https://www.nexojornal.com.br/extra/2021/07/26/Bolsonaro-se-reuniu-com-l%C3%ADder-xen%C3%B3foba-da-ultradireita-alem%C3%A3)
+- [Medalhistas brasileiros têm em média o dobro da idade de Rayssa](https://www.nexojornal.com.br/grafico/2021/07/26/Medalhistas-brasileiros-t%C3%AAm-em-m%C3%A9dia-o-dobro-da-idade-de-Rayssa)
+- [Lava Jato negociou contratação de programa espião Pegasus](https://www.nexojornal.com.br/extra/2021/07/26/Lava-Jato-negociou-contrata%C3%A7%C3%A3o-de-programa-espi%C3%A3o-Pegasus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
