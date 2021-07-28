@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Mundo neutro em carbono em 2050: a perspectiva do Norte Global](https://pp.nexojornal.com.br/opiniao/2021/Mundo-neutro-em-carbono-em-2050-a-perspectiva-do-Norte-Global)
 - [Comunicação e saúde](https://pp.nexojornal.com.br/glossario/Comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
 - [As desigualdades que não cabem nos estudos de estratificação](https://pp.nexojornal.com.br/ponto-de-vista/2021/As-desigualdades-que-n%C3%A3o-cabem-nos-estudos-de-estratifica%C3%A7%C3%A3o)
 - [O retrocesso da grande estratégia geopolítica brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-retrocesso-da-grande-estrat%C3%A9gia-geopol%C3%ADtica-brasileira)
 - [Dia Internacional da Agricultura Familiar: entre a celebração e o alerta](https://pp.nexojornal.com.br/opiniao/2021/Dia-Internacional-da-Agricultura-Familiar-entre-a-celebra%C3%A7%C3%A3o-e-o-alerta)
+- [Tensão entre autonomia decisória e a gestão dos recursos educacionais: o papel do STF na definição dos gastos estaduais em educação](https://pp.nexojornal.com.br/opiniao/2021/Tens%C3%A3o-entre-autonomia-decis%C3%B3ria-e-a-gest%C3%A3o-dos-recursos-educacionais-o-papel-do-STF-na-defini%C3%A7%C3%A3o-dos-gastos-estaduais-em-educa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
