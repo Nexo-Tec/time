@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Os “Gatos” em Borba](https://gamarevista.uol.com.br/colunistas/marcello-dantas/os-gatos-em-borba/)
+- [Os “gatos” em Borba](https://gamarevista.uol.com.br/colunistas/marcello-dantas/os-gatos-em-borba/)
 - [Jarra de Abacaxi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/jarra-de-abacaxi/)
 - [Livros para pensar o presente](https://gamarevista.uol.com.br/cultura/livros-para-pensar-o-presente/)
 - [Rayssa Leal, 13 anos e 203 dias](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/rayssa-leal-13-anos-e-203-dias/)
