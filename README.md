@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA voltam a indicar máscara para vacinados em locais fechados](https://www.nexojornal.com.br/extra/2021/07/27/EUA-voltam-a-indicar-m%C3%A1scara-para-vacinados-em-locais-fechados)
-- [Como é o museu online dos sons antigos da internet](https://www.nexojornal.com.br/expresso/2021/07/27/Como-%C3%A9-o-museu-online-dos-sons-antigos-da-internet)
-- [A Olimpíada rejuvenesce. E o Brasil surfa nessa onda](https://www.nexojornal.com.br/podcast/2021/07/27/A-Olimp%C3%ADada-rejuvenesce.-E-o-Brasil-surfa-nessa-onda)
-- [A HQ sobre Che Guevara censurada pela ditadura argentina](https://www.nexojornal.com.br/expresso/2021/07/27/A-HQ-sobre-Che-Guevara-censurada-pela-ditadura-argentina)
-- [Morre aos 91 anos o professor José Arthur Giannotti](https://www.nexojornal.com.br/extra/2021/07/27/Morre-aos-91-anos-o-professor-Jos%C3%A9-Arthur-Giannotti)
+- [Brasil ganha ouro no surfe e bronze na natação](https://www.nexojornal.com.br/extra/2021/07/27/Brasil-ganha-ouro-no-surfe-e-bronze-na-nata%C3%A7%C3%A3o)
+- [Um flecha que veio de Tóquio no país dos terrivelmente racistas](https://www.nexojornal.com.br/colunistas/2021/Um-flecha-que-veio-de-T%C3%B3quio-no-pa%C3%ADs-dos-terrivelmente-racistas)
+- [O sexismo nos uniformes olímpicos. E a reação das atletas](https://www.nexojornal.com.br/expresso/2021/07/26/O-sexismo-nos-uniformes-ol%C3%ADmpicos.-E-a-rea%C3%A7%C3%A3o-das-atletas)
+- [Borba Gato e os bandeirantes: do mito à desconstrução](https://www.nexojornal.com.br/expresso/2021/07/26/Borba-Gato-e-os-bandeirantes-do-mito-%C3%A0-desconstru%C3%A7%C3%A3o)
+- [Para Bolsonaro, Mourão ‘por vezes atrapalha um pouco’](https://www.nexojornal.com.br/extra/2021/07/26/Para-Bolsonaro-Mour%C3%A3o-%E2%80%98por-vezes-atrapalha-um-pouco%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
