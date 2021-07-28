@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Biles está fora da final individual para ‘focar na saúde mental’](https://www.nexojornal.com.br/extra/2021/07/28/Biles-est%C3%A1-fora-da-final-individual-para-%E2%80%98focar-na-sa%C3%BAde-mental%E2%80%99)
-- [Do que vivem os atletas brasileiros que estão na Olimpíada](https://www.nexojornal.com.br/expresso/2021/07/27/Do-que-vivem-os-atletas-brasileiros-que-est%C3%A3o-na-Olimp%C3%ADada)
-- [‘Eventos climáticos extremos intensificam as desigualdades’](https://www.nexojornal.com.br/entrevista/2021/07/27/%E2%80%98Eventos-clim%C3%A1ticos-extremos-intensificam-as-desigualdades%E2%80%99)
-- [Haddad é absolvido de acusação de caixa 2 nas eleições de 2012](https://www.nexojornal.com.br/extra/2021/07/27/Haddad-%C3%A9-absolvido-de-acusa%C3%A7%C3%A3o-de-caixa-2-nas-elei%C3%A7%C3%B5es-de-2012)
-- [Abertura Olímpica de Tóquio mostra que o novo sempre vem](https://www.nexojornal.com.br/colunistas/2021/Abertura-Ol%C3%ADmpica-de-T%C3%B3quio-mostra-que-o-novo-sempre-vem)
+- [EUA voltam a indicar máscara para vacinados em locais fechados](https://www.nexojornal.com.br/extra/2021/07/27/EUA-voltam-a-indicar-m%C3%A1scara-para-vacinados-em-locais-fechados)
+- [Como é o museu online dos sons antigos da internet](https://www.nexojornal.com.br/expresso/2021/07/27/Como-%C3%A9-o-museu-online-dos-sons-antigos-da-internet)
+- [A Olimpíada rejuvenesce. E o Brasil surfa nessa onda](https://www.nexojornal.com.br/podcast/2021/07/27/A-Olimp%C3%ADada-rejuvenesce.-E-o-Brasil-surfa-nessa-onda)
+- [A HQ sobre Che Guevara censurada pela ditadura argentina](https://www.nexojornal.com.br/expresso/2021/07/27/A-HQ-sobre-Che-Guevara-censurada-pela-ditadura-argentina)
+- [Morre aos 91 anos o professor José Arthur Giannotti](https://www.nexojornal.com.br/extra/2021/07/27/Morre-aos-91-anos-o-professor-Jos%C3%A9-Arthur-Giannotti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
