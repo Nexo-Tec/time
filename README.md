@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil ganha ouro no surfe e bronze na natação](https://www.nexojornal.com.br/extra/2021/07/27/Brasil-ganha-ouro-no-surfe-e-bronze-na-nata%C3%A7%C3%A3o)
-- [Um flecha que veio de Tóquio no país dos terrivelmente racistas](https://www.nexojornal.com.br/colunistas/2021/Um-flecha-que-veio-de-T%C3%B3quio-no-pa%C3%ADs-dos-terrivelmente-racistas)
-- [O sexismo nos uniformes olímpicos. E a reação das atletas](https://www.nexojornal.com.br/expresso/2021/07/26/O-sexismo-nos-uniformes-ol%C3%ADmpicos.-E-a-rea%C3%A7%C3%A3o-das-atletas)
-- [Borba Gato e os bandeirantes: do mito à desconstrução](https://www.nexojornal.com.br/expresso/2021/07/26/Borba-Gato-e-os-bandeirantes-do-mito-%C3%A0-desconstru%C3%A7%C3%A3o)
-- [Para Bolsonaro, Mourão ‘por vezes atrapalha um pouco’](https://www.nexojornal.com.br/extra/2021/07/26/Para-Bolsonaro-Mour%C3%A3o-%E2%80%98por-vezes-atrapalha-um-pouco%E2%80%99)
+- [Biles está fora da final individual para ‘focar na saúde mental’](https://www.nexojornal.com.br/extra/2021/07/28/Biles-est%C3%A1-fora-da-final-individual-para-%E2%80%98focar-na-sa%C3%BAde-mental%E2%80%99)
+- [Do que vivem os atletas brasileiros que estão na Olimpíada](https://www.nexojornal.com.br/expresso/2021/07/27/Do-que-vivem-os-atletas-brasileiros-que-est%C3%A3o-na-Olimp%C3%ADada)
+- [‘Eventos climáticos extremos intensificam as desigualdades’](https://www.nexojornal.com.br/entrevista/2021/07/27/%E2%80%98Eventos-clim%C3%A1ticos-extremos-intensificam-as-desigualdades%E2%80%99)
+- [Haddad é absolvido de acusação de caixa 2 nas eleições de 2012](https://www.nexojornal.com.br/extra/2021/07/27/Haddad-%C3%A9-absolvido-de-acusa%C3%A7%C3%A3o-de-caixa-2-nas-elei%C3%A7%C3%B5es-de-2012)
+- [Abertura Olímpica de Tóquio mostra que o novo sempre vem](https://www.nexojornal.com.br/colunistas/2021/Abertura-Ol%C3%ADmpica-de-T%C3%B3quio-mostra-que-o-novo-sempre-vem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
