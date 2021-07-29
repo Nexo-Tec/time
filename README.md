@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Não desista de se exercitar no frio](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/dicas-exercicio-frio/)
-- [Os “gatos” em Borba](https://gamarevista.uol.com.br/colunistas/marcello-dantas/os-gatos-em-borba/)
-- [Jarra de Abacaxi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/jarra-de-abacaxi/)
-- [Livros para pensar o presente](https://gamarevista.uol.com.br/cultura/livros-para-pensar-o-presente/)
-- [Rayssa Leal, 13 anos e 203 dias](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/rayssa-leal-13-anos-e-203-dias/)
+- [Museu da Língua Portuguesa reabre em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/museu-da-lingua-portuguesa-reabre-em-sao-paulo/)
+- [“Drama”, o novo álbum de Rodrigo Amarante](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/drama-o-novo-album-de-rodrigo-amarante/)
+- [“Generation” encara as contradições da adolescência](https://gamarevista.uol.com.br/achamos-que-vale/assistir/generation-nova-serie-do-hbo-max/)
+- [Pode a arte dizer não?](https://gamarevista.uol.com.br/achamos-que-vale/ir/pode-a-arte-dizer-nao/)
+- [A obra de Salinger em uma caixa](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-obra-de-salinger-em-uma-caixa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
