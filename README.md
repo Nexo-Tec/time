@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil cai em ranking de liberdade de expressão](https://www.nexojornal.com.br/extra/2021/07/29/Brasil-cai-em-ranking-de-liberdade-de-express%C3%A3o)
-- [Mayra Aguiar leva bronze no judô e soma sua 3ª medalha olímpica](https://www.nexojornal.com.br/extra/2021/07/29/Mayra-Aguiar-leva-bronze-no-jud%C3%B4-e-soma-sua-3%C2%AA-medalha-ol%C3%ADmpica)
-- [A ampliação do cerco ao professor da USP que critica autoridades](https://www.nexojornal.com.br/expresso/2021/07/28/A-amplia%C3%A7%C3%A3o-do-cerco-ao-professor-da-USP-que-critica-autoridades)
-- [O veto de Bolsonaro ao custeio privado do tratamento de câncer](https://www.nexojornal.com.br/expresso/2021/07/28/O-veto-de-Bolsonaro-ao-custeio-privado-do-tratamento-de-c%C3%A2ncer)
-- [Quando a desistência passa a ser uma opção para atletas de ponta](https://www.nexojornal.com.br/expresso/2021/07/28/Quando-a-desist%C3%AAncia-passa-a-ser-uma-op%C3%A7%C3%A3o-para-atletas-de-ponta)
+- [O caminho até séries terem orçamentos gigantescos](https://www.nexojornal.com.br/expresso/2021/07/28/O-caminho-at%C3%A9-s%C3%A9ries-terem-or%C3%A7amentos-gigantescos)
+- [Ator de ’Better Call Saul’ tem quadro estável após infarto em set](https://www.nexojornal.com.br/extra/2021/07/28/Ator-de-%E2%80%99Better-Call-Saul%E2%80%99-tem-quadro-est%C3%A1vel-ap%C3%B3s-infarto-em-set)
+- [A posição contrária de Lula ao imposto sobre grandes fortunas](https://www.nexojornal.com.br/podcast/2021/07/28/A-posi%C3%A7%C3%A3o-contr%C3%A1ria-de-Lula-ao-imposto-sobre-grandes-fortunas)
+- [Incêndio do Borba Gato foi ‘para abrir debate’, diz ativista preso](https://www.nexojornal.com.br/extra/2021/07/28/Inc%C3%AAndio-do-Borba-Gato-foi-%E2%80%98para-abrir-debate%E2%80%99-diz-ativista-preso)
+- [Castillo toma posse no Peru e defende nova Constituição](https://www.nexojornal.com.br/extra/2021/07/28/Castillo-toma-posse-no-Peru-e-defende-nova-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
