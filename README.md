@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como se dá a perda de aprendizagem durante a pandemia](https://pp.nexojornal.com.br/topico/2021/07/28/Como-se-d%C3%A1-a-perda-de-aprendizagem-durante-a-pandemia)
+- [Orçamento público e combate às desigualdades nas cidades](https://pp.nexojornal.com.br/glossario/Or%C3%A7amento-p%C3%BAblico-e-combate-%C3%A0s-desigualdades-nas-cidades)
+- [A relevância da coordenação federal na redução de desigualdades: o caso da assistência social](https://pp.nexojornal.com.br/opiniao/2021/A-relev%C3%A2ncia-da-coordena%C3%A7%C3%A3o-federal-na-redu%C3%A7%C3%A3o-de-desigualdades-o-caso-da-assist%C3%AAncia-social)
+- [Michele Dechoum: os impactos de espécies exóticas invasoras](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/07/28/Michele-Dechoum-os-impactos-de-esp%C3%A9cies-ex%C3%B3ticas-invasoras)
 - [Mundo neutro em carbono em 2050: a perspectiva do Norte Global](https://pp.nexojornal.com.br/opiniao/2021/Mundo-neutro-em-carbono-em-2050-a-perspectiva-do-Norte-Global)
-- [Comunicação e saúde](https://pp.nexojornal.com.br/glossario/Comunica%C3%A7%C3%A3o-e-sa%C3%BAde)
-- [As desigualdades que não cabem nos estudos de estratificação](https://pp.nexojornal.com.br/ponto-de-vista/2021/As-desigualdades-que-n%C3%A3o-cabem-nos-estudos-de-estratifica%C3%A7%C3%A3o)
-- [O retrocesso da grande estratégia geopolítica brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-retrocesso-da-grande-estrat%C3%A9gia-geopol%C3%ADtica-brasileira)
-- [Dia Internacional da Agricultura Familiar: entre a celebração e o alerta](https://pp.nexojornal.com.br/opiniao/2021/Dia-Internacional-da-Agricultura-Familiar-entre-a-celebra%C3%A7%C3%A3o-e-o-alerta)
 <!-- PP_LIST:END -->
 
