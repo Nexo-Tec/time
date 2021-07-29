@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Não desista de se exercitar no frio](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/dicas-exercicio-frio/)
 - [Os “gatos” em Borba](https://gamarevista.uol.com.br/colunistas/marcello-dantas/os-gatos-em-borba/)
 - [Jarra de Abacaxi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/jarra-de-abacaxi/)
 - [Livros para pensar o presente](https://gamarevista.uol.com.br/cultura/livros-para-pensar-o-presente/)
 - [Rayssa Leal, 13 anos e 203 dias](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/rayssa-leal-13-anos-e-203-dias/)
-- [@rayssalealsk8](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rayssalealsk8/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
