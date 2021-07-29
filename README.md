@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Biles está fora da final individual para ‘focar na saúde mental’](https://www.nexojornal.com.br/extra/2021/07/28/Biles-est%C3%A1-fora-da-final-individual-para-%E2%80%98focar-na-sa%C3%BAde-mental%E2%80%99)
-- [Do que vivem os atletas brasileiros que estão na Olimpíada](https://www.nexojornal.com.br/expresso/2021/07/27/Do-que-vivem-os-atletas-brasileiros-que-est%C3%A3o-na-Olimp%C3%ADada)
-- [‘Eventos climáticos extremos intensificam as desigualdades’](https://www.nexojornal.com.br/entrevista/2021/07/27/%E2%80%98Eventos-clim%C3%A1ticos-extremos-intensificam-as-desigualdades%E2%80%99)
-- [Haddad é absolvido de acusação de caixa 2 nas eleições de 2012](https://www.nexojornal.com.br/extra/2021/07/27/Haddad-%C3%A9-absolvido-de-acusa%C3%A7%C3%A3o-de-caixa-2-nas-elei%C3%A7%C3%B5es-de-2012)
-- [Abertura Olímpica de Tóquio mostra que o novo sempre vem](https://www.nexojornal.com.br/colunistas/2021/Abertura-Ol%C3%ADmpica-de-T%C3%B3quio-mostra-que-o-novo-sempre-vem)
+- [O caminho até séries terem orçamentos gigantescos](https://www.nexojornal.com.br/expresso/2021/07/28/O-caminho-at%C3%A9-s%C3%A9ries-terem-or%C3%A7amentos-gigantescos)
+- [Ator de ’Better Call Saul’ tem quadro estável após infarto em set](https://www.nexojornal.com.br/extra/2021/07/28/Ator-de-%E2%80%99Better-Call-Saul%E2%80%99-tem-quadro-est%C3%A1vel-ap%C3%B3s-infarto-em-set)
+- [A posição contrária de Lula ao imposto sobre grandes fortunas](https://www.nexojornal.com.br/podcast/2021/07/28/A-posi%C3%A7%C3%A3o-contr%C3%A1ria-de-Lula-ao-imposto-sobre-grandes-fortunas)
+- [Incêndio do Borba Gato foi ‘para abrir debate’, diz ativista preso](https://www.nexojornal.com.br/extra/2021/07/28/Inc%C3%AAndio-do-Borba-Gato-foi-%E2%80%98para-abrir-debate%E2%80%99-diz-ativista-preso)
+- [Castillo toma posse no Peru e defende nova Constituição](https://www.nexojornal.com.br/extra/2021/07/28/Castillo-toma-posse-no-Peru-e-defende-nova-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
