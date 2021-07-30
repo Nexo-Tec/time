@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pazuello diz à PF que apurou caso Covaxin de maneira informal](https://www.nexojornal.com.br/extra/2021/07/29/Pazuello-diz-%C3%A0-PF-que-apurou-caso-Covaxin-de-maneira-informal)
-- [Como efetivamente ajudar quem tem fome?](https://www.nexojornal.com.br/podcast/2021/07/29/Como-efetivamente-ajudar-quem-tem-fome)
-- [Olavo de Carvalho: os percalços do guru bolsonarista](https://www.nexojornal.com.br/podcast/2021/07/29/Olavo-de-Carvalho-os-percal%C3%A7os-do-guru-bolsonarista)
-- [O aplicativo que identifica pássaros pelo som](https://www.nexojornal.com.br/expresso/2021/07/29/O-aplicativo-que-identifica-p%C3%A1ssaros-pelo-som)
-- [Incêndio atinge depósito da Cinemateca Brasileira](https://www.nexojornal.com.br/extra/2021/07/29/Inc%C3%AAndio-atinge-dep%C3%B3sito-da-Cinemateca-Brasileira)
+- [Brasil cai em ranking de liberdade de expressão](https://www.nexojornal.com.br/extra/2021/07/29/Brasil-cai-em-ranking-de-liberdade-de-express%C3%A3o)
+- [Mayra Aguiar leva bronze no judô e soma sua 3ª medalha olímpica](https://www.nexojornal.com.br/extra/2021/07/29/Mayra-Aguiar-leva-bronze-no-jud%C3%B4-e-soma-sua-3%C2%AA-medalha-ol%C3%ADmpica)
+- [A ampliação do cerco ao professor da USP que critica autoridades](https://www.nexojornal.com.br/expresso/2021/07/28/A-amplia%C3%A7%C3%A3o-do-cerco-ao-professor-da-USP-que-critica-autoridades)
+- [O veto de Bolsonaro ao custeio privado do tratamento de câncer](https://www.nexojornal.com.br/expresso/2021/07/28/O-veto-de-Bolsonaro-ao-custeio-privado-do-tratamento-de-c%C3%A2ncer)
+- [Quando a desistência passa a ser uma opção para atletas de ponta](https://www.nexojornal.com.br/expresso/2021/07/28/Quando-a-desist%C3%AAncia-passa-a-ser-uma-op%C3%A7%C3%A3o-para-atletas-de-ponta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
