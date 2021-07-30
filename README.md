@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caminho até séries terem orçamentos gigantescos](https://www.nexojornal.com.br/expresso/2021/07/28/O-caminho-at%C3%A9-s%C3%A9ries-terem-or%C3%A7amentos-gigantescos)
-- [Ator de ’Better Call Saul’ tem quadro estável após infarto em set](https://www.nexojornal.com.br/extra/2021/07/28/Ator-de-%E2%80%99Better-Call-Saul%E2%80%99-tem-quadro-est%C3%A1vel-ap%C3%B3s-infarto-em-set)
-- [A posição contrária de Lula ao imposto sobre grandes fortunas](https://www.nexojornal.com.br/podcast/2021/07/28/A-posi%C3%A7%C3%A3o-contr%C3%A1ria-de-Lula-ao-imposto-sobre-grandes-fortunas)
-- [Incêndio do Borba Gato foi ‘para abrir debate’, diz ativista preso](https://www.nexojornal.com.br/extra/2021/07/28/Inc%C3%AAndio-do-Borba-Gato-foi-%E2%80%98para-abrir-debate%E2%80%99-diz-ativista-preso)
-- [Castillo toma posse no Peru e defende nova Constituição](https://www.nexojornal.com.br/extra/2021/07/28/Castillo-toma-posse-no-Peru-e-defende-nova-Constitui%C3%A7%C3%A3o)
+- [Pazuello diz à PF que apurou caso Covaxin de maneira informal](https://www.nexojornal.com.br/extra/2021/07/29/Pazuello-diz-%C3%A0-PF-que-apurou-caso-Covaxin-de-maneira-informal)
+- [Como efetivamente ajudar quem tem fome?](https://www.nexojornal.com.br/podcast/2021/07/29/Como-efetivamente-ajudar-quem-tem-fome)
+- [Olavo de Carvalho: os percalços do guru bolsonarista](https://www.nexojornal.com.br/podcast/2021/07/29/Olavo-de-Carvalho-os-percal%C3%A7os-do-guru-bolsonarista)
+- [O aplicativo que identifica pássaros pelo som](https://www.nexojornal.com.br/expresso/2021/07/29/O-aplicativo-que-identifica-p%C3%A1ssaros-pelo-som)
+- [Incêndio atinge depósito da Cinemateca Brasileira](https://www.nexojornal.com.br/extra/2021/07/29/Inc%C3%AAndio-atinge-dep%C3%B3sito-da-Cinemateca-Brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
