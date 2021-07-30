@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma sopa para cada dia da semana](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/receitas-de-sopas-para-esquentar-o-inverno/)
 - [Museu da Língua Portuguesa reabre em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/museu-da-lingua-portuguesa-reabre-em-sao-paulo/)
 - [“Drama”, o novo álbum de Rodrigo Amarante](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/drama-o-novo-album-de-rodrigo-amarante/)
 - [“Generation” encara as contradições da adolescência](https://gamarevista.uol.com.br/achamos-que-vale/assistir/generation-nova-serie-do-hbo-max/)
 - [Pode a arte dizer não?](https://gamarevista.uol.com.br/achamos-que-vale/ir/pode-a-arte-dizer-nao/)
-- [A obra de Salinger em uma caixa](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-obra-de-salinger-em-uma-caixa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
