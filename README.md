@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pazuello diz à PF que apurou caso Covaxin de maneira informal](https://www.nexojornal.com.br/extra/2021/07/29/Pazuello-diz-%C3%A0-PF-que-apurou-caso-Covaxin-de-maneira-informal)
-- [Como efetivamente ajudar quem tem fome?](https://www.nexojornal.com.br/podcast/2021/07/29/Como-efetivamente-ajudar-quem-tem-fome)
-- [Olavo de Carvalho: os percalços do guru bolsonarista](https://www.nexojornal.com.br/podcast/2021/07/29/Olavo-de-Carvalho-os-percal%C3%A7os-do-guru-bolsonarista)
-- [O aplicativo que identifica pássaros pelo som](https://www.nexojornal.com.br/expresso/2021/07/29/O-aplicativo-que-identifica-p%C3%A1ssaros-pelo-som)
-- [Incêndio atinge depósito da Cinemateca Brasileira](https://www.nexojornal.com.br/extra/2021/07/29/Inc%C3%AAndio-atinge-dep%C3%B3sito-da-Cinemateca-Brasileira)
+- [Os filmes que registram a história e as ameaças aos Yanomami](https://www.nexojornal.com.br/expresso/2021/07/30/Os-filmes-que-registram-a-hist%C3%B3ria-e-as-amea%C3%A7as-aos-Yanomami1)
+- [Diante do desemprego que não cai, Guedes ataca IBGE](https://www.nexojornal.com.br/extra/2021/07/30/Diante-do-desemprego-que-n%C3%A3o-cai-Guedes-ataca-IBGE)
+- [Disney diz que processo de Scarlett Johansson ‘despreza’ pandemia](https://www.nexojornal.com.br/extra/2021/07/30/Disney-diz-que-processo-de-Scarlett-Johansson-%E2%80%98despreza%E2%80%99-pandemia)
+- [‘Vestígios’: histórias sobre as marcas do tempo e do cotidiano](https://www.nexojornal.com.br/estante/trechos/2021/07/30/%E2%80%98Vest%C3%ADgios%E2%80%99-hist%C3%B3rias-sobre-as-marcas-do-tempo-e-do-cotidiano)
+- [União Europeia multa Amazon por violar proteção de dados](https://www.nexojornal.com.br/extra/2021/07/30/Uni%C3%A3o-Europeia-multa-Amazon-por-violar-prote%C3%A7%C3%A3o-de-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
