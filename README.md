@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a  presença da mulher na política é essencial](https://www.nexojornal.com.br/colunistas/tribuna/2021/Por-que-a-presen%C3%A7a-da-mulher-na-pol%C3%ADtica-%C3%A9-essencial)
-- [O retorno do Gawker. E sua marca no jornalismo digital](https://www.nexojornal.com.br/expresso/2021/07/30/O-retorno-do-Gawker.-E-sua-marca-no-jornalismo-digital)
-- [Justiça liberta esposa de ativista preso por incendiar Borba Gato](https://www.nexojornal.com.br/extra/2021/07/30/Justi%C3%A7a-liberta-esposa-de-ativista-preso-por-incendiar-Borba-Gato)
-- [Polícia acha ossos e investiga se são de meninos de Belford Roxo](https://www.nexojornal.com.br/extra/2021/07/30/Pol%C3%ADcia-acha-ossos-e-investiga-se-s%C3%A3o-de-meninos-de-Belford-Roxo)
-- [Moraes manda PF retomar inquérito sobre interferência de Bolsonaro](https://www.nexojornal.com.br/extra/2021/07/30/Moraes-manda-PF-retomar-inqu%C3%A9rito-sobre-interfer%C3%AAncia-de-Bolsonaro)
+- [Os filmes que registram a história e as ameaças aos Yanomami](https://www.nexojornal.com.br/expresso/2021/07/30/Os-filmes-que-registram-a-hist%C3%B3ria-e-as-amea%C3%A7as-aos-Yanomami1)
+- [Diante do desemprego que não cai, Guedes ataca IBGE](https://www.nexojornal.com.br/extra/2021/07/30/Diante-do-desemprego-que-n%C3%A3o-cai-Guedes-ataca-IBGE)
+- [Disney diz que processo de Scarlett Johansson ‘despreza’ pandemia](https://www.nexojornal.com.br/extra/2021/07/30/Disney-diz-que-processo-de-Scarlett-Johansson-%E2%80%98despreza%E2%80%99-pandemia)
+- [‘Vestígios’: histórias sobre as marcas do tempo e do cotidiano](https://www.nexojornal.com.br/estante/trechos/2021/07/30/%E2%80%98Vest%C3%ADgios%E2%80%99-hist%C3%B3rias-sobre-as-marcas-do-tempo-e-do-cotidiano)
+- [União Europeia multa Amazon por violar proteção de dados](https://www.nexojornal.com.br/extra/2021/07/30/Uni%C3%A3o-Europeia-multa-Amazon-por-violar-prote%C3%A7%C3%A3o-de-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
