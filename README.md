@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pazuello diz à PF que apurou caso Covaxin de maneira informal](https://www.nexojornal.com.br/extra/2021/07/29/Pazuello-diz-%C3%A0-PF-que-apurou-caso-Covaxin-de-maneira-informal)
-- [Como efetivamente ajudar quem tem fome?](https://www.nexojornal.com.br/podcast/2021/07/29/Como-efetivamente-ajudar-quem-tem-fome)
-- [Olavo de Carvalho: os percalços do guru bolsonarista](https://www.nexojornal.com.br/podcast/2021/07/29/Olavo-de-Carvalho-os-percal%C3%A7os-do-guru-bolsonarista)
-- [O aplicativo que identifica pássaros pelo som](https://www.nexojornal.com.br/expresso/2021/07/29/O-aplicativo-que-identifica-p%C3%A1ssaros-pelo-som)
-- [Incêndio atinge depósito da Cinemateca Brasileira](https://www.nexojornal.com.br/extra/2021/07/29/Inc%C3%AAndio-atinge-dep%C3%B3sito-da-Cinemateca-Brasileira)
+- [Por que a  presença da mulher na política é essencial](https://www.nexojornal.com.br/colunistas/tribuna/2021/Por-que-a-presen%C3%A7a-da-mulher-na-pol%C3%ADtica-%C3%A9-essencial)
+- [O retorno do Gawker. E sua marca no jornalismo digital](https://www.nexojornal.com.br/expresso/2021/07/30/O-retorno-do-Gawker.-E-sua-marca-no-jornalismo-digital)
+- [Justiça liberta esposa de ativista preso por incendiar Borba Gato](https://www.nexojornal.com.br/extra/2021/07/30/Justi%C3%A7a-liberta-esposa-de-ativista-preso-por-incendiar-Borba-Gato)
+- [Polícia acha ossos e investiga se são de meninos de Belford Roxo](https://www.nexojornal.com.br/extra/2021/07/30/Pol%C3%ADcia-acha-ossos-e-investiga-se-s%C3%A3o-de-meninos-de-Belford-Roxo)
+- [Moraes manda PF retomar inquérito sobre interferência de Bolsonaro](https://www.nexojornal.com.br/extra/2021/07/30/Moraes-manda-PF-retomar-inqu%C3%A9rito-sobre-interfer%C3%AAncia-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
