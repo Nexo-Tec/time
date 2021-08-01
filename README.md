@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Editora lança coleção completa de Horácio, de Mauricio de Sousa](https://www.nexojornal.com.br/extra/2021/08/01/Editora-lan%C3%A7a-cole%C3%A7%C3%A3o-completa-de-Hor%C3%A1cio-de-Mauricio-de-Sousa)
+- [Bolsonaro volta a ameaçar eleições em ato por voto impresso](https://www.nexojornal.com.br/extra/2021/08/01/Bolsonaro-volta-a-amea%C3%A7ar-elei%C3%A7%C3%B5es-em-ato-por-voto-impresso)
+- [Brasileiro Bruno Fratus conquista medalha de bronze na natação](https://www.nexojornal.com.br/extra/2021/08/01/Brasileiro-Bruno-Fratus-conquista-medalha-de-bronze-na-nata%C3%A7%C3%A3o)
+- [Rebeca leva ouro e é 1ª brasileira com 2 medalhas numa só Olimpíada](https://www.nexojornal.com.br/extra/2021/08/01/Rebeca-leva-ouro-e-%C3%A9-1%C2%AA-brasileira-com-2-medalhas-numa-s%C3%B3-Olimp%C3%ADada)
 - [A galeria online com quadros fotografados em altíssima resolução](https://www.nexojornal.com.br/expresso/2021/07/31/A-galeria-online-com-quadros-fotografados-em-alt%C3%ADssima-resolu%C3%A7%C3%A3o)
-- [5 livros para entender o problema da desinformação](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-entender-o-problema-da-desinforma%C3%A7%C3%A3o)
-- [Um guia sobre o papel dos manguezais no meio ambiente](https://www.nexojornal.com.br/expresso/2021/07/31/Um-guia-sobre-o-papel-dos-manguezais-no-meio-ambiente)
-- [Como a Alemanha virou uma arapuca para criminosos de guerra](https://www.nexojornal.com.br/expresso/2021/07/31/Como-a-Alemanha-virou-uma-arapuca-para-criminosos-de-guerra)
-- [Homenagem à Marielle Franco é restaurada depois de vandalismo](https://www.nexojornal.com.br/extra/2021/07/31/Homenagem-%C3%A0-Marielle-Franco-%C3%A9-restaurada-depois-de-vandalismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
