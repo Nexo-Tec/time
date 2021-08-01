@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A galeria online com quadros fotografados em altíssima resolução](https://www.nexojornal.com.br/expresso/2021/07/31/A-galeria-online-com-quadros-fotografados-em-alt%C3%ADssima-resolu%C3%A7%C3%A3o)
-- [5 livros para entender o problema da desinformação](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-entender-o-problema-da-desinforma%C3%A7%C3%A3o)
-- [Um guia sobre o papel dos manguezais no meio ambiente](https://www.nexojornal.com.br/expresso/2021/07/31/Um-guia-sobre-o-papel-dos-manguezais-no-meio-ambiente)
-- [Como a Alemanha virou uma arapuca para criminosos de guerra](https://www.nexojornal.com.br/expresso/2021/07/31/Como-a-Alemanha-virou-uma-arapuca-para-criminosos-de-guerra)
-- [Homenagem à Marielle Franco é restaurada depois de vandalismo](https://www.nexojornal.com.br/extra/2021/07/31/Homenagem-%C3%A0-Marielle-Franco-%C3%A9-restaurada-depois-de-vandalismo)
+- [Museu da Língua Portuguesa é reaberto em São Paulo](https://www.nexojornal.com.br/extra/2021/07/31/Museu-da-L%C3%ADngua-Portuguesa-%C3%A9-reaberto-em-S%C3%A3o-Paulo)
+- [Centrão faz apelo por moderação. E Bolsonaro ignora](https://www.nexojornal.com.br/extra/2021/07/31/Centr%C3%A3o-faz-apelo-por-modera%C3%A7%C3%A3o.-E-Bolsonaro-ignora)
+- [Brasileiras conquistam medalha olímpica inédita no tênis](https://www.nexojornal.com.br/extra/2021/07/31/Brasileiras-conquistam-medalha-ol%C3%ADmpica-in%C3%A9dita-no-t%C3%AAnis)
+- [‘Falar da Cinemateca Brasileira é falar de uma emergência’](https://www.nexojornal.com.br/entrevista/2021/07/30/%E2%80%98Falar-da-Cinemateca-Brasileira-%C3%A9-falar-de-uma-emerg%C3%AAncia%E2%80%99)
+- [Por que a  presença da mulher na política é essencial](https://www.nexojornal.com.br/colunistas/tribuna/2021/Por-que-a-presen%C3%A7a-da-mulher-na-pol%C3%ADtica-%C3%A9-essencial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
