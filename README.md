@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A galeria online com quadros fotografados em altíssima resolução](https://www.nexojornal.com.br/expresso/2021/07/31/A-galeria-online-com-quadros-fotografados-em-alt%C3%ADssima-resolu%C3%A7%C3%A3o)
-- [5 livros para entender o problema da desinformação](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-entender-o-problema-da-desinforma%C3%A7%C3%A3o)
-- [Um guia sobre o papel dos manguezais no meio ambiente](https://www.nexojornal.com.br/expresso/2021/07/31/Um-guia-sobre-o-papel-dos-manguezais-no-meio-ambiente)
-- [Como a Alemanha virou uma arapuca para criminosos de guerra](https://www.nexojornal.com.br/expresso/2021/07/31/Como-a-Alemanha-virou-uma-arapuca-para-criminosos-de-guerra)
-- [Homenagem à Marielle Franco é restaurada depois de vandalismo](https://www.nexojornal.com.br/extra/2021/07/31/Homenagem-%C3%A0-Marielle-Franco-%C3%A9-restaurada-depois-de-vandalismo)
+- [Hebert Conceição garante a 2ª medalha do boxe brasileiro](https://www.nexojornal.com.br/extra/2021/08/01/Hebert-Concei%C3%A7%C3%A3o-garante-a-2%C2%AA-medalha-do-boxe-brasileiro)
+- [CPI avalia quebra de sigilo de Jovem Pan e sites bolsonaristas](https://www.nexojornal.com.br/extra/2021/08/01/CPI-avalia-quebra-de-sigilo-de-Jovem-Pan-e-sites-bolsonaristas)
+- [‘Brasil foi chave para surgimento da nova direita nas Américas’](https://www.nexojornal.com.br/entrevista/2021/08/01/%E2%80%98Brasil-foi-chave-para-surgimento-da-nova-direita-nas-Am%C3%A9ricas%E2%80%99)
+- [De onde vem o amargor (oculto) da produção do chocolate](https://www.nexojornal.com.br/ensaio/2021/De-onde-vem-o-amargor-oculto-da-produ%C3%A7%C3%A3o-do-chocolate)
+- [O que faz um general. E como ele é formado no Brasil](https://www.nexojornal.com.br/expresso/2021/08/01/O-que-faz-um-general.-E-como-ele-%C3%A9-formado-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
