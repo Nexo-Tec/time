@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desenvolvimento econômico, direitos sociais e alimentação no Brasil](https://pp.nexojornal.com.br/opiniao/2021/Desenvolvimento-econ%C3%B4mico-direitos-sociais-e-alimenta%C3%A7%C3%A3o-no-Brasil)
 - [9 perguntas que a ciência já respondeu sobre os oceanos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-os-oceanos)
 - [Cartas sobre a tortura: perspectivas dos socialmente marginalizados](https://pp.nexojornal.com.br/opiniao/2021/Cartas-sobre-a-tortura-perspectivas-dos-socialmente-marginalizados)
 - [Desafios para a mobilidade urbana na era da Indústria 4.0](https://pp.nexojornal.com.br/ponto-de-vista/2021/Desafios-para-a-mobilidade-urbana-na-era-da-Ind%C3%BAstria-4.0)
 - [Como se dá a perda de aprendizagem durante a pandemia](https://pp.nexojornal.com.br/topico/2021/07/28/Como-se-d%C3%A1-a-perda-de-aprendizagem-durante-a-pandemia)
-- [Orçamento público e combate às desigualdades nas cidades](https://pp.nexojornal.com.br/glossario/Or%C3%A7amento-p%C3%BAblico-e-combate-%C3%A0s-desigualdades-nas-cidades)
 <!-- PP_LIST:END -->
 
