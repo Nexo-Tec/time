@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sambando na lama de sapato branco](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/sambando-na-lama-de-sapato-branco/)
 - [@matosdecomer](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/matosdecomer/)
 - [Daniel Munduruku: ‘Voltamos à ótica militar dos anos 1980’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniel-munduruku-de-quem-e-a-causa-indigena/)
 - [Leandro Karnal](https://gamarevista.uol.com.br/pessoas/questionario-proust/leandro-karnal/)
 - [Ruy Ohtake, Arquiteto](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ruy-ohtake-arquiteto/)
-- [Uma sopa para cada dia da semana](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/receitas-de-sopas-para-esquentar-o-inverno/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
