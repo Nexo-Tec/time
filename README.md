@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os riscos da volta às aulas no atual estágio da pandemia](https://www.nexojornal.com.br/expresso/2021/08/02/Os-riscos-da-volta-%C3%A0s-aulas-no-atual-est%C3%A1gio-da-pandemia)
+- [O que a 1ª mulher trans na Olimpíada projeta para futuras gerações](https://www.nexojornal.com.br/expresso/2021/08/02/O-que-a-1%C2%AA-mulher-trans-na-Olimp%C3%ADada-projeta-para-futuras-gera%C3%A7%C3%B5es)
+- [As manifestações políticas dos atletas na Olimpíada de Tóquio](https://www.nexojornal.com.br/expresso/2021/08/02/As-manifesta%C3%A7%C3%B5es-pol%C3%ADticas-dos-atletas-na-Olimp%C3%ADada-de-T%C3%B3quio)
+- [Brasil e Paraguai investigam possível ação de grupo de extermínio](https://www.nexojornal.com.br/extra/2021/08/02/Brasil-e-Paraguai-investigam-poss%C3%ADvel-a%C3%A7%C3%A3o-de-grupo-de-exterm%C3%ADnio)
 - [História pela metade: os desbravadores e mercenários violentos](https://www.nexojornal.com.br/colunistas/2021/Hist%C3%B3ria-pela-metade-os-desbravadores-e-mercen%C3%A1rios-violentos)
-- [Governo discute plano de novo Bolsa Família com Lira e Pacheco](https://www.nexojornal.com.br/extra/2021/08/02/Governo-discute-plano-de-novo-Bolsa-Fam%C3%ADlia-com-Lira-e-Pacheco)
-- [Caixas misteriosas aparecem em praia de Salvador](https://www.nexojornal.com.br/extra/2021/08/02/Caixas-misteriosas-aparecem-em-praia-de-Salvador)
-- [Como um meme fez uma música dos anos 80 ter 1 bilhão de cliques](https://www.nexojornal.com.br/expresso/2021/08/02/Como-um-meme-fez-uma-m%C3%BAsica-dos-anos-80-ter-1-bilh%C3%A3o-de-cliques)
-- [O que é um cristal do tempo. E como ele pode ser  revolucionário](https://www.nexojornal.com.br/expresso/2021/08/02/O-que-%C3%A9-um-cristal-do-tempo.-E-como-ele-pode-ser-revolucion%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
