@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Hebert Conceição garante a 2ª medalha do boxe brasileiro](https://www.nexojornal.com.br/extra/2021/08/01/Hebert-Concei%C3%A7%C3%A3o-garante-a-2%C2%AA-medalha-do-boxe-brasileiro)
-- [CPI avalia quebra de sigilo de Jovem Pan e sites bolsonaristas](https://www.nexojornal.com.br/extra/2021/08/01/CPI-avalia-quebra-de-sigilo-de-Jovem-Pan-e-sites-bolsonaristas)
-- [‘Brasil foi chave para surgimento da nova direita nas Américas’](https://www.nexojornal.com.br/entrevista/2021/08/01/%E2%80%98Brasil-foi-chave-para-surgimento-da-nova-direita-nas-Am%C3%A9ricas%E2%80%99)
-- [De onde vem o amargor (oculto) da produção do chocolate](https://www.nexojornal.com.br/ensaio/2021/De-onde-vem-o-amargor-oculto-da-produ%C3%A7%C3%A3o-do-chocolate)
-- [O que faz um general. E como ele é formado no Brasil](https://www.nexojornal.com.br/expresso/2021/08/01/O-que-faz-um-general.-E-como-ele-%C3%A9-formado-no-Brasil)
+- [História pela metade: os desbravadores e mercenários violentos](https://www.nexojornal.com.br/colunistas/2021/Hist%C3%B3ria-pela-metade-os-desbravadores-e-mercen%C3%A1rios-violentos)
+- [Governo discute plano de novo Bolsa Família com Lira e Pacheco](https://www.nexojornal.com.br/extra/2021/08/02/Governo-discute-plano-de-novo-Bolsa-Fam%C3%ADlia-com-Lira-e-Pacheco)
+- [Caixas misteriosas aparecem em praia de Salvador](https://www.nexojornal.com.br/extra/2021/08/02/Caixas-misteriosas-aparecem-em-praia-de-Salvador)
+- [Como um meme fez uma música dos anos 80 ter 1 bilhão de cliques](https://www.nexojornal.com.br/expresso/2021/08/02/Como-um-meme-fez-uma-m%C3%BAsica-dos-anos-80-ter-1-bilh%C3%A3o-de-cliques)
+- [O que é um cristal do tempo. E como ele pode ser  revolucionário](https://www.nexojornal.com.br/expresso/2021/08/02/O-que-%C3%A9-um-cristal-do-tempo.-E-como-ele-pode-ser-revolucion%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
