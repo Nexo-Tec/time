@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [História pela metade: os desbravadores e mercenários violentos](https://www.nexojornal.com.br/colunistas/2021/Hist%C3%B3ria-pela-metade-os-desbravadores-e-mercen%C3%A1rios-violentos)
-- [Governo discute plano de novo Bolsa Família com Lira e Pacheco](https://www.nexojornal.com.br/extra/2021/08/02/Governo-discute-plano-de-novo-Bolsa-Fam%C3%ADlia-com-Lira-e-Pacheco)
-- [Caixas misteriosas aparecem em praia de Salvador](https://www.nexojornal.com.br/extra/2021/08/02/Caixas-misteriosas-aparecem-em-praia-de-Salvador)
-- [Como um meme fez uma música dos anos 80 ter 1 bilhão de cliques](https://www.nexojornal.com.br/expresso/2021/08/02/Como-um-meme-fez-uma-m%C3%BAsica-dos-anos-80-ter-1-bilh%C3%A3o-de-cliques)
-- [O que é um cristal do tempo. E como ele pode ser  revolucionário](https://www.nexojornal.com.br/expresso/2021/08/02/O-que-%C3%A9-um-cristal-do-tempo.-E-como-ele-pode-ser-revolucion%C3%A1rio)
+- [Ameaça às eleições: o que pode de fato acontecer com Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/03/Amea%C3%A7a-%C3%A0s-elei%C3%A7%C3%B5es-o-que-pode-de-fato-acontecer-com-Bolsonaro)
+- [De boicote à potência olímpica: a rota do ouro da China](https://www.nexojornal.com.br/expresso/2021/08/03/De-boicote-%C3%A0-pot%C3%AAncia-ol%C3%ADmpica-a-rota-do-ouro-da-China)
+- [Quais emendas ameaçam a transparência do Orçamento](https://www.nexojornal.com.br/expresso/2021/08/03/Quais-emendas-amea%C3%A7am-a-transpar%C3%AAncia-do-Or%C3%A7amento)
+- [Geração Covid: marca e marco, estigma ou distintivo?](https://www.nexojornal.com.br/colunistas/2021/Gera%C3%A7%C3%A3o-Covid-marca-e-marco-estigma-ou-distintivo)
+- [Câmara aprova ‘PL da Grilagem’, que muda regularização fundiária](https://www.nexojornal.com.br/extra/2021/08/03/C%C3%A2mara-aprova-%E2%80%98PL-da-Grilagem%E2%80%99-que-muda-regulariza%C3%A7%C3%A3o-fundi%C3%A1ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
