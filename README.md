@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Gabriela Monteleone](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gabriela-monteleone/)
-- [Para o pessoal das pautas identitárias](https://gamarevista.uol.com.br/colunistas/bianca-santana/para-o-pessoal-das-pautas-identitarias/)
-- [Medalha olímpica](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/medalha-olimpica/)
-- [Stephanie Borges: ‘Ler mulheres negras me deu coragem’](https://gamarevista.uol.com.br/sociedade/stephanie-borges-ler-mulheres-negras-me-deu-coragem/)
-- [Sambando na lama de sapato branco](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/sambando-na-lama-de-sapato-branco/)
+- [Segunda temporada de podcast conta trajetória de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-podcast-conta-trajetoria-de-rita-lee/)
+- [A assinatura de literatura feminista Clube F.](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-assinatura-de-literatura-feminista-clube-f/)
+- [O novo álbum de Billie Eilish](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-billie-eilish/)
+- [“Pray Away”, documentário sobre terapia de conversão de gays](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pray-away-documentario-sobre-terapia-de-conversao-de-gays/)
+- [Concerto inédito de Chick Corea na Osesp](https://gamarevista.uol.com.br/achamos-que-vale/assistir/concerto-inedito-de-chick-corea-na-osesp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
