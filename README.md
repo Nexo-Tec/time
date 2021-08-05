@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Gabriela Monteleone](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gabriela-monteleone/)
 - [Para o pessoal das pautas identitárias](https://gamarevista.uol.com.br/colunistas/bianca-santana/para-o-pessoal-das-pautas-identitarias/)
 - [Medalha olímpica](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/medalha-olimpica/)
 - [Stephanie Borges: ‘Ler mulheres negras me deu coragem’](https://gamarevista.uol.com.br/sociedade/stephanie-borges-ler-mulheres-negras-me-deu-coragem/)
 - [Sambando na lama de sapato branco](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/sambando-na-lama-de-sapato-branco/)
-- [@matosdecomer](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/matosdecomer/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
