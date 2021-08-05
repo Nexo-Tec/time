@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ameaça às eleições: o que pode de fato acontecer com Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/03/Amea%C3%A7a-%C3%A0s-elei%C3%A7%C3%B5es-o-que-pode-de-fato-acontecer-com-Bolsonaro)
-- [De boicote à potência olímpica: a rota do ouro da China](https://www.nexojornal.com.br/expresso/2021/08/03/De-boicote-%C3%A0-pot%C3%AAncia-ol%C3%ADmpica-a-rota-do-ouro-da-China)
-- [Quais emendas ameaçam a transparência do Orçamento](https://www.nexojornal.com.br/expresso/2021/08/03/Quais-emendas-amea%C3%A7am-a-transpar%C3%AAncia-do-Or%C3%A7amento)
-- [Geração Covid: marca e marco, estigma ou distintivo?](https://www.nexojornal.com.br/colunistas/2021/Gera%C3%A7%C3%A3o-Covid-marca-e-marco-estigma-ou-distintivo)
-- [Câmara aprova ‘PL da Grilagem’, que muda regularização fundiária](https://www.nexojornal.com.br/extra/2021/08/03/C%C3%A2mara-aprova-%E2%80%98PL-da-Grilagem%E2%80%99-que-muda-regulariza%C3%A7%C3%A3o-fundi%C3%A1ria)
+- [Os pensadores indígenas homenageados pela Flip](https://www.nexojornal.com.br/expresso/2021/08/05/Os-pensadores-ind%C3%ADgenas-homenageados-pela-Flip)
+- [A tentativa de compra paralela de vacinas da Astrazeneca](https://www.nexojornal.com.br/expresso/2021/08/04/A-tentativa-de-compra-paralela-de-vacinas-da-Astrazeneca)
+- [Os atletas estrangeiros que representam o Brasil nas Olímpiadas](https://www.nexojornal.com.br/academico/2021/08/04/Os-atletas-estrangeiros-que-representam-o-Brasil-nas-Ol%C3%ADmpiadas)
+- [ABL inclui ‘covid-19’ e outros termos em banco de palavras](https://www.nexojornal.com.br/extra/2021/08/04/ABL-inclui-%E2%80%98covid-19%E2%80%99-e-outros-termos-em-banco-de-palavras)
+- [Por escrito ao TSE, Bolsonaro diz que não ataca segurança das urnas](https://www.nexojornal.com.br/extra/2021/08/04/Por-escrito-ao-TSE-Bolsonaro-diz-que-n%C3%A3o-ataca-seguran%C3%A7a-das-urnas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
