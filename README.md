@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os ataques de Bolsonaro ao Supremo num novo patamar](https://www.nexojornal.com.br/expresso/2021/08/05/Os-ataques-de-Bolsonaro-ao-Supremo-num-novo-patamar)
 - [Os pensadores indígenas homenageados pela Flip](https://www.nexojornal.com.br/expresso/2021/08/05/Os-pensadores-ind%C3%ADgenas-homenageados-pela-Flip)
-- [A tentativa de compra paralela de vacinas da AstraZeneca](https://www.nexojornal.com.br/expresso/2021/08/04/A-tentativa-de-compra-paralela-de-vacinas-da-AstraZeneca1)
+- [A tentativa de compra paralela de vacinas da Astrazeneca](https://www.nexojornal.com.br/expresso/2021/08/04/A-tentativa-de-compra-paralela-de-vacinas-da-Astrazeneca)
 - [Os atletas estrangeiros que representam o Brasil nas Olímpiadas](https://www.nexojornal.com.br/academico/2021/08/04/Os-atletas-estrangeiros-que-representam-o-Brasil-nas-Ol%C3%ADmpiadas)
 - [ABL inclui ‘covid-19’ e outros termos em banco de palavras](https://www.nexojornal.com.br/extra/2021/08/04/ABL-inclui-%E2%80%98covid-19%E2%80%99-e-outros-termos-em-banco-de-palavras)
+- [Por escrito ao TSE, Bolsonaro diz que não ataca segurança das urnas](https://www.nexojornal.com.br/extra/2021/08/04/Por-escrito-ao-TSE-Bolsonaro-diz-que-n%C3%A3o-ataca-seguran%C3%A7a-das-urnas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
