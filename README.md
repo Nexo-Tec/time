@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os ataques de Bolsonaro ao Supremo num novo patamar](https://www.nexojornal.com.br/expresso/2021/08/05/Os-ataques-de-Bolsonaro-ao-Supremo-num-novo-patamar)
-- [Os pensadores indígenas homenageados pela Flip](https://www.nexojornal.com.br/expresso/2021/08/05/Os-pensadores-ind%C3%ADgenas-homenageados-pela-Flip)
-- [A tentativa de compra paralela de vacinas da AstraZeneca](https://www.nexojornal.com.br/expresso/2021/08/04/A-tentativa-de-compra-paralela-de-vacinas-da-AstraZeneca1)
-- [Os atletas estrangeiros que representam o Brasil nas Olímpiadas](https://www.nexojornal.com.br/academico/2021/08/04/Os-atletas-estrangeiros-que-representam-o-Brasil-nas-Ol%C3%ADmpiadas)
-- [ABL inclui ‘covid-19’ e outros termos em banco de palavras](https://www.nexojornal.com.br/extra/2021/08/04/ABL-inclui-%E2%80%98covid-19%E2%80%99-e-outros-termos-em-banco-de-palavras)
+- [As investigações que pressionam o ex-ministro Pazuello](https://www.nexojornal.com.br/expresso/2021/08/05/As-investiga%C3%A7%C3%B5es-que-pressionam-o-ex-ministro-Pazuello)
+- [Voto impresso é rejeitado: o que ainda há na reforma eleitoral](https://www.nexojornal.com.br/expresso/2021/08/05/Voto-impresso-%C3%A9-rejeitado-o-que-ainda-h%C3%A1-na-reforma-eleitoral)
+- [A mobilização do PIB nacional contra as ameaças de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/05/A-mobiliza%C3%A7%C3%A3o-do-PIB-nacional-contra-as-amea%C3%A7as-de-Bolsonaro)
+- [Justiça arquiva inquérito contra casal que acusou jovem de furto](https://www.nexojornal.com.br/extra/2021/08/05/Justi%C3%A7a-arquiva-inqu%C3%A9rito-contra-casal-que-acusou-jovem-de-furto)
+- [Rihanna entra para lista de bilionários da Forbes](https://www.nexojornal.com.br/extra/2021/08/05/Rihanna-entra-para-lista-de-bilion%C3%A1rios-da-Forbes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
