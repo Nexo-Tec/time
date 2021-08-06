@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O novo café brasileiro, com frescor e prêmios](https://gamarevista.uol.com.br/pessoas/uma-turma/nova-geracao-cafes-especiais-brasileiros/)
 - [Pai é quem cuida](https://gamarevista.uol.com.br/filhos/pai-e-quem-cuida/)
 - [Crônicas de Pai](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cronicas-de-pai/)
 - [Segunda temporada de podcast conta trajetória de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-podcast-conta-trajetoria-de-rita-lee/)
 - [A assinatura de literatura feminista Clube F.](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-assinatura-de-literatura-feminista-clube-f/)
-- [O novo álbum de Billie Eilish](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-billie-eilish/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
