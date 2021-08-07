@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Primeiro site da história entrou no ar há 30 anos](https://www.nexojornal.com.br/extra/2021/08/06/Primeiro-site-da-hist%C3%B3ria-entrou-no-ar-h%C3%A1-30-anos)
-- [Ação das rachadinhas de Flávio Bolsonaro é retomada por Tribunal](https://www.nexojornal.com.br/extra/2021/08/06/A%C3%A7%C3%A3o-das-rachadinhas-de-Fl%C3%A1vio-Bolsonaro-%C3%A9-retomada-por-Tribunal)
-- [Tandara, do vôlei, é suspensa da Olimpíada no antidoping](https://www.nexojornal.com.br/extra/2021/08/06/Tandara-do-v%C3%B4lei-%C3%A9-suspensa-da-Olimp%C3%ADada-no-antidoping1)
 - [As investigações que pressionam o ex-ministro Pazuello](https://www.nexojornal.com.br/expresso/2021/08/05/As-investiga%C3%A7%C3%B5es-que-pressionam-o-ex-ministro-Pazuello)
 - [Voto impresso é rejeitado: o que ainda há na reforma eleitoral](https://www.nexojornal.com.br/expresso/2021/08/05/Voto-impresso-%C3%A9-rejeitado-o-que-ainda-h%C3%A1-na-reforma-eleitoral)
+- [A mobilização do PIB nacional contra as ameaças de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/05/A-mobiliza%C3%A7%C3%A3o-do-PIB-nacional-contra-as-amea%C3%A7as-de-Bolsonaro)
+- [Justiça arquiva inquérito contra casal que acusou jovem de furto](https://www.nexojornal.com.br/extra/2021/08/05/Justi%C3%A7a-arquiva-inqu%C3%A9rito-contra-casal-que-acusou-jovem-de-furto)
+- [Rihanna entra para lista de bilionários da Forbes](https://www.nexojornal.com.br/extra/2021/08/05/Rihanna-entra-para-lista-de-bilion%C3%A1rios-da-Forbes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
