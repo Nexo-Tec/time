@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As investigações que pressionam o ex-ministro Pazuello](https://www.nexojornal.com.br/expresso/2021/08/05/As-investiga%C3%A7%C3%B5es-que-pressionam-o-ex-ministro-Pazuello)
-- [Voto impresso é rejeitado: o que ainda há na reforma eleitoral](https://www.nexojornal.com.br/expresso/2021/08/05/Voto-impresso-%C3%A9-rejeitado-o-que-ainda-h%C3%A1-na-reforma-eleitoral)
-- [A mobilização do PIB nacional contra as ameaças de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/05/A-mobiliza%C3%A7%C3%A3o-do-PIB-nacional-contra-as-amea%C3%A7as-de-Bolsonaro)
-- [Justiça arquiva inquérito contra casal que acusou jovem de furto](https://www.nexojornal.com.br/extra/2021/08/05/Justi%C3%A7a-arquiva-inqu%C3%A9rito-contra-casal-que-acusou-jovem-de-furto)
-- [Rihanna entra para lista de bilionários da Forbes](https://www.nexojornal.com.br/extra/2021/08/05/Rihanna-entra-para-lista-de-bilion%C3%A1rios-da-Forbes)
+- [‘Ameaças de Bolsonaro podem resultar em violência social’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Amea%C3%A7as-de-Bolsonaro-podem-resultar-em-viol%C3%AAncia-social%E2%80%99)
+- [Extratos da Semana 06.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-06.08.2021)
+- [Chuvas intensas redesenharam o rio Tietê há 17 mil anos](https://www.nexojornal.com.br/externo/2021/08/06/Chuvas-intensas-redesenharam-o-rio-Tiet%C3%AA-h%C3%A1-17-mil-anos)
+- [Quem vai salvar a Cinemateca Brasileira após o incêndio?](https://www.nexojornal.com.br/expresso/2021/08/06/Quem-vai-salvar-a-Cinemateca-Brasileira-ap%C3%B3s-o-inc%C3%AAndio)
+- [Por que o uso da Sputnik não decolou no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2021/08/06/Por-que-o-uso-da-Sputnik-n%C3%A3o-decolou-no-Brasil-e-no-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
