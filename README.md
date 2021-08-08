@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lei Maria da Penha completa 15 anos desde a sanção](https://www.nexojornal.com.br/extra/2021/08/07/Lei-Maria-da-Penha-completa-15-anos-desde-a-san%C3%A7%C3%A3o)
-- [A prisão de Paulo Galo é racista e ditatorial: liberdade já!](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-pris%C3%A3o-de-Paulo-Galo-%C3%A9-racista-e-ditatorial-liberdade-j%C3%A1)
-- [Com 7 ouros, Brasil garante melhor campanha em Olimpíadas](https://www.nexojornal.com.br/extra/2021/08/07/Com-7-ouros-Brasil-garante-melhor-campanha-em-Olimp%C3%ADadas)
-- [Favorito na canoagem e por nocaute no boxe, Brasil vence ouros](https://www.nexojornal.com.br/extra/2021/08/07/Favorito-na-canoagem-e-por-nocaute-no-boxe-Brasil-vence-ouros)
-- [Como os votos de Barroso expõem o sofisma bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/07/Como-os-votos-de-Barroso-exp%C3%B5em-o-sofisma-bolsonarista)
+- [‘Ameaças de Bolsonaro podem resultar em violência social’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Amea%C3%A7as-de-Bolsonaro-podem-resultar-em-viol%C3%AAncia-social%E2%80%99)
+- [Extratos da Semana 06.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-06.08.2021)
+- [Chuvas intensas redesenharam o rio Tietê há 17 mil anos](https://www.nexojornal.com.br/externo/2021/08/06/Chuvas-intensas-redesenharam-o-rio-Tiet%C3%AA-h%C3%A1-17-mil-anos)
+- [Quem vai salvar a Cinemateca Brasileira após o incêndio?](https://www.nexojornal.com.br/expresso/2021/08/06/Quem-vai-salvar-a-Cinemateca-Brasileira-ap%C3%B3s-o-inc%C3%AAndio)
+- [Por que o uso da Sputnik não decolou no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2021/08/06/Por-que-o-uso-da-Sputnik-n%C3%A3o-decolou-no-Brasil-e-no-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
