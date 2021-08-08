@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros biográficos de pilares da cultura brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-biogr%C3%A1ficos-de-pilares-da-cultura-brasileira)
-- [As mulheres correm riscos na reforma eleitoral da vez](https://www.nexojornal.com.br/ensaio/2021/As-mulheres-correm-riscos-na-reforma-eleitoral-da-vez)
-- [Polônia anuncia dissolução de sistema disciplinar de juízes](https://www.nexojornal.com.br/extra/2021/08/07/Pol%C3%B4nia-anuncia-dissolu%C3%A7%C3%A3o-de-sistema-disciplinar-de-ju%C3%ADzes)
-- [‘Uma boa política social vai além do repasse de dinheiro’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Uma-boa-pol%C3%ADtica-social-vai-al%C3%A9m-do-repasse-de-dinheiro%E2%80%99)
-- [Prefeitura de SP torna obrigatória vacina para servidores](https://www.nexojornal.com.br/extra/2021/08/07/Prefeitura-de-SP-torna-obrigat%C3%B3ria-vacina-para-servidores)
+- [Lei Maria da Penha completa 15 anos desde a sanção](https://www.nexojornal.com.br/extra/2021/08/07/Lei-Maria-da-Penha-completa-15-anos-desde-a-san%C3%A7%C3%A3o)
+- [A prisão de Paulo Galo é racista e ditatorial: liberdade já!](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-pris%C3%A3o-de-Paulo-Galo-%C3%A9-racista-e-ditatorial-liberdade-j%C3%A1)
+- [Com 7 ouros, Brasil garante melhor campanha em Olimpíadas](https://www.nexojornal.com.br/extra/2021/08/07/Com-7-ouros-Brasil-garante-melhor-campanha-em-Olimp%C3%ADadas)
+- [Favorito na canoagem e por nocaute no boxe, Brasil vence ouros](https://www.nexojornal.com.br/extra/2021/08/07/Favorito-na-canoagem-e-por-nocaute-no-boxe-Brasil-vence-ouros)
+- [Como os votos de Barroso expõem o sofisma bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/07/Como-os-votos-de-Barroso-exp%C3%B5em-o-sofisma-bolsonarista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
