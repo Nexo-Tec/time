@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Ameaças de Bolsonaro podem resultar em violência social’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Amea%C3%A7as-de-Bolsonaro-podem-resultar-em-viol%C3%AAncia-social%E2%80%99)
-- [Extratos da Semana 06.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-06.08.2021)
-- [Chuvas intensas redesenharam o rio Tietê há 17 mil anos](https://www.nexojornal.com.br/externo/2021/08/06/Chuvas-intensas-redesenharam-o-rio-Tiet%C3%AA-h%C3%A1-17-mil-anos)
-- [Quem vai salvar a Cinemateca Brasileira após o incêndio?](https://www.nexojornal.com.br/expresso/2021/08/06/Quem-vai-salvar-a-Cinemateca-Brasileira-ap%C3%B3s-o-inc%C3%AAndio)
-- [Por que o uso da Sputnik não decolou no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2021/08/06/Por-que-o-uso-da-Sputnik-n%C3%A3o-decolou-no-Brasil-e-no-mundo)
+- [5 livros biográficos de pilares da cultura brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-biogr%C3%A1ficos-de-pilares-da-cultura-brasileira)
+- [As mulheres correm riscos na reforma eleitoral da vez](https://www.nexojornal.com.br/ensaio/2021/As-mulheres-correm-riscos-na-reforma-eleitoral-da-vez)
+- [Polônia anuncia dissolução de sistema disciplinar de juízes](https://www.nexojornal.com.br/extra/2021/08/07/Pol%C3%B4nia-anuncia-dissolu%C3%A7%C3%A3o-de-sistema-disciplinar-de-ju%C3%ADzes)
+- [‘Uma boa política social vai além do repasse de dinheiro’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Uma-boa-pol%C3%ADtica-social-vai-al%C3%A9m-do-repasse-de-dinheiro%E2%80%99)
+- [Prefeitura de SP torna obrigatória vacina para servidores](https://www.nexojornal.com.br/extra/2021/08/07/Prefeitura-de-SP-torna-obrigat%C3%B3ria-vacina-para-servidores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
