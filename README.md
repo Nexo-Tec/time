@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros biográficos de pilares da cultura brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-biogr%C3%A1ficos-de-pilares-da-cultura-brasileira)
-- [As mulheres correm riscos na reforma eleitoral da vez](https://www.nexojornal.com.br/ensaio/2021/As-mulheres-correm-riscos-na-reforma-eleitoral-da-vez)
-- [Polônia anuncia dissolução de sistema disciplinar de juízes](https://www.nexojornal.com.br/extra/2021/08/07/Pol%C3%B4nia-anuncia-dissolu%C3%A7%C3%A3o-de-sistema-disciplinar-de-ju%C3%ADzes)
-- [‘Uma boa política social vai além do repasse de dinheiro’](https://www.nexojornal.com.br/entrevista/2021/08/07/%E2%80%98Uma-boa-pol%C3%ADtica-social-vai-al%C3%A9m-do-repasse-de-dinheiro%E2%80%99)
-- [Prefeitura de SP torna obrigatória vacina para servidores](https://www.nexojornal.com.br/extra/2021/08/07/Prefeitura-de-SP-torna-obrigat%C3%B3ria-vacina-para-servidores)
+- [O impasse dos precatórios resumido em 6 pontos](https://www.nexojornal.com.br/expresso/2021/08/08/O-impasse-dos-precat%C3%B3rios-resumido-em-6-pontos)
+- [Incêndios devastam segunda maior ilha da Grécia](https://www.nexojornal.com.br/extra/2021/08/08/Inc%C3%AAndios-devastam-segunda-maior-ilha-da-Gr%C3%A9cia)
+- [Terra indígena: um direito em disputa permanente no Brasil](https://www.nexojornal.com.br/explicado/2021/08/08/Terra-ind%C3%ADgena-um-direito-em-disputa-permanente-no-Brasil)
+- [Os segredos que Bolsonaro quer esconder por décadas](https://www.nexojornal.com.br/expresso/2021/08/08/Os-segredos-que-Bolsonaro-quer-esconder-por-d%C3%A9cadas)
+- [Distritão: nada faz sentido, ninguém sabe o porquê](https://www.nexojornal.com.br/ensaio/2021/Distrit%C3%A3o-nada-faz-sentido-ningu%C3%A9m-sabe-o-porqu%C3%AA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
