@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O mundo gira porque não sabe dançar](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-mundo-gira-porque-nao-sabe-dancar/)
 - [@vincerosenblatt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vincerosenblatt/)
 - [Lucas Liedke: ‘Saúde mental é mais do que tratar doenças’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lucas-liedke-voce-ta-bem/)
 - [Maitê Proença](https://gamarevista.uol.com.br/pessoas/questionario-proust/maite-proenca/)
 - [O novo café brasileiro, com frescor e prêmios](https://gamarevista.uol.com.br/pessoas/uma-turma/nova-geracao-cafes-especiais-brasileiros/)
-- [Pai é quem cuida](https://gamarevista.uol.com.br/filhos/pai-e-quem-cuida/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
