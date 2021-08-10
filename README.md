@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Gestão costeira no Brasil: uma trajetória interrompida](https://pp.nexojornal.com.br/linha-do-tempo/2021/Gest%C3%A3o-costeira-no-Brasil-uma-trajet%C3%B3ria-interrompida)
-- [Os Campos Sulinos: conservar para produzir e produzir conservando](https://pp.nexojornal.com.br/opiniao/2021/Os-Campos-Sulinos-conservar-para-produzir-e-produzir-conservando)
 - [Como as mudanças climáticas podem tornar as zonas tropicais inabitáveis](https://pp.nexojornal.com.br/academico/2021/Como-as-mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-as-zonas-tropicais-inabit%C3%A1veis)
 - [9 perguntas que a ciência já respondeu sobre o uso de máscaras como proteção contra o coronavírus](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-o-uso-de-m%C3%A1scaras-como-prote%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus)
 - [9 perguntas que a ciência já respondeu sobre os Campos Sulinos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-os-Campos-Sulinos)
+- [Desenvolvimento econômico, direitos sociais e alimentação no Brasil](https://pp.nexojornal.com.br/opiniao/2021/Desenvolvimento-econ%C3%B4mico-direitos-sociais-e-alimenta%C3%A7%C3%A3o-no-Brasil)
+- [9 perguntas que a ciência já respondeu sobre os oceanos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-os-oceanos)
 <!-- PP_LIST:END -->
 
