@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O impasse dos precatórios resumido em 6 pontos](https://www.nexojornal.com.br/expresso/2021/08/08/O-impasse-dos-precat%C3%B3rios-resumido-em-6-pontos)
-- [Incêndios devastam segunda maior ilha da Grécia](https://www.nexojornal.com.br/extra/2021/08/08/Inc%C3%AAndios-devastam-segunda-maior-ilha-da-Gr%C3%A9cia)
-- [Terra indígena: um direito em disputa permanente no Brasil](https://www.nexojornal.com.br/explicado/2021/08/08/Terra-ind%C3%ADgena-um-direito-em-disputa-permanente-no-Brasil)
-- [Os segredos que Bolsonaro quer esconder por décadas](https://www.nexojornal.com.br/expresso/2021/08/08/Os-segredos-que-Bolsonaro-quer-esconder-por-d%C3%A9cadas)
-- [Distritão: nada faz sentido, ninguém sabe o porquê](https://www.nexojornal.com.br/ensaio/2021/Distrit%C3%A3o-nada-faz-sentido-ningu%C3%A9m-sabe-o-porqu%C3%AA)
+- [A exibição militar nos estertores da proposta do voto impresso](https://www.nexojornal.com.br/expresso/2021/08/09/A-exibi%C3%A7%C3%A3o-militar-nos-estertores-da-proposta-do-voto-impresso)
+- [Os dados alarmantes sobre clima. E como evitar o pior](https://www.nexojornal.com.br/expresso/2021/08/09/Os-dados-alarmantes-sobre-clima.-E-como-evitar-o-pior)
+- [Caso Borba Gato: por que a prisão de Paulo Galo é contestada](https://www.nexojornal.com.br/expresso/2021/08/09/Caso-Borba-Gato-por-que-a-pris%C3%A3o-de-Paulo-Galo-%C3%A9-contestada)
+- [Juiz dos EUA aceita ação contra Netflix e diretora por difamação](https://www.nexojornal.com.br/extra/2021/08/09/Juiz-dos-EUA-aceita-a%C3%A7%C3%A3o-contra-Netflix-e-diretora-por-difama%C3%A7%C3%A3o)
+- [As críticas à gestão Queiroga no Ministério da Saúde](https://www.nexojornal.com.br/expresso/2021/08/09/As-cr%C3%ADticas-%C3%A0-gest%C3%A3o-Queiroga-no-Minist%C3%A9rio-da-Sa%C3%BAde)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
