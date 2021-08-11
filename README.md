@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O enterro do voto impresso em dia de blindados militares na rua](https://www.nexojornal.com.br/expresso/2021/08/11/O-enterro-do-voto-impresso-em-dia-de-blindados-militares-na-rua)
 - [Como a atenção às suspeitas de corrupção na CPI se diluem](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-aten%C3%A7%C3%A3o-%C3%A0s-suspeitas-de-corrup%C3%A7%C3%A3o-na-CPI-se-diluem)
 - [Por que o mundo adapta programas de TV sul-coreanos](https://www.nexojornal.com.br/expresso/2021/08/10/Por-que-o-mundo-adapta-programas-de-TV-sul-coreanos)
 - [Senado aprova projeto que revoga Lei de Segurança Nacional](https://www.nexojornal.com.br/extra/2021/08/10/Senado-aprova-projeto-que-revoga-Lei-de-Seguran%C3%A7a-Nacional)
 - [Como a inflação alta aparece nos produtos do dia a dia](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-infla%C3%A7%C3%A3o-alta-aparece-nos-produtos-do-dia-a-dia)
-- [Brasil tem 7 milhões de pessoas que deixaram de tomar 2ª dose](https://www.nexojornal.com.br/extra/2021/08/10/Brasil-tem-7-milh%C3%B5es-de-pessoas-que-deixaram-de-tomar-2%C2%AA-dose)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
