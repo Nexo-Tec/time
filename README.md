@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Gabriela Lotta: pandemia e profissionais do SUS](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/10/Gabriela-Lotta-pandemia-e-profissionais-do-SUS)
+- [Por que a assistência social é essencial para o enfrentamento da covid-19?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Por-que-a-assist%C3%AAncia-social-%C3%A9-essencial-para-o-enfrentamento-da-covid-19)
 - [Gestão costeira no Brasil: uma trajetória interrompida](https://pp.nexojornal.com.br/linha-do-tempo/2021/Gest%C3%A3o-costeira-no-Brasil-uma-trajet%C3%B3ria-interrompida)
 - [Os Campos Sulinos: conservar para produzir e produzir conservando](https://pp.nexojornal.com.br/opiniao/2021/Os-Campos-Sulinos-conservar-para-produzir-e-produzir-conservando)
 - [Como as mudanças climáticas podem tornar as zonas tropicais inabitáveis](https://pp.nexojornal.com.br/academico/2021/Como-as-mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-as-zonas-tropicais-inabit%C3%A1veis)
-- [9 perguntas que a ciência já respondeu sobre o uso de máscaras como proteção contra o coronavírus](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-o-uso-de-m%C3%A1scaras-como-prote%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus)
-- [9 perguntas que a ciência já respondeu sobre os Campos Sulinos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-os-Campos-Sulinos)
 <!-- PP_LIST:END -->
 
