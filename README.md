@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A exibição militar nos estertores da proposta do voto impresso](https://www.nexojornal.com.br/expresso/2021/08/09/A-exibi%C3%A7%C3%A3o-militar-nos-estertores-da-proposta-do-voto-impresso)
-- [Os dados alarmantes sobre clima. E como evitar o pior](https://www.nexojornal.com.br/expresso/2021/08/09/Os-dados-alarmantes-sobre-clima.-E-como-evitar-o-pior)
-- [Caso Borba Gato: por que a prisão de Paulo Galo é contestada](https://www.nexojornal.com.br/expresso/2021/08/09/Caso-Borba-Gato-por-que-a-pris%C3%A3o-de-Paulo-Galo-%C3%A9-contestada)
-- [Juiz dos EUA aceita ação contra Netflix e diretora por difamação](https://www.nexojornal.com.br/extra/2021/08/09/Juiz-dos-EUA-aceita-a%C3%A7%C3%A3o-contra-Netflix-e-diretora-por-difama%C3%A7%C3%A3o)
-- [As críticas à gestão Queiroga no Ministério da Saúde](https://www.nexojornal.com.br/expresso/2021/08/09/As-cr%C3%ADticas-%C3%A0-gest%C3%A3o-Queiroga-no-Minist%C3%A9rio-da-Sa%C3%BAde)
+- [Como a atenção às suspeitas de corrupção na CPI se diluem](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-aten%C3%A7%C3%A3o-%C3%A0s-suspeitas-de-corrup%C3%A7%C3%A3o-na-CPI-se-diluem)
+- [Por que o mundo adapta programas de TV sul-coreanos](https://www.nexojornal.com.br/expresso/2021/08/10/Por-que-o-mundo-adapta-programas-de-TV-sul-coreanos)
+- [Senado aprova projeto que revoga Lei de Segurança Nacional](https://www.nexojornal.com.br/extra/2021/08/10/Senado-aprova-projeto-que-revoga-Lei-de-Seguran%C3%A7a-Nacional)
+- [Como a inflação alta aparece nos produtos do dia a dia](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-infla%C3%A7%C3%A3o-alta-aparece-nos-produtos-do-dia-a-dia)
+- [Brasil tem 7 milhões de pessoas que deixaram de tomar 2ª dose](https://www.nexojornal.com.br/extra/2021/08/10/Brasil-tem-7-milh%C3%B5es-de-pessoas-que-deixaram-de-tomar-2%C2%AA-dose)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
