@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como estou aprendendo a viver (quase) sem olfato pós-covid](https://gamarevista.uol.com.br/formato/depoimento/como-estou-aprendendo-a-viver-quase-sem-olfato-pos-covid/)
 - [Faca Laguiole](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/faca-laguiole/)
 - [O mundo gira porque não sabe dançar](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-mundo-gira-porque-nao-sabe-dancar/)
 - [@vincerosenblatt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vincerosenblatt/)
 - [Lucas Liedke: ‘Saúde mental é mais do que tratar doenças’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lucas-liedke-voce-ta-bem/)
-- [Maitê Proença](https://gamarevista.uol.com.br/pessoas/questionario-proust/maite-proenca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
