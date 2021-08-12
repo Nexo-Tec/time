@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [As disputas legislativas em torno da Lei de Segurança Nacional](https://pp.nexojornal.com.br/linha-do-tempo/2021/As-disputas-legislativas-em-torno-da-Lei-de-Seguran%C3%A7a-Nacional)
+- [Políticas públicas, mulheres e a violência no campo](https://pp.nexojornal.com.br/opiniao/2021/Pol%C3%ADticas-p%C3%BAblicas-mulheres-e-a-viol%C3%AAncia-no-campo)
+- [As relações entre crianças e cuidadores durante a pandemia](https://pp.nexojornal.com.br/Dados/2021/08/11/As-rela%C3%A7%C3%B5es-entre-crian%C3%A7as-e-cuidadores-durante-a-pandemia)
 - [Gabriela Lotta: pandemia e profissionais do SUS](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/10/Gabriela-Lotta-pandemia-e-profissionais-do-SUS)
 - [Por que a assistência social é essencial para o enfrentamento da covid-19?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Por-que-a-assist%C3%AAncia-social-%C3%A9-essencial-para-o-enfrentamento-da-covid-19)
-- [Gestão costeira no Brasil: uma trajetória interrompida](https://pp.nexojornal.com.br/linha-do-tempo/2021/Gest%C3%A3o-costeira-no-Brasil-uma-trajet%C3%B3ria-interrompida)
-- [Os Campos Sulinos: conservar para produzir e produzir conservando](https://pp.nexojornal.com.br/opiniao/2021/Os-Campos-Sulinos-conservar-para-produzir-e-produzir-conservando)
-- [Como as mudanças climáticas podem tornar as zonas tropicais inabitáveis](https://pp.nexojornal.com.br/academico/2021/Como-as-mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-as-zonas-tropicais-inabit%C3%A1veis)
 <!-- PP_LIST:END -->
 
