@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como ajudar seus familiares a não cair em fake news](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ajudar-seus-familiares-a-nao-cair-em-fake-news/)
-- [Para alegrar e esquentar bochechas e pés, Garnacha](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/para-alegrar-e-esquentar-bochechas-e-pes-garnacha/)
-- [Como estou aprendendo a viver (quase) sem olfato pós-covid](https://gamarevista.uol.com.br/formato/depoimento/como-estou-aprendendo-a-viver-quase-sem-olfato-pos-covid/)
-- [Faca Laguiole](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/faca-laguiole/)
-- [O mundo gira porque não sabe dançar](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-mundo-gira-porque-nao-sabe-dancar/)
+- [A segunda temporada de “Modern Love” na Amazon Prime](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-modern-love-na-amazon-prime/)
+- [O templo do boxe baiano, responsável por três medalhas olímpicas](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-templo-do-boxe-baiano-responsavel-por-tres-medalhas-olimpicas/)
+- [Exposição de artistas contemporâneos no novo Instituto Artium](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-de-artistas-contemporaneos-no-novo-instituto-artium/)
+- [“Psicanálise para a Atualidade”, curso com Maria Rita Kehl](https://gamarevista.uol.com.br/achamos-que-vale/fazer/psicanalise-para-a-atualidade-curso-com-maria-rita-kehl/)
+- [Precisamos falar de branquitude e racismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/precisamos-falar-de-branquitude-e-racismo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
