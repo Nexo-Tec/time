@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O enterro do voto impresso em dia de blindados militares na rua](https://www.nexojornal.com.br/expresso/2021/08/11/O-enterro-do-voto-impresso-em-dia-de-blindados-militares-na-rua)
-- [Como a atenção às suspeitas de corrupção na CPI se diluem](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-aten%C3%A7%C3%A3o-%C3%A0s-suspeitas-de-corrup%C3%A7%C3%A3o-na-CPI-se-diluem)
-- [Por que o mundo adapta programas de TV sul-coreanos](https://www.nexojornal.com.br/expresso/2021/08/10/Por-que-o-mundo-adapta-programas-de-TV-sul-coreanos)
-- [Senado aprova projeto que revoga Lei de Segurança Nacional](https://www.nexojornal.com.br/extra/2021/08/10/Senado-aprova-projeto-que-revoga-Lei-de-Seguran%C3%A7a-Nacional)
-- [Como a inflação alta aparece nos produtos do dia a dia](https://www.nexojornal.com.br/expresso/2021/08/10/Como-a-infla%C3%A7%C3%A3o-alta-aparece-nos-produtos-do-dia-a-dia)
+- [O que o resultado do voto impresso projeta para a política](https://www.nexojornal.com.br/expresso/2021/08/11/O-que-o-resultado-do-voto-impresso-projeta-para-a-pol%C3%ADtica)
+- [Ator e diretor Paulo José morre de pneumonia aos 84 anos](https://www.nexojornal.com.br/extra/2021/08/11/Ator-e-diretor-Paulo-Jos%C3%A9-morre-de-pneumonia-aos-84-anos)
+- [Quanto as farmacêuticas ganharam com o ‘kit covid’](https://www.nexojornal.com.br/expresso/2021/08/11/Quanto-as-farmac%C3%AAuticas-ganharam-com-o-%E2%80%98kit-covid%E2%80%99)
+- [Um histórico do Taleban: da origem à nova ofensiva](https://www.nexojornal.com.br/expresso/2021/08/11/Um-hist%C3%B3rico-do-Taleban-da-origem-%C3%A0-nova-ofensiva)
+- [Terceira dose da Coronavac multiplica proteção, dizem estudos](https://www.nexojornal.com.br/extra/2021/08/11/Terceira-dose-da-Coronavac-multiplica-prote%C3%A7%C3%A3o-dizem-estudos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
