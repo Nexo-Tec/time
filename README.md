@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Renata Gaspar mergulha no drama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/peca-in-on-it-versao-audiovisual/)
 - [Gastronomia de coleta, direto da natureza selvagem](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/gastronomia-de-coleta-direto-da-natureza-selvagem/)
 - [O Mundo Desdobrável](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-mundo-desdobravel/)
 - [A segunda temporada de “Modern Love” na Amazon Prime](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-modern-love-na-amazon-prime/)
 - [O templo do boxe baiano, responsável por três medalhas olímpicas](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-templo-do-boxe-baiano-responsavel-por-tres-medalhas-olimpicas/)
-- [Exposição de artistas contemporâneos no novo Instituto Artium](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-de-artistas-contemporaneos-no-novo-instituto-artium/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
