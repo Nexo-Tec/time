@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [4 pontos sobre a revisão da política de cotas em 2022](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/4-pontos-sobre-a-revis%C3%A3o-da-pol%C3%ADtica-de-cotas-em-2022)
 - [As disputas legislativas em torno da Lei de Segurança Nacional](https://pp.nexojornal.com.br/linha-do-tempo/2021/As-disputas-legislativas-em-torno-da-Lei-de-Seguran%C3%A7a-Nacional)
 - [Políticas públicas, mulheres e a violência no campo](https://pp.nexojornal.com.br/opiniao/2021/Pol%C3%ADticas-p%C3%BAblicas-mulheres-e-a-viol%C3%AAncia-no-campo)
 - [As relações entre crianças e cuidadores durante a pandemia](https://pp.nexojornal.com.br/Dados/2021/08/11/As-rela%C3%A7%C3%B5es-entre-crian%C3%A7as-e-cuidadores-durante-a-pandemia)
 - [Gabriela Lotta: pandemia e profissionais do SUS](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/10/Gabriela-Lotta-pandemia-e-profissionais-do-SUS)
-- [Por que a assistência social é essencial para o enfrentamento da covid-19?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Por-que-a-assist%C3%AAncia-social-%C3%A9-essencial-para-o-enfrentamento-da-covid-19)
 <!-- PP_LIST:END -->
 
