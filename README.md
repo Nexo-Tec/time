@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Mundo Desdobrável](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-mundo-desdobravel/)
 - [A segunda temporada de “Modern Love” na Amazon Prime](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-modern-love-na-amazon-prime/)
 - [O templo do boxe baiano, responsável por três medalhas olímpicas](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-templo-do-boxe-baiano-responsavel-por-tres-medalhas-olimpicas/)
 - [Exposição de artistas contemporâneos no novo Instituto Artium](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-de-artistas-contemporaneos-no-novo-instituto-artium/)
 - [“Psicanálise para a Atualidade”, curso com Maria Rita Kehl](https://gamarevista.uol.com.br/achamos-que-vale/fazer/psicanalise-para-a-atualidade-curso-com-maria-rita-kehl/)
-- [Precisamos falar de branquitude e racismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/precisamos-falar-de-branquitude-e-racismo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
