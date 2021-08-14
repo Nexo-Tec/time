@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Votações a jato: a condução da Câmara por Arthur Lira](https://www.nexojornal.com.br/expresso/2021/08/12/Vota%C3%A7%C3%B5es-a-jato-a-condu%C3%A7%C3%A3o-da-C%C3%A2mara-por-Arthur-Lira)
-- [O mapeamento da censura e do autoritarismo na cultura](https://www.nexojornal.com.br/expresso/2021/08/12/O-mapeamento-da-censura-e-do-autoritarismo-na-cultura)
-- [Os problemas e os desafios do Novo Ensino Médio](https://www.nexojornal.com.br/ensaio/2021/Os-problemas-e-os-desafios-do-Novo-Ensino-M%C3%A9dio)
-- [Como o líder do governo partiu para a ofensiva na CPI da Covid](https://www.nexojornal.com.br/expresso/2021/08/12/Como-o-l%C3%ADder-do-governo-partiu-para-a-ofensiva-na-CPI-da-Covid)
-- [Rayssa Leal ganha prêmio por representar valores olímpicos](https://www.nexojornal.com.br/extra/2021/08/12/Rayssa-Leal-ganha-pr%C3%AAmio-por-representar-valores-ol%C3%ADmpicos)
+- [Como o STF dribla Aras para reagir a ações antidemocráticas](https://www.nexojornal.com.br/expresso/2021/08/13/Como-o-STF-dribla-Aras-para-reagir-a-a%C3%A7%C3%B5es-antidemocr%C3%A1ticas)
+- [Qual o estágio das pesquisas de novas vacinas contra a covid](https://www.nexojornal.com.br/expresso/2021/08/13/Qual-o-est%C3%A1gio-das-pesquisas-de-novas-vacinas-contra-a-covid)
+- [A pressão contra quem baixa filme na internet no Brasil](https://www.nexojornal.com.br/expresso/2021/08/13/A-press%C3%A3o-contra-quem-baixa-filme-na-internet-no-Brasil)
+- [O tumulto causado por um cálculo equivocado](https://www.nexojornal.com.br/externo/2021/08/13/O-tumulto-causado-por-um-c%C3%A1lculo-equivocado)
+- [Presidente argentino será investigado por festa na quarentena](https://www.nexojornal.com.br/extra/2021/08/13/Presidente-argentino-ser%C3%A1-investigado-por-festa-na-quarentena)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
