@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o STF dribla Aras para reagir a ações antidemocráticas](https://www.nexojornal.com.br/expresso/2021/08/13/Como-o-STF-dribla-Aras-para-reagir-a-a%C3%A7%C3%B5es-antidemocr%C3%A1ticas)
-- [Qual o estágio das pesquisas de novas vacinas contra a covid](https://www.nexojornal.com.br/expresso/2021/08/13/Qual-o-est%C3%A1gio-das-pesquisas-de-novas-vacinas-contra-a-covid)
-- [A pressão contra quem baixa filme na internet no Brasil](https://www.nexojornal.com.br/expresso/2021/08/13/A-press%C3%A3o-contra-quem-baixa-filme-na-internet-no-Brasil)
-- [O tumulto causado por um cálculo equivocado](https://www.nexojornal.com.br/externo/2021/08/13/O-tumulto-causado-por-um-c%C3%A1lculo-equivocado)
-- [Presidente argentino será investigado por festa na quarentena](https://www.nexojornal.com.br/extra/2021/08/13/Presidente-argentino-ser%C3%A1-investigado-por-festa-na-quarentena)
+- [Quais os riscos de conviver com ameaças à democracia até 2022](https://www.nexojornal.com.br/expresso/2021/08/14/Quais-os-riscos-de-conviver-com-amea%C3%A7as-%C3%A0-democracia-at%C3%A9-2022)
+- [Para STF, pressão de Bolsonaro contra ministros deve fracassar](https://www.nexojornal.com.br/extra/2021/08/14/Para-STF-press%C3%A3o-de-Bolsonaro-contra-ministros-deve-fracassar)
+- [Como ‘Paciente 63’ revive o espírito das radionovelas](https://www.nexojornal.com.br/expresso/2021/08/14/Como-%E2%80%98Paciente-63%E2%80%99-revive-o-esp%C3%ADrito-das-radionovelas)
+- [5 livros que nos ajudam a imaginar outros mundos possíveis](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-nos-ajudam-a-imaginar-outros-mundos-poss%C3%ADveis)
+- [A luta contra o terrorismo num país de língua portuguesa](https://www.nexojornal.com.br/expresso/2021/08/14/A-luta-contra-o-terrorismo-num-pa%C3%ADs-de-l%C3%ADngua-portuguesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
