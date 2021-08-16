@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lésbica, feminista e preta](https://gamarevista.uol.com.br/colunistas/winnie-bueno/lesbica-feminista-e-preta/)
 - [@the.bam.bus](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/the-bam-bus/)
 - [Jana Rosa: ‘Na pandemia, o privilégio dos influenciadores ficou agressivo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jana-rosa-quem-te-influencia/)
 - [Urias](https://gamarevista.uol.com.br/pessoas/questionario-proust/urias/)
 - [Renata Gaspar mergulha no drama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/peca-in-on-it-versao-audiovisual/)
-- [Gastronomia de coleta, direto da natureza selvagem](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/gastronomia-de-coleta-direto-da-natureza-selvagem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
