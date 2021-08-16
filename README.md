@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a tomada de Cabul pelo Taleban ameaça mulheres](https://www.nexojornal.com.br/expresso/2021/08/15/Como-a-tomada-de-Cabul-pelo-Taleban-amea%C3%A7a-mulheres)
-- [Os despejos e remoções em meio à crise sanitária e econômica](https://www.nexojornal.com.br/expresso/2021/08/15/Os-despejos-e-remo%C3%A7%C3%B5es-em-meio-%C3%A0-crise-sanit%C3%A1ria-e-econ%C3%B4mica)
-- [Brancos do topo para o topo: como uma foto expõe privilégios](https://www.nexojornal.com.br/perspectiva/2021/08/15/Brancos-do-topo-para-o-topo-como-uma-foto-exp%C3%B5e-privil%C3%A9gios)
-- [‘Desigualdade é o que mantém democracia inacabada no Brasil’](https://www.nexojornal.com.br/entrevista/2021/08/15/%E2%80%98Desigualdade-%C3%A9-o-que-mant%C3%A9m-democracia-inacabada-no-Brasil%E2%80%99)
-- [Os empregos com menos direitos criados na minirreforma](https://www.nexojornal.com.br/expresso/2021/08/15/Os-empregos-com-menos-direitos-criados-na-minirreforma)
+- [Quais os riscos de conviver com ameaças à democracia até 2022](https://www.nexojornal.com.br/expresso/2021/08/14/Quais-os-riscos-de-conviver-com-amea%C3%A7as-%C3%A0-democracia-at%C3%A9-2022)
+- [Para STF, pressão de Bolsonaro contra ministros deve fracassar](https://www.nexojornal.com.br/extra/2021/08/14/Para-STF-press%C3%A3o-de-Bolsonaro-contra-ministros-deve-fracassar)
+- [Como ‘Paciente 63’ revive o espírito das radionovelas](https://www.nexojornal.com.br/expresso/2021/08/14/Como-%E2%80%98Paciente-63%E2%80%99-revive-o-esp%C3%ADrito-das-radionovelas)
+- [5 livros que nos ajudam a imaginar outros mundos possíveis](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-nos-ajudam-a-imaginar-outros-mundos-poss%C3%ADveis)
+- [A luta contra o terrorismo num país de língua portuguesa](https://www.nexojornal.com.br/expresso/2021/08/14/A-luta-contra-o-terrorismo-num-pa%C3%ADs-de-l%C3%ADngua-portuguesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
