@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que esperar do Taleban de volta ao poder no Afeganistão](https://www.nexojornal.com.br/expresso/2021/08/16/O-que-esperar-do-Taleban-de-volta-ao-poder-no-Afeganist%C3%A3o)
-- [Mulher processa Bob Dylan por abuso sexual. Cantor nega](https://www.nexojornal.com.br/extra/2021/08/16/Mulher-processa-Bob-Dylan-por-abuso-sexual.-Cantor-nega)
-- [Como a covid-19 mudou o comércio em São Paulo](https://www.nexojornal.com.br/expresso/2021/08/16/Como-a-covid-19-mudou-o-com%C3%A9rcio-em-S%C3%A3o-Paulo)
-- [Loading: a aposta mais efêmera da história da TV aberta brasileira](https://www.nexojornal.com.br/reportagem/2021/08/16/Loading-a-aposta-mais-ef%C3%AAmera-da-hist%C3%B3ria-da-TV-aberta-brasileira)
-- [Bezos processa governo dos EUA por contrato da Nasa com Musk](https://www.nexojornal.com.br/extra/2021/08/16/Bezos-processa-governo-dos-EUA-por-contrato-da-Nasa-com-Musk)
+- [Como a tomada de Cabul pelo Taleban ameaça mulheres](https://www.nexojornal.com.br/expresso/2021/08/15/Como-a-tomada-de-Cabul-pelo-Taleban-amea%C3%A7a-mulheres)
+- [Os despejos e remoções em meio à crise sanitária e econômica](https://www.nexojornal.com.br/expresso/2021/08/15/Os-despejos-e-remo%C3%A7%C3%B5es-em-meio-%C3%A0-crise-sanit%C3%A1ria-e-econ%C3%B4mica)
+- [Brancos do topo para o topo: como uma foto expõe privilégios](https://www.nexojornal.com.br/perspectiva/2021/08/15/Brancos-do-topo-para-o-topo-como-uma-foto-exp%C3%B5e-privil%C3%A9gios)
+- [‘Desigualdade é o que mantém democracia inacabada no Brasil’](https://www.nexojornal.com.br/entrevista/2021/08/15/%E2%80%98Desigualdade-%C3%A9-o-que-mant%C3%A9m-democracia-inacabada-no-Brasil%E2%80%99)
+- [Os empregos com menos direitos criados na minirreforma](https://www.nexojornal.com.br/expresso/2021/08/15/Os-empregos-com-menos-direitos-criados-na-minirreforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
