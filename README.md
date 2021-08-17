@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A diversidade dos Campos Sulinos](https://pp.nexojornal.com.br/bibliografia-basica/2021/08/16/A-diversidade-dos-Campos-Sulinos)
+- [Vulnerabilidade de travestis e transexuais à insegurança alimentar](https://pp.nexojornal.com.br/opiniao/2021/Vulnerabilidade-de-travestis-e-transexuais-%C3%A0-inseguran%C3%A7a-alimentar)
+- [Restauração ecológica com fins econômicos: benefícios para a natureza e para as pessoas](https://pp.nexojornal.com.br/opiniao/2021/Restaura%C3%A7%C3%A3o-ecol%C3%B3gica-com-fins-econ%C3%B4micos-benef%C3%ADcios-para-a-natureza-e-para-as-pessoas)
+- [Por que os bolsonaristas fiéis não abandonam o capitão](https://pp.nexojornal.com.br/opiniao/2021/Por-que-os-bolsonaristas-fi%C3%A9is-n%C3%A3o-abandonam-o-capit%C3%A3o)
 - [9 pontos sobre ‘custo aluno qualidade’ e investimentos em educação](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-pontos-sobre-%E2%80%98custo-aluno-qualidade%E2%80%99-e-investimentos-em-educa%C3%A7%C3%A3o)
-- [4 pontos sobre a revisão da política de cotas em 2022](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/4-pontos-sobre-a-revis%C3%A3o-da-pol%C3%ADtica-de-cotas-em-2022)
-- [As disputas legislativas em torno da Lei de Segurança Nacional](https://pp.nexojornal.com.br/linha-do-tempo/2021/As-disputas-legislativas-em-torno-da-Lei-de-Seguran%C3%A7a-Nacional)
-- [Políticas públicas, mulheres e a violência no campo](https://pp.nexojornal.com.br/opiniao/2021/Pol%C3%ADticas-p%C3%BAblicas-mulheres-e-a-viol%C3%AAncia-no-campo)
-- [As relações entre crianças e cuidadores durante a pandemia](https://pp.nexojornal.com.br/Dados/2021/08/11/As-rela%C3%A7%C3%B5es-entre-crian%C3%A7as-e-cuidadores-durante-a-pandemia)
 <!-- PP_LIST:END -->
 
