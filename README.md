@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Respostas a uma crise sistêmica: transversalidade de gênero, ODS e a sindemia de covid-19](https://pp.nexojornal.com.br/ponto-de-vista/2021/Respostas-a-uma-crise-sist%C3%AAmica-transversalidade-de-g%C3%AAnero-ODS-e-a-sindemia-de-covid-19)
 - [A diversidade dos Campos Sulinos](https://pp.nexojornal.com.br/bibliografia-basica/2021/08/16/A-diversidade-dos-Campos-Sulinos)
 - [Vulnerabilidade de travestis e transexuais à insegurança alimentar](https://pp.nexojornal.com.br/opiniao/2021/Vulnerabilidade-de-travestis-e-transexuais-%C3%A0-inseguran%C3%A7a-alimentar)
 - [Restauração ecológica com fins econômicos: benefícios para a natureza e para as pessoas](https://pp.nexojornal.com.br/opiniao/2021/Restaura%C3%A7%C3%A3o-ecol%C3%B3gica-com-fins-econ%C3%B4micos-benef%C3%ADcios-para-a-natureza-e-para-as-pessoas)
 - [Por que os bolsonaristas fiéis não abandonam o capitão](https://pp.nexojornal.com.br/opiniao/2021/Por-que-os-bolsonaristas-fi%C3%A9is-n%C3%A3o-abandonam-o-capit%C3%A3o)
+- [9 pontos sobre ‘custo aluno qualidade’ e investimentos em educação](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/9-pontos-sobre-%E2%80%98custo-aluno-qualidade%E2%80%99-e-investimentos-em-educa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
