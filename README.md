@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que esperar do Taleban de volta ao poder no Afeganistão](https://www.nexojornal.com.br/expresso/2021/08/16/O-que-esperar-do-Taleban-de-volta-ao-poder-no-Afeganist%C3%A3o)
-- [Mulher processa Bob Dylan por abuso sexual. Cantor nega](https://www.nexojornal.com.br/extra/2021/08/16/Mulher-processa-Bob-Dylan-por-abuso-sexual.-Cantor-nega)
-- [Como a covid-19 mudou o comércio em São Paulo](https://www.nexojornal.com.br/expresso/2021/08/16/Como-a-covid-19-mudou-o-com%C3%A9rcio-em-S%C3%A3o-Paulo)
-- [Loading: a aposta mais efêmera da história da TV aberta brasileira](https://www.nexojornal.com.br/reportagem/2021/08/16/Loading-a-aposta-mais-ef%C3%AAmera-da-hist%C3%B3ria-da-TV-aberta-brasileira)
-- [Bezos processa governo dos EUA por contrato da Nasa com Musk](https://www.nexojornal.com.br/extra/2021/08/16/Bezos-processa-governo-dos-EUA-por-contrato-da-Nasa-com-Musk)
+- [Câmara finaliza reforma e Senado decidirá futuro das coligações](https://www.nexojornal.com.br/extra/2021/08/18/C%C3%A2mara-finaliza-reforma-e-Senado-decidir%C3%A1-futuro-das-coliga%C3%A7%C3%B5es)
+- [Como Bolsonaro emula o ‘tio do zap’ com teorias conspiratórias](https://www.nexojornal.com.br/expresso/2021/08/17/Como-Bolsonaro-emula-o-%E2%80%98tio-do-zap%E2%80%99-com-teorias-conspirat%C3%B3rias)
+- [Sérgio Reis, de ídolo sertanejo a militante bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/17/S%C3%A9rgio-Reis-de-%C3%ADdolo-sertanejo-a-militante-bolsonarista)
+- [Certa ideia de (ódio ao) Brasil e em que ela pode resultar](https://www.nexojornal.com.br/colunistas/2021/Certa-ideia-de-%C3%B3dio-ao-Brasil-e-em-que-ela-pode-resultar)
+- [‘Crime organizado tem cumplicidade do poder público’](https://www.nexojornal.com.br/entrevista/2021/08/17/%E2%80%98Crime-organizado-tem-cumplicidade-do-poder-p%C3%BAblico%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
