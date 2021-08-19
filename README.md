@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nova Zelândia volta a lockdown após seis meses](https://www.nexojornal.com.br/extra/2021/08/18/Nova-Zel%C3%A2ndia-volta-a-lockdown-ap%C3%B3s-seis-meses)
-- [Os relatos de estupros como arma de guerra no conflito na Etiópia](https://www.nexojornal.com.br/expresso/2021/08/18/Os-relatos-de-estupros-como-arma-de-guerra-no-conflito-na-Eti%C3%B3pia)
-- [Procuradoria denuncia blogueiro bolsonarista por ameaças](https://www.nexojornal.com.br/extra/2021/08/18/Procuradoria-denuncia-blogueiro-bolsonarista-por-amea%C3%A7as)
-- [Senadores apresentam notícia-crime contra Aras no Supremo](https://www.nexojornal.com.br/extra/2021/08/18/Senadores-apresentam-not%C3%ADcia-crime-contra-Aras-no-Supremo)
-- [Como o PT de Lula justifica o apoio à volta das coligaçõescoligações](https://www.nexojornal.com.br/expresso/2021/08/18/Como-o-PT-de-Lula-justifica-o-apoio-%C3%A0-volta-das-coliga%C3%A7%C3%B5escoliga%C3%A7%C3%B5es)
+- [Doria nomeia Rodrigo Maia para secretaria no governo de SP](https://www.nexojornal.com.br/extra/2021/08/19/Doria-nomeia-Rodrigo-Maia-para-secretaria-no-governo-de-SP)
+- [Anvisa veta aplicação da Coronavac em crianças e adolescentes](https://www.nexojornal.com.br/extra/2021/08/19/Anvisa-veta-aplica%C3%A7%C3%A3o-da-Coronavac-em-crian%C3%A7as-e-adolescentes)
+- [Como o grupo científico de Doria contra covid foi esvaziado](https://www.nexojornal.com.br/expresso/2021/08/18/Como-o-grupo-cient%C3%ADfico-de-Doria-contra-covid-foi-esvaziado)
+- [Ministro da Saúde diz ser contra uso obrigatório de máscaras](https://www.nexojornal.com.br/extra/2021/08/18/Ministro-da-Sa%C3%BAde-diz-ser-contra-uso-obrigat%C3%B3rio-de-m%C3%A1scaras)
+- [As pulseiras polêmicas e a elitização de Fernando de Noronha](https://www.nexojornal.com.br/expresso/2021/08/18/As-pulseiras-pol%C3%AAmicas-e-a-elitiza%C3%A7%C3%A3o-de-Fernando-de-Noronha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
