@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A nova fase de Lorde](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-lorde/)
+- [A história do advogado abolicionista Doutor Gama](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-advogado-abolicionista-doutor-gama/)
+- [As noites que pareciam ser o fim da pandemia nos EUA](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-noites-que-pareciam-ser-o-fim-da-pandemia-nos-eua/)
+- [Um curso sobre a culinária da diáspora africana](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-culinaria-da-diaspora-africana/)
 - [As últimas palavras de Sérgio Sant’Anna](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-ultimas-palavras-de-sergio-santanna/)
-- [CV: Henrique Del Lama](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-henrique-del-lama/)
-- [Se você tivesse que perder um sentido, qual escolheria?](https://gamarevista.uol.com.br/colunistas/letrux/se-voce-tivesse-que-perder-um-sentido-qual-escolheria/)
-- [Pantufa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pantufa/)
-- [Como o jeitinho brasileiro criou a indústria de games no Brasil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/historia-da-industria-de-jogos-de-computador-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
