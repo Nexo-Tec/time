@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara finaliza reforma e Senado decidirá futuro das coligações](https://www.nexojornal.com.br/extra/2021/08/18/C%C3%A2mara-finaliza-reforma-e-Senado-decidir%C3%A1-futuro-das-coliga%C3%A7%C3%B5es)
-- [Como Bolsonaro emula o ‘tio do zap’ com teorias conspiratórias](https://www.nexojornal.com.br/expresso/2021/08/17/Como-Bolsonaro-emula-o-%E2%80%98tio-do-zap%E2%80%99-com-teorias-conspirat%C3%B3rias)
-- [Sérgio Reis, de ídolo sertanejo a militante bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/17/S%C3%A9rgio-Reis-de-%C3%ADdolo-sertanejo-a-militante-bolsonarista)
-- [Certa ideia de (ódio ao) Brasil e em que ela pode resultar](https://www.nexojornal.com.br/colunistas/2021/Certa-ideia-de-%C3%B3dio-ao-Brasil-e-em-que-ela-pode-resultar)
-- [‘Crime organizado tem cumplicidade do poder público’](https://www.nexojornal.com.br/entrevista/2021/08/17/%E2%80%98Crime-organizado-tem-cumplicidade-do-poder-p%C3%BAblico%E2%80%99)
+- [Doria nomeia Rodrigo Maia para secretaria no governo de SP](https://www.nexojornal.com.br/extra/2021/08/19/Doria-nomeia-Rodrigo-Maia-para-secretaria-no-governo-de-SP)
+- [Anvisa veta aplicação da Coronavac em crianças e adolescentes](https://www.nexojornal.com.br/extra/2021/08/19/Anvisa-veta-aplica%C3%A7%C3%A3o-da-Coronavac-em-crian%C3%A7as-e-adolescentes)
+- [Como o grupo científico de Doria contra covid foi esvaziado](https://www.nexojornal.com.br/expresso/2021/08/18/Como-o-grupo-cient%C3%ADfico-de-Doria-contra-covid-foi-esvaziado)
+- [Ministro da Saúde diz ser contra uso obrigatório de máscaras](https://www.nexojornal.com.br/extra/2021/08/18/Ministro-da-Sa%C3%BAde-diz-ser-contra-uso-obrigat%C3%B3rio-de-m%C3%A1scaras)
+- [As pulseiras polêmicas e a elitização de Fernando de Noronha](https://www.nexojornal.com.br/expresso/2021/08/18/As-pulseiras-pol%C3%AAmicas-e-a-elitiza%C3%A7%C3%A3o-de-Fernando-de-Noronha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
