@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As últimas palavras de Sérgio Sant’Anna](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-ultimas-palavras-de-sergio-santanna/)
 - [CV: Henrique Del Lama](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-henrique-del-lama/)
 - [Se você tivesse que perder um sentido, qual escolheria?](https://gamarevista.uol.com.br/colunistas/letrux/se-voce-tivesse-que-perder-um-sentido-qual-escolheria/)
 - [Pantufa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pantufa/)
 - [Como o jeitinho brasileiro criou a indústria de games no Brasil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/historia-da-industria-de-jogos-de-computador-no-brasil/)
-- [Lésbica, feminista e preta](https://gamarevista.uol.com.br/colunistas/winnie-bueno/lesbica-feminista-e-preta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
