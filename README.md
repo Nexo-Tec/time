@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nova Zelândia volta a lockdown após seis meses](https://www.nexojornal.com.br/extra/2021/08/18/Nova-Zel%C3%A2ndia-volta-a-lockdown-ap%C3%B3s-seis-meses)
-- [Os relatos de estupros como arma de guerra no conflito na Etiópia](https://www.nexojornal.com.br/expresso/2021/08/18/Os-relatos-de-estupros-como-arma-de-guerra-no-conflito-na-Eti%C3%B3pia)
-- [Procuradoria denuncia blogueiro bolsonarista por ameaças](https://www.nexojornal.com.br/extra/2021/08/18/Procuradoria-denuncia-blogueiro-bolsonarista-por-amea%C3%A7as)
-- [Senadores apresentam notícia-crime contra Aras no Supremo](https://www.nexojornal.com.br/extra/2021/08/18/Senadores-apresentam-not%C3%ADcia-crime-contra-Aras-no-Supremo)
-- [Como o PT de Lula justifica o apoio à volta das coligaçõescoligações](https://www.nexojornal.com.br/expresso/2021/08/18/Como-o-PT-de-Lula-justifica-o-apoio-%C3%A0-volta-das-coliga%C3%A7%C3%B5escoliga%C3%A7%C3%B5es)
+- [Câmara finaliza reforma e Senado decidirá futuro das coligações](https://www.nexojornal.com.br/extra/2021/08/18/C%C3%A2mara-finaliza-reforma-e-Senado-decidir%C3%A1-futuro-das-coliga%C3%A7%C3%B5es)
+- [Como Bolsonaro emula o ‘tio do zap’ com teorias conspiratórias](https://www.nexojornal.com.br/expresso/2021/08/17/Como-Bolsonaro-emula-o-%E2%80%98tio-do-zap%E2%80%99-com-teorias-conspirat%C3%B3rias)
+- [Sérgio Reis, de ídolo sertanejo a militante bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/17/S%C3%A9rgio-Reis-de-%C3%ADdolo-sertanejo-a-militante-bolsonarista)
+- [Certa ideia de (ódio ao) Brasil e em que ela pode resultar](https://www.nexojornal.com.br/colunistas/2021/Certa-ideia-de-%C3%B3dio-ao-Brasil-e-em-que-ela-pode-resultar)
+- [‘Crime organizado tem cumplicidade do poder público’](https://www.nexojornal.com.br/entrevista/2021/08/17/%E2%80%98Crime-organizado-tem-cumplicidade-do-poder-p%C3%BAblico%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
