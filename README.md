@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Doria nomeia Rodrigo Maia para secretaria no governo de SP](https://www.nexojornal.com.br/extra/2021/08/19/Doria-nomeia-Rodrigo-Maia-para-secretaria-no-governo-de-SP)
-- [Anvisa veta aplicação da Coronavac em crianças e adolescentes](https://www.nexojornal.com.br/extra/2021/08/19/Anvisa-veta-aplica%C3%A7%C3%A3o-da-Coronavac-em-crian%C3%A7as-e-adolescentes)
-- [Como o grupo científico de Doria contra covid foi esvaziado](https://www.nexojornal.com.br/expresso/2021/08/18/Como-o-grupo-cient%C3%ADfico-de-Doria-contra-covid-foi-esvaziado)
-- [Ministro da Saúde diz ser contra uso obrigatório de máscaras](https://www.nexojornal.com.br/extra/2021/08/18/Ministro-da-Sa%C3%BAde-diz-ser-contra-uso-obrigat%C3%B3rio-de-m%C3%A1scaras)
-- [As pulseiras polêmicas e a elitização de Fernando de Noronha](https://www.nexojornal.com.br/expresso/2021/08/18/As-pulseiras-pol%C3%AAmicas-e-a-elitiza%C3%A7%C3%A3o-de-Fernando-de-Noronha)
+- [Bolsonaro move ação para limitar poderes do Supremo](https://www.nexojornal.com.br/extra/2021/08/20/Bolsonaro-move-a%C3%A7%C3%A3o-para-limitar-poderes-do-Supremo)
+- [Polícia Federal cumpre mandados contra Sérgio Reis e deputado](https://www.nexojornal.com.br/extra/2021/08/20/Pol%C3%ADcia-Federal-cumpre-mandados-contra-S%C3%A9rgio-Reis-e-deputado)
+- [​​Os sinais de que o Brasil se prepara para aplicar doses de reforço](https://www.nexojornal.com.br/expresso/2021/08/19/%E2%80%8B%E2%80%8BOs-sinais-de-que-o-Brasil-se-prepara-para-aplicar-doses-de-refor%C3%A7o)
+- [Taleban anuncia volta do nome Emirado Islâmico do Afeganistão](https://www.nexojornal.com.br/extra/2021/08/19/Taleban-anuncia-volta-do-nome-Emirado-Isl%C3%A2mico-do-Afeganist%C3%A3o)
+- [Para atrair investidores, OnlyFans vai restringir pornografia](https://www.nexojornal.com.br/extra/2021/08/19/Para-atrair-investidores-OnlyFans-vai-restringir-pornografia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
