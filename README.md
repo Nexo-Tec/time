@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Hello, Brasil!](https://gamarevista.uol.com.br/cultura/trecho-de-livro/hello-brasil/)
 - [Make para quem não vê](https://gamarevista.uol.com.br/sociedade/make-para-quem-nao-ve/)
 - [A nova fase de Lorde](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-lorde/)
 - [A história do advogado abolicionista Doutor Gama](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-advogado-abolicionista-doutor-gama/)
 - [As noites que pareciam ser o fim da pandemia nos EUA](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-noites-que-pareciam-ser-o-fim-da-pandemia-nos-eua/)
-- [Um curso sobre a culinária da diáspora africana](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-culinaria-da-diaspora-africana/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
