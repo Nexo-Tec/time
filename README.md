@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rede terrorista fica responsável pela segurança em Cabul](https://www.nexojornal.com.br/extra/2021/08/20/Rede-terrorista-fica-respons%C3%A1vel-pela-seguran%C3%A7a-em-Cabul)
-- [Bolsonaro move ação para limitar poderes do Supremo](https://www.nexojornal.com.br/extra/2021/08/20/Bolsonaro-move-a%C3%A7%C3%A3o-para-limitar-poderes-do-Supremo)
-- [Polícia Federal cumpre mandados contra Sérgio Reis e deputado](https://www.nexojornal.com.br/extra/2021/08/20/Pol%C3%ADcia-Federal-cumpre-mandados-contra-S%C3%A9rgio-Reis-e-deputado)
-- [​​Os sinais de que o Brasil se prepara para aplicar doses de reforço](https://www.nexojornal.com.br/expresso/2021/08/19/%E2%80%8B%E2%80%8BOs-sinais-de-que-o-Brasil-se-prepara-para-aplicar-doses-de-refor%C3%A7o)
-- [Taleban anuncia volta do nome Emirado Islâmico do Afeganistão](https://www.nexojornal.com.br/extra/2021/08/19/Taleban-anuncia-volta-do-nome-Emirado-Isl%C3%A2mico-do-Afeganist%C3%A3o)
+- [Grécia finaliza muro para barrar refugiados afegãos](https://www.nexojornal.com.br/extra/2021/08/21/Gr%C3%A9cia-finaliza-muro-para-barrar-refugiados-afeg%C3%A3os)
+- [STF e Congresso repudiam pedido de destituição de Moraes](https://www.nexojornal.com.br/extra/2021/08/20/STF-e-Congresso-repudiam-pedido-de-destitui%C3%A7%C3%A3o-de-Moraes)
+- [A identidade na escrita de Carolina Maria de Jesus](https://www.nexojornal.com.br/expresso/2021/08/20/A-identidade-na-escrita-de-Carolina-Maria-de-Jesus)
+- [Bolsonaro veta fundo eleitoral de R$ 5,7 bi. Valor será negociado](https://www.nexojornal.com.br/extra/2021/08/20/Bolsonaro-veta-fundo-eleitoral-de-R-57-bi.-Valor-ser%C3%A1-negociado)
+- [A vida das mulheres no Afeganistão, antes e depois do Taleban](https://www.nexojornal.com.br/entrevista/2021/08/20/A-vida-das-mulheres-no-Afeganist%C3%A3o-antes-e-depois-do-Taleban)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
