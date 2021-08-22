@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lilia Schwarcz: ‘Nostalgia da ditadura é uma memória do que não foi’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lilia-schwarcz-o-que-voce-lembra/)
 - [Mayra Aguiar](https://gamarevista.uol.com.br/pessoas/questionario-proust/mayra-aguiar/)
 - [Hello, Brasil!](https://gamarevista.uol.com.br/cultura/trecho-de-livro/hello-brasil/)
 - [Make para quem não vê](https://gamarevista.uol.com.br/sociedade/make-para-quem-nao-ve/)
 - [A nova fase de Lorde](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-lorde/)
-- [A história do advogado abolicionista Doutor Gama](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-advogado-abolicionista-doutor-gama/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
