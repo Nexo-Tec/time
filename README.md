@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Incêndios e tempo seco causam ‘chuva de cinzas’ em São Paulo](https://www.nexojornal.com.br/extra/2021/08/22/Inc%C3%AAndios-e-tempo-seco-causam-%E2%80%98chuva-de-cinzas%E2%80%99-em-S%C3%A3o-Paulo)
+- [Justiça Federal nega reabertura do caso do sítio de Atibaia](https://www.nexojornal.com.br/extra/2021/08/22/Justi%C3%A7a-Federal-nega-reabertura-do-caso-do-s%C3%ADtio-de-Atibaia)
 - [Novo tumulto no aeroporto de Cabul deixa 7 mortos](https://www.nexojornal.com.br/extra/2021/08/22/Novo-tumulto-no-aeroporto-de-Cabul-deixa-7-mortos)
 - [5 livros de autoria negra para quebrar o racismo editorial](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autoria-negra-para-quebrar-o-racismo-editorial)
 - [‘Quem legitimou o Taleban no poder foram os próprios EUA’](https://www.nexojornal.com.br/entrevista/2021/08/22/%E2%80%98Quem-legitimou-o-Taleban-no-poder-foram-os-pr%C3%B3prios-EUA%E2%80%99)
-- [Acampamento indígena em Brasília pressiona STF e Congresso](https://www.nexojornal.com.br/extra/2021/08/21/Acampamento-ind%C3%ADgena-em-Bras%C3%ADlia-pressiona-STF-e-Congresso)
-- [O que você sabe sobre a Revolução Haitiana? Faça o teste](https://www.nexojornal.com.br/interativo/2021/08/21/O-que-voc%C3%AA-sabe-sobre-a-Revolu%C3%A7%C3%A3o-Haitiana-Fa%C3%A7a-o-teste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
