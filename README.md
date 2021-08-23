@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Hollywood tenta evitar o vazamento de filmes](https://www.nexojornal.com.br/expresso/2021/08/23/Como-Hollywood-tenta-evitar-o-vazamento-de-filmes)
-- [Juiz dos EUA derruba lei que excluía regras trabalhistas para apps](https://www.nexojornal.com.br/extra/2021/08/23/Juiz-dos-EUA-derruba-lei-que-exclu%C3%ADa-regras-trabalhistas-para-apps)
-- [Como a invasão do Capitólio ainda ecoa na política americana](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-invas%C3%A3o-do-Capit%C3%B3lio-ainda-ecoa-na-pol%C3%ADtica-americana)
-- [Incêndio devastou mais da metade do cerrado paulistano](https://www.nexojornal.com.br/extra/2021/08/23/Inc%C3%AAndio-devastou-mais-da-metade-do-cerrado-paulistano)
-- [Chefe da PM que convocou para ato bolsonarista é afastado](https://www.nexojornal.com.br/extra/2021/08/23/Chefe-da-PM-que-convocou-para-ato-bolsonarista-%C3%A9-afastado)
+- [O que muda nas eleições com os ‘crimes contra o Estado Democrático’](https://www.nexojornal.com.br/expresso/2021/08/23/O-que-muda-nas-elei%C3%A7%C3%B5es-com-os-%E2%80%98crimes-contra-o-Estado-Democr%C3%A1tico%E2%80%99)
+- [Até quando veremos restos de comida no prato do brasileiro](https://www.nexojornal.com.br/ensaio/2021/At%C3%A9-quando-veremos-restos-de-comida-no-prato-do-brasileiro)
+- [Av. Paulista será ocupada por bolsonaristas no 7 de setembro](https://www.nexojornal.com.br/extra/2021/08/23/Av.-Paulista-ser%C3%A1-ocupada-por-bolsonaristas-no-7-de-setembro)
+- [Como a reforma do Imposto de Renda foi do atropelo ao impasse](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-reforma-do-Imposto-de-Renda-foi-do-atropelo-ao-impasse)
+- [Final da Eurocopa foi evento superdisseminador de covid-19](https://www.nexojornal.com.br/extra/2021/08/22/Final-da-Eurocopa-foi-evento-superdisseminador-de-covid-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
