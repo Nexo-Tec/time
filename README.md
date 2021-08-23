@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Novo tumulto no aeroporto de Cabul deixa 7 mortos](https://www.nexojornal.com.br/extra/2021/08/22/Novo-tumulto-no-aeroporto-de-Cabul-deixa-7-mortos)
-- [5 livros de autoria negra para quebrar o racismo editorial](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autoria-negra-para-quebrar-o-racismo-editorial)
-- [‘Quem legitimou o Taleban no poder foram os próprios EUA’](https://www.nexojornal.com.br/entrevista/2021/08/22/%E2%80%98Quem-legitimou-o-Taleban-no-poder-foram-os-pr%C3%B3prios-EUA%E2%80%99)
-- [Acampamento indígena em Brasília pressiona STF e Congresso](https://www.nexojornal.com.br/extra/2021/08/21/Acampamento-ind%C3%ADgena-em-Bras%C3%ADlia-pressiona-STF-e-Congresso)
-- [O que você sabe sobre a Revolução Haitiana? Faça o teste](https://www.nexojornal.com.br/interativo/2021/08/21/O-que-voc%C3%AA-sabe-sobre-a-Revolu%C3%A7%C3%A3o-Haitiana-Fa%C3%A7a-o-teste)
+- [Como Hollywood tenta evitar o vazamento de filmes](https://www.nexojornal.com.br/expresso/2021/08/23/Como-Hollywood-tenta-evitar-o-vazamento-de-filmes)
+- [Juiz dos EUA derruba lei que excluía regras trabalhistas para apps](https://www.nexojornal.com.br/extra/2021/08/23/Juiz-dos-EUA-derruba-lei-que-exclu%C3%ADa-regras-trabalhistas-para-apps)
+- [Como a invasão do Capitólio ainda ecoa na política americana](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-invas%C3%A3o-do-Capit%C3%B3lio-ainda-ecoa-na-pol%C3%ADtica-americana)
+- [Incêndio devastou mais da metade do cerrado paulistano](https://www.nexojornal.com.br/extra/2021/08/23/Inc%C3%AAndio-devastou-mais-da-metade-do-cerrado-paulistano)
+- [Chefe da PM que convocou para ato bolsonarista é afastado](https://www.nexojornal.com.br/extra/2021/08/23/Chefe-da-PM-que-convocou-para-ato-bolsonarista-%C3%A9-afastado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
