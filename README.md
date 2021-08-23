@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Novo tumulto no aeroporto de Cabul deixa 7 mortos](https://www.nexojornal.com.br/extra/2021/08/22/Novo-tumulto-no-aeroporto-de-Cabul-deixa-7-mortos)
-- [5 livros de autoria negra para quebrar o racismo editorial](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-autoria-negra-para-quebrar-o-racismo-editorial)
-- [‘Quem legitimou o Taleban no poder foram os próprios EUA’](https://www.nexojornal.com.br/entrevista/2021/08/22/%E2%80%98Quem-legitimou-o-Taleban-no-poder-foram-os-pr%C3%B3prios-EUA%E2%80%99)
-- [Acampamento indígena em Brasília pressiona STF e Congresso](https://www.nexojornal.com.br/extra/2021/08/21/Acampamento-ind%C3%ADgena-em-Bras%C3%ADlia-pressiona-STF-e-Congresso)
-- [O que você sabe sobre a Revolução Haitiana? Faça o teste](https://www.nexojornal.com.br/interativo/2021/08/21/O-que-voc%C3%AA-sabe-sobre-a-Revolu%C3%A7%C3%A3o-Haitiana-Fa%C3%A7a-o-teste)
+- [O que muda nas eleições com os ‘crimes contra o Estado Democrático’](https://www.nexojornal.com.br/expresso/2021/08/23/O-que-muda-nas-elei%C3%A7%C3%B5es-com-os-%E2%80%98crimes-contra-o-Estado-Democr%C3%A1tico%E2%80%99)
+- [Até quando veremos restos de comida no prato do brasileiro](https://www.nexojornal.com.br/ensaio/2021/At%C3%A9-quando-veremos-restos-de-comida-no-prato-do-brasileiro)
+- [Av. Paulista será ocupada por bolsonaristas no 7 de setembro](https://www.nexojornal.com.br/extra/2021/08/23/Av.-Paulista-ser%C3%A1-ocupada-por-bolsonaristas-no-7-de-setembro)
+- [Como a reforma do Imposto de Renda foi do atropelo ao impasse](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-reforma-do-Imposto-de-Renda-foi-do-atropelo-ao-impasse)
+- [Final da Eurocopa foi evento superdisseminador de covid-19](https://www.nexojornal.com.br/extra/2021/08/22/Final-da-Eurocopa-foi-evento-superdisseminador-de-covid-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
