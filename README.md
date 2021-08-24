@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Com que roupa eu vou?](https://gamarevista.uol.com.br/estilo-de-vida/com-que-roupa-eu-vou/)
 - [Ring Light](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ring-light/)
 - [As mentiras que as mães contam por amor](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-mentiras-que-as-maes-contam-por-amor/)
 - [@helenarizzo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/helenarizzo/)
 - [Lilia Schwarcz: ‘Nostalgia da ditadura é uma memória do que não foi’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lilia-schwarcz-o-que-voce-lembra/)
-- [Mayra Aguiar](https://gamarevista.uol.com.br/pessoas/questionario-proust/mayra-aguiar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
