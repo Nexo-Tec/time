@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Hollywood tenta evitar o vazamento de filmes](https://www.nexojornal.com.br/expresso/2021/08/23/Como-Hollywood-tenta-evitar-o-vazamento-de-filmes)
-- [Juiz dos EUA derruba lei que excluía regras trabalhistas para apps](https://www.nexojornal.com.br/extra/2021/08/23/Juiz-dos-EUA-derruba-lei-que-exclu%C3%ADa-regras-trabalhistas-para-apps)
-- [Como a invasão do Capitólio ainda ecoa na política americana](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-invas%C3%A3o-do-Capit%C3%B3lio-ainda-ecoa-na-pol%C3%ADtica-americana)
-- [Incêndio devastou mais da metade do cerrado paulistano](https://www.nexojornal.com.br/extra/2021/08/23/Inc%C3%AAndio-devastou-mais-da-metade-do-cerrado-paulistano)
-- [Chefe da PM que convocou para ato bolsonarista é afastado](https://www.nexojornal.com.br/extra/2021/08/23/Chefe-da-PM-que-convocou-para-ato-bolsonarista-%C3%A9-afastado)
+- [Quando Augusto Aras deixou de agir diante de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/23/Quando-Augusto-Aras-deixou-de-agir-diante-de-Bolsonaro)
+- [PM e bolsonarismo: quais os limites legais dessa relação](https://www.nexojornal.com.br/expresso/2021/08/23/PM-e-bolsonarismo-quais-os-limites-legais-dessa-rela%C3%A7%C3%A3o)
+- [Fogo no Pantanal: por que 2021 pode ser pior que 2020](https://www.nexojornal.com.br/expresso/2021/08/23/Fogo-no-Pantanal-por-que-2021-pode-ser-pior-que-2020)
+- [Universidade para todos ou para uma ‘elite intelectual’](https://www.nexojornal.com.br/colunistas/2021/Universidade-para-todos-ou-para-uma-%E2%80%98elite-intelectual%E2%80%99)
+- [Marinha afasta militar trans e juiz pede explicação](https://www.nexojornal.com.br/extra/2021/08/23/Marinha-afasta-militar-trans-e-juiz-pede-explica%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
