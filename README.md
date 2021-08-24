@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A conservação dos Campos Sulinos nas normas ambientais](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-conserva%C3%A7%C3%A3o-dos-Campos-Sulinos-nas-normas-ambientais)
-- [Pandemia, trauma social e responsabilização institucional](https://pp.nexojornal.com.br/ponto-de-vista/2021/Pandemia-trauma-social-e-responsabiliza%C3%A7%C3%A3o-institucional)
 - [Variantes da covid-19](https://pp.nexojornal.com.br/glossario/Variantes-da-covid-19)
 - [Como o êxodo rural afeta o consumo de carne de animais silvestres na Amazônia?](https://pp.nexojornal.com.br/academico/2021/Como-o-%C3%AAxodo-rural-afeta-o-consumo-de-carne-de-animais-silvestres-na-Amaz%C3%B4nia)
 - [Estratégia de incentivo à requalificação de imóveis em São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/Estrat%C3%A9gia-de-incentivo-%C3%A0-requalifica%C3%A7%C3%A3o-de-im%C3%B3veis-em-S%C3%A3o-Paulo)
+- [Bolhas de proteção locais e os números da pandemia](https://pp.nexojornal.com.br/academico/2021/Bolhas-de-prote%C3%A7%C3%A3o-locais-e-os-n%C3%BAmeros-da-pandemia)
+- [Respostas a uma crise sistêmica: transversalidade de gênero, ODS e a sindemia de covid-19](https://pp.nexojornal.com.br/ponto-de-vista/2021/Respostas-a-uma-crise-sist%C3%AAmica-transversalidade-de-g%C3%AAnero-ODS-e-a-sindemia-de-covid-19)
 <!-- PP_LIST:END -->
 
