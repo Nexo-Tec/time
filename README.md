@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Hollywood tenta evitar o vazamento de filmes](https://www.nexojornal.com.br/expresso/2021/08/23/Como-Hollywood-tenta-evitar-o-vazamento-de-filmes)
-- [Juiz dos EUA derruba lei que excluía regras trabalhistas para apps](https://www.nexojornal.com.br/extra/2021/08/23/Juiz-dos-EUA-derruba-lei-que-exclu%C3%ADa-regras-trabalhistas-para-apps)
-- [Como a invasão do Capitólio ainda ecoa na política americana](https://www.nexojornal.com.br/expresso/2021/08/23/Como-a-invas%C3%A3o-do-Capit%C3%B3lio-ainda-ecoa-na-pol%C3%ADtica-americana)
-- [Incêndio devastou mais da metade do cerrado paulistano](https://www.nexojornal.com.br/extra/2021/08/23/Inc%C3%AAndio-devastou-mais-da-metade-do-cerrado-paulistano)
-- [Chefe da PM que convocou para ato bolsonarista é afastado](https://www.nexojornal.com.br/extra/2021/08/23/Chefe-da-PM-que-convocou-para-ato-bolsonarista-%C3%A9-afastado)
+- [Em sabatina, Aras reconhece ameaças a ministros do STF](https://www.nexojornal.com.br/extra/2021/08/24/Em-sabatina-Aras-reconhece-amea%C3%A7as-a-ministros-do-STF)
+- [Brasil alcança Europa e EUA no percentual da população com 1ª dose](https://www.nexojornal.com.br/grafico/2021/08/24/Brasil-alcan%C3%A7a-Europa-e-EUA-no-percentual-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
+- [Quais as rotas e os obstáculos de quem foge do Taleban](https://www.nexojornal.com.br/expresso/2021/08/24/Quais-as-rotas-e-os-obst%C3%A1culos-de-quem-foge-do-Taleban)
+- [Variante delta tem carga viral 300 vezes maior, aponta pesquisa](https://www.nexojornal.com.br/extra/2021/08/24/Variante-delta-tem-carga-viral-300-vezes-maior-aponta-pesquisa)
+- [Morre ex-presidente do Chade preso por crimes contra humanidade](https://www.nexojornal.com.br/extra/2021/08/24/Morre-ex-presidente-do-Chade-preso-por-crimes-contra-humanidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
