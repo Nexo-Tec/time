@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quando Augusto Aras deixou de agir diante de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/08/23/Quando-Augusto-Aras-deixou-de-agir-diante-de-Bolsonaro)
-- [PM e bolsonarismo: quais os limites legais dessa relação](https://www.nexojornal.com.br/expresso/2021/08/23/PM-e-bolsonarismo-quais-os-limites-legais-dessa-rela%C3%A7%C3%A3o)
-- [Fogo no Pantanal: por que 2021 pode ser pior que 2020](https://www.nexojornal.com.br/expresso/2021/08/23/Fogo-no-Pantanal-por-que-2021-pode-ser-pior-que-2020)
-- [Universidade para todos ou para uma ‘elite intelectual’](https://www.nexojornal.com.br/colunistas/2021/Universidade-para-todos-ou-para-uma-%E2%80%98elite-intelectual%E2%80%99)
-- [Marinha afasta militar trans e juiz pede explicação](https://www.nexojornal.com.br/extra/2021/08/23/Marinha-afasta-militar-trans-e-juiz-pede-explica%C3%A7%C3%A3o)
+- [Em sabatina, Aras reconhece ameaças a ministros do STF](https://www.nexojornal.com.br/extra/2021/08/24/Em-sabatina-Aras-reconhece-amea%C3%A7as-a-ministros-do-STF)
+- [Brasil alcança Europa e EUA no percentual da população com 1ª dose](https://www.nexojornal.com.br/grafico/2021/08/24/Brasil-alcan%C3%A7a-Europa-e-EUA-no-percentual-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
+- [Quais as rotas e os obstáculos de quem foge do Taleban](https://www.nexojornal.com.br/expresso/2021/08/24/Quais-as-rotas-e-os-obst%C3%A1culos-de-quem-foge-do-Taleban)
+- [Variante delta tem carga viral 300 vezes maior, aponta pesquisa](https://www.nexojornal.com.br/extra/2021/08/24/Variante-delta-tem-carga-viral-300-vezes-maior-aponta-pesquisa)
+- [Morre ex-presidente do Chade preso por crimes contra humanidade](https://www.nexojornal.com.br/extra/2021/08/24/Morre-ex-presidente-do-Chade-preso-por-crimes-contra-humanidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
