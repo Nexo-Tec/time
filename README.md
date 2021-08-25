@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em sabatina, Aras reconhece ameaças a ministros do STF](https://www.nexojornal.com.br/extra/2021/08/24/Em-sabatina-Aras-reconhece-amea%C3%A7as-a-ministros-do-STF)
-- [Brasil alcança Europa e EUA no percentual da população com 1ª dose](https://www.nexojornal.com.br/grafico/2021/08/24/Brasil-alcan%C3%A7a-Europa-e-EUA-no-percentual-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
-- [Quais as rotas e os obstáculos de quem foge do Taleban](https://www.nexojornal.com.br/expresso/2021/08/24/Quais-as-rotas-e-os-obst%C3%A1culos-de-quem-foge-do-Taleban)
-- [Variante delta tem carga viral 300 vezes maior, aponta pesquisa](https://www.nexojornal.com.br/extra/2021/08/24/Variante-delta-tem-carga-viral-300-vezes-maior-aponta-pesquisa)
-- [Morre ex-presidente do Chade preso por crimes contra humanidade](https://www.nexojornal.com.br/extra/2021/08/24/Morre-ex-presidente-do-Chade-preso-por-crimes-contra-humanidade)
+- [Polícia Federal descobre esquema bilionário com criptomoedas](https://www.nexojornal.com.br/extra/2021/08/25/Pol%C3%ADcia-Federal-descobre-esquema-bilion%C3%A1rio-com-criptomoedas)
+- [Quais os efeitos da crise do clima para as crianças](https://www.nexojornal.com.br/expresso/2021/08/25/Quais-os-efeitos-da-crise-do-clima-para-as-crian%C3%A7as)
+- [IPCA-15 tem maior alta para agosto desde 2002](https://www.nexojornal.com.br/extra/2021/08/25/IPCA-15-tem-maior-alta-para-agosto-desde-2002)
+- [Logo da Palmares: entre Estado laico e cruzada bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/25/Logo-da-Palmares-entre-Estado-laico-e-cruzada-bolsonarista)
+- [Ministério da Saúde anuncia terceira dose para idosos](https://www.nexojornal.com.br/extra/2021/08/25/Minist%C3%A9rio-da-Sa%C3%BAde-anuncia-terceira-dose-para-idosos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
