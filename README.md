@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o discurso contra demarcação de terras indígenas se repete](https://www.nexojornal.com.br/expresso/2021/08/24/Como-o-discurso-contra-demarca%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas-se-repete)
-- [O que esperar da Procuradoria-Geral da República até 2023](https://www.nexojornal.com.br/expresso/2021/08/24/O-que-esperar-da-Procuradoria-Geral-da-Rep%C3%BAblica-at%C3%A9-2023)
-- [Os países que pegam vacinas do consórcio global sem precisar](https://www.nexojornal.com.br/expresso/2021/08/24/Os-pa%C3%ADses-que-pegam-vacinas-do-cons%C3%B3rcio-global-sem-precisar)
-- [Bolsonaro vai ao STF contra lei para indenizar profissionais afetados pela covid](https://www.nexojornal.com.br/extra/2021/08/24/Bolsonaro-vai-ao-STF-contra-lei-para-indenizar-profissionais-afetados-pela-covid)
-- [Sócio de farmacêutica confirma à CPI reunião marcada por Ricardo Barros](https://www.nexojornal.com.br/extra/2021/08/24/S%C3%B3cio-de-farmac%C3%AAutica-confirma-%C3%A0-CPI-reuni%C3%A3o-marcada-por-Ricardo-Barros)
+- [Em sabatina, Aras reconhece ameaças a ministros do STF](https://www.nexojornal.com.br/extra/2021/08/24/Em-sabatina-Aras-reconhece-amea%C3%A7as-a-ministros-do-STF)
+- [Brasil alcança Europa e EUA no percentual da população com 1ª dose](https://www.nexojornal.com.br/grafico/2021/08/24/Brasil-alcan%C3%A7a-Europa-e-EUA-no-percentual-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
+- [Quais as rotas e os obstáculos de quem foge do Taleban](https://www.nexojornal.com.br/expresso/2021/08/24/Quais-as-rotas-e-os-obst%C3%A1culos-de-quem-foge-do-Taleban)
+- [Variante delta tem carga viral 300 vezes maior, aponta pesquisa](https://www.nexojornal.com.br/extra/2021/08/24/Variante-delta-tem-carga-viral-300-vezes-maior-aponta-pesquisa)
+- [Morre ex-presidente do Chade preso por crimes contra humanidade](https://www.nexojornal.com.br/extra/2021/08/24/Morre-ex-presidente-do-Chade-preso-por-crimes-contra-humanidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
