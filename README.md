@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia Federal descobre esquema bilionário com criptomoedas](https://www.nexojornal.com.br/extra/2021/08/25/Pol%C3%ADcia-Federal-descobre-esquema-bilion%C3%A1rio-com-criptomoedas)
-- [Quais os efeitos da crise do clima para as crianças](https://www.nexojornal.com.br/expresso/2021/08/25/Quais-os-efeitos-da-crise-do-clima-para-as-crian%C3%A7as)
-- [IPCA-15 tem maior alta para agosto desde 2002](https://www.nexojornal.com.br/extra/2021/08/25/IPCA-15-tem-maior-alta-para-agosto-desde-2002)
-- [Logo da Palmares: entre Estado laico e cruzada bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/25/Logo-da-Palmares-entre-Estado-laico-e-cruzada-bolsonarista)
-- [Ministério da Saúde anuncia terceira dose para idosos](https://www.nexojornal.com.br/extra/2021/08/25/Minist%C3%A9rio-da-Sa%C3%BAde-anuncia-terceira-dose-para-idosos)
+- [O papel da arquitetura na reintegração social de detentos](https://www.nexojornal.com.br/academico/2021/08/26/O-papel-da-arquitetura-na-reintegra%C3%A7%C3%A3o-social-de-detentos)
+- [O ritual de acasalamento do choco](https://www.nexojornal.com.br/incoming/O-ritual-de-acasalamento-do-choco)
+- [Fachin arquiva ação de Bolsonaro contra inquérito sem aval de Aras](https://www.nexojornal.com.br/extra/2021/08/26/Fachin-arquiva-a%C3%A7%C3%A3o-de-Bolsonaro-contra-inqu%C3%A9rito-sem-aval-de-Aras)
+- [Variante delta faz cidade do Rio adiar novas etapas da reabertura](https://www.nexojornal.com.br/extra/2021/08/26/Variante-delta-faz-cidade-do-Rio-adiar-novas-etapas-da-reabertura)
+- [Inflação acumulada desde 2020 é maior para os mais pobres](https://www.nexojornal.com.br/grafico/2021/08/26/Infla%C3%A7%C3%A3o-acumulada-desde-2020-%C3%A9-maior-para-os-mais-pobres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
