@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia Federal descobre esquema bilionário com criptomoedas](https://www.nexojornal.com.br/extra/2021/08/25/Pol%C3%ADcia-Federal-descobre-esquema-bilion%C3%A1rio-com-criptomoedas)
-- [Quais os efeitos da crise do clima para as crianças](https://www.nexojornal.com.br/expresso/2021/08/25/Quais-os-efeitos-da-crise-do-clima-para-as-crian%C3%A7as)
-- [IPCA-15 tem maior alta para agosto desde 2002](https://www.nexojornal.com.br/extra/2021/08/25/IPCA-15-tem-maior-alta-para-agosto-desde-2002)
-- [Logo da Palmares: entre Estado laico e cruzada bolsonarista](https://www.nexojornal.com.br/expresso/2021/08/25/Logo-da-Palmares-entre-Estado-laico-e-cruzada-bolsonarista)
-- [Ministério da Saúde anuncia terceira dose para idosos](https://www.nexojornal.com.br/extra/2021/08/25/Minist%C3%A9rio-da-Sa%C3%BAde-anuncia-terceira-dose-para-idosos)
+- [Como o discurso contra demarcação de terras indígenas se repete](https://www.nexojornal.com.br/expresso/2021/08/24/Como-o-discurso-contra-demarca%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas-se-repete)
+- [O que esperar da Procuradoria-Geral da República até 2023](https://www.nexojornal.com.br/expresso/2021/08/24/O-que-esperar-da-Procuradoria-Geral-da-Rep%C3%BAblica-at%C3%A9-2023)
+- [Os países que pegam vacinas do consórcio global sem precisar](https://www.nexojornal.com.br/expresso/2021/08/24/Os-pa%C3%ADses-que-pegam-vacinas-do-cons%C3%B3rcio-global-sem-precisar)
+- [Bolsonaro vai ao STF contra lei para indenizar profissionais afetados pela covid](https://www.nexojornal.com.br/extra/2021/08/24/Bolsonaro-vai-ao-STF-contra-lei-para-indenizar-profissionais-afetados-pela-covid)
+- [Sócio de farmacêutica confirma à CPI reunião marcada por Ricardo Barros](https://www.nexojornal.com.br/extra/2021/08/24/S%C3%B3cio-de-farmac%C3%AAutica-confirma-%C3%A0-CPI-reuni%C3%A3o-marcada-por-Ricardo-Barros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
