@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como falar de morte com as crianças](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-falar-de-morte-com-as-criancas/)
-- [Fernanda sempre foi urgente](https://gamarevista.uol.com.br/pessoas/ultimos-dias-de-heinekens-e-de-rosas-de-fernanda-young/)
-- [Significado especial](https://gamarevista.uol.com.br/colunistas/marcello-dantas/significado-especial/)
-- [Com que roupa eu vou?](https://gamarevista.uol.com.br/estilo-de-vida/com-que-roupa-eu-vou/)
-- [Ring Light](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ring-light/)
+- [A exposição inédita do artista chileno Alfredo Jaar](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-inedita-do-artista-chileno-alfredo-jaar/)
+- [“The Chair”, nova série com Sandra Oh da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-chair-nova-serie-com-sandra-oh-da-netflix/)
+- [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
+- [Centenário de Lygia Clark](https://gamarevista.uol.com.br/achamos-que-vale/ir/centenario-de-lygia-clark/)
+- [Uma série de conferências com pensadores contemporâneos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-serie-de-conferencias-com-pensadores-contemporaneos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
