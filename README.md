@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como falar de morte com as crianças](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-falar-de-morte-com-as-criancas/)
 - [Fernanda sempre foi urgente](https://gamarevista.uol.com.br/pessoas/ultimos-dias-de-heinekens-e-de-rosas-de-fernanda-young/)
 - [Significado especial](https://gamarevista.uol.com.br/colunistas/marcello-dantas/significado-especial/)
 - [Com que roupa eu vou?](https://gamarevista.uol.com.br/estilo-de-vida/com-que-roupa-eu-vou/)
 - [Ring Light](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ring-light/)
-- [As mentiras que as mães contam por amor](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-mentiras-que-as-maes-contam-por-amor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
