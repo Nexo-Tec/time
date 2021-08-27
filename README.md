@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma Tristeza Infinita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/uma-tristeza-infinita/)
 - [A exposição inédita do artista chileno Alfredo Jaar](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-inedita-do-artista-chileno-alfredo-jaar/)
 - [“The Chair”, nova série com Sandra Oh da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-chair-nova-serie-com-sandra-oh-da-netflix/)
 - [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
 - [Centenário de Lygia Clark](https://gamarevista.uol.com.br/achamos-que-vale/ir/centenario-de-lygia-clark/)
-- [Uma série de conferências com pensadores contemporâneos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-serie-de-conferencias-com-pensadores-contemporaneos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
