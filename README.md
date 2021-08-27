@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O papel da arquitetura na reintegração social de detentos](https://www.nexojornal.com.br/academico/2021/08/26/O-papel-da-arquitetura-na-reintegra%C3%A7%C3%A3o-social-de-detentos)
-- [O ritual de acasalamento do choco](https://www.nexojornal.com.br/incoming/O-ritual-de-acasalamento-do-choco)
-- [Fachin arquiva ação de Bolsonaro contra inquérito sem aval de Aras](https://www.nexojornal.com.br/extra/2021/08/26/Fachin-arquiva-a%C3%A7%C3%A3o-de-Bolsonaro-contra-inqu%C3%A9rito-sem-aval-de-Aras)
-- [Variante delta faz cidade do Rio adiar novas etapas da reabertura](https://www.nexojornal.com.br/extra/2021/08/26/Variante-delta-faz-cidade-do-Rio-adiar-novas-etapas-da-reabertura)
-- [Inflação acumulada desde 2020 é maior para os mais pobres](https://www.nexojornal.com.br/grafico/2021/08/26/Infla%C3%A7%C3%A3o-acumulada-desde-2020-%C3%A9-maior-para-os-mais-pobres)
+- [Os cálculos políticos e econômicos na crise hídrica e elétrica](https://www.nexojornal.com.br/expresso/2021/08/26/Os-c%C3%A1lculos-pol%C3%ADticos-e-econ%C3%B4micos-na-crise-h%C3%ADdrica-e-el%C3%A9trica)
+- [A lacuna educacional dos brasileiros com deficiência](https://www.nexojornal.com.br/podcast/2021/08/26/A-lacuna-educacional-dos-brasileiros-com-defici%C3%AAncia)
+- [O site com histórias de espécies que ‘voltaram’ da extinção](https://www.nexojornal.com.br/expresso/2021/08/26/O-site-com-hist%C3%B3rias-de-esp%C3%A9cies-que-%E2%80%98voltaram%E2%80%99-da-extin%C3%A7%C3%A3o)
+- [Aline Torres é a nova secretária de Cultura de São Paulo](https://www.nexojornal.com.br/extra/2021/08/26/Aline-Torres-%C3%A9-a-nova-secret%C3%A1ria-de-Cultura-de-S%C3%A3o-Paulo)
+- [Brasil tem 316 mil novos empregos formais em julho](https://www.nexojornal.com.br/extra/2021/08/26/Brasil-tem-316-mil-novos-empregos-formais-em-julho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
