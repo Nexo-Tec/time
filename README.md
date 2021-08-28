@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Pix impulsiona o aumento de sequestros-relâmpagos](https://www.nexojornal.com.br/expresso/2021/08/27/Como-o-Pix-impulsiona-o-aumento-de-sequestros-rel%C3%A2mpagos)
-- [Existe saída para a violência no Brasil?](https://www.nexojornal.com.br/podcast/2021/08/27/Existe-sa%C3%ADda-para-a-viol%C3%AAncia-no-Brasil)
-- [Extratos da Semana 27.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-27.08.2021)
-- [Escolas chinesas ensinarão o ‘modo Xi Jinping de pensar’](https://www.nexojornal.com.br/extra/2021/08/27/Escolas-chinesas-ensinar%C3%A3o-o-%E2%80%98modo-Xi-Jinping-de-pensar%E2%80%99)
-- [Como a memória deste molusco desafia o envelhecimento](https://www.nexojornal.com.br/expresso/2021/08/27/Como-a-mem%C3%B3ria-deste-molusco-desafia-o-envelhecimento)
+- [Procuradoria pede prisão domiciliar de Roberto Jefferson](https://www.nexojornal.com.br/extra/2021/08/27/Procuradoria-pede-pris%C3%A3o-domiciliar-de-Roberto-Jefferson)
+- [Rocinha em três dimensões](https://www.nexojornal.com.br/externo/2021/08/27/Rocinha-em-tr%C3%AAs-dimens%C3%B5es)
+- [O lugar de Renato Russo na cultura, segundo esta autora](https://www.nexojornal.com.br/expresso/2021/08/27/O-lugar-de-Renato-Russo-na-cultura-segundo-esta-autora)
+- [Órfãos do feminicídio: um problema que não podemos ignorar](https://www.nexojornal.com.br/colunistas/tribuna/2021/%C3%93rf%C3%A3os-do-feminic%C3%ADdio-um-problema-que-n%C3%A3o-podemos-ignorar)
+- [Queiroga e deputados bolsonaristas criticam passe vacinal](https://www.nexojornal.com.br/extra/2021/08/27/Queiroga-e-deputados-bolsonaristas-criticam-passe-vacinal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
