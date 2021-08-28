@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Pix impulsiona o aumento de sequestros-relâmpagos](https://www.nexojornal.com.br/expresso/2021/08/27/Como-o-Pix-impulsiona-o-aumento-de-sequestros-rel%C3%A2mpagos)
-- [Existe saída para a violência no Brasil?](https://www.nexojornal.com.br/podcast/2021/08/27/Existe-sa%C3%ADda-para-a-viol%C3%AAncia-no-Brasil)
-- [Extratos da Semana 27.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-27.08.2021)
-- [Escolas chinesas ensinarão o ‘modo Xi Jinping de pensar’](https://www.nexojornal.com.br/extra/2021/08/27/Escolas-chinesas-ensinar%C3%A3o-o-%E2%80%98modo-Xi-Jinping-de-pensar%E2%80%99)
-- [Como a memória deste molusco desafia o envelhecimento](https://www.nexojornal.com.br/expresso/2021/08/27/Como-a-mem%C3%B3ria-deste-molusco-desafia-o-envelhecimento)
+- [Bolsonaro diz que seu futuro é ‘prisão, morte ou vitória’](https://www.nexojornal.com.br/extra/2021/08/28/Bolsonaro-diz-que-seu-futuro-%C3%A9-%E2%80%98pris%C3%A3o-morte-ou-vit%C3%B3ria%E2%80%99)
+- [‘Reconduzido, Aras está mais livre de pressões do Planalto’](https://www.nexojornal.com.br/entrevista/2021/08/28/%E2%80%98Reconduzido-Aras-est%C3%A1-mais-livre-de-press%C3%B5es-do-Planalto%E2%80%99)
+- [Afetos são sintomas, não causas do cenário político e cultural](https://www.nexojornal.com.br/ensaio/2021/Afetos-s%C3%A3o-sintomas-n%C3%A3o-causas-do-cen%C3%A1rio-pol%C3%ADtico-e-cultural)
+- [Prefeitura de São Paulo divulga regra do passaporte vacinal](https://www.nexojornal.com.br/extra/2021/08/28/Prefeitura-de-S%C3%A3o-Paulo-divulga-regra-do-passaporte-vacinal)
+- [EUA fazem ataque com drone contra membros do Isis-K](https://www.nexojornal.com.br/extra/2021/08/28/EUA-fazem-ataque-com-drone-contra-membros-do-Isis-K)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
