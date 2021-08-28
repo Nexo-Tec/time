@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Jorge Furtado](https://gamarevista.uol.com.br/pessoas/questionario-proust/jorge-furtado/)
 - [O resgate dos grãos nativos](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/o-resgate-dos-graos-nativos/)
 - [Uma Tristeza Infinita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/uma-tristeza-infinita/)
 - [A exposição inédita do artista chileno Alfredo Jaar](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-inedita-do-artista-chileno-alfredo-jaar/)
 - [“The Chair”, nova série com Sandra Oh da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-chair-nova-serie-com-sandra-oh-da-netflix/)
-- [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
