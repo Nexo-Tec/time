@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os cálculos políticos e econômicos na crise hídrica e elétrica](https://www.nexojornal.com.br/expresso/2021/08/26/Os-c%C3%A1lculos-pol%C3%ADticos-e-econ%C3%B4micos-na-crise-h%C3%ADdrica-e-el%C3%A9trica)
-- [A lacuna educacional dos brasileiros com deficiência](https://www.nexojornal.com.br/podcast/2021/08/26/A-lacuna-educacional-dos-brasileiros-com-defici%C3%AAncia)
-- [O site com histórias de espécies que ‘voltaram’ da extinção](https://www.nexojornal.com.br/expresso/2021/08/26/O-site-com-hist%C3%B3rias-de-esp%C3%A9cies-que-%E2%80%98voltaram%E2%80%99-da-extin%C3%A7%C3%A3o)
-- [Aline Torres é a nova secretária de Cultura de São Paulo](https://www.nexojornal.com.br/extra/2021/08/26/Aline-Torres-%C3%A9-a-nova-secret%C3%A1ria-de-Cultura-de-S%C3%A3o-Paulo)
-- [Brasil tem 316 mil novos empregos formais em julho](https://www.nexojornal.com.br/extra/2021/08/26/Brasil-tem-316-mil-novos-empregos-formais-em-julho)
+- [Como o Pix impulsiona o aumento de sequestros-relâmpagos](https://www.nexojornal.com.br/expresso/2021/08/27/Como-o-Pix-impulsiona-o-aumento-de-sequestros-rel%C3%A2mpagos)
+- [Existe saída para a violência no Brasil?](https://www.nexojornal.com.br/podcast/2021/08/27/Existe-sa%C3%ADda-para-a-viol%C3%AAncia-no-Brasil)
+- [Extratos da Semana 27.08.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-27.08.2021)
+- [Escolas chinesas ensinarão o ‘modo Xi Jinping de pensar’](https://www.nexojornal.com.br/extra/2021/08/27/Escolas-chinesas-ensinar%C3%A3o-o-%E2%80%98modo-Xi-Jinping-de-pensar%E2%80%99)
+- [Como a memória deste molusco desafia o envelhecimento](https://www.nexojornal.com.br/expresso/2021/08/27/Como-a-mem%C3%B3ria-deste-molusco-desafia-o-envelhecimento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
