@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro diz que seu futuro é ‘prisão, morte ou vitória’](https://www.nexojornal.com.br/extra/2021/08/28/Bolsonaro-diz-que-seu-futuro-%C3%A9-%E2%80%98pris%C3%A3o-morte-ou-vit%C3%B3ria%E2%80%99)
-- [‘Reconduzido, Aras está mais livre de pressões do Planalto’](https://www.nexojornal.com.br/entrevista/2021/08/28/%E2%80%98Reconduzido-Aras-est%C3%A1-mais-livre-de-press%C3%B5es-do-Planalto%E2%80%99)
-- [Afetos são sintomas, não causas do cenário político e cultural](https://www.nexojornal.com.br/ensaio/2021/Afetos-s%C3%A3o-sintomas-n%C3%A3o-causas-do-cen%C3%A1rio-pol%C3%ADtico-e-cultural)
-- [Prefeitura de São Paulo divulga regra do passaporte vacinal](https://www.nexojornal.com.br/extra/2021/08/28/Prefeitura-de-S%C3%A3o-Paulo-divulga-regra-do-passaporte-vacinal)
-- [EUA fazem ataque com drone contra membros do Isis-K](https://www.nexojornal.com.br/extra/2021/08/28/EUA-fazem-ataque-com-drone-contra-membros-do-Isis-K)
+- [Bolsonaro pede que conta de luz só suba após de 7 de setembro](https://www.nexojornal.com.br/extra/2021/08/29/Bolsonaro-pede-que-conta-de-luz-s%C3%B3-suba-ap%C3%B3s-de-7-de-setembro)
+- [Caso WhatsApp é prova de fogo para sistema de proteção de dados](https://www.nexojornal.com.br/ensaio/2021/Caso-WhatsApp-%C3%A9-prova-de-fogo-para-sistema-de-prote%C3%A7%C3%A3o-de-dados)
+- [‘A nova direita brasileira não depende da figura de Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/08/29/%E2%80%98A-nova-direita-brasileira-n%C3%A3o-depende-da-figura-de-Bolsonaro%E2%80%99)
+- [Países pobres vacinaram apenas 2% da população com 1ª dose](https://www.nexojornal.com.br/extra/2021/08/29/Pa%C3%ADses-pobres-vacinaram-apenas-2-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
+- [Ícone do reggae e do dub, Lee ‘Scratch’ Perry morre aos 85 anos](https://www.nexojornal.com.br/extra/2021/08/29/%C3%8Dcone-do-reggae-e-do-dub-Lee-%E2%80%98Scratch%E2%80%99-Perry-morre-aos-85-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
