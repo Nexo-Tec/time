@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil se aproxima das 100 medalhas de ouro em Paralimpíadas](https://www.nexojornal.com.br/extra/2021/08/29/Brasil-se-aproxima-das-100-medalhas-de-ouro-em-Paralimp%C3%ADadas)
-- [O site que reúne filmes dentro de filmes, séries dentro de séries](https://www.nexojornal.com.br/expresso/2021/08/28/O-site-que-re%C3%BAne-filmes-dentro-de-filmes-s%C3%A9ries-dentro-de-s%C3%A9ries)
-- [Oposição quer ir às ruas no mesmo dia de ato bolsonarista](https://www.nexojornal.com.br/extra/2021/08/28/Oposi%C3%A7%C3%A3o-quer-ir-%C3%A0s-ruas-no-mesmo-dia-de-ato-bolsonarista)
-- [5 livros para refletir sobre diversidade e tecnologia](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-refletir-sobre-diversidade-e-tecnologia)
-- [Viúva de Marielle tenta criar o Dia da Visibilidade Lésbica no Rio](https://www.nexojornal.com.br/extra/2021/08/28/Vi%C3%BAva-de-Marielle-tenta-criar-o-Dia-da-Visibilidade-L%C3%A9sbica-no-Rio)
+- [Bolsonaro diz que seu futuro é ‘prisão, morte ou vitória’](https://www.nexojornal.com.br/extra/2021/08/28/Bolsonaro-diz-que-seu-futuro-%C3%A9-%E2%80%98pris%C3%A3o-morte-ou-vit%C3%B3ria%E2%80%99)
+- [‘Reconduzido, Aras está mais livre de pressões do Planalto’](https://www.nexojornal.com.br/entrevista/2021/08/28/%E2%80%98Reconduzido-Aras-est%C3%A1-mais-livre-de-press%C3%B5es-do-Planalto%E2%80%99)
+- [Afetos são sintomas, não causas do cenário político e cultural](https://www.nexojornal.com.br/ensaio/2021/Afetos-s%C3%A3o-sintomas-n%C3%A3o-causas-do-cen%C3%A1rio-pol%C3%ADtico-e-cultural)
+- [Prefeitura de São Paulo divulga regra do passaporte vacinal](https://www.nexojornal.com.br/extra/2021/08/28/Prefeitura-de-S%C3%A3o-Paulo-divulga-regra-do-passaporte-vacinal)
+- [EUA fazem ataque com drone contra membros do Isis-K](https://www.nexojornal.com.br/extra/2021/08/28/EUA-fazem-ataque-com-drone-contra-membros-do-Isis-K)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
