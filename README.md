@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@marjomizumoto](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marjomizumoto/)
 - [Camila Faus e Fernanda Guerreiro: a obsolescência do corpo](https://gamarevista.uol.com.br/podcast/podcast-da-semana/camila-faus-e-fernanda-guerreiro-o-que-e-descartavel/)
 - [Jorge Furtado](https://gamarevista.uol.com.br/pessoas/questionario-proust/jorge-furtado/)
 - [O resgate dos grãos nativos](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/o-resgate-dos-graos-nativos/)
 - [Uma Tristeza Infinita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/uma-tristeza-infinita/)
-- [A exposição inédita do artista chileno Alfredo Jaar](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-inedita-do-artista-chileno-alfredo-jaar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
