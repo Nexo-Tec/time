@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro pede que conta de luz só suba após de 7 de setembro](https://www.nexojornal.com.br/extra/2021/08/29/Bolsonaro-pede-que-conta-de-luz-s%C3%B3-suba-ap%C3%B3s-de-7-de-setembro)
-- [Caso WhatsApp é prova de fogo para sistema de proteção de dados](https://www.nexojornal.com.br/ensaio/2021/Caso-WhatsApp-%C3%A9-prova-de-fogo-para-sistema-de-prote%C3%A7%C3%A3o-de-dados)
-- [‘A nova direita brasileira não depende da figura de Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/08/29/%E2%80%98A-nova-direita-brasileira-n%C3%A3o-depende-da-figura-de-Bolsonaro%E2%80%99)
-- [Países pobres vacinaram apenas 2% da população com 1ª dose](https://www.nexojornal.com.br/extra/2021/08/29/Pa%C3%ADses-pobres-vacinaram-apenas-2-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
-- [Ícone do reggae e do dub, Lee ‘Scratch’ Perry morre aos 85 anos](https://www.nexojornal.com.br/extra/2021/08/29/%C3%8Dcone-do-reggae-e-do-dub-Lee-%E2%80%98Scratch%E2%80%99-Perry-morre-aos-85-anos)
+- [Brasil se aproxima das 100 medalhas de ouro em Paralimpíadas](https://www.nexojornal.com.br/extra/2021/08/29/Brasil-se-aproxima-das-100-medalhas-de-ouro-em-Paralimp%C3%ADadas)
+- [O site que reúne filmes dentro de filmes, séries dentro de séries](https://www.nexojornal.com.br/expresso/2021/08/28/O-site-que-re%C3%BAne-filmes-dentro-de-filmes-s%C3%A9ries-dentro-de-s%C3%A9ries)
+- [Oposição quer ir às ruas no mesmo dia de ato bolsonarista](https://www.nexojornal.com.br/extra/2021/08/28/Oposi%C3%A7%C3%A3o-quer-ir-%C3%A0s-ruas-no-mesmo-dia-de-ato-bolsonarista)
+- [5 livros para refletir sobre diversidade e tecnologia](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-refletir-sobre-diversidade-e-tecnologia)
+- [Viúva de Marielle tenta criar o Dia da Visibilidade Lésbica no Rio](https://www.nexojornal.com.br/extra/2021/08/28/Vi%C3%BAva-de-Marielle-tenta-criar-o-Dia-da-Visibilidade-L%C3%A9sbica-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
