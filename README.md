@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fotos do poder funcionam como monumentos](https://www.nexojornal.com.br/colunistas/2021/Fotos-do-poder-funcionam-como-monumentos)
-- [‘O novo cangaço foi aperfeiçoado pelas quadrilhas de SP’](https://www.nexojornal.com.br/entrevista/2021/08/30/%E2%80%98O-novo-canga%C3%A7o-foi-aperfei%C3%A7oado-pelas-quadrilhas-de-SP%E2%80%99)
-- [Entidades do agronegócio divulgam nota de apoio à democracia](https://www.nexojornal.com.br/extra/2021/08/30/Entidades-do-agroneg%C3%B3cio-divulgam-nota-de-apoio-%C3%A0-democracia)
-- [28% do ouro exportado pelo Brasil têm indícios de ilegalidade](https://www.nexojornal.com.br/extra/2021/08/30/28-do-ouro-exportado-pelo-Brasil-t%C3%AAm-ind%C3%ADcios-de-ilegalidade)
-- [EUA conclui saída do Afeganistão e encerra sua mais longa guerra](https://www.nexojornal.com.br/extra/2021/08/30/EUA-conclui-sa%C3%ADda-do-Afeganist%C3%A3o-e-encerra-sua-mais-longa-guerra)
+- [Preço da gasolina no Brasil é o mais alto desde maio de 2004](https://www.nexojornal.com.br/grafico/2021/08/30/Pre%C3%A7o-da-gasolina-no-Brasil-%C3%A9-o-mais-alto-desde-maio-de-2004)
+- [Por que é impossível encontrar as pinturas originais de Bob Ross](https://www.nexojornal.com.br/expresso/2021/08/30/Por-que-%C3%A9-imposs%C3%ADvel-encontrar-as-pinturas-originais-de-Bob-Ross)
+- [Os relatos de assédio na Cultura do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2021/08/30/Os-relatos-de-ass%C3%A9dio-na-Cultura-do-governo-Bolsonaro)
+- [O papel dos bancos públicos no adiamento do manifesto da Fiesp](https://www.nexojornal.com.br/expresso/2021/08/30/O-papel-dos-bancos-p%C3%BAblicos-no-adiamento-do-manifesto-da-Fiesp)
+- [O que saber sobre o Star+, novo streaming da Disney](https://www.nexojornal.com.br/expresso/2021/08/30/O-que-saber-sobre-o-Star-novo-streaming-da-Disney)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
