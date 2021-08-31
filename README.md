@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desafios e oportunidades para a gestão ecossistêmica de praias](https://pp.nexojornal.com.br/academico/2021/Desafios-e-oportunidades-para-a-gest%C3%A3o-ecossist%C3%AAmica-de-praias)
+- [A violência policial não tem rosto de mulher](https://pp.nexojornal.com.br/opiniao/2021/A-viol%C3%AAncia-policial-n%C3%A3o-tem-rosto-de-mulher)
+- [A proteção e o uso da terra nos Campos Sulinos](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos)
 - [Adriano Massuda: pandemia, o orçamento do SUS e a saúde da população](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/26/Adriano-Massuda-pandemia-o-or%C3%A7amento-do-SUS-e-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o)
 - [A segurança alimentar como política pública no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2021/08/25/A-seguran%C3%A7a-alimentar-como-pol%C3%ADtica-p%C3%BAblica-no-Brasil)
-- [Tensões raciais em cena nos esportes](https://pp.nexojornal.com.br/opiniao/2021/Tens%C3%B5es-raciais-em-cena-nos-esportes)
-- [A conservação dos Campos Sulinos nas normas ambientais](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-conserva%C3%A7%C3%A3o-dos-Campos-Sulinos-nas-normas-ambientais)
-- [Pandemia, trauma social e responsabilização institucional](https://pp.nexojornal.com.br/ponto-de-vista/2021/Pandemia-trauma-social-e-responsabiliza%C3%A7%C3%A3o-institucional)
 <!-- PP_LIST:END -->
 
