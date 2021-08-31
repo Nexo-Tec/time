@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro pede que conta de luz só suba após de 7 de setembro](https://www.nexojornal.com.br/extra/2021/08/29/Bolsonaro-pede-que-conta-de-luz-s%C3%B3-suba-ap%C3%B3s-de-7-de-setembro)
-- [Caso WhatsApp é prova de fogo para sistema de proteção de dados](https://www.nexojornal.com.br/ensaio/2021/Caso-WhatsApp-%C3%A9-prova-de-fogo-para-sistema-de-prote%C3%A7%C3%A3o-de-dados)
-- [‘A nova direita brasileira não depende da figura de Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/08/29/%E2%80%98A-nova-direita-brasileira-n%C3%A3o-depende-da-figura-de-Bolsonaro%E2%80%99)
-- [Países pobres vacinaram apenas 2% da população com 1ª dose](https://www.nexojornal.com.br/extra/2021/08/29/Pa%C3%ADses-pobres-vacinaram-apenas-2-da-popula%C3%A7%C3%A3o-com-1%C2%AA-dose)
-- [Ícone do reggae e do dub, Lee ‘Scratch’ Perry morre aos 85 anos](https://www.nexojornal.com.br/extra/2021/08/29/%C3%8Dcone-do-reggae-e-do-dub-Lee-%E2%80%98Scratch%E2%80%99-Perry-morre-aos-85-anos)
+- [Preço da gasolina no Brasil é o mais alto desde maio de 2004](https://www.nexojornal.com.br/grafico/2021/08/30/Pre%C3%A7o-da-gasolina-no-Brasil-%C3%A9-o-mais-alto-desde-maio-de-2004)
+- [Por que é impossível encontrar as pinturas originais de Bob Ross](https://www.nexojornal.com.br/expresso/2021/08/30/Por-que-%C3%A9-imposs%C3%ADvel-encontrar-as-pinturas-originais-de-Bob-Ross)
+- [Os relatos de assédio na Cultura do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2021/08/30/Os-relatos-de-ass%C3%A9dio-na-Cultura-do-governo-Bolsonaro)
+- [O papel dos bancos públicos no adiamento do manifesto da Fiesp](https://www.nexojornal.com.br/expresso/2021/08/30/O-papel-dos-bancos-p%C3%BAblicos-no-adiamento-do-manifesto-da-Fiesp)
+- [O que saber sobre o Star+, novo streaming da Disney](https://www.nexojornal.com.br/expresso/2021/08/30/O-que-saber-sobre-o-Star-novo-streaming-da-Disney)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
