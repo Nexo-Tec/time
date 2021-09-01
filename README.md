@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as pressões em torno da votação do marco temporal](https://www.nexojornal.com.br/expresso/2021/08/31/Quais-as-press%C3%B5es-em-torno-da-vota%C3%A7%C3%A3o-do-marco-temporal)
-- [Justiça do Rio quebra sigilos bancário e fiscal de Carlos Bolsonaro](https://www.nexojornal.com.br/extra/2021/08/31/Justi%C3%A7a-do-Rio-quebra-sigilos-banc%C3%A1rio-e-fiscal-de-Carlos-Bolsonaro)
 - [Como está a vacinação contra a covid-19 ao redor do mundo](https://www.nexojornal.com.br/grafico/2021/08/31/Como-est%C3%A1-a-vacina%C3%A7%C3%A3o-contra-a-covid-19-ao-redor-do-mundo)
 - [A violência letal no Brasil em 2019, em 5 pontos](https://www.nexojornal.com.br/expresso/2021/08/31/A-viol%C3%AAncia-letal-no-Brasil-em-2019-em-5-pontos)
 - [‘Eles têm o poder, nós temos os encantados’: a luta indígena contra o marco temporal](https://www.nexojornal.com.br/ensaio/2021/%E2%80%98Eles-t%C3%AAm-o-poder-n%C3%B3s-temos-os-encantados%E2%80%99-a-luta-ind%C3%ADgena-contra-o-marco-temporal)
+- [Nova taxa extra leva conta de luz em 6,78% até abril de 2022](https://www.nexojornal.com.br/extra/2021/08/31/Nova-taxa-extra-leva-conta-de-luz-em-678-at%C3%A9-abril-de-2022)
+- [Orçamento prevê R$ 2 bilhões para Censo em 2022](https://www.nexojornal.com.br/extra/2021/08/31/Or%C3%A7amento-prev%C3%AA-R-2-bilh%C3%B5es-para-Censo-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
