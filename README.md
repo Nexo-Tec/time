@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fotos do poder funcionam como monumentos](https://www.nexojornal.com.br/colunistas/2021/Fotos-do-poder-funcionam-como-monumentos)
-- [‘O novo cangaço foi aperfeiçoado pelas quadrilhas de SP’](https://www.nexojornal.com.br/entrevista/2021/08/30/%E2%80%98O-novo-canga%C3%A7o-foi-aperfei%C3%A7oado-pelas-quadrilhas-de-SP%E2%80%99)
-- [Entidades do agronegócio divulgam nota de apoio à democracia](https://www.nexojornal.com.br/extra/2021/08/30/Entidades-do-agroneg%C3%B3cio-divulgam-nota-de-apoio-%C3%A0-democracia)
-- [28% do ouro exportado pelo Brasil têm indícios de ilegalidade](https://www.nexojornal.com.br/extra/2021/08/30/28-do-ouro-exportado-pelo-Brasil-t%C3%AAm-ind%C3%ADcios-de-ilegalidade)
-- [EUA conclui saída do Afeganistão e encerra sua mais longa guerra](https://www.nexojornal.com.br/extra/2021/08/30/EUA-conclui-sa%C3%ADda-do-Afeganist%C3%A3o-e-encerra-sua-mais-longa-guerra)
+- [Como está a vacinação contra a covid-19 ao redor do mundo](https://www.nexojornal.com.br/grafico/2021/08/31/Como-est%C3%A1-a-vacina%C3%A7%C3%A3o-contra-a-covid-19-ao-redor-do-mundo)
+- [A violência letal no Brasil em 2019, em 5 pontos](https://www.nexojornal.com.br/expresso/2021/08/31/A-viol%C3%AAncia-letal-no-Brasil-em-2019-em-5-pontos)
+- [‘Eles têm o poder, nós temos os encantados’: a luta indígena contra o marco temporal](https://www.nexojornal.com.br/ensaio/2021/%E2%80%98Eles-t%C3%AAm-o-poder-n%C3%B3s-temos-os-encantados%E2%80%99-a-luta-ind%C3%ADgena-contra-o-marco-temporal)
+- [Nova taxa extra leva conta de luz em 6,78% até abril de 2022](https://www.nexojornal.com.br/extra/2021/08/31/Nova-taxa-extra-leva-conta-de-luz-em-678-at%C3%A9-abril-de-2022)
+- [Orçamento prevê R$ 2 bilhões para Censo em 2022](https://www.nexojornal.com.br/extra/2021/08/31/Or%C3%A7amento-prev%C3%AA-R-2-bilh%C3%B5es-para-Censo-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
