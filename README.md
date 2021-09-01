@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Ocupação Sueli Carneiro](https://gamarevista.uol.com.br/sem-categoria/ocupacao-sueli-carneiro/)
+- [Ocupação Sueli Carneiro](https://gamarevista.uol.com.br/colunistas/bianca-santana/ocupacao-sueli-carneiro/)
 - [Sling](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sling/)
 - [Místicas e politizadas](https://gamarevista.uol.com.br/pessoas/uma-turma/misticas-e-politizadas-nova-geracao-astrologas/)
 - [A soma do que nós somos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/a-soma-do-que-nos-somos/)
