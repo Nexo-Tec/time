@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Felipe Villela](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/felipe-villela/)
-- [Ocupação Sueli Carneiro](https://gamarevista.uol.com.br/colunistas/bianca-santana/ocupacao-sueli-carneiro/)
-- [Sling](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sling/)
-- [Místicas e politizadas](https://gamarevista.uol.com.br/pessoas/uma-turma/misticas-e-politizadas-nova-geracao-astrologas/)
-- [A soma do que nós somos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/a-soma-do-que-nos-somos/)
+- [‘Faz Escuro Mas Eu Canto’, a 34ª Bienal de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/faz-escuro-mas-eu-canto-a-34a-bienal-de-sao-paulo/)
+- [6º Festival Internacional de Cinema LGBTI+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/6o-festival-internacional-de-cinema-lgbti/)
+- [‘Certified Lover Boy’, o novo disco de Drake](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/certified-lover-boy-o-novo-disco-de-drake/)
+- [A nova tradução de ‘As Ondas’, clássico de Virginia Woolf](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-traducao-de-as-ondas-classico-de-virginia-woolf/)
+- [Um curso sobre escrita, comida e criatividade](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-escrita-comida-e-criatividade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
