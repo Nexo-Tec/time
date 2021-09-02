@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Felipe Villela](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/felipe-villela/)
 - [Ocupação Sueli Carneiro](https://gamarevista.uol.com.br/colunistas/bianca-santana/ocupacao-sueli-carneiro/)
 - [Sling](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sling/)
 - [Místicas e politizadas](https://gamarevista.uol.com.br/pessoas/uma-turma/misticas-e-politizadas-nova-geracao-astrologas/)
 - [A soma do que nós somos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/a-soma-do-que-nos-somos/)
-- [@marjomizumoto](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marjomizumoto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
