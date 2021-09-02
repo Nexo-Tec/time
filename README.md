@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A medida do MEC que embranquece o perfil de candidatos do Enem](https://www.nexojornal.com.br/expresso/2021/09/01/A-medida-do-MEC-que-embranquece-o-perfil-de-candidatos-do-Enem)
-- [Desigualdade e sua transmissão intergeracional](https://www.nexojornal.com.br/colunistas/2021/Desigualdade-e-sua-transmiss%C3%A3o-intergeracional)
-- [Em derrota para governo, Senado rejeita minirreforma trabalhista](https://www.nexojornal.com.br/extra/2021/09/01/Em-derrota-para-governo-Senado-rejeita-minirreforma-trabalhista)
-- [Após recuo do PIB, Guedes critica ‘conversa derrotista’](https://www.nexojornal.com.br/extra/2021/09/01/Ap%C3%B3s-recuo-do-PIB-Guedes-critica-%E2%80%98conversa-derrotista%E2%80%99)
-- [Como ‘liberdade’ virou mote para os protestos de 7 de setembro](https://www.nexojornal.com.br/podcast/2021/09/01/Como-%E2%80%98liberdade%E2%80%99-virou-mote-para-os-protestos-de-7-de-setembro)
+- [Quais as pressões em torno da votação do marco temporal](https://www.nexojornal.com.br/expresso/2021/08/31/Quais-as-press%C3%B5es-em-torno-da-vota%C3%A7%C3%A3o-do-marco-temporal)
+- [Justiça do Rio quebra sigilos bancário e fiscal de Carlos Bolsonaro](https://www.nexojornal.com.br/extra/2021/08/31/Justi%C3%A7a-do-Rio-quebra-sigilos-banc%C3%A1rio-e-fiscal-de-Carlos-Bolsonaro)
+- [Como está a vacinação contra a covid-19 ao redor do mundo](https://www.nexojornal.com.br/grafico/2021/08/31/Como-est%C3%A1-a-vacina%C3%A7%C3%A3o-contra-a-covid-19-ao-redor-do-mundo)
+- [A violência letal no Brasil em 2019, em 5 pontos](https://www.nexojornal.com.br/expresso/2021/08/31/A-viol%C3%AAncia-letal-no-Brasil-em-2019-em-5-pontos)
+- [‘Eles têm o poder, nós temos os encantados’: a luta indígena contra o marco temporal](https://www.nexojornal.com.br/ensaio/2021/%E2%80%98Eles-t%C3%AAm-o-poder-n%C3%B3s-temos-os-encantados%E2%80%99-a-luta-ind%C3%ADgena-contra-o-marco-temporal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
