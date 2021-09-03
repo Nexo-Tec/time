@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um Antídoto Contra a Solidão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-antidoto-contra-a-solidao/)
+- [Como resorts de luxo se tornaram um retrato da elite branca nas telas](https://gamarevista.uol.com.br/cultura/como-resorts-de-luxo-se-tornaram-um-retrato-da-elite-branca-nas-telas/)
 - [‘Faz Escuro Mas Eu Canto’, a 34ª Bienal de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/faz-escuro-mas-eu-canto-a-34a-bienal-de-sao-paulo/)
 - [6º Festival Internacional de Cinema LGBTI+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/6o-festival-internacional-de-cinema-lgbti/)
 - [‘Certified Lover Boy’, o novo disco de Drake](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/certified-lover-boy-o-novo-disco-de-drake/)
-- [A nova tradução de ‘As Ondas’, clássico de Virginia Woolf](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-traducao-de-as-ondas-classico-de-virginia-woolf/)
-- [Um curso sobre escrita, comida e criatividade](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-escrita-comida-e-criatividade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
