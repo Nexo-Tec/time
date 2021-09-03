@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Banco Central anuncia novos serviços ligados ao Pix](https://www.nexojornal.com.br/extra/2021/09/02/Banco-Central-anuncia-novos-servi%C3%A7os-ligados-ao-Pix)
-- [Quais cidades brasileiras têm mais gado do que humanos](https://www.nexojornal.com.br/grafico/2021/09/02/Quais-cidades-brasileiras-t%C3%AAm-mais-gado-do-que-humanos)
-- [CPI aprova condução coercitiva de lobista após ausência](https://www.nexojornal.com.br/extra/2021/09/02/CPI-aprova-condu%C3%A7%C3%A3o-coercitiva-de-lobista-ap%C3%B3s-aus%C3%AAncia)
-- [O diplomata morto ao apontar ilegalidades numa obra da ditadura](https://www.nexojornal.com.br/expresso/2021/09/02/O-diplomata-morto-ao-apontar-ilegalidades-numa-obra-da-ditadura)
-- [Anvisa suspende importação e uso de proxalutamida](https://www.nexojornal.com.br/extra/2021/09/02/Anvisa-suspende-importa%C3%A7%C3%A3o-e-uso-de-proxalutamida)
+- [Os atos de 7 de setembro entre mobilizações e contenções](https://www.nexojornal.com.br/expresso/2021/09/02/Os-atos-de-7-de-setembro-entre-mobiliza%C3%A7%C3%B5es-e-conten%C3%A7%C3%B5es)
+- [Afegã estreia na Paralimpíada após operação para deixar país](https://www.nexojornal.com.br/extra/2021/09/02/Afeg%C3%A3-estreia-na-Paralimp%C3%ADada-ap%C3%B3s-opera%C3%A7%C3%A3o-para-deixar-pa%C3%ADs)
+- [‘Contra a moral e os bons costumes’: a repressão aos LGBTI](https://www.nexojornal.com.br/estante/trechos/2021/09/02/%E2%80%98Contra-a-moral-e-os-bons-costumes%E2%80%99-a-repress%C3%A3o-aos-LGBTI)
+- [Você vai ver o que você (não) vai ver: olhar para conhecer](https://www.nexojornal.com.br/colunistas/2021/Voc%C3%AA-vai-ver-o-que-voc%C3%AA-n%C3%A3o-vai-ver-olhar-para-conhecer)
+- [STF adia votação de marco temporal pela quarta vez](https://www.nexojornal.com.br/extra/2021/09/02/STF-adia-vota%C3%A7%C3%A3o-de-marco-temporal-pela-quarta-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
