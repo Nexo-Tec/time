@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O pensamento de Virgínia Bicudo sobre relações raciais no Brasil](https://pp.nexojornal.com.br/academico/2021/O-pensamento-de-Virg%C3%ADnia-Bicudo-sobre-rela%C3%A7%C3%B5es-raciais-no-Brasil)
 - [Patrícia Jaime: soluções para redução do consumo de ultraprocessados](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/31/Patr%C3%ADcia-Jaime-solu%C3%A7%C3%B5es-para-redu%C3%A7%C3%A3o-do-consumo-de-ultraprocessados)
 - [Desafios e oportunidades para a gestão ecossistêmica de praias](https://pp.nexojornal.com.br/academico/2021/Desafios-e-oportunidades-para-a-gest%C3%A3o-ecossist%C3%AAmica-de-praias)
 - [A violência policial não tem rosto de mulher](https://pp.nexojornal.com.br/opiniao/2021/A-viol%C3%AAncia-policial-n%C3%A3o-tem-rosto-de-mulher)
 - [A proteção e o uso da terra nos Campos Sulinos](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos)
-- [Adriano Massuda: pandemia, o orçamento do SUS e a saúde da população](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/26/Adriano-Massuda-pandemia-o-or%C3%A7amento-do-SUS-e-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
