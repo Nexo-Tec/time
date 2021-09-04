@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os atos de 7 de setembro entre mobilizações e contenções](https://www.nexojornal.com.br/expresso/2021/09/02/Os-atos-de-7-de-setembro-entre-mobiliza%C3%A7%C3%B5es-e-conten%C3%A7%C3%B5es)
-- [Afegã estreia na Paralimpíada após operação para deixar país](https://www.nexojornal.com.br/extra/2021/09/02/Afeg%C3%A3-estreia-na-Paralimp%C3%ADada-ap%C3%B3s-opera%C3%A7%C3%A3o-para-deixar-pa%C3%ADs)
-- [‘Contra a moral e os bons costumes’: a repressão aos LGBTI](https://www.nexojornal.com.br/estante/trechos/2021/09/02/%E2%80%98Contra-a-moral-e-os-bons-costumes%E2%80%99-a-repress%C3%A3o-aos-LGBTI)
-- [Você vai ver o que você (não) vai ver: olhar para conhecer](https://www.nexojornal.com.br/colunistas/2021/Voc%C3%AA-vai-ver-o-que-voc%C3%AA-n%C3%A3o-vai-ver-olhar-para-conhecer)
-- [STF adia votação de marco temporal pela quarta vez](https://www.nexojornal.com.br/extra/2021/09/02/STF-adia-vota%C3%A7%C3%A3o-de-marco-temporal-pela-quarta-vez)
+- [Por que Bolsonaro atribui ao STF crises que ele mesmo produz](https://www.nexojornal.com.br/expresso/2021/09/03/Por-que-Bolsonaro-atribui-ao-STF-crises-que-ele-mesmo-produz)
+- [Embaixada dos EUA alerta cidadãos a evitar atos governistas](https://www.nexojornal.com.br/extra/2021/09/03/Embaixada-dos-EUA-alerta-cidad%C3%A3os-a-evitar-atos-governistas)
+- [O que é a dismorfia do Zoom. E por que ela preocupa](https://www.nexojornal.com.br/expresso/2021/09/03/O-que-%C3%A9-a-dismorfia-do-Zoom.-E-por-que-ela-preocupa)
+- [A Greve Global pelo Clima e o papel dos parlamentares](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-Greve-Global-pelo-Clima-e-o-papel-dos-parlamentares)
+- [Moraes manda prender blogueiro e caminhoneiro bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/03/Moraes-manda-prender-blogueiro-e-caminhoneiro-bolsonaristas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
