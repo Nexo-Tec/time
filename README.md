@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a CPI da Covid projeta politicamente seus integrantes](https://www.nexojornal.com.br/expresso/2021/09/03/Como-a-CPI-da-Covid-projeta-politicamente-seus-integrantes)
+- [‘Nexo’ lança cobertura especial sobre direitos reprodutivos](https://www.nexojornal.com.br/expresso/2021/09/03/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-cobertura-especial-sobre-direitos-reprodutivos)
 - [Por que Bolsonaro atribui ao STF crises que ele mesmo produz](https://www.nexojornal.com.br/expresso/2021/09/03/Por-que-Bolsonaro-atribui-ao-STF-crises-que-ele-mesmo-produz)
 - [Embaixada dos EUA alerta cidadãos a evitar atos governistas](https://www.nexojornal.com.br/extra/2021/09/03/Embaixada-dos-EUA-alerta-cidad%C3%A3os-a-evitar-atos-governistas)
 - [O que é a dismorfia do Zoom. E por que ela preocupa](https://www.nexojornal.com.br/expresso/2021/09/03/O-que-%C3%A9-a-dismorfia-do-Zoom.-E-por-que-ela-preocupa)
-- [A Greve Global pelo Clima e o papel dos parlamentares](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-Greve-Global-pelo-Clima-e-o-papel-dos-parlamentares)
-- [Moraes manda prender blogueiro e caminhoneiro bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/03/Moraes-manda-prender-blogueiro-e-caminhoneiro-bolsonaristas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
