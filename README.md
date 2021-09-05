@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Tasso Azevedo: ‘Demarcar terras indígenas é o jeito mais barato de conservar florestas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tasso-azevedo-da-pra-salvar-a-amazonia/)
 - [Thelma Assis](https://gamarevista.uol.com.br/pessoas/questionario-proust/thelma-assis/)
 - [Um Antídoto Contra a Solidão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-antidoto-contra-a-solidao/)
 - [Como resorts de luxo se tornaram um retrato da elite branca nas telas](https://gamarevista.uol.com.br/cultura/como-resorts-de-luxo-se-tornaram-um-retrato-da-elite-branca-nas-telas/)
 - [‘Faz Escuro Mas Eu Canto’, a 34ª Bienal de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/faz-escuro-mas-eu-canto-a-34a-bienal-de-sao-paulo/)
-- [6º Festival Internacional de Cinema LGBTI+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/6o-festival-internacional-de-cinema-lgbti/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
