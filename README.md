@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que Bolsonaro atribui ao STF crises que ele mesmo produz](https://www.nexojornal.com.br/expresso/2021/09/03/Por-que-Bolsonaro-atribui-ao-STF-crises-que-ele-mesmo-produz)
-- [Embaixada dos EUA alerta cidadãos a evitar atos governistas](https://www.nexojornal.com.br/extra/2021/09/03/Embaixada-dos-EUA-alerta-cidad%C3%A3os-a-evitar-atos-governistas)
-- [O que é a dismorfia do Zoom. E por que ela preocupa](https://www.nexojornal.com.br/expresso/2021/09/03/O-que-%C3%A9-a-dismorfia-do-Zoom.-E-por-que-ela-preocupa)
-- [A Greve Global pelo Clima e o papel dos parlamentares](https://www.nexojornal.com.br/colunistas/tribuna/2021/A-Greve-Global-pelo-Clima-e-o-papel-dos-parlamentares)
-- [Moraes manda prender blogueiro e caminhoneiro bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/03/Moraes-manda-prender-blogueiro-e-caminhoneiro-bolsonaristas)
+- [Existem vidas negras na Amazônia e elas também importam](https://www.nexojornal.com.br/ensaio/2021/Existem-vidas-negras-na-Amaz%C3%B4nia-e-elas-tamb%C3%A9m-importam)
+- [A Lei do Estado Democrático diante dos bolsonaristas](https://www.nexojornal.com.br/expresso/2021/09/04/A-Lei-do-Estado-Democr%C3%A1tico-diante-dos-bolsonaristas)
+- [Bolsa Família: o que fica do programa que marcou o Brasil](https://www.nexojornal.com.br/expresso/2021/09/04/Bolsa-Fam%C3%ADlia-o-que-fica-do-programa-que-marcou-o-Brasil)
+- [‘Saber como as mentes operam ajuda a superar crises políticas’](https://www.nexojornal.com.br/entrevista/2021/09/04/%E2%80%98Saber-como-as-mentes-operam-ajuda-a-superar-crises-pol%C3%ADticas%E2%80%99)
+- [5 livros para começar a se interessar por direito](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-come%C3%A7ar-a-se-interessar-por-direito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
