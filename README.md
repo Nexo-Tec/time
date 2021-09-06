@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A reedição do livro de 1912 que satiriza a elite de São Paulo](https://www.nexojornal.com.br/expresso/2021/09/06/A-reedi%C3%A7%C3%A3o-do-livro-de-1912-que-satiriza-a-elite-de-S%C3%A3o-Paulo)
+- [Políticos de 26 países alertam para risco de ‘insurreição’ no Brasil](https://www.nexojornal.com.br/extra/2021/09/06/Pol%C3%ADticos-de-26-pa%C3%ADses-alertam-para-risco-de-%E2%80%98insurrei%C3%A7%C3%A3o%E2%80%99-no-Brasil)
+- [Brasil tem o melhor desempenho de sua história nas Paralímpiadas](https://www.nexojornal.com.br/grafico/2021/09/06/Brasil-tem-o-melhor-desempenho-de-sua-hist%C3%B3ria-nas-Paral%C3%ADmpiadas)
+- [Jean-Paul Belmondo, astro do cinema francês, morre aos 88 anos](https://www.nexojornal.com.br/extra/2021/09/06/Jean-Paul-Belmondo-astro-do-cinema-franc%C3%AAs-morre-aos-88-anos)
 - [Morre aos 75 anos o economista e professor João Sayad](https://www.nexojornal.com.br/extra/2021/09/05/Morre-aos-75-anos-o-economista-e-professor-Jo%C3%A3o-Sayad)
-- [Como ataques de Bolsonaro a instituições afetam a economia](https://www.nexojornal.com.br/expresso/2021/09/05/Como-ataques-de-Bolsonaro-a-institui%C3%A7%C3%B5es-afetam-a-economia)
-- [Incentivos fiscais causam danos à saúde e ao meio ambiente](https://www.nexojornal.com.br/ensaio/2021/Incentivos-fiscais-causam-danos-%C3%A0-sa%C3%BAde-e-ao-meio-ambiente)
-- [Direitos reprodutivos: uma história de avanços e obstáculos](https://www.nexojornal.com.br/explicado/2021/09/05/Direitos-reprodutivos-uma-hist%C3%B3ria-de-avan%C3%A7os-e-obst%C3%A1culos)
-- [Forças militares dizem ter tomado o poder na Guiné](https://www.nexojornal.com.br/extra/2021/09/05/For%C3%A7as-militares-dizem-ter-tomado-o-poder-na-Guin%C3%A9)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
