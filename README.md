@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A reedição do livro de 1912 que satiriza a elite de São Paulo](https://www.nexojornal.com.br/expresso/2021/09/06/A-reedi%C3%A7%C3%A3o-do-livro-de-1912-que-satiriza-a-elite-de-S%C3%A3o-Paulo)
-- [Políticos de 26 países alertam para risco de ‘insurreição’ no Brasil](https://www.nexojornal.com.br/extra/2021/09/06/Pol%C3%ADticos-de-26-pa%C3%ADses-alertam-para-risco-de-%E2%80%98insurrei%C3%A7%C3%A3o%E2%80%99-no-Brasil)
-- [Brasil tem o melhor desempenho de sua história nas Paralímpiadas](https://www.nexojornal.com.br/grafico/2021/09/06/Brasil-tem-o-melhor-desempenho-de-sua-hist%C3%B3ria-nas-Paral%C3%ADmpiadas)
-- [Jean-Paul Belmondo, astro do cinema francês, morre aos 88 anos](https://www.nexojornal.com.br/extra/2021/09/06/Jean-Paul-Belmondo-astro-do-cinema-franc%C3%AAs-morre-aos-88-anos)
-- [Morre aos 75 anos o economista e professor João Sayad](https://www.nexojornal.com.br/extra/2021/09/05/Morre-aos-75-anos-o-economista-e-professor-Jo%C3%A3o-Sayad)
+- [Bolsonaristas passam por bloqueios da PM e tomam Esplanada](https://www.nexojornal.com.br/extra/2021/09/07/Bolsonaristas-passam-por-bloqueios-da-PM-e-tomam-Esplanada)
+- [O mapa que mostra os livros mais traduzidos de cada país](https://www.nexojornal.com.br/expresso/2021/09/06/O-mapa-que-mostra-os-livros-mais-traduzidos-de-cada-pa%C3%ADs)
+- [Moraes bloqueia contas e prende mais bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/06/Moraes-bloqueia-contas-e-prende-mais-bolsonaristas)
+- [O dia de manifestações a favor de Bolsonaro num Brasil sob tensão](https://www.nexojornal.com.br/expresso/2021/09/06/O-dia-de-manifesta%C3%A7%C3%B5es-a-favor-de-Bolsonaro-num-Brasil-sob-tens%C3%A3o)
+- [Medida de Bolsonaro dificulta remoção de conteúdo das redes](https://www.nexojornal.com.br/extra/2021/09/06/Medida-de-Bolsonaro-dificulta-remo%C3%A7%C3%A3o-de-conte%C3%BAdo-das-redes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
