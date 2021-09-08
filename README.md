@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Vinho: como começar](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/vinho-como-comecar/)
 - [Negócios além da fama](https://gamarevista.uol.com.br/sociedade/negocios-alem-da-fama/)
 - [Beauty Fridge](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/beauty-fridge/)
 - [Um ataque cardíaco no coração de São Paulo](https://gamarevista.uol.com.br/colunistas/fernando-luna/um-ataque-cardiaco-no-coracao-de-sao-paulo/)
 - [@alokvmenon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alokvmenon/)
-- [Tasso Azevedo: ‘Demarcar terras indígenas é o jeito mais barato de conservar florestas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tasso-azevedo-da-pra-salvar-a-amazonia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
