@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaristas passam por bloqueios da PM e tomam Esplanada](https://www.nexojornal.com.br/extra/2021/09/07/Bolsonaristas-passam-por-bloqueios-da-PM-e-tomam-Esplanada)
-- [O mapa que mostra os livros mais traduzidos de cada país](https://www.nexojornal.com.br/expresso/2021/09/06/O-mapa-que-mostra-os-livros-mais-traduzidos-de-cada-pa%C3%ADs)
-- [Moraes bloqueia contas e prende mais bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/06/Moraes-bloqueia-contas-e-prende-mais-bolsonaristas)
-- [O dia de manifestações a favor de Bolsonaro num Brasil sob tensão](https://www.nexojornal.com.br/expresso/2021/09/06/O-dia-de-manifesta%C3%A7%C3%B5es-a-favor-de-Bolsonaro-num-Brasil-sob-tens%C3%A3o)
-- [Medida de Bolsonaro dificulta remoção de conteúdo das redes](https://www.nexojornal.com.br/extra/2021/09/06/Medida-de-Bolsonaro-dificulta-remo%C3%A7%C3%A3o-de-conte%C3%BAdo-das-redes)
+- [Durban quebrou o silêncio global sobre o racismo](https://www.nexojornal.com.br/colunistas/2021/Durban-quebrou-o-sil%C3%AAncio-global-sobre-o-racismo)
+- [Imprensa internacional vê Bolsonaro fragilizado e risco à democracia](https://www.nexojornal.com.br/extra/2021/09/07/Imprensa-internacional-v%C3%AA-Bolsonaro-fragilizado-e-risco-%C3%A0-democracia)
+- [Doria pede impeachment de Bolsonaro, mas PSDB ainda não decidiu](https://www.nexojornal.com.br/extra/2021/09/07/Doria-pede-impeachment-de-Bolsonaro-mas-PSDB-ainda-n%C3%A3o-decidiu)
+- [Oposição também vai às ruas e faz panelaços contra governo](https://www.nexojornal.com.br/extra/2021/09/07/Oposi%C3%A7%C3%A3o-tamb%C3%A9m-vai-%C3%A0s-ruas-e-faz-panela%C3%A7os-contra-governo)
+- [Queiroz participa de ato pró-governo no Rio de Janeiro](https://www.nexojornal.com.br/extra/2021/09/07/Queiroz-participa-de-ato-pr%C3%B3-governo-no-Rio-de-Janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
