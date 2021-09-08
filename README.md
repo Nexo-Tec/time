@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o saldo do mais duro ataque de Bolsonaro às instituições](https://www.nexojornal.com.br/expresso/2021/09/07/Qual-o-saldo-do-mais-duro-ataque-de-Bolsonaro-%C3%A0s-institui%C3%A7%C3%B5es)
-- [Em decisão histórica, México descriminaliza o aborto](https://www.nexojornal.com.br/extra/2021/09/07/Em-decis%C3%A3o-hist%C3%B3rica-M%C3%A9xico-descriminaliza-o-aborto)
-- [Como o trauma de 11 de setembro ainda afeta os EUA](https://www.nexojornal.com.br/expresso/2021/09/07/Como-o-trauma-de-11-de-setembro-ainda-afeta-os-EUA)
-- [‘A sociedade não foi preparada para ver ciência em tempo real’](https://www.nexojornal.com.br/entrevista/2021/09/07/%E2%80%98A-sociedade-n%C3%A3o-foi-preparada-para-ver-ci%C3%AAncia-em-tempo-real%E2%80%99)
-- [Com quantos golpes se destrói um Estado?](https://www.nexojornal.com.br/perspectiva/2021/09/07/Com-quantos-golpes-se-destr%C3%B3i-um-Estado)
+- [Durban quebrou o silêncio global sobre o racismo](https://www.nexojornal.com.br/colunistas/2021/Durban-quebrou-o-sil%C3%AAncio-global-sobre-o-racismo)
+- [Imprensa internacional vê Bolsonaro fragilizado e risco à democracia](https://www.nexojornal.com.br/extra/2021/09/07/Imprensa-internacional-v%C3%AA-Bolsonaro-fragilizado-e-risco-%C3%A0-democracia)
+- [Doria pede impeachment de Bolsonaro, mas PSDB ainda não decidiu](https://www.nexojornal.com.br/extra/2021/09/07/Doria-pede-impeachment-de-Bolsonaro-mas-PSDB-ainda-n%C3%A3o-decidiu)
+- [Oposição também vai às ruas e faz panelaços contra governo](https://www.nexojornal.com.br/extra/2021/09/07/Oposi%C3%A7%C3%A3o-tamb%C3%A9m-vai-%C3%A0s-ruas-e-faz-panela%C3%A7os-contra-governo)
+- [Queiroz participa de ato pró-governo no Rio de Janeiro](https://www.nexojornal.com.br/extra/2021/09/07/Queiroz-participa-de-ato-pr%C3%B3-governo-no-Rio-de-Janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
