@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o saldo do mais duro ataque de Bolsonaro às instituições](https://www.nexojornal.com.br/expresso/2021/09/07/Qual-o-saldo-do-mais-duro-ataque-de-Bolsonaro-%C3%A0s-institui%C3%A7%C3%B5es)
-- [Em decisão histórica, México descriminaliza o aborto](https://www.nexojornal.com.br/extra/2021/09/07/Em-decis%C3%A3o-hist%C3%B3rica-M%C3%A9xico-descriminaliza-o-aborto)
-- [Como o trauma de 11 de setembro ainda afeta os EUA](https://www.nexojornal.com.br/expresso/2021/09/07/Como-o-trauma-de-11-de-setembro-ainda-afeta-os-EUA)
-- [‘A sociedade não foi preparada para ver ciência em tempo real’](https://www.nexojornal.com.br/entrevista/2021/09/07/%E2%80%98A-sociedade-n%C3%A3o-foi-preparada-para-ver-ci%C3%AAncia-em-tempo-real%E2%80%99)
-- [Com quantos golpes se destrói um Estado?](https://www.nexojornal.com.br/perspectiva/2021/09/07/Com-quantos-golpes-se-destr%C3%B3i-um-Estado)
+- [A reação institucional ao 7 de setembro sob análise](https://www.nexojornal.com.br/expresso/2021/09/08/A-rea%C3%A7%C3%A3o-institucional-ao-7-de-setembro-sob-an%C3%A1lise)
+- [O perfil social dos agentes culturais brasileiros](https://www.nexojornal.com.br/academico/2021/09/08/O-perfil-social-dos-agentes-culturais-brasileiros)
+- [Entre erosão e golpe: o que há nas ameaças de ruptura de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/08/Entre-eros%C3%A3o-e-golpe-o-que-h%C3%A1-nas-amea%C3%A7as-de-ruptura-de-Bolsonaro)
+- [Anvisa autoriza uso emergencial de remédio contra covid-19](https://www.nexojornal.com.br/extra/2021/09/08/Anvisa-autoriza-uso-emergencial-de-rem%C3%A9dio-contra-covid-19)
+- [A enciclopédia que compila histórias de lésbicas brasileiras](https://www.nexojornal.com.br/expresso/2021/09/08/A-enciclop%C3%A9dia-que-compila-hist%C3%B3rias-de-l%C3%A9sbicas-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
