@@ -125,10 +125,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Trienal de Artes em Sorocaba (SP)](https://gamarevista.uol.com.br/achamos-que-vale/ir/trienal-de-artes-em-sorocaba-sp/)
+- [Os relatos de entregadores nas ruas de SP](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-relatos-de-entregadores-nas-ruas-de-sp/)
 - [O legado de Michael K. Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-legado-de-michael-k-williams/)
 - [O podcast ‘Ciência Suja’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-ciencia-suja/)
 - [A nova edição de ‘Má Feminista’, clássico de Roxane Gay](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-edicao-de-ma-feminista-classico-de-roxane-gay/)
-- [Como contar que perdeu o emprego](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-contar-que-perdeu-o-emprego/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
