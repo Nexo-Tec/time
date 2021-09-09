@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [6 pontos sobre restauração florestal e ganhos de biodiversidade](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-restaura%C3%A7%C3%A3o-florestal-e-ganhos-de-biodiversidade)
 - [Regatões: crédito e confiança em uma economia sustentável na Amazônia](https://pp.nexojornal.com.br/academico/2021/Regat%C3%B5es-cr%C3%A9dito-e-confian%C3%A7a-em-uma-economia-sustent%C3%A1vel-na-Amaz%C3%B4nia)
 - [Campos Sulinos](https://pp.nexojornal.com.br/glossario/Campos-Sulinos)
 - [Que tipo de proteção o Brasil oferece aos afegãos?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Que-tipo-de-prote%C3%A7%C3%A3o-o-Brasil-oferece-aos-afeg%C3%A3os)
 - [O pensamento de Virgínia Bicudo sobre relações raciais no Brasil](https://pp.nexojornal.com.br/academico/2021/O-pensamento-de-Virg%C3%ADnia-Bicudo-sobre-rela%C3%A7%C3%B5es-raciais-no-Brasil)
-- [Patrícia Jaime: soluções para redução do consumo de ultraprocessados](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/31/Patr%C3%ADcia-Jaime-solu%C3%A7%C3%B5es-para-redu%C3%A7%C3%A3o-do-consumo-de-ultraprocessados)
 <!-- PP_LIST:END -->
 
