@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Trienal de Artes em Sorocaba (SP)](https://gamarevista.uol.com.br/achamos-que-vale/ir/trienal-de-artes-em-sorocaba-sp/)
+- [O legado de Michael K. Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-legado-de-michael-k-williams/)
+- [O podcast ‘Ciência Suja’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-ciencia-suja/)
+- [A nova edição de ‘Má Feminista’, clássico de Roxane Gay](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-edicao-de-ma-feminista-classico-de-roxane-gay/)
 - [Como contar que perdeu o emprego](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-contar-que-perdeu-o-emprego/)
-- [Vinho: como começar](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/vinho-como-comecar/)
-- [Negócios além da fama](https://gamarevista.uol.com.br/sociedade/negocios-alem-da-fama/)
-- [Beauty Fridge](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/beauty-fridge/)
-- [Um ataque cardíaco no coração de São Paulo](https://gamarevista.uol.com.br/colunistas/fernando-luna/um-ataque-cardiaco-no-coracao-de-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
