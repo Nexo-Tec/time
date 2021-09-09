@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Regatões: crédito e confiança em uma economia sustentável na Amazônia](https://pp.nexojornal.com.br/academico/2021/Regat%C3%B5es-cr%C3%A9dito-e-confian%C3%A7a-em-uma-economia-sustent%C3%A1vel-na-Amaz%C3%B4nia)
+- [Campos Sulinos](https://pp.nexojornal.com.br/glossario/Campos-Sulinos)
+- [Que tipo de proteção o Brasil oferece aos afegãos?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Que-tipo-de-prote%C3%A7%C3%A3o-o-Brasil-oferece-aos-afeg%C3%A3os)
 - [O pensamento de Virgínia Bicudo sobre relações raciais no Brasil](https://pp.nexojornal.com.br/academico/2021/O-pensamento-de-Virg%C3%ADnia-Bicudo-sobre-rela%C3%A7%C3%B5es-raciais-no-Brasil)
 - [Patrícia Jaime: soluções para redução do consumo de ultraprocessados](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/08/31/Patr%C3%ADcia-Jaime-solu%C3%A7%C3%B5es-para-redu%C3%A7%C3%A3o-do-consumo-de-ultraprocessados)
-- [Desafios e oportunidades para a gestão ecossistêmica de praias](https://pp.nexojornal.com.br/academico/2021/Desafios-e-oportunidades-para-a-gest%C3%A3o-ecossist%C3%AAmica-de-praias)
-- [A violência policial não tem rosto de mulher](https://pp.nexojornal.com.br/opiniao/2021/A-viol%C3%AAncia-policial-n%C3%A3o-tem-rosto-de-mulher)
-- [A proteção e o uso da terra nos Campos Sulinos](https://pp.nexojornal.com.br/Dados/2021/08/30/A-prote%C3%A7%C3%A3o-e-o-uso-da-terra-nos-Campos-Sulinos)
 <!-- PP_LIST:END -->
 
