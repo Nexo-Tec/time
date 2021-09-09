@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como contar que perdeu o emprego](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-contar-que-perdeu-o-emprego/)
 - [Vinho: como começar](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/vinho-como-comecar/)
 - [Negócios além da fama](https://gamarevista.uol.com.br/sociedade/negocios-alem-da-fama/)
 - [Beauty Fridge](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/beauty-fridge/)
 - [Um ataque cardíaco no coração de São Paulo](https://gamarevista.uol.com.br/colunistas/fernando-luna/um-ataque-cardiaco-no-coracao-de-sao-paulo/)
-- [@alokvmenon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alokvmenon/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
