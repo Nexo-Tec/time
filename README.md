@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A descoberta da ilha mais ao norte do mundo](https://www.nexojornal.com.br/expresso/2021/09/10/A-descoberta-da-ilha-mais-ao-norte-do-mundo)
-- [Extratos da semana | 10.set.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-10.set.2021)
-- [Ceticismo marca reações à mudança de tom do presidente](https://www.nexojornal.com.br/extra/2021/09/10/Ceticismo-marca-rea%C3%A7%C3%B5es-%C3%A0-mudan%C3%A7a-de-tom-do-presidente)
-- [‘Querem que eu degole todo mundo’, diz Bolsonaro sobre apoiadores frustrados](https://www.nexojornal.com.br/extra/2021/09/10/%E2%80%98Querem-que-eu-degole-todo-mundo%E2%80%99-diz-Bolsonaro-sobre-apoiadores-frustrados)
-- [Por que o ICMS não é responsável pela alta dos combustíveis](https://www.nexojornal.com.br/expresso/2021/09/10/Por-que-o-ICMS-n%C3%A3o-%C3%A9-respons%C3%A1vel-pela-alta-dos-combust%C3%ADveis)
+- [Como fica a base bolsonarista após o recuo do presidente](https://www.nexojornal.com.br/expresso/2021/09/09/Como-fica-a-base-bolsonarista-ap%C3%B3s-o-recuo-do-presidente)
+- [Justiça juvenil e juvenicídio: considerações críticas](https://www.nexojornal.com.br/ensaio/2021/Justi%C3%A7a-juvenil-e-juvenic%C3%ADdio-considera%C3%A7%C3%B5es-cr%C3%ADticas)
+- [O impacto de uma inflação crescente em meio à crise política](https://www.nexojornal.com.br/expresso/2021/09/09/O-impacto-de-uma-infla%C3%A7%C3%A3o-crescente-em-meio-%C3%A0-crise-pol%C3%ADtica)
+- [Cerrado tem maior número de focos de incêndio desde 2012](https://www.nexojornal.com.br/extra/2021/09/09/Cerrado-tem-maior-n%C3%BAmero-de-focos-de-inc%C3%AAndio-desde-2012)
+- [Caminhoneiros: o freio imposto a quem se radicalizou](https://www.nexojornal.com.br/podcast/2021/09/09/Caminhoneiros-o-freio-imposto-a-quem-se-radicalizou)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
