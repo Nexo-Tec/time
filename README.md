@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sete livros para entender o 11 de Setembro](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/sete-livros-para-entender-o-11-de-setembro/)
 - [Catorze Camelos para o Ceará](https://gamarevista.uol.com.br/cultura/trecho-de-livro/catorze-camelos-para-o-ceara/)
 - [Trienal de Artes em Sorocaba (SP)](https://gamarevista.uol.com.br/achamos-que-vale/ir/trienal-de-artes-em-sorocaba-sp/)
 - [Os relatos de entregadores nas ruas de SP](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-relatos-de-entregadores-nas-ruas-de-sp/)
 - [O legado de Michael K. Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-legado-de-michael-k-williams/)
-- [O podcast ‘Ciência Suja’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-ciencia-suja/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
