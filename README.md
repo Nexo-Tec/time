@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A reação institucional ao 7 de setembro sob análise](https://www.nexojornal.com.br/expresso/2021/09/08/A-rea%C3%A7%C3%A3o-institucional-ao-7-de-setembro-sob-an%C3%A1lise)
-- [O perfil social dos agentes culturais brasileiros](https://www.nexojornal.com.br/academico/2021/09/08/O-perfil-social-dos-agentes-culturais-brasileiros)
-- [Entre erosão e golpe: o que há nas ameaças de ruptura de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/08/Entre-eros%C3%A3o-e-golpe-o-que-h%C3%A1-nas-amea%C3%A7as-de-ruptura-de-Bolsonaro)
-- [Anvisa autoriza uso emergencial de remédio contra covid-19](https://www.nexojornal.com.br/extra/2021/09/08/Anvisa-autoriza-uso-emergencial-de-rem%C3%A9dio-contra-covid-19)
-- [A enciclopédia que compila histórias de lésbicas brasileiras](https://www.nexojornal.com.br/expresso/2021/09/08/A-enciclop%C3%A9dia-que-compila-hist%C3%B3rias-de-l%C3%A9sbicas-brasileiras)
+- [Como fica a base bolsonarista após o recuo do presidente](https://www.nexojornal.com.br/expresso/2021/09/09/Como-fica-a-base-bolsonarista-ap%C3%B3s-o-recuo-do-presidente)
+- [Justiça juvenil e juvenicídio: considerações críticas](https://www.nexojornal.com.br/ensaio/2021/Justi%C3%A7a-juvenil-e-juvenic%C3%ADdio-considera%C3%A7%C3%B5es-cr%C3%ADticas)
+- [O impacto de uma inflação crescente em meio à crise política](https://www.nexojornal.com.br/expresso/2021/09/09/O-impacto-de-uma-infla%C3%A7%C3%A3o-crescente-em-meio-%C3%A0-crise-pol%C3%ADtica)
+- [Cerrado tem maior número de focos de incêndio desde 2012](https://www.nexojornal.com.br/extra/2021/09/09/Cerrado-tem-maior-n%C3%BAmero-de-focos-de-inc%C3%AAndio-desde-2012)
+- [Caminhoneiros: o freio imposto a quem se radicalizou](https://www.nexojornal.com.br/podcast/2021/09/09/Caminhoneiros-o-freio-imposto-a-quem-se-radicalizou)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
