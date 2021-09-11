@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A descoberta da ilha mais ao norte do mundo](https://www.nexojornal.com.br/expresso/2021/09/10/A-descoberta-da-ilha-mais-ao-norte-do-mundo)
-- [Extratos da semana | 10.set.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-10.set.2021)
-- [Ceticismo marca reações à mudança de tom do presidente](https://www.nexojornal.com.br/extra/2021/09/10/Ceticismo-marca-rea%C3%A7%C3%B5es-%C3%A0-mudan%C3%A7a-de-tom-do-presidente)
-- [‘Querem que eu degole todo mundo’, diz Bolsonaro sobre apoiadores frustrados](https://www.nexojornal.com.br/extra/2021/09/10/%E2%80%98Querem-que-eu-degole-todo-mundo%E2%80%99-diz-Bolsonaro-sobre-apoiadores-frustrados)
-- [Por que o ICMS não é responsável pela alta dos combustíveis](https://www.nexojornal.com.br/expresso/2021/09/10/Por-que-o-ICMS-n%C3%A3o-%C3%A9-respons%C3%A1vel-pela-alta-dos-combust%C3%ADveis)
+- [Como os atentados de 11 de setembro mudaram o mundo](https://www.nexojornal.com.br/expresso/2021/09/10/Como-os-atentados-de-11-de-setembro-mudaram-o-mundo)
+- [Por que Temer virou uma peça central para Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/10/Por-que-Temer-virou-uma-pe%C3%A7a-central-para-Bolsonaro)
+- [Pronto para decolagem](https://www.nexojornal.com.br/externo/2021/09/10/Pronto-para-decolagem)
+- [Os rumos da antiga sede do DOI-Codi em São Paulo](https://www.nexojornal.com.br/expresso/2021/09/10/Os-rumos-da-antiga-sede-do-DOI-Codi-em-S%C3%A3o-Paulo)
+- [Devemos ir à manifestação de 12 setembro?](https://www.nexojornal.com.br/colunistas/tribuna/2021/Devemos-ir-%C3%A0-manifesta%C3%A7%C3%A3o-de-12-setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
