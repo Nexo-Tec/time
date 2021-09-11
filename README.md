@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como fica a base bolsonarista após o recuo do presidente](https://www.nexojornal.com.br/expresso/2021/09/09/Como-fica-a-base-bolsonarista-ap%C3%B3s-o-recuo-do-presidente)
-- [Justiça juvenil e juvenicídio: considerações críticas](https://www.nexojornal.com.br/ensaio/2021/Justi%C3%A7a-juvenil-e-juvenic%C3%ADdio-considera%C3%A7%C3%B5es-cr%C3%ADticas)
-- [O impacto de uma inflação crescente em meio à crise política](https://www.nexojornal.com.br/expresso/2021/09/09/O-impacto-de-uma-infla%C3%A7%C3%A3o-crescente-em-meio-%C3%A0-crise-pol%C3%ADtica)
-- [Cerrado tem maior número de focos de incêndio desde 2012](https://www.nexojornal.com.br/extra/2021/09/09/Cerrado-tem-maior-n%C3%BAmero-de-focos-de-inc%C3%AAndio-desde-2012)
-- [Caminhoneiros: o freio imposto a quem se radicalizou](https://www.nexojornal.com.br/podcast/2021/09/09/Caminhoneiros-o-freio-imposto-a-quem-se-radicalizou)
+- [Como os atentados de 11 de setembro mudaram o mundo](https://www.nexojornal.com.br/expresso/2021/09/10/Como-os-atentados-de-11-de-setembro-mudaram-o-mundo)
+- [Por que Temer virou uma peça central para Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/10/Por-que-Temer-virou-uma-pe%C3%A7a-central-para-Bolsonaro)
+- [Pronto para decolagem](https://www.nexojornal.com.br/externo/2021/09/10/Pronto-para-decolagem)
+- [Os rumos da antiga sede do DOI-Codi em São Paulo](https://www.nexojornal.com.br/expresso/2021/09/10/Os-rumos-da-antiga-sede-do-DOI-Codi-em-S%C3%A3o-Paulo)
+- [Devemos ir à manifestação de 12 setembro?](https://www.nexojornal.com.br/colunistas/tribuna/2021/Devemos-ir-%C3%A0-manifesta%C3%A7%C3%A3o-de-12-setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
