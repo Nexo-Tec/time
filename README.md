@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De Dilma a Bolsonaro: os atos liderados pela direita opositora](https://www.nexojornal.com.br/expresso/2021/09/11/De-Dilma-a-Bolsonaro-os-atos-liderados-pela-direita-opositora)
-- [O que é o 996, regime de trabalho proibido pela Justiça chinesa](https://www.nexojornal.com.br/expresso/2021/09/11/O-que-%C3%A9-o-996-regime-de-trabalho-proibido-pela-Justi%C3%A7a-chinesa)
-- [Quais medicamentos contra a covid foram aprovados pela Anvisa](https://www.nexojornal.com.br/expresso/2021/09/11/Quais-medicamentos-contra-a-covid-foram-aprovados-pela-Anvisa)
-- [Como Bolsonaro atua para eximir agentes de desinformação](https://www.nexojornal.com.br/expresso/2021/09/11/Como-Bolsonaro-atua-para-eximir-agentes-de-desinforma%C3%A7%C3%A3o)
-- [5 livros de poetas lusófonas contemporâneas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-poetas-lus%C3%B3fonas-contempor%C3%A2neas)
+- [Como os atentados de 11 de setembro mudaram o mundo](https://www.nexojornal.com.br/expresso/2021/09/10/Como-os-atentados-de-11-de-setembro-mudaram-o-mundo)
+- [Por que Temer virou uma peça central para Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/10/Por-que-Temer-virou-uma-pe%C3%A7a-central-para-Bolsonaro)
+- [Pronto para decolagem](https://www.nexojornal.com.br/externo/2021/09/10/Pronto-para-decolagem)
+- [Os rumos da antiga sede do DOI-Codi em São Paulo](https://www.nexojornal.com.br/expresso/2021/09/10/Os-rumos-da-antiga-sede-do-DOI-Codi-em-S%C3%A3o-Paulo)
+- [Devemos ir à manifestação de 12 setembro?](https://www.nexojornal.com.br/colunistas/tribuna/2021/Devemos-ir-%C3%A0-manifesta%C3%A7%C3%A3o-de-12-setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
