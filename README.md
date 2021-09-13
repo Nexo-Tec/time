@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De Dilma a Bolsonaro: os atos liderados pela direita opositora](https://www.nexojornal.com.br/expresso/2021/09/11/De-Dilma-a-Bolsonaro-os-atos-liderados-pela-direita-opositora)
-- [O que é o 996, regime de trabalho proibido pela Justiça chinesa](https://www.nexojornal.com.br/expresso/2021/09/11/O-que-%C3%A9-o-996-regime-de-trabalho-proibido-pela-Justi%C3%A7a-chinesa)
-- [Quais medicamentos contra a covid foram aprovados pela Anvisa](https://www.nexojornal.com.br/expresso/2021/09/11/Quais-medicamentos-contra-a-covid-foram-aprovados-pela-Anvisa)
-- [Como Bolsonaro atua para eximir agentes de desinformação](https://www.nexojornal.com.br/expresso/2021/09/11/Como-Bolsonaro-atua-para-eximir-agentes-de-desinforma%C3%A7%C3%A3o)
-- [5 livros de poetas lusófonas contemporâneas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-poetas-lus%C3%B3fonas-contempor%C3%A2neas)
+- [Os atos esvaziados do MBL e do Vem pra Rua contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/12/Os-atos-esvaziados-do-MBL-e-do-Vem-pra-Rua-contra-Bolsonaro)
+- [Os números da violência sexual contra os jovens](https://www.nexojornal.com.br/expresso/2021/09/12/Os-n%C3%BAmeros-da-viol%C3%AAncia-sexual-contra-os-jovens)
+- [Reino Unido e Dinamarca deixam de exigir comprovante de vacinação](https://www.nexojornal.com.br/extra/2021/09/12/Reino-Unido-e-Dinamarca-deixam-de-exigir-comprovante-de-vacina%C3%A7%C3%A3o)
+- [Por que o Novo Código Eleitoral desperta tanta crítica](https://www.nexojornal.com.br/expresso/2021/09/12/Por-que-o-Novo-C%C3%B3digo-Eleitoral-desperta-tanta-cr%C3%ADtica)
+- [Os Três Poderes da República e as quatro linhas da Constituição](https://www.nexojornal.com.br/ensaio/2021/Os-Tr%C3%AAs-Poderes-da-Rep%C3%BAblica-e-as-quatro-linhas-da-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
