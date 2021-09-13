@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@iamstevana](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/iamstevana/)
 - [Eugênio Bucci: Sem verdade factual não há política, só fanatismo](https://gamarevista.uol.com.br/podcast/podcast-da-semana/eugenio-bucci-qual-e-a-verdade/)
 - [Titi Müller](https://gamarevista.uol.com.br/pessoas/questionario-proust/titi-muller/)
 - [Sete livros para entender o 11 de Setembro](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/sete-livros-para-entender-o-11-de-setembro/)
 - [Catorze Camelos para o Ceará](https://gamarevista.uol.com.br/cultura/trecho-de-livro/catorze-camelos-para-o-ceara/)
-- [Trienal de Artes em Sorocaba (SP)](https://gamarevista.uol.com.br/achamos-que-vale/ir/trienal-de-artes-em-sorocaba-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
