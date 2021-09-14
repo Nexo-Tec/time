@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [FMI indica ex-presidente do Banco Central para cargo de diretor](https://www.nexojornal.com.br/extra/2021/09/13/FMI-indica-ex-presidente-do-Banco-Central-para-cargo-de-diretor)
-- [Juíza arquiva inquérito e Lula tem nova vitória jurídica](https://www.nexojornal.com.br/extra/2021/09/13/Ju%C3%ADza-arquiva-inqu%C3%A9rito-e-Lula-tem-nova-vit%C3%B3ria-jur%C3%ADdica)
-- [Taleban quebra promessas sobre direitos das mulheres, diz ONU](https://www.nexojornal.com.br/extra/2021/09/13/Taleban-quebra-promessas-sobre-direitos-das-mulheres-diz-ONU)
-- [Como a Hungria de Orbán bifurca o catolicismo europeu](https://www.nexojornal.com.br/expresso/2021/09/13/Como-a-Hungria-de-Orb%C3%A1n-bifurca-o-catolicismo-europeu)
-- [Aras pede suspensão de MP que dificulta combate a fake news](https://www.nexojornal.com.br/extra/2021/09/13/Aras-pede-suspens%C3%A3o-de-MP-que-dificulta-combate-a-fake-news)
+- [Por que a ideia de uma ‘terceira via’ patina no Brasil](https://www.nexojornal.com.br/expresso/2021/09/13/Por-que-a-ideia-de-uma-%E2%80%98terceira-via%E2%80%99-patina-no-Brasil)
+- [O sequestro da independência: Pedro Américo e Bolsonaro](https://www.nexojornal.com.br/colunistas/2021/O-sequestro-da-independ%C3%AAncia-Pedro-Am%C3%A9rico-e-Bolsonaro)
+- [Como fenômenos climáticos afetam o agronegócio em 2021](https://www.nexojornal.com.br/expresso/2021/09/13/Como-fen%C3%B4menos-clim%C3%A1ticos-afetam-o-agroneg%C3%B3cio-em-2021)
+- [Governo lança programa habitacional para agentes de segurança pública](https://www.nexojornal.com.br/extra/2021/09/13/Governo-lan%C3%A7a-programa-habitacional-para-agentes-de-seguran%C3%A7a-p%C3%BAblica)
+- [Afinal, o Lula e o PT querem ou não querem o impeachment?](https://www.nexojornal.com.br/podcast/2021/09/13/Afinal-o-Lula-e-o-PT-querem-ou-n%C3%A3o-querem-o-impeachment)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
