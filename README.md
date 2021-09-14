@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Teoria de Mudança como instrumento para desenvolver territórios vulneráveis](https://pp.nexojornal.com.br/ponto-de-vista/2021/Teoria-de-Mudan%C3%A7a-como-instrumento-para-desenvolver-territ%C3%B3rios-vulner%C3%A1veis)
 - [A evolução das políticas em saúde mental no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-evolu%C3%A7%C3%A3o-das-pol%C3%ADticas-em-sa%C3%BAde-mental-no-Brasil)
 - [Agenciamento negro ou apropriação cultural? Um novo olhar sobre cultura negra e identidade nacional](https://pp.nexojornal.com.br/opiniao/2021/Agenciamento-negro-ou-apropria%C3%A7%C3%A3o-cultural-Um-novo-olhar-sobre-cultura-negra-e-identidade-nacional)
 - [6 pontos sobre restauração florestal e ganhos de biodiversidade](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-pontos-sobre-restaura%C3%A7%C3%A3o-florestal-e-ganhos-de-biodiversidade)
 - [Regatões: crédito e confiança em uma economia sustentável na Amazônia](https://pp.nexojornal.com.br/academico/2021/Regat%C3%B5es-cr%C3%A9dito-e-confian%C3%A7a-em-uma-economia-sustent%C3%A1vel-na-Amaz%C3%B4nia)
-- [Campos Sulinos](https://pp.nexojornal.com.br/glossario/Campos-Sulinos)
 <!-- PP_LIST:END -->
 
