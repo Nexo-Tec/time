@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a ideia de uma ‘terceira via’ patina no Brasil](https://www.nexojornal.com.br/expresso/2021/09/13/Por-que-a-ideia-de-uma-%E2%80%98terceira-via%E2%80%99-patina-no-Brasil)
-- [O sequestro da independência: Pedro Américo e Bolsonaro](https://www.nexojornal.com.br/colunistas/2021/O-sequestro-da-independ%C3%AAncia-Pedro-Am%C3%A9rico-e-Bolsonaro)
-- [Como fenômenos climáticos afetam o agronegócio em 2021](https://www.nexojornal.com.br/expresso/2021/09/13/Como-fen%C3%B4menos-clim%C3%A1ticos-afetam-o-agroneg%C3%B3cio-em-2021)
-- [Governo lança programa habitacional para agentes de segurança pública](https://www.nexojornal.com.br/extra/2021/09/13/Governo-lan%C3%A7a-programa-habitacional-para-agentes-de-seguran%C3%A7a-p%C3%BAblica)
-- [Afinal, o Lula e o PT querem ou não querem o impeachment?](https://www.nexojornal.com.br/podcast/2021/09/13/Afinal-o-Lula-e-o-PT-querem-ou-n%C3%A3o-querem-o-impeachment)
+- [Pelé recebe alta de UTI e está em boa condição, dizem médicos](https://www.nexojornal.com.br/extra/2021/09/14/Pel%C3%A9-recebe-alta-de-UTI-e-est%C3%A1-em-boa-condi%C3%A7%C3%A3o-dizem-m%C3%A9dicos)
+- [O bot que tuíta pequenas biografias de americanos comuns](https://www.nexojornal.com.br/expresso/2021/09/14/O-bot-que-tu%C3%ADta-pequenas-biografias-de-americanos-comuns)
+- [Queda de avião mata empresário, esposa e filhos no interior de SP](https://www.nexojornal.com.br/extra/2021/09/14/Queda-de-avi%C3%A3o-mata-empres%C3%A1rio-esposa-e-filhos-no-interior-de-SP)
+- [Afinal, o PSDB é ou não é oposição ao governo Bolsonaro?](https://www.nexojornal.com.br/podcast/2021/09/14/Afinal-o-PSDB-%C3%A9-ou-n%C3%A3o-%C3%A9-oposi%C3%A7%C3%A3o-ao-governo-Bolsonaro)
+- [Presidentes da Câmara e do BC criticam Petrobras por aumentos](https://www.nexojornal.com.br/extra/2021/09/14/Presidentes-da-C%C3%A2mara-e-do-BC-criticam-Petrobras-por-aumentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
