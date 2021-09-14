@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [FMI indica ex-presidente do Banco Central para cargo de diretor](https://www.nexojornal.com.br/extra/2021/09/13/FMI-indica-ex-presidente-do-Banco-Central-para-cargo-de-diretor)
-- [Juíza arquiva inquérito e Lula tem nova vitória jurídica](https://www.nexojornal.com.br/extra/2021/09/13/Ju%C3%ADza-arquiva-inqu%C3%A9rito-e-Lula-tem-nova-vit%C3%B3ria-jur%C3%ADdica)
-- [Taleban quebra promessas sobre direitos das mulheres, diz ONU](https://www.nexojornal.com.br/extra/2021/09/13/Taleban-quebra-promessas-sobre-direitos-das-mulheres-diz-ONU)
-- [Como a Hungria de Orbán bifurca o catolicismo europeu](https://www.nexojornal.com.br/expresso/2021/09/13/Como-a-Hungria-de-Orb%C3%A1n-bifurca-o-catolicismo-europeu)
-- [Aras pede suspensão de MP que dificulta combate a fake news](https://www.nexojornal.com.br/extra/2021/09/13/Aras-pede-suspens%C3%A3o-de-MP-que-dificulta-combate-a-fake-news)
+- [Os atos esvaziados do MBL e do Vem pra Rua contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/12/Os-atos-esvaziados-do-MBL-e-do-Vem-pra-Rua-contra-Bolsonaro)
+- [Os números da violência sexual contra os jovens](https://www.nexojornal.com.br/expresso/2021/09/12/Os-n%C3%BAmeros-da-viol%C3%AAncia-sexual-contra-os-jovens)
+- [Reino Unido e Dinamarca deixam de exigir comprovante de vacinação](https://www.nexojornal.com.br/extra/2021/09/12/Reino-Unido-e-Dinamarca-deixam-de-exigir-comprovante-de-vacina%C3%A7%C3%A3o)
+- [Por que o Novo Código Eleitoral desperta tanta crítica](https://www.nexojornal.com.br/expresso/2021/09/12/Por-que-o-Novo-C%C3%B3digo-Eleitoral-desperta-tanta-cr%C3%ADtica)
+- [Os Três Poderes da República e as quatro linhas da Constituição](https://www.nexojornal.com.br/ensaio/2021/Os-Tr%C3%AAs-Poderes-da-Rep%C3%BAblica-e-as-quatro-linhas-da-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
