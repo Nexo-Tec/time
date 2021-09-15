@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A Matriz de Competências do Diretor Escolar](https://www.nexojornal.com.br/colunistas/2021/A-Matriz-de-Compet%C3%AAncias-do-Diretor-Escolar)
-- [O papel da Caixa e de seu presidente no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/14/O-papel-da-Caixa-e-de-seu-presidente-no-governo-Bolsonaro)
-- [Congresso e Supremo barram MP das fake news de Bolsonaro](https://www.nexojornal.com.br/extra/2021/09/14/Congresso-e-Supremo-barram-MP-das-fake-news-de-Bolsonaro)
-- [Quais os desafios se a covid se tornar uma doença endêmica](https://www.nexojornal.com.br/expresso/2021/09/14/Quais-os-desafios-se-a-covid-se-tornar-uma-doen%C3%A7a-end%C3%AAmica)
-- [Léo Pinheiro recua de acusações contra Lula, diz jornal](https://www.nexojornal.com.br/extra/2021/09/14/L%C3%A9o-Pinheiro-recua-de-acusa%C3%A7%C3%B5es-contra-Lula-diz-jornal)
+- [Pelé recebe alta de UTI e está em boa condição, dizem médicos](https://www.nexojornal.com.br/extra/2021/09/14/Pel%C3%A9-recebe-alta-de-UTI-e-est%C3%A1-em-boa-condi%C3%A7%C3%A3o-dizem-m%C3%A9dicos)
+- [O bot que tuíta pequenas biografias de americanos comuns](https://www.nexojornal.com.br/expresso/2021/09/14/O-bot-que-tu%C3%ADta-pequenas-biografias-de-americanos-comuns)
+- [Queda de avião mata empresário, esposa e filhos no interior de SP](https://www.nexojornal.com.br/extra/2021/09/14/Queda-de-avi%C3%A3o-mata-empres%C3%A1rio-esposa-e-filhos-no-interior-de-SP)
+- [Afinal, o PSDB é ou não é oposição ao governo Bolsonaro?](https://www.nexojornal.com.br/podcast/2021/09/14/Afinal-o-PSDB-%C3%A9-ou-n%C3%A3o-%C3%A9-oposi%C3%A7%C3%A3o-ao-governo-Bolsonaro)
+- [Presidentes da Câmara e do BC criticam Petrobras por aumentos](https://www.nexojornal.com.br/extra/2021/09/14/Presidentes-da-C%C3%A2mara-e-do-BC-criticam-Petrobras-por-aumentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
