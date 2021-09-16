@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Um curso sobre a história da Bienal de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-historia-da-bienal-de-sao-paulo/)
-- [“O século da solidão”, da inglesa Noreena Hertz](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-seculo-da-solidao-da-inglesa-noreena-hertz/)
+- [‘O século da solidão’, da inglesa Noreena Hertz](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-seculo-da-solidao-da-inglesa-noreena-hertz/)
 - [O filme ‘A Última Floresta’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-filme-a-ultima-floresta/)
 - [‘Montero’, o primeiro álbum de Lil Nas X](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/montero-o-primeiro-album-de-lil-nas-x/)
 - [Já tentou meditar?](https://gamarevista.uol.com.br/achamos-que-vale/fazer/ja-tentou-meditar/)
