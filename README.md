@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Enfrentar a obesidade com a alimentação escolar](https://pp.nexojornal.com.br/opiniao/2021/Enfrentar-a-obesidade-com-a-alimenta%C3%A7%C3%A3o-escolar)
+- [Aborto: uma breve história da legislação brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2021/Aborto-uma-breve-hist%C3%B3ria-da-legisla%C3%A7%C3%A3o-brasileira)
 - [A contribuição da restauração florestal na regulação das mudanças climáticas](https://pp.nexojornal.com.br/opiniao/2021/A-contribui%C3%A7%C3%A3o-da-restaura%C3%A7%C3%A3o-florestal-na-regula%C3%A7%C3%A3o-das-mudan%C3%A7as-clim%C3%A1ticas)
 - [Tapa do dia: sem biodiversidade não há negócios](https://pp.nexojornal.com.br/opiniao/2021/Tapa-do-dia-sem-biodiversidade-n%C3%A3o-h%C3%A1-neg%C3%B3cios)
 - [Teoria de Mudança como instrumento para desenvolver territórios vulneráveis](https://pp.nexojornal.com.br/ponto-de-vista/2021/Teoria-de-Mudan%C3%A7a-como-instrumento-para-desenvolver-territ%C3%B3rios-vulner%C3%A1veis)
-- [A evolução das políticas em saúde mental no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-evolu%C3%A7%C3%A3o-das-pol%C3%ADticas-em-sa%C3%BAde-mental-no-Brasil)
-- [Agenciamento negro ou apropriação cultural? Um novo olhar sobre cultura negra e identidade nacional](https://pp.nexojornal.com.br/opiniao/2021/Agenciamento-negro-ou-apropria%C3%A7%C3%A3o-cultural-Um-novo-olhar-sobre-cultura-negra-e-identidade-nacional)
 <!-- PP_LIST:END -->
 
