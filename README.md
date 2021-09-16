@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A Matriz de Competências do Diretor Escolar](https://www.nexojornal.com.br/colunistas/2021/A-Matriz-de-Compet%C3%AAncias-do-Diretor-Escolar)
-- [O papel da Caixa e de seu presidente no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/14/O-papel-da-Caixa-e-de-seu-presidente-no-governo-Bolsonaro)
-- [Congresso e Supremo barram MP das fake news de Bolsonaro](https://www.nexojornal.com.br/extra/2021/09/14/Congresso-e-Supremo-barram-MP-das-fake-news-de-Bolsonaro)
-- [Quais os desafios se a covid se tornar uma doença endêmica](https://www.nexojornal.com.br/expresso/2021/09/14/Quais-os-desafios-se-a-covid-se-tornar-uma-doen%C3%A7a-end%C3%AAmica)
-- [Léo Pinheiro recua de acusações contra Lula, diz jornal](https://www.nexojornal.com.br/extra/2021/09/14/L%C3%A9o-Pinheiro-recua-de-acusa%C3%A7%C3%B5es-contra-Lula-diz-jornal)
+- [Por que o impacto da variante delta é diferente no Brasil](https://www.nexojornal.com.br/expresso/2021/09/15/Por-que-o-impacto-da-variante-delta-%C3%A9-diferente-no-Brasil)
+- [O histórico e a composição do preço dos combustíveis no Brasil](https://www.nexojornal.com.br/grafico/2021/09/15/O-hist%C3%B3rico-e-a-composi%C3%A7%C3%A3o-do-pre%C3%A7o-dos-combust%C3%ADveis-no-Brasil)
+- [O impeachment é o caminho mais curto para a democracia](https://www.nexojornal.com.br/colunistas/2021/O-impeachment-%C3%A9-o-caminho-mais-curto-para-a-democracia)
+- [Moraes pede vista e suspende votação do marco temporal](https://www.nexojornal.com.br/extra/2021/09/15/Moraes-pede-vista-e-suspende-vota%C3%A7%C3%A3o-do-marco-temporal)
+- [Facebook resistiu a mudanças para reduzir desinformação, diz jornal](https://www.nexojornal.com.br/extra/2021/09/15/Facebook-resistiu-a-mudan%C3%A7as-para-reduzir-desinforma%C3%A7%C3%A3o-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
