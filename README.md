@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: André Laurentino](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/andre-laurentino/)
 - [Caixinha de Som JBL](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caixinha-de-som-jbl/)
 - [Livros de família](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/livros-de-familia/)
 - [Das alianças performativas](https://gamarevista.uol.com.br/colunistas/winnie-bueno/das-aliancas-performativas/)
 - [@iamstevana](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/iamstevana/)
-- [Eugênio Bucci: Sem verdade factual não há política, só fanatismo](https://gamarevista.uol.com.br/podcast/podcast-da-semana/eugenio-bucci-qual-e-a-verdade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
