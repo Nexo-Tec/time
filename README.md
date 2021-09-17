@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a quarentena eleitoral diz sobre a política nacional](https://www.nexojornal.com.br/expresso/2021/09/17/O-que-a-quarentena-eleitoral-diz-sobre-a-pol%C3%ADtica-nacional)
-- [Os desencontros na vacinação 8 meses após seu início no Brasil](https://www.nexojornal.com.br/expresso/2021/09/16/Os-desencontros-na-vacina%C3%A7%C3%A3o-8-meses-ap%C3%B3s-seu-in%C3%ADcio-no-Brasil)
-- [‘Governar os mortos’: a burocracia do desaparecimento](https://www.nexojornal.com.br/estante/trechos/2021/09/16/%E2%80%98Governar-os-mortos%E2%80%99-a-burocracia-do-desaparecimento)
-- [Bolsonaro aumenta IOF para bancar Auxílio Brasil em 2021](https://www.nexojornal.com.br/extra/2021/09/16/Bolsonaro-aumenta-IOF-para-bancar-Aux%C3%ADlio-Brasil-em-2021)
-- [Podcast ‘Durma com essa’ faz 3 anos com 24 milhões de plays](https://www.nexojornal.com.br/expresso/2021/09/16/Podcast-%E2%80%98Durma-com-essa%E2%80%99-faz-3-anos-com-24-milh%C3%B5es-de-plays)
+- [Por que o impacto da variante delta é diferente no Brasil](https://www.nexojornal.com.br/expresso/2021/09/15/Por-que-o-impacto-da-variante-delta-%C3%A9-diferente-no-Brasil)
+- [O histórico e a composição do preço dos combustíveis no Brasil](https://www.nexojornal.com.br/grafico/2021/09/15/O-hist%C3%B3rico-e-a-composi%C3%A7%C3%A3o-do-pre%C3%A7o-dos-combust%C3%ADveis-no-Brasil)
+- [O impeachment é o caminho mais curto para a democracia](https://www.nexojornal.com.br/colunistas/2021/O-impeachment-%C3%A9-o-caminho-mais-curto-para-a-democracia)
+- [Moraes pede vista e suspende votação do marco temporal](https://www.nexojornal.com.br/extra/2021/09/15/Moraes-pede-vista-e-suspende-vota%C3%A7%C3%A3o-do-marco-temporal)
+- [Facebook resistiu a mudanças para reduzir desinformação, diz jornal](https://www.nexojornal.com.br/extra/2021/09/15/Facebook-resistiu-a-mudan%C3%A7as-para-reduzir-desinforma%C3%A7%C3%A3o-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
