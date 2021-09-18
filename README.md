@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a quarentena eleitoral diz sobre a política nacional](https://www.nexojornal.com.br/expresso/2021/09/17/O-que-a-quarentena-eleitoral-diz-sobre-a-pol%C3%ADtica-nacional)
-- [Os desencontros na vacinação 8 meses após seu início no Brasil](https://www.nexojornal.com.br/expresso/2021/09/16/Os-desencontros-na-vacina%C3%A7%C3%A3o-8-meses-ap%C3%B3s-seu-in%C3%ADcio-no-Brasil)
-- [‘Governar os mortos’: a burocracia do desaparecimento](https://www.nexojornal.com.br/estante/trechos/2021/09/16/%E2%80%98Governar-os-mortos%E2%80%99-a-burocracia-do-desaparecimento)
-- [Bolsonaro aumenta IOF para bancar Auxílio Brasil em 2021](https://www.nexojornal.com.br/extra/2021/09/16/Bolsonaro-aumenta-IOF-para-bancar-Aux%C3%ADlio-Brasil-em-2021)
-- [Podcast ‘Durma com essa’ faz 3 anos com 24 milhões de plays](https://www.nexojornal.com.br/expresso/2021/09/16/Podcast-%E2%80%98Durma-com-essa%E2%80%99-faz-3-anos-com-24-milh%C3%B5es-de-plays)
+- [Homem lança explosivo contra Consulado da China no Rio](https://www.nexojornal.com.br/extra/2021/09/17/Homem-lan%C3%A7a-explosivo-contra-Consulado-da-China-no-Rio)
+- [Extratos da semana | 17.set.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-17.set.2021)
+- [Funai renova por seis meses ordem de proteção a indígenas isolados](https://www.nexojornal.com.br/extra/2021/09/17/Funai-renova-por-seis-meses-ordem-de-prote%C3%A7%C3%A3o-a-ind%C3%ADgenas-isolados)
+- [O envolvimento dos planos de saúde com o tratamento precoce](https://www.nexojornal.com.br/expresso/2021/09/17/O-envolvimento-dos-planos-de-sa%C3%BAde-com-o-tratamento-precoce)
+- [Os desenhos que são animados a partir de tatuagens](https://www.nexojornal.com.br/expresso/2021/09/17/Os-desenhos-que-s%C3%A3o-animados-a-partir-de-tatuagens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
