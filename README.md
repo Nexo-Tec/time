@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Homem lança explosivo contra Consulado da China no Rio](https://www.nexojornal.com.br/extra/2021/09/17/Homem-lan%C3%A7a-explosivo-contra-Consulado-da-China-no-Rio)
-- [Extratos da semana | 17.set.2021](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-17.set.2021)
-- [Funai renova por seis meses ordem de proteção a indígenas isolados](https://www.nexojornal.com.br/extra/2021/09/17/Funai-renova-por-seis-meses-ordem-de-prote%C3%A7%C3%A3o-a-ind%C3%ADgenas-isolados)
-- [O envolvimento dos planos de saúde com o tratamento precoce](https://www.nexojornal.com.br/expresso/2021/09/17/O-envolvimento-dos-planos-de-sa%C3%BAde-com-o-tratamento-precoce)
-- [Os desenhos que são animados a partir de tatuagens](https://www.nexojornal.com.br/expresso/2021/09/17/Os-desenhos-que-s%C3%A3o-animados-a-partir-de-tatuagens)
+- [Paulo Freire, 100 anos: o que você sabe sobre suas ideias?](https://www.nexojornal.com.br/interativo/2021/09/19/Paulo-Freire-100-anos-o-que-voc%C3%AA-sabe-sobre-suas-ideias)
+- [Moraes sinaliza que não deve recuar diante de bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/18/Moraes-sinaliza-que-n%C3%A3o-deve-recuar-diante-de-bolsonaristas)
+- [Missão sem presença de astronautas profissionais retorna à Terra](https://www.nexojornal.com.br/extra/2021/09/18/Miss%C3%A3o-sem-presen%C3%A7a-de-astronautas-profissionais-retorna-%C3%A0-Terra)
+- [Número de brasileiros detidos na fronteira dos EUA é recorde](https://www.nexojornal.com.br/extra/2021/09/18/N%C3%BAmero-de-brasileiros-detidos-na-fronteira-dos-EUA-%C3%A9-recorde)
+- [Golpismo e negacionismo: o pêndulo presidencial na crise](https://www.nexojornal.com.br/expresso/2021/09/18/Golpismo-e-negacionismo-o-p%C3%AAndulo-presidencial-na-crise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
