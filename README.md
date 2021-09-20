@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@tukuma_pataxo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tukuma_pataxo/)
 - [Guilherme Ranieri: A Primavera das PANCs](https://gamarevista.uol.com.br/podcast/podcast-da-semana/guilherme-ranieri-e-tempo-de-renovar/)
 - [Mateus Carrilho](https://gamarevista.uol.com.br/pessoas/questionario-proust/mateus-carrilho/)
 - [O primeiro evangelho de Cesar](https://gamarevista.uol.com.br/cultura/o-primeiro-evangelho-de-cesar/)
 - [A Cilada da Meritocracia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-cilada-da-meritocracia/)
-- [Um curso sobre a história da Bienal de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-historia-da-bienal-de-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
