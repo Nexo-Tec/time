@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Paulo Freire, 100 anos: o que você sabe sobre suas ideias?](https://www.nexojornal.com.br/interativo/2021/09/19/Paulo-Freire-100-anos-o-que-voc%C3%AA-sabe-sobre-suas-ideias)
-- [Moraes sinaliza que não deve recuar diante de bolsonaristas](https://www.nexojornal.com.br/extra/2021/09/18/Moraes-sinaliza-que-n%C3%A3o-deve-recuar-diante-de-bolsonaristas)
-- [Missão sem presença de astronautas profissionais retorna à Terra](https://www.nexojornal.com.br/extra/2021/09/18/Miss%C3%A3o-sem-presen%C3%A7a-de-astronautas-profissionais-retorna-%C3%A0-Terra)
-- [Número de brasileiros detidos na fronteira dos EUA é recorde](https://www.nexojornal.com.br/extra/2021/09/18/N%C3%BAmero-de-brasileiros-detidos-na-fronteira-dos-EUA-%C3%A9-recorde)
-- [Golpismo e negacionismo: o pêndulo presidencial na crise](https://www.nexojornal.com.br/expresso/2021/09/18/Golpismo-e-negacionismo-o-p%C3%AAndulo-presidencial-na-crise)
+- [Pfizer diz que vacina é segura e eficaz para crianças de 5 a 11 anos](https://www.nexojornal.com.br/extra/2021/09/20/Pfizer-diz-que-vacina-%C3%A9-segura-e-eficaz-para-crian%C3%A7as-de-5-a-11-anos)
+- [A trajetória do sucesso da série ‘Ted Lasso’ até o Emmy](https://www.nexojornal.com.br/expresso/2021/09/20/A-trajet%C3%B3ria-do-sucesso-da-s%C3%A9rie-%E2%80%98Ted-Lasso%E2%80%99-at%C3%A9-o-Emmy)
+- [Bolsonaro sanciona lei que muda regras de direitos de transmissão](https://www.nexojornal.com.br/extra/2021/09/20/Bolsonaro-sanciona-lei-que-muda-regras-de-direitos-de-transmiss%C3%A3o)
+- [Planalto envia projeto de lei na linha da MP das fake news](https://www.nexojornal.com.br/extra/2021/09/20/Planalto-envia-projeto-de-lei-na-linha-da-MP-das-fake-news)
+- [Na reta final, CPI da Covid adia apresentação de relatório](https://www.nexojornal.com.br/extra/2021/09/19/Na-reta-final-CPI-da-Covid-adia-apresenta%C3%A7%C3%A3o-de-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
