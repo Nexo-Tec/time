@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pfizer diz que vacina é segura e eficaz para crianças de 5 a 11 anos](https://www.nexojornal.com.br/extra/2021/09/20/Pfizer-diz-que-vacina-%C3%A9-segura-e-eficaz-para-crian%C3%A7as-de-5-a-11-anos)
-- [A trajetória do sucesso da série ‘Ted Lasso’ até o Emmy](https://www.nexojornal.com.br/expresso/2021/09/20/A-trajet%C3%B3ria-do-sucesso-da-s%C3%A9rie-%E2%80%98Ted-Lasso%E2%80%99-at%C3%A9-o-Emmy)
-- [Bolsonaro sanciona lei que muda regras de direitos de transmissão](https://www.nexojornal.com.br/extra/2021/09/20/Bolsonaro-sanciona-lei-que-muda-regras-de-direitos-de-transmiss%C3%A3o)
-- [Planalto envia projeto de lei na linha da MP das fake news](https://www.nexojornal.com.br/extra/2021/09/20/Planalto-envia-projeto-de-lei-na-linha-da-MP-das-fake-news)
-- [Na reta final, CPI da Covid adia apresentação de relatório](https://www.nexojornal.com.br/extra/2021/09/19/Na-reta-final-CPI-da-Covid-adia-apresenta%C3%A7%C3%A3o-de-relat%C3%B3rio)
+- [Primeiro-ministro do Canadá ganha eleição para 3º mandato](https://www.nexojornal.com.br/extra/2021/09/21/Primeiro-ministro-do-Canad%C3%A1-ganha-elei%C3%A7%C3%A3o-para-3%C2%BA-mandato)
+- [Argentina acaba com obrigação de máscaras ao ar livre](https://www.nexojornal.com.br/extra/2021/09/21/Argentina-acaba-com-obriga%C3%A7%C3%A3o-de-m%C3%A1scaras-ao-ar-livre)
+- [O dilema ético em torno das obras de crimes reais](https://www.nexojornal.com.br/expresso/2021/09/21/O-dilema-%C3%A9tico-em-torno-das-obras-de-crimes-reais)
+- [Operação da PF apura compra de remédios pelo Ministério da Saúde](https://www.nexojornal.com.br/extra/2021/09/21/Opera%C3%A7%C3%A3o-da-PF-apura-compra-de-rem%C3%A9dios-pelo-Minist%C3%A9rio-da-Sa%C3%BAde)
+- [Tribunal condena herói do filme ‘Hotel Ruanda’ por terrorismo](https://www.nexojornal.com.br/extra/2021/09/21/Tribunal-condena-her%C3%B3i-do-filme-%E2%80%98Hotel-Ruanda%E2%80%99-por-terrorismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
