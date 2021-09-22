@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Primeiro-ministro do Canadá ganha eleição para 3º mandato](https://www.nexojornal.com.br/extra/2021/09/21/Primeiro-ministro-do-Canad%C3%A1-ganha-elei%C3%A7%C3%A3o-para-3%C2%BA-mandato)
-- [Argentina acaba com obrigação de máscaras ao ar livre](https://www.nexojornal.com.br/extra/2021/09/21/Argentina-acaba-com-obriga%C3%A7%C3%A3o-de-m%C3%A1scaras-ao-ar-livre)
-- [O dilema ético em torno das obras de crimes reais](https://www.nexojornal.com.br/expresso/2021/09/21/O-dilema-%C3%A9tico-em-torno-das-obras-de-crimes-reais)
-- [Operação da PF apura compra de remédios pelo Ministério da Saúde](https://www.nexojornal.com.br/extra/2021/09/21/Opera%C3%A7%C3%A3o-da-PF-apura-compra-de-rem%C3%A9dios-pelo-Minist%C3%A9rio-da-Sa%C3%BAde)
-- [Tribunal condena herói do filme ‘Hotel Ruanda’ por terrorismo](https://www.nexojornal.com.br/extra/2021/09/21/Tribunal-condena-her%C3%B3i-do-filme-%E2%80%98Hotel-Ruanda%E2%80%99-por-terrorismo)
+- [Diretor da Prevent Senior passa a ser investigado pela CPI](https://www.nexojornal.com.br/extra/2021/09/22/Diretor-da-Prevent-Senior-passa-a-ser-investigado-pela-CPI)
+- [Risco de apagão leva governo a antecipar operação de usinas](https://www.nexojornal.com.br/extra/2021/09/22/Risco-de-apag%C3%A3o-leva-governo-a-antecipar-opera%C3%A7%C3%A3o-de-usinas)
+- [São Paulo reduz para 8 semanas o intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/09/22/S%C3%A3o-Paulo-reduz-para-8-semanas-o-intervalo-entre-doses-da-Pfizer)
+- [Chuvas de primavera: quais as projeções para a crise hídrica](https://www.nexojornal.com.br/expresso/2021/09/22/Chuvas-de-primavera-quais-as-proje%C3%A7%C3%B5es-para-a-crise-h%C3%ADdrica)
+- [A deportação em massa de haitianos nos Estados Unidos](https://www.nexojornal.com.br/expresso/2021/09/22/A-deporta%C3%A7%C3%A3o-em-massa-de-haitianos-nos-Estados-Unidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
