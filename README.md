@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O amor é uma bactéria](https://gamarevista.uol.com.br/colunistas/marcello-dantas/o-amor-e-uma-bacteria/)
 - [Lôta](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lota/)
 - [Passo a passo para mudar de carreira](https://gamarevista.uol.com.br/trabalho/passo-a-passo-mudar-de-carreira/)
 - [Setembro amarelo](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/setembro-amarelo/)
 - [@tukuma_pataxo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tukuma_pataxo/)
-- [Guilherme Ranieri: A Primavera das PANCs](https://gamarevista.uol.com.br/podcast/podcast-da-semana/guilherme-ranieri-e-tempo-de-renovar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
