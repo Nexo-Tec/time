@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O projeto que reúne receitas de coquetéis desde o século 18](https://www.nexojornal.com.br/expresso/2021/09/21/O-projeto-que-re%C3%BAne-receitas-de-coquet%C3%A9is-desde-o-s%C3%A9culo-18)
+- [O que quer a CPI da Covid ao adiar seu relatório final](https://www.nexojornal.com.br/podcast/2021/09/21/O-que-quer-a-CPI-da-Covid-ao-adiar-seu-relat%C3%B3rio-final)
+- [Ministro chama senadora de ‘descontrolada’ e causa tumulto na CPI](https://www.nexojornal.com.br/extra/2021/09/21/Ministro-chama-senadora-de-%E2%80%98descontrolada%E2%80%99-e-causa-tumulto-na-CPI)
 - [Primeiro-ministro do Canadá ganha eleição para 3º mandato](https://www.nexojornal.com.br/extra/2021/09/21/Primeiro-ministro-do-Canad%C3%A1-ganha-elei%C3%A7%C3%A3o-para-3%C2%BA-mandato)
 - [Argentina acaba com obrigação de máscaras ao ar livre](https://www.nexojornal.com.br/extra/2021/09/21/Argentina-acaba-com-obriga%C3%A7%C3%A3o-de-m%C3%A1scaras-ao-ar-livre)
-- [O dilema ético em torno das obras de crimes reais](https://www.nexojornal.com.br/expresso/2021/09/21/O-dilema-%C3%A9tico-em-torno-das-obras-de-crimes-reais)
-- [Operação da PF apura compra de remédios pelo Ministério da Saúde](https://www.nexojornal.com.br/extra/2021/09/21/Opera%C3%A7%C3%A3o-da-PF-apura-compra-de-rem%C3%A9dios-pelo-Minist%C3%A9rio-da-Sa%C3%BAde)
-- [Tribunal condena herói do filme ‘Hotel Ruanda’ por terrorismo](https://www.nexojornal.com.br/extra/2021/09/21/Tribunal-condena-her%C3%B3i-do-filme-%E2%80%98Hotel-Ruanda%E2%80%99-por-terrorismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
