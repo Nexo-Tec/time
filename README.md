@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Rap que fala sobre genocídio indígena](https://gamarevista.uol.com.br/achamos-que-vale/assistir/rap-que-fala-sobre-genocidio-indigena/)
 - [Uma mostra sobre Carolina Maria de Jesus](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-sobre-carolina-maria-de-jesus/)
 - [Um podcast para tentar dar conta do noticiário](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-tentar-dar-conta-do-noticiario/)
 - [Vida e obra de Paulo Freire no Itaú Cultural](https://gamarevista.uol.com.br/achamos-que-vale/ir/vida-e-obra-de-paulo-freire-no-itau-cultural/)
 - [Debates internacionais com autores da Ubu](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debates-internacionais-com-autores-da-ubu/)
-- [Perca o medo de dirigir](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/perca-o-medo-de-dirigir/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
