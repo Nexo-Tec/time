@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o DEM e PSL querem se fundir. E qual seria o resultado](https://www.nexojornal.com.br/expresso/2021/09/22/Por-que-o-DEM-e-PSL-querem-se-fundir.-E-qual-seria-o-resultado)
-- [Como o agronegócio estimula o apagamento de cafeicultoras](https://www.nexojornal.com.br/academico/2021/09/22/Como-o-agroneg%C3%B3cio-estimula-o-apagamento-de-cafeicultoras)
-- [Como o PT lida com um filme que questiona a facada em Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/22/Como-o-PT-lida-com-um-filme-que-questiona-a-facada-em-Bolsonaro)
-- [Por que exercícios  são pouco eficientes para perder peso](https://www.nexojornal.com.br/colunistas/2021/Por-que-exerc%C3%ADcios-s%C3%A3o-pouco-eficientes-para-perder-peso)
-- [Senado aprova reforma eleitoral sem coligações proporcionais](https://www.nexojornal.com.br/extra/2021/09/22/Senado-aprova-reforma-eleitoral-sem-coliga%C3%A7%C3%B5es-proporcionais)
+- [Diretor da Prevent Senior passa a ser investigado pela CPI](https://www.nexojornal.com.br/extra/2021/09/22/Diretor-da-Prevent-Senior-passa-a-ser-investigado-pela-CPI)
+- [Risco de apagão leva governo a antecipar operação de usinas](https://www.nexojornal.com.br/extra/2021/09/22/Risco-de-apag%C3%A3o-leva-governo-a-antecipar-opera%C3%A7%C3%A3o-de-usinas)
+- [São Paulo reduz para 8 semanas o intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/09/22/S%C3%A3o-Paulo-reduz-para-8-semanas-o-intervalo-entre-doses-da-Pfizer)
+- [Chuvas de primavera: quais as projeções para a crise hídrica](https://www.nexojornal.com.br/expresso/2021/09/22/Chuvas-de-primavera-quais-as-proje%C3%A7%C3%B5es-para-a-crise-h%C3%ADdrica)
+- [A deportação em massa de haitianos nos Estados Unidos](https://www.nexojornal.com.br/expresso/2021/09/22/A-deporta%C3%A7%C3%A3o-em-massa-de-haitianos-nos-Estados-Unidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
