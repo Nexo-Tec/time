@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o DEM e PSL querem se fundir. E qual seria o resultado](https://www.nexojornal.com.br/expresso/2021/09/22/Por-que-o-DEM-e-PSL-querem-se-fundir.-E-qual-seria-o-resultado)
-- [Como o agronegócio estimula o apagamento de cafeicultoras](https://www.nexojornal.com.br/academico/2021/09/22/Como-o-agroneg%C3%B3cio-estimula-o-apagamento-de-cafeicultoras)
-- [Como o PT lida com um filme que questiona a facada em Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/22/Como-o-PT-lida-com-um-filme-que-questiona-a-facada-em-Bolsonaro)
-- [Por que exercícios  são pouco eficientes para perder peso](https://www.nexojornal.com.br/colunistas/2021/Por-que-exerc%C3%ADcios-s%C3%A3o-pouco-eficientes-para-perder-peso)
-- [Senado aprova reforma eleitoral sem coligações proporcionais](https://www.nexojornal.com.br/extra/2021/09/22/Senado-aprova-reforma-eleitoral-sem-coliga%C3%A7%C3%B5es-proporcionais)
+- [O dilema da oposição: entre a frente ampla e o cálculo eleitoral](https://www.nexojornal.com.br/podcast/2021/09/23/O-dilema-da-oposi%C3%A7%C3%A3o-entre-a-frente-ampla-e-o-c%C3%A1lculo-eleitoral)
+- [Movimentos sociais ocupam prédio da bolsa de valores em SP](https://www.nexojornal.com.br/extra/2021/09/23/Movimentos-sociais-ocupam-pr%C3%A9dio-da-bolsa-de-valores-em-SP)
+- [Presidente da Funai vira réu por descumprir decisões judiciais](https://www.nexojornal.com.br/extra/2021/09/23/Presidente-da-Funai-vira-r%C3%A9u-por-descumprir-decis%C3%B5es-judiciais)
+- [Ministério vê quebra de contrato da Coronavac pelo Butantan](https://www.nexojornal.com.br/extra/2021/09/23/Minist%C3%A9rio-v%C3%AA-quebra-de-contrato-da-Coronavac-pelo-Butantan)
+- [‘Falar de sexualidade e deficiência é um duplo tabu’](https://www.nexojornal.com.br/entrevista/2021/09/23/%E2%80%98Falar-de-sexualidade-e-defici%C3%AAncia-%C3%A9-um-duplo-tabu%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
