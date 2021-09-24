@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A plataforma que reúne dados sobre a população jovem no Brasil](https://pp.nexojornal.com.br/topico/2021/09/23/A-plataforma-que-re%C3%BAne-dados-sobre-a-popula%C3%A7%C3%A3o-jovem-no-Brasil)
+- [O Brasil e a conexão dos negócios com a biodiversidade](https://pp.nexojornal.com.br/linha-do-tempo/2021/O-Brasil-e-a-conex%C3%A3o-dos-neg%C3%B3cios-com-a-biodiversidade)
+- [A importância do investimento na formação de diretores](https://pp.nexojornal.com.br/opiniao/2021/A-import%C3%A2ncia-do-investimento-na-forma%C3%A7%C3%A3o-de-diretores)
 - [Josué de Castro e a descoberta da fome](https://pp.nexojornal.com.br/opiniao/2021/Josue%CC%81-de-Castro-e-a-descoberta-da-fome)
 - [O que é a Caatinga e seu estado de preservação](https://pp.nexojornal.com.br/Dados/2021/09/20/O-que-%C3%A9-a-Caatinga-e-seu-estado-de-preserva%C3%A7%C3%A3o)
-- [A pessoa em situação de rua como sujeito de direito](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-pessoa-em-situa%C3%A7%C3%A3o-de-rua-como-sujeito-de-direito)
-- [Enfrentar a obesidade com a alimentação escolar](https://pp.nexojornal.com.br/opiniao/2021/Enfrentar-a-obesidade-com-a-alimenta%C3%A7%C3%A3o-escolar)
-- [Aborto: uma breve história da legislação brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2021/Aborto-uma-breve-hist%C3%B3ria-da-legisla%C3%A7%C3%A3o-brasileira)
 <!-- PP_LIST:END -->
 
