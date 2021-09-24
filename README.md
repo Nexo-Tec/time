@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Transporte, comida e moradia puxam alta da inflação](https://www.nexojornal.com.br/extra/2021/09/24/Transporte-comida-e-moradia-puxam-alta-da-infla%C3%A7%C3%A3o)
-- [Comissão da Câmara aprova texto-base da reforma administrativa](https://www.nexojornal.com.br/extra/2021/09/24/Comiss%C3%A3o-da-C%C3%A2mara-aprova-texto-base-da-reforma-administrativa)
-- [O que pesa contra cada um dos filhos de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/23/O-que-pesa-contra-cada-um-dos-filhos-de-Bolsonaro)
-- [O Brasil colonial imaginado pela americana Gayl Jones](https://www.nexojornal.com.br/expresso/2021/09/23/O-Brasil-colonial-imaginado-pela-americana-Gayl-Jones)
-- [Quando a crise de energia vira um racionamento de fato](https://www.nexojornal.com.br/expresso/2021/09/23/Quando-a-crise-de-energia-vira-um-racionamento-de-fato)
+- [O dilema da oposição: entre a frente ampla e o cálculo eleitoral](https://www.nexojornal.com.br/podcast/2021/09/23/O-dilema-da-oposi%C3%A7%C3%A3o-entre-a-frente-ampla-e-o-c%C3%A1lculo-eleitoral)
+- [Movimentos sociais ocupam prédio da bolsa de valores em SP](https://www.nexojornal.com.br/extra/2021/09/23/Movimentos-sociais-ocupam-pr%C3%A9dio-da-bolsa-de-valores-em-SP)
+- [Presidente da Funai vira réu por descumprir decisões judiciais](https://www.nexojornal.com.br/extra/2021/09/23/Presidente-da-Funai-vira-r%C3%A9u-por-descumprir-decis%C3%B5es-judiciais)
+- [Ministério vê quebra de contrato da Coronavac pelo Butantan](https://www.nexojornal.com.br/extra/2021/09/23/Minist%C3%A9rio-v%C3%AA-quebra-de-contrato-da-Coronavac-pelo-Butantan)
+- [‘Falar de sexualidade e deficiência é um duplo tabu’](https://www.nexojornal.com.br/entrevista/2021/09/23/%E2%80%98Falar-de-sexualidade-e-defici%C3%AAncia-%C3%A9-um-duplo-tabu%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
