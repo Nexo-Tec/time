@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Transporte, comida e moradia puxam alta da inflação](https://www.nexojornal.com.br/extra/2021/09/24/Transporte-comida-e-moradia-puxam-alta-da-infla%C3%A7%C3%A3o)
-- [Comissão da Câmara aprova texto-base da reforma administrativa](https://www.nexojornal.com.br/extra/2021/09/24/Comiss%C3%A3o-da-C%C3%A2mara-aprova-texto-base-da-reforma-administrativa)
-- [O que pesa contra cada um dos filhos de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/23/O-que-pesa-contra-cada-um-dos-filhos-de-Bolsonaro)
-- [O Brasil colonial imaginado pela americana Gayl Jones](https://www.nexojornal.com.br/expresso/2021/09/23/O-Brasil-colonial-imaginado-pela-americana-Gayl-Jones)
-- [Quando a crise de energia vira um racionamento de fato](https://www.nexojornal.com.br/expresso/2021/09/23/Quando-a-crise-de-energia-vira-um-racionamento-de-fato)
+- [Morre o cartunista Ota, editor da revista Mad no Brasil](https://www.nexojornal.com.br/extra/2021/09/24/Morre-o-cartunista-Ota-editor-da-revista-Mad-no-Brasil)
+- [A animação que mostra a perseguição a um nazista](https://www.nexojornal.com.br/expresso/2021/09/24/A-anima%C3%A7%C3%A3o-que-mostra-a-persegui%C3%A7%C3%A3o-a-um-nazista)
+- [Barroso, do STF, proíbe missões religiosas em aldeias indígenas](https://www.nexojornal.com.br/extra/2021/09/24/Barroso-do-STF-pro%C3%ADbe-miss%C3%B5es-religiosas-em-aldeias-ind%C3%ADgenas)
+- [‘O melhor resultado é ver um aluno ir muito mais longe do que nós’](https://www.nexojornal.com.br/podcast/2021/09/24/%E2%80%98O-melhor-resultado-%C3%A9-ver-um-aluno-ir-muito-mais-longe-do-que-n%C3%B3s%E2%80%99)
+- [Em entrevista, Bolsonaro descarta dar golpe e melar a eleição](https://www.nexojornal.com.br/extra/2021/09/24/Em-entrevista-Bolsonaro-descarta-dar-golpe-e-melar-a-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
