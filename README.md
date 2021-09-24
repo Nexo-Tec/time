@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [No quarto de Caetano](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/no-quarto-de-caetano/)
 - [Medalha de chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/chocolate-com-medalha/)
 - [Luxúria](https://gamarevista.uol.com.br/cultura/trecho-de-livro/luxuria/)
 - [Rap que fala sobre genocídio indígena](https://gamarevista.uol.com.br/achamos-que-vale/assistir/rap-que-fala-sobre-genocidio-indigena/)
 - [Uma mostra sobre Carolina Maria de Jesus](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-sobre-carolina-maria-de-jesus/)
-- [Um podcast para tentar dar conta do noticiário](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-tentar-dar-conta-do-noticiario/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
