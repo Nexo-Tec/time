@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Ações afirmativas](https://pp.nexojornal.com.br/glossario/A%C3%A7%C3%B5es-afirmativas)
+- [Violência e ordem ao longo dos paradigmas constitucionais brasileiros](https://pp.nexojornal.com.br/linha-do-tempo/2021/Viol%C3%AAncia-e-ordem-ao-longo-dos-paradigmas-constitucionais-brasileiros)
+- [Os desafios de uma transição energética justa na indústria de óleo e gás](https://pp.nexojornal.com.br/opiniao/2021/Os-desafios-de-uma-transi%C3%A7%C3%A3o-energ%C3%A9tica-justa-na-ind%C3%BAstria-de-%C3%B3leo-e-g%C3%A1s)
+- [O subaproveitamento dos recursos do Fundo de Desenvolvimento Urbano de São Paulo](https://pp.nexojornal.com.br/opiniao/2021/O-subaproveitamento-dos-recursos-do-Fundo-de-Desenvolvimento-Urbano-de-S%C3%A3o-Paulo)
 - [A plataforma que reúne dados sobre a população jovem no Brasil](https://pp.nexojornal.com.br/topico/2021/09/23/A-plataforma-que-re%C3%BAne-dados-sobre-a-popula%C3%A7%C3%A3o-jovem-no-Brasil)
-- [O Brasil e a conexão dos negócios com a biodiversidade](https://pp.nexojornal.com.br/linha-do-tempo/2021/O-Brasil-e-a-conex%C3%A3o-dos-neg%C3%B3cios-com-a-biodiversidade)
-- [A importância do investimento na formação de diretores](https://pp.nexojornal.com.br/opiniao/2021/A-import%C3%A2ncia-do-investimento-na-forma%C3%A7%C3%A3o-de-diretores)
-- [Josué de Castro e a descoberta da fome](https://pp.nexojornal.com.br/opiniao/2021/Josue%CC%81-de-Castro-e-a-descoberta-da-fome)
-- [O que é a Caatinga e seu estado de preservação](https://pp.nexojornal.com.br/Dados/2021/09/20/O-que-%C3%A9-a-Caatinga-e-seu-estado-de-preserva%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
