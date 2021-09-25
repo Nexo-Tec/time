@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Executiva da Huawei faz acordo com EUA e retorna à China](https://www.nexojornal.com.br/extra/2021/09/25/Executiva-da-Huawei-faz-acordo-com-EUA-e-retorna-%C3%A0-China)
-- [Qual a tática de Bolsonaro ao tentar atenuar seu extremismo](https://www.nexojornal.com.br/expresso/2021/09/25/Qual-a-t%C3%A1tica-de-Bolsonaro-ao-tentar-atenuar-seu-extremismo)
-- [Queiroga anuncia dose de reforço para profissionais de saúde](https://www.nexojornal.com.br/extra/2021/09/24/Queiroga-anuncia-dose-de-refor%C3%A7o-para-profissionais-de-sa%C3%BAde)
-- [Como excrementos podem ajudar na colonização de Marte](https://www.nexojornal.com.br/expresso/2021/09/24/Como-excrementos-podem-ajudar-na-coloniza%C3%A7%C3%A3o-de-Marte)
-- [Energia do calor do Sol](https://www.nexojornal.com.br/externo/2021/09/24/Energia-do-calor-do-Sol)
+- [Morre o cartunista Ota, editor da revista Mad no Brasil](https://www.nexojornal.com.br/extra/2021/09/24/Morre-o-cartunista-Ota-editor-da-revista-Mad-no-Brasil)
+- [A animação que mostra a perseguição a um nazista](https://www.nexojornal.com.br/expresso/2021/09/24/A-anima%C3%A7%C3%A3o-que-mostra-a-persegui%C3%A7%C3%A3o-a-um-nazista)
+- [Barroso, do STF, proíbe missões religiosas em aldeias indígenas](https://www.nexojornal.com.br/extra/2021/09/24/Barroso-do-STF-pro%C3%ADbe-miss%C3%B5es-religiosas-em-aldeias-ind%C3%ADgenas)
+- [‘O melhor resultado é ver um aluno ir muito mais longe do que nós’](https://www.nexojornal.com.br/podcast/2021/09/24/%E2%80%98O-melhor-resultado-%C3%A9-ver-um-aluno-ir-muito-mais-longe-do-que-n%C3%B3s%E2%80%99)
+- [Em entrevista, Bolsonaro descarta dar golpe e melar a eleição](https://www.nexojornal.com.br/extra/2021/09/24/Em-entrevista-Bolsonaro-descarta-dar-golpe-e-melar-a-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
