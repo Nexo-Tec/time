@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A eleição que marca o fim da era Merkel na Alemanha](https://www.nexojornal.com.br/expresso/2021/09/25/A-elei%C3%A7%C3%A3o-que-marca-o-fim-da-era-Merkel-na-Alemanha)
-- [A resiliência dos radicais diante das reviravoltas de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/25/A-resili%C3%AAncia-dos-radicais-diante-das-reviravoltas-de-Bolsonaro)
-- [O museu que conta a história centenária dos vibradores](https://www.nexojornal.com.br/expresso/2021/09/25/O-museu-que-conta-a-hist%C3%B3ria-centen%C3%A1ria-dos-vibradores)
-- [5 livros sobre mulheres que desafiam as normas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-mulheres-que-desafiam-as-normas)
-- [‘Hoje não me vejo votando nem em Lula nem em Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/09/25/%E2%80%98Hoje-n%C3%A3o-me-vejo-votando-nem-em-Lula-nem-em-Bolsonaro%E2%80%99)
+- [Executiva da Huawei faz acordo com EUA e retorna à China](https://www.nexojornal.com.br/extra/2021/09/25/Executiva-da-Huawei-faz-acordo-com-EUA-e-retorna-%C3%A0-China)
+- [Qual a tática de Bolsonaro ao tentar atenuar seu extremismo](https://www.nexojornal.com.br/expresso/2021/09/25/Qual-a-t%C3%A1tica-de-Bolsonaro-ao-tentar-atenuar-seu-extremismo)
+- [Queiroga anuncia dose de reforço para profissionais de saúde](https://www.nexojornal.com.br/extra/2021/09/24/Queiroga-anuncia-dose-de-refor%C3%A7o-para-profissionais-de-sa%C3%BAde)
+- [Como excrementos podem ajudar na colonização de Marte](https://www.nexojornal.com.br/expresso/2021/09/24/Como-excrementos-podem-ajudar-na-coloniza%C3%A7%C3%A3o-de-Marte)
+- [Energia do calor do Sol](https://www.nexojornal.com.br/externo/2021/09/24/Energia-do-calor-do-Sol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
