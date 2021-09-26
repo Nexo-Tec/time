@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro recebe diagnóstico negativo para covid, diz Planalto](https://www.nexojornal.com.br/extra/2021/09/26/Bolsonaro-recebe-diagn%C3%B3stico-negativo-para-covid-diz-Planalto)
 - [A eleição que marca o fim da era Merkel na Alemanha](https://www.nexojornal.com.br/expresso/2021/09/25/A-elei%C3%A7%C3%A3o-que-marca-o-fim-da-era-Merkel-na-Alemanha)
 - [A resiliência dos radicais diante das reviravoltas de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/25/A-resili%C3%AAncia-dos-radicais-diante-das-reviravoltas-de-Bolsonaro)
 - [O museu que conta a história centenária dos vibradores](https://www.nexojornal.com.br/expresso/2021/09/25/O-museu-que-conta-a-hist%C3%B3ria-centen%C3%A1ria-dos-vibradores)
 - [5 livros sobre mulheres que desafiam as normas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-mulheres-que-desafiam-as-normas)
+- [‘Hoje não me vejo votando nem em Lula nem em Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/09/25/%E2%80%98Hoje-n%C3%A3o-me-vejo-votando-nem-em-Lula-nem-em-Bolsonaro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
