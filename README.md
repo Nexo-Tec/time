@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@zevicent](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/zevicent/)
 - [Silva: ‘A música dita meu humor; minha saúde mental depende muito dela’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/silva-que-ce-ta-ouvindo/)
 - [Luisa Arraes](https://gamarevista.uol.com.br/pessoas/questionario-proust/luisa-arraes/)
 - [No quarto de Caetano](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/no-quarto-de-caetano/)
 - [Medalha de chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/chocolate-com-medalha/)
-- [Luxúria](https://gamarevista.uol.com.br/cultura/trecho-de-livro/luxuria/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
