@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tempestade de poeira atinge cidades do interior de São Paulo](https://www.nexojornal.com.br/extra/2021/09/26/Tempestade-de-poeira-atinge-cidades-do-interior-de-S%C3%A3o-Paulo)
-- [O que ainda falta esclarecer nas suspeitas contra a Prevent Senior](https://www.nexojornal.com.br/expresso/2021/09/26/O-que-ainda-falta-esclarecer-nas-suspeitas-contra-a-Prevent-Senior)
-- [As regras ambientais são mesmo um custo econômico?](https://www.nexojornal.com.br/expresso/2021/09/26/As-regras-ambientais-s%C3%A3o-mesmo-um-custo-econ%C3%B4mico)
-- [‘O celular se tornou uma fonte rica de controle da pandemia’](https://www.nexojornal.com.br/entrevista/2021/09/26/%E2%80%98O-celular-se-tornou-uma-fonte-rica-de-controle-da-pandemia%E2%80%99)
-- [A defesa da democracia depende da nossa capacidade de sonhar](https://www.nexojornal.com.br/ensaio/2021/A-defesa-da-democracia-depende-da-nossa-capacidade-de-sonhar)
+- [Petrobras descarta mudar política de preços a pedido de Bolsonaro](https://www.nexojornal.com.br/extra/2021/09/27/Petrobras-descarta-mudar-pol%C3%ADtica-de-pre%C3%A7os-a-pedido-de-Bolsonaro)
+- [As investidas negacionistas do dono da Havan na pandemia](https://www.nexojornal.com.br/podcast/2021/09/27/As-investidas-negacionistas-do-dono-da-Havan-na-pandemia)
+- [O software que permite alteração de voz em interações virtuais](https://www.nexojornal.com.br/expresso/2021/09/27/O-software-que-permite-altera%C3%A7%C3%A3o-de-voz-em-intera%C3%A7%C3%B5es-virtuais)
+- [Cantor R. Kelly é condenado por extorsão e tráfico sexual](https://www.nexojornal.com.br/extra/2021/09/27/Cantor-R.-Kelly-%C3%A9-condenado-por-extors%C3%A3o-e-tr%C3%A1fico-sexual)
+- [Internet pública impõe publicidade do governo a usuários](https://www.nexojornal.com.br/extra/2021/09/27/Internet-p%C3%BAblica-imp%C3%B5e-publicidade-do-governo-a-usu%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
