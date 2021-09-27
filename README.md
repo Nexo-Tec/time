@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Boca de urna na Alemanha indica resultado acirrado e pulverizado](https://www.nexojornal.com.br/extra/2021/09/26/Boca-de-urna-na-Alemanha-indica-resultado-acirrado-e-pulverizado)
-- [Com recontagem, Parlamento da Islândia não terá maioria feminina](https://www.nexojornal.com.br/extra/2021/09/26/Com-recontagem-Parlamento-da-Isl%C3%A2ndia-n%C3%A3o-ter%C3%A1-maioria-feminina)
-- [Bolsonaro recebe diagnóstico negativo para covid, diz Planalto](https://www.nexojornal.com.br/extra/2021/09/26/Bolsonaro-recebe-diagn%C3%B3stico-negativo-para-covid-diz-Planalto)
-- [A eleição que marca o fim da era Merkel na Alemanha](https://www.nexojornal.com.br/expresso/2021/09/25/A-elei%C3%A7%C3%A3o-que-marca-o-fim-da-era-Merkel-na-Alemanha)
-- [A resiliência dos radicais diante das reviravoltas de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/09/25/A-resili%C3%AAncia-dos-radicais-diante-das-reviravoltas-de-Bolsonaro)
+- [Tempestade de poeira atinge cidades do interior de São Paulo](https://www.nexojornal.com.br/extra/2021/09/26/Tempestade-de-poeira-atinge-cidades-do-interior-de-S%C3%A3o-Paulo)
+- [O que ainda falta esclarecer nas suspeitas contra a Prevent Senior](https://www.nexojornal.com.br/expresso/2021/09/26/O-que-ainda-falta-esclarecer-nas-suspeitas-contra-a-Prevent-Senior)
+- [As regras ambientais são mesmo um custo econômico?](https://www.nexojornal.com.br/expresso/2021/09/26/As-regras-ambientais-s%C3%A3o-mesmo-um-custo-econ%C3%B4mico)
+- [‘O celular se tornou uma fonte rica de controle da pandemia’](https://www.nexojornal.com.br/entrevista/2021/09/26/%E2%80%98O-celular-se-tornou-uma-fonte-rica-de-controle-da-pandemia%E2%80%99)
+- [A defesa da democracia depende da nossa capacidade de sonhar](https://www.nexojornal.com.br/ensaio/2021/A-defesa-da-democracia-depende-da-nossa-capacidade-de-sonhar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
