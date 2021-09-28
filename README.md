@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tempestade de poeira atinge cidades do interior de São Paulo](https://www.nexojornal.com.br/extra/2021/09/26/Tempestade-de-poeira-atinge-cidades-do-interior-de-S%C3%A3o-Paulo)
-- [O que ainda falta esclarecer nas suspeitas contra a Prevent Senior](https://www.nexojornal.com.br/expresso/2021/09/26/O-que-ainda-falta-esclarecer-nas-suspeitas-contra-a-Prevent-Senior)
-- [As regras ambientais são mesmo um custo econômico?](https://www.nexojornal.com.br/expresso/2021/09/26/As-regras-ambientais-s%C3%A3o-mesmo-um-custo-econ%C3%B4mico)
-- [‘O celular se tornou uma fonte rica de controle da pandemia’](https://www.nexojornal.com.br/entrevista/2021/09/26/%E2%80%98O-celular-se-tornou-uma-fonte-rica-de-controle-da-pandemia%E2%80%99)
-- [A defesa da democracia depende da nossa capacidade de sonhar](https://www.nexojornal.com.br/ensaio/2021/A-defesa-da-democracia-depende-da-nossa-capacidade-de-sonhar)
+- [Tabata Amaral: quando a crítica política descamba em misoginia](https://www.nexojornal.com.br/expresso/2021/09/27/Tabata-Amaral-quando-a-cr%C3%ADtica-pol%C3%ADtica-descamba-em-misoginia)
+- [Presidente do PL pede demissão da diretoria do Banco do Nordeste](https://www.nexojornal.com.br/extra/2021/09/27/Presidente-do-PL-pede-demiss%C3%A3o-da-diretoria-do-Banco-do-Nordeste)
+- [Congresso derruba veto e proíbe despejos até fim de 2021](https://www.nexojornal.com.br/extra/2021/09/27/Congresso-derruba-veto-e-pro%C3%ADbe-despejos-at%C3%A9-fim-de-2021)
+- [Quando foi que renunciamos à nossa humanidade?](https://www.nexojornal.com.br/colunistas/2021/Quando-foi-que-renunciamos-%C3%A0-nossa-humanidade)
+- [Qual o papel das usinas termelétricas na crise hídrica](https://www.nexojornal.com.br/expresso/2021/09/27/Qual-o-papel-das-usinas-termel%C3%A9tricas-na-crise-h%C3%ADdrica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
