@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tabata Amaral: quando a crítica política descamba em misoginia](https://www.nexojornal.com.br/expresso/2021/09/27/Tabata-Amaral-quando-a-cr%C3%ADtica-pol%C3%ADtica-descamba-em-misoginia)
-- [Presidente do PL pede demissão da diretoria do Banco do Nordeste](https://www.nexojornal.com.br/extra/2021/09/27/Presidente-do-PL-pede-demiss%C3%A3o-da-diretoria-do-Banco-do-Nordeste)
-- [Congresso derruba veto e proíbe despejos até fim de 2021](https://www.nexojornal.com.br/extra/2021/09/27/Congresso-derruba-veto-e-pro%C3%ADbe-despejos-at%C3%A9-fim-de-2021)
-- [Quando foi que renunciamos à nossa humanidade?](https://www.nexojornal.com.br/colunistas/2021/Quando-foi-que-renunciamos-%C3%A0-nossa-humanidade)
-- [Qual o papel das usinas termelétricas na crise hídrica](https://www.nexojornal.com.br/expresso/2021/09/27/Qual-o-papel-das-usinas-termel%C3%A9tricas-na-crise-h%C3%ADdrica)
+- [Petrobras descarta mudar política de preços a pedido de Bolsonaro](https://www.nexojornal.com.br/extra/2021/09/27/Petrobras-descarta-mudar-pol%C3%ADtica-de-pre%C3%A7os-a-pedido-de-Bolsonaro)
+- [As investidas negacionistas do dono da Havan na pandemia](https://www.nexojornal.com.br/podcast/2021/09/27/As-investidas-negacionistas-do-dono-da-Havan-na-pandemia)
+- [O software que permite alteração de voz em interações virtuais](https://www.nexojornal.com.br/expresso/2021/09/27/O-software-que-permite-altera%C3%A7%C3%A3o-de-voz-em-intera%C3%A7%C3%B5es-virtuais)
+- [Cantor R. Kelly é condenado por extorsão e tráfico sexual](https://www.nexojornal.com.br/extra/2021/09/27/Cantor-R.-Kelly-%C3%A9-condenado-por-extors%C3%A3o-e-tr%C3%A1fico-sexual)
+- [Internet pública impõe publicidade do governo a usuários](https://www.nexojornal.com.br/extra/2021/09/27/Internet-p%C3%BAblica-imp%C3%B5e-publicidade-do-governo-a-usu%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
