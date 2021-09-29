@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Ações afirmativas](https://pp.nexojornal.com.br/glossario/A%C3%A7%C3%B5es-afirmativas)
-- [Violência e ordem ao longo dos paradigmas constitucionais brasileiros](https://pp.nexojornal.com.br/linha-do-tempo/2021/Viol%C3%AAncia-e-ordem-ao-longo-dos-paradigmas-constitucionais-brasileiros)
-- [Os desafios de uma transição energética justa na indústria de óleo e gás](https://pp.nexojornal.com.br/opiniao/2021/Os-desafios-de-uma-transi%C3%A7%C3%A3o-energ%C3%A9tica-justa-na-ind%C3%BAstria-de-%C3%B3leo-e-g%C3%A1s)
-- [O subaproveitamento dos recursos do Fundo de Desenvolvimento Urbano de São Paulo](https://pp.nexojornal.com.br/opiniao/2021/O-subaproveitamento-dos-recursos-do-Fundo-de-Desenvolvimento-Urbano-de-S%C3%A3o-Paulo)
-- [A plataforma que reúne dados sobre a população jovem no Brasil](https://pp.nexojornal.com.br/topico/2021/09/23/A-plataforma-que-re%C3%BAne-dados-sobre-a-popula%C3%A7%C3%A3o-jovem-no-Brasil)
+- [O que há de inédito no 6º relatório do IPCC sobre as causas e efeitos das mudanças climáticas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/O-que-h%C3%A1-de-in%C3%A9dito-no-6%C2%BA-relat%C3%B3rio-do-IPCC-sobre-as-causas-e-efeitos-das-mudan%C3%A7as-clim%C3%A1ticas)
+- [Negócios e biodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/09/28/Neg%C3%B3cios-e-biodiversidade)
+- [Como as neurociências impactam reflexões sobre a saúde, a doença e a bioética](https://pp.nexojornal.com.br/academico/2021/Como-as-neuroci%C3%AAncias-impactam-reflex%C3%B5es-sobre-a-sa%C3%BAde-a-doen%C3%A7a-e-a-bio%C3%A9tica)
+- [Os desafios da transição escola-trabalho para a juventude brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2021/Os-desafios-da-transi%C3%A7%C3%A3o-escola-trabalho-para-a-juventude-brasileira)
+- [5 teses psicopolíticas para entender o bolsonarismo](https://pp.nexojornal.com.br/ponto-de-vista/2021/5-teses-psicopol%C3%ADticas-para-entender-o-bolsonarismo)
 <!-- PP_LIST:END -->
 
