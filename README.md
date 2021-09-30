@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como estavam FHC, Lula e Dilma a um ano da reeleição](https://www.nexojornal.com.br/expresso/2021/09/29/Como-estavam-FHC-Lula-e-Dilma-a-um-ano-da-reelei%C3%A7%C3%A3o)
-- [O papel de Luciano Hang na difusão de remédios ineficazes](https://www.nexojornal.com.br/expresso/2021/09/29/O-papel-de-Luciano-Hang-na-difus%C3%A3o-de-rem%C3%A9dios-ineficazes)
-- [Anvisa autoriza importação de remédios para tratamento de câncer](https://www.nexojornal.com.br/extra/2021/09/29/Anvisa-autoriza-importa%C3%A7%C3%A3o-de-rem%C3%A9dios-para-tratamento-de-c%C3%A2ncer)
-- [A prevenção ao suicídio juvenil além do método tradicional](https://www.nexojornal.com.br/academico/2021/09/29/A-preven%C3%A7%C3%A3o-ao-suic%C3%ADdio-juvenil-al%C3%A9m-do-m%C3%A9todo-tradicional)
-- [A via aberta no Congresso para tentar regular o streaming](https://www.nexojornal.com.br/expresso/2021/09/29/A-via-aberta-no-Congresso-para-tentar-regular-o-streaming)
+- [O que são federações partidárias. E quais os efeitos da proposta](https://www.nexojornal.com.br/expresso/2021/09/28/O-que-s%C3%A3o-federa%C3%A7%C3%B5es-partid%C3%A1rias.-E-quais-os-efeitos-da-proposta)
+- [Vale resgata 35 funcionários presos em mina canadense](https://www.nexojornal.com.br/extra/2021/09/28/Vale-resgata-35-funcion%C3%A1rios-presos-em-mina-canadense)
+- [O alinhamento da Prevent Senior ao foco de Bolsonaro na economia](https://www.nexojornal.com.br/expresso/2021/09/28/O-alinhamento-da-Prevent-Senior-ao-foco-de-Bolsonaro-na-economia)
+- [Jovens brasileiros: entre a energia e a desvontade](https://www.nexojornal.com.br/colunistas/2021/Jovens-brasileiros-entre-a-energia-e-a-desvontade)
+- [‘Os indocumentados refletem a desigualdade do Brasil’](https://www.nexojornal.com.br/entrevista/2021/09/28/%E2%80%98Os-indocumentados-refletem-a-desigualdade-do-Brasil%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
