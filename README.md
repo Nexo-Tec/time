@@ -128,7 +128,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Exposição repassa os 50 anos de carreira de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-repassa-os-50-anos-de-carreira-de-rita-lee/)
 - [Edição comemora 25 anos do ‘Buena Vista Social Club’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/edicao-comemora-25-anos-do-buena-vista-social-club/)
 - [‘Rainhas da Noite’, audiolivro sobre travestis mafiosas em SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/rainhas-da-noite-audiolivro-sobre-travestis-mafiosas-em-sp/)
-- [O novo museu Cidade da Música, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-museu-cidade-da-musica-em-salvador/)
+- [O novo museu Cidade da Música da Bahia, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-museu-cidade-da-musica-em-salvador/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
