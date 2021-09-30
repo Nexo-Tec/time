@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Gustavo Glasser](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/gustavo-glasser/)
-- [Foi por medo de avião](https://gamarevista.uol.com.br/colunistas/letrux/foi-por-medo-de-aviao/)
-- [Como as redes sociais alteram a nossa percepção de tempo](https://gamarevista.uol.com.br/sociedade/como-as-redes-sociais-alteram-a-nossa-percepcao-de-tempo/)
-- [Motorola V3](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/motorola-v3/)
-- [Eles constroem um futuro melhor hoje](https://gamarevista.uol.com.br/pessoas/uma-turma/eles-constroem-um-futuro-melhor-hoje/)
+- [Seja bem-vindo ao Copan](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/seja-bem-vindo-ao-copan/)
+- [Exposição repassa os 50 anos de carreira de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-repassa-os-50-anos-de-carreira-de-rita-lee/)
+- [Edição comemora 25 anos do ‘Buena Vista Social Club’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/edicao-comemora-25-anos-do-buena-vista-social-club/)
+- [‘Rainhas da Noite’, audiolivro sobre travestis mafiosas em SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/rainhas-da-noite-audiolivro-sobre-travestis-mafiosas-em-sp/)
+- [O novo museu Cidade da Música, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-museu-cidade-da-musica-em-salvador/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
