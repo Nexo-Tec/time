@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Gustavo Glasser](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/gustavo-glasser/)
 - [Foi por medo de avião](https://gamarevista.uol.com.br/colunistas/letrux/foi-por-medo-de-aviao/)
 - [Como as redes sociais alteram a nossa percepção de tempo](https://gamarevista.uol.com.br/sociedade/como-as-redes-sociais-alteram-a-nossa-percepcao-de-tempo/)
 - [Motorola V3](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/motorola-v3/)
 - [Eles constroem um futuro melhor hoje](https://gamarevista.uol.com.br/pessoas/uma-turma/eles-constroem-um-futuro-melhor-hoje/)
-- [A saudade de um bar](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/a-saudade-de-um-bar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
