@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como estavam FHC, Lula e Dilma a um ano da reeleição](https://www.nexojornal.com.br/expresso/2021/09/29/Como-estavam-FHC-Lula-e-Dilma-a-um-ano-da-reelei%C3%A7%C3%A3o)
-- [O papel de Luciano Hang na difusão de remédios ineficazes](https://www.nexojornal.com.br/expresso/2021/09/29/O-papel-de-Luciano-Hang-na-difus%C3%A3o-de-rem%C3%A9dios-ineficazes)
-- [Anvisa autoriza importação de remédios para tratamento de câncer](https://www.nexojornal.com.br/extra/2021/09/29/Anvisa-autoriza-importa%C3%A7%C3%A3o-de-rem%C3%A9dios-para-tratamento-de-c%C3%A2ncer)
-- [A prevenção ao suicídio juvenil além do método tradicional](https://www.nexojornal.com.br/academico/2021/09/29/A-preven%C3%A7%C3%A3o-ao-suic%C3%ADdio-juvenil-al%C3%A9m-do-m%C3%A9todo-tradicional)
-- [A via aberta no Congresso para tentar regular o streaming](https://www.nexojornal.com.br/expresso/2021/09/29/A-via-aberta-no-Congresso-para-tentar-regular-o-streaming)
+- [O balanço e os rumos de uma CPI que entra em seu sexto mês](https://www.nexojornal.com.br/expresso/2021/09/30/O-balan%C3%A7o-e-os-rumos-de-uma-CPI-que-entra-em-seu-sexto-m%C3%AAs)
+- [Leitores como construtores de sentido](https://www.nexojornal.com.br/colunistas/2021/Leitores-como-construtores-de-sentido)
+- [O que você sabe sobre os Julgamentos de Nuremberg?](https://www.nexojornal.com.br/interativo/2021/09/30/O-que-voc%C3%AA-sabe-sobre-os-Julgamentos-de-Nuremberg)
+- [Empresário bolsonarista defende negacionismo na CPI](https://www.nexojornal.com.br/extra/2021/09/30/Empres%C3%A1rio-bolsonarista-defende-negacionismo-na-CPI)
+- [Lucro acima de tudo, cloroquina para cima de todos](https://www.nexojornal.com.br/colunistas/2021/Lucro-acima-de-tudo-cloroquina-para-cima-de-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
