@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O crescimento dos indicadores de depressão no Brasil entre 2013 e 2019](https://pp.nexojornal.com.br/Dados/2021/10/01/O-crescimento-dos-indicadores-de-depress%C3%A3o-no-Brasil-entre-2013-e-2019)
-- [Inara Mendonça: marés douradas e ambientes costeiros](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/01/Inara-Mendon%C3%A7a-mar%C3%A9s-douradas-e-ambientes-costeiros)
-- [600 mil mortes e a CPI da Covid: o recuo impossível para Bolsonaro](https://pp.nexojornal.com.br/ponto-de-vista/2021/600-mil-mortes-e-a-CPI-da-Covid-o-recuo-imposs%C3%ADvel-para-Bolsonaro)
 - [Quais os caminhos para desenvolver a Amazônia, mantendo a floresta em pé](https://pp.nexojornal.com.br/opiniao/2021/Quais-os-caminhos-para-desenvolver-a-Amaz%C3%B4nia-mantendo-a-floresta-em-p%C3%A9)
 - [Violência e ordem ao longo dos paradigmas constitucionais brasileiros](https://pp.nexojornal.com.br/linha-do-tempo/2021/Viol%C3%AAncia-e-ordem-ao-longo-dos-paradigmas-constitucionais-brasileiros1)
+- [O que há de inédito no 6º relatório do IPCC sobre as causas e efeitos das mudanças climáticas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/O-que-h%C3%A1-de-in%C3%A9dito-no-6%C2%BA-relat%C3%B3rio-do-IPCC-sobre-as-causas-e-efeitos-das-mudan%C3%A7as-clim%C3%A1ticas)
+- [Negócios e biodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/09/28/Neg%C3%B3cios-e-biodiversidade)
+- [Como as neurociências impactam reflexões sobre a saúde, a doença e a bioética](https://pp.nexojornal.com.br/academico/2021/Como-as-neuroci%C3%AAncias-impactam-reflex%C3%B5es-sobre-a-sa%C3%BAde-a-doen%C3%A7a-e-a-bio%C3%A9tica)
 <!-- PP_LIST:END -->
 
