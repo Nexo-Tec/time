@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Venezuela corta 6 zeros do bolívar para conter hiperinflação](https://www.nexojornal.com.br/extra/2021/10/01/Venezuela-corta-6-zeros-do-bol%C3%ADvar-para-conter-hiperinfla%C3%A7%C3%A3o)
+- [Banco Central alerta para vazamento de dados do Pix](https://www.nexojornal.com.br/extra/2021/10/01/Banco-Central-alerta-para-vazamento-de-dados-do-Pix)
+- [O anúncio da eficácia de um comprimido contra a covid](https://www.nexojornal.com.br/expresso/2021/10/01/O-an%C3%BAncio-da-efic%C3%A1cia-de-um-comprimido-contra-a-covid)
 - [O balanço e os rumos de uma CPI que entra em seu sexto mês](https://www.nexojornal.com.br/expresso/2021/09/30/O-balan%C3%A7o-e-os-rumos-de-uma-CPI-que-entra-em-seu-sexto-m%C3%AAs)
 - [Leitores como construtores de sentido](https://www.nexojornal.com.br/colunistas/2021/Leitores-como-construtores-de-sentido)
-- [O que você sabe sobre os Julgamentos de Nuremberg?](https://www.nexojornal.com.br/interativo/2021/09/30/O-que-voc%C3%AA-sabe-sobre-os-Julgamentos-de-Nuremberg)
-- [Empresário bolsonarista defende negacionismo na CPI](https://www.nexojornal.com.br/extra/2021/09/30/Empres%C3%A1rio-bolsonarista-defende-negacionismo-na-CPI)
-- [Lucro acima de tudo, cloroquina para cima de todos](https://www.nexojornal.com.br/colunistas/2021/Lucro-acima-de-tudo-cloroquina-para-cima-de-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
