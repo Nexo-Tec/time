@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dani Calabresa](https://gamarevista.uol.com.br/pessoas/questionario-proust/dani-calabresa/)
 - [Iguais Perante a Lei](https://gamarevista.uol.com.br/cultura/trecho-de-livro/iguais-perante-a-lei/)
 - [Seja bem-vindo ao Copan](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/seja-bem-vindo-ao-copan/)
 - [Exposição repassa os 50 anos de carreira de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-repassa-os-50-anos-de-carreira-de-rita-lee/)
 - [Edição comemora 25 anos do ‘Buena Vista Social Club’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/edicao-comemora-25-anos-do-buena-vista-social-club/)
-- [‘Rainhas da Noite’, audiolivro sobre travestis mafiosas em SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/rainhas-da-noite-audiolivro-sobre-travestis-mafiosas-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
