@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Eduardo Bolsonaro ofertou ajuda para alvo do STF deixar o país](https://www.nexojornal.com.br/extra/2021/10/02/Eduardo-Bolsonaro-ofertou-ajuda-para-alvo-do-STF-deixar-o-pa%C3%ADs)
-- [Hapvida ordenou prescrição de kit covid, mostram mensagens](https://www.nexojornal.com.br/extra/2021/10/02/Hapvida-ordenou-prescri%C3%A7%C3%A3o-de-kit-covid-mostram-mensagens)
 - [O que está em jogo nos atos de 2 de outubro contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/10/01/O-que-est%C3%A1-em-jogo-nos-atos-de-2-de-outubro-contra-Bolsonaro)
 - [Michelle Bolsonaro será investigada por suspeitas na Caixa](https://www.nexojornal.com.br/extra/2021/10/01/Michelle-Bolsonaro-ser%C3%A1-investigada-por-suspeitas-na-Caixa)
 - [Padre é acusado de assediar ao menos 8 monges em Minas Gerais](https://www.nexojornal.com.br/extra/2021/10/01/Padre-%C3%A9-acusado-de-assediar-ao-menos-8-monges-em-Minas-Gerais)
+- [Como a ficção científica tenta furar sua bolha na TV](https://www.nexojornal.com.br/expresso/2021/10/01/Como-a-fic%C3%A7%C3%A3o-cient%C3%ADfica-tenta-furar-sua-bolha-na-TV)
+- [O jogo que faz uma sátira racial de ‘Banco Imobiliário’](https://www.nexojornal.com.br/expresso/2021/10/01/O-jogo-que-faz-uma-s%C3%A1tira-racial-de-%E2%80%98Banco-Imobili%C3%A1rio%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
