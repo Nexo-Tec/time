@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Venezuela corta 6 zeros do bolívar para conter hiperinflação](https://www.nexojornal.com.br/extra/2021/10/01/Venezuela-corta-6-zeros-do-bol%C3%ADvar-para-conter-hiperinfla%C3%A7%C3%A3o)
-- [Banco Central alerta para vazamento de dados do Pix](https://www.nexojornal.com.br/extra/2021/10/01/Banco-Central-alerta-para-vazamento-de-dados-do-Pix)
-- [O anúncio da eficácia de um comprimido contra a covid](https://www.nexojornal.com.br/expresso/2021/10/01/O-an%C3%BAncio-da-efic%C3%A1cia-de-um-comprimido-contra-a-covid)
-- [O balanço e os rumos de uma CPI que entra em seu sexto mês](https://www.nexojornal.com.br/expresso/2021/09/30/O-balan%C3%A7o-e-os-rumos-de-uma-CPI-que-entra-em-seu-sexto-m%C3%AAs)
-- [Leitores como construtores de sentido](https://www.nexojornal.com.br/colunistas/2021/Leitores-como-construtores-de-sentido)
+- [O que está em jogo nos atos de 2 de outubro contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/10/01/O-que-est%C3%A1-em-jogo-nos-atos-de-2-de-outubro-contra-Bolsonaro)
+- [Michelle Bolsonaro será investigada por suspeitas na Caixa](https://www.nexojornal.com.br/extra/2021/10/01/Michelle-Bolsonaro-ser%C3%A1-investigada-por-suspeitas-na-Caixa)
+- [Padre é acusado de assediar ao menos 8 monges em Minas Gerais](https://www.nexojornal.com.br/extra/2021/10/01/Padre-%C3%A9-acusado-de-assediar-ao-menos-8-monges-em-Minas-Gerais)
+- [Como a ficção científica tenta furar sua bolha na TV](https://www.nexojornal.com.br/expresso/2021/10/01/Como-a-fic%C3%A7%C3%A3o-cient%C3%ADfica-tenta-furar-sua-bolha-na-TV)
+- [O jogo que faz uma sátira racial de ‘Banco Imobiliário’](https://www.nexojornal.com.br/expresso/2021/10/01/O-jogo-que-faz-uma-s%C3%A1tira-racial-de-%E2%80%98Banco-Imobili%C3%A1rio%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
