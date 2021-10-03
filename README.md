@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre o violonista Sebastião Tapajós aos 79 anos](https://www.nexojornal.com.br/extra/2021/10/03/Morre-o-violonista-Sebasti%C3%A3o-Tapaj%C3%B3s-aos-79-anos)
 - [O saldo dos atos liderados pela esquerda contra Bolsonaro](https://www.nexojornal.com.br/expresso/2021/10/02/O-saldo-dos-atos-liderados-pela-esquerda-contra-Bolsonaro)
 - [O retorno de ‘Law & Order’. E o futuro das séries policiais](https://www.nexojornal.com.br/expresso/2021/10/02/O-retorno-de-%E2%80%98Law-Order%E2%80%99.-E-o-futuro-das-s%C3%A9ries-policiais)
 - [5 livros para pensar como melhorar a educação brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-pensar-como-melhorar-a-educa%C3%A7%C3%A3o-brasileira)
 - [Da constituinte às eleições: a ebulição política no Chile](https://www.nexojornal.com.br/expresso/2021/10/02/Da-constituinte-%C3%A0s-elei%C3%A7%C3%B5es-a-ebuli%C3%A7%C3%A3o-pol%C3%ADtica-no-Chile)
+- [Como a crise hídrica já impõe restrições na distribuição de água](https://www.nexojornal.com.br/expresso/2021/10/02/Como-a-crise-h%C3%ADdrica-j%C3%A1-imp%C3%B5e-restri%C3%A7%C3%B5es-na-distribui%C3%A7%C3%A3o-de-%C3%A1gua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
