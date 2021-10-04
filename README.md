@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Temperatura e tato: a pesquisa do Nobel de Medicina de 2021](https://www.nexojornal.com.br/expresso/2021/10/04/Temperatura-e-tato-a-pesquisa-do-Nobel-de-Medicina-de-2021)
-- [4 em cada 10 que foram à Paulista querem atos separados da direita](https://www.nexojornal.com.br/extra/2021/10/04/4-em-cada-10-que-foram-%C3%A0-Paulista-querem-atos-separados-da-direita)
-- [Pix passa a ter limite de R$ 1 mil para transferência noturna](https://www.nexojornal.com.br/extra/2021/10/04/Pix-passa-a-ter-limite-de-R-1-mil-para-transfer%C3%AAncia-noturna)
 - [As dificuldades do Clubhouse para se manter relevante](https://www.nexojornal.com.br/expresso/2021/10/03/As-dificuldades-do-Clubhouse-para-se-manter-relevante)
 - [A luta pela equidade das mulheres deve ser de todos](https://www.nexojornal.com.br/ensaio/2021/A-luta-pela-equidade-das-mulheres-deve-ser-de-todos)
+- [CPI da Covid: o que diz o parecer encomendado por governistas](https://www.nexojornal.com.br/expresso/2021/10/03/CPI-da-Covid-o-que-diz-o-parecer-encomendado-por-governistas)
+- [Europa, China e Brasil: as crises de energia pelo mundo](https://www.nexojornal.com.br/expresso/2021/10/03/Europa-China-e-Brasil-as-crises-de-energia-pelo-mundo)
+- [Com teste negativo para covid, Queiroga volta ao Brasil](https://www.nexojornal.com.br/extra/2021/10/03/Com-teste-negativo-para-covid-Queiroga-volta-ao-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
