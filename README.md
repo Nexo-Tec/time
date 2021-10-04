@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@digameoquecomes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/digameoquecomes/)
 - [Karla Amadori, do canal Diycore: ‘Mulheres se sentem encorajadas ao ver outra com uma furadeira na mão’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/karla-amadori-voce-mesmo-que-fez/)
 - [Dani Calabresa](https://gamarevista.uol.com.br/pessoas/questionario-proust/dani-calabresa/)
 - [Iguais Perante a Lei](https://gamarevista.uol.com.br/cultura/trecho-de-livro/iguais-perante-a-lei/)
 - [Seja bem-vindo ao Copan](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/seja-bem-vindo-ao-copan/)
-- [Exposição repassa os 50 anos de carreira de Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-repassa-os-50-anos-de-carreira-de-rita-lee/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
