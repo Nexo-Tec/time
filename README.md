@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A maconha e seus objetos](https://gamarevista.uol.com.br/sociedade/a-maconha-e-seus-objetos/)
 - [Coletor Menstrual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/coletor-menstrual/)
 - [Nenhum homem é uma ilha (no Caribe)](https://gamarevista.uol.com.br/colunistas/fernando-luna/nenhum-homem-e-uma-ilha-no-caribe/)
 - [@digameoquecomes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/digameoquecomes/)
 - [Karla Amadori, do canal Diycore: ‘Mulheres se sentem encorajadas ao ver outra com uma furadeira na mão’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/karla-amadori-voce-mesmo-que-fez/)
-- [Dani Calabresa](https://gamarevista.uol.com.br/pessoas/questionario-proust/dani-calabresa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
