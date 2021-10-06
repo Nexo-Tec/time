@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o TSE programa de novo para a segurança das urnas](https://www.nexojornal.com.br/expresso/2021/10/04/O-que-o-TSE-programa-de-novo-para-a-seguran%C3%A7a-das-urnas)
-- [Como a ANS agiu na pandemia diante das operadoras de saúde](https://www.nexojornal.com.br/expresso/2021/10/04/Como-a-ANS-agiu-na-pandemia-diante-das-operadoras-de-sa%C3%BAde)
-- [Pane e crise de reputação fazem Zuckerberg perder US$ 6 billhões](https://www.nexojornal.com.br/extra/2021/10/04/Pane-e-crise-de-reputa%C3%A7%C3%A3o-fazem-Zuckerberg-perder-US-6-billh%C3%B5es)
-- [Por que a Nova Zelândia desistiu da estratégia da ‘covid zero’](https://www.nexojornal.com.br/expresso/2021/10/04/Por-que-a-Nova-Zel%C3%A2ndia-desistiu-da-estrat%C3%A9gia-da-%E2%80%98covid-zero%E2%80%99)
-- [Ameaça à democracia? A fome, a morte e um desabafo ‘a palo seco’](https://www.nexojornal.com.br/colunistas/2021/Amea%C3%A7a-%C3%A0-democracia-A-fome-a-morte-e-um-desabafo-%E2%80%98a-palo-seco%E2%80%99)
+- [O funcionamento do Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/grafico/2021/10/05/O-funcionamento-do-Conselho-de-Seguran%C3%A7a-das-Na%C3%A7%C3%B5es-Unidas)
+- [Aquecimento do mar causou perda de 14% dos corais desde 2009](https://www.nexojornal.com.br/extra/2021/10/05/Aquecimento-do-mar-causou-perda-de-14-dos-corais-desde-2009)
+- [VTCLog manteve 8 contratos com governo sem licitação, diz CPI](https://www.nexojornal.com.br/extra/2021/10/05/VTCLog-manteve-8-contratos-com-governo-sem-licita%C3%A7%C3%A3o-diz-CPI)
+- [Justiça nega recurso e Prevent deposita R$ 1,9 milhão a paciente](https://www.nexojornal.com.br/extra/2021/10/05/Justi%C3%A7a-nega-recurso-e-Prevent-deposita-R-19-milh%C3%A3o-a-paciente)
+- [O que você precisa saber quando a CPI fala em indiciamento](https://www.nexojornal.com.br/podcast/2021/10/05/O-que-voc%C3%AA-precisa-saber-quando-a-CPI-fala-em-indiciamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
