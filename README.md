@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Congresso chama Guedes e Campos Neto para explicar offshores](https://www.nexojornal.com.br/extra/2021/10/05/Congresso-chama-Guedes-e-Campos-Neto-para-explicar-offshores)
-- [CPI ‘com certeza’ vai pedir indiciamento de Bolsonaro, diz Renan](https://www.nexojornal.com.br/extra/2021/10/05/CPI-%E2%80%98com-certeza%E2%80%99-vai-pedir-indiciamento-de-Bolsonaro-diz-Renan)
-- [Entenda a provável falha interna que derrubou o Facebook](https://www.nexojornal.com.br/expresso/2021/10/05/Entenda-a-prov%C3%A1vel-falha-interna-que-derrubou-o-Facebook)
-- [Produção da indústria teve terceiro mês consecutivo de queda](https://www.nexojornal.com.br/extra/2021/10/05/Produ%C3%A7%C3%A3o-da-ind%C3%BAstria-teve-terceiro-m%C3%AAs-consecutivo-de-queda)
-- [O clima e aleatoriedade nas pesquisas do Nobel da Física de 2021](https://www.nexojornal.com.br/expresso/2021/10/05/O-clima-e-aleatoriedade-nas-pesquisas-do-Nobel-da-F%C3%ADsica-de-2021)
+- [O que o TSE programa de novo para a segurança das urnas](https://www.nexojornal.com.br/expresso/2021/10/04/O-que-o-TSE-programa-de-novo-para-a-seguran%C3%A7a-das-urnas)
+- [Como a ANS agiu na pandemia diante das operadoras de saúde](https://www.nexojornal.com.br/expresso/2021/10/04/Como-a-ANS-agiu-na-pandemia-diante-das-operadoras-de-sa%C3%BAde)
+- [Pane e crise de reputação fazem Zuckerberg perder US$ 6 billhões](https://www.nexojornal.com.br/extra/2021/10/04/Pane-e-crise-de-reputa%C3%A7%C3%A3o-fazem-Zuckerberg-perder-US-6-billh%C3%B5es)
+- [Por que a Nova Zelândia desistiu da estratégia da ‘covid zero’](https://www.nexojornal.com.br/expresso/2021/10/04/Por-que-a-Nova-Zel%C3%A2ndia-desistiu-da-estrat%C3%A9gia-da-%E2%80%98covid-zero%E2%80%99)
+- [Ameaça à democracia? A fome, a morte e um desabafo ‘a palo seco’](https://www.nexojornal.com.br/colunistas/2021/Amea%C3%A7a-%C3%A0-democracia-A-fome-a-morte-e-um-desabafo-%E2%80%98a-palo-seco%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
