@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Congresso chama Guedes e Campos Neto para explicar offshores](https://www.nexojornal.com.br/extra/2021/10/05/Congresso-chama-Guedes-e-Campos-Neto-para-explicar-offshores)
-- [CPI ‘com certeza’ vai pedir indiciamento de Bolsonaro, diz Renan](https://www.nexojornal.com.br/extra/2021/10/05/CPI-%E2%80%98com-certeza%E2%80%99-vai-pedir-indiciamento-de-Bolsonaro-diz-Renan)
-- [Entenda a provável falha interna que derrubou o Facebook](https://www.nexojornal.com.br/expresso/2021/10/05/Entenda-a-prov%C3%A1vel-falha-interna-que-derrubou-o-Facebook)
-- [Produção da indústria teve terceiro mês consecutivo de queda](https://www.nexojornal.com.br/extra/2021/10/05/Produ%C3%A7%C3%A3o-da-ind%C3%BAstria-teve-terceiro-m%C3%AAs-consecutivo-de-queda)
-- [O clima e aleatoriedade nas pesquisas do Nobel da Física de 2021](https://www.nexojornal.com.br/expresso/2021/10/05/O-clima-e-aleatoriedade-nas-pesquisas-do-Nobel-da-F%C3%ADsica-de-2021)
+- [‘Fusão pode ser referência de uma direita sem Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/10/06/%E2%80%98Fus%C3%A3o-pode-ser-refer%C3%AAncia-de-uma-direita-sem-Bolsonaro%E2%80%99)
+- [A reação política às offshores de Guedes e Campos Neto](https://www.nexojornal.com.br/expresso/2021/10/06/A-rea%C3%A7%C3%A3o-pol%C3%ADtica-%C3%A0s-offshores-de-Guedes-e-Campos-Neto)
+- [O funcionamento do Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/grafico/2021/10/05/O-funcionamento-do-Conselho-de-Seguran%C3%A7a-das-Na%C3%A7%C3%B5es-Unidas)
+- [Aquecimento do mar causou perda de 14% dos corais desde 2009](https://www.nexojornal.com.br/extra/2021/10/05/Aquecimento-do-mar-causou-perda-de-14-dos-corais-desde-2009)
+- [VTCLog manteve 8 contratos com governo sem licitação, diz CPI](https://www.nexojornal.com.br/extra/2021/10/05/VTCLog-manteve-8-contratos-com-governo-sem-licita%C3%A7%C3%A3o-diz-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
