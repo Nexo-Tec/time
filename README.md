@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Fusão pode ser referência de uma direita sem Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/10/06/%E2%80%98Fus%C3%A3o-pode-ser-refer%C3%AAncia-de-uma-direita-sem-Bolsonaro%E2%80%99)
-- [A reação política às offshores de Guedes e Campos Neto](https://www.nexojornal.com.br/expresso/2021/10/06/A-rea%C3%A7%C3%A3o-pol%C3%ADtica-%C3%A0s-offshores-de-Guedes-e-Campos-Neto)
 - [O funcionamento do Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/grafico/2021/10/05/O-funcionamento-do-Conselho-de-Seguran%C3%A7a-das-Na%C3%A7%C3%B5es-Unidas)
 - [Aquecimento do mar causou perda de 14% dos corais desde 2009](https://www.nexojornal.com.br/extra/2021/10/05/Aquecimento-do-mar-causou-perda-de-14-dos-corais-desde-2009)
 - [VTCLog manteve 8 contratos com governo sem licitação, diz CPI](https://www.nexojornal.com.br/extra/2021/10/05/VTCLog-manteve-8-contratos-com-governo-sem-licita%C3%A7%C3%A3o-diz-CPI)
+- [Justiça nega recurso e Prevent deposita R$ 1,9 milhão a paciente](https://www.nexojornal.com.br/extra/2021/10/05/Justi%C3%A7a-nega-recurso-e-Prevent-deposita-R-19-milh%C3%A3o-a-paciente)
+- [O que você precisa saber quando a CPI fala em indiciamento](https://www.nexojornal.com.br/podcast/2021/10/05/O-que-voc%C3%AA-precisa-saber-quando-a-CPI-fala-em-indiciamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
