@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Fusão pode ser referência de uma direita sem Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/10/06/%E2%80%98Fus%C3%A3o-pode-ser-refer%C3%AAncia-de-uma-direita-sem-Bolsonaro%E2%80%99)
-- [A reação política às offshores de Guedes e Campos Neto](https://www.nexojornal.com.br/expresso/2021/10/06/A-rea%C3%A7%C3%A3o-pol%C3%ADtica-%C3%A0s-offshores-de-Guedes-e-Campos-Neto)
-- [O funcionamento do Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/grafico/2021/10/05/O-funcionamento-do-Conselho-de-Seguran%C3%A7a-das-Na%C3%A7%C3%B5es-Unidas)
-- [Aquecimento do mar causou perda de 14% dos corais desde 2009](https://www.nexojornal.com.br/extra/2021/10/05/Aquecimento-do-mar-causou-perda-de-14-dos-corais-desde-2009)
-- [VTCLog manteve 8 contratos com governo sem licitação, diz CPI](https://www.nexojornal.com.br/extra/2021/10/05/VTCLog-manteve-8-contratos-com-governo-sem-licita%C3%A7%C3%A3o-diz-CPI)
+- [Bolsonaro veta distribuição gratuita de absorventes femininos](https://www.nexojornal.com.br/extra/2021/10/07/Bolsonaro-veta-distribui%C3%A7%C3%A3o-gratuita-de-absorventes-femininos)
+- [Covid: a busca de parâmetros para a volta da normalidade](https://www.nexojornal.com.br/expresso/2021/10/06/Covid-a-busca-de-par%C3%A2metros-para-a-volta-da-normalidade)
+- [A dispensa de analistas da Rouanet em meio ao desmonte da Cultura](https://www.nexojornal.com.br/expresso/2021/10/06/A-dispensa-de-analistas-da-Rouanet-em-meio-ao-desmonte-da-Cultura)
+- [OMS aprova pela primeira vez uma vacina contra malária](https://www.nexojornal.com.br/extra/2021/10/06/OMS-aprova-pela-primeira-vez-uma-vacina-contra-mal%C3%A1ria)
+- [Qual é a função do Conselho Federal de Medicina?](https://www.nexojornal.com.br/colunistas/2021/Qual-%C3%A9-a-fun%C3%A7%C3%A3o-do-Conselho-Federal-de-Medicina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
