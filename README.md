@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Crie intervalos durante a rotina de trabalho](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/crie-intervalos-durante-a-rotina-de-trabalho/)
-- [O que beber (e saber) para conhecer vinhos – parte 1](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-beber-e-saber-para-entender-vinhos-parte-1/)
-- [A maconha e seus objetos](https://gamarevista.uol.com.br/sociedade/a-maconha-e-seus-objetos/)
-- [Coletor Menstrual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/coletor-menstrual/)
-- [Nenhum homem é uma ilha (no Caribe)](https://gamarevista.uol.com.br/colunistas/fernando-luna/nenhum-homem-e-uma-ilha-no-caribe/)
+- [Mostra celebra Rosângela Rennó em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/mostra-celebra-rosangela-renno-em-sp/)
+- [‘Uma onda para Tom Zé’ homenageia artista com versões](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-onda-para-tom-ze-homenageia-artista-com-versoes/)
+- [Festival Internacional de Cinema de Curitiba](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-internacional-de-cinema-de-curitiba/)
+- [Um curso sobre vida, música e poesia de Leonard Cohen](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-vida-musica-e-poesia-de-leonard-cohen/)
+- [O legado de artistas afro-brasileiras](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-legado-de-artistas-afro-brasileiras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
