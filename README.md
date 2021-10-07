@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Fusão pode ser referência de uma direita sem Bolsonaro’](https://www.nexojornal.com.br/entrevista/2021/10/06/%E2%80%98Fus%C3%A3o-pode-ser-refer%C3%AAncia-de-uma-direita-sem-Bolsonaro%E2%80%99)
-- [A reação política às offshores de Guedes e Campos Neto](https://www.nexojornal.com.br/expresso/2021/10/06/A-rea%C3%A7%C3%A3o-pol%C3%ADtica-%C3%A0s-offshores-de-Guedes-e-Campos-Neto)
-- [O funcionamento do Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/grafico/2021/10/05/O-funcionamento-do-Conselho-de-Seguran%C3%A7a-das-Na%C3%A7%C3%B5es-Unidas)
-- [Aquecimento do mar causou perda de 14% dos corais desde 2009](https://www.nexojornal.com.br/extra/2021/10/05/Aquecimento-do-mar-causou-perda-de-14-dos-corais-desde-2009)
-- [VTCLog manteve 8 contratos com governo sem licitação, diz CPI](https://www.nexojornal.com.br/extra/2021/10/05/VTCLog-manteve-8-contratos-com-governo-sem-licita%C3%A7%C3%A3o-diz-CPI)
+- [OMS aprova pela primeira vez uma vacina contra malária](https://www.nexojornal.com.br/extra/2021/10/06/OMS-aprova-pela-primeira-vez-uma-vacina-contra-mal%C3%A1ria)
+- [Qual é a função do Conselho Federal de Medicina?](https://www.nexojornal.com.br/colunistas/2021/Qual-%C3%A9-a-fun%C3%A7%C3%A3o-do-Conselho-Federal-de-Medicina)
+- [Netflix editará telefone que aparece em ‘Round 6’](https://www.nexojornal.com.br/extra/2021/10/06/Netflix-editar%C3%A1-telefone-que-aparece-em-%E2%80%98Round-6%E2%80%99)
+- [Brasil sem máscara? O debate sobre a flexibilização](https://www.nexojornal.com.br/podcast/2021/10/06/Brasil-sem-m%C3%A1scara-O-debate-sobre-a-flexibiliza%C3%A7%C3%A3o)
+- [Tamanho real da União Brasil só será conhecido em março](https://www.nexojornal.com.br/extra/2021/10/06/Tamanho-real-da-Uni%C3%A3o-Brasil-s%C3%B3-ser%C3%A1-conhecido-em-mar%C3%A7o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
