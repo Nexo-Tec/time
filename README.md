@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Crie intervalos durante a rotina de trabalho](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/crie-intervalos-durante-a-rotina-de-trabalho/)
 - [O que beber (e saber) para conhecer vinhos – parte 1](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-beber-e-saber-para-entender-vinhos-parte-1/)
 - [A maconha e seus objetos](https://gamarevista.uol.com.br/sociedade/a-maconha-e-seus-objetos/)
 - [Coletor Menstrual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/coletor-menstrual/)
 - [Nenhum homem é uma ilha (no Caribe)](https://gamarevista.uol.com.br/colunistas/fernando-luna/nenhum-homem-e-uma-ilha-no-caribe/)
-- [@digameoquecomes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/digameoquecomes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
