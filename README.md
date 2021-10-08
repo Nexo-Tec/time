@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Adriana Negreiros: ‘É uma marca que não tem como apagar’](https://gamarevista.uol.com.br/formato/conversas/adriana-negreiros-e-uma-marca-que-nao-tem-como-apagar/)
 - [Umbandas: Uma História do Brasil](https://gamarevista.uol.com.br/cultura/trecho-de-livro/umbandas-uma-historia-do-brasil/)
 - [As crianças e os adolescentes no Brasil e o direito ao futuro](https://gamarevista.uol.com.br/sociedade/as-criancas-e-os-adolescentes-no-brasil-e-o-direito-ao-futuro/)
 - [Mostra celebra Rosângela Rennó em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/mostra-celebra-rosangela-renno-em-sp/)
 - [‘Uma onda para Tom Zé’ homenageia artista com versões](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-onda-para-tom-ze-homenageia-artista-com-versoes/)
-- [Festival Internacional de Cinema de Curitiba](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-internacional-de-cinema-de-curitiba/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
