@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [10 pontos sobre a integração entre produção agrícola e conservação](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/10-pontos-sobre-a-integra%C3%A7%C3%A3o-entre-produ%C3%A7%C3%A3o-agr%C3%ADcola-e-conserva%C3%A7%C3%A3o)
+- [Uma política que não decolou: as ações afirmativas para quilombolas nas universidades públicas brasileiras em 2019](https://pp.nexojornal.com.br/opiniao/2021/Uma-pol%C3%ADtica-que-n%C3%A3o-decolou-as-a%C3%A7%C3%B5es-afirmativas-para-quilombolas-nas-universidades-p%C3%BAblicas-brasileiras-em-2019)
+- [Pobreza e desigualdade no campo devem aumentar com medidas previstas na MP 1061](https://pp.nexojornal.com.br/opiniao/2021/Pobreza-e-desigualdade-no-campo-devem-aumentar-com-medidas-previstas-na-MP-1061)
+- [Por que a política tributária se manteve regressiva desde 1988?](https://pp.nexojornal.com.br/opiniao/2021/Por-que-a-pol%C3%ADtica-tribut%C3%A1ria-se-manteve-regressiva-desde-1988)
 - [O crescimento dos indicadores de depressão no Brasil entre 2013 e 2019](https://pp.nexojornal.com.br/Dados/2021/10/01/O-crescimento-dos-indicadores-de-depress%C3%A3o-no-Brasil-entre-2013-e-2019)
-- [Inara Mendonça: marés douradas e ambientes costeiros](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/01/Inara-Mendon%C3%A7a-mar%C3%A9s-douradas-e-ambientes-costeiros)
-- [600 mil mortes e a CPI da Covid: o recuo impossível para Bolsonaro](https://pp.nexojornal.com.br/ponto-de-vista/2021/600-mil-mortes-e-a-CPI-da-Covid-o-recuo-imposs%C3%ADvel-para-Bolsonaro)
-- [Quais os caminhos para desenvolver a Amazônia, mantendo a floresta em pé](https://pp.nexojornal.com.br/opiniao/2021/Quais-os-caminhos-para-desenvolver-a-Amaz%C3%B4nia-mantendo-a-floresta-em-p%C3%A9)
-- [Violência e ordem ao longo dos paradigmas constitucionais brasileiros](https://pp.nexojornal.com.br/linha-do-tempo/2021/Viol%C3%AAncia-e-ordem-ao-longo-dos-paradigmas-constitucionais-brasileiros1)
 <!-- PP_LIST:END -->
 
