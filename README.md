@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro veta distribuição gratuita de absorventes femininos](https://www.nexojornal.com.br/extra/2021/10/07/Bolsonaro-veta-distribui%C3%A7%C3%A3o-gratuita-de-absorventes-femininos)
-- [Covid: a busca de parâmetros para a volta da normalidade](https://www.nexojornal.com.br/expresso/2021/10/06/Covid-a-busca-de-par%C3%A2metros-para-a-volta-da-normalidade)
-- [A dispensa de analistas da Rouanet em meio ao desmonte da Cultura](https://www.nexojornal.com.br/expresso/2021/10/06/A-dispensa-de-analistas-da-Rouanet-em-meio-ao-desmonte-da-Cultura)
-- [OMS aprova pela primeira vez uma vacina contra malária](https://www.nexojornal.com.br/extra/2021/10/06/OMS-aprova-pela-primeira-vez-uma-vacina-contra-mal%C3%A1ria)
-- [Qual é a função do Conselho Federal de Medicina?](https://www.nexojornal.com.br/colunistas/2021/Qual-%C3%A9-a-fun%C3%A7%C3%A3o-do-Conselho-Federal-de-Medicina)
+- [Justiça virtual criminal: um tanque de areia movediça](https://www.nexojornal.com.br/ensaio/2021/Justi%C3%A7a-virtual-criminal-um-tanque-de-areia-movedi%C3%A7a)
+- [O apoio popular na Palestina a uma disputa armada com Israel](https://www.nexojornal.com.br/expresso/2021/10/07/O-apoio-popular-na-Palestina-a-uma-disputa-armada-com-Israel)
+- [Médico e paciente relatam à CPI fraudes da Prevent Senior](https://www.nexojornal.com.br/extra/2021/10/07/M%C3%A9dico-e-paciente-relatam-%C3%A0-CPI-fraudes-da-Prevent-Senior)
+- [Por que o caso Mariana Ferrer mobiliza a opinião pública](https://www.nexojornal.com.br/expresso/2021/10/07/Por-que-o-caso-Mariana-Ferrer-mobiliza-a-opini%C3%A3o-p%C3%BAblica)
+- [Moraes dá 30 dias para PF tomar depoimento de Bolsonaro](https://www.nexojornal.com.br/extra/2021/10/07/Moraes-d%C3%A1-30-dias-para-PF-tomar-depoimento-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
