@@ -135,9 +135,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- PP_LIST:START -->
 - [10 pontos sobre a integração entre produção agrícola e conservação](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/10-pontos-sobre-a-integra%C3%A7%C3%A3o-entre-produ%C3%A7%C3%A3o-agr%C3%ADcola-e-conserva%C3%A7%C3%A3o)
+- [Anna C. F. Aguiar: parcerias entre universidades e empresas para promoção da biodiversidade](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/07/Anna-C.-F.-Aguiar-parcerias-entre-universidades-e-empresas-para-promo%C3%A7%C3%A3o-da-biodiversidade)
 - [Uma política que não decolou: as ações afirmativas para quilombolas nas universidades públicas brasileiras em 2019](https://pp.nexojornal.com.br/opiniao/2021/Uma-pol%C3%ADtica-que-n%C3%A3o-decolou-as-a%C3%A7%C3%B5es-afirmativas-para-quilombolas-nas-universidades-p%C3%BAblicas-brasileiras-em-2019)
 - [Pobreza e desigualdade no campo devem aumentar com medidas previstas na MP 1061](https://pp.nexojornal.com.br/opiniao/2021/Pobreza-e-desigualdade-no-campo-devem-aumentar-com-medidas-previstas-na-MP-1061)
 - [Por que a política tributária se manteve regressiva desde 1988?](https://pp.nexojornal.com.br/opiniao/2021/Por-que-a-pol%C3%ADtica-tribut%C3%A1ria-se-manteve-regressiva-desde-1988)
-- [O crescimento dos indicadores de depressão no Brasil entre 2013 e 2019](https://pp.nexojornal.com.br/Dados/2021/10/01/O-crescimento-dos-indicadores-de-depress%C3%A3o-no-Brasil-entre-2013-e-2019)
 <!-- PP_LIST:END -->
 
