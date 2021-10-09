@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o PT lida com equidade racial nas suas estruturas](https://www.nexojornal.com.br/expresso/2021/10/08/Como-o-PT-lida-com-equidade-racial-nas-suas-estruturas)
-- [Mercosul: Brasil e Argentina propõem corte de 10% na tarifa comum](https://www.nexojornal.com.br/extra/2021/10/08/Mercosul-Brasil-e-Argentina-prop%C3%B5em-corte-de-10-na-tarifa-comum)
-- [O calendário personalizável que projeta 90 anos de vida](https://www.nexojornal.com.br/expresso/2021/10/08/O-calend%C3%A1rio-personaliz%C3%A1vel-que-projeta-90-anos-de-vida)
-- [Sobre a distribuição de absorventes no Brasil e em BH](https://www.nexojornal.com.br/colunistas/tribuna/2021/Sobre-a-distribui%C3%A7%C3%A3o-de-absorventes-no-Brasil-e-em-BH)
-- [Quando animais aquáticos encontram o novo coronavírus](https://www.nexojornal.com.br/externo/2021/10/08/Quando-animais-aqu%C3%A1ticos-encontram-o-novo-coronav%C3%ADrus)
+- [Fernanda Montenegro será  imortal da Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2021/10/08/Fernanda-Montenegro-ser%C3%A1-imortal-da-Academia-Brasileira-de-Letras)
+- [Inflação de setembro é a mais alta para o mês em 27 anos](https://www.nexojornal.com.br/grafico/2021/10/08/Infla%C3%A7%C3%A3o-de-setembro-%C3%A9-a-mais-alta-para-o-m%C3%AAs-em-27-anos)
+- [Quem são os jornalistas que ganharam o Nobel da Paz de 2021](https://www.nexojornal.com.br/expresso/2021/10/08/Quem-s%C3%A3o-os-jornalistas-que-ganharam-o-Nobel-da-Paz-de-2021)
+- [Como o obscurantismo resiste a 600 mil mortos no Brasil](https://www.nexojornal.com.br/expresso/2021/10/07/Como-o-obscurantismo-resiste-a-600-mil-mortos-no-Brasil)
+- [Justiça virtual criminal: um tanque de areia movediça](https://www.nexojornal.com.br/ensaio/2021/Justi%C3%A7a-virtual-criminal-um-tanque-de-areia-movedi%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
