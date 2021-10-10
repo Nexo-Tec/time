@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cinco pessoas são assassinadas na fronteira entre Brasil e Paraguai](https://www.nexojornal.com.br/extra/2021/10/09/Cinco-pessoas-s%C3%A3o-assassinadas-na-fronteira-entre-Brasil-e-Paraguai)
-- [Como terminaram as pandemias ao longo da história](https://www.nexojornal.com.br/expresso/2021/10/09/Como-terminaram-as-pandemias-ao-longo-da-hist%C3%B3ria)
-- [Como o TikTok pode estar radicalizando seus usuários](https://www.nexojornal.com.br/expresso/2021/10/09/Como-o-TikTok-pode-estar-radicalizando-seus-usu%C3%A1rios)
-- [5 livros para entender a ascensão da extrema direita](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-entender-a-ascens%C3%A3o-da-extrema-direita)
-- [O teatro ao ar livre que os gêmeos de ‘Sintonia’ levam às Cohabs](https://www.nexojornal.com.br/expresso/2021/10/09/O-teatro-ao-ar-livre-que-os-g%C3%AAmeos-de-%E2%80%98Sintonia%E2%80%99-levam-%C3%A0s-Cohabs)
+- [Como o PT lida com equidade racial nas suas estruturas](https://www.nexojornal.com.br/expresso/2021/10/08/Como-o-PT-lida-com-equidade-racial-nas-suas-estruturas)
+- [Mercosul: Brasil e Argentina propõem corte de 10% na tarifa comum](https://www.nexojornal.com.br/extra/2021/10/08/Mercosul-Brasil-e-Argentina-prop%C3%B5em-corte-de-10-na-tarifa-comum)
+- [O calendário personalizável que projeta 90 anos de vida](https://www.nexojornal.com.br/expresso/2021/10/08/O-calend%C3%A1rio-personaliz%C3%A1vel-que-projeta-90-anos-de-vida)
+- [Sobre a distribuição de absorventes no Brasil e em BH](https://www.nexojornal.com.br/colunistas/tribuna/2021/Sobre-a-distribui%C3%A7%C3%A3o-de-absorventes-no-Brasil-e-em-BH)
+- [Quando animais aquáticos encontram o novo coronavírus](https://www.nexojornal.com.br/externo/2021/10/08/Quando-animais-aqu%C3%A1ticos-encontram-o-novo-coronav%C3%ADrus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
