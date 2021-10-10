@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ações restritivas deram ao Nordeste menor taxa de óbitos por covid](https://www.nexojornal.com.br/extra/2021/10/10/A%C3%A7%C3%B5es-restritivas-deram-ao-Nordeste-menor-taxa-de-%C3%B3bitos-por-covid)
+- [Prefeitura de Peruíbe multa Bolsonaro por não usar máscara](https://www.nexojornal.com.br/extra/2021/10/10/Prefeitura-de-Peru%C3%ADbe-multa-Bolsonaro-por-n%C3%A3o-usar-m%C3%A1scara)
 - [Cinco pessoas são assassinadas na fronteira entre Brasil e Paraguai](https://www.nexojornal.com.br/extra/2021/10/09/Cinco-pessoas-s%C3%A3o-assassinadas-na-fronteira-entre-Brasil-e-Paraguai)
 - [Como terminaram as pandemias ao longo da história](https://www.nexojornal.com.br/expresso/2021/10/09/Como-terminaram-as-pandemias-ao-longo-da-hist%C3%B3ria)
 - [Como o TikTok pode estar radicalizando seus usuários](https://www.nexojornal.com.br/expresso/2021/10/09/Como-o-TikTok-pode-estar-radicalizando-seus-usu%C3%A1rios)
-- [5 livros para entender a ascensão da extrema direita](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-entender-a-ascens%C3%A3o-da-extrema-direita)
-- [O teatro ao ar livre que os gêmeos de ‘Sintonia’ levam às Cohabs](https://www.nexojornal.com.br/expresso/2021/10/09/O-teatro-ao-ar-livre-que-os-g%C3%AAmeos-de-%E2%80%98Sintonia%E2%80%99-levam-%C3%A0s-Cohabs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
