@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ações restritivas deram ao Nordeste menor taxa de óbitos por covid](https://www.nexojornal.com.br/extra/2021/10/10/A%C3%A7%C3%B5es-restritivas-deram-ao-Nordeste-menor-taxa-de-%C3%B3bitos-por-covid)
-- [Prefeitura de Peruíbe multa Bolsonaro por não usar máscara](https://www.nexojornal.com.br/extra/2021/10/10/Prefeitura-de-Peru%C3%ADbe-multa-Bolsonaro-por-n%C3%A3o-usar-m%C3%A1scara)
-- [Cinco pessoas são assassinadas na fronteira entre Brasil e Paraguai](https://www.nexojornal.com.br/extra/2021/10/09/Cinco-pessoas-s%C3%A3o-assassinadas-na-fronteira-entre-Brasil-e-Paraguai)
-- [Como terminaram as pandemias ao longo da história](https://www.nexojornal.com.br/expresso/2021/10/09/Como-terminaram-as-pandemias-ao-longo-da-hist%C3%B3ria)
-- [Como o TikTok pode estar radicalizando seus usuários](https://www.nexojornal.com.br/expresso/2021/10/09/Como-o-TikTok-pode-estar-radicalizando-seus-usu%C3%A1rios)
+- [Convocado pela Câmara, Guedes viaja aos EUA para reuniões do FMI](https://www.nexojornal.com.br/extra/2021/10/11/Convocado-pela-C%C3%A2mara-Guedes-viaja-aos-EUA-para-reuni%C3%B5es-do-FMI)
+- [Quem são os economistas que ganharam o Nobel em 2021](https://www.nexojornal.com.br/expresso/2021/10/11/Quem-s%C3%A3o-os-economistas-que-ganharam-o-Nobel-em-2021)
+- [Quais os indícios de que Guedes está isolado no governo](https://www.nexojornal.com.br/expresso/2021/10/10/Quais-os-ind%C3%ADcios-de-que-Guedes-est%C3%A1-isolado-no-governo)
+- [‘Há risco de o que vimos na Lava Jato se repetir com a Prevent’](https://www.nexojornal.com.br/entrevista/2021/10/10/%E2%80%98H%C3%A1-risco-de-o-que-vimos-na-Lava-Jato-se-repetir-com-a-Prevent%E2%80%99)
+- [Bolsonaro desiste de ver jogo por não estar vacinado](https://www.nexojornal.com.br/extra/2021/10/10/Bolsonaro-desiste-de-ver-jogo-por-n%C3%A3o-estar-vacinado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
