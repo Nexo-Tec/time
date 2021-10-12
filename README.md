@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Coquetel injetável da AstraZeneca é eficaz contra covid, aponta teste](https://www.nexojornal.com.br/extra/2021/10/11/Coquetel-injet%C3%A1vel-da-AstraZeneca-%C3%A9-eficaz-contra-covid-aponta-teste)
-- [Convocado pela Câmara, Guedes viaja aos EUA para reuniões do FMI](https://www.nexojornal.com.br/extra/2021/10/11/Convocado-pela-C%C3%A2mara-Guedes-viaja-aos-EUA-para-reuni%C3%B5es-do-FMI)
-- [Quem são os economistas que ganharam o Nobel em 2021](https://www.nexojornal.com.br/expresso/2021/10/11/Quem-s%C3%A3o-os-economistas-que-ganharam-o-Nobel-em-2021)
-- [Quais os indícios de que Guedes está isolado no governo](https://www.nexojornal.com.br/expresso/2021/10/10/Quais-os-ind%C3%ADcios-de-que-Guedes-est%C3%A1-isolado-no-governo)
-- [‘Há risco de o que vimos na Lava Jato se repetir com a Prevent’](https://www.nexojornal.com.br/entrevista/2021/10/10/%E2%80%98H%C3%A1-risco-de-o-que-vimos-na-Lava-Jato-se-repetir-com-a-Prevent%E2%80%99)
+- [Arcebispo de Aparecida critica armamentismo em sermão](https://www.nexojornal.com.br/extra/2021/10/12/Arcebispo-de-Aparecida-critica-armamentismo-em-serm%C3%A3o)
+- [Bolsonaro é alvo de 7ª queixa no Tribunal Penal Internacional](https://www.nexojornal.com.br/extra/2021/10/12/Bolsonaro-%C3%A9-alvo-de-7%C2%AA-queixa-no-Tribunal-Penal-Internacional)
+- [Lewandowski nega pedido para obrigar sabatina de Mendonça](https://www.nexojornal.com.br/extra/2021/10/11/Lewandowski-nega-pedido-para-obrigar-sabatina-de-Mendon%C3%A7a)
+- [Proxalutamida: as violações em pesquisas na pandemia](https://www.nexojornal.com.br/expresso/2021/10/11/Proxalutamida-as-viola%C3%A7%C3%B5es-em-pesquisas-na-pandemia)
+- [O vídeo que mostra como é o interior de um furacão](https://www.nexojornal.com.br/expresso/2021/10/11/O-v%C3%ADdeo-que-mostra-como-%C3%A9-o-interior-de-um-furac%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
