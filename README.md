@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pop It!](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pop-it/)
+- [A novíssima geração de ativistas que quer mudar o mundo](https://gamarevista.uol.com.br/pessoas/uma-turma/novos-protagonistas-por-um-mundo-melhor/)
 - [Tenho direito a menstruar](https://gamarevista.uol.com.br/colunistas/winnie-bueno/tenho-direito-a-menstruar/)
 - [@tamaraklink](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tamaraklink/)
 - [Déborah Bloch: ‘Nunca foi tão importante falar de educação pública’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/deborah-bloch-quem-te-ensinou/)
-- [Dexter](https://gamarevista.uol.com.br/pessoas/questionario-proust/dexter/)
-- [Adriana Negreiros: ‘É uma marca que não tem como apagar’](https://gamarevista.uol.com.br/formato/conversas/adriana-negreiros-e-uma-marca-que-nao-tem-como-apagar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
