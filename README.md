@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O infinito não pode ser tão tatuado, gente](https://gamarevista.uol.com.br/colunistas/letrux/o-infinito-nao-pode-ser-tao-tatuado-gente/)
 - [Pop It!](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pop-it/)
 - [A novíssima geração de ativistas que quer mudar o mundo](https://gamarevista.uol.com.br/pessoas/uma-turma/novos-protagonistas-por-um-mundo-melhor/)
 - [Tenho direito a menstruar](https://gamarevista.uol.com.br/colunistas/winnie-bueno/tenho-direito-a-menstruar/)
 - [@tamaraklink](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tamaraklink/)
-- [Déborah Bloch: ‘Nunca foi tão importante falar de educação pública’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/deborah-bloch-quem-te-ensinou/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
