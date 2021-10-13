@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arcebispo de Aparecida critica armamentismo em sermão](https://www.nexojornal.com.br/extra/2021/10/12/Arcebispo-de-Aparecida-critica-armamentismo-em-serm%C3%A3o)
-- [Bolsonaro é alvo de 7ª queixa no Tribunal Penal Internacional](https://www.nexojornal.com.br/extra/2021/10/12/Bolsonaro-%C3%A9-alvo-de-7%C2%AA-queixa-no-Tribunal-Penal-Internacional)
-- [Lewandowski nega pedido para obrigar sabatina de Mendonça](https://www.nexojornal.com.br/extra/2021/10/11/Lewandowski-nega-pedido-para-obrigar-sabatina-de-Mendon%C3%A7a)
-- [Proxalutamida: as violações em pesquisas na pandemia](https://www.nexojornal.com.br/expresso/2021/10/11/Proxalutamida-as-viola%C3%A7%C3%B5es-em-pesquisas-na-pandemia)
-- [O vídeo que mostra como é o interior de um furacão](https://www.nexojornal.com.br/expresso/2021/10/11/O-v%C3%ADdeo-que-mostra-como-%C3%A9-o-interior-de-um-furac%C3%A3o)
+- [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
+- [Ator William Shatner vai ao espaço aos 90 anos: ‘É indescritível’](https://www.nexojornal.com.br/extra/2021/10/13/Ator-William-Shatner-vai-ao-espa%C3%A7o-aos-90-anos-%E2%80%98%C3%89-indescrit%C3%ADvel%E2%80%99)
+- [Chacina deixa 6 mortos e 12 feridos em festa de rua em Salvador](https://www.nexojornal.com.br/extra/2021/10/13/Chacina-deixa-6-mortos-e-12-feridos-em-festa-de-rua-em-Salvador)
+- [A militarização do conflito com indígenas mapuche no Chile](https://www.nexojornal.com.br/expresso/2021/10/13/A-militariza%C3%A7%C3%A3o-do-conflito-com-ind%C3%ADgenas-mapuche-no-Chile)
+- [Operador do sistema elétrico descarta racionamento em 2021](https://www.nexojornal.com.br/extra/2021/10/13/Operador-do-sistema-el%C3%A9trico-descarta-racionamento-em-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
