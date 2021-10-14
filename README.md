@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os impactos da PEC que mexe no Conselho do Ministério Público](https://www.nexojornal.com.br/podcast/2021/10/13/Os-impactos-da-PEC-que-mexe-no-Conselho-do-Minist%C3%A9rio-P%C3%BAblico)
-- [Pobreza em 2021 será bem maior do que a prevista antes, diz FMI](https://www.nexojornal.com.br/extra/2021/10/13/Pobreza-em-2021-ser%C3%A1-bem-maior-do-que-a-prevista-antes-diz-FMI)
-- [Corredora queniana recordista mundial é morta a facadas](https://www.nexojornal.com.br/extra/2021/10/13/Corredora-queniana-recordista-mundial-%C3%A9-morta-a-facadas)
-- [Com salários atrasados, jogadores do Cruzeiro anunciam greve](https://www.nexojornal.com.br/extra/2021/10/13/Com-sal%C3%A1rios-atrasados-jogadores-do-Cruzeiro-anunciam-greve)
-- [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
+- [Quais as brechas nas métricas de um sucesso no streaming](https://www.nexojornal.com.br/expresso/2021/10/13/Quais-as-brechas-nas-m%C3%A9tricas-de-um-sucesso-no-streaming)
+- [Alcolumbre diz sofrer ‘agressões’ por não pautar indicação ao STF](https://www.nexojornal.com.br/extra/2021/10/13/Alcolumbre-diz-sofrer-%E2%80%98agress%C3%B5es%E2%80%99-por-n%C3%A3o-pautar-indica%C3%A7%C3%A3o-ao-STF)
+- [O plano da Apple para ter fones de ouvido que monitoram a saúde](https://www.nexojornal.com.br/expresso/2021/10/13/O-plano-da-Apple-para-ter-fones-de-ouvido-que-monitoram-a-sa%C3%BAde)
+- [Ataque com arco e flecha deixa cinco mortos na Noruega](https://www.nexojornal.com.br/extra/2021/10/13/Ataque-com-arco-e-flecha-deixa-cinco-mortos-na-Noruega)
+- [As embaixadas e consulados estrangeiros no Brasil](https://www.nexojornal.com.br/grafico/2021/10/13/As-embaixadas-e-consulados-estrangeiros-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
