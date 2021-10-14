@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
-- [Ator William Shatner vai ao espaço aos 90 anos: ‘É indescritível’](https://www.nexojornal.com.br/extra/2021/10/13/Ator-William-Shatner-vai-ao-espa%C3%A7o-aos-90-anos-%E2%80%98%C3%89-indescrit%C3%ADvel%E2%80%99)
-- [Chacina deixa 6 mortos e 12 feridos em festa de rua em Salvador](https://www.nexojornal.com.br/extra/2021/10/13/Chacina-deixa-6-mortos-e-12-feridos-em-festa-de-rua-em-Salvador)
-- [A militarização do conflito com indígenas mapuche no Chile](https://www.nexojornal.com.br/expresso/2021/10/13/A-militariza%C3%A7%C3%A3o-do-conflito-com-ind%C3%ADgenas-mapuche-no-Chile)
-- [Operador do sistema elétrico descarta racionamento em 2021](https://www.nexojornal.com.br/extra/2021/10/13/Operador-do-sistema-el%C3%A9trico-descarta-racionamento-em-2021)
+- [Militares são condenados por mortes de músico e catador no Rio](https://www.nexojornal.com.br/extra/2021/10/14/Militares-s%C3%A3o-condenados-por-mortes-de-m%C3%BAsico-e-catador-no-Rio)
+- [O racismo em conflitos territoriais nos quilombos do Piauí](https://www.nexojornal.com.br/academico/2021/10/13/O-racismo-em-conflitos-territoriais-nos-quilombos-do-Piau%C3%AD)
+- [Como as mídias sociais se relacionam com a democracia](https://www.nexojornal.com.br/colunistas/2021/Como-as-m%C3%ADdias-sociais-se-relacionam-com-a-democracia)
+- [O que a CPI da Covid deixou de lado nas investigações](https://www.nexojornal.com.br/expresso/2021/10/13/O-que-a-CPI-da-Covid-deixou-de-lado-nas-investiga%C3%A7%C3%B5es)
+- [O que melhorou e o que não mudou na resolução de homicídios](https://www.nexojornal.com.br/expresso/2021/10/13/O-que-melhorou-e-o-que-n%C3%A3o-mudou-na-resolu%C3%A7%C3%A3o-de-homic%C3%ADdios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
