@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Saúde mental e políticas públicas](https://pp.nexojornal.com.br/glossario/Sa%C3%BAde-mental-e-pol%C3%ADticas-p%C3%BAblicas)
+- [Acelerando o progresso na ciência do clima](https://pp.nexojornal.com.br/opiniao/2021/Acelerando-o-progresso-na-ci%C3%AAncia-do-clima)
+- [Soluções baseadas na natureza: reflexões sobre os povos indígenas e populações tradicionais na Amazônia](https://pp.nexojornal.com.br/opiniao/2021/Solu%C3%A7%C3%B5es-baseadas-na-natureza-reflex%C3%B5es-sobre-os-povos-ind%C3%ADgenas-e-popula%C3%A7%C3%B5es-tradicionais-na-Amaz%C3%B4nia)
+- [Educação integral e o resgate pós-pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Educa%C3%A7%C3%A3o-integral-e-o-resgate-p%C3%B3s-pandemia)
 - [10 pontos sobre a integração entre produção agrícola e conservação](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/10-pontos-sobre-a-integra%C3%A7%C3%A3o-entre-produ%C3%A7%C3%A3o-agr%C3%ADcola-e-conserva%C3%A7%C3%A3o)
-- [Anna C. F. Aguiar: parcerias entre universidades e empresas para promoção da biodiversidade](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/07/Anna-C.-F.-Aguiar-parcerias-entre-universidades-e-empresas-para-promo%C3%A7%C3%A3o-da-biodiversidade)
-- [Uma política que não decolou: as ações afirmativas para quilombolas nas universidades públicas brasileiras em 2019](https://pp.nexojornal.com.br/opiniao/2021/Uma-pol%C3%ADtica-que-n%C3%A3o-decolou-as-a%C3%A7%C3%B5es-afirmativas-para-quilombolas-nas-universidades-p%C3%BAblicas-brasileiras-em-2019)
-- [Pobreza e desigualdade no campo devem aumentar com medidas previstas na MP 1061](https://pp.nexojornal.com.br/opiniao/2021/Pobreza-e-desigualdade-no-campo-devem-aumentar-com-medidas-previstas-na-MP-1061)
-- [Por que a política tributária se manteve regressiva desde 1988?](https://pp.nexojornal.com.br/opiniao/2021/Por-que-a-pol%C3%ADtica-tribut%C3%A1ria-se-manteve-regressiva-desde-1988)
 <!-- PP_LIST:END -->
 
