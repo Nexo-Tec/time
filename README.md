@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Militares são condenados por mortes de músico e catador no Rio](https://www.nexojornal.com.br/extra/2021/10/14/Militares-s%C3%A3o-condenados-por-mortes-de-m%C3%BAsico-e-catador-no-Rio)
-- [O racismo em conflitos territoriais nos quilombos do Piauí](https://www.nexojornal.com.br/academico/2021/10/13/O-racismo-em-conflitos-territoriais-nos-quilombos-do-Piau%C3%AD)
-- [Como as mídias sociais se relacionam com a democracia](https://www.nexojornal.com.br/colunistas/2021/Como-as-m%C3%ADdias-sociais-se-relacionam-com-a-democracia)
-- [O que a CPI da Covid deixou de lado nas investigações](https://www.nexojornal.com.br/expresso/2021/10/13/O-que-a-CPI-da-Covid-deixou-de-lado-nas-investiga%C3%A7%C3%B5es)
-- [O que melhorou e o que não mudou na resolução de homicídios](https://www.nexojornal.com.br/expresso/2021/10/13/O-que-melhorou-e-o-que-n%C3%A3o-mudou-na-resolu%C3%A7%C3%A3o-de-homic%C3%ADdios)
+- [Os impactos da PEC que mexe no Conselho do Ministério Público](https://www.nexojornal.com.br/podcast/2021/10/13/Os-impactos-da-PEC-que-mexe-no-Conselho-do-Minist%C3%A9rio-P%C3%BAblico)
+- [Pobreza em 2021 será bem maior do que a prevista antes, diz FMI](https://www.nexojornal.com.br/extra/2021/10/13/Pobreza-em-2021-ser%C3%A1-bem-maior-do-que-a-prevista-antes-diz-FMI)
+- [Corredora queniana recordista mundial é morta a facadas](https://www.nexojornal.com.br/extra/2021/10/13/Corredora-queniana-recordista-mundial-%C3%A9-morta-a-facadas)
+- [Com salários atrasados, jogadores do Cruzeiro anunciam greve](https://www.nexojornal.com.br/extra/2021/10/13/Com-sal%C3%A1rios-atrasados-jogadores-do-Cruzeiro-anunciam-greve)
+- [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
