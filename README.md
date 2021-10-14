@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os impactos da PEC que mexe no Conselho do Ministério Público](https://www.nexojornal.com.br/podcast/2021/10/13/Os-impactos-da-PEC-que-mexe-no-Conselho-do-Minist%C3%A9rio-P%C3%BAblico)
-- [Pobreza em 2021 será bem maior do que a prevista antes, diz FMI](https://www.nexojornal.com.br/extra/2021/10/13/Pobreza-em-2021-ser%C3%A1-bem-maior-do-que-a-prevista-antes-diz-FMI)
-- [Corredora queniana recordista mundial é morta a facadas](https://www.nexojornal.com.br/extra/2021/10/13/Corredora-queniana-recordista-mundial-%C3%A9-morta-a-facadas)
-- [Com salários atrasados, jogadores do Cruzeiro anunciam greve](https://www.nexojornal.com.br/extra/2021/10/13/Com-sal%C3%A1rios-atrasados-jogadores-do-Cruzeiro-anunciam-greve)
-- [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
+- [Crianças morreram sugadas por draga de garimpo, dizem indígenas](https://www.nexojornal.com.br/extra/2021/10/14/Crian%C3%A7as-morreram-sugadas-por-draga-de-garimpo-dizem-ind%C3%ADgenas)
+- [O número de gestantes, lactantes e crianças no sistema carcerário](https://www.nexojornal.com.br/grafico/2021/10/14/O-n%C3%BAmero-de-gestantes-lactantes-e-crian%C3%A7as-no-sistema-carcer%C3%A1rio)
+- [‘Grupos políticos lucram com punitivismo da Justiça’](https://www.nexojornal.com.br/entrevista/2021/10/14/%E2%80%98Grupos-pol%C3%ADticos-lucram-com-punitivismo-da-Justi%C3%A7a%E2%80%99)
+- [Datena nega saída da Band, mas assume candidatura a presidente](https://www.nexojornal.com.br/extra/2021/10/14/Datena-nega-sa%C3%ADda-da-Band-mas-assume-candidatura-a-presidente)
+- [75% das escolas estaduais de SP devem manter aulas remotas](https://www.nexojornal.com.br/extra/2021/10/14/75-das-escolas-estaduais-de-SP-devem-manter-aulas-remotas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
