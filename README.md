@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Ana Bavon](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-ana-bavon-consultoria-diversidade-empresas/)
-- [O infinito não pode ser tão tatuado, gente](https://gamarevista.uol.com.br/colunistas/letrux/o-infinito-nao-pode-ser-tao-tatuado-gente/)
-- [Pop It!](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pop-it/)
-- [A novíssima geração de ativistas que quer mudar o mundo](https://gamarevista.uol.com.br/pessoas/uma-turma/novos-protagonistas-por-um-mundo-melhor/)
-- [Tenho direito a menstruar](https://gamarevista.uol.com.br/colunistas/winnie-bueno/tenho-direito-a-menstruar/)
+- [Quinze dias de jazz no Sesc SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/quinze-dias-de-jazz-no-sesc-sp/)
+- [A terceira temporada de ‘Succession’, na HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-terceira-temporada-de-succession-na-hbo-max/)
+- [Festivais gastronômicos em São Paulo e pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-gastronomicos-em-sao-paulo-e-pelo-brasil/)
+- [Como educar crianças contra o racismo?](https://gamarevista.uol.com.br/achamos-que-vale/assistir/como-educar-criancas-contra-o-racismo/)
+- [‘By Heart e Outras Peças’, de Thiago Rodrigues](https://gamarevista.uol.com.br/achamos-que-vale/ler/by-heart-e-outras-pecas-de-thiago-rodrigues/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
