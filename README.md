@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os impactos da PEC que mexe no Conselho do Ministério Público](https://www.nexojornal.com.br/podcast/2021/10/13/Os-impactos-da-PEC-que-mexe-no-Conselho-do-Minist%C3%A9rio-P%C3%BAblico)
-- [Pobreza em 2021 será bem maior do que a prevista antes, diz FMI](https://www.nexojornal.com.br/extra/2021/10/13/Pobreza-em-2021-ser%C3%A1-bem-maior-do-que-a-prevista-antes-diz-FMI)
-- [Corredora queniana recordista mundial é morta a facadas](https://www.nexojornal.com.br/extra/2021/10/13/Corredora-queniana-recordista-mundial-%C3%A9-morta-a-facadas)
-- [Com salários atrasados, jogadores do Cruzeiro anunciam greve](https://www.nexojornal.com.br/extra/2021/10/13/Com-sal%C3%A1rios-atrasados-jogadores-do-Cruzeiro-anunciam-greve)
 - [Como Eduardo Bolsonaro ecoa pânico moral contra HQs](https://www.nexojornal.com.br/expresso/2021/10/13/Como-Eduardo-Bolsonaro-ecoa-p%C3%A2nico-moral-contra-HQs)
+- [Ator William Shatner vai ao espaço aos 90 anos: ‘É indescritível’](https://www.nexojornal.com.br/extra/2021/10/13/Ator-William-Shatner-vai-ao-espa%C3%A7o-aos-90-anos-%E2%80%98%C3%89-indescrit%C3%ADvel%E2%80%99)
+- [Chacina deixa 6 mortos e 12 feridos em festa de rua em Salvador](https://www.nexojornal.com.br/extra/2021/10/13/Chacina-deixa-6-mortos-e-12-feridos-em-festa-de-rua-em-Salvador)
+- [A militarização do conflito com indígenas mapuche no Chile](https://www.nexojornal.com.br/expresso/2021/10/13/A-militariza%C3%A7%C3%A3o-do-conflito-com-ind%C3%ADgenas-mapuche-no-Chile)
+- [Operador do sistema elétrico descarta racionamento em 2021](https://www.nexojornal.com.br/extra/2021/10/13/Operador-do-sistema-el%C3%A9trico-descarta-racionamento-em-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
