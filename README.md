@@ -128,7 +128,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [A terceira temporada de ‘Succession’, na HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-terceira-temporada-de-succession-na-hbo-max/)
 - [Festivais gastronômicos em São Paulo e pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-gastronomicos-em-sao-paulo-e-pelo-brasil/)
 - [Como educar crianças contra o racismo?](https://gamarevista.uol.com.br/achamos-que-vale/assistir/como-educar-criancas-contra-o-racismo/)
-- [‘By Heart e Outras Peças’, de Thiago Rodrigues](https://gamarevista.uol.com.br/achamos-que-vale/ler/by-heart-e-outras-pecas-de-thiago-rodrigues/)
+- [‘By Heart e Outras Peças’, de Tiago Rodrigues](https://gamarevista.uol.com.br/achamos-que-vale/ler/by-heart-e-outras-pecas-de-thiago-rodrigues/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
