@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crianças morreram sugadas por draga de garimpo, dizem indígenas](https://www.nexojornal.com.br/extra/2021/10/14/Crian%C3%A7as-morreram-sugadas-por-draga-de-garimpo-dizem-ind%C3%ADgenas)
-- [O número de gestantes, lactantes e crianças no sistema carcerário](https://www.nexojornal.com.br/grafico/2021/10/14/O-n%C3%BAmero-de-gestantes-lactantes-e-crian%C3%A7as-no-sistema-carcer%C3%A1rio)
-- [‘Grupos políticos lucram com punitivismo da Justiça’](https://www.nexojornal.com.br/entrevista/2021/10/14/%E2%80%98Grupos-pol%C3%ADticos-lucram-com-punitivismo-da-Justi%C3%A7a%E2%80%99)
-- [Datena nega saída da Band, mas assume candidatura a presidente](https://www.nexojornal.com.br/extra/2021/10/14/Datena-nega-sa%C3%ADda-da-Band-mas-assume-candidatura-a-presidente)
-- [75% das escolas estaduais de SP devem manter aulas remotas](https://www.nexojornal.com.br/extra/2021/10/14/75-das-escolas-estaduais-de-SP-devem-manter-aulas-remotas)
+- [Vaga no Supremo: as 7 chaves do impasse sobre André Mendonça](https://www.nexojornal.com.br/expresso/2021/10/15/Vaga-no-Supremo-as-7-chaves-do-impasse-sobre-Andr%C3%A9-Mendon%C3%A7a)
+- [Como o Uber ‘fura fila’ reforça o conceito da compra de tempo](https://www.nexojornal.com.br/expresso/2021/10/15/Como-o-Uber-%E2%80%98fura-fila%E2%80%99-refor%C3%A7a-o-conceito-da-compra-de-tempo)
+- [Promotoria denuncia 2 policiais por massacre do Jacarezinho](https://www.nexojornal.com.br/extra/2021/10/15/Promotoria-denuncia-2-policiais-por-massacre-do-Jacarezinho)
+- [‘Deserto Particular’ é aposta do Brasil para o Oscar 2022](https://www.nexojornal.com.br/extra/2021/10/15/%E2%80%98Deserto-Particular%E2%80%99-%C3%A9-aposta-do-Brasil-para-o-Oscar-2022)
+- [Deputados americanos pedem que Biden puna Bolsonaro](https://www.nexojornal.com.br/extra/2021/10/15/Deputados-americanos-pedem-que-Biden-puna-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
