@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crianças morreram sugadas por draga de garimpo, dizem indígenas](https://www.nexojornal.com.br/extra/2021/10/14/Crian%C3%A7as-morreram-sugadas-por-draga-de-garimpo-dizem-ind%C3%ADgenas)
-- [O número de gestantes, lactantes e crianças no sistema carcerário](https://www.nexojornal.com.br/grafico/2021/10/14/O-n%C3%BAmero-de-gestantes-lactantes-e-crian%C3%A7as-no-sistema-carcer%C3%A1rio)
-- [‘Grupos políticos lucram com punitivismo da Justiça’](https://www.nexojornal.com.br/entrevista/2021/10/14/%E2%80%98Grupos-pol%C3%ADticos-lucram-com-punitivismo-da-Justi%C3%A7a%E2%80%99)
-- [Datena nega saída da Band, mas assume candidatura a presidente](https://www.nexojornal.com.br/extra/2021/10/14/Datena-nega-sa%C3%ADda-da-Band-mas-assume-candidatura-a-presidente)
-- [75% das escolas estaduais de SP devem manter aulas remotas](https://www.nexojornal.com.br/extra/2021/10/14/75-das-escolas-estaduais-de-SP-devem-manter-aulas-remotas)
+- [Como começar a ver cinema iraniano](https://www.nexojornal.com.br/podcast/2021/10/15/Como-come%C3%A7ar-a-ver-cinema-iraniano)
+- [3 metas ambiciosas para defender os direitos reprodutivos](https://www.nexojornal.com.br/ensaio/debate/2021/3-metas-ambiciosas-para-defender-os-direitos-reprodutivos)
+- [A condenação de militares. A indicação ao STF travada. E mais](https://www.nexojornal.com.br/video/A-condena%C3%A7%C3%A3o-de-militares.-A-indica%C3%A7%C3%A3o-ao-STF-travada.-E-mais)
+- [A trajetória das regras para dar mais diversidade à política](https://www.nexojornal.com.br/expresso/2021/10/15/A-trajet%C3%B3ria-das-regras-para-dar-mais-diversidade-%C3%A0-pol%C3%ADtica)
+- [Como é a missão da Nasa aos asteroides troianos de Júpiter](https://www.nexojornal.com.br/expresso/2021/10/15/Como-%C3%A9-a-miss%C3%A3o-da-Nasa-aos-asteroides-troianos-de-J%C3%BApiter)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
