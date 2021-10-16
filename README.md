@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como começar a ver cinema iraniano](https://www.nexojornal.com.br/podcast/2021/10/15/Como-come%C3%A7ar-a-ver-cinema-iraniano)
-- [3 metas ambiciosas para defender os direitos reprodutivos](https://www.nexojornal.com.br/ensaio/debate/2021/3-metas-ambiciosas-para-defender-os-direitos-reprodutivos)
-- [A condenação de militares. A indicação ao STF travada. E mais](https://www.nexojornal.com.br/video/A-condena%C3%A7%C3%A3o-de-militares.-A-indica%C3%A7%C3%A3o-ao-STF-travada.-E-mais)
-- [A trajetória das regras para dar mais diversidade à política](https://www.nexojornal.com.br/expresso/2021/10/15/A-trajet%C3%B3ria-das-regras-para-dar-mais-diversidade-%C3%A0-pol%C3%ADtica)
-- [Como é a missão da Nasa aos asteroides troianos de Júpiter](https://www.nexojornal.com.br/expresso/2021/10/15/Como-%C3%A9-a-miss%C3%A3o-da-Nasa-aos-asteroides-troianos-de-J%C3%BApiter)
+- [Doria volta atrás e aceita debater nas prévias do PSDB](https://www.nexojornal.com.br/extra/2021/10/16/Doria-volta-atr%C3%A1s-e-aceita-debater-nas-pr%C3%A9vias-do-PSDB)
+- [A evolução dos carros projetados por designers italianos](https://www.nexojornal.com.br/expresso/2021/10/16/A-evolu%C3%A7%C3%A3o-dos-carros-projetados-por-designers-italianos)
+- [5 livros para compreender o papel social da alimentação](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-compreender-o-papel-social-da-alimenta%C3%A7%C3%A3o)
+- [O músico que produz guitarras com materiais inusitados](https://www.nexojornal.com.br/expresso/2021/10/16/O-m%C3%BAsico-que-produz-guitarras-com-materiais-inusitados)
+- [Pessoas em situação de rua e o exercício dos direitos reprodutivos](https://www.nexojornal.com.br/ensaio/debate/2021/Pessoas-em-situa%C3%A7%C3%A3o-de-rua-e-o-exerc%C3%ADcio-dos-direitos-reprodutivos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
