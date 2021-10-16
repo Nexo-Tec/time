@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A designer que inverte estereótipos de gênero em capas de livros](https://www.nexojornal.com.br/expresso/2021/10/15/A-designer-que-inverte-estere%C3%B3tipos-de-g%C3%AAnero-em-capas-de-livros)
+- [Arqueologia da mentalidade](https://www.nexojornal.com.br/externo/2021/10/15/Arqueologia-da-mentalidade)
 - [Como começar a ver cinema iraniano](https://www.nexojornal.com.br/podcast/2021/10/15/Como-come%C3%A7ar-a-ver-cinema-iraniano)
 - [3 metas ambiciosas para defender os direitos reprodutivos](https://www.nexojornal.com.br/ensaio/debate/2021/3-metas-ambiciosas-para-defender-os-direitos-reprodutivos)
 - [A condenação de militares. A indicação ao STF travada. E mais](https://www.nexojornal.com.br/video/A-condena%C3%A7%C3%A3o-de-militares.-A-indica%C3%A7%C3%A3o-ao-STF-travada.-E-mais)
-- [A trajetória das regras para dar mais diversidade à política](https://www.nexojornal.com.br/expresso/2021/10/15/A-trajet%C3%B3ria-das-regras-para-dar-mais-diversidade-%C3%A0-pol%C3%ADtica)
-- [Como é a missão da Nasa aos asteroides troianos de Júpiter](https://www.nexojornal.com.br/expresso/2021/10/15/Como-%C3%A9-a-miss%C3%A3o-da-Nasa-aos-asteroides-troianos-de-J%C3%BApiter)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
