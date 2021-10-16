@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Refinando as refinarias de petróleo](https://pp.nexojornal.com.br/opiniao/2021/Refinando-as-refinarias-de-petr%C3%B3leo)
 - [A radicalização da luta antirracista no Brasil](https://pp.nexojornal.com.br/academico/2021/A-radicaliza%C3%A7%C3%A3o-da-luta-antirracista-no-Brasil)
 - [Saúde mental e políticas públicas](https://pp.nexojornal.com.br/glossario/Sa%C3%BAde-mental-e-pol%C3%ADticas-p%C3%BAblicas)
 - [Acelerando o progresso na ciência do clima](https://pp.nexojornal.com.br/opiniao/2021/Acelerando-o-progresso-na-ci%C3%AAncia-do-clima)
 - [Soluções baseadas na natureza: reflexões sobre os povos indígenas e populações tradicionais na Amazônia](https://pp.nexojornal.com.br/opiniao/2021/Solu%C3%A7%C3%B5es-baseadas-na-natureza-reflex%C3%B5es-sobre-os-povos-ind%C3%ADgenas-e-popula%C3%A7%C3%B5es-tradicionais-na-Amaz%C3%B4nia)
-- [Educação integral e o resgate pós-pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2021/Educa%C3%A7%C3%A3o-integral-e-o-resgate-p%C3%B3s-pandemia)
 <!-- PP_LIST:END -->
 
