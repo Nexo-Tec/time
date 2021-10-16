@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Claudia Leitte](https://gamarevista.uol.com.br/pessoas/questionario-proust/claudia-leitte/)
 - [A vida lá fora](https://gamarevista.uol.com.br/sociedade/a-vida-la-fora/)
 - [Mundo Real](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mundo-real/)
 - [As crianças e o déficit de natureza](https://gamarevista.uol.com.br/sociedade/as-criancas-e-o-deficit-de-natureza/)
 - [Quinze dias de jazz no Sesc SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/quinze-dias-de-jazz-no-sesc-sp/)
-- [A terceira temporada de ‘Succession’, na HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-terceira-temporada-de-succession-na-hbo-max/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
