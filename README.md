@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@selmablair](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/selmablair/)
 - [Renato Noguera: ‘Um relacionamento interessante ensina sobre nós mesmos’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renato-nogueira-ta-saindo-com-alguem/)
 - [Claudia Leitte](https://gamarevista.uol.com.br/pessoas/questionario-proust/claudia-leitte/)
 - [A vida lá fora](https://gamarevista.uol.com.br/sociedade/a-vida-la-fora/)
 - [Mundo Real](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mundo-real/)
-- [As crianças e o déficit de natureza](https://gamarevista.uol.com.br/sociedade/as-criancas-e-o-deficit-de-natureza/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
