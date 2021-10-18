@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Leite nas prévias do PSDB: ‘espero que não volte o BolsoDoria’](https://www.nexojornal.com.br/extra/2021/10/17/Leite-nas-pr%C3%A9vias-do-PSDB-%E2%80%98espero-que-n%C3%A3o-volte-o-BolsoDoria%E2%80%99)
-- [CPI da Covid ouve familiares de vítimas da pandemia](https://www.nexojornal.com.br/extra/2021/10/17/CPI-da-Covid-ouve-familiares-de-v%C3%ADtimas-da-pandemia)
-- [Os desacordos e as pressões nos últimos dias da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/17/Os-desacordos-e-as-press%C3%B5es-nos-%C3%BAltimos-dias-da-CPI-da-Covid)
-- [‘É preciso tirar política para saúde LGBTI+ do papel’](https://www.nexojornal.com.br/entrevista/2021/10/17/%E2%80%98%C3%89-preciso-tirar-pol%C3%ADtica-para-sa%C3%BAde-LGBTI-do-papel%E2%80%99)
-- [Coalizões estruturadas podem fazer a diferença](https://www.nexojornal.com.br/ensaio/2021/Coaliz%C3%B5es-estruturadas-podem-fazer-a-diferen%C3%A7a)
+- [Como a inteligência artificial pode substituir dubladores](https://www.nexojornal.com.br/expresso/2021/10/18/Como-a-intelig%C3%AAncia-artificial-pode-substituir-dubladores)
+- [São Paulo reduz para 21 dias o intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/10/18/S%C3%A3o-Paulo-reduz-para-21-dias-o-intervalo-entre-doses-da-Pfizer)
+- [Dois policiais envolvidos na chacina do Jacarezinho viram réus](https://www.nexojornal.com.br/extra/2021/10/18/Dois-policiais-envolvidos-na-chacina-do-Jacarezinho-viram-r%C3%A9us)
+- [O que é um míssil hipersônico. E o que muda com a tecnologia](https://www.nexojornal.com.br/expresso/2021/10/18/O-que-%C3%A9-um-m%C3%ADssil-hipers%C3%B4nico.-E-o-que-muda-com-a-tecnologia)
+- [Como outras doenças afetam escolas na volta às aulas presenciais](https://www.nexojornal.com.br/expresso/2021/10/18/Como-outras-doen%C3%A7as-afetam-escolas-na-volta-%C3%A0s-aulas-presenciais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
