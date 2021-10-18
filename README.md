@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Doria volta atrás e aceita debater nas prévias do PSDB](https://www.nexojornal.com.br/extra/2021/10/16/Doria-volta-atr%C3%A1s-e-aceita-debater-nas-pr%C3%A9vias-do-PSDB)
-- [A evolução dos carros projetados por designers italianos](https://www.nexojornal.com.br/expresso/2021/10/16/A-evolu%C3%A7%C3%A3o-dos-carros-projetados-por-designers-italianos)
-- [5 livros para compreender o papel social da alimentação](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-compreender-o-papel-social-da-alimenta%C3%A7%C3%A3o)
-- [O músico que produz guitarras com materiais inusitados](https://www.nexojornal.com.br/expresso/2021/10/16/O-m%C3%BAsico-que-produz-guitarras-com-materiais-inusitados)
-- [Pessoas em situação de rua e o exercício dos direitos reprodutivos](https://www.nexojornal.com.br/ensaio/debate/2021/Pessoas-em-situa%C3%A7%C3%A3o-de-rua-e-o-exerc%C3%ADcio-dos-direitos-reprodutivos)
+- [Leite nas prévias do PSDB: ‘espero que não volte o BolsoDoria’](https://www.nexojornal.com.br/extra/2021/10/17/Leite-nas-pr%C3%A9vias-do-PSDB-%E2%80%98espero-que-n%C3%A3o-volte-o-BolsoDoria%E2%80%99)
+- [CPI da Covid ouve familiares de vítimas da pandemia](https://www.nexojornal.com.br/extra/2021/10/17/CPI-da-Covid-ouve-familiares-de-v%C3%ADtimas-da-pandemia)
+- [Os desacordos e as pressões nos últimos dias da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/17/Os-desacordos-e-as-press%C3%B5es-nos-%C3%BAltimos-dias-da-CPI-da-Covid)
+- [‘É preciso tirar política para saúde LGBTI+ do papel’](https://www.nexojornal.com.br/entrevista/2021/10/17/%E2%80%98%C3%89-preciso-tirar-pol%C3%ADtica-para-sa%C3%BAde-LGBTI-do-papel%E2%80%99)
+- [Coalizões estruturadas podem fazer a diferença](https://www.nexojornal.com.br/ensaio/2021/Coaliz%C3%B5es-estruturadas-podem-fazer-a-diferen%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
