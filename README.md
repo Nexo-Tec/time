@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a inteligência artificial pode substituir dubladores](https://www.nexojornal.com.br/expresso/2021/10/18/Como-a-intelig%C3%AAncia-artificial-pode-substituir-dubladores)
-- [São Paulo reduz para 21 dias o intervalo entre doses da Pfizer](https://www.nexojornal.com.br/extra/2021/10/18/S%C3%A3o-Paulo-reduz-para-21-dias-o-intervalo-entre-doses-da-Pfizer)
-- [Dois policiais envolvidos na chacina do Jacarezinho viram réus](https://www.nexojornal.com.br/extra/2021/10/18/Dois-policiais-envolvidos-na-chacina-do-Jacarezinho-viram-r%C3%A9us)
-- [O que é um míssil hipersônico. E o que muda com a tecnologia](https://www.nexojornal.com.br/expresso/2021/10/18/O-que-%C3%A9-um-m%C3%ADssil-hipers%C3%B4nico.-E-o-que-muda-com-a-tecnologia)
-- [Como outras doenças afetam escolas na volta às aulas presenciais](https://www.nexojornal.com.br/expresso/2021/10/18/Como-outras-doen%C3%A7as-afetam-escolas-na-volta-%C3%A0s-aulas-presenciais)
+- [Os planos da CPI da Covid para driblar o procurador-geral](https://www.nexojornal.com.br/expresso/2021/10/18/Os-planos-da-CPI-da-Covid-para-driblar-o-procurador-geral)
+- [O antigo sonho de ser gente: a pobreza, a fome e as prioridades](https://www.nexojornal.com.br/colunistas/2021/O-antigo-sonho-de-ser-gente-a-pobreza-a-fome-e-as-prioridades)
+- [Qual o futuro da Coronavac após sustentar a vacinação no país](https://www.nexojornal.com.br/expresso/2021/10/18/Qual-o-futuro-da-Coronavac-ap%C3%B3s-sustentar-a-vacina%C3%A7%C3%A3o-no-pa%C3%ADs)
+- [Globo perde exclusividade de direitos digitais da Copa do Mundo](https://www.nexojornal.com.br/extra/2021/10/18/Globo-perde-exclusividade-de-direitos-digitais-da-Copa-do-Mundo)
+- [Facebook remove menos de 5% do discurso de ódio, diz jornal](https://www.nexojornal.com.br/extra/2021/10/18/Facebook-remove-menos-de-5-do-discurso-de-%C3%B3dio-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
