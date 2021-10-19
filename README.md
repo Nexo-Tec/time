@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Leite nas prévias do PSDB: ‘espero que não volte o BolsoDoria’](https://www.nexojornal.com.br/extra/2021/10/17/Leite-nas-pr%C3%A9vias-do-PSDB-%E2%80%98espero-que-n%C3%A3o-volte-o-BolsoDoria%E2%80%99)
-- [CPI da Covid ouve familiares de vítimas da pandemia](https://www.nexojornal.com.br/extra/2021/10/17/CPI-da-Covid-ouve-familiares-de-v%C3%ADtimas-da-pandemia)
-- [Os desacordos e as pressões nos últimos dias da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/17/Os-desacordos-e-as-press%C3%B5es-nos-%C3%BAltimos-dias-da-CPI-da-Covid)
-- [‘É preciso tirar política para saúde LGBTI+ do papel’](https://www.nexojornal.com.br/entrevista/2021/10/17/%E2%80%98%C3%89-preciso-tirar-pol%C3%ADtica-para-sa%C3%BAde-LGBTI-do-papel%E2%80%99)
-- [Coalizões estruturadas podem fazer a diferença](https://www.nexojornal.com.br/ensaio/2021/Coaliz%C3%B5es-estruturadas-podem-fazer-a-diferen%C3%A7a)
+- [Os planos da CPI da Covid para driblar o procurador-geral](https://www.nexojornal.com.br/expresso/2021/10/18/Os-planos-da-CPI-da-Covid-para-driblar-o-procurador-geral)
+- [O antigo sonho de ser gente: a pobreza, a fome e as prioridades](https://www.nexojornal.com.br/colunistas/2021/O-antigo-sonho-de-ser-gente-a-pobreza-a-fome-e-as-prioridades)
+- [Qual o futuro da Coronavac após sustentar a vacinação no país](https://www.nexojornal.com.br/expresso/2021/10/18/Qual-o-futuro-da-Coronavac-ap%C3%B3s-sustentar-a-vacina%C3%A7%C3%A3o-no-pa%C3%ADs)
+- [Globo perde exclusividade de direitos digitais da Copa do Mundo](https://www.nexojornal.com.br/extra/2021/10/18/Globo-perde-exclusividade-de-direitos-digitais-da-Copa-do-Mundo)
+- [Facebook remove menos de 5% do discurso de ódio, diz jornal](https://www.nexojornal.com.br/extra/2021/10/18/Facebook-remove-menos-de-5-do-discurso-de-%C3%B3dio-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
