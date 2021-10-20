@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há no relatório testado e ajustado pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/20/O-que-h%C3%A1-no-relat%C3%B3rio-testado-e-ajustado-pela-CPI-da-Covid)
-- [O que você precisa saber sobre a fase final da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/19/O-que-voc%C3%AA-precisa-saber-sobre-a-fase-final-da-CPI-da-Covid)
 - [Senado aprova auxílio para compra de botijão de gás](https://www.nexojornal.com.br/extra/2021/10/19/Senado-aprova-aux%C3%ADlio-para-compra-de-botij%C3%A3o-de-g%C3%A1s)
 - [A fome desumaniza, corrompe a cidadania e inviabiliza o país](https://www.nexojornal.com.br/colunistas/2021/A-fome-desumaniza-corrompe-a-cidadania-e-inviabiliza-o-pa%C3%ADs)
 - [Família doa acervo de Lucio Costa, criador de Brasília, a Portugal](https://www.nexojornal.com.br/extra/2021/10/19/Fam%C3%ADlia-doa-acervo-de-Lucio-Costa-criador-de-Bras%C3%ADlia-a-Portugal)
+- [Como o teto de gastos limita o Auxílio Brasil de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/10/19/Como-o-teto-de-gastos-limita-o-Aux%C3%ADlio-Brasil-de-Bolsonaro)
+- [O software que torna voos mais eficientes e sustentáveis](https://www.nexojornal.com.br/expresso/2021/10/19/O-software-que-torna-voos-mais-eficientes-e-sustent%C3%A1veis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
