@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os planos da CPI da Covid para driblar o procurador-geral](https://www.nexojornal.com.br/expresso/2021/10/18/Os-planos-da-CPI-da-Covid-para-driblar-o-procurador-geral)
-- [O antigo sonho de ser gente: a pobreza, a fome e as prioridades](https://www.nexojornal.com.br/colunistas/2021/O-antigo-sonho-de-ser-gente-a-pobreza-a-fome-e-as-prioridades)
-- [Qual o futuro da Coronavac após sustentar a vacinação no país](https://www.nexojornal.com.br/expresso/2021/10/18/Qual-o-futuro-da-Coronavac-ap%C3%B3s-sustentar-a-vacina%C3%A7%C3%A3o-no-pa%C3%ADs)
-- [Globo perde exclusividade de direitos digitais da Copa do Mundo](https://www.nexojornal.com.br/extra/2021/10/18/Globo-perde-exclusividade-de-direitos-digitais-da-Copa-do-Mundo)
-- [Facebook remove menos de 5% do discurso de ódio, diz jornal](https://www.nexojornal.com.br/extra/2021/10/18/Facebook-remove-menos-de-5-do-discurso-de-%C3%B3dio-diz-jornal)
+- [Senado aprova auxílio para compra de botijão de gás](https://www.nexojornal.com.br/extra/2021/10/19/Senado-aprova-aux%C3%ADlio-para-compra-de-botij%C3%A3o-de-g%C3%A1s)
+- [A fome desumaniza, corrompe a cidadania e inviabiliza o país](https://www.nexojornal.com.br/colunistas/2021/A-fome-desumaniza-corrompe-a-cidadania-e-inviabiliza-o-pa%C3%ADs)
+- [Família doa acervo de Lucio Costa, criador de Brasília, a Portugal](https://www.nexojornal.com.br/extra/2021/10/19/Fam%C3%ADlia-doa-acervo-de-Lucio-Costa-criador-de-Bras%C3%ADlia-a-Portugal)
+- [Como o teto de gastos limita o Auxílio Brasil de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/10/19/Como-o-teto-de-gastos-limita-o-Aux%C3%ADlio-Brasil-de-Bolsonaro)
+- [O software que torna voos mais eficientes e sustentáveis](https://www.nexojornal.com.br/expresso/2021/10/19/O-software-que-torna-voos-mais-eficientes-e-sustent%C3%A1veis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
