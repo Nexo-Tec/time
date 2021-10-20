@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [‘Na culinária nacional, estamos envoltos em tradições inventadas’](https://gamarevista.uol.com.br/formato/conversas/culinaria-nacional-sociologo-carlos-alberto-doria/)
 - [Neofobias — Qual o nome do seu novo medo?](https://gamarevista.uol.com.br/colunistas/marcello-dantas/neofobias-qual-o-nome-do-seu-novo-medo/)
 - [Capa de chuva Rains](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/capa-de-chuva-rains/)
 - [Carta a Ciro (Volta pra mim?)](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-ciro-volta-pra-mim/)
 - [@selmablair](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/selmablair/)
-- [Renato Noguera: ‘Um relacionamento interessante ensina sobre nós mesmos’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renato-nogueira-ta-saindo-com-alguem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
