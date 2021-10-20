@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Neofobias — Qual o nome do seu novo medo?](https://gamarevista.uol.com.br/colunistas/marcello-dantas/neofobias-qual-o-nome-do-seu-novo-medo/)
 - [Capa de chuva Rains](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/capa-de-chuva-rains/)
 - [Carta a Ciro (Volta pra mim?)](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-ciro-volta-pra-mim/)
 - [@selmablair](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/selmablair/)
 - [Renato Noguera: ‘Um relacionamento interessante ensina sobre nós mesmos’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renato-nogueira-ta-saindo-com-alguem/)
-- [Claudia Leitte](https://gamarevista.uol.com.br/pessoas/questionario-proust/claudia-leitte/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
