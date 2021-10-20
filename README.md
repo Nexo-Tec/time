@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O eleitor brasileiro apoia a tributação progressiva?](https://pp.nexojornal.com.br/opiniao/2021/O-eleitor-brasileiro-apoia-a-tributa%C3%A7%C3%A3o-progressiva)
 - [Pedro Torres: justiça climática](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/18/Pedro-Torres-justi%C3%A7a-clim%C3%A1tica)
 - [As vulnerabilidades de pequenas cidades frente às mudanças climáticas](https://pp.nexojornal.com.br/bibliografia-basica/2021/10/18/As-vulnerabilidades-de-pequenas-cidades-frente-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
 - [Desafios conceituais de um projeto interdisciplinar sobre governança ambiental face às mudanças climáticas](https://pp.nexojornal.com.br/opiniao/2021/Desafios-conceituais-de-um-projeto-interdisciplinar-sobre-governan%C3%A7a-ambiental-face-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
 - [Refinando as refinarias de petróleo](https://pp.nexojornal.com.br/opiniao/2021/Refinando-as-refinarias-de-petr%C3%B3leo)
+- [A radicalização da luta antirracista no Brasil](https://pp.nexojornal.com.br/academico/2021/A-radicaliza%C3%A7%C3%A3o-da-luta-antirracista-no-Brasil)
 <!-- PP_LIST:END -->
 
