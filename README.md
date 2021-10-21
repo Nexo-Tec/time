@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há no relatório testado e ajustado pela CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/20/O-que-h%C3%A1-no-relat%C3%B3rio-testado-e-ajustado-pela-CPI-da-Covid)
-- [O que você precisa saber sobre a fase final da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/19/O-que-voc%C3%AA-precisa-saber-sobre-a-fase-final-da-CPI-da-Covid)
-- [Senado aprova auxílio para compra de botijão de gás](https://www.nexojornal.com.br/extra/2021/10/19/Senado-aprova-aux%C3%ADlio-para-compra-de-botij%C3%A3o-de-g%C3%A1s)
-- [A fome desumaniza, corrompe a cidadania e inviabiliza o país](https://www.nexojornal.com.br/colunistas/2021/A-fome-desumaniza-corrompe-a-cidadania-e-inviabiliza-o-pa%C3%ADs)
-- [Família doa acervo de Lucio Costa, criador de Brasília, a Portugal](https://www.nexojornal.com.br/extra/2021/10/19/Fam%C3%ADlia-doa-acervo-de-Lucio-Costa-criador-de-Bras%C3%ADlia-a-Portugal)
+- [Vikings chegaram à América há pelo menos mil anos, diz pesquisa](https://www.nexojornal.com.br/extra/2021/10/20/Vikings-chegaram-%C3%A0-Am%C3%A9rica-h%C3%A1-pelo-menos-mil-anos-diz-pesquisa)
+- [Câmara rejeita versão da PEC do Conselho do Ministério Público](https://www.nexojornal.com.br/extra/2021/10/20/C%C3%A2mara-rejeita-vers%C3%A3o-da-PEC-do-Conselho-do-Minist%C3%A9rio-P%C3%BAblico)
+- [O impacto das decisões educacionais tomadas durante a pandemia](https://www.nexojornal.com.br/academico/2021/10/20/O-impacto-das-decis%C3%B5es-educacionais-tomadas-durante-a-pandemia)
+- [O que nos ensina o fungo que faz pão, cerveja e vinho](https://www.nexojornal.com.br/colunistas/2021/O-que-nos-ensina-o-fungo-que-faz-p%C3%A3o-cerveja-e-vinho)
+- [A newsletter com sugestões diárias de música para trabalhar](https://www.nexojornal.com.br/expresso/2021/10/20/A-newsletter-com-sugest%C3%B5es-di%C3%A1rias-de-m%C3%BAsica-para-trabalhar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
