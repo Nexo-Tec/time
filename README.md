@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como proteger crianças e adolescentes na internet](https://gamarevista.uol.com.br/sociedade/como-proteger-criancas-e-adolescentes-na-internet/)
 - [45ª Mostra Internacional de Cinema em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/45a-mostra-internacional-de-cinema-em-sao-paulo/)
 - [A exposição ‘Constelação Clarice’, no IMS Paulista](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-constelacao-clarice-no-ims-paulista/)
 - [‘Meu Coco’, novo álbum de Caetano Veloso](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/meu-coco-novo-album-de-caetano-veloso/)
 - [‘Cabeça de Nêgo’, filme sobre aluno que reage a ataque racista](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cabeca-de-nego-filme-sobre-aluno-que-reage-a-ataque-racista/)
-- [O curso ‘História da música pop: de Sinatra a Beyoncé’](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-curso-historia-da-musica-pop-de-sinatra-a-beyonce/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
