@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como negar o sexo dentro do relacionamento](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-negar-o-sexo-dentro-do-relacionamento/)
-- [‘Na culinária nacional, estamos envoltos em tradições inventadas’](https://gamarevista.uol.com.br/formato/conversas/culinaria-nacional-sociologo-carlos-alberto-doria/)
-- [Neofobias: Qual o nome do seu novo medo?](https://gamarevista.uol.com.br/colunistas/marcello-dantas/neofobias-qual-o-nome-do-seu-novo-medo/)
-- [Capa de chuva Rains](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/capa-de-chuva-rains/)
-- [Carta a Ciro (Volta pra mim?)](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-ciro-volta-pra-mim/)
+- [45ª Mostra Internacional de Cinema em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/45a-mostra-internacional-de-cinema-em-sao-paulo/)
+- [A exposição ‘Constelação Clarice’, no IMS Paulista](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-constelacao-clarice-no-ims-paulista/)
+- [‘Meu Coco’, novo álbum de Caetano Veloso](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/meu-coco-novo-album-de-caetano-veloso/)
+- [‘Cabeça de Nêgo’, filme sobre aluno que reage a ataque racista](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cabeca-de-nego-filme-sobre-aluno-que-reage-a-ataque-racista/)
+- [O curso ‘História da música pop: de Sinatra a Beyoncé’](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-curso-historia-da-musica-pop-de-sinatra-a-beyonce/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
