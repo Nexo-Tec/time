@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como negar o sexo dentro do relacionamento](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-negar-o-sexo-dentro-do-relacionamento/)
 - [‘Na culinária nacional, estamos envoltos em tradições inventadas’](https://gamarevista.uol.com.br/formato/conversas/culinaria-nacional-sociologo-carlos-alberto-doria/)
 - [Neofobias: Qual o nome do seu novo medo?](https://gamarevista.uol.com.br/colunistas/marcello-dantas/neofobias-qual-o-nome-do-seu-novo-medo/)
 - [Capa de chuva Rains](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/capa-de-chuva-rains/)
 - [Carta a Ciro (Volta pra mim?)](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/carta-a-ciro-volta-pra-mim/)
-- [@selmablair](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/selmablair/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
