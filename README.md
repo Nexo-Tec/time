@@ -134,10 +134,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O eleitor brasileiro apoia a tributação progressiva?](https://pp.nexojornal.com.br/opiniao/2021/O-eleitor-brasileiro-apoia-a-tributa%C3%A7%C3%A3o-progressiva)
-- [Pedro Torres: justiça climática](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/18/Pedro-Torres-justi%C3%A7a-clim%C3%A1tica)
-- [As vulnerabilidades de pequenas cidades frente às mudanças climáticas](https://pp.nexojornal.com.br/bibliografia-basica/2021/10/18/As-vulnerabilidades-de-pequenas-cidades-frente-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
-- [Desafios conceituais de um projeto interdisciplinar sobre governança ambiental face às mudanças climáticas](https://pp.nexojornal.com.br/opiniao/2021/Desafios-conceituais-de-um-projeto-interdisciplinar-sobre-governan%C3%A7a-ambiental-face-%C3%A0s-mudan%C3%A7as-clim%C3%A1ticas)
-- [Refinando as refinarias de petróleo](https://pp.nexojornal.com.br/opiniao/2021/Refinando-as-refinarias-de-petr%C3%B3leo)
+- [Pelas veredas do desenvolvimento sustentável](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pelas-veredas-do-desenvolvimento-sustent%C3%A1vel)
+- [Quais são os impactos de auditorias públicas na corrupção](https://pp.nexojornal.com.br/academico/2021/Quais-s%C3%A3o-os-impactos-de-auditorias-p%C3%BAblicas-na-corrup%C3%A7%C3%A3o)
+- [Como o desenvolvimento infantil é impactado 
+pela desnutrição e aleitamento materno](https://pp.nexojornal.com.br/academico/2021/Como-o-desenvolvimento-infantil-%C3%A9-impactado-pela-desnutri%C3%A7%C3%A3o-e-aleitamento-materno)
+- [Fernanda Lopes: o SUS e a saúde da população negra](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/21/Fernanda-Lopes-o-SUS-e-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra)
+- [O Brasil não elegeu Bolsonaro porque se tornou mais evangélico](https://pp.nexojornal.com.br/opiniao/2021/O-Brasil-n%C3%A3o-elegeu-Bolsonaro-porque-se-tornou-mais-evang%C3%A9lico)
 <!-- PP_LIST:END -->
 
