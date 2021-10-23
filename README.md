@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 avaliações sobre o relatório da CPI da Covid](https://www.nexojornal.com.br/expresso/2021/10/21/3-avalia%C3%A7%C3%B5es-sobre-o-relat%C3%B3rio-da-CPI-da-Covid)
-- [Como o tema da imigração desafia o governo Biden](https://www.nexojornal.com.br/expresso/2021/10/21/Como-o-tema-da-imigra%C3%A7%C3%A3o-desafia-o-governo-Biden)
-- [‘Banzeiro òkòtó’: relatos sobre a devastação amazônica](https://www.nexojornal.com.br/estante/trechos/2021/10/21/%E2%80%98Banzeiro-%C3%B2k%C3%B2t%C3%B3%E2%80%99-relatos-sobre-a-devasta%C3%A7%C3%A3o-amaz%C3%B4nica)
-- [Promotora do caso Zara critica velocidade de investigação](https://www.nexojornal.com.br/extra/2021/10/21/Promotora-do-caso-Zara-critica-velocidade-de-investiga%C3%A7%C3%A3o)
-- [OMS aponta subnotificação de mortes de profissionais de saúde](https://www.nexojornal.com.br/extra/2021/10/21/OMS-aponta-subnotifica%C3%A7%C3%A3o-de-mortes-de-profissionais-de-sa%C3%BAde)
+- [Justiça concede liberdade a DJ Ivis, acusado de agredir ex-esposa](https://www.nexojornal.com.br/extra/2021/10/22/Justi%C3%A7a-concede-liberdade-a-DJ-Ivis-acusado-de-agredir-ex-esposa)
+- [Conecte SUS libera certificado a quem tomou vacinas diferentes](https://www.nexojornal.com.br/extra/2021/10/22/Conecte-SUS-libera-certificado-a-quem-tomou-vacinas-diferentes)
+- [Fux anula votos de Marco Aurélio antes da aposentadoria](https://www.nexojornal.com.br/extra/2021/10/22/Fux-anula-votos-de-Marco-Aur%C3%A9lio-antes-da-aposentadoria)
+- [Pfizer diz que sua vacina contra covid é 90,7% eficaz em crianças](https://www.nexojornal.com.br/extra/2021/10/22/Pfizer-diz-que-sua-vacina-contra-covid-%C3%A9-907-eficaz-em-crian%C3%A7as)
+- [Moradia digna: direito básico e essencial e dever do Estado](https://www.nexojornal.com.br/colunistas/tribuna/2021/Moradia-digna-direito-b%C3%A1sico-e-essencial-e-dever-do-Estado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
