@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O portal que reúne um acervo inédito de Lygia Clark](https://www.nexojornal.com.br/expresso/2021/10/22/O-portal-que-re%C3%BAne-um-acervo-in%C3%A9dito-de-Lygia-Clark)
-- [Como o governo arrasta a decisão sobre a cloroquina no SUS](https://www.nexojornal.com.br/video/extrato/2021/10/22/Como-o-governo-arrasta-a-decis%C3%A3o-sobre-a-cloroquina-no-SUS)
-- [As falhas da ideia que opõe dever fiscal e urgência social](https://www.nexojornal.com.br/expresso/2021/10/22/As-falhas-da-ideia-que-op%C3%B5e-dever-fiscal-e-urg%C3%AAncia-social)
 - [Justiça concede liberdade a DJ Ivis, acusado de agredir ex-esposa](https://www.nexojornal.com.br/extra/2021/10/22/Justi%C3%A7a-concede-liberdade-a-DJ-Ivis-acusado-de-agredir-ex-esposa)
 - [Conecte SUS libera certificado a quem tomou vacinas diferentes](https://www.nexojornal.com.br/extra/2021/10/22/Conecte-SUS-libera-certificado-a-quem-tomou-vacinas-diferentes)
+- [Fux anula votos de Marco Aurélio antes da aposentadoria](https://www.nexojornal.com.br/extra/2021/10/22/Fux-anula-votos-de-Marco-Aur%C3%A9lio-antes-da-aposentadoria)
+- [Pfizer diz que sua vacina contra covid é 90,7% eficaz em crianças](https://www.nexojornal.com.br/extra/2021/10/22/Pfizer-diz-que-sua-vacina-contra-covid-%C3%A9-907-eficaz-em-crian%C3%A7as)
+- [Moradia digna: direito básico e essencial e dever do Estado](https://www.nexojornal.com.br/colunistas/tribuna/2021/Moradia-digna-direito-b%C3%A1sico-e-essencial-e-dever-do-Estado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
