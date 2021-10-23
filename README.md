@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mari Palma](https://gamarevista.uol.com.br/pessoas/questionario-proust/mari-palma/)
 - [Sonetos de Amor e Sacanagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonetos-de-amor-e-sacanagem/)
 - [Saidiya Hartman: ‘A história da escravidão moldou a vida de todos nós’](https://gamarevista.uol.com.br/formato/conversas/saidyia-hartman-a-historia-da-escravidao-moldou-a-vida-de-todos-nos/)
 - [Como proteger crianças e adolescentes na internet](https://gamarevista.uol.com.br/sociedade/como-proteger-criancas-e-adolescentes-na-internet/)
 - [45ª Mostra Internacional de Cinema em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/45a-mostra-internacional-de-cinema-em-sao-paulo/)
-- [A exposição ‘Constelação Clarice’, no IMS Paulista](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-constelacao-clarice-no-ims-paulista/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
