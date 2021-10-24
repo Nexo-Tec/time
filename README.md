@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O Ministério Público precisa de controle externo mais efetivo?](https://www.nexojornal.com.br/expresso/2021/10/23/O-Minist%C3%A9rio-P%C3%BAblico-precisa-de-controle-externo-mais-efetivo)
-- [Como Guedes se equilibra no cargo ao manter a manobra fura-teto](https://www.nexojornal.com.br/expresso/2021/10/23/Como-Guedes-se-equilibra-no-cargo-ao-manter-a-manobra-fura-teto)
-- [O arquivo digital que mostra o cotidiano da escravidão](https://www.nexojornal.com.br/expresso/2021/10/23/O-arquivo-digital-que-mostra-o-cotidiano-da-escravid%C3%A3o)
-- [5 livros que desafiam nosso entendimento de tempo e espaço](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-desafiam-nosso-entendimento-de-tempo-e-espa%C3%A7o)
-- [‘A música da diáspora africana me interessa desde sempre’](https://www.nexojornal.com.br/entrevista/2021/10/23/%E2%80%98A-m%C3%BAsica-da-di%C3%A1spora-africana-me-interessa-desde-sempre%E2%80%99)
+- [O portal que reúne um acervo inédito de Lygia Clark](https://www.nexojornal.com.br/expresso/2021/10/22/O-portal-que-re%C3%BAne-um-acervo-in%C3%A9dito-de-Lygia-Clark)
+- [Como o governo arrasta a decisão sobre a cloroquina no SUS](https://www.nexojornal.com.br/video/extrato/2021/10/22/Como-o-governo-arrasta-a-decis%C3%A3o-sobre-a-cloroquina-no-SUS)
+- [As falhas da ideia que opõe dever fiscal e urgência social](https://www.nexojornal.com.br/expresso/2021/10/22/As-falhas-da-ideia-que-op%C3%B5e-dever-fiscal-e-urg%C3%AAncia-social)
+- [Justiça concede liberdade a DJ Ivis, acusado de agredir ex-esposa](https://www.nexojornal.com.br/extra/2021/10/22/Justi%C3%A7a-concede-liberdade-a-DJ-Ivis-acusado-de-agredir-ex-esposa)
+- [Conecte SUS libera certificado a quem tomou vacinas diferentes](https://www.nexojornal.com.br/extra/2021/10/22/Conecte-SUS-libera-certificado-a-quem-tomou-vacinas-diferentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
