@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça concede liberdade a DJ Ivis, acusado de agredir ex-esposa](https://www.nexojornal.com.br/extra/2021/10/22/Justi%C3%A7a-concede-liberdade-a-DJ-Ivis-acusado-de-agredir-ex-esposa)
-- [Conecte SUS libera certificado a quem tomou vacinas diferentes](https://www.nexojornal.com.br/extra/2021/10/22/Conecte-SUS-libera-certificado-a-quem-tomou-vacinas-diferentes)
-- [Fux anula votos de Marco Aurélio antes da aposentadoria](https://www.nexojornal.com.br/extra/2021/10/22/Fux-anula-votos-de-Marco-Aur%C3%A9lio-antes-da-aposentadoria)
-- [Pfizer diz que sua vacina contra covid é 90,7% eficaz em crianças](https://www.nexojornal.com.br/extra/2021/10/22/Pfizer-diz-que-sua-vacina-contra-covid-%C3%A9-907-eficaz-em-crian%C3%A7as)
-- [Moradia digna: direito básico e essencial e dever do Estado](https://www.nexojornal.com.br/colunistas/tribuna/2021/Moradia-digna-direito-b%C3%A1sico-e-essencial-e-dever-do-Estado)
+- [O Ministério Público precisa de controle externo mais efetivo?](https://www.nexojornal.com.br/expresso/2021/10/23/O-Minist%C3%A9rio-P%C3%BAblico-precisa-de-controle-externo-mais-efetivo)
+- [Como Guedes se equilibra no cargo ao manter a manobra fura-teto](https://www.nexojornal.com.br/expresso/2021/10/23/Como-Guedes-se-equilibra-no-cargo-ao-manter-a-manobra-fura-teto)
+- [O arquivo digital que mostra o cotidiano da escravidão](https://www.nexojornal.com.br/expresso/2021/10/23/O-arquivo-digital-que-mostra-o-cotidiano-da-escravid%C3%A3o)
+- [5 livros que desafiam nosso entendimento de tempo e espaço](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-desafiam-nosso-entendimento-de-tempo-e-espa%C3%A7o)
+- [‘A música da diáspora africana me interessa desde sempre’](https://www.nexojornal.com.br/entrevista/2021/10/23/%E2%80%98A-m%C3%BAsica-da-di%C3%A1spora-africana-me-interessa-desde-sempre%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
