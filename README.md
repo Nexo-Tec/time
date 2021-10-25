@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senador quer inclusão de indiciamento do governador do AM na CPI](https://www.nexojornal.com.br/extra/2021/10/24/Senador-quer-inclus%C3%A3o-de-indiciamento-do-governador-do-AM-na-CPI)
-- [O Ministério Público precisa de controle externo mais efetivo?](https://www.nexojornal.com.br/expresso/2021/10/23/O-Minist%C3%A9rio-P%C3%BAblico-precisa-de-controle-externo-mais-efetivo)
-- [Como Guedes se equilibra no cargo ao manter a manobra fura-teto](https://www.nexojornal.com.br/expresso/2021/10/23/Como-Guedes-se-equilibra-no-cargo-ao-manter-a-manobra-fura-teto)
-- [O arquivo digital que mostra o cotidiano da escravidão](https://www.nexojornal.com.br/expresso/2021/10/23/O-arquivo-digital-que-mostra-o-cotidiano-da-escravid%C3%A3o)
-- [5 livros que desafiam nosso entendimento de tempo e espaço](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-desafiam-nosso-entendimento-de-tempo-e-espa%C3%A7o)
+- [Qual a tendência do Supremo ao julgar regras trabalhistas](https://www.nexojornal.com.br/expresso/2021/10/24/Qual-a-tend%C3%AAncia-do-Supremo-ao-julgar-regras-trabalhistas)
+- [O que é o auxílio-diesel. E como os caminhoneiros o recebem](https://www.nexojornal.com.br/expresso/2021/10/24/O-que-%C3%A9-o-aux%C3%ADlio-diesel.-E-como-os-caminhoneiros-o-recebem)
+- [Qual o papel das prévias numa candidatura presidencial](https://www.nexojornal.com.br/expresso/2021/10/24/Qual-o-papel-das-pr%C3%A9vias-numa-candidatura-presidencial)
+- [‘Absurda e anticientífica’: especialistas repudiam associação entre HIV e vacina](https://www.nexojornal.com.br/extra/2021/10/24/%E2%80%98Absurda-e-anticient%C3%ADfica%E2%80%99-especialistas-repudiam-associa%C3%A7%C3%A3o-entre-HIV-e-vacina)
+- [Roberto Jefferson é internado e defesa diz que ele corre ‘grave risco’](https://www.nexojornal.com.br/extra/2021/10/24/Roberto-Jefferson-%C3%A9-internado-e-defesa-diz-que-ele-corre-%E2%80%98grave-risco%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
