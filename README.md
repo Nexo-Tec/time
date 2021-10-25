@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@rafaelfreiiire](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaelfreiiire/)
 - [Flavia Feitosa: ‘Não dar designação para a vida é desperdiçar nossa humanidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/flavia-feitosa-qual-e-o-seu-proposito/)
 - [Mari Palma](https://gamarevista.uol.com.br/pessoas/questionario-proust/mari-palma/)
 - [Sonetos de Amor e Sacanagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonetos-de-amor-e-sacanagem/)
 - [Saidiya Hartman: ‘A história da escravidão moldou a vida de todos nós’](https://gamarevista.uol.com.br/formato/conversas/saidyia-hartman-a-historia-da-escravidao-moldou-a-vida-de-todos-nos/)
-- [Como proteger crianças e adolescentes na internet](https://gamarevista.uol.com.br/sociedade/como-proteger-criancas-e-adolescentes-na-internet/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
