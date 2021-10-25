@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senador quer inclusão de indiciamento do governador do AM na CPI](https://www.nexojornal.com.br/extra/2021/10/24/Senador-quer-inclus%C3%A3o-de-indiciamento-do-governador-do-AM-na-CPI)
 - [O Ministério Público precisa de controle externo mais efetivo?](https://www.nexojornal.com.br/expresso/2021/10/23/O-Minist%C3%A9rio-P%C3%BAblico-precisa-de-controle-externo-mais-efetivo)
 - [Como Guedes se equilibra no cargo ao manter a manobra fura-teto](https://www.nexojornal.com.br/expresso/2021/10/23/Como-Guedes-se-equilibra-no-cargo-ao-manter-a-manobra-fura-teto)
 - [O arquivo digital que mostra o cotidiano da escravidão](https://www.nexojornal.com.br/expresso/2021/10/23/O-arquivo-digital-que-mostra-o-cotidiano-da-escravid%C3%A3o)
 - [5 livros que desafiam nosso entendimento de tempo e espaço](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-desafiam-nosso-entendimento-de-tempo-e-espa%C3%A7o)
+- [‘A música da diáspora africana me interessa desde sempre’](https://www.nexojornal.com.br/entrevista/2021/10/23/%E2%80%98A-m%C3%BAsica-da-di%C3%A1spora-africana-me-interessa-desde-sempre%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
