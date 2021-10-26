@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sanduicheira de fogão](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sanduicheira-de-fogao/)
 - [Uma volta em muitas voltas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-volta-em-muitas-voltas/)
 - [@rafaelfreiiire](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaelfreiiire/)
 - [Flavia Feitosa: ‘Não dar designação para a vida é desperdiçar nossa humanidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/flavia-feitosa-qual-e-o-seu-proposito/)
 - [Mari Palma](https://gamarevista.uol.com.br/pessoas/questionario-proust/mari-palma/)
-- [Sonetos de Amor e Sacanagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonetos-de-amor-e-sacanagem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
