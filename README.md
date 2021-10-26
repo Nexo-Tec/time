@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Round 6 e o sucesso dos ‘Death Games’](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/round-6-e-o-sucesso-dos-death-games/)
 - [Sanduicheira de fogão](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sanduicheira-de-fogao/)
 - [Uma volta em muitas voltas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-volta-em-muitas-voltas/)
 - [@rafaelfreiiire](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaelfreiiire/)
 - [Flavia Feitosa: ‘Não dar designação para a vida é desperdiçar nossa humanidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/flavia-feitosa-qual-e-o-seu-proposito/)
-- [Mari Palma](https://gamarevista.uol.com.br/pessoas/questionario-proust/mari-palma/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
