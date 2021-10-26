@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual a tendência do Supremo ao julgar regras trabalhistas](https://www.nexojornal.com.br/expresso/2021/10/24/Qual-a-tend%C3%AAncia-do-Supremo-ao-julgar-regras-trabalhistas)
-- [O que é o auxílio-diesel. E como os caminhoneiros o recebem](https://www.nexojornal.com.br/expresso/2021/10/24/O-que-%C3%A9-o-aux%C3%ADlio-diesel.-E-como-os-caminhoneiros-o-recebem)
-- [Qual o papel das prévias numa candidatura presidencial](https://www.nexojornal.com.br/expresso/2021/10/24/Qual-o-papel-das-pr%C3%A9vias-numa-candidatura-presidencial)
-- [‘Absurda e anticientífica’: especialistas repudiam associação entre HIV e vacina](https://www.nexojornal.com.br/extra/2021/10/24/%E2%80%98Absurda-e-anticient%C3%ADfica%E2%80%99-especialistas-repudiam-associa%C3%A7%C3%A3o-entre-HIV-e-vacina)
-- [Roberto Jefferson é internado e defesa diz que ele corre ‘grave risco’](https://www.nexojornal.com.br/extra/2021/10/24/Roberto-Jefferson-%C3%A9-internado-e-defesa-diz-que-ele-corre-%E2%80%98grave-risco%E2%80%99)
+- [Petrobras questiona governo sobre estudos para privatização](https://www.nexojornal.com.br/extra/2021/10/25/Petrobras-questiona-governo-sobre-estudos-para-privatiza%C3%A7%C3%A3o)
+- [Para viajar é só começar: reflexões sobre Brasil e Portugal](https://www.nexojornal.com.br/colunistas/2021/Para-viajar-%C3%A9-s%C3%B3-come%C3%A7ar-reflex%C3%B5es-sobre-Brasil-e-Portugal)
+- [O áudio de Esteves. E os limites da relação entre bancos e o BC](https://www.nexojornal.com.br/expresso/2021/10/25/O-%C3%A1udio-de-Esteves.-E-os-limites-da-rela%C3%A7%C3%A3o-entre-bancos-e-o-BC)
+- [Agronegócio: origem, poder e impactos de um setor-chave](https://www.nexojornal.com.br/explicado/2021/10/25/Agroneg%C3%B3cio-origem-poder-e-impactos-de-um-setor-chave)
+- [CPI da Covid: por que os estados ficaram de fora do relatório](https://www.nexojornal.com.br/expresso/2021/10/25/CPI-da-Covid-por-que-os-estados-ficaram-de-fora-do-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
