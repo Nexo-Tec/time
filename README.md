@@ -57,9 +57,6 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <a href="https://github.com/krollopes">
   <img src="https://github.com/krollopes.png?size=50">
 </a>
-<a href="https://github.com/EmmanoelCoutinho">
-  <img src="https://github.com/EmmanoelCoutinho.png?size=50">
-</a>
 <a href="https://github.com/ibrahimcesar">
   <img src="https://github.com/ibrahimcesar.png?size=50">
 </a>
@@ -89,6 +86,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 </a>
 <a href="https://github.com/arieltonglet">
   <img src="https://github.com/arieltonglet.png?size=50">
+</a>
+<a href="https://github.com/EmmanoelCoutinho">
+  <img src="https://github.com/EmmanoelCoutinho.png?size=50">
 </a>
 <a href="https://github.com/ermsharo">
   <img src="https://github.com/ermsharo.png?size=50">
