@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A BNCC e a educação básica: cartografias de um percurso formativo vivido na e com a rede](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-BNCC-e-a-educa%C3%A7%C3%A3o-b%C3%A1sica-cartografias-de-um-percurso-formativo-vivido-na-e-com-a-rede)
-- [Os desafios da repatriação de arquivos digitais às comunidades indígenas](https://pp.nexojornal.com.br/academico/2021/Os-desafios-da-repatria%C3%A7%C3%A3o-de-arquivos-digitais-%C3%A0s-comunidades-ind%C3%ADgenas)
 - [Bruna Angotti: democracia e habeas corpus coletivos](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/26/Bruna-Angotti-democracia-e-habeas-corpus-coletivos)
 - [Tecnologia para armazenamento geológico de CO2 pode reduzir o aquecimento global](https://pp.nexojornal.com.br/ponto-de-vista/2021/Tecnologia-para-armazenamento-geol%C3%B3gico-de-CO2-pode-reduzir-o-aquecimento-global)
 - [Um balanço da primeira Cúpula de Sistemas Alimentares das Nações Unidas](https://pp.nexojornal.com.br/topico/2021/10/22/Um-balan%C3%A7o-da-primeira-C%C3%BApula-de-Sistemas-Alimentares-das-Na%C3%A7%C3%B5es-Unidas)
+- [Pelas veredas do desenvolvimento sustentável](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pelas-veredas-do-desenvolvimento-sustent%C3%A1vel)
+- [Quais são os impactos de auditorias públicas na corrupção](https://pp.nexojornal.com.br/academico/2021/Quais-s%C3%A3o-os-impactos-de-auditorias-p%C3%BAblicas-na-corrup%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
