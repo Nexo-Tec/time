@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras questiona governo sobre estudos para privatização](https://www.nexojornal.com.br/extra/2021/10/25/Petrobras-questiona-governo-sobre-estudos-para-privatiza%C3%A7%C3%A3o)
-- [Para viajar é só começar: reflexões sobre Brasil e Portugal](https://www.nexojornal.com.br/colunistas/2021/Para-viajar-%C3%A9-s%C3%B3-come%C3%A7ar-reflex%C3%B5es-sobre-Brasil-e-Portugal)
-- [O áudio de Esteves. E os limites da relação entre bancos e o BC](https://www.nexojornal.com.br/expresso/2021/10/25/O-%C3%A1udio-de-Esteves.-E-os-limites-da-rela%C3%A7%C3%A3o-entre-bancos-e-o-BC)
-- [Agronegócio: origem, poder e impactos de um setor-chave](https://www.nexojornal.com.br/explicado/2021/10/25/Agroneg%C3%B3cio-origem-poder-e-impactos-de-um-setor-chave)
-- [CPI da Covid: por que os estados ficaram de fora do relatório](https://www.nexojornal.com.br/expresso/2021/10/25/CPI-da-Covid-por-que-os-estados-ficaram-de-fora-do-relat%C3%B3rio)
+- [Autor de ‘Vale tudo’, Gilberto Braga morre aos 75 anos](https://www.nexojornal.com.br/extra/2021/10/26/Autor-de-%E2%80%98Vale-tudo%E2%80%99-Gilberto-Braga-morre-aos-75-anos1)
+- [Os militares acabaram poupados pela CPI da Covid?](https://www.nexojornal.com.br/expresso/2021/10/26/Os-militares-acabaram-poupados-pela-CPI-da-Covid)
+- [Real é a moeda do G20 que mais perdeu valor no 2º semestre](https://www.nexojornal.com.br/grafico/2021/10/26/Real-%C3%A9-a-moeda-do-G20-que-mais-perdeu-valor-no-2%C2%BA-semestre)
+- [Como a transição energética afeta o futuro da Petrobras](https://www.nexojornal.com.br/expresso/2021/10/26/Como-a-transi%C3%A7%C3%A3o-energ%C3%A9tica-afeta-o-futuro-da-Petrobras)
+- [Ainda sobre a governança federativa na educação](https://www.nexojornal.com.br/colunistas/2021/Ainda-sobre-a-governan%C3%A7a-federativa-na-educa%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
