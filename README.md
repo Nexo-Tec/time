@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Autor de ‘Vale tudo’, Gilberto Braga morre aos 75 anos](https://www.nexojornal.com.br/extra/2021/10/26/Autor-de-%E2%80%98Vale-tudo%E2%80%99-Gilberto-Braga-morre-aos-75-anos1)
-- [Os militares acabaram poupados pela CPI da Covid?](https://www.nexojornal.com.br/expresso/2021/10/26/Os-militares-acabaram-poupados-pela-CPI-da-Covid)
-- [Real é a moeda do G20 que mais perdeu valor no 2º semestre](https://www.nexojornal.com.br/grafico/2021/10/26/Real-%C3%A9-a-moeda-do-G20-que-mais-perdeu-valor-no-2%C2%BA-semestre)
-- [Como a transição energética afeta o futuro da Petrobras](https://www.nexojornal.com.br/expresso/2021/10/26/Como-a-transi%C3%A7%C3%A3o-energ%C3%A9tica-afeta-o-futuro-da-Petrobras)
-- [Ainda sobre a governança federativa na educação](https://www.nexojornal.com.br/colunistas/2021/Ainda-sobre-a-governan%C3%A7a-federativa-na-educa%C3%A7%C3%A3o)
+- [O caso Maurício Souza e o paradoxo da tolerância](https://www.nexojornal.com.br/expresso/2021/10/27/O-caso-Maur%C3%ADcio-Souza-e-o-paradoxo-da-toler%C3%A2ncia)
+- [Ação de Bolsonaro contra CPI da Covid tem Moraes como relator](https://www.nexojornal.com.br/extra/2021/10/27/A%C3%A7%C3%A3o-de-Bolsonaro-contra-CPI-da-Covid-tem-Moraes-como-relator)
+- [A mobilidade urbana a partir da perspectiva das mulheres](https://www.nexojornal.com.br/academico/2021/10/27/A-mobilidade-urbana-a-partir-da-perspectiva-das-mulheres)
+- [As flexibilizações no uso de máscaras em espaços abertos no país](https://www.nexojornal.com.br/expresso/2021/10/27/As-flexibiliza%C3%A7%C3%B5es-no-uso-de-m%C3%A1scaras-em-espa%C3%A7os-abertos-no-pa%C3%ADs)
+- [Bolsonaro abandona entrevista após pergunta sobre rachadinha](https://www.nexojornal.com.br/extra/2021/10/27/Bolsonaro-abandona-entrevista-ap%C3%B3s-pergunta-sobre-rachadinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
