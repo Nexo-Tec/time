@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Rosa Moraes](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-rosa-moraes/)
-- [Round 6 e o sucesso dos ‘Death Games’](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/round-6-e-o-sucesso-dos-death-games/)
-- [Sanduicheira de fogão](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sanduicheira-de-fogao/)
-- [Uma volta em muitas voltas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-volta-em-muitas-voltas/)
-- [@rafaelfreiiire](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaelfreiiire/)
+- [Documentário ‘The Velvet Underground’, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-the-velvet-underground-na-apple-tv/)
+- [Exposição multimídia celebra obra de Rafael Sanzio](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-multimidia-celebra-obra-de-rafael-sanzio/)
+- [A série de terror e comédia ‘What We Do in the Shadows’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-serie-de-terror-e-comedia-what-we-do-in-the-shadows/)
+- [Mais de 450 cursos nas melhores universidades americanas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/mais-de-450-cursos-nas-melhores-universidades-americanas/)
+- [‘Abrasileirar’, novo canal sobre coquetéis e cultura nacional](https://gamarevista.uol.com.br/achamos-que-vale/assistir/abrasileirar-novo-canal-sobre-coqueteis-e-cultura-nacional/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
