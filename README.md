@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE forma maioria contra cassação da chapa Bolsonaro-Mourão](https://www.nexojornal.com.br/extra/2021/10/28/TSE-forma-maioria-contra-cassa%C3%A7%C3%A3o-da-chapa-Bolsonaro-Mour%C3%A3o)
-- [Deputados aprovam fim da meia-entrada em São Paulo](https://www.nexojornal.com.br/extra/2021/10/28/Deputados-aprovam-fim-da-meia-entrada-em-S%C3%A3o-Paulo)
 - [O caso Maurício Souza e o paradoxo da tolerância](https://www.nexojornal.com.br/expresso/2021/10/27/O-caso-Maur%C3%ADcio-Souza-e-o-paradoxo-da-toler%C3%A2ncia)
 - [Ação de Bolsonaro contra CPI da Covid tem Moraes como relator](https://www.nexojornal.com.br/extra/2021/10/27/A%C3%A7%C3%A3o-de-Bolsonaro-contra-CPI-da-Covid-tem-Moraes-como-relator)
 - [A mobilidade urbana a partir da perspectiva das mulheres](https://www.nexojornal.com.br/academico/2021/10/27/A-mobilidade-urbana-a-partir-da-perspectiva-das-mulheres)
+- [As flexibilizações no uso de máscaras em espaços abertos no país](https://www.nexojornal.com.br/expresso/2021/10/27/As-flexibiliza%C3%A7%C3%B5es-no-uso-de-m%C3%A1scaras-em-espa%C3%A7os-abertos-no-pa%C3%ADs)
+- [Bolsonaro abandona entrevista após pergunta sobre rachadinha](https://www.nexojornal.com.br/extra/2021/10/27/Bolsonaro-abandona-entrevista-ap%C3%B3s-pergunta-sobre-rachadinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
