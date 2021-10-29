@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE forma maioria contra cassação da chapa Bolsonaro-Mourão](https://www.nexojornal.com.br/extra/2021/10/28/TSE-forma-maioria-contra-cassa%C3%A7%C3%A3o-da-chapa-Bolsonaro-Mour%C3%A3o)
-- [Deputados aprovam fim da meia-entrada em São Paulo](https://www.nexojornal.com.br/extra/2021/10/28/Deputados-aprovam-fim-da-meia-entrada-em-S%C3%A3o-Paulo)
-- [O caso Maurício Souza e o paradoxo da tolerância](https://www.nexojornal.com.br/expresso/2021/10/27/O-caso-Maur%C3%ADcio-Souza-e-o-paradoxo-da-toler%C3%A2ncia)
-- [Ação de Bolsonaro contra CPI da Covid tem Moraes como relator](https://www.nexojornal.com.br/extra/2021/10/27/A%C3%A7%C3%A3o-de-Bolsonaro-contra-CPI-da-Covid-tem-Moraes-como-relator)
-- [A mobilidade urbana a partir da perspectiva das mulheres](https://www.nexojornal.com.br/academico/2021/10/27/A-mobilidade-urbana-a-partir-da-perspectiva-das-mulheres)
+- [Governo dispensa nomeado a programa de imunização na posse](https://www.nexojornal.com.br/extra/2021/10/28/Governo-dispensa-nomeado-a-programa-de-imuniza%C3%A7%C3%A3o-na-posse)
+- [Por que a ‘geringonça’ do governo português pode acabar](https://www.nexojornal.com.br/expresso/2021/10/28/Por-que-a-%E2%80%98geringon%C3%A7a%E2%80%99-do-governo-portugu%C3%AAs-pode-acabar)
+- [Os cordéis e as notícias: a rede e o fio que nos unem](https://www.nexojornal.com.br/colunistas/2021/Os-cord%C3%A9is-e-as-not%C3%ADcias-a-rede-e-o-fio-que-nos-unem)
+- [‘O Facebook está em um ponto de inflexão, que pode ser positivo’](https://www.nexojornal.com.br/entrevista/2021/10/28/%E2%80%98O-Facebook-est%C3%A1-em-um-ponto-de-inflex%C3%A3o-que-pode-ser-positivo%E2%80%99)
+- [Do ‘calote’ ao fura-teto: o impasse da PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/10/28/Do-%E2%80%98calote%E2%80%99-ao-fura-teto-o-impasse-da-PEC-dos-Precat%C3%B3rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
