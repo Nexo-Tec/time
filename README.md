@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo dispensa nomeado a programa de imunização na posse](https://www.nexojornal.com.br/extra/2021/10/28/Governo-dispensa-nomeado-a-programa-de-imuniza%C3%A7%C3%A3o-na-posse)
-- [Por que a ‘geringonça’ do governo português pode acabar](https://www.nexojornal.com.br/expresso/2021/10/28/Por-que-a-%E2%80%98geringon%C3%A7a%E2%80%99-do-governo-portugu%C3%AAs-pode-acabar)
-- [Os cordéis e as notícias: a rede e o fio que nos unem](https://www.nexojornal.com.br/colunistas/2021/Os-cord%C3%A9is-e-as-not%C3%ADcias-a-rede-e-o-fio-que-nos-unem)
-- [‘O Facebook está em um ponto de inflexão, que pode ser positivo’](https://www.nexojornal.com.br/entrevista/2021/10/28/%E2%80%98O-Facebook-est%C3%A1-em-um-ponto-de-inflex%C3%A3o-que-pode-ser-positivo%E2%80%99)
-- [Do ‘calote’ ao fura-teto: o impasse da PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/10/28/Do-%E2%80%98calote%E2%80%99-ao-fura-teto-o-impasse-da-PEC-dos-Precat%C3%B3rios)
+- [Acordo com estados congela ICMS dos combustíveis por 90 dias](https://www.nexojornal.com.br/extra/2021/10/29/Acordo-com-estados-congela-ICMS-dos-combust%C3%ADveis-por-90-dias)
+- [‘Falta consolidar a ideia de que a área de saúde gera segurança’](https://www.nexojornal.com.br/podcast/2021/10/29/%E2%80%98Falta-consolidar-a-ideia-de-que-a-%C3%A1rea-de-sa%C3%BAde-gera-seguran%C3%A7a%E2%80%99)
+- [Pix começa a permitir pagamentos fora de apps de bancos](https://www.nexojornal.com.br/extra/2021/10/29/Pix-come%C3%A7a-a-permitir-pagamentos-fora-de-apps-de-bancos)
+- [Bolsonaro chega a Roma para encontro do G20](https://www.nexojornal.com.br/extra/2021/10/29/Bolsonaro-chega-a-Roma-para-encontro-do-G20)
+- [Bolsa Família faz último depósito, depois de 18 anos de criação](https://www.nexojornal.com.br/extra/2021/10/29/Bolsa-Fam%C3%ADlia-faz-%C3%BAltimo-dep%C3%B3sito-depois-de-18-anos-de-cria%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
