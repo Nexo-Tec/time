@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [‘É uma reparação histórica’](https://gamarevista.uol.com.br/formato/depoimento/escola-antirracista-e-uma-reparacao-historica/)
 - [De volta à pista](https://gamarevista.uol.com.br/relacoes/de-volta-a-pista/)
 - [Trabalho Doméstico](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trabalho-domestico/)
 - [Documentário ‘The Velvet Underground’, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-the-velvet-underground-na-apple-tv/)
 - [Exposição multimídia celebra obra de Rafael Sanzio](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-multimidia-celebra-obra-de-rafael-sanzio/)
-- [A série de terror e comédia ‘What We Do in the Shadows’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-serie-de-terror-e-comedia-what-we-do-in-the-shadows/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
