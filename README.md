@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Marcelo Tas](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcelo-tas/)
+- [COP26: os compromissos da conferência e como podemos combater a crise climática](https://gamarevista.uol.com.br/especial/cop26-os-compromissos-da-conferencia-e-como-podemos-combater-a-crise-climatica/)
 - [‘É uma reparação histórica’](https://gamarevista.uol.com.br/formato/depoimento/escola-antirracista-e-uma-reparacao-historica/)
 - [De volta à pista](https://gamarevista.uol.com.br/relacoes/de-volta-a-pista/)
 - [Trabalho Doméstico](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trabalho-domestico/)
-- [Documentário ‘The Velvet Underground’, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-the-velvet-underground-na-apple-tv/)
-- [Exposição multimídia celebra obra de Rafael Sanzio](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-multimidia-celebra-obra-de-rafael-sanzio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
