@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo de SP veta fim da meia-entrada aprovado por deputados](https://www.nexojornal.com.br/extra/2021/10/30/Governo-de-SP-veta-fim-da-meia-entrada-aprovado-por-deputados)
+- [Em conversa no G20, Bolsonaro diz que ‘Petrobras é um problema’](https://www.nexojornal.com.br/extra/2021/10/30/Em-conversa-no-G20-Bolsonaro-diz-que-%E2%80%98Petrobras-%C3%A9-um-problema%E2%80%99)
 - [Descobrir origem do coronavírus pode ser impossível, dizem EUA](https://www.nexojornal.com.br/extra/2021/10/29/Descobrir-origem-do-coronav%C3%ADrus-pode-ser-imposs%C3%ADvel-dizem-EUA)
 - [Rodrigo Pacheco: a carta do PSD de Kassab para 2022](https://www.nexojornal.com.br/expresso/2021/10/29/Rodrigo-Pacheco-a-carta-do-PSD-de-Kassab-para-2022)
 - [Por que o papel estratégico da Petrobras causa tanta divisão](https://www.nexojornal.com.br/expresso/2021/10/29/Por-que-o-papel-estrat%C3%A9gico-da-Petrobras-causa-tanta-divis%C3%A3o)
-- [O estudo que mostra que os animais estão em extinção na ficção](https://www.nexojornal.com.br/expresso/2021/10/29/O-estudo-que-mostra-que-os-animais-est%C3%A3o-em-extin%C3%A7%C3%A3o-na-fic%C3%A7%C3%A3o)
-- [Devoradoras de mundos](https://www.nexojornal.com.br/externo/2021/10/29/Devoradoras-de-mundos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
