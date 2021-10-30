@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo dispensa nomeado a programa de imunização na posse](https://www.nexojornal.com.br/extra/2021/10/28/Governo-dispensa-nomeado-a-programa-de-imuniza%C3%A7%C3%A3o-na-posse)
-- [Por que a ‘geringonça’ do governo português pode acabar](https://www.nexojornal.com.br/expresso/2021/10/28/Por-que-a-%E2%80%98geringon%C3%A7a%E2%80%99-do-governo-portugu%C3%AAs-pode-acabar)
-- [Os cordéis e as notícias: a rede e o fio que nos unem](https://www.nexojornal.com.br/colunistas/2021/Os-cord%C3%A9is-e-as-not%C3%ADcias-a-rede-e-o-fio-que-nos-unem)
-- [‘O Facebook está em um ponto de inflexão, que pode ser positivo’](https://www.nexojornal.com.br/entrevista/2021/10/28/%E2%80%98O-Facebook-est%C3%A1-em-um-ponto-de-inflex%C3%A3o-que-pode-ser-positivo%E2%80%99)
-- [Do ‘calote’ ao fura-teto: o impasse da PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/10/28/Do-%E2%80%98calote%E2%80%99-ao-fura-teto-o-impasse-da-PEC-dos-Precat%C3%B3rios)
+- [Descobrir origem do coronavírus pode ser impossível, dizem EUA](https://www.nexojornal.com.br/extra/2021/10/29/Descobrir-origem-do-coronav%C3%ADrus-pode-ser-imposs%C3%ADvel-dizem-EUA)
+- [Rodrigo Pacheco: a carta do PSD de Kassab para 2022](https://www.nexojornal.com.br/expresso/2021/10/29/Rodrigo-Pacheco-a-carta-do-PSD-de-Kassab-para-2022)
+- [Por que o papel estratégico da Petrobras causa tanta divisão](https://www.nexojornal.com.br/expresso/2021/10/29/Por-que-o-papel-estrat%C3%A9gico-da-Petrobras-causa-tanta-divis%C3%A3o)
+- [O estudo que mostra que os animais estão em extinção na ficção](https://www.nexojornal.com.br/expresso/2021/10/29/O-estudo-que-mostra-que-os-animais-est%C3%A3o-em-extin%C3%A7%C3%A3o-na-fic%C3%A7%C3%A3o)
+- [Devoradoras de mundos](https://www.nexojornal.com.br/externo/2021/10/29/Devoradoras-de-mundos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
