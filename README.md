@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Acordo com estados congela ICMS dos combustíveis por 90 dias](https://www.nexojornal.com.br/extra/2021/10/29/Acordo-com-estados-congela-ICMS-dos-combust%C3%ADveis-por-90-dias)
-- [‘Falta consolidar a ideia de que a área de saúde gera segurança’](https://www.nexojornal.com.br/podcast/2021/10/29/%E2%80%98Falta-consolidar-a-ideia-de-que-a-%C3%A1rea-de-sa%C3%BAde-gera-seguran%C3%A7a%E2%80%99)
-- [Pix começa a permitir pagamentos fora de apps de bancos](https://www.nexojornal.com.br/extra/2021/10/29/Pix-come%C3%A7a-a-permitir-pagamentos-fora-de-apps-de-bancos)
-- [Bolsonaro chega a Roma para encontro do G20](https://www.nexojornal.com.br/extra/2021/10/29/Bolsonaro-chega-a-Roma-para-encontro-do-G20)
-- [Bolsa Família faz último depósito, depois de 18 anos de criação](https://www.nexojornal.com.br/extra/2021/10/29/Bolsa-Fam%C3%ADlia-faz-%C3%BAltimo-dep%C3%B3sito-depois-de-18-anos-de-cria%C3%A7%C3%A3o)
+- [Descobrir origem do coronavírus pode ser impossível, dizem EUA](https://www.nexojornal.com.br/extra/2021/10/29/Descobrir-origem-do-coronav%C3%ADrus-pode-ser-imposs%C3%ADvel-dizem-EUA)
+- [Rodrigo Pacheco: a carta do PSD de Kassab para 2022](https://www.nexojornal.com.br/expresso/2021/10/29/Rodrigo-Pacheco-a-carta-do-PSD-de-Kassab-para-2022)
+- [Por que o papel estratégico da Petrobras causa tanta divisão](https://www.nexojornal.com.br/expresso/2021/10/29/Por-que-o-papel-estrat%C3%A9gico-da-Petrobras-causa-tanta-divis%C3%A3o)
+- [O estudo que mostra que os animais estão em extinção na ficção](https://www.nexojornal.com.br/expresso/2021/10/29/O-estudo-que-mostra-que-os-animais-est%C3%A3o-em-extin%C3%A7%C3%A3o-na-fic%C3%A7%C3%A3o)
+- [Devoradoras de mundos](https://www.nexojornal.com.br/externo/2021/10/29/Devoradoras-de-mundos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
