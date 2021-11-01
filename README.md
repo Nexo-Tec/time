@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que mais gosto de fazer é nada](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-que-mais-gosto-de-fazer-e-nada/)
 - [@thesineadburke](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thesineadburke/)
 - [‘Informação centralizada pode levar à vigilância e à restrição de direitos’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lgpd-tem-alguem-olhando/)
 - [Marcelo Tas](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcelo-tas/)
 - [COP26: os compromissos da conferência e como podemos combater a crise climática](https://gamarevista.uol.com.br/especial/cop26-os-compromissos-da-conferencia-e-como-podemos-combater-a-crise-climatica/)
-- [‘É uma reparação histórica’](https://gamarevista.uol.com.br/formato/depoimento/escola-antirracista-e-uma-reparacao-historica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
