@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Colômbia começa a vacinar crianças de 3 a 11 anos com Coronavac](https://www.nexojornal.com.br/extra/2021/10/30/Col%C3%B4mbia-come%C3%A7a-a-vacinar-crian%C3%A7as-de-3-a-11-anos-com-Coronavac1)
-- [Auxílio Brasil começa a ser pago em 17 de novembro](https://www.nexojornal.com.br/extra/2021/10/30/Aux%C3%ADlio-Brasil-come%C3%A7a-a-ser-pago-em-17-de-novembro)
-- [Boris Johnson diz que chances de sucesso da COP26 são de 60%](https://www.nexojornal.com.br/extra/2021/10/30/Boris-Johnson-diz-que-chances-de-sucesso-da-COP26-s%C3%A3o-de-60)
-- [Por que a COP26 interessa diretamente a você](https://www.nexojornal.com.br/expresso/2021/10/30/Por-que-a-COP26-interessa-diretamente-a-voc%C3%AA)
-- [‘Interesse pela CPI da Covid era inevitável pelo desejo de justiça’](https://www.nexojornal.com.br/entrevista/2021/10/30/%E2%80%98Interesse-pela-CPI-da-Covid-era-inevit%C3%A1vel-pelo-desejo-de-justi%C3%A7a%E2%80%99)
+- [O livro de Bill Gates sobre a crise do clima, gratuito a estudantes](https://www.nexojornal.com.br/expresso/2021/10/31/O-livro-de-Bill-Gates-sobre-a-crise-do-clima-gratuito-a-estudantes)
+- [Agenda 2030 da ONU no contraponto à omissão federal](https://www.nexojornal.com.br/ensaio/2021/Agenda-2030-da-ONU-no-contraponto-%C3%A0-omiss%C3%A3o-federal)
+- [‘Países com sistema público de saúde reagem melhor a pandemias’](https://www.nexojornal.com.br/entrevista/2021/10/31/%E2%80%98Pa%C3%ADses-com-sistema-p%C3%BAblico-de-sa%C3%BAde-reagem-melhor-a-pandemias%E2%80%99)
+- [​​Quais as diferenças entre o Auxílio Brasil e o Bolsa Família](https://www.nexojornal.com.br/expresso/2021/10/31/%E2%80%8B%E2%80%8BQuais-as-diferen%C3%A7as-entre-o-Aux%C3%ADlio-Brasil-e-o-Bolsa-Fam%C3%ADlia)
+- [Jornalistas são agredidos por seguranças de Bolsonaro em Roma](https://www.nexojornal.com.br/extra/2021/10/31/Jornalistas-s%C3%A3o-agredidos-por-seguran%C3%A7as-de-Bolsonaro-em-Roma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
