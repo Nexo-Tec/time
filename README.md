@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Uso de biquíni deixa de ser obrigatório no handebol de praia](https://www.nexojornal.com.br/extra/2021/11/01/Uso-de-biqu%C3%ADni-deixa-de-ser-obrigat%C3%B3rio-no-handebol-de-praia)
-- [Governo Bolsonaro proíbe demissão de não vacinados](https://www.nexojornal.com.br/extra/2021/11/01/Governo-Bolsonaro-pro%C3%ADbe-demiss%C3%A3o-de-n%C3%A3o-vacinados)
-- [O movimento de Moro para aparecer. E da Lava Jato para ‘sumir’](https://www.nexojornal.com.br/podcast/2021/11/01/O-movimento-de-Moro-para-aparecer.-E-da-Lava-Jato-para-%E2%80%98sumir%E2%80%99)
-- [Com covid descontrolada, Putin quer ajuda do Exército](https://www.nexojornal.com.br/extra/2021/11/01/Com-covid-descontrolada-Putin-quer-ajuda-do-Ex%C3%A9rcito)
-- [O robô que julga a ética e a moral de ações humanas](https://www.nexojornal.com.br/expresso/2021/11/01/O-rob%C3%B4-que-julga-a-%C3%A9tica-e-a-moral-de-a%C3%A7%C3%B5es-humanas)
+- [O livro de Bill Gates sobre a crise do clima, gratuito a estudantes](https://www.nexojornal.com.br/expresso/2021/10/31/O-livro-de-Bill-Gates-sobre-a-crise-do-clima-gratuito-a-estudantes)
+- [Agenda 2030 da ONU no contraponto à omissão federal](https://www.nexojornal.com.br/ensaio/2021/Agenda-2030-da-ONU-no-contraponto-%C3%A0-omiss%C3%A3o-federal)
+- [‘Países com sistema público de saúde reagem melhor a pandemias’](https://www.nexojornal.com.br/entrevista/2021/10/31/%E2%80%98Pa%C3%ADses-com-sistema-p%C3%BAblico-de-sa%C3%BAde-reagem-melhor-a-pandemias%E2%80%99)
+- [​​Quais as diferenças entre o Auxílio Brasil e o Bolsa Família](https://www.nexojornal.com.br/expresso/2021/10/31/%E2%80%8B%E2%80%8BQuais-as-diferen%C3%A7as-entre-o-Aux%C3%ADlio-Brasil-e-o-Bolsa-Fam%C3%ADlia)
+- [Jornalistas são agredidos por seguranças de Bolsonaro em Roma](https://www.nexojornal.com.br/extra/2021/10/31/Jornalistas-s%C3%A3o-agredidos-por-seguran%C3%A7as-de-Bolsonaro-em-Roma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
