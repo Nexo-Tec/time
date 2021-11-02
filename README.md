@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O livro de Bill Gates sobre a crise do clima, gratuito a estudantes](https://www.nexojornal.com.br/expresso/2021/10/31/O-livro-de-Bill-Gates-sobre-a-crise-do-clima-gratuito-a-estudantes)
-- [Agenda 2030 da ONU no contraponto à omissão federal](https://www.nexojornal.com.br/ensaio/2021/Agenda-2030-da-ONU-no-contraponto-%C3%A0-omiss%C3%A3o-federal)
-- [‘Países com sistema público de saúde reagem melhor a pandemias’](https://www.nexojornal.com.br/entrevista/2021/10/31/%E2%80%98Pa%C3%ADses-com-sistema-p%C3%BAblico-de-sa%C3%BAde-reagem-melhor-a-pandemias%E2%80%99)
-- [​​Quais as diferenças entre o Auxílio Brasil e o Bolsa Família](https://www.nexojornal.com.br/expresso/2021/10/31/%E2%80%8B%E2%80%8BQuais-as-diferen%C3%A7as-entre-o-Aux%C3%ADlio-Brasil-e-o-Bolsa-Fam%C3%ADlia)
-- [Jornalistas são agredidos por seguranças de Bolsonaro em Roma](https://www.nexojornal.com.br/extra/2021/10/31/Jornalistas-s%C3%A3o-agredidos-por-seguran%C3%A7as-de-Bolsonaro-em-Roma)
+- [Os embates em torno do lançamento do filme ‘Marighella’](https://www.nexojornal.com.br/expresso/2021/11/02/Os-embates-em-torno-do-lan%C3%A7amento-do-filme-%E2%80%98Marighella%E2%80%99)
+- [Por que a promessa do Brasil na COP26 é vista com ceticismo](https://www.nexojornal.com.br/expresso/2021/11/01/Por-que-a-promessa-do-Brasil-na-COP26-%C3%A9-vista-com-ceticismo)
+- [Como a vacinação de crianças contra a covid avança no mundo](https://www.nexojornal.com.br/expresso/2021/11/01/Como-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-contra-a-covid-avan%C3%A7a-no-mundo)
+- [Fim do Bolsa Família: à mercê da ‘bondade’ das pessoas ruins](https://www.nexojornal.com.br/colunistas/2021/Fim-do-Bolsa-Fam%C3%ADlia-%C3%A0-merc%C3%AA-da-%E2%80%98bondade%E2%80%99-das-pessoas-ruins)
+- [85,3% da energia no mundo ainda vem de fontes poluentes](https://www.nexojornal.com.br/grafico/2021/11/01/853-da-energia-no-mundo-ainda-vem-de-fontes-poluentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
