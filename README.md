@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que é racismo ambiental?](https://gamarevista.uol.com.br/especial/o-que-e-racismo-ambiental/)
 - [Calça Legging](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/calca-legging/)
 - [O que mais gosto de fazer é nada](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-que-mais-gosto-de-fazer-e-nada/)
 - [@thesineadburke](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thesineadburke/)
 - [‘Informação centralizada pode levar à vigilância e à restrição de direitos’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lgpd-tem-alguem-olhando/)
-- [Marcelo Tas](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcelo-tas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
