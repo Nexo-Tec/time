@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os embates em torno do lançamento do filme ‘Marighella’](https://www.nexojornal.com.br/expresso/2021/11/02/Os-embates-em-torno-do-lan%C3%A7amento-do-filme-%E2%80%98Marighella%E2%80%99)
-- [Por que a promessa do Brasil na COP26 é vista com ceticismo](https://www.nexojornal.com.br/expresso/2021/11/01/Por-que-a-promessa-do-Brasil-na-COP26-%C3%A9-vista-com-ceticismo)
-- [Como a vacinação de crianças contra a covid avança no mundo](https://www.nexojornal.com.br/expresso/2021/11/01/Como-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-contra-a-covid-avan%C3%A7a-no-mundo)
-- [Fim do Bolsa Família: à mercê da ‘bondade’ das pessoas ruins](https://www.nexojornal.com.br/colunistas/2021/Fim-do-Bolsa-Fam%C3%ADlia-%C3%A0-merc%C3%AA-da-%E2%80%98bondade%E2%80%99-das-pessoas-ruins)
-- [85,3% da energia no mundo ainda vem de fontes poluentes](https://www.nexojornal.com.br/grafico/2021/11/01/853-da-energia-no-mundo-ainda-vem-de-fontes-poluentes)
+- [Os planos de criar uma ‘Orlando brasileira’ no interior paulista](https://www.nexojornal.com.br/expresso/2021/11/02/Os-planos-de-criar-uma-%E2%80%98Orlando-brasileira%E2%80%99-no-interior-paulista)
+- [Vivemos tempos de lutos reprimidos e silenciados](https://www.nexojornal.com.br/colunistas/2021/Vivemos-tempos-de-lutos-reprimidos-e-silenciados)
+- [O que muda na punição de gestores com a nova Lei de Improbidade](https://www.nexojornal.com.br/expresso/2021/11/02/O-que-muda-na-puni%C3%A7%C3%A3o-de-gestores-com-a-nova-Lei-de-Improbidade)
+- [O que é financiamento climático. E por que ele é central na COP26](https://www.nexojornal.com.br/expresso/2021/11/02/O-que-%C3%A9-financiamento-clim%C3%A1tico.-E-por-que-ele-%C3%A9-central-na-COP26)
+- [Governo chinês pede que cidadãos estoquem mantimentos](https://www.nexojornal.com.br/extra/2021/11/02/Governo-chin%C3%AAs-pede-que-cidad%C3%A3os-estoquem-mantimentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
