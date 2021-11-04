@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
+- [‘Vingança & Castigo’, faroeste produzido por Jay Z](https://gamarevista.uol.com.br/achamos-que-vale/assistir/vinganca-castigo-faroeste-produzido-por-jay-z/)
+- [Um volume com toda ficção do chileno Alejandro Zambra](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-volume-com-toda-ficcao-do-chileno-alejandro-zambra/)
+- [Exposição recupera memória da ditadura brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-recupera-memoria-da-ditadura-brasileira/)
 - [5 dicas para ter um lar mais sustentável](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/5-dicas-para-uma-casa-mais-sustentavel/)
-- [Se é difícil sair da caverna, abra-a para os amigos](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/se-e-dificil-sair-da-caverna-abra-a-para-os-amigos/)
-- [O que é racismo ambiental?](https://gamarevista.uol.com.br/especial/o-que-e-racismo-ambiental/)
-- [Calça Legging](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/calca-legging/)
-- [O que mais gosto de fazer é nada](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-que-mais-gosto-de-fazer-e-nada/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
