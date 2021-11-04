@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Soluções baseadas na natureza e o enfrentamento das mudanças climáticas](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/04/Solu%C3%A7%C3%B5es-baseadas-na-natureza-e-o-enfrentamento-das-mudan%C3%A7as-clim%C3%A1ticas)
+- [Política Racial Brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADtica-Racial-Brasileira)
+- [Quilombolas: crise institucionalizada](https://pp.nexojornal.com.br/opiniao/2021/Quilombolas-crise-institucionalizada)
 - [COP26: especialistas de Princeton identificam prioridades e apontam ações globais para o futuro](https://pp.nexojornal.com.br/topico/2021/11/03/COP26-especialistas-de-Princeton-identificam-prioridades-e-apontam-a%C3%A7%C3%B5es-globais-para-o-futuro)
 - [David Lapola: mudanças climáticas e soluções baseadas na natureza](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/10/28/David-Lapola-mudan%C3%A7as-clim%C3%A1ticas-e-solu%C3%A7%C3%B5es-baseadas-na-natureza)
-- [Sistema de justiça criminal e questão racial](https://pp.nexojornal.com.br/glossario/Sistema-de-justi%C3%A7a-criminal-e-quest%C3%A3o-racial)
-- [A BNCC e a educação básica: cartografias de um percurso formativo vivido na e com a rede](https://pp.nexojornal.com.br/ponto-de-vista/2021/A-BNCC-e-a-educa%C3%A7%C3%A3o-b%C3%A1sica-cartografias-de-um-percurso-formativo-vivido-na-e-com-a-rede)
-- [Os desafios da repatriação de arquivos digitais às comunidades indígenas](https://pp.nexojornal.com.br/academico/2021/Os-desafios-da-repatria%C3%A7%C3%A3o-de-arquivos-digitais-%C3%A0s-comunidades-ind%C3%ADgenas)
 <!-- PP_LIST:END -->
 
