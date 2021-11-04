@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os planos de criar uma ‘Orlando brasileira’ no interior paulista](https://www.nexojornal.com.br/expresso/2021/11/02/Os-planos-de-criar-uma-%E2%80%98Orlando-brasileira%E2%80%99-no-interior-paulista)
-- [Vivemos tempos de lutos reprimidos e silenciados](https://www.nexojornal.com.br/colunistas/2021/Vivemos-tempos-de-lutos-reprimidos-e-silenciados)
-- [O que muda na punição de gestores com a nova Lei de Improbidade](https://www.nexojornal.com.br/expresso/2021/11/02/O-que-muda-na-puni%C3%A7%C3%A3o-de-gestores-com-a-nova-Lei-de-Improbidade)
-- [O que é financiamento climático. E por que ele é central na COP26](https://www.nexojornal.com.br/expresso/2021/11/02/O-que-%C3%A9-financiamento-clim%C3%A1tico.-E-por-que-ele-%C3%A9-central-na-COP26)
-- [Governo chinês pede que cidadãos estoquem mantimentos](https://www.nexojornal.com.br/extra/2021/11/02/Governo-chin%C3%AAs-pede-que-cidad%C3%A3os-estoquem-mantimentos)
+- [Por que a meta de 1,5ºC é fundamental nas discussões da COP26](https://www.nexojornal.com.br/expresso/2021/11/03/Por-que-a-meta-de-15%C2%BAC-%C3%A9-fundamental-nas-discuss%C3%B5es-da-COP26)
+- [O embate em torno da demissão de quem recusa a vacina](https://www.nexojornal.com.br/expresso/2021/11/03/O-embate-em-torno-da-demiss%C3%A3o-de-quem-recusa-a-vacina)
+- [O que você precisa saber sobre o leilão do 5G](https://www.nexojornal.com.br/expresso/2021/11/03/O-que-voc%C3%AA-precisa-saber-sobre-o-leil%C3%A3o-do-5G)
+- [Por que desfinanciar a ciência é péssima economia](https://www.nexojornal.com.br/colunistas/2021/Por-que-desfinanciar-a-ci%C3%AAncia-%C3%A9-p%C3%A9ssima-economia)
+- [Rede contesta no Supremo veto a demissões de não vacinados](https://www.nexojornal.com.br/extra/2021/11/03/Rede-contesta-no-Supremo-veto-a-demiss%C3%B5es-de-n%C3%A3o-vacinados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
