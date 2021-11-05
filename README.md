@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a meta de 1,5ºC é fundamental nas discussões da COP26](https://www.nexojornal.com.br/expresso/2021/11/03/Por-que-a-meta-de-15%C2%BAC-%C3%A9-fundamental-nas-discuss%C3%B5es-da-COP26)
-- [O embate em torno da demissão de quem recusa a vacina](https://www.nexojornal.com.br/expresso/2021/11/03/O-embate-em-torno-da-demiss%C3%A3o-de-quem-recusa-a-vacina)
-- [O que você precisa saber sobre o leilão do 5G](https://www.nexojornal.com.br/expresso/2021/11/03/O-que-voc%C3%AA-precisa-saber-sobre-o-leil%C3%A3o-do-5G)
-- [Por que desfinanciar a ciência é péssima economia](https://www.nexojornal.com.br/colunistas/2021/Por-que-desfinanciar-a-ci%C3%AAncia-%C3%A9-p%C3%A9ssima-economia)
-- [Rede contesta no Supremo veto a demissões de não vacinados](https://www.nexojornal.com.br/extra/2021/11/03/Rede-contesta-no-Supremo-veto-a-demiss%C3%B5es-de-n%C3%A3o-vacinados)
+- [Como a desigualdade de acesso à internet afeta a chegada do 5G](https://www.nexojornal.com.br/expresso/2021/11/04/Como-a-desigualdade-de-acesso-%C3%A0-internet-afeta-a-chegada-do-5G)
+- [Qual é o papel da cultura para o Brasil no século 21](https://www.nexojornal.com.br/ensaio/2021/Qual-%C3%A9-o-papel-da-cultura-para-o-Brasil-no-s%C3%A9culo-21)
+- [A crise entre Ciro e o PDT após a PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/11/04/A-crise-entre-Ciro-e-o-PDT-ap%C3%B3s-a-PEC-dos-Precat%C3%B3rios)
+- [Como o racismo se conecta à mudança climática](https://www.nexojornal.com.br/expresso/2021/11/04/Como-o-racismo-se-conecta-%C3%A0-mudan%C3%A7a-clim%C3%A1tica)
+- [Brigitte Bardot recebe multa de 20 mil euros por insultos racistas](https://www.nexojornal.com.br/extra/2021/11/04/Brigitte-Bardot-recebe-multa-de-20-mil-euros-por-insultos-racistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
