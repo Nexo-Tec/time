@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TRF-1 autoriza quebra de sigilo de advogado de Adélio Bispo](https://www.nexojornal.com.br/extra/2021/11/04/TRF-1-autoriza-quebra-de-sigilo-de-advogado-de-Ad%C3%A9lio-Bispo)
-- [Reino Unido aprova pílula para tratamento da covid](https://www.nexojornal.com.br/extra/2021/11/04/Reino-Unido-aprova-p%C3%ADlula-para-tratamento-da-covid)
-- [Ciro suspende pré-candidatura após apoio do PDT à PEC](https://www.nexojornal.com.br/extra/2021/11/04/Ciro-suspende-pr%C3%A9-candidatura-ap%C3%B3s-apoio-do-PDT-%C3%A0-PEC)
-- [Câmara aprova texto-base da PEC dos Precatórios em 1º turno](https://www.nexojornal.com.br/extra/2021/11/04/C%C3%A2mara-aprova-texto-base-da-PEC-dos-Precat%C3%B3rios-em-1%C2%BA-turno)
 - [Por que a meta de 1,5ºC é fundamental nas discussões da COP26](https://www.nexojornal.com.br/expresso/2021/11/03/Por-que-a-meta-de-15%C2%BAC-%C3%A9-fundamental-nas-discuss%C3%B5es-da-COP26)
+- [O embate em torno da demissão de quem recusa a vacina](https://www.nexojornal.com.br/expresso/2021/11/03/O-embate-em-torno-da-demiss%C3%A3o-de-quem-recusa-a-vacina)
+- [O que você precisa saber sobre o leilão do 5G](https://www.nexojornal.com.br/expresso/2021/11/03/O-que-voc%C3%AA-precisa-saber-sobre-o-leil%C3%A3o-do-5G)
+- [Por que desfinanciar a ciência é péssima economia](https://www.nexojornal.com.br/colunistas/2021/Por-que-desfinanciar-a-ci%C3%AAncia-%C3%A9-p%C3%A9ssima-economia)
+- [Rede contesta no Supremo veto a demissões de não vacinados](https://www.nexojornal.com.br/extra/2021/11/03/Rede-contesta-no-Supremo-veto-a-demiss%C3%B5es-de-n%C3%A3o-vacinados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
