@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Vão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/vao/)
 - [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
 - [‘Vingança & Castigo’, faroeste produzido por Jay Z](https://gamarevista.uol.com.br/achamos-que-vale/assistir/vinganca-castigo-faroeste-produzido-por-jay-z/)
 - [Um volume com toda ficção do chileno Alejandro Zambra](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-volume-com-toda-ficcao-do-chileno-alejandro-zambra/)
 - [‘Voyage’, primeiro álbum do ABBA em 40 anos](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/voyage-primeiro-album-do-abba-em-40-anos/)
-- [Exposição recupera memória da ditadura brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-recupera-memoria-da-ditadura-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
