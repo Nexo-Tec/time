@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a desigualdade de acesso à internet afeta a chegada do 5G](https://www.nexojornal.com.br/expresso/2021/11/04/Como-a-desigualdade-de-acesso-%C3%A0-internet-afeta-a-chegada-do-5G)
-- [Qual é o papel da cultura para o Brasil no século 21](https://www.nexojornal.com.br/ensaio/2021/Qual-%C3%A9-o-papel-da-cultura-para-o-Brasil-no-s%C3%A9culo-21)
-- [A crise entre Ciro e o PDT após a PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/11/04/A-crise-entre-Ciro-e-o-PDT-ap%C3%B3s-a-PEC-dos-Precat%C3%B3rios)
-- [Como o racismo se conecta à mudança climática](https://www.nexojornal.com.br/expresso/2021/11/04/Como-o-racismo-se-conecta-%C3%A0-mudan%C3%A7a-clim%C3%A1tica)
-- [Brigitte Bardot recebe multa de 20 mil euros por insultos racistas](https://www.nexojornal.com.br/extra/2021/11/04/Brigitte-Bardot-recebe-multa-de-20-mil-euros-por-insultos-racistas)
+- [Marília Mendonça exigiu empatia com seu sertanejo confessional](https://www.nexojornal.com.br/perspectiva/2021/11/06/Mar%C3%ADlia-Mendon%C3%A7a-exigiu-empatia-com-seu-sertanejo-confessional)
+- [Rosa Weber suspende pagamento das emendas do relator](https://www.nexojornal.com.br/extra/2021/11/05/Rosa-Weber-suspende-pagamento-das-emendas-do-relator)
+- [Imagem revelada](https://www.nexojornal.com.br/externo/2021/11/05/Imagem-revelada)
+- [‘Não dá para tratar o clima de maneira ideológica’](https://www.nexojornal.com.br/entrevista/2021/11/05/%E2%80%98N%C3%A3o-d%C3%A1-para-tratar-o-clima-de-maneira-ideol%C3%B3gica%E2%80%99)
+- [O arquivo que reúne os livros censurados pelo governo das Filipinas](https://www.nexojornal.com.br/expresso/2021/11/05/O-arquivo-que-re%C3%BAne-os-livros-censurados-pelo-governo-das-Filipinas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
