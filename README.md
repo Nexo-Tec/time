@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a desigualdade de acesso à internet afeta a chegada do 5G](https://www.nexojornal.com.br/expresso/2021/11/04/Como-a-desigualdade-de-acesso-%C3%A0-internet-afeta-a-chegada-do-5G)
-- [Qual é o papel da cultura para o Brasil no século 21](https://www.nexojornal.com.br/ensaio/2021/Qual-%C3%A9-o-papel-da-cultura-para-o-Brasil-no-s%C3%A9culo-21)
-- [A crise entre Ciro e o PDT após a PEC dos Precatórios](https://www.nexojornal.com.br/expresso/2021/11/04/A-crise-entre-Ciro-e-o-PDT-ap%C3%B3s-a-PEC-dos-Precat%C3%B3rios)
-- [Como o racismo se conecta à mudança climática](https://www.nexojornal.com.br/expresso/2021/11/04/Como-o-racismo-se-conecta-%C3%A0-mudan%C3%A7a-clim%C3%A1tica)
-- [Brigitte Bardot recebe multa de 20 mil euros por insultos racistas](https://www.nexojornal.com.br/extra/2021/11/04/Brigitte-Bardot-recebe-multa-de-20-mil-euros-por-insultos-racistas)
+- [Anatel conclui leilão com lotes que preveem 5G em escolas públicas](https://www.nexojornal.com.br/extra/2021/11/05/Anatel-conclui-leil%C3%A3o-com-lotes-que-preveem-5G-em-escolas-p%C3%BAblicas)
+- [Como a COP26 testa as pretensões ambientais da China](https://www.nexojornal.com.br/expresso/2021/11/05/Como-a-COP26-testa-as-pretens%C3%B5es-ambientais-da-China)
+- [Autoridades de saúde da Alemanha pedem 3ª dose para todos](https://www.nexojornal.com.br/extra/2021/11/05/Autoridades-de-sa%C3%BAde-da-Alemanha-pedem-3%C2%AA-dose-para-todos)
+- [Empresa envolvida na morte de Beto Freitas acerta indenização](https://www.nexojornal.com.br/extra/2021/11/05/Empresa-envolvida-na-morte-de-Beto-Freitas-acerta-indeniza%C3%A7%C3%A3o)
+- [Status militar de Bolsonaro é alterado em matrícula de filha](https://www.nexojornal.com.br/extra/2021/11/05/Status-militar-de-Bolsonaro-%C3%A9-alterado-em-matr%C3%ADcula-de-filha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
