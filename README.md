@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Técnicos fazem perícia no local da queda do avião de Marília](https://www.nexojornal.com.br/extra/2021/11/06/T%C3%A9cnicos-fazem-per%C3%ADcia-no-local-da-queda-do-avi%C3%A3o-de-Mar%C3%ADlia)
 - [Marília Mendonça exigiu empatia com seu sertanejo confessional](https://www.nexojornal.com.br/perspectiva/2021/11/06/Mar%C3%ADlia-Mendon%C3%A7a-exigiu-empatia-com-seu-sertanejo-confessional)
 - [Rosa Weber suspende pagamento das emendas do relator](https://www.nexojornal.com.br/extra/2021/11/05/Rosa-Weber-suspende-pagamento-das-emendas-do-relator)
 - [Imagem revelada](https://www.nexojornal.com.br/externo/2021/11/05/Imagem-revelada)
 - [‘Não dá para tratar o clima de maneira ideológica’](https://www.nexojornal.com.br/entrevista/2021/11/05/%E2%80%98N%C3%A3o-d%C3%A1-para-tratar-o-clima-de-maneira-ideol%C3%B3gica%E2%80%99)
+- [O arquivo que reúne os livros censurados pelo governo das Filipinas](https://www.nexojornal.com.br/expresso/2021/11/05/O-arquivo-que-re%C3%BAne-os-livros-censurados-pelo-governo-das-Filipinas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
