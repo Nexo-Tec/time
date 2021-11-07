@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Avião que caiu com Marília é retirado de local do acidente](https://www.nexojornal.com.br/extra/2021/11/07/Avi%C3%A3o-que-caiu-com-Mar%C3%ADlia-%C3%A9-retirado-de-local-do-acidente)
+- [Casa de premiê iraquiano sofre ataques de drones explosivos](https://www.nexojornal.com.br/extra/2021/11/07/Casa-de-premi%C3%AA-iraquiano-sofre-ataques-de-drones-explosivos)
 - [O site que mapeia compositoras ofuscadas na história](https://www.nexojornal.com.br/expresso/2021/11/06/O-site-que-mapeia-compositoras-ofuscadas-na-hist%C3%B3ria)
 - [5 livros de ficção científica sobre viagem no tempo](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-fic%C3%A7%C3%A3o-cient%C3%ADfica-sobre-viagem-no-tempo)
 - [Como Bolsonaro adapta o Auxílio Brasil à lógica meritocrática](https://www.nexojornal.com.br/expresso/2021/11/06/Como-Bolsonaro-adapta-o-Aux%C3%ADlio-Brasil-%C3%A0-l%C3%B3gica-meritocr%C3%A1tica)
-- [Os protagonistas da Lava Jato na corrida eleitoral de 2022](https://www.nexojornal.com.br/expresso/2021/11/06/Os-protagonistas-da-Lava-Jato-na-corrida-eleitoral-de-2022)
-- [A reemergência do debate racial na grande imprensa](https://www.nexojornal.com.br/ensaio/2021/A-reemerg%C3%AAncia-do-debate-racial-na-grande-imprensa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
