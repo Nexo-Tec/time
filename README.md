@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Técnicos fazem perícia no local da queda do avião de Marília](https://www.nexojornal.com.br/extra/2021/11/06/T%C3%A9cnicos-fazem-per%C3%ADcia-no-local-da-queda-do-avi%C3%A3o-de-Mar%C3%ADlia)
-- [Marília Mendonça exigiu empatia com seu sertanejo confessional](https://www.nexojornal.com.br/perspectiva/2021/11/06/Mar%C3%ADlia-Mendon%C3%A7a-exigiu-empatia-com-seu-sertanejo-confessional)
-- [Rosa Weber suspende pagamento das emendas do relator](https://www.nexojornal.com.br/extra/2021/11/05/Rosa-Weber-suspende-pagamento-das-emendas-do-relator)
-- [Imagem revelada](https://www.nexojornal.com.br/externo/2021/11/05/Imagem-revelada)
-- [‘Não dá para tratar o clima de maneira ideológica’](https://www.nexojornal.com.br/entrevista/2021/11/05/%E2%80%98N%C3%A3o-d%C3%A1-para-tratar-o-clima-de-maneira-ideol%C3%B3gica%E2%80%99)
+- [O site que mapeia compositoras ofuscadas na história](https://www.nexojornal.com.br/expresso/2021/11/06/O-site-que-mapeia-compositoras-ofuscadas-na-hist%C3%B3ria)
+- [5 livros de ficção científica sobre viagem no tempo](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-fic%C3%A7%C3%A3o-cient%C3%ADfica-sobre-viagem-no-tempo)
+- [Como Bolsonaro adapta o Auxílio Brasil à lógica meritocrática](https://www.nexojornal.com.br/expresso/2021/11/06/Como-Bolsonaro-adapta-o-Aux%C3%ADlio-Brasil-%C3%A0-l%C3%B3gica-meritocr%C3%A1tica)
+- [Os protagonistas da Lava Jato na corrida eleitoral de 2022](https://www.nexojornal.com.br/expresso/2021/11/06/Os-protagonistas-da-Lava-Jato-na-corrida-eleitoral-de-2022)
+- [A reemergência do debate racial na grande imprensa](https://www.nexojornal.com.br/ensaio/2021/A-reemerg%C3%AAncia-do-debate-racial-na-grande-imprensa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
