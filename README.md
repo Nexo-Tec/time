@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@souamandacosta](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/souamandacosta/)
 - [Vanessa Rozan: ‘O valor da mulher na sociedade é o da imagem’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/vanessa-rozan-como-voce-se-ve/)
 - [Samantha Schmütz](https://gamarevista.uol.com.br/pessoas/questionario-proust/samantha-schmutz/)
 - [Katie Kitamura: ‘Uma das mentiras mais maravilhosas da ficção é a de que tudo termina de forma bem resolvida’](https://gamarevista.uol.com.br/formato/conversas/katie-kitamura-uma-das-mentiras-mais-maravilhosas-da-ficcao-e-a-de-que-tudo-termina-de-forma-bem-resolvida/)
 - [Vão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/vao/)
-- [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
