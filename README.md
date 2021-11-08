@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Muitos dos temas tratados na ditadura voltaram a aparecer’](https://www.nexojornal.com.br/entrevista/2021/11/07/%E2%80%98Muitos-dos-temas-tratados-na-ditadura-voltaram-a-aparecer%E2%80%99)
-- [Cientistas sociais agora reinventam potenciais da carreira](https://www.nexojornal.com.br/ensaio/2021/Cientistas-sociais-agora-reinventam-potenciais-da-carreira)
-- [Como as expectativas da inflação afetam a formação de preços](https://www.nexojornal.com.br/expresso/2021/11/07/Como-as-expectativas-da-infla%C3%A7%C3%A3o-afetam-a-forma%C3%A7%C3%A3o-de-pre%C3%A7os)
-- [Brasil tem pior política de drogas em ranking de 30 países](https://www.nexojornal.com.br/extra/2021/11/07/Brasil-tem-pior-pol%C3%ADtica-de-drogas-em-ranking-de-30-pa%C3%ADses)
-- [Como a operacionalização de acordos pressiona a COP26](https://www.nexojornal.com.br/expresso/2021/11/07/Como-a-operacionaliza%C3%A7%C3%A3o-de-acordos-pressiona-a-COP26)
+- [O site que mapeia compositoras ofuscadas na história](https://www.nexojornal.com.br/expresso/2021/11/06/O-site-que-mapeia-compositoras-ofuscadas-na-hist%C3%B3ria)
+- [5 livros de ficção científica sobre viagem no tempo](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-fic%C3%A7%C3%A3o-cient%C3%ADfica-sobre-viagem-no-tempo)
+- [Como Bolsonaro adapta o Auxílio Brasil à lógica meritocrática](https://www.nexojornal.com.br/expresso/2021/11/06/Como-Bolsonaro-adapta-o-Aux%C3%ADlio-Brasil-%C3%A0-l%C3%B3gica-meritocr%C3%A1tica)
+- [Os protagonistas da Lava Jato na corrida eleitoral de 2022](https://www.nexojornal.com.br/expresso/2021/11/06/Os-protagonistas-da-Lava-Jato-na-corrida-eleitoral-de-2022)
+- [A reemergência do debate racial na grande imprensa](https://www.nexojornal.com.br/ensaio/2021/A-reemerg%C3%AAncia-do-debate-racial-na-grande-imprensa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
