@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre aos 87 anos Iris Rezende, ex-governador de Goiás](https://www.nexojornal.com.br/extra/2021/11/09/Morre-aos-87-anos-Iris-Rezende-ex-governador-de-Goi%C3%A1s)
-- [Carta aberta: por um PDT que honre suas lutas e raízes](https://www.nexojornal.com.br/ensaio/2021/Carta-aberta-por-um-PDT-que-honre-suas-lutas-e-ra%C3%ADzes)
-- [Por PEC fura-teto, Lira permite voto remoto por razão de saúde](https://www.nexojornal.com.br/extra/2021/11/08/Por-PEC-fura-teto-Lira-permite-voto-remoto-por-raz%C3%A3o-de-sa%C3%BAde)
-- [A nova crise do Inep às vésperas da realização do Enem](https://www.nexojornal.com.br/expresso/2021/11/08/A-nova-crise-do-Inep-%C3%A0s-v%C3%A9speras-da-realiza%C3%A7%C3%A3o-do-Enem)
-- [Como o Brasil pode cumprir suas metas climáticas em 3 frentes](https://www.nexojornal.com.br/expresso/2021/11/08/Como-o-Brasil-pode-cumprir-suas-metas-clim%C3%A1ticas-em-3-frentes)
+- [Orçamento secreto: as pressões de Lira e Bolsonaro sobre o STF](https://www.nexojornal.com.br/podcast/2021/11/08/Or%C3%A7amento-secreto-as-press%C3%B5es-de-Lira-e-Bolsonaro-sobre-o-STF)
+- [Moraes revoga prisão do deputado bolsonarista Daniel Silveira](https://www.nexojornal.com.br/extra/2021/11/08/Moraes-revoga-pris%C3%A3o-do-deputado-bolsonarista-Daniel-Silveira)
+- [Estado de SP tem primeiro dia sem mortes por covid na pandemia](https://www.nexojornal.com.br/extra/2021/11/08/Estado-de-SP-tem-primeiro-dia-sem-mortes-por-covid-na-pandemia)
+- [‘Está 99% fechado’, diz Bolsonaro sobre filiação ao PL](https://www.nexojornal.com.br/extra/2021/11/08/%E2%80%98Est%C3%A1-99-fechado%E2%80%99-diz-Bolsonaro-sobre-filia%C3%A7%C3%A3o-ao-PL)
+- [Obama cobra protagonismo do Brasil no combate à crise climática](https://www.nexojornal.com.br/extra/2021/11/08/Obama-cobra-protagonismo-do-Brasil-no-combate-%C3%A0-crise-clim%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
