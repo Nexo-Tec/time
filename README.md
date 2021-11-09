@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Orçamento secreto: as pressões de Lira e Bolsonaro sobre o STF](https://www.nexojornal.com.br/podcast/2021/11/08/Or%C3%A7amento-secreto-as-press%C3%B5es-de-Lira-e-Bolsonaro-sobre-o-STF)
-- [Moraes revoga prisão do deputado bolsonarista Daniel Silveira](https://www.nexojornal.com.br/extra/2021/11/08/Moraes-revoga-pris%C3%A3o-do-deputado-bolsonarista-Daniel-Silveira)
-- [Estado de SP tem primeiro dia sem mortes por covid na pandemia](https://www.nexojornal.com.br/extra/2021/11/08/Estado-de-SP-tem-primeiro-dia-sem-mortes-por-covid-na-pandemia)
-- [‘Está 99% fechado’, diz Bolsonaro sobre filiação ao PL](https://www.nexojornal.com.br/extra/2021/11/08/%E2%80%98Est%C3%A1-99-fechado%E2%80%99-diz-Bolsonaro-sobre-filia%C3%A7%C3%A3o-ao-PL)
-- [Obama cobra protagonismo do Brasil no combate à crise climática](https://www.nexojornal.com.br/extra/2021/11/08/Obama-cobra-protagonismo-do-Brasil-no-combate-%C3%A0-crise-clim%C3%A1tica)
+- [‘Muitos dos temas tratados na ditadura voltaram a aparecer’](https://www.nexojornal.com.br/entrevista/2021/11/07/%E2%80%98Muitos-dos-temas-tratados-na-ditadura-voltaram-a-aparecer%E2%80%99)
+- [Cientistas sociais agora reinventam potenciais da carreira](https://www.nexojornal.com.br/ensaio/2021/Cientistas-sociais-agora-reinventam-potenciais-da-carreira)
+- [Como as expectativas da inflação afetam a formação de preços](https://www.nexojornal.com.br/expresso/2021/11/07/Como-as-expectativas-da-infla%C3%A7%C3%A3o-afetam-a-forma%C3%A7%C3%A3o-de-pre%C3%A7os)
+- [Brasil tem pior política de drogas em ranking de 30 países](https://www.nexojornal.com.br/extra/2021/11/07/Brasil-tem-pior-pol%C3%ADtica-de-drogas-em-ranking-de-30-pa%C3%ADses)
+- [Como a operacionalização de acordos pressiona a COP26](https://www.nexojornal.com.br/expresso/2021/11/07/Como-a-operacionaliza%C3%A7%C3%A3o-de-acordos-pressiona-a-COP26)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
