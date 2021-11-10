@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A arma certa nas mãos do candidato errado](https://pp.nexojornal.com.br/opiniao/2021/A-arma-certa-nas-m%C3%A3os-do-candidato-errado)
 - [A necessidade de um novo desenho para o Programa Nacional de Alimentação Escolar](https://pp.nexojornal.com.br/opiniao/2021/A-necessidade-de-um-novo-desenho-para-o-Programa-Nacional-de-Alimenta%C3%A7%C3%A3o-Escolar)
 - [Conservação da natureza é solução para o clima e para a saúde pública](https://pp.nexojornal.com.br/opiniao/2021/Conserva%C3%A7%C3%A3o-da-natureza-%C3%A9-solu%C3%A7%C3%A3o-para-o-clima-e-para-a-sa%C3%BAde-p%C3%BAblica)
 - [Matheus Gato: W. E. B. Du Bois e a sociologia moderna](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/04/Matheus-Gato-W.-E.-B.-Du-Bois-e-a-sociologia-moderna)
 - [A autonomia universitária no direito brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-autonomia-universit%C3%A1ria-no-direito-brasileiro)
-- [Soluções baseadas na natureza e o enfrentamento das mudanças climáticas](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/04/Solu%C3%A7%C3%B5es-baseadas-na-natureza-e-o-enfrentamento-das-mudan%C3%A7as-clim%C3%A1ticas)
 <!-- PP_LIST:END -->
 
