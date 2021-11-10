@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais são as conquistas do movimento indígena na COP26](https://www.nexojornal.com.br/expresso/2021/11/09/Quais-s%C3%A3o-as-conquistas-do-movimento-ind%C3%ADgena-na-COP26)
-- [A cronologia do caso das rachadinhas até seu esvaziamento](https://www.nexojornal.com.br/expresso/2021/11/09/A-cronologia-do-caso-das-rachadinhas-at%C3%A9-seu-esvaziamento)
-- [O Enem não é o único sob risco na crise do Inep](https://www.nexojornal.com.br/colunistas/2021/O-Enem-n%C3%A3o-%C3%A9-o-%C3%BAnico-sob-risco-na-crise-do-Inep)
-- [Senado aprova proposta para incluir renda básica na Constituição](https://www.nexojornal.com.br/extra/2021/11/09/Senado-aprova-proposta-para-incluir-renda-b%C3%A1sica-na-Constitui%C3%A7%C3%A3o)
-- [Como o Abba aposta na tecnologia em seu retorno após 40 anos](https://www.nexojornal.com.br/expresso/2021/11/09/Como-o-Abba-aposta-na-tecnologia-em-seu-retorno-ap%C3%B3s-40-anos)
+- [Morre aos 87 anos Iris Rezende, ex-governador de Goiás](https://www.nexojornal.com.br/extra/2021/11/09/Morre-aos-87-anos-Iris-Rezende-ex-governador-de-Goi%C3%A1s)
+- [Carta aberta: por um PDT que honre suas lutas e raízes](https://www.nexojornal.com.br/ensaio/2021/Carta-aberta-por-um-PDT-que-honre-suas-lutas-e-ra%C3%ADzes)
+- [Por PEC fura-teto, Lira permite voto remoto por razão de saúde](https://www.nexojornal.com.br/extra/2021/11/08/Por-PEC-fura-teto-Lira-permite-voto-remoto-por-raz%C3%A3o-de-sa%C3%BAde)
+- [A nova crise do Inep às vésperas da realização do Enem](https://www.nexojornal.com.br/expresso/2021/11/08/A-nova-crise-do-Inep-%C3%A0s-v%C3%A9speras-da-realiza%C3%A7%C3%A3o-do-Enem)
+- [Como o Brasil pode cumprir suas metas climáticas em 3 frentes](https://www.nexojornal.com.br/expresso/2021/11/08/Como-o-Brasil-pode-cumprir-suas-metas-clim%C3%A1ticas-em-3-frentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
