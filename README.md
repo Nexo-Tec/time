@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crise migratória trava milhares de imigrantes entre Belarus e Polônia](https://www.nexojornal.com.br/extra/2021/11/10/Crise-migrat%C3%B3ria-trava-milhares-de-imigrantes-entre-Belarus-e-Pol%C3%B4nia)
-- [Inflação de outubro é a maior para o mês desde 2002](https://www.nexojornal.com.br/extra/2021/11/10/Infla%C3%A7%C3%A3o-de-outubro-%C3%A9-a-maior-para-o-m%C3%AAs-desde-2002)
-- [Câmara aprova PEC dos Precatórios e texto vai ao Senado](https://www.nexojornal.com.br/extra/2021/11/09/C%C3%A2mara-aprova-PEC-dos-Precat%C3%B3rios-e-texto-vai-ao-Senado)
-- [Quem é Rosa Weber, novo freio a Bolsonaro no Supremo](https://www.nexojornal.com.br/expresso/2021/11/09/Quem-%C3%A9-Rosa-Weber-novo-freio-a-Bolsonaro-no-Supremo)
-- [Quem é Moro no espectro político a partir de suas atitudes](https://www.nexojornal.com.br/expresso/2021/11/09/Quem-%C3%A9-Moro-no-espectro-pol%C3%ADtico-a-partir-de-suas-atitudes)
+- [O que é efeito estufa. E qual sua relação com a mudança climática](https://www.nexojornal.com.br/grafico/2021/11/11/O-que-%C3%A9-efeito-estufa.-E-qual-sua-rela%C3%A7%C3%A3o-com-a-mudan%C3%A7a-clim%C3%A1tica)
+- [Cristiana Lôbo, jornalista da GloboNews, morre aos 64 anos](https://www.nexojornal.com.br/extra/2021/11/11/Cristiana-L%C3%B4bo-jornalista-da-GloboNews-morre-aos-64-anos)
+- [Morre FW de Klerk, ex-presidente da África do Sul e Nobel da Paz](https://www.nexojornal.com.br/extra/2021/11/11/Morre-FW-de-Klerk-ex-presidente-da-%C3%81frica-do-Sul-e-Nobel-da-Paz)
+- [‘Sem orçamento secreto, Arthur Lira vai achar outros recursos’na prática](https://www.nexojornal.com.br/entrevista/2021/11/11/%E2%80%98Sem-or%C3%A7amento-secreto-Arthur-Lira-vai-achar-outros-recursos%E2%80%99na-pr%C3%A1tica)
+- [O que muda na prática com a suspensão do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2021/11/10/O-que-muda-na-pr%C3%A1tica-com-a-suspens%C3%A3o-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
