@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crise migratória trava milhares de imigrantes entre Belarus e Polônia](https://www.nexojornal.com.br/extra/2021/11/10/Crise-migrat%C3%B3ria-trava-milhares-de-imigrantes-entre-Belarus-e-Pol%C3%B4nia)
-- [Inflação de outubro é a maior para o mês desde 2002](https://www.nexojornal.com.br/extra/2021/11/10/Infla%C3%A7%C3%A3o-de-outubro-%C3%A9-a-maior-para-o-m%C3%AAs-desde-2002)
-- [Câmara aprova PEC dos Precatórios e texto vai ao Senado](https://www.nexojornal.com.br/extra/2021/11/09/C%C3%A2mara-aprova-PEC-dos-Precat%C3%B3rios-e-texto-vai-ao-Senado)
-- [Quem é Rosa Weber, novo freio a Bolsonaro no Supremo](https://www.nexojornal.com.br/expresso/2021/11/09/Quem-%C3%A9-Rosa-Weber-novo-freio-a-Bolsonaro-no-Supremo)
-- [Quem é Moro no espectro político a partir de suas atitudes](https://www.nexojornal.com.br/expresso/2021/11/09/Quem-%C3%A9-Moro-no-espectro-pol%C3%ADtico-a-partir-de-suas-atitudes)
+- [O que muda na prática com a suspensão do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2021/11/10/O-que-muda-na-pr%C3%A1tica-com-a-suspens%C3%A3o-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [André Esteves, a persistência das elites e o desenvolvimento](https://www.nexojornal.com.br/colunistas/2021/Andr%C3%A9-Esteves-a-persist%C3%AAncia-das-elites-e-o-desenvolvimento)
+- [Como foi a gestão de Bolsonaro na educação até a crise no Inep](https://www.nexojornal.com.br/expresso/2021/11/10/Como-foi-a-gest%C3%A3o-de-Bolsonaro-na-educa%C3%A7%C3%A3o-at%C3%A9-a-crise-no-Inep)
+- [Número de crianças sem vacina de sarampo é o maior em 20 anos](https://www.nexojornal.com.br/extra/2021/11/10/N%C3%BAmero-de-crian%C3%A7as-sem-vacina-de-sarampo-%C3%A9-o-maior-em-20-anos)
+- [YouTube passa a ocultar número de reações negativas a vídeos](https://www.nexojornal.com.br/extra/2021/11/10/YouTube-passa-a-ocultar-n%C3%BAmero-de-rea%C3%A7%C3%B5es-negativas-a-v%C3%ADdeos1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
