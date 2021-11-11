@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Mariana Becker](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mariana-becker/)
 - [Tarada por letras](https://gamarevista.uol.com.br/colunistas/letrux/tarada-por-letras/)
 - [Vozes brasileiras no debate da emergência climática](https://gamarevista.uol.com.br/pessoas/uma-turma/vozes-brasileiras-no-debate-da-emergencia-climatica/)
 - [Tapioqueira Tapy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/tapioqueira-tapy/)
 - [@souamandacosta](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/souamandacosta/)
-- [Vanessa Rozan: ‘O valor da mulher na sociedade é o da imagem’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/vanessa-rozan-como-voce-se-ve/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
