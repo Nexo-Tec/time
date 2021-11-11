@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A arma certa nas mãos do candidato errado](https://pp.nexojornal.com.br/opiniao/2021/A-arma-certa-nas-m%C3%A3os-do-candidato-errado)
-- [A necessidade de um novo desenho para o Programa Nacional de Alimentação Escolar](https://pp.nexojornal.com.br/opiniao/2021/A-necessidade-de-um-novo-desenho-para-o-Programa-Nacional-de-Alimenta%C3%A7%C3%A3o-Escolar)
-- [Conservação da natureza é solução para o clima e para a saúde pública](https://pp.nexojornal.com.br/opiniao/2021/Conserva%C3%A7%C3%A3o-da-natureza-%C3%A9-solu%C3%A7%C3%A3o-para-o-clima-e-para-a-sa%C3%BAde-p%C3%BAblica)
-- [Matheus Gato: W. E. B. Du Bois e a sociologia moderna](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/04/Matheus-Gato-W.-E.-B.-Du-Bois-e-a-sociologia-moderna)
-- [A autonomia universitária no direito brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2021/A-autonomia-universit%C3%A1ria-no-direito-brasileiro)
+- [Quanto vale conhecer a biodiversidade da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/Quanto-vale-conhecer-a-biodiversidade-da-Amaz%C3%B4nia)
+- [12 pontos sobre incêndios nos ecossistemas brasileiros](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/12-pontos-sobre-inc%C3%AAndios-nos-ecossistemas-brasileiros)
+- [‘A origem do homem’, 150 anos depois](https://pp.nexojornal.com.br/topico/2021/11/10/%E2%80%98A-origem-do-homem%E2%80%99-150-anos-depois)
+- [Inovação tecnológica em saúde](https://pp.nexojornal.com.br/glossario/Inova%C3%A7%C3%A3o-tecnol%C3%B3gica-em-sa%C3%BAde)
+- [Luiz Fernandes Dourado: Sistema Nacional de Educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/09/Luiz-Fernandes-Dourado-Sistema-Nacional-de-Educa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
