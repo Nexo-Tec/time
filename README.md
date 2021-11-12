@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘As ciências humanas são importantes dentro da tecnologia’](https://www.nexojornal.com.br/podcast/2021/11/12/%E2%80%98As-ci%C3%AAncias-humanas-s%C3%A3o-importantes-dentro-da-tecnologia%E2%80%99)
+- [‘Doutor Sócrates’: a biografia de um ícone do futebol](https://www.nexojornal.com.br/estante/trechos/2021/11/12/%E2%80%98Doutor-S%C3%B3crates%E2%80%99-a-biografia-de-um-%C3%ADcone-do-futebol)
+- [CBF demite Leonardo Gaciba após série de críticas contra arbitragem](https://www.nexojornal.com.br/extra/2021/11/12/CBF-demite-Leonardo-Gaciba-ap%C3%B3s-s%C3%A9rie-de-cr%C3%ADticas-contra-arbitragem)
+- [Alertas de desmatamento na Amazônia batem recorde em outubro](https://www.nexojornal.com.br/extra/2021/11/12/Alertas-de-desmatamento-na-Amaz%C3%B4nia-batem-recorde-em-outubro)
 - [A investida do procurador-geral contra a Defensoria](https://www.nexojornal.com.br/expresso/2021/11/11/A-investida-do-procurador-geral-contra-a-Defensoria)
-- [Qual foi o impacto do ‘fique em casa’ na crise econômica atual](https://www.nexojornal.com.br/expresso/2021/11/11/Qual-foi-o-impacto-do-%E2%80%98fique-em-casa%E2%80%99-na-crise-econ%C3%B4mica-atual)
-- [Como os antivirais podem ser decisivos na pandemia](https://www.nexojornal.com.br/expresso/2021/11/11/Como-os-antivirais-podem-ser-decisivos-na-pandemia)
-- [COP26 discute financiamento climático para evitar acordo ‘fraco’](https://www.nexojornal.com.br/extra/2021/11/11/COP26-discute-financiamento-clim%C3%A1tico-para-evitar-acordo-%E2%80%98fraco%E2%80%99)
-- [Todos contra a desinformação: você também é responsável](https://www.nexojornal.com.br/colunistas/2021/Todos-contra-a-desinforma%C3%A7%C3%A3o-voc%C3%AA-tamb%C3%A9m-%C3%A9-respons%C3%A1vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
