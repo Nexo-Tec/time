@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que muda na prática com a suspensão do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2021/11/10/O-que-muda-na-pr%C3%A1tica-com-a-suspens%C3%A3o-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
-- [André Esteves, a persistência das elites e o desenvolvimento](https://www.nexojornal.com.br/colunistas/2021/Andr%C3%A9-Esteves-a-persist%C3%AAncia-das-elites-e-o-desenvolvimento)
-- [Como foi a gestão de Bolsonaro na educação até a crise no Inep](https://www.nexojornal.com.br/expresso/2021/11/10/Como-foi-a-gest%C3%A3o-de-Bolsonaro-na-educa%C3%A7%C3%A3o-at%C3%A9-a-crise-no-Inep)
-- [Número de crianças sem vacina de sarampo é o maior em 20 anos](https://www.nexojornal.com.br/extra/2021/11/10/N%C3%BAmero-de-crian%C3%A7as-sem-vacina-de-sarampo-%C3%A9-o-maior-em-20-anos)
-- [YouTube passa a ocultar número de reações negativas a vídeos](https://www.nexojornal.com.br/extra/2021/11/10/YouTube-passa-a-ocultar-n%C3%BAmero-de-rea%C3%A7%C3%B5es-negativas-a-v%C3%ADdeos1)
+- [A investida do procurador-geral contra a Defensoria](https://www.nexojornal.com.br/expresso/2021/11/11/A-investida-do-procurador-geral-contra-a-Defensoria)
+- [Qual foi o impacto do ‘fique em casa’ na crise econômica atual](https://www.nexojornal.com.br/expresso/2021/11/11/Qual-foi-o-impacto-do-%E2%80%98fique-em-casa%E2%80%99-na-crise-econ%C3%B4mica-atual)
+- [Como os antivirais podem ser decisivos na pandemia](https://www.nexojornal.com.br/expresso/2021/11/11/Como-os-antivirais-podem-ser-decisivos-na-pandemia)
+- [COP26 discute financiamento climático para evitar acordo ‘fraco’](https://www.nexojornal.com.br/extra/2021/11/11/COP26-discute-financiamento-clim%C3%A1tico-para-evitar-acordo-%E2%80%98fraco%E2%80%99)
+- [Todos contra a desinformação: você também é responsável](https://www.nexojornal.com.br/colunistas/2021/Todos-contra-a-desinforma%C3%A7%C3%A3o-voc%C3%AA-tamb%C3%A9m-%C3%A9-respons%C3%A1vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
