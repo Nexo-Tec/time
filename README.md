@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é efeito estufa. E qual sua relação com a mudança climática](https://www.nexojornal.com.br/grafico/2021/11/11/O-que-%C3%A9-efeito-estufa.-E-qual-sua-rela%C3%A7%C3%A3o-com-a-mudan%C3%A7a-clim%C3%A1tica)
-- [Cristiana Lôbo, jornalista da GloboNews, morre aos 64 anos](https://www.nexojornal.com.br/extra/2021/11/11/Cristiana-L%C3%B4bo-jornalista-da-GloboNews-morre-aos-64-anos)
-- [Morre FW de Klerk, ex-presidente da África do Sul e Nobel da Paz](https://www.nexojornal.com.br/extra/2021/11/11/Morre-FW-de-Klerk-ex-presidente-da-%C3%81frica-do-Sul-e-Nobel-da-Paz)
-- [‘Sem orçamento secreto, Arthur Lira vai achar outros recursos’na prática](https://www.nexojornal.com.br/entrevista/2021/11/11/%E2%80%98Sem-or%C3%A7amento-secreto-Arthur-Lira-vai-achar-outros-recursos%E2%80%99na-pr%C3%A1tica)
 - [O que muda na prática com a suspensão do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2021/11/10/O-que-muda-na-pr%C3%A1tica-com-a-suspens%C3%A3o-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [André Esteves, a persistência das elites e o desenvolvimento](https://www.nexojornal.com.br/colunistas/2021/Andr%C3%A9-Esteves-a-persist%C3%AAncia-das-elites-e-o-desenvolvimento)
+- [Como foi a gestão de Bolsonaro na educação até a crise no Inep](https://www.nexojornal.com.br/expresso/2021/11/10/Como-foi-a-gest%C3%A3o-de-Bolsonaro-na-educa%C3%A7%C3%A3o-at%C3%A9-a-crise-no-Inep)
+- [Número de crianças sem vacina de sarampo é o maior em 20 anos](https://www.nexojornal.com.br/extra/2021/11/10/N%C3%BAmero-de-crian%C3%A7as-sem-vacina-de-sarampo-%C3%A9-o-maior-em-20-anos)
+- [YouTube passa a ocultar número de reações negativas a vídeos](https://www.nexojornal.com.br/extra/2021/11/10/YouTube-passa-a-ocultar-n%C3%BAmero-de-rea%C3%A7%C3%B5es-negativas-a-v%C3%ADdeos1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
