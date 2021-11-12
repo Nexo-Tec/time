@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um toque amargo para equilibrar](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/um-toque-amargo-para-equilibrar/)
+- [Volta ao Mundo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/volta-ao-mundo/)
 - [Debates virtuais reúnem escritoras com temas comuns](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debates-virtuais-reunem-escritoras-com-temas-comuns/)
 - [Reportagem reconta o calvário da modelo Mari Ferrer](https://gamarevista.uol.com.br/achamos-que-vale/ler/reportagem-reconta-o-calvario-da-modelo-mari-ferrer/)
 - [Artistas falam sobre criação e gravam clipe em série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/artistas-falam-sobre-criacao-e-gravam-clipe-em-serie/)
-- [‘Minha vaga, minhas regras’, podcast com dicas para arrumar emprego](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/minha-vaga-minhas-regras-podcast-com-dicas-para-arrumar-emprego/)
-- [O documentário ‘Apenas Meninas’, sobre casamento infantil](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-apenas-meninas-sobre-casamento-infantil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
