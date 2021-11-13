@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o papel da Academia Brasileira de Letras na cultura](https://www.nexojornal.com.br/expresso/2021/11/12/Qual-o-papel-da-Academia-Brasileira-de-Letras-na-cultura)
-- [5 pontos para entender o que pode sair de resultado da COP26](https://www.nexojornal.com.br/expresso/2021/11/12/5-pontos-para-entender-o-que-pode-sair-de-resultado-da-COP26)
-- [Como a chegada de Moro afeta Lula, Bolsonaro e a ‘terceira via’](https://www.nexojornal.com.br/expresso/2021/11/12/Como-a-chegada-de-Moro-afeta-Lula-Bolsonaro-e-a-%E2%80%98terceira-via%E2%80%99)
-- [O aprimoramento de políticas públicas locais a partir de dados](https://www.nexojornal.com.br/ensaio/2021/O-aprimoramento-de-pol%C3%ADticas-p%C3%BAblicas-locais-a-partir-de-dados)
-- [Cerrado ameaçado](https://www.nexojornal.com.br/externo/2021/11/12/Cerrado-amea%C3%A7ado)
+- [‘As ciências humanas são importantes dentro da tecnologia’](https://www.nexojornal.com.br/podcast/2021/11/12/%E2%80%98As-ci%C3%AAncias-humanas-s%C3%A3o-importantes-dentro-da-tecnologia%E2%80%99)
+- [‘Doutor Sócrates’: a biografia de um ícone do futebol](https://www.nexojornal.com.br/estante/trechos/2021/11/12/%E2%80%98Doutor-S%C3%B3crates%E2%80%99-a-biografia-de-um-%C3%ADcone-do-futebol)
+- [CBF demite Leonardo Gaciba após série de críticas contra arbitragem](https://www.nexojornal.com.br/extra/2021/11/12/CBF-demite-Leonardo-Gaciba-ap%C3%B3s-s%C3%A9rie-de-cr%C3%ADticas-contra-arbitragem)
+- [Alertas de desmatamento na Amazônia batem recorde em outubro](https://www.nexojornal.com.br/extra/2021/11/12/Alertas-de-desmatamento-na-Amaz%C3%B4nia-batem-recorde-em-outubro)
+- [A investida do procurador-geral contra a Defensoria](https://www.nexojornal.com.br/expresso/2021/11/11/A-investida-do-procurador-geral-contra-a-Defensoria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
