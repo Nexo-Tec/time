@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘As ciências humanas são importantes dentro da tecnologia’](https://www.nexojornal.com.br/podcast/2021/11/12/%E2%80%98As-ci%C3%AAncias-humanas-s%C3%A3o-importantes-dentro-da-tecnologia%E2%80%99)
-- [‘Doutor Sócrates’: a biografia de um ícone do futebol](https://www.nexojornal.com.br/estante/trechos/2021/11/12/%E2%80%98Doutor-S%C3%B3crates%E2%80%99-a-biografia-de-um-%C3%ADcone-do-futebol)
-- [CBF demite Leonardo Gaciba após série de críticas contra arbitragem](https://www.nexojornal.com.br/extra/2021/11/12/CBF-demite-Leonardo-Gaciba-ap%C3%B3s-s%C3%A9rie-de-cr%C3%ADticas-contra-arbitragem)
-- [Alertas de desmatamento na Amazônia batem recorde em outubro](https://www.nexojornal.com.br/extra/2021/11/12/Alertas-de-desmatamento-na-Amaz%C3%B4nia-batem-recorde-em-outubro)
-- [A investida do procurador-geral contra a Defensoria](https://www.nexojornal.com.br/expresso/2021/11/11/A-investida-do-procurador-geral-contra-a-Defensoria)
+- [Só 6% dos brasileiros preferem ditadura à democracia, diz pesquisa](https://www.nexojornal.com.br/extra/2021/11/13/S%C3%B3-6-dos-brasileiros-preferem-ditadura-%C3%A0-democracia-diz-pesquisa)
+- [Quais são as conquistas do movimento indígena na COP26](https://www.nexojornal.com.br/ensaio/debate/2021/Quais-s%C3%A3o-as-conquistas-do-movimento-ind%C3%ADgena-na-COP26)
+- [Holanda volta a restringir circulação para conter a covid-19](https://www.nexojornal.com.br/extra/2021/11/13/Holanda-volta-a-restringir-circula%C3%A7%C3%A3o-para-conter-a-covid-19)
+- [Qual o papel da Academia Brasileira de Letras na cultura](https://www.nexojornal.com.br/expresso/2021/11/12/Qual-o-papel-da-Academia-Brasileira-de-Letras-na-cultura)
+- [5 pontos para entender o que pode sair de resultado da COP26](https://www.nexojornal.com.br/expresso/2021/11/12/5-pontos-para-entender-o-que-pode-sair-de-resultado-da-COP26)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
