@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Senso de urgência na COP26 poderia ter sido maior’](https://www.nexojornal.com.br/entrevista/2021/11/14/%E2%80%98Senso-de-urg%C3%AAncia-na-COP26-poderia-ter-sido-maior%E2%80%99)
-- [Bolsonaristas miram em prato de comida de Wagner Moura](https://www.nexojornal.com.br/extra/2021/11/13/Bolsonaristas-miram-em-prato-de-comida-de-Wagner-Moura)
-- [Dandara, Clarice, Marielle: as formigas com nomes de mulheres](https://www.nexojornal.com.br/expresso/2021/11/13/Dandara-Clarice-Marielle-as-formigas-com-nomes-de-mulheres)
-- [5 livros sobre ciências para leitores não cientistas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-ci%C3%AAncias-para-leitores-n%C3%A3o-cientistas)
-- [O que esta modelo diz &lpar;e não diz&rpar; sobre a indústria da imagem](https://www.nexojornal.com.br/expresso/2021/11/13/O-que-esta-modelo-diz-e-n%C3%A3o-diz-sobre-a-ind%C3%BAstria-da-imagem)
+- [Só 6% dos brasileiros preferem ditadura à democracia, diz pesquisa](https://www.nexojornal.com.br/extra/2021/11/13/S%C3%B3-6-dos-brasileiros-preferem-ditadura-%C3%A0-democracia-diz-pesquisa)
+- [Quais são as conquistas do movimento indígena na COP26](https://www.nexojornal.com.br/ensaio/debate/2021/Quais-s%C3%A3o-as-conquistas-do-movimento-ind%C3%ADgena-na-COP26)
+- [Holanda volta a restringir circulação para conter a covid-19](https://www.nexojornal.com.br/extra/2021/11/13/Holanda-volta-a-restringir-circula%C3%A7%C3%A3o-para-conter-a-covid-19)
+- [Qual o papel da Academia Brasileira de Letras na cultura](https://www.nexojornal.com.br/expresso/2021/11/12/Qual-o-papel-da-Academia-Brasileira-de-Letras-na-cultura)
+- [5 pontos para entender o que pode sair de resultado da COP26](https://www.nexojornal.com.br/expresso/2021/11/12/5-pontos-para-entender-o-que-pode-sair-de-resultado-da-COP26)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
