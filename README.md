@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Só 6% dos brasileiros preferem ditadura à democracia, diz pesquisa](https://www.nexojornal.com.br/extra/2021/11/13/S%C3%B3-6-dos-brasileiros-preferem-ditadura-%C3%A0-democracia-diz-pesquisa)
-- [Quais são as conquistas do movimento indígena na COP26](https://www.nexojornal.com.br/ensaio/debate/2021/Quais-s%C3%A3o-as-conquistas-do-movimento-ind%C3%ADgena-na-COP26)
-- [Holanda volta a restringir circulação para conter a covid-19](https://www.nexojornal.com.br/extra/2021/11/13/Holanda-volta-a-restringir-circula%C3%A7%C3%A3o-para-conter-a-covid-19)
 - [Qual o papel da Academia Brasileira de Letras na cultura](https://www.nexojornal.com.br/expresso/2021/11/12/Qual-o-papel-da-Academia-Brasileira-de-Letras-na-cultura)
 - [5 pontos para entender o que pode sair de resultado da COP26](https://www.nexojornal.com.br/expresso/2021/11/12/5-pontos-para-entender-o-que-pode-sair-de-resultado-da-COP26)
+- [Como a chegada de Moro afeta Lula, Bolsonaro e a ‘terceira via’](https://www.nexojornal.com.br/expresso/2021/11/12/Como-a-chegada-de-Moro-afeta-Lula-Bolsonaro-e-a-%E2%80%98terceira-via%E2%80%99)
+- [O aprimoramento de políticas públicas locais a partir de dados](https://www.nexojornal.com.br/ensaio/2021/O-aprimoramento-de-pol%C3%ADticas-p%C3%BAblicas-locais-a-partir-de-dados)
+- [Cerrado ameaçado](https://www.nexojornal.com.br/externo/2021/11/12/Cerrado-amea%C3%A7ado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
