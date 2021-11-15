@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Há exagero na ideia de protagonismo militar na República’](https://www.nexojornal.com.br/entrevista/2021/11/14/%E2%80%98H%C3%A1-exagero-na-ideia-de-protagonismo-militar-na-Rep%C3%BAblica%E2%80%99)
-- [Áustria impõe confinamento para pessoas não vacinadas contra a covid-19](https://www.nexojornal.com.br/extra/2021/11/14/%C3%81ustria-imp%C3%B5e-confinamento-para-pessoas-n%C3%A3o-vacinadas-contra-a-covid-19)
-- [Quadrilha invade shopping em Sorocaba e causa pânico](https://www.nexojornal.com.br/extra/2021/11/14/Quadrilha-invade-shopping-em-Sorocaba-e-causa-p%C3%A2nico)
-- [‘Senso de urgência na COP26 poderia ter sido maior’](https://www.nexojornal.com.br/entrevista/2021/11/14/%E2%80%98Senso-de-urg%C3%AAncia-na-COP26-poderia-ter-sido-maior%E2%80%99)
-- [Bolsonaristas miram em prato de comida de Wagner Moura](https://www.nexojornal.com.br/extra/2021/11/13/Bolsonaristas-miram-em-prato-de-comida-de-Wagner-Moura)
+- [‘Não há nada que não possa ser reconciliado’, diz Lula sobre Alckmin](https://www.nexojornal.com.br/extra/2021/11/15/%E2%80%98N%C3%A3o-h%C3%A1-nada-que-n%C3%A3o-possa-ser-reconciliado%E2%80%99-diz-Lula-sobre-Alckmin)
+- [Ex-assessor de Trump, Steve Bannon se apresenta à polícia](https://www.nexojornal.com.br/extra/2021/11/15/Ex-assessor-de-Trump-Steve-Bannon-se-apresenta-%C3%A0-pol%C3%ADcia)
+- [Governo Fernández sofre revés em eleições legislativas argentinas](https://www.nexojornal.com.br/extra/2021/11/15/Governo-Fern%C3%A1ndez-sofre-rev%C3%A9s-em-elei%C3%A7%C3%B5es-legislativas-argentinas)
+- [Síndico agora tem que denunciar violência doméstica em SP](https://www.nexojornal.com.br/extra/2021/11/14/S%C3%ADndico-agora-tem-que-denunciar-viol%C3%AAncia-dom%C3%A9stica-em-SP)
+- [McDonald’s em Bauru é autuado por banheiro multigênero](https://www.nexojornal.com.br/extra/2021/11/14/McDonald%E2%80%99s-em-Bauru-%C3%A9-autuado-por-banheiro-multig%C3%AAnero)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
