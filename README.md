@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Há exagero na ideia de protagonismo militar na República’](https://www.nexojornal.com.br/entrevista/2021/11/14/%E2%80%98H%C3%A1-exagero-na-ideia-de-protagonismo-militar-na-Rep%C3%BAblica%E2%80%99)
+- [Áustria impõe confinamento para pessoas não vacinadas contra a covid-19](https://www.nexojornal.com.br/extra/2021/11/14/%C3%81ustria-imp%C3%B5e-confinamento-para-pessoas-n%C3%A3o-vacinadas-contra-a-covid-19)
+- [Quadrilha invade shopping em Sorocaba e causa pânico](https://www.nexojornal.com.br/extra/2021/11/14/Quadrilha-invade-shopping-em-Sorocaba-e-causa-p%C3%A2nico)
 - [‘Senso de urgência na COP26 poderia ter sido maior’](https://www.nexojornal.com.br/entrevista/2021/11/14/%E2%80%98Senso-de-urg%C3%AAncia-na-COP26-poderia-ter-sido-maior%E2%80%99)
 - [Bolsonaristas miram em prato de comida de Wagner Moura](https://www.nexojornal.com.br/extra/2021/11/13/Bolsonaristas-miram-em-prato-de-comida-de-Wagner-Moura)
-- [Dandara, Clarice, Marielle: as formigas com nomes de mulheres](https://www.nexojornal.com.br/expresso/2021/11/13/Dandara-Clarice-Marielle-as-formigas-com-nomes-de-mulheres)
-- [5 livros sobre ciências para leitores não cientistas](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-ci%C3%AAncias-para-leitores-n%C3%A3o-cientistas)
-- [O que esta modelo diz &lpar;e não diz&rpar; sobre a indústria da imagem](https://www.nexojornal.com.br/expresso/2021/11/13/O-que-esta-modelo-diz-e-n%C3%A3o-diz-sobre-a-ind%C3%BAstria-da-imagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
