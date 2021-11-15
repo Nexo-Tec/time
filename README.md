@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@gabbois](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabbois/)
 - [Jeferson De: ‘Fazer cinema, estrear um filme é um ato de coragem’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jeferson-de-como-ter-coragem/)
 - [Xamã](https://gamarevista.uol.com.br/pessoas/questionario-proust/xama/)
 - [O que a participação na COP26 diz sobre o futuro ambiental do Brasil?](https://gamarevista.uol.com.br/formato/reportagem/o-que-a-participacao-na-cop26-diz-sobre-o-futuro-ambiental-do-brasil/)
 - [Um toque amargo para equilibrar](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/um-toque-amargo-para-equilibrar/)
-- [Volta ao Mundo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/volta-ao-mundo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
