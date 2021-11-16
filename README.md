@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não há nada que não possa ser reconciliado’, diz Lula sobre Alckmin](https://www.nexojornal.com.br/extra/2021/11/15/%E2%80%98N%C3%A3o-h%C3%A1-nada-que-n%C3%A3o-possa-ser-reconciliado%E2%80%99-diz-Lula-sobre-Alckmin)
-- [Ex-assessor de Trump, Steve Bannon se apresenta à polícia](https://www.nexojornal.com.br/extra/2021/11/15/Ex-assessor-de-Trump-Steve-Bannon-se-apresenta-%C3%A0-pol%C3%ADcia)
-- [Governo Fernández sofre revés em eleições legislativas argentinas](https://www.nexojornal.com.br/extra/2021/11/15/Governo-Fern%C3%A1ndez-sofre-rev%C3%A9s-em-elei%C3%A7%C3%B5es-legislativas-argentinas)
-- [Síndico agora tem que denunciar violência doméstica em SP](https://www.nexojornal.com.br/extra/2021/11/14/S%C3%ADndico-agora-tem-que-denunciar-viol%C3%AAncia-dom%C3%A9stica-em-SP)
-- [McDonald’s em Bauru é autuado por banheiro multigênero](https://www.nexojornal.com.br/extra/2021/11/14/McDonald%E2%80%99s-em-Bauru-%C3%A9-autuado-por-banheiro-multig%C3%AAnero)
+- [Bolsonaro sugere aumento para servidores se PEC for aprovada](https://www.nexojornal.com.br/extra/2021/11/16/Bolsonaro-sugere-aumento-para-servidores-se-PEC-for-aprovada)
+- [B3 inaugura Touro de Ouro no centro histórico de São Paulo](https://www.nexojornal.com.br/extra/2021/11/16/B3-inaugura-Touro-de-Ouro-no-centro-hist%C3%B3rico-de-S%C3%A3o-Paulo)
+- [A COP26, a justiça climática e o mundo pós-pandemia](https://www.nexojornal.com.br/ensaio/debate/2021/A-COP26-a-justi%C3%A7a-clim%C3%A1tica-e-o-mundo-p%C3%B3s-pandemia)
+- [Elon Musk irá conectar escolas rurais no Brasil, anuncia ministro](https://www.nexojornal.com.br/extra/2021/11/16/Elon-Musk-ir%C3%A1-conectar-escolas-rurais-no-Brasil-anuncia-ministro)
+- [Mercado passa a ver crescimento do PIB  abaixo de 1% em 2022](https://www.nexojornal.com.br/extra/2021/11/16/Mercado-passa-a-ver-crescimento-do-PIB-abaixo-de-1-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
