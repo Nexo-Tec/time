@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Detritos de satélite russo geram alerta em estação espacial](https://www.nexojornal.com.br/extra/2021/11/16/Detritos-de-sat%C3%A9lite-russo-geram-alerta-em-esta%C3%A7%C3%A3o-espacial)
-- [Enem começa com o menor número de inscritos desde 2005](https://www.nexojornal.com.br/grafico/2021/11/16/Enem-come%C3%A7a-com-o-menor-n%C3%BAmero-de-inscritos-desde-2005)
-- [Saúde decide aplicar 2ª dose em quem tomou vacina da Janssen](https://www.nexojornal.com.br/extra/2021/11/16/Sa%C3%BAde-decide-aplicar-2%C2%AA-dose-em-quem-tomou-vacina-da-Janssen)
 - [Bolsonaro sugere aumento para servidores se PEC for aprovada](https://www.nexojornal.com.br/extra/2021/11/16/Bolsonaro-sugere-aumento-para-servidores-se-PEC-for-aprovada)
 - [B3 inaugura Touro de Ouro no centro histórico de São Paulo](https://www.nexojornal.com.br/extra/2021/11/16/B3-inaugura-Touro-de-Ouro-no-centro-hist%C3%B3rico-de-S%C3%A3o-Paulo)
+- [A COP26, a justiça climática e o mundo pós-pandemia](https://www.nexojornal.com.br/ensaio/debate/2021/A-COP26-a-justi%C3%A7a-clim%C3%A1tica-e-o-mundo-p%C3%B3s-pandemia)
+- [Elon Musk irá conectar escolas rurais no Brasil, anuncia ministro](https://www.nexojornal.com.br/extra/2021/11/16/Elon-Musk-ir%C3%A1-conectar-escolas-rurais-no-Brasil-anuncia-ministro)
+- [Mercado passa a ver crescimento do PIB  abaixo de 1% em 2022](https://www.nexojornal.com.br/extra/2021/11/16/Mercado-passa-a-ver-crescimento-do-PIB-abaixo-de-1-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
