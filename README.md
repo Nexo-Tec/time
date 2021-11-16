@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que as empresas podem fazer para reverter a emergência climática?](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/o-que-as-empresas-podem-fazer-para-reverter-a-emergencia-climatica/)
 - [Turbante](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/turbante/)
 - [Saudades da coragem de Marighella](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/saudades-da-coragem-de-marighella/)
 - [@gabbois](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabbois/)
 - [Jeferson De: ‘Fazer cinema, estrear um filme é um ato de coragem’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jeferson-de-como-ter-coragem/)
-- [Xamã](https://gamarevista.uol.com.br/pessoas/questionario-proust/xama/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
