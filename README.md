@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Não há nada que não possa ser reconciliado’, diz Lula sobre Alckmin](https://www.nexojornal.com.br/extra/2021/11/15/%E2%80%98N%C3%A3o-h%C3%A1-nada-que-n%C3%A3o-possa-ser-reconciliado%E2%80%99-diz-Lula-sobre-Alckmin)
+- [Ex-assessor de Trump, Steve Bannon se apresenta à polícia](https://www.nexojornal.com.br/extra/2021/11/15/Ex-assessor-de-Trump-Steve-Bannon-se-apresenta-%C3%A0-pol%C3%ADcia)
+- [Governo Fernández sofre revés em eleições legislativas argentinas](https://www.nexojornal.com.br/extra/2021/11/15/Governo-Fern%C3%A1ndez-sofre-rev%C3%A9s-em-elei%C3%A7%C3%B5es-legislativas-argentinas)
 - [Síndico agora tem que denunciar violência doméstica em SP](https://www.nexojornal.com.br/extra/2021/11/14/S%C3%ADndico-agora-tem-que-denunciar-viol%C3%AAncia-dom%C3%A9stica-em-SP)
 - [McDonald’s em Bauru é autuado por banheiro multigênero](https://www.nexojornal.com.br/extra/2021/11/14/McDonald%E2%80%99s-em-Bauru-%C3%A9-autuado-por-banheiro-multig%C3%AAnero)
-- [A preocupação da Nasa com seu telescópio mais famoso](https://www.nexojornal.com.br/expresso/2021/11/14/A-preocupa%C3%A7%C3%A3o-da-Nasa-com-seu-telesc%C3%B3pio-mais-famoso)
-- [Ainda dá tempo? O interrompido sonho de futuro](https://www.nexojornal.com.br/ensaio/2021/Ainda-d%C3%A1-tempo-O-interrompido-sonho-de-futuro)
-- [‘Nexo’ lança cobertura especial sobre serviço público](https://www.nexojornal.com.br/expresso/2021/11/14/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-cobertura-especial-sobre-servi%C3%A7o-p%C3%BAblico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
