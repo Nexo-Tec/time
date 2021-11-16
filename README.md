@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não há nada que não possa ser reconciliado’, diz Lula sobre Alckmin](https://www.nexojornal.com.br/extra/2021/11/15/%E2%80%98N%C3%A3o-h%C3%A1-nada-que-n%C3%A3o-possa-ser-reconciliado%E2%80%99-diz-Lula-sobre-Alckmin)
-- [Ex-assessor de Trump, Steve Bannon se apresenta à polícia](https://www.nexojornal.com.br/extra/2021/11/15/Ex-assessor-de-Trump-Steve-Bannon-se-apresenta-%C3%A0-pol%C3%ADcia)
-- [Governo Fernández sofre revés em eleições legislativas argentinas](https://www.nexojornal.com.br/extra/2021/11/15/Governo-Fern%C3%A1ndez-sofre-rev%C3%A9s-em-elei%C3%A7%C3%B5es-legislativas-argentinas)
-- [Síndico agora tem que denunciar violência doméstica em SP](https://www.nexojornal.com.br/extra/2021/11/14/S%C3%ADndico-agora-tem-que-denunciar-viol%C3%AAncia-dom%C3%A9stica-em-SP)
-- [McDonald’s em Bauru é autuado por banheiro multigênero](https://www.nexojornal.com.br/extra/2021/11/14/McDonald%E2%80%99s-em-Bauru-%C3%A9-autuado-por-banheiro-multig%C3%AAnero)
+- [Governo cubano detém opositores e frustra atos contra o regime](https://www.nexojornal.com.br/extra/2021/11/15/Governo-cubano-det%C3%A9m-opositores-e-frustra-atos-contra-o-regime)
+- [Após divergências, Bolsonaro dá prazo para acertar ida ao PL](https://www.nexojornal.com.br/extra/2021/11/15/Ap%C3%B3s-diverg%C3%AAncias-Bolsonaro-d%C3%A1-prazo-para-acertar-ida-ao-PL)
+- [1 ano de Pix: números, problemas e futuro do sistema de pagamentos](https://www.nexojornal.com.br/expresso/2021/11/15/1-ano-de-Pix-n%C3%BAmeros-problemas-e-futuro-do-sistema-de-pagamentos)
+- [‘O jovem agora vê que apenas um diploma não abre caminhos’](https://www.nexojornal.com.br/entrevista/2021/11/15/%E2%80%98O-jovem-agora-v%C3%AA-que-apenas-um-diploma-n%C3%A3o-abre-caminhos%E2%80%99)
+- [O livro que relata o medo da volta da escravidão na República](https://www.nexojornal.com.br/expresso/2021/11/15/O-livro-que-relata-o-medo-da-volta-da-escravid%C3%A3o-na-Rep%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
