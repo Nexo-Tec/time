@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O xadrez da revisão do plano diretor de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-xadrez-da-revis%C3%A3o-do-plano-diretor-de-S%C3%A3o-Paulo)
 - [Quanto vale conhecer a biodiversidade da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/Quanto-vale-conhecer-a-biodiversidade-da-Amaz%C3%B4nia)
 - [12 pontos sobre incêndios nos ecossistemas brasileiros](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/12-pontos-sobre-inc%C3%AAndios-nos-ecossistemas-brasileiros)
 - [‘A origem do homem’, 150 anos depois](https://pp.nexojornal.com.br/topico/2021/11/10/%E2%80%98A-origem-do-homem%E2%80%99-150-anos-depois)
 - [Inovação tecnológica em saúde](https://pp.nexojornal.com.br/glossario/Inova%C3%A7%C3%A3o-tecnol%C3%B3gica-em-sa%C3%BAde)
-- [Luiz Fernandes Dourado: Sistema Nacional de Educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/09/Luiz-Fernandes-Dourado-Sistema-Nacional-de-Educa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
