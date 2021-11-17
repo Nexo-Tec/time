@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro sugere aumento para servidores se PEC for aprovada](https://www.nexojornal.com.br/extra/2021/11/16/Bolsonaro-sugere-aumento-para-servidores-se-PEC-for-aprovada)
-- [B3 inaugura Touro de Ouro no centro histórico de São Paulo](https://www.nexojornal.com.br/extra/2021/11/16/B3-inaugura-Touro-de-Ouro-no-centro-hist%C3%B3rico-de-S%C3%A3o-Paulo)
-- [A COP26, a justiça climática e o mundo pós-pandemia](https://www.nexojornal.com.br/ensaio/debate/2021/A-COP26-a-justi%C3%A7a-clim%C3%A1tica-e-o-mundo-p%C3%B3s-pandemia)
-- [Elon Musk irá conectar escolas rurais no Brasil, anuncia ministro](https://www.nexojornal.com.br/extra/2021/11/16/Elon-Musk-ir%C3%A1-conectar-escolas-rurais-no-Brasil-anuncia-ministro)
-- [Mercado passa a ver crescimento do PIB  abaixo de 1% em 2022](https://www.nexojornal.com.br/extra/2021/11/16/Mercado-passa-a-ver-crescimento-do-PIB-abaixo-de-1-em-2022)
+- [Capitólio: invasor símbolo é condenado a 41 meses de prisão](https://www.nexojornal.com.br/extra/2021/11/17/Capit%C3%B3lio-invasor-s%C3%ADmbolo-%C3%A9-condenado-a-41-meses-de-pris%C3%A3o)
+- [Deputados aprovam desoneração de folha até 2023 e texto vai a Senado](https://www.nexojornal.com.br/extra/2021/11/17/Deputados-aprovam-desonera%C3%A7%C3%A3o-de-folha-at%C3%A9-2023-e-texto-vai-a-Senado)
+- [Obra de Frida Kahlo bate recorde latino-americano em leilão](https://www.nexojornal.com.br/extra/2021/11/17/Obra-de-Frida-Kahlo-bate-recorde-latino-americano-em-leil%C3%A3o)
+- [Macron recebe Lula com protocolo similar ao de chefe de Estado](https://www.nexojornal.com.br/extra/2021/11/17/Macron-recebe-Lula-com-protocolo-similar-ao-de-chefe-de-Estado)
+- [Governo piora projeção do PIB e prevê inflação maior](https://www.nexojornal.com.br/extra/2021/11/17/Governo-piora-proje%C3%A7%C3%A3o-do-PIB-e-prev%C3%AA-infla%C3%A7%C3%A3o-maior)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
