@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Joice Ferreira: o fogo na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/18/Joice-Ferreira-o-fogo-na-Amaz%C3%B4nia)
+- [O panorama das políticas culturais](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-panorama-das-pol%C3%ADticas-culturais)
 - [O ativismo negro evangélico no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/17/O-ativismo-negro-evang%C3%A9lico-no-Brasil)
 - [Desmatamento, queimada e ESG: velhos desafios, novas oportunidades](https://pp.nexojornal.com.br/ponto-de-vista/2021/Desmatamento-queimada-e-ESG-velhos-desafios-novas-oportunidades)
 - [O xadrez da revisão do plano diretor de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-xadrez-da-revis%C3%A3o-do-plano-diretor-de-S%C3%A3o-Paulo)
-- [Quanto vale conhecer a biodiversidade da Amazônia?](https://pp.nexojornal.com.br/opiniao/2021/Quanto-vale-conhecer-a-biodiversidade-da-Amaz%C3%B4nia)
-- [12 pontos sobre incêndios nos ecossistemas brasileiros](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/12-pontos-sobre-inc%C3%AAndios-nos-ecossistemas-brasileiros)
 <!-- PP_LIST:END -->
 
