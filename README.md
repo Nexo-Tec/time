@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como comprar online espertamente](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comprar-online-espertamente/)
 - [‘COP26 não reflete urgência do clima, mas sociedade civil mostra força’](https://gamarevista.uol.com.br/formato/conversas/cop26-nao-reflete-urgencia-do-clima-mas-sociedade-civil-mostra-forca/)
 - [Crédito ou débito? A pergunta que não quer calar](https://gamarevista.uol.com.br/colunistas/marcello-dantas/credito-ou-debito-a-pergunta-que-nao-quer-calar/)
 - [O que as empresas podem fazer para reverter a emergência climática?](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/o-que-as-empresas-podem-fazer-para-reverter-a-emergencia-climatica/)
 - [Turbante](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/turbante/)
-- [Saudades da coragem de Marighella](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/saudades-da-coragem-de-marighella/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
