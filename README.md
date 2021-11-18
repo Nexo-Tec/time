@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Capitólio: invasor símbolo é condenado a 41 meses de prisão](https://www.nexojornal.com.br/extra/2021/11/17/Capit%C3%B3lio-invasor-s%C3%ADmbolo-%C3%A9-condenado-a-41-meses-de-pris%C3%A3o)
-- [Deputados aprovam desoneração de folha até 2023 e texto vai a Senado](https://www.nexojornal.com.br/extra/2021/11/17/Deputados-aprovam-desonera%C3%A7%C3%A3o-de-folha-at%C3%A9-2023-e-texto-vai-a-Senado)
-- [Obra de Frida Kahlo bate recorde latino-americano em leilão](https://www.nexojornal.com.br/extra/2021/11/17/Obra-de-Frida-Kahlo-bate-recorde-latino-americano-em-leil%C3%A3o)
-- [Macron recebe Lula com protocolo similar ao de chefe de Estado](https://www.nexojornal.com.br/extra/2021/11/17/Macron-recebe-Lula-com-protocolo-similar-ao-de-chefe-de-Estado)
-- [Governo piora projeção do PIB e prevê inflação maior](https://www.nexojornal.com.br/extra/2021/11/17/Governo-piora-proje%C3%A7%C3%A3o-do-PIB-e-prev%C3%AA-infla%C3%A7%C3%A3o-maior)
+- [O que emperra o reajuste para servidores em 2022](https://www.nexojornal.com.br/expresso/2021/11/17/O-que-emperra-o-reajuste-para-servidores-em-2022)
+- [A importância nutricional do feijão com arroz](https://www.nexojornal.com.br/colunistas/2021/A-import%C3%A2ncia-nutricional-do-feij%C3%A3o-com-arroz)
+- [Barroso cobra governo federal por situação do povo Yanomami](https://www.nexojornal.com.br/extra/2021/11/17/Barroso-cobra-governo-federal-por-situa%C3%A7%C3%A3o-do-povo-Yanomami)
+- [Convenção Constitucional: o desafio do Chile](https://www.nexojornal.com.br/ensaio/debate/2021/Conven%C3%A7%C3%A3o-Constitucional-o-desafio-do-Chile)
+- [Promotora investiga comentarista da Jovem Pan por fala antissemita](https://www.nexojornal.com.br/extra/2021/11/17/Promotora-investiga-comentarista-da-Jovem-Pan-por-fala-antissemita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
