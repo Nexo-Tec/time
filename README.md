@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como comprar online espertamente](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comprar-online-espertamente/)
-- [‘COP26 não reflete urgência do clima, mas sociedade civil mostra força’](https://gamarevista.uol.com.br/formato/conversas/cop26-nao-reflete-urgencia-do-clima-mas-sociedade-civil-mostra-forca/)
-- [Crédito ou débito? A pergunta que não quer calar](https://gamarevista.uol.com.br/colunistas/marcello-dantas/credito-ou-debito-a-pergunta-que-nao-quer-calar/)
-- [O que as empresas podem fazer para reverter a emergência climática?](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/o-que-as-empresas-podem-fazer-para-reverter-a-emergencia-climatica/)
-- [Turbante](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/turbante/)
+- [Conversas sobre a imagem contemporânea no Festival Zum](https://gamarevista.uol.com.br/achamos-que-vale/assistir/conversas-sobre-a-imagem-contemporanea-no-festival-zum/)
+- [‘30’, o novo álbum de Adele](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/30-o-novo-album-de-adele/)
+- [A nova temporada de ‘A Máfia dos Tigres’, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-a-mafia-dos-tigres-na-netflix/)
+- [O cinquentenário da Oficina Brennand](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-cinquentenario-da-oficina-brennand/)
+- [‘A arte e os segredos da biografia’, curso com o autor do livro sobre Marighella](https://gamarevista.uol.com.br/achamos-que-vale/fazer/a-arte-e-os-segredos-da-biografia-curso-com-o-autor-do-livro-sobre-marighella/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
