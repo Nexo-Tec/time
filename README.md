@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a crise em órgão do Enem afeta quem vai fazer a prova](https://www.nexojornal.com.br/expresso/2021/11/17/Como-a-crise-em-%C3%B3rg%C3%A3o-do-Enem-afeta-quem-vai-fazer-a-prova)
-- [O saldo da investida externa simultânea de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2021/11/17/O-saldo-da-investida-externa-simult%C3%A2nea-de-Lula-e-Bolsonaro)
-- [Bolsa cai ao menor nível do ano com incertezas fiscais](https://www.nexojornal.com.br/extra/2021/11/17/Bolsa-cai-ao-menor-n%C3%ADvel-do-ano-com-incertezas-fiscais)
-- [O que emperra o reajuste para servidores em 2022](https://www.nexojornal.com.br/expresso/2021/11/17/O-que-emperra-o-reajuste-para-servidores-em-2022)
-- [A importância nutricional do feijão com arroz](https://www.nexojornal.com.br/colunistas/2021/A-import%C3%A2ncia-nutricional-do-feij%C3%A3o-com-arroz)
+- [Paulo Niemeyer é eleito para Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2021/11/18/Paulo-Niemeyer-%C3%A9-eleito-para-Academia-Brasileira-de-Letras)
+- [Verba prevista para a Saúde em 2022 é a menor em 10 anos](https://www.nexojornal.com.br/extra/2021/11/18/Verba-prevista-para-a-Sa%C3%BAde-em-2022-%C3%A9-a-menor-em-10-anos)
+- [Palanques estaduais: um tema que mobiliza a disputa presidencial](https://www.nexojornal.com.br/podcast/2021/11/18/Palanques-estaduais-um-tema-que-mobiliza-a-disputa-presidencial)
+- [Olavo de Carvalho deixa Brasil ‘à francesa’ após intimação da PF](https://www.nexojornal.com.br/extra/2021/11/18/Olavo-de-Carvalho-deixa-Brasil-%E2%80%98%C3%A0-francesa%E2%80%99-ap%C3%B3s-intima%C3%A7%C3%A3o-da-PF)
+- [Como as fake news impactam o jornalismo no século 21](https://www.nexojornal.com.br/academico/2021/11/18/Como-as-fake-news-impactam-o-jornalismo-no-s%C3%A9culo-21)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
