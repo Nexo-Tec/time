@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quando o amargo é melhor](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/quando-o-amargo-e-melhor/)
 - [A PORTA DA VIAGEM SEM RETORNO](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-porta-da-viagem-sem-retorno/)
 - [Conversas sobre a imagem contemporânea no Festival Zum](https://gamarevista.uol.com.br/achamos-que-vale/assistir/conversas-sobre-a-imagem-contemporanea-no-festival-zum/)
 - [‘30’, o novo álbum de Adele](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/30-o-novo-album-de-adele/)
 - [A nova temporada de ‘A Máfia dos Tigres’, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-a-mafia-dos-tigres-na-netflix/)
-- [O cinquentenário da Oficina Brennand](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-cinquentenario-da-oficina-brennand/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
