@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A PORTA DA VIAGEM SEM RETORNO](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-porta-da-viagem-sem-retorno/)
 - [Conversas sobre a imagem contemporânea no Festival Zum](https://gamarevista.uol.com.br/achamos-que-vale/assistir/conversas-sobre-a-imagem-contemporanea-no-festival-zum/)
 - [‘30’, o novo álbum de Adele](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/30-o-novo-album-de-adele/)
 - [A nova temporada de ‘A Máfia dos Tigres’, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-a-mafia-dos-tigres-na-netflix/)
 - [O cinquentenário da Oficina Brennand](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-cinquentenario-da-oficina-brennand/)
-- [‘A arte e os segredos da biografia’, curso com o autor do livro sobre Marighella](https://gamarevista.uol.com.br/achamos-que-vale/fazer/a-arte-e-os-segredos-da-biografia-curso-com-o-autor-do-livro-sobre-marighella/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
