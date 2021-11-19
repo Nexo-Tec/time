@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O funeral do Bolsa Família e o cálculo eleitoral](https://www.nexojornal.com.br/colunistas/2021/O-funeral-do-Bolsa-Fam%C3%ADlia-e-o-c%C3%A1lculo-eleitoral)
+- [‘Uma nova história, feita de histórias’: protagonismo negro](https://www.nexojornal.com.br/estante/trechos/2021/11/18/%E2%80%98Uma-nova-hist%C3%B3ria-feita-de-hist%C3%B3rias%E2%80%99-protagonismo-negro)
+- [​​O novo aumento do desmatamento no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/11/18/%E2%80%8B%E2%80%8BO-novo-aumento-do-desmatamento-no-governo-Bolsonaro)
+- [1 ano da morte de Beto Freitas: as ações do Carrefour e suas reações](https://www.nexojornal.com.br/expresso/2021/11/18/1-ano-da-morte-de-Beto-Freitas-as-a%C3%A7%C3%B5es-do-Carrefour-e-suas-rea%C3%A7%C3%B5es)
 - [Paulo Niemeyer é eleito para Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2021/11/18/Paulo-Niemeyer-%C3%A9-eleito-para-Academia-Brasileira-de-Letras)
-- [Verba prevista para a Saúde em 2022 é a menor em 10 anos](https://www.nexojornal.com.br/extra/2021/11/18/Verba-prevista-para-a-Sa%C3%BAde-em-2022-%C3%A9-a-menor-em-10-anos)
-- [Palanques estaduais: um tema que mobiliza a disputa presidencial](https://www.nexojornal.com.br/podcast/2021/11/18/Palanques-estaduais-um-tema-que-mobiliza-a-disputa-presidencial)
-- [Olavo de Carvalho deixa Brasil ‘à francesa’ após intimação da PF](https://www.nexojornal.com.br/extra/2021/11/18/Olavo-de-Carvalho-deixa-Brasil-%E2%80%98%C3%A0-francesa%E2%80%99-ap%C3%B3s-intima%C3%A7%C3%A3o-da-PF)
-- [Como as fake news impactam o jornalismo no século 21](https://www.nexojornal.com.br/academico/2021/11/18/Como-as-fake-news-impactam-o-jornalismo-no-s%C3%A9culo-21)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
