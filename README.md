@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [4 eixos para reflexão no Dia da Consciência Negra de 2021](https://www.nexojornal.com.br/expresso/2021/11/19/4-eixos-para-reflex%C3%A3o-no-Dia-da-Consci%C3%AAncia-Negra-de-2021)
+- [A reação de Fernando Morais às versões piratas de ‘Lula’](https://www.nexojornal.com.br/expresso/2021/11/19/A-rea%C3%A7%C3%A3o-de-Fernando-Morais-%C3%A0s-vers%C3%B5es-piratas-de-%E2%80%98Lula%E2%80%99)
 - [Os povos originários como vetores de uma democracia inclusiva](https://www.nexojornal.com.br/ensaio/debate/2021/Os-povos-origin%C3%A1rios-como-vetores-de-uma-democracia-inclusiva)
 - [Referências negras: os nomes que o racismo nos obriga a esquecer](https://www.nexojornal.com.br/colunistas/tribuna/2021/Refer%C3%AAncias-negras-os-nomes-que-o-racismo-nos-obriga-a-esquecer)
 - [‘No streaming, novelas voltam às suas origens no Brasil’](https://www.nexojornal.com.br/entrevista/2021/11/19/%E2%80%98No-streaming-novelas-voltam-%C3%A0s-suas-origens-no-Brasil%E2%80%99)
-- [Hora da conta](https://www.nexojornal.com.br/externo/2021/11/19/Hora-da-conta)
-- [A desigualdade no perfil de quem mais ganha com NFTs](https://www.nexojornal.com.br/expresso/2021/11/19/A-desigualdade-no-perfil-de-quem-mais-ganha-com-NFTs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
