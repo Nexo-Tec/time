@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O funeral do Bolsa Família e o cálculo eleitoral](https://www.nexojornal.com.br/colunistas/2021/O-funeral-do-Bolsa-Fam%C3%ADlia-e-o-c%C3%A1lculo-eleitoral)
-- [‘Uma nova história, feita de histórias’: protagonismo negro](https://www.nexojornal.com.br/estante/trechos/2021/11/18/%E2%80%98Uma-nova-hist%C3%B3ria-feita-de-hist%C3%B3rias%E2%80%99-protagonismo-negro)
-- [​​O novo aumento do desmatamento no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/11/18/%E2%80%8B%E2%80%8BO-novo-aumento-do-desmatamento-no-governo-Bolsonaro)
-- [1 ano da morte de Beto Freitas: as ações do Carrefour e suas reações](https://www.nexojornal.com.br/expresso/2021/11/18/1-ano-da-morte-de-Beto-Freitas-as-a%C3%A7%C3%B5es-do-Carrefour-e-suas-rea%C3%A7%C3%B5es)
-- [Paulo Niemeyer é eleito para Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2021/11/18/Paulo-Niemeyer-%C3%A9-eleito-para-Academia-Brasileira-de-Letras)
+- [Os povos originários como vetores de uma democracia inclusiva](https://www.nexojornal.com.br/ensaio/debate/2021/Os-povos-origin%C3%A1rios-como-vetores-de-uma-democracia-inclusiva)
+- [Referências negras: os nomes que o racismo nos obriga a esquecer](https://www.nexojornal.com.br/colunistas/tribuna/2021/Refer%C3%AAncias-negras-os-nomes-que-o-racismo-nos-obriga-a-esquecer)
+- [‘No streaming, novelas voltam às suas origens no Brasil’](https://www.nexojornal.com.br/entrevista/2021/11/19/%E2%80%98No-streaming-novelas-voltam-%C3%A0s-suas-origens-no-Brasil%E2%80%99)
+- [Hora da conta](https://www.nexojornal.com.br/externo/2021/11/19/Hora-da-conta)
+- [A desigualdade no perfil de quem mais ganha com NFTs](https://www.nexojornal.com.br/expresso/2021/11/19/A-desigualdade-no-perfil-de-quem-mais-ganha-com-NFTs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
