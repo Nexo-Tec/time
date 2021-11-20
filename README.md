@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os povos originários como vetores de uma democracia inclusiva](https://www.nexojornal.com.br/ensaio/debate/2021/Os-povos-origin%C3%A1rios-como-vetores-de-uma-democracia-inclusiva)
-- [Referências negras: os nomes que o racismo nos obriga a esquecer](https://www.nexojornal.com.br/colunistas/tribuna/2021/Refer%C3%AAncias-negras-os-nomes-que-o-racismo-nos-obriga-a-esquecer)
-- [‘No streaming, novelas voltam às suas origens no Brasil’](https://www.nexojornal.com.br/entrevista/2021/11/19/%E2%80%98No-streaming-novelas-voltam-%C3%A0s-suas-origens-no-Brasil%E2%80%99)
-- [Hora da conta](https://www.nexojornal.com.br/externo/2021/11/19/Hora-da-conta)
-- [A desigualdade no perfil de quem mais ganha com NFTs](https://www.nexojornal.com.br/expresso/2021/11/19/A-desigualdade-no-perfil-de-quem-mais-ganha-com-NFTs)
+- [98 meses para salvar o clima: o saldo de uma dívida adiada](https://www.nexojornal.com.br/ensaio/debate/2021/98-meses-para-salvar-o-clima-o-saldo-de-uma-d%C3%ADvida-adiada)
+- [Áustria é 1º país da Europa a retomar lockdown total](https://www.nexojornal.com.br/extra/2021/11/19/%C3%81ustria-%C3%A9-1%C2%BA-pa%C3%ADs-da-Europa-a-retomar-lockdown-total)
+- [Como a Europa responde ao novo agravamento da covid](https://www.nexojornal.com.br/expresso/2021/11/19/Como-a-Europa-responde-ao-novo-agravamento-da-covid)
+- [Número de casamentos homoafetivos deve bater recorde em 2021](https://www.nexojornal.com.br/extra/2021/11/19/N%C3%BAmero-de-casamentos-homoafetivos-deve-bater-recorde-em-2021)
+- [IBGE: renda do trabalho atinge menor patamar em 2020](https://www.nexojornal.com.br/extra/2021/11/19/IBGE-renda-do-trabalho-atinge-menor-patamar-em-2020)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
