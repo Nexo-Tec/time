@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Joice Ferreira: o fogo na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/18/Joice-Ferreira-o-fogo-na-Amaz%C3%B4nia)
-- [O panorama das políticas culturais](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-panorama-das-pol%C3%ADticas-culturais)
-- [O ativismo negro evangélico no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/17/O-ativismo-negro-evang%C3%A9lico-no-Brasil)
-- [Desmatamento, queimada e ESG: velhos desafios, novas oportunidades](https://pp.nexojornal.com.br/ponto-de-vista/2021/Desmatamento-queimada-e-ESG-velhos-desafios-novas-oportunidades)
-- [O xadrez da revisão do plano diretor de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2021/O-xadrez-da-revis%C3%A3o-do-plano-diretor-de-S%C3%A3o-Paulo)
+- [Avaliação das políticas de ação afirmativa no ensino superior no Brasil: resultados e desafios futuros](https://pp.nexojornal.com.br/opiniao/2021/Avalia%C3%A7%C3%A3o-das-pol%C3%ADticas-de-a%C3%A7%C3%A3o-afirmativa-no-ensino-superior-no-Brasil-resultados-e-desafios-futuros)
+- [Equalização do acesso à UFMG após uma década de ações afirmativas](https://pp.nexojornal.com.br/opiniao/2021/Equaliza%C3%A7%C3%A3o-do-acesso-%C3%A0-UFMG-ap%C3%B3s-uma-d%C3%A9cada-de-a%C3%A7%C3%B5es-afirmativas)
+- [Ações afirmativas na Universidade do Estado do Rio de Janeiro](https://pp.nexojornal.com.br/linha-do-tempo/2021/A%C3%A7%C3%B5es-afirmativas-na-Universidade-do-Estado-do-Rio-de-Janeiro)
+- [Idas e vindas da expansão universitária](https://pp.nexojornal.com.br/opiniao/2021/Idas-e-vindas-da-expans%C3%A3o-universit%C3%A1ria)
+- [Duas décadas de cotas: conquistas e desafios](https://pp.nexojornal.com.br/opiniao/2021/Duas-d%C3%A9cadas-de-cotas-conquistas-e-desafios)
 <!-- PP_LIST:END -->
 
