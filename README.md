@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os povos originários como vetores de uma democracia inclusiva](https://www.nexojornal.com.br/ensaio/debate/2021/Os-povos-origin%C3%A1rios-como-vetores-de-uma-democracia-inclusiva)
-- [Referências negras: os nomes que o racismo nos obriga a esquecer](https://www.nexojornal.com.br/colunistas/tribuna/2021/Refer%C3%AAncias-negras-os-nomes-que-o-racismo-nos-obriga-a-esquecer)
-- [‘No streaming, novelas voltam às suas origens no Brasil’](https://www.nexojornal.com.br/entrevista/2021/11/19/%E2%80%98No-streaming-novelas-voltam-%C3%A0s-suas-origens-no-Brasil%E2%80%99)
-- [Hora da conta](https://www.nexojornal.com.br/externo/2021/11/19/Hora-da-conta)
-- [A desigualdade no perfil de quem mais ganha com NFTs](https://www.nexojornal.com.br/expresso/2021/11/19/A-desigualdade-no-perfil-de-quem-mais-ganha-com-NFTs)
+- [Coordenador das prévias do PSDB declara apoio à Leite](https://www.nexojornal.com.br/extra/2021/11/20/Coordenador-das-pr%C3%A9vias-do-PSDB-declara-apoio-%C3%A0-Leite)
+- [Dia da Consciência Negra tem protestos contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/11/20/Dia-da-Consci%C3%AAncia-Negra-tem-protestos-contra-Bolsonaro)
+- [60% da população brasileira está imunizada contra a covid-19](https://www.nexojornal.com.br/extra/2021/11/20/60-da-popula%C3%A7%C3%A3o-brasileira-est%C3%A1-imunizada-contra-a-covid-19)
+- [Áustria e Holanda têm protestos contra medidas de restrição](https://www.nexojornal.com.br/extra/2021/11/20/%C3%81ustria-e-Holanda-t%C3%AAm-protestos-contra-medidas-de-restri%C3%A7%C3%A3o)
+- [4 eixos para reflexão no Dia da Consciência Negra de 2021](https://www.nexojornal.com.br/expresso/2021/11/19/4-eixos-para-reflex%C3%A3o-no-Dia-da-Consci%C3%AAncia-Negra-de-2021)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
