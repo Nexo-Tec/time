@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Coordenador das prévias do PSDB declara apoio à Leite](https://www.nexojornal.com.br/extra/2021/11/20/Coordenador-das-pr%C3%A9vias-do-PSDB-declara-apoio-%C3%A0-Leite)
-- [Dia da Consciência Negra tem protestos contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/11/20/Dia-da-Consci%C3%AAncia-Negra-tem-protestos-contra-Bolsonaro)
-- [60% da população brasileira está imunizada contra a covid-19](https://www.nexojornal.com.br/extra/2021/11/20/60-da-popula%C3%A7%C3%A3o-brasileira-est%C3%A1-imunizada-contra-a-covid-19)
-- [Áustria e Holanda têm protestos contra medidas de restrição](https://www.nexojornal.com.br/extra/2021/11/20/%C3%81ustria-e-Holanda-t%C3%AAm-protestos-contra-medidas-de-restri%C3%A7%C3%A3o)
-- [4 eixos para reflexão no Dia da Consciência Negra de 2021](https://www.nexojornal.com.br/expresso/2021/11/19/4-eixos-para-reflex%C3%A3o-no-Dia-da-Consci%C3%AAncia-Negra-de-2021)
+- [O canal de Youtube que documenta a criação de colônias de formigas](https://www.nexojornal.com.br/expresso/2021/11/20/O-canal-de-Youtube-que-documenta-a-cria%C3%A7%C3%A3o-de-col%C3%B4nias-de-formigas)
+- [O barco autônomo criado para navegar nos canais de Amsterdã](https://www.nexojornal.com.br/expresso/2021/11/20/O-barco-aut%C3%B4nomo-criado-para-navegar-nos-canais-de-Amsterd%C3%A3)
+- [5 livros para ler mesmo sem ser obrigada pelo vestibular](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-para-ler-mesmo-sem-ser-obrigada-pelo-vestibular)
+- [A polêmica em torno dos riscos da tecnologia 5G](https://www.nexojornal.com.br/ensaio/2021/A-pol%C3%AAmica-em-torno-dos-riscos-da-tecnologia-5G)
+- [‘Falta um líder nacional ao PSDB, que não é mais tão forte’](https://www.nexojornal.com.br/entrevista/2021/11/20/%E2%80%98Falta-um-l%C3%ADder-nacional-ao-PSDB-que-n%C3%A3o-%C3%A9-mais-t%C3%A3o-forte%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
