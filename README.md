@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Premiê volta ao poder no Sudão após acordo com militares](https://www.nexojornal.com.br/extra/2021/11/21/Premi%C3%AA-volta-ao-poder-no-Sud%C3%A3o-ap%C3%B3s-acordo-com-militares)
-- [PSDB suspende prévias após falhas em aplicativo de votação](https://www.nexojornal.com.br/extra/2021/11/21/PSDB-suspende-pr%C3%A9vias-ap%C3%B3s-falhas-em-aplicativo-de-vota%C3%A7%C3%A3o)
-- [Tenista chinesa diz estar segura em conversa com presidente do COI](https://www.nexojornal.com.br/extra/2021/11/21/Tenista-chinesa-diz-estar-segura-em-conversa-com-presidente-do-COI)
-- [Questões do Enem revelam prova sem ‘cara do governo’](https://www.nexojornal.com.br/extra/2021/11/21/Quest%C3%B5es-do-Enem-revelam-prova-sem-%E2%80%98cara-do-governo%E2%80%99)
-- [Tema da redação do Enem é ‘invisibilidade e registro civil’](https://www.nexojornal.com.br/extra/2021/11/21/Tema-da-reda%C3%A7%C3%A3o-do-Enem-%C3%A9-%E2%80%98invisibilidade-e-registro-civil%E2%80%99)
+- [Moradores recolhem corpos em complexo no Rio após ação da PM](https://www.nexojornal.com.br/extra/2021/11/22/Moradores-recolhem-corpos-em-complexo-no-Rio-ap%C3%B3s-a%C3%A7%C3%A3o-da-PM)
+- [Como os sistemas de saúde tratam a redesignação sexual](https://www.nexojornal.com.br/expresso/2021/11/22/Como-os-sistemas-de-sa%C3%BAde-tratam-a-redesigna%C3%A7%C3%A3o-sexual)
+- [Possibilidade do bem ou inevitabilidade do mal](https://www.nexojornal.com.br/ensaio/2021/Possibilidade-do-bem-ou-inevitabilidade-do-mal)
+- [O que é o Podemos, partido de Moro para a Presidência](https://www.nexojornal.com.br/expresso/2021/11/22/O-que-%C3%A9-o-Podemos-partido-de-Moro-para-a-Presid%C3%AAncia)
+- [O que ronda a suspensão da venda de carne do Brasil para a China](https://www.nexojornal.com.br/expresso/2021/11/22/O-que-ronda-a-suspens%C3%A3o-da-venda-de-carne-do-Brasil-para-a-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
