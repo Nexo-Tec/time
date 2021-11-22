@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Coordenador das prévias do PSDB declara apoio à Leite](https://www.nexojornal.com.br/extra/2021/11/20/Coordenador-das-pr%C3%A9vias-do-PSDB-declara-apoio-%C3%A0-Leite)
-- [Dia da Consciência Negra tem protestos contra Bolsonaro](https://www.nexojornal.com.br/extra/2021/11/20/Dia-da-Consci%C3%AAncia-Negra-tem-protestos-contra-Bolsonaro)
-- [60% da população brasileira está imunizada contra a covid-19](https://www.nexojornal.com.br/extra/2021/11/20/60-da-popula%C3%A7%C3%A3o-brasileira-est%C3%A1-imunizada-contra-a-covid-19)
-- [Áustria e Holanda têm protestos contra medidas de restrição](https://www.nexojornal.com.br/extra/2021/11/20/%C3%81ustria-e-Holanda-t%C3%AAm-protestos-contra-medidas-de-restri%C3%A7%C3%A3o)
-- [4 eixos para reflexão no Dia da Consciência Negra de 2021](https://www.nexojornal.com.br/expresso/2021/11/19/4-eixos-para-reflex%C3%A3o-no-Dia-da-Consci%C3%AAncia-Negra-de-2021)
+- [Premiê volta ao poder no Sudão após acordo com militares](https://www.nexojornal.com.br/extra/2021/11/21/Premi%C3%AA-volta-ao-poder-no-Sud%C3%A3o-ap%C3%B3s-acordo-com-militares)
+- [PSDB suspende prévias após falhas em aplicativo de votação](https://www.nexojornal.com.br/extra/2021/11/21/PSDB-suspende-pr%C3%A9vias-ap%C3%B3s-falhas-em-aplicativo-de-vota%C3%A7%C3%A3o)
+- [Tenista chinesa diz estar segura em conversa com presidente do COI](https://www.nexojornal.com.br/extra/2021/11/21/Tenista-chinesa-diz-estar-segura-em-conversa-com-presidente-do-COI)
+- [Questões do Enem revelam prova sem ‘cara do governo’](https://www.nexojornal.com.br/extra/2021/11/21/Quest%C3%B5es-do-Enem-revelam-prova-sem-%E2%80%98cara-do-governo%E2%80%99)
+- [Tema da redação do Enem é ‘invisibilidade e registro civil’](https://www.nexojornal.com.br/extra/2021/11/21/Tema-da-reda%C3%A7%C3%A3o-do-Enem-%C3%A9-%E2%80%98invisibilidade-e-registro-civil%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
