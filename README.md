@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Por que Merkel pode ficar 16 anos no poder e Ortega não?’, diz Lula](https://www.nexojornal.com.br/extra/2021/11/23/%E2%80%98Por-que-Merkel-pode-ficar-16-anos-no-poder-e-Ortega-n%C3%A3o%E2%80%99-diz-Lula)
 - [Como a inflação impacta a temporada de descontos](https://www.nexojornal.com.br/expresso/2021/11/22/Como-a-infla%C3%A7%C3%A3o-impacta-a-temporada-de-descontos)
 - [Quais as suspeitas de violações policiais na chacina do Salgueiro](https://www.nexojornal.com.br/expresso/2021/11/22/Quais-as-suspeitas-de-viola%C3%A7%C3%B5es-policiais-na-chacina-do-Salgueiro)
 - [USP lança fundo patrimonial para receber doações para pesquisa](https://www.nexojornal.com.br/extra/2021/11/22/USP-lan%C3%A7a-fundo-patrimonial-para-receber-doa%C3%A7%C3%B5es-para-pesquisa)
 - [Cidadania expulsa deputado Fernando Cury do partido](https://www.nexojornal.com.br/extra/2021/11/22/Cidadania-expulsa-deputado-Fernando-Cury-do-partido)
-- [O museu que reúne livros banidos de todo o mundo](https://www.nexojornal.com.br/expresso/2021/11/22/O-museu-que-re%C3%BAne-livros-banidos-de-todo-o-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
