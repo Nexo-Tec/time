@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bola Wilson](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-wilson/)
 - [Faça um favor a si mesmo: volte a dançar](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/faca-um-favor-a-si-mesmo-volte-a-dancar/)
 - [@theharperwatters](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/theharperwatters/)
 - [Ismael dos Anjos e Guilherme N. Valadares: Como lidar com o silêncio dos homens?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/guilherme-n-valadares-ismael-dos-anjos-o-que-e-ser-homem/)
 - [Preta Rara](https://gamarevista.uol.com.br/pessoas/questionario-proust/preta-rara/)
-- [Quando o amargo é melhor](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/quando-o-amargo-e-melhor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
