@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Premiê volta ao poder no Sudão após acordo com militares](https://www.nexojornal.com.br/extra/2021/11/21/Premi%C3%AA-volta-ao-poder-no-Sud%C3%A3o-ap%C3%B3s-acordo-com-militares)
-- [PSDB suspende prévias após falhas em aplicativo de votação](https://www.nexojornal.com.br/extra/2021/11/21/PSDB-suspende-pr%C3%A9vias-ap%C3%B3s-falhas-em-aplicativo-de-vota%C3%A7%C3%A3o)
-- [Tenista chinesa diz estar segura em conversa com presidente do COI](https://www.nexojornal.com.br/extra/2021/11/21/Tenista-chinesa-diz-estar-segura-em-conversa-com-presidente-do-COI)
-- [Questões do Enem revelam prova sem ‘cara do governo’](https://www.nexojornal.com.br/extra/2021/11/21/Quest%C3%B5es-do-Enem-revelam-prova-sem-%E2%80%98cara-do-governo%E2%80%99)
-- [Tema da redação do Enem é ‘invisibilidade e registro civil’](https://www.nexojornal.com.br/extra/2021/11/21/Tema-da-reda%C3%A7%C3%A3o-do-Enem-%C3%A9-%E2%80%98invisibilidade-e-registro-civil%E2%80%99)
+- [Como a inflação impacta a temporada de descontos](https://www.nexojornal.com.br/expresso/2021/11/22/Como-a-infla%C3%A7%C3%A3o-impacta-a-temporada-de-descontos)
+- [Quais as suspeitas de violações policiais na chacina do Salgueiro](https://www.nexojornal.com.br/expresso/2021/11/22/Quais-as-suspeitas-de-viola%C3%A7%C3%B5es-policiais-na-chacina-do-Salgueiro)
+- [USP lança fundo patrimonial para receber doações para pesquisa](https://www.nexojornal.com.br/extra/2021/11/22/USP-lan%C3%A7a-fundo-patrimonial-para-receber-doa%C3%A7%C3%B5es-para-pesquisa)
+- [Cidadania expulsa deputado Fernando Cury do partido](https://www.nexojornal.com.br/extra/2021/11/22/Cidadania-expulsa-deputado-Fernando-Cury-do-partido)
+- [O museu que reúne livros banidos de todo o mundo](https://www.nexojornal.com.br/expresso/2021/11/22/O-museu-que-re%C3%BAne-livros-banidos-de-todo-o-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
