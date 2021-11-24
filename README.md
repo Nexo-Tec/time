@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a inflação impacta a temporada de descontos](https://www.nexojornal.com.br/expresso/2021/11/22/Como-a-infla%C3%A7%C3%A3o-impacta-a-temporada-de-descontos)
-- [Quais as suspeitas de violações policiais na chacina do Salgueiro](https://www.nexojornal.com.br/expresso/2021/11/22/Quais-as-suspeitas-de-viola%C3%A7%C3%B5es-policiais-na-chacina-do-Salgueiro)
-- [USP lança fundo patrimonial para receber doações para pesquisa](https://www.nexojornal.com.br/extra/2021/11/22/USP-lan%C3%A7a-fundo-patrimonial-para-receber-doa%C3%A7%C3%B5es-para-pesquisa)
-- [Cidadania expulsa deputado Fernando Cury do partido](https://www.nexojornal.com.br/extra/2021/11/22/Cidadania-expulsa-deputado-Fernando-Cury-do-partido)
-- [O museu que reúne livros banidos de todo o mundo](https://www.nexojornal.com.br/expresso/2021/11/22/O-museu-que-re%C3%BAne-livros-banidos-de-todo-o-mundo)
+- [Bolsonaro diz que censura na ditadura ‘nem se compara’ a ações do TSE](https://www.nexojornal.com.br/extra/2021/11/23/Bolsonaro-diz-que-censura-na-ditadura-%E2%80%98nem-se-compara%E2%80%99-a-a%C3%A7%C3%B5es-do-TSE)
+- [O fórum de Gilmar Mendes em Lisboa e as relações de poder no Brasil](https://www.nexojornal.com.br/expresso/2021/11/23/O-f%C3%B3rum-de-Gilmar-Mendes-em-Lisboa-e-as-rela%C3%A7%C3%B5es-de-poder-no-Brasil)
+- [O que muda com a sanção da Lei Mariana Ferrer](https://www.nexojornal.com.br/expresso/2021/11/23/O-que-muda-com-a-san%C3%A7%C3%A3o-da-Lei-Mariana-Ferrer)
+- [Estudantes brasileiros: desconectados até quando?](https://www.nexojornal.com.br/colunistas/2021/Estudantes-brasileiros-desconectados-at%C3%A9-quando)
+- [Para onde vai o dinheiro? O foco do Congresso antes do recesso](https://www.nexojornal.com.br/expresso/2021/11/23/Para-onde-vai-o-dinheiro-O-foco-do-Congresso-antes-do-recesso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
