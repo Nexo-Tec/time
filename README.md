@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Impactos em ecossistemas florestais e aquáticos](https://pp.nexojornal.com.br/glossario/Impactos-em-ecossistemas-florestais-e-aqu%C3%A1ticos)
+- [Aquecimento global e o consumo residencial de energia no Brasil](https://pp.nexojornal.com.br/academico/2021/Aquecimento-global-e-o-consumo-residencial-de-energia-no-Brasil)
 - [Antirracismo e lutas negras na contemporaneidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/23/Antirracismo-e-lutas-negras-na-contemporaneidade)
 - [O que os quilombolas do Cerrado nos ensinam sobre queimadas?](https://pp.nexojornal.com.br/academico/2021/O-que-os-quilombolas-do-Cerrado-nos-ensinam-sobre-queimadas)
 - [O velho e o novo obstáculo ao direito humano à alimentação adequada](https://pp.nexojornal.com.br/opiniao/2021/O-velho-e-o-novo-obst%C3%A1culo-ao-direito-humano-%C3%A0-alimenta%C3%A7%C3%A3o-adequada)
-- [Compreendendo a reforma do Imposto de Renda de 2021](https://pp.nexojornal.com.br/opiniao/2021/Compreendendo-a-reforma-do-Imposto-de-Renda-de-2021)
-- [Guilherme Varella: a cultura e o setor artístico no Brasil, hoje](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/23/Guilherme-Varella-a-cultura-e-o-setor-art%C3%ADstico-no-Brasil-hoje)
 <!-- PP_LIST:END -->
 
