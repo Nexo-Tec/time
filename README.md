@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Avaliação das políticas de ação afirmativa no ensino superior no Brasil: resultados e desafios futuros](https://pp.nexojornal.com.br/opiniao/2021/Avalia%C3%A7%C3%A3o-das-pol%C3%ADticas-de-a%C3%A7%C3%A3o-afirmativa-no-ensino-superior-no-Brasil-resultados-e-desafios-futuros)
-- [Equalização do acesso à UFMG após uma década de ações afirmativas](https://pp.nexojornal.com.br/opiniao/2021/Equaliza%C3%A7%C3%A3o-do-acesso-%C3%A0-UFMG-ap%C3%B3s-uma-d%C3%A9cada-de-a%C3%A7%C3%B5es-afirmativas)
-- [Ações afirmativas na Universidade do Estado do Rio de Janeiro](https://pp.nexojornal.com.br/linha-do-tempo/2021/A%C3%A7%C3%B5es-afirmativas-na-Universidade-do-Estado-do-Rio-de-Janeiro)
-- [Idas e vindas da expansão universitária](https://pp.nexojornal.com.br/opiniao/2021/Idas-e-vindas-da-expans%C3%A3o-universit%C3%A1ria)
-- [Duas décadas de cotas: conquistas e desafios](https://pp.nexojornal.com.br/opiniao/2021/Duas-d%C3%A9cadas-de-cotas-conquistas-e-desafios)
+- [Antirracismo e lutas negras na contemporaneidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/23/Antirracismo-e-lutas-negras-na-contemporaneidade)
+- [O que os quilombolas do Cerrado nos ensinam sobre queimadas?](https://pp.nexojornal.com.br/academico/2021/O-que-os-quilombolas-do-Cerrado-nos-ensinam-sobre-queimadas)
+- [O velho e o novo obstáculo ao direito humano à alimentação adequada](https://pp.nexojornal.com.br/opiniao/2021/O-velho-e-o-novo-obst%C3%A1culo-ao-direito-humano-%C3%A0-alimenta%C3%A7%C3%A3o-adequada)
+- [Compreendendo a reforma do Imposto de Renda de 2021](https://pp.nexojornal.com.br/opiniao/2021/Compreendendo-a-reforma-do-Imposto-de-Renda-de-2021)
+- [Guilherme Varella: a cultura e o setor artístico no Brasil, hoje](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/23/Guilherme-Varella-a-cultura-e-o-setor-art%C3%ADstico-no-Brasil-hoje)
 <!-- PP_LIST:END -->
 
