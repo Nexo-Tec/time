@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro diz que censura na ditadura ‘nem se compara’ a ações do TSE](https://www.nexojornal.com.br/extra/2021/11/23/Bolsonaro-diz-que-censura-na-ditadura-%E2%80%98nem-se-compara%E2%80%99-a-a%C3%A7%C3%B5es-do-TSE)
-- [O fórum de Gilmar Mendes em Lisboa e as relações de poder no Brasil](https://www.nexojornal.com.br/expresso/2021/11/23/O-f%C3%B3rum-de-Gilmar-Mendes-em-Lisboa-e-as-rela%C3%A7%C3%B5es-de-poder-no-Brasil)
-- [O que muda com a sanção da Lei Mariana Ferrer](https://www.nexojornal.com.br/expresso/2021/11/23/O-que-muda-com-a-san%C3%A7%C3%A3o-da-Lei-Mariana-Ferrer)
-- [Estudantes brasileiros: desconectados até quando?](https://www.nexojornal.com.br/colunistas/2021/Estudantes-brasileiros-desconectados-at%C3%A9-quando)
-- [Para onde vai o dinheiro? O foco do Congresso antes do recesso](https://www.nexojornal.com.br/expresso/2021/11/23/Para-onde-vai-o-dinheiro-O-foco-do-Congresso-antes-do-recesso)
+- [A participação social na Defensoria Pública de São Paulo](https://www.nexojornal.com.br/academico/2021/11/24/A-participa%C3%A7%C3%A3o-social-na-Defensoria-P%C3%BAblica-de-S%C3%A3o-Paulo)
+- [Kurt Vonnegut, o soldado que se tornou escritor pacifista](https://www.nexojornal.com.br/expresso/2021/11/24/Kurt-Vonnegut-o-soldado-que-se-tornou-escritor-pacifista)
+- [Pilotos e comissários de voo prometem greve nacional](https://www.nexojornal.com.br/extra/2021/11/24/Pilotos-e-comiss%C3%A1rios-de-voo-prometem-greve-nacional)
+- [Dicionário Collins elege NFT como palavra do ano de 2021](https://www.nexojornal.com.br/extra/2021/11/24/Dicion%C3%A1rio-Collins-elege-NFT-como-palavra-do-ano-de-2021)
+- [O abandono de búfalos em Brotas. E o quadro de maus-tratos no país](https://www.nexojornal.com.br/expresso/2021/11/24/O-abandono-de-b%C3%BAfalos-em-Brotas.-E-o-quadro-de-maus-tratos-no-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
