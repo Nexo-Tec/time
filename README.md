@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aly Muritiba: ‘Trabalho na cadeia me fez olhar personagens sem julgamento’](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/aly-muritiba-trabalho-na-cadeia-me-fez-olhar-personagens-sem-julgamento/)
 - [CV: Francisco Sant’Ana](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-francisco-santana-sorvete/)
 - [Como dizer a verdade para as crianças](https://gamarevista.uol.com.br/filhos/a-verdade-dos-pequenos/)
 - [Bola Wilson](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-wilson/)
 - [Faça um favor a si mesmo: volte a dançar](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/faca-um-favor-a-si-mesmo-volte-a-dancar/)
-- [@theharperwatters](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/theharperwatters/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
