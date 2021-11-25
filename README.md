@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Francisco Sant’Ana](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-francisco-santana-sorvete/)
 - [Como dizer a verdade para as crianças](https://gamarevista.uol.com.br/filhos/a-verdade-dos-pequenos/)
 - [Bola Wilson](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-wilson/)
 - [Faça um favor a si mesmo: volte a dançar](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/faca-um-favor-a-si-mesmo-volte-a-dancar/)
 - [@theharperwatters](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/theharperwatters/)
-- [Ismael dos Anjos e Guilherme N. Valadares: Como lidar com o silêncio dos homens?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/guilherme-n-valadares-ismael-dos-anjos-o-que-e-ser-homem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
