@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A participação social na Defensoria Pública de São Paulo](https://www.nexojornal.com.br/academico/2021/11/24/A-participa%C3%A7%C3%A3o-social-na-Defensoria-P%C3%BAblica-de-S%C3%A3o-Paulo)
-- [Kurt Vonnegut, o soldado que se tornou escritor pacifista](https://www.nexojornal.com.br/expresso/2021/11/24/Kurt-Vonnegut-o-soldado-que-se-tornou-escritor-pacifista)
-- [Pilotos e comissários de voo prometem greve nacional](https://www.nexojornal.com.br/extra/2021/11/24/Pilotos-e-comiss%C3%A1rios-de-voo-prometem-greve-nacional)
-- [Dicionário Collins elege NFT como palavra do ano de 2021](https://www.nexojornal.com.br/extra/2021/11/24/Dicion%C3%A1rio-Collins-elege-NFT-como-palavra-do-ano-de-2021)
-- [O abandono de búfalos em Brotas. E o quadro de maus-tratos no país](https://www.nexojornal.com.br/expresso/2021/11/24/O-abandono-de-b%C3%BAfalos-em-Brotas.-E-o-quadro-de-maus-tratos-no-pa%C3%ADs)
+- [SP vai liberar uso de máscaras ao ar livre em 11 de dezembro](https://www.nexojornal.com.br/extra/2021/11/24/SP-vai-liberar-uso-de-m%C3%A1scaras-ao-ar-livre-em-11-de-dezembro)
+- [O que esperar do 1º governo alemão depois de 16 anos de Merkel](https://www.nexojornal.com.br/expresso/2021/11/24/O-que-esperar-do-1%C2%BA-governo-alem%C3%A3o-depois-de-16-anos-de-Merkel)
+- [Quais as falhas tecnológicas das prévias do PSDB](https://www.nexojornal.com.br/expresso/2021/11/24/Quais-as-falhas-tecnol%C3%B3gicas-das-pr%C3%A9vias-do-PSDB)
+- [Alcolumbre diz que Mendonça será sabatinado na próxima semana](https://www.nexojornal.com.br/extra/2021/11/24/Alcolumbre-diz-que-Mendon%C3%A7a-ser%C3%A1-sabatinado-na-pr%C3%B3xima-semana)
+- [PEC dos Precatórios: relator define Auxílio Brasil permanente](https://www.nexojornal.com.br/extra/2021/11/24/PEC-dos-Precat%C3%B3rios-relator-define-Aux%C3%ADlio-Brasil-permanente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
