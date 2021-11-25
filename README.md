@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Aly Muritiba: ‘Trabalho na cadeia me fez olhar personagens sem julgamento’](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/aly-muritiba-trabalho-na-cadeia-me-fez-olhar-personagens-sem-julgamento/)
-- [CV: Francisco Sant’Ana](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-francisco-santana-sorvete/)
-- [Como dizer a verdade para as crianças](https://gamarevista.uol.com.br/filhos/a-verdade-dos-pequenos/)
-- [Bola Wilson](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-wilson/)
-- [Faça um favor a si mesmo: volte a dançar](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/faca-um-favor-a-si-mesmo-volte-a-dancar/)
+- [Encontros virtuais de autores na 19ª edição da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/encontros-virtuais-de-autores-na-19a-edicao-da-flip/)
+- [Inhotim homenageia Abdias Nascimento](https://gamarevista.uol.com.br/achamos-que-vale/ir/inhotim-homenageia-abdias-nascimento/)
+- [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
+- [Leilão anual do Pivô, com mais de 130 obras](https://gamarevista.uol.com.br/achamos-que-vale/ir/leilao-anual-do-pivo-com-mais-de-130-obras/)
+- [Os 20 anos da Feira Preta, festival de cultura negra](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-20-anos-da-feira-preta-festival-de-cultura-negra/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
