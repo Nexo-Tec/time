@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A participação social na Defensoria Pública de São Paulo](https://www.nexojornal.com.br/academico/2021/11/24/A-participa%C3%A7%C3%A3o-social-na-Defensoria-P%C3%BAblica-de-S%C3%A3o-Paulo)
-- [Kurt Vonnegut, o soldado que se tornou escritor pacifista](https://www.nexojornal.com.br/expresso/2021/11/24/Kurt-Vonnegut-o-soldado-que-se-tornou-escritor-pacifista)
-- [Pilotos e comissários de voo prometem greve nacional](https://www.nexojornal.com.br/extra/2021/11/24/Pilotos-e-comiss%C3%A1rios-de-voo-prometem-greve-nacional)
-- [Dicionário Collins elege NFT como palavra do ano de 2021](https://www.nexojornal.com.br/extra/2021/11/24/Dicion%C3%A1rio-Collins-elege-NFT-como-palavra-do-ano-de-2021)
-- [O abandono de búfalos em Brotas. E o quadro de maus-tratos no país](https://www.nexojornal.com.br/expresso/2021/11/24/O-abandono-de-b%C3%BAfalos-em-Brotas.-E-o-quadro-de-maus-tratos-no-pa%C3%ADs)
+- [‘O avesso da pele’ e infantil ‘Sagatrissuinorana’ vencem Jabuti](https://www.nexojornal.com.br/extra/2021/11/25/%E2%80%98O-avesso-da-pele%E2%80%99-e-infantil-%E2%80%98Sagatrissuinorana%E2%80%99-vencem-Jabuti)
+- [Os carnavais cancelados e a incerteza sobre a pandemia](https://www.nexojornal.com.br/expresso/2021/11/25/Os-carnavais-cancelados-e-a-incerteza-sobre-a-pandemia)
+- [A desinformação e a necessidade de contar histórias](https://www.nexojornal.com.br/colunistas/2021/A-desinforma%C3%A7%C3%A3o-e-a-necessidade-de-contar-hist%C3%B3rias)
+- [As falhas no sistema de reconhecimento de suspeitos no Brasil](https://www.nexojornal.com.br/expresso/2021/11/25/As-falhas-no-sistema-de-reconhecimento-de-suspeitos-no-Brasil)
+- [‘Yawara’: embates entre indígenas e colonizadores](https://www.nexojornal.com.br/estante/trechos/2021/11/25/%E2%80%98Yawara%E2%80%99-embates-entre-ind%C3%ADgenas-e-colonizadores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
