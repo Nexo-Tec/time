@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Amargo: perigo iminente ou ousadia em explorar o novo?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/amargo-perigo-iminente-ou-ousadia-em-explorar-o-novo/)
 - [Dias de domingo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/dias-de-domingo/)
 - [Encontros virtuais de autores na 19ª edição da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/encontros-virtuais-de-autores-na-19a-edicao-da-flip/)
 - [Inhotim homenageia Abdias Nascimento](https://gamarevista.uol.com.br/achamos-que-vale/ir/inhotim-homenageia-abdias-nascimento/)
 - [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
-- [Leilão anual do Pivô, com mais de 130 obras](https://gamarevista.uol.com.br/achamos-que-vale/ir/leilao-anual-do-pivo-com-mais-de-130-obras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
