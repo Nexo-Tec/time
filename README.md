@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O avesso da pele’ e infantil ‘Sagatrissuinorana’ vencem Jabuti](https://www.nexojornal.com.br/extra/2021/11/25/%E2%80%98O-avesso-da-pele%E2%80%99-e-infantil-%E2%80%98Sagatrissuinorana%E2%80%99-vencem-Jabuti)
-- [Os carnavais cancelados e a incerteza sobre a pandemia](https://www.nexojornal.com.br/expresso/2021/11/25/Os-carnavais-cancelados-e-a-incerteza-sobre-a-pandemia)
-- [A desinformação e a necessidade de contar histórias](https://www.nexojornal.com.br/colunistas/2021/A-desinforma%C3%A7%C3%A3o-e-a-necessidade-de-contar-hist%C3%B3rias)
 - [As falhas no sistema de reconhecimento de suspeitos no Brasil](https://www.nexojornal.com.br/expresso/2021/11/25/As-falhas-no-sistema-de-reconhecimento-de-suspeitos-no-Brasil)
 - [‘Yawara’: embates entre indígenas e colonizadores](https://www.nexojornal.com.br/estante/trechos/2021/11/25/%E2%80%98Yawara%E2%80%99-embates-entre-ind%C3%ADgenas-e-colonizadores)
+- [Quanto custa a segregação racial na burocracia?](https://www.nexojornal.com.br/colunistas/2021/Quanto-custa-a-segrega%C3%A7%C3%A3o-racial-na-burocracia)
+- [África do Sul detecta nova variante da covid e alerta OMS](https://www.nexojornal.com.br/extra/2021/11/25/%C3%81frica-do-Sul-detecta-nova-variante-da-covid-e-alerta-OMS)
+- [As vitórias de Flávio nas rachadinhas. E o julgamento no STF](https://www.nexojornal.com.br/podcast/2021/11/25/As-vit%C3%B3rias-de-Fl%C3%A1vio-nas-rachadinhas.-E-o-julgamento-no-STF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
