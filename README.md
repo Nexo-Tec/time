@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As falhas no sistema de reconhecimento de suspeitos no Brasil](https://www.nexojornal.com.br/expresso/2021/11/25/As-falhas-no-sistema-de-reconhecimento-de-suspeitos-no-Brasil)
-- [‘Yawara’: embates entre indígenas e colonizadores](https://www.nexojornal.com.br/estante/trechos/2021/11/25/%E2%80%98Yawara%E2%80%99-embates-entre-ind%C3%ADgenas-e-colonizadores)
-- [Quanto custa a segregação racial na burocracia?](https://www.nexojornal.com.br/colunistas/2021/Quanto-custa-a-segrega%C3%A7%C3%A3o-racial-na-burocracia)
-- [África do Sul detecta nova variante da covid e alerta OMS](https://www.nexojornal.com.br/extra/2021/11/25/%C3%81frica-do-Sul-detecta-nova-variante-da-covid-e-alerta-OMS)
-- [As vitórias de Flávio nas rachadinhas. E o julgamento no STF](https://www.nexojornal.com.br/podcast/2021/11/25/As-vit%C3%B3rias-de-Fl%C3%A1vio-nas-rachadinhas.-E-o-julgamento-no-STF)
+- [A participação social na Defensoria Pública de São Paulo](https://www.nexojornal.com.br/academico/2021/11/24/A-participa%C3%A7%C3%A3o-social-na-Defensoria-P%C3%BAblica-de-S%C3%A3o-Paulo)
+- [Kurt Vonnegut, o soldado que se tornou escritor pacifista](https://www.nexojornal.com.br/expresso/2021/11/24/Kurt-Vonnegut-o-soldado-que-se-tornou-escritor-pacifista)
+- [Pilotos e comissários de voo prometem greve nacional](https://www.nexojornal.com.br/extra/2021/11/24/Pilotos-e-comiss%C3%A1rios-de-voo-prometem-greve-nacional)
+- [Dicionário Collins elege NFT como palavra do ano de 2021](https://www.nexojornal.com.br/extra/2021/11/24/Dicion%C3%A1rio-Collins-elege-NFT-como-palavra-do-ano-de-2021)
+- [O abandono de búfalos em Brotas. E o quadro de maus-tratos no país](https://www.nexojornal.com.br/expresso/2021/11/24/O-abandono-de-b%C3%BAfalos-em-Brotas.-E-o-quadro-de-maus-tratos-no-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
