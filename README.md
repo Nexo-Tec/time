@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O avesso da pele’ e infantil ‘Sagatrissuinorana’ vencem Jabuti](https://www.nexojornal.com.br/extra/2021/11/25/%E2%80%98O-avesso-da-pele%E2%80%99-e-infantil-%E2%80%98Sagatrissuinorana%E2%80%99-vencem-Jabuti)
-- [Os carnavais cancelados e a incerteza sobre a pandemia](https://www.nexojornal.com.br/expresso/2021/11/25/Os-carnavais-cancelados-e-a-incerteza-sobre-a-pandemia)
-- [A desinformação e a necessidade de contar histórias](https://www.nexojornal.com.br/colunistas/2021/A-desinforma%C3%A7%C3%A3o-e-a-necessidade-de-contar-hist%C3%B3rias)
-- [As falhas no sistema de reconhecimento de suspeitos no Brasil](https://www.nexojornal.com.br/expresso/2021/11/25/As-falhas-no-sistema-de-reconhecimento-de-suspeitos-no-Brasil)
-- [‘Yawara’: embates entre indígenas e colonizadores](https://www.nexojornal.com.br/estante/trechos/2021/11/25/%E2%80%98Yawara%E2%80%99-embates-entre-ind%C3%ADgenas-e-colonizadores)
+- [Morre Stephen Sondheim, compositor da Broadway, aos 91 anos](https://www.nexojornal.com.br/extra/2021/11/26/Morre-Stephen-Sondheim-compositor-da-Broadway-aos-91-anos)
+- [Polícia descobre rede de prostituição com brasileiras na França](https://www.nexojornal.com.br/extra/2021/11/26/Pol%C3%ADcia-descobre-rede-de-prostitui%C3%A7%C3%A3o-com-brasileiras-na-Fran%C3%A7a)
+- [Qual o quadro do garimpo ilegal no rio Madeira e na Amazônia](https://www.nexojornal.com.br/expresso/2021/11/26/Qual-o-quadro-do-garimpo-ilegal-no-rio-Madeira-e-na-Amaz%C3%B4nia)
+- [Ômicron: perguntas e respostas sobre a nova variante da pandemia](https://www.nexojornal.com.br/expresso/2021/11/26/%C3%94micron-perguntas-e-respostas-sobre-a-nova-variante-da-pandemia)
+- [‘Existia a visão que o guerrilheiro precisava ser um Super-Homem’](https://www.nexojornal.com.br/entrevista/2021/11/26/%E2%80%98Existia-a-vis%C3%A3o-que-o-guerrilheiro-precisava-ser-um-Super-Homem%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
