@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre o arquiteto paulista Ruy Ohtake aos 83 anos](https://www.nexojornal.com.br/extra/2021/11/27/Morre-o-arquiteto-paulista-Ruy-Ohtake-aos-83-anos)
-- [Morre Stephen Sondheim, compositor da Broadway, aos 91 anos](https://www.nexojornal.com.br/extra/2021/11/26/Morre-Stephen-Sondheim-compositor-da-Broadway-aos-91-anos)
-- [Polícia descobre rede de prostituição com brasileiras na França](https://www.nexojornal.com.br/extra/2021/11/26/Pol%C3%ADcia-descobre-rede-de-prostitui%C3%A7%C3%A3o-com-brasileiras-na-Fran%C3%A7a)
-- [Qual o quadro do garimpo ilegal no rio Madeira e na Amazônia](https://www.nexojornal.com.br/expresso/2021/11/26/Qual-o-quadro-do-garimpo-ilegal-no-rio-Madeira-e-na-Amaz%C3%B4nia)
-- [Ômicron: perguntas e respostas sobre a nova variante da pandemia](https://www.nexojornal.com.br/expresso/2021/11/26/%C3%94micron-perguntas-e-respostas-sobre-a-nova-variante-da-pandemia)
+- [Quais os benefícios dos jogos de RPG, segundo acadêmicos](https://www.nexojornal.com.br/expresso/2021/11/27/Quais-os-benef%C3%ADcios-dos-jogos-de-RPG-segundo-acad%C3%AAmicos)
+- [5 livros que falam sobre o papel da economia na sociedade](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-falam-sobre-o-papel-da-economia-na-sociedade)
+- [O plano de uma cidade flutuante para resistir a extremos do clima](https://www.nexojornal.com.br/expresso/2021/11/27/O-plano-de-uma-cidade-flutuante-para-resistir-a-extremos-do-clima)
+- [Operação contra garimpo ilegal no rio Madeira apreende balsas](https://www.nexojornal.com.br/extra/2021/11/27/Opera%C3%A7%C3%A3o-contra-garimpo-ilegal-no-rio-Madeira-apreende-balsas)
+- [Políticos e advogados: a nova onda de reality shows no Brasil](https://www.nexojornal.com.br/expresso/2021/11/27/Pol%C3%ADticos-e-advogados-a-nova-onda-de-reality-shows-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
