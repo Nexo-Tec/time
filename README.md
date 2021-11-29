@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nada justifica sigilo de ‘orçamento secreto’, diz consultoria do Senado](https://www.nexojornal.com.br/extra/2021/11/29/Nada-justifica-sigilo-de-%E2%80%98or%C3%A7amento-secreto%E2%80%99-diz-consultoria-do-Senado)
-- [Fundador do Twitter, Jack Dorsey deixa comando da empresa](https://www.nexojornal.com.br/extra/2021/11/29/Fundador-do-Twitter-Jack-Dorsey-deixa-comando-da-empresa)
-- [Bolsonaro desiste de ter Crivella como embaixador na África do Sul](https://www.nexojornal.com.br/extra/2021/11/29/Bolsonaro-desiste-de-ter-Crivella-como-embaixador-na-%C3%81frica-do-Sul)
-- [Duas visões sobre direitos reprodutivos de adolescentes](https://www.nexojornal.com.br/video/Duas-vis%C3%B5es-sobre-direitos-reprodutivos-de-adolescentes)
-- [Como a reação à variante ômicron impacta a África do Sul](https://www.nexojornal.com.br/expresso/2021/11/29/Como-a-rea%C3%A7%C3%A3o-%C3%A0-variante-%C3%B4micron-impacta-a-%C3%81frica-do-Sul)
+- [A inclusão produtiva contra os desafios da desigualdade social](https://www.nexojornal.com.br/ensaio/2021/A-inclus%C3%A3o-produtiva-contra-os-desafios-da-desigualdade-social)
+- [Em 2º dia, Enem tem questões sobre energia, ambiente e dengue](https://www.nexojornal.com.br/extra/2021/11/28/Em-2%C2%BA-dia-Enem-tem-quest%C3%B5es-sobre-energia-ambiente-e-dengue)
+- [Países de 5 continentes registram a ômicron e Brasil apura suspeita](https://www.nexojornal.com.br/extra/2021/11/28/Pa%C3%ADses-de-5-continentes-registram-a-%C3%B4micron-e-Brasil-apura-suspeita)
+- [27 diplomatas russos devem deixar EUA até janeiro de 2022](https://www.nexojornal.com.br/extra/2021/11/28/27-diplomatas-russos-devem-deixar-EUA-at%C3%A9-janeiro-de-2022)
+- [Estilista Virgil Abloh, da Louis Vuitton, morre aos 41 anos](https://www.nexojornal.com.br/extra/2021/11/28/Estilista-Virgil-Abloh-da-Louis-Vuitton-morre-aos-41-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
