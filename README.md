@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@refikanadol](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/refikanadol/)
 - [Gisele Gasparotto: “A bike desenvolve nossa capacidade de superação”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gisele-gasparotto-vai-de-bicicleta/)
 - [Gil do Vigor](https://gamarevista.uol.com.br/pessoas/questionario-proust/gil-do-vigor/)
 - [Amargo: perigo iminente ou ousadia em explorar o novo?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/amargo-perigo-iminente-ou-ousadia-em-explorar-o-novo/)
 - [Dias de domingo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/dias-de-domingo/)
-- [Encontros virtuais de autores na 19ª edição da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/encontros-virtuais-de-autores-na-19a-edicao-da-flip/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
