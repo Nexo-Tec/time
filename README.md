@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os benefícios dos jogos de RPG, segundo acadêmicos](https://www.nexojornal.com.br/expresso/2021/11/27/Quais-os-benef%C3%ADcios-dos-jogos-de-RPG-segundo-acad%C3%AAmicos)
-- [5 livros que falam sobre o papel da economia na sociedade](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-que-falam-sobre-o-papel-da-economia-na-sociedade)
-- [O plano de uma cidade flutuante para resistir a extremos do clima](https://www.nexojornal.com.br/expresso/2021/11/27/O-plano-de-uma-cidade-flutuante-para-resistir-a-extremos-do-clima)
-- [Operação contra garimpo ilegal no rio Madeira apreende balsas](https://www.nexojornal.com.br/extra/2021/11/27/Opera%C3%A7%C3%A3o-contra-garimpo-ilegal-no-rio-Madeira-apreende-balsas)
-- [Políticos e advogados: a nova onda de reality shows no Brasil](https://www.nexojornal.com.br/expresso/2021/11/27/Pol%C3%ADticos-e-advogados-a-nova-onda-de-reality-shows-no-Brasil)
+- [A inclusão produtiva contra os desafios da desigualdade social](https://www.nexojornal.com.br/ensaio/2021/A-inclus%C3%A3o-produtiva-contra-os-desafios-da-desigualdade-social)
+- [Em 2º dia, Enem tem questões sobre energia, ambiente e dengue](https://www.nexojornal.com.br/extra/2021/11/28/Em-2%C2%BA-dia-Enem-tem-quest%C3%B5es-sobre-energia-ambiente-e-dengue)
+- [Países de 5 continentes registram a ômicron e Brasil apura suspeita](https://www.nexojornal.com.br/extra/2021/11/28/Pa%C3%ADses-de-5-continentes-registram-a-%C3%B4micron-e-Brasil-apura-suspeita)
+- [27 diplomatas russos devem deixar EUA até janeiro de 2022](https://www.nexojornal.com.br/extra/2021/11/28/27-diplomatas-russos-devem-deixar-EUA-at%C3%A9-janeiro-de-2022)
+- [Estilista Virgil Abloh, da Louis Vuitton, morre aos 41 anos](https://www.nexojornal.com.br/extra/2021/11/28/Estilista-Virgil-Abloh-da-Louis-Vuitton-morre-aos-41-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
