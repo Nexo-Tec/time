@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaro precisa de uma estrutura de clientelismo em 2022’](https://www.nexojornal.com.br/entrevista/2021/11/29/%E2%80%98Bolsonaro-precisa-de-uma-estrutura-de-clientelismo-em-2022%E2%80%99)
-- [Congresso muda regra, mas emendas do passado seguem secretas](https://www.nexojornal.com.br/extra/2021/11/29/Congresso-muda-regra-mas-emendas-do-passado-seguem-secretas)
-- [O uso de identificação facial em prédios. E as críticas a ele](https://www.nexojornal.com.br/expresso/2021/11/29/O-uso-de-identifica%C3%A7%C3%A3o-facial-em-pr%C3%A9dios.-E-as-cr%C3%ADticas-a-ele)
-- [Qual a relação entre a ômicron e a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/11/29/Qual-a-rela%C3%A7%C3%A3o-entre-a-%C3%B4micron-e-a-desigualdade-vacinal)
-- [Messi vence Bola de Ouro pela 7ª vez e amplia recorde](https://www.nexojornal.com.br/extra/2021/11/29/Messi-vence-Bola-de-Ouro-pela-7%C2%AA-vez-e-amplia-recorde)
+- [A inclusão produtiva contra os desafios da desigualdade social](https://www.nexojornal.com.br/ensaio/2021/A-inclus%C3%A3o-produtiva-contra-os-desafios-da-desigualdade-social)
+- [Em 2º dia, Enem tem questões sobre energia, ambiente e dengue](https://www.nexojornal.com.br/extra/2021/11/28/Em-2%C2%BA-dia-Enem-tem-quest%C3%B5es-sobre-energia-ambiente-e-dengue)
+- [Países de 5 continentes registram a ômicron e Brasil apura suspeita](https://www.nexojornal.com.br/extra/2021/11/28/Pa%C3%ADses-de-5-continentes-registram-a-%C3%B4micron-e-Brasil-apura-suspeita)
+- [27 diplomatas russos devem deixar EUA até janeiro de 2022](https://www.nexojornal.com.br/extra/2021/11/28/27-diplomatas-russos-devem-deixar-EUA-at%C3%A9-janeiro-de-2022)
+- [Estilista Virgil Abloh, da Louis Vuitton, morre aos 41 anos](https://www.nexojornal.com.br/extra/2021/11/28/Estilista-Virgil-Abloh-da-Louis-Vuitton-morre-aos-41-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
