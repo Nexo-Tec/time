@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A vida itinerante de Autumn Sonnichsen](https://gamarevista.uol.com.br/pessoas/biografia-visual/vida-itinerante-de-autumn-sonnichsen/)
 - [Furminator](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/furminator/)
 - [Desejar o impossível](https://gamarevista.uol.com.br/colunistas/fernando-luna/desejar-o-impossivel/)
 - [@refikanadol](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/refikanadol/)
 - [Gisele Gasparotto: “A bike desenvolve nossa capacidade de superação”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gisele-gasparotto-vai-de-bicicleta/)
-- [Gil do Vigor](https://gamarevista.uol.com.br/pessoas/questionario-proust/gil-do-vigor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
