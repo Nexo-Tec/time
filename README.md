@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaro precisa de uma estrutura de clientelismo em 2022’](https://www.nexojornal.com.br/entrevista/2021/11/29/%E2%80%98Bolsonaro-precisa-de-uma-estrutura-de-clientelismo-em-2022%E2%80%99)
-- [Congresso muda regra, mas emendas do passado seguem secretas](https://www.nexojornal.com.br/extra/2021/11/29/Congresso-muda-regra-mas-emendas-do-passado-seguem-secretas)
-- [O uso de identificação facial em prédios. E as críticas a ele](https://www.nexojornal.com.br/expresso/2021/11/29/O-uso-de-identifica%C3%A7%C3%A3o-facial-em-pr%C3%A9dios.-E-as-cr%C3%ADticas-a-ele)
-- [Qual a relação entre a ômicron e a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/11/29/Qual-a-rela%C3%A7%C3%A3o-entre-a-%C3%B4micron-e-a-desigualdade-vacinal)
-- [Messi vence Bola de Ouro pela 7ª vez e amplia recorde](https://www.nexojornal.com.br/extra/2021/11/29/Messi-vence-Bola-de-Ouro-pela-7%C2%AA-vez-e-amplia-recorde)
+- [Nada justifica sigilo de ‘orçamento secreto’, diz consultoria do Senado](https://www.nexojornal.com.br/extra/2021/11/29/Nada-justifica-sigilo-de-%E2%80%98or%C3%A7amento-secreto%E2%80%99-diz-consultoria-do-Senado)
+- [Fundador do Twitter, Jack Dorsey deixa comando da empresa](https://www.nexojornal.com.br/extra/2021/11/29/Fundador-do-Twitter-Jack-Dorsey-deixa-comando-da-empresa)
+- [Bolsonaro desiste de ter Crivella como embaixador na África do Sul](https://www.nexojornal.com.br/extra/2021/11/29/Bolsonaro-desiste-de-ter-Crivella-como-embaixador-na-%C3%81frica-do-Sul)
+- [Duas visões sobre direitos reprodutivos de adolescentes](https://www.nexojornal.com.br/video/Duas-vis%C3%B5es-sobre-direitos-reprodutivos-de-adolescentes)
+- [Como a reação à variante ômicron impacta a África do Sul](https://www.nexojornal.com.br/expresso/2021/11/29/Como-a-rea%C3%A7%C3%A3o-%C3%A0-variante-%C3%B4micron-impacta-a-%C3%81frica-do-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
