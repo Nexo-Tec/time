@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaro precisa de uma estrutura de clientelismo em 2022’](https://www.nexojornal.com.br/entrevista/2021/11/29/%E2%80%98Bolsonaro-precisa-de-uma-estrutura-de-clientelismo-em-2022%E2%80%99)
-- [Congresso muda regra, mas emendas do passado seguem secretas](https://www.nexojornal.com.br/extra/2021/11/29/Congresso-muda-regra-mas-emendas-do-passado-seguem-secretas)
-- [O uso de identificação facial em prédios. E as críticas a ele](https://www.nexojornal.com.br/expresso/2021/11/29/O-uso-de-identifica%C3%A7%C3%A3o-facial-em-pr%C3%A9dios.-E-as-cr%C3%ADticas-a-ele)
-- [Qual a relação entre a ômicron e a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/11/29/Qual-a-rela%C3%A7%C3%A3o-entre-a-%C3%B4micron-e-a-desigualdade-vacinal)
-- [Messi vence Bola de Ouro pela 7ª vez e amplia recorde](https://www.nexojornal.com.br/extra/2021/11/29/Messi-vence-Bola-de-Ouro-pela-7%C2%AA-vez-e-amplia-recorde)
+- [O caminho de Mendonça até a sabatina no Senado em 3 eixos](https://www.nexojornal.com.br/expresso/2021/11/30/O-caminho-de-Mendon%C3%A7a-at%C3%A9-a-sabatina-no-Senado-em-3-eixos)
+- [O julgamento da boate Kiss quase 9 anos depois do incêndio](https://www.nexojornal.com.br/expresso/2021/11/30/O-julgamento-da-boate-Kiss-quase-9-anos-depois-do-inc%C3%AAndio1)
+- [Covid-19 reduziu resposta à aids em 40 países, segundo ONU](https://www.nexojornal.com.br/extra/2021/11/30/Covid-19-reduziu-resposta-%C3%A0-aids-em-40-pa%C3%ADses-segundo-ONU)
+- [Direitos reprodutivos sem deixar ninguém para trás](https://www.nexojornal.com.br/especial/2021/11/30/Direitos-reprodutivos-sem-deixar-ningu%C3%A9m-para-tr%C3%A1s)
+- [Em busca de pensamentos felizes em tempos de guerra](https://www.nexojornal.com.br/colunistas/2021/Em-busca-de-pensamentos-felizes-em-tempos-de-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
