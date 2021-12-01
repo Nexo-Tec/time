@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Qual a importância de políticas públicas para juventudes, segundo esse economista](https://pp.nexojornal.com.br/topico/2021/11/30/Qual-a-import%C3%A2ncia-de-pol%C3%ADticas-p%C3%BAblicas-para-juventudes-segundo-esse-economista)
 - [10 pontos sobre inclusão econômica e enfrentamento da pobreza](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/10-pontos-sobre-inclus%C3%A3o-econ%C3%B4mica-e-enfrentamento-da-pobreza)
 - [Impactos em ecossistemas florestais e aquáticos](https://pp.nexojornal.com.br/glossario/Impactos-em-ecossistemas-florestais-e-aqu%C3%A1ticos1)
 - [Luiza Antonaccio: análise socioambiental e projetos de infraestrutura na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/25/Luiza-Antonaccio-an%C3%A1lise-socioambiental-e-projetos-de-infraestrutura-na-Amaz%C3%B4nia)
 - [Aquecimento global e o consumo residencial de energia no Brasil](https://pp.nexojornal.com.br/academico/2021/Aquecimento-global-e-o-consumo-residencial-de-energia-no-Brasil)
+- [Antirracismo e lutas negras na contemporaneidade](https://pp.nexojornal.com.br/bibliografia-basica/2021/11/23/Antirracismo-e-lutas-negras-na-contemporaneidade)
 <!-- PP_LIST:END -->
 
