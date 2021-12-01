@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caminho de Mendonça até a sabatina no Senado em 3 eixos](https://www.nexojornal.com.br/expresso/2021/11/30/O-caminho-de-Mendon%C3%A7a-at%C3%A9-a-sabatina-no-Senado-em-3-eixos)
-- [O julgamento da boate Kiss quase 9 anos depois do incêndio](https://www.nexojornal.com.br/expresso/2021/11/30/O-julgamento-da-boate-Kiss-quase-9-anos-depois-do-inc%C3%AAndio1)
-- [Covid-19 reduziu resposta à aids em 40 países, segundo ONU](https://www.nexojornal.com.br/extra/2021/11/30/Covid-19-reduziu-resposta-%C3%A0-aids-em-40-pa%C3%ADses-segundo-ONU)
-- [Direitos reprodutivos sem deixar ninguém para trás](https://www.nexojornal.com.br/especial/2021/11/30/Direitos-reprodutivos-sem-deixar-ningu%C3%A9m-para-tr%C3%A1s)
 - [Em busca de pensamentos felizes em tempos de guerra](https://www.nexojornal.com.br/colunistas/2021/Em-busca-de-pensamentos-felizes-em-tempos-de-guerra)
+- [Quando opositores de Bolsonaro se perdem numa teia de boatos](https://www.nexojornal.com.br/expresso/2021/11/30/Quando-opositores-de-Bolsonaro-se-perdem-numa-teia-de-boatos)
+- [Após revisão, saldo do emprego em 2020 fica negativo](https://www.nexojornal.com.br/extra/2021/11/30/Ap%C3%B3s-revis%C3%A3o-saldo-do-emprego-em-2020-fica-negativo)
+- [Bolsonaro na raia do centrão: como se alinha a corrida de 2022](https://www.nexojornal.com.br/podcast/2021/11/30/Bolsonaro-na-raia-do-centr%C3%A3o-como-se-alinha-a-corrida-de-2022)
+- [Anvisa detecta dois casos da variante ômicron no Brasil](https://www.nexojornal.com.br/extra/2021/11/30/Anvisa-detecta-dois-casos-da-variante-%C3%B4micron-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
