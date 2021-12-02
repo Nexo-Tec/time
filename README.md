@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [‘Ataque dos Cães’, filme da Netflix premiado em Veneza](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ataque-dos-caes-filme-da-netflix-premiado-em-veneza/)
+- [Show de Marcos Valle, com participação de Bem Gil e Moreno Veloso](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-de-marcos-valle-com-participacao-de-bem-gil-e-moreno-veloso/)
+- [A edição que celebra os 50 anos de ‘Viagem pelo Fantástico’](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-edicao-que-celebra-os-50-anos-de-viagem-pelo-fantastico/)
+- [Como escolher um bom tênis de corrida](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-escolher-um-bom-tenis-de-corrida/)
 - [Chegou dezembro, o sábado do ano](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/chegou-dezembro-o-sabado-do-ano/)
-- [A vida itinerante de Autumn Sonnichsen](https://gamarevista.uol.com.br/pessoas/biografia-visual/vida-itinerante-de-autumn-sonnichsen/)
-- [Furminator](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/furminator/)
-- [Desejar o impossível](https://gamarevista.uol.com.br/colunistas/fernando-luna/desejar-o-impossivel/)
-- [@refikanadol](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/refikanadol/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
