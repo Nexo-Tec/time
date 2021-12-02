@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Qual a importância de políticas públicas para juventudes, segundo esse economista](https://pp.nexojornal.com.br/topico/2021/11/30/Qual-a-import%C3%A2ncia-de-pol%C3%ADticas-p%C3%BAblicas-para-juventudes-segundo-esse-economista)
-- [10 pontos sobre inclusão econômica e enfrentamento da pobreza](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/10-pontos-sobre-inclus%C3%A3o-econ%C3%B4mica-e-enfrentamento-da-pobreza)
-- [Impactos em ecossistemas florestais e aquáticos](https://pp.nexojornal.com.br/glossario/Impactos-em-ecossistemas-florestais-e-aqu%C3%A1ticos1)
-- [Luiza Antonaccio: análise socioambiental e projetos de infraestrutura na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/11/25/Luiza-Antonaccio-an%C3%A1lise-socioambiental-e-projetos-de-infraestrutura-na-Amaz%C3%B4nia)
-- [Aquecimento global e o consumo residencial de energia no Brasil](https://pp.nexojornal.com.br/academico/2021/Aquecimento-global-e-o-consumo-residencial-de-energia-no-Brasil)
+- [Sustentabilidade e instituições: desafios aos pactos civilizatórios](https://pp.nexojornal.com.br/opiniao/2021/Sustentabilidade-e-institui%C3%A7%C3%B5es-desafios-aos-pactos-civilizat%C3%B3rios1)
+- [As ameaças à biodiversidade amazônica explicadas em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/As-amea%C3%A7as-%C3%A0-biodiversidade-amaz%C3%B4nica-explicadas-em-6-pontos)
+- [Como o ICMS ecológico contribui para a conservação ambiental](https://pp.nexojornal.com.br/academico/2021/Como-o-ICMS-ecol%C3%B3gico-contribui-para-a-conserva%C3%A7%C3%A3o-ambiental)
+- [A temática racial no Poder Legislativo brasileiro](https://pp.nexojornal.com.br/bibliografia-basica/2021/12/01/A-tem%C3%A1tica-racial-no-Poder-Legislativo-brasileiro)
+- [Como a categoria raça é central para a compreensão da história de Moçambique](https://pp.nexojornal.com.br/academico/2021/Como-a-categoria-ra%C3%A7a-%C3%A9-central-para-a-compreens%C3%A3o-da-hist%C3%B3ria-de-Mo%C3%A7ambique)
 <!-- PP_LIST:END -->
 
