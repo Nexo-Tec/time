@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caminho de Mendonça até a sabatina no Senado em 3 eixos](https://www.nexojornal.com.br/expresso/2021/11/30/O-caminho-de-Mendon%C3%A7a-at%C3%A9-a-sabatina-no-Senado-em-3-eixos)
-- [O julgamento da boate Kiss quase 9 anos depois do incêndio](https://www.nexojornal.com.br/expresso/2021/11/30/O-julgamento-da-boate-Kiss-quase-9-anos-depois-do-inc%C3%AAndio1)
-- [Covid-19 reduziu resposta à aids em 40 países, segundo ONU](https://www.nexojornal.com.br/extra/2021/11/30/Covid-19-reduziu-resposta-%C3%A0-aids-em-40-pa%C3%ADses-segundo-ONU)
-- [Direitos reprodutivos sem deixar ninguém para trás](https://www.nexojornal.com.br/especial/2021/11/30/Direitos-reprodutivos-sem-deixar-ningu%C3%A9m-para-tr%C3%A1s)
-- [Em busca de pensamentos felizes em tempos de guerra](https://www.nexojornal.com.br/colunistas/2021/Em-busca-de-pensamentos-felizes-em-tempos-de-guerra)
+- [Aprovação de André Mendonça frustra pretensões de Augusto Aras](https://www.nexojornal.com.br/extra/2021/12/01/Aprova%C3%A7%C3%A3o-de-Andr%C3%A9-Mendon%C3%A7a-frustra-pretens%C3%B5es-de-Augusto-Aras)
+- [André Mendonça e o ‘salto para os evangélicos’ no Supremo](https://www.nexojornal.com.br/expresso/2021/12/01/Andr%C3%A9-Mendon%C3%A7a-e-o-%E2%80%98salto-para-os-evang%C3%A9licos%E2%80%99-no-Supremo)
+- [Após censura a atleta, torneios de tênis são suspensos na China](https://www.nexojornal.com.br/extra/2021/12/01/Ap%C3%B3s-censura-a-atleta-torneios-de-t%C3%AAnis-s%C3%A3o-suspensos-na-China)
+- [O que Moro revela em seu livro. E por que ele é criticado por isso](https://www.nexojornal.com.br/expresso/2021/12/01/O-que-Moro-revela-em-seu-livro.-E-por-que-ele-%C3%A9-criticado-por-isso)
+- [Quatro adolescentes morrem após tiroteio em escola no EUA](https://www.nexojornal.com.br/extra/2021/12/01/Quatro-adolescentes-morrem-ap%C3%B3s-tiroteio-em-escola-no-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
