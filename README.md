@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mostra de Cinema Coreano em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/mostra-de-cinema-coreano-em-sao-paulo/)
+- [Roteiro para Aïnouz Vol. 2’, o novo disco de Don L](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/roteiro-para-ainouz-vol-2-o-novo-disco-de-don-l/)
 - [‘Ataque dos Cães’, filme da Netflix premiado em Veneza](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ataque-dos-caes-filme-da-netflix-premiado-em-veneza/)
 - [Show de Marcos Valle, com participação de Bem Gil e Moreno Veloso](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-de-marcos-valle-com-participacao-de-bem-gil-e-moreno-veloso/)
 - [A edição que celebra os 50 anos de ‘Viagem pelo Fantástico’](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-edicao-que-celebra-os-50-anos-de-viagem-pelo-fantastico/)
-- [Como escolher um bom tênis de corrida](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-escolher-um-bom-tenis-de-corrida/)
-- [Chegou dezembro, o sábado do ano](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/chegou-dezembro-o-sabado-do-ano/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
