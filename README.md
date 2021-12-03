@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Aprovação de André Mendonça frustra pretensões de Augusto Aras](https://www.nexojornal.com.br/extra/2021/12/01/Aprova%C3%A7%C3%A3o-de-Andr%C3%A9-Mendon%C3%A7a-frustra-pretens%C3%B5es-de-Augusto-Aras)
-- [André Mendonça e o ‘salto para os evangélicos’ no Supremo](https://www.nexojornal.com.br/expresso/2021/12/01/Andr%C3%A9-Mendon%C3%A7a-e-o-%E2%80%98salto-para-os-evang%C3%A9licos%E2%80%99-no-Supremo)
-- [Após censura a atleta, torneios de tênis são suspensos na China](https://www.nexojornal.com.br/extra/2021/12/01/Ap%C3%B3s-censura-a-atleta-torneios-de-t%C3%AAnis-s%C3%A3o-suspensos-na-China)
-- [O que Moro revela em seu livro. E por que ele é criticado por isso](https://www.nexojornal.com.br/expresso/2021/12/01/O-que-Moro-revela-em-seu-livro.-E-por-que-ele-%C3%A9-criticado-por-isso)
-- [Quatro adolescentes morrem após tiroteio em escola no EUA](https://www.nexojornal.com.br/extra/2021/12/01/Quatro-adolescentes-morrem-ap%C3%B3s-tiroteio-em-escola-no-EUA)
+- [Qual o impacto das renúncias em massa na área da Educação](https://www.nexojornal.com.br/expresso/2021/12/02/Qual-o-impacto-das-ren%C3%BAncias-em-massa-na-%C3%A1rea-da-Educa%C3%A7%C3%A3o)
+- [Conheça a emenda Pix: a prima pobre das emendas de relator](https://www.nexojornal.com.br/colunistas/2021/Conhe%C3%A7a-a-emenda-Pix-a-prima-pobre-das-emendas-de-relator)
+- [Senado aprova medida provisória que cria o Auxílio Brasil](https://www.nexojornal.com.br/extra/2021/12/02/Senado-aprova-medida-provis%C3%B3ria-que-cria-o-Aux%C3%ADlio-Brasil)
+- [‘O dia em que voltamos de Marte’: relações político-científicas](https://www.nexojornal.com.br/estante/trechos/2021/12/02/%E2%80%98O-dia-em-que-voltamos-de-Marte%E2%80%99-rela%C3%A7%C3%B5es-pol%C3%ADtico-cient%C3%ADficas)
+- [O Brasil em recessão: o que dizem os dados do PIB do 3° trimestre](https://www.nexojornal.com.br/expresso/2021/12/02/O-Brasil-em-recess%C3%A3o-o-que-dizem-os-dados-do-PIB-do-3%C2%B0-trimestre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
