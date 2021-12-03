@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Letras &lpar;1975-2020&rpar;](https://gamarevista.uol.com.br/cultura/trecho-de-livro/letras-1975-2020/)
 - [‘É preciso olhar para a própria infância para não repassar violência aos filhos’](https://gamarevista.uol.com.br/formato/conversas/e-preciso-olhar-para-a-propria-infancia-para-nao-repassar-violencia-aos-filhos/)
 - [Mostra de Cinema Coreano em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/mostra-de-cinema-coreano-em-sao-paulo/)
 - [Roteiro para Aïnouz Vol. 2’, o novo disco de Don L](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/roteiro-para-ainouz-vol-2-o-novo-disco-de-don-l/)
 - [‘Ataque dos Cães’, filme da Netflix premiado em Veneza](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ataque-dos-caes-filme-da-netflix-premiado-em-veneza/)
-- [Show de Marcos Valle, com participação de Bem Gil e Moreno Veloso](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-de-marcos-valle-com-participacao-de-bem-gil-e-moreno-veloso/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
