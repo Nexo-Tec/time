@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Quanto cada território contribui para a formação educacional de suas crianças?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Quanto-cada-territ%C3%B3rio-contribui-para-a-forma%C3%A7%C3%A3o-educacional-de-suas-crian%C3%A7as)
+- [Dia mundial de luta contra os agrotóxicos: uma luta pela saúde, meio ambiente e direitos humanos](https://pp.nexojornal.com.br/opiniao/2021/Dia-mundial-de-luta-contra-os-agrot%C3%B3xicos-uma-luta-pela-sa%C3%BAde-meio-ambiente-e-direitos-humanos)
 - [Sustentabilidade e instituições: desafios aos pactos civilizatórios](https://pp.nexojornal.com.br/opiniao/2021/Sustentabilidade-e-institui%C3%A7%C3%B5es-desafios-aos-pactos-civilizat%C3%B3rios1)
 - [As ameaças à biodiversidade amazônica explicadas em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/As-amea%C3%A7as-%C3%A0-biodiversidade-amaz%C3%B4nica-explicadas-em-6-pontos)
 - [Como o ICMS ecológico contribui para a conservação ambiental](https://pp.nexojornal.com.br/academico/2021/Como-o-ICMS-ecol%C3%B3gico-contribui-para-a-conserva%C3%A7%C3%A3o-ambiental)
-- [A temática racial no Poder Legislativo brasileiro](https://pp.nexojornal.com.br/bibliografia-basica/2021/12/01/A-tem%C3%A1tica-racial-no-Poder-Legislativo-brasileiro)
-- [Como a categoria raça é central para a compreensão da história de Moçambique](https://pp.nexojornal.com.br/academico/2021/Como-a-categoria-ra%C3%A7a-%C3%A9-central-para-a-compreens%C3%A3o-da-hist%C3%B3ria-de-Mo%C3%A7ambique)
 <!-- PP_LIST:END -->
 
