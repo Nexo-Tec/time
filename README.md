@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o impacto das renúncias em massa na área da Educação](https://www.nexojornal.com.br/expresso/2021/12/02/Qual-o-impacto-das-ren%C3%BAncias-em-massa-na-%C3%A1rea-da-Educa%C3%A7%C3%A3o)
-- [Conheça a emenda Pix: a prima pobre das emendas de relator](https://www.nexojornal.com.br/colunistas/2021/Conhe%C3%A7a-a-emenda-Pix-a-prima-pobre-das-emendas-de-relator)
-- [Senado aprova medida provisória que cria o Auxílio Brasil](https://www.nexojornal.com.br/extra/2021/12/02/Senado-aprova-medida-provis%C3%B3ria-que-cria-o-Aux%C3%ADlio-Brasil)
-- [‘O dia em que voltamos de Marte’: relações político-científicas](https://www.nexojornal.com.br/estante/trechos/2021/12/02/%E2%80%98O-dia-em-que-voltamos-de-Marte%E2%80%99-rela%C3%A7%C3%B5es-pol%C3%ADtico-cient%C3%ADficas)
-- [O Brasil em recessão: o que dizem os dados do PIB do 3° trimestre](https://www.nexojornal.com.br/expresso/2021/12/02/O-Brasil-em-recess%C3%A3o-o-que-dizem-os-dados-do-PIB-do-3%C2%B0-trimestre)
+- [O acúmulo de trocas na Polícia Federal do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/12/03/O-ac%C3%BAmulo-de-trocas-na-Pol%C3%ADcia-Federal-do-governo-Bolsonaro)
+- [‘A resposta à violência contra crianças e jovens é intersetorial’](https://www.nexojornal.com.br/entrevista/2021/12/03/%E2%80%98A-resposta-%C3%A0-viol%C3%AAncia-contra-crian%C3%A7as-e-jovens-%C3%A9-intersetorial%E2%80%99)
+- [Supremo abre inquérito contra Bolsonaro por relacionar vacina à aids](https://www.nexojornal.com.br/extra/2021/12/03/Supremo-abre-inqu%C3%A9rito-contra-Bolsonaro-por-relacionar-vacina-%C3%A0-aids)
+- [O site que permite explorar sítios arqueológicos do Egito](https://www.nexojornal.com.br/expresso/2021/12/03/O-site-que-permite-explorar-s%C3%ADtios-arqueol%C3%B3gicos-do-Egito)
+- [Equilíbrio delicado](https://www.nexojornal.com.br/externo/2021/12/03/Equil%C3%ADbrio-delicado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
