@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rio cancela Réveillon em meio a inseguranças com pandemia](https://www.nexojornal.com.br/extra/2021/12/04/Rio-cancela-R%C3%A9veillon-em-meio-a-inseguran%C3%A7as-com-pandemia)
 - [O acúmulo de trocas na Polícia Federal do governo Bolsonaro](https://www.nexojornal.com.br/expresso/2021/12/03/O-ac%C3%BAmulo-de-trocas-na-Pol%C3%ADcia-Federal-do-governo-Bolsonaro)
 - [‘A resposta à violência contra crianças e jovens é intersetorial’](https://www.nexojornal.com.br/entrevista/2021/12/03/%E2%80%98A-resposta-%C3%A0-viol%C3%AAncia-contra-crian%C3%A7as-e-jovens-%C3%A9-intersetorial%E2%80%99)
 - [Supremo abre inquérito contra Bolsonaro por relacionar vacina à aids](https://www.nexojornal.com.br/extra/2021/12/03/Supremo-abre-inqu%C3%A9rito-contra-Bolsonaro-por-relacionar-vacina-%C3%A0-aids)
 - [O site que permite explorar sítios arqueológicos do Egito](https://www.nexojornal.com.br/expresso/2021/12/03/O-site-que-permite-explorar-s%C3%ADtios-arqueol%C3%B3gicos-do-Egito)
+- [Equilíbrio delicado](https://www.nexojornal.com.br/externo/2021/12/03/Equil%C3%ADbrio-delicado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
