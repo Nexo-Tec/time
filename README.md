@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Criminosos vendem dados sigilosos de milhões de brasileiros](https://www.nexojornal.com.br/extra/2021/12/05/Criminosos-vendem-dados-sigilosos-de-milh%C3%B5es-de-brasileiros)
+- [Brasileiros infectados com ômicron têm sintomas leves](https://www.nexojornal.com.br/extra/2021/12/05/Brasileiros-infectados-com-%C3%B4micron-t%C3%AAm-sintomas-leves)
 - [Com novas caras, como fica o perfil do Supremo brasileiro](https://www.nexojornal.com.br/expresso/2021/12/04/Com-novas-caras-como-fica-o-perfil-do-Supremo-brasileiro)
 - [A obra ‘silenciosa’ de John Cage como hino da pandemia](https://www.nexojornal.com.br/expresso/2021/12/04/A-obra-%E2%80%98silenciosa%E2%80%99-de-John-Cage-como-hino-da-pandemia)
 - [5 livros sobre o mundo das viagens e do turismo](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-mundo-das-viagens-e-do-turismo)
-- [Como a curadoria coletiva muda a cara dos festivais literários](https://www.nexojornal.com.br/expresso/2021/12/04/Como-a-curadoria-coletiva-muda-a-cara-dos-festivais-liter%C3%A1rios)
-- [‘O povo afegão voltou ao esquecimento internacional’](https://www.nexojornal.com.br/entrevista/2021/12/04/%E2%80%98O-povo-afeg%C3%A3o-voltou-ao-esquecimento-internacional%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
