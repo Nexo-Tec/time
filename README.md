@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Criminosos vendem dados sigilosos de milhões de brasileiros](https://www.nexojornal.com.br/extra/2021/12/05/Criminosos-vendem-dados-sigilosos-de-milh%C3%B5es-de-brasileiros)
-- [Brasileiros infectados com ômicron têm sintomas leves](https://www.nexojornal.com.br/extra/2021/12/05/Brasileiros-infectados-com-%C3%B4micron-t%C3%AAm-sintomas-leves)
-- [Com novas caras, como fica o perfil do Supremo brasileiro](https://www.nexojornal.com.br/expresso/2021/12/04/Com-novas-caras-como-fica-o-perfil-do-Supremo-brasileiro)
-- [A obra ‘silenciosa’ de John Cage como hino da pandemia](https://www.nexojornal.com.br/expresso/2021/12/04/A-obra-%E2%80%98silenciosa%E2%80%99-de-John-Cage-como-hino-da-pandemia)
-- [5 livros sobre o mundo das viagens e do turismo](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-o-mundo-das-viagens-e-do-turismo)
+- [Só governo federal deve decidir sobre passaporte vacinal, diz Bolsonaro](https://www.nexojornal.com.br/extra/2021/12/05/S%C3%B3-governo-federal-deve-decidir-sobre-passaporte-vacinal-diz-Bolsonaro)
+- [O impulso passou? As commodities na virada para 2022](https://www.nexojornal.com.br/expresso/2021/12/05/O-impulso-passou-As-commodities-na-virada-para-2022)
+- [As chances de a variante ômicron se tornar predominante](https://www.nexojornal.com.br/expresso/2021/12/05/As-chances-de-a-variante-%C3%B4micron-se-tornar-predominante)
+- [Rio Doce: uma governança que vá além da reparação](https://www.nexojornal.com.br/ensaio/2021/Rio-Doce-uma-governan%C3%A7a-que-v%C3%A1-al%C3%A9m-da-repara%C3%A7%C3%A3o)
+- [Protestos contra restrições sanitárias reúnem milhares na Europa](https://www.nexojornal.com.br/extra/2021/12/05/Protestos-contra-restri%C3%A7%C3%B5es-sanit%C3%A1rias-re%C3%BAnem-milhares-na-Europa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
