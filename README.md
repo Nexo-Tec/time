@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Só governo federal deve decidir sobre passaporte vacinal, diz Bolsonaro](https://www.nexojornal.com.br/extra/2021/12/05/S%C3%B3-governo-federal-deve-decidir-sobre-passaporte-vacinal-diz-Bolsonaro)
-- [O impulso passou? As commodities na virada para 2022](https://www.nexojornal.com.br/expresso/2021/12/05/O-impulso-passou-As-commodities-na-virada-para-2022)
-- [As chances de a variante ômicron se tornar predominante](https://www.nexojornal.com.br/expresso/2021/12/05/As-chances-de-a-variante-%C3%B4micron-se-tornar-predominante)
-- [Rio Doce: uma governança que vá além da reparação](https://www.nexojornal.com.br/ensaio/2021/Rio-Doce-uma-governan%C3%A7a-que-v%C3%A1-al%C3%A9m-da-repara%C3%A7%C3%A3o)
-- [Protestos contra restrições sanitárias reúnem milhares na Europa](https://www.nexojornal.com.br/extra/2021/12/05/Protestos-contra-restri%C3%A7%C3%B5es-sanit%C3%A1rias-re%C3%BAnem-milhares-na-Europa)
+- [Como a nova alta da Selic deverá afetar a poupança](https://www.nexojornal.com.br/expresso/2021/12/06/Como-a-nova-alta-da-Selic-dever%C3%A1-afetar-a-poupan%C3%A7a)
+- [Rosa Weber, do Supremo, libera pagamento de emendas de relator](https://www.nexojornal.com.br/extra/2021/12/06/Rosa-Weber-do-Supremo-libera-pagamento-de-emendas-de-relator)
+- [O potencial do Brasil para ajudar a reduzir a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/12/06/O-potencial-do-Brasil-para-ajudar-a-reduzir-a-desigualdade-vacinal)
+- [A turnê de Moro para lançar seu livro com palestras pagas](https://www.nexojornal.com.br/expresso/2021/12/06/A-turn%C3%AA-de-Moro-para-lan%C3%A7ar-seu-livro-com-palestras-pagas)
+- [Barroso cobra posição do governo sobre passaporte vacinal](https://www.nexojornal.com.br/extra/2021/12/06/Barroso-cobra-posi%C3%A7%C3%A3o-do-governo-sobre-passaporte-vacinal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
