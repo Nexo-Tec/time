@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lego](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lego/)
 - [Refazer o Brasil com os brasileiros](https://gamarevista.uol.com.br/colunistas/winnie-bueno/refazer-o-brasil-com-os-brasileiros/)
 - [@nossa.amora](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nossa-amora/)
 - [Déia Freitas, do Não Inviabilize: “Todo mundo gosta de saber da vida dos outros”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/deia-freitas-do-nao-inviabilize-por-que-fofoca-nos-interessa/)
 - [Mariana Nunes](https://gamarevista.uol.com.br/pessoas/questionario-proust/mariana-nunes/)
-- [Letras &lpar;1975-2020&rpar;](https://gamarevista.uol.com.br/cultura/trecho-de-livro/letras-1975-2020/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
