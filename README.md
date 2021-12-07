@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Só governo federal deve decidir sobre passaporte vacinal, diz Bolsonaro](https://www.nexojornal.com.br/extra/2021/12/05/S%C3%B3-governo-federal-deve-decidir-sobre-passaporte-vacinal-diz-Bolsonaro)
-- [O impulso passou? As commodities na virada para 2022](https://www.nexojornal.com.br/expresso/2021/12/05/O-impulso-passou-As-commodities-na-virada-para-2022)
-- [As chances de a variante ômicron se tornar predominante](https://www.nexojornal.com.br/expresso/2021/12/05/As-chances-de-a-variante-%C3%B4micron-se-tornar-predominante)
-- [Rio Doce: uma governança que vá além da reparação](https://www.nexojornal.com.br/ensaio/2021/Rio-Doce-uma-governan%C3%A7a-que-v%C3%A1-al%C3%A9m-da-repara%C3%A7%C3%A3o)
-- [Protestos contra restrições sanitárias reúnem milhares na Europa](https://www.nexojornal.com.br/extra/2021/12/05/Protestos-contra-restri%C3%A7%C3%B5es-sanit%C3%A1rias-re%C3%BAnem-milhares-na-Europa)
+- [África, o berço da humanidade sempre esquecido e preterido](https://www.nexojornal.com.br/colunistas/2021/%C3%81frica-o-ber%C3%A7o-da-humanidade-sempre-esquecido-e-preterido)
+- [Os artistas que transformaram jornais em telas na pandemia](https://www.nexojornal.com.br/expresso/2021/12/06/Os-artistas-que-transformaram-jornais-em-telas-na-pandemia)
+- [Uma coleção gratuita de paisagens sonoras de filmes e séries](https://www.nexojornal.com.br/expresso/2021/12/06/Uma-cole%C3%A7%C3%A3o-gratuita-de-paisagens-sonoras-de-filmes-e-s%C3%A9ries)
+- [Como o passaporte da vacina mobiliza a política mundial](https://www.nexojornal.com.br/podcast/2021/12/06/Como-o-passaporte-da-vacina-mobiliza-a-pol%C3%ADtica-mundial)
+- [Vaticano intervém em mosteiro em SP após relatos de assédio](https://www.nexojornal.com.br/extra/2021/12/06/Vaticano-interv%C3%A9m-em-mosteiro-em-SP-ap%C3%B3s-relatos-de-ass%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
