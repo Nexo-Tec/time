@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a nova alta da Selic deverá afetar a poupança](https://www.nexojornal.com.br/expresso/2021/12/06/Como-a-nova-alta-da-Selic-dever%C3%A1-afetar-a-poupan%C3%A7a)
-- [Rosa Weber, do Supremo, libera pagamento de emendas de relator](https://www.nexojornal.com.br/extra/2021/12/06/Rosa-Weber-do-Supremo-libera-pagamento-de-emendas-de-relator)
-- [O potencial do Brasil para ajudar a reduzir a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/12/06/O-potencial-do-Brasil-para-ajudar-a-reduzir-a-desigualdade-vacinal)
-- [A turnê de Moro para lançar seu livro com palestras pagas](https://www.nexojornal.com.br/expresso/2021/12/06/A-turn%C3%AA-de-Moro-para-lan%C3%A7ar-seu-livro-com-palestras-pagas)
-- [Barroso cobra posição do governo sobre passaporte vacinal](https://www.nexojornal.com.br/extra/2021/12/06/Barroso-cobra-posi%C3%A7%C3%A3o-do-governo-sobre-passaporte-vacinal)
+- [África, o berço da humanidade sempre esquecido e preterido](https://www.nexojornal.com.br/colunistas/2021/%C3%81frica-o-ber%C3%A7o-da-humanidade-sempre-esquecido-e-preterido)
+- [Os artistas que transformaram jornais em telas na pandemia](https://www.nexojornal.com.br/expresso/2021/12/06/Os-artistas-que-transformaram-jornais-em-telas-na-pandemia)
+- [Uma coleção gratuita de paisagens sonoras de filmes e séries](https://www.nexojornal.com.br/expresso/2021/12/06/Uma-cole%C3%A7%C3%A3o-gratuita-de-paisagens-sonoras-de-filmes-e-s%C3%A9ries)
+- [Como o passaporte da vacina mobiliza a política mundial](https://www.nexojornal.com.br/podcast/2021/12/06/Como-o-passaporte-da-vacina-mobiliza-a-pol%C3%ADtica-mundial)
+- [Vaticano intervém em mosteiro em SP após relatos de assédio](https://www.nexojornal.com.br/extra/2021/12/06/Vaticano-interv%C3%A9m-em-mosteiro-em-SP-ap%C3%B3s-relatos-de-ass%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
