@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a nova alta da Selic deverá afetar a poupança](https://www.nexojornal.com.br/expresso/2021/12/06/Como-a-nova-alta-da-Selic-dever%C3%A1-afetar-a-poupan%C3%A7a)
-- [Rosa Weber, do Supremo, libera pagamento de emendas de relator](https://www.nexojornal.com.br/extra/2021/12/06/Rosa-Weber-do-Supremo-libera-pagamento-de-emendas-de-relator)
-- [O potencial do Brasil para ajudar a reduzir a desigualdade vacinal](https://www.nexojornal.com.br/expresso/2021/12/06/O-potencial-do-Brasil-para-ajudar-a-reduzir-a-desigualdade-vacinal)
-- [A turnê de Moro para lançar seu livro com palestras pagas](https://www.nexojornal.com.br/expresso/2021/12/06/A-turn%C3%AA-de-Moro-para-lan%C3%A7ar-seu-livro-com-palestras-pagas)
-- [Barroso cobra posição do governo sobre passaporte vacinal](https://www.nexojornal.com.br/extra/2021/12/06/Barroso-cobra-posi%C3%A7%C3%A3o-do-governo-sobre-passaporte-vacinal)
+- [Qual o limite entre ser intolerante e apontar o uso político da religião](https://www.nexojornal.com.br/expresso/2021/12/07/Qual-o-limite-entre-ser-intolerante-e-apontar-o-uso-pol%C3%ADtico-da-religi%C3%A3o)
+- [Educação na pandemia: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2021/Educa%C3%A7%C3%A3o-na-pandemia-cr%C3%B4nica-de-um-fracasso-anunciado)
+- [Governo vai exigir quarentena de viajantes](https://www.nexojornal.com.br/extra/2021/12/07/Governo-vai-exigir-quarentena-de-viajantes)
+- [O acervo digital com a discografia completa do Pink Floyd](https://www.nexojornal.com.br/expresso/2021/12/07/O-acervo-digital-com-a-discografia-completa-do-Pink-Floyd)
+- [Biden ameaça Putin de sanções em reunião sobre Ucrânia](https://www.nexojornal.com.br/extra/2021/12/07/Biden-amea%C3%A7a-Putin-de-san%C3%A7%C3%B5es-em-reuni%C3%A3o-sobre-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
