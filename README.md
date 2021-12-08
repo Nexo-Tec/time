@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais as brechas legais para o garimpo no Brasil](https://www.nexojornal.com.br/expresso/2021/12/07/Quais-as-brechas-legais-para-o-garimpo-no-Brasil)
+- [Polícia agiu em 10 das 13 maiores chacinas recentes no Rio de Janeiro](https://www.nexojornal.com.br/extra/2021/12/07/Pol%C3%ADcia-agiu-em-10-das-13-maiores-chacinas-recentes-no-Rio-de-Janeiro)
 - [Qual o limite entre ser intolerante e apontar o uso político da religião](https://www.nexojornal.com.br/expresso/2021/12/07/Qual-o-limite-entre-ser-intolerante-e-apontar-o-uso-pol%C3%ADtico-da-religi%C3%A3o)
 - [Educação na pandemia: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2021/Educa%C3%A7%C3%A3o-na-pandemia-cr%C3%B4nica-de-um-fracasso-anunciado)
 - [Governo vai exigir quarentena de viajantes](https://www.nexojornal.com.br/extra/2021/12/07/Governo-vai-exigir-quarentena-de-viajantes)
-- [O acervo digital com a discografia completa do Pink Floyd](https://www.nexojornal.com.br/expresso/2021/12/07/O-acervo-digital-com-a-discografia-completa-do-Pink-Floyd)
-- [Biden ameaça Putin de sanções em reunião sobre Ucrânia](https://www.nexojornal.com.br/extra/2021/12/07/Biden-amea%C3%A7a-Putin-de-san%C3%A7%C3%B5es-em-reuni%C3%A3o-sobre-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
