@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as brechas legais para o garimpo no Brasil](https://www.nexojornal.com.br/expresso/2021/12/07/Quais-as-brechas-legais-para-o-garimpo-no-Brasil)
-- [Polícia agiu em 10 das 13 maiores chacinas recentes no Rio de Janeiro](https://www.nexojornal.com.br/extra/2021/12/07/Pol%C3%ADcia-agiu-em-10-das-13-maiores-chacinas-recentes-no-Rio-de-Janeiro)
-- [Qual o limite entre ser intolerante e apontar o uso político da religião](https://www.nexojornal.com.br/expresso/2021/12/07/Qual-o-limite-entre-ser-intolerante-e-apontar-o-uso-pol%C3%ADtico-da-religi%C3%A3o)
-- [Educação na pandemia: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2021/Educa%C3%A7%C3%A3o-na-pandemia-cr%C3%B4nica-de-um-fracasso-anunciado)
-- [Governo vai exigir quarentena de viajantes](https://www.nexojornal.com.br/extra/2021/12/07/Governo-vai-exigir-quarentena-de-viajantes)
+- [Os resultados do Enem para além da função classificatória](https://www.nexojornal.com.br/academico/2021/12/08/Os-resultados-do-Enem-para-al%C3%A9m-da-fun%C3%A7%C3%A3o-classificat%C3%B3ria)
+- [Sob protesto, Congresso promulga parte da PEC dos Precatórios](https://www.nexojornal.com.br/extra/2021/12/08/Sob-protesto-Congresso-promulga-parte-da-PEC-dos-Precat%C3%B3rios)
+- [Contradição de fim de ano: festa ao ar livre não, festa fechada sim](https://www.nexojornal.com.br/expresso/2021/12/08/Contradi%C3%A7%C3%A3o-de-fim-de-ano-festa-ao-ar-livre-n%C3%A3o-festa-fechada-sim)
+- [ONU: 1 a cada 3 venezuelanas não consegue emprego no Brasil](https://www.nexojornal.com.br/extra/2021/12/08/ONU-1-a-cada-3-venezuelanas-n%C3%A3o-consegue-emprego-no-Brasil)
+- [AI-tocracias: como tecnologia e autocracia interagem](https://www.nexojornal.com.br/colunistas/2021/AI-tocracias-como-tecnologia-e-autocracia-interagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
