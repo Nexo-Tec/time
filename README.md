@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Mariana Miné](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mariana-mine/)
 - [Romantizar o sofrimento](https://gamarevista.uol.com.br/colunistas/letrux/romantizar-o-sofrimento/)
 - [Já é dezembro?](https://gamarevista.uol.com.br/sociedade/ja-e-dezembro/)
 - [Lego](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lego/)
 - [Refazer o Brasil com os brasileiros](https://gamarevista.uol.com.br/colunistas/winnie-bueno/refazer-o-brasil-com-os-brasileiros/)
-- [@nossa.amora](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nossa-amora/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
