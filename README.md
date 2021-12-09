@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Mariana Miné](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mariana-mine/)
-- [Romantizar o sofrimento](https://gamarevista.uol.com.br/colunistas/letrux/romantizar-o-sofrimento/)
-- [Já é dezembro?](https://gamarevista.uol.com.br/sociedade/ja-e-dezembro/)
-- [Lego](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lego/)
-- [Refazer o Brasil com os brasileiros](https://gamarevista.uol.com.br/colunistas/winnie-bueno/refazer-o-brasil-com-os-brasileiros/)
+- [Primavera Sound em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/primavera-sound-em-sao-paulo/)
+- [O remake de ‘Amor, Sublime Amor’, de Steven Spielberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-remake-de-amor-sublime-amor-de-steven-spielberg/)
+- [Um bate-papo com Gregório Duvivier e seus poemas](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-bate-papo-com-gregorio-duvivier-e-seus-poemas/)
+- [‘A Mão de Deus’, novo filme de Paolo Sorrentino](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-mao-de-deus-novo-filme-de-paolo-sorrentino/)
+- [A lista de melhores álbuns de 2021 da Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-lista-de-melhores-albuns-de-2021-da-pitchfork/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
