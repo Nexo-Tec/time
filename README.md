@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lugares de origem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugares-de-origem/)
+- [Não existe palmada pedagógica](https://gamarevista.uol.com.br/filhos/nao-existe-palmada-pedagogica/)
+- [Esse cara comeu o croissant que o diabo amassou](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/esse-cara-comeu-o-croissant-que-o-diabo-amassou/)
 - [Primavera Sound em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/primavera-sound-em-sao-paulo/)
 - [O remake de ‘Amor, Sublime Amor’, de Steven Spielberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-remake-de-amor-sublime-amor-de-steven-spielberg/)
-- [Um bate-papo com Gregório Duvivier e seus poemas](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-bate-papo-com-gregorio-duvivier-e-seus-poemas/)
-- [‘A Mão de Deus’, novo filme de Paolo Sorrentino](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-mao-de-deus-novo-filme-de-paolo-sorrentino/)
-- [A lista de melhores álbuns de 2021 da Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-lista-de-melhores-albuns-de-2021-da-pitchfork/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
