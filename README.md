@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os resultados do Enem para além da função classificatória](https://www.nexojornal.com.br/academico/2021/12/08/Os-resultados-do-Enem-para-al%C3%A9m-da-fun%C3%A7%C3%A3o-classificat%C3%B3ria)
-- [Sob protesto, Congresso promulga parte da PEC dos Precatórios](https://www.nexojornal.com.br/extra/2021/12/08/Sob-protesto-Congresso-promulga-parte-da-PEC-dos-Precat%C3%B3rios)
-- [Contradição de fim de ano: festa ao ar livre não, festa fechada sim](https://www.nexojornal.com.br/expresso/2021/12/08/Contradi%C3%A7%C3%A3o-de-fim-de-ano-festa-ao-ar-livre-n%C3%A3o-festa-fechada-sim)
-- [ONU: 1 a cada 3 venezuelanas não consegue emprego no Brasil](https://www.nexojornal.com.br/extra/2021/12/08/ONU-1-a-cada-3-venezuelanas-n%C3%A3o-consegue-emprego-no-Brasil)
-- [AI-tocracias: como tecnologia e autocracia interagem](https://www.nexojornal.com.br/colunistas/2021/AI-tocracias-como-tecnologia-e-autocracia-interagem)
+- [A terceira dose da vacina como aposta contra a ômicron](https://www.nexojornal.com.br/expresso/2021/12/09/A-terceira-dose-da-vacina-como-aposta-contra-a-%C3%B4micron)
+- [Responsabilidade nas redes: por que somos todos influencers](https://www.nexojornal.com.br/colunistas/2021/Responsabilidade-nas-redes-por-que-somos-todos-influencers)
+- [Documento liga pai de candidato chileno ao Partido Nazista](https://www.nexojornal.com.br/extra/2021/12/09/Documento-liga-pai-de-candidato-chileno-ao-Partido-Nazista)
+- [Ginasta Simone Biles é eleita atleta do ano pela revista Time](https://www.nexojornal.com.br/extra/2021/12/09/Ginasta-Simone-Biles-%C3%A9-eleita-atleta-do-ano-pela-revista-Time)
+- [Rio de Janeiro confirma queima de fogos, mas sem shows ao vivo](https://www.nexojornal.com.br/extra/2021/12/09/Rio-de-Janeiro-confirma-queima-de-fogos-mas-sem-shows-ao-vivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
