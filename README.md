@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Políticas de inclusão na Unicamp](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-inclus%C3%A3o-na-Unicamp)
 - [Biodiversidade e degradação de ambientes amazônicos](https://pp.nexojornal.com.br/bibliografia-basica/2021/12/07/Biodiversidade-e-degrada%C3%A7%C3%A3o-de-ambientes-amaz%C3%B4nicos)
 - [Fatima Marinho: o impacto da covid-19 na população negra do Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/12/07/Fatima-Marinho-o-impacto-da-covid-19-na-popula%C3%A7%C3%A3o-negra-do-Brasil)
 - [Sinapir se expande em um país com muitos desafios para a igualdade étnico-racial](https://pp.nexojornal.com.br/opiniao/2021/Sinapir-se-expande-em-um-pa%C3%ADs-com-muitos-desafios-para-a-igualdade-%C3%A9tnico-racial)
 - [Quanto cada território contribui para a formação educacional de suas crianças?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Quanto-cada-territ%C3%B3rio-contribui-para-a-forma%C3%A7%C3%A3o-educacional-de-suas-crian%C3%A7as)
+- [Dia mundial de luta contra os agrotóxicos: uma luta pela saúde, meio ambiente e direitos humanos](https://pp.nexojornal.com.br/opiniao/2021/Dia-mundial-de-luta-contra-os-agrot%C3%B3xicos-uma-luta-pela-sa%C3%BAde-meio-ambiente-e-direitos-humanos)
 <!-- PP_LIST:END -->
 
