@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A sentença da Boate Kiss. E os aprendizados com a tragédia](https://www.nexojornal.com.br/expresso/2021/12/10/A-senten%C3%A7a-da-Boate-Kiss.-E-os-aprendizados-com-a-trag%C3%A9dia)
-- [Cúpula de Biden acaba sem acordo e com crise com China e Rússia](https://www.nexojornal.com.br/extra/2021/12/10/C%C3%BApula-de-Biden-acaba-sem-acordo-e-com-crise-com-China-e-R%C3%BAssia1)
-- [Extratos da semana | 10.dez.21](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-10.dez.21)
-- [Mortes em meio a conflitos por terra crescem no país em 2021](https://www.nexojornal.com.br/extra/2021/12/10/Mortes-em-meio-a-conflitos-por-terra-crescem-no-pa%C3%ADs-em-2021)
-- [A escavação que reforça evidências das crucificações romanas](https://www.nexojornal.com.br/expresso/2021/12/10/A-escava%C3%A7%C3%A3o-que-refor%C3%A7a-evid%C3%AAncias-das-crucifica%C3%A7%C3%B5es-romanas)
+- [A terceira dose da vacina como aposta contra a ômicron](https://www.nexojornal.com.br/expresso/2021/12/09/A-terceira-dose-da-vacina-como-aposta-contra-a-%C3%B4micron)
+- [Responsabilidade nas redes: por que somos todos influencers](https://www.nexojornal.com.br/colunistas/2021/Responsabilidade-nas-redes-por-que-somos-todos-influencers)
+- [Documento liga pai de candidato chileno ao Partido Nazista](https://www.nexojornal.com.br/extra/2021/12/09/Documento-liga-pai-de-candidato-chileno-ao-Partido-Nazista)
+- [Ginasta Simone Biles é eleita atleta do ano pela revista Time](https://www.nexojornal.com.br/extra/2021/12/09/Ginasta-Simone-Biles-%C3%A9-eleita-atleta-do-ano-pela-revista-Time)
+- [Rio de Janeiro confirma queima de fogos, mas sem shows ao vivo](https://www.nexojornal.com.br/extra/2021/12/09/Rio-de-Janeiro-confirma-queima-de-fogos-mas-sem-shows-ao-vivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
