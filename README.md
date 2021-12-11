@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Christian Malheiros](https://gamarevista.uol.com.br/pessoas/questionario-proust/christian-malheiros/)
 - [Lugares de origem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugares-de-origem/)
 - [Não existe palmada pedagógica](https://gamarevista.uol.com.br/filhos/nao-existe-palmada-pedagogica/)
 - [Esse cara comeu o croissant que o diabo amassou](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/esse-cara-comeu-o-croissant-que-o-diabo-amassou/)
 - [Primavera Sound em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/primavera-sound-em-sao-paulo/)
-- [O remake de ‘Amor, Sublime Amor’, de Steven Spielberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-remake-de-amor-sublime-amor-de-steven-spielberg/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
