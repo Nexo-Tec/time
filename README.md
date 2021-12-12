@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A sentença da Boate Kiss. E os aprendizados com a tragédia](https://www.nexojornal.com.br/expresso/2021/12/10/A-senten%C3%A7a-da-Boate-Kiss.-E-os-aprendizados-com-a-trag%C3%A9dia)
-- [Cúpula de Biden acaba sem acordo e com crise com China e Rússia](https://www.nexojornal.com.br/extra/2021/12/10/C%C3%BApula-de-Biden-acaba-sem-acordo-e-com-crise-com-China-e-R%C3%BAssia1)
-- [Extratos da semana | 10.dez.21](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-10.dez.21)
-- [Mortes em meio a conflitos por terra crescem no país em 2021](https://www.nexojornal.com.br/extra/2021/12/10/Mortes-em-meio-a-conflitos-por-terra-crescem-no-pa%C3%ADs-em-2021)
-- [A escavação que reforça evidências das crucificações romanas](https://www.nexojornal.com.br/expresso/2021/12/10/A-escava%C3%A7%C3%A3o-que-refor%C3%A7a-evid%C3%AAncias-das-crucifica%C3%A7%C3%B5es-romanas)
+- [A importância do programa cisternas. E o impacto de sua redução](https://www.nexojornal.com.br/expresso/2021/12/11/A-import%C3%A2ncia-do-programa-cisternas.-E-o-impacto-de-sua-redu%C3%A7%C3%A3o)
+- [‘Se eu ficar rica, vou comprar uma mansão na zona leste’](https://www.nexojornal.com.br/entrevista/2021/12/11/%E2%80%98Se-eu-ficar-rica-vou-comprar-uma-mans%C3%A3o-na-zona-leste%E2%80%99)
+- [5 livros sobre nomes fundamentais da música brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-nomes-fundamentais-da-m%C3%BAsica-brasileira)
+- [Chile: da ditadura Pinochet à nova constituinte](https://www.nexojornal.com.br/incoming/Chile-da-ditadura-Pinochet-%C3%A0-nova-constituinte1)
+- [Chile: da ditadura Pinochet à nova constituinte](https://www.nexojornal.com.br/video/article268966.ece)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
