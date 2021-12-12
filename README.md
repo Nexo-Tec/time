@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Isa Zendron, da Boate Class: ‘Torço para o mundo inteiro virar mais rebolativo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/isa-zendron-da-boate-class-como-a-danca-ajuda-na-autoestima/)
 - [Christian Malheiros](https://gamarevista.uol.com.br/pessoas/questionario-proust/christian-malheiros/)
 - [Lugares de origem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugares-de-origem/)
 - [Não existe palmada pedagógica](https://gamarevista.uol.com.br/filhos/nao-existe-palmada-pedagogica/)
 - [Esse cara comeu o croissant que o diabo amassou](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/esse-cara-comeu-o-croissant-que-o-diabo-amassou/)
-- [Primavera Sound em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/primavera-sound-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
