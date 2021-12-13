@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A importância do programa cisternas. E o impacto de sua redução](https://www.nexojornal.com.br/expresso/2021/12/11/A-import%C3%A2ncia-do-programa-cisternas.-E-o-impacto-de-sua-redu%C3%A7%C3%A3o)
-- [‘Se eu ficar rica, vou comprar uma mansão na zona leste’](https://www.nexojornal.com.br/entrevista/2021/12/11/%E2%80%98Se-eu-ficar-rica-vou-comprar-uma-mans%C3%A3o-na-zona-leste%E2%80%99)
-- [5 livros sobre nomes fundamentais da música brasileira](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-sobre-nomes-fundamentais-da-m%C3%BAsica-brasileira)
-- [Chile: da ditadura Pinochet à nova constituinte](https://www.nexojornal.com.br/incoming/Chile-da-ditadura-Pinochet-%C3%A0-nova-constituinte1)
-- [Chile: da ditadura Pinochet à nova constituinte](https://www.nexojornal.com.br/video/article268966.ece)
+- [Chuvas deixam 7 mortos no sul da Bahia e norte de Minas](https://www.nexojornal.com.br/extra/2021/12/12/Chuvas-deixam-7-mortos-no-sul-da-Bahia-e-norte-de-Minas)
+- [Moïse investigava autoridades ligadas ao tráfico quando foi morto](https://www.nexojornal.com.br/extra/2021/12/12/Mo%C3%AFse-investigava-autoridades-ligadas-ao-tr%C3%A1fico-quando-foi-morto)
+- [A mescla de vacinas no Brasil. E os benefícios da estratégia](https://www.nexojornal.com.br/expresso/2021/12/12/A-mescla-de-vacinas-no-Brasil.-E-os-benef%C3%ADcios-da-estrat%C3%A9gia)
+- [A trajetória, o perfil e o papel dos servidores públicos no Brasil](https://www.nexojornal.com.br/explicado/2021/12/12/A-trajet%C3%B3ria-o-perfil-e-o-papel-dos-servidores-p%C3%BAblicos-no-Brasil)
+- [Neozelandês é investigado por tomar 10 doses de vacina no mesmo dia](https://www.nexojornal.com.br/extra/2021/12/12/Neozeland%C3%AAs-%C3%A9-investigado-por-tomar-10-doses-de-vacina-no-mesmo-dia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
