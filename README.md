@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Reino Unido registra 1ª morte pela variante ômicron](https://www.nexojornal.com.br/extra/2021/12/13/Reino-Unido-registra-1%C2%AA-morte-pela-variante-%C3%B4micron)
 - [Chuvas deixam 7 mortos no sul da Bahia e norte de Minas](https://www.nexojornal.com.br/extra/2021/12/12/Chuvas-deixam-7-mortos-no-sul-da-Bahia-e-norte-de-Minas)
 - [Moïse investigava autoridades ligadas ao tráfico quando foi morto](https://www.nexojornal.com.br/extra/2021/12/12/Mo%C3%AFse-investigava-autoridades-ligadas-ao-tr%C3%A1fico-quando-foi-morto)
 - [A mescla de vacinas no Brasil. E os benefícios da estratégia](https://www.nexojornal.com.br/expresso/2021/12/12/A-mescla-de-vacinas-no-Brasil.-E-os-benef%C3%ADcios-da-estrat%C3%A9gia)
 - [A trajetória, o perfil e o papel dos servidores públicos no Brasil](https://www.nexojornal.com.br/explicado/2021/12/12/A-trajet%C3%B3ria-o-perfil-e-o-papel-dos-servidores-p%C3%BAblicos-no-Brasil)
-- [Neozelandês é investigado por tomar 10 doses de vacina no mesmo dia](https://www.nexojornal.com.br/extra/2021/12/12/Neozeland%C3%AAs-%C3%A9-investigado-por-tomar-10-doses-de-vacina-no-mesmo-dia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
