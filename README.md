@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Revista Time escolhe Elon Musk como Pessoa do Ano](https://www.nexojornal.com.br/extra/2021/12/13/Revista-Time-escolhe-Elon-Musk-como-Pessoa-do-Ano)
-- [Reino Unido registra 1ª morte pela variante ômicron](https://www.nexojornal.com.br/extra/2021/12/13/Reino-Unido-registra-1%C2%AA-morte-pela-variante-%C3%B4micron)
-- [Chuvas deixam 7 mortos no sul da Bahia e norte de Minas](https://www.nexojornal.com.br/extra/2021/12/12/Chuvas-deixam-7-mortos-no-sul-da-Bahia-e-norte-de-Minas)
-- [Moïse investigava autoridades ligadas ao tráfico quando foi morto](https://www.nexojornal.com.br/extra/2021/12/12/Mo%C3%AFse-investigava-autoridades-ligadas-ao-tr%C3%A1fico-quando-foi-morto)
-- [A mescla de vacinas no Brasil. E os benefícios da estratégia](https://www.nexojornal.com.br/expresso/2021/12/12/A-mescla-de-vacinas-no-Brasil.-E-os-benef%C3%ADcios-da-estrat%C3%A9gia)
+- [Como uma vaga no TCU mobiliza o Congresso no fim de 2021](https://www.nexojornal.com.br/expresso/2021/12/13/Como-uma-vaga-no-TCU-mobiliza-o-Congresso-no-fim-de-2021)
+- [O que impede a quebra de patentes da vacina na pandemia](https://www.nexojornal.com.br/expresso/2021/12/13/O-que-impede-a-quebra-de-patentes-da-vacina-na-pandemia)
+- [O país ‘terrivelmente evangélico’ e a religiosidade popular](https://www.nexojornal.com.br/colunistas/2021/O-pa%C3%ADs-%E2%80%98terrivelmente-evang%C3%A9lico%E2%80%99-e-a-religiosidade-popular)
+- [A queda das doações no decorrer da pandemia no Brasil](https://www.nexojornal.com.br/expresso/2021/12/13/A-queda-das-doa%C3%A7%C3%B5es-no-decorrer-da-pandemia-no-Brasil)
+- [Anvisa começa a exigir passaporte vacinal em fronteiras e aeroportos](https://www.nexojornal.com.br/extra/2021/12/13/Anvisa-come%C3%A7a-a-exigir-passaporte-vacinal-em-fronteiras-e-aeroportos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
