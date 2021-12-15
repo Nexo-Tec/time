@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Informação e prevenção na pandemia e a ampliação de desigualdades e riscos](https://pp.nexojornal.com.br/ponto-de-vista/2021/Informa%C3%A7%C3%A3o-e-preven%C3%A7%C3%A3o-na-pandemia-e-a-amplia%C3%A7%C3%A3o-de-desigualdades-e-riscos)
 - [Políticas de inclusão na Unicamp](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-inclus%C3%A3o-na-Unicamp)
 - [Biodiversidade e degradação de ambientes amazônicos](https://pp.nexojornal.com.br/bibliografia-basica/2021/12/07/Biodiversidade-e-degrada%C3%A7%C3%A3o-de-ambientes-amaz%C3%B4nicos)
 - [Fatima Marinho: o impacto da covid-19 na população negra do Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/12/07/Fatima-Marinho-o-impacto-da-covid-19-na-popula%C3%A7%C3%A3o-negra-do-Brasil)
 - [Sinapir se expande em um país com muitos desafios para a igualdade étnico-racial](https://pp.nexojornal.com.br/opiniao/2021/Sinapir-se-expande-em-um-pa%C3%ADs-com-muitos-desafios-para-a-igualdade-%C3%A9tnico-racial)
-- [Quanto cada território contribui para a formação educacional de suas crianças?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Quanto-cada-territ%C3%B3rio-contribui-para-a-forma%C3%A7%C3%A3o-educacional-de-suas-crian%C3%A7as)
 <!-- PP_LIST:END -->
 
