@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senado escolhe Anastasia como mais novo ministro do TCU](https://www.nexojornal.com.br/extra/2021/12/14/Senado-escolhe-Anastasia-como-mais-novo-ministro-do-TCU)
-- [Como se caracteriza a violência contra crianças no Brasil](https://www.nexojornal.com.br/ensaio/debate/2021/Como-se-caracteriza-a-viol%C3%AAncia-contra-crian%C3%A7as-no-Brasil)
-- [STF freia ‘boiada’ e derruba medida que desprotegia mangues](https://www.nexojornal.com.br/extra/2021/12/14/STF-freia-%E2%80%98boiada%E2%80%99-e-derruba-medida-que-desprotegia-mangues)
-- [Lula tem 48% das intenções de voto; Bolsonaro, 21%, segundo Ipec](https://www.nexojornal.com.br/extra/2021/12/14/Lula-tem-48-das-inten%C3%A7%C3%B5es-de-voto-Bolsonaro-21-segundo-Ipec)
-- [4 pontos sobre práticas médicas que o caso Shantal expõe](https://www.nexojornal.com.br/expresso/2021/12/14/4-pontos-sobre-pr%C3%A1ticas-m%C3%A9dicas-que-o-caso-Shantal-exp%C3%B5e)
+- [Explosões em aeroporto na Colômbia deixam 3 mortos](https://www.nexojornal.com.br/extra/2021/12/14/Explos%C3%B5es-em-aeroporto-na-Col%C3%B4mbia-deixam-3-mortos)
+- [Explosão de caminhão-tanque deixa ao menos 60 mortos no Haiti](https://www.nexojornal.com.br/extra/2021/12/14/Explos%C3%A3o-de-caminh%C3%A3o-tanque-deixa-ao-menos-60-mortos-no-Haiti)
+- [PF intima Bolsonaro a depor sobre vazamento de inquérito do TSE](https://www.nexojornal.com.br/extra/2021/12/14/PF-intima-Bolsonaro-a-depor-sobre-vazamento-de-inqu%C3%A9rito-do-TSE)
+- [Setor de serviços tem 2º mês seguido de queda em outubro](https://www.nexojornal.com.br/extra/2021/12/14/Setor-de-servi%C3%A7os-tem-2%C2%BA-m%C3%AAs-seguido-de-queda-em-outubro)
+- [O impacto da violência brasileira na infância e na adolescência](https://www.nexojornal.com.br/ensaio/debate/2021/O-impacto-da-viol%C3%AAncia-brasileira-na-inf%C3%A2ncia-e-na-adolesc%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
