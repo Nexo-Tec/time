@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como uma vaga no TCU mobiliza o Congresso no fim de 2021](https://www.nexojornal.com.br/expresso/2021/12/13/Como-uma-vaga-no-TCU-mobiliza-o-Congresso-no-fim-de-2021)
-- [O que impede a quebra de patentes da vacina na pandemia](https://www.nexojornal.com.br/expresso/2021/12/13/O-que-impede-a-quebra-de-patentes-da-vacina-na-pandemia)
-- [O país ‘terrivelmente evangélico’ e a religiosidade popular](https://www.nexojornal.com.br/colunistas/2021/O-pa%C3%ADs-%E2%80%98terrivelmente-evang%C3%A9lico%E2%80%99-e-a-religiosidade-popular)
-- [A queda das doações no decorrer da pandemia no Brasil](https://www.nexojornal.com.br/expresso/2021/12/13/A-queda-das-doa%C3%A7%C3%B5es-no-decorrer-da-pandemia-no-Brasil)
-- [Anvisa começa a exigir passaporte vacinal em fronteiras e aeroportos](https://www.nexojornal.com.br/extra/2021/12/13/Anvisa-come%C3%A7a-a-exigir-passaporte-vacinal-em-fronteiras-e-aeroportos)
+- [Explosões em aeroporto na Colômbia deixam 3 mortos](https://www.nexojornal.com.br/extra/2021/12/14/Explos%C3%B5es-em-aeroporto-na-Col%C3%B4mbia-deixam-3-mortos)
+- [Explosão de caminhão-tanque deixa ao menos 60 mortos no Haiti](https://www.nexojornal.com.br/extra/2021/12/14/Explos%C3%A3o-de-caminh%C3%A3o-tanque-deixa-ao-menos-60-mortos-no-Haiti)
+- [PF intima Bolsonaro a depor sobre vazamento de inquérito do TSE](https://www.nexojornal.com.br/extra/2021/12/14/PF-intima-Bolsonaro-a-depor-sobre-vazamento-de-inqu%C3%A9rito-do-TSE)
+- [Setor de serviços tem 2º mês seguido de queda em outubro](https://www.nexojornal.com.br/extra/2021/12/14/Setor-de-servi%C3%A7os-tem-2%C2%BA-m%C3%AAs-seguido-de-queda-em-outubro)
+- [O impacto da violência brasileira na infância e na adolescência](https://www.nexojornal.com.br/ensaio/debate/2021/O-impacto-da-viol%C3%AAncia-brasileira-na-inf%C3%A2ncia-e-na-adolesc%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
