@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como uma vaga no TCU mobiliza o Congresso no fim de 2021](https://www.nexojornal.com.br/expresso/2021/12/13/Como-uma-vaga-no-TCU-mobiliza-o-Congresso-no-fim-de-2021)
-- [O que impede a quebra de patentes da vacina na pandemia](https://www.nexojornal.com.br/expresso/2021/12/13/O-que-impede-a-quebra-de-patentes-da-vacina-na-pandemia)
-- [O país ‘terrivelmente evangélico’ e a religiosidade popular](https://www.nexojornal.com.br/colunistas/2021/O-pa%C3%ADs-%E2%80%98terrivelmente-evang%C3%A9lico%E2%80%99-e-a-religiosidade-popular)
-- [A queda das doações no decorrer da pandemia no Brasil](https://www.nexojornal.com.br/expresso/2021/12/13/A-queda-das-doa%C3%A7%C3%B5es-no-decorrer-da-pandemia-no-Brasil)
-- [Anvisa começa a exigir passaporte vacinal em fronteiras e aeroportos](https://www.nexojornal.com.br/extra/2021/12/13/Anvisa-come%C3%A7a-a-exigir-passaporte-vacinal-em-fronteiras-e-aeroportos)
+- [Senado escolhe Anastasia como mais novo ministro do TCU](https://www.nexojornal.com.br/extra/2021/12/14/Senado-escolhe-Anastasia-como-mais-novo-ministro-do-TCU)
+- [Como se caracteriza a violência contra crianças no Brasil](https://www.nexojornal.com.br/ensaio/debate/2021/Como-se-caracteriza-a-viol%C3%AAncia-contra-crian%C3%A7as-no-Brasil)
+- [STF freia ‘boiada’ e derruba medida que desprotegia mangues](https://www.nexojornal.com.br/extra/2021/12/14/STF-freia-%E2%80%98boiada%E2%80%99-e-derruba-medida-que-desprotegia-mangues)
+- [Lula tem 48% das intenções de voto; Bolsonaro, 21%, segundo Ipec](https://www.nexojornal.com.br/extra/2021/12/14/Lula-tem-48-das-inten%C3%A7%C3%B5es-de-voto-Bolsonaro-21-segundo-Ipec)
+- [4 pontos sobre práticas médicas que o caso Shantal expõe](https://www.nexojornal.com.br/expresso/2021/12/14/4-pontos-sobre-pr%C3%A1ticas-m%C3%A9dicas-que-o-caso-Shantal-exp%C3%B5e)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
