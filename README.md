@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A Polícia Federal posta em xeque ao agir em contextos eleitorais](https://www.nexojornal.com.br/expresso/2021/12/16/A-Pol%C3%ADcia-Federal-posta-em-xeque-ao-agir-em-contextos-eleitorais)
+- [Quais casos André Mendonça vai conduzir no Supremo](https://www.nexojornal.com.br/expresso/2021/12/15/Quais-casos-Andr%C3%A9-Mendon%C3%A7a-vai-conduzir-no-Supremo)
 - [Surtos de gripe: quais os pontos de preocupação e os alertas](https://www.nexojornal.com.br/expresso/2021/12/15/Surtos-de-gripe-quais-os-pontos-de-preocupa%C3%A7%C3%A3o-e-os-alertas)
-- [STF permite entrada de brasileiros sem passaporte vacinal](https://www.nexojornal.com.br/extra/2021/12/15/STF-permite-entrada-de-brasileiros-sem-passaporte-vacinal)
+- [STF deve permitir entrada de brasileiros sem passaporte vacinal](https://www.nexojornal.com.br/extra/2021/12/15/STF-deve-permitir-entrada-de-brasileiros-sem-passaporte-vacinal)
 - [Análise de TCU sobre privatização da Eletrobras fica para 2022](https://www.nexojornal.com.br/extra/2021/12/15/An%C3%A1lise-de-TCU-sobre-privatiza%C3%A7%C3%A3o-da-Eletrobras-fica-para-2022)
-- [Os desafios contemporâneos para educar crianças](https://www.nexojornal.com.br/ensaio/debate/2021/Os-desafios-contempor%C3%A2neos-para-educar-crian%C3%A7as)
-- [Quer liberdade, sr. ministro? Vacine as crianças!](https://www.nexojornal.com.br/colunistas/2021/Quer-liberdade-sr.-ministro-Vacine-as-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
