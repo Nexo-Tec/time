@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Comunique-se melhor com os pequenos](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/comunique-se-melhor-com-os-pequenos/)
 - [Em defesa de Yoko Ono](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/em-defesa-de-yoko-ono/)
 - [Pensamentos travestis na arte de Isadora Ravena](https://gamarevista.uol.com.br/sociedade/pensamentos-travestis-na-arte-de-isadora-ravena/)
 - [Cropped](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cropped/)
 - [@mcdricka](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mcdricka/)
-- [Isa Zendron, da Boate Class: ‘Torço para o mundo inteiro virar mais rebolativo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/isa-zendron-da-boate-class-como-a-danca-ajuda-na-autoestima/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
