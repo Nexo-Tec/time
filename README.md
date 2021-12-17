@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Controle e manejo do fogo no Brasil, com foco na Amazônia](https://pp.nexojornal.com.br/linha-do-tempo/2021/Controle-e-manejo-do-fogo-no-Brasil-com-foco-na-Amaz%C3%B4nia)
-- [Lei Maria da Penha](https://pp.nexojornal.com.br/linha-do-tempo/2021/Lei-Maria-da-Penha)
-- [Mobilização tupinambá e recuperação territorial na Mata Atlântica](https://pp.nexojornal.com.br/academico/2021/Mobiliza%C3%A7%C3%A3o-tupinamb%C3%A1-e-recupera%C3%A7%C3%A3o-territorial-na-Mata-Atl%C3%A2ntica)
-- [Desafios e perspectivas contemporâneas das cotas raciais no Brasil](https://pp.nexojornal.com.br/opiniao/2021/Desafios-e-perspectivas-contempor%C3%A2neas-das-cotas-raciais-no-Brasil)
-- [O que a pandemia mostrou sobre imigrantes e refugiados&lpar;as&rpar; no Brasil](https://pp.nexojornal.com.br/opiniao/2021/O-que-a-pandemia-mostrou-sobre-imigrantes-e-refugiadosas-no-Brasil)
+- [Governo digital na administração pública federal, mas e a inclusão?](https://pp.nexojornal.com.br/ponto-de-vista/2021/Governo-digital-na-administra%C3%A7%C3%A3o-p%C3%BAblica-federal-mas-e-a-inclus%C3%A3o)
+- [Joana Chiavari: a implementação do Código Florestal nos estados](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/12/14/Joana-Chiavari-a-implementa%C3%A7%C3%A3o-do-C%C3%B3digo-Florestal-nos-estados)
+- [Quem paga a conta do desmatamento somos nós](https://pp.nexojornal.com.br/opiniao/2021/Quem-paga-a-conta-do-desmatamento-somos-n%C3%B3s)
+- [Informação e prevenção na pandemia e a ampliação de desigualdades e riscos](https://pp.nexojornal.com.br/ponto-de-vista/2021/Informa%C3%A7%C3%A3o-e-preven%C3%A7%C3%A3o-na-pandemia-e-a-amplia%C3%A7%C3%A3o-de-desigualdades-e-riscos)
+- [Políticas de inclusão na Unicamp](https://pp.nexojornal.com.br/linha-do-tempo/2021/Pol%C3%ADticas-de-inclus%C3%A3o-na-Unicamp)
 <!-- PP_LIST:END -->
 
