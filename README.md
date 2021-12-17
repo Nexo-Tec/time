@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Até a sua balada pode ser mais sustentável](https://gamarevista.uol.com.br/parcerias/ate-a-sua-balada-pode-ser-mais-sustentavel/)
 - [Destransição, Baby](https://gamarevista.uol.com.br/cultura/trecho-de-livro/destransicao-baby/)
 - [Jeremy Strong e os excessos cometidos por atores](https://gamarevista.uol.com.br/achamos-que-vale/ler/jeremy-strong-e-os-excessos-cometidos-por-atores/)
 - [João Donato e Jards Macalé no show ‘Síntese do Lance’](https://gamarevista.uol.com.br/achamos-que-vale/ir/joao-donato-e-jards-macale-no-show-sintese-do-lance/)
 - [Os filmes do 23º Festival do Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-filmes-do-23o-festival-do-rio/)
-- [Um perfil sobre o ‘verdadeiro’ Will Smith](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-sobre-o-verdadeiro-will-smith/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
