@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STF mantém decisão de Rosa Weber que libera emendas de relator](https://www.nexojornal.com.br/extra/2021/12/16/STF-mant%C3%A9m-decis%C3%A3o-de-Rosa-Weber-que-libera-emendas-de-relator)
-- [Por que o Brasil chega atrasado à vacinação de crianças](https://www.nexojornal.com.br/expresso/2021/12/16/Por-que-o-Brasil-chega-atrasado-%C3%A0-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
-- [Haiti: gangue libera missionários sequestrados em outubro](https://www.nexojornal.com.br/extra/2021/12/16/Haiti-gangue-libera-mission%C3%A1rios-sequestrados-em-outubro)
-- [O saldo da aprovação da PEC dos Precatórios em 4 frentes](https://www.nexojornal.com.br/expresso/2021/12/16/O-saldo-da-aprova%C3%A7%C3%A3o-da-PEC-dos-Precat%C3%B3rios-em-4-frentes)
-- [Jair Bolsonaro, a covid-19 e a federação brasileira](https://www.nexojornal.com.br/colunistas/2021/Jair-Bolsonaro-a-covid-19-e-a-federa%C3%A7%C3%A3o-brasileira)
+- [Anvisa libera vacina da Pfizer para crianças a partir de 5 anos](https://www.nexojornal.com.br/extra/2021/12/16/Anvisa-libera-vacina-da-Pfizer-para-crian%C3%A7as-a-partir-de-5-anos)
+- [Operação da PF faz busca na casa de governador do Acre](https://www.nexojornal.com.br/extra/2021/12/16/Opera%C3%A7%C3%A3o-da-PF-faz-busca-na-casa-de-governador-do-Acre)
+- [A Polícia Federal posta em xeque ao agir em contextos eleitorais](https://www.nexojornal.com.br/expresso/2021/12/16/A-Pol%C3%ADcia-Federal-posta-em-xeque-ao-agir-em-contextos-eleitorais)
+- [Quais casos André Mendonça vai conduzir no Supremo](https://www.nexojornal.com.br/expresso/2021/12/15/Quais-casos-Andr%C3%A9-Mendon%C3%A7a-vai-conduzir-no-Supremo)
+- [Surtos de gripe: quais os pontos de preocupação e os alertas](https://www.nexojornal.com.br/expresso/2021/12/15/Surtos-de-gripe-quais-os-pontos-de-preocupa%C3%A7%C3%A3o-e-os-alertas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
