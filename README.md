@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Datafolha: Bolsonaro perde 4 de cada 10 eleitores de 2018](https://www.nexojornal.com.br/extra/2021/12/17/Datafolha-Bolsonaro-perde-4-de-cada-10-eleitores-de-2018)
 - [Doria quer comprar vacinas infantis diretamente com a Pfizer](https://www.nexojornal.com.br/extra/2021/12/17/Doria-quer-comprar-vacinas-infantis-diretamente-com-a-Pfizer)
 - [Presidente da Caixa é notificado por exigir flexões em festa](https://www.nexojornal.com.br/extra/2021/12/17/Presidente-da-Caixa-%C3%A9-notificado-por-exigir-flex%C3%B5es-em-festa)
 - [STF mantém decisão de Rosa Weber que libera emendas de relator](https://www.nexojornal.com.br/extra/2021/12/16/STF-mant%C3%A9m-decis%C3%A3o-de-Rosa-Weber-que-libera-emendas-de-relator)
 - [Por que o Brasil chega atrasado à vacinação de crianças](https://www.nexojornal.com.br/expresso/2021/12/16/Por-que-o-Brasil-chega-atrasado-%C3%A0-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
-- [Haiti: gangue libera missionários sequestrados em outubro](https://www.nexojornal.com.br/extra/2021/12/16/Haiti-gangue-libera-mission%C3%A1rios-sequestrados-em-outubro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
