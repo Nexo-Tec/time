@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O fundo eleitoral turbinado em meio à crise da falta de dinheiro](https://www.nexojornal.com.br/expresso/2021/12/17/O-fundo-eleitoral-turbinado-em-meio-%C3%A0-crise-da-falta-de-dinheiro)
-- [Homem que invadiu Capitólio é condenado a 5 anos de prisão](https://www.nexojornal.com.br/extra/2021/12/17/Homem-que-invadiu-Capit%C3%B3lio-%C3%A9-condenado-a-5-anos-de-pris%C3%A3o)
-- [Queiroga mente ao dizer que vacinação de crianças não é consenso](https://www.nexojornal.com.br/extra/2021/12/17/Queiroga-mente-ao-dizer-que-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-n%C3%A3o-%C3%A9-consenso)
-- [Governo federal arrecada R$ 11,14 bilhões em leilão do pré-sal](https://www.nexojornal.com.br/extra/2021/12/17/Governo-federal-arrecada-R-1114-bilh%C3%B5es-em-leil%C3%A3o-do-pr%C3%A9-sal)
-- [O aplicativo que tenta ajudar escritores de ficção](https://www.nexojornal.com.br/expresso/2021/12/17/O-aplicativo-que-tenta-ajudar-escritores-de-fic%C3%A7%C3%A3o)
+- [Datafolha: Bolsonaro perde 4 de cada 10 eleitores de 2018](https://www.nexojornal.com.br/extra/2021/12/17/Datafolha-Bolsonaro-perde-4-de-cada-10-eleitores-de-2018)
+- [Doria quer comprar vacinas infantis diretamente com a Pfizer](https://www.nexojornal.com.br/extra/2021/12/17/Doria-quer-comprar-vacinas-infantis-diretamente-com-a-Pfizer)
+- [Presidente da Caixa é notificado por exigir flexões em festa](https://www.nexojornal.com.br/extra/2021/12/17/Presidente-da-Caixa-%C3%A9-notificado-por-exigir-flex%C3%B5es-em-festa)
+- [STF mantém decisão de Rosa Weber que libera emendas de relator](https://www.nexojornal.com.br/extra/2021/12/16/STF-mant%C3%A9m-decis%C3%A3o-de-Rosa-Weber-que-libera-emendas-de-relator)
+- [Por que o Brasil chega atrasado à vacinação de crianças](https://www.nexojornal.com.br/expresso/2021/12/16/Por-que-o-Brasil-chega-atrasado-%C3%A0-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
