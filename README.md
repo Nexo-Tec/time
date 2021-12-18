@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Anac suspende licença da ITA após paralisação repentina de voos](https://www.nexojornal.com.br/extra/2021/12/18/Anac-suspende-licen%C3%A7a-da-ITA-ap%C3%B3s-paralisa%C3%A7%C3%A3o-repentina-de-voos)
 - [O fundo eleitoral turbinado em meio à crise da falta de dinheiro](https://www.nexojornal.com.br/expresso/2021/12/17/O-fundo-eleitoral-turbinado-em-meio-%C3%A0-crise-da-falta-de-dinheiro)
 - [Homem que invadiu Capitólio é condenado a 5 anos de prisão](https://www.nexojornal.com.br/extra/2021/12/17/Homem-que-invadiu-Capit%C3%B3lio-%C3%A9-condenado-a-5-anos-de-pris%C3%A3o)
 - [Queiroga mente ao dizer que vacinação de crianças não é consenso](https://www.nexojornal.com.br/extra/2021/12/17/Queiroga-mente-ao-dizer-que-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-n%C3%A3o-%C3%A9-consenso)
 - [Governo federal arrecada R$ 11,14 bilhões em leilão do pré-sal](https://www.nexojornal.com.br/extra/2021/12/17/Governo-federal-arrecada-R-1114-bilh%C3%B5es-em-leil%C3%A3o-do-pr%C3%A9-sal)
-- [O aplicativo que tenta ajudar escritores de ficção](https://www.nexojornal.com.br/expresso/2021/12/17/O-aplicativo-que-tenta-ajudar-escritores-de-fic%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
