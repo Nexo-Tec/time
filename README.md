@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anac suspende licença da ITA após paralisação repentina de voos](https://www.nexojornal.com.br/extra/2021/12/18/Anac-suspende-licen%C3%A7a-da-ITA-ap%C3%B3s-paralisa%C3%A7%C3%A3o-repentina-de-voos)
-- [O fundo eleitoral turbinado em meio à crise da falta de dinheiro](https://www.nexojornal.com.br/expresso/2021/12/17/O-fundo-eleitoral-turbinado-em-meio-%C3%A0-crise-da-falta-de-dinheiro)
-- [Homem que invadiu Capitólio é condenado a 5 anos de prisão](https://www.nexojornal.com.br/extra/2021/12/17/Homem-que-invadiu-Capit%C3%B3lio-%C3%A9-condenado-a-5-anos-de-pris%C3%A3o)
-- [Queiroga mente ao dizer que vacinação de crianças não é consenso](https://www.nexojornal.com.br/extra/2021/12/17/Queiroga-mente-ao-dizer-que-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-n%C3%A3o-%C3%A9-consenso)
-- [Governo federal arrecada R$ 11,14 bilhões em leilão do pré-sal](https://www.nexojornal.com.br/extra/2021/12/17/Governo-federal-arrecada-R-1114-bilh%C3%B5es-em-leil%C3%A3o-do-pr%C3%A9-sal)
+- [Saúde: grupo técnico contradiz Queiroga e defende vacina infantil](https://www.nexojornal.com.br/extra/2021/12/19/Sa%C3%BAde-grupo-t%C3%A9cnico-contradiz-Queiroga-e-defende-vacina-infantil)
+- [Holanda começa novo lockdown para frear avanço da ômicron](https://www.nexojornal.com.br/extra/2021/12/19/Holanda-come%C3%A7a-novo-lockdown-para-frear-avan%C3%A7o-da-%C3%B4micron)
+- [Chile decide entre esquerda e extrema direita em 2º turno acirrado](https://www.nexojornal.com.br/extra/2021/12/18/Chile-decide-entre-esquerda-e-extrema-direita-em-2%C2%BA-turno-acirrado)
+- [Ministro da Saúde anuncia redução de intervalo para terceira dose](https://www.nexojornal.com.br/extra/2021/12/18/Ministro-da-Sa%C3%BAde-anuncia-redu%C3%A7%C3%A3o-de-intervalo-para-terceira-dose)
+- [O site que digitalizou 3 séculos da moda ocidental e japonesa](https://www.nexojornal.com.br/expresso/2021/12/18/O-site-que-digitalizou-3-s%C3%A9culos-da-moda-ocidental-e-japonesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
