@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Especial: dicas culturais da equipe Gama](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dicas-culturais-de-2021-o-que-ler-ver-e-ouvir/)
 - [Carolina Ferraz](https://gamarevista.uol.com.br/pessoas/questionario-proust/carolina-ferraz/)
 - [Até a sua balada pode ser mais sustentável](https://gamarevista.uol.com.br/parcerias/ate-a-sua-balada-pode-ser-mais-sustentavel/)
 - [Destransição, Baby](https://gamarevista.uol.com.br/cultura/trecho-de-livro/destransicao-baby/)
 - [Jeremy Strong e os excessos cometidos por atores](https://gamarevista.uol.com.br/achamos-que-vale/ler/jeremy-strong-e-os-excessos-cometidos-por-atores/)
-- [João Donato e Jards Macalé no show ‘Síntese do Lance’](https://gamarevista.uol.com.br/achamos-que-vale/ir/joao-donato-e-jards-macale-no-show-sintese-do-lance/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
