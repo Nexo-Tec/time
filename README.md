@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Saúde: grupo técnico contradiz Queiroga e defende vacina infantil](https://www.nexojornal.com.br/extra/2021/12/19/Sa%C3%BAde-grupo-t%C3%A9cnico-contradiz-Queiroga-e-defende-vacina-infantil)
+- [Holanda começa novo lockdown para frear avanço da ômicron](https://www.nexojornal.com.br/extra/2021/12/19/Holanda-come%C3%A7a-novo-lockdown-para-frear-avan%C3%A7o-da-%C3%B4micron)
 - [Chile decide entre esquerda e extrema direita em 2º turno acirrado](https://www.nexojornal.com.br/extra/2021/12/18/Chile-decide-entre-esquerda-e-extrema-direita-em-2%C2%BA-turno-acirrado)
 - [Ministro da Saúde anuncia redução de intervalo para terceira dose](https://www.nexojornal.com.br/extra/2021/12/18/Ministro-da-Sa%C3%BAde-anuncia-redu%C3%A7%C3%A3o-de-intervalo-para-terceira-dose)
 - [O site que digitalizou 3 séculos da moda ocidental e japonesa](https://www.nexojornal.com.br/expresso/2021/12/18/O-site-que-digitalizou-3-s%C3%A9culos-da-moda-ocidental-e-japonesa)
-- [5 livros de não ficção sobre o mundo do crime organizado](https://www.nexojornal.com.br/estante/favoritos/2021/5-livros-de-n%C3%A3o-fic%C3%A7%C3%A3o-sobre-o-mundo-do-crime-organizado)
-- [‘Desdenhar evangélicos é desconhecer o Brasil popular’](https://www.nexojornal.com.br/entrevista/2021/12/18/%E2%80%98Desdenhar-evang%C3%A9licos-%C3%A9-desconhecer-o-Brasil-popular%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
