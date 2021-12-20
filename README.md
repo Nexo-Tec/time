@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Saúde: grupo técnico contradiz Queiroga e defende vacina infantil](https://www.nexojornal.com.br/extra/2021/12/19/Sa%C3%BAde-grupo-t%C3%A9cnico-contradiz-Queiroga-e-defende-vacina-infantil)
-- [Holanda começa novo lockdown para frear avanço da ômicron](https://www.nexojornal.com.br/extra/2021/12/19/Holanda-come%C3%A7a-novo-lockdown-para-frear-avan%C3%A7o-da-%C3%B4micron)
-- [Chile decide entre esquerda e extrema direita em 2º turno acirrado](https://www.nexojornal.com.br/extra/2021/12/18/Chile-decide-entre-esquerda-e-extrema-direita-em-2%C2%BA-turno-acirrado)
-- [Ministro da Saúde anuncia redução de intervalo para terceira dose](https://www.nexojornal.com.br/extra/2021/12/18/Ministro-da-Sa%C3%BAde-anuncia-redu%C3%A7%C3%A3o-de-intervalo-para-terceira-dose)
-- [O site que digitalizou 3 séculos da moda ocidental e japonesa](https://www.nexojornal.com.br/expresso/2021/12/18/O-site-que-digitalizou-3-s%C3%A9culos-da-moda-ocidental-e-japonesa)
+- [O uso de cota de telas para limitar a presença de blockbusters](https://www.nexojornal.com.br/expresso/2021/12/20/O-uso-de-cota-de-telas-para-limitar-a-presen%C3%A7a-de-blockbusters)
+- [SP prorroga obrigatoriedade de máscaras até 31 de janeiro](https://www.nexojornal.com.br/extra/2021/12/20/SP-prorroga-obrigatoriedade-de-m%C3%A1scaras-at%C3%A9-31-de-janeiro)
+- [O caminho da vitória de Boric no Chile. E os desafios adiante](https://www.nexojornal.com.br/expresso/2021/12/20/O-caminho-da-vit%C3%B3ria-de-Boric-no-Chile.-E-os-desafios-adiante)
+- [Mais 3 mulheres relatam assédio e abuso de Renato Kalil](https://www.nexojornal.com.br/extra/2021/12/20/Mais-3-mulheres-relatam-ass%C3%A9dio-e-abuso-de-Renato-Kalil)
+- [Mercado diminui expectativa de crescimento pela 10ª vez](https://www.nexojornal.com.br/extra/2021/12/20/Mercado-diminui-expectativa-de-crescimento-pela-10%C2%AA-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
