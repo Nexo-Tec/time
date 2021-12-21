@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procon-SP notifica Itapemirim após suspensão de voos](https://www.nexojornal.com.br/extra/2021/12/20/Procon-SP-notifica-Itapemirim-ap%C3%B3s-suspens%C3%A3o-de-voos)
-- [O uso de cota de telas para limitar a presença de blockbusters](https://www.nexojornal.com.br/expresso/2021/12/20/O-uso-de-cota-de-telas-para-limitar-a-presen%C3%A7a-de-blockbusters)
-- [SP prorroga obrigatoriedade de máscaras até 31 de janeiro](https://www.nexojornal.com.br/extra/2021/12/20/SP-prorroga-obrigatoriedade-de-m%C3%A1scaras-at%C3%A9-31-de-janeiro)
-- [O caminho da vitória de Boric no Chile. E os desafios adiante](https://www.nexojornal.com.br/expresso/2021/12/20/O-caminho-da-vit%C3%B3ria-de-Boric-no-Chile.-E-os-desafios-adiante)
-- [Mais 3 mulheres relatam assédio e abuso de Renato Kalil](https://www.nexojornal.com.br/extra/2021/12/20/Mais-3-mulheres-relatam-ass%C3%A9dio-e-abuso-de-Renato-Kalil)
+- [Um documentário sobre a criação de ‘Bohemian Rhapsody’](https://www.nexojornal.com.br/expresso/2021/12/20/Um-document%C3%A1rio-sobre-a-cria%C3%A7%C3%A3o-de-%E2%80%98Bohemian-Rhapsody%E2%80%99)
+- [Parecer do Orçamento tem espaço fiscal de R$ 113 bi em 2022](https://www.nexojornal.com.br/extra/2021/12/20/Parecer-do-Or%C3%A7amento-tem-espa%C3%A7o-fiscal-de-R-113-bi-em-2022)
+- [A aposta do TikTok numa rede de restaurantes nos EUA](https://www.nexojornal.com.br/expresso/2021/12/20/A-aposta-do-TikTok-numa-rede-de-restaurantes-nos-EUA)
+- [Justiça suspende decisão que afastou diretora do Iphan](https://www.nexojornal.com.br/extra/2021/12/20/Justi%C3%A7a-suspende-decis%C3%A3o-que-afastou-diretora-do-Iphan)
+- [Governo libera 4ª dose de vacina para imunossuprimidos](https://www.nexojornal.com.br/extra/2021/12/20/Governo-libera-4%C2%AA-dose-de-vacina-para-imunossuprimidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
