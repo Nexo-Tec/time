@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sutil e mais natural, panetone chega à versão 4.0](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/sutil-e-mais-natural-panetone-chega-a-versao-4-0/)
 - [Para lá de Surreal](https://gamarevista.uol.com.br/cultura/para-la-de-surreal/)
 - [@mariahcarey](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mariahcarey/)
 - [O futuro e a dor de corno da saudade](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-futuro-e-a-dor-de-corno-da-saudade/)
 - [Especial: dicas culturais da equipe Gama](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dicas-culturais-de-2021-o-que-ler-ver-e-ouvir/)
-- [Carolina Ferraz](https://gamarevista.uol.com.br/pessoas/questionario-proust/carolina-ferraz/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
