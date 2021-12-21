@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Controle e manejo do fogo no Brasil, com foco na Amazônia](https://pp.nexojornal.com.br/linha-do-tempo/2021/Controle-e-manejo-do-fogo-no-Brasil-com-foco-na-Amaz%C3%B4nia)
-- [Lei Maria da Penha](https://pp.nexojornal.com.br/linha-do-tempo/2021/Lei-Maria-da-Penha)
-- [Mobilização tupinambá e recuperação territorial na Mata Atlântica](https://pp.nexojornal.com.br/academico/2021/Mobiliza%C3%A7%C3%A3o-tupinamb%C3%A1-e-recupera%C3%A7%C3%A3o-territorial-na-Mata-Atl%C3%A2ntica)
-- [Desafios e perspectivas contemporâneas das cotas raciais no Brasil](https://pp.nexojornal.com.br/opiniao/2021/Desafios-e-perspectivas-contempor%C3%A2neas-das-cotas-raciais-no-Brasil)
-- [O que a pandemia mostrou sobre imigrantes e refugiados&lpar;as&rpar; no Brasil](https://pp.nexojornal.com.br/opiniao/2021/O-que-a-pandemia-mostrou-sobre-imigrantes-e-refugiadosas-no-Brasil)
+- [Política tributária](https://pp.nexojornal.com.br/glossario/Pol%C3%ADtica-tribut%C3%A1ria)
+- [Cotas na UFBA: lições de uma experiência pioneira](https://pp.nexojornal.com.br/linha-do-tempo/2021/Cotas-na-UFBA-li%C3%A7%C3%B5es-de-uma-experi%C3%AAncia-pioneira)
+- [Volume de trabalho dos professores merece atenção no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2021/Volume-de-trabalho-dos-professores-merece-aten%C3%A7%C3%A3o-no-Brasil)
+- [Formação do Sistema Nacional de Promoção da Igualdade Racial](https://pp.nexojornal.com.br/linha-do-tempo/2021/Forma%C3%A7%C3%A3o-do-Sistema-Nacional-de-Promo%C3%A7%C3%A3o-da-Igualdade-Racial)
+- [Por que é necessário compreender a pobreza além da sua dimensão monetária?](https://pp.nexojornal.com.br/opiniao/2021/Por-que-%C3%A9-necess%C3%A1rio-compreender-a-pobreza-al%C3%A9m-da-sua-dimens%C3%A3o-monet%C3%A1ria)
 <!-- PP_LIST:END -->
 
