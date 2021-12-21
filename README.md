@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O uso de cota de telas para limitar a presença de blockbusters](https://www.nexojornal.com.br/expresso/2021/12/20/O-uso-de-cota-de-telas-para-limitar-a-presen%C3%A7a-de-blockbusters)
-- [SP prorroga obrigatoriedade de máscaras até 31 de janeiro](https://www.nexojornal.com.br/extra/2021/12/20/SP-prorroga-obrigatoriedade-de-m%C3%A1scaras-at%C3%A9-31-de-janeiro)
-- [O caminho da vitória de Boric no Chile. E os desafios adiante](https://www.nexojornal.com.br/expresso/2021/12/20/O-caminho-da-vit%C3%B3ria-de-Boric-no-Chile.-E-os-desafios-adiante)
-- [Mais 3 mulheres relatam assédio e abuso de Renato Kalil](https://www.nexojornal.com.br/extra/2021/12/20/Mais-3-mulheres-relatam-ass%C3%A9dio-e-abuso-de-Renato-Kalil)
-- [Mercado diminui expectativa de crescimento pela 10ª vez](https://www.nexojornal.com.br/extra/2021/12/20/Mercado-diminui-expectativa-de-crescimento-pela-10%C2%AA-vez)
+- [O solstício de verão no Brasil, o dia mais longo do ano](https://www.nexojornal.com.br/grafico/2021/12/21/O-solst%C3%ADcio-de-ver%C3%A3o-no-Brasil-o-dia-mais-longo-do-ano)
+- [Censo Escolar: matrículas na educação infantil caem em 2021](https://www.nexojornal.com.br/extra/2021/12/21/Censo-Escolar-matr%C3%ADculas-na-educa%C3%A7%C3%A3o-infantil-caem-em-2021)
+- [Contra ômicron, EUA vão distribuir testes de covid a domicílio](https://www.nexojornal.com.br/extra/2021/12/21/Contra-%C3%B4micron-EUA-v%C3%A3o-distribuir-testes-de-covid-a-domic%C3%ADlio)
+- [Os entraves da chapa de Lula-Alckmin. E os desafios se ela vingar](https://www.nexojornal.com.br/expresso/2021/12/21/Os-entraves-da-chapa-de-Lula-Alckmin.-E-os-desafios-se-ela-vingar)
+- [Quais as principais questões que Boric irá enfrentar no Chile](https://www.nexojornal.com.br/ensaio/2021/Quais-as-principais-quest%C3%B5es-que-Boric-ir%C3%A1-enfrentar-no-Chile)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
