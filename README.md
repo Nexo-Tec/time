@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A briga está perdida’, diz Olavo de Carvalho sobre Bolsonaro](https://www.nexojornal.com.br/extra/2021/12/21/%E2%80%98A-briga-est%C3%A1-perdida%E2%80%99-diz-Olavo-de-Carvalho-sobre-Bolsonaro)
-- [Itapemirim: trajetória e dívidas de uma aérea nascida em crise](https://www.nexojornal.com.br/expresso/2021/12/21/Itapemirim-trajet%C3%B3ria-e-d%C3%ADvidas-de-uma-a%C3%A9rea-nascida-em-crise)
-- [Professor de história que usou roupa de Ku Klux Klan é afastado](https://www.nexojornal.com.br/extra/2021/12/21/Professor-de-hist%C3%B3ria-que-usou-roupa-de-Ku-Klux-Klan-%C3%A9-afastado)
-- [Os homenageados do ano na educação básica brasileira](https://www.nexojornal.com.br/colunistas/2021/Os-homenageados-do-ano-na-educa%C3%A7%C3%A3o-b%C3%A1sica-brasileira)
-- [De 2021 para 2022: a morte e a fome numa sociedade esgarçada](https://www.nexojornal.com.br/especial/2021/12/21/De-2021-para-2022-a-morte-e-a-fome-numa-sociedade-esgar%C3%A7ada)
+- [O solstício de verão no Brasil, o dia mais longo do ano](https://www.nexojornal.com.br/grafico/2021/12/21/O-solst%C3%ADcio-de-ver%C3%A3o-no-Brasil-o-dia-mais-longo-do-ano)
+- [Censo Escolar: matrículas na educação infantil caem em 2021](https://www.nexojornal.com.br/extra/2021/12/21/Censo-Escolar-matr%C3%ADculas-na-educa%C3%A7%C3%A3o-infantil-caem-em-2021)
+- [Contra ômicron, EUA vão distribuir testes de covid a domicílio](https://www.nexojornal.com.br/extra/2021/12/21/Contra-%C3%B4micron-EUA-v%C3%A3o-distribuir-testes-de-covid-a-domic%C3%ADlio)
+- [Os entraves da chapa de Lula-Alckmin. E os desafios se ela vingar](https://www.nexojornal.com.br/expresso/2021/12/21/Os-entraves-da-chapa-de-Lula-Alckmin.-E-os-desafios-se-ela-vingar)
+- [Quais as principais questões que Boric irá enfrentar no Chile](https://www.nexojornal.com.br/ensaio/2021/Quais-as-principais-quest%C3%B5es-que-Boric-ir%C3%A1-enfrentar-no-Chile)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
