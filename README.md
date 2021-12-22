@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O solstício de verão no Brasil, o dia mais longo do ano](https://www.nexojornal.com.br/grafico/2021/12/21/O-solst%C3%ADcio-de-ver%C3%A3o-no-Brasil-o-dia-mais-longo-do-ano)
-- [Censo Escolar: matrículas na educação infantil caem em 2021](https://www.nexojornal.com.br/extra/2021/12/21/Censo-Escolar-matr%C3%ADculas-na-educa%C3%A7%C3%A3o-infantil-caem-em-2021)
-- [Contra ômicron, EUA vão distribuir testes de covid a domicílio](https://www.nexojornal.com.br/extra/2021/12/21/Contra-%C3%B4micron-EUA-v%C3%A3o-distribuir-testes-de-covid-a-domic%C3%ADlio)
-- [Os entraves da chapa de Lula-Alckmin. E os desafios se ela vingar](https://www.nexojornal.com.br/expresso/2021/12/21/Os-entraves-da-chapa-de-Lula-Alckmin.-E-os-desafios-se-ela-vingar)
-- [Quais as principais questões que Boric irá enfrentar no Chile](https://www.nexojornal.com.br/ensaio/2021/Quais-as-principais-quest%C3%B5es-que-Boric-ir%C3%A1-enfrentar-no-Chile)
+- [A descoberta do mais bem conservado fóssil de ovo de dinossauro](https://www.nexojornal.com.br/expresso/2021/12/22/A-descoberta-do-mais-bem-conservado-f%C3%B3ssil-de-ovo-de-dinossauro)
+- [Dia 25 de dezembro é feriado em 149 países em 2021](https://www.nexojornal.com.br/grafico/2021/12/22/Dia-25-de-dezembro-%C3%A9-feriado-em-149-pa%C3%ADses-em-2021)
+- [Primeiro SMS da história é vendido por R$ 693 mil](https://www.nexojornal.com.br/extra/2021/12/22/Primeiro-SMS-da-hist%C3%B3ria-%C3%A9-vendido-por-R-693-mil)
+- [Como o luto motivou a retomada do universo de ‘Matrix’](https://www.nexojornal.com.br/expresso/2021/12/22/Como-o-luto-motivou-a-retomada-do-universo-de-%E2%80%98Matrix%E2%80%99)
+- [Número de desempregados há mais de 2 anos bate recorde, diz Ipea](https://www.nexojornal.com.br/extra/2021/12/22/N%C3%BAmero-de-desempregados-h%C3%A1-mais-de-2-anos-bate-recorde-diz-Ipea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
