@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A briga está perdida’, diz Olavo de Carvalho sobre Bolsonaro](https://www.nexojornal.com.br/extra/2021/12/21/%E2%80%98A-briga-est%C3%A1-perdida%E2%80%99-diz-Olavo-de-Carvalho-sobre-Bolsonaro)
-- [Itapemirim: trajetória e dívidas de uma aérea nascida em crise](https://www.nexojornal.com.br/expresso/2021/12/21/Itapemirim-trajet%C3%B3ria-e-d%C3%ADvidas-de-uma-a%C3%A9rea-nascida-em-crise)
-- [Professor de história que usou roupa de Ku Klux Klan é afastado](https://www.nexojornal.com.br/extra/2021/12/21/Professor-de-hist%C3%B3ria-que-usou-roupa-de-Ku-Klux-Klan-%C3%A9-afastado)
-- [Os homenageados do ano na educação básica brasileira](https://www.nexojornal.com.br/colunistas/2021/Os-homenageados-do-ano-na-educa%C3%A7%C3%A3o-b%C3%A1sica-brasileira)
-- [De 2021 para 2022: a morte e a fome numa sociedade esgarçada](https://www.nexojornal.com.br/especial/2021/12/21/De-2021-para-2022-a-morte-e-a-fome-numa-sociedade-esgar%C3%A7ada)
+- [A descoberta do mais bem conservado fóssil de ovo de dinossauro](https://www.nexojornal.com.br/expresso/2021/12/22/A-descoberta-do-mais-bem-conservado-f%C3%B3ssil-de-ovo-de-dinossauro)
+- [Dia 25 de dezembro é feriado em 149 países em 2021](https://www.nexojornal.com.br/grafico/2021/12/22/Dia-25-de-dezembro-%C3%A9-feriado-em-149-pa%C3%ADses-em-2021)
+- [Primeiro SMS da história é vendido por R$ 693 mil](https://www.nexojornal.com.br/extra/2021/12/22/Primeiro-SMS-da-hist%C3%B3ria-%C3%A9-vendido-por-R-693-mil)
+- [Como o luto motivou a retomada do universo de ‘Matrix’](https://www.nexojornal.com.br/expresso/2021/12/22/Como-o-luto-motivou-a-retomada-do-universo-de-%E2%80%98Matrix%E2%80%99)
+- [Número de desempregados há mais de 2 anos bate recorde, diz Ipea](https://www.nexojornal.com.br/extra/2021/12/22/N%C3%BAmero-de-desempregados-h%C3%A1-mais-de-2-anos-bate-recorde-diz-Ipea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
