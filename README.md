@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 perguntas e respostas sobre vacinar crianças contra covid](https://www.nexojornal.com.br/expresso/2021/12/22/10-perguntas-e-respostas-sobre-vacinar-crian%C3%A7as-contra-covid)
-- [Governo abre consulta pública sobre vacinação de crianças](https://www.nexojornal.com.br/extra/2021/12/22/Governo-abre-consulta-p%C3%BAblica-sobre-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
-- [Como a sociedade civil participou do debate público no século 20](https://www.nexojornal.com.br/academico/2021/12/22/Como-a-sociedade-civil-participou-do-debate-p%C3%BAblico-no-s%C3%A9culo-20)
-- [Quais as armadilhas para quem acha que Bolsonaro já perdeu](https://www.nexojornal.com.br/expresso/2021/12/22/Quais-as-armadilhas-para-quem-acha-que-Bolsonaro-j%C3%A1-perdeu)
-- [Cuba abre caminho para legalização do casamento igualitário](https://www.nexojornal.com.br/extra/2021/12/22/Cuba-abre-caminho-para-legaliza%C3%A7%C3%A3o-do-casamento-igualit%C3%A1rio)
+- [A descoberta do mais bem conservado fóssil de ovo de dinossauro](https://www.nexojornal.com.br/expresso/2021/12/22/A-descoberta-do-mais-bem-conservado-f%C3%B3ssil-de-ovo-de-dinossauro)
+- [Dia 25 de dezembro é feriado em 149 países em 2021](https://www.nexojornal.com.br/grafico/2021/12/22/Dia-25-de-dezembro-%C3%A9-feriado-em-149-pa%C3%ADses-em-2021)
+- [Primeiro SMS da história é vendido por R$ 693 mil](https://www.nexojornal.com.br/extra/2021/12/22/Primeiro-SMS-da-hist%C3%B3ria-%C3%A9-vendido-por-R-693-mil)
+- [Como o luto motivou a retomada do universo de ‘Matrix’](https://www.nexojornal.com.br/expresso/2021/12/22/Como-o-luto-motivou-a-retomada-do-universo-de-%E2%80%98Matrix%E2%80%99)
+- [Número de desempregados há mais de 2 anos bate recorde, diz Ipea](https://www.nexojornal.com.br/extra/2021/12/22/N%C3%BAmero-de-desempregados-h%C3%A1-mais-de-2-anos-bate-recorde-diz-Ipea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
