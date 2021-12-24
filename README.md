@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma playlist para embalar o seu Natal](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/uma-playlist-para-embalar-o-seu-natal/)
+- [As melhores entrevistas da Gama em 2021](https://gamarevista.uol.com.br/formato/conversas/melhores-entrevistas-2021/)
 - [Palavras de amor de Leonard para Marianne](https://gamarevista.uol.com.br/achamos-que-vale/assistir/palavras-de-amor-de-leonard-para-marianne/)
 - [Aulas de arte no MoMA](https://gamarevista.uol.com.br/achamos-que-vale/fazer/aulas-de-arte-no-moma/)
 - [Dormir é o novo sexo](https://gamarevista.uol.com.br/achamos-que-vale/ler/dormir-e-o-novo-sexo/)
-- [Almôndegas coreanas que salvam a refeição](https://gamarevista.uol.com.br/achamos-que-vale/fazer/almondegas-coreanas-que-salvam-a-refeicao/)
-- [O álbum branco de João Gilberto](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-album-branco-de-joao-gilberto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
