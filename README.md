@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O interesse dos brasileiros sobre violência obstétrica](https://www.nexojornal.com.br/podcast/2021/12/23/O-interesse-dos-brasileiros-sobre-viol%C3%AAncia-obst%C3%A9trica)
-- [‘Shape of You’ é a primeira música a atingir 3 bilhões no Spotify](https://www.nexojornal.com.br/extra/2021/12/23/%E2%80%98Shape-of-You%E2%80%99-%C3%A9-a-primeira-m%C3%BAsica-a-atingir-3-bilh%C3%B5es-no-Spotify)
-- [As cartas anuais do Papai Noel de J.R.R. Tolkien](https://www.nexojornal.com.br/expresso/2021/12/23/As-cartas-anuais-do-Papai-Noel-de-J.R.R.-Tolkien)
-- [Minha lista de publicações econômicas preferidas em 2021](https://www.nexojornal.com.br/colunistas/2021/Minha-lista-de-publica%C3%A7%C3%B5es-econ%C3%B4micas-preferidas-em-2021)
-- [Carnaval na Bahia em 2022 é impossível, diz governador](https://www.nexojornal.com.br/extra/2021/12/23/Carnaval-na-Bahia-em-2022-%C3%A9-imposs%C3%ADvel-diz-governador)
+- [PMs viram réus no caso de Kathlen Romeu, grávida morta no Rio](https://www.nexojornal.com.br/extra/2021/12/24/PMs-viram-r%C3%A9us-no-caso-de-Kathlen-Romeu-gr%C3%A1vida-morta-no-Rio)
+- [Consulta pública sobre vacinas tem questões enviesadas](https://www.nexojornal.com.br/extra/2021/12/24/Consulta-p%C3%BAblica-sobre-vacinas-tem-quest%C3%B5es-enviesadas)
+- [O que diz a lei brasileira sobre a vacinação de crianças](https://www.nexojornal.com.br/expresso/2021/12/24/O-que-diz-a-lei-brasileira-sobre-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
+- [Eleger uma bancada negra nacional é o desafio do movimento negro em 2022](https://www.nexojornal.com.br/colunistas/tribuna/2021/Eleger-uma-bancada-negra-nacional-%C3%A9-o-desafio-do-movimento-negro-em-2022)
+- [O padrão de erros e abusos da guerra americana com drones](https://www.nexojornal.com.br/extra/2021/12/24/O-padr%C3%A3o-de-erros-e-abusos-da-guerra-americana-com-drones)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
