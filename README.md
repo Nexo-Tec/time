@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro ignora pandemia em fala na TV com Michelle](https://www.nexojornal.com.br/extra/2021/12/24/Bolsonaro-ignora-pandemia-em-fala-na-TV-com-Michelle1)
 - [PMs viram réus no caso de Kathlen Romeu, grávida morta no Rio](https://www.nexojornal.com.br/extra/2021/12/24/PMs-viram-r%C3%A9us-no-caso-de-Kathlen-Romeu-gr%C3%A1vida-morta-no-Rio)
 - [Consulta pública sobre vacinas tem questões enviesadas](https://www.nexojornal.com.br/extra/2021/12/24/Consulta-p%C3%BAblica-sobre-vacinas-tem-quest%C3%B5es-enviesadas)
 - [O que diz a lei brasileira sobre a vacinação de crianças](https://www.nexojornal.com.br/expresso/2021/12/24/O-que-diz-a-lei-brasileira-sobre-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as)
 - [Eleger uma bancada negra nacional é o desafio do movimento negro em 2022](https://www.nexojornal.com.br/colunistas/tribuna/2021/Eleger-uma-bancada-negra-nacional-%C3%A9-o-desafio-do-movimento-negro-em-2022)
+- [O padrão de erros e abusos da guerra americana com drones](https://www.nexojornal.com.br/extra/2021/12/24/O-padr%C3%A3o-de-erros-e-abusos-da-guerra-americana-com-drones)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
