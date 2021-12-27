@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Novo Homem-Aranha é 1º filme a arrecadar US$ 1 bi na pandemia](https://www.nexojornal.com.br/extra/2021/12/26/Novo-Homem-Aranha-%C3%A9-1%C2%BA-filme-a-arrecadar-US-1-bi-na-pandemia)
-- [Fim de semana do Natal tem 7 mil voos cancelados por ômicron](https://www.nexojornal.com.br/extra/2021/12/26/Fim-de-semana-do-Natal-tem-7-mil-voos-cancelados-por-%C3%B4micron)
-- [O que um militar no TSE diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2021/12/26/O-que-um-militar-no-TSE-diz-sobre-a-democracia-brasileira)
-- [‘A diferença do Chile é que a velha esquerda foi substituída’](https://www.nexojornal.com.br/entrevista/2021/12/26/%E2%80%98A-diferen%C3%A7a-do-Chile-%C3%A9-que-a-velha-esquerda-foi-substitu%C3%ADda%E2%80%99)
-- [Como a administração pública do Brasil falha na segurança digital](https://www.nexojornal.com.br/expresso/2021/12/26/Como-a-administra%C3%A7%C3%A3o-p%C3%BAblica-do-Brasil-falha-na-seguran%C3%A7a-digital)
+- [Morre Desmond Tutu, Nobel da Paz e líder na luta contra o apartheid](https://www.nexojornal.com.br/extra/2021/12/26/Morre-Desmond-Tutu-Nobel-da-Paz-e-l%C3%ADder-na-luta-contra-o-apartheid)
+- [Como era o primeiro microscópio usado por Charles Darwin](https://www.nexojornal.com.br/expresso/2021/12/25/Como-era-o-primeiro-microsc%C3%B3pio-usado-por-Charles-Darwin)
+- [246 livros](https://www.nexojornal.com.br/especial/2021/12/25/246-livros)
+- [O mapa global que indica os pratos típicos de cada região](https://www.nexojornal.com.br/expresso/2021/12/25/O-mapa-global-que-indica-os-pratos-t%C3%ADpicos-de-cada-regi%C3%A3o)
+- [Militares matam 30 civis em Mianmar, entre eles crianças e mulheres](https://www.nexojornal.com.br/extra/2021/12/25/Militares-matam-30-civis-em-Mianmar-entre-eles-crian%C3%A7as-e-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
