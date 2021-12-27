@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Desmond Tutu, Nobel da Paz e líder na luta contra o apartheid](https://www.nexojornal.com.br/extra/2021/12/26/Morre-Desmond-Tutu-Nobel-da-Paz-e-l%C3%ADder-na-luta-contra-o-apartheid)
-- [Como era o primeiro microscópio usado por Charles Darwin](https://www.nexojornal.com.br/expresso/2021/12/25/Como-era-o-primeiro-microsc%C3%B3pio-usado-por-Charles-Darwin)
-- [246 livros](https://www.nexojornal.com.br/especial/2021/12/25/246-livros)
-- [O mapa global que indica os pratos típicos de cada região](https://www.nexojornal.com.br/expresso/2021/12/25/O-mapa-global-que-indica-os-pratos-t%C3%ADpicos-de-cada-regi%C3%A3o)
-- [Militares matam 30 civis em Mianmar, entre eles crianças e mulheres](https://www.nexojornal.com.br/extra/2021/12/25/Militares-matam-30-civis-em-Mianmar-entre-eles-crian%C3%A7as-e-mulheres)
+- [Em meio a tragédia na Bahia, Bolsonaro vai a Santa Catarina](https://www.nexojornal.com.br/extra/2021/12/27/Em-meio-a-trag%C3%A9dia-na-Bahia-Bolsonaro-vai-a-Santa-Catarina)
+- [As disputas em torno da prisão de um historiador dos gulags](https://www.nexojornal.com.br/expresso/2021/12/27/As-disputas-em-torno-da-pris%C3%A3o-de-um-historiador-dos-gulags)
+- [Com chuvas, Bahia tem 100 municípios em situação de emergência](https://www.nexojornal.com.br/grafico/2021/12/27/Com-chuvas-Bahia-tem-100-munic%C3%ADpios-em-situa%C3%A7%C3%A3o-de-emerg%C3%AAncia)
+- [Nota do Ministério da Saúde contradiz governo sobre vacina de crianças](https://www.nexojornal.com.br/extra/2021/12/27/Nota-do-Minist%C3%A9rio-da-Sa%C3%BAde-contradiz-governo-sobre-vacina-de-crian%C3%A7as)
+- [6 imagens que dão a dimensão da tragédia das chuvas na Bahia](https://www.nexojornal.com.br/expresso/2021/12/27/6-imagens-que-d%C3%A3o-a-dimens%C3%A3o-da-trag%C3%A9dia-das-chuvas-na-Bahia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
