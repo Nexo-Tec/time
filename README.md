@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Oito perfis que seguimos em 2021 e que são pura inspiração](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/oito-perfis-que-seguimos-em-2021-e-sao-pura-inspiracao/)
+- [O que você espera de 2022 em um tweet?](https://gamarevista.uol.com.br/formato/depoimento/o-que-voce-espera-de-2022-em-um-tweet/)
 - [O que considera sua maior conquista?](https://gamarevista.uol.com.br/pessoas/o-que-considera-sua-maior-conquista/)
 - [Uma playlist para embalar o seu Natal](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/uma-playlist-para-embalar-o-seu-natal/)
 - [As melhores entrevistas da Gama em 2021](https://gamarevista.uol.com.br/formato/conversas/melhores-entrevistas-2021/)
-- [Palavras de amor de Leonard para Marianne](https://gamarevista.uol.com.br/achamos-que-vale/assistir/palavras-de-amor-de-leonard-para-marianne/)
-- [Aulas de arte no MoMA](https://gamarevista.uol.com.br/achamos-que-vale/fazer/aulas-de-arte-no-moma/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
