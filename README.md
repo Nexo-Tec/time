@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Os melhores memes de 2021 por Saquinho de Lixo](https://gamarevista.uol.com.br/sem-categoria/os-melhores-memes-de-2021-por-saquinho-de-lixo/)
+- [Os melhores memes de 2021 por Saquinho de Lixo](https://gamarevista.uol.com.br/cultura/os-melhores-memes-de-2021-por-saquinho-de-lixo/)
 - [Oito perfis que seguimos em 2021 e que são pura inspiração](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/oito-perfis-que-seguimos-em-2021-e-sao-pura-inspiracao/)
 - [O que você espera de 2022 em um tweet?](https://gamarevista.uol.com.br/formato/depoimento/o-que-voce-espera-de-2022-em-um-tweet/)
 - [O que considera sua maior conquista?](https://gamarevista.uol.com.br/pessoas/o-que-considera-sua-maior-conquista/)
