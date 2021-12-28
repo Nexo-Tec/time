@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Novo Homem-Aranha é 1º filme a arrecadar US$ 1 bi na pandemia](https://www.nexojornal.com.br/extra/2021/12/26/Novo-Homem-Aranha-%C3%A9-1%C2%BA-filme-a-arrecadar-US-1-bi-na-pandemia)
-- [Fim de semana do Natal tem 7 mil voos cancelados por ômicron](https://www.nexojornal.com.br/extra/2021/12/26/Fim-de-semana-do-Natal-tem-7-mil-voos-cancelados-por-%C3%B4micron)
-- [O que um militar no TSE diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2021/12/26/O-que-um-militar-no-TSE-diz-sobre-a-democracia-brasileira)
-- [‘A diferença do Chile é que a velha esquerda foi substituída’](https://www.nexojornal.com.br/entrevista/2021/12/26/%E2%80%98A-diferen%C3%A7a-do-Chile-%C3%A9-que-a-velha-esquerda-foi-substitu%C3%ADda%E2%80%99)
-- [Como a administração pública do Brasil falha na segurança digital](https://www.nexojornal.com.br/expresso/2021/12/26/Como-a-administra%C3%A7%C3%A3o-p%C3%BAblica-do-Brasil-falha-na-seguran%C3%A7a-digital)
+- [Em meio a tragédia na Bahia, Bolsonaro vai a Santa Catarina](https://www.nexojornal.com.br/extra/2021/12/27/Em-meio-a-trag%C3%A9dia-na-Bahia-Bolsonaro-vai-a-Santa-Catarina)
+- [As disputas em torno da prisão de um historiador dos gulags](https://www.nexojornal.com.br/expresso/2021/12/27/As-disputas-em-torno-da-pris%C3%A3o-de-um-historiador-dos-gulags)
+- [Com chuvas, Bahia tem 100 municípios em situação de emergência](https://www.nexojornal.com.br/grafico/2021/12/27/Com-chuvas-Bahia-tem-100-munic%C3%ADpios-em-situa%C3%A7%C3%A3o-de-emerg%C3%AAncia)
+- [Nota do Ministério da Saúde contradiz governo sobre vacina de crianças](https://www.nexojornal.com.br/extra/2021/12/27/Nota-do-Minist%C3%A9rio-da-Sa%C3%BAde-contradiz-governo-sobre-vacina-de-crian%C3%A7as)
+- [6 imagens que dão a dimensão da tragédia das chuvas na Bahia](https://www.nexojornal.com.br/expresso/2021/12/27/6-imagens-que-d%C3%A3o-a-dimens%C3%A3o-da-trag%C3%A9dia-das-chuvas-na-Bahia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
