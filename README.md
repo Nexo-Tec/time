@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Garimpo na Amazônia: as investidas e o recuo do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2021/12/27/Garimpo-na-Amaz%C3%B4nia-as-investidas-e-o-recuo-do-governo-Bolsonaro)
-- [A oposição de técnicos à investida antivacinal de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/12/27/A-oposi%C3%A7%C3%A3o-de-t%C3%A9cnicos-%C3%A0-investida-antivacinal-de-Bolsonaro)
-- [Como a produção de vacinas ameaça o caranguejo-ferradura](https://www.nexojornal.com.br/expresso/2021/12/27/Como-a-produ%C3%A7%C3%A3o-de-vacinas-amea%C3%A7a-o-caranguejo-ferradura)
-- [Israel inicia estudo sobre 4ª dose da vacina contra a covid](https://www.nexojornal.com.br/extra/2021/12/27/Israel-inicia-estudo-sobre-4%C2%AA-dose-da-vacina-contra-a-covid)
-- [Bahia sob água: as causas, os prejuízos e as urgências](https://www.nexojornal.com.br/expresso/2021/12/27/Bahia-sob-%C3%A1gua-as-causas-os-preju%C3%ADzos-e-as-urg%C3%AAncias)
+- [Em meio a tragédia na Bahia, Bolsonaro vai a Santa Catarina](https://www.nexojornal.com.br/extra/2021/12/27/Em-meio-a-trag%C3%A9dia-na-Bahia-Bolsonaro-vai-a-Santa-Catarina)
+- [As disputas em torno da prisão de um historiador dos gulags](https://www.nexojornal.com.br/expresso/2021/12/27/As-disputas-em-torno-da-pris%C3%A3o-de-um-historiador-dos-gulags)
+- [Com chuvas, Bahia tem 100 municípios em situação de emergência](https://www.nexojornal.com.br/grafico/2021/12/27/Com-chuvas-Bahia-tem-100-munic%C3%ADpios-em-situa%C3%A7%C3%A3o-de-emerg%C3%AAncia)
+- [Nota do Ministério da Saúde contradiz governo sobre vacina de crianças](https://www.nexojornal.com.br/extra/2021/12/27/Nota-do-Minist%C3%A9rio-da-Sa%C3%BAde-contradiz-governo-sobre-vacina-de-crian%C3%A7as)
+- [6 imagens que dão a dimensão da tragédia das chuvas na Bahia](https://www.nexojornal.com.br/expresso/2021/12/27/6-imagens-que-d%C3%A3o-a-dimens%C3%A3o-da-trag%C3%A9dia-das-chuvas-na-Bahia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
