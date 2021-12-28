@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Garimpo na Amazônia: as investidas e o recuo do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2021/12/27/Garimpo-na-Amaz%C3%B4nia-as-investidas-e-o-recuo-do-governo-Bolsonaro)
-- [A oposição de técnicos à investida antivacinal de Bolsonaro](https://www.nexojornal.com.br/expresso/2021/12/27/A-oposi%C3%A7%C3%A3o-de-t%C3%A9cnicos-%C3%A0-investida-antivacinal-de-Bolsonaro)
-- [Como a produção de vacinas ameaça o caranguejo-ferradura](https://www.nexojornal.com.br/expresso/2021/12/27/Como-a-produ%C3%A7%C3%A3o-de-vacinas-amea%C3%A7a-o-caranguejo-ferradura)
-- [Israel inicia estudo sobre 4ª dose da vacina contra a covid](https://www.nexojornal.com.br/extra/2021/12/27/Israel-inicia-estudo-sobre-4%C2%AA-dose-da-vacina-contra-a-covid)
-- [Bahia sob água: as causas, os prejuízos e as urgências](https://www.nexojornal.com.br/expresso/2021/12/27/Bahia-sob-%C3%A1gua-as-causas-os-preju%C3%ADzos-e-as-urg%C3%AAncias)
+- [Qual o papel de Dilma na campanha de Lula nas eleições de 2022](https://www.nexojornal.com.br/podcast/2021/12/28/Qual-o-papel-de-Dilma-na-campanha-de-Lula-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Homem negro é torturado em supermercado após suspeita de furto](https://www.nexojornal.com.br/extra/2021/12/28/Homem-negro-%C3%A9-torturado-em-supermercado-ap%C3%B3s-suspeita-de-furto)
+- [Qual o papel da informalidade na retomada do emprego em 2021](https://www.nexojornal.com.br/expresso/2021/12/28/Qual-o-papel-da-informalidade-na-retomada-do-emprego-em-2021)
+- [Uma tour virtual pelos objetos disputados do Museu Britânico](https://www.nexojornal.com.br/expresso/2021/12/28/Uma-tour-virtual-pelos-objetos-disputados-do-Museu-Brit%C3%A2nico)
+- [‘Queremos criar uma onda de produções sobre meio ambiente’](https://www.nexojornal.com.br/entrevista/2021/12/28/%E2%80%98Queremos-criar-uma-onda-de-produ%C3%A7%C3%B5es-sobre-meio-ambiente%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
