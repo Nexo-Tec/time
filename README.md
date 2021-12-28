@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [6 perguntas que a ciência já respondeu sobre recursos naturais, mercados ilegais e violência](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/6-perguntas-que-a-ci%C3%AAncia-j%C3%A1-respondeu-sobre-recursos-naturais-mercados-ilegais-e-viol%C3%AAncia)
 - [Agricultura urbana: leituras para começar](https://pp.nexojornal.com.br/bibliografia-basica/2021/12/21/Agricultura-urbana-leituras-para-come%C3%A7ar)
 - [Orçamento público, direitos e desigualdades](https://pp.nexojornal.com.br/ponto-de-vista/2021/Or%C3%A7amento-p%C3%BAblico-direitos-e-desigualdades)
 - [Política tributária](https://pp.nexojornal.com.br/glossario/Pol%C3%ADtica-tribut%C3%A1ria)
 - [Cotas na UFBA: lições de uma experiência pioneira](https://pp.nexojornal.com.br/linha-do-tempo/2021/Cotas-na-UFBA-li%C3%A7%C3%B5es-de-uma-experi%C3%AAncia-pioneira)
+- [Volume de trabalho dos professores merece atenção no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2021/Volume-de-trabalho-dos-professores-merece-aten%C3%A7%C3%A3o-no-Brasil)
 <!-- PP_LIST:END -->
 
