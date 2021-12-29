@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As melhores séries de 2021 segundo Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/as-melhores-series-de-2021-segundo-a-gama/)
+- [Já escolheu o que vai beber no ano novo?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-escolheu-o-que-vai-beber-no-ano-novo/)
 - [Objetos que são a cara de 2021](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-sao-a-cara-de-2021/)
 - [A vontade de mudar](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-vontade-de-mudar/)
 - [Os melhores memes de 2021 por @saquinhodelixo](https://gamarevista.uol.com.br/cultura/os-melhores-memes-de-2021-por-saquinho-de-lixo/)
-- [Oito perfis que seguimos em 2021 e que são pura inspiração](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/oito-perfis-que-seguimos-em-2021-e-sao-pura-inspiracao/)
-- [O que você espera de 2022 em um tweet?](https://gamarevista.uol.com.br/formato/depoimento/o-que-voce-espera-de-2022-em-um-tweet/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
