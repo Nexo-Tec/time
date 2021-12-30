@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TCU determina que empresa divulgue quanto Moro ganhou](https://www.nexojornal.com.br/extra/2021/12/28/TCU-determina-que-empresa-divulgue-quanto-Moro-ganhou)
-- [Reconstruir utopias a partir de um mundo em ruínas](https://www.nexojornal.com.br/colunistas/2021/Reconstruir-utopias-a-partir-de-um-mundo-em-ru%C3%ADnas)
-- [Qual a política de assistência a vítimas de desastres no Brasil](https://www.nexojornal.com.br/expresso/2021/12/28/Qual-a-pol%C3%ADtica-de-assist%C3%AAncia-a-v%C3%ADtimas-de-desastres-no-Brasil)
-- [Qual o papel de Dilma na campanha de Lula nas eleições de 2022](https://www.nexojornal.com.br/podcast/2021/12/28/Qual-o-papel-de-Dilma-na-campanha-de-Lula-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Homem negro é torturado em supermercado após suspeita de furto](https://www.nexojornal.com.br/extra/2021/12/28/Homem-negro-%C3%A9-torturado-em-supermercado-ap%C3%B3s-suspeita-de-furto)
+- [O que o TCU quer saber sobre a atuação de Moro no setor privado](https://www.nexojornal.com.br/expresso/2021/12/29/O-que-o-TCU-quer-saber-sobre-a-atua%C3%A7%C3%A3o-de-Moro-no-setor-privado)
+- [​​Como a testagem ainda pode ser essencial contra a covid-19](https://www.nexojornal.com.br/expresso/2021/12/29/%E2%80%8B%E2%80%8BComo-a-testagem-ainda-pode-ser-essencial-contra-a-covid-19)
+- [Morre o cantor sertanejo Maurílio aos 28 anos](https://www.nexojornal.com.br/extra/2021/12/29/Morre-o-cantor-sertanejo-Maur%C3%ADlio-aos-28-anos)
+- [As críticas à folga de Bolsonaro em meio à tragédia na Bahia](https://www.nexojornal.com.br/podcast/2021/12/29/As-cr%C3%ADticas-%C3%A0-folga-de-Bolsonaro-em-meio-%C3%A0-trag%C3%A9dia-na-Bahia)
+- [Ômicron: incidência da variante já ultrapassa os 30% em 8 estados](https://www.nexojornal.com.br/extra/2021/12/29/%C3%94micron-incid%C3%AAncia-da-variante-j%C3%A1-ultrapassa-os-30-em-8-estados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
