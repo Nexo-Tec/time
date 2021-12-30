@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [As melhores séries de 2021 segundo Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/as-melhores-series-de-2021-segundo-a-gama/)
-- [Já escolheu o que vai beber no ano novo?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-escolheu-o-que-vai-beber-no-ano-novo/)
-- [Objetos que são a cara de 2021](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-sao-a-cara-de-2021/)
-- [A vontade de mudar](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-vontade-de-mudar/)
-- [Os melhores memes de 2021 por @saquinhodelixo](https://gamarevista.uol.com.br/cultura/os-melhores-memes-de-2021-por-saquinho-de-lixo/)
+- [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
+- [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
+- [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
+- [Um volume com toda ficção do chileno Alejandro Zambra](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-volume-com-toda-ficcao-do-chileno-alejandro-zambra/)
+- [Mais de 450 cursos nas melhores universidades americanas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/mais-de-450-cursos-nas-melhores-universidades-americanas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
