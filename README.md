@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o TCU quer saber sobre a atuação de Moro no setor privado](https://www.nexojornal.com.br/expresso/2021/12/29/O-que-o-TCU-quer-saber-sobre-a-atua%C3%A7%C3%A3o-de-Moro-no-setor-privado)
-- [​​Como a testagem ainda pode ser essencial contra a covid-19](https://www.nexojornal.com.br/expresso/2021/12/29/%E2%80%8B%E2%80%8BComo-a-testagem-ainda-pode-ser-essencial-contra-a-covid-19)
-- [Morre o cantor sertanejo Maurílio aos 28 anos](https://www.nexojornal.com.br/extra/2021/12/29/Morre-o-cantor-sertanejo-Maur%C3%ADlio-aos-28-anos)
-- [As críticas à folga de Bolsonaro em meio à tragédia na Bahia](https://www.nexojornal.com.br/podcast/2021/12/29/As-cr%C3%ADticas-%C3%A0-folga-de-Bolsonaro-em-meio-%C3%A0-trag%C3%A9dia-na-Bahia)
-- [Ômicron: incidência da variante já ultrapassa os 30% em 8 estados](https://www.nexojornal.com.br/extra/2021/12/29/%C3%94micron-incid%C3%AAncia-da-variante-j%C3%A1-ultrapassa-os-30-em-8-estados)
+- [Como funcionam os fogos de artifício, segundo um químico](https://www.nexojornal.com.br/externo/2021/12/30/Como-funcionam-os-fogos-de-artif%C3%ADcio-segundo-um-qu%C3%ADmico)
+- [‘O guardião de nomes’: uma história sobre o peso das palavras](https://www.nexojornal.com.br/estante/trechos/2021/12/30/%E2%80%98O-guardi%C3%A3o-de-nomes%E2%80%99-uma-hist%C3%B3ria-sobre-o-peso-das-palavras)
+- [Por que sentença e prisão no caso da boate Kiss são contestadas](https://www.nexojornal.com.br/expresso/2021/12/30/Por-que-senten%C3%A7a-e-pris%C3%A3o-no-caso-da-boate-Kiss-s%C3%A3o-contestadas)
+- [Por que a China entra em 2022 insistindo na política da ‘covid zero’](https://www.nexojornal.com.br/expresso/2021/12/30/Por-que-a-China-entra-em-2022-insistindo-na-pol%C3%ADtica-da-%E2%80%98covid-zero%E2%80%99)
+- [O Brasil e o mundo em 2021: o luto, a vacina e a incerteza prolongada](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2021-o-luto-a-vacina-e-a-incerteza-prolongada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
