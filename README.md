@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funcionam os fogos de artifício, segundo um químico](https://www.nexojornal.com.br/externo/2021/12/30/Como-funcionam-os-fogos-de-artif%C3%ADcio-segundo-um-qu%C3%ADmico)
-- [‘O guardião de nomes’: uma história sobre o peso das palavras](https://www.nexojornal.com.br/estante/trechos/2021/12/30/%E2%80%98O-guardi%C3%A3o-de-nomes%E2%80%99-uma-hist%C3%B3ria-sobre-o-peso-das-palavras)
-- [Por que sentença e prisão no caso da boate Kiss são contestadas](https://www.nexojornal.com.br/expresso/2021/12/30/Por-que-senten%C3%A7a-e-pris%C3%A3o-no-caso-da-boate-Kiss-s%C3%A3o-contestadas)
-- [Por que a China entra em 2022 insistindo na política da ‘covid zero’](https://www.nexojornal.com.br/expresso/2021/12/30/Por-que-a-China-entra-em-2022-insistindo-na-pol%C3%ADtica-da-%E2%80%98covid-zero%E2%80%99)
-- [O Brasil e o mundo em 2021: o luto, a vacina e a incerteza prolongada](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2021-o-luto-a-vacina-e-a-incerteza-prolongada)
+- [Bolsonaro deturpa e omite fatos sobre a pandemia em pronunciamento](https://www.nexojornal.com.br/extra/2021/12/31/Bolsonaro-deturpa-e-omite-fatos-sobre-a-pandemia-em-pronunciamento)
+- [Como Fux protela um julgamento que afeta a sua filha](https://www.nexojornal.com.br/expresso/2021/12/31/Como-Fux-protela-um-julgamento-que-afeta-a-sua-filha)
+- [As influencers que fazem sucesso com ‘looks no provador’](https://www.nexojornal.com.br/expresso/2021/12/31/As-influencers-que-fazem-sucesso-com-%E2%80%98looks-no-provador%E2%80%99)
+- [Sob outro ponto de vista](https://www.nexojornal.com.br/externo/2021/12/31/Sob-outro-ponto-de-vista)
+- [Os céus em 2022: os principais fenômenos astronômicos do ano](https://www.nexojornal.com.br/expresso/2021/12/31/Os-c%C3%A9us-em-2022-os-principais-fen%C3%B4menos-astron%C3%B4micos-do-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
