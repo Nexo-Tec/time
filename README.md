@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quando e onde você foi mais feliz na vida?](https://gamarevista.uol.com.br/pessoas/quando-e-onde-voce-foi-mais-feliz-na-vida/)
 - [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
 - [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
 - [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
 - [Um volume com toda ficção do chileno Alejandro Zambra](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-volume-com-toda-ficcao-do-chileno-alejandro-zambra/)
-- [Mais de 450 cursos nas melhores universidades americanas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/mais-de-450-cursos-nas-melhores-universidades-americanas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
