@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As senhas mais comuns, segundo este ranking](https://www.nexojornal.com.br/expresso/2022/01/01/As-senhas-mais-comuns-segundo-este-ranking)
-- [5 livros para ajudar a pensar o futuro da moda](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-ajudar-a-pensar-o-futuro-da-moda)
-- [6 países que começam 2022 em meio a disputas geopolíticas](https://www.nexojornal.com.br/expresso/2022/01/01/6-pa%C3%ADses-que-come%C3%A7am-2022-em-meio-a-disputas-geopol%C3%ADticas)
-- [A troca de delegado no caso Adélio. E o estado da investigação](https://www.nexojornal.com.br/expresso/2022/01/01/A-troca-de-delegado-no-caso-Ad%C3%A9lio.-E-o-estado-da-investiga%C3%A7%C3%A3o)
-- [O que tem de regra nova nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/01/01/O-que-tem-de-regra-nova-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Bolsonaro deturpa e omite fatos sobre a pandemia em pronunciamento](https://www.nexojornal.com.br/extra/2021/12/31/Bolsonaro-deturpa-e-omite-fatos-sobre-a-pandemia-em-pronunciamento)
+- [Como Fux protela um julgamento que afeta a sua filha](https://www.nexojornal.com.br/expresso/2021/12/31/Como-Fux-protela-um-julgamento-que-afeta-a-sua-filha)
+- [As influencers que fazem sucesso com ‘looks no provador’](https://www.nexojornal.com.br/expresso/2021/12/31/As-influencers-que-fazem-sucesso-com-%E2%80%98looks-no-provador%E2%80%99)
+- [Sob outro ponto de vista](https://www.nexojornal.com.br/externo/2021/12/31/Sob-outro-ponto-de-vista)
+- [Os céus em 2022: os principais fenômenos astronômicos do ano](https://www.nexojornal.com.br/expresso/2021/12/31/Os-c%C3%A9us-em-2022-os-principais-fen%C3%B4menos-astron%C3%B4micos-do-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
