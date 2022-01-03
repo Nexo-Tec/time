@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As senhas mais comuns, segundo este ranking](https://www.nexojornal.com.br/expresso/2022/01/01/As-senhas-mais-comuns-segundo-este-ranking)
-- [5 livros para ajudar a pensar o futuro da moda](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-ajudar-a-pensar-o-futuro-da-moda)
-- [6 países que começam 2022 em meio a disputas geopolíticas](https://www.nexojornal.com.br/expresso/2022/01/01/6-pa%C3%ADses-que-come%C3%A7am-2022-em-meio-a-disputas-geopol%C3%ADticas)
-- [A troca de delegado no caso Adélio. E o estado da investigação](https://www.nexojornal.com.br/expresso/2022/01/01/A-troca-de-delegado-no-caso-Ad%C3%A9lio.-E-o-estado-da-investiga%C3%A7%C3%A3o)
-- [O que tem de regra nova nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/01/01/O-que-tem-de-regra-nova-nas-elei%C3%A7%C3%B5es-de-2022)
+- [O burnout na nova classificação de doenças da OMS](https://www.nexojornal.com.br/expresso/2022/01/02/O-burnout-na-nova-classifica%C3%A7%C3%A3o-de-doen%C3%A7as-da-OMS)
+- [As novas velhas ameaças sobre terras indígenas](https://www.nexojornal.com.br/ensaio/2022/As-novas-velhas-amea%C3%A7as-sobre-terras-ind%C3%ADgenas)
+- [O que é e qual o impacto do novo marco legal das ferrovias](https://www.nexojornal.com.br/expresso/2022/01/02/O-que-%C3%A9-e-qual-o-impacto-do-novo-marco-legal-das-ferrovias)
+- [Da boiada ao bingo: a chance de temas polêmicos avançarem](https://www.nexojornal.com.br/expresso/2022/01/02/Da-boiada-ao-bingo-a-chance-de-temas-pol%C3%AAmicos-avan%C3%A7arem)
+- [Premiê do Sudão renuncia um mês após ser reempossado](https://www.nexojornal.com.br/extra/2022/01/02/Premi%C3%AA-do-Sud%C3%A3o-renuncia-um-m%C3%AAs-ap%C3%B3s-ser-reempossado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
