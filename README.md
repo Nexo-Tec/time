@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O burnout na nova classificação de doenças da OMS](https://www.nexojornal.com.br/expresso/2022/01/02/O-burnout-na-nova-classifica%C3%A7%C3%A3o-de-doen%C3%A7as-da-OMS)
-- [As novas velhas ameaças sobre terras indígenas](https://www.nexojornal.com.br/ensaio/2022/As-novas-velhas-amea%C3%A7as-sobre-terras-ind%C3%ADgenas)
-- [O que é e qual o impacto do novo marco legal das ferrovias](https://www.nexojornal.com.br/expresso/2022/01/02/O-que-%C3%A9-e-qual-o-impacto-do-novo-marco-legal-das-ferrovias)
-- [Da boiada ao bingo: a chance de temas polêmicos avançarem](https://www.nexojornal.com.br/expresso/2022/01/02/Da-boiada-ao-bingo-a-chance-de-temas-pol%C3%AAmicos-avan%C3%A7arem)
-- [Premiê do Sudão renuncia um mês após ser reempossado](https://www.nexojornal.com.br/extra/2022/01/02/Premi%C3%AA-do-Sud%C3%A3o-renuncia-um-m%C3%AAs-ap%C3%B3s-ser-reempossado)
+- [Morre Calisto Tanzi, que chefiou a Parmalat em seu auge](https://www.nexojornal.com.br/extra/2022/01/02/Morre-Calisto-Tanzi-que-chefiou-a-Parmalat-em-seu-auge)
+- [Incêndio de grandes proporções atinge Parlamento sul-africano](https://www.nexojornal.com.br/extra/2022/01/02/Inc%C3%AAndio-de-grandes-propor%C3%A7%C3%B5es-atinge-Parlamento-sul-africano)
+- [20 casos de covid são confirmados em cruzeiro atracado no Rio](https://www.nexojornal.com.br/extra/2022/01/02/20-casos-de-covid-s%C3%A3o-confirmados-em-cruzeiro-atracado-no-Rio)
+- [As senhas mais comuns, segundo este ranking](https://www.nexojornal.com.br/expresso/2022/01/01/As-senhas-mais-comuns-segundo-este-ranking)
+- [5 livros para ajudar a pensar o futuro da moda](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-ajudar-a-pensar-o-futuro-da-moda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
