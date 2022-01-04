@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a União Europeia tenta apertar o controle sobre Orbán](https://www.nexojornal.com.br/expresso/2022/01/04/Como-a-Uni%C3%A3o-Europeia-tenta-apertar-o-controle-sobre-Orb%C3%A1n)
+- [Maioria é contra prescrição médica para vacinar crianças](https://www.nexojornal.com.br/extra/2022/01/04/Maioria-%C3%A9-contra-prescri%C3%A7%C3%A3o-m%C3%A9dica-para-vacinar-crian%C3%A7as)
+- [Elizabeth Holmes é considerada culpada de fraude por júri](https://www.nexojornal.com.br/extra/2022/01/04/Elizabeth-Holmes-%C3%A9-considerada-culpada-de-fraude-por-j%C3%BAri)
+- [Bolsonaro não precisa de nova cirurgia, avaliam médicos](https://www.nexojornal.com.br/extra/2022/01/04/Bolsonaro-n%C3%A3o-precisa-de-nova-cirurgia-avaliam-m%C3%A9dicos)
 - [A regulação do uso de redes sociais por PMs em São Paulo](https://www.nexojornal.com.br/expresso/2022/01/03/A-regula%C3%A7%C3%A3o-do-uso-de-redes-sociais-por-PMs-em-S%C3%A3o-Paulo)
-- [Qual o status da pauta de reformas de Guedes na entrada de 2022](https://www.nexojornal.com.br/expresso/2022/01/03/Qual-o-status-da-pauta-de-reformas-de-Guedes-na-entrada-de-2022)
-- [Como a internação de Bolsonaro reaviva o episódio da facada](https://www.nexojornal.com.br/expresso/2022/01/03/Como-a-interna%C3%A7%C3%A3o-de-Bolsonaro-reaviva-o-epis%C3%B3dio-da-facada)
-- [Ceará, Rio e SP têm pacientes com coinfecção por covid e gripe](https://www.nexojornal.com.br/extra/2022/01/03/Cear%C3%A1-Rio-e-SP-t%C3%AAm-pacientes-com-coinfec%C3%A7%C3%A3o-por-covid-e-gripe)
-- [As mães complexas de Elena Ferrante no filme ‘A filha perdida’](https://www.nexojornal.com.br/expresso/2022/01/03/As-m%C3%A3es-complexas-de-Elena-Ferrante-no-filme-%E2%80%98A-filha-perdida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
