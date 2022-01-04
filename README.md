@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Balança comercial do país tem superavit de US$61 bi em 2021](https://www.nexojornal.com.br/extra/2022/01/03/Balan%C3%A7a-comercial-do-pa%C3%ADs-tem-superavit-de-US61-bi-em-2021)
-- [Banco Central tem debandada após ajuste salarial para policiais](https://www.nexojornal.com.br/extra/2022/01/03/Banco-Central-tem-debandada-ap%C3%B3s-ajuste-salarial-para-policiais)
-- [Pecuaristas fazem churrasco no Bradesco após vídeo sobre carne](https://www.nexojornal.com.br/extra/2022/01/03/Pecuaristas-fazem-churrasco-no-Bradesco-ap%C3%B3s-v%C3%ADdeo-sobre-carne)
-- [O ataque hacker a sites de Portugal e sua relação com o Brasil](https://www.nexojornal.com.br/expresso/2022/01/03/O-ataque-hacker-a-sites-de-Portugal-e-sua-rela%C3%A7%C3%A3o-com-o-Brasil)
-- [Vacina para crianças chega na 2ª quinzena do mês, diz Queiroga](https://www.nexojornal.com.br/extra/2022/01/03/Vacina-para-crian%C3%A7as-chega-na-2%C2%AA-quinzena-do-m%C3%AAs-diz-Queiroga)
+- [A regulação do uso de redes sociais por PMs em São Paulo](https://www.nexojornal.com.br/expresso/2022/01/03/A-regula%C3%A7%C3%A3o-do-uso-de-redes-sociais-por-PMs-em-S%C3%A3o-Paulo)
+- [Qual o status da pauta de reformas de Guedes na entrada de 2022](https://www.nexojornal.com.br/expresso/2022/01/03/Qual-o-status-da-pauta-de-reformas-de-Guedes-na-entrada-de-2022)
+- [Como a internação de Bolsonaro reaviva o episódio da facada](https://www.nexojornal.com.br/expresso/2022/01/03/Como-a-interna%C3%A7%C3%A3o-de-Bolsonaro-reaviva-o-epis%C3%B3dio-da-facada)
+- [Ceará, Rio e SP têm pacientes com coinfecção por covid e gripe](https://www.nexojornal.com.br/extra/2022/01/03/Cear%C3%A1-Rio-e-SP-t%C3%AAm-pacientes-com-coinfec%C3%A7%C3%A3o-por-covid-e-gripe)
+- [As mães complexas de Elena Ferrante no filme ‘A filha perdida’](https://www.nexojornal.com.br/expresso/2022/01/03/As-m%C3%A3es-complexas-de-Elena-Ferrante-no-filme-%E2%80%98A-filha-perdida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
