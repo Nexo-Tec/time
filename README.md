@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Balança comercial do país tem superavit de US$61 bi em 2021](https://www.nexojornal.com.br/extra/2022/01/03/Balan%C3%A7a-comercial-do-pa%C3%ADs-tem-superavit-de-US61-bi-em-2021)
-- [Banco Central tem debandada após ajuste salarial para policiais](https://www.nexojornal.com.br/extra/2022/01/03/Banco-Central-tem-debandada-ap%C3%B3s-ajuste-salarial-para-policiais)
-- [Pecuaristas fazem churrasco no Bradesco após vídeo sobre carne](https://www.nexojornal.com.br/extra/2022/01/03/Pecuaristas-fazem-churrasco-no-Bradesco-ap%C3%B3s-v%C3%ADdeo-sobre-carne)
-- [O ataque hacker a sites de Portugal e sua relação com o Brasil](https://www.nexojornal.com.br/expresso/2022/01/03/O-ataque-hacker-a-sites-de-Portugal-e-sua-rela%C3%A7%C3%A3o-com-o-Brasil)
-- [Vacina para crianças chega na 2ª quinzena do mês, diz Queiroga](https://www.nexojornal.com.br/extra/2022/01/03/Vacina-para-crian%C3%A7as-chega-na-2%C2%AA-quinzena-do-m%C3%AAs-diz-Queiroga)
+- [O burnout na nova classificação de doenças da OMS](https://www.nexojornal.com.br/expresso/2022/01/02/O-burnout-na-nova-classifica%C3%A7%C3%A3o-de-doen%C3%A7as-da-OMS)
+- [As novas velhas ameaças sobre terras indígenas](https://www.nexojornal.com.br/ensaio/2022/As-novas-velhas-amea%C3%A7as-sobre-terras-ind%C3%ADgenas)
+- [O que é e qual o impacto do novo marco legal das ferrovias](https://www.nexojornal.com.br/expresso/2022/01/02/O-que-%C3%A9-e-qual-o-impacto-do-novo-marco-legal-das-ferrovias)
+- [Da boiada ao bingo: a chance de temas polêmicos avançarem](https://www.nexojornal.com.br/expresso/2022/01/02/Da-boiada-ao-bingo-a-chance-de-temas-pol%C3%AAmicos-avan%C3%A7arem)
+- [Premiê do Sudão renuncia um mês após ser reempossado](https://www.nexojornal.com.br/extra/2022/01/02/Premi%C3%AA-do-Sud%C3%A3o-renuncia-um-m%C3%AAs-ap%C3%B3s-ser-reempossado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
