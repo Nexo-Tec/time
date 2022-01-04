@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O burnout na nova classificação de doenças da OMS](https://www.nexojornal.com.br/expresso/2022/01/02/O-burnout-na-nova-classifica%C3%A7%C3%A3o-de-doen%C3%A7as-da-OMS)
-- [As novas velhas ameaças sobre terras indígenas](https://www.nexojornal.com.br/ensaio/2022/As-novas-velhas-amea%C3%A7as-sobre-terras-ind%C3%ADgenas)
-- [O que é e qual o impacto do novo marco legal das ferrovias](https://www.nexojornal.com.br/expresso/2022/01/02/O-que-%C3%A9-e-qual-o-impacto-do-novo-marco-legal-das-ferrovias)
-- [Da boiada ao bingo: a chance de temas polêmicos avançarem](https://www.nexojornal.com.br/expresso/2022/01/02/Da-boiada-ao-bingo-a-chance-de-temas-pol%C3%AAmicos-avan%C3%A7arem)
-- [Premiê do Sudão renuncia um mês após ser reempossado](https://www.nexojornal.com.br/extra/2022/01/02/Premi%C3%AA-do-Sud%C3%A3o-renuncia-um-m%C3%AAs-ap%C3%B3s-ser-reempossado)
+- [A regulação do uso de redes sociais por PMs em São Paulo](https://www.nexojornal.com.br/expresso/2022/01/03/A-regula%C3%A7%C3%A3o-do-uso-de-redes-sociais-por-PMs-em-S%C3%A3o-Paulo)
+- [Qual o status da pauta de reformas de Guedes na entrada de 2022](https://www.nexojornal.com.br/expresso/2022/01/03/Qual-o-status-da-pauta-de-reformas-de-Guedes-na-entrada-de-2022)
+- [Como a internação de Bolsonaro reaviva o episódio da facada](https://www.nexojornal.com.br/expresso/2022/01/03/Como-a-interna%C3%A7%C3%A3o-de-Bolsonaro-reaviva-o-epis%C3%B3dio-da-facada)
+- [Ceará, Rio e SP têm pacientes com coinfecção por covid e gripe](https://www.nexojornal.com.br/extra/2022/01/03/Cear%C3%A1-Rio-e-SP-t%C3%AAm-pacientes-com-coinfec%C3%A7%C3%A3o-por-covid-e-gripe)
+- [As mães complexas de Elena Ferrante no filme ‘A filha perdida’](https://www.nexojornal.com.br/expresso/2022/01/03/As-m%C3%A3es-complexas-de-Elena-Ferrante-no-filme-%E2%80%98A-filha-perdida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
