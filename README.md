@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Os melhores filmes de 2021 segundo Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-melhores-filmes-de-2021-segundo-a-gama/)
 - [Os melhores podcasts da Semana em 2021](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-melhores-podcasts-da-semana-em-2021/)
 - [Quando e onde você foi mais feliz na vida?](https://gamarevista.uol.com.br/pessoas/quando-e-onde-voce-foi-mais-feliz-na-vida/)
 - [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
 - [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
-- [“Mano a Mano”, o novo podcast de Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/mano-a-mano-o-novo-podcast-de-mano-brown/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
