@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após Banco Central e Receita, auditores do trabalho entregam cargos](https://www.nexojornal.com.br/extra/2022/01/05/Ap%C3%B3s-Banco-Central-e-Receita-auditores-do-trabalho-entregam-cargos)
-- [Globo de Ouro 2022 não terá celebridades nem público](https://www.nexojornal.com.br/extra/2022/01/05/Globo-de-Ouro-2022-n%C3%A3o-ter%C3%A1-celebridades-nem-p%C3%BAblico)
-- [Quantidade de dinheiro vivo circulando cresceu na pandemia](https://www.nexojornal.com.br/grafico/2022/01/05/Quantidade-de-dinheiro-vivo-circulando-cresceu-na-pandemia)
-- [Depois de Rio e Salvador, Olinda cancela carnaval de rua](https://www.nexojornal.com.br/extra/2022/01/05/Depois-de-Rio-e-Salvador-Olinda-cancela-carnaval-de-rua)
-- [Quais os motivos da crise política no Cazaquistão](https://www.nexojornal.com.br/expresso/2022/01/05/Quais-os-motivos-da-crise-pol%C3%ADtica-no-Cazaquist%C3%A3o)
+- [Da ‘flurona’ à sobrecarga: os riscos das altas de covid e gripe](https://www.nexojornal.com.br/expresso/2022/01/04/Da-%E2%80%98flurona%E2%80%99-%C3%A0-sobrecarga-os-riscos-das-altas-de-covid-e-gripe)
+- [Quais suspeitas pesam contra o governador do Acre](https://www.nexojornal.com.br/expresso/2022/01/04/Quais-suspeitas-pesam-contra-o-governador-do-Acre)
+- [A trajetória do salário mínimo sob o governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/01/04/A-trajet%C3%B3ria-do-sal%C3%A1rio-m%C3%ADnimo-sob-o-governo-Bolsonaro)
+- [Bebê Alice: os cuidados da publicidade com crianças na era digital](https://www.nexojornal.com.br/expresso/2022/01/04/Beb%C3%AA-Alice-os-cuidados-da-publicidade-com-crian%C3%A7as-na-era-digital)
+- [Canadá anuncia indenização a crianças indígenas tiradas dos pais](https://www.nexojornal.com.br/extra/2022/01/04/Canad%C3%A1-anuncia-indeniza%C3%A7%C3%A3o-a-crian%C3%A7as-ind%C3%ADgenas-tiradas-dos-pais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
