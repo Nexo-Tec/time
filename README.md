@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A regulação do uso de redes sociais por PMs em São Paulo](https://www.nexojornal.com.br/expresso/2022/01/03/A-regula%C3%A7%C3%A3o-do-uso-de-redes-sociais-por-PMs-em-S%C3%A3o-Paulo)
-- [Qual o status da pauta de reformas de Guedes na entrada de 2022](https://www.nexojornal.com.br/expresso/2022/01/03/Qual-o-status-da-pauta-de-reformas-de-Guedes-na-entrada-de-2022)
-- [Como a internação de Bolsonaro reaviva o episódio da facada](https://www.nexojornal.com.br/expresso/2022/01/03/Como-a-interna%C3%A7%C3%A3o-de-Bolsonaro-reaviva-o-epis%C3%B3dio-da-facada)
-- [Ceará, Rio e SP têm pacientes com coinfecção por covid e gripe](https://www.nexojornal.com.br/extra/2022/01/03/Cear%C3%A1-Rio-e-SP-t%C3%AAm-pacientes-com-coinfec%C3%A7%C3%A3o-por-covid-e-gripe)
-- [As mães complexas de Elena Ferrante no filme ‘A filha perdida’](https://www.nexojornal.com.br/expresso/2022/01/03/As-m%C3%A3es-complexas-de-Elena-Ferrante-no-filme-%E2%80%98A-filha-perdida%E2%80%99)
+- [Canadá anuncia indenização a crianças indígenas tiradas dos pais](https://www.nexojornal.com.br/extra/2022/01/04/Canad%C3%A1-anuncia-indeniza%C3%A7%C3%A3o-a-crian%C3%A7as-ind%C3%ADgenas-tiradas-dos-pais)
+- [Ano eleitoral: as datas e novidades da disputa de 2022](https://www.nexojornal.com.br/podcast/2022/01/04/Ano-eleitoral-as-datas-e-novidades-da-disputa-de-2022)
+- [Com avanço da variante ômicron, Rio cancela carnaval de rua](https://www.nexojornal.com.br/extra/2022/01/04/Com-avan%C3%A7o-da-variante-%C3%B4micron-Rio-cancela-carnaval-de-rua)
+- [Promotoria pede à Justiça que decrete falência de Itapemirim](https://www.nexojornal.com.br/extra/2022/01/04/Promotoria-pede-%C3%A0-Justi%C3%A7a-que-decrete-fal%C3%AAncia-de-Itapemirim)
+- [Promotor retira acusação de assédio contra ex-governador de NY](https://www.nexojornal.com.br/extra/2022/01/04/Promotor-retira-acusa%C3%A7%C3%A3o-de-ass%C3%A9dio-contra-ex-governador-de-NY)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
