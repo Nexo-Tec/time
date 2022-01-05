@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Canadá anuncia indenização a crianças indígenas tiradas dos pais](https://www.nexojornal.com.br/extra/2022/01/04/Canad%C3%A1-anuncia-indeniza%C3%A7%C3%A3o-a-crian%C3%A7as-ind%C3%ADgenas-tiradas-dos-pais)
-- [Ano eleitoral: as datas e novidades da disputa de 2022](https://www.nexojornal.com.br/podcast/2022/01/04/Ano-eleitoral-as-datas-e-novidades-da-disputa-de-2022)
-- [Com avanço da variante ômicron, Rio cancela carnaval de rua](https://www.nexojornal.com.br/extra/2022/01/04/Com-avan%C3%A7o-da-variante-%C3%B4micron-Rio-cancela-carnaval-de-rua)
-- [Promotoria pede à Justiça que decrete falência de Itapemirim](https://www.nexojornal.com.br/extra/2022/01/04/Promotoria-pede-%C3%A0-Justi%C3%A7a-que-decrete-fal%C3%AAncia-de-Itapemirim)
-- [Promotor retira acusação de assédio contra ex-governador de NY](https://www.nexojornal.com.br/extra/2022/01/04/Promotor-retira-acusa%C3%A7%C3%A3o-de-ass%C3%A9dio-contra-ex-governador-de-NY)
+- [Após Banco Central e Receita, auditores do trabalho entregam cargos](https://www.nexojornal.com.br/extra/2022/01/05/Ap%C3%B3s-Banco-Central-e-Receita-auditores-do-trabalho-entregam-cargos)
+- [Globo de Ouro 2022 não terá celebridades nem público](https://www.nexojornal.com.br/extra/2022/01/05/Globo-de-Ouro-2022-n%C3%A3o-ter%C3%A1-celebridades-nem-p%C3%BAblico)
+- [Quantidade de dinheiro vivo circulando cresceu na pandemia](https://www.nexojornal.com.br/grafico/2022/01/05/Quantidade-de-dinheiro-vivo-circulando-cresceu-na-pandemia)
+- [Depois de Rio e Salvador, Olinda cancela carnaval de rua](https://www.nexojornal.com.br/extra/2022/01/05/Depois-de-Rio-e-Salvador-Olinda-cancela-carnaval-de-rua)
+- [Quais os motivos da crise política no Cazaquistão](https://www.nexojornal.com.br/expresso/2022/01/05/Quais-os-motivos-da-crise-pol%C3%ADtica-no-Cazaquist%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
