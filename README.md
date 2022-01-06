@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Da ‘flurona’ à sobrecarga: os riscos das altas de covid e gripe](https://www.nexojornal.com.br/expresso/2022/01/04/Da-%E2%80%98flurona%E2%80%99-%C3%A0-sobrecarga-os-riscos-das-altas-de-covid-e-gripe)
-- [Quais suspeitas pesam contra o governador do Acre](https://www.nexojornal.com.br/expresso/2022/01/04/Quais-suspeitas-pesam-contra-o-governador-do-Acre)
-- [A trajetória do salário mínimo sob o governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/01/04/A-trajet%C3%B3ria-do-sal%C3%A1rio-m%C3%ADnimo-sob-o-governo-Bolsonaro)
-- [Bebê Alice: os cuidados da publicidade com crianças na era digital](https://www.nexojornal.com.br/expresso/2022/01/04/Beb%C3%AA-Alice-os-cuidados-da-publicidade-com-crian%C3%A7as-na-era-digital)
-- [Canadá anuncia indenização a crianças indígenas tiradas dos pais](https://www.nexojornal.com.br/extra/2022/01/04/Canad%C3%A1-anuncia-indeniza%C3%A7%C3%A3o-a-crian%C3%A7as-ind%C3%ADgenas-tiradas-dos-pais)
+- [A operação contra Márcio França em meio à articulação para 2022](https://www.nexojornal.com.br/expresso/2022/01/05/A-opera%C3%A7%C3%A3o-contra-M%C3%A1rcio-Fran%C3%A7a-em-meio-%C3%A0-articula%C3%A7%C3%A3o-para-2022)
+- [Qual o saldo da invasão do Capitólio, 1 ano depois](https://www.nexojornal.com.br/expresso/2022/Qual-o-saldo-da-invas%C3%A3o-do-Capit%C3%B3lio-1-ano-depois)
+- [Como a reação dos governos à ômicron difere pelo mundo](https://www.nexojornal.com.br/expresso/2022/01/05/Como-a-rea%C3%A7%C3%A3o-dos-governos-%C3%A0-%C3%B4micron-difere-pelo-mundo)
+- [Quais os critérios para a verificação de perfis no Twitter](https://www.nexojornal.com.br/expresso/2022/01/05/Quais-os-crit%C3%A9rios-para-a-verifica%C3%A7%C3%A3o-de-perfis-no-Twitter)
+- [Um ano depois: as lições do 6 de janeiro para o Brasil](https://www.nexojornal.com.br/colunistas/2022/Um-ano-depois-as-li%C3%A7%C3%B5es-do-6-de-janeiro-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
