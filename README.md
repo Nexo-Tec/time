@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Os melhores filmes de 2021 segundo Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-melhores-filmes-de-2021-segundo-a-gama/)
-- [Os melhores podcasts da Semana em 2021](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-melhores-podcasts-da-semana-em-2021/)
-- [Quando e onde você foi mais feliz na vida?](https://gamarevista.uol.com.br/pessoas/quando-e-onde-voce-foi-mais-feliz-na-vida/)
-- [‘Get Back’, documentário de Peter Jackson sobre os Beatles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/get-back-documentario-de-peter-jackson-sobre-os-beatles/)
-- [Festivais de música pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festivais-de-musica-pelo-brasil/)
+- [‘A Filha Perdida’, filme baseado em romance de Elena Ferrante](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-filha-perdida-filme-baseado-em-romance-de-elena-ferrante/)
+- [‘Dawn FM’, o novo álbum de The Weeknd](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/dawn-fm-o-novo-album-de-the-weeknd/)
+- [Uma outra face de Nara Leão](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-outra-face-de-nara-leao/)
+- [A nova edição de ‘Quincas Borba’, com prefácio de Emicida](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-edicao-de-quincas-borba-com-prefacio-de-emicida/)
+- [‘Harry Potter: De Volta a Hogwarts’, reúne elenco da saga após 20 anos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/harry-potter-de-volta-a-hogwarts-reune-elenco-da-saga-apos-20-anos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
