@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Da ‘flurona’ à sobrecarga: os riscos das altas de covid e gripe](https://www.nexojornal.com.br/expresso/2022/01/04/Da-%E2%80%98flurona%E2%80%99-%C3%A0-sobrecarga-os-riscos-das-altas-de-covid-e-gripe)
+- [Quais suspeitas pesam contra o governador do Acre](https://www.nexojornal.com.br/expresso/2022/01/04/Quais-suspeitas-pesam-contra-o-governador-do-Acre)
+- [A trajetória do salário mínimo sob o governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/01/04/A-trajet%C3%B3ria-do-sal%C3%A1rio-m%C3%ADnimo-sob-o-governo-Bolsonaro)
+- [Bebê Alice: os cuidados da publicidade com crianças na era digital](https://www.nexojornal.com.br/expresso/2022/01/04/Beb%C3%AA-Alice-os-cuidados-da-publicidade-com-crian%C3%A7as-na-era-digital)
 - [Canadá anuncia indenização a crianças indígenas tiradas dos pais](https://www.nexojornal.com.br/extra/2022/01/04/Canad%C3%A1-anuncia-indeniza%C3%A7%C3%A3o-a-crian%C3%A7as-ind%C3%ADgenas-tiradas-dos-pais)
-- [Ano eleitoral: as datas e novidades da disputa de 2022](https://www.nexojornal.com.br/podcast/2022/01/04/Ano-eleitoral-as-datas-e-novidades-da-disputa-de-2022)
-- [Com avanço da variante ômicron, Rio cancela carnaval de rua](https://www.nexojornal.com.br/extra/2022/01/04/Com-avan%C3%A7o-da-variante-%C3%B4micron-Rio-cancela-carnaval-de-rua)
-- [Promotoria pede à Justiça que decrete falência de Itapemirim](https://www.nexojornal.com.br/extra/2022/01/04/Promotoria-pede-%C3%A0-Justi%C3%A7a-que-decrete-fal%C3%AAncia-de-Itapemirim)
-- [Promotor retira acusação de assédio contra ex-governador de NY](https://www.nexojornal.com.br/extra/2022/01/04/Promotor-retira-acusa%C3%A7%C3%A3o-de-ass%C3%A9dio-contra-ex-governador-de-NY)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
