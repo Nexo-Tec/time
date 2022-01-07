@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Os órgãos dos sentidos’: uma comédia científica](https://www.nexojornal.com.br/estante/trechos/2022/01/06/%E2%80%98Os-%C3%B3rg%C3%A3os-dos-sentidos%E2%80%99-uma-com%C3%A9dia-cient%C3%ADfica)
-- [Qual o papel do Brasil no Conselho de Segurança da ONU](https://www.nexojornal.com.br/entrevista/2022/01/06/Qual-o-papel-do-Brasil-no-Conselho-de-Seguran%C3%A7a-da-ONU)
-- [Para ver com olhos livres é preciso olhar, focar e reparar](https://www.nexojornal.com.br/colunistas/2022/Para-ver-com-olhos-livres-%C3%A9-preciso-olhar-focar-e-reparar)
-- [Caso raro de contágio humano por gripe aviária ocorre na Inglaterra](https://www.nexojornal.com.br/extra/2022/01/06/Caso-raro-de-cont%C3%A1gio-humano-por-gripe-avi%C3%A1ria-ocorre-na-Inglaterra)
-- [Preços dos alimentos no mundo subiram 28% em 2021](https://www.nexojornal.com.br/extra/2022/01/06/Pre%C3%A7os-dos-alimentos-no-mundo-subiram-28-em-2021)
+- [A operação contra Márcio França em meio à articulação para 2022](https://www.nexojornal.com.br/expresso/2022/01/05/A-opera%C3%A7%C3%A3o-contra-M%C3%A1rcio-Fran%C3%A7a-em-meio-%C3%A0-articula%C3%A7%C3%A3o-para-2022)
+- [Qual o saldo da invasão do Capitólio, 1 ano depois](https://www.nexojornal.com.br/expresso/2022/Qual-o-saldo-da-invas%C3%A3o-do-Capit%C3%B3lio-1-ano-depois)
+- [Como a reação dos governos à ômicron difere pelo mundo](https://www.nexojornal.com.br/expresso/2022/01/05/Como-a-rea%C3%A7%C3%A3o-dos-governos-%C3%A0-%C3%B4micron-difere-pelo-mundo)
+- [Quais os critérios para a verificação de perfis no Twitter](https://www.nexojornal.com.br/expresso/2022/01/05/Quais-os-crit%C3%A9rios-para-a-verifica%C3%A7%C3%A3o-de-perfis-no-Twitter)
+- [Um ano depois: as lições do 6 de janeiro para o Brasil](https://www.nexojornal.com.br/colunistas/2022/Um-ano-depois-as-li%C3%A7%C3%B5es-do-6-de-janeiro-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
