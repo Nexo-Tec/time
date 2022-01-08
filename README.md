@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O impacto do apagão de dados em meio ao avanço da ômicron](https://www.nexojornal.com.br/expresso/2022/01/06/O-impacto-do-apag%C3%A3o-de-dados-em-meio-ao-avan%C3%A7o-da-%C3%B4micron)
-- [‘Os órgãos dos sentidos’: uma comédia científica](https://www.nexojornal.com.br/estante/trechos/2022/01/06/%E2%80%98Os-%C3%B3rg%C3%A3os-dos-sentidos%E2%80%99-uma-com%C3%A9dia-cient%C3%ADfica)
-- [Qual o papel do Brasil no Conselho de Segurança da ONU](https://www.nexojornal.com.br/entrevista/2022/01/06/Qual-o-papel-do-Brasil-no-Conselho-de-Seguran%C3%A7a-da-ONU)
-- [Para ver com olhos livres é preciso olhar, focar e reparar](https://www.nexojornal.com.br/colunistas/2022/Para-ver-com-olhos-livres-%C3%A9-preciso-olhar-focar-e-reparar)
-- [Caso raro de contágio humano por gripe aviária ocorre na Inglaterra](https://www.nexojornal.com.br/extra/2022/01/06/Caso-raro-de-cont%C3%A1gio-humano-por-gripe-avi%C3%A1ria-ocorre-na-Inglaterra)
+- [De voos a hospitais: como o efeito ômicron paralisa serviços](https://www.nexojornal.com.br/expresso/2022/01/07/De-voos-a-hospitais-como-o-efeito-%C3%B4micron-paralisa-servi%C3%A7os)
+- [Anvisa defende revogação de veto a voos de países africanos](https://www.nexojornal.com.br/extra/2022/01/07/Anvisa-defende-revoga%C3%A7%C3%A3o-de-veto-a-voos-de-pa%C3%ADses-africanos)
+- [O que o sumiço de uma cachorra revela sobre animais em voos](https://www.nexojornal.com.br/expresso/2022/01/07/O-que-o-sumi%C3%A7o-de-uma-cachorra-revela-sobre-animais-em-voos)
+- [Um balanço do 1º ano de mandatos mais diversos nas câmaras](https://www.nexojornal.com.br/expresso/2022/01/07/Um-balan%C3%A7o-do-1%C2%BA-ano-de-mandatos-mais-diversos-nas-c%C3%A2maras)
+- [O site que recomenda filmes com base no humor do espectador](https://www.nexojornal.com.br/expresso/2022/01/07/O-site-que-recomenda-filmes-com-base-no-humor-do-espectador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
