@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Martha Medeiros](https://gamarevista.uol.com.br/pessoas/questionario-proust/martha-medeiros/)
 - [Dez livros que nos acompanharam em 2021](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-que-nos-acompanharam-em-2021/)
 - [‘A Filha Perdida’, filme baseado em romance de Elena Ferrante](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-filha-perdida-filme-baseado-em-romance-de-elena-ferrante/)
 - [‘Dawn FM’, o novo álbum de The Weeknd](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/dawn-fm-o-novo-album-de-the-weeknd/)
 - [Uma outra face de Nara Leão](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-outra-face-de-nara-leao/)
-- [A nova edição de ‘Quincas Borba’, com prefácio de Emicida](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-nova-edicao-de-quincas-borba-com-prefacio-de-emicida/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
