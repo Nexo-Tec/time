@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De voos a hospitais: como o efeito ômicron paralisa serviços](https://www.nexojornal.com.br/expresso/2022/01/07/De-voos-a-hospitais-como-o-efeito-%C3%B4micron-paralisa-servi%C3%A7os)
-- [Anvisa defende revogação de veto a voos de países africanos](https://www.nexojornal.com.br/extra/2022/01/07/Anvisa-defende-revoga%C3%A7%C3%A3o-de-veto-a-voos-de-pa%C3%ADses-africanos)
-- [O que o sumiço de uma cachorra revela sobre animais em voos](https://www.nexojornal.com.br/expresso/2022/01/07/O-que-o-sumi%C3%A7o-de-uma-cachorra-revela-sobre-animais-em-voos)
-- [Um balanço do 1º ano de mandatos mais diversos nas câmaras](https://www.nexojornal.com.br/expresso/2022/01/07/Um-balan%C3%A7o-do-1%C2%BA-ano-de-mandatos-mais-diversos-nas-c%C3%A2maras)
-- [O site que recomenda filmes com base no humor do espectador](https://www.nexojornal.com.br/expresso/2022/01/07/O-site-que-recomenda-filmes-com-base-no-humor-do-espectador)
+- [Chefe da Anvisa cobra retratação de Bolsonaro após ataques](https://www.nexojornal.com.br/extra/2022/01/09/Chefe-da-Anvisa-cobra-retrata%C3%A7%C3%A3o-de-Bolsonaro-ap%C3%B3s-ataques)
+- [O que revela a imagem mais detalhada de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-revela-a-imagem-mais-detalhada-de-uma-obra-de-arte)
+- [5 livros biográficos sobre o escritor Ernest Hemingway](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-biogr%C3%A1ficos-sobre-o-escritor-Ernest-Hemingway)
+- [O que faz o Arquivo Nacional. E por que ele passa por uma crise](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-faz-o-Arquivo-Nacional.-E-por-que-ele-passa-por-uma-crise)
+- [CPI da Covid: o que o Ministério Público já fez com o relatório](https://www.nexojornal.com.br/expresso/2022/01/08/CPI-da-Covid-o-que-o-Minist%C3%A9rio-P%C3%BAblico-j%C3%A1-fez-com-o-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
