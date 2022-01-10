@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça de MG paralisa mina que inundou estrada de lama](https://www.nexojornal.com.br/extra/2022/01/09/Justi%C3%A7a-de-MG-paralisa-mina-que-inundou-estrada-de-lama)
-- [Procuradoria pede bloqueio de R$ 1 bi após dique transbordar](https://www.nexojornal.com.br/extra/2022/01/09/Procuradoria-pede-bloqueio-de-R-1-bi-ap%C3%B3s-dique-transbordar)
 - [Chefe da Anvisa cobra retratação de Bolsonaro após ataques](https://www.nexojornal.com.br/extra/2022/01/09/Chefe-da-Anvisa-cobra-retrata%C3%A7%C3%A3o-de-Bolsonaro-ap%C3%B3s-ataques)
 - [O que revela a imagem mais detalhada de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-revela-a-imagem-mais-detalhada-de-uma-obra-de-arte)
 - [5 livros biográficos sobre o escritor Ernest Hemingway](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-biogr%C3%A1ficos-sobre-o-escritor-Ernest-Hemingway)
+- [O que faz o Arquivo Nacional. E por que ele passa por uma crise](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-faz-o-Arquivo-Nacional.-E-por-que-ele-passa-por-uma-crise)
+- [CPI da Covid: o que o Ministério Público já fez com o relatório](https://www.nexojornal.com.br/expresso/2022/01/08/CPI-da-Covid-o-que-o-Minist%C3%A9rio-P%C3%BAblico-j%C3%A1-fez-com-o-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
