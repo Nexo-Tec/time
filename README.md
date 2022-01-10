@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O aumento da temperatura em duas metrópoles brasileiras](https://www.nexojornal.com.br/ensaio/2022/O-aumento-da-temperatura-em-duas-metr%C3%B3poles-brasileiras)
-- [Por que o valor do IPVA está tão mais alto em 2022](https://www.nexojornal.com.br/expresso/2022/01/09/Por-que-o-valor-do-IPVA-est%C3%A1-t%C3%A3o-mais-alto-em-2022)
-- [‘As principais preocupações atuais do eleitor são econômicas’](https://www.nexojornal.com.br/entrevista/2022/01/09/%E2%80%98As-principais-preocupa%C3%A7%C3%B5es-atuais-do-eleitor-s%C3%A3o-econ%C3%B4micas%E2%80%99)
-- [Mulheres na ciência são tema em reaplicação do Enem 2021](https://www.nexojornal.com.br/extra/2022/01/09/Mulheres-na-ci%C3%AAncia-s%C3%A3o-tema-em-reaplica%C3%A7%C3%A3o-do-Enem-2021)
-- [Latam cancela voos em meio a surtos de covid e gripe](https://www.nexojornal.com.br/extra/2022/01/09/Latam-cancela-voos-em-meio-a-surtos-de-covid-e-gripe)
+- [Governo vai pedir à Anvisa liberação de autotestes de covid](https://www.nexojornal.com.br/extra/2022/01/10/Governo-vai-pedir-%C3%A0-Anvisa-libera%C3%A7%C3%A3o-de-autotestes-de-covid)
+- [Paulinho da Força convida Alckmin a filiar-se ao Solidariedade](https://www.nexojornal.com.br/extra/2022/01/10/Paulinho-da-For%C3%A7a-convida-Alckmin-a-filiar-se-ao-Solidariedade)
+- [Bolsonaro sanciona BR do Mar, que estimula a cabotagem](https://www.nexojornal.com.br/extra/2022/01/10/Bolsonaro-sanciona-BR-do-Mar-que-estimula-a-cabotagem)
+- [Líder deposta de Mianmar é condenada a mais 4 anos de prisão](https://www.nexojornal.com.br/extra/2022/01/10/L%C3%ADder-deposta-de-Mianmar-%C3%A9-condenada-a-mais-4-anos-de-pris%C3%A3o)
+- [A derrota do chavismo em seu berço mais simbólico](https://www.nexojornal.com.br/expresso/2022/01/10/A-derrota-do-chavismo-em-seu-ber%C3%A7o-mais-simb%C3%B3lico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
