@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça de MG paralisa mina que inundou estrada de lama](https://www.nexojornal.com.br/extra/2022/01/09/Justi%C3%A7a-de-MG-paralisa-mina-que-inundou-estrada-de-lama)
-- [Procuradoria pede bloqueio de R$ 1 bi após dique transbordar](https://www.nexojornal.com.br/extra/2022/01/09/Procuradoria-pede-bloqueio-de-R-1-bi-ap%C3%B3s-dique-transbordar)
-- [Chefe da Anvisa cobra retratação de Bolsonaro após ataques](https://www.nexojornal.com.br/extra/2022/01/09/Chefe-da-Anvisa-cobra-retrata%C3%A7%C3%A3o-de-Bolsonaro-ap%C3%B3s-ataques)
-- [O que revela a imagem mais detalhada de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-revela-a-imagem-mais-detalhada-de-uma-obra-de-arte)
-- [5 livros biográficos sobre o escritor Ernest Hemingway](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-biogr%C3%A1ficos-sobre-o-escritor-Ernest-Hemingway)
+- [Mulheres na ciência são tema em reaplicação do Enem 2021](https://www.nexojornal.com.br/extra/2022/01/09/Mulheres-na-ci%C3%AAncia-s%C3%A3o-tema-em-reaplica%C3%A7%C3%A3o-do-Enem-2021)
+- [Latam cancela voos em meio a surtos de covid e gripe](https://www.nexojornal.com.br/extra/2022/01/09/Latam-cancela-voos-em-meio-a-surtos-de-covid-e-gripe)
+- [Incêndio em prédio deixa pelo menos 19 mortos em Nova York](https://www.nexojornal.com.br/extra/2022/01/09/Inc%C3%AAndio-em-pr%C3%A9dio-deixa-pelo-menos-19-mortos-em-Nova-York)
+- [Chuvas na Grande Belo Horizonte ilham dezenas](https://www.nexojornal.com.br/extra/2022/01/09/Chuvas-na-Grande-Belo-Horizonte-ilham-dezenas)
+- [Protestos no Cazaquistão têm 164 mortos, diz governo](https://www.nexojornal.com.br/extra/2022/01/09/Protestos-no-Cazaquist%C3%A3o-t%C3%AAm-164-mortos-diz-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
