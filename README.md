@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Chefe da Anvisa cobra retratação de Bolsonaro após ataques](https://www.nexojornal.com.br/extra/2022/01/09/Chefe-da-Anvisa-cobra-retrata%C3%A7%C3%A3o-de-Bolsonaro-ap%C3%B3s-ataques)
-- [O que revela a imagem mais detalhada de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-revela-a-imagem-mais-detalhada-de-uma-obra-de-arte)
-- [5 livros biográficos sobre o escritor Ernest Hemingway](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-biogr%C3%A1ficos-sobre-o-escritor-Ernest-Hemingway)
-- [O que faz o Arquivo Nacional. E por que ele passa por uma crise](https://www.nexojornal.com.br/expresso/2022/01/08/O-que-faz-o-Arquivo-Nacional.-E-por-que-ele-passa-por-uma-crise)
-- [CPI da Covid: o que o Ministério Público já fez com o relatório](https://www.nexojornal.com.br/expresso/2022/01/08/CPI-da-Covid-o-que-o-Minist%C3%A9rio-P%C3%BAblico-j%C3%A1-fez-com-o-relat%C3%B3rio)
+- [O aumento da temperatura em duas metrópoles brasileiras](https://www.nexojornal.com.br/ensaio/2022/O-aumento-da-temperatura-em-duas-metr%C3%B3poles-brasileiras)
+- [Por que o valor do IPVA está tão mais alto em 2022](https://www.nexojornal.com.br/expresso/2022/01/09/Por-que-o-valor-do-IPVA-est%C3%A1-t%C3%A3o-mais-alto-em-2022)
+- [‘As principais preocupações atuais do eleitor são econômicas’](https://www.nexojornal.com.br/entrevista/2022/01/09/%E2%80%98As-principais-preocupa%C3%A7%C3%B5es-atuais-do-eleitor-s%C3%A3o-econ%C3%B4micas%E2%80%99)
+- [Mulheres na ciência são tema em reaplicação do Enem 2021](https://www.nexojornal.com.br/extra/2022/01/09/Mulheres-na-ci%C3%AAncia-s%C3%A3o-tema-em-reaplica%C3%A7%C3%A3o-do-Enem-2021)
+- [Latam cancela voos em meio a surtos de covid e gripe](https://www.nexojornal.com.br/extra/2022/01/09/Latam-cancela-voos-em-meio-a-surtos-de-covid-e-gripe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
