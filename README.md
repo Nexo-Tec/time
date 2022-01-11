@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Inflação fecha 2021 com alta de 10,06%, a maior desde 2015](https://www.nexojornal.com.br/extra/2022/01/11/Infla%C3%A7%C3%A3o-fecha-2021-com-alta-de-1006-a-maior-desde-2015)
 - [10 perguntas e respostas sobre como lidar com a covid e a gripe](https://www.nexojornal.com.br/expresso/2022/01/10/10-perguntas-e-respostas-sobre-como-lidar-com-a-covid-e-a-gripe)
 - [Governo reduz tempo de isolamento para pessoas com covid](https://www.nexojornal.com.br/extra/2022/01/10/Governo-reduz-tempo-de-isolamento-para-pessoas-com-covid)
 - [‘Discurso sobre identitarismo é simplificador’](https://www.nexojornal.com.br/entrevista/2022/01/10/%E2%80%98Discurso-sobre-identitarismo-%C3%A9-simplificador%E2%80%99)
 - [5 jogos que marcaram a história da Copa Africana de Nações](https://www.nexojornal.com.br/expresso/2022/01/10/5-jogos-que-marcaram-a-hist%C3%B3ria-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
-- [O que Andrew Jennings expôs sobre corrupção no esporte](https://www.nexojornal.com.br/expresso/2022/01/10/O-que-Andrew-Jennings-exp%C3%B4s-sobre-corrup%C3%A7%C3%A3o-no-esporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
