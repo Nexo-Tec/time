@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cooler](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cooler/)
 - [Ventos e desejos de mudança](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ventos-e-desejos-de-mudanca/)
 - [@yehslacks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/yehslacks/)
 - [Fabi Gomes: ‘Uma pele radiante não se consegue com um passe de mágica’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maquiadora-fabi-gomes-fala-da-busca-por-uma-pele-perfeita-e-questiona-padroes-de-beleza/)
 - [Martha Medeiros](https://gamarevista.uol.com.br/pessoas/questionario-proust/martha-medeiros/)
-- [Dez livros que nos acompanharam em 2021](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-que-nos-acompanharam-em-2021/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
