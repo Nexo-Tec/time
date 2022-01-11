@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 perguntas e respostas sobre como lidar com a covid e a gripe](https://www.nexojornal.com.br/expresso/2022/01/10/10-perguntas-e-respostas-sobre-como-lidar-com-a-covid-e-a-gripe)
-- [Governo reduz tempo de isolamento para pessoas com covid](https://www.nexojornal.com.br/extra/2022/01/10/Governo-reduz-tempo-de-isolamento-para-pessoas-com-covid)
-- [‘Discurso sobre identitarismo é simplificador’](https://www.nexojornal.com.br/entrevista/2022/01/10/%E2%80%98Discurso-sobre-identitarismo-%C3%A9-simplificador%E2%80%99)
-- [5 jogos que marcaram a história da Copa Africana de Nações](https://www.nexojornal.com.br/expresso/2022/01/10/5-jogos-que-marcaram-a-hist%C3%B3ria-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
-- [O que Andrew Jennings expôs sobre corrupção no esporte](https://www.nexojornal.com.br/expresso/2022/01/10/O-que-Andrew-Jennings-exp%C3%B4s-sobre-corrup%C3%A7%C3%A3o-no-esporte)
+- [O aumento da temperatura em duas metrópoles brasileiras](https://www.nexojornal.com.br/ensaio/2022/O-aumento-da-temperatura-em-duas-metr%C3%B3poles-brasileiras)
+- [Por que o valor do IPVA está tão mais alto em 2022](https://www.nexojornal.com.br/expresso/2022/01/09/Por-que-o-valor-do-IPVA-est%C3%A1-t%C3%A3o-mais-alto-em-2022)
+- [‘As principais preocupações atuais do eleitor são econômicas’](https://www.nexojornal.com.br/entrevista/2022/01/09/%E2%80%98As-principais-preocupa%C3%A7%C3%B5es-atuais-do-eleitor-s%C3%A3o-econ%C3%B4micas%E2%80%99)
+- [Mulheres na ciência são tema em reaplicação do Enem 2021](https://www.nexojornal.com.br/extra/2022/01/09/Mulheres-na-ci%C3%AAncia-s%C3%A3o-tema-em-reaplica%C3%A7%C3%A3o-do-Enem-2021)
+- [Latam cancela voos em meio a surtos de covid e gripe](https://www.nexojornal.com.br/extra/2022/01/09/Latam-cancela-voos-em-meio-a-surtos-de-covid-e-gripe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
