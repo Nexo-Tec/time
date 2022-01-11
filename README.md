@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O aumento da temperatura em duas metrópoles brasileiras](https://www.nexojornal.com.br/ensaio/2022/O-aumento-da-temperatura-em-duas-metr%C3%B3poles-brasileiras)
+- [Por que o valor do IPVA está tão mais alto em 2022](https://www.nexojornal.com.br/expresso/2022/01/09/Por-que-o-valor-do-IPVA-est%C3%A1-t%C3%A3o-mais-alto-em-2022)
+- [‘As principais preocupações atuais do eleitor são econômicas’](https://www.nexojornal.com.br/entrevista/2022/01/09/%E2%80%98As-principais-preocupa%C3%A7%C3%B5es-atuais-do-eleitor-s%C3%A3o-econ%C3%B4micas%E2%80%99)
 - [Mulheres na ciência são tema em reaplicação do Enem 2021](https://www.nexojornal.com.br/extra/2022/01/09/Mulheres-na-ci%C3%AAncia-s%C3%A3o-tema-em-reaplica%C3%A7%C3%A3o-do-Enem-2021)
 - [Latam cancela voos em meio a surtos de covid e gripe](https://www.nexojornal.com.br/extra/2022/01/09/Latam-cancela-voos-em-meio-a-surtos-de-covid-e-gripe)
-- [Incêndio em prédio deixa pelo menos 19 mortos em Nova York](https://www.nexojornal.com.br/extra/2022/01/09/Inc%C3%AAndio-em-pr%C3%A9dio-deixa-pelo-menos-19-mortos-em-Nova-York)
-- [Chuvas na Grande Belo Horizonte ilham dezenas](https://www.nexojornal.com.br/extra/2022/01/09/Chuvas-na-Grande-Belo-Horizonte-ilham-dezenas)
-- [Protestos no Cazaquistão têm 164 mortos, diz governo](https://www.nexojornal.com.br/extra/2022/01/09/Protestos-no-Cazaquist%C3%A3o-t%C3%AAm-164-mortos-diz-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
