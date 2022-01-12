@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funcionam os autotestes. E qual o seu papel na pandemia](https://www.nexojornal.com.br/expresso/2022/01/11/Como-funcionam-os-autotestes.-E-qual-o-seu-papel-na-pandemia)
-- [Em busca do caminho de volta à nossa humanidade comum](https://www.nexojornal.com.br/colunistas/2022/Em-busca-do-caminho-de-volta-%C3%A0-nossa-humanidade-comum)
-- [Governo de MG multa empresa em R$ 288 mi por danos ambientais](https://www.nexojornal.com.br/extra/2022/01/11/Governo-de-MG-multa-empresa-em-R-288-mi-por-danos-ambientais)
-- [Inflação é culpa de energia e fenômeno global, diz Campos Neto](https://www.nexojornal.com.br/extra/2022/01/11/Infla%C3%A7%C3%A3o-%C3%A9-culpa-de-energia-e-fen%C3%B4meno-global-diz-Campos-Neto)
-- [Por que governos estão reduzindo o tempo de isolamento da covid](https://www.nexojornal.com.br/podcast/2022/01/11/Por-que-governos-est%C3%A3o-reduzindo-o-tempo-de-isolamento-da-covid)
+- [10 perguntas e respostas sobre como lidar com a covid e a gripe](https://www.nexojornal.com.br/expresso/2022/01/10/10-perguntas-e-respostas-sobre-como-lidar-com-a-covid-e-a-gripe)
+- [Governo reduz tempo de isolamento para pessoas com covid](https://www.nexojornal.com.br/extra/2022/01/10/Governo-reduz-tempo-de-isolamento-para-pessoas-com-covid)
+- [‘Discurso sobre identitarismo é simplificador’](https://www.nexojornal.com.br/entrevista/2022/01/10/%E2%80%98Discurso-sobre-identitarismo-%C3%A9-simplificador%E2%80%99)
+- [5 jogos que marcaram a história da Copa Africana de Nações](https://www.nexojornal.com.br/expresso/2022/01/10/5-jogos-que-marcaram-a-hist%C3%B3ria-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
+- [O que Andrew Jennings expôs sobre corrupção no esporte](https://www.nexojornal.com.br/expresso/2022/01/10/O-que-Andrew-Jennings-exp%C3%B4s-sobre-corrup%C3%A7%C3%A3o-no-esporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
