@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Arlane Gonçalves](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-arlane-goncalves/)
 - [Quarenta anos de curiosidade, neuras e glórias](https://gamarevista.uol.com.br/colunistas/letrux/quarenta-anos-de-curiosidade-neuras-e-glorias/)
 - [Cooler](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cooler/)
 - [Ventos e desejos de mudança](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ventos-e-desejos-de-mudanca/)
 - [@yehslacks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/yehslacks/)
-- [Fabi Gomes: ‘Uma pele radiante não se consegue com um passe de mágica’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maquiadora-fabi-gomes-fala-da-busca-por-uma-pele-perfeita-e-questiona-padroes-de-beleza/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
