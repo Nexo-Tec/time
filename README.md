@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Arlane Gonçalves](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-arlane-goncalves/)
-- [Quarenta anos de curiosidade, neuras e glórias](https://gamarevista.uol.com.br/colunistas/letrux/quarenta-anos-de-curiosidade-neuras-e-glorias/)
-- [Cooler](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cooler/)
-- [Ventos e desejos de mudança](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ventos-e-desejos-de-mudanca/)
-- [@yehslacks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/yehslacks/)
+- [Um relato &lpar;e uma reflexão&rpar; sobre o não binarismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-e-uma-reflexao-sobre-o-nao-binarismo/)
+- [O game online que atualiza o jogo da forca](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-game-online-que-atualiza-o-jogo-da-forca/)
+- [Uma mostra que celebra os 100 anos da Semana de 22](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-que-celebra-os-100-anos-da-semana-de-22/)
+- [O romance de estreia do autor de ‘Mad Men’](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-romance-de-estreia-do-autor-de-mad-men/)
+- [‘The Premise’, nova série de B.J. Novak, de ‘The Office’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-premise-nova-serie-de-b-j-novak-de-the-office/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
