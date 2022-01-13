@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funcionam os autotestes. E qual o seu papel na pandemia](https://www.nexojornal.com.br/expresso/2022/01/11/Como-funcionam-os-autotestes.-E-qual-o-seu-papel-na-pandemia)
-- [Em busca do caminho de volta à nossa humanidade comum](https://www.nexojornal.com.br/colunistas/2022/Em-busca-do-caminho-de-volta-%C3%A0-nossa-humanidade-comum)
-- [Governo de MG multa empresa em R$ 288 mi por danos ambientais](https://www.nexojornal.com.br/extra/2022/01/11/Governo-de-MG-multa-empresa-em-R-288-mi-por-danos-ambientais)
-- [Inflação é culpa de energia e fenômeno global, diz Campos Neto](https://www.nexojornal.com.br/extra/2022/01/11/Infla%C3%A7%C3%A3o-%C3%A9-culpa-de-energia-e-fen%C3%B4meno-global-diz-Campos-Neto)
-- [Por que governos estão reduzindo o tempo de isolamento da covid](https://www.nexojornal.com.br/podcast/2022/01/11/Por-que-governos-est%C3%A3o-reduzindo-o-tempo-de-isolamento-da-covid)
+- [O que esperar da pandemia com a variante ômicron dominante](https://www.nexojornal.com.br/expresso/2022/01/12/O-que-esperar-da-pandemia-com-a-variante-%C3%B4micron-dominante)
+- [Chuvas intensas e onda de calor: o que explica o clima no Brasil](https://www.nexojornal.com.br/expresso/2022/01/12/Chuvas-intensas-e-onda-de-calor-o-que-explica-o-clima-no-Brasil)
+- [O que acontece com o corpo após grandes perdas de peso](https://www.nexojornal.com.br/colunistas/2022/O-que-acontece-com-o-corpo-ap%C3%B3s-grandes-perdas-de-peso)
+- [Associação recomenda restringir testagem de covid a casos graves](https://www.nexojornal.com.br/extra/2022/01/12/Associa%C3%A7%C3%A3o-recomenda-restringir-testagem-de-covid-a-casos-graves)
+- [3 a cada 4 chacinas no Rio em 2021 ocorreram em ações policias](https://www.nexojornal.com.br/extra/2022/01/12/3-a-cada-4-chacinas-no-Rio-em-2021-ocorreram-em-a%C3%A7%C3%B5es-policias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
