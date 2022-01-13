@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Queiroz publica vídeo com Bolsonaro em tom de campanha](https://www.nexojornal.com.br/extra/2022/01/12/Queiroz-publica-v%C3%ADdeo-com-Bolsonaro-em-tom-de-campanha)
+- [Coronavac: Anvisa pede mais dados sobre aplicação infantil](https://www.nexojornal.com.br/extra/2022/01/12/Coronavac-Anvisa-pede-mais-dados-sobre-aplica%C3%A7%C3%A3o-infantil)
 - [Como funcionam os autotestes. E qual o seu papel na pandemia](https://www.nexojornal.com.br/expresso/2022/01/11/Como-funcionam-os-autotestes.-E-qual-o-seu-papel-na-pandemia)
 - [Em busca do caminho de volta à nossa humanidade comum](https://www.nexojornal.com.br/colunistas/2022/Em-busca-do-caminho-de-volta-%C3%A0-nossa-humanidade-comum)
 - [Governo de MG multa empresa em R$ 288 mi por danos ambientais](https://www.nexojornal.com.br/extra/2022/01/11/Governo-de-MG-multa-empresa-em-R-288-mi-por-danos-ambientais)
-- [Inflação é culpa de energia e fenômeno global, diz Campos Neto](https://www.nexojornal.com.br/extra/2022/01/11/Infla%C3%A7%C3%A3o-%C3%A9-culpa-de-energia-e-fen%C3%B4meno-global-diz-Campos-Neto)
-- [Por que governos estão reduzindo o tempo de isolamento da covid](https://www.nexojornal.com.br/podcast/2022/01/11/Por-que-governos-est%C3%A3o-reduzindo-o-tempo-de-isolamento-da-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
