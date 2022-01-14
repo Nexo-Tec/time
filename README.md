@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que esperar da pandemia com a variante ômicron dominante](https://www.nexojornal.com.br/expresso/2022/01/12/O-que-esperar-da-pandemia-com-a-variante-%C3%B4micron-dominante)
-- [Chuvas intensas e onda de calor: o que explica o clima no Brasil](https://www.nexojornal.com.br/expresso/2022/01/12/Chuvas-intensas-e-onda-de-calor-o-que-explica-o-clima-no-Brasil)
-- [O que acontece com o corpo após grandes perdas de peso](https://www.nexojornal.com.br/colunistas/2022/O-que-acontece-com-o-corpo-ap%C3%B3s-grandes-perdas-de-peso)
-- [Associação recomenda restringir testagem de covid a casos graves](https://www.nexojornal.com.br/extra/2022/01/12/Associa%C3%A7%C3%A3o-recomenda-restringir-testagem-de-covid-a-casos-graves)
-- [3 a cada 4 chacinas no Rio em 2021 ocorreram em ações policias](https://www.nexojornal.com.br/extra/2022/01/12/3-a-cada-4-chacinas-no-Rio-em-2021-ocorreram-em-a%C3%A7%C3%B5es-policias)
+- [Bolsonaro assina decreto que reduz proteção de cavernas](https://www.nexojornal.com.br/extra/2022/01/13/Bolsonaro-assina-decreto-que-reduz-prote%C3%A7%C3%A3o-de-cavernas)
+- [Como o Ministério da Saúde reage à expansão da ômicron](https://www.nexojornal.com.br/expresso/2022/01/13/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-reage-%C3%A0-expans%C3%A3o-da-%C3%B4micron)
+- [Como Bolsonaro amplia o poder do centrão no Orçamento](https://www.nexojornal.com.br/expresso/2022/01/13/Como-Bolsonaro-amplia-o-poder-do-centr%C3%A3o-no-Or%C3%A7amento)
+- [EUA agravam acusações contra suspeitos de invadir Capitólio](https://www.nexojornal.com.br/extra/2022/01/13/EUA-agravam-acusa%C3%A7%C3%B5es-contra-suspeitos-de-invadir-Capit%C3%B3lio)
+- [Bolsa de valores fechou 2021 no vermelho, após 5 anos de altas](https://www.nexojornal.com.br/grafico/2022/01/13/Bolsa-de-valores-fechou-2021-no-vermelho-ap%C3%B3s-5-anos-de-altas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
