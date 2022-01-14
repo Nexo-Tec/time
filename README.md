@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deslizamento destrói casarão do século 18 em Ouro Preto](https://www.nexojornal.com.br/extra/2022/01/13/Deslizamento-destr%C3%B3i-casar%C3%A3o-do-s%C3%A9culo-18-em-Ouro-Preto)
-- [Brasil recebe primeiro lote de vacinas infantis contra a covid](https://www.nexojornal.com.br/extra/2022/01/13/Brasil-recebe-primeiro-lote-de-vacinas-infantis-contra-a-covid)
 - [O que esperar da pandemia com a variante ômicron dominante](https://www.nexojornal.com.br/expresso/2022/01/12/O-que-esperar-da-pandemia-com-a-variante-%C3%B4micron-dominante)
 - [Chuvas intensas e onda de calor: o que explica o clima no Brasil](https://www.nexojornal.com.br/expresso/2022/01/12/Chuvas-intensas-e-onda-de-calor-o-que-explica-o-clima-no-Brasil)
 - [O que acontece com o corpo após grandes perdas de peso](https://www.nexojornal.com.br/colunistas/2022/O-que-acontece-com-o-corpo-ap%C3%B3s-grandes-perdas-de-peso)
+- [Associação recomenda restringir testagem de covid a casos graves](https://www.nexojornal.com.br/extra/2022/01/12/Associa%C3%A7%C3%A3o-recomenda-restringir-testagem-de-covid-a-casos-graves)
+- [3 a cada 4 chacinas no Rio em 2021 ocorreram em ações policias](https://www.nexojornal.com.br/extra/2022/01/12/3-a-cada-4-chacinas-no-Rio-em-2021-ocorreram-em-a%C3%A7%C3%B5es-policias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
