@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Às vezes, uma crosta dourada e crocante é tudo o que se quer](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/as-vezes-uma-crosta-dourada-e-crocante-e-tudo-o-que-se-quer/)
+- [O Meu Amante de Domingo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-meu-amante-de-domingo/)
 - [Um relato &lpar;e uma reflexão&rpar; sobre o não binarismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-e-uma-reflexao-sobre-o-nao-binarismo/)
 - [O game online que atualiza o jogo da forca](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-game-online-que-atualiza-o-jogo-da-forca/)
 - [Uma mostra que celebra os 100 anos da Semana de 22](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-que-celebra-os-100-anos-da-semana-de-22/)
-- [O romance de estreia do autor de ‘Mad Men’](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-romance-de-estreia-do-autor-de-mad-men/)
-- [‘The Premise’, nova série de B.J. Novak, de ‘The Office’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-premise-nova-serie-de-b-j-novak-de-the-office/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
