@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [BBB22: Participantes do programa são divulgados](https://www.nexojornal.com.br/extra/2022/01/14/BBB22-Participantes-do-programa-s%C3%A3o-divulgados)
-- [Qual deve ser o impacto eleitoral da vacina para 2022](https://www.nexojornal.com.br/expresso/2022/01/14/Qual-deve-ser-o-impacto-eleitoral-da-vacina-para-2022)
-- [‘Mundo deve vigiar melhor democracia sob Bolsonaro’](https://www.nexojornal.com.br/entrevista/2022/01/14/%E2%80%98Mundo-deve-vigiar-melhor-democracia-sob-Bolsonaro%E2%80%99)
-- [Estados decidem descongelar ICMS sobre combustíveis](https://www.nexojornal.com.br/extra/2022/01/14/Estados-decidem-descongelar-ICMS-sobre-combust%C3%ADveis)
-- [2 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/01/14/2-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Bolsonaro assina decreto que reduz proteção de cavernas](https://www.nexojornal.com.br/extra/2022/01/13/Bolsonaro-assina-decreto-que-reduz-prote%C3%A7%C3%A3o-de-cavernas)
+- [Como o Ministério da Saúde reage à expansão da ômicron](https://www.nexojornal.com.br/expresso/2022/01/13/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-reage-%C3%A0-expans%C3%A3o-da-%C3%B4micron)
+- [Como Bolsonaro amplia o poder do centrão no Orçamento](https://www.nexojornal.com.br/expresso/2022/01/13/Como-Bolsonaro-amplia-o-poder-do-centr%C3%A3o-no-Or%C3%A7amento)
+- [EUA agravam acusações contra suspeitos de invadir Capitólio](https://www.nexojornal.com.br/extra/2022/01/13/EUA-agravam-acusa%C3%A7%C3%B5es-contra-suspeitos-de-invadir-Capit%C3%B3lio)
+- [Bolsa de valores fechou 2021 no vermelho, após 5 anos de altas](https://www.nexojornal.com.br/grafico/2022/01/13/Bolsa-de-valores-fechou-2021-no-vermelho-ap%C3%B3s-5-anos-de-altas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
