@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Augusto de Arruda Botelho](https://gamarevista.uol.com.br/pessoas/questionario-proust/augusto-de-arruda-botelho/)
 - [Às vezes, uma crosta dourada e crocante é tudo o que se quer](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/as-vezes-uma-crosta-dourada-e-crocante-e-tudo-o-que-se-quer/)
 - [O Meu Amante de Domingo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-meu-amante-de-domingo/)
 - [Um relato &lpar;e uma reflexão&rpar; sobre o não binarismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-e-uma-reflexao-sobre-o-nao-binarismo/)
 - [O game online que atualiza o jogo da forca](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-game-online-que-atualiza-o-jogo-da-forca/)
-- [Uma mostra que celebra os 100 anos da Semana de 22](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-que-celebra-os-100-anos-da-semana-de-22/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
