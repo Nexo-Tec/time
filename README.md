@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é a educação voltada a crianças de povos tradicionais](https://www.nexojornal.com.br/expresso/2022/01/15/Como-%C3%A9-a-educa%C3%A7%C3%A3o-voltada-a-crian%C3%A7as-de-povos-tradicionais)
-- [‘Rússia trata ex-repúblicas soviéticas como seu quintal’](https://www.nexojornal.com.br/entrevista/2022/01/15/%E2%80%98R%C3%BAssia-trata-ex-rep%C3%BAblicas-sovi%C3%A9ticas-como-seu-quintal%E2%80%99)
-- [6 casos que expõem os destinos duvidosos do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2022/01/15/6-casos-que-exp%C3%B5em-os-destinos-duvidosos-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
-- [1 ano da vacinação: como foi, como está e para onde vai](https://www.nexojornal.com.br/expresso/2022/01/15/1-ano-da-vacina%C3%A7%C3%A3o-como-foi-como-est%C3%A1-e-para-onde-vai)
-- [5 livros sobre a área da mediação artístico-cultural](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-a-%C3%A1rea-da-media%C3%A7%C3%A3o-art%C3%ADstico-cultural)
+- [Datafolha: um em cada quatro brasileiros contraiu covid-19](https://www.nexojornal.com.br/extra/2022/01/15/Datafolha-um-em-cada-quatro-brasileiros-contraiu-covid-19)
+- [Com protocolo sanitário, Fuvest realiza segunda fase do vestibular](https://www.nexojornal.com.br/extra/2022/01/15/Com-protocolo-sanit%C3%A1rio-Fuvest-realiza-segunda-fase-do-vestibular)
+- [Meteoro é avistado em cidades do interior de Minas Gerais](https://www.nexojornal.com.br/extra/2022/01/15/Meteoro-%C3%A9-avistado-em-cidades-do-interior-de-Minas-Gerais)
+- [Brasil será julgado por violações aos quilombolas em Alcântara](https://www.nexojornal.com.br/extra/2022/01/15/Brasil-ser%C3%A1-julgado-por-viola%C3%A7%C3%B5es-aos-quilombolas-em-Alc%C3%A2ntara)
+- [Erupção de vulcão causa tsunami em ilhas do Oceano Pacífico](https://www.nexojornal.com.br/extra/2022/01/15/Erup%C3%A7%C3%A3o-de-vulc%C3%A3o-causa-tsunami-em-ilhas-do-Oceano-Pac%C3%ADfico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
