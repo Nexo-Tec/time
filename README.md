@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Datafolha: um em cada quatro brasileiros contraiu covid-19](https://www.nexojornal.com.br/extra/2022/01/15/Datafolha-um-em-cada-quatro-brasileiros-contraiu-covid-19)
-- [Com protocolo sanitário, Fuvest realiza segunda fase do vestibular](https://www.nexojornal.com.br/extra/2022/01/15/Com-protocolo-sanit%C3%A1rio-Fuvest-realiza-segunda-fase-do-vestibular)
-- [Meteoro é avistado em cidades do interior de Minas Gerais](https://www.nexojornal.com.br/extra/2022/01/15/Meteoro-%C3%A9-avistado-em-cidades-do-interior-de-Minas-Gerais)
-- [Brasil será julgado por violações aos quilombolas em Alcântara](https://www.nexojornal.com.br/extra/2022/01/15/Brasil-ser%C3%A1-julgado-por-viola%C3%A7%C3%B5es-aos-quilombolas-em-Alc%C3%A2ntara)
-- [Erupção de vulcão causa tsunami em ilhas do Oceano Pacífico](https://www.nexojornal.com.br/extra/2022/01/15/Erup%C3%A7%C3%A3o-de-vulc%C3%A3o-causa-tsunami-em-ilhas-do-Oceano-Pac%C3%ADfico)
+- [BBB22: Participantes do programa são divulgados](https://www.nexojornal.com.br/extra/2022/01/14/BBB22-Participantes-do-programa-s%C3%A3o-divulgados)
+- [Qual deve ser o impacto eleitoral da vacina para 2022](https://www.nexojornal.com.br/expresso/2022/01/14/Qual-deve-ser-o-impacto-eleitoral-da-vacina-para-2022)
+- [‘Mundo deve vigiar melhor democracia sob Bolsonaro’](https://www.nexojornal.com.br/entrevista/2022/01/14/%E2%80%98Mundo-deve-vigiar-melhor-democracia-sob-Bolsonaro%E2%80%99)
+- [Estados decidem descongelar ICMS sobre combustíveis](https://www.nexojornal.com.br/extra/2022/01/14/Estados-decidem-descongelar-ICMS-sobre-combust%C3%ADveis)
+- [2 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/01/14/2-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
