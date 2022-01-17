@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Bolsonaro lida com a conta de luz no ano eleitoral](https://www.nexojornal.com.br/expresso/2022/01/16/Como-Bolsonaro-lida-com-a-conta-de-luz-no-ano-eleitoral)
-- [Como o BBB Brasil se tornou onipresente](https://www.nexojornal.com.br/expresso/2022/01/16/Como-o-BBB-Brasil-se-tornou-onipresente)
-- [Como prisões limitam a amamentação dos filhos das detentas](https://www.nexojornal.com.br/expresso/2022/01/16/Como-pris%C3%B5es-limitam-a-amamenta%C3%A7%C3%A3o-dos-filhos-das-detentas)
-- [Os desafios para a implementação do Novo Ensino Médio](https://www.nexojornal.com.br/ensaio/2022/Os-desafios-para-a-implementa%C3%A7%C3%A3o-do-Novo-Ensino-M%C3%A9dio)
-- [Morre a atriz Françoise Forton aos 64 anos](https://www.nexojornal.com.br/extra/2022/01/16/Morre-a-atriz-Fran%C3%A7oise-Forton-aos-64-anos)
+- [Como é a educação voltada a crianças de povos tradicionais](https://www.nexojornal.com.br/expresso/2022/01/15/Como-%C3%A9-a-educa%C3%A7%C3%A3o-voltada-a-crian%C3%A7as-de-povos-tradicionais)
+- [‘Rússia trata ex-repúblicas soviéticas como seu quintal’](https://www.nexojornal.com.br/entrevista/2022/01/15/%E2%80%98R%C3%BAssia-trata-ex-rep%C3%BAblicas-sovi%C3%A9ticas-como-seu-quintal%E2%80%99)
+- [6 casos que expõem os destinos duvidosos do ‘orçamento secreto’](https://www.nexojornal.com.br/expresso/2022/01/15/6-casos-que-exp%C3%B5em-os-destinos-duvidosos-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [1 ano da vacinação: como foi, como está e para onde vai](https://www.nexojornal.com.br/expresso/2022/01/15/1-ano-da-vacina%C3%A7%C3%A3o-como-foi-como-est%C3%A1-e-para-onde-vai)
+- [5 livros sobre a área da mediação artístico-cultural](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-a-%C3%A1rea-da-media%C3%A7%C3%A3o-art%C3%ADstico-cultural)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
