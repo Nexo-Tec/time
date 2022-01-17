@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maioria dos brasileiros apoia vacinação infantil, diz Datafolha](https://www.nexojornal.com.br/extra/2022/01/17/Maioria-dos-brasileiros-apoia-vacina%C3%A7%C3%A3o-infantil-diz-Datafolha)
-- [OIT projeta 14 milhões de desempregados no Brasil em 2022](https://www.nexojornal.com.br/extra/2022/01/17/OIT-projeta-14-milh%C3%B5es-de-desempregados-no-Brasil-em-2022)
 - [Como Bolsonaro lida com a conta de luz no ano eleitoral](https://www.nexojornal.com.br/expresso/2022/01/16/Como-Bolsonaro-lida-com-a-conta-de-luz-no-ano-eleitoral)
 - [Como o BBB Brasil se tornou onipresente](https://www.nexojornal.com.br/expresso/2022/01/16/Como-o-BBB-Brasil-se-tornou-onipresente)
 - [Como prisões limitam a amamentação dos filhos das detentas](https://www.nexojornal.com.br/expresso/2022/01/16/Como-pris%C3%B5es-limitam-a-amamenta%C3%A7%C3%A3o-dos-filhos-das-detentas)
+- [Os desafios para a implementação do Novo Ensino Médio](https://www.nexojornal.com.br/ensaio/2022/Os-desafios-para-a-implementa%C3%A7%C3%A3o-do-Novo-Ensino-M%C3%A9dio)
+- [Morre a atriz Françoise Forton aos 64 anos](https://www.nexojornal.com.br/extra/2022/01/16/Morre-a-atriz-Fran%C3%A7oise-Forton-aos-64-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
