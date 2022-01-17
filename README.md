@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Querer ser mãe](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/querer-ser-mae/)
 - [@nicolaformichetti](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nicolaformichetti/)
 - [Ana Suy: maternidade e saúde mental](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-suy-saude-mental-e-maternidade/)
 - [Augusto de Arruda Botelho](https://gamarevista.uol.com.br/pessoas/questionario-proust/augusto-de-arruda-botelho/)
 - [Às vezes, uma crosta dourada e crocante é tudo o que se quer](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/as-vezes-uma-crosta-dourada-e-crocante-e-tudo-o-que-se-quer/)
-- [O Meu Amante de Domingo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-meu-amante-de-domingo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
