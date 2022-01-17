@@ -48,9 +48,6 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 ## Time atual
 
-<a href="https://github.com/atmasuko">
-  <img src="https://github.com/atmasuko.png?size=50">
-</a>
 <a href="https://github.com/decoesp">
   <img src="https://github.com/decoesp.png?size=50">
 </a>
@@ -83,6 +80,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 </a>
 <a href="https://github.com/alinenaoe">
   <img src="https://github.com/alinenaoe.png?size=50">
+</a>
+<a href="https://github.com/atmasuko">
+  <img src="https://github.com/atmasuko.png?size=50">
 </a>
 <a href="https://github.com/arieltonglet">
   <img src="https://github.com/arieltonglet.png?size=50">
