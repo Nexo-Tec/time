@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maioria dos brasileiros apoia vacinação infantil, diz Datafolha](https://www.nexojornal.com.br/extra/2022/01/17/Maioria-dos-brasileiros-apoia-vacina%C3%A7%C3%A3o-infantil-diz-Datafolha)
-- [OIT projeta 14 milhões de desempregados no Brasil em 2022](https://www.nexojornal.com.br/extra/2022/01/17/OIT-projeta-14-milh%C3%B5es-de-desempregados-no-Brasil-em-2022)
-- [Como Bolsonaro lida com a conta de luz no ano eleitoral](https://www.nexojornal.com.br/expresso/2022/01/16/Como-Bolsonaro-lida-com-a-conta-de-luz-no-ano-eleitoral)
-- [Como o BBB Brasil se tornou onipresente](https://www.nexojornal.com.br/expresso/2022/01/16/Como-o-BBB-Brasil-se-tornou-onipresente)
-- [Como prisões limitam a amamentação dos filhos das detentas](https://www.nexojornal.com.br/expresso/2022/01/16/Como-pris%C3%B5es-limitam-a-amamenta%C3%A7%C3%A3o-dos-filhos-das-detentas)
+- [Imagens de satélite mostram danos causados por vulcão em Tonga](https://www.nexojornal.com.br/extra/2022/01/18/Imagens-de-sat%C3%A9lite-mostram-danos-causados-por-vulc%C3%A3o-em-Tonga)
+- [Médicos da rede municipal de SP mantêm greve para quarta-feira](https://www.nexojornal.com.br/extra/2022/01/18/M%C3%A9dicos-da-rede-municipal-de-SP-mant%C3%AAm-greve-para-quarta-feira)
+- [Ensino infantil: como aplacar o atraso imposto pela pandemia](https://www.nexojornal.com.br/expresso/2022/01/17/Ensino-infantil-como-aplacar-o-atraso-imposto-pela-pandemia)
+- [A pressão da ômicron sobre as vacinas de vírus inativado](https://www.nexojornal.com.br/expresso/2022/01/17/A-press%C3%A3o-da-%C3%B4micron-sobre-as-vacinas-de-v%C3%ADrus-inativado)
+- [2022 é aqui e agora: as efemérides que devem marcar o ano](https://www.nexojornal.com.br/colunistas/2022/2022-%C3%A9-aqui-e-agora-as-efem%C3%A9rides-que-devem-marcar-o-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
