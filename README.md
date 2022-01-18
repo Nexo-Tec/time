@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O papel do metano no aquecimento global e a COP26](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-do-metano-no-aquecimento-global-e-a-COP26)
 - [Para 2022: mulheres e Lei Maria da Penha protegidas!](https://pp.nexojornal.com.br/opiniao/2022/Para-2022-mulheres-e-Lei-Maria-da-Penha-protegidas)
 - [Eliana Mazzucato: geossítios e as mudanças climáticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/01/13/Eliana-Mazzucato-geoss%C3%ADtios-e-as-mudan%C3%A7as-clim%C3%A1ticas)
 - [A infodemia e o apagão de dados da saúde que resultam em mortes evitáveis](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-infodemia-e-o-apag%C3%A3o-de-dados-da-sa%C3%BAde-que-resultam-em-mortes-evit%C3%A1veis)
 - [A agricultura urbana e periurbana explicada em 12 questões](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2021/A-agricultura-urbana-e-periurbana-explicada-em-12-quest%C3%B5es)
-- [Polarização política: novos achados e perspectivas](https://pp.nexojornal.com.br/topico/2021/12/28/Polariza%C3%A7%C3%A3o-pol%C3%ADtica-novos-achados-e-perspectivas)
 <!-- PP_LIST:END -->
 
