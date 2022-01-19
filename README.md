@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Imagens de satélite mostram danos causados por vulcão em Tonga](https://www.nexojornal.com.br/extra/2022/01/18/Imagens-de-sat%C3%A9lite-mostram-danos-causados-por-vulc%C3%A3o-em-Tonga)
-- [Médicos da rede municipal de SP mantêm greve para quarta-feira](https://www.nexojornal.com.br/extra/2022/01/18/M%C3%A9dicos-da-rede-municipal-de-SP-mant%C3%AAm-greve-para-quarta-feira)
 - [Ensino infantil: como aplacar o atraso imposto pela pandemia](https://www.nexojornal.com.br/expresso/2022/01/17/Ensino-infantil-como-aplacar-o-atraso-imposto-pela-pandemia)
 - [A pressão da ômicron sobre as vacinas de vírus inativado](https://www.nexojornal.com.br/expresso/2022/01/17/A-press%C3%A3o-da-%C3%B4micron-sobre-as-vacinas-de-v%C3%ADrus-inativado)
 - [2022 é aqui e agora: as efemérides que devem marcar o ano](https://www.nexojornal.com.br/colunistas/2022/2022-%C3%A9-aqui-e-agora-as-efem%C3%A9rides-que-devem-marcar-o-ano)
+- [O embate entre servidores e o governo Bolsonaro em 5 pontos](https://www.nexojornal.com.br/expresso/2022/01/17/O-embate-entre-servidores-e-o-governo-Bolsonaro-em-5-pontos)
+- [Por causa da ômicron, Câmara retorna a trabalho remoto](https://www.nexojornal.com.br/extra/2022/01/17/Por-causa-da-%C3%B4micron-C%C3%A2mara-retorna-a-trabalho-remoto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
