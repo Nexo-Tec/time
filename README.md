@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sassafrás, a raiz do amor](https://gamarevista.uol.com.br/colunistas/marcello-dantas/sassafras-a-raiz-do-amor/)
 - [Chapéu de Palha Quicksilver](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chapeu-de-palha-quicksilver/)
 - [Querer ser mãe](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/querer-ser-mae/)
 - [@nicolaformichetti](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nicolaformichetti/)
 - [Ana Suy: maternidade e saúde mental](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-suy-saude-mental-e-maternidade/)
-- [Augusto de Arruda Botelho](https://gamarevista.uol.com.br/pessoas/questionario-proust/augusto-de-arruda-botelho/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
