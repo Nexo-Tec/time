@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Imagens de satélite mostram danos causados por vulcão em Tonga](https://www.nexojornal.com.br/extra/2022/01/18/Imagens-de-sat%C3%A9lite-mostram-danos-causados-por-vulc%C3%A3o-em-Tonga)
-- [Médicos da rede municipal de SP mantêm greve para quarta-feira](https://www.nexojornal.com.br/extra/2022/01/18/M%C3%A9dicos-da-rede-municipal-de-SP-mant%C3%AAm-greve-para-quarta-feira)
-- [Ensino infantil: como aplacar o atraso imposto pela pandemia](https://www.nexojornal.com.br/expresso/2022/01/17/Ensino-infantil-como-aplacar-o-atraso-imposto-pela-pandemia)
-- [A pressão da ômicron sobre as vacinas de vírus inativado](https://www.nexojornal.com.br/expresso/2022/01/17/A-press%C3%A3o-da-%C3%B4micron-sobre-as-vacinas-de-v%C3%ADrus-inativado)
-- [2022 é aqui e agora: as efemérides que devem marcar o ano](https://www.nexojornal.com.br/colunistas/2022/2022-%C3%A9-aqui-e-agora-as-efem%C3%A9rides-que-devem-marcar-o-ano)
+- [Quais casos caíram nas mãos de Mendonça por sorteio no STF](https://www.nexojornal.com.br/expresso/2022/01/18/Quais-casos-ca%C3%ADram-nas-m%C3%A3os-de-Mendon%C3%A7a-por-sorteio-no-STF)
+- [Adiado por causa da pandemia, Grammy será realizado em abril](https://www.nexojornal.com.br/extra/2022/01/18/Adiado-por-causa-da-pandemia-Grammy-ser%C3%A1-realizado-em-abril)
+- [Brasil registra recorde de 132 mil casos de covid em 24 horas](https://www.nexojornal.com.br/extra/2022/01/18/Brasil-registra-recorde-de-132-mil-casos-de-covid-em-24-horas)
+- [Há 40 anos morria Elis Regina, que lançou 28 álbuns em sua carreira](https://www.nexojornal.com.br/grafico/2022/01/18/H%C3%A1-40-anos-morria-Elis-Regina-que-lan%C3%A7ou-28-%C3%A1lbuns-em-sua-carreira)
+- [Por que a ômicron alimenta temores de inflação pelo mundo](https://www.nexojornal.com.br/expresso/2022/01/18/Por-que-a-%C3%B4micron-alimenta-temores-de-infla%C3%A7%C3%A3o-pelo-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
