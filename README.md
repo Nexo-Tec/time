@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um curso de psicanálise com ênfase nas relações raciais](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-de-psicanalise-com-enfase-nas-relacoes-raciais/)
+- [Os filmes da 25ª edição da Mostra de Cinema de Tiradentes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-filmes-da-25a-edicao-da-mostra-de-cinema-de-tiradentes/)
 - [Acorde melhor — e sem o botão da soneca](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/acorde-melhor-e-sem-o-botao-da-soneca/)
 - [Sassafrás, a raiz do amor](https://gamarevista.uol.com.br/colunistas/marcello-dantas/sassafras-a-raiz-do-amor/)
 - [Chapéu de Palha Quicksilver](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chapeu-de-palha-quicksilver/)
-- [Querer ser mãe](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/querer-ser-mae/)
-- [@nicolaformichetti](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nicolaformichetti/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
