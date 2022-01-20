@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com alta da covid, 4 estados têm UTIs com ocupação acima de 80%](https://www.nexojornal.com.br/extra/2022/01/19/Com-alta-da-covid-4-estados-t%C3%AAm-UTIs-com-ocupa%C3%A7%C3%A3o-acima-de-80)
+- [Governo do Rio faz operação para ocupar Jacarezinho](https://www.nexojornal.com.br/extra/2022/01/19/Governo-do-Rio-faz-opera%C3%A7%C3%A3o-para-ocupar-Jacarezinho)
 - [Quais casos caíram nas mãos de Mendonça por sorteio no STF](https://www.nexojornal.com.br/expresso/2022/01/18/Quais-casos-ca%C3%ADram-nas-m%C3%A3os-de-Mendon%C3%A7a-por-sorteio-no-STF)
 - [Adiado por causa da pandemia, Grammy será realizado em abril](https://www.nexojornal.com.br/extra/2022/01/18/Adiado-por-causa-da-pandemia-Grammy-ser%C3%A1-realizado-em-abril)
 - [Brasil registra recorde de 132 mil casos de covid em 24 horas](https://www.nexojornal.com.br/extra/2022/01/18/Brasil-registra-recorde-de-132-mil-casos-de-covid-em-24-horas)
-- [Há 40 anos morria Elis Regina, que lançou 28 álbuns em sua carreira](https://www.nexojornal.com.br/grafico/2022/01/18/H%C3%A1-40-anos-morria-Elis-Regina-que-lan%C3%A7ou-28-%C3%A1lbuns-em-sua-carreira)
-- [Por que a ômicron alimenta temores de inflação pelo mundo](https://www.nexojornal.com.br/expresso/2022/01/18/Por-que-a-%C3%B4micron-alimenta-temores-de-infla%C3%A7%C3%A3o-pelo-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
