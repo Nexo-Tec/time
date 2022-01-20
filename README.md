@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com alta da covid, 4 estados têm UTIs com ocupação acima de 80%](https://www.nexojornal.com.br/extra/2022/01/19/Com-alta-da-covid-4-estados-t%C3%AAm-UTIs-com-ocupa%C3%A7%C3%A3o-acima-de-80)
-- [Governo do Rio faz operação para ocupar Jacarezinho](https://www.nexojornal.com.br/extra/2022/01/19/Governo-do-Rio-faz-opera%C3%A7%C3%A3o-para-ocupar-Jacarezinho)
-- [Quais casos caíram nas mãos de Mendonça por sorteio no STF](https://www.nexojornal.com.br/expresso/2022/01/18/Quais-casos-ca%C3%ADram-nas-m%C3%A3os-de-Mendon%C3%A7a-por-sorteio-no-STF)
-- [Adiado por causa da pandemia, Grammy será realizado em abril](https://www.nexojornal.com.br/extra/2022/01/18/Adiado-por-causa-da-pandemia-Grammy-ser%C3%A1-realizado-em-abril)
-- [Brasil registra recorde de 132 mil casos de covid em 24 horas](https://www.nexojornal.com.br/extra/2022/01/18/Brasil-registra-recorde-de-132-mil-casos-de-covid-em-24-horas)
+- [Valor real do prêmio do BBB 22 é o mais baixo desde 2004](https://www.nexojornal.com.br/grafico/2022/01/20/Valor-real-do-pr%C3%AAmio-do-BBB-22-%C3%A9-o-mais-baixo-desde-2004)
+- [Justiça dos EUA libera documentos sobre invasão ao Capitólio](https://www.nexojornal.com.br/extra/2022/01/20/Justi%C3%A7a-dos-EUA-libera-documentos-sobre-invas%C3%A3o-ao-Capit%C3%B3lio)
+- [Planos de saúde serão obrigados a pagar teste rápido de covid](https://www.nexojornal.com.br/extra/2022/01/20/Planos-de-sa%C3%BAde-ser%C3%A3o-obrigados-a-pagar-teste-r%C3%A1pido-de-covid)
+- [O que acontece quando a Justiça de outro país condena um brasileiro](https://www.nexojornal.com.br/expresso/2022/01/19/O-que-acontece-quando-a-Justi%C3%A7a-de-outro-pa%C3%ADs-condena-um-brasileiro)
+- [Feminismo: o papel do audiovisual na luta contra o assédio](https://www.nexojornal.com.br/academico/2022/01/19/Feminismo-o-papel-do-audiovisual-na-luta-contra-o-ass%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
