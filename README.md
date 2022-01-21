@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Valor real do prêmio do BBB 22 é o mais baixo desde 2004](https://www.nexojornal.com.br/grafico/2022/01/20/Valor-real-do-pr%C3%AAmio-do-BBB-22-%C3%A9-o-mais-baixo-desde-2004)
-- [Justiça dos EUA libera documentos sobre invasão ao Capitólio](https://www.nexojornal.com.br/extra/2022/01/20/Justi%C3%A7a-dos-EUA-libera-documentos-sobre-invas%C3%A3o-ao-Capit%C3%B3lio)
-- [Planos de saúde serão obrigados a pagar teste rápido de covid](https://www.nexojornal.com.br/extra/2022/01/20/Planos-de-sa%C3%BAde-ser%C3%A3o-obrigados-a-pagar-teste-r%C3%A1pido-de-covid)
-- [O que acontece quando a Justiça de outro país condena um brasileiro](https://www.nexojornal.com.br/expresso/2022/01/19/O-que-acontece-quando-a-Justi%C3%A7a-de-outro-pa%C3%ADs-condena-um-brasileiro)
-- [Feminismo: o papel do audiovisual na luta contra o assédio](https://www.nexojornal.com.br/academico/2022/01/19/Feminismo-o-papel-do-audiovisual-na-luta-contra-o-ass%C3%A9dio)
+- [Boric preenche 14 dos 24 ministérios chilenos com mulheres](https://www.nexojornal.com.br/extra/2022/01/21/Boric-preenche-14-dos-24-minist%C3%A9rios-chilenos-com-mulheres)
+- [‘Um dia esta noite acaba’: recortes familiares e políticos](https://www.nexojornal.com.br/estante/trechos/2022/01/21/%E2%80%98Um-dia-esta-noite-acaba%E2%80%99-recortes-familiares-e-pol%C3%ADticos)
+- [Elza, uma estilista da canção que foi do samba ao experimental](https://www.nexojornal.com.br/perspectiva/2022/01/21/Elza-uma-estilista-da-can%C3%A7%C3%A3o-que-foi-do-samba-ao-experimental)
+- [Ministério da Saúde barra proibição do &#39;kit covid&#39; no Brasil](https://www.nexojornal.com.br/extra/2022/01/21/Minist%C3%A9rio-da-Sa%C3%BAde-barra-proibi%C3%A7%C3%A3o-do-kit-covid-no-Brasil)
+- [Mãe de Jair Bolsonaro morre aos 94 anos](https://www.nexojornal.com.br/extra/2022/01/21/M%C3%A3e-de-Jair-Bolsonaro-morre-aos-94-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
