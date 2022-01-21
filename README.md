@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o preço do petróleo atingiu a maior alta em 7 anos](https://www.nexojornal.com.br/expresso/2022/01/20/Por-que-o-pre%C3%A7o-do-petr%C3%B3leo-atingiu-a-maior-alta-em-7-anos)
-- [A história de ‘Eduardo e Mônica’. E mais canções que viraram filme](https://www.nexojornal.com.br/expresso/2022/01/20/A-hist%C3%B3ria-de-%E2%80%98Eduardo-e-M%C3%B4nica%E2%80%99.-E-mais-can%C3%A7%C3%B5es-que-viraram-filme)
-- [Por que é importante educar para as redes sociais](https://www.nexojornal.com.br/colunistas/2022/Por-que-%C3%A9-importante-educar-para-as-redes-sociais)
-- [Peru declara emergência climática por vazamento de petróleo](https://www.nexojornal.com.br/extra/2022/01/20/Peru-declara-emerg%C3%AAncia-clim%C3%A1tica-por-vazamento-de-petr%C3%B3leo)
-- [Qual papel a Coronavac pode ter na vacinação infantil](https://www.nexojornal.com.br/podcast/2022/01/20/Qual-papel-a-Coronavac-pode-ter-na-vacina%C3%A7%C3%A3o-infantil)
+- [Valor real do prêmio do BBB 22 é o mais baixo desde 2004](https://www.nexojornal.com.br/grafico/2022/01/20/Valor-real-do-pr%C3%AAmio-do-BBB-22-%C3%A9-o-mais-baixo-desde-2004)
+- [Justiça dos EUA libera documentos sobre invasão ao Capitólio](https://www.nexojornal.com.br/extra/2022/01/20/Justi%C3%A7a-dos-EUA-libera-documentos-sobre-invas%C3%A3o-ao-Capit%C3%B3lio)
+- [Planos de saúde serão obrigados a pagar teste rápido de covid](https://www.nexojornal.com.br/extra/2022/01/20/Planos-de-sa%C3%BAde-ser%C3%A3o-obrigados-a-pagar-teste-r%C3%A1pido-de-covid)
+- [O que acontece quando a Justiça de outro país condena um brasileiro](https://www.nexojornal.com.br/expresso/2022/01/19/O-que-acontece-quando-a-Justi%C3%A7a-de-outro-pa%C3%ADs-condena-um-brasileiro)
+- [Feminismo: o papel do audiovisual na luta contra o assédio](https://www.nexojornal.com.br/academico/2022/01/19/Feminismo-o-papel-do-audiovisual-na-luta-contra-o-ass%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
