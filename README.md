@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/01/21/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [O poema inédito de Mario Quintana achado por um livreiro](https://www.nexojornal.com.br/expresso/2022/01/21/O-poema-in%C3%A9dito-de-Mario-Quintana-achado-por-um-livreiro)
-- [Como preparativos relacionados à morte amenizam o luto](https://www.nexojornal.com.br/externo/2022/01/21/Como-preparativos-relacionados-%C3%A0-morte-amenizam-o-luto)
-- [Carnaval: SP e Rio adiam desfiles de samba para abril](https://www.nexojornal.com.br/extra/2022/01/21/Carnaval-SP-e-Rio-adiam-desfiles-de-samba-para-abril)
-- [O que é racismo religioso. E qual seu efeito nas crianças](https://www.nexojornal.com.br/expresso/2022/01/21/O-que-%C3%A9-racismo-religioso.-E-qual-seu-efeito-nas-crian%C3%A7as)
+- [Boric preenche 14 dos 24 ministérios chilenos com mulheres](https://www.nexojornal.com.br/extra/2022/01/21/Boric-preenche-14-dos-24-minist%C3%A9rios-chilenos-com-mulheres)
+- [‘Um dia esta noite acaba’: recortes familiares e políticos](https://www.nexojornal.com.br/estante/trechos/2022/01/21/%E2%80%98Um-dia-esta-noite-acaba%E2%80%99-recortes-familiares-e-pol%C3%ADticos)
+- [Elza, uma estilista da canção que foi do samba ao experimental](https://www.nexojornal.com.br/perspectiva/2022/01/21/Elza-uma-estilista-da-can%C3%A7%C3%A3o-que-foi-do-samba-ao-experimental)
+- [Ministério da Saúde barra proibição do &#39;kit covid&#39; no Brasil](https://www.nexojornal.com.br/extra/2022/01/21/Minist%C3%A9rio-da-Sa%C3%BAde-barra-proibi%C3%A7%C3%A3o-do-kit-covid-no-Brasil)
+- [Mãe de Jair Bolsonaro morre aos 94 anos](https://www.nexojornal.com.br/extra/2022/01/21/M%C3%A3e-de-Jair-Bolsonaro-morre-aos-94-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
