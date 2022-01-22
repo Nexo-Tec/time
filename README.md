@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ministério da Saúde inclui Coronavac na campanha infantil](https://www.nexojornal.com.br/extra/2022/01/22/Minist%C3%A9rio-da-Sa%C3%BAde-inclui-Coronavac-na-campanha-infantil)
+- [O Telegram no centro das preocupações nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/01/21/O-Telegram-no-centro-das-preocupa%C3%A7%C3%B5es-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Reduzir os casos de feminicídio: um desafio para 2022](https://www.nexojornal.com.br/colunistas/tribuna/2022/Reduzir-os-casos-de-feminic%C3%ADdio-um-desafio-para-2022)
+- [Quais foram os efeitos da pandemia na onda populista mundial](https://www.nexojornal.com.br/expresso/2022/01/21/Quais-foram-os-efeitos-da-pandemia-na-onda-populista-mundial)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/01/21/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [O poema inédito de Mario Quintana achado por um livreiro](https://www.nexojornal.com.br/expresso/2022/01/21/O-poema-in%C3%A9dito-de-Mario-Quintana-achado-por-um-livreiro)
-- [Como preparativos relacionados à morte amenizam o luto](https://www.nexojornal.com.br/externo/2022/01/21/Como-preparativos-relacionados-%C3%A0-morte-amenizam-o-luto)
-- [Carnaval: SP e Rio adiam desfiles de samba para abril](https://www.nexojornal.com.br/extra/2022/01/21/Carnaval-SP-e-Rio-adiam-desfiles-de-samba-para-abril)
-- [O que é racismo religioso. E qual seu efeito nas crianças](https://www.nexojornal.com.br/expresso/2022/01/21/O-que-%C3%A9-racismo-religioso.-E-qual-seu-efeito-nas-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
