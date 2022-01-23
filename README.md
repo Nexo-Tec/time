@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministério da Saúde inclui Coronavac na campanha infantil](https://www.nexojornal.com.br/extra/2022/01/22/Minist%C3%A9rio-da-Sa%C3%BAde-inclui-Coronavac-na-campanha-infantil)
-- [O Telegram no centro das preocupações nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/01/21/O-Telegram-no-centro-das-preocupa%C3%A7%C3%B5es-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Reduzir os casos de feminicídio: um desafio para 2022](https://www.nexojornal.com.br/colunistas/tribuna/2022/Reduzir-os-casos-de-feminic%C3%ADdio-um-desafio-para-2022)
-- [Quais foram os efeitos da pandemia na onda populista mundial](https://www.nexojornal.com.br/expresso/2022/01/21/Quais-foram-os-efeitos-da-pandemia-na-onda-populista-mundial)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/01/21/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Bia Haddad é 1ª brasileira nas quartas do Aberto da Austrália](https://www.nexojornal.com.br/extra/2022/01/23/Bia-Haddad-%C3%A9-1%C2%AA-brasileira-nas-quartas-do-Aberto-da-Austr%C3%A1lia)
+- [Cidade de SP tem 2,7 mil profissionais da saúde afastados por covid](https://www.nexojornal.com.br/extra/2022/01/23/Cidade-de-SP-tem-27-mil-profissionais-da-sa%C3%BAde-afastados-por-covid)
+- [O que a alta de casos indica sobre os rumos da pandemia no Brasil](https://www.nexojornal.com.br/expresso/2022/01/23/O-que-a-alta-de-casos-indica-sobre-os-rumos-da-pandemia-no-Brasil)
+- [Antonio Risério e o falso fundamentalismo identitário](https://www.nexojornal.com.br/ensaio/2022/Antonio-Ris%C3%A9rio-e-o-falso-fundamentalismo-identit%C3%A1rio)
+- [Justiça baiana reconhece isenção tributária de terreiros](https://www.nexojornal.com.br/extra/2022/01/22/Justi%C3%A7a-baiana-reconhece-isen%C3%A7%C3%A3o-tribut%C3%A1ria-de-terreiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
