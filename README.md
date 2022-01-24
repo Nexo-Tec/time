@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Europa e EUA reagem às ameaças da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/01/24/Como-Europa-e-EUA-reagem-%C3%A0s-amea%C3%A7as-da-R%C3%BAssia-na-Ucr%C3%A2nia)
-- [Ataque a tiros em universidade na Alemanha deixa 4 feridos](https://www.nexojornal.com.br/extra/2022/01/24/Ataque-a-tiros-em-universidade-na-Alemanha-deixa-4-feridos)
-- [Da assistência à educação: a evolução do papel das creches](https://www.nexojornal.com.br/expresso/2022/01/24/Da-assist%C3%AAncia-%C3%A0-educa%C3%A7%C3%A3o-a-evolu%C3%A7%C3%A3o-do-papel-das-creches)
-- [Helicóptero do Ibama é incendiado em ataque em Manaus](https://www.nexojornal.com.br/extra/2022/01/24/Helic%C3%B3ptero-do-Ibama-%C3%A9-incendiado-em-ataque-em-Manaus)
-- [Ministério da Saúde prorroga custeio de UTIs para covid-19](https://www.nexojornal.com.br/extra/2022/01/24/Minist%C3%A9rio-da-Sa%C3%BAde-prorroga-custeio-de-UTIs-para-covid-19)
+- [A indústria da ineficiência nos serviços públicos](https://www.nexojornal.com.br/ensaio/2022/A-ind%C3%BAstria-da-inefici%C3%AAncia-nos-servi%C3%A7os-p%C3%BAblicos)
+- [Como funciona a aliança militar de ex-repúblicas soviéticas](https://www.nexojornal.com.br/expresso/2022/01/23/Como-funciona-a-alian%C3%A7a-militar-de-ex-rep%C3%BAblicas-sovi%C3%A9ticas)
+- [Pequim registra 72 casos de covid em envolvidos na Olimpíada](https://www.nexojornal.com.br/extra/2022/01/23/Pequim-registra-72-casos-de-covid-em-envolvidos-na-Olimp%C3%ADada)
+- [Incêndio por fogos de artifício deixa mortos em boate em Camarões](https://www.nexojornal.com.br/extra/2022/01/23/Inc%C3%AAndio-por-fogos-de-artif%C3%ADcio-deixa-mortos-em-boate-em-Camar%C3%B5es)
+- [Bia Haddad é 1ª brasileira nas quartas do Aberto da Austrália](https://www.nexojornal.com.br/extra/2022/01/23/Bia-Haddad-%C3%A9-1%C2%AA-brasileira-nas-quartas-do-Aberto-da-Austr%C3%A1lia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
