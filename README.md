@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bia Haddad é 1ª brasileira nas quartas do Aberto da Austrália](https://www.nexojornal.com.br/extra/2022/01/23/Bia-Haddad-%C3%A9-1%C2%AA-brasileira-nas-quartas-do-Aberto-da-Austr%C3%A1lia)
-- [Cidade de SP tem 2,7 mil profissionais da saúde afastados por covid](https://www.nexojornal.com.br/extra/2022/01/23/Cidade-de-SP-tem-27-mil-profissionais-da-sa%C3%BAde-afastados-por-covid)
-- [O que a alta de casos indica sobre os rumos da pandemia no Brasil](https://www.nexojornal.com.br/expresso/2022/01/23/O-que-a-alta-de-casos-indica-sobre-os-rumos-da-pandemia-no-Brasil)
-- [Antonio Risério e o falso fundamentalismo identitário](https://www.nexojornal.com.br/ensaio/2022/Antonio-Ris%C3%A9rio-e-o-falso-fundamentalismo-identit%C3%A1rio)
-- [Justiça baiana reconhece isenção tributária de terreiros](https://www.nexojornal.com.br/extra/2022/01/22/Justi%C3%A7a-baiana-reconhece-isen%C3%A7%C3%A3o-tribut%C3%A1ria-de-terreiros)
+- [Como Europa e EUA reagem às ameaças da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/01/24/Como-Europa-e-EUA-reagem-%C3%A0s-amea%C3%A7as-da-R%C3%BAssia-na-Ucr%C3%A2nia)
+- [Ataque a tiros em universidade na Alemanha deixa 4 feridos](https://www.nexojornal.com.br/extra/2022/01/24/Ataque-a-tiros-em-universidade-na-Alemanha-deixa-4-feridos)
+- [Da assistência à educação: a evolução do papel das creches](https://www.nexojornal.com.br/expresso/2022/01/24/Da-assist%C3%AAncia-%C3%A0-educa%C3%A7%C3%A3o-a-evolu%C3%A7%C3%A3o-do-papel-das-creches)
+- [Helicóptero do Ibama é incendiado em ataque em Manaus](https://www.nexojornal.com.br/extra/2022/01/24/Helic%C3%B3ptero-do-Ibama-%C3%A9-incendiado-em-ataque-em-Manaus)
+- [Ministério da Saúde prorroga custeio de UTIs para covid-19](https://www.nexojornal.com.br/extra/2022/01/24/Minist%C3%A9rio-da-Sa%C3%BAde-prorroga-custeio-de-UTIs-para-covid-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
