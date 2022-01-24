@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Congestão nasal, melancolia e vodca](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/congestao-nasal-melancolia-e-vodca/)
 - [@emilymariko](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/emilymariko/)
 - [‘Comer pimenta traz prazer e euforia’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/saiba-tudo-sobre-as-pimentas-brasileiras/)
 - [Maeve Jinkings](https://gamarevista.uol.com.br/pessoas/questionario-proust/maeve-jinkings/)
 - [Pode misturar cerveja e vinho?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/pode-misturar-cerveja-e-vinho/)
-- [O Contador de Histórias](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-contador-de-historias/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
