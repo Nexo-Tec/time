@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Europa e EUA reagem às ameaças da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/01/24/Como-Europa-e-EUA-reagem-%C3%A0s-amea%C3%A7as-da-R%C3%BAssia-na-Ucr%C3%A2nia)
-- [Ataque a tiros em universidade na Alemanha deixa 4 feridos](https://www.nexojornal.com.br/extra/2022/01/24/Ataque-a-tiros-em-universidade-na-Alemanha-deixa-4-feridos)
-- [Da assistência à educação: a evolução do papel das creches](https://www.nexojornal.com.br/expresso/2022/01/24/Da-assist%C3%AAncia-%C3%A0-educa%C3%A7%C3%A3o-a-evolu%C3%A7%C3%A3o-do-papel-das-creches)
-- [Helicóptero do Ibama é incendiado em ataque em Manaus](https://www.nexojornal.com.br/extra/2022/01/24/Helic%C3%B3ptero-do-Ibama-%C3%A9-incendiado-em-ataque-em-Manaus)
-- [Ministério da Saúde prorroga custeio de UTIs para covid-19](https://www.nexojornal.com.br/extra/2022/01/24/Minist%C3%A9rio-da-Sa%C3%BAde-prorroga-custeio-de-UTIs-para-covid-19)
+- [Minas mantém barragens com risco 3 anos após Brumadinho](https://www.nexojornal.com.br/extra/2022/01/24/Minas-mant%C3%A9m-barragens-com-risco-3-anos-ap%C3%B3s-Brumadinho)
+- [Como a falta de saneamento prejudica a primeira infância](https://www.nexojornal.com.br/expresso/2022/01/24/Como-a-falta-de-saneamento-prejudica-a-primeira-inf%C3%A2ncia)
+- [A superciclovia que cobrirá a cidade de Milão até 2035](https://www.nexojornal.com.br/expresso/2022/01/24/A-superciclovia-que-cobrir%C3%A1-a-cidade-de-Mil%C3%A3o-at%C3%A9-2035)
+- [SP comemora 468 anos com série de eventos culturais gratuitos](https://www.nexojornal.com.br/extra/2022/01/24/SP-comemora-468-anos-com-s%C3%A9rie-de-eventos-culturais-gratuitos)
+- [O jogo que testa seu conhecimento sobre datas históricas](https://www.nexojornal.com.br/expresso/2022/01/24/O-jogo-que-testa-seu-conhecimento-sobre-datas-hist%C3%B3ricas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
