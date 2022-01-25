@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Europa e EUA reagem às ameaças da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/01/24/Como-Europa-e-EUA-reagem-%C3%A0s-amea%C3%A7as-da-R%C3%BAssia-na-Ucr%C3%A2nia)
-- [Ataque a tiros em universidade na Alemanha deixa 4 feridos](https://www.nexojornal.com.br/extra/2022/01/24/Ataque-a-tiros-em-universidade-na-Alemanha-deixa-4-feridos)
-- [Da assistência à educação: a evolução do papel das creches](https://www.nexojornal.com.br/expresso/2022/01/24/Da-assist%C3%AAncia-%C3%A0-educa%C3%A7%C3%A3o-a-evolu%C3%A7%C3%A3o-do-papel-das-creches)
-- [Helicóptero do Ibama é incendiado em ataque em Manaus](https://www.nexojornal.com.br/extra/2022/01/24/Helic%C3%B3ptero-do-Ibama-%C3%A9-incendiado-em-ataque-em-Manaus)
-- [Ministério da Saúde prorroga custeio de UTIs para covid-19](https://www.nexojornal.com.br/extra/2022/01/24/Minist%C3%A9rio-da-Sa%C3%BAde-prorroga-custeio-de-UTIs-para-covid-19)
+- [Governo reduz para 10 dias afastamento por covid no trabalho](https://www.nexojornal.com.br/extra/2022/01/25/Governo-reduz-para-10-dias-afastamento-por-covid-no-trabalho)
+- [Como Alckmin reedita divergências entre PT e Lula sobre vices](https://www.nexojornal.com.br/expresso/2022/01/25/Como-Alckmin-reedita-diverg%C3%AAncias-entre-PT-e-Lula-sobre-vices)
+- [FMI prevê crescimento do Brasil próximo de zero em 2022](https://www.nexojornal.com.br/extra/2022/01/25/FMI-prev%C3%AA-crescimento-do-Brasil-pr%C3%B3ximo-de-zero-em-2022)
+- [Biden ofende jornalista da Fox sem perceber microfone ligado](https://www.nexojornal.com.br/extra/2022/01/25/Biden-ofende-jornalista-da-Fox-sem-perceber-microfone-ligado)
+- [Site do Banco Central fica instável por sobrecarga de novo serviço](https://www.nexojornal.com.br/extra/2022/01/25/Site-do-Banco-Central-fica-inst%C3%A1vel-por-sobrecarga-de-novo-servi%C3%A7o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
