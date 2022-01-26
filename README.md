@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Venda mundial de armas cresceu em 2020, mesmo com pandemia](https://www.nexojornal.com.br/extra/2022/01/26/Venda-mundial-de-armas-cresceu-em-2020-mesmo-com-pandemia)
-- [O histórico do casamento igualitário no Brasil e no mundo](https://www.nexojornal.com.br/grafico/2022/01/25/O-hist%C3%B3rico-do-casamento-igualit%C3%A1rio-no-Brasil-e-no-mundo)
-- [Como a morte de Olavo de Carvalho impacta o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/01/25/Como-a-morte-de-Olavo-de-Carvalho-impacta-o-bolsonarismo)
-- [Golpe de Estado: quais grupos disputam o poder em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/01/25/Golpe-de-Estado-quais-grupos-disputam-o-poder-em-Burkina-Faso)
-- [Por que Moro mantém sigilo sobre seu salário no setor privado](https://www.nexojornal.com.br/expresso/2022/01/25/Por-que-Moro-mant%C3%A9m-sigilo-sobre-seu-sal%C3%A1rio-no-setor-privado)
+- [Governo reduz para 10 dias afastamento por covid no trabalho](https://www.nexojornal.com.br/extra/2022/01/25/Governo-reduz-para-10-dias-afastamento-por-covid-no-trabalho)
+- [Como Alckmin reedita divergências entre PT e Lula sobre vices](https://www.nexojornal.com.br/expresso/2022/01/25/Como-Alckmin-reedita-diverg%C3%AAncias-entre-PT-e-Lula-sobre-vices)
+- [FMI prevê crescimento do Brasil próximo de zero em 2022](https://www.nexojornal.com.br/extra/2022/01/25/FMI-prev%C3%AA-crescimento-do-Brasil-pr%C3%B3ximo-de-zero-em-2022)
+- [Biden ofende jornalista da Fox sem perceber microfone ligado](https://www.nexojornal.com.br/extra/2022/01/25/Biden-ofende-jornalista-da-Fox-sem-perceber-microfone-ligado)
+- [Site do Banco Central fica instável por sobrecarga de novo serviço](https://www.nexojornal.com.br/extra/2022/01/25/Site-do-Banco-Central-fica-inst%C3%A1vel-por-sobrecarga-de-novo-servi%C3%A7o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
