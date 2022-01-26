@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Venda mundial de armas cresceu em 2020, mesmo com pandemia](https://www.nexojornal.com.br/extra/2022/01/26/Venda-mundial-de-armas-cresceu-em-2020-mesmo-com-pandemia)
-- [O histórico do casamento igualitário no Brasil e no mundo](https://www.nexojornal.com.br/grafico/2022/01/25/O-hist%C3%B3rico-do-casamento-igualit%C3%A1rio-no-Brasil-e-no-mundo)
-- [Como a morte de Olavo de Carvalho impacta o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/01/25/Como-a-morte-de-Olavo-de-Carvalho-impacta-o-bolsonarismo)
-- [Golpe de Estado: quais grupos disputam o poder em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/01/25/Golpe-de-Estado-quais-grupos-disputam-o-poder-em-Burkina-Faso)
-- [Por que Moro mantém sigilo sobre seu salário no setor privado](https://www.nexojornal.com.br/expresso/2022/01/25/Por-que-Moro-mant%C3%A9m-sigilo-sobre-seu-sal%C3%A1rio-no-setor-privado)
+- [Combustíveis: estados decidem prorrogar congelamento do ICMS](https://www.nexojornal.com.br/extra/2022/01/26/Combust%C3%ADveis-estados-decidem-prorrogar-congelamento-do-ICMS)
+- [‘Clube da luta’ tem final alterado em plataforma de vídeo chinesa](https://www.nexojornal.com.br/extra/2022/01/26/%E2%80%98Clube-da-luta%E2%80%99-tem-final-alterado-em-plataforma-de-v%C3%ADdeo-chinesa)
+- [Surdez na escola: os passos da inclusão na educação infantil](https://www.nexojornal.com.br/expresso/2022/01/26/Surdez-na-escola-os-passos-da-inclus%C3%A3o-na-educa%C3%A7%C3%A3o-infantil)
+- [Como o ‘partygate’ ameaça o primeiro-ministro britânico](https://www.nexojornal.com.br/expresso/2022/01/26/Como-o-%E2%80%98partygate%E2%80%99-amea%C3%A7a-o-primeiro-ministro-brit%C3%A2nico)
+- [IBGE: prévia da inflação fica acima do esperado em janeiro](https://www.nexojornal.com.br/extra/2022/01/26/IBGE-pr%C3%A9via-da-infla%C3%A7%C3%A3o-fica-acima-do-esperado-em-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
