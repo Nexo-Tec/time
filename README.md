@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O jornalismo que a Folha quer preservar](https://gamarevista.uol.com.br/colunistas/bianca-santana/o-jornalismo-que-a-folha-quer-preservar/)
 - [Dicas para uma casa mais organizada em 2022](https://gamarevista.uol.com.br/estilo-de-vida/bem-estar/dicas-para-uma-casa-mais-organizada-em-2022/)
 - [Smartwatch Garmin Forerunner](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garmin-forerunner-55/)
 - [Congestão nasal, melancolia e vodca](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/congestao-nasal-melancolia-e-vodca/)
 - [@emilymariko](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/emilymariko/)
-- [‘Comer pimenta traz prazer e euforia’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/saiba-tudo-sobre-as-pimentas-brasileiras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
