@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Combustíveis: estados decidem prorrogar congelamento do ICMS](https://www.nexojornal.com.br/extra/2022/01/26/Combust%C3%ADveis-estados-decidem-prorrogar-congelamento-do-ICMS)
-- [‘Clube da luta’ tem final alterado em plataforma de vídeo chinesa](https://www.nexojornal.com.br/extra/2022/01/26/%E2%80%98Clube-da-luta%E2%80%99-tem-final-alterado-em-plataforma-de-v%C3%ADdeo-chinesa)
-- [Surdez na escola: os passos da inclusão na educação infantil](https://www.nexojornal.com.br/expresso/2022/01/26/Surdez-na-escola-os-passos-da-inclus%C3%A3o-na-educa%C3%A7%C3%A3o-infantil)
-- [Como o ‘partygate’ ameaça o primeiro-ministro britânico](https://www.nexojornal.com.br/expresso/2022/01/26/Como-o-%E2%80%98partygate%E2%80%99-amea%C3%A7a-o-primeiro-ministro-brit%C3%A2nico)
-- [IBGE: prévia da inflação fica acima do esperado em janeiro](https://www.nexojornal.com.br/extra/2022/01/26/IBGE-pr%C3%A9via-da-infla%C3%A7%C3%A3o-fica-acima-do-esperado-em-janeiro)
+- [O peso dos não vacinados na onda causada pela ômicron](https://www.nexojornal.com.br/expresso/2022/01/26/O-peso-dos-n%C3%A3o-vacinados-na-onda-causada-pela-%C3%B4micron)
+- [Voo de deportados chega ao Brasil com número inédito de jovens](https://www.nexojornal.com.br/extra/2022/01/26/Voo-de-deportados-chega-ao-Brasil-com-n%C3%BAmero-in%C3%A9dito-de-jovens)
+- [Justiça manda investigar caso de mulher que xingou Bolsonaro](https://www.nexojornal.com.br/extra/2022/01/26/Justi%C3%A7a-manda-investigar-caso-de-mulher-que-xingou-Bolsonaro)
+- [Qual a produção de petróleo dos estados brasileiros](https://www.nexojornal.com.br/grafico/2022/01/26/Qual-a-produ%C3%A7%C3%A3o-de-petr%C3%B3leo-dos-estados-brasileiros)
+- [Os níveis de autonomia das Defensorias latino-americanas](https://www.nexojornal.com.br/academico/2022/01/26/Os-n%C3%ADveis-de-autonomia-das-Defensorias-latino-americanas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
