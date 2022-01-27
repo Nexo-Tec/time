@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [‘Quantas Vezes Você Já Foi Amado?’, novo álbum do Baco Exu do Blues](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/quantas-vezes-voce-ja-foi-amado-novo-album-do-baco-exu-do-blues/)
+- [‘Quantas Vezes Você Já Foi Amado?’, novo álbum de Baco Exu do Blues](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/quantas-vezes-voce-ja-foi-amado-novo-album-do-baco-exu-do-blues/)
 - [O filme ‘Fortaleza Hotel’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-filme-fortaleza-hotel/)
 - [A exposição ‘Arqueologia Amorosa de São Paulo’](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-arqueologia-amorosa-de-sao-paulo/)
 - [‘Arrastados’, livro de Daniela Arbex sobre a tragédia de Brumadinho](https://gamarevista.uol.com.br/achamos-que-vale/ler/arrastados-livro-de-daniela-arbex-sobre-a-tragedia-de-brumadinho/)
