@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A exposição ‘Arqueologia Amorosa de São Paulo’](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-arqueologia-amorosa-de-sao-paulo/)
+- [‘Arrastados’, livro de Daniela Arbex sobre a tragédia de Brumadinho](https://gamarevista.uol.com.br/achamos-que-vale/ler/arrastados-livro-de-daniela-arbex-sobre-a-tragedia-de-brumadinho/)
+- [A quarta e última temporada de ‘The Sinner’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-quarta-e-ultima-temporada-de-the-sinner/)
 - [CV: Mini Kerti](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-mini-kerti/)
 - [O jornalismo que a Folha quer preservar](https://gamarevista.uol.com.br/colunistas/bianca-santana/o-jornalismo-que-a-folha-quer-preservar/)
-- [Dicas para uma casa mais organizada em 2022](https://gamarevista.uol.com.br/estilo-de-vida/bem-estar/dicas-para-uma-casa-mais-organizada-em-2022/)
-- [Smartwatch Garmin Forerunner](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garmin-forerunner-55/)
-- [Congestão nasal, melancolia e vodca](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/congestao-nasal-melancolia-e-vodca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
