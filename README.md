@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Venda mundial de armas cresceu em 2020, mesmo com pandemia](https://www.nexojornal.com.br/extra/2022/01/26/Venda-mundial-de-armas-cresceu-em-2020-mesmo-com-pandemia)
-- [O histórico do casamento igualitário no Brasil e no mundo](https://www.nexojornal.com.br/grafico/2022/01/25/O-hist%C3%B3rico-do-casamento-igualit%C3%A1rio-no-Brasil-e-no-mundo)
-- [Como a morte de Olavo de Carvalho impacta o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/01/25/Como-a-morte-de-Olavo-de-Carvalho-impacta-o-bolsonarismo)
-- [Golpe de Estado: quais grupos disputam o poder em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/01/25/Golpe-de-Estado-quais-grupos-disputam-o-poder-em-Burkina-Faso)
-- [Por que Moro mantém sigilo sobre seu salário no setor privado](https://www.nexojornal.com.br/expresso/2022/01/25/Por-que-Moro-mant%C3%A9m-sigilo-sobre-seu-sal%C3%A1rio-no-setor-privado)
+- [O peso dos não vacinados na onda causada pela ômicron](https://www.nexojornal.com.br/expresso/2022/01/26/O-peso-dos-n%C3%A3o-vacinados-na-onda-causada-pela-%C3%B4micron)
+- [Voo de deportados chega ao Brasil com número inédito de jovens](https://www.nexojornal.com.br/extra/2022/01/26/Voo-de-deportados-chega-ao-Brasil-com-n%C3%BAmero-in%C3%A9dito-de-jovens)
+- [Justiça manda investigar caso de mulher que xingou Bolsonaro](https://www.nexojornal.com.br/extra/2022/01/26/Justi%C3%A7a-manda-investigar-caso-de-mulher-que-xingou-Bolsonaro)
+- [Qual a produção de petróleo dos estados brasileiros](https://www.nexojornal.com.br/grafico/2022/01/26/Qual-a-produ%C3%A7%C3%A3o-de-petr%C3%B3leo-dos-estados-brasileiros)
+- [Os níveis de autonomia das Defensorias latino-americanas](https://www.nexojornal.com.br/academico/2022/01/26/Os-n%C3%ADveis-de-autonomia-das-Defensorias-latino-americanas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
