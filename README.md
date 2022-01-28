@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O peso dos não vacinados na onda causada pela ômicron](https://www.nexojornal.com.br/expresso/2022/01/26/O-peso-dos-n%C3%A3o-vacinados-na-onda-causada-pela-%C3%B4micron)
-- [Voo de deportados chega ao Brasil com número inédito de jovens](https://www.nexojornal.com.br/extra/2022/01/26/Voo-de-deportados-chega-ao-Brasil-com-n%C3%BAmero-in%C3%A9dito-de-jovens)
-- [Justiça manda investigar caso de mulher que xingou Bolsonaro](https://www.nexojornal.com.br/extra/2022/01/26/Justi%C3%A7a-manda-investigar-caso-de-mulher-que-xingou-Bolsonaro)
-- [Qual a produção de petróleo dos estados brasileiros](https://www.nexojornal.com.br/grafico/2022/01/26/Qual-a-produ%C3%A7%C3%A3o-de-petr%C3%B3leo-dos-estados-brasileiros)
-- [Os níveis de autonomia das Defensorias latino-americanas](https://www.nexojornal.com.br/academico/2022/01/26/Os-n%C3%ADveis-de-autonomia-das-Defensorias-latino-americanas)
+- [Brasil registra 662 mortes por covid em 24h, pior marca desde outubro](https://www.nexojornal.com.br/extra/2022/01/27/Brasil-registra-662-mortes-por-covid-em-24h-pior-marca-desde-outubro)
+- [As desventuras em série do processo orçamentário da União](https://www.nexojornal.com.br/colunistas/2022/As-desventuras-em-s%C3%A9rie-do-processo-or%C3%A7ament%C3%A1rio-da-Uni%C3%A3o)
+- [Manchas de óleo atingem 12 praias no litoral do Ceará](https://www.nexojornal.com.br/extra/2022/01/27/Manchas-de-%C3%B3leo-atingem-12-praias-no-litoral-do-Cear%C3%A1)
+- [Como a esquerda deve lidar com o ‘fantasma do comunismo’](https://www.nexojornal.com.br/expresso/2022/01/27/Como-a-esquerda-deve-lidar-com-o-%E2%80%98fantasma-do-comunismo%E2%80%99)
+- [HQ sobre extermínio judeu é proibida em escolas dos EUA](https://www.nexojornal.com.br/extra/2022/01/27/HQ-sobre-exterm%C3%ADnio-judeu-%C3%A9-proibida-em-escolas-dos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
