@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O ranking que mede a qualidade do Estado de Direito nos países](https://www.nexojornal.com.br/expresso/2022/01/27/O-ranking-que-mede-a-qualidade-do-Estado-de-Direito-nos-pa%C3%ADses)
-- [A mobilização em torno do passaporte vacinal na volta às aulas](https://www.nexojornal.com.br/expresso/2022/01/27/A-mobiliza%C3%A7%C3%A3o-em-torno-do-passaporte-vacinal-na-volta-%C3%A0s-aulas)
 - [Brasil registra 662 mortes por covid em 24h, pior marca desde outubro](https://www.nexojornal.com.br/extra/2022/01/27/Brasil-registra-662-mortes-por-covid-em-24h-pior-marca-desde-outubro)
 - [As desventuras em série do processo orçamentário da União](https://www.nexojornal.com.br/colunistas/2022/As-desventuras-em-s%C3%A9rie-do-processo-or%C3%A7ament%C3%A1rio-da-Uni%C3%A3o)
 - [Manchas de óleo atingem 12 praias no litoral do Ceará](https://www.nexojornal.com.br/extra/2022/01/27/Manchas-de-%C3%B3leo-atingem-12-praias-no-litoral-do-Cear%C3%A1)
+- [Como a esquerda deve lidar com o ‘fantasma do comunismo’](https://www.nexojornal.com.br/expresso/2022/01/27/Como-a-esquerda-deve-lidar-com-o-%E2%80%98fantasma-do-comunismo%E2%80%99)
+- [HQ sobre extermínio judeu é proibida em escolas dos EUA](https://www.nexojornal.com.br/extra/2022/01/27/HQ-sobre-exterm%C3%ADnio-judeu-%C3%A9-proibida-em-escolas-dos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
