@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Democracia e redução das desigualdades](https://pp.nexojornal.com.br/glossario/Democracia-e-redu%C3%A7%C3%A3o-das-desigualdades)
-- [5 pontos sobre desigualdades raciais e os impactos da pandemia](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/5-pontos-sobre-desigualdades-raciais-e-os-impactos-da-pandemia)
-- [Conservação e uso da geodiversidade e do geopatrimônio](https://pp.nexojornal.com.br/glossario/Conserva%C3%A7%C3%A3o-e-uso-da-geodiversidade-e-do-geopatrim%C3%B4nio)
-- [Patrimônio Afro-Brasileiro e o direito à memória](https://pp.nexojornal.com.br/opiniao/2022/Patrim%C3%B4nio-Afro-Brasileiro-e-o-direito-%C3%A0-mem%C3%B3ria)
 - [Paridade constitucional de gênero: o contexto histórico do caso chileno](https://pp.nexojornal.com.br/ponto-de-vista/2022/Paridade-constitucional-de-g%C3%AAnero-o-contexto-hist%C3%B3rico-do-caso-chileno)
+- [O papel do metano no aquecimento global e a COP26](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-do-metano-no-aquecimento-global-e-a-COP26)
+- [Para 2022: mulheres e Lei Maria da Penha protegidas!](https://pp.nexojornal.com.br/opiniao/2022/Para-2022-mulheres-e-Lei-Maria-da-Penha-protegidas)
+- [Eliana Mazzucato: geossítios e as mudanças climáticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/01/13/Eliana-Mazzucato-geoss%C3%ADtios-e-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [A infodemia e o apagão de dados da saúde que resultam em mortes evitáveis](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-infodemia-e-o-apag%C3%A3o-de-dados-da-sa%C3%BAde-que-resultam-em-mortes-evit%C3%A1veis)
 <!-- PP_LIST:END -->
 
