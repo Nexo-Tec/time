@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil registra 662 mortes por covid em 24h, pior marca desde outubro](https://www.nexojornal.com.br/extra/2022/01/27/Brasil-registra-662-mortes-por-covid-em-24h-pior-marca-desde-outubro)
-- [As desventuras em série do processo orçamentário da União](https://www.nexojornal.com.br/colunistas/2022/As-desventuras-em-s%C3%A9rie-do-processo-or%C3%A7ament%C3%A1rio-da-Uni%C3%A3o)
-- [Manchas de óleo atingem 12 praias no litoral do Ceará](https://www.nexojornal.com.br/extra/2022/01/27/Manchas-de-%C3%B3leo-atingem-12-praias-no-litoral-do-Cear%C3%A1)
-- [Como a esquerda deve lidar com o ‘fantasma do comunismo’](https://www.nexojornal.com.br/expresso/2022/01/27/Como-a-esquerda-deve-lidar-com-o-%E2%80%98fantasma-do-comunismo%E2%80%99)
-- [HQ sobre extermínio judeu é proibida em escolas dos EUA](https://www.nexojornal.com.br/extra/2022/01/27/HQ-sobre-exterm%C3%ADnio-judeu-%C3%A9-proibida-em-escolas-dos-EUA)
+- [Quais os cálculos de Bolsonaro ao descumprir a ordem de Moraes](https://www.nexojornal.com.br/expresso/2022/01/28/Quais-os-c%C3%A1lculos-de-Bolsonaro-ao-descumprir-a-ordem-de-Moraes)
+- [Como vai funcionar o uso dos autotestes de covid no Brasil](https://www.nexojornal.com.br/expresso/2022/01/28/Como-vai-funcionar-o-uso-dos-autotestes-de-covid-no-Brasil)
+- [Qual o papel de Linn da Quebrada no BBB para a visibilidade trans](https://www.nexojornal.com.br/expresso/2022/01/28/Qual-o-papel-de-Linn-da-Quebrada-no-BBB-para-a-visibilidade-trans)
+- [Os relatos de famílias que dão autonomia de gênero aos filhos](https://www.nexojornal.com.br/expresso/2022/01/28/Os-relatos-de-fam%C3%ADlias-que-d%C3%A3o-autonomia-de-g%C3%AAnero-aos-filhos)
+- [Brasil ultrapassa 25 milhões de infecções na pandemia de covid](https://www.nexojornal.com.br/extra/2022/01/28/Brasil-ultrapassa-25-milh%C3%B5es-de-infec%C3%A7%C3%B5es-na-pandemia-de-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
