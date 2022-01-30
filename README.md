@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Claudia Feitosa-Santana: “Você não precisa ver todas as facetas de seus amigos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/claudia-feitosa-santana-fala-sobre-empatia-e-a-necessidade-de-ouvir-nas-relacoes-de-amizade/)
 - [Renata Gaspar](https://gamarevista.uol.com.br/pessoas/questionario-proust/renata-gaspar/)
 - [Dia Garimpo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/dia-garimpo/)
 - [Gama indica: 6 HQs nacionais](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/gama-indica-6-hqs-nacionais/)
 - [‘Quantas Vezes Você Já Foi Amado?’, novo álbum de Baco Exu do Blues](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/quantas-vezes-voce-ja-foi-amado-novo-album-do-baco-exu-do-blues/)
-- [O filme ‘Fortaleza Hotel’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-filme-fortaleza-hotel/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
