@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Com grupos neonazistas armados, eleição vai ser violenta’](https://www.nexojornal.com.br/entrevista/2022/01/29/%E2%80%98Com-grupos-neonazistas-armados-elei%C3%A7%C3%A3o-vai-ser-violenta%E2%80%991)
-- [Bolsonaro cita ‘direito de ausência’ para faltar à depoimento](https://www.nexojornal.com.br/extra/2022/01/29/Bolsonaro-cita-%E2%80%98direito-de-aus%C3%AAncia%E2%80%99-para-faltar-%C3%A0-depoimento)
-- [Quais as perspectivas para o emprego em 2022](https://www.nexojornal.com.br/expresso/2022/01/29/Quais-as-perspectivas-para-o-emprego-em-2022)
-- [Corrida presidencial já conta com 12 pré-candidatos](https://www.nexojornal.com.br/extra/2022/01/29/Corrida-presidencial-j%C3%A1-conta-com-12-pr%C3%A9-candidatos)
-- [Joni Mitchell anuncia que removerá suas canções do Spotify](https://www.nexojornal.com.br/extra/2022/01/29/Joni-Mitchell-anuncia-que-remover%C3%A1-suas-can%C3%A7%C3%B5es-do-Spotify)
+- [O livro que resgata a correspondência entre Marx e Lincoln](https://www.nexojornal.com.br/expresso/2022/01/29/O-livro-que-resgata-a-correspond%C3%AAncia-entre-Marx-e-Lincoln)
+- [Como o estigma de ter pais encarcerados afeta crianças](https://www.nexojornal.com.br/expresso/2022/01/29/Como-o-estigma-de-ter-pais-encarcerados-afeta-crian%C3%A7as)
+- [5 livros para ler mais obras escritas por mulheres](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-ler-mais-obras-escritas-por-mulheres)
+- [Como o telejornalismo americano aposta nos streamings](https://www.nexojornal.com.br/expresso/2022/01/29/Como-o-telejornalismo-americano-aposta-nos-streamings)
+- [Transparência na internet e a cabra-cega em ano eleitoral](https://www.nexojornal.com.br/ensaio/2022/Transpar%C3%AAncia-na-internet-e-a-cabra-cega-em-ano-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
