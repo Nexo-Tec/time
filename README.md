@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os cálculos de Bolsonaro ao descumprir a ordem de Moraes](https://www.nexojornal.com.br/expresso/2022/01/28/Quais-os-c%C3%A1lculos-de-Bolsonaro-ao-descumprir-a-ordem-de-Moraes)
-- [Como vai funcionar o uso dos autotestes de covid no Brasil](https://www.nexojornal.com.br/expresso/2022/01/28/Como-vai-funcionar-o-uso-dos-autotestes-de-covid-no-Brasil)
-- [Qual o papel de Linn da Quebrada no BBB para a visibilidade trans](https://www.nexojornal.com.br/expresso/2022/01/28/Qual-o-papel-de-Linn-da-Quebrada-no-BBB-para-a-visibilidade-trans)
-- [Os relatos de famílias que dão autonomia de gênero aos filhos](https://www.nexojornal.com.br/expresso/2022/01/28/Os-relatos-de-fam%C3%ADlias-que-d%C3%A3o-autonomia-de-g%C3%AAnero-aos-filhos)
-- [Brasil ultrapassa 25 milhões de infecções na pandemia de covid](https://www.nexojornal.com.br/extra/2022/01/28/Brasil-ultrapassa-25-milh%C3%B5es-de-infec%C3%A7%C3%B5es-na-pandemia-de-covid)
+- [‘Com grupos neonazistas armados, eleição vai ser violenta’](https://www.nexojornal.com.br/entrevista/2022/01/29/%E2%80%98Com-grupos-neonazistas-armados-elei%C3%A7%C3%A3o-vai-ser-violenta%E2%80%991)
+- [Bolsonaro cita ‘direito de ausência’ para faltar à depoimento](https://www.nexojornal.com.br/extra/2022/01/29/Bolsonaro-cita-%E2%80%98direito-de-aus%C3%AAncia%E2%80%99-para-faltar-%C3%A0-depoimento)
+- [Quais as perspectivas para o emprego em 2022](https://www.nexojornal.com.br/expresso/2022/01/29/Quais-as-perspectivas-para-o-emprego-em-2022)
+- [Corrida presidencial já conta com 12 pré-candidatos](https://www.nexojornal.com.br/extra/2022/01/29/Corrida-presidencial-j%C3%A1-conta-com-12-pr%C3%A9-candidatos)
+- [Joni Mitchell anuncia que removerá suas canções do Spotify](https://www.nexojornal.com.br/extra/2022/01/29/Joni-Mitchell-anuncia-que-remover%C3%A1-suas-can%C3%A7%C3%B5es-do-Spotify)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
