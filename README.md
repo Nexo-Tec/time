@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como os partidos agem para ampliar seu espaço na Câmara em 2022](https://www.nexojornal.com.br/expresso/2022/01/30/Como-os-partidos-agem-para-ampliar-seu-espa%C3%A7o-na-C%C3%A2mara-em-2022)
-- [O que estimula o engajamento no trabalho](https://www.nexojornal.com.br/ensaio/2022/O-que-estimula-o-engajamento-no-trabalho)
-- [Ao lado da filha, Sean Penn usa falas machistas e preconceituosas](https://www.nexojornal.com.br/extra/2022/01/30/Ao-lado-da-filha-Sean-Penn-usa-falas-machistas-e-preconceituosas)
-- [Chuvas em SP deixam 18 mortos e centenas de desalojados](https://www.nexojornal.com.br/extra/2022/01/30/Chuvas-em-SP-deixam-18-mortos-e-centenas-de-desalojados)
-- [Nadal supera Federer e Djokovic em número de Grand Slams](https://www.nexojornal.com.br/extra/2022/01/30/Nadal-supera-Federer-e-Djokovic-em-n%C3%BAmero-de-Grand-Slams)
+- [‘Com grupos neonazistas armados, eleição vai ser violenta’](https://www.nexojornal.com.br/entrevista/2022/01/29/%E2%80%98Com-grupos-neonazistas-armados-elei%C3%A7%C3%A3o-vai-ser-violenta%E2%80%991)
+- [Bolsonaro cita ‘direito de ausência’ para faltar à depoimento](https://www.nexojornal.com.br/extra/2022/01/29/Bolsonaro-cita-%E2%80%98direito-de-aus%C3%AAncia%E2%80%99-para-faltar-%C3%A0-depoimento)
+- [Quais as perspectivas para o emprego em 2022](https://www.nexojornal.com.br/expresso/2022/01/29/Quais-as-perspectivas-para-o-emprego-em-2022)
+- [Corrida presidencial já conta com 12 pré-candidatos](https://www.nexojornal.com.br/extra/2022/01/29/Corrida-presidencial-j%C3%A1-conta-com-12-pr%C3%A9-candidatos)
+- [Joni Mitchell anuncia que removerá suas canções do Spotify](https://www.nexojornal.com.br/extra/2022/01/29/Joni-Mitchell-anuncia-que-remover%C3%A1-suas-can%C3%A7%C3%B5es-do-Spotify)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
