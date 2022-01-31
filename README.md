@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Partido Socialista obtém maioria em eleições de Portugal](https://www.nexojornal.com.br/extra/2022/01/30/Partido-Socialista-obt%C3%A9m-maioria-em-elei%C3%A7%C3%B5es-de-Portugal)
-- [Taleban matou dezenas de ex-autoridades afegãs, diz ONU](https://www.nexojornal.com.br/extra/2022/01/30/Taleban-matou-dezenas-de-ex-autoridades-afeg%C3%A3s-diz-ONU)
-- [Faces da imigração: a infância de indígenas venezuelanos no Brasil](https://www.nexojornal.com.br/reportagem/2022/01/30/Faces-da-imigra%C3%A7%C3%A3o-a-inf%C3%A2ncia-de-ind%C3%ADgenas-venezuelanos-no-Brasil)
-- [Como os partidos agem para ampliar seu espaço na Câmara](https://www.nexojornal.com.br/expresso/2022/01/30/Como-os-partidos-agem-para-ampliar-seu-espa%C3%A7o-na-C%C3%A2mara)
-- [O que estimula o engajamento no trabalho](https://www.nexojornal.com.br/ensaio/2022/O-que-estimula-o-engajamento-no-trabalho)
+- [O livro que resgata a correspondência entre Marx e Lincoln](https://www.nexojornal.com.br/expresso/2022/01/29/O-livro-que-resgata-a-correspond%C3%AAncia-entre-Marx-e-Lincoln)
+- [Como o estigma de ter pais encarcerados afeta crianças](https://www.nexojornal.com.br/expresso/2022/01/29/Como-o-estigma-de-ter-pais-encarcerados-afeta-crian%C3%A7as)
+- [5 livros para ler mais obras escritas por mulheres](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-ler-mais-obras-escritas-por-mulheres)
+- [Como o telejornalismo americano aposta nos streamings](https://www.nexojornal.com.br/expresso/2022/01/29/Como-o-telejornalismo-americano-aposta-nos-streamings)
+- [Transparência na internet e a cabra-cega em ano eleitoral](https://www.nexojornal.com.br/ensaio/2022/Transpar%C3%AAncia-na-internet-e-a-cabra-cega-em-ano-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
