@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Chuvas em SP superam média histórica para o mês de janeiro](https://www.nexojornal.com.br/extra/2022/01/31/Chuvas-em-SP-superam-m%C3%A9dia-hist%C3%B3rica-para-o-m%C3%AAs-de-janeiro)
 - [Partido Socialista obtém maioria em eleições de Portugal](https://www.nexojornal.com.br/extra/2022/01/30/Partido-Socialista-obt%C3%A9m-maioria-em-elei%C3%A7%C3%B5es-de-Portugal)
 - [Taleban matou dezenas de ex-autoridades afegãs, diz ONU](https://www.nexojornal.com.br/extra/2022/01/30/Taleban-matou-dezenas-de-ex-autoridades-afeg%C3%A3s-diz-ONU)
 - [Faces da imigração: a infância de indígenas venezuelanos no Brasil](https://www.nexojornal.com.br/reportagem/2022/01/30/Faces-da-imigra%C3%A7%C3%A3o-a-inf%C3%A2ncia-de-ind%C3%ADgenas-venezuelanos-no-Brasil)
 - [Como os partidos agem para ampliar seu espaço na Câmara](https://www.nexojornal.com.br/expresso/2022/01/30/Como-os-partidos-agem-para-ampliar-seu-espa%C3%A7o-na-C%C3%A2mara)
+- [O que estimula o engajamento no trabalho](https://www.nexojornal.com.br/ensaio/2022/O-que-estimula-o-engajamento-no-trabalho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
