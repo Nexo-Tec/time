@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A ômicron tem uma nova versão: por que ela preocupa](https://www.nexojornal.com.br/expresso/2022/01/31/A-%C3%B4micron-tem-uma-nova-vers%C3%A3o-por-que-ela-preocupa)
-- [Mais de 650 mil crianças deixaram a escola na pandemia](https://www.nexojornal.com.br/extra/2022/01/31/Mais-de-650-mil-crian%C3%A7as-deixaram-a-escola-na-pandemia)
-- [Após maus-tratos, girafas importadas voltarão à África do Sul](https://www.nexojornal.com.br/extra/2022/01/31/Ap%C3%B3s-maus-tratos-girafas-importadas-voltar%C3%A3o-%C3%A0-%C3%81frica-do-Sul)
-- [Como a pandemia mudou a relação de empresas com estoques](https://www.nexojornal.com.br/expresso/2022/01/31/Como-a-pandemia-mudou-a-rela%C3%A7%C3%A3o-de-empresas-com-estoques)
-- [Não existe supremacismo negro nem racismo reverso](https://www.nexojornal.com.br/colunistas/2022/N%C3%A3o-existe-supremacismo-negro-nem-racismo-reverso)
+- [‘Ninguém mora em área de deslizamento porque quer’](https://www.nexojornal.com.br/entrevista/2022/02/01/%E2%80%98Ningu%C3%A9m-mora-em-%C3%A1rea-de-deslizamento-porque-quer%E2%80%99)
+- [Polícia prende 3 suspeitos de agredir e matar congolês no Rio](https://www.nexojornal.com.br/extra/2022/02/01/Pol%C3%ADcia-prende-3-suspeitos-de-agredir-e-matar-congol%C3%AAs-no-Rio)
+- [O que move as grandes aquisições de estúdios de games](https://www.nexojornal.com.br/expresso/2022/02/01/O-que-move-as-grandes-aquisi%C3%A7%C3%B5es-de-est%C3%BAdios-de-games)
+- [Metrô de São Paulo: da lentidão das obras aos acidentes](https://www.nexojornal.com.br/expresso/2022/02/01/Metr%C3%B4-de-S%C3%A3o-Paulo-da-lentid%C3%A3o-das-obras-aos-acidentes)
+- [Barroso determina que Funai proteja terras indígenas não homologadas](https://www.nexojornal.com.br/extra/2022/02/01/Barroso-determina-que-Funai-proteja-terras-ind%C3%ADgenas-n%C3%A3o-homologadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
