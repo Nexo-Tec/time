@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que bebe Victoria Beckham?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-bebe-victoria-beckham/)
 - [Borracha de duas cores](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/borracha-de-duas-cores/)
 - [Direito de ausência pra todos](https://gamarevista.uol.com.br/colunistas/fernando-luna/direito-de-ausencia-pra-todos/)
 - [@alksko](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alksko/)
 - [Claudia Feitosa-Santana: “Você não precisa ver todas as facetas de seus amigos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/claudia-feitosa-santana-fala-sobre-empatia-e-a-necessidade-de-ouvir-nas-relacoes-de-amizade/)
-- [Renata Gaspar](https://gamarevista.uol.com.br/pessoas/questionario-proust/renata-gaspar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
