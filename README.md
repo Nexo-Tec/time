@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Pablo Nunes: racismo algorítmico e segurança pública](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/02/02/Pablo-Nunes-racismo-algor%C3%ADtmico-e-seguran%C3%A7a-p%C3%BAblica)
 - [Colaboração entre órgãos públicos: o caminho para a modernização administrativa do Estado](https://pp.nexojornal.com.br/ponto-de-vista/2022/Colabora%C3%A7%C3%A3o-entre-%C3%B3rg%C3%A3os-p%C3%BAblicos-o-caminho-para-a-moderniza%C3%A7%C3%A3o-administrativa-do-Estado)
 - [Democracia e redução das desigualdades](https://pp.nexojornal.com.br/glossario/Democracia-e-redu%C3%A7%C3%A3o-das-desigualdades)
 - [5 pontos sobre desigualdades raciais e os impactos da pandemia](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/5-pontos-sobre-desigualdades-raciais-e-os-impactos-da-pandemia)
 - [Conservação e uso da geodiversidade e do geopatrimônio](https://pp.nexojornal.com.br/glossario/Conserva%C3%A7%C3%A3o-e-uso-da-geodiversidade-e-do-geopatrim%C3%B4nio)
+- [Patrimônio Afro-Brasileiro e o direito à memória](https://pp.nexojornal.com.br/opiniao/2022/Patrim%C3%B4nio-Afro-Brasileiro-e-o-direito-%C3%A0-mem%C3%B3ria)
 <!-- PP_LIST:END -->
 
