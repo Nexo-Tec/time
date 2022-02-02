@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Indústria fecha 2021 abaixo do nível anterior à pandemia](https://www.nexojornal.com.br/extra/2022/02/02/Ind%C3%BAstria-fecha-2021-abaixo-do-n%C3%ADvel-anterior-%C3%A0-pandemia)
+- [Rio: tiros assustam passageiros durante operação policial](https://www.nexojornal.com.br/extra/2022/02/02/Rio-tiros-assustam-passageiros-durante-opera%C3%A7%C3%A3o-policial)
 - [Qual o papel da estabilidade no serviço público do Brasil](https://www.nexojornal.com.br/expresso/2022/02/01/Qual-o-papel-da-estabilidade-no-servi%C3%A7o-p%C3%BAblico-do-Brasil)
 - [‘Ninguém mora em área de deslizamento porque quer’](https://www.nexojornal.com.br/entrevista/2022/02/01/%E2%80%98Ningu%C3%A9m-mora-em-%C3%A1rea-de-deslizamento-porque-quer%E2%80%99)
 - [Polícia prende 3 suspeitos de agredir e matar congolês no Rio](https://www.nexojornal.com.br/extra/2022/02/01/Pol%C3%ADcia-prende-3-suspeitos-de-agredir-e-matar-congol%C3%AAs-no-Rio)
-- [O que move as grandes aquisições de estúdios de games](https://www.nexojornal.com.br/expresso/2022/02/01/O-que-move-as-grandes-aquisi%C3%A7%C3%B5es-de-est%C3%BAdios-de-games)
-- [Metrô de São Paulo: da lentidão das obras aos acidentes](https://www.nexojornal.com.br/expresso/2022/02/01/Metr%C3%B4-de-S%C3%A3o-Paulo-da-lentid%C3%A3o-das-obras-aos-acidentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
