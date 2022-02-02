@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O que bebe Victoria Beckham?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-bebe-victoria-beckham/)
+- [Quero beber como um bom vegetariano](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/quero-beber-como-um-bom-vegetariano/)
 - [Borracha de duas cores](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/borracha-de-duas-cores/)
 - [Direito de ausência pra todos](https://gamarevista.uol.com.br/colunistas/fernando-luna/direito-de-ausencia-pra-todos/)
 - [@alksko](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alksko/)
