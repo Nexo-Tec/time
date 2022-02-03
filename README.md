@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A opção de países pela abertura mesmo com o avanço da ômicron](https://www.nexojornal.com.br/expresso/2022/02/02/A-op%C3%A7%C3%A3o-de-pa%C3%ADses-pela-abertura-mesmo-com-o-avan%C3%A7o-da-%C3%B4micron)
-- [Damares relaciona gravidez precoce ao uso do TikTok](https://www.nexojornal.com.br/extra/2022/02/02/Damares-relaciona-gravidez-precoce-ao-uso-do-TikTok)
-- [‘Centrão pode fazer com Bolsonaro o que fez com Alckmin’](https://www.nexojornal.com.br/entrevista/2022/02/02/%E2%80%98Centr%C3%A3o-pode-fazer-com-Bolsonaro-o-que-fez-com-Alckmin%E2%80%99)
-- [Desnutrição infantil: um problema para a vida toda](https://www.nexojornal.com.br/explicado/2022/02/02/Desnutri%C3%A7%C3%A3o-infantil-um-problema-para-a-vida-toda)
-- [Bolsonaro critica Lula e TSE na abertura do ano legislativo](https://www.nexojornal.com.br/extra/2022/02/02/Bolsonaro-critica-Lula-e-TSE-na-abertura-do-ano-legislativo)
+- [O que faz Bolsonaro ir ao encontro de Putin em Moscou](https://www.nexojornal.com.br/expresso/2022/02/02/O-que-faz-Bolsonaro-ir-ao-encontro-de-Putin-em-Moscou)
+- [Polícia Federal atenua ausência de Bolsonaro em depoimento](https://www.nexojornal.com.br/extra/2022/02/02/Pol%C3%ADcia-Federal-atenua-aus%C3%AAncia-de-Bolsonaro-em-depoimento)
+- [Indústria fecha 2021 abaixo do nível anterior à pandemia](https://www.nexojornal.com.br/extra/2022/02/02/Ind%C3%BAstria-fecha-2021-abaixo-do-n%C3%ADvel-anterior-%C3%A0-pandemia)
+- [Rio: tiros assustam passageiros durante operação policial](https://www.nexojornal.com.br/extra/2022/02/02/Rio-tiros-assustam-passageiros-durante-opera%C3%A7%C3%A3o-policial)
+- [Qual o papel da estabilidade no serviço público do Brasil](https://www.nexojornal.com.br/expresso/2022/02/01/Qual-o-papel-da-estabilidade-no-servi%C3%A7o-p%C3%BAblico-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
