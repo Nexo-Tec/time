@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como falar sobre pornografia com os filhos](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-falar-sobre-pornografia-com-os-filhos/)
-- [Quero beber como um bom vegetariano](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/quero-beber-como-um-bom-vegetariano/)
-- [Borracha de duas cores](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/borracha-de-duas-cores/)
-- [Direito de ausência pra todos](https://gamarevista.uol.com.br/colunistas/fernando-luna/direito-de-ausencia-pra-todos/)
-- [@alksko](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alksko/)
+- [Finalmente “Mães Paralelas”, novo filme de Pedro Almodóvar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/finalmente-maes-paralelas-novo-filme-de-pedro-almodovar/)
+- [Uma cidade que grita no novo disco solo de Fernando Catatau](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-cidade-que-grita-no-novo-disco-solo-de-fernando-catatau/)
+- [No centenário de “Ulisses”, cartas revelam o caos financeiro de James Joyce](https://gamarevista.uol.com.br/achamos-que-vale/ler/no-centenario-de-ulisses-cartas-revelam-o-caos-financeiro-de-james-joyce/)
+- [Um bolo de abóbora, laranja, especiarias e inspiração palestina](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-bolo-de-abobora-laranja-especiarias-e-inspiracao-palestina/)
+- [“Get Back” no topo do prédio e no cinema](https://gamarevista.uol.com.br/achamos-que-vale/ir/get-back-no-topo-do-predio-e-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
