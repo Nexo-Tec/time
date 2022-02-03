@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o papel da estabilidade no serviço público do Brasil](https://www.nexojornal.com.br/expresso/2022/02/01/Qual-o-papel-da-estabilidade-no-servi%C3%A7o-p%C3%BAblico-do-Brasil)
-- [‘Ninguém mora em área de deslizamento porque quer’](https://www.nexojornal.com.br/entrevista/2022/02/01/%E2%80%98Ningu%C3%A9m-mora-em-%C3%A1rea-de-deslizamento-porque-quer%E2%80%99)
-- [Polícia prende 3 suspeitos de agredir e matar congolês no Rio](https://www.nexojornal.com.br/extra/2022/02/01/Pol%C3%ADcia-prende-3-suspeitos-de-agredir-e-matar-congol%C3%AAs-no-Rio)
-- [O que move as grandes aquisições de estúdios de games](https://www.nexojornal.com.br/expresso/2022/02/01/O-que-move-as-grandes-aquisi%C3%A7%C3%B5es-de-est%C3%BAdios-de-games)
-- [Metrô de São Paulo: da lentidão das obras aos acidentes](https://www.nexojornal.com.br/expresso/2022/02/01/Metr%C3%B4-de-S%C3%A3o-Paulo-da-lentid%C3%A3o-das-obras-aos-acidentes)
+- [A opção de países pela abertura mesmo com o avanço da ômicron](https://www.nexojornal.com.br/expresso/2022/02/02/A-op%C3%A7%C3%A3o-de-pa%C3%ADses-pela-abertura-mesmo-com-o-avan%C3%A7o-da-%C3%B4micron)
+- [Damares relaciona gravidez precoce ao uso do TikTok](https://www.nexojornal.com.br/extra/2022/02/02/Damares-relaciona-gravidez-precoce-ao-uso-do-TikTok)
+- [‘Centrão pode fazer com Bolsonaro o que fez com Alckmin’](https://www.nexojornal.com.br/entrevista/2022/02/02/%E2%80%98Centr%C3%A3o-pode-fazer-com-Bolsonaro-o-que-fez-com-Alckmin%E2%80%99)
+- [Desnutrição infantil: um problema para a vida toda](https://www.nexojornal.com.br/explicado/2022/02/02/Desnutri%C3%A7%C3%A3o-infantil-um-problema-para-a-vida-toda)
+- [Bolsonaro critica Lula e TSE na abertura do ano legislativo](https://www.nexojornal.com.br/extra/2022/02/02/Bolsonaro-critica-Lula-e-TSE-na-abertura-do-ano-legislativo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
