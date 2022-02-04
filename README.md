@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A opção de países pela abertura mesmo com o avanço da ômicron](https://www.nexojornal.com.br/expresso/2022/02/02/A-op%C3%A7%C3%A3o-de-pa%C3%ADses-pela-abertura-mesmo-com-o-avan%C3%A7o-da-%C3%B4micron)
-- [Damares relaciona gravidez precoce ao uso do TikTok](https://www.nexojornal.com.br/extra/2022/02/02/Damares-relaciona-gravidez-precoce-ao-uso-do-TikTok)
-- [‘Centrão pode fazer com Bolsonaro o que fez com Alckmin’](https://www.nexojornal.com.br/entrevista/2022/02/02/%E2%80%98Centr%C3%A3o-pode-fazer-com-Bolsonaro-o-que-fez-com-Alckmin%E2%80%99)
-- [Desnutrição infantil: um problema para a vida toda](https://www.nexojornal.com.br/explicado/2022/02/02/Desnutri%C3%A7%C3%A3o-infantil-um-problema-para-a-vida-toda)
-- [Bolsonaro critica Lula e TSE na abertura do ano legislativo](https://www.nexojornal.com.br/extra/2022/02/02/Bolsonaro-critica-Lula-e-TSE-na-abertura-do-ano-legislativo)
+- [2 anos na linha de frente da covid: das UTIs lotadas ao alto contágio](https://www.nexojornal.com.br/expresso/2022/02/03/2-anos-na-linha-de-frente-da-covid-das-UTIs-lotadas-ao-alto-cont%C3%A1gio)
+- [As medalhas nas Olimpíadas de Inverno e a participação do Brasil](https://www.nexojornal.com.br/grafico/2022/02/03/As-medalhas-nas-Olimp%C3%ADadas-de-Inverno-e-a-participa%C3%A7%C3%A3o-do-Brasil)
+- [Militar mata vizinho negro e diz tê-lo confundido com assaltante](https://www.nexojornal.com.br/extra/2022/02/03/Militar-mata-vizinho-negro-e-diz-t%C3%AA-lo-confundido-com-assaltante)
+- [A educação midiática e a politização dos jovens](https://www.nexojornal.com.br/colunistas/2022/A-educa%C3%A7%C3%A3o-midi%C3%A1tica-e-a-politiza%C3%A7%C3%A3o-dos-jovens)
+- [Batizadas à bala: o impacto da violência urbana na infância](https://www.nexojornal.com.br/especial/2022/02/03/Batizadas-%C3%A0-bala-o-impacto-da-viol%C3%AAncia-urbana-na-inf%C3%A2ncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
