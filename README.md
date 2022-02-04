@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Verão Selvagem dos Teus Olhos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-verao-selvagem-dos-teus-olhos/)
 - [Finalmente “Mães Paralelas”, novo filme de Pedro Almodóvar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/finalmente-maes-paralelas-novo-filme-de-pedro-almodovar/)
 - [Uma cidade que grita no novo disco solo de Fernando Catatau](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-cidade-que-grita-no-novo-disco-solo-de-fernando-catatau/)
 - [No centenário de “Ulisses”, cartas revelam o caos financeiro de James Joyce](https://gamarevista.uol.com.br/achamos-que-vale/ler/no-centenario-de-ulisses-cartas-revelam-o-caos-financeiro-de-james-joyce/)
 - [Um bolo de abóbora, laranja, especiarias e inspiração palestina](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-bolo-de-abobora-laranja-especiarias-e-inspiracao-palestina/)
-- [“Get Back” no topo do prédio e no cinema](https://gamarevista.uol.com.br/achamos-que-vale/ir/get-back-no-topo-do-predio-e-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
