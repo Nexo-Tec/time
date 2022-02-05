@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [2 anos na linha de frente da covid: das UTIs lotadas ao alto contágio](https://www.nexojornal.com.br/expresso/2022/02/03/2-anos-na-linha-de-frente-da-covid-das-UTIs-lotadas-ao-alto-cont%C3%A1gio)
-- [As medalhas nas Olimpíadas de Inverno e a participação do Brasil](https://www.nexojornal.com.br/grafico/2022/02/03/As-medalhas-nas-Olimp%C3%ADadas-de-Inverno-e-a-participa%C3%A7%C3%A3o-do-Brasil)
-- [Militar mata vizinho negro e diz tê-lo confundido com assaltante](https://www.nexojornal.com.br/extra/2022/02/03/Militar-mata-vizinho-negro-e-diz-t%C3%AA-lo-confundido-com-assaltante)
-- [A educação midiática e a politização dos jovens](https://www.nexojornal.com.br/colunistas/2022/A-educa%C3%A7%C3%A3o-midi%C3%A1tica-e-a-politiza%C3%A7%C3%A3o-dos-jovens)
-- [Batizadas à bala: o impacto da violência urbana na infância](https://www.nexojornal.com.br/especial/2022/02/03/Batizadas-%C3%A0-bala-o-impacto-da-viol%C3%AAncia-urbana-na-inf%C3%A2ncia)
+- [A onda no TikTok de livros com encadernação personalizada](https://www.nexojornal.com.br/expresso/2022/02/04/A-onda-no-TikTok-de-livros-com-encaderna%C3%A7%C3%A3o-personalizada)
+- [Ministério Público pede bloqueio de bens de Moro ao TCU](https://www.nexojornal.com.br/extra/2022/02/04/Minist%C3%A9rio-P%C3%BAblico-pede-bloqueio-de-bens-de-Moro-ao-TCU)
+- [Família de Isa Penna sofre ataques após ela ser ameaçada](https://www.nexojornal.com.br/extra/2022/02/04/Fam%C3%ADlia-de-Isa-Penna-sofre-ataques-ap%C3%B3s-ela-ser-amea%C3%A7ada)
+- [Resgate de menino que caiu em poço chega ao 3º dia no Marrocos](https://www.nexojornal.com.br/extra/2022/02/04/Resgate-de-menino-que-caiu-em-po%C3%A7o-chega-ao-3%C2%BA-dia-no-Marrocos)
+- [STF manda RJ adotar plano para reduzir letalidade policial](https://www.nexojornal.com.br/extra/2022/02/04/STF-manda-RJ-adotar-plano-para-reduzir-letalidade-policial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
