@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A onda no TikTok de livros com encadernação personalizada](https://www.nexojornal.com.br/expresso/2022/02/04/A-onda-no-TikTok-de-livros-com-encaderna%C3%A7%C3%A3o-personalizada)
-- [Ministério Público pede bloqueio de bens de Moro ao TCU](https://www.nexojornal.com.br/extra/2022/02/04/Minist%C3%A9rio-P%C3%BAblico-pede-bloqueio-de-bens-de-Moro-ao-TCU)
-- [Família de Isa Penna sofre ataques após ela ser ameaçada](https://www.nexojornal.com.br/extra/2022/02/04/Fam%C3%ADlia-de-Isa-Penna-sofre-ataques-ap%C3%B3s-ela-ser-amea%C3%A7ada)
-- [Resgate de menino que caiu em poço chega ao 3º dia no Marrocos](https://www.nexojornal.com.br/extra/2022/02/04/Resgate-de-menino-que-caiu-em-po%C3%A7o-chega-ao-3%C2%BA-dia-no-Marrocos)
-- [STF manda RJ adotar plano para reduzir letalidade policial](https://www.nexojornal.com.br/extra/2022/02/04/STF-manda-RJ-adotar-plano-para-reduzir-letalidade-policial)
+- [‘Não me sinto isolada pelo PT’, afirma ex-presidente Dilma](https://www.nexojornal.com.br/extra/2022/02/05/%E2%80%98N%C3%A3o-me-sinto-isolada-pelo-PT%E2%80%99-afirma-ex-presidente-Dilma)
+- [Família de Moïse vai gerir memorial em homenagem ao congolês](https://www.nexojornal.com.br/extra/2022/02/05/Fam%C3%ADlia-de-Mo%C3%AFse-vai-gerir-memorial-em-homenagem-ao-congol%C3%AAs)
+- [Ômicron representa 96% dos genomas sequenciados no Brasil](https://www.nexojornal.com.br/extra/2022/02/05/%C3%94micron-representa-96-dos-genomas-sequenciados-no-Brasil)
+- [Mil mortes por dia: a pandemia de covid volta a assustar o Brasil](https://www.nexojornal.com.br/expresso/2022/02/04/Mil-mortes-por-dia-a-pandemia-de-covid-volta-a-assustar-o-Brasil)
+- [Globo transfere R$ 318 mil por engano e vai à Justiça por estorno](https://www.nexojornal.com.br/extra/2022/02/04/Globo-transfere-R-318-mil-por-engano-e-vai-%C3%A0-Justi%C3%A7a-por-estorno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
