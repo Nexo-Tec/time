@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Teste da Gama](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/teste-da-gama/)
 - [Xico Sá](https://gamarevista.uol.com.br/pessoas/questionario-proust/xico-sa/)
 - [Você não tem ideia do que estão fazendo com peixes de Ilhabela](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/voce-nao-tem-ideia-do-que-estao-fazendo-com-peixes-de-ilhabela/)
 - [O Verão Selvagem dos Teus Olhos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-verao-selvagem-dos-teus-olhos/)
 - [Finalmente “Mães Paralelas”, novo filme de Pedro Almodóvar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/finalmente-maes-paralelas-novo-filme-de-pedro-almodovar/)
-- [Uma cidade que grita no novo disco solo de Fernando Catatau](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-cidade-que-grita-no-novo-disco-solo-de-fernando-catatau/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
