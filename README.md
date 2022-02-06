@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não me sinto isolada pelo PT’, afirma ex-presidente Dilma](https://www.nexojornal.com.br/extra/2022/02/05/%E2%80%98N%C3%A3o-me-sinto-isolada-pelo-PT%E2%80%99-afirma-ex-presidente-Dilma)
-- [Família de Moïse vai gerir memorial em homenagem ao congolês](https://www.nexojornal.com.br/extra/2022/02/05/Fam%C3%ADlia-de-Mo%C3%AFse-vai-gerir-memorial-em-homenagem-ao-congol%C3%AAs)
-- [Ômicron representa 96% dos genomas sequenciados no Brasil](https://www.nexojornal.com.br/extra/2022/02/05/%C3%94micron-representa-96-dos-genomas-sequenciados-no-Brasil)
-- [Mil mortes por dia: a pandemia de covid volta a assustar o Brasil](https://www.nexojornal.com.br/expresso/2022/02/04/Mil-mortes-por-dia-a-pandemia-de-covid-volta-a-assustar-o-Brasil)
-- [Globo transfere R$ 318 mil por engano e vai à Justiça por estorno](https://www.nexojornal.com.br/extra/2022/02/04/Globo-transfere-R-318-mil-por-engano-e-vai-%C3%A0-Justi%C3%A7a-por-estorno)
+- [Como foi a ascensão meteórica do streamer Casimiro](https://www.nexojornal.com.br/expresso/2022/02/06/Como-foi-a-ascens%C3%A3o-mete%C3%B3rica-do-streamer-Casimiro)
+- [5 livros sobre futebol escritos por autores consagrados](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-futebol-escritos-por-autores-consagrados)
+- [O histórico ambiental de governos petistas na pauta de 2022](https://www.nexojornal.com.br/expresso/2022/02/06/O-hist%C3%B3rico-ambiental-de-governos-petistas-na-pauta-de-2022)
+- [Corpo de menino de 5 anos é retirado de poço no Marrocos](https://www.nexojornal.com.br/extra/2022/02/06/Corpo-de-menino-de-5-anos-%C3%A9-retirado-de-po%C3%A7o-no-Marrocos)
+- [‘O racismo estrutura a violência urbana brasileira’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98O-racismo-estrutura-a-viol%C3%AAncia-urbana-brasileira%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
