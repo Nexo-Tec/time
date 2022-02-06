@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Não me sinto isolada pelo PT’, afirma ex-presidente Dilma](https://www.nexojornal.com.br/extra/2022/02/05/%E2%80%98N%C3%A3o-me-sinto-isolada-pelo-PT%E2%80%99-afirma-ex-presidente-Dilma)
+- [Família de Moïse vai gerir memorial em homenagem ao congolês](https://www.nexojornal.com.br/extra/2022/02/05/Fam%C3%ADlia-de-Mo%C3%AFse-vai-gerir-memorial-em-homenagem-ao-congol%C3%AAs)
+- [Ômicron representa 96% dos genomas sequenciados no Brasil](https://www.nexojornal.com.br/extra/2022/02/05/%C3%94micron-representa-96-dos-genomas-sequenciados-no-Brasil)
 - [Mil mortes por dia: a pandemia de covid volta a assustar o Brasil](https://www.nexojornal.com.br/expresso/2022/02/04/Mil-mortes-por-dia-a-pandemia-de-covid-volta-a-assustar-o-Brasil)
 - [Globo transfere R$ 318 mil por engano e vai à Justiça por estorno](https://www.nexojornal.com.br/extra/2022/02/04/Globo-transfere-R-318-mil-por-engano-e-vai-%C3%A0-Justi%C3%A7a-por-estorno)
-- [Como é a dinâmica dos quiosques da orla do Rio de Janeiro](https://www.nexojornal.com.br/expresso/2022/02/04/Como-%C3%A9-a-din%C3%A2mica-dos-quiosques-da-orla-do-Rio-de-Janeiro)
-- [Extratos da Semana 04.02.2022](https://www.nexojornal.com.br/video/extrato/Extratos-da-Semana-04.02.2022)
-- [Estiagem causou a morte de 1,5 tonelada de peixes no RS](https://www.nexojornal.com.br/extra/2022/02/04/Estiagem-causou-a-morte-de-15-tonelada-de-peixes-no-RS)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
