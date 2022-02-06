@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Milly Lacombe: ‘O futebol é a última fronteira do machismo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/milly-lacombe-fala-sobre-o-lugar-da-mulher-em-um-esporte-machista-como-o-futebol/)
 - [Teste da Gama](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/teste-da-gama/)
 - [Xico Sá](https://gamarevista.uol.com.br/pessoas/questionario-proust/xico-sa/)
 - [Você não tem ideia do que estão fazendo com peixes de Ilhabela](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/voce-nao-tem-ideia-do-que-estao-fazendo-com-peixes-de-ilhabela/)
 - [O Verão Selvagem dos Teus Olhos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-verao-selvagem-dos-teus-olhos/)
-- [Finalmente “Mães Paralelas”, novo filme de Pedro Almodóvar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/finalmente-maes-paralelas-novo-filme-de-pedro-almodovar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
