@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O novo capítulo de instabilidade política no governo Castillo](https://www.nexojornal.com.br/expresso/2022/02/07/O-novo-cap%C3%ADtulo-de-instabilidade-pol%C3%ADtica-no-governo-Castillo)
+- [Jovem é assassinado por PM dentro de delegacia no Ceará](https://www.nexojornal.com.br/extra/2022/02/07/Jovem-%C3%A9-assassinado-por-PM-dentro-de-delegacia-no-Cear%C3%A1)
+- [Ottawa declara emergência em meio a atos de caminhoneiros](https://www.nexojornal.com.br/extra/2022/02/07/Ottawa-declara-emerg%C3%AAncia-em-meio-a-atos-de-caminhoneiros)
 - [‘Não podemos esperar uma nova tragédia para cuidar dos imigrantes’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98N%C3%A3o-podemos-esperar-uma-nova-trag%C3%A9dia-para-cuidar-dos-imigrantes%E2%80%99)
 - [Avalanches ‘sem precedentes’ matam 9 pessoas na Áustria](https://www.nexojornal.com.br/extra/2022/02/06/Avalanches-%E2%80%98sem-precedentes%E2%80%99-matam-9-pessoas-na-%C3%81ustria)
-- [Pagode &lpar;e tango&rpar; russo: o que leva Bolsonaro e Fernández a Moscou](https://www.nexojornal.com.br/ensaio/2022/Pagode-e-tango-russo-o-que-leva-Bolsonaro-e-Fern%C3%A1ndez-a-Moscou)
-- [Os acertos e brechas de Moraes ao investigar Bolsonaro](https://www.nexojornal.com.br/expresso/2022/02/06/Os-acertos-e-brechas-de-Moraes-ao-investigar-Bolsonaro)
-- [Senegal conquista 1º título da Copa Africana de Nações](https://www.nexojornal.com.br/extra/2022/02/06/Senegal-conquista-1%C2%BA-t%C3%ADtulo-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
