@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Premiê do Peru renuncia 4 dias após assumir o cargo](https://www.nexojornal.com.br/extra/2022/02/06/Premi%C3%AA-do-Peru-renuncia-4-dias-ap%C3%B3s-assumir-o-cargo)
-- [Rainha britânica Elizabeth 2ª completa 70 anos no trono](https://www.nexojornal.com.br/extra/2022/02/06/Rainha-brit%C3%A2nica-Elizabeth-2%C2%AA-completa-70-anos-no-trono)
-- [Spotify removeu mais de 100 episódios do podcast de Joe Rogan](https://www.nexojornal.com.br/extra/2022/02/06/Spotify-removeu-mais-de-100-epis%C3%B3dios-do-podcast-de-Joe-Rogan)
-- [Como foi a ascensão meteórica do streamer Casimiro](https://www.nexojornal.com.br/expresso/2022/02/06/Como-foi-a-ascens%C3%A3o-mete%C3%B3rica-do-streamer-Casimiro)
-- [5 livros sobre futebol escritos por autores consagrados](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-futebol-escritos-por-autores-consagrados)
+- [O novo capítulo de instabilidade política no governo Castillo](https://www.nexojornal.com.br/expresso/2022/02/07/O-novo-cap%C3%ADtulo-de-instabilidade-pol%C3%ADtica-no-governo-Castillo)
+- [Jovem é assassinado por PM dentro de delegacia no Ceará](https://www.nexojornal.com.br/extra/2022/02/07/Jovem-%C3%A9-assassinado-por-PM-dentro-de-delegacia-no-Cear%C3%A1)
+- [Ottawa declara emergência em meio a atos de caminhoneiros](https://www.nexojornal.com.br/extra/2022/02/07/Ottawa-declara-emerg%C3%AAncia-em-meio-a-atos-de-caminhoneiros)
+- [‘Não podemos esperar uma nova tragédia para cuidar dos imigrantes’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98N%C3%A3o-podemos-esperar-uma-nova-trag%C3%A9dia-para-cuidar-dos-imigrantes%E2%80%99)
+- [Avalanches ‘sem precedentes’ matam 9 pessoas na Áustria](https://www.nexojornal.com.br/extra/2022/02/06/Avalanches-%E2%80%98sem-precedentes%E2%80%99-matam-9-pessoas-na-%C3%81ustria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
