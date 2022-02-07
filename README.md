@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como foi a ascensão meteórica do streamer Casimiro](https://www.nexojornal.com.br/expresso/2022/02/06/Como-foi-a-ascens%C3%A3o-mete%C3%B3rica-do-streamer-Casimiro)
-- [5 livros sobre futebol escritos por autores consagrados](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-futebol-escritos-por-autores-consagrados)
-- [O histórico ambiental de governos petistas na pauta de 2022](https://www.nexojornal.com.br/expresso/2022/02/06/O-hist%C3%B3rico-ambiental-de-governos-petistas-na-pauta-de-2022)
-- [Corpo de menino de 5 anos é retirado de poço no Marrocos](https://www.nexojornal.com.br/extra/2022/02/06/Corpo-de-menino-de-5-anos-%C3%A9-retirado-de-po%C3%A7o-no-Marrocos)
-- [‘O racismo estrutura a violência urbana brasileira’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98O-racismo-estrutura-a-viol%C3%AAncia-urbana-brasileira%E2%80%99)
+- [‘Não podemos esperar uma nova tragédia para cuidar dos imigrantes’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98N%C3%A3o-podemos-esperar-uma-nova-trag%C3%A9dia-para-cuidar-dos-imigrantes%E2%80%99)
+- [Avalanches ‘sem precedentes’ matam 9 pessoas na Áustria](https://www.nexojornal.com.br/extra/2022/02/06/Avalanches-%E2%80%98sem-precedentes%E2%80%99-matam-9-pessoas-na-%C3%81ustria)
+- [Pagode &lpar;e tango&rpar; russo: o que leva Bolsonaro e Fernández a Moscou](https://www.nexojornal.com.br/ensaio/2022/Pagode-e-tango-russo-o-que-leva-Bolsonaro-e-Fern%C3%A1ndez-a-Moscou)
+- [Os acertos e brechas de Moraes ao investigar Bolsonaro](https://www.nexojornal.com.br/expresso/2022/02/06/Os-acertos-e-brechas-de-Moraes-ao-investigar-Bolsonaro)
+- [Senegal conquista 1º título da Copa Africana de Nações](https://www.nexojornal.com.br/extra/2022/02/06/Senegal-conquista-1%C2%BA-t%C3%ADtulo-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
