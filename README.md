@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não podemos esperar uma nova tragédia para cuidar dos imigrantes’](https://www.nexojornal.com.br/entrevista/2022/02/06/%E2%80%98N%C3%A3o-podemos-esperar-uma-nova-trag%C3%A9dia-para-cuidar-dos-imigrantes%E2%80%99)
-- [Avalanches ‘sem precedentes’ matam 9 pessoas na Áustria](https://www.nexojornal.com.br/extra/2022/02/06/Avalanches-%E2%80%98sem-precedentes%E2%80%99-matam-9-pessoas-na-%C3%81ustria)
-- [Pagode &lpar;e tango&rpar; russo: o que leva Bolsonaro e Fernández a Moscou](https://www.nexojornal.com.br/ensaio/2022/Pagode-e-tango-russo-o-que-leva-Bolsonaro-e-Fern%C3%A1ndez-a-Moscou)
-- [Os acertos e brechas de Moraes ao investigar Bolsonaro](https://www.nexojornal.com.br/expresso/2022/02/06/Os-acertos-e-brechas-de-Moraes-ao-investigar-Bolsonaro)
-- [Senegal conquista 1º título da Copa Africana de Nações](https://www.nexojornal.com.br/extra/2022/02/06/Senegal-conquista-1%C2%BA-t%C3%ADtulo-da-Copa-Africana-de-Na%C3%A7%C3%B5es)
+- [O que emperra a vacinação infantil contra a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/02/07/O-que-emperra-a-vacina%C3%A7%C3%A3o-infantil-contra-a-covid-no-Brasil)
+- [Queixas de clientes e venda de ativos: o que ocorre com a Amil](https://www.nexojornal.com.br/expresso/2022/02/07/Queixas-de-clientes-e-venda-de-ativos-o-que-ocorre-com-a-Amil)
+- [Para dar fim à polêmica, Palmeiras começa disputa pelo Mundial](https://www.nexojornal.com.br/incoming/2022/02/07/Para-dar-fim-%C3%A0-pol%C3%AAmica-Palmeiras-come%C3%A7a-disputa-pelo-Mundial)
+- [Sob risco de invasão, ucranianas procuram cursos de autodefesa](https://www.nexojornal.com.br/extra/2022/02/07/Sob-risco-de-invas%C3%A3o-ucranianas-procuram-cursos-de-autodefesa)
+- [Bolsonaro e o perdão de dívidas estudantis com o Fies](https://www.nexojornal.com.br/podcast/2022/02/07/Bolsonaro-e-o-perd%C3%A3o-de-d%C3%ADvidas-estudantis-com-o-Fies)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
