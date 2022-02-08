@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [O que emperra a vacinação infantil contra a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/02/07/O-que-emperra-a-vacina%C3%A7%C3%A3o-infantil-contra-a-covid-no-Brasil)
 - [Queixas de clientes e venda de ativos: o que ocorre com a Amil](https://www.nexojornal.com.br/expresso/2022/02/07/Queixas-de-clientes-e-venda-de-ativos-o-que-ocorre-com-a-Amil)
-- [Para dar fim à polêmica, Palmeiras começa disputa pelo Mundial](https://www.nexojornal.com.br/incoming/2022/02/07/Para-dar-fim-%C3%A0-pol%C3%AAmica-Palmeiras-come%C3%A7a-disputa-pelo-Mundial)
+- [Para dar fim à polêmica, Palmeiras começa disputa pelo Mundial](https://www.nexojornal.com.br/grafico/2022/02/07/Para-dar-fim-%C3%A0-pol%C3%AAmica-Palmeiras-come%C3%A7a-disputa-pelo-Mundial)
 - [Sob risco de invasão, ucranianas procuram cursos de autodefesa](https://www.nexojornal.com.br/extra/2022/02/07/Sob-risco-de-invas%C3%A3o-ucranianas-procuram-cursos-de-autodefesa)
 - [Bolsonaro e o perdão de dívidas estudantis com o Fies](https://www.nexojornal.com.br/podcast/2022/02/07/Bolsonaro-e-o-perd%C3%A3o-de-d%C3%ADvidas-estudantis-com-o-Fies)
 <!-- NEXO_LIST:END -->
