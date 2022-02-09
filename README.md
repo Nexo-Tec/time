@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O impacto da pandemia no aprendizado das crianças](https://www.nexojornal.com.br/podcast/2022/02/08/O-impacto-da-pandemia-no-aprendizado-das-crian%C3%A7as)
-- [‘Golpista do Tinder’ responde acusações de documentário](https://www.nexojornal.com.br/extra/2022/02/08/%E2%80%98Golpista-do-Tinder%E2%80%99-responde-acusa%C3%A7%C3%B5es-de-document%C3%A1rio)
-- [PF faz operação contra suspeitos de invasão a sistema da Caixa](https://www.nexojornal.com.br/extra/2022/02/08/PF-faz-opera%C3%A7%C3%A3o-contra-suspeitos-de-invas%C3%A3o-a-sistema-da-Caixa)
-- [Governo oficializa mudanças que limitam valores da Lei Rouanet](https://www.nexojornal.com.br/extra/2022/02/08/Governo-oficializa-mudan%C3%A7as-que-limitam-valores-da-Lei-Rouanet)
-- [Uma mesa, duas imagens: o encontro de Putin e Macron](https://www.nexojornal.com.br/expresso/2022/02/08/Uma-mesa-duas-imagens-o-encontro-de-Putin-e-Macron)
+- [O que emperra a vacinação infantil contra a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/02/07/O-que-emperra-a-vacina%C3%A7%C3%A3o-infantil-contra-a-covid-no-Brasil)
+- [Queixas de clientes e venda de ativos: o que ocorre com a Amil](https://www.nexojornal.com.br/expresso/2022/02/07/Queixas-de-clientes-e-venda-de-ativos-o-que-ocorre-com-a-Amil)
+- [Para dar fim à polêmica, Palmeiras começa disputa pelo Mundial](https://www.nexojornal.com.br/grafico/2022/02/07/Para-dar-fim-%C3%A0-pol%C3%AAmica-Palmeiras-come%C3%A7a-disputa-pelo-Mundial)
+- [Sob risco de invasão, ucranianas procuram cursos de autodefesa](https://www.nexojornal.com.br/extra/2022/02/07/Sob-risco-de-invas%C3%A3o-ucranianas-procuram-cursos-de-autodefesa)
+- [Bolsonaro e o perdão de dívidas estudantis com o Fies](https://www.nexojornal.com.br/podcast/2022/02/07/Bolsonaro-e-o-perd%C3%A3o-de-d%C3%ADvidas-estudantis-com-o-Fies)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
