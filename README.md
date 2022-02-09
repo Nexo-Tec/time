@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que esperar do União Brasil, o partido do bilhão em 2022](https://www.nexojornal.com.br/expresso/2022/02/08/O-que-esperar-do-Uni%C3%A3o-Brasil-o-partido-do-bilh%C3%A3o-em-2022)
-- [Qual a importância do gás da Rússia para a Europa](https://www.nexojornal.com.br/expresso/2022/02/08/Qual-a-import%C3%A2ncia-do-g%C3%A1s-da-R%C3%BAssia-para-a-Europa)
-- [Moïse e Durval: vítimas da supremacia branca à brasileira](https://www.nexojornal.com.br/colunistas/2022/Mo%C3%AFse-e-Durval-v%C3%ADtimas-da-supremacia-branca-%C3%A0-brasileira)
-- [Com quantas pauladas se mata a esperança de um país?](https://www.nexojornal.com.br/colunistas/2022/Com-quantas-pauladas-se-mata-a-esperan%C3%A7a-de-um-pa%C3%ADs)
-- [Propaganda partidária: Congresso retoma compensação para TVs](https://www.nexojornal.com.br/extra/2022/02/08/Propaganda-partid%C3%A1ria-Congresso-retoma-compensa%C3%A7%C3%A3o-para-TVs)
+- [O que emperra a vacinação infantil contra a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/02/07/O-que-emperra-a-vacina%C3%A7%C3%A3o-infantil-contra-a-covid-no-Brasil)
+- [Queixas de clientes e venda de ativos: o que ocorre com a Amil](https://www.nexojornal.com.br/expresso/2022/02/07/Queixas-de-clientes-e-venda-de-ativos-o-que-ocorre-com-a-Amil)
+- [Para dar fim à polêmica, Palmeiras começa disputa pelo Mundial](https://www.nexojornal.com.br/grafico/2022/02/07/Para-dar-fim-%C3%A0-pol%C3%AAmica-Palmeiras-come%C3%A7a-disputa-pelo-Mundial)
+- [Sob risco de invasão, ucranianas procuram cursos de autodefesa](https://www.nexojornal.com.br/extra/2022/02/07/Sob-risco-de-invas%C3%A3o-ucranianas-procuram-cursos-de-autodefesa)
+- [Bolsonaro e o perdão de dívidas estudantis com o Fies](https://www.nexojornal.com.br/podcast/2022/02/07/Bolsonaro-e-o-perd%C3%A3o-de-d%C3%ADvidas-estudantis-com-o-Fies)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
