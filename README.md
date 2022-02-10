@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Inflação de janeiro é a maior desde 2016 e acumula 10,38%](https://www.nexojornal.com.br/extra/2022/02/09/Infla%C3%A7%C3%A3o-de-janeiro-%C3%A9-a-maior-desde-2016-e-acumula-1038)
+- [Comentarista é demitido da Jovem Pan após gesto associado ao nazismo](https://www.nexojornal.com.br/extra/2022/02/09/Comentarista-%C3%A9-demitido-da-Jovem-Pan-ap%C3%B3s-gesto-associado-ao-nazismo)
 - [O que esperar do União Brasil, o partido do bilhão em 2022](https://www.nexojornal.com.br/expresso/2022/02/08/O-que-esperar-do-Uni%C3%A3o-Brasil-o-partido-do-bilh%C3%A3o-em-2022)
 - [Qual a importância do gás da Rússia para a Europa](https://www.nexojornal.com.br/expresso/2022/02/08/Qual-a-import%C3%A2ncia-do-g%C3%A1s-da-R%C3%BAssia-para-a-Europa)
 - [Moïse e Durval: vítimas da supremacia branca à brasileira](https://www.nexojornal.com.br/colunistas/2022/Mo%C3%AFse-e-Durval-v%C3%ADtimas-da-supremacia-branca-%C3%A0-brasileira)
-- [Com quantas pauladas se mata a esperança de um país?](https://www.nexojornal.com.br/colunistas/2022/Com-quantas-pauladas-se-mata-a-esperan%C3%A7a-de-um-pa%C3%ADs)
-- [Propaganda partidária: Congresso retoma compensação para TVs](https://www.nexojornal.com.br/extra/2022/02/08/Propaganda-partid%C3%A1ria-Congresso-retoma-compensa%C3%A7%C3%A3o-para-TVs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
