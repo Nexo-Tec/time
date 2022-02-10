@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Samantha Almeida](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-samantha-almeida/)
-- [Gênio ou herói?](https://gamarevista.uol.com.br/colunistas/letrux/genio-ou-heroi/)
-- [As cores e o misticismo de Isaac Silva](https://gamarevista.uol.com.br/pessoas/biografia-visual/as-cores-e-o-misticismo-de-isaac-silva/)
-- [Calculadora HP](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/calculadora-hp/)
-- [Eu não aguento mais morrer](https://gamarevista.uol.com.br/colunistas/winnie-bueno/eu-nao-aguento-mais-morrer/)
+- [Caetano Veloso é perfilado pela revista New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/caetano-veloso-e-perfilado-pela-revista-new-yorker/)
+- [Shonda Rhimes volta com ‘Inventando Anna’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/shonda-rhimes-volta-com-inventando-anna/)
+- [Guia definitivo do solteiro, ‘Larica Total’ volta à TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/guia-definitivo-do-solteiro-larica-total-volta-a-tv/)
+- [Harmonia e ritmo marcado na nova música de Beyoncé](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/harmonia-e-ritmo-marcado-na-nova-musica-de-beyonce/)
+- [O plano de Linn da Quebrada para ocupar territórios no War do BBB](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-plano-de-linn-da-quebrada-para-ocupar-territorios-no-war-do-bbb/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
