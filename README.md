@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Samantha Almeida](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-samantha-almeida/)
 - [Gênio ou herói?](https://gamarevista.uol.com.br/colunistas/letrux/genio-ou-heroi/)
 - [As cores e o misticismo de Isaac Silva](https://gamarevista.uol.com.br/pessoas/biografia-visual/as-cores-e-o-misticismo-de-isaac-silva/)
 - [Calculadora HP](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/calculadora-hp/)
 - [Eu não aguento mais morrer](https://gamarevista.uol.com.br/colunistas/winnie-bueno/eu-nao-aguento-mais-morrer/)
-- [@donni.davy](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/donni-davy/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
