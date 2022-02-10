@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que os europeus pensam sobre uma guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/09/O-que-os-europeus-pensam-sobre-uma-guerra-na-Ucr%C3%A2nia)
-- [‘Nazismo passou por um processo de normalização pública’](https://www.nexojornal.com.br/entrevista/2022/02/09/%E2%80%98Nazismo-passou-por-um-processo-de-normaliza%C3%A7%C3%A3o-p%C3%BAblica%E2%80%99)
-- [Por que a vacinação no Brasil pode ter chegado a um platô](https://www.nexojornal.com.br/expresso/2022/02/09/Por-que-a-vacina%C3%A7%C3%A3o-no-Brasil-pode-ter-chegado-a-um-plat%C3%B4)
-- [Supremo confirma federações e aumenta prazo de partidos](https://www.nexojornal.com.br/extra/2022/02/09/Supremo-confirma-federa%C3%A7%C3%B5es-e-aumenta-prazo-de-partidos)
-- [Como cientistas comunicam seus achados](https://www.nexojornal.com.br/colunistas/2022/Como-cientistas-comunicam-seus-achados)
+- [Inflação de janeiro é a maior desde 2016 e acumula 10,38%](https://www.nexojornal.com.br/extra/2022/02/09/Infla%C3%A7%C3%A3o-de-janeiro-%C3%A9-a-maior-desde-2016-e-acumula-1038)
+- [Comentarista é demitido da Jovem Pan após gesto associado ao nazismo](https://www.nexojornal.com.br/extra/2022/02/09/Comentarista-%C3%A9-demitido-da-Jovem-Pan-ap%C3%B3s-gesto-associado-ao-nazismo)
+- [O que esperar do União Brasil, o partido do bilhão em 2022](https://www.nexojornal.com.br/expresso/2022/02/08/O-que-esperar-do-Uni%C3%A3o-Brasil-o-partido-do-bilh%C3%A3o-em-2022)
+- [Qual a importância do gás da Rússia para a Europa](https://www.nexojornal.com.br/expresso/2022/02/08/Qual-a-import%C3%A2ncia-do-g%C3%A1s-da-R%C3%BAssia-para-a-Europa)
+- [Moïse e Durval: vítimas da supremacia branca à brasileira](https://www.nexojornal.com.br/colunistas/2022/Mo%C3%AFse-e-Durval-v%C3%ADtimas-da-supremacia-branca-%C3%A0-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
