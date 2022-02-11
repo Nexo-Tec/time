@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Lucimar Rosa Dias: desenvolvimento infantil e o racismo estrutural](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/02/10/Lucimar-Rosa-Dias-desenvolvimento-infantil-e-o-racismo-estrutural)
+- [Escrever para aprender: dispositivo pedagógico para os anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escrever-para-aprender-dispositivo-pedag%C3%B3gico-para-os-anos-finais-do-ensino-fundamental)
+- [Concreto líquido contra uma vida líquida? O real e o ideal na Marquise do Ibirapuera](https://pp.nexojornal.com.br/topico/2022/02/10/Concreto-l%C3%ADquido-contra-uma-vida-l%C3%ADquida-O-real-e-o-ideal-na-Marquise-do-Ibirapuera)
+- [Terras em disputa: a luta quilombola pelo território](https://pp.nexojornal.com.br/opiniao/2022/Terras-em-disputa-a-luta-quilombola-pelo-territ%C3%B3rio)
 - [Como aperfeiçoar a aprendizagem profissional e a inserção de jovens no mercado de trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-aperfei%C3%A7oar-a-aprendizagem-profissional-e-a-inser%C3%A7%C3%A3o-de-jovens-no-mercado-de-trabalho)
-- [Como as artes brasileiras trataram da Amazônia](https://pp.nexojornal.com.br/academico/2022/Como-as-artes-brasileiras-trataram-da-Amaz%C3%B4nia)
-- [Pablo Nunes: racismo algorítmico e segurança pública](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/02/02/Pablo-Nunes-racismo-algor%C3%ADtmico-e-seguran%C3%A7a-p%C3%BAblica)
-- [Colaboração entre órgãos públicos: o caminho para a modernização administrativa do Estado](https://pp.nexojornal.com.br/ponto-de-vista/2022/Colabora%C3%A7%C3%A3o-entre-%C3%B3rg%C3%A3os-p%C3%BAblicos-o-caminho-para-a-moderniza%C3%A7%C3%A3o-administrativa-do-Estado)
-- [Democracia e redução das desigualdades](https://pp.nexojornal.com.br/glossario/Democracia-e-redu%C3%A7%C3%A3o-das-desigualdades)
 <!-- PP_LIST:END -->
 
