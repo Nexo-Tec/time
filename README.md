@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Gótico Nordestino](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gotico-nordestino/)
 - [‘A indumentária revela traços do nosso modernismo que não queremos encarar’](https://gamarevista.uol.com.br/formato/conversas/a-indumentaria-revela-tracos-do-nosso-modernismo-que-nao-queremos-encarar/)
 - [Caetano Veloso é perfilado pela revista New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/caetano-veloso-e-perfilado-pela-revista-new-yorker/)
 - [Shonda Rhimes volta com ‘Inventando Anna’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/shonda-rhimes-volta-com-inventando-anna/)
 - [Guia definitivo do solteiro, ‘Larica Total’ volta à TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/guia-definitivo-do-solteiro-larica-total-volta-a-tv/)
-- [Harmonia e ritmo marcado na nova música de Beyoncé](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/harmonia-e-ritmo-marcado-na-nova-musica-de-beyonce/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
