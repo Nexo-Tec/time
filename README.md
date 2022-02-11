@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ação policial deixa 8 mortos na Vila Cruzeiro, no Rio](https://www.nexojornal.com.br/extra/2022/02/11/A%C3%A7%C3%A3o-policial-deixa-8-mortos-na-Vila-Cruzeiro-no-Rio)
+- [PF vê semelhanças entre Bolsonaro e milícias digitais](https://www.nexojornal.com.br/extra/2022/02/11/PF-v%C3%AA-semelhan%C3%A7as-entre-Bolsonaro-e-mil%C3%ADcias-digitais)
 - [Quais os obstáculos à punição do feminicídio no Brasil](https://www.nexojornal.com.br/expresso/2022/02/10/Quais-os-obst%C3%A1culos-%C3%A0-puni%C3%A7%C3%A3o-do-feminic%C3%ADdio-no-Brasil)
 - [Quem são as pessoas em insegurança alimentar no Brasil](https://www.nexojornal.com.br/grafico/2022/02/10/Quem-s%C3%A3o-as-pessoas-em-inseguran%C3%A7a-alimentar-no-Brasil)
 - [Fies: governo divulga regras para renegociação de dívidas](https://www.nexojornal.com.br/extra/2022/02/10/Fies-governo-divulga-regras-para-renegocia%C3%A7%C3%A3o-de-d%C3%ADvidas)
-- [‘O acontecimento’: relatos autobiográficos sobre o aborto](https://www.nexojornal.com.br/estante/trechos/2022/02/10/%E2%80%98O-acontecimento%E2%80%99-relatos-autobiogr%C3%A1ficos-sobre-o-aborto)
-- [Dar as batatas ao vencedor não favorece a democracia](https://www.nexojornal.com.br/colunistas/2022/Dar-as-batatas-ao-vencedor-n%C3%A3o-favorece-a-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
