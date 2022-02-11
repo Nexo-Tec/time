@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que os europeus pensam sobre uma guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/09/O-que-os-europeus-pensam-sobre-uma-guerra-na-Ucr%C3%A2nia)
-- [‘Nazismo passou por um processo de normalização pública’](https://www.nexojornal.com.br/entrevista/2022/02/09/%E2%80%98Nazismo-passou-por-um-processo-de-normaliza%C3%A7%C3%A3o-p%C3%BAblica%E2%80%99)
-- [Por que a vacinação no Brasil pode ter chegado a um platô](https://www.nexojornal.com.br/expresso/2022/02/09/Por-que-a-vacina%C3%A7%C3%A3o-no-Brasil-pode-ter-chegado-a-um-plat%C3%B4)
-- [Supremo confirma federações e aumenta prazo de partidos](https://www.nexojornal.com.br/extra/2022/02/09/Supremo-confirma-federa%C3%A7%C3%B5es-e-aumenta-prazo-de-partidos)
-- [Como cientistas comunicam seus achados](https://www.nexojornal.com.br/colunistas/2022/Como-cientistas-comunicam-seus-achados)
+- [Quais os obstáculos à punição do feminicídio no Brasil](https://www.nexojornal.com.br/expresso/2022/02/10/Quais-os-obst%C3%A1culos-%C3%A0-puni%C3%A7%C3%A3o-do-feminic%C3%ADdio-no-Brasil)
+- [Quem são as pessoas em insegurança alimentar no Brasil](https://www.nexojornal.com.br/grafico/2022/02/10/Quem-s%C3%A3o-as-pessoas-em-inseguran%C3%A7a-alimentar-no-Brasil)
+- [Fies: governo divulga regras para renegociação de dívidas](https://www.nexojornal.com.br/extra/2022/02/10/Fies-governo-divulga-regras-para-renegocia%C3%A7%C3%A3o-de-d%C3%ADvidas)
+- [‘O acontecimento’: relatos autobiográficos sobre o aborto](https://www.nexojornal.com.br/estante/trechos/2022/02/10/%E2%80%98O-acontecimento%E2%80%99-relatos-autobiogr%C3%A1ficos-sobre-o-aborto)
+- [Dar as batatas ao vencedor não favorece a democracia](https://www.nexojornal.com.br/colunistas/2022/Dar-as-batatas-ao-vencedor-n%C3%A3o-favorece-a-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
