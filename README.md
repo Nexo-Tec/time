@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Biden diz a Putin que invadir a Ucrânia terá ‘custos severos’](https://www.nexojornal.com.br/extra/2022/02/12/Biden-diz-a-Putin-que-invadir-a-Ucr%C3%A2nia-ter%C3%A1-%E2%80%98custos-severos%E2%80%99)
-- [Filho de 9 anos de líder rural é assassinado em Pernambuco](https://www.nexojornal.com.br/extra/2022/02/12/Filho-de-9-anos-de-l%C3%ADder-rural-%C3%A9-assassinado-em-Pernambuco)
 - [O que é o ‘PL da Bala Solta’. E o que ele soma ao armamentismo](https://www.nexojornal.com.br/expresso/2022/02/11/O-que-%C3%A9-o-%E2%80%98PL-da-Bala-Solta%E2%80%99.-E-o-que-ele-soma-ao-armamentismo)
 - [Pacheco cria comissão para atualizar Lei do Impeachment](https://www.nexojornal.com.br/extra/2022/02/11/Pacheco-cria-comiss%C3%A3o-para-atualizar-Lei-do-Impeachment)
 - [Quais as questões em torno da aplicação da 4ª dose da vacina](https://www.nexojornal.com.br/expresso/2022/02/11/Quais-as-quest%C3%B5es-em-torno-da-aplica%C3%A7%C3%A3o-da-4%C2%AA-dose-da-vacina)
+- [‘Não há motivos para manter inquérito do caso Moïse em sigilo’](https://www.nexojornal.com.br/entrevista/2022/02/11/%E2%80%98N%C3%A3o-h%C3%A1-motivos-para-manter-inqu%C3%A9rito-do-caso-Mo%C3%AFse-em-sigilo%E2%80%99)
+- [Palmeiras desafia hegemonia europeia no Mundial de Clubes](https://www.nexojornal.com.br/grafico/2022/02/11/Palmeiras-desafia-hegemonia-europeia-no-Mundial-de-Clubes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
