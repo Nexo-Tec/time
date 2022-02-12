@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Mulher preta e cientista: transgredir para resistir](https://pp.nexojornal.com.br/ponto-de-vista/2022/Mulher-preta-e-cientista-transgredir-para-resistir)
 - [Lucimar Rosa Dias: desenvolvimento infantil e o racismo estrutural](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/02/10/Lucimar-Rosa-Dias-desenvolvimento-infantil-e-o-racismo-estrutural)
 - [Escrever para aprender: dispositivo pedagógico para os anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escrever-para-aprender-dispositivo-pedag%C3%B3gico-para-os-anos-finais-do-ensino-fundamental)
 - [Concreto líquido contra uma vida líquida? O real e o ideal na Marquise do Ibirapuera](https://pp.nexojornal.com.br/topico/2022/02/10/Concreto-l%C3%ADquido-contra-uma-vida-l%C3%ADquida-O-real-e-o-ideal-na-Marquise-do-Ibirapuera)
 - [Terras em disputa: a luta quilombola pelo território](https://pp.nexojornal.com.br/opiniao/2022/Terras-em-disputa-a-luta-quilombola-pelo-territ%C3%B3rio)
-- [Como aperfeiçoar a aprendizagem profissional e a inserção de jovens no mercado de trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-aperfei%C3%A7oar-a-aprendizagem-profissional-e-a-inser%C3%A7%C3%A3o-de-jovens-no-mercado-de-trabalho)
 <!-- PP_LIST:END -->
 
