@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ação policial deixa 8 mortos na Vila Cruzeiro, no Rio](https://www.nexojornal.com.br/extra/2022/02/11/A%C3%A7%C3%A3o-policial-deixa-8-mortos-na-Vila-Cruzeiro-no-Rio)
-- [PF vê semelhanças entre Bolsonaro e milícias digitais](https://www.nexojornal.com.br/extra/2022/02/11/PF-v%C3%AA-semelhan%C3%A7as-entre-Bolsonaro-e-mil%C3%ADcias-digitais)
-- [Quais os obstáculos à punição do feminicídio no Brasil](https://www.nexojornal.com.br/expresso/2022/02/10/Quais-os-obst%C3%A1culos-%C3%A0-puni%C3%A7%C3%A3o-do-feminic%C3%ADdio-no-Brasil)
-- [Quem são as pessoas em insegurança alimentar no Brasil](https://www.nexojornal.com.br/grafico/2022/02/10/Quem-s%C3%A3o-as-pessoas-em-inseguran%C3%A7a-alimentar-no-Brasil)
-- [Fies: governo divulga regras para renegociação de dívidas](https://www.nexojornal.com.br/extra/2022/02/10/Fies-governo-divulga-regras-para-renegocia%C3%A7%C3%A3o-de-d%C3%ADvidas)
+- [O que é o ‘PL da Bala Solta’. E o que ele soma ao armamentismo](https://www.nexojornal.com.br/expresso/2022/02/11/O-que-%C3%A9-o-%E2%80%98PL-da-Bala-Solta%E2%80%99.-E-o-que-ele-soma-ao-armamentismo)
+- [Pacheco cria comissão para atualizar Lei do Impeachment](https://www.nexojornal.com.br/extra/2022/02/11/Pacheco-cria-comiss%C3%A3o-para-atualizar-Lei-do-Impeachment)
+- [Quais as questões em torno da aplicação da 4ª dose da vacina](https://www.nexojornal.com.br/expresso/2022/02/11/Quais-as-quest%C3%B5es-em-torno-da-aplica%C3%A7%C3%A3o-da-4%C2%AA-dose-da-vacina)
+- [‘Não há motivos para manter inquérito do caso Moïse em sigilo’](https://www.nexojornal.com.br/entrevista/2022/02/11/%E2%80%98N%C3%A3o-h%C3%A1-motivos-para-manter-inqu%C3%A9rito-do-caso-Mo%C3%AFse-em-sigilo%E2%80%99)
+- [Palmeiras desafia hegemonia europeia no Mundial de Clubes](https://www.nexojornal.com.br/grafico/2022/02/11/Palmeiras-desafia-hegemonia-europeia-no-Mundial-de-Clubes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
