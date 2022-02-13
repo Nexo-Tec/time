@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o ‘PL da Bala Solta’. E o que ele soma ao armamentismo](https://www.nexojornal.com.br/expresso/2022/02/11/O-que-%C3%A9-o-%E2%80%98PL-da-Bala-Solta%E2%80%99.-E-o-que-ele-soma-ao-armamentismo)
-- [Pacheco cria comissão para atualizar Lei do Impeachment](https://www.nexojornal.com.br/extra/2022/02/11/Pacheco-cria-comiss%C3%A3o-para-atualizar-Lei-do-Impeachment)
-- [Quais as questões em torno da aplicação da 4ª dose da vacina](https://www.nexojornal.com.br/expresso/2022/02/11/Quais-as-quest%C3%B5es-em-torno-da-aplica%C3%A7%C3%A3o-da-4%C2%AA-dose-da-vacina)
-- [‘Não há motivos para manter inquérito do caso Moïse em sigilo’](https://www.nexojornal.com.br/entrevista/2022/02/11/%E2%80%98N%C3%A3o-h%C3%A1-motivos-para-manter-inqu%C3%A9rito-do-caso-Mo%C3%AFse-em-sigilo%E2%80%99)
-- [Palmeiras desafia hegemonia europeia no Mundial de Clubes](https://www.nexojornal.com.br/grafico/2022/02/11/Palmeiras-desafia-hegemonia-europeia-no-Mundial-de-Clubes)
+- [O impacto do cigarro mentolado sobre os negros americanos](https://www.nexojornal.com.br/expresso/2022/02/12/O-impacto-do-cigarro-mentolado-sobre-os-negros-americanos)
+- [Quais as estratégias para a busca do voto evangélico em 2022](https://www.nexojornal.com.br/expresso/2022/02/12/Quais-as-estrat%C3%A9gias-para-a-busca-do-voto-evang%C3%A9lico-em-2022)
+- [Otan e Ucrânia: a esfinge russa e a maldição da geografia](https://www.nexojornal.com.br/ensaio/2022/Otan-e-Ucr%C3%A2nia-a-esfinge-russa-e-a-maldi%C3%A7%C3%A3o-da-geografia)
+- [22 ícones da Semana de Arte Moderna de 1922](https://www.nexojornal.com.br/especial/2022/02/12/22-%C3%ADcones-da-Semana-de-Arte-Moderna-de-1922)
+- [5 livros para entender a importância da Semana de 22](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-a-import%C3%A2ncia-da-Semana-de-22)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
