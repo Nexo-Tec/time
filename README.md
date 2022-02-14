@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O impacto do cigarro mentolado sobre os negros americanos](https://www.nexojornal.com.br/expresso/2022/02/12/O-impacto-do-cigarro-mentolado-sobre-os-negros-americanos)
-- [Quais as estratégias para a busca do voto evangélico em 2022](https://www.nexojornal.com.br/expresso/2022/02/12/Quais-as-estrat%C3%A9gias-para-a-busca-do-voto-evang%C3%A9lico-em-2022)
-- [Otan e Ucrânia: a esfinge russa e a maldição da geografia](https://www.nexojornal.com.br/ensaio/2022/Otan-e-Ucr%C3%A2nia-a-esfinge-russa-e-a-maldi%C3%A7%C3%A3o-da-geografia)
-- [22 ícones da Semana de Arte Moderna de 1922](https://www.nexojornal.com.br/especial/2022/02/12/22-%C3%ADcones-da-Semana-de-Arte-Moderna-de-1922)
-- [5 livros para entender a importância da Semana de 22](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-a-import%C3%A2ncia-da-Semana-de-22)
+- [Mendonça nega pedido para deixar relatoria de ação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/13/Mendon%C3%A7a-nega-pedido-para-deixar-relatoria-de-a%C3%A7%C3%A3o-contra-Bolsonaro)
+- [China censura questões sexuais e LGBTI+ de ‘Friends’](https://www.nexojornal.com.br/extra/2022/02/13/China-censura-quest%C3%B5es-sexuais-e-LGBTI-de-%E2%80%98Friends%E2%80%99)
+- [Não há garantia de direitos enquanto houver corrupção](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-h%C3%A1-garantia-de-direitos-enquanto-houver-corrup%C3%A7%C3%A3o)
+- [‘O racismo é a maior violência que o Brasil sofre’](https://www.nexojornal.com.br/entrevista/2022/02/13/%E2%80%98O-racismo-%C3%A9-a-maior-viol%C3%AAncia-que-o-Brasil-sofre%E2%80%99)
+- [Inflação: de quem é a responsabilidade pela alta geral de preços](https://www.nexojornal.com.br/expresso/2022/02/13/Infla%C3%A7%C3%A3o-de-quem-%C3%A9-a-responsabilidade-pela-alta-geral-de-pre%C3%A7os)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
