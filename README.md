@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [BC libera nova consulta sobre dinheiro esquecido nos bancos](https://www.nexojornal.com.br/extra/2022/02/14/BC-libera-nova-consulta-sobre-dinheiro-esquecido-nos-bancos)
-- [Peter Thiel: o bilionário do Vale do Silício ‘criador de reis da direita’](https://www.nexojornal.com.br/expresso/2022/02/14/Peter-Thiel-o-bilion%C3%A1rio-do-Vale-do-Sil%C3%ADcio-%E2%80%98criador-de-reis-da-direita%E2%80%99)
-- [Governo lança programa que estimula o garimpo na Amazônia](https://www.nexojornal.com.br/extra/2022/02/14/Governo-lan%C3%A7a-programa-que-estimula-o-garimpo-na-Amaz%C3%B4nia)
-- [Como se posicionam os principais atores na crise da Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/14/Como-se-posicionam-os-principais-atores-na-crise-da-Ucr%C3%A2nia)
-- [‘Vamos torcer pela paz’, diz Bolsonaro antes de viagem à Rússia](https://www.nexojornal.com.br/extra/2022/02/14/%E2%80%98Vamos-torcer-pela-paz%E2%80%99-diz-Bolsonaro-antes-de-viagem-%C3%A0-R%C3%BAssia)
+- [Cartórios registram janeiro mais mortal desde 2003](https://www.nexojornal.com.br/extra/2022/02/14/Cart%C3%B3rios-registram-janeiro-mais-mortal-desde-2003)
+- [Morre aos 75 anos Ivan Reitman, diretor de ‘Os caça-fantasmas’](https://www.nexojornal.com.br/extra/2022/02/14/Morre-aos-75-anos-Ivan-Reitman-diretor-de-%E2%80%98Os-ca%C3%A7a-fantasmas%E2%80%99)
+- [Mendonça nega pedido para deixar relatoria de caso contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/13/Mendon%C3%A7a-nega-pedido-para-deixar-relatoria-de-caso-contra-Bolsonaro)
+- [China censura questões sexuais e LGBTI+ de ‘Friends’](https://www.nexojornal.com.br/extra/2022/02/13/China-censura-quest%C3%B5es-sexuais-e-LGBTI-de-%E2%80%98Friends%E2%80%99)
+- [Não há garantia de direitos enquanto houver corrupção](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-h%C3%A1-garantia-de-direitos-enquanto-houver-corrup%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
