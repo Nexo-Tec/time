@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Medo pra ter coragem](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/medo-pra-ter-coragem/)
 - [@elladjbalde](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/elladjbalde/)
 - [Maeve Jinkings: ‘Parir obras também é uma maneira de contribuir com o mundo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maeve-jinkings-conta-como-foi-o-processo-ate-escolher-que-nao-teria-filho/)
 - [Natalia Timerman](https://gamarevista.uol.com.br/pessoas/questionario-proust/natalia-timerman/)
 - [Gótico Nordestino](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gotico-nordestino/)
-- [‘A indumentária revela traços do nosso modernismo que não queremos encarar’](https://gamarevista.uol.com.br/formato/conversas/a-indumentaria-revela-tracos-do-nosso-modernismo-que-nao-queremos-encarar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
