@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mendonça nega pedido para deixar relatoria de ação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/13/Mendon%C3%A7a-nega-pedido-para-deixar-relatoria-de-a%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Cartórios registram janeiro mais mortal desde 2003](https://www.nexojornal.com.br/extra/2022/02/14/Cart%C3%B3rios-registram-janeiro-mais-mortal-desde-2003)
+- [Morre aos 75 anos Ivan Reitman, diretor de ‘Os caça-fantasmas’](https://www.nexojornal.com.br/extra/2022/02/14/Morre-aos-75-anos-Ivan-Reitman-diretor-de-%E2%80%98Os-ca%C3%A7a-fantasmas%E2%80%99)
+- [Mendonça nega pedido para deixar relatoria de caso contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/13/Mendon%C3%A7a-nega-pedido-para-deixar-relatoria-de-caso-contra-Bolsonaro)
 - [China censura questões sexuais e LGBTI+ de ‘Friends’](https://www.nexojornal.com.br/extra/2022/02/13/China-censura-quest%C3%B5es-sexuais-e-LGBTI-de-%E2%80%98Friends%E2%80%99)
 - [Não há garantia de direitos enquanto houver corrupção](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-h%C3%A1-garantia-de-direitos-enquanto-houver-corrup%C3%A7%C3%A3o)
-- [‘O racismo é a maior violência que o Brasil sofre’](https://www.nexojornal.com.br/entrevista/2022/02/13/%E2%80%98O-racismo-%C3%A9-a-maior-viol%C3%AAncia-que-o-Brasil-sofre%E2%80%99)
-- [Inflação: de quem é a responsabilidade pela alta geral de preços](https://www.nexojornal.com.br/expresso/2022/02/13/Infla%C3%A7%C3%A3o-de-quem-%C3%A9-a-responsabilidade-pela-alta-geral-de-pre%C3%A7os)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
