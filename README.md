@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Escrevo para mostrar para outras pessoas trans que há outro caminho”](https://gamarevista.uol.com.br/sociedade/o-caminho-coletivo-da-visibilidade-trans/)
 - [Caneca de ágata](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneca-de-agata/)
 - [Medo pra ter coragem](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/medo-pra-ter-coragem/)
 - [@elladjbalde](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/elladjbalde/)
 - [Maeve Jinkings: ‘Parir obras também é uma maneira de contribuir com o mundo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maeve-jinkings-conta-como-foi-o-processo-ate-escolher-que-nao-teria-filho/)
-- [Natalia Timerman](https://gamarevista.uol.com.br/pessoas/questionario-proust/natalia-timerman/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
