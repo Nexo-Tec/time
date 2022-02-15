@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o Brasil pode fazer para frear a covid no 1º semestre](https://www.nexojornal.com.br/expresso/2022/02/14/O-que-o-Brasil-pode-fazer-para-frear-a-covid-no-1%C2%BA-semestre)
-- [Vendedor de balas é morto por policial à paisana em Niterói](https://www.nexojornal.com.br/extra/2022/02/14/Vendedor-de-balas-%C3%A9-morto-por-policial-%C3%A0-paisana-em-Niter%C3%B3i)
-- [O efeito econômico da crise da Ucrânia. E como fica o Brasil](https://www.nexojornal.com.br/expresso/2022/02/14/O-efeito-econ%C3%B4mico-da-crise-da-Ucr%C3%A2nia.-E-como-fica-o-Brasil)
-- [Semana de Arte Moderna em São Paulo e não de São Paulo](https://www.nexojornal.com.br/colunistas/2022/Semana-de-Arte-Moderna-em-S%C3%A3o-Paulo-e-n%C3%A3o-de-S%C3%A3o-Paulo)
-- [Bolsonaro em Moscou: a visita a Putin em meio à crise na Ucrânia](https://www.nexojornal.com.br/podcast/2022/02/14/Bolsonaro-em-Moscou-a-visita-a-Putin-em-meio-%C3%A0-crise-na-Ucr%C3%A2nia)
+- [Quais os sinais de distensão na Ucrânia. E o que ainda preocupa](https://www.nexojornal.com.br/expresso/2022/02/15/Quais-os-sinais-de-distens%C3%A3o-na-Ucr%C3%A2nia.-E-o-que-ainda-preocupa)
+- [As urgências da Amazônia sob as lentes de Sebastião Salgado](https://www.nexojornal.com.br/especial/2022/02/15/As-urg%C3%AAncias-da-Amaz%C3%B4nia-sob-as-lentes-de-Sebasti%C3%A3o-Salgado)
+- [As dúvidas do TCU sobre a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/02/15/As-d%C3%BAvidas-do-TCU-sobre-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
+- [Os 8 filmes que marcaram a trajetória de Arnaldo Jabor](https://www.nexojornal.com.br/expresso/2022/02/15/Os-8-filmes-que-marcaram-a-trajet%C3%B3ria-de-Arnaldo-Jabor)
+- [BBB 22 expulsa Maria por agredir Natália no Jogo da Discórdia](https://www.nexojornal.com.br/extra/2022/02/15/BBB-22-expulsa-Maria-por-agredir-Nat%C3%A1lia-no-Jogo-da-Disc%C3%B3rdia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
