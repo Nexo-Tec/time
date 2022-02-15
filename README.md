@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [BC libera nova consulta sobre dinheiro esquecido nos bancos](https://www.nexojornal.com.br/extra/2022/02/14/BC-libera-nova-consulta-sobre-dinheiro-esquecido-nos-bancos)
-- [Peter Thiel: o bilionário do Vale do Silício ‘criador de reis da direita’](https://www.nexojornal.com.br/expresso/2022/02/14/Peter-Thiel-o-bilion%C3%A1rio-do-Vale-do-Sil%C3%ADcio-%E2%80%98criador-de-reis-da-direita%E2%80%99)
-- [Governo lança programa que estimula o garimpo na Amazônia](https://www.nexojornal.com.br/extra/2022/02/14/Governo-lan%C3%A7a-programa-que-estimula-o-garimpo-na-Amaz%C3%B4nia)
-- [Como se posicionam os principais atores na crise da Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/14/Como-se-posicionam-os-principais-atores-na-crise-da-Ucr%C3%A2nia)
-- [‘Vamos torcer pela paz’, diz Bolsonaro antes de viagem à Rússia](https://www.nexojornal.com.br/extra/2022/02/14/%E2%80%98Vamos-torcer-pela-paz%E2%80%99-diz-Bolsonaro-antes-de-viagem-%C3%A0-R%C3%BAssia)
+- [O que o Brasil pode fazer para frear a covid no 1º semestre](https://www.nexojornal.com.br/expresso/2022/02/14/O-que-o-Brasil-pode-fazer-para-frear-a-covid-no-1%C2%BA-semestre)
+- [Vendedor de balas é morto por policial à paisana em Niterói](https://www.nexojornal.com.br/extra/2022/02/14/Vendedor-de-balas-%C3%A9-morto-por-policial-%C3%A0-paisana-em-Niter%C3%B3i)
+- [O efeito econômico da crise da Ucrânia. E como fica o Brasil](https://www.nexojornal.com.br/expresso/2022/02/14/O-efeito-econ%C3%B4mico-da-crise-da-Ucr%C3%A2nia.-E-como-fica-o-Brasil)
+- [Semana de Arte Moderna em São Paulo e não de São Paulo](https://www.nexojornal.com.br/colunistas/2022/Semana-de-Arte-Moderna-em-S%C3%A3o-Paulo-e-n%C3%A3o-de-S%C3%A3o-Paulo)
+- [Bolsonaro em Moscou: a visita a Putin em meio à crise na Ucrânia](https://www.nexojornal.com.br/podcast/2022/02/14/Bolsonaro-em-Moscou-a-visita-a-Putin-em-meio-%C3%A0-crise-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
