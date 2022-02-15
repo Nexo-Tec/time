@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o Brasil pode fazer para frear a covid no 1º semestre](https://www.nexojornal.com.br/expresso/2022/02/14/O-que-o-Brasil-pode-fazer-para-frear-a-covid-no-1%C2%BA-semestre)
-- [Vendedor de balas é morto por policial à paisana em Niterói](https://www.nexojornal.com.br/extra/2022/02/14/Vendedor-de-balas-%C3%A9-morto-por-policial-%C3%A0-paisana-em-Niter%C3%B3i)
-- [O efeito econômico da crise da Ucrânia. E como fica o Brasil](https://www.nexojornal.com.br/expresso/2022/02/14/O-efeito-econ%C3%B4mico-da-crise-da-Ucr%C3%A2nia.-E-como-fica-o-Brasil)
-- [Semana de Arte Moderna em São Paulo e não de São Paulo](https://www.nexojornal.com.br/colunistas/2022/Semana-de-Arte-Moderna-em-S%C3%A3o-Paulo-e-n%C3%A3o-de-S%C3%A3o-Paulo)
-- [Bolsonaro em Moscou: a visita a Putin em meio à crise na Ucrânia](https://www.nexojornal.com.br/podcast/2022/02/14/Bolsonaro-em-Moscou-a-visita-a-Putin-em-meio-%C3%A0-crise-na-Ucr%C3%A2nia)
+- [Cartórios registram janeiro mais mortal desde 2003](https://www.nexojornal.com.br/extra/2022/02/14/Cart%C3%B3rios-registram-janeiro-mais-mortal-desde-2003)
+- [Morre aos 75 anos Ivan Reitman, diretor de ‘Os caça-fantasmas’](https://www.nexojornal.com.br/extra/2022/02/14/Morre-aos-75-anos-Ivan-Reitman-diretor-de-%E2%80%98Os-ca%C3%A7a-fantasmas%E2%80%99)
+- [Mendonça nega pedido para deixar relatoria de caso contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/13/Mendon%C3%A7a-nega-pedido-para-deixar-relatoria-de-caso-contra-Bolsonaro)
+- [China censura questões sexuais e LGBTI+ de ‘Friends’](https://www.nexojornal.com.br/extra/2022/02/13/China-censura-quest%C3%B5es-sexuais-e-LGBTI-de-%E2%80%98Friends%E2%80%99)
+- [Não há garantia de direitos enquanto houver corrupção](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-h%C3%A1-garantia-de-direitos-enquanto-houver-corrup%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
