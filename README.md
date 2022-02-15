@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [BC libera nova consulta sobre dinheiro esquecido nos bancos](https://www.nexojornal.com.br/extra/2022/02/14/BC-libera-nova-consulta-sobre-dinheiro-esquecido-nos-bancos)
-- [Peter Thiel: o bilionário do Vale do Silício ‘criador de reis da direita’](https://www.nexojornal.com.br/expresso/2022/02/14/Peter-Thiel-o-bilion%C3%A1rio-do-Vale-do-Sil%C3%ADcio-%E2%80%98criador-de-reis-da-direita%E2%80%99)
-- [Governo lança programa que estimula o garimpo na Amazônia](https://www.nexojornal.com.br/extra/2022/02/14/Governo-lan%C3%A7a-programa-que-estimula-o-garimpo-na-Amaz%C3%B4nia)
-- [Como se posicionam os principais atores na crise da Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/14/Como-se-posicionam-os-principais-atores-na-crise-da-Ucr%C3%A2nia)
-- [‘Vamos torcer pela paz’, diz Bolsonaro antes de viagem à Rússia](https://www.nexojornal.com.br/extra/2022/02/14/%E2%80%98Vamos-torcer-pela-paz%E2%80%99-diz-Bolsonaro-antes-de-viagem-%C3%A0-R%C3%BAssia)
+- [Quais os sinais de distensão na Ucrânia. E o que ainda preocupa](https://www.nexojornal.com.br/expresso/2022/02/15/Quais-os-sinais-de-distens%C3%A3o-na-Ucr%C3%A2nia.-E-o-que-ainda-preocupa)
+- [As urgências da Amazônia sob as lentes de Sebastião Salgado](https://www.nexojornal.com.br/especial/2022/02/15/As-urg%C3%AAncias-da-Amaz%C3%B4nia-sob-as-lentes-de-Sebasti%C3%A3o-Salgado)
+- [As dúvidas do TCU sobre a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/02/15/As-d%C3%BAvidas-do-TCU-sobre-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
+- [Os 8 filmes que marcaram a trajetória de Arnaldo Jabor](https://www.nexojornal.com.br/expresso/2022/02/15/Os-8-filmes-que-marcaram-a-trajet%C3%B3ria-de-Arnaldo-Jabor)
+- [BBB 22 expulsa Maria por agredir Natália no Jogo da Discórdia](https://www.nexojornal.com.br/extra/2022/02/15/BBB-22-expulsa-Maria-por-agredir-Nat%C3%A1lia-no-Jogo-da-Disc%C3%B3rdia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
