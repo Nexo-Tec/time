@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A nova tragédia na serra do Rio, 11 anos depois](https://www.nexojornal.com.br/expresso/2022/02/16/A-nova-trag%C3%A9dia-na-serra-do-Rio-11-anos-depois)
+- [Anvisa recebe pedido para liberar pílula contra a covid](https://www.nexojornal.com.br/extra/2022/02/16/Anvisa-recebe-pedido-para-liberar-p%C3%ADlula-contra-a-covid)
+- [As mortes na área serrana do Rio e o drama da chuva 11 anos depois](https://www.nexojornal.com.br/expresso/2022/02/16/As-mortes-na-%C3%A1rea-serrana-do-Rio-e-o-drama-da-chuva-11-anos-depois)
 - [Fernando Azevedo desiste de cargo no Tribunal Superior Eleitoral](https://www.nexojornal.com.br/extra/2022/02/16/Fernando-Azevedo-desiste-de-cargo-no-Tribunal-Superior-Eleitoral)
 - [Ex-presidente de Honduras é detido semanas após deixar poder](https://www.nexojornal.com.br/extra/2022/02/16/Ex-presidente-de-Honduras-%C3%A9-detido-semanas-ap%C3%B3s-deixar-poder)
 - [‘Somos solidários à Rússia’, diz Bolsonaro a Putin](https://www.nexojornal.com.br/extra/2022/02/16/%E2%80%98Somos-solid%C3%A1rios-%C3%A0-R%C3%BAssia%E2%80%99-diz-Bolsonaro-a-Putin)
-- [Temporal deixa dezenas de mortos em Petrópolis, no Rio](https://www.nexojornal.com.br/extra/2022/02/16/Temporal-deixa-dezenas-de-mortos-em-Petr%C3%B3polis-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
