@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deputado diz que vai processar o ‘Nexo’ e pedir indenização](https://www.nexojornal.com.br/expresso/2022/02/15/Deputado-diz-que-vai-processar-o-%E2%80%98Nexo%E2%80%99-e-pedir-indeniza%C3%A7%C3%A3o)
-- [Empresa de armas é responsabilizada por massacre nos EUA](https://www.nexojornal.com.br/extra/2022/02/15/Empresa-de-armas-%C3%A9-responsabilizada-por-massacre-nos-EUA)
-- [Por onde anda Anna Sorokin, protagonista de ‘Inventando Anna’](https://www.nexojornal.com.br/expresso/2022/02/15/Por-onde-anda-Anna-Sorokin-protagonista-de-%E2%80%98Inventando-Anna%E2%80%99)
-- [Bolsonaro evitou a guerra? Ex-ministro diz que era brincadeira](https://www.nexojornal.com.br/extra/2022/02/15/Bolsonaro-evitou-a-guerra-Ex-ministro-diz-que-era-brincadeira)
-- [Bélgica propõe introduzir semana de trabalho de 4 dias](https://www.nexojornal.com.br/extra/2022/02/15/B%C3%A9lgica-prop%C3%B5e-introduzir-semana-de-trabalho-de-4-dias)
+- [Quais os sinais de distensão na Ucrânia. E o que ainda preocupa](https://www.nexojornal.com.br/expresso/2022/02/15/Quais-os-sinais-de-distens%C3%A3o-na-Ucr%C3%A2nia.-E-o-que-ainda-preocupa)
+- [As urgências da Amazônia sob as lentes de Sebastião Salgado](https://www.nexojornal.com.br/especial/2022/02/15/As-urg%C3%AAncias-da-Amaz%C3%B4nia-sob-as-lentes-de-Sebasti%C3%A3o-Salgado)
+- [As dúvidas do TCU sobre a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/02/15/As-d%C3%BAvidas-do-TCU-sobre-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
+- [Os 8 filmes que marcaram a trajetória de Arnaldo Jabor](https://www.nexojornal.com.br/expresso/2022/02/15/Os-8-filmes-que-marcaram-a-trajet%C3%B3ria-de-Arnaldo-Jabor)
+- [BBB 22 expulsa Maria por agredir Natália no Jogo da Discórdia](https://www.nexojornal.com.br/extra/2022/02/15/BBB-22-expulsa-Maria-por-agredir-Nat%C3%A1lia-no-Jogo-da-Disc%C3%B3rdia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
