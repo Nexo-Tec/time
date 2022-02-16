@@ -134,7 +134,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A Semana de 22 e o Modernismo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2022/02/14/A-Semana-de-22-e-o-Modernismo-no-Brasil1)
+- [A semana de 22 e o Modernismo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2022/02/14/A-semana-de-22-e-o-Modernismo-no-Brasil)
 - [Mulher preta e cientista: transgredir para resistir](https://pp.nexojornal.com.br/ponto-de-vista/2022/Mulher-preta-e-cientista-transgredir-para-resistir)
 - [Lucimar Rosa Dias: desenvolvimento infantil e o racismo estrutural](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/02/10/Lucimar-Rosa-Dias-desenvolvimento-infantil-e-o-racismo-estrutural)
 - [Escrever para aprender: dispositivo pedagógico para os anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escrever-para-aprender-dispositivo-pedag%C3%B3gico-para-os-anos-finais-do-ensino-fundamental)
