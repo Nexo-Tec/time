@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aprenda a escrever melhor](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprenda-a-escrever-melhor/)
 - [Ser Moderno](https://gamarevista.uol.com.br/colunistas/marcello-dantas/ser-moderno/)
 - [“Escrevo para mostrar para outras pessoas trans que há outro caminho”](https://gamarevista.uol.com.br/sociedade/o-caminho-coletivo-da-visibilidade-trans/)
 - [Caneca de ágata](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneca-de-agata/)
 - [Medo pra ter coragem](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/medo-pra-ter-coragem/)
-- [@elladjbalde](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/elladjbalde/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
