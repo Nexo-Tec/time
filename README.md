@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Das vitrines do centro de São Paulo, agora se vê arte](https://gamarevista.uol.com.br/parcerias/das-vitrines-do-centro-de-sao-paulo-agora-se-ve-arte/)
-- [Aprenda a escrever melhor](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprenda-a-escrever-melhor/)
-- [Ser Moderno](https://gamarevista.uol.com.br/colunistas/marcello-dantas/ser-moderno/)
-- [“Escrevo para mostrar para outras pessoas trans que há outro caminho”](https://gamarevista.uol.com.br/sociedade/o-caminho-coletivo-da-visibilidade-trans/)
-- [Caneca de ágata](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneca-de-agata/)
+- [Escritora francesa Annie Ernaux fala do próprio aborto em novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/escritora-francesa-annie-ernaux-fala-do-proprio-aborto-em-novo-livro/)
+- [‘Licorice Pizza’, com três indicações ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/licorice-pizza-com-tres-indicacoes-ao-oscar/)
+- [Amazônia pelo olhar de Sebastião Salgado](https://gamarevista.uol.com.br/achamos-que-vale/ir/amazonia-pelo-olhar-de-sebastiao-salgado/)
+- [A segunda temporada de ‘Além do Meme’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-segunda-temporada-de-alem-do-meme/)
+- [Tom Zé, Tupi e outros na peça ‘Língua Brasileira’](https://gamarevista.uol.com.br/achamos-que-vale/ir/tom-ze-tupi-e-outros-na-peca-lingua-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
