@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A nova tragédia na serra do Rio, 11 anos depois](https://www.nexojornal.com.br/expresso/2022/02/16/A-nova-trag%C3%A9dia-na-serra-do-Rio-11-anos-depois)
-- [Fernando Azevedo desiste de cargo no Tribunal Superior Eleitoral](https://www.nexojornal.com.br/extra/2022/02/16/Fernando-Azevedo-desiste-de-cargo-no-Tribunal-Superior-Eleitoral)
-- [Ex-presidente de Honduras é detido semanas após deixar poder](https://www.nexojornal.com.br/extra/2022/02/16/Ex-presidente-de-Honduras-%C3%A9-detido-semanas-ap%C3%B3s-deixar-poder)
-- [‘Somos solidários à Rússia’, diz Bolsonaro a Putin](https://www.nexojornal.com.br/extra/2022/02/16/%E2%80%98Somos-solid%C3%A1rios-%C3%A0-R%C3%BAssia%E2%80%99-diz-Bolsonaro-a-Putin)
-- [Temporal deixa dezenas de mortos em Petrópolis, no Rio](https://www.nexojornal.com.br/extra/2022/02/16/Temporal-deixa-dezenas-de-mortos-em-Petr%C3%B3polis-no-Rio)
+- [Bolsonaro é recebido por Orbán e exalta valores conservadores](https://www.nexojornal.com.br/extra/2022/02/17/Bolsonaro-%C3%A9-recebido-por-Orb%C3%A1n-e-exalta-valores-conservadores)
+- [Petrópolis sabia de áreas de risco desde 2017](https://www.nexojornal.com.br/extra/2022/02/17/Petr%C3%B3polis-sabia-de-%C3%A1reas-de-risco-desde-2017)
+- [Por que as chuvas na região serrana do Rio são tão mortais](https://www.nexojornal.com.br/expresso/2022/02/16/Por-que-as-chuvas-na-regi%C3%A3o-serrana-do-Rio-s%C3%A3o-t%C3%A3o-mortais)
+- [O potencial da vacina de RNA em estudo na África do Sul](https://www.nexojornal.com.br/expresso/2022/02/16/O-potencial-da-vacina-de-RNA-em-estudo-na-%C3%81frica-do-Sul)
+- [Filme espanhol ‘Alcarràs’ ganha Urso de Ouro em Berlim](https://www.nexojornal.com.br/extra/2022/02/16/Filme-espanhol-%E2%80%98Alcarr%C3%A0s%E2%80%99-ganha-Urso-de-Ouro-em-Berlim)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
