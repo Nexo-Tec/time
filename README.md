@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cidade do Rio suspende vacinação infantil por falta de doses](https://www.nexojornal.com.br/extra/2022/02/17/Cidade-do-Rio-suspende-vacina%C3%A7%C3%A3o-infantil-por-falta-de-doses)
+- [‘A jaula’: um suspense sobre a cultura do punitivismo no Brasil](https://www.nexojornal.com.br/expresso/2022/02/17/%E2%80%98A-jaula%E2%80%99-um-suspense-sobre-a-cultura-do-punitivismo-no-Brasil)
+- [Ucrânia acusa rebeldes pró-Rússia por ataque na fronteira](https://www.nexojornal.com.br/extra/2022/02/17/Ucr%C3%A2nia-acusa-rebeldes-pr%C3%B3-R%C3%BAssia-por-ataque-na-fronteira)
 - [Bolsonaro é recebido por Orbán e exalta valores conservadores](https://www.nexojornal.com.br/extra/2022/02/17/Bolsonaro-%C3%A9-recebido-por-Orb%C3%A1n-e-exalta-valores-conservadores)
 - [Petrópolis sabia de áreas de risco desde 2017](https://www.nexojornal.com.br/extra/2022/02/17/Petr%C3%B3polis-sabia-de-%C3%A1reas-de-risco-desde-2017)
-- [Por que as chuvas na região serrana do Rio são tão mortais](https://www.nexojornal.com.br/expresso/2022/02/16/Por-que-as-chuvas-na-regi%C3%A3o-serrana-do-Rio-s%C3%A3o-t%C3%A3o-mortais)
-- [O potencial da vacina de RNA em estudo na África do Sul](https://www.nexojornal.com.br/expresso/2022/02/16/O-potencial-da-vacina-de-RNA-em-estudo-na-%C3%81frica-do-Sul)
-- [Filme espanhol ‘Alcarràs’ ganha Urso de Ouro em Berlim](https://www.nexojornal.com.br/extra/2022/02/16/Filme-espanhol-%E2%80%98Alcarr%C3%A0s%E2%80%99-ganha-Urso-de-Ouro-em-Berlim)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
