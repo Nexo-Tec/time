@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cidade do Rio suspende vacinação infantil por falta de doses](https://www.nexojornal.com.br/extra/2022/02/17/Cidade-do-Rio-suspende-vacina%C3%A7%C3%A3o-infantil-por-falta-de-doses)
-- [‘A jaula’: um suspense sobre a cultura do punitivismo no Brasil](https://www.nexojornal.com.br/expresso/2022/02/17/%E2%80%98A-jaula%E2%80%99-um-suspense-sobre-a-cultura-do-punitivismo-no-Brasil)
-- [Ucrânia acusa rebeldes pró-Rússia por ataque na fronteira](https://www.nexojornal.com.br/extra/2022/02/17/Ucr%C3%A2nia-acusa-rebeldes-pr%C3%B3-R%C3%BAssia-por-ataque-na-fronteira)
-- [Bolsonaro é recebido por Orbán e exalta valores conservadores](https://www.nexojornal.com.br/extra/2022/02/17/Bolsonaro-%C3%A9-recebido-por-Orb%C3%A1n-e-exalta-valores-conservadores)
-- [Petrópolis sabia de áreas de risco desde 2017](https://www.nexojornal.com.br/extra/2022/02/17/Petr%C3%B3polis-sabia-de-%C3%A1reas-de-risco-desde-2017)
+- [Técnicos do TCU veem contradições de Moro sobre consultoria](https://www.nexojornal.com.br/extra/2022/02/18/T%C3%A9cnicos-do-TCU-veem-contradi%C3%A7%C3%B5es-de-Moro-sobre-consultoria)
+- [Bolsonaro diz que não é possível prevenir todas as tragédias](https://www.nexojornal.com.br/extra/2022/02/18/Bolsonaro-diz-que-n%C3%A3o-%C3%A9-poss%C3%ADvel-prevenir-todas-as-trag%C3%A9dias)
+- [Estado australiano define salário mínimo para entregadores de app](https://www.nexojornal.com.br/extra/2022/02/18/Estado-australiano-define-sal%C3%A1rio-m%C3%ADnimo-para-entregadores-de-app)
+- [Os embates entre Aras e os senadores da CPI da Pandemia](https://www.nexojornal.com.br/expresso/2022/02/18/Os-embates-entre-Aras-e-os-senadores-da-CPI-da-Pandemia)
+- [Bombardeios no leste da Ucrânia ficam mais intensos](https://www.nexojornal.com.br/extra/2022/02/18/Bombardeios-no-leste-da-Ucr%C3%A2nia-ficam-mais-intensos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
