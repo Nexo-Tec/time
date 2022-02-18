@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro é recebido por Orbán e exalta valores conservadores](https://www.nexojornal.com.br/extra/2022/02/17/Bolsonaro-%C3%A9-recebido-por-Orb%C3%A1n-e-exalta-valores-conservadores)
-- [Petrópolis sabia de áreas de risco desde 2017](https://www.nexojornal.com.br/extra/2022/02/17/Petr%C3%B3polis-sabia-de-%C3%A1reas-de-risco-desde-2017)
-- [Por que as chuvas na região serrana do Rio são tão mortais](https://www.nexojornal.com.br/expresso/2022/02/16/Por-que-as-chuvas-na-regi%C3%A3o-serrana-do-Rio-s%C3%A3o-t%C3%A3o-mortais)
-- [O potencial da vacina de RNA em estudo na África do Sul](https://www.nexojornal.com.br/expresso/2022/02/16/O-potencial-da-vacina-de-RNA-em-estudo-na-%C3%81frica-do-Sul)
-- [Filme espanhol ‘Alcarràs’ ganha Urso de Ouro em Berlim](https://www.nexojornal.com.br/extra/2022/02/16/Filme-espanhol-%E2%80%98Alcarr%C3%A0s%E2%80%99-ganha-Urso-de-Ouro-em-Berlim)
+- [EUA criticam fala de solidariedade de Bolsonaro à Rússia](https://www.nexojornal.com.br/extra/2022/02/18/EUA-criticam-fala-de-solidariedade-de-Bolsonaro-%C3%A0-R%C3%BAssia)
+- [Aras pede fim de inquérito contra Bolsonaro por vazar PF](https://www.nexojornal.com.br/extra/2022/02/18/Aras-pede-fim-de-inqu%C3%A9rito-contra-Bolsonaro-por-vazar-PF)
+- [‘Abordagem policial se tornou prática que produz raiva’](https://www.nexojornal.com.br/entrevista/2022/02/17/%E2%80%98Abordagem-policial-se-tornou-pr%C3%A1tica-que-produz-raiva%E2%80%99)
+- [Os nativos digitais são alvos fáceis para as fake news](https://www.nexojornal.com.br/colunistas/2022/Os-nativos-digitais-s%C3%A3o-alvos-f%C3%A1ceis-para-as-fake-news)
+- [A gratuidade no transporte público de cidades brasileiras](https://www.nexojornal.com.br/academico/2022/02/17/A-gratuidade-no-transporte-p%C3%BAblico-de-cidades-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
