@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cada Um Carregue Sua Culpa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cada-um-carregue-sua-culpa/)
 - [Escritora francesa Annie Ernaux fala do próprio aborto em novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/escritora-francesa-annie-ernaux-fala-do-proprio-aborto-em-novo-livro/)
 - [‘Licorice Pizza’, com três indicações ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/licorice-pizza-com-tres-indicacoes-ao-oscar/)
 - [Amazônia pelo olhar de Sebastião Salgado](https://gamarevista.uol.com.br/achamos-que-vale/ir/amazonia-pelo-olhar-de-sebastiao-salgado/)
 - [A segunda temporada de ‘Além do Meme’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-segunda-temporada-de-alem-do-meme/)
-- [Tom Zé, Tupi e outros na peça ‘Língua Brasileira’](https://gamarevista.uol.com.br/achamos-que-vale/ir/tom-ze-tupi-e-outros-na-peca-lingua-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
