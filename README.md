@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA criticam fala de solidariedade de Bolsonaro à Rússia](https://www.nexojornal.com.br/extra/2022/02/18/EUA-criticam-fala-de-solidariedade-de-Bolsonaro-%C3%A0-R%C3%BAssia)
-- [Aras pede fim de inquérito contra Bolsonaro por vazar PF](https://www.nexojornal.com.br/extra/2022/02/18/Aras-pede-fim-de-inqu%C3%A9rito-contra-Bolsonaro-por-vazar-PF)
-- [‘Abordagem policial se tornou prática que produz raiva’](https://www.nexojornal.com.br/entrevista/2022/02/17/%E2%80%98Abordagem-policial-se-tornou-pr%C3%A1tica-que-produz-raiva%E2%80%99)
-- [Os nativos digitais são alvos fáceis para as fake news](https://www.nexojornal.com.br/colunistas/2022/Os-nativos-digitais-s%C3%A3o-alvos-f%C3%A1ceis-para-as-fake-news)
-- [A gratuidade no transporte público de cidades brasileiras](https://www.nexojornal.com.br/academico/2022/02/17/A-gratuidade-no-transporte-p%C3%BAblico-de-cidades-brasileiras)
+- [Técnicos do TCU veem contradições de Moro sobre consultoria](https://www.nexojornal.com.br/extra/2022/02/18/T%C3%A9cnicos-do-TCU-veem-contradi%C3%A7%C3%B5es-de-Moro-sobre-consultoria)
+- [Bolsonaro diz que não é possível prevenir todas as tragédias](https://www.nexojornal.com.br/extra/2022/02/18/Bolsonaro-diz-que-n%C3%A3o-%C3%A9-poss%C3%ADvel-prevenir-todas-as-trag%C3%A9dias)
+- [Estado australiano define salário mínimo para entregadores de app](https://www.nexojornal.com.br/extra/2022/02/18/Estado-australiano-define-sal%C3%A1rio-m%C3%ADnimo-para-entregadores-de-app)
+- [Os embates entre Aras e os senadores da CPI da Pandemia](https://www.nexojornal.com.br/expresso/2022/02/18/Os-embates-entre-Aras-e-os-senadores-da-CPI-da-Pandemia)
+- [Bombardeios no leste da Ucrânia ficam mais intensos](https://www.nexojornal.com.br/extra/2022/02/18/Bombardeios-no-leste-da-Ucr%C3%A2nia-ficam-mais-intensos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
