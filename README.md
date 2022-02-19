@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Técnicos do TCU veem contradições de Moro sobre consultoria](https://www.nexojornal.com.br/extra/2022/02/18/T%C3%A9cnicos-do-TCU-veem-contradi%C3%A7%C3%B5es-de-Moro-sobre-consultoria)
-- [Bolsonaro diz que não é possível prevenir todas as tragédias](https://www.nexojornal.com.br/extra/2022/02/18/Bolsonaro-diz-que-n%C3%A3o-%C3%A9-poss%C3%ADvel-prevenir-todas-as-trag%C3%A9dias)
-- [Estado australiano define salário mínimo para entregadores de app](https://www.nexojornal.com.br/extra/2022/02/18/Estado-australiano-define-sal%C3%A1rio-m%C3%ADnimo-para-entregadores-de-app)
-- [Os embates entre Aras e os senadores da CPI da Pandemia](https://www.nexojornal.com.br/expresso/2022/02/18/Os-embates-entre-Aras-e-os-senadores-da-CPI-da-Pandemia)
-- [Bombardeios no leste da Ucrânia ficam mais intensos](https://www.nexojornal.com.br/extra/2022/02/18/Bombardeios-no-leste-da-Ucr%C3%A2nia-ficam-mais-intensos)
+- [Itamaraty diz lamentar críticas da Casa Branca a Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/19/Itamaraty-diz-lamentar-cr%C3%ADticas-da-Casa-Branca-a-Bolsonaro)
+- [Em meio à crise, Putin lança mísseis em exercício militar](https://www.nexojornal.com.br/extra/2022/02/19/Em-meio-%C3%A0-crise-Putin-lan%C3%A7a-m%C3%ADsseis-em-exerc%C3%ADcio-militar)
+- [Tensão na Ucrânia cresce e Biden fala de novo em invasão russa](https://www.nexojornal.com.br/extra/2022/02/18/Tens%C3%A3o-na-Ucr%C3%A2nia-cresce-e-Biden-fala-de-novo-em-invas%C3%A3o-russa)
+- [Como o laudêmio entra no debate do desastre de Petrópolis](https://www.nexojornal.com.br/expresso/2022/02/18/Como-o-laud%C3%AAmio-entra-no-debate-do-desastre-de-Petr%C3%B3polis)
+- [A versão ilustrada de ‘Ulisses’ que ficou proibida por décadas](https://www.nexojornal.com.br/expresso/2022/02/18/A-vers%C3%A3o-ilustrada-de-%E2%80%98Ulisses%E2%80%99-que-ficou-proibida-por-d%C3%A9cadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
