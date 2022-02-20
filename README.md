@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Itamaraty diz lamentar críticas da Casa Branca a Bolsonaro](https://www.nexojornal.com.br/extra/2022/02/19/Itamaraty-diz-lamentar-cr%C3%ADticas-da-Casa-Branca-a-Bolsonaro)
-- [Em meio à crise, Putin lança mísseis em exercício militar](https://www.nexojornal.com.br/extra/2022/02/19/Em-meio-%C3%A0-crise-Putin-lan%C3%A7a-m%C3%ADsseis-em-exerc%C3%ADcio-militar)
-- [Tensão na Ucrânia cresce e Biden fala de novo em invasão russa](https://www.nexojornal.com.br/extra/2022/02/18/Tens%C3%A3o-na-Ucr%C3%A2nia-cresce-e-Biden-fala-de-novo-em-invas%C3%A3o-russa)
-- [Como o laudêmio entra no debate do desastre de Petrópolis](https://www.nexojornal.com.br/expresso/2022/02/18/Como-o-laud%C3%AAmio-entra-no-debate-do-desastre-de-Petr%C3%B3polis)
-- [A versão ilustrada de ‘Ulisses’ que ficou proibida por décadas](https://www.nexojornal.com.br/expresso/2022/02/18/A-vers%C3%A3o-ilustrada-de-%E2%80%98Ulisses%E2%80%99-que-ficou-proibida-por-d%C3%A9cadas)
+- [Número de mortos ultrapassa 150 em tragédia de Petrópolis](https://www.nexojornal.com.br/extra/2022/02/20/N%C3%BAmero-de-mortos-ultrapassa-150-em-trag%C3%A9dia-de-Petr%C3%B3polis)
+- [Rainha Elizabeth 2ª contrai covid-19 e tem sintomas leves](https://www.nexojornal.com.br/extra/2022/02/20/Rainha-Elizabeth-2%C2%AA-contrai-covid-19-e-tem-sintomas-leves)
+- [Como as princesas da Disney e os Simpsons seriam se fossem reais](https://www.nexojornal.com.br/expresso/2022/02/20/Como-as-princesas-da-Disney-e-os-Simpsons-seriam-se-fossem-reais)
+- [5 livros indispensáveis para compreender a mitologia grega](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-indispens%C3%A1veis-para-compreender-a-mitologia-grega)
+- [O 2º ano sem renda para os ambulantes do carnaval de rua](https://www.nexojornal.com.br/expresso/2022/02/20/O-2%C2%BA-ano-sem-renda-para-os-ambulantes-do-carnaval-de-rua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
