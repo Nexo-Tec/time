@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@celestebarber](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celestebarber/)
 - [‘No planejamento financeiro, é preciso ter clareza de metas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/consultora-financeira-thabata-abreu-fala-sobre-a-dificuldade-de-se-fazer-planos/)
 - [Leonardo Bittencourt](https://gamarevista.uol.com.br/pessoas/questionario-proust/leonardo-bittencourt/)
 - [“Escrevo para mostrar para outras pessoas trans que há outro caminho”](https://gamarevista.uol.com.br/sociedade/o-caminho-coletivo-da-visibilidade-trans/)
 - [Cada Um Carregue Sua Culpa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cada-um-carregue-sua-culpa/)
-- [Escritora francesa Annie Ernaux fala do próprio aborto em novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/escritora-francesa-annie-ernaux-fala-do-proprio-aborto-em-novo-livro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
