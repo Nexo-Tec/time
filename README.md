@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia mantém tropas na fronteira bielorrussa da Ucrânia](https://www.nexojornal.com.br/extra/2022/02/20/R%C3%BAssia-mant%C3%A9m-tropas-na-fronteira-bielorrussa-da-Ucr%C3%A2nia)
-- [Número de mortos chega a 169 em tragédia de Petrópolis](https://www.nexojornal.com.br/extra/2022/02/20/N%C3%BAmero-de-mortos-chega-a-169-em-trag%C3%A9dia-de-Petr%C3%B3polis)
+- [Número de mortos ultrapassa 150 em tragédia de Petrópolis](https://www.nexojornal.com.br/extra/2022/02/20/N%C3%BAmero-de-mortos-ultrapassa-150-em-trag%C3%A9dia-de-Petr%C3%B3polis)
 - [Rainha Elizabeth 2ª contrai covid-19 e tem sintomas leves](https://www.nexojornal.com.br/extra/2022/02/20/Rainha-Elizabeth-2%C2%AA-contrai-covid-19-e-tem-sintomas-leves)
 - [Como as princesas da Disney e os Simpsons seriam se fossem reais](https://www.nexojornal.com.br/expresso/2022/02/20/Como-as-princesas-da-Disney-e-os-Simpsons-seriam-se-fossem-reais)
 - [5 livros indispensáveis para compreender a mitologia grega](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-indispens%C3%A1veis-para-compreender-a-mitologia-grega)
+- [O 2º ano sem renda para os ambulantes do carnaval de rua](https://www.nexojornal.com.br/expresso/2022/02/20/O-2%C2%BA-ano-sem-renda-para-os-ambulantes-do-carnaval-de-rua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
