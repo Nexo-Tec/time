@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [‘Não existe consumo de álcool sem risco’](https://gamarevista.uol.com.br/formato/conversas/consumo-alcool-pandemia-ana-cecilia-marques/)
+- [“Não existe consumo de álcool sem risco”](https://gamarevista.uol.com.br/formato/conversas/consumo-alcool-pandemia-ana-cecilia-marques/)
 - [Camisa Polo Lacoste](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/camisa-polo-lacoste/)
 - [Elegância transgressiva](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/elegancia-transgressiva/)
 - [@celestebarber](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celestebarber/)
