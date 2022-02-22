@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [União Europeia afirma que aplicará sanções à Rússia](https://www.nexojornal.com.br/extra/2022/02/21/Uni%C3%A3o-Europeia-afirma-que-aplicar%C3%A1-san%C3%A7%C3%B5es-%C3%A0-R%C3%BAssia)
-- [Truth Social, rede de Donald Trump, chega à App Store dos EUA](https://www.nexojornal.com.br/extra/2022/02/21/Truth-Social-rede-de-Donald-Trump-chega-%C3%A0-App-Store-dos-EUA)
-- [Putin reconhece áreas separatistas e eleva tensão na Ucrânia](https://www.nexojornal.com.br/extra/2022/02/21/Putin-reconhece-%C3%A1reas-separatistas-e-eleva-tens%C3%A3o-na-Ucr%C3%A2nia)
-- [‘Belfast’: a infância em meio aos conflitos da Irlanda do Norte](https://www.nexojornal.com.br/expresso/2022/02/21/%E2%80%98Belfast%E2%80%99-a-inf%C3%A2ncia-em-meio-aos-conflitos-da-Irlanda-do-Norte)
-- [Bolsonaro convida príncipe saudita para visita ao Brasil](https://www.nexojornal.com.br/extra/2022/02/21/Bolsonaro-convida-pr%C3%ADncipe-saudita-para-visita-ao-Brasil)
+- [Rússia mantém tropas na fronteira bielorrussa da Ucrânia](https://www.nexojornal.com.br/extra/2022/02/20/R%C3%BAssia-mant%C3%A9m-tropas-na-fronteira-bielorrussa-da-Ucr%C3%A2nia)
+- [Número de mortos chega a 169 em tragédia de Petrópolis](https://www.nexojornal.com.br/extra/2022/02/20/N%C3%BAmero-de-mortos-chega-a-169-em-trag%C3%A9dia-de-Petr%C3%B3polis)
+- [Rainha Elizabeth 2ª contrai covid-19 e tem sintomas leves](https://www.nexojornal.com.br/extra/2022/02/20/Rainha-Elizabeth-2%C2%AA-contrai-covid-19-e-tem-sintomas-leves)
+- [Como as princesas da Disney e os Simpsons seriam se fossem reais](https://www.nexojornal.com.br/expresso/2022/02/20/Como-as-princesas-da-Disney-e-os-Simpsons-seriam-se-fossem-reais)
+- [5 livros indispensáveis para compreender a mitologia grega](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-indispens%C3%A1veis-para-compreender-a-mitologia-grega)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
