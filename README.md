@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Rodrigo Pacheco tem mais poder sobre as florestas brasileiras do que você pode imaginar](https://pp.nexojornal.com.br/ponto-de-vista/2022/Rodrigo-Pacheco-tem-mais-poder-sobre-as-florestas-brasileiras-do-que-voc%C3%AA-pode-imaginar)
 - [Instituições políticas](https://pp.nexojornal.com.br/glossario/Institui%C3%A7%C3%B5es-pol%C3%ADticas)
 - [Judicialização da política sanitária e a atuação do Supremo Tribunal Federal](https://pp.nexojornal.com.br/linha-do-tempo/2022/Judicializa%C3%A7%C3%A3o-da-pol%C3%ADtica-sanit%C3%A1ria-e-a-atua%C3%A7%C3%A3o-do-Supremo-Tribunal-Federal)
 - [As universidades federais depois das cotas](https://pp.nexojornal.com.br/opiniao/2022/As-universidades-federais-depois-das-cotas)
 - [A Semana de 22 e o Modernismo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2022/02/14/A-Semana-de-22-e-o-Modernismo-no-Brasil1)
-- [Mulher preta e cientista: transgredir para resistir](https://pp.nexojornal.com.br/ponto-de-vista/2022/Mulher-preta-e-cientista-transgredir-para-resistir)
 <!-- PP_LIST:END -->
 
