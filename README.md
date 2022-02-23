@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [MEC retém informações do Censo Escolar e de outras bases de dados](https://www.nexojornal.com.br/extra/2022/02/22/MEC-ret%C3%A9m-informa%C3%A7%C3%B5es-do-Censo-Escolar-e-de-outras-bases-de-dados)
-- [As justificativas usadas no Egito Antigo para faltar ao trabalho](https://www.nexojornal.com.br/expresso/2022/02/22/As-justificativas-usadas-no-Egito-Antigo-para-faltar-ao-trabalho)
-- [Aborto: o avanço dos direitos das mulheres na América Latina](https://www.nexojornal.com.br/podcast/2022/02/22/Aborto-o-avan%C3%A7o-dos-direitos-das-mulheres-na-Am%C3%A9rica-Latina)
-- [Presidente americano anuncia sanções contra a Rússia](https://www.nexojornal.com.br/extra/2022/02/22/Presidente-americano-anuncia-san%C3%A7%C3%B5es-contra-a-R%C3%BAssia)
-- [Ministério Público denuncia três acusados pela morte de Moïse](https://www.nexojornal.com.br/extra/2022/02/22/Minist%C3%A9rio-P%C3%BAblico-denuncia-tr%C3%AAs-acusados-pela-morte-de-Mo%C3%AFse)
+- [Como fica a situação do Brasil no agravamento da crise da Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/22/Como-fica-a-situa%C3%A7%C3%A3o-do-Brasil-no-agravamento-da-crise-da-Ucr%C3%A2nia)
+- [A queda de sites e apps das Americanas. E o peso do e-commerce](https://www.nexojornal.com.br/expresso/2022/02/22/A-queda-de-sites-e-apps-das-Americanas.-E-o-peso-do-e-commerce)
+- [Fiocruz entrega doses de vacinas nacionais contra covid-19](https://www.nexojornal.com.br/extra/2022/02/22/Fiocruz-entrega-doses-de-vacinas-nacionais-contra-covid-19)
+- [‘Golpista do Tinder’ já ganhou mais de US$ 30 mil vendendo vídeos](https://www.nexojornal.com.br/extra/2022/02/22/%E2%80%98Golpista-do-Tinder%E2%80%99-j%C3%A1-ganhou-mais-de-US-30-mil-vendendo-v%C3%ADdeos)
+- [As funções e as receitas de municípios, estados e União](https://www.nexojornal.com.br/grafico/2022/02/22/As-fun%C3%A7%C3%B5es-e-as-receitas-de-munic%C3%ADpios-estados-e-Uni%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
