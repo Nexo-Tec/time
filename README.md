@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [MEC retém informações do Censo Escolar e de outras bases de dados](https://www.nexojornal.com.br/extra/2022/02/22/MEC-ret%C3%A9m-informa%C3%A7%C3%B5es-do-Censo-Escolar-e-de-outras-bases-de-dados)
-- [As justificativas usadas no Egito Antigo para faltar ao trabalho](https://www.nexojornal.com.br/expresso/2022/02/22/As-justificativas-usadas-no-Egito-Antigo-para-faltar-ao-trabalho)
-- [Aborto: o avanço dos direitos das mulheres na América Latina](https://www.nexojornal.com.br/podcast/2022/02/22/Aborto-o-avan%C3%A7o-dos-direitos-das-mulheres-na-Am%C3%A9rica-Latina)
-- [Presidente americano anuncia sanções contra a Rússia](https://www.nexojornal.com.br/extra/2022/02/22/Presidente-americano-anuncia-san%C3%A7%C3%B5es-contra-a-R%C3%BAssia)
-- [Ministério Público denuncia três acusados pela morte de Moïse](https://www.nexojornal.com.br/extra/2022/02/22/Minist%C3%A9rio-P%C3%BAblico-denuncia-tr%C3%AAs-acusados-pela-morte-de-Mo%C3%AFse)
+- [A brasileira que pode entrar para  o grupo de k-pop Blackswan](https://www.nexojornal.com.br/expresso/2022/02/23/A-brasileira-que-pode-entrar-para-o-grupo-de-k-pop-Blackswan)
+- [Pesquisa diz que Brasil é 3º pior país do mundo para morrer](https://www.nexojornal.com.br/extra/2022/02/23/Pesquisa-diz-que-Brasil-%C3%A9-3%C2%BA-pior-pa%C3%ADs-do-mundo-para-morrer)
+- [Governador do Texas manda investigar pais de crianças trans](https://www.nexojornal.com.br/extra/2022/02/23/Governador-do-Texas-manda-investigar-pais-de-crian%C3%A7as-trans)
+- [Justiça manda Sabesp conter esgoto no litoral norte de SP](https://www.nexojornal.com.br/extra/2022/02/23/Justi%C3%A7a-manda-Sabesp-conter-esgoto-no-litoral-norte-de-SP)
+- [Dólar opera abaixo de R$ 5 pela primeira vez em 8 meses](https://www.nexojornal.com.br/extra/2022/02/23/D%C3%B3lar-opera-abaixo-de-R-5-pela-primeira-vez-em-8-meses)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
