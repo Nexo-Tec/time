@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Minha avó plantou o Brasil](https://gamarevista.uol.com.br/colunistas/bianca-santana/minha-avo-plantou-o-brasil/)
 - [“Não existe consumo de álcool sem risco”](https://gamarevista.uol.com.br/formato/conversas/consumo-alcool-pandemia-ana-cecilia-marques/)
 - [Camisa Polo Lacoste](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/camisa-polo-lacoste/)
 - [Elegância transgressiva](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/elegancia-transgressiva/)
 - [@celestebarber](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celestebarber/)
-- [‘No planejamento financeiro, é preciso ter clareza de metas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/consultora-financeira-thabata-abreu-fala-sobre-a-dificuldade-de-se-fazer-planos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
