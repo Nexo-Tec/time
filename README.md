@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A brasileira que pode entrar para  o grupo de k-pop Blackswan](https://www.nexojornal.com.br/expresso/2022/02/23/A-brasileira-que-pode-entrar-para-o-grupo-de-k-pop-Blackswan)
-- [Pesquisa diz que Brasil é 3º pior país do mundo para morrer](https://www.nexojornal.com.br/extra/2022/02/23/Pesquisa-diz-que-Brasil-%C3%A9-3%C2%BA-pior-pa%C3%ADs-do-mundo-para-morrer)
-- [Governador do Texas manda investigar pais de crianças trans](https://www.nexojornal.com.br/extra/2022/02/23/Governador-do-Texas-manda-investigar-pais-de-crian%C3%A7as-trans)
-- [Justiça manda Sabesp conter esgoto no litoral norte de SP](https://www.nexojornal.com.br/extra/2022/02/23/Justi%C3%A7a-manda-Sabesp-conter-esgoto-no-litoral-norte-de-SP)
-- [Dólar opera abaixo de R$ 5 pela primeira vez em 8 meses](https://www.nexojornal.com.br/extra/2022/02/23/D%C3%B3lar-opera-abaixo-de-R-5-pela-primeira-vez-em-8-meses)
+- [União Europeia recomenda fim de teste para viajantes vacinados](https://www.nexojornal.com.br/extra/2022/02/23/Uni%C3%A3o-Europeia-recomenda-fim-de-teste-para-viajantes-vacinados)
+- [Ucrânia libera porte de armas em meio à crise com a Rússia](https://www.nexojornal.com.br/extra/2022/02/23/Ucr%C3%A2nia-libera-porte-de-armas-em-meio-%C3%A0-crise-com-a-R%C3%BAssia)
+- [Como fica a situação do Brasil no agravamento da crise da Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/22/Como-fica-a-situa%C3%A7%C3%A3o-do-Brasil-no-agravamento-da-crise-da-Ucr%C3%A2nia)
+- [A queda de sites e apps das Americanas. E o peso do e-commerce](https://www.nexojornal.com.br/expresso/2022/02/22/A-queda-de-sites-e-apps-das-Americanas.-E-o-peso-do-e-commerce)
+- [Fiocruz entrega doses de vacinas nacionais contra covid-19](https://www.nexojornal.com.br/extra/2022/02/22/Fiocruz-entrega-doses-de-vacinas-nacionais-contra-covid-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
