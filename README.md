@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As primeiras horas da invasão russa à Ucrânia em 16 imagens](https://www.nexojornal.com.br/expresso/2022/02/24/As-primeiras-horas-da-invas%C3%A3o-russa-%C3%A0-Ucr%C3%A2nia-em-16-imagens)
-- [A invasão militar da Rússia à Ucrânia explicada em 5 mapas](https://www.nexojornal.com.br/expresso/2022/02/24/A-invas%C3%A3o-militar-da-R%C3%BAssia-%C3%A0-Ucr%C3%A2nia-explicada-em-5-mapas)
-- [Brasil pede a cidadãos que deixem Ucrânia e repudia ataque](https://www.nexojornal.com.br/extra/2022/02/24/Brasil-pede-a-cidad%C3%A3os-que-deixem-Ucr%C3%A2nia-e-repudia-ataque)
-- [Potências ocidentais prometem sanções: ‘Putin vai pagar’](https://www.nexojornal.com.br/extra/2022/02/24/Pot%C3%AAncias-ocidentais-prometem-san%C3%A7%C3%B5es-%E2%80%98Putin-vai-pagar%E2%80%99)
-- [Ministérios da Ucrânia são alvos de ciberataques russos](https://www.nexojornal.com.br/extra/2022/02/24/Minist%C3%A9rios-da-Ucr%C3%A2nia-s%C3%A3o-alvos-de-ciberataques-russos)
+- [A brasileira que pode entrar para  o grupo de k-pop Blackswan](https://www.nexojornal.com.br/expresso/2022/02/23/A-brasileira-que-pode-entrar-para-o-grupo-de-k-pop-Blackswan)
+- [Pesquisa diz que Brasil é 3º pior país do mundo para morrer](https://www.nexojornal.com.br/extra/2022/02/23/Pesquisa-diz-que-Brasil-%C3%A9-3%C2%BA-pior-pa%C3%ADs-do-mundo-para-morrer)
+- [Governador do Texas manda investigar pais de crianças trans](https://www.nexojornal.com.br/extra/2022/02/23/Governador-do-Texas-manda-investigar-pais-de-crian%C3%A7as-trans)
+- [Justiça manda Sabesp conter esgoto no litoral norte de SP](https://www.nexojornal.com.br/extra/2022/02/23/Justi%C3%A7a-manda-Sabesp-conter-esgoto-no-litoral-norte-de-SP)
+- [Dólar opera abaixo de R$ 5 pela primeira vez em 8 meses](https://www.nexojornal.com.br/extra/2022/02/23/D%C3%B3lar-opera-abaixo-de-R-5-pela-primeira-vez-em-8-meses)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
