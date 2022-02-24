@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como começar a ouvir Paul McCartney](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/como-comecar-a-ouvir-paul-mccartney/)
+- [A arte Abdias Nascimento no Masp e no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-abdias-nascimento-no-masp-e-no-inhotim/)
+- [Curso de poesia na Casa das Rosas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-de-poesia-na-casa-das-rosas/)
+- [‘O Poderoso Chefão’ faz 50 e volta ao cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poderoso-chefao-faz-50-e-volta-ao-cinema/)
 - [Pode o MD salvar casamentos?](https://gamarevista.uol.com.br/achamos-que-vale/ler/pode-o-md-salvar-casamentos/)
-- [CV: Gustavo Silvestre](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gustavo-silvestre-ponto-firme/)
-- [Minha avó plantou o Brasil](https://gamarevista.uol.com.br/colunistas/bianca-santana/minha-avo-plantou-o-brasil/)
-- [“Não existe consumo de álcool sem risco”](https://gamarevista.uol.com.br/formato/conversas/consumo-alcool-pandemia-ana-cecilia-marques/)
-- [Camisa Polo Lacoste](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/camisa-polo-lacoste/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
