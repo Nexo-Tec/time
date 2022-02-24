@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A brasileira que pode entrar para  o grupo de k-pop Blackswan](https://www.nexojornal.com.br/expresso/2022/02/23/A-brasileira-que-pode-entrar-para-o-grupo-de-k-pop-Blackswan)
-- [Pesquisa diz que Brasil é 3º pior país do mundo para morrer](https://www.nexojornal.com.br/extra/2022/02/23/Pesquisa-diz-que-Brasil-%C3%A9-3%C2%BA-pior-pa%C3%ADs-do-mundo-para-morrer)
-- [Governador do Texas manda investigar pais de crianças trans](https://www.nexojornal.com.br/extra/2022/02/23/Governador-do-Texas-manda-investigar-pais-de-crian%C3%A7as-trans)
-- [Justiça manda Sabesp conter esgoto no litoral norte de SP](https://www.nexojornal.com.br/extra/2022/02/23/Justi%C3%A7a-manda-Sabesp-conter-esgoto-no-litoral-norte-de-SP)
-- [Dólar opera abaixo de R$ 5 pela primeira vez em 8 meses](https://www.nexojornal.com.br/extra/2022/02/23/D%C3%B3lar-opera-abaixo-de-R-5-pela-primeira-vez-em-8-meses)
+- [O impacto das gangues nos homicídios entre jovens](https://www.nexojornal.com.br/academico/2022/02/24/O-impacto-das-gangues-nos-homic%C3%ADdios-entre-jovens)
+- [O que fazer quando as notícias são desesperadoras](https://www.nexojornal.com.br/expresso/2022/02/24/O-que-fazer-quando-as-not%C3%ADcias-s%C3%A3o-desesperadoras)
+- [Biden detalha novas sanções econômicas do G7 à Rússia](https://www.nexojornal.com.br/extra/2022/02/24/Biden-detalha-novas-san%C3%A7%C3%B5es-econ%C3%B4micas-do-G7-%C3%A0-R%C3%BAssia)
+- [Forças russas tomam antiga usina atômica de Chernobil](https://www.nexojornal.com.br/extra/2022/02/24/For%C3%A7as-russas-tomam-antiga-usina-at%C3%B4mica-de-Chernobil)
+- [Nobel da Paz russo critica invasão da Ucrânia em editorial](https://www.nexojornal.com.br/extra/2022/02/24/Nobel-da-Paz-russo-critica-invas%C3%A3o-da-Ucr%C3%A2nia-em-editorial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
