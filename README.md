@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que ler, ouvir e assistir para entender a invasão russa na Ucrânia](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-ler-ouvir-e-assistir-para-entender-a-invasao-russa-na-ucrania/)
 - [Por Que Escrever?](https://gamarevista.uol.com.br/cultura/trecho-de-livro/por-que-escrever/)
 - [Como começar a ouvir Paul McCartney](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/como-comecar-a-ouvir-paul-mccartney/)
 - [A arte Abdias Nascimento no Masp e no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-abdias-nascimento-no-masp-e-no-inhotim/)
 - [Curso de poesia na Casa das Rosas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-de-poesia-na-casa-das-rosas/)
-- [‘O Poderoso Chefão’ faz 50 e volta ao cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poderoso-chefao-faz-50-e-volta-ao-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
