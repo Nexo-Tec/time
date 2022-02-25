@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O impacto das gangues nos homicídios entre jovens](https://www.nexojornal.com.br/academico/2022/02/24/O-impacto-das-gangues-nos-homic%C3%ADdios-entre-jovens)
-- [O que fazer quando as notícias são desesperadoras](https://www.nexojornal.com.br/expresso/2022/02/24/O-que-fazer-quando-as-not%C3%ADcias-s%C3%A3o-desesperadoras)
-- [Biden detalha novas sanções econômicas do G7 à Rússia](https://www.nexojornal.com.br/extra/2022/02/24/Biden-detalha-novas-san%C3%A7%C3%B5es-econ%C3%B4micas-do-G7-%C3%A0-R%C3%BAssia)
-- [Forças russas tomam antiga usina atômica de Chernobil](https://www.nexojornal.com.br/extra/2022/02/24/For%C3%A7as-russas-tomam-antiga-usina-at%C3%B4mica-de-Chernobil)
-- [Nobel da Paz russo critica invasão da Ucrânia em editorial](https://www.nexojornal.com.br/extra/2022/02/24/Nobel-da-Paz-russo-critica-invas%C3%A3o-da-Ucr%C3%A2nia-em-editorial)
+- [As primeiras horas da invasão russa à Ucrânia em 16 imagens](https://www.nexojornal.com.br/expresso/2022/02/24/As-primeiras-horas-da-invas%C3%A3o-russa-%C3%A0-Ucr%C3%A2nia-em-16-imagens)
+- [A invasão militar da Rússia à Ucrânia explicada em 5 mapas](https://www.nexojornal.com.br/expresso/2022/02/24/A-invas%C3%A3o-militar-da-R%C3%BAssia-%C3%A0-Ucr%C3%A2nia-explicada-em-5-mapas)
+- [Brasil pede a cidadãos que deixem Ucrânia e repudia ataque](https://www.nexojornal.com.br/extra/2022/02/24/Brasil-pede-a-cidad%C3%A3os-que-deixem-Ucr%C3%A2nia-e-repudia-ataque)
+- [Potências ocidentais prometem sanções: ‘Putin vai pagar’](https://www.nexojornal.com.br/extra/2022/02/24/Pot%C3%AAncias-ocidentais-prometem-san%C3%A7%C3%B5es-%E2%80%98Putin-vai-pagar%E2%80%99)
+- [Ministérios da Ucrânia são alvos de ciberataques russos](https://www.nexojornal.com.br/extra/2022/02/24/Minist%C3%A9rios-da-Ucr%C3%A2nia-s%C3%A3o-alvos-de-ciberataques-russos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
