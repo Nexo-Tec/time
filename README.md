@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Financiamento da educação à luz da experiência internacional](https://pp.nexojornal.com.br/opiniao/2022/Financiamento-da-educa%C3%A7%C3%A3o-%C3%A0-luz-da-experi%C3%AAncia-internacional)
 - [5 pontos sobre os efeitos da exposição a telas eletrônicas na primeira infância](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/5-pontos-sobre-os-efeitos-da-exposi%C3%A7%C3%A3o-a-telas-eletr%C3%B4nicas-na-primeira-inf%C3%A2ncia)
 - [A política de cotas na UFRJ: uma abordagem interseccional de raça, classe e gênero](https://pp.nexojornal.com.br/opiniao/2022/A-pol%C3%ADtica-de-cotas-na-UFRJ-uma-abordagem-interseccional-de-ra%C3%A7a-classe-e-g%C3%AAnero)
 - [Direitos humanos, o combate às desigualdades e  o debate fiscal](https://pp.nexojornal.com.br/ponto-de-vista/2022/Direitos-humanos-o-combate-%C3%A0s-desigualdades-e-o-debate-fiscal)
 - [Reparação racial como resposta à política de guerra às drogas](https://pp.nexojornal.com.br/opiniao/2022/Repara%C3%A7%C3%A3o-racial-como-resposta-%C3%A0-pol%C3%ADtica-de-guerra-%C3%A0s-drogas)
+- [Rodrigo Pacheco tem mais poder sobre as florestas brasileiras do que você pode imaginar](https://pp.nexojornal.com.br/ponto-de-vista/2022/Rodrigo-Pacheco-tem-mais-poder-sobre-as-florestas-brasileiras-do-que-voc%C3%AA-pode-imaginar)
 <!-- PP_LIST:END -->
 
