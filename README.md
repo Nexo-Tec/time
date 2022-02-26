@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Extratos da semana | 25.fev.22](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-25.fev.22)
-- [Governo ucraniano diz que aceita negociar com Putin](https://www.nexojornal.com.br/extra/2022/02/25/Governo-ucraniano-diz-que-aceita-negociar-com-Putin)
-- [‘A trindade bantu’: obstáculos multiculturais](https://www.nexojornal.com.br/estante/trechos/2022/02/25/%E2%80%98A-trindade-bantu%E2%80%99-obst%C3%A1culos-multiculturais)
-- [Mineradoras obtêm nova data para eliminar barragens](https://www.nexojornal.com.br/extra/2022/02/25/Mineradoras-obt%C3%AAm-nova-data-para-eliminar-barragens)
-- [Planalto troca pela 3ª vez o diretor-geral da Polícia Federal](https://www.nexojornal.com.br/extra/2022/02/25/Planalto-troca-pela-3%C2%AA-vez-o-diretor-geral-da-Pol%C3%ADcia-Federal)
+- [Como a Rússia preparou e executou o ataque à Ucrânia](https://www.nexojornal.com.br/expresso/2022/02/25/Como-a-R%C3%BAssia-preparou-e-executou-o-ataque-%C3%A0-Ucr%C3%A2nia)
+- [Rússia sinaliza negociar com Ucrânia, mas incentiva golpe](https://www.nexojornal.com.br/extra/2022/02/25/R%C3%BAssia-sinaliza-negociar-com-Ucr%C3%A2nia-mas-incentiva-golpe)
+- [Romênia diz que mais de 10 mil ucranianos entraram no país](https://www.nexojornal.com.br/extra/2022/02/25/Rom%C3%AAnia-diz-que-mais-de-10-mil-ucranianos-entraram-no-pa%C3%ADs)
+- [Quem é Zelensky, presidente da Ucrânia e ‘alvo nº 1’ da Rússia](https://www.nexojornal.com.br/expresso/2022/02/25/Quem-%C3%A9-Zelensky-presidente-da-Ucr%C3%A2nia-e-%E2%80%98alvo-n%C2%BA-1%E2%80%99-da-R%C3%BAssia)
+- [União Europeia anuncia sanções a bancos e empresas russas](https://www.nexojornal.com.br/extra/2022/02/25/Uni%C3%A3o-Europeia-anuncia-san%C3%A7%C3%B5es-a-bancos-e-empresas-russas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
