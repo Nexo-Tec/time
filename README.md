@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Parte de bancos russos será suspensa do sistema Swift](https://www.nexojornal.com.br/extra/2022/02/26/Parte-de-bancos-russos-ser%C3%A1-suspensa-do-sistema-Swift)
-- [Quais os recursos de Rússia e Ucrânia na batalha por Kiev](https://www.nexojornal.com.br/expresso/2022/02/26/Quais-os-recursos-de-R%C3%BAssia-e-Ucr%C3%A2nia-na-batalha-por-Kiev)
-- [Cresce pressão para tirar Rússia de sistema financeiro Swift](https://www.nexojornal.com.br/extra/2022/02/26/Cresce-press%C3%A3o-para-tirar-R%C3%BAssia-de-sistema-financeiro-Swift)
-- [Mais de 120 mil ucranianos já deixaram o país, segundo a ONU](https://www.nexojornal.com.br/extra/2022/02/26/Mais-de-120-mil-ucranianos-j%C3%A1-deixaram-o-pa%C3%ADs-segundo-a-ONU)
-- [Forças russas e ucranianas disputam controle da capital Kiev](https://www.nexojornal.com.br/extra/2022/02/26/For%C3%A7as-russas-e-ucranianas-disputam-controle-da-capital-Kiev)
+- [Telegram bloqueia contas ligadas a Allan do Santos](https://www.nexojornal.com.br/extra/2022/02/26/Telegram-bloqueia-contas-ligadas-a-Allan-do-Santos)
+- [Saindo do armário: sem mais jogos e mentiras](https://www.nexojornal.com.br/ensaio/2022/Saindo-do-arm%C3%A1rio-sem-mais-jogos-e-mentiras)
+- [Ucrânia e Rússia: como filmes disponíveis no Brasil abordam o tema](https://www.nexojornal.com.br/expresso/2022/02/26/Ucr%C3%A2nia-e-R%C3%BAssia-como-filmes-dispon%C3%ADveis-no-Brasil-abordam-o-tema)
+- [A pressão para ocultar a identidade de agentes da ditadura](https://www.nexojornal.com.br/expresso/2022/02/26/A-press%C3%A3o-para-ocultar-a-identidade-de-agentes-da-ditadura)
+- [A nova leva de games que questionam o sentido da guerra](https://www.nexojornal.com.br/expresso/2022/02/26/A-nova-leva-de-games-que-questionam-o-sentido-da-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
