@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@agnesnunes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/agnesnunes/)
 - [Podcast no Brasil: A espontaneidade e o peso da responsabilidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/podcast-no-brasil-a-espontaneidade-e-o-peso-da-responsabilidade/)
 - [Juçara Marçal](https://gamarevista.uol.com.br/pessoas/questionario-proust/jucara-marcal/)
 - [O que ler, ouvir e assistir para entender a invasão russa na Ucrânia](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-ler-ouvir-e-assistir-para-entender-a-invasao-russa-na-ucrania/)
 - [Por Que Escrever?](https://gamarevista.uol.com.br/cultura/trecho-de-livro/por-que-escrever/)
-- [Como começar a ouvir Paul McCartney](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/como-comecar-a-ouvir-paul-mccartney/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
