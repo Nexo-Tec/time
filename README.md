@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Para o futuro, eu acredito é na rapaziada que se sonha](https://www.nexojornal.com.br/ensaio/2022/Para-o-futuro-eu-acredito-%C3%A9-na-rapaziada-que-se-sonha)
-- [O que o lucro recorde da Petrobras significa para a crise do Brasil](https://www.nexojornal.com.br/expresso/2022/02/27/O-que-o-lucro-recorde-da-Petrobras-significa-para-a-crise-do-Brasil)
-- [Bolsonaro defende posicionamento ‘neutro’ do Brasil sobre Rússia](https://www.nexojornal.com.br/extra/2022/02/27/Bolsonaro-defende-posicionamento-%E2%80%98neutro%E2%80%99-do-Brasil-sobre-R%C3%BAssia)
-- [Um raio-x do alumínio: sua importância e onde é produzido](https://www.nexojornal.com.br/grafico/2022/02/27/Um-raio-x-do-alum%C3%ADnio-sua-import%C3%A2ncia-e-onde-%C3%A9-produzido)
-- [O app de entregas do Equador que ajuda venezuelanos](https://www.nexojornal.com.br/expresso/2022/02/27/O-app-de-entregas-do-Equador-que-ajuda-venezuelanos)
+- [ONGs denunciam uso de bombas de fragmentação na Ucrânia](https://www.nexojornal.com.br/extra/2022/02/28/ONGs-denunciam-uso-de-bombas-de-fragmenta%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
+- [Negociação entre Rússia e Ucrânia se encerra sem avanços](https://www.nexojornal.com.br/extra/2022/02/28/Negocia%C3%A7%C3%A3o-entre-R%C3%BAssia-e-Ucr%C3%A2nia-se-encerra-sem-avan%C3%A7os)
+- [Mais de 3 bi de pessoas são altamente vulneráveis à crise do clima](https://www.nexojornal.com.br/extra/2022/02/28/Mais-de-3-bi-de-pessoas-s%C3%A3o-altamente-vulner%C3%A1veis-%C3%A0-crise-do-clima)
+- [O que é ‘guerra híbrida’. E por que o conflito atual é uma](https://www.nexojornal.com.br/expresso/2022/02/28/O-que-%C3%A9-%E2%80%98guerra-h%C3%ADbrida%E2%80%99.-E-por-que-o-conflito-atual-%C3%A9-uma)
+- [Moeda russa despenca e bolsa de Moscou fecha por um dia](https://www.nexojornal.com.br/extra/2022/02/28/Moeda-russa-despenca-e-bolsa-de-Moscou-fecha-por-um-dia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
