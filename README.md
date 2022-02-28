@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Para o futuro, eu acredito é na rapaziada que se sonha](https://www.nexojornal.com.br/ensaio/2022/Para-o-futuro-eu-acredito-%C3%A9-na-rapaziada-que-se-sonha)
-- [O que o lucro recorde da Petrobras significa para a crise do Brasil](https://www.nexojornal.com.br/expresso/2022/02/27/O-que-o-lucro-recorde-da-Petrobras-significa-para-a-crise-do-Brasil)
-- [Bolsonaro defende posicionamento ‘neutro’ do Brasil sobre Rússia](https://www.nexojornal.com.br/extra/2022/02/27/Bolsonaro-defende-posicionamento-%E2%80%98neutro%E2%80%99-do-Brasil-sobre-R%C3%BAssia)
-- [Um raio-x do alumínio: sua importância e onde é produzido](https://www.nexojornal.com.br/grafico/2022/02/27/Um-raio-x-do-alum%C3%ADnio-sua-import%C3%A2ncia-e-onde-%C3%A9-produzido)
-- [O app de entregas do Equador que ajuda venezuelanos](https://www.nexojornal.com.br/expresso/2022/02/27/O-app-de-entregas-do-Equador-que-ajuda-venezuelanos)
+- [O museu de pequenas coisas com valor sentimental](https://www.nexojornal.com.br/expresso/2022/02/27/O-museu-de-pequenas-coisas-com-valor-sentimental)
+- [Diante de Putin, Alemanha faz virada histórica em política militar](https://www.nexojornal.com.br/extra/2022/02/27/Diante-de-Putin-Alemanha-faz-virada-hist%C3%B3rica-em-pol%C3%ADtica-militar)
+- [Rússia e Ucrânia: entre abertura de diálogo e pressão nuclear](https://www.nexojornal.com.br/expresso/2022/02/27/R%C3%BAssia-e-Ucr%C3%A2nia-entre-abertura-de-di%C3%A1logo-e-press%C3%A3o-nuclear)
+- [Em ação inédita, União Europeia vai financiar armas para Ucrânia](https://www.nexojornal.com.br/extra/2022/02/27/Em-a%C3%A7%C3%A3o-in%C3%A9dita-Uni%C3%A3o-Europeia-vai-financiar-armas-para-Ucr%C3%A2nia)
+- [Putin coloca sistema de defesa nuclear russo em alerta](https://www.nexojornal.com.br/extra/2022/02/27/Putin-coloca-sistema-de-defesa-nuclear-russo-em-alerta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
