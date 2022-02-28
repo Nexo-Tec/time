@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Parte de bancos russos será suspensa do sistema Swift](https://www.nexojornal.com.br/extra/2022/02/26/Parte-de-bancos-russos-ser%C3%A1-suspensa-do-sistema-Swift)
-- [Quais os recursos de Rússia e Ucrânia na batalha por Kiev](https://www.nexojornal.com.br/expresso/2022/02/26/Quais-os-recursos-de-R%C3%BAssia-e-Ucr%C3%A2nia-na-batalha-por-Kiev)
-- [Cresce pressão para tirar Rússia de sistema financeiro Swift](https://www.nexojornal.com.br/extra/2022/02/26/Cresce-press%C3%A3o-para-tirar-R%C3%BAssia-de-sistema-financeiro-Swift)
-- [Mais de 120 mil ucranianos já deixaram o país, segundo a ONU](https://www.nexojornal.com.br/extra/2022/02/26/Mais-de-120-mil-ucranianos-j%C3%A1-deixaram-o-pa%C3%ADs-segundo-a-ONU)
-- [Forças russas e ucranianas disputam controle da capital Kiev](https://www.nexojornal.com.br/extra/2022/02/26/For%C3%A7as-russas-e-ucranianas-disputam-controle-da-capital-Kiev)
+- [O museu de pequenas coisas com valor sentimental](https://www.nexojornal.com.br/expresso/2022/02/27/O-museu-de-pequenas-coisas-com-valor-sentimental)
+- [Diante de Putin, Alemanha faz virada histórica em política militar](https://www.nexojornal.com.br/extra/2022/02/27/Diante-de-Putin-Alemanha-faz-virada-hist%C3%B3rica-em-pol%C3%ADtica-militar)
+- [Rússia e Ucrânia: entre abertura de diálogo e pressão nuclear](https://www.nexojornal.com.br/expresso/2022/02/27/R%C3%BAssia-e-Ucr%C3%A2nia-entre-abertura-de-di%C3%A1logo-e-press%C3%A3o-nuclear)
+- [Em ação inédita, União Europeia vai financiar armas para Ucrânia](https://www.nexojornal.com.br/extra/2022/02/27/Em-a%C3%A7%C3%A3o-in%C3%A9dita-Uni%C3%A3o-Europeia-vai-financiar-armas-para-Ucr%C3%A2nia)
+- [Putin coloca sistema de defesa nuclear russo em alerta](https://www.nexojornal.com.br/extra/2022/02/27/Putin-coloca-sistema-de-defesa-nuclear-russo-em-alerta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
