@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fifa proíbe Rússia de disputar Copa do Qatar e outros torneios](https://www.nexojornal.com.br/extra/2022/02/28/Fifa-pro%C3%ADbe-R%C3%BAssia-de-disputar-Copa-do-Qatar-e-outros-torneios)
-- [As idas e vindas para se lançar um documento único no Brasil](https://www.nexojornal.com.br/expresso/2022/02/28/As-idas-e-vindas-para-se-lan%C3%A7ar-um-documento-%C3%BAnico-no-Brasil)
-- [Nada que seja tóxico pode ser bom](https://www.nexojornal.com.br/colunistas/2022/Nada-que-seja-t%C3%B3xico-pode-ser-bom)
-- [Guerra na Ucrânia: quais as principais frentes diplomáticas](https://www.nexojornal.com.br/expresso/2022/02/28/Guerra-na-Ucr%C3%A2nia-quais-as-principais-frentes-diplom%C3%A1ticas)
-- [ONGs denunciam uso de bombas de fragmentação na Ucrânia](https://www.nexojornal.com.br/extra/2022/02/28/ONGs-denunciam-uso-de-bombas-de-fragmenta%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
+- [Para o futuro, eu acredito é na rapaziada que se sonha](https://www.nexojornal.com.br/ensaio/2022/Para-o-futuro-eu-acredito-%C3%A9-na-rapaziada-que-se-sonha)
+- [O que o lucro recorde da Petrobras significa para a crise do Brasil](https://www.nexojornal.com.br/expresso/2022/02/27/O-que-o-lucro-recorde-da-Petrobras-significa-para-a-crise-do-Brasil)
+- [Bolsonaro defende posicionamento ‘neutro’ do Brasil sobre Rússia](https://www.nexojornal.com.br/extra/2022/02/27/Bolsonaro-defende-posicionamento-%E2%80%98neutro%E2%80%99-do-Brasil-sobre-R%C3%BAssia)
+- [Um raio-x do alumínio: sua importância e onde é produzido](https://www.nexojornal.com.br/grafico/2022/02/27/Um-raio-x-do-alum%C3%ADnio-sua-import%C3%A2ncia-e-onde-%C3%A9-produzido)
+- [O app de entregas do Equador que ajuda venezuelanos](https://www.nexojornal.com.br/expresso/2022/02/27/O-app-de-entregas-do-Equador-que-ajuda-venezuelanos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
