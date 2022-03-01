@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fifa proíbe Rússia de disputar Copa do Qatar e outros torneios](https://www.nexojornal.com.br/extra/2022/02/28/Fifa-pro%C3%ADbe-R%C3%BAssia-de-disputar-Copa-do-Qatar-e-outros-torneios)
-- [As idas e vindas para se lançar um documento único no Brasil](https://www.nexojornal.com.br/expresso/2022/02/28/As-idas-e-vindas-para-se-lan%C3%A7ar-um-documento-%C3%BAnico-no-Brasil)
-- [Nada que seja tóxico pode ser bom](https://www.nexojornal.com.br/colunistas/2022/Nada-que-seja-t%C3%B3xico-pode-ser-bom)
-- [Guerra na Ucrânia: quais as principais frentes diplomáticas](https://www.nexojornal.com.br/expresso/2022/02/28/Guerra-na-Ucr%C3%A2nia-quais-as-principais-frentes-diplom%C3%A1ticas)
-- [ONGs denunciam uso de bombas de fragmentação na Ucrânia](https://www.nexojornal.com.br/extra/2022/02/28/ONGs-denunciam-uso-de-bombas-de-fragmenta%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
+- [39 brasileiros que moram Ucrânia conseguem voo de volta](https://www.nexojornal.com.br/extra/2022/03/01/39-brasileiros-que-moram-Ucr%C3%A2nia-conseguem-voo-de-volta)
+- [Samuel L. Jackson defende Tarantino por uso da ‘n-word’](https://www.nexojornal.com.br/extra/2022/03/01/Samuel-L.-Jackson-defende-Tarantino-por-uso-da-%E2%80%98n-word%E2%80%99)
+- [Como o preço do papel pressiona o mercado editorial](https://www.nexojornal.com.br/expresso/2022/03/01/Como-o-pre%C3%A7o-do-papel-pressiona-o-mercado-editorial)
+- [Rússia e Ucrânia: como a guerra é vista politicamente no Brasil](https://www.nexojornal.com.br/expresso/2022/03/01/R%C3%BAssia-e-Ucr%C3%A2nia-como-a-guerra-%C3%A9-vista-politicamente-no-Brasil)
+- [Rússia destrói torre de TV em Kiev e prédio público em Kharkiv](https://www.nexojornal.com.br/extra/2022/03/01/R%C3%BAssia-destr%C3%B3i-torre-de-TV-em-Kiev-e-pr%C3%A9dio-p%C3%BAblico-em-Kharkiv)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
