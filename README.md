@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Piscina iGUi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/piscina-igui/)
 - [Gente é pra brilhar](https://gamarevista.uol.com.br/colunistas/fernando-luna/gente-e-pra-brilhar/)
 - [@agnesnunes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/agnesnunes/)
 - [Podcast no Brasil: A espontaneidade e o peso da responsabilidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/podcast-no-brasil-a-espontaneidade-e-o-peso-da-responsabilidade/)
 - [Juçara Marçal](https://gamarevista.uol.com.br/pessoas/questionario-proust/jucara-marcal/)
-- [O que ler, ouvir e assistir para entender a invasão russa na Ucrânia](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-ler-ouvir-e-assistir-para-entender-a-invasao-russa-na-ucrania/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
