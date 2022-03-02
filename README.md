@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nord Stream 2, consórcio do gasoduto Rússia-Alemanha, pede falência](https://www.nexojornal.com.br/extra/2022/03/01/Nord-Stream-2-cons%C3%B3rcio-do-gasoduto-R%C3%BAssia-Alemanha-pede-fal%C3%AAncia)
-- [Na Polônia, radicais assediam não europeus que fogem da Ucrânia](https://www.nexojornal.com.br/extra/2022/03/01/Na-Pol%C3%B4nia-radicais-assediam-n%C3%A3o-europeus-que-fogem-da-Ucr%C3%A2nia)
-- [Como o racismo se manifesta na nova crise de refugiados](https://www.nexojornal.com.br/expresso/2022/03/01/Como-o-racismo-se-manifesta-na-nova-crise-de-refugiados)
-- [Quais as suspeitas de crimes de guerra cometidos na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/01/Quais-as-suspeitas-de-crimes-de-guerra-cometidos-na-Ucr%C3%A2nia)
-- [Como as guerras afetam a educação?](https://www.nexojornal.com.br/colunistas/2022/Como-as-guerras-afetam-a-educa%C3%A7%C3%A3o)
+- [O caminho do homem-morcego no cinema até o noir de ‘Batman’](https://www.nexojornal.com.br/expresso/2022/03/02/O-caminho-do-homem-morcego-no-cinema-at%C3%A9-o-noir-de-%E2%80%98Batman%E2%80%99)
+- [Uma semana de guerra: o avanço militar, as sanções e a diplomacia](https://www.nexojornal.com.br/podcast/2022/03/02/Uma-semana-de-guerra-o-avan%C3%A7o-militar-as-san%C3%A7%C3%B5es-e-a-diplomacia)
+- [ONU concorda em criar plano global para conter poluição plástica](https://www.nexojornal.com.br/extra/2022/03/02/ONU-concorda-em-criar-plano-global-para-conter-polui%C3%A7%C3%A3o-pl%C3%A1stica)
+- [Pesquisa revela aumento de mortes por covid-19 entre idosos](https://www.nexojornal.com.br/extra/2022/03/02/Pesquisa-revela-aumento-de-mortes-por-covid-19-entre-idosos)
+- [Bolsonaro usa guerra para defender mineração em terras indígenas](https://www.nexojornal.com.br/extra/2022/03/02/Bolsonaro-usa-guerra-para-defender-minera%C3%A7%C3%A3o-em-terras-ind%C3%ADgenas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
