@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fifa proíbe Rússia de disputar Copa do Qatar e outros torneios](https://www.nexojornal.com.br/extra/2022/02/28/Fifa-pro%C3%ADbe-R%C3%BAssia-de-disputar-Copa-do-Qatar-e-outros-torneios)
-- [As idas e vindas para se lançar um documento único no Brasil](https://www.nexojornal.com.br/expresso/2022/02/28/As-idas-e-vindas-para-se-lan%C3%A7ar-um-documento-%C3%BAnico-no-Brasil)
-- [Nada que seja tóxico pode ser bom](https://www.nexojornal.com.br/colunistas/2022/Nada-que-seja-t%C3%B3xico-pode-ser-bom)
-- [Guerra na Ucrânia: quais as principais frentes diplomáticas](https://www.nexojornal.com.br/expresso/2022/02/28/Guerra-na-Ucr%C3%A2nia-quais-as-principais-frentes-diplom%C3%A1ticas)
-- [ONGs denunciam uso de bombas de fragmentação na Ucrânia](https://www.nexojornal.com.br/extra/2022/02/28/ONGs-denunciam-uso-de-bombas-de-fragmenta%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
+- [Nord Stream 2, consórcio do gasoduto Rússia-Alemanha, pede falência](https://www.nexojornal.com.br/extra/2022/03/01/Nord-Stream-2-cons%C3%B3rcio-do-gasoduto-R%C3%BAssia-Alemanha-pede-fal%C3%AAncia)
+- [Na Polônia, radicais assediam não europeus que fogem da Ucrânia](https://www.nexojornal.com.br/extra/2022/03/01/Na-Pol%C3%B4nia-radicais-assediam-n%C3%A3o-europeus-que-fogem-da-Ucr%C3%A2nia)
+- [Como o racismo se manifesta na nova crise de refugiados](https://www.nexojornal.com.br/expresso/2022/03/01/Como-o-racismo-se-manifesta-na-nova-crise-de-refugiados)
+- [Quais as suspeitas de crimes de guerra cometidos na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/01/Quais-as-suspeitas-de-crimes-de-guerra-cometidos-na-Ucr%C3%A2nia)
+- [Como as guerras afetam a educação?](https://www.nexojornal.com.br/colunistas/2022/Como-as-guerras-afetam-a-educa%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
