@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Podcast no Brasil: A espontaneidade e o peso da responsabilidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/podcast-no-brasil-a-espontaneidade-e-o-peso-da-responsabilidade/)
-- [Tudo o que você sempre quis saber sobre vinho e perguntou ao Google](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/tudo-o-que-voce-sempre-quis-saber-sobre-vinho-e-perguntou-ao-google/)
+- [Tudo o que você perguntou sobre vinho ao Google](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/tudo-o-que-voce-sempre-quis-saber-sobre-vinho-e-perguntou-ao-google/)
 - [Piscina iGUi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/piscina-igui/)
 - [Gente é pra brilhar](https://gamarevista.uol.com.br/colunistas/fernando-luna/gente-e-pra-brilhar/)
 - [@agnesnunes](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/agnesnunes/)
