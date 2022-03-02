@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [39 brasileiros que moram Ucrânia conseguem voo de volta](https://www.nexojornal.com.br/extra/2022/03/01/39-brasileiros-que-moram-Ucr%C3%A2nia-conseguem-voo-de-volta)
-- [Samuel L. Jackson defende Tarantino por uso da ‘n-word’](https://www.nexojornal.com.br/extra/2022/03/01/Samuel-L.-Jackson-defende-Tarantino-por-uso-da-%E2%80%98n-word%E2%80%99)
-- [Como o preço do papel pressiona o mercado editorial](https://www.nexojornal.com.br/expresso/2022/03/01/Como-o-pre%C3%A7o-do-papel-pressiona-o-mercado-editorial)
-- [Rússia e Ucrânia: como a guerra é vista politicamente no Brasil](https://www.nexojornal.com.br/expresso/2022/03/01/R%C3%BAssia-e-Ucr%C3%A2nia-como-a-guerra-%C3%A9-vista-politicamente-no-Brasil)
-- [Rússia destrói torre de TV em Kiev e prédio público em Kharkiv](https://www.nexojornal.com.br/extra/2022/03/01/R%C3%BAssia-destr%C3%B3i-torre-de-TV-em-Kiev-e-pr%C3%A9dio-p%C3%BAblico-em-Kharkiv)
+- [Nord Stream 2, consórcio do gasoduto Rússia-Alemanha, pede falência](https://www.nexojornal.com.br/extra/2022/03/01/Nord-Stream-2-cons%C3%B3rcio-do-gasoduto-R%C3%BAssia-Alemanha-pede-fal%C3%AAncia)
+- [Na Polônia, radicais assediam não europeus que fogem da Ucrânia](https://www.nexojornal.com.br/extra/2022/03/01/Na-Pol%C3%B4nia-radicais-assediam-n%C3%A3o-europeus-que-fogem-da-Ucr%C3%A2nia)
+- [Como o racismo se manifesta na nova crise de refugiados](https://www.nexojornal.com.br/expresso/2022/03/01/Como-o-racismo-se-manifesta-na-nova-crise-de-refugiados)
+- [Quais as suspeitas de crimes de guerra cometidos na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/01/Quais-as-suspeitas-de-crimes-de-guerra-cometidos-na-Ucr%C3%A2nia)
+- [Como as guerras afetam a educação?](https://www.nexojornal.com.br/colunistas/2022/Como-as-guerras-afetam-a-educa%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
