@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 1 milhão deixaram a Ucrânia desde o início da guerra](https://www.nexojornal.com.br/grafico/2022/03/03/Mais-de-1-milh%C3%A3o-deixaram-a-Ucr%C3%A2nia-desde-o-in%C3%ADcio-da-guerra)
-- [Rússia amplia cerco a Mariupol, reivindicada por separatistas](https://www.nexojornal.com.br/extra/2022/03/03/R%C3%BAssia-amplia-cerco-a-Mariupol-reivindicada-por-separatistas)
-- [Conflito Ucrânia e Rússia: o fim do ‘fim da história’](https://www.nexojornal.com.br/colunistas/2022/Conflito-Ucr%C3%A2nia-e-R%C3%BAssia-o-fim-do-%E2%80%98fim-da-hist%C3%B3ria%E2%80%99)
-- [Como as aglomerações de carnaval podem impactar a pandemia](https://www.nexojornal.com.br/expresso/2022/03/02/Como-as-aglomera%C3%A7%C3%B5es-de-carnaval-podem-impactar-a-pandemia)
-- [Suécia diz que caças russos violaram seu espaço aéreo](https://www.nexojornal.com.br/extra/2022/03/02/Su%C3%A9cia-diz-que-ca%C3%A7as-russos-violaram-seu-espa%C3%A7o-a%C3%A9reo)
+- [O caminho do homem-morcego no cinema até o noir de ‘Batman’](https://www.nexojornal.com.br/expresso/2022/03/02/O-caminho-do-homem-morcego-no-cinema-at%C3%A9-o-noir-de-%E2%80%98Batman%E2%80%99)
+- [Uma semana de guerra: o avanço militar, as sanções e a diplomacia](https://www.nexojornal.com.br/podcast/2022/03/02/Uma-semana-de-guerra-o-avan%C3%A7o-militar-as-san%C3%A7%C3%B5es-e-a-diplomacia)
+- [ONU concorda em criar plano global para conter poluição plástica](https://www.nexojornal.com.br/extra/2022/03/02/ONU-concorda-em-criar-plano-global-para-conter-polui%C3%A7%C3%A3o-pl%C3%A1stica)
+- [Pesquisa revela aumento de mortes por covid-19 entre idosos](https://www.nexojornal.com.br/extra/2022/03/02/Pesquisa-revela-aumento-de-mortes-por-covid-19-entre-idosos)
+- [Bolsonaro usa guerra para defender mineração em terras indígenas](https://www.nexojornal.com.br/extra/2022/03/02/Bolsonaro-usa-guerra-para-defender-minera%C3%A7%C3%A3o-em-terras-ind%C3%ADgenas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
