@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 1 milhão deixaram a Ucrânia desde o início da guerra](https://www.nexojornal.com.br/grafico/2022/03/03/Mais-de-1-milh%C3%A3o-deixaram-a-Ucr%C3%A2nia-desde-o-in%C3%ADcio-da-guerra)
-- [Rússia amplia cerco a Mariupol, reivindicada por separatistas](https://www.nexojornal.com.br/extra/2022/03/03/R%C3%BAssia-amplia-cerco-a-Mariupol-reivindicada-por-separatistas)
 - [Conflito Ucrânia e Rússia: o fim do ‘fim da história’](https://www.nexojornal.com.br/colunistas/2022/Conflito-Ucr%C3%A2nia-e-R%C3%BAssia-o-fim-do-%E2%80%98fim-da-hist%C3%B3ria%E2%80%99)
 - [Como as aglomerações de carnaval podem impactar a pandemia](https://www.nexojornal.com.br/expresso/2022/03/02/Como-as-aglomera%C3%A7%C3%B5es-de-carnaval-podem-impactar-a-pandemia)
 - [Suécia diz que caças russos violaram seu espaço aéreo](https://www.nexojornal.com.br/extra/2022/03/02/Su%C3%A9cia-diz-que-ca%C3%A7as-russos-violaram-seu-espa%C3%A7o-a%C3%A9reo)
+- [As leituras sobre avanço das tropas da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/02/As-leituras-sobre-avan%C3%A7o-das-tropas-da-R%C3%BAssia-na-Ucr%C3%A2nia)
+- [Como a guerra da Ucrânia mexe com o mercado de commodities](https://www.nexojornal.com.br/expresso/2022/03/02/Como-a-guerra-da-Ucr%C3%A2nia-mexe-com-o-mercado-de-commodities)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
