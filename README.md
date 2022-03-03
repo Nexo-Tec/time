@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bora falar de sexo?](https://gamarevista.uol.com.br/relacoes/sexo/bora-falar-de-sexo/)
 - [Como manter o foco](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-manter-o-foco/)
 - [Podcast no Brasil: A espontaneidade e o peso da responsabilidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/podcast-no-brasil-a-espontaneidade-e-o-peso-da-responsabilidade/)
 - [Tudo o que você perguntou sobre vinho ao Google](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/tudo-o-que-voce-sempre-quis-saber-sobre-vinho-e-perguntou-ao-google/)
 - [Piscina iGUi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/piscina-igui/)
-- [Gente é pra brilhar](https://gamarevista.uol.com.br/colunistas/fernando-luna/gente-e-pra-brilhar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
