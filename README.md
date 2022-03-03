@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Sabe qual o novo jeito de falar sobre sexo?](https://gamarevista.uol.com.br/relacoes/sexo/bora-falar-de-sexo/)
-- [Como manter o foco](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-manter-o-foco/)
-- [Podcast no Brasil: A espontaneidade e o peso da responsabilidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/podcast-no-brasil-a-espontaneidade-e-o-peso-da-responsabilidade/)
-- [Tudo o que você perguntou sobre vinho ao Google](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/tudo-o-que-voce-sempre-quis-saber-sobre-vinho-e-perguntou-ao-google/)
-- [Piscina iGUi](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/piscina-igui/)
+- [‘Pequena Mamãe’, novo filme de Céline Sciamma](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pequena-mamae-novo-filme-de-celine-sciamma/)
+- [O português brasileiro em Portugal](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-portugues-brasileiro-em-portugal/)
+- [‘Darwin, o Original’ e sua teoria evolutiva no Sesc Interlagos](https://gamarevista.uol.com.br/achamos-que-vale/ir/darwin-o-original-e-sua-teoria-evolutiva-no-sesc-interlagos/)
+- [Novo show de Whindersson Nunes na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/novo-show-de-whindersson-nunes-na-netflix/)
+- [‘Donda 2’ e a vida de Kanye West](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/donda-2-e-a-vida-de-kanye-west/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
