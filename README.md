@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PIB cresce 4,6% em 2021, recuperando perdas de 2020](https://www.nexojornal.com.br/extra/2022/03/04/PIB-cresce-46-em-2021-recuperando-perdas-de-2020)
-- [Rússia controla maior usina nuclear da Europa após incêndio](https://www.nexojornal.com.br/extra/2022/03/03/R%C3%BAssia-controla-maior-usina-nuclear-da-Europa-ap%C3%B3s-inc%C3%AAndio)
+- [Incêndio atinge usina nuclear na Ucrânia após ataques russos](https://www.nexojornal.com.br/extra/2022/03/03/Inc%C3%AAndio-atinge-usina-nuclear-na-Ucr%C3%A2nia-ap%C3%B3s-ataques-russos)
 - [A janela partidária está aberta. O que deve movimentá-la em 2022](https://www.nexojornal.com.br/expresso/2022/03/03/A-janela-partid%C3%A1ria-est%C3%A1-aberta.-O-que-deve-moviment%C3%A1-la-em-2022)
 - [Decreto permite que cidades do Rio flexibilizem uso de máscara](https://www.nexojornal.com.br/extra/2022/03/03/Decreto-permite-que-cidades-do-Rio-flexibilizem-uso-de-m%C3%A1scara)
 - [​​Quais as hipóteses sobre o objetivo de Putin na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/03/%E2%80%8B%E2%80%8BQuais-as-hip%C3%B3teses-sobre-o-objetivo-de-Putin-na-Ucr%C3%A2nia)
+- [Brasil vai conceder visto humanitário para ucranianos](https://www.nexojornal.com.br/extra/2022/03/03/Brasil-vai-conceder-visto-humanit%C3%A1rio-para-ucranianos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
