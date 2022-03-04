@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil vai conceder visto humanitário para ucranianos](https://www.nexojornal.com.br/extra/2022/03/03/Brasil-vai-conceder-visto-humanit%C3%A1rio-para-ucranianos)
-- [As guerras são construídas por meio de narrativas](https://www.nexojornal.com.br/colunistas/2022/As-guerras-s%C3%A3o-constru%C3%ADdas-por-meio-de-narrativas)
-- [Os combatentes civis ucranianos diante da invasão russa](https://www.nexojornal.com.br/podcast/2022/03/03/Os-combatentes-civis-ucranianos-diante-da-invas%C3%A3o-russa)
-- [Clientes do Itaú relatam problemas com app e saldos errados](https://www.nexojornal.com.br/extra/2022/03/03/Clientes-do-Ita%C3%BA-relatam-problemas-com-app-e-saldos-errados)
-- [Rússia e Belarus são excluídas de Paralimpíadas de Inverno](https://www.nexojornal.com.br/extra/2022/03/03/R%C3%BAssia-e-Belarus-s%C3%A3o-exclu%C3%ADdas-de-Paralimp%C3%ADadas-de-Inverno)
+- [Conflito Ucrânia e Rússia: o fim do ‘fim da história’](https://www.nexojornal.com.br/colunistas/2022/Conflito-Ucr%C3%A2nia-e-R%C3%BAssia-o-fim-do-%E2%80%98fim-da-hist%C3%B3ria%E2%80%99)
+- [Como as aglomerações de carnaval podem impactar a pandemia](https://www.nexojornal.com.br/expresso/2022/03/02/Como-as-aglomera%C3%A7%C3%B5es-de-carnaval-podem-impactar-a-pandemia)
+- [Suécia diz que caças russos violaram seu espaço aéreo](https://www.nexojornal.com.br/extra/2022/03/02/Su%C3%A9cia-diz-que-ca%C3%A7as-russos-violaram-seu-espa%C3%A7o-a%C3%A9reo)
+- [As leituras sobre avanço das tropas da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/02/As-leituras-sobre-avan%C3%A7o-das-tropas-da-R%C3%BAssia-na-Ucr%C3%A2nia)
+- [Como a guerra da Ucrânia mexe com o mercado de commodities](https://www.nexojornal.com.br/expresso/2022/03/02/Como-a-guerra-da-Ucr%C3%A2nia-mexe-com-o-mercado-de-commodities)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
