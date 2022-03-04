@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo decide manter fundo eleitoral de R$ 4,9 bilhões](https://www.nexojornal.com.br/extra/2022/03/03/Supremo-decide-manter-fundo-eleitoral-de-R-49-bilh%C3%B5es)
-- [Ucrânia e Rússia fazem acordo sobre corredores humanitários](https://www.nexojornal.com.br/extra/2022/03/03/Ucr%C3%A2nia-e-R%C3%BAssia-fazem-acordo-sobre-corredores-humanit%C3%A1rios)
-- [A privacidade na publicação de censos educacionais](https://www.nexojornal.com.br/academico/2022/03/03/A-privacidade-na-publica%C3%A7%C3%A3o-de-censos-educacionais)
-- [Macron diz que ‘o pior está por vir’ após ligação com Putin](https://www.nexojornal.com.br/extra/2022/03/03/Macron-diz-que-%E2%80%98o-pior-est%C3%A1-por-vir%E2%80%99-ap%C3%B3s-liga%C3%A7%C3%A3o-com-Putin)
-- [Quem são os oligarcas russos alvos de sanções do Ocidente](https://www.nexojornal.com.br/expresso/2022/03/03/Quem-s%C3%A3o-os-oligarcas-russos-alvos-de-san%C3%A7%C3%B5es-do-Ocidente)
+- [Incêndio atinge usina nuclear na Ucrânia após ataques russos](https://www.nexojornal.com.br/extra/2022/03/03/Inc%C3%AAndio-atinge-usina-nuclear-na-Ucr%C3%A2nia-ap%C3%B3s-ataques-russos)
+- [A janela partidária está aberta. O que deve movimentá-la em 2022](https://www.nexojornal.com.br/expresso/2022/03/03/A-janela-partid%C3%A1ria-est%C3%A1-aberta.-O-que-deve-moviment%C3%A1-la-em-2022)
+- [Decreto permite que cidades do Rio flexibilizem uso de máscara](https://www.nexojornal.com.br/extra/2022/03/03/Decreto-permite-que-cidades-do-Rio-flexibilizem-uso-de-m%C3%A1scara)
+- [​​Quais as hipóteses sobre o objetivo de Putin na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/03/%E2%80%8B%E2%80%8BQuais-as-hip%C3%B3teses-sobre-o-objetivo-de-Putin-na-Ucr%C3%A2nia)
+- [Brasil vai conceder visto humanitário para ucranianos](https://www.nexojornal.com.br/extra/2022/03/03/Brasil-vai-conceder-visto-humanit%C3%A1rio-para-ucranianos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
