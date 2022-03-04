@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conflito Ucrânia e Rússia: o fim do ‘fim da história’](https://www.nexojornal.com.br/colunistas/2022/Conflito-Ucr%C3%A2nia-e-R%C3%BAssia-o-fim-do-%E2%80%98fim-da-hist%C3%B3ria%E2%80%99)
-- [Como as aglomerações de carnaval podem impactar a pandemia](https://www.nexojornal.com.br/expresso/2022/03/02/Como-as-aglomera%C3%A7%C3%B5es-de-carnaval-podem-impactar-a-pandemia)
-- [Suécia diz que caças russos violaram seu espaço aéreo](https://www.nexojornal.com.br/extra/2022/03/02/Su%C3%A9cia-diz-que-ca%C3%A7as-russos-violaram-seu-espa%C3%A7o-a%C3%A9reo)
-- [As leituras sobre avanço das tropas da Rússia na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/02/As-leituras-sobre-avan%C3%A7o-das-tropas-da-R%C3%BAssia-na-Ucr%C3%A2nia)
-- [Como a guerra da Ucrânia mexe com o mercado de commodities](https://www.nexojornal.com.br/expresso/2022/03/02/Como-a-guerra-da-Ucr%C3%A2nia-mexe-com-o-mercado-de-commodities)
+- [Supremo decide manter fundo eleitoral de R$ 4,9 bilhões](https://www.nexojornal.com.br/extra/2022/03/03/Supremo-decide-manter-fundo-eleitoral-de-R-49-bilh%C3%B5es)
+- [Ucrânia e Rússia fazem acordo sobre corredores humanitários](https://www.nexojornal.com.br/extra/2022/03/03/Ucr%C3%A2nia-e-R%C3%BAssia-fazem-acordo-sobre-corredores-humanit%C3%A1rios)
+- [A privacidade na publicação de censos educacionais](https://www.nexojornal.com.br/academico/2022/03/03/A-privacidade-na-publica%C3%A7%C3%A3o-de-censos-educacionais)
+- [Macron diz que ‘o pior está por vir’ após ligação com Putin](https://www.nexojornal.com.br/extra/2022/03/03/Macron-diz-que-%E2%80%98o-pior-est%C3%A1-por-vir%E2%80%99-ap%C3%B3s-liga%C3%A7%C3%A3o-com-Putin)
+- [Quem são os oligarcas russos alvos de sanções do Ocidente](https://www.nexojornal.com.br/expresso/2022/03/03/Quem-s%C3%A3o-os-oligarcas-russos-alvos-de-san%C3%A7%C3%B5es-do-Ocidente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
