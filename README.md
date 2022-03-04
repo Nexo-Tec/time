@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Daniel Domingues dos Santos: qualidade na educação infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/03/03/Daniel-Domingues-dos-Santos-qualidade-na-educa%C3%A7%C3%A3o-infantil)
 - [A participação de intérpretes no contato com um povo indígena isolado](https://pp.nexojornal.com.br/academico/2022/A-participa%C3%A7%C3%A3o-de-int%C3%A9rpretes-no-contato-com-um-povo-ind%C3%ADgena-isolado)
 - [O Congresso e a Lei de Cotas](https://pp.nexojornal.com.br/opiniao/2022/O-Congresso-e-a-Lei-de-Cotas)
 - [Financiamento da educação à luz da experiência internacional](https://pp.nexojornal.com.br/opiniao/2022/Financiamento-da-educa%C3%A7%C3%A3o-%C3%A0-luz-da-experi%C3%AAncia-internacional)
 - [5 pontos sobre os efeitos da exposição a telas eletrônicas na primeira infância](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/5-pontos-sobre-os-efeitos-da-exposi%C3%A7%C3%A3o-a-telas-eletr%C3%B4nicas-na-primeira-inf%C3%A2ncia)
-- [A política de cotas na UFRJ: uma abordagem interseccional de raça, classe e gênero](https://pp.nexojornal.com.br/opiniao/2022/A-pol%C3%ADtica-de-cotas-na-UFRJ-uma-abordagem-interseccional-de-ra%C3%A7a-classe-e-g%C3%AAnero)
 <!-- PP_LIST:END -->
 
