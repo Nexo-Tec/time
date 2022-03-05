@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Incêndio atinge usina nuclear na Ucrânia após ataques russos](https://www.nexojornal.com.br/extra/2022/03/03/Inc%C3%AAndio-atinge-usina-nuclear-na-Ucr%C3%A2nia-ap%C3%B3s-ataques-russos)
-- [A janela partidária está aberta. O que deve movimentá-la em 2022](https://www.nexojornal.com.br/expresso/2022/03/03/A-janela-partid%C3%A1ria-est%C3%A1-aberta.-O-que-deve-moviment%C3%A1-la-em-2022)
-- [Decreto permite que cidades do Rio flexibilizem uso de máscara](https://www.nexojornal.com.br/extra/2022/03/03/Decreto-permite-que-cidades-do-Rio-flexibilizem-uso-de-m%C3%A1scara)
-- [​​Quais as hipóteses sobre o objetivo de Putin na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/03/%E2%80%8B%E2%80%8BQuais-as-hip%C3%B3teses-sobre-o-objetivo-de-Putin-na-Ucr%C3%A2nia)
-- [Brasil vai conceder visto humanitário para ucranianos](https://www.nexojornal.com.br/extra/2022/03/03/Brasil-vai-conceder-visto-humanit%C3%A1rio-para-ucranianos)
+- [O papel militar da Otan da Guerra Fria à crise do leste europeu](https://www.nexojornal.com.br/expresso/2022/03/04/O-papel-militar-da-Otan-da-Guerra-Fria-%C3%A0-crise-do-leste-europeu)
+- [Três iniciativas sustentáveis no serviço público](https://www.nexojornal.com.br/ensaio/debate/2022/Tr%C3%AAs-iniciativas-sustent%C3%A1veis-no-servi%C3%A7o-p%C3%BAblico)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/04/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A biblioteca virtual que conta a história da música negra](https://www.nexojornal.com.br/expresso/2022/03/04/A-biblioteca-virtual-que-conta-a-hist%C3%B3ria-da-m%C3%BAsica-negra)
+- [Machismo e coquetel molotov: um deputado do MBL na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/04/Machismo-e-coquetel-molotov-um-deputado-do-MBL-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
