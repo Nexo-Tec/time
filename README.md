@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Escola cívico-militar confisca bandeira LGBTI+ de alunos](https://www.nexojornal.com.br/extra/2022/03/05/Escola-c%C3%ADvico-militar-confisca-bandeira-LGBTI-de-alunos)
-- [Doria envia à Assembleia projetos de reajuste para servidores](https://www.nexojornal.com.br/extra/2022/03/05/Doria-envia-%C3%A0-Assembleia-projetos-de-reajuste-para-servidores)
-- [Sanções equivalem a ‘declaração de guerra’, afirma Putin](https://www.nexojornal.com.br/extra/2022/03/05/San%C3%A7%C3%B5es-equivalem-a-%E2%80%98declara%C3%A7%C3%A3o-de-guerra%E2%80%99-afirma-Putin)
-- [O papel militar da Otan da Guerra Fria à crise do leste europeu](https://www.nexojornal.com.br/expresso/2022/03/04/O-papel-militar-da-Otan-da-Guerra-Fria-%C3%A0-crise-do-leste-europeu)
-- [Três iniciativas sustentáveis no serviço público](https://www.nexojornal.com.br/ensaio/debate/2022/Tr%C3%AAs-iniciativas-sustent%C3%A1veis-no-servi%C3%A7o-p%C3%BAblico)
+- [Extratos da semana | 04.mar.22](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-04.mar.22)
+- [Por que a alta do PIB não gera otimismo sobre a economia](https://www.nexojornal.com.br/expresso/2022/03/04/Por-que-a-alta-do-PIB-n%C3%A3o-gera-otimismo-sobre-a-economia)
+- [‘Vidas rebeldes, belos experimentos’: radicalidade negra](https://www.nexojornal.com.br/estante/trechos/2022/03/04/%E2%80%98Vidas-rebeldes-belos-experimentos%E2%80%99-radicalidade-negra)
+- [Rússia bloqueia acesso ao Facebook e a outras redes sociais](https://www.nexojornal.com.br/extra/2022/03/04/R%C3%BAssia-bloqueia-acesso-ao-Facebook-e-a-outras-redes-sociais)
+- [Ucrânia diz que ataque aéreo russo matou 7 na região de Kiev](https://www.nexojornal.com.br/extra/2022/03/04/Ucr%C3%A2nia-diz-que-ataque-a%C3%A9reo-russo-matou-7-na-regi%C3%A3o-de-Kiev)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
