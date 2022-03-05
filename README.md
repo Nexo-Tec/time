@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Escola cívico-militar confisca bandeira LGBTI+ de alunos](https://www.nexojornal.com.br/extra/2022/03/05/Escola-c%C3%ADvico-militar-confisca-bandeira-LGBTI-de-alunos)
+- [Doria envia à Assembleia projetos de reajuste para servidores](https://www.nexojornal.com.br/extra/2022/03/05/Doria-envia-%C3%A0-Assembleia-projetos-de-reajuste-para-servidores)
+- [Sanções equivalem a ‘declaração de guerra’, afirma Putin](https://www.nexojornal.com.br/extra/2022/03/05/San%C3%A7%C3%B5es-equivalem-a-%E2%80%98declara%C3%A7%C3%A3o-de-guerra%E2%80%99-afirma-Putin)
 - [O papel militar da Otan da Guerra Fria à crise do leste europeu](https://www.nexojornal.com.br/expresso/2022/03/04/O-papel-militar-da-Otan-da-Guerra-Fria-%C3%A0-crise-do-leste-europeu)
 - [Três iniciativas sustentáveis no serviço público](https://www.nexojornal.com.br/ensaio/debate/2022/Tr%C3%AAs-iniciativas-sustent%C3%A1veis-no-servi%C3%A7o-p%C3%BAblico)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/04/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [A biblioteca virtual que conta a história da música negra](https://www.nexojornal.com.br/expresso/2022/03/04/A-biblioteca-virtual-que-conta-a-hist%C3%B3ria-da-m%C3%BAsica-negra)
-- [Machismo e coquetel molotov: um deputado do MBL na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/04/Machismo-e-coquetel-molotov-um-deputado-do-MBL-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
