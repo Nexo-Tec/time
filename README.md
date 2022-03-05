@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [José Falero](https://gamarevista.uol.com.br/pessoas/questionario-proust/jose-falero/)
 - [Sete passos para sacar mais sobre saquê](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/sete-passos-para-sacar-mais-sobre-saque/)
 - [Alê Youssef: ‘Studio SP reabre como local de resistência cultural contra a especulação imobiliária’](https://gamarevista.uol.com.br/parcerias/ale-youssef-studio-sp-reabre-como-local-de-resistencia-cultural-contra-a-especulacao-imobiliaria/)
 - [Sobre a Violência](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sobre-a-violencia/)
 - [‘Pequena Mamãe’, novo filme de Céline Sciamma](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pequena-mamae-novo-filme-de-celine-sciamma/)
-- [O português brasileiro em Portugal](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-portugues-brasileiro-em-portugal/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
