@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaro ajudou a legitimar Putin e a narrativa da Rússia’](https://www.nexojornal.com.br/entrevista/2022/03/05/%E2%80%98Bolsonaro-ajudou-a-legitimar-Putin-e-a-narrativa-da-R%C3%BAssia%E2%80%99)
-- [O tombo de um dos emissários do backlash brasileiro](https://www.nexojornal.com.br/perspectiva/2022/03/05/O-tombo-de-um-dos-emiss%C3%A1rios-do-backlash-brasileiro)
-- [Arthur do Val retira pré-candidatura ao governo de São Paulo](https://www.nexojornal.com.br/extra/2022/03/05/Arthur-do-Val-retira-pr%C3%A9-candidatura-ao-governo-de-S%C3%A3o-Paulo)
-- [Escola cívico-militar confisca bandeira LGBTI+ de alunos](https://www.nexojornal.com.br/extra/2022/03/05/Escola-c%C3%ADvico-militar-confisca-bandeira-LGBTI-de-alunos)
-- [Doria envia à Assembleia projetos de reajuste para servidores](https://www.nexojornal.com.br/extra/2022/03/05/Doria-envia-%C3%A0-Assembleia-projetos-de-reajuste-para-servidores)
+- [O papel militar da Otan da Guerra Fria à crise do leste europeu](https://www.nexojornal.com.br/expresso/2022/03/04/O-papel-militar-da-Otan-da-Guerra-Fria-%C3%A0-crise-do-leste-europeu)
+- [Três iniciativas sustentáveis no serviço público](https://www.nexojornal.com.br/ensaio/debate/2022/Tr%C3%AAs-iniciativas-sustent%C3%A1veis-no-servi%C3%A7o-p%C3%BAblico)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/04/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A biblioteca virtual que conta a história da música negra](https://www.nexojornal.com.br/expresso/2022/03/04/A-biblioteca-virtual-que-conta-a-hist%C3%B3ria-da-m%C3%BAsica-negra)
+- [Machismo e coquetel molotov: um deputado do MBL na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/04/Machismo-e-coquetel-molotov-um-deputado-do-MBL-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
