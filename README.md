@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O papel militar da Otan da Guerra Fria à crise do leste europeu](https://www.nexojornal.com.br/expresso/2022/03/04/O-papel-militar-da-Otan-da-Guerra-Fria-%C3%A0-crise-do-leste-europeu)
-- [Três iniciativas sustentáveis no serviço público](https://www.nexojornal.com.br/ensaio/debate/2022/Tr%C3%AAs-iniciativas-sustent%C3%A1veis-no-servi%C3%A7o-p%C3%BAblico)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/04/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [A biblioteca virtual que conta a história da música negra](https://www.nexojornal.com.br/expresso/2022/03/04/A-biblioteca-virtual-que-conta-a-hist%C3%B3ria-da-m%C3%BAsica-negra)
-- [Machismo e coquetel molotov: um deputado do MBL na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/04/Machismo-e-coquetel-molotov-um-deputado-do-MBL-na-Ucr%C3%A2nia)
+- [Manifestações em cidades europeias pedem fim da guerra](https://www.nexojornal.com.br/extra/2022/03/05/Manifesta%C3%A7%C3%B5es-em-cidades-europeias-pedem-fim-da-guerra)
+- [Crise de refugiados é a mais rápida desde a Segunda Guerra](https://www.nexojornal.com.br/extra/2022/03/05/Crise-de-refugiados-%C3%A9-a-mais-r%C3%A1pida-desde-a-Segunda-Guerra)
+- [5 livros para entender as emoções como um problema da filosofia](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-as-emo%C3%A7%C3%B5es-como-um-problema-da-filosofia)
+- [A ‘falta de preparo’ como argumento para a pouca diversidade](https://www.nexojornal.com.br/expresso/2022/03/05/A-%E2%80%98falta-de-preparo%E2%80%99-como-argumento-para-a-pouca-diversidade)
+- [O conflito na Ucrânia e o risco às instituições europeias](https://www.nexojornal.com.br/ensaio/2022/O-conflito-na-Ucr%C3%A2nia-e-o-risco-%C3%A0s-institui%C3%A7%C3%B5es-europeias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
