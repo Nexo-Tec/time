@@ -102,6 +102,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <a href="https://github.com/marianaolvr">
   <img src="https://github.com/marianaolvr.png?size=50">
 </a>
+<a href="https://github.com/tarekcampossaleh">
+  <img src="https://github.com/tarekcampossaleh.png?size=50">
+</a>
 <a href="https://github.com/tuannyruiz">
   <img src="https://github.com/tuannyruiz.png?size=50">
 </a>
