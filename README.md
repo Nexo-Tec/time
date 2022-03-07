@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Games digitais na sala de aula](https://www.nexojornal.com.br/externo/2022/03/06/Games-digitais-na-sala-de-aula)
-- [Quais os arranjos globais para a tributação de empresas](https://www.nexojornal.com.br/video/Quais-os-arranjos-globais-para-a-tributa%C3%A7%C3%A3o-de-empresas)
-- [Por que a apuração de violações na Ucrânia partirá de 2013](https://www.nexojornal.com.br/expresso/2022/03/06/Por-que-a-apura%C3%A7%C3%A3o-de-viola%C3%A7%C3%B5es-na-Ucr%C3%A2nia-partir%C3%A1-de-2013)
-- [A crise de refugiados da guerra da Ucrânia em 15 imagens](https://www.nexojornal.com.br/expresso/2022/03/06/A-crise-de-refugiados-da-guerra-da-Ucr%C3%A2nia-em-15-imagens)
-- [O fracasso do cessar-fogo na Ucrânia. E os entraves para a paz](https://www.nexojornal.com.br/expresso/2022/03/06/O-fracasso-do-cessar-fogo-na-Ucr%C3%A2nia.-E-os-entraves-para-a-paz)
+- [Manifestações em cidades europeias pedem fim da guerra](https://www.nexojornal.com.br/extra/2022/03/05/Manifesta%C3%A7%C3%B5es-em-cidades-europeias-pedem-fim-da-guerra)
+- [Crise de refugiados é a mais rápida desde a Segunda Guerra](https://www.nexojornal.com.br/extra/2022/03/05/Crise-de-refugiados-%C3%A9-a-mais-r%C3%A1pida-desde-a-Segunda-Guerra)
+- [5 livros para entender as emoções como um problema da filosofia](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-as-emo%C3%A7%C3%B5es-como-um-problema-da-filosofia)
+- [A ‘falta de preparo’ como argumento para a pouca diversidade](https://www.nexojornal.com.br/expresso/2022/03/05/A-%E2%80%98falta-de-preparo%E2%80%99-como-argumento-para-a-pouca-diversidade)
+- [O conflito na Ucrânia e o risco às instituições europeias](https://www.nexojornal.com.br/ensaio/2022/O-conflito-na-Ucr%C3%A2nia-e-o-risco-%C3%A0s-institui%C3%A7%C3%B5es-europeias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
