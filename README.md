@@ -60,9 +60,6 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <a href="https://github.com/mariannakinuyo">
   <img src="https://github.com/mariannakinuyo.png?size=50">
 </a>
-<a href="https://github.com/tarekcampossaleh">
-  <img src="https://github.com/tarekcampossaleh.png?size=50">
-</a>
 <a href="https://github.com/victorgois">
   <img src="https://github.com/victorgois.png?size=50">
 </a>
