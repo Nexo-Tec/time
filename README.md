@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os efeitos das sanções sobre a economia e população russa](https://www.nexojornal.com.br/expresso/2022/03/07/Quais-os-efeitos-das-san%C3%A7%C3%B5es-sobre-a-economia-e-popula%C3%A7%C3%A3o-russa)
-- [Qual a diferença entre corredor humanitário e remoção forçada](https://www.nexojornal.com.br/expresso/2022/03/07/Qual-a-diferen%C3%A7a-entre-corredor-humanit%C3%A1rio-e-remo%C3%A7%C3%A3o-for%C3%A7ada)
-- [O avanço das tropas russas sobre a Ucrânia em 3 mapas](https://www.nexojornal.com.br/expresso/2022/03/07/O-avan%C3%A7o-das-tropas-russas-sobre-a-Ucr%C3%A2nia-em-3-mapas)
-- [O que você sabe sobre a desigualdade de gênero? Faça o teste](https://www.nexojornal.com.br/interativo/2022/03/07/O-que-voc%C3%AA-sabe-sobre-a-desigualdade-de-g%C3%AAnero-Fa%C3%A7a-o-teste)
-- [Em 2021, 1 mulher foi estuprada a cada 10 minutos no Brasil](https://www.nexojornal.com.br/extra/2022/03/07/Em-2021-1-mulher-foi-estuprada-a-cada-10-minutos-no-Brasil)
+- [Zelensky diz estar aberto a negociar status de regiões separatistas](https://www.nexojornal.com.br/extra/2022/03/08/Zelensky-diz-estar-aberto-a-negociar-status-de-regi%C3%B5es-separatistas)
+- [Petróleo e guerra: a brecha para Bolsonaro mexer na Petrobras](https://www.nexojornal.com.br/podcast/2022/03/08/Petr%C3%B3leo-e-guerra-a-brecha-para-Bolsonaro-mexer-na-Petrobras)
+- [Podemos desfilia Arthur do Val após falas machistas em áudios](https://www.nexojornal.com.br/extra/2022/03/08/Podemos-desfilia-Arthur-do-Val-ap%C3%B3s-falas-machistas-em-%C3%A1udios)
+- [Mais de 2 milhões de pessoas deixaram a Ucrânia após invasão](https://www.nexojornal.com.br/extra/2022/03/08/Mais-de-2-milh%C3%B5es-de-pessoas-deixaram-a-Ucr%C3%A2nia-ap%C3%B3s-invas%C3%A3o)
+- [EUA anunciam proibição a importações de petróleo russo](https://www.nexojornal.com.br/extra/2022/03/08/EUA-anunciam-proibi%C3%A7%C3%A3o-a-importa%C3%A7%C3%B5es-de-petr%C3%B3leo-russo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
