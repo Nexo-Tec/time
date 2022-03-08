@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Games digitais na sala de aula](https://www.nexojornal.com.br/externo/2022/03/06/Games-digitais-na-sala-de-aula)
-- [Quais os arranjos globais para a tributação de empresas](https://www.nexojornal.com.br/video/Quais-os-arranjos-globais-para-a-tributa%C3%A7%C3%A3o-de-empresas)
-- [Por que a apuração de violações na Ucrânia partirá de 2013](https://www.nexojornal.com.br/expresso/2022/03/06/Por-que-a-apura%C3%A7%C3%A3o-de-viola%C3%A7%C3%B5es-na-Ucr%C3%A2nia-partir%C3%A1-de-2013)
-- [A crise de refugiados da guerra da Ucrânia em 15 imagens](https://www.nexojornal.com.br/expresso/2022/03/06/A-crise-de-refugiados-da-guerra-da-Ucr%C3%A2nia-em-15-imagens)
-- [O fracasso do cessar-fogo na Ucrânia. E os entraves para a paz](https://www.nexojornal.com.br/expresso/2022/03/06/O-fracasso-do-cessar-fogo-na-Ucr%C3%A2nia.-E-os-entraves-para-a-paz)
+- [Quais os efeitos das sanções sobre a economia e população russa](https://www.nexojornal.com.br/expresso/2022/03/07/Quais-os-efeitos-das-san%C3%A7%C3%B5es-sobre-a-economia-e-popula%C3%A7%C3%A3o-russa)
+- [Qual a diferença entre corredor humanitário e remoção forçada](https://www.nexojornal.com.br/expresso/2022/03/07/Qual-a-diferen%C3%A7a-entre-corredor-humanit%C3%A1rio-e-remo%C3%A7%C3%A3o-for%C3%A7ada)
+- [O avanço das tropas russas sobre a Ucrânia em 3 mapas](https://www.nexojornal.com.br/expresso/2022/03/07/O-avan%C3%A7o-das-tropas-russas-sobre-a-Ucr%C3%A2nia-em-3-mapas)
+- [O que você sabe sobre a desigualdade de gênero? Faça o teste](https://www.nexojornal.com.br/interativo/2022/03/07/O-que-voc%C3%AA-sabe-sobre-a-desigualdade-de-g%C3%AAnero-Fa%C3%A7a-o-teste)
+- [Em 2021, 1 mulher foi estuprada a cada 10 minutos no Brasil](https://www.nexojornal.com.br/extra/2022/03/07/Em-2021-1-mulher-foi-estuprada-a-cada-10-minutos-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
