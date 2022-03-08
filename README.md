@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Viagem Artsy nos EUA](https://gamarevista.uol.com.br/cultura/viagem-artsy-nos-eua/)
 - [@redrosecake_tubageckil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/redrosecake_tubageckil/)
 - [“As mulheres com deficiência não são consideradas sexuadas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-direitos-sexuais-e-reprodutivos-das-mulheres-com-deficiencia/)
 - [José Falero](https://gamarevista.uol.com.br/pessoas/questionario-proust/jose-falero/)
 - [Sete passos para sacar mais sobre saquê](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/sete-passos-para-sacar-mais-sobre-saque/)
-- [Alê Youssef: ‘Studio SP reabre como local de resistência cultural contra a especulação imobiliária’](https://gamarevista.uol.com.br/parcerias/ale-youssef-studio-sp-reabre-como-local-de-resistencia-cultural-contra-a-especulacao-imobiliaria/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
