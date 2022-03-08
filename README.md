@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Muito além do som da chanson](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-do-som-da-chanson/)
 - [Cadeira Gamer](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cadeira-gamer/)
 - [Oito frases de oito mulheres neste 8 de março](https://gamarevista.uol.com.br/formato/conversas/frases-mulheres-8-de-marco/)
 - [Viagem Artsy nos EUA](https://gamarevista.uol.com.br/cultura/viagem-artsy-nos-eua/)
 - [@redrosecake_tubageckil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/redrosecake_tubageckil/)
-- [“As mulheres com deficiência não são consideradas sexuadas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-direitos-sexuais-e-reprodutivos-das-mulheres-com-deficiencia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
