@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A flexibilização do uso de máscaras no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2022/03/08/A-flexibiliza%C3%A7%C3%A3o-do-uso-de-m%C3%A1scaras-no-Brasil-e-no-mundo)
-- [Por que a Otan está enviando tropas para os países bálticos](https://www.nexojornal.com.br/expresso/2022/03/08/Por-que-a-Otan-est%C3%A1-enviando-tropas-para-os-pa%C3%ADses-b%C3%A1lticos)
-- [Rodízio de água em Belo Horizonte deve atingir 2 milhões](https://www.nexojornal.com.br/extra/2022/03/08/Rod%C3%ADzio-de-%C3%A1gua-em-Belo-Horizonte-deve-atingir-2-milh%C3%B5es)
-- [Sanções, boicotes e embargos: o que há contra a Rússia](https://www.nexojornal.com.br/expresso/2022/03/08/San%C3%A7%C3%B5es-boicotes-e-embargos-o-que-h%C3%A1-contra-a-R%C3%BAssia)
-- [Equipe de Chernobil trabalha sem parar desde ataque russo](https://www.nexojornal.com.br/extra/2022/03/08/Equipe-de-Chernobil-trabalha-sem-parar-desde-ataque-russo)
+- [Zelensky diz estar aberto a negociar status de regiões separatistas](https://www.nexojornal.com.br/extra/2022/03/08/Zelensky-diz-estar-aberto-a-negociar-status-de-regi%C3%B5es-separatistas)
+- [Petróleo e guerra: a brecha para Bolsonaro mexer na Petrobras](https://www.nexojornal.com.br/podcast/2022/03/08/Petr%C3%B3leo-e-guerra-a-brecha-para-Bolsonaro-mexer-na-Petrobras)
+- [Podemos desfilia Arthur do Val após falas machistas em áudios](https://www.nexojornal.com.br/extra/2022/03/08/Podemos-desfilia-Arthur-do-Val-ap%C3%B3s-falas-machistas-em-%C3%A1udios)
+- [Mais de 2 milhões de pessoas deixaram a Ucrânia após invasão](https://www.nexojornal.com.br/extra/2022/03/08/Mais-de-2-milh%C3%B5es-de-pessoas-deixaram-a-Ucr%C3%A2nia-ap%C3%B3s-invas%C3%A3o)
+- [EUA anunciam proibição a importações de petróleo russo](https://www.nexojornal.com.br/extra/2022/03/08/EUA-anunciam-proibi%C3%A7%C3%A3o-a-importa%C3%A7%C3%B5es-de-petr%C3%B3leo-russo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
