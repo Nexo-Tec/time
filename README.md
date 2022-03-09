@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia diz que não pretende derrubar governo ucraniano](https://www.nexojornal.com.br/extra/2022/03/09/R%C3%BAssia-diz-que-n%C3%A3o-pretende-derrubar-governo-ucraniano)
 - [A flexibilização do uso de máscaras no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2022/03/08/A-flexibiliza%C3%A7%C3%A3o-do-uso-de-m%C3%A1scaras-no-Brasil-e-no-mundo)
 - [Por que a Otan está enviando tropas para os países bálticos](https://www.nexojornal.com.br/expresso/2022/03/08/Por-que-a-Otan-est%C3%A1-enviando-tropas-para-os-pa%C3%ADses-b%C3%A1lticos)
 - [Rodízio de água em Belo Horizonte deve atingir 2 milhões](https://www.nexojornal.com.br/extra/2022/03/08/Rod%C3%ADzio-de-%C3%A1gua-em-Belo-Horizonte-deve-atingir-2-milh%C3%B5es)
 - [Sanções, boicotes e embargos: o que há contra a Rússia](https://www.nexojornal.com.br/expresso/2022/03/08/San%C3%A7%C3%B5es-boicotes-e-embargos-o-que-h%C3%A1-contra-a-R%C3%BAssia)
+- [Equipe de Chernobil trabalha sem parar desde ataque russo](https://www.nexojornal.com.br/extra/2022/03/08/Equipe-de-Chernobil-trabalha-sem-parar-desde-ataque-russo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
