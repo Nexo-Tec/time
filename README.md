@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Síndrome da caçula sem muitas informações](https://gamarevista.uol.com.br/colunistas/letrux/sindrome-da-cacula-sem-muitas-informacoes/)
 - [Muito além do som da chanson](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-do-som-da-chanson/)
 - [Cadeira Gamer](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cadeira-gamer/)
 - [Oito frases de oito mulheres neste 8 de março](https://gamarevista.uol.com.br/formato/conversas/frases-mulheres-8-de-marco/)
 - [Viagem Artsy nos EUA](https://gamarevista.uol.com.br/cultura/viagem-artsy-nos-eua/)
-- [@redrosecake_tubageckil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/redrosecake_tubageckil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
