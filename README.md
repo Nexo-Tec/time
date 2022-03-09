@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os efeitos das sanções sobre a economia e população russa](https://www.nexojornal.com.br/expresso/2022/03/07/Quais-os-efeitos-das-san%C3%A7%C3%B5es-sobre-a-economia-e-popula%C3%A7%C3%A3o-russa)
-- [Qual a diferença entre corredor humanitário e remoção forçada](https://www.nexojornal.com.br/expresso/2022/03/07/Qual-a-diferen%C3%A7a-entre-corredor-humanit%C3%A1rio-e-remo%C3%A7%C3%A3o-for%C3%A7ada)
-- [O avanço das tropas russas sobre a Ucrânia em 3 mapas](https://www.nexojornal.com.br/expresso/2022/03/07/O-avan%C3%A7o-das-tropas-russas-sobre-a-Ucr%C3%A2nia-em-3-mapas)
-- [O que você sabe sobre a desigualdade de gênero? Faça o teste](https://www.nexojornal.com.br/interativo/2022/03/07/O-que-voc%C3%AA-sabe-sobre-a-desigualdade-de-g%C3%AAnero-Fa%C3%A7a-o-teste)
-- [Em 2021, 1 mulher foi estuprada a cada 10 minutos no Brasil](https://www.nexojornal.com.br/extra/2022/03/07/Em-2021-1-mulher-foi-estuprada-a-cada-10-minutos-no-Brasil)
+- [A flexibilização do uso de máscaras no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2022/03/08/A-flexibiliza%C3%A7%C3%A3o-do-uso-de-m%C3%A1scaras-no-Brasil-e-no-mundo)
+- [Por que a Otan está enviando tropas para os países bálticos](https://www.nexojornal.com.br/expresso/2022/03/08/Por-que-a-Otan-est%C3%A1-enviando-tropas-para-os-pa%C3%ADses-b%C3%A1lticos)
+- [Rodízio de água em Belo Horizonte deve atingir 2 milhões](https://www.nexojornal.com.br/extra/2022/03/08/Rod%C3%ADzio-de-%C3%A1gua-em-Belo-Horizonte-deve-atingir-2-milh%C3%B5es)
+- [Sanções, boicotes e embargos: o que há contra a Rússia](https://www.nexojornal.com.br/expresso/2022/03/08/San%C3%A7%C3%B5es-boicotes-e-embargos-o-que-h%C3%A1-contra-a-R%C3%BAssia)
+- [Equipe de Chernobil trabalha sem parar desde ataque russo](https://www.nexojornal.com.br/extra/2022/03/08/Equipe-de-Chernobil-trabalha-sem-parar-desde-ataque-russo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
