@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A flexibilização do uso de máscaras no Brasil e no mundo](https://www.nexojornal.com.br/expresso/2022/03/08/A-flexibiliza%C3%A7%C3%A3o-do-uso-de-m%C3%A1scaras-no-Brasil-e-no-mundo)
-- [Por que a Otan está enviando tropas para os países bálticos](https://www.nexojornal.com.br/expresso/2022/03/08/Por-que-a-Otan-est%C3%A1-enviando-tropas-para-os-pa%C3%ADses-b%C3%A1lticos)
-- [Rodízio de água em Belo Horizonte deve atingir 2 milhões](https://www.nexojornal.com.br/extra/2022/03/08/Rod%C3%ADzio-de-%C3%A1gua-em-Belo-Horizonte-deve-atingir-2-milh%C3%B5es)
-- [Sanções, boicotes e embargos: o que há contra a Rússia](https://www.nexojornal.com.br/expresso/2022/03/08/San%C3%A7%C3%B5es-boicotes-e-embargos-o-que-h%C3%A1-contra-a-R%C3%BAssia)
-- [Equipe de Chernobil trabalha sem parar desde ataque russo](https://www.nexojornal.com.br/extra/2022/03/08/Equipe-de-Chernobil-trabalha-sem-parar-desde-ataque-russo)
+- [Por que terras indígenas não resolvem a demanda por potássio](https://www.nexojornal.com.br/expresso/2022/03/09/Por-que-terras-ind%C3%ADgenas-n%C3%A3o-resolvem-a-demanda-por-pot%C3%A1ssio)
+- [O que move a guerra após duas semanas de combate na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/09/O-que-move-a-guerra-ap%C3%B3s-duas-semanas-de-combate-na-Ucr%C3%A2nia)
+- [Dietas ‘low carb’ promovem maior perda de peso?](https://www.nexojornal.com.br/colunistas/2022/Dietas-%E2%80%98low-carb%E2%80%99-promovem-maior-perda-de-peso)
+- [A situação do trabalho infantil no estado de São Paulo](https://www.nexojornal.com.br/academico/2022/03/09/A-situa%C3%A7%C3%A3o-do-trabalho-infantil-no-estado-de-S%C3%A3o-Paulo)
+- [Telemarketing de celular com prefixo 0303 começa a valer](https://www.nexojornal.com.br/extra/2022/03/09/Telemarketing-de-celular-com-prefixo-0303-come%C3%A7a-a-valer1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
