@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [“Medimos a inteligência animal numa escala em que humanos estão sempre no topo”](https://gamarevista.uol.com.br/formato/conversas/medimos-a-inteligencia-animal-numa-escala-em-que-humanos-estao-sempre-no-topo/)
+- [“Medimos a inteligência animal como se os humanos estivessem sempre no topo”](https://gamarevista.uol.com.br/formato/conversas/medimos-a-inteligencia-animal-numa-escala-em-que-humanos-estao-sempre-no-topo/)
 - [CV: Caito Maia](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-caito-maia/)
 - [Síndrome da caçula sem muitas informações](https://gamarevista.uol.com.br/colunistas/letrux/sindrome-da-cacula-sem-muitas-informacoes/)
 - [Muito além do som da chanson](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-do-som-da-chanson/)
