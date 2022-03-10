@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [6 perguntas e respostas sobre a variante deltacron da covid](https://www.nexojornal.com.br/expresso/2022/03/10/6-perguntas-e-respostas-sobre-a-variante-deltacron-da-covid)
-- [Desde 2014, Ucrânia e Rússia aumentam gastos militares](https://www.nexojornal.com.br/grafico/2022/03/10/Desde-2014-Ucr%C3%A2nia-e-R%C3%BAssia-aumentam-gastos-militares)
-- [Petrobras aumenta gasolina em 18,8% e diesel em 24,9%](https://www.nexojornal.com.br/extra/2022/03/10/Petrobras-aumenta-gasolina-em-188-e-diesel-em-249)
-- [Reunião entre ministros de Rússia e Ucrânia acaba sem acordo](https://www.nexojornal.com.br/extra/2022/03/10/Reuni%C3%A3o-entre-ministros-de-R%C3%BAssia-e-Ucr%C3%A2nia-acaba-sem-acordo)
 - [Por que terras indígenas não resolvem a demanda por potássio](https://www.nexojornal.com.br/expresso/2022/03/09/Por-que-terras-ind%C3%ADgenas-n%C3%A3o-resolvem-a-demanda-por-pot%C3%A1ssio)
+- [O que move a guerra após duas semanas de combate na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/09/O-que-move-a-guerra-ap%C3%B3s-duas-semanas-de-combate-na-Ucr%C3%A2nia)
+- [Dietas ‘low carb’ promovem maior perda de peso?](https://www.nexojornal.com.br/colunistas/2022/Dietas-%E2%80%98low-carb%E2%80%99-promovem-maior-perda-de-peso)
+- [A situação do trabalho infantil no estado de São Paulo](https://www.nexojornal.com.br/academico/2022/03/09/A-situa%C3%A7%C3%A3o-do-trabalho-infantil-no-estado-de-S%C3%A3o-Paulo)
+- [Telemarketing de celular com prefixo 0303 começa a valer](https://www.nexojornal.com.br/extra/2022/03/09/Telemarketing-de-celular-com-prefixo-0303-come%C3%A7a-a-valer1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
