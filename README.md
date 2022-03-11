@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [6 perguntas e respostas sobre a variante deltacron da covid](https://www.nexojornal.com.br/expresso/2022/03/10/6-perguntas-e-respostas-sobre-a-variante-deltacron-da-covid)
-- [Desde 2014, Ucrânia e Rússia aumentam gastos militares](https://www.nexojornal.com.br/grafico/2022/03/10/Desde-2014-Ucr%C3%A2nia-e-R%C3%BAssia-aumentam-gastos-militares)
-- [Petrobras aumenta gasolina em 18,8% e diesel em 24,9%](https://www.nexojornal.com.br/extra/2022/03/10/Petrobras-aumenta-gasolina-em-188-e-diesel-em-249)
-- [Reunião entre ministros de Rússia e Ucrânia acaba sem acordo](https://www.nexojornal.com.br/extra/2022/03/10/Reuni%C3%A3o-entre-ministros-de-R%C3%BAssia-e-Ucr%C3%A2nia-acaba-sem-acordo)
-- [Por que terras indígenas não resolvem a demanda por potássio](https://www.nexojornal.com.br/expresso/2022/03/09/Por-que-terras-ind%C3%ADgenas-n%C3%A3o-resolvem-a-demanda-por-pot%C3%A1ssio)
+- [Inflação vai a 10,54% em 12 meses e é a maior para fevereiro em 7 anos](https://www.nexojornal.com.br/extra/2022/03/11/Infla%C3%A7%C3%A3o-vai-a-1054-em-12-meses-e-%C3%A9-a-maior-para-fevereiro-em-7-anos)
+- [Facebook libera incitação à violência contra invasores russos](https://www.nexojornal.com.br/extra/2022/03/11/Facebook-libera-incita%C3%A7%C3%A3o-%C3%A0-viol%C3%AAncia-contra-invasores-russos)
+- [Congresso derruba veto de Bolsonaro a distribuição de absorventes](https://www.nexojornal.com.br/extra/2022/03/10/Congresso-derruba-veto-de-Bolsonaro-a-distribui%C3%A7%C3%A3o-de-absorventes)
+- [Como Putin suprimiu os contrapesos a seu poder na Rússia](https://www.nexojornal.com.br/expresso/2022/03/10/Como-Putin-suprimiu-os-contrapesos-a-seu-poder-na-R%C3%BAssia)
+- [Entidades LGBTI+ acionam Procuradoria-Geral por falas de Ribeiro](https://www.nexojornal.com.br/extra/2022/03/10/Entidades-LGBTI-acionam-Procuradoria-Geral-por-falas-de-Ribeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
