@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Qual a relação entre Aprendizagem e melhores empregos para juventudes](https://pp.nexojornal.com.br/academico/2022/Qual-a-rela%C3%A7%C3%A3o-entre-Aprendizagem-e-melhores-empregos-para-juventudes1)
-- [Daniel Domingues dos Santos: qualidade na educação infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/03/03/Daniel-Domingues-dos-Santos-qualidade-na-educa%C3%A7%C3%A3o-infantil)
-- [A participação de intérpretes no contato com um povo indígena isolado](https://pp.nexojornal.com.br/academico/2022/A-participa%C3%A7%C3%A3o-de-int%C3%A9rpretes-no-contato-com-um-povo-ind%C3%ADgena-isolado)
-- [O Congresso e a Lei de Cotas](https://pp.nexojornal.com.br/opiniao/2022/O-Congresso-e-a-Lei-de-Cotas)
-- [Financiamento da educação à luz da experiência internacional](https://pp.nexojornal.com.br/opiniao/2022/Financiamento-da-educa%C3%A7%C3%A3o-%C3%A0-luz-da-experi%C3%AAncia-internacional)
+- [A segregação residencial em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-segrega%C3%A7%C3%A3o-residencial-em-4-pontos)
+- [Geoconservação: o outro lado da conservação da natureza](https://pp.nexojornal.com.br/bibliografia-basica/2022/03/10/Geoconserva%C3%A7%C3%A3o-o-outro-lado-da-conserva%C3%A7%C3%A3o-da-natureza)
+- [Quais fatores interferem no desenvolvimento na primeira infância](https://pp.nexojornal.com.br/academico/2022/Quais-fatores-interferem-no-desenvolvimento-na-primeira-inf%C3%A2ncia)
+- [Como as teorias políticas justificam a representação política de grupos](https://pp.nexojornal.com.br/academico/2022/Como-as-teorias-pol%C3%ADticas-justificam-a-representa%C3%A7%C3%A3o-pol%C3%ADtica-de-grupos)
+- [O que o óleo de palma revela sobre colonização e o mercado global](https://pp.nexojornal.com.br/academico/2022/O-que-o-%C3%B3leo-de-palma-revela-sobre-coloniza%C3%A7%C3%A3o-e-o-mercado-global)
 <!-- PP_LIST:END -->
 
