@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Engenheiro Fantasma](https://gamarevista.uol.com.br/cultura/trecho-de-livro/engenheiro-fantasma/)
 - [Exposição imersiva de Portinari no MIS Experience, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-imersiva-de-portinari-no-mis-experience-em-sp/)
 - [Workshop para jovens chefs](https://gamarevista.uol.com.br/achamos-que-vale/fazer/workshop-para-jovens-chefs/)
 - [O documentário ‘The Andy Warhol Diaries’, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-the-andy-warhol-diaries-na-netflix/)
 - [As paródias de Livia La Gatto e Renata Maciel](https://gamarevista.uol.com.br/achamos-que-vale/ir/as-parodias-de-livia-la-gatto-e-renata-maciel/)
-- [O novo portal da Perifa Con](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-portal-da-perifa-con/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
