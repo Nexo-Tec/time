@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que terras indígenas não resolvem a demanda por potássio](https://www.nexojornal.com.br/expresso/2022/03/09/Por-que-terras-ind%C3%ADgenas-n%C3%A3o-resolvem-a-demanda-por-pot%C3%A1ssio)
-- [O que move a guerra após duas semanas de combate na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/09/O-que-move-a-guerra-ap%C3%B3s-duas-semanas-de-combate-na-Ucr%C3%A2nia)
-- [Dietas ‘low carb’ promovem maior perda de peso?](https://www.nexojornal.com.br/colunistas/2022/Dietas-%E2%80%98low-carb%E2%80%99-promovem-maior-perda-de-peso)
-- [A situação do trabalho infantil no estado de São Paulo](https://www.nexojornal.com.br/academico/2022/03/09/A-situa%C3%A7%C3%A3o-do-trabalho-infantil-no-estado-de-S%C3%A3o-Paulo)
-- [Telemarketing de celular com prefixo 0303 começa a valer](https://www.nexojornal.com.br/extra/2022/03/09/Telemarketing-de-celular-com-prefixo-0303-come%C3%A7a-a-valer1)
+- [Congresso derruba veto de Bolsonaro a distribuição de absorventes](https://www.nexojornal.com.br/extra/2022/03/10/Congresso-derruba-veto-de-Bolsonaro-a-distribui%C3%A7%C3%A3o-de-absorventes)
+- [Como Putin suprimiu os contrapesos a seu poder na Rússia](https://www.nexojornal.com.br/expresso/2022/03/10/Como-Putin-suprimiu-os-contrapesos-a-seu-poder-na-R%C3%BAssia)
+- [Entidades LGBTI+ acionam Procuradoria-Geral por falas de Ribeiro](https://www.nexojornal.com.br/extra/2022/03/10/Entidades-LGBTI-acionam-Procuradoria-Geral-por-falas-de-Ribeiro)
+- [É a vez da Lei de Cotas: os acertos na reserva de vagas](https://www.nexojornal.com.br/colunistas/2022/%C3%89-a-vez-da-Lei-de-Cotas-os-acertos-na-reserva-de-vagas)
+- [‘Processos são usados para inibir e constranger jornalistas’](https://www.nexojornal.com.br/entrevista/2022/03/10/%E2%80%98Processos-s%C3%A3o-usados-para-inibir-e-constranger-jornalistas%E2%80%991)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
