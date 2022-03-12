@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O longo caminho das mulheres no orçamento público federal](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-longo-caminho-das-mulheres-no-or%C3%A7amento-p%C3%BAblico-federal)
 - [A segregação residencial em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-segrega%C3%A7%C3%A3o-residencial-em-4-pontos)
 - [Geoconservação: o outro lado da conservação da natureza](https://pp.nexojornal.com.br/bibliografia-basica/2022/03/10/Geoconserva%C3%A7%C3%A3o-o-outro-lado-da-conserva%C3%A7%C3%A3o-da-natureza)
 - [Quais fatores interferem no desenvolvimento na primeira infância](https://pp.nexojornal.com.br/academico/2022/Quais-fatores-interferem-no-desenvolvimento-na-primeira-inf%C3%A2ncia)
 - [Como as teorias políticas justificam a representação política de grupos](https://pp.nexojornal.com.br/academico/2022/Como-as-teorias-pol%C3%ADticas-justificam-a-representa%C3%A7%C3%A3o-pol%C3%ADtica-de-grupos)
+- [O que o óleo de palma revela sobre colonização e o mercado global](https://pp.nexojornal.com.br/academico/2022/O-que-o-%C3%B3leo-de-palma-revela-sobre-coloniza%C3%A7%C3%A3o-e-o-mercado-global)
 <!-- PP_LIST:END -->
 
