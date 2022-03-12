@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Inflação vai a 10,54% em 12 meses e é a maior para fevereiro em 7 anos](https://www.nexojornal.com.br/extra/2022/03/11/Infla%C3%A7%C3%A3o-vai-a-1054-em-12-meses-e-%C3%A9-a-maior-para-fevereiro-em-7-anos)
+- [Facebook libera incitação à violência contra invasores russos](https://www.nexojornal.com.br/extra/2022/03/11/Facebook-libera-incita%C3%A7%C3%A3o-%C3%A0-viol%C3%AAncia-contra-invasores-russos)
 - [Congresso derruba veto de Bolsonaro a distribuição de absorventes](https://www.nexojornal.com.br/extra/2022/03/10/Congresso-derruba-veto-de-Bolsonaro-a-distribui%C3%A7%C3%A3o-de-absorventes)
 - [Como Putin suprimiu os contrapesos a seu poder na Rússia](https://www.nexojornal.com.br/expresso/2022/03/10/Como-Putin-suprimiu-os-contrapesos-a-seu-poder-na-R%C3%BAssia)
 - [Entidades LGBTI+ acionam Procuradoria-Geral por falas de Ribeiro](https://www.nexojornal.com.br/extra/2022/03/10/Entidades-LGBTI-acionam-Procuradoria-Geral-por-falas-de-Ribeiro)
-- [É a vez da Lei de Cotas: os acertos na reserva de vagas](https://www.nexojornal.com.br/colunistas/2022/%C3%89-a-vez-da-Lei-de-Cotas-os-acertos-na-reserva-de-vagas)
-- [‘Processos são usados para inibir e constranger jornalistas’](https://www.nexojornal.com.br/entrevista/2022/03/10/%E2%80%98Processos-s%C3%A3o-usados-para-inibir-e-constranger-jornalistas%E2%80%991)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
