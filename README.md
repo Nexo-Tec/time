@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Congresso derruba veto de Bolsonaro a distribuição de absorventes](https://www.nexojornal.com.br/extra/2022/03/10/Congresso-derruba-veto-de-Bolsonaro-a-distribui%C3%A7%C3%A3o-de-absorventes)
-- [Como Putin suprimiu os contrapesos a seu poder na Rússia](https://www.nexojornal.com.br/expresso/2022/03/10/Como-Putin-suprimiu-os-contrapesos-a-seu-poder-na-R%C3%BAssia)
-- [Entidades LGBTI+ acionam Procuradoria-Geral por falas de Ribeiro](https://www.nexojornal.com.br/extra/2022/03/10/Entidades-LGBTI-acionam-Procuradoria-Geral-por-falas-de-Ribeiro)
-- [É a vez da Lei de Cotas: os acertos na reserva de vagas](https://www.nexojornal.com.br/colunistas/2022/%C3%89-a-vez-da-Lei-de-Cotas-os-acertos-na-reserva-de-vagas)
-- [‘Processos são usados para inibir e constranger jornalistas’](https://www.nexojornal.com.br/entrevista/2022/03/10/%E2%80%98Processos-s%C3%A3o-usados-para-inibir-e-constranger-jornalistas%E2%80%991)
+- [Rússia discute na ONU acusações de armas biológicas na Ucrânia](https://www.nexojornal.com.br/extra/2022/03/11/R%C3%BAssia-discute-na-ONU-acusa%C3%A7%C3%B5es-de-armas-biol%C3%B3gicas-na-Ucr%C3%A2nia)
+- [Para que servem os patrimônios em tempos de guerra](https://www.nexojornal.com.br/ensaio/2022/Para-que-servem-os-patrim%C3%B4nios-em-tempos-de-guerra)
+- [Qual o status legal de combatentes estrangeiros na guerra](https://www.nexojornal.com.br/expresso/2022/03/11/Qual-o-status-legal-de-combatentes-estrangeiros-na-guerra)
+- [Os efeitos da guerra no combustível, na comida e na indústria](https://www.nexojornal.com.br/expresso/2022/03/11/Os-efeitos-da-guerra-no-combust%C3%ADvel-na-comida-e-na-ind%C3%BAstria)
+- [O retorno da ansiedade nuclear. E seu impacto nos jovens](https://www.nexojornal.com.br/expresso/2022/03/11/O-retorno-da-ansiedade-nuclear.-E-seu-impacto-nos-jovens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
