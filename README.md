@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ucrânia acusa Rússia de bombardear mesquita em Mariupol](https://www.nexojornal.com.br/extra/2022/03/12/Ucr%C3%A2nia-acusa-R%C3%BAssia-de-bombardear-mesquita-em-Mariupol)
-- [Bolsonaro sanciona PL que prevê ICMS único sobre combustíveis](https://www.nexojornal.com.br/extra/2022/03/12/Bolsonaro-sanciona-PL-que-prev%C3%AA-ICMS-%C3%BAnico-sobre-combust%C3%ADveis)
 - [Rússia discute na ONU acusações de armas biológicas na Ucrânia](https://www.nexojornal.com.br/extra/2022/03/11/R%C3%BAssia-discute-na-ONU-acusa%C3%A7%C3%B5es-de-armas-biol%C3%B3gicas-na-Ucr%C3%A2nia)
 - [Para que servem os patrimônios em tempos de guerra](https://www.nexojornal.com.br/ensaio/2022/Para-que-servem-os-patrim%C3%B4nios-em-tempos-de-guerra)
 - [Qual o status legal de combatentes estrangeiros na guerra](https://www.nexojornal.com.br/expresso/2022/03/11/Qual-o-status-legal-de-combatentes-estrangeiros-na-guerra)
+- [Os efeitos da guerra no combustível, na comida e na indústria](https://www.nexojornal.com.br/expresso/2022/03/11/Os-efeitos-da-guerra-no-combust%C3%ADvel-na-comida-e-na-ind%C3%BAstria)
+- [O retorno da ansiedade nuclear. E seu impacto nos jovens](https://www.nexojornal.com.br/expresso/2022/03/11/O-retorno-da-ansiedade-nuclear.-E-seu-impacto-nos-jovens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
