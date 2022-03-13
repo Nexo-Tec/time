@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ucrânia acusa Rússia de bombardear mesquita em Mariupol](https://www.nexojornal.com.br/extra/2022/03/12/Ucr%C3%A2nia-acusa-R%C3%BAssia-de-bombardear-mesquita-em-Mariupol)
-- [Bolsonaro sanciona PL que prevê ICMS único sobre combustíveis](https://www.nexojornal.com.br/extra/2022/03/12/Bolsonaro-sanciona-PL-que-prev%C3%AA-ICMS-%C3%BAnico-sobre-combust%C3%ADveis)
-- [Rússia discute na ONU acusações de armas biológicas na Ucrânia](https://www.nexojornal.com.br/extra/2022/03/11/R%C3%BAssia-discute-na-ONU-acusa%C3%A7%C3%B5es-de-armas-biol%C3%B3gicas-na-Ucr%C3%A2nia)
-- [Para que servem os patrimônios em tempos de guerra](https://www.nexojornal.com.br/ensaio/2022/Para-que-servem-os-patrim%C3%B4nios-em-tempos-de-guerra)
-- [Qual o status legal de combatentes estrangeiros na guerra](https://www.nexojornal.com.br/expresso/2022/03/11/Qual-o-status-legal-de-combatentes-estrangeiros-na-guerra)
+- [Quais os erros e acertos do Brasil na crise dos combustíveis](https://www.nexojornal.com.br/expresso/2022/03/12/Quais-os-erros-e-acertos-do-Brasil-na-crise-dos-combust%C3%ADveis)
+- [Onde está Vladimir Putin no espectro político-ideológico](https://www.nexojornal.com.br/expresso/2022/03/12/Onde-est%C3%A1-Vladimir-Putin-no-espectro-pol%C3%ADtico-ideol%C3%B3gico)
+- [‘Memória da Independência veio da classe senhorial’](https://www.nexojornal.com.br/entrevista/2022/03/12/%E2%80%98Mem%C3%B3ria-da-Independ%C3%AAncia-veio-da-classe-senhorial%E2%80%99)
+- [5 livros com narrativas atravessadas pelo desejo](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-com-narrativas-atravessadas-pelo-desejo)
+- [Como ‘O fim da beleza’ recicla velhos ataques ao modernismo](https://www.nexojornal.com.br/expresso/2022/03/12/Como-%E2%80%98O-fim-da-beleza%E2%80%99-recicla-velhos-ataques-ao-modernismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
