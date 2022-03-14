@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os erros e acertos do Brasil na crise dos combustíveis](https://www.nexojornal.com.br/expresso/2022/03/12/Quais-os-erros-e-acertos-do-Brasil-na-crise-dos-combust%C3%ADveis)
-- [Onde está Vladimir Putin no espectro político-ideológico](https://www.nexojornal.com.br/expresso/2022/03/12/Onde-est%C3%A1-Vladimir-Putin-no-espectro-pol%C3%ADtico-ideol%C3%B3gico)
-- [‘Memória da Independência veio da classe senhorial’](https://www.nexojornal.com.br/entrevista/2022/03/12/%E2%80%98Mem%C3%B3ria-da-Independ%C3%AAncia-veio-da-classe-senhorial%E2%80%99)
-- [5 livros com narrativas atravessadas pelo desejo](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-com-narrativas-atravessadas-pelo-desejo)
-- [Como ‘O fim da beleza’ recicla velhos ataques ao modernismo](https://www.nexojornal.com.br/expresso/2022/03/12/Como-%E2%80%98O-fim-da-beleza%E2%80%99-recicla-velhos-ataques-ao-modernismo)
+- [Por que é errado ligar a queda de homicídios ao maior acesso a armas](https://www.nexojornal.com.br/expresso/2022/03/13/Por-que-%C3%A9-errado-ligar-a-queda-de-homic%C3%ADdios-ao-maior-acesso-a-armas)
+- [William Hurt, ator de ‘O beijo da mulher aranha’, morre aos 71 anos](https://www.nexojornal.com.br/extra/2022/03/13/William-Hurt-ator-de-%E2%80%98O-beijo-da-mulher-aranha%E2%80%99-morre-aos-71-anos)
+- [‘Tática do insulto’: os rumos do MBL até o caso Mamãe Falei](https://www.nexojornal.com.br/expresso/2022/03/13/%E2%80%98T%C3%A1tica-do-insulto%E2%80%99-os-rumos-do-MBL-at%C3%A9-o-caso-Mam%C3%A3e-Falei)
+- [Proteção de dados não pode barrar o acesso à informação](https://www.nexojornal.com.br/ensaio/2022/Prote%C3%A7%C3%A3o-de-dados-n%C3%A3o-pode-barrar-o-acesso-%C3%A0-informa%C3%A7%C3%A3o)
+- [Controvérsias na história do ‘Livro das mil e uma noites’](https://www.nexojornal.com.br/externo/2022/03/13/Controv%C3%A9rsias-na-hist%C3%B3ria-do-%E2%80%98Livro-das-mil-e-uma-noites%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
