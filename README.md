@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Chapéu Panamá](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chapeu-panama/)
 - [Caetano vai fazer 80](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/caetano-vai-fazer-80/)
 - [@leticiaribeiroo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/leticiaribeiroo/)
 - [Jamil Chade: ‘A função do jornalista é dar voz às vítimas da guerra’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jamil-chade-a-internet-e-um-novo-campo-de-batalha/)
 - [MariMoon](https://gamarevista.uol.com.br/pessoas/questionario-proust/marimoon/)
-- [Engenheiro Fantasma](https://gamarevista.uol.com.br/cultura/trecho-de-livro/engenheiro-fantasma/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
