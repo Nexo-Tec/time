@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como começar a ouvir música francesa](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comecar-a-ouvir-musica-francesa/)
 - [Chapéu Panamá](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chapeu-panama/)
 - [Caetano vai fazer 80](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/caetano-vai-fazer-80/)
 - [@leticiaribeiroo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/leticiaribeiroo/)
 - [Jamil Chade: ‘A função do jornalista é dar voz às vítimas da guerra’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jamil-chade-a-internet-e-um-novo-campo-de-batalha/)
-- [MariMoon](https://gamarevista.uol.com.br/pessoas/questionario-proust/marimoon/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
