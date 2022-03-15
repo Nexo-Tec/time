@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia e Ucrânia pausam negociações em dia de ataques a Kiev](https://www.nexojornal.com.br/extra/2022/03/14/R%C3%BAssia-e-Ucr%C3%A2nia-pausam-negocia%C3%A7%C3%B5es-em-dia-de-ataques-a-Kiev)
-- [Por que é errado ligar a queda de homicídios ao maior acesso a armas](https://www.nexojornal.com.br/expresso/2022/03/13/Por-que-%C3%A9-errado-ligar-a-queda-de-homic%C3%ADdios-ao-maior-acesso-a-armas)
-- [William Hurt, ator de ‘O beijo da mulher aranha’, morre aos 71 anos](https://www.nexojornal.com.br/extra/2022/03/13/William-Hurt-ator-de-%E2%80%98O-beijo-da-mulher-aranha%E2%80%99-morre-aos-71-anos)
-- [‘Tática do insulto’: os rumos do MBL até o caso Mamãe Falei](https://www.nexojornal.com.br/expresso/2022/03/13/%E2%80%98T%C3%A1tica-do-insulto%E2%80%99-os-rumos-do-MBL-at%C3%A9-o-caso-Mam%C3%A3e-Falei)
-- [Proteção de dados não pode barrar o acesso à informação](https://www.nexojornal.com.br/ensaio/2022/Prote%C3%A7%C3%A3o-de-dados-n%C3%A3o-pode-barrar-o-acesso-%C3%A0-informa%C3%A7%C3%A3o)
+- [Lima Barreto, Policarpo Quaresma e um outro patriotismo](https://www.nexojornal.com.br/colunistas/2022/Lima-Barreto-Policarpo-Quaresma-e-um-outro-patriotismo)
+- [Como a guerra força a aproximação entre EUA e Venezuela](https://www.nexojornal.com.br/expresso/2022/03/14/Como-a-guerra-for%C3%A7a-a-aproxima%C3%A7%C3%A3o-entre-EUA-e-Venezuela)
+- [‘É preciso mais transparência das plataformas em caso de guerra’](https://www.nexojornal.com.br/entrevista/2022/03/14/%E2%80%98%C3%89-preciso-mais-transpar%C3%AAncia-das-plataformas-em-caso-de-guerra%E2%80%99)
+- [Auxílio Brasil de R$ 400 é prorrogado por mais 60 dias](https://www.nexojornal.com.br/extra/2022/03/14/Aux%C3%ADlio-Brasil-de-R-400-%C3%A9-prorrogado-por-mais-60-dias)
+- [A enciclopédia online sobre microagressões](https://www.nexojornal.com.br/expresso/2022/03/14/A-enciclop%C3%A9dia-online-sobre-microagress%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
