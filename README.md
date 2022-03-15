@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rússia e Ucrânia pausam negociações em dia de ataques a Kiev](https://www.nexojornal.com.br/extra/2022/03/14/R%C3%BAssia-e-Ucr%C3%A2nia-pausam-negocia%C3%A7%C3%B5es-em-dia-de-ataques-a-Kiev)
 - [Por que é errado ligar a queda de homicídios ao maior acesso a armas](https://www.nexojornal.com.br/expresso/2022/03/13/Por-que-%C3%A9-errado-ligar-a-queda-de-homic%C3%ADdios-ao-maior-acesso-a-armas)
 - [William Hurt, ator de ‘O beijo da mulher aranha’, morre aos 71 anos](https://www.nexojornal.com.br/extra/2022/03/13/William-Hurt-ator-de-%E2%80%98O-beijo-da-mulher-aranha%E2%80%99-morre-aos-71-anos)
 - [‘Tática do insulto’: os rumos do MBL até o caso Mamãe Falei](https://www.nexojornal.com.br/expresso/2022/03/13/%E2%80%98T%C3%A1tica-do-insulto%E2%80%99-os-rumos-do-MBL-at%C3%A9-o-caso-Mam%C3%A3e-Falei)
 - [Proteção de dados não pode barrar o acesso à informação](https://www.nexojornal.com.br/ensaio/2022/Prote%C3%A7%C3%A3o-de-dados-n%C3%A3o-pode-barrar-o-acesso-%C3%A0-informa%C3%A7%C3%A3o)
-- [Controvérsias na história do ‘Livro das mil e uma noites’](https://www.nexojornal.com.br/externo/2022/03/13/Controv%C3%A9rsias-na-hist%C3%B3ria-do-%E2%80%98Livro-das-mil-e-uma-noites%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
