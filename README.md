@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é a balança comercial do Brasil com a Rússia](https://www.nexojornal.com.br/grafico/2022/03/15/Como-%C3%A9-a-balan%C3%A7a-comercial-do-Brasil-com-a-R%C3%BAssia)
-- [Governo determina que filme de Gentili saia de streaming](https://www.nexojornal.com.br/extra/2022/03/15/Governo-determina-que-filme-de-Gentili-saia-de-streaming)
-- [Lima Barreto, Policarpo Quaresma e um outro patriotismo](https://www.nexojornal.com.br/colunistas/2022/Lima-Barreto-Policarpo-Quaresma-e-um-outro-patriotismo)
-- [Como a guerra força a aproximação entre EUA e Venezuela](https://www.nexojornal.com.br/expresso/2022/03/14/Como-a-guerra-for%C3%A7a-a-aproxima%C3%A7%C3%A3o-entre-EUA-e-Venezuela)
-- [‘É preciso mais transparência das plataformas em caso de guerra’](https://www.nexojornal.com.br/entrevista/2022/03/14/%E2%80%98%C3%89-preciso-mais-transpar%C3%AAncia-das-plataformas-em-caso-de-guerra%E2%80%99)
+- [Ministro da Justiça dá medalha do mérito indigenista a Bolsonaro](https://www.nexojornal.com.br/extra/2022/03/16/Ministro-da-Justi%C3%A7a-d%C3%A1-medalha-do-m%C3%A9rito-indigenista-a-Bolsonaro)
+- [Senado aprova Lei Paulo Gustavo, que incentiva setor cultural](https://www.nexojornal.com.br/extra/2022/03/16/Senado-aprova-Lei-Paulo-Gustavo-que-incentiva-setor-cultural)
+- [Casal tentou vender segredos dos EUA ao Brasil, diz jornal](https://www.nexojornal.com.br/extra/2022/03/16/Casal-tentou-vender-segredos-dos-EUA-ao-Brasil-diz-jornal)
+- [O que muda se o Brasil classificar a covid-19 como endemia](https://www.nexojornal.com.br/expresso/2022/03/15/O-que-muda-se-o-Brasil-classificar-a-covid-19-como-endemia)
+- [União Europeia vai subsidiar combustíveis por causa da guerra](https://www.nexojornal.com.br/extra/2022/03/15/Uni%C3%A3o-Europeia-vai-subsidiar-combust%C3%ADveis-por-causa-da-guerra1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
