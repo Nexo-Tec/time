@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como a inteligência artificial pode ajudar a identificar o risco de óbito de recém-nascidos](https://pp.nexojornal.com.br/academico/2022/Como-a-intelig%C3%AAncia-artificial-pode-ajudar-a-identificar-o-risco-de-%C3%B3bito-de-rec%C3%A9m-nascidos)
-- [Experiências com ações afirmativas: o caso da Unicamp](https://pp.nexojornal.com.br/opiniao/2022/Experi%C3%AAncias-com-a%C3%A7%C3%B5es-afirmativas-o-caso-da-Unicamp)
 - [Concessões de florestas públicas no combate ao desmatamento da Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2022/Concess%C3%B5es-de-florestas-p%C3%BAblicas-no-combate-ao-desmatamento-da-Amaz%C3%B4nia)
 - [O longo caminho das mulheres no orçamento público federal](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-longo-caminho-das-mulheres-no-or%C3%A7amento-p%C3%BAblico-federal)
 - [A segregação residencial em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-segrega%C3%A7%C3%A3o-residencial-em-4-pontos)
+- [Geoconservação: o outro lado da conservação da natureza](https://pp.nexojornal.com.br/bibliografia-basica/2022/03/10/Geoconserva%C3%A7%C3%A3o-o-outro-lado-da-conserva%C3%A7%C3%A3o-da-natureza)
+- [Quais fatores interferem no desenvolvimento na primeira infância](https://pp.nexojornal.com.br/academico/2022/Quais-fatores-interferem-no-desenvolvimento-na-primeira-inf%C3%A2ncia)
 <!-- PP_LIST:END -->
 
