@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com guerra, governo piora projeções para economia em 2022](https://www.nexojornal.com.br/extra/2022/03/17/Com-guerra-governo-piora-proje%C3%A7%C3%B5es-para-economia-em-2022)
-- [Cabo Anselmo, o agente duplo da ditadura, em 5 momentos](https://www.nexojornal.com.br/expresso/2022/03/17/Cabo-Anselmo-o-agente-duplo-da-ditadura-em-5-momentos)
-- [Teste do Censo indica que 51,7% da população é feminina](https://www.nexojornal.com.br/extra/2022/03/17/Teste-do-Censo-indica-que-517-da-popula%C3%A7%C3%A3o-%C3%A9-feminina)
-- [Netflix vai cobrar por compartilhamento de senha](https://www.nexojornal.com.br/extra/2022/03/17/Netflix-vai-cobrar-por-compartilhamento-de-senha)
-- [Teatro que abrigava civis é bombardeado em Mariupol](https://www.nexojornal.com.br/extra/2022/03/17/Teatro-que-abrigava-civis-%C3%A9-bombardeado-em-Mariupol)
+- [Bolsonaro está retomando o fôlego? O que dizem as pesquisas](https://www.nexojornal.com.br/expresso/2022/03/16/Bolsonaro-est%C3%A1-retomando-o-f%C3%B4lego-O-que-dizem-as-pesquisas)
+- [O canal de Youtube que pergunta a russos o que eles acham da guerra](https://www.nexojornal.com.br/expresso/2022/03/16/O-canal-de-Youtube-que-pergunta-a-russos-o-que-eles-acham-da-guerra)
+- [Os ganhadores do prêmio de arquitetura Pritzker desde 1979](https://www.nexojornal.com.br/grafico/2022/03/16/Os-ganhadores-do-pr%C3%AAmio-de-arquitetura-Pritzker-desde-1979)
+- [Executivo diz que repassou R$ 3 milhões em caixa 2 a Alckmin](https://www.nexojornal.com.br/extra/2022/03/16/Executivo-diz-que-repassou-R-3-milh%C3%B5es-em-caixa-2-a-Alckmin)
+- [Como se constrói um ‘herói’ durante uma guerra](https://www.nexojornal.com.br/expresso/2022/03/16/Como-se-constr%C3%B3i-um-%E2%80%98her%C3%B3i%E2%80%99-durante-uma-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
