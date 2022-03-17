@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro está retomando o fôlego? O que dizem as pesquisas](https://www.nexojornal.com.br/expresso/2022/03/16/Bolsonaro-est%C3%A1-retomando-o-f%C3%B4lego-O-que-dizem-as-pesquisas)
-- [O canal de Youtube que pergunta a russos o que eles acham da guerra](https://www.nexojornal.com.br/expresso/2022/03/16/O-canal-de-Youtube-que-pergunta-a-russos-o-que-eles-acham-da-guerra)
-- [Os ganhadores do prêmio de arquitetura Pritzker desde 1979](https://www.nexojornal.com.br/grafico/2022/03/16/Os-ganhadores-do-pr%C3%AAmio-de-arquitetura-Pritzker-desde-1979)
-- [Executivo diz que repassou R$ 3 milhões em caixa 2 a Alckmin](https://www.nexojornal.com.br/extra/2022/03/16/Executivo-diz-que-repassou-R-3-milh%C3%B5es-em-caixa-2-a-Alckmin)
-- [Como se constrói um ‘herói’ durante uma guerra](https://www.nexojornal.com.br/expresso/2022/03/16/Como-se-constr%C3%B3i-um-%E2%80%98her%C3%B3i%E2%80%99-durante-uma-guerra)
+- [Encher o tanque pode custar um terço do salário mínimo](https://www.nexojornal.com.br/grafico/2022/03/16/Encher-o-tanque-pode-custar-um-ter%C3%A7o-do-sal%C3%A1rio-m%C3%ADnimo)
+- [Ministro da Justiça dá medalha do mérito indigenista a Bolsonaro](https://www.nexojornal.com.br/extra/2022/03/16/Ministro-da-Justi%C3%A7a-d%C3%A1-medalha-do-m%C3%A9rito-indigenista-a-Bolsonaro)
+- [Senado aprova Lei Paulo Gustavo, que incentiva setor cultural](https://www.nexojornal.com.br/extra/2022/03/16/Senado-aprova-Lei-Paulo-Gustavo-que-incentiva-setor-cultural)
+- [Casal tentou vender segredos dos EUA ao Brasil, diz jornal](https://www.nexojornal.com.br/extra/2022/03/16/Casal-tentou-vender-segredos-dos-EUA-ao-Brasil-diz-jornal)
+- [O que muda se o Brasil classificar a covid-19 como endemia](https://www.nexojornal.com.br/expresso/2022/03/15/O-que-muda-se-o-Brasil-classificar-a-covid-19-como-endemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
