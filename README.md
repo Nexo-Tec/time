@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Indicado ao Oscar, japonês ‘Drive My Car’ estreia nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/indicado-ao-oscar-japones-drive-my-car-estreia-nos-cinemas/)
+- [186 obras de Marc Chagall no CCBB do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/186-obras-de-marc-chagall-no-ccbb-do-rio/)
 - [Uma newsletter que é um Prato Feito brasileiro](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-newsletter-que-e-um-prato-feito-brasileiro/)
 - [Novo &lpar;velho&rpar; álbum do Sonic Youth](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novo-velho-album-do-sonic-youth/)
 - [Uma mostra sobre a nova arte gráfica japonesa](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-sobre-a-nova-arte-grafica-japonesa/)
-- [Saia do básico na cozinha](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/saia-do-basico-na-cozinha/)
-- [Natureza viva](https://gamarevista.uol.com.br/colunistas/marcello-dantas/natureza-viva/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
