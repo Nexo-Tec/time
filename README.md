@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma newsletter que é um Prato Feito brasileiro](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-newsletter-que-e-um-prato-feito-brasileiro/)
+- [Novo &lpar;velho&rpar; álbum do Sonic Youth](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novo-velho-album-do-sonic-youth/)
+- [Uma mostra sobre a nova arte gráfica japonesa](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-sobre-a-nova-arte-grafica-japonesa/)
 - [Saia do básico na cozinha](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/saia-do-basico-na-cozinha/)
 - [Natureza viva](https://gamarevista.uol.com.br/colunistas/marcello-dantas/natureza-viva/)
-- [Como começar a ouvir música francesa](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comecar-a-ouvir-musica-francesa/)
-- [Chapéu Panamá](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chapeu-panama/)
-- [Caetano vai fazer 80](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/caetano-vai-fazer-80/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
