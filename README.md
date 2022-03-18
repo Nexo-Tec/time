@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 gráficos para entender 20 anos de preços da gasolina](https://www.nexojornal.com.br/expresso/2022/03/17/5-gr%C3%A1ficos-para-entender-20-anos-de-pre%C3%A7os-da-gasolina)
-- [‘É um trabalho imenso reconstruir vidas com tão poucos vestígios’](https://www.nexojornal.com.br/entrevista/2022/03/17/%E2%80%98%C3%89-um-trabalho-imenso-reconstruir-vidas-com-t%C3%A3o-poucos-vest%C3%ADgios%E2%80%99)
-- [Crianças, guerra e literatura: como os livros podem ajudar](https://www.nexojornal.com.br/colunistas/2022/Crian%C3%A7as-guerra-e-literatura-como-os-livros-podem-ajudar)
-- [Governo anuncia pacote para injetar R$ 150 bilhões na economia](https://www.nexojornal.com.br/extra/2022/03/17/Governo-anuncia-pacote-para-injetar-R-150-bilh%C3%B5es-na-economia)
-- [O discurso de Putin diante da pressão interna e externa](https://www.nexojornal.com.br/podcast/2022/03/17/O-discurso-de-Putin-diante-da-press%C3%A3o-interna-e-externa)
+- [Com guerra, governo piora projeções para economia em 2022](https://www.nexojornal.com.br/extra/2022/03/17/Com-guerra-governo-piora-proje%C3%A7%C3%B5es-para-economia-em-2022)
+- [Cabo Anselmo, o agente duplo da ditadura, em 5 momentos](https://www.nexojornal.com.br/expresso/2022/03/17/Cabo-Anselmo-o-agente-duplo-da-ditadura-em-5-momentos)
+- [Teste do Censo indica que 51,7% da população é feminina](https://www.nexojornal.com.br/extra/2022/03/17/Teste-do-Censo-indica-que-517-da-popula%C3%A7%C3%A3o-%C3%A9-feminina)
+- [Netflix vai cobrar por compartilhamento de senha](https://www.nexojornal.com.br/extra/2022/03/17/Netflix-vai-cobrar-por-compartilhamento-de-senha)
+- [Teatro que abrigava civis é bombardeado em Mariupol](https://www.nexojornal.com.br/extra/2022/03/17/Teatro-que-abrigava-civis-%C3%A9-bombardeado-em-Mariupol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
