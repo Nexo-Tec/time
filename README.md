@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 gráficos para entender 20 anos de preços da gasolina](https://www.nexojornal.com.br/expresso/2022/03/17/5-gr%C3%A1ficos-para-entender-20-anos-de-pre%C3%A7os-da-gasolina)
-- [‘É um trabalho imenso reconstruir vidas com tão poucos vestígios’](https://www.nexojornal.com.br/entrevista/2022/03/17/%E2%80%98%C3%89-um-trabalho-imenso-reconstruir-vidas-com-t%C3%A3o-poucos-vest%C3%ADgios%E2%80%99)
-- [Crianças, guerra e literatura: como os livros podem ajudar](https://www.nexojornal.com.br/colunistas/2022/Crian%C3%A7as-guerra-e-literatura-como-os-livros-podem-ajudar)
-- [Governo anuncia pacote para injetar R$ 150 bilhões na economia](https://www.nexojornal.com.br/extra/2022/03/17/Governo-anuncia-pacote-para-injetar-R-150-bilh%C3%B5es-na-economia)
-- [O discurso de Putin diante da pressão interna e externa](https://www.nexojornal.com.br/podcast/2022/03/17/O-discurso-de-Putin-diante-da-press%C3%A3o-interna-e-externa)
+- [Brasileiros se preocupam com mudança do clima, aponta pesquisa](https://www.nexojornal.com.br/externo/2022/03/18/Brasileiros-se-preocupam-com-mudan%C3%A7a-do-clima-aponta-pesquisa)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [O papel da agricultura familiar na recuperação verde](https://www.nexojornal.com.br/expresso/2022/03/18/O-papel-da-agricultura-familiar-na-recupera%C3%A7%C3%A3o-verde)
+- [Criando ambiência para inovar no setor público](https://www.nexojornal.com.br/ensaio/debate/2022/Criando-ambi%C3%AAncia-para-inovar-no-setor-p%C3%BAblico)
+- [Como encarar as incertezas após a liberação das máscaras](https://www.nexojornal.com.br/expresso/2022/03/18/Como-encarar-as-incertezas-ap%C3%B3s-a-libera%C3%A7%C3%A3o-das-m%C3%A1scaras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
