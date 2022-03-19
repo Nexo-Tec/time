@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TV Record é condenada a pagar R$ 1 milhão por incitar violência](https://www.nexojornal.com.br/extra/2022/03/18/TV-Record-%C3%A9-condenada-a-pagar-R-1-milh%C3%A3o-por-incitar-viol%C3%AAncia)
-- [‘Somos iguais’, diz Bolsonaro ao receber honraria indigenista](https://www.nexojornal.com.br/extra/2022/03/18/%E2%80%98Somos-iguais%E2%80%99-diz-Bolsonaro-ao-receber-honraria-indigenista)
-- [A história de Lviv e o papel da cidade na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/18/A-hist%C3%B3ria-de-Lviv-e-o-papel-da-cidade-na-guerra-na-Ucr%C3%A2nia)
-- [Putin discursa em estádio cheio: ‘Nunca tivemos tanta força’](https://www.nexojornal.com.br/extra/2022/03/18/Putin-discursa-em-est%C3%A1dio-cheio-%E2%80%98Nunca-tivemos-tanta-for%C3%A7a%E2%80%99)
-- [Alckmin anuncia filiação ao PSB para ser vice de Lula](https://www.nexojornal.com.br/extra/2022/03/18/Alckmin-anuncia-filia%C3%A7%C3%A3o-ao-PSB-para-ser-vice-de-Lula)
+- [5 gráficos para entender 20 anos de preços da gasolina](https://www.nexojornal.com.br/expresso/2022/03/17/5-gr%C3%A1ficos-para-entender-20-anos-de-pre%C3%A7os-da-gasolina)
+- [‘É um trabalho imenso reconstruir vidas com tão poucos vestígios’](https://www.nexojornal.com.br/entrevista/2022/03/17/%E2%80%98%C3%89-um-trabalho-imenso-reconstruir-vidas-com-t%C3%A3o-poucos-vest%C3%ADgios%E2%80%99)
+- [Crianças, guerra e literatura: como os livros podem ajudar](https://www.nexojornal.com.br/colunistas/2022/Crian%C3%A7as-guerra-e-literatura-como-os-livros-podem-ajudar)
+- [Governo anuncia pacote para injetar R$ 150 bilhões na economia](https://www.nexojornal.com.br/extra/2022/03/17/Governo-anuncia-pacote-para-injetar-R-150-bilh%C3%B5es-na-economia)
+- [O discurso de Putin diante da pressão interna e externa](https://www.nexojornal.com.br/podcast/2022/03/17/O-discurso-de-Putin-diante-da-press%C3%A3o-interna-e-externa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
