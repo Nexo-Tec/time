@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Claude Troisgros](https://gamarevista.uol.com.br/pessoas/questionario-proust/claude-troisgros/)
 - [Minhas botas de artista](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/minhas-botas-de-artista/)
 - [Feminismo no Brasil](https://gamarevista.uol.com.br/cultura/trecho-de-livro/feminismo-no-brasil/)
 - [Indicado ao Oscar, japonês ‘Drive My Car’ estreia nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/indicado-ao-oscar-japones-drive-my-car-estreia-nos-cinemas/)
 - [186 obras de Marc Chagall no CCBB do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/186-obras-de-marc-chagall-no-ccbb-do-rio/)
-- [Uma newsletter que é um Prato Feito brasileiro](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-newsletter-que-e-um-prato-feito-brasileiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
