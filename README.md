@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TV Record é condenada a pagar R$ 1 milhão por incitar violência](https://www.nexojornal.com.br/extra/2022/03/18/TV-Record-%C3%A9-condenada-a-pagar-R-1-milh%C3%A3o-por-incitar-viol%C3%AAncia)
-- [‘Somos iguais’, diz Bolsonaro ao receber honraria indigenista](https://www.nexojornal.com.br/extra/2022/03/18/%E2%80%98Somos-iguais%E2%80%99-diz-Bolsonaro-ao-receber-honraria-indigenista)
-- [A história de Lviv e o papel da cidade na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/03/18/A-hist%C3%B3ria-de-Lviv-e-o-papel-da-cidade-na-guerra-na-Ucr%C3%A2nia)
-- [Putin discursa em estádio cheio: ‘Nunca tivemos tanta força’](https://www.nexojornal.com.br/extra/2022/03/18/Putin-discursa-em-est%C3%A1dio-cheio-%E2%80%98Nunca-tivemos-tanta-for%C3%A7a%E2%80%99)
-- [Alckmin anuncia filiação ao PSB para ser vice de Lula](https://www.nexojornal.com.br/extra/2022/03/18/Alckmin-anuncia-filia%C3%A7%C3%A3o-ao-PSB-para-ser-vice-de-Lula)
+- [Brasileiros se preocupam com mudança do clima, aponta pesquisa](https://www.nexojornal.com.br/externo/2022/03/18/Brasileiros-se-preocupam-com-mudan%C3%A7a-do-clima-aponta-pesquisa)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [O papel da agricultura familiar na recuperação verde](https://www.nexojornal.com.br/expresso/2022/03/18/O-papel-da-agricultura-familiar-na-recupera%C3%A7%C3%A3o-verde)
+- [Criando ambiência para inovar no setor público](https://www.nexojornal.com.br/ensaio/debate/2022/Criando-ambi%C3%AAncia-para-inovar-no-setor-p%C3%BAblico)
+- [Como encarar as incertezas após a liberação das máscaras](https://www.nexojornal.com.br/expresso/2022/03/18/Como-encarar-as-incertezas-ap%C3%B3s-a-libera%C3%A7%C3%A3o-das-m%C3%A1scaras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
