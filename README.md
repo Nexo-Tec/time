@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Paraguai rebate Guedes após ser chamado de ‘estado brasileiro’](https://www.nexojornal.com.br/extra/2022/03/19/Paraguai-rebate-Guedes-ap%C3%B3s-ser-chamado-de-%E2%80%98estado-brasileiro%E2%80%99)
-- [ONU confirma 847 mortes de civis na guerra na Ucrânia](https://www.nexojornal.com.br/extra/2022/03/19/ONU-confirma-847-mortes-de-civis-na-guerra-na-Ucr%C3%A2nia)
-- [Para reverter bloqueio, Moraes dá 24h para Telegram agir](https://www.nexojornal.com.br/extra/2022/03/19/Para-reverter-bloqueio-Moraes-d%C3%A1-24h-para-Telegram-agir)
-- [Avibras pede recuperação judicial e demite 420 funcionários](https://www.nexojornal.com.br/extra/2022/03/19/Avibras-pede-recupera%C3%A7%C3%A3o-judicial-e-demite-420-funcion%C3%A1rios)
-- [LinkedIn remove vaga prioritária a pessoas negras e indígenas](https://www.nexojornal.com.br/extra/2022/03/19/LinkedIn-remove-vaga-priorit%C3%A1ria-a-pessoas-negras-e-ind%C3%ADgenas)
+- [Moraes revoga ordem de bloqueio do aplicativo Telegram](https://www.nexojornal.com.br/extra/2022/03/20/Moraes-revoga-ordem-de-bloqueio-do-aplicativo-Telegram)
+- [Ucrânia suspende 11 partidos apontados como pró-Rússia](https://www.nexojornal.com.br/extra/2022/03/20/Ucr%C3%A2nia-suspende-11-partidos-apontados-como-pr%C3%B3-R%C3%BAssia)
+- [Alain Delon explica por que quer fazer um suicídio assistido](https://www.nexojornal.com.br/extra/2022/03/20/Alain-Delon-explica-por-que-quer-fazer-um-suic%C3%ADdio-assistido)
+- [Escola que abrigava 400 é bombardeada em Mariupol](https://www.nexojornal.com.br/extra/2022/03/20/Escola-que-abrigava-400-%C3%A9-bombardeada-em-Mariupol)
+- [As empresas que criam deepfakes de entes queridos mortos](https://www.nexojornal.com.br/expresso/2022/03/20/As-empresas-que-criam-deepfakes-de-entes-queridos-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
