@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A preocupação feminista com o novo presidente sul-coreano](https://www.nexojornal.com.br/expresso/2022/03/21/A-preocupa%C3%A7%C3%A3o-feminista-com-o-novo-presidente-sul-coreano)
-- [Ferrogrão: as finanças fora dos trilhos da sustentabilidade](https://www.nexojornal.com.br/ensaio/2022/Ferrogr%C3%A3o-as-finan%C3%A7as-fora-dos-trilhos-da-sustentabilidade)
-- [Pacheco chama de ‘oportunistas’ críticas de Lula ao Congresso](https://www.nexojornal.com.br/extra/2022/03/21/Pacheco-chama-de-%E2%80%98oportunistas%E2%80%99-cr%C3%ADticas-de-Lula-ao-Congresso)
-- [‘O direito à manifestação na Rússia só existe no papel’](https://www.nexojornal.com.br/expresso/2022/03/21/%E2%80%98O-direito-%C3%A0-manifesta%C3%A7%C3%A3o-na-R%C3%BAssia-s%C3%B3-existe-no-papel%E2%80%99)
-- [Delações premiadas e eleições: novas regras e novo clima em 2022](https://www.nexojornal.com.br/expresso/2022/03/21/Dela%C3%A7%C3%B5es-premiadas-e-elei%C3%A7%C3%B5es-novas-regras-e-novo-clima-em-2022)
+- [Moraes revoga ordem de bloqueio do aplicativo Telegram](https://www.nexojornal.com.br/extra/2022/03/20/Moraes-revoga-ordem-de-bloqueio-do-aplicativo-Telegram)
+- [Ucrânia suspende 11 partidos apontados como pró-Rússia](https://www.nexojornal.com.br/extra/2022/03/20/Ucr%C3%A2nia-suspende-11-partidos-apontados-como-pr%C3%B3-R%C3%BAssia)
+- [Alain Delon explica por que quer fazer um suicídio assistido](https://www.nexojornal.com.br/extra/2022/03/20/Alain-Delon-explica-por-que-quer-fazer-um-suic%C3%ADdio-assistido)
+- [Escola que abrigava 400 é bombardeada em Mariupol](https://www.nexojornal.com.br/extra/2022/03/20/Escola-que-abrigava-400-%C3%A9-bombardeada-em-Mariupol)
+- [As empresas que criam deepfakes de entes queridos mortos](https://www.nexojornal.com.br/expresso/2022/03/20/As-empresas-que-criam-deepfakes-de-entes-queridos-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
