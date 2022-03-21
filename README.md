@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Avião com 132 pessoas cai em região montanhosa na China](https://www.nexojornal.com.br/extra/2022/03/21/Avi%C3%A3o-com-132-pessoas-cai-em-regi%C3%A3o-montanhosa-na-China)
 - [A preocupação feminista com o novo presidente sul-coreano](https://www.nexojornal.com.br/expresso/2022/03/21/A-preocupa%C3%A7%C3%A3o-feminista-com-o-novo-presidente-sul-coreano)
 - [Ferrogrão: as finanças fora dos trilhos da sustentabilidade](https://www.nexojornal.com.br/ensaio/2022/Ferrogr%C3%A3o-as-finan%C3%A7as-fora-dos-trilhos-da-sustentabilidade)
 - [Pacheco chama de ‘oportunistas’ críticas de Lula ao Congresso](https://www.nexojornal.com.br/extra/2022/03/21/Pacheco-chama-de-%E2%80%98oportunistas%E2%80%99-cr%C3%ADticas-de-Lula-ao-Congresso)
 - [‘O direito à manifestação na Rússia só existe no papel’](https://www.nexojornal.com.br/expresso/2022/03/21/%E2%80%98O-direito-%C3%A0-manifesta%C3%A7%C3%A3o-na-R%C3%BAssia-s%C3%B3-existe-no-papel%E2%80%99)
-- [Delações premiadas e eleições: novas regras e novo clima em 2022](https://www.nexojornal.com.br/expresso/2022/03/21/Dela%C3%A7%C3%B5es-premiadas-e-elei%C3%A7%C3%B5es-novas-regras-e-novo-clima-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
