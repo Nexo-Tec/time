@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@marimerenda](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marimerenda/)
 - [Burnout: “Você não pode dar conta de tudo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/rodrigo-bressan-sobre-burnout-voce-nao-pode-dar-conta-de-tudo/)
 - [Claude Troisgros](https://gamarevista.uol.com.br/pessoas/questionario-proust/claude-troisgros/)
 - [Minhas botas de artista](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/minhas-botas-de-artista/)
 - [Feminismo no Brasil](https://gamarevista.uol.com.br/cultura/trecho-de-livro/feminismo-no-brasil/)
-- [Indicado ao Oscar, japonês ‘Drive My Car’ estreia nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/indicado-ao-oscar-japones-drive-my-car-estreia-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
