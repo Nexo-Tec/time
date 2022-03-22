@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes revoga ordem de bloqueio do aplicativo Telegram](https://www.nexojornal.com.br/extra/2022/03/20/Moraes-revoga-ordem-de-bloqueio-do-aplicativo-Telegram)
-- [Ucrânia suspende 11 partidos apontados como pró-Rússia](https://www.nexojornal.com.br/extra/2022/03/20/Ucr%C3%A2nia-suspende-11-partidos-apontados-como-pr%C3%B3-R%C3%BAssia)
-- [Alain Delon explica por que quer fazer um suicídio assistido](https://www.nexojornal.com.br/extra/2022/03/20/Alain-Delon-explica-por-que-quer-fazer-um-suic%C3%ADdio-assistido)
-- [Escola que abrigava 400 é bombardeada em Mariupol](https://www.nexojornal.com.br/extra/2022/03/20/Escola-que-abrigava-400-%C3%A9-bombardeada-em-Mariupol)
-- [As empresas que criam deepfakes de entes queridos mortos](https://www.nexojornal.com.br/expresso/2022/03/20/As-empresas-que-criam-deepfakes-de-entes-queridos-mortos)
+- [Comissão do TSE presidida por Moraes passa a combater fake news](https://www.nexojornal.com.br/extra/2022/03/21/Comiss%C3%A3o-do-TSE-presidida-por-Moraes-passa-a-combater-fake-news)
+- [A terra é nossa! O som que vem das vozes negras de Sharpeville](https://www.nexojornal.com.br/colunistas/2022/A-terra-%C3%A9-nossa-O-som-que-vem-das-vozes-negras-de-Sharpeville)
+- [Zettelkasten: um sistema para a organização de ideias](https://www.nexojornal.com.br/expresso/2022/03/21/Zettelkasten-um-sistema-para-a-organiza%C3%A7%C3%A3o-de-ideias)
+- [Dólar fecha a R$ 4,94, menor valor desde o fim de junho de 2021](https://www.nexojornal.com.br/extra/2022/03/21/D%C3%B3lar-fecha-a-R-494-menor-valor-desde-o-fim-de-junho-de-2021)
+- [Braga Netto como vice? O ‘seguro’ de Bolsonaro na busca da reeleição](https://www.nexojornal.com.br/podcast/2022/03/21/Braga-Netto-como-vice-O-%E2%80%98seguro%E2%80%99-de-Bolsonaro-na-busca-da-reelei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
