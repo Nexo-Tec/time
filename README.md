@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as cidades tentam se adaptar à mudança climática](https://www.nexojornal.com.br/expresso/2022/03/21/Como-as-cidades-tentam-se-adaptar-%C3%A0-mudan%C3%A7a-clim%C3%A1tica)
-- [Como a guerra mexe com o futuro energético da Europa](https://www.nexojornal.com.br/expresso/2022/03/21/Como-a-guerra-mexe-com-o-futuro-energ%C3%A9tico-da-Europa)
-- [Comissão do TSE presidida por Moraes passa a combater fake news](https://www.nexojornal.com.br/extra/2022/03/21/Comiss%C3%A3o-do-TSE-presidida-por-Moraes-passa-a-combater-fake-news)
-- [A terra é nossa! O som que vem das vozes negras de Sharpeville](https://www.nexojornal.com.br/colunistas/2022/A-terra-%C3%A9-nossa-O-som-que-vem-das-vozes-negras-de-Sharpeville)
-- [Zettelkasten: um sistema para a organização de ideias](https://www.nexojornal.com.br/expresso/2022/03/21/Zettelkasten-um-sistema-para-a-organiza%C3%A7%C3%A3o-de-ideias)
+- [Ataques contra jornalistas no Brasil crescem 22% em 2021](https://www.nexojornal.com.br/extra/2022/03/22/Ataques-contra-jornalistas-no-Brasil-crescem-22-em-2021)
+- [Como a guerra na Ucrânia impacta a África](https://www.nexojornal.com.br/expresso/2022/03/22/Como-a-guerra-na-Ucr%C3%A2nia-impacta-a-%C3%81frica)
+- [YouTube vai excluir vídeos com fake news sobre eleições de 2018](https://www.nexojornal.com.br/extra/2022/03/22/YouTube-vai-excluir-v%C3%ADdeos-com-fake-news-sobre-elei%C3%A7%C3%B5es-de-2018)
+- [Quais eram os principais parceiros comerciais da Rússia em 2020](https://www.nexojornal.com.br/grafico/2022/03/22/Quais-eram-os-principais-parceiros-comerciais-da-R%C3%BAssia-em-2020)
+- [Governo zera tarifa de importação de etanol e seis alimentos](https://www.nexojornal.com.br/extra/2022/03/22/Governo-zera-tarifa-de-importa%C3%A7%C3%A3o-de-etanol-e-seis-alimentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
