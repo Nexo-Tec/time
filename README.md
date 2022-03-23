@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o conselho da Petrobras. E como Bolsonaro pode usá-lo](https://www.nexojornal.com.br/expresso/2022/03/22/O-que-%C3%A9-o-conselho-da-Petrobras.-E-como-Bolsonaro-pode-us%C3%A1-lo)
-- [Rússia diz que só usa arma nuclear em caso de ‘ameaça existencial’](https://www.nexojornal.com.br/extra/2022/03/22/R%C3%BAssia-diz-que-s%C3%B3-usa-arma-nuclear-em-caso-de-%E2%80%98amea%C3%A7a-existencial%E2%80%99)
-- [As reações ao lobby de pastores no Ministério da Educação](https://www.nexojornal.com.br/podcast/2022/03/22/As-rea%C3%A7%C3%B5es-ao-lobby-de-pastores-no-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
-- [O eficaz sistema de achados e perdidos de Tóquio](https://www.nexojornal.com.br/expresso/2022/03/22/O-eficaz-sistema-de-achados-e-perdidos-de-T%C3%B3quio)
-- [Ministério Público vê improbidade de Bolsonaro por Wal do Açaí](https://www.nexojornal.com.br/extra/2022/03/22/Minist%C3%A9rio-P%C3%BAblico-v%C3%AA-improbidade-de-Bolsonaro-por-Wal-do-A%C3%A7a%C3%AD)
+- [Ataques contra jornalistas no Brasil crescem 22% em 2021](https://www.nexojornal.com.br/extra/2022/03/22/Ataques-contra-jornalistas-no-Brasil-crescem-22-em-2021)
+- [Como a guerra na Ucrânia impacta a África](https://www.nexojornal.com.br/expresso/2022/03/22/Como-a-guerra-na-Ucr%C3%A2nia-impacta-a-%C3%81frica)
+- [YouTube vai excluir vídeos com fake news sobre eleições de 2018](https://www.nexojornal.com.br/extra/2022/03/22/YouTube-vai-excluir-v%C3%ADdeos-com-fake-news-sobre-elei%C3%A7%C3%B5es-de-2018)
+- [Quais eram os principais parceiros comerciais da Rússia em 2020](https://www.nexojornal.com.br/grafico/2022/03/22/Quais-eram-os-principais-parceiros-comerciais-da-R%C3%BAssia-em-2020)
+- [Governo zera tarifa de importação de etanol e seis alimentos](https://www.nexojornal.com.br/extra/2022/03/22/Governo-zera-tarifa-de-importa%C3%A7%C3%A3o-de-etanol-e-seis-alimentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
