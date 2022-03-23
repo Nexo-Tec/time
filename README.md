@@ -124,7 +124,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Os trilhos do mundo e os nossos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/os-trilhos-do-mundo-e-os-nossos/)
+- [‘As estruturas sociais racistas que Lima Barreto denunciou ainda estão aqui’](https://gamarevista.uol.com.br/formato/conversas/centenario-morte-lima-barreto/)
 - [Ray-Ban Aviator](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ray-ban-aviator/)
 - [Quebrada à francesa](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/quebrada-a-francesa/)
 - [@marimerenda](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marimerenda/)
