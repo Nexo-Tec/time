@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o conselho da Petrobras. E como Bolsonaro pode usá-lo](https://www.nexojornal.com.br/expresso/2022/03/22/O-que-%C3%A9-o-conselho-da-Petrobras.-E-como-Bolsonaro-pode-us%C3%A1-lo)
-- [Rússia diz que só usa arma nuclear em caso de ‘ameaça existencial’](https://www.nexojornal.com.br/extra/2022/03/22/R%C3%BAssia-diz-que-s%C3%B3-usa-arma-nuclear-em-caso-de-%E2%80%98amea%C3%A7a-existencial%E2%80%99)
-- [As reações ao lobby de pastores no Ministério da Educação](https://www.nexojornal.com.br/podcast/2022/03/22/As-rea%C3%A7%C3%B5es-ao-lobby-de-pastores-no-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
-- [O eficaz sistema de achados e perdidos de Tóquio](https://www.nexojornal.com.br/expresso/2022/03/22/O-eficaz-sistema-de-achados-e-perdidos-de-T%C3%B3quio)
-- [Ministério Público vê improbidade de Bolsonaro por Wal do Açaí](https://www.nexojornal.com.br/extra/2022/03/22/Minist%C3%A9rio-P%C3%BAblico-v%C3%AA-improbidade-de-Bolsonaro-por-Wal-do-A%C3%A7a%C3%AD)
+- [Conselheiro de Putin entrega cargo por discordar de guerra](https://www.nexojornal.com.br/extra/2022/03/23/Conselheiro-de-Putin-entrega-cargo-por-discordar-de-guerra)
+- [Após gesto associado ao nazismo, comentarista volta à Jovem Pan](https://www.nexojornal.com.br/extra/2022/03/23/Ap%C3%B3s-gesto-associado-ao-nazismo-comentarista-volta-%C3%A0-Jovem-Pan)
+- [O que é o Rumble, plataforma que une Greenwald e Monark](https://www.nexojornal.com.br/expresso/2022/03/23/O-que-%C3%A9-o-Rumble-plataforma-que-une-Greenwald-e-Monark)
+- [Alckmin oficializa filiação ao PSB e faz elogios a Lula](https://www.nexojornal.com.br/extra/2022/03/23/Alckmin-oficializa-filia%C3%A7%C3%A3o-ao-PSB-e-faz-elogios-a-Lula)
+- [Bolsas da Capes e CNPq completam 9 anos sem reajuste](https://www.nexojornal.com.br/grafico/2022/03/23/Bolsas-da-Capes-e-CNPq-completam-9-anos-sem-reajuste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
