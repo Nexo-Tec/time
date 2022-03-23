@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Os trilhos do mundo e os nossos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/os-trilhos-do-mundo-e-os-nossos/)
 - [Ray-Ban Aviator](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ray-ban-aviator/)
 - [Quebrada à francesa](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/quebrada-a-francesa/)
 - [@marimerenda](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marimerenda/)
 - [Burnout: “Você não pode dar conta de tudo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/rodrigo-bressan-sobre-burnout-voce-nao-pode-dar-conta-de-tudo/)
-- [Claude Troisgros](https://gamarevista.uol.com.br/pessoas/questionario-proust/claude-troisgros/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
