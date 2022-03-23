@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as cidades tentam se adaptar à mudança climática](https://www.nexojornal.com.br/expresso/2022/03/21/Como-as-cidades-tentam-se-adaptar-%C3%A0-mudan%C3%A7a-clim%C3%A1tica)
-- [Como a guerra mexe com o futuro energético da Europa](https://www.nexojornal.com.br/expresso/2022/03/21/Como-a-guerra-mexe-com-o-futuro-energ%C3%A9tico-da-Europa)
-- [Comissão do TSE presidida por Moraes passa a combater fake news](https://www.nexojornal.com.br/extra/2022/03/21/Comiss%C3%A3o-do-TSE-presidida-por-Moraes-passa-a-combater-fake-news)
-- [A terra é nossa! O som que vem das vozes negras de Sharpeville](https://www.nexojornal.com.br/colunistas/2022/A-terra-%C3%A9-nossa-O-som-que-vem-das-vozes-negras-de-Sharpeville)
-- [Zettelkasten: um sistema para a organização de ideias](https://www.nexojornal.com.br/expresso/2022/03/21/Zettelkasten-um-sistema-para-a-organiza%C3%A7%C3%A3o-de-ideias)
+- [O eficaz sistema de achados e perdidos de Tóquio](https://www.nexojornal.com.br/expresso/2022/03/22/O-eficaz-sistema-de-achados-e-perdidos-de-T%C3%B3quio)
+- [Ministério Público vê improbidade de Bolsonaro por Wal do Açaí](https://www.nexojornal.com.br/extra/2022/03/22/Minist%C3%A9rio-P%C3%BAblico-v%C3%AA-improbidade-de-Bolsonaro-por-Wal-do-A%C3%A7a%C3%AD)
+- [STJ manda Dallagnol indenizar Lula por powerpoint da Lava Jato](https://www.nexojornal.com.br/extra/2022/03/22/STJ-manda-Dallagnol-indenizar-Lula-por-powerpoint-da-Lava-Jato)
+- [São Paulo tem menor média de internações por covid desde 2020](https://www.nexojornal.com.br/extra/2022/03/22/S%C3%A3o-Paulo-tem-menor-m%C3%A9dia-de-interna%C3%A7%C3%B5es-por-covid-desde-2020)
+- [Quais são os filmes favoritos ao Oscar 2022](https://www.nexojornal.com.br/expresso/2022/03/22/Quais-s%C3%A3o-os-filmes-favoritos-ao-Oscar-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
