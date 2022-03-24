@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o governo Bolsonaro expõe uma gestão paralela do Brasil](https://www.nexojornal.com.br/expresso/2022/03/23/Como-o-governo-Bolsonaro-exp%C3%B5e-uma-gest%C3%A3o-paralela-do-Brasil)
-- [O papel das plataformas digitais no combate à depressão](https://www.nexojornal.com.br/academico/2022/03/23/O-papel-das-plataformas-digitais-no-combate-%C3%A0-depress%C3%A3o)
-- [Supremo: polícia pode tirar de casa agressores de mulheres](https://www.nexojornal.com.br/extra/2022/03/23/Supremo-pol%C3%ADcia-pode-tirar-de-casa-agressores-de-mulheres)
-- [Por que a Turquia se coloca como mediadora na guerra](https://www.nexojornal.com.br/expresso/2022/03/23/Por-que-a-Turquia-se-coloca-como-mediadora-na-guerra)
-- [Cafeína: é a dose que faz uma molécula se tornar uma toxina](https://www.nexojornal.com.br/colunistas/2022/Cafe%C3%ADna-%C3%A9-a-dose-que-faz-uma-mol%C3%A9cula-se-tornar-uma-toxina)
+- [Conselheiro de Putin entrega cargo por discordar de guerra](https://www.nexojornal.com.br/extra/2022/03/23/Conselheiro-de-Putin-entrega-cargo-por-discordar-de-guerra)
+- [Após gesto associado ao nazismo, comentarista volta à Jovem Pan](https://www.nexojornal.com.br/extra/2022/03/23/Ap%C3%B3s-gesto-associado-ao-nazismo-comentarista-volta-%C3%A0-Jovem-Pan)
+- [O que é o Rumble, plataforma que une Greenwald e Monark](https://www.nexojornal.com.br/expresso/2022/03/23/O-que-%C3%A9-o-Rumble-plataforma-que-une-Greenwald-e-Monark)
+- [Alckmin oficializa filiação ao PSB e faz elogios a Lula](https://www.nexojornal.com.br/extra/2022/03/23/Alckmin-oficializa-filia%C3%A7%C3%A3o-ao-PSB-e-faz-elogios-a-Lula)
+- [Bolsas da Capes e CNPq completam 9 anos sem reajuste](https://www.nexojornal.com.br/grafico/2022/03/23/Bolsas-da-Capes-e-CNPq-completam-9-anos-sem-reajuste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
