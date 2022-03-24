@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o conselho da Petrobras. E como Bolsonaro pode usá-lo](https://www.nexojornal.com.br/expresso/2022/03/22/O-que-%C3%A9-o-conselho-da-Petrobras.-E-como-Bolsonaro-pode-us%C3%A1-lo)
-- [Rússia diz que só usa arma nuclear em caso de ‘ameaça existencial’](https://www.nexojornal.com.br/extra/2022/03/22/R%C3%BAssia-diz-que-s%C3%B3-usa-arma-nuclear-em-caso-de-%E2%80%98amea%C3%A7a-existencial%E2%80%99)
-- [As reações ao lobby de pastores no Ministério da Educação](https://www.nexojornal.com.br/podcast/2022/03/22/As-rea%C3%A7%C3%B5es-ao-lobby-de-pastores-no-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
-- [O eficaz sistema de achados e perdidos de Tóquio](https://www.nexojornal.com.br/expresso/2022/03/22/O-eficaz-sistema-de-achados-e-perdidos-de-T%C3%B3quio)
-- [Ministério Público vê improbidade de Bolsonaro por Wal do Açaí](https://www.nexojornal.com.br/extra/2022/03/22/Minist%C3%A9rio-P%C3%BAblico-v%C3%AA-improbidade-de-Bolsonaro-por-Wal-do-A%C3%A7a%C3%AD)
+- [Como o governo Bolsonaro expõe uma gestão paralela do Brasil](https://www.nexojornal.com.br/expresso/2022/03/23/Como-o-governo-Bolsonaro-exp%C3%B5e-uma-gest%C3%A3o-paralela-do-Brasil)
+- [O papel das plataformas digitais no combate à depressão](https://www.nexojornal.com.br/academico/2022/03/23/O-papel-das-plataformas-digitais-no-combate-%C3%A0-depress%C3%A3o)
+- [Supremo: polícia pode tirar de casa agressores de mulheres](https://www.nexojornal.com.br/extra/2022/03/23/Supremo-pol%C3%ADcia-pode-tirar-de-casa-agressores-de-mulheres)
+- [Por que a Turquia se coloca como mediadora na guerra](https://www.nexojornal.com.br/expresso/2022/03/23/Por-que-a-Turquia-se-coloca-como-mediadora-na-guerra)
+- [Cafeína: é a dose que faz uma molécula se tornar uma toxina](https://www.nexojornal.com.br/colunistas/2022/Cafe%C3%ADna-%C3%A9-a-dose-que-faz-uma-mol%C3%A9cula-se-tornar-uma-toxina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
