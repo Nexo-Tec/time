@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mais de 60 obras de Adriana Varejão na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/mais-de-60-obras-de-adriana-varejao-na-pinacoteca/)
+- [O terceiro ano de ‘Atlanta’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-terceiro-ano-de-atlanta/)
+- [Espetáculos de dança de Lia Rodrigues em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/espetaculos-de-danca-de-lia-rodrigues-em-sp/)
+- [A tecnologia que ‘revive’ entes queridos](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-tecnologia-que-revive-entes-queridos/)
 - [CV: Clarice Assad](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-clarice-assad/)
-- [‘As estruturas sociais racistas que Lima Barreto denunciou ainda estão aqui’](https://gamarevista.uol.com.br/formato/conversas/centenario-morte-lima-barreto/)
-- [Os trilhos do mundo e os nossos](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/os-trilhos-do-mundo-e-os-nossos/)
-- [Ray-Ban Aviator](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/ray-ban-aviator/)
-- [Quebrada à francesa](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/quebrada-a-francesa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
