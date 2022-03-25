@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Nossa subordinação política](https://gamarevista.uol.com.br/colunistas/bianca-santana/nossa-subordinacao-politica/)
 - [Racionalidade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/racionalidade/)
 - [Nova temporada do podcast ‘Mano a Mano’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-mano-a-mano/)
 - [Mais de 60 obras de Adriana Varejão na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/mais-de-60-obras-de-adriana-varejao-na-pinacoteca/)
 - [O terceiro ano de ‘Atlanta’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-terceiro-ano-de-atlanta/)
-- [Espetáculos de dança de Lia Rodrigues em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/espetaculos-de-danca-de-lia-rodrigues-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
