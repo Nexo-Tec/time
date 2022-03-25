@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Racionalidade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/racionalidade/)
 - [Nova temporada do podcast ‘Mano a Mano’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-mano-a-mano/)
 - [Mais de 60 obras de Adriana Varejão na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/mais-de-60-obras-de-adriana-varejao-na-pinacoteca/)
 - [O terceiro ano de ‘Atlanta’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-terceiro-ano-de-atlanta/)
 - [Espetáculos de dança de Lia Rodrigues em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/espetaculos-de-danca-de-lia-rodrigues-em-sp/)
-- [A tecnologia que ‘revive’ entes queridos](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-tecnologia-que-revive-entes-queridos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
