@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o governo Bolsonaro expõe uma gestão paralela do Brasil](https://www.nexojornal.com.br/expresso/2022/03/23/Como-o-governo-Bolsonaro-exp%C3%B5e-uma-gest%C3%A3o-paralela-do-Brasil)
-- [O papel das plataformas digitais no combate à depressão](https://www.nexojornal.com.br/academico/2022/03/23/O-papel-das-plataformas-digitais-no-combate-%C3%A0-depress%C3%A3o)
-- [Supremo: polícia pode tirar de casa agressores de mulheres](https://www.nexojornal.com.br/extra/2022/03/23/Supremo-pol%C3%ADcia-pode-tirar-de-casa-agressores-de-mulheres)
-- [Por que a Turquia se coloca como mediadora na guerra](https://www.nexojornal.com.br/expresso/2022/03/23/Por-que-a-Turquia-se-coloca-como-mediadora-na-guerra)
-- [Cafeína: é a dose que faz uma molécula se tornar uma toxina](https://www.nexojornal.com.br/colunistas/2022/Cafe%C3%ADna-%C3%A9-a-dose-que-faz-uma-mol%C3%A9cula-se-tornar-uma-toxina)
+- [O quadro da eleição a pouco mais de 6 meses da votação](https://www.nexojornal.com.br/expresso/2022/03/24/O-quadro-da-elei%C3%A7%C3%A3o-a-pouco-mais-de-6-meses-da-vota%C3%A7%C3%A3o)
+- [Vídeos com ataques às urnas somam 67 milhões de visualizações](https://www.nexojornal.com.br/extra/2022/03/24/V%C3%ADdeos-com-ataques-%C3%A0s-urnas-somam-67-milh%C3%B5es-de-visualiza%C3%A7%C3%B5es)
+- [Dólar abaixo de R$ 5: o que isso diz sobre o momento do Brasil](https://www.nexojornal.com.br/expresso/2022/03/24/D%C3%B3lar-abaixo-de-R-5-o-que-isso-diz-sobre-o-momento-do-Brasil)
+- [Galvão Bueno vai se aposentar das narrações após a Copa](https://www.nexojornal.com.br/extra/2022/03/24/Galv%C3%A3o-Bueno-vai-se-aposentar-das-narra%C3%A7%C3%B5es-ap%C3%B3s-a-Copa)
+- [Finanças públicas e a inflação de regras constitucionais](https://www.nexojornal.com.br/colunistas/2022/Finan%C3%A7as-p%C3%BAblicas-e-a-infla%C3%A7%C3%A3o-de-regras-constitucionais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
