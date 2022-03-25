@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O quadro da eleição a pouco mais de 6 meses da votação](https://www.nexojornal.com.br/expresso/2022/03/24/O-quadro-da-elei%C3%A7%C3%A3o-a-pouco-mais-de-6-meses-da-vota%C3%A7%C3%A3o)
-- [Vídeos com ataques às urnas somam 67 milhões de visualizações](https://www.nexojornal.com.br/extra/2022/03/24/V%C3%ADdeos-com-ataques-%C3%A0s-urnas-somam-67-milh%C3%B5es-de-visualiza%C3%A7%C3%B5es)
-- [Dólar abaixo de R$ 5: o que isso diz sobre o momento do Brasil](https://www.nexojornal.com.br/expresso/2022/03/24/D%C3%B3lar-abaixo-de-R-5-o-que-isso-diz-sobre-o-momento-do-Brasil)
 - [Galvão Bueno vai se aposentar das narrações após a Copa](https://www.nexojornal.com.br/extra/2022/03/24/Galv%C3%A3o-Bueno-vai-se-aposentar-das-narra%C3%A7%C3%B5es-ap%C3%B3s-a-Copa)
 - [Finanças públicas e a inflação de regras constitucionais](https://www.nexojornal.com.br/colunistas/2022/Finan%C3%A7as-p%C3%BAblicas-e-a-infla%C3%A7%C3%A3o-de-regras-constitucionais)
+- [Netflix vai disputar o Oscar de 2022 em 17 categorias](https://www.nexojornal.com.br/grafico/2022/03/24/Netflix-vai-disputar-o-Oscar-de-2022-em-17-categorias)
+- [Powerpoint: a desforra de Lula e a indignação de Dallagnol](https://www.nexojornal.com.br/podcast/2022/03/24/Powerpoint-a-desforra-de-Lula-e-a-indigna%C3%A7%C3%A3o-de-Dallagnol)
+- [Comissão do Senado troca convocação de Milton Ribeiro por convite](https://www.nexojornal.com.br/extra/2022/03/24/Comiss%C3%A3o-do-Senado-troca-convoca%C3%A7%C3%A3o-de-Milton-Ribeiro-por-convite)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
