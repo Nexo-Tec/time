@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Galvão Bueno vai se aposentar das narrações após a Copa](https://www.nexojornal.com.br/extra/2022/03/24/Galv%C3%A3o-Bueno-vai-se-aposentar-das-narra%C3%A7%C3%B5es-ap%C3%B3s-a-Copa)
-- [Finanças públicas e a inflação de regras constitucionais](https://www.nexojornal.com.br/colunistas/2022/Finan%C3%A7as-p%C3%BAblicas-e-a-infla%C3%A7%C3%A3o-de-regras-constitucionais)
-- [Netflix vai disputar o Oscar de 2022 em 17 categorias](https://www.nexojornal.com.br/grafico/2022/03/24/Netflix-vai-disputar-o-Oscar-de-2022-em-17-categorias)
-- [Powerpoint: a desforra de Lula e a indignação de Dallagnol](https://www.nexojornal.com.br/podcast/2022/03/24/Powerpoint-a-desforra-de-Lula-e-a-indigna%C3%A7%C3%A3o-de-Dallagnol)
-- [Comissão do Senado troca convocação de Milton Ribeiro por convite](https://www.nexojornal.com.br/extra/2022/03/24/Comiss%C3%A3o-do-Senado-troca-convoca%C3%A7%C3%A3o-de-Milton-Ribeiro-por-convite)
+- [Como o governo Bolsonaro expõe uma gestão paralela do Brasil](https://www.nexojornal.com.br/expresso/2022/03/23/Como-o-governo-Bolsonaro-exp%C3%B5e-uma-gest%C3%A3o-paralela-do-Brasil)
+- [O papel das plataformas digitais no combate à depressão](https://www.nexojornal.com.br/academico/2022/03/23/O-papel-das-plataformas-digitais-no-combate-%C3%A0-depress%C3%A3o)
+- [Supremo: polícia pode tirar de casa agressores de mulheres](https://www.nexojornal.com.br/extra/2022/03/23/Supremo-pol%C3%ADcia-pode-tirar-de-casa-agressores-de-mulheres)
+- [Por que a Turquia se coloca como mediadora na guerra](https://www.nexojornal.com.br/expresso/2022/03/23/Por-que-a-Turquia-se-coloca-como-mediadora-na-guerra)
+- [Cafeína: é a dose que faz uma molécula se tornar uma toxina](https://www.nexojornal.com.br/colunistas/2022/Cafe%C3%ADna-%C3%A9-a-dose-que-faz-uma-mol%C3%A9cula-se-tornar-uma-toxina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
