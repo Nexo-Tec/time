@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Inês Rugani: achados do Estudo Nacional de Alimentação e Nutrição Infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/03/25/In%C3%AAs-Rugani-achados-do-Estudo-Nacional-de-Alimenta%C3%A7%C3%A3o-e-Nutri%C3%A7%C3%A3o-Infantil)
+- [O que a carreira de comissária de bordo mostra sobre a individualização feminina](https://pp.nexojornal.com.br/academico/2022/O-que-a-carreira-de-comiss%C3%A1ria-de-bordo-mostra-sobre-a-individualiza%C3%A7%C3%A3o-feminina)
+- [Ações Afirmativas no Brasil não são uma importação dos Estados Unidos](https://pp.nexojornal.com.br/opiniao/2022/A%C3%A7%C3%B5es-Afirmativas-no-Brasil-n%C3%A3o-s%C3%A3o-uma-importa%C3%A7%C3%A3o-dos-Estados-Unidos)
 - [Estado Brasileiro](https://pp.nexojornal.com.br/glossario/Estado-Brasileiro)
 - [A Lei de Cotas democratizou os cursos de maior prestígio? O caso da UFBA](https://pp.nexojornal.com.br/opiniao/2022/A-Lei-de-Cotas-democratizou-os-cursos-de-maior-prest%C3%ADgio-O-caso-da-UFBA)
-- [Políticas nacionais de garantia à eletricidade no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADticas-nacionais-de-garantia-%C3%A0-eletricidade-no-Brasil)
-- [Como a inteligência artificial pode ajudar a identificar o risco de óbito de recém-nascidos](https://pp.nexojornal.com.br/academico/2022/Como-a-intelig%C3%AAncia-artificial-pode-ajudar-a-identificar-o-risco-de-%C3%B3bito-de-rec%C3%A9m-nascidos)
-- [Experiências com ações afirmativas: o caso da Unicamp](https://pp.nexojornal.com.br/opiniao/2022/Experi%C3%AAncias-com-a%C3%A7%C3%B5es-afirmativas-o-caso-da-Unicamp)
 <!-- PP_LIST:END -->
 
