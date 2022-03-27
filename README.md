@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE acolhe pedido do PL e veta atos políticos no Lollapalooza](https://www.nexojornal.com.br/extra/2022/03/27/TSE-acolhe-pedido-do-PL-e-veta-atos-pol%C3%ADticos-no-Lollapalooza)
 - [De que país vem este prato? Adivinhe neste jogo](https://www.nexojornal.com.br/expresso/2022/03/26/De-que-pa%C3%ADs-vem-este-prato-Adivinhe-neste-jogo)
 - [O acervo digital de manuscritos medievais da Biblioteca Palatina](https://www.nexojornal.com.br/expresso/2022/03/26/O-acervo-digital-de-manuscritos-medievais-da-Biblioteca-Palatina)
 - [5 livros sobre as diferentes histórias das sexualidades](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-diferentes-hist%C3%B3rias-das-sexualidades)
 - [‘As big techs devem responder pelo racismo algorítmico’](https://www.nexojornal.com.br/entrevista/2022/03/26/%E2%80%98As-big-techs-devem-responder-pelo-racismo-algor%C3%ADtmico%E2%80%99)
+- [Com base em que critérios se pode dizer que uma guerra é justa?](https://www.nexojornal.com.br/ensaio/2022/Com-base-em-que-crit%C3%A9rios-se-pode-dizer-que-uma-guerra-%C3%A9-justa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
