@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O acúmulo de relatos de pedidos de propina dos pastores do MEC](https://www.nexojornal.com.br/expresso/2022/03/25/O-ac%C3%BAmulo-de-relatos-de-pedidos-de-propina-dos-pastores-do-MEC)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/03/25/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘É agora que a indústria bélica começa a ganhar dinheiro’](https://www.nexojornal.com.br/entrevista/2022/03/25/%E2%80%98%C3%89-agora-que-a-ind%C3%BAstria-b%C3%A9lica-come%C3%A7a-a-ganhar-dinheiro%E2%80%99)
-- [Famosos aderem a campanha para jovens tirarem título de eleitor](https://www.nexojornal.com.br/extra/2022/03/25/Famosos-aderem-a-campanha-para-jovens-tirarem-t%C3%ADtulo-de-eleitor)
-- [O que é turismo sustentável. E qual sua dimensão no Brasil](https://www.nexojornal.com.br/expresso/2022/03/25/O-que-%C3%A9-turismo-sustent%C3%A1vel.-E-qual-sua-dimens%C3%A3o-no-Brasil)
+- [De que país vem este prato? Adivinhe neste jogo](https://www.nexojornal.com.br/expresso/2022/03/26/De-que-pa%C3%ADs-vem-este-prato-Adivinhe-neste-jogo)
+- [O acervo digital de manuscritos medievais da Biblioteca Palatina](https://www.nexojornal.com.br/expresso/2022/03/26/O-acervo-digital-de-manuscritos-medievais-da-Biblioteca-Palatina)
+- [5 livros sobre as diferentes histórias das sexualidades](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-diferentes-hist%C3%B3rias-das-sexualidades)
+- [‘As big techs devem responder pelo racismo algorítmico’](https://www.nexojornal.com.br/entrevista/2022/03/26/%E2%80%98As-big-techs-devem-responder-pelo-racismo-algor%C3%ADtmico%E2%80%99)
+- [Com base em que critérios se pode dizer que uma guerra é justa?](https://www.nexojornal.com.br/ensaio/2022/Com-base-em-que-crit%C3%A9rios-se-pode-dizer-que-uma-guerra-%C3%A9-justa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
