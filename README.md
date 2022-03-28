@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@fotochaaat](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fotochaaat/)
 - [Carol Ito: ‘O meu respiro poético da vida é o quadrinho’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-ito-conta-como-hqs-servem-de-suporte-para-falar-de-politica-sexualidade-e-saude-mental/)
 - [Zeca Camargo](https://gamarevista.uol.com.br/pessoas/questionario-proust/zeca-camargo/)
 - [Nossa subordinação política](https://gamarevista.uol.com.br/colunistas/bianca-santana/nossa-subordinacao-politica/)
 - [Racionalidade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/racionalidade/)
-- [Nova temporada do podcast ‘Mano a Mano’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-mano-a-mano/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
