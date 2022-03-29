@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As francesas que cantam os novos hinos feministas](https://gamarevista.uol.com.br/pessoas/uma-turma/as-francesas-que-cantam-os-novos-hinos-feministas/)
 - [Quem dorme é a cama](https://gamarevista.uol.com.br/colunistas/fernando-luna/quem-dorme-e-a-cama/)
 - [@fotochaaat](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fotochaaat/)
 - [Carol Ito: ‘O meu respiro poético da vida é o quadrinho’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-ito-conta-como-hqs-servem-de-suporte-para-falar-de-politica-sexualidade-e-saude-mental/)
 - [Zeca Camargo](https://gamarevista.uol.com.br/pessoas/questionario-proust/zeca-camargo/)
-- [Nossa subordinação política](https://gamarevista.uol.com.br/colunistas/bianca-santana/nossa-subordinacao-politica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
