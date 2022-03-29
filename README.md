@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a tentativa de censurar artistas em festival afeta o TSE](https://www.nexojornal.com.br/expresso/2022/03/28/Como-a-tentativa-de-censurar-artistas-em-festival-afeta-o-TSE)
-- [Governo anuncia saída de general do comando da Petrobras](https://www.nexojornal.com.br/extra/2022/03/28/Governo-anuncia-sa%C3%ADda-de-general-do-comando-da-Petrobras)
-- [Não vai ‘passar em branco’: sobre o racismo que nos habita](https://www.nexojornal.com.br/colunistas/2022/N%C3%A3o-vai-%E2%80%98passar-em-branco%E2%80%99-sobre-o-racismo-que-nos-habita)
-- [Internet fixa é serviço de telecomunicação mais mal avaliado](https://www.nexojornal.com.br/extra/2022/03/28/Internet-fixa-%C3%A9-servi%C3%A7o-de-telecomunica%C3%A7%C3%A3o-mais-mal-avaliado)
-- [Suspeitas e trocas em série: a gestão do MEC no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/03/28/Suspeitas-e-trocas-em-s%C3%A9rie-a-gest%C3%A3o-do-MEC-no-governo-Bolsonaro)
+- [‘No ritmo do coração’ leva estatueta de melhor filme no Oscar 2022](https://www.nexojornal.com.br/extra/2022/03/28/%E2%80%98No-ritmo-do-cora%C3%A7%C3%A3o%E2%80%99-leva-estatueta-de-melhor-filme-no-Oscar-2022)
+- [Mobilização e crítica: as reações à decisão do TSE sobre festival](https://www.nexojornal.com.br/expresso/2022/03/27/Mobiliza%C3%A7%C3%A3o-e-cr%C3%ADtica-as-rea%C3%A7%C3%B5es-%C3%A0-decis%C3%A3o-do-TSE-sobre-festival)
+- [Pela requalificação do debate sobre a reforma tributária no Brasil](https://www.nexojornal.com.br/ensaio/2022/Pela-requalifica%C3%A7%C3%A3o-do-debate-sobre-a-reforma-tribut%C3%A1ria-no-Brasil)
+- [‘Críticas à política externa dos anos Dilma são exageradas’](https://www.nexojornal.com.br/entrevista/2022/03/27/%E2%80%98Cr%C3%ADticas-%C3%A0-pol%C3%ADtica-externa-dos-anos-Dilma-s%C3%A3o-exageradas%E2%80%99)
+- [Como a crise e a inflação afetam a ida ao supermercado](https://www.nexojornal.com.br/expresso/2022/03/27/Como-a-crise-e-a-infla%C3%A7%C3%A3o-afetam-a-ida-ao-supermercado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
