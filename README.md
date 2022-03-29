@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro recebe alta após internação por desconforto abdominal](https://www.nexojornal.com.br/extra/2022/03/29/Bolsonaro-recebe-alta-ap%C3%B3s-interna%C3%A7%C3%A3o-por-desconforto-abdominal)
-- [A dívida argentina com o FMI. E o histórico do fundo na região](https://www.nexojornal.com.br/expresso/2022/03/29/A-d%C3%ADvida-argentina-com-o-FMI.-E-o-hist%C3%B3rico-do-fundo-na-regi%C3%A3o)
 - [Como a tentativa de censurar artistas em festival afeta o TSE](https://www.nexojornal.com.br/expresso/2022/03/28/Como-a-tentativa-de-censurar-artistas-em-festival-afeta-o-TSE)
 - [Governo anuncia saída de general do comando da Petrobras](https://www.nexojornal.com.br/extra/2022/03/28/Governo-anuncia-sa%C3%ADda-de-general-do-comando-da-Petrobras)
 - [Não vai ‘passar em branco’: sobre o racismo que nos habita](https://www.nexojornal.com.br/colunistas/2022/N%C3%A3o-vai-%E2%80%98passar-em-branco%E2%80%99-sobre-o-racismo-que-nos-habita)
+- [Internet fixa é serviço de telecomunicação mais mal avaliado](https://www.nexojornal.com.br/extra/2022/03/28/Internet-fixa-%C3%A9-servi%C3%A7o-de-telecomunica%C3%A7%C3%A3o-mais-mal-avaliado)
+- [Suspeitas e trocas em série: a gestão do MEC no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/03/28/Suspeitas-e-trocas-em-s%C3%A9rie-a-gest%C3%A3o-do-MEC-no-governo-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
