@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que os podcasters estão ouvindo?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-os-podcasters-estao-ouvindo/)
 - [Travesseiro Nasa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/travesseiro-nasa/)
 - [As francesas que cantam os novos hinos feministas](https://gamarevista.uol.com.br/pessoas/uma-turma/as-francesas-que-cantam-os-novos-hinos-feministas/)
 - [Quem dorme é a cama](https://gamarevista.uol.com.br/colunistas/fernando-luna/quem-dorme-e-a-cama/)
 - [@fotochaaat](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fotochaaat/)
-- [Carol Ito: ‘O meu respiro poético da vida é o quadrinho’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-ito-conta-como-hqs-servem-de-suporte-para-falar-de-politica-sexualidade-e-saude-mental/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
