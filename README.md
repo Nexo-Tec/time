@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a tentativa de censurar artistas em festival afeta o TSE](https://www.nexojornal.com.br/expresso/2022/03/28/Como-a-tentativa-de-censurar-artistas-em-festival-afeta-o-TSE)
-- [Governo anuncia saída de general do comando da Petrobras](https://www.nexojornal.com.br/extra/2022/03/28/Governo-anuncia-sa%C3%ADda-de-general-do-comando-da-Petrobras)
-- [Não vai ‘passar em branco’: sobre o racismo que nos habita](https://www.nexojornal.com.br/colunistas/2022/N%C3%A3o-vai-%E2%80%98passar-em-branco%E2%80%99-sobre-o-racismo-que-nos-habita)
-- [Internet fixa é serviço de telecomunicação mais mal avaliado](https://www.nexojornal.com.br/extra/2022/03/28/Internet-fixa-%C3%A9-servi%C3%A7o-de-telecomunica%C3%A7%C3%A3o-mais-mal-avaliado)
-- [Suspeitas e trocas em série: a gestão do MEC no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/03/28/Suspeitas-e-trocas-em-s%C3%A9rie-a-gest%C3%A3o-do-MEC-no-governo-Bolsonaro)
+- [O que a troca de chefias mudou ou pode mudar na Petrobras](https://www.nexojornal.com.br/expresso/2022/03/29/O-que-a-troca-de-chefias-mudou-ou-pode-mudar-na-Petrobras)
+- [Como Bolsonaro amarra sua aliança para buscar a reeleição](https://www.nexojornal.com.br/expresso/2022/03/29/Como-Bolsonaro-amarra-sua-alian%C3%A7a-para-buscar-a-reelei%C3%A7%C3%A3o)
+- [Reforma do ensino médio: oportunidade perdida?](https://www.nexojornal.com.br/colunistas/2022/Reforma-do-ensino-m%C3%A9dio-oportunidade-perdida)
+- [Moraes manda polícia colocar tornozeleira em Daniel Silveira](https://www.nexojornal.com.br/extra/2022/03/29/Moraes-manda-pol%C3%ADcia-colocar-tornozeleira-em-Daniel-Silveira)
+- [Arthur do Val se filia ao União Brasil após escândalo](https://www.nexojornal.com.br/extra/2022/03/29/Arthur-do-Val-se-filia-ao-Uni%C3%A3o-Brasil-ap%C3%B3s-esc%C3%A2ndalo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
