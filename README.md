@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a troca de chefias mudou ou pode mudar na Petrobras](https://www.nexojornal.com.br/expresso/2022/03/29/O-que-a-troca-de-chefias-mudou-ou-pode-mudar-na-Petrobras)
-- [Como Bolsonaro amarra sua aliança para buscar a reeleição](https://www.nexojornal.com.br/expresso/2022/03/29/Como-Bolsonaro-amarra-sua-alian%C3%A7a-para-buscar-a-reelei%C3%A7%C3%A3o)
-- [Reforma do ensino médio: oportunidade perdida?](https://www.nexojornal.com.br/colunistas/2022/Reforma-do-ensino-m%C3%A9dio-oportunidade-perdida)
-- [Moraes manda polícia colocar tornozeleira em Daniel Silveira](https://www.nexojornal.com.br/extra/2022/03/29/Moraes-manda-pol%C3%ADcia-colocar-tornozeleira-em-Daniel-Silveira)
-- [Arthur do Val se filia ao União Brasil após escândalo](https://www.nexojornal.com.br/extra/2022/03/29/Arthur-do-Val-se-filia-ao-Uni%C3%A3o-Brasil-ap%C3%B3s-esc%C3%A2ndalo)
+- [Em embate por tornozeleira, Supremo marca julgamento de Silveira](https://www.nexojornal.com.br/extra/2022/03/30/Em-embate-por-tornozeleira-Supremo-marca-julgamento-de-Silveira)
+- [Bruce Willis abandona carreira após diagnóstico de afasia](https://www.nexojornal.com.br/extra/2022/03/30/Bruce-Willis-abandona-carreira-ap%C3%B3s-diagn%C3%B3stico-de-afasia)
+- [Por que a guerra entre Rússia e Ucrânia respinga no Japão](https://www.nexojornal.com.br/expresso/2022/03/30/Por-que-a-guerra-entre-R%C3%BAssia-e-Ucr%C3%A2nia-respinga-no-Jap%C3%A3o)
+- [Marcos Montes assume Agricultura com saída de Tereza Cristina](https://www.nexojornal.com.br/extra/2022/03/30/Marcos-Montes-assume-Agricultura-com-sa%C3%ADda-de-Tereza-Cristina)
+- [Bolsonaro volta a atacar o sistema eleitoral em visita ao RN](https://www.nexojornal.com.br/extra/2022/03/30/Bolsonaro-volta-a-atacar-o-sistema-eleitoral-em-visita-ao-RN)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
