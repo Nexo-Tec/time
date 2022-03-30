@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a troca de chefias mudou ou pode mudar na Petrobras](https://www.nexojornal.com.br/expresso/2022/03/29/O-que-a-troca-de-chefias-mudou-ou-pode-mudar-na-Petrobras)
-- [Como Bolsonaro amarra sua aliança para buscar a reeleição](https://www.nexojornal.com.br/expresso/2022/03/29/Como-Bolsonaro-amarra-sua-alian%C3%A7a-para-buscar-a-reelei%C3%A7%C3%A3o)
-- [Reforma do ensino médio: oportunidade perdida?](https://www.nexojornal.com.br/colunistas/2022/Reforma-do-ensino-m%C3%A9dio-oportunidade-perdida)
-- [Moraes manda polícia colocar tornozeleira em Daniel Silveira](https://www.nexojornal.com.br/extra/2022/03/29/Moraes-manda-pol%C3%ADcia-colocar-tornozeleira-em-Daniel-Silveira)
-- [Arthur do Val se filia ao União Brasil após escândalo](https://www.nexojornal.com.br/extra/2022/03/29/Arthur-do-Val-se-filia-ao-Uni%C3%A3o-Brasil-ap%C3%B3s-esc%C3%A2ndalo)
+- [Vladimir Putin e os inevitáveis limites da autocracia](https://www.nexojornal.com.br/colunistas/2022/Vladimir-Putin-e-os-inevit%C3%A1veis-limites-da-autocracia)
+- [Um curso para idosos identificarem notícias falsas nas redes](https://www.nexojornal.com.br/expresso/2022/03/30/Um-curso-para-idosos-identificarem-not%C3%ADcias-falsas-nas-redes)
+- [Anvisa autoriza uso emergencial do Paxlovid para combater a covid](https://www.nexojornal.com.br/extra/2022/03/30/Anvisa-autoriza-uso-emergencial-do-Paxlovid-para-combater-a-covid)
+- [Como estão os casos de suspeita de corrupção nas vacinas](https://www.nexojornal.com.br/podcast/2022/03/30/Como-est%C3%A3o-os-casos-de-suspeita-de-corrup%C3%A7%C3%A3o-nas-vacinas)
+- [Em embate por tornozeleira, Supremo marca julgamento de Silveira](https://www.nexojornal.com.br/extra/2022/03/30/Em-embate-por-tornozeleira-Supremo-marca-julgamento-de-Silveira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
