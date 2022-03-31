@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Doria desiste de candidatura à Presidência, dizem jornais](https://www.nexojornal.com.br/extra/2022/03/31/Doria-desiste-de-candidatura-%C3%A0-Presid%C3%AAncia-dizem-jornais)
 - [Como e por que Bolsonaro mudou seu ministério no mandato](https://www.nexojornal.com.br/expresso/2022/03/31/Como-e-por-que-Bolsonaro-mudou-seu-minist%C3%A9rio-no-mandato)
 - [A suspensão de despejos e remoções. E o direito à moradia](https://www.nexojornal.com.br/expresso/2022/03/31/A-suspens%C3%A3o-de-despejos-e-remo%C3%A7%C3%B5es.-E-o-direito-%C3%A0-moradia)
 - [Polícia Federal conclui que Bolsonaro não interferiu no órgão](https://www.nexojornal.com.br/extra/2022/03/30/Pol%C3%ADcia-Federal-conclui-que-Bolsonaro-n%C3%A3o-interferiu-no-%C3%B3rg%C3%A3o)
 - [Ministério da Saúde quer flexibilizar restrições da pandemia](https://www.nexojornal.com.br/extra/2022/03/30/Minist%C3%A9rio-da-Sa%C3%BAde-quer-flexibilizar-restri%C3%A7%C3%B5es-da-pandemia)
-- [Vladimir Putin e os inevitáveis limites da autocracia](https://www.nexojornal.com.br/colunistas/2022/Vladimir-Putin-e-os-inevit%C3%A1veis-limites-da-autocracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
