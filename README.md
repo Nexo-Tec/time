@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ensine seu filho a dormir](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/ensine-seu-filho-a-dormir/)
 - [Memórias de uma não tão jovem feminista negra](https://gamarevista.uol.com.br/colunistas/winnie-bueno/memorias-de-uma-nao-tao-jovem-feminista-negra/)
 - [O que os podcasters estão ouvindo?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-os-podcasters-estao-ouvindo/)
 - [Travesseiro Nasa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/travesseiro-nasa/)
 - [Elas cantam os novos hinos feministas em francês](https://gamarevista.uol.com.br/pessoas/uma-turma/as-francesas-que-cantam-os-novos-hinos-feministas/)
-- [Quem dorme é a cama](https://gamarevista.uol.com.br/colunistas/fernando-luna/quem-dorme-e-a-cama/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
