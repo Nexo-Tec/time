@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como e por que Bolsonaro mudou seu ministério no mandato](https://www.nexojornal.com.br/expresso/2022/03/31/Como-e-por-que-Bolsonaro-mudou-seu-minist%C3%A9rio-no-mandato)
-- [A suspensão de despejos e remoções. E o direito à moradia](https://www.nexojornal.com.br/expresso/2022/03/31/A-suspens%C3%A3o-de-despejos-e-remo%C3%A7%C3%B5es.-E-o-direito-%C3%A0-moradia)
-- [Polícia Federal conclui que Bolsonaro não interferiu no órgão](https://www.nexojornal.com.br/extra/2022/03/30/Pol%C3%ADcia-Federal-conclui-que-Bolsonaro-n%C3%A3o-interferiu-no-%C3%B3rg%C3%A3o)
-- [Ministério da Saúde quer flexibilizar restrições da pandemia](https://www.nexojornal.com.br/extra/2022/03/30/Minist%C3%A9rio-da-Sa%C3%BAde-quer-flexibilizar-restri%C3%A7%C3%B5es-da-pandemia)
-- [Vladimir Putin e os inevitáveis limites da autocracia](https://www.nexojornal.com.br/colunistas/2022/Vladimir-Putin-e-os-inevit%C3%A1veis-limites-da-autocracia)
+- [Daniel Silveira obedece ordem de Moraes e põe tornozeleira](https://www.nexojornal.com.br/extra/2022/03/31/Daniel-Silveira-obedece-ordem-de-Moraes-e-p%C3%B5e-tornozeleira)
+- [General Paulo Sérgio sucede Braga Netto no Ministério da Defesa](https://www.nexojornal.com.br/extra/2022/03/31/General-Paulo-S%C3%A9rgio-sucede-Braga-Netto-no-Minist%C3%A9rio-da-Defesa)
+- [Desemprego é de 11,2%, e renda cai 8,8% em um ano, diz IBGE](https://www.nexojornal.com.br/extra/2022/03/31/Desemprego-%C3%A9-de-112-e-renda-cai-88-em-um-ano-diz-IBGE)
+- [Bolsonaro defende ditadura militar e manda ‘cala a boca’ a STF](https://www.nexojornal.com.br/extra/2022/03/31/Bolsonaro-defende-ditadura-militar-e-manda-%E2%80%98cala-a-boca%E2%80%99-a-STF)
+- [Quais as conexões da Otan com a América Latina](https://www.nexojornal.com.br/expresso/2022/03/31/Quais-as-conex%C3%B5es-da-Otan-com-a-Am%C3%A9rica-Latina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
