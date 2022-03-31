@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Ensine seu filho a dormir](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/ensine-seu-filho-a-dormir/)
-- [Memórias de uma não tão jovem feminista negra](https://gamarevista.uol.com.br/colunistas/winnie-bueno/memorias-de-uma-nao-tao-jovem-feminista-negra/)
-- [O que os podcasters estão ouvindo?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-que-os-podcasters-estao-ouvindo/)
-- [Travesseiro Nasa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/travesseiro-nasa/)
-- [Elas cantam os novos hinos feministas em francês](https://gamarevista.uol.com.br/pessoas/uma-turma/as-francesas-que-cantam-os-novos-hinos-feministas/)
+- [Aos 30, Festival de Teatro de Curitiba volta ao palco real](https://gamarevista.uol.com.br/achamos-que-vale/ir/aos-30-festival-de-teatro-de-curitiba-volta-ao-palco-real/)
+- [‘Crime e Castigo’, o novo podcast da Rádio Novelo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/crime-e-castigo-o-novo-podcast-da-radio-novelo/)
+- [Primeira individual de Luiz Zerbini, no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/primeira-individual-de-luiz-zerbini-no-masp/)
+- [‘Saul Klein e o Império do Abuso’, do UOL](https://gamarevista.uol.com.br/achamos-que-vale/assistir/saul-klein-e-o-imperio-do-abuso-do-uol/)
+- [‘Baixo Araguaia’ e a entrada na adolescência](https://gamarevista.uol.com.br/achamos-que-vale/ler/baixo-araguaia-e-a-entrada-na-adolescencia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
