@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia: por que o rublo voltou ao patamar pré-guerra](https://www.nexojornal.com.br/expresso/2022/03/31/R%C3%BAssia-por-que-o-rublo-voltou-ao-patamar-pr%C3%A9-guerra)
-- [Como desistência de Moro e ameaça de Doria afetam a eleição](https://www.nexojornal.com.br/expresso/2022/03/31/Como-desist%C3%AAncia-de-Moro-e-amea%C3%A7a-de-Doria-afetam-a-elei%C3%A7%C3%A3o)
-- [Governo de SP cede mais 3 parques da capital à iniciativa privada](https://www.nexojornal.com.br/extra/2022/03/31/Governo-de-SP-cede-mais-3-parques-da-capital-%C3%A0-iniciativa-privada)
-- [Como a guerra de palavras molda as notícias](https://www.nexojornal.com.br/colunistas/2022/Como-a-guerra-de-palavras-molda-as-not%C3%ADcias)
-- [Biden libera reservas de petróleo para conter alta de combustíveis](https://www.nexojornal.com.br/extra/2022/03/31/Biden-libera-reservas-de-petr%C3%B3leo-para-conter-alta-de-combust%C3%ADveis)
+- [Como e por que Bolsonaro mudou seu ministério no mandato](https://www.nexojornal.com.br/expresso/2022/03/31/Como-e-por-que-Bolsonaro-mudou-seu-minist%C3%A9rio-no-mandato)
+- [A suspensão de despejos e remoções. E o direito à moradia](https://www.nexojornal.com.br/expresso/2022/03/31/A-suspens%C3%A3o-de-despejos-e-remo%C3%A7%C3%B5es.-E-o-direito-%C3%A0-moradia)
+- [Polícia Federal conclui que Bolsonaro não interferiu no órgão](https://www.nexojornal.com.br/extra/2022/03/30/Pol%C3%ADcia-Federal-conclui-que-Bolsonaro-n%C3%A3o-interferiu-no-%C3%B3rg%C3%A3o)
+- [Ministério da Saúde quer flexibilizar restrições da pandemia](https://www.nexojornal.com.br/extra/2022/03/30/Minist%C3%A9rio-da-Sa%C3%BAde-quer-flexibilizar-restri%C3%A7%C3%B5es-da-pandemia)
+- [Vladimir Putin e os inevitáveis limites da autocracia](https://www.nexojornal.com.br/colunistas/2022/Vladimir-Putin-e-os-inevit%C3%A1veis-limites-da-autocracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
