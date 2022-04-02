@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Inês Rugani: achados do Estudo Nacional de Alimentação e Nutrição Infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/03/25/In%C3%AAs-Rugani-achados-do-Estudo-Nacional-de-Alimenta%C3%A7%C3%A3o-e-Nutri%C3%A7%C3%A3o-Infantil)
-- [O que a carreira de comissária de bordo mostra sobre a individualização feminina](https://pp.nexojornal.com.br/academico/2022/O-que-a-carreira-de-comiss%C3%A1ria-de-bordo-mostra-sobre-a-individualiza%C3%A7%C3%A3o-feminina)
-- [Ações Afirmativas no Brasil não são uma importação dos Estados Unidos](https://pp.nexojornal.com.br/opiniao/2022/A%C3%A7%C3%B5es-Afirmativas-no-Brasil-n%C3%A3o-s%C3%A3o-uma-importa%C3%A7%C3%A3o-dos-Estados-Unidos)
-- [Estado Brasileiro](https://pp.nexojornal.com.br/glossario/Estado-Brasileiro)
-- [A Lei de Cotas democratizou os cursos de maior prestígio? O caso da UFBA](https://pp.nexojornal.com.br/opiniao/2022/A-Lei-de-Cotas-democratizou-os-cursos-de-maior-prest%C3%ADgio-O-caso-da-UFBA)
+- [Divulgação científica do patrimônio geológico e da geoconservação](https://pp.nexojornal.com.br/linha-do-tempo/2022/Divulga%C3%A7%C3%A3o-cient%C3%ADfica-do-patrim%C3%B4nio-geol%C3%B3gico-e-da-geoconserva%C3%A7%C3%A3o)
+- [Você sabe por que a gasolina está cara?](https://pp.nexojornal.com.br/opiniao/2022/Voc%C3%AA-sabe-por-que-a-gasolina-est%C3%A1-cara)
+- [A sindemia global na perspectiva brasileira](https://pp.nexojornal.com.br/opiniao/2022/A-sindemia-global-na-perspectiva-brasileira)
+- [Como estão os caminhos da revisão do Plano Diretor da cidade de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-est%C3%A3o-os-caminhos-da-revis%C3%A3o-do-Plano-Diretor-da-cidade-de-S%C3%A3o-Paulo)
+- [Notas de cotistas e não cotistas da UFMG são menos desiguais que pontuação no Enem](https://pp.nexojornal.com.br/opiniao/2022/Notas-de-cotistas-e-n%C3%A3o-cotistas-da-UFMG-s%C3%A3o-menos-desiguais-que-pontua%C3%A7%C3%A3o-no-Enem)
 <!-- PP_LIST:END -->
 
