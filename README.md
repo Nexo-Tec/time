@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ana Cañas](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-canas/)
 - [Me vê uma tacinha de prazer?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/me-ve-uma-tacinha-de-prazer/)
 - [Ser verde nunca foi tão pop](https://gamarevista.uol.com.br/parcerias/ser-verde-nunca-foi-tao-pop/)
 - [O Coração É o Último a Morrer](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-coracao-e-o-ultimo-a-morrer/)
 - [Aos 30, Festival de Teatro de Curitiba volta ao palco real](https://gamarevista.uol.com.br/achamos-que-vale/ir/aos-30-festival-de-teatro-de-curitiba-volta-ao-palco-real/)
-- [‘Crime e Castigo’, o novo podcast da Rádio Novelo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/crime-e-castigo-o-novo-podcast-da-radio-novelo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
