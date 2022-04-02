@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia: por que o rublo voltou ao patamar pré-guerra](https://www.nexojornal.com.br/expresso/2022/03/31/R%C3%BAssia-por-que-o-rublo-voltou-ao-patamar-pr%C3%A9-guerra)
-- [Como desistência de Moro e ameaça de Doria afetam a eleição](https://www.nexojornal.com.br/expresso/2022/03/31/Como-desist%C3%AAncia-de-Moro-e-amea%C3%A7a-de-Doria-afetam-a-elei%C3%A7%C3%A3o)
-- [Governo de SP cede mais 3 parques da capital à iniciativa privada](https://www.nexojornal.com.br/extra/2022/03/31/Governo-de-SP-cede-mais-3-parques-da-capital-%C3%A0-iniciativa-privada)
-- [Como a guerra de palavras molda as notícias](https://www.nexojornal.com.br/colunistas/2022/Como-a-guerra-de-palavras-molda-as-not%C3%ADcias)
-- [Biden libera reservas de petróleo para conter alta de combustíveis](https://www.nexojornal.com.br/extra/2022/03/31/Biden-libera-reservas-de-petr%C3%B3leo-para-conter-alta-de-combust%C3%ADveis)
+- [Quais outras datas da campanha têm brechas para reviravoltas](https://www.nexojornal.com.br/expresso/2022/04/01/Quais-outras-datas-da-campanha-t%C3%AAm-brechas-para-reviravoltas)
+- [Moro insiste em Planalto e ala do União Brasil ameaça impugnação](https://www.nexojornal.com.br/extra/2022/04/01/Moro-insiste-em-Planalto-e-ala-do-Uni%C3%A3o-Brasil-amea%C3%A7a-impugna%C3%A7%C3%A3o)
+- [Os impasses para o futuro político de João Doria e do PSDB](https://www.nexojornal.com.br/perspectiva/2022/04/01/Os-impasses-para-o-futuro-pol%C3%ADtico-de-Jo%C3%A3o-Doria-e-do-PSDB)
+- [Onde o 4G não chega: os auxílios emergenciais em MG](https://www.nexojornal.com.br/ensaio/debate/2022/Onde-o-4G-n%C3%A3o-chega-os-aux%C3%ADlios-emergenciais-em-MG)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/01/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
