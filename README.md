@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais outras datas da campanha têm brechas para reviravoltas](https://www.nexojornal.com.br/expresso/2022/04/01/Quais-outras-datas-da-campanha-t%C3%AAm-brechas-para-reviravoltas)
-- [Moro insiste em Planalto e ala do União Brasil ameaça impugnação](https://www.nexojornal.com.br/extra/2022/04/01/Moro-insiste-em-Planalto-e-ala-do-Uni%C3%A3o-Brasil-amea%C3%A7a-impugna%C3%A7%C3%A3o)
-- [Os impasses para o futuro político de João Doria e do PSDB](https://www.nexojornal.com.br/perspectiva/2022/04/01/Os-impasses-para-o-futuro-pol%C3%ADtico-de-Jo%C3%A3o-Doria-e-do-PSDB)
-- [Onde o 4G não chega: os auxílios emergenciais em MG](https://www.nexojornal.com.br/ensaio/debate/2022/Onde-o-4G-n%C3%A3o-chega-os-aux%C3%ADlios-emergenciais-em-MG)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/01/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Com que sigla eu vou: os partidos como casa de aluguel](https://www.nexojornal.com.br/expresso/2022/04/02/Com-que-sigla-eu-vou-os-partidos-como-casa-de-aluguel)
+- [Janela partidária: PL de Bolsonaro vira a maior bancada da Câmara](https://www.nexojornal.com.br/extra/2022/04/02/Janela-partid%C3%A1ria-PL-de-Bolsonaro-vira-a-maior-bancada-da-C%C3%A2mara)
+- [O histórico das eleições presidenciais a 6 meses da votação](https://www.nexojornal.com.br/expresso/2022/04/02/O-hist%C3%B3rico-das-elei%C3%A7%C3%B5es-presidenciais-a-6-meses-da-vota%C3%A7%C3%A3o)
+- [‘Medida provisória’: uma distopia sobre reparação e backlash](https://www.nexojornal.com.br/expresso/2022/04/02/%E2%80%98Medida-provis%C3%B3ria%E2%80%99-uma-distopia-sobre-repara%C3%A7%C3%A3o-e-backlash)
+- [5 livros para entender melhor a guerra entre Rússia e Ucrânia](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-melhor-a-guerra-entre-R%C3%BAssia-e-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
