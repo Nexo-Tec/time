@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Orbán vence eleição na Hungria e chega ao 5° mandato](https://www.nexojornal.com.br/extra/2022/04/03/Orb%C3%A1n-vence-elei%C3%A7%C3%A3o-na-Hungria-e-chega-ao-5%C2%B0-mandato)
-- [Reprovação à gestão de Bolsonaro na pandemia tem queda](https://www.nexojornal.com.br/extra/2022/04/03/Reprova%C3%A7%C3%A3o-%C3%A0-gest%C3%A3o-de-Bolsonaro-na-pandemia-tem-queda)
-- [Como a renda dos brasileiros chegou ao pior nível em 10 anos](https://www.nexojornal.com.br/expresso/2022/04/03/Como-a-renda-dos-brasileiros-chegou-ao-pior-n%C3%ADvel-em-10-anos)
-- [‘Sustentabilidade está acima de disputas de direita e esquerda’](https://www.nexojornal.com.br/entrevista/2022/04/03/%E2%80%98Sustentabilidade-est%C3%A1-acima-de-disputas-de-direita-e-esquerda%E2%80%99)
-- [Por que a China investe pesado no processamento de dados](https://www.nexojornal.com.br/expresso/2022/04/03/Por-que-a-China-investe-pesado-no-processamento-de-dados)
+- [Com que sigla eu vou: os partidos como casa de aluguel](https://www.nexojornal.com.br/expresso/2022/04/02/Com-que-sigla-eu-vou-os-partidos-como-casa-de-aluguel)
+- [Janela partidária: PL de Bolsonaro vira a maior bancada da Câmara](https://www.nexojornal.com.br/extra/2022/04/02/Janela-partid%C3%A1ria-PL-de-Bolsonaro-vira-a-maior-bancada-da-C%C3%A2mara)
+- [O histórico das eleições presidenciais a 6 meses da votação](https://www.nexojornal.com.br/expresso/2022/04/02/O-hist%C3%B3rico-das-elei%C3%A7%C3%B5es-presidenciais-a-6-meses-da-vota%C3%A7%C3%A3o)
+- [‘Medida provisória’: uma distopia sobre reparação e backlash](https://www.nexojornal.com.br/expresso/2022/04/02/%E2%80%98Medida-provis%C3%B3ria%E2%80%99-uma-distopia-sobre-repara%C3%A7%C3%A3o-e-backlash)
+- [5 livros para entender melhor a guerra entre Rússia e Ucrânia](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-entender-melhor-a-guerra-entre-R%C3%BAssia-e-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
