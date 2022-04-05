@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Todo mundo odeia Milton? O último suspiro do ministro](https://www.nexojornal.com.br/colunistas/2022/Todo-mundo-odeia-Milton-O-%C3%BAltimo-suspiro-do-ministro)
-- [As suspeitas de ação oculta do iFood contra greves de entregadores](https://www.nexojornal.com.br/expresso/2022/04/04/As-suspeitas-de-a%C3%A7%C3%A3o-oculta-do-iFood-contra-greves-de-entregadores)
-- [Ibovespa tem queda por causa de instabilidade na Petrobras](https://www.nexojornal.com.br/extra/2022/04/04/Ibovespa-tem-queda-por-causa-de-instabilidade-na-Petrobras)
-- [Quem é Jon Batiste, vencedor do prêmio máximo do Grammy](https://www.nexojornal.com.br/expresso/2022/04/04/Quem-%C3%A9-Jon-Batiste-vencedor-do-pr%C3%AAmio-m%C3%A1ximo-do-Grammy)
-- [Procuradoria no TCU pede suspensão de compra de ônibus escolares](https://www.nexojornal.com.br/extra/2022/04/04/Procuradoria-no-TCU-pede-suspens%C3%A3o-de-compra-de-%C3%B4nibus-escolares)
+- [Orbán vence eleição na Hungria e chega ao 5° mandato](https://www.nexojornal.com.br/extra/2022/04/03/Orb%C3%A1n-vence-elei%C3%A7%C3%A3o-na-Hungria-e-chega-ao-5%C2%B0-mandato)
+- [Reprovação à gestão de Bolsonaro na pandemia tem queda](https://www.nexojornal.com.br/extra/2022/04/03/Reprova%C3%A7%C3%A3o-%C3%A0-gest%C3%A3o-de-Bolsonaro-na-pandemia-tem-queda)
+- [Como a renda dos brasileiros chegou ao pior nível em 10 anos](https://www.nexojornal.com.br/expresso/2022/04/03/Como-a-renda-dos-brasileiros-chegou-ao-pior-n%C3%ADvel-em-10-anos)
+- [‘Sustentabilidade está acima de disputas de direita e esquerda’](https://www.nexojornal.com.br/entrevista/2022/04/03/%E2%80%98Sustentabilidade-est%C3%A1-acima-de-disputas-de-direita-e-esquerda%E2%80%99)
+- [Por que a China investe pesado no processamento de dados](https://www.nexojornal.com.br/expresso/2022/04/03/Por-que-a-China-investe-pesado-no-processamento-de-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
