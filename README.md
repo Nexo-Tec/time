@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cortador de Queijo Bjørklund](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cortador-de-queijo-bjorklund/)
 - [@ohiltinhofantastico](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ohiltinhofantastico/)
 - [Bruno Carazza: ‘A população brasileira tem um descrédito muito grande com a política’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruno-carazza-confianca-na-politica/)
 - [Ana Cañas](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-canas/)
 - [Me vê uma tacinha de prazer?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/me-ve-uma-tacinha-de-prazer/)
-- [Ser verde nunca foi tão pop](https://gamarevista.uol.com.br/parcerias/ser-verde-nunca-foi-tao-pop/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
