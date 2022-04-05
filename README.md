@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alemanha assume controle temporário de subsidiária da Gazprom](https://www.nexojornal.com.br/extra/2022/04/05/Alemanha-assume-controle-tempor%C3%A1rio-de-subsidi%C3%A1ria-da-Gazprom)
-- [De onde vem o trigo produzido no Brasil e no mundo](https://www.nexojornal.com.br/grafico/2022/04/05/De-onde-vem-o-trigo-produzido-no-Brasil-e-no-mundo)
 - [Todo mundo odeia Milton? O último suspiro do ministro](https://www.nexojornal.com.br/colunistas/2022/Todo-mundo-odeia-Milton-O-%C3%BAltimo-suspiro-do-ministro)
 - [As suspeitas de ação oculta do iFood contra greves de entregadores](https://www.nexojornal.com.br/expresso/2022/04/04/As-suspeitas-de-a%C3%A7%C3%A3o-oculta-do-iFood-contra-greves-de-entregadores)
 - [Ibovespa tem queda por causa de instabilidade na Petrobras](https://www.nexojornal.com.br/extra/2022/04/04/Ibovespa-tem-queda-por-causa-de-instabilidade-na-Petrobras)
+- [Quem é Jon Batiste, vencedor do prêmio máximo do Grammy](https://www.nexojornal.com.br/expresso/2022/04/04/Quem-%C3%A9-Jon-Batiste-vencedor-do-pr%C3%AAmio-m%C3%A1ximo-do-Grammy)
+- [Procuradoria no TCU pede suspensão de compra de ônibus escolares](https://www.nexojornal.com.br/extra/2022/04/04/Procuradoria-no-TCU-pede-suspens%C3%A3o-de-compra-de-%C3%B4nibus-escolares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
