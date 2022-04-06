@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que pesa contra o vereador carioca Gabriel Monteiro](https://www.nexojornal.com.br/expresso/2022/04/06/O-que-pesa-contra-o-vereador-carioca-Gabriel-Monteiro)
+- [STJ decide que Lei Maria da Penha se aplica a mulheres trans](https://www.nexojornal.com.br/extra/2022/04/06/STJ-decide-que-Lei-Maria-da-Penha-se-aplica-a-mulheres-trans)
+- [Ex-estrela da Nickelodeon relata abusos em autobiografia](https://www.nexojornal.com.br/extra/2022/04/06/Ex-estrela-da-Nickelodeon-relata-abusos-em-autobiografia)
 - [Bolsonaro veta lei Paulo Gustavo, que incentiva setor cultural](https://www.nexojornal.com.br/extra/2022/04/06/Bolsonaro-veta-lei-Paulo-Gustavo-que-incentiva-setor-cultural)
 - [O que já foi aberto do ‘orçamento secreto’. E o que está pendente](https://www.nexojornal.com.br/expresso/2022/04/05/O-que-j%C3%A1-foi-aberto-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99.-E-o-que-est%C3%A1-pendente)
-- [Os gatos pardos na noite dos investimentos](https://www.nexojornal.com.br/ensaio/2022/Os-gatos-pardos-na-noite-dos-investimentos)
-- [Congresso promulga PEC que anistia partidos que descumpriram cotas](https://www.nexojornal.com.br/extra/2022/04/05/Congresso-promulga-PEC-que-anistia-partidos-que-descumpriram-cotas)
-- [Por que o Brasil do pré-sal ainda importa tanto petróleo](https://www.nexojornal.com.br/expresso/2022/04/05/Por-que-o-Brasil-do-pr%C3%A9-sal-ainda-importa-tanto-petr%C3%B3leo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
