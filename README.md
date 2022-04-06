@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que dizem as tralhas acumuladas?](https://gamarevista.uol.com.br/colunistas/letrux/o-que-dizem-as-tralhas-acumuladas/)
 - [Electro na Bastilha](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/electro-na-bastilha/)
 - [Cortador de Queijo Bjørklund](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cortador-de-queijo-bjorklund/)
 - [@ohiltinhofantastico](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ohiltinhofantastico/)
 - [Bruno Carazza: ‘A população brasileira tem um descrédito muito grande com a política’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruno-carazza-confianca-na-politica/)
-- [Ana Cañas](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-canas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
