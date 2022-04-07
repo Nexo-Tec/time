@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Igi Ayedun](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-igi-ayedun/)
 - [Lázaro Ramos e o racismo distópico do Brasil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/lazaro-ramos-e-o-racismo-distopico-do-brasil/)
 - [O que dizem as tralhas acumuladas?](https://gamarevista.uol.com.br/colunistas/letrux/o-que-dizem-as-tralhas-acumuladas/)
 - [Electro na Bastilha](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/electro-na-bastilha/)
 - [Cortador de Queijo Bjørklund](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cortador-de-queijo-bjorklund/)
-- [@ohiltinhofantastico](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ohiltinhofantastico/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
