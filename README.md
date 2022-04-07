@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Divulgação científica do patrimônio geológico e da geoconservação](https://pp.nexojornal.com.br/linha-do-tempo/2022/Divulga%C3%A7%C3%A3o-cient%C3%ADfica-do-patrim%C3%B4nio-geol%C3%B3gico-e-da-geoconserva%C3%A7%C3%A3o)
-- [Você sabe por que a gasolina está cara?](https://pp.nexojornal.com.br/opiniao/2022/Voc%C3%AA-sabe-por-que-a-gasolina-est%C3%A1-cara)
-- [A sindemia global na perspectiva brasileira](https://pp.nexojornal.com.br/opiniao/2022/A-sindemia-global-na-perspectiva-brasileira)
-- [Como estão os caminhos da revisão do Plano Diretor da cidade de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-est%C3%A3o-os-caminhos-da-revis%C3%A3o-do-Plano-Diretor-da-cidade-de-S%C3%A3o-Paulo)
-- [Notas de cotistas e não cotistas da UFMG são menos desiguais que pontuação no Enem](https://pp.nexojornal.com.br/opiniao/2022/Notas-de-cotistas-e-n%C3%A3o-cotistas-da-UFMG-s%C3%A3o-menos-desiguais-que-pontua%C3%A7%C3%A3o-no-Enem)
+- [Cinco possíveis caminhos para se limitar o aquecimento global a menos de 2ºC](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Cinco-poss%C3%ADveis-caminhos-para-se-limitar-o-aquecimento-global-a-menos-de-2%C2%BAC)
+- [Reparação histórica de Lamarck: um novo olhar para a evolução](https://pp.nexojornal.com.br/opiniao/2022/Repara%C3%A7%C3%A3o-hist%C3%B3rica-de-Lamarck-um-novo-olhar-para-a-evolu%C3%A7%C3%A3o)
+- [Mobilidade social no Brasil: da ascensão ao descenso sócio-ocupacional em 5 anos](https://pp.nexojornal.com.br/ponto-de-vista/2022/Mobilidade-social-no-Brasil-da-ascens%C3%A3o-ao-descenso-s%C3%B3cio-ocupacional-em-5-anos)
+- [Como programas de aprendizagem podem contribuir para o ingresso de jovens no ensino superior](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-programas-de-aprendizagem-podem-contribuir-para-o-ingresso-de-jovens-no-ensino-superior)
+- [Escola como lugar de perpetuação ou combate ao racismo?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escola-como-lugar-de-perpetua%C3%A7%C3%A3o-ou-combate-ao-racismo)
 <!-- PP_LIST:END -->
 
