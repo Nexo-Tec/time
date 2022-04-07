@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro veta lei Paulo Gustavo, que incentiva setor cultural](https://www.nexojornal.com.br/extra/2022/04/06/Bolsonaro-veta-lei-Paulo-Gustavo-que-incentiva-setor-cultural)
-- [O que já foi aberto do ‘orçamento secreto’. E o que está pendente](https://www.nexojornal.com.br/expresso/2022/04/05/O-que-j%C3%A1-foi-aberto-do-%E2%80%98or%C3%A7amento-secreto%E2%80%99.-E-o-que-est%C3%A1-pendente)
-- [Os gatos pardos na noite dos investimentos](https://www.nexojornal.com.br/ensaio/2022/Os-gatos-pardos-na-noite-dos-investimentos)
-- [Congresso promulga PEC que anistia partidos que descumpriram cotas](https://www.nexojornal.com.br/extra/2022/04/05/Congresso-promulga-PEC-que-anistia-partidos-que-descumpriram-cotas)
-- [Por que o Brasil do pré-sal ainda importa tanto petróleo](https://www.nexojornal.com.br/expresso/2022/04/05/Por-que-o-Brasil-do-pr%C3%A9-sal-ainda-importa-tanto-petr%C3%B3leo)
+- [Os áudios sobre a morte de Adriano. E a apuração do caso](https://www.nexojornal.com.br/expresso/2022/04/06/Os-%C3%A1udios-sobre-a-morte-de-Adriano.-E-a-apura%C3%A7%C3%A3o-do-caso)
+- [A recusa do governo em socorrer a cultura dos efeitos da covid](https://www.nexojornal.com.br/expresso/2022/04/06/A-recusa-do-governo-em-socorrer-a-cultura-dos-efeitos-da-covid)
+- [Governo indica José Mauro Coelho para presidir a Petrobras](https://www.nexojornal.com.br/extra/2022/04/06/Governo-indica-Jos%C3%A9-Mauro-Coelho-para-presidir-a-Petrobras)
+- [Entidades jornalísticas pedem alterações no PL das Fake News](https://www.nexojornal.com.br/extra/2022/04/06/Entidades-jornal%C3%ADsticas-pedem-altera%C3%A7%C3%B5es-no-PL-das-Fake-News)
+- [Nossos melhores cientistas são bolsistas de pós-graduação](https://www.nexojornal.com.br/colunistas/2022/Nossos-melhores-cientistas-s%C3%A3o-bolsistas-de-p%C3%B3s-gradua%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
