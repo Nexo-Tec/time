@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Professor repreende aluno em debate com indígena e pais reagem](https://www.nexojornal.com.br/extra/2022/04/07/Professor-repreende-aluno-em-debate-com-ind%C3%ADgena-e-pais-reagem)
-- [Como a geografia é utilizada na obra de Lima Barreto](https://www.nexojornal.com.br/academico/2022/04/07/Como-a-geografia-%C3%A9-utilizada-na-obra-de-Lima-Barreto)
-- [Brasileiros denunciam xenofobia em universidade portuguesa](https://www.nexojornal.com.br/extra/2022/04/07/Brasileiros-denunciam-xenofobia-em-universidade-portuguesa)
-- [Por que o Facebook perdeu valor de mercado em 2022](https://www.nexojornal.com.br/grafico/2022/04/07/Por-que-o-Facebook-perdeu-valor-de-mercado-em-2022)
 - [Avião com brasileiros a bordo desaparece na Argentina](https://www.nexojornal.com.br/extra/2022/04/07/Avi%C3%A3o-com-brasileiros-a-bordo-desaparece-na-Argentina)
+- [Polícia do Rio faz operação contra vereador Gabriel Monteiro](https://www.nexojornal.com.br/extra/2022/04/07/Pol%C3%ADcia-do-Rio-faz-opera%C3%A7%C3%A3o-contra-vereador-Gabriel-Monteiro)
+- [Os áudios sobre a morte de Adriano. E a apuração do caso](https://www.nexojornal.com.br/expresso/2022/04/06/Os-%C3%A1udios-sobre-a-morte-de-Adriano.-E-a-apura%C3%A7%C3%A3o-do-caso)
+- [A recusa do governo em socorrer a cultura dos efeitos da covid](https://www.nexojornal.com.br/expresso/2022/04/06/A-recusa-do-governo-em-socorrer-a-cultura-dos-efeitos-da-covid)
+- [Governo indica José Mauro Coelho para presidir a Petrobras](https://www.nexojornal.com.br/extra/2022/04/06/Governo-indica-Jos%C3%A9-Mauro-Coelho-para-presidir-a-Petrobras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
