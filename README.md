@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A desmobilização de entregadores promovida pelo Ifood](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-desmobilizacao-de-entregadores-promovida-pelo-ifood/)
+- [‘AmarElo’, do Emicida, no Sesc São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/amarelo-do-emicida-no-sesc-sao-paulo/)
+- [‘Segunda Casa’, novo romance de Rachel Cusk](https://gamarevista.uol.com.br/achamos-que-vale/ler/segunda-casa-novo-romance-de-rachel-cusk/)
+- [Álbum de Cazuza com faixas inéditas](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/album-de-cazuza-com-faixas-ineditas/)
 - [CV: Igi Ayedun](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-igi-ayedun/)
-- [Lázaro Ramos e o racismo distópico do Brasil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/lazaro-ramos-e-o-racismo-distopico-do-brasil/)
-- [O que dizem as tralhas acumuladas?](https://gamarevista.uol.com.br/colunistas/letrux/o-que-dizem-as-tralhas-acumuladas/)
-- [Electro na Bastilha](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/electro-na-bastilha/)
-- [Cortador de Queijo Bjørklund](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cortador-de-queijo-bjorklund/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
