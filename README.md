@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘SUS’: a trajetória do sistema de saúde brasileiro](https://www.nexojornal.com.br/estante/trechos/2022/04/08/%E2%80%98SUS%E2%80%99-a-trajet%C3%B3ria-do-sistema-de-sa%C3%BAde-brasileiro)
+- [PSB oficializa indicação de Alckmin para vice na chapa de Lula](https://www.nexojornal.com.br/extra/2022/04/08/PSB-oficializa-indica%C3%A7%C3%A3o-de-Alckmin-para-vice-na-chapa-de-Lula)
+- [Com alta de 1,62%, inflação de março é a maior em 28 anos](https://www.nexojornal.com.br/extra/2022/04/08/Com-alta-de-162-infla%C3%A7%C3%A3o-de-mar%C3%A7o-%C3%A9-a-maior-em-28-anos)
 - [O FNDE nas mãos do centrão. E as suspeitas sobre o uso de verbas](https://www.nexojornal.com.br/expresso/2022/04/07/O-FNDE-nas-m%C3%A3os-do-centr%C3%A3o.-E-as-suspeitas-sobre-o-uso-de-verbas)
 - [Quem são as filhas de Putin atingidas por sanções dos EUA](https://www.nexojornal.com.br/expresso/2022/04/07/Quem-s%C3%A3o-as-filhas-de-Putin-atingidas-por-san%C3%A7%C3%B5es-dos-EUA)
-- [Datafolha: Haddad lidera em SP. Freixo e Castro empatam no RJ](https://www.nexojornal.com.br/extra/2022/04/07/Datafolha-Haddad-lidera-em-SP.-Freixo-e-Castro-empatam-no-RJ)
-- [Governo brasileiro atualiza meta de corte de emissões na ONU](https://www.nexojornal.com.br/extra/2022/04/07/Governo-brasileiro-atualiza-meta-de-corte-de-emiss%C3%B5es-na-ONU)
-- [Maior jornal de El Salvador suspende publicação contra censura](https://www.nexojornal.com.br/extra/2022/04/07/Maior-jornal-de-El-Salvador-suspende-publica%C3%A7%C3%A3o-contra-censura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
