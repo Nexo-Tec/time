@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Renata Corrêa: “Escrevi sobre temas que atravessaram meu corpo”](https://gamarevista.uol.com.br/formato/conversas/renata-correa-escrevi-sobre-temas-que-atravessaram-meu-corpo/)
+- [Como consumir alimentos com mais consciência](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/como-consumir-alimentos-com-mais-consciencia/)
 - [Pra Quando Você Acordar](https://gamarevista.uol.com.br/cultura/trecho-de-livro/pra-quando-voce-acordar/)
 - [A música do ano, de Bruno Mars e Anderson Paak](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-musica-do-ano-de-bruno-mars-e-anderson-paak/)
 - [A desmobilização de entregadores promovida pelo Ifood](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-desmobilizacao-de-entregadores-promovida-pelo-ifood/)
-- [MIS-CE de cara nova](https://gamarevista.uol.com.br/achamos-que-vale/ir/mis-ce-de-cara-nova/)
-- [‘Segunda Casa’, novo romance de Rachel Cusk](https://gamarevista.uol.com.br/achamos-que-vale/ler/segunda-casa-novo-romance-de-rachel-cusk/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
