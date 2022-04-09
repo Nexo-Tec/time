@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘SUS’: a trajetória do sistema de saúde brasileiro](https://www.nexojornal.com.br/estante/trechos/2022/04/08/%E2%80%98SUS%E2%80%99-a-trajet%C3%B3ria-do-sistema-de-sa%C3%BAde-brasileiro)
-- [PSB oficializa indicação de Alckmin para vice na chapa de Lula](https://www.nexojornal.com.br/extra/2022/04/08/PSB-oficializa-indica%C3%A7%C3%A3o-de-Alckmin-para-vice-na-chapa-de-Lula)
-- [Com alta de 1,62%, inflação de março é a maior em 28 anos](https://www.nexojornal.com.br/extra/2022/04/08/Com-alta-de-162-infla%C3%A7%C3%A3o-de-mar%C3%A7o-%C3%A9-a-maior-em-28-anos)
-- [O FNDE nas mãos do centrão. E as suspeitas sobre o uso de verbas](https://www.nexojornal.com.br/expresso/2022/04/07/O-FNDE-nas-m%C3%A3os-do-centr%C3%A3o.-E-as-suspeitas-sobre-o-uso-de-verbas)
-- [Quem são as filhas de Putin atingidas por sanções dos EUA](https://www.nexojornal.com.br/expresso/2022/04/07/Quem-s%C3%A3o-as-filhas-de-Putin-atingidas-por-san%C3%A7%C3%B5es-dos-EUA)
+- [Investigação da PF sobre Ciro Nogueira vê crime de corrupção](https://www.nexojornal.com.br/extra/2022/04/09/Investiga%C3%A7%C3%A3o-da-PF-sobre-Ciro-Nogueira-v%C3%AA-crime-de-corrup%C3%A7%C3%A3o)
+- [Gilberto Gil toma posse na Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2022/04/08/Gilberto-Gil-toma-posse-na-Academia-Brasileira-de-Letras)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Europa adota sanções inéditas contra setor energético russo](https://www.nexojornal.com.br/extra/2022/04/08/Europa-adota-san%C3%A7%C3%B5es-in%C3%A9ditas-contra-setor-energ%C3%A9tico-russo)
+- [Como o fator inflação apareceu em outros anos eleitorais](https://www.nexojornal.com.br/expresso/2022/04/08/Como-o-fator-infla%C3%A7%C3%A3o-apareceu-em-outros-anos-eleitorais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
