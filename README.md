@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Uma plataforma para artistas ficcionais de filmes e séries](https://www.nexojornal.com.br/expresso/2022/04/09/Uma-plataforma-para-artistas-ficcionais-de-filmes-e-s%C3%A9ries)
-- [5 livros escritos por mulheres latino-americanas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-mulheres-latino-americanas)
-- [Como os mísseis Javelin alteram o curso da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/04/09/Como-os-m%C3%ADsseis-Javelin-alteram-o-curso-da-guerra-na-Ucr%C3%A2nia)
-- [Por que o primeiro sindicato da Amazon nos EUA é um marco](https://www.nexojornal.com.br/expresso/2022/04/09/Por-que-o-primeiro-sindicato-da-Amazon-nos-EUA-%C3%A9-um-marco)
-- [O Estado não precisa mais ser aquele velho paquiderme](https://www.nexojornal.com.br/ensaio/2022/O-Estado-n%C3%A3o-precisa-mais-ser-aquele-velho-paquiderme)
+- [Investigação da PF sobre Ciro Nogueira vê crime de corrupção](https://www.nexojornal.com.br/extra/2022/04/09/Investiga%C3%A7%C3%A3o-da-PF-sobre-Ciro-Nogueira-v%C3%AA-crime-de-corrup%C3%A7%C3%A3o)
+- [Gilberto Gil toma posse na Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2022/04/08/Gilberto-Gil-toma-posse-na-Academia-Brasileira-de-Letras)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Europa adota sanções inéditas contra setor energético russo](https://www.nexojornal.com.br/extra/2022/04/08/Europa-adota-san%C3%A7%C3%B5es-in%C3%A9ditas-contra-setor-energ%C3%A9tico-russo)
+- [Como o fator inflação apareceu em outros anos eleitorais](https://www.nexojornal.com.br/expresso/2022/04/08/Como-o-fator-infla%C3%A7%C3%A3o-apareceu-em-outros-anos-eleitorais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
