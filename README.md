@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Todos os estados deixam de exigir máscara ao ar livre](https://www.nexojornal.com.br/extra/2022/04/10/Todos-os-estados-deixam-de-exigir-m%C3%A1scara-ao-ar-livre)
+- [Fãs de BTS reforçam campanha para jovem tirar título de eleitor](https://www.nexojornal.com.br/extra/2022/04/10/F%C3%A3s-de-BTS-refor%C3%A7am-campanha-para-jovem-tirar-t%C3%ADtulo-de-eleitor)
+- [Projeções na França indicam 2º turno entre Macron e Le Pen](https://www.nexojornal.com.br/extra/2022/04/10/Proje%C3%A7%C3%B5es-na-Fran%C3%A7a-indicam-2%C2%BA-turno-entre-Macron-e-Le-Pen)
 - [‘Better Call Saul’ terá Walter e Jesse, de ‘Breaking Bad’](https://www.nexojornal.com.br/extra/2022/04/10/%E2%80%98Better-Call-Saul%E2%80%99-ter%C3%A1-Walter-e-Jesse-de-%E2%80%98Breaking-Bad%E2%80%99)
 - [Uma plataforma para artistas ficcionais de filmes e séries](https://www.nexojornal.com.br/expresso/2022/04/09/Uma-plataforma-para-artistas-ficcionais-de-filmes-e-s%C3%A9ries)
-- [5 livros escritos por mulheres latino-americanas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-mulheres-latino-americanas)
-- [Como os mísseis Javelin alteram o curso da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/04/09/Como-os-m%C3%ADsseis-Javelin-alteram-o-curso-da-guerra-na-Ucr%C3%A2nia)
-- [Por que o primeiro sindicato da Amazon nos EUA é um marco](https://www.nexojornal.com.br/expresso/2022/04/09/Por-que-o-primeiro-sindicato-da-Amazon-nos-EUA-%C3%A9-um-marco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
