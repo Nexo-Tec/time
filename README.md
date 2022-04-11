@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Better Call Saul’ terá Walter e Jesse, de ‘Breaking Bad’](https://www.nexojornal.com.br/extra/2022/04/10/%E2%80%98Better-Call-Saul%E2%80%99-ter%C3%A1-Walter-e-Jesse-de-%E2%80%98Breaking-Bad%E2%80%99)
-- [Uma plataforma para artistas ficcionais de filmes e séries](https://www.nexojornal.com.br/expresso/2022/04/09/Uma-plataforma-para-artistas-ficcionais-de-filmes-e-s%C3%A9ries)
-- [5 livros escritos por mulheres latino-americanas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-mulheres-latino-americanas)
-- [Como os mísseis Javelin alteram o curso da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/04/09/Como-os-m%C3%ADsseis-Javelin-alteram-o-curso-da-guerra-na-Ucr%C3%A2nia)
-- [Por que o primeiro sindicato da Amazon nos EUA é um marco](https://www.nexojornal.com.br/expresso/2022/04/09/Por-que-o-primeiro-sindicato-da-Amazon-nos-EUA-%C3%A9-um-marco)
+- [Como falar de política: as lições de 2018 para os eleitores de 2022](https://www.nexojornal.com.br/expresso/2022/04/10/Como-falar-de-pol%C3%ADtica-as-li%C3%A7%C3%B5es-de-2018-para-os-eleitores-de-2022)
+- [Por que a guerra gera discussões sobre a dominância do dólar](https://www.nexojornal.com.br/expresso/2022/04/10/Por-que-a-guerra-gera-discuss%C3%B5es-sobre-a-domin%C3%A2ncia-do-d%C3%B3lar)
+- [Rússia intensifica ataques em cidades no sul e leste da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/10/R%C3%BAssia-intensifica-ataques-em-cidades-no-sul-e-leste-da-Ucr%C3%A2nia)
+- [Todos os estados deixam de exigir máscara ao ar livre](https://www.nexojornal.com.br/extra/2022/04/10/Todos-os-estados-deixam-de-exigir-m%C3%A1scara-ao-ar-livre)
+- [Fãs de BTS reforçam campanha para jovem tirar título de eleitor](https://www.nexojornal.com.br/extra/2022/04/10/F%C3%A3s-de-BTS-refor%C3%A7am-campanha-para-jovem-tirar-t%C3%ADtulo-de-eleitor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
