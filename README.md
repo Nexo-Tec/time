@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Todos os estados deixam de exigir máscara ao ar livre](https://www.nexojornal.com.br/extra/2022/04/10/Todos-os-estados-deixam-de-exigir-m%C3%A1scara-ao-ar-livre)
-- [Fãs de BTS reforçam campanha para jovem tirar título de eleitor](https://www.nexojornal.com.br/extra/2022/04/10/F%C3%A3s-de-BTS-refor%C3%A7am-campanha-para-jovem-tirar-t%C3%ADtulo-de-eleitor)
-- [Projeções na França indicam 2º turno entre Macron e Le Pen](https://www.nexojornal.com.br/extra/2022/04/10/Proje%C3%A7%C3%B5es-na-Fran%C3%A7a-indicam-2%C2%BA-turno-entre-Macron-e-Le-Pen)
-- [‘Better Call Saul’ terá Walter e Jesse, de ‘Breaking Bad’](https://www.nexojornal.com.br/extra/2022/04/10/%E2%80%98Better-Call-Saul%E2%80%99-ter%C3%A1-Walter-e-Jesse-de-%E2%80%98Breaking-Bad%E2%80%99)
-- [Uma plataforma para artistas ficcionais de filmes e séries](https://www.nexojornal.com.br/expresso/2022/04/09/Uma-plataforma-para-artistas-ficcionais-de-filmes-e-s%C3%A9ries)
+- [Brasil concede 74 vistos humanitários a imigrantes da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/11/Brasil-concede-74-vistos-humanit%C3%A1rios-a-imigrantes-da-Ucr%C3%A2nia)
+- [Garimpo ilegal cresce na terra indígena Yanomami em 2021](https://www.nexojornal.com.br/extra/2022/04/11/Garimpo-ilegal-cresce-na-terra-ind%C3%ADgena-Yanomami-em-2021)
+- [As eleições na França. E a nova união contra a extrema direita](https://www.nexojornal.com.br/expresso/2022/04/11/As-elei%C3%A7%C3%B5es-na-Fran%C3%A7a.-E-a-nova-uni%C3%A3o-contra-a-extrema-direita)
+- [Clube Desportiva demite técnico que agrediu bandeirinha](https://www.nexojornal.com.br/extra/2022/04/11/Clube-Desportiva-demite-t%C3%A9cnico-que-agrediu-bandeirinha)
+- [Acampamento ‘Marielle vive’, do MST, sofre ataques a tiros](https://www.nexojornal.com.br/extra/2022/04/11/Acampamento-%E2%80%98Marielle-vive%E2%80%99-do-MST-sofre-ataques-a-tiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
