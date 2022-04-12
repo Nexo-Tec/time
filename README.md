@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como falar de política: as lições de 2018 para os eleitores de 2022](https://www.nexojornal.com.br/expresso/2022/04/10/Como-falar-de-pol%C3%ADtica-as-li%C3%A7%C3%B5es-de-2018-para-os-eleitores-de-2022)
-- [Por que a guerra gera discussões sobre a dominância do dólar](https://www.nexojornal.com.br/expresso/2022/04/10/Por-que-a-guerra-gera-discuss%C3%B5es-sobre-a-domin%C3%A2ncia-do-d%C3%B3lar)
-- [Rússia intensifica ataques em cidades no sul e leste da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/10/R%C3%BAssia-intensifica-ataques-em-cidades-no-sul-e-leste-da-Ucr%C3%A2nia)
-- [Todos os estados deixam de exigir máscara ao ar livre](https://www.nexojornal.com.br/extra/2022/04/10/Todos-os-estados-deixam-de-exigir-m%C3%A1scara-ao-ar-livre)
-- [Fãs de BTS reforçam campanha para jovem tirar título de eleitor](https://www.nexojornal.com.br/extra/2022/04/10/F%C3%A3s-de-BTS-refor%C3%A7am-campanha-para-jovem-tirar-t%C3%ADtulo-de-eleitor)
+- [As suspeitas na Codevasf, estatal que cresceu com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/04/11/As-suspeitas-na-Codevasf-estatal-que-cresceu-com-Bolsonaro)
+- [Qual a cor da esquerda?](https://www.nexojornal.com.br/ensaio/2022/Qual-a-cor-da-esquerda)
+- [O clã Bolsonaro vai direto para o lixo da história](https://www.nexojornal.com.br/colunistas/2022/O-cl%C3%A3-Bolsonaro-vai-direto-para-o-lixo-da-hist%C3%B3ria)
+- [O que você sabe sobre a história da Petrobras? Faça o teste](https://www.nexojornal.com.br/interativo/2022/04/11/O-que-voc%C3%AA-sabe-sobre-a-hist%C3%B3ria-da-Petrobras-Fa%C3%A7a-o-teste)
+- [AGU diz que Milton Ribeiro fez ‘menção indevida’ a Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/11/AGU-diz-que-Milton-Ribeiro-fez-%E2%80%98men%C3%A7%C3%A3o-indevida%E2%80%99-a-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
