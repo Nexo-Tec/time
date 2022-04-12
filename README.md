@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil concede 74 vistos humanitários a imigrantes da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/11/Brasil-concede-74-vistos-humanit%C3%A1rios-a-imigrantes-da-Ucr%C3%A2nia)
-- [Garimpo ilegal cresce na terra indígena Yanomami em 2021](https://www.nexojornal.com.br/extra/2022/04/11/Garimpo-ilegal-cresce-na-terra-ind%C3%ADgena-Yanomami-em-2021)
-- [As eleições na França. E a nova união contra a extrema direita](https://www.nexojornal.com.br/expresso/2022/04/11/As-elei%C3%A7%C3%B5es-na-Fran%C3%A7a.-E-a-nova-uni%C3%A3o-contra-a-extrema-direita)
-- [Clube Desportiva demite técnico que agrediu bandeirinha](https://www.nexojornal.com.br/extra/2022/04/11/Clube-Desportiva-demite-t%C3%A9cnico-que-agrediu-bandeirinha)
-- [Acampamento ‘Marielle vive’, do MST, sofre ataques a tiros](https://www.nexojornal.com.br/extra/2022/04/11/Acampamento-%E2%80%98Marielle-vive%E2%80%99-do-MST-sofre-ataques-a-tiros)
+- [Como falar de política: as lições de 2018 para os eleitores de 2022](https://www.nexojornal.com.br/expresso/2022/04/10/Como-falar-de-pol%C3%ADtica-as-li%C3%A7%C3%B5es-de-2018-para-os-eleitores-de-2022)
+- [Por que a guerra gera discussões sobre a dominância do dólar](https://www.nexojornal.com.br/expresso/2022/04/10/Por-que-a-guerra-gera-discuss%C3%B5es-sobre-a-domin%C3%A2ncia-do-d%C3%B3lar)
+- [Rússia intensifica ataques em cidades no sul e leste da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/10/R%C3%BAssia-intensifica-ataques-em-cidades-no-sul-e-leste-da-Ucr%C3%A2nia)
+- [Todos os estados deixam de exigir máscara ao ar livre](https://www.nexojornal.com.br/extra/2022/04/10/Todos-os-estados-deixam-de-exigir-m%C3%A1scara-ao-ar-livre)
+- [Fãs de BTS reforçam campanha para jovem tirar título de eleitor](https://www.nexojornal.com.br/extra/2022/04/10/F%C3%A3s-de-BTS-refor%C3%A7am-campanha-para-jovem-tirar-t%C3%ADtulo-de-eleitor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
