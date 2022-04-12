@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [São Paulo ainda não tem data para o carnaval de rua](https://www.nexojornal.com.br/extra/2022/04/12/S%C3%A3o-Paulo-ainda-n%C3%A3o-tem-data-para-o-carnaval-de-rua)
-- [As suspeitas na Codevasf, estatal que cresceu com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/04/11/As-suspeitas-na-Codevasf-estatal-que-cresceu-com-Bolsonaro)
-- [Qual a cor da esquerda?](https://www.nexojornal.com.br/ensaio/2022/Qual-a-cor-da-esquerda)
-- [O clã Bolsonaro vai direto para o lixo da história](https://www.nexojornal.com.br/colunistas/2022/O-cl%C3%A3-Bolsonaro-vai-direto-para-o-lixo-da-hist%C3%B3ria)
-- [O que você sabe sobre a história da Petrobras? Faça o teste](https://www.nexojornal.com.br/interativo/2022/04/11/O-que-voc%C3%AA-sabe-sobre-a-hist%C3%B3ria-da-Petrobras-Fa%C3%A7a-o-teste)
+- [Brasil concede 74 vistos humanitários a imigrantes da Ucrânia](https://www.nexojornal.com.br/extra/2022/04/11/Brasil-concede-74-vistos-humanit%C3%A1rios-a-imigrantes-da-Ucr%C3%A2nia)
+- [Garimpo ilegal cresce na terra indígena Yanomami em 2021](https://www.nexojornal.com.br/extra/2022/04/11/Garimpo-ilegal-cresce-na-terra-ind%C3%ADgena-Yanomami-em-2021)
+- [As eleições na França. E a nova união contra a extrema direita](https://www.nexojornal.com.br/expresso/2022/04/11/As-elei%C3%A7%C3%B5es-na-Fran%C3%A7a.-E-a-nova-uni%C3%A3o-contra-a-extrema-direita)
+- [Clube Desportiva demite técnico que agrediu bandeirinha](https://www.nexojornal.com.br/extra/2022/04/11/Clube-Desportiva-demite-t%C3%A9cnico-que-agrediu-bandeirinha)
+- [Acampamento ‘Marielle vive’, do MST, sofre ataques a tiros](https://www.nexojornal.com.br/extra/2022/04/11/Acampamento-%E2%80%98Marielle-vive%E2%80%99-do-MST-sofre-ataques-a-tiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
