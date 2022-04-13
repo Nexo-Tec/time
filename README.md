@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho da Assembleia paulista aprova cassação de Arthur do Val](https://www.nexojornal.com.br/extra/2022/04/12/Conselho-da-Assembleia-paulista-aprova-cassa%C3%A7%C3%A3o-de-Arthur-do-Val)
-- [Quem são os artistas que querem enviar obras à Lua](https://www.nexojornal.com.br/expresso/2022/04/12/Quem-s%C3%A3o-os-artistas-que-querem-enviar-obras-%C3%A0-Lua)
-- [Exército aprovou gasto de R$ 3,5 milhões com próteses penianas](https://www.nexojornal.com.br/extra/2022/04/12/Ex%C3%A9rcito-aprovou-gasto-de-R-35-milh%C3%B5es-com-pr%C3%B3teses-penianas)
-- [PF faz operação contra desmatamento ilegal em Mato Grosso](https://www.nexojornal.com.br/extra/2022/04/12/PF-faz-opera%C3%A7%C3%A3o-contra-desmatamento-ilegal-em-Mato-Grosso)
-- [21 países têm menos de 10% da população vacinada contra covid](https://www.nexojornal.com.br/extra/2022/04/12/21-pa%C3%ADses-t%C3%AAm-menos-de-10-da-popula%C3%A7%C3%A3o-vacinada-contra-covid)
+- [O que é o narcogarimpo. E como ele atinge os indígenas](https://www.nexojornal.com.br/expresso/2022/04/12/O-que-%C3%A9-o-narcogarimpo.-E-como-ele-atinge-os-ind%C3%ADgenas)
+- [Assembleia de acionistas analisa novo comando da Petrobras](https://www.nexojornal.com.br/extra/2022/04/12/Assembleia-de-acionistas-analisa-novo-comando-da-Petrobras)
+- [Como Bolsonaro usa bancos públicos para agradar sua base](https://www.nexojornal.com.br/expresso/2022/04/12/Como-Bolsonaro-usa-bancos-p%C3%BAblicos-para-agradar-sua-base)
+- [Em 2022, a prioridade do Brasil não é a educação](https://www.nexojornal.com.br/colunistas/2022/Em-2022-a-prioridade-do-Brasil-n%C3%A3o-%C3%A9-a-educa%C3%A7%C3%A3o)
+- [O novo mapa da guerra na Ucrânia. E seu rastro de destruição](https://www.nexojornal.com.br/podcast/2022/04/12/O-novo-mapa-da-guerra-na-Ucr%C3%A2nia.-E-seu-rastro-de-destrui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
