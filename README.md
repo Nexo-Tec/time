@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [DesLegado](https://gamarevista.uol.com.br/colunistas/marcello-dantas/deslegado/)
 - [Game Boy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/game-boy/)
 - [Tá conseguindo acompanhar?](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/ta-conseguindo-acompanhar/)
 - [@reidasunhasoficiall](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/reidasunhasoficiall/)
 - [Maria Bopp: “As pessoas me xingam, maltratam e são crueis na internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-bopp-fala-como-a-relacao-com-fas-e-haters-interfere-em-seu-posicionamento-nas-redes/)
-- [Clara Drummond](https://gamarevista.uol.com.br/pessoas/questionario-proust/clara-drummond/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
