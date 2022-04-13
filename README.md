@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o narcogarimpo. E como ele atinge os indígenas](https://www.nexojornal.com.br/expresso/2022/04/12/O-que-%C3%A9-o-narcogarimpo.-E-como-ele-atinge-os-ind%C3%ADgenas)
-- [Assembleia de acionistas analisa novo comando da Petrobras](https://www.nexojornal.com.br/extra/2022/04/12/Assembleia-de-acionistas-analisa-novo-comando-da-Petrobras)
-- [Como Bolsonaro usa bancos públicos para agradar sua base](https://www.nexojornal.com.br/expresso/2022/04/12/Como-Bolsonaro-usa-bancos-p%C3%BAblicos-para-agradar-sua-base)
-- [Em 2022, a prioridade do Brasil não é a educação](https://www.nexojornal.com.br/colunistas/2022/Em-2022-a-prioridade-do-Brasil-n%C3%A3o-%C3%A9-a-educa%C3%A7%C3%A3o)
-- [O novo mapa da guerra na Ucrânia. E seu rastro de destruição](https://www.nexojornal.com.br/podcast/2022/04/12/O-novo-mapa-da-guerra-na-Ucr%C3%A2nia.-E-seu-rastro-de-destrui%C3%A7%C3%A3o)
+- [São Paulo ainda não tem data para o carnaval de rua](https://www.nexojornal.com.br/extra/2022/04/12/S%C3%A3o-Paulo-ainda-n%C3%A3o-tem-data-para-o-carnaval-de-rua)
+- [As suspeitas na Codevasf, estatal que cresceu com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/04/11/As-suspeitas-na-Codevasf-estatal-que-cresceu-com-Bolsonaro)
+- [Qual a cor da esquerda?](https://www.nexojornal.com.br/ensaio/2022/Qual-a-cor-da-esquerda)
+- [O clã Bolsonaro vai direto para o lixo da história](https://www.nexojornal.com.br/colunistas/2022/O-cl%C3%A3-Bolsonaro-vai-direto-para-o-lixo-da-hist%C3%B3ria)
+- [O que você sabe sobre a história da Petrobras? Faça o teste](https://www.nexojornal.com.br/interativo/2022/04/11/O-que-voc%C3%AA-sabe-sobre-a-hist%C3%B3ria-da-Petrobras-Fa%C3%A7a-o-teste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
