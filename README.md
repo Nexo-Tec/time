@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho da Assembleia paulista aprova cassação de Arthur do Val](https://www.nexojornal.com.br/extra/2022/04/12/Conselho-da-Assembleia-paulista-aprova-cassa%C3%A7%C3%A3o-de-Arthur-do-Val)
-- [Quem são os artistas que querem enviar obras à Lua](https://www.nexojornal.com.br/expresso/2022/04/12/Quem-s%C3%A3o-os-artistas-que-querem-enviar-obras-%C3%A0-Lua)
-- [Exército aprovou gasto de R$ 3,5 milhões com próteses penianas](https://www.nexojornal.com.br/extra/2022/04/12/Ex%C3%A9rcito-aprovou-gasto-de-R-35-milh%C3%B5es-com-pr%C3%B3teses-penianas)
-- [PF faz operação contra desmatamento ilegal em Mato Grosso](https://www.nexojornal.com.br/extra/2022/04/12/PF-faz-opera%C3%A7%C3%A3o-contra-desmatamento-ilegal-em-Mato-Grosso)
-- [21 países têm menos de 10% da população vacinada contra covid](https://www.nexojornal.com.br/extra/2022/04/12/21-pa%C3%ADses-t%C3%AAm-menos-de-10-da-popula%C3%A7%C3%A3o-vacinada-contra-covid)
+- [O perfil da presidência da Petrobras desde a quebra do monopólio](https://www.nexojornal.com.br/expresso/2022/04/13/O-perfil-da-presid%C3%AAncia-da-Petrobras-desde-a-quebra-do-monop%C3%B3lio)
+- [RuPaul anuncia ‘All Winners’ apenas com vencedoras do reality](https://www.nexojornal.com.br/extra/2022/04/13/RuPaul-anuncia-%E2%80%98All-Winners%E2%80%99-apenas-com-vencedoras-do-reality)
+- [O estudo que mapeia a percepção do país sobre povos indígenas](https://www.nexojornal.com.br/expresso/2022/04/13/O-estudo-que-mapeia-a-percep%C3%A7%C3%A3o-do-pa%C3%ADs-sobre-povos-ind%C3%ADgenas)
+- [As estratégias da ONU para reformular as políticas de drogas](https://www.nexojornal.com.br/academico/2022/04/13/As-estrat%C3%A9gias-da-ONU-para-reformular-as-pol%C3%ADticas-de-drogas)
+- [O que é fósforo branco. E como ele é usado em guerras](https://www.nexojornal.com.br/expresso/2022/04/13/O-que-%C3%A9-f%C3%B3sforo-branco.-E-como-ele-%C3%A9-usado-em-guerras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
