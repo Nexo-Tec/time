@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE convida União Europeia para observar eleição no Brasil](https://www.nexojornal.com.br/extra/2022/04/13/TSE-convida-Uni%C3%A3o-Europeia-para-observar-elei%C3%A7%C3%A3o-no-Brasil)
-- [O comércio de potássio e sua importância na agricultura brasileira](https://www.nexojornal.com.br/grafico/2022/04/13/O-com%C3%A9rcio-de-pot%C3%A1ssio-e-sua-import%C3%A2ncia-na-agricultura-brasileira)
-- [Líder do União Brasil quer Bivar pré-candidato à Presidência](https://www.nexojornal.com.br/extra/2022/04/13/L%C3%ADder-do-Uni%C3%A3o-Brasil-quer-Bivar-pr%C3%A9-candidato-%C3%A0-Presid%C3%AAncia)
-- [O que é o narcogarimpo. E como ele atinge os indígenas](https://www.nexojornal.com.br/expresso/2022/04/12/O-que-%C3%A9-o-narcogarimpo.-E-como-ele-atinge-os-ind%C3%ADgenas)
-- [Assembleia de acionistas analisa novo comando da Petrobras](https://www.nexojornal.com.br/extra/2022/04/12/Assembleia-de-acionistas-analisa-novo-comando-da-Petrobras)
+- [Conselho da Assembleia paulista aprova cassação de Arthur do Val](https://www.nexojornal.com.br/extra/2022/04/12/Conselho-da-Assembleia-paulista-aprova-cassa%C3%A7%C3%A3o-de-Arthur-do-Val)
+- [Quem são os artistas que querem enviar obras à Lua](https://www.nexojornal.com.br/expresso/2022/04/12/Quem-s%C3%A3o-os-artistas-que-querem-enviar-obras-%C3%A0-Lua)
+- [Exército aprovou gasto de R$ 3,5 milhões com próteses penianas](https://www.nexojornal.com.br/extra/2022/04/12/Ex%C3%A9rcito-aprovou-gasto-de-R-35-milh%C3%B5es-com-pr%C3%B3teses-penianas)
+- [PF faz operação contra desmatamento ilegal em Mato Grosso](https://www.nexojornal.com.br/extra/2022/04/12/PF-faz-opera%C3%A7%C3%A3o-contra-desmatamento-ilegal-em-Mato-Grosso)
+- [21 países têm menos de 10% da população vacinada contra covid](https://www.nexojornal.com.br/extra/2022/04/12/21-pa%C3%ADses-t%C3%AAm-menos-de-10-da-popula%C3%A7%C3%A3o-vacinada-contra-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
