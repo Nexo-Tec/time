@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [São Paulo ainda não tem data para o carnaval de rua](https://www.nexojornal.com.br/extra/2022/04/12/S%C3%A3o-Paulo-ainda-n%C3%A3o-tem-data-para-o-carnaval-de-rua)
-- [As suspeitas na Codevasf, estatal que cresceu com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/04/11/As-suspeitas-na-Codevasf-estatal-que-cresceu-com-Bolsonaro)
-- [Qual a cor da esquerda?](https://www.nexojornal.com.br/ensaio/2022/Qual-a-cor-da-esquerda)
-- [O clã Bolsonaro vai direto para o lixo da história](https://www.nexojornal.com.br/colunistas/2022/O-cl%C3%A3-Bolsonaro-vai-direto-para-o-lixo-da-hist%C3%B3ria)
-- [O que você sabe sobre a história da Petrobras? Faça o teste](https://www.nexojornal.com.br/interativo/2022/04/11/O-que-voc%C3%AA-sabe-sobre-a-hist%C3%B3ria-da-Petrobras-Fa%C3%A7a-o-teste)
+- [Conselho da Assembleia paulista aprova cassação de Arthur do Val](https://www.nexojornal.com.br/extra/2022/04/12/Conselho-da-Assembleia-paulista-aprova-cassa%C3%A7%C3%A3o-de-Arthur-do-Val)
+- [Quem são os artistas que querem enviar obras à Lua](https://www.nexojornal.com.br/expresso/2022/04/12/Quem-s%C3%A3o-os-artistas-que-querem-enviar-obras-%C3%A0-Lua)
+- [Exército aprovou gasto de R$ 3,5 milhões com próteses penianas](https://www.nexojornal.com.br/extra/2022/04/12/Ex%C3%A9rcito-aprovou-gasto-de-R-35-milh%C3%B5es-com-pr%C3%B3teses-penianas)
+- [PF faz operação contra desmatamento ilegal em Mato Grosso](https://www.nexojornal.com.br/extra/2022/04/12/PF-faz-opera%C3%A7%C3%A3o-contra-desmatamento-ilegal-em-Mato-Grosso)
+- [21 países têm menos de 10% da população vacinada contra covid](https://www.nexojornal.com.br/extra/2022/04/12/21-pa%C3%ADses-t%C3%AAm-menos-de-10-da-popula%C3%A7%C3%A3o-vacinada-contra-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
