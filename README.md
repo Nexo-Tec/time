@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Muito além de Dostoiévski: Sete livros russos para ler hoje](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-de-dostoievski-sete-livros-russos-para-ler-hoje/)
 - [A nova temporada da peça Sísifo em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-temporada-da-peca-sisifo-em-sp/)
 - [Crimes em Altamira no podcast “Projeto Humanos”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/crimes-em-altamira-no-podcast-projeto-humanos/)
 - [A sexta e última temporada de “Better Call Saul”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-sexta-e-ultima-temporada-de-better-call-saul/)
 - [O sabor ítalo-americano da cozinha de Stanley Tucci](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-sabor-italo-americano-da-cozinha-de-stanley-tucci/)
-- [Uma retrospectiva de Daido Moriyama no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-retrospectiva-de-daido-moriyama-no-ims/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
