@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ídolo do futebol colombiano, Rincón morre aos 55 anos](https://www.nexojornal.com.br/extra/2022/04/14/%C3%8Ddolo-do-futebol-colombiano-Rinc%C3%B3n-morre-aos-55-anos)
+- [TCU abre processo sobre compra de Viagra nas Forças Armadas](https://www.nexojornal.com.br/extra/2022/04/13/TCU-abre-processo-sobre-compra-de-Viagra-nas-For%C3%A7as-Armadas)
+- [Governo deve dar reajuste de 5% para servidores federais](https://www.nexojornal.com.br/extra/2022/04/13/Governo-deve-dar-reajuste-de-5-para-servidores-federais)
+- [China censura trechos de novo filme de ‘Animais Fantásticos’](https://www.nexojornal.com.br/extra/2022/04/13/China-censura-trechos-de-novo-filme-de-%E2%80%98Animais-Fant%C3%A1sticos%E2%80%99)
 - [O perfil da presidência da Petrobras desde a quebra do monopólio](https://www.nexojornal.com.br/expresso/2022/04/13/O-perfil-da-presid%C3%AAncia-da-Petrobras-desde-a-quebra-do-monop%C3%B3lio)
-- [RuPaul anuncia ‘All Winners’ apenas com vencedoras do reality](https://www.nexojornal.com.br/extra/2022/04/13/RuPaul-anuncia-%E2%80%98All-Winners%E2%80%99-apenas-com-vencedoras-do-reality)
-- [O estudo que mapeia a percepção do país sobre povos indígenas](https://www.nexojornal.com.br/expresso/2022/04/13/O-estudo-que-mapeia-a-percep%C3%A7%C3%A3o-do-pa%C3%ADs-sobre-povos-ind%C3%ADgenas)
-- [As estratégias da ONU para reformular as políticas de drogas](https://www.nexojornal.com.br/academico/2022/04/13/As-estrat%C3%A9gias-da-ONU-para-reformular-as-pol%C3%ADticas-de-drogas)
-- [O que é fósforo branco. E como ele é usado em guerras](https://www.nexojornal.com.br/expresso/2022/04/13/O-que-%C3%A9-f%C3%B3sforo-branco.-E-como-ele-%C3%A9-usado-em-guerras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
