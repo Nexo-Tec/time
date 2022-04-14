@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE convida União Europeia para observar eleição no Brasil](https://www.nexojornal.com.br/extra/2022/04/13/TSE-convida-Uni%C3%A3o-Europeia-para-observar-elei%C3%A7%C3%A3o-no-Brasil)
-- [O comércio de potássio e sua importância na agricultura brasileira](https://www.nexojornal.com.br/grafico/2022/04/13/O-com%C3%A9rcio-de-pot%C3%A1ssio-e-sua-import%C3%A2ncia-na-agricultura-brasileira)
-- [Líder do União Brasil quer Bivar pré-candidato à Presidência](https://www.nexojornal.com.br/extra/2022/04/13/L%C3%ADder-do-Uni%C3%A3o-Brasil-quer-Bivar-pr%C3%A9-candidato-%C3%A0-Presid%C3%AAncia)
-- [O que é o narcogarimpo. E como ele atinge os indígenas](https://www.nexojornal.com.br/expresso/2022/04/12/O-que-%C3%A9-o-narcogarimpo.-E-como-ele-atinge-os-ind%C3%ADgenas)
-- [Assembleia de acionistas analisa novo comando da Petrobras](https://www.nexojornal.com.br/extra/2022/04/12/Assembleia-de-acionistas-analisa-novo-comando-da-Petrobras)
+- [Ídolo do futebol colombiano, Rincón morre aos 55 anos](https://www.nexojornal.com.br/extra/2022/04/14/%C3%8Ddolo-do-futebol-colombiano-Rinc%C3%B3n-morre-aos-55-anos)
+- [TCU abre processo sobre compra de Viagra nas Forças Armadas](https://www.nexojornal.com.br/extra/2022/04/13/TCU-abre-processo-sobre-compra-de-Viagra-nas-For%C3%A7as-Armadas)
+- [Governo deve dar reajuste de 5% para servidores federais](https://www.nexojornal.com.br/extra/2022/04/13/Governo-deve-dar-reajuste-de-5-para-servidores-federais)
+- [China censura trechos de novo filme de ‘Animais Fantásticos’](https://www.nexojornal.com.br/extra/2022/04/13/China-censura-trechos-de-novo-filme-de-%E2%80%98Animais-Fant%C3%A1sticos%E2%80%99)
+- [O perfil da presidência da Petrobras desde a quebra do monopólio](https://www.nexojornal.com.br/expresso/2022/04/13/O-perfil-da-presid%C3%AAncia-da-Petrobras-desde-a-quebra-do-monop%C3%B3lio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
