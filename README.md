@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais partidos ainda são uma incógnita na disputa presidencial](https://www.nexojornal.com.br/expresso/2022/04/15/Quais-partidos-ainda-s%C3%A3o-uma-inc%C3%B3gnita-na-disputa-presidencial)
-- [Novo presidente da Petrobras defende atual política de preços](https://www.nexojornal.com.br/extra/2022/04/14/Novo-presidente-da-Petrobras-defende-atual-pol%C3%ADtica-de-pre%C3%A7os)
-- [Governo derruba sigilo sobre idas de pastores do MEC ao Planalto](https://www.nexojornal.com.br/extra/2022/04/14/Governo-derruba-sigilo-sobre-idas-de-pastores-do-MEC-ao-Planalto)
 - [Com resultados tão diferentes, em qual pesquisa acreditar?](https://www.nexojornal.com.br/podcast/2022/04/14/Com-resultados-t%C3%A3o-diferentes-em-qual-pesquisa-acreditar)
 - [‘A chama’: reminiscências da obra de Leonard Cohen](https://www.nexojornal.com.br/estante/trechos/2022/04/14/%E2%80%98A-chama%E2%80%99-reminisc%C3%AAncias-da-obra-de-Leonard-Cohen)
+- [A origem indígena dos nomes dos municípios brasileiros](https://www.nexojornal.com.br/grafico/2022/04/14/A-origem-ind%C3%ADgena-dos-nomes-dos-munic%C3%ADpios-brasileiros)
+- [Um robô cão-guia para cegos](https://www.nexojornal.com.br/externo/2022/04/14/Um-rob%C3%B4-c%C3%A3o-guia-para-cegos)
+- [Desinformação numérica: até os números podem mentir](https://www.nexojornal.com.br/colunistas/2022/Desinforma%C3%A7%C3%A3o-num%C3%A9rica-at%C3%A9-os-n%C3%BAmeros-podem-mentir)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
