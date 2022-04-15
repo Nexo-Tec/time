@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com resultados tão diferentes, em qual pesquisa acreditar?](https://www.nexojornal.com.br/podcast/2022/04/14/Com-resultados-t%C3%A3o-diferentes-em-qual-pesquisa-acreditar)
 - [‘A chama’: reminiscências da obra de Leonard Cohen](https://www.nexojornal.com.br/estante/trechos/2022/04/14/%E2%80%98A-chama%E2%80%99-reminisc%C3%AAncias-da-obra-de-Leonard-Cohen)
 - [A origem indígena dos nomes dos municípios brasileiros](https://www.nexojornal.com.br/grafico/2022/04/14/A-origem-ind%C3%ADgena-dos-nomes-dos-munic%C3%ADpios-brasileiros)
 - [Um robô cão-guia para cegos](https://www.nexojornal.com.br/externo/2022/04/14/Um-rob%C3%B4-c%C3%A3o-guia-para-cegos)
 - [Desinformação numérica: até os números podem mentir](https://www.nexojornal.com.br/colunistas/2022/Desinforma%C3%A7%C3%A3o-num%C3%A9rica-at%C3%A9-os-n%C3%BAmeros-podem-mentir)
-- [União Brasil lança pré-candidatura presidencial de Bivar](https://www.nexojornal.com.br/extra/2022/04/14/Uni%C3%A3o-Brasil-lan%C3%A7a-pr%C3%A9-candidatura-presidencial-de-Bivar1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
