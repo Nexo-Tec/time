@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jornalista da TV Globo é esfaqueado em Brasília](https://www.nexojornal.com.br/extra/2022/04/15/Jornalista-da-TV-Globo-%C3%A9-esfaqueado-em-Bras%C3%ADlia)
-- [Em SP, motociata de Bolsonaro cobra ingresso em ‘área vip’](https://www.nexojornal.com.br/extra/2022/04/15/Em-SP-motociata-de-Bolsonaro-cobra-ingresso-em-%E2%80%98%C3%A1rea-vip%E2%80%99)
 - [Quais partidos ainda são uma incógnita na disputa presidencial](https://www.nexojornal.com.br/expresso/2022/04/15/Quais-partidos-ainda-s%C3%A3o-uma-inc%C3%B3gnita-na-disputa-presidencial)
 - [Novo presidente da Petrobras defende atual política de preços](https://www.nexojornal.com.br/extra/2022/04/14/Novo-presidente-da-Petrobras-defende-atual-pol%C3%ADtica-de-pre%C3%A7os)
 - [Governo derruba sigilo sobre idas de pastores do MEC ao Planalto](https://www.nexojornal.com.br/extra/2022/04/14/Governo-derruba-sigilo-sobre-idas-de-pastores-do-MEC-ao-Planalto)
+- [Com resultados tão diferentes, em qual pesquisa acreditar?](https://www.nexojornal.com.br/podcast/2022/04/14/Com-resultados-t%C3%A3o-diferentes-em-qual-pesquisa-acreditar)
+- [‘A chama’: reminiscências da obra de Leonard Cohen](https://www.nexojornal.com.br/estante/trechos/2022/04/14/%E2%80%98A-chama%E2%80%99-reminisc%C3%AAncias-da-obra-de-Leonard-Cohen)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
