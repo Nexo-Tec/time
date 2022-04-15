@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com resultados tão diferentes, em qual pesquisa acreditar?](https://www.nexojornal.com.br/podcast/2022/04/14/Com-resultados-t%C3%A3o-diferentes-em-qual-pesquisa-acreditar)
-- [‘A chama’: reminiscências da obra de Leonard Cohen](https://www.nexojornal.com.br/estante/trechos/2022/04/14/%E2%80%98A-chama%E2%80%99-reminisc%C3%AAncias-da-obra-de-Leonard-Cohen)
-- [A origem indígena dos nomes dos municípios brasileiros](https://www.nexojornal.com.br/grafico/2022/04/14/A-origem-ind%C3%ADgena-dos-nomes-dos-munic%C3%ADpios-brasileiros)
-- [Um robô cão-guia para cegos](https://www.nexojornal.com.br/externo/2022/04/14/Um-rob%C3%B4-c%C3%A3o-guia-para-cegos)
-- [Desinformação numérica: até os números podem mentir](https://www.nexojornal.com.br/colunistas/2022/Desinforma%C3%A7%C3%A3o-num%C3%A9rica-at%C3%A9-os-n%C3%BAmeros-podem-mentir)
+- [Ídolo do futebol colombiano, Rincón morre aos 55 anos](https://www.nexojornal.com.br/extra/2022/04/14/%C3%8Ddolo-do-futebol-colombiano-Rinc%C3%B3n-morre-aos-55-anos)
+- [TCU abre processo sobre compra de Viagra nas Forças Armadas](https://www.nexojornal.com.br/extra/2022/04/13/TCU-abre-processo-sobre-compra-de-Viagra-nas-For%C3%A7as-Armadas)
+- [Governo deve dar reajuste de 5% para servidores federais](https://www.nexojornal.com.br/extra/2022/04/13/Governo-deve-dar-reajuste-de-5-para-servidores-federais)
+- [China censura trechos de novo filme de ‘Animais Fantásticos’](https://www.nexojornal.com.br/extra/2022/04/13/China-censura-trechos-de-novo-filme-de-%E2%80%98Animais-Fant%C3%A1sticos%E2%80%99)
+- [O perfil da presidência da Petrobras desde a quebra do monopólio](https://www.nexojornal.com.br/expresso/2022/04/13/O-perfil-da-presid%C3%AAncia-da-Petrobras-desde-a-quebra-do-monop%C3%B3lio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
