@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Escravidão na Poesia Brasileira](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-escravidao-na-poesia-brasileira/)
 - [Organize sua vida financeira](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/organize-sua-vida-financeira/)
 - [Muito além de Dostoiévski: Sete livros russos para ler hoje](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-de-dostoievski-sete-livros-russos-para-ler-hoje/)
 - [A nova temporada da peça Sísifo em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-temporada-da-peca-sisifo-em-sp/)
 - [Crimes em Altamira no podcast “Projeto Humanos”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/crimes-em-altamira-no-podcast-projeto-humanos/)
-- [A sexta e última temporada de “Better Call Saul”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-sexta-e-ultima-temporada-de-better-call-saul/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
