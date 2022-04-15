@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O perfil da presidência da Petrobras desde a quebra do monopólio](https://www.nexojornal.com.br/expresso/2022/04/13/O-perfil-da-presid%C3%AAncia-da-Petrobras-desde-a-quebra-do-monop%C3%B3lio)
-- [RuPaul anuncia ‘All Winners’ apenas com vencedoras do reality](https://www.nexojornal.com.br/extra/2022/04/13/RuPaul-anuncia-%E2%80%98All-Winners%E2%80%99-apenas-com-vencedoras-do-reality)
-- [O estudo que mapeia a percepção do país sobre povos indígenas](https://www.nexojornal.com.br/expresso/2022/04/13/O-estudo-que-mapeia-a-percep%C3%A7%C3%A3o-do-pa%C3%ADs-sobre-povos-ind%C3%ADgenas)
-- [As estratégias da ONU para reformular as políticas de drogas](https://www.nexojornal.com.br/academico/2022/04/13/As-estrat%C3%A9gias-da-ONU-para-reformular-as-pol%C3%ADticas-de-drogas)
-- [O que é fósforo branco. E como ele é usado em guerras](https://www.nexojornal.com.br/expresso/2022/04/13/O-que-%C3%A9-f%C3%B3sforo-branco.-E-como-ele-%C3%A9-usado-em-guerras)
+- [‘A chama’: reminiscências da obra de Leonard Cohen](https://www.nexojornal.com.br/estante/trechos/2022/04/14/%E2%80%98A-chama%E2%80%99-reminisc%C3%AAncias-da-obra-de-Leonard-Cohen)
+- [A origem indígena dos nomes dos municípios brasileiros](https://www.nexojornal.com.br/grafico/2022/04/14/A-origem-ind%C3%ADgena-dos-nomes-dos-munic%C3%ADpios-brasileiros)
+- [Um robô cão-guia para cegos](https://www.nexojornal.com.br/externo/2022/04/14/Um-rob%C3%B4-c%C3%A3o-guia-para-cegos)
+- [Desinformação numérica: até os números podem mentir](https://www.nexojornal.com.br/colunistas/2022/Desinforma%C3%A7%C3%A3o-num%C3%A9rica-at%C3%A9-os-n%C3%BAmeros-podem-mentir)
+- [União Brasil lança pré-candidatura presidencial de Bivar](https://www.nexojornal.com.br/extra/2022/04/14/Uni%C3%A3o-Brasil-lan%C3%A7a-pr%C3%A9-candidatura-presidencial-de-Bivar1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
