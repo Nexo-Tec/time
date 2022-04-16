@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre Newton Cruz, chefe de serviço de investigação da ditadura](https://www.nexojornal.com.br/extra/2022/04/16/Morre-Newton-Cruz-chefe-de-servi%C3%A7o-de-investiga%C3%A7%C3%A3o-da-ditadura)
 - [Por que os olhos de gatos e cachorros e brilham no escuro](https://www.nexojornal.com.br/externo/2022/04/16/Por-que-os-olhos-de-gatos-e-cachorros-e-brilham-no-escuro)
 - [Vladimir Putin proíbe Boris Johnson de entrar na Rússia](https://www.nexojornal.com.br/extra/2022/04/16/Vladimir-Putin-pro%C3%ADbe-Boris-Johnson-de-entrar-na-R%C3%BAssia)
 - [Sucesso internacional, Anitta leva funk ao palco do Coachella](https://www.nexojornal.com.br/extra/2022/04/16/Sucesso-internacional-Anitta-leva-funk-ao-palco-do-Coachella)
 - [2 novas subvariantes da ômicron são detectadas em Nova York](https://www.nexojornal.com.br/extra/2022/04/15/2-novas-subvariantes-da-%C3%B4micron-s%C3%A3o-detectadas-em-Nova-York)
-- [TV mostra que Silveira violou restrições ao participar de festa](https://www.nexojornal.com.br/extra/2022/04/15/TV-mostra-que-Silveira-violou-restri%C3%A7%C3%B5es-ao-participar-de-festa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
