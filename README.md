@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jornalista da TV Globo é esfaqueado em Brasília](https://www.nexojornal.com.br/extra/2022/04/15/Jornalista-da-TV-Globo-%C3%A9-esfaqueado-em-Bras%C3%ADlia)
-- [Em SP, motociata de Bolsonaro cobra ingresso em ‘área vip’](https://www.nexojornal.com.br/extra/2022/04/15/Em-SP-motociata-de-Bolsonaro-cobra-ingresso-em-%E2%80%98%C3%A1rea-vip%E2%80%99)
-- [Quais partidos ainda são uma incógnita na disputa presidencial](https://www.nexojornal.com.br/expresso/2022/04/15/Quais-partidos-ainda-s%C3%A3o-uma-inc%C3%B3gnita-na-disputa-presidencial)
-- [Novo presidente da Petrobras defende atual política de preços](https://www.nexojornal.com.br/extra/2022/04/14/Novo-presidente-da-Petrobras-defende-atual-pol%C3%ADtica-de-pre%C3%A7os)
-- [Governo derruba sigilo sobre idas de pastores do MEC ao Planalto](https://www.nexojornal.com.br/extra/2022/04/14/Governo-derruba-sigilo-sobre-idas-de-pastores-do-MEC-ao-Planalto)
+- [Por que os olhos de gatos e cachorros e brilham no escuro](https://www.nexojornal.com.br/externo/2022/04/16/Por-que-os-olhos-de-gatos-e-cachorros-e-brilham-no-escuro)
+- [Vladimir Putin proíbe Boris Johnson de entrar na Rússia](https://www.nexojornal.com.br/extra/2022/04/16/Vladimir-Putin-pro%C3%ADbe-Boris-Johnson-de-entrar-na-R%C3%BAssia)
+- [Sucesso internacional, Anitta leva funk ao palco do Coachella](https://www.nexojornal.com.br/extra/2022/04/16/Sucesso-internacional-Anitta-leva-funk-ao-palco-do-Coachella)
+- [2 novas subvariantes da ômicron são detectadas em Nova York](https://www.nexojornal.com.br/extra/2022/04/15/2-novas-subvariantes-da-%C3%B4micron-s%C3%A3o-detectadas-em-Nova-York)
+- [TV mostra que Silveira violou restrições ao participar de festa](https://www.nexojornal.com.br/extra/2022/04/15/TV-mostra-que-Silveira-violou-restri%C3%A7%C3%B5es-ao-participar-de-festa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
