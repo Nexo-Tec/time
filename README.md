@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como governos latino-americanos tributaram para reduzir desigualdades, a depender de sua coalizão](https://pp.nexojornal.com.br/academico/2022/Como-governos-latino-americanos-tributaram-para-reduzir-desigualdades-a-depender-de-sua-coaliz%C3%A3o)
-- [Bibliografia básica sobre ações afirmativas no ensino superior brasileiro](https://pp.nexojornal.com.br/opiniao/2022/Bibliografia-b%C3%A1sica-sobre-a%C3%A7%C3%B5es-afirmativas-no-ensino-superior-brasileiro)
-- [Terras de fartura, terras de ambição: políticas e éticas nas lutas no campo](https://pp.nexojornal.com.br/opiniao/2022/Terras-de-fartura-terras-de-ambi%C3%A7%C3%A3o-pol%C3%ADticas-e-%C3%A9ticas-nas-lutas-no-campo)
 - [Cinco possíveis caminhos para se limitar o aquecimento global a menos de 2ºC](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Cinco-poss%C3%ADveis-caminhos-para-se-limitar-o-aquecimento-global-a-menos-de-2%C2%BAC)
 - [Reparação histórica de Lamarck: um novo olhar para a evolução](https://pp.nexojornal.com.br/opiniao/2022/Repara%C3%A7%C3%A3o-hist%C3%B3rica-de-Lamarck-um-novo-olhar-para-a-evolu%C3%A7%C3%A3o)
+- [Mobilidade social no Brasil: da ascensão ao descenso sócio-ocupacional em 5 anos](https://pp.nexojornal.com.br/ponto-de-vista/2022/Mobilidade-social-no-Brasil-da-ascens%C3%A3o-ao-descenso-s%C3%B3cio-ocupacional-em-5-anos)
+- [Como programas de aprendizagem podem contribuir para o ingresso de jovens no ensino superior](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-programas-de-aprendizagem-podem-contribuir-para-o-ingresso-de-jovens-no-ensino-superior)
+- [Escola como lugar de perpetuação ou combate ao racismo?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escola-como-lugar-de-perpetua%C3%A7%C3%A3o-ou-combate-ao-racismo)
 <!-- PP_LIST:END -->
 
