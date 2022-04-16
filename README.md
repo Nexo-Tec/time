@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [2 novas subvariantes da ômicron são detectadas em Nova York](https://www.nexojornal.com.br/extra/2022/04/15/2-novas-subvariantes-da-%C3%B4micron-s%C3%A3o-detectadas-em-Nova-York)
-- [TV mostra que Silveira violou restrições ao participar de festa](https://www.nexojornal.com.br/extra/2022/04/15/TV-mostra-que-Silveira-violou-restri%C3%A7%C3%B5es-ao-participar-de-festa)
-- [O site que mostra a internet de uma década atrás](https://www.nexojornal.com.br/expresso/2022/04/15/O-site-que-mostra-a-internet-de-uma-d%C3%A9cada-atr%C3%A1s)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/15/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Quem ganhou e quem perdeu com a reforma trabalhista](https://www.nexojornal.com.br/colunistas/2022/Quem-ganhou-e-quem-perdeu-com-a-reforma-trabalhista)
+- [Jornalista da TV Globo é esfaqueado em Brasília](https://www.nexojornal.com.br/extra/2022/04/15/Jornalista-da-TV-Globo-%C3%A9-esfaqueado-em-Bras%C3%ADlia)
+- [Em SP, motociata de Bolsonaro cobra ingresso em ‘área vip’](https://www.nexojornal.com.br/extra/2022/04/15/Em-SP-motociata-de-Bolsonaro-cobra-ingresso-em-%E2%80%98%C3%A1rea-vip%E2%80%99)
+- [Quais partidos ainda são uma incógnita na disputa presidencial](https://www.nexojornal.com.br/expresso/2022/04/15/Quais-partidos-ainda-s%C3%A3o-uma-inc%C3%B3gnita-na-disputa-presidencial)
+- [Novo presidente da Petrobras defende atual política de preços](https://www.nexojornal.com.br/extra/2022/04/14/Novo-presidente-da-Petrobras-defende-atual-pol%C3%ADtica-de-pre%C3%A7os)
+- [Governo derruba sigilo sobre idas de pastores do MEC ao Planalto](https://www.nexojornal.com.br/extra/2022/04/14/Governo-derruba-sigilo-sobre-idas-de-pastores-do-MEC-ao-Planalto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
