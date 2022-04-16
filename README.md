@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Rita Comparato](https://gamarevista.uol.com.br/pessoas/questionario-proust/rita-comparato/)
 - [Por que o sabor Nutella e leite ninho venceu?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/nutella-com-leite-ninho-ovo-de-pascoa-docaria-brasileira/)
 - [A Escravidão na Poesia Brasileira](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-escravidao-na-poesia-brasileira/)
 - [Organize sua vida financeira](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/organize-sua-vida-financeira/)
 - [Muito além de Dostoiévski: Sete livros russos para ler hoje](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-de-dostoievski-sete-livros-russos-para-ler-hoje/)
-- [A nova temporada da peça Sísifo em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-temporada-da-peca-sisifo-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
