@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Quero expressar a sexualidade da mulher negra da forma que eu desejo”](https://gamarevista.uol.com.br/podcast/monique-dos-anjos-fala-sobre-a-sexualidade-da-mulher-negra/)
 - [Rita Comparato](https://gamarevista.uol.com.br/pessoas/questionario-proust/rita-comparato/)
 - [Por que o sabor Nutella e leite ninho venceu?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/nutella-com-leite-ninho-ovo-de-pascoa-docaria-brasileira/)
 - [A Escravidão na Poesia Brasileira](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-escravidao-na-poesia-brasileira/)
 - [Organize sua vida financeira](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/organize-sua-vida-financeira/)
-- [Muito além de Dostoiévski: Sete livros russos para ler hoje](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/muito-alem-de-dostoievski-sete-livros-russos-para-ler-hoje/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
