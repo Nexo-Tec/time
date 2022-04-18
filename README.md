@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o jovem aprendiz beneficia empresas e sociedade](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-jovem-aprendiz-beneficia-empresas-e-sociedade)
-- [O que é o efeito incumbência. E como Bolsonaro joga com ele](https://www.nexojornal.com.br/expresso/2022/04/17/O-que-%C3%A9-o-efeito-incumb%C3%AAncia.-E-como-Bolsonaro-joga-com-ele)
-- [Como o caso Daniel Silveira testa o radicalismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/04/17/Como-o-caso-Daniel-Silveira-testa-o-radicalismo-bolsonarista)
-- [Em áudios inéditos, ministros admitem tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/17/Em-%C3%A1udios-in%C3%A9ditos-ministros-admitem-tortura-na-ditadura)
-- [Queiroga anuncia fim da emergência de saúde pela covid-19](https://www.nexojornal.com.br/extra/2022/04/17/Queiroga-anuncia-fim-da-emerg%C3%AAncia-de-sa%C3%BAde-pela-covid-19)
+- [PM aborda padre Júlio Lancellotti em via-sacra em São Paulo](https://www.nexojornal.com.br/extra/2022/04/17/PM-aborda-padre-J%C3%BAlio-Lancellotti-em-via-sacra-em-S%C3%A3o-Paulo)
+- [‘Cruel e sem sentido’: papa critica guerra em missa de Páscoa](https://www.nexojornal.com.br/extra/2022/04/17/%E2%80%98Cruel-e-sem-sentido%E2%80%99-papa-critica-guerra-em-missa-de-P%C3%A1scoa)
+- [5 livros sobre as relações raciais e a população negra](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-rela%C3%A7%C3%B5es-raciais-e-a-popula%C3%A7%C3%A3o-negra)
+- [O fracasso da esquerda tradicional da França, segundo este autor](https://www.nexojornal.com.br/entrevista/2022/04/16/O-fracasso-da-esquerda-tradicional-da-Fran%C3%A7a-segundo-este-autor)
+- [A produção agrícola orgânica e o estímulo à conexão de redes](https://www.nexojornal.com.br/ensaio/2022/A-produ%C3%A7%C3%A3o-agr%C3%ADcola-org%C3%A2nica-e-o-est%C3%ADmulo-%C3%A0-conex%C3%A3o-de-redes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
