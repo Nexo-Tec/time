@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PM aborda padre Júlio Lancellotti em via-sacra em São Paulo](https://www.nexojornal.com.br/extra/2022/04/17/PM-aborda-padre-J%C3%BAlio-Lancellotti-em-via-sacra-em-S%C3%A3o-Paulo)
-- [‘Cruel e sem sentido’: papa critica guerra em missa de Páscoa](https://www.nexojornal.com.br/extra/2022/04/17/%E2%80%98Cruel-e-sem-sentido%E2%80%99-papa-critica-guerra-em-missa-de-P%C3%A1scoa)
-- [5 livros sobre as relações raciais e a população negra](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-rela%C3%A7%C3%B5es-raciais-e-a-popula%C3%A7%C3%A3o-negra)
-- [O fracasso da esquerda tradicional da França, segundo este autor](https://www.nexojornal.com.br/entrevista/2022/04/16/O-fracasso-da-esquerda-tradicional-da-Fran%C3%A7a-segundo-este-autor)
-- [A produção agrícola orgânica e o estímulo à conexão de redes](https://www.nexojornal.com.br/ensaio/2022/A-produ%C3%A7%C3%A3o-agr%C3%ADcola-org%C3%A2nica-e-o-est%C3%ADmulo-%C3%A0-conex%C3%A3o-de-redes)
+- [+ Milionária: governo autoriza lançamento de nova loteria](https://www.nexojornal.com.br/extra/2022/04/18/Milion%C3%A1ria-governo-autoriza-lan%C3%A7amento-de-nova-loteria)
+- [O panorama econômico da França às portas do segundo turno](https://www.nexojornal.com.br/expresso/2022/04/18/O-panorama-econ%C3%B4mico-da-Fran%C3%A7a-%C3%A0s-portas-do-segundo-turno)
+- [Mourão ri de possível investigação de tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/18/Mour%C3%A3o-ri-de-poss%C3%ADvel-investiga%C3%A7%C3%A3o-de-tortura-na-ditadura)
+- [Bolsonaro oficializa Victor Godoy como ministro da Educação](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-oficializa-Victor-Godoy-como-ministro-da-Educa%C3%A7%C3%A3o)
+- [Cidade do Paraná tem noite de medo com ação de assaltantes](https://www.nexojornal.com.br/extra/2022/04/18/Cidade-do-Paran%C3%A1-tem-noite-de-medo-com-a%C3%A7%C3%A3o-de-assaltantes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
