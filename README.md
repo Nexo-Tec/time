@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [+ Milionária: governo autoriza lançamento de nova loteria](https://www.nexojornal.com.br/extra/2022/04/18/Milion%C3%A1ria-governo-autoriza-lan%C3%A7amento-de-nova-loteria)
-- [O panorama econômico da França às portas do segundo turno](https://www.nexojornal.com.br/expresso/2022/04/18/O-panorama-econ%C3%B4mico-da-Fran%C3%A7a-%C3%A0s-portas-do-segundo-turno)
-- [Mourão ri de possível investigação de tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/18/Mour%C3%A3o-ri-de-poss%C3%ADvel-investiga%C3%A7%C3%A3o-de-tortura-na-ditadura)
-- [Bolsonaro oficializa Victor Godoy como ministro da Educação](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-oficializa-Victor-Godoy-como-ministro-da-Educa%C3%A7%C3%A3o)
-- [Cidade do Paraná tem noite de medo com ação de assaltantes](https://www.nexojornal.com.br/extra/2022/04/18/Cidade-do-Paran%C3%A1-tem-noite-de-medo-com-a%C3%A7%C3%A3o-de-assaltantes)
+- [Médicos pelo Brasil faz primeiras contratações após 3 anos](https://www.nexojornal.com.br/extra/2022/04/18/M%C3%A9dicos-pelo-Brasil-faz-primeiras-contrata%C3%A7%C3%B5es-ap%C3%B3s-3-anos)
+- [Inflação no Brasil: o que mais subiu de preço desde 2020](https://www.nexojornal.com.br/grafico/2022/04/18/Infla%C3%A7%C3%A3o-no-Brasil-o-que-mais-subiu-de-pre%C3%A7o-desde-2020)
+- [Nomes e ideias: quais os planos indígenas nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/04/18/Nomes-e-ideias-quais-os-planos-ind%C3%ADgenas-nas-elei%C3%A7%C3%B5es-de-2022)
+- [A história e suas memórias incômodas de violência](https://www.nexojornal.com.br/colunistas/2022/A-hist%C3%B3ria-e-suas-mem%C3%B3rias-inc%C3%B4modas-de-viol%C3%AAncia)
+- [Bolsonaro desafia Alexandre de Moraes e volta a criticar TSE](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-desafia-Alexandre-de-Moraes-e-volta-a-criticar-TSE)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
