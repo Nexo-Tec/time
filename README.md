@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lapiseira Pentel Sharp P200](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lapiseira-pentel-sharp-p200/)
 - [O eco que eu buscava](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-eco-que-eu-buscava/)
 - [@midiaindiaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/midiaindiaoficial/)
 - [“Quero expressar a sexualidade da mulher negra da forma que eu desejo”](https://gamarevista.uol.com.br/podcast/monique-dos-anjos-fala-sobre-a-sexualidade-da-mulher-negra/)
 - [Rita Comparato](https://gamarevista.uol.com.br/pessoas/questionario-proust/rita-comparato/)
-- [Por que o sabor Nutella e leite ninho venceu?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/nutella-com-leite-ninho-ovo-de-pascoa-docaria-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
