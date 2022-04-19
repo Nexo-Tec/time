@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [+ Milionária: governo autoriza lançamento de nova loteria](https://www.nexojornal.com.br/extra/2022/04/18/Milion%C3%A1ria-governo-autoriza-lan%C3%A7amento-de-nova-loteria)
-- [O panorama econômico da França às portas do segundo turno](https://www.nexojornal.com.br/expresso/2022/04/18/O-panorama-econ%C3%B4mico-da-Fran%C3%A7a-%C3%A0s-portas-do-segundo-turno)
-- [Mourão ri de possível investigação de tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/18/Mour%C3%A3o-ri-de-poss%C3%ADvel-investiga%C3%A7%C3%A3o-de-tortura-na-ditadura)
-- [Bolsonaro oficializa Victor Godoy como ministro da Educação](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-oficializa-Victor-Godoy-como-ministro-da-Educa%C3%A7%C3%A3o)
-- [Cidade do Paraná tem noite de medo com ação de assaltantes](https://www.nexojornal.com.br/extra/2022/04/18/Cidade-do-Paran%C3%A1-tem-noite-de-medo-com-a%C3%A7%C3%A3o-de-assaltantes)
+- [Doleira Nelma Kodama é presa em operação contra tráfico](https://www.nexojornal.com.br/extra/2022/04/19/Doleira-Nelma-Kodama-%C3%A9-presa-em-opera%C3%A7%C3%A3o-contra-tr%C3%A1fico)
+- [Por que o Twitter está em pé de guerra desde antes de Musk](https://www.nexojornal.com.br/expresso/2022/04/19/Por-que-o-Twitter-est%C3%A1-em-p%C3%A9-de-guerra-desde-antes-de-Musk)
+- [Preço médio do botijão de gás passa de R$ 130 em alguns estados](https://www.nexojornal.com.br/extra/2022/04/19/Pre%C3%A7o-m%C3%A9dio-do-botij%C3%A3o-de-g%C3%A1s-passa-de-R-130-em-alguns-estados)
+- [Qual a ‘próxima fase’ da ofensiva russa, segundo Moscou](https://www.nexojornal.com.br/expresso/2022/04/19/Qual-a-%E2%80%98pr%C3%B3xima-fase%E2%80%99-da-ofensiva-russa-segundo-Moscou)
+- [FMI prevê crescimento de 0,8% da economia brasileira em 2022](https://www.nexojornal.com.br/extra/2022/04/19/FMI-prev%C3%AA-crescimento-de-08-da-economia-brasileira-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
