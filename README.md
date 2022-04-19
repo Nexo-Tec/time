@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [+ Milionária: governo autoriza lançamento de nova loteria](https://www.nexojornal.com.br/extra/2022/04/18/Milion%C3%A1ria-governo-autoriza-lan%C3%A7amento-de-nova-loteria)
-- [O panorama econômico da França às portas do segundo turno](https://www.nexojornal.com.br/expresso/2022/04/18/O-panorama-econ%C3%B4mico-da-Fran%C3%A7a-%C3%A0s-portas-do-segundo-turno)
-- [Mourão ri de possível investigação de tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/18/Mour%C3%A3o-ri-de-poss%C3%ADvel-investiga%C3%A7%C3%A3o-de-tortura-na-ditadura)
-- [Bolsonaro oficializa Victor Godoy como ministro da Educação](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-oficializa-Victor-Godoy-como-ministro-da-Educa%C3%A7%C3%A3o)
-- [Cidade do Paraná tem noite de medo com ação de assaltantes](https://www.nexojornal.com.br/extra/2022/04/18/Cidade-do-Paran%C3%A1-tem-noite-de-medo-com-a%C3%A7%C3%A3o-de-assaltantes)
+- [Por que o jovem aprendiz beneficia empresas e sociedade](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-jovem-aprendiz-beneficia-empresas-e-sociedade)
+- [O que é o efeito incumbência. E como Bolsonaro joga com ele](https://www.nexojornal.com.br/expresso/2022/04/17/O-que-%C3%A9-o-efeito-incumb%C3%AAncia.-E-como-Bolsonaro-joga-com-ele)
+- [Como o caso Daniel Silveira testa o radicalismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/04/17/Como-o-caso-Daniel-Silveira-testa-o-radicalismo-bolsonarista)
+- [Em áudios inéditos, ministros admitem tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/17/Em-%C3%A1udios-in%C3%A9ditos-ministros-admitem-tortura-na-ditadura)
+- [Queiroga anuncia fim da emergência de saúde pela covid-19](https://www.nexojornal.com.br/extra/2022/04/17/Queiroga-anuncia-fim-da-emerg%C3%AAncia-de-sa%C3%BAde-pela-covid-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
