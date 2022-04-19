@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o jovem aprendiz beneficia empresas e sociedade](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-jovem-aprendiz-beneficia-empresas-e-sociedade)
-- [O que é o efeito incumbência. E como Bolsonaro joga com ele](https://www.nexojornal.com.br/expresso/2022/04/17/O-que-%C3%A9-o-efeito-incumb%C3%AAncia.-E-como-Bolsonaro-joga-com-ele)
-- [Como o caso Daniel Silveira testa o radicalismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/04/17/Como-o-caso-Daniel-Silveira-testa-o-radicalismo-bolsonarista)
-- [Em áudios inéditos, ministros admitem tortura na ditadura](https://www.nexojornal.com.br/extra/2022/04/17/Em-%C3%A1udios-in%C3%A9ditos-ministros-admitem-tortura-na-ditadura)
-- [Queiroga anuncia fim da emergência de saúde pela covid-19](https://www.nexojornal.com.br/extra/2022/04/17/Queiroga-anuncia-fim-da-emerg%C3%AAncia-de-sa%C3%BAde-pela-covid-19)
+- [Médicos pelo Brasil faz primeiras contratações após 3 anos](https://www.nexojornal.com.br/extra/2022/04/18/M%C3%A9dicos-pelo-Brasil-faz-primeiras-contrata%C3%A7%C3%B5es-ap%C3%B3s-3-anos)
+- [Inflação no Brasil: o que mais subiu de preço desde 2020](https://www.nexojornal.com.br/grafico/2022/04/18/Infla%C3%A7%C3%A3o-no-Brasil-o-que-mais-subiu-de-pre%C3%A7o-desde-2020)
+- [Nomes e ideias: quais os planos indígenas nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/04/18/Nomes-e-ideias-quais-os-planos-ind%C3%ADgenas-nas-elei%C3%A7%C3%B5es-de-2022)
+- [A história e suas memórias incômodas de violência](https://www.nexojornal.com.br/colunistas/2022/A-hist%C3%B3ria-e-suas-mem%C3%B3rias-inc%C3%B4modas-de-viol%C3%AAncia)
+- [Bolsonaro desafia Alexandre de Moraes e volta a criticar TSE](https://www.nexojornal.com.br/extra/2022/04/18/Bolsonaro-desafia-Alexandre-de-Moraes-e-volta-a-criticar-TSE)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
