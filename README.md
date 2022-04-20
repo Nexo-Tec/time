@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o fracasso no combate à pandemia deve pesar na eleição](https://www.nexojornal.com.br/expresso/2022/04/19/Como-o-fracasso-no-combate-%C3%A0-pandemia-deve-pesar-na-elei%C3%A7%C3%A3o)
-- [Saque de R$ 1.000 do FGTS começa nesta quarta. Veja como fazer](https://www.nexojornal.com.br/extra/2022/04/19/Saque-de-R-1.000-do-FGTS-come%C3%A7a-nesta-quarta.-Veja-como-fazer)
-- [O que faz do Brasil um dos países com pior perspectiva para 2022](https://www.nexojornal.com.br/expresso/2022/04/19/O-que-faz-do-Brasil-um-dos-pa%C3%ADses-com-pior-perspectiva-para-2022)
-- [Netflix perde assinantes pela primeira vez em uma década](https://www.nexojornal.com.br/extra/2022/04/19/Netflix-perde-assinantes-pela-primeira-vez-em-uma-d%C3%A9cada)
-- [Secretários pedem 90 dias para dar fim a emergência por covid](https://www.nexojornal.com.br/extra/2022/04/19/Secret%C3%A1rios-pedem-90-dias-para-dar-fim-a-emerg%C3%AAncia-por-covid)
+- [Doleira Nelma Kodama é presa em operação contra tráfico](https://www.nexojornal.com.br/extra/2022/04/19/Doleira-Nelma-Kodama-%C3%A9-presa-em-opera%C3%A7%C3%A3o-contra-tr%C3%A1fico)
+- [Por que o Twitter está em pé de guerra desde antes de Musk](https://www.nexojornal.com.br/expresso/2022/04/19/Por-que-o-Twitter-est%C3%A1-em-p%C3%A9-de-guerra-desde-antes-de-Musk)
+- [Preço médio do botijão de gás passa de R$ 130 em alguns estados](https://www.nexojornal.com.br/extra/2022/04/19/Pre%C3%A7o-m%C3%A9dio-do-botij%C3%A3o-de-g%C3%A1s-passa-de-R-130-em-alguns-estados)
+- [Qual a ‘próxima fase’ da ofensiva russa, segundo Moscou](https://www.nexojornal.com.br/expresso/2022/04/19/Qual-a-%E2%80%98pr%C3%B3xima-fase%E2%80%99-da-ofensiva-russa-segundo-Moscou)
+- [FMI prevê crescimento de 0,8% da economia brasileira em 2022](https://www.nexojornal.com.br/extra/2022/04/19/FMI-prev%C3%AA-crescimento-de-08-da-economia-brasileira-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
