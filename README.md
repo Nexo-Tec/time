@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mais de 5 milhões de pessoas fugiram da Ucrânia com a guerra](https://www.nexojornal.com.br/extra/2022/04/20/Mais-de-5-milh%C3%B5es-de-pessoas-fugiram-da-Ucr%C3%A2nia-com-a-guerra)
+- [Cartunista Angeli se aposenta após diagnóstico de afasia](https://www.nexojornal.com.br/extra/2022/04/20/Cartunista-Angeli-se-aposenta-ap%C3%B3s-diagn%C3%B3stico-de-afasia)
+- [Procuradoria não vê por que investigar Bolsonaro no caso MEC](https://www.nexojornal.com.br/extra/2022/04/20/Procuradoria-n%C3%A3o-v%C3%AA-por-que-investigar-Bolsonaro-no-caso-MEC)
 - [Como o fracasso no combate à pandemia deve pesar na eleição](https://www.nexojornal.com.br/expresso/2022/04/19/Como-o-fracasso-no-combate-%C3%A0-pandemia-deve-pesar-na-elei%C3%A7%C3%A3o)
 - [Saque de R$ 1.000 do FGTS começa nesta quarta. Veja como fazer](https://www.nexojornal.com.br/extra/2022/04/19/Saque-de-R-1.000-do-FGTS-come%C3%A7a-nesta-quarta.-Veja-como-fazer)
-- [O que faz do Brasil um dos países com pior perspectiva para 2022](https://www.nexojornal.com.br/expresso/2022/04/19/O-que-faz-do-Brasil-um-dos-pa%C3%ADses-com-pior-perspectiva-para-2022)
-- [Netflix perde assinantes pela primeira vez em uma década](https://www.nexojornal.com.br/extra/2022/04/19/Netflix-perde-assinantes-pela-primeira-vez-em-uma-d%C3%A9cada)
-- [Secretários pedem 90 dias para dar fim a emergência por covid](https://www.nexojornal.com.br/extra/2022/04/19/Secret%C3%A1rios-pedem-90-dias-para-dar-fim-a-emerg%C3%AAncia-por-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
