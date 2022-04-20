@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como governos latino-americanos tributaram para reduzir desigualdades, a depender de sua coalizão](https://pp.nexojornal.com.br/academico/2022/Como-governos-latino-americanos-tributaram-para-reduzir-desigualdades-a-depender-de-sua-coaliz%C3%A3o)
-- [Bibliografia básica sobre ações afirmativas no ensino superior brasileiro](https://pp.nexojornal.com.br/opiniao/2022/Bibliografia-b%C3%A1sica-sobre-a%C3%A7%C3%B5es-afirmativas-no-ensino-superior-brasileiro)
-- [Terras de fartura, terras de ambição: políticas e éticas nas lutas no campo](https://pp.nexojornal.com.br/opiniao/2022/Terras-de-fartura-terras-de-ambi%C3%A7%C3%A3o-pol%C3%ADticas-e-%C3%A9ticas-nas-lutas-no-campo)
-- [Cinco possíveis caminhos para se limitar o aquecimento global a menos de 2ºC](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Cinco-poss%C3%ADveis-caminhos-para-se-limitar-o-aquecimento-global-a-menos-de-2%C2%BAC)
-- [Reparação histórica de Lamarck: um novo olhar para a evolução](https://pp.nexojornal.com.br/opiniao/2022/Repara%C3%A7%C3%A3o-hist%C3%B3rica-de-Lamarck-um-novo-olhar-para-a-evolu%C3%A7%C3%A3o)
+- [Políticas para LGBTI+ no governo federal: ascensão e queda](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADticas-para-LGBTI-no-governo-federal-ascens%C3%A3o-e-queda)
+- [A relação entre modelos de Estado e suas implicações para políticas públicas, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-rela%C3%A7%C3%A3o-entre-modelos-de-Estado-e-suas-implica%C3%A7%C3%B5es-para-pol%C3%ADticas-p%C3%BAblicas-em-4-pontos)
+- [Como o Brasil pode se tornar um líder em tecnologia para mudanças climáticas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-o-Brasil-pode-se-tornar-um-l%C3%ADder-em-tecnologia-para-mudan%C3%A7as-clim%C3%A1ticas)
+- [Falemos com nossos jovens](https://pp.nexojornal.com.br/ponto-de-vista/2022/Falemos-com-nossos-jovens)
+- [Ações afirmativas para indígenas nas universidades públicas brasileiras](https://pp.nexojornal.com.br/opiniao/2022/A%C3%A7%C3%B5es-afirmativas-para-ind%C3%ADgenas-nas-universidades-p%C3%BAblicas-brasileiras)
 <!-- PP_LIST:END -->
 
