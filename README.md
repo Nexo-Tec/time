@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Thiago Andrade](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-thiago-andrade/)
 - [O músculo da sociabilidade](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-musculo-da-sociabilidade/)
 - [Lapiseira Pentel Sharp P200](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lapiseira-pentel-sharp-p200/)
 - [O eco que eu buscava](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-eco-que-eu-buscava/)
 - [@midiaindiaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/midiaindiaoficial/)
-- [“Quero expressar a sexualidade da mulher negra da forma que eu desejo”](https://gamarevista.uol.com.br/podcast/monique-dos-anjos-fala-sobre-a-sexualidade-da-mulher-negra/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
