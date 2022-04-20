@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Thiago Andrade](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-thiago-andrade/)
-- [O músculo da sociabilidade](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-musculo-da-sociabilidade/)
-- [Lapiseira Pentel Sharp P200](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/lapiseira-pentel-sharp-p200/)
-- [O eco que eu buscava](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-eco-que-eu-buscava/)
-- [@midiaindiaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/midiaindiaoficial/)
+- [Fartura Gastronomia no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/fartura-gastronomia-no-instituto-inhotim/)
+- [A mitologia grega pelo olhar de suas mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-mitologia-grega-pelo-olhar-de-suas-mulheres/)
+- [Oprah e Viola Davis na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/oprah-e-viola-davis-na-netflix/)
+- [Uma exposição de Bozó Bacamarte](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-exposicao-de-bozo-bacamarte/)
+- [‘Flee’, animação indicada ao Oscar, no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/flee-animacao-indicada-ao-oscar-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
