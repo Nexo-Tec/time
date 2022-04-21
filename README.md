@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Daniel Silveira é condenado: por que seu caso é inédito no Brasil](https://www.nexojornal.com.br/expresso/2022/04/20/Daniel-Silveira-%C3%A9-condenado-por-que-seu-caso-%C3%A9-in%C3%A9dito-no-Brasil)
+- [Advogado, Silveira e Eduardo tentam burlar regras no Supremo](https://www.nexojornal.com.br/extra/2022/04/20/Advogado-Silveira-e-Eduardo-tentam-burlar-regras-no-Supremo)
+- [Arthur do Val: dos áudios machistas à renúncia do mandato](https://www.nexojornal.com.br/podcast/2022/04/20/Arthur-do-Val-dos-%C3%A1udios-machistas-%C3%A0-ren%C3%BAncia-do-mandato)
+- [José Ramos-Horta é eleito presidente do Timor Leste](https://www.nexojornal.com.br/extra/2022/04/20/Jos%C3%A9-Ramos-Horta-%C3%A9-eleito-presidente-do-Timor-Leste)
 - [STJ mantém condenação de Dirceu por propina na Petrobras](https://www.nexojornal.com.br/extra/2022/04/20/STJ-mant%C3%A9m-condena%C3%A7%C3%A3o-de-Dirceu-por-propina-na-Petrobras)
-- [O curioso metabolismo de porcos, pandas e pika&lpar;chu&rpar;s](https://www.nexojornal.com.br/colunistas/2022/O-curioso-metabolismo-de-porcos-pandas-e-pikachus)
-- [O que vai ter de carnaval no feriado de Tiradentes em 2022](https://www.nexojornal.com.br/expresso/2022/04/20/O-que-vai-ter-de-carnaval-no-feriado-de-Tiradentes-em-2022)
-- [A cafeteria que ajuda escritores a cumprirem prazos](https://www.nexojornal.com.br/expresso/2022/04/20/A-cafeteria-que-ajuda-escritores-a-cumprirem-prazos)
-- [Pelé volta a ser internado para continuar tratamento de tumor](https://www.nexojornal.com.br/extra/2022/04/20/Pel%C3%A9-volta-a-ser-internado-para-continuar-tratamento-de-tumor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
