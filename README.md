@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o fracasso no combate à pandemia deve pesar na eleição](https://www.nexojornal.com.br/expresso/2022/04/19/Como-o-fracasso-no-combate-%C3%A0-pandemia-deve-pesar-na-elei%C3%A7%C3%A3o)
-- [Saque de R$ 1.000 do FGTS começa nesta quarta. Veja como fazer](https://www.nexojornal.com.br/extra/2022/04/19/Saque-de-R-1.000-do-FGTS-come%C3%A7a-nesta-quarta.-Veja-como-fazer)
-- [O que faz do Brasil um dos países com pior perspectiva para 2022](https://www.nexojornal.com.br/expresso/2022/04/19/O-que-faz-do-Brasil-um-dos-pa%C3%ADses-com-pior-perspectiva-para-2022)
-- [Netflix perde assinantes pela primeira vez em uma década](https://www.nexojornal.com.br/extra/2022/04/19/Netflix-perde-assinantes-pela-primeira-vez-em-uma-d%C3%A9cada)
-- [Secretários pedem 90 dias para dar fim a emergência por covid](https://www.nexojornal.com.br/extra/2022/04/19/Secret%C3%A1rios-pedem-90-dias-para-dar-fim-a-emerg%C3%AAncia-por-covid)
+- [STJ mantém condenação de Dirceu por propina na Petrobras](https://www.nexojornal.com.br/extra/2022/04/20/STJ-mant%C3%A9m-condena%C3%A7%C3%A3o-de-Dirceu-por-propina-na-Petrobras)
+- [O curioso metabolismo de porcos, pandas e pika&lpar;chu&rpar;s](https://www.nexojornal.com.br/colunistas/2022/O-curioso-metabolismo-de-porcos-pandas-e-pikachus)
+- [O que vai ter de carnaval no feriado de Tiradentes em 2022](https://www.nexojornal.com.br/expresso/2022/04/20/O-que-vai-ter-de-carnaval-no-feriado-de-Tiradentes-em-2022)
+- [A cafeteria que ajuda escritores a cumprirem prazos](https://www.nexojornal.com.br/expresso/2022/04/20/A-cafeteria-que-ajuda-escritores-a-cumprirem-prazos)
+- [Pelé volta a ser internado para continuar tratamento de tumor](https://www.nexojornal.com.br/extra/2022/04/20/Pel%C3%A9-volta-a-ser-internado-para-continuar-tratamento-de-tumor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
