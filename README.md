@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STJ mantém condenação de Dirceu por propina na Petrobras](https://www.nexojornal.com.br/extra/2022/04/20/STJ-mant%C3%A9m-condena%C3%A7%C3%A3o-de-Dirceu-por-propina-na-Petrobras)
-- [O curioso metabolismo de porcos, pandas e pika&lpar;chu&rpar;s](https://www.nexojornal.com.br/colunistas/2022/O-curioso-metabolismo-de-porcos-pandas-e-pikachus)
-- [O que vai ter de carnaval no feriado de Tiradentes em 2022](https://www.nexojornal.com.br/expresso/2022/04/20/O-que-vai-ter-de-carnaval-no-feriado-de-Tiradentes-em-2022)
-- [A cafeteria que ajuda escritores a cumprirem prazos](https://www.nexojornal.com.br/expresso/2022/04/20/A-cafeteria-que-ajuda-escritores-a-cumprirem-prazos)
-- [Pelé volta a ser internado para continuar tratamento de tumor](https://www.nexojornal.com.br/extra/2022/04/20/Pel%C3%A9-volta-a-ser-internado-para-continuar-tratamento-de-tumor)
+- [Menina perde uma perna em acidente com carro alegórico no Rio](https://www.nexojornal.com.br/extra/2022/04/21/Menina-perde-uma-perna-em-acidente-com-carro-aleg%C3%B3rico-no-Rio)
+- [Mendonça se explica após críticas de bolsonaristas a voto no STF](https://www.nexojornal.com.br/extra/2022/04/21/Mendon%C3%A7a-se-explica-ap%C3%B3s-cr%C3%ADticas-de-bolsonaristas-a-voto-no-STF)
+- [Rússia testa míssil de longo alcance com capacidade nuclear](https://www.nexojornal.com.br/extra/2022/04/21/R%C3%BAssia-testa-m%C3%ADssil-de-longo-alcance-com-capacidade-nuclear)
+- [De onde vem a erva-mate e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/04/21/De-onde-vem-a-erva-mate-e-onde-ela-%C3%A9-produzida)
+- [O plano de Amsterdã para construir um bairro só com madeira](https://www.nexojornal.com.br/expresso/2022/04/21/O-plano-de-Amsterd%C3%A3-para-construir-um-bairro-s%C3%B3-com-madeira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
