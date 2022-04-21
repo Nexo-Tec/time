@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Estudo revela como corpos d&#39;água no interior e na costa influenciam o clima](https://pp.nexojornal.com.br/topico/2022/04/20/Estudo-revela-como-corpos-d%C3%A1gua-no-interior-e-na-costa-influenciam-o-clima)
 - [Políticas para LGBTI+ no governo federal: ascensão e queda](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADticas-para-LGBTI-no-governo-federal-ascens%C3%A3o-e-queda)
-- [A relação entre modelos de Estado e suas implicações para políticas públicas, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-rela%C3%A7%C3%A3o-entre-modelos-de-Estado-e-suas-implica%C3%A7%C3%B5es-para-pol%C3%ADticas-p%C3%BAblicas-em-4-pontos)
+- [Modelos de Estado e suas implicações para políticas públicas, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Modelos-de-Estado-e-suas-implica%C3%A7%C3%B5es-para-pol%C3%ADticas-p%C3%BAblicas-em-4-pontos)
 - [Como o Brasil pode se tornar um líder em tecnologia para mudanças climáticas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-o-Brasil-pode-se-tornar-um-l%C3%ADder-em-tecnologia-para-mudan%C3%A7as-clim%C3%A1ticas)
 - [Falemos com nossos jovens](https://pp.nexojornal.com.br/ponto-de-vista/2022/Falemos-com-nossos-jovens)
-- [Ações afirmativas para indígenas nas universidades públicas brasileiras](https://pp.nexojornal.com.br/opiniao/2022/A%C3%A7%C3%B5es-afirmativas-para-ind%C3%ADgenas-nas-universidades-p%C3%BAblicas-brasileiras)
 <!-- PP_LIST:END -->
 
