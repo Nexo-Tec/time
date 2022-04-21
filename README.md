@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STJ mantém condenação de Dirceu por propina na Petrobras](https://www.nexojornal.com.br/extra/2022/04/20/STJ-mant%C3%A9m-condena%C3%A7%C3%A3o-de-Dirceu-por-propina-na-Petrobras)
-- [O curioso metabolismo de porcos, pandas e pika&lpar;chu&rpar;s](https://www.nexojornal.com.br/colunistas/2022/O-curioso-metabolismo-de-porcos-pandas-e-pikachus)
-- [O que vai ter de carnaval no feriado de Tiradentes em 2022](https://www.nexojornal.com.br/expresso/2022/04/20/O-que-vai-ter-de-carnaval-no-feriado-de-Tiradentes-em-2022)
-- [A cafeteria que ajuda escritores a cumprirem prazos](https://www.nexojornal.com.br/expresso/2022/04/20/A-cafeteria-que-ajuda-escritores-a-cumprirem-prazos)
-- [Pelé volta a ser internado para continuar tratamento de tumor](https://www.nexojornal.com.br/extra/2022/04/20/Pel%C3%A9-volta-a-ser-internado-para-continuar-tratamento-de-tumor)
+- [Mais de 5 milhões de pessoas fugiram da Ucrânia com a guerra](https://www.nexojornal.com.br/extra/2022/04/20/Mais-de-5-milh%C3%B5es-de-pessoas-fugiram-da-Ucr%C3%A2nia-com-a-guerra)
+- [Cartunista Angeli se aposenta após diagnóstico de afasia](https://www.nexojornal.com.br/extra/2022/04/20/Cartunista-Angeli-se-aposenta-ap%C3%B3s-diagn%C3%B3stico-de-afasia)
+- [Procuradoria não vê por que investigar Bolsonaro no caso MEC](https://www.nexojornal.com.br/extra/2022/04/20/Procuradoria-n%C3%A3o-v%C3%AA-por-que-investigar-Bolsonaro-no-caso-MEC)
+- [Como o fracasso no combate à pandemia deve pesar na eleição](https://www.nexojornal.com.br/expresso/2022/04/19/Como-o-fracasso-no-combate-%C3%A0-pandemia-deve-pesar-na-elei%C3%A7%C3%A3o)
+- [Saque de R$ 1.000 do FGTS começa nesta quarta. Veja como fazer](https://www.nexojornal.com.br/extra/2022/04/19/Saque-de-R-1.000-do-FGTS-come%C3%A7a-nesta-quarta.-Veja-como-fazer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
