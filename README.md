@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que dá &lpar;e o que não dá&rpar; para concluir sobre a reforma trabalhista](https://www.nexojornal.com.br/expresso/2022/04/21/O-que-d%C3%A1-e-o-que-n%C3%A3o-d%C3%A1-para-concluir-sobre-a-reforma-trabalhista)
+- [Legisladores revogam status especial da Disney na Flórida](https://www.nexojornal.com.br/extra/2022/04/21/Legisladores-revogam-status-especial-da-Disney-na-Fl%C3%B3rida)
+- [Bolsonaro concede perdão a Daniel Silveira, condenado pelo STF](https://www.nexojornal.com.br/extra/2022/04/21/Bolsonaro-concede-perd%C3%A3o-a-Daniel-Silveira-condenado-pelo-STF)
 - [O site que reúne jornais produzidos em prisões americanas](https://www.nexojornal.com.br/expresso/2022/04/21/O-site-que-re%C3%BAne-jornais-produzidos-em-pris%C3%B5es-americanas)
 - [Isa Penna vai pedir que Olim seja afastado de Conselho de Ética](https://www.nexojornal.com.br/extra/2022/04/21/Isa-Penna-vai-pedir-que-Olim-seja-afastado-de-Conselho-de-%C3%89tica)
-- [Menina perde uma perna em acidente com carro alegórico no Rio](https://www.nexojornal.com.br/extra/2022/04/21/Menina-perde-uma-perna-em-acidente-com-carro-aleg%C3%B3rico-no-Rio)
-- [Mendonça se explica após críticas de bolsonaristas a voto no STF](https://www.nexojornal.com.br/extra/2022/04/21/Mendon%C3%A7a-se-explica-ap%C3%B3s-cr%C3%ADticas-de-bolsonaristas-a-voto-no-STF)
-- [Rússia testa míssil de longo alcance com capacidade nuclear](https://www.nexojornal.com.br/extra/2022/04/21/R%C3%BAssia-testa-m%C3%ADssil-de-longo-alcance-com-capacidade-nuclear)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
