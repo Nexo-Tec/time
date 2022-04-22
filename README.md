@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Daniel Silveira é condenado: por que seu caso é inédito no Brasil](https://www.nexojornal.com.br/expresso/2022/04/20/Daniel-Silveira-%C3%A9-condenado-por-que-seu-caso-%C3%A9-in%C3%A9dito-no-Brasil)
-- [Advogado, Silveira e Eduardo tentam burlar regras no Supremo](https://www.nexojornal.com.br/extra/2022/04/20/Advogado-Silveira-e-Eduardo-tentam-burlar-regras-no-Supremo)
-- [Arthur do Val: dos áudios machistas à renúncia do mandato](https://www.nexojornal.com.br/podcast/2022/04/20/Arthur-do-Val-dos-%C3%A1udios-machistas-%C3%A0-ren%C3%BAncia-do-mandato)
-- [José Ramos-Horta é eleito presidente do Timor Leste](https://www.nexojornal.com.br/extra/2022/04/20/Jos%C3%A9-Ramos-Horta-%C3%A9-eleito-presidente-do-Timor-Leste)
-- [STJ mantém condenação de Dirceu por propina na Petrobras](https://www.nexojornal.com.br/extra/2022/04/20/STJ-mant%C3%A9m-condena%C3%A7%C3%A3o-de-Dirceu-por-propina-na-Petrobras)
+- [O site que reúne jornais produzidos em prisões americanas](https://www.nexojornal.com.br/expresso/2022/04/21/O-site-que-re%C3%BAne-jornais-produzidos-em-pris%C3%B5es-americanas)
+- [Isa Penna vai pedir que Olim seja afastado de Conselho de Ética](https://www.nexojornal.com.br/extra/2022/04/21/Isa-Penna-vai-pedir-que-Olim-seja-afastado-de-Conselho-de-%C3%89tica)
+- [Menina perde uma perna em acidente com carro alegórico no Rio](https://www.nexojornal.com.br/extra/2022/04/21/Menina-perde-uma-perna-em-acidente-com-carro-aleg%C3%B3rico-no-Rio)
+- [Mendonça se explica após críticas de bolsonaristas a voto no STF](https://www.nexojornal.com.br/extra/2022/04/21/Mendon%C3%A7a-se-explica-ap%C3%B3s-cr%C3%ADticas-de-bolsonaristas-a-voto-no-STF)
+- [Rússia testa míssil de longo alcance com capacidade nuclear](https://www.nexojornal.com.br/extra/2022/04/21/R%C3%BAssia-testa-m%C3%ADssil-de-longo-alcance-com-capacidade-nuclear)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
