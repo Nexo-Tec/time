@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sete Anos de Escuridão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sete-anos-de-escuridao/)
 - [Fartura Gastronomia no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/fartura-gastronomia-no-instituto-inhotim/)
 - [A mitologia grega pelo olhar de suas mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-mitologia-grega-pelo-olhar-de-suas-mulheres/)
 - [Oprah e Viola Davis na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/oprah-e-viola-davis-na-netflix/)
 - [Uma exposição de Bozó Bacamarte](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-exposicao-de-bozo-bacamarte/)
-- [‘Flee’, animação indicada ao Oscar, no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/flee-animacao-indicada-ao-oscar-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
