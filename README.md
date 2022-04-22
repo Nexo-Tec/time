@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O site que reúne jornais produzidos em prisões americanas](https://www.nexojornal.com.br/expresso/2022/04/21/O-site-que-re%C3%BAne-jornais-produzidos-em-pris%C3%B5es-americanas)
-- [Isa Penna vai pedir que Olim seja afastado de Conselho de Ética](https://www.nexojornal.com.br/extra/2022/04/21/Isa-Penna-vai-pedir-que-Olim-seja-afastado-de-Conselho-de-%C3%89tica)
-- [Menina perde uma perna em acidente com carro alegórico no Rio](https://www.nexojornal.com.br/extra/2022/04/21/Menina-perde-uma-perna-em-acidente-com-carro-aleg%C3%B3rico-no-Rio)
-- [Mendonça se explica após críticas de bolsonaristas a voto no STF](https://www.nexojornal.com.br/extra/2022/04/21/Mendon%C3%A7a-se-explica-ap%C3%B3s-cr%C3%ADticas-de-bolsonaristas-a-voto-no-STF)
-- [Rússia testa míssil de longo alcance com capacidade nuclear](https://www.nexojornal.com.br/extra/2022/04/21/R%C3%BAssia-testa-m%C3%ADssil-de-longo-alcance-com-capacidade-nuclear)
+- [Rosa Weber será relatora de ações contra decreto de Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/22/Rosa-Weber-ser%C3%A1-relatora-de-a%C3%A7%C3%B5es-contra-decreto-de-Bolsonaro)
+- [Extratos da semana | 22.abr.22](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-22.abr.22)
+- [O youtuber britânico que pode ser acusado por crimes de guerra](https://www.nexojornal.com.br/expresso/2022/04/22/O-youtuber-brit%C3%A2nico-que-pode-ser-acusado-por-crimes-de-guerra)
+- [‘Trabalho’: panorama de como o labor molda o uso do tempo](https://www.nexojornal.com.br/estante/trechos/2022/04/22/%E2%80%98Trabalho%E2%80%99-panorama-de-como-o-labor-molda-o-uso-do-tempo)
+- [Trump perdoou 143 aliados em seu governo nos EUA](https://www.nexojornal.com.br/extra/2022/04/22/Trump-perdoou-143-aliados-em-seu-governo-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
