@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desfiles no Rio exaltam luta antirracista e derrubam monumentos](https://www.nexojornal.com.br/extra/2022/04/23/Desfiles-no-Rio-exaltam-luta-antirracista-e-derrubam-monumentos)
-- [‘Não’, diz Bolsonaro a Temer sobre revogar perdão a Silveira](https://www.nexojornal.com.br/extra/2022/04/23/%E2%80%98N%C3%A3o%E2%80%99-diz-Bolsonaro-a-Temer-sobre-revogar-perd%C3%A3o-a-Silveira)
-- [Qual a diferença entre os casos Silveira, Battisti e André do Rap](https://www.nexojornal.com.br/expresso/2022/04/23/Qual-a-diferen%C3%A7a-entre-os-casos-Silveira-Battisti-e-Andr%C3%A9-do-Rap)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [A sombra da gravidez indesejada](https://www.nexojornal.com.br/externo/2022/04/22/A-sombra-da-gravidez-indesejada)
+- [Rosa Weber será relatora de ações contra decreto de Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/22/Rosa-Weber-ser%C3%A1-relatora-de-a%C3%A7%C3%B5es-contra-decreto-de-Bolsonaro)
+- [Extratos da semana | 22.abr.22](https://www.nexojornal.com.br/video/extrato/Extratos-da-semana-22.abr.22)
+- [O youtuber britânico que pode ser acusado por crimes de guerra](https://www.nexojornal.com.br/expresso/2022/04/22/O-youtuber-brit%C3%A2nico-que-pode-ser-acusado-por-crimes-de-guerra)
+- [‘Trabalho’: panorama de como o labor molda o uso do tempo](https://www.nexojornal.com.br/estante/trechos/2022/04/22/%E2%80%98Trabalho%E2%80%99-panorama-de-como-o-labor-molda-o-uso-do-tempo)
+- [Trump perdoou 143 aliados em seu governo nos EUA](https://www.nexojornal.com.br/extra/2022/04/22/Trump-perdoou-143-aliados-em-seu-governo-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
