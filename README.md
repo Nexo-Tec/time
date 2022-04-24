@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desfiles no Rio exaltam luta antirracista e derrubam monumentos](https://www.nexojornal.com.br/extra/2022/04/23/Desfiles-no-Rio-exaltam-luta-antirracista-e-derrubam-monumentos)
-- [‘Não’, diz Bolsonaro a Temer sobre revogar perdão a Silveira](https://www.nexojornal.com.br/extra/2022/04/23/%E2%80%98N%C3%A3o%E2%80%99-diz-Bolsonaro-a-Temer-sobre-revogar-perd%C3%A3o-a-Silveira)
-- [Qual a diferença entre os casos Silveira, Battisti e André do Rap](https://www.nexojornal.com.br/expresso/2022/04/23/Qual-a-diferen%C3%A7a-entre-os-casos-Silveira-Battisti-e-Andr%C3%A9-do-Rap)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [A sombra da gravidez indesejada](https://www.nexojornal.com.br/externo/2022/04/22/A-sombra-da-gravidez-indesejada)
+- [Uma animação sobre o trabalho nas ‘fazendas de clique’](https://www.nexojornal.com.br/expresso/2022/04/23/Uma-anima%C3%A7%C3%A3o-sobre-o-trabalho-nas-%E2%80%98fazendas-de-clique%E2%80%99)
+- [5 livros sobre manifestações virtuais de discurso de ódio](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-manifesta%C3%A7%C3%B5es-virtuais-de-discurso-de-%C3%B3dio)
+- [Parte deste texto foi escrita por um robô](https://www.nexojornal.com.br/expresso/2022/04/23/Parte-deste-texto-foi-escrita-por-um-rob%C3%B4)
+- [Prova ou crime? Gravar conversas nem sempre é permitido](https://www.nexojornal.com.br/ensaio/2022/Prova-ou-crime-Gravar-conversas-nem-sempre-%C3%A9-permitido)
+- [Qual a lógica política da sugestão de Anitta para a oposição](https://www.nexojornal.com.br/expresso/2022/04/23/Qual-a-l%C3%B3gica-pol%C3%ADtica-da-sugest%C3%A3o-de-Anitta-para-a-oposi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
