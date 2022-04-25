@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@facehunter](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/facehunter/)
 - [Chico Barney: ‘Quanto mais paixão envolvida, pior para debater’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/chico-barney-fala-sobre-opiniao-na-internet/)
 - [Alberto Landgraf](https://gamarevista.uol.com.br/pessoas/questionario-proust/alberto-landgraf/)
 - [Sete Anos de Escuridão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sete-anos-de-escuridao/)
 - [Fartura Gastronomia no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/fartura-gastronomia-no-instituto-inhotim/)
-- [A mitologia grega pelo olhar de suas mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-mitologia-grega-pelo-olhar-de-suas-mulheres/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
