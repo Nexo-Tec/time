@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O veto aos tenistas russos em Wimbledon. E as reações dos atletas](https://www.nexojornal.com.br/expresso/2022/04/24/O-veto-aos-tenistas-russos-em-Wimbledon.-E-as-rea%C3%A7%C3%B5es-dos-atletas)
-- [J.K Rowling é novamente acusada de transfobia](https://www.nexojornal.com.br/extra/2022/04/24/J.K-Rowling-%C3%A9-novamente-acusada-de-transfobia)
-- [Forças Armadas são ‘orientadas a atacar’ eleição, diz Barroso](https://www.nexojornal.com.br/extra/2022/04/24/For%C3%A7as-Armadas-s%C3%A3o-%E2%80%98orientadas-a-atacar%E2%80%99-elei%C3%A7%C3%A3o-diz-Barroso)
-- [‘Para eleitora evangélica, economia se conecta à moral’](https://www.nexojornal.com.br/entrevista/2022/04/24/%E2%80%98Para-eleitora-evang%C3%A9lica-economia-se-conecta-%C3%A0-moral%E2%80%99)
-- [Como a turbulência institucional pode afetar a economia em 2022](https://www.nexojornal.com.br/expresso/2022/04/24/Como-a-turbul%C3%AAncia-institucional-pode-afetar-a-economia-em-2022)
+- [Uma animação sobre o trabalho nas ‘fazendas de clique’](https://www.nexojornal.com.br/expresso/2022/04/23/Uma-anima%C3%A7%C3%A3o-sobre-o-trabalho-nas-%E2%80%98fazendas-de-clique%E2%80%99)
+- [5 livros sobre manifestações virtuais de discurso de ódio](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-manifesta%C3%A7%C3%B5es-virtuais-de-discurso-de-%C3%B3dio)
+- [Parte deste texto foi escrita por um robô](https://www.nexojornal.com.br/expresso/2022/04/23/Parte-deste-texto-foi-escrita-por-um-rob%C3%B4)
+- [Prova ou crime? Gravar conversas nem sempre é permitido](https://www.nexojornal.com.br/ensaio/2022/Prova-ou-crime-Gravar-conversas-nem-sempre-%C3%A9-permitido)
+- [Qual a lógica política da sugestão de Anitta para a oposição](https://www.nexojornal.com.br/expresso/2022/04/23/Qual-a-l%C3%B3gica-pol%C3%ADtica-da-sugest%C3%A3o-de-Anitta-para-a-oposi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
