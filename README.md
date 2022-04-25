@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os desafios do 2º mandato de Macron na França](https://www.nexojornal.com.br/expresso/2022/04/25/Quais-os-desafios-do-2%C2%BA-mandato-de-Macron-na-Fran%C3%A7a)
-- [Os carnavais de 2022: a folia picotada no ano em que a covid recuou](https://www.nexojornal.com.br/expresso/2022/04/25/Os-carnavais-de-2022-a-folia-picotada-no-ano-em-que-a-covid-recuou)
-- [Centro derrota extrema direita nas eleições da Eslovênia](https://www.nexojornal.com.br/extra/2022/04/25/Centro-derrota-extrema-direita-nas-elei%C3%A7%C3%B5es-da-Eslov%C3%AAnia)
-- [Em visita a Kiev, autoridades dos EUA prometem reabrir embaixada](https://www.nexojornal.com.br/extra/2022/04/25/Em-visita-a-Kiev-autoridades-dos-EUA-prometem-reabrir-embaixada)
-- [OMS registra 169 casos de hepatite infantil aguda em abril](https://www.nexojornal.com.br/extra/2022/04/25/OMS-registra-169-casos-de-hepatite-infantil-aguda-em-abril)
+- [O veto aos tenistas russos em Wimbledon. E as reações dos atletas](https://www.nexojornal.com.br/expresso/2022/04/24/O-veto-aos-tenistas-russos-em-Wimbledon.-E-as-rea%C3%A7%C3%B5es-dos-atletas)
+- [J.K Rowling é novamente acusada de transfobia](https://www.nexojornal.com.br/extra/2022/04/24/J.K-Rowling-%C3%A9-novamente-acusada-de-transfobia)
+- [Forças Armadas são ‘orientadas a atacar’ eleição, diz Barroso](https://www.nexojornal.com.br/extra/2022/04/24/For%C3%A7as-Armadas-s%C3%A3o-%E2%80%98orientadas-a-atacar%E2%80%99-elei%C3%A7%C3%A3o-diz-Barroso)
+- [‘Para eleitora evangélica, economia se conecta à moral’](https://www.nexojornal.com.br/entrevista/2022/04/24/%E2%80%98Para-eleitora-evang%C3%A9lica-economia-se-conecta-%C3%A0-moral%E2%80%99)
+- [Como a turbulência institucional pode afetar a economia em 2022](https://www.nexojornal.com.br/expresso/2022/04/24/Como-a-turbul%C3%AAncia-institucional-pode-afetar-a-economia-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
