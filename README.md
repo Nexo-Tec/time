@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O papel dos militares nas investidas contra o processo eleitoral](https://www.nexojornal.com.br/expresso/2022/04/25/O-papel-dos-militares-nas-investidas-contra-o-processo-eleitoral)
 - [O que fica indefinido com o fim da emergência de saúde](https://www.nexojornal.com.br/expresso/2022/04/25/O-que-fica-indefinido-com-o-fim-da-emerg%C3%AAncia-de-sa%C3%BAde)
 - [Bolsonaristas comemoram compra do Twitter por Elon Musk](https://www.nexojornal.com.br/extra/2022/04/25/Bolsonaristas-comemoram-compra-do-Twitter-por-Elon-Musk)
 - [O estudo que esmiuça a relação entre consumo e despolitização](https://www.nexojornal.com.br/expresso/2022/04/25/O-estudo-que-esmiu%C3%A7a-a-rela%C3%A7%C3%A3o-entre-consumo-e-despolitiza%C3%A7%C3%A3o)
 - [Cinco gráficos que explicam o BBB 22](https://www.nexojornal.com.br/grafico/2022/04/25/Cinco-gr%C3%A1ficos-que-explicam-o-BBB-22)
+- [TCU manda suspender repasses para compra de kits robótica](https://www.nexojornal.com.br/extra/2022/04/25/TCU-manda-suspender-repasses-para-compra-de-kits-rob%C3%B3tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
