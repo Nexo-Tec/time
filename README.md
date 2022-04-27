@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Carnaval não vai morrer](https://gamarevista.uol.com.br/colunistas/winnie-bueno/o-carnaval-nao-vai-morrer/)
 - [Galo do Tempo](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/galo-do-tempo/)
 - [Não fujo do ridículo. Tenho companheiros ilustres](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-fujo-do-ridiculo-tenho-companheiros-ilustres/)
 - [@facehunter](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/facehunter/)
 - [Chico Barney: ‘Quanto mais paixão envolvida, pior para debater’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/chico-barney-fala-sobre-opiniao-na-internet/)
-- [Alberto Landgraf](https://gamarevista.uol.com.br/pessoas/questionario-proust/alberto-landgraf/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
