@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaro põe STF no papel que pôs Lula e PT na eleição passada’](https://www.nexojornal.com.br/entrevista/2022/04/26/%E2%80%98Bolsonaro-p%C3%B5e-STF-no-papel-que-p%C3%B4s-Lula-e-PT-na-elei%C3%A7%C3%A3o-passada%E2%80%99)
-- [Rússia suspende fornecimento de gás a Polônia e Bulgária](https://www.nexojornal.com.br/extra/2022/04/26/R%C3%BAssia-suspende-fornecimento-de-g%C3%A1s-a-Pol%C3%B4nia-e-Bulg%C3%A1ria)
-- [Qual é o histórico das empresas comandadas por Elon Musk](https://www.nexojornal.com.br/expresso/2022/04/26/Qual-%C3%A9-o-hist%C3%B3rico-das-empresas-comandadas-por-Elon-Musk)
-- [Quais são as regras para viajar com armas de fogo em aviões](https://www.nexojornal.com.br/expresso/2022/04/26/Quais-s%C3%A3o-as-regras-para-viajar-com-armas-de-fogo-em-avi%C3%B5es)
-- [Carnaval: Grande Rio vence pela 1ª vez no RJ e Mancha é campeã em SP](https://www.nexojornal.com.br/extra/2022/04/26/Carnaval-Grande-Rio-vence-pela-1%C2%AA-vez-no-RJ-e-Mancha-%C3%A9-campe%C3%A3-em-SP)
+- [O papel dos militares nas investidas contra o processo eleitoral](https://www.nexojornal.com.br/expresso/2022/04/25/O-papel-dos-militares-nas-investidas-contra-o-processo-eleitoral)
+- [O que fica indefinido com o fim da emergência de saúde](https://www.nexojornal.com.br/expresso/2022/04/25/O-que-fica-indefinido-com-o-fim-da-emerg%C3%AAncia-de-sa%C3%BAde)
+- [Bolsonaristas comemoram compra do Twitter por Elon Musk](https://www.nexojornal.com.br/extra/2022/04/25/Bolsonaristas-comemoram-compra-do-Twitter-por-Elon-Musk)
+- [O estudo que esmiuça a relação entre consumo e despolitização](https://www.nexojornal.com.br/expresso/2022/04/25/O-estudo-que-esmiu%C3%A7a-a-rela%C3%A7%C3%A3o-entre-consumo-e-despolitiza%C3%A7%C3%A3o)
+- [Cinco gráficos que explicam o BBB 22](https://www.nexojornal.com.br/grafico/2022/04/25/Cinco-gr%C3%A1ficos-que-explicam-o-BBB-22)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
