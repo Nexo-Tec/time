@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 perguntas e respostas sobre o caso Daniel Silveira](https://www.nexojornal.com.br/expresso/2022/04/28/10-perguntas-e-respostas-sobre-o-caso-Daniel-Silveira)
-- [A depressão aumentou com a pandemia. O que fazer agora](https://www.nexojornal.com.br/expresso/2022/04/27/A-depress%C3%A3o-aumentou-com-a-pandemia.-O-que-fazer-agora)
-- [Vacinação em queda deixa 3 em cada 10 crianças brasileiras em risco](https://www.nexojornal.com.br/extra/2022/04/27/Vacina%C3%A7%C3%A3o-em-queda-deixa-3-em-cada-10-crian%C3%A7as-brasileiras-em-risco)
-- [Câmara aprova Auxílio Brasil permanente de no mínimo R$ 400](https://www.nexojornal.com.br/extra/2022/04/27/C%C3%A2mara-aprova-Aux%C3%ADlio-Brasil-permanente-de-no-m%C3%ADnimo-R-400)
-- [Bolsonaro quer criar um dilema: paz x justiça](https://www.nexojornal.com.br/colunistas/2022/Bolsonaro-quer-criar-um-dilema-paz-x-justi%C3%A7a1)
+- [Prévia da inflação é a maior para abril desde 1995](https://www.nexojornal.com.br/extra/2022/04/27/Pr%C3%A9via-da-infla%C3%A7%C3%A3o-%C3%A9-a-maior-para-abril-desde-1995)
+- [Câmara aprova despacho gratuito de bagagens em voos](https://www.nexojornal.com.br/extra/2022/04/27/C%C3%A2mara-aprova-despacho-gratuito-de-bagagens-em-voos)
+- [‘Bolsonaro põe STF no papel que pôs Lula e PT na eleição passada’](https://www.nexojornal.com.br/entrevista/2022/04/26/%E2%80%98Bolsonaro-p%C3%B5e-STF-no-papel-que-p%C3%B4s-Lula-e-PT-na-elei%C3%A7%C3%A3o-passada%E2%80%99)
+- [Rússia suspende fornecimento de gás a Polônia e Bulgária](https://www.nexojornal.com.br/extra/2022/04/26/R%C3%BAssia-suspende-fornecimento-de-g%C3%A1s-a-Pol%C3%B4nia-e-Bulg%C3%A1ria)
+- [Qual é o histórico das empresas comandadas por Elon Musk](https://www.nexojornal.com.br/expresso/2022/04/26/Qual-%C3%A9-o-hist%C3%B3rico-das-empresas-comandadas-por-Elon-Musk)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
