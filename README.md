@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Com Wagner Moura e Elisabeth Moss, “Iluminadas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/com-wagner-moura-e-elisabeth-moss-iluminadas/)
 - [Como gastar menos nas férias de 2022](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-gastar-menos-nas-ferias-de-2022/)
 - [Que bottarga brasileira é essa?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/bem-vindos-a-era-da-bottarga/)
 - [O Carnaval não vai morrer](https://gamarevista.uol.com.br/colunistas/winnie-bueno/o-carnaval-nao-vai-morrer/)
 - [Galo do Tempo](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/galo-do-tempo/)
-- [Não fujo do ridículo. Tenho companheiros ilustres](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-fujo-do-ridiculo-tenho-companheiros-ilustres/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
