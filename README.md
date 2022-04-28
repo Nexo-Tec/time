@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 perguntas e respostas sobre o caso Daniel Silveira](https://www.nexojornal.com.br/expresso/2022/04/28/10-perguntas-e-respostas-sobre-o-caso-Daniel-Silveira)
-- [A depressão aumentou com a pandemia. O que fazer agora](https://www.nexojornal.com.br/expresso/2022/04/27/A-depress%C3%A3o-aumentou-com-a-pandemia.-O-que-fazer-agora)
-- [Vacinação em queda deixa 3 em cada 10 crianças brasileiras em risco](https://www.nexojornal.com.br/extra/2022/04/27/Vacina%C3%A7%C3%A3o-em-queda-deixa-3-em-cada-10-crian%C3%A7as-brasileiras-em-risco)
-- [Câmara aprova Auxílio Brasil permanente de no mínimo R$ 400](https://www.nexojornal.com.br/extra/2022/04/27/C%C3%A2mara-aprova-Aux%C3%ADlio-Brasil-permanente-de-no-m%C3%ADnimo-R-400)
-- [Bolsonaro quer criar um dilema: paz x justiça](https://www.nexojornal.com.br/colunistas/2022/Bolsonaro-quer-criar-um-dilema-paz-x-justi%C3%A7a1)
+- [Nenhuma criança morreu por causa da vacina contra covid no Brasil](https://www.nexojornal.com.br/extra/2022/04/28/Nenhuma-crian%C3%A7a-morreu-por-causa-da-vacina-contra-covid-no-Brasil)
+- [Além do preço: como a inflação vem escondida nos produtos](https://www.nexojornal.com.br/expresso/2022/04/28/Al%C3%A9m-do-pre%C3%A7o-como-a-infla%C3%A7%C3%A3o-vem-escondida-nos-produtos)
+- [Comissão de Anistia nega pedido de indenização de Dilma](https://www.nexojornal.com.br/extra/2022/04/28/Comiss%C3%A3o-de-Anistia-nega-pedido-de-indeniza%C3%A7%C3%A3o-de-Dilma)
+- [A viabilidade de uma renda básica universal no Brasil](https://www.nexojornal.com.br/academico/2022/04/28/A-viabilidade-de-uma-renda-b%C3%A1sica-universal-no-Brasil)
+- [País tem inflação, mas não desabastecimento, diz Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/28/Pa%C3%ADs-tem-infla%C3%A7%C3%A3o-mas-n%C3%A3o-desabastecimento-diz-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
