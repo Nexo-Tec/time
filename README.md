@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 perguntas e respostas sobre o caso Daniel Silveira](https://www.nexojornal.com.br/expresso/2022/04/28/10-perguntas-e-respostas-sobre-o-caso-Daniel-Silveira)
-- [A depressão aumentou com a pandemia. O que fazer agora](https://www.nexojornal.com.br/expresso/2022/04/27/A-depress%C3%A3o-aumentou-com-a-pandemia.-O-que-fazer-agora)
-- [Vacinação em queda deixa 3 em cada 10 crianças brasileiras em risco](https://www.nexojornal.com.br/extra/2022/04/27/Vacina%C3%A7%C3%A3o-em-queda-deixa-3-em-cada-10-crian%C3%A7as-brasileiras-em-risco)
-- [Câmara aprova Auxílio Brasil permanente de no mínimo R$ 400](https://www.nexojornal.com.br/extra/2022/04/27/C%C3%A2mara-aprova-Aux%C3%ADlio-Brasil-permanente-de-no-m%C3%ADnimo-R-400)
-- [Bolsonaro quer criar um dilema: paz x justiça](https://www.nexojornal.com.br/colunistas/2022/Bolsonaro-quer-criar-um-dilema-paz-x-justi%C3%A7a1)
+- [A viabilidade de uma renda básica universal no Brasil](https://www.nexojornal.com.br/academico/2022/04/28/A-viabilidade-de-uma-renda-b%C3%A1sica-universal-no-Brasil)
+- [País tem inflação, mas não desabastecimento, diz Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/28/Pa%C3%ADs-tem-infla%C3%A7%C3%A3o-mas-n%C3%A3o-desabastecimento-diz-Bolsonaro)
+- [Brasil foi responsável por 40% do desmatamento mundial em 2021](https://www.nexojornal.com.br/extra/2022/04/28/Brasil-foi-respons%C3%A1vel-por-40-do-desmatamento-mundial-em-2021)
+- [Comitê da ONU diz que Lava Jato violou direitos de Lula](https://www.nexojornal.com.br/extra/2022/04/28/Comit%C3%AA-da-ONU-diz-que-Lava-Jato-violou-direitos-de-Lula)
+- [Inflação do aluguel subiu 14,66% em 12 meses](https://www.nexojornal.com.br/extra/2022/04/28/Infla%C3%A7%C3%A3o-do-aluguel-subiu-1466-em-12-meses)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
