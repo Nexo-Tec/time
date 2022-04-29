@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nenhuma criança morreu por causa da vacina contra covid no Brasil](https://www.nexojornal.com.br/extra/2022/04/28/Nenhuma-crian%C3%A7a-morreu-por-causa-da-vacina-contra-covid-no-Brasil)
-- [Além do preço: como a inflação vem escondida nos produtos](https://www.nexojornal.com.br/expresso/2022/04/28/Al%C3%A9m-do-pre%C3%A7o-como-a-infla%C3%A7%C3%A3o-vem-escondida-nos-produtos)
-- [Comissão de Anistia nega pedido de indenização de Dilma](https://www.nexojornal.com.br/extra/2022/04/28/Comiss%C3%A3o-de-Anistia-nega-pedido-de-indeniza%C3%A7%C3%A3o-de-Dilma)
-- [A viabilidade de uma renda básica universal no Brasil](https://www.nexojornal.com.br/academico/2022/04/28/A-viabilidade-de-uma-renda-b%C3%A1sica-universal-no-Brasil)
-- [País tem inflação, mas não desabastecimento, diz Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/28/Pa%C3%ADs-tem-infla%C3%A7%C3%A3o-mas-n%C3%A3o-desabastecimento-diz-Bolsonaro)
+- [Governo amplia redução do IPI para 35% a partir de 1º de maio](https://www.nexojornal.com.br/extra/2022/04/29/Governo-amplia-redu%C3%A7%C3%A3o-do-IPI-para-35-a-partir-de-1%C2%BA-de-maio)
+- [Desemprego fica estável no 1º trimestre e atinge 11,9 milhões](https://www.nexojornal.com.br/extra/2022/04/29/Desemprego-fica-est%C3%A1vel-no-1%C2%BA-trimestre-e-atinge-119-milh%C3%B5es)
+- [O centenário de Toots Thielemans, o ‘rei da gaita’](https://www.nexojornal.com.br/expresso/2022/04/29/O-centen%C3%A1rio-de-Toots-Thielemans-o-%E2%80%98rei-da-gaita%E2%80%991)
+- [Ciro Gomes troca insultos com apoiadores de Bolsonaro em SP](https://www.nexojornal.com.br/extra/2022/04/29/Ciro-Gomes-troca-insultos-com-apoiadores-de-Bolsonaro-em-SP)
+- [A disputa da comunicação digital entre Lula e Bolsonaro em 2022](https://www.nexojornal.com.br/expresso/2022/04/28/A-disputa-da-comunica%C3%A7%C3%A3o-digital-entre-Lula-e-Bolsonaro-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
