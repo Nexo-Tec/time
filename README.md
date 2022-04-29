@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sonho Manifesto](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonho-manifesto/)
+- [Já sentiu o gostinho da ressaca moral?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sentiu-o-gostinho-da-ressaca-moral/)
 - [Com Wagner Moura e Elisabeth Moss, ‘Iluminadas’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/com-wagner-moura-e-elisabeth-moss-iluminadas/)
 - [O podcast infantil ‘A Incrível Nave Sonora’, no Deezer](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-infantil-a-incrivel-nave-sonora-no-deezer/)
 - [‘Pós-F’, de Fernanda Young, no teatro](https://gamarevista.uol.com.br/achamos-que-vale/ir/pos-f-de-fernanda-young-no-teatro/)
-- [Single ‘Os Clarins da Coragem’, de Tom Zé](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/single-os-clarins-da-coragem-de-tom-ze/)
-- [Grandes frases no ‘Livro dos Amigos’](https://gamarevista.uol.com.br/achamos-que-vale/ler/grandes-frases-no-livro-dos-amigos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
