@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo amplia redução do IPI para 35% a partir de 1º de maio](https://www.nexojornal.com.br/extra/2022/04/29/Governo-amplia-redu%C3%A7%C3%A3o-do-IPI-para-35-a-partir-de-1%C2%BA-de-maio)
-- [Desemprego fica estável no 1º trimestre e atinge 11,9 milhões](https://www.nexojornal.com.br/extra/2022/04/29/Desemprego-fica-est%C3%A1vel-no-1%C2%BA-trimestre-e-atinge-119-milh%C3%B5es)
-- [O centenário de Toots Thielemans, o ‘rei da gaita’](https://www.nexojornal.com.br/expresso/2022/04/29/O-centen%C3%A1rio-de-Toots-Thielemans-o-%E2%80%98rei-da-gaita%E2%80%991)
-- [Ciro Gomes troca insultos com apoiadores de Bolsonaro em SP](https://www.nexojornal.com.br/extra/2022/04/29/Ciro-Gomes-troca-insultos-com-apoiadores-de-Bolsonaro-em-SP)
 - [A disputa da comunicação digital entre Lula e Bolsonaro em 2022](https://www.nexojornal.com.br/expresso/2022/04/28/A-disputa-da-comunica%C3%A7%C3%A3o-digital-entre-Lula-e-Bolsonaro-em-2022)
+- [Kiev é atingida por mísseis durante visita do secretário-geral da ONU](https://www.nexojornal.com.br/extra/2022/04/28/Kiev-%C3%A9-atingida-por-m%C3%ADsseis-durante-visita-do-secret%C3%A1rio-geral-da-ONU)
+- [Presidentes da Câmara e do Senado defendem urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/04/28/Presidentes-da-C%C3%A2mara-e-do-Senado-defendem-urnas-eletr%C3%B4nicas)
+- [Supremo derruba decretos do governo sobre política ambiental](https://www.nexojornal.com.br/extra/2022/04/28/Supremo-derruba-decretos-do-governo-sobre-pol%C3%ADtica-ambiental)
+- [Escola: lugar de fala, diálogo e discussão sobre ‘temas difíceis’](https://www.nexojornal.com.br/colunistas/2022/Escola-lugar-de-fala-di%C3%A1logo-e-discuss%C3%A3o-sobre-%E2%80%98temas-dif%C3%ADceis%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
