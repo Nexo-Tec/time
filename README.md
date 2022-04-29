@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A disputa da comunicação digital entre Lula e Bolsonaro em 2022](https://www.nexojornal.com.br/expresso/2022/04/28/A-disputa-da-comunica%C3%A7%C3%A3o-digital-entre-Lula-e-Bolsonaro-em-2022)
-- [Kiev é atingida por mísseis durante visita do secretário-geral da ONU](https://www.nexojornal.com.br/extra/2022/04/28/Kiev-%C3%A9-atingida-por-m%C3%ADsseis-durante-visita-do-secret%C3%A1rio-geral-da-ONU)
-- [Presidentes da Câmara e do Senado defendem urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/04/28/Presidentes-da-C%C3%A2mara-e-do-Senado-defendem-urnas-eletr%C3%B4nicas)
-- [Supremo derruba decretos do governo sobre política ambiental](https://www.nexojornal.com.br/extra/2022/04/28/Supremo-derruba-decretos-do-governo-sobre-pol%C3%ADtica-ambiental)
-- [Escola: lugar de fala, diálogo e discussão sobre ‘temas difíceis’](https://www.nexojornal.com.br/colunistas/2022/Escola-lugar-de-fala-di%C3%A1logo-e-discuss%C3%A3o-sobre-%E2%80%98temas-dif%C3%ADceis%E2%80%99)
+- [10 perguntas e respostas sobre o caso Daniel Silveira](https://www.nexojornal.com.br/expresso/2022/04/28/10-perguntas-e-respostas-sobre-o-caso-Daniel-Silveira)
+- [A depressão aumentou com a pandemia. O que fazer agora](https://www.nexojornal.com.br/expresso/2022/04/27/A-depress%C3%A3o-aumentou-com-a-pandemia.-O-que-fazer-agora)
+- [Vacinação em queda deixa 3 em cada 10 crianças brasileiras em risco](https://www.nexojornal.com.br/extra/2022/04/27/Vacina%C3%A7%C3%A3o-em-queda-deixa-3-em-cada-10-crian%C3%A7as-brasileiras-em-risco)
+- [Câmara aprova Auxílio Brasil permanente de no mínimo R$ 400](https://www.nexojornal.com.br/extra/2022/04/27/C%C3%A2mara-aprova-Aux%C3%ADlio-Brasil-permanente-de-no-m%C3%ADnimo-R-400)
+- [Bolsonaro quer criar um dilema: paz x justiça](https://www.nexojornal.com.br/colunistas/2022/Bolsonaro-quer-criar-um-dilema-paz-x-justi%C3%A7a1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
