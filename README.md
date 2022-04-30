@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo responde ao desmonte ambiental: saiba o que vem agora](https://www.nexojornal.com.br/expresso/2022/04/29/Supremo-responde-ao-desmonte-ambiental-saiba-o-que-vem-agora)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [5 pontos para entender o sucesso da novela ‘Pantanal’](https://www.nexojornal.com.br/expresso/2022/04/29/5-pontos-para-entender-o-sucesso-da-novela-%E2%80%98Pantanal%E2%80%99)
-- [Líder quilombola é assassinado no interior do Maranhão](https://www.nexojornal.com.br/extra/2022/04/29/L%C3%ADder-quilombola-%C3%A9-assassinado-no-interior-do-Maranh%C3%A3o)
-- [Ministros do Supremo reagem em bloco a investidas de Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/29/Ministros-do-Supremo-reagem-em-bloco-a-investidas-de-Bolsonaro)
+- [Moraes vê ‘lavagem cerebral’ nas redes. Bolsonaro baixa o tom](https://www.nexojornal.com.br/extra/2022/04/29/Moraes-v%C3%AA-%E2%80%98lavagem-cerebral%E2%80%99-nas-redes.-Bolsonaro-baixa-o-tom)
+- [Empresas do Simples Nacional e MEIs podem renegociar dívidas](https://www.nexojornal.com.br/extra/2022/04/29/Empresas-do-Simples-Nacional-e-MEIs-podem-renegociar-d%C3%ADvidas)
+- [Human Rights Watch alerta para risco de golpe no Brasil](https://www.nexojornal.com.br/extra/2022/04/29/Human-Rights-Watch-alerta-para-risco-de-golpe-no-Brasil)
+- [Governo amplia redução do IPI para 35% a partir de 1º de maio](https://www.nexojornal.com.br/extra/2022/04/29/Governo-amplia-redu%C3%A7%C3%A3o-do-IPI-para-35-a-partir-de-1%C2%BA-de-maio)
+- [Desemprego fica estável no 1º trimestre e atinge 11,9 milhões](https://www.nexojornal.com.br/extra/2022/04/29/Desemprego-fica-est%C3%A1vel-no-1%C2%BA-trimestre-e-atinge-119-milh%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
