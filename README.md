@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes vê ‘lavagem cerebral’ nas redes. Bolsonaro baixa o tom](https://www.nexojornal.com.br/extra/2022/04/29/Moraes-v%C3%AA-%E2%80%98lavagem-cerebral%E2%80%99-nas-redes.-Bolsonaro-baixa-o-tom)
+- [Empresas do Simples Nacional e MEIs podem renegociar dívidas](https://www.nexojornal.com.br/extra/2022/04/29/Empresas-do-Simples-Nacional-e-MEIs-podem-renegociar-d%C3%ADvidas)
+- [Human Rights Watch alerta para risco de golpe no Brasil](https://www.nexojornal.com.br/extra/2022/04/29/Human-Rights-Watch-alerta-para-risco-de-golpe-no-Brasil)
 - [Governo amplia redução do IPI para 35% a partir de 1º de maio](https://www.nexojornal.com.br/extra/2022/04/29/Governo-amplia-redu%C3%A7%C3%A3o-do-IPI-para-35-a-partir-de-1%C2%BA-de-maio)
 - [Desemprego fica estável no 1º trimestre e atinge 11,9 milhões](https://www.nexojornal.com.br/extra/2022/04/29/Desemprego-fica-est%C3%A1vel-no-1%C2%BA-trimestre-e-atinge-119-milh%C3%B5es)
-- [O centenário de Toots Thielemans, o ‘rei da gaita’](https://www.nexojornal.com.br/expresso/2022/04/29/O-centen%C3%A1rio-de-Toots-Thielemans-o-%E2%80%98rei-da-gaita%E2%80%991)
-- [Ciro Gomes troca insultos com apoiadores de Bolsonaro em SP](https://www.nexojornal.com.br/extra/2022/04/29/Ciro-Gomes-troca-insultos-com-apoiadores-de-Bolsonaro-em-SP)
-- [A disputa da comunicação digital entre Lula e Bolsonaro em 2022](https://www.nexojornal.com.br/expresso/2022/04/28/A-disputa-da-comunica%C3%A7%C3%A3o-digital-entre-Lula-e-Bolsonaro-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
