@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As novas mazelas do trabalhador](https://gamarevista.uol.com.br/trabalho/as-mazelas-do-trabalho-pandemico/)
 - [Marçal Aquino](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcal-aquino/)
 - [Sonho Manifesto](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonho-manifesto/)
 - [Já sentiu o gostinho da ressaca moral?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sentiu-o-gostinho-da-ressaca-moral/)
 - [Com Wagner Moura e Elisabeth Moss, ‘Iluminadas’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/com-wagner-moura-e-elisabeth-moss-iluminadas/)
-- [O podcast infantil ‘A Incrível Nave Sonora’, no Deezer](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-infantil-a-incrivel-nave-sonora-no-deezer/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
