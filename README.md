@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo responde ao desmonte ambiental: saiba o que vem agora](https://www.nexojornal.com.br/expresso/2022/04/29/Supremo-responde-ao-desmonte-ambiental-saiba-o-que-vem-agora)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/04/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [5 pontos para entender o sucesso da novela ‘Pantanal’](https://www.nexojornal.com.br/expresso/2022/04/29/5-pontos-para-entender-o-sucesso-da-novela-%E2%80%98Pantanal%E2%80%99)
-- [Líder quilombola é assassinado no interior do Maranhão](https://www.nexojornal.com.br/extra/2022/04/29/L%C3%ADder-quilombola-%C3%A9-assassinado-no-interior-do-Maranh%C3%A3o)
-- [Ministros do Supremo reagem em bloco a investidas de Bolsonaro](https://www.nexojornal.com.br/extra/2022/04/29/Ministros-do-Supremo-reagem-em-bloco-a-investidas-de-Bolsonaro)
+- [Enviada da ONU, Angelina Jolie visita Lviv, na Ucrânia](https://www.nexojornal.com.br/extra/2022/04/30/Enviada-da-ONU-Angelina-Jolie-visita-Lviv-na-Ucr%C3%A2nia)
+- [Museu da Diversidade em São Paulo fecha após decisão judicial](https://www.nexojornal.com.br/extra/2022/04/30/Museu-da-Diversidade-em-S%C3%A3o-Paulo-fecha-ap%C3%B3s-decis%C3%A3o-judicial)
+- [O projeto que transforma imagens do espaço em som](https://www.nexojornal.com.br/expresso/2022/04/30/O-projeto-que-transforma-imagens-do-espa%C3%A7o-em-som)
+- [5 livros de autoria negra que dialogam com a minha escrita](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-autoria-negra-que-dialogam-com-a-minha-escrita)
+- [A guerra na Ucrânia e a responsabilização penal de Putin](https://www.nexojornal.com.br/ensaio/2022/A-guerra-na-Ucr%C3%A2nia-e-a-responsabiliza%C3%A7%C3%A3o-penal-de-Putin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
