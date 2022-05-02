@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Acidente com ônibus de prefeitura deixa 7 mortos no Paraná](https://www.nexojornal.com.br/extra/2022/05/02/Acidente-com-%C3%B4nibus-de-prefeitura-deixa-7-mortos-no-Paran%C3%A1)
 - [Um dicionário para entender o negacionismo no debate público](https://www.nexojornal.com.br/expresso/2022/05/01/Um-dicion%C3%A1rio-para-entender-o-negacionismo-no-debate-p%C3%BAblico)
 - [Como foi o 1º de maio que levou oposição e bolsonaristas às ruas](https://www.nexojornal.com.br/expresso/2022/05/01/Como-foi-o-1%C2%BA-de-maio-que-levou-oposi%C3%A7%C3%A3o-e-bolsonaristas-%C3%A0s-ruas)
 - [‘Bronca não funciona, tom divertido é o que engaja jovens a votar’](https://www.nexojornal.com.br/entrevista/2022/05/01/%E2%80%98Bronca-n%C3%A3o-funciona-tom-divertido-%C3%A9-o-que-engaja-jovens-a-votar%E2%80%99)
 - [A nova fase de regulação das redes sociais](https://www.nexojornal.com.br/ensaio/2022/A-nova-fase-de-regula%C3%A7%C3%A3o-das-redes-sociais)
+- [Cerca de 100 civis deixam usina siderúrgica sitiada em Mariupol](https://www.nexojornal.com.br/extra/2022/05/01/Cerca-de-100-civis-deixam-usina-sider%C3%BArgica-sitiada-em-Mariupol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
