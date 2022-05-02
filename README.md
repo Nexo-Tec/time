@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@negromuro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/negromuro/)
 - [Elaine de Azevedo: ‘Para comer melhor tem que apoiar quem produz; não o agro’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nutricionista-elaine-azevedo-fala-sobre-o-carater-politico-da-comida/)
 - [As novas mazelas do trabalhador](https://gamarevista.uol.com.br/trabalho/as-mazelas-do-trabalho-pandemico/)
 - [Marçal Aquino](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcal-aquino/)
 - [Sonho Manifesto](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sonho-manifesto/)
-- [Já sentiu o gostinho da ressaca moral?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sentiu-o-gostinho-da-ressaca-moral/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
