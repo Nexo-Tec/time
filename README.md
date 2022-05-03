@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que explica a onda de calor na Índia e no Paquistão](https://www.nexojornal.com.br/expresso/2022/05/02/O-que-explica-a-onda-de-calor-na-%C3%8Dndia-e-no-Paquist%C3%A3o)
-- [Estudo abre novas possibilidades de tratamento para forma de autismo](https://www.nexojornal.com.br/externo/2022/05/02/Estudo-abre-novas-possibilidades-de-tratamento-para-forma-de-autismo)
-- [Com desaceleração mundial, dólar volta a R$ 5 e bolsa recua](https://www.nexojornal.com.br/extra/2022/05/02/Com-desacelera%C3%A7%C3%A3o-mundial-d%C3%B3lar-volta-a-R-5-e-bolsa-recua)
-- [Como os lockdowns da China afetam o comércio com o Brasil](https://www.nexojornal.com.br/expresso/2022/05/02/Como-os-lockdowns-da-China-afetam-o-com%C3%A9rcio-com-o-Brasil)
-- [Veja as datas dos debates entre candidatos à Presidência](https://www.nexojornal.com.br/extra/2022/05/02/Veja-as-datas-dos-debates-entre-candidatos-%C3%A0-Presid%C3%AAncia)
+- [Acidente com ônibus de prefeitura deixa 7 mortos no Paraná](https://www.nexojornal.com.br/extra/2022/05/02/Acidente-com-%C3%B4nibus-de-prefeitura-deixa-7-mortos-no-Paran%C3%A1)
+- [Um dicionário para entender o negacionismo no debate público](https://www.nexojornal.com.br/expresso/2022/05/01/Um-dicion%C3%A1rio-para-entender-o-negacionismo-no-debate-p%C3%BAblico)
+- [Como foi o 1º de maio que levou oposição e bolsonaristas às ruas](https://www.nexojornal.com.br/expresso/2022/05/01/Como-foi-o-1%C2%BA-de-maio-que-levou-oposi%C3%A7%C3%A3o-e-bolsonaristas-%C3%A0s-ruas)
+- [‘Bronca não funciona, tom divertido é o que engaja jovens a votar’](https://www.nexojornal.com.br/entrevista/2022/05/01/%E2%80%98Bronca-n%C3%A3o-funciona-tom-divertido-%C3%A9-o-que-engaja-jovens-a-votar%E2%80%99)
+- [A nova fase de regulação das redes sociais](https://www.nexojornal.com.br/ensaio/2022/A-nova-fase-de-regula%C3%A7%C3%A3o-das-redes-sociais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
