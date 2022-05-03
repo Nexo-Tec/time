@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Produção industrial tem alta de 0,3% em março, segundo IBGE](https://www.nexojornal.com.br/extra/2022/05/03/Produ%C3%A7%C3%A3o-industrial-tem-alta-de-03-em-mar%C3%A7o-segundo-IBGE)
-- [Documento indica que Suprema Corte do EUA vai restringir aborto](https://www.nexojornal.com.br/extra/2022/05/03/Documento-indica-que-Suprema-Corte-do-EUA-vai-restringir-aborto)
 - [O que explica a onda de calor na Índia e no Paquistão](https://www.nexojornal.com.br/expresso/2022/05/02/O-que-explica-a-onda-de-calor-na-%C3%8Dndia-e-no-Paquist%C3%A3o)
 - [Estudo abre novas possibilidades de tratamento para forma de autismo](https://www.nexojornal.com.br/externo/2022/05/02/Estudo-abre-novas-possibilidades-de-tratamento-para-forma-de-autismo)
 - [Com desaceleração mundial, dólar volta a R$ 5 e bolsa recua](https://www.nexojornal.com.br/extra/2022/05/02/Com-desacelera%C3%A7%C3%A3o-mundial-d%C3%B3lar-volta-a-R-5-e-bolsa-recua)
+- [Como os lockdowns da China afetam o comércio com o Brasil](https://www.nexojornal.com.br/expresso/2022/05/02/Como-os-lockdowns-da-China-afetam-o-com%C3%A9rcio-com-o-Brasil)
+- [Veja as datas dos debates entre candidatos à Presidência](https://www.nexojornal.com.br/extra/2022/05/02/Veja-as-datas-dos-debates-entre-candidatos-%C3%A0-Presid%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
