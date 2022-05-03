@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Era dourada’: o Met Gala de 2022 e a aura em torno do baile](https://www.nexojornal.com.br/expresso/2022/05/02/%E2%80%98Era-dourada%E2%80%99-o-Met-Gala-de-2022-e-a-aura-em-torno-do-baile)
-- [Casos de dengue no Brasil disparam e crescem 113% em 2022](https://www.nexojornal.com.br/extra/2022/05/02/Casos-de-dengue-no-Brasil-disparam-e-crescem-113-em-2022)
-- [Após McPicanha, Whopper Costela sem costela é alvo de reclamações](https://www.nexojornal.com.br/extra/2022/05/02/Ap%C3%B3s-McPicanha-Whopper-Costela-sem-costela-%C3%A9-alvo-de-reclama%C3%A7%C3%B5es)
-- [Inadimplência e endividamento tem novo recorde em abril](https://www.nexojornal.com.br/extra/2022/05/02/Inadimpl%C3%AAncia-e-endividamento-tem-novo-recorde-em-abril)
-- [Brasil não é convidado para cúpula do G7 na Alemanha](https://www.nexojornal.com.br/extra/2022/05/02/Brasil-n%C3%A3o-%C3%A9-convidado-para-c%C3%BApula-do-G7-na-Alemanha)
+- [Um dicionário para entender o negacionismo no debate público](https://www.nexojornal.com.br/expresso/2022/05/01/Um-dicion%C3%A1rio-para-entender-o-negacionismo-no-debate-p%C3%BAblico)
+- [Como foi o 1º de maio que levou oposição e bolsonaristas às ruas](https://www.nexojornal.com.br/expresso/2022/05/01/Como-foi-o-1%C2%BA-de-maio-que-levou-oposi%C3%A7%C3%A3o-e-bolsonaristas-%C3%A0s-ruas)
+- [‘Bronca não funciona, tom divertido é o que engaja jovens a votar’](https://www.nexojornal.com.br/entrevista/2022/05/01/%E2%80%98Bronca-n%C3%A3o-funciona-tom-divertido-%C3%A9-o-que-engaja-jovens-a-votar%E2%80%99)
+- [A nova fase de regulação das redes sociais](https://www.nexojornal.com.br/ensaio/2022/A-nova-fase-de-regula%C3%A7%C3%A3o-das-redes-sociais)
+- [Cerca de 100 civis deixam usina siderúrgica sitiada em Mariupol](https://www.nexojornal.com.br/extra/2022/05/01/Cerca-de-100-civis-deixam-usina-sider%C3%BArgica-sitiada-em-Mariupol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
