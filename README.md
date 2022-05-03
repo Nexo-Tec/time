@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Era dourada’: o Met Gala de 2022 e a aura em torno do baile](https://www.nexojornal.com.br/expresso/2022/05/02/%E2%80%98Era-dourada%E2%80%99-o-Met-Gala-de-2022-e-a-aura-em-torno-do-baile)
-- [Casos de dengue no Brasil disparam e crescem 113% em 2022](https://www.nexojornal.com.br/extra/2022/05/02/Casos-de-dengue-no-Brasil-disparam-e-crescem-113-em-2022)
-- [Após McPicanha, Whopper Costela sem costela é alvo de reclamações](https://www.nexojornal.com.br/extra/2022/05/02/Ap%C3%B3s-McPicanha-Whopper-Costela-sem-costela-%C3%A9-alvo-de-reclama%C3%A7%C3%B5es)
-- [Inadimplência e endividamento tem novo recorde em abril](https://www.nexojornal.com.br/extra/2022/05/02/Inadimpl%C3%AAncia-e-endividamento-tem-novo-recorde-em-abril)
-- [Brasil não é convidado para cúpula do G7 na Alemanha](https://www.nexojornal.com.br/extra/2022/05/02/Brasil-n%C3%A3o-%C3%A9-convidado-para-c%C3%BApula-do-G7-na-Alemanha)
+- [O que explica a onda de calor na Índia e no Paquistão](https://www.nexojornal.com.br/expresso/2022/05/02/O-que-explica-a-onda-de-calor-na-%C3%8Dndia-e-no-Paquist%C3%A3o)
+- [Estudo abre novas possibilidades de tratamento para forma de autismo](https://www.nexojornal.com.br/externo/2022/05/02/Estudo-abre-novas-possibilidades-de-tratamento-para-forma-de-autismo)
+- [Com desaceleração mundial, dólar volta a R$ 5 e bolsa recua](https://www.nexojornal.com.br/extra/2022/05/02/Com-desacelera%C3%A7%C3%A3o-mundial-d%C3%B3lar-volta-a-R-5-e-bolsa-recua)
+- [Como os lockdowns da China afetam o comércio com o Brasil](https://www.nexojornal.com.br/expresso/2022/05/02/Como-os-lockdowns-da-China-afetam-o-com%C3%A9rcio-com-o-Brasil)
+- [Veja as datas dos debates entre candidatos à Presidência](https://www.nexojornal.com.br/extra/2022/05/02/Veja-as-datas-dos-debates-entre-candidatos-%C3%A0-Presid%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
