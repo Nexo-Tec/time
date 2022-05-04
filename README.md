@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Produção industrial tem alta de 0,3% em março, segundo IBGE](https://www.nexojornal.com.br/extra/2022/05/03/Produ%C3%A7%C3%A3o-industrial-tem-alta-de-03-em-mar%C3%A7o-segundo-IBGE)
-- [Documento indica que Suprema Corte do EUA vai restringir aborto](https://www.nexojornal.com.br/extra/2022/05/03/Documento-indica-que-Suprema-Corte-do-EUA-vai-restringir-aborto)
-- [O que explica a onda de calor na Índia e no Paquistão](https://www.nexojornal.com.br/expresso/2022/05/02/O-que-explica-a-onda-de-calor-na-%C3%8Dndia-e-no-Paquist%C3%A3o)
-- [Estudo abre novas possibilidades de tratamento para forma de autismo](https://www.nexojornal.com.br/externo/2022/05/02/Estudo-abre-novas-possibilidades-de-tratamento-para-forma-de-autismo)
-- [Com desaceleração mundial, dólar volta a R$ 5 e bolsa recua](https://www.nexojornal.com.br/extra/2022/05/02/Com-desacelera%C3%A7%C3%A3o-mundial-d%C3%B3lar-volta-a-R-5-e-bolsa-recua)
+- [Por que o endividamento das famílias brasileiras só aumenta](https://www.nexojornal.com.br/expresso/2022/05/03/Por-que-o-endividamento-das-fam%C3%ADlias-brasileiras-s%C3%B3-aumenta)
+- [Brasileiros investem mais em empresas de bolsas estrangeiras](https://www.nexojornal.com.br/grafico/2022/05/03/Brasileiros-investem-mais-em-empresas-de-bolsas-estrangeiras)
+- [Kajuru vira réu no Supremo por ofensa a outros parlamentares](https://www.nexojornal.com.br/extra/2022/05/03/Kajuru-vira-r%C3%A9u-no-Supremo-por-ofensa-a-outros-parlamentares)
+- [Moraes multa Silveira em R$ 405 mil por descumprir ordens](https://www.nexojornal.com.br/extra/2022/05/03/Moraes-multa-Silveira-em-R-405-mil-por-descumprir-ordens)
+- [Senado tenta contornar veto a missão europeia nas eleições](https://www.nexojornal.com.br/extra/2022/05/03/Senado-tenta-contornar-veto-a-miss%C3%A3o-europeia-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
