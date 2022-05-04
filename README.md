@@ -134,10 +134,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Lições pandêmicas para políticas de segurança pública efetivas](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas)
 - [O que é fundamental entender no 6º relatório do IPCC sobre mitigação das mudanças climáticas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-que-%C3%A9-fundamental-entender-no-6%C2%BA-relat%C3%B3rio-do-IPCC-sobre-mitiga%C3%A7%C3%A3o-das-mudan%C3%A7as-clim%C3%A1ticas)
 - [Ambientes alimentares: dos sistemas às escolhas](https://pp.nexojornal.com.br/glossario/Ambientes-alimentares-dos-sistemas-%C3%A0s-escolhas)
 - [Ações Afirmativas na UFSC: um projeto em contínua expansão](https://pp.nexojornal.com.br/linha-do-tempo/2022/A%C3%A7%C3%B5es-Afirmativas-na-UFSC-um-projeto-em-cont%C3%ADnua-expans%C3%A3o)
 - [Os avanços democráticos do Marco Regulatório das Organizações da Sociedade Civil](https://pp.nexojornal.com.br/opiniao/2022/Os-avan%C3%A7os-democr%C3%A1ticos-do-Marco-Regulat%C3%B3rio-das-Organiza%C3%A7%C3%B5es-da-Sociedade-Civil)
+- [Não faz nada porque não quer fazer](https://pp.nexojornal.com.br/opiniao/2022/N%C3%A3o-faz-nada-porque-n%C3%A3o-quer-fazer)
 <!-- PP_LIST:END -->
 
