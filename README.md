@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Comediante Dave Chappelle é atacado no palco em Los Angeles](https://www.nexojornal.com.br/extra/2022/05/04/Comediante-Dave-Chappelle-%C3%A9-atacado-no-palco-em-Los-Angeles)
+- [Lula é capa da Time e critica atuação de Zelensky na guerra](https://www.nexojornal.com.br/extra/2022/05/04/Lula-%C3%A9-capa-da-Time-e-critica-atua%C3%A7%C3%A3o-de-Zelensky-na-guerra)
+- [Prazo para regularizar o título de eleitor termina nesta quarta](https://www.nexojornal.com.br/extra/2022/05/04/Prazo-para-regularizar-o-t%C3%ADtulo-de-eleitor-termina-nesta-quarta)
 - [Por que o endividamento das famílias brasileiras só aumenta](https://www.nexojornal.com.br/expresso/2022/05/03/Por-que-o-endividamento-das-fam%C3%ADlias-brasileiras-s%C3%B3-aumenta)
 - [Brasileiros investem mais em empresas de bolsas estrangeiras](https://www.nexojornal.com.br/grafico/2022/05/03/Brasileiros-investem-mais-em-empresas-de-bolsas-estrangeiras)
-- [Kajuru vira réu no Supremo por ofensa a outros parlamentares](https://www.nexojornal.com.br/extra/2022/05/03/Kajuru-vira-r%C3%A9u-no-Supremo-por-ofensa-a-outros-parlamentares)
-- [Moraes multa Silveira em R$ 405 mil por descumprir ordens](https://www.nexojornal.com.br/extra/2022/05/03/Moraes-multa-Silveira-em-R-405-mil-por-descumprir-ordens)
-- [Senado tenta contornar veto a missão europeia nas eleições](https://www.nexojornal.com.br/extra/2022/05/03/Senado-tenta-contornar-veto-a-miss%C3%A3o-europeia-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
