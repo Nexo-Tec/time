@@ -124,11 +124,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Memória, yin-yang o tempo inteiro](https://gamarevista.uol.com.br/colunistas/letrux/memoria-yin-yang-o-tempo-inteiro/)
 - [Mobilete](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mobilete/)
 - [@negromuro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/negromuro/)
 - [Elaine de Azevedo: ‘Para comer melhor tem que apoiar quem produz; não o agro’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nutricionista-elaine-azevedo-fala-sobre-o-carater-politico-da-comida/)
 - [As novas mazelas do trabalhador](https://gamarevista.uol.com.br/trabalho/as-mazelas-do-trabalho-pandemico/)
-- [Marçal Aquino](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcal-aquino/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
