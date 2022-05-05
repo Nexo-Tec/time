@@ -114,11 +114,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho abre ação contra Eduardo Bolsonaro por caso Miriam Leitão](https://www.nexojornal.com.br/extra/2022/05/04/Conselho-abre-a%C3%A7%C3%A3o-contra-Eduardo-Bolsonaro-por-caso-Miriam-Leit%C3%A3o)
-- [AVCs voltam a ser a causa mais comum de mortes no Brasil](https://www.nexojornal.com.br/extra/2022/05/04/AVCs-voltam-a-ser-a-causa-mais-comum-de-mortes-no-Brasil)
-- [Fome cresceu 20% no mundo em 2021 e atinge 193 milhões](https://www.nexojornal.com.br/extra/2022/05/04/Fome-cresceu-20-no-mundo-em-2021-e-atinge-193-milh%C3%B5es)
-- [Qual o impacto do boicote ao petróleo da Rússia pela Europa](https://www.nexojornal.com.br/expresso/2022/05/04/Qual-o-impacto-do-boicote-ao-petr%C3%B3leo-da-R%C3%BAssia-pela-Europa)
-- [Comediante Dave Chappelle é atacado no palco em Los Angeles](https://www.nexojornal.com.br/extra/2022/05/04/Comediante-Dave-Chappelle-%C3%A9-atacado-no-palco-em-Los-Angeles)
+- [Bolsonaro veta nova Lei Aldir Blanc de apoio à cultura](https://www.nexojornal.com.br/extra/2022/05/05/Bolsonaro-veta-nova-Lei-Aldir-Blanc-de-apoio-%C3%A0-cultura)
+- [Como as falas de Lula mobilizam aliados e adversários](https://www.nexojornal.com.br/expresso/2022/05/04/Como-as-falas-de-Lula-mobilizam-aliados-e-advers%C3%A1rios)
+- [Câmara aprova urgência em projeto que proíbe alteração na Bíblia](https://www.nexojornal.com.br/extra/2022/05/04/C%C3%A2mara-aprova-urg%C3%AAncia-em-projeto-que-pro%C3%ADbe-altera%C3%A7%C3%A3o-na-B%C3%ADblia)
+- [Restringir o horário das refeições ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2022/Restringir-o-hor%C3%A1rio-das-refei%C3%A7%C3%B5es-ajuda-a-emagrecer)
+- [A adesão das Forças Armadas à estratégia eleitoral de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/05/04/A-ades%C3%A3o-das-For%C3%A7as-Armadas-%C3%A0-estrat%C3%A9gia-eleitoral-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
