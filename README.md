@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Raquel Rolnik: ‘O espaço urbano não é inerte, ele produz desigualdade’](https://gamarevista.uol.com.br/formato/conversas/raquel-rolnik-o-espaco-urbano-nao-e-inerte-ele-produz-desigualdade/)
-- [Memória, yin-yang o tempo inteiro](https://gamarevista.uol.com.br/colunistas/letrux/memoria-yin-yang-o-tempo-inteiro/)
-- [Mobilete](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mobilete/)
-- [@negromuro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/negromuro/)
-- [Elaine de Azevedo: ‘Para comer melhor tem que apoiar quem produz; não o agro’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nutricionista-elaine-azevedo-fala-sobre-o-carater-politico-da-comida/)
+- [Paulo Gustavo genial na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/paulo-gustavo-genial-na-piaui/)
+- [A arquitetura da natureza de Krajcberg no Mube](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arquitetura-da-natureza-de-krajcberg-no-mube/)
+- [Cinema modernista brasileiro no CCBB de Brasília](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-modernista-brasileiro-no-ccbb-de-brasilia/)
+- [O novo álbum do Arcade Fire](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-do-arcade-fire/)
+- [O universo de Tim Burton na Oca](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-universo-de-tim-burton-na-oca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
