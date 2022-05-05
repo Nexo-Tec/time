@@ -51,17 +51,14 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <a href="https://github.com/decoesp">
   <img src="https://github.com/decoesp.png?size=50">
 </a>
-<a href="https://github.com/krollopes">
-  <img src="https://github.com/krollopes.png?size=50">
-</a>
-<a href="https://github.com/ferreira-mariana">
-  <img src="https://github.com/ferreira-mariana.png?size=50">
-</a>
 <a href="https://github.com/victorgois">
   <img src="https://github.com/victorgois.png?size=50">
 </a>
 <a href="https://github.com/viniciusfersil123">
   <img src="https://github.com/viniciusfersil123.png?size=50">
+</a>
+<a href="https://github.com/douglasanto">
+  <img src="https://github.com/douglasanto.png?size=50">
 </a>
 
 ## Já fizeram parte do time
@@ -77,6 +74,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 </a>
 <a href="https://github.com/arieltonglet">
   <img src="https://github.com/arieltonglet.png?size=50">
+</a>
+<a href="https://github.com/krollopes">
+  <img src="https://github.com/krollopes.png?size=50">
 </a>
 <a href="https://github.com/EmmanoelCoutinho">
   <img src="https://github.com/EmmanoelCoutinho.png?size=50">
@@ -98,6 +98,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 </a>
 <a href="https://github.com/marianaolvr">
   <img src="https://github.com/marianaolvr.png?size=50">
+</a>
+<a href="https://github.com/ferreira-mariana">
+  <img src="https://github.com/ferreira-mariana.png?size=50">
 </a>
 <a href="https://github.com/tarekcampossaleh">
   <img src="https://github.com/tarekcampossaleh.png?size=50">
