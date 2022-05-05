@@ -1,7 +1,5 @@
 # Nexo Tecnologia
 
-> O processo seletivo da [chamada de Maio](chamadas/2021/README.md) já se encerrou. Obrigado a todas pessoas que submiteram! Em breve postaremos os resultados de nosso rico e experimental processo de seleção.
-
 ## Quem somos
 
 Somos um time *lean* de tecnologia em um grupo de jornalismo nativo digital, o Nexo, que é composto pelo [Nexo Jornal](https://nexojornal.com.br), [Gama Revista](https://gamarevista.uol.com.br) e [Nexo Políticas Políticas](https://pp.nexojornal.com.br). Nosso time desempenha diversos papéis estratégicos e fundamentais para o constante aprimoramento do Jornal. Cuidamos dos **CMSs** e exploramos peças interativas. Além disso, criamos matérias em colaboração ativa com a redação e operamos o sistema de gestão de identidades e assinaturas do nosso Jornal.
