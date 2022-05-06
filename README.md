@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara cria comissão para averiguar ataques a Yanomamis](https://www.nexojornal.com.br/extra/2022/05/05/C%C3%A2mara-cria-comiss%C3%A3o-para-averiguar-ataques-a-Yanomamis)
-- [Os esforços para a preservação da história dos games](https://www.nexojornal.com.br/expresso/2022/05/05/Os-esfor%C3%A7os-para-a-preserva%C3%A7%C3%A3o-da-hist%C3%B3ria-dos-games)
-- [O papel das mulheres na gestão de desastres no Brasil](https://www.nexojornal.com.br/academico/2022/05/05/O-papel-das-mulheres-na-gest%C3%A3o-de-desastres-no-Brasil)
-- [Número de mortes por covid é quase 3 vezes o oficial, estima OMS](https://www.nexojornal.com.br/extra/2022/05/05/N%C3%BAmero-de-mortes-por-covid-%C3%A9-quase-3-vezes-o-oficial-estima-OMS)
-- [CIA pediu para Bolsonaro não questionar eleições, diz Reuters](https://www.nexojornal.com.br/extra/2022/05/05/CIA-pediu-para-Bolsonaro-n%C3%A3o-questionar-elei%C3%A7%C3%B5es-diz-Reuters)
+- [Os efeitos da tática antiatrito do STF e do TSE com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/05/05/Os-efeitos-da-t%C3%A1tica-antiatrito-do-STF-e-do-TSE-com-Bolsonaro)
+- [O que a alta de jovens eleitores diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2022/05/05/O-que-a-alta-de-jovens-eleitores-diz-sobre-a-democracia-brasileira)
+- [Prefeitura suspende pagamento a Daniela Mercury por 1º de maio](https://www.nexojornal.com.br/extra/2022/05/05/Prefeitura-suspende-pagamento-a-Daniela-Mercury-por-1%C2%BA-de-maio)
+- [O escândalo do MEC: dois passos atrás e nenhum para a frente](https://www.nexojornal.com.br/colunistas/2022/O-esc%C3%A2ndalo-do-MEC-dois-passos-atr%C3%A1s-e-nenhum-para-a-frente)
+- [A violência nas ruas, os falsos entregadores de app e a reação política](https://www.nexojornal.com.br/podcast/2022/05/05/A-viol%C3%AAncia-nas-ruas-os-falsos-entregadores-de-app-e-a-rea%C3%A7%C3%A3o-pol%C3%ADtica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
