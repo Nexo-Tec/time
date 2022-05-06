@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [TSE responde a Bolsonaro e diz que partidos podem auditar eleições](https://www.nexojornal.com.br/extra/2022/05/06/TSE-responde-a-Bolsonaro-e-diz-que-partidos-podem-auditar-elei%C3%A7%C3%B5es)
+- [Nasa divulga nova sonificação de buraco negro](https://www.nexojornal.com.br/extra/2022/05/06/Nasa-divulga-nova-sonifica%C3%A7%C3%A3o-de-buraco-negro)
+- [Petrobras tem lucro recorde. Bolsonaro chama de ‘estupro’](https://www.nexojornal.com.br/extra/2022/05/06/Petrobras-tem-lucro-recorde.-Bolsonaro-chama-de-%E2%80%98estupro%E2%80%99)
 - [Os efeitos da tática antiatrito do STF e do TSE com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/05/05/Os-efeitos-da-t%C3%A1tica-antiatrito-do-STF-e-do-TSE-com-Bolsonaro)
 - [O que a alta de jovens eleitores diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2022/05/05/O-que-a-alta-de-jovens-eleitores-diz-sobre-a-democracia-brasileira)
-- [Prefeitura suspende pagamento a Daniela Mercury por 1º de maio](https://www.nexojornal.com.br/extra/2022/05/05/Prefeitura-suspende-pagamento-a-Daniela-Mercury-por-1%C2%BA-de-maio)
-- [O escândalo do MEC: dois passos atrás e nenhum para a frente](https://www.nexojornal.com.br/colunistas/2022/O-esc%C3%A2ndalo-do-MEC-dois-passos-atr%C3%A1s-e-nenhum-para-a-frente)
-- [A violência nas ruas, os falsos entregadores de app e a reação política](https://www.nexojornal.com.br/podcast/2022/05/05/A-viol%C3%AAncia-nas-ruas-os-falsos-entregadores-de-app-e-a-rea%C3%A7%C3%A3o-pol%C3%ADtica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
