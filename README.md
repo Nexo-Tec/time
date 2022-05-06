@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Filhos: da barriga pra cabeça](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/filhos-da-barriga-pra-cabeca/)
 - [Pança de Burro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/panca-de-burro/)
 - [Paulo Gustavo genial na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/paulo-gustavo-genial-na-piaui/)
 - [A arquitetura da natureza de Krajcberg no Mube](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arquitetura-da-natureza-de-krajcberg-no-mube/)
 - [Cinema modernista brasileiro no CCBB de Brasília](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-modernista-brasileiro-no-ccbb-de-brasilia/)
-- [O novo álbum do Arcade Fire](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-do-arcade-fire/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
