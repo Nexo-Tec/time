@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro veta nova Lei Aldir Blanc de apoio à cultura](https://www.nexojornal.com.br/extra/2022/05/05/Bolsonaro-veta-nova-Lei-Aldir-Blanc-de-apoio-%C3%A0-cultura)
-- [Como as falas de Lula mobilizam aliados e adversários](https://www.nexojornal.com.br/expresso/2022/05/04/Como-as-falas-de-Lula-mobilizam-aliados-e-advers%C3%A1rios)
-- [Câmara aprova urgência em projeto que proíbe alteração na Bíblia](https://www.nexojornal.com.br/extra/2022/05/04/C%C3%A2mara-aprova-urg%C3%AAncia-em-projeto-que-pro%C3%ADbe-altera%C3%A7%C3%A3o-na-B%C3%ADblia)
-- [Restringir o horário das refeições ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2022/Restringir-o-hor%C3%A1rio-das-refei%C3%A7%C3%B5es-ajuda-a-emagrecer)
-- [A adesão das Forças Armadas à estratégia eleitoral de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/05/04/A-ades%C3%A3o-das-For%C3%A7as-Armadas-%C3%A0-estrat%C3%A9gia-eleitoral-de-Bolsonaro)
+- [Câmara cria comissão para averiguar ataques a Yanomamis](https://www.nexojornal.com.br/extra/2022/05/05/C%C3%A2mara-cria-comiss%C3%A3o-para-averiguar-ataques-a-Yanomamis)
+- [Os esforços para a preservação da história dos games](https://www.nexojornal.com.br/expresso/2022/05/05/Os-esfor%C3%A7os-para-a-preserva%C3%A7%C3%A3o-da-hist%C3%B3ria-dos-games)
+- [O papel das mulheres na gestão de desastres no Brasil](https://www.nexojornal.com.br/academico/2022/05/05/O-papel-das-mulheres-na-gest%C3%A3o-de-desastres-no-Brasil)
+- [Número de mortes por covid é quase 3 vezes o oficial, estima OMS](https://www.nexojornal.com.br/extra/2022/05/05/N%C3%BAmero-de-mortes-por-covid-%C3%A9-quase-3-vezes-o-oficial-estima-OMS)
+- [CIA pediu para Bolsonaro não questionar eleições, diz Reuters](https://www.nexojornal.com.br/extra/2022/05/05/CIA-pediu-para-Bolsonaro-n%C3%A3o-questionar-elei%C3%A7%C3%B5es-diz-Reuters)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
