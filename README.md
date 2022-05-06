@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro veta nova Lei Aldir Blanc de apoio à cultura](https://www.nexojornal.com.br/extra/2022/05/05/Bolsonaro-veta-nova-Lei-Aldir-Blanc-de-apoio-%C3%A0-cultura)
-- [Como as falas de Lula mobilizam aliados e adversários](https://www.nexojornal.com.br/expresso/2022/05/04/Como-as-falas-de-Lula-mobilizam-aliados-e-advers%C3%A1rios)
-- [Câmara aprova urgência em projeto que proíbe alteração na Bíblia](https://www.nexojornal.com.br/extra/2022/05/04/C%C3%A2mara-aprova-urg%C3%AAncia-em-projeto-que-pro%C3%ADbe-altera%C3%A7%C3%A3o-na-B%C3%ADblia)
-- [Restringir o horário das refeições ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2022/Restringir-o-hor%C3%A1rio-das-refei%C3%A7%C3%B5es-ajuda-a-emagrecer)
-- [A adesão das Forças Armadas à estratégia eleitoral de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/05/04/A-ades%C3%A3o-das-For%C3%A7as-Armadas-%C3%A0-estrat%C3%A9gia-eleitoral-de-Bolsonaro)
+- [Os efeitos da tática antiatrito do STF e do TSE com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/05/05/Os-efeitos-da-t%C3%A1tica-antiatrito-do-STF-e-do-TSE-com-Bolsonaro)
+- [O que a alta de jovens eleitores diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2022/05/05/O-que-a-alta-de-jovens-eleitores-diz-sobre-a-democracia-brasileira)
+- [Prefeitura suspende pagamento a Daniela Mercury por 1º de maio](https://www.nexojornal.com.br/extra/2022/05/05/Prefeitura-suspende-pagamento-a-Daniela-Mercury-por-1%C2%BA-de-maio)
+- [O escândalo do MEC: dois passos atrás e nenhum para a frente](https://www.nexojornal.com.br/colunistas/2022/O-esc%C3%A2ndalo-do-MEC-dois-passos-atr%C3%A1s-e-nenhum-para-a-frente)
+- [A violência nas ruas, os falsos entregadores de app e a reação política](https://www.nexojornal.com.br/podcast/2022/05/05/A-viol%C3%AAncia-nas-ruas-os-falsos-entregadores-de-app-e-a-rea%C3%A7%C3%A3o-pol%C3%ADtica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
