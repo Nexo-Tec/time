@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/06/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [PGR pede que Supremo arquive investigação contra Ciro Nogueira](https://www.nexojornal.com.br/extra/2022/05/06/PGR-pede-que-Supremo-arquive-investiga%C3%A7%C3%A3o-contra-Ciro-Nogueira)
-- [‘Sem luta política, não tem instituição que salve a democracia’](https://www.nexojornal.com.br/entrevista/2022/05/06/%E2%80%98Sem-luta-pol%C3%ADtica-n%C3%A3o-tem-institui%C3%A7%C3%A3o-que-salve-a-democracia%E2%80%99)
-- [O que o Observatório da Branquitude quer mostrar sobre o Brasil](https://www.nexojornal.com.br/expresso/2022/05/06/O-que-o-Observat%C3%B3rio-da-Branquitude-quer-mostrar-sobre-o-Brasil)
-- [Em pessoas insensíveis à dor, a sugestão para um novo analgésico](https://www.nexojornal.com.br/externo/2022/05/06/Em-pessoas-insens%C3%ADveis-%C3%A0-dor-a-sugest%C3%A3o-para-um-novo-analg%C3%A9sico)
+- [TSE responde a Bolsonaro e diz que partidos podem auditar eleições](https://www.nexojornal.com.br/extra/2022/05/06/TSE-responde-a-Bolsonaro-e-diz-que-partidos-podem-auditar-elei%C3%A7%C3%B5es)
+- [Nasa divulga nova sonificação de buraco negro](https://www.nexojornal.com.br/extra/2022/05/06/Nasa-divulga-nova-sonifica%C3%A7%C3%A3o-de-buraco-negro)
+- [Petrobras tem lucro recorde. Bolsonaro chama de ‘estupro’](https://www.nexojornal.com.br/extra/2022/05/06/Petrobras-tem-lucro-recorde.-Bolsonaro-chama-de-%E2%80%98estupro%E2%80%99)
+- [Os efeitos da tática antiatrito do STF e do TSE com Bolsonaro](https://www.nexojornal.com.br/expresso/2022/05/05/Os-efeitos-da-t%C3%A1tica-antiatrito-do-STF-e-do-TSE-com-Bolsonaro)
+- [O que a alta de jovens eleitores diz sobre a democracia brasileira](https://www.nexojornal.com.br/expresso/2022/05/05/O-que-a-alta-de-jovens-eleitores-diz-sobre-a-democracia-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
