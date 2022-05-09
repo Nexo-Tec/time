@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Petrobras aumenta em 8,9% preço do litro do diesel](https://www.nexojornal.com.br/extra/2022/05/09/Petrobras-aumenta-em-89-pre%C3%A7o-do-litro-do-diesel)
+- [No Dia da Vitória, Putin compara invasão da Ucrânia à 2ª Guerra](https://www.nexojornal.com.br/extra/2022/05/09/No-Dia-da-Vit%C3%B3ria-Putin-compara-invas%C3%A3o-da-Ucr%C3%A2nia-%C3%A0-2%C2%AA-Guerra)
 - [Tiroteio em show do rapper Matuê deixa homem ferido](https://www.nexojornal.com.br/extra/2022/05/08/Tiroteio-em-show-do-rapper-Matu%C3%AA-deixa-homem-ferido)
 - [Como o convite aos militares se virou contra o TSE na eleição](https://www.nexojornal.com.br/expresso/2022/05/08/Como-o-convite-aos-militares-se-virou-contra-o-TSE-na-elei%C3%A7%C3%A3o)
 - [A compra do Twitter e a regulação das plataformas digitais](https://www.nexojornal.com.br/ensaio/2022/A-compra-do-Twitter-e-a-regula%C3%A7%C3%A3o-das-plataformas-digitais)
-- [Quais os riscos de liberar a mineração na Serra do Curral](https://www.nexojornal.com.br/expresso/2022/05/08/Quais-os-riscos-de-liberar-a-minera%C3%A7%C3%A3o-na-Serra-do-Curral)
-- [Líderes do G7 prometem proibir importação de petróleo russo](https://www.nexojornal.com.br/extra/2022/05/08/L%C3%ADderes-do-G7-prometem-proibir-importa%C3%A7%C3%A3o-de-petr%C3%B3leo-russo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
