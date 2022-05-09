@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho cria cadastro para motorista sem infração ter benefícios](https://www.nexojornal.com.br/extra/2022/05/09/Conselho-cria-cadastro-para-motorista-sem-infra%C3%A7%C3%A3o-ter-benef%C3%ADcios)
-- [Como a eleição das Filipinas reabilita a antiga ditadura do país](https://www.nexojornal.com.br/expresso/2022/05/09/Como-a-elei%C3%A7%C3%A3o-das-Filipinas-reabilita-a-antiga-ditadura-do-pa%C3%ADs)
-- [A pressão contra os marketplaces asiáticos no Brasil](https://www.nexojornal.com.br/expresso/2022/05/09/A-press%C3%A3o-contra-os-marketplaces-asi%C3%A1ticos-no-Brasil)
 - [Deputado do PT aciona Procuradoria por fala de Michelle na TV](https://www.nexojornal.com.br/extra/2022/05/09/Deputado-do-PT-aciona-Procuradoria-por-fala-de-Michelle-na-TV)
 - [Ministro da Defesa quer centralizar comunicação com TSE](https://www.nexojornal.com.br/extra/2022/05/09/Ministro-da-Defesa-quer-centralizar-comunica%C3%A7%C3%A3o-com-TSE)
+- [Petrobras aumenta em 8,9% preço do litro do diesel](https://www.nexojornal.com.br/extra/2022/05/09/Petrobras-aumenta-em-89-pre%C3%A7o-do-litro-do-diesel)
+- [No Dia da Vitória, Putin compara invasão da Ucrânia à 2ª Guerra](https://www.nexojornal.com.br/extra/2022/05/09/No-Dia-da-Vit%C3%B3ria-Putin-compara-invas%C3%A3o-da-Ucr%C3%A2nia-%C3%A0-2%C2%AA-Guerra)
+- [Tiroteio em show do rapper Matuê deixa homem ferido](https://www.nexojornal.com.br/extra/2022/05/08/Tiroteio-em-show-do-rapper-Matu%C3%AA-deixa-homem-ferido)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
