@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bombardeio em escola ucraniana pode ter matado 60 pessoas](https://www.nexojornal.com.br/extra/2022/05/08/Bombardeio-em-escola-ucraniana-pode-ter-matado-60-pessoas)
+- [SUS inclui Paxlovid no tratamento de casos leves de covid](https://www.nexojornal.com.br/extra/2022/05/08/SUS-inclui-Paxlovid-no-tratamento-de-casos-leves-de-covid)
 - [5 livros do boom de contistas brasileiros dos anos 1970](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-do-boom-de-contistas-brasileiros-dos-anos-1970)
 - [Por que chineses viraram alvo de terrorismo no Paquistão](https://www.nexojornal.com.br/expresso/2022/05/07/Por-que-chineses-viraram-alvo-de-terrorismo-no-Paquist%C3%A3o)
 - [Os direitos à licença maternidade paga ao redor do mundo](https://www.nexojornal.com.br/grafico/2022/05/07/Os-direitos-%C3%A0-licen%C3%A7a-maternidade-paga-ao-redor-do-mundo)
-- [A escolha metodológica das pesquisas eleitorais](https://www.nexojornal.com.br/ensaio/2022/A-escolha-metodol%C3%B3gica-das-pesquisas-eleitorais)
-- [Qual o estado das cortes máximas em democracias corroídas](https://www.nexojornal.com.br/expresso/2022/05/07/Qual-o-estado-das-cortes-m%C3%A1ximas-em-democracias-corro%C3%ADdas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
