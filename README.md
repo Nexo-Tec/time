@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@luisadorr](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/luisadorr/)
 - [Ingrid Silva: ‘Um dos meus medos era não voltar a ser quem sou. Não queria ser só mãe’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ingrid-silva-conta-como-foi-a-maternidade-no-pico-da-carreira-de-bailarina/)
 - [Giovana Madalosso](https://gamarevista.uol.com.br/pessoas/questionario-proust/giovana-madalosso/)
 - [Filhos: da barriga pra cabeça](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/filhos-da-barriga-pra-cabeca/)
 - [Pança de Burro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/panca-de-burro/)
-- [Paulo Gustavo genial na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/paulo-gustavo-genial-na-piaui/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
