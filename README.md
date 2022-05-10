@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Elon Musk diz que vai reverter bloqueio de Trump do Twitter](https://www.nexojornal.com.br/extra/2022/05/10/Elon-Musk-diz-que-vai-reverter-bloqueio-de-Trump-do-Twitter)
+- [Oito oligarcas russos morreram em menos de 4 meses](https://www.nexojornal.com.br/extra/2022/05/10/Oito-oligarcas-russos-morreram-em-menos-de-4-meses)
+- [O que influencia a definição do preço de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/05/10/O-que-influencia-a-defini%C3%A7%C3%A3o-do-pre%C3%A7o-de-uma-obra-de-arte)
 - [Grupo faz vaquinha para repórter conseguir indenizar Gilmar Mendes](https://www.nexojornal.com.br/extra/2022/05/10/Grupo-faz-vaquinha-para-rep%C3%B3rter-conseguir-indenizar-Gilmar-Mendes)
 - [Justiça autoriza posto de gasolina de SC a funcionar sem frentista](https://www.nexojornal.com.br/extra/2022/05/10/Justi%C3%A7a-autoriza-posto-de-gasolina-de-SC-a-funcionar-sem-frentista)
-- [A revolta contra o governo de dois irmãos no Sri Lanka](https://www.nexojornal.com.br/expresso/2022/05/10/A-revolta-contra-o-governo-de-dois-irm%C3%A3os-no-Sri-Lanka)
-- [Brasil tem 1,5 milhão de motoristas e entregadores de app](https://www.nexojornal.com.br/extra/2022/05/10/Brasil-tem-15-milh%C3%A3o-de-motoristas-e-entregadores-de-app)
-- [Delegada é presa após força-tarefa apreender R$ 1,8 mi em sua casa](https://www.nexojornal.com.br/extra/2022/05/10/Delegada-%C3%A9-presa-ap%C3%B3s-for%C3%A7a-tarefa-apreender-R-18-mi-em-sua-casa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
