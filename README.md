@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Luciana Temer: ‘Nosso silêncio perpetua a violência sexual infantil’](https://gamarevista.uol.com.br/formato/conversas/luciana-temer-nosso-silencio-perpetua-a-violencia-sexual-infantil/)
 - [Ordenhando Sonhos](https://gamarevista.uol.com.br/colunistas/marcello-dantas/ordenhando-sonhos/)
 - [Canivete Victorinox](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/canivete-victorinox/)
 - [@luisadorr](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/luisadorr/)
 - [Ingrid Silva: ‘Um dos meus medos era não voltar a ser quem sou. Não queria ser só mãe’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ingrid-silva-conta-como-foi-a-maternidade-no-pico-da-carreira-de-bailarina/)
-- [Giovana Madalosso](https://gamarevista.uol.com.br/pessoas/questionario-proust/giovana-madalosso/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
