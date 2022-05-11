@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após 20 anos, Apple encerra produção de iPods](https://www.nexojornal.com.br/extra/2022/05/10/Ap%C3%B3s-20-anos-Apple-encerra-produ%C3%A7%C3%A3o-de-iPods)
-- [Moraes une apurações sobre ataques às urnas e milícias digitais](https://www.nexojornal.com.br/extra/2022/05/10/Moraes-une-apura%C3%A7%C3%B5es-sobre-ataques-%C3%A0s-urnas-e-mil%C3%ADcias-digitais)
-- [Qual o conceito por trás dos tênis ‘destruídos’ da Balenciaga](https://www.nexojornal.com.br/expresso/2022/05/10/Qual-o-conceito-por-tr%C3%A1s-dos-t%C3%AAnis-%E2%80%98destru%C3%ADdos%E2%80%99-da-Balenciaga)
-- [Os passageiros de voos internacionais nos aeroportos brasileiros](https://www.nexojornal.com.br/grafico/2022/05/10/Os-passageiros-de-voos-internacionais-nos-aeroportos-brasileiros)
-- [Como a alta do diesel impacta o transporte público](https://www.nexojornal.com.br/expresso/2022/05/10/Como-a-alta-do-diesel-impacta-o-transporte-p%C3%BAblico)
+- [Elon Musk diz que vai reverter bloqueio de Trump do Twitter](https://www.nexojornal.com.br/extra/2022/05/10/Elon-Musk-diz-que-vai-reverter-bloqueio-de-Trump-do-Twitter)
+- [Oito oligarcas russos morreram em menos de 4 meses](https://www.nexojornal.com.br/extra/2022/05/10/Oito-oligarcas-russos-morreram-em-menos-de-4-meses)
+- [O que influencia a definição do preço de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/05/10/O-que-influencia-a-defini%C3%A7%C3%A3o-do-pre%C3%A7o-de-uma-obra-de-arte)
+- [Grupo faz vaquinha para repórter conseguir indenizar Gilmar Mendes](https://www.nexojornal.com.br/extra/2022/05/10/Grupo-faz-vaquinha-para-rep%C3%B3rter-conseguir-indenizar-Gilmar-Mendes)
+- [Justiça autoriza posto de gasolina de SC a funcionar sem frentista](https://www.nexojornal.com.br/extra/2022/05/10/Justi%C3%A7a-autoriza-posto-de-gasolina-de-SC-a-funcionar-sem-frentista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
