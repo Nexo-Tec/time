@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após 20 anos, Apple encerra produção de iPods](https://www.nexojornal.com.br/extra/2022/05/10/Ap%C3%B3s-20-anos-Apple-encerra-produ%C3%A7%C3%A3o-de-iPods)
-- [Moraes une apurações sobre ataques às urnas e milícias digitais](https://www.nexojornal.com.br/extra/2022/05/10/Moraes-une-apura%C3%A7%C3%B5es-sobre-ataques-%C3%A0s-urnas-e-mil%C3%ADcias-digitais)
-- [Qual o conceito por trás dos tênis ‘destruídos’ da Balenciaga](https://www.nexojornal.com.br/expresso/2022/05/10/Qual-o-conceito-por-tr%C3%A1s-dos-t%C3%AAnis-%E2%80%98destru%C3%ADdos%E2%80%99-da-Balenciaga)
-- [Os passageiros de voos internacionais nos aeroportos brasileiros](https://www.nexojornal.com.br/grafico/2022/05/10/Os-passageiros-de-voos-internacionais-nos-aeroportos-brasileiros)
-- [Como a alta do diesel impacta o transporte público](https://www.nexojornal.com.br/expresso/2022/05/10/Como-a-alta-do-diesel-impacta-o-transporte-p%C3%BAblico)
+- [Grupo faz vaquinha para repórter conseguir indenizar Gilmar Mendes](https://www.nexojornal.com.br/extra/2022/05/10/Grupo-faz-vaquinha-para-rep%C3%B3rter-conseguir-indenizar-Gilmar-Mendes)
+- [Justiça autoriza posto de gasolina de SC a funcionar sem frentista](https://www.nexojornal.com.br/extra/2022/05/10/Justi%C3%A7a-autoriza-posto-de-gasolina-de-SC-a-funcionar-sem-frentista)
+- [A revolta contra o governo de dois irmãos no Sri Lanka](https://www.nexojornal.com.br/expresso/2022/05/10/A-revolta-contra-o-governo-de-dois-irm%C3%A3os-no-Sri-Lanka)
+- [Brasil tem 1,5 milhão de motoristas e entregadores de app](https://www.nexojornal.com.br/extra/2022/05/10/Brasil-tem-15-milh%C3%A3o-de-motoristas-e-entregadores-de-app)
+- [Delegada é presa após força-tarefa apreender R$ 1,8 mi em sua casa](https://www.nexojornal.com.br/extra/2022/05/10/Delegada-%C3%A9-presa-ap%C3%B3s-for%C3%A7a-tarefa-apreender-R-18-mi-em-sua-casa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
