@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Um terço dos homens do país diz apoiar feminismo, segundo pesquisa](https://www.nexojornal.com.br/extra/2022/05/11/Um-ter%C3%A7o-dos-homens-do-pa%C3%ADs-diz-apoiar-feminismo-segundo-pesquisa)
-- [Conselho de Ética aceita ação contra Telhada por vídeo com arma](https://www.nexojornal.com.br/extra/2022/05/11/Conselho-de-%C3%89tica-aceita-a%C3%A7%C3%A3o-contra-Telhada-por-v%C3%ADdeo-com-arma)
-- [Como os Estados Unidos atuam na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/11/Como-os-Estados-Unidos-atuam-na-guerra-na-Ucr%C3%A2nia)
-- [Quaest: Lula tem 46% de intenções de voto e Bolsonaro, 29%](https://www.nexojornal.com.br/extra/2022/05/11/Quaest-Lula-tem-46-de-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-29)
-- [Polícia expulsa usuários da cracolândia de SP em ação contra o tráfico](https://www.nexojornal.com.br/extra/2022/05/11/Pol%C3%ADcia-expulsa-usu%C3%A1rios-da-cracol%C3%A2ndia-de-SP-em-a%C3%A7%C3%A3o-contra-o-tr%C3%A1fico)
+- [Elon Musk diz que vai reverter bloqueio de Trump do Twitter](https://www.nexojornal.com.br/extra/2022/05/10/Elon-Musk-diz-que-vai-reverter-bloqueio-de-Trump-do-Twitter)
+- [Oito oligarcas russos morreram em menos de 4 meses](https://www.nexojornal.com.br/extra/2022/05/10/Oito-oligarcas-russos-morreram-em-menos-de-4-meses)
+- [O que influencia a definição do preço de uma obra de arte](https://www.nexojornal.com.br/expresso/2022/05/10/O-que-influencia-a-defini%C3%A7%C3%A3o-do-pre%C3%A7o-de-uma-obra-de-arte)
+- [Grupo faz vaquinha para repórter conseguir indenizar Gilmar Mendes](https://www.nexojornal.com.br/extra/2022/05/10/Grupo-faz-vaquinha-para-rep%C3%B3rter-conseguir-indenizar-Gilmar-Mendes)
+- [Justiça autoriza posto de gasolina de SC a funcionar sem frentista](https://www.nexojornal.com.br/extra/2022/05/10/Justi%C3%A7a-autoriza-posto-de-gasolina-de-SC-a-funcionar-sem-frentista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
