@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Precisamos falar sobre a saúde da população negra nas eleições 2022](https://pp.nexojornal.com.br/ponto-de-vista/2022/Precisamos-falar-sobre-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra-nas-elei%C3%A7%C3%B5es-2022)
 - [Burocracia na mira do governo: gestão autoritária e ataques a funcionários públicos](https://pp.nexojornal.com.br/opiniao/2022/Burocracia-na-mira-do-governo-gest%C3%A3o-autorit%C3%A1ria-e-ataques-a-funcion%C3%A1rios-p%C3%BAblicos)
 - [Censura judicial da liberdade artística](https://pp.nexojornal.com.br/linha-do-tempo/2022/Censura-judicial-da-liberdade-art%C3%ADstica)
 - [Os cotistas evadem mais da universidade? Alguns indicadores da UFRJ](https://pp.nexojornal.com.br/opiniao/2022/Os-cotistas-evadem-mais-da-universidade-Alguns-indicadores-da-UFRJ)
 - [Lições pandêmicas para políticas de segurança pública efetivas](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas)
-- [O que é fundamental entender no 6º relatório do IPCC sobre mitigação das mudanças climáticas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-que-%C3%A9-fundamental-entender-no-6%C2%BA-relat%C3%B3rio-do-IPCC-sobre-mitiga%C3%A7%C3%A3o-das-mudan%C3%A7as-clim%C3%A1ticas)
 <!-- PP_LIST:END -->
 
