@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Grupo faz vaquinha para repórter conseguir indenizar Gilmar Mendes](https://www.nexojornal.com.br/extra/2022/05/10/Grupo-faz-vaquinha-para-rep%C3%B3rter-conseguir-indenizar-Gilmar-Mendes)
-- [Justiça autoriza posto de gasolina de SC a funcionar sem frentista](https://www.nexojornal.com.br/extra/2022/05/10/Justi%C3%A7a-autoriza-posto-de-gasolina-de-SC-a-funcionar-sem-frentista)
-- [A revolta contra o governo de dois irmãos no Sri Lanka](https://www.nexojornal.com.br/expresso/2022/05/10/A-revolta-contra-o-governo-de-dois-irm%C3%A3os-no-Sri-Lanka)
-- [Brasil tem 1,5 milhão de motoristas e entregadores de app](https://www.nexojornal.com.br/extra/2022/05/10/Brasil-tem-15-milh%C3%A3o-de-motoristas-e-entregadores-de-app)
-- [Delegada é presa após força-tarefa apreender R$ 1,8 mi em sua casa](https://www.nexojornal.com.br/extra/2022/05/10/Delegada-%C3%A9-presa-ap%C3%B3s-for%C3%A7a-tarefa-apreender-R-18-mi-em-sua-casa)
+- [Um terço dos homens do país diz apoiar feminismo, segundo pesquisa](https://www.nexojornal.com.br/extra/2022/05/11/Um-ter%C3%A7o-dos-homens-do-pa%C3%ADs-diz-apoiar-feminismo-segundo-pesquisa)
+- [Conselho de Ética aceita ação contra Telhada por vídeo com arma](https://www.nexojornal.com.br/extra/2022/05/11/Conselho-de-%C3%89tica-aceita-a%C3%A7%C3%A3o-contra-Telhada-por-v%C3%ADdeo-com-arma)
+- [Como os Estados Unidos atuam na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/11/Como-os-Estados-Unidos-atuam-na-guerra-na-Ucr%C3%A2nia)
+- [Quaest: Lula tem 46% de intenções de voto e Bolsonaro, 29%](https://www.nexojornal.com.br/extra/2022/05/11/Quaest-Lula-tem-46-de-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-29)
+- [Polícia expulsa usuários da cracolândia de SP em ação contra o tráfico](https://www.nexojornal.com.br/extra/2022/05/11/Pol%C3%ADcia-expulsa-usu%C3%A1rios-da-cracol%C3%A2ndia-de-SP-em-a%C3%A7%C3%A3o-contra-o-tr%C3%A1fico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
