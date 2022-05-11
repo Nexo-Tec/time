@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Esqueça o ano de net zero: o que importa é o orçamento remanescente de carbono](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Esque%C3%A7a-o-ano-de-net-zero-o-que-importa-%C3%A9-o-or%C3%A7amento-remanescente-de-carbono)
-- [Marco Regulatório das Organizações da Sociedade Civil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Marco-Regulat%C3%B3rio-das-Organiza%C3%A7%C3%B5es-da-Sociedade-Civil)
-- [Falsas soluções e reducionismos no debate sobre “proteínas alternativas” e sustentabilidade](https://pp.nexojornal.com.br/opiniao/2022/Falsas-solu%C3%A7%C3%B5es-e-reducionismos-no-debate-sobre-%E2%80%9Cprote%C3%ADnas-alternativas%E2%80%9D-e-sustentabilidade)
 - [Precisamos falar sobre a saúde da população negra nas eleições 2022](https://pp.nexojornal.com.br/ponto-de-vista/2022/Precisamos-falar-sobre-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra-nas-elei%C3%A7%C3%B5es-2022)
 - [Burocracia na mira do governo: gestão autoritária e ataques a funcionários públicos](https://pp.nexojornal.com.br/opiniao/2022/Burocracia-na-mira-do-governo-gest%C3%A3o-autorit%C3%A1ria-e-ataques-a-funcion%C3%A1rios-p%C3%BAblicos)
+- [Censura judicial da liberdade artística](https://pp.nexojornal.com.br/linha-do-tempo/2022/Censura-judicial-da-liberdade-art%C3%ADstica)
+- [Os cotistas evadem mais da universidade? Alguns indicadores da UFRJ](https://pp.nexojornal.com.br/opiniao/2022/Os-cotistas-evadem-mais-da-universidade-Alguns-indicadores-da-UFRJ)
+- [Lições pandêmicas para políticas de segurança pública efetivas](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas)
 <!-- PP_LIST:END -->
 
