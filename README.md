@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Um terço dos homens do país diz apoiar feminismo, segundo pesquisa](https://www.nexojornal.com.br/extra/2022/05/11/Um-ter%C3%A7o-dos-homens-do-pa%C3%ADs-diz-apoiar-feminismo-segundo-pesquisa)
-- [Conselho de Ética aceita ação contra Telhada por vídeo com arma](https://www.nexojornal.com.br/extra/2022/05/11/Conselho-de-%C3%89tica-aceita-a%C3%A7%C3%A3o-contra-Telhada-por-v%C3%ADdeo-com-arma)
-- [Como os Estados Unidos atuam na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/11/Como-os-Estados-Unidos-atuam-na-guerra-na-Ucr%C3%A2nia)
-- [Quaest: Lula tem 46% de intenções de voto e Bolsonaro, 29%](https://www.nexojornal.com.br/extra/2022/05/11/Quaest-Lula-tem-46-de-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-29)
-- [Polícia expulsa usuários da cracolândia de SP em ação contra o tráfico](https://www.nexojornal.com.br/extra/2022/05/11/Pol%C3%ADcia-expulsa-usu%C3%A1rios-da-cracol%C3%A2ndia-de-SP-em-a%C3%A7%C3%A3o-contra-o-tr%C3%A1fico)
+- [Novo ministro quer privatizar Petrobras e estatal do pré-sal](https://www.nexojornal.com.br/extra/2022/05/11/Novo-ministro-quer-privatizar-Petrobras-e-estatal-do-pr%C3%A9-sal)
+- [O que determina o sucesso de restauração de um ecossistema](https://www.nexojornal.com.br/academico/2022/05/11/O-que-determina-o-sucesso-de-restaura%C3%A7%C3%A3o-de-um-ecossistema)
+- [Conheça os pré-candidatos à Presidência nas eleições de 2022](https://www.nexojornal.com.br/especial/2022/05/11/Conhe%C3%A7a-os-pr%C3%A9-candidatos-%C3%A0-Presid%C3%AAncia-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Quais recordes a inflação brasileira já quebrou em 2022](https://www.nexojornal.com.br/expresso/2022/05/11/Quais-recordes-a-infla%C3%A7%C3%A3o-brasileira-j%C3%A1-quebrou-em-2022)
+- [Jacarezinho: polícia destrói memorial para mortos em chacina](https://www.nexojornal.com.br/extra/2022/05/11/Jacarezinho-pol%C3%ADcia-destr%C3%B3i-memorial-para-mortos-em-chacina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
