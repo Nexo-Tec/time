@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Um terço dos homens do país diz apoiar feminismo, segundo pesquisa](https://www.nexojornal.com.br/extra/2022/05/11/Um-ter%C3%A7o-dos-homens-do-pa%C3%ADs-diz-apoiar-feminismo-segundo-pesquisa)
-- [Conselho de Ética aceita ação contra Telhada por vídeo com arma](https://www.nexojornal.com.br/extra/2022/05/11/Conselho-de-%C3%89tica-aceita-a%C3%A7%C3%A3o-contra-Telhada-por-v%C3%ADdeo-com-arma)
-- [Como os Estados Unidos atuam na guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/11/Como-os-Estados-Unidos-atuam-na-guerra-na-Ucr%C3%A2nia)
-- [Quaest: Lula tem 46% de intenções de voto e Bolsonaro, 29%](https://www.nexojornal.com.br/extra/2022/05/11/Quaest-Lula-tem-46-de-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-29)
-- [Polícia expulsa usuários da cracolândia de SP em ação contra o tráfico](https://www.nexojornal.com.br/extra/2022/05/11/Pol%C3%ADcia-expulsa-usu%C3%A1rios-da-cracol%C3%A2ndia-de-SP-em-a%C3%A7%C3%A3o-contra-o-tr%C3%A1fico)
+- [Justiça aprova distribuição de absorventes para homens trans](https://www.nexojornal.com.br/extra/2022/05/12/Justi%C3%A7a-aprova-distribui%C3%A7%C3%A3o-de-absorventes-para-homens-trans)
+- [Costa Rica declara emergência nacional após ataques virtuais](https://www.nexojornal.com.br/extra/2022/05/12/Costa-Rica-declara-emerg%C3%AAncia-nacional-ap%C3%B3s-ataques-virtuais)
+- [O choque entre quem quer Lula já e quem quer opção à esquerda](https://www.nexojornal.com.br/expresso/2022/05/12/O-choque-entre-quem-quer-Lula-j%C3%A1-e-quem-quer-op%C3%A7%C3%A3o-%C3%A0-esquerda)
+- [Guedes se irrita com sindicalistas em entrevista sobre Petrobras](https://www.nexojornal.com.br/extra/2022/05/12/Guedes-se-irrita-com-sindicalistas-em-entrevista-sobre-Petrobras)
+- [Fachin diz que eleições são assunto das ‘forças desarmadas’](https://www.nexojornal.com.br/extra/2022/05/12/Fachin-diz-que-elei%C3%A7%C3%B5es-s%C3%A3o-assunto-das-%E2%80%98for%C3%A7as-desarmadas%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
