@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um corpo que caiba](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-corpo-que-caiba/)
 - [Nova série do SescTV desvenda segredos da Amazônia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nova-serie-do-sesctv-desvenda-segredos-da-amazonia/)
 - [O novo disco de Kendrick Lamar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-disco-de-kendrick-lamar/)
 - [Festa Literária volta ao presencial e homenageia autor indígena](https://gamarevista.uol.com.br/achamos-que-vale/ir/festa-literaria-volta-ao-presencial-e-homenageia-autor-indigena/)
 - [Valter Hugo Mãe fala sobre seu novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/valter-hugo-mae-fala-sobre-seu-novo-livro/)
-- [‘Educação em museus de arte e saúde mental’, no Youtube da Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/assistir/educacao-em-museus-de-arte-e-saude-mental-no-youtube-da-pinacoteca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
