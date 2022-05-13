@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça aprova distribuição de absorventes para homens trans](https://www.nexojornal.com.br/extra/2022/05/12/Justi%C3%A7a-aprova-distribui%C3%A7%C3%A3o-de-absorventes-para-homens-trans)
-- [Costa Rica declara emergência nacional após ataques virtuais](https://www.nexojornal.com.br/extra/2022/05/12/Costa-Rica-declara-emerg%C3%AAncia-nacional-ap%C3%B3s-ataques-virtuais)
-- [O choque entre quem quer Lula já e quem quer opção à esquerda](https://www.nexojornal.com.br/expresso/2022/05/12/O-choque-entre-quem-quer-Lula-j%C3%A1-e-quem-quer-op%C3%A7%C3%A3o-%C3%A0-esquerda)
-- [Guedes se irrita com sindicalistas em entrevista sobre Petrobras](https://www.nexojornal.com.br/extra/2022/05/12/Guedes-se-irrita-com-sindicalistas-em-entrevista-sobre-Petrobras)
-- [Fachin diz que eleições são assunto das ‘forças desarmadas’](https://www.nexojornal.com.br/extra/2022/05/12/Fachin-diz-que-elei%C3%A7%C3%B5es-s%C3%A3o-assunto-das-%E2%80%98for%C3%A7as-desarmadas%E2%80%99)
+- [Bolsonaro exorta Forças Armadas e PMs a reagir contra ‘marginais’](https://www.nexojornal.com.br/extra/2022/05/13/Bolsonaro-exorta-For%C3%A7as-Armadas-e-PMs-a-reagir-contra-%E2%80%98marginais%E2%80%99)
+- [Polícia de Israel reprime palestinos em funeral de jornalista](https://www.nexojornal.com.br/extra/2022/05/13/Pol%C3%ADcia-de-Israel-reprime-palestinos-em-funeral-de-jornalista)
+- [‘Vale da estranheza’: a cultura das startups da região do Silício](https://www.nexojornal.com.br/estante/trechos/2022/05/13/%E2%80%98Vale-da-estranheza%E2%80%99-a-cultura-das-startups-da-regi%C3%A3o-do-Sil%C3%ADcio)
+- [‘Cytopia’: um jogo gratuito para aprender sobre urbanismo](https://www.nexojornal.com.br/expresso/2022/05/13/%E2%80%98Cytopia%E2%80%99-um-jogo-gratuito-para-aprender-sobre-urbanismo)
+- [A reabertura e a retomada da Cinemateca Brasileira](https://www.nexojornal.com.br/expresso/2022/05/13/A-reabertura-e-a-retomada-da-Cinemateca-Brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
