@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Novo ministro quer privatizar Petrobras e estatal do pré-sal](https://www.nexojornal.com.br/extra/2022/05/11/Novo-ministro-quer-privatizar-Petrobras-e-estatal-do-pr%C3%A9-sal)
-- [O que determina o sucesso de restauração de um ecossistema](https://www.nexojornal.com.br/academico/2022/05/11/O-que-determina-o-sucesso-de-restaura%C3%A7%C3%A3o-de-um-ecossistema)
-- [Conheça os pré-candidatos à Presidência nas eleições de 2022](https://www.nexojornal.com.br/especial/2022/05/11/Conhe%C3%A7a-os-pr%C3%A9-candidatos-%C3%A0-Presid%C3%AAncia-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Quais recordes a inflação brasileira já quebrou em 2022](https://www.nexojornal.com.br/expresso/2022/05/11/Quais-recordes-a-infla%C3%A7%C3%A3o-brasileira-j%C3%A1-quebrou-em-2022)
-- [Jacarezinho: polícia destrói memorial para mortos em chacina](https://www.nexojornal.com.br/extra/2022/05/11/Jacarezinho-pol%C3%ADcia-destr%C3%B3i-memorial-para-mortos-em-chacina)
+- [Justiça aprova distribuição de absorventes para homens trans](https://www.nexojornal.com.br/extra/2022/05/12/Justi%C3%A7a-aprova-distribui%C3%A7%C3%A3o-de-absorventes-para-homens-trans)
+- [Costa Rica declara emergência nacional após ataques virtuais](https://www.nexojornal.com.br/extra/2022/05/12/Costa-Rica-declara-emerg%C3%AAncia-nacional-ap%C3%B3s-ataques-virtuais)
+- [O choque entre quem quer Lula já e quem quer opção à esquerda](https://www.nexojornal.com.br/expresso/2022/05/12/O-choque-entre-quem-quer-Lula-j%C3%A1-e-quem-quer-op%C3%A7%C3%A3o-%C3%A0-esquerda)
+- [Guedes se irrita com sindicalistas em entrevista sobre Petrobras](https://www.nexojornal.com.br/extra/2022/05/12/Guedes-se-irrita-com-sindicalistas-em-entrevista-sobre-Petrobras)
+- [Fachin diz que eleições são assunto das ‘forças desarmadas’](https://www.nexojornal.com.br/extra/2022/05/12/Fachin-diz-que-elei%C3%A7%C3%B5es-s%C3%A3o-assunto-das-%E2%80%98for%C3%A7as-desarmadas%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
