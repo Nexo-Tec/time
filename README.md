@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O mundo que começa depois do fim](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-mundo-que-comeca-depois-do-fim/)
 - [A Consulta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-consulta/)
 - [Um corpo que caiba](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-corpo-que-caiba/)
 - [Nova série do SescTV desvenda segredos da Amazônia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nova-serie-do-sesctv-desvenda-segredos-da-amazonia/)
 - [O novo disco de Kendrick Lamar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-disco-de-kendrick-lamar/)
-- [Festa Literária volta ao presencial e homenageia autor indígena](https://gamarevista.uol.com.br/achamos-que-vale/ir/festa-literaria-volta-ao-presencial-e-homenageia-autor-indigena/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
