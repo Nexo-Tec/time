@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Cala a boca já morreu, quem manda na minha boca sou eu!’ Será?](https://www.nexojornal.com.br/colunistas/2022/%E2%80%98Cala-a-boca-j%C3%A1-morreu-quem-manda-na-minha-boca-sou-eu%E2%80%99-Ser%C3%A1)
-- [Câmara de Curitiba vai investigar racismo contra vereador](https://www.nexojornal.com.br/extra/2022/05/12/C%C3%A2mara-de-Curitiba-vai-investigar-racismo-contra-vereador)
-- [Quem exalta o 13 de maio de 1888 em 13 de maio de 2022](https://www.nexojornal.com.br/expresso/2022/05/12/Quem-exalta-o-13-de-maio-de-1888-em-13-de-maio-de-2022)
-- [‘O que para a polícia é combate, para nós é extermínio’](https://www.nexojornal.com.br/entrevista/2022/05/12/%E2%80%98O-que-para-a-pol%C3%ADcia-%C3%A9-combate-para-n%C3%B3s-%C3%A9-exterm%C3%ADnio%E2%80%99)
-- [Bolsonaro pergunta a apoiador negro quantas arrobas ele pesa](https://www.nexojornal.com.br/extra/2022/05/12/Bolsonaro-pergunta-a-apoiador-negro-quantas-arrobas-ele-pesa)
+- [Justiça aprova distribuição de absorventes para homens trans](https://www.nexojornal.com.br/extra/2022/05/12/Justi%C3%A7a-aprova-distribui%C3%A7%C3%A3o-de-absorventes-para-homens-trans)
+- [Costa Rica declara emergência nacional após ataques virtuais](https://www.nexojornal.com.br/extra/2022/05/12/Costa-Rica-declara-emerg%C3%AAncia-nacional-ap%C3%B3s-ataques-virtuais)
+- [O choque entre quem quer Lula já e quem quer opção à esquerda](https://www.nexojornal.com.br/expresso/2022/05/12/O-choque-entre-quem-quer-Lula-j%C3%A1-e-quem-quer-op%C3%A7%C3%A3o-%C3%A0-esquerda)
+- [Guedes se irrita com sindicalistas em entrevista sobre Petrobras](https://www.nexojornal.com.br/extra/2022/05/12/Guedes-se-irrita-com-sindicalistas-em-entrevista-sobre-Petrobras)
+- [Fachin diz que eleições são assunto das ‘forças desarmadas’](https://www.nexojornal.com.br/extra/2022/05/12/Fachin-diz-que-elei%C3%A7%C3%B5es-s%C3%A3o-assunto-das-%E2%80%98for%C3%A7as-desarmadas%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
