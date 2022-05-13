@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Depois da Finlândia, Suécia indica que vai entrar na Otan](https://www.nexojornal.com.br/extra/2022/05/13/Depois-da-Finl%C3%A2ndia-Su%C3%A9cia-indica-que-vai-entrar-na-Otan)
-- [Homem é morto a tiros em tumulto na região da cracolândia em SP](https://www.nexojornal.com.br/extra/2022/05/13/Homem-%C3%A9-morto-a-tiros-em-tumulto-na-regi%C3%A3o-da-cracol%C3%A2ndia-em-SP)
-- [Elon Musk suspende processo de compra do Twitter](https://www.nexojornal.com.br/extra/2022/05/13/Elon-Musk-suspende-processo-de-compra-do-Twitter)
-- [‘Cala a boca já morreu, quem manda na minha boca sou eu!’ Será?](https://www.nexojornal.com.br/colunistas/2022/%E2%80%98Cala-a-boca-j%C3%A1-morreu-quem-manda-na-minha-boca-sou-eu%E2%80%99-Ser%C3%A1)
-- [Câmara de Curitiba vai investigar racismo contra vereador](https://www.nexojornal.com.br/extra/2022/05/12/C%C3%A2mara-de-Curitiba-vai-investigar-racismo-contra-vereador)
+- [Justiça aprova distribuição de absorventes para homens trans](https://www.nexojornal.com.br/extra/2022/05/12/Justi%C3%A7a-aprova-distribui%C3%A7%C3%A3o-de-absorventes-para-homens-trans)
+- [Costa Rica declara emergência nacional após ataques virtuais](https://www.nexojornal.com.br/extra/2022/05/12/Costa-Rica-declara-emerg%C3%AAncia-nacional-ap%C3%B3s-ataques-virtuais)
+- [O choque entre quem quer Lula já e quem quer opção à esquerda](https://www.nexojornal.com.br/expresso/2022/05/12/O-choque-entre-quem-quer-Lula-j%C3%A1-e-quem-quer-op%C3%A7%C3%A3o-%C3%A0-esquerda)
+- [Guedes se irrita com sindicalistas em entrevista sobre Petrobras](https://www.nexojornal.com.br/extra/2022/05/12/Guedes-se-irrita-com-sindicalistas-em-entrevista-sobre-Petrobras)
+- [Fachin diz que eleições são assunto das ‘forças desarmadas’](https://www.nexojornal.com.br/extra/2022/05/12/Fachin-diz-que-elei%C3%A7%C3%B5es-s%C3%A3o-assunto-das-%E2%80%98for%C3%A7as-desarmadas%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
