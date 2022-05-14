@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE termina testes de segurança de urnas sem encontrar falhas](https://www.nexojornal.com.br/extra/2022/05/13/TSE-termina-testes-de-seguran%C3%A7a-de-urnas-sem-encontrar-falhas)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/13/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [O que se sabe sobre a hepatite aguda grave que atinge crianças](https://www.nexojornal.com.br/expresso/2022/05/13/O-que-se-sabe-sobre-a-hepatite-aguda-grave-que-atinge-crian%C3%A7as)
-- [O lugar da mulher na economia](https://www.nexojornal.com.br/externo/2022/05/13/O-lugar-da-mulher-na-economia)
-- [Hidrogênio verde: uma nova e rentável fronteira energética](https://www.nexojornal.com.br/ensaio/2022/Hidrog%C3%AAnio-verde-uma-nova-e-rent%C3%A1vel-fronteira-energ%C3%A9tica)
+- [Bolsonaro exorta Forças Armadas e PMs a reagir contra ‘marginais’](https://www.nexojornal.com.br/extra/2022/05/13/Bolsonaro-exorta-For%C3%A7as-Armadas-e-PMs-a-reagir-contra-%E2%80%98marginais%E2%80%99)
+- [Polícia de Israel reprime palestinos em funeral de jornalista](https://www.nexojornal.com.br/extra/2022/05/13/Pol%C3%ADcia-de-Israel-reprime-palestinos-em-funeral-de-jornalista)
+- [‘Vale da estranheza’: a cultura das startups da região do Silício](https://www.nexojornal.com.br/estante/trechos/2022/05/13/%E2%80%98Vale-da-estranheza%E2%80%99-a-cultura-das-startups-da-regi%C3%A3o-do-Sil%C3%ADcio)
+- [‘Cytopia’: um jogo gratuito para aprender sobre urbanismo](https://www.nexojornal.com.br/expresso/2022/05/13/%E2%80%98Cytopia%E2%80%99-um-jogo-gratuito-para-aprender-sobre-urbanismo)
+- [A reabertura e a retomada da Cinemateca Brasileira](https://www.nexojornal.com.br/expresso/2022/05/13/A-reabertura-e-a-retomada-da-Cinemateca-Brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
