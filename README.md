@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Fernanda Keller](https://gamarevista.uol.com.br/pessoas/questionario-proust/fernanda-keller/)
 - [Afrofuturismo e protagonismo negro](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/afrofuturismo-e-protagonismo-negro/)
 - [O mundo que começa depois do fim](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-mundo-que-comeca-depois-do-fim/)
 - [A Consulta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-consulta/)
 - [Um corpo que caiba](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-corpo-que-caiba/)
-- [Nova série do SescTV desvenda segredos da Amazônia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nova-serie-do-sesctv-desvenda-segredos-da-amazonia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
