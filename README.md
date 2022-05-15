@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lei de Acesso, 10 anos: uma ampla estrutura ainda mal utilizada](https://www.nexojornal.com.br/expresso/2022/05/14/Lei-de-Acesso-10-anos-uma-ampla-estrutura-ainda-mal-utilizada)
-- [Como é o projeto que promove artistas do funk carioca](https://www.nexojornal.com.br/expresso/2022/05/14/Como-%C3%A9-o-projeto-que-promove-artistas-do-funk-carioca)
-- [5 livros escritos por autoras lésbicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-autoras-l%C3%A9sbicas)
-- [Quais os caminhos para julgar crimes da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/14/Quais-os-caminhos-para-julgar-crimes-da-guerra-na-Ucr%C3%A2nia)
-- [Inflação e juros: como o Brasil se compara a outros países](https://www.nexojornal.com.br/expresso/2022/05/14/Infla%C3%A7%C3%A3o-e-juros-como-o-Brasil-se-compara-a-outros-pa%C3%ADses)
+- [TSE termina testes de segurança de urnas sem encontrar falhas](https://www.nexojornal.com.br/extra/2022/05/13/TSE-termina-testes-de-seguran%C3%A7a-de-urnas-sem-encontrar-falhas)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/13/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [O que se sabe sobre a hepatite aguda grave que atinge crianças](https://www.nexojornal.com.br/expresso/2022/05/13/O-que-se-sabe-sobre-a-hepatite-aguda-grave-que-atinge-crian%C3%A7as)
+- [O lugar da mulher na economia](https://www.nexojornal.com.br/externo/2022/05/13/O-lugar-da-mulher-na-economia)
+- [Hidrogênio verde: uma nova e rentável fronteira energética](https://www.nexojornal.com.br/ensaio/2022/Hidrog%C3%AAnio-verde-uma-nova-e-rent%C3%A1vel-fronteira-energ%C3%A9tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
