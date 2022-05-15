@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Atirador invade supermercado e mata 10 pessoas nos EUA](https://www.nexojornal.com.br/extra/2022/05/14/Atirador-invade-supermercado-e-mata-10-pessoas-nos-EUA)
-- [Brasil tem mais eleitores à direita do que à esquerda, diz pesquisa](https://www.nexojornal.com.br/extra/2022/05/14/Brasil-tem-mais-eleitores-%C3%A0-direita-do-que-%C3%A0-esquerda-diz-pesquisa)
 - [Lei de Acesso, 10 anos: uma ampla estrutura ainda mal utilizada](https://www.nexojornal.com.br/expresso/2022/05/14/Lei-de-Acesso-10-anos-uma-ampla-estrutura-ainda-mal-utilizada)
 - [Como é o projeto que promove artistas do funk carioca](https://www.nexojornal.com.br/expresso/2022/05/14/Como-%C3%A9-o-projeto-que-promove-artistas-do-funk-carioca)
 - [5 livros escritos por autoras lésbicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-autoras-l%C3%A9sbicas)
+- [Quais os caminhos para julgar crimes da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/14/Quais-os-caminhos-para-julgar-crimes-da-guerra-na-Ucr%C3%A2nia)
+- [Inflação e juros: como o Brasil se compara a outros países](https://www.nexojornal.com.br/expresso/2022/05/14/Infla%C3%A7%C3%A3o-e-juros-como-o-Brasil-se-compara-a-outros-pa%C3%ADses)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
