@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lei de Acesso, 10 anos: uma ampla estrutura ainda mal utilizada](https://www.nexojornal.com.br/expresso/2022/05/14/Lei-de-Acesso-10-anos-uma-ampla-estrutura-ainda-mal-utilizada)
-- [Como é o projeto que promove artistas do funk carioca](https://www.nexojornal.com.br/expresso/2022/05/14/Como-%C3%A9-o-projeto-que-promove-artistas-do-funk-carioca)
-- [5 livros escritos por autoras lésbicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-escritos-por-autoras-l%C3%A9sbicas)
-- [Quais os caminhos para julgar crimes da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/05/14/Quais-os-caminhos-para-julgar-crimes-da-guerra-na-Ucr%C3%A2nia)
-- [Inflação e juros: como o Brasil se compara a outros países](https://www.nexojornal.com.br/expresso/2022/05/14/Infla%C3%A7%C3%A3o-e-juros-como-o-Brasil-se-compara-a-outros-pa%C3%ADses)
+- [Milton Nascimento anuncia turnê que será despedida dos palcos](https://www.nexojornal.com.br/extra/2022/05/15/Milton-Nascimento-anuncia-turn%C3%AA-que-ser%C3%A1-despedida-dos-palcos)
+- [O lobby para criar um fundo financiador de gasodutos no Brasil](https://www.nexojornal.com.br/expresso/2022/05/15/O-lobby-para-criar-um-fundo-financiador-de-gasodutos-no-Brasil)
+- [‘Falas de Bolsonaro sobre eleições são muito preocupantes’](https://www.nexojornal.com.br/entrevista/2022/05/15/%E2%80%98Falas-de-Bolsonaro-sobre-elei%C3%A7%C3%B5es-s%C3%A3o-muito-preocupantes%E2%80%99)
+- [Bolsonaro anda de jet-ski em ‘lanchaciata’ esvaziada em Brasília](https://www.nexojornal.com.br/extra/2022/05/15/Bolsonaro-anda-de-jet-ski-em-%E2%80%98lanchaciata%E2%80%99-esvaziada-em-Bras%C3%ADlia)
+- [Paulo Dantas é eleito governador de Alagoas para mandato-tampão](https://www.nexojornal.com.br/extra/2022/05/15/Paulo-Dantas-%C3%A9-eleito-governador-de-Alagoas-para-mandato-tamp%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
