@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@rafaellatuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaellatuma/)
 - [Divórcio: “A mediação é importante quando as pessoas perderam o diálogo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/advogada-cibele-tucci-fala-das-dificuldades-na-hora-da-separacao/)
 - [Fernanda Keller](https://gamarevista.uol.com.br/pessoas/questionario-proust/fernanda-keller/)
 - [Afrofuturismo e protagonismo negro](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/afrofuturismo-e-protagonismo-negro/)
 - [O mundo que começa depois do fim](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-mundo-que-comeca-depois-do-fim/)
-- [A Consulta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-consulta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
