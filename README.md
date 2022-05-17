@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Milton Nascimento anuncia turnê que será despedida dos palcos](https://www.nexojornal.com.br/extra/2022/05/15/Milton-Nascimento-anuncia-turn%C3%AA-que-ser%C3%A1-despedida-dos-palcos)
-- [O lobby para criar um fundo financiador de gasodutos no Brasil](https://www.nexojornal.com.br/expresso/2022/05/15/O-lobby-para-criar-um-fundo-financiador-de-gasodutos-no-Brasil)
-- [‘Falas de Bolsonaro sobre eleições são muito preocupantes’](https://www.nexojornal.com.br/entrevista/2022/05/15/%E2%80%98Falas-de-Bolsonaro-sobre-elei%C3%A7%C3%B5es-s%C3%A3o-muito-preocupantes%E2%80%99)
-- [Bolsonaro anda de jet-ski em ‘lanchaciata’ esvaziada em Brasília](https://www.nexojornal.com.br/extra/2022/05/15/Bolsonaro-anda-de-jet-ski-em-%E2%80%98lanchaciata%E2%80%99-esvaziada-em-Bras%C3%ADlia)
-- [Paulo Dantas é eleito governador de Alagoas para mandato-tampão](https://www.nexojornal.com.br/extra/2022/05/15/Paulo-Dantas-%C3%A9-eleito-governador-de-Alagoas-para-mandato-tamp%C3%A3o)
+- [Como ‘O homem do Norte’ reconstrói o passado dos vikings](https://www.nexojornal.com.br/expresso/2022/05/16/Como-%E2%80%98O-homem-do-Norte%E2%80%99-reconstr%C3%B3i-o-passado-dos-vikings)
+- [O solavanco mundial cada vez que a China põe o pé no freio](https://www.nexojornal.com.br/podcast/2022/05/16/O-solavanco-mundial-cada-vez-que-a-China-p%C3%B5e-o-p%C3%A9-no-freio)
+- [Brasil registra mais de 757 mil casos de dengue em 2022](https://www.nexojornal.com.br/extra/2022/05/16/Brasil-registra-mais-de-757-mil-casos-de-dengue-em-2022)
+- [Bolsonaro fala em eleição conturbada e diz que não será preso](https://www.nexojornal.com.br/extra/2022/05/16/Bolsonaro-fala-em-elei%C3%A7%C3%A3o-conturbada-e-diz-que-n%C3%A3o-ser%C3%A1-preso)
+- [Turquia diz que vai vetar adesão de Suécia e Finlândia à Otan](https://www.nexojornal.com.br/extra/2022/05/16/Turquia-diz-que-vai-vetar-ades%C3%A3o-de-Su%C3%A9cia-e-Finl%C3%A2ndia-%C3%A0-Otan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
