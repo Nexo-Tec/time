@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que Bolsonaro fez no Incra até o órgão parar de funcionar](https://www.nexojornal.com.br/expresso/2022/05/16/O-que-Bolsonaro-fez-no-Incra-at%C3%A9-o-%C3%B3rg%C3%A3o-parar-de-funcionar)
-- [Por que Altamira vive uma nova onda de violência](https://www.nexojornal.com.br/expresso/2022/05/16/Por-que-Altamira-vive-uma-nova-onda-de-viol%C3%AAncia)
-- [Como outros países lidam com o preço de combustíveis](https://www.nexojornal.com.br/expresso/2022/05/16/Como-outros-pa%C3%ADses-lidam-com-o-pre%C3%A7o-de-combust%C3%ADveis)
-- [Escultura de Dalí ‘perdida’ há 40 anos é encontrada e exposta](https://www.nexojornal.com.br/extra/2022/05/16/Escultura-de-Dal%C3%AD-%E2%80%98perdida%E2%80%99-h%C3%A1-40-anos-%C3%A9-encontrada-e-exposta)
-- [Como ‘O homem do Norte’ reconstrói o passado dos vikings](https://www.nexojornal.com.br/expresso/2022/05/16/Como-%E2%80%98O-homem-do-Norte%E2%80%99-reconstr%C3%B3i-o-passado-dos-vikings)
+- [Milton Nascimento anuncia turnê que será despedida dos palcos](https://www.nexojornal.com.br/extra/2022/05/15/Milton-Nascimento-anuncia-turn%C3%AA-que-ser%C3%A1-despedida-dos-palcos)
+- [O lobby para criar um fundo financiador de gasodutos no Brasil](https://www.nexojornal.com.br/expresso/2022/05/15/O-lobby-para-criar-um-fundo-financiador-de-gasodutos-no-Brasil)
+- [‘Falas de Bolsonaro sobre eleições são muito preocupantes’](https://www.nexojornal.com.br/entrevista/2022/05/15/%E2%80%98Falas-de-Bolsonaro-sobre-elei%C3%A7%C3%B5es-s%C3%A3o-muito-preocupantes%E2%80%99)
+- [Bolsonaro anda de jet-ski em ‘lanchaciata’ esvaziada em Brasília](https://www.nexojornal.com.br/extra/2022/05/15/Bolsonaro-anda-de-jet-ski-em-%E2%80%98lanchaciata%E2%80%99-esvaziada-em-Bras%C3%ADlia)
+- [Paulo Dantas é eleito governador de Alagoas para mandato-tampão](https://www.nexojornal.com.br/extra/2022/05/15/Paulo-Dantas-%C3%A9-eleito-governador-de-Alagoas-para-mandato-tamp%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
