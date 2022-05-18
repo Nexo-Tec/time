@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [‘A Pior Pessoa do Mundo’ e a condição millenium](https://gamarevista.uol.com.br/sociedade/a-pior-pessoa-do-mundo-e-a-condicao-millenium/)
+- [‘A Pior Pessoa do Mundo’ e a condição millennial](https://gamarevista.uol.com.br/sociedade/a-pior-pessoa-do-mundo-e-a-condicao-millennial/)
 - [Uma voz que vem do nosso fundo](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-voz-que-vem-do-nosso-fundo/)
 - [Colcha de piquet jacquard](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/colcha-de-piquet-jacquard/)
 - [@rafaellatuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaellatuma/)
