@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TV linear é mais consumida do que streaming no Brasil, diz estudo](https://www.nexojornal.com.br/extra/2022/05/18/TV-linear-%C3%A9-mais-consumida-do-que-streaming-no-Brasil-diz-estudo)
-- [Yakecan: os efeitos do ciclone que derruba as temperaturas pelo país](https://www.nexojornal.com.br/expresso/2022/05/18/Yakecan-os-efeitos-do-ciclone-que-derruba-as-temperaturas-pelo-pa%C3%ADs)
 - [A implosão gradual da ‘terceira via’. E o que resta agora](https://www.nexojornal.com.br/expresso/2022/05/17/A-implos%C3%A3o-gradual-da-%E2%80%98terceira-via%E2%80%99.-E-o-que-resta-agora)
 - [Bolsonaro entra com notícia-crime contra Moraes no Supremo](https://www.nexojornal.com.br/extra/2022/05/17/Bolsonaro-entra-com-not%C3%ADcia-crime-contra-Moraes-no-Supremo)
 - [‘A prevenção do abuso sexual passa pela conversa com crianças’](https://www.nexojornal.com.br/entrevista/2022/05/17/%E2%80%98A-preven%C3%A7%C3%A3o-do-abuso-sexual-passa-pela-conversa-com-crian%C3%A7as%E2%80%99)
+- [Telegram e TSE assinam acordo para combater notícias falsas](https://www.nexojornal.com.br/extra/2022/05/17/Telegram-e-TSE-assinam-acordo-para-combater-not%C3%ADcias-falsas)
+- [Supremacistas brancos: quando os racistas estão armados](https://www.nexojornal.com.br/colunistas/2022/Supremacistas-brancos-quando-os-racistas-est%C3%A3o-armados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
