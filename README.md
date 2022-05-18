@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como os brasileiros se relacionam com uma dieta saudável e sustentável](https://pp.nexojornal.com.br/academico/2022/Como-os-brasileiros-se-relacionam-com-uma-dieta-saud%C3%A1vel-e-sustent%C3%A1vel)
-- [Política de ação afirmativa na UnB](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADtica-de-a%C3%A7%C3%A3o-afirmativa-na-UnB)
-- [Moratória ao reconhecimento facial](https://pp.nexojornal.com.br/opiniao/2022/Morat%C3%B3ria-ao-reconhecimento-facial)
-- [O que foi feito por estados e municípios para combater as desigualdades durante a pandemia](https://pp.nexojornal.com.br/academico/2022/O-que-foi-feito-por-estados-e-munic%C3%ADpios-para-combater-as-desigualdades-durante-a-pandemia)
-- [Transparência e democracia no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transpar%C3%AAncia-e-democracia-no-Brasil)
+- [Esqueça o ano de net zero: o que importa é o orçamento remanescente de carbono](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Esque%C3%A7a-o-ano-de-net-zero-o-que-importa-%C3%A9-o-or%C3%A7amento-remanescente-de-carbono)
+- [Marco Regulatório das Organizações da Sociedade Civil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Marco-Regulat%C3%B3rio-das-Organiza%C3%A7%C3%B5es-da-Sociedade-Civil)
+- [Falsas soluções e reducionismos no debate sobre “proteínas alternativas” e sustentabilidade](https://pp.nexojornal.com.br/opiniao/2022/Falsas-solu%C3%A7%C3%B5es-e-reducionismos-no-debate-sobre-%E2%80%9Cprote%C3%ADnas-alternativas%E2%80%9D-e-sustentabilidade)
+- [Precisamos falar sobre a saúde da população negra nas eleições 2022](https://pp.nexojornal.com.br/ponto-de-vista/2022/Precisamos-falar-sobre-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra-nas-elei%C3%A7%C3%B5es-2022)
+- [Burocracia na mira do governo: gestão autoritária e ataques a funcionários públicos](https://pp.nexojornal.com.br/opiniao/2022/Burocracia-na-mira-do-governo-gest%C3%A3o-autorit%C3%A1ria-e-ataques-a-funcion%C3%A1rios-p%C3%BAblicos)
 <!-- PP_LIST:END -->
 
