@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Curadora indígena pede demissão após Masp vetar fotos do MST](https://www.nexojornal.com.br/extra/2022/05/17/Curadora-ind%C3%ADgena-pede-demiss%C3%A3o-ap%C3%B3s-Masp-vetar-fotos-do-MST)
-- [Quais as condições da Turquia para novas adesões à Otan](https://www.nexojornal.com.br/expresso/2022/05/17/Quais-as-condi%C3%A7%C3%B5es-da-Turquia-para-novas-ades%C3%B5es-%C3%A0-Otan)
-- [PF vai investigar mudança de domicílio eleitoral de casal Moro](https://www.nexojornal.com.br/extra/2022/05/17/PF-vai-investigar-mudan%C3%A7a-de-domic%C3%ADlio-eleitoral-de-casal-Moro)
-- [Parlamento finlandês aprova adesão à Otan. Suécia assina carta](https://www.nexojornal.com.br/extra/2022/05/17/Parlamento-finland%C3%AAs-aprova-ades%C3%A3o-%C3%A0-Otan.-Su%C3%A9cia-assina-carta)
-- [Mais de 260 militares ucranianos se rendem em Mariupol](https://www.nexojornal.com.br/extra/2022/05/17/Mais-de-260-militares-ucranianos-se-rendem-em-Mariupol)
+- [A implosão gradual da ‘terceira via’. E o que resta agora](https://www.nexojornal.com.br/expresso/2022/05/17/A-implos%C3%A3o-gradual-da-%E2%80%98terceira-via%E2%80%99.-E-o-que-resta-agora)
+- [Bolsonaro entra com notícia-crime contra Moraes no Supremo](https://www.nexojornal.com.br/extra/2022/05/17/Bolsonaro-entra-com-not%C3%ADcia-crime-contra-Moraes-no-Supremo)
+- [‘A prevenção do abuso sexual passa pela conversa com crianças’](https://www.nexojornal.com.br/entrevista/2022/05/17/%E2%80%98A-preven%C3%A7%C3%A3o-do-abuso-sexual-passa-pela-conversa-com-crian%C3%A7as%E2%80%99)
+- [Telegram e TSE assinam acordo para combater notícias falsas](https://www.nexojornal.com.br/extra/2022/05/17/Telegram-e-TSE-assinam-acordo-para-combater-not%C3%ADcias-falsas)
+- [Supremacistas brancos: quando os racistas estão armados](https://www.nexojornal.com.br/colunistas/2022/Supremacistas-brancos-quando-os-racistas-est%C3%A3o-armados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
