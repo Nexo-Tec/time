@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Celso Athayde](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-celso-athayde/)
 - [‘A Pior Pessoa do Mundo’ e a condição millennial](https://gamarevista.uol.com.br/sociedade/a-pior-pessoa-do-mundo-e-a-condicao-millennial/)
 - [Uma voz que vem do nosso fundo](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-voz-que-vem-do-nosso-fundo/)
 - [Colcha de piquet jacquard](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/colcha-de-piquet-jacquard/)
 - [@rafaellatuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaellatuma/)
-- [Divórcio: “A mediação é importante quando as pessoas perderam o diálogo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/advogada-cibele-tucci-fala-das-dificuldades-na-hora-da-separacao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
