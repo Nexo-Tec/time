@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que falta para o governo Bolsonaro privatizar a Eletrobras](https://www.nexojornal.com.br/expresso/2022/05/18/O-que-falta-para-o-governo-Bolsonaro-privatizar-a-Eletrobras)
-- [Um presidente que se defende atacando e diz que nunca será preso](https://www.nexojornal.com.br/podcast/2022/05/18/Um-presidente-que-se-defende-atacando-e-diz-que-nunca-ser%C3%A1-preso)
-- [Como artistas ucranianos documentam a invasão russa](https://www.nexojornal.com.br/expresso/2022/05/18/Como-artistas-ucranianos-documentam-a-invas%C3%A3o-russa)
-- [Rússia usa nova geração de armas a laser na Ucrânia](https://www.nexojornal.com.br/extra/2022/05/18/R%C3%BAssia-usa-nova-gera%C3%A7%C3%A3o-de-armas-a-laser-na-Ucr%C3%A2nia)
-- [Oceanos estão mais quentes, mais altos e mais ácidos, diz relatório](https://www.nexojornal.com.br/extra/2022/05/18/Oceanos-est%C3%A3o-mais-quentes-mais-altos-e-mais-%C3%A1cidos-diz-relat%C3%B3rio)
+- [TV linear é mais consumida do que streaming no Brasil, diz estudo](https://www.nexojornal.com.br/extra/2022/05/18/TV-linear-%C3%A9-mais-consumida-do-que-streaming-no-Brasil-diz-estudo)
+- [Yakecan: os efeitos do ciclone que derruba as temperaturas pelo país](https://www.nexojornal.com.br/expresso/2022/05/18/Yakecan-os-efeitos-do-ciclone-que-derruba-as-temperaturas-pelo-pa%C3%ADs)
+- [A implosão gradual da ‘terceira via’. E o que resta agora](https://www.nexojornal.com.br/expresso/2022/05/17/A-implos%C3%A3o-gradual-da-%E2%80%98terceira-via%E2%80%99.-E-o-que-resta-agora)
+- [Bolsonaro entra com notícia-crime contra Moraes no Supremo](https://www.nexojornal.com.br/extra/2022/05/17/Bolsonaro-entra-com-not%C3%ADcia-crime-contra-Moraes-no-Supremo)
+- [‘A prevenção do abuso sexual passa pela conversa com crianças’](https://www.nexojornal.com.br/entrevista/2022/05/17/%E2%80%98A-preven%C3%A7%C3%A3o-do-abuso-sexual-passa-pela-conversa-com-crian%C3%A7as%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
