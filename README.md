@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Celso Athayde](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-celso-athayde/)
-- [‘A Pior Pessoa do Mundo’ e a condição millennial](https://gamarevista.uol.com.br/sociedade/a-pior-pessoa-do-mundo-e-a-condicao-millennial/)
-- [Uma voz que vem do nosso fundo](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/uma-voz-que-vem-do-nosso-fundo/)
-- [Colcha de piquet jacquard](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/colcha-de-piquet-jacquard/)
-- [@rafaellatuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rafaellatuma/)
+- [A dinastia dos Los Angeles Lakers na década de 80](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-dinastia-dos-los-angeles-lakers-na-decada-de-80/)
+- [Show do saxofonista Kamasi Washington em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-do-saxofonista-kamasi-washington-em-sao-paulo/)
+- [Conversas ‘Negras Imagens’, a partir do acervo do IMS](https://gamarevista.uol.com.br/achamos-que-vale/assistir/conversas-negras-imagens-a-partir-do-acervo-do-ims/)
+- [Para adoçar, tarta de queso!](https://gamarevista.uol.com.br/achamos-que-vale/ir/para-adocar-tarta-de-queso/)
+- [As críticas virais de Isabela Boscov no Youtube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-criticas-virais-de-isabela-boscov-no-youtube/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
