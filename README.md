@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia faz nova ação contra tráfico na cracolândia de São Paulo](https://www.nexojornal.com.br/extra/2022/05/19/Pol%C3%ADcia-faz-nova-a%C3%A7%C3%A3o-contra-tr%C3%A1fico-na-cracol%C3%A2ndia-de-S%C3%A3o-Paulo)
-- [Como está a disputa ao governo nos 4 estados com mais eleitores](https://www.nexojornal.com.br/expresso/2022/05/19/Como-est%C3%A1-a-disputa-ao-governo-nos-4-estados-com-mais-eleitores)
-- [Frio: um guia para doações que de fato ajudam as pessoas](https://www.nexojornal.com.br/expresso/2022/05/19/Frio-um-guia-para-doa%C3%A7%C3%B5es-que-de-fato-ajudam-as-pessoas)
-- [Vacinação contra a covid-19 está estagnada no Brasil, diz Fiocruz](https://www.nexojornal.com.br/extra/2022/05/19/Vacina%C3%A7%C3%A3o-contra-a-covid-19-est%C3%A1-estagnada-no-Brasil-diz-Fiocruz)
-- [Aconteceu na guerra do Iraque ou na guerra da Ucrânia?](https://www.nexojornal.com.br/interativo/2022/05/19/Aconteceu-na-guerra-do-Iraque-ou-na-guerra-da-Ucr%C3%A2nia)
+- [Justiça suspende sessão que votaria cassação de Renato Freitas](https://www.nexojornal.com.br/extra/2022/05/19/Justi%C3%A7a-suspende-sess%C3%A3o-que-votaria-cassa%C3%A7%C3%A3o-de-Renato-Freitas)
+- [Em ato falho, Bush condena invasão do Iraque, e não da Ucrânia](https://www.nexojornal.com.br/extra/2022/05/19/Em-ato-falho-Bush-condena-invas%C3%A3o-do-Iraque-e-n%C3%A3o-da-Ucr%C3%A2nia)
+- [Câmara aprova texto-base de projeto de lei do homeschooling](https://www.nexojornal.com.br/extra/2022/05/19/C%C3%A2mara-aprova-texto-base-de-projeto-de-lei-do-homeschooling)
+- [As contradições do Supremo ao tratar da liberdade de imprensa](https://www.nexojornal.com.br/expresso/2022/05/18/As-contradi%C3%A7%C3%B5es-do-Supremo-ao-tratar-da-liberdade-de-imprensa)
+- [Ex-policial se declara culpado por morte de George Floyd](https://www.nexojornal.com.br/extra/2022/05/18/Ex-policial-se-declara-culpado-por-morte-de-George-Floyd)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
