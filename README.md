@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O bloke core e o futebol no mundo da moda](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
 - [Aurora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/aurora/)
 - [A dinastia dos Los Angeles Lakers na década de 80](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-dinastia-dos-los-angeles-lakers-na-decada-de-80/)
 - [Show do saxofonista Kamasi Washington em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-do-saxofonista-kamasi-washington-em-sao-paulo/)
 - [As críticas virais de Isabela Boscov no Youtube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-criticas-virais-de-isabela-boscov-no-youtube/)
-- [Conversas ‘Negras Imagens’, a partir do acervo do IMS](https://gamarevista.uol.com.br/achamos-que-vale/assistir/conversas-negras-imagens-a-partir-do-acervo-do-ims/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
