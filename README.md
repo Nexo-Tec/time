@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O bloke core e o futebol no mundo da moda](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
+- [Bloke core: a moda da camiseta de futebol](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
 - [Aurora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/aurora/)
 - [A dinastia dos Los Angeles Lakers na década de 80](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-dinastia-dos-los-angeles-lakers-na-decada-de-80/)
 - [Show do saxofonista Kamasi Washington em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-do-saxofonista-kamasi-washington-em-sao-paulo/)
