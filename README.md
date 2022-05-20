@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça suspende sessão que votaria cassação de Renato Freitas](https://www.nexojornal.com.br/extra/2022/05/19/Justi%C3%A7a-suspende-sess%C3%A3o-que-votaria-cassa%C3%A7%C3%A3o-de-Renato-Freitas)
-- [Em ato falho, Bush condena invasão do Iraque, e não da Ucrânia](https://www.nexojornal.com.br/extra/2022/05/19/Em-ato-falho-Bush-condena-invas%C3%A3o-do-Iraque-e-n%C3%A3o-da-Ucr%C3%A2nia)
-- [Câmara aprova texto-base de projeto de lei do homeschooling](https://www.nexojornal.com.br/extra/2022/05/19/C%C3%A2mara-aprova-texto-base-de-projeto-de-lei-do-homeschooling)
-- [As contradições do Supremo ao tratar da liberdade de imprensa](https://www.nexojornal.com.br/expresso/2022/05/18/As-contradi%C3%A7%C3%B5es-do-Supremo-ao-tratar-da-liberdade-de-imprensa)
-- [Ex-policial se declara culpado por morte de George Floyd](https://www.nexojornal.com.br/extra/2022/05/18/Ex-policial-se-declara-culpado-por-morte-de-George-Floyd)
+- [Geleiras dos Andes encolheram 42% nos últimos 30 anos](https://www.nexojornal.com.br/extra/2022/05/20/Geleiras-dos-Andes-encolheram-42-nos-%C3%BAltimos-30-anos)
+- [Bolsonaro diz que Fachin, Barroso e Moraes ‘infernizam o Brasil’](https://www.nexojornal.com.br/extra/2022/05/20/Bolsonaro-diz-que-Fachin-Barroso-e-Moraes-%E2%80%98infernizam-o-Brasil%E2%80%99)
+- [O projeto que Elon Musk quer implementar na Amazônia](https://www.nexojornal.com.br/expresso/2022/05/20/O-projeto-que-Elon-Musk-quer-implementar-na-Amaz%C3%B4nia)
+- [Rússia anuncia que vai cortar suprimento de gás à Finlândia](https://www.nexojornal.com.br/extra/2022/05/20/R%C3%BAssia-anuncia-que-vai-cortar-suprimento-de-g%C3%A1s-%C3%A0-Finl%C3%A2ndia)
+- [Polícia faz nova ação contra tráfico na cracolândia de São Paulo](https://www.nexojornal.com.br/extra/2022/05/19/Pol%C3%ADcia-faz-nova-a%C3%A7%C3%A3o-contra-tr%C3%A1fico-na-cracol%C3%A2ndia-de-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
