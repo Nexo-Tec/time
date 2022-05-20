@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Racismo sistêmico e o impacto das políticas de ação afirmativa no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Racismo-sist%C3%AAmico-e-o-impacto-das-pol%C3%ADticas-de-a%C3%A7%C3%A3o-afirmativa-no-Brasil)
 - [Como os brasileiros se relacionam com uma dieta saudável e sustentável](https://pp.nexojornal.com.br/academico/2022/Como-os-brasileiros-se-relacionam-com-uma-dieta-saud%C3%A1vel-e-sustent%C3%A1vel)
 - [Política de ação afirmativa na UnB](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADtica-de-a%C3%A7%C3%A3o-afirmativa-na-UnB)
 - [Moratória ao reconhecimento facial](https://pp.nexojornal.com.br/opiniao/2022/Morat%C3%B3ria-ao-reconhecimento-facial)
 - [O que foi feito por estados e municípios para combater as desigualdades durante a pandemia](https://pp.nexojornal.com.br/academico/2022/O-que-foi-feito-por-estados-e-munic%C3%ADpios-para-combater-as-desigualdades-durante-a-pandemia)
+- [Transparência e democracia no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transpar%C3%AAncia-e-democracia-no-Brasil)
 <!-- PP_LIST:END -->
 
