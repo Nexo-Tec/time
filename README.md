@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Prefeitura de SP divulga programação da Virada Cultural](https://www.nexojornal.com.br/extra/2022/05/20/Prefeitura-de-SP-divulga-programa%C3%A7%C3%A3o-da-Virada-Cultural)
-- [‘A decisão da Suécia de ingressar na Otan é um erro’](https://www.nexojornal.com.br/entrevista/2022/05/20/%E2%80%98A-decis%C3%A3o-da-Su%C3%A9cia-de-ingressar-na-Otan-%C3%A9-um-erro%E2%80%99)
-- [O futuro da mobilidade com carros autônomos](https://www.nexojornal.com.br/externo/2022/05/20/O-futuro-da-mobilidade-com-carros-aut%C3%B4nomos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/20/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Qual o saldo de 10 anos do novo Código Florestal do Brasil](https://www.nexojornal.com.br/expresso/2022/05/20/Qual-o-saldo-de-10-anos-do-novo-C%C3%B3digo-Florestal-do-Brasil)
+- [Geleiras dos Andes encolheram 42% nos últimos 30 anos](https://www.nexojornal.com.br/extra/2022/05/20/Geleiras-dos-Andes-encolheram-42-nos-%C3%BAltimos-30-anos)
+- [Bolsonaro diz que Fachin, Barroso e Moraes ‘infernizam o Brasil’](https://www.nexojornal.com.br/extra/2022/05/20/Bolsonaro-diz-que-Fachin-Barroso-e-Moraes-%E2%80%98infernizam-o-Brasil%E2%80%99)
+- [O projeto que Elon Musk quer implementar na Amazônia](https://www.nexojornal.com.br/expresso/2022/05/20/O-projeto-que-Elon-Musk-quer-implementar-na-Amaz%C3%B4nia)
+- [Rússia anuncia que vai cortar suprimento de gás à Finlândia](https://www.nexojornal.com.br/extra/2022/05/20/R%C3%BAssia-anuncia-que-vai-cortar-suprimento-de-g%C3%A1s-%C3%A0-Finl%C3%A2ndia)
+- [Polícia faz nova ação contra tráfico na cracolândia de São Paulo](https://www.nexojornal.com.br/extra/2022/05/19/Pol%C3%ADcia-faz-nova-a%C3%A7%C3%A3o-contra-tr%C3%A1fico-na-cracol%C3%A2ndia-de-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
