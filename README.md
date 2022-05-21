@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia faz nova ação contra tráfico na cracolândia de São Paulo](https://www.nexojornal.com.br/extra/2022/05/19/Pol%C3%ADcia-faz-nova-a%C3%A7%C3%A3o-contra-tr%C3%A1fico-na-cracol%C3%A2ndia-de-S%C3%A3o-Paulo)
-- [Como está a disputa ao governo nos 4 estados com mais eleitores](https://www.nexojornal.com.br/expresso/2022/05/19/Como-est%C3%A1-a-disputa-ao-governo-nos-4-estados-com-mais-eleitores)
-- [Frio: um guia para doações que de fato ajudam as pessoas](https://www.nexojornal.com.br/expresso/2022/05/19/Frio-um-guia-para-doa%C3%A7%C3%B5es-que-de-fato-ajudam-as-pessoas)
-- [Vacinação contra a covid-19 está estagnada no Brasil, diz Fiocruz](https://www.nexojornal.com.br/extra/2022/05/19/Vacina%C3%A7%C3%A3o-contra-a-covid-19-est%C3%A1-estagnada-no-Brasil-diz-Fiocruz)
-- [Aconteceu na guerra do Iraque ou na guerra da Ucrânia?](https://www.nexojornal.com.br/interativo/2022/05/19/Aconteceu-na-guerra-do-Iraque-ou-na-guerra-da-Ucr%C3%A2nia)
+- [Prefeitura de SP divulga programação da Virada Cultural](https://www.nexojornal.com.br/extra/2022/05/20/Prefeitura-de-SP-divulga-programa%C3%A7%C3%A3o-da-Virada-Cultural)
+- [‘A decisão da Suécia de ingressar na Otan é um erro’](https://www.nexojornal.com.br/entrevista/2022/05/20/%E2%80%98A-decis%C3%A3o-da-Su%C3%A9cia-de-ingressar-na-Otan-%C3%A9-um-erro%E2%80%99)
+- [O futuro da mobilidade com carros autônomos](https://www.nexojornal.com.br/externo/2022/05/20/O-futuro-da-mobilidade-com-carros-aut%C3%B4nomos)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/20/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Qual o saldo de 10 anos do novo Código Florestal do Brasil](https://www.nexojornal.com.br/expresso/2022/05/20/Qual-o-saldo-de-10-anos-do-novo-C%C3%B3digo-Florestal-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
