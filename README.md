@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Geleiras dos Andes encolheram 42% nos últimos 30 anos](https://www.nexojornal.com.br/extra/2022/05/20/Geleiras-dos-Andes-encolheram-42-nos-%C3%BAltimos-30-anos)
+- [Bolsonaro diz que Fachin, Barroso e Moraes ‘infernizam o Brasil’](https://www.nexojornal.com.br/extra/2022/05/20/Bolsonaro-diz-que-Fachin-Barroso-e-Moraes-%E2%80%98infernizam-o-Brasil%E2%80%99)
+- [O projeto que Elon Musk quer implementar na Amazônia](https://www.nexojornal.com.br/expresso/2022/05/20/O-projeto-que-Elon-Musk-quer-implementar-na-Amaz%C3%B4nia)
+- [Rússia anuncia que vai cortar suprimento de gás à Finlândia](https://www.nexojornal.com.br/extra/2022/05/20/R%C3%BAssia-anuncia-que-vai-cortar-suprimento-de-g%C3%A1s-%C3%A0-Finl%C3%A2ndia)
 - [Polícia faz nova ação contra tráfico na cracolândia de São Paulo](https://www.nexojornal.com.br/extra/2022/05/19/Pol%C3%ADcia-faz-nova-a%C3%A7%C3%A3o-contra-tr%C3%A1fico-na-cracol%C3%A2ndia-de-S%C3%A3o-Paulo)
-- [Como está a disputa ao governo nos 4 estados com mais eleitores](https://www.nexojornal.com.br/expresso/2022/05/19/Como-est%C3%A1-a-disputa-ao-governo-nos-4-estados-com-mais-eleitores)
-- [Frio: um guia para doações que de fato ajudam as pessoas](https://www.nexojornal.com.br/expresso/2022/05/19/Frio-um-guia-para-doa%C3%A7%C3%B5es-que-de-fato-ajudam-as-pessoas)
-- [Vacinação contra a covid-19 está estagnada no Brasil, diz Fiocruz](https://www.nexojornal.com.br/extra/2022/05/19/Vacina%C3%A7%C3%A3o-contra-a-covid-19-est%C3%A1-estagnada-no-Brasil-diz-Fiocruz)
-- [Aconteceu na guerra do Iraque ou na guerra da Ucrânia?](https://www.nexojornal.com.br/interativo/2022/05/19/Aconteceu-na-guerra-do-Iraque-ou-na-guerra-da-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
