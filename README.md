@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Prefeitura de SP divulga programação da Virada Cultural](https://www.nexojornal.com.br/extra/2022/05/20/Prefeitura-de-SP-divulga-programa%C3%A7%C3%A3o-da-Virada-Cultural)
-- [‘A decisão da Suécia de ingressar na Otan é um erro’](https://www.nexojornal.com.br/entrevista/2022/05/20/%E2%80%98A-decis%C3%A3o-da-Su%C3%A9cia-de-ingressar-na-Otan-%C3%A9-um-erro%E2%80%99)
-- [O futuro da mobilidade com carros autônomos](https://www.nexojornal.com.br/externo/2022/05/20/O-futuro-da-mobilidade-com-carros-aut%C3%B4nomos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/20/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Qual o saldo de 10 anos do novo Código Florestal do Brasil](https://www.nexojornal.com.br/expresso/2022/05/20/Qual-o-saldo-de-10-anos-do-novo-C%C3%B3digo-Florestal-do-Brasil)
+- [Bolsonaro nega medida para taxar marketplaces asiáticos](https://www.nexojornal.com.br/extra/2022/05/21/Bolsonaro-nega-medida-para-taxar-marketplaces-asi%C3%A1ticos)
+- [Por que ainda é preciso se preocupar com a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/05/21/Por-que-ainda-%C3%A9-preciso-se-preocupar-com-a-covid-no-Brasil)
+- [Por que estamos a dois passos da era tecnológica quântica](https://www.nexojornal.com.br/ensaio/2022/Por-que-estamos-a-dois-passos-da-era-tecnol%C3%B3gica-qu%C3%A2ntica)
+- [‘Bolsonaro usa militares para forçar a barra na disputa política’](https://www.nexojornal.com.br/entrevista/2022/05/21/%E2%80%98Bolsonaro-usa-militares-para-for%C3%A7ar-a-barra-na-disputa-pol%C3%ADtica%E2%80%99)
+- [Como foi a primeira edição do programa de diversidade do ‘Nexo’](https://www.nexojornal.com.br/expresso/2022/05/21/Como-foi-a-primeira-edi%C3%A7%C3%A3o-do-programa-de-diversidade-do-%E2%80%98Nexo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
