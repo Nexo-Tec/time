@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fórum Econômico Mundial volta a Davos com foco na Ucrânia](https://www.nexojornal.com.br/extra/2022/05/22/F%C3%B3rum-Econ%C3%B4mico-Mundial-volta-a-Davos-com-foco-na-Ucr%C3%A2nia)
-- [Voos nacionais podem retomar serviço de bordo](https://www.nexojornal.com.br/extra/2022/05/22/Voos-nacionais-podem-retomar-servi%C3%A7o-de-bordo)
 - [Bolsonaro nega medida para taxar marketplaces asiáticos](https://www.nexojornal.com.br/extra/2022/05/21/Bolsonaro-nega-medida-para-taxar-marketplaces-asi%C3%A1ticos)
 - [Por que ainda é preciso se preocupar com a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/05/21/Por-que-ainda-%C3%A9-preciso-se-preocupar-com-a-covid-no-Brasil)
 - [Por que estamos a dois passos da era tecnológica quântica](https://www.nexojornal.com.br/ensaio/2022/Por-que-estamos-a-dois-passos-da-era-tecnol%C3%B3gica-qu%C3%A2ntica)
+- [‘Bolsonaro usa militares para forçar a barra na disputa política’](https://www.nexojornal.com.br/entrevista/2022/05/21/%E2%80%98Bolsonaro-usa-militares-para-for%C3%A7ar-a-barra-na-disputa-pol%C3%ADtica%E2%80%99)
+- [Como foi a primeira edição do programa de diversidade do ‘Nexo’](https://www.nexojornal.com.br/expresso/2022/05/21/Como-foi-a-primeira-edi%C3%A7%C3%A3o-do-programa-de-diversidade-do-%E2%80%98Nexo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
