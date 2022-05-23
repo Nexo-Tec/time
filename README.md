@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@suckytattoos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/suckytattoos/)
 - [Remédios e obesidade: ‘Há estigma e vergonha’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/remedio-para-emagrecer-e-obesidade/)
 - [Astrid Fontenelle](https://gamarevista.uol.com.br/pessoas/questionario-proust/astrid-fontenelle/)
 - [Bloke core: a moda da camiseta de futebol](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
 - [Aurora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/aurora/)
-- [A dinastia dos Los Angeles Lakers na década de 80](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-dinastia-dos-los-angeles-lakers-na-decada-de-80/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
