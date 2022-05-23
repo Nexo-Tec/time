@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro nega medida para taxar marketplaces asiáticos](https://www.nexojornal.com.br/extra/2022/05/21/Bolsonaro-nega-medida-para-taxar-marketplaces-asi%C3%A1ticos)
-- [Por que ainda é preciso se preocupar com a covid no Brasil](https://www.nexojornal.com.br/expresso/2022/05/21/Por-que-ainda-%C3%A9-preciso-se-preocupar-com-a-covid-no-Brasil)
-- [Por que estamos a dois passos da era tecnológica quântica](https://www.nexojornal.com.br/ensaio/2022/Por-que-estamos-a-dois-passos-da-era-tecnol%C3%B3gica-qu%C3%A2ntica)
-- [‘Bolsonaro usa militares para forçar a barra na disputa política’](https://www.nexojornal.com.br/entrevista/2022/05/21/%E2%80%98Bolsonaro-usa-militares-para-for%C3%A7ar-a-barra-na-disputa-pol%C3%ADtica%E2%80%99)
-- [Como foi a primeira edição do programa de diversidade do ‘Nexo’](https://www.nexojornal.com.br/expresso/2022/05/21/Como-foi-a-primeira-edi%C3%A7%C3%A3o-do-programa-de-diversidade-do-%E2%80%98Nexo%E2%80%99)
+- [OMS identifica varíola dos macacos em 12 países não endêmicos](https://www.nexojornal.com.br/extra/2022/05/22/OMS-identifica-var%C3%ADola-dos-macacos-em-12-pa%C3%ADses-n%C3%A3o-end%C3%AAmicos)
+- [Preço médio do diesel atinge novo recorde, segundo ANP](https://www.nexojornal.com.br/extra/2022/05/22/Pre%C3%A7o-m%C3%A9dio-do-diesel-atinge-novo-recorde-segundo-ANP)
+- [Por que Bolsonaro não mexe nos preços dos combustíveis](https://www.nexojornal.com.br/expresso/2022/05/22/Por-que-Bolsonaro-n%C3%A3o-mexe-nos-pre%C3%A7os-dos-combust%C3%ADveis)
+- [O que é o quinquênio, que pode beneficiar juízes e promotores](https://www.nexojornal.com.br/expresso/2022/05/22/O-que-%C3%A9-o-quinqu%C3%AAnio-que-pode-beneficiar-ju%C3%ADzes-e-promotores)
+- [O histórico dos atletas mais vitoriosos do tênis](https://www.nexojornal.com.br/grafico/2022/05/22/O-hist%C3%B3rico-dos-atletas-mais-vitoriosos-do-t%C3%AAnis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
