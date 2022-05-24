@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O número de pagamentos via Pix, desde o início do sistema](https://www.nexojornal.com.br/grafico/2022/05/23/O-n%C3%BAmero-de-pagamentos-via-Pix-desde-o-in%C3%ADcio-do-sistema)
-- [Quais os ‘bolsolões’ que jogam suspeitas sobre o governo](https://www.nexojornal.com.br/expresso/2022/05/23/Quais-os-%E2%80%98bolsol%C3%B5es%E2%80%99-que-jogam-suspeitas-sobre-o-governo)
-- [Governo federal troca presidência da Petrobras de novo](https://www.nexojornal.com.br/extra/2022/05/23/Governo-federal-troca-presid%C3%AAncia-da-Petrobras-de-novo)
-- [Governo baixa em 10% imposto de importação de 6.195 produtos](https://www.nexojornal.com.br/extra/2022/05/23/Governo-baixa-em-10-imposto-de-importa%C3%A7%C3%A3o-de-6.195-produtos)
-- [Como o ICMS continua em pauta na crise dos combustíveis](https://www.nexojornal.com.br/expresso/2022/05/23/Como-o-ICMS-continua-em-pauta-na-crise-dos-combust%C3%ADveis)
+- [Soldado russo é condenado à prisão perpétua na Ucrânia](https://www.nexojornal.com.br/extra/2022/05/23/Soldado-russo-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua-na-Ucr%C3%A2nia)
+- [OMS identifica varíola dos macacos em 12 países não endêmicos](https://www.nexojornal.com.br/extra/2022/05/22/OMS-identifica-var%C3%ADola-dos-macacos-em-12-pa%C3%ADses-n%C3%A3o-end%C3%AAmicos)
+- [Preço médio do diesel atinge novo recorde, segundo ANP](https://www.nexojornal.com.br/extra/2022/05/22/Pre%C3%A7o-m%C3%A9dio-do-diesel-atinge-novo-recorde-segundo-ANP)
+- [Por que Bolsonaro não mexe nos preços dos combustíveis](https://www.nexojornal.com.br/expresso/2022/05/22/Por-que-Bolsonaro-n%C3%A3o-mexe-nos-pre%C3%A7os-dos-combust%C3%ADveis)
+- [O que é o quinquênio, que pode beneficiar juízes e promotores](https://www.nexojornal.com.br/expresso/2022/05/22/O-que-%C3%A9-o-quinqu%C3%AAnio-que-pode-beneficiar-ju%C3%ADzes-e-promotores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
