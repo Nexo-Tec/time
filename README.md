@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As versões sobre a guerra contra as gangues em El Salvador](https://www.nexojornal.com.br/expresso/2022/05/23/As-vers%C3%B5es-sobre-a-guerra-contra-as-gangues-em-El-Salvador)
+- [Câmara deve votar projeto que limita ICMS de combustíveis](https://www.nexojornal.com.br/extra/2022/05/23/C%C3%A2mara-deve-votar-projeto-que-limita-ICMS-de-combust%C3%ADveis)
+- [Biden diz que usaria força para defender Taiwan de invasão](https://www.nexojornal.com.br/extra/2022/05/23/Biden-diz-que-usaria-for%C3%A7a-para-defender-Taiwan-de-invas%C3%A3o)
+- [Doria desiste de ser candidato a presidente pelo PSDB](https://www.nexojornal.com.br/extra/2022/05/23/Doria-desiste-de-ser-candidato-a-presidente-pelo-PSDB)
 - [Soldado russo é condenado à prisão perpétua na Ucrânia](https://www.nexojornal.com.br/extra/2022/05/23/Soldado-russo-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua-na-Ucr%C3%A2nia)
-- [OMS identifica varíola dos macacos em 12 países não endêmicos](https://www.nexojornal.com.br/extra/2022/05/22/OMS-identifica-var%C3%ADola-dos-macacos-em-12-pa%C3%ADses-n%C3%A3o-end%C3%AAmicos)
-- [Preço médio do diesel atinge novo recorde, segundo ANP](https://www.nexojornal.com.br/extra/2022/05/22/Pre%C3%A7o-m%C3%A9dio-do-diesel-atinge-novo-recorde-segundo-ANP)
-- [Por que Bolsonaro não mexe nos preços dos combustíveis](https://www.nexojornal.com.br/expresso/2022/05/22/Por-que-Bolsonaro-n%C3%A3o-mexe-nos-pre%C3%A7os-dos-combust%C3%ADveis)
-- [O que é o quinquênio, que pode beneficiar juízes e promotores](https://www.nexojornal.com.br/expresso/2022/05/22/O-que-%C3%A9-o-quinqu%C3%AAnio-que-pode-beneficiar-ju%C3%ADzes-e-promotores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
