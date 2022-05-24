@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O número de pagamentos via Pix, desde o início do sistema](https://www.nexojornal.com.br/grafico/2022/05/23/O-n%C3%BAmero-de-pagamentos-via-Pix-desde-o-in%C3%ADcio-do-sistema)
-- [Quais os ‘bolsolões’ que jogam suspeitas sobre o governo](https://www.nexojornal.com.br/expresso/2022/05/23/Quais-os-%E2%80%98bolsol%C3%B5es%E2%80%99-que-jogam-suspeitas-sobre-o-governo)
-- [Governo federal troca presidência da Petrobras de novo](https://www.nexojornal.com.br/extra/2022/05/23/Governo-federal-troca-presid%C3%AAncia-da-Petrobras-de-novo)
-- [Governo baixa em 10% imposto de importação de 6.195 produtos](https://www.nexojornal.com.br/extra/2022/05/23/Governo-baixa-em-10-imposto-de-importa%C3%A7%C3%A3o-de-6.195-produtos)
-- [Como o ICMS continua em pauta na crise dos combustíveis](https://www.nexojornal.com.br/expresso/2022/05/23/Como-o-ICMS-continua-em-pauta-na-crise-dos-combust%C3%ADveis)
+- [As versões sobre a guerra contra as gangues em El Salvador](https://www.nexojornal.com.br/expresso/2022/05/23/As-vers%C3%B5es-sobre-a-guerra-contra-as-gangues-em-El-Salvador)
+- [Câmara deve votar projeto que limita ICMS de combustíveis](https://www.nexojornal.com.br/extra/2022/05/23/C%C3%A2mara-deve-votar-projeto-que-limita-ICMS-de-combust%C3%ADveis)
+- [Biden diz que usaria força para defender Taiwan de invasão](https://www.nexojornal.com.br/extra/2022/05/23/Biden-diz-que-usaria-for%C3%A7a-para-defender-Taiwan-de-invas%C3%A3o)
+- [Doria desiste de ser candidato a presidente pelo PSDB](https://www.nexojornal.com.br/extra/2022/05/23/Doria-desiste-de-ser-candidato-a-presidente-pelo-PSDB)
+- [Soldado russo é condenado à prisão perpétua na Ucrânia](https://www.nexojornal.com.br/extra/2022/05/23/Soldado-russo-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
