@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Jogadora de vôlei é suspensa por 4 anos após doping](https://www.nexojornal.com.br/extra/2022/05/24/Jogadora-de-v%C3%B4lei-%C3%A9-suspensa-por-4-anos-ap%C3%B3s-doping)
+- [Quais os efeitos da forma e do conteúdo do marketing de Ciro](https://www.nexojornal.com.br/expresso/2022/05/24/Quais-os-efeitos-da-forma-e-do-conte%C3%BAdo-do-marketing-de-Ciro)
 - [Moro vira réu em ação por danos causados pela Lava Jato](https://www.nexojornal.com.br/extra/2022/05/24/Moro-vira-r%C3%A9u-em-a%C3%A7%C3%A3o-por-danos-causados-pela-Lava-Jato)
 - [Operação policial deixa 11 mortos na Vila Cruzeiro, no Rio](https://www.nexojornal.com.br/extra/2022/05/24/Opera%C3%A7%C3%A3o-policial-deixa-11-mortos-na-Vila-Cruzeiro-no-Rio)
 - [O número de pagamentos via Pix, desde o início do sistema](https://www.nexojornal.com.br/grafico/2022/05/23/O-n%C3%BAmero-de-pagamentos-via-Pix-desde-o-in%C3%ADcio-do-sistema)
-- [Quais os ‘bolsolões’ que jogam suspeitas sobre o governo](https://www.nexojornal.com.br/expresso/2022/05/23/Quais-os-%E2%80%98bolsol%C3%B5es%E2%80%99-que-jogam-suspeitas-sobre-o-governo)
-- [Governo federal troca presidência da Petrobras de novo](https://www.nexojornal.com.br/extra/2022/05/23/Governo-federal-troca-presid%C3%AAncia-da-Petrobras-de-novo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
