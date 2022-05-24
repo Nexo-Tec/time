@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Balaclava de Látex](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/balaclava-de-latex/)
+- [Máscara de Látex](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/balaclava-de-latex/)
 - [Remédios e obesidade: ‘Há estigma e vergonha’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/remedio-para-emagrecer-e-obesidade/)
 - [Astrid Fontenelle](https://gamarevista.uol.com.br/pessoas/questionario-proust/astrid-fontenelle/)
 - [Bloke core: a moda da camiseta de futebol](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
