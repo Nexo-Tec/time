@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Gabriel Cozendey: os riscos do garimpo legal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/05/23/Gabriel-Cozendey-os-riscos-do-garimpo-legal)
+- [Alimentos ultraprocessados e a insegurança alimentar no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2022/Alimentos-ultraprocessados-e-a-inseguran%C3%A7a-alimentar-no-Brasil)
+- [A responsabilidade do judiciário diante do viés racial das abordagens policiais](https://pp.nexojornal.com.br/opiniao/2022/A-responsabilidade-do-judici%C3%A1rio-diante-do-vi%C3%A9s-racial-das-abordagens-policiais)
+- [Política e religião: o que o Twitter nos diz sobre os discursos de parlamentares](https://pp.nexojornal.com.br/ponto-de-vista/2022/Pol%C3%ADtica-e-religi%C3%A3o-o-que-o-Twitter-nos-diz-sobre-os-discursos-de-parlamentares)
 - [Garantir políticas públicas para as juventudes: o momento é agora](https://pp.nexojornal.com.br/ponto-de-vista/2022/Garantir-pol%C3%ADticas-p%C3%BAblicas-para-as-juventudes-o-momento-%C3%A9-agora)
-- [Racismo sistêmico e o impacto das políticas de ação afirmativa no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Racismo-sist%C3%AAmico-e-o-impacto-das-pol%C3%ADticas-de-a%C3%A7%C3%A3o-afirmativa-no-Brasil)
-- [Como os brasileiros se relacionam com uma dieta saudável e sustentável](https://pp.nexojornal.com.br/academico/2022/Como-os-brasileiros-se-relacionam-com-uma-dieta-saud%C3%A1vel-e-sustent%C3%A1vel)
-- [Política de ação afirmativa na UnB](https://pp.nexojornal.com.br/linha-do-tempo/2022/Pol%C3%ADtica-de-a%C3%A7%C3%A3o-afirmativa-na-UnB)
-- [Moratória ao reconhecimento facial](https://pp.nexojornal.com.br/opiniao/2022/Morat%C3%B3ria-ao-reconhecimento-facial)
 <!-- PP_LIST:END -->
 
