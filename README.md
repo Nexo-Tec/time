@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jogadora de vôlei é suspensa por 4 anos após doping](https://www.nexojornal.com.br/extra/2022/05/24/Jogadora-de-v%C3%B4lei-%C3%A9-suspensa-por-4-anos-ap%C3%B3s-doping)
-- [Quais os efeitos da forma e do conteúdo do marketing de Ciro](https://www.nexojornal.com.br/expresso/2022/05/24/Quais-os-efeitos-da-forma-e-do-conte%C3%BAdo-do-marketing-de-Ciro)
-- [Moro vira réu em ação por danos causados pela Lava Jato](https://www.nexojornal.com.br/extra/2022/05/24/Moro-vira-r%C3%A9u-em-a%C3%A7%C3%A3o-por-danos-causados-pela-Lava-Jato)
-- [Operação policial deixa 11 mortos na Vila Cruzeiro, no Rio](https://www.nexojornal.com.br/extra/2022/05/24/Opera%C3%A7%C3%A3o-policial-deixa-11-mortos-na-Vila-Cruzeiro-no-Rio)
-- [O número de pagamentos via Pix, desde o início do sistema](https://www.nexojornal.com.br/grafico/2022/05/23/O-n%C3%BAmero-de-pagamentos-via-Pix-desde-o-in%C3%ADcio-do-sistema)
+- [Recife sofre com maior chuva em 42 anos, segundo prefeito](https://www.nexojornal.com.br/extra/2022/05/25/Recife-sofre-com-maior-chuva-em-42-anos-segundo-prefeito)
+- [Conselho aprova, com restrições, compra do Big pelo Carrefour](https://www.nexojornal.com.br/extra/2022/05/25/Conselho-aprova-com-restri%C3%A7%C3%B5es-compra-do-Big-pelo-Carrefour)
+- [2,9 milhões se declaram bi ou homossexuais no Brasil](https://www.nexojornal.com.br/extra/2022/05/25/29-milh%C3%B5es-se-declaram-bi-ou-homossexuais-no-Brasil)
+- [30 anos da terra Yanomami: os desafios de 1992 e de hoje](https://www.nexojornal.com.br/expresso/2022/05/25/30-anos-da-terra-Yanomami-os-desafios-de-1992-e-de-hoje)
+- [Bolsonaro parabeniza PM do Rio por chacina na Vila Cruzeiro](https://www.nexojornal.com.br/extra/2022/05/25/Bolsonaro-parabeniza-PM-do-Rio-por-chacina-na-Vila-Cruzeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
