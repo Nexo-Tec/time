@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o PT mantém vivo o tema da Lava Jato](https://www.nexojornal.com.br/expresso/2022/05/24/Por-que-o-PT-mant%C3%A9m-vivo-o-tema-da-Lava-Jato)
-- [Qual o ‘Projeto de Nação’ de militares ligados ao governo](https://www.nexojornal.com.br/expresso/2022/05/24/Qual-o-%E2%80%98Projeto-de-Na%C3%A7%C3%A3o%E2%80%99-de-militares-ligados-ao-governo)
-- [Senado aprova ampliação do Fies e renegociação de dívidas](https://www.nexojornal.com.br/extra/2022/05/24/Senado-aprova-amplia%C3%A7%C3%A3o-do-Fies-e-renegocia%C3%A7%C3%A3o-de-d%C3%ADvidas)
-- [O que você sabe sobre o Brasil em Cannes? Faça o teste](https://www.nexojornal.com.br/interativo/2022/05/24/O-que-voc%C3%AA-sabe-sobre-o-Brasil-em-Cannes-Fa%C3%A7a-o-teste)
-- [Por que Bolsonaro faz tanta troca na chefia da Petrobras](https://www.nexojornal.com.br/expresso/2022/05/24/Por-que-Bolsonaro-faz-tanta-troca-na-chefia-da-Petrobras)
+- [Procuradoria não vê crime em fala de Bolsonaro a apoiador negro](https://www.nexojornal.com.br/extra/2022/05/24/Procuradoria-n%C3%A3o-v%C3%AA-crime-em-fala-de-Bolsonaro-a-apoiador-negro)
+- [Lula diz que Bolsonaro tem ‘rabo preso’ aos preços do petróleo](https://www.nexojornal.com.br/extra/2022/05/24/Lula-diz-que-Bolsonaro-tem-%E2%80%98rabo-preso%E2%80%99-aos-pre%C3%A7os-do-petr%C3%B3leo)
+- [Jogadora de vôlei é suspensa por 4 anos após doping](https://www.nexojornal.com.br/extra/2022/05/24/Jogadora-de-v%C3%B4lei-%C3%A9-suspensa-por-4-anos-ap%C3%B3s-doping)
+- [Quais os efeitos da forma e do conteúdo do marketing de Ciro](https://www.nexojornal.com.br/expresso/2022/05/24/Quais-os-efeitos-da-forma-e-do-conte%C3%BAdo-do-marketing-de-Ciro)
+- [Moro vira réu em ação por danos causados pela Lava Jato](https://www.nexojornal.com.br/extra/2022/05/24/Moro-vira-r%C3%A9u-em-a%C3%A7%C3%A3o-por-danos-causados-pela-Lava-Jato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
