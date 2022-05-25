@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Megwyn White: ‘Bloquear a sexualidade é também bloquear o prazer em outras áreas da vida’](https://gamarevista.uol.com.br/formato/conversas/megwyn-white-bloquear-a-sexualidade-e-tambem-bloquear-o-prazer-em-outras-areas-da-vida/)
 - [A microagressão só é pequena para quem agride](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-microagressao-so-e-pequena-para-quem-agride/)
 - [Máscara de Látex](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/balaclava-de-latex/)
 - [Remédios e obesidade: ‘Há estigma e vergonha’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/remedio-para-emagrecer-e-obesidade/)
 - [Astrid Fontenelle](https://gamarevista.uol.com.br/pessoas/questionario-proust/astrid-fontenelle/)
-- [Bloke core: a moda da camiseta de futebol](https://gamarevista.uol.com.br/estilo-de-vida/o-bloke-core-e-o-futebol-no-mundo-da-moda/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
