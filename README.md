@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Recife sofre com maior chuva em 42 anos, segundo prefeito](https://www.nexojornal.com.br/extra/2022/05/25/Recife-sofre-com-maior-chuva-em-42-anos-segundo-prefeito)
-- [Conselho aprova, com restrições, compra do Big pelo Carrefour](https://www.nexojornal.com.br/extra/2022/05/25/Conselho-aprova-com-restri%C3%A7%C3%B5es-compra-do-Big-pelo-Carrefour)
-- [2,9 milhões se declaram bi ou homossexuais no Brasil](https://www.nexojornal.com.br/extra/2022/05/25/29-milh%C3%B5es-se-declaram-bi-ou-homossexuais-no-Brasil)
-- [30 anos da terra Yanomami: os desafios de 1992 e de hoje](https://www.nexojornal.com.br/expresso/2022/05/25/30-anos-da-terra-Yanomami-os-desafios-de-1992-e-de-hoje)
-- [Bolsonaro parabeniza PM do Rio por chacina na Vila Cruzeiro](https://www.nexojornal.com.br/extra/2022/05/25/Bolsonaro-parabeniza-PM-do-Rio-por-chacina-na-Vila-Cruzeiro)
+- [Por que o PT mantém vivo o tema da Lava Jato](https://www.nexojornal.com.br/expresso/2022/05/24/Por-que-o-PT-mant%C3%A9m-vivo-o-tema-da-Lava-Jato)
+- [Qual o ‘Projeto de Nação’ de militares ligados ao governo](https://www.nexojornal.com.br/expresso/2022/05/24/Qual-o-%E2%80%98Projeto-de-Na%C3%A7%C3%A3o%E2%80%99-de-militares-ligados-ao-governo)
+- [Senado aprova ampliação do Fies e renegociação de dívidas](https://www.nexojornal.com.br/extra/2022/05/24/Senado-aprova-amplia%C3%A7%C3%A3o-do-Fies-e-renegocia%C3%A7%C3%A3o-de-d%C3%ADvidas)
+- [O que você sabe sobre o Brasil em Cannes? Faça o teste](https://www.nexojornal.com.br/interativo/2022/05/24/O-que-voc%C3%AA-sabe-sobre-o-Brasil-em-Cannes-Fa%C3%A7a-o-teste)
+- [Por que Bolsonaro faz tanta troca na chefia da Petrobras](https://www.nexojornal.com.br/expresso/2022/05/24/Por-que-Bolsonaro-faz-tanta-troca-na-chefia-da-Petrobras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
