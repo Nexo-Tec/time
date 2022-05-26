@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As percepções dos brasileiros sobre as mudanças climáticas](https://www.nexojornal.com.br/academico/2022/05/26/As-percep%C3%A7%C3%B5es-dos-brasileiros-sobre-as-mudan%C3%A7as-clim%C3%A1ticas)
-- [Pesquisa revela urbanização da era pré-colonial na Amazônia](https://www.nexojornal.com.br/extra/2022/05/26/Pesquisa-revela-urbaniza%C3%A7%C3%A3o-da-era-pr%C3%A9-colonial-na-Amaz%C3%B4nia)
-- [Morre aos 67 o ator Ray Liotta, de ‘Os Bons Companheiros’](https://www.nexojornal.com.br/extra/2022/05/26/Morre-aos-67-o-ator-Ray-Liotta-de-%E2%80%98Os-Bons-Companheiros%E2%80%99)
-- [As previsões sombrias da ONU e do FMI sobre a fome no mundo](https://www.nexojornal.com.br/expresso/2022/05/26/As-previs%C3%B5es-sombrias-da-ONU-e-do-FMI-sobre-a-fome-no-mundo)
-- [Bolsonaro vai comparecer à Cúpula das Américas, diz Itamaraty](https://www.nexojornal.com.br/extra/2022/05/26/Bolsonaro-vai-comparecer-%C3%A0-C%C3%BApula-das-Am%C3%A9ricas-diz-Itamaraty)
+- [Vídeo mostra policial atirando contra moradores da Vila Cruzeiro](https://www.nexojornal.com.br/extra/2022/05/25/V%C3%ADdeo-mostra-policial-atirando-contra-moradores-da-Vila-Cruzeiro)
+- [Operadoras de telemarketing vão ao Supremo contra prefixo 0303](https://www.nexojornal.com.br/extra/2022/05/25/Operadoras-de-telemarketing-v%C3%A3o-ao-Supremo-contra-prefixo-0303)
+- [Quais são os entraves ao controle de armas nos EUA](https://www.nexojornal.com.br/expresso/2022/05/25/Quais-s%C3%A3o-os-entraves-ao-controle-de-armas-nos-EUA)
+- [Recife sofre com maior chuva em 42 anos, segundo prefeito](https://www.nexojornal.com.br/extra/2022/05/25/Recife-sofre-com-maior-chuva-em-42-anos-segundo-prefeito)
+- [Conselho aprova, com restrições, compra do Big pelo Carrefour](https://www.nexojornal.com.br/extra/2022/05/25/Conselho-aprova-com-restri%C3%A7%C3%B5es-compra-do-Big-pelo-Carrefour)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
