@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vídeo mostra policial atirando contra moradores da Vila Cruzeiro](https://www.nexojornal.com.br/extra/2022/05/25/V%C3%ADdeo-mostra-policial-atirando-contra-moradores-da-Vila-Cruzeiro)
-- [Operadoras de telemarketing vão ao Supremo contra prefixo 0303](https://www.nexojornal.com.br/extra/2022/05/25/Operadoras-de-telemarketing-v%C3%A3o-ao-Supremo-contra-prefixo-0303)
-- [Quais são os entraves ao controle de armas nos EUA](https://www.nexojornal.com.br/expresso/2022/05/25/Quais-s%C3%A3o-os-entraves-ao-controle-de-armas-nos-EUA)
-- [Recife sofre com maior chuva em 42 anos, segundo prefeito](https://www.nexojornal.com.br/extra/2022/05/25/Recife-sofre-com-maior-chuva-em-42-anos-segundo-prefeito)
-- [Conselho aprova, com restrições, compra do Big pelo Carrefour](https://www.nexojornal.com.br/extra/2022/05/25/Conselho-aprova-com-restri%C3%A7%C3%B5es-compra-do-Big-pelo-Carrefour)
+- [Os problemas na busca por desaparecidos, segundo este estudo](https://www.nexojornal.com.br/expresso/2022/05/26/Os-problemas-na-busca-por-desaparecidos-segundo-este-estudo)
+- [Juiz é suspeito de beneficiar empresas e dar prejuízo bilionário](https://www.nexojornal.com.br/extra/2022/05/25/Juiz-%C3%A9-suspeito-de-beneficiar-empresas-e-dar-preju%C3%ADzo-bilion%C3%A1rio)
+- [Metade dos partidos brasileiros perdeu filiados desde 2018](https://www.nexojornal.com.br/grafico/2022/05/25/Metade-dos-partidos-brasileiros-perdeu-filiados-desde-2018)
+- [As chacinas policiais como arma política no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2022/05/25/As-chacinas-policiais-como-arma-pol%C3%ADtica-no-Rio-de-Janeiro)
+- [Lincoln Portela, do PL, é o novo vice-presidente da Câmara](https://www.nexojornal.com.br/extra/2022/05/25/Lincoln-Portela-do-PL-%C3%A9-o-novo-vice-presidente-da-C%C3%A2mara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
