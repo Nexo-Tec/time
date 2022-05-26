@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Megwyn White: ‘Bloquear a sexualidade é também bloquear o prazer em outras áreas da vida’](https://gamarevista.uol.com.br/formato/conversas/megwyn-white-bloquear-a-sexualidade-e-tambem-bloquear-o-prazer-em-outras-areas-da-vida/)
-- [A microagressão só é pequena para quem agride](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-microagressao-so-e-pequena-para-quem-agride/)
-- [Máscara de Látex](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/balaclava-de-latex/)
-- [Remédios e obesidade: ‘Há estigma e vergonha’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/remedio-para-emagrecer-e-obesidade/)
-- [Astrid Fontenelle](https://gamarevista.uol.com.br/pessoas/questionario-proust/astrid-fontenelle/)
+- [13ª Bienal Internacional de Arquitetura, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/13a-bienal-internacional-de-arquitetura-em-sp/)
+- [O abuso dos agrotóxicos no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-abuso-dos-agrotoxicos-no-brasil/)
+- [O Novíssimo Cinema Brasileiro na USP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-novissimo-cinema-brasileiro-na-usp/)
+- [A tirania dos nomes de plantas no Museu Judaico](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-tirania-dos-nomes-de-plantas-no-museu-judaico/)
+- [O retorno de M.I.A.](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-de-m-i-a/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
