@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vídeo mostra policial atirando contra moradores da Vila Cruzeiro](https://www.nexojornal.com.br/extra/2022/05/25/V%C3%ADdeo-mostra-policial-atirando-contra-moradores-da-Vila-Cruzeiro)
 - [Operadoras de telemarketing vão ao Supremo contra prefixo 0303](https://www.nexojornal.com.br/extra/2022/05/25/Operadoras-de-telemarketing-v%C3%A3o-ao-Supremo-contra-prefixo-0303)
 - [Quais são os entraves ao controle de armas nos EUA](https://www.nexojornal.com.br/expresso/2022/05/25/Quais-s%C3%A3o-os-entraves-ao-controle-de-armas-nos-EUA)
 - [Recife sofre com maior chuva em 42 anos, segundo prefeito](https://www.nexojornal.com.br/extra/2022/05/25/Recife-sofre-com-maior-chuva-em-42-anos-segundo-prefeito)
 - [Conselho aprova, com restrições, compra do Big pelo Carrefour](https://www.nexojornal.com.br/extra/2022/05/25/Conselho-aprova-com-restri%C3%A7%C3%B5es-compra-do-Big-pelo-Carrefour)
-- [2,9 milhões se declaram bi ou homossexuais no Brasil](https://www.nexojornal.com.br/extra/2022/05/25/29-milh%C3%B5es-se-declaram-bi-ou-homossexuais-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
