@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Aos pobres, as salsichas](https://pp.nexojornal.com.br/opiniao/2022/Aos-pobres-as-salsichas)
+- [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas)
+- [De cultura negra a cultura nacional](https://pp.nexojornal.com.br/opiniao/2022/De-cultura-negra-a-cultura-nacional)
 - [Gabriel Cozendey: os riscos do garimpo legal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/05/23/Gabriel-Cozendey-os-riscos-do-garimpo-legal)
 - [Alimentos ultraprocessados e a insegurança alimentar no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2022/Alimentos-ultraprocessados-e-a-inseguran%C3%A7a-alimentar-no-Brasil)
-- [A responsabilidade do judiciário diante do viés racial das abordagens policiais](https://pp.nexojornal.com.br/opiniao/2022/A-responsabilidade-do-judici%C3%A1rio-diante-do-vi%C3%A9s-racial-das-abordagens-policiais)
-- [Política e religião: o que o Twitter nos diz sobre os discursos de parlamentares](https://pp.nexojornal.com.br/ponto-de-vista/2022/Pol%C3%ADtica-e-religi%C3%A3o-o-que-o-Twitter-nos-diz-sobre-os-discursos-de-parlamentares)
-- [Garantir políticas públicas para as juventudes: o momento é agora](https://pp.nexojornal.com.br/ponto-de-vista/2022/Garantir-pol%C3%ADticas-p%C3%BAblicas-para-as-juventudes-o-momento-%C3%A9-agora)
 <!-- PP_LIST:END -->
 
