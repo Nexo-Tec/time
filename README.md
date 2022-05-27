@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A proposta de cobrar pelo acesso a universidades públicas](https://www.nexojornal.com.br/expresso/2022/05/26/A-proposta-de-cobrar-pelo-acesso-a-universidades-p%C3%BAblicas)
-- [Proteção nas redes: o que podemos fazer hoje pelos jovens](https://www.nexojornal.com.br/colunistas/2022/Prote%C3%A7%C3%A3o-nas-redes-o-que-podemos-fazer-hoje-pelos-jovens)
-- [Aras arquiva pedido de Bolsonaro para investigar Moraes](https://www.nexojornal.com.br/extra/2022/05/26/Aras-arquiva-pedido-de-Bolsonaro-para-investigar-Moraes)
 - [O retrato da corrida presidencial do Brasil a 129 dias do voto](https://www.nexojornal.com.br/podcast/2022/05/26/O-retrato-da-corrida-presidencial-do-Brasil-a-129-dias-do-voto1)
 - [A vida de Elvis pela ótica do maximalismo de Baz Luhrmann](https://www.nexojornal.com.br/expresso/2022/05/26/A-vida-de-Elvis-pela-%C3%B3tica-do-maximalismo-de-Baz-Luhrmann)
+- [Se eleição fosse hoje, Lula ganharia no 1º turno, diz Datafolha](https://www.nexojornal.com.br/extra/2022/05/26/Se-elei%C3%A7%C3%A3o-fosse-hoje-Lula-ganharia-no-1%C2%BA-turno-diz-Datafolha)
+- [Testes positivos de covid em laboratórios particulares triplicam](https://www.nexojornal.com.br/extra/2022/05/26/Testes-positivos-de-covid-em-laborat%C3%B3rios-particulares-triplicam)
+- [Agência autoriza aumento recorde em planos de saúde individuais](https://www.nexojornal.com.br/extra/2022/05/26/Ag%C3%AAncia-autoriza-aumento-recorde-em-planos-de-sa%C3%BAde-individuais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
