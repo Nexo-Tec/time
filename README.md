@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Para que serve um menu degustação?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/para-que-serve-um-menu-degustacao/)
 - [A Depressão É a Perda de uma Ilusão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-depressao-e-a-perda-de-uma-ilusao/)
 - [13ª Bienal Internacional de Arquitetura, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/13a-bienal-internacional-de-arquitetura-em-sp/)
 - [O abuso dos agrotóxicos no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-abuso-dos-agrotoxicos-no-brasil/)
 - [O Novíssimo Cinema Brasileiro na USP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-novissimo-cinema-brasileiro-na-usp/)
-- [A tirania dos nomes de plantas no Museu Judaico](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-tirania-dos-nomes-de-plantas-no-museu-judaico/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
