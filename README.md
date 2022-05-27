@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os problemas na busca por desaparecidos, segundo este estudo](https://www.nexojornal.com.br/expresso/2022/05/26/Os-problemas-na-busca-por-desaparecidos-segundo-este-estudo)
-- [Juiz é suspeito de beneficiar empresas e dar prejuízo bilionário](https://www.nexojornal.com.br/extra/2022/05/25/Juiz-%C3%A9-suspeito-de-beneficiar-empresas-e-dar-preju%C3%ADzo-bilion%C3%A1rio)
-- [Metade dos partidos brasileiros perdeu filiados desde 2018](https://www.nexojornal.com.br/grafico/2022/05/25/Metade-dos-partidos-brasileiros-perdeu-filiados-desde-2018)
-- [As chacinas policiais como arma política no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2022/05/25/As-chacinas-policiais-como-arma-pol%C3%ADtica-no-Rio-de-Janeiro)
-- [Lincoln Portela, do PL, é o novo vice-presidente da Câmara](https://www.nexojornal.com.br/extra/2022/05/25/Lincoln-Portela-do-PL-%C3%A9-o-novo-vice-presidente-da-C%C3%A2mara)
+- [As percepções dos brasileiros sobre as mudanças climáticas](https://www.nexojornal.com.br/academico/2022/05/26/As-percep%C3%A7%C3%B5es-dos-brasileiros-sobre-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [Pesquisa revela urbanização da era pré-colonial na Amazônia](https://www.nexojornal.com.br/extra/2022/05/26/Pesquisa-revela-urbaniza%C3%A7%C3%A3o-da-era-pr%C3%A9-colonial-na-Amaz%C3%B4nia)
+- [Morre aos 67 o ator Ray Liotta, de ‘Os Bons Companheiros’](https://www.nexojornal.com.br/extra/2022/05/26/Morre-aos-67-o-ator-Ray-Liotta-de-%E2%80%98Os-Bons-Companheiros%E2%80%99)
+- [As previsões sombrias da ONU e do FMI sobre a fome no mundo](https://www.nexojornal.com.br/expresso/2022/05/26/As-previs%C3%B5es-sombrias-da-ONU-e-do-FMI-sobre-a-fome-no-mundo)
+- [Bolsonaro vai comparecer à Cúpula das Américas, diz Itamaraty](https://www.nexojornal.com.br/extra/2022/05/26/Bolsonaro-vai-comparecer-%C3%A0-C%C3%BApula-das-Am%C3%A9ricas-diz-Itamaraty)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
