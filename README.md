@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As percepções dos brasileiros sobre as mudanças climáticas](https://www.nexojornal.com.br/academico/2022/05/26/As-percep%C3%A7%C3%B5es-dos-brasileiros-sobre-as-mudan%C3%A7as-clim%C3%A1ticas)
-- [Pesquisa revela urbanização da era pré-colonial na Amazônia](https://www.nexojornal.com.br/extra/2022/05/26/Pesquisa-revela-urbaniza%C3%A7%C3%A3o-da-era-pr%C3%A9-colonial-na-Amaz%C3%B4nia)
-- [Morre aos 67 o ator Ray Liotta, de ‘Os Bons Companheiros’](https://www.nexojornal.com.br/extra/2022/05/26/Morre-aos-67-o-ator-Ray-Liotta-de-%E2%80%98Os-Bons-Companheiros%E2%80%99)
-- [As previsões sombrias da ONU e do FMI sobre a fome no mundo](https://www.nexojornal.com.br/expresso/2022/05/26/As-previs%C3%B5es-sombrias-da-ONU-e-do-FMI-sobre-a-fome-no-mundo)
-- [Bolsonaro vai comparecer à Cúpula das Américas, diz Itamaraty](https://www.nexojornal.com.br/extra/2022/05/26/Bolsonaro-vai-comparecer-%C3%A0-C%C3%BApula-das-Am%C3%A9ricas-diz-Itamaraty)
+- [O retrato da corrida presidencial do Brasil a 129 dias do voto](https://www.nexojornal.com.br/podcast/2022/05/26/O-retrato-da-corrida-presidencial-do-Brasil-a-129-dias-do-voto1)
+- [A vida de Elvis pela ótica do maximalismo de Baz Luhrmann](https://www.nexojornal.com.br/expresso/2022/05/26/A-vida-de-Elvis-pela-%C3%B3tica-do-maximalismo-de-Baz-Luhrmann)
+- [Se eleição fosse hoje, Lula ganharia no 1º turno, diz Datafolha](https://www.nexojornal.com.br/extra/2022/05/26/Se-elei%C3%A7%C3%A3o-fosse-hoje-Lula-ganharia-no-1%C2%BA-turno-diz-Datafolha)
+- [Testes positivos de covid em laboratórios particulares triplicam](https://www.nexojornal.com.br/extra/2022/05/26/Testes-positivos-de-covid-em-laborat%C3%B3rios-particulares-triplicam)
+- [Agência autoriza aumento recorde em planos de saúde individuais](https://www.nexojornal.com.br/extra/2022/05/26/Ag%C3%AAncia-autoriza-aumento-recorde-em-planos-de-sa%C3%BAde-individuais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
