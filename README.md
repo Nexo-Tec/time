@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O tempo que adultos passam lendo para crianças de até três anos](https://pp.nexojornal.com.br/Dados/2022/05/27/O-tempo-que-adultos-passam-lendo-para-crian%C3%A7as-de-at%C3%A9-tr%C3%AAs-anos)
-- [Fontes para o estudo da história da Amazônia disponibilizadas online](https://pp.nexojornal.com.br/bibliografia-basica/2022/05/27/Fontes-para-o-estudo-da-hist%C3%B3ria-da-Amaz%C3%B4nia-disponibilizadas-online)
 - [Aos pobres, as salsichas](https://pp.nexojornal.com.br/opiniao/2022/Aos-pobres-as-salsichas)
 - [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas)
 - [De cultura negra a cultura nacional](https://pp.nexojornal.com.br/opiniao/2022/De-cultura-negra-a-cultura-nacional)
+- [Gabriel Cozendey: os riscos do garimpo legal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/05/23/Gabriel-Cozendey-os-riscos-do-garimpo-legal)
+- [Alimentos ultraprocessados e a insegurança alimentar no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2022/Alimentos-ultraprocessados-e-a-inseguran%C3%A7a-alimentar-no-Brasil)
 <!-- PP_LIST:END -->
 
