@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara de gás na viatura: o que pode acontecer com os policiais](https://www.nexojornal.com.br/expresso/2022/05/28/C%C3%A2mara-de-g%C3%A1s-na-viatura-o-que-pode-acontecer-com-os-policiais)
-- [Bolsonaro tem a maior rejeição entre quem já tentou reeleição](https://www.nexojornal.com.br/extra/2022/05/27/Bolsonaro-tem-a-maior-rejei%C3%A7%C3%A3o-entre-quem-j%C3%A1-tentou-reelei%C3%A7%C3%A3o)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/27/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Sem medo de lutar](https://www.nexojornal.com.br/externo/2022/05/27/Sem-medo-de-lutar)
-- [O site que reúne as memórias afetivas que músicas despertam](https://www.nexojornal.com.br/expresso/2022/05/27/O-site-que-re%C3%BAne-as-mem%C3%B3rias-afetivas-que-m%C3%BAsicas-despertam)
+- [A proposta de cobrar pelo acesso a universidades públicas](https://www.nexojornal.com.br/expresso/2022/05/26/A-proposta-de-cobrar-pelo-acesso-a-universidades-p%C3%BAblicas)
+- [Proteção nas redes: o que podemos fazer hoje pelos jovens](https://www.nexojornal.com.br/colunistas/2022/Prote%C3%A7%C3%A3o-nas-redes-o-que-podemos-fazer-hoje-pelos-jovens)
+- [Aras arquiva pedido de Bolsonaro para investigar Moraes](https://www.nexojornal.com.br/extra/2022/05/26/Aras-arquiva-pedido-de-Bolsonaro-para-investigar-Moraes)
+- [O retrato da corrida presidencial do Brasil a 129 dias do voto](https://www.nexojornal.com.br/podcast/2022/05/26/O-retrato-da-corrida-presidencial-do-Brasil-a-129-dias-do-voto1)
+- [A vida de Elvis pela ótica do maximalismo de Baz Luhrmann](https://www.nexojornal.com.br/expresso/2022/05/26/A-vida-de-Elvis-pela-%C3%B3tica-do-maximalismo-de-Baz-Luhrmann)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
