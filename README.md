@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Câmara de gás na viatura: o que pode acontecer com os policiais](https://www.nexojornal.com.br/expresso/2022/05/28/C%C3%A2mara-de-g%C3%A1s-na-viatura-o-que-pode-acontecer-com-os-policiais)
 - [Bolsonaro tem a maior rejeição entre quem já tentou reeleição](https://www.nexojornal.com.br/extra/2022/05/27/Bolsonaro-tem-a-maior-rejei%C3%A7%C3%A3o-entre-quem-j%C3%A1-tentou-reelei%C3%A7%C3%A3o)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/05/27/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [Sem medo de lutar](https://www.nexojornal.com.br/externo/2022/05/27/Sem-medo-de-lutar)
 - [O site que reúne as memórias afetivas que músicas despertam](https://www.nexojornal.com.br/expresso/2022/05/27/O-site-que-re%C3%BAne-as-mem%C3%B3rias-afetivas-que-m%C3%BAsicas-despertam)
-- [Motoboys protestam contra abordagens policiais em São Paulo](https://www.nexojornal.com.br/extra/2022/05/27/Motoboys-protestam-contra-abordagens-policiais-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
