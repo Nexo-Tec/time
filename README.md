@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Virada Cultural de SP tem arrastões e furto de celulares](https://www.nexojornal.com.br/extra/2022/05/29/Virada-Cultural-de-SP-tem-arrast%C3%B5es-e-furto-de-celulares)
 - [5 livros para pensar sobre a diversidade das religiões brasileiras](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-sobre-a-diversidade-das-religi%C3%B5es-brasileiras)
 - [Como a questão dos indígenas mapuche desafia Boric no Chile](https://www.nexojornal.com.br/expresso/2022/05/29/Como-a-quest%C3%A3o-dos-ind%C3%ADgenas-mapuche-desafia-Boric-no-Chile)
 - [‘Varíola dos macacos exige preocupação, mas sem pânico’](https://www.nexojornal.com.br/entrevista/2022/05/29/%E2%80%98Var%C3%ADola-dos-macacos-exige-preocupa%C3%A7%C3%A3o-mas-sem-p%C3%A2nico%E2%80%99)
 - [Resolver no primeiro turno ou só depois? Os cenários de outubro](https://www.nexojornal.com.br/expresso/2022/05/29/Resolver-no-primeiro-turno-ou-s%C3%B3-depois-Os-cen%C3%A1rios-de-outubro)
+- [O poder de decidir quem levará um ‘enquadro’](https://www.nexojornal.com.br/ensaio/2022/O-poder-de-decidir-quem-levar%C3%A1-um-%E2%80%98enquadro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
