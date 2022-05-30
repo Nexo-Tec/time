@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Virada Cultural de SP tem arrastões e furto de celulares](https://www.nexojornal.com.br/extra/2022/05/29/Virada-Cultural-de-SP-tem-arrast%C3%B5es-e-furto-de-celulares)
-- [5 livros para pensar sobre a diversidade das religiões brasileiras](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-sobre-a-diversidade-das-religi%C3%B5es-brasileiras)
-- [Como a questão dos indígenas mapuche desafia Boric no Chile](https://www.nexojornal.com.br/expresso/2022/05/29/Como-a-quest%C3%A3o-dos-ind%C3%ADgenas-mapuche-desafia-Boric-no-Chile)
-- [‘Varíola dos macacos exige preocupação, mas sem pânico’](https://www.nexojornal.com.br/entrevista/2022/05/29/%E2%80%98Var%C3%ADola-dos-macacos-exige-preocupa%C3%A7%C3%A3o-mas-sem-p%C3%A2nico%E2%80%99)
-- [Resolver no primeiro turno ou só depois? Os cenários de outubro](https://www.nexojornal.com.br/expresso/2022/05/29/Resolver-no-primeiro-turno-ou-s%C3%B3-depois-Os-cen%C3%A1rios-de-outubro)
+- [Teia de ausências: política pública se faz com escuta](https://www.nexojornal.com.br/ensaio/2022/Teia-de-aus%C3%AAncias-pol%C3%ADtica-p%C3%BAblica-se-faz-com-escuta)
+- [‘O ensino jurídico é uma engrenagem do racismo no Brasil’](https://www.nexojornal.com.br/entrevista/2022/05/29/%E2%80%98O-ensino-jur%C3%ADdico-%C3%A9-uma-engrenagem-do-racismo-no-Brasil%E2%80%99)
+- [Por que pode faltar diesel no Brasil no segundo semestre](https://www.nexojornal.com.br/expresso/2022/05/29/Por-que-pode-faltar-diesel-no-Brasil-no-segundo-semestre)
+- [Eleição na Colômbia terá 2° turno entre Petro e Hernández](https://www.nexojornal.com.br/extra/2022/05/29/Elei%C3%A7%C3%A3o-na-Col%C3%B4mbia-ter%C3%A1-2%C2%B0-turno-entre-Petro-e-Hern%C3%A1ndez)
+- [Polícia Rodoviária muda de posição sobre morte de Genivaldo](https://www.nexojornal.com.br/extra/2022/05/29/Pol%C3%ADcia-Rodovi%C3%A1ria-muda-de-posi%C3%A7%C3%A3o-sobre-morte-de-Genivaldo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
