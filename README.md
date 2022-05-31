@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Relógio cuco](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-cuco/)
 - [@jovemdionisio](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jovemdionisio/)
 - [Aline Diniz: “Os super-heróis sempre trouxeram o debate da inclusão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-diniz-fala-sobre-o-avanco-do-universo-nerd-nas-redes/)
 - [Paulo Miklos](https://gamarevista.uol.com.br/pessoas/questionario-proust/paulo-miklos/)
 - [Para que serve um menu degustação?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/para-que-serve-um-menu-degustacao/)
-- [A Depressão É a Perda de uma Ilusão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-depressao-e-a-perda-de-uma-ilusao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
