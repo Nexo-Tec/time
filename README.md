@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desemprego cai, mas ainda atinge 11,3 milhões de pessoas](https://www.nexojornal.com.br/extra/2022/05/31/Desemprego-cai-mas-ainda-atinge-113-milh%C3%B5es-de-pessoas)
-- [Bolsonaro bloqueia R$ 8,2 bilhões do Orçamento de 2022](https://www.nexojornal.com.br/extra/2022/05/31/Bolsonaro-bloqueia-R-82-bilh%C3%B5es-do-Or%C3%A7amento-de-2022)
-- [Quais as ‘sobras da violência’ após chacinas policiais](https://www.nexojornal.com.br/expresso/2022/05/30/Quais-as-%E2%80%98sobras-da-viol%C3%AAncia%E2%80%99-ap%C3%B3s-chacinas-policiais)
-- [Federação partidária: um novo arranjo para aliança entre partidos](https://www.nexojornal.com.br/explicado/2022/05/30/Federa%C3%A7%C3%A3o-partid%C3%A1ria-um-novo-arranjo-para-alian%C3%A7a-entre-partidos)
-- [O que são os estoques públicos de alimentos no Brasil](https://www.nexojornal.com.br/grafico/2022/05/30/O-que-s%C3%A3o-os-estoques-p%C3%BAblicos-de-alimentos-no-Brasil)
+- [Quem é o populista de direita que foi para o 2º turno na Colômbia](https://www.nexojornal.com.br/expresso/2022/05/30/Quem-%C3%A9-o-populista-de-direita-que-foi-para-o-2%C2%BA-turno-na-Col%C3%B4mbia)
+- [Saiba como e onde doar para vítimas após chuvas em Recife](https://www.nexojornal.com.br/extra/2022/05/30/Saiba-como-e-onde-doar-para-v%C3%ADtimas-ap%C3%B3s-chuvas-em-Recife)
+- [Brasil tem dois casos suspeitos da varíola dos macacos](https://www.nexojornal.com.br/extra/2022/05/30/Brasil-tem-dois-casos-suspeitos-da-var%C3%ADola-dos-macacos)
+- [Quadro ‘Mona Lisa’ sai ileso de ataque com torta no Louvre](https://www.nexojornal.com.br/extra/2022/05/30/Quadro-%E2%80%98Mona-Lisa%E2%80%99-sai-ileso-de-ataque-com-torta-no-Louvre)
+- [Autoridades encontram corpos após acidente aéreo no Nepal](https://www.nexojornal.com.br/extra/2022/05/30/Autoridades-encontram-corpos-ap%C3%B3s-acidente-a%C3%A9reo-no-Nepal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
