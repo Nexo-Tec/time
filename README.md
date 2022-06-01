@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A panela de pressão explodiu](https://gamarevista.uol.com.br/colunistas/letrux/a-panela-de-pressao-explodiu/)
 - [Se organizar direitinho, todo mundo consegue trabalhar e transar](https://gamarevista.uol.com.br/relacoes/sexo/se-organizar-direitinho-todo-mundo-consegue-trabalhar-e-transar/)
 - [Relógio cuco](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-cuco/)
 - [@jovemdionisio](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jovemdionisio/)
 - [Aline Diniz: “Os super-heróis sempre trouxeram o debate da inclusão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-diniz-fala-sobre-o-avanco-do-universo-nerd-nas-redes/)
-- [Paulo Miklos](https://gamarevista.uol.com.br/pessoas/questionario-proust/paulo-miklos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
