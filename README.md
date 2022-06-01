@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mundo supera 500 casos de varíola dos macacos fora da África](https://www.nexojornal.com.br/extra/2022/05/31/Mundo-supera-500-casos-de-var%C3%ADola-dos-macacos-fora-da-%C3%81frica)
-- [Egito revela descobertas arqueológicas com mais de 2.500 anos](https://www.nexojornal.com.br/extra/2022/05/31/Egito-revela-descobertas-arqueol%C3%B3gicas-com-mais-de-2.500-anos)
-- [A corrida de chineses e americanos pelo Indo-Pacífico](https://www.nexojornal.com.br/expresso/2022/05/31/A-corrida-de-chineses-e-americanos-pelo-Indo-Pac%C3%ADfico)
-- [Minas e Energia pede estudos para a privatização da Petrobras](https://www.nexojornal.com.br/extra/2022/05/31/Minas-e-Energia-pede-estudos-para-a-privatiza%C3%A7%C3%A3o-da-Petrobras)
-- [Desemprego cai, mas ainda atinge 11,3 milhões de pessoas](https://www.nexojornal.com.br/extra/2022/05/31/Desemprego-cai-mas-ainda-atinge-113-milh%C3%B5es-de-pessoas)
+- [Como o reajuste para servidores virou uma crise de governo](https://www.nexojornal.com.br/expresso/2022/05/31/Como-o-reajuste-para-servidores-virou-uma-crise-de-governo)
+- [Por que o Auxílio Brasil não ajuda Bolsonaro nas pesquisas](https://www.nexojornal.com.br/expresso/2022/05/31/Por-que-o-Aux%C3%ADlio-Brasil-n%C3%A3o-ajuda-Bolsonaro-nas-pesquisas)
+- [O labirinto internacional em meio à névoa da democracia](https://www.nexojornal.com.br/colunistas/2022/O-labirinto-internacional-em-meio-%C3%A0-n%C3%A9voa-da-democracia)
+- [Qual é a qualidade dos empregos que o Brasil está criando](https://www.nexojornal.com.br/expresso/2022/05/31/Qual-%C3%A9-a-qualidade-dos-empregos-que-o-Brasil-est%C3%A1-criando)
+- [Caso Miguel: Sari Corte Real é condenada a 8 anos e meio  de prisão](https://www.nexojornal.com.br/extra/2022/05/31/Caso-Miguel-Sari-Corte-Real-%C3%A9-condenada-a-8-anos-e-meio-de-pris%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
