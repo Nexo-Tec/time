@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as ‘sobras da violência’ após chacinas policiais](https://www.nexojornal.com.br/expresso/2022/05/30/Quais-as-%E2%80%98sobras-da-viol%C3%AAncia%E2%80%99-ap%C3%B3s-chacinas-policiais)
-- [Federação partidária: um novo arranjo para aliança entre partidos](https://www.nexojornal.com.br/explicado/2022/05/30/Federa%C3%A7%C3%A3o-partid%C3%A1ria-um-novo-arranjo-para-alian%C3%A7a-entre-partidos)
-- [O que são os estoques públicos de alimentos no Brasil](https://www.nexojornal.com.br/grafico/2022/05/30/O-que-s%C3%A3o-os-estoques-p%C3%BAblicos-de-alimentos-no-Brasil)
-- [Receita ainda aguarda 2,5 milhões de declarações do IR](https://www.nexojornal.com.br/extra/2022/05/30/Receita-ainda-aguarda-25-milh%C3%B5es-de-declara%C3%A7%C3%B5es-do-IR1)
-- [Quais os problemas e distorções do Imposto de Renda brasileiro](https://www.nexojornal.com.br/expresso/2022/05/30/Quais-os-problemas-e-distor%C3%A7%C3%B5es-do-Imposto-de-Renda-brasileiro)
+- [Mundo supera 500 casos de varíola dos macacos fora da África](https://www.nexojornal.com.br/extra/2022/05/31/Mundo-supera-500-casos-de-var%C3%ADola-dos-macacos-fora-da-%C3%81frica)
+- [Egito revela descobertas arqueológicas com mais de 2.500 anos](https://www.nexojornal.com.br/extra/2022/05/31/Egito-revela-descobertas-arqueol%C3%B3gicas-com-mais-de-2.500-anos)
+- [A corrida de chineses e americanos pelo Indo-Pacífico](https://www.nexojornal.com.br/expresso/2022/05/31/A-corrida-de-chineses-e-americanos-pelo-Indo-Pac%C3%ADfico)
+- [Minas e Energia pede estudos para a privatização da Petrobras](https://www.nexojornal.com.br/extra/2022/05/31/Minas-e-Energia-pede-estudos-para-a-privatiza%C3%A7%C3%A3o-da-Petrobras)
+- [Desemprego cai, mas ainda atinge 11,3 milhões de pessoas](https://www.nexojornal.com.br/extra/2022/05/31/Desemprego-cai-mas-ainda-atinge-113-milh%C3%B5es-de-pessoas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
