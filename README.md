@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o reajuste para servidores virou uma crise de governo](https://www.nexojornal.com.br/expresso/2022/05/31/Como-o-reajuste-para-servidores-virou-uma-crise-de-governo)
-- [Por que o Auxílio Brasil não ajuda Bolsonaro nas pesquisas](https://www.nexojornal.com.br/expresso/2022/05/31/Por-que-o-Aux%C3%ADlio-Brasil-n%C3%A3o-ajuda-Bolsonaro-nas-pesquisas)
-- [O labirinto internacional em meio à névoa da democracia](https://www.nexojornal.com.br/colunistas/2022/O-labirinto-internacional-em-meio-%C3%A0-n%C3%A9voa-da-democracia)
-- [Qual é a qualidade dos empregos que o Brasil está criando](https://www.nexojornal.com.br/expresso/2022/05/31/Qual-%C3%A9-a-qualidade-dos-empregos-que-o-Brasil-est%C3%A1-criando)
-- [Caso Miguel: Sari Corte Real é condenada a 8 anos e meio  de prisão](https://www.nexojornal.com.br/extra/2022/05/31/Caso-Miguel-Sari-Corte-Real-%C3%A9-condenada-a-8-anos-e-meio-de-pris%C3%A3o)
+- [Desemprego cai, mas ainda atinge 11,3 milhões de pessoas](https://www.nexojornal.com.br/extra/2022/05/31/Desemprego-cai-mas-ainda-atinge-113-milh%C3%B5es-de-pessoas)
+- [Bolsonaro bloqueia R$ 8,2 bilhões do Orçamento de 2022](https://www.nexojornal.com.br/extra/2022/05/31/Bolsonaro-bloqueia-R-82-bilh%C3%B5es-do-Or%C3%A7amento-de-2022)
+- [Quais as ‘sobras da violência’ após chacinas policiais](https://www.nexojornal.com.br/expresso/2022/05/30/Quais-as-%E2%80%98sobras-da-viol%C3%AAncia%E2%80%99-ap%C3%B3s-chacinas-policiais)
+- [Federação partidária: um novo arranjo para aliança entre partidos](https://www.nexojornal.com.br/explicado/2022/05/30/Federa%C3%A7%C3%A3o-partid%C3%A1ria-um-novo-arranjo-para-alian%C3%A7a-entre-partidos)
+- [O que são os estoques públicos de alimentos no Brasil](https://www.nexojornal.com.br/grafico/2022/05/30/O-que-s%C3%A3o-os-estoques-p%C3%BAblicos-de-alimentos-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
