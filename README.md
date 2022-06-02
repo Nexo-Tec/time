@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como ajudar os filhos com a lição de casa](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ajudar-os-filhos-com-a-licao-de-casa/)
 - [A panela de pressão explodiu](https://gamarevista.uol.com.br/colunistas/letrux/a-panela-de-pressao-explodiu/)
 - [Se organizar direitinho, todo mundo consegue trabalhar e transar](https://gamarevista.uol.com.br/relacoes/sexo/se-organizar-direitinho-todo-mundo-consegue-trabalhar-e-transar/)
 - [Relógio cuco](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-cuco/)
 - [@jovemdionisio](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jovemdionisio/)
-- [Aline Diniz: “Os super-heróis sempre trouxeram o debate da inclusão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-diniz-fala-sobre-o-avanco-do-universo-nerd-nas-redes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
