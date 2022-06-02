@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como ajudar os filhos com a lição de casa](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ajudar-os-filhos-com-a-licao-de-casa/)
-- [A panela de pressão explodiu](https://gamarevista.uol.com.br/colunistas/letrux/a-panela-de-pressao-explodiu/)
-- [Se organizar direitinho, todo mundo consegue trabalhar e transar](https://gamarevista.uol.com.br/relacoes/sexo/se-organizar-direitinho-todo-mundo-consegue-trabalhar-e-transar/)
-- [Relógio cuco](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-cuco/)
-- [@jovemdionisio](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jovemdionisio/)
+- [Uma conversa entre Sueli Carneiro e Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-conversa-entre-sueli-carneiro-e-mano-brown/)
+- [Nova Feira do Livro reúne 120 editoras, livrarias e bancas](https://gamarevista.uol.com.br/achamos-que-vale/ir/nova-feira-do-livro-reune-120-editoras-livrarias-e-bancas/)
+- [O manifesto contra a misoginia que venceu o Festival de Berlim](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-manifesto-contra-a-misoginia-que-venceu-o-festival-de-berlim/)
+- [Revista Morel, de pessoas e universos atemporais](https://gamarevista.uol.com.br/achamos-que-vale/ler/revista-morel-de-pessoas-e-universos-atemporais/)
+- [Festa da gastronomia em Brasília](https://gamarevista.uol.com.br/achamos-que-vale/ir/festa-da-gastronomia-em-brasilia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
