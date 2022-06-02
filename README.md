@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senadores vão acompanhar investigações de morte de Genivaldo](https://www.nexojornal.com.br/extra/2022/06/01/Senadores-v%C3%A3o-acompanhar-investiga%C3%A7%C3%B5es-de-morte-de-Genivaldo)
-- [Júri decide a favor de Johnny Depp em ação contra Amber Heard](https://www.nexojornal.com.br/extra/2022/06/01/J%C3%BAri-decide-a-favor-de-Johnny-Depp-em-a%C3%A7%C3%A3o-contra-Amber-Heard)
 - [Rússia anuncia inclusão de mísseis hipersônicos em sua frota](https://www.nexojornal.com.br/extra/2022/06/01/R%C3%BAssia-anuncia-inclus%C3%A3o-de-m%C3%ADsseis-hipers%C3%B4nicos-em-sua-frota)
 - [Flávio Bolsonaro diz que renda como advogado pagou mansão](https://www.nexojornal.com.br/extra/2022/06/01/Fl%C3%A1vio-Bolsonaro-diz-que-renda-como-advogado-pagou-mans%C3%A3o)
 - [Os grupos de Israel que inflamam o conflito contra palestinos](https://www.nexojornal.com.br/expresso/2022/06/01/Os-grupos-de-Israel-que-inflamam-o-conflito-contra-palestinos)
+- [Bolsonaro se encontrou menos com ministros do STF desde 2021](https://www.nexojornal.com.br/grafico/2022/06/01/Bolsonaro-se-encontrou-menos-com-ministros-do-STF-desde-2021)
+- [Controladoria aponta sobrepreço de R$ 1,5 bi em compra do FNDE](https://www.nexojornal.com.br/extra/2022/06/01/Controladoria-aponta-sobrepre%C3%A7o-de-R-15-bi-em-compra-do-FNDE)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
