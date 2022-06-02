@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é a ‘adoção à brasileira’. E quais problemas ela traz](https://www.nexojornal.com.br/expresso/2022/06/01/O-que-%C3%A9-a-%E2%80%98ado%C3%A7%C3%A3o-%C3%A0-brasileira%E2%80%99.-E-quais-problemas-ela-traz)
-- [Pesquisadores descobrem maior planta do mundo na Austrália](https://www.nexojornal.com.br/extra/2022/06/01/Pesquisadores-descobrem-maior-planta-do-mundo-na-Austr%C3%A1lia)
-- [Quantos brasileiros são filiados a partidos políticos em 2022](https://www.nexojornal.com.br/grafico/2022/06/01/Quantos-brasileiros-s%C3%A3o-filiados-a-partidos-pol%C3%ADticos-em-2022)
-- [Número de mortos em chuvas em 2022 já supera o de 2021](https://www.nexojornal.com.br/extra/2022/06/01/N%C3%BAmero-de-mortos-em-chuvas-em-2022-j%C3%A1-supera-o-de-2021)
-- [As novas revelações sobre o metabolismo de dinossauros](https://www.nexojornal.com.br/colunistas/2022/As-novas-revela%C3%A7%C3%B5es-sobre-o-metabolismo-de-dinossauros)
+- [Senadores vão acompanhar investigações de morte de Genivaldo](https://www.nexojornal.com.br/extra/2022/06/01/Senadores-v%C3%A3o-acompanhar-investiga%C3%A7%C3%B5es-de-morte-de-Genivaldo)
+- [Júri decide a favor de Johnny Depp em ação contra Amber Heard](https://www.nexojornal.com.br/extra/2022/06/01/J%C3%BAri-decide-a-favor-de-Johnny-Depp-em-a%C3%A7%C3%A3o-contra-Amber-Heard)
+- [Rússia anuncia inclusão de mísseis hipersônicos em sua frota](https://www.nexojornal.com.br/extra/2022/06/01/R%C3%BAssia-anuncia-inclus%C3%A3o-de-m%C3%ADsseis-hipers%C3%B4nicos-em-sua-frota)
+- [Flávio Bolsonaro diz que renda como advogado pagou mansão](https://www.nexojornal.com.br/extra/2022/06/01/Fl%C3%A1vio-Bolsonaro-diz-que-renda-como-advogado-pagou-mans%C3%A3o)
+- [Os grupos de Israel que inflamam o conflito contra palestinos](https://www.nexojornal.com.br/expresso/2022/06/01/Os-grupos-de-Israel-que-inflamam-o-conflito-contra-palestinos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
