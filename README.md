@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senadores vão acompanhar investigações de morte de Genivaldo](https://www.nexojornal.com.br/extra/2022/06/01/Senadores-v%C3%A3o-acompanhar-investiga%C3%A7%C3%B5es-de-morte-de-Genivaldo)
-- [Júri decide a favor de Johnny Depp em ação contra Amber Heard](https://www.nexojornal.com.br/extra/2022/06/01/J%C3%BAri-decide-a-favor-de-Johnny-Depp-em-a%C3%A7%C3%A3o-contra-Amber-Heard)
-- [Rússia anuncia inclusão de mísseis hipersônicos em sua frota](https://www.nexojornal.com.br/extra/2022/06/01/R%C3%BAssia-anuncia-inclus%C3%A3o-de-m%C3%ADsseis-hipers%C3%B4nicos-em-sua-frota)
-- [Flávio Bolsonaro diz que renda como advogado pagou mansão](https://www.nexojornal.com.br/extra/2022/06/01/Fl%C3%A1vio-Bolsonaro-diz-que-renda-como-advogado-pagou-mans%C3%A3o)
-- [Os grupos de Israel que inflamam o conflito contra palestinos](https://www.nexojornal.com.br/expresso/2022/06/01/Os-grupos-de-Israel-que-inflamam-o-conflito-contra-palestinos)
+- [Anitta ganha estátua no museu de cera de Nova York](https://www.nexojornal.com.br/extra/2022/06/02/Anitta-ganha-est%C3%A1tua-no-museu-de-cera-de-Nova-York)
+- [A sombra da covid num país que ainda não se recuperou da tragédia](https://www.nexojornal.com.br/podcast/2022/06/02/A-sombra-da-covid-num-pa%C3%ADs-que-ainda-n%C3%A3o-se-recuperou-da-trag%C3%A9dia)
+- [Qual a sustentabilidade do crescimento do PIB nacional](https://www.nexojornal.com.br/expresso/2022/06/02/Qual-a-sustentabilidade-do-crescimento-do-PIB-nacional)
+- [Governo federal regulamenta serviços de telemedicina no SUS](https://www.nexojornal.com.br/extra/2022/06/02/Governo-federal-regulamenta-servi%C3%A7os-de-telemedicina-no-SUS)
+- [Final da NBA será entre Celtics e Warriors pela 2ª vez na história](https://www.nexojornal.com.br/grafico/2022/06/02/Final-da-NBA-ser%C3%A1-entre-Celtics-e-Warriors-pela-2%C2%AA-vez-na-hist%C3%B3ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
