@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o beneficiário do Auxílio Brasil não vota em Bolsonaro?](https://www.nexojornal.com.br/colunistas/2022/Por-que-o-benefici%C3%A1rio-do-Aux%C3%ADlio-Brasil-n%C3%A3o-vota-em-Bolsonaro)
-- [Nunes Marques devolve mandato a deputado cassado por fake news](https://www.nexojornal.com.br/extra/2022/06/02/Nunes-Marques-devolve-mandato-a-deputado-cassado-por-fake-news)
-- [O que a saída de Sheryl Sandberg significa para o Facebook](https://www.nexojornal.com.br/expresso/2022/06/02/O-que-a-sa%C3%ADda-de-Sheryl-Sandberg-significa-para-o-Facebook)
-- [‘Não há diálogo possível para organizar a ciência no país’](https://www.nexojornal.com.br/entrevista/2022/06/02/%E2%80%98N%C3%A3o-h%C3%A1-di%C3%A1logo-poss%C3%ADvel-para-organizar-a-ci%C3%AAncia-no-pa%C3%ADs%E2%80%99)
-- [Senado aprova PEC que viabiliza piso salarial para enfermeiros](https://www.nexojornal.com.br/extra/2022/06/02/Senado-aprova-PEC-que-viabiliza-piso-salarial-para-enfermeiros)
+- [O que é a ‘adoção à brasileira’. E quais problemas ela traz](https://www.nexojornal.com.br/expresso/2022/06/01/O-que-%C3%A9-a-%E2%80%98ado%C3%A7%C3%A3o-%C3%A0-brasileira%E2%80%99.-E-quais-problemas-ela-traz)
+- [Pesquisadores descobrem maior planta do mundo na Austrália](https://www.nexojornal.com.br/extra/2022/06/01/Pesquisadores-descobrem-maior-planta-do-mundo-na-Austr%C3%A1lia)
+- [Quantos brasileiros são filiados a partidos políticos em 2022](https://www.nexojornal.com.br/grafico/2022/06/01/Quantos-brasileiros-s%C3%A3o-filiados-a-partidos-pol%C3%ADticos-em-2022)
+- [Número de mortos em chuvas em 2022 já supera o de 2021](https://www.nexojornal.com.br/extra/2022/06/01/N%C3%BAmero-de-mortos-em-chuvas-em-2022-j%C3%A1-supera-o-de-2021)
+- [As novas revelações sobre o metabolismo de dinossauros](https://www.nexojornal.com.br/colunistas/2022/As-novas-revela%C3%A7%C3%B5es-sobre-o-metabolismo-de-dinossauros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
