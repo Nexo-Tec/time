@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazônia tem maior número de queimadas em maio desde 2004](https://www.nexojornal.com.br/extra/2022/06/03/Amaz%C3%B4nia-tem-maior-n%C3%BAmero-de-queimadas-em-maio-desde-2004)
-- [Ministro devolve mandato de mais um deputado bolsonarista](https://www.nexojornal.com.br/extra/2022/06/03/Ministro-devolve-mandato-de-mais-um-deputado-bolsonarista)
-- [Por que o beneficiário do Auxílio Brasil não vota em Bolsonaro?](https://www.nexojornal.com.br/colunistas/2022/Por-que-o-benefici%C3%A1rio-do-Aux%C3%ADlio-Brasil-n%C3%A3o-vota-em-Bolsonaro)
-- [Nunes Marques devolve mandato a deputado cassado por fake news](https://www.nexojornal.com.br/extra/2022/06/02/Nunes-Marques-devolve-mandato-a-deputado-cassado-por-fake-news)
 - [O que a saída de Sheryl Sandberg significa para o Facebook](https://www.nexojornal.com.br/expresso/2022/06/02/O-que-a-sa%C3%ADda-de-Sheryl-Sandberg-significa-para-o-Facebook)
+- [‘Não há diálogo possível para organizar a ciência no país’](https://www.nexojornal.com.br/entrevista/2022/06/02/%E2%80%98N%C3%A3o-h%C3%A1-di%C3%A1logo-poss%C3%ADvel-para-organizar-a-ci%C3%AAncia-no-pa%C3%ADs%E2%80%99)
+- [Senado aprova PEC que viabiliza piso salarial para enfermeiros](https://www.nexojornal.com.br/extra/2022/06/02/Senado-aprova-PEC-que-viabiliza-piso-salarial-para-enfermeiros)
+- [5 imagens marcantes do fotojornalismo brasileiro](https://www.nexojornal.com.br/expresso/2022/06/02/5-imagens-marcantes-do-fotojornalismo-brasileiro)
+- [Anitta ganha estátua no museu de cera de Nova York](https://www.nexojornal.com.br/extra/2022/06/02/Anitta-ganha-est%C3%A1tua-no-museu-de-cera-de-Nova-York)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
