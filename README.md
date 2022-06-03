@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anitta ganha estátua no museu de cera de Nova York](https://www.nexojornal.com.br/extra/2022/06/02/Anitta-ganha-est%C3%A1tua-no-museu-de-cera-de-Nova-York)
-- [A sombra da covid num país que ainda não se recuperou da tragédia](https://www.nexojornal.com.br/podcast/2022/06/02/A-sombra-da-covid-num-pa%C3%ADs-que-ainda-n%C3%A3o-se-recuperou-da-trag%C3%A9dia)
-- [Qual a sustentabilidade do crescimento do PIB nacional](https://www.nexojornal.com.br/expresso/2022/06/02/Qual-a-sustentabilidade-do-crescimento-do-PIB-nacional)
-- [Governo federal regulamenta serviços de telemedicina no SUS](https://www.nexojornal.com.br/extra/2022/06/02/Governo-federal-regulamenta-servi%C3%A7os-de-telemedicina-no-SUS)
-- [Final da NBA será entre Celtics e Warriors pela 2ª vez na história](https://www.nexojornal.com.br/grafico/2022/06/02/Final-da-NBA-ser%C3%A1-entre-Celtics-e-Warriors-pela-2%C2%AA-vez-na-hist%C3%B3ria)
+- [Por que o beneficiário do Auxílio Brasil não vota em Bolsonaro?](https://www.nexojornal.com.br/colunistas/2022/Por-que-o-benefici%C3%A1rio-do-Aux%C3%ADlio-Brasil-n%C3%A3o-vota-em-Bolsonaro)
+- [Nunes Marques devolve mandato a deputado cassado por fake news](https://www.nexojornal.com.br/extra/2022/06/02/Nunes-Marques-devolve-mandato-a-deputado-cassado-por-fake-news)
+- [O que a saída de Sheryl Sandberg significa para o Facebook](https://www.nexojornal.com.br/expresso/2022/06/02/O-que-a-sa%C3%ADda-de-Sheryl-Sandberg-significa-para-o-Facebook)
+- [‘Não há diálogo possível para organizar a ciência no país’](https://www.nexojornal.com.br/entrevista/2022/06/02/%E2%80%98N%C3%A3o-h%C3%A1-di%C3%A1logo-poss%C3%ADvel-para-organizar-a-ci%C3%AAncia-no-pa%C3%ADs%E2%80%99)
+- [Senado aprova PEC que viabiliza piso salarial para enfermeiros](https://www.nexojornal.com.br/extra/2022/06/02/Senado-aprova-PEC-que-viabiliza-piso-salarial-para-enfermeiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
