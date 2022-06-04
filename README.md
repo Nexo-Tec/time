@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazônia tem maior número de queimadas em maio desde 2004](https://www.nexojornal.com.br/extra/2022/06/03/Amaz%C3%B4nia-tem-maior-n%C3%BAmero-de-queimadas-em-maio-desde-2004)
-- [Ministro devolve mandato de mais um deputado bolsonarista](https://www.nexojornal.com.br/extra/2022/06/03/Ministro-devolve-mandato-de-mais-um-deputado-bolsonarista)
-- [Por que o beneficiário do Auxílio Brasil não vota em Bolsonaro?](https://www.nexojornal.com.br/colunistas/2022/Por-que-o-benefici%C3%A1rio-do-Aux%C3%ADlio-Brasil-n%C3%A3o-vota-em-Bolsonaro)
-- [Nunes Marques devolve mandato a deputado cassado por fake news](https://www.nexojornal.com.br/extra/2022/06/02/Nunes-Marques-devolve-mandato-a-deputado-cassado-por-fake-news)
-- [O que a saída de Sheryl Sandberg significa para o Facebook](https://www.nexojornal.com.br/expresso/2022/06/02/O-que-a-sa%C3%ADda-de-Sheryl-Sandberg-significa-para-o-Facebook)
+- [Juiz barra processo que cobrava ressarcimento de  Dallagnol](https://www.nexojornal.com.br/extra/2022/06/03/Juiz-barra-processo-que-cobrava-ressarcimento-de-Dallagnol)
+- [Nunes Marques e o dever institucional do Supremo na crise](https://www.nexojornal.com.br/perspectiva/2022/06/03/Nunes-Marques-e-o-dever-institucional-do-Supremo-na-crise)
+- [O projeto que quer gravar todas as composições de Bach](https://www.nexojornal.com.br/expresso/2022/06/03/O-projeto-que-quer-gravar-todas-as-composi%C3%A7%C3%B5es-de-Bach)
+- [Desafios da juventude no Brasil](https://www.nexojornal.com.br/externo/2022/06/03/Desafios-da-juventude-no-Brasil)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/03/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
