@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [MV Bill](https://gamarevista.uol.com.br/pessoas/questionario-proust/mv-bill/)
 - [A voz do samba](https://gamarevista.uol.com.br/pessoas/biografia-visual/alcione/)
 - [Trem-Bala](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trem-bala/)
 - [Uma conversa entre Sueli Carneiro e Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-conversa-entre-sueli-carneiro-e-mano-brown/)
 - [Nova Feira do Livro reúne 120 editoras, livrarias e bancas](https://gamarevista.uol.com.br/achamos-que-vale/ir/nova-feira-do-livro-reune-120-editoras-livrarias-e-bancas/)
-- [O manifesto contra a misoginia que venceu o Festival de Berlim](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-manifesto-contra-a-misoginia-que-venceu-o-festival-de-berlim/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
