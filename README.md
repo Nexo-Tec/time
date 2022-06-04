@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anitta ganha estátua no museu de cera de Nova York](https://www.nexojornal.com.br/extra/2022/06/02/Anitta-ganha-est%C3%A1tua-no-museu-de-cera-de-Nova-York)
-- [A sombra da covid num país que ainda não se recuperou da tragédia](https://www.nexojornal.com.br/podcast/2022/06/02/A-sombra-da-covid-num-pa%C3%ADs-que-ainda-n%C3%A3o-se-recuperou-da-trag%C3%A9dia)
-- [Qual a sustentabilidade do crescimento do PIB nacional](https://www.nexojornal.com.br/expresso/2022/06/02/Qual-a-sustentabilidade-do-crescimento-do-PIB-nacional)
-- [Governo federal regulamenta serviços de telemedicina no SUS](https://www.nexojornal.com.br/extra/2022/06/02/Governo-federal-regulamenta-servi%C3%A7os-de-telemedicina-no-SUS)
-- [Final da NBA será entre Celtics e Warriors pela 2ª vez na história](https://www.nexojornal.com.br/grafico/2022/06/02/Final-da-NBA-ser%C3%A1-entre-Celtics-e-Warriors-pela-2%C2%AA-vez-na-hist%C3%B3ria)
+- [Uma versão real e funcional do robô HAL, de ‘2001’](https://www.nexojornal.com.br/expresso/2022/06/03/Uma-vers%C3%A3o-real-e-funcional-do-rob%C3%B4-HAL-de-%E2%80%982001%E2%80%99)
+- [Lira determina volta de deputado bolsonarista à Câmara](https://www.nexojornal.com.br/extra/2022/06/03/Lira-determina-volta-de-deputado-bolsonarista-%C3%A0-C%C3%A2mara)
+- [Justiça manda Censo ter questões sobre sexualidade e gênero](https://www.nexojornal.com.br/extra/2022/06/03/Justi%C3%A7a-manda-Censo-ter-quest%C3%B5es-sobre-sexualidade-e-g%C3%AAnero)
+- [TCU diz que Bolsonaro gastou R$ 21 mi com cartão corporativo](https://www.nexojornal.com.br/extra/2022/06/03/TCU-diz-que-Bolsonaro-gastou-R-21-mi-com-cart%C3%A3o-corporativo)
+- [Número de inscritos no Enem é o 2º menor desde 2005](https://www.nexojornal.com.br/extra/2022/06/03/N%C3%BAmero-de-inscritos-no-Enem-%C3%A9-o-2%C2%BA-menor-desde-2005)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
