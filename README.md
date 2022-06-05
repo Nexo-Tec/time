@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Uma versão real e funcional do robô HAL, de ‘2001’](https://www.nexojornal.com.br/expresso/2022/06/03/Uma-vers%C3%A3o-real-e-funcional-do-rob%C3%B4-HAL-de-%E2%80%982001%E2%80%99)
-- [Lira determina volta de deputado bolsonarista à Câmara](https://www.nexojornal.com.br/extra/2022/06/03/Lira-determina-volta-de-deputado-bolsonarista-%C3%A0-C%C3%A2mara)
-- [Justiça manda Censo ter questões sobre sexualidade e gênero](https://www.nexojornal.com.br/extra/2022/06/03/Justi%C3%A7a-manda-Censo-ter-quest%C3%B5es-sobre-sexualidade-e-g%C3%AAnero)
-- [TCU diz que Bolsonaro gastou R$ 21 mi com cartão corporativo](https://www.nexojornal.com.br/extra/2022/06/03/TCU-diz-que-Bolsonaro-gastou-R-21-mi-com-cart%C3%A3o-corporativo)
-- [Número de inscritos no Enem é o 2º menor desde 2005](https://www.nexojornal.com.br/extra/2022/06/03/N%C3%BAmero-de-inscritos-no-Enem-%C3%A9-o-2%C2%BA-menor-desde-2005)
+- [Teixeira Coelho, crítico e ex-diretor do Masp, morre aos 78 anos](https://www.nexojornal.com.br/extra/2022/06/04/Teixeira-Coelho-cr%C3%ADtico-e-ex-diretor-do-Masp-morre-aos-78-anos)
+- [Ministério Público questiona shows de sertanejos em seis estados](https://www.nexojornal.com.br/extra/2022/06/04/Minist%C3%A9rio-P%C3%BAblico-questiona-shows-de-sertanejos-em-seis-estados)
+- [Victor Hespanha é o 1º brasileiro a fazer viagem de turismo espacial](https://www.nexojornal.com.br/extra/2022/06/04/Victor-Hespanha-%C3%A9-o-1%C2%BA-brasileiro-a-fazer-viagem-de-turismo-espacial)
+- [Juiz barra processo que cobrava ressarcimento de  Dallagnol](https://www.nexojornal.com.br/extra/2022/06/03/Juiz-barra-processo-que-cobrava-ressarcimento-de-Dallagnol)
+- [Nunes Marques e o dever institucional do Supremo na crise](https://www.nexojornal.com.br/perspectiva/2022/06/03/Nunes-Marques-e-o-dever-institucional-do-Supremo-na-crise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
