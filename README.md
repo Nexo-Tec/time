@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Alexandre Patricio de Almeida: ‘O perdão é uma conquista que pressupõe maturidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/o-perdao-e-uma-conquista-que-pressupoe-maturidade/)
 - [MV Bill](https://gamarevista.uol.com.br/pessoas/questionario-proust/mv-bill/)
 - [A voz do samba](https://gamarevista.uol.com.br/pessoas/biografia-visual/alcione/)
 - [Trem-Bala](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trem-bala/)
 - [Uma conversa entre Sueli Carneiro e Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-conversa-entre-sueli-carneiro-e-mano-brown/)
-- [Nova Feira do Livro reúne 120 editoras, livrarias e bancas](https://gamarevista.uol.com.br/achamos-que-vale/ir/nova-feira-do-livro-reune-120-editoras-livrarias-e-bancas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
