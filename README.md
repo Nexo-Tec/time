@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataque a tiros na Filadélfia deixa 3 mortos e 11 feridos](https://www.nexojornal.com.br/extra/2022/06/05/Ataque-a-tiros-na-Filad%C3%A9lfia-deixa-3-mortos-e-11-feridos)
 - [O mapa que mostra onde estão as árvores mais altas do mundo](https://www.nexojornal.com.br/expresso/2022/06/04/O-mapa-que-mostra-onde-est%C3%A3o-as-%C3%A1rvores-mais-altas-do-mundo)
 - [5 livros sobre as experiências de ser mulher](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-experi%C3%AAncias-de-ser-mulher)
 - [Ucrânia e Rússia: uma guerra também por recursos energéticos](https://www.nexojornal.com.br/ensaio/2022/Ucr%C3%A2nia-e-R%C3%BAssia-uma-guerra-tamb%C3%A9m-por-recursos-energ%C3%A9ticos)
 - [O novo Marco Legal de Garantias. E a penhora de casas de famílias](https://www.nexojornal.com.br/expresso/2022/06/04/O-novo-Marco-Legal-de-Garantias.-E-a-penhora-de-casas-de-fam%C3%ADlias)
-- [Presidente colombiano é condenado a cinco dias de prisão domiciliar](https://www.nexojornal.com.br/extra/2022/06/04/Presidente-colombiano-%C3%A9-condenado-a-cinco-dias-de-pris%C3%A3o-domiciliar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
