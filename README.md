@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Teixeira Coelho, crítico e ex-diretor do Masp, morre aos 78 anos](https://www.nexojornal.com.br/extra/2022/06/04/Teixeira-Coelho-cr%C3%ADtico-e-ex-diretor-do-Masp-morre-aos-78-anos)
-- [Ministério Público questiona shows de sertanejos em seis estados](https://www.nexojornal.com.br/extra/2022/06/04/Minist%C3%A9rio-P%C3%BAblico-questiona-shows-de-sertanejos-em-seis-estados)
-- [Victor Hespanha é o 1º brasileiro a fazer viagem de turismo espacial](https://www.nexojornal.com.br/extra/2022/06/04/Victor-Hespanha-%C3%A9-o-1%C2%BA-brasileiro-a-fazer-viagem-de-turismo-espacial)
 - [Juiz barra processo que cobrava ressarcimento de  Dallagnol](https://www.nexojornal.com.br/extra/2022/06/03/Juiz-barra-processo-que-cobrava-ressarcimento-de-Dallagnol)
 - [Nunes Marques e o dever institucional do Supremo na crise](https://www.nexojornal.com.br/perspectiva/2022/06/03/Nunes-Marques-e-o-dever-institucional-do-Supremo-na-crise)
+- [O projeto que quer gravar todas as composições de Bach](https://www.nexojornal.com.br/expresso/2022/06/03/O-projeto-que-quer-gravar-todas-as-composi%C3%A7%C3%B5es-de-Bach)
+- [Desafios da juventude no Brasil](https://www.nexojornal.com.br/externo/2022/06/03/Desafios-da-juventude-no-Brasil)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/03/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
