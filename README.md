@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ataque a tiros na Filadélfia deixa 3 mortos e 11 feridos](https://www.nexojornal.com.br/extra/2022/06/05/Ataque-a-tiros-na-Filad%C3%A9lfia-deixa-3-mortos-e-11-feridos)
-- [O mapa que mostra onde estão as árvores mais altas do mundo](https://www.nexojornal.com.br/expresso/2022/06/04/O-mapa-que-mostra-onde-est%C3%A3o-as-%C3%A1rvores-mais-altas-do-mundo)
-- [5 livros sobre as experiências de ser mulher](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-experi%C3%AAncias-de-ser-mulher)
-- [Ucrânia e Rússia: uma guerra também por recursos energéticos](https://www.nexojornal.com.br/ensaio/2022/Ucr%C3%A2nia-e-R%C3%BAssia-uma-guerra-tamb%C3%A9m-por-recursos-energ%C3%A9ticos)
-- [O novo Marco Legal de Garantias. E a penhora de casas de famílias](https://www.nexojornal.com.br/expresso/2022/06/04/O-novo-Marco-Legal-de-Garantias.-E-a-penhora-de-casas-de-fam%C3%ADlias)
+- [Teixeira Coelho, crítico e ex-diretor do Masp, morre aos 78 anos](https://www.nexojornal.com.br/extra/2022/06/04/Teixeira-Coelho-cr%C3%ADtico-e-ex-diretor-do-Masp-morre-aos-78-anos)
+- [Ministério Público questiona shows de sertanejos em seis estados](https://www.nexojornal.com.br/extra/2022/06/04/Minist%C3%A9rio-P%C3%BAblico-questiona-shows-de-sertanejos-em-seis-estados)
+- [Victor Hespanha é o 1º brasileiro a fazer viagem de turismo espacial](https://www.nexojornal.com.br/extra/2022/06/04/Victor-Hespanha-%C3%A9-o-1%C2%BA-brasileiro-a-fazer-viagem-de-turismo-espacial)
+- [Juiz barra processo que cobrava ressarcimento de  Dallagnol](https://www.nexojornal.com.br/extra/2022/06/03/Juiz-barra-processo-que-cobrava-ressarcimento-de-Dallagnol)
+- [Nunes Marques e o dever institucional do Supremo na crise](https://www.nexojornal.com.br/perspectiva/2022/06/03/Nunes-Marques-e-o-dever-institucional-do-Supremo-na-crise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
