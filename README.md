@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [SP adota internação involuntária de dependentes químicos](https://www.nexojornal.com.br/extra/2022/06/06/SP-adota-interna%C3%A7%C3%A3o-involunt%C3%A1ria-de-dependentes-qu%C3%ADmicos)
 - [Anitta diz que já negou propostas para desviar verbas públicas](https://www.nexojornal.com.br/extra/2022/06/05/Anitta-diz-que-j%C3%A1-negou-propostas-para-desviar-verbas-p%C3%BAblicas)
 - [Menos público, mais online: as mudanças do ensino superior](https://www.nexojornal.com.br/expresso/2022/06/05/Menos-p%C3%BAblico-mais-online-as-mudan%C3%A7as-do-ensino-superior)
 - [Jornalista é ameaçado por reportagem sobre fake news pró-Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/05/Jornalista-%C3%A9-amea%C3%A7ado-por-reportagem-sobre-fake-news-pr%C3%B3-Bolsonaro)
 - [Até quando Lula mantém o ‘cheque em branco’ na economia](https://www.nexojornal.com.br/expresso/2022/06/05/At%C3%A9-quando-Lula-mant%C3%A9m-o-%E2%80%98cheque-em-branco%E2%80%99-na-economia)
+- [Os espaços das mulheres no combate aos agrotóxicos](https://www.nexojornal.com.br/ensaio/2022/Os-espa%C3%A7os-das-mulheres-no-combate-aos-agrot%C3%B3xicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
