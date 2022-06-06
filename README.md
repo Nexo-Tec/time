@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@suckytattoos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/suckytattoos/)
 - [Alexandre Patricio de Almeida: ‘O perdão é uma conquista que pressupõe maturidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/o-perdao-e-uma-conquista-que-pressupoe-maturidade/)
 - [MV Bill](https://gamarevista.uol.com.br/pessoas/questionario-proust/mv-bill/)
 - [A voz do samba](https://gamarevista.uol.com.br/pessoas/biografia-visual/alcione/)
 - [Trem-Bala](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trem-bala/)
-- [Uma conversa entre Sueli Carneiro e Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-conversa-entre-sueli-carneiro-e-mano-brown/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
