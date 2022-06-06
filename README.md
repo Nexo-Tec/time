@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anitta diz que já negou propostas para desviar verbas públicas](https://www.nexojornal.com.br/extra/2022/06/05/Anitta-diz-que-j%C3%A1-negou-propostas-para-desviar-verbas-p%C3%BAblicas)
-- [Menos público, mais online: as mudanças do ensino superior](https://www.nexojornal.com.br/expresso/2022/06/05/Menos-p%C3%BAblico-mais-online-as-mudan%C3%A7as-do-ensino-superior)
-- [Jornalista é ameaçado por reportagem sobre fake news pró-Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/05/Jornalista-%C3%A9-amea%C3%A7ado-por-reportagem-sobre-fake-news-pr%C3%B3-Bolsonaro)
-- [Até quando Lula mantém o ‘cheque em branco’ na economia](https://www.nexojornal.com.br/expresso/2022/06/05/At%C3%A9-quando-Lula-mant%C3%A9m-o-%E2%80%98cheque-em-branco%E2%80%99-na-economia)
-- [Os espaços das mulheres no combate aos agrotóxicos](https://www.nexojornal.com.br/ensaio/2022/Os-espa%C3%A7os-das-mulheres-no-combate-aos-agrot%C3%B3xicos)
+- [Ataque a tiros na Filadélfia deixa 3 mortos e 11 feridos](https://www.nexojornal.com.br/extra/2022/06/05/Ataque-a-tiros-na-Filad%C3%A9lfia-deixa-3-mortos-e-11-feridos)
+- [O mapa que mostra onde estão as árvores mais altas do mundo](https://www.nexojornal.com.br/expresso/2022/06/04/O-mapa-que-mostra-onde-est%C3%A3o-as-%C3%A1rvores-mais-altas-do-mundo)
+- [5 livros sobre as experiências de ser mulher](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-as-experi%C3%AAncias-de-ser-mulher)
+- [Ucrânia e Rússia: uma guerra também por recursos energéticos](https://www.nexojornal.com.br/ensaio/2022/Ucr%C3%A2nia-e-R%C3%BAssia-uma-guerra-tamb%C3%A9m-por-recursos-energ%C3%A9ticos)
+- [O novo Marco Legal de Garantias. E a penhora de casas de famílias](https://www.nexojornal.com.br/expresso/2022/06/04/O-novo-Marco-Legal-de-Garantias.-E-a-penhora-de-casas-de-fam%C3%ADlias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
