@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fatos e dados das ameaças à liberdade de imprensa no Brasil](https://www.nexojornal.com.br/expresso/2022/06/07/Fatos-e-dados-das-amea%C3%A7as-%C3%A0-liberdade-de-imprensa-no-Brasil)
-- [Como esta iniciativa tenta fortalecer candidaturas negras](https://www.nexojornal.com.br/expresso/2022/06/07/Como-esta-iniciativa-tenta-fortalecer-candidaturas-negras)
-- [Garoto morre em deslizamento e vítimas das chuvas chegam a 129](https://www.nexojornal.com.br/extra/2022/06/07/Garoto-morre-em-deslizamento-e-v%C3%ADtimas-das-chuvas-chegam-a-129)
-- [Mendonça suspende julgamento de bolsonarista em plenário](https://www.nexojornal.com.br/extra/2022/06/07/Mendon%C3%A7a-suspende-julgamento-de-bolsonarista-em-plen%C3%A1rio)
 - [Quais as pressões sobre a terra indígena do Vale do Javari](https://www.nexojornal.com.br/expresso/2022/06/06/Quais-as-press%C3%B5es-sobre-a-terra-ind%C3%ADgena-do-Vale-do-Javari)
+- [Governo anuncia pacote para baixar preço dos combustíveis](https://www.nexojornal.com.br/extra/2022/06/06/Governo-anuncia-pacote-para-baixar-pre%C3%A7o-dos-combust%C3%ADveis)
+- [Bolsonaro na eleição: entre o tom leve na TV e o ataque nas redes](https://www.nexojornal.com.br/expresso/2022/06/06/Bolsonaro-na-elei%C3%A7%C3%A3o-entre-o-tom-leve-na-TV-e-o-ataque-nas-redes)
+- [De onde vem o cacau e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/06/06/De-onde-vem-o-cacau-e-onde-ele-%C3%A9-produzido)
+- [‘Transferência de renda instável agravou insegurança alimentar’](https://www.nexojornal.com.br/entrevista/2022/06/06/%E2%80%98Transfer%C3%AAncia-de-renda-inst%C3%A1vel-agravou-inseguran%C3%A7a-alimentar%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
