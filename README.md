@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as pressões sobre a terra indígena do Vale do Javari](https://www.nexojornal.com.br/expresso/2022/06/06/Quais-as-press%C3%B5es-sobre-a-terra-ind%C3%ADgena-do-Vale-do-Javari)
-- [Governo anuncia pacote para baixar preço dos combustíveis](https://www.nexojornal.com.br/extra/2022/06/06/Governo-anuncia-pacote-para-baixar-pre%C3%A7o-dos-combust%C3%ADveis)
-- [Bolsonaro na eleição: entre o tom leve na TV e o ataque nas redes](https://www.nexojornal.com.br/expresso/2022/06/06/Bolsonaro-na-elei%C3%A7%C3%A3o-entre-o-tom-leve-na-TV-e-o-ataque-nas-redes)
-- [De onde vem o cacau e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/06/06/De-onde-vem-o-cacau-e-onde-ele-%C3%A9-produzido)
-- [‘Transferência de renda instável agravou insegurança alimentar’](https://www.nexojornal.com.br/entrevista/2022/06/06/%E2%80%98Transfer%C3%AAncia-de-renda-inst%C3%A1vel-agravou-inseguran%C3%A7a-alimentar%E2%80%99)
+- [Anitta diz que já negou propostas para desviar verbas públicas](https://www.nexojornal.com.br/extra/2022/06/05/Anitta-diz-que-j%C3%A1-negou-propostas-para-desviar-verbas-p%C3%BAblicas)
+- [Menos público, mais online: as mudanças do ensino superior](https://www.nexojornal.com.br/expresso/2022/06/05/Menos-p%C3%BAblico-mais-online-as-mudan%C3%A7as-do-ensino-superior)
+- [Jornalista é ameaçado por reportagem sobre fake news pró-Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/05/Jornalista-%C3%A9-amea%C3%A7ado-por-reportagem-sobre-fake-news-pr%C3%B3-Bolsonaro)
+- [Até quando Lula mantém o ‘cheque em branco’ na economia](https://www.nexojornal.com.br/expresso/2022/06/05/At%C3%A9-quando-Lula-mant%C3%A9m-o-%E2%80%98cheque-em-branco%E2%80%99-na-economia)
+- [Os espaços das mulheres no combate aos agrotóxicos](https://www.nexojornal.com.br/ensaio/2022/Os-espa%C3%A7os-das-mulheres-no-combate-aos-agrot%C3%B3xicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
