@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A derrota bolsonarista no Supremo. E a reação do presidente](https://www.nexojornal.com.br/expresso/2022/06/07/A-derrota-bolsonarista-no-Supremo.-E-a-rea%C3%A7%C3%A3o-do-presidente)
-- [Qual a proposta da nova feira do livro de São Paulo](https://www.nexojornal.com.br/expresso/2022/06/07/Qual-a-proposta-da-nova-feira-do-livro-de-S%C3%A3o-Paulo)
-- [O que Bolsonaro atropela com seu pacote de combustíveis](https://www.nexojornal.com.br/expresso/2022/06/07/O-que-Bolsonaro-atropela-com-seu-pacote-de-combust%C3%ADveis)
-- [Moro é barrado por tribunal e não poderá ser candidato por SP](https://www.nexojornal.com.br/extra/2022/06/07/Moro-%C3%A9-barrado-por-tribunal-e-n%C3%A3o-poder%C3%A1-ser-candidato-por-SP)
-- [Prefeitura de São Paulo confirma carnaval de rua em julho](https://www.nexojornal.com.br/extra/2022/06/07/Prefeitura-de-S%C3%A3o-Paulo-confirma-carnaval-de-rua-em-julho)
+- [Fatos e dados das ameaças à liberdade de imprensa no Brasil](https://www.nexojornal.com.br/expresso/2022/06/07/Fatos-e-dados-das-amea%C3%A7as-%C3%A0-liberdade-de-imprensa-no-Brasil)
+- [Como esta iniciativa tenta fortalecer candidaturas negras](https://www.nexojornal.com.br/expresso/2022/06/07/Como-esta-iniciativa-tenta-fortalecer-candidaturas-negras)
+- [Garoto morre em deslizamento e vítimas das chuvas chegam a 129](https://www.nexojornal.com.br/extra/2022/06/07/Garoto-morre-em-deslizamento-e-v%C3%ADtimas-das-chuvas-chegam-a-129)
+- [Mendonça suspende julgamento de bolsonarista em plenário](https://www.nexojornal.com.br/extra/2022/06/07/Mendon%C3%A7a-suspende-julgamento-de-bolsonarista-em-plen%C3%A1rio)
+- [Quais as pressões sobre a terra indígena do Vale do Javari](https://www.nexojornal.com.br/expresso/2022/06/06/Quais-as-press%C3%B5es-sobre-a-terra-ind%C3%ADgena-do-Vale-do-Javari)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
