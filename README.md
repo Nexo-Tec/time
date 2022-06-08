@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as pressões sobre a terra indígena do Vale do Javari](https://www.nexojornal.com.br/expresso/2022/06/06/Quais-as-press%C3%B5es-sobre-a-terra-ind%C3%ADgena-do-Vale-do-Javari)
-- [Governo anuncia pacote para baixar preço dos combustíveis](https://www.nexojornal.com.br/extra/2022/06/06/Governo-anuncia-pacote-para-baixar-pre%C3%A7o-dos-combust%C3%ADveis)
-- [Bolsonaro na eleição: entre o tom leve na TV e o ataque nas redes](https://www.nexojornal.com.br/expresso/2022/06/06/Bolsonaro-na-elei%C3%A7%C3%A3o-entre-o-tom-leve-na-TV-e-o-ataque-nas-redes)
-- [De onde vem o cacau e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/06/06/De-onde-vem-o-cacau-e-onde-ele-%C3%A9-produzido)
-- [‘Transferência de renda instável agravou insegurança alimentar’](https://www.nexojornal.com.br/entrevista/2022/06/06/%E2%80%98Transfer%C3%AAncia-de-renda-inst%C3%A1vel-agravou-inseguran%C3%A7a-alimentar%E2%80%99)
+- [A derrota bolsonarista no Supremo. E a reação do presidente](https://www.nexojornal.com.br/expresso/2022/06/07/A-derrota-bolsonarista-no-Supremo.-E-a-rea%C3%A7%C3%A3o-do-presidente)
+- [Qual a proposta da nova feira do livro de São Paulo](https://www.nexojornal.com.br/expresso/2022/06/07/Qual-a-proposta-da-nova-feira-do-livro-de-S%C3%A3o-Paulo)
+- [O que Bolsonaro atropela com seu pacote de combustíveis](https://www.nexojornal.com.br/expresso/2022/06/07/O-que-Bolsonaro-atropela-com-seu-pacote-de-combust%C3%ADveis)
+- [Moro é barrado por tribunal e não poderá ser candidato por SP](https://www.nexojornal.com.br/extra/2022/06/07/Moro-%C3%A9-barrado-por-tribunal-e-n%C3%A3o-poder%C3%A1-ser-candidato-por-SP)
+- [Prefeitura de São Paulo confirma carnaval de rua em julho](https://www.nexojornal.com.br/extra/2022/06/07/Prefeitura-de-S%C3%A3o-Paulo-confirma-carnaval-de-rua-em-julho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
