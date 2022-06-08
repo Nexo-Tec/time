@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Oikografia: etnografias do fazer, desfazer e refazer casa em tempos críticos](https://pp.nexojornal.com.br/opiniao/2022/Oikografia-etnografias-do-fazer-desfazer-e-refazer-casa-em-tempos-cr%C3%ADticos)
+- [Como o desmatamento e as mudanças climáticas transformam a Floresta Amazônica em fonte de carbono para a atmosfera](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-o-desmatamento-e-as-mudan%C3%A7as-clim%C3%A1ticas-transformam-a-Floresta-Amaz%C3%B4nica-em-fonte-de-carbono-para-a-atmosfera)
+- [Como uma política nacional voltada ao ensino técnico pretende melhorar o acesso ao ensino superior e a empregabilidade no Brasil](https://pp.nexojornal.com.br/topico/2022/06/07/Como-uma-pol%C3%ADtica-nacional-voltada-ao-ensino-t%C3%A9cnico-pretende-melhorar-o-acesso-ao-ensino-superior-e-a-empregabilidade-no-Brasil)
 - [Juventudes e democracia](https://pp.nexojornal.com.br/bibliografia-basica/2022/06/01/Juventudes-e-democracia)
 - [Como uma pesquisa investiga e enfrenta o legado da escravidão na vida universitária de Harvard](https://pp.nexojornal.com.br/topico/2022/05/31/Como-uma-pesquisa-investiga-e-enfrenta-o-legado-da-escravid%C3%A3o-na-vida-universit%C3%A1ria-de-Harvard)
-- [A condição de cotista da Uerj como um ponto de virada para a compreensão do racismo](https://pp.nexojornal.com.br/opiniao/2022/A-condi%C3%A7%C3%A3o-de-cotista-da-Uerj-como-um-ponto-de-virada-para-a-compreens%C3%A3o-do-racismo)
-- [O tempo que adultos passam lendo para crianças de até três anos](https://pp.nexojornal.com.br/Dados/2022/05/27/O-tempo-que-adultos-passam-lendo-para-crian%C3%A7as-de-at%C3%A9-tr%C3%AAs-anos)
-- [Fontes para o estudo da história da Amazônia disponibilizadas online](https://pp.nexojornal.com.br/bibliografia-basica/2022/05/27/Fontes-para-o-estudo-da-hist%C3%B3ria-da-Amaz%C3%B4nia-disponibilizadas-online)
 <!-- PP_LIST:END -->
 
