@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aprendendo com os outros](https://gamarevista.uol.com.br/colunistas/marcello-dantas/aprendendo-com-os-outros/)
 - [Carranca](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/carranca/)
 - [Ter pressa é crer que a gente passe adiante das pernas](https://gamarevista.uol.com.br/colunistas/fernando-luna/ter-pressa-e-crer-que-a-gente-passe-adiante-das-pernas/)
 - [@suckytattoos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/suckytattoos/)
 - [Alexandre Patricio de Almeida: ‘O perdão é uma conquista que pressupõe maturidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/o-perdao-e-uma-conquista-que-pressupoe-maturidade/)
-- [MV Bill](https://gamarevista.uol.com.br/pessoas/questionario-proust/mv-bill/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
