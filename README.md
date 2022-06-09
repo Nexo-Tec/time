@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A derrota bolsonarista no Supremo. E a reação do presidente](https://www.nexojornal.com.br/expresso/2022/06/07/A-derrota-bolsonarista-no-Supremo.-E-a-rea%C3%A7%C3%A3o-do-presidente)
-- [Qual a proposta da nova feira do livro de São Paulo](https://www.nexojornal.com.br/expresso/2022/06/07/Qual-a-proposta-da-nova-feira-do-livro-de-S%C3%A3o-Paulo)
-- [O que Bolsonaro atropela com seu pacote de combustíveis](https://www.nexojornal.com.br/expresso/2022/06/07/O-que-Bolsonaro-atropela-com-seu-pacote-de-combust%C3%ADveis)
-- [Moro é barrado por tribunal e não poderá ser candidato por SP](https://www.nexojornal.com.br/extra/2022/06/07/Moro-%C3%A9-barrado-por-tribunal-e-n%C3%A3o-poder%C3%A1-ser-candidato-por-SP)
-- [Prefeitura de São Paulo confirma carnaval de rua em julho](https://www.nexojornal.com.br/extra/2022/06/07/Prefeitura-de-S%C3%A3o-Paulo-confirma-carnaval-de-rua-em-julho)
+- [São Paulo confirma 1º caso brasileiro de varíola dos macacos](https://www.nexojornal.com.br/extra/2022/06/08/S%C3%A3o-Paulo-confirma-1%C2%BA-caso-brasileiro-de-var%C3%ADola-dos-macacos)
+- [Juíza ordena reforço nas buscas por desaparecidos na Amazônia](https://www.nexojornal.com.br/extra/2022/06/08/Ju%C3%ADza-ordena-refor%C3%A7o-nas-buscas-por-desaparecidos-na-Amaz%C3%B4nia)
+- [A condenação de Bolsonaro por ataques recorrentes a jornalistas](https://www.nexojornal.com.br/expresso/2022/06/08/A-condena%C3%A7%C3%A3o-de-Bolsonaro-por-ataques-recorrentes-a-jornalistas)
+- [Juíza proíbe Polícia Rodoviária Federal de atuar fora de estradas](https://www.nexojornal.com.br/extra/2022/06/08/Ju%C3%ADza-pro%C3%ADbe-Pol%C3%ADcia-Rodovi%C3%A1ria-Federal-de-atuar-fora-de-estradas)
+- [Fome no Brasil atinge 33 milhões e volta ao patamar dos anos 90](https://www.nexojornal.com.br/extra/2022/06/08/Fome-no-Brasil-atinge-33-milh%C3%B5es-e-volta-ao-patamar-dos-anos-90)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
