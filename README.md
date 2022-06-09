@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma dose de erotismo de Mário de Andrade](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-dose-de-erotismo-de-mario-de-andrade/)
+- [Kate Bush para além de ‘Stranger Things’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/kate-bush-para-alem-de-stranger-things/)
+- [A vingança surreal de um programador da CIA](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-vinganca-surreal-de-um-programador-da-cia/)
+- [Alain Resnais na Cinemateca de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/alain-resnais-na-cinemateca-de-sp/)
 - [CV: Celina Hissa](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-celina-hissa/)
-- [Aprendendo com os outros](https://gamarevista.uol.com.br/colunistas/marcello-dantas/aprendendo-com-os-outros/)
-- [Carranca](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/carranca/)
-- [Ter pressa é crer que a gente passe adiante das pernas](https://gamarevista.uol.com.br/colunistas/fernando-luna/ter-pressa-e-crer-que-a-gente-passe-adiante-das-pernas/)
-- [@suckytattoos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/suckytattoos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
