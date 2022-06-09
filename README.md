@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um mezzo faroeste em “Jesus Kid”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-mezzo-faroeste-em-jesus-kid/)
 - [Uma dose de erotismo de Mário de Andrade](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-dose-de-erotismo-de-mario-de-andrade/)
 - [Kate Bush para além de ‘Stranger Things’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/kate-bush-para-alem-de-stranger-things/)
 - [A vingança surreal de um programador da CIA](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-vinganca-surreal-de-um-programador-da-cia/)
 - [Alain Resnais na Cinemateca de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/alain-resnais-na-cinemateca-de-sp/)
-- [CV: Celina Hissa](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-celina-hissa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
