@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que elege presidentes desde a redemocratização do Brasil](https://www.nexojornal.com.br/expresso/2022/06/08/O-que-elege-presidentes-desde-a-redemocratiza%C3%A7%C3%A3o-do-Brasil)
-- [A fome no Brasil. E a desarticulação pública para combatê-la](https://www.nexojornal.com.br/podcast/2022/06/08/A-fome-no-Brasil.-E-a-desarticula%C3%A7%C3%A3o-p%C3%BAblica-para-combat%C3%AA-la)
-- [PSDB decide apoiar Tebet ao Planalto, com Tasso na vice](https://www.nexojornal.com.br/extra/2022/06/08/PSDB-decide-apoiar-Tebet-ao-Planalto-com-Tasso-na-vice)
-- [5 músicas de Kate Bush além de ‘Running Up That Hill’](https://www.nexojornal.com.br/expresso/2022/06/08/5-m%C3%BAsicas-de-Kate-Bush-al%C3%A9m-de-%E2%80%98Running-Up-That-Hill%E2%80%99)
-- [Biles e outras ginastas pedem indenização de US$ 1 bilhão do FBI](https://www.nexojornal.com.br/extra/2022/06/08/Biles-e-outras-ginastas-pedem-indeniza%C3%A7%C3%A3o-de-US-1-bilh%C3%A3o-do-FBI)
+- [A derrota bolsonarista no Supremo. E a reação do presidente](https://www.nexojornal.com.br/expresso/2022/06/07/A-derrota-bolsonarista-no-Supremo.-E-a-rea%C3%A7%C3%A3o-do-presidente)
+- [Qual a proposta da nova feira do livro de São Paulo](https://www.nexojornal.com.br/expresso/2022/06/07/Qual-a-proposta-da-nova-feira-do-livro-de-S%C3%A3o-Paulo)
+- [O que Bolsonaro atropela com seu pacote de combustíveis](https://www.nexojornal.com.br/expresso/2022/06/07/O-que-Bolsonaro-atropela-com-seu-pacote-de-combust%C3%ADveis)
+- [Moro é barrado por tribunal e não poderá ser candidato por SP](https://www.nexojornal.com.br/extra/2022/06/07/Moro-%C3%A9-barrado-por-tribunal-e-n%C3%A3o-poder%C3%A1-ser-candidato-por-SP)
+- [Prefeitura de São Paulo confirma carnaval de rua em julho](https://www.nexojornal.com.br/extra/2022/06/07/Prefeitura-de-S%C3%A3o-Paulo-confirma-carnaval-de-rua-em-julho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
