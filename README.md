@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que elege presidentes desde a redemocratização do Brasil](https://www.nexojornal.com.br/expresso/2022/06/08/O-que-elege-presidentes-desde-a-redemocratiza%C3%A7%C3%A3o-do-Brasil)
-- [A fome no Brasil. E a desarticulação pública para combatê-la](https://www.nexojornal.com.br/podcast/2022/06/08/A-fome-no-Brasil.-E-a-desarticula%C3%A7%C3%A3o-p%C3%BAblica-para-combat%C3%AA-la)
-- [PSDB decide apoiar Tebet ao Planalto, com Tasso na vice](https://www.nexojornal.com.br/extra/2022/06/08/PSDB-decide-apoiar-Tebet-ao-Planalto-com-Tasso-na-vice)
-- [5 músicas de Kate Bush além de ‘Running Up That Hill’](https://www.nexojornal.com.br/expresso/2022/06/08/5-m%C3%BAsicas-de-Kate-Bush-al%C3%A9m-de-%E2%80%98Running-Up-That-Hill%E2%80%99)
-- [Biles e outras ginastas pedem indenização de US$ 1 bilhão do FBI](https://www.nexojornal.com.br/extra/2022/06/08/Biles-e-outras-ginastas-pedem-indeniza%C3%A7%C3%A3o-de-US-1-bilh%C3%A3o-do-FBI)
+- [São Paulo confirma 1º caso brasileiro de varíola dos macacos](https://www.nexojornal.com.br/extra/2022/06/08/S%C3%A3o-Paulo-confirma-1%C2%BA-caso-brasileiro-de-var%C3%ADola-dos-macacos)
+- [Juíza ordena reforço nas buscas por desaparecidos na Amazônia](https://www.nexojornal.com.br/extra/2022/06/08/Ju%C3%ADza-ordena-refor%C3%A7o-nas-buscas-por-desaparecidos-na-Amaz%C3%B4nia)
+- [A condenação de Bolsonaro por ataques recorrentes a jornalistas](https://www.nexojornal.com.br/expresso/2022/06/08/A-condena%C3%A7%C3%A3o-de-Bolsonaro-por-ataques-recorrentes-a-jornalistas)
+- [Juíza proíbe Polícia Rodoviária Federal de atuar fora de estradas](https://www.nexojornal.com.br/extra/2022/06/08/Ju%C3%ADza-pro%C3%ADbe-Pol%C3%ADcia-Rodovi%C3%A1ria-Federal-de-atuar-fora-de-estradas)
+- [Fome no Brasil atinge 33 milhões e volta ao patamar dos anos 90](https://www.nexojornal.com.br/extra/2022/06/08/Fome-no-Brasil-atinge-33-milh%C3%B5es-e-volta-ao-patamar-dos-anos-90)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
