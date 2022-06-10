@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que elege presidentes desde a redemocratização do Brasil](https://www.nexojornal.com.br/expresso/2022/06/08/O-que-elege-presidentes-desde-a-redemocratiza%C3%A7%C3%A3o-do-Brasil)
-- [A fome no Brasil. E a desarticulação pública para combatê-la](https://www.nexojornal.com.br/podcast/2022/06/08/A-fome-no-Brasil.-E-a-desarticula%C3%A7%C3%A3o-p%C3%BAblica-para-combat%C3%AA-la)
-- [PSDB decide apoiar Tebet ao Planalto, com Tasso na vice](https://www.nexojornal.com.br/extra/2022/06/08/PSDB-decide-apoiar-Tebet-ao-Planalto-com-Tasso-na-vice)
-- [5 músicas de Kate Bush além de ‘Running Up That Hill’](https://www.nexojornal.com.br/expresso/2022/06/08/5-m%C3%BAsicas-de-Kate-Bush-al%C3%A9m-de-%E2%80%98Running-Up-That-Hill%E2%80%99)
-- [Biles e outras ginastas pedem indenização de US$ 1 bilhão do FBI](https://www.nexojornal.com.br/extra/2022/06/08/Biles-e-outras-ginastas-pedem-indeniza%C3%A7%C3%A3o-de-US-1-bilh%C3%A3o-do-FBI)
+- [Como a decisão do STJ impacta clientes de planos de saúde](https://www.nexojornal.com.br/expresso/2022/06/09/Como-a-decis%C3%A3o-do-STJ-impacta-clientes-de-planos-de-sa%C3%BAde)
+- [Por que o mercado financeiro paga por pesquisas eleitorais](https://www.nexojornal.com.br/expresso/2022/06/09/Por-que-o-mercado-financeiro-paga-por-pesquisas-eleitorais)
+- [Quais os efeitos de longo prazo da captura do Orçamento](https://www.nexojornal.com.br/expresso/2022/06/09/Quais-os-efeitos-de-longo-prazo-da-captura-do-Or%C3%A7amento)
+- [As crianças e as redes: por que o que elas pensam importa](https://www.nexojornal.com.br/colunistas/2022/As-crian%C3%A7as-e-as-redes-por-que-o-que-elas-pensam-importa)
+- [Perícia encontra sangue em lancha de suspeito por desaparecimentos](https://www.nexojornal.com.br/extra/2022/06/09/Per%C3%ADcia-encontra-sangue-em-lancha-de-suspeito-por-desaparecimentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
