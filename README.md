@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a decisão do STJ impacta clientes de planos de saúde](https://www.nexojornal.com.br/expresso/2022/06/09/Como-a-decis%C3%A3o-do-STJ-impacta-clientes-de-planos-de-sa%C3%BAde)
 - [Por que o mercado financeiro paga por pesquisas eleitorais](https://www.nexojornal.com.br/expresso/2022/06/09/Por-que-o-mercado-financeiro-paga-por-pesquisas-eleitorais)
 - [Quais os efeitos de longo prazo da captura do Orçamento](https://www.nexojornal.com.br/expresso/2022/06/09/Quais-os-efeitos-de-longo-prazo-da-captura-do-Or%C3%A7amento)
 - [As crianças e as redes: por que o que elas pensam importa](https://www.nexojornal.com.br/colunistas/2022/As-crian%C3%A7as-e-as-redes-por-que-o-que-elas-pensam-importa)
 - [Perícia encontra sangue em lancha de suspeito por desaparecimentos](https://www.nexojornal.com.br/extra/2022/06/09/Per%C3%ADcia-encontra-sangue-em-lancha-de-suspeito-por-desaparecimentos)
-- [Ataque a tiros deixa três pessoas mortas em fábrica nos EUA](https://www.nexojornal.com.br/extra/2022/06/09/Ataque-a-tiros-deixa-tr%C3%AAs-pessoas-mortas-em-f%C3%A1brica-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
