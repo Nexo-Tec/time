@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trump foi central para invasão ao Capitólio, diz comissão do Congresso](https://www.nexojornal.com.br/extra/2022/06/10/Trump-foi-central-para-invas%C3%A3o-ao-Capit%C3%B3lio-diz-comiss%C3%A3o-do-Congresso)
-- [Como a decisão do STJ impacta clientes de planos de saúde](https://www.nexojornal.com.br/expresso/2022/06/09/Como-a-decis%C3%A3o-do-STJ-impacta-clientes-de-planos-de-sa%C3%BAde)
-- [Por que o mercado financeiro paga por pesquisas eleitorais](https://www.nexojornal.com.br/expresso/2022/06/09/Por-que-o-mercado-financeiro-paga-por-pesquisas-eleitorais)
-- [Quais os efeitos de longo prazo da captura do Orçamento](https://www.nexojornal.com.br/expresso/2022/06/09/Quais-os-efeitos-de-longo-prazo-da-captura-do-Or%C3%A7amento)
-- [As crianças e as redes: por que o que elas pensam importa](https://www.nexojornal.com.br/colunistas/2022/As-crian%C3%A7as-e-as-redes-por-que-o-que-elas-pensam-importa)
+- [Qual o problema de Bolsonaro pedir congelamento de preços](https://www.nexojornal.com.br/expresso/2022/06/10/Qual-o-problema-de-Bolsonaro-pedir-congelamento-de-pre%C3%A7os)
+- [Inteligência militar da Ucrânia diz que país está quase sem munição](https://www.nexojornal.com.br/extra/2022/06/10/Intelig%C3%AAncia-militar-da-Ucr%C3%A2nia-diz-que-pa%C3%ADs-est%C3%A1-quase-sem-muni%C3%A7%C3%A3o)
+- [Revista divulga lista de autores de artigos retratados por má conduta](https://www.nexojornal.com.br/externo/2022/06/10/Revista-divulga-lista-de-autores-de-artigos-retratados-por-m%C3%A1-conduta)
+- [Como é feita a transição do maior empregador do país](https://www.nexojornal.com.br/ensaio/2022/Como-%C3%A9-feita-a-transi%C3%A7%C3%A3o-do-maior-empregador-do-pa%C3%ADs)
+- [Procuradoria pede arquivamento de apuração contra Barros](https://www.nexojornal.com.br/extra/2022/06/10/Procuradoria-pede-arquivamento-de-apura%C3%A7%C3%A3o-contra-Barros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
