@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Suspeito em sumiço no Amazonas relata tortura na prisão](https://www.nexojornal.com.br/extra/2022/06/11/Suspeito-em-sumi%C3%A7o-no-Amazonas-relata-tortura-na-pris%C3%A3o)
+- [Alta da covid no país vem de sublinhagens da ômicron, diz estudo](https://www.nexojornal.com.br/extra/2022/06/11/Alta-da-covid-no-pa%C3%ADs-vem-de-sublinhagens-da-%C3%B4micron-diz-estudo)
+- [Jeanine Añez é condenada a 10 anos de prisão na Bolívia](https://www.nexojornal.com.br/extra/2022/06/11/Jeanine-A%C3%B1ez-%C3%A9-condenada-a-10-anos-de-pris%C3%A3o-na-Bol%C3%ADvia)
 - [Qual o problema de Bolsonaro pedir congelamento de preços](https://www.nexojornal.com.br/expresso/2022/06/10/Qual-o-problema-de-Bolsonaro-pedir-congelamento-de-pre%C3%A7os)
 - [Inteligência militar da Ucrânia diz que país está quase sem munição](https://www.nexojornal.com.br/extra/2022/06/10/Intelig%C3%AAncia-militar-da-Ucr%C3%A2nia-diz-que-pa%C3%ADs-est%C3%A1-quase-sem-muni%C3%A7%C3%A3o)
-- [Revista divulga lista de autores de artigos retratados por má conduta](https://www.nexojornal.com.br/externo/2022/06/10/Revista-divulga-lista-de-autores-de-artigos-retratados-por-m%C3%A1-conduta)
-- [Como é feita a transição do maior empregador do país](https://www.nexojornal.com.br/ensaio/2022/Como-%C3%A9-feita-a-transi%C3%A7%C3%A3o-do-maior-empregador-do-pa%C3%ADs)
-- [Procuradoria pede arquivamento de apuração contra Barros](https://www.nexojornal.com.br/extra/2022/06/10/Procuradoria-pede-arquivamento-de-apura%C3%A7%C3%A3o-contra-Barros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
