@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Gambiarras jurídicas são usadas para criminalizar o funk’](https://www.nexojornal.com.br/entrevista/2022/06/12/%E2%80%98Gambiarras-jur%C3%ADdicas-s%C3%A3o-usadas-para-criminalizar-o-funk%E2%80%99)
-- [Os puxadinhos de Bolsonaro na economia mirando as eleições](https://www.nexojornal.com.br/perspectiva/2022/06/12/Os-puxadinhos-de-Bolsonaro-na-economia-mirando-as-elei%C3%A7%C3%B5es)
-- [O que aconteceu com os estádios da Copa, 8 anos depois](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-aconteceu-com-os-est%C3%A1dios-da-Copa-8-anos-depois)
-- [Motociata nos EUA tem ataques ao STF e bolsonarista foragido](https://www.nexojornal.com.br/extra/2022/06/12/Motociata-nos-EUA-tem-ataques-ao-STF-e-bolsonarista-foragido)
-- [Dia dos Namorados: metade dos brasileiros ficará sem presente](https://www.nexojornal.com.br/extra/2022/06/12/Dia-dos-Namorados-metade-dos-brasileiros-ficar%C3%A1-sem-presente)
+- [Suspeito em sumiço no Amazonas relata tortura na prisão](https://www.nexojornal.com.br/extra/2022/06/11/Suspeito-em-sumi%C3%A7o-no-Amazonas-relata-tortura-na-pris%C3%A3o)
+- [Alta da covid no país vem de sublinhagens da ômicron, diz estudo](https://www.nexojornal.com.br/extra/2022/06/11/Alta-da-covid-no-pa%C3%ADs-vem-de-sublinhagens-da-%C3%B4micron-diz-estudo)
+- [Jeanine Añez é condenada a 10 anos de prisão na Bolívia](https://www.nexojornal.com.br/extra/2022/06/11/Jeanine-A%C3%B1ez-%C3%A9-condenada-a-10-anos-de-pris%C3%A3o-na-Bol%C3%ADvia)
+- [Qual o problema de Bolsonaro pedir congelamento de preços](https://www.nexojornal.com.br/expresso/2022/06/10/Qual-o-problema-de-Bolsonaro-pedir-congelamento-de-pre%C3%A7os)
+- [Inteligência militar da Ucrânia diz que país está quase sem munição](https://www.nexojornal.com.br/extra/2022/06/10/Intelig%C3%AAncia-militar-da-Ucr%C3%A2nia-diz-que-pa%C3%ADs-est%C3%A1-quase-sem-muni%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
