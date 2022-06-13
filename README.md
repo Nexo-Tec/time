@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@whatisnewyork](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/whatisnewyork/)
 - [Carol Tilkian, do Soltos: ‘Amor é resiliência’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-tilkian-do-soltos-amor-e-resiliencia/)
 - [Ricardo Pereira](https://gamarevista.uol.com.br/pessoas/questionario-proust/ricardo-pereira/)
 - [Velhas indomáveis](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/velhas-indomaveis/)
 - [Tem vinho, erva e destilado. Vai um vermute aí?](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/tem-vinho-erva-e-destilado-vai-um-vermute-ai/)
-- [Não Me Pergunte Jamais](https://gamarevista.uol.com.br/cultura/trecho-de-livro/nao-me-pergunte-jamais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
