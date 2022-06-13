@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mergulhadores acham mochila e notebook em busca por Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/12/Mergulhadores-acham-mochila-e-notebook-em-busca-por-Dom-e-Bruno)
-- [Ucrânia: da origem medieval à invasão russa no século 21](https://www.nexojornal.com.br/video/Ucr%C3%A2nia-da-origem-medieval-%C3%A0-invas%C3%A3o-russa-no-s%C3%A9culo-21)
-- [Sul tem temperaturas negativas em nova onda de frio](https://www.nexojornal.com.br/extra/2022/06/12/Sul-tem-temperaturas-negativas-em-nova-onda-de-frio)
-- [Teste de covid-19 deixa de ser exigência para entrar nos EUA](https://www.nexojornal.com.br/extra/2022/06/12/Teste-de-covid-19-deixa-de-ser-exig%C3%AAncia-para-entrar-nos-EUA)
-- [Bolsonaro pediu ajuda a Biden em eleição, diz site americano](https://www.nexojornal.com.br/extra/2022/06/12/Bolsonaro-pediu-ajuda-a-Biden-em-elei%C3%A7%C3%A3o-diz-site-americano)
+- [‘Gambiarras jurídicas são usadas para criminalizar o funk’](https://www.nexojornal.com.br/entrevista/2022/06/12/%E2%80%98Gambiarras-jur%C3%ADdicas-s%C3%A3o-usadas-para-criminalizar-o-funk%E2%80%99)
+- [Os puxadinhos de Bolsonaro na economia mirando as eleições](https://www.nexojornal.com.br/perspectiva/2022/06/12/Os-puxadinhos-de-Bolsonaro-na-economia-mirando-as-elei%C3%A7%C3%B5es)
+- [O que aconteceu com os estádios da Copa, 8 anos depois](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-aconteceu-com-os-est%C3%A1dios-da-Copa-8-anos-depois)
+- [Motociata nos EUA tem ataques ao STF e bolsonarista foragido](https://www.nexojornal.com.br/extra/2022/06/12/Motociata-nos-EUA-tem-ataques-ao-STF-e-bolsonarista-foragido)
+- [Dia dos Namorados: metade dos brasileiros ficará sem presente](https://www.nexojornal.com.br/extra/2022/06/12/Dia-dos-Namorados-metade-dos-brasileiros-ficar%C3%A1-sem-presente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
