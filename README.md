@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Gambiarras jurídicas são usadas para criminalizar o funk’](https://www.nexojornal.com.br/entrevista/2022/06/12/%E2%80%98Gambiarras-jur%C3%ADdicas-s%C3%A3o-usadas-para-criminalizar-o-funk%E2%80%99)
-- [Os puxadinhos de Bolsonaro na economia mirando as eleições](https://www.nexojornal.com.br/perspectiva/2022/06/12/Os-puxadinhos-de-Bolsonaro-na-economia-mirando-as-elei%C3%A7%C3%B5es)
-- [O que aconteceu com os estádios da Copa, 8 anos depois](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-aconteceu-com-os-est%C3%A1dios-da-Copa-8-anos-depois)
-- [Motociata nos EUA tem ataques ao STF e bolsonarista foragido](https://www.nexojornal.com.br/extra/2022/06/12/Motociata-nos-EUA-tem-ataques-ao-STF-e-bolsonarista-foragido)
-- [Dia dos Namorados: metade dos brasileiros ficará sem presente](https://www.nexojornal.com.br/extra/2022/06/12/Dia-dos-Namorados-metade-dos-brasileiros-ficar%C3%A1-sem-presente)
+- [Qual o impacto da guerra na saúde mental dos ucranianos](https://www.nexojornal.com.br/entrevista/2022/06/12/Qual-o-impacto-da-guerra-na-sa%C3%BAde-mental-dos-ucranianos)
+- [Estocolmo+50: por que manter o compromisso ambiental](https://www.nexojornal.com.br/ensaio/2022/Estocolmo50-por-que-manter-o-compromisso-ambiental)
+- [A internação involuntária de usuários de crack em São Paulo](https://www.nexojornal.com.br/expresso/2022/06/12/A-interna%C3%A7%C3%A3o-involunt%C3%A1ria-de-usu%C3%A1rios-de-crack-em-S%C3%A3o-Paulo)
+- [O que muda na prática com a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-muda-na-pr%C3%A1tica-com-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
+- [Bia Haddad vence torneio e quebra jejum de 54 anos no tênis](https://www.nexojornal.com.br/extra/2022/06/12/Bia-Haddad-vence-torneio-e-quebra-jejum-de-54-anos-no-t%C3%AAnis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
