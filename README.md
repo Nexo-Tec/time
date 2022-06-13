@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o impacto da guerra na saúde mental dos ucranianos](https://www.nexojornal.com.br/entrevista/2022/06/12/Qual-o-impacto-da-guerra-na-sa%C3%BAde-mental-dos-ucranianos)
-- [Estocolmo+50: por que manter o compromisso ambiental](https://www.nexojornal.com.br/ensaio/2022/Estocolmo50-por-que-manter-o-compromisso-ambiental)
-- [A internação involuntária de usuários de crack em São Paulo](https://www.nexojornal.com.br/expresso/2022/06/12/A-interna%C3%A7%C3%A3o-involunt%C3%A1ria-de-usu%C3%A1rios-de-crack-em-S%C3%A3o-Paulo)
-- [O que muda na prática com a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-muda-na-pr%C3%A1tica-com-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
-- [Bia Haddad vence torneio e quebra jejum de 54 anos no tênis](https://www.nexojornal.com.br/extra/2022/06/12/Bia-Haddad-vence-torneio-e-quebra-jejum-de-54-anos-no-t%C3%AAnis)
+- [Mergulhadores acham mochila e notebook em busca por Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/12/Mergulhadores-acham-mochila-e-notebook-em-busca-por-Dom-e-Bruno)
+- [Ucrânia: da origem medieval à invasão russa no século 21](https://www.nexojornal.com.br/video/Ucr%C3%A2nia-da-origem-medieval-%C3%A0-invas%C3%A3o-russa-no-s%C3%A9culo-21)
+- [Sul tem temperaturas negativas em nova onda de frio](https://www.nexojornal.com.br/extra/2022/06/12/Sul-tem-temperaturas-negativas-em-nova-onda-de-frio)
+- [Teste de covid-19 deixa de ser exigência para entrar nos EUA](https://www.nexojornal.com.br/extra/2022/06/12/Teste-de-covid-19-deixa-de-ser-exig%C3%AAncia-para-entrar-nos-EUA)
+- [Bolsonaro pediu ajuda a Biden em eleição, diz site americano](https://www.nexojornal.com.br/extra/2022/06/12/Bolsonaro-pediu-ajuda-a-Biden-em-elei%C3%A7%C3%A3o-diz-site-americano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
