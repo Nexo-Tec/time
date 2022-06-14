@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Senado aprova projeto que limita ICMS sobre combustíveis](https://www.nexojornal.com.br/extra/2022/06/14/Senado-aprova-projeto-que-limita-ICMS-sobre-combust%C3%ADveis)
+- [As preparações para um 7 de Setembro às portas da eleição](https://www.nexojornal.com.br/expresso/2022/06/14/As-prepara%C3%A7%C3%B5es-para-um-7-de-Setembro-%C3%A0s-portas-da-elei%C3%A7%C3%A3o)
 - [Por que o mundo corre risco de ter uma nova recessão global](https://www.nexojornal.com.br/expresso/2022/06/13/Por-que-o-mundo-corre-risco-de-ter-uma-nova-recess%C3%A3o-global)
-- [Engenheiro cita ‘autoconciência’ de software e é demitido do Google](https://www.nexojornal.com.br/extra/2022/06/13/Engenheiro-cita-%E2%80%98autoconci%C3%AAncia%E2%80%99-de-software-e-%C3%A9-demitido-do-Google)
+- [Engenheiro cita ‘autoconsciência’ de software e é demitido do Google](https://www.nexojornal.com.br/extra/2022/06/13/Engenheiro-cita-%E2%80%98autoconsci%C3%AAncia%E2%80%99-de-software-e-%C3%A9-demitido-do-Google)
 - [O que deu errado para Doria em sua incursão na política eleitoral](https://www.nexojornal.com.br/expresso/2022/06/13/O-que-deu-errado-para-Doria-em-sua-incurs%C3%A3o-na-pol%C3%ADtica-eleitoral)
-- [Principais bolsas de valores mundiais fecham em queda](https://www.nexojornal.com.br/extra/2022/06/13/Principais-bolsas-de-valores-mundiais-fecham-em-queda)
-- [Servidores da Funai anunciam greve e pedem mais segurança](https://www.nexojornal.com.br/extra/2022/06/13/Servidores-da-Funai-anunciam-greve-e-pedem-mais-seguran%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
