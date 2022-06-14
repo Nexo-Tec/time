@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o impacto da guerra na saúde mental dos ucranianos](https://www.nexojornal.com.br/entrevista/2022/06/12/Qual-o-impacto-da-guerra-na-sa%C3%BAde-mental-dos-ucranianos)
-- [Estocolmo+50: por que manter o compromisso ambiental](https://www.nexojornal.com.br/ensaio/2022/Estocolmo50-por-que-manter-o-compromisso-ambiental)
-- [A internação involuntária de usuários de crack em São Paulo](https://www.nexojornal.com.br/expresso/2022/06/12/A-interna%C3%A7%C3%A3o-involunt%C3%A1ria-de-usu%C3%A1rios-de-crack-em-S%C3%A3o-Paulo)
-- [O que muda na prática com a privatização da Eletrobras](https://www.nexojornal.com.br/expresso/2022/06/12/O-que-muda-na-pr%C3%A1tica-com-a-privatiza%C3%A7%C3%A3o-da-Eletrobras)
-- [Bia Haddad vence torneio e quebra jejum de 54 anos no tênis](https://www.nexojornal.com.br/extra/2022/06/12/Bia-Haddad-vence-torneio-e-quebra-jejum-de-54-anos-no-t%C3%AAnis)
+- [Por que o mundo corre risco de ter uma nova recessão global](https://www.nexojornal.com.br/expresso/2022/06/13/Por-que-o-mundo-corre-risco-de-ter-uma-nova-recess%C3%A3o-global)
+- [Engenheiro cita ‘autoconciência’ de software e é demitido do Google](https://www.nexojornal.com.br/extra/2022/06/13/Engenheiro-cita-%E2%80%98autoconci%C3%AAncia%E2%80%99-de-software-e-%C3%A9-demitido-do-Google)
+- [O que deu errado para Doria em sua incursão na política eleitoral](https://www.nexojornal.com.br/expresso/2022/06/13/O-que-deu-errado-para-Doria-em-sua-incurs%C3%A3o-na-pol%C3%ADtica-eleitoral)
+- [Principais bolsas de valores mundiais fecham em queda](https://www.nexojornal.com.br/extra/2022/06/13/Principais-bolsas-de-valores-mundiais-fecham-em-queda)
+- [Servidores da Funai anunciam greve e pedem mais segurança](https://www.nexojornal.com.br/extra/2022/06/13/Servidores-da-Funai-anunciam-greve-e-pedem-mais-seguran%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
