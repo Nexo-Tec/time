@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula vê pedido de Bolsonaro a Joe Biden como ‘humilhação’](https://www.nexojornal.com.br/extra/2022/06/14/Lula-v%C3%AA-pedido-de-Bolsonaro-a-Joe-Biden-como-%E2%80%98humilha%C3%A7%C3%A3o%E2%80%99)
-- [Embaixador admite erro e se desculpa com família de Phillips](https://www.nexojornal.com.br/extra/2022/06/14/Embaixador-admite-erro-e-se-desculpa-com-fam%C3%ADlia-de-Phillips)
-- [O que o Estado nos ensina com sua pedagogia do desdém](https://www.nexojornal.com.br/colunistas/2022/O-que-o-Estado-nos-ensina-com-sua-pedagogia-do-desd%C3%A9m)
-- [Procuradoria-Geral pede extinção da pena de Daniel Silveira](https://www.nexojornal.com.br/extra/2022/06/14/Procuradoria-Geral-pede-extin%C3%A7%C3%A3o-da-pena-de-Daniel-Silveira)
-- [Como conspirações podem poluir o debate público nas redes](https://www.nexojornal.com.br/expresso/2022/06/14/Como-conspira%C3%A7%C3%B5es-podem-poluir-o-debate-p%C3%BAblico-nas-redes)
+- [Senado aprova projeto que limita ICMS sobre combustíveis](https://www.nexojornal.com.br/extra/2022/06/14/Senado-aprova-projeto-que-limita-ICMS-sobre-combust%C3%ADveis)
+- [As preparações para um 7 de Setembro às portas da eleição](https://www.nexojornal.com.br/expresso/2022/06/14/As-prepara%C3%A7%C3%B5es-para-um-7-de-Setembro-%C3%A0s-portas-da-elei%C3%A7%C3%A3o)
+- [Por que o mundo corre risco de ter uma nova recessão global](https://www.nexojornal.com.br/expresso/2022/06/13/Por-que-o-mundo-corre-risco-de-ter-uma-nova-recess%C3%A3o-global)
+- [Engenheiro cita ‘autoconsciência’ de software e é demitido do Google](https://www.nexojornal.com.br/extra/2022/06/13/Engenheiro-cita-%E2%80%98autoconsci%C3%AAncia%E2%80%99-de-software-e-%C3%A9-demitido-do-Google)
+- [O que deu errado para Doria em sua incursão na política eleitoral](https://www.nexojornal.com.br/expresso/2022/06/13/O-que-deu-errado-para-Doria-em-sua-incurs%C3%A3o-na-pol%C3%ADtica-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
