@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Feira, livro e ar livre](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/feira-livro-e-ar-livre/)
-- [Escritoras unidas para clique histórico](https://gamarevista.uol.com.br/cultura/escritoras-unidas-para-clique-historico/)
-- [Berrante](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/berrante/)
-- [@whatisnewyork](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/whatisnewyork/)
-- [Carol Tilkian, do Soltos: ‘Amor é resiliência’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-tilkian-do-soltos-amor-e-resiliencia/)
+- [O polêmico método Stanislavski, no Nexo](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-polemico-metodo-stanislavski-no-nexo/)
+- [Um remake sobre um remake em série elogiada em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-remake-sobre-um-remake-em-serie-elogiada-em-cannes/)
+- [A newsletter de maternidade real](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-newsletter-de-maternidade-real/)
+- [Festival online e gratuito sobre cultura alimentar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-online-e-gratuito-sobre-cultura-alimentar/)
+- [Uma grande temporada para o vinho natural, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-grande-temporada-para-o-vinho-natural-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
