@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Feira, livro e ar livre](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/feira-livro-e-ar-livre/)
 - [Escritoras unidas para clique histórico](https://gamarevista.uol.com.br/cultura/escritoras-unidas-para-clique-historico/)
 - [Berrante](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/berrante/)
 - [@whatisnewyork](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/whatisnewyork/)
 - [Carol Tilkian, do Soltos: ‘Amor é resiliência’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-tilkian-do-soltos-amor-e-resiliencia/)
-- [Ricardo Pereira](https://gamarevista.uol.com.br/pessoas/questionario-proust/ricardo-pereira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
