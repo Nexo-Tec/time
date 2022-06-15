@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as implicações de um pedido de ajuda eleitoral aos EUA](https://www.nexojornal.com.br/expresso/2022/06/14/Quais-as-implica%C3%A7%C3%B5es-de-um-pedido-de-ajuda-eleitoral-aos-EUA)
-- [As causas e soluções para o aumento na conta de luz](https://www.nexojornal.com.br/ensaio/2022/As-causas-e-solu%C3%A7%C3%B5es-para-o-aumento-na-conta-de-luz)
-- [STJ autoriza 3 pessoas a plantarem maconha para uso medicinal](https://www.nexojornal.com.br/extra/2022/06/14/STJ-autoriza-3-pessoas-a-plantarem-maconha-para-uso-medicinal)
-- [Mostra de Gilberto Gil tem disco dado como perdido desde 1982](https://www.nexojornal.com.br/extra/2022/06/14/Mostra-de-Gilberto-Gil-tem-disco-dado-como-perdido-desde-1982)
-- [O pacote eleitoral para reduzir os preços dos combustíveis](https://www.nexojornal.com.br/podcast/2022/06/14/O-pacote-eleitoral-para-reduzir-os-pre%C3%A7os-dos-combust%C3%ADveis)
+- [Como o radicalismo trumpista cresce no Partido Republicano](https://www.nexojornal.com.br/expresso/2022/06/15/Como-o-radicalismo-trumpista-cresce-no-Partido-Republicano)
+- [Bolsonaro afirma que Dom Phillips era ‘malvisto’ na Amazônia](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-afirma-que-Dom-Phillips-era-%E2%80%98malvisto%E2%80%99-na-Amaz%C3%B4nia)
+- [Bolsonaro veta volta da gratuidade para despacho de bagagens](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-veta-volta-da-gratuidade-para-despacho-de-bagagens)
+- [Polícia prende segundo suspeito pelo sumiço de Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/15/Pol%C3%ADcia-prende-segundo-suspeito-pelo-sumi%C3%A7o-de-Dom-e-Bruno)
+- [O aumento do desinteresse no noticiário no Brasil](https://www.nexojornal.com.br/expresso/2022/06/15/O-aumento-do-desinteresse-no-notici%C3%A1rio-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
