@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o radicalismo trumpista cresce no Partido Republicano](https://www.nexojornal.com.br/expresso/2022/06/15/Como-o-radicalismo-trumpista-cresce-no-Partido-Republicano)
-- [Bolsonaro afirma que Dom Phillips era ‘malvisto’ na Amazônia](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-afirma-que-Dom-Phillips-era-%E2%80%98malvisto%E2%80%99-na-Amaz%C3%B4nia)
-- [Bolsonaro veta volta da gratuidade para despacho de bagagens](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-veta-volta-da-gratuidade-para-despacho-de-bagagens)
-- [Polícia prende segundo suspeito pelo sumiço de Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/15/Pol%C3%ADcia-prende-segundo-suspeito-pelo-sumi%C3%A7o-de-Dom-e-Bruno)
-- [O aumento do desinteresse no noticiário no Brasil](https://www.nexojornal.com.br/expresso/2022/06/15/O-aumento-do-desinteresse-no-notici%C3%A1rio-no-Brasil)
+- [Lula vê pedido de Bolsonaro a Joe Biden como ‘humilhação’](https://www.nexojornal.com.br/extra/2022/06/14/Lula-v%C3%AA-pedido-de-Bolsonaro-a-Joe-Biden-como-%E2%80%98humilha%C3%A7%C3%A3o%E2%80%99)
+- [Embaixador admite erro e se desculpa com família de Phillips](https://www.nexojornal.com.br/extra/2022/06/14/Embaixador-admite-erro-e-se-desculpa-com-fam%C3%ADlia-de-Phillips)
+- [O que o Estado nos ensina com sua pedagogia do desdém](https://www.nexojornal.com.br/colunistas/2022/O-que-o-Estado-nos-ensina-com-sua-pedagogia-do-desd%C3%A9m)
+- [Procuradoria-Geral pede extinção da pena de Daniel Silveira](https://www.nexojornal.com.br/extra/2022/06/14/Procuradoria-Geral-pede-extin%C3%A7%C3%A3o-da-pena-de-Daniel-Silveira)
+- [Como conspirações podem poluir o debate público nas redes](https://www.nexojornal.com.br/expresso/2022/06/14/Como-conspira%C3%A7%C3%B5es-podem-poluir-o-debate-p%C3%BAblico-nas-redes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
