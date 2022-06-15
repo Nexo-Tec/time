@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Cotas para quilombolas?](https://pp.nexojornal.com.br/opiniao/2022/Cotas-para-quilombolas)
 - [Enid Rocha: políticas públicas e as diferentes juventudes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/06/09/Enid-Rocha-pol%C3%ADticas-p%C3%BAblicas-e-as-diferentes-juventudes)
 - [Oikografia: etnografias do fazer, desfazer e refazer casa em tempos críticos](https://pp.nexojornal.com.br/opiniao/2022/Oikografia-etnografias-do-fazer-desfazer-e-refazer-casa-em-tempos-cr%C3%ADticos)
 - [Como o desmatamento e as mudanças climáticas transformam a Floresta Amazônica em fonte de carbono para a atmosfera](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-o-desmatamento-e-as-mudan%C3%A7as-clim%C3%A1ticas-transformam-a-Floresta-Amaz%C3%B4nica-em-fonte-de-carbono-para-a-atmosfera)
 - [Como uma política nacional voltada ao ensino técnico pretende melhorar o acesso ao ensino superior e a empregabilidade no Brasil](https://pp.nexojornal.com.br/topico/2022/06/07/Como-uma-pol%C3%ADtica-nacional-voltada-ao-ensino-t%C3%A9cnico-pretende-melhorar-o-acesso-ao-ensino-superior-e-a-empregabilidade-no-Brasil)
-- [Juventudes e democracia](https://pp.nexojornal.com.br/bibliografia-basica/2022/06/01/Juventudes-e-democracia)
 <!-- PP_LIST:END -->
 
