@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as implicações de um pedido de ajuda eleitoral aos EUA](https://www.nexojornal.com.br/expresso/2022/06/14/Quais-as-implica%C3%A7%C3%B5es-de-um-pedido-de-ajuda-eleitoral-aos-EUA)
-- [As causas e soluções para o aumento na conta de luz](https://www.nexojornal.com.br/ensaio/2022/As-causas-e-solu%C3%A7%C3%B5es-para-o-aumento-na-conta-de-luz)
-- [STJ autoriza 3 pessoas a plantarem maconha para uso medicinal](https://www.nexojornal.com.br/extra/2022/06/14/STJ-autoriza-3-pessoas-a-plantarem-maconha-para-uso-medicinal)
-- [Mostra de Gilberto Gil tem disco dado como perdido desde 1982](https://www.nexojornal.com.br/extra/2022/06/14/Mostra-de-Gilberto-Gil-tem-disco-dado-como-perdido-desde-1982)
-- [O pacote eleitoral para reduzir os preços dos combustíveis](https://www.nexojornal.com.br/podcast/2022/06/14/O-pacote-eleitoral-para-reduzir-os-pre%C3%A7os-dos-combust%C3%ADveis)
+- [Senado aprova projeto que limita ICMS sobre combustíveis](https://www.nexojornal.com.br/extra/2022/06/14/Senado-aprova-projeto-que-limita-ICMS-sobre-combust%C3%ADveis)
+- [As preparações para um 7 de Setembro às portas da eleição](https://www.nexojornal.com.br/expresso/2022/06/14/As-prepara%C3%A7%C3%B5es-para-um-7-de-Setembro-%C3%A0s-portas-da-elei%C3%A7%C3%A3o)
+- [Por que o mundo corre risco de ter uma nova recessão global](https://www.nexojornal.com.br/expresso/2022/06/13/Por-que-o-mundo-corre-risco-de-ter-uma-nova-recess%C3%A3o-global)
+- [Engenheiro cita ‘autoconsciência’ de software e é demitido do Google](https://www.nexojornal.com.br/extra/2022/06/13/Engenheiro-cita-%E2%80%98autoconsci%C3%AAncia%E2%80%99-de-software-e-%C3%A9-demitido-do-Google)
+- [O que deu errado para Doria em sua incursão na política eleitoral](https://www.nexojornal.com.br/expresso/2022/06/13/O-que-deu-errado-para-Doria-em-sua-incurs%C3%A3o-na-pol%C3%ADtica-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
