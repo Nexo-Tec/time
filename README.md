@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Abortos aumentam nos EUA pela primeira vez em 30 anos](https://www.nexojornal.com.br/extra/2022/06/15/Abortos-aumentam-nos-EUA-pela-primeira-vez-em-30-anos)
-- [Prefeitura de SP aprova transformação da praça Princesa Isabel em parque](https://www.nexojornal.com.br/extra/2022/06/15/Prefeitura-de-SP-aprova-transforma%C3%A7%C3%A3o-da-pra%C3%A7a-Princesa-Isabel-em-parque)
-- [Como o radicalismo trumpista cresce no Partido Republicano](https://www.nexojornal.com.br/expresso/2022/06/15/Como-o-radicalismo-trumpista-cresce-no-Partido-Republicano)
-- [Bolsonaro afirma que Dom Phillips era ‘malvisto’ na Amazônia](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-afirma-que-Dom-Phillips-era-%E2%80%98malvisto%E2%80%99-na-Amaz%C3%B4nia)
-- [Bolsonaro veta volta da gratuidade para despacho de bagagens](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-veta-volta-da-gratuidade-para-despacho-de-bagagens)
+- [ONU pede reforço da Funai e proteção a ativistas no Brasil](https://www.nexojornal.com.br/extra/2022/06/16/ONU-pede-refor%C3%A7o-da-Funai-e-prote%C3%A7%C3%A3o-a-ativistas-no-Brasil)
+- [Dom e Bruno: famílias e servidores iniciam ‘jornada por justiça’](https://www.nexojornal.com.br/extra/2022/06/16/Dom-e-Bruno-fam%C3%ADlias-e-servidores-iniciam-%E2%80%98jornada-por-justi%C3%A7a%E2%80%99)
+- [‘Triste fim’: imprensa estrangeira repercute caso Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/16/%E2%80%98Triste-fim%E2%80%99-imprensa-estrangeira-repercute-caso-Dom-e-Bruno)
+- [Como a ciência disseca a origem das ‘sereias japonesas’](https://www.nexojornal.com.br/expresso/2022/06/15/Como-a-ci%C3%AAncia-disseca-a-origem-das-%E2%80%98sereias-japonesas%E2%80%99)
+- [O retrato da indústria pornográfica traçado em ‘Pleasure’](https://www.nexojornal.com.br/expresso/2022/06/15/O-retrato-da-ind%C3%BAstria-pornogr%C3%A1fica-tra%C3%A7ado-em-%E2%80%98Pleasure%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
