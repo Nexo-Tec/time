@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Abortos aumentam nos EUA pela primeira vez em 30 anos](https://www.nexojornal.com.br/extra/2022/06/15/Abortos-aumentam-nos-EUA-pela-primeira-vez-em-30-anos)
-- [Prefeitura de SP aprova transformação da praça Princesa Isabel em parque](https://www.nexojornal.com.br/extra/2022/06/15/Prefeitura-de-SP-aprova-transforma%C3%A7%C3%A3o-da-pra%C3%A7a-Princesa-Isabel-em-parque)
-- [Como o radicalismo trumpista cresce no Partido Republicano](https://www.nexojornal.com.br/expresso/2022/06/15/Como-o-radicalismo-trumpista-cresce-no-Partido-Republicano)
-- [Bolsonaro afirma que Dom Phillips era ‘malvisto’ na Amazônia](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-afirma-que-Dom-Phillips-era-%E2%80%98malvisto%E2%80%99-na-Amaz%C3%B4nia)
-- [Bolsonaro veta volta da gratuidade para despacho de bagagens](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-veta-volta-da-gratuidade-para-despacho-de-bagagens)
+- [A confissão do brutal assassinato de Bruno e Dom, segundo a PF](https://www.nexojornal.com.br/expresso/2022/06/15/A-confiss%C3%A3o-do-brutal-assassinato-de-Bruno-e-Dom-segundo-a-PF)
+- [Como os pôsteres da Copa dialogam com a história do design](https://www.nexojornal.com.br/incoming/2022/06/15/Como-os-p%C3%B4steres-da-Copa-dialogam-com-a-hist%C3%B3ria-do-design)
+- [O ruído de propostas de parlamentares ligados a Bolsonaro](https://www.nexojornal.com.br/podcast/2022/06/15/O-ru%C3%ADdo-de-propostas-de-parlamentares-ligados-a-Bolsonaro)
+- [Drone joga fezes e urina em apoiadores de Lula e Kalil em MG](https://www.nexojornal.com.br/extra/2022/06/15/Drone-joga-fezes-e-urina-em-apoiadores-de-Lula-e-Kalil-em-MG)
+- [Alta da Selic: quais fatores pressionam os juros no Brasil em 2022](https://www.nexojornal.com.br/expresso/2022/06/15/Alta-da-Selic-quais-fatores-pressionam-os-juros-no-Brasil-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
