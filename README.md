@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como ser um bom hóspede](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ser-um-bom-hospede/)
 - [Um convite ao subconsciente, por Alanis Morissette](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-convite-ao-subconsciente-por-alanis-morissette/)
 - [Um remake sobre um remake em série elogiada em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-remake-sobre-um-remake-em-serie-elogiada-em-cannes/)
 - [A newsletter de maternidade real](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-newsletter-de-maternidade-real/)
 - [Festival online e gratuito sobre cultura alimentar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-online-e-gratuito-sobre-cultura-alimentar/)
-- [Uma grande temporada para o vinho natural, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-grande-temporada-para-o-vinho-natural-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
