@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a ciência disseca a origem das ‘sereias japonesas’](https://www.nexojornal.com.br/expresso/2022/06/15/Como-a-ci%C3%AAncia-disseca-a-origem-das-%E2%80%98sereias-japonesas%E2%80%99)
-- [O retrato da indústria pornográfica traçado em ‘Pleasure’](https://www.nexojornal.com.br/expresso/2022/06/15/O-retrato-da-ind%C3%BAstria-pornogr%C3%A1fica-tra%C3%A7ado-em-%E2%80%98Pleasure%E2%80%99)
-- [Cérebros precisam de oxigênio, senhor presidente](https://www.nexojornal.com.br/colunistas/2022/C%C3%A9rebros-precisam-de-oxig%C3%AAnio-senhor-presidente)
-- [Ministro propõe encontro de equipes do TSE e das Forças Armadas](https://www.nexojornal.com.br/extra/2022/06/15/Ministro-prop%C3%B5e-encontro-de-equipes-do-TSE-e-das-For%C3%A7as-Armadas)
-- [FDA aprova eficácia de vacinas contra a covid em menores de 5 anos](https://www.nexojornal.com.br/extra/2022/06/15/FDA-aprova-efic%C3%A1cia-de-vacinas-contra-a-covid-em-menores-de-5-anos)
+- [A confissão do brutal assassinato de Bruno e Dom, segundo a PF](https://www.nexojornal.com.br/expresso/2022/06/15/A-confiss%C3%A3o-do-brutal-assassinato-de-Bruno-e-Dom-segundo-a-PF)
+- [Como os pôsteres da Copa dialogam com a história do design](https://www.nexojornal.com.br/incoming/2022/06/15/Como-os-p%C3%B4steres-da-Copa-dialogam-com-a-hist%C3%B3ria-do-design)
+- [O ruído de propostas de parlamentares ligados a Bolsonaro](https://www.nexojornal.com.br/podcast/2022/06/15/O-ru%C3%ADdo-de-propostas-de-parlamentares-ligados-a-Bolsonaro)
+- [Drone joga fezes e urina em apoiadores de Lula e Kalil em MG](https://www.nexojornal.com.br/extra/2022/06/15/Drone-joga-fezes-e-urina-em-apoiadores-de-Lula-e-Kalil-em-MG)
+- [Alta da Selic: quais fatores pressionam os juros no Brasil em 2022](https://www.nexojornal.com.br/expresso/2022/06/15/Alta-da-Selic-quais-fatores-pressionam-os-juros-no-Brasil-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
