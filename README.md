@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Abortos aumentam nos EUA pela primeira vez em 30 anos](https://www.nexojornal.com.br/extra/2022/06/15/Abortos-aumentam-nos-EUA-pela-primeira-vez-em-30-anos)
-- [Prefeitura de SP aprova transformação da praça Princesa Isabel em parque](https://www.nexojornal.com.br/extra/2022/06/15/Prefeitura-de-SP-aprova-transforma%C3%A7%C3%A3o-da-pra%C3%A7a-Princesa-Isabel-em-parque)
-- [Como o radicalismo trumpista cresce no Partido Republicano](https://www.nexojornal.com.br/expresso/2022/06/15/Como-o-radicalismo-trumpista-cresce-no-Partido-Republicano)
-- [Bolsonaro afirma que Dom Phillips era ‘malvisto’ na Amazônia](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-afirma-que-Dom-Phillips-era-%E2%80%98malvisto%E2%80%99-na-Amaz%C3%B4nia)
-- [Bolsonaro veta volta da gratuidade para despacho de bagagens](https://www.nexojornal.com.br/extra/2022/06/15/Bolsonaro-veta-volta-da-gratuidade-para-despacho-de-bagagens)
+- [Como a ciência disseca a origem das ‘sereias japonesas’](https://www.nexojornal.com.br/expresso/2022/06/15/Como-a-ci%C3%AAncia-disseca-a-origem-das-%E2%80%98sereias-japonesas%E2%80%99)
+- [O retrato da indústria pornográfica traçado em ‘Pleasure’](https://www.nexojornal.com.br/expresso/2022/06/15/O-retrato-da-ind%C3%BAstria-pornogr%C3%A1fica-tra%C3%A7ado-em-%E2%80%98Pleasure%E2%80%99)
+- [Cérebros precisam de oxigênio, senhor presidente](https://www.nexojornal.com.br/colunistas/2022/C%C3%A9rebros-precisam-de-oxig%C3%AAnio-senhor-presidente)
+- [Ministro propõe encontro de equipes do TSE e das Forças Armadas](https://www.nexojornal.com.br/extra/2022/06/15/Ministro-prop%C3%B5e-encontro-de-equipes-do-TSE-e-das-For%C3%A7as-Armadas)
+- [FDA aprova eficácia de vacinas contra a covid em menores de 5 anos](https://www.nexojornal.com.br/extra/2022/06/15/FDA-aprova-efic%C3%A1cia-de-vacinas-contra-a-covid-em-menores-de-5-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
