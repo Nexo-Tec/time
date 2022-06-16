@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O IPTU como instrumento de arrecadação e equidade tributária nas cidades, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-IPTU-como-instrumento-de-arrecada%C3%A7%C3%A3o-e-equidade-tribut%C3%A1ria-nas-cidades-em-5-pontos)
+- [Como restaurar fazendas abandonadas pode mitigar as mudanças climáticas](https://pp.nexojornal.com.br/topico/2022/06/15/Como-restaurar-fazendas-abandonadas-pode-mitigar-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [10 pontos sobre servidores públicos no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/10-pontos-sobre-servidores-p%C3%BAblicos-no-Brasil)
+- [Qual a diferença entre comer cuscuz ou cereal matinal ultraprocessado?](https://pp.nexojornal.com.br/opiniao/2022/Qual-a-diferen%C3%A7a-entre-comer-cuscuz-ou-cereal-matinal-ultraprocessado)
 - [Cotas para quilombolas?](https://pp.nexojornal.com.br/opiniao/2022/Cotas-para-quilombolas)
-- [Enid Rocha: políticas públicas e as diferentes juventudes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/06/09/Enid-Rocha-pol%C3%ADticas-p%C3%BAblicas-e-as-diferentes-juventudes)
-- [Oikografia: etnografias do fazer, desfazer e refazer casa em tempos críticos](https://pp.nexojornal.com.br/opiniao/2022/Oikografia-etnografias-do-fazer-desfazer-e-refazer-casa-em-tempos-cr%C3%ADticos)
-- [Como o desmatamento e as mudanças climáticas transformam a Floresta Amazônica em fonte de carbono para a atmosfera](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-o-desmatamento-e-as-mudan%C3%A7as-clim%C3%A1ticas-transformam-a-Floresta-Amaz%C3%B4nica-em-fonte-de-carbono-para-a-atmosfera)
-- [Como uma política nacional voltada ao ensino técnico pretende melhorar o acesso ao ensino superior e a empregabilidade no Brasil](https://pp.nexojornal.com.br/topico/2022/06/07/Como-uma-pol%C3%ADtica-nacional-voltada-ao-ensino-t%C3%A9cnico-pretende-melhorar-o-acesso-ao-ensino-superior-e-a-empregabilidade-no-Brasil)
 <!-- PP_LIST:END -->
 
