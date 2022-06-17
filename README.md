@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Almanaque de Fran Lebowitz](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-almanaque-de-fran-lebowitz/)
+- [Brasileiros pela metade](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/brasileiros-pela-metade/)
 - [Como ser um bom hóspede](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ser-um-bom-hospede/)
 - [Um convite ao subconsciente, por Alanis Morissette](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-convite-ao-subconsciente-por-alanis-morissette/)
 - [Um remake sobre um remake em série elogiada em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-remake-sobre-um-remake-em-serie-elogiada-em-cannes/)
-- [A newsletter de maternidade real](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-newsletter-de-maternidade-real/)
-- [Festival online e gratuito sobre cultura alimentar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-online-e-gratuito-sobre-cultura-alimentar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
