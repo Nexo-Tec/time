@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [ONU pede reforço da Funai e proteção a ativistas no Brasil](https://www.nexojornal.com.br/extra/2022/06/16/ONU-pede-refor%C3%A7o-da-Funai-e-prote%C3%A7%C3%A3o-a-ativistas-no-Brasil)
-- [Dom e Bruno: famílias e servidores iniciam ‘jornada por justiça’](https://www.nexojornal.com.br/extra/2022/06/16/Dom-e-Bruno-fam%C3%ADlias-e-servidores-iniciam-%E2%80%98jornada-por-justi%C3%A7a%E2%80%99)
-- [‘Triste fim’: imprensa estrangeira repercute caso Dom e Bruno](https://www.nexojornal.com.br/extra/2022/06/16/%E2%80%98Triste-fim%E2%80%99-imprensa-estrangeira-repercute-caso-Dom-e-Bruno)
-- [Como a ciência disseca a origem das ‘sereias japonesas’](https://www.nexojornal.com.br/expresso/2022/06/15/Como-a-ci%C3%AAncia-disseca-a-origem-das-%E2%80%98sereias-japonesas%E2%80%99)
-- [O retrato da indústria pornográfica traçado em ‘Pleasure’](https://www.nexojornal.com.br/expresso/2022/06/15/O-retrato-da-ind%C3%BAstria-pornogr%C3%A1fica-tra%C3%A7ado-em-%E2%80%98Pleasure%E2%80%99)
+- [Desde 2017, principais bancos fecharam mais de 4.000 agências](https://www.nexojornal.com.br/grafico/2022/06/16/Desde-2017-principais-bancos-fecharam-mais-de-4.000-ag%C3%AAncias)
+- [Qual o papel da OMC na crise global de alimentos](https://www.nexojornal.com.br/expresso/2022/06/16/Qual-o-papel-da-OMC-na-crise-global-de-alimentos)
+- [Como governos reagiram à morte de ícones da causa ambiental](https://www.nexojornal.com.br/expresso/2022/06/16/Como-governos-reagiram-%C3%A0-morte-de-%C3%ADcones-da-causa-ambiental)
+- [Dom e Bruno: participação de outros suspeitos é incógnita](https://www.nexojornal.com.br/extra/2022/06/16/Dom-e-Bruno-participa%C3%A7%C3%A3o-de-outros-suspeitos-%C3%A9-inc%C3%B3gnita)
+- [Bolsonaro lamenta mortes de Dom e Bruno e ataca Lula](https://www.nexojornal.com.br/extra/2022/06/16/Bolsonaro-lamenta-mortes-de-Dom-e-Bruno-e-ataca-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
