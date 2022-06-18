@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A plataforma que incentiva a leitura de obras premiadas](https://www.nexojornal.com.br/expresso/2022/06/18/A-plataforma-que-incentiva-a-leitura-de-obras-premiadas)
-- [Estudo mapeia evolução do cérebro ao longo da vida](https://www.nexojornal.com.br/externo/2022/06/18/Estudo-mapeia-evolu%C3%A7%C3%A3o-do-c%C3%A9rebro-ao-longo-da-vida)
-- [O que é populismo, segundo dois especialistas no tema](https://www.nexojornal.com.br/expresso/2022/06/18/O-que-%C3%A9-populismo-segundo-dois-especialistas-no-tema)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [A indignação como estímulo para discutir a Amazônia](https://www.nexojornal.com.br/perspectiva/2022/06/18/A-indigna%C3%A7%C3%A3o-como-est%C3%ADmulo-para-discutir-a-Amaz%C3%B4nia)
+- [Desde 2017, principais bancos fecharam mais de 4.000 agências](https://www.nexojornal.com.br/grafico/2022/06/16/Desde-2017-principais-bancos-fecharam-mais-de-4.000-ag%C3%AAncias)
+- [Qual o papel da OMC na crise global de alimentos](https://www.nexojornal.com.br/expresso/2022/06/16/Qual-o-papel-da-OMC-na-crise-global-de-alimentos)
+- [Como governos reagiram à morte de ícones da causa ambiental](https://www.nexojornal.com.br/expresso/2022/06/16/Como-governos-reagiram-%C3%A0-morte-de-%C3%ADcones-da-causa-ambiental)
+- [Dom e Bruno: participação de outros suspeitos é incógnita](https://www.nexojornal.com.br/extra/2022/06/16/Dom-e-Bruno-participa%C3%A7%C3%A3o-de-outros-suspeitos-%C3%A9-inc%C3%B3gnita)
+- [Bolsonaro lamenta mortes de Dom e Bruno e ataca Lula](https://www.nexojornal.com.br/extra/2022/06/16/Bolsonaro-lamenta-mortes-de-Dom-e-Bruno-e-ataca-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
