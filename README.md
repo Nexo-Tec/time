@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O assassinato de Bruno e Dom. O reajuste da Petrobras. E mais](https://www.nexojornal.com.br/video/extrato/O-assassinato-de-Bruno-e-Dom.-O-reajuste-da-Petrobras.-E-mais)
-- [Comissão Europeia apoia entrada da Ucrânia no bloco](https://www.nexojornal.com.br/extra/2022/06/17/Comiss%C3%A3o-Europeia-apoia-entrada-da-Ucr%C3%A2nia-no-bloco)
-- [Os livros coloniais e a história da arquitetura no Brasil](https://www.nexojornal.com.br/academico/2022/06/17/Os-livros-coloniais-e-a-hist%C3%B3ria-da-arquitetura-no-Brasil)
-- [‘A inteligência das aves’: manual de sobrevivência](https://www.nexojornal.com.br/estante/trechos/2022/06/17/%E2%80%98A-intelig%C3%AAncia-das-aves%E2%80%99-manual-de-sobreviv%C3%AAncia)
-- [PF diz que crime não tem mandante e identifica corpo de Dom](https://www.nexojornal.com.br/extra/2022/06/17/PF-diz-que-crime-n%C3%A3o-tem-mandante-e-identifica-corpo-de-Dom)
+- [A plataforma que incentiva a leitura de obras premiadas](https://www.nexojornal.com.br/expresso/2022/06/18/A-plataforma-que-incentiva-a-leitura-de-obras-premiadas)
+- [Estudo mapeia evolução do cérebro ao longo da vida](https://www.nexojornal.com.br/externo/2022/06/18/Estudo-mapeia-evolu%C3%A7%C3%A3o-do-c%C3%A9rebro-ao-longo-da-vida)
+- [O que é populismo, segundo dois especialistas no tema](https://www.nexojornal.com.br/expresso/2022/06/18/O-que-%C3%A9-populismo-segundo-dois-especialistas-no-tema)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A indignação como estímulo para discutir a Amazônia](https://www.nexojornal.com.br/perspectiva/2022/06/18/A-indigna%C3%A7%C3%A3o-como-est%C3%ADmulo-para-discutir-a-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
