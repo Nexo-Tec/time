@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desde 2017, principais bancos fecharam mais de 4.000 agências](https://www.nexojornal.com.br/grafico/2022/06/16/Desde-2017-principais-bancos-fecharam-mais-de-4.000-ag%C3%AAncias)
-- [Qual o papel da OMC na crise global de alimentos](https://www.nexojornal.com.br/expresso/2022/06/16/Qual-o-papel-da-OMC-na-crise-global-de-alimentos)
-- [Como governos reagiram à morte de ícones da causa ambiental](https://www.nexojornal.com.br/expresso/2022/06/16/Como-governos-reagiram-%C3%A0-morte-de-%C3%ADcones-da-causa-ambiental)
-- [Dom e Bruno: participação de outros suspeitos é incógnita](https://www.nexojornal.com.br/extra/2022/06/16/Dom-e-Bruno-participa%C3%A7%C3%A3o-de-outros-suspeitos-%C3%A9-inc%C3%B3gnita)
-- [Bolsonaro lamenta mortes de Dom e Bruno e ataca Lula](https://www.nexojornal.com.br/extra/2022/06/16/Bolsonaro-lamenta-mortes-de-Dom-e-Bruno-e-ataca-Lula)
+- [O assassinato de Bruno e Dom. O reajuste da Petrobras. E mais](https://www.nexojornal.com.br/video/extrato/O-assassinato-de-Bruno-e-Dom.-O-reajuste-da-Petrobras.-E-mais)
+- [Comissão Europeia apoia entrada da Ucrânia no bloco](https://www.nexojornal.com.br/extra/2022/06/17/Comiss%C3%A3o-Europeia-apoia-entrada-da-Ucr%C3%A2nia-no-bloco)
+- [Os livros coloniais e a história da arquitetura no Brasil](https://www.nexojornal.com.br/academico/2022/06/17/Os-livros-coloniais-e-a-hist%C3%B3ria-da-arquitetura-no-Brasil)
+- [‘A inteligência das aves’: manual de sobrevivência](https://www.nexojornal.com.br/estante/trechos/2022/06/17/%E2%80%98A-intelig%C3%AAncia-das-aves%E2%80%99-manual-de-sobreviv%C3%AAncia)
+- [PF diz que crime não tem mandante e identifica corpo de Dom](https://www.nexojornal.com.br/extra/2022/06/17/PF-diz-que-crime-n%C3%A3o-tem-mandante-e-identifica-corpo-de-Dom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
