@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazônia perdeu extensão de 2 mil campos de futebol por dia em 2022](https://www.nexojornal.com.br/extra/2022/06/18/Amaz%C3%B4nia-perdeu-extens%C3%A3o-de-2-mil-campos-de-futebol-por-dia-em-2022)
-- [O debate sobre educação financeira em tempos de crise](https://www.nexojornal.com.br/expresso/2022/06/18/O-debate-sobre-educa%C3%A7%C3%A3o-financeira-em-tempos-de-crise)
-- [5 livros sobre a história do movimento LGBTI+ no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-a-hist%C3%B3ria-do-movimento-LGBTI-no-Brasil)
-- [‘O Judiciário deve avançar nos processos civilizatórios’](https://www.nexojornal.com.br/entrevista/2022/06/18/%E2%80%98O-Judici%C3%A1rio-deve-avan%C3%A7ar-nos-processos-civilizat%C3%B3rios%E2%80%99)
-- [As marcas estão na guerra usando artilharia pesada](https://www.nexojornal.com.br/ensaio/2022/As-marcas-est%C3%A3o-na-guerra-usando-artilharia-pesada)
+- [A plataforma que incentiva a leitura de obras premiadas](https://www.nexojornal.com.br/expresso/2022/06/18/A-plataforma-que-incentiva-a-leitura-de-obras-premiadas)
+- [Estudo mapeia evolução do cérebro ao longo da vida](https://www.nexojornal.com.br/externo/2022/06/18/Estudo-mapeia-evolu%C3%A7%C3%A3o-do-c%C3%A9rebro-ao-longo-da-vida)
+- [O que é populismo, segundo dois especialistas no tema](https://www.nexojornal.com.br/expresso/2022/06/18/O-que-%C3%A9-populismo-segundo-dois-especialistas-no-tema)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A indignação como estímulo para discutir a Amazônia](https://www.nexojornal.com.br/perspectiva/2022/06/18/A-indigna%C3%A7%C3%A3o-como-est%C3%ADmulo-para-discutir-a-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
