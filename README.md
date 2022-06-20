@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazônia perdeu extensão de 2 mil campos de futebol por dia em 2022](https://www.nexojornal.com.br/extra/2022/06/18/Amaz%C3%B4nia-perdeu-extens%C3%A3o-de-2-mil-campos-de-futebol-por-dia-em-2022)
-- [O debate sobre educação financeira em tempos de crise](https://www.nexojornal.com.br/expresso/2022/06/18/O-debate-sobre-educa%C3%A7%C3%A3o-financeira-em-tempos-de-crise)
-- [5 livros sobre a história do movimento LGBTI+ no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-a-hist%C3%B3ria-do-movimento-LGBTI-no-Brasil)
-- [‘O Judiciário deve avançar nos processos civilizatórios’](https://www.nexojornal.com.br/entrevista/2022/06/18/%E2%80%98O-Judici%C3%A1rio-deve-avan%C3%A7ar-nos-processos-civilizat%C3%B3rios%E2%80%99)
-- [As marcas estão na guerra usando artilharia pesada](https://www.nexojornal.com.br/ensaio/2022/As-marcas-est%C3%A3o-na-guerra-usando-artilharia-pesada)
+- [O que há de ‘Carta ao povo brasileiro’ no Lula de 2022](https://www.nexojornal.com.br/expresso/2022/06/19/O-que-h%C3%A1-de-%E2%80%98Carta-ao-povo-brasileiro%E2%80%99-no-Lula-de-2022)
+- [Petro é eleito e se torna o 1º presidente de esquerda da Colômbia](https://www.nexojornal.com.br/extra/2022/06/19/Petro-%C3%A9-eleito-e-se-torna-o-1%C2%BA-presidente-de-esquerda-da-Col%C3%B4mbia)
+- [Lira volta a atacar Petrobras e diz que país vai enfrentar a estatal](https://www.nexojornal.com.br/extra/2022/06/19/Lira-volta-a-atacar-Petrobras-e-diz-que-pa%C3%ADs-vai-enfrentar-a-estatal)
+- [A saúde mental dos jovens no retorno letivo presencial](https://www.nexojornal.com.br/ensaio/2022/A-sa%C3%BAde-mental-dos-jovens-no-retorno-letivo-presencial)
+- [O número de vetos presidenciais derrubados pelo Congresso](https://www.nexojornal.com.br/grafico/2022/06/19/O-n%C3%BAmero-de-vetos-presidenciais-derrubados-pelo-Congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
