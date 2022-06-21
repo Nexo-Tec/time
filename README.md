@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Skate](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/skate-2/)
 - [Por dentro da família Gil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/por-dentro-da-familia-gil/)
 - [@comerhistoria](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/comerhistoria/)
 - [Pedro Amorim: ‘A comédia sempre foi o gênero que levou público ao cinema’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-amorim-a-comedia-sempre-foi-o-genero-que-levou-o-publico-ao-cinema/)
 - [Karen Jonz](https://gamarevista.uol.com.br/pessoas/questionario-proust/karen-jonz/)
-- [O Almanaque de Fran Lebowitz](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-almanaque-de-fran-lebowitz/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
