@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há de ‘Carta ao povo brasileiro’ no Lula de 2022](https://www.nexojornal.com.br/expresso/2022/06/19/O-que-h%C3%A1-de-%E2%80%98Carta-ao-povo-brasileiro%E2%80%99-no-Lula-de-2022)
-- [Petro é eleito e se torna o 1º presidente de esquerda da Colômbia](https://www.nexojornal.com.br/extra/2022/06/19/Petro-%C3%A9-eleito-e-se-torna-o-1%C2%BA-presidente-de-esquerda-da-Col%C3%B4mbia)
-- [Lira volta a atacar Petrobras e diz que país vai enfrentar a estatal](https://www.nexojornal.com.br/extra/2022/06/19/Lira-volta-a-atacar-Petrobras-e-diz-que-pa%C3%ADs-vai-enfrentar-a-estatal)
-- [A saúde mental dos jovens no retorno letivo presencial](https://www.nexojornal.com.br/ensaio/2022/A-sa%C3%BAde-mental-dos-jovens-no-retorno-letivo-presencial)
-- [O número de vetos presidenciais derrubados pelo Congresso](https://www.nexojornal.com.br/grafico/2022/06/19/O-n%C3%BAmero-de-vetos-presidenciais-derrubados-pelo-Congresso)
+- [Comissão do Senado sobre crimes na Amazônia vai ouvir Torres](https://www.nexojornal.com.br/extra/2022/06/20/Comiss%C3%A3o-do-Senado-sobre-crimes-na-Amaz%C3%B4nia-vai-ouvir-Torres)
+- [Fila de espera do Auxílio Brasil chega a 2,8 mi de famílias](https://www.nexojornal.com.br/extra/2022/06/20/Fila-de-espera-do-Aux%C3%ADlio-Brasil-chega-a-28-mi-de-fam%C3%ADlias)
+- [Vida longa àqueles que defendem os nossos direitos](https://www.nexojornal.com.br/colunistas/2022/Vida-longa-%C3%A0queles-que-defendem-os-nossos-direitos)
+- [As contradições no cerco de Bolsonaro e Lira à Petrobras](https://www.nexojornal.com.br/expresso/2022/06/20/As-contradi%C3%A7%C3%B5es-no-cerco-de-Bolsonaro-e-Lira-%C3%A0-Petrobras)
+- [Como a bagunça informativa afeta a Petrobras na bolsa](https://www.nexojornal.com.br/podcast/2022/06/20/Como-a-bagun%C3%A7a-informativa-afeta-a-Petrobras-na-bolsa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
