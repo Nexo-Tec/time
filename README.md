@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Orçamento público e combate às desigualdades](https://pp.nexojornal.com.br/bibliografia-basica/2022/06/21/Or%C3%A7amento-p%C3%BAblico-e-combate-%C3%A0s-desigualdades)
+- [A urna eletrônica e o processo eleitoral devem ser defendidos](https://pp.nexojornal.com.br/opiniao/2022/A-urna-eletr%C3%B4nica-e-o-processo-eleitoral-devem-ser-defendidos)
 - [O IPTU como instrumento de arrecadação e equidade tributária nas cidades, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-IPTU-como-instrumento-de-arrecada%C3%A7%C3%A3o-e-equidade-tribut%C3%A1ria-nas-cidades-em-5-pontos)
 - [Como restaurar fazendas abandonadas pode mitigar as mudanças climáticas](https://pp.nexojornal.com.br/topico/2022/06/15/Como-restaurar-fazendas-abandonadas-pode-mitigar-as-mudan%C3%A7as-clim%C3%A1ticas)
 - [10 pontos sobre servidores públicos no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/10-pontos-sobre-servidores-p%C3%BAblicos-no-Brasil)
-- [Qual a diferença entre comer cuscuz ou cereal matinal ultraprocessado?](https://pp.nexojornal.com.br/opiniao/2022/Qual-a-diferen%C3%A7a-entre-comer-cuscuz-ou-cereal-matinal-ultraprocessado)
-- [Cotas para quilombolas?](https://pp.nexojornal.com.br/opiniao/2022/Cotas-para-quilombolas)
 <!-- PP_LIST:END -->
 
