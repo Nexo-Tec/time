@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comissão do Senado sobre crimes na Amazônia vai ouvir Torres](https://www.nexojornal.com.br/extra/2022/06/20/Comiss%C3%A3o-do-Senado-sobre-crimes-na-Amaz%C3%B4nia-vai-ouvir-Torres)
-- [Fila de espera do Auxílio Brasil chega a 2,8 mi de famílias](https://www.nexojornal.com.br/extra/2022/06/20/Fila-de-espera-do-Aux%C3%ADlio-Brasil-chega-a-28-mi-de-fam%C3%ADlias)
-- [Vida longa àqueles que defendem os nossos direitos](https://www.nexojornal.com.br/colunistas/2022/Vida-longa-%C3%A0queles-que-defendem-os-nossos-direitos)
-- [As contradições no cerco de Bolsonaro e Lira à Petrobras](https://www.nexojornal.com.br/expresso/2022/06/20/As-contradi%C3%A7%C3%B5es-no-cerco-de-Bolsonaro-e-Lira-%C3%A0-Petrobras)
-- [Como a bagunça informativa afeta a Petrobras na bolsa](https://www.nexojornal.com.br/podcast/2022/06/20/Como-a-bagun%C3%A7a-informativa-afeta-a-Petrobras-na-bolsa)
+- [O que o PT quer fazer com a Petrobras em caso de vitória de Lula](https://www.nexojornal.com.br/expresso/2022/06/21/O-que-o-PT-quer-fazer-com-a-Petrobras-em-caso-de-vit%C3%B3ria-de-Lula)
+- [Governo planeja auxílio para caminhoneiros e aumento no vale-gás](https://www.nexojornal.com.br/extra/2022/06/21/Governo-planeja-aux%C3%ADlio-para-caminhoneiros-e-aumento-no-vale-g%C3%A1s)
+- [Por que Bolsonaro insiste em criar uma nova CPI da Petrobras](https://www.nexojornal.com.br/expresso/2022/06/21/Por-que-Bolsonaro-insiste-em-criar-uma-nova-CPI-da-Petrobras)
+- [A escalada da insegurança alimentar no mundo](https://www.nexojornal.com.br/ensaio/2022/A-escalada-da-inseguran%C3%A7a-alimentar-no-mundo)
+- [Feriados juninos são oficiais em 9 capitais brasileiras](https://www.nexojornal.com.br/grafico/2022/06/21/Feriados-juninos-s%C3%A3o-oficiais-em-9-capitais-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
