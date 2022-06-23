@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Ano novo caipira: uma celebração da fartura da colheita](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/ano-novo-caipira-uma-celebracao-da-fartura-da-colheita/)
-- [Skate](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/skate-2/)
-- [Por dentro da família Gil](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/por-dentro-da-familia-gil/)
-- [@comerhistoria](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/comerhistoria/)
-- [Pedro Amorim: ‘A comédia sempre foi o gênero que levou público ao cinema’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-amorim-a-comedia-sempre-foi-o-genero-que-levou-o-publico-ao-cinema/)
+- [O som dos 90s e um tema quente em ”Break my Soul”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-som-dos-90s-e-um-tema-quente-em-break-my-soul/)
+- [Filmes e seriados franceses no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-e-seriados-franceses-no-cinema/)
+- [Documentário da HBO sobre a imprensa em risco](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-da-hbo-sobre-a-imprensa-em-risco/)
+- [Um festival para quem ama café](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-festival-para-quem-ama-cafe/)
+- [Uma novela que grita “Abaixo o patriarcado!”](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-novela-que-grita-abaixo-o-patriarcado/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
