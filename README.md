@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o PT quer fazer com a Petrobras em caso de vitória de Lula](https://www.nexojornal.com.br/expresso/2022/06/21/O-que-o-PT-quer-fazer-com-a-Petrobras-em-caso-de-vit%C3%B3ria-de-Lula)
-- [Governo planeja auxílio para caminhoneiros e aumento no vale-gás](https://www.nexojornal.com.br/extra/2022/06/21/Governo-planeja-aux%C3%ADlio-para-caminhoneiros-e-aumento-no-vale-g%C3%A1s)
-- [Por que Bolsonaro insiste em criar uma nova CPI da Petrobras](https://www.nexojornal.com.br/expresso/2022/06/21/Por-que-Bolsonaro-insiste-em-criar-uma-nova-CPI-da-Petrobras)
-- [A escalada da insegurança alimentar no mundo](https://www.nexojornal.com.br/ensaio/2022/A-escalada-da-inseguran%C3%A7a-alimentar-no-mundo)
-- [Feriados juninos são oficiais em 9 capitais brasileiras](https://www.nexojornal.com.br/grafico/2022/06/21/Feriados-juninos-s%C3%A3o-oficiais-em-9-capitais-brasileiras)
+- [Entidades denunciam Brasil na ONU por caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/22/Entidades-denunciam-Brasil-na-ONU-por-caso-Bruno-e-Dom)
+- [Senadores querem restringir acesso às armas nos Estados Unidos](https://www.nexojornal.com.br/extra/2022/06/22/Senadores-querem-restringir-acesso-%C3%A0s-armas-nos-Estados-Unidos)
+- [O caso do procurador que espancou uma colega em SP](https://www.nexojornal.com.br/expresso/2022/06/22/O-caso-do-procurador-que-espancou-uma-colega-em-SP)
+- [Terremoto deixa mais de 1.000 mortos no Afeganistão](https://www.nexojornal.com.br/extra/2022/06/22/Terremoto-deixa-mais-de-1.000-mortos-no-Afeganist%C3%A3o)
+- [Milton Ribeiro é preso em operação da PF sobre corrupção no MEC](https://www.nexojornal.com.br/extra/2022/06/22/Milton-Ribeiro-%C3%A9-preso-em-opera%C3%A7%C3%A3o-da-PF-sobre-corrup%C3%A7%C3%A3o-no-MEC)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
