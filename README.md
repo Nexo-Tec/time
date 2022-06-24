@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Defesa e Forças Armadas protocolam notícia-crime contra Ciro](https://www.nexojornal.com.br/extra/2022/06/24/Defesa-e-For%C3%A7as-Armadas-protocolam-not%C3%ADcia-crime-contra-Ciro)
-- [A situação do plano de reeleição de Bolsonaro a 100 dias do voto](https://www.nexojornal.com.br/expresso/2022/06/24/A-situa%C3%A7%C3%A3o-do-plano-de-reelei%C3%A7%C3%A3o-de-Bolsonaro-a-100-dias-do-voto)
-- [As pressões em torno das investigações do ‘balcão do MEC’](https://www.nexojornal.com.br/expresso/2022/06/24/As-press%C3%B5es-em-torno-das-investiga%C3%A7%C3%B5es-do-%E2%80%98balc%C3%A3o-do-MEC%E2%80%99)
-- [As pontes que Sergio Moro queimou na sua empreitada política](https://www.nexojornal.com.br/expresso/2022/06/23/As-pontes-que-Sergio-Moro-queimou-na-sua-empreitada-pol%C3%ADtica)
-- [100 dias da eleição: veja as principais datas do calendário eleitoral](https://www.nexojornal.com.br/grafico/2022/06/23/100-dias-da-elei%C3%A7%C3%A3o-veja-as-principais-datas-do-calend%C3%A1rio-eleitoral)
+- [4º suspeito de matar Dom e Bruno se entrega à polícia em SP](https://www.nexojornal.com.br/extra/2022/06/23/4%C2%BA-suspeito-de-matar-Dom-e-Bruno-se-entrega-%C3%A0-pol%C3%ADcia-em-SP)
+- [Assaltantes armados atacam agência bancária em Itajubá](https://www.nexojornal.com.br/extra/2022/06/23/Assaltantes-armados-atacam-ag%C3%AAncia-banc%C3%A1ria-em-Itajub%C3%A1)
+- [Ex-modelo e escritora, Danuza Leão morre aos 88 no Rio de Janeiro](https://www.nexojornal.com.br/extra/2022/06/23/Ex-modelo-e-escritora-Danuza-Le%C3%A3o-morre-aos-88-no-Rio-de-Janeiro)
+- [Como a prisão do ex-ministro de Bolsonaro impacta sua campanha](https://www.nexojornal.com.br/expresso/2022/06/23/Como-a-pris%C3%A3o-do-ex-ministro-de-Bolsonaro-impacta-sua-campanha)
+- [Quantas espécies de inseto existem e quantas estão sumindo](https://www.nexojornal.com.br/grafico/2022/06/22/Quantas-esp%C3%A9cies-de-inseto-existem-e-quantas-est%C3%A3o-sumindo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
