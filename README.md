@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Menina que foi estuprada conseguiu abortar, diz Procuradoria](https://www.nexojornal.com.br/extra/2022/06/23/Menina-que-foi-estuprada-conseguiu-abortar-diz-Procuradoria)
-- [Como o Brics se reposiciona com a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/06/23/Como-o-Brics-se-reposiciona-com-a-guerra-na-Ucr%C3%A2nia)
-- [Juiz manda soltar Milton Ribeiro e outros 4 presos pela PF](https://www.nexojornal.com.br/extra/2022/06/23/Juiz-manda-soltar-Milton-Ribeiro-e-outros-4-presos-pela-PF)
-- [4º suspeito de matar Dom e Bruno se entrega à polícia em SP](https://www.nexojornal.com.br/extra/2022/06/23/4%C2%BA-suspeito-de-matar-Dom-e-Bruno-se-entrega-%C3%A0-pol%C3%ADcia-em-SP)
-- [Assaltantes armados atacam agência bancária em Itajubá](https://www.nexojornal.com.br/extra/2022/06/23/Assaltantes-armados-atacam-ag%C3%AAncia-banc%C3%A1ria-em-Itajub%C3%A1)
+- [Como a prisão do ex-ministro de Bolsonaro impacta sua campanha](https://www.nexojornal.com.br/expresso/2022/06/23/Como-a-pris%C3%A3o-do-ex-ministro-de-Bolsonaro-impacta-sua-campanha)
+- [Quantas espécies de inseto existem e quantas estão sumindo](https://www.nexojornal.com.br/grafico/2022/06/22/Quantas-esp%C3%A9cies-de-inseto-existem-e-quantas-est%C3%A3o-sumindo)
+- [Qual a história e a importância de Kaliningrado para a Rússia](https://www.nexojornal.com.br/expresso/2022/06/22/Qual-a-hist%C3%B3ria-e-a-import%C3%A2ncia-de-Kaliningrado-para-a-R%C3%BAssia)
+- [Escândalo do MEC: das suspeitas de propina à prisão do ex-ministro](https://www.nexojornal.com.br/podcast/2022/06/22/Esc%C3%A2ndalo-do-MEC-das-suspeitas-de-propina-%C3%A0-pris%C3%A3o-do-ex-ministro)
+- [Orçamento secreto: uma arma nuclear institucional](https://www.nexojornal.com.br/colunistas/2022/Or%C3%A7amento-secreto-uma-arma-nuclear-institucional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
