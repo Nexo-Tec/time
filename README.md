@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A situação do plano de reeleição de Bolsonaro a 100 dias do voto](https://www.nexojornal.com.br/expresso/2022/06/24/A-situa%C3%A7%C3%A3o-do-plano-de-reelei%C3%A7%C3%A3o-de-Bolsonaro-a-100-dias-do-voto)
-- [As pressões em torno das investigações do ‘balcão do MEC’](https://www.nexojornal.com.br/expresso/2022/06/24/As-press%C3%B5es-em-torno-das-investiga%C3%A7%C3%B5es-do-%E2%80%98balc%C3%A3o-do-MEC%E2%80%99)
-- [As pontes que Sergio Moro queimou na sua empreitada política](https://www.nexojornal.com.br/expresso/2022/06/23/As-pontes-que-Sergio-Moro-queimou-na-sua-empreitada-pol%C3%ADtica)
-- [100 dias da eleição: veja as principais datas do calendário eleitoral](https://www.nexojornal.com.br/grafico/2022/06/23/100-dias-da-elei%C3%A7%C3%A3o-veja-as-principais-datas-do-calend%C3%A1rio-eleitoral)
-- [Quem lê tanta notícia? O desinteresse dos jovens pelo noticiário](https://www.nexojornal.com.br/colunistas/2022/Quem-l%C3%AA-tanta-not%C3%ADcia-O-desinteresse-dos-jovens-pelo-notici%C3%A1rio)
+- [Menina que foi estuprada conseguiu abortar, diz Procuradoria](https://www.nexojornal.com.br/extra/2022/06/23/Menina-que-foi-estuprada-conseguiu-abortar-diz-Procuradoria)
+- [Como o Brics se reposiciona com a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/06/23/Como-o-Brics-se-reposiciona-com-a-guerra-na-Ucr%C3%A2nia)
+- [Juiz manda soltar Milton Ribeiro e outros 4 presos pela PF](https://www.nexojornal.com.br/extra/2022/06/23/Juiz-manda-soltar-Milton-Ribeiro-e-outros-4-presos-pela-PF)
+- [4º suspeito de matar Dom e Bruno se entrega à polícia em SP](https://www.nexojornal.com.br/extra/2022/06/23/4%C2%BA-suspeito-de-matar-Dom-e-Bruno-se-entrega-%C3%A0-pol%C3%ADcia-em-SP)
+- [Assaltantes armados atacam agência bancária em Itajubá](https://www.nexojornal.com.br/extra/2022/06/23/Assaltantes-armados-atacam-ag%C3%AAncia-banc%C3%A1ria-em-Itajub%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
