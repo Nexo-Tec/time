@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Orçamento público e combate às desigualdades](https://pp.nexojornal.com.br/bibliografia-basica/2022/06/21/Or%C3%A7amento-p%C3%BAblico-e-combate-%C3%A0s-desigualdades)
-- [A urna eletrônica e o processo eleitoral devem ser defendidos](https://pp.nexojornal.com.br/opiniao/2022/A-urna-eletr%C3%B4nica-e-o-processo-eleitoral-devem-ser-defendidos)
-- [O IPTU como instrumento de arrecadação e equidade tributária nas cidades, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-IPTU-como-instrumento-de-arrecada%C3%A7%C3%A3o-e-equidade-tribut%C3%A1ria-nas-cidades-em-5-pontos)
-- [Como restaurar fazendas abandonadas pode mitigar as mudanças climáticas](https://pp.nexojornal.com.br/topico/2022/06/15/Como-restaurar-fazendas-abandonadas-pode-mitigar-as-mudan%C3%A7as-clim%C3%A1ticas)
-- [10 pontos sobre servidores públicos no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/10-pontos-sobre-servidores-p%C3%BAblicos-no-Brasil)
+- [Meritocracia para quem? A interseção entre renda, raça e desempenho no Enem](https://pp.nexojornal.com.br/opiniao/2022/Meritocracia-para-quem-A-interse%C3%A7%C3%A3o-entre-renda-ra%C3%A7a-e-desempenho-no-Enem)
+- [A influência da questão de gênero na alimentação das mulheres, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-influ%C3%AAncia-da-quest%C3%A3o-de-g%C3%AAnero-na-alimenta%C3%A7%C3%A3o-das-mulheres-em-6-pontos)
+- [O quê o ativismo trans e travesti nos ensina sobre o futuro da democracia brasileira](https://pp.nexojornal.com.br/opiniao/2022/O-qu%C3%AA-o-ativismo-trans-e-travesti-nos-ensina-sobre-o-futuro-da-democracia-brasileira)
+- [Fundação Cultural Palmares: presidentes e ações](https://pp.nexojornal.com.br/linha-do-tempo/2022/Funda%C3%A7%C3%A3o-Cultural-Palmares-presidentes-e-a%C3%A7%C3%B5es)
+- [A questão racial nas eleições de 2022: um ano chave](https://pp.nexojornal.com.br/opiniao/2022/A-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-de-2022-um-ano-chave)
 <!-- PP_LIST:END -->
 
