@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Inep confirma corte de R$ 81,2 milhões no Enem](https://www.nexojornal.com.br/extra/2022/06/24/Inep-confirma-corte-de-R-812-milh%C3%B5es-no-Enem)
-- [Cientistas descobrem maior bactéria do mundo visível a olho nu](https://www.nexojornal.com.br/extra/2022/06/24/Cientistas-descobrem-maior-bact%C3%A9ria-do-mundo-vis%C3%ADvel-a-olho-nu)
-- [Bolsonaro diz que aumentará Auxílio Brasil para R$ 600](https://www.nexojornal.com.br/extra/2022/06/24/Bolsonaro-diz-que-aumentar%C3%A1-Aux%C3%ADlio-Brasil-para-R-600)
-- [Incêndio em centro para dependentes químicos deixa 11 mortos no RS](https://www.nexojornal.com.br/extra/2022/06/24/Inc%C3%AAndio-em-centro-para-dependentes-qu%C3%ADmicos-deixa-11-mortos-no-RS)
-- [Os motivos por trás do primeiro fiasco comercial da Pixar](https://www.nexojornal.com.br/expresso/2022/06/24/Os-motivos-por-tr%C3%A1s-do-primeiro-fiasco-comercial-da-Pixar)
+- [A situação do plano de reeleição de Bolsonaro a 100 dias do voto](https://www.nexojornal.com.br/expresso/2022/06/24/A-situa%C3%A7%C3%A3o-do-plano-de-reelei%C3%A7%C3%A3o-de-Bolsonaro-a-100-dias-do-voto)
+- [As pressões em torno das investigações do ‘balcão do MEC’](https://www.nexojornal.com.br/expresso/2022/06/24/As-press%C3%B5es-em-torno-das-investiga%C3%A7%C3%B5es-do-%E2%80%98balc%C3%A3o-do-MEC%E2%80%99)
+- [As pontes que Sergio Moro queimou na sua empreitada política](https://www.nexojornal.com.br/expresso/2022/06/23/As-pontes-que-Sergio-Moro-queimou-na-sua-empreitada-pol%C3%ADtica)
+- [100 dias da eleição: veja as principais datas do calendário eleitoral](https://www.nexojornal.com.br/grafico/2022/06/23/100-dias-da-elei%C3%A7%C3%A3o-veja-as-principais-datas-do-calend%C3%A1rio-eleitoral)
+- [Quem lê tanta notícia? O desinteresse dos jovens pelo noticiário](https://www.nexojornal.com.br/colunistas/2022/Quem-l%C3%AA-tanta-not%C3%ADcia-O-desinteresse-dos-jovens-pelo-notici%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
