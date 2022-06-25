@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Inep confirma corte de R$ 81,2 milhões no Enem](https://www.nexojornal.com.br/extra/2022/06/24/Inep-confirma-corte-de-R-812-milh%C3%B5es-no-Enem)
-- [Cientistas descobrem maior bactéria do mundo visível a olho nu](https://www.nexojornal.com.br/extra/2022/06/24/Cientistas-descobrem-maior-bact%C3%A9ria-do-mundo-vis%C3%ADvel-a-olho-nu)
-- [Bolsonaro diz que aumentará Auxílio Brasil para R$ 600](https://www.nexojornal.com.br/extra/2022/06/24/Bolsonaro-diz-que-aumentar%C3%A1-Aux%C3%ADlio-Brasil-para-R-600)
 - [Incêndio em centro para dependentes químicos deixa 11 mortos no RS](https://www.nexojornal.com.br/extra/2022/06/24/Inc%C3%AAndio-em-centro-para-dependentes-qu%C3%ADmicos-deixa-11-mortos-no-RS)
 - [Os motivos por trás do primeiro fiasco comercial da Pixar](https://www.nexojornal.com.br/expresso/2022/06/24/Os-motivos-por-tr%C3%A1s-do-primeiro-fiasco-comercial-da-Pixar)
+- [Ex-jogador Richarlyson declara ser bissexual](https://www.nexojornal.com.br/extra/2022/06/24/Ex-jogador-Richarlyson-declara-ser-bissexual)
+- [Bolsonaro confronta a lei e ataca aborto em criança de 11 anos](https://www.nexojornal.com.br/extra/2022/06/24/Bolsonaro-confronta-a-lei-e-ataca-aborto-em-crian%C3%A7a-de-11-anos)
+- [Suprema Corte dos EUA derruba direito ao aborto no país](https://www.nexojornal.com.br/extra/2022/06/24/Suprema-Corte-dos-EUA-derruba-direito-ao-aborto-no-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
