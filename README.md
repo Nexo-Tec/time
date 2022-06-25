@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Incêndio em centro para dependentes químicos deixa 11 mortos no RS](https://www.nexojornal.com.br/extra/2022/06/24/Inc%C3%AAndio-em-centro-para-dependentes-qu%C3%ADmicos-deixa-11-mortos-no-RS)
-- [Os motivos por trás do primeiro fiasco comercial da Pixar](https://www.nexojornal.com.br/expresso/2022/06/24/Os-motivos-por-tr%C3%A1s-do-primeiro-fiasco-comercial-da-Pixar)
-- [Ex-jogador Richarlyson declara ser bissexual](https://www.nexojornal.com.br/extra/2022/06/24/Ex-jogador-Richarlyson-declara-ser-bissexual)
-- [Bolsonaro confronta a lei e ataca aborto em criança de 11 anos](https://www.nexojornal.com.br/extra/2022/06/24/Bolsonaro-confronta-a-lei-e-ataca-aborto-em-crian%C3%A7a-de-11-anos)
-- [Suprema Corte dos EUA derruba direito ao aborto no país](https://www.nexojornal.com.br/extra/2022/06/24/Suprema-Corte-dos-EUA-derruba-direito-ao-aborto-no-pa%C3%ADs)
+- [Suspensão do aborto nos EUA: os efeitos dentro e fora do país](https://www.nexojornal.com.br/expresso/2022/06/24/Suspens%C3%A3o-do-aborto-nos-EUA-os-efeitos-dentro-e-fora-do-pa%C3%ADs)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/24/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Bolsa de valores: história, funcionamento e crises](https://www.nexojornal.com.br/explicado/2022/06/24/Bolsa-de-valores-hist%C3%B3ria-funcionamento-e-crises)
+- [Mais incertezas nos recursos da ciência](https://www.nexojornal.com.br/externo/2022/06/24/Mais-incertezas-nos-recursos-da-ci%C3%AAncia)
+- [Um gerador gratuito de exercícios de matemática](https://www.nexojornal.com.br/expresso/2022/06/24/Um-gerador-gratuito-de-exerc%C3%ADcios-de-matem%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
