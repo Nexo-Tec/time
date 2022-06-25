@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Inep confirma corte de R$ 81,2 milhões no Enem](https://www.nexojornal.com.br/extra/2022/06/24/Inep-confirma-corte-de-R-812-milh%C3%B5es-no-Enem)
-- [Cientistas descobrem maior bactéria do mundo visível a olho nu](https://www.nexojornal.com.br/extra/2022/06/24/Cientistas-descobrem-maior-bact%C3%A9ria-do-mundo-vis%C3%ADvel-a-olho-nu)
-- [Bolsonaro diz que aumentará Auxílio Brasil para R$ 600](https://www.nexojornal.com.br/extra/2022/06/24/Bolsonaro-diz-que-aumentar%C3%A1-Aux%C3%ADlio-Brasil-para-R-600)
-- [Incêndio em centro para dependentes químicos deixa 11 mortos no RS](https://www.nexojornal.com.br/extra/2022/06/24/Inc%C3%AAndio-em-centro-para-dependentes-qu%C3%ADmicos-deixa-11-mortos-no-RS)
-- [Os motivos por trás do primeiro fiasco comercial da Pixar](https://www.nexojornal.com.br/expresso/2022/06/24/Os-motivos-por-tr%C3%A1s-do-primeiro-fiasco-comercial-da-Pixar)
+- [Ataque a tiros em bar LGBTI+ em Oslo deixa dois mortos](https://www.nexojornal.com.br/extra/2022/06/25/Ataque-a-tiros-em-bar-LGBTI-em-Oslo-deixa-dois-mortos)
+- [Suspensão do aborto nos EUA: os efeitos dentro e fora do país](https://www.nexojornal.com.br/expresso/2022/06/24/Suspens%C3%A3o-do-aborto-nos-EUA-os-efeitos-dentro-e-fora-do-pa%C3%ADs)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/24/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Bolsa de valores: história, funcionamento e crises](https://www.nexojornal.com.br/explicado/2022/06/24/Bolsa-de-valores-hist%C3%B3ria-funcionamento-e-crises)
+- [Mais incertezas nos recursos da ciência](https://www.nexojornal.com.br/externo/2022/06/24/Mais-incertezas-nos-recursos-da-ci%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
