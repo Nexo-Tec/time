@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Maurício Pereira](https://gamarevista.uol.com.br/pessoas/questionario-proust/mauricio-pereira/)
 - [Encha a taça com o líquido do além mar](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/encha-a-taca-com-o-liquido-do-alem-mar/)
 - [Santos de Casa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/santos-de-casa/)
 - [CV: Bárbara Colen](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-barbara-colen/)
 - [O som dos 90s e um tema quente em ”Break my Soul”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-som-dos-90s-e-um-tema-quente-em-break-my-soul/)
-- [Filmes e seriados franceses no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-e-seriados-franceses-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
