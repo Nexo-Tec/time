@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Indígena guarani-kaiowá é morto pela polícia em MS](https://www.nexojornal.com.br/extra/2022/06/25/Ind%C3%ADgena-guarani-kaiow%C3%A1-%C3%A9-morto-pela-pol%C3%ADcia-em-MS)
+- [Ataque a tiros em bar LGBTI+ em Oslo deixa dois mortos](https://www.nexojornal.com.br/extra/2022/06/25/Ataque-a-tiros-em-bar-LGBTI-em-Oslo-deixa-dois-mortos)
 - [Suspensão do aborto nos EUA: os efeitos dentro e fora do país](https://www.nexojornal.com.br/expresso/2022/06/24/Suspens%C3%A3o-do-aborto-nos-EUA-os-efeitos-dentro-e-fora-do-pa%C3%ADs)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/24/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [Bolsa de valores: história, funcionamento e crises](https://www.nexojornal.com.br/explicado/2022/06/24/Bolsa-de-valores-hist%C3%B3ria-funcionamento-e-crises)
-- [Mais incertezas nos recursos da ciência](https://www.nexojornal.com.br/externo/2022/06/24/Mais-incertezas-nos-recursos-da-ci%C3%AAncia)
-- [Um gerador gratuito de exercícios de matemática](https://www.nexojornal.com.br/expresso/2022/06/24/Um-gerador-gratuito-de-exerc%C3%ADcios-de-matem%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
