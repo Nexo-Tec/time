@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Indígena guarani-kaiowá é morto pela polícia em MS](https://www.nexojornal.com.br/extra/2022/06/25/Ind%C3%ADgena-guarani-kaiow%C3%A1-%C3%A9-morto-pela-pol%C3%ADcia-em-MS)
-- [Ataque a tiros em bar LGBTI+ em Oslo deixa dois mortos](https://www.nexojornal.com.br/extra/2022/06/25/Ataque-a-tiros-em-bar-LGBTI-em-Oslo-deixa-dois-mortos)
-- [Suspensão do aborto nos EUA: os efeitos dentro e fora do país](https://www.nexojornal.com.br/expresso/2022/06/24/Suspens%C3%A3o-do-aborto-nos-EUA-os-efeitos-dentro-e-fora-do-pa%C3%ADs)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/06/24/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Bolsa de valores: história, funcionamento e crises](https://www.nexojornal.com.br/explicado/2022/06/24/Bolsa-de-valores-hist%C3%B3ria-funcionamento-e-crises)
+- [7 pontos-chave para entender o escândalo do MEC](https://www.nexojornal.com.br/expresso/2022/06/25/7-pontos-chave-para-entender-o-esc%C3%A2ndalo-do-MEC)
+- [Por que as pessoas dão ‘ghosting’ nas redes sociais](https://www.nexojornal.com.br/externo/2022/06/25/Por-que-as-pessoas-d%C3%A3o-%E2%80%98ghosting%E2%80%99-nas-redes-sociais)
+- [Varíola dos macacos não é emergência global, diz OMS](https://www.nexojornal.com.br/extra/2022/06/25/Var%C3%ADola-dos-macacos-n%C3%A3o-%C3%A9-emerg%C3%AAncia-global-diz-OMS)
+- [STJ autoriza retomada de apuração sobre gastos da Lava Jato](https://www.nexojornal.com.br/extra/2022/06/25/STJ-autoriza-retomada-de-apura%C3%A7%C3%A3o-sobre-gastos-da-Lava-Jato)
+- [5 livros que tratam de amor e solidão em psicanálise](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-tratam-de-amor-e-solid%C3%A3o-em-psican%C3%A1lise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
