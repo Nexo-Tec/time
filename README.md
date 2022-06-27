@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arquibancada cai em tourada na Colômbia e deixa mortos](https://www.nexojornal.com.br/extra/2022/06/26/Arquibancada-cai-em-tourada-na-Col%C3%B4mbia-e-deixa-mortos)
-- [MEC: pastor e funcionário estiveram no mesmo hotel](https://www.nexojornal.com.br/extra/2022/06/26/MEC-pastor-e-funcion%C3%A1rio-estiveram-no-mesmo-hotel)
-- [‘A cultura pop funciona como um vetor do debate político’](https://www.nexojornal.com.br/entrevista/2022/06/26/%E2%80%98A-cultura-pop-funciona-como-um-vetor-do-debate-pol%C3%ADtico%E2%80%99)
-- [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
-- [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
+- [7 pontos-chave para entender o escândalo do MEC](https://www.nexojornal.com.br/expresso/2022/06/25/7-pontos-chave-para-entender-o-esc%C3%A2ndalo-do-MEC)
+- [Por que as pessoas dão ‘ghosting’ nas redes sociais](https://www.nexojornal.com.br/externo/2022/06/25/Por-que-as-pessoas-d%C3%A3o-%E2%80%98ghosting%E2%80%99-nas-redes-sociais)
+- [Varíola dos macacos não é emergência global, diz OMS](https://www.nexojornal.com.br/extra/2022/06/25/Var%C3%ADola-dos-macacos-n%C3%A3o-%C3%A9-emerg%C3%AAncia-global-diz-OMS)
+- [STJ autoriza retomada de apuração sobre gastos da Lava Jato](https://www.nexojornal.com.br/extra/2022/06/25/STJ-autoriza-retomada-de-apura%C3%A7%C3%A3o-sobre-gastos-da-Lava-Jato)
+- [5 livros que tratam de amor e solidão em psicanálise](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-tratam-de-amor-e-solid%C3%A3o-em-psican%C3%A1lise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
