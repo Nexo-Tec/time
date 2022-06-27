@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [7 pontos-chave para entender o escândalo do MEC](https://www.nexojornal.com.br/expresso/2022/06/25/7-pontos-chave-para-entender-o-esc%C3%A2ndalo-do-MEC)
-- [Por que as pessoas dão ‘ghosting’ nas redes sociais](https://www.nexojornal.com.br/externo/2022/06/25/Por-que-as-pessoas-d%C3%A3o-%E2%80%98ghosting%E2%80%99-nas-redes-sociais)
-- [Varíola dos macacos não é emergência global, diz OMS](https://www.nexojornal.com.br/extra/2022/06/25/Var%C3%ADola-dos-macacos-n%C3%A3o-%C3%A9-emerg%C3%AAncia-global-diz-OMS)
-- [STJ autoriza retomada de apuração sobre gastos da Lava Jato](https://www.nexojornal.com.br/extra/2022/06/25/STJ-autoriza-retomada-de-apura%C3%A7%C3%A3o-sobre-gastos-da-Lava-Jato)
-- [5 livros que tratam de amor e solidão em psicanálise](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-tratam-de-amor-e-solid%C3%A3o-em-psican%C3%A1lise)
+- [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
+- [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
+- [Família e amigos se despedem do jornalista Dom Phillips](https://www.nexojornal.com.br/extra/2022/06/26/Fam%C3%ADlia-e-amigos-se-despedem-do-jornalista-Dom-Phillips)
+- [África do Sul investiga ao menos 22 mortes em bar](https://www.nexojornal.com.br/extra/2022/06/26/%C3%81frica-do-Sul-investiga-ao-menos-22-mortes-em-bar)
+- [Vítima de estupro, atriz tem doação de bebê exposta](https://www.nexojornal.com.br/extra/2022/06/26/V%C3%ADtima-de-estupro-atriz-tem-doa%C3%A7%C3%A3o-de-beb%C3%AA-exposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
