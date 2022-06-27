@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros que tratam de amor e solidão em psicanálise](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-tratam-de-amor-e-solid%C3%A3o-em-psican%C3%A1lise)
-- [‘EUA têm de se preocupar com futuro da própria democracia’](https://www.nexojornal.com.br/entrevista/2022/06/25/%E2%80%98EUA-t%C3%AAm-de-se-preocupar-com-futuro-da-pr%C3%B3pria-democracia%E2%80%99)
-- [Oito décadas de música: os 80 anos de Gilberto Gil](https://www.nexojornal.com.br/grafico/2022/06/25/Oito-d%C3%A9cadas-de-m%C3%BAsica-os-80-anos-de-Gilberto-Gil)
-- [Diário de uma facção: as diferentes versões do PCC](https://www.nexojornal.com.br/ensaio/2022/Di%C3%A1rio-de-uma-fac%C3%A7%C3%A3o-as-diferentes-vers%C3%B5es-do-PCC)
-- [Bolsonaro estava com ministro da Justiça no dia de áudio de Ribeiro](https://www.nexojornal.com.br/extra/2022/06/25/Bolsonaro-estava-com-ministro-da-Justi%C3%A7a-no-dia-de-%C3%A1udio-de-Ribeiro)
+- [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
+- [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
+- [Família e amigos se despedem do jornalista Dom Phillips](https://www.nexojornal.com.br/extra/2022/06/26/Fam%C3%ADlia-e-amigos-se-despedem-do-jornalista-Dom-Phillips)
+- [África do Sul investiga ao menos 22 mortes em bar](https://www.nexojornal.com.br/extra/2022/06/26/%C3%81frica-do-Sul-investiga-ao-menos-22-mortes-em-bar)
+- [Vítima de estupro, atriz tem doação de bebê exposta](https://www.nexojornal.com.br/extra/2022/06/26/V%C3%ADtima-de-estupro-atriz-tem-doa%C3%A7%C3%A3o-de-beb%C3%AA-exposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
