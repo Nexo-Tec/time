@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arquibancada cai em tourada na Colômbia e deixa mortos](https://www.nexojornal.com.br/extra/2022/06/26/Arquibancada-cai-em-tourada-na-Col%C3%B4mbia-e-deixa-mortos)
+- [Arquibancada cai em tourada na Colômbia e deixa 4 mortos](https://www.nexojornal.com.br/extra/2022/06/26/Arquibancada-cai-em-tourada-na-Col%C3%B4mbia-e-deixa-4-mortos)
 - [MEC: pastor e funcionário estiveram no mesmo hotel](https://www.nexojornal.com.br/extra/2022/06/26/MEC-pastor-e-funcion%C3%A1rio-estiveram-no-mesmo-hotel)
 - [‘A cultura pop funciona como um vetor do debate político’](https://www.nexojornal.com.br/entrevista/2022/06/26/%E2%80%98A-cultura-pop-funciona-como-um-vetor-do-debate-pol%C3%ADtico%E2%80%99)
 - [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
