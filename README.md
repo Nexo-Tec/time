@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
-- [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
-- [Família e amigos se despedem do jornalista Dom Phillips](https://www.nexojornal.com.br/extra/2022/06/26/Fam%C3%ADlia-e-amigos-se-despedem-do-jornalista-Dom-Phillips)
-- [África do Sul investiga ao menos 22 mortes em bar](https://www.nexojornal.com.br/extra/2022/06/26/%C3%81frica-do-Sul-investiga-ao-menos-22-mortes-em-bar)
-- [Vítima de estupro, atriz tem doação de bebê exposta](https://www.nexojornal.com.br/extra/2022/06/26/V%C3%ADtima-de-estupro-atriz-tem-doa%C3%A7%C3%A3o-de-beb%C3%AA-exposta)
+- [Empresa de lançamentos espaciais abre subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-abre-subsidi%C3%A1ria-no-Brasil)
+- [O site que cria uma versão infinita de qualquer música](https://www.nexojornal.com.br/expresso/2022/06/27/O-site-que-cria-uma-vers%C3%A3o-infinita-de-qualquer-m%C3%BAsica)
+- [Procuradoria extingue grupo que acompanharia caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/27/Procuradoria-extingue-grupo-que-acompanharia-caso-Bruno-e-Dom)
+- [Ministra manda Procuradoria decidir sobre investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-manda-Procuradoria-decidir-sobre-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Quais os limites para o jornalismo de fofoca no Brasil](https://www.nexojornal.com.br/expresso/2022/06/27/Quais-os-limites-para-o-jornalismo-de-fofoca-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
