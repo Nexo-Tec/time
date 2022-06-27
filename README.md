@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arquibancada cai em tourada na Colômbia e deixa mortos](https://www.nexojornal.com.br/extra/2022/06/26/Arquibancada-cai-em-tourada-na-Col%C3%B4mbia-e-deixa-mortos)
-- [MEC: pastor e funcionário estiveram no mesmo hotel](https://www.nexojornal.com.br/extra/2022/06/26/MEC-pastor-e-funcion%C3%A1rio-estiveram-no-mesmo-hotel)
-- [‘A cultura pop funciona como um vetor do debate político’](https://www.nexojornal.com.br/entrevista/2022/06/26/%E2%80%98A-cultura-pop-funciona-como-um-vetor-do-debate-pol%C3%ADtico%E2%80%99)
 - [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
 - [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
+- [Família e amigos se despedem do jornalista Dom Phillips](https://www.nexojornal.com.br/extra/2022/06/26/Fam%C3%ADlia-e-amigos-se-despedem-do-jornalista-Dom-Phillips)
+- [África do Sul investiga ao menos 22 mortes em bar](https://www.nexojornal.com.br/extra/2022/06/26/%C3%81frica-do-Sul-investiga-ao-menos-22-mortes-em-bar)
+- [Vítima de estupro, atriz tem doação de bebê exposta](https://www.nexojornal.com.br/extra/2022/06/26/V%C3%ADtima-de-estupro-atriz-tem-doa%C3%A7%C3%A3o-de-beb%C3%AA-exposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
