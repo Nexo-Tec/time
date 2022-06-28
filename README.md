@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como tabus contribuem para a violação de direitos](https://www.nexojornal.com.br/expresso/2022/06/28/Como-tabus-contribuem-para-a-viola%C3%A7%C3%A3o-de-direitos)
-- [O que pode sair de uma CPI do MEC às vésperas da eleição](https://www.nexojornal.com.br/expresso/2022/06/27/O-que-pode-sair-de-uma-CPI-do-MEC-%C3%A0s-v%C3%A9speras-da-elei%C3%A7%C3%A3o)
-- [Por que o calote russo de 2022 é diferente do ocorrido em 1998](https://www.nexojornal.com.br/expresso/2022/06/27/Por-que-o-calote-russo-de-2022-%C3%A9-diferente-do-ocorrido-em-1998)
-- [Otan vai aumentar número de tropas em alerta máximo](https://www.nexojornal.com.br/extra/2022/06/27/Otan-vai-aumentar-n%C3%BAmero-de-tropas-em-alerta-m%C3%A1ximo)
-- [Bolsonaro edita decreto para agilizar ações em período eleitoral](https://www.nexojornal.com.br/extra/2022/06/27/Bolsonaro-edita-decreto-para-agilizar-a%C3%A7%C3%B5es-em-per%C3%ADodo-eleitoral)
+- [Arquibancada cai em tourada na Colômbia e deixa 4 mortos](https://www.nexojornal.com.br/extra/2022/06/26/Arquibancada-cai-em-tourada-na-Col%C3%B4mbia-e-deixa-4-mortos)
+- [MEC: pastor e funcionário estiveram no mesmo hotel](https://www.nexojornal.com.br/extra/2022/06/26/MEC-pastor-e-funcion%C3%A1rio-estiveram-no-mesmo-hotel)
+- [‘A cultura pop funciona como um vetor do debate político’](https://www.nexojornal.com.br/entrevista/2022/06/26/%E2%80%98A-cultura-pop-funciona-como-um-vetor-do-debate-pol%C3%ADtico%E2%80%99)
+- [A violência armada contra crianças e adolescentes no país](https://www.nexojornal.com.br/ensaio/2022/A-viol%C3%AAncia-armada-contra-crian%C3%A7as-e-adolescentes-no-pa%C3%ADs)
+- [O que define uma medida econômica como eleitoreira](https://www.nexojornal.com.br/expresso/2022/06/26/O-que-define-uma-medida-econ%C3%B4mica-como-eleitoreira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
