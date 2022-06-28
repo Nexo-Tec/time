@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O que são e onde ficam as unidades de conservação do Brasil](https://pp.nexojornal.com.br/Dados/2022/06/27/O-que-s%C3%A3o-e-onde-ficam-as-unidades-de-conserva%C3%A7%C3%A3o-do-Brasil)
-- [A trajetória dos modelos integrados de uso do solo e de transportes](https://pp.nexojornal.com.br/linha-do-tempo/2022/A-trajet%C3%B3ria-dos-modelos-integrados-de-uso-do-solo-e-de-transportes)
-- [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas1)
-- [Um oceano além do horizonte](https://pp.nexojornal.com.br/opiniao/2022/Um-oceano-al%C3%A9m-do-horizonte)
-- [Um voto no Sistema Único de Saúde nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/Um-voto-no-Sistema-%C3%9Anico-de-Sa%C3%BAde-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Meritocracia para quem? A interseção entre renda, raça e desempenho no Enem](https://pp.nexojornal.com.br/opiniao/2022/Meritocracia-para-quem-A-interse%C3%A7%C3%A3o-entre-renda-ra%C3%A7a-e-desempenho-no-Enem)
+- [A influência da questão de gênero na alimentação das mulheres, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-influ%C3%AAncia-da-quest%C3%A3o-de-g%C3%AAnero-na-alimenta%C3%A7%C3%A3o-das-mulheres-em-6-pontos)
+- [O quê o ativismo trans e travesti nos ensina sobre o futuro da democracia brasileira](https://pp.nexojornal.com.br/opiniao/2022/O-qu%C3%AA-o-ativismo-trans-e-travesti-nos-ensina-sobre-o-futuro-da-democracia-brasileira)
+- [Fundação Cultural Palmares: presidentes e ações](https://pp.nexojornal.com.br/linha-do-tempo/2022/Funda%C3%A7%C3%A3o-Cultural-Palmares-presidentes-e-a%C3%A7%C3%B5es)
+- [A questão racial nas eleições de 2022: um ano chave](https://pp.nexojornal.com.br/opiniao/2022/A-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-de-2022-um-ano-chave)
 <!-- PP_LIST:END -->
 
