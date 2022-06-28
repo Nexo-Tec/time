@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As apostas do governo para conter a inflação em ano eleitoral](https://www.nexojornal.com.br/podcast/2022/06/27/As-apostas-do-governo-para-conter-a-infla%C3%A7%C3%A3o-em-ano-eleitoral)
-- [Empresa de lançamentos espaciais vai ter subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-vai-ter-subsidi%C3%A1ria-no-Brasil)
-- [O site que cria uma versão infinita de qualquer música](https://www.nexojornal.com.br/expresso/2022/06/27/O-site-que-cria-uma-vers%C3%A3o-infinita-de-qualquer-m%C3%BAsica)
-- [Procuradoria extingue grupo que acompanharia caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/27/Procuradoria-extingue-grupo-que-acompanharia-caso-Bruno-e-Dom)
-- [Ministra envia à Procuradoria pedido de investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-envia-%C3%A0-Procuradoria-pedido-de-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Neymar não está mais nos planos do PSG, diz jornal](https://www.nexojornal.com.br/extra/2022/06/28/Neymar-n%C3%A3o-est%C3%A1-mais-nos-planos-do-PSG-diz-jornal)
+- [Brasil registra aumento de mortes na Amazônia Legal](https://www.nexojornal.com.br/extra/2022/06/28/Brasil-registra-aumento-de-mortes-na-Amaz%C3%B4nia-Legal)
+- [Oposição entrega no Senado pedido para criação de CPI do MEC](https://www.nexojornal.com.br/extra/2022/06/28/Oposi%C3%A7%C3%A3o-entrega-no-Senado-pedido-para-cria%C3%A7%C3%A3o-de-CPI-do-MEC)
+- [Como a Otan passou da ‘morte cerebral’ à refundação](https://www.nexojornal.com.br/expresso/2022/06/28/Como-a-Otan-passou-da-%E2%80%98morte-cerebral%E2%80%99-%C3%A0-refunda%C3%A7%C3%A3o)
+- [Bombeiros encontram 46 cadáveres em caminhão nos EUA](https://www.nexojornal.com.br/extra/2022/06/28/Bombeiros-encontram-46-cad%C3%A1veres-em-caminh%C3%A3o-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
