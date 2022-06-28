@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As apostas do governo para conter a inflação em ano eleitoral](https://www.nexojornal.com.br/podcast/2022/06/27/As-apostas-do-governo-para-conter-a-infla%C3%A7%C3%A3o-em-ano-eleitoral)
-- [Empresa de lançamentos espaciais vai ter subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-vai-ter-subsidi%C3%A1ria-no-Brasil)
-- [O site que cria uma versão infinita de qualquer música](https://www.nexojornal.com.br/expresso/2022/06/27/O-site-que-cria-uma-vers%C3%A3o-infinita-de-qualquer-m%C3%BAsica)
-- [Procuradoria extingue grupo que acompanharia caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/27/Procuradoria-extingue-grupo-que-acompanharia-caso-Bruno-e-Dom)
-- [Ministra envia à Procuradoria pedido de investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-envia-%C3%A0-Procuradoria-pedido-de-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Como tabus contribuem para a violação de direitos](https://www.nexojornal.com.br/expresso/2022/06/28/Como-tabus-contribuem-para-a-viola%C3%A7%C3%A3o-de-direitos)
+- [O que pode sair de uma CPI do MEC às vésperas da eleição](https://www.nexojornal.com.br/expresso/2022/06/27/O-que-pode-sair-de-uma-CPI-do-MEC-%C3%A0s-v%C3%A9speras-da-elei%C3%A7%C3%A3o)
+- [Por que o calote russo de 2022 é diferente do ocorrido em 1998](https://www.nexojornal.com.br/expresso/2022/06/27/Por-que-o-calote-russo-de-2022-%C3%A9-diferente-do-ocorrido-em-1998)
+- [Otan vai aumentar número de tropas em alerta máximo](https://www.nexojornal.com.br/extra/2022/06/27/Otan-vai-aumentar-n%C3%BAmero-de-tropas-em-alerta-m%C3%A1ximo)
+- [Bolsonaro edita decreto para agilizar ações em período eleitoral](https://www.nexojornal.com.br/extra/2022/06/27/Bolsonaro-edita-decreto-para-agilizar-a%C3%A7%C3%B5es-em-per%C3%ADodo-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
