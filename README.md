@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Frigideira de um ovo só](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/frigideira-de-um-ovo-so/)
 - [@mae_le_pra_mim](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mae_le_pra_mim/)
 - [Lucas Bulamah: ‘Um hiperaproveitamento da vida é a marca do nosso tempo’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-lucas-bulamah-fala-da-busca-pelo-prazer-e-ressocializacao/)
 - [Maurício Pereira](https://gamarevista.uol.com.br/pessoas/questionario-proust/mauricio-pereira/)
 - [Encha a taça com o líquido do além mar](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/encha-a-taca-com-o-liquido-do-alem-mar/)
-- [Santos de Casa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/santos-de-casa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
