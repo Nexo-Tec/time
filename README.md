@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As apostas do governo para conter a inflação em ano eleitoral](https://www.nexojornal.com.br/podcast/2022/06/27/As-apostas-do-governo-para-conter-a-infla%C3%A7%C3%A3o-em-ano-eleitoral)
-- [Empresa de lançamentos espaciais vai ter subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-vai-ter-subsidi%C3%A1ria-no-Brasil)
+- [Empresa de lançamentos espaciais abre subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-abre-subsidi%C3%A1ria-no-Brasil)
 - [O site que cria uma versão infinita de qualquer música](https://www.nexojornal.com.br/expresso/2022/06/27/O-site-que-cria-uma-vers%C3%A3o-infinita-de-qualquer-m%C3%BAsica)
 - [Procuradoria extingue grupo que acompanharia caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/27/Procuradoria-extingue-grupo-que-acompanharia-caso-Bruno-e-Dom)
-- [Ministra envia à Procuradoria pedido de investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-envia-%C3%A0-Procuradoria-pedido-de-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Ministra manda Procuradoria decidir sobre investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-manda-Procuradoria-decidir-sobre-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
+- [Quais os limites para o jornalismo de fofoca no Brasil](https://www.nexojornal.com.br/expresso/2022/06/27/Quais-os-limites-para-o-jornalismo-de-fofoca-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
