@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas2)
+- [Precisamos falar sobre clima nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/Precisamos-falar-sobre-clima-nas-elei%C3%A7%C3%B5es-de-20221)
 - [O que são e onde ficam as unidades de conservação do Brasil](https://pp.nexojornal.com.br/Dados/2022/06/27/O-que-s%C3%A3o-e-onde-ficam-as-unidades-de-conserva%C3%A7%C3%A3o-do-Brasil)
 - [A trajetória dos modelos integrados de uso do solo e de transportes](https://pp.nexojornal.com.br/linha-do-tempo/2022/A-trajet%C3%B3ria-dos-modelos-integrados-de-uso-do-solo-e-de-transportes)
-- [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas1)
 - [Um oceano além do horizonte](https://pp.nexojornal.com.br/opiniao/2022/Um-oceano-al%C3%A9m-do-horizonte)
-- [Um voto no Sistema Único de Saúde nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/Um-voto-no-Sistema-%C3%9Anico-de-Sa%C3%BAde-nas-elei%C3%A7%C3%B5es-de-2022)
 <!-- PP_LIST:END -->
 
