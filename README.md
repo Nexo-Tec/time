@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Evita’ no Brasil: como o ícone argentino inspira teatro e cinema](https://www.nexojornal.com.br/expresso/2022/06/28/%E2%80%98Evita%E2%80%99-no-Brasil-como-o-%C3%ADcone-argentino-inspira-teatro-e-cinema)
-- [Casos de estupro em LGBTI+ tem aumento de 88,4%](https://www.nexojornal.com.br/extra/2022/06/28/Casos-de-estupro-em-LGBTI-tem-aumento-de-884)
-- [O plano do Congresso para manter em 2023 o ‘orçamento secreto’](https://www.nexojornal.com.br/podcast/2022/06/28/O-plano-do-Congresso-para-manter-em-2023-o-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
-- [Aos 101 anos, ex-guarda nazista é condenado à prisão](https://www.nexojornal.com.br/extra/2022/06/28/Aos-101-anos-ex-guarda-nazista-%C3%A9-condenado-%C3%A0-pris%C3%A3o)
-- [Fundo eleitoral em 2022 chega a quase R$ 5 bilhões](https://www.nexojornal.com.br/grafico/2022/06/28/Fundo-eleitoral-em-2022-chega-a-quase-R-5-bilh%C3%B5es)
+- [As apostas do governo para conter a inflação em ano eleitoral](https://www.nexojornal.com.br/podcast/2022/06/27/As-apostas-do-governo-para-conter-a-infla%C3%A7%C3%A3o-em-ano-eleitoral)
+- [Empresa de lançamentos espaciais vai ter subsidiária no Brasil](https://www.nexojornal.com.br/extra/2022/06/27/Empresa-de-lan%C3%A7amentos-espaciais-vai-ter-subsidi%C3%A1ria-no-Brasil)
+- [O site que cria uma versão infinita de qualquer música](https://www.nexojornal.com.br/expresso/2022/06/27/O-site-que-cria-uma-vers%C3%A3o-infinita-de-qualquer-m%C3%BAsica)
+- [Procuradoria extingue grupo que acompanharia caso Bruno e Dom](https://www.nexojornal.com.br/extra/2022/06/27/Procuradoria-extingue-grupo-que-acompanharia-caso-Bruno-e-Dom)
+- [Ministra envia à Procuradoria pedido de investigação contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/06/27/Ministra-envia-%C3%A0-Procuradoria-pedido-de-investiga%C3%A7%C3%A3o-contra-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
