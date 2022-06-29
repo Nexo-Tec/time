@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Pacote de bondades’ do governo prevê R$ 38,75 bi acima do teto](https://www.nexojornal.com.br/extra/2022/06/29/%E2%80%98Pacote-de-bondades%E2%80%99-do-governo-prev%C3%AA-R-3875-bi-acima-do-teto)
-- [Piquet pede desculpas por fala racista contra Hamilton](https://www.nexojornal.com.br/extra/2022/06/29/Piquet-pede-desculpas-por-fala-racista-contra-Hamilton)
-- [Polícia prende torcedores do Boca por racismo contra corintianos](https://www.nexojornal.com.br/extra/2022/06/29/Pol%C3%ADcia-prende-torcedores-do-Boca-por-racismo-contra-corintianos)
-- [Uma audiência pública sem espírito público](https://www.nexojornal.com.br/ensaio/2022/Uma-audi%C3%AAncia-p%C3%BAblica-sem-esp%C3%ADrito-p%C3%BAblico)
-- [Motoristas de ônibus fazem nova greve em São Paulo](https://www.nexojornal.com.br/extra/2022/06/29/Motoristas-de-%C3%B4nibus-fazem-nova-greve-em-S%C3%A3o-Paulo)
+- [Como o Ministério da Saúde propõe entraves ao aborto legal](https://www.nexojornal.com.br/expresso/2022/06/28/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-prop%C3%B5e-entraves-ao-aborto-legal)
+- [Por que o estupro é um problema de infância. E como combatê-lo](https://www.nexojornal.com.br/expresso/2022/06/28/Por-que-o-estupro-%C3%A9-um-problema-de-inf%C3%A2ncia.-E-como-combat%C3%AA-lo)
+- [Concessão do Pacaembu: história, projeto e disputa](https://www.nexojornal.com.br/reportagem/2022/06/28/Concess%C3%A3o-do-Pacaembu-hist%C3%B3ria-projeto-e-disputa)
+- [MEC: Delegado que prendeu Ribeiro é transferido](https://www.nexojornal.com.br/extra/2022/06/28/MEC-Delegado-que-prendeu-Ribeiro-%C3%A9-transferido)
+- [Estados acionam STF contra limite ao ICMS](https://www.nexojornal.com.br/extra/2022/06/28/Estados-acionam-STF-contra-limite-ao-ICMS)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
