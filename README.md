@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Ministério da Saúde propõe entraves ao aborto legal](https://www.nexojornal.com.br/expresso/2022/06/28/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-prop%C3%B5e-entraves-ao-aborto-legal)
-- [Por que o estupro é um problema de infância. E como combatê-lo](https://www.nexojornal.com.br/expresso/2022/06/28/Por-que-o-estupro-%C3%A9-um-problema-de-inf%C3%A2ncia.-E-como-combat%C3%AA-lo)
-- [Concessão do Pacaembu: história, projeto e disputa](https://www.nexojornal.com.br/reportagem/2022/06/28/Concess%C3%A3o-do-Pacaembu-hist%C3%B3ria-projeto-e-disputa)
-- [MEC: Delegado que prendeu Ribeiro é transferido](https://www.nexojornal.com.br/extra/2022/06/28/MEC-Delegado-que-prendeu-Ribeiro-%C3%A9-transferido)
-- [Estados acionam STF contra limite ao ICMS](https://www.nexojornal.com.br/extra/2022/06/28/Estados-acionam-STF-contra-limite-ao-ICMS)
+- [Neymar não está mais nos planos do PSG, diz jornal](https://www.nexojornal.com.br/extra/2022/06/28/Neymar-n%C3%A3o-est%C3%A1-mais-nos-planos-do-PSG-diz-jornal)
+- [Brasil registra aumento de mortes na Amazônia Legal](https://www.nexojornal.com.br/extra/2022/06/28/Brasil-registra-aumento-de-mortes-na-Amaz%C3%B4nia-Legal)
+- [Oposição entrega no Senado pedido para criação de CPI do MEC](https://www.nexojornal.com.br/extra/2022/06/28/Oposi%C3%A7%C3%A3o-entrega-no-Senado-pedido-para-cria%C3%A7%C3%A3o-de-CPI-do-MEC)
+- [Como a Otan passou da ‘morte cerebral’ à refundação](https://www.nexojornal.com.br/expresso/2022/06/28/Como-a-Otan-passou-da-%E2%80%98morte-cerebral%E2%80%99-%C3%A0-refunda%C3%A7%C3%A3o)
+- [Bombeiros encontram 46 cadáveres em caminhão nos EUA](https://www.nexojornal.com.br/extra/2022/06/28/Bombeiros-encontram-46-cad%C3%A1veres-em-caminh%C3%A3o-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
