@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Ministério da Saúde propõe entraves ao aborto legal](https://www.nexojornal.com.br/expresso/2022/06/28/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-prop%C3%B5e-entraves-ao-aborto-legal)
-- [Por que o estupro é um problema de infância. E como combatê-lo](https://www.nexojornal.com.br/expresso/2022/06/28/Por-que-o-estupro-%C3%A9-um-problema-de-inf%C3%A2ncia.-E-como-combat%C3%AA-lo)
-- [Concessão do Pacaembu: história, projeto e disputa](https://www.nexojornal.com.br/reportagem/2022/06/28/Concess%C3%A3o-do-Pacaembu-hist%C3%B3ria-projeto-e-disputa)
-- [MEC: Delegado que prendeu Ribeiro é transferido](https://www.nexojornal.com.br/extra/2022/06/28/MEC-Delegado-que-prendeu-Ribeiro-%C3%A9-transferido)
-- [Estados acionam STF contra limite ao ICMS](https://www.nexojornal.com.br/extra/2022/06/28/Estados-acionam-STF-contra-limite-ao-ICMS)
+- [‘Evita’ no Brasil: como o ícone argentino inspira teatro e cinema](https://www.nexojornal.com.br/expresso/2022/06/28/%E2%80%98Evita%E2%80%99-no-Brasil-como-o-%C3%ADcone-argentino-inspira-teatro-e-cinema)
+- [Casos de estupro em LGBTI+ tem aumento de 88,4%](https://www.nexojornal.com.br/extra/2022/06/28/Casos-de-estupro-em-LGBTI-tem-aumento-de-884)
+- [O plano do Congresso para manter em 2023 o ‘orçamento secreto’](https://www.nexojornal.com.br/podcast/2022/06/28/O-plano-do-Congresso-para-manter-em-2023-o-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [Aos 101 anos, ex-guarda nazista é condenado à prisão](https://www.nexojornal.com.br/extra/2022/06/28/Aos-101-anos-ex-guarda-nazista-%C3%A9-condenado-%C3%A0-pris%C3%A3o)
+- [Fundo eleitoral em 2022 chega a quase R$ 5 bilhões](https://www.nexojornal.com.br/grafico/2022/06/28/Fundo-eleitoral-em-2022-chega-a-quase-R-5-bilh%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
