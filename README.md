@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Neymar não está mais nos planos do PSG, diz jornal](https://www.nexojornal.com.br/extra/2022/06/28/Neymar-n%C3%A3o-est%C3%A1-mais-nos-planos-do-PSG-diz-jornal)
-- [Brasil registra aumento de mortes na Amazônia Legal](https://www.nexojornal.com.br/extra/2022/06/28/Brasil-registra-aumento-de-mortes-na-Amaz%C3%B4nia-Legal)
-- [Oposição entrega no Senado pedido para criação de CPI do MEC](https://www.nexojornal.com.br/extra/2022/06/28/Oposi%C3%A7%C3%A3o-entrega-no-Senado-pedido-para-cria%C3%A7%C3%A3o-de-CPI-do-MEC)
-- [Como a Otan passou da ‘morte cerebral’ à refundação](https://www.nexojornal.com.br/expresso/2022/06/28/Como-a-Otan-passou-da-%E2%80%98morte-cerebral%E2%80%99-%C3%A0-refunda%C3%A7%C3%A3o)
-- [Bombeiros encontram 46 cadáveres em caminhão nos EUA](https://www.nexojornal.com.br/extra/2022/06/28/Bombeiros-encontram-46-cad%C3%A1veres-em-caminh%C3%A3o-nos-EUA)
+- [‘Evita’ no Brasil: como o ícone argentino inspira teatro e cinema](https://www.nexojornal.com.br/expresso/2022/06/28/%E2%80%98Evita%E2%80%99-no-Brasil-como-o-%C3%ADcone-argentino-inspira-teatro-e-cinema)
+- [Casos de estupro em LGBTI+ tem aumento de 88,4%](https://www.nexojornal.com.br/extra/2022/06/28/Casos-de-estupro-em-LGBTI-tem-aumento-de-884)
+- [O plano do Congresso para manter em 2023 o ‘orçamento secreto’](https://www.nexojornal.com.br/podcast/2022/06/28/O-plano-do-Congresso-para-manter-em-2023-o-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [Aos 101 anos, ex-guarda nazista é condenado à prisão](https://www.nexojornal.com.br/extra/2022/06/28/Aos-101-anos-ex-guarda-nazista-%C3%A9-condenado-%C3%A0-pris%C3%A3o)
+- [Fundo eleitoral em 2022 chega a quase R$ 5 bilhões](https://www.nexojornal.com.br/grafico/2022/06/28/Fundo-eleitoral-em-2022-chega-a-quase-R-5-bilh%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
