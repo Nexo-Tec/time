@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como ficou o ‘pacote de bondades’ de Bolsonaro para as eleições](https://www.nexojornal.com.br/expresso/2022/06/29/Como-ficou-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-para-as-elei%C3%A7%C3%B5es)
-- [Projeto propõe auxílio a quem acolher pessoa em situação de rua](https://www.nexojornal.com.br/extra/2022/06/29/Projeto-prop%C3%B5e-aux%C3%ADlio-a-quem-acolher-pessoa-em-situa%C3%A7%C3%A3o-de-rua)
-- [O número de meninas de até 14 anos que dão à luz no Brasil](https://www.nexojornal.com.br/grafico/2022/06/29/O-n%C3%BAmero-de-meninas-de-at%C3%A9-14-anos-que-d%C3%A3o-%C3%A0-luz-no-Brasil)
-- [Acusado de atentado em Paris é condenado à prisão perpétua](https://www.nexojornal.com.br/extra/2022/06/29/Acusado-de-atentado-em-Paris-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua)
-- [YouTube suspende canal da Assembleia Legislativa de SP](https://www.nexojornal.com.br/extra/2022/06/29/YouTube-suspende-canal-da-Assembleia-Legislativa-de-SP)
+- [‘Pacote de bondades’ do governo prevê R$ 38,75 bi acima do teto](https://www.nexojornal.com.br/extra/2022/06/29/%E2%80%98Pacote-de-bondades%E2%80%99-do-governo-prev%C3%AA-R-3875-bi-acima-do-teto)
+- [Piquet pede desculpas por fala racista contra Hamilton](https://www.nexojornal.com.br/extra/2022/06/29/Piquet-pede-desculpas-por-fala-racista-contra-Hamilton)
+- [Polícia prende torcedores do Boca por racismo contra corintianos](https://www.nexojornal.com.br/extra/2022/06/29/Pol%C3%ADcia-prende-torcedores-do-Boca-por-racismo-contra-corintianos)
+- [Uma audiência pública sem espírito público](https://www.nexojornal.com.br/ensaio/2022/Uma-audi%C3%AAncia-p%C3%BAblica-sem-esp%C3%ADrito-p%C3%BAblico)
+- [Motoristas de ônibus fazem nova greve em São Paulo](https://www.nexojornal.com.br/extra/2022/06/29/Motoristas-de-%C3%B4nibus-fazem-nova-greve-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
