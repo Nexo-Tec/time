@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como flertar nas redes sociais com mais eficácia](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-flertar-nas-redes-sociais-com-mais-eficacia/)
-- [Você tem um diário?](https://gamarevista.uol.com.br/estilo-de-vida/bem-estar/voce-tem-um-diario/)
-- [Despedida](https://gamarevista.uol.com.br/colunistas/letrux/despedida/)
-- [Frigideira de um ovo só](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/frigideira-de-um-ovo-so/)
-- [@mae_le_pra_mim](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mae_le_pra_mim/)
+- [Bienal do Livro de SP reabre as portas de forma presencial](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-do-livro-de-sp-reabre-as-portas-de-forma-presencial/)
+- [Podcast traz sons e histórias da música afro-brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-traz-sons-e-historias-da-musica-afro-brasileira/)
+- [Pantanal na tela e no seu prato](https://gamarevista.uol.com.br/achamos-que-vale/fazer/pantanal-na-tela-e-no-seu-prato/)
+- [Novas versões de clássicos com Wilco e St. Vincent](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novas-versoes-de-classicos-com-wilco-e-st-vincent/)
+- [Arautos do Evangelho contra-atacam](https://gamarevista.uol.com.br/achamos-que-vale/ler/arautos-do-evangelho-contra-atacam/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
