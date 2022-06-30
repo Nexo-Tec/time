@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O escândalo de assédio sexual do presidente da Caixa Econômica](https://www.nexojornal.com.br/expresso/2022/06/29/O-esc%C3%A2ndalo-de-ass%C3%A9dio-sexual-do-presidente-da-Caixa-Econ%C3%B4mica)
-- [O efeito dos ataques de Bolsonaro a jornalistas mulheres em 3 relatos](https://www.nexojornal.com.br/expresso/2022/06/28/O-efeito-dos-ataques-de-Bolsonaro-a-jornalistas-mulheres-em-3-relatos)
-- [Como o Ministério da Saúde propõe entraves ao aborto legal](https://www.nexojornal.com.br/expresso/2022/06/28/Como-o-Minist%C3%A9rio-da-Sa%C3%BAde-prop%C3%B5e-entraves-ao-aborto-legal)
-- [Por que o estupro é um problema de infância. E como combatê-lo](https://www.nexojornal.com.br/expresso/2022/06/28/Por-que-o-estupro-%C3%A9-um-problema-de-inf%C3%A2ncia.-E-como-combat%C3%AA-lo)
-- [Concessão do Pacaembu: história, projeto e disputa](https://www.nexojornal.com.br/reportagem/2022/06/28/Concess%C3%A3o-do-Pacaembu-hist%C3%B3ria-projeto-e-disputa)
+- [Como ficou o ‘pacote de bondades’ de Bolsonaro para as eleições](https://www.nexojornal.com.br/expresso/2022/06/29/Como-ficou-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-para-as-elei%C3%A7%C3%B5es)
+- [Projeto propõe auxílio a quem acolher pessoa em situação de rua](https://www.nexojornal.com.br/extra/2022/06/29/Projeto-prop%C3%B5e-aux%C3%ADlio-a-quem-acolher-pessoa-em-situa%C3%A7%C3%A3o-de-rua)
+- [O número de meninas de até 14 anos que dão à luz no Brasil](https://www.nexojornal.com.br/grafico/2022/06/29/O-n%C3%BAmero-de-meninas-de-at%C3%A9-14-anos-que-d%C3%A3o-%C3%A0-luz-no-Brasil)
+- [Acusado de atentado em Paris é condenado à prisão perpétua](https://www.nexojornal.com.br/extra/2022/06/29/Acusado-de-atentado-em-Paris-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua)
+- [YouTube suspende canal da Assembleia Legislativa de SP](https://www.nexojornal.com.br/extra/2022/06/29/YouTube-suspende-canal-da-Assembleia-Legislativa-de-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
