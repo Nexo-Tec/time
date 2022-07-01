@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A livraria gigante dentro da Bienal do Livro](https://gamarevista.uol.com.br/cultura/a-livraria-gigante-dentro-da-bienal-do-livro/)
 - [Bienal do Livro de SP reabre as portas de forma presencial](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-do-livro-de-sp-reabre-as-portas-de-forma-presencial/)
 - [Podcast traz sons e histórias da música afro-brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-traz-sons-e-historias-da-musica-afro-brasileira/)
 - [Pantanal na tela e no seu prato](https://gamarevista.uol.com.br/achamos-que-vale/fazer/pantanal-na-tela-e-no-seu-prato/)
 - [Novas versões de clássicos com Wilco e St. Vincent](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novas-versoes-de-classicos-com-wilco-e-st-vincent/)
-- [Arautos do Evangelho contra-atacam](https://gamarevista.uol.com.br/achamos-que-vale/ler/arautos-do-evangelho-contra-atacam/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
