@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como os evangélicos brasileiros lutam contra o racismo](https://www.nexojornal.com.br/academico/2022/06/30/Como-os-evang%C3%A9licos-brasileiros-lutam-contra-o-racismo)
-- [STF põe inquérito com suposta interferência de Bolsonaro sob sigilo](https://www.nexojornal.com.br/extra/2022/06/30/STF-p%C3%B5e-inqu%C3%A9rito-com-suposta-interfer%C3%AAncia-de-Bolsonaro-sob-sigilo)
-- [Justiça dos EUA limita ação do governo sobre emissões de gases](https://www.nexojornal.com.br/extra/2022/06/30/Justi%C3%A7a-dos-EUA-limita-a%C3%A7%C3%A3o-do-governo-sobre-emiss%C3%B5es-de-gases)
-- [Por que o gasto social reduz desigualdades do trabalho](https://www.nexojornal.com.br/expresso/2022/06/30/Por-que-o-gasto-social-reduz-desigualdades-do-trabalho)
-- [Ana Marcela alcança recorde de medalhas em mundiais de natação](https://www.nexojornal.com.br/extra/2022/06/30/Ana-Marcela-alcan%C3%A7a-recorde-de-medalhas-em-mundiais-de-nata%C3%A7%C3%A3o)
+- [‘Todos os homens do presidente’: o impacto no cinema e no jornalismo](https://www.nexojornal.com.br/expresso/2022/06/30/%E2%80%98Todos-os-homens-do-presidente%E2%80%99-o-impacto-no-cinema-e-no-jornalismo)
+- [Por que o governo foi tão errático ao definir uma reação à crise](https://www.nexojornal.com.br/expresso/2022/06/30/Por-que-o-governo-foi-t%C3%A3o-err%C3%A1tico-ao-definir-uma-rea%C3%A7%C3%A3o-%C3%A0-crise)
+- [Quais as regras e o lugar do humor no período eleitoral](https://www.nexojornal.com.br/expresso/2022/06/30/Quais-as-regras-e-o-lugar-do-humor-no-per%C3%ADodo-eleitoral)
+- [Senado aprova PEC que cria e amplia benefícios em ano eleitoral](https://www.nexojornal.com.br/extra/2022/06/30/Senado-aprova-PEC-que-cria-e-amplia-benef%C3%ADcios-em-ano-eleitoral)
+- [A corrosão da liberdade de expressão no Brasil](https://www.nexojornal.com.br/podcast/2022/06/30/A-corros%C3%A3o-da-liberdade-de-express%C3%A3o-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
