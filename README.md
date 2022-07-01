@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como ficou o ‘pacote de bondades’ de Bolsonaro para as eleições](https://www.nexojornal.com.br/expresso/2022/06/29/Como-ficou-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-para-as-elei%C3%A7%C3%B5es)
-- [Projeto propõe auxílio a quem acolher pessoa em situação de rua](https://www.nexojornal.com.br/extra/2022/06/29/Projeto-prop%C3%B5e-aux%C3%ADlio-a-quem-acolher-pessoa-em-situa%C3%A7%C3%A3o-de-rua)
-- [O número de meninas de até 14 anos que dão à luz no Brasil](https://www.nexojornal.com.br/grafico/2022/06/29/O-n%C3%BAmero-de-meninas-de-at%C3%A9-14-anos-que-d%C3%A3o-%C3%A0-luz-no-Brasil)
-- [Acusado de atentado em Paris é condenado à prisão perpétua](https://www.nexojornal.com.br/extra/2022/06/29/Acusado-de-atentado-em-Paris-%C3%A9-condenado-%C3%A0-pris%C3%A3o-perp%C3%A9tua)
-- [YouTube suspende canal da Assembleia Legislativa de SP](https://www.nexojornal.com.br/extra/2022/06/29/YouTube-suspende-canal-da-Assembleia-Legislativa-de-SP)
+- [Como os evangélicos brasileiros lutam contra o racismo](https://www.nexojornal.com.br/academico/2022/06/30/Como-os-evang%C3%A9licos-brasileiros-lutam-contra-o-racismo)
+- [STF põe inquérito com suposta interferência de Bolsonaro sob sigilo](https://www.nexojornal.com.br/extra/2022/06/30/STF-p%C3%B5e-inqu%C3%A9rito-com-suposta-interfer%C3%AAncia-de-Bolsonaro-sob-sigilo)
+- [Justiça dos EUA limita ação do governo sobre emissões de gases](https://www.nexojornal.com.br/extra/2022/06/30/Justi%C3%A7a-dos-EUA-limita-a%C3%A7%C3%A3o-do-governo-sobre-emiss%C3%B5es-de-gases)
+- [Por que o gasto social reduz desigualdades do trabalho](https://www.nexojornal.com.br/expresso/2022/06/30/Por-que-o-gasto-social-reduz-desigualdades-do-trabalho)
+- [Ana Marcela alcança recorde de medalhas em mundiais de natação](https://www.nexojornal.com.br/extra/2022/06/30/Ana-Marcela-alcan%C3%A7a-recorde-de-medalhas-em-mundiais-de-nata%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
