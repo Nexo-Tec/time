@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pequena Lô](https://gamarevista.uol.com.br/pessoas/questionario-proust/pequena-lo/)
 - [Em busca do urso perdido](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/em-busca-do-urso-perdido/)
 - [Sul &amp; Oeste](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sul-oeste/)
 - [A livraria gigante dentro da Bienal do Livro](https://gamarevista.uol.com.br/cultura/a-livraria-gigante-dentro-da-bienal-do-livro/)
 - [Bienal do Livro de SP reabre as portas de forma presencial](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-do-livro-de-sp-reabre-as-portas-de-forma-presencial/)
-- [Podcast traz sons e histórias da música afro-brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-traz-sons-e-historias-da-musica-afro-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
