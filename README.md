@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Criança com fome, um problema mais do que urgente](https://pp.nexojornal.com.br/ponto-de-vista/2022/Crian%C3%A7a-com-fome-um-problema-mais-do-que-urgente)
 - [Eleições 2022: oportunidade para melhorar a mobilidade urbana nas regiões metropolitanas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-oportunidade-para-melhorar-a-mobilidade-urbana-nas-regi%C3%B5es-metropolitanas2)
 - [Precisamos falar sobre clima nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/Precisamos-falar-sobre-clima-nas-elei%C3%A7%C3%B5es-de-20221)
 - [O que são e onde ficam as unidades de conservação do Brasil](https://pp.nexojornal.com.br/Dados/2022/06/27/O-que-s%C3%A3o-e-onde-ficam-as-unidades-de-conserva%C3%A7%C3%A3o-do-Brasil)
 - [A trajetória dos modelos integrados de uso do solo e de transportes](https://pp.nexojornal.com.br/linha-do-tempo/2022/A-trajet%C3%B3ria-dos-modelos-integrados-de-uso-do-solo-e-de-transportes)
+- [Um oceano além do horizonte](https://pp.nexojornal.com.br/opiniao/2022/Um-oceano-al%C3%A9m-do-horizonte)
 <!-- PP_LIST:END -->
 
