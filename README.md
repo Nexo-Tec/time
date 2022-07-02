@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STF forma maioria contra aumento de gastos com publicidade](https://www.nexojornal.com.br/extra/2022/07/01/STF-forma-maioria-contra-aumento-de-gastos-com-publicidade)
-- [A queda do presidente da Caixa. O ‘pacote de bondades’. E mais](https://www.nexojornal.com.br/video/extrato/A-queda-do-presidente-da-Caixa.-O-%E2%80%98pacote-de-bondades%E2%80%99.-E-mais)
-- [Os mistérios em torno da música ‘House of the Rising Sun’](https://www.nexojornal.com.br/expresso/2022/07/01/Os-mist%C3%A9rios-em-torno-da-m%C3%BAsica-%E2%80%98House-of-the-Rising-Sun%E2%80%99)
-- [Ataque russo mata ao menos 21 pessoas em Serhiivka](https://www.nexojornal.com.br/extra/2022/07/01/Ataque-russo-mata-ao-menos-21-pessoas-em-Serhiivka)
-- [Dólar fecha em R$ 5,32 após aprovação do ‘pacote de bondades’](https://www.nexojornal.com.br/extra/2022/07/01/D%C3%B3lar-fecha-em-R-532-ap%C3%B3s-aprova%C3%A7%C3%A3o-do-%E2%80%98pacote-de-bondades%E2%80%99)
+- [‘Todos os homens do presidente’: o impacto no cinema e no jornalismo](https://www.nexojornal.com.br/expresso/2022/06/30/%E2%80%98Todos-os-homens-do-presidente%E2%80%99-o-impacto-no-cinema-e-no-jornalismo)
+- [Por que o governo foi tão errático ao definir uma reação à crise](https://www.nexojornal.com.br/expresso/2022/06/30/Por-que-o-governo-foi-t%C3%A3o-err%C3%A1tico-ao-definir-uma-rea%C3%A7%C3%A3o-%C3%A0-crise)
+- [Quais as regras e o lugar do humor no período eleitoral](https://www.nexojornal.com.br/expresso/2022/06/30/Quais-as-regras-e-o-lugar-do-humor-no-per%C3%ADodo-eleitoral)
+- [Senado aprova PEC que cria e amplia benefícios em ano eleitoral](https://www.nexojornal.com.br/extra/2022/06/30/Senado-aprova-PEC-que-cria-e-amplia-benef%C3%ADcios-em-ano-eleitoral)
+- [A corrosão da liberdade de expressão no Brasil](https://www.nexojornal.com.br/podcast/2022/06/30/A-corros%C3%A3o-da-liberdade-de-express%C3%A3o-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
