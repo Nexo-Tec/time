@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Todos os homens do presidente’: o impacto no cinema e no jornalismo](https://www.nexojornal.com.br/expresso/2022/06/30/%E2%80%98Todos-os-homens-do-presidente%E2%80%99-o-impacto-no-cinema-e-no-jornalismo)
-- [Por que o governo foi tão errático ao definir uma reação à crise](https://www.nexojornal.com.br/expresso/2022/06/30/Por-que-o-governo-foi-t%C3%A3o-err%C3%A1tico-ao-definir-uma-rea%C3%A7%C3%A3o-%C3%A0-crise)
-- [Quais as regras e o lugar do humor no período eleitoral](https://www.nexojornal.com.br/expresso/2022/06/30/Quais-as-regras-e-o-lugar-do-humor-no-per%C3%ADodo-eleitoral)
-- [Senado aprova PEC que cria e amplia benefícios em ano eleitoral](https://www.nexojornal.com.br/extra/2022/06/30/Senado-aprova-PEC-que-cria-e-amplia-benef%C3%ADcios-em-ano-eleitoral)
-- [A corrosão da liberdade de expressão no Brasil](https://www.nexojornal.com.br/podcast/2022/06/30/A-corros%C3%A3o-da-liberdade-de-express%C3%A3o-no-Brasil)
+- [Batalha de papel](https://www.nexojornal.com.br/externo/2022/07/01/Batalha-de-papel)
+- [A comoção em torno do podcast ‘A mulher da casa abandonada’](https://www.nexojornal.com.br/expresso/2022/07/01/A-como%C3%A7%C3%A3o-em-torno-do-podcast-%E2%80%98A-mulher-da-casa-abandonada%E2%80%99)
+- [As perspectivas de vacinar crianças até 5 anos contra a covid](https://www.nexojornal.com.br/expresso/2022/07/01/As-perspectivas-de-vacinar-crian%C3%A7as-at%C3%A9-5-anos-contra-a-covid)
+- [Preços médios do diesel e da gasolina recuam após corte do ICMS](https://www.nexojornal.com.br/extra/2022/07/01/Pre%C3%A7os-m%C3%A9dios-do-diesel-e-da-gasolina-recuam-ap%C3%B3s-corte-do-ICMS)
+- [Bienal do Livro de São Paulo volta a ser presencial após 4 anos](https://www.nexojornal.com.br/extra/2022/07/01/Bienal-do-Livro-de-S%C3%A3o-Paulo-volta-a-ser-presencial-ap%C3%B3s-4-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
