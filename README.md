@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pedro Andrade: “Qualquer viagem fica melhor quando se busca novos pontos de vista”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-andrade-qualquer-viagem-fica-melhor-quando-se-busca-novos-pontos-de-vista/)
 - [Pequena Lô](https://gamarevista.uol.com.br/pessoas/questionario-proust/pequena-lo/)
 - [Em busca do urso perdido](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/em-busca-do-urso-perdido/)
 - [Sul &amp; Oeste](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sul-oeste/)
 - [A livraria gigante dentro da Bienal do Livro](https://gamarevista.uol.com.br/cultura/a-livraria-gigante-dentro-da-bienal-do-livro/)
-- [Bienal do Livro de SP reabre as portas de forma presencial](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-do-livro-de-sp-reabre-as-portas-de-forma-presencial/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
