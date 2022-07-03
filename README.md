@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Batalha de papel](https://www.nexojornal.com.br/externo/2022/07/01/Batalha-de-papel)
-- [A comoção em torno do podcast ‘A mulher da casa abandonada’](https://www.nexojornal.com.br/expresso/2022/07/01/A-como%C3%A7%C3%A3o-em-torno-do-podcast-%E2%80%98A-mulher-da-casa-abandonada%E2%80%99)
-- [As perspectivas de vacinar crianças até 5 anos contra a covid](https://www.nexojornal.com.br/expresso/2022/07/01/As-perspectivas-de-vacinar-crian%C3%A7as-at%C3%A9-5-anos-contra-a-covid)
-- [Preços médios do diesel e da gasolina recuam após corte do ICMS](https://www.nexojornal.com.br/extra/2022/07/01/Pre%C3%A7os-m%C3%A9dios-do-diesel-e-da-gasolina-recuam-ap%C3%B3s-corte-do-ICMS)
-- [Bienal do Livro de São Paulo volta a ser presencial após 4 anos](https://www.nexojornal.com.br/extra/2022/07/01/Bienal-do-Livro-de-S%C3%A3o-Paulo-volta-a-ser-presencial-ap%C3%B3s-4-anos)
+- [Por que o ‘pacote de bondades’ de Bolsonaro não sofre resistência](https://www.nexojornal.com.br/expresso/2022/07/02/Por-que-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-n%C3%A3o-sofre-resist%C3%AAncia)
+- [5 livros com personagens mulheres nada exemplares](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-com-personagens-mulheres-nada-exemplares)
+- [Por que o acesso ao aborto legal é uma proteção à vida](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-acesso-ao-aborto-legal-%C3%A9-uma-prote%C3%A7%C3%A3o-%C3%A0-vida)
+- [As disputas militares entre França e Rússia no Mali](https://www.nexojornal.com.br/expresso/2022/07/02/As-disputas-militares-entre-Fran%C3%A7a-e-R%C3%BAssia-no-Mali)
+- [Família relata morte de brasileiro que se alistou na Ucrânia](https://www.nexojornal.com.br/extra/2022/07/02/Fam%C3%ADlia-relata-morte-de-brasileiro-que-se-alistou-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
