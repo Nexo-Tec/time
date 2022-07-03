@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Stranger Things’ é série mais vista em uma única semana nos EUA](https://www.nexojornal.com.br/extra/2022/07/02/%E2%80%98Stranger-Things%E2%80%99-%C3%A9-s%C3%A9rie-mais-vista-em-uma-%C3%BAnica-semana-nos-EUA)
+- [Vice-presidente também deixa Caixa após relatos de assédio](https://www.nexojornal.com.br/extra/2022/07/02/Vice-presidente-tamb%C3%A9m-deixa-Caixa-ap%C3%B3s-relatos-de-ass%C3%A9dio)
+- [Lula, Ciro e Tebet vão a cortejo e Bolsonaro faz motociata em Salvador](https://www.nexojornal.com.br/extra/2022/07/02/Lula-Ciro-e-Tebet-v%C3%A3o-a-cortejo-e-Bolsonaro-faz-motociata-em-Salvador)
 - [Batalha de papel](https://www.nexojornal.com.br/externo/2022/07/01/Batalha-de-papel)
 - [A comoção em torno do podcast ‘A mulher da casa abandonada’](https://www.nexojornal.com.br/expresso/2022/07/01/A-como%C3%A7%C3%A3o-em-torno-do-podcast-%E2%80%98A-mulher-da-casa-abandonada%E2%80%99)
-- [As perspectivas de vacinar crianças até 5 anos contra a covid](https://www.nexojornal.com.br/expresso/2022/07/01/As-perspectivas-de-vacinar-crian%C3%A7as-at%C3%A9-5-anos-contra-a-covid)
-- [Preços médios do diesel e da gasolina recuam após corte do ICMS](https://www.nexojornal.com.br/extra/2022/07/01/Pre%C3%A7os-m%C3%A9dios-do-diesel-e-da-gasolina-recuam-ap%C3%B3s-corte-do-ICMS)
-- [Bienal do Livro de São Paulo volta a ser presencial após 4 anos](https://www.nexojornal.com.br/extra/2022/07/01/Bienal-do-Livro-de-S%C3%A3o-Paulo-volta-a-ser-presencial-ap%C3%B3s-4-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
