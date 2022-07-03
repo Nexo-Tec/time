@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Stranger Things’ é série mais vista em uma única semana nos EUA](https://www.nexojornal.com.br/extra/2022/07/02/%E2%80%98Stranger-Things%E2%80%99-%C3%A9-s%C3%A9rie-mais-vista-em-uma-%C3%BAnica-semana-nos-EUA)
-- [Vice-presidente também deixa Caixa após relatos de assédio](https://www.nexojornal.com.br/extra/2022/07/02/Vice-presidente-tamb%C3%A9m-deixa-Caixa-ap%C3%B3s-relatos-de-ass%C3%A9dio)
-- [Lula, Ciro e Tebet vão a cortejo e Bolsonaro faz motociata em Salvador](https://www.nexojornal.com.br/extra/2022/07/02/Lula-Ciro-e-Tebet-v%C3%A3o-a-cortejo-e-Bolsonaro-faz-motociata-em-Salvador)
-- [Batalha de papel](https://www.nexojornal.com.br/externo/2022/07/01/Batalha-de-papel)
-- [A comoção em torno do podcast ‘A mulher da casa abandonada’](https://www.nexojornal.com.br/expresso/2022/07/01/A-como%C3%A7%C3%A3o-em-torno-do-podcast-%E2%80%98A-mulher-da-casa-abandonada%E2%80%99)
+- [Por que o ‘pacote de bondades’ de Bolsonaro não sofre resistência](https://www.nexojornal.com.br/expresso/2022/07/02/Por-que-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-n%C3%A3o-sofre-resist%C3%AAncia)
+- [5 livros com personagens mulheres nada exemplares](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-com-personagens-mulheres-nada-exemplares)
+- [Por que o acesso ao aborto legal é uma proteção à vida](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-acesso-ao-aborto-legal-%C3%A9-uma-prote%C3%A7%C3%A3o-%C3%A0-vida)
+- [As disputas militares entre França e Rússia no Mali](https://www.nexojornal.com.br/expresso/2022/07/02/As-disputas-militares-entre-Fran%C3%A7a-e-R%C3%BAssia-no-Mali)
+- [Família relata morte de brasileiro que se alistou na Ucrânia](https://www.nexojornal.com.br/extra/2022/07/02/Fam%C3%ADlia-relata-morte-de-brasileiro-que-se-alistou-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
