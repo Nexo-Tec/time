@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o ‘pacote de bondades’ de Bolsonaro não sofre resistência](https://www.nexojornal.com.br/expresso/2022/07/02/Por-que-o-%E2%80%98pacote-de-bondades%E2%80%99-de-Bolsonaro-n%C3%A3o-sofre-resist%C3%AAncia)
-- [5 livros com personagens mulheres nada exemplares](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-com-personagens-mulheres-nada-exemplares)
-- [Por que o acesso ao aborto legal é uma proteção à vida](https://www.nexojornal.com.br/ensaio/2022/Por-que-o-acesso-ao-aborto-legal-%C3%A9-uma-prote%C3%A7%C3%A3o-%C3%A0-vida)
-- [As disputas militares entre França e Rússia no Mali](https://www.nexojornal.com.br/expresso/2022/07/02/As-disputas-militares-entre-Fran%C3%A7a-e-R%C3%BAssia-no-Mali)
-- [Família relata morte de brasileiro que se alistou na Ucrânia](https://www.nexojornal.com.br/extra/2022/07/02/Fam%C3%ADlia-relata-morte-de-brasileiro-que-se-alistou-na-Ucr%C3%A2nia)
+- [‘Desinformação é estratégia para convencer evangélicos’](https://www.nexojornal.com.br/entrevista/2022/07/03/%E2%80%98Desinforma%C3%A7%C3%A3o-%C3%A9-estrat%C3%A9gia-para-convencer-evang%C3%A9licos%E2%80%99)
+- [O projeto que monitora ações afirmativas na pós-graduação](https://www.nexojornal.com.br/expresso/2022/07/03/O-projeto-que-monitora-a%C3%A7%C3%B5es-afirmativas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
+- [O processo de composição da tributação no Brasil](https://www.nexojornal.com.br/ensaio/2022/O-processo-de-composi%C3%A7%C3%A3o-da-tributa%C3%A7%C3%A3o-no-Brasil)
+- [Ataque a tiros em shopping na Dinamarca deixa mortos e feridos](https://www.nexojornal.com.br/extra/2022/07/03/Ataque-a-tiros-em-shopping-na-Dinamarca-deixa-mortos-e-feridos)
+- [5 pontos centrais da proposta de Constituição chilena](https://www.nexojornal.com.br/expresso/2022/07/03/5-pontos-centrais-da-proposta-de-Constitui%C3%A7%C3%A3o-chilena)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
