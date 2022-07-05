@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a violência de gênero também mina a máquina pública](https://www.nexojornal.com.br/expresso/2022/07/05/Por-que-a-viol%C3%AAncia-de-g%C3%AAnero-tamb%C3%A9m-mina-a-m%C3%A1quina-p%C3%BAblica)
-- [A disputa entre Garcia e Tarcísio pelo voto da direita em SP](https://www.nexojornal.com.br/expresso/2022/07/04/A-disputa-entre-Garcia-e-Tarc%C3%ADsio-pelo-voto-da-direita-em-SP)
-- [Luta por direitos: não existe democracia sem feminismo](https://www.nexojornal.com.br/colunistas/2022/Luta-por-direitos-n%C3%A3o-existe-democracia-sem-feminismo)
-- [Deputado do Rio é denunciado por violência política de gênero](https://www.nexojornal.com.br/extra/2022/07/04/Deputado-do-Rio-%C3%A9-denunciado-por-viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero)
-- [Torre Eiffel está enferrujada e precisa de reparos, diz revista](https://www.nexojornal.com.br/extra/2022/07/04/Torre-Eiffel-est%C3%A1-enferrujada-e-precisa-de-reparos-diz-revista)
+- [‘Desinformação é estratégia para convencer evangélicos’](https://www.nexojornal.com.br/entrevista/2022/07/03/%E2%80%98Desinforma%C3%A7%C3%A3o-%C3%A9-estrat%C3%A9gia-para-convencer-evang%C3%A9licos%E2%80%99)
+- [O projeto que monitora ações afirmativas na pós-graduação](https://www.nexojornal.com.br/expresso/2022/07/03/O-projeto-que-monitora-a%C3%A7%C3%B5es-afirmativas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
+- [O processo de composição da tributação no Brasil](https://www.nexojornal.com.br/ensaio/2022/O-processo-de-composi%C3%A7%C3%A3o-da-tributa%C3%A7%C3%A3o-no-Brasil)
+- [Ataque a tiros em shopping mata 3 na capital da Dinamarca](https://www.nexojornal.com.br/extra/2022/07/03/Ataque-a-tiros-em-shopping-mata-3-na-capital-da-Dinamarca)
+- [5 pontos centrais da proposta de Constituição chilena](https://www.nexojornal.com.br/expresso/2022/07/03/5-pontos-centrais-da-proposta-de-Constitui%C3%A7%C3%A3o-chilena)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
