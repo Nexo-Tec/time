@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Duas pessoas morrem por conta das chuvas em Alagoas](https://www.nexojornal.com.br/extra/2022/07/04/Duas-pessoas-morrem-por-conta-das-chuvas-em-Alagoas)
 - [‘Desinformação é estratégia para convencer evangélicos’](https://www.nexojornal.com.br/entrevista/2022/07/03/%E2%80%98Desinforma%C3%A7%C3%A3o-%C3%A9-estrat%C3%A9gia-para-convencer-evang%C3%A9licos%E2%80%99)
 - [O projeto que monitora ações afirmativas na pós-graduação](https://www.nexojornal.com.br/expresso/2022/07/03/O-projeto-que-monitora-a%C3%A7%C3%B5es-afirmativas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
 - [O processo de composição da tributação no Brasil](https://www.nexojornal.com.br/ensaio/2022/O-processo-de-composi%C3%A7%C3%A3o-da-tributa%C3%A7%C3%A3o-no-Brasil)
-- [Ataque a tiros em shopping na Dinamarca deixa mortos e feridos](https://www.nexojornal.com.br/extra/2022/07/03/Ataque-a-tiros-em-shopping-na-Dinamarca-deixa-mortos-e-feridos)
-- [5 pontos centrais da proposta de Constituição chilena](https://www.nexojornal.com.br/expresso/2022/07/03/5-pontos-centrais-da-proposta-de-Constitui%C3%A7%C3%A3o-chilena)
+- [Ataque a tiros em shopping mata 3 na capital da Dinamarca](https://www.nexojornal.com.br/extra/2022/07/03/Ataque-a-tiros-em-shopping-mata-3-na-capital-da-Dinamarca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
