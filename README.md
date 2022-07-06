@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Venha provar meu brunch](https://gamarevista.uol.com.br/parcerias/venha-provar-meu-brunch/)
 - [@thallitaxavier](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thallitaxavier/)
 - [Moringa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/moringa/)
-- [Pedro Andrade: “Qualquer viagem fica melhor quando se busca novos pontos de vista”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-andrade-qualquer-viagem-fica-melhor-quando-se-busca-novos-pontos-de-vista/)
+- [Pedro Andrade: “Qualquer viagem fica melhor quando se buscam novos pontos de vista”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-andrade-qualquer-viagem-fica-melhor-quando-se-busca-novos-pontos-de-vista/)
 - [Pequena Lô](https://gamarevista.uol.com.br/pessoas/questionario-proust/pequena-lo/)
-- [Em busca do urso perdido](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/em-busca-do-urso-perdido/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
