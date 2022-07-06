@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a violência de gênero também mina a máquina pública](https://www.nexojornal.com.br/expresso/2022/07/05/Por-que-a-viol%C3%AAncia-de-g%C3%AAnero-tamb%C3%A9m-mina-a-m%C3%A1quina-p%C3%BAblica)
-- [A disputa entre Garcia e Tarcísio pelo voto da direita em SP](https://www.nexojornal.com.br/expresso/2022/07/04/A-disputa-entre-Garcia-e-Tarc%C3%ADsio-pelo-voto-da-direita-em-SP)
-- [Luta por direitos: não existe democracia sem feminismo](https://www.nexojornal.com.br/colunistas/2022/Luta-por-direitos-n%C3%A3o-existe-democracia-sem-feminismo)
-- [Deputado do Rio é denunciado por violência política de gênero](https://www.nexojornal.com.br/extra/2022/07/04/Deputado-do-Rio-%C3%A9-denunciado-por-viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero)
-- [Torre Eiffel está enferrujada e precisa de reparos, diz revista](https://www.nexojornal.com.br/extra/2022/07/04/Torre-Eiffel-est%C3%A1-enferrujada-e-precisa-de-reparos-diz-revista)
+- [7 pontos-chave para entender o início do 5G no Brasil](https://www.nexojornal.com.br/expresso/2022/07/05/7-pontos-chave-para-entender-o-in%C3%ADcio-do-5G-no-Brasil)
+- [O que há no racha entre Cristina e Fernández na Argentina](https://www.nexojornal.com.br/expresso/2022/07/05/O-que-h%C3%A1-no-racha-entre-Cristina-e-Fern%C3%A1ndez-na-Argentina)
+- [Cancelar as palavras para não cancelar as pessoas](https://www.nexojornal.com.br/ensaio/2022/Cancelar-as-palavras-para-n%C3%A3o-cancelar-as-pessoas)
+- [Dólar fecha em R$ 5,38 e reflete temor global de recessão](https://www.nexojornal.com.br/extra/2022/07/05/D%C3%B3lar-fecha-em-R-538-e-reflete-temor-global-de-recess%C3%A3o)
+- [Congresso derruba vetos de Bolsonaro a leis de apoio a cultura](https://www.nexojornal.com.br/extra/2022/07/05/Congresso-derruba-vetos-de-Bolsonaro-a-leis-de-apoio-a-cultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
