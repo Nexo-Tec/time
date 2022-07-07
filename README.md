@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais os rumos da CPI do MEC após a trava no Senado](https://www.nexojornal.com.br/expresso/2022/07/06/Quais-os-rumos-da-CPI-do-MEC-ap%C3%B3s-a-trava-no-Senado)
 - [ICMS: os embates entre governo federal, estados e municípios](https://www.nexojornal.com.br/expresso/2022/07/06/ICMS-os-embates-entre-governo-federal-estados-e-munic%C3%ADpios)
-- [Pacheco abre CPI do MEC e outras 2, com início depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-2-com-in%C3%ADcio-depois-da-elei%C3%A7%C3%A3o)
+- [Pacheco abre CPI do MEC e outras, com início só depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-com-in%C3%ADcio-s%C3%B3-depois-da-elei%C3%A7%C3%A3o)
 - [Argentina prende ex-militares por crimes durante a ditadura](https://www.nexojornal.com.br/extra/2022/07/06/Argentina-prende-ex-militares-por-crimes-durante-a-ditadura)
 - [Congressistas pedem afastamento do presidente da Funai](https://www.nexojornal.com.br/extra/2022/07/06/Congressistas-pedem-afastamento-do-presidente-da-Funai)
-- [Por que jovens estão vestindo terno para assistir aos ‘Minions’](https://www.nexojornal.com.br/expresso/2022/07/06/Por-que-jovens-est%C3%A3o-vestindo-terno-para-assistir-aos-%E2%80%98Minions%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
