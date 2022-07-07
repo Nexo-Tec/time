@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como se dá a sucessão no Reino Unido com a renúncia de Boris](https://www.nexojornal.com.br/expresso/2022/07/07/Como-se-d%C3%A1-a-sucess%C3%A3o-no-Reino-Unido-com-a-ren%C3%BAncia-de-Boris)
-- [Comissão aprova texto-base da PEC do ‘pacote de bondades’](https://www.nexojornal.com.br/extra/2022/07/07/Comiss%C3%A3o-aprova-texto-base-da-PEC-do-%E2%80%98pacote-de-bondades%E2%80%99)
-- [Justiça proíbe francês acusado de racismo de deixar o Brasil](https://www.nexojornal.com.br/extra/2022/07/07/Justi%C3%A7a-pro%C3%ADbe-franc%C3%AAs-acusado-de-racismo-de-deixar-o-Brasil)
-- [A relação do tamanho das propriedades e a produção agrícola no Brasil](https://www.nexojornal.com.br/grafico/2022/07/07/A-rela%C3%A7%C3%A3o-do-tamanho-das-propriedades-e-a-produ%C3%A7%C3%A3o-agr%C3%ADcola-no-Brasil)
-- [Boris Johnson anuncia renúncia do cargo de primeiro-ministro](https://www.nexojornal.com.br/extra/2022/07/07/Boris-Johnson-anuncia-ren%C3%BAncia-do-cargo-de-primeiro-ministro)
+- [ICMS: os embates entre governo federal, estados e municípios](https://www.nexojornal.com.br/expresso/2022/07/06/ICMS-os-embates-entre-governo-federal-estados-e-munic%C3%ADpios)
+- [Pacheco abre CPI do MEC e outras 2, com início depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-2-com-in%C3%ADcio-depois-da-elei%C3%A7%C3%A3o)
+- [Argentina prende ex-militares por crimes durante a ditadura](https://www.nexojornal.com.br/extra/2022/07/06/Argentina-prende-ex-militares-por-crimes-durante-a-ditadura)
+- [Congressistas pedem afastamento do presidente da Funai](https://www.nexojornal.com.br/extra/2022/07/06/Congressistas-pedem-afastamento-do-presidente-da-Funai)
+- [Por que jovens estão vestindo terno para assistir aos ‘Minions’](https://www.nexojornal.com.br/expresso/2022/07/06/Por-que-jovens-est%C3%A3o-vestindo-terno-para-assistir-aos-%E2%80%98Minions%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
