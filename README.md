@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A sequência de crises que engole o governo de Boris Johnson](https://www.nexojornal.com.br/expresso/2022/07/06/A-sequ%C3%AAncia-de-crises-que-engole-o-governo-de-Boris-Johnson)
-- [TCU abre investigação sobre ‘pacote de bondades’ do governo](https://www.nexojornal.com.br/extra/2022/07/06/TCU-abre-investiga%C3%A7%C3%A3o-sobre-%E2%80%98pacote-de-bondades%E2%80%99-do-governo)
-- [Bolsonaro pede suspensão de ordem de Moraes no caso MEC](https://www.nexojornal.com.br/extra/2022/07/06/Bolsonaro-pede-suspens%C3%A3o-de-ordem-de-Moraes-no-caso-MEC)
-- [Imagem de Mickey Mouse pode entrar em domínio público em 2024](https://www.nexojornal.com.br/extra/2022/07/06/Imagem-de-Mickey-Mouse-pode-entrar-em-dom%C3%ADnio-p%C3%BAblico-em-2024)
 - [7 pontos-chave para entender o início do 5G no Brasil](https://www.nexojornal.com.br/expresso/2022/07/05/7-pontos-chave-para-entender-o-in%C3%ADcio-do-5G-no-Brasil)
+- [O que há no racha entre Cristina e Fernández na Argentina](https://www.nexojornal.com.br/expresso/2022/07/05/O-que-h%C3%A1-no-racha-entre-Cristina-e-Fern%C3%A1ndez-na-Argentina)
+- [Cancelar as palavras para não cancelar as pessoas](https://www.nexojornal.com.br/ensaio/2022/Cancelar-as-palavras-para-n%C3%A3o-cancelar-as-pessoas)
+- [Dólar fecha em R$ 5,38 e reflete temor global de recessão](https://www.nexojornal.com.br/extra/2022/07/05/D%C3%B3lar-fecha-em-R-538-e-reflete-temor-global-de-recess%C3%A3o)
+- [Congresso derruba vetos de Bolsonaro a leis de apoio a cultura](https://www.nexojornal.com.br/extra/2022/07/05/Congresso-derruba-vetos-de-Bolsonaro-a-leis-de-apoio-a-cultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
