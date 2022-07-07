@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [ICMS: os embates entre governo federal, estados e municípios](https://www.nexojornal.com.br/expresso/2022/07/06/ICMS-os-embates-entre-governo-federal-estados-e-munic%C3%ADpios)
-- [Pacheco abre CPI do MEC e outras 2, com início depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-2-com-in%C3%ADcio-depois-da-elei%C3%A7%C3%A3o)
-- [Argentina prende ex-militares por crimes durante a ditadura](https://www.nexojornal.com.br/extra/2022/07/06/Argentina-prende-ex-militares-por-crimes-durante-a-ditadura)
-- [Congressistas pedem afastamento do presidente da Funai](https://www.nexojornal.com.br/extra/2022/07/06/Congressistas-pedem-afastamento-do-presidente-da-Funai)
-- [Por que jovens estão vestindo terno para assistir aos ‘Minions’](https://www.nexojornal.com.br/expresso/2022/07/06/Por-que-jovens-est%C3%A3o-vestindo-terno-para-assistir-aos-%E2%80%98Minions%E2%80%99)
+- [7 pontos-chave para entender o início do 5G no Brasil](https://www.nexojornal.com.br/expresso/2022/07/05/7-pontos-chave-para-entender-o-in%C3%ADcio-do-5G-no-Brasil)
+- [O que há no racha entre Cristina e Fernández na Argentina](https://www.nexojornal.com.br/expresso/2022/07/05/O-que-h%C3%A1-no-racha-entre-Cristina-e-Fern%C3%A1ndez-na-Argentina)
+- [Cancelar as palavras para não cancelar as pessoas](https://www.nexojornal.com.br/ensaio/2022/Cancelar-as-palavras-para-n%C3%A3o-cancelar-as-pessoas)
+- [Dólar fecha em R$ 5,38 e reflete temor global de recessão](https://www.nexojornal.com.br/extra/2022/07/05/D%C3%B3lar-fecha-em-R-538-e-reflete-temor-global-de-recess%C3%A3o)
+- [Congresso derruba vetos de Bolsonaro a leis de apoio a cultura](https://www.nexojornal.com.br/extra/2022/07/05/Congresso-derruba-vetos-de-Bolsonaro-a-leis-de-apoio-a-cultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
