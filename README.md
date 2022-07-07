@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A sequência de crises que engole o governo de Boris Johnson](https://www.nexojornal.com.br/expresso/2022/07/06/A-sequ%C3%AAncia-de-crises-que-engole-o-governo-de-Boris-Johnson)
-- [TCU abre investigação sobre ‘pacote de bondades’ do governo](https://www.nexojornal.com.br/extra/2022/07/06/TCU-abre-investiga%C3%A7%C3%A3o-sobre-%E2%80%98pacote-de-bondades%E2%80%99-do-governo)
-- [Bolsonaro pede suspensão de ordem de Moraes no caso MEC](https://www.nexojornal.com.br/extra/2022/07/06/Bolsonaro-pede-suspens%C3%A3o-de-ordem-de-Moraes-no-caso-MEC)
-- [Imagem de Mickey Mouse pode entrar em domínio público em 2024](https://www.nexojornal.com.br/extra/2022/07/06/Imagem-de-Mickey-Mouse-pode-entrar-em-dom%C3%ADnio-p%C3%BAblico-em-2024)
-- [7 pontos-chave para entender o início do 5G no Brasil](https://www.nexojornal.com.br/expresso/2022/07/05/7-pontos-chave-para-entender-o-in%C3%ADcio-do-5G-no-Brasil)
+- [Como se dá a sucessão no Reino Unido com a renúncia de Boris](https://www.nexojornal.com.br/expresso/2022/07/07/Como-se-d%C3%A1-a-sucess%C3%A3o-no-Reino-Unido-com-a-ren%C3%BAncia-de-Boris)
+- [Comissão aprova texto-base da PEC do ‘pacote de bondades’](https://www.nexojornal.com.br/extra/2022/07/07/Comiss%C3%A3o-aprova-texto-base-da-PEC-do-%E2%80%98pacote-de-bondades%E2%80%99)
+- [Justiça proíbe francês acusado de racismo de deixar o Brasil](https://www.nexojornal.com.br/extra/2022/07/07/Justi%C3%A7a-pro%C3%ADbe-franc%C3%AAs-acusado-de-racismo-de-deixar-o-Brasil)
+- [A relação do tamanho das propriedades e a produção agrícola no Brasil](https://www.nexojornal.com.br/grafico/2022/07/07/A-rela%C3%A7%C3%A3o-do-tamanho-das-propriedades-e-a-produ%C3%A7%C3%A3o-agr%C3%ADcola-no-Brasil)
+- [Boris Johnson anuncia renúncia do cargo de primeiro-ministro](https://www.nexojornal.com.br/extra/2022/07/07/Boris-Johnson-anuncia-ren%C3%BAncia-do-cargo-de-primeiro-ministro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
