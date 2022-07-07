@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Tamanho não é Documenta](https://gamarevista.uol.com.br/colunistas/marcello-dantas/tamanho-nao-e-documenta/)
-- [Venha provar meu brunch](https://gamarevista.uol.com.br/parcerias/venha-provar-meu-brunch/)
-- [@thallitaxavier](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thallitaxavier/)
-- [Moringa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/moringa/)
-- [Pedro Andrade: “Qualquer viagem fica melhor quando se buscam novos pontos de vista”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/pedro-andrade-qualquer-viagem-fica-melhor-quando-se-busca-novos-pontos-de-vista/)
+- [Todas as letras de Gilberto Gil](https://gamarevista.uol.com.br/achamos-que-vale/ler/todas-as-letras-de-gilberto-gil/)
+- [Maconha liberada na nova temporada de ‘Pico da Neblina’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/maconha-liberada-na-nova-temporada-de-pico-da-neblina/)
+- [O desastre climático do Brasil em ‘Tempo Quente’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-denuncia-desastre-climatico-no-brasil/)
+- [Respostas para ajudar a comer &lpar;e viver&rpar; melhor](https://gamarevista.uol.com.br/achamos-que-vale/ler/respostas-para-ajudar-a-comer-e-viver-melhor/)
+- [Ibibio Sound Machine para abrir a pista](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/ibibio-sound-machine-para-abrir-a-pista/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
