@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os rumos da CPI do MEC após a trava no Senado](https://www.nexojornal.com.br/expresso/2022/07/06/Quais-os-rumos-da-CPI-do-MEC-ap%C3%B3s-a-trava-no-Senado)
-- [ICMS: os embates entre governo federal, estados e municípios](https://www.nexojornal.com.br/expresso/2022/07/06/ICMS-os-embates-entre-governo-federal-estados-e-munic%C3%ADpios)
-- [Pacheco abre CPI do MEC e outras, com início só depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-com-in%C3%ADcio-s%C3%B3-depois-da-elei%C3%A7%C3%A3o)
-- [Argentina prende ex-militares por crimes durante a ditadura](https://www.nexojornal.com.br/extra/2022/07/06/Argentina-prende-ex-militares-por-crimes-durante-a-ditadura)
-- [Congressistas pedem afastamento do presidente da Funai](https://www.nexojornal.com.br/extra/2022/07/06/Congressistas-pedem-afastamento-do-presidente-da-Funai)
+- [A sequência de crises que engole o governo de Boris Johnson](https://www.nexojornal.com.br/expresso/2022/07/06/A-sequ%C3%AAncia-de-crises-que-engole-o-governo-de-Boris-Johnson)
+- [TCU abre investigação sobre ‘pacote de bondades’ do governo](https://www.nexojornal.com.br/extra/2022/07/06/TCU-abre-investiga%C3%A7%C3%A3o-sobre-%E2%80%98pacote-de-bondades%E2%80%99-do-governo)
+- [Bolsonaro pede suspensão de ordem de Moraes no caso MEC](https://www.nexojornal.com.br/extra/2022/07/06/Bolsonaro-pede-suspens%C3%A3o-de-ordem-de-Moraes-no-caso-MEC)
+- [Imagem de Mickey Mouse pode entrar em domínio público em 2024](https://www.nexojornal.com.br/extra/2022/07/06/Imagem-de-Mickey-Mouse-pode-entrar-em-dom%C3%ADnio-p%C3%BAblico-em-2024)
+- [7 pontos-chave para entender o início do 5G no Brasil](https://www.nexojornal.com.br/expresso/2022/07/05/7-pontos-chave-para-entender-o-in%C3%ADcio-do-5G-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
