@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os rumos da CPI do MEC após a trava no Senado](https://www.nexojornal.com.br/expresso/2022/07/06/Quais-os-rumos-da-CPI-do-MEC-ap%C3%B3s-a-trava-no-Senado)
-- [ICMS: os embates entre governo federal, estados e municípios](https://www.nexojornal.com.br/expresso/2022/07/06/ICMS-os-embates-entre-governo-federal-estados-e-munic%C3%ADpios)
-- [Pacheco abre CPI do MEC e outras, com início só depois da eleição](https://www.nexojornal.com.br/extra/2022/07/06/Pacheco-abre-CPI-do-MEC-e-outras-com-in%C3%ADcio-s%C3%B3-depois-da-elei%C3%A7%C3%A3o)
-- [Argentina prende ex-militares por crimes durante a ditadura](https://www.nexojornal.com.br/extra/2022/07/06/Argentina-prende-ex-militares-por-crimes-durante-a-ditadura)
-- [Congressistas pedem afastamento do presidente da Funai](https://www.nexojornal.com.br/extra/2022/07/06/Congressistas-pedem-afastamento-do-presidente-da-Funai)
+- [Direito à leitura: comida no prato e livro na mão](https://www.nexojornal.com.br/colunistas/2022/Direito-%C3%A0-leitura-comida-no-prato-e-livro-na-m%C3%A3o)
+- [Como o domínio da Marvel revive modelos da antiga Hollywood](https://www.nexojornal.com.br/expresso/2022/07/07/Como-o-dom%C3%ADnio-da-Marvel-revive-modelos-da-antiga-Hollywood)
+- [Bomba caseira é lançada contra evento de Lula no Rio](https://www.nexojornal.com.br/extra/2022/07/07/Bomba-caseira-%C3%A9-lan%C3%A7ada-contra-evento-de-Lula-no-Rio)
+- [Quais as armadilhas econômicas da PEC de ‘bondades’ para 2023](https://www.nexojornal.com.br/expresso/2022/07/07/Quais-as-armadilhas-econ%C3%B4micas-da-PEC-de-%E2%80%98bondades%E2%80%99-para-2023)
+- [STJ suspende decisão que retirou direitos políticos de César Maia](https://www.nexojornal.com.br/extra/2022/07/07/STJ-suspende-decis%C3%A3o-que-retirou-direitos-pol%C3%ADticos-de-C%C3%A9sar-Maia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
