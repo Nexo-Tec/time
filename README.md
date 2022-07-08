@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ex-primeiro-ministro do Japão é assassinado em comício](https://www.nexojornal.com.br/extra/2022/07/08/Ex-primeiro-ministro-do-Jap%C3%A3o-%C3%A9-assassinado-em-com%C3%ADcio)
-- [Direito à leitura: comida no prato e livro na mão](https://www.nexojornal.com.br/colunistas/2022/Direito-%C3%A0-leitura-comida-no-prato-e-livro-na-m%C3%A3o)
-- [Como o domínio da Marvel revive modelos da antiga Hollywood](https://www.nexojornal.com.br/expresso/2022/07/07/Como-o-dom%C3%ADnio-da-Marvel-revive-modelos-da-antiga-Hollywood)
-- [Bomba caseira é lançada contra evento de Lula no Rio](https://www.nexojornal.com.br/extra/2022/07/07/Bomba-caseira-%C3%A9-lan%C3%A7ada-contra-evento-de-Lula-no-Rio)
-- [Quais as armadilhas econômicas da PEC de ‘bondades’ para 2023](https://www.nexojornal.com.br/expresso/2022/07/07/Quais-as-armadilhas-econ%C3%B4micas-da-PEC-de-%E2%80%98bondades%E2%80%99-para-2023)
+- [Como se dá a sucessão no Reino Unido com a renúncia de Boris](https://www.nexojornal.com.br/expresso/2022/07/07/Como-se-d%C3%A1-a-sucess%C3%A3o-no-Reino-Unido-com-a-ren%C3%BAncia-de-Boris)
+- [Comissão aprova texto-base da PEC do ‘pacote de bondades’](https://www.nexojornal.com.br/extra/2022/07/07/Comiss%C3%A3o-aprova-texto-base-da-PEC-do-%E2%80%98pacote-de-bondades%E2%80%99)
+- [Justiça proíbe francês acusado de racismo de deixar o Brasil](https://www.nexojornal.com.br/extra/2022/07/07/Justi%C3%A7a-pro%C3%ADbe-franc%C3%AAs-acusado-de-racismo-de-deixar-o-Brasil)
+- [A relação do tamanho das propriedades e a produção agrícola no Brasil](https://www.nexojornal.com.br/grafico/2022/07/07/A-rela%C3%A7%C3%A3o-do-tamanho-das-propriedades-e-a-produ%C3%A7%C3%A3o-agr%C3%ADcola-no-Brasil)
+- [Boris Johnson anuncia renúncia do cargo de primeiro-ministro](https://www.nexojornal.com.br/extra/2022/07/07/Boris-Johnson-anuncia-ren%C3%BAncia-do-cargo-de-primeiro-ministro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
