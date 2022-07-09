@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ex-primeiro-ministro do Japão é assassinado em comício](https://www.nexojornal.com.br/extra/2022/07/08/Ex-primeiro-ministro-do-Jap%C3%A3o-%C3%A9-assassinado-em-com%C3%ADcio)
 - [Direito à leitura: comida no prato e livro na mão](https://www.nexojornal.com.br/colunistas/2022/Direito-%C3%A0-leitura-comida-no-prato-e-livro-na-m%C3%A3o)
 - [Como o domínio da Marvel revive modelos da antiga Hollywood](https://www.nexojornal.com.br/expresso/2022/07/07/Como-o-dom%C3%ADnio-da-Marvel-revive-modelos-da-antiga-Hollywood)
 - [Bomba caseira é lançada contra evento de Lula no Rio](https://www.nexojornal.com.br/extra/2022/07/07/Bomba-caseira-%C3%A9-lan%C3%A7ada-contra-evento-de-Lula-no-Rio)
 - [Quais as armadilhas econômicas da PEC de ‘bondades’ para 2023](https://www.nexojornal.com.br/expresso/2022/07/07/Quais-as-armadilhas-econ%C3%B4micas-da-PEC-de-%E2%80%98bondades%E2%80%99-para-2023)
-- [STJ suspende decisão que retirou direitos políticos de César Maia](https://www.nexojornal.com.br/extra/2022/07/07/STJ-suspende-decis%C3%A3o-que-retirou-direitos-pol%C3%ADticos-de-C%C3%A9sar-Maia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
