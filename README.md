@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Direito à leitura: comida no prato e livro na mão](https://www.nexojornal.com.br/colunistas/2022/Direito-%C3%A0-leitura-comida-no-prato-e-livro-na-m%C3%A3o)
-- [Como o domínio da Marvel revive modelos da antiga Hollywood](https://www.nexojornal.com.br/expresso/2022/07/07/Como-o-dom%C3%ADnio-da-Marvel-revive-modelos-da-antiga-Hollywood)
-- [Bomba caseira é lançada contra evento de Lula no Rio](https://www.nexojornal.com.br/extra/2022/07/07/Bomba-caseira-%C3%A9-lan%C3%A7ada-contra-evento-de-Lula-no-Rio)
-- [Quais as armadilhas econômicas da PEC de ‘bondades’ para 2023](https://www.nexojornal.com.br/expresso/2022/07/07/Quais-as-armadilhas-econ%C3%B4micas-da-PEC-de-%E2%80%98bondades%E2%80%99-para-2023)
-- [STJ suspende decisão que retirou direitos políticos de César Maia](https://www.nexojornal.com.br/extra/2022/07/07/STJ-suspende-decis%C3%A3o-que-retirou-direitos-pol%C3%ADticos-de-C%C3%A9sar-Maia)
+- [‘A morte é meu ofício’: um clássico sobre a banalidade do mal](https://www.nexojornal.com.br/estante/trechos/2022/07/08/%E2%80%98A-morte-%C3%A9-meu-of%C3%ADcio%E2%80%99-um-cl%C3%A1ssico-sobre-a-banalidade-do-mal)
+- [Morre José Eduardo dos Santos, ex-presidente da Angola](https://www.nexojornal.com.br/extra/2022/07/08/Morre-Jos%C3%A9-Eduardo-dos-Santos-ex-presidente-da-Angola)
+- [Suspeito de comandar assassinatos de Bruno e Dom é preso](https://www.nexojornal.com.br/extra/2022/07/08/Suspeito-de-comandar-assassinatos-de-Bruno-e-Dom-%C3%A9-preso)
+- [Juiz que mandou prender Ribeiro é atacado com fezes](https://www.nexojornal.com.br/extra/2022/07/08/Juiz-que-mandou-prender-Ribeiro-%C3%A9-atacado-com-fezes)
+- [Bolsonaro chega ao décimo mês com inflação acumulada acima dos 10%](https://www.nexojornal.com.br/grafico/2022/07/08/Bolsonaro-chega-ao-d%C3%A9cimo-m%C3%AAs-com-infla%C3%A7%C3%A3o-acumulada-acima-dos-10)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
