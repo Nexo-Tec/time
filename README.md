@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A morte é meu ofício’: um clássico sobre a banalidade do mal](https://www.nexojornal.com.br/estante/trechos/2022/07/08/%E2%80%98A-morte-%C3%A9-meu-of%C3%ADcio%E2%80%99-um-cl%C3%A1ssico-sobre-a-banalidade-do-mal)
-- [Morre José Eduardo dos Santos, ex-presidente da Angola](https://www.nexojornal.com.br/extra/2022/07/08/Morre-Jos%C3%A9-Eduardo-dos-Santos-ex-presidente-da-Angola)
-- [Suspeito de comandar assassinatos de Bruno e Dom é preso](https://www.nexojornal.com.br/extra/2022/07/08/Suspeito-de-comandar-assassinatos-de-Bruno-e-Dom-%C3%A9-preso)
-- [Juiz que mandou prender Ribeiro é atacado com fezes](https://www.nexojornal.com.br/extra/2022/07/08/Juiz-que-mandou-prender-Ribeiro-%C3%A9-atacado-com-fezes)
-- [Bolsonaro chega ao décimo mês com inflação acumulada acima dos 10%](https://www.nexojornal.com.br/grafico/2022/07/08/Bolsonaro-chega-ao-d%C3%A9cimo-m%C3%AAs-com-infla%C3%A7%C3%A3o-acumulada-acima-dos-10)
+- [Preço médio da gasolina recua  8,9%, segundo ANP](https://www.nexojornal.com.br/extra/2022/07/08/Pre%C3%A7o-m%C3%A9dio-da-gasolina-recua-89-segundo-ANP)
+- [A nova biblioteca pública e digital para o estado de São Paulo](https://www.nexojornal.com.br/expresso/2022/07/08/A-nova-biblioteca-p%C3%BAblica-e-digital-para-o-estado-de-S%C3%A3o-Paulo)
+- [Doutorado na maturidade](https://www.nexojornal.com.br/externo/2022/07/08/Doutorado-na-maturidade)
+- [Como o assassinato de Abe se insere no clima político mundial](https://www.nexojornal.com.br/expresso/2022/07/08/Como-o-assassinato-de-Abe-se-insere-no-clima-pol%C3%ADtico-mundial)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
