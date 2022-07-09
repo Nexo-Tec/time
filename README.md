@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Odair José](https://gamarevista.uol.com.br/pessoas/questionario-proust/odair-jose/)
 - [Entre ceder e consentir](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/entre-ceder-e-consentir/)
 - [Estar Vivo Machuca](https://gamarevista.uol.com.br/cultura/trecho-de-livro/estar-vivo-machuca/)
 - [Todas as letras de Gilberto Gil](https://gamarevista.uol.com.br/achamos-que-vale/ler/todas-as-letras-de-gilberto-gil/)
 - [Maconha liberada na nova temporada de ‘Pico da Neblina’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/maconha-liberada-na-nova-temporada-de-pico-da-neblina/)
-- [O desastre climático do Brasil em ‘Tempo Quente’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-denuncia-desastre-climatico-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
