@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Preço médio da gasolina recua  8,9%, segundo ANP](https://www.nexojornal.com.br/extra/2022/07/08/Pre%C3%A7o-m%C3%A9dio-da-gasolina-recua-89-segundo-ANP)
-- [A nova biblioteca pública e digital para o estado de São Paulo](https://www.nexojornal.com.br/expresso/2022/07/08/A-nova-biblioteca-p%C3%BAblica-e-digital-para-o-estado-de-S%C3%A3o-Paulo)
-- [Doutorado na maturidade](https://www.nexojornal.com.br/externo/2022/07/08/Doutorado-na-maturidade)
-- [Como o assassinato de Abe se insere no clima político mundial](https://www.nexojornal.com.br/expresso/2022/07/08/Como-o-assassinato-de-Abe-se-insere-no-clima-pol%C3%ADtico-mundial)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A dupla portuguesa que faz uma releitura LGBTI+ do fado](https://www.nexojornal.com.br/expresso/2022/07/10/A-dupla-portuguesa-que-faz-uma-releitura-LGBTI-do-fado)
+- [Por que mais adultos estão recebendo diagnóstico de autismo](https://www.nexojornal.com.br/expresso/2022/07/10/Por-que-mais-adultos-est%C3%A3o-recebendo-diagn%C3%B3stico-de-autismo)
+- [De abril a julho: o carnaval de rua de São Paulo rumo a 2023](https://www.nexojornal.com.br/ensaio/2022/De-abril-a-julho-o-carnaval-de-rua-de-S%C3%A3o-Paulo-rumo-a-2023)
+- [Bomba na Cinelândia: Justiça decreta prisão preventiva de suspeito](https://www.nexojornal.com.br/extra/2022/07/09/Bomba-na-Cinel%C3%A2ndia-Justi%C3%A7a-decreta-pris%C3%A3o-preventiva-de-suspeito)
+- [Bilionária brasileira Lily Safra morre aos 87 anos](https://www.nexojornal.com.br/extra/2022/07/09/Bilion%C3%A1ria-brasileira-Lily-Safra-morre-aos-87-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
