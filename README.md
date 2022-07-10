@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A cronologia da 2ª Guerra contada a partir de 33 filmes](https://www.nexojornal.com.br/expresso/2022/07/10/A-cronologia-da-2%C2%AA-Guerra-contada-a-partir-de-33-filmes)
+- [5 livros para conhecer a literatura espanhola contemporânea](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-conhecer-a-literatura-espanhola-contempor%C3%A2nea)
 - [A dupla portuguesa que faz uma releitura LGBTI+ do fado](https://www.nexojornal.com.br/expresso/2022/07/10/A-dupla-portuguesa-que-faz-uma-releitura-LGBTI-do-fado)
 - [Por que mais adultos estão recebendo diagnóstico de autismo](https://www.nexojornal.com.br/expresso/2022/07/10/Por-que-mais-adultos-est%C3%A3o-recebendo-diagn%C3%B3stico-de-autismo)
 - [De abril a julho: o carnaval de rua de São Paulo rumo a 2023](https://www.nexojornal.com.br/ensaio/2022/De-abril-a-julho-o-carnaval-de-rua-de-S%C3%A3o-Paulo-rumo-a-2023)
-- [Bomba na Cinelândia: Justiça decreta prisão preventiva de suspeito](https://www.nexojornal.com.br/extra/2022/07/09/Bomba-na-Cinel%C3%A2ndia-Justi%C3%A7a-decreta-pris%C3%A3o-preventiva-de-suspeito)
-- [Bilionária brasileira Lily Safra morre aos 87 anos](https://www.nexojornal.com.br/extra/2022/07/09/Bilion%C3%A1ria-brasileira-Lily-Safra-morre-aos-87-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
