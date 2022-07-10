@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A dupla portuguesa que faz uma releitura LGBTI+ do fado](https://www.nexojornal.com.br/expresso/2022/07/10/A-dupla-portuguesa-que-faz-uma-releitura-LGBTI-do-fado)
-- [Por que mais adultos estão recebendo diagnóstico de autismo](https://www.nexojornal.com.br/expresso/2022/07/10/Por-que-mais-adultos-est%C3%A3o-recebendo-diagn%C3%B3stico-de-autismo)
-- [De abril a julho: o carnaval de rua de São Paulo rumo a 2023](https://www.nexojornal.com.br/ensaio/2022/De-abril-a-julho-o-carnaval-de-rua-de-S%C3%A3o-Paulo-rumo-a-2023)
-- [Bomba na Cinelândia: Justiça decreta prisão preventiva de suspeito](https://www.nexojornal.com.br/extra/2022/07/09/Bomba-na-Cinel%C3%A2ndia-Justi%C3%A7a-decreta-pris%C3%A3o-preventiva-de-suspeito)
-- [Bilionária brasileira Lily Safra morre aos 87 anos](https://www.nexojornal.com.br/extra/2022/07/09/Bilion%C3%A1ria-brasileira-Lily-Safra-morre-aos-87-anos)
+- [Lula diz que auxílios turbinados não vão ‘comprar’ eleitores](https://www.nexojornal.com.br/extra/2022/07/09/Lula-diz-que-aux%C3%ADlios-turbinados-n%C3%A3o-v%C3%A3o-%E2%80%98comprar%E2%80%99-eleitores)
+- [Bolsonaro fala em ‘guerra de bem contra o mal’ em marcha gospel](https://www.nexojornal.com.br/extra/2022/07/09/Bolsonaro-fala-em-%E2%80%98guerra-de-bem-contra-o-mal%E2%80%99-em-marcha-gospel)
+- [Sri Lanka: milhares invadem residência oficial do presidente](https://www.nexojornal.com.br/extra/2022/07/09/Sri-Lanka-milhares-invadem-resid%C3%AAncia-oficial-do-presidente)
+- [Preço médio da gasolina recua  8,9%, segundo ANP](https://www.nexojornal.com.br/extra/2022/07/08/Pre%C3%A7o-m%C3%A9dio-da-gasolina-recua-89-segundo-ANP)
+- [A nova biblioteca pública e digital para o estado de São Paulo](https://www.nexojornal.com.br/expresso/2022/07/08/A-nova-biblioteca-p%C3%BAblica-e-digital-para-o-estado-de-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
