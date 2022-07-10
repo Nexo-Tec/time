@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula diz que auxílios turbinados não vão ‘comprar’ eleitores](https://www.nexojornal.com.br/extra/2022/07/09/Lula-diz-que-aux%C3%ADlios-turbinados-n%C3%A3o-v%C3%A3o-%E2%80%98comprar%E2%80%99-eleitores)
+- [Bolsonaro fala em ‘guerra de bem contra o mal’ em marcha gospel](https://www.nexojornal.com.br/extra/2022/07/09/Bolsonaro-fala-em-%E2%80%98guerra-de-bem-contra-o-mal%E2%80%99-em-marcha-gospel)
+- [Sri Lanka: milhares invadem residência oficial do presidente](https://www.nexojornal.com.br/extra/2022/07/09/Sri-Lanka-milhares-invadem-resid%C3%AAncia-oficial-do-presidente)
 - [Preço médio da gasolina recua  8,9%, segundo ANP](https://www.nexojornal.com.br/extra/2022/07/08/Pre%C3%A7o-m%C3%A9dio-da-gasolina-recua-89-segundo-ANP)
 - [A nova biblioteca pública e digital para o estado de São Paulo](https://www.nexojornal.com.br/expresso/2022/07/08/A-nova-biblioteca-p%C3%BAblica-e-digital-para-o-estado-de-S%C3%A3o-Paulo)
-- [Doutorado na maturidade](https://www.nexojornal.com.br/externo/2022/07/08/Doutorado-na-maturidade)
-- [Como o assassinato de Abe se insere no clima político mundial](https://www.nexojornal.com.br/expresso/2022/07/08/Como-o-assassinato-de-Abe-se-insere-no-clima-pol%C3%ADtico-mundial)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
