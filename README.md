@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anestesista é preso em flagrante por estuprar mulher grávida](https://www.nexojornal.com.br/extra/2022/07/11/Anestesista-%C3%A9-preso-em-flagrante-por-estuprar-mulher-gr%C3%A1vida)
-- [Incêndio atinge prédios comerciais no centro de São Paulo](https://www.nexojornal.com.br/extra/2022/07/11/Inc%C3%AAndio-atinge-pr%C3%A9dios-comerciais-no-centro-de-S%C3%A3o-Paulo)
-- [Racismo e violência estatal: a era das chacinas persiste](https://www.nexojornal.com.br/ensaio/2022/Racismo-e-viol%C3%AAncia-estatal-a-era-das-chacinas-persiste)
-- [‘Os historiadores têm de entrar para a política’](https://www.nexojornal.com.br/entrevista/2022/07/11/%E2%80%98Os-historiadores-t%C3%AAm-de-entrar-para-a-pol%C3%ADtica%E2%80%99)
-- [Quais fatores podem mexer com a inflação no 2º semestre de 2022](https://www.nexojornal.com.br/expresso/2022/07/11/Quais-fatores-podem-mexer-com-a-infla%C3%A7%C3%A3o-no-2%C2%BA-semestre-de-2022)
+- [Ataque a tiros em bar deixa 15 mortos na África do Sul](https://www.nexojornal.com.br/extra/2022/07/10/Ataque-a-tiros-em-bar-deixa-15-mortos-na-%C3%81frica-do-Sul)
+- [Novak Djokovic conquista seu 7° título em Wimbledon](https://www.nexojornal.com.br/extra/2022/07/10/Novak-Djokovic-conquista-seu-7%C2%B0-t%C3%ADtulo-em-Wimbledon)
+- [Bolsonarista invade festa e mata petista em Foz do Iguaçu](https://www.nexojornal.com.br/extra/2022/07/10/Bolsonarista-invade-festa-e-mata-petista-em-Foz-do-Igua%C3%A7u)
+- [A cronologia da 2ª Guerra contada a partir de 33 filmes](https://www.nexojornal.com.br/expresso/2022/07/10/A-cronologia-da-2%C2%AA-Guerra-contada-a-partir-de-33-filmes)
+- [5 livros para conhecer a literatura espanhola contemporânea](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-conhecer-a-literatura-espanhola-contempor%C3%A2nea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
