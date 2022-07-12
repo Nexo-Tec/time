@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Violência dos dois lados? A falsa simetria na política de 2022](https://www.nexojornal.com.br/expresso/2022/07/11/Viol%C3%AAncia-dos-dois-lados-A-falsa-simetria-na-pol%C3%ADtica-de-2022)
-- [Quem tem fome vota, mas a favela &lpar;ainda&rpar; não venceu](https://www.nexojornal.com.br/colunistas/2022/Quem-tem-fome-vota-mas-a-favela-ainda-n%C3%A3o-venceu)
-- [Twitter perde mais de US$ 3 bi de valor de mercado em um dia](https://www.nexojornal.com.br/extra/2022/07/11/Twitter-perde-mais-de-US-3-bi-de-valor-de-mercado-em-um-dia)
-- [Quando a violência política caminha para o descontrole](https://www.nexojornal.com.br/podcast/2022/07/11/Quando-a-viol%C3%AAncia-pol%C3%ADtica-caminha-para-o-descontrole)
-- [Cubanos vivem momento de maior repressão na ilha, diz ONG](https://www.nexojornal.com.br/extra/2022/07/11/Cubanos-vivem-momento-de-maior-repress%C3%A3o-na-ilha-diz-ONG)
+- [Emmy 2022: ‘Succession’ e ‘Ted Lasso’ lideram indicações](https://www.nexojornal.com.br/extra/2022/07/12/Emmy-2022-%E2%80%98Succession%E2%80%99-e-%E2%80%98Ted-Lasso%E2%80%99-lideram-indica%C3%A7%C3%B5es)
+- [Por que a rejeição a Joe Biden é tão grande nos EUA](https://www.nexojornal.com.br/expresso/2022/07/12/Por-que-a-rejei%C3%A7%C3%A3o-a-Joe-Biden-%C3%A9-t%C3%A3o-grande-nos-EUA)
+- [Sergio Moro lança pré-candidatura ao Senado pelo Paraná](https://www.nexojornal.com.br/extra/2022/07/12/Sergio-Moro-lan%C3%A7a-pr%C3%A9-candidatura-ao-Senado-pelo-Paran%C3%A1)
+- [Planos de saúde concederão consultas ilimitadas com psicólogos](https://www.nexojornal.com.br/extra/2022/07/12/Planos-de-sa%C3%BAde-conceder%C3%A3o-consultas-ilimitadas-com-psic%C3%B3logos)
+- [Euro fica em paridade com o dólar pela 1ª vez desde 2002](https://www.nexojornal.com.br/extra/2022/07/12/Euro-fica-em-paridade-com-o-d%C3%B3lar-pela-1%C2%AA-vez-desde-2002)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
