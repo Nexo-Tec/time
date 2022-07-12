@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sony Walkman TPS-L2](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sony-walkman-tps-l2/)
 - [@samyoukilis](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/samyoukilis/)
 - [“As pessoas não conhecem sua própria vida financeira”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-pessoas-nao-conhecem-sua-propria-vida-financeira/)
 - [Odair José](https://gamarevista.uol.com.br/pessoas/questionario-proust/odair-jose/)
 - [Entre ceder e consentir](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/entre-ceder-e-consentir/)
-- [Estar Vivo Machuca](https://gamarevista.uol.com.br/cultura/trecho-de-livro/estar-vivo-machuca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
