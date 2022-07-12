@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anestesista é preso em flagrante por estuprar mulher grávida](https://www.nexojornal.com.br/extra/2022/07/11/Anestesista-%C3%A9-preso-em-flagrante-por-estuprar-mulher-gr%C3%A1vida)
-- [Incêndio atinge prédios comerciais no centro de São Paulo](https://www.nexojornal.com.br/extra/2022/07/11/Inc%C3%AAndio-atinge-pr%C3%A9dios-comerciais-no-centro-de-S%C3%A3o-Paulo)
-- [Racismo e violência estatal: a era das chacinas persiste](https://www.nexojornal.com.br/ensaio/2022/Racismo-e-viol%C3%AAncia-estatal-a-era-das-chacinas-persiste)
-- [‘Os historiadores têm de entrar para a política’](https://www.nexojornal.com.br/entrevista/2022/07/11/%E2%80%98Os-historiadores-t%C3%AAm-de-entrar-para-a-pol%C3%ADtica%E2%80%99)
-- [Quais fatores podem mexer com a inflação no 2º semestre de 2022](https://www.nexojornal.com.br/expresso/2022/07/11/Quais-fatores-podem-mexer-com-a-infla%C3%A7%C3%A3o-no-2%C2%BA-semestre-de-2022)
+- [Violência dos dois lados? A falsa simetria na política de 2022](https://www.nexojornal.com.br/expresso/2022/07/11/Viol%C3%AAncia-dos-dois-lados-A-falsa-simetria-na-pol%C3%ADtica-de-2022)
+- [Quem tem fome vota, mas a favela &lpar;ainda&rpar; não venceu](https://www.nexojornal.com.br/colunistas/2022/Quem-tem-fome-vota-mas-a-favela-ainda-n%C3%A3o-venceu)
+- [Twitter perde mais de US$ 3 bi de valor de mercado em um dia](https://www.nexojornal.com.br/extra/2022/07/11/Twitter-perde-mais-de-US-3-bi-de-valor-de-mercado-em-um-dia)
+- [Quando a violência política caminha para o descontrole](https://www.nexojornal.com.br/podcast/2022/07/11/Quando-a-viol%C3%AAncia-pol%C3%ADtica-caminha-para-o-descontrole)
+- [Cubanos vivem momento de maior repressão na ilha, diz ONG](https://www.nexojornal.com.br/extra/2022/07/11/Cubanos-vivem-momento-de-maior-repress%C3%A3o-na-ilha-diz-ONG)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
