@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Começa período de matrículas de estudantes aprovados no Sisu](https://www.nexojornal.com.br/extra/2022/07/13/Come%C3%A7a-per%C3%ADodo-de-matr%C3%ADculas-de-estudantes-aprovados-no-Sisu)
-- [Maior superlua de 2022: veja como observar o fenômeno](https://www.nexojornal.com.br/extra/2022/07/13/Maior-superlua-de-2022-veja-como-observar-o-fen%C3%B4meno)
-- [Invasão da Ucrânia já gerou mais de 5 milhões de refugiados](https://www.nexojornal.com.br/grafico/2022/07/13/Invas%C3%A3o-da-Ucr%C3%A2nia-j%C3%A1-gerou-mais-de-5-milh%C3%B5es-de-refugiados)
-- [Pela 1ª vez, papa nomeia mulheres para comitê do Vaticano](https://www.nexojornal.com.br/extra/2022/07/13/Pela-1%C2%AA-vez-papa-nomeia-mulheres-para-comit%C3%AA-do-Vaticano)
-- [Euro fica abaixo do dólar pela primeira vez em quase 20 anos](https://www.nexojornal.com.br/extra/2022/07/13/Euro-fica-abaixo-do-d%C3%B3lar-pela-primeira-vez-em-quase-20-anos)
+- [O que a comissão sobre o ataque ao Capitólio revelou contra Trump](https://www.nexojornal.com.br/expresso/2022/07/13/O-que-a-comiss%C3%A3o-sobre-o-ataque-ao-Capit%C3%B3lio-revelou-contra-Trump)
+- [Uso de camisinha entre adolescentes diminuiu, diz IBGE](https://www.nexojornal.com.br/extra/2022/07/13/Uso-de-camisinha-entre-adolescentes-diminuiu-diz-IBGE)
+- [Conselho suspende anestesista que estuprou mulher grávida](https://www.nexojornal.com.br/extra/2022/07/13/Conselho-suspende-anestesista-que-estuprou-mulher-gr%C3%A1vida)
+- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
+- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
