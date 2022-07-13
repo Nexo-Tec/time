@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Emmy 2022: ‘Succession’ e ‘Ted Lasso’ lideram indicações](https://www.nexojornal.com.br/extra/2022/07/12/Emmy-2022-%E2%80%98Succession%E2%80%99-e-%E2%80%98Ted-Lasso%E2%80%99-lideram-indica%C3%A7%C3%B5es)
-- [Por que a rejeição a Joe Biden é tão grande nos EUA](https://www.nexojornal.com.br/expresso/2022/07/12/Por-que-a-rejei%C3%A7%C3%A3o-a-Joe-Biden-%C3%A9-t%C3%A3o-grande-nos-EUA)
-- [Sergio Moro lança pré-candidatura ao Senado pelo Paraná](https://www.nexojornal.com.br/extra/2022/07/12/Sergio-Moro-lan%C3%A7a-pr%C3%A9-candidatura-ao-Senado-pelo-Paran%C3%A1)
-- [Planos de saúde concederão consultas ilimitadas com psicólogos](https://www.nexojornal.com.br/extra/2022/07/12/Planos-de-sa%C3%BAde-conceder%C3%A3o-consultas-ilimitadas-com-psic%C3%B3logos)
-- [Euro fica em paridade com o dólar pela 1ª vez desde 2002](https://www.nexojornal.com.br/extra/2022/07/12/Euro-fica-em-paridade-com-o-d%C3%B3lar-pela-1%C2%AA-vez-desde-2002)
+- [O que a comissão sobre o ataque ao Capitólio revelou contra Trump](https://www.nexojornal.com.br/expresso/2022/07/13/O-que-a-comiss%C3%A3o-sobre-o-ataque-ao-Capit%C3%B3lio-revelou-contra-Trump)
+- [Uso de camisinha entre adolescentes diminuiu, diz IBGE](https://www.nexojornal.com.br/extra/2022/07/13/Uso-de-camisinha-entre-adolescentes-diminuiu-diz-IBGE)
+- [Conselho suspende anestesista que estuprou mulher grávida](https://www.nexojornal.com.br/extra/2022/07/13/Conselho-suspende-anestesista-que-estuprou-mulher-gr%C3%A1vida)
+- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
+- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
