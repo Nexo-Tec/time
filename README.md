@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Planos de saúde concederão consultas ilimitadas com psicólogos](https://www.nexojornal.com.br/extra/2022/07/12/Planos-de-sa%C3%BAde-conceder%C3%A3o-consultas-ilimitadas-com-psic%C3%B3logos)
-- [Euro fica em paridade com o dólar pela 1ª vez desde 2002](https://www.nexojornal.com.br/extra/2022/07/12/Euro-fica-em-paridade-com-o-d%C3%B3lar-pela-1%C2%AA-vez-desde-2002)
-- [Violência dos dois lados? A falsa simetria na política de 2022](https://www.nexojornal.com.br/expresso/2022/07/11/Viol%C3%AAncia-dos-dois-lados-A-falsa-simetria-na-pol%C3%ADtica-de-2022)
-- [Quem tem fome vota, mas a favela &lpar;ainda&rpar; não venceu](https://www.nexojornal.com.br/colunistas/2022/Quem-tem-fome-vota-mas-a-favela-ainda-n%C3%A3o-venceu)
-- [Twitter perde mais de US$ 3 bi de valor de mercado em um dia](https://www.nexojornal.com.br/extra/2022/07/11/Twitter-perde-mais-de-US-3-bi-de-valor-de-mercado-em-um-dia)
+- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
+- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
+- [A violência que corrói o pacto social brasileiro](https://www.nexojornal.com.br/colunistas/2022/A-viol%C3%AAncia-que-corr%C3%B3i-o-pacto-social-brasileiro)
+- [Bolsonaro telefona para família de petista assassinado](https://www.nexojornal.com.br/extra/2022/07/12/Bolsonaro-telefona-para-fam%C3%ADlia-de-petista-assassinado)
+- [‘O silêncio é uma forma de conivência com casos de abuso’](https://www.nexojornal.com.br/entrevista/2022/07/12/%E2%80%98O-sil%C3%AAncio-%C3%A9-uma-forma-de-coniv%C3%AAncia-com-casos-de-abuso%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
