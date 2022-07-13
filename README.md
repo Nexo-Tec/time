@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
-- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
-- [A violência que corrói o pacto social brasileiro](https://www.nexojornal.com.br/colunistas/2022/A-viol%C3%AAncia-que-corr%C3%B3i-o-pacto-social-brasileiro)
-- [Bolsonaro telefona para família de petista assassinado](https://www.nexojornal.com.br/extra/2022/07/12/Bolsonaro-telefona-para-fam%C3%ADlia-de-petista-assassinado)
-- [‘O silêncio é uma forma de conivência com casos de abuso’](https://www.nexojornal.com.br/entrevista/2022/07/12/%E2%80%98O-sil%C3%AAncio-%C3%A9-uma-forma-de-coniv%C3%AAncia-com-casos-de-abuso%E2%80%99)
+- [Começa período de matrículas de estudantes aprovados no Sisu](https://www.nexojornal.com.br/extra/2022/07/13/Come%C3%A7a-per%C3%ADodo-de-matr%C3%ADculas-de-estudantes-aprovados-no-Sisu)
+- [Maior superlua de 2022: veja como observar o fenômeno](https://www.nexojornal.com.br/extra/2022/07/13/Maior-superlua-de-2022-veja-como-observar-o-fen%C3%B4meno)
+- [Invasão da Ucrânia já gerou mais de 5 milhões de refugiados](https://www.nexojornal.com.br/grafico/2022/07/13/Invas%C3%A3o-da-Ucr%C3%A2nia-j%C3%A1-gerou-mais-de-5-milh%C3%B5es-de-refugiados)
+- [Pela 1ª vez, papa nomeia mulheres para comitê do Vaticano](https://www.nexojornal.com.br/extra/2022/07/13/Pela-1%C2%AA-vez-papa-nomeia-mulheres-para-comit%C3%AA-do-Vaticano)
+- [Euro fica abaixo do dólar pela primeira vez em quase 20 anos](https://www.nexojornal.com.br/extra/2022/07/13/Euro-fica-abaixo-do-d%C3%B3lar-pela-primeira-vez-em-quase-20-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
