@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a comissão sobre o ataque ao Capitólio revelou contra Trump](https://www.nexojornal.com.br/expresso/2022/07/13/O-que-a-comiss%C3%A3o-sobre-o-ataque-ao-Capit%C3%B3lio-revelou-contra-Trump)
-- [Uso de camisinha entre adolescentes diminuiu, diz IBGE](https://www.nexojornal.com.br/extra/2022/07/13/Uso-de-camisinha-entre-adolescentes-diminuiu-diz-IBGE)
-- [Conselho suspende anestesista que estuprou mulher grávida](https://www.nexojornal.com.br/extra/2022/07/13/Conselho-suspende-anestesista-que-estuprou-mulher-gr%C3%A1vida)
 - [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
 - [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
+- [A violência que corrói o pacto social brasileiro](https://www.nexojornal.com.br/colunistas/2022/A-viol%C3%AAncia-que-corr%C3%B3i-o-pacto-social-brasileiro)
+- [Bolsonaro telefona para família de petista assassinado](https://www.nexojornal.com.br/extra/2022/07/12/Bolsonaro-telefona-para-fam%C3%ADlia-de-petista-assassinado)
+- [‘O silêncio é uma forma de conivência com casos de abuso’](https://www.nexojornal.com.br/entrevista/2022/07/12/%E2%80%98O-sil%C3%AAncio-%C3%A9-uma-forma-de-coniv%C3%AAncia-com-casos-de-abuso%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
