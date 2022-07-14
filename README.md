@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Equilibre vida e trabalho &lpar;e fuja do burnout&rpar;](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/equilibre-vida-e-trabalho-e-fuja-do-burnout/)
-- [“A Mulher da Casa Abandonada”: um arquivo vivo sobre o horror](https://gamarevista.uol.com.br/artigo/a-mulher-da-casa-abandonada-um-arquivo-vivo-sobre-o-horror/)
-- [Homem com H &lpar;de horror&rpar;](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/homem-com-h-de-horror/)
-- [Sony Walkman TPS-L2](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sony-walkman-tps-l2/)
-- [@samyoukilis](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/samyoukilis/)
+- [Pesquisa histórica, científica e cultural em ‘Como Mudar sua Mente’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pesquisa-historica-cientifica-e-cultural-em-como-mudar-sua-mente/)
+- [Uma fotobiografia que mostra a trajetória de Saramago](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-fotobiografia-que-mostra-a-trajetoria-de-saramago/)
+- [As composições de Nick Cave documentadas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-composicoes-de-nick-cave-documentadas/)
+- [O futuro distópico de David Cronenberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-futuro-distopico-de-david-cronenberg/)
+- [Arte e crise climática no Mube](https://gamarevista.uol.com.br/achamos-que-vale/fazer/arte-e-crise-climatica-no-mube/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
