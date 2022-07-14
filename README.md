@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Equilibre vida e trabalho &lpar;e fuja do burnout&rpar;](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/equilibre-vida-e-trabalho-e-fuja-do-burnout/)
 - [“A Mulher da Casa Abandonada”: um arquivo vivo sobre o horror](https://gamarevista.uol.com.br/artigo/a-mulher-da-casa-abandonada-um-arquivo-vivo-sobre-o-horror/)
 - [Homem com H &lpar;de horror&rpar;](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/homem-com-h-de-horror/)
 - [Sony Walkman TPS-L2](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sony-walkman-tps-l2/)
 - [@samyoukilis](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/samyoukilis/)
-- [“As pessoas não conhecem sua própria vida financeira”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-pessoas-nao-conhecem-sua-propria-vida-financeira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
