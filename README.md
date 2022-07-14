@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara aprova PEC que garante piso salarial para enfermagem](https://www.nexojornal.com.br/extra/2022/07/13/C%C3%A2mara-aprova-PEC-que-garante-piso-salarial-para-enfermagem)
-- [Como Bolsonaro tenta aplacar o desgaste após o crime em Foz](https://www.nexojornal.com.br/expresso/2022/07/13/Como-Bolsonaro-tenta-aplacar-o-desgaste-ap%C3%B3s-o-crime-em-Foz)
-- [As aparentes contradições da Geração Z em relação ao sexo](https://www.nexojornal.com.br/expresso/2022/07/13/As-aparentes-contradi%C3%A7%C3%B5es-da-Gera%C3%A7%C3%A3o-Z-em-rela%C3%A7%C3%A3o-ao-sexo)
-- [Por que a ciência deve pautar políticas públicas](https://www.nexojornal.com.br/colunistas/2022/Por-que-a-ci%C3%AAncia-deve-pautar-pol%C3%ADticas-p%C3%BAblicas)
-- [Incêndio na região da 25 de Março é contido após 60 horas](https://www.nexojornal.com.br/extra/2022/07/13/Inc%C3%AAndio-na-regi%C3%A3o-da-25-de-Mar%C3%A7o-%C3%A9-contido-ap%C3%B3s-60-horas)
+- [O que a comissão sobre o ataque ao Capitólio revelou contra Trump](https://www.nexojornal.com.br/expresso/2022/07/13/O-que-a-comiss%C3%A3o-sobre-o-ataque-ao-Capit%C3%B3lio-revelou-contra-Trump)
+- [Uso de camisinha entre adolescentes diminuiu, diz IBGE](https://www.nexojornal.com.br/extra/2022/07/13/Uso-de-camisinha-entre-adolescentes-diminuiu-diz-IBGE)
+- [Conselho suspende anestesista que estuprou mulher grávida](https://www.nexojornal.com.br/extra/2022/07/13/Conselho-suspende-anestesista-que-estuprou-mulher-gr%C3%A1vida)
+- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
+- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
