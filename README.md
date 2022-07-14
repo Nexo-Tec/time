@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As novas investidas dos militares contra o sistema eleitoral](https://www.nexojornal.com.br/expresso/2022/07/12/As-novas-investidas-dos-militares-contra-o-sistema-eleitoral)
-- [TDAH: o distúrbio que impõe tudo ao mesmo tempo, o tempo todo](https://www.nexojornal.com.br/explicado/2022/07/12/TDAH-o-dist%C3%BArbio-que-imp%C3%B5e-tudo-ao-mesmo-tempo-o-tempo-todo)
-- [A violência que corrói o pacto social brasileiro](https://www.nexojornal.com.br/colunistas/2022/A-viol%C3%AAncia-que-corr%C3%B3i-o-pacto-social-brasileiro)
-- [Bolsonaro telefona para família de petista assassinado](https://www.nexojornal.com.br/extra/2022/07/12/Bolsonaro-telefona-para-fam%C3%ADlia-de-petista-assassinado)
-- [‘O silêncio é uma forma de conivência com casos de abuso’](https://www.nexojornal.com.br/entrevista/2022/07/12/%E2%80%98O-sil%C3%AAncio-%C3%A9-uma-forma-de-coniv%C3%AAncia-com-casos-de-abuso%E2%80%99)
+- [Câmara aprova PEC que garante piso salarial para enfermagem](https://www.nexojornal.com.br/extra/2022/07/13/C%C3%A2mara-aprova-PEC-que-garante-piso-salarial-para-enfermagem)
+- [Como Bolsonaro tenta aplacar o desgaste após o crime em Foz](https://www.nexojornal.com.br/expresso/2022/07/13/Como-Bolsonaro-tenta-aplacar-o-desgaste-ap%C3%B3s-o-crime-em-Foz)
+- [As aparentes contradições da Geração Z em relação ao sexo](https://www.nexojornal.com.br/expresso/2022/07/13/As-aparentes-contradi%C3%A7%C3%B5es-da-Gera%C3%A7%C3%A3o-Z-em-rela%C3%A7%C3%A3o-ao-sexo)
+- [Por que a ciência deve pautar políticas públicas](https://www.nexojornal.com.br/colunistas/2022/Por-que-a-ci%C3%AAncia-deve-pautar-pol%C3%ADticas-p%C3%BAblicas)
+- [Incêndio na região da 25 de Março é contido após 60 horas](https://www.nexojornal.com.br/extra/2022/07/13/Inc%C3%AAndio-na-regi%C3%A3o-da-25-de-Mar%C3%A7o-%C3%A9-contido-ap%C3%B3s-60-horas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
