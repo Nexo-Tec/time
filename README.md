@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Consumo consciente desde o primeiro gole](https://gamarevista.uol.com.br/parcerias/consumo-consciente-desde-o-primeiro-gole/)
+- [Humanos Exemplares](https://gamarevista.uol.com.br/cultura/trecho-de-livro/humanos-exemplares/)
 - [Pesquisa histórica, científica e cultural em ‘Como Mudar sua Mente’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pesquisa-historica-cientifica-e-cultural-em-como-mudar-sua-mente/)
 - [Uma fotobiografia que mostra a trajetória de Saramago](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-fotobiografia-que-mostra-a-trajetoria-de-saramago/)
 - [As composições de Nick Cave documentadas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-composicoes-de-nick-cave-documentadas/)
-- [O futuro distópico de David Cronenberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-futuro-distopico-de-david-cronenberg/)
-- [Arte e crise climática no Mube](https://gamarevista.uol.com.br/achamos-que-vale/fazer/arte-e-crise-climatica-no-mube/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
