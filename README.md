@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O gol 199](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-gol-199/)
 - [Consumo consciente desde o primeiro gole](https://gamarevista.uol.com.br/parcerias/consumo-consciente-desde-o-primeiro-gole/)
 - [Humanos Exemplares](https://gamarevista.uol.com.br/cultura/trecho-de-livro/humanos-exemplares/)
 - [Pesquisa histórica, científica e cultural em ‘Como Mudar sua Mente’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pesquisa-historica-cientifica-e-cultural-em-como-mudar-sua-mente/)
 - [Uma fotobiografia que mostra a trajetória de Saramago](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-fotobiografia-que-mostra-a-trajetoria-de-saramago/)
-- [As composições de Nick Cave documentadas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-composicoes-de-nick-cave-documentadas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
