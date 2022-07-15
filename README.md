@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os direitos de quem vai dar à luz. E os protocolos médicos](https://www.nexojornal.com.br/expresso/2022/07/14/Os-direitos-de-quem-vai-dar-%C3%A0-luz.-E-os-protocolos-m%C3%A9dicos)
-- [Anestesista preso será investigado por suspeitas de 30 estupros](https://www.nexojornal.com.br/extra/2022/07/14/Anestesista-preso-ser%C3%A1-investigado-por-suspeitas-de-30-estupros)
-- [Por que a Netflix terá um plano de assinatura com comerciais](https://www.nexojornal.com.br/expresso/2022/07/14/Por-que-a-Netflix-ter%C3%A1-um-plano-de-assinatura-com-comerciais)
-- [Caso Kathlen Romeu: 2 PMs são denunciados por assassinato](https://www.nexojornal.com.br/extra/2022/07/14/Caso-Kathlen-Romeu-2-PMs-s%C3%A3o-denunciados-por-assassinato)
-- [Covid: o que falta para ampliar a vacinação infantil no Brasil](https://www.nexojornal.com.br/podcast/2022/07/14/Covid-o-que-falta-para-ampliar-a-vacina%C3%A7%C3%A3o-infantil-no-Brasil)
+- [Câmara aprova PEC que garante piso salarial para enfermagem](https://www.nexojornal.com.br/extra/2022/07/13/C%C3%A2mara-aprova-PEC-que-garante-piso-salarial-para-enfermagem)
+- [Como Bolsonaro tenta aplacar o desgaste após o crime em Foz](https://www.nexojornal.com.br/expresso/2022/07/13/Como-Bolsonaro-tenta-aplacar-o-desgaste-ap%C3%B3s-o-crime-em-Foz)
+- [As aparentes contradições da Geração Z em relação ao sexo](https://www.nexojornal.com.br/expresso/2022/07/13/As-aparentes-contradi%C3%A7%C3%B5es-da-Gera%C3%A7%C3%A3o-Z-em-rela%C3%A7%C3%A3o-ao-sexo)
+- [Por que a ciência deve pautar políticas públicas](https://www.nexojornal.com.br/colunistas/2022/Por-que-a-ci%C3%AAncia-deve-pautar-pol%C3%ADticas-p%C3%BAblicas)
+- [Incêndio na região da 25 de Março é contido após 60 horas](https://www.nexojornal.com.br/extra/2022/07/13/Inc%C3%AAndio-na-regi%C3%A3o-da-25-de-Mar%C3%A7o-%C3%A9-contido-ap%C3%B3s-60-horas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
