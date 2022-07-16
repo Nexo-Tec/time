@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Fernanda Nobre](https://gamarevista.uol.com.br/pessoas/questionario-proust/fernanda-nobre/)
 - [O gol 199](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-gol-199/)
 - [Consumo responsável desde o primeiro gole](https://gamarevista.uol.com.br/parcerias/consumo-responsavel-desde-o-primeiro-gole/)
 - [Humanos Exemplares](https://gamarevista.uol.com.br/cultura/trecho-de-livro/humanos-exemplares/)
 - [Pesquisa histórica, científica e cultural em ‘Como Mudar sua Mente’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pesquisa-historica-cientifica-e-cultural-em-como-mudar-sua-mente/)
-- [Uma fotobiografia que mostra a trajetória de Saramago](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-fotobiografia-que-mostra-a-trajetoria-de-saramago/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
