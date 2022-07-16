@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desenhos de Modigliani são descobertos sob quadro do pintor](https://www.nexojornal.com.br/extra/2022/07/15/Desenhos-de-Modigliani-s%C3%A3o-descobertos-sob-quadro-do-pintor)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/15/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Nova onda de sequestros de revistas](https://www.nexojornal.com.br/externo/2022/07/15/Nova-onda-de-sequestros-de-revistas)
-- [O jogo gratuito que põe você diante de dilemas éticos](https://www.nexojornal.com.br/expresso/2022/07/15/O-jogo-gratuito-que-p%C3%B5e-voc%C3%AA-diante-de-dilemas-%C3%A9ticos)
-- [Levantamento aponta desabastecimento de remédios no país](https://www.nexojornal.com.br/extra/2022/07/15/Levantamento-aponta-desabastecimento-de-rem%C3%A9dios-no-pa%C3%ADs)
+- [Os direitos de quem vai dar à luz. E os protocolos médicos](https://www.nexojornal.com.br/expresso/2022/07/14/Os-direitos-de-quem-vai-dar-%C3%A0-luz.-E-os-protocolos-m%C3%A9dicos)
+- [Anestesista preso será investigado por suspeitas de 30 estupros](https://www.nexojornal.com.br/extra/2022/07/14/Anestesista-preso-ser%C3%A1-investigado-por-suspeitas-de-30-estupros)
+- [Por que a Netflix terá um plano de assinatura com comerciais](https://www.nexojornal.com.br/expresso/2022/07/14/Por-que-a-Netflix-ter%C3%A1-um-plano-de-assinatura-com-comerciais)
+- [Caso Kathlen Romeu: 2 PMs são denunciados por assassinato](https://www.nexojornal.com.br/extra/2022/07/14/Caso-Kathlen-Romeu-2-PMs-s%C3%A3o-denunciados-por-assassinato)
+- [Covid: o que falta para ampliar a vacinação infantil no Brasil](https://www.nexojornal.com.br/podcast/2022/07/14/Covid-o-que-falta-para-ampliar-a-vacina%C3%A7%C3%A3o-infantil-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
