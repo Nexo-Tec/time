@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [7 pontos sobre indicadores e políticas públicas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/7-pontos-sobre-indicadores-e-pol%C3%ADticas-p%C3%BAblicas)
-- [Ações afirmativas na UFRJ](https://pp.nexojornal.com.br/linha-do-tempo/2022/A%C3%A7%C3%B5es-afirmativas-na-UFRJ)
-- [Nessas eleições, pense na Amazônia](https://pp.nexojornal.com.br/opiniao/2022/Nessas-elei%C3%A7%C3%B5es-pense-na-Amaz%C3%B4nia)
 - [A contratação de jovens com ensino médio e técnico pelo mercado de trabalho](https://pp.nexojornal.com.br/Dados/2022/07/12/A-contrata%C3%A7%C3%A3o-de-jovens-com-ensino-m%C3%A9dio-e-t%C3%A9cnico-pelo-mercado-de-trabalho)
 - [Alimentação escolar no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Alimenta%C3%A7%C3%A3o-escolar-no-Brasil)
+- [Raça, racismo e racialização na Amazônia brasileira](https://pp.nexojornal.com.br/bibliografia-basica/2022/07/12/Ra%C3%A7a-racismo-e-racializa%C3%A7%C3%A3o-na-Amaz%C3%B4nia-brasileira)
+- [Como a Guerra Fria nos ajuda a entender a obra de Florestan Fernandes](https://pp.nexojornal.com.br/academico/2022/Como-a-Guerra-Fria-nos-ajuda-a-entender-a-obra-de-Florestan-Fernandes)
+- [Projetos de infraestrutura na Amazônia: a quem devem beneficiar?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Projetos-de-infraestrutura-na-Amaz%C3%B4nia-a-quem-devem-beneficiar)
 <!-- PP_LIST:END -->
 
