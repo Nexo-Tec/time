@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil bate EUA e conquista ouro por equipes em Pan de ginástica](https://www.nexojornal.com.br/extra/2022/07/17/Brasil-bate-EUA-e-conquista-ouro-por-equipes-em-Pan-de-gin%C3%A1stica)
+- [Avião que carregava munições para Bangladesh cai na Grécia](https://www.nexojornal.com.br/extra/2022/07/17/Avi%C3%A3o-que-carregava-muni%C3%A7%C3%B5es-para-Bangladesh-cai-na-Gr%C3%A9cia)
+- [Ministro pede que PF investigue filme que encena ataque a presidente](https://www.nexojornal.com.br/extra/2022/07/17/Ministro-pede-que-PF-investigue-filme-que-encena-ataque-a-presidente)
 - [Orçamento secreto: como ficam os pagamentos a partir de 2023](https://www.nexojornal.com.br/expresso/2022/07/16/Or%C3%A7amento-secreto-como-ficam-os-pagamentos-a-partir-de-2023)
 - [Como a guerra de gangues volta a assombrar o Haiti](https://www.nexojornal.com.br/expresso/2022/07/16/Como-a-guerra-de-gangues-volta-a-assombrar-o-Haiti)
-- [A HQ da Turma da Mônica sobre o impacto dos influenciadores](https://www.nexojornal.com.br/expresso/2022/07/16/A-HQ-da-Turma-da-M%C3%B4nica-sobre-o-impacto-dos-influenciadores)
-- [5 livros sobre luto e memória a partir da experiência da perda](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-luto-e-mem%C3%B3ria-a-partir-da-experi%C3%AAncia-da-perda)
-- [O que fazer com alunos ansiosos, agitados e dispersos](https://www.nexojornal.com.br/ensaio/2022/O-que-fazer-com-alunos-ansiosos-agitados-e-dispersos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
