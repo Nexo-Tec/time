@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 750 bibliotecas públicas fecharam no Brasil em 5 anos](https://www.nexojornal.com.br/extra/2022/07/16/Mais-de-750-bibliotecas-p%C3%BAblicas-fecharam-no-Brasil-em-5-anos)
-- [Por que a Lei de Cotas não precisa de chancela, só de revisão](https://www.nexojornal.com.br/expresso/2022/07/16/Por-que-a-Lei-de-Cotas-n%C3%A3o-precisa-de-chancela-s%C3%B3-de-revis%C3%A3o)
-- [Desenhos de Modigliani são descobertos sob quadro do pintor](https://www.nexojornal.com.br/extra/2022/07/15/Desenhos-de-Modigliani-s%C3%A3o-descobertos-sob-quadro-do-pintor)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/15/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Nova onda de sequestros de revistas](https://www.nexojornal.com.br/externo/2022/07/15/Nova-onda-de-sequestros-de-revistas)
+- [Orçamento secreto: como ficam os pagamentos a partir de 2023](https://www.nexojornal.com.br/expresso/2022/07/16/Or%C3%A7amento-secreto-como-ficam-os-pagamentos-a-partir-de-2023)
+- [Como a guerra de gangues volta a assombrar o Haiti](https://www.nexojornal.com.br/expresso/2022/07/16/Como-a-guerra-de-gangues-volta-a-assombrar-o-Haiti)
+- [A HQ da Turma da Mônica sobre o impacto dos influenciadores](https://www.nexojornal.com.br/expresso/2022/07/16/A-HQ-da-Turma-da-M%C3%B4nica-sobre-o-impacto-dos-influenciadores)
+- [5 livros sobre luto e memória a partir da experiência da perda](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-sobre-luto-e-mem%C3%B3ria-a-partir-da-experi%C3%AAncia-da-perda)
+- [O que fazer com alunos ansiosos, agitados e dispersos](https://www.nexojornal.com.br/ensaio/2022/O-que-fazer-com-alunos-ansiosos-agitados-e-dispersos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
