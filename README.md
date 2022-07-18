@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil bate EUA e conquista ouro por equipes em Pan de ginástica](https://www.nexojornal.com.br/extra/2022/07/17/Brasil-bate-EUA-e-conquista-ouro-por-equipes-em-Pan-de-gin%C3%A1stica)
-- [Avião que carregava munições para Bangladesh cai na Grécia](https://www.nexojornal.com.br/extra/2022/07/17/Avi%C3%A3o-que-carregava-muni%C3%A7%C3%B5es-para-Bangladesh-cai-na-Gr%C3%A9cia)
-- [Ministro pede que PF investigue filme que encena ataque a presidente](https://www.nexojornal.com.br/extra/2022/07/17/Ministro-pede-que-PF-investigue-filme-que-encena-ataque-a-presidente)
-- [Orçamento secreto: como ficam os pagamentos a partir de 2023](https://www.nexojornal.com.br/expresso/2022/07/16/Or%C3%A7amento-secreto-como-ficam-os-pagamentos-a-partir-de-2023)
-- [Como a guerra de gangues volta a assombrar o Haiti](https://www.nexojornal.com.br/expresso/2022/07/16/Como-a-guerra-de-gangues-volta-a-assombrar-o-Haiti)
+- [Avião sofre acidente e pousa de cabeça para baixo na Somália](https://www.nexojornal.com.br/extra/2022/07/18/Avi%C3%A3o-sofre-acidente-e-pousa-de-cabe%C3%A7a-para-baixo-na-Som%C3%A1lia)
+- [Polícia apura racismo de torcedores do São Paulo durante jogo](https://www.nexojornal.com.br/extra/2022/07/18/Pol%C3%ADcia-apura-racismo-de-torcedores-do-S%C3%A3o-Paulo-durante-jogo)
+- [Como Anitta opera o apoio a Lula longe da lógica partidária](https://www.nexojornal.com.br/expresso/2022/07/18/Como-Anitta-opera-o-apoio-a-Lula-longe-da-l%C3%B3gica-partid%C3%A1ria)
+- [Emoji ‘derretendo’ é eleito o mais representativo de 2022](https://www.nexojornal.com.br/extra/2022/07/18/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-eleito-o-mais-representativo-de-2022)
+- [Governo suspende atividades de telemarketing de 180 empresas](https://www.nexojornal.com.br/extra/2022/07/18/Governo-suspende-atividades-de-telemarketing-de-180-empresas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
