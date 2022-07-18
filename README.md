@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Da falha ao furto: a criminalização do colapso dos trens](https://www.nexojornal.com.br/ensaio/2022/Da-falha-ao-furto-a-criminaliza%C3%A7%C3%A3o-do-colapso-dos-trens)
+- [Qual o método de discurso dos políticos para evitar processos](https://www.nexojornal.com.br/entrevista/2022/07/17/Qual-o-m%C3%A9todo-de-discurso-dos-pol%C3%ADticos-para-evitar-processos)
+- [Mais de mil mortes são registradas em onda de calor na Europa](https://www.nexojornal.com.br/extra/2022/07/17/Mais-de-mil-mortes-s%C3%A3o-registradas-em-onda-de-calor-na-Europa)
+- [Irmão de Marcelo Arruda diz que assassinato ‘foi ato político’](https://www.nexojornal.com.br/extra/2022/07/17/Irm%C3%A3o-de-Marcelo-Arruda-diz-que-assassinato-%E2%80%98foi-ato-pol%C3%ADtico%E2%80%99)
 - [Brasil bate EUA e conquista ouro por equipes em Pan de ginástica](https://www.nexojornal.com.br/extra/2022/07/17/Brasil-bate-EUA-e-conquista-ouro-por-equipes-em-Pan-de-gin%C3%A1stica)
-- [Avião que carregava munições para Bangladesh cai na Grécia](https://www.nexojornal.com.br/extra/2022/07/17/Avi%C3%A3o-que-carregava-muni%C3%A7%C3%B5es-para-Bangladesh-cai-na-Gr%C3%A9cia)
-- [Ministro pede que PF investigue filme que encena ataque a presidente](https://www.nexojornal.com.br/extra/2022/07/17/Ministro-pede-que-PF-investigue-filme-que-encena-ataque-a-presidente)
-- [Orçamento secreto: como ficam os pagamentos a partir de 2023](https://www.nexojornal.com.br/expresso/2022/07/16/Or%C3%A7amento-secreto-como-ficam-os-pagamentos-a-partir-de-2023)
-- [Como a guerra de gangues volta a assombrar o Haiti](https://www.nexojornal.com.br/expresso/2022/07/16/Como-a-guerra-de-gangues-volta-a-assombrar-o-Haiti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
