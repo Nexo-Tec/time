@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O poder de Arthur Lira no governo de Jair Bolsonaro](https://www.nexojornal.com.br/expresso/2022/07/19/O-poder-de-Arthur-Lira-no-governo-de-Jair-Bolsonaro)
-- [De onde vem o dendê e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/07/19/De-onde-vem-o-dend%C3%AA-e-onde-ele-%C3%A9-produzido)
-- [O expurgo de autoridades acusadas de traição na Ucrânia](https://www.nexojornal.com.br/expresso/2022/07/18/O-expurgo-de-autoridades-acusadas-de-trai%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
-- [Diversidade: o valor das ações afirmativas para a ciência](https://www.nexojornal.com.br/colunistas/2022/Diversidade-o-valor-das-a%C3%A7%C3%B5es-afirmativas-para-a-ci%C3%AAncia)
-- [Casa do Porco entra no Top 10 de restaurantes do mundo](https://www.nexojornal.com.br/extra/2022/07/18/Casa-do-Porco-entra-no-Top-10-de-restaurantes-do-mundo)
+- [Avião sofre acidente e pousa de cabeça para baixo na Somália](https://www.nexojornal.com.br/extra/2022/07/18/Avi%C3%A3o-sofre-acidente-e-pousa-de-cabe%C3%A7a-para-baixo-na-Som%C3%A1lia)
+- [Polícia apura racismo de torcedores do São Paulo durante jogo](https://www.nexojornal.com.br/extra/2022/07/18/Pol%C3%ADcia-apura-racismo-de-torcedores-do-S%C3%A3o-Paulo-durante-jogo)
+- [Como Anitta opera o apoio a Lula longe da lógica partidária](https://www.nexojornal.com.br/expresso/2022/07/18/Como-Anitta-opera-o-apoio-a-Lula-longe-da-l%C3%B3gica-partid%C3%A1ria)
+- [Emoji ‘derretendo’ é eleito o mais representativo de 2022](https://www.nexojornal.com.br/extra/2022/07/18/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-eleito-o-mais-representativo-de-2022)
+- [Governo suspende atividades de telemarketing de 180 empresas](https://www.nexojornal.com.br/extra/2022/07/18/Governo-suspende-atividades-de-telemarketing-de-180-empresas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
