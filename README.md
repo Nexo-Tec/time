@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Avião sofre acidente e pousa de cabeça para baixo na Somália](https://www.nexojornal.com.br/extra/2022/07/18/Avi%C3%A3o-sofre-acidente-e-pousa-de-cabe%C3%A7a-para-baixo-na-Som%C3%A1lia)
-- [Polícia apura racismo de torcedores do São Paulo durante jogo](https://www.nexojornal.com.br/extra/2022/07/18/Pol%C3%ADcia-apura-racismo-de-torcedores-do-S%C3%A3o-Paulo-durante-jogo)
-- [Como Anitta opera o apoio a Lula longe da lógica partidária](https://www.nexojornal.com.br/expresso/2022/07/18/Como-Anitta-opera-o-apoio-a-Lula-longe-da-l%C3%B3gica-partid%C3%A1ria)
-- [Emoji ‘derretendo’ é eleito o mais representativo de 2022](https://www.nexojornal.com.br/extra/2022/07/18/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-eleito-o-mais-representativo-de-2022)
-- [Governo suspende atividades de telemarketing de 180 empresas](https://www.nexojornal.com.br/extra/2022/07/18/Governo-suspende-atividades-de-telemarketing-de-180-empresas)
+- [Da falha ao furto: a criminalização do colapso dos trens](https://www.nexojornal.com.br/ensaio/2022/Da-falha-ao-furto-a-criminaliza%C3%A7%C3%A3o-do-colapso-dos-trens)
+- [Qual o método de discurso dos políticos para evitar processos](https://www.nexojornal.com.br/entrevista/2022/07/17/Qual-o-m%C3%A9todo-de-discurso-dos-pol%C3%ADticos-para-evitar-processos)
+- [Mais de mil mortes são registradas em onda de calor na Europa](https://www.nexojornal.com.br/extra/2022/07/17/Mais-de-mil-mortes-s%C3%A3o-registradas-em-onda-de-calor-na-Europa)
+- [Irmão de Marcelo Arruda diz que assassinato ‘foi ato político’](https://www.nexojornal.com.br/extra/2022/07/17/Irm%C3%A3o-de-Marcelo-Arruda-diz-que-assassinato-%E2%80%98foi-ato-pol%C3%ADtico%E2%80%99)
+- [Brasil bate EUA e conquista ouro por equipes em Pan de ginástica](https://www.nexojornal.com.br/extra/2022/07/17/Brasil-bate-EUA-e-conquista-ouro-por-equipes-em-Pan-de-gin%C3%A1stica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
