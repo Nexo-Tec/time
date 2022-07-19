@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reino Unido atinge a maior temperatura de sua história](https://www.nexojornal.com.br/extra/2022/07/19/Reino-Unido-atinge-a-maior-temperatura-de-sua-hist%C3%B3ria)
-- [O poder de Arthur Lira no governo de Jair Bolsonaro](https://www.nexojornal.com.br/expresso/2022/07/19/O-poder-de-Arthur-Lira-no-governo-de-Jair-Bolsonaro)
-- [De onde vem o dendê e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/07/19/De-onde-vem-o-dend%C3%AA-e-onde-ele-%C3%A9-produzido)
-- [O expurgo de autoridades acusadas de traição na Ucrânia](https://www.nexojornal.com.br/expresso/2022/07/18/O-expurgo-de-autoridades-acusadas-de-trai%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
-- [Diversidade: o valor das ações afirmativas para a ciência](https://www.nexojornal.com.br/colunistas/2022/Diversidade-o-valor-das-a%C3%A7%C3%B5es-afirmativas-para-a-ci%C3%AAncia)
+- [Procuradores pressionam Aras a investigar Bolsonaro por ataques](https://www.nexojornal.com.br/extra/2022/07/19/Procuradores-pressionam-Aras-a-investigar-Bolsonaro-por-ataques)
+- [Veja quais os confrontos das quartas de final da Copa do Brasil](https://www.nexojornal.com.br/extra/2022/07/19/Veja-quais-os-confrontos-das-quartas-de-final-da-Copa-do-Brasil)
+- [Capitais começam a vacinar crianças de 3 e 4 anos contra a covid](https://www.nexojornal.com.br/extra/2022/07/19/Capitais-come%C3%A7am-a-vacinar-crian%C3%A7as-de-3-e-4-anos-contra-a-covid)
+- [Invasão do Capitólio: o que há no processo contra Steve Bannon](https://www.nexojornal.com.br/expresso/2022/07/19/Invas%C3%A3o-do-Capit%C3%B3lio-o-que-h%C3%A1-no-processo-contra-Steve-Bannon)
+- [Oposição congestiona site de ingressos para convenção de Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/19/Oposi%C3%A7%C3%A3o-congestiona-site-de-ingressos-para-conven%C3%A7%C3%A3o-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
