@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Da falha ao furto: a criminalização do colapso dos trens](https://www.nexojornal.com.br/ensaio/2022/Da-falha-ao-furto-a-criminaliza%C3%A7%C3%A3o-do-colapso-dos-trens)
-- [Qual o método de discurso dos políticos para evitar processos](https://www.nexojornal.com.br/entrevista/2022/07/17/Qual-o-m%C3%A9todo-de-discurso-dos-pol%C3%ADticos-para-evitar-processos)
-- [Mais de mil mortes são registradas em onda de calor na Europa](https://www.nexojornal.com.br/extra/2022/07/17/Mais-de-mil-mortes-s%C3%A3o-registradas-em-onda-de-calor-na-Europa)
-- [Irmão de Marcelo Arruda diz que assassinato ‘foi ato político’](https://www.nexojornal.com.br/extra/2022/07/17/Irm%C3%A3o-de-Marcelo-Arruda-diz-que-assassinato-%E2%80%98foi-ato-pol%C3%ADtico%E2%80%99)
-- [Brasil bate EUA e conquista ouro por equipes em Pan de ginástica](https://www.nexojornal.com.br/extra/2022/07/17/Brasil-bate-EUA-e-conquista-ouro-por-equipes-em-Pan-de-gin%C3%A1stica)
+- [O poder de Arthur Lira no governo de Jair Bolsonaro](https://www.nexojornal.com.br/expresso/2022/07/19/O-poder-de-Arthur-Lira-no-governo-de-Jair-Bolsonaro)
+- [De onde vem o dendê e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/07/19/De-onde-vem-o-dend%C3%AA-e-onde-ele-%C3%A9-produzido)
+- [O expurgo de autoridades acusadas de traição na Ucrânia](https://www.nexojornal.com.br/expresso/2022/07/18/O-expurgo-de-autoridades-acusadas-de-trai%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
+- [Diversidade: o valor das ações afirmativas para a ciência](https://www.nexojornal.com.br/colunistas/2022/Diversidade-o-valor-das-a%C3%A7%C3%B5es-afirmativas-para-a-ci%C3%AAncia)
+- [Casa do Porco entra no Top 10 de restaurantes do mundo](https://www.nexojornal.com.br/extra/2022/07/18/Casa-do-Porco-entra-no-Top-10-de-restaurantes-do-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
