@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O poder de Arthur Lira no governo de Jair Bolsonaro](https://www.nexojornal.com.br/expresso/2022/07/19/O-poder-de-Arthur-Lira-no-governo-de-Jair-Bolsonaro)
-- [De onde vem o dendê e onde ele é produzido](https://www.nexojornal.com.br/grafico/2022/07/19/De-onde-vem-o-dend%C3%AA-e-onde-ele-%C3%A9-produzido)
-- [O expurgo de autoridades acusadas de traição na Ucrânia](https://www.nexojornal.com.br/expresso/2022/07/18/O-expurgo-de-autoridades-acusadas-de-trai%C3%A7%C3%A3o-na-Ucr%C3%A2nia)
-- [Diversidade: o valor das ações afirmativas para a ciência](https://www.nexojornal.com.br/colunistas/2022/Diversidade-o-valor-das-a%C3%A7%C3%B5es-afirmativas-para-a-ci%C3%AAncia)
-- [Casa do Porco entra no Top 10 de restaurantes do mundo](https://www.nexojornal.com.br/extra/2022/07/18/Casa-do-Porco-entra-no-Top-10-de-restaurantes-do-mundo)
+- [Estado de emergência: o que há e o que não há de risco democrático](https://www.nexojornal.com.br/expresso/2022/07/19/Estado-de-emerg%C3%AAncia-o-que-h%C3%A1-e-o-que-n%C3%A3o-h%C3%A1-de-risco-democr%C3%A1tico)
+- [Porto Seguro é destino com maior variação de passageiros em julho](https://www.nexojornal.com.br/grafico/2022/07/19/Porto-Seguro-%C3%A9-destino-com-maior-varia%C3%A7%C3%A3o-de-passageiros-em-julho)
+- [Recalculando a rota: como governar a uberização](https://www.nexojornal.com.br/ensaio/2022/Recalculando-a-rota-como-governar-a-uberiza%C3%A7%C3%A3o)
+- [Em novo tombo, Netflix perde quase 1 milhão de assinantes](https://www.nexojornal.com.br/extra/2022/07/19/Em-novo-tombo-Netflix-perde-quase-1-milh%C3%A3o-de-assinantes)
+- [Justiça pede novas diligências no caso de petista assassinado](https://www.nexojornal.com.br/extra/2022/07/19/Justi%C3%A7a-pede-novas-dilig%C3%AAncias-no-caso-de-petista-assassinado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
