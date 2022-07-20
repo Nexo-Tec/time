@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lutemos como nossas ancestrais](https://gamarevista.uol.com.br/colunistas/winnie-bueno/lutemos-como-nossas-ancestrais/)
 - [Como transformar o país por meio da cultura](https://gamarevista.uol.com.br/podcast/como-transformar-o-pais-por-meio-da-cultura/)
 - [Bucket Hat](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bucket-hat/)
 - [Hoje estou embriagado de universo](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-estou-embriagado-de-universo/)
 - [@danieljacklyons](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/danieljacklyons/)
-- [Fayda Belo, advogada: ‘A lei foi criada para ajudar os homens e oprimir as mulheres’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fayda-belo-a-lei-foi-criada-para-ajudar-homens-e-oprimir-mulheres/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
