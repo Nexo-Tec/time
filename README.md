@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alison dos Santos é campeão nos 400 metros com barreiras](https://www.nexojornal.com.br/extra/2022/07/20/Alison-dos-Santos-%C3%A9-campe%C3%A3o-nos-400-metros-com-barreiras)
-- [Estado de emergência: o que há e o que não há de risco democrático](https://www.nexojornal.com.br/expresso/2022/07/19/Estado-de-emerg%C3%AAncia-o-que-h%C3%A1-e-o-que-n%C3%A3o-h%C3%A1-de-risco-democr%C3%A1tico)
-- [Porto Seguro é destino com maior variação de passageiros em julho](https://www.nexojornal.com.br/grafico/2022/07/19/Porto-Seguro-%C3%A9-destino-com-maior-varia%C3%A7%C3%A3o-de-passageiros-em-julho)
-- [Recalculando a rota: como governar a uberização](https://www.nexojornal.com.br/ensaio/2022/Recalculando-a-rota-como-governar-a-uberiza%C3%A7%C3%A3o)
-- [Em novo tombo, Netflix perde quase 1 milhão de assinantes](https://www.nexojornal.com.br/extra/2022/07/19/Em-novo-tombo-Netflix-perde-quase-1-milh%C3%A3o-de-assinantes)
+- [Procuradores pressionam Aras a investigar Bolsonaro por ataques](https://www.nexojornal.com.br/extra/2022/07/19/Procuradores-pressionam-Aras-a-investigar-Bolsonaro-por-ataques)
+- [Veja quais os confrontos das quartas de final da Copa do Brasil](https://www.nexojornal.com.br/extra/2022/07/19/Veja-quais-os-confrontos-das-quartas-de-final-da-Copa-do-Brasil)
+- [Capitais começam a vacinar crianças de 3 e 4 anos contra a covid](https://www.nexojornal.com.br/extra/2022/07/19/Capitais-come%C3%A7am-a-vacinar-crian%C3%A7as-de-3-e-4-anos-contra-a-covid)
+- [Invasão do Capitólio: o que há no processo contra Steve Bannon](https://www.nexojornal.com.br/expresso/2022/07/19/Invas%C3%A3o-do-Capit%C3%B3lio-o-que-h%C3%A1-no-processo-contra-Steve-Bannon)
+- [Oposição congestiona site de ingressos para convenção de Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/19/Oposi%C3%A7%C3%A3o-congestiona-site-de-ingressos-para-conven%C3%A7%C3%A3o-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
