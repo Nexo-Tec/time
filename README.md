@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cláudia Abreu interpreta Virginia Woolf em monólogo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/claudia-abreu-interpreta-virginia-woolf-em-monologo/)
+- [Concurso de ensaios da revista Serrote](https://gamarevista.uol.com.br/achamos-que-vale/fazer/concurso-de-ensaios-da-revista-serrote/)
+- [Mais adultos diagnosticados com autismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/mais-adultos-diagnosticados-com-autismo/)
 - [A história de artistas de um sucesso só](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-historia-de-artistas-de-um-sucesso-so/)
 - [Cinema, música e drinks no centro de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cinema-musica-e-drinks-no-centro-de-sp/)
-- [CV: Aline Bei](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-aline-bei/)
-- [Lutemos como nossas ancestrais](https://gamarevista.uol.com.br/colunistas/winnie-bueno/lutemos-como-nossas-ancestrais/)
-- [Como transformar o país por meio da cultura](https://gamarevista.uol.com.br/podcast/como-transformar-o-pais-por-meio-da-cultura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
