@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a sociedade civil pode fazer em defesa das eleições](https://www.nexojornal.com.br/expresso/2022/07/20/O-que-a-sociedade-civil-pode-fazer-em-defesa-das-elei%C3%A7%C3%B5es)
-- [O país do futuro deve se vacinar contra os erros do passado](https://www.nexojornal.com.br/colunistas/2022/O-pa%C3%ADs-do-futuro-deve-se-vacinar-contra-os-erros-do-passado)
-- [Policial penal bolsonarista vira réu por morte de petista](https://www.nexojornal.com.br/extra/2022/07/20/Policial-penal-bolsonarista-vira-r%C3%A9u-por-morte-de-petista)
-- [Funcionários da Abin defendem segurança das urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/07/20/Funcion%C3%A1rios-da-Abin-defendem-seguran%C3%A7a-das-urnas-eletr%C3%B4nicas)
-- [O ‘Politiquês’ voltou, agora em minissérie. Ouça o trailer](https://www.nexojornal.com.br/podcast/2022/07/20/O-%E2%80%98Politiqu%C3%AAs%E2%80%99-voltou-agora-em-miniss%C3%A9rie.-Ou%C3%A7a-o-trailer)
+- [Os interesses que unem Rússia, Irã e Turquia](https://www.nexojornal.com.br/expresso/2022/07/20/Os-interesses-que-unem-R%C3%BAssia-Ir%C3%A3-e-Turquia)
+- [PL cancela 40 mil inscrições para comício de Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/20/PL-cancela-40-mil-inscri%C3%A7%C3%B5es-para-com%C3%ADcio-de-Bolsonaro)
+- [PF faz operação para apurar suspeitas de desvios na Codevasf](https://www.nexojornal.com.br/extra/2022/07/20/PF-faz-opera%C3%A7%C3%A3o-para-apurar-suspeitas-de-desvios-na-Codevasf)
+- [Alison dos Santos é campeão nos 400 metros com barreiras](https://www.nexojornal.com.br/extra/2022/07/20/Alison-dos-Santos-%C3%A9-campe%C3%A3o-nos-400-metros-com-barreiras)
+- [Estado de emergência: o que há e o que não há de risco democrático](https://www.nexojornal.com.br/expresso/2022/07/19/Estado-de-emerg%C3%AAncia-o-que-h%C3%A1-e-o-que-n%C3%A3o-h%C3%A1-de-risco-democr%C3%A1tico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
