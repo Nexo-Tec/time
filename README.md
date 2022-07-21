@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alison dos Santos é campeão nos 400 metros com barreiras](https://www.nexojornal.com.br/extra/2022/07/20/Alison-dos-Santos-%C3%A9-campe%C3%A3o-nos-400-metros-com-barreiras)
-- [Estado de emergência: o que há e o que não há de risco democrático](https://www.nexojornal.com.br/expresso/2022/07/19/Estado-de-emerg%C3%AAncia-o-que-h%C3%A1-e-o-que-n%C3%A3o-h%C3%A1-de-risco-democr%C3%A1tico)
-- [Porto Seguro é destino com maior variação de passageiros em julho](https://www.nexojornal.com.br/grafico/2022/07/19/Porto-Seguro-%C3%A9-destino-com-maior-varia%C3%A7%C3%A3o-de-passageiros-em-julho)
-- [Recalculando a rota: como governar a uberização](https://www.nexojornal.com.br/ensaio/2022/Recalculando-a-rota-como-governar-a-uberiza%C3%A7%C3%A3o)
-- [Em novo tombo, Netflix perde quase 1 milhão de assinantes](https://www.nexojornal.com.br/extra/2022/07/19/Em-novo-tombo-Netflix-perde-quase-1-milh%C3%A3o-de-assinantes)
+- [O que a sociedade civil pode fazer em defesa das eleições](https://www.nexojornal.com.br/expresso/2022/07/20/O-que-a-sociedade-civil-pode-fazer-em-defesa-das-elei%C3%A7%C3%B5es)
+- [O país do futuro deve se vacinar contra os erros do passado](https://www.nexojornal.com.br/colunistas/2022/O-pa%C3%ADs-do-futuro-deve-se-vacinar-contra-os-erros-do-passado)
+- [Policial penal bolsonarista vira réu por morte de petista](https://www.nexojornal.com.br/extra/2022/07/20/Policial-penal-bolsonarista-vira-r%C3%A9u-por-morte-de-petista)
+- [Funcionários da Abin defendem segurança das urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/07/20/Funcion%C3%A1rios-da-Abin-defendem-seguran%C3%A7a-das-urnas-eletr%C3%B4nicas)
+- [O ‘Politiquês’ voltou, agora em minissérie. Ouça o trailer](https://www.nexojornal.com.br/podcast/2022/07/20/O-%E2%80%98Politiqu%C3%AAs%E2%80%99-voltou-agora-em-miniss%C3%A9rie.-Ou%C3%A7a-o-trailer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
