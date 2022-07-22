@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PT oficializa candidatura de Lula à Presidência da República](https://www.nexojornal.com.br/extra/2022/07/21/PT-oficializa-candidatura-de-Lula-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Mario Draghi, primeiro-ministro italiano, renuncia ao cargo](https://www.nexojornal.com.br/extra/2022/07/21/Mario-Draghi-primeiro-ministro-italiano-renuncia-ao-cargo)
+- [The New York Times usa pela 1ª vez a palavra ‘querides’](https://www.nexojornal.com.br/extra/2022/07/21/The-New-York-Times-usa-pela-1%C2%AA-vez-a-palavra-%E2%80%98querides%E2%80%99)
+- [Operação no Complexo do Alemão deixa ao menos 4 mortos](https://www.nexojornal.com.br/extra/2022/07/21/Opera%C3%A7%C3%A3o-no-Complexo-do-Alem%C3%A3o-deixa-ao-menos-4-mortos)
 - [O que a sociedade civil pode fazer em defesa das eleições](https://www.nexojornal.com.br/expresso/2022/07/20/O-que-a-sociedade-civil-pode-fazer-em-defesa-das-elei%C3%A7%C3%B5es)
-- [O país do futuro deve se vacinar contra os erros do passado](https://www.nexojornal.com.br/colunistas/2022/O-pa%C3%ADs-do-futuro-deve-se-vacinar-contra-os-erros-do-passado)
-- [Policial penal bolsonarista vira réu por morte de petista](https://www.nexojornal.com.br/extra/2022/07/20/Policial-penal-bolsonarista-vira-r%C3%A9u-por-morte-de-petista)
-- [Funcionários da Abin defendem segurança das urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/07/20/Funcion%C3%A1rios-da-Abin-defendem-seguran%C3%A7a-das-urnas-eletr%C3%B4nicas)
-- [O ‘Politiquês’ voltou, agora em minissérie. Ouça o trailer](https://www.nexojornal.com.br/podcast/2022/07/20/O-%E2%80%98Politiqu%C3%AAs%E2%80%99-voltou-agora-em-miniss%C3%A9rie.-Ou%C3%A7a-o-trailer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
