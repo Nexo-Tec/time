@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 presos viram réus pelos assassinatos de Dom e Bruno](https://www.nexojornal.com.br/extra/2022/07/22/3-presos-viram-r%C3%A9us-pelos-assassinatos-de-Dom-e-Bruno)
 - [Os parques temáticos cadastrados no Ministério do Turismo](https://www.nexojornal.com.br/grafico/2022/07/21/Os-parques-tem%C3%A1ticos-cadastrados-no-Minist%C3%A9rio-do-Turismo)
 - [O que a ciência nos inspira sobre escolhas e tomada de decisões](https://www.nexojornal.com.br/colunistas/2022/O-que-a-ci%C3%AAncia-nos-inspira-sobre-escolhas-e-tomada-de-decis%C3%B5es)
 - [Portugal aprova visto de trabalho que beneficia brasileiros](https://www.nexojornal.com.br/extra/2022/07/21/Portugal-aprova-visto-de-trabalho-que-beneficia-brasileiros)
 - [Menina de 5 anos é baleada na cabeça e morre em Itaguaí, no Rio](https://www.nexojornal.com.br/extra/2022/07/21/Menina-de-5-anos-%C3%A9-baleada-na-cabe%C3%A7a-e-morre-em-Itagua%C3%AD-no-Rio)
+- [Complexo do Alemão: uma nova chacina às vésperas da eleição](https://www.nexojornal.com.br/podcast/2022/07/21/Complexo-do-Alem%C3%A3o-uma-nova-chacina-%C3%A0s-v%C3%A9speras-da-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
