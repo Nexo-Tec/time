@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quantos pontos tem esse vinho aí?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/quantos-pontos-tem-esse-vinho-ai/)
+- [Flecha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/flecha/)
 - [Cláudia Abreu interpreta Virginia Woolf em monólogo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/claudia-abreu-interpreta-virginia-woolf-em-monologo/)
 - [Concurso de ensaios da revista Serrote](https://gamarevista.uol.com.br/achamos-que-vale/fazer/concurso-de-ensaios-da-revista-serrote/)
 - [Mais adultos diagnosticados com autismo](https://gamarevista.uol.com.br/achamos-que-vale/ler/mais-adultos-diagnosticados-com-autismo/)
-- [A história de artistas de um sucesso só](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-historia-de-artistas-de-um-sucesso-so/)
-- [Cinema, música e drinks no centro de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cinema-musica-e-drinks-no-centro-de-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
