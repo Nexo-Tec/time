@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Japão aprova plano para despejar água contaminada de Fukushima](https://www.nexojornal.com.br/extra/2022/07/22/Jap%C3%A3o-aprova-plano-para-despejar-%C3%A1gua-contaminada-de-Fukushima)
-- [Justiça suspende resolução que tornava Eduardo Cunha inelegível](https://www.nexojornal.com.br/extra/2022/07/22/Justi%C3%A7a-suspende-resolu%C3%A7%C3%A3o-que-tornava-Eduardo-Cunha-ineleg%C3%ADvel)
-- [Conselho afasta presidente por suspeita de assédio sexual](https://www.nexojornal.com.br/extra/2022/07/22/Conselho-afasta-presidente-por-suspeita-de-ass%C3%A9dio-sexual)
-- [Moraes manda prender homem que pede ‘caça’ a Lula e Supremo](https://www.nexojornal.com.br/extra/2022/07/22/Moraes-manda-prender-homem-que-pede-%E2%80%98ca%C3%A7a%E2%80%99-a-Lula-e-Supremo)
-- [A genealogia e o perfil dos partidos brasileiros](https://www.nexojornal.com.br/especial/2022/07/22/A-genealogia-e-o-perfil-dos-partidos-brasileiros)
+- [Os parques temáticos cadastrados no Ministério do Turismo](https://www.nexojornal.com.br/grafico/2022/07/21/Os-parques-tem%C3%A1ticos-cadastrados-no-Minist%C3%A9rio-do-Turismo)
+- [O que a ciência nos inspira sobre escolhas e tomada de decisões](https://www.nexojornal.com.br/colunistas/2022/O-que-a-ci%C3%AAncia-nos-inspira-sobre-escolhas-e-tomada-de-decis%C3%B5es)
+- [Portugal aprova visto de trabalho que beneficia brasileiros](https://www.nexojornal.com.br/extra/2022/07/21/Portugal-aprova-visto-de-trabalho-que-beneficia-brasileiros)
+- [Menina de 5 anos é baleada na cabeça e morre em Itaguaí, no Rio](https://www.nexojornal.com.br/extra/2022/07/21/Menina-de-5-anos-%C3%A9-baleada-na-cabe%C3%A7a-e-morre-em-Itagua%C3%AD-no-Rio)
+- [Complexo do Alemão: uma nova chacina às vésperas da eleição](https://www.nexojornal.com.br/podcast/2022/07/21/Complexo-do-Alem%C3%A3o-uma-nova-chacina-%C3%A0s-v%C3%A9speras-da-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
