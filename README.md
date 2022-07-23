@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os parques temáticos cadastrados no Ministério do Turismo](https://www.nexojornal.com.br/grafico/2022/07/21/Os-parques-tem%C3%A1ticos-cadastrados-no-Minist%C3%A9rio-do-Turismo)
-- [O que a ciência nos inspira sobre escolhas e tomada de decisões](https://www.nexojornal.com.br/colunistas/2022/O-que-a-ci%C3%AAncia-nos-inspira-sobre-escolhas-e-tomada-de-decis%C3%B5es)
-- [Portugal aprova visto de trabalho que beneficia brasileiros](https://www.nexojornal.com.br/extra/2022/07/21/Portugal-aprova-visto-de-trabalho-que-beneficia-brasileiros)
-- [Menina de 5 anos é baleada na cabeça e morre em Itaguaí, no Rio](https://www.nexojornal.com.br/extra/2022/07/21/Menina-de-5-anos-%C3%A9-baleada-na-cabe%C3%A7a-e-morre-em-Itagua%C3%AD-no-Rio)
-- [Complexo do Alemão: uma nova chacina às vésperas da eleição](https://www.nexojornal.com.br/podcast/2022/07/21/Complexo-do-Alem%C3%A3o-uma-nova-chacina-%C3%A0s-v%C3%A9speras-da-elei%C3%A7%C3%A3o)
+- [‘A política e a polícia do Rio dão respostas violentas há 30 anos’](https://www.nexojornal.com.br/entrevista/2022/07/22/%E2%80%98A-pol%C3%ADtica-e-a-pol%C3%ADcia-do-Rio-d%C3%A3o-respostas-violentas-h%C3%A1-30-anos%E2%80%99)
+- [Uma plataforma para criar sua ‘Wikipédia pessoal’](https://www.nexojornal.com.br/expresso/2022/07/22/Uma-plataforma-para-criar-sua-%E2%80%98Wikip%C3%A9dia-pessoal%E2%80%99)
+- [Contorcionismo em traduções sinaliza má conduta em artigos científicos](https://www.nexojornal.com.br/externo/2022/07/22/Contorcionismo-em-tradu%C3%A7%C3%B5es-sinaliza-m%C3%A1-conduta-em-artigos-cient%C3%ADficos)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Ciclos políticos oportunistas e o Brasil de 2022](https://www.nexojornal.com.br/colunistas/2022/Ciclos-pol%C3%ADticos-oportunistas-e-o-Brasil-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
