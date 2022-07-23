@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A política e a polícia do Rio dão respostas violentas há 30 anos’](https://www.nexojornal.com.br/entrevista/2022/07/22/%E2%80%98A-pol%C3%ADtica-e-a-pol%C3%ADcia-do-Rio-d%C3%A3o-respostas-violentas-h%C3%A1-30-anos%E2%80%99)
-- [Uma plataforma para criar sua ‘Wikipédia pessoal’](https://www.nexojornal.com.br/expresso/2022/07/22/Uma-plataforma-para-criar-sua-%E2%80%98Wikip%C3%A9dia-pessoal%E2%80%99)
-- [Contorcionismo em traduções sinaliza má conduta em artigos científicos](https://www.nexojornal.com.br/externo/2022/07/22/Contorcionismo-em-tradu%C3%A7%C3%B5es-sinaliza-m%C3%A1-conduta-em-artigos-cient%C3%ADficos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Ciclos políticos oportunistas e o Brasil de 2022](https://www.nexojornal.com.br/colunistas/2022/Ciclos-pol%C3%ADticos-oportunistas-e-o-Brasil-de-2022)
+- [Japão aprova plano para despejar água contaminada de Fukushima](https://www.nexojornal.com.br/extra/2022/07/22/Jap%C3%A3o-aprova-plano-para-despejar-%C3%A1gua-contaminada-de-Fukushima)
+- [Justiça suspende resolução que tornava Eduardo Cunha inelegível](https://www.nexojornal.com.br/extra/2022/07/22/Justi%C3%A7a-suspende-resolu%C3%A7%C3%A3o-que-tornava-Eduardo-Cunha-ineleg%C3%ADvel)
+- [Conselho afasta presidente por suspeita de assédio sexual](https://www.nexojornal.com.br/extra/2022/07/22/Conselho-afasta-presidente-por-suspeita-de-ass%C3%A9dio-sexual)
+- [Moraes manda prender homem que pede ‘caça’ a Lula e Supremo](https://www.nexojornal.com.br/extra/2022/07/22/Moraes-manda-prender-homem-que-pede-%E2%80%98ca%C3%A7a%E2%80%99-a-Lula-e-Supremo)
+- [A genealogia e o perfil dos partidos brasileiros](https://www.nexojornal.com.br/especial/2022/07/22/A-genealogia-e-o-perfil-dos-partidos-brasileiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
