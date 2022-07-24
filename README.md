@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mísseis russos atingem porto de Odessa, diz Ucrânia](https://www.nexojornal.com.br/extra/2022/07/23/M%C3%ADsseis-russos-atingem-porto-de-Odessa-diz-Ucr%C3%A2nia)
+- [Avante oficializa a candidatura de André Janones à Presidência](https://www.nexojornal.com.br/extra/2022/07/23/Avante-oficializa-a-candidatura-de-Andr%C3%A9-Janones-%C3%A0-Presid%C3%AAncia)
+- [Varíola dos macacos é emergência de saúde global, diz OMS](https://www.nexojornal.com.br/extra/2022/07/23/Var%C3%ADola-dos-macacos-%C3%A9-emerg%C3%AAncia-de-sa%C3%BAde-global-diz-OMS)
 - [‘A política e a polícia do Rio dão respostas violentas há 30 anos’](https://www.nexojornal.com.br/entrevista/2022/07/22/%E2%80%98A-pol%C3%ADtica-e-a-pol%C3%ADcia-do-Rio-d%C3%A3o-respostas-violentas-h%C3%A1-30-anos%E2%80%99)
 - [Uma plataforma para criar sua ‘Wikipédia pessoal’](https://www.nexojornal.com.br/expresso/2022/07/22/Uma-plataforma-para-criar-sua-%E2%80%98Wikip%C3%A9dia-pessoal%E2%80%99)
-- [Contorcionismo em traduções sinaliza má conduta em artigos científicos](https://www.nexojornal.com.br/externo/2022/07/22/Contorcionismo-em-tradu%C3%A7%C3%B5es-sinaliza-m%C3%A1-conduta-em-artigos-cient%C3%ADficos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Ciclos políticos oportunistas e o Brasil de 2022](https://www.nexojornal.com.br/colunistas/2022/Ciclos-pol%C3%ADticos-oportunistas-e-o-Brasil-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
