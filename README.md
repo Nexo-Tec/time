@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Guarda costeira italiana resgata 674 migrantes](https://www.nexojornal.com.br/extra/2022/07/24/Guarda-costeira-italiana-resgata-674-migrantes)
-- [Leonardo Péricles é oficializado candidato do UP à Presidência](https://www.nexojornal.com.br/extra/2022/07/24/Leonardo-P%C3%A9ricles-%C3%A9-oficializado-candidato-do-UP-%C3%A0-Presid%C3%AAncia1)
-- [PL oficializa candidatura de Bolsonaro à reeleição](https://www.nexojornal.com.br/extra/2022/07/24/PL-oficializa-candidatura-de-Bolsonaro-%C3%A0-reelei%C3%A7%C3%A3o)
 - [5 livros de ficção que todo jornalista deveria ler](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-fic%C3%A7%C3%A3o-que-todo-jornalista-deveria-ler)
 - [Quais as políticas penitenciárias para a população LGBTI+](https://www.nexojornal.com.br/expresso/2022/07/23/Quais-as-pol%C3%ADticas-penitenci%C3%A1rias-para-a-popula%C3%A7%C3%A3o-LGBTI)
+- [O caminho para contratos transparentes](https://www.nexojornal.com.br/ensaio/2022/O-caminho-para-contratos-transparentes)
+- [O que o MDB busca e oferece numa nova aliança com o PT](https://www.nexojornal.com.br/expresso/2022/07/23/O-que-o-MDB-busca-e-oferece-numa-nova-alian%C3%A7a-com-o-PT)
+- [Justiça mantém prisão de bolsonarista que pediu ‘caça’ a Lula](https://www.nexojornal.com.br/extra/2022/07/23/Justi%C3%A7a-mant%C3%A9m-pris%C3%A3o-de-bolsonarista-que-pediu-%E2%80%98ca%C3%A7a%E2%80%99-a-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
