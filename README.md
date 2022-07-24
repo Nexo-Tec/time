@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A política e a polícia do Rio dão respostas violentas há 30 anos’](https://www.nexojornal.com.br/entrevista/2022/07/22/%E2%80%98A-pol%C3%ADtica-e-a-pol%C3%ADcia-do-Rio-d%C3%A3o-respostas-violentas-h%C3%A1-30-anos%E2%80%99)
-- [Uma plataforma para criar sua ‘Wikipédia pessoal’](https://www.nexojornal.com.br/expresso/2022/07/22/Uma-plataforma-para-criar-sua-%E2%80%98Wikip%C3%A9dia-pessoal%E2%80%99)
-- [Contorcionismo em traduções sinaliza má conduta em artigos científicos](https://www.nexojornal.com.br/externo/2022/07/22/Contorcionismo-em-tradu%C3%A7%C3%B5es-sinaliza-m%C3%A1-conduta-em-artigos-cient%C3%ADficos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Ciclos políticos oportunistas e o Brasil de 2022](https://www.nexojornal.com.br/colunistas/2022/Ciclos-pol%C3%ADticos-oportunistas-e-o-Brasil-de-2022)
+- [5 livros de ficção que todo jornalista deveria ler](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-fic%C3%A7%C3%A3o-que-todo-jornalista-deveria-ler)
+- [Quais as políticas penitenciárias para a população LGBTI+](https://www.nexojornal.com.br/expresso/2022/07/23/Quais-as-pol%C3%ADticas-penitenci%C3%A1rias-para-a-popula%C3%A7%C3%A3o-LGBTI)
+- [O caminho para contratos transparentes](https://www.nexojornal.com.br/ensaio/2022/O-caminho-para-contratos-transparentes)
+- [O que o MDB busca e oferece numa nova aliança com o PT](https://www.nexojornal.com.br/expresso/2022/07/23/O-que-o-MDB-busca-e-oferece-numa-nova-alian%C3%A7a-com-o-PT)
+- [Justiça mantém prisão de bolsonarista que pediu ‘caça’ a Lula](https://www.nexojornal.com.br/extra/2022/07/23/Justi%C3%A7a-mant%C3%A9m-pris%C3%A3o-de-bolsonarista-que-pediu-%E2%80%98ca%C3%A7a%E2%80%99-a-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
