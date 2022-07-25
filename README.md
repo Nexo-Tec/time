@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O agravamento da letalidade policial contra pessoas negras](https://www.nexojornal.com.br/ensaio/2022/O-agravamento-da-letalidade-policial-contra-pessoas-negras)
-- [Brasileiros vencem prêmio Eisner, o Oscar das HQs](https://www.nexojornal.com.br/extra/2022/07/24/Brasileiros-vencem-pr%C3%AAmio-Eisner-o-Oscar-das-HQs)
-- [Os gargalos do controle de armamentos num Brasil mais armado](https://www.nexojornal.com.br/expresso/2022/07/24/Os-gargalos-do-controle-de-armamentos-num-Brasil-mais-armado)
-- [25 de julho: um dia para celebrar as mulheres negras](https://www.nexojornal.com.br/expresso/2022/07/24/25-de-julho-um-dia-para-celebrar-as-mulheres-negras)
-- [Irã volta a fazer uma execução pública após 2 anos, diz ONG](https://www.nexojornal.com.br/extra/2022/07/24/Ir%C3%A3-volta-a-fazer-uma-execu%C3%A7%C3%A3o-p%C3%BAblica-ap%C3%B3s-2-anos-diz-ONG)
+- [XP: Lula tem 44% das intenções de voto, e Bolsonaro, 35%](https://www.nexojornal.com.br/extra/2022/07/25/XP-Lula-tem-44-das-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-35)
+- [Rússia admite que quer derrubar presidente ucraniano](https://www.nexojornal.com.br/extra/2022/07/25/R%C3%BAssia-admite-que-quer-derrubar-presidente-ucraniano)
+- [Governo antecipa Auxílio Brasil e paga caminhoneiro em dobro](https://www.nexojornal.com.br/extra/2022/07/25/Governo-antecipa-Aux%C3%ADlio-Brasil-e-paga-caminhoneiro-em-dobro)
+- [Militares vão receber R$ 110,6 milhões para atuar nas eleições](https://www.nexojornal.com.br/extra/2022/07/25/Militares-v%C3%A3o-receber-R-1106-milh%C3%B5es-para-atuar-nas-elei%C3%A7%C3%B5es)
+- [Mianmar volta a aplicar pena de morte após mais de 30 anos](https://www.nexojornal.com.br/extra/2022/07/25/Mianmar-volta-a-aplicar-pena-de-morte-ap%C3%B3s-mais-de-30-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
