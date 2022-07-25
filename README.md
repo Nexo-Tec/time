@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Leonardo Péricles é oficializado candidato do UP à Presidência](https://www.nexojornal.com.br/extra/2022/07/24/Leonardo-P%C3%A9ricles-%C3%A9-oficializado-candidato-do-UP-%C3%A0-Presid%C3%AAncia1)
-- [PL oficializa candidatura de Bolsonaro à reeleição](https://www.nexojornal.com.br/extra/2022/07/24/PL-oficializa-candidatura-de-Bolsonaro-%C3%A0-reelei%C3%A7%C3%A3o)
-- [5 livros de ficção que todo jornalista deveria ler](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-fic%C3%A7%C3%A3o-que-todo-jornalista-deveria-ler)
-- [Quais as políticas penitenciárias para a população LGBTI+](https://www.nexojornal.com.br/expresso/2022/07/23/Quais-as-pol%C3%ADticas-penitenci%C3%A1rias-para-a-popula%C3%A7%C3%A3o-LGBTI)
-- [O caminho para contratos transparentes](https://www.nexojornal.com.br/ensaio/2022/O-caminho-para-contratos-transparentes)
+- [O agravamento da letalidade policial contra pessoas negras](https://www.nexojornal.com.br/ensaio/2022/O-agravamento-da-letalidade-policial-contra-pessoas-negras)
+- [Brasileiros vencem prêmio Eisner, o Oscar das HQs](https://www.nexojornal.com.br/extra/2022/07/24/Brasileiros-vencem-pr%C3%AAmio-Eisner-o-Oscar-das-HQs)
+- [Os gargalos do controle de armamentos num Brasil mais armado](https://www.nexojornal.com.br/expresso/2022/07/24/Os-gargalos-do-controle-de-armamentos-num-Brasil-mais-armado)
+- [25 de julho: um dia para celebrar as mulheres negras](https://www.nexojornal.com.br/expresso/2022/07/24/25-de-julho-um-dia-para-celebrar-as-mulheres-negras)
+- [Irã volta a fazer uma execução pública após 2 anos, diz ONG](https://www.nexojornal.com.br/extra/2022/07/24/Ir%C3%A3-volta-a-fazer-uma-execu%C3%A7%C3%A3o-p%C3%BAblica-ap%C3%B3s-2-anos-diz-ONG)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
