@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [XP: Lula tem 44% das intenções de voto, e Bolsonaro, 35%](https://www.nexojornal.com.br/extra/2022/07/25/XP-Lula-tem-44-das-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-35)
-- [Rússia admite que quer derrubar presidente ucraniano](https://www.nexojornal.com.br/extra/2022/07/25/R%C3%BAssia-admite-que-quer-derrubar-presidente-ucraniano)
-- [Governo antecipa Auxílio Brasil e paga caminhoneiro em dobro](https://www.nexojornal.com.br/extra/2022/07/25/Governo-antecipa-Aux%C3%ADlio-Brasil-e-paga-caminhoneiro-em-dobro)
-- [Militares vão receber R$ 110,6 milhões para atuar nas eleições](https://www.nexojornal.com.br/extra/2022/07/25/Militares-v%C3%A3o-receber-R-1106-milh%C3%B5es-para-atuar-nas-elei%C3%A7%C3%B5es)
-- [Mianmar volta a aplicar pena de morte após mais de 30 anos](https://www.nexojornal.com.br/extra/2022/07/25/Mianmar-volta-a-aplicar-pena-de-morte-ap%C3%B3s-mais-de-30-anos)
+- [FMI sobe projeção de crescimento no PIB brasileiro para 1,7%](https://www.nexojornal.com.br/extra/2022/07/26/FMI-sobe-proje%C3%A7%C3%A3o-de-crescimento-no-PIB-brasileiro-para-17)
+- [Qual o saldo das políticas de Bolsonaro voltadas a mulheres](https://www.nexojornal.com.br/expresso/2022/07/26/Qual-o-saldo-das-pol%C3%ADticas-de-Bolsonaro-voltadas-a-mulheres)
+- [Banqueiros e empresários assinam manifesto pró-democracia](https://www.nexojornal.com.br/extra/2022/07/25/Banqueiros-e-empres%C3%A1rios-assinam-manifesto-pr%C3%B3-democracia)
+- [Como a turbulência na economia dos EUA pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-turbul%C3%AAncia-na-economia-dos-EUA-pode-afetar-o-Brasil)
+- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
