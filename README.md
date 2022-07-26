@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
-- [O temor de criar estigmas na resposta à varíola dos macacos](https://www.nexojornal.com.br/podcast/2022/07/25/O-temor-de-criar-estigmas-na-resposta-%C3%A0-var%C3%ADola-dos-macacos)
-- [Como a cultura geek se aproxima de uma religião](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-cultura-geek-se-aproxima-de-uma-religi%C3%A3o)
-- [Papa Francisco pede perdão em visita a indígenas no Canadá](https://www.nexojornal.com.br/extra/2022/07/25/Papa-Francisco-pede-perd%C3%A3o-em-visita-a-ind%C3%ADgenas-no-Canad%C3%A1)
-- [PCC usa medidas de Bolsonaro para comprar armas, diz jornal](https://www.nexojornal.com.br/extra/2022/07/25/PCC-usa-medidas-de-Bolsonaro-para-comprar-armas-diz-jornal)
+- [O agravamento da letalidade policial contra pessoas negras](https://www.nexojornal.com.br/ensaio/2022/O-agravamento-da-letalidade-policial-contra-pessoas-negras)
+- [Brasileiros vencem prêmio Eisner, o Oscar das HQs](https://www.nexojornal.com.br/extra/2022/07/24/Brasileiros-vencem-pr%C3%AAmio-Eisner-o-Oscar-das-HQs)
+- [Os gargalos do controle de armamentos num Brasil mais armado](https://www.nexojornal.com.br/expresso/2022/07/24/Os-gargalos-do-controle-de-armamentos-num-Brasil-mais-armado)
+- [25 de julho: um dia para celebrar as mulheres negras](https://www.nexojornal.com.br/expresso/2022/07/24/25-de-julho-um-dia-para-celebrar-as-mulheres-negras)
+- [Irã volta a fazer uma execução pública após 2 anos, diz ONG](https://www.nexojornal.com.br/extra/2022/07/24/Ir%C3%A3-volta-a-fazer-uma-execu%C3%A7%C3%A3o-p%C3%BAblica-ap%C3%B3s-2-anos-diz-ONG)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
