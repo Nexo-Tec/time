@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [XP: Lula tem 44% das intenções de voto, e Bolsonaro, 35%](https://www.nexojornal.com.br/extra/2022/07/25/XP-Lula-tem-44-das-inten%C3%A7%C3%B5es-de-voto-e-Bolsonaro-35)
-- [Rússia admite que quer derrubar presidente ucraniano](https://www.nexojornal.com.br/extra/2022/07/25/R%C3%BAssia-admite-que-quer-derrubar-presidente-ucraniano)
-- [Governo antecipa Auxílio Brasil e paga caminhoneiro em dobro](https://www.nexojornal.com.br/extra/2022/07/25/Governo-antecipa-Aux%C3%ADlio-Brasil-e-paga-caminhoneiro-em-dobro)
-- [Militares vão receber R$ 110,6 milhões para atuar nas eleições](https://www.nexojornal.com.br/extra/2022/07/25/Militares-v%C3%A3o-receber-R-1106-milh%C3%B5es-para-atuar-nas-elei%C3%A7%C3%B5es)
-- [Mianmar volta a aplicar pena de morte após mais de 30 anos](https://www.nexojornal.com.br/extra/2022/07/25/Mianmar-volta-a-aplicar-pena-de-morte-ap%C3%B3s-mais-de-30-anos)
+- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
+- [O temor de criar estigmas na resposta à varíola dos macacos](https://www.nexojornal.com.br/podcast/2022/07/25/O-temor-de-criar-estigmas-na-resposta-%C3%A0-var%C3%ADola-dos-macacos)
+- [Como a cultura geek se aproxima de uma religião](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-cultura-geek-se-aproxima-de-uma-religi%C3%A3o)
+- [Papa Francisco pede perdão em visita a indígenas no Canadá](https://www.nexojornal.com.br/extra/2022/07/25/Papa-Francisco-pede-perd%C3%A3o-em-visita-a-ind%C3%ADgenas-no-Canad%C3%A1)
+- [PCC usa medidas de Bolsonaro para comprar armas, diz jornal](https://www.nexojornal.com.br/extra/2022/07/25/PCC-usa-medidas-de-Bolsonaro-para-comprar-armas-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
