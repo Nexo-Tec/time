@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A produção de alimentos, as mudanças climáticas e a saúde pública](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-produ%C3%A7%C3%A3o-de-alimentos-as-mudan%C3%A7as-clim%C3%A1ticas-e-a-sa%C3%BAde-p%C3%BAblica)
 - [Nicola Worcman: alternativas às comunidades terapêuticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/07/21/Nicola-Worcman-alternativas-%C3%A0s-comunidades-terap%C3%AAuticas)
 - [Destinar florestas públicas para salvar a Amazônia do desmatamento](https://pp.nexojornal.com.br/ponto-de-vista/2022/Destinar-florestas-p%C3%BAblicas-para-salvar-a-Amaz%C3%B4nia-do-desmatamento1)
 - [Eleições 2022: nova chance para a participação social nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-nova-chance-para-a-participa%C3%A7%C3%A3o-social-nas-pol%C3%ADticas-p%C3%BAblicas1)
 - [Os planos de incentivo ao transporte a pé e por bicicleta em São Paulo, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Os-planos-de-incentivo-ao-transporte-a-p%C3%A9-e-por-bicicleta-em-S%C3%A3o-Paulo-em-6-pontos)
+- [“A favela venceu?” ou “Pretos no topo” desde quando?](https://pp.nexojornal.com.br/opiniao/2022/%E2%80%9CA-favela-venceu%E2%80%9D-ou-%E2%80%9CPretos-no-topo%E2%80%9D-desde-quando)
 <!-- PP_LIST:END -->
 
