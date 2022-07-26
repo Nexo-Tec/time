@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Resta Um](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/resta-um/)
 - [@gente.prabrilhar](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gente-prabrilhar/)
 - [Christian Dunker: ‘A honestidade, como valor, anda meio chamuscada’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/christian-dunker-fala-sobre-o-conceito-de-honestidade/)
 - [Débora Falabella](https://gamarevista.uol.com.br/pessoas/questionario-proust/debora-falabella/)
 - [Quantos pontos tem esse vinho aí?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/quantos-pontos-tem-esse-vinho-ai/)
-- [Flecha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/flecha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
