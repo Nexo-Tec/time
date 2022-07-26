@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [FMI sobe projeção de crescimento no PIB brasileiro para 1,7%](https://www.nexojornal.com.br/extra/2022/07/26/FMI-sobe-proje%C3%A7%C3%A3o-de-crescimento-no-PIB-brasileiro-para-17)
-- [Qual o saldo das políticas de Bolsonaro voltadas a mulheres](https://www.nexojornal.com.br/expresso/2022/07/26/Qual-o-saldo-das-pol%C3%ADticas-de-Bolsonaro-voltadas-a-mulheres)
-- [Banqueiros e empresários assinam manifesto pró-democracia](https://www.nexojornal.com.br/extra/2022/07/25/Banqueiros-e-empres%C3%A1rios-assinam-manifesto-pr%C3%B3-democracia)
-- [Como a turbulência na economia dos EUA pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-turbul%C3%AAncia-na-economia-dos-EUA-pode-afetar-o-Brasil)
 - [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
+- [O temor de criar estigmas na resposta à varíola dos macacos](https://www.nexojornal.com.br/podcast/2022/07/25/O-temor-de-criar-estigmas-na-resposta-%C3%A0-var%C3%ADola-dos-macacos)
+- [Como a cultura geek se aproxima de uma religião](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-cultura-geek-se-aproxima-de-uma-religi%C3%A3o)
+- [Papa Francisco pede perdão em visita a indígenas no Canadá](https://www.nexojornal.com.br/extra/2022/07/25/Papa-Francisco-pede-perd%C3%A3o-em-visita-a-ind%C3%ADgenas-no-Canad%C3%A1)
+- [PCC usa medidas de Bolsonaro para comprar armas, diz jornal](https://www.nexojornal.com.br/extra/2022/07/25/PCC-usa-medidas-de-Bolsonaro-para-comprar-armas-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
