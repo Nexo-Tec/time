@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O agravamento da letalidade policial contra pessoas negras](https://www.nexojornal.com.br/ensaio/2022/O-agravamento-da-letalidade-policial-contra-pessoas-negras)
-- [Brasileiros vencem prêmio Eisner, o Oscar das HQs](https://www.nexojornal.com.br/extra/2022/07/24/Brasileiros-vencem-pr%C3%AAmio-Eisner-o-Oscar-das-HQs)
-- [Os gargalos do controle de armamentos num Brasil mais armado](https://www.nexojornal.com.br/expresso/2022/07/24/Os-gargalos-do-controle-de-armamentos-num-Brasil-mais-armado)
-- [25 de julho: um dia para celebrar as mulheres negras](https://www.nexojornal.com.br/expresso/2022/07/24/25-de-julho-um-dia-para-celebrar-as-mulheres-negras)
-- [Irã volta a fazer uma execução pública após 2 anos, diz ONG](https://www.nexojornal.com.br/extra/2022/07/24/Ir%C3%A3-volta-a-fazer-uma-execu%C3%A7%C3%A3o-p%C3%BAblica-ap%C3%B3s-2-anos-diz-ONG)
+- [Qual o saldo das políticas de Bolsonaro voltadas a mulheres](https://www.nexojornal.com.br/expresso/2022/07/26/Qual-o-saldo-das-pol%C3%ADticas-de-Bolsonaro-voltadas-a-mulheres)
+- [Banqueiros e empresários assinam manifesto pró-democracia](https://www.nexojornal.com.br/extra/2022/07/25/Banqueiros-e-empres%C3%A1rios-assinam-manifesto-pr%C3%B3-democracia)
+- [Como a turbulência na economia dos EUA pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-turbul%C3%AAncia-na-economia-dos-EUA-pode-afetar-o-Brasil)
+- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
+- [O temor de criar estigmas na resposta à varíola dos macacos](https://www.nexojornal.com.br/podcast/2022/07/25/O-temor-de-criar-estigmas-na-resposta-%C3%A0-var%C3%ADola-dos-macacos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
