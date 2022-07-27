@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [FMI sobe projeção de crescimento no PIB brasileiro para 1,7%](https://www.nexojornal.com.br/extra/2022/07/26/FMI-sobe-proje%C3%A7%C3%A3o-de-crescimento-no-PIB-brasileiro-para-17)
-- [Qual o saldo das políticas de Bolsonaro voltadas a mulheres](https://www.nexojornal.com.br/expresso/2022/07/26/Qual-o-saldo-das-pol%C3%ADticas-de-Bolsonaro-voltadas-a-mulheres)
-- [Banqueiros e empresários assinam manifesto pró-democracia](https://www.nexojornal.com.br/extra/2022/07/25/Banqueiros-e-empres%C3%A1rios-assinam-manifesto-pr%C3%B3-democracia)
-- [Como a turbulência na economia dos EUA pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-turbul%C3%AAncia-na-economia-dos-EUA-pode-afetar-o-Brasil)
-- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
+- [O manifesto assinado por banqueiros. E a reação do governo](https://www.nexojornal.com.br/podcast/2022/07/26/O-manifesto-assinado-por-banqueiros.-E-a-rea%C3%A7%C3%A3o-do-governo)
+- [Assessora de Orbán compara fala do líder húngaro ao nazismo](https://www.nexojornal.com.br/extra/2022/07/26/Assessora-de-Orb%C3%A1n-compara-fala-do-l%C3%ADder-h%C3%BAngaro-ao-nazismo)
+- [Varíola dos macacos no Brasil é preocupante, diz OMS](https://www.nexojornal.com.br/extra/2022/07/26/Var%C3%ADola-dos-macacos-no-Brasil-%C3%A9-preocupante-diz-OMS)
+- [Senadores da CPI da Covid vão ao Supremo contra vice de Aras](https://www.nexojornal.com.br/extra/2022/07/26/Senadores-da-CPI-da-Covid-v%C3%A3o-ao-Supremo-contra-vice-de-Aras)
+- [Caso Miguel: Justiça nega prisão de Sari Corte Real](https://www.nexojornal.com.br/extra/2022/07/26/Caso-Miguel-Justi%C3%A7a-nega-pris%C3%A3o-de-Sari-Corte-Real)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
