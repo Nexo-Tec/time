@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fora da ordem: um mundo abalado e um país eufórico](https://www.nexojornal.com.br/podcast/2022/07/27/Fora-da-ordem-um-mundo-abalado-e-um-pa%C3%ADs-euf%C3%B3rico)
-- [Por que o preço dos combustíveis está caindo no Brasil](https://www.nexojornal.com.br/expresso/2022/07/26/Por-que-o-pre%C3%A7o-dos-combust%C3%ADveis-est%C3%A1-caindo-no-Brasil)
-- [De onde vem a batata e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/07/26/De-onde-vem-a-batata-e-onde-ela-%C3%A9-produzida)
-- [BC lança moedas comemorativas aos 200 anos da Independência](https://www.nexojornal.com.br/extra/2022/07/26/BC-lan%C3%A7a-moedas-comemorativas-aos-200-anos-da-Independ%C3%AAncia)
-- [Gaúchos são os primeiros a ter nova carteira de identidade](https://www.nexojornal.com.br/extra/2022/07/26/Ga%C3%BAchos-s%C3%A3o-os-primeiros-a-ter-nova-carteira-de-identidade)
+- [O manifesto assinado por banqueiros. E a reação do governo](https://www.nexojornal.com.br/podcast/2022/07/26/O-manifesto-assinado-por-banqueiros.-E-a-rea%C3%A7%C3%A3o-do-governo)
+- [Assessora de Orbán compara fala do líder húngaro ao nazismo](https://www.nexojornal.com.br/extra/2022/07/26/Assessora-de-Orb%C3%A1n-compara-fala-do-l%C3%ADder-h%C3%BAngaro-ao-nazismo)
+- [Varíola dos macacos no Brasil é preocupante, diz OMS](https://www.nexojornal.com.br/extra/2022/07/26/Var%C3%ADola-dos-macacos-no-Brasil-%C3%A9-preocupante-diz-OMS)
+- [Senadores da CPI da Covid vão ao Supremo contra vice de Aras](https://www.nexojornal.com.br/extra/2022/07/26/Senadores-da-CPI-da-Covid-v%C3%A3o-ao-Supremo-contra-vice-de-Aras)
+- [Caso Miguel: Justiça nega prisão de Sari Corte Real](https://www.nexojornal.com.br/extra/2022/07/26/Caso-Miguel-Justi%C3%A7a-nega-pris%C3%A3o-de-Sari-Corte-Real)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
