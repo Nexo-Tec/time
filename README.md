@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [FMI sobe projeção de crescimento no PIB brasileiro para 1,7%](https://www.nexojornal.com.br/extra/2022/07/26/FMI-sobe-proje%C3%A7%C3%A3o-de-crescimento-no-PIB-brasileiro-para-17)
-- [Qual o saldo das políticas de Bolsonaro voltadas a mulheres](https://www.nexojornal.com.br/expresso/2022/07/26/Qual-o-saldo-das-pol%C3%ADticas-de-Bolsonaro-voltadas-a-mulheres)
-- [Banqueiros e empresários assinam manifesto pró-democracia](https://www.nexojornal.com.br/extra/2022/07/25/Banqueiros-e-empres%C3%A1rios-assinam-manifesto-pr%C3%B3-democracia)
-- [Como a turbulência na economia dos EUA pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/07/25/Como-a-turbul%C3%AAncia-na-economia-dos-EUA-pode-afetar-o-Brasil)
-- [Equipe de Aras quer arquivar suspeitas de CPI contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/07/25/Equipe-de-Aras-quer-arquivar-suspeitas-de-CPI-contra-Bolsonaro)
+- [Fora da ordem: um mundo abalado e um país eufórico](https://www.nexojornal.com.br/podcast/2022/07/27/Fora-da-ordem-um-mundo-abalado-e-um-pa%C3%ADs-euf%C3%B3rico)
+- [Por que o preço dos combustíveis está caindo no Brasil](https://www.nexojornal.com.br/expresso/2022/07/26/Por-que-o-pre%C3%A7o-dos-combust%C3%ADveis-est%C3%A1-caindo-no-Brasil)
+- [De onde vem a batata e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/07/26/De-onde-vem-a-batata-e-onde-ela-%C3%A9-produzida)
+- [BC lança moedas comemorativas aos 200 anos da Independência](https://www.nexojornal.com.br/extra/2022/07/26/BC-lan%C3%A7a-moedas-comemorativas-aos-200-anos-da-Independ%C3%AAncia)
+- [Gaúchos são os primeiros a ter nova carteira de identidade](https://www.nexojornal.com.br/extra/2022/07/26/Ga%C3%BAchos-s%C3%A3o-os-primeiros-a-ter-nova-carteira-de-identidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
