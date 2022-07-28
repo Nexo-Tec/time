@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Feira geek Ucconx frustra público e vira piada na internet](https://www.nexojornal.com.br/extra/2022/07/28/Feira-geek-Ucconx-frustra-p%C3%BAblico-e-vira-piada-na-internet)
 - [A era dos debates acabou? O que o eleitor perde com isso](https://www.nexojornal.com.br/expresso/2022/07/27/A-era-dos-debates-acabou-O-que-o-eleitor-perde-com-isso)
 - [Leite atinge maior preço de venda no atacado desde 2005](https://www.nexojornal.com.br/grafico/2022/07/27/Leite-atinge-maior-pre%C3%A7o-de-venda-no-atacado-desde-2005)
 - [3 desafios para um governo que valoriza a ciência](https://www.nexojornal.com.br/colunistas/2022/3-desafios-para-um-governo-que-valoriza-a-ci%C3%AAncia)
 - [Como o Instagram se aproxima cada vez mais do TikTok](https://www.nexojornal.com.br/expresso/2022/07/27/Como-o-Instagram-se-aproxima-cada-vez-mais-do-TikTok)
+- [Conservadores da Itália fecham acordo por candidata a premiê](https://www.nexojornal.com.br/extra/2022/07/27/Conservadores-da-It%C3%A1lia-fecham-acordo-por-candidata-a-premi%C3%AA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
