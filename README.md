@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aprimore o seu poder de escuta](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprimore-o-seu-poder-de-escuta/)
 - [As vozes da diversidade geek](https://gamarevista.uol.com.br/pessoas/uma-turma/as-vozes-da-diversidade-geek/)
 - [Cultura e Desenvolvimento com Alê Youssef #2 — Ronaldo Lemos](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-2-ronaldo-lemos/)
 - [Resta Um](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/resta-um/)
 - [@gente.prabrilhar](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gente-prabrilhar/)
-- [Christian Dunker: ‘A honestidade, como valor, anda meio chamuscada’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/christian-dunker-fala-sobre-o-conceito-de-honestidade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
