@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A era dos debates acabou? O que o eleitor perde com isso](https://www.nexojornal.com.br/expresso/2022/07/27/A-era-dos-debates-acabou-O-que-o-eleitor-perde-com-isso)
-- [Leite atinge maior preço de venda no atacado desde 2005](https://www.nexojornal.com.br/grafico/2022/07/27/Leite-atinge-maior-pre%C3%A7o-de-venda-no-atacado-desde-2005)
-- [3 desafios para um governo que valoriza a ciência](https://www.nexojornal.com.br/colunistas/2022/3-desafios-para-um-governo-que-valoriza-a-ci%C3%AAncia)
-- [Como o Instagram se aproxima cada vez mais do TikTok](https://www.nexojornal.com.br/expresso/2022/07/27/Como-o-Instagram-se-aproxima-cada-vez-mais-do-TikTok)
-- [Conservadores da Itália fecham acordo por candidata a premiê](https://www.nexojornal.com.br/extra/2022/07/27/Conservadores-da-It%C3%A1lia-fecham-acordo-por-candidata-a-premi%C3%AA)
+- [PIB dos EUA tem queda de 0,9% no segundo trimestre](https://www.nexojornal.com.br/extra/2022/07/28/PIB-dos-EUA-tem-queda-de-09-no-segundo-trimestre)
+- [Quais as disputas em torno do Pix em ano eleitoral](https://www.nexojornal.com.br/expresso/2022/07/28/Quais-as-disputas-em-torno-do-Pix-em-ano-eleitoral)
+- [Forças Armadas não devem se envolver em eleição, diz general](https://www.nexojornal.com.br/extra/2022/07/28/For%C3%A7as-Armadas-n%C3%A3o-devem-se-envolver-em-elei%C3%A7%C3%A3o-diz-general)
+- [Site que abriga carta pela democracia é alvo de hackers](https://www.nexojornal.com.br/extra/2022/07/28/Site-que-abriga-carta-pela-democracia-%C3%A9-alvo-de-hackers)
+- [Feira geek Ucconx frustra público e vira piada na internet](https://www.nexojornal.com.br/extra/2022/07/28/Feira-geek-Ucconx-frustra-p%C3%BAblico-e-vira-piada-na-internet)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
