@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Aprimore o seu poder de escuta](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/aprimore-o-seu-poder-de-escuta/)
-- [As vozes da diversidade geek](https://gamarevista.uol.com.br/pessoas/uma-turma/as-vozes-da-diversidade-geek/)
-- [Cultura e Desenvolvimento com Alê Youssef #2 — Ronaldo Lemos](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-2-ronaldo-lemos/)
-- [Resta Um](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/resta-um/)
-- [@gente.prabrilhar](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gente-prabrilhar/)
+- [Nova temporada do podcast “Politiquês” no Nexo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-politiques-no-nexo/)
+- [Perifacon, a convenção nerd das favelas](https://gamarevista.uol.com.br/achamos-que-vale/ir/perifacon-a-convencao-nerd-das-favelas/)
+- [Nova biblioteca digital tem 15 mil livros gratuitos](https://gamarevista.uol.com.br/achamos-que-vale/ler/nova-biblioteca-digital-tem-15-mil-livros-gratuitos/)
+- [Andrea Beltrão interpreta mulher que reaprende a viver após coma em “Ela e Eu”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/andrea-beltrao-interpreta-mulher-que-reaprende-a-viver-apos-coma-em-ela-e-eu/)
+- [O novo disco do violonista João Camarero](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-disco-do-violonista-joao-camarero/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
