@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Uma reflexão sobre a diversidade no campo científico](https://www.nexojornal.com.br/colunistas/2022/Uma-reflex%C3%A3o-sobre-a-diversidade-no-campo-cient%C3%ADfico)
-- [Presidente do PSDB Mulher diz ter sido agredida por casal Belmonte](https://www.nexojornal.com.br/extra/2022/07/27/Presidente-do-PSDB-Mulher-diz-ter-sido-agredida-por-casal-Belmonte)
-- [Fora da ordem: um mundo abalado e um país eufórico](https://www.nexojornal.com.br/podcast/2022/07/27/Fora-da-ordem-um-mundo-abalado-e-um-pa%C3%ADs-euf%C3%B3rico)
-- [Por que o preço dos combustíveis está caindo no Brasil](https://www.nexojornal.com.br/expresso/2022/07/26/Por-que-o-pre%C3%A7o-dos-combust%C3%ADveis-est%C3%A1-caindo-no-Brasil)
-- [De onde vem a batata e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/07/26/De-onde-vem-a-batata-e-onde-ela-%C3%A9-produzida)
+- [A era dos debates acabou? O que o eleitor perde com isso](https://www.nexojornal.com.br/expresso/2022/07/27/A-era-dos-debates-acabou-O-que-o-eleitor-perde-com-isso)
+- [Leite atinge maior preço de venda no atacado desde 2005](https://www.nexojornal.com.br/grafico/2022/07/27/Leite-atinge-maior-pre%C3%A7o-de-venda-no-atacado-desde-2005)
+- [3 desafios para um governo que valoriza a ciência](https://www.nexojornal.com.br/colunistas/2022/3-desafios-para-um-governo-que-valoriza-a-ci%C3%AAncia)
+- [Como o Instagram se aproxima cada vez mais do TikTok](https://www.nexojornal.com.br/expresso/2022/07/27/Como-o-Instagram-se-aproxima-cada-vez-mais-do-TikTok)
+- [Conservadores da Itália fecham acordo por candidata a premiê](https://www.nexojornal.com.br/extra/2022/07/27/Conservadores-da-It%C3%A1lia-fecham-acordo-por-candidata-a-premi%C3%AA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
