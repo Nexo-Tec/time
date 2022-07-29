@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PIB dos EUA tem queda de 0,9% no segundo trimestre](https://www.nexojornal.com.br/extra/2022/07/28/PIB-dos-EUA-tem-queda-de-09-no-segundo-trimestre)
-- [Quais as disputas em torno do Pix em ano eleitoral](https://www.nexojornal.com.br/expresso/2022/07/28/Quais-as-disputas-em-torno-do-Pix-em-ano-eleitoral)
-- [Forças Armadas não devem se envolver em eleição, diz general](https://www.nexojornal.com.br/extra/2022/07/28/For%C3%A7as-Armadas-n%C3%A3o-devem-se-envolver-em-elei%C3%A7%C3%A3o-diz-general)
-- [Site que abriga carta pela democracia é alvo de hackers](https://www.nexojornal.com.br/extra/2022/07/28/Site-que-abriga-carta-pela-democracia-%C3%A9-alvo-de-hackers)
-- [Feira geek Ucconx frustra público e vira piada na internet](https://www.nexojornal.com.br/extra/2022/07/28/Feira-geek-Ucconx-frustra-p%C3%BAblico-e-vira-piada-na-internet)
+- [O golpe do golpe do presidente Jair Bolsonaro](https://www.nexojornal.com.br/colunistas/2022/O-golpe-do-golpe-do-presidente-Jair-Bolsonaro)
+- [Instagram desiste de deixar feed parecido com o do TikTok](https://www.nexojornal.com.br/extra/2022/07/29/Instagram-desiste-de-deixar-feed-parecido-com-o-do-TikTok)
+- [Por que o lugar de Lula e Bolsonaro está tão estável nas pesquisas](https://www.nexojornal.com.br/expresso/2022/07/28/Por-que-o-lugar-de-Lula-e-Bolsonaro-est%C3%A1-t%C3%A3o-est%C3%A1vel-nas-pesquisas)
+- [O mapeamento dos circos e dos artistas circenses no Brasil](https://www.nexojornal.com.br/grafico/2022/07/28/O-mapeamento-dos-circos-e-dos-artistas-circenses-no-Brasil)
+- [Tunísia: da Primavera Árabe à Constituição autocrática](https://www.nexojornal.com.br/expresso/2022/07/28/Tun%C3%ADsia-da-Primavera-%C3%81rabe-%C3%A0-Constitui%C3%A7%C3%A3o-autocr%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
