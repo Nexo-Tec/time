@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bruxas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/bruxas/)
+- [Cultura e Desenvolvimento # 3: Fernanda Feitosa](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-3-fernanda-feitosa/)
 - [Quanto barulho você aguenta?](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/quanto-barulho-voce-aguenta/)
 - [Nova temporada do podcast “Politiquês” no Nexo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-politiques-no-nexo/)
 - [Perifacon, a convenção nerd das favelas](https://gamarevista.uol.com.br/achamos-que-vale/ir/perifacon-a-convencao-nerd-das-favelas/)
-- [Nova biblioteca digital tem 15 mil livros gratuitos](https://gamarevista.uol.com.br/achamos-que-vale/ler/nova-biblioteca-digital-tem-15-mil-livros-gratuitos/)
-- [Andrea Beltrão interpreta mulher que reaprende a viver após coma em “Ela e Eu”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/andrea-beltrao-interpreta-mulher-que-reaprende-a-viver-apos-coma-em-ela-e-eu/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
