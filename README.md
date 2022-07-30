@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Saúde confirma 1ª morte por varíola dos macacos no Brasil](https://www.nexojornal.com.br/extra/2022/07/29/Sa%C3%BAde-confirma-1%C2%AA-morte-por-var%C3%ADola-dos-macacos-no-Brasil)
-- [Desemprego cai a 9,3%, melhor resultado do 2º tri desde 2015](https://www.nexojornal.com.br/extra/2022/07/29/Desemprego-cai-a-93-melhor-resultado-do-2%C2%BA-tri-desde-2015)
 - [O golpe do golpe do presidente Jair Bolsonaro](https://www.nexojornal.com.br/colunistas/2022/O-golpe-do-golpe-do-presidente-Jair-Bolsonaro)
 - [Instagram desiste de deixar feed parecido com o do TikTok](https://www.nexojornal.com.br/extra/2022/07/29/Instagram-desiste-de-deixar-feed-parecido-com-o-do-TikTok)
 - [Por que o lugar de Lula e Bolsonaro está tão estável nas pesquisas](https://www.nexojornal.com.br/expresso/2022/07/28/Por-que-o-lugar-de-Lula-e-Bolsonaro-est%C3%A1-t%C3%A3o-est%C3%A1vel-nas-pesquisas)
+- [O mapeamento dos circos e dos artistas circenses no Brasil](https://www.nexojornal.com.br/grafico/2022/07/28/O-mapeamento-dos-circos-e-dos-artistas-circenses-no-Brasil)
+- [Tunísia: da Primavera Árabe à Constituição autocrática](https://www.nexojornal.com.br/expresso/2022/07/28/Tun%C3%ADsia-da-Primavera-%C3%81rabe-%C3%A0-Constitui%C3%A7%C3%A3o-autocr%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
