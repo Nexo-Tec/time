@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O golpe do golpe do presidente Jair Bolsonaro](https://www.nexojornal.com.br/colunistas/2022/O-golpe-do-golpe-do-presidente-Jair-Bolsonaro)
-- [Instagram desiste de deixar feed parecido com o do TikTok](https://www.nexojornal.com.br/extra/2022/07/29/Instagram-desiste-de-deixar-feed-parecido-com-o-do-TikTok)
 - [Por que o lugar de Lula e Bolsonaro está tão estável nas pesquisas](https://www.nexojornal.com.br/expresso/2022/07/28/Por-que-o-lugar-de-Lula-e-Bolsonaro-est%C3%A1-t%C3%A3o-est%C3%A1vel-nas-pesquisas)
 - [O mapeamento dos circos e dos artistas circenses no Brasil](https://www.nexojornal.com.br/grafico/2022/07/28/O-mapeamento-dos-circos-e-dos-artistas-circenses-no-Brasil)
 - [Tunísia: da Primavera Árabe à Constituição autocrática](https://www.nexojornal.com.br/expresso/2022/07/28/Tun%C3%ADsia-da-Primavera-%C3%81rabe-%C3%A0-Constitui%C3%A7%C3%A3o-autocr%C3%A1tica)
+- [Bolsonaro diz que carta é reação a fim de monopólio de bancos](https://www.nexojornal.com.br/extra/2022/07/28/Bolsonaro-diz-que-carta-%C3%A9-rea%C3%A7%C3%A3o-a-fim-de-monop%C3%B3lio-de-bancos)
+- [O resgate de 337 pessoas em situação análoga à escravidão](https://www.nexojornal.com.br/podcast/2022/07/28/O-resgate-de-337-pessoas-em-situa%C3%A7%C3%A3o-an%C3%A1loga-%C3%A0-escravid%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
