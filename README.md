@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Rotas e desvios da Zona Franca de Manaus: o que mudou](https://pp.nexojornal.com.br/linha-do-tempo/2022/Rotas-e-desvios-da-Zona-Franca-de-Manaus-o-que-mudou)
+- [Eleições 2022: a cultura no centro do debate](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-a-cultura-no-centro-do-debate)
+- [Será preciso reconstruir a política ambiental em novas bases](https://pp.nexojornal.com.br/opiniao/2022/Ser%C3%A1-preciso-reconstruir-a-pol%C3%ADtica-ambiental-em-novas-bases)
+- [Transição de estudantes para o ensino fundamental 2: um modelo de apoio](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transi%C3%A7%C3%A3o-de-estudantes-para-o-ensino-fundamental-2-um-modelo-de-apoio)
 - [A sustentabilidade no Plano Safra](https://pp.nexojornal.com.br/opiniao/2022/A-sustentabilidade-no-Plano-Safra)
-- [A produção de alimentos, as mudanças climáticas e a saúde pública](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-produ%C3%A7%C3%A3o-de-alimentos-as-mudan%C3%A7as-clim%C3%A1ticas-e-a-sa%C3%BAde-p%C3%BAblica)
-- [Nicola Worcman: alternativas às comunidades terapêuticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/07/21/Nicola-Worcman-alternativas-%C3%A0s-comunidades-terap%C3%AAuticas)
-- [Destinar florestas públicas para salvar a Amazônia do desmatamento](https://pp.nexojornal.com.br/ponto-de-vista/2022/Destinar-florestas-p%C3%BAblicas-para-salvar-a-Amaz%C3%B4nia-do-desmatamento1)
-- [Eleições 2022: nova chance para a participação social nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-nova-chance-para-a-participa%C3%A7%C3%A3o-social-nas-pol%C3%ADticas-p%C3%BAblicas1)
 <!-- PP_LIST:END -->
 
