@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sofia Manzano é oficializada candidata do PCB à Presidência](https://www.nexojornal.com.br/extra/2022/07/30/Sofia-Manzano-%C3%A9-oficializada-candidata-do-PCB-%C3%A0-Presid%C3%AAncia)
 - [Pfizer pede liberação de vacina para crianças a partir de 6 meses](https://www.nexojornal.com.br/extra/2022/07/30/Pfizer-pede-libera%C3%A7%C3%A3o-de-vacina-para-crian%C3%A7as-a-partir-de-6-meses)
 - [Como a feira Ucconx virou o Fyre Festival dos nerds](https://www.nexojornal.com.br/expresso/2022/07/29/Como-a-feira-Ucconx-virou-o-Fyre-Festival-dos-nerds)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [‘Renaissance’: a nostalgia pela dança no novo álbum de Beyoncé](https://www.nexojornal.com.br/expresso/2022/07/29/%E2%80%98Renaissance%E2%80%99-a-nostalgia-pela-dan%C3%A7a-no-novo-%C3%A1lbum-de-Beyonc%C3%A9)
+- [Aquecimento global intensificou as chuvas torrenciais deste ano no Nordeste e a onda de calor no verão europeu](https://www.nexojornal.com.br/externo/2022/07/29/Aquecimento-global-intensificou-as-chuvas-torrenciais-deste-ano-no-Nordeste-e-a-onda-de-calor-no-ver%C3%A3o-europeu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
