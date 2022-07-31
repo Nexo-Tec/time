@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sofia Manzano é oficializada candidata do PCB à Presidência](https://www.nexojornal.com.br/extra/2022/07/30/Sofia-Manzano-%C3%A9-oficializada-candidata-do-PCB-%C3%A0-Presid%C3%AAncia)
-- [Pfizer pede liberação de vacina para crianças a partir de 6 meses](https://www.nexojornal.com.br/extra/2022/07/30/Pfizer-pede-libera%C3%A7%C3%A3o-de-vacina-para-crian%C3%A7as-a-partir-de-6-meses)
-- [Como a feira Ucconx virou o Fyre Festival dos nerds](https://www.nexojornal.com.br/expresso/2022/07/29/Como-a-feira-Ucconx-virou-o-Fyre-Festival-dos-nerds)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/07/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Renaissance’: a nostalgia pela dança no novo álbum de Beyoncé](https://www.nexojornal.com.br/expresso/2022/07/29/%E2%80%98Renaissance%E2%80%99-a-nostalgia-pela-dan%C3%A7a-no-novo-%C3%A1lbum-de-Beyonc%C3%A9)
+- [Brasil conquista oitavo título da Copa América feminina](https://www.nexojornal.com.br/extra/2022/07/31/Brasil-conquista-oitavo-t%C3%ADtulo-da-Copa-Am%C3%A9rica-feminina)
+- [5 livros para pensar em como promover a justiça econômica](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-em-como-promover-a-justi%C3%A7a-econ%C3%B4mica)
+- [Confiança de brasileiros nas urnas aumenta, segundo Datafolha](https://www.nexojornal.com.br/extra/2022/07/30/Confian%C3%A7a-de-brasileiros-nas-urnas-aumenta-segundo-Datafolha)
+- [‘Redesenho da relação Brasil-Venezuela é urgente’](https://www.nexojornal.com.br/entrevista/2022/07/30/%E2%80%98Redesenho-da-rela%C3%A7%C3%A3o-Brasil-Venezuela-%C3%A9-urgente%E2%80%99)
+- [Iniciativa privada: ciência nova se faz fora da caixinha](https://www.nexojornal.com.br/ensaio/2022/Iniciativa-privada-ci%C3%AAncia-nova-se-faz-fora-da-caixinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
