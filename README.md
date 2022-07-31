@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Os sonhos contam algo do coletivo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-sonhos-contam-algo-do-coletivo/)
 - [Antônio Xerxenesky](https://gamarevista.uol.com.br/pessoas/questionario-proust/antonio-xerxenesky/)
 - [Bruxas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/bruxas/)
 - [Cultura e Desenvolvimento # 3: Fernanda Feitosa](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-3-fernanda-feitosa/)
 - [Quanto barulho você aguenta?](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/quanto-barulho-voce-aguenta/)
-- [Nova temporada do podcast “Politiquês” no Nexo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nova-temporada-do-podcast-politiques-no-nexo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
