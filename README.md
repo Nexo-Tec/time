@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mundo está a um erro de cálculo da guerra nuclear, diz ONU](https://www.nexojornal.com.br/extra/2022/08/01/Mundo-est%C3%A1-a-um-erro-de-c%C3%A1lculo-da-guerra-nuclear-diz-ONU)
-- [A carreira e a vida de Nichelle Nichols em 5 momentos](https://www.nexojornal.com.br/expresso/2022/08/01/A-carreira-e-a-vida-de-Nichelle-Nichols-em-5-momentos)
-- [Inpe registra 5.373 focos de incêndio na Amazônia em julho](https://www.nexojornal.com.br/extra/2022/08/01/Inpe-registra-5.373-focos-de-inc%C3%AAndio-na-Amaz%C3%B4nia-em-julho)
-- [Brasil deve receber antiviral contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/01/Brasil-deve-receber-antiviral-contra-var%C3%ADola-dos-macacos)
-- [Bolsonaro indica dois desembargadores federais ao STJ](https://www.nexojornal.com.br/extra/2022/08/01/Bolsonaro-indica-dois-desembargadores-federais-ao-STJ)
+- [Bivar desiste de candidatura à Presidência e vai disputar Câmara](https://www.nexojornal.com.br/extra/2022/07/31/Bivar-desiste-de-candidatura-%C3%A0-Presid%C3%AAncia-e-vai-disputar-C%C3%A2mara)
+- [Em viagem aos EUA, entidades alertam sobre risco à eleição](https://www.nexojornal.com.br/extra/2022/07/31/Em-viagem-aos-EUA-entidades-alertam-sobre-risco-%C3%A0-elei%C3%A7%C3%A3o)
+- [Caso Ewbank é exemplo de denúncia que cresce em Portugal](https://www.nexojornal.com.br/extra/2022/07/31/Caso-Ewbank-%C3%A9-exemplo-de-den%C3%BAncia-que-cresce-em-Portugal)
+- [Brasil conquista oitavo título da Copa América feminina](https://www.nexojornal.com.br/extra/2022/07/31/Brasil-conquista-oitavo-t%C3%ADtulo-da-Copa-Am%C3%A9rica-feminina)
+- [5 livros para pensar em como promover a justiça econômica](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-em-como-promover-a-justi%C3%A7a-econ%C3%B4mica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
