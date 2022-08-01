@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bivar desiste de candidatura à Presidência e vai disputar Câmara](https://www.nexojornal.com.br/extra/2022/07/31/Bivar-desiste-de-candidatura-%C3%A0-Presid%C3%AAncia-e-vai-disputar-C%C3%A2mara)
-- [Em viagem aos EUA, entidades alertam sobre risco à eleição](https://www.nexojornal.com.br/extra/2022/07/31/Em-viagem-aos-EUA-entidades-alertam-sobre-risco-%C3%A0-elei%C3%A7%C3%A3o)
-- [Caso Ewbank é exemplo de denúncia que cresce em Portugal](https://www.nexojornal.com.br/extra/2022/07/31/Caso-Ewbank-%C3%A9-exemplo-de-den%C3%BAncia-que-cresce-em-Portugal)
-- [Brasil conquista oitavo título da Copa América feminina](https://www.nexojornal.com.br/extra/2022/07/31/Brasil-conquista-oitavo-t%C3%ADtulo-da-Copa-Am%C3%A9rica-feminina)
-- [5 livros para pensar em como promover a justiça econômica](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-em-como-promover-a-justi%C3%A7a-econ%C3%B4mica)
+- [Reação ao racismo: os ecos e as nuances da atitude de Ewbank](https://www.nexojornal.com.br/podcast/2022/08/01/Rea%C3%A7%C3%A3o-ao-racismo-os-ecos-e-as-nuances-da-atitude-de-Ewbank)
+- [O que você precisa saber sobre o Censo 2022](https://www.nexojornal.com.br/expresso/2022/08/01/O-que-voc%C3%AA-precisa-saber-sobre-o-Censo-2022)
+- [PTB lança candidatura de Roberto Jefferson à Presidência](https://www.nexojornal.com.br/incoming/2022/08/01/PTB-lan%C3%A7a-candidatura-de-Roberto-Jefferson-%C3%A0-Presid%C3%AAncia)
+- [Navio com grãos deixa Ucrânia, mas retomada é incógnita](https://www.nexojornal.com.br/extra/2022/08/01/Navio-com-gr%C3%A3os-deixa-Ucr%C3%A2nia-mas-retomada-%C3%A9-inc%C3%B3gnita)
+- [Fux pede tolerância e respeito a adversários nas eleições](https://www.nexojornal.com.br/extra/2022/08/01/Fux-pede-toler%C3%A2ncia-e-respeito-a-advers%C3%A1rios-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
