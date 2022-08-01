@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bivar desiste de candidatura à Presidência e vai disputar Câmara](https://www.nexojornal.com.br/extra/2022/07/31/Bivar-desiste-de-candidatura-%C3%A0-Presid%C3%AAncia-e-vai-disputar-C%C3%A2mara)
+- [Em viagem aos EUA, entidades alertam sobre risco à eleição](https://www.nexojornal.com.br/extra/2022/07/31/Em-viagem-aos-EUA-entidades-alertam-sobre-risco-%C3%A0-elei%C3%A7%C3%A3o)
 - [Caso Ewbank é exemplo de denúncia que cresce em Portugal](https://www.nexojornal.com.br/extra/2022/07/31/Caso-Ewbank-%C3%A9-exemplo-de-den%C3%BAncia-que-cresce-em-Portugal)
 - [Brasil conquista oitavo título da Copa América feminina](https://www.nexojornal.com.br/extra/2022/07/31/Brasil-conquista-oitavo-t%C3%ADtulo-da-Copa-Am%C3%A9rica-feminina)
 - [5 livros para pensar em como promover a justiça econômica](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-pensar-em-como-promover-a-justi%C3%A7a-econ%C3%B4mica)
-- [Confiança de brasileiros nas urnas aumenta, segundo Datafolha](https://www.nexojornal.com.br/extra/2022/07/30/Confian%C3%A7a-de-brasileiros-nas-urnas-aumenta-segundo-Datafolha)
-- [‘Redesenho da relação Brasil-Venezuela é urgente’](https://www.nexojornal.com.br/entrevista/2022/07/30/%E2%80%98Redesenho-da-rela%C3%A7%C3%A3o-Brasil-Venezuela-%C3%A9-urgente%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
