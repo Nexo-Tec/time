@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cultura e desenvolvimento # 4: Paulo Borges](https://gamarevista.uol.com.br/sem-categoria/cultura-e-desenvolvimento-4-paulo-borges/)
 - [Caneta Posca](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneta-posca/)
 - [@handpaintedbrazil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/handpaintedbrazil/)
 - [‘O que vai vir me parece muito pesado e perverso’](https://gamarevista.uol.com.br/formato/conversas/o-que-vai-vir-me-parece-muito-pesado-e-perverso/)
 - [“Os sonhos contam algo do coletivo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/os-sonhos-contam-algo-do-coletivo/)
-- [Antônio Xerxenesky](https://gamarevista.uol.com.br/pessoas/questionario-proust/antonio-xerxenesky/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
