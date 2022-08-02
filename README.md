@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem paga pela queda de preço dos combustíveis no Brasil](https://www.nexojornal.com.br/expresso/2022/08/01/Quem-paga-pela-queda-de-pre%C3%A7o-dos-combust%C3%ADveis-no-Brasil)
-- [Entidades de imprensa divulgam nota em defesa da democracia](https://www.nexojornal.com.br/extra/2022/08/01/Entidades-de-imprensa-divulgam-nota-em-defesa-da-democracia)
-- [EUA matam no Afeganistão o principal líder da Al Qaeda](https://www.nexojornal.com.br/extra/2022/08/01/EUA-matam-no-Afeganist%C3%A3o-o-principal-l%C3%ADder-da-Al-Qaeda)
-- [A prática da cidadania ativa em meio a golpes de Estado](https://www.nexojornal.com.br/colunistas/2022/A-pr%C3%A1tica-da-cidadania-ativa-em-meio-a-golpes-de-Estado)
 - [Reação ao racismo: os ecos e as nuances da atitude de Ewbank](https://www.nexojornal.com.br/podcast/2022/08/01/Rea%C3%A7%C3%A3o-ao-racismo-os-ecos-e-as-nuances-da-atitude-de-Ewbank)
+- [O que você precisa saber sobre o Censo 2022](https://www.nexojornal.com.br/expresso/2022/08/01/O-que-voc%C3%AA-precisa-saber-sobre-o-Censo-2022)
+- [PTB lança candidatura de Roberto Jefferson à Presidência](https://www.nexojornal.com.br/incoming/2022/08/01/PTB-lan%C3%A7a-candidatura-de-Roberto-Jefferson-%C3%A0-Presid%C3%AAncia)
+- [Navio com grãos deixa Ucrânia, mas retomada é incógnita](https://www.nexojornal.com.br/extra/2022/08/01/Navio-com-gr%C3%A3os-deixa-Ucr%C3%A2nia-mas-retomada-%C3%A9-inc%C3%B3gnita)
+- [Fux pede tolerância e respeito a adversários nas eleições](https://www.nexojornal.com.br/extra/2022/08/01/Fux-pede-toler%C3%A2ncia-e-respeito-a-advers%C3%A1rios-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
