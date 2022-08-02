@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reação ao racismo: os ecos e as nuances da atitude de Ewbank](https://www.nexojornal.com.br/podcast/2022/08/01/Rea%C3%A7%C3%A3o-ao-racismo-os-ecos-e-as-nuances-da-atitude-de-Ewbank)
-- [O que você precisa saber sobre o Censo 2022](https://www.nexojornal.com.br/expresso/2022/08/01/O-que-voc%C3%AA-precisa-saber-sobre-o-Censo-2022)
-- [PTB lança candidatura de Roberto Jefferson à Presidência](https://www.nexojornal.com.br/incoming/2022/08/01/PTB-lan%C3%A7a-candidatura-de-Roberto-Jefferson-%C3%A0-Presid%C3%AAncia)
-- [Navio com grãos deixa Ucrânia, mas retomada é incógnita](https://www.nexojornal.com.br/extra/2022/08/01/Navio-com-gr%C3%A3os-deixa-Ucr%C3%A2nia-mas-retomada-%C3%A9-inc%C3%B3gnita)
-- [Fux pede tolerância e respeito a adversários nas eleições](https://www.nexojornal.com.br/extra/2022/08/01/Fux-pede-toler%C3%A2ncia-e-respeito-a-advers%C3%A1rios-nas-elei%C3%A7%C3%B5es)
+- [Mundo está a um erro de cálculo da guerra nuclear, diz ONU](https://www.nexojornal.com.br/extra/2022/08/01/Mundo-est%C3%A1-a-um-erro-de-c%C3%A1lculo-da-guerra-nuclear-diz-ONU)
+- [A carreira e a vida de Nichelle Nichols em 5 momentos](https://www.nexojornal.com.br/expresso/2022/08/01/A-carreira-e-a-vida-de-Nichelle-Nichols-em-5-momentos)
+- [Inpe registra 5.373 focos de incêndio na Amazônia em julho](https://www.nexojornal.com.br/extra/2022/08/01/Inpe-registra-5.373-focos-de-inc%C3%AAndio-na-Amaz%C3%B4nia-em-julho)
+- [Brasil deve receber antiviral contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/01/Brasil-deve-receber-antiviral-contra-var%C3%ADola-dos-macacos)
+- [Bolsonaro indica dois desembargadores federais ao STJ](https://www.nexojornal.com.br/extra/2022/08/01/Bolsonaro-indica-dois-desembargadores-federais-ao-STJ)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
