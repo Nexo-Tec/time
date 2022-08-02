@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem paga pela queda de preço dos combustíveis no Brasil](https://www.nexojornal.com.br/expresso/2022/08/01/Quem-paga-pela-queda-de-pre%C3%A7o-dos-combust%C3%ADveis-no-Brasil)
-- [Entidades de imprensa divulgam nota em defesa da democracia](https://www.nexojornal.com.br/extra/2022/08/01/Entidades-de-imprensa-divulgam-nota-em-defesa-da-democracia)
-- [EUA matam no Afeganistão o principal líder da Al Qaeda](https://www.nexojornal.com.br/extra/2022/08/01/EUA-matam-no-Afeganist%C3%A3o-o-principal-l%C3%ADder-da-Al-Qaeda)
-- [A prática da cidadania ativa em meio a golpes de Estado](https://www.nexojornal.com.br/colunistas/2022/A-pr%C3%A1tica-da-cidadania-ativa-em-meio-a-golpes-de-Estado)
-- [Reação ao racismo: os ecos e as nuances da atitude de Ewbank](https://www.nexojornal.com.br/podcast/2022/08/01/Rea%C3%A7%C3%A3o-ao-racismo-os-ecos-e-as-nuances-da-atitude-de-Ewbank)
+- [Mundo está a um erro de cálculo da guerra nuclear, diz ONU](https://www.nexojornal.com.br/extra/2022/08/01/Mundo-est%C3%A1-a-um-erro-de-c%C3%A1lculo-da-guerra-nuclear-diz-ONU)
+- [A carreira e a vida de Nichelle Nichols em 5 momentos](https://www.nexojornal.com.br/expresso/2022/08/01/A-carreira-e-a-vida-de-Nichelle-Nichols-em-5-momentos)
+- [Inpe registra 5.373 focos de incêndio na Amazônia em julho](https://www.nexojornal.com.br/extra/2022/08/01/Inpe-registra-5.373-focos-de-inc%C3%AAndio-na-Amaz%C3%B4nia-em-julho)
+- [Brasil deve receber antiviral contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/01/Brasil-deve-receber-antiviral-contra-var%C3%ADola-dos-macacos)
+- [Bolsonaro indica dois desembargadores federais ao STJ](https://www.nexojornal.com.br/extra/2022/08/01/Bolsonaro-indica-dois-desembargadores-federais-ao-STJ)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
