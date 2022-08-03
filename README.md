@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Promotoria aponta ‘folha secreta’ na gestão Cláudio Castro](https://www.nexojornal.com.br/extra/2022/08/02/Promotoria-aponta-%E2%80%98folha-secreta%E2%80%99-na-gest%C3%A3o-Cl%C3%A1udio-Castro)
-- [Por que a reforma do Saeb é crucial e urgente](https://www.nexojornal.com.br/ensaio/2022/Por-que-a-reforma-do-Saeb-%C3%A9-crucial-e-urgente)
-- [Qual o futuro do Auxílio Brasil de R$ 600 a partir de 2023](https://www.nexojornal.com.br/expresso/2022/08/02/Qual-o-futuro-do-Aux%C3%ADlio-Brasil-de-R-600-a-partir-de-2023)
-- [A crise política no Iraque após o fim da ação militar dos EUA](https://www.nexojornal.com.br/expresso/2022/08/02/A-crise-pol%C3%ADtica-no-Iraque-ap%C3%B3s-o-fim-da-a%C3%A7%C3%A3o-militar-dos-EUA)
-- [O desfile cívico-militar de Bolsonaro no 7 de setembro eleitoral](https://www.nexojornal.com.br/podcast/2022/08/02/O-desfile-c%C3%ADvico-militar-de-Bolsonaro-no-7-de-setembro-eleitoral)
+- [Senadora Mara Gabrilli será vice na chapa de Simone Tebet](https://www.nexojornal.com.br/extra/2022/08/02/Senadora-Mara-Gabrilli-ser%C3%A1-vice-na-chapa-de-Simone-Tebet)
+- [Defesa pede ao TSE códigos-fonte das urnas eletrônicas](https://www.nexojornal.com.br/extra/2022/08/02/Defesa-pede-ao-TSE-c%C3%B3digos-fonte-das-urnas-eletr%C3%B4nicas)
+- [Mortes devido a varíola dos macacos avançam no mundo](https://www.nexojornal.com.br/extra/2022/08/02/Mortes-devido-a-var%C3%ADola-dos-macacos-avan%C3%A7am-no-mundo)
+- [Datafolha: Faltou comida em casa para um terço da população](https://www.nexojornal.com.br/extra/2022/08/02/Datafolha-Faltou-comida-em-casa-para-um-ter%C3%A7o-da-popula%C3%A7%C3%A3o)
+- [Nancy Pelosi chega a Taiwan e abre crise entre EUA e China](https://www.nexojornal.com.br/extra/2022/08/02/Nancy-Pelosi-chega-a-Taiwan-e-abre-crise-entre-EUA-e-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
