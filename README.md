@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Trajetória de inclusão na UFMG: da aposta nos cursos noturnos às cotas na pós-graduação](https://pp.nexojornal.com.br/linha-do-tempo/2022/Trajet%C3%B3ria-de-inclus%C3%A3o-na-UFMG-da-aposta-nos-cursos-noturnos-%C3%A0s-cotas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
-- [Como fatores socioeconômicos impactam nas taxas de suicídio no Brasil](https://pp.nexojornal.com.br/academico/2022/Como-fatores-socioecon%C3%B4micos-impactam-nas-taxas-de-suic%C3%ADdio-no-Brasil)
-- [Contribuições dos mares e oceanos para o bem-estar das pessoas](https://pp.nexojornal.com.br/opiniao/2022/Contribui%C3%A7%C3%B5es-dos-mares-e-oceanos-para-o-bem-estar-das-pessoas)
-- [O que fazer com a Zona Franca de Manaus?](https://pp.nexojornal.com.br/opiniao/2022/O-que-fazer-com-a-Zona-Franca-de-Manaus)
 - [Rotas e desvios da Zona Franca de Manaus: o que mudou](https://pp.nexojornal.com.br/linha-do-tempo/2022/Rotas-e-desvios-da-Zona-Franca-de-Manaus-o-que-mudou)
+- [Eleições 2022: a cultura no centro do debate](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-a-cultura-no-centro-do-debate)
+- [Será preciso reconstruir a política ambiental em novas bases](https://pp.nexojornal.com.br/opiniao/2022/Ser%C3%A1-preciso-reconstruir-a-pol%C3%ADtica-ambiental-em-novas-bases)
+- [Transição de estudantes para o ensino fundamental 2: um modelo de apoio](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transi%C3%A7%C3%A3o-de-estudantes-para-o-ensino-fundamental-2-um-modelo-de-apoio)
+- [A sustentabilidade no Plano Safra](https://pp.nexojornal.com.br/opiniao/2022/A-sustentabilidade-no-Plano-Safra)
 <!-- PP_LIST:END -->
 
