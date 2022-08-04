@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Promotoria aponta ‘folha secreta’ na gestão Cláudio Castro](https://www.nexojornal.com.br/extra/2022/08/02/Promotoria-aponta-%E2%80%98folha-secreta%E2%80%99-na-gest%C3%A3o-Cl%C3%A1udio-Castro)
-- [Por que a reforma do Saeb é crucial e urgente](https://www.nexojornal.com.br/ensaio/2022/Por-que-a-reforma-do-Saeb-%C3%A9-crucial-e-urgente)
-- [Qual o futuro do Auxílio Brasil de R$ 600 a partir de 2023](https://www.nexojornal.com.br/expresso/2022/08/02/Qual-o-futuro-do-Aux%C3%ADlio-Brasil-de-R-600-a-partir-de-2023)
-- [A crise política no Iraque após o fim da ação militar dos EUA](https://www.nexojornal.com.br/expresso/2022/08/02/A-crise-pol%C3%ADtica-no-Iraque-ap%C3%B3s-o-fim-da-a%C3%A7%C3%A3o-militar-dos-EUA)
-- [O desfile cívico-militar de Bolsonaro no 7 de setembro eleitoral](https://www.nexojornal.com.br/podcast/2022/08/02/O-desfile-c%C3%ADvico-militar-de-Bolsonaro-no-7-de-setembro-eleitoral)
+- [O que está em jogo nas eleições de 2022: democracia](https://www.nexojornal.com.br/ensaio/debate/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-de-2022-democracia)
+- [Por que o governo americano quer barrar a fusão de editoras](https://www.nexojornal.com.br/expresso/2022/08/03/Por-que-o-governo-americano-quer-barrar-a-fus%C3%A3o-de-editoras)
+- [Como a atuação do governo afeta as decisões do Banco Central](https://www.nexojornal.com.br/expresso/2022/08/03/Como-a-atua%C3%A7%C3%A3o-do-governo-afeta-as-decis%C3%B5es-do-Banco-Central)
+- [De onde vem a banana e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/08/03/De-onde-vem-a-banana-e-onde-ela-%C3%A9-produzida)
+- [Boate Kiss: Justiça anula júri que condenou réus por incêndio](https://www.nexojornal.com.br/extra/2022/08/03/Boate-Kiss-Justi%C3%A7a-anula-j%C3%BAri-que-condenou-r%C3%A9us-por-inc%C3%AAndio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
