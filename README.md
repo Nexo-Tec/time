@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Cultura e desenvolvimento # 5: Carlota Mingolla](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-5-carlota-mingolla/)
-- [CV: Felipe Simi](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-felipe-simi/)
-- [Cultura e desenvolvimento # 4: Paulo Borges](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-4-paulo-borges/)
-- [Caneta Posca](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneta-posca/)
-- [@handpaintedbrazil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/handpaintedbrazil/)
+- [‘Lendo Caetano’ acontece sábado na Mário de Andrade](https://gamarevista.uol.com.br/achamos-que-vale/ir/lendo-caetano-acontece-sabado-na-mario-de-andrade/)
+- [Segunda temporada de ‘Bom Dia, Verônica’ na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segunda-temporada-de-bom-dia-veronica-na-netflix/)
+- [Feminismo, gênero e transexualidade na Folha](https://gamarevista.uol.com.br/achamos-que-vale/ler/feminismo-genero-e-transexualidade-na-folha/)
+- [Série da HBO Max ‘O Ensaio’ brinca com o absurdo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-da-hbo-max-o-ensaio-brinca-com-o-absurdo/)
+- [Sesc oferece curso online gratuito de cinema brasileiro](https://gamarevista.uol.com.br/achamos-que-vale/fazer/sesc-oferece-curso-online-gratuito-de-cinema-brasileiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
