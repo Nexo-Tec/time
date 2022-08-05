@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A necessidade de creches para as crianças brasileiras](https://pp.nexojornal.com.br/Dados/2022/08/05/A-necessidade-de-creches-para-as-crian%C3%A7as-brasileiras)
-- [Luiz Paulo Assad: mares e oceanos como fontes de energias renováveis](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/08/05/Luiz-Paulo-Assad-mares-e-oceanos-como-fontes-de-energias-renov%C3%A1veis)
 - [Trajetória de inclusão na UFMG: da aposta nos cursos noturnos às cotas na pós-graduação](https://pp.nexojornal.com.br/linha-do-tempo/2022/Trajet%C3%B3ria-de-inclus%C3%A3o-na-UFMG-da-aposta-nos-cursos-noturnos-%C3%A0s-cotas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
 - [Como fatores socioeconômicos impactam nas taxas de suicídio no Brasil](https://pp.nexojornal.com.br/academico/2022/Como-fatores-socioecon%C3%B4micos-impactam-nas-taxas-de-suic%C3%ADdio-no-Brasil)
 - [Contribuições dos mares e oceanos para o bem-estar das pessoas](https://pp.nexojornal.com.br/opiniao/2022/Contribui%C3%A7%C3%B5es-dos-mares-e-oceanos-para-o-bem-estar-das-pessoas)
+- [O que fazer com a Zona Franca de Manaus?](https://pp.nexojornal.com.br/opiniao/2022/O-que-fazer-com-a-Zona-Franca-de-Manaus)
+- [Rotas e desvios da Zona Franca de Manaus: o que mudou](https://pp.nexojornal.com.br/linha-do-tempo/2022/Rotas-e-desvios-da-Zona-Franca-de-Manaus-o-que-mudou)
 <!-- PP_LIST:END -->
 
