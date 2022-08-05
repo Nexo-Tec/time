@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que está em jogo nas eleições de 2022: democracia](https://www.nexojornal.com.br/ensaio/debate/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-de-2022-democracia)
-- [Por que o governo americano quer barrar a fusão de editoras](https://www.nexojornal.com.br/expresso/2022/08/03/Por-que-o-governo-americano-quer-barrar-a-fus%C3%A3o-de-editoras)
-- [Como a atuação do governo afeta as decisões do Banco Central](https://www.nexojornal.com.br/expresso/2022/08/03/Como-a-atua%C3%A7%C3%A3o-do-governo-afeta-as-decis%C3%B5es-do-Banco-Central)
-- [De onde vem a banana e onde ela é produzida](https://www.nexojornal.com.br/grafico/2022/08/03/De-onde-vem-a-banana-e-onde-ela-%C3%A9-produzida)
-- [Boate Kiss: Justiça anula júri que condenou réus por incêndio](https://www.nexojornal.com.br/extra/2022/08/03/Boate-Kiss-Justi%C3%A7a-anula-j%C3%BAri-que-condenou-r%C3%A9us-por-inc%C3%AAndio)
+- [7 pontos para entender os códigos-fonte das urnas](https://www.nexojornal.com.br/expresso/2022/08/04/7-pontos-para-entender-os-c%C3%B3digos-fonte-das-urnas)
+- [As barreiras enfrentadas por candidaturas negras no Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/As-barreiras-enfrentadas-por-candidaturas-negras-no-Brasil)
+- [A difícil arte de fazer escolhas: quem elege quem?](https://www.nexojornal.com.br/colunistas/2022/A-dif%C3%ADcil-arte-de-fazer-escolhas-quem-elege-quem)
+- [Quais os efeitos do crédito consignado do Auxílio Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/Quais-os-efeitos-do-cr%C3%A9dito-consignado-do-Aux%C3%ADlio-Brasil)
+- [A adaptação de ‘Sandman’. E a importância da HQ](https://www.nexojornal.com.br/expresso/2022/08/04/A-adapta%C3%A7%C3%A3o-de-%E2%80%98Sandman%E2%80%99.-E-a-import%C3%A2ncia-da-HQ)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
