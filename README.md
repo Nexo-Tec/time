@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Corpo de Jô Soares é cremado em cerimônia em São Paulo](https://www.nexojornal.com.br/extra/2022/08/06/Corpo-de-J%C3%B4-Soares-%C3%A9-cremado-em-cerim%C3%B4nia-em-S%C3%A3o-Paulo)
 - [O cerco de Ortega a religiosos críticos do governo na Nicarágua](https://www.nexojornal.com.br/expresso/2022/08/05/O-cerco-de-Ortega-a-religiosos-cr%C3%ADticos-do-governo-na-Nicar%C3%A1gua)
 - [Globo é acusada de yellowface e corta cena de novela](https://www.nexojornal.com.br/extra/2022/08/05/Globo-%C3%A9-acusada-de-yellowface-e-corta-cena-de-novela)
 - [Qual o impacto da pobreza na saúde da população mundial](https://www.nexojornal.com.br/expresso/2022/08/05/Qual-o-impacto-da-pobreza-na-sa%C3%BAde-da-popula%C3%A7%C3%A3o-mundial)
 - [Intérpretes do debate político](https://www.nexojornal.com.br/externo/2022/08/05/Int%C3%A9rpretes-do-debate-pol%C3%ADtico)
+- [Por que o petróleo recuou a níveis pré-guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/08/05/Por-que-o-petr%C3%B3leo-recuou-a-n%C3%ADveis-pr%C3%A9-guerra-na-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
