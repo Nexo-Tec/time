@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O cerco de Ortega a religiosos críticos do governo na Nicarágua](https://www.nexojornal.com.br/expresso/2022/08/05/O-cerco-de-Ortega-a-religiosos-cr%C3%ADticos-do-governo-na-Nicar%C3%A1gua)
-- [Globo é acusada de yellowface e corta cena de novela](https://www.nexojornal.com.br/extra/2022/08/05/Globo-%C3%A9-acusada-de-yellowface-e-corta-cena-de-novela)
-- [Qual o impacto da pobreza na saúde da população mundial](https://www.nexojornal.com.br/expresso/2022/08/05/Qual-o-impacto-da-pobreza-na-sa%C3%BAde-da-popula%C3%A7%C3%A3o-mundial)
-- [Intérpretes do debate político](https://www.nexojornal.com.br/externo/2022/08/05/Int%C3%A9rpretes-do-debate-pol%C3%ADtico)
-- [Por que o petróleo recuou a níveis pré-guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/08/05/Por-que-o-petr%C3%B3leo-recuou-a-n%C3%ADveis-pr%C3%A9-guerra-na-Ucr%C3%A2nia)
+- [7 pontos para entender os códigos-fonte das urnas](https://www.nexojornal.com.br/expresso/2022/08/04/7-pontos-para-entender-os-c%C3%B3digos-fonte-das-urnas)
+- [As barreiras enfrentadas por candidaturas negras no Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/As-barreiras-enfrentadas-por-candidaturas-negras-no-Brasil)
+- [A difícil arte de fazer escolhas: quem elege quem?](https://www.nexojornal.com.br/colunistas/2022/A-dif%C3%ADcil-arte-de-fazer-escolhas-quem-elege-quem)
+- [Quais os efeitos do crédito consignado do Auxílio Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/Quais-os-efeitos-do-cr%C3%A9dito-consignado-do-Aux%C3%ADlio-Brasil)
+- [A adaptação de ‘Sandman’. E a importância da HQ](https://www.nexojornal.com.br/expresso/2022/08/04/A-adapta%C3%A7%C3%A3o-de-%E2%80%98Sandman%E2%80%99.-E-a-import%C3%A2ncia-da-HQ)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
