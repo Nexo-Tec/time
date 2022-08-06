@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [7 pontos para entender os códigos-fonte das urnas](https://www.nexojornal.com.br/expresso/2022/08/04/7-pontos-para-entender-os-c%C3%B3digos-fonte-das-urnas)
-- [As barreiras enfrentadas por candidaturas negras no Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/As-barreiras-enfrentadas-por-candidaturas-negras-no-Brasil)
-- [A difícil arte de fazer escolhas: quem elege quem?](https://www.nexojornal.com.br/colunistas/2022/A-dif%C3%ADcil-arte-de-fazer-escolhas-quem-elege-quem)
-- [Quais os efeitos do crédito consignado do Auxílio Brasil](https://www.nexojornal.com.br/expresso/2022/08/04/Quais-os-efeitos-do-cr%C3%A9dito-consignado-do-Aux%C3%ADlio-Brasil)
-- [A adaptação de ‘Sandman’. E a importância da HQ](https://www.nexojornal.com.br/expresso/2022/08/04/A-adapta%C3%A7%C3%A3o-de-%E2%80%98Sandman%E2%80%99.-E-a-import%C3%A2ncia-da-HQ)
+- [Ex-vereador apontado como fundador de milícia é morto no RJ](https://www.nexojornal.com.br/extra/2022/08/05/Ex-vereador-apontado-como-fundador-de-mil%C3%ADcia-%C3%A9-morto-no-RJ)
+- [China anuncia sanções contra Pelosi após visita a Taiwan](https://www.nexojornal.com.br/extra/2022/08/05/China-anuncia-san%C3%A7%C3%B5es-contra-Pelosi-ap%C3%B3s-visita-a-Taiwan)
+- [São Paulo cria rede hospitalar contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/05/S%C3%A3o-Paulo-cria-rede-hospitalar-contra-var%C3%ADola-dos-macacos)
+- [Qual o legado de Jô Soares para o humor brasileiro](https://www.nexojornal.com.br/expresso/2022/08/05/Qual-o-legado-de-J%C3%B4-Soares-para-o-humor-brasileiro)
+- [Humorista Jô Soares morre aos 84 anos em São Paulo](https://www.nexojornal.com.br/extra/2022/08/05/Humorista-J%C3%B4-Soares-morre-aos-84-anos-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
