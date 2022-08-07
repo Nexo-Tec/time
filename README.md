@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Taís Gasparian: “Temos hoje novas formas de censura”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tais-gasparian-temos-hoje-novas-formas-de-censura/)
 - [Malu Galli](https://gamarevista.uol.com.br/pessoas/questionario-proust/malu-galli/)
 - [Lançar Mundos no Mundo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lancar-mundos-no-mundo/)
 - [Quem desarmonizou a harmonia?](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/quem-desarmonizou-a-harmonia/)
 - [‘Lendo Caetano’ acontece sábado na Mário de Andrade](https://gamarevista.uol.com.br/achamos-que-vale/ir/lendo-caetano-acontece-sabado-na-mario-de-andrade/)
-- [Segunda temporada de ‘Bom Dia, Verônica’ na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segunda-temporada-de-bom-dia-veronica-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
