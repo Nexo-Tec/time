@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Teórico da conspiração Alex Jones é condenado nos EUA](https://www.nexojornal.com.br/extra/2022/08/06/Te%C3%B3rico-da-conspira%C3%A7%C3%A3o-Alex-Jones-%C3%A9-condenado-nos-EUA)
-- [Qual o potencial político de 11 de agosto e de 7 de setembro](https://www.nexojornal.com.br/expresso/2022/08/06/Qual-o-potencial-pol%C3%ADtico-de-11-de-agosto-e-de-7-de-setembro)
-- [‘Camisas Negras’: a equipe do Vasco que vai virar filme](https://www.nexojornal.com.br/expresso/2022/08/06/%E2%80%98Camisas-Negras%E2%80%99-a-equipe-do-Vasco-que-vai-virar-filme)
-- [5 livros para conhecer o que há de mais novo no conto brasileiro](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-para-conhecer-o-que-h%C3%A1-de-mais-novo-no-conto-brasileiro)
-- [Qual o status de Taiwan, pivô da crise dos EUA com a China](https://www.nexojornal.com.br/expresso/2022/08/06/Qual-o-status-de-Taiwan-piv%C3%B4-da-crise-dos-EUA-com-a-China)
+- [Quais os impactos do julgamento sobre a nova Lei de Improbidade](https://www.nexojornal.com.br/expresso/2022/08/07/Quais-os-impactos-do-julgamento-sobre-a-nova-Lei-de-Improbidade)
+- [Por que EUA, França e Rússia tentam reforçar alianças na África](https://www.nexojornal.com.br/expresso/2022/08/07/Por-que-EUA-Fran%C3%A7a-e-R%C3%BAssia-tentam-refor%C3%A7ar-alian%C3%A7as-na-%C3%81frica)
+- [O que está em jogo nas eleições de 2022: centro-direita](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-de-2022-centro-direita)
+- [Gustavo Petro e Francia Márquez tomam posse na Colômbia](https://www.nexojornal.com.br/extra/2022/08/07/Gustavo-Petro-e-Francia-M%C3%A1rquez-tomam-posse-na-Col%C3%B4mbia)
+- [ONU alerta para ‘desastre’ em usina nuclear ucraniana](https://www.nexojornal.com.br/extra/2022/08/07/ONU-alerta-para-%E2%80%98desastre%E2%80%99-em-usina-nuclear-ucraniana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
