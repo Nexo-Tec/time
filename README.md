@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os impactos do julgamento sobre a nova Lei de Improbidade](https://www.nexojornal.com.br/expresso/2022/08/07/Quais-os-impactos-do-julgamento-sobre-a-nova-Lei-de-Improbidade)
 - [Por que EUA, França e Rússia tentam reforçar alianças na África](https://www.nexojornal.com.br/expresso/2022/08/07/Por-que-EUA-Fran%C3%A7a-e-R%C3%BAssia-tentam-refor%C3%A7ar-alian%C3%A7as-na-%C3%81frica)
 - [O que está em jogo nas eleições de 2022: centro-direita](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-de-2022-centro-direita)
 - [Gustavo Petro e Francia Márquez tomam posse na Colômbia](https://www.nexojornal.com.br/extra/2022/08/07/Gustavo-Petro-e-Francia-M%C3%A1rquez-tomam-posse-na-Col%C3%B4mbia)
 - [ONU alerta para ‘desastre’ em usina nuclear ucraniana](https://www.nexojornal.com.br/extra/2022/08/07/ONU-alerta-para-%E2%80%98desastre%E2%80%99-em-usina-nuclear-ucraniana)
+- [Michelle Bolsonaro comanda culto em busca de voto feminino](https://www.nexojornal.com.br/extra/2022/08/07/Michelle-Bolsonaro-comanda-culto-em-busca-de-voto-feminino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
