@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O endividamento como política social na &#39;bola de neve&#39; do Auxílio](https://www.nexojornal.com.br/colunistas/2022/O-endividamento-como-pol%C3%ADtica-social-na-bola-de-neve-do-Aux%C3%ADlio)
-- [Donald Trump diz que agentes do FBI invadiram sua casa](https://www.nexojornal.com.br/extra/2022/08/08/Donald-Trump-diz-que-agentes-do-FBI-invadiram-sua-casa)
-- [Bolsonaro se encontra com banqueiros e volta a atacar manifesto](https://www.nexojornal.com.br/extra/2022/08/08/Bolsonaro-se-encontra-com-banqueiros-e-volta-a-atacar-manifesto)
-- [Um documentário totalmente gravado em realidade virtual](https://www.nexojornal.com.br/expresso/2022/08/08/Um-document%C3%A1rio-totalmente-gravado-em-realidade-virtual)
 - [Como os Estados Unidos lidam com o golpismo de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/08/08/Como-os-Estados-Unidos-lidam-com-o-golpismo-de-Bolsonaro)
+- [Atriz e cantora Olivia Newton-John morre aos 73 anos nos EUA](https://www.nexojornal.com.br/extra/2022/08/08/Atriz-e-cantora-Olivia-Newton-John-morre-aos-73-anos-nos-EUA)
+- [TSE nega a militares acesso a dados de eleições passadas](https://www.nexojornal.com.br/extra/2022/08/08/TSE-nega-a-militares-acesso-a-dados-de-elei%C3%A7%C3%B5es-passadas)
+- [Sambista paulista Dona Inah morre aos 87 anos](https://www.nexojornal.com.br/extra/2022/08/08/Sambista-paulista-Dona-Inah-morre-aos-87-anos)
+- [Pobreza bate recorde e atinge quase 20 milhões de brasileiros](https://www.nexojornal.com.br/extra/2022/08/08/Pobreza-bate-recorde-e-atinge-quase-20-milh%C3%B5es-de-brasileiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
