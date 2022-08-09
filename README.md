@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Michelle Bolsonaro agrega votos de mulheres evangélicas](https://www.nexojornal.com.br/expresso/2022/08/08/Como-Michelle-Bolsonaro-agrega-votos-de-mulheres-evang%C3%A9licas)
-- [O endividamento como política social na ‘bola de neve’ do auxílio](https://www.nexojornal.com.br/colunistas/2022/O-endividamento-como-pol%C3%ADtica-social-na-%E2%80%98bola-de-neve%E2%80%99-do-aux%C3%ADlio)
+- [O endividamento como política social na &#39;bola de neve&#39; do Auxílio](https://www.nexojornal.com.br/colunistas/2022/O-endividamento-como-pol%C3%ADtica-social-na-bola-de-neve-do-Aux%C3%ADlio)
 - [Donald Trump diz que agentes do FBI invadiram sua casa](https://www.nexojornal.com.br/extra/2022/08/08/Donald-Trump-diz-que-agentes-do-FBI-invadiram-sua-casa)
 - [Bolsonaro se encontra com banqueiros e volta a atacar manifesto](https://www.nexojornal.com.br/extra/2022/08/08/Bolsonaro-se-encontra-com-banqueiros-e-volta-a-atacar-manifesto)
 - [Um documentário totalmente gravado em realidade virtual](https://www.nexojornal.com.br/expresso/2022/08/08/Um-document%C3%A1rio-totalmente-gravado-em-realidade-virtual)
+- [Como os Estados Unidos lidam com o golpismo de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/08/08/Como-os-Estados-Unidos-lidam-com-o-golpismo-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
