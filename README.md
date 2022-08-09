@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cultura e Desenvolvimento # 6: Preto Zezé](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-6-preto-zeze/)
 - [@neilhimself](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/neilhimself/)
 - [Canudo Flexível](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/canudo-flexivel/)
 - [Taís Gasparian: “Temos hoje novas formas de censura”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tais-gasparian-temos-hoje-novas-formas-de-censura/)
 - [Malu Galli](https://gamarevista.uol.com.br/pessoas/questionario-proust/malu-galli/)
-- [Lançar Mundos no Mundo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lancar-mundos-no-mundo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
