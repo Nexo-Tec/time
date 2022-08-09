@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os impactos do julgamento sobre a nova Lei de Improbidade](https://www.nexojornal.com.br/expresso/2022/08/07/Quais-os-impactos-do-julgamento-sobre-a-nova-Lei-de-Improbidade)
-- [Por que EUA, França e Rússia tentam reforçar alianças na África](https://www.nexojornal.com.br/expresso/2022/08/07/Por-que-EUA-Fran%C3%A7a-e-R%C3%BAssia-tentam-refor%C3%A7ar-alian%C3%A7as-na-%C3%81frica)
-- [O que está em jogo nas eleições de 2022: centro-direita](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-de-2022-centro-direita)
-- [Gustavo Petro e Francia Márquez tomam posse na Colômbia](https://www.nexojornal.com.br/extra/2022/08/07/Gustavo-Petro-e-Francia-M%C3%A1rquez-tomam-posse-na-Col%C3%B4mbia)
-- [ONU alerta para ‘desastre’ em usina nuclear ucraniana](https://www.nexojornal.com.br/extra/2022/08/07/ONU-alerta-para-%E2%80%98desastre%E2%80%99-em-usina-nuclear-ucraniana)
+- [O endividamento como política social na &#39;bola de neve&#39; do Auxílio](https://www.nexojornal.com.br/colunistas/2022/O-endividamento-como-pol%C3%ADtica-social-na-bola-de-neve-do-Aux%C3%ADlio)
+- [Donald Trump diz que agentes do FBI invadiram sua casa](https://www.nexojornal.com.br/extra/2022/08/08/Donald-Trump-diz-que-agentes-do-FBI-invadiram-sua-casa)
+- [Bolsonaro se encontra com banqueiros e volta a atacar manifesto](https://www.nexojornal.com.br/extra/2022/08/08/Bolsonaro-se-encontra-com-banqueiros-e-volta-a-atacar-manifesto)
+- [Um documentário totalmente gravado em realidade virtual](https://www.nexojornal.com.br/expresso/2022/08/08/Um-document%C3%A1rio-totalmente-gravado-em-realidade-virtual)
+- [Como os Estados Unidos lidam com o golpismo de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/08/08/Como-os-Estados-Unidos-lidam-com-o-golpismo-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
