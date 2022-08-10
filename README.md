@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conheça o candidato do UP à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/09/Conhe%C3%A7a-o-candidato-do-UP-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Queixas de discriminação contra brasileiros sobem em Portugal](https://www.nexojornal.com.br/extra/2022/08/09/Queixas-de-discrimina%C3%A7%C3%A3o-contra-brasileiros-sobem-em-Portugal)
-- [O que há de sustentável no recuo dos preços no Brasil](https://www.nexojornal.com.br/expresso/2022/08/09/O-que-h%C3%A1-de-sustent%C3%A1vel-no-recuo-dos-pre%C3%A7os-no-Brasil)
-- [Michelle Bolsonaro compartilha vídeo que associa Lula a ‘trevas’](https://www.nexojornal.com.br/extra/2022/08/09/Michelle-Bolsonaro-compartilha-v%C3%ADdeo-que-associa-Lula-a-%E2%80%98trevas%E2%80%99)
-- [O que Petro quer mudar na política de drogas da Colômbia](https://www.nexojornal.com.br/expresso/2022/08/09/O-que-Petro-quer-mudar-na-pol%C3%ADtica-de-drogas-da-Col%C3%B4mbia)
+- [PF faz operação contra plano para libertar líderes do PCC](https://www.nexojornal.com.br/extra/2022/08/10/PF-faz-opera%C3%A7%C3%A3o-contra-plano-para-libertar-l%C3%ADderes-do-PCC)
+- [Bolsonaro sanciona LDO e mantém ‘orçamento secreto’](https://www.nexojornal.com.br/extra/2022/08/10/Bolsonaro-sanciona-LDO-e-mant%C3%A9m-%E2%80%98or%C3%A7amento-secreto%E2%80%99)
+- [Mulher é presa acusada de aplicar golpe milionário contra mãe](https://www.nexojornal.com.br/extra/2022/08/10/Mulher-%C3%A9-presa-acusada-de-aplicar-golpe-milion%C3%A1rio-contra-m%C3%A3e)
+- [O histórico de investigações contra Donald Trump](https://www.nexojornal.com.br/expresso/2022/08/10/O-hist%C3%B3rico-de-investiga%C3%A7%C3%B5es-contra-Donald-Trump)
+- [A torto e a direito: a resposta judicial e os políticos cercados](https://www.nexojornal.com.br/podcast/2022/08/10/A-torto-e-a-direito-a-resposta-judicial-e-os-pol%C3%ADticos-cercados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
