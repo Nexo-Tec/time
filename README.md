@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [YouTube deleta vídeo de encontro de Bolsonaro com embaixadores](https://www.nexojornal.com.br/extra/2022/08/10/YouTube-deleta-v%C3%ADdeo-de-encontro-de-Bolsonaro-com-embaixadores)
-- [Rosa Weber é eleita presidente do Supremo Tribunal Federal](https://www.nexojornal.com.br/extra/2022/08/10/Rosa-Weber-%C3%A9-eleita-presidente-do-Supremo-Tribunal-Federal)
-- [Trump se recusa a responder perguntas em depoimento](https://www.nexojornal.com.br/extra/2022/08/10/Trump-se-recusa-a-responder-perguntas-em-depoimento)
-- [A Faculdade de Direito da USP e a política nacional em 3 atos](https://www.nexojornal.com.br/expresso/2022/08/10/A-Faculdade-de-Direito-da-USP-e-a-pol%C3%ADtica-nacional-em-3-atos)
-- [Maioria do STF aprova aumento de 18% para ministros e servidores](https://www.nexojornal.com.br/extra/2022/08/10/Maioria-do-STF-aprova-aumento-de-18-para-ministros-e-servidores)
+- [Conheça o candidato do Novo à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/10/Conhe%C3%A7a-o-candidato-do-Novo-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [‘É preciso se levantar contra o movimento autocrático’](https://www.nexojornal.com.br/entrevista/2022/08/10/%E2%80%98%C3%89-preciso-se-levantar-contra-o-movimento-autocr%C3%A1tico%E2%80%99)
+- [7 pontos que guiam a discussão sobre o Orçamento em 2023](https://www.nexojornal.com.br/expresso/2022/08/10/7-pontos-que-guiam-a-discuss%C3%A3o-sobre-o-Or%C3%A7amento-em-2023)
+- [Ciclone causa chuvas, ventania e frio no sul e no sudeste do país](https://www.nexojornal.com.br/extra/2022/08/10/Ciclone-causa-chuvas-ventania-e-frio-no-sul-e-no-sudeste-do-pa%C3%ADs)
+- [Mais de 40 artistas leem carta pela democracia em vídeo](https://www.nexojornal.com.br/extra/2022/08/10/Mais-de-40-artistas-leem-carta-pela-democracia-em-v%C3%ADdeo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
