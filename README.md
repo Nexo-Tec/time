@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como comprar roupas que duram](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comprar-roupas-que-duram/)
 - [Cultura e Desenvolvimento com Alê Youssef #7 – Tobal Jr.](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-7-tobal-jr/)
 - [Um outro mapa para as Américas](https://gamarevista.uol.com.br/colunistas/marcello-dantas/um-outro-mapa-para-as-americas/)
 - [Cultura e Desenvolvimento com Alê Youssef # 6 – Preto Zezé](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-6-preto-zeze/)
 - [@neilhimself](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/neilhimself/)
-- [Canudo Flexível](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/canudo-flexivel/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
