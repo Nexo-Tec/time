@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Leitura de carta pró-democracia reúne diferentes setores em SP](https://www.nexojornal.com.br/extra/2022/08/11/Leitura-de-carta-pr%C3%B3-democracia-re%C3%BAne-diferentes-setores-em-SP)
-- [TSE manda apagar vídeos de Lula com falas contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/11/TSE-manda-apagar-v%C3%ADdeos-de-Lula-com-falas-contra-Bolsonaro)
-- [Conheça o candidato do Novo à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/10/Conhe%C3%A7a-o-candidato-do-Novo-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [‘É preciso se levantar contra o movimento autocrático’](https://www.nexojornal.com.br/entrevista/2022/08/10/%E2%80%98%C3%89-preciso-se-levantar-contra-o-movimento-autocr%C3%A1tico%E2%80%99)
-- [7 pontos que guiam a discussão sobre o Orçamento em 2023](https://www.nexojornal.com.br/expresso/2022/08/10/7-pontos-que-guiam-a-discuss%C3%A3o-sobre-o-Or%C3%A7amento-em-2023)
+- [Militares do governo receberam supersalários no auge da pandemia](https://www.nexojornal.com.br/extra/2022/08/11/Militares-do-governo-receberam-supersal%C3%A1rios-no-auge-da-pandemia)
+- [Justiça concede prisão domiciliar a assassino de petista](https://www.nexojornal.com.br/extra/2022/08/11/Justi%C3%A7a-concede-pris%C3%A3o-domiciliar-a-assassino-de-petista)
+- [Petrobras volta a reduzir preço do diesel para distribuidoras](https://www.nexojornal.com.br/extra/2022/08/11/Petrobras-volta-a-reduzir-pre%C3%A7o-do-diesel-para-distribuidoras)
+- [O que Serena Williams fez que nenhum outro tenista conseguiu](https://www.nexojornal.com.br/expresso/2022/08/11/O-que-Serena-Williams-fez-que-nenhum-outro-tenista-conseguiu)
+- [Boatos que podem repercutir nas eleições aos governos estaduais](https://www.nexojornal.com.br/expresso/2022/08/11/Boatos-que-podem-repercutir-nas-elei%C3%A7%C3%B5es-aos-governos-estaduais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
