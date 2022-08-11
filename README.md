@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como comprar roupas que duram](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comprar-roupas-que-duram/)
-- [Cultura e Desenvolvimento com Alê Youssef #7 – Tobal Jr.](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-7-tobal-jr/)
-- [Um outro mapa para as Américas](https://gamarevista.uol.com.br/colunistas/marcello-dantas/um-outro-mapa-para-as-americas/)
-- [Cultura e Desenvolvimento com Alê Youssef # 6 – Preto Zezé](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-6-preto-zeze/)
-- [@neilhimself](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/neilhimself/)
+- [Sobre a violência contra as mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/sobre-a-violencia-contra-as-mulheres/)
+- [Grupo Corpo dança ao som de Gil e Caetano](https://gamarevista.uol.com.br/achamos-que-vale/ir/grupo-corpo-danca-ao-som-de-gil-e-caetano/)
+- [Fotógrafo retrata chefs em sua essência](https://gamarevista.uol.com.br/achamos-que-vale/ler/fotografo-retrata-chefs-em-sua-essencia/)
+- [A volta dos Yeah Yeah Yeahs](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-volta-dos-yeah-yeah-yeahs/)
+- [Um curso de ativismo alimentar](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-de-ativismo-alimentar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
