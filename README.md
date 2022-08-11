@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A torto e a direito: a resposta judicial e os políticos cercados](https://www.nexojornal.com.br/podcast/2022/08/10/A-torto-e-a-direito-a-resposta-judicial-e-os-pol%C3%ADticos-cercados)
 - [Conheça o candidato do UP à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/09/Conhe%C3%A7a-o-candidato-do-UP-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 - [Queixas de discriminação contra brasileiros sobem em Portugal](https://www.nexojornal.com.br/extra/2022/08/09/Queixas-de-discrimina%C3%A7%C3%A3o-contra-brasileiros-sobem-em-Portugal)
 - [O que há de sustentável no recuo dos preços no Brasil](https://www.nexojornal.com.br/expresso/2022/08/09/O-que-h%C3%A1-de-sustent%C3%A1vel-no-recuo-dos-pre%C3%A7os-no-Brasil)
 - [Michelle Bolsonaro compartilha vídeo que associa Lula a ‘trevas’](https://www.nexojornal.com.br/extra/2022/08/09/Michelle-Bolsonaro-compartilha-v%C3%ADdeo-que-associa-Lula-a-%E2%80%98trevas%E2%80%99)
-- [O que Petro quer mudar na política de drogas da Colômbia](https://www.nexojornal.com.br/expresso/2022/08/09/O-que-Petro-quer-mudar-na-pol%C3%ADtica-de-drogas-da-Col%C3%B4mbia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
