@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Paulo Artaxo: o Brasil e as mudanças climáticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/08/11/Paulo-Artaxo-o-Brasil-e-as-mudan%C3%A7as-clim%C3%A1ticas)
+- [Mudanças climáticas](https://pp.nexojornal.com.br/glossario/Mudan%C3%A7as-clim%C3%A1ticas4)
+- [As mudanças climáticas e suas implicações para o Brasil](https://pp.nexojornal.com.br/opiniao/2022/As-mudan%C3%A7as-clim%C3%A1ticas-e-suas-implica%C3%A7%C3%B5es-para-o-Brasil)
 - [O desmonte da Amazônia: o impacto de escolhas políticas no desmatamento](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-desmonte-da-Amaz%C3%B4nia-o-impacto-de-escolhas-pol%C3%ADticas-no-desmatamento)
 - [Um legado de 12 mil anos: saberes críticos das populações indígenas amazônicas para o bem viver](https://pp.nexojornal.com.br/ponto-de-vista/2022/Um-legado-de-12-mil-anos-saberes-cr%C3%ADticos-das-popula%C3%A7%C3%B5es-ind%C3%ADgenas-amaz%C3%B4nicas-para-o-bem-viver)
-- [A necessidade de creches para as crianças brasileiras](https://pp.nexojornal.com.br/Dados/2022/08/05/A-necessidade-de-creches-para-as-crian%C3%A7as-brasileiras)
-- [Luiz Paulo Assad: mares e oceanos como fontes de energias renováveis](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/08/05/Luiz-Paulo-Assad-mares-e-oceanos-como-fontes-de-energias-renov%C3%A1veis)
-- [Trajetória de inclusão na UFMG: da aposta nos cursos noturnos às cotas na pós-graduação](https://pp.nexojornal.com.br/linha-do-tempo/2022/Trajet%C3%B3ria-de-inclus%C3%A3o-na-UFMG-da-aposta-nos-cursos-noturnos-%C3%A0s-cotas-na-p%C3%B3s-gradua%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
