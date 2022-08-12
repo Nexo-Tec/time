@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Militares do governo receberam supersalários no auge da pandemia](https://www.nexojornal.com.br/extra/2022/08/11/Militares-do-governo-receberam-supersal%C3%A1rios-no-auge-da-pandemia)
-- [Justiça concede prisão domiciliar a assassino de petista](https://www.nexojornal.com.br/extra/2022/08/11/Justi%C3%A7a-concede-pris%C3%A3o-domiciliar-a-assassino-de-petista)
-- [Petrobras volta a reduzir preço do diesel para distribuidoras](https://www.nexojornal.com.br/extra/2022/08/11/Petrobras-volta-a-reduzir-pre%C3%A7o-do-diesel-para-distribuidoras)
-- [O que Serena Williams fez que nenhum outro tenista conseguiu](https://www.nexojornal.com.br/expresso/2022/08/11/O-que-Serena-Williams-fez-que-nenhum-outro-tenista-conseguiu)
-- [Boatos que podem repercutir nas eleições aos governos estaduais](https://www.nexojornal.com.br/expresso/2022/08/11/Boatos-que-podem-repercutir-nas-elei%C3%A7%C3%B5es-aos-governos-estaduais)
+- [Os robôs que podem cuidar das suas tarefas domésticas](https://www.nexojornal.com.br/expresso/2022/08/12/Os-rob%C3%B4s-que-podem-cuidar-das-suas-tarefas-dom%C3%A9sticas)
+- [Alerta de desmate na Amazônia acumula mais de 8.000 km²](https://www.nexojornal.com.br/extra/2022/08/12/Alerta-de-desmate-na-Amaz%C3%B4nia-acumula-mais-de-8.000-km%C2%B2)
+- [Mendonça suspende julgamento de recursos contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/12/Mendon%C3%A7a-suspende-julgamento-de-recursos-contra-Bolsonaro)
+- [Qual o efeito do ato pró-democracia no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/11/Qual-o-efeito-do-ato-pr%C3%B3-democracia-no-golpismo-de-Bolsonaro)
+- [Conheça a candidata do PSTU à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/11/Conhe%C3%A7a-a-candidata-do-PSTU-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
