@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Demarcando telas: políticas indígenas no cinema brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2022/Demarcando-telas-pol%C3%ADticas-ind%C3%ADgenas-no-cinema-brasileiro)
 - [Paulo Artaxo: o Brasil e as mudanças climáticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/08/11/Paulo-Artaxo-o-Brasil-e-as-mudan%C3%A7as-clim%C3%A1ticas)
 - [Mudanças climáticas](https://pp.nexojornal.com.br/glossario/Mudan%C3%A7as-clim%C3%A1ticas4)
 - [As mudanças climáticas e suas implicações para o Brasil](https://pp.nexojornal.com.br/opiniao/2022/As-mudan%C3%A7as-clim%C3%A1ticas-e-suas-implica%C3%A7%C3%B5es-para-o-Brasil)
 - [O desmonte da Amazônia: o impacto de escolhas políticas no desmatamento](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-desmonte-da-Amaz%C3%B4nia-o-impacto-de-escolhas-pol%C3%ADticas-no-desmatamento)
-- [Um legado de 12 mil anos: saberes críticos das populações indígenas amazônicas para o bem viver](https://pp.nexojornal.com.br/ponto-de-vista/2022/Um-legado-de-12-mil-anos-saberes-cr%C3%ADticos-das-popula%C3%A7%C3%B5es-ind%C3%ADgenas-amaz%C3%B4nicas-para-o-bem-viver)
 <!-- PP_LIST:END -->
 
