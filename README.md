@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Leitura de carta pró-democracia reúne diferentes setores em SP](https://www.nexojornal.com.br/extra/2022/08/11/Leitura-de-carta-pr%C3%B3-democracia-re%C3%BAne-diferentes-setores-em-SP)
-- [TSE manda apagar vídeos de Lula com falas contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/11/TSE-manda-apagar-v%C3%ADdeos-de-Lula-com-falas-contra-Bolsonaro)
 - [Conheça o candidato do Novo à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/10/Conhe%C3%A7a-o-candidato-do-Novo-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 - [‘É preciso se levantar contra o movimento autocrático’](https://www.nexojornal.com.br/entrevista/2022/08/10/%E2%80%98%C3%89-preciso-se-levantar-contra-o-movimento-autocr%C3%A1tico%E2%80%99)
 - [7 pontos que guiam a discussão sobre o Orçamento em 2023](https://www.nexojornal.com.br/expresso/2022/08/10/7-pontos-que-guiam-a-discuss%C3%A3o-sobre-o-Or%C3%A7amento-em-2023)
+- [Ciclone causa chuvas, ventania e frio no sul e no sudeste do país](https://www.nexojornal.com.br/extra/2022/08/10/Ciclone-causa-chuvas-ventania-e-frio-no-sul-e-no-sudeste-do-pa%C3%ADs)
+- [Mais de 40 artistas leem carta pela democracia em vídeo](https://www.nexojornal.com.br/extra/2022/08/10/Mais-de-40-artistas-leem-carta-pela-democracia-em-v%C3%ADdeo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
