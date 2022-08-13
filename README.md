@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os robôs que podem cuidar das suas tarefas domésticas](https://www.nexojornal.com.br/expresso/2022/08/12/Os-rob%C3%B4s-que-podem-cuidar-das-suas-tarefas-dom%C3%A9sticas)
-- [Alerta de desmate na Amazônia acumula mais de 8.000 km²](https://www.nexojornal.com.br/extra/2022/08/12/Alerta-de-desmate-na-Amaz%C3%B4nia-acumula-mais-de-8.000-km%C2%B2)
-- [Mendonça suspende julgamento de recursos contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/12/Mendon%C3%A7a-suspende-julgamento-de-recursos-contra-Bolsonaro)
-- [Qual o efeito do ato pró-democracia no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/11/Qual-o-efeito-do-ato-pr%C3%B3-democracia-no-golpismo-de-Bolsonaro)
-- [Conheça a candidata do PSTU à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/11/Conhe%C3%A7a-a-candidata-do-PSTU-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Justiça revoga prisão domiciliar de assassino de petista](https://www.nexojornal.com.br/extra/2022/08/13/Justi%C3%A7a-revoga-pris%C3%A3o-domiciliar-de-assassino-de-petista)
+- [Por que falar de futuro olhando para o ano de 2030](https://www.nexojornal.com.br/expresso/2022/08/13/Por-que-falar-de-futuro-olhando-para-o-ano-de-2030)
+- [Gigante de Magalhães: um novo telescópio com apoio do Brasil](https://www.nexojornal.com.br/expresso/2022/08/13/Gigante-de-Magalh%C3%A3es-um-novo-telesc%C3%B3pio-com-apoio-do-Brasil)
+- [Como os cortes de orçamento de pesquisa científica afetam você](https://www.nexojornal.com.br/expresso/2022/08/13/Como-os-cortes-de-or%C3%A7amento-de-pesquisa-cient%C3%ADfica-afetam-voc%C3%AA)
+- [Quais as formas de atuar no setor público. E como aprimorá-las](https://www.nexojornal.com.br/expresso/2022/08/13/Quais-as-formas-de-atuar-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-las)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
