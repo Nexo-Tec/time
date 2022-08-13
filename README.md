@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [João Camarero](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-camarero/)
 - [Uma cerveja pela paz](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/uma-cerveja-pela-paz/)
 - [Jota Mombaça: “O Brasil é uma ficção de poder”](https://gamarevista.uol.com.br/formato/conversas/jota-mombaca-o-brasil-e-uma-ficcao-de-poder/)
 - [Noite no Paraíso](https://gamarevista.uol.com.br/cultura/trecho-de-livro/noite-no-paraiso/)
 - [Sobre a violência contra as mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/sobre-a-violencia-contra-as-mulheres/)
-- [Grupo Corpo dança ao som de Gil e Caetano](https://gamarevista.uol.com.br/achamos-que-vale/ir/grupo-corpo-danca-ao-som-de-gil-e-caetano/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
