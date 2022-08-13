@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os robôs que podem cuidar das suas tarefas domésticas](https://www.nexojornal.com.br/expresso/2022/08/12/Os-rob%C3%B4s-que-podem-cuidar-das-suas-tarefas-dom%C3%A9sticas)
-- [Alerta de desmate na Amazônia acumula mais de 8.000 km²](https://www.nexojornal.com.br/extra/2022/08/12/Alerta-de-desmate-na-Amaz%C3%B4nia-acumula-mais-de-8.000-km%C2%B2)
 - [Mendonça suspende julgamento de recursos contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/12/Mendon%C3%A7a-suspende-julgamento-de-recursos-contra-Bolsonaro)
 - [Qual o efeito do ato pró-democracia no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/11/Qual-o-efeito-do-ato-pr%C3%B3-democracia-no-golpismo-de-Bolsonaro)
 - [Conheça a candidata do PSTU à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/11/Conhe%C3%A7a-a-candidata-do-PSTU-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [O que há do Brasil de Sarney na Argentina de Fernández](https://www.nexojornal.com.br/expresso/2022/08/11/O-que-h%C3%A1-do-Brasil-de-Sarney-na-Argentina-de-Fern%C3%A1ndez)
+- [Anvisa analisa 6 pedidos para diagnóstico da varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/11/Anvisa-analisa-6-pedidos-para-diagn%C3%B3stico-da-var%C3%ADola-dos-macacos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
