@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Salman Rushdie: a trajetória de um escritor ameaçado](https://www.nexojornal.com.br/expresso/2022/08/12/Salman-Rushdie-a-trajet%C3%B3ria-de-um-escritor-amea%C3%A7ado)
-- [Conheça a candidata do PCB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/12/Conhe%C3%A7a-a-candidata-do-PCB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Empresas brasileiras são processadas por vender seguidores](https://www.nexojornal.com.br/extra/2022/08/12/Empresas-brasileiras-s%C3%A3o-processadas-por-vender-seguidores)
-- [Por que o alívio na inflação foi menor para os mais pobres](https://www.nexojornal.com.br/expresso/2022/08/12/Por-que-o-al%C3%ADvio-na-infla%C3%A7%C3%A3o-foi-menor-para-os-mais-pobres)
-- [Câmara dos EUA aprova projeto climático bilionário](https://www.nexojornal.com.br/extra/2022/08/12/C%C3%A2mara-dos-EUA-aprova-projeto-clim%C3%A1tico-bilion%C3%A1rio)
+- [Os robôs que podem cuidar das suas tarefas domésticas](https://www.nexojornal.com.br/expresso/2022/08/12/Os-rob%C3%B4s-que-podem-cuidar-das-suas-tarefas-dom%C3%A9sticas)
+- [Alerta de desmate na Amazônia acumula mais de 8.000 km²](https://www.nexojornal.com.br/extra/2022/08/12/Alerta-de-desmate-na-Amaz%C3%B4nia-acumula-mais-de-8.000-km%C2%B2)
+- [Mendonça suspende julgamento de recursos contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/12/Mendon%C3%A7a-suspende-julgamento-de-recursos-contra-Bolsonaro)
+- [Qual o efeito do ato pró-democracia no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/11/Qual-o-efeito-do-ato-pr%C3%B3-democracia-no-golpismo-de-Bolsonaro)
+- [Conheça a candidata do PSTU à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/11/Conhe%C3%A7a-a-candidata-do-PSTU-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
