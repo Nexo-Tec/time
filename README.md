@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Salman Rushdie: a trajetória de um escritor ameaçado](https://www.nexojornal.com.br/expresso/2022/08/12/Salman-Rushdie-a-trajet%C3%B3ria-de-um-escritor-amea%C3%A7ado)
-- [Conheça a candidata do PCB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/12/Conhe%C3%A7a-a-candidata-do-PCB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Empresas brasileiras são processadas por vender seguidores](https://www.nexojornal.com.br/extra/2022/08/12/Empresas-brasileiras-s%C3%A3o-processadas-por-vender-seguidores)
-- [Por que o alívio na inflação foi menor para os mais pobres](https://www.nexojornal.com.br/expresso/2022/08/12/Por-que-o-al%C3%ADvio-na-infla%C3%A7%C3%A3o-foi-menor-para-os-mais-pobres)
-- [Câmara dos EUA aprova projeto climático bilionário](https://www.nexojornal.com.br/extra/2022/08/12/C%C3%A2mara-dos-EUA-aprova-projeto-clim%C3%A1tico-bilion%C3%A1rio)
+- [Justiça revoga prisão domiciliar de assassino de petista](https://www.nexojornal.com.br/extra/2022/08/13/Justi%C3%A7a-revoga-pris%C3%A3o-domiciliar-de-assassino-de-petista)
+- [Por que falar de futuro olhando para o ano de 2030](https://www.nexojornal.com.br/expresso/2022/08/13/Por-que-falar-de-futuro-olhando-para-o-ano-de-2030)
+- [Gigante de Magalhães: um novo telescópio com apoio do Brasil](https://www.nexojornal.com.br/expresso/2022/08/13/Gigante-de-Magalh%C3%A3es-um-novo-telesc%C3%B3pio-com-apoio-do-Brasil)
+- [Como os cortes de orçamento de pesquisa científica afetam você](https://www.nexojornal.com.br/expresso/2022/08/13/Como-os-cortes-de-or%C3%A7amento-de-pesquisa-cient%C3%ADfica-afetam-voc%C3%AA)
+- [Quais as formas de atuar no setor público. E como aprimorá-las](https://www.nexojornal.com.br/expresso/2022/08/13/Quais-as-formas-de-atuar-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-las)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
