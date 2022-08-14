@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça revoga prisão domiciliar de assassino de petista](https://www.nexojornal.com.br/extra/2022/08/13/Justi%C3%A7a-revoga-pris%C3%A3o-domiciliar-de-assassino-de-petista)
-- [Por que falar de futuro olhando para o ano de 2030](https://www.nexojornal.com.br/expresso/2022/08/13/Por-que-falar-de-futuro-olhando-para-o-ano-de-2030)
-- [Gigante de Magalhães: um novo telescópio com apoio do Brasil](https://www.nexojornal.com.br/expresso/2022/08/13/Gigante-de-Magalh%C3%A3es-um-novo-telesc%C3%B3pio-com-apoio-do-Brasil)
-- [Como os cortes de orçamento de pesquisa científica afetam você](https://www.nexojornal.com.br/expresso/2022/08/13/Como-os-cortes-de-or%C3%A7amento-de-pesquisa-cient%C3%ADfica-afetam-voc%C3%AA)
-- [Quais as formas de atuar no setor público. E como aprimorá-las](https://www.nexojornal.com.br/expresso/2022/08/13/Quais-as-formas-de-atuar-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-las)
+- [A inteligência artificial que cria imagens a partir de descrições](https://www.nexojornal.com.br/expresso/2022/08/14/A-intelig%C3%AAncia-artificial-que-cria-imagens-a-partir-de-descri%C3%A7%C3%B5es)
+- [5 livros que podem ser lidos como diários pessoais](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-podem-ser-lidos-como-di%C3%A1rios-pessoais)
+- [Os prejuízos que a falta de diagnósticos causam à educação](https://www.nexojornal.com.br/ensaio/2022/Os-preju%C3%ADzos-que-a-falta-de-diagn%C3%B3sticos-causam-%C3%A0-educa%C3%A7%C3%A3o)
+- [Conheça a candidata do União Brasil à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/14/Conhe%C3%A7a-a-candidata-do-Uni%C3%A3o-Brasil-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Pais não podem tirar licença-paternidade em 67 nações](https://www.nexojornal.com.br/grafico/2022/08/14/Pais-n%C3%A3o-podem-tirar-licen%C3%A7a-paternidade-em-67-na%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
