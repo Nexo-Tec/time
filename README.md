@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob calor extremo, Europa tem recorde de território queimado](https://www.nexojornal.com.br/extra/2022/08/14/Sob-calor-extremo-Europa-tem-recorde-de-territ%C3%B3rio-queimado)
-- [Bia Haddad é vice em Toronto e sobe para 16ª no ranking mundial](https://www.nexojornal.com.br/extra/2022/08/14/Bia-Haddad-%C3%A9-vice-em-Toronto-e-sobe-para-16%C2%AA-no-ranking-mundial)
-- [Soldados russos em usina serão ‘alvo especial’ da Ucrânia](https://www.nexojornal.com.br/extra/2022/08/14/Soldados-russos-em-usina-ser%C3%A3o-%E2%80%98alvo-especial%E2%80%99-da-Ucr%C3%A2nia)
-- [Violência na Amazônia preocupa 81% dos eleitores, diz pesquisa](https://www.nexojornal.com.br/extra/2022/08/14/Viol%C3%AAncia-na-Amaz%C3%B4nia-preocupa-81-dos-eleitores-diz-pesquisa)
-- [Incêndio em igreja deixa mais de 40 mortos no Egito](https://www.nexojornal.com.br/extra/2022/08/14/Inc%C3%AAndio-em-igreja-deixa-mais-de-40-mortos-no-Egito)
+- [A inteligência artificial que cria imagens a partir de descrições](https://www.nexojornal.com.br/expresso/2022/08/14/A-intelig%C3%AAncia-artificial-que-cria-imagens-a-partir-de-descri%C3%A7%C3%B5es)
+- [5 livros que podem ser lidos como diários pessoais](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-podem-ser-lidos-como-di%C3%A1rios-pessoais)
+- [Os prejuízos que a falta de diagnósticos causam à educação](https://www.nexojornal.com.br/ensaio/2022/Os-preju%C3%ADzos-que-a-falta-de-diagn%C3%B3sticos-causam-%C3%A0-educa%C3%A7%C3%A3o)
+- [Conheça a candidata do União Brasil à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/14/Conhe%C3%A7a-a-candidata-do-Uni%C3%A3o-Brasil-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Pais não podem tirar licença-paternidade em 67 nações](https://www.nexojornal.com.br/grafico/2022/08/14/Pais-n%C3%A3o-podem-tirar-licen%C3%A7a-paternidade-em-67-na%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
