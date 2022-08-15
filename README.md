@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@romanawaiapi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/romanawaiapi/)
 - [Betty Milan: ‘Se nos autoconhecemos, podemos reinventar a existência’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/betty-milan-se-a-gente-se-autoconhece-a-gente-pode-reinventar-a-existencia/)
 - [João Camarero](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-camarero/)
 - [Uma cerveja pela paz](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/uma-cerveja-pela-paz/)
 - [Jota Mombaça: “O Brasil é uma ficção de poder”](https://gamarevista.uol.com.br/formato/conversas/jota-mombaca-o-brasil-e-uma-ficcao-de-poder/)
-- [Noite no Paraíso](https://gamarevista.uol.com.br/cultura/trecho-de-livro/noite-no-paraiso/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
