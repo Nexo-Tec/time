@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Hospital A.C. Camargo vai parar de atender pacientes do SUS](https://www.nexojornal.com.br/extra/2022/08/15/Hospital-A.C.-Camargo-vai-parar-de-atender-pacientes-do-SUS)
+- [O que está em jogo nas eleições 2022: as disputas nos estados](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-as-disputas-nos-estados)
+- [Conheça a candidata do MDB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/15/Conhe%C3%A7a-a-candidata-do-MDB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Da brecha à contenção: um trio contra os ataques à urna eletrônica](https://www.nexojornal.com.br/expresso/2022/08/15/Da-brecha-%C3%A0-conten%C3%A7%C3%A3o-um-trio-contra-os-ataques-%C3%A0-urna-eletr%C3%B4nica)
 - [Sob calor extremo, Europa tem recorde de território queimado](https://www.nexojornal.com.br/extra/2022/08/14/Sob-calor-extremo-Europa-tem-recorde-de-territ%C3%B3rio-queimado)
-- [Bia Haddad é vice em Toronto e sobe para 16ª no ranking mundial](https://www.nexojornal.com.br/extra/2022/08/14/Bia-Haddad-%C3%A9-vice-em-Toronto-e-sobe-para-16%C2%AA-no-ranking-mundial)
-- [Soldados russos em usina serão ‘alvo especial’ da Ucrânia](https://www.nexojornal.com.br/extra/2022/08/14/Soldados-russos-em-usina-ser%C3%A3o-%E2%80%98alvo-especial%E2%80%99-da-Ucr%C3%A2nia)
-- [Violência na Amazônia preocupa 81% dos eleitores, diz pesquisa](https://www.nexojornal.com.br/extra/2022/08/14/Viol%C3%AAncia-na-Amaz%C3%B4nia-preocupa-81-dos-eleitores-diz-pesquisa)
-- [Incêndio em igreja deixa mais de 40 mortos no Egito](https://www.nexojornal.com.br/extra/2022/08/14/Inc%C3%AAndio-em-igreja-deixa-mais-de-40-mortos-no-Egito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
