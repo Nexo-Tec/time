@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O fim das coisas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-fim-das-coisas/)
 - [Cultura e Desenvolvimento com Alê Youssef #8 – KondZilla](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-8-kondzilla/)
 - [Nova Camisa da Seleção Brasileira](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/nova-camisa-da-selecao-brasileira/)
 - [@romanawaiapi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/romanawaiapi/)
 - [Betty Milan: ‘Se nos autoconhecemos, podemos reinventar a existência’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/betty-milan-se-a-gente-se-autoconhece-a-gente-pode-reinventar-a-existencia/)
-- [João Camarero](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-camarero/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
