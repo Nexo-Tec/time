@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que caracteriza o começo da campanha eleitoral de 2022](https://www.nexojornal.com.br/expresso/2022/08/16/O-que-caracteriza-o-come%C3%A7o-da-campanha-eleitoral-de-2022)
-- [Como falar com crianças sobre política nesta eleição](https://www.nexojornal.com.br/expresso/2022/08/15/Como-falar-com-crian%C3%A7as-sobre-pol%C3%ADtica-nesta-elei%C3%A7%C3%A3o)
-- [A invenção do 7 de Setembro às margens do Ipiranga](https://www.nexojornal.com.br/colunistas/2022/A-inven%C3%A7%C3%A3o-do-7-de-Setembro-%C3%A0s-margens-do-Ipiranga)
-- [O perfil dos 11 candidatos à Presidência em 2022](https://www.nexojornal.com.br/grafico/2022/08/15/O-perfil-dos-11-candidatos-%C3%A0-Presid%C3%AAncia-em-20221)
-- [Ipec: Lula tem 44% das intenções de voto. Bolsonaro, 32%](https://www.nexojornal.com.br/extra/2022/08/15/Ipec-Lula-tem-44-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-32)
+- [Moraes exalta sistema eleitoral e democracia em posse no TSE](https://www.nexojornal.com.br/extra/2022/08/16/Moraes-exalta-sistema-eleitoral-e-democracia-em-posse-no-TSE)
+- [Eleição 2022 tem mais diversidade. Isso vira representatividade?](https://www.nexojornal.com.br/podcast/2022/08/16/Elei%C3%A7%C3%A3o-2022-tem-mais-diversidade.-Isso-vira-representatividade)
+- [Justiça nega acordo a casal que tentou vender segredos ao Brasil](https://www.nexojornal.com.br/extra/2022/08/16/Justi%C3%A7a-nega-acordo-a-casal-que-tentou-vender-segredos-ao-Brasil)
+- [Cientistas podem ter encontrado planeta mais jovem da galáxia](https://www.nexojornal.com.br/extra/2022/08/16/Cientistas-podem-ter-encontrado-planeta-mais-jovem-da-gal%C3%A1xia)
+- [China anuncia medidas para aumentar taxa de natalidade](https://www.nexojornal.com.br/extra/2022/08/16/China-anuncia-medidas-para-aumentar-taxa-de-natalidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
