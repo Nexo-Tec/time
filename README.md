@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes exalta sistema eleitoral e democracia em posse no TSE](https://www.nexojornal.com.br/extra/2022/08/16/Moraes-exalta-sistema-eleitoral-e-democracia-em-posse-no-TSE)
-- [Eleição 2022 tem mais diversidade. Isso vira representatividade?](https://www.nexojornal.com.br/podcast/2022/08/16/Elei%C3%A7%C3%A3o-2022-tem-mais-diversidade.-Isso-vira-representatividade)
-- [Justiça nega acordo a casal que tentou vender segredos ao Brasil](https://www.nexojornal.com.br/extra/2022/08/16/Justi%C3%A7a-nega-acordo-a-casal-que-tentou-vender-segredos-ao-Brasil)
-- [Cientistas podem ter encontrado planeta mais jovem da galáxia](https://www.nexojornal.com.br/extra/2022/08/16/Cientistas-podem-ter-encontrado-planeta-mais-jovem-da-gal%C3%A1xia)
-- [China anuncia medidas para aumentar taxa de natalidade](https://www.nexojornal.com.br/extra/2022/08/16/China-anuncia-medidas-para-aumentar-taxa-de-natalidade)
+- [Morre Major Curió, que liderou repressão à Guerrilha do Araguaia](https://www.nexojornal.com.br/extra/2022/08/17/Morre-Major-Curi%C3%B3-que-liderou-repress%C3%A3o-%C3%A0-Guerrilha-do-Araguaia)
+- [Conheça o candidato do PTB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PTB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Saudita é condenada a 34 anos de prisão por usar o Twitter](https://www.nexojornal.com.br/extra/2022/08/17/Saudita-%C3%A9-condenada-a-34-anos-de-pris%C3%A3o-por-usar-o-Twitter)
+- [Conheça a candidata do MDB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-a-candidata-do-MDB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Desmatamento na Amazônia é o maior em 15 anos, diz Imazon](https://www.nexojornal.com.br/extra/2022/08/17/Desmatamento-na-Amaz%C3%B4nia-%C3%A9-o-maior-em-15-anos-diz-Imazon)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
