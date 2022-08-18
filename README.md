@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um festival de cultura, história e gastronomia em MG](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-festival-de-cultura-historia-e-gastronomia-em-mg/)
 - [Cultura e Desenvolvimento com Alê Youssef #9 – Djamila Ribeiro](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-9-djamila-ribeiro/)
 - [Dez lançamentos para retomar o prazer da leitura](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-lancamentos-para-retomar-o-prazer-da-leitura/)
 - [O fim das coisas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-fim-das-coisas/)
 - [Cultura e Desenvolvimento com Alê Youssef #8 – KondZilla](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-8-kondzilla/)
-- [Nova Camisa da Seleção Brasileira](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/nova-camisa-da-selecao-brasileira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
