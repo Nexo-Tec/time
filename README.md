@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Major Curió, que liderou repressão à Guerrilha do Araguaia](https://www.nexojornal.com.br/extra/2022/08/17/Morre-Major-Curi%C3%B3-que-liderou-repress%C3%A3o-%C3%A0-Guerrilha-do-Araguaia)
-- [Conheça o candidato do PTB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PTB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Saudita é condenada a 34 anos de prisão por usar o Twitter](https://www.nexojornal.com.br/extra/2022/08/17/Saudita-%C3%A9-condenada-a-34-anos-de-pris%C3%A3o-por-usar-o-Twitter)
-- [Conheça a candidata do MDB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-a-candidata-do-MDB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Desmatamento na Amazônia é o maior em 15 anos, diz Imazon](https://www.nexojornal.com.br/extra/2022/08/17/Desmatamento-na-Amaz%C3%B4nia-%C3%A9-o-maior-em-15-anos-diz-Imazon)
+- [O que a arqueologia da Amazônia nos conta sobre o presente](https://www.nexojornal.com.br/expresso/2022/08/17/O-que-a-arqueologia-da-Amaz%C3%B4nia-nos-conta-sobre-o-presente)
+- [Conheça o candidato do PDT à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PDT-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [PF vê indícios de crime de Bolsonaro em live sobre vacina e aids](https://www.nexojornal.com.br/extra/2022/08/17/PF-v%C3%AA-ind%C3%ADcios-de-crime-de-Bolsonaro-em-live-sobre-vacina-e-aids)
+- [5 dados que mostram que a economia da China está em crise](https://www.nexojornal.com.br/expresso/2022/08/17/5-dados-que-mostram-que-a-economia-da-China-est%C3%A1-em-crise)
+- [Como trabalhadores de aplicativo entram no debate eleitoral](https://www.nexojornal.com.br/expresso/2022/08/17/Como-trabalhadores-de-aplicativo-entram-no-debate-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
