@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reino Unido: inflação de 10,1% em julho é a maior desde 1982](https://www.nexojornal.com.br/extra/2022/08/17/Reino-Unido-infla%C3%A7%C3%A3o-de-101-em-julho-%C3%A9-a-maior-desde-1982)
-- [O que a estreia dos candidatos na rua projeta para a eleição](https://www.nexojornal.com.br/expresso/2022/08/17/O-que-a-estreia-dos-candidatos-na-rua-projeta-para-a-elei%C3%A7%C3%A3o)
-- [Da euforia à fome: os caminhos de uma derrocada econômica](https://www.nexojornal.com.br/podcast/2022/08/17/Da-euforia-%C3%A0-fome-os-caminhos-de-uma-derrocada-econ%C3%B4mica)
-- [7 pontos comparados dos planos de governo de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/16/7-pontos-comparados-dos-planos-de-governo-de-Lula-e-Bolsonaro)
-- [O que há de útil e de inútil em calcular a sua pegada de carbono](https://www.nexojornal.com.br/expresso/2022/08/16/O-que-h%C3%A1-de-%C3%BAtil-e-de-in%C3%BAtil-em-calcular-a-sua-pegada-de-carbono)
+- [O que a arqueologia da Amazônia nos conta sobre o presente](https://www.nexojornal.com.br/expresso/2022/08/17/O-que-a-arqueologia-da-Amaz%C3%B4nia-nos-conta-sobre-o-presente)
+- [Conheça o candidato do PDT à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PDT-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [PF vê indícios de crime de Bolsonaro em live sobre vacina e aids](https://www.nexojornal.com.br/extra/2022/08/17/PF-v%C3%AA-ind%C3%ADcios-de-crime-de-Bolsonaro-em-live-sobre-vacina-e-aids)
+- [5 dados que mostram que a economia da China está em crise](https://www.nexojornal.com.br/expresso/2022/08/17/5-dados-que-mostram-que-a-economia-da-China-est%C3%A1-em-crise)
+- [Como trabalhadores de aplicativo entram no debate eleitoral](https://www.nexojornal.com.br/expresso/2022/08/17/Como-trabalhadores-de-aplicativo-entram-no-debate-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
