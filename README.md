@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Demarcando telas: políticas indígenas no cinema brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2022/Demarcando-telas-pol%C3%ADticas-ind%C3%ADgenas-no-cinema-brasileiro)
-- [Paulo Artaxo: o Brasil e as mudanças climáticas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/08/11/Paulo-Artaxo-o-Brasil-e-as-mudan%C3%A7as-clim%C3%A1ticas)
-- [Mudanças climáticas](https://pp.nexojornal.com.br/glossario/Mudan%C3%A7as-clim%C3%A1ticas4)
-- [As mudanças climáticas e suas implicações para o Brasil](https://pp.nexojornal.com.br/opiniao/2022/As-mudan%C3%A7as-clim%C3%A1ticas-e-suas-implica%C3%A7%C3%B5es-para-o-Brasil)
-- [O desmonte da Amazônia: o impacto de escolhas políticas no desmatamento](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-desmonte-da-Amaz%C3%B4nia-o-impacto-de-escolhas-pol%C3%ADticas-no-desmatamento)
+- [Desigualdades raciais, escola e a pesquisa quantitativa](https://pp.nexojornal.com.br/bibliografia-basica/2022/08/17/Desigualdades-raciais-escola-e-a-pesquisa-quantitativa)
+- [A crueldade da atual Pnab e do orçamento secreto para a saúde da população negra](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crueldade-da-atual-Pnab-e-do-or%C3%A7amento-secreto-para-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra)
+- [A explosão da fome](https://pp.nexojornal.com.br/opiniao/2022/A-explos%C3%A3o-da-fome)
+- [Veículos pesados movidos a gás natural são uma alternativa?](https://pp.nexojornal.com.br/opiniao/2022/Ve%C3%ADculos-pesados-movidos-a-g%C3%A1s-natural-s%C3%A3o-uma-alternativa)
+- [As pesquisas eleitorais erram mais em favor da esquerda?](https://pp.nexojornal.com.br/opiniao/2022/As-pesquisas-eleitorais-erram-mais-em-favor-da-esquerda)
 <!-- PP_LIST:END -->
 
