@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Série prequel de ‘Game of Thrones’ estreia na HBO](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-prequel-de-game-of-thrones-estreia-na-hbo/)
+- [Ingressos para o Coala Festival à venda](https://gamarevista.uol.com.br/achamos-que-vale/ir/ingressos-para-o-coala-festival-a-venda/)
+- [A curiosa cozinha das fábulas](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-curiosa-cozinha-das-fabulas/)
+- [Um curso que propõe uma reflexão sobre masculinidades](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-que-propoe-uma-reflexao-sobre-masculinidades/)
 - [Um festival de cultura, história e gastronomia em MG](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-festival-de-cultura-historia-e-gastronomia-em-mg/)
-- [Cultura e Desenvolvimento com Alê Youssef #9 – Djamila Ribeiro](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-9-djamila-ribeiro/)
-- [Dez lançamentos para retomar o prazer da leitura](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-lancamentos-para-retomar-o-prazer-da-leitura/)
-- [O fim das coisas](https://gamarevista.uol.com.br/colunistas/leandro-sarmatz/o-fim-das-coisas/)
-- [Cultura e Desenvolvimento com Alê Youssef #8 – KondZilla](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-8-kondzilla/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
