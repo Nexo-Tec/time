@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a estreia dos candidatos na rua projeta para a eleição](https://www.nexojornal.com.br/expresso/2022/08/17/O-que-a-estreia-dos-candidatos-na-rua-projeta-para-a-elei%C3%A7%C3%A3o)
-- [Da euforia à fome: os caminhos de uma derrocada econômica](https://www.nexojornal.com.br/podcast/2022/08/17/Da-euforia-%C3%A0-fome-os-caminhos-de-uma-derrocada-econ%C3%B4mica)
-- [7 pontos comparados dos planos de governo de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/08/16/7-pontos-comparados-dos-planos-de-governo-de-Lula-e-Bolsonaro)
-- [O que há de útil e de inútil em calcular a sua pegada de carbono](https://www.nexojornal.com.br/expresso/2022/08/16/O-que-h%C3%A1-de-%C3%BAtil-e-de-in%C3%BAtil-em-calcular-a-sua-pegada-de-carbono)
-- [Moraes exalta sistema eleitoral e democracia em posse no TSE](https://www.nexojornal.com.br/extra/2022/08/16/Moraes-exalta-sistema-eleitoral-e-democracia-em-posse-no-TSE)
+- [Morre Major Curió, que liderou repressão à Guerrilha do Araguaia](https://www.nexojornal.com.br/extra/2022/08/17/Morre-Major-Curi%C3%B3-que-liderou-repress%C3%A3o-%C3%A0-Guerrilha-do-Araguaia)
+- [Conheça o candidato do PTB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PTB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Saudita é condenada a 34 anos de prisão por usar o Twitter](https://www.nexojornal.com.br/extra/2022/08/17/Saudita-%C3%A9-condenada-a-34-anos-de-pris%C3%A3o-por-usar-o-Twitter)
+- [Conheça a candidata do MDB à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-a-candidata-do-MDB-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [Desmatamento na Amazônia é o maior em 15 anos, diz Imazon](https://www.nexojornal.com.br/extra/2022/08/17/Desmatamento-na-Amaz%C3%B4nia-%C3%A9-o-maior-em-15-anos-diz-Imazon)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
