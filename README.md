@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que une as mulheres](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-que-une-as-mulheres/)
 - [Fotografia: mostras, cursos, conteúdos](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/fotografia-mostras-cursos-conteudos/)
 - [Quando as Espécies se Encontram](https://gamarevista.uol.com.br/cultura/trecho-de-livro/quando-as-especies-se-encontram/)
 - [Série prequel de ‘Game of Thrones’ estreia na HBO](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-prequel-de-game-of-thrones-estreia-na-hbo/)
 - [Ingressos para o Coala Festival à venda](https://gamarevista.uol.com.br/achamos-que-vale/ir/ingressos-para-o-coala-festival-a-venda/)
-- [A curiosa cozinha das fábulas](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-curiosa-cozinha-das-fabulas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
