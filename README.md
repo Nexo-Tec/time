@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara do Rio cassa mandato do vereador Gabriel Monteiro](https://www.nexojornal.com.br/extra/2022/08/19/C%C3%A2mara-do-Rio-cassa-mandato-do-vereador-Gabriel-Monteiro)
-- [Conheça o candidato do PT à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/18/Conhe%C3%A7a-o-candidato-do-PT-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Igor Dantas: ‘Novas tecnologias estarão dentro do nosso corpo’](https://www.nexojornal.com.br/entrevista/2022/08/18/Igor-Dantas-%E2%80%98Novas-tecnologias-estar%C3%A3o-dentro-do-nosso-corpo%E2%80%99)
-- [Religião e voto: qual o peso da crença nas eleições 2022](https://www.nexojornal.com.br/expresso/2022/08/18/Religi%C3%A3o-e-voto-qual-o-peso-da-cren%C3%A7a-nas-elei%C3%A7%C3%B5es-2022)
-- [‘Meninos, eu vi...!’ Como funcionam as urnas eletrônicas](https://www.nexojornal.com.br/colunistas/2022/%E2%80%98Meninos-eu-vi...%E2%80%99-Como-funcionam-as-urnas-eletr%C3%B4nicas)
+- [6 dos 11 candidatos já disputaram uma eleição presidencial](https://www.nexojornal.com.br/grafico/2022/08/18/6-dos-11-candidatos-j%C3%A1-disputaram-uma-elei%C3%A7%C3%A3o-presidencial)
+- [TSE determina exclusão de fake news de Damares contra Lula](https://www.nexojornal.com.br/extra/2022/08/18/TSE-determina-exclus%C3%A3o-de-fake-news-de-Damares-contra-Lula)
+- [Prazo para eleitor pedir voto em trânsito termina hoje](https://www.nexojornal.com.br/extra/2022/08/18/Prazo-para-eleitor-pedir-voto-em-tr%C3%A2nsito-termina-hoje)
+- [O que a arqueologia da Amazônia nos conta sobre o presente](https://www.nexojornal.com.br/expresso/2022/08/17/O-que-a-arqueologia-da-Amaz%C3%B4nia-nos-conta-sobre-o-presente)
+- [Conheça o candidato do PDT à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/17/Conhe%C3%A7a-o-candidato-do-PDT-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
