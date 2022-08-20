@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conheça o candidato do PL à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/19/Conhe%C3%A7a-o-candidato-do-PL-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [As fontes históricas da nova série de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2022/08/19/As-fontes-hist%C3%B3ricas-da-nova-s%C3%A9rie-de-%E2%80%98Game-of-Thrones%E2%80%99)
-- [A dimensão do inverno nuclear que EUA e Rússia podem causar](https://www.nexojornal.com.br/expresso/2022/08/19/A-dimens%C3%A3o-do-inverno-nuclear-que-EUA-e-R%C3%BAssia-podem-causar)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/08/19/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Por que analistas falam em ‘fim’ das redes sociais](https://www.nexojornal.com.br/expresso/2022/08/19/Por-que-analistas-falam-em-%E2%80%98fim%E2%80%99-das-redes-sociais)
+- [Anvisa libera registro de vacinas para varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/19/Anvisa-libera-registro-de-vacinas-para-var%C3%ADola-dos-macacos)
+- [TSE suspende acesso de Roberto Jefferson ao fundo partidário](https://www.nexojornal.com.br/extra/2022/08/19/TSE-suspende-acesso-de-Roberto-Jefferson-ao-fundo-partid%C3%A1rio)
+- [Supremo torna Eduardo Cunha inelegível novamente](https://www.nexojornal.com.br/extra/2022/08/19/Supremo-torna-Eduardo-Cunha-ineleg%C3%ADvel-novamente)
+- [Por que a violência do regime saudita não abala seu prestígio](https://www.nexojornal.com.br/expresso/2022/08/19/Por-que-a-viol%C3%AAncia-do-regime-saudita-n%C3%A3o-abala-seu-prest%C3%ADgio)
+- [Frente fria no Sul e no Sudeste provoca temperatura negativa](https://www.nexojornal.com.br/extra/2022/08/19/Frente-fria-no-Sul-e-no-Sudeste-provoca-temperatura-negativa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
