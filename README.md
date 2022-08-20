@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara do Rio cassa mandato do vereador Gabriel Monteiro](https://www.nexojornal.com.br/extra/2022/08/19/C%C3%A2mara-do-Rio-cassa-mandato-do-vereador-Gabriel-Monteiro)
-- [Conheça o candidato do PT à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/18/Conhe%C3%A7a-o-candidato-do-PT-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [Igor Dantas: ‘Novas tecnologias estarão dentro do nosso corpo’](https://www.nexojornal.com.br/entrevista/2022/08/18/Igor-Dantas-%E2%80%98Novas-tecnologias-estar%C3%A3o-dentro-do-nosso-corpo%E2%80%99)
-- [Religião e voto: qual o peso da crença nas eleições 2022](https://www.nexojornal.com.br/expresso/2022/08/18/Religi%C3%A3o-e-voto-qual-o-peso-da-cren%C3%A7a-nas-elei%C3%A7%C3%B5es-2022)
-- [‘Meninos, eu vi...!’ Como funcionam as urnas eletrônicas](https://www.nexojornal.com.br/colunistas/2022/%E2%80%98Meninos-eu-vi...%E2%80%99-Como-funcionam-as-urnas-eletr%C3%B4nicas)
+- [Conheça o candidato do PL à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/19/Conhe%C3%A7a-o-candidato-do-PL-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
+- [As fontes históricas da nova série de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2022/08/19/As-fontes-hist%C3%B3ricas-da-nova-s%C3%A9rie-de-%E2%80%98Game-of-Thrones%E2%80%99)
+- [A dimensão do inverno nuclear que EUA e Rússia podem causar](https://www.nexojornal.com.br/expresso/2022/08/19/A-dimens%C3%A3o-do-inverno-nuclear-que-EUA-e-R%C3%BAssia-podem-causar)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/08/19/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Por que analistas falam em ‘fim’ das redes sociais](https://www.nexojornal.com.br/expresso/2022/08/19/Por-que-analistas-falam-em-%E2%80%98fim%E2%80%99-das-redes-sociais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
