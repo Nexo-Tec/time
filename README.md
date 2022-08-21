@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Luto no humor: atriz Claudia Jimenez morre aos 63 anos](https://www.nexojornal.com.br/extra/2022/08/20/Luto-no-humor-atriz-Claudia-Jimenez-morre-aos-63-anos)
 - [Conheça o candidato do PL à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/19/Conhe%C3%A7a-o-candidato-do-PL-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
 - [As fontes históricas da nova série de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2022/08/19/As-fontes-hist%C3%B3ricas-da-nova-s%C3%A9rie-de-%E2%80%98Game-of-Thrones%E2%80%99)
 - [A dimensão do inverno nuclear que EUA e Rússia podem causar](https://www.nexojornal.com.br/expresso/2022/08/19/A-dimens%C3%A3o-do-inverno-nuclear-que-EUA-e-R%C3%BAssia-podem-causar)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/08/19/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Por que analistas falam em ‘fim’ das redes sociais](https://www.nexojornal.com.br/expresso/2022/08/19/Por-que-analistas-falam-em-%E2%80%98fim%E2%80%99-das-redes-sociais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
