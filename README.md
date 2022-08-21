@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conheça o candidato do PL à Presidência da República](https://www.nexojornal.com.br/expresso/2022/08/19/Conhe%C3%A7a-o-candidato-do-PL-%C3%A0-Presid%C3%AAncia-da-Rep%C3%BAblica)
-- [As fontes históricas da nova série de ‘Game of Thrones’](https://www.nexojornal.com.br/expresso/2022/08/19/As-fontes-hist%C3%B3ricas-da-nova-s%C3%A9rie-de-%E2%80%98Game-of-Thrones%E2%80%99)
-- [A dimensão do inverno nuclear que EUA e Rússia podem causar](https://www.nexojornal.com.br/expresso/2022/08/19/A-dimens%C3%A3o-do-inverno-nuclear-que-EUA-e-R%C3%BAssia-podem-causar)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/08/19/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Por que analistas falam em ‘fim’ das redes sociais](https://www.nexojornal.com.br/expresso/2022/08/19/Por-que-analistas-falam-em-%E2%80%98fim%E2%80%99-das-redes-sociais)
+- [A falta de representatividade do novo tribunal federal](https://www.nexojornal.com.br/expresso/2022/08/20/A-falta-de-representatividade-do-novo-tribunal-federal)
+- [As liberdades e desigualdades de expressão](https://www.nexojornal.com.br/ensaio/2022/As-liberdades-e-desigualdades-de-express%C3%A3o)
+- [Dois acidentes em rodovias na Turquia matam ao menos 32](https://www.nexojornal.com.br/extra/2022/08/20/Dois-acidentes-em-rodovias-na-Turquia-matam-ao-menos-32)
+- [O que é ‘memecracia’. E como ela afeta o debate político](https://www.nexojornal.com.br/entrevista/2022/08/20/O-que-%C3%A9-%E2%80%98memecracia%E2%80%99.-E-como-ela-afeta-o-debate-pol%C3%ADtico)
+- [Por que Putin vai premiar mulheres com mais de dez filhos](https://www.nexojornal.com.br/expresso/2022/08/20/Por-que-Putin-vai-premiar-mulheres-com-mais-de-dez-filhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
