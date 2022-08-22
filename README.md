@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morador de rua morre em madrugada gelada em São Paulo](https://www.nexojornal.com.br/extra/2022/08/21/Morador-de-rua-morre-em-madrugada-gelada-em-S%C3%A3o-Paulo)
-- [Filha de aliado de Putin morre em explosão em Moscou](https://www.nexojornal.com.br/extra/2022/08/21/Filha-de-aliado-de-Putin-morre-em-explos%C3%A3o-em-Moscou)
-- [A falta de representatividade do novo tribunal federal](https://www.nexojornal.com.br/expresso/2022/08/20/A-falta-de-representatividade-do-novo-tribunal-federal)
-- [As liberdades e desigualdades de expressão](https://www.nexojornal.com.br/ensaio/2022/As-liberdades-e-desigualdades-de-express%C3%A3o)
-- [Dois acidentes em rodovias na Turquia matam ao menos 32](https://www.nexojornal.com.br/extra/2022/08/20/Dois-acidentes-em-rodovias-na-Turquia-matam-ao-menos-32)
+- [As surpresas dos mapas antigos](https://www.nexojornal.com.br/externo/2022/08/21/As-surpresas-dos-mapas-antigos)
+- [Quem define os mais altos salários do setor público](https://www.nexojornal.com.br/expresso/2022/08/21/Quem-define-os-mais-altos-sal%C3%A1rios-do-setor-p%C3%BAblico)
+- [O que está em jogo nas eleições 2022: o Poder Judiciário](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-o-Poder-Judici%C3%A1rio)
+- [‘Os procuradores-gerais estão unidos em defesa das eleições’](https://www.nexojornal.com.br/entrevista/2022/08/21/%E2%80%98Os-procuradores-gerais-est%C3%A3o-unidos-em-defesa-das-elei%C3%A7%C3%B5es%E2%80%99)
+- [‘Noites alienígenas’ vence melhor filme no Festival de Gramado](https://www.nexojornal.com.br/extra/2022/08/21/%E2%80%98Noites-alien%C3%ADgenas%E2%80%99-vence-melhor-filme-no-Festival-de-Gramado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
