@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sou todo coração](https://gamarevista.uol.com.br/colunistas/fernando-luna/sou-todo-coracao/)
 - [Gilson Schwartz, da Games for Change: O poder educativo dos jogos](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gilson-schwartz-da-games-for-change-o-poder-educativo-dos-jogos/)
 - [Laila Garin](https://gamarevista.uol.com.br/pessoas/questionario-proust/laila-garin/)
 - [O que une as mulheres](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/o-que-une-as-mulheres/)
 - [Fotografia: mostras, cursos, conteúdos](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/fotografia-mostras-cursos-conteudos/)
-- [Quando as Espécies se Encontram](https://gamarevista.uol.com.br/cultura/trecho-de-livro/quando-as-especies-se-encontram/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
