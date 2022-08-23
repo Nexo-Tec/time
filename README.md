@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As surpresas dos mapas antigos](https://www.nexojornal.com.br/externo/2022/08/21/As-surpresas-dos-mapas-antigos)
-- [Quem define os mais altos salários do setor público](https://www.nexojornal.com.br/expresso/2022/08/21/Quem-define-os-mais-altos-sal%C3%A1rios-do-setor-p%C3%BAblico)
-- [O que está em jogo nas eleições 2022: o Poder Judiciário](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-o-Poder-Judici%C3%A1rio)
-- [‘Os procuradores-gerais estão unidos em defesa das eleições’](https://www.nexojornal.com.br/entrevista/2022/08/21/%E2%80%98Os-procuradores-gerais-est%C3%A3o-unidos-em-defesa-das-elei%C3%A7%C3%B5es%E2%80%99)
-- [‘Noites alienígenas’ vence melhor filme no Festival de Gramado](https://www.nexojornal.com.br/extra/2022/08/21/%E2%80%98Noites-alien%C3%ADgenas%E2%80%99-vence-melhor-filme-no-Festival-de-Gramado)
+- [Procuradoria pede 12 anos de prisão para Cristina Kirchner](https://www.nexojornal.com.br/extra/2022/08/22/Procuradoria-pede-12-anos-de-pris%C3%A3o-para-Cristina-Kirchner)
+- [O perfil de cor e gênero das candidaturas em 2022](https://www.nexojornal.com.br/grafico/2022/08/22/O-perfil-de-cor-e-g%C3%AAnero-das-candidaturas-em-2022)
+- [Administração do Brasil por Bolsonaro em 7 áreas centrais](https://www.nexojornal.com.br/especial/2022/08/22/Administra%C3%A7%C3%A3o-do-Brasil-por-Bolsonaro-em-7-%C3%A1reas-centrais1)
+- [Do coração de Dom Pedro aos atos de 7 de Setembro](https://www.nexojornal.com.br/expresso/2022/08/22/Do-cora%C3%A7%C3%A3o-de-Dom-Pedro-aos-atos-de-7-de-Setembro)
+- [Bolsonaro diz que vai respeitar eleição, desde que seja ‘limpa’](https://www.nexojornal.com.br/extra/2022/08/22/Bolsonaro-diz-que-vai-respeitar-elei%C3%A7%C3%A3o-desde-que-seja-%E2%80%98limpa%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
