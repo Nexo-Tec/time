@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ministério da Saúde lança campanha contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/22/Minist%C3%A9rio-da-Sa%C3%BAde-lan%C3%A7a-campanha-contra-var%C3%ADola-dos-macacos)
+- [Criança de 8 anos morre após cair em buraco em Minas Gerais](https://www.nexojornal.com.br/extra/2022/08/22/Crian%C3%A7a-de-8-anos-morre-ap%C3%B3s-cair-em-buraco-em-Minas-Gerais)
+- [Candidato a deputado faz vídeo enganoso sobre pesquisas](https://www.nexojornal.com.br/expresso/2022/08/22/Candidato-a-deputado-faz-v%C3%ADdeo-enganoso-sobre-pesquisas)
+- [Daniel Silveira usa redes sociais da esposa para atacar Moraes](https://www.nexojornal.com.br/extra/2022/08/22/Daniel-Silveira-usa-redes-sociais-da-esposa-para-atacar-Moraes)
 - [Coração de Dom Pedro 1º chega ao Brasil recebido por ministros](https://www.nexojornal.com.br/extra/2022/08/22/Cora%C3%A7%C3%A3o-de-Dom-Pedro-1%C2%BA-chega-ao-Brasil-recebido-por-ministros)
-- [Corpo de jovem que morreu após abordagem policial é sepultado](https://www.nexojornal.com.br/extra/2022/08/22/Corpo-de-jovem-que-morreu-ap%C3%B3s-abordagem-policial-%C3%A9-sepultado)
-- [As surpresas dos mapas antigos](https://www.nexojornal.com.br/externo/2022/08/21/As-surpresas-dos-mapas-antigos)
-- [Quem define os mais altos salários do setor público](https://www.nexojornal.com.br/expresso/2022/08/21/Quem-define-os-mais-altos-sal%C3%A1rios-do-setor-p%C3%BAblico)
-- [O que está em jogo nas eleições 2022: o Poder Judiciário](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-o-Poder-Judici%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
