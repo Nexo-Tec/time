@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministério da Saúde lança campanha contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/22/Minist%C3%A9rio-da-Sa%C3%BAde-lan%C3%A7a-campanha-contra-var%C3%ADola-dos-macacos)
-- [Criança de 8 anos morre após cair em buraco em Minas Gerais](https://www.nexojornal.com.br/extra/2022/08/22/Crian%C3%A7a-de-8-anos-morre-ap%C3%B3s-cair-em-buraco-em-Minas-Gerais)
-- [Candidato a deputado faz vídeo enganoso sobre pesquisas](https://www.nexojornal.com.br/expresso/2022/08/22/Candidato-a-deputado-faz-v%C3%ADdeo-enganoso-sobre-pesquisas)
-- [Daniel Silveira usa redes sociais da esposa para atacar Moraes](https://www.nexojornal.com.br/extra/2022/08/22/Daniel-Silveira-usa-redes-sociais-da-esposa-para-atacar-Moraes)
-- [Coração de Dom Pedro 1º chega ao Brasil recebido por ministros](https://www.nexojornal.com.br/extra/2022/08/22/Cora%C3%A7%C3%A3o-de-Dom-Pedro-1%C2%BA-chega-ao-Brasil-recebido-por-ministros)
+- [Facebook é multado em R$ 6,6 milhões no Brasil](https://www.nexojornal.com.br/extra/2022/08/23/Facebook-%C3%A9-multado-em-R-66-milh%C3%B5es-no-Brasil)
+- [Youtuber que provocou Bolsonaro entra para o MBL](https://www.nexojornal.com.br/extra/2022/08/23/Youtuber-que-provocou-Bolsonaro-entra-para-o-MBL)
+- [Europa vive pior seca em pelo menos 500 anos, diz relatório](https://www.nexojornal.com.br/extra/2022/08/23/Europa-vive-pior-seca-em-pelo-menos-500-anos-diz-relat%C3%B3rio)
+- [FBI recuperou mais de 300 documentos na casa de Trump](https://www.nexojornal.com.br/extra/2022/08/23/FBI-recuperou-mais-de-300-documentos-na-casa-de-Trump)
+- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
