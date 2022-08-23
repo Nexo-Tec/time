@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Coração de Dom Pedro 1º chega ao Brasil recebido por ministros](https://www.nexojornal.com.br/extra/2022/08/22/Cora%C3%A7%C3%A3o-de-Dom-Pedro-1%C2%BA-chega-ao-Brasil-recebido-por-ministros)
-- [Corpo de jovem que morreu após abordagem policial é sepultado](https://www.nexojornal.com.br/extra/2022/08/22/Corpo-de-jovem-que-morreu-ap%C3%B3s-abordagem-policial-%C3%A9-sepultado)
 - [As surpresas dos mapas antigos](https://www.nexojornal.com.br/externo/2022/08/21/As-surpresas-dos-mapas-antigos)
 - [Quem define os mais altos salários do setor público](https://www.nexojornal.com.br/expresso/2022/08/21/Quem-define-os-mais-altos-sal%C3%A1rios-do-setor-p%C3%BAblico)
 - [O que está em jogo nas eleições 2022: o Poder Judiciário](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-o-Poder-Judici%C3%A1rio)
+- [‘Os procuradores-gerais estão unidos em defesa das eleições’](https://www.nexojornal.com.br/entrevista/2022/08/21/%E2%80%98Os-procuradores-gerais-est%C3%A3o-unidos-em-defesa-das-elei%C3%A7%C3%B5es%E2%80%99)
+- [‘Noites alienígenas’ vence melhor filme no Festival de Gramado](https://www.nexojornal.com.br/extra/2022/08/21/%E2%80%98Noites-alien%C3%ADgenas%E2%80%99-vence-melhor-filme-no-Festival-de-Gramado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
