@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
-- [Procuradoria pede 12 anos de prisão para Cristina Kirchner](https://www.nexojornal.com.br/extra/2022/08/22/Procuradoria-pede-12-anos-de-pris%C3%A3o-para-Cristina-Kirchner)
-- [O perfil de cor e gênero das candidaturas em 2022](https://www.nexojornal.com.br/grafico/2022/08/22/O-perfil-de-cor-e-g%C3%AAnero-das-candidaturas-em-2022)
-- [Administração do Brasil por Bolsonaro em 7 áreas centrais](https://www.nexojornal.com.br/especial/2022/08/22/Administra%C3%A7%C3%A3o-do-Brasil-por-Bolsonaro-em-7-%C3%A1reas-centrais1)
-- [Do coração de Dom Pedro aos atos de 7 de Setembro](https://www.nexojornal.com.br/expresso/2022/08/22/Do-cora%C3%A7%C3%A3o-de-Dom-Pedro-aos-atos-de-7-de-Setembro)
+- [Coração de Dom Pedro 1º chega ao Brasil recebido por ministros](https://www.nexojornal.com.br/extra/2022/08/22/Cora%C3%A7%C3%A3o-de-Dom-Pedro-1%C2%BA-chega-ao-Brasil-recebido-por-ministros)
+- [Corpo de jovem que morreu após abordagem policial é sepultado](https://www.nexojornal.com.br/extra/2022/08/22/Corpo-de-jovem-que-morreu-ap%C3%B3s-abordagem-policial-%C3%A9-sepultado)
+- [As surpresas dos mapas antigos](https://www.nexojornal.com.br/externo/2022/08/21/As-surpresas-dos-mapas-antigos)
+- [Quem define os mais altos salários do setor público](https://www.nexojornal.com.br/expresso/2022/08/21/Quem-define-os-mais-altos-sal%C3%A1rios-do-setor-p%C3%BAblico)
+- [O que está em jogo nas eleições 2022: o Poder Judiciário](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-o-Poder-Judici%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
