@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministério da Saúde lança campanha contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/22/Minist%C3%A9rio-da-Sa%C3%BAde-lan%C3%A7a-campanha-contra-var%C3%ADola-dos-macacos)
-- [Criança de 8 anos morre após cair em buraco em Minas Gerais](https://www.nexojornal.com.br/extra/2022/08/22/Crian%C3%A7a-de-8-anos-morre-ap%C3%B3s-cair-em-buraco-em-Minas-Gerais)
-- [Candidato a deputado faz vídeo enganoso sobre pesquisas](https://www.nexojornal.com.br/expresso/2022/08/22/Candidato-a-deputado-faz-v%C3%ADdeo-enganoso-sobre-pesquisas)
-- [Daniel Silveira usa redes sociais da esposa para atacar Moraes](https://www.nexojornal.com.br/extra/2022/08/22/Daniel-Silveira-usa-redes-sociais-da-esposa-para-atacar-Moraes)
-- [Coração de Dom Pedro 1º chega ao Brasil recebido por ministros](https://www.nexojornal.com.br/extra/2022/08/22/Cora%C3%A7%C3%A3o-de-Dom-Pedro-1%C2%BA-chega-ao-Brasil-recebido-por-ministros)
+- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
+- [Procuradoria pede 12 anos de prisão para Cristina Kirchner](https://www.nexojornal.com.br/extra/2022/08/22/Procuradoria-pede-12-anos-de-pris%C3%A3o-para-Cristina-Kirchner)
+- [O perfil de cor e gênero das candidaturas em 2022](https://www.nexojornal.com.br/grafico/2022/08/22/O-perfil-de-cor-e-g%C3%AAnero-das-candidaturas-em-2022)
+- [Administração do Brasil por Bolsonaro em 7 áreas centrais](https://www.nexojornal.com.br/especial/2022/08/22/Administra%C3%A7%C3%A3o-do-Brasil-por-Bolsonaro-em-7-%C3%A1reas-centrais1)
+- [Do coração de Dom Pedro aos atos de 7 de Setembro](https://www.nexojornal.com.br/expresso/2022/08/22/Do-cora%C3%A7%C3%A3o-de-Dom-Pedro-aos-atos-de-7-de-Setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
