@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras vira maior empresa pagadora de dividendos do mundo](https://www.nexojornal.com.br/extra/2022/08/24/Petrobras-vira-maior-empresa-pagadora-de-dividendos-do-mundo)
-- [TSE manda CUT remover vídeo contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/24/TSE-manda-CUT-remover-v%C3%ADdeo-contra-Bolsonaro)
-- [Músico é preso por engano pela segunda vez em Niterói](https://www.nexojornal.com.br/extra/2022/08/24/M%C3%BAsico-%C3%A9-preso-por-engano-pela-segunda-vez-em-Niter%C3%B3i)
-- [Recessão democrática mundial: a crise da crise](https://www.nexojornal.com.br/ensaio/2022/Recess%C3%A3o-democr%C3%A1tica-mundial-a-crise-da-crise)
-- [Preços recuam 0,73% na prévia da inflação de agosto](https://www.nexojornal.com.br/extra/2022/08/24/Pre%C3%A7os-recuam-073-na-pr%C3%A9via-da-infla%C3%A7%C3%A3o-de-agosto)
+- [Rupturas: a roleta política e as fronteiras da democracia](https://www.nexojornal.com.br/podcast/2022/08/24/Rupturas-a-roleta-pol%C3%ADtica-e-as-fronteiras-da-democracia)
+- [Ciro Gomes defende usar plebiscitos para governar](https://www.nexojornal.com.br/extra/2022/08/23/Ciro-Gomes-defende-usar-plebiscitos-para-governar)
+- [O elo do empresários que falaram em golpe com o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/08/23/O-elo-do-empres%C3%A1rios-que-falaram-em-golpe-com-o-bolsonarismo)
+- [Zelensky diz que guerra só acaba com reconquista da Crimeia](https://www.nexojornal.com.br/extra/2022/08/23/Zelensky-diz-que-guerra-s%C3%B3-acaba-com-reconquista-da-Crimeia)
+- [‘Criminalização da pobreza é a maior ameaça à infância’](https://www.nexojornal.com.br/entrevista/2022/08/23/%E2%80%98Criminaliza%C3%A7%C3%A3o-da-pobreza-%C3%A9-a-maior-amea%C3%A7a-%C3%A0-inf%C3%A2ncia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
