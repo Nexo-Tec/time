@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procuradoria pede 12 anos de prisão para Cristina Kirchner](https://www.nexojornal.com.br/extra/2022/08/22/Procuradoria-pede-12-anos-de-pris%C3%A3o-para-Cristina-Kirchner)
-- [O perfil de cor e gênero das candidaturas em 2022](https://www.nexojornal.com.br/grafico/2022/08/22/O-perfil-de-cor-e-g%C3%AAnero-das-candidaturas-em-2022)
-- [Administração do Brasil por Bolsonaro em 7 áreas centrais](https://www.nexojornal.com.br/especial/2022/08/22/Administra%C3%A7%C3%A3o-do-Brasil-por-Bolsonaro-em-7-%C3%A1reas-centrais1)
-- [Do coração de Dom Pedro aos atos de 7 de Setembro](https://www.nexojornal.com.br/expresso/2022/08/22/Do-cora%C3%A7%C3%A3o-de-Dom-Pedro-aos-atos-de-7-de-Setembro)
-- [Bolsonaro diz que vai respeitar eleição, desde que seja ‘limpa’](https://www.nexojornal.com.br/extra/2022/08/22/Bolsonaro-diz-que-vai-respeitar-elei%C3%A7%C3%A3o-desde-que-seja-%E2%80%98limpa%E2%80%99)
+- [Facebook é multado em R$ 6,6 milhões no Brasil](https://www.nexojornal.com.br/extra/2022/08/23/Facebook-%C3%A9-multado-em-R-66-milh%C3%B5es-no-Brasil)
+- [Youtuber que provocou Bolsonaro entra para o MBL](https://www.nexojornal.com.br/extra/2022/08/23/Youtuber-que-provocou-Bolsonaro-entra-para-o-MBL)
+- [Europa vive pior seca em pelo menos 500 anos, diz relatório](https://www.nexojornal.com.br/extra/2022/08/23/Europa-vive-pior-seca-em-pelo-menos-500-anos-diz-relat%C3%B3rio)
+- [FBI recuperou mais de 300 documentos na casa de Trump](https://www.nexojornal.com.br/extra/2022/08/23/FBI-recuperou-mais-de-300-documentos-na-casa-de-Trump)
+- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
