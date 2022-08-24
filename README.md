@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Facebook é multado em R$ 6,6 milhões no Brasil](https://www.nexojornal.com.br/extra/2022/08/23/Facebook-%C3%A9-multado-em-R-66-milh%C3%B5es-no-Brasil)
-- [Youtuber que provocou Bolsonaro entra para o MBL](https://www.nexojornal.com.br/extra/2022/08/23/Youtuber-que-provocou-Bolsonaro-entra-para-o-MBL)
-- [Europa vive pior seca em pelo menos 500 anos, diz relatório](https://www.nexojornal.com.br/extra/2022/08/23/Europa-vive-pior-seca-em-pelo-menos-500-anos-diz-relat%C3%B3rio)
-- [FBI recuperou mais de 300 documentos na casa de Trump](https://www.nexojornal.com.br/extra/2022/08/23/FBI-recuperou-mais-de-300-documentos-na-casa-de-Trump)
-- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
+- [Petrobras vira maior empresa pagadora de dividendos do mundo](https://www.nexojornal.com.br/extra/2022/08/24/Petrobras-vira-maior-empresa-pagadora-de-dividendos-do-mundo)
+- [TSE manda CUT remover vídeo contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/24/TSE-manda-CUT-remover-v%C3%ADdeo-contra-Bolsonaro)
+- [Músico é preso por engano pela segunda vez em Niterói](https://www.nexojornal.com.br/extra/2022/08/24/M%C3%BAsico-%C3%A9-preso-por-engano-pela-segunda-vez-em-Niter%C3%B3i)
+- [Recessão democrática mundial: a crise da crise](https://www.nexojornal.com.br/ensaio/2022/Recess%C3%A3o-democr%C3%A1tica-mundial-a-crise-da-crise)
+- [Preços recuam 0,73% na prévia da inflação de agosto](https://www.nexojornal.com.br/extra/2022/08/24/Pre%C3%A7os-recuam-073-na-pr%C3%A9via-da-infla%C3%A7%C3%A3o-de-agosto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
