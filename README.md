@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rupturas: a roleta política e as fronteiras da democracia](https://www.nexojornal.com.br/podcast/2022/08/24/Rupturas-a-roleta-pol%C3%ADtica-e-as-fronteiras-da-democracia)
-- [Ciro Gomes defende usar plebiscitos para governar](https://www.nexojornal.com.br/extra/2022/08/23/Ciro-Gomes-defende-usar-plebiscitos-para-governar)
-- [O elo do empresários que falaram em golpe com o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/08/23/O-elo-do-empres%C3%A1rios-que-falaram-em-golpe-com-o-bolsonarismo)
-- [Zelensky diz que guerra só acaba com reconquista da Crimeia](https://www.nexojornal.com.br/extra/2022/08/23/Zelensky-diz-que-guerra-s%C3%B3-acaba-com-reconquista-da-Crimeia)
-- [‘Criminalização da pobreza é a maior ameaça à infância’](https://www.nexojornal.com.br/entrevista/2022/08/23/%E2%80%98Criminaliza%C3%A7%C3%A3o-da-pobreza-%C3%A9-a-maior-amea%C3%A7a-%C3%A0-inf%C3%A2ncia%E2%80%99)
+- [Facebook é multado em R$ 6,6 milhões no Brasil](https://www.nexojornal.com.br/extra/2022/08/23/Facebook-%C3%A9-multado-em-R-66-milh%C3%B5es-no-Brasil)
+- [Youtuber que provocou Bolsonaro entra para o MBL](https://www.nexojornal.com.br/extra/2022/08/23/Youtuber-que-provocou-Bolsonaro-entra-para-o-MBL)
+- [Europa vive pior seca em pelo menos 500 anos, diz relatório](https://www.nexojornal.com.br/extra/2022/08/23/Europa-vive-pior-seca-em-pelo-menos-500-anos-diz-relat%C3%B3rio)
+- [FBI recuperou mais de 300 documentos na casa de Trump](https://www.nexojornal.com.br/extra/2022/08/23/FBI-recuperou-mais-de-300-documentos-na-casa-de-Trump)
+- [PF faz operação contra empresários que defenderam golpe](https://www.nexojornal.com.br/extra/2022/08/23/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios-que-defenderam-golpe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
