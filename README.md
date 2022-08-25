@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como ter menos coisas](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ter-menos-coisas/)
 - [Artistas de hoje contra a censura](https://gamarevista.uol.com.br/cultura/artistas-de-hoje-contra-a-censura/)
 - [Um arco-íris de esperança](https://gamarevista.uol.com.br/colunistas/winnie-bueno/um-arco-iris-de-esperanca/)
 - [Scrunchie](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/scrunchie/)
 - [Cultura e Desenvolvimento com Alê Youssef #10 – Leandro Lehart](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-leandro-lehart/)
-- [@allefthedeep](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/allefthedeep/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
