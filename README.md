@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras vira maior empresa pagadora de dividendos do mundo](https://www.nexojornal.com.br/extra/2022/08/24/Petrobras-vira-maior-empresa-pagadora-de-dividendos-do-mundo)
-- [TSE manda CUT remover vídeo contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/24/TSE-manda-CUT-remover-v%C3%ADdeo-contra-Bolsonaro)
-- [Músico é preso por engano pela segunda vez em Niterói](https://www.nexojornal.com.br/extra/2022/08/24/M%C3%BAsico-%C3%A9-preso-por-engano-pela-segunda-vez-em-Niter%C3%B3i)
-- [Recessão democrática mundial: a crise da crise](https://www.nexojornal.com.br/ensaio/2022/Recess%C3%A3o-democr%C3%A1tica-mundial-a-crise-da-crise)
-- [Preços recuam 0,73% na prévia da inflação de agosto](https://www.nexojornal.com.br/extra/2022/08/24/Pre%C3%A7os-recuam-073-na-pr%C3%A9via-da-infla%C3%A7%C3%A3o-de-agosto)
+- [Como foi o avanço da biometria no eleitorado brasileiro](https://www.nexojornal.com.br/grafico/2022/08/24/Como-foi-o-avan%C3%A7o-da-biometria-no-eleitorado-brasileiro)
+- [O choque entre a Procuradoria-Geral da República e o Supremo](https://www.nexojornal.com.br/expresso/2022/08/24/O-choque-entre-a-Procuradoria-Geral-da-Rep%C3%BAblica-e-o-Supremo)
+- [Deepfake e edição: o fator vídeo na desinformação eleitoral](https://www.nexojornal.com.br/expresso/2022/08/24/Deepfake-e-edi%C3%A7%C3%A3o-o-fator-v%C3%ADdeo-na-desinforma%C3%A7%C3%A3o-eleitoral)
+- [Quais os segredos das pessoas naturalmente magras?](https://www.nexojornal.com.br/colunistas/2022/Quais-os-segredos-das-pessoas-naturalmente-magras)
+- [O que é divulgação científica. E como ela se transforma](https://www.nexojornal.com.br/expresso/2022/08/24/O-que-%C3%A9-divulga%C3%A7%C3%A3o-cient%C3%ADfica.-E-como-ela-se-transforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
