@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como foi o avanço da biometria no eleitorado brasileiro](https://www.nexojornal.com.br/grafico/2022/08/24/Como-foi-o-avan%C3%A7o-da-biometria-no-eleitorado-brasileiro)
-- [O choque entre a Procuradoria-Geral da República e o Supremo](https://www.nexojornal.com.br/expresso/2022/08/24/O-choque-entre-a-Procuradoria-Geral-da-Rep%C3%BAblica-e-o-Supremo)
-- [Deepfake e edição: o fator vídeo na desinformação eleitoral](https://www.nexojornal.com.br/expresso/2022/08/24/Deepfake-e-edi%C3%A7%C3%A3o-o-fator-v%C3%ADdeo-na-desinforma%C3%A7%C3%A3o-eleitoral)
-- [Quais os segredos das pessoas naturalmente magras?](https://www.nexojornal.com.br/colunistas/2022/Quais-os-segredos-das-pessoas-naturalmente-magras)
-- [O que é divulgação científica. E como ela se transforma](https://www.nexojornal.com.br/expresso/2022/08/24/O-que-%C3%A9-divulga%C3%A7%C3%A3o-cient%C3%ADfica.-E-como-ela-se-transforma)
+- [Djokovic fica de fora do US Open por não estar vacinado](https://www.nexojornal.com.br/extra/2022/08/25/Djokovic-fica-de-fora-do-US-Open-por-n%C3%A3o-estar-vacinado)
+- [Operação contra a maior milícia do Rio prende oito pessoas](https://www.nexojornal.com.br/extra/2022/08/25/Opera%C3%A7%C3%A3o-contra-a-maior-mil%C3%ADcia-do-Rio-prende-oito-pessoas)
+- [Como a pandemia alterou nossa relação com dados](https://www.nexojornal.com.br/academico/2022/08/25/Como-a-pandemia-alterou-nossa-rela%C3%A7%C3%A3o-com-dados)
+- [TSE proíbe que eleitor esteja com o celular na cabine de votação](https://www.nexojornal.com.br/extra/2022/08/25/TSE-pro%C3%ADbe-que-eleitor-esteja-com-o-celular-na-cabine-de-vota%C3%A7%C3%A3o)
+- [Organizações pedem proteção a juízes e mesários nas eleições](https://www.nexojornal.com.br/extra/2022/08/25/Organiza%C3%A7%C3%B5es-pedem-prote%C3%A7%C3%A3o-a-ju%C3%ADzes-e-mes%C3%A1rios-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
