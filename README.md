@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras vira maior empresa pagadora de dividendos do mundo](https://www.nexojornal.com.br/extra/2022/08/24/Petrobras-vira-maior-empresa-pagadora-de-dividendos-do-mundo)
-- [TSE manda CUT remover vídeo contra Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/24/TSE-manda-CUT-remover-v%C3%ADdeo-contra-Bolsonaro)
-- [Músico é preso por engano pela segunda vez em Niterói](https://www.nexojornal.com.br/extra/2022/08/24/M%C3%BAsico-%C3%A9-preso-por-engano-pela-segunda-vez-em-Niter%C3%B3i)
-- [Recessão democrática mundial: a crise da crise](https://www.nexojornal.com.br/ensaio/2022/Recess%C3%A3o-democr%C3%A1tica-mundial-a-crise-da-crise)
-- [Preços recuam 0,73% na prévia da inflação de agosto](https://www.nexojornal.com.br/extra/2022/08/24/Pre%C3%A7os-recuam-073-na-pr%C3%A9via-da-infla%C3%A7%C3%A3o-de-agosto)
+- [TSE proíbe que eleitor esteja com o celular na cabine de votação](https://www.nexojornal.com.br/extra/2022/08/25/TSE-pro%C3%ADbe-que-eleitor-esteja-com-o-celular-na-cabine-de-vota%C3%A7%C3%A3o)
+- [Organizações pedem proteção a juízes e mesários nas eleições](https://www.nexojornal.com.br/extra/2022/08/25/Organiza%C3%A7%C3%B5es-pedem-prote%C3%A7%C3%A3o-a-ju%C3%ADzes-e-mes%C3%A1rios-nas-elei%C3%A7%C3%B5es)
+- [Morre Heitor Aquino Ferreira, que produziu registros da ditadura](https://www.nexojornal.com.br/extra/2022/08/25/Morre-Heitor-Aquino-Ferreira-que-produziu-registros-da-ditadura)
+- [O choque entre a Procuradoria-Geral da República e o Supremo](https://www.nexojornal.com.br/expresso/2022/08/24/O-choque-entre-a-Procuradoria-Geral-da-Rep%C3%BAblica-e-o-Supremo)
+- [Como foi o avanço da biometria no eleitorado brasileiro](https://www.nexojornal.com.br/grafico/2022/08/24/Como-foi-o-avan%C3%A7o-da-biometria-no-eleitorado-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
