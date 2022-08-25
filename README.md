@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rupturas: a roleta política e as fronteiras da democracia](https://www.nexojornal.com.br/podcast/2022/08/24/Rupturas-a-roleta-pol%C3%ADtica-e-as-fronteiras-da-democracia)
-- [Ciro Gomes defende usar plebiscitos para governar](https://www.nexojornal.com.br/extra/2022/08/23/Ciro-Gomes-defende-usar-plebiscitos-para-governar)
-- [O elo do empresários que falaram em golpe com o bolsonarismo](https://www.nexojornal.com.br/expresso/2022/08/23/O-elo-do-empres%C3%A1rios-que-falaram-em-golpe-com-o-bolsonarismo)
-- [Zelensky diz que guerra só acaba com reconquista da Crimeia](https://www.nexojornal.com.br/extra/2022/08/23/Zelensky-diz-que-guerra-s%C3%B3-acaba-com-reconquista-da-Crimeia)
-- [‘Criminalização da pobreza é a maior ameaça à infância’](https://www.nexojornal.com.br/entrevista/2022/08/23/%E2%80%98Criminaliza%C3%A7%C3%A3o-da-pobreza-%C3%A9-a-maior-amea%C3%A7a-%C3%A0-inf%C3%A2ncia%E2%80%99)
+- [Como foi o avanço da biometria no eleitorado brasileiro](https://www.nexojornal.com.br/grafico/2022/08/24/Como-foi-o-avan%C3%A7o-da-biometria-no-eleitorado-brasileiro)
+- [O choque entre a Procuradoria-Geral da República e o Supremo](https://www.nexojornal.com.br/expresso/2022/08/24/O-choque-entre-a-Procuradoria-Geral-da-Rep%C3%BAblica-e-o-Supremo)
+- [Deepfake e edição: o fator vídeo na desinformação eleitoral](https://www.nexojornal.com.br/expresso/2022/08/24/Deepfake-e-edi%C3%A7%C3%A3o-o-fator-v%C3%ADdeo-na-desinforma%C3%A7%C3%A3o-eleitoral)
+- [Quais os segredos das pessoas naturalmente magras?](https://www.nexojornal.com.br/colunistas/2022/Quais-os-segredos-das-pessoas-naturalmente-magras)
+- [O que é divulgação científica. E como ela se transforma](https://www.nexojornal.com.br/expresso/2022/08/24/O-que-%C3%A9-divulga%C3%A7%C3%A3o-cient%C3%ADfica.-E-como-ela-se-transforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
