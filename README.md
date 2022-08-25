@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Cultura e Desenvolvimento com Alê Youssef # 11 – Bela Gil](https://gamarevista.uol.com.br/podcast/cultura-e-desenvolvimento-com-ale-youssef-11-bela-gil/)
-- [A arte indígena contemporânea na SP-Arte](https://gamarevista.uol.com.br/cultura/a-arte-indigena-contemporanea-na-sp-arte/)
-- [Como ter menos coisas](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ter-menos-coisas/)
-- [Artistas de hoje contra a censura](https://gamarevista.uol.com.br/cultura/artistas-de-hoje-contra-a-censura/)
-- [Um arco-íris de esperança](https://gamarevista.uol.com.br/colunistas/winnie-bueno/um-arco-iris-de-esperanca/)
+- [João Donato lança músicas inéditas em ‘Serotonina’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/joao-donato-lanca-musicas-ineditas-em-serotonina/)
+- [Política e eleições em estreias nacionais](https://gamarevista.uol.com.br/achamos-que-vale/assistir/politica-e-eleicoes-em-estreias-nacionais/)
+- [‘Desvairar 22’, no Sesc SP, mistura Brasil e Egito](https://gamarevista.uol.com.br/achamos-que-vale/ir/desvairar-22-no-sesc-sp-mistura-brasil-e-egito/)
+- [O ‘Projeto Querino’, podcast produzido pela Rádio Novelo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-projeto-querino-podcast-produzido-pela-radio-novelo/)
+- [Arte indígena contemporânea na SP-Arte](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-indigena-contemporanea-na-sp-arte/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
