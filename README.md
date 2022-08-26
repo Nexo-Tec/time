@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Gênero e orçamento público, uma associação necessária](https://pp.nexojornal.com.br/ponto-de-vista/2022/G%C3%AAnero-e-or%C3%A7amento-p%C3%BAblico-uma-associa%C3%A7%C3%A3o-necess%C3%A1ria)
 - [Desigualdades raciais, escola e a pesquisa quantitativa](https://pp.nexojornal.com.br/bibliografia-basica/2022/08/17/Desigualdades-raciais-escola-e-a-pesquisa-quantitativa)
 - [A crueldade da atual Pnab e do orçamento secreto para a saúde da população negra](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crueldade-da-atual-Pnab-e-do-or%C3%A7amento-secreto-para-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra)
 - [A explosão da fome](https://pp.nexojornal.com.br/opiniao/2022/A-explos%C3%A3o-da-fome)
 - [Veículos pesados movidos a gás natural são uma alternativa?](https://pp.nexojornal.com.br/opiniao/2022/Ve%C3%ADculos-pesados-movidos-a-g%C3%A1s-natural-s%C3%A3o-uma-alternativa)
+- [As pesquisas eleitorais erram mais em favor da esquerda?](https://pp.nexojornal.com.br/opiniao/2022/As-pesquisas-eleitorais-erram-mais-em-favor-da-esquerda)
 <!-- PP_LIST:END -->
 
