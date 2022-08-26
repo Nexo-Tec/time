@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Djokovic fica de fora do US Open por não estar vacinado](https://www.nexojornal.com.br/extra/2022/08/25/Djokovic-fica-de-fora-do-US-Open-por-n%C3%A3o-estar-vacinado)
-- [Operação contra a maior milícia do Rio prende oito pessoas](https://www.nexojornal.com.br/extra/2022/08/25/Opera%C3%A7%C3%A3o-contra-a-maior-mil%C3%ADcia-do-Rio-prende-oito-pessoas)
-- [Como a pandemia alterou nossa relação com dados](https://www.nexojornal.com.br/academico/2022/08/25/Como-a-pandemia-alterou-nossa-rela%C3%A7%C3%A3o-com-dados)
-- [TSE proíbe que eleitor esteja com o celular na cabine de votação](https://www.nexojornal.com.br/extra/2022/08/25/TSE-pro%C3%ADbe-que-eleitor-esteja-com-o-celular-na-cabine-de-vota%C3%A7%C3%A3o)
-- [Organizações pedem proteção a juízes e mesários nas eleições](https://www.nexojornal.com.br/extra/2022/08/25/Organiza%C3%A7%C3%B5es-pedem-prote%C3%A7%C3%A3o-a-ju%C3%ADzes-e-mes%C3%A1rios-nas-elei%C3%A7%C3%B5es)
+- [As ações do TSE para evitar tumulto e violência na eleição](https://www.nexojornal.com.br/expresso/2022/08/25/As-a%C3%A7%C3%B5es-do-TSE-para-evitar-tumulto-e-viol%C3%AAncia-na-elei%C3%A7%C3%A3o)
+- [Apenas reportagem baseou ação contra empresários, diz jornal](https://www.nexojornal.com.br/extra/2022/08/25/Apenas-reportagem-baseou-a%C3%A7%C3%A3o-contra-empres%C3%A1rios-diz-jornal)
+- [Como o fenômeno da ‘grande demissão’ chega no Brasil](https://www.nexojornal.com.br/expresso/2022/08/25/Como-o-fen%C3%B4meno-da-%E2%80%98grande-demiss%C3%A3o%E2%80%99-chega-no-Brasil)
+- [Lula cita corrupção na Petrobras, mas aponta abusos da Lava Jato](https://www.nexojornal.com.br/extra/2022/08/25/Lula-cita-corrup%C3%A7%C3%A3o-na-Petrobras-mas-aponta-abusos-da-Lava-Jato)
+- [Lula e Bolsonaro concentram 50% do horário eleitoral na TV e no rádio](https://www.nexojornal.com.br/grafico/2022/08/25/Lula-e-Bolsonaro-concentram-50-do-hor%C3%A1rio-eleitoral-na-TV-e-no-r%C3%A1dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
