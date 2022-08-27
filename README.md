@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Marina Person](https://gamarevista.uol.com.br/pessoas/questionario-proust/marina-person/)
 - [Vozes Periféricas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/vozes-perifericas/)
 - [João Donato lança músicas inéditas em ‘Serotonina’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/joao-donato-lanca-musicas-ineditas-em-serotonina/)
 - [Política e eleições em estreias nacionais](https://gamarevista.uol.com.br/achamos-que-vale/assistir/politica-e-eleicoes-em-estreias-nacionais/)
 - [‘Desvairar 22’, no Sesc SP, mistura Brasil e Egito](https://gamarevista.uol.com.br/achamos-que-vale/ir/desvairar-22-no-sesc-sp-mistura-brasil-e-egito/)
-- [O ‘Projeto Querino’, podcast produzido pela Rádio Novelo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-projeto-querino-podcast-produzido-pela-radio-novelo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
