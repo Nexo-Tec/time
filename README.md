@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Espanha endurece legislação contra violência sexual](https://www.nexojornal.com.br/extra/2022/08/26/Espanha-endurece-legisla%C3%A7%C3%A3o-contra-viol%C3%AAncia-sexual)
-- [O aplicativo do Comprova contra desinformação](https://www.nexojornal.com.br/expresso/2022/08/26/O-aplicativo-do-Comprova-contra-desinforma%C3%A7%C3%A3o)
-- [Anvisa libera vacina e medicamento contra varíola dos macacos](https://www.nexojornal.com.br/extra/2022/08/26/Anvisa-libera-vacina-e-medicamento-contra-var%C3%ADola-dos-macacos)
-- [As ações do TSE para evitar tumulto e violência na eleição](https://www.nexojornal.com.br/expresso/2022/08/25/As-a%C3%A7%C3%B5es-do-TSE-para-evitar-tumulto-e-viol%C3%AAncia-na-elei%C3%A7%C3%A3o)
-- [Apenas reportagem baseou ação contra empresários, diz jornal](https://www.nexojornal.com.br/extra/2022/08/25/Apenas-reportagem-baseou-a%C3%A7%C3%A3o-contra-empres%C3%A1rios-diz-jornal)
+- [A operação contra empresários. As sabatinas na TV. E mais](https://www.nexojornal.com.br/video/extrato/A-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios.-As-sabatinas-na-TV.-E-mais)
+- [Bolsonaro diz que deve ir a debate entre candidatos no domingo](https://www.nexojornal.com.br/extra/2022/08/26/Bolsonaro-diz-que-deve-ir-a-debate-entre-candidatos-no-domingo)
+- [Moraes muda de ideia e permite propaganda sobre independência](https://www.nexojornal.com.br/extra/2022/08/26/Moraes-muda-de-ideia-e-permite-propaganda-sobre-independ%C3%AAncia)
+- [Petrobras reduz preços de querosene de aviação em 10,4%](https://www.nexojornal.com.br/extra/2022/08/26/Petrobras-reduz-pre%C3%A7os-de-querosene-de-avia%C3%A7%C3%A3o-em-104)
+- [Da geopolítica às questões morais: quem é a premiê da Finlândia](https://www.nexojornal.com.br/expresso/2022/08/26/Da-geopol%C3%ADtica-%C3%A0s-quest%C3%B5es-morais-quem-%C3%A9-a-premi%C3%AA-da-Finl%C3%A2ndia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
