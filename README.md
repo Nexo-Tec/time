@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Gênero e orçamento público, uma associação necessária](https://pp.nexojornal.com.br/ponto-de-vista/2022/G%C3%AAnero-e-or%C3%A7amento-p%C3%BAblico-uma-associa%C3%A7%C3%A3o-necess%C3%A1ria)
-- [Desigualdades raciais, escola e a pesquisa quantitativa](https://pp.nexojornal.com.br/bibliografia-basica/2022/08/17/Desigualdades-raciais-escola-e-a-pesquisa-quantitativa)
-- [A crueldade da atual Pnab e do orçamento secreto para a saúde da população negra](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crueldade-da-atual-Pnab-e-do-or%C3%A7amento-secreto-para-a-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra)
-- [A explosão da fome](https://pp.nexojornal.com.br/opiniao/2022/A-explos%C3%A3o-da-fome)
-- [Veículos pesados movidos a gás natural são uma alternativa?](https://pp.nexojornal.com.br/opiniao/2022/Ve%C3%ADculos-pesados-movidos-a-g%C3%A1s-natural-s%C3%A3o-uma-alternativa)
+- [Escolarização em espaço socioeducativo: novos significados nos anos finais do ensino fundamental](https://pp.nexojornal.com.br/ponto-de-vista/2022/Escolariza%C3%A7%C3%A3o-em-espa%C3%A7o-socioeducativo-novos-significados-nos-anos-finais-do-ensino-fundamental)
+- [O impacto da renda nas atividades extracurriculares das crianças](https://pp.nexojornal.com.br/Dados/2022/08/26/O-impacto-da-renda-nas-atividades-extracurriculares-das-crian%C3%A7as)
+- [A ciência eleitoral e as táticas de campanha baseadas em evidências durante a covid-19](https://pp.nexojornal.com.br/topico/2022/08/26/A-ci%C3%AAncia-eleitoral-e-as-t%C3%A1ticas-de-campanha-baseadas-em-evid%C3%AAncias-durante-a-covid-19)
+- [Eleições 2022: desafios da Previdência Social em um novo governo](https://pp.nexojornal.com.br/ponto-de-vista/2022/Elei%C3%A7%C3%B5es-2022-desafios-da-Previd%C3%AAncia-Social-em-um-novo-governo)
+- [A crise planetária invade a nossa vida urbana](https://pp.nexojornal.com.br/opiniao/2022/A-crise-planet%C3%A1ria-invade-a-nossa-vida-urbana)
 <!-- PP_LIST:END -->
 
