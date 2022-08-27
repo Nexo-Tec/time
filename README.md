@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tebet diz que ‘puxaram seu tapete’ por causa da polarização](https://www.nexojornal.com.br/extra/2022/08/26/Tebet-diz-que-%E2%80%98puxaram-seu-tapete%E2%80%99-por-causa-da-polariza%C3%A7%C3%A3o)
-- [O saldo das sabatinas dos candidatos no Jornal Nacional](https://www.nexojornal.com.br/expresso/2022/08/26/O-saldo-das-sabatinas-dos-candidatos-no-Jornal-Nacional)
-- [‘Formar lideranças climáticas é alcançar os mais vulneráveis’](https://www.nexojornal.com.br/entrevista/2022/08/26/%E2%80%98Formar-lideran%C3%A7as-clim%C3%A1ticas-%C3%A9-alcan%C3%A7ar-os-mais-vulner%C3%A1veis%E2%80%99)
-- [Como o Estoicismo influenciou o Pink Floyd](https://www.nexojornal.com.br/externo/2022/08/26/Como-o-Estoicismo-influenciou-o-Pink-Floyd)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/08/26/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A operação contra empresários. As sabatinas na TV. E mais](https://www.nexojornal.com.br/video/extrato/A-opera%C3%A7%C3%A3o-contra-empres%C3%A1rios.-As-sabatinas-na-TV.-E-mais)
+- [Bolsonaro diz que deve ir a debate entre candidatos no domingo](https://www.nexojornal.com.br/extra/2022/08/26/Bolsonaro-diz-que-deve-ir-a-debate-entre-candidatos-no-domingo)
+- [Moraes muda de ideia e permite propaganda sobre independência](https://www.nexojornal.com.br/extra/2022/08/26/Moraes-muda-de-ideia-e-permite-propaganda-sobre-independ%C3%AAncia)
+- [Petrobras reduz preços de querosene de aviação em 10,4%](https://www.nexojornal.com.br/extra/2022/08/26/Petrobras-reduz-pre%C3%A7os-de-querosene-de-avia%C3%A7%C3%A3o-em-104)
+- [Da geopolítica às questões morais: quem é a premiê da Finlândia](https://www.nexojornal.com.br/expresso/2022/08/26/Da-geopol%C3%ADtica-%C3%A0s-quest%C3%B5es-morais-quem-%C3%A9-a-premi%C3%AA-da-Finl%C3%A2ndia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
