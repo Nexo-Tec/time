@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Delegado da PF morre durante operação em terra indígena](https://www.nexojornal.com.br/extra/2022/08/27/Delegado-da-PF-morre-durante-opera%C3%A7%C3%A3o-em-terra-ind%C3%ADgena)
 - [Lula confirma presença em debate na TV Bandeirantes](https://www.nexojornal.com.br/extra/2022/08/27/Lula-confirma-presen%C3%A7a-em-debate-na-TV-Bandeirantes)
 - [Horário eleitoral: Lula retoma marcas e Bolsonaro exalta ‘fé’](https://www.nexojornal.com.br/extra/2022/08/27/Hor%C3%A1rio-eleitoral-Lula-retoma-marcas-e-Bolsonaro-exalta-%E2%80%98f%C3%A9%E2%80%99)
 - [Tebet diz que ‘puxaram seu tapete’ por causa da polarização](https://www.nexojornal.com.br/extra/2022/08/26/Tebet-diz-que-%E2%80%98puxaram-seu-tapete%E2%80%99-por-causa-da-polariza%C3%A7%C3%A3o)
 - [O saldo das sabatinas dos candidatos no Jornal Nacional](https://www.nexojornal.com.br/expresso/2022/08/26/O-saldo-das-sabatinas-dos-candidatos-no-Jornal-Nacional)
+- [‘Formar lideranças climáticas é alcançar os mais vulneráveis’](https://www.nexojornal.com.br/entrevista/2022/08/26/%E2%80%98Formar-lideran%C3%A7as-clim%C3%A1ticas-%C3%A9-alcan%C3%A7ar-os-mais-vulner%C3%A1veis%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
