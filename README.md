@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que as placas de neon de Hong Kong estão desaparecendo](https://www.nexojornal.com.br/expresso/2022/08/28/Por-que-as-placas-de-neon-de-Hong-Kong-est%C3%A3o-desaparecendo)
-- [5 livros que mostram como o direito enxerga &lpar;e molda&rpar; o mundo](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-mostram-como-o-direito-enxerga-e-molda-o-mundo)
-- [Quais os impactos da seca histórica no Hemisfério Norte](https://www.nexojornal.com.br/expresso/2022/08/28/Quais-os-impactos-da-seca-hist%C3%B3rica-no-Hemisf%C3%A9rio-Norte)
-- [O pano de fundo econômico da Independência de 1822](https://www.nexojornal.com.br/entrevista/2022/08/28/O-pano-de-fundo-econ%C3%B4mico-da-Independ%C3%AAncia-de-1822)
-- [Mario Frias faz post desinformativo sobre a Lei Rouanet](https://www.nexojornal.com.br/expresso/2022/08/28/Mario-Frias-faz-post-desinformativo-sobre-a-Lei-Rouanet)
+- [Delegado da PF morre durante operação em terra indígena](https://www.nexojornal.com.br/extra/2022/08/27/Delegado-da-PF-morre-durante-opera%C3%A7%C3%A3o-em-terra-ind%C3%ADgena)
+- [Lula confirma presença em debate na TV Bandeirantes](https://www.nexojornal.com.br/extra/2022/08/27/Lula-confirma-presen%C3%A7a-em-debate-na-TV-Bandeirantes)
+- [Horário eleitoral: Lula retoma marcas e Bolsonaro exalta ‘fé’](https://www.nexojornal.com.br/extra/2022/08/27/Hor%C3%A1rio-eleitoral-Lula-retoma-marcas-e-Bolsonaro-exalta-%E2%80%98f%C3%A9%E2%80%99)
+- [Tebet diz que ‘puxaram seu tapete’ por causa da polarização](https://www.nexojornal.com.br/extra/2022/08/26/Tebet-diz-que-%E2%80%98puxaram-seu-tapete%E2%80%99-por-causa-da-polariza%C3%A7%C3%A3o)
+- [O saldo das sabatinas dos candidatos no Jornal Nacional](https://www.nexojornal.com.br/expresso/2022/08/26/O-saldo-das-sabatinas-dos-candidatos-no-Jornal-Nacional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
