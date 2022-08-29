@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [União Europeia estuda dificultar vistos para turistas russos](https://www.nexojornal.com.br/extra/2022/08/28/Uni%C3%A3o-Europeia-estuda-dificultar-vistos-para-turistas-russos)
-- [Paquistão decreta emergência contra pior chuva em décadas](https://www.nexojornal.com.br/extra/2022/08/28/Paquist%C3%A3o-decreta-emerg%C3%AAncia-contra-pior-chuva-em-d%C3%A9cadas)
-- [Frente fria traz chuvas e geadas no Sul e Sudeste do país](https://www.nexojornal.com.br/extra/2022/08/28/Frente-fria-traz-chuvas-e-geadas-no-Sul-e-Sudeste-do-pa%C3%ADs)
-- [Morre em Rondônia o ‘índio do buraco’, o último de sua etnia](https://www.nexojornal.com.br/extra/2022/08/28/Morre-em-Rond%C3%B4nia-o-%E2%80%98%C3%ADndio-do-buraco%E2%80%99-o-%C3%BAltimo-de-sua-etnia)
-- [Ato em apoio a Cristina reúne milhares nas ruas de Buenos Aires](https://www.nexojornal.com.br/extra/2022/08/28/Ato-em-apoio-a-Cristina-re%C3%BAne-milhares-nas-ruas-de-Buenos-Aires)
+- [Por que as placas de neon de Hong Kong estão desaparecendo](https://www.nexojornal.com.br/expresso/2022/08/28/Por-que-as-placas-de-neon-de-Hong-Kong-est%C3%A3o-desaparecendo)
+- [5 livros que mostram como o direito enxerga &lpar;e molda&rpar; o mundo](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-mostram-como-o-direito-enxerga-e-molda-o-mundo)
+- [Quais os impactos da seca histórica no Hemisfério Norte](https://www.nexojornal.com.br/expresso/2022/08/28/Quais-os-impactos-da-seca-hist%C3%B3rica-no-Hemisf%C3%A9rio-Norte)
+- [O pano de fundo econômico da Independência de 1822](https://www.nexojornal.com.br/entrevista/2022/08/28/O-pano-de-fundo-econ%C3%B4mico-da-Independ%C3%AAncia-de-1822)
+- [Mario Frias faz post desinformativo sobre a Lei Rouanet](https://www.nexojornal.com.br/expresso/2022/08/28/Mario-Frias-faz-post-desinformativo-sobre-a-Lei-Rouanet)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
