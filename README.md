@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Debater o Brasil do presente para pensar o futuro](https://gamarevista.uol.com.br/especial/varios-22/gama-nexo-itau-cultural-e-anpocs-se-juntam-para-pensar-o-brasil-do-presente-e-do-futuro/)
+- [Debater o Brasil do presente para pensar o futuro](https://gamarevista.uol.com.br/especial/ecos-de-outros-22/gama-nexo-itau-cultural-e-anpocs-se-juntam-para-pensar-o-brasil-do-presente-e-do-futuro/)
 - [@eujuliovictor](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eujuliovictor/)
 - [Rodrigo Ghedin: “A tendência vai ser compartilhar nossas vidas em grupos mais privados da internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-novas-formas-de-compartilhar-e-consumir-conteudo-na-internet/)
 - [Marina Person](https://gamarevista.uol.com.br/pessoas/questionario-proust/marina-person/)
