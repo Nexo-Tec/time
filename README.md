@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Anitta é primeira artista brasileira a vencer prêmio no VMA](https://www.nexojornal.com.br/extra/2022/08/29/Anitta-%C3%A9-primeira-artista-brasileira-a-vencer-pr%C3%AAmio-no-VMA)
-- [Por que a poliomielite voltou a preocupar. E como reverter isso](https://www.nexojornal.com.br/expresso/2022/08/29/Por-que-a-poliomielite-voltou-a-preocupar.-E-como-reverter-isso)
-- [O que está em jogo nas eleições 2022: gênero e raça](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-g%C3%AAnero-e-ra%C3%A7a)
-- [O que explica a crise na economia do Reino Unido](https://www.nexojornal.com.br/expresso/2022/08/29/O-que-explica-a-crise-na-economia-do-Reino-Unido)
-- [Como o acordo UE-Mercosul aparece nas eleições brasileiras](https://www.nexojornal.com.br/expresso/2022/08/29/Como-o-acordo-UE-Mercosul-aparece-nas-elei%C3%A7%C3%B5es-brasileiras)
+- [União Europeia estuda dificultar vistos para turistas russos](https://www.nexojornal.com.br/extra/2022/08/28/Uni%C3%A3o-Europeia-estuda-dificultar-vistos-para-turistas-russos)
+- [Paquistão decreta emergência contra pior chuva em décadas](https://www.nexojornal.com.br/extra/2022/08/28/Paquist%C3%A3o-decreta-emerg%C3%AAncia-contra-pior-chuva-em-d%C3%A9cadas)
+- [Frente fria traz chuvas e geadas no Sul e Sudeste do país](https://www.nexojornal.com.br/extra/2022/08/28/Frente-fria-traz-chuvas-e-geadas-no-Sul-e-Sudeste-do-pa%C3%ADs)
+- [Morre em Rondônia o ‘índio do buraco’, o último de sua etnia](https://www.nexojornal.com.br/extra/2022/08/28/Morre-em-Rond%C3%B4nia-o-%E2%80%98%C3%ADndio-do-buraco%E2%80%99-o-%C3%BAltimo-de-sua-etnia)
+- [Ato em apoio a Cristina reúne milhares nas ruas de Buenos Aires](https://www.nexojornal.com.br/extra/2022/08/28/Ato-em-apoio-a-Cristina-re%C3%BAne-milhares-nas-ruas-de-Buenos-Aires)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
