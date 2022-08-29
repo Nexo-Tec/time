@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@eujuliovictor](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eujuliovictor/)
 - [Rodrigo Ghedin: “A tendência vai ser compartilhar nossas vidas em grupos mais privados da internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-novas-formas-de-compartilhar-e-consumir-conteudo-na-internet/)
 - [Marina Person](https://gamarevista.uol.com.br/pessoas/questionario-proust/marina-person/)
 - [Vozes Periféricas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/vozes-perifericas/)
 - [João Donato lança músicas inéditas em ‘Serotonina’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/joao-donato-lanca-musicas-ineditas-em-serotonina/)
-- [Política e eleições em estreias nacionais](https://gamarevista.uol.com.br/achamos-que-vale/assistir/politica-e-eleicoes-em-estreias-nacionais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
