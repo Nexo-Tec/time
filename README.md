@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [União Europeia estuda dificultar vistos para turistas russos](https://www.nexojornal.com.br/extra/2022/08/28/Uni%C3%A3o-Europeia-estuda-dificultar-vistos-para-turistas-russos)
-- [Paquistão decreta emergência contra pior chuva em décadas](https://www.nexojornal.com.br/extra/2022/08/28/Paquist%C3%A3o-decreta-emerg%C3%AAncia-contra-pior-chuva-em-d%C3%A9cadas)
-- [Frente fria traz chuvas e geadas no Sul e Sudeste do país](https://www.nexojornal.com.br/extra/2022/08/28/Frente-fria-traz-chuvas-e-geadas-no-Sul-e-Sudeste-do-pa%C3%ADs)
-- [Morre em Rondônia o ‘índio do buraco’, o último de sua etnia](https://www.nexojornal.com.br/extra/2022/08/28/Morre-em-Rond%C3%B4nia-o-%E2%80%98%C3%ADndio-do-buraco%E2%80%99-o-%C3%BAltimo-de-sua-etnia)
-- [Ato em apoio a Cristina reúne milhares nas ruas de Buenos Aires](https://www.nexojornal.com.br/extra/2022/08/28/Ato-em-apoio-a-Cristina-re%C3%BAne-milhares-nas-ruas-de-Buenos-Aires)
+- [Por que as cotas raciais deram certo no ensino brasileiro](https://www.nexojornal.com.br/podcast/2022/08/29/Por-que-as-cotas-raciais-deram-certo-no-ensino-brasileiro)
+- [Chile convoca embaixador após fala de Bolsonaro sobre Boric](https://www.nexojornal.com.br/extra/2022/08/29/Chile-convoca-embaixador-ap%C3%B3s-fala-de-Bolsonaro-sobre-Boric)
+- [A coroa de d. Pedro: relíquia ou camuflagem](https://www.nexojornal.com.br/colunistas/2022/A-coroa-de-d.-Pedro-rel%C3%ADquia-ou-camuflagem)
+- [Quais os potenciais avanços da retomada de missões à Lua](https://www.nexojornal.com.br/expresso/2022/08/29/Quais-os-potenciais-avan%C3%A7os-da-retomada-de-miss%C3%B5es-%C3%A0-Lua)
+- [Os festivais para celebrar o Dia da Amazônia em 8 cidades](https://www.nexojornal.com.br/expresso/2022/08/29/Os-festivais-para-celebrar-o-Dia-da-Amaz%C3%B4nia-em-8-cidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
