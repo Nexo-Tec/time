@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que as cotas raciais deram certo no ensino brasileiro](https://www.nexojornal.com.br/podcast/2022/08/29/Por-que-as-cotas-raciais-deram-certo-no-ensino-brasileiro)
-- [Chile convoca embaixador após fala de Bolsonaro sobre Boric](https://www.nexojornal.com.br/extra/2022/08/29/Chile-convoca-embaixador-ap%C3%B3s-fala-de-Bolsonaro-sobre-Boric)
-- [A coroa de d. Pedro: relíquia ou camuflagem](https://www.nexojornal.com.br/colunistas/2022/A-coroa-de-d.-Pedro-rel%C3%ADquia-ou-camuflagem)
-- [Quais os potenciais avanços da retomada de missões à Lua](https://www.nexojornal.com.br/expresso/2022/08/29/Quais-os-potenciais-avan%C3%A7os-da-retomada-de-miss%C3%B5es-%C3%A0-Lua)
-- [Os festivais para celebrar o Dia da Amazônia em 8 cidades](https://www.nexojornal.com.br/expresso/2022/08/29/Os-festivais-para-celebrar-o-Dia-da-Amaz%C3%B4nia-em-8-cidades)
+- [Anitta é primeira artista brasileira a vencer prêmio no VMA](https://www.nexojornal.com.br/extra/2022/08/29/Anitta-%C3%A9-primeira-artista-brasileira-a-vencer-pr%C3%AAmio-no-VMA)
+- [Por que a poliomielite voltou a preocupar. E como reverter isso](https://www.nexojornal.com.br/expresso/2022/08/29/Por-que-a-poliomielite-voltou-a-preocupar.-E-como-reverter-isso)
+- [O que está em jogo nas eleições 2022: gênero e raça](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-g%C3%AAnero-e-ra%C3%A7a)
+- [O que explica a crise na economia do Reino Unido](https://www.nexojornal.com.br/expresso/2022/08/29/O-que-explica-a-crise-na-economia-do-Reino-Unido)
+- [Como o acordo UE-Mercosul aparece nas eleições brasileiras](https://www.nexojornal.com.br/expresso/2022/08/29/Como-o-acordo-UE-Mercosul-aparece-nas-elei%C3%A7%C3%B5es-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
