@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A dificuldade das campanhas ao falar das mulheres](https://www.nexojornal.com.br/expresso/2022/08/29/A-dificuldade-das-campanhas-ao-falar-das-mulheres)
-- [O local de nascimento dos candidatos nas eleições 2022](https://www.nexojornal.com.br/grafico/2022/08/29/O-local-de-nascimento-dos-candidatos-nas-elei%C3%A7%C3%B5es-2022)
-- [Lula mantém 44% de intenções de voto. Bolsonaro mantém 32%](https://www.nexojornal.com.br/extra/2022/08/29/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-32)
-- [Senado aprova projeto de lei que derruba rol taxativo da ANS](https://www.nexojornal.com.br/extra/2022/08/29/Senado-aprova-projeto-de-lei-que-derruba-rol-taxativo-da-ANS)
-- [Por que é um equívoco minimizar os dados da fome no Brasil](https://www.nexojornal.com.br/expresso/2022/08/29/Por-que-%C3%A9-um-equ%C3%ADvoco-minimizar-os-dados-da-fome-no-Brasil)
+- [Por que as cotas raciais deram certo no ensino brasileiro](https://www.nexojornal.com.br/podcast/2022/08/29/Por-que-as-cotas-raciais-deram-certo-no-ensino-brasileiro)
+- [Chile convoca embaixador após fala de Bolsonaro sobre Boric](https://www.nexojornal.com.br/extra/2022/08/29/Chile-convoca-embaixador-ap%C3%B3s-fala-de-Bolsonaro-sobre-Boric)
+- [A coroa de d. Pedro: relíquia ou camuflagem](https://www.nexojornal.com.br/colunistas/2022/A-coroa-de-d.-Pedro-rel%C3%ADquia-ou-camuflagem)
+- [Quais os potenciais avanços da retomada de missões à Lua](https://www.nexojornal.com.br/expresso/2022/08/29/Quais-os-potenciais-avan%C3%A7os-da-retomada-de-miss%C3%B5es-%C3%A0-Lua)
+- [Os festivais para celebrar o Dia da Amazônia em 8 cidades](https://www.nexojornal.com.br/expresso/2022/08/29/Os-festivais-para-celebrar-o-Dia-da-Amaz%C3%B4nia-em-8-cidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
