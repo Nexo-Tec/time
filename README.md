@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Porta-guardanapos de Bar](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/porta-guardanapo-de-bar/)
 - [Debater o Brasil do presente para pensar o futuro](https://gamarevista.uol.com.br/especial/gama-nexo-itau-cultural-e-anpocs-se-juntam-para-pensar-o-brasil-do-presente-e-do-futuro/)
 - [@eujuliovictor](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eujuliovictor/)
 - [Rodrigo Ghedin: “A tendência vai ser compartilhar nossas vidas em grupos mais privados da internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-novas-formas-de-compartilhar-e-consumir-conteudo-na-internet/)
 - [Marina Person](https://gamarevista.uol.com.br/pessoas/questionario-proust/marina-person/)
+- [Vozes Periféricas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/vozes-perifericas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
