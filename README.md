@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro é o candidato com mais seguidores nas redes](https://www.nexojornal.com.br/grafico/2022/08/31/Bolsonaro-%C3%A9-o-candidato-com-mais-seguidores-nas-redes)
-- [Desemprego cai para 9,1%, menor taxa desde 2015. Rendimento sobe](https://www.nexojornal.com.br/extra/2022/08/31/Desemprego-cai-para-91-menor-taxa-desde-2015.-Rendimento-sobe)
-- [Diálogo interrompido: o transe da mídia e a intoxicação do debate](https://www.nexojornal.com.br/podcast/2022/08/31/Di%C3%A1logo-interrompido-o-transe-da-m%C3%ADdia-e-a-intoxica%C3%A7%C3%A3o-do-debate)
 - [Os questionamentos à investida de Moraes contra o golpismo](https://www.nexojornal.com.br/expresso/2022/08/30/Os-questionamentos-%C3%A0-investida-de-Moraes-contra-o-golpismo)
 - [Qual o impacto da redução dos gastos federais com pessoal](https://www.nexojornal.com.br/expresso/2022/08/30/Qual-o-impacto-da-redu%C3%A7%C3%A3o-dos-gastos-federais-com-pessoal)
+- [TSE proíbe porte de armas perto de locais de votação](https://www.nexojornal.com.br/extra/2022/08/30/TSE-pro%C3%ADbe-porte-de-armas-perto-de-locais-de-vota%C3%A7%C3%A3o)
+- [Um país bom para crianças é um país bom para todos](https://www.nexojornal.com.br/colunistas/2022/Um-pa%C3%ADs-bom-para-crian%C3%A7as-%C3%A9-um-pa%C3%ADs-bom-para-todos)
+- [Como o jornalismo entra no modelo de negócios do cinema](https://www.nexojornal.com.br/expresso/2022/08/30/Como-o-jornalismo-entra-no-modelo-de-neg%C3%B3cios-do-cinema)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
