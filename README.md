@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A dificuldade das campanhas ao falar das mulheres](https://www.nexojornal.com.br/expresso/2022/08/29/A-dificuldade-das-campanhas-ao-falar-das-mulheres)
-- [O local de nascimento dos candidatos nas eleições 2022](https://www.nexojornal.com.br/grafico/2022/08/29/O-local-de-nascimento-dos-candidatos-nas-elei%C3%A7%C3%B5es-2022)
-- [Lula mantém 44% de intenções de voto. Bolsonaro mantém 32%](https://www.nexojornal.com.br/extra/2022/08/29/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-32)
-- [Senado aprova projeto de lei que derruba rol taxativo da ANS](https://www.nexojornal.com.br/extra/2022/08/29/Senado-aprova-projeto-de-lei-que-derruba-rol-taxativo-da-ANS)
-- [Por que é um equívoco minimizar os dados da fome no Brasil](https://www.nexojornal.com.br/expresso/2022/08/29/Por-que-%C3%A9-um-equ%C3%ADvoco-minimizar-os-dados-da-fome-no-Brasil)
+- [Os questionamentos à investida de Moraes contra o golpismo](https://www.nexojornal.com.br/expresso/2022/08/30/Os-questionamentos-%C3%A0-investida-de-Moraes-contra-o-golpismo)
+- [Qual o impacto da redução dos gastos federais com pessoal](https://www.nexojornal.com.br/expresso/2022/08/30/Qual-o-impacto-da-redu%C3%A7%C3%A3o-dos-gastos-federais-com-pessoal)
+- [TSE proíbe porte de armas perto de locais de votação](https://www.nexojornal.com.br/extra/2022/08/30/TSE-pro%C3%ADbe-porte-de-armas-perto-de-locais-de-vota%C3%A7%C3%A3o)
+- [Um país bom para crianças é um país bom para todos](https://www.nexojornal.com.br/colunistas/2022/Um-pa%C3%ADs-bom-para-crian%C3%A7as-%C3%A9-um-pa%C3%ADs-bom-para-todos)
+- [Como o jornalismo entra no modelo de negócios do cinema](https://www.nexojornal.com.br/expresso/2022/08/30/Como-o-jornalismo-entra-no-modelo-de-neg%C3%B3cios-do-cinema)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
