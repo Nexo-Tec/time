@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Costanza Pascolato: ‘A maior armadilha é imitar famosos’](https://gamarevista.uol.com.br/formato/conversas/costanza-pascolato-a-maior-armadilha-e-imitar-famosos/)
 - [Porta-guardanapos de Bar](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/porta-guardanapo-de-bar/)
-- [Debater o Brasil do presente para pensar o futuro](https://gamarevista.uol.com.br/especial/gama-nexo-itau-cultural-e-anpocs-se-juntam-para-pensar-o-brasil-do-presente-e-do-futuro/)
+- [Debater os ecos de outros 22 para pensar o futuro do Brasil](https://gamarevista.uol.com.br/especial/debater-os-ecos-de-outros-22-para-pensar-o-futuro-do-brasil/)
 - [@eujuliovictor](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eujuliovictor/)
 - [Rodrigo Ghedin: “A tendência vai ser compartilhar nossas vidas em grupos mais privados da internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-novas-formas-de-compartilhar-e-consumir-conteudo-na-internet/)
-- [Marina Person](https://gamarevista.uol.com.br/pessoas/questionario-proust/marina-person/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
