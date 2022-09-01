@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Costanza Pascolato: ‘A maior armadilha é imitar famosos’](https://gamarevista.uol.com.br/formato/conversas/costanza-pascolato-a-maior-armadilha-e-imitar-famosos/)
-- [Porta-guardanapos de Bar](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/porta-guardanapo-de-bar/)
-- [Debater os ecos de outros 22 para pensar o futuro do Brasil](https://gamarevista.uol.com.br/especial/debater-os-ecos-de-outros-22-para-pensar-o-futuro-do-brasil/)
-- [@eujuliovictor](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eujuliovictor/)
-- [Rodrigo Ghedin: “A tendência vai ser compartilhar nossas vidas em grupos mais privados da internet”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/as-novas-formas-de-compartilhar-e-consumir-conteudo-na-internet/)
+- [“Politiquês” conta a história de uma crise chamada Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/politiques-conta-a-historia-de-uma-crise-chamada-brasil/)
+- [Série da HBO Max retrata trajetória de sucesso do funk](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-da-hbo-max-retrata-trajetoria-de-sucesso-do-funk/)
+- [Um espetáculo para celebrar a floresta e aproximar culturas](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-espetaculo-para-celebrar-a-floresta-e-aproximar-culturas/)
+- [Estreia de “A Viagem de Pedro”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreia-de-a-viagem-de-pedro/)
+- [Primeira edição do festival literário de Gramado](https://gamarevista.uol.com.br/achamos-que-vale/ir/primeira-edicao-do-festival-literario-de-gramado/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
