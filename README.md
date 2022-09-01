@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Diálogo interrompido: o transe da mídia e a intoxicação do debate](https://www.nexojornal.com.br/podcast/2022/08/31/Di%C3%A1logo-interrompido-o-transe-da-m%C3%ADdia-e-a-intoxica%C3%A7%C3%A3o-do-debate)
-- [Os questionamentos à investida de Moraes contra o golpismo](https://www.nexojornal.com.br/expresso/2022/08/30/Os-questionamentos-%C3%A0-investida-de-Moraes-contra-o-golpismo)
-- [Qual o impacto da redução dos gastos federais com pessoal](https://www.nexojornal.com.br/expresso/2022/08/30/Qual-o-impacto-da-redu%C3%A7%C3%A3o-dos-gastos-federais-com-pessoal)
-- [TSE proíbe porte de armas perto de locais de votação](https://www.nexojornal.com.br/extra/2022/08/30/TSE-pro%C3%ADbe-porte-de-armas-perto-de-locais-de-vota%C3%A7%C3%A3o)
-- [Um país bom para crianças é um país bom para todos](https://www.nexojornal.com.br/colunistas/2022/Um-pa%C3%ADs-bom-para-crian%C3%A7as-%C3%A9-um-pa%C3%ADs-bom-para-todos)
+- [O que alimenta os rumores de renúncia do papa Francisco](https://www.nexojornal.com.br/expresso/2022/08/31/O-que-alimenta-os-rumores-de-ren%C3%BAncia-do-papa-Francisco)
+- [Como o tema corrupção aparece nas campanhas ao Planalto](https://www.nexojornal.com.br/expresso/2022/08/31/Como-o-tema-corrup%C3%A7%C3%A3o-aparece-nas-campanhas-ao-Planalto)
+- [Polícia Federal encerra investigação sobre Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/31/Pol%C3%ADcia-Federal-encerra-investiga%C3%A7%C3%A3o-sobre-Jair-Renan-Bolsonaro)
+- [Plano de governo: nem escrito em pedra e nem escolha às cegas](https://www.nexojornal.com.br/ensaio/2022/Plano-de-governo-nem-escrito-em-pedra-e-nem-escolha-%C3%A0s-cegas)
+- [Justiça do Maranhão bloqueia verbas do orçamento secreto](https://www.nexojornal.com.br/extra/2022/08/31/Justi%C3%A7a-do-Maranh%C3%A3o-bloqueia-verbas-do-or%C3%A7amento-secreto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
