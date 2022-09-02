@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que diz o relatório da ONU sobre os uigures na China](https://www.nexojornal.com.br/expresso/2022/09/01/O-que-diz-o-relat%C3%B3rio-da-ONU-sobre-os-uigures-na-China)
-- [Onde a economia reagiu. E onde falta reagir](https://www.nexojornal.com.br/expresso/2022/09/01/Onde-a-economia-reagiu.-E-onde-falta-reagir)
-- [Jovens e redes: uma relação de companhia e pertencimento](https://www.nexojornal.com.br/colunistas/2022/Jovens-e-redes-uma-rela%C3%A7%C3%A3o-de-companhia-e-pertencimento)
-- [O cenário das eleições desde 1989 a um mês do voto](https://www.nexojornal.com.br/expresso/2022/09/01/O-cen%C3%A1rio-das-elei%C3%A7%C3%B5es-desde-1989-a-um-m%C3%AAs-do-voto)
-- [Brasileiro aponta arma contra Cristina Kirchner na Argentina](https://www.nexojornal.com.br/extra/2022/09/01/Brasileiro-aponta-arma-contra-Cristina-Kirchner-na-Argentina)
+- [Datafolha: Lula oscila para baixo e tem 45%. Bolsonaro mantém 32%](https://www.nexojornal.com.br/extra/2022/09/01/Datafolha-Lula-oscila-para-baixo-e-tem-45.-Bolsonaro-mant%C3%A9m-32)
+- [PIB em alta e Moraes contestado: os trunfos do discurso oficial](https://www.nexojornal.com.br/podcast/2022/09/01/PIB-em-alta-e-Moraes-contestado-os-trunfos-do-discurso-oficial)
+- [Rock in Rio: festival volta a ser realizado após três anos](https://www.nexojornal.com.br/extra/2022/09/01/Rock-in-Rio-festival-volta-a-ser-realizado-ap%C3%B3s-tr%C3%AAs-anos)
+- [Uma resposta ancestral para a crise ambiental](https://www.nexojornal.com.br/academico/2022/09/01/Uma-resposta-ancestral-para-a-crise-ambiental)
+- [TSE manda Bolsonaro apagar posts que associam Lula ao PCC](https://www.nexojornal.com.br/extra/2022/09/01/TSE-manda-Bolsonaro-apagar-posts-que-associam-Lula-ao-PCC)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
