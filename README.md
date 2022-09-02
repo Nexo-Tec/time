@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que diz o relatório da ONU sobre os uigures na China](https://www.nexojornal.com.br/expresso/2022/09/01/O-que-diz-o-relat%C3%B3rio-da-ONU-sobre-os-uigures-na-China)
-- [Onde a economia reagiu. E onde falta reagir](https://www.nexojornal.com.br/expresso/2022/09/01/Onde-a-economia-reagiu.-E-onde-falta-reagir)
-- [Jovens e redes: uma relação de companhia e pertencimento](https://www.nexojornal.com.br/colunistas/2022/Jovens-e-redes-uma-rela%C3%A7%C3%A3o-de-companhia-e-pertencimento)
-- [O cenário das eleições desde 1989 a um mês do voto](https://www.nexojornal.com.br/expresso/2022/09/01/O-cen%C3%A1rio-das-elei%C3%A7%C3%B5es-desde-1989-a-um-m%C3%AAs-do-voto)
-- [Brasileiro aponta arma contra Cristina Kirchner na Argentina](https://www.nexojornal.com.br/extra/2022/09/01/Brasileiro-aponta-arma-contra-Cristina-Kirchner-na-Argentina)
+- [O que alimenta os rumores de renúncia do papa Francisco](https://www.nexojornal.com.br/expresso/2022/08/31/O-que-alimenta-os-rumores-de-ren%C3%BAncia-do-papa-Francisco)
+- [Como o tema corrupção aparece nas campanhas ao Planalto](https://www.nexojornal.com.br/expresso/2022/08/31/Como-o-tema-corrup%C3%A7%C3%A3o-aparece-nas-campanhas-ao-Planalto)
+- [Polícia Federal encerra investigação sobre Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/31/Pol%C3%ADcia-Federal-encerra-investiga%C3%A7%C3%A3o-sobre-Jair-Renan-Bolsonaro)
+- [Plano de governo: nem escrito em pedra e nem escolha às cegas](https://www.nexojornal.com.br/ensaio/2022/Plano-de-governo-nem-escrito-em-pedra-e-nem-escolha-%C3%A0s-cegas)
+- [Justiça do Maranhão bloqueia verbas do orçamento secreto](https://www.nexojornal.com.br/extra/2022/08/31/Justi%C3%A7a-do-Maranh%C3%A3o-bloqueia-verbas-do-or%C3%A7amento-secreto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
