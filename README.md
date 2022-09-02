@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Datafolha: Lula oscila para baixo e tem 45%. Bolsonaro mantém 32%](https://www.nexojornal.com.br/extra/2022/09/01/Datafolha-Lula-oscila-para-baixo-e-tem-45.-Bolsonaro-mant%C3%A9m-32)
-- [PIB em alta e Moraes contestado: os trunfos do discurso oficial](https://www.nexojornal.com.br/podcast/2022/09/01/PIB-em-alta-e-Moraes-contestado-os-trunfos-do-discurso-oficial)
-- [Rock in Rio: festival volta a ser realizado após três anos](https://www.nexojornal.com.br/extra/2022/09/01/Rock-in-Rio-festival-volta-a-ser-realizado-ap%C3%B3s-tr%C3%AAs-anos)
-- [Uma resposta ancestral para a crise ambiental](https://www.nexojornal.com.br/academico/2022/09/01/Uma-resposta-ancestral-para-a-crise-ambiental)
-- [TSE manda Bolsonaro apagar posts que associam Lula ao PCC](https://www.nexojornal.com.br/extra/2022/09/01/TSE-manda-Bolsonaro-apagar-posts-que-associam-Lula-ao-PCC)
+- [O que alimenta os rumores de renúncia do papa Francisco](https://www.nexojornal.com.br/expresso/2022/08/31/O-que-alimenta-os-rumores-de-ren%C3%BAncia-do-papa-Francisco)
+- [Como o tema corrupção aparece nas campanhas ao Planalto](https://www.nexojornal.com.br/expresso/2022/08/31/Como-o-tema-corrup%C3%A7%C3%A3o-aparece-nas-campanhas-ao-Planalto)
+- [Polícia Federal encerra investigação sobre Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2022/08/31/Pol%C3%ADcia-Federal-encerra-investiga%C3%A7%C3%A3o-sobre-Jair-Renan-Bolsonaro)
+- [Plano de governo: nem escrito em pedra e nem escolha às cegas](https://www.nexojornal.com.br/ensaio/2022/Plano-de-governo-nem-escrito-em-pedra-e-nem-escolha-%C3%A0s-cegas)
+- [Justiça do Maranhão bloqueia verbas do orçamento secreto](https://www.nexojornal.com.br/extra/2022/08/31/Justi%C3%A7a-do-Maranh%C3%A3o-bloqueia-verbas-do-or%C3%A7amento-secreto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
