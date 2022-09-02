@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Fake news da beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/fake-news-da-beleza/)
 - [Mulher Feita e Outros Contos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mulher-feita-e-outros-contos/)
 - [“Politiquês” conta a história de uma crise chamada Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/politiques-conta-a-historia-de-uma-crise-chamada-brasil/)
 - [Série da HBO Max retrata trajetória de sucesso do funk](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-da-hbo-max-retrata-trajetoria-de-sucesso-do-funk/)
 - [Um espetáculo para celebrar a floresta e aproximar culturas](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-espetaculo-para-celebrar-a-floresta-e-aproximar-culturas/)
-- [Estreia de “A Viagem de Pedro”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreia-de-a-viagem-de-pedro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
