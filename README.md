@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que diz o relatório da ONU sobre os uigures na China](https://www.nexojornal.com.br/expresso/2022/09/01/O-que-diz-o-relat%C3%B3rio-da-ONU-sobre-os-uigures-na-China)
-- [Onde a economia reagiu. E onde falta reagir](https://www.nexojornal.com.br/expresso/2022/09/01/Onde-a-economia-reagiu.-E-onde-falta-reagir)
-- [Jovens e redes: uma relação de companhia e pertencimento](https://www.nexojornal.com.br/colunistas/2022/Jovens-e-redes-uma-rela%C3%A7%C3%A3o-de-companhia-e-pertencimento)
-- [O cenário das eleições desde 1989 a um mês do voto](https://www.nexojornal.com.br/expresso/2022/09/01/O-cen%C3%A1rio-das-elei%C3%A7%C3%B5es-desde-1989-a-um-m%C3%AAs-do-voto)
-- [Brasileiro aponta arma contra Cristina Kirchner na Argentina](https://www.nexojornal.com.br/extra/2022/09/01/Brasileiro-aponta-arma-contra-Cristina-Kirchner-na-Argentina)
+- [‘Bolsonaristas têm mais recursos e centrão se fortalecerá’](https://www.nexojornal.com.br/entrevista/2022/09/02/%E2%80%98Bolsonaristas-t%C3%AAm-mais-recursos-e-centr%C3%A3o-se-fortalecer%C3%A1%E2%80%99)
+- [Imaginário sobre evangélicos pode decidir as eleições](https://www.nexojornal.com.br/ensaio/2022/Imagin%C3%A1rio-sobre-evang%C3%A9licos-pode-decidir-as-elei%C3%A7%C3%B5es)
+- [Colômbia e Venezuela: das rupturas à retomada das relações](https://www.nexojornal.com.br/expresso/2022/09/02/Col%C3%B4mbia-e-Venezuela-das-rupturas-%C3%A0-retomada-das-rela%C3%A7%C3%B5es)
+- [A América do Sul no discurso de campanha de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/02/A-Am%C3%A9rica-do-Sul-no-discurso-de-campanha-de-Bolsonaro)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/02/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
