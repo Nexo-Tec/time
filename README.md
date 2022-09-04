@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Bolsonaristas têm mais recursos e centrão se fortalecerá’](https://www.nexojornal.com.br/entrevista/2022/09/02/%E2%80%98Bolsonaristas-t%C3%AAm-mais-recursos-e-centr%C3%A3o-se-fortalecer%C3%A1%E2%80%99)
-- [Imaginário sobre evangélicos pode decidir as eleições](https://www.nexojornal.com.br/ensaio/2022/Imagin%C3%A1rio-sobre-evang%C3%A9licos-pode-decidir-as-elei%C3%A7%C3%B5es)
-- [Colômbia e Venezuela: das rupturas à retomada das relações](https://www.nexojornal.com.br/expresso/2022/09/02/Col%C3%B4mbia-e-Venezuela-das-rupturas-%C3%A0-retomada-das-rela%C3%A7%C3%B5es)
-- [A América do Sul no discurso de campanha de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/02/A-Am%C3%A9rica-do-Sul-no-discurso-de-campanha-de-Bolsonaro)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/02/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [A dupla de atacantes homenageada pela música afro-uruguaia](https://www.nexojornal.com.br/expresso/2022/09/03/A-dupla-de-atacantes-homenageada-pela-m%C3%BAsica-afro-uruguaia)
+- [5 livros que iluminam os desafios da liberdade](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-iluminam-os-desafios-da-liberdade)
+- [A onda de influenciadores comunistas nas redes](https://www.nexojornal.com.br/expresso/2022/09/03/A-onda-de-influenciadores-comunistas-nas-redes)
+- [Os impactos do ar seco para a população negra e periférica](https://www.nexojornal.com.br/ensaio/2022/Os-impactos-do-ar-seco-para-a-popula%C3%A7%C3%A3o-negra-e-perif%C3%A9rica)
+- [O rumo das pesquisas em 2022. E as tendências até o voto](https://www.nexojornal.com.br/expresso/2022/09/03/O-rumo-das-pesquisas-em-2022.-E-as-tend%C3%AAncias-at%C3%A9-o-voto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
