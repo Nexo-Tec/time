@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A dupla de atacantes homenageada pela música afro-uruguaia](https://www.nexojornal.com.br/expresso/2022/09/03/A-dupla-de-atacantes-homenageada-pela-m%C3%BAsica-afro-uruguaia)
-- [5 livros que iluminam os desafios da liberdade](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-que-iluminam-os-desafios-da-liberdade)
-- [A onda de influenciadores comunistas nas redes](https://www.nexojornal.com.br/expresso/2022/09/03/A-onda-de-influenciadores-comunistas-nas-redes)
-- [Os impactos do ar seco para a população negra e periférica](https://www.nexojornal.com.br/ensaio/2022/Os-impactos-do-ar-seco-para-a-popula%C3%A7%C3%A3o-negra-e-perif%C3%A9rica)
-- [O rumo das pesquisas em 2022. E as tendências até o voto](https://www.nexojornal.com.br/expresso/2022/09/03/O-rumo-das-pesquisas-em-2022.-E-as-tend%C3%AAncias-at%C3%A9-o-voto)
+- [Com ampla margem, chilenos rejeitam nova Constituição](https://www.nexojornal.com.br/extra/2022/09/04/Com-ampla-margem-chilenos-rejeitam-nova-Constitui%C3%A7%C3%A3o)
+- [O que está em jogo nas eleições 2022: mídia e desinformação](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-m%C3%ADdia-e-desinforma%C3%A7%C3%A3o)
+- [Celebrar a Amazônia para conhecer novas formas de sonhar](https://www.nexojornal.com.br/colunistas/2022/Celebrar-a-Amaz%C3%B4nia-para-conhecer-novas-formas-de-sonhar)
+- [O que a Amazônia tem a ver com 5 temas que preocupam brasileiros](https://www.nexojornal.com.br/expresso/2022/09/04/O-que-a-Amaz%C3%B4nia-tem-a-ver-com-5-temas-que-preocupam-brasileiros)
+- [Engajamento jovem: por que a política pode ser melhor](https://www.nexojornal.com.br/expresso/2022/09/04/Engajamento-jovem-por-que-a-pol%C3%ADtica-pode-ser-melhor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
