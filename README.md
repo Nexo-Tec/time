@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Os 10 anos da Lei de Cotas: equidade e conhecimentos na era digital](https://pp.nexojornal.com.br/ponto-de-vista/2022/Os-10-anos-da-Lei-de-Cotas-equidade-e-conhecimentos-na-era-digital)
-- [As mensagens da ciência para a Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2022/As-mensagens-da-ci%C3%AAncia-para-a-Amaz%C3%B4nia)
 - [Sonia Venâncio: políticas de incentivo ao aleitamento materno no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/09/01/Sonia-Ven%C3%A2ncio-pol%C3%ADticas-de-incentivo-ao-aleitamento-materno-no-Brasil)
 - [Como se dá o declínio de polinizadores em ecossistemas](https://pp.nexojornal.com.br/topico/2022/09/01/Como-se-d%C3%A1-o-decl%C3%ADnio-de-polinizadores-em-ecossistemas)
 - [ICMS Educacional: o que avançou nos estados e quais os riscos e incertezas para a educação?](https://pp.nexojornal.com.br/opiniao/2022/ICMS-Educacional-o-que-avan%C3%A7ou-nos-estados-e-quais-os-riscos-e-incertezas-para-a-educa%C3%A7%C3%A3o)
+- [O crescimento da presença indígena no ensino superior](https://pp.nexojornal.com.br/opiniao/2022/O-crescimento-da-presen%C3%A7a-ind%C3%ADgena-no-ensino-superior)
+- [O papel do diretor escolar nos novos rumos da escola depois da covid-19](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-papel-do-diretor-escolar-nos-novos-rumos-da-escola-depois-da-covid-19)
 <!-- PP_LIST:END -->
 
