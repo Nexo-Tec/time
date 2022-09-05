@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com ampla margem, chilenos rejeitam nova Constituição](https://www.nexojornal.com.br/extra/2022/09/04/Com-ampla-margem-chilenos-rejeitam-nova-Constitui%C3%A7%C3%A3o)
-- [O que está em jogo nas eleições 2022: mídia e desinformação](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-m%C3%ADdia-e-desinforma%C3%A7%C3%A3o)
-- [Celebrar a Amazônia para conhecer novas formas de sonhar](https://www.nexojornal.com.br/colunistas/2022/Celebrar-a-Amaz%C3%B4nia-para-conhecer-novas-formas-de-sonhar)
-- [O que a Amazônia tem a ver com 5 temas que preocupam brasileiros](https://www.nexojornal.com.br/expresso/2022/09/04/O-que-a-Amaz%C3%B4nia-tem-a-ver-com-5-temas-que-preocupam-brasileiros)
-- [Engajamento jovem: por que a política pode ser melhor](https://www.nexojornal.com.br/expresso/2022/09/04/Engajamento-jovem-por-que-a-pol%C3%ADtica-pode-ser-melhor)
+- [Policial militar que matou campeão mundial de jiu jitsu vira réu](https://www.nexojornal.com.br/extra/2022/09/05/Policial-militar-que-matou-campe%C3%A3o-mundial-de-jiu-jitsu-vira-r%C3%A9u)
+- [O que vem depois da rejeição à nova Constituição no Chile](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-vem-depois-da-rejei%C3%A7%C3%A3o-%C3%A0-nova-Constitui%C3%A7%C3%A3o-no-Chile)
+- [Polícia Civil investiga mortes de 2 indígenas no Maranhão](https://www.nexojornal.com.br/extra/2022/09/05/Pol%C3%ADcia-Civil-investiga-mortes-de-2-ind%C3%ADgenas-no-Maranh%C3%A3o)
+- [Museu Nacional com um toque português](https://www.nexojornal.com.br/externo/2022/09/05/Museu-Nacional-com-um-toque-portugu%C3%AAs)
+- [Liz Truss é escolhida primeira-ministra do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/05/Liz-Truss-%C3%A9-escolhida-primeira-ministra-do-Reino-Unido)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
