@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
-- [Em 2022, quase 40 candidatos vão usar o nome ‘Bolsonaro’ nas urnas](https://www.nexojornal.com.br/grafico/2022/09/05/Em-2022-quase-40-candidatos-v%C3%A3o-usar-o-nome-%E2%80%98Bolsonaro%E2%80%99-nas-urnas)
-- [O que há de mobilização pública para o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-h%C3%A1-de-mobiliza%C3%A7%C3%A3o-p%C3%BAblica-para-o-7-de-setembro-bolsonarista)
-- [‘Esquerda global sai derrotada de votação no Chile’](https://www.nexojornal.com.br/entrevista/2022/09/05/%E2%80%98Esquerda-global-sai-derrotada-de-vota%C3%A7%C3%A3o-no-Chile%E2%80%99)
 - [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
+- [Endividamento bate recorde e atinge 79% das famílias do país](https://www.nexojornal.com.br/extra/2022/09/05/Endividamento-bate-recorde-e-atinge-79-das-fam%C3%ADlias-do-pa%C3%ADs)
+- [Bia Kicis posta vídeo que engana sobre o e-Título](https://www.nexojornal.com.br/expresso/2022/09/05/Bia-Kicis-posta-v%C3%ADdeo-que-engana-sobre-o-e-T%C3%ADtulo)
+- [Quem é Liz Truss, nova líder britânica que se inspira em Thatcher](https://www.nexojornal.com.br/podcast/2022/09/05/Quem-%C3%A9-Liz-Truss-nova-l%C3%ADder-brit%C3%A2nica-que-se-inspira-em-Thatcher)
+- [Terremoto mata mais de 46 pessoas no sudoeste da China](https://www.nexojornal.com.br/extra/2022/09/05/Terremoto-mata-mais-de-46-pessoas-no-sudoeste-da-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
