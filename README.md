@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com ampla margem, chilenos rejeitam nova Constituição](https://www.nexojornal.com.br/extra/2022/09/04/Com-ampla-margem-chilenos-rejeitam-nova-Constitui%C3%A7%C3%A3o)
-- [O que está em jogo nas eleições 2022: mídia e desinformação](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-m%C3%ADdia-e-desinforma%C3%A7%C3%A3o)
-- [Celebrar a Amazônia para conhecer novas formas de sonhar](https://www.nexojornal.com.br/colunistas/2022/Celebrar-a-Amaz%C3%B4nia-para-conhecer-novas-formas-de-sonhar)
-- [O que a Amazônia tem a ver com 5 temas que preocupam brasileiros](https://www.nexojornal.com.br/expresso/2022/09/04/O-que-a-Amaz%C3%B4nia-tem-a-ver-com-5-temas-que-preocupam-brasileiros)
-- [Engajamento jovem: por que a política pode ser melhor](https://www.nexojornal.com.br/expresso/2022/09/04/Engajamento-jovem-por-que-a-pol%C3%ADtica-pode-ser-melhor)
+- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
+- [Endividamento bate recorde e atinge 79% das famílias do país](https://www.nexojornal.com.br/extra/2022/09/05/Endividamento-bate-recorde-e-atinge-79-das-fam%C3%ADlias-do-pa%C3%ADs)
+- [Bia Kicis posta vídeo que engana sobre o e-Título](https://www.nexojornal.com.br/expresso/2022/09/05/Bia-Kicis-posta-v%C3%ADdeo-que-engana-sobre-o-e-T%C3%ADtulo)
+- [Quem é Liz Truss, nova líder britânica que se inspira em Thatcher](https://www.nexojornal.com.br/podcast/2022/09/05/Quem-%C3%A9-Liz-Truss-nova-l%C3%ADder-brit%C3%A2nica-que-se-inspira-em-Thatcher)
+- [Terremoto mata mais de 46 pessoas no sudoeste da China](https://www.nexojornal.com.br/extra/2022/09/05/Terremoto-mata-mais-de-46-pessoas-no-sudoeste-da-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
