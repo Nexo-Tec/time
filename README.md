@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Durag](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/durag/)
 - [@joycemuller](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/joycemuller/)
 - [Txai Suruí: “As terras indígenas protegem a floresta”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/txai-surui-as-terras-indigenas-protegem-a-floresta/)
 - [Fake news da beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/fake-news-da-beleza/)
 - [Mulher Feita e Outros Contos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mulher-feita-e-outros-contos/)
-- [“Politiquês” conta a história de uma crise chamada Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/politiques-conta-a-historia-de-uma-crise-chamada-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
