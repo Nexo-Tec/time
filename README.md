@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Policial militar que matou campeão mundial de jiu jitsu vira réu](https://www.nexojornal.com.br/extra/2022/09/05/Policial-militar-que-matou-campe%C3%A3o-mundial-de-jiu-jitsu-vira-r%C3%A9u)
-- [O que vem depois da rejeição à nova Constituição no Chile](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-vem-depois-da-rejei%C3%A7%C3%A3o-%C3%A0-nova-Constitui%C3%A7%C3%A3o-no-Chile)
-- [Polícia Civil investiga mortes de 2 indígenas no Maranhão](https://www.nexojornal.com.br/extra/2022/09/05/Pol%C3%ADcia-Civil-investiga-mortes-de-2-ind%C3%ADgenas-no-Maranh%C3%A3o)
-- [Museu Nacional com um toque português](https://www.nexojornal.com.br/externo/2022/09/05/Museu-Nacional-com-um-toque-portugu%C3%AAs)
-- [Liz Truss é escolhida primeira-ministra do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/05/Liz-Truss-%C3%A9-escolhida-primeira-ministra-do-Reino-Unido)
+- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
+- [Endividamento bate recorde e atinge 79% das famílias do país](https://www.nexojornal.com.br/extra/2022/09/05/Endividamento-bate-recorde-e-atinge-79-das-fam%C3%ADlias-do-pa%C3%ADs)
+- [Bia Kicis posta vídeo que engana sobre o e-Título](https://www.nexojornal.com.br/expresso/2022/09/05/Bia-Kicis-posta-v%C3%ADdeo-que-engana-sobre-o-e-T%C3%ADtulo)
+- [Quem é Liz Truss, nova líder britânica que se inspira em Thatcher](https://www.nexojornal.com.br/podcast/2022/09/05/Quem-%C3%A9-Liz-Truss-nova-l%C3%ADder-brit%C3%A2nica-que-se-inspira-em-Thatcher)
+- [Terremoto mata mais de 46 pessoas no sudoeste da China](https://www.nexojornal.com.br/extra/2022/09/05/Terremoto-mata-mais-de-46-pessoas-no-sudoeste-da-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
