@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Policial militar que matou campeão mundial de jiu jitsu vira réu](https://www.nexojornal.com.br/extra/2022/09/05/Policial-militar-que-matou-campe%C3%A3o-mundial-de-jiu-jitsu-vira-r%C3%A9u)
-- [O que vem depois da rejeição à nova Constituição no Chile](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-vem-depois-da-rejei%C3%A7%C3%A3o-%C3%A0-nova-Constitui%C3%A7%C3%A3o-no-Chile)
-- [Polícia Civil investiga mortes de 2 indígenas no Maranhão](https://www.nexojornal.com.br/extra/2022/09/05/Pol%C3%ADcia-Civil-investiga-mortes-de-2-ind%C3%ADgenas-no-Maranh%C3%A3o)
-- [Museu Nacional com um toque português](https://www.nexojornal.com.br/externo/2022/09/05/Museu-Nacional-com-um-toque-portugu%C3%AAs)
-- [Liz Truss é escolhida primeira-ministra do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/05/Liz-Truss-%C3%A9-escolhida-primeira-ministra-do-Reino-Unido)
+- [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
+- [Em 2022, quase 40 candidatos vão usar o nome ‘Bolsonaro’ nas urnas](https://www.nexojornal.com.br/grafico/2022/09/05/Em-2022-quase-40-candidatos-v%C3%A3o-usar-o-nome-%E2%80%98Bolsonaro%E2%80%99-nas-urnas)
+- [O que há de mobilização pública para o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-h%C3%A1-de-mobiliza%C3%A7%C3%A3o-p%C3%BAblica-para-o-7-de-setembro-bolsonarista)
+- [‘Esquerda global sai derrotada de votação no Chile’](https://www.nexojornal.com.br/entrevista/2022/09/05/%E2%80%98Esquerda-global-sai-derrotada-de-vota%C3%A7%C3%A3o-no-Chile%E2%80%99)
+- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
