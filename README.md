@@ -126,7 +126,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Enrique Diaz](https://gamarevista.uol.com.br/pessoas/questionario-proust/enrique-diaz/)
-- [Você conhece as mulheres que protagonizaram lutas pela Independência?](https://gamarevista.uol.com.br/pessoas/uma-turma/voce-conhece-as-mulheres-que-protagonizaram-lutas-pela-independencia/)
+- [As mulheres que lutaram pela Independência](https://gamarevista.uol.com.br/pessoas/uma-turma/voce-conhece-as-mulheres-que-protagonizaram-lutas-pela-independencia/)
 - [Al-Ula, lá a Hegra é outra](https://gamarevista.uol.com.br/colunistas/marcello-dantas/al-ula-la-a-hegra-e-outra/)
 - [Durag](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/durag/)
 - [@joycemuller](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/joycemuller/)
