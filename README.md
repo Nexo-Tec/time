@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Apple é proibida de vender iPhone sem carregador no Brasil](https://www.nexojornal.com.br/extra/2022/09/06/Apple-%C3%A9-proibida-de-vender-iPhone-sem-carregador-no-Brasil)
-- [A reedição da ‘ideologia de gênero’ na campanha de 2022](https://www.nexojornal.com.br/expresso/2022/09/06/A-reedi%C3%A7%C3%A3o-da-%E2%80%98ideologia-de-g%C3%AAnero%E2%80%99-na-campanha-de-2022)
-- [Bolsonaro ataca Fachin ao criticar decisões sobre armas](https://www.nexojornal.com.br/extra/2022/09/06/Bolsonaro-ataca-Fachin-ao-criticar-decis%C3%B5es-sobre-armas)
-- [Museu do Ipiranga reabre para o público após 9 anos](https://www.nexojornal.com.br/extra/2022/09/06/Museu-do-Ipiranga-reabre-para-o-p%C3%BAblico-ap%C3%B3s-9-anos)
-- [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
+- [Bicentenário da Independência: o que ficou de fora](https://www.nexojornal.com.br/expresso/2022/09/07/Bicenten%C3%A1rio-da-Independ%C3%AAncia-o-que-ficou-de-fora)
+- [Extrema direita: uma onda reacionária alastrada pelo país](https://www.nexojornal.com.br/podcast/2022/09/07/Extrema-direita-uma-onda-reacion%C3%A1ria-alastrada-pelo-pa%C3%ADs)
+- [Independência do Brasil: uma ruptura a favor do status quo](https://www.nexojornal.com.br/explicado/2022/09/06/Independ%C3%AAncia-do-Brasil-uma-ruptura-a-favor-do-status-quo)
+- [Independência ou morte: os mitos presentes no quadro de Pedro Américo](https://www.nexojornal.com.br/grafico/2022/09/06/Independ%C3%AAncia-ou-morte-os-mitos-presentes-no-quadro-de-Pedro-Am%C3%A9rico)
+- [Todas as cartas de Van Gogh reunidas em um só lugar](https://www.nexojornal.com.br/expresso/2022/09/06/Todas-as-cartas-de-Van-Gogh-reunidas-em-um-s%C3%B3-lugar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
