@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Apple é proibida de vender iPhone sem carregador no Brasil](https://www.nexojornal.com.br/extra/2022/09/06/Apple-%C3%A9-proibida-de-vender-iPhone-sem-carregador-no-Brasil)
-- [A reedição da ‘ideologia de gênero’ na campanha de 2022](https://www.nexojornal.com.br/expresso/2022/09/06/A-reedi%C3%A7%C3%A3o-da-%E2%80%98ideologia-de-g%C3%AAnero%E2%80%99-na-campanha-de-2022)
-- [Bolsonaro ataca Fachin ao criticar decisões sobre armas](https://www.nexojornal.com.br/extra/2022/09/06/Bolsonaro-ataca-Fachin-ao-criticar-decis%C3%B5es-sobre-armas)
-- [Museu do Ipiranga reabre para o público após 9 anos](https://www.nexojornal.com.br/extra/2022/09/06/Museu-do-Ipiranga-reabre-para-o-p%C3%BAblico-ap%C3%B3s-9-anos)
-- [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
+- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
+- [Endividamento bate recorde e atinge 79% das famílias do país](https://www.nexojornal.com.br/extra/2022/09/05/Endividamento-bate-recorde-e-atinge-79-das-fam%C3%ADlias-do-pa%C3%ADs)
+- [Bia Kicis posta vídeo que engana sobre o e-Título](https://www.nexojornal.com.br/expresso/2022/09/05/Bia-Kicis-posta-v%C3%ADdeo-que-engana-sobre-o-e-T%C3%ADtulo)
+- [Quem é Liz Truss, nova líder britânica que se inspira em Thatcher](https://www.nexojornal.com.br/podcast/2022/09/05/Quem-%C3%A9-Liz-Truss-nova-l%C3%ADder-brit%C3%A2nica-que-se-inspira-em-Thatcher)
+- [Terremoto mata mais de 46 pessoas no sudoeste da China](https://www.nexojornal.com.br/extra/2022/09/05/Terremoto-mata-mais-de-46-pessoas-no-sudoeste-da-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
