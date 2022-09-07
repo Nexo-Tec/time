@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
-- [Em 2022, quase 40 candidatos vão usar o nome ‘Bolsonaro’ nas urnas](https://www.nexojornal.com.br/grafico/2022/09/05/Em-2022-quase-40-candidatos-v%C3%A3o-usar-o-nome-%E2%80%98Bolsonaro%E2%80%99-nas-urnas)
-- [O que há de mobilização pública para o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-h%C3%A1-de-mobiliza%C3%A7%C3%A3o-p%C3%BAblica-para-o-7-de-setembro-bolsonarista)
-- [‘Esquerda global sai derrotada de votação no Chile’](https://www.nexojornal.com.br/entrevista/2022/09/05/%E2%80%98Esquerda-global-sai-derrotada-de-vota%C3%A7%C3%A3o-no-Chile%E2%80%99)
-- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
+- [Independência do Brasil: uma ruptura a favor do status quo](https://www.nexojornal.com.br/explicado/2022/09/06/Independ%C3%AAncia-do-Brasil-uma-ruptura-a-favor-do-status-quo)
+- [Independência ou morte: os mitos presentes no quadro de Pedro Américo](https://www.nexojornal.com.br/grafico/2022/09/06/Independ%C3%AAncia-ou-morte-os-mitos-presentes-no-quadro-de-Pedro-Am%C3%A9rico)
+- [Todas as cartas de Van Gogh reunidas em um só lugar](https://www.nexojornal.com.br/expresso/2022/09/06/Todas-as-cartas-de-Van-Gogh-reunidas-em-um-s%C3%B3-lugar)
+- [A relação do brasileiro com a democracia no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/06/A-rela%C3%A7%C3%A3o-do-brasileiro-com-a-democracia-no-governo-Bolsonaro)
+- [Daniel Silveira tem registro de candidatura negado](https://www.nexojornal.com.br/extra/2022/09/06/Daniel-Silveira-tem-registro-de-candidatura-negado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
