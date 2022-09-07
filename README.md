@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Apple é proibida de vender iPhone sem carregador no Brasil](https://www.nexojornal.com.br/extra/2022/09/06/Apple-%C3%A9-proibida-de-vender-iPhone-sem-carregador-no-Brasil)
+- [A reedição da ‘ideologia de gênero’ na campanha de 2022](https://www.nexojornal.com.br/expresso/2022/09/06/A-reedi%C3%A7%C3%A3o-da-%E2%80%98ideologia-de-g%C3%AAnero%E2%80%99-na-campanha-de-2022)
+- [Bolsonaro ataca Fachin ao criticar decisões sobre armas](https://www.nexojornal.com.br/extra/2022/09/06/Bolsonaro-ataca-Fachin-ao-criticar-decis%C3%B5es-sobre-armas)
+- [Museu do Ipiranga reabre para o público após 9 anos](https://www.nexojornal.com.br/extra/2022/09/06/Museu-do-Ipiranga-reabre-para-o-p%C3%BAblico-ap%C3%B3s-9-anos)
 - [Eleições 2022: o que cada cargo em disputa pode fazer pela ciência](https://www.nexojornal.com.br/expresso/2022/09/06/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pela-ci%C3%AAncia)
-- [Em 2022, quase 40 candidatos vão usar o nome ‘Bolsonaro’ nas urnas](https://www.nexojornal.com.br/grafico/2022/09/05/Em-2022-quase-40-candidatos-v%C3%A3o-usar-o-nome-%E2%80%98Bolsonaro%E2%80%99-nas-urnas)
-- [O que há de mobilização pública para o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2022/09/05/O-que-h%C3%A1-de-mobiliza%C3%A7%C3%A3o-p%C3%BAblica-para-o-7-de-setembro-bolsonarista)
-- [‘Esquerda global sai derrotada de votação no Chile’](https://www.nexojornal.com.br/entrevista/2022/09/05/%E2%80%98Esquerda-global-sai-derrotada-de-vota%C3%A7%C3%A3o-no-Chile%E2%80%99)
-- [Lula mantém 44% de intenções de voto. Bolsonaro oscila a 31%](https://www.nexojornal.com.br/extra/2022/09/05/Lula-mant%C3%A9m-44-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-oscila-a-31)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
