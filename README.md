@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Torcedor flamenguista que assediou repórter é preso preventivamente](https://www.nexojornal.com.br/extra/2022/09/08/Torcedor-flamenguista-que-assediou-rep%C3%B3rter-%C3%A9-preso-preventivamente)
-- [Rainha Elizabeth está sob supervisão médica, diz Buckingham](https://www.nexojornal.com.br/extra/2022/09/08/Rainha-Elizabeth-est%C3%A1-sob-supervis%C3%A3o-m%C3%A9dica-diz-Buckingham)
-- [Mais de 90% dos países tiveram queda do IDH](https://www.nexojornal.com.br/extra/2022/09/08/Mais-de-90-dos-pa%C3%ADses-tiveram-queda-do-IDH)
-- [O saldo institucional e eleitoral do 7 de Setembro de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/07/O-saldo-institucional-e-eleitoral-do-7-de-Setembro-de-Bolsonaro)
-- [A quem interessa a política de ódio à ciência e à tecnologia?](https://www.nexojornal.com.br/colunistas/2022/A-quem-interessa-a-pol%C3%ADtica-de-%C3%B3dio-%C3%A0-ci%C3%AAncia-e-%C3%A0-tecnologia)
+- [No Rio, Bolsonaro volta a criticar STF e diz que não é ladrão](https://www.nexojornal.com.br/extra/2022/09/07/No-Rio-Bolsonaro-volta-a-criticar-STF-e-diz-que-n%C3%A3o-%C3%A9-ladr%C3%A3o)
+- [Morre Emanoel Araújo, fundador do Museu Afro Brasil, aos 81 anos](https://www.nexojornal.com.br/extra/2022/09/07/Morre-Emanoel-Ara%C3%BAjo-fundador-do-Museu-Afro-Brasil-aos-81-anos)
+- [Candidatas criticam fala machista de Bolsonaro em Brasília](https://www.nexojornal.com.br/extra/2022/09/07/Candidatas-criticam-fala-machista-de-Bolsonaro-em-Bras%C3%ADlia)
+- [Bolsonaro repete investidas contra o STF no 7 de Setembro](https://www.nexojornal.com.br/extra/2022/09/07/Bolsonaro-repete-investidas-contra-o-STF-no-7-de-Setembro)
+- [Bicentenário da Independência: o que ficou de fora](https://www.nexojornal.com.br/expresso/2022/09/07/Bicenten%C3%A1rio-da-Independ%C3%AAncia-o-que-ficou-de-fora)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
