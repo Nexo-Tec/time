@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bicentenário da Independência: o que ficou de fora](https://www.nexojornal.com.br/expresso/2022/09/07/Bicenten%C3%A1rio-da-Independ%C3%AAncia-o-que-ficou-de-fora)
-- [Extrema direita: uma onda reacionária alastrada pelo país](https://www.nexojornal.com.br/podcast/2022/09/07/Extrema-direita-uma-onda-reacion%C3%A1ria-alastrada-pelo-pa%C3%ADs)
-- [Independência do Brasil: uma ruptura a favor do status quo](https://www.nexojornal.com.br/explicado/2022/09/06/Independ%C3%AAncia-do-Brasil-uma-ruptura-a-favor-do-status-quo)
-- [Independência ou morte: os mitos presentes no quadro de Pedro Américo](https://www.nexojornal.com.br/grafico/2022/09/06/Independ%C3%AAncia-ou-morte-os-mitos-presentes-no-quadro-de-Pedro-Am%C3%A9rico)
-- [Todas as cartas de Van Gogh reunidas em um só lugar](https://www.nexojornal.com.br/expresso/2022/09/06/Todas-as-cartas-de-Van-Gogh-reunidas-em-um-s%C3%B3-lugar)
+- [Torcedor flamenguista que assediou repórter é preso preventivamente](https://www.nexojornal.com.br/extra/2022/09/08/Torcedor-flamenguista-que-assediou-rep%C3%B3rter-%C3%A9-preso-preventivamente)
+- [Rainha Elizabeth está sob supervisão médica, diz Buckingham](https://www.nexojornal.com.br/extra/2022/09/08/Rainha-Elizabeth-est%C3%A1-sob-supervis%C3%A3o-m%C3%A9dica-diz-Buckingham)
+- [Mais de 90% dos países tiveram queda do IDH](https://www.nexojornal.com.br/extra/2022/09/08/Mais-de-90-dos-pa%C3%ADses-tiveram-queda-do-IDH)
+- [O saldo institucional e eleitoral do 7 de Setembro de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/07/O-saldo-institucional-e-eleitoral-do-7-de-Setembro-de-Bolsonaro)
+- [A quem interessa a política de ódio à ciência e à tecnologia?](https://www.nexojornal.com.br/colunistas/2022/A-quem-interessa-a-pol%C3%ADtica-de-%C3%B3dio-%C3%A0-ci%C3%AAncia-e-%C3%A0-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
