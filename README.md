@@ -135,7 +135,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A Atenção Primária do Sistema Único de Saúde, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-Aten%C3%A7%C3%A3o-Prim%C3%A1ria-do-Sistema-%C3%9Anico-de-Sa%C3%BAde-em-6-pontos)
+- []()
 - []()
 - []()
 - []()
