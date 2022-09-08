@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [No Rio, Bolsonaro volta a criticar STF e diz que não é ladrão](https://www.nexojornal.com.br/extra/2022/09/07/No-Rio-Bolsonaro-volta-a-criticar-STF-e-diz-que-n%C3%A3o-%C3%A9-ladr%C3%A3o)
-- [Morre Emanoel Araújo, fundador do Museu Afro Brasil, aos 81 anos](https://www.nexojornal.com.br/extra/2022/09/07/Morre-Emanoel-Ara%C3%BAjo-fundador-do-Museu-Afro-Brasil-aos-81-anos)
-- [Candidatas criticam fala machista de Bolsonaro em Brasília](https://www.nexojornal.com.br/extra/2022/09/07/Candidatas-criticam-fala-machista-de-Bolsonaro-em-Bras%C3%ADlia)
-- [Bolsonaro repete investidas contra o STF no 7 de Setembro](https://www.nexojornal.com.br/extra/2022/09/07/Bolsonaro-repete-investidas-contra-o-STF-no-7-de-Setembro)
 - [Bicentenário da Independência: o que ficou de fora](https://www.nexojornal.com.br/expresso/2022/09/07/Bicenten%C3%A1rio-da-Independ%C3%AAncia-o-que-ficou-de-fora)
+- [Extrema direita: uma onda reacionária alastrada pelo país](https://www.nexojornal.com.br/podcast/2022/09/07/Extrema-direita-uma-onda-reacion%C3%A1ria-alastrada-pelo-pa%C3%ADs)
+- [Independência do Brasil: uma ruptura a favor do status quo](https://www.nexojornal.com.br/explicado/2022/09/06/Independ%C3%AAncia-do-Brasil-uma-ruptura-a-favor-do-status-quo)
+- [Independência ou morte: os mitos presentes no quadro de Pedro Américo](https://www.nexojornal.com.br/grafico/2022/09/06/Independ%C3%AAncia-ou-morte-os-mitos-presentes-no-quadro-de-Pedro-Am%C3%A9rico)
+- [Todas as cartas de Van Gogh reunidas em um só lugar](https://www.nexojornal.com.br/expresso/2022/09/06/Todas-as-cartas-de-Van-Gogh-reunidas-em-um-s%C3%B3-lugar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
