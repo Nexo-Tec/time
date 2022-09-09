@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Rainha dava estabilidade e previsibilidade ao Estado’](https://www.nexojornal.com.br/entrevista/2022/09/08/%E2%80%98Rainha-dava-estabilidade-e-previsibilidade-ao-Estado%E2%80%99)
+- [O papel das cortes supremas na garantia do direito à saúde](https://www.nexojornal.com.br/academico/2022/09/08/O-papel-das-cortes-supremas-na-garantia-do-direito-%C3%A0-sa%C3%BAde)
+- [RJ: ex-governadores Witzel e Garotinho têm candidaturas barradas](https://www.nexojornal.com.br/extra/2022/09/08/RJ-ex-governadores-Witzel-e-Garotinho-t%C3%AAm-candidaturas-barradas)
 - [MEC erra e oferta 257 bolsas do Prouni que não existem](https://www.nexojornal.com.br/extra/2022/09/08/MEC-erra-e-oferta-257-bolsas-do-Prouni-que-n%C3%A3o-existem)
 - [Independência 2022: o evento de Bolsonaro e o evento dos outros](https://www.nexojornal.com.br/podcast/2022/09/08/Independ%C3%AAncia-2022-o-evento-de-Bolsonaro-e-o-evento-dos-outros)
-- [Bolsonaro ignora Orçamento e fala em auxílio de R$ 800](https://www.nexojornal.com.br/extra/2022/09/08/Bolsonaro-ignora-Or%C3%A7amento-e-fala-em-aux%C3%ADlio-de-R-800)
-- [Morte da rainha Elizabeth 2ª repercute ao redor do mundo](https://www.nexojornal.com.br/extra/2022/09/08/Morte-da-rainha-Elizabeth-2%C2%AA-repercute-ao-redor-do-mundo)
-- [Candidato do PMB mente que avião da Chape tinha cocaína](https://www.nexojornal.com.br/expresso/2022/09/08/Candidato-do-PMB-mente-que-avi%C3%A3o-da-Chape-tinha-coca%C3%ADna)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
