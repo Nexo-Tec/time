@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Rainha dava estabilidade e previsibilidade ao Estado’](https://www.nexojornal.com.br/entrevista/2022/09/08/%E2%80%98Rainha-dava-estabilidade-e-previsibilidade-ao-Estado%E2%80%99)
-- [O papel das cortes supremas na garantia do direito à saúde](https://www.nexojornal.com.br/academico/2022/09/08/O-papel-das-cortes-supremas-na-garantia-do-direito-%C3%A0-sa%C3%BAde)
-- [RJ: ex-governadores Witzel e Garotinho têm candidaturas barradas](https://www.nexojornal.com.br/extra/2022/09/08/RJ-ex-governadores-Witzel-e-Garotinho-t%C3%AAm-candidaturas-barradas)
-- [MEC erra e oferta 257 bolsas do Prouni que não existem](https://www.nexojornal.com.br/extra/2022/09/08/MEC-erra-e-oferta-257-bolsas-do-Prouni-que-n%C3%A3o-existem)
-- [Independência 2022: o evento de Bolsonaro e o evento dos outros](https://www.nexojornal.com.br/podcast/2022/09/08/Independ%C3%AAncia-2022-o-evento-de-Bolsonaro-e-o-evento-dos-outros)
+- [Torcedor flamenguista que assediou repórter é preso preventivamente](https://www.nexojornal.com.br/extra/2022/09/08/Torcedor-flamenguista-que-assediou-rep%C3%B3rter-%C3%A9-preso-preventivamente)
+- [Rainha Elizabeth está sob supervisão médica, diz Buckingham](https://www.nexojornal.com.br/extra/2022/09/08/Rainha-Elizabeth-est%C3%A1-sob-supervis%C3%A3o-m%C3%A9dica-diz-Buckingham)
+- [Mais de 90% dos países tiveram queda do IDH](https://www.nexojornal.com.br/extra/2022/09/08/Mais-de-90-dos-pa%C3%ADses-tiveram-queda-do-IDH)
+- [O saldo institucional e eleitoral do 7 de Setembro de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/07/O-saldo-institucional-e-eleitoral-do-7-de-Setembro-de-Bolsonaro)
+- [A quem interessa a política de ódio à ciência e à tecnologia?](https://www.nexojornal.com.br/colunistas/2022/A-quem-interessa-a-pol%C3%ADtica-de-%C3%B3dio-%C3%A0-ci%C3%AAncia-e-%C3%A0-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
