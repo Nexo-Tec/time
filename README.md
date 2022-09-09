@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Torcedor flamenguista que assediou repórter é preso preventivamente](https://www.nexojornal.com.br/extra/2022/09/08/Torcedor-flamenguista-que-assediou-rep%C3%B3rter-%C3%A9-preso-preventivamente)
-- [Rainha Elizabeth está sob supervisão médica, diz Buckingham](https://www.nexojornal.com.br/extra/2022/09/08/Rainha-Elizabeth-est%C3%A1-sob-supervis%C3%A3o-m%C3%A9dica-diz-Buckingham)
-- [Mais de 90% dos países tiveram queda do IDH](https://www.nexojornal.com.br/extra/2022/09/08/Mais-de-90-dos-pa%C3%ADses-tiveram-queda-do-IDH)
-- [O saldo institucional e eleitoral do 7 de Setembro de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/07/O-saldo-institucional-e-eleitoral-do-7-de-Setembro-de-Bolsonaro)
-- [A quem interessa a política de ódio à ciência e à tecnologia?](https://www.nexojornal.com.br/colunistas/2022/A-quem-interessa-a-pol%C3%ADtica-de-%C3%B3dio-%C3%A0-ci%C3%AAncia-e-%C3%A0-tecnologia)
+- [MEC erra e oferta 257 bolsas do Prouni que não existem](https://www.nexojornal.com.br/extra/2022/09/08/MEC-erra-e-oferta-257-bolsas-do-Prouni-que-n%C3%A3o-existem)
+- [Independência 2022: o evento de Bolsonaro e o evento dos outros](https://www.nexojornal.com.br/podcast/2022/09/08/Independ%C3%AAncia-2022-o-evento-de-Bolsonaro-e-o-evento-dos-outros)
+- [Bolsonaro ignora Orçamento e fala em auxílio de R$ 800](https://www.nexojornal.com.br/extra/2022/09/08/Bolsonaro-ignora-Or%C3%A7amento-e-fala-em-aux%C3%ADlio-de-R-800)
+- [Morte da rainha Elizabeth 2ª repercute ao redor do mundo](https://www.nexojornal.com.br/extra/2022/09/08/Morte-da-rainha-Elizabeth-2%C2%AA-repercute-ao-redor-do-mundo)
+- [Candidato do PMB mente que avião da Chape tinha cocaína](https://www.nexojornal.com.br/expresso/2022/09/08/Candidato-do-PMB-mente-que-avi%C3%A3o-da-Chape-tinha-coca%C3%ADna)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
