@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Torcedor flamenguista que assediou repórter é preso preventivamente](https://www.nexojornal.com.br/extra/2022/09/08/Torcedor-flamenguista-que-assediou-rep%C3%B3rter-%C3%A9-preso-preventivamente)
-- [Rainha Elizabeth está sob supervisão médica, diz Buckingham](https://www.nexojornal.com.br/extra/2022/09/08/Rainha-Elizabeth-est%C3%A1-sob-supervis%C3%A3o-m%C3%A9dica-diz-Buckingham)
-- [Mais de 90% dos países tiveram queda do IDH](https://www.nexojornal.com.br/extra/2022/09/08/Mais-de-90-dos-pa%C3%ADses-tiveram-queda-do-IDH)
-- [O saldo institucional e eleitoral do 7 de Setembro de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/07/O-saldo-institucional-e-eleitoral-do-7-de-Setembro-de-Bolsonaro)
-- [A quem interessa a política de ódio à ciência e à tecnologia?](https://www.nexojornal.com.br/colunistas/2022/A-quem-interessa-a-pol%C3%ADtica-de-%C3%B3dio-%C3%A0-ci%C3%AAncia-e-%C3%A0-tecnologia)
+- [Ex-chefe da Polícia Civil e candidato do PL é preso no RJ](https://www.nexojornal.com.br/extra/2022/09/09/Ex-chefe-da-Pol%C3%ADcia-Civil-e-candidato-do-PL-%C3%A9-preso-no-RJ)
+- [Uma leitura histórica do IDH brasileiro desde a década de 1990](https://www.nexojornal.com.br/expresso/2022/09/09/Uma-leitura-hist%C3%B3rica-do-IDH-brasileiro-desde-a-d%C3%A9cada-de-1990)
+- [Preços recuam 0,36% em agosto, novo mês de inflação negativa](https://www.nexojornal.com.br/extra/2022/09/09/Pre%C3%A7os-recuam-036-em-agosto-novo-m%C3%AAs-de-infla%C3%A7%C3%A3o-negativa)
+- [O uso da máquina num novo patamar na disputa pelo Planalto](https://www.nexojornal.com.br/expresso/2022/09/08/O-uso-da-m%C3%A1quina-num-novo-patamar-na-disputa-pelo-Planalto)
+- [‘Rainha dava estabilidade e previsibilidade ao Estado’](https://www.nexojornal.com.br/entrevista/2022/09/08/%E2%80%98Rainha-dava-estabilidade-e-previsibilidade-ao-Estado%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
