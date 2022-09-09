@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ex-chefe da Polícia Civil e candidato do PL é preso no RJ](https://www.nexojornal.com.br/extra/2022/09/09/Ex-chefe-da-Pol%C3%ADcia-Civil-e-candidato-do-PL-%C3%A9-preso-no-RJ)
-- [Uma leitura histórica do IDH brasileiro desde a década de 1990](https://www.nexojornal.com.br/expresso/2022/09/09/Uma-leitura-hist%C3%B3rica-do-IDH-brasileiro-desde-a-d%C3%A9cada-de-1990)
-- [Preços recuam 0,36% em agosto, novo mês de inflação negativa](https://www.nexojornal.com.br/extra/2022/09/09/Pre%C3%A7os-recuam-036-em-agosto-novo-m%C3%AAs-de-infla%C3%A7%C3%A3o-negativa)
-- [O uso da máquina num novo patamar na disputa pelo Planalto](https://www.nexojornal.com.br/expresso/2022/09/08/O-uso-da-m%C3%A1quina-num-novo-patamar-na-disputa-pelo-Planalto)
 - [‘Rainha dava estabilidade e previsibilidade ao Estado’](https://www.nexojornal.com.br/entrevista/2022/09/08/%E2%80%98Rainha-dava-estabilidade-e-previsibilidade-ao-Estado%E2%80%99)
+- [O papel das cortes supremas na garantia do direito à saúde](https://www.nexojornal.com.br/academico/2022/09/08/O-papel-das-cortes-supremas-na-garantia-do-direito-%C3%A0-sa%C3%BAde)
+- [RJ: ex-governadores Witzel e Garotinho têm candidaturas barradas](https://www.nexojornal.com.br/extra/2022/09/08/RJ-ex-governadores-Witzel-e-Garotinho-t%C3%AAm-candidaturas-barradas)
+- [MEC erra e oferta 257 bolsas do Prouni que não existem](https://www.nexojornal.com.br/extra/2022/09/08/MEC-erra-e-oferta-257-bolsas-do-Prouni-que-n%C3%A3o-existem)
+- [Independência 2022: o evento de Bolsonaro e o evento dos outros](https://www.nexojornal.com.br/podcast/2022/09/08/Independ%C3%AAncia-2022-o-evento-de-Bolsonaro-e-o-evento-dos-outros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
