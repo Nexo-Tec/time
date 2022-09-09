@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ao Paraíso](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ao-paraiso/)
 - [Dominando a arte de comprar vinhos](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-comprar-vinho/)
 - [O single “Atopos” de Björk](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-single-atopos-de-bjork/)
 - [A nova historiografia em “Independências”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-historiografia-em-independencias/)
 - [A vida de repórter de Billy Wilder](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-vida-de-reporter-de-billy-wilder/)
-- [Cinema negro em Belo Horizonte](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-negro-em-mg/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
