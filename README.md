@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ex-chefe da Polícia Civil e candidato do PL é preso no RJ](https://www.nexojornal.com.br/extra/2022/09/09/Ex-chefe-da-Pol%C3%ADcia-Civil-e-candidato-do-PL-%C3%A9-preso-no-RJ)
-- [Uma leitura histórica do IDH brasileiro desde a década de 1990](https://www.nexojornal.com.br/expresso/2022/09/09/Uma-leitura-hist%C3%B3rica-do-IDH-brasileiro-desde-a-d%C3%A9cada-de-1990)
-- [Preços recuam 0,36% em agosto, novo mês de inflação negativa](https://www.nexojornal.com.br/extra/2022/09/09/Pre%C3%A7os-recuam-036-em-agosto-novo-m%C3%AAs-de-infla%C3%A7%C3%A3o-negativa)
-- [O uso da máquina num novo patamar na disputa pelo Planalto](https://www.nexojornal.com.br/expresso/2022/09/08/O-uso-da-m%C3%A1quina-num-novo-patamar-na-disputa-pelo-Planalto)
-- [‘Rainha dava estabilidade e previsibilidade ao Estado’](https://www.nexojornal.com.br/entrevista/2022/09/08/%E2%80%98Rainha-dava-estabilidade-e-previsibilidade-ao-Estado%E2%80%99)
+- [Charles 3º é oficialmente proclamado rei do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/10/Charles-3%C2%BA-%C3%A9-oficialmente-proclamado-rei-do-Reino-Unido)
+- [Por que os pombos não merecem má fama, segundo este biólogo](https://www.nexojornal.com.br/externo/2022/09/09/Por-que-os-pombos-n%C3%A3o-merecem-m%C3%A1-fama-segundo-este-bi%C3%B3logo)
+- [Os desafios da digitalização acelerada dos serviços públicos](https://www.nexojornal.com.br/expresso/2022/09/09/Os-desafios-da-digitaliza%C3%A7%C3%A3o-acelerada-dos-servi%C3%A7os-p%C3%BAblicos)
+- [‘País vive autorização para a violência política em outro nível’](https://www.nexojornal.com.br/entrevista/2022/09/09/%E2%80%98Pa%C3%ADs-vive-autoriza%C3%A7%C3%A3o-para-a-viol%C3%AAncia-pol%C3%ADtica-em-outro-n%C3%ADvel%E2%80%99)
+- [Quem é Charles 3º, o rei que viveu 70 anos como príncipe](https://www.nexojornal.com.br/expresso/2022/09/09/Quem-%C3%A9-Charles-3%C2%BA-o-rei-que-viveu-70-anos-como-pr%C3%ADncipe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
