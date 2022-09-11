@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Charles 3º é oficialmente proclamado rei do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/10/Charles-3%C2%BA-%C3%A9-oficialmente-proclamado-rei-do-Reino-Unido)
 - [Por que os pombos não merecem má fama, segundo este biólogo](https://www.nexojornal.com.br/externo/2022/09/09/Por-que-os-pombos-n%C3%A3o-merecem-m%C3%A1-fama-segundo-este-bi%C3%B3logo)
 - [Os desafios da digitalização acelerada dos serviços públicos](https://www.nexojornal.com.br/expresso/2022/09/09/Os-desafios-da-digitaliza%C3%A7%C3%A3o-acelerada-dos-servi%C3%A7os-p%C3%BAblicos)
 - [‘País vive autorização para a violência política em outro nível’](https://www.nexojornal.com.br/entrevista/2022/09/09/%E2%80%98Pa%C3%ADs-vive-autoriza%C3%A7%C3%A3o-para-a-viol%C3%AAncia-pol%C3%ADtica-em-outro-n%C3%ADvel%E2%80%99)
 - [Quem é Charles 3º, o rei que viveu 70 anos como príncipe](https://www.nexojornal.com.br/expresso/2022/09/09/Quem-%C3%A9-Charles-3%C2%BA-o-rei-que-viveu-70-anos-como-pr%C3%ADncipe)
-- [Nova queda no IPCA: o Brasil vive um período de deflação?](https://www.nexojornal.com.br/expresso/2022/09/09/Nova-queda-no-IPCA-o-Brasil-vive-um-per%C3%ADodo-de-defla%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
