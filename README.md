@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros de apoio para formular políticas públicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-apoio-para-formular-pol%C3%ADticas-p%C3%BAblicas)
-- [O que o perfil do consumo das famílias diz sobre a economia](https://www.nexojornal.com.br/expresso/2022/09/10/O-que-o-perfil-do-consumo-das-fam%C3%ADlias-diz-sobre-a-economia)
-- [Violência versus vínculo: as ações na cracolândia](https://www.nexojornal.com.br/ensaio/2022/Viol%C3%AAncia-versus-v%C3%ADnculo-as-a%C3%A7%C3%B5es-na-cracol%C3%A2ndia)
-- [‘Desinformação tem objetivo deliberado de induzir o eleitor a erro’](https://www.nexojornal.com.br/entrevista/2022/09/10/%E2%80%98Desinforma%C3%A7%C3%A3o-tem-objetivo-deliberado-de-induzir-o-eleitor-a-erro%E2%80%99)
-- [Justiça decide soltar militar que matou vizinho no Rio](https://www.nexojornal.com.br/extra/2022/09/10/Justi%C3%A7a-decide-soltar-militar-que-matou-vizinho-no-Rio)
+- [Charles 3º é oficialmente proclamado rei do Reino Unido](https://www.nexojornal.com.br/extra/2022/09/10/Charles-3%C2%BA-%C3%A9-oficialmente-proclamado-rei-do-Reino-Unido)
+- [Por que os pombos não merecem má fama, segundo este biólogo](https://www.nexojornal.com.br/externo/2022/09/09/Por-que-os-pombos-n%C3%A3o-merecem-m%C3%A1-fama-segundo-este-bi%C3%B3logo)
+- [Os desafios da digitalização acelerada dos serviços públicos](https://www.nexojornal.com.br/expresso/2022/09/09/Os-desafios-da-digitaliza%C3%A7%C3%A3o-acelerada-dos-servi%C3%A7os-p%C3%BAblicos)
+- [‘País vive autorização para a violência política em outro nível’](https://www.nexojornal.com.br/entrevista/2022/09/09/%E2%80%98Pa%C3%ADs-vive-autoriza%C3%A7%C3%A3o-para-a-viol%C3%AAncia-pol%C3%ADtica-em-outro-n%C3%ADvel%E2%80%99)
+- [Quem é Charles 3º, o rei que viveu 70 anos como príncipe](https://www.nexojornal.com.br/expresso/2022/09/09/Quem-%C3%A9-Charles-3%C2%BA-o-rei-que-viveu-70-anos-como-pr%C3%ADncipe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
