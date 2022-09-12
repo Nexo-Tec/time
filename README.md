@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ciro Gomes diz que foi ameaçado durante campanha no RS](https://www.nexojornal.com.br/extra/2022/09/11/Ciro-Gomes-diz-que-foi-amea%C3%A7ado-durante-campanha-no-RS)
-- [TSE proíbe Bolsonaro de usar 7 de Setembro em propaganda](https://www.nexojornal.com.br/extra/2022/09/11/TSE-pro%C3%ADbe-Bolsonaro-de-usar-7-de-Setembro-em-propaganda)
-- [5 livros de apoio para formular políticas públicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-apoio-para-formular-pol%C3%ADticas-p%C3%BAblicas)
-- [O que o perfil do consumo das famílias diz sobre a economia](https://www.nexojornal.com.br/expresso/2022/09/10/O-que-o-perfil-do-consumo-das-fam%C3%ADlias-diz-sobre-a-economia)
-- [Violência versus vínculo: as ações na cracolândia](https://www.nexojornal.com.br/ensaio/2022/Viol%C3%AAncia-versus-v%C3%ADnculo-as-a%C3%A7%C3%B5es-na-cracol%C3%A2ndia)
+- [Em cartas, a história de cientistas](https://www.nexojornal.com.br/externo/2022/09/11/Em-cartas-a-hist%C3%B3ria-de-cientistas)
+- [Eleições 2022: o que cada cargo em disputa pode fazer pelo clima](https://www.nexojornal.com.br/expresso/2022/09/11/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pelo-clima)
+- [Minorias articuladas: por que a política pode ser melhor](https://www.nexojornal.com.br/expresso/2022/09/11/Minorias-articuladas-por-que-a-pol%C3%ADtica-pode-ser-melhor)
+- [O que está em jogo nas eleições: ação coletiva, políticas e democracia](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-a%C3%A7%C3%A3o-coletiva-pol%C3%ADticas-e-democracia)
+- [Criança de 11 anos vítima de estupro engravida pela segunda vez](https://www.nexojornal.com.br/extra/2022/09/11/Crian%C3%A7a-de-11-anos-v%C3%ADtima-de-estupro-engravida-pela-segunda-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
