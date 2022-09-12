@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ciro Gomes diz que foi ameaçado durante campanha no RS](https://www.nexojornal.com.br/extra/2022/09/11/Ciro-Gomes-diz-que-foi-amea%C3%A7ado-durante-campanha-no-RS)
-- [TSE proíbe Bolsonaro de usar 7 de Setembro em propaganda](https://www.nexojornal.com.br/extra/2022/09/11/TSE-pro%C3%ADbe-Bolsonaro-de-usar-7-de-Setembro-em-propaganda)
 - [5 livros de apoio para formular políticas públicas](https://www.nexojornal.com.br/estante/favoritos/2022/5-livros-de-apoio-para-formular-pol%C3%ADticas-p%C3%BAblicas)
 - [O que o perfil do consumo das famílias diz sobre a economia](https://www.nexojornal.com.br/expresso/2022/09/10/O-que-o-perfil-do-consumo-das-fam%C3%ADlias-diz-sobre-a-economia)
 - [Violência versus vínculo: as ações na cracolândia](https://www.nexojornal.com.br/ensaio/2022/Viol%C3%AAncia-versus-v%C3%ADnculo-as-a%C3%A7%C3%B5es-na-cracol%C3%A2ndia)
+- [‘Desinformação tem objetivo deliberado de induzir o eleitor a erro’](https://www.nexojornal.com.br/entrevista/2022/09/10/%E2%80%98Desinforma%C3%A7%C3%A3o-tem-objetivo-deliberado-de-induzir-o-eleitor-a-erro%E2%80%99)
+- [Justiça decide soltar militar que matou vizinho no Rio](https://www.nexojornal.com.br/extra/2022/09/10/Justi%C3%A7a-decide-soltar-militar-que-matou-vizinho-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
