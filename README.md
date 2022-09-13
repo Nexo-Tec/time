@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os riscos de uma apuração paralela de votos por militares](https://www.nexojornal.com.br/expresso/2022/09/12/Quais-os-riscos-de-uma-apura%C3%A7%C3%A3o-paralela-de-votos-por-militares)
-- [Como versões piratas de livros impactam escritores e editoras](https://www.nexojornal.com.br/expresso/2022/09/12/Como-vers%C3%B5es-piratas-de-livros-impactam-escritores-e-editoras)
-- [A realeza é a grande inventora do marketing político](https://www.nexojornal.com.br/colunistas/2022/A-realeza-%C3%A9-a-grande-inventora-do-marketing-pol%C3%ADtico)
-- [Ipec: Lula vai a 46% de intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/12/Ipec-Lula-vai-a-46-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [O afastamento e a reaproximação entre Lula e Marina](https://www.nexojornal.com.br/podcast/2022/09/12/O-afastamento-e-a-reaproxima%C3%A7%C3%A3o-entre-Lula-e-Marina)
+- [Marina Silva anuncia apoio a Lula na disputa pelo Planalto](https://www.nexojornal.com.br/extra/2022/09/12/Marina-Silva-anuncia-apoio-a-Lula-na-disputa-pelo-Planalto)
+- [‘Escravidão moderna’ atinge 50 milhões, segundo relatório](https://www.nexojornal.com.br/extra/2022/09/12/%E2%80%98Escravid%C3%A3o-moderna%E2%80%99-atinge-50-milh%C3%B5es-segundo-relat%C3%B3rio)
+- [TSE diz não ter acordo com militares para apurar votos](https://www.nexojornal.com.br/extra/2022/09/12/TSE-diz-n%C3%A3o-ter-acordo-com-militares-para-apurar-votos)
+- [Em cartas, a história de cientistas](https://www.nexojornal.com.br/externo/2022/09/11/Em-cartas-a-hist%C3%B3ria-de-cientistas)
+- [Eleições 2022: o que cada cargo em disputa pode fazer pelo clima](https://www.nexojornal.com.br/expresso/2022/09/11/Elei%C3%A7%C3%B5es-2022-o-que-cada-cargo-em-disputa-pode-fazer-pelo-clima)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
