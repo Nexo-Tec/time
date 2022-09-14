@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual futuro você consegue ver para a Amazônia?](https://www.nexojornal.com.br/video/Qual-futuro-voc%C3%AA-consegue-ver-para-a-Amaz%C3%B4nia)
-- [O que Godard inventou que mudou a forma de fazer e ver cinema](https://www.nexojornal.com.br/expresso/2022/09/13/O-que-Godard-inventou-que-mudou-a-forma-de-fazer-e-ver-cinema)
-- [Três pessoas morrem em ação policial na Vila Kennedy, no Rio](https://www.nexojornal.com.br/extra/2022/09/13/Tr%C3%AAs-pessoas-morrem-em-a%C3%A7%C3%A3o-policial-na-Vila-Kennedy-no-Rio)
-- [Quatorze pessoas doaram mais de R$ 1 milhão para candidatos](https://www.nexojornal.com.br/grafico/2022/09/13/Quatorze-pessoas-doaram-mais-de-R-1-milh%C3%A3o-para-candidatos)
-- [Milícias crescem 387% de 2006 a 2021 no RJ, diz levantamento](https://www.nexojornal.com.br/extra/2022/09/13/Mil%C3%ADcias-crescem-387-de-2006-a-2021-no-RJ-diz-levantamento)
+- [Deputado bolsonarista hostiliza jornalista após debate em SP](https://www.nexojornal.com.br/extra/2022/09/14/Deputado-bolsonarista-hostiliza-jornalista-ap%C3%B3s-debate-em-SP)
+- [Fé no voto: a ação dos líderes evangélicos e a realidade dos fiéis](https://www.nexojornal.com.br/podcast/2022/09/14/F%C3%A9-no-voto-a-a%C3%A7%C3%A3o-dos-l%C3%ADderes-evang%C3%A9licos-e-a-realidade-dos-fi%C3%A9is)
+- [Como a contraofensiva ucraniana muda o cenário da guerra](https://www.nexojornal.com.br/expresso/2022/09/13/Como-a-contraofensiva-ucraniana-muda-o-cen%C3%A1rio-da-guerra)
+- [Como Ciro e Tebet fazem campanha numa eleição cristalizada](https://www.nexojornal.com.br/expresso/2022/09/13/Como-Ciro-e-Tebet-fazem-campanha-numa-elei%C3%A7%C3%A3o-cristalizada)
+- [Por que precisamos votar pela Amazônia e pela justiça climática](https://www.nexojornal.com.br/colunistas/2022/Por-que-precisamos-votar-pela-Amaz%C3%B4nia-e-pela-justi%C3%A7a-clim%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
