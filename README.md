@@ -135,9 +135,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Usos costeiros e oceânicos](https://pp.nexojornal.com.br/glossario/Usos-costeiros-e-oce%C3%A2nicos)
-- []()
-- [A Atenção Primária do Sistema Único de Saúde, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/A-Aten%C3%A7%C3%A3o-Prim%C3%A1ria-do-Sistema-%C3%9Anico-de-Sa%C3%BAde-em-6-pontos)
+- [Existe cristofobia no Brasil?](https://pp.nexojornal.com.br/opiniao/2022/Existe-cristofobia-no-Brasil)
+- [Como se organiza o campo religioso brasileiro](https://pp.nexojornal.com.br/opiniao/2022/Como-se-organiza-o-campo-religioso-brasileiro)
+- [É preciso falar sobre religião para compreender o Brasil](https://pp.nexojornal.com.br/opiniao/2022/%C3%89-preciso-falar-sobre-religi%C3%A3o-para-compreender-o-Brasil)
 - []()
 - []()
 <!-- PP_LIST:END -->
