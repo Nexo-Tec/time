@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual futuro você consegue ver para a Amazônia?](https://www.nexojornal.com.br/video/Qual-futuro-voc%C3%AA-consegue-ver-para-a-Amaz%C3%B4nia)
-- [O que Godard inventou que mudou a forma de fazer e ver cinema](https://www.nexojornal.com.br/expresso/2022/09/13/O-que-Godard-inventou-que-mudou-a-forma-de-fazer-e-ver-cinema)
-- [Três pessoas morrem em ação policial na Vila Kennedy, no Rio](https://www.nexojornal.com.br/extra/2022/09/13/Tr%C3%AAs-pessoas-morrem-em-a%C3%A7%C3%A3o-policial-na-Vila-Kennedy-no-Rio)
-- [Quatorze pessoas doaram mais de R$ 1 milhão para candidatos](https://www.nexojornal.com.br/grafico/2022/09/13/Quatorze-pessoas-doaram-mais-de-R-1-milh%C3%A3o-para-candidatos)
-- [Milícias crescem 387% de 2006 a 2021 no RJ, diz levantamento](https://www.nexojornal.com.br/extra/2022/09/13/Mil%C3%ADcias-crescem-387-de-2006-a-2021-no-RJ-diz-levantamento)
+- [EUA: Justiça condena jovem de 17 anos por matar seu estuprador](https://www.nexojornal.com.br/extra/2022/09/14/EUA-Justi%C3%A7a-condena-jovem-de-17-anos-por-matar-seu-estuprador)
+- [Por que contrapor pesquisa ao ‘Datapovo’ não faz sentido](https://www.nexojornal.com.br/expresso/2022/09/14/Por-que-contrapor-pesquisa-ao-%E2%80%98Datapovo%E2%80%99-n%C3%A3o-faz-sentido)
+- [37,8% dos lares brasileiros com crianças passam fome](https://www.nexojornal.com.br/extra/2022/09/14/378-dos-lares-brasileiros-com-crian%C3%A7as-passam-fome)
+- [Número de mortes por covid é o menor desde o início da pandemia](https://www.nexojornal.com.br/extra/2022/09/14/N%C3%BAmero-de-mortes-por-covid-%C3%A9-o-menor-desde-o-in%C3%ADcio-da-pandemia)
+- [As iniciativas que incentivam as crianças a pensar a cidade](https://www.nexojornal.com.br/expresso/2022/09/14/As-iniciativas-que-incentivam-as-crian%C3%A7as-a-pensar-a-cidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
