@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual futuro você consegue ver para a Amazônia?](https://www.nexojornal.com.br/video/Qual-futuro-voc%C3%AA-consegue-ver-para-a-Amaz%C3%B4nia)
-- [O que Godard inventou que mudou a forma de fazer e ver cinema](https://www.nexojornal.com.br/expresso/2022/09/13/O-que-Godard-inventou-que-mudou-a-forma-de-fazer-e-ver-cinema)
-- [Três pessoas morrem em ação policial na Vila Kennedy, no Rio](https://www.nexojornal.com.br/extra/2022/09/13/Tr%C3%AAs-pessoas-morrem-em-a%C3%A7%C3%A3o-policial-na-Vila-Kennedy-no-Rio)
-- [Quatorze pessoas doaram mais de R$ 1 milhão para candidatos](https://www.nexojornal.com.br/grafico/2022/09/13/Quatorze-pessoas-doaram-mais-de-R-1-milh%C3%A3o-para-candidatos)
-- [Milícias crescem 387% de 2006 a 2021 no RJ, diz levantamento](https://www.nexojornal.com.br/extra/2022/09/13/Mil%C3%ADcias-crescem-387-de-2006-a-2021-no-RJ-diz-levantamento)
+- [Quais os riscos de uma apuração paralela de votos por militares](https://www.nexojornal.com.br/expresso/2022/09/12/Quais-os-riscos-de-uma-apura%C3%A7%C3%A3o-paralela-de-votos-por-militares)
+- [Como versões piratas de livros impactam escritores e editoras](https://www.nexojornal.com.br/expresso/2022/09/12/Como-vers%C3%B5es-piratas-de-livros-impactam-escritores-e-editoras)
+- [A realeza é a grande inventora do marketing político](https://www.nexojornal.com.br/colunistas/2022/A-realeza-%C3%A9-a-grande-inventora-do-marketing-pol%C3%ADtico)
+- [Ipec: Lula vai a 46% de intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/12/Ipec-Lula-vai-a-46-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
+- [O afastamento e a reaproximação entre Lula e Marina](https://www.nexojornal.com.br/podcast/2022/09/12/O-afastamento-e-a-reaproxima%C3%A7%C3%A3o-entre-Lula-e-Marina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
