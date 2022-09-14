@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual futuro você consegue ver para a Amazônia?](https://www.nexojornal.com.br/video/Qual-futuro-voc%C3%AA-consegue-ver-para-a-Amaz%C3%B4nia)
-- [O que Godard inventou que mudou a forma de fazer e ver cinema](https://www.nexojornal.com.br/expresso/2022/09/13/O-que-Godard-inventou-que-mudou-a-forma-de-fazer-e-ver-cinema)
-- [Três pessoas morrem em ação policial na Vila Kennedy, no Rio](https://www.nexojornal.com.br/extra/2022/09/13/Tr%C3%AAs-pessoas-morrem-em-a%C3%A7%C3%A3o-policial-na-Vila-Kennedy-no-Rio)
-- [Quatorze pessoas doaram mais de R$ 1 milhão para candidatos](https://www.nexojornal.com.br/grafico/2022/09/13/Quatorze-pessoas-doaram-mais-de-R-1-milh%C3%A3o-para-candidatos)
-- [Milícias crescem 387% de 2006 a 2021 no RJ, diz levantamento](https://www.nexojornal.com.br/extra/2022/09/13/Mil%C3%ADcias-crescem-387-de-2006-a-2021-no-RJ-diz-levantamento)
+- [A explosão das milícias no Rio de Janeiro que vai às urnas em 2022](https://www.nexojornal.com.br/podcast/2022/09/13/A-explos%C3%A3o-das-mil%C3%ADcias-no-Rio-de-Janeiro-que-vai-%C3%A0s-urnas-em-2022)
+- [Flip homenageia escritora negra pela primeira vez](https://www.nexojornal.com.br/extra/2022/09/13/Flip-homenageia-escritora-negra-pela-primeira-vez)
+- [Vereador é morto a tiros no interior de São Paulo](https://www.nexojornal.com.br/extra/2022/09/13/Vereador-%C3%A9-morto-a-tiros-no-interior-de-S%C3%A3o-Paulo)
+- [Acionistas aprovam venda do Twitter para Elon Musk](https://www.nexojornal.com.br/extra/2022/09/13/Acionistas-aprovam-venda-do-Twitter-para-Elon-Musk)
+- [Governo muda regras para entrada de viajantes no Brasil](https://www.nexojornal.com.br/extra/2022/09/13/Governo-muda-regras-para-entrada-de-viajantes-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
