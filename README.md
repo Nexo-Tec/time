@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os riscos de uma apuração paralela de votos por militares](https://www.nexojornal.com.br/expresso/2022/09/12/Quais-os-riscos-de-uma-apura%C3%A7%C3%A3o-paralela-de-votos-por-militares)
-- [Como versões piratas de livros impactam escritores e editoras](https://www.nexojornal.com.br/expresso/2022/09/12/Como-vers%C3%B5es-piratas-de-livros-impactam-escritores-e-editoras)
-- [A realeza é a grande inventora do marketing político](https://www.nexojornal.com.br/colunistas/2022/A-realeza-%C3%A9-a-grande-inventora-do-marketing-pol%C3%ADtico)
-- [Ipec: Lula vai a 46% de intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/12/Ipec-Lula-vai-a-46-de-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [O afastamento e a reaproximação entre Lula e Marina](https://www.nexojornal.com.br/podcast/2022/09/12/O-afastamento-e-a-reaproxima%C3%A7%C3%A3o-entre-Lula-e-Marina)
+- [A explosão das milícias no Rio de Janeiro que vai às urnas em 2022](https://www.nexojornal.com.br/podcast/2022/09/13/A-explos%C3%A3o-das-mil%C3%ADcias-no-Rio-de-Janeiro-que-vai-%C3%A0s-urnas-em-2022)
+- [Flip homenageia escritora negra pela primeira vez](https://www.nexojornal.com.br/extra/2022/09/13/Flip-homenageia-escritora-negra-pela-primeira-vez)
+- [Vereador é morto a tiros no interior de São Paulo](https://www.nexojornal.com.br/extra/2022/09/13/Vereador-%C3%A9-morto-a-tiros-no-interior-de-S%C3%A3o-Paulo)
+- [Acionistas aprovam venda do Twitter para Elon Musk](https://www.nexojornal.com.br/extra/2022/09/13/Acionistas-aprovam-venda-do-Twitter-para-Elon-Musk)
+- [Governo muda regras para entrada de viajantes no Brasil](https://www.nexojornal.com.br/extra/2022/09/13/Governo-muda-regras-para-entrada-de-viajantes-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
