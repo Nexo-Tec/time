@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA: Justiça condena jovem de 17 anos por matar seu estuprador](https://www.nexojornal.com.br/extra/2022/09/14/EUA-Justi%C3%A7a-condena-jovem-de-17-anos-por-matar-seu-estuprador)
-- [Por que contrapor pesquisa ao ‘Datapovo’ não faz sentido](https://www.nexojornal.com.br/expresso/2022/09/14/Por-que-contrapor-pesquisa-ao-%E2%80%98Datapovo%E2%80%99-n%C3%A3o-faz-sentido)
-- [37,8% dos lares brasileiros com crianças passam fome](https://www.nexojornal.com.br/extra/2022/09/14/378-dos-lares-brasileiros-com-crian%C3%A7as-passam-fome)
-- [Número de mortes por covid é o menor desde o início da pandemia](https://www.nexojornal.com.br/extra/2022/09/14/N%C3%BAmero-de-mortes-por-covid-%C3%A9-o-menor-desde-o-in%C3%ADcio-da-pandemia)
-- [As iniciativas que incentivam as crianças a pensar a cidade](https://www.nexojornal.com.br/expresso/2022/09/14/As-iniciativas-que-incentivam-as-crian%C3%A7as-a-pensar-a-cidade)
+- [Impugnado e proibido de usar redes, Silveira faz campanha na web](https://www.nexojornal.com.br/extra/2022/09/15/Impugnado-e-proibido-de-usar-redes-Silveira-faz-campanha-na-web)
+- [A implementação do Minha Casa Minha Vida em São Paulo](https://www.nexojornal.com.br/academico/2022/09/15/A-implementa%C3%A7%C3%A3o-do-Minha-Casa-Minha-Vida-em-S%C3%A3o-Paulo)
+- [Moraes desbloqueia contas bancárias de empresários](https://www.nexojornal.com.br/extra/2022/09/15/Moraes-desbloqueia-contas-banc%C3%A1rias-de-empres%C3%A1rios)
+- [Como a extrema direita se tornou uma força eleitoral na Suécia](https://www.nexojornal.com.br/expresso/2022/09/15/Como-a-extrema-direita-se-tornou-uma-for%C3%A7a-eleitoral-na-Su%C3%A9cia)
+- [Federer anuncia aposentadoria do tênis profissional](https://www.nexojornal.com.br/extra/2022/09/15/Federer-anuncia-aposentadoria-do-t%C3%AAnis-profissional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
