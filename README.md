@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA: Justiça condena jovem de 17 anos por matar seu estuprador](https://www.nexojornal.com.br/extra/2022/09/14/EUA-Justi%C3%A7a-condena-jovem-de-17-anos-por-matar-seu-estuprador)
-- [Por que contrapor pesquisa ao ‘Datapovo’ não faz sentido](https://www.nexojornal.com.br/expresso/2022/09/14/Por-que-contrapor-pesquisa-ao-%E2%80%98Datapovo%E2%80%99-n%C3%A3o-faz-sentido)
-- [37,8% dos lares brasileiros com crianças passam fome](https://www.nexojornal.com.br/extra/2022/09/14/378-dos-lares-brasileiros-com-crian%C3%A7as-passam-fome)
-- [Número de mortes por covid é o menor desde o início da pandemia](https://www.nexojornal.com.br/extra/2022/09/14/N%C3%BAmero-de-mortes-por-covid-%C3%A9-o-menor-desde-o-in%C3%ADcio-da-pandemia)
-- [As iniciativas que incentivam as crianças a pensar a cidade](https://www.nexojornal.com.br/expresso/2022/09/14/As-iniciativas-que-incentivam-as-crian%C3%A7as-a-pensar-a-cidade)
+- [Como dinheiro virou um problema na campanha de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/14/Como-dinheiro-virou-um-problema-na-campanha-de-Bolsonaro)
+- [Bolsonaro declara ter gasto R$ 30 mil nos atos de 7 de Setembro](https://www.nexojornal.com.br/extra/2022/09/14/Bolsonaro-declara-ter-gasto-R-30-mil-nos-atos-de-7-de-Setembro)
+- [Saiba o que é e como funciona a cláusula de desempenho](https://www.nexojornal.com.br/video/Saiba-o-que-%C3%A9-e-como-funciona-a-cl%C3%A1usula-de-desempenho)
+- [Post de candidato do PL engana sobre imóveis de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/14/Post-de-candidato-do-PL-engana-sobre-im%C3%B3veis-de-Bolsonaro)
+- [Por que os símbolos nacionais importam para uma nação](https://www.nexojornal.com.br/colunistas/2022/Por-que-os-s%C3%ADmbolos-nacionais-importam-para-uma-na%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
