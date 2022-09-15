@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA: Justiça condena jovem de 17 anos por matar seu estuprador](https://www.nexojornal.com.br/extra/2022/09/14/EUA-Justi%C3%A7a-condena-jovem-de-17-anos-por-matar-seu-estuprador)
-- [Por que contrapor pesquisa ao ‘Datapovo’ não faz sentido](https://www.nexojornal.com.br/expresso/2022/09/14/Por-que-contrapor-pesquisa-ao-%E2%80%98Datapovo%E2%80%99-n%C3%A3o-faz-sentido)
-- [37,8% dos lares brasileiros com crianças passam fome](https://www.nexojornal.com.br/extra/2022/09/14/378-dos-lares-brasileiros-com-crian%C3%A7as-passam-fome)
-- [Número de mortes por covid é o menor desde o início da pandemia](https://www.nexojornal.com.br/extra/2022/09/14/N%C3%BAmero-de-mortes-por-covid-%C3%A9-o-menor-desde-o-in%C3%ADcio-da-pandemia)
-- [As iniciativas que incentivam as crianças a pensar a cidade](https://www.nexojornal.com.br/expresso/2022/09/14/As-iniciativas-que-incentivam-as-crian%C3%A7as-a-pensar-a-cidade)
+- [Deputado bolsonarista hostiliza jornalista após debate em SP](https://www.nexojornal.com.br/extra/2022/09/14/Deputado-bolsonarista-hostiliza-jornalista-ap%C3%B3s-debate-em-SP)
+- [Fé no voto: a ação dos líderes evangélicos e a realidade dos fiéis](https://www.nexojornal.com.br/podcast/2022/09/14/F%C3%A9-no-voto-a-a%C3%A7%C3%A3o-dos-l%C3%ADderes-evang%C3%A9licos-e-a-realidade-dos-fi%C3%A9is)
+- [Como a contraofensiva ucraniana muda o cenário da guerra](https://www.nexojornal.com.br/expresso/2022/09/13/Como-a-contraofensiva-ucraniana-muda-o-cen%C3%A1rio-da-guerra)
+- [Como Ciro e Tebet fazem campanha numa eleição cristalizada](https://www.nexojornal.com.br/expresso/2022/09/13/Como-Ciro-e-Tebet-fazem-campanha-numa-elei%C3%A7%C3%A3o-cristalizada)
+- [Por que precisamos votar pela Amazônia e pela justiça climática](https://www.nexojornal.com.br/colunistas/2022/Por-que-precisamos-votar-pela-Amaz%C3%B4nia-e-pela-justi%C3%A7a-clim%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
