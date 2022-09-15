@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Impugnado e proibido de usar redes, Silveira faz campanha na web](https://www.nexojornal.com.br/extra/2022/09/15/Impugnado-e-proibido-de-usar-redes-Silveira-faz-campanha-na-web)
-- [A implementação do Minha Casa Minha Vida em São Paulo](https://www.nexojornal.com.br/academico/2022/09/15/A-implementa%C3%A7%C3%A3o-do-Minha-Casa-Minha-Vida-em-S%C3%A3o-Paulo)
 - [Moraes desbloqueia contas bancárias de empresários](https://www.nexojornal.com.br/extra/2022/09/15/Moraes-desbloqueia-contas-banc%C3%A1rias-de-empres%C3%A1rios)
 - [Como a extrema direita se tornou uma força eleitoral na Suécia](https://www.nexojornal.com.br/expresso/2022/09/15/Como-a-extrema-direita-se-tornou-uma-for%C3%A7a-eleitoral-na-Su%C3%A9cia)
 - [Federer anuncia aposentadoria do tênis profissional](https://www.nexojornal.com.br/extra/2022/09/15/Federer-anuncia-aposentadoria-do-t%C3%AAnis-profissional)
+- [85% da população concorda com aumento de imposto dos ricos](https://www.nexojornal.com.br/extra/2022/09/15/85-da-popula%C3%A7%C3%A3o-concorda-com-aumento-de-imposto-dos-ricos)
+- [Como o medo permeia a democracia no Brasil, segundo este estudo](https://www.nexojornal.com.br/expresso/2022/09/15/Como-o-medo-permeia-a-democracia-no-Brasil-segundo-este-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
