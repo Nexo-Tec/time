@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Ynaê Lopes dos Santos: ‘O racismo científico opera até hoje no Brasil’](https://gamarevista.uol.com.br/formato/conversas/ynae-lopes-dos-santos-racismo-independencia-brasil/)
-- [Como se destacar no LinkedIn](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-se-destacar-no-linkedin/)
-- [Este mundo precisa de mais poesia](https://gamarevista.uol.com.br/cultura/este-mundo-precisa-de-mais-poesia/)
-- [@eddysoaress](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/eddysoaress/)
-- [Bruno Colontoni: ‘A poluição sonora afeta muito a qualidade de vida’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruno-colontoni-silencio-para-combater-o-estresse/)
+- [O melhor do teatro Íbero-Americano em Santos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-melhor-do-teatro-ibero-americano-em-santos/)
+- [A ocupação da Amazônia pela BR-163](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-ocupacao-da-amazonia-pela-br-163/)
+- [‘Música Boa Ao Vivo’ com Gloria Groove](https://gamarevista.uol.com.br/achamos-que-vale/assistir/gloria-groove-agora-na-tv/)
+- [Um mingau dourado e cheio de especiarias](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-mingau-dourado-e-cheio-de-especiarias/)
+- [Fotografia e urbanização no começo do século 20 no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/fotografia-e-urbanizacao-no-comeco-do-seculo-20-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
