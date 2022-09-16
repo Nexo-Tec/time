@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Impugnado e proibido de usar redes, Silveira faz campanha na web](https://www.nexojornal.com.br/extra/2022/09/15/Impugnado-e-proibido-de-usar-redes-Silveira-faz-campanha-na-web)
-- [A implementação do Minha Casa Minha Vida em São Paulo](https://www.nexojornal.com.br/academico/2022/09/15/A-implementa%C3%A7%C3%A3o-do-Minha-Casa-Minha-Vida-em-S%C3%A3o-Paulo)
-- [Moraes desbloqueia contas bancárias de empresários](https://www.nexojornal.com.br/extra/2022/09/15/Moraes-desbloqueia-contas-banc%C3%A1rias-de-empres%C3%A1rios)
-- [Como a extrema direita se tornou uma força eleitoral na Suécia](https://www.nexojornal.com.br/expresso/2022/09/15/Como-a-extrema-direita-se-tornou-uma-for%C3%A7a-eleitoral-na-Su%C3%A9cia)
-- [Federer anuncia aposentadoria do tênis profissional](https://www.nexojornal.com.br/extra/2022/09/15/Federer-anuncia-aposentadoria-do-t%C3%AAnis-profissional)
+- [Como era o tênis antes de Roger Federer. E como ficou depois](https://www.nexojornal.com.br/expresso/2022/09/15/Como-era-o-t%C3%AAnis-antes-de-Roger-Federer.-E-como-ficou-depois)
+- [Datafolha: intenção de voto em Lula e Bolsonaro fica estável](https://www.nexojornal.com.br/extra/2022/09/15/Datafolha-inten%C3%A7%C3%A3o-de-voto-em-Lula-e-Bolsonaro-fica-est%C3%A1vel)
+- [Nova propaganda eleitoral com Michelle Bolsonaro é suspensa](https://www.nexojornal.com.br/extra/2022/09/15/Nova-propaganda-eleitoral-com-Michelle-Bolsonaro-%C3%A9-suspensa)
+- [Fim da pandemia? As boas notícias e os cuidados necessários](https://www.nexojornal.com.br/podcast/2022/09/15/Fim-da-pandemia-As-boas-not%C3%ADcias-e-os-cuidados-necess%C3%A1rios)
+- [José Dumont é preso por suspeita de posse de pornografia infantil](https://www.nexojornal.com.br/extra/2022/09/15/Jos%C3%A9-Dumont-%C3%A9-preso-por-suspeita-de-posse-de-pornografia-infantil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
