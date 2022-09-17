@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que jovens da Fundação Casa têm a dizer para o governo](https://www.nexojornal.com.br/expresso/2022/09/16/O-que-jovens-da-Funda%C3%A7%C3%A3o-Casa-t%C3%AAm-a-dizer-para-o-governo)
-- [Caso Kirchner: Justiça formaliza prisão de brasileiro e namorada](https://www.nexojornal.com.br/extra/2022/09/16/Caso-Kirchner-Justi%C3%A7a-formaliza-pris%C3%A3o-de-brasileiro-e-namorada)
-- [Delator diz que Castro recebeu propina como vice-governador do Rio](https://www.nexojornal.com.br/extra/2022/09/16/Delator-diz-que-Castro-recebeu-propina-como-vice-governador-do-Rio)
-- [Como era o tênis antes de Roger Federer. E como ficou depois](https://www.nexojornal.com.br/expresso/2022/09/15/Como-era-o-t%C3%AAnis-antes-de-Roger-Federer.-E-como-ficou-depois)
-- [Datafolha: intenção de voto em Lula e Bolsonaro fica estável](https://www.nexojornal.com.br/extra/2022/09/15/Datafolha-inten%C3%A7%C3%A3o-de-voto-em-Lula-e-Bolsonaro-fica-est%C3%A1vel)
+- [Exército não vai fiscalizar armas importadas até 2023](https://www.nexojornal.com.br/extra/2022/09/17/Ex%C3%A9rcito-n%C3%A3o-vai-fiscalizar-armas-importadas-at%C3%A9-2023)
+- [Anvisa aprova vacina Pfizer para crianças de 6 meses a 4 anos](https://www.nexojornal.com.br/extra/2022/09/17/Anvisa-aprova-vacina-Pfizer-para-crian%C3%A7as-de-6-meses-a-4-anos)
+- [‘É preciso equilibrio entre política e técnica na máquina pública’](https://www.nexojornal.com.br/entrevista/2022/09/16/%E2%80%98%C3%89-preciso-equilibrio-entre-pol%C3%ADtica-e-t%C3%A9cnica-na-m%C3%A1quina-p%C3%BAblica%E2%80%99)
+- [Como as pesquisas afetam apoios regionais de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/16/Como-as-pesquisas-afetam-apoios-regionais-de-Lula-e-Bolsonaro)
+- [Como nômades digitais ameaçam moradores de cidades turísticas](https://www.nexojornal.com.br/externo/2022/09/16/Como-n%C3%B4mades-digitais-amea%C3%A7am-moradores-de-cidades-tur%C3%ADsticas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
