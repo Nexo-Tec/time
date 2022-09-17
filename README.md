@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que jovens da Fundação Casa têm a dizer para o governo](https://www.nexojornal.com.br/expresso/2022/09/16/O-que-jovens-da-Funda%C3%A7%C3%A3o-Casa-t%C3%AAm-a-dizer-para-o-governo)
-- [Caso Kirchner: Justiça formaliza prisão de brasileiro e namorada](https://www.nexojornal.com.br/extra/2022/09/16/Caso-Kirchner-Justi%C3%A7a-formaliza-pris%C3%A3o-de-brasileiro-e-namorada)
-- [Delator diz que Castro recebeu propina como vice-governador do Rio](https://www.nexojornal.com.br/extra/2022/09/16/Delator-diz-que-Castro-recebeu-propina-como-vice-governador-do-Rio)
-- [Como era o tênis antes de Roger Federer. E como ficou depois](https://www.nexojornal.com.br/expresso/2022/09/15/Como-era-o-t%C3%AAnis-antes-de-Roger-Federer.-E-como-ficou-depois)
-- [Datafolha: intenção de voto em Lula e Bolsonaro fica estável](https://www.nexojornal.com.br/extra/2022/09/15/Datafolha-inten%C3%A7%C3%A3o-de-voto-em-Lula-e-Bolsonaro-fica-est%C3%A1vel)
+- [‘É preciso equilibrio entre política e técnica na máquina pública’](https://www.nexojornal.com.br/entrevista/2022/09/16/%E2%80%98%C3%89-preciso-equilibrio-entre-pol%C3%ADtica-e-t%C3%A9cnica-na-m%C3%A1quina-p%C3%BAblica%E2%80%99)
+- [Como as pesquisas afetam apoios regionais de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/16/Como-as-pesquisas-afetam-apoios-regionais-de-Lula-e-Bolsonaro)
+- [Como nômades digitais ameaçam moradores de cidades turísticas](https://www.nexojornal.com.br/externo/2022/09/16/Como-n%C3%B4mades-digitais-amea%C3%A7am-moradores-de-cidades-tur%C3%ADsticas)
+- [Uma proposta transformadora para equidade racial](https://www.nexojornal.com.br/ensaio/2022/09/16/Uma-proposta-transformadora-para-equidade-racial)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/16/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
