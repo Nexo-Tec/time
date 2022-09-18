@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
-- [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
-- [Iranianos protestam após morte de jovem presa pela polícia](https://www.nexojornal.com.br/extra/2022/09/17/Iranianos-protestam-ap%C3%B3s-morte-de-jovem-presa-pela-pol%C3%ADcia)
-- [Como a filantropia pode contribuir para a transformação social](https://www.nexojornal.com.br/ensaio/2022/09/17/Como-a-filantropia-pode-contribuir-para-a-transforma%C3%A7%C3%A3o-social)
-- [Cautela na guerra, boom nos negócios: a aliança sino-russa](https://www.nexojornal.com.br/expresso/2022/09/17/Cautela-na-guerra-boom-nos-neg%C3%B3cios-a-alian%C3%A7a-sino-russa)
+- [Moro posta vídeo da campanha de Bolsonaro e ataca Lula](https://www.nexojornal.com.br/extra/2022/09/17/Moro-posta-v%C3%ADdeo-da-campanha-de-Bolsonaro-e-ataca-Lula)
+- [Exército não vai fiscalizar armas importadas até 2023](https://www.nexojornal.com.br/extra/2022/09/17/Ex%C3%A9rcito-n%C3%A3o-vai-fiscalizar-armas-importadas-at%C3%A9-2023)
+- [Anvisa aprova vacina Pfizer para crianças de 6 meses a 4 anos](https://www.nexojornal.com.br/extra/2022/09/17/Anvisa-aprova-vacina-Pfizer-para-crian%C3%A7as-de-6-meses-a-4-anos)
+- [‘É preciso equilibrio entre política e técnica na máquina pública’](https://www.nexojornal.com.br/entrevista/2022/09/16/%E2%80%98%C3%89-preciso-equilibrio-entre-pol%C3%ADtica-e-t%C3%A9cnica-na-m%C3%A1quina-p%C3%BAblica%E2%80%99)
+- [Como as pesquisas afetam apoios regionais de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/16/Como-as-pesquisas-afetam-apoios-regionais-de-Lula-e-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
