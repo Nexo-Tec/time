@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moro posta vídeo da campanha de Bolsonaro e ataca Lula](https://www.nexojornal.com.br/extra/2022/09/17/Moro-posta-v%C3%ADdeo-da-campanha-de-Bolsonaro-e-ataca-Lula)
-- [Exército não vai fiscalizar armas importadas até 2023](https://www.nexojornal.com.br/extra/2022/09/17/Ex%C3%A9rcito-n%C3%A3o-vai-fiscalizar-armas-importadas-at%C3%A9-2023)
-- [Anvisa aprova vacina Pfizer para crianças de 6 meses a 4 anos](https://www.nexojornal.com.br/extra/2022/09/17/Anvisa-aprova-vacina-Pfizer-para-crian%C3%A7as-de-6-meses-a-4-anos)
-- [‘É preciso equilibrio entre política e técnica na máquina pública’](https://www.nexojornal.com.br/entrevista/2022/09/16/%E2%80%98%C3%89-preciso-equilibrio-entre-pol%C3%ADtica-e-t%C3%A9cnica-na-m%C3%A1quina-p%C3%BAblica%E2%80%99)
-- [Como as pesquisas afetam apoios regionais de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/16/Como-as-pesquisas-afetam-apoios-regionais-de-Lula-e-Bolsonaro)
+- [Ídolo do esporte, lutador José Aldo se aposenta do MMA](https://www.nexojornal.com.br/extra/2022/09/18/%C3%8Ddolo-do-esporte-lutador-Jos%C3%A9-Aldo-se-aposenta-do-MMA)
+- [Em viagem a Londres, Bolsonaro faz discurso eleitoral](https://www.nexojornal.com.br/extra/2022/09/18/Em-viagem-a-Londres-Bolsonaro-faz-discurso-eleitoral)
+- [Equipe da PF com Lula detém opositor do petista, diz jornal](https://www.nexojornal.com.br/extra/2022/09/18/Equipe-da-PF-com-Lula-det%C3%A9m-opositor-do-petista-diz-jornal)
+- [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
+- [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
