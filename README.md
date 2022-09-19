@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em viagem a Londres, Bolsonaro faz discurso eleitoral](https://www.nexojornal.com.br/extra/2022/09/18/Em-viagem-a-Londres-Bolsonaro-faz-discurso-eleitoral)
-- [Equipe da PF com Lula detém opositor do petista, diz jornal](https://www.nexojornal.com.br/extra/2022/09/18/Equipe-da-PF-com-Lula-det%C3%A9m-opositor-do-petista-diz-jornal)
 - [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
 - [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
 - [Iranianos protestam após morte de jovem presa pela polícia](https://www.nexojornal.com.br/extra/2022/09/17/Iranianos-protestam-ap%C3%B3s-morte-de-jovem-presa-pela-pol%C3%ADcia)
+- [Como a filantropia pode contribuir para a transformação social](https://www.nexojornal.com.br/ensaio/2022/09/17/Como-a-filantropia-pode-contribuir-para-a-transforma%C3%A7%C3%A3o-social)
+- [Cautela na guerra, boom nos negócios: a aliança sino-russa](https://www.nexojornal.com.br/expresso/2022/09/17/Cautela-na-guerra-boom-nos-neg%C3%B3cios-a-alian%C3%A7a-sino-russa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
