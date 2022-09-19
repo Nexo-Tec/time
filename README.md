@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
-- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
-- [Evento reúne 8 ex-presidenciáveis em apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/19/Evento-re%C3%BAne-8-ex-presidenci%C3%A1veis-em-apoio-a-Lula-no-1%C2%BA-turno)
-- [Quais são os impactos do sequestro e vazamento de ‘GTA 6’](https://www.nexojornal.com.br/expresso/2022/09/19/Quais-s%C3%A3o-os-impactos-do-sequestro-e-vazamento-de-%E2%80%98GTA-6%E2%80%99)
-- [Corpo da rainha Elizabeth 2ª é levado para sepultamento](https://www.nexojornal.com.br/extra/2022/09/19/Corpo-da-rainha-Elizabeth-2%C2%AA-%C3%A9-levado-para-sepultamento)
+- [Vinicius Júnior dança contra o racismo, em vitória do Real Madrid](https://www.nexojornal.com.br/extra/2022/09/18/Vinicius-J%C3%BAnior-dan%C3%A7a-contra-o-racismo-em-vit%C3%B3ria-do-Real-Madrid)
+- [O debate do voto útil na reta final da campanha presidencial de 2022](https://www.nexojornal.com.br/expresso/2022/09/18/O-debate-do-voto-%C3%BAtil-na-reta-final-da-campanha-presidencial-de-2022)
+- [TSE autoriza envio de militares a 11 estados no 1º turno](https://www.nexojornal.com.br/extra/2022/09/18/TSE-autoriza-envio-de-militares-a-11-estados-no-1%C2%BA-turno)
+- [O que está em jogo nas eleições 2022: meio ambiente](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-meio-ambiente)
+- [‘O debate público sobre o Auxílio Brasil virou um leilão’](https://www.nexojornal.com.br/entrevista/2022/09/18/%E2%80%98O-debate-p%C3%BAblico-sobre-o-Aux%C3%ADlio-Brasil-virou-um-leil%C3%A3o%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
