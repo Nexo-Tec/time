@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Só há tempo pra luz &amp; amor](https://gamarevista.uol.com.br/colunistas/fernando-luna/so-ha-tempo-pra-luz-amor/)
 - [@valenbandeira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/valenbandeira/)
 - [Mayumi Sato:  “Existe compromisso no relacionamento aberto”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mayumi-sato-existe-compromisso-no-relacionamento-aberto/)
 - [O Fato e a Coisa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-fato-e-a-coisa/)
 - [Linha de crescimento](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/linha-de-crescimento/)
-- [O melhor do teatro Íbero-Americano em Santos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-melhor-do-teatro-ibero-americano-em-santos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
