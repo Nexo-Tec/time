@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ídolo do esporte, lutador José Aldo se aposenta do MMA](https://www.nexojornal.com.br/extra/2022/09/18/%C3%8Ddolo-do-esporte-lutador-Jos%C3%A9-Aldo-se-aposenta-do-MMA)
-- [Em viagem a Londres, Bolsonaro faz discurso eleitoral](https://www.nexojornal.com.br/extra/2022/09/18/Em-viagem-a-Londres-Bolsonaro-faz-discurso-eleitoral)
-- [Equipe da PF com Lula detém opositor do petista, diz jornal](https://www.nexojornal.com.br/extra/2022/09/18/Equipe-da-PF-com-Lula-det%C3%A9m-opositor-do-petista-diz-jornal)
-- [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
-- [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
+- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
+- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
+- [Evento reúne 8 ex-presidenciáveis em apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/19/Evento-re%C3%BAne-8-ex-presidenci%C3%A1veis-em-apoio-a-Lula-no-1%C2%BA-turno)
+- [Quais são os impactos do sequestro e vazamento de ‘GTA 6’](https://www.nexojornal.com.br/expresso/2022/09/19/Quais-s%C3%A3o-os-impactos-do-sequestro-e-vazamento-de-%E2%80%98GTA-6%E2%80%99)
+- [Corpo da rainha Elizabeth 2ª é levado para sepultamento](https://www.nexojornal.com.br/extra/2022/09/19/Corpo-da-rainha-Elizabeth-2%C2%AA-%C3%A9-levado-para-sepultamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
