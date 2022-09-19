@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
-- [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
-- [Iranianos protestam após morte de jovem presa pela polícia](https://www.nexojornal.com.br/extra/2022/09/17/Iranianos-protestam-ap%C3%B3s-morte-de-jovem-presa-pela-pol%C3%ADcia)
-- [Como a filantropia pode contribuir para a transformação social](https://www.nexojornal.com.br/ensaio/2022/09/17/Como-a-filantropia-pode-contribuir-para-a-transforma%C3%A7%C3%A3o-social)
-- [Cautela na guerra, boom nos negócios: a aliança sino-russa](https://www.nexojornal.com.br/expresso/2022/09/17/Cautela-na-guerra-boom-nos-neg%C3%B3cios-a-alian%C3%A7a-sino-russa)
+- [Vinicius Júnior dança contra o racismo, em vitória do Real Madrid](https://www.nexojornal.com.br/extra/2022/09/18/Vinicius-J%C3%BAnior-dan%C3%A7a-contra-o-racismo-em-vit%C3%B3ria-do-Real-Madrid)
+- [O debate do voto útil na reta final da campanha presidencial de 2022](https://www.nexojornal.com.br/expresso/2022/09/18/O-debate-do-voto-%C3%BAtil-na-reta-final-da-campanha-presidencial-de-2022)
+- [TSE autoriza envio de militares a 11 estados no 1º turno](https://www.nexojornal.com.br/extra/2022/09/18/TSE-autoriza-envio-de-militares-a-11-estados-no-1%C2%BA-turno)
+- [O que está em jogo nas eleições 2022: meio ambiente](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-meio-ambiente)
+- [‘O debate público sobre o Auxílio Brasil virou um leilão’](https://www.nexojornal.com.br/entrevista/2022/09/18/%E2%80%98O-debate-p%C3%BAblico-sobre-o-Aux%C3%ADlio-Brasil-virou-um-leil%C3%A3o%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
