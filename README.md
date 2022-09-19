@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ídolo do esporte, lutador José Aldo se aposenta do MMA](https://www.nexojornal.com.br/extra/2022/09/18/%C3%8Ddolo-do-esporte-lutador-Jos%C3%A9-Aldo-se-aposenta-do-MMA)
 - [Em viagem a Londres, Bolsonaro faz discurso eleitoral](https://www.nexojornal.com.br/extra/2022/09/18/Em-viagem-a-Londres-Bolsonaro-faz-discurso-eleitoral)
 - [Equipe da PF com Lula detém opositor do petista, diz jornal](https://www.nexojornal.com.br/extra/2022/09/18/Equipe-da-PF-com-Lula-det%C3%A9m-opositor-do-petista-diz-jornal)
 - [Tempestade ‘sem precedentes’: Japão faz evacuação em massa](https://www.nexojornal.com.br/extra/2022/09/17/Tempestade-%E2%80%98sem-precedentes%E2%80%99-Jap%C3%A3o-faz-evacua%C3%A7%C3%A3o-em-massa)
 - [‘Reinventamos práticas autoritárias na lógica do presente’](https://www.nexojornal.com.br/entrevista/2022/09/17/%E2%80%98Reinventamos-pr%C3%A1ticas-autorit%C3%A1rias-na-l%C3%B3gica-do-presente%E2%80%99)
-- [Iranianos protestam após morte de jovem presa pela polícia](https://www.nexojornal.com.br/extra/2022/09/17/Iranianos-protestam-ap%C3%B3s-morte-de-jovem-presa-pela-pol%C3%ADcia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
