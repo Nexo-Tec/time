@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vinicius Júnior dança contra o racismo, em vitória do Real Madrid](https://www.nexojornal.com.br/extra/2022/09/18/Vinicius-J%C3%BAnior-dan%C3%A7a-contra-o-racismo-em-vit%C3%B3ria-do-Real-Madrid)
-- [O debate do voto útil na reta final da campanha presidencial de 2022](https://www.nexojornal.com.br/expresso/2022/09/18/O-debate-do-voto-%C3%BAtil-na-reta-final-da-campanha-presidencial-de-2022)
-- [TSE autoriza envio de militares a 11 estados no 1º turno](https://www.nexojornal.com.br/extra/2022/09/18/TSE-autoriza-envio-de-militares-a-11-estados-no-1%C2%BA-turno)
-- [O que está em jogo nas eleições 2022: meio ambiente](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-meio-ambiente)
-- [‘O debate público sobre o Auxílio Brasil virou um leilão’](https://www.nexojornal.com.br/entrevista/2022/09/18/%E2%80%98O-debate-p%C3%BAblico-sobre-o-Aux%C3%ADlio-Brasil-virou-um-leil%C3%A3o%E2%80%99)
+- [‘Jogadores de futebol estão quebrando o silenciamento’](https://www.nexojornal.com.br/entrevista/2022/09/19/%E2%80%98Jogadores-de-futebol-est%C3%A3o-quebrando-o-silenciamento%E2%80%99)
+- [Bolsonaro se irrita e abandona entrevista em Londres](https://www.nexojornal.com.br/extra/2022/09/19/Bolsonaro-se-irrita-e-abandona-entrevista-em-Londres)
+- [Espanhol pede desculpa a Vinícius Júnior, mas nega racismo](https://www.nexojornal.com.br/extra/2022/09/19/Espanhol-pede-desculpa-a-Vin%C3%ADcius-J%C3%BAnior-mas-nega-racismo)
+- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
+- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
