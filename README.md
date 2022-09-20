@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Jogadores de futebol estão quebrando o silenciamento’](https://www.nexojornal.com.br/entrevista/2022/09/19/%E2%80%98Jogadores-de-futebol-est%C3%A3o-quebrando-o-silenciamento%E2%80%99)
-- [Bolsonaro se irrita e abandona entrevista em Londres](https://www.nexojornal.com.br/extra/2022/09/19/Bolsonaro-se-irrita-e-abandona-entrevista-em-Londres)
-- [Espanhol pede desculpa a Vinícius Júnior, mas nega racismo](https://www.nexojornal.com.br/extra/2022/09/19/Espanhol-pede-desculpa-a-Vin%C3%ADcius-J%C3%BAnior-mas-nega-racismo)
 - [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
 - [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
+- [Evento reúne 8 ex-presidenciáveis em apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/19/Evento-re%C3%BAne-8-ex-presidenci%C3%A1veis-em-apoio-a-Lula-no-1%C2%BA-turno)
+- [Quais são os impactos do sequestro e vazamento de ‘GTA 6’](https://www.nexojornal.com.br/expresso/2022/09/19/Quais-s%C3%A3o-os-impactos-do-sequestro-e-vazamento-de-%E2%80%98GTA-6%E2%80%99)
+- [Corpo da rainha Elizabeth 2ª é levado para sepultamento](https://www.nexojornal.com.br/extra/2022/09/19/Corpo-da-rainha-Elizabeth-2%C2%AA-%C3%A9-levado-para-sepultamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
