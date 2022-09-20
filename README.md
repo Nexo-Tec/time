@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
-- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
-- [Evento reúne 8 ex-presidenciáveis em apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/19/Evento-re%C3%BAne-8-ex-presidenci%C3%A1veis-em-apoio-a-Lula-no-1%C2%BA-turno)
-- [Quais são os impactos do sequestro e vazamento de ‘GTA 6’](https://www.nexojornal.com.br/expresso/2022/09/19/Quais-s%C3%A3o-os-impactos-do-sequestro-e-vazamento-de-%E2%80%98GTA-6%E2%80%99)
-- [Corpo da rainha Elizabeth 2ª é levado para sepultamento](https://www.nexojornal.com.br/extra/2022/09/19/Corpo-da-rainha-Elizabeth-2%C2%AA-%C3%A9-levado-para-sepultamento)
+- [Futuro da educação brasileira passa por mudanças no Saeb](https://www.nexojornal.com.br/ensaio/2022/09/19/Futuro-da-educa%C3%A7%C3%A3o-brasileira-passa-por-mudan%C3%A7as-no-Saeb)
+- [A política externa do Brasil de Lula e de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/19/A-pol%C3%ADtica-externa-do-Brasil-de-Lula-e-de-Bolsonaro)
+- [O favoritismo dos governadores que tentam a reeleição](https://www.nexojornal.com.br/expresso/2022/09/19/O-favoritismo-dos-governadores-que-tentam-a-reelei%C3%A7%C3%A3o)
+- [Ipec: Lula tem 47% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/19/Ipec-Lula-tem-47-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
+- [TSE determina suspensão de site que faz críticas a Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/19/TSE-determina-suspens%C3%A3o-de-site-que-faz-cr%C3%ADticas-a-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
