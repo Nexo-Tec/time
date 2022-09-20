@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Jogadores de futebol estão quebrando o silenciamento’](https://www.nexojornal.com.br/entrevista/2022/09/19/%E2%80%98Jogadores-de-futebol-est%C3%A3o-quebrando-o-silenciamento%E2%80%99)
-- [Bolsonaro se irrita e abandona entrevista em Londres](https://www.nexojornal.com.br/extra/2022/09/19/Bolsonaro-se-irrita-e-abandona-entrevista-em-Londres)
-- [Espanhol pede desculpa a Vinícius Júnior, mas nega racismo](https://www.nexojornal.com.br/extra/2022/09/19/Espanhol-pede-desculpa-a-Vin%C3%ADcius-J%C3%BAnior-mas-nega-racismo)
-- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
-- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
+- [‘A mulher rei’: o papel do Brasil na história que inspirou o filme](https://www.nexojornal.com.br/expresso/2022/09/20/%E2%80%98A-mulher-rei%E2%80%99-o-papel-do-Brasil-na-hist%C3%B3ria-que-inspirou-o-filme)
+- [Adnan Syed, tema do podcast Serial, tem condenação anulada](https://www.nexojornal.com.br/extra/2022/09/20/Adnan-Syed-tema-do-podcast-Serial-tem-condena%C3%A7%C3%A3o-anulada)
+- [Supremo forma maioria contra decretos de armas de Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/20/Supremo-forma-maioria-contra-decretos-de-armas-de-Bolsonaro)
+- [Com raça e classe: como a educação espelha o voto](https://www.nexojornal.com.br/colunistas/2022/Com-ra%C3%A7a-e-classe-como-a-educa%C3%A7%C3%A3o-espelha-o-voto)
+- [Desabamento deixa ao menos 9 mortos em Itapecerica da Serra](https://www.nexojornal.com.br/extra/2022/09/20/Desabamento-deixa-ao-menos-9-mortos-em-Itapecerica-da-Serra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
