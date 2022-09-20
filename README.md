@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vinicius Júnior dança contra o racismo, em vitória do Real Madrid](https://www.nexojornal.com.br/extra/2022/09/18/Vinicius-J%C3%BAnior-dan%C3%A7a-contra-o-racismo-em-vit%C3%B3ria-do-Real-Madrid)
-- [O debate do voto útil na reta final da campanha presidencial de 2022](https://www.nexojornal.com.br/expresso/2022/09/18/O-debate-do-voto-%C3%BAtil-na-reta-final-da-campanha-presidencial-de-2022)
-- [TSE autoriza envio de militares a 11 estados no 1º turno](https://www.nexojornal.com.br/extra/2022/09/18/TSE-autoriza-envio-de-militares-a-11-estados-no-1%C2%BA-turno)
-- [O que está em jogo nas eleições 2022: meio ambiente](https://www.nexojornal.com.br/ensaio/2022/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-meio-ambiente)
-- [‘O debate público sobre o Auxílio Brasil virou um leilão’](https://www.nexojornal.com.br/entrevista/2022/09/18/%E2%80%98O-debate-p%C3%BAblico-sobre-o-Aux%C3%ADlio-Brasil-virou-um-leil%C3%A3o%E2%80%99)
+- [Futuro da educação brasileira passa por mudanças no Saeb](https://www.nexojornal.com.br/ensaio/2022/09/19/Futuro-da-educa%C3%A7%C3%A3o-brasileira-passa-por-mudan%C3%A7as-no-Saeb)
+- [A política externa do Brasil de Lula e de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/19/A-pol%C3%ADtica-externa-do-Brasil-de-Lula-e-de-Bolsonaro)
+- [O favoritismo dos governadores que tentam a reeleição](https://www.nexojornal.com.br/expresso/2022/09/19/O-favoritismo-dos-governadores-que-tentam-a-reelei%C3%A7%C3%A3o)
+- [Ipec: Lula tem 47% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/19/Ipec-Lula-tem-47-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
+- [TSE determina suspensão de site que faz críticas a Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/19/TSE-determina-suspens%C3%A3o-de-site-que-faz-cr%C3%ADticas-a-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
