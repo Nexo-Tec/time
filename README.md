@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Futuro da educação brasileira passa por mudanças no Saeb](https://www.nexojornal.com.br/ensaio/2022/09/19/Futuro-da-educa%C3%A7%C3%A3o-brasileira-passa-por-mudan%C3%A7as-no-Saeb)
-- [A política externa do Brasil de Lula e de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/19/A-pol%C3%ADtica-externa-do-Brasil-de-Lula-e-de-Bolsonaro)
-- [O favoritismo dos governadores que tentam a reeleição](https://www.nexojornal.com.br/expresso/2022/09/19/O-favoritismo-dos-governadores-que-tentam-a-reelei%C3%A7%C3%A3o)
-- [Ipec: Lula tem 47% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/19/Ipec-Lula-tem-47-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [TSE determina suspensão de site que faz críticas a Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/19/TSE-determina-suspens%C3%A3o-de-site-que-faz-cr%C3%ADticas-a-Bolsonaro)
+- [‘Jogadores de futebol estão quebrando o silenciamento’](https://www.nexojornal.com.br/entrevista/2022/09/19/%E2%80%98Jogadores-de-futebol-est%C3%A3o-quebrando-o-silenciamento%E2%80%99)
+- [Bolsonaro se irrita e abandona entrevista em Londres](https://www.nexojornal.com.br/extra/2022/09/19/Bolsonaro-se-irrita-e-abandona-entrevista-em-Londres)
+- [Espanhol pede desculpa a Vinícius Júnior, mas nega racismo](https://www.nexojornal.com.br/extra/2022/09/19/Espanhol-pede-desculpa-a-Vin%C3%ADcius-J%C3%BAnior-mas-nega-racismo)
+- [Petrobras reduz preço do diesel em R$ 0,30 por litro](https://www.nexojornal.com.br/extra/2022/09/19/Petrobras-reduz-pre%C3%A7o-do-diesel-em-R-030-por-litro)
+- [Desfile no PR tem crianças negras vestidas como escravizados](https://www.nexojornal.com.br/extra/2022/09/19/Desfile-no-PR-tem-crian%C3%A7as-negras-vestidas-como-escravizados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
