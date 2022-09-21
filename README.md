@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Futuro da educação brasileira passa por mudanças no Saeb](https://www.nexojornal.com.br/ensaio/2022/09/19/Futuro-da-educa%C3%A7%C3%A3o-brasileira-passa-por-mudan%C3%A7as-no-Saeb)
-- [A política externa do Brasil de Lula e de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/19/A-pol%C3%ADtica-externa-do-Brasil-de-Lula-e-de-Bolsonaro)
-- [O favoritismo dos governadores que tentam a reeleição](https://www.nexojornal.com.br/expresso/2022/09/19/O-favoritismo-dos-governadores-que-tentam-a-reelei%C3%A7%C3%A3o)
-- [Ipec: Lula tem 47% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/19/Ipec-Lula-tem-47-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [TSE determina suspensão de site que faz críticas a Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/19/TSE-determina-suspens%C3%A3o-de-site-que-faz-cr%C3%ADticas-a-Bolsonaro)
+- [Política armada: os militares no poder e a ameaça golpista](https://www.nexojornal.com.br/podcast/2022/09/21/Pol%C3%ADtica-armada-os-militares-no-poder-e-a-amea%C3%A7a-golpista)
+- [O que faz a polícia da moral do Irã, que é alvo de revolta](https://www.nexojornal.com.br/expresso/2022/09/20/O-que-faz-a-pol%C3%ADcia-da-moral-do-Ir%C3%A3-que-%C3%A9-alvo-de-revolta)
+- [O número de candidatos militares e policiais nas eleições](https://www.nexojornal.com.br/grafico/2022/09/20/O-n%C3%BAmero-de-candidatos-militares-e-policiais-nas-elei%C3%A7%C3%B5es)
+- [Mais segurança jurídica para a gestão pública](https://www.nexojornal.com.br/colunistas/2022/Mais-seguran%C3%A7a-jur%C3%ADdica-para-a-gest%C3%A3o-p%C3%BAblica)
+- [Gás de botijão: preço final aumenta mesmo com queda nas refinarias](https://www.nexojornal.com.br/extra/2022/09/20/G%C3%A1s-de-botij%C3%A3o-pre%C3%A7o-final-aumenta-mesmo-com-queda-nas-refinarias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
