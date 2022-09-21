@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A mulher rei’: o papel do Brasil na história que inspirou o filme](https://www.nexojornal.com.br/expresso/2022/09/20/%E2%80%98A-mulher-rei%E2%80%99-o-papel-do-Brasil-na-hist%C3%B3ria-que-inspirou-o-filme)
-- [Adnan Syed, tema do podcast Serial, tem condenação anulada](https://www.nexojornal.com.br/extra/2022/09/20/Adnan-Syed-tema-do-podcast-Serial-tem-condena%C3%A7%C3%A3o-anulada)
-- [Supremo forma maioria contra decretos de armas de Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/20/Supremo-forma-maioria-contra-decretos-de-armas-de-Bolsonaro)
-- [Com raça e classe: como a educação espelha o voto](https://www.nexojornal.com.br/colunistas/2022/Com-ra%C3%A7a-e-classe-como-a-educa%C3%A7%C3%A3o-espelha-o-voto)
-- [Desabamento deixa ao menos 9 mortos em Itapecerica da Serra](https://www.nexojornal.com.br/extra/2022/09/20/Desabamento-deixa-ao-menos-9-mortos-em-Itapecerica-da-Serra)
+- [Rússia mobiliza 300 mil reservistas para combater na Ucrânia](https://www.nexojornal.com.br/extra/2022/09/21/R%C3%BAssia-mobiliza-300-mil-reservistas-para-combater-na-Ucr%C3%A2nia)
+- [Política armada: os militares no poder e a ameaça golpista](https://www.nexojornal.com.br/podcast/2022/09/21/Pol%C3%ADtica-armada-os-militares-no-poder-e-a-amea%C3%A7a-golpista)
+- [O que faz a polícia da moral do Irã, que é alvo de revolta](https://www.nexojornal.com.br/expresso/2022/09/20/O-que-faz-a-pol%C3%ADcia-da-moral-do-Ir%C3%A3-que-%C3%A9-alvo-de-revolta)
+- [O número de candidatos militares e policiais nas eleições](https://www.nexojornal.com.br/grafico/2022/09/20/O-n%C3%BAmero-de-candidatos-militares-e-policiais-nas-elei%C3%A7%C3%B5es)
+- [Mais segurança jurídica para a gestão pública](https://www.nexojornal.com.br/colunistas/2022/Mais-seguran%C3%A7a-jur%C3%ADdica-para-a-gest%C3%A3o-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
