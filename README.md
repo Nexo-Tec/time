@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [&lpar;In&rpar;visiBIlidade](https://gamarevista.uol.com.br/colunistas/winnie-bueno/invisibilidade/)
 - [Álbum da Copa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/album-da-copa/)
 - [“Marte Um”, o direito de sonhar](https://gamarevista.uol.com.br/artigo/marte-um-o-direito-de-sonhar/)
 - [Só há tempo pra luz &amp; amor](https://gamarevista.uol.com.br/colunistas/fernando-luna/so-ha-tempo-pra-luz-amor/)
 - [@valenbandeira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/valenbandeira/)
-- [Mayumi Sato:  “Existe compromisso no relacionamento aberto”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mayumi-sato-existe-compromisso-no-relacionamento-aberto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
