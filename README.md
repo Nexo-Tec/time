@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O papel da família na alimentação de crianças e adolescentes em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-da-fam%C3%ADlia-na-alimenta%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes-em-7-pontos)
-- [Pesquisa participante para a conservação da biodiversidade e da geodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2022/09/20/Pesquisa-participante-para-a-conserva%C3%A7%C3%A3o-da-biodiversidade-e-da-geodiversidade)
-- [A crise do transporte público no Brasil tem solução?](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crise-do-transporte-p%C3%BAblico-no-Brasil-tem-solu%C3%A7%C3%A3o)
-- []()
 - [A urgência do debate sobre permanência de estudantes na universidade:  o caso da UFBA](https://pp.nexojornal.com.br/opiniao/2022/A-urg%C3%AAncia-do-debate-sobre-perman%C3%AAncia-de-estudantes-na-universidade-o-caso-da-UFBA)
+- [Novo presidente terá que fortalecer políticas de Recursos Humanos para o SUS](https://pp.nexojornal.com.br/opiniao/2022/Novo-presidente-ter%C3%A1-que-fortalecer-pol%C3%ADticas-de-Recursos-Humanos-para-o-SUS)
+- [Existe cristofobia no Brasil?](https://pp.nexojornal.com.br/opiniao/2022/Existe-cristofobia-no-Brasil)
+- [Como se organiza o campo religioso brasileiro](https://pp.nexojornal.com.br/opiniao/2022/Como-se-organiza-o-campo-religioso-brasileiro)
+- [É preciso falar sobre religião para compreender o Brasil](https://pp.nexojornal.com.br/opiniao/2022/%C3%89-preciso-falar-sobre-religi%C3%A3o-para-compreender-o-Brasil)
 <!-- PP_LIST:END -->
 
