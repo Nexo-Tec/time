@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Futuro da educação brasileira passa por mudanças no Saeb](https://www.nexojornal.com.br/ensaio/2022/09/19/Futuro-da-educa%C3%A7%C3%A3o-brasileira-passa-por-mudan%C3%A7as-no-Saeb)
-- [A política externa do Brasil de Lula e de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/09/19/A-pol%C3%ADtica-externa-do-Brasil-de-Lula-e-de-Bolsonaro)
-- [O favoritismo dos governadores que tentam a reeleição](https://www.nexojornal.com.br/expresso/2022/09/19/O-favoritismo-dos-governadores-que-tentam-a-reelei%C3%A7%C3%A3o)
-- [Ipec: Lula tem 47% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/19/Ipec-Lula-tem-47-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [TSE determina suspensão de site que faz críticas a Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/19/TSE-determina-suspens%C3%A3o-de-site-que-faz-cr%C3%ADticas-a-Bolsonaro)
+- [‘A mulher rei’: o papel do Brasil na história que inspirou o filme](https://www.nexojornal.com.br/expresso/2022/09/20/%E2%80%98A-mulher-rei%E2%80%99-o-papel-do-Brasil-na-hist%C3%B3ria-que-inspirou-o-filme)
+- [Adnan Syed, tema do podcast Serial, tem condenação anulada](https://www.nexojornal.com.br/extra/2022/09/20/Adnan-Syed-tema-do-podcast-Serial-tem-condena%C3%A7%C3%A3o-anulada)
+- [Supremo forma maioria contra decretos de armas de Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/20/Supremo-forma-maioria-contra-decretos-de-armas-de-Bolsonaro)
+- [Com raça e classe: como a educação espelha o voto](https://www.nexojornal.com.br/colunistas/2022/Com-ra%C3%A7a-e-classe-como-a-educa%C3%A7%C3%A3o-espelha-o-voto)
+- [Desabamento deixa ao menos 9 mortos em Itapecerica da Serra](https://www.nexojornal.com.br/extra/2022/09/20/Desabamento-deixa-ao-menos-9-mortos-em-Itapecerica-da-Serra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
