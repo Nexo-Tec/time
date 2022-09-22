@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- []()
-- [Educação híbrida e outras miragens do ensino brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2022/Educa%C3%A7%C3%A3o-h%C3%ADbrida-e-outras-miragens-do-ensino-brasileiro)
 - [O papel da família na alimentação de crianças e adolescentes em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-da-fam%C3%ADlia-na-alimenta%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes-em-7-pontos)
 - [Pesquisa participante para a conservação da biodiversidade e da geodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2022/09/20/Pesquisa-participante-para-a-conserva%C3%A7%C3%A3o-da-biodiversidade-e-da-geodiversidade)
 - [A crise do transporte público no Brasil tem solução?](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crise-do-transporte-p%C3%BAblico-no-Brasil-tem-solu%C3%A7%C3%A3o)
+- []()
+- [A urgência do debate sobre permanência de estudantes na universidade:  o caso da UFBA](https://pp.nexojornal.com.br/opiniao/2022/A-urg%C3%AAncia-do-debate-sobre-perman%C3%AAncia-de-estudantes-na-universidade-o-caso-da-UFBA)
 <!-- PP_LIST:END -->
 
