@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O tamanho e o potencial do arsenal nuclear da Rússia](https://www.nexojornal.com.br/expresso/2022/09/21/O-tamanho-e-o-potencial-do-arsenal-nuclear-da-R%C3%BAssia)
-- [PL concentra 40,5% das doações de autuados por crime ambiental](https://www.nexojornal.com.br/grafico/2022/09/21/PL-concentra-405-das-doa%C3%A7%C3%B5es-de-autuados-por-crime-ambiental)
-- [‘Nexo’ libera acesso a conteúdos sobre as eleições de 2022](https://www.nexojornal.com.br/expresso/2022/09/21/%E2%80%98Nexo%E2%80%99-libera-acesso-a-conte%C3%BAdos-sobre-as-elei%C3%A7%C3%B5es-de-2022)
-- [Hesitação vacinal: resultado do perigoso modismo natureba](https://www.nexojornal.com.br/colunistas/2022/Hesita%C3%A7%C3%A3o-vacinal-resultado-do-perigoso-modismo-natureba)
-- [Bolsonaro sanciona projeto que derruba o rol taxativo da ANS](https://www.nexojornal.com.br/extra/2022/09/21/Bolsonaro-sanciona-projeto-que-derruba-o-rol-taxativo-da-ANS)
+- [Rússia mobiliza 300 mil reservistas para combater na Ucrânia](https://www.nexojornal.com.br/extra/2022/09/21/R%C3%BAssia-mobiliza-300-mil-reservistas-para-combater-na-Ucr%C3%A2nia)
+- [Política armada: os militares no poder e a ameaça golpista](https://www.nexojornal.com.br/podcast/2022/09/21/Pol%C3%ADtica-armada-os-militares-no-poder-e-a-amea%C3%A7a-golpista)
+- [O que faz a polícia da moral do Irã, que é alvo de revolta](https://www.nexojornal.com.br/expresso/2022/09/20/O-que-faz-a-pol%C3%ADcia-da-moral-do-Ir%C3%A3-que-%C3%A9-alvo-de-revolta)
+- [O número de candidatos militares e policiais nas eleições](https://www.nexojornal.com.br/grafico/2022/09/20/O-n%C3%BAmero-de-candidatos-militares-e-policiais-nas-elei%C3%A7%C3%B5es)
+- [Mais segurança jurídica para a gestão pública](https://www.nexojornal.com.br/colunistas/2022/Mais-seguran%C3%A7a-jur%C3%ADdica-para-a-gest%C3%A3o-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
