@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Talentos de alcance amazônico](https://gamarevista.uol.com.br/pessoas/uma-turma/talentos-de-alcance-amazonico/)
-- [&lpar;In&rpar;visiBIlidade](https://gamarevista.uol.com.br/colunistas/winnie-bueno/invisibilidade/)
-- [Álbum da Copa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/album-da-copa/)
-- [“Marte Um”, o direito de sonhar](https://gamarevista.uol.com.br/artigo/marte-um-o-direito-de-sonhar/)
-- [Só há tempo pra luz &amp; amor](https://gamarevista.uol.com.br/colunistas/fernando-luna/so-ha-tempo-pra-luz-amor/)
+- [Segunda temporada de “A Terra é Redonda &lpar;mesmo&rpar;”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-a-terra-e-redonda-mesmo/)
+- [O texto político de Antonio Prata](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-texto-politico-de-antonio-prata/)
+- [Viola Davis no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/viola-davis-no-cinema-e-na-tv/)
+- [Um dinque italiano que é meio negroni, meio irish coffee](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-dinque-italiano-que-e-meio-negroni-meio-irish-coffee/)
+- [“Vivemos pra isso” valoriza arte de mulheres e pessoas não binárias](https://gamarevista.uol.com.br/achamos-que-vale/ir/vivemos-pra-isso-valoriza-arte-de-mulheres-e-pessoas-nao-binarias/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
