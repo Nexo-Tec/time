@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A diversificação racial e econômica do ensino superior público brasileiro depois das cotas](https://pp.nexojornal.com.br/opiniao/2022/A-diversifica%C3%A7%C3%A3o-racial-e-econ%C3%B4mica-do-ensino-superior-p%C3%BAblico-brasileiro-depois-das-cotas)
 - []()
 - [Educação híbrida e outras miragens do ensino brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2022/Educa%C3%A7%C3%A3o-h%C3%ADbrida-e-outras-miragens-do-ensino-brasileiro)
 - [O papel da família na alimentação de crianças e adolescentes em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-da-fam%C3%ADlia-na-alimenta%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes-em-7-pontos)
 - [Pesquisa participante para a conservação da biodiversidade e da geodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2022/09/20/Pesquisa-participante-para-a-conserva%C3%A7%C3%A3o-da-biodiversidade-e-da-geodiversidade)
-- [A crise do transporte público no Brasil tem solução?](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-crise-do-transporte-p%C3%BAblico-no-Brasil-tem-solu%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
