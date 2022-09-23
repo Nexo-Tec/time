@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A radicalização do discurso de Ciro contra Lula e a esquerda](https://www.nexojornal.com.br/expresso/2022/09/22/A-radicaliza%C3%A7%C3%A3o-do-discurso-de-Ciro-contra-Lula-e-a-esquerda)
-- [Lira questiona resultados distintos de pesquisas eleitorais](https://www.nexojornal.com.br/extra/2022/09/22/Lira-questiona-resultados-distintos-de-pesquisas-eleitorais)
-- [Mundano: ‘Cada pessoa gera um impacto para o planeta’](https://www.nexojornal.com.br/entrevista/2022/09/22/Mundano-%E2%80%98Cada-pessoa-gera-um-impacto-para-o-planeta%E2%80%99)
-- [Após 2 anos, Cruzeiro garante acesso à elite do futebol brasileiro](https://www.nexojornal.com.br/extra/2022/09/22/Ap%C3%B3s-2-anos-Cruzeiro-garante-acesso-%C3%A0-elite-do-futebol-brasileiro)
-- [TSE proíbe Bolsonaro de usar discurso na ONU em sua campanha](https://www.nexojornal.com.br/extra/2022/09/22/TSE-pro%C3%ADbe-Bolsonaro-de-usar-discurso-na-ONU-em-sua-campanha)
+- [O tamanho e o potencial do arsenal nuclear da Rússia](https://www.nexojornal.com.br/expresso/2022/09/21/O-tamanho-e-o-potencial-do-arsenal-nuclear-da-R%C3%BAssia)
+- [PL concentra 40,5% das doações de autuados por crime ambiental](https://www.nexojornal.com.br/grafico/2022/09/21/PL-concentra-405-das-doa%C3%A7%C3%B5es-de-autuados-por-crime-ambiental)
+- [‘Nexo’ libera acesso a conteúdos sobre as eleições de 2022](https://www.nexojornal.com.br/expresso/2022/09/21/%E2%80%98Nexo%E2%80%99-libera-acesso-a-conte%C3%BAdos-sobre-as-elei%C3%A7%C3%B5es-de-2022)
+- [Hesitação vacinal: resultado do perigoso modismo natureba](https://www.nexojornal.com.br/colunistas/2022/Hesita%C3%A7%C3%A3o-vacinal-resultado-do-perigoso-modismo-natureba)
+- [Bolsonaro sanciona projeto que derruba o rol taxativo da ANS](https://www.nexojornal.com.br/extra/2022/09/21/Bolsonaro-sanciona-projeto-que-derruba-o-rol-taxativo-da-ANS)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
