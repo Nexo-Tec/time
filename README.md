@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O tamanho e o potencial do arsenal nuclear da Rússia](https://www.nexojornal.com.br/expresso/2022/09/21/O-tamanho-e-o-potencial-do-arsenal-nuclear-da-R%C3%BAssia)
-- [PL concentra 40,5% das doações de autuados por crime ambiental](https://www.nexojornal.com.br/grafico/2022/09/21/PL-concentra-405-das-doa%C3%A7%C3%B5es-de-autuados-por-crime-ambiental)
-- [‘Nexo’ libera acesso a conteúdos sobre as eleições de 2022](https://www.nexojornal.com.br/expresso/2022/09/21/%E2%80%98Nexo%E2%80%99-libera-acesso-a-conte%C3%BAdos-sobre-as-elei%C3%A7%C3%B5es-de-2022)
-- [Hesitação vacinal: resultado do perigoso modismo natureba](https://www.nexojornal.com.br/colunistas/2022/Hesita%C3%A7%C3%A3o-vacinal-resultado-do-perigoso-modismo-natureba)
-- [Bolsonaro sanciona projeto que derruba o rol taxativo da ANS](https://www.nexojornal.com.br/extra/2022/09/21/Bolsonaro-sanciona-projeto-que-derruba-o-rol-taxativo-da-ANS)
+- [O que caracteriza o ‘voto envergonhado’ na eleição de 2022](https://www.nexojornal.com.br/expresso/2022/09/22/O-que-caracteriza-o-%E2%80%98voto-envergonhado%E2%80%99-na-elei%C3%A7%C3%A3o-de-2022)
+- [As províncias ocupadas que vão a referendo na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/22/As-prov%C3%ADncias-ocupadas-que-v%C3%A3o-a-referendo-na-Ucr%C3%A2nia)
+- [Pesquisas sob ataque: os institutos como alvo na eleição](https://www.nexojornal.com.br/podcast/2022/09/22/Pesquisas-sob-ataque-os-institutos-como-alvo-na-elei%C3%A7%C3%A3o)
+- [Petrobras anuncia redução de 6% no valor do gás de cozinha](https://www.nexojornal.com.br/extra/2022/09/22/Petrobras-anuncia-redu%C3%A7%C3%A3o-de-6-no-valor-do-g%C3%A1s-de-cozinha)
+- [Eleitores punem quem viola princípios democráticos?](https://www.nexojornal.com.br/colunistas/2022/Eleitores-punem-quem-viola-princ%C3%ADpios-democr%C3%A1ticos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
