@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A radicalização do discurso de Ciro contra Lula e a esquerda](https://www.nexojornal.com.br/expresso/2022/09/22/A-radicaliza%C3%A7%C3%A3o-do-discurso-de-Ciro-contra-Lula-e-a-esquerda)
-- [Lira questiona resultados distintos de pesquisas eleitorais](https://www.nexojornal.com.br/extra/2022/09/22/Lira-questiona-resultados-distintos-de-pesquisas-eleitorais)
-- [Mundano: ‘Cada pessoa gera um impacto para o planeta’](https://www.nexojornal.com.br/entrevista/2022/09/22/Mundano-%E2%80%98Cada-pessoa-gera-um-impacto-para-o-planeta%E2%80%99)
-- [Após 2 anos, Cruzeiro garante acesso à elite do futebol brasileiro](https://www.nexojornal.com.br/extra/2022/09/22/Ap%C3%B3s-2-anos-Cruzeiro-garante-acesso-%C3%A0-elite-do-futebol-brasileiro)
-- [TSE proíbe Bolsonaro de usar discurso na ONU em sua campanha](https://www.nexojornal.com.br/extra/2022/09/22/TSE-pro%C3%ADbe-Bolsonaro-de-usar-discurso-na-ONU-em-sua-campanha)
+- [O que caracteriza o ‘voto envergonhado’ na eleição de 2022](https://www.nexojornal.com.br/expresso/2022/09/22/O-que-caracteriza-o-%E2%80%98voto-envergonhado%E2%80%99-na-elei%C3%A7%C3%A3o-de-2022)
+- [As províncias ocupadas que vão a referendo na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/22/As-prov%C3%ADncias-ocupadas-que-v%C3%A3o-a-referendo-na-Ucr%C3%A2nia)
+- [Pesquisas sob ataque: os institutos como alvo na eleição](https://www.nexojornal.com.br/podcast/2022/09/22/Pesquisas-sob-ataque-os-institutos-como-alvo-na-elei%C3%A7%C3%A3o)
+- [Petrobras anuncia redução de 6% no valor do gás de cozinha](https://www.nexojornal.com.br/extra/2022/09/22/Petrobras-anuncia-redu%C3%A7%C3%A3o-de-6-no-valor-do-g%C3%A1s-de-cozinha)
+- [Eleitores punem quem viola princípios democráticos?](https://www.nexojornal.com.br/colunistas/2022/Eleitores-punem-quem-viola-princ%C3%ADpios-democr%C3%A1ticos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
