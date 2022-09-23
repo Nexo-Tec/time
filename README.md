@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Perder um amigo é ouvir um silêncio](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/perder-um-amigo-e-ouvir-um-silencio/)
 - [Via Ápia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/via-apia/)
 - [Segunda temporada de “A Terra é Redonda &lpar;mesmo&rpar;”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-a-terra-e-redonda-mesmo/)
 - [O texto político de Antonio Prata](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-texto-politico-de-antonio-prata/)
 - [Viola Davis no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/viola-davis-no-cinema-e-na-tv/)
-- [Um dinque italiano que é meio negroni, meio irish coffee](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-dinque-italiano-que-e-meio-negroni-meio-irish-coffee/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
