@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que caracteriza o ‘voto envergonhado’ na eleição de 2022](https://www.nexojornal.com.br/expresso/2022/09/22/O-que-caracteriza-o-%E2%80%98voto-envergonhado%E2%80%99-na-elei%C3%A7%C3%A3o-de-2022)
-- [As províncias ocupadas que vão a referendo na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/22/As-prov%C3%ADncias-ocupadas-que-v%C3%A3o-a-referendo-na-Ucr%C3%A2nia)
-- [Pesquisas sob ataque: os institutos como alvo na eleição](https://www.nexojornal.com.br/podcast/2022/09/22/Pesquisas-sob-ataque-os-institutos-como-alvo-na-elei%C3%A7%C3%A3o)
-- [Petrobras anuncia redução de 6% no valor do gás de cozinha](https://www.nexojornal.com.br/extra/2022/09/22/Petrobras-anuncia-redu%C3%A7%C3%A3o-de-6-no-valor-do-g%C3%A1s-de-cozinha)
-- [Eleitores punem quem viola princípios democráticos?](https://www.nexojornal.com.br/colunistas/2022/Eleitores-punem-quem-viola-princ%C3%ADpios-democr%C3%A1ticos)
+- [‘O jornalismo tem o dever de assumir o partido da democracia’](https://www.nexojornal.com.br/expresso/2022/09/23/%E2%80%98O-jornalismo-tem-o-dever-de-assumir-o-partido-da-democracia%E2%80%99)
+- [Qual o efeito da cota racial no setor público. E como aprimorá-la](https://www.nexojornal.com.br/expresso/2022/09/23/Qual-o-efeito-da-cota-racial-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-la)
+- [Banidos na Europa: os agrotóxicos aprovados por Bolsonaro](https://www.nexojornal.com.br/externo/2022/09/23/Banidos-na-Europa-os-agrot%C3%B3xicos-aprovados-por-Bolsonaro)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/23/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Um acervo digital da TV estatal da Coreia do Norte](https://www.nexojornal.com.br/expresso/2022/09/23/Um-acervo-digital-da-TV-estatal-da-Coreia-do-Norte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
