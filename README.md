@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O jornalismo tem o dever de assumir o partido da democracia’](https://www.nexojornal.com.br/expresso/2022/09/23/%E2%80%98O-jornalismo-tem-o-dever-de-assumir-o-partido-da-democracia%E2%80%99)
-- [Qual o efeito da cota racial no setor público. E como aprimorá-la](https://www.nexojornal.com.br/expresso/2022/09/23/Qual-o-efeito-da-cota-racial-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-la)
-- [Banidos na Europa: os agrotóxicos aprovados por Bolsonaro](https://www.nexojornal.com.br/externo/2022/09/23/Banidos-na-Europa-os-agrot%C3%B3xicos-aprovados-por-Bolsonaro)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/23/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Um acervo digital da TV estatal da Coreia do Norte](https://www.nexojornal.com.br/expresso/2022/09/23/Um-acervo-digital-da-TV-estatal-da-Coreia-do-Norte)
+- [Escritora britânica Hilary Mantel morre aos 70 anos](https://www.nexojornal.com.br/extra/2022/09/23/Escritora-brit%C3%A2nica-Hilary-Mantel-morre-aos-70-anos)
+- [Como a bancada evangélica trata o infanticídio indígena](https://www.nexojornal.com.br/academico/2022/09/23/Como-a-bancada-evang%C3%A9lica-trata-o-infantic%C3%ADdio-ind%C3%ADgena1)
+- [Israelenses encontram navio naufragado há 1.200 anos](https://www.nexojornal.com.br/extra/2022/09/23/Israelenses-encontram-navio-naufragado-h%C3%A1-1.200-anos)
+- [Justiça manda retirar do ar matérias sobre imóveis dos Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/23/Justi%C3%A7a-manda-retirar-do-ar-mat%C3%A9rias-sobre-im%C3%B3veis-dos-Bolsonaro)
+- [Itens do prato feito mantêm alta de preço acima da inflação](https://www.nexojornal.com.br/grafico/2022/09/23/Itens-do-prato-feito-mant%C3%AAm-alta-de-pre%C3%A7o-acima-da-infla%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
