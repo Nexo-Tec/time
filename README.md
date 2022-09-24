@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [As juventudes podem decidir as eleições de 2022](https://pp.nexojornal.com.br/ponto-de-vista/2022/As-juventudes-podem-decidir-as-elei%C3%A7%C3%B5es-de-2022)
-- [Regulação do mercado legal de cannabis e reparação racial](https://pp.nexojornal.com.br/glossario/Regula%C3%A7%C3%A3o-do-mercado-legal-de-cannabis-e-repara%C3%A7%C3%A3o-racial)
-- [Onde tem dinheiro não tem mulher](https://pp.nexojornal.com.br/ponto-de-vista/2022/Onde-tem-dinheiro-n%C3%A3o-tem-mulher)
-- [Fé e a política pela Amazônia](https://pp.nexojornal.com.br/opiniao/2022/F%C3%A9-e-a-pol%C3%ADtica-pela-Amaz%C3%B4nia)
-- [Vida longa ao SUS: o futuro do Brasil são os mais velhos](https://pp.nexojornal.com.br/opiniao/2022/Vida-longa-ao-SUS-o-futuro-do-Brasil-s%C3%A3o-os-mais-velhos)
+- [A diversificação racial e econômica do ensino superior público brasileiro depois das cotas](https://pp.nexojornal.com.br/opiniao/2022/A-diversifica%C3%A7%C3%A3o-racial-e-econ%C3%B4mica-do-ensino-superior-p%C3%BAblico-brasileiro-depois-das-cotas)
+- []()
+- [Educação híbrida e outras miragens do ensino brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2022/Educa%C3%A7%C3%A3o-h%C3%ADbrida-e-outras-miragens-do-ensino-brasileiro)
+- [O papel da família na alimentação de crianças e adolescentes em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-papel-da-fam%C3%ADlia-na-alimenta%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes-em-7-pontos)
+- [Pesquisa participante para a conservação da biodiversidade e da geodiversidade](https://pp.nexojornal.com.br/bibliografia-basica/2022/09/20/Pesquisa-participante-para-a-conserva%C3%A7%C3%A3o-da-biodiversidade-e-da-geodiversidade)
 <!-- PP_LIST:END -->
 
