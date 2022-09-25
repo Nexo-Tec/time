@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jovem é agredida após críticas a Bolsonaro em Angra dos Reis](https://www.nexojornal.com.br/extra/2022/09/24/Jovem-%C3%A9-agredida-ap%C3%B3s-cr%C3%ADticas-a-Bolsonaro-em-Angra-dos-Reis)
-- [Morre Louise Fletcher, que venceu Oscar por ‘Um estranho no ninho’](https://www.nexojornal.com.br/extra/2022/09/24/Morre-Louise-Fletcher-que-venceu-Oscar-por-%E2%80%98Um-estranho-no-ninho%E2%80%991)
-- [STF derruba censura a reportagens sobre imóveis dos Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/24/STF-derruba-censura-a-reportagens-sobre-im%C3%B3veis-dos-Bolsonaro)
-- [‘O jornalismo tem o dever de assumir o partido da democracia’](https://www.nexojornal.com.br/entrevista/2022/09/23/%E2%80%98O-jornalismo-tem-o-dever-de-assumir-o-partido-da-democracia%E2%80%99)
-- [Qual o efeito da cota racial no setor público. E como aprimorá-la](https://www.nexojornal.com.br/expresso/2022/09/23/Qual-o-efeito-da-cota-racial-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-la)
+- [Paranaenses recebem SMS pró-Bolsonaro de número do Detran](https://www.nexojornal.com.br/extra/2022/09/25/Paranaenses-recebem-SMS-pr%C3%B3-Bolsonaro-de-n%C3%BAmero-do-Detran)
+- [Por que ter muitos pesadelos pode ser um sinal de demência](https://www.nexojornal.com.br/externo/2022/09/25/Por-que-ter-muitos-pesadelos-pode-ser-um-sinal-de-dem%C3%AAncia)
+- [5 livros infantis que tratam de saúde mental](https://www.nexojornal.com.br/estante/favoritos/2022/09/25/5-livros-infantis-que-tratam-de-sa%C3%BAde-mental)
+- [Quais os significados de termos eleitorais famosos](https://www.nexojornal.com.br/expresso/2022/09/25/Quais-os-significados-de-termos-eleitorais-famosos)
+- [Itália vai às urnas com favoritismo da extrema direita](https://www.nexojornal.com.br/extra/2022/09/25/It%C3%A1lia-vai-%C3%A0s-urnas-com-favoritismo-da-extrema-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
