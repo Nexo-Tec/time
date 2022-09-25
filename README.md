@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O jornalismo tem o dever de assumir o partido da democracia’](https://www.nexojornal.com.br/expresso/2022/09/23/%E2%80%98O-jornalismo-tem-o-dever-de-assumir-o-partido-da-democracia%E2%80%99)
+- [Jovem é agredida após críticas a Bolsonaro em Angra dos Reis](https://www.nexojornal.com.br/extra/2022/09/24/Jovem-%C3%A9-agredida-ap%C3%B3s-cr%C3%ADticas-a-Bolsonaro-em-Angra-dos-Reis)
+- [Morre Louise Fletcher, que venceu Oscar por ‘Um estranho no ninho’](https://www.nexojornal.com.br/extra/2022/09/24/Morre-Louise-Fletcher-que-venceu-Oscar-por-%E2%80%98Um-estranho-no-ninho%E2%80%991)
+- [STF derruba censura a reportagens sobre imóveis dos Bolsonaro](https://www.nexojornal.com.br/extra/2022/09/24/STF-derruba-censura-a-reportagens-sobre-im%C3%B3veis-dos-Bolsonaro)
+- [‘O jornalismo tem o dever de assumir o partido da democracia’](https://www.nexojornal.com.br/entrevista/2022/09/23/%E2%80%98O-jornalismo-tem-o-dever-de-assumir-o-partido-da-democracia%E2%80%99)
 - [Qual o efeito da cota racial no setor público. E como aprimorá-la](https://www.nexojornal.com.br/expresso/2022/09/23/Qual-o-efeito-da-cota-racial-no-setor-p%C3%BAblico.-E-como-aprimor%C3%A1-la)
-- [Banidos na Europa: os agrotóxicos aprovados por Bolsonaro](https://www.nexojornal.com.br/externo/2022/09/23/Banidos-na-Europa-os-agrot%C3%B3xicos-aprovados-por-Bolsonaro)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/09/23/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Um acervo digital da TV estatal da Coreia do Norte](https://www.nexojornal.com.br/expresso/2022/09/23/Um-acervo-digital-da-TV-estatal-da-Coreia-do-Norte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
