@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@manubuffara](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/manubuffara/)
 - [Néli Pereira, bartender: ‘A sabedoria indígena põe o Brasil na vanguarda das plantas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bartender-neli-pereira-fala-do-uso-de-botanicos-medicinais-em-drinks/)
 - [Perder um amigo é ouvir um silêncio](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/perder-um-amigo-e-ouvir-um-silencio/)
 - [Via Ápia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/via-apia/)
 - [Segunda temporada de “A Terra é Redonda &lpar;mesmo&rpar;”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-a-terra-e-redonda-mesmo/)
-- [O texto político de Antonio Prata](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-texto-politico-de-antonio-prata/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
