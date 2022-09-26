@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Consciência do eleitor sobre importância da Amazônia cresce](https://www.nexojornal.com.br/extra/2022/09/26/Consci%C3%AAncia-do-eleitor-sobre-import%C3%A2ncia-da-Amaz%C3%B4nia-cresce)
-- [Adolescente do MBL é agredido após provocar Boulos em ato do PSOL](https://www.nexojornal.com.br/extra/2022/09/25/Adolescente-do-MBL-%C3%A9-agredido-ap%C3%B3s-provocar-Boulos-em-ato-do-PSOL)
-- [As implicações das lacunas no plano de governo de Lula](https://www.nexojornal.com.br/expresso/2022/09/25/As-implica%C3%A7%C3%B5es-das-lacunas-no-plano-de-governo-de-Lula)
-- [Extrema direita de Georgia Meloni vence as eleições na Itália](https://www.nexojornal.com.br/extra/2022/09/25/Extrema-direita-de-Georgia-Meloni-vence-as-elei%C3%A7%C3%B5es-na-It%C3%A1lia)
-- [‘Há uma base social a ser disputada pela direita no futuro’](https://www.nexojornal.com.br/expresso/2022/09/25/%E2%80%98H%C3%A1-uma-base-social-a-ser-disputada-pela-direita-no-futuro%E2%80%99)
+- [Protestos crescem no Irã e presidente pede repressão ‘firme’](https://www.nexojornal.com.br/extra/2022/09/25/Protestos-crescem-no-Ir%C3%A3-e-presidente-pede-repress%C3%A3o-%E2%80%98firme%E2%80%99)
+- [Maratonista Eliud Kipchoge bate próprio recorde mundial](https://www.nexojornal.com.br/extra/2022/09/25/Maratonista-Eliud-Kipchoge-bate-pr%C3%B3prio-recorde-mundial)
+- [Paranaenses recebem SMS pró-Bolsonaro de número do Detran](https://www.nexojornal.com.br/extra/2022/09/25/Paranaenses-recebem-SMS-pr%C3%B3-Bolsonaro-de-n%C3%BAmero-do-Detran)
+- [Por que ter muitos pesadelos pode ser um sinal de demência](https://www.nexojornal.com.br/externo/2022/09/25/Por-que-ter-muitos-pesadelos-pode-ser-um-sinal-de-dem%C3%AAncia)
+- [5 livros infantis que tratam de saúde mental](https://www.nexojornal.com.br/estante/favoritos/2022/09/25/5-livros-infantis-que-tratam-de-sa%C3%BAde-mental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
