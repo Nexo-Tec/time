@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Há uma base social a ser disputada pela direita no futuro’](https://www.nexojornal.com.br/expresso/2022/09/25/%E2%80%98H%C3%A1-uma-base-social-a-ser-disputada-pela-direita-no-futuro%E2%80%99)
-- [O que está em jogo nas eleições 2022: opinião pública](https://www.nexojornal.com.br/ensaio/2022/09/25/O-que-est%C3%A1-em-jogo-nas-elei%C3%A7%C3%B5es-2022-opini%C3%A3o-p%C3%BAblica)
-- [Rihanna fará show do intervalo do Super Bowl de 2023](https://www.nexojornal.com.br/extra/2022/09/25/Rihanna-far%C3%A1-show-do-intervalo-do-Super-Bowl-de-2023)
 - [Protestos crescem no Irã e presidente pede repressão ‘firme’](https://www.nexojornal.com.br/extra/2022/09/25/Protestos-crescem-no-Ir%C3%A3-e-presidente-pede-repress%C3%A3o-%E2%80%98firme%E2%80%99)
 - [Maratonista Eliud Kipchoge bate próprio recorde mundial](https://www.nexojornal.com.br/extra/2022/09/25/Maratonista-Eliud-Kipchoge-bate-pr%C3%B3prio-recorde-mundial)
+- [Paranaenses recebem SMS pró-Bolsonaro de número do Detran](https://www.nexojornal.com.br/extra/2022/09/25/Paranaenses-recebem-SMS-pr%C3%B3-Bolsonaro-de-n%C3%BAmero-do-Detran)
+- [Por que ter muitos pesadelos pode ser um sinal de demência](https://www.nexojornal.com.br/externo/2022/09/25/Por-que-ter-muitos-pesadelos-pode-ser-um-sinal-de-dem%C3%AAncia)
+- [5 livros infantis que tratam de saúde mental](https://www.nexojornal.com.br/estante/favoritos/2022/09/25/5-livros-infantis-que-tratam-de-sa%C3%BAde-mental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
