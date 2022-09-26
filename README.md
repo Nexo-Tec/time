@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Protestos crescem no Irã e presidente pede repressão ‘firme’](https://www.nexojornal.com.br/extra/2022/09/25/Protestos-crescem-no-Ir%C3%A3-e-presidente-pede-repress%C3%A3o-%E2%80%98firme%E2%80%99)
+- [Maratonista Eliud Kipchoge bate próprio recorde mundial](https://www.nexojornal.com.br/extra/2022/09/25/Maratonista-Eliud-Kipchoge-bate-pr%C3%B3prio-recorde-mundial)
 - [Paranaenses recebem SMS pró-Bolsonaro de número do Detran](https://www.nexojornal.com.br/extra/2022/09/25/Paranaenses-recebem-SMS-pr%C3%B3-Bolsonaro-de-n%C3%BAmero-do-Detran)
 - [Por que ter muitos pesadelos pode ser um sinal de demência](https://www.nexojornal.com.br/externo/2022/09/25/Por-que-ter-muitos-pesadelos-pode-ser-um-sinal-de-dem%C3%AAncia)
 - [5 livros infantis que tratam de saúde mental](https://www.nexojornal.com.br/estante/favoritos/2022/09/25/5-livros-infantis-que-tratam-de-sa%C3%BAde-mental)
-- [Quais os significados de termos eleitorais famosos](https://www.nexojornal.com.br/expresso/2022/09/25/Quais-os-significados-de-termos-eleitorais-famosos)
-- [Itália vai às urnas com favoritismo da extrema direita](https://www.nexojornal.com.br/extra/2022/09/25/It%C3%A1lia-vai-%C3%A0s-urnas-com-favoritismo-da-extrema-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
