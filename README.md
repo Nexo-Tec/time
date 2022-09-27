@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ipec: Lula vai a 48% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/26/Ipec-Lula-vai-a-48-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [Homem mata eleitor de Lula a facada após discussão no Ceará](https://www.nexojornal.com.br/extra/2022/09/26/Homem-mata-eleitor-de-Lula-a-facada-ap%C3%B3s-discuss%C3%A3o-no-Cear%C3%A1)
-- [Cubanos aprovam casamento entre pessoas do mesmo sexo](https://www.nexojornal.com.br/extra/2022/09/26/Cubanos-aprovam-casamento-entre-pessoas-do-mesmo-sexo)
-- [Dólar sobe e chega a R$ 5,40, maior patamar desde julho](https://www.nexojornal.com.br/extra/2022/09/26/D%C3%B3lar-sobe-e-chega-a-R-540-maior-patamar-desde-julho)
-- [Moro mistura pesquisas ao mostrar suposta ‘disparada’](https://www.nexojornal.com.br/expresso/2022/09/26/Moro-mistura-pesquisas-ao-mostrar-suposta-%E2%80%98disparada%E2%80%99)
+- [Com fortes ventos, furacão Ian atinge Cuba e causa estragos](https://www.nexojornal.com.br/extra/2022/09/27/Com-fortes-ventos-furac%C3%A3o-Ian-atinge-Cuba-e-causa-estragos)
+- [Viagem espacial: quem e quais robôs estão lá agora](https://www.nexojornal.com.br/expresso/2022/09/27/Viagem-espacial-quem-e-quais-rob%C3%B4s-est%C3%A3o-l%C3%A1-agora)
+- [Ucrânia rechaça resultados parciais de referendos russos](https://www.nexojornal.com.br/extra/2022/09/27/Ucr%C3%A2nia-recha%C3%A7a-resultados-parciais-de-referendos-russos)
+- [Empresário suspeito de estupro é incluído na lista da Interpol](https://www.nexojornal.com.br/extra/2022/09/27/Empres%C3%A1rio-suspeito-de-estupro-%C3%A9-inclu%C3%ADdo-na-lista-da-Interpol)
+- [Joaquim Barbosa pede que eleitores votem em Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/27/Joaquim-Barbosa-pede-que-eleitores-votem-em-Lula-no-1%C2%BA-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
