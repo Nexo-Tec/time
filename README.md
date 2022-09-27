@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ipec: Lula vai a 48% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/26/Ipec-Lula-vai-a-48-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [Homem mata eleitor de Lula a facada após discussão no Ceará](https://www.nexojornal.com.br/extra/2022/09/26/Homem-mata-eleitor-de-Lula-a-facada-ap%C3%B3s-discuss%C3%A3o-no-Cear%C3%A1)
-- [Cubanos aprovam casamento entre pessoas do mesmo sexo](https://www.nexojornal.com.br/extra/2022/09/26/Cubanos-aprovam-casamento-entre-pessoas-do-mesmo-sexo)
-- [Dólar sobe e chega a R$ 5,40, maior patamar desde julho](https://www.nexojornal.com.br/extra/2022/09/26/D%C3%B3lar-sobe-e-chega-a-R-540-maior-patamar-desde-julho)
-- [Moro mistura pesquisas ao mostrar suposta ‘disparada’](https://www.nexojornal.com.br/expresso/2022/09/26/Moro-mistura-pesquisas-ao-mostrar-suposta-%E2%80%98disparada%E2%80%99)
+- [O que fez a extrema direita chegar ao poder na Itália](https://www.nexojornal.com.br/expresso/2022/09/26/O-que-fez-a-extrema-direita-chegar-ao-poder-na-It%C3%A1lia)
+- [Como a abstenção pode afetar a disputa presidencial](https://www.nexojornal.com.br/expresso/2022/09/26/Como-a-absten%C3%A7%C3%A3o-pode-afetar-a-disputa-presidencial)
+- [Como o debate público recrudescido afasta as pessoas da ação cívica](https://www.nexojornal.com.br/expresso/2022/09/26/Como-o-debate-p%C3%BAblico-recrudescido-afasta-as-pessoas-da-a%C3%A7%C3%A3o-c%C3%ADvica)
+- [Por uma cidadania vigilante: o futuro é agora!](https://www.nexojornal.com.br/colunistas/2022/Por-uma-cidadania-vigilante-o-futuro-%C3%A9-agora)
+- [Operação policial no Complexo da Maré deixa 7 mortos](https://www.nexojornal.com.br/extra/2022/09/26/Opera%C3%A7%C3%A3o-policial-no-Complexo-da-Mar%C3%A9-deixa-7-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
