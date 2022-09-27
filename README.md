@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ipec: Lula vai a 48% das intenções de voto. Bolsonaro mantém 31%](https://www.nexojornal.com.br/extra/2022/09/26/Ipec-Lula-vai-a-48-das-inten%C3%A7%C3%B5es-de-voto.-Bolsonaro-mant%C3%A9m-31)
-- [Homem mata eleitor de Lula a facada após discussão no Ceará](https://www.nexojornal.com.br/extra/2022/09/26/Homem-mata-eleitor-de-Lula-a-facada-ap%C3%B3s-discuss%C3%A3o-no-Cear%C3%A1)
-- [Cubanos aprovam casamento entre pessoas do mesmo sexo](https://www.nexojornal.com.br/extra/2022/09/26/Cubanos-aprovam-casamento-entre-pessoas-do-mesmo-sexo)
-- [Dólar sobe e chega a R$ 5,40, maior patamar desde julho](https://www.nexojornal.com.br/extra/2022/09/26/D%C3%B3lar-sobe-e-chega-a-R-540-maior-patamar-desde-julho)
-- [Moro mistura pesquisas ao mostrar suposta ‘disparada’](https://www.nexojornal.com.br/expresso/2022/09/26/Moro-mistura-pesquisas-ao-mostrar-suposta-%E2%80%98disparada%E2%80%99)
+- [Consciência do eleitor sobre importância da Amazônia cresce](https://www.nexojornal.com.br/extra/2022/09/26/Consci%C3%AAncia-do-eleitor-sobre-import%C3%A2ncia-da-Amaz%C3%B4nia-cresce)
+- [Adolescente do MBL é agredido após provocar Boulos em ato do PSOL](https://www.nexojornal.com.br/extra/2022/09/25/Adolescente-do-MBL-%C3%A9-agredido-ap%C3%B3s-provocar-Boulos-em-ato-do-PSOL)
+- [As implicações das lacunas no plano de governo de Lula](https://www.nexojornal.com.br/expresso/2022/09/25/As-implica%C3%A7%C3%B5es-das-lacunas-no-plano-de-governo-de-Lula)
+- [Extrema direita de Georgia Meloni vence as eleições na Itália](https://www.nexojornal.com.br/extra/2022/09/25/Extrema-direita-de-Georgia-Meloni-vence-as-elei%C3%A7%C3%B5es-na-It%C3%A1lia)
+- [‘Há uma base social a ser disputada pela direita no futuro’](https://www.nexojornal.com.br/expresso/2022/09/25/%E2%80%98H%C3%A1-uma-base-social-a-ser-disputada-pela-direita-no-futuro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
