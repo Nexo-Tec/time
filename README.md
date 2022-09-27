@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Tecnologia, dados e políticas públicas](https://pp.nexojornal.com.br/glossario/Tecnologia-dados-e-pol%C3%ADticas-p%C3%BAblicas)
-- [Inclusão e debate racial nos partidos políticos brasileiros: incorporação precária e desigual](https://pp.nexojornal.com.br/opiniao/2022/Inclus%C3%A3o-e-debate-racial-nos-partidos-pol%C3%ADticos-brasileiros-incorpora%C3%A7%C3%A3o-prec%C3%A1ria-e-desigual)
-- [A analogia da casa:  uma crítica etnográfica às políticas de austeridade](https://pp.nexojornal.com.br/opiniao/2022/A-analogia-da-casa-uma-cr%C3%ADtica-etnogr%C3%A1fica-%C3%A0s-pol%C3%ADticas-de-austeridade)
-- [Trilhas a serem percorridas pela ciência cidadã em unidades de conservação](https://pp.nexojornal.com.br/opiniao/2022/Trilhas-a-serem-percorridas-pela-ci%C3%AAncia-cidad%C3%A3-em-unidades-de-conserva%C3%A7%C3%A3o)
-- [A falta de dados ‘apaga’ dificuldades vividas pelas pessoas negras](https://pp.nexojornal.com.br/opiniao/2022/A-falta-de-dados-%E2%80%98apaga%E2%80%99-dificuldades-vividas-pelas-pessoas-negras)
+- [As juventudes podem decidir as eleições de 2022](https://pp.nexojornal.com.br/ponto-de-vista/2022/As-juventudes-podem-decidir-as-elei%C3%A7%C3%B5es-de-2022)
+- [Regulação do mercado legal de cannabis e reparação racial](https://pp.nexojornal.com.br/glossario/Regula%C3%A7%C3%A3o-do-mercado-legal-de-cannabis-e-repara%C3%A7%C3%A3o-racial)
+- [Onde tem dinheiro não tem mulher](https://pp.nexojornal.com.br/ponto-de-vista/2022/Onde-tem-dinheiro-n%C3%A3o-tem-mulher)
+- [Fé e a política pela Amazônia](https://pp.nexojornal.com.br/opiniao/2022/F%C3%A9-e-a-pol%C3%ADtica-pela-Amaz%C3%B4nia)
+- [Vida longa ao SUS: o futuro do Brasil são os mais velhos](https://pp.nexojornal.com.br/opiniao/2022/Vida-longa-ao-SUS-o-futuro-do-Brasil-s%C3%A3o-os-mais-velhos)
 <!-- PP_LIST:END -->
 
