@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com fortes ventos, furacão Ian atinge Cuba e causa estragos](https://www.nexojornal.com.br/extra/2022/09/27/Com-fortes-ventos-furac%C3%A3o-Ian-atinge-Cuba-e-causa-estragos)
-- [Viagem espacial: quem e quais robôs estão lá agora](https://www.nexojornal.com.br/expresso/2022/09/27/Viagem-espacial-quem-e-quais-rob%C3%B4s-est%C3%A3o-l%C3%A1-agora)
-- [Ucrânia rechaça resultados parciais de referendos russos](https://www.nexojornal.com.br/extra/2022/09/27/Ucr%C3%A2nia-recha%C3%A7a-resultados-parciais-de-referendos-russos)
-- [Empresário suspeito de estupro é incluído na lista da Interpol](https://www.nexojornal.com.br/extra/2022/09/27/Empres%C3%A1rio-suspeito-de-estupro-%C3%A9-inclu%C3%ADdo-na-lista-da-Interpol)
-- [Joaquim Barbosa pede que eleitores votem em Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/27/Joaquim-Barbosa-pede-que-eleitores-votem-em-Lula-no-1%C2%BA-turno)
+- [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
+- [Como evitar que o meu consumo prejudique a Amazônia?](https://www.nexojornal.com.br/expresso/2022/09/27/Como-evitar-que-o-meu-consumo-prejudique-a-Amaz%C3%B4nia)
+- [Checagem de fatos científicos: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2022/Checagem-de-fatos-cient%C3%ADficos-cr%C3%B4nica-de-um-fracasso-anunciado)
+- [Como russos tentam evitar participar da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/27/Como-russos-tentam-evitar-participar-da-guerra-na-Ucr%C3%A2nia)
+- [Bolsonaro faz live em defesa de Michelle e com ataque a Moraes](https://www.nexojornal.com.br/extra/2022/09/27/Bolsonaro-faz-live-em-defesa-de-Michelle-e-com-ataque-a-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
