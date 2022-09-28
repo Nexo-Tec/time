@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gilmar Mendes suspende cobrança de R$ 18 milhões de Lula](https://www.nexojornal.com.br/extra/2022/09/28/Gilmar-Mendes-suspende-cobran%C3%A7a-de-R-18-milh%C3%B5es-de-Lula)
+- [Raça, gênero e representatividade nas cotas eleitorais](https://www.nexojornal.com.br/ensaio/2022/09/28/Ra%C3%A7a-g%C3%AAnero-e-representatividade-nas-cotas-eleitorais)
+- [Líder do partido de Bolsonaro diz que não há sala secreta no TSE](https://www.nexojornal.com.br/extra/2022/09/28/L%C3%ADder-do-partido-de-Bolsonaro-diz-que-n%C3%A3o-h%C3%A1-sala-secreta-no-TSE)
+- [Ex-ministro Celso de Mello declara apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/28/Ex-ministro-Celso-de-Mello-declara-apoio-a-Lula-no-1%C2%BA-turno)
 - [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
-- [Como evitar que o meu consumo prejudique a Amazônia?](https://www.nexojornal.com.br/expresso/2022/09/27/Como-evitar-que-o-meu-consumo-prejudique-a-Amaz%C3%B4nia)
-- [Checagem de fatos científicos: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2022/Checagem-de-fatos-cient%C3%ADficos-cr%C3%B4nica-de-um-fracasso-anunciado)
-- [Como russos tentam evitar participar da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/27/Como-russos-tentam-evitar-participar-da-guerra-na-Ucr%C3%A2nia)
-- [Bolsonaro faz live em defesa de Michelle e com ataque a Moraes](https://www.nexojornal.com.br/extra/2022/09/27/Bolsonaro-faz-live-em-defesa-de-Michelle-e-com-ataque-a-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
