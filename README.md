@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que fez a extrema direita chegar ao poder na Itália](https://www.nexojornal.com.br/expresso/2022/09/26/O-que-fez-a-extrema-direita-chegar-ao-poder-na-It%C3%A1lia)
-- [Como a abstenção pode afetar a disputa presidencial](https://www.nexojornal.com.br/expresso/2022/09/26/Como-a-absten%C3%A7%C3%A3o-pode-afetar-a-disputa-presidencial)
-- [Como o debate público recrudescido afasta as pessoas da ação cívica](https://www.nexojornal.com.br/expresso/2022/09/26/Como-o-debate-p%C3%BAblico-recrudescido-afasta-as-pessoas-da-a%C3%A7%C3%A3o-c%C3%ADvica)
-- [Por uma cidadania vigilante: o futuro é agora!](https://www.nexojornal.com.br/colunistas/2022/Por-uma-cidadania-vigilante-o-futuro-%C3%A9-agora)
-- [Operação policial no Complexo da Maré deixa 7 mortos](https://www.nexojornal.com.br/extra/2022/09/26/Opera%C3%A7%C3%A3o-policial-no-Complexo-da-Mar%C3%A9-deixa-7-mortos)
+- [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
+- [Como evitar que o meu consumo prejudique a Amazônia?](https://www.nexojornal.com.br/expresso/2022/09/27/Como-evitar-que-o-meu-consumo-prejudique-a-Amaz%C3%B4nia)
+- [Checagem de fatos científicos: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2022/Checagem-de-fatos-cient%C3%ADficos-cr%C3%B4nica-de-um-fracasso-anunciado)
+- [Como russos tentam evitar participar da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/27/Como-russos-tentam-evitar-participar-da-guerra-na-Ucr%C3%A2nia)
+- [Bolsonaro faz live em defesa de Michelle e com ataque a Moraes](https://www.nexojornal.com.br/extra/2022/09/27/Bolsonaro-faz-live-em-defesa-de-Michelle-e-com-ataque-a-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
