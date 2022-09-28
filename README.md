@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que fez a extrema direita chegar ao poder na Itália](https://www.nexojornal.com.br/expresso/2022/09/26/O-que-fez-a-extrema-direita-chegar-ao-poder-na-It%C3%A1lia)
-- [Como a abstenção pode afetar a disputa presidencial](https://www.nexojornal.com.br/expresso/2022/09/26/Como-a-absten%C3%A7%C3%A3o-pode-afetar-a-disputa-presidencial)
-- [Como o debate público recrudescido afasta as pessoas da ação cívica](https://www.nexojornal.com.br/expresso/2022/09/26/Como-o-debate-p%C3%BAblico-recrudescido-afasta-as-pessoas-da-a%C3%A7%C3%A3o-c%C3%ADvica)
-- [Por uma cidadania vigilante: o futuro é agora!](https://www.nexojornal.com.br/colunistas/2022/Por-uma-cidadania-vigilante-o-futuro-%C3%A9-agora)
-- [Operação policial no Complexo da Maré deixa 7 mortos](https://www.nexojornal.com.br/extra/2022/09/26/Opera%C3%A7%C3%A3o-policial-no-Complexo-da-Mar%C3%A9-deixa-7-mortos)
+- [Com fortes ventos, furacão Ian atinge Cuba e causa estragos](https://www.nexojornal.com.br/extra/2022/09/27/Com-fortes-ventos-furac%C3%A3o-Ian-atinge-Cuba-e-causa-estragos)
+- [Viagem espacial: quem e quais robôs estão lá agora](https://www.nexojornal.com.br/expresso/2022/09/27/Viagem-espacial-quem-e-quais-rob%C3%B4s-est%C3%A3o-l%C3%A1-agora)
+- [Ucrânia rechaça resultados parciais de referendos russos](https://www.nexojornal.com.br/extra/2022/09/27/Ucr%C3%A2nia-recha%C3%A7a-resultados-parciais-de-referendos-russos)
+- [Empresário suspeito de estupro é incluído na lista da Interpol](https://www.nexojornal.com.br/extra/2022/09/27/Empres%C3%A1rio-suspeito-de-estupro-%C3%A9-inclu%C3%ADdo-na-lista-da-Interpol)
+- [Joaquim Barbosa pede que eleitores votem em Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/27/Joaquim-Barbosa-pede-que-eleitores-votem-em-Lula-no-1%C2%BA-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
