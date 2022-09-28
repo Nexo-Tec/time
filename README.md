@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com fortes ventos, furacão Ian atinge Cuba e causa estragos](https://www.nexojornal.com.br/extra/2022/09/27/Com-fortes-ventos-furac%C3%A3o-Ian-atinge-Cuba-e-causa-estragos)
-- [Viagem espacial: quem e quais robôs estão lá agora](https://www.nexojornal.com.br/expresso/2022/09/27/Viagem-espacial-quem-e-quais-rob%C3%B4s-est%C3%A3o-l%C3%A1-agora)
-- [Ucrânia rechaça resultados parciais de referendos russos](https://www.nexojornal.com.br/extra/2022/09/27/Ucr%C3%A2nia-recha%C3%A7a-resultados-parciais-de-referendos-russos)
-- [Empresário suspeito de estupro é incluído na lista da Interpol](https://www.nexojornal.com.br/extra/2022/09/27/Empres%C3%A1rio-suspeito-de-estupro-%C3%A9-inclu%C3%ADdo-na-lista-da-Interpol)
-- [Joaquim Barbosa pede que eleitores votem em Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/27/Joaquim-Barbosa-pede-que-eleitores-votem-em-Lula-no-1%C2%BA-turno)
+- [Gilmar Mendes suspende cobrança de R$ 18 milhões de Lula](https://www.nexojornal.com.br/extra/2022/09/28/Gilmar-Mendes-suspende-cobran%C3%A7a-de-R-18-milh%C3%B5es-de-Lula)
+- [Raça, gênero e representatividade nas cotas eleitorais](https://www.nexojornal.com.br/ensaio/2022/09/28/Ra%C3%A7a-g%C3%AAnero-e-representatividade-nas-cotas-eleitorais)
+- [Líder do partido de Bolsonaro diz que não há sala secreta no TSE](https://www.nexojornal.com.br/extra/2022/09/28/L%C3%ADder-do-partido-de-Bolsonaro-diz-que-n%C3%A3o-h%C3%A1-sala-secreta-no-TSE)
+- [Ex-ministro Celso de Mello declara apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/28/Ex-ministro-Celso-de-Mello-declara-apoio-a-Lula-no-1%C2%BA-turno)
+- [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
