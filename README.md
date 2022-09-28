@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Helena Nader](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-helena-nader/)
+- [A panqueca de chocolate mais deliciosa e fácil do mundo](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-panqueca-de-chocolate-mais-deliciosa-e-facil-do-mundo/)
 - [@manubuffara](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/manubuffara/)
 - [Néli Pereira, bartender: ‘A sabedoria indígena põe o Brasil na vanguarda das plantas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bartender-neli-pereira-fala-do-uso-de-botanicos-medicinais-em-drinks/)
 - [Perder um amigo é ouvir um silêncio](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/perder-um-amigo-e-ouvir-um-silencio/)
-- [Via Ápia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/via-apia/)
-- [Segunda temporada de “A Terra é Redonda &lpar;mesmo&rpar;”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/segunda-temporada-de-a-terra-e-redonda-mesmo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
