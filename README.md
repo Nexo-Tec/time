@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- []()
-- [Os urubus do Anísio: os últimos anos do maior bicheiro vivo](https://pp.nexojornal.com.br/opiniao/2022/Os-urubus-do-An%C3%ADsio-os-%C3%BAltimos-anos-do-maior-bicheiro-vivo)
 - [Mérito, religião e questão racial nas eleições 2022 no Brasil](https://pp.nexojornal.com.br/opiniao/2022/M%C3%A9rito-religi%C3%A3o-e-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-2022-no-Brasil)
 - [A convivência como valor nas escolas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-conviv%C3%AAncia-como-valor-nas-escolas-p%C3%BAblicas)
 - [Tecnologia, dados e políticas públicas](https://pp.nexojornal.com.br/glossario/Tecnologia-dados-e-pol%C3%ADticas-p%C3%BAblicas)
+- [Inclusão e debate racial nos partidos políticos brasileiros: incorporação precária e desigual](https://pp.nexojornal.com.br/opiniao/2022/Inclus%C3%A3o-e-debate-racial-nos-partidos-pol%C3%ADticos-brasileiros-incorpora%C3%A7%C3%A3o-prec%C3%A1ria-e-desigual)
+- [A analogia da casa:  uma crítica etnográfica às políticas de austeridade](https://pp.nexojornal.com.br/opiniao/2022/A-analogia-da-casa-uma-cr%C3%ADtica-etnogr%C3%A1fica-%C3%A0s-pol%C3%ADticas-de-austeridade)
 <!-- PP_LIST:END -->
 
