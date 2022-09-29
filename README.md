@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Porto Alegre fica sem passe livre nas eleições após 27 anos](https://www.nexojornal.com.br/extra/2022/09/29/Porto-Alegre-fica-sem-passe-livre-nas-elei%C3%A7%C3%B5es-ap%C3%B3s-27-anos)
+- [TSE proíbe transporte de armas e munições nas eleições](https://www.nexojornal.com.br/extra/2022/09/29/TSE-pro%C3%ADbe-transporte-de-armas-e-muni%C3%A7%C3%B5es-nas-elei%C3%A7%C3%B5es)
+- [A insegurança factual, a transparência e as eleições no Brasil](https://www.nexojornal.com.br/ensaio/2022/09/29/A-inseguran%C3%A7a-factual-a-transpar%C3%AAncia-e-as-elei%C3%A7%C3%B5es-no-Brasil)
+- [Furacão Ian deixa 2,5 milhões de pessoas sem energia na Flórida](https://www.nexojornal.com.br/extra/2022/09/29/Furac%C3%A3o-Ian-deixa-25-milh%C3%B5es-de-pessoas-sem-energia-na-Fl%C3%B3rida)
 - [Senado dos EUA pede revisão de relação com Brasil em caso de golpe](https://www.nexojornal.com.br/extra/2022/09/29/Senado-dos-EUA-pede-revis%C3%A3o-de-rela%C3%A7%C3%A3o-com-Brasil-em-caso-de-golpe)
-- [Como os protestos de 2022 se comparam a outros levantes no Irã](https://www.nexojornal.com.br/expresso/2022/09/28/Como-os-protestos-de-2022-se-comparam-a-outros-levantes-no-Ir%C3%A3)
-- [A aposta na força da TV no último debate do primeiro turno](https://www.nexojornal.com.br/expresso/2022/09/28/A-aposta-na-for%C3%A7a-da-TV-no-%C3%BAltimo-debate-do-primeiro-turno)
-- [O saldo do acirramento das campanhas nas igrejas evangélicas](https://www.nexojornal.com.br/expresso/2022/09/28/O-saldo-do-acirramento-das-campanhas-nas-igrejas-evang%C3%A9licas)
-- [A influência de cargos executivos na gestão pública, em 5 eixos](https://www.nexojornal.com.br/expresso/2022/09/28/A-influ%C3%AAncia-de-cargos-executivos-na-gest%C3%A3o-p%C3%BAblica-em-5-eixos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
