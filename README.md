@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Gilmar Mendes suspende cobrança de R$ 18 milhões de Lula](https://www.nexojornal.com.br/extra/2022/09/28/Gilmar-Mendes-suspende-cobran%C3%A7a-de-R-18-milh%C3%B5es-de-Lula)
-- [Raça, gênero e representatividade nas cotas eleitorais](https://www.nexojornal.com.br/ensaio/2022/09/28/Ra%C3%A7a-g%C3%AAnero-e-representatividade-nas-cotas-eleitorais)
-- [Líder do partido de Bolsonaro diz que não há sala secreta no TSE](https://www.nexojornal.com.br/extra/2022/09/28/L%C3%ADder-do-partido-de-Bolsonaro-diz-que-n%C3%A3o-h%C3%A1-sala-secreta-no-TSE)
-- [Ex-ministro Celso de Mello declara apoio a Lula no 1º turno](https://www.nexojornal.com.br/extra/2022/09/28/Ex-ministro-Celso-de-Mello-declara-apoio-a-Lula-no-1%C2%BA-turno)
-- [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
+- [Como os protestos de 2022 se comparam a outros levantes no Irã](https://www.nexojornal.com.br/expresso/2022/09/28/Como-os-protestos-de-2022-se-comparam-a-outros-levantes-no-Ir%C3%A3)
+- [A aposta na força da TV no último debate do primeiro turno](https://www.nexojornal.com.br/expresso/2022/09/28/A-aposta-na-for%C3%A7a-da-TV-no-%C3%BAltimo-debate-do-primeiro-turno)
+- [O saldo do acirramento das campanhas nas igrejas evangélicas](https://www.nexojornal.com.br/expresso/2022/09/28/O-saldo-do-acirramento-das-campanhas-nas-igrejas-evang%C3%A9licas)
+- [A influência de cargos executivos na gestão pública, em 5 eixos](https://www.nexojornal.com.br/expresso/2022/09/28/A-influ%C3%AAncia-de-cargos-executivos-na-gest%C3%A3o-p%C3%BAblica-em-5-eixos)
+- [As coligações partidárias nas eleições para governador](https://www.nexojornal.com.br/grafico/2022/09/28/As-coliga%C3%A7%C3%B5es-partid%C3%A1rias-nas-elei%C3%A7%C3%B5es-para-governador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
