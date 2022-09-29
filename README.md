@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Helena Nader](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-helena-nader/)
-- [A panqueca de chocolate mais deliciosa e fácil do mundo](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-panqueca-de-chocolate-mais-deliciosa-e-facil-do-mundo/)
-- [@manubuffara](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/manubuffara/)
-- [Néli Pereira, bartender: ‘A sabedoria indígena põe o Brasil na vanguarda das plantas’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bartender-neli-pereira-fala-do-uso-de-botanicos-medicinais-em-drinks/)
-- [Perder um amigo é ouvir um silêncio](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/perder-um-amigo-e-ouvir-um-silencio/)
+- [Nexo com acesso livre nas eleições](https://gamarevista.uol.com.br/achamos-que-vale/ler/nexo-com-acesso-livre-nas-eleicoes/)
+- [Os melhores álbuns dos anos 90](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-melhores-albuns-dos-anos-90/)
+- [Cinema alemão dirigido por mulheres](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-alemao-dirigido-por-mulheres/)
+- [Bilionário doa marca Patagonia para proteger meio ambiente](https://gamarevista.uol.com.br/achamos-que-vale/ler/bilionario-doa-marca-patagonia-para-proteger-meio-ambiente/)
+- [Abóbora e noz-pecã para tirar o banana bread da mesmice](https://gamarevista.uol.com.br/achamos-que-vale/fazer/abobora-e-noz-pecan-para-tirar-o-banana-bread-da-mesmice/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
