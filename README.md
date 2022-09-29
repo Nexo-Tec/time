@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Seus filhos conhecem a Amazônia?](https://gamarevista.uol.com.br/formato/depoimento/seus-filhos-conhecem-a-amazonia/)
 - [Nexo com acesso livre nas eleições](https://gamarevista.uol.com.br/achamos-que-vale/ler/nexo-com-acesso-livre-nas-eleicoes/)
 - [Os melhores álbuns dos anos 90](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-melhores-albuns-dos-anos-90/)
 - [Cinema alemão dirigido por mulheres](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-alemao-dirigido-por-mulheres/)
 - [Bilionário doa marca Patagonia para proteger meio ambiente](https://gamarevista.uol.com.br/achamos-que-vale/ler/bilionario-doa-marca-patagonia-para-proteger-meio-ambiente/)
-- [Abóbora e noz-pecã para tirar o banana bread da mesmice](https://gamarevista.uol.com.br/achamos-que-vale/fazer/abobora-e-noz-pecan-para-tirar-o-banana-bread-da-mesmice/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
