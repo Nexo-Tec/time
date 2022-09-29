@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como os protestos de 2022 se comparam a outros levantes no Irã](https://www.nexojornal.com.br/expresso/2022/09/28/Como-os-protestos-de-2022-se-comparam-a-outros-levantes-no-Ir%C3%A3)
-- [A aposta na força da TV no último debate do primeiro turno](https://www.nexojornal.com.br/expresso/2022/09/28/A-aposta-na-for%C3%A7a-da-TV-no-%C3%BAltimo-debate-do-primeiro-turno)
-- [O saldo do acirramento das campanhas nas igrejas evangélicas](https://www.nexojornal.com.br/expresso/2022/09/28/O-saldo-do-acirramento-das-campanhas-nas-igrejas-evang%C3%A9licas)
-- [A influência de cargos executivos na gestão pública, em 5 eixos](https://www.nexojornal.com.br/expresso/2022/09/28/A-influ%C3%AAncia-de-cargos-executivos-na-gest%C3%A3o-p%C3%BAblica-em-5-eixos)
-- [As coligações partidárias nas eleições para governador](https://www.nexojornal.com.br/grafico/2022/09/28/As-coliga%C3%A7%C3%B5es-partid%C3%A1rias-nas-elei%C3%A7%C3%B5es-para-governador)
+- [País do futuro: o pacto social e o que resta da Nova República](https://www.nexojornal.com.br/podcast/2022/09/28/Pa%C3%ADs-do-futuro-o-pacto-social-e-o-que-resta-da-Nova-Rep%C3%BAblica)
+- [Como evitar que o meu consumo prejudique a Amazônia?](https://www.nexojornal.com.br/expresso/2022/09/27/Como-evitar-que-o-meu-consumo-prejudique-a-Amaz%C3%B4nia)
+- [Checagem de fatos científicos: crônica de um fracasso anunciado](https://www.nexojornal.com.br/colunistas/2022/Checagem-de-fatos-cient%C3%ADficos-cr%C3%B4nica-de-um-fracasso-anunciado)
+- [Como russos tentam evitar participar da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/09/27/Como-russos-tentam-evitar-participar-da-guerra-na-Ucr%C3%A2nia)
+- [Bolsonaro faz live em defesa de Michelle e com ataque a Moraes](https://www.nexojornal.com.br/extra/2022/09/27/Bolsonaro-faz-live-em-defesa-de-Michelle-e-com-ataque-a-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
