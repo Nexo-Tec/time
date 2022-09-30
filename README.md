@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Agora Agora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/agora-agora/)
 - [Rafael Cariello: ‘Solução para crise fiscal que  forjou o Brasil aprofundou desigualdades’](https://gamarevista.uol.com.br/especial/rafael-cariello-solucao-para-crise-fiscal-que-forjou-o-brasil-aprofundou-desigualdades/)
 - [Seus filhos conhecem a Amazônia?](https://gamarevista.uol.com.br/formato/depoimento/seus-filhos-conhecem-a-amazonia/)
 - [Nexo com acesso livre nas eleições](https://gamarevista.uol.com.br/achamos-que-vale/ler/nexo-com-acesso-livre-nas-eleicoes/)
 - [Os melhores álbuns dos anos 90](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-melhores-albuns-dos-anos-90/)
-- [Cinema alemão dirigido por mulheres](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cinema-alemao-dirigido-por-mulheres/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
