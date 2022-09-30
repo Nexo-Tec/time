@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senado dos EUA pede revisão de relação com Brasil em caso de golpe](https://www.nexojornal.com.br/extra/2022/09/29/Senado-dos-EUA-pede-revis%C3%A3o-de-rela%C3%A7%C3%A3o-com-Brasil-em-caso-de-golpe)
 - [Como os protestos de 2022 se comparam a outros levantes no Irã](https://www.nexojornal.com.br/expresso/2022/09/28/Como-os-protestos-de-2022-se-comparam-a-outros-levantes-no-Ir%C3%A3)
 - [A aposta na força da TV no último debate do primeiro turno](https://www.nexojornal.com.br/expresso/2022/09/28/A-aposta-na-for%C3%A7a-da-TV-no-%C3%BAltimo-debate-do-primeiro-turno)
 - [O saldo do acirramento das campanhas nas igrejas evangélicas](https://www.nexojornal.com.br/expresso/2022/09/28/O-saldo-do-acirramento-das-campanhas-nas-igrejas-evang%C3%A9licas)
 - [A influência de cargos executivos na gestão pública, em 5 eixos](https://www.nexojornal.com.br/expresso/2022/09/28/A-influ%C3%AAncia-de-cargos-executivos-na-gest%C3%A3o-p%C3%BAblica-em-5-eixos)
+- [As coligações partidárias nas eleições para governador](https://www.nexojornal.com.br/grafico/2022/09/28/As-coliga%C3%A7%C3%B5es-partid%C3%A1rias-nas-elei%C3%A7%C3%B5es-para-governador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
