@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bate-bocas e direitos de resposta: como foi o debate final da Globo](https://www.nexojornal.com.br/expresso/2022/09/30/Bate-bocas-e-direitos-de-resposta-como-foi-o-debate-final-da-Globo)
-- [Por que a libra vive uma desvalorização histórica](https://www.nexojornal.com.br/expresso/2022/09/29/Por-que-a-libra-vive-uma-desvaloriza%C3%A7%C3%A3o-hist%C3%B3rica)
-- [O crescimento da energia solar no Brasil. E o seu futuro](https://www.nexojornal.com.br/expresso/2022/09/29/O-crescimento-da-energia-solar-no-Brasil.-E-o-seu-futuro)
-- [O filme que retrata a internação de Lima Barreto](https://www.nexojornal.com.br/expresso/2022/09/29/O-filme-que-retrata-a-interna%C3%A7%C3%A3o-de-Lima-Barreto)
-- [O poder da Câmara dos Deputados no próximo governo](https://www.nexojornal.com.br/podcast/2022/09/29/O-poder-da-C%C3%A2mara-dos-Deputados-no-pr%C3%B3ximo-governo)
+- [Porto Alegre fica sem passe livre nas eleições após 27 anos](https://www.nexojornal.com.br/extra/2022/09/29/Porto-Alegre-fica-sem-passe-livre-nas-elei%C3%A7%C3%B5es-ap%C3%B3s-27-anos)
+- [TSE proíbe transporte de armas e munições nas eleições](https://www.nexojornal.com.br/extra/2022/09/29/TSE-pro%C3%ADbe-transporte-de-armas-e-muni%C3%A7%C3%B5es-nas-elei%C3%A7%C3%B5es)
+- [A insegurança factual, a transparência e as eleições no Brasil](https://www.nexojornal.com.br/ensaio/2022/09/29/A-inseguran%C3%A7a-factual-a-transpar%C3%AAncia-e-as-elei%C3%A7%C3%B5es-no-Brasil)
+- [Furacão Ian deixa 2,5 milhões de pessoas sem energia na Flórida](https://www.nexojornal.com.br/extra/2022/09/29/Furac%C3%A3o-Ian-deixa-25-milh%C3%B5es-de-pessoas-sem-energia-na-Fl%C3%B3rida)
+- [Senado dos EUA pede revisão de relação com Brasil em caso de golpe](https://www.nexojornal.com.br/extra/2022/09/29/Senado-dos-EUA-pede-revis%C3%A3o-de-rela%C3%A7%C3%A3o-com-Brasil-em-caso-de-golpe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
