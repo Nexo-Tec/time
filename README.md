@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senado dos EUA pede revisão de relação com Brasil em caso de golpe](https://www.nexojornal.com.br/extra/2022/09/29/Senado-dos-EUA-pede-revis%C3%A3o-de-rela%C3%A7%C3%A3o-com-Brasil-em-caso-de-golpe)
-- [Como os protestos de 2022 se comparam a outros levantes no Irã](https://www.nexojornal.com.br/expresso/2022/09/28/Como-os-protestos-de-2022-se-comparam-a-outros-levantes-no-Ir%C3%A3)
-- [A aposta na força da TV no último debate do primeiro turno](https://www.nexojornal.com.br/expresso/2022/09/28/A-aposta-na-for%C3%A7a-da-TV-no-%C3%BAltimo-debate-do-primeiro-turno)
-- [O saldo do acirramento das campanhas nas igrejas evangélicas](https://www.nexojornal.com.br/expresso/2022/09/28/O-saldo-do-acirramento-das-campanhas-nas-igrejas-evang%C3%A9licas)
-- [A influência de cargos executivos na gestão pública, em 5 eixos](https://www.nexojornal.com.br/expresso/2022/09/28/A-influ%C3%AAncia-de-cargos-executivos-na-gest%C3%A3o-p%C3%BAblica-em-5-eixos)
+- [Bate-bocas e direitos de resposta: como foi o debate final da Globo](https://www.nexojornal.com.br/expresso/2022/09/30/Bate-bocas-e-direitos-de-resposta-como-foi-o-debate-final-da-Globo)
+- [Por que a libra vive uma desvalorização histórica](https://www.nexojornal.com.br/expresso/2022/09/29/Por-que-a-libra-vive-uma-desvaloriza%C3%A7%C3%A3o-hist%C3%B3rica)
+- [O crescimento da energia solar no Brasil. E o seu futuro](https://www.nexojornal.com.br/expresso/2022/09/29/O-crescimento-da-energia-solar-no-Brasil.-E-o-seu-futuro)
+- [O filme que retrata a internação de Lima Barreto](https://www.nexojornal.com.br/expresso/2022/09/29/O-filme-que-retrata-a-interna%C3%A7%C3%A3o-de-Lima-Barreto)
+- [O poder da Câmara dos Deputados no próximo governo](https://www.nexojornal.com.br/podcast/2022/09/29/O-poder-da-C%C3%A2mara-dos-Deputados-no-pr%C3%B3ximo-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
