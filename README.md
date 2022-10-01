@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bate-bocas e direitos de resposta: como foi o debate final da Globo](https://www.nexojornal.com.br/expresso/2022/09/30/Bate-bocas-e-direitos-de-resposta-como-foi-o-debate-final-da-Globo)
-- [Por que a libra vive uma desvalorização histórica](https://www.nexojornal.com.br/expresso/2022/09/29/Por-que-a-libra-vive-uma-desvaloriza%C3%A7%C3%A3o-hist%C3%B3rica)
-- [O crescimento da energia solar no Brasil. E o seu futuro](https://www.nexojornal.com.br/expresso/2022/09/29/O-crescimento-da-energia-solar-no-Brasil.-E-o-seu-futuro)
-- [O filme que retrata a internação de Lima Barreto](https://www.nexojornal.com.br/expresso/2022/09/29/O-filme-que-retrata-a-interna%C3%A7%C3%A3o-de-Lima-Barreto)
-- [O poder da Câmara dos Deputados no próximo governo](https://www.nexojornal.com.br/podcast/2022/09/29/O-poder-da-C%C3%A2mara-dos-Deputados-no-pr%C3%B3ximo-governo)
+- [Como é o cálculo de votos para a eleição de deputados](https://www.nexojornal.com.br/video/Como-%C3%A9-o-c%C3%A1lculo-de-votos-para-a-elei%C3%A7%C3%A3o-de-deputados1)
+- [Passagem do furacão Ian pela Flórida deixa 21 mortos](https://www.nexojornal.com.br/extra/2022/09/30/Passagem-do-furac%C3%A3o-Ian-pela-Fl%C3%B3rida-deixa-21-mortos)
+- [Eleição presidencial: 35% têm vergonha de declarar voto](https://www.nexojornal.com.br/extra/2022/09/30/Elei%C3%A7%C3%A3o-presidencial-35-t%C3%AAm-vergonha-de-declarar-voto)
+- [O que você precisa saber diante da urna nas eleições de 2022](https://www.nexojornal.com.br/servico/2022/09/30/O-que-voc%C3%AA-precisa-saber-diante-da-urna-nas-elei%C3%A7%C3%B5es-de-2022)
+- [Aras publica vídeo com falas em defesa das urnas](https://www.nexojornal.com.br/extra/2022/09/30/Aras-publica-v%C3%ADdeo-com-falas-em-defesa-das-urnas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
