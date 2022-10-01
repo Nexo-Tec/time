@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é o cálculo de votos para a eleição de deputados](https://www.nexojornal.com.br/video/Como-%C3%A9-o-c%C3%A1lculo-de-votos-para-a-elei%C3%A7%C3%A3o-de-deputados1)
-- [Passagem do furacão Ian pela Flórida deixa 21 mortos](https://www.nexojornal.com.br/extra/2022/09/30/Passagem-do-furac%C3%A3o-Ian-pela-Fl%C3%B3rida-deixa-21-mortos)
-- [Eleição presidencial: 35% têm vergonha de declarar voto](https://www.nexojornal.com.br/extra/2022/09/30/Elei%C3%A7%C3%A3o-presidencial-35-t%C3%AAm-vergonha-de-declarar-voto)
-- [O que você precisa saber diante da urna nas eleições de 2022](https://www.nexojornal.com.br/servico/2022/09/30/O-que-voc%C3%AA-precisa-saber-diante-da-urna-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Aras publica vídeo com falas em defesa das urnas](https://www.nexojornal.com.br/extra/2022/09/30/Aras-publica-v%C3%ADdeo-com-falas-em-defesa-das-urnas)
+- [Veja checagem de 5 desinformações de campanhas estaduais](https://www.nexojornal.com.br/expresso/2022/09/30/Veja-checagem-de-5-desinforma%C3%A7%C3%B5es-de-campanhas-estaduais)
+- [O mea culpa da revista Nature por difundir o racismo científico](https://www.nexojornal.com.br/expresso/2022/09/30/O-mea-culpa-da-revista-Nature-por-difundir-o-racismo-cient%C3%ADfico)
+- [O que move eleitores de Lula, de Bolsonaro e quem é ‘nem nem’](https://www.nexojornal.com.br/expresso/2022/09/30/O-que-move-eleitores-de-Lula-de-Bolsonaro-e-quem-%C3%A9-%E2%80%98nem-nem%E2%80%99)
+- [Para mudar, teremos de trocar mais do que o presidente](https://www.nexojornal.com.br/ensaio/2022/09/30/Para-mudar-teremos-de-trocar-mais-do-que-o-presidente)
+- [O papel e a relevância da desinformação nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/09/30/O-papel-e-a-relev%C3%A2ncia-da-desinforma%C3%A7%C3%A3o-nas-elei%C3%A7%C3%B5es-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
