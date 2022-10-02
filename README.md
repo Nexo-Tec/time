@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Veja checagem de 5 desinformações de campanhas estaduais](https://www.nexojornal.com.br/expresso/2022/09/30/Veja-checagem-de-5-desinforma%C3%A7%C3%B5es-de-campanhas-estaduais)
-- [O mea culpa da revista Nature por difundir o racismo científico](https://www.nexojornal.com.br/expresso/2022/09/30/O-mea-culpa-da-revista-Nature-por-difundir-o-racismo-cient%C3%ADfico)
-- [O que move eleitores de Lula, de Bolsonaro e quem é ‘nem nem’](https://www.nexojornal.com.br/expresso/2022/09/30/O-que-move-eleitores-de-Lula-de-Bolsonaro-e-quem-%C3%A9-%E2%80%98nem-nem%E2%80%99)
-- [Para mudar, teremos de trocar mais do que o presidente](https://www.nexojornal.com.br/ensaio/2022/09/30/Para-mudar-teremos-de-trocar-mais-do-que-o-presidente)
-- [O papel e a relevância da desinformação nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/09/30/O-papel-e-a-relev%C3%A2ncia-da-desinforma%C3%A7%C3%A3o-nas-elei%C3%A7%C3%B5es-de-2022)
+- [5 livros para mergulhar na virada vegetal](https://www.nexojornal.com.br/estante/favoritos/2022/10/01/5-livros-para-mergulhar-na-virada-vegetal)
+- [Reta final: a legitimação da violência contra o voto](https://www.nexojornal.com.br/ensaio/2022/10/01/Reta-final-a-legitima%C3%A7%C3%A3o-da-viol%C3%AAncia-contra-o-voto)
+- [Estes são os pontos-chave para entender as eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/01/Estes-s%C3%A3o-os-pontos-chave-para-entender-as-elei%C3%A7%C3%B5es-de-20222)
+- [Como a continuidade domina as disputas nos estados](https://www.nexojornal.com.br/expresso/2022/10/01/Como-a-continuidade-domina-as-disputas-nos-estados)
+- [Democracia: um regime político sempre em construção](https://www.nexojornal.com.br/explicado/2022/10/01/Democracia-um-regime-pol%C3%ADtico-sempre-em-constru%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
