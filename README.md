@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@pleinleursyeux](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pleinleursyeux/)
 - [Mathias Alencastro: ‘O grande desafio das democracias é a emergência climática’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mathias-alencastro-a-crise-da-democracia-tambem-e-climatica/)
 - [“Feia e vulgar”, o valor da beleza e dos bons modos](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/feia-e-vulgar-o-valor-da-beleza-e-dos-bons-modos/)
 - [Agora Agora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/agora-agora/)
 - [Rafael Cariello: ‘Solução para crise fiscal que  forjou o Brasil aprofundou desigualdades’](https://gamarevista.uol.com.br/especial/rafael-cariello-solucao-para-crise-fiscal-que-forjou-o-brasil-aprofundou-desigualdades/)
-- [Seus filhos conhecem a Amazônia?](https://gamarevista.uol.com.br/formato/depoimento/seus-filhos-conhecem-a-amazonia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
