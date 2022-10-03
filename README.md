@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para mergulhar na virada vegetal](https://www.nexojornal.com.br/estante/favoritos/2022/10/01/5-livros-para-mergulhar-na-virada-vegetal)
-- [Reta final: a legitimação da violência contra o voto](https://www.nexojornal.com.br/ensaio/2022/10/01/Reta-final-a-legitima%C3%A7%C3%A3o-da-viol%C3%AAncia-contra-o-voto)
-- [Estes são os pontos-chave para entender as eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/01/Estes-s%C3%A3o-os-pontos-chave-para-entender-as-elei%C3%A7%C3%B5es-de-20222)
-- [Como a continuidade domina as disputas nos estados](https://www.nexojornal.com.br/expresso/2022/10/01/Como-a-continuidade-domina-as-disputas-nos-estados)
-- [Democracia: um regime político sempre em construção](https://www.nexojornal.com.br/explicado/2022/10/01/Democracia-um-regime-pol%C3%ADtico-sempre-em-constru%C3%A7%C3%A3o)
+- [‘O bolsonarismo vitorioso em 2022 é muito mais potente’](https://www.nexojornal.com.br/entrevista/2022/10/03/%E2%80%98O-bolsonarismo-vitorioso-em-2022-%C3%A9-muito-mais-potente%E2%80%99)
+- [Resultado das eleições presidenciais de 2022, por município](https://www.nexojornal.com.br/grafico/2022/10/03/Resultado-das-elei%C3%A7%C3%B5es-presidenciais-de-2022-por-munic%C3%ADpio)
+- [Os resultados da eleição para governador no 1º turno](https://www.nexojornal.com.br/grafico/2022/10/03/Os-resultados-da-elei%C3%A7%C3%A3o-para-governador-no-1%C2%BA-turno1)
+- [Como fica a composição das Assembleias Legislativas](https://www.nexojornal.com.br/grafico/2022/10/03/Como-fica-a-composi%C3%A7%C3%A3o-das-Assembleias-Legislativas)
+- [Imprensa estrangeira destaca surpresa de resultado presidencial](https://www.nexojornal.com.br/extra/2022/10/03/Imprensa-estrangeira-destaca-surpresa-de-resultado-presidencial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
