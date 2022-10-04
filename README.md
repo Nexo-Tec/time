@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Cristina Lopes: bioeconomia e seu papel na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/10/03/Cristina-Lopes-bioeconomia-e-seu-papel-na-Amaz%C3%B4nia)
 - [Economia da sociobiodiversidade, caminhos para a Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2022/Economia-da-sociobiodiversidade-caminhos-para-a-Amaz%C3%B4nia)
 - [Transição energética no transporte público deve considerar usuários](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transi%C3%A7%C3%A3o-energ%C3%A9tica-no-transporte-p%C3%BAblico-deve-considerar-usu%C3%A1rios)
 - []()
 - [Os urubus do Anísio: os últimos anos do maior bicheiro vivo](https://pp.nexojornal.com.br/opiniao/2022/Os-urubus-do-An%C3%ADsio-os-%C3%BAltimos-anos-do-maior-bicheiro-vivo)
-- [Mérito, religião e questão racial nas eleições 2022 no Brasil](https://pp.nexojornal.com.br/opiniao/2022/M%C3%A9rito-religi%C3%A3o-e-quest%C3%A3o-racial-nas-elei%C3%A7%C3%B5es-2022-no-Brasil)
 <!-- PP_LIST:END -->
 
