@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O bolsonarismo vitorioso em 2022 é muito mais potente’](https://www.nexojornal.com.br/entrevista/2022/10/03/%E2%80%98O-bolsonarismo-vitorioso-em-2022-%C3%A9-muito-mais-potente%E2%80%99)
-- [Resultado das eleições presidenciais de 2022, por município](https://www.nexojornal.com.br/grafico/2022/10/03/Resultado-das-elei%C3%A7%C3%B5es-presidenciais-de-2022-por-munic%C3%ADpio)
-- [Os resultados da eleição para governador no 1º turno](https://www.nexojornal.com.br/grafico/2022/10/03/Os-resultados-da-elei%C3%A7%C3%A3o-para-governador-no-1%C2%BA-turno1)
-- [Como fica a composição das Assembleias Legislativas](https://www.nexojornal.com.br/grafico/2022/10/03/Como-fica-a-composi%C3%A7%C3%A3o-das-Assembleias-Legislativas)
-- [Imprensa estrangeira destaca surpresa de resultado presidencial](https://www.nexojornal.com.br/extra/2022/10/03/Imprensa-estrangeira-destaca-surpresa-de-resultado-presidencial)
+- [Descobertas sobre mecânica quântica levam Nobel de Física](https://www.nexojornal.com.br/extra/2022/10/04/Descobertas-sobre-mec%C3%A2nica-qu%C3%A2ntica-levam-Nobel-de-F%C3%ADsica)
+- [Qual é o peso do antipetismo. E as dúvidas em relação a ele](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-%C3%A9-o-peso-do-antipetismo.-E-as-d%C3%BAvidas-em-rela%C3%A7%C3%A3o-a-ele)
+- [Os governadores já eleitos. E os estados ainda em disputa](https://www.nexojornal.com.br/expresso/2022/10/03/Os-governadores-j%C3%A1-eleitos.-E-os-estados-ainda-em-disputa)
+- [Como fica o discurso golpista com o êxito bolsonarista nas urnas](https://www.nexojornal.com.br/expresso/2022/10/03/Como-fica-o-discurso-golpista-com-o-%C3%AAxito-bolsonarista-nas-urnas)
+- [O perfil racial e de gênero dos eleitos para o Poder Legislativo](https://www.nexojornal.com.br/grafico/2022/10/03/O-perfil-racial-e-de-g%C3%AAnero-dos-eleitos-para-o-Poder-Legislativo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
