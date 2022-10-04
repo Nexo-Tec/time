@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cientista ganha Nobel de Medicina por descobertas genéticas](https://www.nexojornal.com.br/extra/2022/10/03/Cientista-ganha-Nobel-de-Medicina-por-descobertas-gen%C3%A9ticas)
+- [‘O bolsonarismo vitorioso em 2022 é muito mais potente’](https://www.nexojornal.com.br/entrevista/2022/10/03/%E2%80%98O-bolsonarismo-vitorioso-em-2022-%C3%A9-muito-mais-potente%E2%80%99)
 - [Resultado das eleições presidenciais de 2022, por município](https://www.nexojornal.com.br/grafico/2022/10/03/Resultado-das-elei%C3%A7%C3%B5es-presidenciais-de-2022-por-munic%C3%ADpio)
 - [Os resultados da eleição para governador no 1º turno](https://www.nexojornal.com.br/grafico/2022/10/03/Os-resultados-da-elei%C3%A7%C3%A3o-para-governador-no-1%C2%BA-turno1)
 - [Como fica a composição das Assembleias Legislativas](https://www.nexojornal.com.br/grafico/2022/10/03/Como-fica-a-composi%C3%A7%C3%A3o-das-Assembleias-Legislativas)
-- [Imprensa estrangeira destaca surpresa de resultado presidencial](https://www.nexojornal.com.br/extra/2022/10/03/Imprensa-estrangeira-destaca-surpresa-de-resultado-presidencial)
-- [Câmara terá deputadas trans pela primeira vez](https://www.nexojornal.com.br/extra/2022/10/03/C%C3%A2mara-ter%C3%A1-deputadas-trans-pela-primeira-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
