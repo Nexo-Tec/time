@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como recuperar o deficit de alfabetização agravado na pandemia](https://www.nexojornal.com.br/expresso/2022/10/04/Como-recuperar-o-deficit-de-alfabetiza%C3%A7%C3%A3o-agravado-na-pandemia)
-- [Governador reeleito de Minas, Zema declara apoio a Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/04/Governador-reeleito-de-Minas-Zema-declara-apoio-a-Bolsonaro)
 - [Soraya diz não apoiar nem Lula nem Bolsonaro no 2º turno](https://www.nexojornal.com.br/extra/2022/10/04/Soraya-diz-n%C3%A3o-apoiar-nem-Lula-nem-Bolsonaro-no-2%C2%BA-turno)
 - [Descobertas sobre mecânica quântica levam Nobel de Física](https://www.nexojornal.com.br/extra/2022/10/04/Descobertas-sobre-mec%C3%A2nica-qu%C3%A2ntica-levam-Nobel-de-F%C3%ADsica)
 - [Qual é o peso do antipetismo. E as dúvidas em relação a ele](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-%C3%A9-o-peso-do-antipetismo.-E-as-d%C3%BAvidas-em-rela%C3%A7%C3%A3o-a-ele)
+- [Os governadores já eleitos. E os estados ainda em disputa](https://www.nexojornal.com.br/expresso/2022/10/03/Os-governadores-j%C3%A1-eleitos.-E-os-estados-ainda-em-disputa)
+- [Como fica o discurso golpista com o êxito bolsonarista nas urnas](https://www.nexojornal.com.br/expresso/2022/10/03/Como-fica-o-discurso-golpista-com-o-%C3%AAxito-bolsonarista-nas-urnas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
