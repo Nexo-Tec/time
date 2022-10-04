@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Soraya diz não apoiar nem Lula nem Bolsonaro no 2º turno](https://www.nexojornal.com.br/extra/2022/10/04/Soraya-diz-n%C3%A3o-apoiar-nem-Lula-nem-Bolsonaro-no-2%C2%BA-turno)
-- [Descobertas sobre mecânica quântica levam Nobel de Física](https://www.nexojornal.com.br/extra/2022/10/04/Descobertas-sobre-mec%C3%A2nica-qu%C3%A2ntica-levam-Nobel-de-F%C3%ADsica)
-- [Qual é o peso do antipetismo. E as dúvidas em relação a ele](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-%C3%A9-o-peso-do-antipetismo.-E-as-d%C3%BAvidas-em-rela%C3%A7%C3%A3o-a-ele)
-- [Os governadores já eleitos. E os estados ainda em disputa](https://www.nexojornal.com.br/expresso/2022/10/03/Os-governadores-j%C3%A1-eleitos.-E-os-estados-ainda-em-disputa)
-- [Como fica o discurso golpista com o êxito bolsonarista nas urnas](https://www.nexojornal.com.br/expresso/2022/10/03/Como-fica-o-discurso-golpista-com-o-%C3%AAxito-bolsonarista-nas-urnas)
+- [Por que houve diferença entre urnas e pesquisas em 2022](https://www.nexojornal.com.br/expresso/2022/10/03/Por-que-houve-diferen%C3%A7a-entre-urnas-e-pesquisas-em-2022)
+- [Com 91 deputadas eleitas, Câmara terá recorde de mulheres](https://www.nexojornal.com.br/grafico/2022/10/03/Com-91-deputadas-eleitas-C%C3%A2mara-ter%C3%A1-recorde-de-mulheres)
+- [Bolsonaro antecipa pagamento do Auxílio Brasil para antes do 2º turno](https://www.nexojornal.com.br/extra/2022/10/03/Bolsonaro-antecipa-pagamento-do-Aux%C3%ADlio-Brasil-para-antes-do-2%C2%BA-turno)
+- [Bolsonaro perdeu em 24% dos municípios vencidos em 2018](https://www.nexojornal.com.br/grafico/2022/10/03/Bolsonaro-perdeu-em-24-dos-munic%C3%ADpios-vencidos-em-2018)
+- [Estatal russa suspende fornecimento de gás à Itália](https://www.nexojornal.com.br/extra/2022/10/03/Estatal-russa-suspende-fornecimento-de-g%C3%A1s-%C3%A0-It%C3%A1lia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
