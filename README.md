@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Descobertas sobre mecânica quântica levam Nobel de Física](https://www.nexojornal.com.br/extra/2022/10/04/Descobertas-sobre-mec%C3%A2nica-qu%C3%A2ntica-levam-Nobel-de-F%C3%ADsica)
-- [Qual é o peso do antipetismo. E as dúvidas em relação a ele](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-%C3%A9-o-peso-do-antipetismo.-E-as-d%C3%BAvidas-em-rela%C3%A7%C3%A3o-a-ele)
-- [Os governadores já eleitos. E os estados ainda em disputa](https://www.nexojornal.com.br/expresso/2022/10/03/Os-governadores-j%C3%A1-eleitos.-E-os-estados-ainda-em-disputa)
-- [Como fica o discurso golpista com o êxito bolsonarista nas urnas](https://www.nexojornal.com.br/expresso/2022/10/03/Como-fica-o-discurso-golpista-com-o-%C3%AAxito-bolsonarista-nas-urnas)
-- [O perfil racial e de gênero dos eleitos para o Poder Legislativo](https://www.nexojornal.com.br/grafico/2022/10/03/O-perfil-racial-e-de-g%C3%AAnero-dos-eleitos-para-o-Poder-Legislativo)
+- [Qual a relevância dos apoios no segundo turno presidencial](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-a-relev%C3%A2ncia-dos-apoios-no-segundo-turno-presidencial)
+- [Lula vai a segundo turno com 2º melhor desempenho do PT](https://www.nexojornal.com.br/grafico/2022/10/04/Lula-vai-a-segundo-turno-com-2%C2%BA-melhor-desempenho-do-PT)
+- [Representatividade no Congresso: avanço lento e temas sob risco](https://www.nexojornal.com.br/expresso/2022/10/04/Representatividade-no-Congresso-avan%C3%A7o-lento-e-temas-sob-risco)
+- [Eslovênia é primeiro país do leste europeu a legalizar casamento gay](https://www.nexojornal.com.br/extra/2022/10/04/Eslov%C3%AAnia-%C3%A9-primeiro-pa%C3%ADs-do-leste-europeu-a-legalizar-casamento-gay)
+- [O vale-tudo religioso no segundo turno presidencial](https://www.nexojornal.com.br/podcast/2022/10/04/O-vale-tudo-religioso-no-segundo-turno-presidencial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
