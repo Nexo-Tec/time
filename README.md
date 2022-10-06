@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Walter Firmo: “Sonhar é uma verdade”](https://gamarevista.uol.com.br/formato/conversas/walter-firmo-sonhar-e-uma-verdade/)
 - [Paulo Lessa](https://gamarevista.uol.com.br/pessoas/questionario-proust/paulo-lessa/)
 - [Versos do Além](https://gamarevista.uol.com.br/colunistas/marcello-dantas/versos-do-alem/)
 - [Trim](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/trim/)
 - [@pleinleursyeux](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pleinleursyeux/)
-- [Mathias Alencastro: ‘O grande desafio das democracias é a emergência climática’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mathias-alencastro-a-crise-da-democracia-tambem-e-climatica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
