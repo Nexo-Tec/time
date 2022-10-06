@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trio que desenvolveu ferramenta molecular leva Nobel de Química](https://www.nexojornal.com.br/extra/2022/10/05/Trio-que-desenvolveu-ferramenta-molecular-leva-Nobel-de-Qu%C3%ADmica)
 - [Qual a relevância dos apoios no segundo turno presidencial](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-a-relev%C3%A2ncia-dos-apoios-no-segundo-turno-presidencial)
 - [Lula vai a segundo turno com 2º melhor desempenho do PT](https://www.nexojornal.com.br/grafico/2022/10/04/Lula-vai-a-segundo-turno-com-2%C2%BA-melhor-desempenho-do-PT)
 - [Representatividade no Congresso: avanço lento e temas sob risco](https://www.nexojornal.com.br/expresso/2022/10/04/Representatividade-no-Congresso-avan%C3%A7o-lento-e-temas-sob-risco)
 - [Eslovênia é primeiro país do leste europeu a legalizar casamento gay](https://www.nexojornal.com.br/extra/2022/10/04/Eslov%C3%AAnia-%C3%A9-primeiro-pa%C3%ADs-do-leste-europeu-a-legalizar-casamento-gay)
+- [O vale-tudo religioso no segundo turno presidencial](https://www.nexojornal.com.br/podcast/2022/10/04/O-vale-tudo-religioso-no-segundo-turno-presidencial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
