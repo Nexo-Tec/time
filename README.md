@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Adolescente atira contra três colegas usando arma de CAC](https://www.nexojornal.com.br/extra/2022/10/05/Adolescente-atira-contra-tr%C3%AAs-colegas-usando-arma-de-CAC)
+- [Desafios da legislação](https://www.nexojornal.com.br/externo/2022/10/05/Desafios-da-legisla%C3%A7%C3%A3o)
+- [FHC declara apoio a Lula no segundo turno das eleições](https://www.nexojornal.com.br/extra/2022/10/05/FHC-declara-apoio-a-Lula-no-segundo-turno-das-elei%C3%A7%C3%B5es)
+- [Senado aprova projeto para custear piso da enfermagem](https://www.nexojornal.com.br/extra/2022/10/05/Senado-aprova-projeto-para-custear-piso-da-enfermagem)
 - [Trio que desenvolveu ferramenta molecular leva Nobel de Química](https://www.nexojornal.com.br/extra/2022/10/05/Trio-que-desenvolveu-ferramenta-molecular-leva-Nobel-de-Qu%C3%ADmica)
-- [Qual a relevância dos apoios no segundo turno presidencial](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-a-relev%C3%A2ncia-dos-apoios-no-segundo-turno-presidencial)
-- [Lula vai a segundo turno com 2º melhor desempenho do PT](https://www.nexojornal.com.br/grafico/2022/10/04/Lula-vai-a-segundo-turno-com-2%C2%BA-melhor-desempenho-do-PT)
-- [Representatividade no Congresso: avanço lento e temas sob risco](https://www.nexojornal.com.br/expresso/2022/10/04/Representatividade-no-Congresso-avan%C3%A7o-lento-e-temas-sob-risco)
-- [Eslovênia é primeiro país do leste europeu a legalizar casamento gay](https://www.nexojornal.com.br/extra/2022/10/04/Eslov%C3%AAnia-%C3%A9-primeiro-pa%C3%ADs-do-leste-europeu-a-legalizar-casamento-gay)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
