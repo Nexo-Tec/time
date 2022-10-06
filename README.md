@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A omissão do Supremo diante do uso da máquina na eleição](https://www.nexojornal.com.br/expresso/2022/10/05/A-omiss%C3%A3o-do-Supremo-diante-do-uso-da-m%C3%A1quina-na-elei%C3%A7%C3%A3o)
-- [Os desafios da pauta ambiental e científica no novo Congresso](https://www.nexojornal.com.br/expresso/2022/10/05/Os-desafios-da-pauta-ambiental-e-cient%C3%ADfica-no-novo-Congresso)
-- [Por que a economia ganha ainda mais relevância no 2º turno](https://www.nexojornal.com.br/expresso/2022/10/05/Por-que-a-economia-ganha-ainda-mais-relev%C3%A2ncia-no-2%C2%BA-turno)
-- [Guido Sant’Anna: o exemplo que o Brasil não sabe que precisa](https://www.nexojornal.com.br/colunistas/2022/Guido-Sant%E2%80%99Anna-o-exemplo-que-o-Brasil-n%C3%A3o-sabe-que-precisa)
-- [Putin abranda convocação militar e isenta estudantes](https://www.nexojornal.com.br/extra/2022/10/05/Putin-abranda-convoca%C3%A7%C3%A3o-militar-e-isenta-estudantes)
+- [Trio que desenvolveu ferramenta molecular leva Nobel de Química](https://www.nexojornal.com.br/extra/2022/10/05/Trio-que-desenvolveu-ferramenta-molecular-leva-Nobel-de-Qu%C3%ADmica)
+- [Qual a relevância dos apoios no segundo turno presidencial](https://www.nexojornal.com.br/expresso/2022/10/04/Qual-a-relev%C3%A2ncia-dos-apoios-no-segundo-turno-presidencial)
+- [Lula vai a segundo turno com 2º melhor desempenho do PT](https://www.nexojornal.com.br/grafico/2022/10/04/Lula-vai-a-segundo-turno-com-2%C2%BA-melhor-desempenho-do-PT)
+- [Representatividade no Congresso: avanço lento e temas sob risco](https://www.nexojornal.com.br/expresso/2022/10/04/Representatividade-no-Congresso-avan%C3%A7o-lento-e-temas-sob-risco)
+- [Eslovênia é primeiro país do leste europeu a legalizar casamento gay](https://www.nexojornal.com.br/extra/2022/10/04/Eslov%C3%AAnia-%C3%A9-primeiro-pa%C3%ADs-do-leste-europeu-a-legalizar-casamento-gay)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
