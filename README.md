@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Francesa Annie Ernaux vence o Nobel de Literatura](https://www.nexojornal.com.br/extra/2022/10/06/Francesa-Annie-Ernaux-vence-o-Nobel-de-Literatura)
-- [Como o bolsonarismo associou Lula ao PCC na véspera da eleição](https://www.nexojornal.com.br/externo/2022/10/06/Como-o-bolsonarismo-associou-Lula-ao-PCC-na-v%C3%A9spera-da-elei%C3%A7%C3%A3o)
-- [A omissão do Supremo diante do uso da máquina na eleição](https://www.nexojornal.com.br/expresso/2022/10/05/A-omiss%C3%A3o-do-Supremo-diante-do-uso-da-m%C3%A1quina-na-elei%C3%A7%C3%A3o)
-- [Os desafios da pauta ambiental e científica no novo Congresso](https://www.nexojornal.com.br/expresso/2022/10/05/Os-desafios-da-pauta-ambiental-e-cient%C3%ADfica-no-novo-Congresso)
-- [Por que a economia ganha ainda mais relevância no 2º turno](https://www.nexojornal.com.br/expresso/2022/10/05/Por-que-a-economia-ganha-ainda-mais-relev%C3%A2ncia-no-2%C2%BA-turno)
+- [Adolescente atira contra três colegas usando arma de CAC](https://www.nexojornal.com.br/extra/2022/10/05/Adolescente-atira-contra-tr%C3%AAs-colegas-usando-arma-de-CAC)
+- [Desafios da legislação](https://www.nexojornal.com.br/externo/2022/10/05/Desafios-da-legisla%C3%A7%C3%A3o)
+- [FHC declara apoio a Lula no segundo turno das eleições](https://www.nexojornal.com.br/extra/2022/10/05/FHC-declara-apoio-a-Lula-no-segundo-turno-das-elei%C3%A7%C3%B5es)
+- [Senado aprova projeto para custear piso da enfermagem](https://www.nexojornal.com.br/extra/2022/10/05/Senado-aprova-projeto-para-custear-piso-da-enfermagem)
+- [Trio que desenvolveu ferramenta molecular leva Nobel de Química](https://www.nexojornal.com.br/extra/2022/10/05/Trio-que-desenvolveu-ferramenta-molecular-leva-Nobel-de-Qu%C3%ADmica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
