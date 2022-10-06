@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Walter Firmo: “Sonhar é uma verdade”](https://gamarevista.uol.com.br/formato/conversas/walter-firmo-sonhar-e-uma-verdade/)
-- [Paulo Lessa](https://gamarevista.uol.com.br/pessoas/questionario-proust/paulo-lessa/)
-- [Versos do Além](https://gamarevista.uol.com.br/colunistas/marcello-dantas/versos-do-alem/)
-- [Trim](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/trim/)
-- [@pleinleursyeux](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pleinleursyeux/)
+- [Nova tradução de Annie Ernaux](https://gamarevista.uol.com.br/achamos-que-vale/ler/nova-traducao-de-annie-ernaux/)
+- [O jazz toma conta dos Sescs de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-jazz-toma-conta-dos-sescs-de-sp/)
+- [Comida, comida e mais comida nas telas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/comida-comida-e-mais-comida-nas-telas/)
+- [Dez horas da nova MPB em Fortaleza](https://gamarevista.uol.com.br/achamos-que-vale/ir/dez-horas-da-nova-mpb-em-fortaleza/)
+- [Curso para quem ama comida e literatura](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-para-quem-ama-comida-e-literatura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
