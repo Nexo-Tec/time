@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A primavera na sua taça](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/a-primavera-na-sua-taca/)
 - [Lugar de Mulher É Online e Onde Mais Ela Quiser](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugar-de-mulher-e-online-e-onde-mais-ela-quiser/)
 - [Nova tradução de Annie Ernaux](https://gamarevista.uol.com.br/achamos-que-vale/ler/nova-traducao-de-annie-ernaux/)
 - [O jazz toma conta dos Sescs de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-jazz-toma-conta-dos-sescs-de-sp/)
 - [Comida, comida e mais comida nas telas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/comida-comida-e-mais-comida-nas-telas/)
-- [Dez horas da nova MPB em Fortaleza](https://gamarevista.uol.com.br/achamos-que-vale/ir/dez-horas-da-nova-mpb-em-fortaleza/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
