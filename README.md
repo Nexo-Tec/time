@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Francesa Annie Ernaux vence o Nobel de Literatura](https://www.nexojornal.com.br/extra/2022/10/06/Francesa-Annie-Ernaux-vence-o-Nobel-de-Literatura)
-- [Como o bolsonarismo associou Lula ao PCC na véspera da eleição](https://www.nexojornal.com.br/externo/2022/10/06/Como-o-bolsonarismo-associou-Lula-ao-PCC-na-v%C3%A9spera-da-elei%C3%A7%C3%A3o)
-- [A omissão do Supremo diante do uso da máquina na eleição](https://www.nexojornal.com.br/expresso/2022/10/05/A-omiss%C3%A3o-do-Supremo-diante-do-uso-da-m%C3%A1quina-na-elei%C3%A7%C3%A3o)
-- [Os desafios da pauta ambiental e científica no novo Congresso](https://www.nexojornal.com.br/expresso/2022/10/05/Os-desafios-da-pauta-ambiental-e-cient%C3%ADfica-no-novo-Congresso)
-- [Por que a economia ganha ainda mais relevância no 2º turno](https://www.nexojornal.com.br/expresso/2022/10/05/Por-que-a-economia-ganha-ainda-mais-relev%C3%A2ncia-no-2%C2%BA-turno)
+- [Opositores de Putin e Lukashenko ganham Nobel da Paz de 2022](https://www.nexojornal.com.br/extra/2022/10/07/Opositores-de-Putin-e-Lukashenko-ganham-Nobel-da-Paz-de-2022)
+- [Em 335 municípios, tanto Lula como Bolsonaro tiveram mais de 45%](https://www.nexojornal.com.br/grafico/2022/10/06/Em-335-munic%C3%ADpios-tanto-Lula-como-Bolsonaro-tiveram-mais-de-45)
+- [Como a xenofobia contra nordestinos se fortalece em eleições](https://www.nexojornal.com.br/expresso/2022/10/06/Como-a-xenofobia-contra-nordestinos-se-fortalece-em-elei%C3%A7%C3%B5es)
+- [Como o 2º turno força Lula a firmar compromissos à direita](https://www.nexojornal.com.br/expresso/2022/10/06/Como-o-2%C2%BA-turno-for%C3%A7a-Lula-a-firmar-compromissos-%C3%A0-direita)
+- [Entre cortes e crises: a Educação no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/06/Entre-cortes-e-crises-a-Educa%C3%A7%C3%A3o-no-governo-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
