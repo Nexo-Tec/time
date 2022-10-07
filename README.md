@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O falso canibalismo Yanomami relatado por Bolsonaro](https://www.nexojornal.com.br/externo/2022/10/07/O-falso-canibalismo-Yanomami-relatado-por-Bolsonaro)
-- [Propaganda: Lula fala a evangélicos. Bolsonaro, às mulheres](https://www.nexojornal.com.br/extra/2022/10/07/Propaganda-Lula-fala-a-evang%C3%A9licos.-Bolsonaro-%C3%A0s-mulheres)
-- [Assembleia de São Paulo abre processo de cassação de Isa Penna](https://www.nexojornal.com.br/extra/2022/10/07/Assembleia-de-S%C3%A3o-Paulo-abre-processo-de-cassa%C3%A7%C3%A3o-de-Isa-Penna)
-- [Amazônia: alertas de desmatamento batem recorde em setembro](https://www.nexojornal.com.br/extra/2022/10/07/Amaz%C3%B4nia-alertas-de-desmatamento-batem-recorde-em-setembro)
-- [Opositores de Putin e Lukashenko ganham Nobel da Paz de 2022](https://www.nexojornal.com.br/extra/2022/10/07/Opositores-de-Putin-e-Lukashenko-ganham-Nobel-da-Paz-de-2022)
+- [Teste de integridade das urnas não registram divergência](https://www.nexojornal.com.br/extra/2022/10/06/Teste-de-integridade-das-urnas-n%C3%A3o-registram-diverg%C3%AAncia)
+- [Tempo de mudanças e reencontro com a esperança](https://www.nexojornal.com.br/colunistas/2022/Tempo-de-mudan%C3%A7as-e-reencontro-com-a-esperan%C3%A7a)
+- [Biden anuncia perdão de condenados por posse de maconha](https://www.nexojornal.com.br/extra/2022/10/06/Biden-anuncia-perd%C3%A3o-de-condenados-por-posse-de-maconha)
+- [Pará investiga caso suspeito de paralisia infantil](https://www.nexojornal.com.br/extra/2022/10/06/Par%C3%A1-investiga-caso-suspeito-de-paralisia-infantil)
+- [Maiores partidos da Câmara se dividem entre Lula e Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/06/Maiores-partidos-da-C%C3%A2mara-se-dividem-entre-Lula-e-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
