@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Opositores de Putin e Lukashenko ganham Nobel da Paz de 2022](https://www.nexojornal.com.br/extra/2022/10/07/Opositores-de-Putin-e-Lukashenko-ganham-Nobel-da-Paz-de-2022)
-- [Em 335 municípios, tanto Lula como Bolsonaro tiveram mais de 45%](https://www.nexojornal.com.br/grafico/2022/10/06/Em-335-munic%C3%ADpios-tanto-Lula-como-Bolsonaro-tiveram-mais-de-45)
-- [Como a xenofobia contra nordestinos se fortalece em eleições](https://www.nexojornal.com.br/expresso/2022/10/06/Como-a-xenofobia-contra-nordestinos-se-fortalece-em-elei%C3%A7%C3%B5es)
-- [Como o 2º turno força Lula a firmar compromissos à direita](https://www.nexojornal.com.br/expresso/2022/10/06/Como-o-2%C2%BA-turno-for%C3%A7a-Lula-a-firmar-compromissos-%C3%A0-direita)
-- [Entre cortes e crises: a Educação no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/06/Entre-cortes-e-crises-a-Educa%C3%A7%C3%A3o-no-governo-Bolsonaro)
+- [Teste de integridade das urnas não registram divergência](https://www.nexojornal.com.br/extra/2022/10/06/Teste-de-integridade-das-urnas-n%C3%A3o-registram-diverg%C3%AAncia)
+- [Tempo de mudanças e reencontro com a esperança](https://www.nexojornal.com.br/colunistas/2022/Tempo-de-mudan%C3%A7as-e-reencontro-com-a-esperan%C3%A7a)
+- [Biden anuncia perdão de condenados por posse de maconha](https://www.nexojornal.com.br/extra/2022/10/06/Biden-anuncia-perd%C3%A3o-de-condenados-por-posse-de-maconha)
+- [Pará investiga caso suspeito de paralisia infantil](https://www.nexojornal.com.br/extra/2022/10/06/Par%C3%A1-investiga-caso-suspeito-de-paralisia-infantil)
+- [Maiores partidos da Câmara se dividem entre Lula e Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/06/Maiores-partidos-da-C%C3%A2mara-se-dividem-entre-Lula-e-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
