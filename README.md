@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Opositores de Putin e Lukashenko ganham Nobel da Paz de 2022](https://www.nexojornal.com.br/extra/2022/10/07/Opositores-de-Putin-e-Lukashenko-ganham-Nobel-da-Paz-de-2022)
-- [Em 335 municípios, tanto Lula como Bolsonaro tiveram mais de 45%](https://www.nexojornal.com.br/grafico/2022/10/06/Em-335-munic%C3%ADpios-tanto-Lula-como-Bolsonaro-tiveram-mais-de-45)
-- [Como a xenofobia contra nordestinos se fortalece em eleições](https://www.nexojornal.com.br/expresso/2022/10/06/Como-a-xenofobia-contra-nordestinos-se-fortalece-em-elei%C3%A7%C3%B5es)
-- [Como o 2º turno força Lula a firmar compromissos à direita](https://www.nexojornal.com.br/expresso/2022/10/06/Como-o-2%C2%BA-turno-for%C3%A7a-Lula-a-firmar-compromissos-%C3%A0-direita)
-- [Entre cortes e crises: a Educação no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/06/Entre-cortes-e-crises-a-Educa%C3%A7%C3%A3o-no-governo-Bolsonaro)
+- [O contraste de visões econômicas liberais nas eleições](https://www.nexojornal.com.br/expresso/2022/10/07/O-contraste-de-vis%C3%B5es-econ%C3%B4micas-liberais-nas-elei%C3%A7%C3%B5es)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/07/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Kit gay’, que não existiu, é ressuscitado nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/07/%E2%80%98Kit-gay%E2%80%99-que-n%C3%A3o-existiu-%C3%A9-ressuscitado-nas-elei%C3%A7%C3%B5es-de-2022)
+- [A chegada dos super-heróis no cânone literário](https://www.nexojornal.com.br/expresso/2022/10/07/A-chegada-dos-super-her%C3%B3is-no-c%C3%A2none-liter%C3%A1rio)
+- [Nova York declara estado de emergência por onda imigratória](https://www.nexojornal.com.br/extra/2022/10/07/Nova-York-declara-estado-de-emerg%C3%AAncia-por-onda-imigrat%C3%B3ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
