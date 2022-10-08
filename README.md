@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O contraste de visões econômicas liberais nas eleições](https://www.nexojornal.com.br/expresso/2022/10/07/O-contraste-de-vis%C3%B5es-econ%C3%B4micas-liberais-nas-elei%C3%A7%C3%B5es)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/07/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Kit gay’, que não existiu, é ressuscitado nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/07/%E2%80%98Kit-gay%E2%80%99-que-n%C3%A3o-existiu-%C3%A9-ressuscitado-nas-elei%C3%A7%C3%B5es-de-2022)
-- [A chegada dos super-heróis no cânone literário](https://www.nexojornal.com.br/expresso/2022/10/07/A-chegada-dos-super-her%C3%B3is-no-c%C3%A2none-liter%C3%A1rio)
-- [Nova York declara estado de emergência por onda imigratória](https://www.nexojornal.com.br/extra/2022/10/07/Nova-York-declara-estado-de-emerg%C3%AAncia-por-onda-imigrat%C3%B3ria)
+- [Começam a valer mudanças nos rótulos de alimentos. Veja quais](https://www.nexojornal.com.br/extra/2022/10/08/Come%C3%A7am-a-valer-mudan%C3%A7as-nos-r%C3%B3tulos-de-alimentos.-Veja-quais)
+- [Golpista que inspirou série deixa prisão nos EUA](https://www.nexojornal.com.br/extra/2022/10/08/Golpista-que-inspirou-s%C3%A9rie-deixa-pris%C3%A3o-nos-EUA)
+- [Bolsonaro participa de celebração católica sem ter sido convidado](https://www.nexojornal.com.br/extra/2022/10/08/Bolsonaro-participa-de-celebra%C3%A7%C3%A3o-cat%C3%B3lica-sem-ter-sido-convidado)
+- [Como o bolsonarismo aponta para um cerco maior ao Supremo](https://www.nexojornal.com.br/expresso/2022/10/08/Como-o-bolsonarismo-aponta-para-um-cerco-maior-ao-Supremo)
+- [Explosão destrói parte da ponte que liga a Crimeia à Rússia](https://www.nexojornal.com.br/extra/2022/10/08/Explos%C3%A3o-destr%C3%B3i-parte-da-ponte-que-liga-a-Crimeia-%C3%A0-R%C3%BAssia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
