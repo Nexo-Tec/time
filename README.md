@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O falso canibalismo Yanomami relatado por Bolsonaro](https://www.nexojornal.com.br/externo/2022/10/07/O-falso-canibalismo-Yanomami-relatado-por-Bolsonaro)
-- [Propaganda: Lula fala a evangélicos. Bolsonaro, às mulheres](https://www.nexojornal.com.br/extra/2022/10/07/Propaganda-Lula-fala-a-evang%C3%A9licos.-Bolsonaro-%C3%A0s-mulheres)
-- [Assembleia de São Paulo abre processo de cassação de Isa Penna](https://www.nexojornal.com.br/extra/2022/10/07/Assembleia-de-S%C3%A3o-Paulo-abre-processo-de-cassa%C3%A7%C3%A3o-de-Isa-Penna)
-- [Amazônia: alertas de desmatamento batem recorde em setembro](https://www.nexojornal.com.br/extra/2022/10/07/Amaz%C3%B4nia-alertas-de-desmatamento-batem-recorde-em-setembro)
 - [Opositores de Putin e Lukashenko ganham Nobel da Paz de 2022](https://www.nexojornal.com.br/extra/2022/10/07/Opositores-de-Putin-e-Lukashenko-ganham-Nobel-da-Paz-de-2022)
+- [Em 335 municípios, tanto Lula como Bolsonaro tiveram mais de 45%](https://www.nexojornal.com.br/grafico/2022/10/06/Em-335-munic%C3%ADpios-tanto-Lula-como-Bolsonaro-tiveram-mais-de-45)
+- [Como a xenofobia contra nordestinos se fortalece em eleições](https://www.nexojornal.com.br/expresso/2022/10/06/Como-a-xenofobia-contra-nordestinos-se-fortalece-em-elei%C3%A7%C3%B5es)
+- [Como o 2º turno força Lula a firmar compromissos à direita](https://www.nexojornal.com.br/expresso/2022/10/06/Como-o-2%C2%BA-turno-for%C3%A7a-Lula-a-firmar-compromissos-%C3%A0-direita)
+- [Entre cortes e crises: a Educação no governo Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/06/Entre-cortes-e-crises-a-Educa%C3%A7%C3%A3o-no-governo-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
