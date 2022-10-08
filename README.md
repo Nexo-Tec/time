@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Começam a valer mudanças nos rótulos de alimentos. Veja quais](https://www.nexojornal.com.br/extra/2022/10/08/Come%C3%A7am-a-valer-mudan%C3%A7as-nos-r%C3%B3tulos-de-alimentos.-Veja-quais)
+- [Golpista que inspirou série deixa prisão nos EUA](https://www.nexojornal.com.br/extra/2022/10/08/Golpista-que-inspirou-s%C3%A9rie-deixa-pris%C3%A3o-nos-EUA)
+- [Bolsonaro participa de celebração católica sem ter sido convidado](https://www.nexojornal.com.br/extra/2022/10/08/Bolsonaro-participa-de-celebra%C3%A7%C3%A3o-cat%C3%B3lica-sem-ter-sido-convidado)
+- [Como o bolsonarismo aponta para um cerco maior ao Supremo](https://www.nexojornal.com.br/expresso/2022/10/08/Como-o-bolsonarismo-aponta-para-um-cerco-maior-ao-Supremo)
 - [Explosão destrói parte da ponte que liga a Crimeia à Rússia](https://www.nexojornal.com.br/extra/2022/10/08/Explos%C3%A3o-destr%C3%B3i-parte-da-ponte-que-liga-a-Crimeia-%C3%A0-R%C3%BAssia)
-- [A ‘gentrificação estética’ na maquiagem de Hailey Bieber](https://www.nexojornal.com.br/expresso/2022/10/08/A-%E2%80%98gentrifica%C3%A7%C3%A3o-est%C3%A9tica%E2%80%99-na-maquiagem-de-Hailey-Bieber)
-- [As possibilidades de diálogo com o mundo evangélico](https://www.nexojornal.com.br/ensaio/2022/10/08/As-possibilidades-de-di%C3%A1logo-com-o-mundo-evang%C3%A9lico)
-- [O contraste de visões econômicas liberais nas eleições](https://www.nexojornal.com.br/expresso/2022/10/07/O-contraste-de-vis%C3%B5es-econ%C3%B4micas-liberais-nas-elei%C3%A7%C3%B5es)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/07/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
