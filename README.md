@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre a história dos árabes no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/10/08/5-livros-sobre-a-hist%C3%B3ria-dos-%C3%A1rabes-no-Brasil)
-- [Deputado mais votado contesta resultado das eleições em MG](https://www.nexojornal.com.br/expresso/2022/10/08/Deputado-mais-votado-contesta-resultado-das-elei%C3%A7%C3%B5es-em-MG)
-- [A geopolítica por trás dos golpes em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/10/08/A-geopol%C3%ADtica-por-tr%C3%A1s-dos-golpes-em-Burkina-Faso)
-- [Como vota quem chacoalhou a política na última década](https://www.nexojornal.com.br/expresso/2022/10/08/Como-vota-quem-chacoalhou-a-pol%C3%ADtica-na-%C3%BAltima-d%C3%A9cada)
-- [As lições de um economista para sair do atoleiro](https://www.nexojornal.com.br/ensaio/2022/10/08/As-li%C3%A7%C3%B5es-de-um-economista-para-sair-do-atoleiro)
+- [Explosão destrói parte da ponte que liga a Crimeia à Rússia](https://www.nexojornal.com.br/extra/2022/10/08/Explos%C3%A3o-destr%C3%B3i-parte-da-ponte-que-liga-a-Crimeia-%C3%A0-R%C3%BAssia)
+- [A ‘gentrificação estética’ na maquiagem de Hailey Bieber](https://www.nexojornal.com.br/expresso/2022/10/08/A-%E2%80%98gentrifica%C3%A7%C3%A3o-est%C3%A9tica%E2%80%99-na-maquiagem-de-Hailey-Bieber)
+- [As possibilidades de diálogo com o mundo evangélico](https://www.nexojornal.com.br/ensaio/2022/10/08/As-possibilidades-de-di%C3%A1logo-com-o-mundo-evang%C3%A9lico)
+- [O contraste de visões econômicas liberais nas eleições](https://www.nexojornal.com.br/expresso/2022/10/07/O-contraste-de-vis%C3%B5es-econ%C3%B4micas-liberais-nas-elei%C3%A7%C3%B5es)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/07/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
