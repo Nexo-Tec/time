@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre a história dos árabes no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/10/08/5-livros-sobre-a-hist%C3%B3ria-dos-%C3%A1rabes-no-Brasil)
-- [Deputado mais votado contesta resultado das eleições em MG](https://www.nexojornal.com.br/expresso/2022/10/08/Deputado-mais-votado-contesta-resultado-das-elei%C3%A7%C3%B5es-em-MG)
-- [A geopolítica por trás dos golpes em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/10/08/A-geopol%C3%ADtica-por-tr%C3%A1s-dos-golpes-em-Burkina-Faso)
-- [Como vota quem chacoalhou a política na última década](https://www.nexojornal.com.br/expresso/2022/10/08/Como-vota-quem-chacoalhou-a-pol%C3%ADtica-na-%C3%BAltima-d%C3%A9cada)
-- [As lições de um economista para sair do atoleiro](https://www.nexojornal.com.br/ensaio/2022/10/08/As-li%C3%A7%C3%B5es-de-um-economista-para-sair-do-atoleiro)
+- [Começam a valer mudanças nos rótulos de alimentos. Veja quais](https://www.nexojornal.com.br/extra/2022/10/08/Come%C3%A7am-a-valer-mudan%C3%A7as-nos-r%C3%B3tulos-de-alimentos.-Veja-quais)
+- [Golpista que inspirou série deixa prisão nos EUA](https://www.nexojornal.com.br/extra/2022/10/08/Golpista-que-inspirou-s%C3%A9rie-deixa-pris%C3%A3o-nos-EUA)
+- [Bolsonaro participa de celebração católica sem ter sido convidado](https://www.nexojornal.com.br/extra/2022/10/08/Bolsonaro-participa-de-celebra%C3%A7%C3%A3o-cat%C3%B3lica-sem-ter-sido-convidado)
+- [Como o bolsonarismo aponta para um cerco maior ao Supremo](https://www.nexojornal.com.br/expresso/2022/10/08/Como-o-bolsonarismo-aponta-para-um-cerco-maior-ao-Supremo)
+- [Explosão destrói parte da ponte que liga a Crimeia à Rússia](https://www.nexojornal.com.br/extra/2022/10/08/Explos%C3%A3o-destr%C3%B3i-parte-da-ponte-que-liga-a-Crimeia-%C3%A0-R%C3%BAssia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
