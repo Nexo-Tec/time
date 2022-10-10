@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pioneiro do pensamento ecológico, Bruno Latour morre aos 75 anos](https://www.nexojornal.com.br/extra/2022/10/09/Pioneiro-do-pensamento-ecol%C3%B3gico-Bruno-Latour-morre-aos-75-anos)
+- [Bruno e Dom: Justiça manda soltar suposto mandante das mortes](https://www.nexojornal.com.br/extra/2022/10/09/Bruno-e-Dom-Justi%C3%A7a-manda-soltar-suposto-mandante-das-mortes)
 - [5 livros sobre a história dos árabes no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/10/08/5-livros-sobre-a-hist%C3%B3ria-dos-%C3%A1rabes-no-Brasil)
 - [Deputado mais votado contesta resultado das eleições em MG](https://www.nexojornal.com.br/expresso/2022/10/08/Deputado-mais-votado-contesta-resultado-das-elei%C3%A7%C3%B5es-em-MG)
 - [A geopolítica por trás dos golpes em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/10/08/A-geopol%C3%ADtica-por-tr%C3%A1s-dos-golpes-em-Burkina-Faso)
-- [Como vota quem chacoalhou a política na última década](https://www.nexojornal.com.br/expresso/2022/10/08/Como-vota-quem-chacoalhou-a-pol%C3%ADtica-na-%C3%BAltima-d%C3%A9cada)
-- [As lições de um economista para sair do atoleiro](https://www.nexojornal.com.br/ensaio/2022/10/08/As-li%C3%A7%C3%B5es-de-um-economista-para-sair-do-atoleiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
