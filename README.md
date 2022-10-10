@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que está em jogo: o Brasil será uma democracia em 2026?](https://www.nexojornal.com.br/ensaio/2022/10/09/O-que-est%C3%A1-em-jogo-o-Brasil-ser%C3%A1-uma-democracia-em-2026)
-- [Qual é o papel dos vices nas chapas de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/10/09/Qual-%C3%A9-o-papel-dos-vices-nas-chapas-de-Lula-e-Bolsonaro)
-- [O voto de cabresto na campanha eleitoral de 2022](https://www.nexojornal.com.br/expresso/2022/10/09/O-voto-de-cabresto-na-campanha-eleitoral-de-2022)
-- [Bolsonaro condiciona mudanças no Supremo a ‘temperatura’ da corte](https://www.nexojornal.com.br/extra/2022/10/09/Bolsonaro-condiciona-mudan%C3%A7as-no-Supremo-a-%E2%80%98temperatura%E2%80%99-da-corte)
-- [Duas pontes da BR-319 no Amazonas desabaram em dez dias](https://www.nexojornal.com.br/extra/2022/10/09/Duas-pontes-da-BR-319-no-Amazonas-desabaram-em-dez-dias)
+- [Pioneiro do pensamento ecológico, Bruno Latour morre aos 75 anos](https://www.nexojornal.com.br/extra/2022/10/09/Pioneiro-do-pensamento-ecol%C3%B3gico-Bruno-Latour-morre-aos-75-anos)
+- [Bruno e Dom: Justiça manda soltar suposto mandante das mortes](https://www.nexojornal.com.br/extra/2022/10/09/Bruno-e-Dom-Justi%C3%A7a-manda-soltar-suposto-mandante-das-mortes)
+- [5 livros sobre a história dos árabes no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/10/08/5-livros-sobre-a-hist%C3%B3ria-dos-%C3%A1rabes-no-Brasil)
+- [Deputado mais votado contesta resultado das eleições em MG](https://www.nexojornal.com.br/expresso/2022/10/08/Deputado-mais-votado-contesta-resultado-das-elei%C3%A7%C3%B5es-em-MG)
+- [A geopolítica por trás dos golpes em Burkina Faso](https://www.nexojornal.com.br/expresso/2022/10/08/A-geopol%C3%ADtica-por-tr%C3%A1s-dos-golpes-em-Burkina-Faso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
