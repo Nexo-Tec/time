@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O aleitamento materno, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/O-aleitamento-materno-em-6-pontos)
+- [Democracia e desigualdade racial](https://pp.nexojornal.com.br/bibliografia-basica/2022/10/10/Democracia-e-desigualdade-racial)
+- [Construção do pensamento geográfico e atuação cidadã na educação básica](https://pp.nexojornal.com.br/ponto-de-vista/2022/Constru%C3%A7%C3%A3o-do-pensamento-geogr%C3%A1fico-e-atua%C3%A7%C3%A3o-cidad%C3%A3-na-educa%C3%A7%C3%A3o-b%C3%A1sica)
 - [Cristina Lopes: bioeconomia e seu papel na Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/10/03/Cristina-Lopes-bioeconomia-e-seu-papel-na-Amaz%C3%B4nia)
 - [Economia da sociobiodiversidade, caminhos para a Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2022/Economia-da-sociobiodiversidade-caminhos-para-a-Amaz%C3%B4nia)
-- [Transição energética no transporte público deve considerar usuários](https://pp.nexojornal.com.br/ponto-de-vista/2022/Transi%C3%A7%C3%A3o-energ%C3%A9tica-no-transporte-p%C3%BAblico-deve-considerar-usu%C3%A1rios)
-- []()
-- [Os urubus do Anísio: os últimos anos do maior bicheiro vivo](https://pp.nexojornal.com.br/opiniao/2022/Os-urubus-do-An%C3%ADsio-os-%C3%BAltimos-anos-do-maior-bicheiro-vivo)
 <!-- PP_LIST:END -->
 
