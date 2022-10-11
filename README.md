@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Endividamento das famílias bate novo recorde e chega a 79,3%](https://www.nexojornal.com.br/extra/2022/10/10/Endividamento-das-fam%C3%ADlias-bate-novo-recorde-e-chega-a-793)
-- [Auditores do TCU veem fraude de R$ 1 bilhão em estatal federal](https://www.nexojornal.com.br/extra/2022/10/10/Auditores-do-TCU-veem-fraude-de-R-1-bilh%C3%A3o-em-estatal-federal)
-- [O que é governo aberto. E como o Brasil vai na direção contrária](https://www.nexojornal.com.br/expresso/2022/10/10/O-que-%C3%A9-governo-aberto.-E-como-o-Brasil-vai-na-dire%C3%A7%C3%A3o-contr%C3%A1ria)
-- [Estudos sobre crises bancárias ganham Nobel de Economia](https://www.nexojornal.com.br/extra/2022/10/10/Estudos-sobre-crises-banc%C3%A1rias-ganham-Nobel-de-Economia)
-- [O que está em jogo: o Brasil será uma democracia em 2026?](https://www.nexojornal.com.br/ensaio/2022/10/09/O-que-est%C3%A1-em-jogo-o-Brasil-ser%C3%A1-uma-democracia-em-2026)
+- [7 momentos-chave para entender a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/10/7-momentos-chave-para-entender-a-guerra-na-Ucr%C3%A2nia)
+- [Quais verbas o governo Bolsonaro cortou no período eleitoral](https://www.nexojornal.com.br/expresso/2022/10/10/Quais-verbas-o-governo-Bolsonaro-cortou-no-per%C3%ADodo-eleitoral)
+- [Toda vez que as elites, sobretudo agrárias, se sentem ameaçadas, buscam eleger o autoritarismo](https://www.nexojornal.com.br/colunistas/2022/Toda-vez-que-as-elites-sobretudo-agr%C3%A1rias-se-sentem-amea%C3%A7adas-buscam-eleger-o-autoritarismo)
+- [O Brasil vai virar a Venezuela? Uma ameaça que paira no ar](https://www.nexojornal.com.br/podcast/2022/10/10/O-Brasil-vai-virar-a-Venezuela-Uma-amea%C3%A7a-que-paira-no-ar)
+- [Professora faz gesto semelhante a saudação nazista em aula](https://www.nexojornal.com.br/extra/2022/10/10/Professora-faz-gesto-semelhante-a-sauda%C3%A7%C3%A3o-nazista-em-aula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
