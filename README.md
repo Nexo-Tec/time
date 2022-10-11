@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Endividamento das famílias bate novo recorde e chega a 79,3%](https://www.nexojornal.com.br/extra/2022/10/10/Endividamento-das-fam%C3%ADlias-bate-novo-recorde-e-chega-a-793)
-- [Auditores do TCU veem fraude de R$ 1 bilhão em estatal federal](https://www.nexojornal.com.br/extra/2022/10/10/Auditores-do-TCU-veem-fraude-de-R-1-bilh%C3%A3o-em-estatal-federal)
-- [O que é governo aberto. E como o Brasil vai na direção contrária](https://www.nexojornal.com.br/expresso/2022/10/10/O-que-%C3%A9-governo-aberto.-E-como-o-Brasil-vai-na-dire%C3%A7%C3%A3o-contr%C3%A1ria)
-- [Estudos sobre crises bancárias ganham Nobel de Economia](https://www.nexojornal.com.br/extra/2022/10/10/Estudos-sobre-crises-banc%C3%A1rias-ganham-Nobel-de-Economia)
 - [O que está em jogo: o Brasil será uma democracia em 2026?](https://www.nexojornal.com.br/ensaio/2022/10/09/O-que-est%C3%A1-em-jogo-o-Brasil-ser%C3%A1-uma-democracia-em-2026)
+- [Qual é o papel dos vices nas chapas de Lula e Bolsonaro](https://www.nexojornal.com.br/expresso/2022/10/09/Qual-%C3%A9-o-papel-dos-vices-nas-chapas-de-Lula-e-Bolsonaro)
+- [O voto de cabresto na campanha eleitoral de 2022](https://www.nexojornal.com.br/expresso/2022/10/09/O-voto-de-cabresto-na-campanha-eleitoral-de-2022)
+- [Bolsonaro condiciona mudanças no Supremo a ‘temperatura’ da corte](https://www.nexojornal.com.br/extra/2022/10/09/Bolsonaro-condiciona-mudan%C3%A7as-no-Supremo-a-%E2%80%98temperatura%E2%80%99-da-corte)
+- [Duas pontes da BR-319 no Amazonas desabaram em dez dias](https://www.nexojornal.com.br/extra/2022/10/09/Duas-pontes-da-BR-319-no-Amazonas-desabaram-em-dez-dias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
