@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [7 momentos-chave para entender a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/10/7-momentos-chave-para-entender-a-guerra-na-Ucr%C3%A2nia)
-- [Quais verbas o governo Bolsonaro cortou no período eleitoral](https://www.nexojornal.com.br/expresso/2022/10/10/Quais-verbas-o-governo-Bolsonaro-cortou-no-per%C3%ADodo-eleitoral)
-- [Toda vez que as elites, sobretudo agrárias, se sentem ameaçadas, buscam eleger o autoritarismo](https://www.nexojornal.com.br/colunistas/2022/Toda-vez-que-as-elites-sobretudo-agr%C3%A1rias-se-sentem-amea%C3%A7adas-buscam-eleger-o-autoritarismo)
-- [O Brasil vai virar a Venezuela? Uma ameaça que paira no ar](https://www.nexojornal.com.br/podcast/2022/10/10/O-Brasil-vai-virar-a-Venezuela-Uma-amea%C3%A7a-que-paira-no-ar)
-- [Professora faz gesto semelhante a saudação nazista em aula](https://www.nexojornal.com.br/extra/2022/10/10/Professora-faz-gesto-semelhante-a-sauda%C3%A7%C3%A3o-nazista-em-aula)
+- [O silêncio dos militares sobre a auditoria nas urnas](https://www.nexojornal.com.br/podcast/2022/10/11/O-sil%C3%AAncio-dos-militares-sobre-a-auditoria-nas-urnas)
+- [‘O ato de brincar é algo que nos une como seres humanos’](https://www.nexojornal.com.br/entrevista/2022/10/11/%E2%80%98O-ato-de-brincar-%C3%A9-algo-que-nos-une-como-seres-humanos%E2%80%99)
+- [Como o cenário ruim da economia mundial pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/10/11/Como-o-cen%C3%A1rio-ruim-da-economia-mundial-pode-afetar-o-Brasil)
+- [A calculadora online que ajuda você a atingir o sono ideal](https://www.nexojornal.com.br/expresso/2022/10/11/A-calculadora-online-que-ajuda-voc%C3%AA-a-atingir-o-sono-ideal)
+- [Violência política: Brasil registra um caso a cada 26 horas](https://www.nexojornal.com.br/extra/2022/10/11/Viol%C3%AAncia-pol%C3%ADtica-Brasil-registra-um-caso-a-cada-26-horas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
