@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil já registrou cinco mortes por varíola dos macacos](https://www.nexojornal.com.br/extra/2022/10/11/Brasil-j%C3%A1-registrou-cinco-mortes-por-var%C3%ADola-dos-macacos)
-- [O papel dos municípios na segurança alimentar de crianças](https://www.nexojornal.com.br/expresso/2022/10/11/O-papel-dos-munic%C3%ADpios-na-seguran%C3%A7a-alimentar-de-crian%C3%A7as)
-- [Festival Lollapalooza anuncia atrações para edição de 2023](https://www.nexojornal.com.br/extra/2022/10/11/Festival-Lollapalooza-anuncia-atra%C3%A7%C3%B5es-para-edi%C3%A7%C3%A3o-de-2023)
-- [A diferença no voto entre as capitais e o resto do estado](https://www.nexojornal.com.br/grafico/2022/10/11/A-diferen%C3%A7a-no-voto-entre-as-capitais-e-o-resto-do-estado)
-- [Preços caem 0,29% em setembro, terceiro mês seguido de queda](https://www.nexojornal.com.br/extra/2022/10/11/Pre%C3%A7os-caem-029-em-setembro-terceiro-m%C3%AAs-seguido-de-queda)
+- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
+- [Eu, você e a BR-319: os impactos do asfaltamento](https://www.nexojornal.com.br/ensaio/2022/10/11/Eu-voc%C3%AA-e-a-BR-319-os-impactos-do-asfaltamento)
+- [Por que o cerco aos institutos de pesquisa mina a democracia](https://www.nexojornal.com.br/expresso/2022/10/11/Por-que-o-cerco-aos-institutos-de-pesquisa-mina-a-democracia)
+- [CNBB critica uso eleitoral da fé antes de visita de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/11/CNBB-critica-uso-eleitoral-da-f%C3%A9-antes-de-visita-de-Bolsonaro)
+- [Como viver em cavernas protege um modo de vida palestino](https://www.nexojornal.com.br/externo/2022/10/11/Como-viver-em-cavernas-protege-um-modo-de-vida-palestino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
