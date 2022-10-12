@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil já registrou cinco mortes por varíola dos macacos](https://www.nexojornal.com.br/extra/2022/10/11/Brasil-j%C3%A1-registrou-cinco-mortes-por-var%C3%ADola-dos-macacos)
-- [O papel dos municípios na segurança alimentar de crianças](https://www.nexojornal.com.br/expresso/2022/10/11/O-papel-dos-munic%C3%ADpios-na-seguran%C3%A7a-alimentar-de-crian%C3%A7as)
-- [Festival Lollapalooza anuncia atrações para edição de 2023](https://www.nexojornal.com.br/extra/2022/10/11/Festival-Lollapalooza-anuncia-atra%C3%A7%C3%B5es-para-edi%C3%A7%C3%A3o-de-2023)
-- [A diferença no voto entre as capitais e o resto do estado](https://www.nexojornal.com.br/grafico/2022/10/11/A-diferen%C3%A7a-no-voto-entre-as-capitais-e-o-resto-do-estado)
-- [Preços caem 0,29% em setembro, terceiro mês seguido de queda](https://www.nexojornal.com.br/extra/2022/10/11/Pre%C3%A7os-caem-029-em-setembro-terceiro-m%C3%AAs-seguido-de-queda)
+- [O silêncio dos militares sobre a auditoria nas urnas](https://www.nexojornal.com.br/podcast/2022/10/11/O-sil%C3%AAncio-dos-militares-sobre-a-auditoria-nas-urnas)
+- [‘O ato de brincar é algo que nos une como seres humanos’](https://www.nexojornal.com.br/entrevista/2022/10/11/%E2%80%98O-ato-de-brincar-%C3%A9-algo-que-nos-une-como-seres-humanos%E2%80%99)
+- [Como o cenário ruim da economia mundial pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/10/11/Como-o-cen%C3%A1rio-ruim-da-economia-mundial-pode-afetar-o-Brasil)
+- [A calculadora online que ajuda você a atingir o sono ideal](https://www.nexojornal.com.br/expresso/2022/10/11/A-calculadora-online-que-ajuda-voc%C3%AA-a-atingir-o-sono-ideal)
+- [Violência política: Brasil registra um caso a cada 26 horas](https://www.nexojornal.com.br/extra/2022/10/11/Viol%C3%AAncia-pol%C3%ADtica-Brasil-registra-um-caso-a-cada-26-horas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
