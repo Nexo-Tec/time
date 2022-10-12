@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [7 momentos-chave para entender a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/10/7-momentos-chave-para-entender-a-guerra-na-Ucr%C3%A2nia)
-- [Quais verbas o governo Bolsonaro cortou no período eleitoral](https://www.nexojornal.com.br/expresso/2022/10/10/Quais-verbas-o-governo-Bolsonaro-cortou-no-per%C3%ADodo-eleitoral)
-- [Toda vez que as elites, sobretudo agrárias, se sentem ameaçadas, buscam eleger o autoritarismo](https://www.nexojornal.com.br/colunistas/2022/Toda-vez-que-as-elites-sobretudo-agr%C3%A1rias-se-sentem-amea%C3%A7adas-buscam-eleger-o-autoritarismo)
-- [O Brasil vai virar a Venezuela? Uma ameaça que paira no ar](https://www.nexojornal.com.br/podcast/2022/10/10/O-Brasil-vai-virar-a-Venezuela-Uma-amea%C3%A7a-que-paira-no-ar)
-- [Professora faz gesto semelhante a saudação nazista em aula](https://www.nexojornal.com.br/extra/2022/10/10/Professora-faz-gesto-semelhante-a-sauda%C3%A7%C3%A3o-nazista-em-aula)
+- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
+- [Eu, você e a BR-319: os impactos do asfaltamento](https://www.nexojornal.com.br/ensaio/2022/10/11/Eu-voc%C3%AA-e-a-BR-319-os-impactos-do-asfaltamento)
+- [Por que o cerco aos institutos de pesquisa mina a democracia](https://www.nexojornal.com.br/expresso/2022/10/11/Por-que-o-cerco-aos-institutos-de-pesquisa-mina-a-democracia)
+- [CNBB critica uso eleitoral da fé antes de visita de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/11/CNBB-critica-uso-eleitoral-da-f%C3%A9-antes-de-visita-de-Bolsonaro)
+- [Como viver em cavernas protege um modo de vida palestino](https://www.nexojornal.com.br/externo/2022/10/11/Como-viver-em-cavernas-protege-um-modo-de-vida-palestino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
