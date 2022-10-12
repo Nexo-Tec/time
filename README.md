@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tribunal do Rio solta José Dumont, suspeito de crimes de pedofilia](https://www.nexojornal.com.br/extra/2022/10/12/Tribunal-do-Rio-solta-Jos%C3%A9-Dumont-suspeito-de-crimes-de-pedofilia)
+- [Fabricante chinesa realiza teste de ‘carro voador’ em Dubai](https://www.nexojornal.com.br/extra/2022/10/12/Fabricante-chinesa-realiza-teste-de-%E2%80%98carro-voador%E2%80%99-em-Dubai)
+- [Em Aparecida, arcebispo incentiva brasileiros a votarem](https://www.nexojornal.com.br/extra/2022/10/12/Em-Aparecida-arcebispo-incentiva-brasileiros-a-votarem)
+- [Rússia prende oito suspeitos de explosão na ponte da Crimeia](https://www.nexojornal.com.br/extra/2022/10/12/R%C3%BAssia-prende-oito-suspeitos-de-explos%C3%A3o-na-ponte-da-Crimeia)
 - [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
-- [Eu, você e a BR-319: os impactos do asfaltamento](https://www.nexojornal.com.br/ensaio/2022/10/11/Eu-voc%C3%AA-e-a-BR-319-os-impactos-do-asfaltamento)
-- [Por que o cerco aos institutos de pesquisa mina a democracia](https://www.nexojornal.com.br/expresso/2022/10/11/Por-que-o-cerco-aos-institutos-de-pesquisa-mina-a-democracia)
-- [CNBB critica uso eleitoral da fé antes de visita de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/11/CNBB-critica-uso-eleitoral-da-f%C3%A9-antes-de-visita-de-Bolsonaro)
-- [Como viver em cavernas protege um modo de vida palestino](https://www.nexojornal.com.br/externo/2022/10/11/Como-viver-em-cavernas-protege-um-modo-de-vida-palestino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
