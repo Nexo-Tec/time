@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O silêncio dos militares sobre a auditoria nas urnas](https://www.nexojornal.com.br/podcast/2022/10/11/O-sil%C3%AAncio-dos-militares-sobre-a-auditoria-nas-urnas)
-- [‘O ato de brincar é algo que nos une como seres humanos’](https://www.nexojornal.com.br/entrevista/2022/10/11/%E2%80%98O-ato-de-brincar-%C3%A9-algo-que-nos-une-como-seres-humanos%E2%80%99)
-- [Como o cenário ruim da economia mundial pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2022/10/11/Como-o-cen%C3%A1rio-ruim-da-economia-mundial-pode-afetar-o-Brasil)
-- [A calculadora online que ajuda você a atingir o sono ideal](https://www.nexojornal.com.br/expresso/2022/10/11/A-calculadora-online-que-ajuda-voc%C3%AA-a-atingir-o-sono-ideal)
-- [Violência política: Brasil registra um caso a cada 26 horas](https://www.nexojornal.com.br/extra/2022/10/11/Viol%C3%AAncia-pol%C3%ADtica-Brasil-registra-um-caso-a-cada-26-horas)
+- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
+- [Eu, você e a BR-319: os impactos do asfaltamento](https://www.nexojornal.com.br/ensaio/2022/10/11/Eu-voc%C3%AA-e-a-BR-319-os-impactos-do-asfaltamento)
+- [Por que o cerco aos institutos de pesquisa mina a democracia](https://www.nexojornal.com.br/expresso/2022/10/11/Por-que-o-cerco-aos-institutos-de-pesquisa-mina-a-democracia)
+- [CNBB critica uso eleitoral da fé antes de visita de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/11/CNBB-critica-uso-eleitoral-da-f%C3%A9-antes-de-visita-de-Bolsonaro)
+- [Como viver em cavernas protege um modo de vida palestino](https://www.nexojornal.com.br/externo/2022/10/11/Como-viver-em-cavernas-protege-um-modo-de-vida-palestino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
