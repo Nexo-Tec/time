@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como ser mais esperto com as milhas](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-acumular-milhas/)
 - [@lumapsantos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lumapsantos/)
 - [Ciúme entre irmãos: ‘Ninguém gosta de se sentir excluído’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ciume-de-irmao-ninguem-gosta-de-se-sentir-excluido/)
 - [A primavera na sua taça](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/a-primavera-na-sua-taca/)
 - [Lugar de Mulher É Online e Onde Mais Ela Quiser](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugar-de-mulher-e-online-e-onde-mais-ela-quiser/)
-- [Nova tradução de Annie Ernaux](https://gamarevista.uol.com.br/achamos-que-vale/ler/nova-traducao-de-annie-ernaux/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
