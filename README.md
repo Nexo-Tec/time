@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil já registrou cinco mortes por varíola dos macacos](https://www.nexojornal.com.br/extra/2022/10/11/Brasil-j%C3%A1-registrou-cinco-mortes-por-var%C3%ADola-dos-macacos)
-- [O papel dos municípios na segurança alimentar de crianças](https://www.nexojornal.com.br/expresso/2022/10/11/O-papel-dos-munic%C3%ADpios-na-seguran%C3%A7a-alimentar-de-crian%C3%A7as)
-- [Festival Lollapalooza anuncia atrações para edição de 2023](https://www.nexojornal.com.br/extra/2022/10/11/Festival-Lollapalooza-anuncia-atra%C3%A7%C3%B5es-para-edi%C3%A7%C3%A3o-de-2023)
-- [A diferença no voto entre as capitais e o resto do estado](https://www.nexojornal.com.br/grafico/2022/10/11/A-diferen%C3%A7a-no-voto-entre-as-capitais-e-o-resto-do-estado)
-- [Preços caem 0,29% em setembro, terceiro mês seguido de queda](https://www.nexojornal.com.br/extra/2022/10/11/Pre%C3%A7os-caem-029-em-setembro-terceiro-m%C3%AAs-seguido-de-queda)
+- [7 momentos-chave para entender a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/10/7-momentos-chave-para-entender-a-guerra-na-Ucr%C3%A2nia)
+- [Quais verbas o governo Bolsonaro cortou no período eleitoral](https://www.nexojornal.com.br/expresso/2022/10/10/Quais-verbas-o-governo-Bolsonaro-cortou-no-per%C3%ADodo-eleitoral)
+- [Toda vez que as elites, sobretudo agrárias, se sentem ameaçadas, buscam eleger o autoritarismo](https://www.nexojornal.com.br/colunistas/2022/Toda-vez-que-as-elites-sobretudo-agr%C3%A1rias-se-sentem-amea%C3%A7adas-buscam-eleger-o-autoritarismo)
+- [O Brasil vai virar a Venezuela? Uma ameaça que paira no ar](https://www.nexojornal.com.br/podcast/2022/10/10/O-Brasil-vai-virar-a-Venezuela-Uma-amea%C3%A7a-que-paira-no-ar)
+- [Professora faz gesto semelhante a saudação nazista em aula](https://www.nexojornal.com.br/extra/2022/10/10/Professora-faz-gesto-semelhante-a-sauda%C3%A7%C3%A3o-nazista-em-aula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
