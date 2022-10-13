@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
-- [Eu, você e a BR-319: os impactos do asfaltamento](https://www.nexojornal.com.br/ensaio/2022/10/11/Eu-voc%C3%AA-e-a-BR-319-os-impactos-do-asfaltamento)
-- [Por que o cerco aos institutos de pesquisa mina a democracia](https://www.nexojornal.com.br/expresso/2022/10/11/Por-que-o-cerco-aos-institutos-de-pesquisa-mina-a-democracia)
-- [CNBB critica uso eleitoral da fé antes de visita de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/11/CNBB-critica-uso-eleitoral-da-f%C3%A9-antes-de-visita-de-Bolsonaro)
-- [Como viver em cavernas protege um modo de vida palestino](https://www.nexojornal.com.br/externo/2022/10/11/Como-viver-em-cavernas-protege-um-modo-de-vida-palestino)
+- [Qual o impacto da redução de partidos na política brasileira](https://www.nexojornal.com.br/expresso/2022/10/12/Qual-o-impacto-da-redu%C3%A7%C3%A3o-de-partidos-na-pol%C3%ADtica-brasileira)
+- [A democracia brasileira continua doente](https://www.nexojornal.com.br/colunistas/2022/A-democracia-brasileira-continua-doente)
+- [Homem vestido de vermelho é cercado em Aparecida](https://www.nexojornal.com.br/extra/2022/10/12/Homem-vestido-de-vermelho-%C3%A9-cercado-em-Aparecida)
+- [Suspeito de armazenar pornografia infantil, José Dumont é solto](https://www.nexojornal.com.br/extra/2022/10/12/Suspeito-de-armazenar-pornografia-infantil-Jos%C3%A9-Dumont-%C3%A9-solto)
+- [Fabricante chinesa realiza teste de ‘carro voador’ em Dubai](https://www.nexojornal.com.br/extra/2022/10/12/Fabricante-chinesa-realiza-teste-de-%E2%80%98carro-voador%E2%80%99-em-Dubai)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
