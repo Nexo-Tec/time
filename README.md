@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tribunal do Rio solta José Dumont, suspeito de crimes de pedofilia](https://www.nexojornal.com.br/extra/2022/10/12/Tribunal-do-Rio-solta-Jos%C3%A9-Dumont-suspeito-de-crimes-de-pedofilia)
-- [Fabricante chinesa realiza teste de ‘carro voador’ em Dubai](https://www.nexojornal.com.br/extra/2022/10/12/Fabricante-chinesa-realiza-teste-de-%E2%80%98carro-voador%E2%80%99-em-Dubai)
-- [Em Aparecida, arcebispo incentiva brasileiros a votarem](https://www.nexojornal.com.br/extra/2022/10/12/Em-Aparecida-arcebispo-incentiva-brasileiros-a-votarem)
-- [Rússia prende oito suspeitos de explosão na ponte da Crimeia](https://www.nexojornal.com.br/extra/2022/10/12/R%C3%BAssia-prende-oito-suspeitos-de-explos%C3%A3o-na-ponte-da-Crimeia)
-- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
+- [‘Nexo’ passa a republicar conteúdo da Amazônia Real](https://www.nexojornal.com.br/expresso/2022/10/13/%E2%80%98Nexo%E2%80%99-passa-a-republicar-conte%C3%BAdo-da-Amaz%C3%B4nia-Real)
+- [Sigla em boné de Lula significa ‘complexo’, e não gíria do crime](https://www.nexojornal.com.br/expresso/2022/10/13/Sigla-em-bon%C3%A9-de-Lula-significa-%E2%80%98complexo%E2%80%99-e-n%C3%A3o-g%C3%ADria-do-crime)
+- [Cade abre investigação contra institutos de pesquisa](https://www.nexojornal.com.br/extra/2022/10/13/Cade-abre-investiga%C3%A7%C3%A3o-contra-institutos-de-pesquisa)
+- [A votação para presidente no 1° turno no exterior em 2022](https://www.nexojornal.com.br/grafico/2022/10/13/A-vota%C3%A7%C3%A3o-para-presidente-no-1%C2%B0-turno-no-exterior-em-2022)
+- [TSE devolve elegibilidade a Valmir do Francisquinho e filho](https://www.nexojornal.com.br/extra/2022/10/13/TSE-devolve-elegibilidade-a-Valmir-do-Francisquinho-e-filho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
