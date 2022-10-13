@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o impacto da redução de partidos na política brasileira](https://www.nexojornal.com.br/expresso/2022/10/12/Qual-o-impacto-da-redu%C3%A7%C3%A3o-de-partidos-na-pol%C3%ADtica-brasileira)
-- [A democracia brasileira continua doente](https://www.nexojornal.com.br/colunistas/2022/A-democracia-brasileira-continua-doente)
-- [Homem vestido de vermelho é cercado em Aparecida](https://www.nexojornal.com.br/extra/2022/10/12/Homem-vestido-de-vermelho-%C3%A9-cercado-em-Aparecida)
-- [Suspeito de armazenar pornografia infantil, José Dumont é solto](https://www.nexojornal.com.br/extra/2022/10/12/Suspeito-de-armazenar-pornografia-infantil-Jos%C3%A9-Dumont-%C3%A9-solto)
+- [Tribunal do Rio solta José Dumont, suspeito de crimes de pedofilia](https://www.nexojornal.com.br/extra/2022/10/12/Tribunal-do-Rio-solta-Jos%C3%A9-Dumont-suspeito-de-crimes-de-pedofilia)
 - [Fabricante chinesa realiza teste de ‘carro voador’ em Dubai](https://www.nexojornal.com.br/extra/2022/10/12/Fabricante-chinesa-realiza-teste-de-%E2%80%98carro-voador%E2%80%99-em-Dubai)
+- [Em Aparecida, arcebispo incentiva brasileiros a votarem](https://www.nexojornal.com.br/extra/2022/10/12/Em-Aparecida-arcebispo-incentiva-brasileiros-a-votarem)
+- [Rússia prende oito suspeitos de explosão na ponte da Crimeia](https://www.nexojornal.com.br/extra/2022/10/12/R%C3%BAssia-prende-oito-suspeitos-de-explos%C3%A3o-na-ponte-da-Crimeia)
+- [As implicações das falas de Damares sobre estupro de crianças](https://www.nexojornal.com.br/expresso/2022/10/12/As-implica%C3%A7%C3%B5es-das-falas-de-Damares-sobre-estupro-de-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
