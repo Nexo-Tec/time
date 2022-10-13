@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O sonho de amor de Marc Chagall em BH](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-sonho-de-amor-de-marc-chagall-em-bh/)
+- [O poder das igrejas evangélicas na periferia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poder-das-igrejas-evangelicas-na-periferia/)
+- [Traumas globais e pessoais em novo livro de Ian McEwan](https://gamarevista.uol.com.br/achamos-que-vale/ler/traumas-globais-e-pessoais-em-novo-livro-de-ian-mcewan/)
+- [Cozinhe com o que tem na geladeira](https://gamarevista.uol.com.br/achamos-que-vale/fazer/cozinhe-com-o-que-tem-na-geladeira/)
 - [Como ser mais esperto com as milhas](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-acumular-milhas/)
-- [@lumapsantos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lumapsantos/)
-- [Ciúme entre irmãos: ‘Ninguém gosta de se sentir excluído’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ciume-de-irmao-ninguem-gosta-de-se-sentir-excluido/)
-- [A primavera na sua taça](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/a-primavera-na-sua-taca/)
-- [Lugar de Mulher É Online e Onde Mais Ela Quiser](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lugar-de-mulher-e-online-e-onde-mais-ela-quiser/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
