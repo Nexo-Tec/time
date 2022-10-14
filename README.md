@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aos Prantos no Mercado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/aos-prantos-no-mercado/)
 - [Lenora de Barros e Jonathas de Andrade em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/lenora-de-barros-e-jonathas-de-andrade-em-sp/)
 - [O sonho de amor de Marc Chagall em BH](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-sonho-de-amor-de-marc-chagall-em-bh/)
 - [O poder das igrejas evangélicas na periferia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poder-das-igrejas-evangelicas-na-periferia/)
 - [Traumas globais e pessoais em novo livro de Ian McEwan](https://gamarevista.uol.com.br/achamos-que-vale/ler/traumas-globais-e-pessoais-em-novo-livro-de-ian-mcewan/)
-- [Cozinhe com o que tem na geladeira](https://gamarevista.uol.com.br/achamos-que-vale/fazer/cozinhe-com-o-que-tem-na-geladeira/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
