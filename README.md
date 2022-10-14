@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ativistas jogam molho de tomate em pintura de Van Gogh](https://www.nexojornal.com.br/extra/2022/10/14/Ativistas-jogam-molho-de-tomate-em-pintura-de-Van-Gogh)
-- [‘O invencível verão de Liliana’: sobrevivendo a um feminicídio](https://www.nexojornal.com.br/estante/trechos/2022/10/14/%E2%80%98O-invenc%C3%ADvel-ver%C3%A3o-de-Liliana%E2%80%99-sobrevivendo-a-um-feminic%C3%ADdio)
-- [O desafio da educação indígena na primeira infância](https://www.nexojornal.com.br/externo/2022/10/14/O-desafio-da-educa%C3%A7%C3%A3o-ind%C3%ADgena-na-primeira-inf%C3%A2ncia)
-- [Morre Robbie Coltrane, o Hagrid de ‘Harry Potter’](https://www.nexojornal.com.br/extra/2022/10/14/Morre-Robbie-Coltrane-o-Hagrid-de-%E2%80%98Harry-Potter%E2%80%99)
-- [O sabor viciante dos ultraprocessados. E os riscos que vêm junto](https://www.nexojornal.com.br/expresso/2022/10/14/O-sabor-viciante-dos-ultraprocessados.-E-os-riscos-que-v%C3%AAm-junto)
+- [‘Nexo’ passa a republicar conteúdo da Amazônia Real](https://www.nexojornal.com.br/expresso/2022/10/13/%E2%80%98Nexo%E2%80%99-passa-a-republicar-conte%C3%BAdo-da-Amaz%C3%B4nia-Real)
+- [Sigla em boné de Lula significa ‘complexo’, e não gíria do crime](https://www.nexojornal.com.br/expresso/2022/10/13/Sigla-em-bon%C3%A9-de-Lula-significa-%E2%80%98complexo%E2%80%99-e-n%C3%A3o-g%C3%ADria-do-crime)
+- [Cade abre investigação contra institutos de pesquisa](https://www.nexojornal.com.br/extra/2022/10/13/Cade-abre-investiga%C3%A7%C3%A3o-contra-institutos-de-pesquisa)
+- [A votação para presidente no 1° turno no exterior em 2022](https://www.nexojornal.com.br/grafico/2022/10/13/A-vota%C3%A7%C3%A3o-para-presidente-no-1%C2%B0-turno-no-exterior-em-2022)
+- [TSE devolve elegibilidade a Valmir do Francisquinho e filho](https://www.nexojornal.com.br/extra/2022/10/13/TSE-devolve-elegibilidade-a-Valmir-do-Francisquinho-e-filho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
