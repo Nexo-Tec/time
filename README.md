@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 4.500 profissionais da saúde morreram de covid no Brasil](https://www.nexojornal.com.br/extra/2022/10/13/Mais-de-4.500-profissionais-da-sa%C3%BAde-morreram-de-covid-no-Brasil)
-- [Promotoria vai apurar festa de Dia da Criança com armas em Minas](https://www.nexojornal.com.br/extra/2022/10/13/Promotoria-vai-apurar-festa-de-Dia-da-Crian%C3%A7a-com-armas-em-Minas)
-- [Política habitacional: a efetividade do crédito financeiro](https://www.nexojornal.com.br/academico/2022/10/13/Pol%C3%ADtica-habitacional-a-efetividade-do-cr%C3%A9dito-financeiro)
 - [Qual o impacto da redução de partidos na política brasileira](https://www.nexojornal.com.br/expresso/2022/10/12/Qual-o-impacto-da-redu%C3%A7%C3%A3o-de-partidos-na-pol%C3%ADtica-brasileira)
 - [A democracia brasileira continua doente](https://www.nexojornal.com.br/colunistas/2022/A-democracia-brasileira-continua-doente)
+- [Homem vestido de vermelho é cercado em Aparecida](https://www.nexojornal.com.br/extra/2022/10/12/Homem-vestido-de-vermelho-%C3%A9-cercado-em-Aparecida)
+- [Suspeito de armazenar pornografia infantil, José Dumont é solto](https://www.nexojornal.com.br/extra/2022/10/12/Suspeito-de-armazenar-pornografia-infantil-Jos%C3%A9-Dumont-%C3%A9-solto)
+- [Fabricante chinesa realiza teste de ‘carro voador’ em Dubai](https://www.nexojornal.com.br/extra/2022/10/12/Fabricante-chinesa-realiza-teste-de-%E2%80%98carro-voador%E2%80%99-em-Dubai)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
