@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Nexo’ passa a republicar conteúdo da Amazônia Real](https://www.nexojornal.com.br/expresso/2022/10/13/%E2%80%98Nexo%E2%80%99-passa-a-republicar-conte%C3%BAdo-da-Amaz%C3%B4nia-Real)
-- [Sigla em boné de Lula significa ‘complexo’, e não gíria do crime](https://www.nexojornal.com.br/expresso/2022/10/13/Sigla-em-bon%C3%A9-de-Lula-significa-%E2%80%98complexo%E2%80%99-e-n%C3%A3o-g%C3%ADria-do-crime)
-- [Cade abre investigação contra institutos de pesquisa](https://www.nexojornal.com.br/extra/2022/10/13/Cade-abre-investiga%C3%A7%C3%A3o-contra-institutos-de-pesquisa)
-- [A votação para presidente no 1° turno no exterior em 2022](https://www.nexojornal.com.br/grafico/2022/10/13/A-vota%C3%A7%C3%A3o-para-presidente-no-1%C2%B0-turno-no-exterior-em-2022)
-- [TSE devolve elegibilidade a Valmir do Francisquinho e filho](https://www.nexojornal.com.br/extra/2022/10/13/TSE-devolve-elegibilidade-a-Valmir-do-Francisquinho-e-filho)
+- [Promotoria vai apurar festa de Dia da Criança com armas em Minas](https://www.nexojornal.com.br/extra/2022/10/13/Promotoria-vai-apurar-festa-de-Dia-da-Crian%C3%A7a-com-armas-em-Minas)
+- [Política habitacional: a efetividade do crédito financeiro](https://www.nexojornal.com.br/academico/2022/10/13/Pol%C3%ADtica-habitacional-a-efetividade-do-cr%C3%A9dito-financeiro)
+- [Qual o impacto da redução de partidos na política brasileira](https://www.nexojornal.com.br/expresso/2022/10/12/Qual-o-impacto-da-redu%C3%A7%C3%A3o-de-partidos-na-pol%C3%ADtica-brasileira)
+- [A democracia brasileira continua doente](https://www.nexojornal.com.br/colunistas/2022/A-democracia-brasileira-continua-doente)
+- [Homem vestido de vermelho é cercado em Aparecida](https://www.nexojornal.com.br/extra/2022/10/12/Homem-vestido-de-vermelho-%C3%A9-cercado-em-Aparecida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
