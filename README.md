@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Onyx exalta ‘primeira-dama de verdade’. Leite condena homofobia](https://www.nexojornal.com.br/extra/2022/10/13/Onyx-exalta-%E2%80%98primeira-dama-de-verdade%E2%80%99.-Leite-condena-homofobia)
-- [Informação e diálogo: o que precisamos para esta eleição](https://www.nexojornal.com.br/colunistas/2022/Informa%C3%A7%C3%A3o-e-di%C3%A1logo-o-que-precisamos-para-esta-elei%C3%A7%C3%A3o)
-- [A confirmação do afastamento do governador de Alagoas](https://www.nexojornal.com.br/expresso/2022/10/13/A-confirma%C3%A7%C3%A3o-do-afastamento-do-governador-de-Alagoas)
-- [Câmeras em PMs: dos resultados obtidos ao debate eleitoral](https://www.nexojornal.com.br/expresso/2022/10/13/C%C3%A2meras-em-PMs-dos-resultados-obtidos-ao-debate-eleitoral)
-- [STF nega aborto a mulher que corre risco com gêmeos siameses](https://www.nexojornal.com.br/extra/2022/10/13/STF-nega-aborto-a-mulher-que-corre-risco-com-g%C3%AAmeos-siameses)
+- [Mais de 4.500 profissionais da saúde morreram de covid no Brasil](https://www.nexojornal.com.br/extra/2022/10/13/Mais-de-4.500-profissionais-da-sa%C3%BAde-morreram-de-covid-no-Brasil)
+- [Promotoria vai apurar festa de Dia da Criança com armas em Minas](https://www.nexojornal.com.br/extra/2022/10/13/Promotoria-vai-apurar-festa-de-Dia-da-Crian%C3%A7a-com-armas-em-Minas)
+- [Política habitacional: a efetividade do crédito financeiro](https://www.nexojornal.com.br/academico/2022/10/13/Pol%C3%ADtica-habitacional-a-efetividade-do-cr%C3%A9dito-financeiro)
+- [Qual o impacto da redução de partidos na política brasileira](https://www.nexojornal.com.br/expresso/2022/10/12/Qual-o-impacto-da-redu%C3%A7%C3%A3o-de-partidos-na-pol%C3%ADtica-brasileira)
+- [A democracia brasileira continua doente](https://www.nexojornal.com.br/colunistas/2022/A-democracia-brasileira-continua-doente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
