@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que está em jogo no Congresso do Partido Comunista da China](https://www.nexojornal.com.br/expresso/2022/10/14/O-que-est%C3%A1-em-jogo-no-Congresso-do-Partido-Comunista-da-China)
-- [Policiais são presos pela morte de Genivaldo em Sergipe](https://www.nexojornal.com.br/extra/2022/10/14/Policiais-s%C3%A3o-presos-pela-morte-de-Genivaldo-em-Sergipe)
-- [Itália elege ultraconservadores para Câmera e Senado](https://www.nexojornal.com.br/extra/2022/10/14/It%C3%A1lia-elege-ultraconservadores-para-C%C3%A2mera-e-Senado)
-- [O que acontece quando seu chefe é substituído por um algoritmo](https://www.nexojornal.com.br/externo/2022/10/14/O-que-acontece-quando-seu-chefe-%C3%A9-substitu%C3%ADdo-por-um-algoritmo)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/14/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Ativistas jogam molho de tomate em pintura de Van Gogh](https://www.nexojornal.com.br/extra/2022/10/14/Ativistas-jogam-molho-de-tomate-em-pintura-de-Van-Gogh)
+- [‘O invencível verão de Liliana’: sobrevivendo a um feminicídio](https://www.nexojornal.com.br/estante/trechos/2022/10/14/%E2%80%98O-invenc%C3%ADvel-ver%C3%A3o-de-Liliana%E2%80%99-sobrevivendo-a-um-feminic%C3%ADdio)
+- [O desafio da educação indígena na primeira infância](https://www.nexojornal.com.br/externo/2022/10/14/O-desafio-da-educa%C3%A7%C3%A3o-ind%C3%ADgena-na-primeira-inf%C3%A2ncia)
+- [Morre Robbie Coltrane, o Hagrid de ‘Harry Potter’](https://www.nexojornal.com.br/extra/2022/10/14/Morre-Robbie-Coltrane-o-Hagrid-de-%E2%80%98Harry-Potter%E2%80%99)
+- [O sabor viciante dos ultraprocessados. E os riscos que vêm junto](https://www.nexojornal.com.br/expresso/2022/10/14/O-sabor-viciante-dos-ultraprocessados.-E-os-riscos-que-v%C3%AAm-junto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
