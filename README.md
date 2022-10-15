@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [João Amoêdo declara voto em Lula e é criticado pelo Novo](https://www.nexojornal.com.br/extra/2022/10/15/Jo%C3%A3o-Amo%C3%AAdo-declara-voto-em-Lula-e-%C3%A9-criticado-pelo-Novo)
-- [Explosão de mina na Turquia deixa pelo menos 41 mortos](https://www.nexojornal.com.br/extra/2022/10/15/Explos%C3%A3o-de-mina-na-Turquia-deixa-pelo-menos-41-mortos)
-- [Justiça considera Pablo Marçal eleito deputado federal em SP](https://www.nexojornal.com.br/extra/2022/10/15/Justi%C3%A7a-considera-Pablo-Mar%C3%A7al-eleito-deputado-federal-em-SP)
-- [As prisões do orçamento secreto. E as frentes de investigação](https://www.nexojornal.com.br/expresso/2022/10/14/As-pris%C3%B5es-do-or%C3%A7amento-secreto.-E-as-frentes-de-investiga%C3%A7%C3%A3o)
-- [O que está em jogo no Congresso do Partido Comunista da China](https://www.nexojornal.com.br/expresso/2022/10/14/O-que-est%C3%A1-em-jogo-no-Congresso-do-Partido-Comunista-da-China)
+- [O que acontece quando seu chefe é substituído por um algoritmo](https://www.nexojornal.com.br/externo/2022/10/14/O-que-acontece-quando-seu-chefe-%C3%A9-substitu%C3%ADdo-por-um-algoritmo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/14/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [O ‘orçamento secreto’ investigado. O cerco às pesquisas. E mais](https://www.nexojornal.com.br/video/extrato/O-%E2%80%98or%C3%A7amento-secreto%E2%80%99-investigado.-O-cerco-%C3%A0s-pesquisas.-E-mais)
+- [Tarcísio recua sobre câmeras em PMs e fala em ouvir especialistas](https://www.nexojornal.com.br/extra/2022/10/14/Tarc%C3%ADsio-recua-sobre-c%C3%A2meras-em-PMs-e-fala-em-ouvir-especialistas)
+- [Datafolha: cenário das intenções de voto é estável](https://www.nexojornal.com.br/extra/2022/10/14/Datafolha-cen%C3%A1rio-das-inten%C3%A7%C3%B5es-de-voto-%C3%A9-est%C3%A1vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
