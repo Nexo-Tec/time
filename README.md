@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As prisões do orçamento secreto. E as frentes de investigação](https://www.nexojornal.com.br/expresso/2022/10/14/As-pris%C3%B5es-do-or%C3%A7amento-secreto.-E-as-frentes-de-investiga%C3%A7%C3%A3o)
 - [O que está em jogo no Congresso do Partido Comunista da China](https://www.nexojornal.com.br/expresso/2022/10/14/O-que-est%C3%A1-em-jogo-no-Congresso-do-Partido-Comunista-da-China)
 - [Policiais são presos pela morte de Genivaldo em Sergipe](https://www.nexojornal.com.br/extra/2022/10/14/Policiais-s%C3%A3o-presos-pela-morte-de-Genivaldo-em-Sergipe)
-- [Itália elege ultraconservadores para Câmara e Senado](https://www.nexojornal.com.br/extra/2022/10/14/It%C3%A1lia-elege-ultraconservadores-para-C%C3%A2mara-e-Senado)
+- [Itália elege ultraconservadores para Câmera e Senado](https://www.nexojornal.com.br/extra/2022/10/14/It%C3%A1lia-elege-ultraconservadores-para-C%C3%A2mera-e-Senado)
 - [O que acontece quando seu chefe é substituído por um algoritmo](https://www.nexojornal.com.br/externo/2022/10/14/O-que-acontece-quando-seu-chefe-%C3%A9-substitu%C3%ADdo-por-um-algoritmo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/14/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
