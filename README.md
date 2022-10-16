@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Governabilidade fica mais difícil com o centro esvaziado’](https://www.nexojornal.com.br/entrevista/2022/10/15/%E2%80%98Governabilidade-fica-mais-dif%C3%ADcil-com-o-centro-esvaziado%E2%80%99)
-- [Conselho Federal de Medicina restringe uso do canabidiol](https://www.nexojornal.com.br/extra/2022/10/15/Conselho-Federal-de-Medicina-restringe-uso-do-canabidiol)
-- [49% consideram religião ‘muito importante’ para decidir voto](https://www.nexojornal.com.br/extra/2022/10/15/49-consideram-religi%C3%A3o-%E2%80%98muito-importante%E2%80%99-para-decidir-voto)
-- [O silêncio dos inocentes: agrotóxicos e guerra química](https://www.nexojornal.com.br/ensaio/2022/10/15/O-sil%C3%AAncio-dos-inocentes-agrot%C3%B3xicos-e-guerra-qu%C3%ADmica)
-- [5 livros sobre a infinitude das bibliotecas](https://www.nexojornal.com.br/estante/favoritos/2022/10/15/5-livros-sobre-a-infinitude-das-bibliotecas)
+- [João Amoêdo declara voto em Lula e é criticado pelo Novo](https://www.nexojornal.com.br/extra/2022/10/15/Jo%C3%A3o-Amo%C3%AAdo-declara-voto-em-Lula-e-%C3%A9-criticado-pelo-Novo)
+- [Explosão de mina na Turquia deixa pelo menos 41 mortos](https://www.nexojornal.com.br/extra/2022/10/15/Explos%C3%A3o-de-mina-na-Turquia-deixa-pelo-menos-41-mortos)
+- [Justiça considera Pablo Marçal eleito deputado federal em SP](https://www.nexojornal.com.br/extra/2022/10/15/Justi%C3%A7a-considera-Pablo-Mar%C3%A7al-eleito-deputado-federal-em-SP)
+- [As prisões do orçamento secreto. E as frentes de investigação](https://www.nexojornal.com.br/expresso/2022/10/14/As-pris%C3%B5es-do-or%C3%A7amento-secreto.-E-as-frentes-de-investiga%C3%A7%C3%A3o)
+- [O que está em jogo no Congresso do Partido Comunista da China](https://www.nexojornal.com.br/expresso/2022/10/14/O-que-est%C3%A1-em-jogo-no-Congresso-do-Partido-Comunista-da-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
