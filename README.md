@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que acontece quando seu chefe é substituído por um algoritmo](https://www.nexojornal.com.br/externo/2022/10/14/O-que-acontece-quando-seu-chefe-%C3%A9-substitu%C3%ADdo-por-um-algoritmo)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2022/10/14/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [O ‘orçamento secreto’ investigado. O cerco às pesquisas. E mais](https://www.nexojornal.com.br/video/extrato/O-%E2%80%98or%C3%A7amento-secreto%E2%80%99-investigado.-O-cerco-%C3%A0s-pesquisas.-E-mais)
-- [Tarcísio recua sobre câmeras em PMs e fala em ouvir especialistas](https://www.nexojornal.com.br/extra/2022/10/14/Tarc%C3%ADsio-recua-sobre-c%C3%A2meras-em-PMs-e-fala-em-ouvir-especialistas)
-- [Datafolha: cenário das intenções de voto é estável](https://www.nexojornal.com.br/extra/2022/10/14/Datafolha-cen%C3%A1rio-das-inten%C3%A7%C3%B5es-de-voto-%C3%A9-est%C3%A1vel)
+- [‘Governabilidade fica mais difícil com o centro esvaziado’](https://www.nexojornal.com.br/entrevista/2022/10/15/%E2%80%98Governabilidade-fica-mais-dif%C3%ADcil-com-o-centro-esvaziado%E2%80%99)
+- [Conselho Federal de Medicina restringe uso do canabidiol](https://www.nexojornal.com.br/extra/2022/10/15/Conselho-Federal-de-Medicina-restringe-uso-do-canabidiol)
+- [49% consideram religião ‘muito importante’ para decidir voto](https://www.nexojornal.com.br/extra/2022/10/15/49-consideram-religi%C3%A3o-%E2%80%98muito-importante%E2%80%99-para-decidir-voto)
+- [O silêncio dos inocentes: agrotóxicos e guerra química](https://www.nexojornal.com.br/ensaio/2022/10/15/O-sil%C3%AAncio-dos-inocentes-agrot%C3%B3xicos-e-guerra-qu%C3%ADmica)
+- [5 livros sobre a infinitude das bibliotecas](https://www.nexojornal.com.br/estante/favoritos/2022/10/15/5-livros-sobre-a-infinitude-das-bibliotecas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
