@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mísseis russos deixam ao menos três civis mortos em Kiev](https://www.nexojornal.com.br/extra/2022/10/17/M%C3%ADsseis-russos-deixam-ao-menos-tr%C3%AAs-civis-mortos-em-Kiev)
-- [Centrais criam site para denúncias de assédio eleitoral](https://www.nexojornal.com.br/extra/2022/10/17/Centrais-criam-site-para-den%C3%BAncias-de-ass%C3%A9dio-eleitoral)
 - [Expansão do ensino superior teve impacto tangível nas realidades locais, mas ainda enfrenta obstáculos para se consolidar](https://www.nexojornal.com.br/externo/2022/10/17/Expans%C3%A3o-do-ensino-superior-teve-impacto-tang%C3%ADvel-nas-realidades-locais-mas-ainda-enfrenta-obst%C3%A1culos-para-se-consolidar)
 - [Da pandemia à corrupção: o saldo do debate presidencial na Band](https://www.nexojornal.com.br/expresso/2022/10/17/Da-pandemia-%C3%A0-corrup%C3%A7%C3%A3o-o-saldo-do-debate-presidencial-na-Band)
 - [Moraes manda PT apagar posts que associam Bolsonaro a pedofilia](https://www.nexojornal.com.br/extra/2022/10/16/Moraes-manda-PT-apagar-posts-que-associam-Bolsonaro-a-pedofilia)
+- [Xi Jinping diz que não descarta uso da força em Taiwan](https://www.nexojornal.com.br/extra/2022/10/16/Xi-Jinping-diz-que-n%C3%A3o-descarta-uso-da-for%C3%A7a-em-Taiwan)
+- [Amazônia: o que acontece se o desmate seguir o ritmo atual](https://www.nexojornal.com.br/expresso/2022/10/16/Amaz%C3%B4nia-o-que-acontece-se-o-desmate-seguir-o-ritmo-atual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
