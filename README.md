@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Governabilidade fica mais difícil com o centro esvaziado’](https://www.nexojornal.com.br/entrevista/2022/10/15/%E2%80%98Governabilidade-fica-mais-dif%C3%ADcil-com-o-centro-esvaziado%E2%80%99)
-- [Conselho Federal de Medicina restringe uso do canabidiol](https://www.nexojornal.com.br/extra/2022/10/15/Conselho-Federal-de-Medicina-restringe-uso-do-canabidiol)
-- [49% consideram religião ‘muito importante’ para decidir voto](https://www.nexojornal.com.br/extra/2022/10/15/49-consideram-religi%C3%A3o-%E2%80%98muito-importante%E2%80%99-para-decidir-voto)
-- [O silêncio dos inocentes: agrotóxicos e guerra química](https://www.nexojornal.com.br/ensaio/2022/10/15/O-sil%C3%AAncio-dos-inocentes-agrot%C3%B3xicos-e-guerra-qu%C3%ADmica)
-- [5 livros sobre a infinitude das bibliotecas](https://www.nexojornal.com.br/estante/favoritos/2022/10/15/5-livros-sobre-a-infinitude-das-bibliotecas)
+- [Moraes manda Lula apagar posts que associam Bolsonaro a pedofilia](https://www.nexojornal.com.br/extra/2022/10/16/Moraes-manda-Lula-apagar-posts-que-associam-Bolsonaro-a-pedofilia)
+- [Xi Jinping diz que não descarta uso da força em Taiwan](https://www.nexojornal.com.br/extra/2022/10/16/Xi-Jinping-diz-que-n%C3%A3o-descarta-uso-da-for%C3%A7a-em-Taiwan)
+- [Amazônia: o que acontece se o desmate seguir o ritmo atual](https://www.nexojornal.com.br/expresso/2022/10/16/Amaz%C3%B4nia-o-que-acontece-se-o-desmate-seguir-o-ritmo-atual)
+- [O que está em jogo: o resultado das eleições para as mulheres](https://www.nexojornal.com.br/ensaio/2022/10/16/O-que-est%C3%A1-em-jogo-o-resultado-das-elei%C3%A7%C3%B5es-para-as-mulheres)
+- [O jogo pesado da campanha na TV no segundo turno](https://www.nexojornal.com.br/expresso/2022/10/16/O-jogo-pesado-da-campanha-na-TV-no-segundo-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
