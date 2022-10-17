@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@amauryguichon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amauryguichon/)
 - [Amai-vos uns aos outros e…](https://gamarevista.uol.com.br/colunistas/fernando-luna/amai-vos-uns-aos-outros-e/)
 - [Aline Odara, do fundo Agbara: ‘O maior desafio da filantropia negra é a falta de confiança’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-odara-do-fundo-agbara-fala-sobre-filantropia-negra/)
 - [Sem garantir alimentação das crianças, Brasil compromete educação](https://gamarevista.uol.com.br/sociedade/sem-garantir-alimentacao-das-criancas-brasil-compromete-educacao/)
 - [Aos Prantos no Mercado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/aos-prantos-no-mercado/)
-- [Lenora de Barros e Jonathas de Andrade em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/lenora-de-barros-e-jonathas-de-andrade-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
