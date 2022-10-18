@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes pede para Defesa apresentar auditoria das urnas](https://www.nexojornal.com.br/extra/2022/10/18/Moraes-pede-para-Defesa-apresentar-auditoria-das-urnas)
-- [Como Bolsonaro tenta reavivar o lavajatismo para reeditar 2018](https://www.nexojornal.com.br/expresso/2022/10/17/Como-Bolsonaro-tenta-reavivar-o-lavajatismo-para-reeditar-2018)
-- [Orçamento secreto: a extensão do maior escândalo do governo](https://www.nexojornal.com.br/podcast/2022/10/17/Or%C3%A7amento-secreto-a-extens%C3%A3o-do-maior-esc%C3%A2ndalo-do-governo)
-- [Presidente reúne músicos do sertanejo para angariar votos](https://www.nexojornal.com.br/extra/2022/10/17/Presidente-re%C3%BAne-m%C3%BAsicos-do-sertanejo-para-angariar-votos)
-- [As taxas de abstenções nos estados no primeiro turno](https://www.nexojornal.com.br/grafico/2022/10/17/As-taxas-de-absten%C3%A7%C3%B5es-nos-estados-no-primeiro-turno)
+- [Barroso libera municípios a adotar passe livre no segundo turno](https://www.nexojornal.com.br/extra/2022/10/18/Barroso-libera-munic%C3%ADpios-a-adotar-passe-livre-no-segundo-turno)
+- [A erotização das crianças na narrativa eleitoral](https://www.nexojornal.com.br/colunistas/2022/A-erotiza%C3%A7%C3%A3o-das-crian%C3%A7as-na-narrativa-eleitoral)
+- [Bolsonaro pede desculpas após associar venezuelanas à prostituição](https://www.nexojornal.com.br/extra/2022/10/18/Bolsonaro-pede-desculpas-ap%C3%B3s-associar-venezuelanas-%C3%A0-prostitui%C3%A7%C3%A3o)
+- [O consignado do Auxílio Brasil usado como impulso eleitoral](https://www.nexojornal.com.br/expresso/2022/10/18/O-consignado-do-Aux%C3%ADlio-Brasil-usado-como-impulso-eleitoral)
+- [Polícia diz que vídeo mostra ataque racista contra Seu Jorge em show](https://www.nexojornal.com.br/extra/2022/10/18/Pol%C3%ADcia-diz-que-v%C3%ADdeo-mostra-ataque-racista-contra-Seu-Jorge-em-show)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
