@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Bolsonaro tenta reavivar o lavajatismo para reeditar 2018](https://www.nexojornal.com.br/tag/Eleicoes2022/2022/10/17/Como-Bolsonaro-tenta-reavivar-o-lavajatismo-para-reeditar-2018)
+- [Moraes pede para Defesa apresentar auditoria das urnas](https://www.nexojornal.com.br/extra/2022/10/18/Moraes-pede-para-Defesa-apresentar-auditoria-das-urnas)
+- [Como Bolsonaro tenta reavivar o lavajatismo para reeditar 2018](https://www.nexojornal.com.br/expresso/2022/10/17/Como-Bolsonaro-tenta-reavivar-o-lavajatismo-para-reeditar-2018)
 - [Orçamento secreto: a extensão do maior escândalo do governo](https://www.nexojornal.com.br/podcast/2022/10/17/Or%C3%A7amento-secreto-a-extens%C3%A3o-do-maior-esc%C3%A2ndalo-do-governo)
 - [Presidente reúne músicos do sertanejo para angariar votos](https://www.nexojornal.com.br/extra/2022/10/17/Presidente-re%C3%BAne-m%C3%BAsicos-do-sertanejo-para-angariar-votos)
 - [As taxas de abstenções nos estados no primeiro turno](https://www.nexojornal.com.br/grafico/2022/10/17/As-taxas-de-absten%C3%A7%C3%B5es-nos-estados-no-primeiro-turno)
-- [Reaproximação de Moro e Bolsonaro mobiliza adversários e aliados](https://www.nexojornal.com.br/extra/2022/10/17/Reaproxima%C3%A7%C3%A3o-de-Moro-e-Bolsonaro-mobiliza-advers%C3%A1rios-e-aliados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
