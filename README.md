@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Orçamento secreto: a extensão do maior escândalo do governo](https://www.nexojornal.com.br/podcast/2022/10/17/Or%C3%A7amento-secreto-a-extens%C3%A3o-do-maior-esc%C3%A2ndalo-do-governo)
-- [Presidente reúne músicos do sertanejo para angariar votos](https://www.nexojornal.com.br/extra/2022/10/17/Presidente-re%C3%BAne-m%C3%BAsicos-do-sertanejo-para-angariar-votos)
-- [As taxas de abstenções dos estados no primeiro turno](https://www.nexojornal.com.br/grafico/2022/10/17/As-taxas-de-absten%C3%A7%C3%B5es-dos-estados-no-primeiro-turno)
-- [Reaproximação de Moro e Bolsonaro mobiliza adversários e aliados](https://www.nexojornal.com.br/extra/2022/10/17/Reaproxima%C3%A7%C3%A3o-de-Moro-e-Bolsonaro-mobiliza-advers%C3%A1rios-e-aliados)
-- [Como o plano econômico de Truss no Reino Unido ruiu](https://www.nexojornal.com.br/expresso/2022/10/17/Como-o-plano-econ%C3%B4mico-de-Truss-no-Reino-Unido-ruiu)
+- [Expansão do ensino superior teve impacto tangível nas realidades locais, mas ainda enfrenta obstáculos para se consolidar](https://www.nexojornal.com.br/externo/2022/10/17/Expans%C3%A3o-do-ensino-superior-teve-impacto-tang%C3%ADvel-nas-realidades-locais-mas-ainda-enfrenta-obst%C3%A1culos-para-se-consolidar)
+- [Da pandemia à corrupção: o saldo do debate presidencial na Band](https://www.nexojornal.com.br/expresso/2022/10/17/Da-pandemia-%C3%A0-corrup%C3%A7%C3%A3o-o-saldo-do-debate-presidencial-na-Band)
+- [Moraes manda PT apagar posts que associam Bolsonaro a pedofilia](https://www.nexojornal.com.br/extra/2022/10/16/Moraes-manda-PT-apagar-posts-que-associam-Bolsonaro-a-pedofilia)
+- [Xi Jinping diz que não descarta uso da força em Taiwan](https://www.nexojornal.com.br/extra/2022/10/16/Xi-Jinping-diz-que-n%C3%A3o-descarta-uso-da-for%C3%A7a-em-Taiwan)
+- [Amazônia: o que acontece se o desmate seguir o ritmo atual](https://www.nexojornal.com.br/expresso/2022/10/16/Amaz%C3%B4nia-o-que-acontece-se-o-desmate-seguir-o-ritmo-atual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
