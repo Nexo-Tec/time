@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Orçamento secreto: a extensão do maior escândalo do governo](https://www.nexojornal.com.br/podcast/2022/10/17/Or%C3%A7amento-secreto-a-extens%C3%A3o-do-maior-esc%C3%A2ndalo-do-governo)
-- [Presidente reúne músicos do sertanejo para angariar votos](https://www.nexojornal.com.br/extra/2022/10/17/Presidente-re%C3%BAne-m%C3%BAsicos-do-sertanejo-para-angariar-votos)
-- [As taxas de abstenções dos estados no primeiro turno](https://www.nexojornal.com.br/grafico/2022/10/17/As-taxas-de-absten%C3%A7%C3%B5es-dos-estados-no-primeiro-turno)
-- [Reaproximação de Moro e Bolsonaro mobiliza adversários e aliados](https://www.nexojornal.com.br/extra/2022/10/17/Reaproxima%C3%A7%C3%A3o-de-Moro-e-Bolsonaro-mobiliza-advers%C3%A1rios-e-aliados)
-- [Como o plano econômico de Truss no Reino Unido ruiu](https://www.nexojornal.com.br/expresso/2022/10/17/Como-o-plano-econ%C3%B4mico-de-Truss-no-Reino-Unido-ruiu)
+- [Como o racismo aparece na campanha de Bolsonaro à reeleição](https://www.nexojornal.com.br/expresso/2022/10/18/Como-o-racismo-aparece-na-campanha-de-Bolsonaro-%C3%A0-reelei%C3%A7%C3%A3o)
+- [Biblioteca Politiquês: os livros de ‘Uma crise chamada Brasil’](https://www.nexojornal.com.br/expresso/2022/10/18/Biblioteca-Politiqu%C3%AAs-os-livros-de-%E2%80%98Uma-crise-chamada-Brasil%E2%80%99)
+- [O direito ao voto de presos provisórios e jovens infratores](https://www.nexojornal.com.br/expresso/2022/10/18/O-direito-ao-voto-de-presos-provis%C3%B3rios-e-jovens-infratores)
+- [ONGs que operam no Haiti afirmam que país está à beira do colapso](https://www.nexojornal.com.br/extra/2022/10/18/ONGs-que-operam-no-Haiti-afirmam-que-pa%C3%ADs-est%C3%A1-%C3%A0-beira-do-colapso)
+- [‘Bolsonaro se comporta como pedófilo’, diz Lula no Flow](https://www.nexojornal.com.br/extra/2022/10/18/%E2%80%98Bolsonaro-se-comporta-como-ped%C3%B3filo%E2%80%99-diz-Lula-no-Flow)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
