@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o racismo aparece na campanha de Bolsonaro à reeleição](https://www.nexojornal.com.br/expresso/2022/10/18/Como-o-racismo-aparece-na-campanha-de-Bolsonaro-%C3%A0-reelei%C3%A7%C3%A3o)
-- [Biblioteca Politiquês: os livros de ‘Uma crise chamada Brasil’](https://www.nexojornal.com.br/expresso/2022/10/18/Biblioteca-Politiqu%C3%AAs-os-livros-de-%E2%80%98Uma-crise-chamada-Brasil%E2%80%99)
-- [O direito ao voto de presos provisórios e jovens infratores](https://www.nexojornal.com.br/expresso/2022/10/18/O-direito-ao-voto-de-presos-provis%C3%B3rios-e-jovens-infratores)
-- [ONGs que operam no Haiti afirmam que país está à beira do colapso](https://www.nexojornal.com.br/extra/2022/10/18/ONGs-que-operam-no-Haiti-afirmam-que-pa%C3%ADs-est%C3%A1-%C3%A0-beira-do-colapso)
-- [‘Bolsonaro se comporta como pedófilo’, diz Lula no Flow](https://www.nexojornal.com.br/extra/2022/10/18/%E2%80%98Bolsonaro-se-comporta-como-ped%C3%B3filo%E2%80%99-diz-Lula-no-Flow)
+- [Barroso libera municípios a adotar passe livre no segundo turno](https://www.nexojornal.com.br/extra/2022/10/18/Barroso-libera-munic%C3%ADpios-a-adotar-passe-livre-no-segundo-turno)
+- [A erotização das crianças na narrativa eleitoral](https://www.nexojornal.com.br/colunistas/2022/A-erotiza%C3%A7%C3%A3o-das-crian%C3%A7as-na-narrativa-eleitoral)
+- [Bolsonaro pede desculpas após associar venezuelanas à prostituição](https://www.nexojornal.com.br/extra/2022/10/18/Bolsonaro-pede-desculpas-ap%C3%B3s-associar-venezuelanas-%C3%A0-prostitui%C3%A7%C3%A3o)
+- [O consignado do Auxílio Brasil usado como impulso eleitoral](https://www.nexojornal.com.br/expresso/2022/10/18/O-consignado-do-Aux%C3%ADlio-Brasil-usado-como-impulso-eleitoral)
+- [Polícia diz que vídeo mostra ataque racista contra Seu Jorge em show](https://www.nexojornal.com.br/extra/2022/10/18/Pol%C3%ADcia-diz-que-v%C3%ADdeo-mostra-ataque-racista-contra-Seu-Jorge-em-show)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
