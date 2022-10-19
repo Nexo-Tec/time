@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Protejam as crianças negras](https://gamarevista.uol.com.br/colunistas/winnie-bueno/protejam-as-criancas-negras/)
 - [Sophia Abrahão](https://gamarevista.uol.com.br/pessoas/questionario-proust/sophia-abrahao/)
 - [Relógio Swatch &amp; Art](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-swatch-art/)
 - [Lei de Cotas: quais os próximos passos para a inclusão?](https://gamarevista.uol.com.br/sociedade/lei-de-cotas-quais-os-proximos-passos-para-a-inclusao/)
 - [@amauryguichon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amauryguichon/)
-- [Amai-vos uns aos outros e…](https://gamarevista.uol.com.br/colunistas/fernando-luna/amai-vos-uns-aos-outros-e/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
