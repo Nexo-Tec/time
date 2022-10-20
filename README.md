@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As 5 dimensões de uma crise que nunca acaba no Haiti](https://www.nexojornal.com.br/expresso/2022/10/19/As-5-dimens%C3%B5es-de-uma-crise-que-nunca-acaba-no-Haiti)
-- [‘PT tem de fazer agora o papel que PMDB fez na redemocratização’](https://www.nexojornal.com.br/entrevista/2022/10/19/%E2%80%98PT-tem-de-fazer-agora-o-papel-que-PMDB-fez-na-redemocratiza%C3%A7%C3%A3o%E2%80%99)
-- [Astrócitos: as células-estrela que cuidam dos nossos cérebros](https://www.nexojornal.com.br/colunistas/2022/Astr%C3%B3citos-as-c%C3%A9lulas-estrela-que-cuidam-dos-nossos-c%C3%A9rebros)
-- [Editora anuncia retratação de mais de 500 artigos por indícios de manipulação na revisão por pares](https://www.nexojornal.com.br/externo/2022/10/19/Editora-anuncia-retrata%C3%A7%C3%A3o-de-mais-de-500-artigos-por-ind%C3%ADcios-de-manipula%C3%A7%C3%A3o-na-revis%C3%A3o-por-pares)
-- [A perseguição política dentro das igrejas na campanha](https://www.nexojornal.com.br/podcast/2022/10/19/A-persegui%C3%A7%C3%A3o-pol%C3%ADtica-dentro-das-igrejas-na-campanha)
+- [Como o racismo aparece na campanha de Bolsonaro à reeleição](https://www.nexojornal.com.br/expresso/2022/10/18/Como-o-racismo-aparece-na-campanha-de-Bolsonaro-%C3%A0-reelei%C3%A7%C3%A3o)
+- [Biblioteca Politiquês: os livros de ‘Uma crise chamada Brasil’](https://www.nexojornal.com.br/expresso/2022/10/18/Biblioteca-Politiqu%C3%AAs-os-livros-de-%E2%80%98Uma-crise-chamada-Brasil%E2%80%99)
+- [O direito ao voto de presos provisórios e jovens infratores](https://www.nexojornal.com.br/expresso/2022/10/18/O-direito-ao-voto-de-presos-provis%C3%B3rios-e-jovens-infratores)
+- [ONGs que operam no Haiti afirmam que país está à beira do colapso](https://www.nexojornal.com.br/extra/2022/10/18/ONGs-que-operam-no-Haiti-afirmam-que-pa%C3%ADs-est%C3%A1-%C3%A0-beira-do-colapso)
+- [‘Bolsonaro se comporta como pedófilo’, diz Lula no Flow](https://www.nexojornal.com.br/extra/2022/10/18/%E2%80%98Bolsonaro-se-comporta-como-ped%C3%B3filo%E2%80%99-diz-Lula-no-Flow)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
