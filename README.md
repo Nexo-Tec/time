@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Filmes de terror para gelar a espinha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-de-terror-para-gelar-a-espinha/)
+- [Granta especial sobre a Rússia](https://gamarevista.uol.com.br/achamos-que-vale/ler/granta-especial-sobre-a-russia/)
+- [46ª Mostra Internacional de Cinema de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/46a-mostra-internacional-de-cinema-de-sp/)
 - [Ariano Suassuna e o movimento armorial em Brasília](https://gamarevista.uol.com.br/achamos-que-vale/ir/ariano-suassuna-e-o-movimento-armorial-em-brasilia/)
 - [As chamas do Museu Nacional, por Vinicius Calderoni](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-chamas-do-museu-nacional-por-vinicius-calderoni/)
-- [Protejam as crianças negras](https://gamarevista.uol.com.br/colunistas/winnie-bueno/protejam-as-criancas-negras/)
-- [Sophia Abrahão](https://gamarevista.uol.com.br/pessoas/questionario-proust/sophia-abrahao/)
-- [Relógio Swatch &amp; Art](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-swatch-art/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
