@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Paridade de gênero na política: adianta eleger mulheres?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Paridade-de-g%C3%AAnero-na-pol%C3%ADtica-adianta-eleger-mulheres)
 - [Equidade racial e educação infantil no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Equidade-racial-e-educa%C3%A7%C3%A3o-infantil-no-Brasil)
 - [Descentralização orçamentária para as escolas públicas: uma avenida para a equidade](https://pp.nexojornal.com.br/ponto-de-vista/2022/Descentraliza%C3%A7%C3%A3o-or%C3%A7ament%C3%A1ria-para-as-escolas-p%C3%BAblicas-uma-avenida-para-a-equidade)
 - [Como ambientes costeiros e oceânicos beneficiam a sociedade](https://pp.nexojornal.com.br/bibliografia-basica/2022/10/14/Como-ambientes-costeiros-e-oce%C3%A2nicos-beneficiam-a-sociedade)
 - [Dieta planetária global vai contar com a participação da sociedade?](https://pp.nexojornal.com.br/opiniao/2022/Dieta-planet%C3%A1ria-global-vai-contar-com-a-participa%C3%A7%C3%A3o-da-sociedade)
-- [Não há evidência científica que justifique repassar a gestão de escolas públicas para a gestão de atores não-estatais](https://pp.nexojornal.com.br/ponto-de-vista/2022/N%C3%A3o-h%C3%A1-evid%C3%AAncia-cient%C3%ADfica-que-justifique-repassar-a-gest%C3%A3o-de-escolas-p%C3%BAblicas-para-a-gest%C3%A3o-de-atores-n%C3%A3o-estatais)
 <!-- PP_LIST:END -->
 
