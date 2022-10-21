@@ -126,7 +126,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Sexo na Vitrine](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-na-vitrine/)
-- [Os vilões do desenvolvimento infantil](https://gamarevista.uol.com.br/estilo-de-vida/saude/os-viloes-do-desenvolvimento-infantil/)
+- [Por que devemos evitar os alimentos ultraprocessados entre crianças?](https://gamarevista.uol.com.br/estilo-de-vida/saude/os-viloes-do-desenvolvimento-infantil/)
 - [Filmes de terror para gelar a espinha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-de-terror-para-gelar-a-espinha/)
 - [Granta especial sobre a Rússia](https://gamarevista.uol.com.br/achamos-que-vale/ler/granta-especial-sobre-a-russia/)
 - [46ª Mostra Internacional de Cinema de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/46a-mostra-internacional-de-cinema-de-sp/)
