@@ -127,7 +127,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- GAMA_LIST:START -->
 - [A influência do privilégio](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-influencia-do-privilegio/)
 - [Sexo na Vitrine](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-na-vitrine/)
-- [Por que devemos evitar os alimentos ultraprocessados entre crianças?](https://gamarevista.uol.com.br/estilo-de-vida/saude/os-viloes-do-desenvolvimento-infantil/)
+- [Por que evitar os alimentos ultraprocessados para as crianças?](https://gamarevista.uol.com.br/estilo-de-vida/saude/os-viloes-do-desenvolvimento-infantil/)
 - [Filmes de terror para gelar a espinha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-de-terror-para-gelar-a-espinha/)
 - [Granta especial sobre a Rússia](https://gamarevista.uol.com.br/achamos-que-vale/ler/granta-especial-sobre-a-russia/)
 <!-- GAMA_LIST:END -->
