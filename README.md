@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Trem para Ucrânia’: um repórter brasileiro na guerra](https://www.nexojornal.com.br/estante/trechos/2022/10/21/%E2%80%98Trem-para-Ucr%C3%A2nia%E2%80%99-um-rep%C3%B3rter-brasileiro-na-guerra)
-- [Justiça dos EUA condena Steve Bannon a 4 meses de prisão](https://www.nexojornal.com.br/extra/2022/10/21/Justi%C3%A7a-dos-EUA-condena-Steve-Bannon-a-4-meses-de-pris%C3%A3o)
-- [Júri inocenta Kevin Spacey em caso de abuso sexual](https://www.nexojornal.com.br/extra/2022/10/21/J%C3%BAri-inocenta-Kevin-Spacey-em-caso-de-abuso-sexual)
-- [‘Desenvolvimento do país foi pensado para excluir negros’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Desenvolvimento-do-pa%C3%ADs-foi-pensado-para-excluir-negros%E2%80%99)
-- [Mourão fala em ‘dar um freio’ em Alexandre de Moraes](https://www.nexojornal.com.br/extra/2022/10/21/Mour%C3%A3o-fala-em-%E2%80%98dar-um-freio%E2%80%99-em-Alexandre-de-Moraes)
+- [Entidades pedem prisão de Jefferson após ofensas a Cármen](https://www.nexojornal.com.br/extra/2022/10/22/Entidades-pedem-pris%C3%A3o-de-Jefferson-ap%C3%B3s-ofensas-a-C%C3%A1rmen)
+- [TSE mantém direito de resposta a Lula em inserções na TV](https://www.nexojornal.com.br/extra/2022/10/22/TSE-mant%C3%A9m-direito-de-resposta-a-Lula-em-inser%C3%A7%C3%B5es-na-TV)
+- [Giorgia Meloni é empossada primeira-ministra da Itália](https://www.nexojornal.com.br/extra/2022/10/22/Giorgia-Meloni-%C3%A9-empossada-primeira-ministra-da-It%C3%A1lia)
+- [A relação entre amamentação e trabalho em 3 pinturas](https://www.nexojornal.com.br/externo/2022/10/21/A-rela%C3%A7%C3%A3o-entre-amamenta%C3%A7%C3%A3o-e-trabalho-em-3-pinturas)
+- [‘Patriarcado exerce grande papel no fascismo brasileiro’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Patriarcado-exerce-grande-papel-no-fascismo-brasileiro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
