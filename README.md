@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o papel de Simone Tebet na campanha de Lula](https://www.nexojornal.com.br/expresso/2022/10/20/Qual-o-papel-de-Simone-Tebet-na-campanha-de-Lula1)
-- [Guedes defende salário mínimo desvinculado da inflação](https://www.nexojornal.com.br/extra/2022/10/20/Guedes-defende-sal%C3%A1rio-m%C3%ADnimo-desvinculado-da-infla%C3%A7%C3%A3o)
-- [O legado de Bolsonaro para a política nacional](https://www.nexojornal.com.br/colunistas/2022/O-legado-de-Bolsonaro-para-a-pol%C3%ADtica-nacional)
-- [A máquina pública a todo vapor na reta final da eleição presidencial](https://www.nexojornal.com.br/podcast/2022/10/20/A-m%C3%A1quina-p%C3%BAblica-a-todo-vapor-na-reta-final-da-elei%C3%A7%C3%A3o-presidencial)
-- [Humorista se muda de prédio após insultos racistas e ameaças](https://www.nexojornal.com.br/extra/2022/10/20/Humorista-se-muda-de-pr%C3%A9dio-ap%C3%B3s-insultos-racistas-e-amea%C3%A7as)
+- [‘Trem para Ucrânia’: um repórter brasileiro na guerra](https://www.nexojornal.com.br/estante/trechos/2022/10/21/%E2%80%98Trem-para-Ucr%C3%A2nia%E2%80%99-um-rep%C3%B3rter-brasileiro-na-guerra)
+- [Justiça dos EUA condena Steve Bannon a 4 meses de prisão](https://www.nexojornal.com.br/extra/2022/10/21/Justi%C3%A7a-dos-EUA-condena-Steve-Bannon-a-4-meses-de-pris%C3%A3o)
+- [Júri inocenta Kevin Spacey em caso de abuso sexual](https://www.nexojornal.com.br/extra/2022/10/21/J%C3%BAri-inocenta-Kevin-Spacey-em-caso-de-abuso-sexual)
+- [‘Desenvolvimento do país foi pensado para excluir negros’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Desenvolvimento-do-pa%C3%ADs-foi-pensado-para-excluir-negros%E2%80%99)
+- [Mourão fala em ‘dar um freio’ em Alexandre de Moraes](https://www.nexojornal.com.br/extra/2022/10/21/Mour%C3%A3o-fala-em-%E2%80%98dar-um-freio%E2%80%99-em-Alexandre-de-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
