@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o papel de Simone Tebet na campanha de Lula](https://www.nexojornal.com.br/expresso/2022/10/20/Qual-o-papel-de-Simone-Tebet-na-campanha-de-Lula1)
-- [Guedes defende salário mínimo desvinculado da inflação](https://www.nexojornal.com.br/extra/2022/10/20/Guedes-defende-sal%C3%A1rio-m%C3%ADnimo-desvinculado-da-infla%C3%A7%C3%A3o)
-- [O legado de Bolsonaro para a política nacional](https://www.nexojornal.com.br/colunistas/2022/O-legado-de-Bolsonaro-para-a-pol%C3%ADtica-nacional)
-- [A máquina pública a todo vapor na reta final da eleição presidencial](https://www.nexojornal.com.br/podcast/2022/10/20/A-m%C3%A1quina-p%C3%BAblica-a-todo-vapor-na-reta-final-da-elei%C3%A7%C3%A3o-presidencial)
-- [Humorista se muda de prédio após insultos racistas e ameaças](https://www.nexojornal.com.br/extra/2022/10/20/Humorista-se-muda-de-pr%C3%A9dio-ap%C3%B3s-insultos-racistas-e-amea%C3%A7as)
+- [A relação entre amamentação e trabalho em 3 pinturas](https://www.nexojornal.com.br/externo/2022/10/21/A-rela%C3%A7%C3%A3o-entre-amamenta%C3%A7%C3%A3o-e-trabalho-em-3-pinturas)
+- [‘Patriarcado exerce grande papel no fascismo brasileiro’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Patriarcado-exerce-grande-papel-no-fascismo-brasileiro%E2%80%99)
+- [Apostas diante da urgência: a tecnologia contra a crise do clima](https://www.nexojornal.com.br/expresso/2022/10/21/Apostas-diante-da-urg%C3%AAncia-a-tecnologia-contra-a-crise-do-clima)
+- [Aras quer barrar ampliação de poderes do TSE contra fake news](https://www.nexojornal.com.br/extra/2022/10/21/Aras-quer-barrar-amplia%C3%A7%C3%A3o-de-poderes-do-TSE-contra-fake-news)
+- [O racionamento de energia na Europa às vésperas do inverno](https://www.nexojornal.com.br/expresso/2022/10/21/O-racionamento-de-energia-na-Europa-%C3%A0s-v%C3%A9speras-do-inverno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
