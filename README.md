@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A relação entre amamentação e trabalho em 3 pinturas](https://www.nexojornal.com.br/externo/2022/10/21/A-rela%C3%A7%C3%A3o-entre-amamenta%C3%A7%C3%A3o-e-trabalho-em-3-pinturas)
-- [‘Patriarcado exerce grande papel no fascismo brasileiro’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Patriarcado-exerce-grande-papel-no-fascismo-brasileiro%E2%80%99)
-- [Apostas diante da urgência: a tecnologia contra a crise do clima](https://www.nexojornal.com.br/expresso/2022/10/21/Apostas-diante-da-urg%C3%AAncia-a-tecnologia-contra-a-crise-do-clima)
-- [Aras quer barrar ampliação de poderes do TSE contra fake news](https://www.nexojornal.com.br/extra/2022/10/21/Aras-quer-barrar-amplia%C3%A7%C3%A3o-de-poderes-do-TSE-contra-fake-news)
-- [O racionamento de energia na Europa às vésperas do inverno](https://www.nexojornal.com.br/expresso/2022/10/21/O-racionamento-de-energia-na-Europa-%C3%A0s-v%C3%A9speras-do-inverno)
+- [‘Trem para Ucrânia’: um repórter brasileiro na guerra](https://www.nexojornal.com.br/estante/trechos/2022/10/21/%E2%80%98Trem-para-Ucr%C3%A2nia%E2%80%99-um-rep%C3%B3rter-brasileiro-na-guerra)
+- [Justiça dos EUA condena Steve Bannon a 4 meses de prisão](https://www.nexojornal.com.br/extra/2022/10/21/Justi%C3%A7a-dos-EUA-condena-Steve-Bannon-a-4-meses-de-pris%C3%A3o)
+- [Júri inocenta Kevin Spacey em caso de abuso sexual](https://www.nexojornal.com.br/extra/2022/10/21/J%C3%BAri-inocenta-Kevin-Spacey-em-caso-de-abuso-sexual)
+- [‘Desenvolvimento do país foi pensado para excluir negros’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Desenvolvimento-do-pa%C3%ADs-foi-pensado-para-excluir-negros%E2%80%99)
+- [Mourão fala em ‘dar um freio’ em Alexandre de Moraes](https://www.nexojornal.com.br/extra/2022/10/21/Mour%C3%A3o-fala-em-%E2%80%98dar-um-freio%E2%80%99-em-Alexandre-de-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
