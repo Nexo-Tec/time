@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Giorgia Meloni é empossada primeira-ministra da Itália](https://www.nexojornal.com.br/extra/2022/10/22/Giorgia-Meloni-%C3%A9-empossada-primeira-ministra-da-It%C3%A1lia)
 - [A relação entre amamentação e trabalho em 3 pinturas](https://www.nexojornal.com.br/externo/2022/10/21/A-rela%C3%A7%C3%A3o-entre-amamenta%C3%A7%C3%A3o-e-trabalho-em-3-pinturas)
 - [‘Patriarcado exerce grande papel no fascismo brasileiro’](https://www.nexojornal.com.br/entrevista/2022/10/21/%E2%80%98Patriarcado-exerce-grande-papel-no-fascismo-brasileiro%E2%80%99)
 - [Apostas diante da urgência: a tecnologia contra a crise do clima](https://www.nexojornal.com.br/expresso/2022/10/21/Apostas-diante-da-urg%C3%AAncia-a-tecnologia-contra-a-crise-do-clima)
 - [Aras quer barrar ampliação de poderes do TSE contra fake news](https://www.nexojornal.com.br/extra/2022/10/21/Aras-quer-barrar-amplia%C3%A7%C3%A3o-de-poderes-do-TSE-contra-fake-news)
+- [O racionamento de energia na Europa às vésperas do inverno](https://www.nexojornal.com.br/expresso/2022/10/21/O-racionamento-de-energia-na-Europa-%C3%A0s-v%C3%A9speras-do-inverno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
