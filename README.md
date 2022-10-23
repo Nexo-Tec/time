@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Caso Bruno e Dom: suposto mandante do crime é solto](https://www.nexojornal.com.br/extra/2022/10/22/Caso-Bruno-e-Dom-suposto-mandante-do-crime-%C3%A9-solto)
+- [Xi Jinping é reeleito e consolida 3º mandato no poder da China](https://www.nexojornal.com.br/extra/2022/10/23/Xi-Jinping-%C3%A9-reeleito-e-consolida-3%C2%BA-mandato-no-poder-da-China)
+- [Roberto Jefferson atira na polícia e deixa dois agentes feridos](https://www.nexojornal.com.br/extra/2022/10/23/Roberto-Jefferson-atira-na-pol%C3%ADcia-e-deixa-dois-agentes-feridos)
+- [Morre Luiz Galvão, fundador dos Novos Baianos](https://www.nexojornal.com.br/extra/2022/10/23/Morre-Luiz-Galv%C3%A3o-fundador-dos-Novos-Baianos)
+- [Caso Bruno e Dom: suspeito de ser mandante do crime é solto](https://www.nexojornal.com.br/extra/2022/10/22/Caso-Bruno-e-Dom-suspeito-de-ser-mandante-do-crime-%C3%A9-solto)
 - [A intervenção de Bolsonaro na Petrobras para segurar preços](https://www.nexojornal.com.br/expresso/2022/10/22/A-interven%C3%A7%C3%A3o-de-Bolsonaro-na-Petrobras-para-segurar-pre%C3%A7os)
-- [5 livros para refletir sobre o jornalismo, a sociedade e o Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/10/22/5-livros-para-refletir-sobre-o-jornalismo-a-sociedade-e-o-Brasil)
-- [A rotina de retaliações a pastores evangélicos que votam em Lula](https://www.nexojornal.com.br/externo/2022/10/22/A-rotina-de-retalia%C3%A7%C3%B5es-a-pastores-evang%C3%A9licos-que-votam-em-Lula)
-- [Como a aquisição do Parler consolida um Kanye West extremista](https://www.nexojornal.com.br/expresso/2022/10/22/Como-a-aquisi%C3%A7%C3%A3o-do-Parler-consolida-um-Kanye-West-extremista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
