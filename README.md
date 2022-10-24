@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@thegardenofbob](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thegardenofbob/)
 - [Camila Fremder: ‘Os 40 são um lugar de alívio’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/camila-fremder-fala-sobre-a-crise-dos-40-anos/)
 - [A influência do privilégio](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-influencia-do-privilegio/)
 - [Sexo na Vitrine](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-na-vitrine/)
 - [Por que evitar os alimentos ultraprocessados para as crianças?](https://gamarevista.uol.com.br/estilo-de-vida/saude/os-viloes-do-desenvolvimento-infantil/)
-- [Filmes de terror para gelar a espinha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filmes-de-terror-para-gelar-a-espinha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
