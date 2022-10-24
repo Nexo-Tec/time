@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Xi Jinping é reeleito e consolida 3º mandato no poder da China](https://www.nexojornal.com.br/extra/2022/10/23/Xi-Jinping-%C3%A9-reeleito-e-consolida-3%C2%BA-mandato-no-poder-da-China)
-- [Roberto Jefferson atira na polícia e deixa dois agentes feridos](https://www.nexojornal.com.br/extra/2022/10/23/Roberto-Jefferson-atira-na-pol%C3%ADcia-e-deixa-dois-agentes-feridos)
-- [Morre Luiz Galvão, fundador dos Novos Baianos](https://www.nexojornal.com.br/extra/2022/10/23/Morre-Luiz-Galv%C3%A3o-fundador-dos-Novos-Baianos)
-- [Caso Bruno e Dom: suspeito de ser mandante do crime é solto](https://www.nexojornal.com.br/extra/2022/10/22/Caso-Bruno-e-Dom-suspeito-de-ser-mandante-do-crime-%C3%A9-solto)
-- [A intervenção de Bolsonaro na Petrobras para segurar preços](https://www.nexojornal.com.br/expresso/2022/10/22/A-interven%C3%A7%C3%A3o-de-Bolsonaro-na-Petrobras-para-segurar-pre%C3%A7os)
+- [O que está em jogo: religião, valores e política](https://www.nexojornal.com.br/ensaio/2022/10/23/O-que-est%C3%A1-em-jogo-religi%C3%A3o-valores-e-pol%C3%ADtica)
+- [‘É difícil operar políticas públicas sem planejamento’](https://www.nexojornal.com.br/entrevista/2022/10/23/%E2%80%98%C3%89-dif%C3%ADcil-operar-pol%C3%ADticas-p%C3%BAblicas-sem-planejamento%E2%80%99)
+- [A armadilha da Jovem Pan na eleição do caos informacional](https://www.nexojornal.com.br/expresso/2022/10/23/A-armadilha-da-Jovem-Pan-na-elei%C3%A7%C3%A3o-do-caos-informacional)
+- [Site do PL convida apoiadores a serem ‘fiscais’ de urna](https://www.nexojornal.com.br/extra/2022/10/23/Site-do-PL-convida-apoiadores-a-serem-%E2%80%98fiscais%E2%80%99-de-urna)
+- [Após ataque à PF, bolsonaristas reforçam críticas ao Judiciário](https://www.nexojornal.com.br/extra/2022/10/23/Ap%C3%B3s-ataque-%C3%A0-PF-bolsonaristas-refor%C3%A7am-cr%C3%ADticas-ao-Judici%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
