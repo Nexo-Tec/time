@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o ataque de Jefferson expõe o extremismo brasileiro](https://www.nexojornal.com.br/expresso/2022/10/24/Como-o-ataque-de-Jefferson-exp%C3%B5e-o-extremismo-brasileiro)
-- [Casemiro atinge 1 milhão de likes ao confirmar voto em Lula](https://www.nexojornal.com.br/extra/2022/10/24/Casemiro-atinge-1-milh%C3%A3o-de-likes-ao-confirmar-voto-em-Lula)
-- [De boca de urna a fake news: os crimes eleitorais mais comuns](https://www.nexojornal.com.br/expresso/2022/10/24/De-boca-de-urna-a-fake-news-os-crimes-eleitorais-mais-comuns)
-- [Doações a Bolsonaro quase dobram no segundo turno](https://www.nexojornal.com.br/extra/2022/10/24/Doa%C3%A7%C3%B5es-a-Bolsonaro-quase-dobram-no-segundo-turno)
-- [Rishi Sunak será o próximo primeiro-ministro britânico](https://www.nexojornal.com.br/extra/2022/10/24/Rishi-Sunak-ser%C3%A1-o-pr%C3%B3ximo-primeiro-ministro-brit%C3%A2nico)
+- [A armadilha da Jovem Pan na eleição do caos informacional](https://www.nexojornal.com.br/expresso/2022/10/23/A-armadilha-da-Jovem-Pan-na-elei%C3%A7%C3%A3o-do-caos-informacional)
+- [Site do PL convida apoiadores a serem ‘fiscais’ de urna](https://www.nexojornal.com.br/extra/2022/10/23/Site-do-PL-convida-apoiadores-a-serem-%E2%80%98fiscais%E2%80%99-de-urna)
+- [Após ataque à PF, bolsonaristas reforçam críticas ao Judiciário](https://www.nexojornal.com.br/extra/2022/10/23/Ap%C3%B3s-ataque-%C3%A0-PF-bolsonaristas-refor%C3%A7am-cr%C3%ADticas-ao-Judici%C3%A1rio)
+- [Bolsonaro mente ao tentar se afastar da figura de Jefferson](https://www.nexojornal.com.br/extra/2022/10/23/Bolsonaro-mente-ao-tentar-se-afastar-da-figura-de-Jefferson)
+- [Ataques russos provocam apagões em cidades ucranianas](https://www.nexojornal.com.br/extra/2022/10/23/Ataques-russos-provocam-apag%C3%B5es-em-cidades-ucranianas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
