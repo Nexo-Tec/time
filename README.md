@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o ataque de Jefferson expõe o extremismo brasileiro](https://www.nexojornal.com.br/expresso/2022/10/24/Como-o-ataque-de-Jefferson-exp%C3%B5e-o-extremismo-brasileiro)
-- [Casemiro atinge 1 milhão de likes ao confirmar voto em Lula](https://www.nexojornal.com.br/extra/2022/10/24/Casemiro-atinge-1-milh%C3%A3o-de-likes-ao-confirmar-voto-em-Lula)
-- [De boca de urna a fake news: os crimes eleitorais mais comuns](https://www.nexojornal.com.br/expresso/2022/10/24/De-boca-de-urna-a-fake-news-os-crimes-eleitorais-mais-comuns)
-- [Doações a Bolsonaro quase dobram no segundo turno](https://www.nexojornal.com.br/extra/2022/10/24/Doa%C3%A7%C3%B5es-a-Bolsonaro-quase-dobram-no-segundo-turno)
-- [Rishi Sunak será o próximo primeiro-ministro britânico](https://www.nexojornal.com.br/extra/2022/10/24/Rishi-Sunak-ser%C3%A1-o-pr%C3%B3ximo-primeiro-ministro-brit%C3%A2nico)
+- [As trocas de comando no governo britânico após o Brexit](https://www.nexojornal.com.br/expresso/2022/10/24/As-trocas-de-comando-no-governo-brit%C3%A2nico-ap%C3%B3s-o-Brexit)
+- [Bolsonaristas acusam rádios de não levar ao ar inserções eleitorais](https://www.nexojornal.com.br/extra/2022/10/24/Bolsonaristas-acusam-r%C3%A1dios-de-n%C3%A3o-levar-ao-ar-inser%C3%A7%C3%B5es-eleitorais)
+- [Os sorrisos antes da prisão de um aliado de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/24/Os-sorrisos-antes-da-pris%C3%A3o-de-um-aliado-de-Bolsonaro)
+- [Reflexões sobre o tempo suspenso e novos começos](https://www.nexojornal.com.br/colunistas/2022/Reflex%C3%B5es-sobre-o-tempo-suspenso-e-novos-come%C3%A7os)
+- [Escritor Silviano Santiago vence Prêmio Camões 2022](https://www.nexojornal.com.br/extra/2022/10/24/Escritor-Silviano-Santiago-vence-Pr%C3%AAmio-Cam%C3%B5es-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
