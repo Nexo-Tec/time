@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Apoios de candidatos nos estados espelham votos no 1º turno](https://www.nexojornal.com.br/grafico/2022/10/25/Apoios-de-candidatos-nos-estados-espelham-votos-no-1%C2%BA-turno)
-- [Lula diz que se voltar ao Planalto não vai tentar reeleição](https://www.nexojornal.com.br/extra/2022/10/25/Lula-diz-que-se-voltar-ao-Planalto-n%C3%A3o-vai-tentar-reelei%C3%A7%C3%A3o)
-- [O que move a adoção do passe livre nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/25/O-que-move-a-ado%C3%A7%C3%A3o-do-passe-livre-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Supremo mantém poderes do TSE contra fake news](https://www.nexojornal.com.br/extra/2022/10/25/Supremo-mant%C3%A9m-poderes-do-TSE-contra-fake-news)
-- [Médico grava vídeo pedindo voto para Bolsonaro em parto](https://www.nexojornal.com.br/extra/2022/10/25/M%C3%A9dico-grava-v%C3%ADdeo-pedindo-voto-para-Bolsonaro-em-parto)
+- [As trocas de comando no governo britânico após o Brexit](https://www.nexojornal.com.br/expresso/2022/10/24/As-trocas-de-comando-no-governo-brit%C3%A2nico-ap%C3%B3s-o-Brexit)
+- [Bolsonaristas acusam rádios de não levar ao ar inserções eleitorais](https://www.nexojornal.com.br/extra/2022/10/24/Bolsonaristas-acusam-r%C3%A1dios-de-n%C3%A3o-levar-ao-ar-inser%C3%A7%C3%B5es-eleitorais)
+- [Os sorrisos antes da prisão de um aliado de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/24/Os-sorrisos-antes-da-pris%C3%A3o-de-um-aliado-de-Bolsonaro)
+- [Reflexões sobre o tempo suspenso e novos começos](https://www.nexojornal.com.br/colunistas/2022/Reflex%C3%B5es-sobre-o-tempo-suspenso-e-novos-come%C3%A7os)
+- [Escritor Silviano Santiago vence Prêmio Camões 2022](https://www.nexojornal.com.br/extra/2022/10/24/Escritor-Silviano-Santiago-vence-Pr%C3%AAmio-Cam%C3%B5es-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
