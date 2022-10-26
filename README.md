@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Apoios de candidatos nos estados espelham votos no 1º turno](https://www.nexojornal.com.br/grafico/2022/10/25/Apoios-de-candidatos-nos-estados-espelham-votos-no-1%C2%BA-turno)
-- [Lula diz que se voltar ao Planalto não vai tentar reeleição](https://www.nexojornal.com.br/extra/2022/10/25/Lula-diz-que-se-voltar-ao-Planalto-n%C3%A3o-vai-tentar-reelei%C3%A7%C3%A3o)
-- [O que move a adoção do passe livre nas eleições de 2022](https://www.nexojornal.com.br/expresso/2022/10/25/O-que-move-a-ado%C3%A7%C3%A3o-do-passe-livre-nas-elei%C3%A7%C3%B5es-de-2022)
-- [Supremo mantém poderes do TSE contra fake news](https://www.nexojornal.com.br/extra/2022/10/25/Supremo-mant%C3%A9m-poderes-do-TSE-contra-fake-news)
-- [Médico grava vídeo pedindo voto para Bolsonaro em parto](https://www.nexojornal.com.br/extra/2022/10/25/M%C3%A9dico-grava-v%C3%ADdeo-pedindo-voto-para-Bolsonaro-em-parto)
+- [Lembra das propostas? O que querem Lula e Bolsonaro para o país](https://www.nexojornal.com.br/expresso/2022/10/25/Lembra-das-propostas-O-que-querem-Lula-e-Bolsonaro-para-o-pa%C3%ADs)
+- [Os poderes ampliados do TSE validados pelo Supremo](https://www.nexojornal.com.br/podcast/2022/10/25/Os-poderes-ampliados-do-TSE-validados-pelo-Supremo)
+- [Octogenários da música: a história de Milton Nascimento](https://www.nexojornal.com.br/grafico/2022/10/25/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Milton-Nascimento)
+- [A democracia pede um setor público diverso e com mais autonomia](https://www.nexojornal.com.br/colunistas/2022/A-democracia-pede-um-setor-p%C3%BAblico-diverso-e-com-mais-autonomia)
+- [Noruega prende suspeito de espionagem que fingia ser brasileiro](https://www.nexojornal.com.br/extra/2022/10/25/Noruega-prende-suspeito-de-espionagem-que-fingia-ser-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
