@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As trocas de comando no governo britânico após o Brexit](https://www.nexojornal.com.br/expresso/2022/10/24/As-trocas-de-comando-no-governo-brit%C3%A2nico-ap%C3%B3s-o-Brexit)
-- [Bolsonaristas acusam rádios de não levar ao ar inserções eleitorais](https://www.nexojornal.com.br/extra/2022/10/24/Bolsonaristas-acusam-r%C3%A1dios-de-n%C3%A3o-levar-ao-ar-inser%C3%A7%C3%B5es-eleitorais)
-- [Os sorrisos antes da prisão de um aliado de Bolsonaro](https://www.nexojornal.com.br/podcast/2022/10/24/Os-sorrisos-antes-da-pris%C3%A3o-de-um-aliado-de-Bolsonaro)
-- [Reflexões sobre o tempo suspenso e novos começos](https://www.nexojornal.com.br/colunistas/2022/Reflex%C3%B5es-sobre-o-tempo-suspenso-e-novos-come%C3%A7os)
-- [Escritor Silviano Santiago vence Prêmio Camões 2022](https://www.nexojornal.com.br/extra/2022/10/24/Escritor-Silviano-Santiago-vence-Pr%C3%AAmio-Cam%C3%B5es-2022)
+- [Lembra das propostas? O que querem Lula e Bolsonaro para o país](https://www.nexojornal.com.br/expresso/2022/10/25/Lembra-das-propostas-O-que-querem-Lula-e-Bolsonaro-para-o-pa%C3%ADs)
+- [Os poderes ampliados do TSE validados pelo Supremo](https://www.nexojornal.com.br/podcast/2022/10/25/Os-poderes-ampliados-do-TSE-validados-pelo-Supremo)
+- [Octogenários da música: a história de Milton Nascimento](https://www.nexojornal.com.br/grafico/2022/10/25/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Milton-Nascimento)
+- [A democracia pede um setor público diverso e com mais autonomia](https://www.nexojornal.com.br/colunistas/2022/A-democracia-pede-um-setor-p%C3%BAblico-diverso-e-com-mais-autonomia)
+- [Noruega prende suspeito de espionagem que fingia ser brasileiro](https://www.nexojornal.com.br/extra/2022/10/25/Noruega-prende-suspeito-de-espionagem-que-fingia-ser-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
