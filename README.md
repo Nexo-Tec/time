@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Católicos e reacionários: o catolicismo como motor explicativo do conservadorismo no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Cat%C3%B3licos-e-reacion%C3%A1rios-o-catolicismo-como-motor-explicativo-do-conservadorismo-no-Brasil)
 - [Como a liberdade acadêmica é regulada pelo direito internacional](https://pp.nexojornal.com.br/linha-do-tempo/2022/Como-a-liberdade-acad%C3%AAmica-%C3%A9-regulada-pelo-direito-internacional)
 - [Paridade de gênero na política: adianta eleger mulheres?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Paridade-de-g%C3%AAnero-na-pol%C3%ADtica-adianta-eleger-mulheres)
 - [Equidade racial e educação infantil no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2022/Equidade-racial-e-educa%C3%A7%C3%A3o-infantil-no-Brasil)
 - [Descentralização orçamentária para as escolas públicas: uma avenida para a equidade](https://pp.nexojornal.com.br/ponto-de-vista/2022/Descentraliza%C3%A7%C3%A3o-or%C3%A7ament%C3%A1ria-para-as-escolas-p%C3%BAblicas-uma-avenida-para-a-equidade)
+- [Como ambientes costeiros e oceânicos beneficiam a sociedade](https://pp.nexojornal.com.br/bibliografia-basica/2022/10/14/Como-ambientes-costeiros-e-oce%C3%A2nicos-beneficiam-a-sociedade)
 <!-- PP_LIST:END -->
 
