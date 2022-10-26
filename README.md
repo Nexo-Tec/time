@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Trinta de outubro](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/trinta-de-outubro/)
+- [Fruta não é sobremesa? Prove essa laranja caramelada com creme de iogurte](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/fruta-nao-e-sobremesa-prove-essa-laranja-caramelada-com-creme-de-iogurte/)
 - [CV: Ana Sarkovas](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-ana-sarkovas/)
 - [@thegardenofbob](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thegardenofbob/)
 - [Camila Fremder: ‘Os 40 são um lugar de alívio’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/camila-fremder-fala-sobre-a-crise-dos-40-anos/)
-- [A influência do privilégio](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-influencia-do-privilegio/)
-- [Sexo na Vitrine](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-na-vitrine/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
