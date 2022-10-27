@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Banco Central mantém taxa Selic inalterada em 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/10/26/Banco-Central-mant%C3%A9m-taxa-Selic-inalterada-em-1375-ao-ano)
-- [‘O atingimento de um é de todos’, diz Cármen Lúcia](https://www.nexojornal.com.br/extra/2022/10/26/%E2%80%98O-atingimento-de-um-%C3%A9-de-todos%E2%80%99-diz-C%C3%A1rmen-L%C3%BAcia)
-- [Esforços contra a crise climática são insuficientes, diz ONU](https://www.nexojornal.com.br/extra/2022/10/26/Esfor%C3%A7os-contra-a-crise-clim%C3%A1tica-s%C3%A3o-insuficientes-diz-ONU)
-- [Lula defende a cobrança de impostos sobre grandes fortunas](https://www.nexojornal.com.br/extra/2022/10/26/Lula-defende-a-cobran%C3%A7a-de-impostos-sobre-grandes-fortunas)
-- [PT de SC divulga áudio antigo e sem contexto de Luciano Hang](https://www.nexojornal.com.br/expresso/2022/10/26/PT-de-SC-divulga-%C3%A1udio-antigo-e-sem-contexto-de-Luciano-Hang)
+- [A volta da crise dos refugiados para além da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/26/A-volta-da-crise-dos-refugiados-para-al%C3%A9m-da-guerra-na-Ucr%C3%A2nia)
+- [A confusão criada em torno das inserções eleitorais de rádio](https://www.nexojornal.com.br/expresso/2022/10/26/A-confus%C3%A3o-criada-em-torno-das-inser%C3%A7%C3%B5es-eleitorais-de-r%C3%A1dio)
+- [Quais os pontos de tensão criados por Bolsonaro para o 2º turno](https://www.nexojornal.com.br/expresso/2022/10/26/Quais-os-pontos-de-tens%C3%A3o-criados-por-Bolsonaro-para-o-2%C2%BA-turno)
+- [Polícia iraniana atira em multidão que homenageava Amini](https://www.nexojornal.com.br/extra/2022/10/26/Pol%C3%ADcia-iraniana-atira-em-multid%C3%A3o-que-homenageava-Amini)
+- [Frigoríficos devem informar funcionários sobre voto livre](https://www.nexojornal.com.br/extra/2022/10/26/Frigor%C3%ADficos-devem-informar-funcion%C3%A1rios-sobre-voto-livre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
