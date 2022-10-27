@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lembra das propostas? O que querem Lula e Bolsonaro para o país](https://www.nexojornal.com.br/expresso/2022/10/25/Lembra-das-propostas-O-que-querem-Lula-e-Bolsonaro-para-o-pa%C3%ADs)
-- [Os poderes ampliados do TSE validados pelo Supremo](https://www.nexojornal.com.br/podcast/2022/10/25/Os-poderes-ampliados-do-TSE-validados-pelo-Supremo)
-- [Octogenários da música: a história de Milton Nascimento](https://www.nexojornal.com.br/grafico/2022/10/25/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Milton-Nascimento)
-- [A democracia pede um setor público diverso e com mais autonomia](https://www.nexojornal.com.br/colunistas/2022/A-democracia-pede-um-setor-p%C3%BAblico-diverso-e-com-mais-autonomia)
-- [Noruega prende suspeito de espionagem que fingia ser brasileiro](https://www.nexojornal.com.br/extra/2022/10/25/Noruega-prende-suspeito-de-espionagem-que-fingia-ser-brasileiro)
+- [Banco Central mantém taxa Selic inalterada em 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/10/26/Banco-Central-mant%C3%A9m-taxa-Selic-inalterada-em-1375-ao-ano)
+- [‘O atingimento de um é de todos’, diz Cármen Lúcia](https://www.nexojornal.com.br/extra/2022/10/26/%E2%80%98O-atingimento-de-um-%C3%A9-de-todos%E2%80%99-diz-C%C3%A1rmen-L%C3%BAcia)
+- [Esforços contra a crise climática são insuficientes, diz ONU](https://www.nexojornal.com.br/extra/2022/10/26/Esfor%C3%A7os-contra-a-crise-clim%C3%A1tica-s%C3%A3o-insuficientes-diz-ONU)
+- [Lula defende a cobrança de impostos sobre grandes fortunas](https://www.nexojornal.com.br/extra/2022/10/26/Lula-defende-a-cobran%C3%A7a-de-impostos-sobre-grandes-fortunas)
+- [PT de SC divulga áudio antigo e sem contexto de Luciano Hang](https://www.nexojornal.com.br/expresso/2022/10/26/PT-de-SC-divulga-%C3%A1udio-antigo-e-sem-contexto-de-Luciano-Hang)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
