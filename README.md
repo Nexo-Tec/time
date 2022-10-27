@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma newsletter para loucos por comida](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-newsletter-para-loucos-por-comida/)
+- [Candidato alemão ao Oscar na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/candidato-alemao-ao-oscar-na-netflix/)
+- [Duas exposições imperdíveis em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/duas-exposicoes-imperdiveis-em-sp/)
 - [Milton Nascimento, 80: uma entidade artística](https://gamarevista.uol.com.br/artigo/milton-aos-80-entidade-artistica/)
 - [Trinta de outubro](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/trinta-de-outubro/)
-- [Fruta não é sobremesa? Prove esta laranja caramelada com creme de iogurte](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/fruta-nao-e-sobremesa-prove-essa-laranja-caramelada-com-creme-de-iogurte/)
-- [CV: Ana Sarkovas](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-ana-sarkovas/)
-- [@thegardenofbob](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/thegardenofbob/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
