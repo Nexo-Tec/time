@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as apostas finais das campanhas antes do voto](https://www.nexojornal.com.br/expresso/2022/10/27/Quais-as-apostas-finais-das-campanhas-antes-do-voto)
-- [As pontas soltas dos tiros em Paraisópolis. E a atitude de Tarcísio](https://www.nexojornal.com.br/expresso/2022/10/27/As-pontas-soltas-dos-tiros-em-Parais%C3%B3polis.-E-a-atitude-de-Tarc%C3%ADsio)
-- [Os meios oficiais para a checagem dos resultados das eleições](https://www.nexojornal.com.br/expresso/2022/10/27/Os-meios-oficiais-para-a-checagem-dos-resultados-das-elei%C3%A7%C3%B5es)
-- [A carta de Lula que defende ‘uma política fiscal responsável’](https://www.nexojornal.com.br/podcast/2022/10/27/A-carta-de-Lula-que-defende-%E2%80%98uma-pol%C3%ADtica-fiscal-respons%C3%A1vel%E2%80%99)
-- [Por que é preciso &lpar;re&rpar;aprender a confiar nas instituições](https://www.nexojornal.com.br/colunistas/2022/Por-que-%C3%A9-preciso-reaprender-a-confiar-nas-institui%C3%A7%C3%B5es)
+- [A volta da crise dos refugiados para além da guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2022/10/26/A-volta-da-crise-dos-refugiados-para-al%C3%A9m-da-guerra-na-Ucr%C3%A2nia)
+- [A confusão criada em torno das inserções eleitorais de rádio](https://www.nexojornal.com.br/expresso/2022/10/26/A-confus%C3%A3o-criada-em-torno-das-inser%C3%A7%C3%B5es-eleitorais-de-r%C3%A1dio)
+- [Quais os pontos de tensão criados por Bolsonaro para o 2º turno](https://www.nexojornal.com.br/expresso/2022/10/26/Quais-os-pontos-de-tens%C3%A3o-criados-por-Bolsonaro-para-o-2%C2%BA-turno)
+- [Polícia iraniana atira em multidão que homenageava Amini](https://www.nexojornal.com.br/extra/2022/10/26/Pol%C3%ADcia-iraniana-atira-em-multid%C3%A3o-que-homenageava-Amini)
+- [Frigoríficos devem informar funcionários sobre voto livre](https://www.nexojornal.com.br/extra/2022/10/26/Frigor%C3%ADficos-devem-informar-funcion%C3%A1rios-sobre-voto-livre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
