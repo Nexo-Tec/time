@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Conto de Fadas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conto-de-fadas/)
 - [O melhor do horror nacional para o Dia das Bruxas](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-melhor-do-horror-nacional-para-o-dia-das-bruxas/)
 - [A história do rei da TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-historia-do-rei-da-tv/)
 - [Uma newsletter para loucos por comida](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-newsletter-para-loucos-por-comida/)
 - [Candidato alemão ao Oscar na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/candidato-alemao-ao-oscar-na-netflix/)
-- [Duas exposições imperdíveis em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/duas-exposicoes-imperdiveis-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
