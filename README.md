@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Grupo saqueia trem de transporte de carne bovina em Cubatão](https://www.nexojornal.com.br/extra/2022/10/28/Grupo-saqueia-trem-de-transporte-de-carne-bovina-em-Cubat%C3%A3o)
+- [Promotoria espanhola retira acusações de fraude contra Neymar](https://www.nexojornal.com.br/extra/2022/10/28/Promotoria-espanhola-retira-acusa%C3%A7%C3%B5es-de-fraude-contra-Neymar)
 - [Quais as apostas finais das campanhas antes do voto](https://www.nexojornal.com.br/expresso/2022/10/27/Quais-as-apostas-finais-das-campanhas-antes-do-voto)
 - [As pontas soltas dos tiros em Paraisópolis. E a atitude de Tarcísio](https://www.nexojornal.com.br/expresso/2022/10/27/As-pontas-soltas-dos-tiros-em-Parais%C3%B3polis.-E-a-atitude-de-Tarc%C3%ADsio)
 - [Os meios oficiais para a checagem dos resultados das eleições](https://www.nexojornal.com.br/expresso/2022/10/27/Os-meios-oficiais-para-a-checagem-dos-resultados-das-elei%C3%A7%C3%B5es)
-- [A carta de Lula que defende ‘uma política fiscal responsável’](https://www.nexojornal.com.br/podcast/2022/10/27/A-carta-de-Lula-que-defende-%E2%80%98uma-pol%C3%ADtica-fiscal-respons%C3%A1vel%E2%80%99)
-- [Por que é preciso &lpar;re&rpar;aprender a confiar nas instituições](https://www.nexojornal.com.br/colunistas/2022/Por-que-%C3%A9-preciso-reaprender-a-confiar-nas-institui%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
