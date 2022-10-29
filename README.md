@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as apostas finais das campanhas antes do voto](https://www.nexojornal.com.br/expresso/2022/10/27/Quais-as-apostas-finais-das-campanhas-antes-do-voto)
-- [As pontas soltas dos tiros em Paraisópolis. E a atitude de Tarcísio](https://www.nexojornal.com.br/expresso/2022/10/27/As-pontas-soltas-dos-tiros-em-Parais%C3%B3polis.-E-a-atitude-de-Tarc%C3%ADsio)
-- [Os meios oficiais para a checagem dos resultados das eleições](https://www.nexojornal.com.br/expresso/2022/10/27/Os-meios-oficiais-para-a-checagem-dos-resultados-das-elei%C3%A7%C3%B5es)
-- [A carta de Lula que defende ‘uma política fiscal responsável’](https://www.nexojornal.com.br/podcast/2022/10/27/A-carta-de-Lula-que-defende-%E2%80%98uma-pol%C3%ADtica-fiscal-respons%C3%A1vel%E2%80%99)
-- [Por que é preciso &lpar;re&rpar;aprender a confiar nas instituições](https://www.nexojornal.com.br/colunistas/2022/Por-que-%C3%A9-preciso-reaprender-a-confiar-nas-institui%C3%A7%C3%B5es)
+- [Economia e provocações: o saldo do debate final na Globo](https://www.nexojornal.com.br/expresso/2022/10/29/Economia-e-provoca%C3%A7%C3%B5es-o-saldo-do-debate-final-na-Globo)
+- [A seca histórica que mergulha a Somália na fome](https://www.nexojornal.com.br/expresso/2022/10/28/A-seca-hist%C3%B3rica-que-mergulha-a-Som%C3%A1lia-na-fome)
+- [As blitze de fake news espalhadas em dia de eleição](https://www.nexojornal.com.br/expresso/2022/10/28/As-blitze-de-fake-news-espalhadas-em-dia-de-elei%C3%A7%C3%A3o)
+- [7 mentiras do 2º turno presidencial checadas pelo Comprova](https://www.nexojornal.com.br/expresso/2022/10/28/7-mentiras-do-2%C2%BA-turno-presidencial-checadas-pelo-Comprova)
+- [Justiça determina passe livre em Belo Horizonte no 2º turno](https://www.nexojornal.com.br/extra/2022/10/28/Justi%C3%A7a-determina-passe-livre-em-Belo-Horizonte-no-2%C2%BA-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
