@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Economia e provocações: o saldo do debate final na Globo](https://www.nexojornal.com.br/expresso/2022/10/29/Economia-e-provoca%C3%A7%C3%B5es-o-saldo-do-debate-final-na-Globo)
-- [A seca histórica que mergulha a Somália na fome](https://www.nexojornal.com.br/expresso/2022/10/28/A-seca-hist%C3%B3rica-que-mergulha-a-Som%C3%A1lia-na-fome)
-- [As blitze de fake news espalhadas em dia de eleição](https://www.nexojornal.com.br/expresso/2022/10/28/As-blitze-de-fake-news-espalhadas-em-dia-de-elei%C3%A7%C3%A3o)
-- [7 mentiras do 2º turno presidencial checadas pelo Comprova](https://www.nexojornal.com.br/expresso/2022/10/28/7-mentiras-do-2%C2%BA-turno-presidencial-checadas-pelo-Comprova)
-- [Justiça determina passe livre em Belo Horizonte no 2º turno](https://www.nexojornal.com.br/extra/2022/10/28/Justi%C3%A7a-determina-passe-livre-em-Belo-Horizonte-no-2%C2%BA-turno)
+- [Grupo saqueia trem de transporte de carne bovina em Cubatão](https://www.nexojornal.com.br/extra/2022/10/28/Grupo-saqueia-trem-de-transporte-de-carne-bovina-em-Cubat%C3%A3o)
+- [Promotoria espanhola retira acusações de fraude contra Neymar](https://www.nexojornal.com.br/extra/2022/10/28/Promotoria-espanhola-retira-acusa%C3%A7%C3%B5es-de-fraude-contra-Neymar)
+- [Quais as apostas finais das campanhas antes do voto](https://www.nexojornal.com.br/expresso/2022/10/27/Quais-as-apostas-finais-das-campanhas-antes-do-voto)
+- [As pontas soltas dos tiros em Paraisópolis. E a atitude de Tarcísio](https://www.nexojornal.com.br/expresso/2022/10/27/As-pontas-soltas-dos-tiros-em-Parais%C3%B3polis.-E-a-atitude-de-Tarc%C3%ADsio)
+- [Os meios oficiais para a checagem dos resultados das eleições](https://www.nexojornal.com.br/expresso/2022/10/27/Os-meios-oficiais-para-a-checagem-dos-resultados-das-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
