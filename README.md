@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não houve nenhum prejuízo’, diz Moraes sobre ações da PRF](https://www.nexojornal.com.br/extra/2022/10/30/%E2%80%98N%C3%A3o-houve-nenhum-preju%C3%ADzo%E2%80%99-diz-Moraes-sobre-a%C3%A7%C3%B5es-da-PRF)
-- [Marçal perde vaga de deputado ao TSE indeferir candidatura](https://www.nexojornal.com.br/extra/2022/10/30/Mar%C3%A7al-perde-vaga-de-deputado-ao-TSE-indeferir-candidatura)
-- [Polícia apreende chope que seria trocado por voto em Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/30/Pol%C3%ADcia-apreende-chope-que-seria-trocado-por-voto-em-Bolsonaro)
-- [TSE manda tirar do ar fake news de que Lula vai acabar com MEI](https://www.nexojornal.com.br/extra/2022/10/30/TSE-manda-tirar-do-ar-fake-news-de-que-Lula-vai-acabar-com-MEI)
-- [Mais de 150 pessoas morrem durante festa de Halloween em Seul](https://www.nexojornal.com.br/extra/2022/10/30/Mais-de-150-pessoas-morrem-durante-festa-de-Halloween-em-Seul)
+- [Amazônia põe jornais estrangeiros contra reeleição de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/29/Amaz%C3%B4nia-p%C3%B5e-jornais-estrangeiros-contra-reelei%C3%A7%C3%A3o-de-Bolsonaro)
+- [O quadro das disputas aos governos dos estados no 2º turno](https://www.nexojornal.com.br/expresso/2022/10/29/O-quadro-das-disputas-aos-governos-dos-estados-no-2%C2%BA-turno)
+- [5 livros para entender o que é racismo linguístico](https://www.nexojornal.com.br/estante/favoritos/2022/10/29/5-livros-para-entender-o-que-%C3%A9-racismo-lingu%C3%ADstico)
+- [Os riscos para biomas brasileiros num futuro mais quente](https://www.nexojornal.com.br/expresso/2022/10/29/Os-riscos-para-biomas-brasileiros-num-futuro-mais-quente)
+- [Quando isso vai acabar? O esgotamento com a tensão política](https://www.nexojornal.com.br/expresso/2022/10/29/Quando-isso-vai-acabar-O-esgotamento-com-a-tens%C3%A3o-pol%C3%ADtica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
