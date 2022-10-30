@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazônia põe jornais estrangeiros contra reeleição de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/29/Amaz%C3%B4nia-p%C3%B5e-jornais-estrangeiros-contra-reelei%C3%A7%C3%A3o-de-Bolsonaro)
-- [O quadro das disputas aos governos dos estados no 2º turno](https://www.nexojornal.com.br/expresso/2022/10/29/O-quadro-das-disputas-aos-governos-dos-estados-no-2%C2%BA-turno)
-- [5 livros para entender o que é racismo linguístico](https://www.nexojornal.com.br/estante/favoritos/2022/10/29/5-livros-para-entender-o-que-%C3%A9-racismo-lingu%C3%ADstico)
-- [Os riscos para biomas brasileiros num futuro mais quente](https://www.nexojornal.com.br/expresso/2022/10/29/Os-riscos-para-biomas-brasileiros-num-futuro-mais-quente)
-- [Quando isso vai acabar? O esgotamento com a tensão política](https://www.nexojornal.com.br/expresso/2022/10/29/Quando-isso-vai-acabar-O-esgotamento-com-a-tens%C3%A3o-pol%C3%ADtica)
+- [Economia e provocações: o saldo do debate final na Globo](https://www.nexojornal.com.br/expresso/2022/10/29/Economia-e-provoca%C3%A7%C3%B5es-o-saldo-do-debate-final-na-Globo)
+- [A seca histórica que mergulha a Somália na fome](https://www.nexojornal.com.br/expresso/2022/10/28/A-seca-hist%C3%B3rica-que-mergulha-a-Som%C3%A1lia-na-fome)
+- [As blitze de fake news espalhadas em dia de eleição](https://www.nexojornal.com.br/expresso/2022/10/28/As-blitze-de-fake-news-espalhadas-em-dia-de-elei%C3%A7%C3%A3o)
+- [7 mentiras do 2º turno presidencial checadas pelo Comprova](https://www.nexojornal.com.br/expresso/2022/10/28/7-mentiras-do-2%C2%BA-turno-presidencial-checadas-pelo-Comprova)
+- [Justiça determina passe livre em Belo Horizonte no 2º turno](https://www.nexojornal.com.br/extra/2022/10/28/Justi%C3%A7a-determina-passe-livre-em-Belo-Horizonte-no-2%C2%BA-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
