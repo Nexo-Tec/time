@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Não houve nenhum prejuízo’, diz Moraes sobre ações da PRF](https://www.nexojornal.com.br/extra/2022/10/30/%E2%80%98N%C3%A3o-houve-nenhum-preju%C3%ADzo%E2%80%99-diz-Moraes-sobre-a%C3%A7%C3%B5es-da-PRF)
+- [Marçal perde vaga de deputado ao TSE indeferir candidatura](https://www.nexojornal.com.br/extra/2022/10/30/Mar%C3%A7al-perde-vaga-de-deputado-ao-TSE-indeferir-candidatura)
 - [Polícia apreende chope que seria trocado por voto em Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/30/Pol%C3%ADcia-apreende-chope-que-seria-trocado-por-voto-em-Bolsonaro)
 - [TSE manda tirar do ar fake news de que Lula vai acabar com MEI](https://www.nexojornal.com.br/extra/2022/10/30/TSE-manda-tirar-do-ar-fake-news-de-que-Lula-vai-acabar-com-MEI)
 - [Mais de 150 pessoas morrem durante festa de Halloween em Seul](https://www.nexojornal.com.br/extra/2022/10/30/Mais-de-150-pessoas-morrem-durante-festa-de-Halloween-em-Seul)
-- [PRF faz blitze pelo país e é acusada por lulistas de dificultar voto](https://www.nexojornal.com.br/extra/2022/10/30/PRF-faz-blitze-pelo-pa%C3%ADs-e-%C3%A9-acusada-por-lulistas-de-dificultar-voto)
-- [Amazônia põe jornais estrangeiros contra reeleição de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/29/Amaz%C3%B4nia-p%C3%B5e-jornais-estrangeiros-contra-reelei%C3%A7%C3%A3o-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
