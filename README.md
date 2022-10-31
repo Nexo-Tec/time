@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro se cala. Aliados reconhecem vitória de Lula](https://www.nexojornal.com.br/extra/2022/10/31/Bolsonaro-se-cala.-Aliados-reconhecem-vit%C3%B3ria-de-Lula)
-- [Lula virou 368 municípios vencidos por Bolsonaro em 2018](https://www.nexojornal.com.br/grafico/2022/10/31/Lula-virou-368-munic%C3%ADpios-vencidos-por-Bolsonaro-em-2018)
-- [‘Frente ampla deverá mostrar como uma democracia renasce’](https://www.nexojornal.com.br/entrevista/2022/10/31/%E2%80%98Frente-ampla-dever%C3%A1-mostrar-como-uma-democracia-renasce%E2%80%99)
 - [Tarcísio eleito em SP: entre o bolsonarismo e o pragmatismo](https://www.nexojornal.com.br/expresso/2022/10/30/Tarc%C3%ADsio-eleito-em-SP-entre-o-bolsonarismo-e-o-pragmatismo)
 - [Pela primeira vez, abstenção é menor no segundo turno](https://www.nexojornal.com.br/extra/2022/10/30/Pela-primeira-vez-absten%C3%A7%C3%A3o-%C3%A9-menor-no-segundo-turno)
+- [O histórico da votação para presidente nos estados desde 1989](https://www.nexojornal.com.br/grafico/2022/10/30/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-estados-desde-1989)
+- [Após vitória, Lula defende reconciliação entre divergentes](https://www.nexojornal.com.br/extra/2022/10/30/Ap%C3%B3s-vit%C3%B3ria-Lula-defende-reconcilia%C3%A7%C3%A3o-entre-divergentes1)
+- [Líderes estrangeiros parabenizam Lula pela vitória nas eleições](https://www.nexojornal.com.br/extra/2022/10/30/L%C3%ADderes-estrangeiros-parabenizam-Lula-pela-vit%C3%B3ria-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
