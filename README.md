@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não houve nenhum prejuízo’, diz Moraes sobre ações da PRF](https://www.nexojornal.com.br/extra/2022/10/30/%E2%80%98N%C3%A3o-houve-nenhum-preju%C3%ADzo%E2%80%99-diz-Moraes-sobre-a%C3%A7%C3%B5es-da-PRF)
-- [Marçal perde vaga de deputado ao TSE indeferir candidatura](https://www.nexojornal.com.br/extra/2022/10/30/Mar%C3%A7al-perde-vaga-de-deputado-ao-TSE-indeferir-candidatura)
-- [Polícia apreende chope que seria trocado por voto em Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/30/Pol%C3%ADcia-apreende-chope-que-seria-trocado-por-voto-em-Bolsonaro)
-- [TSE manda tirar do ar fake news de que Lula vai acabar com MEI](https://www.nexojornal.com.br/extra/2022/10/30/TSE-manda-tirar-do-ar-fake-news-de-que-Lula-vai-acabar-com-MEI)
-- [Mais de 150 pessoas morrem durante festa de Halloween em Seul](https://www.nexojornal.com.br/extra/2022/10/30/Mais-de-150-pessoas-morrem-durante-festa-de-Halloween-em-Seul)
+- [Noruega anuncia retomada de repasses ao Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/10/31/Noruega-anuncia-retomada-de-repasses-ao-Fundo-Amaz%C3%B4nia)
+- [A diferença no número de votos para cada candidato no 2º turno](https://www.nexojornal.com.br/grafico/2022/10/31/A-diferen%C3%A7a-no-n%C3%BAmero-de-votos-para-cada-candidato-no-2%C2%BA-turno)
+- [Instagram passa por instabilidade em vários países](https://www.nexojornal.com.br/extra/2022/10/31/Instagram-passa-por-instabilidade-em-v%C3%A1rios-pa%C3%ADses)
+- [Homem morre baleado após as eleições em Belo Horizonte](https://www.nexojornal.com.br/extra/2022/10/31/Homem-morre-baleado-ap%C3%B3s-as-elei%C3%A7%C3%B5es-em-Belo-Horizonte)
+- [Bolsonaro se cala. Aliados reconhecem vitória de Lula](https://www.nexojornal.com.br/extra/2022/10/31/Bolsonaro-se-cala.-Aliados-reconhecem-vit%C3%B3ria-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
