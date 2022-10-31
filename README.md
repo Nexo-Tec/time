@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia apreende chope que seria trocado por voto em Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/30/Pol%C3%ADcia-apreende-chope-que-seria-trocado-por-voto-em-Bolsonaro)
-- [TSE manda tirar do ar fake news de que Lula vai acabar com MEI](https://www.nexojornal.com.br/extra/2022/10/30/TSE-manda-tirar-do-ar-fake-news-de-que-Lula-vai-acabar-com-MEI)
-- [Mais de 150 pessoas morrem durante festa de Halloween em Seul](https://www.nexojornal.com.br/extra/2022/10/30/Mais-de-150-pessoas-morrem-durante-festa-de-Halloween-em-Seul)
-- [PRF faz blitze pelo país e é acusada por lulistas de dificultar voto](https://www.nexojornal.com.br/extra/2022/10/30/PRF-faz-blitze-pelo-pa%C3%ADs-e-%C3%A9-acusada-por-lulistas-de-dificultar-voto)
-- [Amazônia põe jornais estrangeiros contra reeleição de Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/29/Amaz%C3%B4nia-p%C3%B5e-jornais-estrangeiros-contra-reelei%C3%A7%C3%A3o-de-Bolsonaro)
+- [Bolsonaro se cala. Aliados reconhecem vitória de Lula](https://www.nexojornal.com.br/extra/2022/10/31/Bolsonaro-se-cala.-Aliados-reconhecem-vit%C3%B3ria-de-Lula)
+- [Lula virou 368 municípios vencidos por Bolsonaro em 2018](https://www.nexojornal.com.br/grafico/2022/10/31/Lula-virou-368-munic%C3%ADpios-vencidos-por-Bolsonaro-em-2018)
+- [‘Frente ampla deverá mostrar como uma democracia renasce’](https://www.nexojornal.com.br/entrevista/2022/10/31/%E2%80%98Frente-ampla-dever%C3%A1-mostrar-como-uma-democracia-renasce%E2%80%99)
+- [Tarcísio eleito em SP: entre o bolsonarismo e o pragmatismo](https://www.nexojornal.com.br/expresso/2022/10/30/Tarc%C3%ADsio-eleito-em-SP-entre-o-bolsonarismo-e-o-pragmatismo)
+- [Pela primeira vez, abstenção é menor no segundo turno](https://www.nexojornal.com.br/extra/2022/10/30/Pela-primeira-vez-absten%C3%A7%C3%A3o-%C3%A9-menor-no-segundo-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
