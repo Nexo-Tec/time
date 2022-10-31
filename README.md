@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tarcísio eleito em SP: entre o bolsonarismo e o pragmatismo](https://www.nexojornal.com.br/expresso/2022/10/30/Tarc%C3%ADsio-eleito-em-SP-entre-o-bolsonarismo-e-o-pragmatismo)
-- [Pela primeira vez, abstenção é menor no segundo turno](https://www.nexojornal.com.br/extra/2022/10/30/Pela-primeira-vez-absten%C3%A7%C3%A3o-%C3%A9-menor-no-segundo-turno)
-- [O histórico da votação para presidente nos estados desde 1989](https://www.nexojornal.com.br/grafico/2022/10/30/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-estados-desde-1989)
-- [Após vitória, Lula defende reconciliação entre divergentes](https://www.nexojornal.com.br/extra/2022/10/30/Ap%C3%B3s-vit%C3%B3ria-Lula-defende-reconcilia%C3%A7%C3%A3o-entre-divergentes1)
-- [Líderes estrangeiros parabenizam Lula pela vitória nas eleições](https://www.nexojornal.com.br/extra/2022/10/30/L%C3%ADderes-estrangeiros-parabenizam-Lula-pela-vit%C3%B3ria-nas-elei%C3%A7%C3%B5es)
+- [‘Não houve nenhum prejuízo’, diz Moraes sobre ações da PRF](https://www.nexojornal.com.br/extra/2022/10/30/%E2%80%98N%C3%A3o-houve-nenhum-preju%C3%ADzo%E2%80%99-diz-Moraes-sobre-a%C3%A7%C3%B5es-da-PRF)
+- [Marçal perde vaga de deputado ao TSE indeferir candidatura](https://www.nexojornal.com.br/extra/2022/10/30/Mar%C3%A7al-perde-vaga-de-deputado-ao-TSE-indeferir-candidatura)
+- [Polícia apreende chope que seria trocado por voto em Bolsonaro](https://www.nexojornal.com.br/extra/2022/10/30/Pol%C3%ADcia-apreende-chope-que-seria-trocado-por-voto-em-Bolsonaro)
+- [TSE manda tirar do ar fake news de que Lula vai acabar com MEI](https://www.nexojornal.com.br/extra/2022/10/30/TSE-manda-tirar-do-ar-fake-news-de-que-Lula-vai-acabar-com-MEI)
+- [Mais de 150 pessoas morrem durante festa de Halloween em Seul](https://www.nexojornal.com.br/extra/2022/10/30/Mais-de-150-pessoas-morrem-durante-festa-de-Halloween-em-Seul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
