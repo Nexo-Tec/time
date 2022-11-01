@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Associação aponta represamento do preço do diesel pela Petrobras](https://www.nexojornal.com.br/extra/2022/11/01/Associa%C3%A7%C3%A3o-aponta-represamento-do-pre%C3%A7o-do-diesel-pela-Petrobras)
-- [Bolsonaro aparece, ignora vitória de Lula e cita ‘direito de ir e vir’](https://www.nexojornal.com.br/extra/2022/11/01/Bolsonaro-aparece-ignora-vit%C3%B3ria-de-Lula-e-cita-%E2%80%98direito-de-ir-e-vir%E2%80%99)
-- [Movimentos sociais divergem sobre ação contra bloqueios](https://www.nexojornal.com.br/extra/2022/11/01/Movimentos-sociais-divergem-sobre-a%C3%A7%C3%A3o-contra-bloqueios)
-- [Como a PRF caminhou para a ação política no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/01/Como-a-PRF-caminhou-para-a-a%C3%A7%C3%A3o-pol%C3%ADtica-no-governo-Bolsonaro)
-- [O histórico das eleições para governadores desde 1982](https://www.nexojornal.com.br/grafico/2022/11/01/O-hist%C3%B3rico-das-elei%C3%A7%C3%B5es-para-governadores-desde-1982)
+- [O que a transição de Trump para Biden traz de alerta para o Brasil](https://www.nexojornal.com.br/expresso/2022/10/31/O-que-a-transi%C3%A7%C3%A3o-de-Trump-para-Biden-traz-de-alerta-para-o-Brasil)
+- [Incêndio atinge Ceasa no Rio e saques são registrados](https://www.nexojornal.com.br/extra/2022/10/31/Inc%C3%AAndio-atinge-Ceasa-no-Rio-e-saques-s%C3%A3o-registrados)
+- [O resultado do 2º turno para governador nos maiores estados](https://www.nexojornal.com.br/grafico/2022/10/31/O-resultado-do-2%C2%BA-turno-para-governador-nos-maiores-estados)
+- [Nunca antes na história deste país: os ineditismos de 2022](https://www.nexojornal.com.br/podcast/2022/10/31/Nunca-antes-na-hist%C3%B3ria-deste-pa%C3%ADs-os-ineditismos-de-20221)
+- [‘Lula pode recompor com evangélicos pragmáticos’](https://www.nexojornal.com.br/externo/2022/10/31/%E2%80%98Lula-pode-recompor-com-evang%C3%A9licos-pragm%C3%A1ticos%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
