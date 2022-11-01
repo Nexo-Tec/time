@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tarcísio eleito em SP: entre o bolsonarismo e o pragmatismo](https://www.nexojornal.com.br/expresso/2022/10/30/Tarc%C3%ADsio-eleito-em-SP-entre-o-bolsonarismo-e-o-pragmatismo)
-- [Pela primeira vez, abstenção é menor no segundo turno](https://www.nexojornal.com.br/extra/2022/10/30/Pela-primeira-vez-absten%C3%A7%C3%A3o-%C3%A9-menor-no-segundo-turno)
-- [O histórico da votação para presidente nos estados desde 1989](https://www.nexojornal.com.br/grafico/2022/10/30/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-estados-desde-1989)
-- [Após vitória, Lula defende reconciliação entre divergentes](https://www.nexojornal.com.br/extra/2022/10/30/Ap%C3%B3s-vit%C3%B3ria-Lula-defende-reconcilia%C3%A7%C3%A3o-entre-divergentes1)
-- [Líderes estrangeiros parabenizam Lula pela vitória nas eleições](https://www.nexojornal.com.br/extra/2022/10/30/L%C3%ADderes-estrangeiros-parabenizam-Lula-pela-vit%C3%B3ria-nas-elei%C3%A7%C3%B5es)
+- [O que a transição de Trump para Biden traz de alerta para o Brasil](https://www.nexojornal.com.br/expresso/2022/10/31/O-que-a-transi%C3%A7%C3%A3o-de-Trump-para-Biden-traz-de-alerta-para-o-Brasil)
+- [Incêndio atinge Ceasa no Rio e saques são registrados](https://www.nexojornal.com.br/extra/2022/10/31/Inc%C3%AAndio-atinge-Ceasa-no-Rio-e-saques-s%C3%A3o-registrados)
+- [O resultado do 2º turno para governador nos maiores estados](https://www.nexojornal.com.br/grafico/2022/10/31/O-resultado-do-2%C2%BA-turno-para-governador-nos-maiores-estados)
+- [Nunca antes na história deste país: os ineditismos de 2022](https://www.nexojornal.com.br/podcast/2022/10/31/Nunca-antes-na-hist%C3%B3ria-deste-pa%C3%ADs-os-ineditismos-de-20221)
+- [‘Lula pode recompor com evangélicos pragmáticos’](https://www.nexojornal.com.br/externo/2022/10/31/%E2%80%98Lula-pode-recompor-com-evang%C3%A9licos-pragm%C3%A1ticos%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
