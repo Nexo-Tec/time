@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Noruega anuncia retomada de repasses ao Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/10/31/Noruega-anuncia-retomada-de-repasses-ao-Fundo-Amaz%C3%B4nia)
-- [A diferença no número de votos para cada candidato no 2º turno](https://www.nexojornal.com.br/grafico/2022/10/31/A-diferen%C3%A7a-no-n%C3%BAmero-de-votos-para-cada-candidato-no-2%C2%BA-turno)
-- [Instagram passa por instabilidade em vários países](https://www.nexojornal.com.br/extra/2022/10/31/Instagram-passa-por-instabilidade-em-v%C3%A1rios-pa%C3%ADses)
-- [Homem morre baleado após as eleições em Belo Horizonte](https://www.nexojornal.com.br/extra/2022/10/31/Homem-morre-baleado-ap%C3%B3s-as-elei%C3%A7%C3%B5es-em-Belo-Horizonte)
-- [Bolsonaro se cala. Aliados reconhecem vitória de Lula](https://www.nexojornal.com.br/extra/2022/10/31/Bolsonaro-se-cala.-Aliados-reconhecem-vit%C3%B3ria-de-Lula)
+- [O que a transição de Trump para Biden traz de alerta para o Brasil](https://www.nexojornal.com.br/expresso/2022/10/31/O-que-a-transi%C3%A7%C3%A3o-de-Trump-para-Biden-traz-de-alerta-para-o-Brasil)
+- [Incêndio atinge Ceasa no Rio e saques são registrados](https://www.nexojornal.com.br/extra/2022/10/31/Inc%C3%AAndio-atinge-Ceasa-no-Rio-e-saques-s%C3%A3o-registrados)
+- [O resultado do 2º turno para governador nos maiores estados](https://www.nexojornal.com.br/grafico/2022/10/31/O-resultado-do-2%C2%BA-turno-para-governador-nos-maiores-estados)
+- [Nunca antes na história deste país: os ineditismos de 2022](https://www.nexojornal.com.br/podcast/2022/10/31/Nunca-antes-na-hist%C3%B3ria-deste-pa%C3%ADs-os-ineditismos-de-20221)
+- [‘Lula pode recompor com evangélicos pragmáticos’](https://www.nexojornal.com.br/externo/2022/10/31/%E2%80%98Lula-pode-recompor-com-evang%C3%A9licos-pragm%C3%A1ticos%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
