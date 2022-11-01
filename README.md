@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Noruega anuncia retomada de repasses ao Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/10/31/Noruega-anuncia-retomada-de-repasses-ao-Fundo-Amaz%C3%B4nia)
-- [A diferença no número de votos para cada candidato no 2º turno](https://www.nexojornal.com.br/grafico/2022/10/31/A-diferen%C3%A7a-no-n%C3%BAmero-de-votos-para-cada-candidato-no-2%C2%BA-turno)
-- [Instagram passa por instabilidade em vários países](https://www.nexojornal.com.br/extra/2022/10/31/Instagram-passa-por-instabilidade-em-v%C3%A1rios-pa%C3%ADses)
-- [Homem morre baleado após as eleições em Belo Horizonte](https://www.nexojornal.com.br/extra/2022/10/31/Homem-morre-baleado-ap%C3%B3s-as-elei%C3%A7%C3%B5es-em-Belo-Horizonte)
-- [Bolsonaro se cala. Aliados reconhecem vitória de Lula](https://www.nexojornal.com.br/extra/2022/10/31/Bolsonaro-se-cala.-Aliados-reconhecem-vit%C3%B3ria-de-Lula)
+- [Tarcísio eleito em SP: entre o bolsonarismo e o pragmatismo](https://www.nexojornal.com.br/expresso/2022/10/30/Tarc%C3%ADsio-eleito-em-SP-entre-o-bolsonarismo-e-o-pragmatismo)
+- [Pela primeira vez, abstenção é menor no segundo turno](https://www.nexojornal.com.br/extra/2022/10/30/Pela-primeira-vez-absten%C3%A7%C3%A3o-%C3%A9-menor-no-segundo-turno)
+- [O histórico da votação para presidente nos estados desde 1989](https://www.nexojornal.com.br/grafico/2022/10/30/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-estados-desde-1989)
+- [Após vitória, Lula defende reconciliação entre divergentes](https://www.nexojornal.com.br/extra/2022/10/30/Ap%C3%B3s-vit%C3%B3ria-Lula-defende-reconcilia%C3%A7%C3%A3o-entre-divergentes1)
+- [Líderes estrangeiros parabenizam Lula pela vitória nas eleições](https://www.nexojornal.com.br/extra/2022/10/30/L%C3%ADderes-estrangeiros-parabenizam-Lula-pela-vit%C3%B3ria-nas-elei%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
