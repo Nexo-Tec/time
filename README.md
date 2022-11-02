@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As reações oficiais aos bloqueios enquanto Bolsonaro silenciava](https://www.nexojornal.com.br/expresso/2022/11/01/As-rea%C3%A7%C3%B5es-oficiais-aos-bloqueios-enquanto-Bolsonaro-silenciava)
-- [O estratégico eleitor brasileiro e o resultado das eleições de 2022](https://www.nexojornal.com.br/ensaio/2022/11/01/O-estrat%C3%A9gico-eleitor-brasileiro-e-o-resultado-das-elei%C3%A7%C3%B5es-de-2022)
-- [Presidente disse ao Supremo que ‘acabou’, afirma Fachin](https://www.nexojornal.com.br/extra/2022/11/01/Presidente-disse-ao-Supremo-que-%E2%80%98acabou%E2%80%99-afirma-Fachin)
-- [‘Precisamos de um projeto de futuro que encante as pessoas’](https://www.nexojornal.com.br/entrevista/2022/11/01/%E2%80%98Precisamos-de-um-projeto-de-futuro-que-encante-as-pessoas%E2%80%99)
-- [A apreensão das obras produzidas pelos presos de Guantánamo](https://www.nexojornal.com.br/expresso/2022/11/01/A-apreens%C3%A3o-das-obras-produzidas-pelos-presos-de-Guant%C3%A1namo)
+- [O que a transição de Trump para Biden traz de alerta para o Brasil](https://www.nexojornal.com.br/expresso/2022/10/31/O-que-a-transi%C3%A7%C3%A3o-de-Trump-para-Biden-traz-de-alerta-para-o-Brasil)
+- [Incêndio atinge Ceasa no Rio e saques são registrados](https://www.nexojornal.com.br/extra/2022/10/31/Inc%C3%AAndio-atinge-Ceasa-no-Rio-e-saques-s%C3%A3o-registrados)
+- [O resultado do 2º turno para governador nos maiores estados](https://www.nexojornal.com.br/grafico/2022/10/31/O-resultado-do-2%C2%BA-turno-para-governador-nos-maiores-estados)
+- [Nunca antes na história deste país: os ineditismos de 2022](https://www.nexojornal.com.br/podcast/2022/10/31/Nunca-antes-na-hist%C3%B3ria-deste-pa%C3%ADs-os-ineditismos-de-20221)
+- [‘Lula pode recompor com evangélicos pragmáticos’](https://www.nexojornal.com.br/externo/2022/10/31/%E2%80%98Lula-pode-recompor-com-evang%C3%A9licos-pragm%C3%A1ticos%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
