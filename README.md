@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Alessandra Montagne](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-alessandra-montagne/)
 - [Jeferson Tenório: ‘Sem cotas eu não teria a carreira que tenho’](https://gamarevista.uol.com.br/formato/depoimento/jeferson-tenorio-sem-cotas-eu-nao-teria-a-carreira-que-tenho/)
 - [@victormoriyama](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/victormoriyama/)
 - [Nilson Sibemberg: ‘Os adolescentes estão buscando um conceito que os defina’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-fala-de-questoes-de-genero-e-sexualidade-na-adolescencia/)
 - [Conto de Fadas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conto-de-fadas/)
-- [O melhor do horror nacional para o Dia das Bruxas](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-melhor-do-horror-nacional-para-o-dia-das-bruxas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
