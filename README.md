@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Associação aponta represamento do preço do diesel pela Petrobras](https://www.nexojornal.com.br/extra/2022/11/01/Associa%C3%A7%C3%A3o-aponta-represamento-do-pre%C3%A7o-do-diesel-pela-Petrobras)
-- [Bolsonaro aparece, ignora vitória de Lula e cita ‘direito de ir e vir’](https://www.nexojornal.com.br/extra/2022/11/01/Bolsonaro-aparece-ignora-vit%C3%B3ria-de-Lula-e-cita-%E2%80%98direito-de-ir-e-vir%E2%80%99)
-- [Movimentos sociais divergem sobre ação contra bloqueios](https://www.nexojornal.com.br/extra/2022/11/01/Movimentos-sociais-divergem-sobre-a%C3%A7%C3%A3o-contra-bloqueios)
-- [Como a PRF caminhou para a ação política no governo Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/01/Como-a-PRF-caminhou-para-a-a%C3%A7%C3%A3o-pol%C3%ADtica-no-governo-Bolsonaro)
-- [O histórico das eleições para governadores desde 1982](https://www.nexojornal.com.br/grafico/2022/11/01/O-hist%C3%B3rico-das-elei%C3%A7%C3%B5es-para-governadores-desde-1982)
+- [As reações oficiais aos bloqueios enquanto Bolsonaro silenciava](https://www.nexojornal.com.br/expresso/2022/11/01/As-rea%C3%A7%C3%B5es-oficiais-aos-bloqueios-enquanto-Bolsonaro-silenciava)
+- [O estratégico eleitor brasileiro e o resultado das eleições de 2022](https://www.nexojornal.com.br/ensaio/2022/11/01/O-estrat%C3%A9gico-eleitor-brasileiro-e-o-resultado-das-elei%C3%A7%C3%B5es-de-2022)
+- [Presidente disse ao Supremo que ‘acabou’, afirma Fachin](https://www.nexojornal.com.br/extra/2022/11/01/Presidente-disse-ao-Supremo-que-%E2%80%98acabou%E2%80%99-afirma-Fachin)
+- [‘Precisamos de um projeto de futuro que encante as pessoas’](https://www.nexojornal.com.br/entrevista/2022/11/01/%E2%80%98Precisamos-de-um-projeto-de-futuro-que-encante-as-pessoas%E2%80%99)
+- [A apreensão das obras produzidas pelos presos de Guantánamo](https://www.nexojornal.com.br/expresso/2022/11/01/A-apreens%C3%A3o-das-obras-produzidas-pelos-presos-de-Guant%C3%A1namo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
