@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Alessandra Montagne](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-alessandra-montagne/)
-- [Jeferson Tenório: ‘Sem cotas eu não teria a carreira que tenho’](https://gamarevista.uol.com.br/formato/depoimento/jeferson-tenorio-sem-cotas-eu-nao-teria-a-carreira-que-tenho/)
-- [@victormoriyama](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/victormoriyama/)
-- [Nilson Sibemberg: ‘Os adolescentes estão buscando um conceito que os defina’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-fala-de-questoes-de-genero-e-sexualidade-na-adolescencia/)
-- [Conto de Fadas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/conto-de-fadas/)
+- [Um podcast sobre a vida e a obra de Lima Barreto](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-a-vida-e-a-obra-de-lima-barreto/)
+- [Ancestralidade sul-americana no novo livro de Carola Saavedra](https://gamarevista.uol.com.br/achamos-que-vale/ler/ancestralidade-sul-americana-no-novo-livro-de-carola-saavedra/)
+- [Os anos 90 em “The Crown”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-anos-90-em-the-crown/)
+- [Quilombo e teatro no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/quilombo-e-teatro-no-inhotim/)
+- [Um curso sobre a história do café](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-historia-do-cafe/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
