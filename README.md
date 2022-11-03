@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Três dias depois, Bolsonaro pede fim de bloqueios em rodovias](https://www.nexojornal.com.br/extra/2022/11/02/Tr%C3%AAs-dias-depois-Bolsonaro-pede-fim-de-bloqueios-em-rodovias)
-- [O que o novo governo tem pela frente na economia em 2023](https://www.nexojornal.com.br/expresso/2022/11/02/O-que-o-novo-governo-tem-pela-frente-na-economia-em-2023)
-- [A ferramenta necessária para unir o Brasil é a ciência](https://www.nexojornal.com.br/colunistas/2022/A-ferramenta-necess%C3%A1ria-para-unir-o-Brasil-%C3%A9-a-ci%C3%AAncia)
-- [Ministério Público apura ato bolsonarista com gesto nazista](https://www.nexojornal.com.br/extra/2022/11/02/Minist%C3%A9rio-P%C3%BAblico-apura-ato-bolsonarista-com-gesto-nazista)
-- [Como Bolsonaro se conecta a quem bloqueia rodovias](https://www.nexojornal.com.br/expresso/2022/11/02/Como-Bolsonaro-se-conecta-a-quem-bloqueia-rodovias)
+- [As reações oficiais aos bloqueios enquanto Bolsonaro silenciava](https://www.nexojornal.com.br/expresso/2022/11/01/As-rea%C3%A7%C3%B5es-oficiais-aos-bloqueios-enquanto-Bolsonaro-silenciava)
+- [O estratégico eleitor brasileiro e o resultado das eleições de 2022](https://www.nexojornal.com.br/ensaio/2022/11/01/O-estrat%C3%A9gico-eleitor-brasileiro-e-o-resultado-das-elei%C3%A7%C3%B5es-de-2022)
+- [Presidente disse ao Supremo que ‘acabou’, afirma Fachin](https://www.nexojornal.com.br/extra/2022/11/01/Presidente-disse-ao-Supremo-que-%E2%80%98acabou%E2%80%99-afirma-Fachin)
+- [‘Precisamos de um projeto de futuro que encante as pessoas’](https://www.nexojornal.com.br/entrevista/2022/11/01/%E2%80%98Precisamos-de-um-projeto-de-futuro-que-encante-as-pessoas%E2%80%99)
+- [A apreensão das obras produzidas pelos presos de Guantánamo](https://www.nexojornal.com.br/expresso/2022/11/01/A-apreens%C3%A3o-das-obras-produzidas-pelos-presos-de-Guant%C3%A1namo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
