@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Pedra da Loucura](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-pedra-da-loucura/)
 - [Um podcast sobre a vida e a obra de Lima Barreto](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-a-vida-e-a-obra-de-lima-barreto/)
 - [Ancestralidade sul-americana no novo livro de Carola Saavedra](https://gamarevista.uol.com.br/achamos-que-vale/ler/ancestralidade-sul-americana-no-novo-livro-de-carola-saavedra/)
 - [Os anos 90 em “The Crown”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-anos-90-em-the-crown/)
 - [Quilombo e teatro no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/quilombo-e-teatro-no-inhotim/)
-- [Um curso sobre a história do café](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-curso-sobre-a-historia-do-cafe/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
