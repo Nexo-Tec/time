@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Eleição encaminha volta de Netanyahu ao poder em Israel](https://www.nexojornal.com.br/extra/2022/11/03/Elei%C3%A7%C3%A3o-encaminha-volta-de-Netanyahu-ao-poder-em-Israel)
-- [Três dias depois, Bolsonaro pede fim de bloqueios em rodovias](https://www.nexojornal.com.br/extra/2022/11/02/Tr%C3%AAs-dias-depois-Bolsonaro-pede-fim-de-bloqueios-em-rodovias)
-- [O que o novo governo tem pela frente na economia em 2023](https://www.nexojornal.com.br/expresso/2022/11/02/O-que-o-novo-governo-tem-pela-frente-na-economia-em-2023)
-- [A ferramenta necessária para unir o Brasil é a ciência](https://www.nexojornal.com.br/colunistas/2022/A-ferramenta-necess%C3%A1ria-para-unir-o-Brasil-%C3%A9-a-ci%C3%AAncia)
-- [Ministério Público apura ato bolsonarista com gesto nazista](https://www.nexojornal.com.br/extra/2022/11/02/Minist%C3%A9rio-P%C3%BAblico-apura-ato-bolsonarista-com-gesto-nazista)
+- [Como Lula desenha sua coalizão para o terceiro mandato](https://www.nexojornal.com.br/expresso/2022/11/03/Como-Lula-desenha-sua-coaliz%C3%A3o-para-o-terceiro-mandato)
+- [As perspectivas para políticas de gênero e raça no novo governo](https://www.nexojornal.com.br/expresso/2022/11/03/As-perspectivas-para-pol%C3%ADticas-de-g%C3%AAnero-e-ra%C3%A7a-no-novo-governo)
+- [A transição de governo num país que tenta voltar à normalidade](https://www.nexojornal.com.br/podcast/2022/11/03/A-transi%C3%A7%C3%A3o-de-governo-num-pa%C3%ADs-que-tenta-voltar-%C3%A0-normalidade)
+- [Supremo estipula 60 dias para reativação do Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/11/03/Supremo-estipula-60-dias-para-reativa%C3%A7%C3%A3o-do-Fundo-Amaz%C3%B4nia)
+- [Rebeca Andrade conquista ouro inédito no Mundial de Ginástica](https://www.nexojornal.com.br/extra/2022/11/03/Rebeca-Andrade-conquista-ouro-in%C3%A9dito-no-Mundial-de-Gin%C3%A1stica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
