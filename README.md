@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rio confirma primeiro caso de nova subvariante da covid](https://www.nexojornal.com.br/extra/2022/11/05/Rio-confirma-primeiro-caso-de-nova-subvariante-da-covid)
 - [Colégio Porto Seguro desliga 8 alunos após caso de racismo](https://www.nexojornal.com.br/extra/2022/11/04/Col%C3%A9gio-Porto-Seguro-desliga-8-alunos-ap%C3%B3s-caso-de-racismo)
 - [‘Há grupos impermeáveis a sinais externos da realidade’](https://www.nexojornal.com.br/entrevista/2022/11/04/%E2%80%98H%C3%A1-grupos-imperme%C3%A1veis-a-sinais-externos-da-realidade%E2%80%99)
 - [As raízes religiosas e culturais do método de Marie Kondo](https://www.nexojornal.com.br/externo/2022/11/04/As-ra%C3%ADzes-religiosas-e-culturais-do-m%C3%A9todo-de-Marie-Kondo)
 - [Como educar sobre a crise climática nas salas de aula](https://www.nexojornal.com.br/expresso/2022/11/04/Como-educar-sobre-a-crise-clim%C3%A1tica-nas-salas-de-aula)
-- [O que é sportswashing. E qual sua relação com a Copa do Qatar](https://www.nexojornal.com.br/expresso/2022/11/04/O-que-%C3%A9-sportswashing.-E-qual-sua-rela%C3%A7%C3%A3o-com-a-Copa-do-Qatar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
