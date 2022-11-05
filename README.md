@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Colégio Porto Seguro desliga 8 alunos após caso de racismo](https://www.nexojornal.com.br/extra/2022/11/04/Col%C3%A9gio-Porto-Seguro-desliga-8-alunos-ap%C3%B3s-caso-de-racismo)
-- [‘Há grupos impermeáveis a sinais externos da realidade’](https://www.nexojornal.com.br/entrevista/2022/11/04/%E2%80%98H%C3%A1-grupos-imperme%C3%A1veis-a-sinais-externos-da-realidade%E2%80%99)
-- [As raízes religiosas e culturais do método de Marie Kondo](https://www.nexojornal.com.br/externo/2022/11/04/As-ra%C3%ADzes-religiosas-e-culturais-do-m%C3%A9todo-de-Marie-Kondo)
-- [Como educar sobre a crise climática nas salas de aula](https://www.nexojornal.com.br/expresso/2022/11/04/Como-educar-sobre-a-crise-clim%C3%A1tica-nas-salas-de-aula)
-- [O que é sportswashing. E qual sua relação com a Copa do Qatar](https://www.nexojornal.com.br/expresso/2022/11/04/O-que-%C3%A9-sportswashing.-E-qual-sua-rela%C3%A7%C3%A3o-com-a-Copa-do-Qatar)
+- [Brasil registra alta de casos de covid em outubro](https://www.nexojornal.com.br/extra/2022/11/04/Brasil-registra-alta-de-casos-de-covid-em-outubro)
+- [Como Lula desenha sua coalizão para o terceiro mandato](https://www.nexojornal.com.br/expresso/2022/11/03/Como-Lula-desenha-sua-coaliz%C3%A3o-para-o-terceiro-mandato)
+- [As perspectivas para políticas de gênero e raça no novo governo](https://www.nexojornal.com.br/expresso/2022/11/03/As-perspectivas-para-pol%C3%ADticas-de-g%C3%AAnero-e-ra%C3%A7a-no-novo-governo)
+- [A transição de governo num país que tenta voltar à normalidade](https://www.nexojornal.com.br/podcast/2022/11/03/A-transi%C3%A7%C3%A3o-de-governo-num-pa%C3%ADs-que-tenta-voltar-%C3%A0-normalidade)
+- [Supremo estipula 60 dias para reativação do Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/11/03/Supremo-estipula-60-dias-para-reativa%C3%A7%C3%A3o-do-Fundo-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
