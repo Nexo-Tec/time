@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os 100 anos da descoberta da tumba de Tutancâmon](https://www.nexojornal.com.br/expresso/2022/11/04/Os-100-anos-da-descoberta-da-tumba-de-Tutanc%C3%A2mon)
-- [Líderes evangélicos se dividem sobre reatar ou não com Lula](https://www.nexojornal.com.br/extra/2022/11/04/L%C3%ADderes-evang%C3%A9licos-se-dividem-sobre-reatar-ou-n%C3%A3o-com-Lula)
-- [Sob Elon Musk, Twitter demite em massa e é processado](https://www.nexojornal.com.br/extra/2022/11/04/Sob-Elon-Musk-Twitter-demite-em-massa-e-%C3%A9-processado)
-- [As marcas da violência que atravessou a eleição de 2022](https://www.nexojornal.com.br/externo/2022/11/04/As-marcas-da-viol%C3%AAncia-que-atravessou-a-elei%C3%A7%C3%A3o-de-2022)
-- [Brasil registra alta de casos de covid em outubro](https://www.nexojornal.com.br/extra/2022/11/04/Brasil-registra-alta-de-casos-de-covid-em-outubro)
+- [Como Lula desenha sua coalizão para o terceiro mandato](https://www.nexojornal.com.br/expresso/2022/11/03/Como-Lula-desenha-sua-coaliz%C3%A3o-para-o-terceiro-mandato)
+- [As perspectivas para políticas de gênero e raça no novo governo](https://www.nexojornal.com.br/expresso/2022/11/03/As-perspectivas-para-pol%C3%ADticas-de-g%C3%AAnero-e-ra%C3%A7a-no-novo-governo)
+- [A transição de governo num país que tenta voltar à normalidade](https://www.nexojornal.com.br/podcast/2022/11/03/A-transi%C3%A7%C3%A3o-de-governo-num-pa%C3%ADs-que-tenta-voltar-%C3%A0-normalidade)
+- [Supremo estipula 60 dias para reativação do Fundo Amazônia](https://www.nexojornal.com.br/extra/2022/11/03/Supremo-estipula-60-dias-para-reativa%C3%A7%C3%A3o-do-Fundo-Amaz%C3%B4nia)
+- [Rebeca Andrade conquista ouro inédito no Mundial de Ginástica](https://www.nexojornal.com.br/extra/2022/11/03/Rebeca-Andrade-conquista-ouro-in%C3%A9dito-no-Mundial-de-Gin%C3%A1stica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
