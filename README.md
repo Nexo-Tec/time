@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [TSE suspende conta de Marcos Cintra em rede social](https://www.nexojornal.com.br/extra/2022/11/06/TSE-suspende-conta-de-Marcos-Cintra-em-rede-social)
+- [O que está em jogo: Lula, o centrão e a governabilidade](https://www.nexojornal.com.br/ensaio/2022/11/06/O-que-est%C3%A1-em-jogo-Lula-o-centr%C3%A3o-e-a-governabilidade)
+- [‘Fome e segurança pública são chaves para o novo Conselhão’](https://www.nexojornal.com.br/entrevista/2022/11/06/%E2%80%98Fome-e-seguran%C3%A7a-p%C3%BAblica-s%C3%A3o-chaves-para-o-novo-Conselh%C3%A3o%E2%80%99)
+- [ONU diz que últimos 8 anos foram os mais quentes da história](https://www.nexojornal.com.br/extra/2022/11/06/ONU-diz-que-%C3%BAltimos-8-anos-foram-os-mais-quentes-da-hist%C3%B3ria)
 - [O que especialistas que atuam na Amazônia esperam de Lula](https://www.nexojornal.com.br/externo/2022/11/05/O-que-especialistas-que-atuam-na-Amaz%C3%B4nia-esperam-de-Lula)
-- [Qual o saldo do papel de Moraes na condução da eleição](https://www.nexojornal.com.br/expresso/2022/11/05/Qual-o-saldo-do-papel-de-Moraes-na-condu%C3%A7%C3%A3o-da-elei%C3%A7%C3%A3o)
-- [5 livros para entender e pesquisar a cultura pop](https://www.nexojornal.com.br/estante/favoritos/2022/11/05/5-livros-para-entender-e-pesquisar-a-cultura-pop)
-- [Qual Brasil vai para a COP27, conferência do clima da ONU](https://www.nexojornal.com.br/expresso/2022/11/05/Qual-Brasil-vai-para-a-COP27-confer%C3%AAncia-do-clima-da-ONU)
-- [Lula obteve 51,3% dos votos válidos dos brasileiros no exterior](https://www.nexojornal.com.br/grafico/2022/11/05/Lula-obteve-513-dos-votos-v%C3%A1lidos-dos-brasileiros-no-exterior)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
