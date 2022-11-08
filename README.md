@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pesquisa mostra que 12% dos brasileiros adultos são LGBTI+](https://www.nexojornal.com.br/extra/2022/11/07/Pesquisa-mostra-que-12-dos-brasileiros-adultos-s%C3%A3o-LGBTI)
-- [Morre Guilherme de Pádua, condenado por matar Daniella Perez](https://www.nexojornal.com.br/extra/2022/11/07/Morre-Guilherme-de-P%C3%A1dua-condenado-por-matar-Daniella-Perez)
-- [TSE suspende conta de Marcos Cintra em rede social](https://www.nexojornal.com.br/extra/2022/11/06/TSE-suspende-conta-de-Marcos-Cintra-em-rede-social)
-- [O que está em jogo: Lula, o centrão e a governabilidade](https://www.nexojornal.com.br/ensaio/2022/11/06/O-que-est%C3%A1-em-jogo-Lula-o-centr%C3%A3o-e-a-governabilidade)
-- [‘Fome e segurança pública são chaves para o novo Conselhão’](https://www.nexojornal.com.br/entrevista/2022/11/06/%E2%80%98Fome-e-seguran%C3%A7a-p%C3%BAblica-s%C3%A3o-chaves-para-o-novo-Conselh%C3%A3o%E2%80%99)
+- [Quais os pontos-chave da transição para o novo governo Lula](https://www.nexojornal.com.br/expresso/2022/11/07/Quais-os-pontos-chave-da-transi%C3%A7%C3%A3o-para-o-novo-governo-Lula)
+- [Jair Bolsonaro não é conservador. É retrógrado e reacionário](https://www.nexojornal.com.br/colunistas/2022/Jair-Bolsonaro-n%C3%A3o-%C3%A9-conservador.-%C3%89-retr%C3%B3grado-e-reacion%C3%A1rio)
+- [Trabalho infantil pode afetar quase 6 milhões no país](https://www.nexojornal.com.br/externo/2022/11/07/Trabalho-infantil-pode-afetar-quase-6-milh%C3%B5es-no-pa%C3%ADs)
+- [Ex-vereador Gabriel Monteiro é preso por acusação de estupro](https://www.nexojornal.com.br/extra/2022/11/07/Ex-vereador-Gabriel-Monteiro-%C3%A9-preso-por-acusa%C3%A7%C3%A3o-de-estupro)
+- [Da política à Copa: a camisa amarela em seu palco principal](https://www.nexojornal.com.br/podcast/2022/11/07/Da-pol%C3%ADtica-%C3%A0-Copa-a-camisa-amarela-em-seu-palco-principal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
