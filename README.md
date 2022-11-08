@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pesquisa mostra que 12% dos brasileiros adultos são LGBTI+](https://www.nexojornal.com.br/extra/2022/11/07/Pesquisa-mostra-que-12-dos-brasileiros-adultos-s%C3%A3o-LGBTI)
+- [Morre Guilherme de Pádua, condenado por matar Daniella Perez](https://www.nexojornal.com.br/extra/2022/11/07/Morre-Guilherme-de-P%C3%A1dua-condenado-por-matar-Daniella-Perez)
 - [TSE suspende conta de Marcos Cintra em rede social](https://www.nexojornal.com.br/extra/2022/11/06/TSE-suspende-conta-de-Marcos-Cintra-em-rede-social)
 - [O que está em jogo: Lula, o centrão e a governabilidade](https://www.nexojornal.com.br/ensaio/2022/11/06/O-que-est%C3%A1-em-jogo-Lula-o-centr%C3%A3o-e-a-governabilidade)
 - [‘Fome e segurança pública são chaves para o novo Conselhão’](https://www.nexojornal.com.br/entrevista/2022/11/06/%E2%80%98Fome-e-seguran%C3%A7a-p%C3%BAblica-s%C3%A3o-chaves-para-o-novo-Conselh%C3%A3o%E2%80%99)
-- [ONU diz que últimos 8 anos foram os mais quentes da história](https://www.nexojornal.com.br/extra/2022/11/06/ONU-diz-que-%C3%BAltimos-8-anos-foram-os-mais-quentes-da-hist%C3%B3ria)
-- [O que especialistas que atuam na Amazônia esperam de Lula](https://www.nexojornal.com.br/externo/2022/11/05/O-que-especialistas-que-atuam-na-Amaz%C3%B4nia-esperam-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
