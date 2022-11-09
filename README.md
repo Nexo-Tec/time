@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Uma arte da memória: Duhigó e sua obra](https://pp.nexojornal.com.br/opiniao/2022/Uma-arte-da-mem%C3%B3ria-Duhig%C3%B3-e-sua-obra)
+- [A &quot;cibricidade&quot; como espaço de ensino e de aprendizagem](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-cibricidade-como-espa%C3%A7o-de-ensino-e-de-aprendizagem)
+- [Riscos climáticos e ambientais: os desafios da agropecuária e do seguro rural no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Riscos-clim%C3%A1ticos-e-ambientais-os-desafios-da-agropecu%C3%A1ria-e-do-seguro-rural-no-Brasil)
 - [Risco e seguro na agropecuária](https://pp.nexojornal.com.br/glossario/Risco-e-seguro-na-agropecu%C3%A1ria)
 - [A política do medo: reflexões sobre o neoconservadorismo à luz da sociologia de Du Bois](https://pp.nexojornal.com.br/opiniao/2022/A-pol%C3%ADtica-do-medo-reflex%C3%B5es-sobre-o-neoconservadorismo-%C3%A0-luz-da-sociologia-de-Du-Bois)
-- [Agendado o colapso da política de assistência social](https://pp.nexojornal.com.br/ponto-de-vista/2022/Agendado-o-colapso-da-pol%C3%ADtica-de-assist%C3%AAncia-social)
-- [Católicos e reacionários: o catolicismo como motor explicativo do conservadorismo no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Cat%C3%B3licos-e-reacion%C3%A1rios-o-catolicismo-como-motor-explicativo-do-conservadorismo-no-Brasil)
-- [Como a liberdade acadêmica é regulada pelo direito internacional](https://pp.nexojornal.com.br/linha-do-tempo/2022/Como-a-liberdade-acad%C3%AAmica-%C3%A9-regulada-pelo-direito-internacional)
 <!-- PP_LIST:END -->
 
