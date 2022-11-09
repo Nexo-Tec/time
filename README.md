@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Começar a arrumar essa bagunça de dentro](https://gamarevista.uol.com.br/colunistas/winnie-bueno/comecar-a-arrumar-essa-bagunca-de-dentro/)
 - [Como ler Lima Barreto hoje](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ler-lima-barreto-hoje/)
 - [@sevdaliza](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sevdaliza/)
 - [Reciclagem humana](https://gamarevista.uol.com.br/colunistas/marcello-dantas/reciclagem-humana/)
 - [Tai Castilho: ‘A pessoa desesperada por independência é muito dependente’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/a-pessoa-desesperada-por-independencia-e-muito-dependente/)
-- [A Pedra da Loucura](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-pedra-da-loucura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
