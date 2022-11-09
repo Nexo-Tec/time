@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo eleito tem 3 caminhos para bancar auxílio em 2023](https://www.nexojornal.com.br/extra/2022/11/08/Governo-eleito-tem-3-caminhos-para-bancar-aux%C3%ADlio-em-2023)
-- [Embaixador da Copa diz que homossexuais têm ‘dano mental’](https://www.nexojornal.com.br/extra/2022/11/08/Embaixador-da-Copa-diz-que-homossexuais-t%C3%AAm-%E2%80%98dano-mental%E2%80%99)
-- [Quais os pontos-chave da transição para o novo governo Lula](https://www.nexojornal.com.br/expresso/2022/11/07/Quais-os-pontos-chave-da-transi%C3%A7%C3%A3o-para-o-novo-governo-Lula)
-- [Jair Bolsonaro não é conservador. É retrógrado e reacionário](https://www.nexojornal.com.br/colunistas/2022/Jair-Bolsonaro-n%C3%A3o-%C3%A9-conservador.-%C3%89-retr%C3%B3grado-e-reacion%C3%A1rio)
-- [Trabalho infantil pode afetar quase 6 milhões no país](https://www.nexojornal.com.br/externo/2022/11/07/Trabalho-infantil-pode-afetar-quase-6-milh%C3%B5es-no-pa%C3%ADs)
+- [O histórico da votação para presidente nos capitais desde 1989](https://www.nexojornal.com.br/incoming/2022/11/09/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-capitais-desde-1989)
+- [Morre aos 77 anos Gal Costa, ícone da música popular brasileira](https://www.nexojornal.com.br/extra/2022/11/09/Morre-aos-77-anos-Gal-Costa-%C3%ADcone-da-m%C3%BAsica-popular-brasileira)
+- [As propostas para uma área no governo focada na crise do clima](https://www.nexojornal.com.br/expresso/2022/11/08/As-propostas-para-uma-%C3%A1rea-no-governo-focada-na-crise-do-clima)
+- [Como a democracia tem de lidar com os movimentos golpistas](https://www.nexojornal.com.br/expresso/2022/11/08/Como-a-democracia-tem-de-lidar-com-os-movimentos-golpistas)
+- [Negociações do clima: o que esperar da COP27](https://www.nexojornal.com.br/ensaio/2022/11/08/Negocia%C3%A7%C3%B5es-do-clima-o-que-esperar-da-COP27)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
