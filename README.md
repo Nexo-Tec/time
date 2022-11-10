@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O histórico da votação para presidente nos capitais desde 1989](https://www.nexojornal.com.br/grafico/2022/11/09/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-capitais-desde-1989)
+- [O histórico da votação para presidente nos capitais desde 1989](https://www.nexojornal.com.br/incoming/2022/11/09/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-capitais-desde-1989)
 - [Morre aos 77 anos Gal Costa, ícone da música popular brasileira](https://www.nexojornal.com.br/extra/2022/11/09/Morre-aos-77-anos-Gal-Costa-%C3%ADcone-da-m%C3%BAsica-popular-brasileira)
 - [As propostas para uma área no governo focada na crise do clima](https://www.nexojornal.com.br/expresso/2022/11/08/As-propostas-para-uma-%C3%A1rea-no-governo-focada-na-crise-do-clima)
 - [Como a democracia tem de lidar com os movimentos golpistas](https://www.nexojornal.com.br/expresso/2022/11/08/Como-a-democracia-tem-de-lidar-com-os-movimentos-golpistas)
