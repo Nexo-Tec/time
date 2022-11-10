@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [COP precisa ir além de ambientalismo branco e ter em implementação como norte](https://gamarevista.uol.com.br/especial/cop-precisa-ir-alem-de-ambientalismo-branco-e-ter-em-implementacao-como-norte/)
 - [Começar a arrumar essa bagunça por dentro](https://gamarevista.uol.com.br/colunistas/winnie-bueno/comecar-a-arrumar-essa-bagunca-de-dentro/)
 - [Como ler Lima Barreto hoje](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ler-lima-barreto-hoje/)
 - [@sevdaliza](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sevdaliza/)
 - [Reciclagem humana](https://gamarevista.uol.com.br/colunistas/marcello-dantas/reciclagem-humana/)
-- [Tai Castilho: ‘A pessoa desesperada por independência é muito dependente’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/a-pessoa-desesperada-por-independencia-e-muito-dependente/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
