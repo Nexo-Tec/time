@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O histórico da votação para presidente nos capitais desde 1989](https://www.nexojornal.com.br/grafico/2022/11/09/O-hist%C3%B3rico-da-vota%C3%A7%C3%A3o-para-presidente-nos-capitais-desde-1989)
-- [Morre aos 77 anos Gal Costa, ícone da música popular brasileira](https://www.nexojornal.com.br/extra/2022/11/09/Morre-aos-77-anos-Gal-Costa-%C3%ADcone-da-m%C3%BAsica-popular-brasileira)
-- [As propostas para uma área no governo focada na crise do clima](https://www.nexojornal.com.br/expresso/2022/11/08/As-propostas-para-uma-%C3%A1rea-no-governo-focada-na-crise-do-clima)
-- [Como a democracia tem de lidar com os movimentos golpistas](https://www.nexojornal.com.br/expresso/2022/11/08/Como-a-democracia-tem-de-lidar-com-os-movimentos-golpistas)
-- [Negociações do clima: o que esperar da COP27](https://www.nexojornal.com.br/ensaio/2022/11/08/Negocia%C3%A7%C3%B5es-do-clima-o-que-esperar-da-COP27)
+- [Morre ator Roberto Guilherme, o Sargento Pincel dos Trapalhões](https://www.nexojornal.com.br/extra/2022/11/10/Morre-ator-Roberto-Guilherme-o-Sargento-Pincel-dos-Trapalh%C3%B5es)
+- [Lula defende despesas com políticas sociais e mercado reage mal](https://www.nexojornal.com.br/extra/2022/11/10/Lula-defende-despesas-com-pol%C3%ADticas-sociais-e-mercado-reage-mal)
+- [Após 3 meses de queda, preços sobem 0,59% em outubro](https://www.nexojornal.com.br/extra/2022/11/10/Ap%C3%B3s-3-meses-de-queda-pre%C3%A7os-sobem-059-em-outubro)
+- [O que a vitória de Lula sinaliza para a esquerda sul-americana](https://www.nexojornal.com.br/expresso/2022/11/09/O-que-a-vit%C3%B3ria-de-Lula-sinaliza-para-a-esquerda-sul-americana)
+- [Como as mudanças climáticas afetam as crianças brasileiras](https://www.nexojornal.com.br/expresso/2022/11/09/Como-as-mudan%C3%A7as-clim%C3%A1ticas-afetam-as-crian%C3%A7as-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
