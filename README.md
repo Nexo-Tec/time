@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Amigos, mulheres e Gal Costa](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/amigos-mulheres-e-gal-costa/)
+- [Amigas, mulheres e Gal Costa](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/amigas-mulheres-e-gal-costa/)
 - [Em Câmara Lenta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/em-camara-lenta/)
 - [Malcolm Ferdinand: ‘A preservação da floresta deve começar pela das comunidades que ali vivem’](https://gamarevista.uol.com.br/formato/conversas/malcolm-ferdinand-a-preservacao-da-floresta-deve-comecar-pela-das-comunidades-que-ali-vivem/)
 - [Luto familiar no romance de estreia de Thiago Camelo](https://gamarevista.uol.com.br/achamos-que-vale/ler/luto-familiar-no-romance-de-estreia-de-thiago-camelo/)
