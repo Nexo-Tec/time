@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Em Câmara Lenta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/em-camara-lenta/)
 - [Malcolm Ferdinand: ‘A preservação da floresta deve começar pela das comunidades que ali vivem’](https://gamarevista.uol.com.br/formato/conversas/malcolm-ferdinand-a-preservacao-da-floresta-deve-comecar-pela-das-comunidades-que-ali-vivem/)
 - [Luto familiar no romance de estreia de Thiago Camelo](https://gamarevista.uol.com.br/achamos-que-vale/ler/luto-familiar-no-romance-de-estreia-de-thiago-camelo/)
 - [Futebol e corrupção no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/futebol-e-corrupcao-no-prime-video/)
 - [“Pico dos Marins” e o caso de um escoteiro desaparecido](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/pico-dos-marins-e-o-caso-de-um-escoteiro-desaparecido/)
-- [O Brasil aos olhos dos clássicos autores negros](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-brasil-aos-olhos-dos-classicos-autores-negros/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
