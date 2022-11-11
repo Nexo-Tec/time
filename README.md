@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Crédito Rural](https://pp.nexojornal.com.br/glossario/Cr%C3%A9dito-Rural)
-- [Cotistas na UFBA: o que revela o desempenho acadêmico?](https://pp.nexojornal.com.br/opiniao/2022/Cotistas-na-UFBA-o-que-revela-o-desempenho-acad%C3%AAmico)
 - [Uma arte da memória: Duhigó e sua obra](https://pp.nexojornal.com.br/opiniao/2022/Uma-arte-da-mem%C3%B3ria-Duhig%C3%B3-e-sua-obra)
 - [A &quot;cibricidade&quot; como espaço de ensino e de aprendizagem](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-cibricidade-como-espa%C3%A7o-de-ensino-e-de-aprendizagem)
 - [Riscos climáticos e ambientais: os desafios da agropecuária e do seguro rural no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Riscos-clim%C3%A1ticos-e-ambientais-os-desafios-da-agropecu%C3%A1ria-e-do-seguro-rural-no-Brasil)
+- [Risco e seguro na agropecuária](https://pp.nexojornal.com.br/glossario/Risco-e-seguro-na-agropecu%C3%A1ria)
+- [A política do medo: reflexões sobre o neoconservadorismo à luz da sociologia de Du Bois](https://pp.nexojornal.com.br/opiniao/2022/A-pol%C3%ADtica-do-medo-reflex%C3%B5es-sobre-o-neoconservadorismo-%C3%A0-luz-da-sociologia-de-Du-Bois)
 <!-- PP_LIST:END -->
 
