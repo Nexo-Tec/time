@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Não houve onda vermelha, mas trumpismo ainda tem apelo’](https://www.nexojornal.com.br/entrevista/2022/11/10/%E2%80%98N%C3%A3o-houve-onda-vermelha-mas-trumpismo-ainda-tem-apelo%E2%80%99)
-- [Como a personalidade impacta na impulsividade nas compras](https://www.nexojornal.com.br/academico/2022/11/10/Como-a-personalidade-impacta-na-impulsividade-nas-compras)
-- [O que aprender &lpar;e ensinar&rpar; sobre teorias da conspiração](https://www.nexojornal.com.br/colunistas/2022/11/10/O-que-aprender-e-ensinar-sobre-teorias-da-conspira%C3%A7%C3%A3o)
-- [Os reveses no alargamento da praia de Balneário Camboriú](https://www.nexojornal.com.br/expresso/2022/11/10/Os-reveses-no-alargamento-da-praia-de-Balne%C3%A1rio-Cambori%C3%BA)
-- [Governo de transição anuncia nomes de novas equipes](https://www.nexojornal.com.br/extra/2022/11/10/Governo-de-transi%C3%A7%C3%A3o-anuncia-nomes-de-novas-equipes)
+- [Morre ator Roberto Guilherme, o Sargento Pincel dos Trapalhões](https://www.nexojornal.com.br/extra/2022/11/10/Morre-ator-Roberto-Guilherme-o-Sargento-Pincel-dos-Trapalh%C3%B5es)
+- [Lula defende despesas com políticas sociais e mercado reage mal](https://www.nexojornal.com.br/extra/2022/11/10/Lula-defende-despesas-com-pol%C3%ADticas-sociais-e-mercado-reage-mal)
+- [Após 3 meses de queda, preços sobem 0,59% em outubro](https://www.nexojornal.com.br/extra/2022/11/10/Ap%C3%B3s-3-meses-de-queda-pre%C3%A7os-sobem-059-em-outubro)
+- [O que a vitória de Lula sinaliza para a esquerda sul-americana](https://www.nexojornal.com.br/expresso/2022/11/09/O-que-a-vit%C3%B3ria-de-Lula-sinaliza-para-a-esquerda-sul-americana)
+- [Como as mudanças climáticas afetam as crianças brasileiras](https://www.nexojornal.com.br/expresso/2022/11/09/Como-as-mudan%C3%A7as-clim%C3%A1ticas-afetam-as-crian%C3%A7as-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
