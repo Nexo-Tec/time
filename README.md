@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [USP decide parar de usar o Sisu em sua seleção de alunos](https://www.nexojornal.com.br/extra/2022/11/11/USP-decide-parar-de-usar-o-Sisu-em-sua-sele%C3%A7%C3%A3o-de-alunos)
-- [Da fala de Lula sobre a economia à repercussão entre economistas](https://www.nexojornal.com.br/expresso/2022/11/11/Da-fala-de-Lula-sobre-a-economia-%C3%A0-repercuss%C3%A3o-entre-economistas)
 - [Infectologistas fazem recomendações diante de aceleração da covid](https://www.nexojornal.com.br/extra/2022/11/11/Infectologistas-fazem-recomenda%C3%A7%C3%B5es-diante-de-acelera%C3%A7%C3%A3o-da-covid)
 - [Rússia retira tropas de cidade anexada ao sul da Ucrânia](https://www.nexojornal.com.br/extra/2022/11/11/R%C3%BAssia-retira-tropas-de-cidade-anexada-ao-sul-da-Ucr%C3%A2nia)
 - [Forças Armadas divulgam nota com recados ao Judiciário](https://www.nexojornal.com.br/extra/2022/11/11/For%C3%A7as-Armadas-divulgam-nota-com-recados-ao-Judici%C3%A1rio)
+- [Polícia Federal abre inquérito contra chefe da Polícia Rodoviária](https://www.nexojornal.com.br/extra/2022/11/11/Pol%C3%ADcia-Federal-abre-inqu%C3%A9rito-contra-chefe-da-Pol%C3%ADcia-Rodovi%C3%A1ria)
+- [O que aprender &lpar;e ensinar&rpar; sobre teorias da conspiração](https://www.nexojornal.com.br/colunistas/2022/O-que-aprender-e-ensinar-sobre-teorias-da-conspira%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
