@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Infectologistas fazem recomendações diante de aceleração da covid](https://www.nexojornal.com.br/extra/2022/11/11/Infectologistas-fazem-recomenda%C3%A7%C3%B5es-diante-de-acelera%C3%A7%C3%A3o-da-covid)
-- [Rússia retira tropas de cidade anexada ao sul da Ucrânia](https://www.nexojornal.com.br/extra/2022/11/11/R%C3%BAssia-retira-tropas-de-cidade-anexada-ao-sul-da-Ucr%C3%A2nia)
-- [Forças Armadas divulgam nota com recados ao Judiciário](https://www.nexojornal.com.br/extra/2022/11/11/For%C3%A7as-Armadas-divulgam-nota-com-recados-ao-Judici%C3%A1rio)
-- [Polícia Federal abre inquérito contra chefe da Polícia Rodoviária](https://www.nexojornal.com.br/extra/2022/11/11/Pol%C3%ADcia-Federal-abre-inqu%C3%A9rito-contra-chefe-da-Pol%C3%ADcia-Rodovi%C3%A1ria)
-- [O que aprender &lpar;e ensinar&rpar; sobre teorias da conspiração](https://www.nexojornal.com.br/colunistas/2022/O-que-aprender-e-ensinar-sobre-teorias-da-conspira%C3%A7%C3%A3o)
+- [Quem é Ron DeSantis, o republicano que ameaça Trump](https://www.nexojornal.com.br/expresso/2022/11/11/Quem-%C3%A9-Ron-DeSantis-o-republicano-que-amea%C3%A7a-Trump)
+- [Os movimentos de Lula para resgatar o diálogo político no Brasil](https://www.nexojornal.com.br/expresso/2022/11/11/Os-movimentos-de-Lula-para-resgatar-o-di%C3%A1logo-pol%C3%ADtico-no-Brasil)
+- [A equipe da transição de governo. A morte de Gal. E mais](https://www.nexojornal.com.br/video/extrato/A-equipe-da-transi%C3%A7%C3%A3o-de-governo.-A-morte-de-Gal.-E-mais)
+- [‘A menina linda’: crônicas de uma mulher preta](https://www.nexojornal.com.br/estante/trechos/2022/11/11/%E2%80%98A-menina-linda%E2%80%99-cr%C3%B4nicas-de-uma-mulher-preta)
+- [Octogenários da música: a história de Paulinho da Viola](https://www.nexojornal.com.br/grafico/2022/11/11/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Paulinho-da-Viola)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
