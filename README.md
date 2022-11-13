@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trabalhadores em SC denunciam pressão de chefe para ir a bloqueio](https://www.nexojornal.com.br/extra/2022/11/12/Trabalhadores-em-SC-denunciam-press%C3%A3o-de-chefe-para-ir-a-bloqueio)
 - [Quem é Ron DeSantis, o republicano que ameaça Trump](https://www.nexojornal.com.br/expresso/2022/11/11/Quem-%C3%A9-Ron-DeSantis-o-republicano-que-amea%C3%A7a-Trump)
 - [Os movimentos de Lula para resgatar o diálogo político no Brasil](https://www.nexojornal.com.br/expresso/2022/11/11/Os-movimentos-de-Lula-para-resgatar-o-di%C3%A1logo-pol%C3%ADtico-no-Brasil)
 - [A equipe da transição de governo. A morte de Gal. E mais](https://www.nexojornal.com.br/video/extrato/A-equipe-da-transi%C3%A7%C3%A3o-de-governo.-A-morte-de-Gal.-E-mais)
 - [‘A menina linda’: crônicas de uma mulher preta](https://www.nexojornal.com.br/estante/trechos/2022/11/11/%E2%80%98A-menina-linda%E2%80%99-cr%C3%B4nicas-de-uma-mulher-preta)
+- [Octogenários da música: a história de Paulinho da Viola](https://www.nexojornal.com.br/grafico/2022/11/11/Octogen%C3%A1rios-da-m%C3%BAsica-a-hist%C3%B3ria-de-Paulinho-da-Viola)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
