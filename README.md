@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trabalhadores em SC denunciam pressão de chefe para ir a bloqueio](https://www.nexojornal.com.br/extra/2022/11/12/Trabalhadores-em-SC-denunciam-press%C3%A3o-de-chefe-para-ir-a-bloqueio)
-- [Quem é Ron DeSantis, o republicano que ameaça Trump](https://www.nexojornal.com.br/expresso/2022/11/11/Quem-%C3%A9-Ron-DeSantis-o-republicano-que-amea%C3%A7a-Trump)
-- [Os movimentos de Lula para resgatar o diálogo político no Brasil](https://www.nexojornal.com.br/expresso/2022/11/11/Os-movimentos-de-Lula-para-resgatar-o-di%C3%A1logo-pol%C3%ADtico-no-Brasil)
-- [A equipe da transição de governo. A morte de Gal. E mais](https://www.nexojornal.com.br/video/extrato/A-equipe-da-transi%C3%A7%C3%A3o-de-governo.-A-morte-de-Gal.-E-mais)
-- [‘A menina linda’: crônicas de uma mulher preta](https://www.nexojornal.com.br/estante/trechos/2022/11/11/%E2%80%98A-menina-linda%E2%80%99-cr%C3%B4nicas-de-uma-mulher-preta)
+- [No país da Copa do Mundo, o futuro é &lpar;ultra&rpar;passado](https://www.nexojornal.com.br/ensaio/2022/11/13/No-pa%C3%ADs-da-Copa-do-Mundo-o-futuro-%C3%A9-ultrapassado)
+- [Em vitória para Biden, democratas mantêm controle do Senado](https://www.nexojornal.com.br/extra/2022/11/13/Em-vit%C3%B3ria-para-Biden-democratas-mant%C3%AAm-controle-do-Senado)
+- [Flordelis é condenada a 50 anos de prisão por morte de marido](https://www.nexojornal.com.br/extra/2022/11/13/Flordelis-%C3%A9-condenada-a-50-anos-de-pris%C3%A3o-por-morte-de-marido)
+- [A devolução de artefatos indígenas por um museu americano](https://www.nexojornal.com.br/expresso/2022/11/12/A-devolu%C3%A7%C3%A3o-de-artefatos-ind%C3%ADgenas-por-um-museu-americano)
+- [5 livros de ficção sobre funcionários públicos e vida burocrática](https://www.nexojornal.com.br/estante/favoritos/2022/11/12/5-livros-de-fic%C3%A7%C3%A3o-sobre-funcion%C3%A1rios-p%C3%BAblicos-e-vida-burocr%C3%A1tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
