@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trabalhadores em SC denunciam pressão de chefe para ir a bloqueio](https://www.nexojornal.com.br/extra/2022/11/12/Trabalhadores-em-SC-denunciam-press%C3%A3o-de-chefe-para-ir-a-bloqueio)
-- [Quem é Ron DeSantis, o republicano que ameaça Trump](https://www.nexojornal.com.br/expresso/2022/11/11/Quem-%C3%A9-Ron-DeSantis-o-republicano-que-amea%C3%A7a-Trump)
-- [Os movimentos de Lula para resgatar o diálogo político no Brasil](https://www.nexojornal.com.br/expresso/2022/11/11/Os-movimentos-de-Lula-para-resgatar-o-di%C3%A1logo-pol%C3%ADtico-no-Brasil)
-- [A equipe da transição de governo. A morte de Gal. E mais](https://www.nexojornal.com.br/video/extrato/A-equipe-da-transi%C3%A7%C3%A3o-de-governo.-A-morte-de-Gal.-E-mais)
-- [‘A menina linda’: crônicas de uma mulher preta](https://www.nexojornal.com.br/estante/trechos/2022/11/11/%E2%80%98A-menina-linda%E2%80%99-cr%C3%B4nicas-de-uma-mulher-preta)
+- [A devolução de artefatos indígenas por um museu americano](https://www.nexojornal.com.br/expresso/2022/11/12/A-devolu%C3%A7%C3%A3o-de-artefatos-ind%C3%ADgenas-por-um-museu-americano)
+- [5 livros de ficção sobre funcionários públicos e vida burocrática](https://www.nexojornal.com.br/estante/favoritos/2022/11/12/5-livros-de-fic%C3%A7%C3%A3o-sobre-funcion%C3%A1rios-p%C3%BAblicos-e-vida-burocr%C3%A1tica)
+- [O impacto para a comunidade local do garimpo no rio Juruá](https://www.nexojornal.com.br/externo/2022/11/12/O-impacto-para-a-comunidade-local-do-garimpo-no-rio-Juru%C3%A1)
+- [Quantas vidas custam a disseminação de uma fake news](https://www.nexojornal.com.br/ensaio/2022/11/12/Quantas-vidas-custam-a-dissemina%C3%A7%C3%A3o-de-uma-fake-news)
+- [O que há de nazifascista no bolsonarismo](https://www.nexojornal.com.br/expresso/2022/11/12/O-que-h%C3%A1-de-nazifascista-no-bolsonarismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
