@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [No país da Copa do Mundo, o futuro é &lpar;ultra&rpar;passado](https://www.nexojornal.com.br/ensaio/2022/11/13/No-pa%C3%ADs-da-Copa-do-Mundo-o-futuro-%C3%A9-ultrapassado)
+- [Em vitória para Biden, democratas mantêm controle do Senado](https://www.nexojornal.com.br/extra/2022/11/13/Em-vit%C3%B3ria-para-Biden-democratas-mant%C3%AAm-controle-do-Senado)
+- [Flordelis é condenada a 50 anos de prisão por morte de marido](https://www.nexojornal.com.br/extra/2022/11/13/Flordelis-%C3%A9-condenada-a-50-anos-de-pris%C3%A3o-por-morte-de-marido)
 - [A devolução de artefatos indígenas por um museu americano](https://www.nexojornal.com.br/expresso/2022/11/12/A-devolu%C3%A7%C3%A3o-de-artefatos-ind%C3%ADgenas-por-um-museu-americano)
 - [5 livros de ficção sobre funcionários públicos e vida burocrática](https://www.nexojornal.com.br/estante/favoritos/2022/11/12/5-livros-de-fic%C3%A7%C3%A3o-sobre-funcion%C3%A1rios-p%C3%BAblicos-e-vida-burocr%C3%A1tica)
-- [O impacto para a comunidade local do garimpo no rio Juruá](https://www.nexojornal.com.br/externo/2022/11/12/O-impacto-para-a-comunidade-local-do-garimpo-no-rio-Juru%C3%A1)
-- [Quantas vidas custam a disseminação de uma fake news](https://www.nexojornal.com.br/ensaio/2022/11/12/Quantas-vidas-custam-a-dissemina%C3%A7%C3%A3o-de-uma-fake-news)
-- [O que há de nazifascista no bolsonarismo](https://www.nexojornal.com.br/expresso/2022/11/12/O-que-h%C3%A1-de-nazifascista-no-bolsonarismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
