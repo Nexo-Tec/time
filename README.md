@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@angelicahicks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/angelicahicks/)
 - [Thiago Amparo: “Política também é sobre emoções”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thiago-amparo-politica-tambem-e-sobre-emocoes/)
 - [Amigas, mulheres e Gal Costa](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/amigas-mulheres-e-gal-costa/)
 - [Em Câmara Lenta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/em-camara-lenta/)
 - [Malcolm Ferdinand: ‘A preservação da floresta deve começar pela das comunidades que ali vivem’](https://gamarevista.uol.com.br/formato/conversas/malcolm-ferdinand-a-preservacao-da-floresta-deve-comecar-pela-das-comunidades-que-ali-vivem/)
-- [Luto familiar no romance de estreia de Thiago Camelo](https://gamarevista.uol.com.br/achamos-que-vale/ler/luto-familiar-no-romance-de-estreia-de-thiago-camelo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
