@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mini Craque da Copa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mini-craque-da-copa/)
+- [Triste República](https://gamarevista.uol.com.br/cultura/trecho-de-livro/triste-republica/)
 - [@angelicahicks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/angelicahicks/)
 - [Thiago Amparo: “Política também é sobre emoções”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thiago-amparo-politica-tambem-e-sobre-emocoes/)
 - [Amigas, mulheres e Gal Costa](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/amigas-mulheres-e-gal-costa/)
-- [Em Câmara Lenta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/em-camara-lenta/)
-- [Malcolm Ferdinand: ‘A preservação da floresta deve começar pela das comunidades que ali vivem’](https://gamarevista.uol.com.br/formato/conversas/malcolm-ferdinand-a-preservacao-da-floresta-deve-comecar-pela-das-comunidades-que-ali-vivem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
