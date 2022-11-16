@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Negras, indígenas e periféricas: cinco ativistas brasileiras na COP27](https://gamarevista.uol.com.br/pessoas/uma-turma/negras-indigenas-e-perifericas-cinco-ativistas-brasileiras-na-cop27/)
 - [Luana Génot](https://gamarevista.uol.com.br/pessoas/questionario-proust/luana-genot/)
 - [Mini Craque da Copa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mini-craque-da-copa/)
 - [Triste República](https://gamarevista.uol.com.br/cultura/trecho-de-livro/triste-republica/)
 - [@angelicahicks](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/angelicahicks/)
-- [Thiago Amparo: “Política também é sobre emoções”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thiago-amparo-politica-tambem-e-sobre-emocoes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
