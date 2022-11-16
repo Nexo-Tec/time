@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre aos 73 anos o ex-governador de SP Luiz Antônio Fleury](https://www.nexojornal.com.br/extra/2022/11/15/Morre-aos-73-anos-o-ex-governador-de-SP-Luiz-Ant%C3%B4nio-Fleury)
 - [4 reuniões de líderes que resgatam a história de EUA e China](https://www.nexojornal.com.br/expresso/2022/11/14/4-reuni%C3%B5es-de-l%C3%ADderes-que-resgatam-a-hist%C3%B3ria-de-EUA-e-China)
 - [A história do azul Klein. E sua importância na arte](https://www.nexojornal.com.br/expresso/2022/11/14/A-hist%C3%B3ria-do-azul-Klein.-E-sua-import%C3%A2ncia-na-arte)
 - [O artista forense que recria rostos de vítimas desconhecidas](https://www.nexojornal.com.br/expresso/2022/11/14/O-artista-forense-que-recria-rostos-de-v%C3%ADtimas-desconhecidas)
 - [População mundial chega a 8 bilhões, segundo a ONU](https://www.nexojornal.com.br/grafico/2022/11/14/Popula%C3%A7%C3%A3o-mundial-chega-a-8-bilh%C3%B5es-segundo-a-ONU)
+- [O que esperar da gestão das estatais no novo governo Lula](https://www.nexojornal.com.br/expresso/2022/11/14/O-que-esperar-da-gest%C3%A3o-das-estatais-no-novo-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
