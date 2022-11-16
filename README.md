@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre aos 73 anos o ex-governador de SP Luiz Antônio Fleury](https://www.nexojornal.com.br/extra/2022/11/15/Morre-aos-73-anos-o-ex-governador-de-SP-Luiz-Ant%C3%B4nio-Fleury)
-- [4 reuniões de líderes que resgatam a história de EUA e China](https://www.nexojornal.com.br/expresso/2022/11/14/4-reuni%C3%B5es-de-l%C3%ADderes-que-resgatam-a-hist%C3%B3ria-de-EUA-e-China)
-- [A história do azul Klein. E sua importância na arte](https://www.nexojornal.com.br/expresso/2022/11/14/A-hist%C3%B3ria-do-azul-Klein.-E-sua-import%C3%A2ncia-na-arte)
-- [O artista forense que recria rostos de vítimas desconhecidas](https://www.nexojornal.com.br/expresso/2022/11/14/O-artista-forense-que-recria-rostos-de-v%C3%ADtimas-desconhecidas)
-- [População mundial chega a 8 bilhões, segundo a ONU](https://www.nexojornal.com.br/grafico/2022/11/14/Popula%C3%A7%C3%A3o-mundial-chega-a-8-bilh%C3%B5es-segundo-a-ONU)
+- [Emissões brasileiras de gases estufa cresceram 12,2% em um ano](https://www.nexojornal.com.br/grafico/2022/11/15/Emiss%C3%B5es-brasileiras-de-gases-estufa-cresceram-122-em-um-ano)
+- [O futuro do Brasil depende da Amazônia, mas de qual delas?](https://www.nexojornal.com.br/colunistas/2022/O-futuro-do-Brasil-depende-da-Amaz%C3%B4nia-mas-de-qual-delas)
+- [O que você sabe sobre a obra de José Saramago? Faça o teste](https://www.nexojornal.com.br/interativo/2022/11/15/O-que-voc%C3%AA-sabe-sobre-a-obra-de-Jos%C3%A9-Saramago-Fa%C3%A7a-o-teste)
+- [Orçamento secreto: os cálculos políticos de Lula e do STF](https://www.nexojornal.com.br/expresso/2022/11/15/Or%C3%A7amento-secreto-os-c%C3%A1lculos-pol%C3%ADticos-de-Lula-e-do-STF)
+- [Fazendo as contas para combater a desigualdade no Brasil](https://www.nexojornal.com.br/colunistas/2022/Fazendo-as-contas-para-combater-a-desigualdade-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
