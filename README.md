@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O que querem indígenas e negros do Brasil na COP27](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/o-que-querem-indigenas-e-negros-do-brasil-na-cop27/)
-- [Um museu de grandes novidades](https://gamarevista.uol.com.br/cultura/um-museu-de-grandes-novidades/)
-- [Negras, indígenas e periféricas: cinco ativistas brasileiras na COP27](https://gamarevista.uol.com.br/pessoas/uma-turma/negras-indigenas-e-perifericas-cinco-ativistas-brasileiras-na-cop27/)
-- [Luana Génot](https://gamarevista.uol.com.br/pessoas/questionario-proust/luana-genot/)
-- [Mini Craque da Copa](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mini-craque-da-copa/)
+- [Humor, samba e negritude no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/humor-samba-e-negritude-no-globoplay/)
+- [Reportagens para ouvir, com Branca Vianna](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/reportagens-para-ouvir-com-branca-vianna/)
+- [Iñarritú de volta aos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/inarritu-de-volta-aos-cinemas/)
+- [Música e animação no Recife](https://gamarevista.uol.com.br/achamos-que-vale/ir/musica-e-animacao-no-recife/)
+- [Novo livro do provocador Michel Houellebecq](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-livro-do-provocador-michel-houellebecq/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
