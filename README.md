@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Pagamento por serviços ambientais no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2022/11/16/Pagamento-por-servi%C3%A7os-ambientais-no-Brasil)
 - [A crise climática perpetua relações coloniais e racismo](https://pp.nexojornal.com.br/opiniao/2022/A-crise-clim%C3%A1tica-perpetua-rela%C3%A7%C3%B5es-coloniais-e-racismo)
 - [Crédito Rural](https://pp.nexojornal.com.br/glossario/Cr%C3%A9dito-Rural)
 - [Cotistas na UFBA: o que revela o desempenho acadêmico?](https://pp.nexojornal.com.br/opiniao/2022/Cotistas-na-UFBA-o-que-revela-o-desempenho-acad%C3%AAmico)
 - [Uma arte da memória: Duhigó e sua obra](https://pp.nexojornal.com.br/opiniao/2022/Uma-arte-da-mem%C3%B3ria-Duhig%C3%B3-e-sua-obra)
-- [A &quot;cibricidade&quot; como espaço de ensino e de aprendizagem](https://pp.nexojornal.com.br/ponto-de-vista/2022/A-cibricidade-como-espa%C3%A7o-de-ensino-e-de-aprendizagem)
 <!-- PP_LIST:END -->
 
