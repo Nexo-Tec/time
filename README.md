@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Isabel Salgado, ícone do vôlei, morre aos 62 anos](https://www.nexojornal.com.br/extra/2022/11/16/Isabel-Salgado-%C3%ADcone-do-v%C3%B4lei-morre-aos-62-anos)
-- [Trump anuncia que vai disputar a Presidência dos EUA em 2024](https://www.nexojornal.com.br/extra/2022/11/16/Trump-anuncia-que-vai-disputar-a-Presid%C3%AAncia-dos-EUA-em-2024)
-- [Emissões brasileiras de gases estufa cresceram 12,2% em um ano](https://www.nexojornal.com.br/grafico/2022/11/15/Emiss%C3%B5es-brasileiras-de-gases-estufa-cresceram-122-em-um-ano)
-- [O futuro do Brasil depende da Amazônia, mas de qual delas?](https://www.nexojornal.com.br/colunistas/2022/O-futuro-do-Brasil-depende-da-Amaz%C3%B4nia-mas-de-qual-delas)
-- [O que você sabe sobre a obra de José Saramago? Faça o teste](https://www.nexojornal.com.br/interativo/2022/11/15/O-que-voc%C3%AA-sabe-sobre-a-obra-de-Jos%C3%A9-Saramago-Fa%C3%A7a-o-teste)
+- [Polícia Federal faz operação na FGV por suspeita de corrupção](https://www.nexojornal.com.br/extra/2022/11/17/Pol%C3%ADcia-Federal-faz-opera%C3%A7%C3%A3o-na-FGV-por-suspeita-de-corrup%C3%A7%C3%A3o)
+- [Moraes bloqueia contas de suspeitos de pagar atos golpistas](https://www.nexojornal.com.br/extra/2022/11/17/Moraes-bloqueia-contas-de-suspeitos-de-pagar-atos-golpistas)
+- [O que faz o BID. E qual o poder do seu presidente](https://www.nexojornal.com.br/expresso/2022/11/16/O-que-faz-o-BID.-E-qual-o-poder-do-seu-presidente)
+- [Alckmin entrega PEC. ‘Paciência’, diz Lula sobre mercado](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-PEC.-%E2%80%98Paci%C3%AAncia%E2%80%99-diz-Lula-sobre-mercado)
+- [Os desafios de Lula para cumprir promessas para a Amazônia](https://www.nexojornal.com.br/expresso/2022/11/16/Os-desafios-de-Lula-para-cumprir-promessas-para-a-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
