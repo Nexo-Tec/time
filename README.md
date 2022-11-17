@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que faz o BID. E qual o poder do seu presidente](https://www.nexojornal.com.br/expresso/2022/11/16/O-que-faz-o-BID.-E-qual-o-poder-do-seu-presidente)
-- [Alckmin entrega ao Congresso texto prévio da PEC da Transição](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-ao-Congresso-texto-pr%C3%A9vio-da-PEC-da-Transi%C3%A7%C3%A3o)
-- [Os desafios de Lula para cumprir promessas para a Amazônia](https://www.nexojornal.com.br/expresso/2022/11/16/Os-desafios-de-Lula-para-cumprir-promessas-para-a-Amaz%C3%B4nia)
-- [As reações à viagem de estreia de Lula ao exterior após a vitória](https://www.nexojornal.com.br/podcast/2022/11/16/As-rea%C3%A7%C3%B5es-%C3%A0-viagem-de-estreia-de-Lula-ao-exterior-ap%C3%B3s-a-vit%C3%B3ria)
-- [Atrasada e incompleta, vacinação de bebês começa no Brasil](https://www.nexojornal.com.br/extra/2022/11/16/Atrasada-e-incompleta-vacina%C3%A7%C3%A3o-de-beb%C3%AAs-come%C3%A7a-no-Brasil)
+- [Isabel Salgado, ícone do vôlei, morre aos 62 anos](https://www.nexojornal.com.br/extra/2022/11/16/Isabel-Salgado-%C3%ADcone-do-v%C3%B4lei-morre-aos-62-anos)
+- [Trump anuncia que vai disputar a Presidência dos EUA em 2024](https://www.nexojornal.com.br/extra/2022/11/16/Trump-anuncia-que-vai-disputar-a-Presid%C3%AAncia-dos-EUA-em-2024)
+- [Emissões brasileiras de gases estufa cresceram 12,2% em um ano](https://www.nexojornal.com.br/grafico/2022/11/15/Emiss%C3%B5es-brasileiras-de-gases-estufa-cresceram-122-em-um-ano)
+- [O futuro do Brasil depende da Amazônia, mas de qual delas?](https://www.nexojornal.com.br/colunistas/2022/O-futuro-do-Brasil-depende-da-Amaz%C3%B4nia-mas-de-qual-delas)
+- [O que você sabe sobre a obra de José Saramago? Faça o teste](https://www.nexojornal.com.br/interativo/2022/11/15/O-que-voc%C3%AA-sabe-sobre-a-obra-de-Jos%C3%A9-Saramago-Fa%C3%A7a-o-teste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
