@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazon demite funcionários em meio a crise das Big Techs](https://www.nexojornal.com.br/extra/2022/11/16/Amazon-demite-funcion%C3%A1rios-em-meio-a-crise-das-Big-Techs)
-- [De saída, Bolsonaro completa 15 dias sem eventos públicos](https://www.nexojornal.com.br/extra/2022/11/16/De-sa%C3%ADda-Bolsonaro-completa-15-dias-sem-eventos-p%C3%BAblicos)
-- [Forças de segurança do Irã atiram contra manifestantes no metrô](https://www.nexojornal.com.br/extra/2022/11/16/For%C3%A7as-de-seguran%C3%A7a-do-Ir%C3%A3-atiram-contra-manifestantes-no-metr%C3%B4)
-- [PEC da Transição: o debate sobre o prazo da ‘licença para gastar’](https://www.nexojornal.com.br/expresso/2022/11/16/PEC-da-Transi%C3%A7%C3%A3o-o-debate-sobre-o-prazo-da-%E2%80%98licen%C3%A7a-para-gastar%E2%80%99)
-- [‘O Brasil está de volta’, diz Lula em conferência do clima](https://www.nexojornal.com.br/extra/2022/11/16/%E2%80%98O-Brasil-est%C3%A1-de-volta%E2%80%99-diz-Lula-em-confer%C3%AAncia-do-clima)
+- [O que faz o BID. E qual o poder do seu presidente](https://www.nexojornal.com.br/expresso/2022/11/16/O-que-faz-o-BID.-E-qual-o-poder-do-seu-presidente)
+- [Alckmin entrega ao Congresso texto prévio da PEC da Transição](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-ao-Congresso-texto-pr%C3%A9vio-da-PEC-da-Transi%C3%A7%C3%A3o)
+- [Os desafios de Lula para cumprir promessas para a Amazônia](https://www.nexojornal.com.br/expresso/2022/11/16/Os-desafios-de-Lula-para-cumprir-promessas-para-a-Amaz%C3%B4nia)
+- [As reações à viagem de estreia de Lula ao exterior após a vitória](https://www.nexojornal.com.br/podcast/2022/11/16/As-rea%C3%A7%C3%B5es-%C3%A0-viagem-de-estreia-de-Lula-ao-exterior-ap%C3%B3s-a-vit%C3%B3ria)
+- [Atrasada e incompleta, vacinação de bebês começa no Brasil](https://www.nexojornal.com.br/extra/2022/11/16/Atrasada-e-incompleta-vacina%C3%A7%C3%A3o-de-beb%C3%AAs-come%C3%A7a-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
