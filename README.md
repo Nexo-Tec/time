@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia Federal faz operação na FGV por suspeita de corrupção](https://www.nexojornal.com.br/extra/2022/11/17/Pol%C3%ADcia-Federal-faz-opera%C3%A7%C3%A3o-na-FGV-por-suspeita-de-corrup%C3%A7%C3%A3o)
-- [Moraes bloqueia contas de suspeitos de pagar atos golpistas](https://www.nexojornal.com.br/extra/2022/11/17/Moraes-bloqueia-contas-de-suspeitos-de-pagar-atos-golpistas)
 - [O que faz o BID. E qual o poder do seu presidente](https://www.nexojornal.com.br/expresso/2022/11/16/O-que-faz-o-BID.-E-qual-o-poder-do-seu-presidente)
-- [Alckmin entrega PEC. ‘Paciência’, diz Lula sobre mercado](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-PEC.-%E2%80%98Paci%C3%AAncia%E2%80%99-diz-Lula-sobre-mercado)
+- [Alckmin entrega ao Congresso texto prévio da PEC da Transição](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-ao-Congresso-texto-pr%C3%A9vio-da-PEC-da-Transi%C3%A7%C3%A3o)
 - [Os desafios de Lula para cumprir promessas para a Amazônia](https://www.nexojornal.com.br/expresso/2022/11/16/Os-desafios-de-Lula-para-cumprir-promessas-para-a-Amaz%C3%B4nia)
+- [As reações à viagem de estreia de Lula ao exterior após a vitória](https://www.nexojornal.com.br/podcast/2022/11/16/As-rea%C3%A7%C3%B5es-%C3%A0-viagem-de-estreia-de-Lula-ao-exterior-ap%C3%B3s-a-vit%C3%B3ria)
+- [Atrasada e incompleta, vacinação de bebês começa no Brasil](https://www.nexojornal.com.br/extra/2022/11/16/Atrasada-e-incompleta-vacina%C3%A7%C3%A3o-de-beb%C3%AAs-come%C3%A7a-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
