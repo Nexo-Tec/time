@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Amazon demite funcionários em meio a crise das Big Techs](https://www.nexojornal.com.br/extra/2022/11/16/Amazon-demite-funcion%C3%A1rios-em-meio-a-crise-das-Big-Techs)
-- [De saída, Bolsonaro completa 15 dias sem eventos públicos](https://www.nexojornal.com.br/extra/2022/11/16/De-sa%C3%ADda-Bolsonaro-completa-15-dias-sem-eventos-p%C3%BAblicos)
-- [Forças de segurança do Irã atiram contra manifestantes no metrô](https://www.nexojornal.com.br/extra/2022/11/16/For%C3%A7as-de-seguran%C3%A7a-do-Ir%C3%A3-atiram-contra-manifestantes-no-metr%C3%B4)
-- [PEC da Transição: o debate sobre o prazo da ‘licença para gastar’](https://www.nexojornal.com.br/expresso/2022/11/16/PEC-da-Transi%C3%A7%C3%A3o-o-debate-sobre-o-prazo-da-%E2%80%98licen%C3%A7a-para-gastar%E2%80%99)
-- [‘O Brasil está de volta’, diz Lula em conferência do clima](https://www.nexojornal.com.br/extra/2022/11/16/%E2%80%98O-Brasil-est%C3%A1-de-volta%E2%80%99-diz-Lula-em-confer%C3%AAncia-do-clima)
+- [Emissões brasileiras de gases estufa cresceram 12,2% em um ano](https://www.nexojornal.com.br/grafico/2022/11/15/Emiss%C3%B5es-brasileiras-de-gases-estufa-cresceram-122-em-um-ano)
+- [O futuro do Brasil depende da Amazônia, mas de qual delas?](https://www.nexojornal.com.br/colunistas/2022/O-futuro-do-Brasil-depende-da-Amaz%C3%B4nia-mas-de-qual-delas)
+- [O que você sabe sobre a obra de José Saramago? Faça o teste](https://www.nexojornal.com.br/interativo/2022/11/15/O-que-voc%C3%AA-sabe-sobre-a-obra-de-Jos%C3%A9-Saramago-Fa%C3%A7a-o-teste)
+- [Orçamento secreto: os cálculos políticos de Lula e do STF](https://www.nexojornal.com.br/expresso/2022/11/15/Or%C3%A7amento-secreto-os-c%C3%A1lculos-pol%C3%ADticos-de-Lula-e-do-STF)
+- [Fazendo as contas para combater a desigualdade no Brasil](https://www.nexojornal.com.br/colunistas/2022/Fazendo-as-contas-para-combater-a-desigualdade-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
