@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia Federal faz operação na FGV por suspeita de corrupção](https://www.nexojornal.com.br/extra/2022/11/17/Pol%C3%ADcia-Federal-faz-opera%C3%A7%C3%A3o-na-FGV-por-suspeita-de-corrup%C3%A7%C3%A3o)
-- [Moraes bloqueia contas de suspeitos de pagar atos golpistas](https://www.nexojornal.com.br/extra/2022/11/17/Moraes-bloqueia-contas-de-suspeitos-de-pagar-atos-golpistas)
-- [O que faz o BID. E qual o poder do seu presidente](https://www.nexojornal.com.br/expresso/2022/11/16/O-que-faz-o-BID.-E-qual-o-poder-do-seu-presidente)
-- [Alckmin entrega PEC. ‘Paciência’, diz Lula sobre mercado](https://www.nexojornal.com.br/extra/2022/11/16/Alckmin-entrega-PEC.-%E2%80%98Paci%C3%AAncia%E2%80%99-diz-Lula-sobre-mercado)
-- [Os desafios de Lula para cumprir promessas para a Amazônia](https://www.nexojornal.com.br/expresso/2022/11/16/Os-desafios-de-Lula-para-cumprir-promessas-para-a-Amaz%C3%B4nia)
+- [4 móveis icônicos do designer Fernando Campana](https://www.nexojornal.com.br/expresso/2022/11/17/4-m%C3%B3veis-ic%C3%B4nicos-do-designer-Fernando-Campana)
+- [Economistas que apoiaram Lula criticam falas do petista em carta](https://www.nexojornal.com.br/extra/2022/11/17/Economistas-que-apoiaram-Lula-criticam-falas-do-petista-em-carta)
+- [O que são e qual o papel das conferências nacionais](https://www.nexojornal.com.br/expresso/2022/11/17/O-que-s%C3%A3o-e-qual-o-papel-das-confer%C3%AAncias-nacionais)
+- [A PEC da Transição e a nova barganha do centrão](https://www.nexojornal.com.br/colunistas/2022/A-PEC-da-Transi%C3%A7%C3%A3o-e-a-nova-barganha-do-centr%C3%A3o)
+- [Os olhares políticos e econômicos sobre a PEC da Transição](https://www.nexojornal.com.br/podcast/2022/11/17/Os-olhares-pol%C3%ADticos-e-econ%C3%B4micos-sobre-a-PEC-da-Transi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
