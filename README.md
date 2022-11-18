@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Jovem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-jovem/)
 - [Humor, samba e negritude no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/humor-samba-e-negritude-no-globoplay/)
 - [Reportagens para ouvir, com Branca Vianna](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/reportagens-para-ouvir-com-branca-vianna/)
 - [Iñarritú de volta aos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/inarritu-de-volta-aos-cinemas/)
 - [Música e animação no Recife](https://gamarevista.uol.com.br/achamos-que-vale/ir/musica-e-animacao-no-recife/)
-- [Novo livro do provocador Michel Houellebecq](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-livro-do-provocador-michel-houellebecq/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
