@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia Rodoviária Federal identifica 6 novos bloqueios](https://www.nexojornal.com.br/extra/2022/11/18/Pol%C3%ADcia-Rodovi%C3%A1ria-Federal-identifica-6-novos-bloqueios)
-- [Amazônia: a ameaça do narcotráfico a povos tradicionais](https://www.nexojornal.com.br/externo/2022/11/18/Amaz%C3%B4nia-a-amea%C3%A7a-do-narcotr%C3%A1fico-a-povos-tradicionais)
-- [Twitter fecha escritórios temporariamente após demissões](https://www.nexojornal.com.br/extra/2022/11/18/Twitter-fecha-escrit%C3%B3rios-temporariamente-ap%C3%B3s-demiss%C3%B5es)
-- [Qatar proíbe venda de bebida alcoólica nos estádios da Copa](https://www.nexojornal.com.br/extra/2022/11/18/Qatar-pro%C3%ADbe-venda-de-bebida-alco%C3%B3lica-nos-est%C3%A1dios-da-Copa)
-- [4 móveis icônicos do designer Fernando Campana](https://www.nexojornal.com.br/expresso/2022/11/17/4-m%C3%B3veis-ic%C3%B4nicos-do-designer-Fernando-Campana)
+- [Os caminhos da desigualdade na propaganda eleitoral](https://www.nexojornal.com.br/ensaio/2022/11/18/Os-caminhos-da-desigualdade-na-propaganda-eleitoral)
+- [Os entraves e as pontes entre Lula e a bancada evangélica](https://www.nexojornal.com.br/expresso/2022/11/18/Os-entraves-e-as-pontes-entre-Lula-e-a-bancada-evang%C3%A9lica)
+- [O que há de cheque em branco na PEC da Transição de Lula](https://www.nexojornal.com.br/expresso/2022/11/18/O-que-h%C3%A1-de-cheque-em-branco-na-PEC-da-Transi%C3%A7%C3%A3o-de-Lula)
+- [Rede social Koo quer contratar funcionários demitidos do Twitter](https://www.nexojornal.com.br/extra/2022/11/18/Rede-social-Koo-quer-contratar-funcion%C3%A1rios-demitidos-do-Twitter)
+- [A ciência por trás do nosso gosto por pimentas](https://www.nexojornal.com.br/externo/2022/11/18/A-ci%C3%AAncia-por-tr%C3%A1s-do-nosso-gosto-por-pimentas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
