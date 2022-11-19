@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia Rodoviária Federal identifica 6 novos bloqueios](https://www.nexojornal.com.br/extra/2022/11/18/Pol%C3%ADcia-Rodovi%C3%A1ria-Federal-identifica-6-novos-bloqueios)
+- [Amazônia: a ameaça do narcotráfico a povos tradicionais](https://www.nexojornal.com.br/externo/2022/11/18/Amaz%C3%B4nia-a-amea%C3%A7a-do-narcotr%C3%A1fico-a-povos-tradicionais)
+- [Twitter fecha escritórios temporariamente após demissões](https://www.nexojornal.com.br/extra/2022/11/18/Twitter-fecha-escrit%C3%B3rios-temporariamente-ap%C3%B3s-demiss%C3%B5es)
 - [Qatar proíbe venda de bebida alcoólica nos estádios da Copa](https://www.nexojornal.com.br/extra/2022/11/18/Qatar-pro%C3%ADbe-venda-de-bebida-alco%C3%B3lica-nos-est%C3%A1dios-da-Copa)
 - [4 móveis icônicos do designer Fernando Campana](https://www.nexojornal.com.br/expresso/2022/11/17/4-m%C3%B3veis-ic%C3%B4nicos-do-designer-Fernando-Campana)
-- [Economistas que apoiaram Lula criticam falas do petista em carta](https://www.nexojornal.com.br/extra/2022/11/17/Economistas-que-apoiaram-Lula-criticam-falas-do-petista-em-carta)
-- [O que são e qual o papel das conferências nacionais](https://www.nexojornal.com.br/expresso/2022/11/17/O-que-s%C3%A3o-e-qual-o-papel-das-confer%C3%AAncias-nacionais)
-- [A PEC da Transição e a nova barganha do centrão](https://www.nexojornal.com.br/colunistas/2022/A-PEC-da-Transi%C3%A7%C3%A3o-e-a-nova-barganha-do-centr%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
