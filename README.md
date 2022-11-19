@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qatar proíbe venda de bebida alcoólica nos estádios da Copa](https://www.nexojornal.com.br/extra/2022/11/18/Qatar-pro%C3%ADbe-venda-de-bebida-alco%C3%B3lica-nos-est%C3%A1dios-da-Copa)
 - [4 móveis icônicos do designer Fernando Campana](https://www.nexojornal.com.br/expresso/2022/11/17/4-m%C3%B3veis-ic%C3%B4nicos-do-designer-Fernando-Campana)
 - [Economistas que apoiaram Lula criticam falas do petista em carta](https://www.nexojornal.com.br/extra/2022/11/17/Economistas-que-apoiaram-Lula-criticam-falas-do-petista-em-carta)
 - [O que são e qual o papel das conferências nacionais](https://www.nexojornal.com.br/expresso/2022/11/17/O-que-s%C3%A3o-e-qual-o-papel-das-confer%C3%AAncias-nacionais)
 - [A PEC da Transição e a nova barganha do centrão](https://www.nexojornal.com.br/colunistas/2022/A-PEC-da-Transi%C3%A7%C3%A3o-e-a-nova-barganha-do-centr%C3%A3o)
-- [Os olhares políticos e econômicos sobre a PEC da Transição](https://www.nexojornal.com.br/podcast/2022/11/17/Os-olhares-pol%C3%ADticos-e-econ%C3%B4micos-sobre-a-PEC-da-Transi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
