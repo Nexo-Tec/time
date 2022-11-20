@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As primeiras trilhas do estudo do comportamento animal no Brasil](https://www.nexojornal.com.br/externo/2022/11/19/As-primeiras-trilhas-do-estudo-do-comportamento-animal-no-Brasil)
-- [‘Ver um herói negro, uma boneca negra, fortalece as crianças’](https://www.nexojornal.com.br/entrevista/2022/11/19/%E2%80%98Ver-um-her%C3%B3i-negro-uma-boneca-negra-fortalece-as-crian%C3%A7as%E2%80%99)
-- [O que o olhar racial deve reconstruir nas políticas públicas](https://www.nexojornal.com.br/expresso/2022/11/19/O-que-o-olhar-racial-deve-reconstruir-nas-pol%C3%ADticas-p%C3%BAblicas)
-- [7 pontos para você ficar por dentro da Copa do Qatar](https://www.nexojornal.com.br/expresso/2022/11/19/7-pontos-para-voc%C3%AA-ficar-por-dentro-da-Copa-do-Qatar)
-- [Brasil, Argentina e França chegam ao Qatar como favoritas](https://www.nexojornal.com.br/extra/2022/11/19/Brasil-Argentina-e-Fran%C3%A7a-chegam-ao-Qatar-como-favoritas)
+- [Os caminhos da desigualdade na propaganda eleitoral](https://www.nexojornal.com.br/ensaio/2022/11/18/Os-caminhos-da-desigualdade-na-propaganda-eleitoral)
+- [Os entraves e as pontes entre Lula e a bancada evangélica](https://www.nexojornal.com.br/expresso/2022/11/18/Os-entraves-e-as-pontes-entre-Lula-e-a-bancada-evang%C3%A9lica)
+- [O que há de cheque em branco na PEC da Transição de Lula](https://www.nexojornal.com.br/expresso/2022/11/18/O-que-h%C3%A1-de-cheque-em-branco-na-PEC-da-Transi%C3%A7%C3%A3o-de-Lula)
+- [Rede social Koo quer contratar funcionários demitidos do Twitter](https://www.nexojornal.com.br/extra/2022/11/18/Rede-social-Koo-quer-contratar-funcion%C3%A1rios-demitidos-do-Twitter)
+- [A ciência por trás do nosso gosto por pimentas](https://www.nexojornal.com.br/externo/2022/11/18/A-ci%C3%AAncia-por-tr%C3%A1s-do-nosso-gosto-por-pimentas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
