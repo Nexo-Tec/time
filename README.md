@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que avançou na COP27. E o que ficou no meio do caminho](https://www.nexojornal.com.br/expresso/2022/11/20/O-que-avan%C3%A7ou-na-COP27.-E-o-que-ficou-no-meio-do-caminho)
-- [As primeiras trilhas do estudo do comportamento animal no Brasil](https://www.nexojornal.com.br/externo/2022/11/19/As-primeiras-trilhas-do-estudo-do-comportamento-animal-no-Brasil)
-- [‘Ver um herói negro, uma boneca negra, fortalece as crianças’](https://www.nexojornal.com.br/entrevista/2022/11/19/%E2%80%98Ver-um-her%C3%B3i-negro-uma-boneca-negra-fortalece-as-crian%C3%A7as%E2%80%99)
-- [O que o olhar racial deve reconstruir nas políticas públicas](https://www.nexojornal.com.br/expresso/2022/11/19/O-que-o-olhar-racial-deve-reconstruir-nas-pol%C3%ADticas-p%C3%BAblicas)
-- [7 pontos para você ficar por dentro da Copa do Qatar](https://www.nexojornal.com.br/expresso/2022/11/19/7-pontos-para-voc%C3%AA-ficar-por-dentro-da-Copa-do-Qatar)
+- [Após medida, Censo permite contratação sem processo seletivo](https://www.nexojornal.com.br/extra/2022/11/21/Ap%C3%B3s-medida-Censo-permite-contrata%C3%A7%C3%A3o-sem-processo-seletivo)
+- [Terremoto deixa mortos e centenas de feridos na Indonésia](https://www.nexojornal.com.br/extra/2022/11/21/Terremoto-deixa-mortos-e-centenas-de-feridos-na-Indon%C3%A9sia)
+- [O  que as mulheres iranianas têm a nos dizer](https://www.nexojornal.com.br/ensaio/2022/11/21/O-que-as-mulheres-iranianas-t%C3%AAm-a-nos-dizer)
+- [‘Lula enfrenta um jogo de desestabilização e violência’](https://www.nexojornal.com.br/entrevista/2022/11/21/%E2%80%98Lula-enfrenta-um-jogo-de-desestabiliza%C3%A7%C3%A3o-e-viol%C3%AAncia%E2%80%99)
+- [Ilan Goldfajn é 1º brasileiro eleito presidente do BID](https://www.nexojornal.com.br/extra/2022/11/20/Ilan-Goldfajn-%C3%A9-1%C2%BA-brasileiro-eleito-presidente-do-BID)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
