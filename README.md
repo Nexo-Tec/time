@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [COP27: os altos e baixos da conferência do clima](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/cop27-os-altos-e-baixos-da-conferencia-do-clima/)
 - [Erich Beting: “A gente nunca chegou tão atrasado para uma Copa”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/erich-beting-fala-sobre-marketing-na-copa/)
 - [O Jovem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-jovem/)
 - [Humor, samba e negritude no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/humor-samba-e-negritude-no-globoplay/)
 - [Reportagens para ouvir, com Branca Vianna](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/reportagens-para-ouvir-com-branca-vianna/)
-- [Iñarritú de volta aos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/inarritu-de-volta-aos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
