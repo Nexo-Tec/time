@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após medida, Censo permite contratação sem processo seletivo](https://www.nexojornal.com.br/extra/2022/11/21/Ap%C3%B3s-medida-Censo-permite-contrata%C3%A7%C3%A3o-sem-processo-seletivo)
-- [Terremoto deixa mortos e centenas de feridos na Indonésia](https://www.nexojornal.com.br/extra/2022/11/21/Terremoto-deixa-mortos-e-centenas-de-feridos-na-Indon%C3%A9sia)
-- [O  que as mulheres iranianas têm a nos dizer](https://www.nexojornal.com.br/ensaio/2022/11/21/O-que-as-mulheres-iranianas-t%C3%AAm-a-nos-dizer)
-- [‘Lula enfrenta um jogo de desestabilização e violência’](https://www.nexojornal.com.br/entrevista/2022/11/21/%E2%80%98Lula-enfrenta-um-jogo-de-desestabiliza%C3%A7%C3%A3o-e-viol%C3%AAncia%E2%80%99)
-- [Ilan Goldfajn é 1º brasileiro eleito presidente do BID](https://www.nexojornal.com.br/extra/2022/11/20/Ilan-Goldfajn-%C3%A9-1%C2%BA-brasileiro-eleito-presidente-do-BID)
+- [A última chance de Messi e Cristiano Ronaldo numa Copa](https://www.nexojornal.com.br/expresso/2022/11/21/A-%C3%BAltima-chance-de-Messi-e-Cristiano-Ronaldo-numa-Copa)
+- [Fiocruz: vacinação acelerada poderia ter salvo 47 mil pessoas](https://www.nexojornal.com.br/extra/2022/11/21/Fiocruz-vacina%C3%A7%C3%A3o-acelerada-poderia-ter-salvo-47-mil-pessoas)
+- [O que são vacinas bivalentes. E por que não há doses no Brasil](https://www.nexojornal.com.br/expresso/2022/11/21/O-que-s%C3%A3o-vacinas-bivalentes.-E-por-que-n%C3%A3o-h%C3%A1-doses-no-Brasil)
+- [Quais os impactos da adesão do PL ao golpismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/11/21/Quais-os-impactos-da-ades%C3%A3o-do-PL-ao-golpismo-bolsonarista)
+- [Maioria dos jogos da Copa vai ocorrer em horário comercial](https://www.nexojornal.com.br/grafico/2022/11/21/Maioria-dos-jogos-da-Copa-vai-ocorrer-em-hor%C3%A1rio-comercial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
