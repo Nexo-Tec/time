@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após medida, Censo permite contratação sem processo seletivo](https://www.nexojornal.com.br/extra/2022/11/21/Ap%C3%B3s-medida-Censo-permite-contrata%C3%A7%C3%A3o-sem-processo-seletivo)
-- [Terremoto deixa mortos e centenas de feridos na Indonésia](https://www.nexojornal.com.br/extra/2022/11/21/Terremoto-deixa-mortos-e-centenas-de-feridos-na-Indon%C3%A9sia)
-- [O  que as mulheres iranianas têm a nos dizer](https://www.nexojornal.com.br/ensaio/2022/11/21/O-que-as-mulheres-iranianas-t%C3%AAm-a-nos-dizer)
-- [‘Lula enfrenta um jogo de desestabilização e violência’](https://www.nexojornal.com.br/entrevista/2022/11/21/%E2%80%98Lula-enfrenta-um-jogo-de-desestabiliza%C3%A7%C3%A3o-e-viol%C3%AAncia%E2%80%99)
-- [Ilan Goldfajn é 1º brasileiro eleito presidente do BID](https://www.nexojornal.com.br/extra/2022/11/20/Ilan-Goldfajn-%C3%A9-1%C2%BA-brasileiro-eleito-presidente-do-BID)
+- [Derrota argentina para sauditas é a maior zebra das Copas](https://www.nexojornal.com.br/extra/2022/11/22/Derrota-argentina-para-sauditas-%C3%A9-a-maior-zebra-das-Copas)
+- [Aos 81 anos, morre o cantor e compositor Erasmo Carlos](https://www.nexojornal.com.br/extra/2022/11/22/Aos-81-anos-morre-o-cantor-e-compositor-Erasmo-Carlos)
+- [Pablo Milanés, cantor e compositor cubano, morre aos 79 anos](https://www.nexojornal.com.br/extra/2022/11/22/Pablo-Milan%C3%A9s-cantor-e-compositor-cubano-morre-aos-79-anos)
+- [Quais os interesses em jogo nas indicações ao STJ](https://www.nexojornal.com.br/expresso/2022/11/22/Quais-os-interesses-em-jogo-nas-indica%C3%A7%C3%B5es-ao-STJ)
+- [A última chance de Messi e Cristiano Ronaldo numa Copa](https://www.nexojornal.com.br/expresso/2022/11/21/A-%C3%BAltima-chance-de-Messi-e-Cristiano-Ronaldo-numa-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
