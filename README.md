@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após medida, Censo permite contratação sem processo seletivo](https://www.nexojornal.com.br/extra/2022/11/21/Ap%C3%B3s-medida-Censo-permite-contrata%C3%A7%C3%A3o-sem-processo-seletivo)
-- [Terremoto deixa mortos e centenas de feridos na Indonésia](https://www.nexojornal.com.br/extra/2022/11/21/Terremoto-deixa-mortos-e-centenas-de-feridos-na-Indon%C3%A9sia)
 - [O  que as mulheres iranianas têm a nos dizer](https://www.nexojornal.com.br/ensaio/2022/11/21/O-que-as-mulheres-iranianas-t%C3%AAm-a-nos-dizer)
 - [‘Lula enfrenta um jogo de desestabilização e violência’](https://www.nexojornal.com.br/entrevista/2022/11/21/%E2%80%98Lula-enfrenta-um-jogo-de-desestabiliza%C3%A7%C3%A3o-e-viol%C3%AAncia%E2%80%99)
 - [Ilan Goldfajn é 1º brasileiro eleito presidente do BID](https://www.nexojornal.com.br/extra/2022/11/20/Ilan-Goldfajn-%C3%A9-1%C2%BA-brasileiro-eleito-presidente-do-BID)
+- [Os cônsules honorários suspeitos de crimes no Brasil](https://www.nexojornal.com.br/externo/2022/11/20/Os-c%C3%B4nsules-honor%C3%A1rios-suspeitos-de-crimes-no-Brasil)
+- [Equador vence Qatar na estreia da Copa do Mundo](https://www.nexojornal.com.br/extra/2022/11/20/Equador-vence-Qatar-na-estreia-da-Copa-do-Mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
