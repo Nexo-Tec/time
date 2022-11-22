@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A última chance de Messi e Cristiano Ronaldo numa Copa](https://www.nexojornal.com.br/expresso/2022/11/21/A-%C3%BAltima-chance-de-Messi-e-Cristiano-Ronaldo-numa-Copa)
-- [Fiocruz: vacinação acelerada poderia ter salvo 47 mil pessoas](https://www.nexojornal.com.br/extra/2022/11/21/Fiocruz-vacina%C3%A7%C3%A3o-acelerada-poderia-ter-salvo-47-mil-pessoas)
-- [O que são vacinas bivalentes. E por que não há doses no Brasil](https://www.nexojornal.com.br/expresso/2022/11/21/O-que-s%C3%A3o-vacinas-bivalentes.-E-por-que-n%C3%A3o-h%C3%A1-doses-no-Brasil)
-- [Quais os impactos da adesão do PL ao golpismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/11/21/Quais-os-impactos-da-ades%C3%A3o-do-PL-ao-golpismo-bolsonarista)
-- [Maioria dos jogos da Copa vai ocorrer em horário comercial](https://www.nexojornal.com.br/grafico/2022/11/21/Maioria-dos-jogos-da-Copa-vai-ocorrer-em-hor%C3%A1rio-comercial)
+- [Bloqueios antidemocráticos usam técnicas terroristas, diz PRF](https://www.nexojornal.com.br/extra/2022/11/21/Bloqueios-antidemocr%C3%A1ticos-usam-t%C3%A9cnicas-terroristas-diz-PRF)
+- [Falta de verba faz PRF limitar manutenção de viaturas](https://www.nexojornal.com.br/extra/2022/11/21/Falta-de-verba-faz-PRF-limitar-manuten%C3%A7%C3%A3o-de-viaturas)
+- [Artista brasileira acusa Netflix de plágio na série ‘1899’](https://www.nexojornal.com.br/extra/2022/11/21/Artista-brasileira-acusa-Netflix-de-pl%C3%A1gio-na-s%C3%A9rie-%E2%80%981899%E2%80%99)
+- [Após medida, Censo permite contratação sem processo seletivo](https://www.nexojornal.com.br/extra/2022/11/21/Ap%C3%B3s-medida-Censo-permite-contrata%C3%A7%C3%A3o-sem-processo-seletivo)
+- [Terremoto deixa mortos e centenas de feridos na Indonésia](https://www.nexojornal.com.br/extra/2022/11/21/Terremoto-deixa-mortos-e-centenas-de-feridos-na-Indon%C3%A9sia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
