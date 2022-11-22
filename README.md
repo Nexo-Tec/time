@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Fundeb Equidade: a implementação do VAAR](https://pp.nexojornal.com.br/opiniao/2022/Fundeb-Equidade-a-implementa%C3%A7%C3%A3o-do-VAAR)
 - [COP-27 e a complexa discussão sobre perdas e danos](https://pp.nexojornal.com.br/opiniao/2022/COP-27-e-a-complexa-discuss%C3%A3o-sobre-perdas-e-danos)
 - [Ofensivas antigênero e antifeminismo](https://pp.nexojornal.com.br/glossario/Ofensivas-antig%C3%AAnero-e-antifeminismo)
 - [As coleções biológicas não podem ser infinitas só enquanto durem](https://pp.nexojornal.com.br/opiniao/2022/As-cole%C3%A7%C3%B5es-biol%C3%B3gicas-n%C3%A3o-podem-ser-infinitas-s%C3%B3-enquanto-durem)
 - [Ensino Médio Integral: política pública avança com base em evidências](https://pp.nexojornal.com.br/ponto-de-vista/2022/Ensino-M%C3%A9dio-Integral-pol%C3%ADtica-p%C3%BAblica-avan%C3%A7a-com-base-em-evid%C3%AAncias)
-- [Pagamento por serviços ambientais no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2022/11/16/Pagamento-por-servi%C3%A7os-ambientais-no-Brasil)
 <!-- PP_LIST:END -->
 
