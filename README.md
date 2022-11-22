@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Desigualdades zero: ambições pós-COP27](https://gamarevista.uol.com.br/artigo/desigualdades-zero-ambicoes-pos-cop27/)
 - [@ritacarreira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ritacarreira/)
 - [Bolsonaro é um Homero](https://gamarevista.uol.com.br/colunistas/fernando-luna/bolsonaro-e-um-homero/)
 - [COP27: os altos e baixos da conferência do clima](https://gamarevista.uol.com.br/estilo-de-vida/meio-ambiente/cop27-os-altos-e-baixos-da-conferencia-do-clima/)
 - [Erich Beting: “A gente nunca chegou tão atrasado para uma Copa”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/erich-beting-fala-sobre-marketing-na-copa/)
-- [O Jovem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-jovem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
