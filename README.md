@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Janja ideal ou a fixação pela bela, recatada e do lar](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-janja-ideal-ou-a-fixacao-pela-bela-recatada-e-do-lar/)
 - [A larica perfeita com apenas três ingredientes: parfait de doce de leite](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-larica-perfeita-com-apenas-tres-ingredientes-parfait-de-doce-de-leite/)
 - [‘Marrom e Amarelo’: os efeitos íntimos do modelo de racialização no Brasil](https://gamarevista.uol.com.br/cultura/marrom-e-amarelo-os-efeitos-intimos-do-modelo-de-racializacao-no-brasil/)
 - [Desigualdades zero: ambições pós-COP27](https://gamarevista.uol.com.br/artigo/desigualdades-zero-ambicoes-pos-cop27/)
 - [@ritacarreira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ritacarreira/)
-- [Bolsonaro é um Homero](https://gamarevista.uol.com.br/colunistas/fernando-luna/bolsonaro-e-um-homero/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
