@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Derrota argentina para sauditas é a maior zebra das Copas](https://www.nexojornal.com.br/extra/2022/11/22/Derrota-argentina-para-sauditas-%C3%A9-a-maior-zebra-das-Copas)
+- [Aos 81 anos, morre o cantor e compositor Erasmo Carlos](https://www.nexojornal.com.br/extra/2022/11/22/Aos-81-anos-morre-o-cantor-e-compositor-Erasmo-Carlos)
+- [Pablo Milanés, cantor e compositor cubano, morre aos 79 anos](https://www.nexojornal.com.br/extra/2022/11/22/Pablo-Milan%C3%A9s-cantor-e-compositor-cubano-morre-aos-79-anos)
+- [Quais os interesses em jogo nas indicações ao STJ](https://www.nexojornal.com.br/expresso/2022/11/22/Quais-os-interesses-em-jogo-nas-indica%C3%A7%C3%B5es-ao-STJ)
 - [A última chance de Messi e Cristiano Ronaldo numa Copa](https://www.nexojornal.com.br/expresso/2022/11/21/A-%C3%BAltima-chance-de-Messi-e-Cristiano-Ronaldo-numa-Copa)
-- [Fiocruz: vacinação acelerada poderia ter salvo 47 mil pessoas](https://www.nexojornal.com.br/extra/2022/11/21/Fiocruz-vacina%C3%A7%C3%A3o-acelerada-poderia-ter-salvo-47-mil-pessoas)
-- [O que são vacinas bivalentes. E por que não há doses no Brasil](https://www.nexojornal.com.br/expresso/2022/11/21/O-que-s%C3%A3o-vacinas-bivalentes.-E-por-que-n%C3%A3o-h%C3%A1-doses-no-Brasil)
-- [Quais os impactos da adesão do PL ao golpismo bolsonarista](https://www.nexojornal.com.br/expresso/2022/11/21/Quais-os-impactos-da-ades%C3%A3o-do-PL-ao-golpismo-bolsonarista)
-- [Maioria dos jogos da Copa vai ocorrer em horário comercial](https://www.nexojornal.com.br/grafico/2022/11/21/Maioria-dos-jogos-da-Copa-vai-ocorrer-em-hor%C3%A1rio-comercial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
