@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Derrota argentina para sauditas é a maior zebra das Copas](https://www.nexojornal.com.br/extra/2022/11/22/Derrota-argentina-para-sauditas-%C3%A9-a-maior-zebra-das-Copas)
-- [Aos 81 anos, morre o cantor e compositor Erasmo Carlos](https://www.nexojornal.com.br/extra/2022/11/22/Aos-81-anos-morre-o-cantor-e-compositor-Erasmo-Carlos)
-- [Pablo Milanés, cantor e compositor cubano, morre aos 79 anos](https://www.nexojornal.com.br/extra/2022/11/22/Pablo-Milan%C3%A9s-cantor-e-compositor-cubano-morre-aos-79-anos)
-- [Quais os interesses em jogo nas indicações ao STJ](https://www.nexojornal.com.br/expresso/2022/11/22/Quais-os-interesses-em-jogo-nas-indica%C3%A7%C3%B5es-ao-STJ)
-- [A última chance de Messi e Cristiano Ronaldo numa Copa](https://www.nexojornal.com.br/expresso/2022/11/21/A-%C3%BAltima-chance-de-Messi-e-Cristiano-Ronaldo-numa-Copa)
+- [Ataque a tiros em supermercado deixa 7 mortos nos EUA](https://www.nexojornal.com.br/extra/2022/11/23/Ataque-a-tiros-em-supermercado-deixa-7-mortos-nos-EUA)
+- [Anvisa volta a obrigar uso de máscara em aviões e aeroportos](https://www.nexojornal.com.br/extra/2022/11/23/Anvisa-volta-a-obrigar-uso-de-m%C3%A1scara-em-avi%C3%B5es-e-aeroportos)
+- [A baixa cobertura vacinal infantil na nova aceleração da covid](https://www.nexojornal.com.br/expresso/2022/11/22/A-baixa-cobertura-vacinal-infantil-na-nova-acelera%C3%A7%C3%A3o-da-covid)
+- [O que Musk planeja para o Twitter após a onda de demissões](https://www.nexojornal.com.br/expresso/2022/11/22/O-que-Musk-planeja-para-o-Twitter-ap%C3%B3s-a-onda-de-demiss%C3%B5es)
+- [Pequim bate recorde de casos de covid-19 e endurece lockdown](https://www.nexojornal.com.br/extra/2022/11/22/Pequim-bate-recorde-de-casos-de-covid-19-e-endurece-lockdown)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
