@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A inesperada viralização de Roberto Mangabeira Unger](https://www.nexojornal.com.br/expresso/2022/11/23/A-inesperada-viraliza%C3%A7%C3%A3o-de-Roberto-Mangabeira-Unger)
+- [Belo Monte propõe reparação de R$ 20 mil a pescadores do Xingu](https://www.nexojornal.com.br/extra/2022/11/23/Belo-Monte-prop%C3%B5e-repara%C3%A7%C3%A3o-de-R-20-mil-a-pescadores-do-Xingu)
+- [Suprema Corte proíbe referendo sobre separação da Escócia](https://www.nexojornal.com.br/extra/2022/11/23/Suprema-Corte-pro%C3%ADbe-referendo-sobre-separa%C3%A7%C3%A3o-da-Esc%C3%B3cia)
+- [Os clubes dos jogadores das seleções da Copa de 2022](https://www.nexojornal.com.br/grafico/2022/11/23/Os-clubes-dos-jogadores-das-sele%C3%A7%C3%B5es-da-Copa-de-2022)
 - [Ataque a tiros em supermercado deixa 7 mortos nos EUA](https://www.nexojornal.com.br/extra/2022/11/23/Ataque-a-tiros-em-supermercado-deixa-7-mortos-nos-EUA)
-- [Anvisa volta a obrigar uso de máscara em aviões e aeroportos](https://www.nexojornal.com.br/extra/2022/11/23/Anvisa-volta-a-obrigar-uso-de-m%C3%A1scara-em-avi%C3%B5es-e-aeroportos)
-- [A baixa cobertura vacinal infantil na nova aceleração da covid](https://www.nexojornal.com.br/expresso/2022/11/22/A-baixa-cobertura-vacinal-infantil-na-nova-acelera%C3%A7%C3%A3o-da-covid)
-- [O que Musk planeja para o Twitter após a onda de demissões](https://www.nexojornal.com.br/expresso/2022/11/22/O-que-Musk-planeja-para-o-Twitter-ap%C3%B3s-a-onda-de-demiss%C3%B5es)
-- [Pequim bate recorde de casos de covid-19 e endurece lockdown](https://www.nexojornal.com.br/extra/2022/11/22/Pequim-bate-recorde-de-casos-de-covid-19-e-endurece-lockdown)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
