@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A inesperada viralização de Roberto Mangabeira Unger](https://www.nexojornal.com.br/expresso/2022/11/23/A-inesperada-viraliza%C3%A7%C3%A3o-de-Roberto-Mangabeira-Unger)
-- [Belo Monte propõe reparação de R$ 20 mil a pescadores do Xingu](https://www.nexojornal.com.br/extra/2022/11/23/Belo-Monte-prop%C3%B5e-repara%C3%A7%C3%A3o-de-R-20-mil-a-pescadores-do-Xingu)
-- [Suprema Corte proíbe referendo sobre separação da Escócia](https://www.nexojornal.com.br/extra/2022/11/23/Suprema-Corte-pro%C3%ADbe-referendo-sobre-separa%C3%A7%C3%A3o-da-Esc%C3%B3cia)
-- [Os clubes dos jogadores das seleções da Copa de 2022](https://www.nexojornal.com.br/grafico/2022/11/23/Os-clubes-dos-jogadores-das-sele%C3%A7%C3%B5es-da-Copa-de-2022)
-- [Ataque a tiros em supermercado deixa 7 mortos nos EUA](https://www.nexojornal.com.br/extra/2022/11/23/Ataque-a-tiros-em-supermercado-deixa-7-mortos-nos-EUA)
+- [A baixa cobertura vacinal infantil na nova aceleração da covid](https://www.nexojornal.com.br/expresso/2022/11/22/A-baixa-cobertura-vacinal-infantil-na-nova-acelera%C3%A7%C3%A3o-da-covid)
+- [O que Musk planeja para o Twitter após a onda de demissões](https://www.nexojornal.com.br/expresso/2022/11/22/O-que-Musk-planeja-para-o-Twitter-ap%C3%B3s-a-onda-de-demiss%C3%B5es)
+- [Pequim bate recorde de casos de covid-19 e endurece lockdown](https://www.nexojornal.com.br/extra/2022/11/22/Pequim-bate-recorde-de-casos-de-covid-19-e-endurece-lockdown)
+- [Do rock ao romântico: Erasmo Carlos em 6 momentos](https://www.nexojornal.com.br/expresso/2022/11/22/Do-rock-ao-rom%C3%A2ntico-Erasmo-Carlos-em-6-momentos)
+- [Augusto Nardes: do impeachment de 2016 ao golpismo de 2022](https://www.nexojornal.com.br/podcast/2022/11/22/Augusto-Nardes-do-impeachment-de-2016-ao-golpismo-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
