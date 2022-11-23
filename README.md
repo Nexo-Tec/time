@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataque a tiros em supermercado deixa 7 mortos nos EUA](https://www.nexojornal.com.br/extra/2022/11/23/Ataque-a-tiros-em-supermercado-deixa-7-mortos-nos-EUA)
+- [Anvisa volta a obrigar uso de máscara em aviões e aeroportos](https://www.nexojornal.com.br/extra/2022/11/23/Anvisa-volta-a-obrigar-uso-de-m%C3%A1scara-em-avi%C3%B5es-e-aeroportos)
 - [A baixa cobertura vacinal infantil na nova aceleração da covid](https://www.nexojornal.com.br/expresso/2022/11/22/A-baixa-cobertura-vacinal-infantil-na-nova-acelera%C3%A7%C3%A3o-da-covid)
 - [O que Musk planeja para o Twitter após a onda de demissões](https://www.nexojornal.com.br/expresso/2022/11/22/O-que-Musk-planeja-para-o-Twitter-ap%C3%B3s-a-onda-de-demiss%C3%B5es)
 - [Pequim bate recorde de casos de covid-19 e endurece lockdown](https://www.nexojornal.com.br/extra/2022/11/22/Pequim-bate-recorde-de-casos-de-covid-19-e-endurece-lockdown)
-- [Do rock ao romântico: Erasmo Carlos em 6 momentos](https://www.nexojornal.com.br/expresso/2022/11/22/Do-rock-ao-rom%C3%A2ntico-Erasmo-Carlos-em-6-momentos)
-- [Augusto Nardes: do impeachment de 2016 ao golpismo de 2022](https://www.nexojornal.com.br/podcast/2022/11/22/Augusto-Nardes-do-impeachment-de-2016-ao-golpismo-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
