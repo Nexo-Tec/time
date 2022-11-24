@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A Janja ideal ou a fixação pela bela, recatada e do lar](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-janja-ideal-ou-a-fixacao-pela-bela-recatada-e-do-lar/)
-- [A larica perfeita com apenas três ingredientes: parfait de doce de leite](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-larica-perfeita-com-apenas-tres-ingredientes-parfait-de-doce-de-leite/)
-- [‘Marrom e Amarelo’: os efeitos íntimos do modelo de racialização no Brasil](https://gamarevista.uol.com.br/cultura/marrom-e-amarelo-os-efeitos-intimos-do-modelo-de-racializacao-no-brasil/)
-- [Desigualdades zero: ambições pós-COP27](https://gamarevista.uol.com.br/artigo/desigualdades-zero-ambicoes-pos-cop27/)
-- [@ritacarreira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ritacarreira/)
+- [Pagú e autoficção no Sesc Pompeia](https://gamarevista.uol.com.br/achamos-que-vale/ir/pagu-e-autoficcao-no-sesc-pompeia/)
+- [O Pinóquio de Guillermo del Toro nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-pinoquio-de-guillermo-del-toro-nos-cinemas/)
+- [Um relato emocionante dos irmãos Campana](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-emocionante-dos-irmaos-campana/)
+- [Uma nova Beyoncé analisada pelo podcast do NYT](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-nova-beyonce-analisada-pelo-podcast-do-nyt/)
+- [‘Pele Alvo’, estudo sobre a violência policial contra pessoas negras](https://gamarevista.uol.com.br/achamos-que-vale/ler/pele-alvo-estudo-sobre-a-violencia-policial-contra-pessoas-negras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
