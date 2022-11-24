@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes nega anular votos e fixa multa de R$ 23 mi a PL e aliados](https://www.nexojornal.com.br/extra/2022/11/23/Moraes-nega-anular-votos-e-fixa-multa-de-R-23-mi-a-PL-e-aliados)
-- [Como estava a política nos anos em que o Brasil foi campeão](https://www.nexojornal.com.br/expresso/2022/11/23/Como-estava-a-pol%C3%ADtica-nos-anos-em-que-o-Brasil-foi-campe%C3%A3o)
-- [Justiça da Geórgia restabelece restrição ao aborto](https://www.nexojornal.com.br/extra/2022/11/23/Justi%C3%A7a-da-Ge%C3%B3rgia-restabelece-restri%C3%A7%C3%A3o-ao-aborto)
-- [7 histórias para relembrar 7 anos de jornalismo do ‘Nexo’](https://www.nexojornal.com.br/expresso/2022/11/23/7-hist%C3%B3rias-para-relembrar-7-anos-de-jornalismo-do-%E2%80%98Nexo%E2%80%99)
-- [As ações da Anvisa no novo momento da covid no Brasil](https://www.nexojornal.com.br/podcast/2022/11/23/As-a%C3%A7%C3%B5es-da-Anvisa-no-novo-momento-da-covid-no-Brasil)
+- [A inesperada viralização de Roberto Mangabeira Unger](https://www.nexojornal.com.br/expresso/2022/11/23/A-inesperada-viraliza%C3%A7%C3%A3o-de-Roberto-Mangabeira-Unger)
+- [Belo Monte propõe reparação de R$ 20 mil a pescadores do Xingu](https://www.nexojornal.com.br/extra/2022/11/23/Belo-Monte-prop%C3%B5e-repara%C3%A7%C3%A3o-de-R-20-mil-a-pescadores-do-Xingu)
+- [Suprema Corte proíbe referendo sobre separação da Escócia](https://www.nexojornal.com.br/extra/2022/11/23/Suprema-Corte-pro%C3%ADbe-referendo-sobre-separa%C3%A7%C3%A3o-da-Esc%C3%B3cia)
+- [Os clubes dos jogadores das seleções da Copa de 2022](https://www.nexojornal.com.br/grafico/2022/11/23/Os-clubes-dos-jogadores-das-sele%C3%A7%C3%B5es-da-Copa-de-2022)
+- [Ataque a tiros em supermercado deixa 7 mortos nos EUA](https://www.nexojornal.com.br/extra/2022/11/23/Ataque-a-tiros-em-supermercado-deixa-7-mortos-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
