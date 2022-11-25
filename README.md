@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF detém duas pessoas após hostilidade contra Alckmin](https://www.nexojornal.com.br/extra/2022/11/24/PF-det%C3%A9m-duas-pessoas-ap%C3%B3s-hostilidade-contra-Alckmin)
-- [Suspeitos de atacar PRF no Pará são presos pela Polícia Federal](https://www.nexojornal.com.br/extra/2022/11/24/Suspeitos-de-atacar-PRF-no-Par%C3%A1-s%C3%A3o-presos-pela-Pol%C3%ADcia-Federal)
-- [Mais de 20 mil morreram durante ondas de calor na Europa](https://www.nexojornal.com.br/extra/2022/11/24/Mais-de-20-mil-morreram-durante-ondas-de-calor-na-Europa)
-- [Como Casimiro rompeu a hegemonia da TV na Copa do Mundo](https://www.nexojornal.com.br/expresso/2022/11/24/Como-Casimiro-rompeu-a-hegemonia-da-TV-na-Copa-do-Mundo)
-- [Combustíveis voltam a subir e IPCA-15 acelera em novembro](https://www.nexojornal.com.br/extra/2022/11/24/Combust%C3%ADveis-voltam-a-subir-e-IPCA-15-acelera-em-novembro)
+- [Moraes nega anular votos e fixa multa de R$ 23 mi a PL e aliados](https://www.nexojornal.com.br/extra/2022/11/23/Moraes-nega-anular-votos-e-fixa-multa-de-R-23-mi-a-PL-e-aliados)
+- [Como estava a política nos anos em que o Brasil foi campeão](https://www.nexojornal.com.br/expresso/2022/11/23/Como-estava-a-pol%C3%ADtica-nos-anos-em-que-o-Brasil-foi-campe%C3%A3o)
+- [Justiça da Geórgia restabelece restrição ao aborto](https://www.nexojornal.com.br/extra/2022/11/23/Justi%C3%A7a-da-Ge%C3%B3rgia-restabelece-restri%C3%A7%C3%A3o-ao-aborto)
+- [7 histórias para relembrar 7 anos de jornalismo do ‘Nexo’](https://www.nexojornal.com.br/expresso/2022/11/23/7-hist%C3%B3rias-para-relembrar-7-anos-de-jornalismo-do-%E2%80%98Nexo%E2%80%99)
+- [As ações da Anvisa no novo momento da covid no Brasil](https://www.nexojornal.com.br/podcast/2022/11/23/As-a%C3%A7%C3%B5es-da-Anvisa-no-novo-momento-da-covid-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
