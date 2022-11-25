@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF detém duas pessoas após hostilidade contra Alckmin](https://www.nexojornal.com.br/extra/2022/11/24/PF-det%C3%A9m-duas-pessoas-ap%C3%B3s-hostilidade-contra-Alckmin)
-- [Suspeitos de atacar PRF no Pará são presos pela Polícia Federal](https://www.nexojornal.com.br/extra/2022/11/24/Suspeitos-de-atacar-PRF-no-Par%C3%A1-s%C3%A3o-presos-pela-Pol%C3%ADcia-Federal)
-- [Mais de 20 mil morreram durante ondas de calor na Europa](https://www.nexojornal.com.br/extra/2022/11/24/Mais-de-20-mil-morreram-durante-ondas-de-calor-na-Europa)
-- [Como Casimiro rompeu a hegemonia da TV na Copa do Mundo](https://www.nexojornal.com.br/expresso/2022/11/24/Como-Casimiro-rompeu-a-hegemonia-da-TV-na-Copa-do-Mundo)
-- [Combustíveis voltam a subir e IPCA-15 acelera em novembro](https://www.nexojornal.com.br/extra/2022/11/24/Combust%C3%ADveis-voltam-a-subir-e-IPCA-15-acelera-em-novembro)
+- [O verde amarelo, finalmente, como símbolo do futebol](https://www.nexojornal.com.br/podcast/2022/11/24/O-verde-amarelo-finalmente-como-s%C3%ADmbolo-do-futebol)
+- [Como saber se você tem perfil para trabalhar com ciência](https://www.nexojornal.com.br/expresso/2022/11/24/Como-saber-se-voc%C3%AA-tem-perfil-para-trabalhar-com-ci%C3%AAncia)
+- [SP: estado volta a exigir uso de máscaras no transporte público](https://www.nexojornal.com.br/extra/2022/11/24/SP-estado-volta-a-exigir-uso-de-m%C3%A1scaras-no-transporte-p%C3%BAblico)
+- [Como o atraso do censo boliviano inflama a política do país](https://www.nexojornal.com.br/expresso/2022/11/24/Como-o-atraso-do-censo-boliviano-inflama-a-pol%C3%ADtica-do-pa%C3%ADs)
+- [O custoso revés da ação golpista dos partidos aliados de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/24/O-custoso-rev%C3%A9s-da-a%C3%A7%C3%A3o-golpista-dos-partidos-aliados-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
