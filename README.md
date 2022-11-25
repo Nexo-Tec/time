@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Deus é brasileiro, mulher e joga vôlei de barrigão](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/deus-e-brasileiro-mulher-e-joga-volei-de-barrigao/)
 - [A Mandíbula de Caim](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-mandibula-de-caim/)
 - [Pagú e autoficção no Sesc Pompeia](https://gamarevista.uol.com.br/achamos-que-vale/ir/pagu-e-autoficcao-no-sesc-pompeia/)
 - [O Pinóquio de Guillermo del Toro nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-pinoquio-de-guillermo-del-toro-nos-cinemas/)
 - [Um relato emocionante dos irmãos Campana](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-emocionante-dos-irmaos-campana/)
-- [Uma nova Beyoncé analisada pelo podcast do NYT](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-nova-beyonce-analisada-pelo-podcast-do-nyt/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
