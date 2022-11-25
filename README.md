@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF detém duas pessoas após hostilidade contra Alckmin](https://www.nexojornal.com.br/extra/2022/11/24/PF-det%C3%A9m-duas-pessoas-ap%C3%B3s-hostilidade-contra-Alckmin)
-- [Suspeitos de atacar PRF no Pará são presos pela Polícia Federal](https://www.nexojornal.com.br/extra/2022/11/24/Suspeitos-de-atacar-PRF-no-Par%C3%A1-s%C3%A3o-presos-pela-Pol%C3%ADcia-Federal)
-- [Mais de 20 mil morreram durante ondas de calor na Europa](https://www.nexojornal.com.br/extra/2022/11/24/Mais-de-20-mil-morreram-durante-ondas-de-calor-na-Europa)
-- [Como Casimiro rompeu a hegemonia da TV na Copa do Mundo](https://www.nexojornal.com.br/expresso/2022/11/24/Como-Casimiro-rompeu-a-hegemonia-da-TV-na-Copa-do-Mundo)
-- [Combustíveis voltam a subir e IPCA-15 acelera em novembro](https://www.nexojornal.com.br/extra/2022/11/24/Combust%C3%ADveis-voltam-a-subir-e-IPCA-15-acelera-em-novembro)
+- [Arqueólogos dizem ter descoberto imperador romano ‘perdido’](https://www.nexojornal.com.br/extra/2022/11/25/Arque%C3%B3logos-dizem-ter-descoberto-imperador-romano-%E2%80%98perdido%E2%80%99)
+- [Haddad fala em nome de Lula. Banqueiros veem discurso vago](https://www.nexojornal.com.br/extra/2022/11/25/Haddad-fala-em-nome-de-Lula.-Banqueiros-veem-discurso-vago)
+- [Anúncios pagos no Facebook e Instagram chamam para atos golpistas e mentem sobre eleições](https://www.nexojornal.com.br/externo/2022/11/25/An%C3%BAncios-pagos-no-Facebook-e-Instagram-chamam-para-atos-golpistas-e-mentem-sobre-elei%C3%A7%C3%B5es1)
+- [Operações policiais deixam 14 mortos em comunidades do Rio](https://www.nexojornal.com.br/extra/2022/11/25/Opera%C3%A7%C3%B5es-policiais-deixam-14-mortos-em-comunidades-do-Rio)
+- [Procuradores veem busca ‘delirante’ de golpe em bloqueios no Pará](https://www.nexojornal.com.br/extra/2022/11/25/Procuradores-veem-busca-%E2%80%98delirante%E2%80%99-de-golpe-em-bloqueios-no-Par%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
