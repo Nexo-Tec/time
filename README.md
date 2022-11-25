@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Mandíbula de Caim](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-mandibula-de-caim/)
 - [Pagú e autoficção no Sesc Pompeia](https://gamarevista.uol.com.br/achamos-que-vale/ir/pagu-e-autoficcao-no-sesc-pompeia/)
 - [O Pinóquio de Guillermo del Toro nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-pinoquio-de-guillermo-del-toro-nos-cinemas/)
 - [Um relato emocionante dos irmãos Campana](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-emocionante-dos-irmaos-campana/)
 - [Uma nova Beyoncé analisada pelo podcast do NYT](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-nova-beyonce-analisada-pelo-podcast-do-nyt/)
-- [‘Pele Alvo’, estudo sobre a violência policial contra pessoas negras](https://gamarevista.uol.com.br/achamos-que-vale/ler/pele-alvo-estudo-sobre-a-violencia-policial-contra-pessoas-negras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
