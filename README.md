@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que fazer no curto prazo para reduzir operações letais no Rio](https://www.nexojornal.com.br/expresso/2022/11/25/O-que-fazer-no-curto-prazo-para-reduzir-opera%C3%A7%C3%B5es-letais-no-Rio)
-- [‘Rainhas da noite’: uma história reconstituída sobre vidas travestis](https://www.nexojornal.com.br/estante/2022/11/25/%E2%80%98Rainhas-da-noite%E2%80%99-uma-hist%C3%B3ria-reconstitu%C3%ADda-sobre-vidas-travestis)
-- [A era das megalópoles: como as cidades do mundo se fundem](https://www.nexojornal.com.br/externo/2022/11/25/A-era-das-megal%C3%B3poles-como-as-cidades-do-mundo-se-fundem)
-- [Um feed pessoal para acompanhar publicações científicas](https://www.nexojornal.com.br/expresso/2022/11/25/Um-feed-pessoal-para-acompanhar-publica%C3%A7%C3%B5es-cient%C3%ADficas)
-- [Como o poder público pode incentivar a agricultura urbana](https://www.nexojornal.com.br/expresso/2022/11/25/Como-o-poder-p%C3%BAblico-pode-incentivar-a-agricultura-urbana)
+- [Arqueólogos dizem ter descoberto imperador romano ‘perdido’](https://www.nexojornal.com.br/extra/2022/11/25/Arque%C3%B3logos-dizem-ter-descoberto-imperador-romano-%E2%80%98perdido%E2%80%99)
+- [Haddad fala em nome de Lula. Banqueiros veem discurso vago](https://www.nexojornal.com.br/extra/2022/11/25/Haddad-fala-em-nome-de-Lula.-Banqueiros-veem-discurso-vago)
+- [Anúncios pagos no Facebook e Instagram chamam para atos golpistas e mentem sobre eleições](https://www.nexojornal.com.br/externo/2022/11/25/An%C3%BAncios-pagos-no-Facebook-e-Instagram-chamam-para-atos-golpistas-e-mentem-sobre-elei%C3%A7%C3%B5es1)
+- [Operações policiais deixam 14 mortos em comunidades do Rio](https://www.nexojornal.com.br/extra/2022/11/25/Opera%C3%A7%C3%B5es-policiais-deixam-14-mortos-em-comunidades-do-Rio)
+- [Procuradores veem busca ‘delirante’ de golpe em bloqueios no Pará](https://www.nexojornal.com.br/extra/2022/11/25/Procuradores-veem-busca-%E2%80%98delirante%E2%80%99-de-golpe-em-bloqueios-no-Par%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
