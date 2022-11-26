@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O verde amarelo, finalmente, como símbolo do futebol](https://www.nexojornal.com.br/podcast/2022/11/24/O-verde-amarelo-finalmente-como-s%C3%ADmbolo-do-futebol)
-- [Como saber se você tem perfil para trabalhar com ciência](https://www.nexojornal.com.br/expresso/2022/11/24/Como-saber-se-voc%C3%AA-tem-perfil-para-trabalhar-com-ci%C3%AAncia)
-- [SP: estado volta a exigir uso de máscaras no transporte público](https://www.nexojornal.com.br/extra/2022/11/24/SP-estado-volta-a-exigir-uso-de-m%C3%A1scaras-no-transporte-p%C3%BAblico)
-- [Como o atraso do censo boliviano inflama a política do país](https://www.nexojornal.com.br/expresso/2022/11/24/Como-o-atraso-do-censo-boliviano-inflama-a-pol%C3%ADtica-do-pa%C3%ADs)
-- [O custoso revés da ação golpista dos partidos aliados de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/24/O-custoso-rev%C3%A9s-da-a%C3%A7%C3%A3o-golpista-dos-partidos-aliados-de-Bolsonaro)
+- [Arqueólogos dizem ter descoberto imperador romano ‘perdido’](https://www.nexojornal.com.br/extra/2022/11/25/Arque%C3%B3logos-dizem-ter-descoberto-imperador-romano-%E2%80%98perdido%E2%80%99)
+- [Haddad fala em nome de Lula. Banqueiros veem discurso vago](https://www.nexojornal.com.br/extra/2022/11/25/Haddad-fala-em-nome-de-Lula.-Banqueiros-veem-discurso-vago)
+- [Anúncios pagos no Facebook e Instagram chamam para atos golpistas e mentem sobre eleições](https://www.nexojornal.com.br/externo/2022/11/25/An%C3%BAncios-pagos-no-Facebook-e-Instagram-chamam-para-atos-golpistas-e-mentem-sobre-elei%C3%A7%C3%B5es1)
+- [Operações policiais deixam 14 mortos em comunidades do Rio](https://www.nexojornal.com.br/extra/2022/11/25/Opera%C3%A7%C3%B5es-policiais-deixam-14-mortos-em-comunidades-do-Rio)
+- [Procuradores veem busca ‘delirante’ de golpe em bloqueios no Pará](https://www.nexojornal.com.br/extra/2022/11/25/Procuradores-veem-busca-%E2%80%98delirante%E2%80%99-de-golpe-em-bloqueios-no-Par%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
