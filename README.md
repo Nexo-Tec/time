@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A ‘fonte de liberdade’ de uma prêmio Nobel na Flip de 2022](https://www.nexojornal.com.br/expresso/2022/11/26/A-%E2%80%98fonte-de-liberdade%E2%80%99-de-uma-pr%C3%AAmio-Nobel-na-Flip-de-2022)
-- [Morre Irene Cara, voz dos clássicos de ‘Flashdance’ e ‘Fame’](https://www.nexojornal.com.br/extra/2022/11/26/Morre-Irene-Cara-voz-dos-cl%C3%A1ssicos-de-%E2%80%98Flashdance%E2%80%99-e-%E2%80%98Fame%E2%80%99)
 - [O que fazer no curto prazo para reduzir operações letais no Rio](https://www.nexojornal.com.br/expresso/2022/11/25/O-que-fazer-no-curto-prazo-para-reduzir-opera%C3%A7%C3%B5es-letais-no-Rio)
 - [‘Rainhas da noite’: uma história reconstituída sobre vidas travestis](https://www.nexojornal.com.br/estante/2022/11/25/%E2%80%98Rainhas-da-noite%E2%80%99-uma-hist%C3%B3ria-reconstitu%C3%ADda-sobre-vidas-travestis)
 - [A era das megalópoles: como as cidades do mundo se fundem](https://www.nexojornal.com.br/externo/2022/11/25/A-era-das-megal%C3%B3poles-como-as-cidades-do-mundo-se-fundem)
+- [Um feed pessoal para acompanhar publicações científicas](https://www.nexojornal.com.br/expresso/2022/11/25/Um-feed-pessoal-para-acompanhar-publica%C3%A7%C3%B5es-cient%C3%ADficas)
+- [Como o poder público pode incentivar a agricultura urbana](https://www.nexojornal.com.br/expresso/2022/11/25/Como-o-poder-p%C3%BAblico-pode-incentivar-a-agricultura-urbana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
