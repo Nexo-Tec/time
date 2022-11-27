@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A ‘fonte de liberdade’ de uma prêmio Nobel na Flip de 2022](https://www.nexojornal.com.br/expresso/2022/11/26/A-%E2%80%98fonte-de-liberdade%E2%80%99-de-uma-pr%C3%AAmio-Nobel-na-Flip-de-2022)
-- [Morre Irene Cara, voz dos clássicos de ‘Flashdance’ e ‘Fame’](https://www.nexojornal.com.br/extra/2022/11/26/Morre-Irene-Cara-voz-dos-cl%C3%A1ssicos-de-%E2%80%98Flashdance%E2%80%99-e-%E2%80%98Fame%E2%80%99)
-- [O que fazer no curto prazo para reduzir operações letais no Rio](https://www.nexojornal.com.br/expresso/2022/11/25/O-que-fazer-no-curto-prazo-para-reduzir-opera%C3%A7%C3%B5es-letais-no-Rio)
-- [‘Rainhas da noite’: uma história reconstituída sobre vidas travestis](https://www.nexojornal.com.br/estante/2022/11/25/%E2%80%98Rainhas-da-noite%E2%80%99-uma-hist%C3%B3ria-reconstitu%C3%ADda-sobre-vidas-travestis)
-- [A era das megalópoles: como as cidades do mundo se fundem](https://www.nexojornal.com.br/externo/2022/11/25/A-era-das-megal%C3%B3poles-como-as-cidades-do-mundo-se-fundem)
+- [O jogo que ensina a diferenciar rostos reais dos criados via IA](https://www.nexojornal.com.br/expresso/2022/11/26/O-jogo-que-ensina-a-diferenciar-rostos-reais-dos-criados-via-IA)
+- [5 livros sobre a música pernambucana desde o manguebeat](https://www.nexojornal.com.br/estante/2022/11/26/5-livros-sobre-a-m%C3%BAsica-pernambucana-desde-o-manguebeat)
+- [Por que comunidades tradicionais se opõem ao mercado de carbono](https://www.nexojornal.com.br/externo/2022/11/26/Por-que-comunidades-tradicionais-se-op%C3%B5em-ao-mercado-de-carbono)
+- [A universidade africana considerada a mais antiga do mundo](https://www.nexojornal.com.br/extra/2022/11/26/A-universidade-africana-considerada-a-mais-antiga-do-mundo)
+- [COP27: avanços, retrocessos e oportunidades ao Brasil](https://www.nexojornal.com.br/ensaio/2022/11/26/COP27-avan%C3%A7os-retrocessos-e-oportunidades-ao-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
