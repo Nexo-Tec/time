@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Didi Wagner: ‘Até moradores de São Paulo podem viajar pela cidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dicas-do-que-fazer-em-sao-paulo-por-didi-wagner/)
 - [Deus é brasileiro, mulher e joga vôlei de barrigão](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/deus-e-brasileiro-mulher-e-joga-volei-de-barrigao/)
 - [A Mandíbula de Caim](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-mandibula-de-caim/)
 - [Pagú e autoficção no Sesc Pompeia](https://gamarevista.uol.com.br/achamos-que-vale/ir/pagu-e-autoficcao-no-sesc-pompeia/)
 - [O Pinóquio de Guillermo del Toro nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-pinoquio-de-guillermo-del-toro-nos-cinemas/)
-- [Um relato emocionante dos irmãos Campana](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-emocionante-dos-irmaos-campana/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
