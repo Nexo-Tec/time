@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Manifestantes vão às ruas da China contra restrições da covid](https://www.nexojornal.com.br/extra/2022/11/27/Manifestantes-v%C3%A3o-%C3%A0s-ruas-da-China-contra-restri%C3%A7%C3%B5es-da-covid)
 - [O jogo que ensina a diferenciar rostos reais dos criados via IA](https://www.nexojornal.com.br/expresso/2022/11/26/O-jogo-que-ensina-a-diferenciar-rostos-reais-dos-criados-via-IA)
 - [5 livros sobre a música pernambucana desde o manguebeat](https://www.nexojornal.com.br/estante/2022/11/26/5-livros-sobre-a-m%C3%BAsica-pernambucana-desde-o-manguebeat)
 - [Por que comunidades tradicionais se opõem ao mercado de carbono](https://www.nexojornal.com.br/externo/2022/11/26/Por-que-comunidades-tradicionais-se-op%C3%B5em-ao-mercado-de-carbono)
 - [A universidade africana considerada a mais antiga do mundo](https://www.nexojornal.com.br/extra/2022/11/26/A-universidade-africana-considerada-a-mais-antiga-do-mundo)
-- [COP27: avanços, retrocessos e oportunidades ao Brasil](https://www.nexojornal.com.br/ensaio/2022/11/26/COP27-avan%C3%A7os-retrocessos-e-oportunidades-ao-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
