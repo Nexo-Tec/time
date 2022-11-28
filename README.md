@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Manifestantes vão às ruas da China contra restrições da covid](https://www.nexojornal.com.br/extra/2022/11/27/Manifestantes-v%C3%A3o-%C3%A0s-ruas-da-China-contra-restri%C3%A7%C3%B5es-da-covid)
-- [O jogo que ensina a diferenciar rostos reais dos criados via IA](https://www.nexojornal.com.br/expresso/2022/11/26/O-jogo-que-ensina-a-diferenciar-rostos-reais-dos-criados-via-IA)
-- [5 livros sobre a música pernambucana desde o manguebeat](https://www.nexojornal.com.br/estante/2022/11/26/5-livros-sobre-a-m%C3%BAsica-pernambucana-desde-o-manguebeat)
-- [Por que comunidades tradicionais se opõem ao mercado de carbono](https://www.nexojornal.com.br/externo/2022/11/26/Por-que-comunidades-tradicionais-se-op%C3%B5em-ao-mercado-de-carbono)
-- [A universidade africana considerada a mais antiga do mundo](https://www.nexojornal.com.br/extra/2022/11/26/A-universidade-africana-considerada-a-mais-antiga-do-mundo)
+- [Maior vulcão ativo do mundo, Mauna Loa entra em erupção](https://www.nexojornal.com.br/extra/2022/11/28/Maior-vulc%C3%A3o-ativo-do-mundo-Mauna-Loa-entra-em-erup%C3%A7%C3%A3o)
+- [Novas variantes da covid são detectadas no ABC paulista](https://www.nexojornal.com.br/extra/2022/11/28/Novas-variantes-da-covid-s%C3%A3o-detectadas-no-ABC-paulista)
+- [A idade e a altura dos jogadores da Copa do Mundo de 2022](https://www.nexojornal.com.br/grafico/2022/11/28/A-idade-e-a-altura-dos-jogadores-da-Copa-do-Mundo-de-2022)
+- [Brasil bate Suíça por 1 a 0 e garante vaga nas oitavas-de-final](https://www.nexojornal.com.br/extra/2022/11/28/Brasil-bate-Su%C3%AD%C3%A7a-por-1-a-0-e-garante-vaga-nas-oitavas-de-final)
+- [WhatsApp facilita o envio de mensagens para si mesmo](https://www.nexojornal.com.br/extra/2022/11/28/WhatsApp-facilita-o-envio-de-mensagens-para-si-mesmo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
