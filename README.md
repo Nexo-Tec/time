@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil bate Suíça por 1 a 0 e garante vaga nas oitavas-de-final](https://www.nexojornal.com.br/extra/2022/11/28/Brasil-bate-Su%C3%AD%C3%A7a-por-1-a-0-e-garante-vaga-nas-oitavas-de-final)
-- [WhatsApp facilita o envio de mensagens para si mesmo](https://www.nexojornal.com.br/extra/2022/11/28/WhatsApp-facilita-o-envio-de-mensagens-para-si-mesmo)
-- [Jornalista britânico é preso e agredido em protesto na China](https://www.nexojornal.com.br/extra/2022/11/28/Jornalista-brit%C3%A2nico-%C3%A9-preso-e-agredido-em-protesto-na-China)
-- [OMS confirma mudança de nome da varíola dos macacos](https://www.nexojornal.com.br/extra/2022/11/28/OMS-confirma-mudan%C3%A7a-de-nome-da-var%C3%ADola-dos-macacos)
-- [O efeito do aumento de ministérios nos cofres públicos e na política](https://www.nexojornal.com.br/expresso/2022/11/27/O-efeito-do-aumento-de-minist%C3%A9rios-nos-cofres-p%C3%BAblicos-e-na-pol%C3%ADtica)
+- [Manifestantes vão às ruas da China contra restrições da covid](https://www.nexojornal.com.br/extra/2022/11/27/Manifestantes-v%C3%A3o-%C3%A0s-ruas-da-China-contra-restri%C3%A7%C3%B5es-da-covid)
+- [O jogo que ensina a diferenciar rostos reais dos criados via IA](https://www.nexojornal.com.br/expresso/2022/11/26/O-jogo-que-ensina-a-diferenciar-rostos-reais-dos-criados-via-IA)
+- [5 livros sobre a música pernambucana desde o manguebeat](https://www.nexojornal.com.br/estante/2022/11/26/5-livros-sobre-a-m%C3%BAsica-pernambucana-desde-o-manguebeat)
+- [Por que comunidades tradicionais se opõem ao mercado de carbono](https://www.nexojornal.com.br/externo/2022/11/26/Por-que-comunidades-tradicionais-se-op%C3%B5em-ao-mercado-de-carbono)
+- [A universidade africana considerada a mais antiga do mundo](https://www.nexojornal.com.br/extra/2022/11/26/A-universidade-africana-considerada-a-mais-antiga-do-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
