@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maior vulcão ativo do mundo, Mauna Loa entra em erupção](https://www.nexojornal.com.br/extra/2022/11/28/Maior-vulc%C3%A3o-ativo-do-mundo-Mauna-Loa-entra-em-erup%C3%A7%C3%A3o)
-- [Novas variantes da covid são detectadas no ABC paulista](https://www.nexojornal.com.br/extra/2022/11/28/Novas-variantes-da-covid-s%C3%A3o-detectadas-no-ABC-paulista)
-- [A idade e a altura dos jogadores da Copa do Mundo de 2022](https://www.nexojornal.com.br/grafico/2022/11/28/A-idade-e-a-altura-dos-jogadores-da-Copa-do-Mundo-de-2022)
-- [Brasil bate Suíça por 1 a 0 e garante vaga nas oitavas-de-final](https://www.nexojornal.com.br/extra/2022/11/28/Brasil-bate-Su%C3%AD%C3%A7a-por-1-a-0-e-garante-vaga-nas-oitavas-de-final)
-- [WhatsApp facilita o envio de mensagens para si mesmo](https://www.nexojornal.com.br/extra/2022/11/28/WhatsApp-facilita-o-envio-de-mensagens-para-si-mesmo)
+- [Singapura descriminaliza sexo gay, mas dificulta mais avanços](https://www.nexojornal.com.br/extra/2022/11/29/Singapura-descriminaliza-sexo-gay-mas-dificulta-mais-avan%C3%A7os)
+- [Como se comprova a autoria de uma música no Brasil](https://www.nexojornal.com.br/expresso/2022/11/28/Como-se-comprova-a-autoria-de-uma-m%C3%BAsica-no-Brasil)
+- [Como os protestos na China pressionam Xi Jinping](https://www.nexojornal.com.br/expresso/2022/11/28/Como-os-protestos-na-China-pressionam-Xi-Jinping)
+- [O amor e ódio a Neymar na Copa do Mundo do Qatar](https://www.nexojornal.com.br/podcast/2022/11/28/O-amor-e-%C3%B3dio-a-Neymar-na-Copa-do-Mundo-do-Qatar1)
+- [O valor de uma antibiblioteca, segundo Nassim Taleb](https://www.nexojornal.com.br/expresso/2022/11/28/O-valor-de-uma-antibiblioteca-segundo-Nassim-Taleb)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
