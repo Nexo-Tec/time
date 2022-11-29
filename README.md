@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maior vulcão ativo do mundo, Mauna Loa entra em erupção](https://www.nexojornal.com.br/extra/2022/11/28/Maior-vulc%C3%A3o-ativo-do-mundo-Mauna-Loa-entra-em-erup%C3%A7%C3%A3o)
-- [Novas variantes da covid são detectadas no ABC paulista](https://www.nexojornal.com.br/extra/2022/11/28/Novas-variantes-da-covid-s%C3%A3o-detectadas-no-ABC-paulista)
-- [A idade e a altura dos jogadores da Copa do Mundo de 2022](https://www.nexojornal.com.br/grafico/2022/11/28/A-idade-e-a-altura-dos-jogadores-da-Copa-do-Mundo-de-2022)
-- [Brasil bate Suíça por 1 a 0 e garante vaga nas oitavas-de-final](https://www.nexojornal.com.br/extra/2022/11/28/Brasil-bate-Su%C3%AD%C3%A7a-por-1-a-0-e-garante-vaga-nas-oitavas-de-final)
-- [WhatsApp facilita o envio de mensagens para si mesmo](https://www.nexojornal.com.br/extra/2022/11/28/WhatsApp-facilita-o-envio-de-mensagens-para-si-mesmo)
+- [O efeito do aumento de ministérios nos cofres públicos e na política](https://www.nexojornal.com.br/expresso/2022/11/27/O-efeito-do-aumento-de-minist%C3%A9rios-nos-cofres-p%C3%BAblicos-e-na-pol%C3%ADtica)
+- [Sementes de açaí dão novos frutos](https://www.nexojornal.com.br/externo/2022/11/27/Sementes-de-a%C3%A7a%C3%AD-d%C3%A3o-novos-frutos)
+- [5 anos: os resultados das promessas da reforma trabalhista](https://www.nexojornal.com.br/ensaio/2022/11/27/5-anos-os-resultados-das-promessas-da-reforma-trabalhista)
+- [Artistas se solidarizam com Gil após ele ser hostilizado no Qatar](https://www.nexojornal.com.br/extra/2022/11/27/Artistas-se-solidarizam-com-Gil-ap%C3%B3s-ele-ser-hostilizado-no-Qatar)
+- [Manifestantes vão às ruas da China contra restrições da covid](https://www.nexojornal.com.br/extra/2022/11/27/Manifestantes-v%C3%A3o-%C3%A0s-ruas-da-China-contra-restri%C3%A7%C3%B5es-da-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
