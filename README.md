@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O efeito do aumento de ministérios nos cofres públicos e na política](https://www.nexojornal.com.br/expresso/2022/11/27/O-efeito-do-aumento-de-minist%C3%A9rios-nos-cofres-p%C3%BAblicos-e-na-pol%C3%ADtica)
-- [Sementes de açaí dão novos frutos](https://www.nexojornal.com.br/externo/2022/11/27/Sementes-de-a%C3%A7a%C3%AD-d%C3%A3o-novos-frutos)
-- [5 anos: os resultados das promessas da reforma trabalhista](https://www.nexojornal.com.br/ensaio/2022/11/27/5-anos-os-resultados-das-promessas-da-reforma-trabalhista)
-- [Artistas se solidarizam com Gil após ele ser hostilizado no Qatar](https://www.nexojornal.com.br/extra/2022/11/27/Artistas-se-solidarizam-com-Gil-ap%C3%B3s-ele-ser-hostilizado-no-Qatar)
-- [Manifestantes vão às ruas da China contra restrições da covid](https://www.nexojornal.com.br/extra/2022/11/27/Manifestantes-v%C3%A3o-%C3%A0s-ruas-da-China-contra-restri%C3%A7%C3%B5es-da-covid)
+- [Como se comprova a autoria de uma música no Brasil](https://www.nexojornal.com.br/expresso/2022/11/28/Como-se-comprova-a-autoria-de-uma-m%C3%BAsica-no-Brasil)
+- [Como os protestos na China pressionam Xi Jinping](https://www.nexojornal.com.br/expresso/2022/11/28/Como-os-protestos-na-China-pressionam-Xi-Jinping)
+- [O amor e ódio a Neymar na Copa do Mundo do Qatar](https://www.nexojornal.com.br/podcast/2022/11/28/O-amor-e-%C3%B3dio-a-Neymar-na-Copa-do-Mundo-do-Qatar1)
+- [O valor de uma antibiblioteca, segundo Nassim Taleb](https://www.nexojornal.com.br/expresso/2022/11/28/O-valor-de-uma-antibiblioteca-segundo-Nassim-Taleb)
+- [Torcedor invade campo com bandeira LGBTI+ na Copa](https://www.nexojornal.com.br/extra/2022/11/28/Torcedor-invade-campo-com-bandeira-LGBTI-na-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
