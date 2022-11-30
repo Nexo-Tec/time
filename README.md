@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os recordes e o impacto de ‘Thriller’, que completa 40 anos](https://www.nexojornal.com.br/expresso/2022/11/29/Os-recordes-e-o-impacto-de-%E2%80%98Thriller%E2%80%99-que-completa-40-anos)
-- [Os desafios do Ministério da Defesa no governo Lula](https://www.nexojornal.com.br/expresso/2022/11/29/Os-desafios-do-Minist%C3%A9rio-da-Defesa-no-governo-Lula)
-- [Copa terá 1º trio de arbitragem feminino, com brasileira na equipe](https://www.nexojornal.com.br/extra/2022/11/29/Copa-ter%C3%A1-1%C2%BA-trio-de-arbitragem-feminino-com-brasileira-na-equipe)
-- [O que não pode faltar num processo de transição de governo](https://www.nexojornal.com.br/colunistas/2022/O-que-n%C3%A3o-pode-faltar-num-processo-de-transi%C3%A7%C3%A3o-de-governo)
-- [O que a PEC da Transição garante ao novo governo](https://www.nexojornal.com.br/podcast/2022/11/29/O-que-a-PEC-da-Transi%C3%A7%C3%A3o-garante-ao-novo-governo)
+- [Singapura descriminaliza sexo gay, mas dificulta mais avanços](https://www.nexojornal.com.br/extra/2022/11/29/Singapura-descriminaliza-sexo-gay-mas-dificulta-mais-avan%C3%A7os)
+- [Como se comprova a autoria de uma música no Brasil](https://www.nexojornal.com.br/expresso/2022/11/28/Como-se-comprova-a-autoria-de-uma-m%C3%BAsica-no-Brasil)
+- [Como os protestos na China pressionam Xi Jinping](https://www.nexojornal.com.br/expresso/2022/11/28/Como-os-protestos-na-China-pressionam-Xi-Jinping)
+- [O amor e ódio a Neymar na Copa do Mundo do Qatar](https://www.nexojornal.com.br/podcast/2022/11/28/O-amor-e-%C3%B3dio-a-Neymar-na-Copa-do-Mundo-do-Qatar1)
+- [O valor de uma antibiblioteca, segundo Nassim Taleb](https://www.nexojornal.com.br/expresso/2022/11/28/O-valor-de-uma-antibiblioteca-segundo-Nassim-Taleb)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
