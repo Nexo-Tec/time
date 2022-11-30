@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Singapura descriminaliza sexo gay, mas dificulta mais avanços](https://www.nexojornal.com.br/extra/2022/11/29/Singapura-descriminaliza-sexo-gay-mas-dificulta-mais-avan%C3%A7os)
 - [Como se comprova a autoria de uma música no Brasil](https://www.nexojornal.com.br/expresso/2022/11/28/Como-se-comprova-a-autoria-de-uma-m%C3%BAsica-no-Brasil)
 - [Como os protestos na China pressionam Xi Jinping](https://www.nexojornal.com.br/expresso/2022/11/28/Como-os-protestos-na-China-pressionam-Xi-Jinping)
 - [O amor e ódio a Neymar na Copa do Mundo do Qatar](https://www.nexojornal.com.br/podcast/2022/11/28/O-amor-e-%C3%B3dio-a-Neymar-na-Copa-do-Mundo-do-Qatar1)
 - [O valor de uma antibiblioteca, segundo Nassim Taleb](https://www.nexojornal.com.br/expresso/2022/11/28/O-valor-de-uma-antibiblioteca-segundo-Nassim-Taleb)
-- [Torcedor invade campo com bandeira LGBTI+ na Copa](https://www.nexojornal.com.br/extra/2022/11/28/Torcedor-invade-campo-com-bandeira-LGBTI-na-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
