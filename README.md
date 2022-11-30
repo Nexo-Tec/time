@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [André Sawakuchi: a origem da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/11/29/Andr%C3%A9-Sawakuchi-a-origem-da-Amaz%C3%B4nia)
-- [Como conservar melhor a Amazônia? Perguntas abertas para avaliações](https://pp.nexojornal.com.br/topico/2022/11/29/Como-conservar-melhor-a-Amaz%C3%B4nia-Perguntas-abertas-para-avalia%C3%A7%C3%B5es)
 - [Aborto legal em disputa: tentativas de ampliação e restrição do direito nos últimos 20 anos](https://pp.nexojornal.com.br/linha-do-tempo/2022/Aborto-legal-em-disputa-tentativas-de-amplia%C3%A7%C3%A3o-e-restri%C3%A7%C3%A3o-do-direito-nos-%C3%BAltimos-20-anos)
 - [As origens políticas do desmatamento na amazônia brasileira](https://pp.nexojornal.com.br/academico/2022/As-origens-pol%C3%ADticas-do-desmatamento-na-amaz%C3%B4nia-brasileira)
 - [O “voto evangélico” nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/O-%E2%80%9Cvoto-evang%C3%A9lico%E2%80%9D-nas-elei%C3%A7%C3%B5es-de-2022)
+- [5 passos para a construção de uma Nova Geografia da segurança alimentar e nutricional](https://pp.nexojornal.com.br/opiniao/2022/5-passos-para-a-constru%C3%A7%C3%A3o-de-uma-Nova-Geografia-da-seguran%C3%A7a-alimentar-e-nutricional)
+- [Fundeb Equidade: a implementação do VAAR](https://pp.nexojornal.com.br/opiniao/2022/Fundeb-Equidade-a-implementa%C3%A7%C3%A3o-do-VAAR)
 <!-- PP_LIST:END -->
 
