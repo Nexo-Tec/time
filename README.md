@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Singapura descriminaliza sexo gay, mas dificulta mais avanços](https://www.nexojornal.com.br/extra/2022/11/29/Singapura-descriminaliza-sexo-gay-mas-dificulta-mais-avan%C3%A7os)
-- [Como se comprova a autoria de uma música no Brasil](https://www.nexojornal.com.br/expresso/2022/11/28/Como-se-comprova-a-autoria-de-uma-m%C3%BAsica-no-Brasil)
-- [Como os protestos na China pressionam Xi Jinping](https://www.nexojornal.com.br/expresso/2022/11/28/Como-os-protestos-na-China-pressionam-Xi-Jinping)
-- [O amor e ódio a Neymar na Copa do Mundo do Qatar](https://www.nexojornal.com.br/podcast/2022/11/28/O-amor-e-%C3%B3dio-a-Neymar-na-Copa-do-Mundo-do-Qatar1)
-- [O valor de uma antibiblioteca, segundo Nassim Taleb](https://www.nexojornal.com.br/expresso/2022/11/28/O-valor-de-uma-antibiblioteca-segundo-Nassim-Taleb)
+- [Ex-presidente da China Jiang Zemin morre aos 96 anos](https://www.nexojornal.com.br/extra/2022/11/30/Ex-presidente-da-China-Jiang-Zemin-morre-aos-96-anos)
+- [Como esta pesquisa tenta facilitar o tratamento do câncer](https://www.nexojornal.com.br/expresso/2022/11/30/Como-esta-pesquisa-tenta-facilitar-o-tratamento-do-c%C3%A2ncer)
+- [Desemprego recua para 8,3% e atinge 9 milhões, segundo IBGE](https://www.nexojornal.com.br/extra/2022/11/30/Desemprego-recua-para-83-e-atinge-9-milh%C3%B5es-segundo-IBGE)
+- [Os recordes e o impacto de ‘Thriller’, que completa 40 anos](https://www.nexojornal.com.br/expresso/2022/11/29/Os-recordes-e-o-impacto-de-%E2%80%98Thriller%E2%80%99-que-completa-40-anos)
+- [Os desafios do Ministério da Defesa no governo Lula](https://www.nexojornal.com.br/expresso/2022/11/29/Os-desafios-do-Minist%C3%A9rio-da-Defesa-no-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
