@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ex-presidente da China Jiang Zemin morre aos 96 anos](https://www.nexojornal.com.br/extra/2022/11/30/Ex-presidente-da-China-Jiang-Zemin-morre-aos-96-anos)
-- [Como esta pesquisa tenta facilitar o tratamento do câncer](https://www.nexojornal.com.br/expresso/2022/11/30/Como-esta-pesquisa-tenta-facilitar-o-tratamento-do-c%C3%A2ncer)
-- [Desemprego recua para 8,3% e atinge 9 milhões, segundo IBGE](https://www.nexojornal.com.br/extra/2022/11/30/Desemprego-recua-para-83-e-atinge-9-milh%C3%B5es-segundo-IBGE)
 - [Os recordes e o impacto de ‘Thriller’, que completa 40 anos](https://www.nexojornal.com.br/expresso/2022/11/29/Os-recordes-e-o-impacto-de-%E2%80%98Thriller%E2%80%99-que-completa-40-anos)
 - [Os desafios do Ministério da Defesa no governo Lula](https://www.nexojornal.com.br/expresso/2022/11/29/Os-desafios-do-Minist%C3%A9rio-da-Defesa-no-governo-Lula)
+- [Copa terá 1º trio de arbitragem feminino, com brasileira na equipe](https://www.nexojornal.com.br/extra/2022/11/29/Copa-ter%C3%A1-1%C2%BA-trio-de-arbitragem-feminino-com-brasileira-na-equipe)
+- [O que não pode faltar num processo de transição de governo](https://www.nexojornal.com.br/colunistas/2022/O-que-n%C3%A3o-pode-faltar-num-processo-de-transi%C3%A7%C3%A3o-de-governo)
+- [O que a PEC da Transição garante ao novo governo](https://www.nexojornal.com.br/podcast/2022/11/29/O-que-a-PEC-da-Transi%C3%A7%C3%A3o-garante-ao-novo-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
