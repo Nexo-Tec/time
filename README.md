@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os recordes e o impacto de ‘Thriller’, que completa 40 anos](https://www.nexojornal.com.br/expresso/2022/11/29/Os-recordes-e-o-impacto-de-%E2%80%98Thriller%E2%80%99-que-completa-40-anos)
-- [Os desafios do Ministério da Defesa no governo Lula](https://www.nexojornal.com.br/expresso/2022/11/29/Os-desafios-do-Minist%C3%A9rio-da-Defesa-no-governo-Lula)
-- [Copa terá 1º trio de arbitragem feminino, com brasileira na equipe](https://www.nexojornal.com.br/extra/2022/11/29/Copa-ter%C3%A1-1%C2%BA-trio-de-arbitragem-feminino-com-brasileira-na-equipe)
-- [O que não pode faltar num processo de transição de governo](https://www.nexojornal.com.br/colunistas/2022/O-que-n%C3%A3o-pode-faltar-num-processo-de-transi%C3%A7%C3%A3o-de-governo)
-- [O que a PEC da Transição garante ao novo governo](https://www.nexojornal.com.br/podcast/2022/11/29/O-que-a-PEC-da-Transi%C3%A7%C3%A3o-garante-ao-novo-governo)
+- [‘Crise de 2008 foi gerada pelo próprio sistema capitalista’](https://www.nexojornal.com.br/entrevista/2022/11/30/%E2%80%98Crise-de-2008-foi-gerada-pelo-pr%C3%B3prio-sistema-capitalista%E2%80%99)
+- [Os avanços e as barreiras na presença feminina na Copa](https://www.nexojornal.com.br/expresso/2022/11/30/Os-avan%C3%A7os-e-as-barreiras-na-presen%C3%A7a-feminina-na-Copa)
+- [A curva do desmate no caos ambiental de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/30/A-curva-do-desmate-no-caos-ambiental-de-Bolsonaro)
+- [Homem é morto no Irã por celebrar derrota do país na Copa](https://www.nexojornal.com.br/extra/2022/11/30/Homem-%C3%A9-morto-no-Ir%C3%A3-por-celebrar-derrota-do-pa%C3%ADs-na-Copa)
+- [O que eu aprendi num curso de formação de ‘coach nutricional’](https://www.nexojornal.com.br/colunistas/2022/O-que-eu-aprendi-num-curso-de-forma%C3%A7%C3%A3o-de-%E2%80%98coach-nutricional%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
