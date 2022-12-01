@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A linguagem kaiowá traduzida para o português](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-linguagem-kaiowa-traduzida-para-o-portugues/)
 - [CV: Carolina Ricardo](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-carolina-ricardo/)
 - [Atos de dois gumes](https://gamarevista.uol.com.br/colunistas/marcello-dantas/atos-de-dois-gumes/)
 - [Nikon Coolpix L15](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/nikon-coolpix-l15/)
 - [@diogodefante](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/diogodefante/)
-- [Didi Wagner: ‘Até moradores de São Paulo podem viajar pela cidade’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dicas-do-que-fazer-em-sao-paulo-por-didi-wagner/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
