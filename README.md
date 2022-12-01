@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ex-presidente da China Jiang Zemin morre aos 96 anos](https://www.nexojornal.com.br/extra/2022/11/30/Ex-presidente-da-China-Jiang-Zemin-morre-aos-96-anos)
-- [Como esta pesquisa tenta facilitar o tratamento do câncer](https://www.nexojornal.com.br/expresso/2022/11/30/Como-esta-pesquisa-tenta-facilitar-o-tratamento-do-c%C3%A2ncer)
-- [Desemprego recua para 8,3% e atinge 9 milhões, segundo IBGE](https://www.nexojornal.com.br/extra/2022/11/30/Desemprego-recua-para-83-e-atinge-9-milh%C3%B5es-segundo-IBGE)
-- [Os recordes e o impacto de ‘Thriller’, que completa 40 anos](https://www.nexojornal.com.br/expresso/2022/11/29/Os-recordes-e-o-impacto-de-%E2%80%98Thriller%E2%80%99-que-completa-40-anos)
-- [Os desafios do Ministério da Defesa no governo Lula](https://www.nexojornal.com.br/expresso/2022/11/29/Os-desafios-do-Minist%C3%A9rio-da-Defesa-no-governo-Lula)
+- [Bolsonaro suspende orçamento secreto após acordo Lula-Lira](https://www.nexojornal.com.br/extra/2022/12/01/Bolsonaro-suspende-or%C3%A7amento-secreto-ap%C3%B3s-acordo-Lula-Lira)
+- [‘Crise de 2008 foi gerada pelo próprio sistema capitalista’](https://www.nexojornal.com.br/entrevista/2022/11/30/%E2%80%98Crise-de-2008-foi-gerada-pelo-pr%C3%B3prio-sistema-capitalista%E2%80%99)
+- [Os avanços e as barreiras na presença feminina na Copa](https://www.nexojornal.com.br/expresso/2022/11/30/Os-avan%C3%A7os-e-as-barreiras-na-presen%C3%A7a-feminina-na-Copa)
+- [A curva do desmate no caos ambiental de Bolsonaro](https://www.nexojornal.com.br/expresso/2022/11/30/A-curva-do-desmate-no-caos-ambiental-de-Bolsonaro)
+- [Homem é morto no Irã por celebrar derrota do país na Copa](https://www.nexojornal.com.br/extra/2022/11/30/Homem-%C3%A9-morto-no-Ir%C3%A3-por-celebrar-derrota-do-pa%C3%ADs-na-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
