@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pobreza tem aumento recorde e atinge 62,5 milhões em 2021](https://www.nexojornal.com.br/extra/2022/12/02/Pobreza-tem-aumento-recorde-e-atinge-625-milh%C3%B5es-em-2021)
-- [Twitter suspende conta de Kanye West por incitar violência](https://www.nexojornal.com.br/extra/2022/12/02/Twitter-suspende-conta-de-Kanye-West-por-incitar-viol%C3%AAncia)
-- [Weber libera e STF pode julgar orçamento secreto ainda em 2022](https://www.nexojornal.com.br/extra/2022/12/02/Weber-libera-e-STF-pode-julgar-or%C3%A7amento-secreto-ainda-em-2022)
 - [O que é o ‘Nobel Alternativo’. E quais os premiados em 2022](https://www.nexojornal.com.br/expresso/2022/12/01/O-que-%C3%A9-o-%E2%80%98Nobel-Alternativo%E2%80%99.-E-quais-os-premiados-em-2022)
 - [A prevenção a desastres naturais em segundo plano no Brasil](https://www.nexojornal.com.br/expresso/2022/12/01/A-preven%C3%A7%C3%A3o-a-desastres-naturais-em-segundo-plano-no-Brasil)
+- [Desde o penta, churrasco ficou mais caro e televisão, mais barata](https://www.nexojornal.com.br/grafico/2022/12/01/Desde-o-penta-churrasco-ficou-mais-caro-e-televis%C3%A3o-mais-barata)
+- [Deputados pedem investigação de Zambelli e Malafaia](https://www.nexojornal.com.br/extra/2022/12/01/Deputados-pedem-investiga%C3%A7%C3%A3o-de-Zambelli-e-Malafaia)
+- [‘Quebra de promessas neoliberais alavancou extrema direita’](https://www.nexojornal.com.br/entrevista/2022/12/01/%E2%80%98Quebra-de-promessas-neoliberais-alavancou-extrema-direita%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
