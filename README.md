@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Coração É um Caçador Solitário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-coracao-e-um-cacador-solitario/)
 - [O novo romance de Luiz Ruffato](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-romance-de-luiz-ruffato/)
 - [O novo som de Weyes Blood](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-som-de-weyes-blood/)
 - [O magnetismo de “Wandinha”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-magnetismo-de-wandinha-na-netflix/)
 - [Festival ZUM presencial com Maxwell Alexandre e outros](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-zum-presencial-com-maxwell-alexandre-e-outros/)
-- [A linguagem kaiowá traduzida para o português](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-linguagem-kaiowa-traduzida-para-o-portugues/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
