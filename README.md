@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Espanha vê onda de cartas-bomba, mas desativa dispositivos](https://www.nexojornal.com.br/extra/2022/12/01/Espanha-v%C3%AA-onda-de-cartas-bomba-mas-desativa-dispositivos)
-- [Como os EUA tratam os trumpistas que invadiram o Capitólio](https://www.nexojornal.com.br/expresso/2022/12/01/Como-os-EUA-tratam-os-trumpistas-que-invadiram-o-Capit%C3%B3lio)
-- [PIB sobe 0,4% no terceiro trimestre e bate recorde histórico](https://www.nexojornal.com.br/extra/2022/12/01/PIB-sobe-04-no-terceiro-trimestre-e-bate-recorde-hist%C3%B3rico)
-- [Bolsonaro suspende orçamento secreto após acordo Lula-Lira](https://www.nexojornal.com.br/extra/2022/12/01/Bolsonaro-suspende-or%C3%A7amento-secreto-ap%C3%B3s-acordo-Lula-Lira)
-- [‘Crise de 2008 foi gerada pelo próprio sistema capitalista’](https://www.nexojornal.com.br/entrevista/2022/11/30/%E2%80%98Crise-de-2008-foi-gerada-pelo-pr%C3%B3prio-sistema-capitalista%E2%80%99)
+- [O que é o ‘Nobel Alternativo’. E quais os premiados em 2022](https://www.nexojornal.com.br/expresso/2022/12/01/O-que-%C3%A9-o-%E2%80%98Nobel-Alternativo%E2%80%99.-E-quais-os-premiados-em-2022)
+- [A prevenção a desastres naturais em segundo plano no Brasil](https://www.nexojornal.com.br/expresso/2022/12/01/A-preven%C3%A7%C3%A3o-a-desastres-naturais-em-segundo-plano-no-Brasil)
+- [Desde o penta, churrasco ficou mais caro e televisão, mais barata](https://www.nexojornal.com.br/grafico/2022/12/01/Desde-o-penta-churrasco-ficou-mais-caro-e-televis%C3%A3o-mais-barata)
+- [Deputados pedem investigação de Zambelli e Malafaia](https://www.nexojornal.com.br/extra/2022/12/01/Deputados-pedem-investiga%C3%A7%C3%A3o-de-Zambelli-e-Malafaia)
+- [‘Quebra de promessas neoliberais alavancou extrema direita’](https://www.nexojornal.com.br/entrevista/2022/12/01/%E2%80%98Quebra-de-promessas-neoliberais-alavancou-extrema-direita%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
