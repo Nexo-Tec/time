@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A longa trajetória e os desafios do Brasil para regulamentar o lobby](https://www.nexojornal.com.br/expresso/2022/12/02/A-longa-trajet%C3%B3ria-e-os-desafios-do-Brasil-para-regulamentar-o-lobby)
-- [‘Uma oportunidade histórica foi jogada fora em junho de 2013’](https://www.nexojornal.com.br/entrevista/2022/12/02/%E2%80%98Uma-oportunidade-hist%C3%B3rica-foi-jogada-fora-em-junho-de-2013%E2%80%99)
-- [Quais os cuidados e normas éticas de pesquisas com animais](https://www.nexojornal.com.br/externo/2022/12/02/Quais-os-cuidados-e-normas-%C3%A9ticas-de-pesquisas-com-animais)
 - [São Paulo suspende pregão de sistema de reconhecimento facial](https://www.nexojornal.com.br/extra/2022/12/02/S%C3%A3o-Paulo-suspende-preg%C3%A3o-de-sistema-de-reconhecimento-facial)
 - [‘Cartas da África’: correspondências de um Brasil em transição](https://www.nexojornal.com.br/estante/trechos/2022/12/02/%E2%80%98Cartas-da-%C3%81frica%E2%80%99-correspond%C3%AAncias-de-um-Brasil-em-transi%C3%A7%C3%A3o)
+- [A representatividade indígena nas HQs da CCXP 2022](https://www.nexojornal.com.br/expresso/2022/12/02/A-representatividade-ind%C3%ADgena-nas-HQs-da-CCXP-2022)
+- [O apoio do PT a Lira. O desmatamento na Amazônia. E mais](https://www.nexojornal.com.br/video/extrato/O-apoio-do-PT-a-Lira.-O-desmatamento-na-Amaz%C3%B4nia.-E-mais)
+- [A ilha espanhola usada para simular missões à Lua](https://www.nexojornal.com.br/expresso/2022/12/02/A-ilha-espanhola-usada-para-simular-miss%C3%B5es-%C3%A0-Lua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
