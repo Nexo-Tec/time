@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [São Paulo suspende pregão de sistema de reconhecimento facial](https://www.nexojornal.com.br/extra/2022/12/02/S%C3%A3o-Paulo-suspende-preg%C3%A3o-de-sistema-de-reconhecimento-facial)
-- [‘Cartas da África’: correspondências de um Brasil em transição](https://www.nexojornal.com.br/estante/trechos/2022/12/02/%E2%80%98Cartas-da-%C3%81frica%E2%80%99-correspond%C3%AAncias-de-um-Brasil-em-transi%C3%A7%C3%A3o)
-- [A representatividade indígena nas HQs da CCXP 2022](https://www.nexojornal.com.br/expresso/2022/12/02/A-representatividade-ind%C3%ADgena-nas-HQs-da-CCXP-2022)
-- [O apoio do PT a Lira. O desmatamento na Amazônia. E mais](https://www.nexojornal.com.br/video/extrato/O-apoio-do-PT-a-Lira.-O-desmatamento-na-Amaz%C3%B4nia.-E-mais)
-- [A ilha espanhola usada para simular missões à Lua](https://www.nexojornal.com.br/expresso/2022/12/02/A-ilha-espanhola-usada-para-simular-miss%C3%B5es-%C3%A0-Lua)
+- [O que é o ‘Nobel Alternativo’. E quais os premiados em 2022](https://www.nexojornal.com.br/expresso/2022/12/01/O-que-%C3%A9-o-%E2%80%98Nobel-Alternativo%E2%80%99.-E-quais-os-premiados-em-2022)
+- [A prevenção a desastres naturais em segundo plano no Brasil](https://www.nexojornal.com.br/expresso/2022/12/01/A-preven%C3%A7%C3%A3o-a-desastres-naturais-em-segundo-plano-no-Brasil)
+- [Desde o penta, churrasco ficou mais caro e televisão, mais barata](https://www.nexojornal.com.br/grafico/2022/12/01/Desde-o-penta-churrasco-ficou-mais-caro-e-televis%C3%A3o-mais-barata)
+- [Deputados pedem investigação de Zambelli e Malafaia](https://www.nexojornal.com.br/extra/2022/12/01/Deputados-pedem-investiga%C3%A7%C3%A3o-de-Zambelli-e-Malafaia)
+- [‘Quebra de promessas neoliberais alavancou extrema direita’](https://www.nexojornal.com.br/entrevista/2022/12/01/%E2%80%98Quebra-de-promessas-neoliberais-alavancou-extrema-direita%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
