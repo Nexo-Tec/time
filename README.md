@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A longa trajetória e os desafios do Brasil para regulamentar o lobby](https://www.nexojornal.com.br/expresso/2022/12/02/A-longa-trajet%C3%B3ria-e-os-desafios-do-Brasil-para-regulamentar-o-lobby)
-- [‘Uma oportunidade histórica foi jogada fora em junho de 2013’](https://www.nexojornal.com.br/entrevista/2022/12/02/%E2%80%98Uma-oportunidade-hist%C3%B3rica-foi-jogada-fora-em-junho-de-2013%E2%80%99)
-- [Quais os cuidados e normas éticas de pesquisas com animais](https://www.nexojornal.com.br/externo/2022/12/02/Quais-os-cuidados-e-normas-%C3%A9ticas-de-pesquisas-com-animais)
-- [São Paulo suspende pregão de sistema de reconhecimento facial](https://www.nexojornal.com.br/extra/2022/12/02/S%C3%A3o-Paulo-suspende-preg%C3%A3o-de-sistema-de-reconhecimento-facial)
-- [‘Cartas da África’: correspondências de um Brasil em transição](https://www.nexojornal.com.br/estante/trechos/2022/12/02/%E2%80%98Cartas-da-%C3%81frica%E2%80%99-correspond%C3%AAncias-de-um-Brasil-em-transi%C3%A7%C3%A3o)
+- [Putin aceita dialogar com Biden, mas recusa tirar tropas da Ucrânia](https://www.nexojornal.com.br/extra/2022/12/02/Putin-aceita-dialogar-com-Biden-mas-recusa-tirar-tropas-da-Ucr%C3%A2nia)
+- [Lula diz que só vai anunciar ministros depois da diplomação](https://www.nexojornal.com.br/extra/2022/12/02/Lula-diz-que-s%C3%B3-vai-anunciar-ministros-depois-da-diploma%C3%A7%C3%A3o)
+- [Pobreza tem aumento recorde e atinge 62,5 milhões em 2021](https://www.nexojornal.com.br/extra/2022/12/02/Pobreza-tem-aumento-recorde-e-atinge-625-milh%C3%B5es-em-2021)
+- [Twitter suspende conta de Kanye West por incitar violência](https://www.nexojornal.com.br/extra/2022/12/02/Twitter-suspende-conta-de-Kanye-West-por-incitar-viol%C3%AAncia)
+- [Weber libera e STF pode julgar orçamento secreto ainda em 2022](https://www.nexojornal.com.br/extra/2022/12/02/Weber-libera-e-STF-pode-julgar-or%C3%A7amento-secreto-ainda-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
