@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A longa trajetória e os desafios do Brasil para regulamentar o lobby](https://www.nexojornal.com.br/expresso/2022/12/02/A-longa-trajet%C3%B3ria-e-os-desafios-do-Brasil-para-regulamentar-o-lobby)
-- [‘Uma oportunidade histórica foi jogada fora em junho de 2013’](https://www.nexojornal.com.br/entrevista/2022/12/02/%E2%80%98Uma-oportunidade-hist%C3%B3rica-foi-jogada-fora-em-junho-de-2013%E2%80%99)
-- [Quais os cuidados e normas éticas de pesquisas com animais](https://www.nexojornal.com.br/externo/2022/12/02/Quais-os-cuidados-e-normas-%C3%A9ticas-de-pesquisas-com-animais)
-- [São Paulo suspende pregão de sistema de reconhecimento facial](https://www.nexojornal.com.br/extra/2022/12/02/S%C3%A3o-Paulo-suspende-preg%C3%A3o-de-sistema-de-reconhecimento-facial)
-- [‘Cartas da África’: correspondências de um Brasil em transição](https://www.nexojornal.com.br/estante/trechos/2022/12/02/%E2%80%98Cartas-da-%C3%81frica%E2%80%99-correspond%C3%AAncias-de-um-Brasil-em-transi%C3%A7%C3%A3o)
+- [China flexibiliza política de covid zero em Pequim e Shenzhen](https://www.nexojornal.com.br/extra/2022/12/03/China-flexibiliza-pol%C3%ADtica-de-covid-zero-em-Pequim-e-Shenzhen)
+- [Por que os oceanos estão mais ácidos. E quais os efeitos disso](https://www.nexojornal.com.br/expresso/2022/12/03/Por-que-os-oceanos-est%C3%A3o-mais-%C3%A1cidos.-E-quais-os-efeitos-disso)
+- [O acervo digital das bandas de rock dos anos 1960](https://www.nexojornal.com.br/expresso/2022/12/03/O-acervo-digital-das-bandas-de-rock-dos-anos-1960)
+- [O dia em que o Senado foi palco de uma audiência golpista](https://www.nexojornal.com.br/externo/2022/12/03/O-dia-em-que-o-Senado-foi-palco-de-uma-audi%C3%AAncia-golpista)
+- [5 livros de ficção e não ficção para refletir sobre a crise ecológica](https://www.nexojornal.com.br/estante/favoritos/2022/12/03/5-livros-de-fic%C3%A7%C3%A3o-e-n%C3%A3o-fic%C3%A7%C3%A3o-para-refletir-sobre-a-crise-ecol%C3%B3gica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
