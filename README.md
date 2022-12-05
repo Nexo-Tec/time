@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [China flexibiliza política de covid zero em Pequim e Shenzhen](https://www.nexojornal.com.br/extra/2022/12/03/China-flexibiliza-pol%C3%ADtica-de-covid-zero-em-Pequim-e-Shenzhen)
-- [Por que os oceanos estão mais ácidos. E quais os efeitos disso](https://www.nexojornal.com.br/expresso/2022/12/03/Por-que-os-oceanos-est%C3%A3o-mais-%C3%A1cidos.-E-quais-os-efeitos-disso)
-- [O acervo digital das bandas de rock dos anos 1960](https://www.nexojornal.com.br/expresso/2022/12/03/O-acervo-digital-das-bandas-de-rock-dos-anos-1960)
-- [O dia em que o Senado foi palco de uma audiência golpista](https://www.nexojornal.com.br/externo/2022/12/03/O-dia-em-que-o-Senado-foi-palco-de-uma-audi%C3%AAncia-golpista)
-- [5 livros de ficção e não ficção para refletir sobre a crise ecológica](https://www.nexojornal.com.br/estante/favoritos/2022/12/03/5-livros-de-fic%C3%A7%C3%A3o-e-n%C3%A3o-fic%C3%A7%C3%A3o-para-refletir-sobre-a-crise-ecol%C3%B3gica)
+- [Museus brasileiros recriam propostas curatoriais](https://www.nexojornal.com.br/externo/2022/12/04/Museus-brasileiros-recriam-propostas-curatoriais)
+- [O papel vital da alimentação escolar para crianças brasileiras](https://www.nexojornal.com.br/expresso/2022/12/04/O-papel-vital-da-alimenta%C3%A7%C3%A3o-escolar-para-crian%C3%A7as-brasileiras)
+- [‘O que ganhou no Brasil foi um discurso pseudoliberal’](https://www.nexojornal.com.br/entrevista/2022/12/04/%E2%80%98O-que-ganhou-no-Brasil-foi-um-discurso-pseudoliberal%E2%80%99)
+- [Testemunhas do horror em um dia de operação policial](https://www.nexojornal.com.br/ensaio/2022/12/04/Testemunhas-do-horror-em-um-dia-de-opera%C3%A7%C3%A3o-policial)
+- [ES: chuvas intensas deixam mais de 4.000 fora de casa](https://www.nexojornal.com.br/extra/2022/12/04/ES-chuvas-intensas-deixam-mais-de-4.000-fora-de-casa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
