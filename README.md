@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O ataque à estátua de Mãe Stella de Oxóssi e a escalada intolerante](https://www.nexojornal.com.br/expresso/2022/12/05/O-ataque-%C3%A0-est%C3%A1tua-de-M%C3%A3e-Stella-de-Ox%C3%B3ssi-e-a-escalada-intolerante)
-- [‘Centro-direita tem dificuldade de achar discurso coerente’](https://www.nexojornal.com.br/entrevista/2022/12/05/%E2%80%98Centro-direita-tem-dificuldade-de-achar-discurso-coerente%E2%80%99)
-- [Como Colleen Hoover virou um fenômeno editorial em 2022](https://www.nexojornal.com.br/expresso/2022/12/05/Como-Colleen-Hoover-virou-um-fen%C3%B4meno-editorial-em-2022)
-- [Pelé é homenageado em jogo do Brasil contra Coreia do Sul](https://www.nexojornal.com.br/extra/2022/12/05/Pel%C3%A9-%C3%A9-homenageado-em-jogo-do-Brasil-contra-Coreia-do-Sul)
-- [Imagens e senso comum: a violência na representação](https://www.nexojornal.com.br/colunistas/2022/Imagens-e-senso-comum-a-viol%C3%AAncia-na-representa%C3%A7%C3%A3o)
+- [Museus brasileiros recriam propostas curatoriais](https://www.nexojornal.com.br/externo/2022/12/04/Museus-brasileiros-recriam-propostas-curatoriais)
+- [O papel vital da alimentação escolar para crianças brasileiras](https://www.nexojornal.com.br/expresso/2022/12/04/O-papel-vital-da-alimenta%C3%A7%C3%A3o-escolar-para-crian%C3%A7as-brasileiras)
+- [‘O que ganhou no Brasil foi um discurso pseudoliberal’](https://www.nexojornal.com.br/entrevista/2022/12/04/%E2%80%98O-que-ganhou-no-Brasil-foi-um-discurso-pseudoliberal%E2%80%99)
+- [Testemunhas do horror em um dia de operação policial](https://www.nexojornal.com.br/ensaio/2022/12/04/Testemunhas-do-horror-em-um-dia-de-opera%C3%A7%C3%A3o-policial)
+- [ES: chuvas intensas deixam mais de 4.000 fora de casa](https://www.nexojornal.com.br/extra/2022/12/04/ES-chuvas-intensas-deixam-mais-de-4.000-fora-de-casa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
