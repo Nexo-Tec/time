@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Crime branco, mão negra: o racismo e o despreparo da imprensa ao lidar com o ataque a tiros em duas escolas em Aracruz](https://pp.nexojornal.com.br/opiniao/2022/Crime-branco-m%C3%A3o-negra-o-racismo-e-o-despreparo-da-imprensa-ao-lidar-com-o-ataque-a-tiros-em-duas-escolas-em-Aracruz)
 - [5 romances para entender o Haiti](https://pp.nexojornal.com.br/bibliografia-basica/2022/12/02/5-romances-para-entender-o-Haiti)
 - [Virando o jogo: do desmatamento à restauração em larga escala na Amazônia](https://pp.nexojornal.com.br/opiniao/2022/Virando-o-jogo-do-desmatamento-%C3%A0-restaura%C3%A7%C3%A3o-em-larga-escala-na-Amaz%C3%B4nia)
 - [André Sawakuchi: a origem da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2022/11/29/Andr%C3%A9-Sawakuchi-a-origem-da-Amaz%C3%B4nia)
 - [Como conservar melhor a Amazônia? Perguntas abertas para avaliações](https://pp.nexojornal.com.br/topico/2022/11/29/Como-conservar-melhor-a-Amaz%C3%B4nia-Perguntas-abertas-para-avalia%C3%A7%C3%B5es)
+- [Aborto legal em disputa: tentativas de ampliação e restrição do direito nos últimos 20 anos](https://pp.nexojornal.com.br/linha-do-tempo/2022/Aborto-legal-em-disputa-tentativas-de-amplia%C3%A7%C3%A3o-e-restri%C3%A7%C3%A3o-do-direito-nos-%C3%BAltimos-20-anos)
 <!-- PP_LIST:END -->
 
