@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Revista Time elege Zelensky como pessoa do ano de 2022](https://www.nexojornal.com.br/extra/2022/12/07/Revista-Time-elege-Zelensky-como-pessoa-do-ano-de-20221)
-- [O número de gols feitos por seleção em cada Copa do Mundo](https://www.nexojornal.com.br/grafico/2022/12/07/O-n%C3%BAmero-de-gols-feitos-por-sele%C3%A7%C3%A3o-em-cada-Copa-do-Mundo)
-- [Castillo anuncia governo de exceção no Peru e acaba preso](https://www.nexojornal.com.br/extra/2022/12/07/Castillo-anuncia-governo-de-exce%C3%A7%C3%A3o-no-Peru-e-acaba-preso)
-- [PF prende empresário que chamou atiradores para atos golpistas](https://www.nexojornal.com.br/extra/2022/12/07/PF-prende-empres%C3%A1rio-que-chamou-atiradores-para-atos-golpistas)
-- [Democrata é eleito na Geórgia e dá a Biden maioria no Senado](https://www.nexojornal.com.br/extra/2022/12/07/Democrata-%C3%A9-eleito-na-Ge%C3%B3rgia-e-d%C3%A1-a-Biden-maioria-no-Senado)
+- [Operação na Alemanha prende 25 suspeitos de planejar golpe de Estado](https://www.nexojornal.com.br/extra/2022/12/07/Opera%C3%A7%C3%A3o-na-Alemanha-prende-25-suspeitos-de-planejar-golpe-de-Estado)
+- [As 8 seleções classificadas para as quartas da Copa](https://www.nexojornal.com.br/expresso/2022/12/06/As-8-sele%C3%A7%C3%B5es-classificadas-para-as-quartas-da-Copa)
+- [Qual a importância da COP da biodiversidade da ONU](https://www.nexojornal.com.br/expresso/2022/12/06/Qual-a-import%C3%A2ncia-da-COP-da-biodiversidade-da-ONU)
+- [Publicação de prestígio: uma figurinha dourada em seu currículo](https://www.nexojornal.com.br/colunistas/2022/Publica%C3%A7%C3%A3o-de-prest%C3%ADgio-uma-figurinha-dourada-em-seu-curr%C3%ADculo)
+- [‘Desigualdades econômica e política se retroalimentam’](https://www.nexojornal.com.br/entrevista/2022/12/06/%E2%80%98Desigualdades-econ%C3%B4mica-e-pol%C3%ADtica-se-retroalimentam%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
