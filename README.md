@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As 8 seleções classificadas para as quartas da Copa](https://www.nexojornal.com.br/expresso/2022/12/06/As-8-sele%C3%A7%C3%B5es-classificadas-para-as-quartas-da-Copa)
-- [Qual a importância da COP da biodiversidade da ONU](https://www.nexojornal.com.br/expresso/2022/12/06/Qual-a-import%C3%A2ncia-da-COP-da-biodiversidade-da-ONU)
-- [Publicação de prestígio: uma figurinha dourada em seu currículo](https://www.nexojornal.com.br/colunistas/2022/Publica%C3%A7%C3%A3o-de-prest%C3%ADgio-uma-figurinha-dourada-em-seu-curr%C3%ADculo)
-- [‘Desigualdades econômica e política se retroalimentam’](https://www.nexojornal.com.br/entrevista/2022/12/06/%E2%80%98Desigualdades-econ%C3%B4mica-e-pol%C3%ADtica-se-retroalimentam%E2%80%99)
-- [Os supermercados como palco de horror e racismo](https://www.nexojornal.com.br/podcast/2022/12/06/Os-supermercados-como-palco-de-horror-e-racismo)
+- [União Europeia concorda com projeto antidesmatamento](https://www.nexojornal.com.br/extra/2022/12/06/Uni%C3%A3o-Europeia-concorda-com-projeto-antidesmatamento)
+- [Atualização da bandeira LGBTI+ é oficializada no Brasil](https://www.nexojornal.com.br/extra/2022/12/06/Atualiza%C3%A7%C3%A3o-da-bandeira-LGBTI-%C3%A9-oficializada-no-Brasil)
+- [Como recuperar a aprendizagem de alunos com deficiência](https://www.nexojornal.com.br/expresso/2022/12/06/Como-recuperar-a-aprendizagem-de-alunos-com-defici%C3%AAncia)
+- [Petrobras reduz preço do diesel e da gasolina nas refinarias](https://www.nexojornal.com.br/extra/2022/12/06/Petrobras-reduz-pre%C3%A7o-do-diesel-e-da-gasolina-nas-refinarias)
+- [Dancinha da seleção mobiliza comentaristas ingleses](https://www.nexojornal.com.br/extra/2022/12/06/Dancinha-da-sele%C3%A7%C3%A3o-mobiliza-comentaristas-ingleses)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
