@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Oito obras de artes visuais que falam sobre o Brasil de 2022](https://gamarevista.uol.com.br/cultura/oito-obras-de-artes-visuais-que-falam-sobre-o-brasil-de-2022/)
 - [Como ser mais paciente](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-ser-mais-paciente/)
 - [@olucascarpelli](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/olucascarpelli/)
 - [Bia Granja: ‘Os influencers devem ser menos artistas e mais empresários’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bia-granja-fala-sobre-o-futuro-das-redes-sociais/)
 - [O Coração É um Caçador Solitário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-coracao-e-um-cacador-solitario/)
-- [O novo romance de Luiz Ruffato](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-romance-de-luiz-ruffato/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
