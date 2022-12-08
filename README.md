@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Revista Time elege Zelensky como pessoa do ano de 2022](https://www.nexojornal.com.br/extra/2022/12/07/Revista-Time-elege-Zelensky-como-pessoa-do-ano-de-20221)
-- [O número de gols feitos por seleção em cada Copa do Mundo](https://www.nexojornal.com.br/grafico/2022/12/07/O-n%C3%BAmero-de-gols-feitos-por-sele%C3%A7%C3%A3o-em-cada-Copa-do-Mundo)
-- [Castillo anuncia governo de exceção no Peru e acaba preso](https://www.nexojornal.com.br/extra/2022/12/07/Castillo-anuncia-governo-de-exce%C3%A7%C3%A3o-no-Peru-e-acaba-preso)
-- [PF prende empresário que chamou atiradores para atos golpistas](https://www.nexojornal.com.br/extra/2022/12/07/PF-prende-empres%C3%A1rio-que-chamou-atiradores-para-atos-golpistas)
-- [Democrata é eleito na Geórgia e dá a Biden maioria no Senado](https://www.nexojornal.com.br/extra/2022/12/07/Democrata-%C3%A9-eleito-na-Ge%C3%B3rgia-e-d%C3%A1-a-Biden-maioria-no-Senado)
+- [PEC da Transição é aprovada no Senado em dois turnos](https://www.nexojornal.com.br/extra/2022/12/08/PEC-da-Transi%C3%A7%C3%A3o-%C3%A9-aprovada-no-Senado-em-dois-turnos)
+- [Moraes afasta prefeito de cidade de Mato Grosso por golpismo](https://www.nexojornal.com.br/extra/2022/12/07/Moraes-afasta-prefeito-de-cidade-de-Mato-Grosso-por-golpismo)
+- [O mercado tem ideologia?](https://www.nexojornal.com.br/colunistas/2022/O-mercado-tem-ideologia)
+- [O recuo da China na política de covid zero após os protestos](https://www.nexojornal.com.br/podcast/2022/12/07/O-recuo-da-China-na-pol%C3%ADtica-de-covid-zero-ap%C3%B3s-os-protestos)
+- [Banco Central encerra 2022 com Selic a 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/12/07/Banco-Central-encerra-2022-com-Selic-a-1375-ao-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
