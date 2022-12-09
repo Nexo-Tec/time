@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vereador que beijou colega à força em SC será investigado](https://www.nexojornal.com.br/extra/2022/12/08/Vereador-que-beijou-colega-%C3%A0-for%C3%A7a-em-SC-ser%C3%A1-investigado)
-- [Irã executa 1º manifestante ligado ao caso Mahsa Amini](https://www.nexojornal.com.br/extra/2022/12/08/Ir%C3%A3-executa-1%C2%BA-manifestante-ligado-ao-caso-Mahsa-Amini)
-- [Musk transforma escritório do Twitter em ‘hotel’ para funcionários](https://www.nexojornal.com.br/extra/2022/12/08/Musk-transforma-escrit%C3%B3rio-do-Twitter-em-%E2%80%98hotel%E2%80%99-para-funcion%C3%A1rios)
-- [Como é a relação dos quilombolas com os seus territórios](https://www.nexojornal.com.br/academico/2022/12/08/Como-%C3%A9-a-rela%C3%A7%C3%A3o-dos-quilombolas-com-os-seus-territ%C3%B3rios)
-- [Jogadora de basquete dos EUA é libertada de prisão russa](https://www.nexojornal.com.br/extra/2022/12/08/Jogadora-de-basquete-dos-EUA-%C3%A9-libertada-de-pris%C3%A3o-russa)
+- [PEC da Transição é aprovada no Senado em dois turnos](https://www.nexojornal.com.br/extra/2022/12/08/PEC-da-Transi%C3%A7%C3%A3o-%C3%A9-aprovada-no-Senado-em-dois-turnos)
+- [Moraes afasta prefeito de cidade de Mato Grosso por golpismo](https://www.nexojornal.com.br/extra/2022/12/07/Moraes-afasta-prefeito-de-cidade-de-Mato-Grosso-por-golpismo)
+- [O mercado tem ideologia?](https://www.nexojornal.com.br/colunistas/2022/O-mercado-tem-ideologia)
+- [O recuo da China na política de covid zero após os protestos](https://www.nexojornal.com.br/podcast/2022/12/07/O-recuo-da-China-na-pol%C3%ADtica-de-covid-zero-ap%C3%B3s-os-protestos)
+- [Banco Central encerra 2022 com Selic a 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/12/07/Banco-Central-encerra-2022-com-Selic-a-1375-ao-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
