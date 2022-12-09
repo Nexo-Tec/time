@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vereador que beijou colega à força em SC será investigado](https://www.nexojornal.com.br/extra/2022/12/08/Vereador-que-beijou-colega-%C3%A0-for%C3%A7a-em-SC-ser%C3%A1-investigado)
-- [Irã executa 1º manifestante ligado ao caso Mahsa Amini](https://www.nexojornal.com.br/extra/2022/12/08/Ir%C3%A3-executa-1%C2%BA-manifestante-ligado-ao-caso-Mahsa-Amini)
-- [Musk transforma escritório do Twitter em ‘hotel’ para funcionários](https://www.nexojornal.com.br/extra/2022/12/08/Musk-transforma-escrit%C3%B3rio-do-Twitter-em-%E2%80%98hotel%E2%80%99-para-funcion%C3%A1rios)
-- [Como é a relação dos quilombolas com os seus territórios](https://www.nexojornal.com.br/academico/2022/12/08/Como-%C3%A9-a-rela%C3%A7%C3%A3o-dos-quilombolas-com-os-seus-territ%C3%B3rios)
-- [Jogadora de basquete dos EUA é libertada de prisão russa](https://www.nexojornal.com.br/extra/2022/12/08/Jogadora-de-basquete-dos-EUA-%C3%A9-libertada-de-pris%C3%A3o-russa)
+- [‘Governo do PT foi ensanduichado à direita e à esquerda’](https://www.nexojornal.com.br/entrevista/2022/12/08/%E2%80%98Governo-do-PT-foi-ensanduichado-%C3%A0-direita-e-%C3%A0-esquerda%E2%80%99)
+- [O futuro &lpar;de hoje&rpar; não é mais como era antigamente](https://www.nexojornal.com.br/colunistas/2022/O-futuro-de-hoje-n%C3%A3o-%C3%A9-mais-como-era-antigamente)
+- [Moraes libera redes de bolsonaristas que questionaram urnas](https://www.nexojornal.com.br/extra/2022/12/08/Moraes-libera-redes-de-bolsonaristas-que-questionaram-urnas)
+- [Como o vaivém de verba da Capes joga incertezas sobre bolsistas](https://www.nexojornal.com.br/expresso/2022/12/08/Como-o-vaiv%C3%A9m-de-verba-da-Capes-joga-incertezas-sobre-bolsistas)
+- [Governo libera R$ 460 milhões para MEC pagar parte de despesas](https://www.nexojornal.com.br/extra/2022/12/08/Governo-libera-R-460-milh%C3%B5es-para-MEC-pagar-parte-de-despesas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
