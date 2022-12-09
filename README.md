@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Governo do PT foi ensanduichado à direita e à esquerda’](https://www.nexojornal.com.br/entrevista/2022/12/08/%E2%80%98Governo-do-PT-foi-ensanduichado-%C3%A0-direita-e-%C3%A0-esquerda%E2%80%99)
-- [O futuro &lpar;de hoje&rpar; não é mais como era antigamente](https://www.nexojornal.com.br/colunistas/2022/O-futuro-de-hoje-n%C3%A3o-%C3%A9-mais-como-era-antigamente)
-- [Moraes libera redes de bolsonaristas que questionaram urnas](https://www.nexojornal.com.br/extra/2022/12/08/Moraes-libera-redes-de-bolsonaristas-que-questionaram-urnas)
-- [Como o vaivém de verba da Capes joga incertezas sobre bolsistas](https://www.nexojornal.com.br/expresso/2022/12/08/Como-o-vaiv%C3%A9m-de-verba-da-Capes-joga-incertezas-sobre-bolsistas)
-- [Governo libera R$ 460 milhões para MEC pagar parte de despesas](https://www.nexojornal.com.br/extra/2022/12/08/Governo-libera-R-460-milh%C3%B5es-para-MEC-pagar-parte-de-despesas)
+- [PEC da Transição é aprovada no Senado em dois turnos](https://www.nexojornal.com.br/extra/2022/12/08/PEC-da-Transi%C3%A7%C3%A3o-%C3%A9-aprovada-no-Senado-em-dois-turnos)
+- [Moraes afasta prefeito de cidade de Mato Grosso por golpismo](https://www.nexojornal.com.br/extra/2022/12/07/Moraes-afasta-prefeito-de-cidade-de-Mato-Grosso-por-golpismo)
+- [O mercado tem ideologia?](https://www.nexojornal.com.br/colunistas/2022/O-mercado-tem-ideologia)
+- [O recuo da China na política de covid zero após os protestos](https://www.nexojornal.com.br/podcast/2022/12/07/O-recuo-da-China-na-pol%C3%ADtica-de-covid-zero-ap%C3%B3s-os-protestos)
+- [Banco Central encerra 2022 com Selic a 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/12/07/Banco-Central-encerra-2022-com-Selic-a-1375-ao-ano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
