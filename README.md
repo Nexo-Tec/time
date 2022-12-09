@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PEC da Transição é aprovada no Senado em dois turnos](https://www.nexojornal.com.br/extra/2022/12/08/PEC-da-Transi%C3%A7%C3%A3o-%C3%A9-aprovada-no-Senado-em-dois-turnos)
-- [Moraes afasta prefeito de cidade de Mato Grosso por golpismo](https://www.nexojornal.com.br/extra/2022/12/07/Moraes-afasta-prefeito-de-cidade-de-Mato-Grosso-por-golpismo)
-- [O mercado tem ideologia?](https://www.nexojornal.com.br/colunistas/2022/O-mercado-tem-ideologia)
-- [O recuo da China na política de covid zero após os protestos](https://www.nexojornal.com.br/podcast/2022/12/07/O-recuo-da-China-na-pol%C3%ADtica-de-covid-zero-ap%C3%B3s-os-protestos)
-- [Banco Central encerra 2022 com Selic a 13,75% ao ano](https://www.nexojornal.com.br/extra/2022/12/07/Banco-Central-encerra-2022-com-Selic-a-1375-ao-ano)
+- [Quem são os primeiros ministros anunciados por Lula](https://www.nexojornal.com.br/expresso/2022/12/09/Quem-s%C3%A3o-os-primeiros-ministros-anunciados-por-Lula)
+- [Inflação desacelera e fica em 0,41% em novembro](https://www.nexojornal.com.br/extra/2022/12/09/Infla%C3%A7%C3%A3o-desacelera-e-fica-em-041-em-novembro)
+- [Vitória da Arábia Saudita sobre Argentina foi maior ‘zebra’ da Copa](https://www.nexojornal.com.br/grafico/2022/12/09/Vit%C3%B3ria-da-Ar%C3%A1bia-Saudita-sobre-Argentina-foi-maior-%E2%80%98zebra%E2%80%99-da-Copa)
+- [‘Governo do PT foi ensanduichado à direita e à esquerda’](https://www.nexojornal.com.br/entrevista/2022/12/08/%E2%80%98Governo-do-PT-foi-ensanduichado-%C3%A0-direita-e-%C3%A0-esquerda%E2%80%99)
+- [O futuro &lpar;de hoje&rpar; não é mais como era antigamente](https://www.nexojornal.com.br/colunistas/2022/O-futuro-de-hoje-n%C3%A3o-%C3%A9-mais-como-era-antigamente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
