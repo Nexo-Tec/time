@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O desenho da relação entre Lula e Congresso na PEC da Transição](https://www.nexojornal.com.br/expresso/2022/12/09/O-desenho-da-rela%C3%A7%C3%A3o-entre-Lula-e-Congresso-na-PEC-da-Transi%C3%A7%C3%A3o)
-- [Padre é afastado após cerimônia com casais homoafetivos](https://www.nexojornal.com.br/extra/2022/12/09/Padre-%C3%A9-afastado-ap%C3%B3s-cerim%C3%B4nia-com-casais-homoafetivos)
-- [Artigos científicos cancelados continuam sendo citados por outros pesquisadores como se fossem válidos](https://www.nexojornal.com.br/externo/2022/12/09/Artigos-cient%C3%ADficos-cancelados-continuam-sendo-citados-por-outros-pesquisadores-como-se-fossem-v%C3%A1lidos)
-- [‘Para esquerda tradicional, ou você está junto ou é pessoa má’](https://www.nexojornal.com.br/entrevista/2022/12/09/%E2%80%98Para-esquerda-tradicional-ou-voc%C3%AA-est%C3%A1-junto-ou-%C3%A9-pessoa-m%C3%A1%E2%80%99)
-- [As nomeações iniciais de Lula. O Brasil fora da Copa. E mais](https://www.nexojornal.com.br/video/extrato/As-nomea%C3%A7%C3%B5es-iniciais-de-Lula.-O-Brasil-fora-da-Copa.-E-mais)
+- [Quem são os primeiros ministros anunciados por Lula](https://www.nexojornal.com.br/expresso/2022/12/09/Quem-s%C3%A3o-os-primeiros-ministros-anunciados-por-Lula)
+- [Inflação desacelera e fica em 0,41% em novembro](https://www.nexojornal.com.br/extra/2022/12/09/Infla%C3%A7%C3%A3o-desacelera-e-fica-em-041-em-novembro)
+- [Vitória da Arábia Saudita sobre Argentina foi maior ‘zebra’ da Copa](https://www.nexojornal.com.br/grafico/2022/12/09/Vit%C3%B3ria-da-Ar%C3%A1bia-Saudita-sobre-Argentina-foi-maior-%E2%80%98zebra%E2%80%99-da-Copa)
+- [‘Governo do PT foi ensanduichado à direita e à esquerda’](https://www.nexojornal.com.br/entrevista/2022/12/08/%E2%80%98Governo-do-PT-foi-ensanduichado-%C3%A0-direita-e-%C3%A0-esquerda%E2%80%99)
+- [O futuro &lpar;de hoje&rpar; não é mais como era antigamente](https://www.nexojornal.com.br/colunistas/2022/O-futuro-de-hoje-n%C3%A3o-%C3%A9-mais-como-era-antigamente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
