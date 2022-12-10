@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem são os primeiros ministros anunciados por Lula](https://www.nexojornal.com.br/expresso/2022/12/09/Quem-s%C3%A3o-os-primeiros-ministros-anunciados-por-Lula)
-- [Inflação desacelera e fica em 0,41% em novembro](https://www.nexojornal.com.br/extra/2022/12/09/Infla%C3%A7%C3%A3o-desacelera-e-fica-em-041-em-novembro)
-- [Vitória da Arábia Saudita sobre Argentina foi maior ‘zebra’ da Copa](https://www.nexojornal.com.br/grafico/2022/12/09/Vit%C3%B3ria-da-Ar%C3%A1bia-Saudita-sobre-Argentina-foi-maior-%E2%80%98zebra%E2%80%99-da-Copa)
 - [‘Governo do PT foi ensanduichado à direita e à esquerda’](https://www.nexojornal.com.br/entrevista/2022/12/08/%E2%80%98Governo-do-PT-foi-ensanduichado-%C3%A0-direita-e-%C3%A0-esquerda%E2%80%99)
 - [O futuro &lpar;de hoje&rpar; não é mais como era antigamente](https://www.nexojornal.com.br/colunistas/2022/O-futuro-de-hoje-n%C3%A3o-%C3%A9-mais-como-era-antigamente)
+- [Moraes libera redes de bolsonaristas que questionaram urnas](https://www.nexojornal.com.br/extra/2022/12/08/Moraes-libera-redes-de-bolsonaristas-que-questionaram-urnas)
+- [Como o vaivém de verba da Capes joga incertezas sobre bolsistas](https://www.nexojornal.com.br/expresso/2022/12/08/Como-o-vaiv%C3%A9m-de-verba-da-Capes-joga-incertezas-sobre-bolsistas)
+- [Governo libera R$ 460 milhões para MEC pagar parte de despesas](https://www.nexojornal.com.br/extra/2022/12/08/Governo-libera-R-460-milh%C3%B5es-para-MEC-pagar-parte-de-despesas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
