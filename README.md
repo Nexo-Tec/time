@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Maria Ribeiro: “Chego para as pessoas e falo ‘quero ser sua amiga&#39;”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-ribeiro/)
 - [Rainhas da Noite](https://gamarevista.uol.com.br/cultura/trecho-de-livro/rainhas-da-noite/)
 - [Somos mulheres negras](https://gamarevista.uol.com.br/colunistas/winnie-bueno/somos-mulheres-negras/)
 - [Os melhores álbuns de 2022 da Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-melhores-albuns-de-2022-da-pitchfork/)
 - [O novo livro de contos de Camila Sosa Villada](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-livro-de-contos-de-camila-sosa-villada/)
-- [“Ela Disse”, sobre o movimento MeToo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ela-disse-sobre-o-movimento-metoo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
