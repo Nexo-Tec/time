@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jornalista americano Grant Wahl morre no Qatar durante jogo](https://www.nexojornal.com.br/extra/2022/12/10/Jornalista-americano-Grant-Wahl-morre-no-Qatar-durante-jogo)
-- [O desenho da relação entre Lula e Congresso na PEC da Transição](https://www.nexojornal.com.br/expresso/2022/12/09/O-desenho-da-rela%C3%A7%C3%A3o-entre-Lula-e-Congresso-na-PEC-da-Transi%C3%A7%C3%A3o)
-- [Padre é afastado após cerimônia com casais homoafetivos](https://www.nexojornal.com.br/extra/2022/12/09/Padre-%C3%A9-afastado-ap%C3%B3s-cerim%C3%B4nia-com-casais-homoafetivos)
-- [Artigos científicos cancelados continuam sendo citados por outros pesquisadores como se fossem válidos](https://www.nexojornal.com.br/externo/2022/12/09/Artigos-cient%C3%ADficos-cancelados-continuam-sendo-citados-por-outros-pesquisadores-como-se-fossem-v%C3%A1lidos)
-- [‘Para esquerda tradicional, ou você está junto ou é pessoa má’](https://www.nexojornal.com.br/entrevista/2022/12/09/%E2%80%98Para-esquerda-tradicional-ou-voc%C3%AA-est%C3%A1-junto-ou-%C3%A9-pessoa-m%C3%A1%E2%80%99)
+- [Quais os 4 maiores erros ao dar presentes a alguém](https://www.nexojornal.com.br/externo/2022/12/10/Quais-os-4-maiores-erros-ao-dar-presentes-a-algu%C3%A9m)
+- [Como escolas podem lidar com casos de racismo entre alunos](https://www.nexojornal.com.br/expresso/2022/12/10/Como-escolas-podem-lidar-com-casos-de-racismo-entre-alunos)
+- [E se o filme ‘Argentina, 1985’ inspirasse o Brasil de 2023?](https://www.nexojornal.com.br/ensaio/2022/12/10/E-se-o-filme-%E2%80%98Argentina-1985%E2%80%99-inspirasse-o-Brasil-de-2023)
+- [‘Perfil digital virou protagonista de articulação política’](https://www.nexojornal.com.br/entrevista/2022/12/10/%E2%80%98Perfil-digital-virou-protagonista-de-articula%C3%A7%C3%A3o-pol%C3%ADtica%E2%80%99)
+- [O impacto para a governabilidade de mudar o orçamento secreto](https://www.nexojornal.com.br/expresso/2022/12/10/O-impacto-para-a-governabilidade-de-mudar-o-or%C3%A7amento-secreto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
