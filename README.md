@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Chinelo Nuvem](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chinelo-nuvem/)
 - [@haleyluhoo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/haleyluhoo/)
 - [Maria Ribeiro: “Chego para as pessoas e falo ‘quero ser sua amiga&#39;”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-ribeiro/)
 - [Rainhas da Noite](https://gamarevista.uol.com.br/cultura/trecho-de-livro/rainhas-da-noite/)
 - [Somos mulheres negras](https://gamarevista.uol.com.br/colunistas/winnie-bueno/somos-mulheres-negras/)
-- [Os melhores álbuns de 2022 da Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-melhores-albuns-de-2022-da-pitchfork/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
