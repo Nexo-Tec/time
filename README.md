@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro define salário mínimo de R$ 1.302 em 2023](https://www.nexojornal.com.br/extra/2022/12/12/Bolsonaro-define-sal%C3%A1rio-m%C3%ADnimo-de-R-1.302-em-2023)
-- [O que há de inovação nos efeitos visuais da sequência de ‘Avatar’](https://www.nexojornal.com.br/expresso/2022/12/12/O-que-h%C3%A1-de-inova%C3%A7%C3%A3o-nos-efeitos-visuais-da-sequ%C3%AAncia-de-%E2%80%98Avatar%E2%80%99)
-- [Padre Júlio Lancelotti quebra pedras ‘antipobres’ em São Paulo](https://www.nexojornal.com.br/extra/2022/12/12/Padre-J%C3%BAlio-Lancelotti-quebra-pedras-%E2%80%98antipobres%E2%80%99-em-S%C3%A3o-Paulo)
-- [‘Povo reconquistou direito de viver em democracia’, diz Lula](https://www.nexojornal.com.br/extra/2022/12/12/%E2%80%98Povo-reconquistou-direito-de-viver-em-democracia%E2%80%99-diz-Lula)
-- [Por que os filósofos desconfiam dos seus sentidos](https://www.nexojornal.com.br/ensaio/2022/12/12/Por-que-os-fil%C3%B3sofos-desconfiam-dos-seus-sentidos)
+- [Bolsonaristas tentam invadir sede da PF após prisão de indígena](https://www.nexojornal.com.br/extra/2022/12/12/Bolsonaristas-tentam-invadir-sede-da-PF-ap%C3%B3s-pris%C3%A3o-de-ind%C3%ADgena)
+- [‘Sucessão de eventos fez com que esquerda ficasse dizimada’](https://www.nexojornal.com.br/entrevista/2022/12/12/%E2%80%98Sucess%C3%A3o-de-eventos-fez-com-que-esquerda-ficasse-dizimada%E2%80%99)
+- [O retrospecto dos quatro semifinalistas da Copa de 2022](https://www.nexojornal.com.br/grafico/2022/12/12/O-retrospecto-dos-quatro-semifinalistas-da-Copa-de-2022)
+- [Quais as propostas para substituir o teto de gastos](https://www.nexojornal.com.br/expresso/2022/12/12/Quais-as-propostas-para-substituir-o-teto-de-gastos)
+- [CPI dos Aplicativos da Câmara paulistana aprova relatório](https://www.nexojornal.com.br/extra/2022/12/12/CPI-dos-Aplicativos-da-C%C3%A2mara-paulistana-aprova-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
