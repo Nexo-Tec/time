@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A importância da valorização das políticas de patrimônio para a população negra](https://pp.nexojornal.com.br/opiniao/2022/A-import%C3%A2ncia-da-valoriza%C3%A7%C3%A3o-das-pol%C3%ADticas-de-patrim%C3%B4nio-para-a-popula%C3%A7%C3%A3o-negra)
+- [O papel da avaliação na promoção da equidade](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-papel-da-avalia%C3%A7%C3%A3o-na-promo%C3%A7%C3%A3o-da-equidade)
 - [O que é justiça para as Mães de Acari](https://pp.nexojornal.com.br/academico/2022/O-que-%C3%A9-justi%C3%A7a-para-as-M%C3%A3es-de-Acari)
 - [Onde ficam as cidades no orçamento secreto?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Onde-ficam-as-cidades-no-or%C3%A7amento-secreto)
 - [Apontamentos sobre memória e a questão racial no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Apontamentos-sobre-mem%C3%B3ria-e-a-quest%C3%A3o-racial-no-Brasil)
-- [Cotas para negros e igualdade racial na UFSC](https://pp.nexojornal.com.br/opiniao/2022/Cotas-para-negros-e-igualdade-racial-na-UFSC)
-- [Crime branco, mão negra: o racismo e o despreparo da imprensa ao lidar com o ataque a tiros em duas escolas em Aracruz](https://pp.nexojornal.com.br/opiniao/2022/Crime-branco-m%C3%A3o-negra-o-racismo-e-o-despreparo-da-imprensa-ao-lidar-com-o-ataque-a-tiros-em-duas-escolas-em-Aracruz)
 <!-- PP_LIST:END -->
 
