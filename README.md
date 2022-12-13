@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual a dimensão da biodiversidade da região amazônica](https://www.nexojornal.com.br/expresso/2022/12/11/Qual-a-dimens%C3%A3o-da-biodiversidade-da-regi%C3%A3o-amaz%C3%B4nica)
-- [‘Em que páginas da sentença estão as provas contra o Lula?’](https://www.nexojornal.com.br/entrevista/2022/12/11/%E2%80%98Em-que-p%C3%A1ginas-da-senten%C3%A7a-est%C3%A3o-as-provas-contra-o-Lula%E2%80%99)
-- [O que é a diplomação de um presidente do Brasil](https://www.nexojornal.com.br/expresso/2022/12/11/O-que-%C3%A9-a-diploma%C3%A7%C3%A3o-de-um-presidente-do-Brasil)
-- [Bélgica acusa eurodeputada e mais 3 de corrupção no Qatar](https://www.nexojornal.com.br/extra/2022/12/11/B%C3%A9lgica-acusa-eurodeputada-e-mais-3-de-corrup%C3%A7%C3%A3o-no-Qatar)
-- [A plataforma que projeta ganhos de artistas musicais](https://www.nexojornal.com.br/expresso/2022/12/11/A-plataforma-que-projeta-ganhos-de-artistas-musicais)
+- [Bolsonaristas tentam invadir sede da PF após prisão de indígena](https://www.nexojornal.com.br/extra/2022/12/12/Bolsonaristas-tentam-invadir-sede-da-PF-ap%C3%B3s-pris%C3%A3o-de-ind%C3%ADgena)
+- [‘Sucessão de eventos fez com que esquerda ficasse dizimada’](https://www.nexojornal.com.br/entrevista/2022/12/12/%E2%80%98Sucess%C3%A3o-de-eventos-fez-com-que-esquerda-ficasse-dizimada%E2%80%99)
+- [O retrospecto dos quatro semifinalistas da Copa de 2022](https://www.nexojornal.com.br/grafico/2022/12/12/O-retrospecto-dos-quatro-semifinalistas-da-Copa-de-2022)
+- [Quais as propostas para substituir o teto de gastos](https://www.nexojornal.com.br/expresso/2022/12/12/Quais-as-propostas-para-substituir-o-teto-de-gastos)
+- [CPI dos Aplicativos da Câmara paulistana aprova relatório](https://www.nexojornal.com.br/extra/2022/12/12/CPI-dos-Aplicativos-da-C%C3%A2mara-paulistana-aprova-relat%C3%B3rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
