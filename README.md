@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cientistas americanos anunciam sucesso em fusão nuclear](https://www.nexojornal.com.br/extra/2022/12/13/Cientistas-americanos-anunciam-sucesso-em-fus%C3%A3o-nuclear)
-- [Como atual e futuro governo reagem à violência em Brasília](https://www.nexojornal.com.br/expresso/2022/12/13/Como-atual-e-futuro-governo-reagem-%C3%A0-viol%C3%AAncia-em-Bras%C3%ADlia)
-- [Justiça espanhola absolve Neymar de acusação de corrupção](https://www.nexojornal.com.br/extra/2022/12/13/Justi%C3%A7a-espanhola-absolve-Neymar-de-acusa%C3%A7%C3%A3o-de-corrup%C3%A7%C3%A3o)
-- [Morre monsenhor Jonas Abib, fundador da Canção Nova](https://www.nexojornal.com.br/extra/2022/12/13/Morre-monsenhor-Jonas-Abib-fundador-da-Can%C3%A7%C3%A3o-Nova)
-- [O extremismo bolsonarista em ação. E o papel do presidente](https://www.nexojornal.com.br/expresso/2022/12/13/O-extremismo-bolsonarista-em-a%C3%A7%C3%A3o.-E-o-papel-do-presidente)
+- [Bolsonaro define salário mínimo de R$ 1.302 em 2023](https://www.nexojornal.com.br/extra/2022/12/12/Bolsonaro-define-sal%C3%A1rio-m%C3%ADnimo-de-R-1.302-em-2023)
+- [O que há de inovação nos efeitos visuais da sequência de ‘Avatar’](https://www.nexojornal.com.br/expresso/2022/12/12/O-que-h%C3%A1-de-inova%C3%A7%C3%A3o-nos-efeitos-visuais-da-sequ%C3%AAncia-de-%E2%80%98Avatar%E2%80%99)
+- [Padre Júlio Lancelotti quebra pedras ‘antipobres’ em São Paulo](https://www.nexojornal.com.br/extra/2022/12/12/Padre-J%C3%BAlio-Lancelotti-quebra-pedras-%E2%80%98antipobres%E2%80%99-em-S%C3%A3o-Paulo)
+- [‘Povo reconquistou direito de viver em democracia’, diz Lula](https://www.nexojornal.com.br/extra/2022/12/12/%E2%80%98Povo-reconquistou-direito-de-viver-em-democracia%E2%80%99-diz-Lula)
+- [Por que os filósofos desconfiam dos seus sentidos](https://www.nexojornal.com.br/ensaio/2022/12/12/Por-que-os-fil%C3%B3sofos-desconfiam-dos-seus-sentidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
