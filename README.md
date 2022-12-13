@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Povo reconquistou direito de viver em democracia’, diz Lula](https://www.nexojornal.com.br/extra/2022/12/12/%E2%80%98Povo-reconquistou-direito-de-viver-em-democracia%E2%80%99-diz-Lula)
-- [Por que os filósofos desconfiam dos seus sentidos](https://www.nexojornal.com.br/ensaio/2022/12/12/Por-que-os-fil%C3%B3sofos-desconfiam-dos-seus-sentidos)
-- [Veja lista de indicados para o Globo de Ouro de 2023](https://www.nexojornal.com.br/extra/2022/12/12/Veja-lista-de-indicados-para-o-Globo-de-Ouro-de-2023)
-- [Presidente do Peru propõe antecipar eleições para 2024](https://www.nexojornal.com.br/extra/2022/12/12/Presidente-do-Peru-prop%C3%B5e-antecipar-elei%C3%A7%C3%B5es-para-2024)
-- [Qual a dimensão da biodiversidade da região amazônica](https://www.nexojornal.com.br/expresso/2022/12/11/Qual-a-dimens%C3%A3o-da-biodiversidade-da-regi%C3%A3o-amaz%C3%B4nica)
+- [Cientistas americanos anunciam sucesso em fusão nuclear](https://www.nexojornal.com.br/extra/2022/12/13/Cientistas-americanos-anunciam-sucesso-em-fus%C3%A3o-nuclear)
+- [Como atual e futuro governo reagem à violência em Brasília](https://www.nexojornal.com.br/expresso/2022/12/13/Como-atual-e-futuro-governo-reagem-%C3%A0-viol%C3%AAncia-em-Bras%C3%ADlia)
+- [Justiça espanhola absolve Neymar de acusação de corrupção](https://www.nexojornal.com.br/extra/2022/12/13/Justi%C3%A7a-espanhola-absolve-Neymar-de-acusa%C3%A7%C3%A3o-de-corrup%C3%A7%C3%A3o)
+- [Morre monsenhor Jonas Abib, fundador da Canção Nova](https://www.nexojornal.com.br/extra/2022/12/13/Morre-monsenhor-Jonas-Abib-fundador-da-Can%C3%A7%C3%A3o-Nova)
+- [O extremismo bolsonarista em ação. E o papel do presidente](https://www.nexojornal.com.br/expresso/2022/12/13/O-extremismo-bolsonarista-em-a%C3%A7%C3%A3o.-E-o-papel-do-presidente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
