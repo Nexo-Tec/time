@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cientistas americanos anunciam sucesso em fusão nuclear](https://www.nexojornal.com.br/extra/2022/12/13/Cientistas-americanos-anunciam-sucesso-em-fus%C3%A3o-nuclear)
-- [Como atual e futuro governo reagem à violência em Brasília](https://www.nexojornal.com.br/expresso/2022/12/13/Como-atual-e-futuro-governo-reagem-%C3%A0-viol%C3%AAncia-em-Bras%C3%ADlia)
-- [Justiça espanhola absolve Neymar de acusação de corrupção](https://www.nexojornal.com.br/extra/2022/12/13/Justi%C3%A7a-espanhola-absolve-Neymar-de-acusa%C3%A7%C3%A3o-de-corrup%C3%A7%C3%A3o)
-- [Morre monsenhor Jonas Abib, fundador da Canção Nova](https://www.nexojornal.com.br/extra/2022/12/13/Morre-monsenhor-Jonas-Abib-fundador-da-Can%C3%A7%C3%A3o-Nova)
-- [O extremismo bolsonarista em ação. E o papel do presidente](https://www.nexojornal.com.br/expresso/2022/12/13/O-extremismo-bolsonarista-em-a%C3%A7%C3%A3o.-E-o-papel-do-presidente)
+- [‘Governo Bolsonaro mostrou as diferenças dentro da direita’](https://www.nexojornal.com.br/entrevista/2022/12/13/%E2%80%98Governo-Bolsonaro-mostrou-as-diferen%C3%A7as-dentro-da-direita%E2%80%99)
+- [Prioridade para infância se mede com a régua do Orçamento](https://www.nexojornal.com.br/colunistas/2022/Prioridade-para-inf%C3%A2ncia-se-mede-com-a-r%C3%A9gua-do-Or%C3%A7amento)
+- [Senadores do EUA apresentam projeto de lei para banir Tiktok](https://www.nexojornal.com.br/extra/2022/12/13/Senadores-do-EUA-apresentam-projeto-de-lei-para-banir-Tiktok)
+- [Como reorganizar o Cadastro Único, base do Bolsa Família](https://www.nexojornal.com.br/expresso/2022/12/13/Como-reorganizar-o-Cadastro-%C3%9Anico-base-do-Bolsa-Fam%C3%ADlia)
+- [Mbappé: a trajetória de um jogador a dois passos do topo](https://www.nexojornal.com.br/expresso/2022/12/13/Mbapp%C3%A9-a-trajet%C3%B3ria-de-um-jogador-a-dois-passos-do-topo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
