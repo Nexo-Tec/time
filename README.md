@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como evitar o colapso da Amazônia: zerar perda de florestas e restaurar áreas desmatadas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-evitar-o-colapso-da-Amaz%C3%B4nia-zerar-perda-de-florestas-e-restaurar-%C3%A1reas-desmatadas)
+- [Universidade e mobilidade indígena: impactos da busca pelo ensino superior](https://pp.nexojornal.com.br/opiniao/2022/Universidade-e-mobilidade-ind%C3%ADgena-impactos-da-busca-pelo-ensino-superior)
 - [A importância da valorização das políticas de patrimônio para a população negra](https://pp.nexojornal.com.br/opiniao/2022/A-import%C3%A2ncia-da-valoriza%C3%A7%C3%A3o-das-pol%C3%ADticas-de-patrim%C3%B4nio-para-a-popula%C3%A7%C3%A3o-negra)
 - [O papel da avaliação na promoção da equidade](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-papel-da-avalia%C3%A7%C3%A3o-na-promo%C3%A7%C3%A3o-da-equidade)
 - [O que é justiça para as Mães de Acari](https://pp.nexojornal.com.br/academico/2022/O-que-%C3%A9-justi%C3%A7a-para-as-M%C3%A3es-de-Acari)
-- [Onde ficam as cidades no orçamento secreto?](https://pp.nexojornal.com.br/ponto-de-vista/2022/Onde-ficam-as-cidades-no-or%C3%A7amento-secreto)
-- [Apontamentos sobre memória e a questão racial no Brasil](https://pp.nexojornal.com.br/opiniao/2022/Apontamentos-sobre-mem%C3%B3ria-e-a-quest%C3%A3o-racial-no-Brasil)
 <!-- PP_LIST:END -->
 
