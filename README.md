@@ -126,7 +126,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Pedroca Monteiro](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedroca-monteiro/)
-- [2022, o ano do vinho brasileiro](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/2022-o-ano-do-vinho-brasileiro/)
+- [E esse vinho brasileiro, é bom?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/2022-o-ano-do-vinho-brasileiro/)
 - [Chinelo Nuvem](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chinelo-nuvem/)
 - [@haleyluhoo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/haleyluhoo/)
 - [Maria Ribeiro: “Chego para as pessoas e falo ‘quero ser sua amiga&#39;”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-ribeiro/)
