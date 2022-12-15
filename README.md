@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentina pode dar fim a jejum de 36 anos na final da Copa](https://www.nexojornal.com.br/grafico/2022/12/15/Argentina-pode-dar-fim-a-jejum-de-36-anos-na-final-da-Copa)
-- [Justiça encerra recuperação judicial da Oi após 6 anos](https://www.nexojornal.com.br/extra/2022/12/15/Justi%C3%A7a-encerra-recupera%C3%A7%C3%A3o-judicial-da-Oi-ap%C3%B3s-6-anos)
-- [O que é o Qatargate. E qual tem sido sua repercussão na Europa](https://www.nexojornal.com.br/expresso/2022/12/15/O-que-%C3%A9-o-Qatargate.-E-qual-tem-sido-sua-repercuss%C3%A3o-na-Europa)
-- [São Paulo anuncia passe livre para idosos acima de 60 anos](https://www.nexojornal.com.br/extra/2022/12/15/S%C3%A3o-Paulo-anuncia-passe-livre-para-idosos-acima-de-60-anos)
-- [Por ordem de Moraes, PF cumpre mandados contra bolsonaristas](https://www.nexojornal.com.br/extra/2022/12/15/Por-ordem-de-Moraes-PF-cumpre-mandados-contra-bolsonaristas)
+- [4 pontos do voto de Rosa Weber contra o orçamento secreto](https://www.nexojornal.com.br/expresso/2022/12/14/4-pontos-do-voto-de-Rosa-Weber-contra-o-or%C3%A7amento-secreto)
+- [‘Lava Jato adotou estratégia de delação não autorizada em lei’](https://www.nexojornal.com.br/entrevista/2022/12/14/%E2%80%98Lava-Jato-adotou-estrat%C3%A9gia-de-dela%C3%A7%C3%A3o-n%C3%A3o-autorizada-em-lei%E2%80%99)
+- [As primeiras escolhas do novo governo para a área econômica](https://www.nexojornal.com.br/expresso/2022/12/14/As-primeiras-escolhas-do-novo-governo-para-a-%C3%A1rea-econ%C3%B4mica)
+- [Desmatamento anual do Cerrado sobe 25%](https://www.nexojornal.com.br/extra/2022/12/14/Desmatamento-anual-do-Cerrado-sobe-25)
+- [O olhar de Lula sobre as estatais. E a resistência do mercado](https://www.nexojornal.com.br/podcast/2022/12/14/O-olhar-de-Lula-sobre-as-estatais.-E-a-resist%C3%AAncia-do-mercado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
