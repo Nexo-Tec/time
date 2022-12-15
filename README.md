@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Denilson Baniwa: ‘Falta de uma produção textual indígena sobre arte me tira o sono’](https://gamarevista.uol.com.br/especial/denilson-baniwa-falta-de-uma-producao-textual-indigena-sobre-arte-me-tira-o-sono/)
-- [Pedroca Monteiro](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedroca-monteiro/)
-- [E esse vinho brasileiro, é bom?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/2022-o-ano-do-vinho-brasileiro/)
-- [Chinelo Nuvem](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chinelo-nuvem/)
-- [@haleyluhoo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/haleyluhoo/)
+- [Um livro de contos sobre mulheres para mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-livro-de-contos-sobre-mulheres-para-mulheres/)
+- [Um podcast para quem ama vinhos e tem sede](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-quem-ama-vinhos-e-tem-sede/)
+- [Paulo Gustavo, o ‘Filho da Mãe’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/paulo-gustavo-o-filho-da-mae/)
+- [Cinthia Marcelle no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/cinthia-marcelle-no-masp/)
+- [Uma diva disco em francês](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-diva-disco-em-frances/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
