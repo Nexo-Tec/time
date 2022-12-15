@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [4 pontos do voto de Rosa Weber contra o orçamento secreto](https://www.nexojornal.com.br/expresso/2022/12/14/4-pontos-do-voto-de-Rosa-Weber-contra-o-or%C3%A7amento-secreto)
 - [‘Lava Jato adotou estratégia de delação não autorizada em lei’](https://www.nexojornal.com.br/entrevista/2022/12/14/%E2%80%98Lava-Jato-adotou-estrat%C3%A9gia-de-dela%C3%A7%C3%A3o-n%C3%A3o-autorizada-em-lei%E2%80%99)
 - [As primeiras escolhas do novo governo para a área econômica](https://www.nexojornal.com.br/expresso/2022/12/14/As-primeiras-escolhas-do-novo-governo-para-a-%C3%A1rea-econ%C3%B4mica)
 - [Desmatamento anual do Cerrado sobe 25%](https://www.nexojornal.com.br/extra/2022/12/14/Desmatamento-anual-do-Cerrado-sobe-25)
 - [O olhar de Lula sobre as estatais. E a resistência do mercado](https://www.nexojornal.com.br/podcast/2022/12/14/O-olhar-de-Lula-sobre-as-estatais.-E-a-resist%C3%AAncia-do-mercado)
+- [França bate Marrocos, vai à final e tenta igualar Brasil de 1962](https://www.nexojornal.com.br/extra/2022/12/14/Fran%C3%A7a-bate-Marrocos-vai-%C3%A0-final-e-tenta-igualar-Brasil-de-1962)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
