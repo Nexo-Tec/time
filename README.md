@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Denilson Baniwa: ‘Falta de uma produção textual indígena sobre arte me tira o sono’](https://gamarevista.uol.com.br/especial/denilson-baniwa-falta-de-uma-producao-textual-indigena-sobre-arte-me-tira-o-sono/)
 - [Pedroca Monteiro](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedroca-monteiro/)
 - [E esse vinho brasileiro, é bom?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/2022-o-ano-do-vinho-brasileiro/)
 - [Chinelo Nuvem](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chinelo-nuvem/)
 - [@haleyluhoo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/haleyluhoo/)
-- [Maria Ribeiro: “Chego para as pessoas e falo ‘quero ser sua amiga&#39;”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-ribeiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
