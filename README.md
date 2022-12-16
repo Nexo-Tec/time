@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As Margens e o Ditado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-margens-e-o-ditado/)
 - [Um livro de contos sobre mulheres para mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-livro-de-contos-sobre-mulheres-para-mulheres/)
 - [Um podcast para quem ama vinhos e tem sede](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-quem-ama-vinhos-e-tem-sede/)
 - [Paulo Gustavo, o ‘Filho da Mãe’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/paulo-gustavo-o-filho-da-mae/)
 - [Cinthia Marcelle no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/cinthia-marcelle-no-masp/)
-- [Uma diva disco em francês](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-diva-disco-em-frances/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
