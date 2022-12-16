@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A série de TV que pode ser vista de 40 mil formas](https://www.nexojornal.com.br/expresso/2022/12/16/A-s%C3%A9rie-de-TV-que-pode-ser-vista-de-40-mil-formas)
-- [Protestos a favor de Pedro Castillo deixam 18 mortos no Peru](https://www.nexojornal.com.br/extra/2022/12/16/Protestos-a-favor-de-Pedro-Castillo-deixam-18-mortos-no-Peru)
-- [A diplomação de Lula. A noite de violência em Brasília. E mais](https://www.nexojornal.com.br/video/extrato/A-diploma%C3%A7%C3%A3o-de-Lula.-A-noite-de-viol%C3%AAncia-em-Bras%C3%ADlia.-E-mais)
-- [Aquário explode e mata quase 1.500 peixes em Berlim](https://www.nexojornal.com.br/extra/2022/12/16/Aqu%C3%A1rio-explode-e-mata-quase-1.500-peixes-em-Berlim)
-- [Governo libera exploração de madeira em terras indígenas](https://www.nexojornal.com.br/extra/2022/12/16/Governo-libera-explora%C3%A7%C3%A3o-de-madeira-em-terras-ind%C3%ADgenas)
+- [Supremo adia decisão sobre legalidade do orçamento secreto](https://www.nexojornal.com.br/extra/2022/12/15/Supremo-adia-decis%C3%A3o-sobre-legalidade-do-or%C3%A7amento-secreto)
+- [A volta dos planos de tornar ex-presidentes senadores vitalícios](https://www.nexojornal.com.br/expresso/2022/12/15/A-volta-dos-planos-de-tornar-ex-presidentes-senadores-vital%C3%ADcios)
+- [Não existe democracia sem uma sociedade civil forte e atuante](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-existe-democracia-sem-uma-sociedade-civil-forte-e-atuante)
+- [A investida dos EUA para tentar ganhar influência na África](https://www.nexojornal.com.br/expresso/2022/12/15/A-investida-dos-EUA-para-tentar-ganhar-influ%C3%AAncia-na-%C3%81frica)
+- [A extrema direita está longe de ter sido derrotada](https://www.nexojornal.com.br/colunistas/2022/A-extrema-direita-est%C3%A1-longe-de-ter-sido-derrotada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
