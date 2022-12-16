@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Twitter suspende contas de jornalistas nos Estados Unidos](https://www.nexojornal.com.br/extra/2022/12/16/Twitter-suspende-contas-de-jornalistas-nos-Estados-Unidos)
 - [Supremo adia decisão sobre legalidade do orçamento secreto](https://www.nexojornal.com.br/extra/2022/12/15/Supremo-adia-decis%C3%A3o-sobre-legalidade-do-or%C3%A7amento-secreto)
 - [A volta dos planos de tornar ex-presidentes senadores vitalícios](https://www.nexojornal.com.br/expresso/2022/12/15/A-volta-dos-planos-de-tornar-ex-presidentes-senadores-vital%C3%ADcios)
 - [Não existe democracia sem uma sociedade civil forte e atuante](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-existe-democracia-sem-uma-sociedade-civil-forte-e-atuante)
 - [A investida dos EUA para tentar ganhar influência na África](https://www.nexojornal.com.br/expresso/2022/12/15/A-investida-dos-EUA-para-tentar-ganhar-influ%C3%AAncia-na-%C3%81frica)
+- [A extrema direita está longe de ter sido derrotada](https://www.nexojornal.com.br/colunistas/2022/A-extrema-direita-est%C3%A1-longe-de-ter-sido-derrotada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
