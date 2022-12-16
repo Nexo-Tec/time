@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentina pode dar fim a jejum de 36 anos na final da Copa](https://www.nexojornal.com.br/grafico/2022/12/15/Argentina-pode-dar-fim-a-jejum-de-36-anos-na-final-da-Copa)
-- [Justiça encerra recuperação judicial da Oi após 6 anos](https://www.nexojornal.com.br/extra/2022/12/15/Justi%C3%A7a-encerra-recupera%C3%A7%C3%A3o-judicial-da-Oi-ap%C3%B3s-6-anos)
-- [O que é o Qatargate. E qual tem sido sua repercussão na Europa](https://www.nexojornal.com.br/expresso/2022/12/15/O-que-%C3%A9-o-Qatargate.-E-qual-tem-sido-sua-repercuss%C3%A3o-na-Europa)
-- [São Paulo anuncia passe livre para idosos acima de 60 anos](https://www.nexojornal.com.br/extra/2022/12/15/S%C3%A3o-Paulo-anuncia-passe-livre-para-idosos-acima-de-60-anos)
-- [Por ordem de Moraes, PF cumpre mandados contra bolsonaristas](https://www.nexojornal.com.br/extra/2022/12/15/Por-ordem-de-Moraes-PF-cumpre-mandados-contra-bolsonaristas)
+- [Supremo adia decisão sobre legalidade do orçamento secreto](https://www.nexojornal.com.br/extra/2022/12/15/Supremo-adia-decis%C3%A3o-sobre-legalidade-do-or%C3%A7amento-secreto)
+- [A volta dos planos de tornar ex-presidentes senadores vitalícios](https://www.nexojornal.com.br/expresso/2022/12/15/A-volta-dos-planos-de-tornar-ex-presidentes-senadores-vital%C3%ADcios)
+- [Não existe democracia sem uma sociedade civil forte e atuante](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-existe-democracia-sem-uma-sociedade-civil-forte-e-atuante)
+- [A investida dos EUA para tentar ganhar influência na África](https://www.nexojornal.com.br/expresso/2022/12/15/A-investida-dos-EUA-para-tentar-ganhar-influ%C3%AAncia-na-%C3%81frica)
+- [A extrema direita está longe de ter sido derrotada](https://www.nexojornal.com.br/colunistas/2022/A-extrema-direita-est%C3%A1-longe-de-ter-sido-derrotada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
