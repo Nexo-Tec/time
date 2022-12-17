@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A série de TV que pode ser vista de 40 mil formas](https://www.nexojornal.com.br/expresso/2022/12/16/A-s%C3%A9rie-de-TV-que-pode-ser-vista-de-40-mil-formas)
-- [Protestos a favor de Pedro Castillo deixam 18 mortos no Peru](https://www.nexojornal.com.br/extra/2022/12/16/Protestos-a-favor-de-Pedro-Castillo-deixam-18-mortos-no-Peru)
-- [A diplomação de Lula. A noite de violência em Brasília. E mais](https://www.nexojornal.com.br/video/extrato/A-diploma%C3%A7%C3%A3o-de-Lula.-A-noite-de-viol%C3%AAncia-em-Bras%C3%ADlia.-E-mais)
-- [Aquário explode e mata quase 1.500 peixes em Berlim](https://www.nexojornal.com.br/extra/2022/12/16/Aqu%C3%A1rio-explode-e-mata-quase-1.500-peixes-em-Berlim)
-- [Governo libera exploração de madeira em terras indígenas](https://www.nexojornal.com.br/extra/2022/12/16/Governo-libera-explora%C3%A7%C3%A3o-de-madeira-em-terras-ind%C3%ADgenas)
+- [Leilão de blocos do pré-sal arrecada quase R$ 1 bilhão](https://www.nexojornal.com.br/extra/2022/12/16/Leil%C3%A3o-de-blocos-do-pr%C3%A9-sal-arrecada-quase-R-1-bilh%C3%A3o)
+- [A avaliação e o uso de evidências nas políticas públicas](https://www.nexojornal.com.br/ensaio/2022/12/16/A-avalia%C3%A7%C3%A3o-e-o-uso-de-evid%C3%AAncias-nas-pol%C3%ADticas-p%C3%BAblicas)
+- [O novo ministro da Defesa diante da politização militar](https://www.nexojornal.com.br/expresso/2022/12/16/O-novo-ministro-da-Defesa-diante-da-politiza%C3%A7%C3%A3o-militar)
+- [‘Juizes e procuradores impuseram sua visão negativa da política’](https://www.nexojornal.com.br/entrevista/2022/12/16/%E2%80%98Juizes-e-procuradores-impuseram-sua-vis%C3%A3o-negativa-da-pol%C3%ADtica%E2%80%99)
+- [5 livros para entender, gostar e acreditar no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/12/16/5-livros-para-entender-gostar-e-acreditar-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
