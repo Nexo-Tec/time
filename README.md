@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Twitter suspende contas de jornalistas nos Estados Unidos](https://www.nexojornal.com.br/extra/2022/12/16/Twitter-suspende-contas-de-jornalistas-nos-Estados-Unidos)
-- [Supremo adia decisão sobre legalidade do orçamento secreto](https://www.nexojornal.com.br/extra/2022/12/15/Supremo-adia-decis%C3%A3o-sobre-legalidade-do-or%C3%A7amento-secreto)
-- [A volta dos planos de tornar ex-presidentes senadores vitalícios](https://www.nexojornal.com.br/expresso/2022/12/15/A-volta-dos-planos-de-tornar-ex-presidentes-senadores-vital%C3%ADcios)
-- [Não existe democracia sem uma sociedade civil forte e atuante](https://www.nexojornal.com.br/ensaio/2022/N%C3%A3o-existe-democracia-sem-uma-sociedade-civil-forte-e-atuante)
-- [A investida dos EUA para tentar ganhar influência na África](https://www.nexojornal.com.br/expresso/2022/12/15/A-investida-dos-EUA-para-tentar-ganhar-influ%C3%AAncia-na-%C3%81frica)
+- [Leilão de blocos do pré-sal arrecada quase R$ 1 bilhão](https://www.nexojornal.com.br/extra/2022/12/16/Leil%C3%A3o-de-blocos-do-pr%C3%A9-sal-arrecada-quase-R-1-bilh%C3%A3o)
+- [A avaliação e o uso de evidências nas políticas públicas](https://www.nexojornal.com.br/ensaio/2022/12/16/A-avalia%C3%A7%C3%A3o-e-o-uso-de-evid%C3%AAncias-nas-pol%C3%ADticas-p%C3%BAblicas)
+- [O novo ministro da Defesa diante da politização militar](https://www.nexojornal.com.br/expresso/2022/12/16/O-novo-ministro-da-Defesa-diante-da-politiza%C3%A7%C3%A3o-militar)
+- [‘Juizes e procuradores impuseram sua visão negativa da política’](https://www.nexojornal.com.br/entrevista/2022/12/16/%E2%80%98Juizes-e-procuradores-impuseram-sua-vis%C3%A3o-negativa-da-pol%C3%ADtica%E2%80%99)
+- [5 livros para entender, gostar e acreditar no Brasil](https://www.nexojornal.com.br/estante/favoritos/2022/12/16/5-livros-para-entender-gostar-e-acreditar-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
