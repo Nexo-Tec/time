@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quem não se contradiz, não diz](https://gamarevista.uol.com.br/colunistas/fernando-luna/quem-nao-se-contradiz-nao-diz/)
 - [Cris Machado:  ‘Exaustas, temos que agir por um aleitamento saudável para mãe e bebê’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/amamentacao-e-exaustao-materna/)
 - [Um ano para repensar a Semana de 22](https://gamarevista.uol.com.br/cultura/um-ano-para-repensar-a-semana-de-22/)
 - [As Margens e o Ditado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-margens-e-o-ditado/)
 - [Um livro de contos sobre mulheres para mulheres](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-livro-de-contos-sobre-mulheres-para-mulheres/)
-- [Um podcast para quem ama vinhos e tem sede](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-quem-ama-vinhos-e-tem-sede/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
