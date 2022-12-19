@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A avaliação e o uso de evidências nas políticas públicas](https://www.nexojornal.com.br/ensaio/2022/12/16/A-avalia%C3%A7%C3%A3o-e-o-uso-de-evid%C3%AAncias-nas-pol%C3%ADticas-p%C3%BAblicas1)
 - [O que é trabalho emocional. E como ele afeta as mulheres](https://www.nexojornal.com.br/externo/2022/12/17/O-que-%C3%A9-trabalho-emocional.-E-como-ele-afeta-as-mulheres)
 - [Consensus: um Google para evidências científicas](https://www.nexojornal.com.br/expresso/2022/12/17/Consensus-um-Google-para-evid%C3%AAncias-cient%C3%ADficas)
 - [Por que a ideia de multiverso dominou o audiovisual em 2022](https://www.nexojornal.com.br/expresso/2022/12/17/Por-que-a-ideia-de-multiverso-dominou-o-audiovisual-em-2022)
 - [O que perdemos com a desmilitarização da polícia no Brasil](https://www.nexojornal.com.br/ensaio/2022/12/17/O-que-perdemos-com-a-desmilitariza%C3%A7%C3%A3o-da-pol%C3%ADcia-no-Brasil)
-- [A origem da rixa entre Argentina e Brasil. E as escolhas na Copa](https://www.nexojornal.com.br/expresso/2022/12/17/A-origem-da-rixa-entre-Argentina-e-Brasil.-E-as-escolhas-na-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
