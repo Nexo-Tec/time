@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Prisões alongadas levavam a delações, muitas imprestáveis’](https://www.nexojornal.com.br/entrevista/2022/12/18/%E2%80%98Pris%C3%B5es-alongadas-levavam-a-dela%C3%A7%C3%B5es-muitas-imprest%C3%A1veis%E2%80%99)
-- [Fazendo o dinheiro da passagem: Lula 3, o passe-livre e a fome](https://www.nexojornal.com.br/ensaio/2022/12/18/Fazendo-o-dinheiro-da-passagem-Lula-3-o-passe-livre-e-a-fome)
-- [O que houve de liberal na gestão de Paulo Guedes na Economia](https://www.nexojornal.com.br/expresso/2022/12/18/O-que-houve-de-liberal-na-gest%C3%A3o-de-Paulo-Guedes-na-Economia)
-- [Ex-governador do Rio, Cabral deve cumprir prisão domiciliar](https://www.nexojornal.com.br/extra/2022/12/18/Ex-governador-do-Rio-Cabral-deve-cumprir-pris%C3%A3o-domiciliar)
-- [Com Argentina campeã, América do Sul tem seu 10° título](https://www.nexojornal.com.br/grafico/2022/12/18/Com-Argentina-campe%C3%A3-Am%C3%A9rica-do-Sul-tem-seu-10%C2%B0-t%C3%ADtulo)
+- [‘O conceito de divisão de Poderes está desaparecendo’](https://www.nexojornal.com.br/entrevista/2022/12/19/%E2%80%98O-conceito-de-divis%C3%A3o-de-Poderes-est%C3%A1-desaparecendo%E2%80%99)
+- [Sobre novos começos: o que há de especial nessa virada de ano](https://www.nexojornal.com.br/colunistas/2022/Sobre-novos-come%C3%A7os-o-que-h%C3%A1-de-especial-nessa-virada-de-ano)
+- [Qual o saldo da Copa do Mundo de 2022 para o Qatar](https://www.nexojornal.com.br/expresso/2022/12/19/Qual-o-saldo-da-Copa-do-Mundo-de-2022-para-o-Qatar)
+- [‘Se só gastar mais resolvesse o social, a solução estaria pronta’](https://www.nexojornal.com.br/entrevista/2022/12/19/%E2%80%98Se-s%C3%B3-gastar-mais-resolvesse-o-social-a-solu%C3%A7%C3%A3o-estaria-pronta%E2%80%99)
+- [China tem surto de covid e primeiras mortes em semanas](https://www.nexojornal.com.br/extra/2022/12/19/China-tem-surto-de-covid-e-primeiras-mortes-em-semanas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
