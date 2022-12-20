@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como evitar o colapso da Amazônia: zerar perda de florestas e restaurar áreas desmatadas](https://pp.nexojornal.com.br/ponto-de-vista/2022/Como-evitar-o-colapso-da-Amaz%C3%B4nia-zerar-perda-de-florestas-e-restaurar-%C3%A1reas-desmatadas)
-- [Universidade e mobilidade indígena: impactos da busca pelo ensino superior](https://pp.nexojornal.com.br/opiniao/2022/Universidade-e-mobilidade-ind%C3%ADgena-impactos-da-busca-pelo-ensino-superior)
-- [A importância da valorização das políticas de patrimônio para a população negra](https://pp.nexojornal.com.br/opiniao/2022/A-import%C3%A2ncia-da-valoriza%C3%A7%C3%A3o-das-pol%C3%ADticas-de-patrim%C3%B4nio-para-a-popula%C3%A7%C3%A3o-negra)
-- [O papel da avaliação na promoção da equidade](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-papel-da-avalia%C3%A7%C3%A3o-na-promo%C3%A7%C3%A3o-da-equidade)
-- [O que é justiça para as Mães de Acari](https://pp.nexojornal.com.br/academico/2022/O-que-%C3%A9-justi%C3%A7a-para-as-M%C3%A3es-de-Acari)
+- [Riscos antidemocráticos de propostas de alteração em cortes constitucionais, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Riscos-antidemocr%C3%A1ticos-de-propostas-de-altera%C3%A7%C3%A3o-em-cortes-constitucionais-em-4-pontos)
+- [Nutricionismo](https://pp.nexojornal.com.br/glossario/Nutricionismo)
+- [O que a Conferência sobre o clima tem a ver com a alimentação das pessoas no mundo e no Brasil?](https://pp.nexojornal.com.br/opiniao/2022/O-que-a-Confer%C3%AAncia-sobre-o-clima-tem-a-ver-com-a-alimenta%C3%A7%C3%A3o-das-pessoas-no-mundo-e-no-Brasil)
+- [Territórios, sujeitos e transições: por uma orientação política a partir do local](https://pp.nexojornal.com.br/ponto-de-vista/2022/Territ%C3%B3rios-sujeitos-e-transi%C3%A7%C3%B5es-por-uma-orienta%C3%A7%C3%A3o-pol%C3%ADtica-a-partir-do-local)
+- [Meet me in Saint Louis, Louis... meet me at the fair? Du Bois, Max Weber e a ‘Sociologia hesitante’ no começo do século 20](https://pp.nexojornal.com.br/opiniao/2022/Meet-me-in-Saint-Louis-Louis...-meet-me-at-the-fair-Du-Bois-Max-Weber-e-a-%E2%80%98Sociologia-hesitante%E2%80%99-no-come%C3%A7o-do-s%C3%A9culo-20)
 <!-- PP_LIST:END -->
 
