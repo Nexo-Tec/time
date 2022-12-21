@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Supremo autorizou interferência brusca no sistema político’](https://www.nexojornal.com.br/entrevista/2022/12/20/%E2%80%98Supremo-autorizou-interfer%C3%AAncia-brusca-no-sistema-pol%C3%ADtico%E2%80%99)
-- [Covid se alastra na China: quais os riscos para outros países](https://www.nexojornal.com.br/expresso/2022/12/20/Covid-se-alastra-na-China-quais-os-riscos-para-outros-pa%C3%ADses)
-- [As ideias de Pasteur em nosso dia a dia](https://www.nexojornal.com.br/externo/2022/12/20/As-ideias-de-Pasteur-em-nosso-dia-a-dia)
-- [Portugal, Noruega e China: quem exporta bacalhau para o Brasil](https://www.nexojornal.com.br/grafico/2022/12/20/Portugal-Noruega-e-China-quem-exporta-bacalhau-para-o-Brasil)
-- [Arthur Lira em xeque? Os movimentos pelo comando da Câmara](https://www.nexojornal.com.br/podcast/2022/12/20/Arthur-Lira-em-xeque-Os-movimentos-pelo-comando-da-C%C3%A2mara)
+- [Mulher de 97 anos é condenada por colaboração com o nazismo](https://www.nexojornal.com.br/extra/2022/12/20/Mulher-de-97-anos-%C3%A9-condenada-por-colabora%C3%A7%C3%A3o-com-o-nazismo)
+- [Presidente do Peru faz trocas em ministérios 2 semanas após posse](https://www.nexojornal.com.br/extra/2022/12/20/Presidente-do-Peru-faz-trocas-em-minist%C3%A9rios-2-semanas-ap%C3%B3s-posse)
+- [Bolsonaro exonera Silvinei Vasques, chefe da PRF](https://www.nexojornal.com.br/extra/2022/12/20/Bolsonaro-exonera-Silvinei-Vasques-chefe-da-PRF)
+- [Empresa de ‘Fortnite’ é multada por violar privacidade de crianças](https://www.nexojornal.com.br/extra/2022/12/20/Empresa-de-%E2%80%98Fortnite%E2%80%99-%C3%A9-multada-por-violar-privacidade-de-crian%C3%A7as)
+- [‘O conceito de divisão de Poderes está desaparecendo’](https://www.nexojornal.com.br/entrevista/2022/12/19/%E2%80%98O-conceito-de-divis%C3%A3o-de-Poderes-est%C3%A1-desaparecendo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
