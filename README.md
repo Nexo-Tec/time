@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Supremo autorizou interferência brusca no sistema político’](https://www.nexojornal.com.br/entrevista/2022/12/20/%E2%80%98Supremo-autorizou-interfer%C3%AAncia-brusca-no-sistema-pol%C3%ADtico%E2%80%99)
-- [Covid se alastra na China: quais os riscos para outros países](https://www.nexojornal.com.br/expresso/2022/12/20/Covid-se-alastra-na-China-quais-os-riscos-para-outros-pa%C3%ADses)
-- [As ideias de Pasteur em nosso dia a dia](https://www.nexojornal.com.br/externo/2022/12/20/As-ideias-de-Pasteur-em-nosso-dia-a-dia)
-- [Portugal, Noruega e China: quem exporta bacalhau para o Brasil](https://www.nexojornal.com.br/grafico/2022/12/20/Portugal-Noruega-e-China-quem-exporta-bacalhau-para-o-Brasil)
-- [Arthur Lira em xeque? Os movimentos pelo comando da Câmara](https://www.nexojornal.com.br/podcast/2022/12/20/Arthur-Lira-em-xeque-Os-movimentos-pelo-comando-da-C%C3%A2mara)
+- [Peru aprova antecipação das eleições para 2024](https://www.nexojornal.com.br/extra/2022/12/21/Peru-aprova-antecipa%C3%A7%C3%A3o-das-elei%C3%A7%C3%B5es-para-2024)
+- [Cidades invisíveis: a Amazônia urbana na emergência climática](https://www.nexojornal.com.br/colunistas/2022/Cidades-invis%C3%ADveis-a-Amaz%C3%B4nia-urbana-na-emerg%C3%AAncia-clim%C3%A1tica)
+- [Conhecido por sucesso em novelas, morre ator Pedro Paulo Rangel](https://www.nexojornal.com.br/extra/2022/12/21/Conhecido-por-sucesso-em-novelas-morre-ator-Pedro-Paulo-Rangel)
+- [Musk anuncia que deixará o cargo de CEO do Twitter](https://www.nexojornal.com.br/extra/2022/12/21/Musk-anuncia-que-deixar%C3%A1-o-cargo-de-CEO-do-Twitter)
+- [Câmara aprova em 1º turno PEC da Transição](https://www.nexojornal.com.br/extra/2022/12/21/C%C3%A2mara-aprova-em-1%C2%BA-turno-PEC-da-Transi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
