@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O ano eleitoral das mulheres negras? Avanços tímidos e desigualdades duráveis nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/O-ano-eleitoral-das-mulheres-negras-Avan%C3%A7os-t%C3%ADmidos-e-desigualdades-dur%C3%A1veis-nas-elei%C3%A7%C3%B5es-de-2022)
-- [O contingenciamento do MEC e a vida nas cidades brasileiras](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-contingenciamento-do-MEC-e-a-vida-nas-cidades-brasileiras)
 - [Riscos antidemocráticos de propostas de alteração em cortes constitucionais, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Riscos-antidemocr%C3%A1ticos-de-propostas-de-altera%C3%A7%C3%A3o-em-cortes-constitucionais-em-4-pontos)
 - [Nutricionismo](https://pp.nexojornal.com.br/glossario/Nutricionismo)
 - [O que a Conferência sobre o clima tem a ver com a alimentação das pessoas no mundo e no Brasil?](https://pp.nexojornal.com.br/opiniao/2022/O-que-a-Confer%C3%AAncia-sobre-o-clima-tem-a-ver-com-a-alimenta%C3%A7%C3%A3o-das-pessoas-no-mundo-e-no-Brasil)
+- [Territórios, sujeitos e transições: por uma orientação política a partir do local](https://pp.nexojornal.com.br/ponto-de-vista/2022/Territ%C3%B3rios-sujeitos-e-transi%C3%A7%C3%B5es-por-uma-orienta%C3%A7%C3%A3o-pol%C3%ADtica-a-partir-do-local)
+- [Meet me in Saint Louis, Louis... meet me at the fair? Du Bois, Max Weber e a ‘Sociologia hesitante’ no começo do século 20](https://pp.nexojornal.com.br/opiniao/2022/Meet-me-in-Saint-Louis-Louis...-meet-me-at-the-fair-Du-Bois-Max-Weber-e-a-%E2%80%98Sociologia-hesitante%E2%80%99-no-come%C3%A7o-do-s%C3%A9culo-20)
 <!-- PP_LIST:END -->
 
