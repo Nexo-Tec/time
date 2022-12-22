@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em visita de Zelensky, Biden anuncia nova ajuda militar](https://www.nexojornal.com.br/extra/2022/12/21/Em-visita-de-Zelensky-Biden-anuncia-nova-ajuda-militar)
-- [‘Houve um conflito distributivo no governo Dilma’](https://www.nexojornal.com.br/entrevista/2022/12/21/%E2%80%98Houve-um-conflito-distributivo-no-governo-Dilma%E2%80%99)
-- [Como o gênero afeta as escolhas educacionais](https://www.nexojornal.com.br/academico/2022/12/21/Como-o-g%C3%AAnero-afeta-as-escolhas-educacionais)
-- [O orçamento secreto acabou ou não? Saiba como vai ser em 2023](https://www.nexojornal.com.br/expresso/2022/12/21/O-or%C3%A7amento-secreto-acabou-ou-n%C3%A3o-Saiba-como-vai-ser-em-2023)
-- [O perfil dos catadores de materiais recicláveis no Brasil](https://www.nexojornal.com.br/grafico/2022/12/21/O-perfil-dos-catadores-de-materiais-recicl%C3%A1veis-no-Brasil)
+- [Peru aprova antecipação das eleições para 2024](https://www.nexojornal.com.br/extra/2022/12/21/Peru-aprova-antecipa%C3%A7%C3%A3o-das-elei%C3%A7%C3%B5es-para-2024)
+- [Cidades invisíveis: a Amazônia urbana na emergência climática](https://www.nexojornal.com.br/colunistas/2022/Cidades-invis%C3%ADveis-a-Amaz%C3%B4nia-urbana-na-emerg%C3%AAncia-clim%C3%A1tica)
+- [Conhecido por sucesso em novelas, morre ator Pedro Paulo Rangel](https://www.nexojornal.com.br/extra/2022/12/21/Conhecido-por-sucesso-em-novelas-morre-ator-Pedro-Paulo-Rangel)
+- [Musk anuncia que deixará o cargo de CEO do Twitter](https://www.nexojornal.com.br/extra/2022/12/21/Musk-anuncia-que-deixar%C3%A1-o-cargo-de-CEO-do-Twitter)
+- [Câmara aprova em 1º turno PEC da Transição](https://www.nexojornal.com.br/extra/2022/12/21/C%C3%A2mara-aprova-em-1%C2%BA-turno-PEC-da-Transi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
