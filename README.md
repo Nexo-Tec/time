@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 pontos-chave da visita de Zelensky aos Estados Unidos](https://www.nexojornal.com.br/expresso/2022/12/22/5-pontos-chave-da-visita-de-Zelensky-aos-Estados-Unidos)
-- [Mensagem de final de ano aos jovens &lpar;Des&rpar;Informados](https://www.nexojornal.com.br/colunistas/2022/Mensagem-de-final-de-ano-aos-jovens-DesInformados)
-- [‘Boa parte do que foi divulgado foi a público pelo juiz da Lava Jato’](https://www.nexojornal.com.br/entrevista/2022/12/22/%E2%80%98Boa-parte-do-que-foi-divulgado-foi-a-p%C3%BAblico-pelo-juiz-da-Lava-Jato%E2%80%99)
-- [O impacto da aprovação da PEC da Transição em 4 eixos](https://www.nexojornal.com.br/expresso/2022/12/22/O-impacto-da-aprova%C3%A7%C3%A3o-da-PEC-da-Transi%C3%A7%C3%A3o-em-4-eixos)
-- [Hospitais lotados e crematórios cheios: a crise de covid na China](https://www.nexojornal.com.br/podcast/2022/12/22/Hospitais-lotados-e-cremat%C3%B3rios-cheios-a-crise-de-covid-na-China)
+- [Em Israel, Netanyahu forma governo ultraconservador](https://www.nexojornal.com.br/extra/2022/12/22/Em-Israel-Netanyahu-forma-governo-ultraconservador)
+- [Em visita de Zelensky, Biden anuncia nova ajuda militar](https://www.nexojornal.com.br/extra/2022/12/21/Em-visita-de-Zelensky-Biden-anuncia-nova-ajuda-militar)
+- [‘Houve um conflito distributivo no governo Dilma’](https://www.nexojornal.com.br/entrevista/2022/12/21/%E2%80%98Houve-um-conflito-distributivo-no-governo-Dilma%E2%80%99)
+- [Como o gênero afeta as escolhas educacionais](https://www.nexojornal.com.br/academico/2022/12/21/Como-o-g%C3%AAnero-afeta-as-escolhas-educacionais)
+- [O orçamento secreto acabou ou não? Saiba como vai ser em 2023](https://www.nexojornal.com.br/expresso/2022/12/21/O-or%C3%A7amento-secreto-acabou-ou-n%C3%A3o-Saiba-como-vai-ser-em-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
