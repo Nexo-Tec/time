@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Em Israel, Netanyahu forma governo ultraconservador](https://www.nexojornal.com.br/extra/2022/12/22/Em-Israel-Netanyahu-forma-governo-ultraconservador)
 - [Em visita de Zelensky, Biden anuncia nova ajuda militar](https://www.nexojornal.com.br/extra/2022/12/21/Em-visita-de-Zelensky-Biden-anuncia-nova-ajuda-militar)
 - [‘Houve um conflito distributivo no governo Dilma’](https://www.nexojornal.com.br/entrevista/2022/12/21/%E2%80%98Houve-um-conflito-distributivo-no-governo-Dilma%E2%80%99)
 - [Como o gênero afeta as escolhas educacionais](https://www.nexojornal.com.br/academico/2022/12/21/Como-o-g%C3%AAnero-afeta-as-escolhas-educacionais)
 - [O orçamento secreto acabou ou não? Saiba como vai ser em 2023](https://www.nexojornal.com.br/expresso/2022/12/21/O-or%C3%A7amento-secreto-acabou-ou-n%C3%A3o-Saiba-como-vai-ser-em-2023)
-- [O perfil dos catadores de materiais recicláveis no Brasil](https://www.nexojornal.com.br/grafico/2022/12/21/O-perfil-dos-catadores-de-materiais-recicl%C3%A1veis-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
