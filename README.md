@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Eros, o Doce-Amargo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/eros-o-doce-amargo/)
 - [O senhor do clima](https://gamarevista.uol.com.br/colunistas/marcello-dantas/o-senhor-do-clima/)
 - [Existe equidade racial na pós-graduação?](https://gamarevista.uol.com.br/sociedade/educacao/existe-equidade-racial-na-pos-graduacao/)
 - [@good.boy.ollie](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/good-boy-ollie/)
 - [Quem não se contradiz não diz](https://gamarevista.uol.com.br/colunistas/fernando-luna/quem-nao-se-contradiz-nao-diz/)
-- [Cris Machado:  ‘Exaustas, temos que agir por um aleitamento saudável para mãe e bebê’](https://gamarevista.uol.com.br/podcast/podcast-da-semana/amamentacao-e-exaustao-materna/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
