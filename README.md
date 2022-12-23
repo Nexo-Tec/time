@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Gol de Richarlison contra Sérvia é eleito o mais bonito da Copa](https://www.nexojornal.com.br/extra/2022/12/23/Gol-de-Richarlison-contra-S%C3%A9rvia-%C3%A9-eleito-o-mais-bonito-da-Copa)
-- [Bolsonaro dá perdão a policiais do massacre do Carandiru](https://www.nexojornal.com.br/extra/2022/12/23/Bolsonaro-d%C3%A1-perd%C3%A3o-a-policiais-do-massacre-do-Carandiru)
-- [IPCA-15 fica em 0,52% em dezembro e varia 5,90% em 2022](https://www.nexojornal.com.br/extra/2022/12/23/IPCA-15-fica-em-052-em-dezembro-e-varia-590-em-2022)
 - [5 pontos-chave da visita de Zelensky aos Estados Unidos](https://www.nexojornal.com.br/expresso/2022/12/22/5-pontos-chave-da-visita-de-Zelensky-aos-Estados-Unidos)
 - [Mensagem de final de ano aos jovens &lpar;Des&rpar;Informados](https://www.nexojornal.com.br/colunistas/2022/Mensagem-de-final-de-ano-aos-jovens-DesInformados)
+- [‘Boa parte do que foi divulgado foi a público pelo juiz da Lava Jato’](https://www.nexojornal.com.br/entrevista/2022/12/22/%E2%80%98Boa-parte-do-que-foi-divulgado-foi-a-p%C3%BAblico-pelo-juiz-da-Lava-Jato%E2%80%99)
+- [O impacto da aprovação da PEC da Transição em 4 eixos](https://www.nexojornal.com.br/expresso/2022/12/22/O-impacto-da-aprova%C3%A7%C3%A3o-da-PEC-da-Transi%C3%A7%C3%A3o-em-4-eixos)
+- [Hospitais lotados e crematórios cheios: a crise de covid na China](https://www.nexojornal.com.br/podcast/2022/12/22/Hospitais-lotados-e-cremat%C3%B3rios-cheios-a-crise-de-covid-na-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
