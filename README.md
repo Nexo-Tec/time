@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Atirador mata 3 em Paris, e polícia apura motivação racista](https://www.nexojornal.com.br/extra/2022/12/23/Atirador-mata-3-em-Paris-e-pol%C3%ADcia-apura-motiva%C3%A7%C3%A3o-racista)
-- [As expectativas científicas para 2023 em 5 grandes temas](https://www.nexojornal.com.br/expresso/2022/12/23/As-expectativas-cient%C3%ADficas-para-2023-em-5-grandes-temas)
-- [A plataforma de dados sobre as desigualdades raciais no Brasil](https://www.nexojornal.com.br/expresso/2022/12/23/A-plataforma-de-dados-sobre-as-desigualdades-raciais-no-Brasil)
-- [Yanomami são ameaçados nas aldeias e na cidade](https://www.nexojornal.com.br/externo/2022/12/23/Yanomami-s%C3%A3o-amea%C3%A7ados-nas-aldeias-e-na-cidade)
 - [Gol de Richarlison contra Sérvia é eleito o mais bonito da Copa](https://www.nexojornal.com.br/extra/2022/12/23/Gol-de-Richarlison-contra-S%C3%A9rvia-%C3%A9-eleito-o-mais-bonito-da-Copa)
+- [Bolsonaro dá perdão a policiais do massacre do Carandiru](https://www.nexojornal.com.br/extra/2022/12/23/Bolsonaro-d%C3%A1-perd%C3%A3o-a-policiais-do-massacre-do-Carandiru)
+- [IPCA-15 fica em 0,52% em dezembro e varia 5,90% em 2022](https://www.nexojornal.com.br/extra/2022/12/23/IPCA-15-fica-em-052-em-dezembro-e-varia-590-em-2022)
+- [5 pontos-chave da visita de Zelensky aos Estados Unidos](https://www.nexojornal.com.br/expresso/2022/12/22/5-pontos-chave-da-visita-de-Zelensky-aos-Estados-Unidos)
+- [Mensagem de final de ano aos jovens &lpar;Des&rpar;Informados](https://www.nexojornal.com.br/colunistas/2022/Mensagem-de-final-de-ano-aos-jovens-DesInformados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
