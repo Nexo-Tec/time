@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em Israel, Netanyahu forma governo ultraconservador](https://www.nexojornal.com.br/extra/2022/12/22/Em-Israel-Netanyahu-forma-governo-ultraconservador)
-- [Em visita de Zelensky, Biden anuncia nova ajuda militar](https://www.nexojornal.com.br/extra/2022/12/21/Em-visita-de-Zelensky-Biden-anuncia-nova-ajuda-militar)
-- [‘Houve um conflito distributivo no governo Dilma’](https://www.nexojornal.com.br/entrevista/2022/12/21/%E2%80%98Houve-um-conflito-distributivo-no-governo-Dilma%E2%80%99)
-- [Como o gênero afeta as escolhas educacionais](https://www.nexojornal.com.br/academico/2022/12/21/Como-o-g%C3%AAnero-afeta-as-escolhas-educacionais)
-- [O orçamento secreto acabou ou não? Saiba como vai ser em 2023](https://www.nexojornal.com.br/expresso/2022/12/21/O-or%C3%A7amento-secreto-acabou-ou-n%C3%A3o-Saiba-como-vai-ser-em-2023)
+- [Gol de Richarlison contra Sérvia é eleito o mais bonito da Copa](https://www.nexojornal.com.br/extra/2022/12/23/Gol-de-Richarlison-contra-S%C3%A9rvia-%C3%A9-eleito-o-mais-bonito-da-Copa)
+- [Bolsonaro dá perdão a policiais do massacre do Carandiru](https://www.nexojornal.com.br/extra/2022/12/23/Bolsonaro-d%C3%A1-perd%C3%A3o-a-policiais-do-massacre-do-Carandiru)
+- [IPCA-15 fica em 0,52% em dezembro e varia 5,90% em 2022](https://www.nexojornal.com.br/extra/2022/12/23/IPCA-15-fica-em-052-em-dezembro-e-varia-590-em-2022)
+- [5 pontos-chave da visita de Zelensky aos Estados Unidos](https://www.nexojornal.com.br/expresso/2022/12/22/5-pontos-chave-da-visita-de-Zelensky-aos-Estados-Unidos)
+- [Mensagem de final de ano aos jovens &lpar;Des&rpar;Informados](https://www.nexojornal.com.br/colunistas/2022/Mensagem-de-final-de-ano-aos-jovens-DesInformados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
