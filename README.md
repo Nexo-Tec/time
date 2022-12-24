@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Atirador mata 3 em Paris, e polícia apura motivação racista](https://www.nexojornal.com.br/extra/2022/12/23/Atirador-mata-3-em-Paris-e-pol%C3%ADcia-apura-motiva%C3%A7%C3%A3o-racista)
-- [As expectativas científicas para 2023 em 5 grandes temas](https://www.nexojornal.com.br/expresso/2022/12/23/As-expectativas-cient%C3%ADficas-para-2023-em-5-grandes-temas)
-- [A plataforma de dados sobre as desigualdades raciais no Brasil](https://www.nexojornal.com.br/expresso/2022/12/23/A-plataforma-de-dados-sobre-as-desigualdades-raciais-no-Brasil)
-- [Yanomami são ameaçados nas aldeias e na cidade](https://www.nexojornal.com.br/externo/2022/12/23/Yanomami-s%C3%A3o-amea%C3%A7ados-nas-aldeias-e-na-cidade)
-- [Gol de Richarlison contra Sérvia é eleito o mais bonito da Copa](https://www.nexojornal.com.br/extra/2022/12/23/Gol-de-Richarlison-contra-S%C3%A9rvia-%C3%A9-eleito-o-mais-bonito-da-Copa)
+- [Como Lula lida com a diversidade nos ministérios para 2023](https://www.nexojornal.com.br/expresso/2022/12/23/Como-Lula-lida-com-a-diversidade-nos-minist%C3%A9rios-para-2023)
+- [‘A ideia básica do teto de gastos é diminuir o tamanho do Estado’](https://www.nexojornal.com.br/entrevista/2022/12/23/%E2%80%98A-ideia-b%C3%A1sica-do-teto-de-gastos-%C3%A9-diminuir-o-tamanho-do-Estado%E2%80%99)
+- [Na minha despedida, desejo mais evidências nas políticas públicas](https://www.nexojornal.com.br/colunistas/2022/Na-minha-despedida-desejo-mais-evid%C3%AAncias-nas-pol%C3%ADticas-p%C3%BAblicas)
+- [Uma breve história de como o rosa se tornou a cor polêmica da moda](https://www.nexojornal.com.br/externo/2022/12/23/Uma-breve-hist%C3%B3ria-de-como-o-rosa-se-tornou-a-cor-pol%C3%AAmica-da-moda)
+- [‘O grande recuo’: uma análise sociopolítica do mundo pós-covid](https://www.nexojornal.com.br/estante/trechos/2022/12/23/%E2%80%98O-grande-recuo%E2%80%99-uma-an%C3%A1lise-sociopol%C3%ADtica-do-mundo-p%C3%B3s-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
