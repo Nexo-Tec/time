@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tempestade de inverno mata 19 e afeta milhões nos EUA e no Canadá](https://www.nexojornal.com.br/extra/2022/12/24/Tempestade-de-inverno-mata-19-e-afeta-milh%C3%B5es-nos-EUA-e-no-Canad%C3%A1)
-- [‘Foram armas do poder público que mataram minha irmã’](https://www.nexojornal.com.br/entrevista/2022/12/24/%E2%80%98Foram-armas-do-poder-p%C3%BAblico-que-mataram-minha-irm%C3%A3%E2%80%99)
-- [A onda recente de filmes brasileiros com temática natalina](https://www.nexojornal.com.br/expresso/2022/12/24/A-onda-recente-de-filmes-brasileiros-com-tem%C3%A1tica-natalina)
-- [Os exemplos dados por secretaria estadual sergipana](https://www.nexojornal.com.br/ensaio/2022/12/24/Os-exemplos-dados-por-secretaria-estadual-sergipana)
-- [Uma expedição à serra do Imeri, montanha inexplorada na Amazônia brasileira](https://www.nexojornal.com.br/externo/2022/12/24/Uma-expedi%C3%A7%C3%A3o-%C3%A0-serra-do-Imeri-montanha-inexplorada-na-Amaz%C3%B4nia-brasileira)
+- [Procurador aciona Aras contra indulto a policiais do Carandiru](https://www.nexojornal.com.br/extra/2022/12/24/Procurador-aciona-Aras-contra-indulto-a-policiais-do-Carandiru)
+- [Como Lula lida com a diversidade nos ministérios para 2023](https://www.nexojornal.com.br/expresso/2022/12/23/Como-Lula-lida-com-a-diversidade-nos-minist%C3%A9rios-para-2023)
+- [‘A ideia básica do teto de gastos é diminuir o tamanho do Estado’](https://www.nexojornal.com.br/entrevista/2022/12/23/%E2%80%98A-ideia-b%C3%A1sica-do-teto-de-gastos-%C3%A9-diminuir-o-tamanho-do-Estado%E2%80%99)
+- [Na minha despedida, desejo mais evidências nas políticas públicas](https://www.nexojornal.com.br/colunistas/2022/Na-minha-despedida-desejo-mais-evid%C3%AAncias-nas-pol%C3%ADticas-p%C3%BAblicas)
+- [Uma breve história de como o rosa se tornou a cor polêmica da moda](https://www.nexojornal.com.br/externo/2022/12/23/Uma-breve-hist%C3%B3ria-de-como-o-rosa-se-tornou-a-cor-pol%C3%AAmica-da-moda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
