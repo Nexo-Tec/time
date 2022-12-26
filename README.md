@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Greve de pilotos e comissários chega ao fim após acordo](https://www.nexojornal.com.br/extra/2022/12/25/Greve-de-pilotos-e-comiss%C3%A1rios-chega-ao-fim-ap%C3%B3s-acordo)
 - [Tempestade de inverno mata 19 e afeta milhões nos EUA e no Canadá](https://www.nexojornal.com.br/extra/2022/12/24/Tempestade-de-inverno-mata-19-e-afeta-milh%C3%B5es-nos-EUA-e-no-Canad%C3%A1)
 - [‘Foram armas do poder público que mataram minha irmã’](https://www.nexojornal.com.br/entrevista/2022/12/24/%E2%80%98Foram-armas-do-poder-p%C3%BAblico-que-mataram-minha-irm%C3%A3%E2%80%99)
 - [A onda recente de filmes brasileiros com temática natalina](https://www.nexojornal.com.br/expresso/2022/12/24/A-onda-recente-de-filmes-brasileiros-com-tem%C3%A1tica-natalina)
 - [Os exemplos dados por secretaria estadual sergipana](https://www.nexojornal.com.br/ensaio/2022/12/24/Os-exemplos-dados-por-secretaria-estadual-sergipana)
+- [Uma expedição à serra do Imeri, montanha inexplorada na Amazônia brasileira](https://www.nexojornal.com.br/externo/2022/12/24/Uma-expedi%C3%A7%C3%A3o-%C3%A0-serra-do-Imeri-montanha-inexplorada-na-Amaz%C3%B4nia-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
