@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Objetos que são a cara de 2022](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-sao-a-cara-de-2022/)
 - [O mito do auge da mulher](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-mito-do-auge-da-mulher/)
 - [Eros, o Doce-Amargo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/eros-o-doce-amargo/)
 - [O senhor do clima](https://gamarevista.uol.com.br/colunistas/marcello-dantas/o-senhor-do-clima/)
 - [Existe equidade racial na pós-graduação?](https://gamarevista.uol.com.br/sociedade/educacao/existe-equidade-racial-na-pos-graduacao/)
-- [@good.boy.ollie](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/good-boy-ollie/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
