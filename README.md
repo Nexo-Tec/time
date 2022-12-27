@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os desafios do novo Ministério da Educação](https://www.nexojornal.com.br/ensaio/2022/12/25/Os-desafios-do-novo-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
-- [Um guia online sobre estilos e movimentos artísticos](https://www.nexojornal.com.br/expresso/2022/12/25/Um-guia-online-sobre-estilos-e-movimentos-art%C3%ADsticos)
-- [Como Lula redobrou a aposta na valorização do salário mínimo](https://www.nexojornal.com.br/expresso/2022/12/25/Como-Lula-redobrou-a-aposta-na-valoriza%C3%A7%C3%A3o-do-sal%C3%A1rio-m%C3%ADnimo)
-- [Bolsonarista é preso por terrorismo após montar explosivo](https://www.nexojornal.com.br/extra/2022/12/25/Bolsonarista-%C3%A9-preso-por-terrorismo-ap%C3%B3s-montar-explosivo)
-- [Greve de pilotos e comissários chega ao fim após acordo](https://www.nexojornal.com.br/extra/2022/12/25/Greve-de-pilotos-e-comiss%C3%A1rios-chega-ao-fim-ap%C3%B3s-acordo)
+- [Espumante brasileiro corresponde a 85,5% do mercado nacional](https://www.nexojornal.com.br/grafico/2022/12/26/Espumante-brasileiro-corresponde-a-855-do-mercado-nacional)
+- [As tensões para a posse de Lula. E os planos de reforço na segurança](https://www.nexojornal.com.br/expresso/2022/12/26/As-tens%C3%B5es-para-a-posse-de-Lula.-E-os-planos-de-refor%C3%A7o-na-seguran%C3%A7a)
+- [Filho de brasileiros eleito nos EUA admite mentir no currículo](https://www.nexojornal.com.br/extra/2022/12/26/Filho-de-brasileiros-eleito-nos-EUA-admite-mentir-no-curr%C3%ADculo)
+- [Como a lei trata o atentado frustrado ao Aeroporto de Brasília](https://www.nexojornal.com.br/podcast/2022/12/26/Como-a-lei-trata-o-atentado-frustrado-ao-Aeroporto-de-Bras%C3%ADlia)
+- [O que é o worldbuilding, a invenção de mundos](https://www.nexojornal.com.br/expresso/2022/12/26/O-que-%C3%A9-o-worldbuilding-a-inven%C3%A7%C3%A3o-de-mundos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
