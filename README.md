@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o worldbuilding, a invenção de mundos](https://www.nexojornal.com.br/expresso/2022/12/26/O-que-%C3%A9-o-worldbuilding-a-inven%C3%A7%C3%A3o-de-mundos)
-- [Ataque de drone mata soldados em base militar na Rússia](https://www.nexojornal.com.br/extra/2022/12/26/Ataque-de-drone-mata-soldados-em-base-militar-na-R%C3%BAssia)
-- [Os acampamentos bolsonaristas como foco de radicalização](https://www.nexojornal.com.br/expresso/2022/12/26/Os-acampamentos-bolsonaristas-como-foco-de-radicaliza%C3%A7%C3%A3o)
-- [Os céus em 2023: os principais fenômenos astronômicos do ano](https://www.nexojornal.com.br/expresso/2022/12/26/Os-c%C3%A9us-em-2023-os-principais-fen%C3%B4menos-astron%C3%B4micos-do-ano)
 - [Os desafios do novo Ministério da Educação](https://www.nexojornal.com.br/ensaio/2022/12/25/Os-desafios-do-novo-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
+- [Um guia online sobre estilos e movimentos artísticos](https://www.nexojornal.com.br/expresso/2022/12/25/Um-guia-online-sobre-estilos-e-movimentos-art%C3%ADsticos)
+- [Como Lula redobrou a aposta na valorização do salário mínimo](https://www.nexojornal.com.br/expresso/2022/12/25/Como-Lula-redobrou-a-aposta-na-valoriza%C3%A7%C3%A3o-do-sal%C3%A1rio-m%C3%ADnimo)
+- [Bolsonarista é preso por terrorismo após montar explosivo](https://www.nexojornal.com.br/extra/2022/12/25/Bolsonarista-%C3%A9-preso-por-terrorismo-ap%C3%B3s-montar-explosivo)
+- [Greve de pilotos e comissários chega ao fim após acordo](https://www.nexojornal.com.br/extra/2022/12/25/Greve-de-pilotos-e-comiss%C3%A1rios-chega-ao-fim-ap%C3%B3s-acordo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
