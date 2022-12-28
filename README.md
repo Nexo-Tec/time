@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o worldbuilding, a invenção de mundos](https://www.nexojornal.com.br/expresso/2022/12/26/O-que-%C3%A9-o-worldbuilding-a-inven%C3%A7%C3%A3o-de-mundos)
-- [Ataque de drone mata soldados em base militar na Rússia](https://www.nexojornal.com.br/extra/2022/12/26/Ataque-de-drone-mata-soldados-em-base-militar-na-R%C3%BAssia)
-- [Os acampamentos bolsonaristas como foco de radicalização](https://www.nexojornal.com.br/expresso/2022/12/26/Os-acampamentos-bolsonaristas-como-foco-de-radicaliza%C3%A7%C3%A3o)
-- [Os céus em 2023: os principais fenômenos astronômicos do ano](https://www.nexojornal.com.br/expresso/2022/12/26/Os-c%C3%A9us-em-2023-os-principais-fen%C3%B4menos-astron%C3%B4micos-do-ano)
-- [Os desafios do novo Ministério da Educação](https://www.nexojornal.com.br/ensaio/2022/12/25/Os-desafios-do-novo-Minist%C3%A9rio-da-Educa%C3%A7%C3%A3o)
+- [Tebet aceita Planejamento após impasse, dizem jornais](https://www.nexojornal.com.br/extra/2022/12/27/Tebet-aceita-Planejamento-ap%C3%B3s-impasse-dizem-jornais)
+- [Espumante brasileiro corresponde a 85,5% do mercado nacional](https://www.nexojornal.com.br/grafico/2022/12/26/Espumante-brasileiro-corresponde-a-855-do-mercado-nacional)
+- [As tensões para a posse de Lula. E os planos para minimizá-las](https://www.nexojornal.com.br/expresso/2022/12/26/As-tens%C3%B5es-para-a-posse-de-Lula.-E-os-planos-para-minimiz%C3%A1-las)
+- [Filho de brasileiros eleito nos EUA admite mentir no currículo](https://www.nexojornal.com.br/extra/2022/12/26/Filho-de-brasileiros-eleito-nos-EUA-admite-mentir-no-curr%C3%ADculo)
+- [Como a lei trata o atentado frustrado ao Aeroporto de Brasília](https://www.nexojornal.com.br/podcast/2022/12/26/Como-a-lei-trata-o-atentado-frustrado-ao-Aeroporto-de-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
