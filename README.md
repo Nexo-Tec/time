@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os impactos do freio ao poder individual no Supremo](https://www.nexojornal.com.br/expresso/2022/12/27/Quais-os-impactos-do-freio-ao-poder-individual-no-Supremo)
-- [Como o nacionalismo sérvio paira sobre Kosovo](https://www.nexojornal.com.br/expresso/2022/12/27/Como-o-nacionalismo-s%C3%A9rvio-paira-sobre-Kosovo)
-- [Por um ano de 2023 centrado em justiça climática](https://www.nexojornal.com.br/colunistas/2022/Por-um-ano-de-2023-centrado-em-justi%C3%A7a-clim%C3%A1tica)
-- [Como a nevasca nos EUA fecha um ano de extremos climáticos](https://www.nexojornal.com.br/podcast/2022/12/27/Como-a-nevasca-nos-EUA-fecha-um-ano-de-extremos-clim%C3%A1ticos)
-- [Aras pede que STF suspenda indulto a policiais do Carandiru](https://www.nexojornal.com.br/extra/2022/12/27/Aras-pede-que-STF-suspenda-indulto-a-policiais-do-Carandiru)
+- [Tebet aceita Planejamento após impasse, dizem jornais](https://www.nexojornal.com.br/extra/2022/12/27/Tebet-aceita-Planejamento-ap%C3%B3s-impasse-dizem-jornais)
+- [Espumante brasileiro corresponde a 85,5% do mercado nacional](https://www.nexojornal.com.br/grafico/2022/12/26/Espumante-brasileiro-corresponde-a-855-do-mercado-nacional)
+- [As tensões para a posse de Lula. E os planos para minimizá-las](https://www.nexojornal.com.br/expresso/2022/12/26/As-tens%C3%B5es-para-a-posse-de-Lula.-E-os-planos-para-minimiz%C3%A1-las)
+- [Filho de brasileiros eleito nos EUA admite mentir no currículo](https://www.nexojornal.com.br/extra/2022/12/26/Filho-de-brasileiros-eleito-nos-EUA-admite-mentir-no-curr%C3%ADculo)
+- [Como a lei trata o atentado frustrado ao Aeroporto de Brasília](https://www.nexojornal.com.br/podcast/2022/12/26/Como-a-lei-trata-o-atentado-frustrado-ao-Aeroporto-de-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
