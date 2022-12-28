@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tebet aceita Planejamento após impasse, dizem jornais](https://www.nexojornal.com.br/extra/2022/12/27/Tebet-aceita-Planejamento-ap%C3%B3s-impasse-dizem-jornais)
 - [Espumante brasileiro corresponde a 85,5% do mercado nacional](https://www.nexojornal.com.br/grafico/2022/12/26/Espumante-brasileiro-corresponde-a-855-do-mercado-nacional)
 - [As tensões para a posse de Lula. E os planos para minimizá-las](https://www.nexojornal.com.br/expresso/2022/12/26/As-tens%C3%B5es-para-a-posse-de-Lula.-E-os-planos-para-minimiz%C3%A1-las)
 - [Filho de brasileiros eleito nos EUA admite mentir no currículo](https://www.nexojornal.com.br/extra/2022/12/26/Filho-de-brasileiros-eleito-nos-EUA-admite-mentir-no-curr%C3%ADculo)
 - [Como a lei trata o atentado frustrado ao Aeroporto de Brasília](https://www.nexojornal.com.br/podcast/2022/12/26/Como-a-lei-trata-o-atentado-frustrado-ao-Aeroporto-de-Bras%C3%ADlia)
-- [O que é o worldbuilding, a invenção de mundos](https://www.nexojornal.com.br/expresso/2022/12/26/O-que-%C3%A9-o-worldbuilding-a-inven%C3%A7%C3%A3o-de-mundos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
