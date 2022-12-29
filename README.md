@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz operação contra bolsonaristas que vandalizaram Brasília](https://www.nexojornal.com.br/extra/2022/12/29/PF-faz-opera%C3%A7%C3%A3o-contra-bolsonaristas-que-vandalizaram-Bras%C3%ADlia)
-- [‘Mudar a regulação de armas é central mas insuficiente’](https://www.nexojornal.com.br/expresso/2022/12/28/%E2%80%98Mudar-a-regula%C3%A7%C3%A3o-de-armas-%C3%A9-central-mas-insuficiente%E2%80%99)
-- [As tendências de pesquisas no Google Brasil em 2022](https://www.nexojornal.com.br/grafico/2022/12/28/As-tend%C3%AAncias-de-pesquisas-no-Google-Brasil-em-2022)
-- [PF aponta crime de Bolsonaro ao falar de vacina e máscara](https://www.nexojornal.com.br/extra/2022/12/28/PF-aponta-crime-de-Bolsonaro-ao-falar-de-vacina-e-m%C3%A1scara)
-- [‘Disrupção das eleições de 2018 veio da Operação Lava Jato’](https://www.nexojornal.com.br/entrevista/2022/12/28/%E2%80%98Disrup%C3%A7%C3%A3o-das-elei%C3%A7%C3%B5es-de-2018-veio-da-Opera%C3%A7%C3%A3o-Lava-Jato%E2%80%99)
+- [A distribuição de cannabis medicinal pelo SUS](https://www.nexojornal.com.br/expresso/2022/12/28/A-distribui%C3%A7%C3%A3o-de-cannabis-medicinal-pelo-SUS)
+- [Moraes suspende porte de arma em Brasília até posse de Lula](https://www.nexojornal.com.br/extra/2022/12/28/Moraes-suspende-porte-de-arma-em-Bras%C3%ADlia-at%C3%A9-posse-de-Lula)
+- [Escolhido de Lula para Exército assumirá antes da posse](https://www.nexojornal.com.br/extra/2022/12/28/Escolhido-de-Lula-para-Ex%C3%A9rcito-assumir%C3%A1-antes-da-posse)
+- [Quais os impactos do freio ao poder individual no Supremo](https://www.nexojornal.com.br/expresso/2022/12/27/Quais-os-impactos-do-freio-ao-poder-individual-no-Supremo)
+- [Como o nacionalismo sérvio paira sobre Kosovo](https://www.nexojornal.com.br/expresso/2022/12/27/Como-o-nacionalismo-s%C3%A9rvio-paira-sobre-Kosovo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
