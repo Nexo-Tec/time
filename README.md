@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A distribuição de cannabis medicinal pelo SUS](https://www.nexojornal.com.br/expresso/2022/12/28/A-distribui%C3%A7%C3%A3o-de-cannabis-medicinal-pelo-SUS)
+- [Moraes suspende porte de arma em Brasília até posse de Lula](https://www.nexojornal.com.br/extra/2022/12/28/Moraes-suspende-porte-de-arma-em-Bras%C3%ADlia-at%C3%A9-posse-de-Lula)
+- [Escolhido de Lula para Exército assumirá antes da posse](https://www.nexojornal.com.br/extra/2022/12/28/Escolhido-de-Lula-para-Ex%C3%A9rcito-assumir%C3%A1-antes-da-posse)
 - [Quais os impactos do freio ao poder individual no Supremo](https://www.nexojornal.com.br/expresso/2022/12/27/Quais-os-impactos-do-freio-ao-poder-individual-no-Supremo)
 - [Como o nacionalismo sérvio paira sobre Kosovo](https://www.nexojornal.com.br/expresso/2022/12/27/Como-o-nacionalismo-s%C3%A9rvio-paira-sobre-Kosovo)
-- [Por um ano de 2023 centrado em justiça climática](https://www.nexojornal.com.br/colunistas/2022/Por-um-ano-de-2023-centrado-em-justi%C3%A7a-clim%C3%A1tica)
-- [Como a nevasca nos EUA fecha um ano de extremos climáticos](https://www.nexojornal.com.br/podcast/2022/12/27/Como-a-nevasca-nos-EUA-fecha-um-ano-de-extremos-clim%C3%A1ticos)
-- [Aras pede que STF suspenda indulto a policiais do Carandiru](https://www.nexojornal.com.br/extra/2022/12/27/Aras-pede-que-STF-suspenda-indulto-a-policiais-do-Carandiru)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
