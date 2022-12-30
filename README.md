@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 pontos da trajetória de Pelé como 1ª celebridade do esporte](https://www.nexojornal.com.br/expresso/2022/12/29/10-pontos-da-trajet%C3%B3ria-de-Pel%C3%A9-como-1%C2%AA-celebridade-do-esporte)
-- [Com nem um terço de ministras mulheres, Lula bate recorde](https://www.nexojornal.com.br/extra/2022/12/29/Com-nem-um-ter%C3%A7o-de-ministras-mulheres-Lula-bate-recorde)
-- [PF faz operação contra bolsonaristas que vandalizaram Brasília](https://www.nexojornal.com.br/extra/2022/12/29/PF-faz-opera%C3%A7%C3%A3o-contra-bolsonaristas-que-vandalizaram-Bras%C3%ADlia)
-- [‘Mudar a regulação de armas é central mas insuficiente’](https://www.nexojornal.com.br/expresso/2022/12/28/%E2%80%98Mudar-a-regula%C3%A7%C3%A3o-de-armas-%C3%A9-central-mas-insuficiente%E2%80%99)
-- [As tendências de pesquisas no Google Brasil em 2022](https://www.nexojornal.com.br/grafico/2022/12/28/As-tend%C3%AAncias-de-pesquisas-no-Google-Brasil-em-2022)
+- [Mulheres empreendem e criam novos produtos na Amazônia](https://www.nexojornal.com.br/externo/2022/12/30/Mulheres-empreendem-e-criam-novos-produtos-na-Amaz%C3%B4nia)
+- [Bolsonaristas se frustram com despedida lacrimosa](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaristas-se-frustram-com-despedida-lacrimosa)
+- [Servidoras de carreira vão chefiar Banco do Brasil e Caixa](https://www.nexojornal.com.br/extra/2022/12/30/Servidoras-de-carreira-v%C3%A3o-chefiar-Banco-do-Brasil-e-Caixa)
+- [Bolsonaro condena ato terrorista e embarca para a Flórida](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaro-condena-ato-terrorista-e-embarca-para-a-Fl%C3%B3rida)
+- [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
