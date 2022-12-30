@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [10 pontos da trajetória de Pelé como 1ª celebridade do esporte](https://www.nexojornal.com.br/expresso/2022/12/29/10-pontos-da-trajet%C3%B3ria-de-Pel%C3%A9-como-1%C2%AA-celebridade-do-esporte)
+- [Com nem um terço de ministras mulheres, Lula bate recorde](https://www.nexojornal.com.br/extra/2022/12/29/Com-nem-um-ter%C3%A7o-de-ministras-mulheres-Lula-bate-recorde)
+- [PF faz operação contra bolsonaristas que vandalizaram Brasília](https://www.nexojornal.com.br/extra/2022/12/29/PF-faz-opera%C3%A7%C3%A3o-contra-bolsonaristas-que-vandalizaram-Bras%C3%ADlia)
 - [‘Mudar a regulação de armas é central mas insuficiente’](https://www.nexojornal.com.br/expresso/2022/12/28/%E2%80%98Mudar-a-regula%C3%A7%C3%A3o-de-armas-%C3%A9-central-mas-insuficiente%E2%80%99)
 - [As tendências de pesquisas no Google Brasil em 2022](https://www.nexojornal.com.br/grafico/2022/12/28/As-tend%C3%AAncias-de-pesquisas-no-Google-Brasil-em-2022)
-- [PF aponta crime de Bolsonaro ao falar de vacina e máscara](https://www.nexojornal.com.br/extra/2022/12/28/PF-aponta-crime-de-Bolsonaro-ao-falar-de-vacina-e-m%C3%A1scara)
-- [‘Disrupção das eleições de 2018 veio da Operação Lava Jato’](https://www.nexojornal.com.br/entrevista/2022/12/28/%E2%80%98Disrup%C3%A7%C3%A3o-das-elei%C3%A7%C3%B5es-de-2018-veio-da-Opera%C3%A7%C3%A3o-Lava-Jato%E2%80%99)
-- [A viagem de Bolsonaro à Flórida para não passar a faixa](https://www.nexojornal.com.br/podcast/2022/12/28/A-viagem-de-Bolsonaro-%C3%A0-Fl%C3%B3rida-para-n%C3%A3o-passar-a-faixa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
