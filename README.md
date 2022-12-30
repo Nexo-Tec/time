@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [10 pontos da trajetória de Pelé como 1ª celebridade do esporte](https://www.nexojornal.com.br/expresso/2022/12/29/10-pontos-da-trajet%C3%B3ria-de-Pel%C3%A9-como-1%C2%AA-celebridade-do-esporte)
-- [Com nem um terço de ministras mulheres, Lula bate recorde](https://www.nexojornal.com.br/extra/2022/12/29/Com-nem-um-ter%C3%A7o-de-ministras-mulheres-Lula-bate-recorde)
-- [PF faz operação contra bolsonaristas que vandalizaram Brasília](https://www.nexojornal.com.br/extra/2022/12/29/PF-faz-opera%C3%A7%C3%A3o-contra-bolsonaristas-que-vandalizaram-Bras%C3%ADlia)
-- [‘Mudar a regulação de armas é central mas insuficiente’](https://www.nexojornal.com.br/expresso/2022/12/28/%E2%80%98Mudar-a-regula%C3%A7%C3%A3o-de-armas-%C3%A9-central-mas-insuficiente%E2%80%99)
-- [As tendências de pesquisas no Google Brasil em 2022](https://www.nexojornal.com.br/grafico/2022/12/28/As-tend%C3%AAncias-de-pesquisas-no-Google-Brasil-em-2022)
+- [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
+- [EUA, Japão e outros exigem teste de covid de viajantes da China](https://www.nexojornal.com.br/extra/2022/12/29/EUA-Jap%C3%A3o-e-outros-exigem-teste-de-covid-de-viajantes-da-China)
+- [Quais os passos iniciais de Lula na política externa](https://www.nexojornal.com.br/expresso/2022/12/29/Quais-os-passos-iniciais-de-Lula-na-pol%C3%ADtica-externa)
+- [Como os gatos eram tratados na Idade Média](https://www.nexojornal.com.br/externo/2022/12/29/Como-os-gatos-eram-tratados-na-Idade-M%C3%A9dia)
+- [A aliança que Lula formou para governar a partir de 2023](https://www.nexojornal.com.br/podcast/2022/12/29/A-alian%C3%A7a-que-Lula-formou-para-governar-a-partir-de-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
