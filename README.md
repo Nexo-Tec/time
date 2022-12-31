@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mulheres empreendem e criam novos produtos na Amazônia](https://www.nexojornal.com.br/externo/2022/12/30/Mulheres-empreendem-e-criam-novos-produtos-na-Amaz%C3%B4nia)
-- [Bolsonaristas se frustram com despedida lacrimosa](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaristas-se-frustram-com-despedida-lacrimosa)
-- [Servidoras de carreira vão chefiar Banco do Brasil e Caixa](https://www.nexojornal.com.br/extra/2022/12/30/Servidoras-de-carreira-v%C3%A3o-chefiar-Banco-do-Brasil-e-Caixa)
-- [Bolsonaro condena ato terrorista e embarca para a Flórida](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaro-condena-ato-terrorista-e-embarca-para-a-Fl%C3%B3rida)
 - [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
+- [EUA, Japão e outros exigem teste de covid de viajantes da China](https://www.nexojornal.com.br/extra/2022/12/29/EUA-Jap%C3%A3o-e-outros-exigem-teste-de-covid-de-viajantes-da-China)
+- [Quais os passos iniciais de Lula na política externa](https://www.nexojornal.com.br/expresso/2022/12/29/Quais-os-passos-iniciais-de-Lula-na-pol%C3%ADtica-externa)
+- [Como os gatos eram tratados na Idade Média](https://www.nexojornal.com.br/externo/2022/12/29/Como-os-gatos-eram-tratados-na-Idade-M%C3%A9dia)
+- [A aliança que Lula formou para governar a partir de 2023](https://www.nexojornal.com.br/podcast/2022/12/29/A-alian%C3%A7a-que-Lula-formou-para-governar-a-partir-de-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
