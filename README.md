@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mulheres empreendem e criam novos produtos na Amazônia](https://www.nexojornal.com.br/externo/2022/12/30/Mulheres-empreendem-e-criam-novos-produtos-na-Amaz%C3%B4nia)
-- [Bolsonaristas se frustram com despedida lacrimosa](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaristas-se-frustram-com-despedida-lacrimosa)
-- [Servidoras de carreira vão chefiar Banco do Brasil e Caixa](https://www.nexojornal.com.br/extra/2022/12/30/Servidoras-de-carreira-v%C3%A3o-chefiar-Banco-do-Brasil-e-Caixa)
-- [Bolsonaro condena ato terrorista e embarca para a Flórida](https://www.nexojornal.com.br/extra/2022/12/30/Bolsonaro-condena-ato-terrorista-e-embarca-para-a-Fl%C3%B3rida)
-- [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
+- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/incoming/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [O projeto fotográfico para explorar a genética familiar](https://www.nexojornal.com.br/expresso/2022/12/30/O-projeto-fotogr%C3%A1fico-para-explorar-a-gen%C3%A9tica-familiar)
+- [‘Com Paulo Guedes, responsabilidade fiscal foi para o espaço’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Com-Paulo-Guedes-responsabilidade-fiscal-foi-para-o-espa%C3%A7o%E2%80%99)
+- [Senador petista Jean Paul Prates vai presidir Petrobras](https://www.nexojornal.com.br/extra/2022/12/30/Senador-petista-Jean-Paul-Prates-vai-presidir-Petrobras)
+- [Ciência na Amazônia: Ana Carla Bruno](https://www.nexojornal.com.br/externo/2022/12/30/Ci%C3%AAncia-na-Amaz%C3%B4nia-Ana-Carla-Bruno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
