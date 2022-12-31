@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O Brasil e o mundo em 2022: instabilidade, guerra e mudança](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2022-instabilidade-guerra-e-mudan%C3%A7a)
-- [‘Elementar’: a realidade explicada pela química](https://www.nexojornal.com.br/estante/trechos/2022/12/30/%E2%80%98Elementar%E2%80%99-a-realidade-explicada-pela-qu%C3%ADmica)
-- [‘Contestação do PSDB à eleição de 2014 foi ponto de ruptura’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Contesta%C3%A7%C3%A3o-do-PSDB-%C3%A0-elei%C3%A7%C3%A3o-de-2014-foi-ponto-de-ruptura%E2%80%99)
-- [A etapa da infância em que a mentira pode ser bom sinal](https://www.nexojornal.com.br/expresso/2022/12/30/A-etapa-da-inf%C3%A2ncia-em-que-a-mentira-pode-ser-bom-sinal)
-- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/extra/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/incoming/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [O projeto fotográfico para explorar a genética familiar](https://www.nexojornal.com.br/expresso/2022/12/30/O-projeto-fotogr%C3%A1fico-para-explorar-a-gen%C3%A9tica-familiar)
+- [‘Com Paulo Guedes, responsabilidade fiscal foi para o espaço’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Com-Paulo-Guedes-responsabilidade-fiscal-foi-para-o-espa%C3%A7o%E2%80%99)
+- [Senador petista Jean Paul Prates vai presidir Petrobras](https://www.nexojornal.com.br/extra/2022/12/30/Senador-petista-Jean-Paul-Prates-vai-presidir-Petrobras)
+- [Ciência na Amazônia: Ana Carla Bruno](https://www.nexojornal.com.br/externo/2022/12/30/Ci%C3%AAncia-na-Amaz%C3%B4nia-Ana-Carla-Bruno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
