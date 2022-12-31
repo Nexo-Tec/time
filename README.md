@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
-- [EUA, Japão e outros exigem teste de covid de viajantes da China](https://www.nexojornal.com.br/extra/2022/12/29/EUA-Jap%C3%A3o-e-outros-exigem-teste-de-covid-de-viajantes-da-China)
-- [Quais os passos iniciais de Lula na política externa](https://www.nexojornal.com.br/expresso/2022/12/29/Quais-os-passos-iniciais-de-Lula-na-pol%C3%ADtica-externa)
-- [Como os gatos eram tratados na Idade Média](https://www.nexojornal.com.br/externo/2022/12/29/Como-os-gatos-eram-tratados-na-Idade-M%C3%A9dia)
-- [A aliança que Lula formou para governar a partir de 2023](https://www.nexojornal.com.br/podcast/2022/12/29/A-alian%C3%A7a-que-Lula-formou-para-governar-a-partir-de-2023)
+- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/incoming/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [O projeto fotográfico para explorar a genética familiar](https://www.nexojornal.com.br/expresso/2022/12/30/O-projeto-fotogr%C3%A1fico-para-explorar-a-gen%C3%A9tica-familiar)
+- [‘Com Paulo Guedes, responsabilidade fiscal foi para o espaço’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Com-Paulo-Guedes-responsabilidade-fiscal-foi-para-o-espa%C3%A7o%E2%80%99)
+- [Senador petista Jean Paul Prates vai presidir Petrobras](https://www.nexojornal.com.br/extra/2022/12/30/Senador-petista-Jean-Paul-Prates-vai-presidir-Petrobras)
+- [Ciência na Amazônia: Ana Carla Bruno](https://www.nexojornal.com.br/externo/2022/12/30/Ci%C3%AAncia-na-Amaz%C3%B4nia-Ana-Carla-Bruno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
