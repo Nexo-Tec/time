@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O Brasil e o mundo em 2022: instabilidade, guerra e mudança](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2022-instabilidade-guerra-e-mudan%C3%A7a)
-- [‘Elementar’: a realidade explicada pela química](https://www.nexojornal.com.br/estante/trechos/2022/12/30/%E2%80%98Elementar%E2%80%99-a-realidade-explicada-pela-qu%C3%ADmica)
-- [‘Contestação do PSDB à eleição de 2014 foi ponto de ruptura’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Contesta%C3%A7%C3%A3o-do-PSDB-%C3%A0-elei%C3%A7%C3%A3o-de-2014-foi-ponto-de-ruptura%E2%80%99)
-- [A etapa da infância em que a mentira pode ser bom sinal](https://www.nexojornal.com.br/expresso/2022/12/30/A-etapa-da-inf%C3%A2ncia-em-que-a-mentira-pode-ser-bom-sinal)
-- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/extra/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [Os galeses que tentam preservar seu idioma na Patagônia argentina](https://www.nexojornal.com.br/expresso/2022/12/29/Os-galeses-que-tentam-preservar-seu-idioma-na-Patag%C3%B4nia-argentina)
+- [EUA, Japão e outros exigem teste de covid de viajantes da China](https://www.nexojornal.com.br/extra/2022/12/29/EUA-Jap%C3%A3o-e-outros-exigem-teste-de-covid-de-viajantes-da-China)
+- [Quais os passos iniciais de Lula na política externa](https://www.nexojornal.com.br/expresso/2022/12/29/Quais-os-passos-iniciais-de-Lula-na-pol%C3%ADtica-externa)
+- [Como os gatos eram tratados na Idade Média](https://www.nexojornal.com.br/externo/2022/12/29/Como-os-gatos-eram-tratados-na-Idade-M%C3%A9dia)
+- [A aliança que Lula formou para governar a partir de 2023](https://www.nexojornal.com.br/podcast/2022/12/29/A-alian%C3%A7a-que-Lula-formou-para-governar-a-partir-de-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
