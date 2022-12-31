@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
-- [Em Orlando, Bolsonaro se hospeda na casa de ex-lutador de MMA](https://www.nexojornal.com.br/extra/2022/12/31/Em-Orlando-Bolsonaro-se-hospeda-na-casa-de-ex-lutador-de-MMA1)
-- [Memórias da posse: a hora em que um país troca de presidente](https://www.nexojornal.com.br/reportagem/2022/12/31/Mem%C3%B3rias-da-posse-a-hora-em-que-um-pa%C3%ADs-troca-de-presidente)
-- [Bento 16: um papa conservador cercado de polêmicas](https://www.nexojornal.com.br/expresso/2022/12/31/Bento-16-um-papa-conservador-cercado-de-pol%C3%AAmicas)
-- [O Brasil e o mundo em 2022: instabilidade, guerra e mudança](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2022-instabilidade-guerra-e-mudan%C3%A7a)
+- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/incoming/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
+- [O projeto fotográfico para explorar a genética familiar](https://www.nexojornal.com.br/expresso/2022/12/30/O-projeto-fotogr%C3%A1fico-para-explorar-a-gen%C3%A9tica-familiar)
+- [‘Com Paulo Guedes, responsabilidade fiscal foi para o espaço’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Com-Paulo-Guedes-responsabilidade-fiscal-foi-para-o-espa%C3%A7o%E2%80%99)
+- [Senador petista Jean Paul Prates vai presidir Petrobras](https://www.nexojornal.com.br/extra/2022/12/30/Senador-petista-Jean-Paul-Prates-vai-presidir-Petrobras)
+- [Ciência na Amazônia: Ana Carla Bruno](https://www.nexojornal.com.br/externo/2022/12/30/Ci%C3%AAncia-na-Amaz%C3%B4nia-Ana-Carla-Bruno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
