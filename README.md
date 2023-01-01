@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O debate sobre o orçamento precisa ser antirracista](https://www.nexojornal.com.br/ensaio/2022/12/31/O-debate-sobre-o-or%C3%A7amento-precisa-ser-antirracista1)
 - [5 livros sobre comportamento parlamentar](https://www.nexojornal.com.br/estante/favoritos/2022/12/31/5-livros-sobre-comportamento-parlamentar)
 - [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
-- [Após chegar aos EUA, Bolsonaro é criticado por Mourão na TV](https://www.nexojornal.com.br/extra/2022/12/31/Ap%C3%B3s-chegar-aos-EUA-Bolsonaro-%C3%A9-criticado-por-Mour%C3%A3o-na-TV)
+- [Em Orlando, Bolsonaro se hospeda na casa de ex-lutador de MMA](https://www.nexojornal.com.br/extra/2022/12/31/Em-Orlando-Bolsonaro-se-hospeda-na-casa-de-ex-lutador-de-MMA1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
