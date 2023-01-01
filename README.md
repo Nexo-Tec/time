@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A trajetória da inclusão social desde a redemocratização](https://www.nexojornal.com.br/expresso/2022/12/31/A-trajet%C3%B3ria-da-inclus%C3%A3o-social-desde-a-redemocratiza%C3%A7%C3%A3o)
-- [O debate sobre o orçamento precisa ser antirracista](https://www.nexojornal.com.br/ensaio/2022/12/31/O-debate-sobre-o-or%C3%A7amento-precisa-ser-antirracista1)
-- [5 livros sobre comportamento parlamentar](https://www.nexojornal.com.br/estante/favoritos/2022/12/31/5-livros-sobre-comportamento-parlamentar)
-- [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
-- [Em Orlando, Bolsonaro se hospeda na casa de ex-lutador de MMA](https://www.nexojornal.com.br/extra/2022/12/31/Em-Orlando-Bolsonaro-se-hospeda-na-casa-de-ex-lutador-de-MMA1)
+- [O Brasil e o mundo em 2022: instabilidade, guerra e mudança](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2022-instabilidade-guerra-e-mudan%C3%A7a)
+- [‘Elementar’: a realidade explicada pela química](https://www.nexojornal.com.br/estante/trechos/2022/12/30/%E2%80%98Elementar%E2%80%99-a-realidade-explicada-pela-qu%C3%ADmica)
+- [‘Contestação do PSDB à eleição de 2014 foi ponto de ruptura’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Contesta%C3%A7%C3%A3o-do-PSDB-%C3%A0-elei%C3%A7%C3%A3o-de-2014-foi-ponto-de-ruptura%E2%80%99)
+- [A etapa da infância em que a mentira pode ser bom sinal](https://www.nexojornal.com.br/expresso/2022/12/30/A-etapa-da-inf%C3%A2ncia-em-que-a-mentira-pode-ser-bom-sinal)
+- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/extra/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
