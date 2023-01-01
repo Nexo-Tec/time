@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Veja o mapa da posse de Lula no domingo em Brasília](https://www.nexojornal.com.br/incoming/2022/12/30/Veja-o-mapa-da-posse-de-Lula-no-domingo-em-Bras%C3%ADlia)
-- [O projeto fotográfico para explorar a genética familiar](https://www.nexojornal.com.br/expresso/2022/12/30/O-projeto-fotogr%C3%A1fico-para-explorar-a-gen%C3%A9tica-familiar)
-- [‘Com Paulo Guedes, responsabilidade fiscal foi para o espaço’](https://www.nexojornal.com.br/entrevista/2022/12/30/%E2%80%98Com-Paulo-Guedes-responsabilidade-fiscal-foi-para-o-espa%C3%A7o%E2%80%99)
-- [Senador petista Jean Paul Prates vai presidir Petrobras](https://www.nexojornal.com.br/extra/2022/12/30/Senador-petista-Jean-Paul-Prates-vai-presidir-Petrobras)
-- [Ciência na Amazônia: Ana Carla Bruno](https://www.nexojornal.com.br/externo/2022/12/30/Ci%C3%AAncia-na-Amaz%C3%B4nia-Ana-Carla-Bruno)
+- [A trajetória da inclusão social desde a redemocratização](https://www.nexojornal.com.br/expresso/2022/12/31/A-trajet%C3%B3ria-da-inclus%C3%A3o-social-desde-a-redemocratiza%C3%A7%C3%A3o)
+- [O debate sobre o orçamento precisa ser antirracista](https://www.nexojornal.com.br/ensaio/2022/12/31/O-debate-sobre-o-or%C3%A7amento-precisa-ser-antirracista1)
+- [5 livros sobre comportamento parlamentar](https://www.nexojornal.com.br/estante/favoritos/2022/12/31/5-livros-sobre-comportamento-parlamentar)
+- [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
+- [Em Orlando, Bolsonaro se hospeda na casa de ex-lutador de MMA](https://www.nexojornal.com.br/extra/2022/12/31/Em-Orlando-Bolsonaro-se-hospeda-na-casa-de-ex-lutador-de-MMA1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
