@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A trajetória da inclusão social desde a redemocratização](https://www.nexojornal.com.br/expresso/2022/12/31/A-trajet%C3%B3ria-da-inclus%C3%A3o-social-desde-a-redemocratiza%C3%A7%C3%A3o)
-- [O debate sobre o orçamento precisa ser antirracista](https://www.nexojornal.com.br/ensaio/2022/12/31/O-debate-sobre-o-or%C3%A7amento-precisa-ser-antirracista1)
-- [5 livros sobre comportamento parlamentar](https://www.nexojornal.com.br/estante/favoritos/2022/12/31/5-livros-sobre-comportamento-parlamentar)
 - [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
 - [Em Orlando, Bolsonaro se hospeda na casa de ex-lutador de MMA](https://www.nexojornal.com.br/extra/2022/12/31/Em-Orlando-Bolsonaro-se-hospeda-na-casa-de-ex-lutador-de-MMA1)
+- [Memórias da posse: a hora em que um país troca de presidente](https://www.nexojornal.com.br/reportagem/2022/12/31/Mem%C3%B3rias-da-posse-a-hora-em-que-um-pa%C3%ADs-troca-de-presidente)
+- [Bento 16: um papa conservador cercado de polêmicas](https://www.nexojornal.com.br/expresso/2022/12/31/Bento-16-um-papa-conservador-cercado-de-pol%C3%AAmicas)
+- [O Brasil e o mundo em 2022: instabilidade, guerra e mudança](https://www.nexojornal.com.br/video/O-Brasil-e-o-mundo-em-2022-instabilidade-guerra-e-mudan%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
