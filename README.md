@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A trajetória da inclusão social desde a redemocratização](https://www.nexojornal.com.br/expresso/2022/12/31/A-trajet%C3%B3ria-da-inclus%C3%A3o-social-desde-a-redemocratiza%C3%A7%C3%A3o)
-- [O debate sobre o orçamento precisa ser antirracista](https://www.nexojornal.com.br/ensaio/2022/12/31/O-debate-sobre-o-or%C3%A7amento-precisa-ser-antirracista1)
-- [5 livros sobre comportamento parlamentar](https://www.nexojornal.com.br/estante/favoritos/2022/12/31/5-livros-sobre-comportamento-parlamentar)
-- [Equipe de Lula espera 300 mil pessoas para a posse](https://www.nexojornal.com.br/extra/2022/12/31/Equipe-de-Lula-espera-300-mil-pessoas-para-a-posse)
-- [Após chegar aos EUA, Bolsonaro é criticado por Mourão na TV](https://www.nexojornal.com.br/extra/2022/12/31/Ap%C3%B3s-chegar-aos-EUA-Bolsonaro-%C3%A9-criticado-por-Mour%C3%A3o-na-TV)
+- [Lula nomeia chefes das polícias Federal e Rodoviária Federal](https://www.nexojornal.com.br/extra/2023/01/02/Lula-nomeia-chefes-das-pol%C3%ADcias-Federal-e-Rodovi%C3%A1ria-Federal)
+- [Os discursos da posse de Lula explicados a partir de 5 eixos](https://www.nexojornal.com.br/expresso/2023/01/01/Os-discursos-da-posse-de-Lula-explicados-a-partir-de-5-eixos)
+- [A taxação da herança e a cultura da doação no Brasil](https://www.nexojornal.com.br/ensaio/2023/01/01/A-taxa%C3%A7%C3%A3o-da-heran%C3%A7a-e-a-cultura-da-doa%C3%A7%C3%A3o-no-Brasil)
+- [A trajetória de Lula até o início de seu terceiro mandato no Planalto](https://www.nexojornal.com.br/podcast/2023/01/01/A-trajet%C3%B3ria-de-Lula-at%C3%A9-o-in%C3%ADcio-de-seu-terceiro-mandato-no-Planalto)
+- [Lula começa ‘revogaço’ na área de armas e assina outras medidas](https://www.nexojornal.com.br/extra/2023/01/01/Lula-come%C3%A7a-%E2%80%98revoga%C3%A7o%E2%80%99-na-%C3%A1rea-de-armas-e-assina-outras-medidas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
