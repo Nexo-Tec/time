@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula nomeia chefes das polícias Federal e Rodoviária Federal](https://www.nexojornal.com.br/extra/2023/01/02/Lula-nomeia-chefes-das-pol%C3%ADcias-Federal-e-Rodovi%C3%A1ria-Federal)
-- [Os discursos da posse de Lula explicados a partir de 5 eixos](https://www.nexojornal.com.br/expresso/2023/01/01/Os-discursos-da-posse-de-Lula-explicados-a-partir-de-5-eixos)
-- [A taxação da herança e a cultura da doação no Brasil](https://www.nexojornal.com.br/ensaio/2023/01/01/A-taxa%C3%A7%C3%A3o-da-heran%C3%A7a-e-a-cultura-da-doa%C3%A7%C3%A3o-no-Brasil)
-- [A trajetória de Lula até o início de seu terceiro mandato no Planalto](https://www.nexojornal.com.br/podcast/2023/01/01/A-trajet%C3%B3ria-de-Lula-at%C3%A9-o-in%C3%ADcio-de-seu-terceiro-mandato-no-Planalto)
-- [Lula começa ‘revogaço’ na área de armas e assina outras medidas](https://www.nexojornal.com.br/extra/2023/01/01/Lula-come%C3%A7a-%E2%80%98revoga%C3%A7o%E2%80%99-na-%C3%A1rea-de-armas-e-assina-outras-medidas)
+- [Funai substitui termo ‘índio’ por povos indígenas no nome](https://www.nexojornal.com.br/extra/2023/01/02/Funai-substitui-termo-%E2%80%98%C3%ADndio%E2%80%99-por-povos-ind%C3%ADgenas-no-nome)
+- [3 grandes desafios para o 3º mandato de Lula na Presidência](https://www.nexojornal.com.br/expresso/2023/01/02/3-grandes-desafios-para-o-3%C2%BA-mandato-de-Lula-na-Presid%C3%AAncia)
+- [A composição dos ministérios no novo governo Lula](https://www.nexojornal.com.br/grafico/2023/01/02/A-composi%C3%A7%C3%A3o-dos-minist%C3%A9rios-no-novo-governo-Lula)
+- [Alterações nas regras do Pix passam a valer. Saiba o que muda](https://www.nexojornal.com.br/extra/2023/01/02/Altera%C3%A7%C3%B5es-nas-regras-do-Pix-passam-a-valer.-Saiba-o-que-muda)
+- [Corpo de Pelé é velado na Vila Belmiro, em Santos](https://www.nexojornal.com.br/extra/2023/01/02/Corpo-de-Pel%C3%A9-%C3%A9-velado-na-Vila-Belmiro-em-Santos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
