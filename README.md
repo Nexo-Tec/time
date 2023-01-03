@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Gabinete de Lula tem recorde de mulheres, mas sem paridade](https://www.nexojornal.com.br/grafico/2023/01/03/Gabinete-de-Lula-tem-recorde-de-mulheres-mas-sem-paridade)
 - [A eficácia simbólica da posse do terceiro mandato de Lula](https://www.nexojornal.com.br/colunistas/2023/A-efic%C3%A1cia-simb%C3%B3lica-da-posse-do-terceiro-mandato-de-Lula)
 - [O que é o programa antidesmatamento resgatado por Lula](https://www.nexojornal.com.br/expresso/2023/01/02/O-que-%C3%A9-o-programa-antidesmatamento-resgatado-por-Lula)
 - [Balança comercial bate recorde em 2022 com saldo de US$62,3 bi](https://www.nexojornal.com.br/extra/2023/01/02/Balan%C3%A7a-comercial-bate-recorde-em-2022-com-saldo-de-US623-bi)
 - [A investida de Lula para reverter o avanço armamentista](https://www.nexojornal.com.br/podcast/2023/01/02/A-investida-de-Lula-para-reverter-o-avan%C3%A7o-armamentista)
+- [Quais as medidas iniciais do novo governo na economia](https://www.nexojornal.com.br/expresso/2023/01/02/Quais-as-medidas-iniciais-do-novo-governo-na-economia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
