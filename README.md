@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Qualidade na educação infantil brasileira](https://pp.nexojornal.com.br/bibliografia-basica/2023/01/02/Qualidade-na-educa%C3%A7%C3%A3o-infantil-brasileira)
+- [Ideias, instituições e interesses dos atores na moldagem das políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Ideias-institui%C3%A7%C3%B5es-e-interesses-dos-atores-na-moldagem-das-pol%C3%ADticas-p%C3%BAblicas)
 - [O ano eleitoral das mulheres negras? Avanços tímidos e desigualdades duráveis nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/O-ano-eleitoral-das-mulheres-negras-Avan%C3%A7os-t%C3%ADmidos-e-desigualdades-dur%C3%A1veis-nas-elei%C3%A7%C3%B5es-de-2022)
 - [O contingenciamento do MEC e a vida nas cidades brasileiras](https://pp.nexojornal.com.br/ponto-de-vista/2022/O-contingenciamento-do-MEC-e-a-vida-nas-cidades-brasileiras)
 - [Riscos antidemocráticos de propostas de alteração em cortes constitucionais, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2022/Riscos-antidemocr%C3%A1ticos-de-propostas-de-altera%C3%A7%C3%A3o-em-cortes-constitucionais-em-4-pontos)
-- [Nutricionismo](https://pp.nexojornal.com.br/glossario/Nutricionismo)
-- [O que a Conferência sobre o clima tem a ver com a alimentação das pessoas no mundo e no Brasil?](https://pp.nexojornal.com.br/opiniao/2022/O-que-a-Confer%C3%AAncia-sobre-o-clima-tem-a-ver-com-a-alimenta%C3%A7%C3%A3o-das-pessoas-no-mundo-e-no-Brasil)
 <!-- PP_LIST:END -->
 
