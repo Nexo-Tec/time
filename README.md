@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A eficácia simbólica da posse do terceiro mandato de Lula](https://www.nexojornal.com.br/colunistas/2023/A-efic%C3%A1cia-simb%C3%B3lica-da-posse-do-terceiro-mandato-de-Lula)
-- [O que é o programa antidesmatamento resgatado por Lula](https://www.nexojornal.com.br/expresso/2023/01/02/O-que-%C3%A9-o-programa-antidesmatamento-resgatado-por-Lula)
-- [Balança comercial bate recorde em 2022 com saldo de US$62,3 bi](https://www.nexojornal.com.br/extra/2023/01/02/Balan%C3%A7a-comercial-bate-recorde-em-2022-com-saldo-de-US623-bi)
-- [A investida de Lula para reverter o avanço armamentista](https://www.nexojornal.com.br/podcast/2023/01/02/A-investida-de-Lula-para-reverter-o-avan%C3%A7o-armamentista)
-- [Quais as medidas iniciais do novo governo na economia](https://www.nexojornal.com.br/expresso/2023/01/02/Quais-as-medidas-iniciais-do-novo-governo-na-economia)
+- [Lula nomeia chefes das polícias Federal e Rodoviária Federal](https://www.nexojornal.com.br/extra/2023/01/02/Lula-nomeia-chefes-das-pol%C3%ADcias-Federal-e-Rodovi%C3%A1ria-Federal)
+- [Os discursos da posse de Lula explicados a partir de 5 eixos](https://www.nexojornal.com.br/expresso/2023/01/01/Os-discursos-da-posse-de-Lula-explicados-a-partir-de-5-eixos)
+- [A taxação da herança e a cultura da doação no Brasil](https://www.nexojornal.com.br/ensaio/2023/01/01/A-taxa%C3%A7%C3%A3o-da-heran%C3%A7a-e-a-cultura-da-doa%C3%A7%C3%A3o-no-Brasil)
+- [A trajetória de Lula até o início de seu terceiro mandato no Planalto](https://www.nexojornal.com.br/podcast/2023/01/01/A-trajet%C3%B3ria-de-Lula-at%C3%A9-o-in%C3%ADcio-de-seu-terceiro-mandato-no-Planalto)
+- [Lula começa ‘revogaço’ na área de armas e assina outras medidas](https://www.nexojornal.com.br/extra/2023/01/01/Lula-come%C3%A7a-%E2%80%98revoga%C3%A7o%E2%80%99-na-%C3%A1rea-de-armas-e-assina-outras-medidas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
