@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Funai substitui termo ‘índio’ por povos indígenas no nome](https://www.nexojornal.com.br/extra/2023/01/02/Funai-substitui-termo-%E2%80%98%C3%ADndio%E2%80%99-por-povos-ind%C3%ADgenas-no-nome)
-- [3 grandes desafios para o 3º mandato de Lula na Presidência](https://www.nexojornal.com.br/expresso/2023/01/02/3-grandes-desafios-para-o-3%C2%BA-mandato-de-Lula-na-Presid%C3%AAncia)
-- [A composição dos ministérios no novo governo Lula](https://www.nexojornal.com.br/grafico/2023/01/02/A-composi%C3%A7%C3%A3o-dos-minist%C3%A9rios-no-novo-governo-Lula)
-- [Alterações nas regras do Pix passam a valer. Saiba o que muda](https://www.nexojornal.com.br/extra/2023/01/02/Altera%C3%A7%C3%B5es-nas-regras-do-Pix-passam-a-valer.-Saiba-o-que-muda)
-- [Corpo de Pelé é velado na Vila Belmiro, em Santos](https://www.nexojornal.com.br/extra/2023/01/02/Corpo-de-Pel%C3%A9-%C3%A9-velado-na-Vila-Belmiro-em-Santos)
+- [A eficácia simbólica da posse do terceiro mandato de Lula](https://www.nexojornal.com.br/colunistas/2023/A-efic%C3%A1cia-simb%C3%B3lica-da-posse-do-terceiro-mandato-de-Lula)
+- [O que é o programa antidesmatamento resgatado por Lula](https://www.nexojornal.com.br/expresso/2023/01/02/O-que-%C3%A9-o-programa-antidesmatamento-resgatado-por-Lula)
+- [Balança comercial bate recorde em 2022 com saldo de US$62,3 bi](https://www.nexojornal.com.br/extra/2023/01/02/Balan%C3%A7a-comercial-bate-recorde-em-2022-com-saldo-de-US623-bi)
+- [A investida de Lula para reverter o avanço armamentista](https://www.nexojornal.com.br/podcast/2023/01/02/A-investida-de-Lula-para-reverter-o-avan%C3%A7o-armamentista)
+- [Quais as medidas iniciais do novo governo na economia](https://www.nexojornal.com.br/expresso/2023/01/02/Quais-as-medidas-iniciais-do-novo-governo-na-economia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
