@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o novo governo coloca como prioridade na Saúde](https://www.nexojornal.com.br/expresso/2023/01/03/O-que-o-novo-governo-coloca-como-prioridade-na-Sa%C3%BAde)
-- [A importância da equidade étnico-racial na gestão pública](https://www.nexojornal.com.br/colunistas/2023/A-import%C3%A2ncia-da-equidade-%C3%A9tnico-racial-na-gest%C3%A3o-p%C3%BAblica)
-- [Nova ministra do Turismo mantém vínculo com círculo miliciano](https://www.nexojornal.com.br/extra/2023/01/03/Nova-ministra-do-Turismo-mant%C3%A9m-v%C3%ADnculo-com-c%C3%ADrculo-miliciano)
-- [Argentina deve ser primeira viagem oficial de Lula ao exterior](https://www.nexojornal.com.br/extra/2023/01/03/Argentina-deve-ser-primeira-viagem-oficial-de-Lula-ao-exterior)
-- [8 ações para melhorar a relação com a tecnologia em 2023](https://www.nexojornal.com.br/expresso/2023/01/03/8-a%C3%A7%C3%B5es-para-melhorar-a-rela%C3%A7%C3%A3o-com-a-tecnologia-em-2023)
+- [Gabinete de Lula tem recorde de mulheres, mas sem paridade](https://www.nexojornal.com.br/grafico/2023/01/03/Gabinete-de-Lula-tem-recorde-de-mulheres-mas-sem-paridade)
+- [A eficácia simbólica da posse do terceiro mandato de Lula](https://www.nexojornal.com.br/colunistas/2023/A-efic%C3%A1cia-simb%C3%B3lica-da-posse-do-terceiro-mandato-de-Lula)
+- [O que é o programa antidesmatamento resgatado por Lula](https://www.nexojornal.com.br/expresso/2023/01/02/O-que-%C3%A9-o-programa-antidesmatamento-resgatado-por-Lula)
+- [Balança comercial bate recorde em 2022 com saldo de US$62,3 bi](https://www.nexojornal.com.br/extra/2023/01/02/Balan%C3%A7a-comercial-bate-recorde-em-2022-com-saldo-de-US623-bi)
+- [A investida de Lula para reverter o avanço armamentista](https://www.nexojornal.com.br/podcast/2023/01/02/A-investida-de-Lula-para-reverter-o-avan%C3%A7o-armamentista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
