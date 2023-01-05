@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Qual sua ideia de felicidade perfeita?](https://gamarevista.uol.com.br/pessoas/qual-sua-ideia-de-felicidade-perfeita/)
 - [Veja esses perfis de Instagram para morrer de rir](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/veja-esses-perfis-de-instagram-para-morrer-de-rir/)
 - [As dez mais lidas da Gama em 2022](https://gamarevista.uol.com.br/especial/as-10-mais-lidas-da-gama-em-2022/)
 - [As dez melhores conversas da Gama em 2022](https://gamarevista.uol.com.br/formato/conversas/as-dez-melhores-conversas-da-gama-em-2022/)
 - [Oito receitas incríveis para as férias](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/oito-receitas-incriveis-para-as-ferias/)
-- [Dez livros de 2022 para ler nas férias](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-de-2022-para-ler-nas-ferias/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
