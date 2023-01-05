@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o novo governo pode orientar a sua política fiscal](https://www.nexojornal.com.br/colunistas/2023/Como-o-novo-governo-pode-orientar-a-sua-pol%C3%ADtica-fiscal)
-- [Por que o União Brasil é um ponto de tensão para Lula](https://www.nexojornal.com.br/expresso/2023/01/04/Por-que-o-Uni%C3%A3o-Brasil-%C3%A9-um-ponto-de-tens%C3%A3o-para-Lula)
-- [A economia que Lula pegou em 2003. E a que ele pega em 2023](https://www.nexojornal.com.br/expresso/2023/01/04/A-economia-que-Lula-pegou-em-2003.-E-a-que-ele-pega-em-2023)
-- [Velório de Bento 16 termina e corpo segue para sepultamento](https://www.nexojornal.com.br/extra/2023/01/04/Vel%C3%B3rio-de-Bento-16-termina-e-corpo-segue-para-sepultamento)
-- [As contradições no primeiro escalão do governo Lula](https://www.nexojornal.com.br/podcast/2023/01/04/As-contradi%C3%A7%C3%B5es-no-primeiro-escal%C3%A3o-do-governo-Lula)
+- [O que o novo governo coloca como prioridade na Saúde](https://www.nexojornal.com.br/expresso/2023/01/03/O-que-o-novo-governo-coloca-como-prioridade-na-Sa%C3%BAde)
+- [A importância da equidade étnico-racial na gestão pública](https://www.nexojornal.com.br/colunistas/2023/A-import%C3%A2ncia-da-equidade-%C3%A9tnico-racial-na-gest%C3%A3o-p%C3%BAblica)
+- [Nova ministra do Turismo mantém vínculo com círculo miliciano](https://www.nexojornal.com.br/extra/2023/01/03/Nova-ministra-do-Turismo-mant%C3%A9m-v%C3%ADnculo-com-c%C3%ADrculo-miliciano)
+- [Argentina deve ser primeira viagem oficial de Lula ao exterior](https://www.nexojornal.com.br/extra/2023/01/03/Argentina-deve-ser-primeira-viagem-oficial-de-Lula-ao-exterior)
+- [8 ações para melhorar a relação com a tecnologia em 2023](https://www.nexojornal.com.br/expresso/2023/01/03/8-a%C3%A7%C3%B5es-para-melhorar-a-rela%C3%A7%C3%A3o-com-a-tecnologia-em-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
