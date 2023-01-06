@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bento 16 é sepultado com presença de mais de 100 mil fiéis](https://www.nexojornal.com.br/extra/2023/01/05/Bento-16-%C3%A9-sepultado-com-presen%C3%A7a-de-mais-de-100-mil-fi%C3%A9is)
-- [Como o novo governo pode orientar a sua política fiscal](https://www.nexojornal.com.br/colunistas/2023/Como-o-novo-governo-pode-orientar-a-sua-pol%C3%ADtica-fiscal)
-- [Por que o União Brasil é um ponto de tensão para Lula](https://www.nexojornal.com.br/expresso/2023/01/04/Por-que-o-Uni%C3%A3o-Brasil-%C3%A9-um-ponto-de-tens%C3%A3o-para-Lula)
-- [A economia que Lula pegou em 2003. E a que ele pega em 2023](https://www.nexojornal.com.br/expresso/2023/01/04/A-economia-que-Lula-pegou-em-2003.-E-a-que-ele-pega-em-2023)
-- [Velório de Bento 16 termina e corpo segue para sepultamento](https://www.nexojornal.com.br/extra/2023/01/04/Vel%C3%B3rio-de-Bento-16-termina-e-corpo-segue-para-sepultamento)
+- [‘Quebra de regras para derrubar Dilma estimulou Bolsonaro’](https://www.nexojornal.com.br/entrevista/2023/01/06/%E2%80%98Quebra-de-regras-para-derrubar-Dilma-estimulou-Bolsonaro%E2%80%99)
+- [Lula: ‘quem fizer errado será convidado a deixar o governo’](https://www.nexojornal.com.br/extra/2023/01/06/Lula-%E2%80%98quem-fizer-errado-ser%C3%A1-convidado-a-deixar-o-governo%E2%80%99)
+- [Tarcísio diz que não vai mudar projeto de câmeras em policiais](https://www.nexojornal.com.br/extra/2023/01/06/Tarc%C3%ADsio-diz-que-n%C3%A3o-vai-mudar-projeto-de-c%C3%A2meras-em-policiais)
+- [CNJ apura surgimento de mandado de prisão falso contra Moraes](https://www.nexojornal.com.br/extra/2023/01/05/CNJ-apura-surgimento-de-mandado-de-pris%C3%A3o-falso-contra-Moraes)
+- [A importância da educação midiática como política pública](https://www.nexojornal.com.br/colunistas/2023/A-import%C3%A2ncia-da-educa%C3%A7%C3%A3o-midi%C3%A1tica-como-pol%C3%ADtica-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
