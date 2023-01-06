@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [CNJ apura surgimento de mandado de prisão falso contra Moraes](https://www.nexojornal.com.br/extra/2023/01/05/CNJ-apura-surgimento-de-mandado-de-pris%C3%A3o-falso-contra-Moraes)
-- [A importância da educação midiática como política pública](https://www.nexojornal.com.br/colunistas/2023/A-import%C3%A2ncia-da-educa%C3%A7%C3%A3o-midi%C3%A1tica-como-pol%C3%ADtica-p%C3%BAblica)
-- [Como o Brasil combateu a fome. E como pode fazer isso de novo](https://www.nexojornal.com.br/expresso/2023/01/05/Como-o-Brasil-combateu-a-fome.-E-como-pode-fazer-isso-de-novo)
-- [O que é a revisão de gastos públicos adotada por governos](https://www.nexojornal.com.br/expresso/2023/01/05/O-que-%C3%A9-a-revis%C3%A3o-de-gastos-p%C3%BAblicos-adotada-por-governos)
-- [Governo mexicano prende filho de ‘El Chapo’](https://www.nexojornal.com.br/extra/2023/01/05/Governo-mexicano-prende-filho-de-%E2%80%98El-Chapo%E2%80%99)
+- [Como o novo governo pode orientar a sua política fiscal](https://www.nexojornal.com.br/colunistas/2023/Como-o-novo-governo-pode-orientar-a-sua-pol%C3%ADtica-fiscal)
+- [Por que o União Brasil é um ponto de tensão para Lula](https://www.nexojornal.com.br/expresso/2023/01/04/Por-que-o-Uni%C3%A3o-Brasil-%C3%A9-um-ponto-de-tens%C3%A3o-para-Lula)
+- [A economia que Lula pegou em 2003. E a que ele pega em 2023](https://www.nexojornal.com.br/expresso/2023/01/04/A-economia-que-Lula-pegou-em-2003.-E-a-que-ele-pega-em-2023)
+- [Velório de Bento 16 termina e corpo segue para sepultamento](https://www.nexojornal.com.br/extra/2023/01/04/Vel%C3%B3rio-de-Bento-16-termina-e-corpo-segue-para-sepultamento)
+- [As contradições no primeiro escalão do governo Lula](https://www.nexojornal.com.br/podcast/2023/01/04/As-contradi%C3%A7%C3%B5es-no-primeiro-escal%C3%A3o-do-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
