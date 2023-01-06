@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bento 16 é sepultado com presença de mais de 100 mil fiéis](https://www.nexojornal.com.br/extra/2023/01/05/Bento-16-%C3%A9-sepultado-com-presen%C3%A7a-de-mais-de-100-mil-fi%C3%A9is)
 - [Como o novo governo pode orientar a sua política fiscal](https://www.nexojornal.com.br/colunistas/2023/Como-o-novo-governo-pode-orientar-a-sua-pol%C3%ADtica-fiscal)
 - [Por que o União Brasil é um ponto de tensão para Lula](https://www.nexojornal.com.br/expresso/2023/01/04/Por-que-o-Uni%C3%A3o-Brasil-%C3%A9-um-ponto-de-tens%C3%A3o-para-Lula)
 - [A economia que Lula pegou em 2003. E a que ele pega em 2023](https://www.nexojornal.com.br/expresso/2023/01/04/A-economia-que-Lula-pegou-em-2003.-E-a-que-ele-pega-em-2023)
 - [Velório de Bento 16 termina e corpo segue para sepultamento](https://www.nexojornal.com.br/extra/2023/01/04/Vel%C3%B3rio-de-Bento-16-termina-e-corpo-segue-para-sepultamento)
-- [As contradições no primeiro escalão do governo Lula](https://www.nexojornal.com.br/podcast/2023/01/04/As-contradi%C3%A7%C3%B5es-no-primeiro-escal%C3%A3o-do-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
