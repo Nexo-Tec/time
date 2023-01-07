@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a eleição para a Câmara dos EUA expõe o racha republicano](https://www.nexojornal.com.br/expresso/2023/01/07/Como-a-elei%C3%A7%C3%A3o-para-a-C%C3%A2mara-dos-EUA-exp%C3%B5e-o-racha-republicano)
-- [O início do governo Lula. A despedida de Pelé. E mais](https://www.nexojornal.com.br/video/extrato/O-in%C3%ADcio-do-governo-Lula.-A-despedida-de-Pel%C3%A9.-E-mais)
-- [‘Filho de Jesus’: contos sobre americanos marginalizados](https://www.nexojornal.com.br/estante/trechos/2023/01/06/%E2%80%98Filho-de-Jesus%E2%80%99-contos-sobre-americanos-marginalizados)
-- [Quais são os principais blockbusters esperados para 2023](https://www.nexojornal.com.br/expresso/2023/01/06/Quais-s%C3%A3o-os-principais-blockbusters-esperados-para-2023)
-- [Neandertais eram majoritariamente carnívoros](https://www.nexojornal.com.br/externo/2023/01/06/Neandertais-eram-majoritariamente-carn%C3%ADvoros)
+- [Autobiografia do príncipe Harry relata brigas na família real](https://www.nexojornal.com.br/extra/2023/01/06/Autobiografia-do-pr%C3%ADncipe-Harry-relata-brigas-na-fam%C3%ADlia-real)
+- [Prefeitura de Belo Horizonte desmonta acampamento golpista](https://www.nexojornal.com.br/extra/2023/01/06/Prefeitura-de-Belo-Horizonte-desmonta-acampamento-golpista)
+- [A eficácia dos novos rótulos de alimentos para crianças](https://www.nexojornal.com.br/expresso/2023/01/06/A-efic%C3%A1cia-dos-novos-r%C3%B3tulos-de-alimentos-para-crian%C3%A7as)
+- [Portaria de Dino pode tirar Torres da equipe de Segurança do DF](https://www.nexojornal.com.br/video/extrato/2023/01/06/Portaria-de-Dino-pode-tirar-Torres-da-equipe-de-Seguran%C3%A7a-do-DF)
+- [‘Quebra de regras para derrubar Dilma estimulou Bolsonaro’](https://www.nexojornal.com.br/entrevista/2023/01/06/%E2%80%98Quebra-de-regras-para-derrubar-Dilma-estimulou-Bolsonaro%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
