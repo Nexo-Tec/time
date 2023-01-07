@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Autobiografia do príncipe Harry relata brigas na família real](https://www.nexojornal.com.br/extra/2023/01/06/Autobiografia-do-pr%C3%ADncipe-Harry-relata-brigas-na-fam%C3%ADlia-real)
-- [Prefeitura de Belo Horizonte desmonta acampamento golpista](https://www.nexojornal.com.br/extra/2023/01/06/Prefeitura-de-Belo-Horizonte-desmonta-acampamento-golpista)
-- [A eficácia dos novos rótulos de alimentos para crianças](https://www.nexojornal.com.br/expresso/2023/01/06/A-efic%C3%A1cia-dos-novos-r%C3%B3tulos-de-alimentos-para-crian%C3%A7as)
-- [Portaria de Dino pode tirar Torres da equipe de Segurança do DF](https://www.nexojornal.com.br/video/extrato/2023/01/06/Portaria-de-Dino-pode-tirar-Torres-da-equipe-de-Seguran%C3%A7a-do-DF)
 - [‘Quebra de regras para derrubar Dilma estimulou Bolsonaro’](https://www.nexojornal.com.br/entrevista/2023/01/06/%E2%80%98Quebra-de-regras-para-derrubar-Dilma-estimulou-Bolsonaro%E2%80%99)
+- [Lula: ‘quem fizer errado será convidado a deixar o governo’](https://www.nexojornal.com.br/extra/2023/01/06/Lula-%E2%80%98quem-fizer-errado-ser%C3%A1-convidado-a-deixar-o-governo%E2%80%99)
+- [Tarcísio diz que não vai mudar projeto de câmeras em policiais](https://www.nexojornal.com.br/extra/2023/01/06/Tarc%C3%ADsio-diz-que-n%C3%A3o-vai-mudar-projeto-de-c%C3%A2meras-em-policiais)
+- [CNJ apura surgimento de mandado de prisão falso contra Moraes](https://www.nexojornal.com.br/extra/2023/01/05/CNJ-apura-surgimento-de-mandado-de-pris%C3%A3o-falso-contra-Moraes)
+- [A importância da educação midiática como política pública](https://www.nexojornal.com.br/colunistas/2023/A-import%C3%A2ncia-da-educa%C3%A7%C3%A3o-midi%C3%A1tica-como-pol%C3%ADtica-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
