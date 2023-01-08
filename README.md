@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Roberto Dinamite, ídolo do Vasco, aos 68 anos](https://www.nexojornal.com.br/extra/2023/01/08/Morre-Roberto-Dinamite-%C3%ADdolo-do-Vasco-aos-68-anos)
-- [Dino autoriza uso de Força Nacional após chamado bolsonarista](https://www.nexojornal.com.br/extra/2023/01/07/Dino-autoriza-uso-de-For%C3%A7a-Nacional-ap%C3%B3s-chamado-bolsonarista)
-- [Por que o novo órgão de defesa da democracia desperta preocupação](https://www.nexojornal.com.br/expresso/2023/01/07/Por-que-o-novo-%C3%B3rg%C3%A3o-de-defesa-da-democracia-desperta-preocupa%C3%A7%C3%A3o)
-- [Quem é responsável pela manutenção do Palácio da Alvorada](https://www.nexojornal.com.br/expresso/2023/01/07/Quem-%C3%A9-respons%C3%A1vel-pela-manuten%C3%A7%C3%A3o-do-Pal%C3%A1cio-da-Alvorada)
-- [Como a sociedade lida com tempos de tecnologia líquida](https://www.nexojornal.com.br/ensaio/2023/01/07/Como-a-sociedade-lida-com-tempos-de-tecnologia-l%C3%ADquida)
+- [5 romances brasileiros para ir além do lugar de fala](https://www.nexojornal.com.br/estante/favoritos/2023/01/07/5-romances-brasileiros-para-ir-al%C3%A9m-do-lugar-de-fala)
+- [O site que tenta mapear a maquiagem de preços nos EUA](https://www.nexojornal.com.br/expresso/2023/01/07/O-site-que-tenta-mapear-a-maquiagem-de-pre%C3%A7os-nos-EUA)
+- [Italiano admite culpa por golpe que há anos intriga setor editorial](https://www.nexojornal.com.br/extra/2023/01/07/Italiano-admite-culpa-por-golpe-que-h%C3%A1-anos-intriga-setor-editorial)
+- [Como a eleição para a Câmara dos EUA expõe o racha republicano](https://www.nexojornal.com.br/expresso/2023/01/07/Como-a-elei%C3%A7%C3%A3o-para-a-C%C3%A2mara-dos-EUA-exp%C3%B5e-o-racha-republicano)
+- [O início do governo Lula. A despedida de Pelé. E mais](https://www.nexojornal.com.br/video/extrato/O-in%C3%ADcio-do-governo-Lula.-A-despedida-de-Pel%C3%A9.-E-mais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
