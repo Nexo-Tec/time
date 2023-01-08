@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Qual a cerveja perfeita para o verão?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/qual-a-cerveja-perfeita-para-o-verao/)
 - [O que minha carreira me ensinou](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/o-que-minha-carreira-me-ensinou/)
 - [Podcast da Semana: os episódios mais ouvidos](https://gamarevista.uol.com.br/especial/podcast-da-gama-os-episodios-mais-ouvidos/)
 - [Qual sua ideia de felicidade perfeita?](https://gamarevista.uol.com.br/pessoas/qual-sua-ideia-de-felicidade-perfeita/)
 - [Veja esses perfis de Instagram para morrer de rir](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/veja-esses-perfis-de-instagram-para-morrer-de-rir/)
-- [As dez mais lidas da Gama em 2022](https://gamarevista.uol.com.br/especial/as-10-mais-lidas-da-gama-em-2022/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
