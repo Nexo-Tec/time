@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 romances brasileiros para ir além do lugar de fala](https://www.nexojornal.com.br/estante/favoritos/2023/01/07/5-romances-brasileiros-para-ir-al%C3%A9m-do-lugar-de-fala)
-- [O site que tenta mapear a maquiagem de preços nos EUA](https://www.nexojornal.com.br/expresso/2023/01/07/O-site-que-tenta-mapear-a-maquiagem-de-pre%C3%A7os-nos-EUA)
-- [Italiano admite culpa por golpe que há anos intriga setor editorial](https://www.nexojornal.com.br/extra/2023/01/07/Italiano-admite-culpa-por-golpe-que-h%C3%A1-anos-intriga-setor-editorial)
-- [Como a eleição para a Câmara dos EUA expõe o racha republicano](https://www.nexojornal.com.br/expresso/2023/01/07/Como-a-elei%C3%A7%C3%A3o-para-a-C%C3%A2mara-dos-EUA-exp%C3%B5e-o-racha-republicano)
-- [O início do governo Lula. A despedida de Pelé. E mais](https://www.nexojornal.com.br/video/extrato/O-in%C3%ADcio-do-governo-Lula.-A-despedida-de-Pel%C3%A9.-E-mais)
+- [Anderson Torres: o bolsonarista que o governo Lula quer na prisão](https://www.nexojornal.com.br/expresso/2023/01/08/Anderson-Torres-o-bolsonarista-que-o-governo-Lula-quer-na-pris%C3%A3o)
+- [Lula decreta intervenção na segurança do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/08/Lula-decreta-interven%C3%A7%C3%A3o-na-seguran%C3%A7a-do-Distrito-Federal)
+- [Governador do Distrito Federal demite secretário de Segurança](https://www.nexojornal.com.br/extra/2023/01/08/Governador-do-Distrito-Federal-demite-secret%C3%A1rio-de-Seguran%C3%A7a)
+- [Golpistas invadem Congresso, Palácio do Planalto e Supremo](https://www.nexojornal.com.br/extra/2023/01/08/Golpistas-invadem-Congresso-Pal%C3%A1cio-do-Planalto-e-Supremo)
+- [Morre Roberto Dinamite, ídolo do Vasco, aos 68 anos](https://www.nexojornal.com.br/extra/2023/01/08/Morre-Roberto-Dinamite-%C3%ADdolo-do-Vasco-aos-68-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
