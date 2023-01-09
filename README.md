@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Roberto Dinamite, ídolo do Vasco, aos 68 anos](https://www.nexojornal.com.br/extra/2023/01/08/Morre-Roberto-Dinamite-%C3%ADdolo-do-Vasco-aos-68-anos)
-- [Dino autoriza uso de Força Nacional após chamado bolsonarista](https://www.nexojornal.com.br/extra/2023/01/07/Dino-autoriza-uso-de-For%C3%A7a-Nacional-ap%C3%B3s-chamado-bolsonarista)
-- [Por que o novo órgão de defesa da democracia desperta preocupação](https://www.nexojornal.com.br/expresso/2023/01/07/Por-que-o-novo-%C3%B3rg%C3%A3o-de-defesa-da-democracia-desperta-preocupa%C3%A7%C3%A3o)
-- [Quem é responsável pela manutenção do Palácio da Alvorada](https://www.nexojornal.com.br/expresso/2023/01/07/Quem-%C3%A9-respons%C3%A1vel-pela-manuten%C3%A7%C3%A3o-do-Pal%C3%A1cio-da-Alvorada)
-- [Como a sociedade lida com tempos de tecnologia líquida](https://www.nexojornal.com.br/ensaio/2023/01/07/Como-a-sociedade-lida-com-tempos-de-tecnologia-l%C3%ADquida)
+- [Líderes mundiais condenam ataques a prédios em Brasília](https://www.nexojornal.com.br/extra/2023/01/08/L%C3%ADderes-mundiais-condenam-ataques-a-pr%C3%A9dios-em-Bras%C3%ADlia)
+- [Chefes do STF e do Congresso defendem punição a golpistas](https://www.nexojornal.com.br/extra/2023/01/08/Chefes-do-STF-e-do-Congresso-defendem-puni%C3%A7%C3%A3o-a-golpistas)
+- [Anderson Torres: o bolsonarista que o governo Lula quer na prisão](https://www.nexojornal.com.br/expresso/2023/01/08/Anderson-Torres-o-bolsonarista-que-o-governo-Lula-quer-na-pris%C3%A3o)
+- [Lula decreta intervenção na segurança do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/08/Lula-decreta-interven%C3%A7%C3%A3o-na-seguran%C3%A7a-do-Distrito-Federal)
+- [Governador do Distrito Federal demite secretário de Segurança](https://www.nexojornal.com.br/extra/2023/01/08/Governador-do-Distrito-Federal-demite-secret%C3%A1rio-de-Seguran%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
