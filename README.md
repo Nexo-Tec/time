@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Roberto Dinamite, ídolo do Vasco, aos 68 anos](https://www.nexojornal.com.br/extra/2023/01/08/Morre-Roberto-Dinamite-%C3%ADdolo-do-Vasco-aos-68-anos)
-- [Dino autoriza uso de Força Nacional após chamado bolsonarista](https://www.nexojornal.com.br/extra/2023/01/07/Dino-autoriza-uso-de-For%C3%A7a-Nacional-ap%C3%B3s-chamado-bolsonarista)
-- [Por que o novo órgão de defesa da democracia desperta preocupação](https://www.nexojornal.com.br/expresso/2023/01/07/Por-que-o-novo-%C3%B3rg%C3%A3o-de-defesa-da-democracia-desperta-preocupa%C3%A7%C3%A3o)
-- [Quem é responsável pela manutenção do Palácio da Alvorada](https://www.nexojornal.com.br/expresso/2023/01/07/Quem-%C3%A9-respons%C3%A1vel-pela-manuten%C3%A7%C3%A3o-do-Pal%C3%A1cio-da-Alvorada)
-- [Como a sociedade lida com tempos de tecnologia líquida](https://www.nexojornal.com.br/ensaio/2023/01/07/Como-a-sociedade-lida-com-tempos-de-tecnologia-l%C3%ADquida)
+- [Acampamento golpista em Brasília começa a ser desocupado](https://www.nexojornal.com.br/extra/2023/01/09/Acampamento-golpista-em-Bras%C3%ADlia-come%C3%A7a-a-ser-desocupado)
+- [‘Confiança nas instituições gerou erro na percepção de risco’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98Confian%C3%A7a-nas-institui%C3%A7%C3%B5es-gerou-erro-na-percep%C3%A7%C3%A3o-de-risco%E2%80%99)
+- [Moraes afasta Ibaneis Rocha do governo do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/09/Moraes-afasta-Ibaneis-Rocha-do-governo-do-Distrito-Federal)
+- [O que diziam os golpistas antes da invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/08/O-que-diziam-os-golpistas-antes-da-invas%C3%A3o-dos-Poderes)
+- [O urbanismo social na crise climática das favelas](https://www.nexojornal.com.br/ensaio/2023/01/08/O-urbanismo-social-na-crise-clim%C3%A1tica-das-favelas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
