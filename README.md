@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que diziam os golpistas antes da invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/08/O-que-diziam-os-golpistas-antes-da-invas%C3%A3o-dos-Poderes)
-- [O urbanismo social na crise climática das favelas](https://www.nexojornal.com.br/ensaio/2023/01/08/O-urbanismo-social-na-crise-clim%C3%A1tica-das-favelas)
-- [Líderes internacionais condenam ataques a prédios em Brasília](https://www.nexojornal.com.br/extra/2023/01/08/L%C3%ADderes-internacionais-condenam-ataques-a-pr%C3%A9dios-em-Bras%C3%ADlia)
-- [Chefes do STF e do Congresso defendem punição a golpistas](https://www.nexojornal.com.br/extra/2023/01/08/Chefes-do-STF-e-do-Congresso-defendem-puni%C3%A7%C3%A3o-a-golpistas)
 - [Anderson Torres: o bolsonarista que o governo Lula quer na prisão](https://www.nexojornal.com.br/expresso/2023/01/08/Anderson-Torres-o-bolsonarista-que-o-governo-Lula-quer-na-pris%C3%A3o)
+- [Lula decreta intervenção na segurança do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/08/Lula-decreta-interven%C3%A7%C3%A3o-na-seguran%C3%A7a-do-Distrito-Federal)
+- [Governador do Distrito Federal demite secretário de Segurança](https://www.nexojornal.com.br/extra/2023/01/08/Governador-do-Distrito-Federal-demite-secret%C3%A1rio-de-Seguran%C3%A7a)
+- [Golpistas invadem Congresso, Palácio do Planalto e Supremo](https://www.nexojornal.com.br/extra/2023/01/08/Golpistas-invadem-Congresso-Pal%C3%A1cio-do-Planalto-e-Supremo)
+- [Morre Roberto Dinamite, ídolo do Vasco, aos 68 anos](https://www.nexojornal.com.br/extra/2023/01/08/Morre-Roberto-Dinamite-%C3%ADdolo-do-Vasco-aos-68-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
