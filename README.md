@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Musk perdeu metade da fortuna e o posto de mais rico em 2022](https://www.nexojornal.com.br/grafico/2023/01/09/Musk-perdeu-metade-da-fortuna-e-o-posto-de-mais-rico-em-2022)
-- [Quais as chances de extradição de Bolsonaro e Torres dos EUA](https://www.nexojornal.com.br/expresso/2023/01/09/Quais-as-chances-de-extradi%C3%A7%C3%A3o-de-Bolsonaro-e-Torres-dos-EUA)
-- [Manifestantes realizam atos em defesa da democracia](https://www.nexojornal.com.br/extra/2023/01/09/Manifestantes-realizam-atos-em-defesa-da-democracia)
-- [Como fica o discurso antissistema após a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/09/Como-fica-o-discurso-antissistema-ap%C3%B3s-a-invas%C3%A3o-dos-Poderes)
-- [Autoridades diante do golpismo bolsonarista: da leniência à invasão](https://www.nexojornal.com.br/podcast/2023/01/09/Autoridades-diante-do-golpismo-bolsonarista-da-leni%C3%AAncia-%C3%A0-invas%C3%A3o)
+- [‘A extrema direita vê o mundo entre cidadãos de bem e não cidadãos’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98A-extrema-direita-v%C3%AA-o-mundo-entre-cidad%C3%A3os-de-bem-e-n%C3%A3o-cidad%C3%A3os%E2%80%99)
+- [Iniciativas nas redes sociais buscam identificar golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Iniciativas-nas-redes-sociais-buscam-identificar-golpistas)
+- [O apagamento das lavadeiras negras em Manaus](https://www.nexojornal.com.br/externo/2023/01/09/O-apagamento-das-lavadeiras-negras-em-Manaus)
+- [Chefes dos Três Poderes chamam invasão de atos terroristas](https://www.nexojornal.com.br/extra/2023/01/09/Chefes-dos-Tr%C3%AAs-Poderes-chamam-invas%C3%A3o-de-atos-terroristas)
+- [Após invasões em Brasília, país tem outros atos golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Ap%C3%B3s-invas%C3%B5es-em-Bras%C3%ADlia-pa%C3%ADs-tem-outros-atos-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
