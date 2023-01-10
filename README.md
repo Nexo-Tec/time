@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Líderes mundiais condenam ataques a prédios em Brasília](https://www.nexojornal.com.br/extra/2023/01/08/L%C3%ADderes-mundiais-condenam-ataques-a-pr%C3%A9dios-em-Bras%C3%ADlia)
-- [Chefes do STF e do Congresso defendem punição a golpistas](https://www.nexojornal.com.br/extra/2023/01/08/Chefes-do-STF-e-do-Congresso-defendem-puni%C3%A7%C3%A3o-a-golpistas)
-- [Anderson Torres: o bolsonarista que o governo Lula quer na prisão](https://www.nexojornal.com.br/expresso/2023/01/08/Anderson-Torres-o-bolsonarista-que-o-governo-Lula-quer-na-pris%C3%A3o)
-- [Lula decreta intervenção na segurança do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/08/Lula-decreta-interven%C3%A7%C3%A3o-na-seguran%C3%A7a-do-Distrito-Federal)
-- [Governador do Distrito Federal demite secretário de Segurança](https://www.nexojornal.com.br/extra/2023/01/08/Governador-do-Distrito-Federal-demite-secret%C3%A1rio-de-Seguran%C3%A7a)
+- [‘A extrema direita vê o mundo entre cidadãos de bem e não cidadãos’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98A-extrema-direita-v%C3%AA-o-mundo-entre-cidad%C3%A3os-de-bem-e-n%C3%A3o-cidad%C3%A3os%E2%80%99)
+- [Iniciativas nas redes sociais buscam identificar golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Iniciativas-nas-redes-sociais-buscam-identificar-golpistas)
+- [O apagamento das lavadeiras negras em Manaus](https://www.nexojornal.com.br/externo/2023/01/09/O-apagamento-das-lavadeiras-negras-em-Manaus)
+- [Chefes dos Três Poderes chamam invasão de atos terroristas](https://www.nexojornal.com.br/extra/2023/01/09/Chefes-dos-Tr%C3%AAs-Poderes-chamam-invas%C3%A3o-de-atos-terroristas)
+- [Após invasões em Brasília, país tem outros atos golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Ap%C3%B3s-invas%C3%B5es-em-Bras%C3%ADlia-pa%C3%ADs-tem-outros-atos-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
