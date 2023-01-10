@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A extrema direita vê o mundo entre cidadãos de bem e não cidadãos’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98A-extrema-direita-v%C3%AA-o-mundo-entre-cidad%C3%A3os-de-bem-e-n%C3%A3o-cidad%C3%A3os%E2%80%99)
-- [Iniciativas nas redes sociais buscam identificar golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Iniciativas-nas-redes-sociais-buscam-identificar-golpistas)
-- [O apagamento das lavadeiras negras em Manaus](https://www.nexojornal.com.br/externo/2023/01/09/O-apagamento-das-lavadeiras-negras-em-Manaus)
-- [Chefes dos Três Poderes chamam invasão de atos terroristas](https://www.nexojornal.com.br/extra/2023/01/09/Chefes-dos-Tr%C3%AAs-Poderes-chamam-invas%C3%A3o-de-atos-terroristas)
-- [Após invasões em Brasília, país tem outros atos golpistas](https://www.nexojornal.com.br/extra/2023/01/09/Ap%C3%B3s-invas%C3%B5es-em-Bras%C3%ADlia-pa%C3%ADs-tem-outros-atos-golpistas)
+- [‘Confiança nas instituições gerou erro na percepção de risco’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98Confian%C3%A7a-nas-institui%C3%A7%C3%B5es-gerou-erro-na-percep%C3%A7%C3%A3o-de-risco%E2%80%99)
+- [Moraes afasta Ibaneis Rocha do governo do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/09/Moraes-afasta-Ibaneis-Rocha-do-governo-do-Distrito-Federal)
+- [O que diziam os golpistas antes da invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/08/O-que-diziam-os-golpistas-antes-da-invas%C3%A3o-dos-Poderes)
+- [O urbanismo social na crise climática das favelas](https://www.nexojornal.com.br/ensaio/2023/01/08/O-urbanismo-social-na-crise-clim%C3%A1tica-das-favelas)
+- [Líderes internacionais condenam ataques a prédios em Brasília](https://www.nexojornal.com.br/extra/2023/01/08/L%C3%ADderes-internacionais-condenam-ataques-a-pr%C3%A9dios-em-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
