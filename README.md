@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Musk perdeu metade da fortuna e o posto de mais rico em 2022](https://www.nexojornal.com.br/grafico/2023/01/09/Musk-perdeu-metade-da-fortuna-e-o-posto-de-mais-rico-em-2022)
-- [Quais as chances de extradição de Bolsonaro e Torres dos EUA](https://www.nexojornal.com.br/expresso/2023/01/09/Quais-as-chances-de-extradi%C3%A7%C3%A3o-de-Bolsonaro-e-Torres-dos-EUA)
-- [Manifestantes realizam atos em defesa da democracia](https://www.nexojornal.com.br/extra/2023/01/09/Manifestantes-realizam-atos-em-defesa-da-democracia)
-- [Como fica o discurso antissistema após a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/09/Como-fica-o-discurso-antissistema-ap%C3%B3s-a-invas%C3%A3o-dos-Poderes)
-- [Autoridades diante do golpismo bolsonarista: da leniência à invasão](https://www.nexojornal.com.br/podcast/2023/01/09/Autoridades-diante-do-golpismo-bolsonarista-da-leni%C3%AAncia-%C3%A0-invas%C3%A3o)
+- [‘Confiança nas instituições gerou erro na percepção de risco’](https://www.nexojornal.com.br/entrevista/2023/01/09/%E2%80%98Confian%C3%A7a-nas-institui%C3%A7%C3%B5es-gerou-erro-na-percep%C3%A7%C3%A3o-de-risco%E2%80%99)
+- [Moraes afasta Ibaneis Rocha do governo do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/09/Moraes-afasta-Ibaneis-Rocha-do-governo-do-Distrito-Federal)
+- [O que diziam os golpistas antes da invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/08/O-que-diziam-os-golpistas-antes-da-invas%C3%A3o-dos-Poderes)
+- [O urbanismo social na crise climática das favelas](https://www.nexojornal.com.br/ensaio/2023/01/08/O-urbanismo-social-na-crise-clim%C3%A1tica-das-favelas)
+- [Líderes internacionais condenam ataques a prédios em Brasília](https://www.nexojornal.com.br/extra/2023/01/08/L%C3%ADderes-internacionais-condenam-ataques-a-pr%C3%A9dios-em-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
