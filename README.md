@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O histórico de inação de Aras diante de ameaças à democracia](https://www.nexojornal.com.br/podcast/2023/01/10/O-hist%C3%B3rico-de-ina%C3%A7%C3%A3o-de-Aras-diante-de-amea%C3%A7as-%C3%A0-democracia)
+- [Governo apura suspeita de sabotagem em torres de energia](https://www.nexojornal.com.br/extra/2023/01/10/Governo-apura-suspeita-de-sabotagem-em-torres-de-energia)
+- [Vaticano reabre investigações sobre sumiço de jovem em 1983](https://www.nexojornal.com.br/extra/2023/01/10/Vaticano-reabre-investiga%C3%A7%C3%B5es-sobre-sumi%C3%A7o-de-jovem-em-1983)
 - [Alexandre de Moraes determina prisão de Anderson Torres](https://www.nexojornal.com.br/extra/2023/01/10/Alexandre-de-Moraes-determina-pris%C3%A3o-de-Anderson-Torres)
 - [Câmeras em uniformes policiais vão ficar, diz secretário de SP](https://www.nexojornal.com.br/extra/2023/01/10/C%C3%A2meras-em-uniformes-policiais-v%C3%A3o-ficar-diz-secret%C3%A1rio-de-SP)
-- [A técnica digital para rastrear quem invadiu os Três Poderes](https://www.nexojornal.com.br/expresso/2023/01/10/A-t%C3%A9cnica-digital-para-rastrear-quem-invadiu-os-Tr%C3%AAs-Poderes)
-- [PF não vai tolerar ataques à democracia, diz novo diretor](https://www.nexojornal.com.br/extra/2023/01/10/PF-n%C3%A3o-vai-tolerar-ataques-%C3%A0-democracia-diz-novo-diretor)
-- [Senado aprova intervenção na segurança do Distrito Federal](https://www.nexojornal.com.br/extra/2023/01/10/Senado-aprova-interven%C3%A7%C3%A3o-na-seguran%C3%A7a-do-Distrito-Federal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
