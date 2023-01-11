@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O histórico de inação de Aras diante de ameaças à democracia](https://www.nexojornal.com.br/podcast/2023/01/10/O-hist%C3%B3rico-de-ina%C3%A7%C3%A3o-de-Aras-diante-de-amea%C3%A7as-%C3%A0-democracia)
-- [Governo apura suspeita de sabotagem em torres de energia](https://www.nexojornal.com.br/extra/2023/01/10/Governo-apura-suspeita-de-sabotagem-em-torres-de-energia)
-- [Vaticano reabre investigações sobre sumiço de jovem em 1983](https://www.nexojornal.com.br/extra/2023/01/10/Vaticano-reabre-investiga%C3%A7%C3%B5es-sobre-sumi%C3%A7o-de-jovem-em-1983)
-- [Alexandre de Moraes determina prisão de Anderson Torres](https://www.nexojornal.com.br/extra/2023/01/10/Alexandre-de-Moraes-determina-pris%C3%A3o-de-Anderson-Torres)
-- [Câmeras em uniformes policiais vão ficar, diz secretário de SP](https://www.nexojornal.com.br/extra/2023/01/10/C%C3%A2meras-em-uniformes-policiais-v%C3%A3o-ficar-diz-secret%C3%A1rio-de-SP)
+- [Musk perdeu metade da fortuna e o posto de mais rico em 2022](https://www.nexojornal.com.br/grafico/2023/01/09/Musk-perdeu-metade-da-fortuna-e-o-posto-de-mais-rico-em-2022)
+- [Quais as chances de extradição de Bolsonaro e Torres dos EUA](https://www.nexojornal.com.br/expresso/2023/01/09/Quais-as-chances-de-extradi%C3%A7%C3%A3o-de-Bolsonaro-e-Torres-dos-EUA)
+- [Manifestantes realizam atos em defesa da democracia](https://www.nexojornal.com.br/extra/2023/01/09/Manifestantes-realizam-atos-em-defesa-da-democracia)
+- [Como fica o discurso antissistema após a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/09/Como-fica-o-discurso-antissistema-ap%C3%B3s-a-invas%C3%A3o-dos-Poderes)
+- [Autoridades diante do golpismo bolsonarista: da leniência à invasão](https://www.nexojornal.com.br/podcast/2023/01/09/Autoridades-diante-do-golpismo-bolsonarista-da-leni%C3%AAncia-%C3%A0-invas%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
