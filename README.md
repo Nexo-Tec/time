@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como militares contribuíram para a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/12/Como-militares-contribu%C3%ADram-para-a-invas%C3%A3o-dos-Poderes)
-- [Como funcionam os novos tratamentos para obesidade](https://www.nexojornal.com.br/colunistas/2023/Como-funcionam-os-novos-tratamentos-para-obesidade)
-- [‘O extremismo político vai continuar porque é um fenômeno social’](https://www.nexojornal.com.br/entrevista/2023/01/11/%E2%80%98O-extremismo-pol%C3%ADtico-vai-continuar-porque-%C3%A9-um-fen%C3%B4meno-social%E2%80%99)
-- [A onda de violência após a deposição de Castillo no Peru](https://www.nexojornal.com.br/expresso/2023/01/11/A-onda-de-viol%C3%AAncia-ap%C3%B3s-a-deposi%C3%A7%C3%A3o-de-Castillo-no-Peru)
-- [Guajajara e Anielle tomam posse com promessa de reparação](https://www.nexojornal.com.br/extra/2023/01/11/Guajajara-e-Anielle-tomam-posse-com-promessa-de-repara%C3%A7%C3%A3o)
+- [‘Argentina, 1985’ leva Globo de Ouro como melhor estrangeiro](https://www.nexojornal.com.br/extra/2023/01/11/%E2%80%98Argentina-1985%E2%80%99-leva-Globo-de-Ouro-como-melhor-estrangeiro)
+- [Quais os caminhos para responsabilizar os golpistas](https://www.nexojornal.com.br/expresso/2023/01/11/Quais-os-caminhos-para-responsabilizar-os-golpistas)
+- [O envolvimento de pastores na invasão dos Três Poderes](https://www.nexojornal.com.br/externo/2023/01/10/O-envolvimento-de-pastores-na-invas%C3%A3o-dos-Tr%C3%AAs-Poderes)
+- [A pirâmide financeira da carreira acadêmica](https://www.nexojornal.com.br/colunistas/2023/A-pir%C3%A2mide-financeira-da-carreira-acad%C3%AAmica)
+- [As reações da ultradireita mundial à depredação de Brasília](https://www.nexojornal.com.br/expresso/2023/01/10/As-rea%C3%A7%C3%B5es-da-ultradireita-mundial-%C3%A0-depreda%C3%A7%C3%A3o-de-Bras%C3%ADlia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
