@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A branquitude e a barbárie](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-branquitude-e-a-barbarie/)
 - [Como engrenar numa rotina de exercícios](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-engrenar-numa-rotina-de-exercicios/)
 - [@galinhas.inseguras](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/galinhas-inseguras/)
 - [Qual a cerveja perfeita para o verão?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/qual-a-cerveja-perfeita-para-o-verao/)
 - [O que minha carreira me ensinou](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/o-que-minha-carreira-me-ensinou/)
-- [Podcast da Semana: os episódios mais ouvidos](https://gamarevista.uol.com.br/especial/podcast-da-gama-os-episodios-mais-ouvidos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
