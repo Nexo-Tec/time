@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Argentina, 1985’ leva Globo de Ouro como melhor estrangeiro](https://www.nexojornal.com.br/extra/2023/01/11/%E2%80%98Argentina-1985%E2%80%99-leva-Globo-de-Ouro-como-melhor-estrangeiro)
 - [Quais os caminhos para responsabilizar os golpistas](https://www.nexojornal.com.br/expresso/2023/01/11/Quais-os-caminhos-para-responsabilizar-os-golpistas)
 - [O envolvimento de pastores na invasão dos Três Poderes](https://www.nexojornal.com.br/externo/2023/01/10/O-envolvimento-de-pastores-na-invas%C3%A3o-dos-Tr%C3%AAs-Poderes)
 - [A pirâmide financeira da carreira acadêmica](https://www.nexojornal.com.br/colunistas/2023/A-pir%C3%A2mide-financeira-da-carreira-acad%C3%AAmica)
 - [As reações da ultradireita mundial à depredação de Brasília](https://www.nexojornal.com.br/expresso/2023/01/10/As-rea%C3%A7%C3%B5es-da-ultradireita-mundial-%C3%A0-depreda%C3%A7%C3%A3o-de-Bras%C3%ADlia)
+- [Ano de 2022 foi o 5º mais quente da história, aponta estudo](https://www.nexojornal.com.br/extra/2023/01/10/Ano-de-2022-foi-o-5%C2%BA-mais-quente-da-hist%C3%B3ria-aponta-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
