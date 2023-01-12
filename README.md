@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Republicanos pedem renúncia de George Santos após mentiras](https://www.nexojornal.com.br/extra/2023/01/11/Republicanos-pedem-ren%C3%BAncia-de-George-Santos-ap%C3%B3s-mentiras)
-- [Custo de vida e clima são principais riscos globais, diz Davos](https://www.nexojornal.com.br/extra/2023/01/11/Custo-de-vida-e-clima-s%C3%A3o-principais-riscos-globais-diz-Davos)
-- [Maioria dos presos em 8 de janeiro tem mais de 45 anos](https://www.nexojornal.com.br/grafico/2023/01/11/Maioria-dos-presos-em-8-de-janeiro-tem-mais-de-45-anos)
-- [Cometa verde se aproxima e poderá ser visto a olho nu](https://www.nexojornal.com.br/extra/2023/01/11/Cometa-verde-se-aproxima-e-poder%C3%A1-ser-visto-a-olho-nu)
-- [Interventor do DF reforça segurança e fecha Esplanada](https://www.nexojornal.com.br/extra/2023/01/11/Interventor-do-DF-refor%C3%A7a-seguran%C3%A7a-e-fecha-Esplanada)
+- [Como militares contribuíram para a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/12/Como-militares-contribu%C3%ADram-para-a-invas%C3%A3o-dos-Poderes)
+- [Como funcionam os novos tratamentos para obesidade](https://www.nexojornal.com.br/colunistas/2023/Como-funcionam-os-novos-tratamentos-para-obesidade)
+- [‘O extremismo político vai continuar porque é um fenômeno social’](https://www.nexojornal.com.br/entrevista/2023/01/11/%E2%80%98O-extremismo-pol%C3%ADtico-vai-continuar-porque-%C3%A9-um-fen%C3%B4meno-social%E2%80%99)
+- [A onda de violência após a deposição de Castillo no Peru](https://www.nexojornal.com.br/expresso/2023/01/11/A-onda-de-viol%C3%AAncia-ap%C3%B3s-a-deposi%C3%A7%C3%A3o-de-Castillo-no-Peru)
+- [Guajajara e Anielle tomam posse com promessa de reparação](https://www.nexojornal.com.br/extra/2023/01/11/Guajajara-e-Anielle-tomam-posse-com-promessa-de-repara%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
