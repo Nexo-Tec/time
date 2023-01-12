@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os caminhos para responsabilizar os golpistas](https://www.nexojornal.com.br/expresso/2023/01/11/Quais-os-caminhos-para-responsabilizar-os-golpistas)
-- [O envolvimento de pastores na invasão dos Três Poderes](https://www.nexojornal.com.br/externo/2023/01/10/O-envolvimento-de-pastores-na-invas%C3%A3o-dos-Tr%C3%AAs-Poderes)
-- [A pirâmide financeira da carreira acadêmica](https://www.nexojornal.com.br/colunistas/2023/A-pir%C3%A2mide-financeira-da-carreira-acad%C3%AAmica)
-- [As reações da ultradireita mundial à depredação de Brasília](https://www.nexojornal.com.br/expresso/2023/01/10/As-rea%C3%A7%C3%B5es-da-ultradireita-mundial-%C3%A0-depreda%C3%A7%C3%A3o-de-Bras%C3%ADlia)
-- [Ano de 2022 foi o 5º mais quente da história, aponta estudo](https://www.nexojornal.com.br/extra/2023/01/10/Ano-de-2022-foi-o-5%C2%BA-mais-quente-da-hist%C3%B3ria-aponta-estudo)
+- [Republicanos pedem renúncia de George Santos após mentiras](https://www.nexojornal.com.br/extra/2023/01/11/Republicanos-pedem-ren%C3%BAncia-de-George-Santos-ap%C3%B3s-mentiras)
+- [Custo de vida e clima são principais riscos globais, diz Davos](https://www.nexojornal.com.br/extra/2023/01/11/Custo-de-vida-e-clima-s%C3%A3o-principais-riscos-globais-diz-Davos)
+- [Maioria dos presos em 8 de janeiro tem mais de 45 anos](https://www.nexojornal.com.br/grafico/2023/01/11/Maioria-dos-presos-em-8-de-janeiro-tem-mais-de-45-anos)
+- [Cometa verde se aproxima e poderá ser visto a olho nu](https://www.nexojornal.com.br/extra/2023/01/11/Cometa-verde-se-aproxima-e-poder%C3%A1-ser-visto-a-olho-nu)
+- [Interventor do DF reforça segurança e fecha Esplanada](https://www.nexojornal.com.br/extra/2023/01/11/Interventor-do-DF-refor%C3%A7a-seguran%C3%A7a-e-fecha-Esplanada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
