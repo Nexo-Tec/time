@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As decisões judiciais de Moraes contra a violência bolsonarista](https://www.nexojornal.com.br/podcast/2023/01/11/As-decis%C3%B5es-judiciais-de-Moraes-contra-a-viol%C3%AAncia-bolsonarista)
 - [Republicanos pedem renúncia de George Santos após mentiras](https://www.nexojornal.com.br/extra/2023/01/11/Republicanos-pedem-ren%C3%BAncia-de-George-Santos-ap%C3%B3s-mentiras)
 - [Custo de vida e clima são principais riscos globais, diz Davos](https://www.nexojornal.com.br/extra/2023/01/11/Custo-de-vida-e-clima-s%C3%A3o-principais-riscos-globais-diz-Davos)
 - [Maioria dos presos em 8 de janeiro tem mais de 45 anos](https://www.nexojornal.com.br/grafico/2023/01/11/Maioria-dos-presos-em-8-de-janeiro-tem-mais-de-45-anos)
 - [Cometa verde se aproxima e poderá ser visto a olho nu](https://www.nexojornal.com.br/extra/2023/01/11/Cometa-verde-se-aproxima-e-poder%C3%A1-ser-visto-a-olho-nu)
-- [Interventor do DF reforça segurança e fecha Esplanada](https://www.nexojornal.com.br/extra/2023/01/11/Interventor-do-DF-refor%C3%A7a-seguran%C3%A7a-e-fecha-Esplanada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
