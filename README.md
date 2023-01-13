@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a minuta do golpe coroa as ações para melar as eleições](https://www.nexojornal.com.br/expresso/2023/01/13/Como-a-minuta-do-golpe-coroa-as-a%C3%A7%C3%B5es-para-melar-as-elei%C3%A7%C3%B5es)
-- [Moraes manda abrir investigação contra Ibaneis e Torres](https://www.nexojornal.com.br/extra/2023/01/13/Moraes-manda-abrir-investiga%C3%A7%C3%A3o-contra-Ibaneis-e-Torres)
-- [Casos de covid na China chegam a 900 milhões, diz estudo](https://www.nexojornal.com.br/extra/2023/01/13/Casos-de-covid-na-China-chegam-a-900-milh%C3%B5es-diz-estudo)
-- [Leva de documentos secretos é encontrada em casa de Biden](https://www.nexojornal.com.br/extra/2023/01/13/Leva-de-documentos-secretos-%C3%A9-encontrada-em-casa-de-Biden)
-- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
+- [A história das obras e objetos depredados nas invasões golpistas](https://www.nexojornal.com.br/grafico/2023/01/12/A-hist%C3%B3ria-das-obras-e-objetos-depredados-nas-invas%C3%B5es-golpistas)
+- [O dinheiro sumiu: o que acontece agora com a Americanas](https://www.nexojornal.com.br/expresso/2023/01/12/O-dinheiro-sumiu-o-que-acontece-agora-com-a-Americanas)
+- [Bolsonaro gastou R$ 27,6 milhões no cartão corporativo](https://www.nexojornal.com.br/extra/2023/01/12/Bolsonaro-gastou-R-276-milh%C3%B5es-no-cart%C3%A3o-corporativo)
+- [Forças Armadas não são poder moderador como pensam, diz Lula](https://www.nexojornal.com.br/extra/2023/01/12/For%C3%A7as-Armadas-n%C3%A3o-s%C3%A3o-poder-moderador-como-pensam-diz-Lula)
+- [Nasa anuncia descoberta de novo planeta habitável](https://www.nexojornal.com.br/extra/2023/01/12/Nasa-anuncia-descoberta-de-novo-planeta-habit%C3%A1vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
