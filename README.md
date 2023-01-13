@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
-- [O que é uma política transversal. E o que é preciso para ela vingar](https://www.nexojornal.com.br/expresso/2023/01/12/O-que-%C3%A9-uma-pol%C3%ADtica-transversal.-E-o-que-%C3%A9-preciso-para-ela-vingar)
-- [‘Atacar a credibilidade de jornalistas é pilar do tecnopopulismo’](https://www.nexojornal.com.br/entrevista/2023/01/12/%E2%80%98Atacar-a-credibilidade-de-jornalistas-%C3%A9-pilar-do-tecnopopulismo%E2%80%99)
-- [Por que as pesquisas sobre o apoio ao golpismo divergem](https://www.nexojornal.com.br/expresso/2023/01/12/Por-que-as-pesquisas-sobre-o-apoio-ao-golpismo-divergem)
-- [Como a reação à invasão dos Poderes afeta os planos de Lula](https://www.nexojornal.com.br/expresso/2023/01/12/Como-a-rea%C3%A7%C3%A3o-%C3%A0-invas%C3%A3o-dos-Poderes-afeta-os-planos-de-Lula)
+- [A história das obras e objetos depredados nas invasões golpistas](https://www.nexojornal.com.br/grafico/2023/01/12/A-hist%C3%B3ria-das-obras-e-objetos-depredados-nas-invas%C3%B5es-golpistas)
+- [O dinheiro sumiu: o que acontece agora com a Americanas](https://www.nexojornal.com.br/expresso/2023/01/12/O-dinheiro-sumiu-o-que-acontece-agora-com-a-Americanas)
+- [Bolsonaro gastou R$ 27,6 milhões no cartão corporativo](https://www.nexojornal.com.br/extra/2023/01/12/Bolsonaro-gastou-R-276-milh%C3%B5es-no-cart%C3%A3o-corporativo)
+- [Forças Armadas não são poder moderador como pensam, diz Lula](https://www.nexojornal.com.br/extra/2023/01/12/For%C3%A7as-Armadas-n%C3%A3o-s%C3%A3o-poder-moderador-como-pensam-diz-Lula)
+- [Nasa anuncia descoberta de novo planeta habitável](https://www.nexojornal.com.br/extra/2023/01/12/Nasa-anuncia-descoberta-de-novo-planeta-habit%C3%A1vel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
