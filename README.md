@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como militares contribuíram para a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/12/Como-militares-contribu%C3%ADram-para-a-invas%C3%A3o-dos-Poderes)
-- [Como funcionam os novos tratamentos para obesidade](https://www.nexojornal.com.br/colunistas/2023/Como-funcionam-os-novos-tratamentos-para-obesidade)
-- [‘O extremismo político vai continuar porque é um fenômeno social’](https://www.nexojornal.com.br/entrevista/2023/01/11/%E2%80%98O-extremismo-pol%C3%ADtico-vai-continuar-porque-%C3%A9-um-fen%C3%B4meno-social%E2%80%99)
-- [A onda de violência após a deposição de Castillo no Peru](https://www.nexojornal.com.br/expresso/2023/01/11/A-onda-de-viol%C3%AAncia-ap%C3%B3s-a-deposi%C3%A7%C3%A3o-de-Castillo-no-Peru)
-- [Guajajara e Anielle tomam posse com promessa de reparação](https://www.nexojornal.com.br/extra/2023/01/11/Guajajara-e-Anielle-tomam-posse-com-promessa-de-repara%C3%A7%C3%A3o)
+- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
+- [O que é uma política transversal. E o que é preciso para ela vingar](https://www.nexojornal.com.br/expresso/2023/01/12/O-que-%C3%A9-uma-pol%C3%ADtica-transversal.-E-o-que-%C3%A9-preciso-para-ela-vingar)
+- [‘Atacar a credibilidade de jornalistas é pilar do tecnopopulismo’](https://www.nexojornal.com.br/entrevista/2023/01/12/%E2%80%98Atacar-a-credibilidade-de-jornalistas-%C3%A9-pilar-do-tecnopopulismo%E2%80%99)
+- [Por que as pesquisas sobre o apoio ao golpismo divergem](https://www.nexojornal.com.br/expresso/2023/01/12/Por-que-as-pesquisas-sobre-o-apoio-ao-golpismo-divergem)
+- [Como a reação à invasão dos Poderes afeta os planos de Lula](https://www.nexojornal.com.br/expresso/2023/01/12/Como-a-rea%C3%A7%C3%A3o-%C3%A0-invas%C3%A3o-dos-Poderes-afeta-os-planos-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
