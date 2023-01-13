@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a minuta do golpe coroa as ações para melar as eleições](https://www.nexojornal.com.br/expresso/2023/01/13/Como-a-minuta-do-golpe-coroa-as-a%C3%A7%C3%B5es-para-melar-as-elei%C3%A7%C3%B5es)
+- [Moraes manda abrir investigação contra Ibaneis e Torres](https://www.nexojornal.com.br/extra/2023/01/13/Moraes-manda-abrir-investiga%C3%A7%C3%A3o-contra-Ibaneis-e-Torres)
+- [Casos de covid na China chegam a 900 milhões, diz estudo](https://www.nexojornal.com.br/extra/2023/01/13/Casos-de-covid-na-China-chegam-a-900-milh%C3%B5es-diz-estudo)
+- [Leva de documentos secretos é encontrada em casa de Biden](https://www.nexojornal.com.br/extra/2023/01/13/Leva-de-documentos-secretos-%C3%A9-encontrada-em-casa-de-Biden)
 - [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
-- [O que é uma política transversal. E o que é preciso para ela vingar](https://www.nexojornal.com.br/expresso/2023/01/12/O-que-%C3%A9-uma-pol%C3%ADtica-transversal.-E-o-que-%C3%A9-preciso-para-ela-vingar)
-- [‘Atacar a credibilidade de jornalistas é pilar do tecnopopulismo’](https://www.nexojornal.com.br/entrevista/2023/01/12/%E2%80%98Atacar-a-credibilidade-de-jornalistas-%C3%A9-pilar-do-tecnopopulismo%E2%80%99)
-- [Por que as pesquisas sobre o apoio ao golpismo divergem](https://www.nexojornal.com.br/expresso/2023/01/12/Por-que-as-pesquisas-sobre-o-apoio-ao-golpismo-divergem)
-- [Como a reação à invasão dos Poderes afeta os planos de Lula](https://www.nexojornal.com.br/expresso/2023/01/12/Como-a-rea%C3%A7%C3%A3o-%C3%A0-invas%C3%A3o-dos-Poderes-afeta-os-planos-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
