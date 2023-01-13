@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A história das obras e objetos depredados nas invasões golpistas](https://www.nexojornal.com.br/grafico/2023/01/12/A-hist%C3%B3ria-das-obras-e-objetos-depredados-nas-invas%C3%B5es-golpistas)
-- [O dinheiro sumiu: o que acontece agora com a Americanas](https://www.nexojornal.com.br/expresso/2023/01/12/O-dinheiro-sumiu-o-que-acontece-agora-com-a-Americanas)
-- [Bolsonaro gastou R$ 27,6 milhões no cartão corporativo](https://www.nexojornal.com.br/extra/2023/01/12/Bolsonaro-gastou-R-276-milh%C3%B5es-no-cart%C3%A3o-corporativo)
-- [Forças Armadas não são poder moderador como pensam, diz Lula](https://www.nexojornal.com.br/extra/2023/01/12/For%C3%A7as-Armadas-n%C3%A3o-s%C3%A3o-poder-moderador-como-pensam-diz-Lula)
-- [Nasa anuncia descoberta de novo planeta habitável](https://www.nexojornal.com.br/extra/2023/01/12/Nasa-anuncia-descoberta-de-novo-planeta-habit%C3%A1vel)
+- [Como militares contribuíram para a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/01/12/Como-militares-contribu%C3%ADram-para-a-invas%C3%A3o-dos-Poderes)
+- [Como funcionam os novos tratamentos para obesidade](https://www.nexojornal.com.br/colunistas/2023/Como-funcionam-os-novos-tratamentos-para-obesidade)
+- [‘O extremismo político vai continuar porque é um fenômeno social’](https://www.nexojornal.com.br/entrevista/2023/01/11/%E2%80%98O-extremismo-pol%C3%ADtico-vai-continuar-porque-%C3%A9-um-fen%C3%B4meno-social%E2%80%99)
+- [A onda de violência após a deposição de Castillo no Peru](https://www.nexojornal.com.br/expresso/2023/01/11/A-onda-de-viol%C3%AAncia-ap%C3%B3s-a-deposi%C3%A7%C3%A3o-de-Castillo-no-Peru)
+- [Guajajara e Anielle tomam posse com promessa de reparação](https://www.nexojornal.com.br/extra/2023/01/11/Guajajara-e-Anielle-tomam-posse-com-promessa-de-repara%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
