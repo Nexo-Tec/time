@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A história das obras e objetos depredados nas invasões golpistas](https://www.nexojornal.com.br/grafico/2023/01/12/A-hist%C3%B3ria-das-obras-e-objetos-depredados-nas-invas%C3%B5es-golpistas)
-- [O dinheiro sumiu: o que acontece agora com a Americanas](https://www.nexojornal.com.br/expresso/2023/01/12/O-dinheiro-sumiu-o-que-acontece-agora-com-a-Americanas)
-- [Bolsonaro gastou R$ 27,6 milhões no cartão corporativo](https://www.nexojornal.com.br/extra/2023/01/12/Bolsonaro-gastou-R-276-milh%C3%B5es-no-cart%C3%A3o-corporativo)
-- [Forças Armadas não são poder moderador como pensam, diz Lula](https://www.nexojornal.com.br/extra/2023/01/12/For%C3%A7as-Armadas-n%C3%A3o-s%C3%A3o-poder-moderador-como-pensam-diz-Lula)
-- [Nasa anuncia descoberta de novo planeta habitável](https://www.nexojornal.com.br/extra/2023/01/12/Nasa-anuncia-descoberta-de-novo-planeta-habit%C3%A1vel)
+- [Quarta torre de energia é atacada sob suspeita de sabotagem](https://www.nexojornal.com.br/extra/2023/01/13/Quarta-torre-de-energia-%C3%A9-atacada-sob-suspeita-de-sabotagem)
+- [Polícia alemã desocupa vila símbolo do ativismo ambiental](https://www.nexojornal.com.br/extra/2023/01/13/Pol%C3%ADcia-alem%C3%A3-desocupa-vila-s%C3%ADmbolo-do-ativismo-ambiental)
+- [Como pessoas bissexuais vivenciam o direito à cidade](https://www.nexojornal.com.br/academico/2023/01/13/Como-pessoas-bissexuais-vivenciam-o-direito-%C3%A0-cidade)
+- [Procuradoria quer incluir Bolsonaro em inquérito da invasão](https://www.nexojornal.com.br/extra/2023/01/13/Procuradoria-quer-incluir-Bolsonaro-em-inqu%C3%A9rito-da-invas%C3%A3o)
+- [O aumento de problemas de visão em crianças na pandemia](https://www.nexojornal.com.br/expresso/2023/01/13/O-aumento-de-problemas-de-vis%C3%A3o-em-crian%C3%A7as-na-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
