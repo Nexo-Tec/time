@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a minuta do golpe coroa as ações para melar as eleições](https://www.nexojornal.com.br/expresso/2023/01/13/Como-a-minuta-do-golpe-coroa-as-a%C3%A7%C3%B5es-para-melar-as-elei%C3%A7%C3%B5es)
-- [Moraes manda abrir investigação contra Ibaneis e Torres](https://www.nexojornal.com.br/extra/2023/01/13/Moraes-manda-abrir-investiga%C3%A7%C3%A3o-contra-Ibaneis-e-Torres)
-- [Casos de covid na China chegam a 900 milhões, diz estudo](https://www.nexojornal.com.br/extra/2023/01/13/Casos-de-covid-na-China-chegam-a-900-milh%C3%B5es-diz-estudo)
-- [Leva de documentos secretos é encontrada em casa de Biden](https://www.nexojornal.com.br/extra/2023/01/13/Leva-de-documentos-secretos-%C3%A9-encontrada-em-casa-de-Biden)
-- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
+- [O que liga Bolsonaro à invasão dos Poderes e à minuta do golpe](https://www.nexojornal.com.br/expresso/2023/01/14/O-que-liga-Bolsonaro-%C3%A0-invas%C3%A3o-dos-Poderes-e-%C3%A0-minuta-do-golpe)
+- [‘Meus dias com os Kopp’: a ambivalência do mundo adulto](https://www.nexojornal.com.br/estante/trechos/2023/01/13/%E2%80%98Meus-dias-com-os-Kopp%E2%80%99-a-ambival%C3%AAncia-do-mundo-adulto)
+- [‘The Last of Us’, a nova aposta de adaptação de games para a TV](https://www.nexojornal.com.br/expresso/2023/01/13/%E2%80%98The-Last-of-Us%E2%80%99-a-nova-aposta-de-adapta%C3%A7%C3%A3o-de-games-para-a-TV)
+- [‘Não podemos separar o online do que acontece no offline’](https://www.nexojornal.com.br/entrevista/2023/01/13/%E2%80%98N%C3%A3o-podemos-separar-o-online-do-que-acontece-no-offline%E2%80%99)
+- [O que podemos esperar da realização de uma COP na Amazônia](https://www.nexojornal.com.br/ensaio/2023/01/13/O-que-podemos-esperar-da-realiza%C3%A7%C3%A3o-de-uma-COP-na-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
