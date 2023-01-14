@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quarta torre de energia é atacada sob suspeita de sabotagem](https://www.nexojornal.com.br/extra/2023/01/13/Quarta-torre-de-energia-%C3%A9-atacada-sob-suspeita-de-sabotagem)
-- [Polícia alemã desocupa vila símbolo do ativismo ambiental](https://www.nexojornal.com.br/extra/2023/01/13/Pol%C3%ADcia-alem%C3%A3-desocupa-vila-s%C3%ADmbolo-do-ativismo-ambiental)
-- [Como pessoas bissexuais vivenciam o direito à cidade](https://www.nexojornal.com.br/academico/2023/01/13/Como-pessoas-bissexuais-vivenciam-o-direito-%C3%A0-cidade)
-- [Procuradoria quer incluir Bolsonaro em inquérito da invasão](https://www.nexojornal.com.br/extra/2023/01/13/Procuradoria-quer-incluir-Bolsonaro-em-inqu%C3%A9rito-da-invas%C3%A3o)
-- [O aumento de problemas de visão em crianças na pandemia](https://www.nexojornal.com.br/expresso/2023/01/13/O-aumento-de-problemas-de-vis%C3%A3o-em-crian%C3%A7as-na-pandemia)
+- [Como a minuta do golpe coroa as ações para melar as eleições](https://www.nexojornal.com.br/expresso/2023/01/13/Como-a-minuta-do-golpe-coroa-as-a%C3%A7%C3%B5es-para-melar-as-elei%C3%A7%C3%B5es)
+- [Moraes manda abrir investigação contra Ibaneis e Torres](https://www.nexojornal.com.br/extra/2023/01/13/Moraes-manda-abrir-investiga%C3%A7%C3%A3o-contra-Ibaneis-e-Torres)
+- [Casos de covid na China chegam a 900 milhões, diz estudo](https://www.nexojornal.com.br/extra/2023/01/13/Casos-de-covid-na-China-chegam-a-900-milh%C3%B5es-diz-estudo)
+- [Leva de documentos secretos é encontrada em casa de Biden](https://www.nexojornal.com.br/extra/2023/01/13/Leva-de-documentos-secretos-%C3%A9-encontrada-em-casa-de-Biden)
+- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
