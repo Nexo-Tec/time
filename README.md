@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quarta torre de energia é atacada sob suspeita de sabotagem](https://www.nexojornal.com.br/extra/2023/01/13/Quarta-torre-de-energia-%C3%A9-atacada-sob-suspeita-de-sabotagem)
-- [Polícia alemã desocupa vila símbolo do ativismo ambiental](https://www.nexojornal.com.br/extra/2023/01/13/Pol%C3%ADcia-alem%C3%A3-desocupa-vila-s%C3%ADmbolo-do-ativismo-ambiental)
-- [Como pessoas bissexuais vivenciam o direito à cidade](https://www.nexojornal.com.br/academico/2023/01/13/Como-pessoas-bissexuais-vivenciam-o-direito-%C3%A0-cidade)
-- [Procuradoria quer incluir Bolsonaro em inquérito da invasão](https://www.nexojornal.com.br/extra/2023/01/13/Procuradoria-quer-incluir-Bolsonaro-em-inqu%C3%A9rito-da-invas%C3%A3o)
-- [O aumento de problemas de visão em crianças na pandemia](https://www.nexojornal.com.br/expresso/2023/01/13/O-aumento-de-problemas-de-vis%C3%A3o-em-crian%C3%A7as-na-pandemia)
+- [O que liga Bolsonaro à invasão dos Poderes e à minuta do golpe](https://www.nexojornal.com.br/expresso/2023/01/14/O-que-liga-Bolsonaro-%C3%A0-invas%C3%A3o-dos-Poderes-e-%C3%A0-minuta-do-golpe)
+- [‘Meus dias com os Kopp’: a ambivalência do mundo adulto](https://www.nexojornal.com.br/estante/trechos/2023/01/13/%E2%80%98Meus-dias-com-os-Kopp%E2%80%99-a-ambival%C3%AAncia-do-mundo-adulto)
+- [‘The Last of Us’, a nova aposta de adaptação de games para a TV](https://www.nexojornal.com.br/expresso/2023/01/13/%E2%80%98The-Last-of-Us%E2%80%99-a-nova-aposta-de-adapta%C3%A7%C3%A3o-de-games-para-a-TV)
+- [‘Não podemos separar o online do que acontece no offline’](https://www.nexojornal.com.br/entrevista/2023/01/13/%E2%80%98N%C3%A3o-podemos-separar-o-online-do-que-acontece-no-offline%E2%80%99)
+- [O que podemos esperar da realização de uma COP na Amazônia](https://www.nexojornal.com.br/ensaio/2023/01/13/O-que-podemos-esperar-da-realiza%C3%A7%C3%A3o-de-uma-COP-na-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
