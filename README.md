@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quarta torre de energia é atacada sob suspeita de sabotagem](https://www.nexojornal.com.br/extra/2023/01/13/Quarta-torre-de-energia-%C3%A9-atacada-sob-suspeita-de-sabotagem)
-- [Polícia alemã desocupa vila símbolo do ativismo ambiental](https://www.nexojornal.com.br/extra/2023/01/13/Pol%C3%ADcia-alem%C3%A3-desocupa-vila-s%C3%ADmbolo-do-ativismo-ambiental)
-- [Como pessoas bissexuais vivenciam o direito à cidade](https://www.nexojornal.com.br/academico/2023/01/13/Como-pessoas-bissexuais-vivenciam-o-direito-%C3%A0-cidade)
-- [Procuradoria quer incluir Bolsonaro em inquérito da invasão](https://www.nexojornal.com.br/extra/2023/01/13/Procuradoria-quer-incluir-Bolsonaro-em-inqu%C3%A9rito-da-invas%C3%A3o)
-- [O aumento de problemas de visão em crianças na pandemia](https://www.nexojornal.com.br/expresso/2023/01/13/O-aumento-de-problemas-de-vis%C3%A3o-em-crian%C3%A7as-na-pandemia)
+- [Lisa Marie Presley, cantora e filha de Elvis, morre aos 54 anos](https://www.nexojornal.com.br/extra/2023/01/12/Lisa-Marie-Presley-cantora-e-filha-de-Elvis-morre-aos-54-anos)
+- [O que é uma política transversal. E o que é preciso para ela vingar](https://www.nexojornal.com.br/expresso/2023/01/12/O-que-%C3%A9-uma-pol%C3%ADtica-transversal.-E-o-que-%C3%A9-preciso-para-ela-vingar)
+- [‘Atacar a credibilidade de jornalistas é pilar do tecnopopulismo’](https://www.nexojornal.com.br/entrevista/2023/01/12/%E2%80%98Atacar-a-credibilidade-de-jornalistas-%C3%A9-pilar-do-tecnopopulismo%E2%80%99)
+- [Por que as pesquisas sobre o apoio ao golpismo divergem](https://www.nexojornal.com.br/expresso/2023/01/12/Por-que-as-pesquisas-sobre-o-apoio-ao-golpismo-divergem)
+- [Como a reação à invasão dos Poderes afeta os planos de Lula](https://www.nexojornal.com.br/expresso/2023/01/12/Como-a-rea%C3%A7%C3%A3o-%C3%A0-invas%C3%A3o-dos-Poderes-afeta-os-planos-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
