@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O silenciamento dos pássaros](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/o-silenciamento-dos-passaros/)
+- [O silêncio dos pássaros](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/o-silenciamento-dos-passaros/)
 - [O que Sobra](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-que-sobra/)
 - [“Visita, Presidente”, sobre a prisão de Lula](https://gamarevista.uol.com.br/achamos-que-vale/assistir/visita-presidente-sobre-a-prisao-de-lula/)
 - [Todos os romances de Luis Fernando Veríssimo](https://gamarevista.uol.com.br/achamos-que-vale/ler/todos-os-romances-de-luis-fernando-verissimo/)
