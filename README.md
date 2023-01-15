@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para conversar sobre política com crianças](https://www.nexojornal.com.br/estante/favoritos/2023/01/14/5-livros-para-conversar-sobre-pol%C3%ADtica-com-crian%C3%A7as)
-- [Como os sons da cidade viraram ‘música urbana’ no Japão](https://www.nexojornal.com.br/externo/2023/01/14/Como-os-sons-da-cidade-viraram-%E2%80%98m%C3%BAsica-urbana%E2%80%99-no-Jap%C3%A3o)
-- [A rápida reversão de medidas de Bolsonaro. Pelo menos no papel](https://www.nexojornal.com.br/expresso/2023/01/14/A-r%C3%A1pida-revers%C3%A3o-de-medidas-de-Bolsonaro.-Pelo-menos-no-papel)
-- [Como superar um legado político de incentivo à radicalização](https://www.nexojornal.com.br/expresso/2023/01/14/Como-superar-um-legado-pol%C3%ADtico-de-incentivo-%C3%A0-radicaliza%C3%A7%C3%A3o)
-- [Antidemocrático, o antissemitismo não se adjetiva](https://www.nexojornal.com.br/ensaio/2023/01/14/Antidemocr%C3%A1tico-o-antissemitismo-n%C3%A3o-se-adjetiva)
+- [Anderson Torres é preso ao desembarcar em Brasília](https://www.nexojornal.com.br/extra/2023/01/14/Anderson-Torres-%C3%A9-preso-ao-desembarcar-em-Bras%C3%ADlia)
+- [O que liga Bolsonaro à invasão dos Poderes e à minuta do golpe](https://www.nexojornal.com.br/expresso/2023/01/14/O-que-liga-Bolsonaro-%C3%A0-invas%C3%A3o-dos-Poderes-e-%C3%A0-minuta-do-golpe)
+- [‘Meus dias com os Kopp’: a ambivalência do mundo adulto](https://www.nexojornal.com.br/estante/trechos/2023/01/13/%E2%80%98Meus-dias-com-os-Kopp%E2%80%99-a-ambival%C3%AAncia-do-mundo-adulto)
+- [‘The Last of Us’, a nova aposta de adaptação de games para a TV](https://www.nexojornal.com.br/expresso/2023/01/13/%E2%80%98The-Last-of-Us%E2%80%99-a-nova-aposta-de-adapta%C3%A7%C3%A3o-de-games-para-a-TV)
+- [‘Não podemos separar o online do que acontece no offline’](https://www.nexojornal.com.br/entrevista/2023/01/13/%E2%80%98N%C3%A3o-podemos-separar-o-online-do-que-acontece-no-offline%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
