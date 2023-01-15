@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Acidente aéreo no Nepal deixa ao menos 68 mortos](https://www.nexojornal.com.br/extra/2023/01/15/Acidente-a%C3%A9reo-no-Nepal-deixa-ao-menos-68-mortos)
 - [5 livros para conversar sobre política com crianças](https://www.nexojornal.com.br/estante/favoritos/2023/01/14/5-livros-para-conversar-sobre-pol%C3%ADtica-com-crian%C3%A7as)
 - [Como os sons da cidade viraram ‘música urbana’ no Japão](https://www.nexojornal.com.br/externo/2023/01/14/Como-os-sons-da-cidade-viraram-%E2%80%98m%C3%BAsica-urbana%E2%80%99-no-Jap%C3%A3o)
 - [A rápida reversão de medidas de Bolsonaro. Pelo menos no papel](https://www.nexojornal.com.br/expresso/2023/01/14/A-r%C3%A1pida-revers%C3%A3o-de-medidas-de-Bolsonaro.-Pelo-menos-no-papel)
 - [Como superar um legado político de incentivo à radicalização](https://www.nexojornal.com.br/expresso/2023/01/14/Como-superar-um-legado-pol%C3%ADtico-de-incentivo-%C3%A0-radicaliza%C3%A7%C3%A3o)
-- [Antidemocrático, o antissemitismo não se adjetiva](https://www.nexojornal.com.br/ensaio/2023/01/14/Antidemocr%C3%A1tico-o-antissemitismo-n%C3%A3o-se-adjetiva)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
