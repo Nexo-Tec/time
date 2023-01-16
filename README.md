@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@emmaziadarcy](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/emmaziadarcy/)
 - [Slam, poesia e o tempo das urgências](https://gamarevista.uol.com.br/artigo/nos-corre-da-poesia-a-esperanca-na-guilhermina/)
 - [Alexandre Coimbra Amaral: “O Ano Novo acontece com ações que operamos sobre a vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/alexandre-coimbra-amaral-fala-sobre-mudanca-de-vida/)
 - [O silêncio dos pássaros](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/o-silenciamento-dos-passaros/)
 - [O que Sobra](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-que-sobra/)
-- [“Visita, Presidente”, sobre a prisão de Lula](https://gamarevista.uol.com.br/achamos-que-vale/assistir/visita-presidente-sobre-a-prisao-de-lula/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
