@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Esquerda precisa de relação mais afetiva com evangélicos’](https://www.nexojornal.com.br/entrevista/2023/01/16/%E2%80%98Esquerda-precisa-de-rela%C3%A7%C3%A3o-mais-afetiva-com-evang%C3%A9licos%E2%80%99)
+- [Itália prende chefe da máfia Cosa Nostra, foragido por 30 anos](https://www.nexojornal.com.br/extra/2023/01/16/It%C3%A1lia-prende-chefe-da-m%C3%A1fia-Cosa-Nostra-foragido-por-30-anos)
+- [Operação da PF no Rio mira líderes de atos golpistas](https://www.nexojornal.com.br/extra/2023/01/16/Opera%C3%A7%C3%A3o-da-PF-no-Rio-mira-l%C3%ADderes-de-atos-golpistas)
+- [Por que taxar os mais ricos pode mudar os rumos da década](https://www.nexojornal.com.br/expresso/2023/01/15/Por-que-taxar-os-mais-ricos-pode-mudar-os-rumos-da-d%C3%A9cada)
 - [O que é ciência aberta. E quais os entraves para ela](https://www.nexojornal.com.br/expresso/2023/01/15/O-que-%C3%A9-ci%C3%AAncia-aberta.-E-quais-os-entraves-para-ela)
-- [Os quilombolas venceram Bolsonaro, apesar de derrotados](https://www.nexojornal.com.br/ensaio/2023/01/15/Os-quilombolas-venceram-Bolsonaro-apesar-de-derrotados)
-- [O que são florestas não destinadas. E quais seus desafios](https://www.nexojornal.com.br/expresso/2023/01/15/O-que-s%C3%A3o-florestas-n%C3%A3o-destinadas.-E-quais-seus-desafios)
-- [Exército barrou prisões, diz ex-chefe da Polícia Militar do DF](https://www.nexojornal.com.br/extra/2023/01/15/Ex%C3%A9rcito-barrou-pris%C3%B5es-diz-ex-chefe-da-Pol%C3%ADcia-Militar-do-DF)
-- [‘A extrema direita no Brasil tem um forte apelo ao militarismo’](https://www.nexojornal.com.br/entrevista/2023/01/15/%E2%80%98A-extrema-direita-no-Brasil-tem-um-forte-apelo-ao-militarismo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
