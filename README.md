@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Suspeita de financiar atos golpistas se entrega à PF no Rio](https://www.nexojornal.com.br/extra/2023/01/17/Suspeita-de-financiar-atos-golpistas-se-entrega-%C3%A0-PF-no-Rio)
-- [Josué Gomes é destituído da presidência da Fiesp](https://www.nexojornal.com.br/extra/2023/01/17/Josu%C3%A9-Gomes-%C3%A9-destitu%C3%ADdo-da-presid%C3%AAncia-da-Fiesp)
 - [Quais os principais eventos esportivos de 2023](https://www.nexojornal.com.br/expresso/2023/01/16/Quais-os-principais-eventos-esportivos-de-2023)
 - [Os desafios do ChatGPT, robô usado para trabalhos acadêmicos](https://www.nexojornal.com.br/expresso/2023/01/16/Os-desafios-do-ChatGPT-rob%C3%B4-usado-para-trabalhos-acad%C3%AAmicos)
 - [Abrigo a golpistas: o caminho da incursão política dos militares](https://www.nexojornal.com.br/expresso/2023/01/16/Abrigo-a-golpistas-o-caminho-da-incurs%C3%A3o-pol%C3%ADtica-dos-militares)
+- [Como o Brasil se insere na agenda global em Davos](https://www.nexojornal.com.br/expresso/2023/01/16/Como-o-Brasil-se-insere-na-agenda-global-em-Davos)
+- [Ministério da Saúde revoga portaria sobre aborto](https://www.nexojornal.com.br/extra/2023/01/16/Minist%C3%A9rio-da-Sa%C3%BAde-revoga-portaria-sobre-aborto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
