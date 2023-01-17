@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os principais eventos esportivos de 2023](https://www.nexojornal.com.br/expresso/2023/01/16/Quais-os-principais-eventos-esportivos-de-2023)
-- [Os desafios do ChatGPT, robô usado para trabalhos acadêmicos](https://www.nexojornal.com.br/expresso/2023/01/16/Os-desafios-do-ChatGPT-rob%C3%B4-usado-para-trabalhos-acad%C3%AAmicos)
-- [Abrigo a golpistas: o caminho da incursão política dos militares](https://www.nexojornal.com.br/expresso/2023/01/16/Abrigo-a-golpistas-o-caminho-da-incurs%C3%A3o-pol%C3%ADtica-dos-militares)
-- [Como o Brasil se insere na agenda global em Davos](https://www.nexojornal.com.br/expresso/2023/01/16/Como-o-Brasil-se-insere-na-agenda-global-em-Davos)
-- [Ministério da Saúde revoga portaria sobre aborto](https://www.nexojornal.com.br/extra/2023/01/16/Minist%C3%A9rio-da-Sa%C3%BAde-revoga-portaria-sobre-aborto)
+- [A questão indígena no pacote de revogação do legado bolsonarista](https://www.nexojornal.com.br/podcast/2023/01/17/A-quest%C3%A3o-ind%C3%ADgena-no-pacote-de-revoga%C3%A7%C3%A3o-do-legado-bolsonarista)
+- [Cientista Ricardo Galvão é o novo presidente do CNPq](https://www.nexojornal.com.br/extra/2023/01/17/Cientista-Ricardo-Galv%C3%A3o-%C3%A9-o-novo-presidente-do-CNPq)
+- [O artista congolês que usa lixo para retratar políticos](https://www.nexojornal.com.br/expresso/2023/01/17/O-artista-congol%C3%AAs-que-usa-lixo-para-retratar-pol%C3%ADticos)
+- [Governo tira Brasil de aliança global conservadora antiaborto](https://www.nexojornal.com.br/extra/2023/01/17/Governo-tira-Brasil-de-alian%C3%A7a-global-conservadora-antiaborto)
+- [Ativista Greta Thunberg é detida em protesto na Alemanha](https://www.nexojornal.com.br/extra/2023/01/17/Ativista-Greta-Thunberg-%C3%A9-detida-em-protesto-na-Alemanha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
