@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Esquerda precisa de relação mais afetiva com evangélicos’](https://www.nexojornal.com.br/entrevista/2023/01/16/%E2%80%98Esquerda-precisa-de-rela%C3%A7%C3%A3o-mais-afetiva-com-evang%C3%A9licos%E2%80%99)
-- [Itália prende chefe da máfia Cosa Nostra, foragido por 30 anos](https://www.nexojornal.com.br/extra/2023/01/16/It%C3%A1lia-prende-chefe-da-m%C3%A1fia-Cosa-Nostra-foragido-por-30-anos)
-- [Operação da PF no Rio mira líderes de atos golpistas](https://www.nexojornal.com.br/extra/2023/01/16/Opera%C3%A7%C3%A3o-da-PF-no-Rio-mira-l%C3%ADderes-de-atos-golpistas)
-- [Por que taxar os mais ricos pode mudar os rumos da década](https://www.nexojornal.com.br/expresso/2023/01/15/Por-que-taxar-os-mais-ricos-pode-mudar-os-rumos-da-d%C3%A9cada)
-- [O que é ciência aberta. E quais os entraves para ela](https://www.nexojornal.com.br/expresso/2023/01/15/O-que-%C3%A9-ci%C3%AAncia-aberta.-E-quais-os-entraves-para-ela)
+- [Quais os principais eventos esportivos de 2023](https://www.nexojornal.com.br/expresso/2023/01/16/Quais-os-principais-eventos-esportivos-de-2023)
+- [Os desafios do ChatGPT, robô usado para trabalhos acadêmicos](https://www.nexojornal.com.br/expresso/2023/01/16/Os-desafios-do-ChatGPT-rob%C3%B4-usado-para-trabalhos-acad%C3%AAmicos)
+- [Abrigo a golpistas: o caminho da incursão política dos militares](https://www.nexojornal.com.br/expresso/2023/01/16/Abrigo-a-golpistas-o-caminho-da-incurs%C3%A3o-pol%C3%ADtica-dos-militares)
+- [Como o Brasil se insere na agenda global em Davos](https://www.nexojornal.com.br/expresso/2023/01/16/Como-o-Brasil-se-insere-na-agenda-global-em-Davos)
+- [Ministério da Saúde revoga portaria sobre aborto](https://www.nexojornal.com.br/extra/2023/01/16/Minist%C3%A9rio-da-Sa%C3%BAde-revoga-portaria-sobre-aborto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
