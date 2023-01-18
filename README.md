@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A questão indígena no pacote de revogação do legado bolsonarista](https://www.nexojornal.com.br/podcast/2023/01/17/A-quest%C3%A3o-ind%C3%ADgena-no-pacote-de-revoga%C3%A7%C3%A3o-do-legado-bolsonarista)
-- [Cientista Ricardo Galvão é o novo presidente do CNPq](https://www.nexojornal.com.br/extra/2023/01/17/Cientista-Ricardo-Galv%C3%A3o-%C3%A9-o-novo-presidente-do-CNPq)
-- [O artista congolês que usa lixo para retratar políticos](https://www.nexojornal.com.br/expresso/2023/01/17/O-artista-congol%C3%AAs-que-usa-lixo-para-retratar-pol%C3%ADticos)
-- [Governo tira Brasil de aliança global conservadora antiaborto](https://www.nexojornal.com.br/extra/2023/01/17/Governo-tira-Brasil-de-alian%C3%A7a-global-conservadora-antiaborto)
 - [Ativista Greta Thunberg é detida em protesto na Alemanha](https://www.nexojornal.com.br/extra/2023/01/17/Ativista-Greta-Thunberg-%C3%A9-detida-em-protesto-na-Alemanha)
+- [Por que o rombo da Americanas gerou um efeito dominó financeiro](https://www.nexojornal.com.br/expresso/2023/01/17/Por-que-o-rombo-da-Americanas-gerou-um-efeito-domin%C3%B3-financeiro)
+- [Rosa Weber suspende indulto a PMs do massacre do Carandiru](https://www.nexojornal.com.br/extra/2023/01/17/Rosa-Weber-suspende-indulto-a-PMs-do-massacre-do-Carandiru)
+- [Lula dispensa 40 militares que trabalhavam no Alvorada](https://www.nexojornal.com.br/extra/2023/01/17/Lula-dispensa-40-militares-que-trabalhavam-no-Alvorada)
+- [Suspeita de financiar atos golpistas se entrega à PF no Rio](https://www.nexojornal.com.br/extra/2023/01/17/Suspeita-de-financiar-atos-golpistas-se-entrega-%C3%A0-PF-no-Rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
