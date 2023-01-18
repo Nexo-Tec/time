@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os principais eventos esportivos de 2023](https://www.nexojornal.com.br/expresso/2023/01/16/Quais-os-principais-eventos-esportivos-de-2023)
-- [Os desafios do ChatGPT, robô usado para trabalhos acadêmicos](https://www.nexojornal.com.br/expresso/2023/01/16/Os-desafios-do-ChatGPT-rob%C3%B4-usado-para-trabalhos-acad%C3%AAmicos)
-- [Abrigo a golpistas: o caminho da incursão política dos militares](https://www.nexojornal.com.br/expresso/2023/01/16/Abrigo-a-golpistas-o-caminho-da-incurs%C3%A3o-pol%C3%ADtica-dos-militares)
-- [Como o Brasil se insere na agenda global em Davos](https://www.nexojornal.com.br/expresso/2023/01/16/Como-o-Brasil-se-insere-na-agenda-global-em-Davos)
-- [Ministério da Saúde revoga portaria sobre aborto](https://www.nexojornal.com.br/extra/2023/01/16/Minist%C3%A9rio-da-Sa%C3%BAde-revoga-portaria-sobre-aborto)
+- [A desigualdade de gênero na diplomacia no Brasil](https://www.nexojornal.com.br/expresso/2023/01/17/A-desigualdade-de-g%C3%AAnero-na-diplomacia-no-Brasil)
+- [A retomada dos direitos fundamentais para a infância](https://www.nexojornal.com.br/colunistas/2023/A-retomada-dos-direitos-fundamentais-para-a-inf%C3%A2ncia)
+- [O que está por trás do declínio populacional na China](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-est%C3%A1-por-tr%C3%A1s-do-decl%C3%ADnio-populacional-na-China)
+- [O que pode acontecer com deputados associados à invasão](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-pode-acontecer-com-deputados-associados-%C3%A0-invas%C3%A3o)
+- [Ministro anuncia criação de órgão contra violência a jornalistas](https://www.nexojornal.com.br/extra/2023/01/17/Ministro-anuncia-cria%C3%A7%C3%A3o-de-%C3%B3rg%C3%A3o-contra-viol%C3%AAncia-a-jornalistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
