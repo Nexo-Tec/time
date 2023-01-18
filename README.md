@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ativista Greta Thunberg é detida em protesto na Alemanha](https://www.nexojornal.com.br/extra/2023/01/17/Ativista-Greta-Thunberg-%C3%A9-detida-em-protesto-na-Alemanha)
-- [Por que o rombo da Americanas gerou um efeito dominó financeiro](https://www.nexojornal.com.br/expresso/2023/01/17/Por-que-o-rombo-da-Americanas-gerou-um-efeito-domin%C3%B3-financeiro)
-- [Rosa Weber suspende indulto a PMs do massacre do Carandiru](https://www.nexojornal.com.br/extra/2023/01/17/Rosa-Weber-suspende-indulto-a-PMs-do-massacre-do-Carandiru)
-- [Lula dispensa 40 militares que trabalhavam no Alvorada](https://www.nexojornal.com.br/extra/2023/01/17/Lula-dispensa-40-militares-que-trabalhavam-no-Alvorada)
-- [Suspeita de financiar atos golpistas se entrega à PF no Rio](https://www.nexojornal.com.br/extra/2023/01/17/Suspeita-de-financiar-atos-golpistas-se-entrega-%C3%A0-PF-no-Rio)
+- [Quais os principais eventos esportivos de 2023](https://www.nexojornal.com.br/expresso/2023/01/16/Quais-os-principais-eventos-esportivos-de-2023)
+- [Os desafios do ChatGPT, robô usado para trabalhos acadêmicos](https://www.nexojornal.com.br/expresso/2023/01/16/Os-desafios-do-ChatGPT-rob%C3%B4-usado-para-trabalhos-acad%C3%AAmicos)
+- [Abrigo a golpistas: o caminho da incursão política dos militares](https://www.nexojornal.com.br/expresso/2023/01/16/Abrigo-a-golpistas-o-caminho-da-incurs%C3%A3o-pol%C3%ADtica-dos-militares)
+- [Como o Brasil se insere na agenda global em Davos](https://www.nexojornal.com.br/expresso/2023/01/16/Como-o-Brasil-se-insere-na-agenda-global-em-Davos)
+- [Ministério da Saúde revoga portaria sobre aborto](https://www.nexojornal.com.br/extra/2023/01/16/Minist%C3%A9rio-da-Sa%C3%BAde-revoga-portaria-sobre-aborto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
