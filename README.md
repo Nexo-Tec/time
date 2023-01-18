@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A questão indígena no pacote de revogação do legado bolsonarista](https://www.nexojornal.com.br/podcast/2023/01/17/A-quest%C3%A3o-ind%C3%ADgena-no-pacote-de-revoga%C3%A7%C3%A3o-do-legado-bolsonarista)
-- [Cientista Ricardo Galvão é o novo presidente do CNPq](https://www.nexojornal.com.br/extra/2023/01/17/Cientista-Ricardo-Galv%C3%A3o-%C3%A9-o-novo-presidente-do-CNPq)
-- [O artista congolês que usa lixo para retratar políticos](https://www.nexojornal.com.br/expresso/2023/01/17/O-artista-congol%C3%AAs-que-usa-lixo-para-retratar-pol%C3%ADticos)
-- [Governo tira Brasil de aliança global conservadora antiaborto](https://www.nexojornal.com.br/extra/2023/01/17/Governo-tira-Brasil-de-alian%C3%A7a-global-conservadora-antiaborto)
-- [Ativista Greta Thunberg é detida em protesto na Alemanha](https://www.nexojornal.com.br/extra/2023/01/17/Ativista-Greta-Thunberg-%C3%A9-detida-em-protesto-na-Alemanha)
+- [Rio: galpão do aeroporto do Galeão é atingido por incêndio](https://www.nexojornal.com.br/extra/2023/01/18/Rio-galp%C3%A3o-do-aeroporto-do-Gale%C3%A3o-%C3%A9-atingido-por-inc%C3%AAndio)
+- [Lula diz que Bolsonaro tem culpa por atos golpistas em Brasília](https://www.nexojornal.com.br/extra/2023/01/18/Lula-diz-que-Bolsonaro-tem-culpa-por-atos-golpistas-em-Bras%C3%ADlia)
+- [‘Brasil vive transição religiosa sem precedentes no mundo’](https://www.nexojornal.com.br/entrevista/2023/01/18/%E2%80%98Brasil-vive-transi%C3%A7%C3%A3o-religiosa-sem-precedentes-no-mundo%E2%80%99)
+- [Anderson Torres fica em silêncio em depoimento à polícia](https://www.nexojornal.com.br/extra/2023/01/18/Anderson-Torres-fica-em-sil%C3%AAncio-em-depoimento-%C3%A0-pol%C3%ADcia)
+- [Moraes mantém 140 presos por ataques em Brasília e libera 60](https://www.nexojornal.com.br/extra/2023/01/18/Moraes-mant%C3%A9m-140-presos-por-ataques-em-Bras%C3%ADlia-e-libera-60)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
