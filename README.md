@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A desigualdade de gênero na diplomacia no Brasil](https://www.nexojornal.com.br/expresso/2023/01/17/A-desigualdade-de-g%C3%AAnero-na-diplomacia-no-Brasil)
-- [A retomada dos direitos fundamentais para a infância](https://www.nexojornal.com.br/colunistas/2023/A-retomada-dos-direitos-fundamentais-para-a-inf%C3%A2ncia)
-- [O que está por trás do declínio populacional na China](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-est%C3%A1-por-tr%C3%A1s-do-decl%C3%ADnio-populacional-na-China)
-- [O que pode acontecer com deputados associados à invasão](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-pode-acontecer-com-deputados-associados-%C3%A0-invas%C3%A3o)
-- [Ministro anuncia criação de órgão contra violência a jornalistas](https://www.nexojornal.com.br/extra/2023/01/17/Ministro-anuncia-cria%C3%A7%C3%A3o-de-%C3%B3rg%C3%A3o-contra-viol%C3%AAncia-a-jornalistas)
+- [Rio: galpão do aeroporto do Galeão é atingido por incêndio](https://www.nexojornal.com.br/extra/2023/01/18/Rio-galp%C3%A3o-do-aeroporto-do-Gale%C3%A3o-%C3%A9-atingido-por-inc%C3%AAndio)
+- [Lula diz que Bolsonaro tem culpa por atos golpistas em Brasília](https://www.nexojornal.com.br/extra/2023/01/18/Lula-diz-que-Bolsonaro-tem-culpa-por-atos-golpistas-em-Bras%C3%ADlia)
+- [‘Brasil vive transição religiosa sem precedentes no mundo’](https://www.nexojornal.com.br/entrevista/2023/01/18/%E2%80%98Brasil-vive-transi%C3%A7%C3%A3o-religiosa-sem-precedentes-no-mundo%E2%80%99)
+- [Anderson Torres fica em silêncio em depoimento à polícia](https://www.nexojornal.com.br/extra/2023/01/18/Anderson-Torres-fica-em-sil%C3%AAncio-em-depoimento-%C3%A0-pol%C3%ADcia)
+- [Moraes mantém 140 presos por ataques em Brasília e libera 60](https://www.nexojornal.com.br/extra/2023/01/18/Moraes-mant%C3%A9m-140-presos-por-ataques-em-Bras%C3%ADlia-e-libera-60)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
