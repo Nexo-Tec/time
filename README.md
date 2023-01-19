@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A desigualdade de gênero na diplomacia no Brasil](https://www.nexojornal.com.br/expresso/2023/01/17/A-desigualdade-de-g%C3%AAnero-na-diplomacia-no-Brasil)
-- [A retomada dos direitos fundamentais para a infância](https://www.nexojornal.com.br/colunistas/2023/A-retomada-dos-direitos-fundamentais-para-a-inf%C3%A2ncia)
-- [O que está por trás do declínio populacional na China](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-est%C3%A1-por-tr%C3%A1s-do-decl%C3%ADnio-populacional-na-China)
-- [O que pode acontecer com deputados associados à invasão](https://www.nexojornal.com.br/expresso/2023/01/17/O-que-pode-acontecer-com-deputados-associados-%C3%A0-invas%C3%A3o)
-- [Ministro anuncia criação de órgão contra violência a jornalistas](https://www.nexojornal.com.br/extra/2023/01/17/Ministro-anuncia-cria%C3%A7%C3%A3o-de-%C3%B3rg%C3%A3o-contra-viol%C3%AAncia-a-jornalistas)
+- [Como a desnutrição afeta o desenvolvimento dos bebês](https://www.nexojornal.com.br/expresso/2023/01/18/Como-a-desnutri%C3%A7%C3%A3o-afeta-o-desenvolvimento-dos-beb%C3%AAs)
+- [A militarização e a desdemocratização do ensino público](https://www.nexojornal.com.br/academico/2023/01/18/A-militariza%C3%A7%C3%A3o-e-a-desdemocratiza%C3%A7%C3%A3o-do-ensino-p%C3%BAblico)
+- [‘Nexo’ começa a republicar conteúdo do Lunetas e de &lpar;&lpar;o&rpar;&rpar;eco](https://www.nexojornal.com.br/expresso/2023/01/18/%E2%80%98Nexo%E2%80%99-come%C3%A7a-a-republicar-conte%C3%BAdo-do-Lunetas-e-de-oeco)
+- [Por que Lula não fez reforma tributária antes. E o que esperar](https://www.nexojornal.com.br/expresso/2023/01/18/Por-que-Lula-n%C3%A3o-fez-reforma-tribut%C3%A1ria-antes.-E-o-que-esperar)
+- [Crise nas big techs: Microsoft demite 10 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/18/Crise-nas-big-techs-Microsoft-demite-10-mil-funcion%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
