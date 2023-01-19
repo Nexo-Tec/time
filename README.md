@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Qual é o seu maior medo?](https://gamarevista.uol.com.br/pessoas/qual-e-o-seu-maior-medo/)
-- [@emmaziadarcy](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/emmaziadarcy/)
-- [Slam, poesia e um tempo de urgências](https://gamarevista.uol.com.br/artigo/nos-corre-da-poesia-a-esperanca-na-guilhermina/)
-- [Alexandre Coimbra Amaral: “O Ano Novo acontece com ações que operamos sobre a vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/alexandre-coimbra-amaral-fala-sobre-mudanca-de-vida/)
-- [O silêncio dos pássaros](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/o-silenciamento-dos-passaros/)
+- [A obra de Tim Burton no CCBB de SP e do RJ](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-obra-de-tim-burton-no-ccbb-de-sp-e-do-rj/)
+- [Maria Gadú no CCSP, de graça](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/maria-gadu-no-ccsp-de-graca/)
+- [“Nordestern: Bangue-bangue à brasileira”, na Cinemateca](https://gamarevista.uol.com.br/achamos-que-vale/ir/nordestern-bangue-bangue-a-brasileira-na-cinemateca/)
+- [A história do “bad boy” do xadrez, com fama de trapaceiro](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-historia-do-bad-boy-do-xadrez-com-fama-de-trapaceiro/)
+- [“The Last of Us”, nova série distópica da HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-last-of-us-nova-serie-distopica-da-hbo-max/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
