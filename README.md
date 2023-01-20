@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE investiga Bolsonaro por abuso de poder nas eleições](https://www.nexojornal.com.br/extra/2023/01/19/TSE-investiga-Bolsonaro-por-abuso-de-poder-nas-elei%C3%A7%C3%B5es)
-- [Como funciona o cartão corporativo da Presidência](https://www.nexojornal.com.br/expresso/2023/01/19/Como-funciona-o-cart%C3%A3o-corporativo-da-Presid%C3%AAncia)
-- [O governo neozelandês de Jacinda Ardern em 5 momentos](https://www.nexojornal.com.br/expresso/2023/01/19/O-governo-neozeland%C3%AAs-de-Jacinda-Ardern-em-5-momentos)
-- [Tirem as crianças da sala! Como vamos explicar o que ocorreu](https://www.nexojornal.com.br/colunistas/2023/Tirem-as-crian%C3%A7as-da-sala-Como-vamos-explicar-o-que-ocorreu)
-- [Como reverter o cenário de ataques aos povos isolados](https://www.nexojornal.com.br/expresso/2023/01/19/Como-reverter-o-cen%C3%A1rio-de-ataques-aos-povos-isolados)
+- [Rapper é acusado de receber drogas em tribunal](https://www.nexojornal.com.br/extra/2023/01/20/Rapper-%C3%A9-acusado-de-receber-drogas-em-tribunal)
+- [Os militares sob desconfiança. As ações contra radicais. E mais](https://www.nexojornal.com.br/video/extrato/Os-militares-sob-desconfian%C3%A7a.-As-a%C3%A7%C3%B5es-contra-radicais.-E-mais)
+- [Ibaneis Rocha é alvo de busca e apreensão da Polícia Federal](https://www.nexojornal.com.br/extra/2023/01/20/Ibaneis-Rocha-%C3%A9-alvo-de-busca-e-apreens%C3%A3o-da-Pol%C3%ADcia-Federal)
+- [A oposição bolsonarista após o 8 de janeiro](https://www.nexojornal.com.br/ensaio/debate/2023/A-oposi%C3%A7%C3%A3o-bolsonarista-ap%C3%B3s-o-8-de-janeiro)
+- [Músico Sérgio Abreu, um dos maiores nomes do violão, morre aos 74](https://www.nexojornal.com.br/extra/2023/01/20/M%C3%BAsico-S%C3%A9rgio-Abreu-um-dos-maiores-nomes-do-viol%C3%A3o-morre-aos-74)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
