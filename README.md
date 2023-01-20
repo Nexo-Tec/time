@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE investiga Bolsonaro por abuso de poder nas eleições](https://www.nexojornal.com.br/extra/2023/01/19/TSE-investiga-Bolsonaro-por-abuso-de-poder-nas-elei%C3%A7%C3%B5es)
-- [Como funciona o cartão corporativo da Presidência](https://www.nexojornal.com.br/expresso/2023/01/19/Como-funciona-o-cart%C3%A3o-corporativo-da-Presid%C3%AAncia)
-- [O governo neozelandês de Jacinda Ardern em 5 momentos](https://www.nexojornal.com.br/expresso/2023/01/19/O-governo-neozeland%C3%AAs-de-Jacinda-Ardern-em-5-momentos)
-- [Tirem as crianças da sala! Como vamos explicar o que ocorreu](https://www.nexojornal.com.br/colunistas/2023/Tirem-as-crian%C3%A7as-da-sala-Como-vamos-explicar-o-que-ocorreu)
-- [Como reverter o cenário de ataques aos povos isolados](https://www.nexojornal.com.br/expresso/2023/01/19/Como-reverter-o-cen%C3%A1rio-de-ataques-aos-povos-isolados)
+- [Alec Baldwin e armeira serão julgados por morte de diretora](https://www.nexojornal.com.br/extra/2023/01/19/Alec-Baldwin-e-armeira-ser%C3%A3o-julgados-por-morte-de-diretora)
+- [Assessor de deputado do PL é preso suspeito de financiar atos](https://www.nexojornal.com.br/extra/2023/01/19/Assessor-de-deputado-do-PL-%C3%A9-preso-suspeito-de-financiar-atos)
+- [Justiça aceita pedido de recuperação judicial da Americanas](https://www.nexojornal.com.br/extra/2023/01/19/Justi%C3%A7a-aceita-pedido-de-recupera%C3%A7%C3%A3o-judicial-da-Americanas)
+- [‘O evangélico viu sua importância na dinâmica política’](https://www.nexojornal.com.br/entrevista/2023/01/19/%E2%80%98O-evang%C3%A9lico-viu-sua-import%C3%A2ncia-na-din%C3%A2mica-pol%C3%ADtica%E2%80%99)
+- [Desemprego cai para 8,1% e é o menor desde o começo de 2015](https://www.nexojornal.com.br/extra/2023/01/19/Desemprego-cai-para-81-e-%C3%A9-o-menor-desde-o-come%C3%A7o-de-2015)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
