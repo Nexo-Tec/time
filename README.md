@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alec Baldwin e armeira serão julgados por morte de diretora](https://www.nexojornal.com.br/extra/2023/01/19/Alec-Baldwin-e-armeira-ser%C3%A3o-julgados-por-morte-de-diretora)
-- [Assessor de deputado do PL é preso suspeito de financiar atos](https://www.nexojornal.com.br/extra/2023/01/19/Assessor-de-deputado-do-PL-%C3%A9-preso-suspeito-de-financiar-atos)
-- [Justiça aceita pedido de recuperação judicial da Americanas](https://www.nexojornal.com.br/extra/2023/01/19/Justi%C3%A7a-aceita-pedido-de-recupera%C3%A7%C3%A3o-judicial-da-Americanas)
-- [‘O evangélico viu sua importância na dinâmica política’](https://www.nexojornal.com.br/entrevista/2023/01/19/%E2%80%98O-evang%C3%A9lico-viu-sua-import%C3%A2ncia-na-din%C3%A2mica-pol%C3%ADtica%E2%80%99)
-- [Desemprego cai para 8,1% e é o menor desde o começo de 2015](https://www.nexojornal.com.br/extra/2023/01/19/Desemprego-cai-para-81-e-%C3%A9-o-menor-desde-o-come%C3%A7o-de-2015)
+- [‘Nexo’ participa de exposição sobre o futuro das profissões](https://www.nexojornal.com.br/expresso/2023/01/20/%E2%80%98Nexo%E2%80%99-participa-de-exposi%C3%A7%C3%A3o-sobre-o-futuro-das-profiss%C3%B5es)
+- [‘Voto evangélico é o pior termo possível para se usar’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Voto-evang%C3%A9lico-%C3%A9-o-pior-termo-poss%C3%ADvel-para-se-usar%E2%80%99)
+- [Daniel Alves é detido na Espanha por agressão sexual](https://www.nexojornal.com.br/extra/2023/01/20/Daniel-Alves-%C3%A9-detido-na-Espanha-por-agress%C3%A3o-sexual)
+- [Google anuncia que vai demitir 12 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/20/Google-anuncia-que-vai-demitir-12-mil-funcion%C3%A1rios)
+- [Polícia faz operação para identificar e prender golpistas](https://www.nexojornal.com.br/extra/2023/01/20/Pol%C3%ADcia-faz-opera%C3%A7%C3%A3o-para-identificar-e-prender-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
