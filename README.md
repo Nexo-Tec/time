@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Nexo’ participa de exposição sobre o futuro das profissões](https://www.nexojornal.com.br/expresso/2023/01/20/%E2%80%98Nexo%E2%80%99-participa-de-exposi%C3%A7%C3%A3o-sobre-o-futuro-das-profiss%C3%B5es)
-- [‘Voto evangélico é o pior termo possível para se usar’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Voto-evang%C3%A9lico-%C3%A9-o-pior-termo-poss%C3%ADvel-para-se-usar%E2%80%99)
-- [Daniel Alves é detido na Espanha por agressão sexual](https://www.nexojornal.com.br/extra/2023/01/20/Daniel-Alves-%C3%A9-detido-na-Espanha-por-agress%C3%A3o-sexual)
-- [Google anuncia que vai demitir 12 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/20/Google-anuncia-que-vai-demitir-12-mil-funcion%C3%A1rios)
-- [Polícia faz operação para identificar e prender golpistas](https://www.nexojornal.com.br/extra/2023/01/20/Pol%C3%ADcia-faz-opera%C3%A7%C3%A3o-para-identificar-e-prender-golpistas)
+- [TSE investiga Bolsonaro por abuso de poder nas eleições](https://www.nexojornal.com.br/extra/2023/01/19/TSE-investiga-Bolsonaro-por-abuso-de-poder-nas-elei%C3%A7%C3%B5es)
+- [Como funciona o cartão corporativo da Presidência](https://www.nexojornal.com.br/expresso/2023/01/19/Como-funciona-o-cart%C3%A3o-corporativo-da-Presid%C3%AAncia)
+- [O governo neozelandês de Jacinda Ardern em 5 momentos](https://www.nexojornal.com.br/expresso/2023/01/19/O-governo-neozeland%C3%AAs-de-Jacinda-Ardern-em-5-momentos)
+- [Tirem as crianças da sala! Como vamos explicar o que ocorreu](https://www.nexojornal.com.br/colunistas/2023/Tirem-as-crian%C3%A7as-da-sala-Como-vamos-explicar-o-que-ocorreu)
+- [Como reverter o cenário de ataques aos povos isolados](https://www.nexojornal.com.br/expresso/2023/01/19/Como-reverter-o-cen%C3%A1rio-de-ataques-aos-povos-isolados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
