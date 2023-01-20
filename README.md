@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alec Baldwin e armeira serão julgados por morte de diretora](https://www.nexojornal.com.br/extra/2023/01/19/Alec-Baldwin-e-armeira-ser%C3%A3o-julgados-por-morte-de-diretora)
-- [Assessor de deputado do PL é preso suspeito de financiar atos](https://www.nexojornal.com.br/extra/2023/01/19/Assessor-de-deputado-do-PL-%C3%A9-preso-suspeito-de-financiar-atos)
-- [Justiça aceita pedido de recuperação judicial da Americanas](https://www.nexojornal.com.br/extra/2023/01/19/Justi%C3%A7a-aceita-pedido-de-recupera%C3%A7%C3%A3o-judicial-da-Americanas)
-- [‘O evangélico viu sua importância na dinâmica política’](https://www.nexojornal.com.br/entrevista/2023/01/19/%E2%80%98O-evang%C3%A9lico-viu-sua-import%C3%A2ncia-na-din%C3%A2mica-pol%C3%ADtica%E2%80%99)
-- [Desemprego cai para 8,1% e é o menor desde o começo de 2015](https://www.nexojornal.com.br/extra/2023/01/19/Desemprego-cai-para-81-e-%C3%A9-o-menor-desde-o-come%C3%A7o-de-2015)
+- [Como a desnutrição afeta o desenvolvimento dos bebês](https://www.nexojornal.com.br/expresso/2023/01/18/Como-a-desnutri%C3%A7%C3%A3o-afeta-o-desenvolvimento-dos-beb%C3%AAs)
+- [A militarização e a desdemocratização do ensino público](https://www.nexojornal.com.br/academico/2023/01/18/A-militariza%C3%A7%C3%A3o-e-a-desdemocratiza%C3%A7%C3%A3o-do-ensino-p%C3%BAblico)
+- [‘Nexo’ começa a republicar conteúdo do Lunetas e de &lpar;&lpar;o&rpar;&rpar;eco](https://www.nexojornal.com.br/expresso/2023/01/18/%E2%80%98Nexo%E2%80%99-come%C3%A7a-a-republicar-conte%C3%BAdo-do-Lunetas-e-de-oeco)
+- [Por que Lula não fez reforma tributária antes. E o que esperar](https://www.nexojornal.com.br/expresso/2023/01/18/Por-que-Lula-n%C3%A3o-fez-reforma-tribut%C3%A1ria-antes.-E-o-que-esperar)
+- [Crise nas big techs: Microsoft demite 10 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/18/Crise-nas-big-techs-Microsoft-demite-10-mil-funcion%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
