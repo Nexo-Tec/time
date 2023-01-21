@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comandante do Exército é demitido por Lula](https://www.nexojornal.com.br/extra/2023/01/21/Comandante-do-Ex%C3%A9rcito-%C3%A9-demitido-por-Lula)
-- [Ministério decreta emergência de saúde em terra Yanomami](https://www.nexojornal.com.br/extra/2023/01/21/Minist%C3%A9rio-decreta-emerg%C3%AAncia-de-sa%C3%BAde-em-terra-Yanomami)
 - [‘Pandora’: os animais que habitam nossa mente](https://www.nexojornal.com.br/estante/trechos/2023/01/20/%E2%80%98Pandora%E2%80%99-os-animais-que-habitam-nossa-mente)
 - [Como anda o ensino de história afro-brasileira nas escolas](https://www.nexojornal.com.br/externo/2023/01/20/Como-anda-o-ensino-de-hist%C3%B3ria-afro-brasileira-nas-escolas)
 - [Quais os desafios para as novas presidências da Capes e do CNPq](https://www.nexojornal.com.br/expresso/2023/01/20/Quais-os-desafios-para-as-novas-presid%C3%AAncias-da-Capes-e-do-CNPq)
+- [‘Governos do PT erraram muito em relação aos cristãos’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Governos-do-PT-erraram-muito-em-rela%C3%A7%C3%A3o-aos-crist%C3%A3os%E2%80%99)
+- [Covid: Moderna pede à Anvisa registro de vacina bivalente](https://www.nexojornal.com.br/extra/2023/01/20/Covid-Moderna-pede-%C3%A0-Anvisa-registro-de-vacina-bivalente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
