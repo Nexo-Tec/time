@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rapper é acusado de receber drogas em tribunal](https://www.nexojornal.com.br/extra/2023/01/20/Rapper-%C3%A9-acusado-de-receber-drogas-em-tribunal)
-- [Os militares sob desconfiança. As ações contra radicais. E mais](https://www.nexojornal.com.br/video/extrato/Os-militares-sob-desconfian%C3%A7a.-As-a%C3%A7%C3%B5es-contra-radicais.-E-mais)
-- [Ibaneis Rocha é alvo de busca e apreensão da Polícia Federal](https://www.nexojornal.com.br/extra/2023/01/20/Ibaneis-Rocha-%C3%A9-alvo-de-busca-e-apreens%C3%A3o-da-Pol%C3%ADcia-Federal)
-- [A oposição bolsonarista após o 8 de janeiro](https://www.nexojornal.com.br/ensaio/debate/2023/A-oposi%C3%A7%C3%A3o-bolsonarista-ap%C3%B3s-o-8-de-janeiro)
-- [Músico Sérgio Abreu, um dos maiores nomes do violão, morre aos 74](https://www.nexojornal.com.br/extra/2023/01/20/M%C3%BAsico-S%C3%A9rgio-Abreu-um-dos-maiores-nomes-do-viol%C3%A3o-morre-aos-74)
+- [‘Nexo’ participa de exposição sobre o futuro das profissões](https://www.nexojornal.com.br/expresso/2023/01/20/%E2%80%98Nexo%E2%80%99-participa-de-exposi%C3%A7%C3%A3o-sobre-o-futuro-das-profiss%C3%B5es)
+- [‘Voto evangélico é o pior termo possível para se usar’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Voto-evang%C3%A9lico-%C3%A9-o-pior-termo-poss%C3%ADvel-para-se-usar%E2%80%99)
+- [Daniel Alves é detido na Espanha por agressão sexual](https://www.nexojornal.com.br/extra/2023/01/20/Daniel-Alves-%C3%A9-detido-na-Espanha-por-agress%C3%A3o-sexual)
+- [Google anuncia que vai demitir 12 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/20/Google-anuncia-que-vai-demitir-12-mil-funcion%C3%A1rios)
+- [Polícia faz operação para identificar e prender golpistas](https://www.nexojornal.com.br/extra/2023/01/20/Pol%C3%ADcia-faz-opera%C3%A7%C3%A3o-para-identificar-e-prender-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
