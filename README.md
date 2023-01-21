@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Nexo’ participa de exposição sobre o futuro das profissões](https://www.nexojornal.com.br/expresso/2023/01/20/%E2%80%98Nexo%E2%80%99-participa-de-exposi%C3%A7%C3%A3o-sobre-o-futuro-das-profiss%C3%B5es)
-- [‘Voto evangélico é o pior termo possível para se usar’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Voto-evang%C3%A9lico-%C3%A9-o-pior-termo-poss%C3%ADvel-para-se-usar%E2%80%99)
-- [Daniel Alves é detido na Espanha por agressão sexual](https://www.nexojornal.com.br/extra/2023/01/20/Daniel-Alves-%C3%A9-detido-na-Espanha-por-agress%C3%A3o-sexual)
-- [Google anuncia que vai demitir 12 mil funcionários](https://www.nexojornal.com.br/extra/2023/01/20/Google-anuncia-que-vai-demitir-12-mil-funcion%C3%A1rios)
-- [Polícia faz operação para identificar e prender golpistas](https://www.nexojornal.com.br/extra/2023/01/20/Pol%C3%ADcia-faz-opera%C3%A7%C3%A3o-para-identificar-e-prender-golpistas)
+- [‘Pandora’: os animais que habitam nossa mente](https://www.nexojornal.com.br/estante/trechos/2023/01/20/%E2%80%98Pandora%E2%80%99-os-animais-que-habitam-nossa-mente)
+- [Como anda o ensino de história afro-brasileira nas escolas](https://www.nexojornal.com.br/externo/2023/01/20/Como-anda-o-ensino-de-hist%C3%B3ria-afro-brasileira-nas-escolas)
+- [Quais os desafios para as novas presidências da Capes e do CNPq](https://www.nexojornal.com.br/expresso/2023/01/20/Quais-os-desafios-para-as-novas-presid%C3%AAncias-da-Capes-e-do-CNPq)
+- [‘Governos do PT erraram muito em relação aos cristãos’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Governos-do-PT-erraram-muito-em-rela%C3%A7%C3%A3o-aos-crist%C3%A3os%E2%80%99)
+- [Covid: Moderna pede à Anvisa registro de vacina bivalente](https://www.nexojornal.com.br/extra/2023/01/20/Covid-Moderna-pede-%C3%A0-Anvisa-registro-de-vacina-bivalente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
