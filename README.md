@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rapper é acusado de receber drogas em tribunal](https://www.nexojornal.com.br/extra/2023/01/20/Rapper-%C3%A9-acusado-de-receber-drogas-em-tribunal)
-- [Os militares sob desconfiança. As ações contra radicais. E mais](https://www.nexojornal.com.br/video/extrato/Os-militares-sob-desconfian%C3%A7a.-As-a%C3%A7%C3%B5es-contra-radicais.-E-mais)
-- [Ibaneis Rocha é alvo de busca e apreensão da Polícia Federal](https://www.nexojornal.com.br/extra/2023/01/20/Ibaneis-Rocha-%C3%A9-alvo-de-busca-e-apreens%C3%A3o-da-Pol%C3%ADcia-Federal)
-- [A oposição bolsonarista após o 8 de janeiro](https://www.nexojornal.com.br/ensaio/debate/2023/A-oposi%C3%A7%C3%A3o-bolsonarista-ap%C3%B3s-o-8-de-janeiro)
-- [Músico Sérgio Abreu, um dos maiores nomes do violão, morre aos 74](https://www.nexojornal.com.br/extra/2023/01/20/M%C3%BAsico-S%C3%A9rgio-Abreu-um-dos-maiores-nomes-do-viol%C3%A3o-morre-aos-74)
+- [‘Pandora’: os animais que habitam nossa mente](https://www.nexojornal.com.br/estante/trechos/2023/01/20/%E2%80%98Pandora%E2%80%99-os-animais-que-habitam-nossa-mente)
+- [Como anda o ensino de história afro-brasileira nas escolas](https://www.nexojornal.com.br/externo/2023/01/20/Como-anda-o-ensino-de-hist%C3%B3ria-afro-brasileira-nas-escolas)
+- [Quais os desafios para as novas presidências da Capes e do CNPq](https://www.nexojornal.com.br/expresso/2023/01/20/Quais-os-desafios-para-as-novas-presid%C3%AAncias-da-Capes-e-do-CNPq)
+- [‘Governos do PT erraram muito em relação aos cristãos’](https://www.nexojornal.com.br/entrevista/2023/01/20/%E2%80%98Governos-do-PT-erraram-muito-em-rela%C3%A7%C3%A3o-aos-crist%C3%A3os%E2%80%99)
+- [Covid: Moderna pede à Anvisa registro de vacina bivalente](https://www.nexojornal.com.br/extra/2023/01/20/Covid-Moderna-pede-%C3%A0-Anvisa-registro-de-vacina-bivalente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
