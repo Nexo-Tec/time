@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comandante do Exército é demitido por Lula](https://www.nexojornal.com.br/extra/2023/01/21/Comandante-do-Ex%C3%A9rcito-%C3%A9-demitido-por-Lula)
-- [Ministério decreta emergência de saúde em terra Yanomami](https://www.nexojornal.com.br/extra/2023/01/21/Minist%C3%A9rio-decreta-emerg%C3%AAncia-de-sa%C3%BAde-em-terra-Yanomami)
-- [‘Pandora’: os animais que habitam nossa mente](https://www.nexojornal.com.br/estante/trechos/2023/01/20/%E2%80%98Pandora%E2%80%99-os-animais-que-habitam-nossa-mente)
-- [Como anda o ensino de história afro-brasileira nas escolas](https://www.nexojornal.com.br/externo/2023/01/20/Como-anda-o-ensino-de-hist%C3%B3ria-afro-brasileira-nas-escolas)
-- [Quais os desafios para as novas presidências da Capes e do CNPq](https://www.nexojornal.com.br/expresso/2023/01/20/Quais-os-desafios-para-as-novas-presid%C3%AAncias-da-Capes-e-do-CNPq)
+- [Ilha dos gatos: a vila no Japão que tem mais felinos que pessoas](https://www.nexojornal.com.br/expresso/2023/01/22/Ilha-dos-gatos-a-vila-no-Jap%C3%A3o-que-tem-mais-felinos-que-pessoas)
+- [5 livros sobre o racismo científico na história da medicina](https://www.nexojornal.com.br/estante/favoritos/2023/01/22/5-livros-sobre-o-racismo-cient%C3%ADfico-na-hist%C3%B3ria-da-medicina)
+- [O que dizem os primeiros mapas detalhados de Marte](https://www.nexojornal.com.br/expresso/2023/01/22/O-que-dizem-os-primeiros-mapas-detalhados-de-Marte)
+- [A retomada de relações entre Brasil e Venezuela](https://www.nexojornal.com.br/expresso/2023/01/22/A-retomada-de-rela%C3%A7%C3%B5es-entre-Brasil-e-Venezuela)
+- [Como buscar o consenso mínimo sobre os fatos](https://www.nexojornal.com.br/ensaio/2023/01/22/Como-buscar-o-consenso-m%C3%ADnimo-sobre-os-fatos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
