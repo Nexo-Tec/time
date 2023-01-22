@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tiroteio deixa 10 mortos em festa do Ano Novo Lunar nos EUA](https://www.nexojornal.com.br/extra/2023/01/22/Tiroteio-deixa-10-mortos-em-festa-do-Ano-Novo-Lunar-nos-EUA)
 - [Ilha dos gatos: a vila no Japão que tem mais felinos que pessoas](https://www.nexojornal.com.br/expresso/2023/01/22/Ilha-dos-gatos-a-vila-no-Jap%C3%A3o-que-tem-mais-felinos-que-pessoas)
 - [5 livros sobre o racismo científico na história da medicina](https://www.nexojornal.com.br/estante/favoritos/2023/01/22/5-livros-sobre-o-racismo-cient%C3%ADfico-na-hist%C3%B3ria-da-medicina)
 - [O que dizem os primeiros mapas detalhados de Marte](https://www.nexojornal.com.br/expresso/2023/01/22/O-que-dizem-os-primeiros-mapas-detalhados-de-Marte)
 - [A retomada de relações entre Brasil e Venezuela](https://www.nexojornal.com.br/expresso/2023/01/22/A-retomada-de-rela%C3%A7%C3%B5es-entre-Brasil-e-Venezuela)
-- [Como buscar o consenso mínimo sobre os fatos](https://www.nexojornal.com.br/ensaio/2023/01/22/Como-buscar-o-consenso-m%C3%ADnimo-sobre-os-fatos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
