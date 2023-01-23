@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Revogações na Amazônia não bastam, dizem ambientalistas](https://www.nexojornal.com.br/externo/2023/01/22/Revoga%C3%A7%C3%B5es-na-Amaz%C3%B4nia-n%C3%A3o-bastam-dizem-ambientalistas)
-- [Será que vai chover? Por que governos repetem erros](https://www.nexojornal.com.br/ensaio/2023/01/22/Ser%C3%A1-que-vai-chover-Por-que-governos-repetem-erros)
-- [‘O tema da família foi capturado pela extrema direita’](https://www.nexojornal.com.br/entrevista/2023/01/22/%E2%80%98O-tema-da-fam%C3%ADlia-foi-capturado-pela-extrema-direita%E2%80%99)
-- [A elegibilidade de Bolsonaro como foco de atenção sobre o TSE](https://www.nexojornal.com.br/expresso/2023/01/22/A-elegibilidade-de-Bolsonaro-como-foco-de-aten%C3%A7%C3%A3o-sobre-o-TSE)
-- [Lula e Fernández querem moeda comum para a América do Sul](https://www.nexojornal.com.br/extra/2023/01/22/Lula-e-Fern%C3%A1ndez-querem-moeda-comum-para-a-Am%C3%A9rica-do-Sul)
+- [Tiroteio deixa 10 mortos em festa do Ano Novo Lunar nos EUA](https://www.nexojornal.com.br/extra/2023/01/22/Tiroteio-deixa-10-mortos-em-festa-do-Ano-Novo-Lunar-nos-EUA)
+- [Ilha dos gatos: a vila no Japão que tem mais felinos que pessoas](https://www.nexojornal.com.br/expresso/2023/01/22/Ilha-dos-gatos-a-vila-no-Jap%C3%A3o-que-tem-mais-felinos-que-pessoas)
+- [5 livros sobre o racismo científico na história da medicina](https://www.nexojornal.com.br/estante/favoritos/2023/01/22/5-livros-sobre-o-racismo-cient%C3%ADfico-na-hist%C3%B3ria-da-medicina)
+- [O que dizem os primeiros mapas detalhados de Marte](https://www.nexojornal.com.br/expresso/2023/01/22/O-que-dizem-os-primeiros-mapas-detalhados-de-Marte)
+- [A retomada de relações entre Brasil e Venezuela](https://www.nexojornal.com.br/expresso/2023/01/22/A-retomada-de-rela%C3%A7%C3%B5es-entre-Brasil-e-Venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
