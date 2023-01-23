@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes abre mais 6 inquéritos para apurar invasão golpista](https://www.nexojornal.com.br/extra/2023/01/23/Moraes-abre-mais-6-inqu%C3%A9ritos-para-apurar-invas%C3%A3o-golpista)
-- [Lula demite mais 6 militares de gabinetes em Brasília](https://www.nexojornal.com.br/extra/2023/01/23/Lula-demite-mais-6-militares-de-gabinetes-em-Bras%C3%ADlia)
-- [Spotify anuncia demissão de 6% de seus funcionários](https://www.nexojornal.com.br/extra/2023/01/23/Spotify-anuncia-demiss%C3%A3o-de-6-de-seus-funcion%C3%A1rios)
-- [Acionistas majoritários da Americanas se pronunciam pela 1ª vez](https://www.nexojornal.com.br/extra/2023/01/23/Acionistas-majorit%C3%A1rios-da-Americanas-se-pronunciam-pela-1%C2%AA-vez)
-- [Reunião entre Lula e Nicolás Maduro na Argentina é cancelada](https://www.nexojornal.com.br/extra/2023/01/23/Reuni%C3%A3o-entre-Lula-e-Nicol%C3%A1s-Maduro-na-Argentina-%C3%A9-cancelada)
+- [Tiroteio deixa 10 mortos em festa do Ano Novo Lunar nos EUA](https://www.nexojornal.com.br/extra/2023/01/22/Tiroteio-deixa-10-mortos-em-festa-do-Ano-Novo-Lunar-nos-EUA)
+- [Ilha dos gatos: a vila no Japão que tem mais felinos que pessoas](https://www.nexojornal.com.br/expresso/2023/01/22/Ilha-dos-gatos-a-vila-no-Jap%C3%A3o-que-tem-mais-felinos-que-pessoas)
+- [5 livros sobre o racismo científico na história da medicina](https://www.nexojornal.com.br/estante/favoritos/2023/01/22/5-livros-sobre-o-racismo-cient%C3%ADfico-na-hist%C3%B3ria-da-medicina)
+- [O que dizem os primeiros mapas detalhados de Marte](https://www.nexojornal.com.br/expresso/2023/01/22/O-que-dizem-os-primeiros-mapas-detalhados-de-Marte)
+- [A retomada de relações entre Brasil e Venezuela](https://www.nexojornal.com.br/expresso/2023/01/22/A-retomada-de-rela%C3%A7%C3%B5es-entre-Brasil-e-Venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
