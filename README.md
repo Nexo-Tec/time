@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Essa tal liberdade](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/essa-tal-liberdade/)
 - [Flavia Rios: “Grupos chamados de identitários estão lutando pela própria vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/flavia-rios-fala-da-luta-de-grupos-identitarios/)
 - [Perto do Coração Selvagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/perto-do-coracao-selvagem/)
 - [A obra de Tim Burton no CCBB de SP e do RJ](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-obra-de-tim-burton-no-ccbb-de-sp-e-do-rj/)
 - [Maria Gadú no CCSP, de graça](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/maria-gadu-no-ccsp-de-graca/)
-- [“Nordestern: Bangue-bangue à brasileira”, na Cinemateca](https://gamarevista.uol.com.br/achamos-que-vale/ir/nordestern-bangue-bangue-a-brasileira-na-cinemateca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
