@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Resolver problemas complexos requer qualificar o debate’](https://www.nexojornal.com.br/entrevista/2023/01/23/%E2%80%98Resolver-problemas-complexos-requer-qualificar-o-debate%E2%80%99)
-- [As dificuldades de viabilizar uma moeda comum no Mercosul](https://www.nexojornal.com.br/expresso/2023/01/23/As-dificuldades-de-viabilizar-uma-moeda-comum-no-Mercosul)
-- [Defesa entrega celular de Ibaneis Rocha para Polícia Federal](https://www.nexojornal.com.br/extra/2023/01/23/Defesa-entrega-celular-de-Ibaneis-Rocha-para-Pol%C3%ADcia-Federal)
-- [Daniel Alves é transferido de presídio por segurança](https://www.nexojornal.com.br/extra/2023/01/23/Daniel-Alves-%C3%A9-transferido-de-pres%C3%ADdio-por-seguran%C3%A7a)
-- [Moraes abre mais 6 inquéritos para apurar invasão golpista](https://www.nexojornal.com.br/extra/2023/01/23/Moraes-abre-mais-6-inqu%C3%A9ritos-para-apurar-invas%C3%A3o-golpista)
+- [Revogações na Amazônia não bastam, dizem ambientalistas](https://www.nexojornal.com.br/externo/2023/01/22/Revoga%C3%A7%C3%B5es-na-Amaz%C3%B4nia-n%C3%A3o-bastam-dizem-ambientalistas)
+- [Será que vai chover? Por que governos repetem erros](https://www.nexojornal.com.br/ensaio/2023/01/22/Ser%C3%A1-que-vai-chover-Por-que-governos-repetem-erros)
+- [‘O tema da família foi capturado pela extrema direita’](https://www.nexojornal.com.br/entrevista/2023/01/22/%E2%80%98O-tema-da-fam%C3%ADlia-foi-capturado-pela-extrema-direita%E2%80%99)
+- [A elegibilidade de Bolsonaro como foco de atenção sobre o TSE](https://www.nexojornal.com.br/expresso/2023/01/22/A-elegibilidade-de-Bolsonaro-como-foco-de-aten%C3%A7%C3%A3o-sobre-o-TSE)
+- [Lula e Fernández querem moeda comum para a América do Sul](https://www.nexojornal.com.br/extra/2023/01/22/Lula-e-Fern%C3%A1ndez-querem-moeda-comum-para-a-Am%C3%A9rica-do-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
