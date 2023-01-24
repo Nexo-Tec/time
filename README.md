@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Isabelle Nassar](https://gamarevista.uol.com.br/pessoas/questionario-proust/isabelle-nassar/)
 - [A morte como direito humano](https://gamarevista.uol.com.br/colunistas/marcello-dantas/a-morte-como-direito-humano/)
 - [@gleesonpaulino](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gleesonpaulino/)
 - [A queda do céu](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-queda-do-ceu/)
 - [Essa tal liberdade](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/essa-tal-liberdade/)
-- [Flavia Rios: “Grupos chamados de identitários estão lutando pela própria vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/flavia-rios-fala-da-luta-de-grupos-identitarios/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
