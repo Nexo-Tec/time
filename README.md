@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Resolver problemas complexos requer qualificar o debate’](https://www.nexojornal.com.br/entrevista/2023/01/23/%E2%80%98Resolver-problemas-complexos-requer-qualificar-o-debate%E2%80%99)
-- [As dificuldades de viabilizar uma moeda comum no Mercosul](https://www.nexojornal.com.br/expresso/2023/01/23/As-dificuldades-de-viabilizar-uma-moeda-comum-no-Mercosul)
-- [Defesa entrega celular de Ibaneis Rocha para Polícia Federal](https://www.nexojornal.com.br/extra/2023/01/23/Defesa-entrega-celular-de-Ibaneis-Rocha-para-Pol%C3%ADcia-Federal)
-- [Daniel Alves é transferido de presídio por segurança](https://www.nexojornal.com.br/extra/2023/01/23/Daniel-Alves-%C3%A9-transferido-de-pres%C3%ADdio-por-seguran%C3%A7a)
-- [Moraes abre mais 6 inquéritos para apurar invasão golpista](https://www.nexojornal.com.br/extra/2023/01/23/Moraes-abre-mais-6-inqu%C3%A9ritos-para-apurar-invas%C3%A3o-golpista)
+- [Vale, Tüv Süd e 16 pessoas viram rés por desastre em Brumadinho](https://www.nexojornal.com.br/extra/2023/01/24/Vale-T%C3%BCv-S%C3%BCd-e-16-pessoas-viram-r%C3%A9s-por-desastre-em-Brumadinho)
+- [Petrobras aumenta preço da gasolina para distribuidoras](https://www.nexojornal.com.br/extra/2023/01/24/Petrobras-aumenta-pre%C3%A7o-da-gasolina-para-distribuidoras)
+- [Uma exposição sobre o papel da periferia na identidade paulistana](https://www.nexojornal.com.br/expresso/2023/01/24/Uma-exposi%C3%A7%C3%A3o-sobre-o-papel-da-periferia-na-identidade-paulistana)
+- [Governo troca número 2 do Gabinete de Segurança Institucional](https://www.nexojornal.com.br/extra/2023/01/24/Governo-troca-n%C3%BAmero-2-do-Gabinete-de-Seguran%C3%A7a-Institucional)
+- [Veja a lista de indicados para o Oscar 2023](https://www.nexojornal.com.br/extra/2023/01/24/Veja-a-lista-de-indicados-para-o-Oscar-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
