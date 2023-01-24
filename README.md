@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Recalculando rotas políticas](https://pp.nexojornal.com.br/opiniao/2023/Recalculando-rotas-pol%C3%ADticas)
 - [Câmeras nos uniformes policiais: investimento político, ganhos sociais e jurídicos](https://pp.nexojornal.com.br/opiniao/2023/C%C3%A2meras-nos-uniformes-policiais-investimento-pol%C3%ADtico-ganhos-sociais-e-jur%C3%ADdicos)
 - [O extremismo quer hackear a legalidade](https://pp.nexojornal.com.br/opiniao/2023/O-extremismo-quer-hackear-a-legalidade)
 - [Qualidade na educação infantil brasileira](https://pp.nexojornal.com.br/bibliografia-basica/2023/01/02/Qualidade-na-educa%C3%A7%C3%A3o-infantil-brasileira)
 - [Ideias, instituições e interesses dos atores na moldagem das políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Ideias-institui%C3%A7%C3%B5es-e-interesses-dos-atores-na-moldagem-das-pol%C3%ADticas-p%C3%BAblicas)
+- [O ano eleitoral das mulheres negras? Avanços tímidos e desigualdades duráveis nas eleições de 2022](https://pp.nexojornal.com.br/opiniao/2022/O-ano-eleitoral-das-mulheres-negras-Avan%C3%A7os-t%C3%ADmidos-e-desigualdades-dur%C3%A1veis-nas-elei%C3%A7%C3%B5es-de-2022)
 <!-- PP_LIST:END -->
 
