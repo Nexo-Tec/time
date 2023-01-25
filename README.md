@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As reivindicações para os Yanomami. E as ações do governo](https://www.nexojornal.com.br/expresso/2023/01/24/As-reivindica%C3%A7%C3%B5es-para-os-Yanomami.-E-as-a%C3%A7%C3%B5es-do-governo)
-- [Yanomami: uma crise humanitária que se agravou sob Bolsonaro](https://www.nexojornal.com.br/podcast/2023/01/23/Yanomami-uma-crise-humanit%C3%A1ria-que-se-agravou-sob-Bolsonaro)
-- [O desamparo judicial à família de uma vítima do Exército no Rio](https://www.nexojornal.com.br/externo/2023/01/23/O-desamparo-judicial-%C3%A0-fam%C3%ADlia-de-uma-v%C3%ADtima-do-Ex%C3%A9rcito-no-Rio)
-- [Ações da Americanas caíram 91,5% desde o início do ano](https://www.nexojornal.com.br/grafico/2023/01/23/A%C3%A7%C3%B5es-da-Americanas-ca%C3%ADram-915-desde-o-in%C3%ADcio-do-ano)
-- [Caso Bruno e Dom: ‘Colômbia’ foi o mandante das mortes](https://www.nexojornal.com.br/extra/2023/01/23/Caso-Bruno-e-Dom-%E2%80%98Col%C3%B4mbia%E2%80%99-foi-o-mandante-das-mortes)
+- [A urgência do aumento da conectividade na Amazônia](https://www.nexojornal.com.br/colunistas/2023/A-urg%C3%AAncia-do-aumento-da-conectividade-na-Amaz%C3%B4nia)
+- [‘Proposta da prefeitura em Plano Diretor de São Paulo é tímida’](https://www.nexojornal.com.br/entrevista/2023/01/24/%E2%80%98Proposta-da-prefeitura-em-Plano-Diretor-de-S%C3%A3o-Paulo-%C3%A9-t%C3%ADmida%E2%80%99)
+- [Com mais de 12 milhões de habitantes, São Paulo completa 449 anos](https://www.nexojornal.com.br/grafico/2023/01/24/Com-mais-de-12-milh%C3%B5es-de-habitantes-S%C3%A3o-Paulo-completa-449-anos)
+- [Por que a maioria gostaria de deixar São Paulo se pudesse](https://www.nexojornal.com.br/expresso/2023/01/24/Por-que-a-maioria-gostaria-de-deixar-S%C3%A3o-Paulo-se-pudesse)
+- [Exército barra posse de ex-ajudante de ordens de Bolsonaro](https://www.nexojornal.com.br/extra/2023/01/24/Ex%C3%A9rcito-barra-posse-de-ex-ajudante-de-ordens-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
