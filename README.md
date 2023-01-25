@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vale, Tüv Süd e 16 pessoas viram rés por desastre em Brumadinho](https://www.nexojornal.com.br/extra/2023/01/24/Vale-T%C3%BCv-S%C3%BCd-e-16-pessoas-viram-r%C3%A9s-por-desastre-em-Brumadinho)
-- [Petrobras aumenta preço da gasolina para distribuidoras](https://www.nexojornal.com.br/extra/2023/01/24/Petrobras-aumenta-pre%C3%A7o-da-gasolina-para-distribuidoras)
-- [Uma exposição sobre o papel da periferia na identidade paulistana](https://www.nexojornal.com.br/expresso/2023/01/24/Uma-exposi%C3%A7%C3%A3o-sobre-o-papel-da-periferia-na-identidade-paulistana)
-- [Governo troca número 2 do Gabinete de Segurança Institucional](https://www.nexojornal.com.br/extra/2023/01/24/Governo-troca-n%C3%BAmero-2-do-Gabinete-de-Seguran%C3%A7a-Institucional)
-- [Veja a lista de indicados para o Oscar 2023](https://www.nexojornal.com.br/extra/2023/01/24/Veja-a-lista-de-indicados-para-o-Oscar-2023)
+- [A urgência do aumento da conectividade na Amazônia](https://www.nexojornal.com.br/colunistas/2023/A-urg%C3%AAncia-do-aumento-da-conectividade-na-Amaz%C3%B4nia)
+- [‘Proposta da prefeitura em Plano Diretor de São Paulo é tímida’](https://www.nexojornal.com.br/entrevista/2023/01/24/%E2%80%98Proposta-da-prefeitura-em-Plano-Diretor-de-S%C3%A3o-Paulo-%C3%A9-t%C3%ADmida%E2%80%99)
+- [Com mais de 12 milhões de habitantes, São Paulo completa 449 anos](https://www.nexojornal.com.br/grafico/2023/01/24/Com-mais-de-12-milh%C3%B5es-de-habitantes-S%C3%A3o-Paulo-completa-449-anos)
+- [Por que a maioria gostaria de deixar São Paulo se pudesse](https://www.nexojornal.com.br/expresso/2023/01/24/Por-que-a-maioria-gostaria-de-deixar-S%C3%A3o-Paulo-se-pudesse)
+- [Exército barra posse de ex-ajudante de ordens de Bolsonaro](https://www.nexojornal.com.br/extra/2023/01/24/Ex%C3%A9rcito-barra-posse-de-ex-ajudante-de-ordens-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
