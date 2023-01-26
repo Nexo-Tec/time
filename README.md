@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o garimpo foi expulso da terra Yanomami em 1992](https://www.nexojornal.com.br/expresso/2023/01/24/Como-o-garimpo-foi-expulso-da-terra-Yanomami-em-1992)
 - [A urgência do aumento da conectividade na Amazônia](https://www.nexojornal.com.br/colunistas/2023/A-urg%C3%AAncia-do-aumento-da-conectividade-na-Amaz%C3%B4nia)
 - [‘Proposta da prefeitura em Plano Diretor de São Paulo é tímida’](https://www.nexojornal.com.br/entrevista/2023/01/24/%E2%80%98Proposta-da-prefeitura-em-Plano-Diretor-de-S%C3%A3o-Paulo-%C3%A9-t%C3%ADmida%E2%80%99)
 - [Com mais de 12 milhões de habitantes, São Paulo completa 449 anos](https://www.nexojornal.com.br/grafico/2023/01/24/Com-mais-de-12-milh%C3%B5es-de-habitantes-S%C3%A3o-Paulo-completa-449-anos)
 - [Por que a maioria gostaria de deixar São Paulo se pudesse](https://www.nexojornal.com.br/expresso/2023/01/24/Por-que-a-maioria-gostaria-de-deixar-S%C3%A3o-Paulo-se-pudesse)
+- [Exército barra posse de ex-ajudante de ordens de Bolsonaro](https://www.nexojornal.com.br/extra/2023/01/24/Ex%C3%A9rcito-barra-posse-de-ex-ajudante-de-ordens-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
