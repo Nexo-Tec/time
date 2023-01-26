@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o garimpo foi expulso da terra Yanomami em 1992](https://www.nexojornal.com.br/expresso/2023/01/24/Como-o-garimpo-foi-expulso-da-terra-Yanomami-em-1992)
-- [A urgência do aumento da conectividade na Amazônia](https://www.nexojornal.com.br/colunistas/2023/A-urg%C3%AAncia-do-aumento-da-conectividade-na-Amaz%C3%B4nia)
-- [‘Proposta da prefeitura em Plano Diretor de São Paulo é tímida’](https://www.nexojornal.com.br/entrevista/2023/01/24/%E2%80%98Proposta-da-prefeitura-em-Plano-Diretor-de-S%C3%A3o-Paulo-%C3%A9-t%C3%ADmida%E2%80%99)
-- [Com mais de 12 milhões de habitantes, São Paulo completa 469 anos](https://www.nexojornal.com.br/grafico/2023/01/24/Com-mais-de-12-milh%C3%B5es-de-habitantes-S%C3%A3o-Paulo-completa-469-anos)
-- [Por que a maioria gostaria de deixar São Paulo se pudesse](https://www.nexojornal.com.br/expresso/2023/01/24/Por-que-a-maioria-gostaria-de-deixar-S%C3%A3o-Paulo-se-pudesse)
+- [Como é o esquema de lavagem de ouro vindo de terras indígenas](https://www.nexojornal.com.br/expresso/2023/01/25/Como-%C3%A9-o-esquema-de-lavagem-de-ouro-vindo-de-terras-ind%C3%ADgenas)
+- [Os desafios do governo Lula após os ataques golpistas](https://www.nexojornal.com.br/ensaio/debate/2023/Os-desafios-do-governo-Lula-ap%C3%B3s-os-ataques-golpistas)
+- [Os protocolos para agressões sexuais e a nova lei na Espanha](https://www.nexojornal.com.br/expresso/2023/01/25/Os-protocolos-para-agress%C3%B5es-sexuais-e-a-nova-lei-na-Espanha)
+- [Quem é quem na recuperação judicial da Americanas](https://www.nexojornal.com.br/expresso/2023/01/25/Quem-%C3%A9-quem-na-recupera%C3%A7%C3%A3o-judicial-da-Americanas)
+- [Brumadinho, 4 anos: os descaminhos para reparar a tragédia](https://www.nexojornal.com.br/podcast/2023/01/25/Brumadinho-4-anos-os-descaminhos-para-reparar-a-trag%C3%A9dia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
