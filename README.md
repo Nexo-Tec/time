@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como ambientes amazônicos alagáveis se formaram e quais seus impactos na biodiversidade](https://pp.nexojornal.com.br/academico/2023/Como-ambientes-amaz%C3%B4nicos-alag%C3%A1veis-se-formaram-e-quais-seus-impactos-na-biodiversidade)
+- [Tecnoautoritarismo e o bloqueio de provedores por descumprimento de ordens judiciais no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Tecnoautoritarismo-e-o-bloqueio-de-provedores-por-descumprimento-de-ordens-judiciais-no-Brasil)
+- [Dados de intolerância religiosa e o aparelhamento do Disque 100 pelo governo Bolsonaro](https://pp.nexojornal.com.br/opiniao/2023/Dados-de-intoler%C3%A2ncia-religiosa-e-o-aparelhamento-do-Disque-100-pelo-governo-Bolsonaro)
 - [Por que Monitorar o Plano Nacional de Educação?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Por-que-Monitorar-o-Plano-Nacional-de-Educa%C3%A7%C3%A3o)
 - [Autoetnografia e a Experiência Negra – A “escrita de si” em  W. E. B. Du Bois](https://pp.nexojornal.com.br/opiniao/2023/Autoetnografia-e-a-Experi%C3%AAncia-Negra-%E2%80%93-A-%E2%80%9Cescrita-de-si%E2%80%9D-em-W.-E.-B.-Du-Bois)
-- [Recalculando rotas políticas](https://pp.nexojornal.com.br/opiniao/2023/Recalculando-rotas-pol%C3%ADticas)
-- [Câmeras nos uniformes policiais: investimento político, ganhos sociais e jurídicos](https://pp.nexojornal.com.br/opiniao/2023/C%C3%A2meras-nos-uniformes-policiais-investimento-pol%C3%ADtico-ganhos-sociais-e-jur%C3%ADdicos)
-- [O extremismo quer hackear a legalidade](https://pp.nexojornal.com.br/opiniao/2023/O-extremismo-quer-hackear-a-legalidade)
 <!-- PP_LIST:END -->
 
