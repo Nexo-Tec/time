@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Evasão de cotistas e não cotistas nas universidades federais brasileiras](https://pp.nexojornal.com.br/opiniao/2023/Evas%C3%A3o-de-cotistas-e-n%C3%A3o-cotistas-nas-universidades-federais-brasileiras)
+- [Pluralismo e dissenso: por que a liberdade acadêmica importa para a democracia e incomoda líderes autoritários?](https://pp.nexojornal.com.br/opiniao/2023/Pluralismo-e-dissenso-por-que-a-liberdade-acad%C3%AAmica-importa-para-a-democracia-e-incomoda-l%C3%ADderes-autorit%C3%A1rios)
+- [W.E.B. Du Bois – O Negro da Filadélfia](https://pp.nexojornal.com.br/opiniao/2023/W.E.B.-Du-Bois-%E2%80%93-O-Negro-da-Filad%C3%A9lfia)
 - [Como ambientes amazônicos alagáveis se formaram e quais seus impactos na biodiversidade](https://pp.nexojornal.com.br/academico/2023/Como-ambientes-amaz%C3%B4nicos-alag%C3%A1veis-se-formaram-e-quais-seus-impactos-na-biodiversidade)
 - [Tecnoautoritarismo e o bloqueio de provedores por descumprimento de ordens judiciais no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Tecnoautoritarismo-e-o-bloqueio-de-provedores-por-descumprimento-de-ordens-judiciais-no-Brasil)
-- [Dados de intolerância religiosa e o aparelhamento do Disque 100 pelo governo Bolsonaro](https://pp.nexojornal.com.br/opiniao/2023/Dados-de-intoler%C3%A2ncia-religiosa-e-o-aparelhamento-do-Disque-100-pelo-governo-Bolsonaro)
-- [Por que Monitorar o Plano Nacional de Educação?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Por-que-Monitorar-o-Plano-Nacional-de-Educa%C3%A7%C3%A3o)
-- [Autoetnografia e a Experiência Negra – A “escrita de si” em  W. E. B. Du Bois](https://pp.nexojornal.com.br/opiniao/2023/Autoetnografia-e-a-Experi%C3%AAncia-Negra-%E2%80%93-A-%E2%80%9Cescrita-de-si%E2%80%9D-em-W.-E.-B.-Du-Bois)
 <!-- PP_LIST:END -->
 
