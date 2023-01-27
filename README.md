@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Sem os 30 anos de democracia, a gente teria tido um golpe’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98Sem-os-30-anos-de-democracia-a-gente-teria-tido-um-golpe%E2%80%99)
-- [Lula diz que bancos estatais devem emprestar a governadores](https://www.nexojornal.com.br/extra/2023/01/27/Lula-diz-que-bancos-estatais-devem-emprestar-a-governadores)
-- [Operação da Polícia Federal prende 5 por atos de 8 de janeiro](https://www.nexojornal.com.br/extra/2023/01/27/Opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-prende-5-por-atos-de-8-de-janeiro)
-- [Boate Kiss: pais fazem vigília por 10 anos da tragédia](https://www.nexojornal.com.br/extra/2023/01/27/Boate-Kiss-pais-fazem-vig%C3%ADlia-por-10-anos-da-trag%C3%A9dia)
 - [Qual o balanço das presidências de Lira e Pacheco no Congresso](https://www.nexojornal.com.br/expresso/2023/01/26/Qual-o-balan%C3%A7o-das-presid%C3%AAncias-de-Lira-e-Pacheco-no-Congresso)
+- [Como é ser um refugiado do Holocausto no Brasil](https://www.nexojornal.com.br/expresso/2023/01/26/Como-%C3%A9-ser-um-refugiado-do-Holocausto-no-Brasil)
+- [Dos embargos aos tanques: o Ocidente na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/01/26/Dos-embargos-aos-tanques-o-Ocidente-na-guerra-da-Ucr%C3%A2nia)
+- [‘O que vai salvar os Yanomami é a saída do garimpo ilegal’](https://www.nexojornal.com.br/externo/2023/01/26/%E2%80%98O-que-vai-salvar-os-Yanomami-%C3%A9-a-sa%C3%ADda-do-garimpo-ilegal%E2%80%99)
+- [Os rumos da Petrobras sob uma nova presidência petista](https://www.nexojornal.com.br/podcast/2023/01/26/Os-rumos-da-Petrobras-sob-uma-nova-presid%C3%AAncia-petista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
