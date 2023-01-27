@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conselho aprova Jean Paul Prates para comando da Petrobras](https://www.nexojornal.com.br/extra/2023/01/26/Conselho-aprova-Jean-Paul-Prates-para-comando-da-Petrobras)
+- [Menina de 10 anos morre baleada na Baixada Fluminense](https://www.nexojornal.com.br/extra/2023/01/26/Menina-de-10-anos-morre-baleada-na-Baixada-Fluminense)
+- [PP, PL e Republicanos apoiam Marinho ao comando do Senado](https://www.nexojornal.com.br/extra/2023/01/26/PP-PL-e-Republicanos-apoiam-Marinho-ao-comando-do-Senado)
+- [Como é o esquema de lavagem de ouro vindo de terras indígenas](https://www.nexojornal.com.br/expresso/2023/01/25/Como-%C3%A9-o-esquema-de-lavagem-de-ouro-vindo-de-terras-ind%C3%ADgenas)
 - [Os desafios do governo Lula após os ataques golpistas](https://www.nexojornal.com.br/ensaio/debate/2023/Os-desafios-do-governo-Lula-ap%C3%B3s-os-ataques-golpistas)
-- [Os protocolos para agressões sexuais e a nova lei na Espanha](https://www.nexojornal.com.br/expresso/2023/01/25/Os-protocolos-para-agress%C3%B5es-sexuais-e-a-nova-lei-na-Espanha)
-- [Quem é quem na recuperação judicial da Americanas](https://www.nexojornal.com.br/expresso/2023/01/25/Quem-%C3%A9-quem-na-recupera%C3%A7%C3%A3o-judicial-da-Americanas)
-- [Brumadinho, 4 anos: os descaminhos para reparar a tragédia](https://www.nexojornal.com.br/podcast/2023/01/25/Brumadinho-4-anos-os-descaminhos-para-reparar-a-trag%C3%A9dia)
-- [Sandro Avelar é novo nome da Segurança Pública do DF](https://www.nexojornal.com.br/extra/2023/01/25/Sandro-Avelar-%C3%A9-novo-nome-da-Seguran%C3%A7a-P%C3%BAblica-do-DF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
