@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho aprova Jean Paul Prates para comando da Petrobras](https://www.nexojornal.com.br/extra/2023/01/26/Conselho-aprova-Jean-Paul-Prates-para-comando-da-Petrobras)
-- [Menina de 10 anos morre baleada na Baixada Fluminense](https://www.nexojornal.com.br/extra/2023/01/26/Menina-de-10-anos-morre-baleada-na-Baixada-Fluminense)
-- [PP, PL e Republicanos apoiam Marinho ao comando do Senado](https://www.nexojornal.com.br/extra/2023/01/26/PP-PL-e-Republicanos-apoiam-Marinho-ao-comando-do-Senado)
-- [Como é o esquema de lavagem de ouro vindo de terras indígenas](https://www.nexojornal.com.br/expresso/2023/01/25/Como-%C3%A9-o-esquema-de-lavagem-de-ouro-vindo-de-terras-ind%C3%ADgenas)
-- [Os desafios do governo Lula após os ataques golpistas](https://www.nexojornal.com.br/ensaio/debate/2023/Os-desafios-do-governo-Lula-ap%C3%B3s-os-ataques-golpistas)
+- [Qual o balanço das presidências de Lira e Pacheco no Congresso](https://www.nexojornal.com.br/expresso/2023/01/26/Qual-o-balan%C3%A7o-das-presid%C3%AAncias-de-Lira-e-Pacheco-no-Congresso)
+- [Como é ser um refugiado do Holocausto no Brasil](https://www.nexojornal.com.br/expresso/2023/01/26/Como-%C3%A9-ser-um-refugiado-do-Holocausto-no-Brasil)
+- [Dos embargos aos tanques: o Ocidente na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/01/26/Dos-embargos-aos-tanques-o-Ocidente-na-guerra-da-Ucr%C3%A2nia)
+- [‘O que vai salvar os Yanomami é a saída do garimpo ilegal’](https://www.nexojornal.com.br/externo/2023/01/26/%E2%80%98O-que-vai-salvar-os-Yanomami-%C3%A9-a-sa%C3%ADda-do-garimpo-ilegal%E2%80%99)
+- [Os rumos da Petrobras sob uma nova presidência petista](https://www.nexojornal.com.br/podcast/2023/01/26/Os-rumos-da-Petrobras-sob-uma-nova-presid%C3%AAncia-petista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
