@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes envia à PGR pedido para barrar posse de deputados](https://www.nexojornal.com.br/extra/2023/01/27/Moraes-envia-%C3%A0-PGR-pedido-para-barrar-posse-de-deputados)
-- [‘A politização das polícias compõe um quadro muito grave’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98A-politiza%C3%A7%C3%A3o-das-pol%C3%ADcias-comp%C3%B5e-um-quadro-muito-grave%E2%80%99)
-- [Quais obras entraram em domínio público em 2023](https://www.nexojornal.com.br/expresso/2023/01/27/Quais-obras-entraram-em-dom%C3%ADnio-p%C3%BAblico-em-2023)
-- [‘Elisa Branco’: a militante que ensinou colegas de prisão a ler](https://www.nexojornal.com.br/estante/2023/01/27/%E2%80%98Elisa-Branco%E2%80%99-a-militante-que-ensinou-colegas-de-pris%C3%A3o-a-ler)
-- [‘Democracia não está nas mãos da imprensa, mas dos cidadãos’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98Democracia-n%C3%A3o-est%C3%A1-nas-m%C3%A3os-da-imprensa-mas-dos-cidad%C3%A3os%E2%80%99)
+- [Boate Kiss: pais fazem vigília por 10 anos da tragédia](https://www.nexojornal.com.br/extra/2023/01/27/Boate-Kiss-pais-fazem-vig%C3%ADlia-por-10-anos-da-trag%C3%A9dia)
+- [Qual o balanço das presidências de Lira e Pacheco no Congresso](https://www.nexojornal.com.br/expresso/2023/01/26/Qual-o-balan%C3%A7o-das-presid%C3%AAncias-de-Lira-e-Pacheco-no-Congresso)
+- [Como é ser um refugiado do Holocausto no Brasil](https://www.nexojornal.com.br/expresso/2023/01/26/Como-%C3%A9-ser-um-refugiado-do-Holocausto-no-Brasil)
+- [Dos embargos aos tanques: o Ocidente na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/01/26/Dos-embargos-aos-tanques-o-Ocidente-na-guerra-da-Ucr%C3%A2nia)
+- [‘O que vai salvar os Yanomami é a saída do garimpo ilegal’](https://www.nexojornal.com.br/externo/2023/01/26/%E2%80%98O-que-vai-salvar-os-Yanomami-%C3%A9-a-sa%C3%ADda-do-garimpo-ilegal%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
