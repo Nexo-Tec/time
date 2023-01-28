@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Sem os 30 anos de democracia, a gente teria tido um golpe’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98Sem-os-30-anos-de-democracia-a-gente-teria-tido-um-golpe%E2%80%99)
-- [Lula diz que bancos estatais devem emprestar a governadores](https://www.nexojornal.com.br/extra/2023/01/27/Lula-diz-que-bancos-estatais-devem-emprestar-a-governadores)
-- [Operação da Polícia Federal prende 5 por atos de 8 de janeiro](https://www.nexojornal.com.br/extra/2023/01/27/Opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-prende-5-por-atos-de-8-de-janeiro)
-- [Boate Kiss: pais fazem vigília por 10 anos da tragédia](https://www.nexojornal.com.br/extra/2023/01/27/Boate-Kiss-pais-fazem-vig%C3%ADlia-por-10-anos-da-trag%C3%A9dia)
-- [Qual o balanço das presidências de Lira e Pacheco no Congresso](https://www.nexojornal.com.br/expresso/2023/01/26/Qual-o-balan%C3%A7o-das-presid%C3%AAncias-de-Lira-e-Pacheco-no-Congresso)
+- [Moraes envia à PGR pedido para barrar posse de deputados](https://www.nexojornal.com.br/extra/2023/01/27/Moraes-envia-%C3%A0-PGR-pedido-para-barrar-posse-de-deputados)
+- [‘A politização das polícias compõe um quadro muito grave’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98A-politiza%C3%A7%C3%A3o-das-pol%C3%ADcias-comp%C3%B5e-um-quadro-muito-grave%E2%80%99)
+- [Quais obras entraram em domínio público em 2023](https://www.nexojornal.com.br/expresso/2023/01/27/Quais-obras-entraram-em-dom%C3%ADnio-p%C3%BAblico-em-2023)
+- [‘Elisa Branco’: a militante que ensinou colegas de prisão a ler](https://www.nexojornal.com.br/estante/2023/01/27/%E2%80%98Elisa-Branco%E2%80%99-a-militante-que-ensinou-colegas-de-pris%C3%A3o-a-ler)
+- [‘Democracia não está nas mãos da imprensa, mas dos cidadãos’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98Democracia-n%C3%A3o-est%C3%A1-nas-m%C3%A3os-da-imprensa-mas-dos-cidad%C3%A3os%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
