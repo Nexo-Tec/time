@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ana Escobar: “A saúde infantil é mais do que a ausência de sintomas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/saude-infantil-e-volta-as-aulas/)
 - [No vinho, o futuro pode estar no passado](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/no-vinho-o-futuro-pode-estar-no-passado/)
 - [A Repetição](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-repeticao/)
 - [“A Playlist da Minha Vida”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-playlist-da-minha-vida/)
 - [A tragédia da boate Kiss](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-tragedia-da-boate-kiss/)
-- [Um robô é capaz de substituir um escritor?](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-robo-e-capaz-de-substituir-um-escritor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
