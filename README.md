@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@bellaramsey](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/bellaramsey/)
 - [Milly Lacombe: ‘O futebol não é negócio, é uma instituição social’](https://gamarevista.uol.com.br/sociedade/trending/milly-lacombe-o-futebol-nao-e-negocio-e-uma-instituicao-social/)
 - [Ana Escobar: “A saúde infantil é mais do que a ausência de sintomas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/saude-infantil-e-volta-as-aulas/)
 - [No vinho, o futuro pode estar no passado](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/no-vinho-o-futuro-pode-estar-no-passado/)
 - [A Repetição](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-repeticao/)
-- [“A Playlist da Minha Vida”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-playlist-da-minha-vida/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
