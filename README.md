@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [LGPD na saúde: o que fazer versus como fazer](https://www.nexojornal.com.br/ensaio/2023/01/29/LGPD-na-sa%C3%BAde-o-que-fazer-versus-como-fazer)
-- [A trajetória dos quadrinhos nacionais em 6 momentos](https://www.nexojornal.com.br/expresso/2023/01/29/A-trajet%C3%B3ria-dos-quadrinhos-nacionais-em-6-momentos)
-- [‘Militares se acham gestores públicos melhores que os civis’](https://www.nexojornal.com.br/entrevista/2023/01/29/%E2%80%98Militares-se-acham-gestores-p%C3%BAblicos-melhores-que-os-civis%E2%80%99)
-- [Por que as contas do Brasil voltaram ao azul. E o que esperar](https://www.nexojornal.com.br/expresso/2023/01/29/Por-que-as-contas-do-Brasil-voltaram-ao-azul.-E-o-que-esperar)
-- [Estudante é estuprada e morta em festa universitária no Piauí](https://www.nexojornal.com.br/extra/2023/01/29/Estudante-%C3%A9-estuprada-e-morta-em-festa-universit%C3%A1ria-no-Piau%C3%AD)
+- [Moraes nega pedido para suspender posse de deputados](https://www.nexojornal.com.br/extra/2023/01/29/Moraes-nega-pedido-para-suspender-posse-de-deputados)
+- [Djokovic e Sabalenka são os campeões do Aberto da Austrália](https://www.nexojornal.com.br/extra/2023/01/29/Djokovic-e-Sabalenka-s%C3%A3o-os-campe%C3%B5es-do-Aberto-da-Austr%C3%A1lia)
+- [Por que se alimentar no trabalho é importante](https://www.nexojornal.com.br/externo/2023/01/29/Por-que-se-alimentar-no-trabalho-%C3%A9-importante)
+- [5 livros para se viciar em histórias em quadrinhos](https://www.nexojornal.com.br/estante/favoritos/2023/01/28/5-livros-para-se-viciar-em-hist%C3%B3rias-em-quadrinhos)
+- [Os protestos contra o feriado da colonização da Austrália](https://www.nexojornal.com.br/expresso/2023/01/28/Os-protestos-contra-o-feriado-da-coloniza%C3%A7%C3%A3o-da-Austr%C3%A1lia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
