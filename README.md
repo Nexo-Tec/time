@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Flávio Bolsonaro diz que pai não tem prazo para voltar ao Brasil](https://www.nexojornal.com.br/extra/2023/01/28/Fl%C3%A1vio-Bolsonaro-diz-que-pai-n%C3%A3o-tem-prazo-para-voltar-ao-Brasil)
-- [PGR é contrária a pedido para barrar posse de deputados](https://www.nexojornal.com.br/extra/2023/01/27/PGR-%C3%A9-contr%C3%A1ria-a-pedido-para-barrar-posse-de-deputados)
-- [‘A politização das polícias compõe um quadro muito grave’](https://www.nexojornal.com.br/entrevista/2023/01/27/%E2%80%98A-politiza%C3%A7%C3%A3o-das-pol%C3%ADcias-comp%C3%B5e-um-quadro-muito-grave%E2%80%99)
-- [Quais obras entraram em domínio público em 2023](https://www.nexojornal.com.br/expresso/2023/01/27/Quais-obras-entraram-em-dom%C3%ADnio-p%C3%BAblico-em-2023)
-- [‘Elisa Branco’: a militante que ensinou colegas de prisão a ler](https://www.nexojornal.com.br/estante/2023/01/27/%E2%80%98Elisa-Branco%E2%80%99-a-militante-que-ensinou-colegas-de-pris%C3%A3o-a-ler)
+- [Moraes nega pedido para suspender posse de deputados](https://www.nexojornal.com.br/extra/2023/01/29/Moraes-nega-pedido-para-suspender-posse-de-deputados)
+- [Djokovic e Sabalenka são os campeões do Aberto da Austrália](https://www.nexojornal.com.br/extra/2023/01/29/Djokovic-e-Sabalenka-s%C3%A3o-os-campe%C3%B5es-do-Aberto-da-Austr%C3%A1lia)
+- [Por que se alimentar no trabalho é importante](https://www.nexojornal.com.br/externo/2023/01/29/Por-que-se-alimentar-no-trabalho-%C3%A9-importante)
+- [5 livros para se viciar em histórias em quadrinhos](https://www.nexojornal.com.br/estante/favoritos/2023/01/28/5-livros-para-se-viciar-em-hist%C3%B3rias-em-quadrinhos)
+- [Os protestos contra o feriado da colonização da Austrália](https://www.nexojornal.com.br/expresso/2023/01/28/Os-protestos-contra-o-feriado-da-coloniza%C3%A7%C3%A3o-da-Austr%C3%A1lia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
