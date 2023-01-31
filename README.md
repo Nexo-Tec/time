@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Michelle vai a jantar do PL e Bolsonaro participa por vídeo](https://www.nexojornal.com.br/extra/2023/01/31/Michelle-vai-a-jantar-do-PL-e-Bolsonaro-participa-por-v%C3%ADdeo)
 - [As buscas por praias pelos brasileiros no Google desde 2022](https://www.nexojornal.com.br/grafico/2023/01/30/As-buscas-por-praias-pelos-brasileiros-no-Google-desde-2022)
 - [Quem é Rogério Marinho, o candidato bolsonarista ao Senado](https://www.nexojornal.com.br/expresso/2023/01/30/Quem-%C3%A9-Rog%C3%A9rio-Marinho-o-candidato-bolsonarista-ao-Senado)
 - [Qual o papel dos militares na crise na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/01/30/Qual-o-papel-dos-militares-na-crise-na-terra-Yanomami)
 - [O orçamento secreto e a fazenda do ministro das Comunicações](https://www.nexojornal.com.br/podcast/2023/01/30/O-or%C3%A7amento-secreto-e-a-fazenda-do-ministro-das-Comunica%C3%A7%C3%B5es)
+- [Procuradoria denuncia mais 225 pessoas por atos golpistas](https://www.nexojornal.com.br/extra/2023/01/30/Procuradoria-denuncia-mais-225-pessoas-por-atos-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
