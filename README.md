@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [LGPD na saúde: o que fazer versus como fazer](https://www.nexojornal.com.br/ensaio/2023/01/29/LGPD-na-sa%C3%BAde-o-que-fazer-versus-como-fazer)
-- [A trajetória dos quadrinhos nacionais em 6 momentos](https://www.nexojornal.com.br/expresso/2023/01/29/A-trajet%C3%B3ria-dos-quadrinhos-nacionais-em-6-momentos)
-- [‘Militares se acham gestores públicos melhores que os civis’](https://www.nexojornal.com.br/entrevista/2023/01/29/%E2%80%98Militares-se-acham-gestores-p%C3%BAblicos-melhores-que-os-civis%E2%80%99)
-- [Por que as contas do Brasil voltaram ao azul. E o que esperar](https://www.nexojornal.com.br/expresso/2023/01/29/Por-que-as-contas-do-Brasil-voltaram-ao-azul.-E-o-que-esperar)
-- [Estudante é estuprada e morta em festa universitária no Piauí](https://www.nexojornal.com.br/extra/2023/01/29/Estudante-%C3%A9-estuprada-e-morta-em-festa-universit%C3%A1ria-no-Piau%C3%AD)
+- [As buscas por praias pelos brasileiros no Google desde 2022](https://www.nexojornal.com.br/grafico/2023/01/30/As-buscas-por-praias-pelos-brasileiros-no-Google-desde-2022)
+- [Quem é Rogério Marinho, o candidato bolsonarista ao Senado](https://www.nexojornal.com.br/expresso/2023/01/30/Quem-%C3%A9-Rog%C3%A9rio-Marinho-o-candidato-bolsonarista-ao-Senado)
+- [Qual o papel dos militares na crise na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/01/30/Qual-o-papel-dos-militares-na-crise-na-terra-Yanomami)
+- [O orçamento secreto e a fazenda do ministro das Comunicações](https://www.nexojornal.com.br/podcast/2023/01/30/O-or%C3%A7amento-secreto-e-a-fazenda-do-ministro-das-Comunica%C3%A7%C3%B5es)
+- [Procuradoria denuncia mais 225 pessoas por atos golpistas](https://www.nexojornal.com.br/extra/2023/01/30/Procuradoria-denuncia-mais-225-pessoas-por-atos-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
