@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os cargos e as alianças em jogo nas eleições do Congresso em 2023](https://www.nexojornal.com.br/expresso/2023/01/31/Os-cargos-e-as-alian%C3%A7as-em-jogo-nas-elei%C3%A7%C3%B5es-do-Congresso-em-2023)
-- [Como a tragédia dos Yanomami volta a ecoar no exterior](https://www.nexojornal.com.br/expresso/2023/01/31/Como-a-trag%C3%A9dia-dos-Yanomami-volta-a-ecoar-no-exterior)
-- [A greve geral de 2023 na França. E o poder dos sindicatos no país](https://www.nexojornal.com.br/expresso/2023/01/31/A-greve-geral-de-2023-na-Fran%C3%A7a.-E-o-poder-dos-sindicatos-no-pa%C3%ADs)
-- [Polícia Federal vai ouvir Valdemar sobre minutas golpistas](https://www.nexojornal.com.br/extra/2023/01/31/Pol%C3%ADcia-Federal-vai-ouvir-Valdemar-sobre-minutas-golpistas)
-- [Área florestal em chamas quase dobrou em 2022, diz projeto](https://www.nexojornal.com.br/extra/2023/01/31/%C3%81rea-florestal-em-chamas-quase-dobrou-em-2022-diz-projeto)
+- [Governo dá 60 dias para donos de armas cadastrarem equipamento](https://www.nexojornal.com.br/extra/2023/02/01/Governo-d%C3%A1-60-dias-para-donos-de-armas-cadastrarem-equipamento)
+- [Governo restringe acesso à terra Yanomami enquanto durar crise](https://www.nexojornal.com.br/extra/2023/02/01/Governo-restringe-acesso-%C3%A0-terra-Yanomami-enquanto-durar-crise)
+- [O fascismo arromba a porta na mutilação dos símbolos da República](https://www.nexojornal.com.br/ensaio/debate/2023/O-fascismo-arromba-a-porta-na-mutila%C3%A7%C3%A3o-dos-s%C3%ADmbolos-da-Rep%C3%BAblica)
+- [​​Por que sistema carcerário e justiça climática caminham juntos](https://www.nexojornal.com.br/colunistas/2023/%E2%80%8B%E2%80%8BPor-que-sistema-carcer%C3%A1rio-e-justi%C3%A7a-clim%C3%A1tica-caminham-juntos)
+- [Golpistas serão punidos com rigor, diz Weber ao reabrir Supremo](https://www.nexojornal.com.br/extra/2023/02/01/Golpistas-ser%C3%A3o-punidos-com-rigor-diz-Weber-ao-reabrir-Supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
