@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Desigualdades socioeconômicas e acesso a cuidados de saúde e a medicamentos no Brasil](https://pp.nexojornal.com.br/academico/2023/Desigualdades-socioecon%C3%B4micas-e-acesso-a-cuidados-de-sa%C3%BAde-e-a-medicamentos-no-Brasil)
 - [A cota de solidariedade no Plano Diretor de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cota-de-solidariedade-no-Plano-Diretor-de-S%C3%A3o-Paulo)
 - [Evasão de cotistas e não cotistas nas universidades federais brasileiras](https://pp.nexojornal.com.br/opiniao/2023/Evas%C3%A3o-de-cotistas-e-n%C3%A3o-cotistas-nas-universidades-federais-brasileiras)
 - [Pluralismo e dissenso: por que a liberdade acadêmica importa para a democracia e incomoda líderes autoritários?](https://pp.nexojornal.com.br/opiniao/2023/Pluralismo-e-dissenso-por-que-a-liberdade-acad%C3%AAmica-importa-para-a-democracia-e-incomoda-l%C3%ADderes-autorit%C3%A1rios)
 - [W.E.B. Du Bois – O Negro da Filadélfia](https://pp.nexojornal.com.br/opiniao/2023/W.E.B.-Du-Bois-%E2%80%93-O-Negro-da-Filad%C3%A9lfia)
+- [Como ambientes amazônicos alagáveis se formaram e quais seus impactos na biodiversidade](https://pp.nexojornal.com.br/academico/2023/Como-ambientes-amaz%C3%B4nicos-alag%C3%A1veis-se-formaram-e-quais-seus-impactos-na-biodiversidade)
 <!-- PP_LIST:END -->
 
