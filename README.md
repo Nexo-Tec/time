@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os cargos e as alianças em jogo nas eleições do Congresso em 2023](https://www.nexojornal.com.br/expresso/2023/01/31/Os-cargos-e-as-alian%C3%A7as-em-jogo-nas-elei%C3%A7%C3%B5es-do-Congresso-em-2023)
-- [Como a tragédia dos Yanomami volta a ecoar no exterior](https://www.nexojornal.com.br/expresso/2023/01/31/Como-a-trag%C3%A9dia-dos-Yanomami-volta-a-ecoar-no-exterior)
-- [A greve geral de 2023 na França. E o poder dos sindicatos no país](https://www.nexojornal.com.br/expresso/2023/01/31/A-greve-geral-de-2023-na-Fran%C3%A7a.-E-o-poder-dos-sindicatos-no-pa%C3%ADs)
-- [Polícia Federal vai ouvir Valdemar sobre minutas golpistas](https://www.nexojornal.com.br/extra/2023/01/31/Pol%C3%ADcia-Federal-vai-ouvir-Valdemar-sobre-minutas-golpistas)
-- [Área florestal em chamas quase dobrou em 2022, diz projeto](https://www.nexojornal.com.br/extra/2023/01/31/%C3%81rea-florestal-em-chamas-quase-dobrou-em-2022-diz-projeto)
+- [Michelle vai a jantar do PL e Bolsonaro participa por vídeo](https://www.nexojornal.com.br/extra/2023/01/31/Michelle-vai-a-jantar-do-PL-e-Bolsonaro-participa-por-v%C3%ADdeo)
+- [As buscas por praias pelos brasileiros no Google desde 2022](https://www.nexojornal.com.br/grafico/2023/01/30/As-buscas-por-praias-pelos-brasileiros-no-Google-desde-2022)
+- [Quem é Rogério Marinho, o candidato bolsonarista ao Senado](https://www.nexojornal.com.br/expresso/2023/01/30/Quem-%C3%A9-Rog%C3%A9rio-Marinho-o-candidato-bolsonarista-ao-Senado)
+- [Qual o papel dos militares na crise na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/01/30/Qual-o-papel-dos-militares-na-crise-na-terra-Yanomami)
+- [O orçamento secreto e a fazenda do ministro das Comunicações](https://www.nexojornal.com.br/podcast/2023/01/30/O-or%C3%A7amento-secreto-e-a-fazenda-do-ministro-das-Comunica%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
