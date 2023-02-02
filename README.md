@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Sabe aquela vontade de um docinho no meio da tarde? Eis a solução: energy ball de damasco](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/energy-ball-de-damasco/)
-- [@bellaramsey](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/bellaramsey/)
-- [Milly Lacombe: ‘O futebol não é negócio, é uma instituição social’](https://gamarevista.uol.com.br/sociedade/trending/milly-lacombe-o-futebol-nao-e-negocio-e-uma-instituicao-social/)
-- [Ana Escobar: “A saúde infantil é mais do que a ausência de sintomas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/saude-infantil-e-volta-as-aulas/)
-- [No vinho, o futuro pode estar no passado](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/no-vinho-o-futuro-pode-estar-no-passado/)
+- [Cursos para mandar bem na escrita](https://gamarevista.uol.com.br/achamos-que-vale/fazer/cursos-para-mandar-bem-na-escrita/)
+- [A reportagem sobre tragédia Yanomami](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-reportagem-sobre-tragedia-yanomami/)
+- [Tom Verlaine pelos olhos de Patti Smith, na New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/tom-verlaine-pelos-olhos-de-patti-smith-na-new-yorker/)
+- [Um romance em que tudo pode desabar](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-romance-em-que-tudo-pode-desabar/)
+- [Verena Smit em um circuito no centro de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/verena-smit-em-um-circuito-no-centro-de-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
