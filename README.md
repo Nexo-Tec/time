@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Friday Black](https://gamarevista.uol.com.br/cultura/trecho-de-livro/friday-black/)
 - [De repente 13](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/de-repente-13/)
 - [Cursos para mandar bem na escrita](https://gamarevista.uol.com.br/achamos-que-vale/fazer/cursos-para-mandar-bem-na-escrita/)
 - [Tom Verlaine pelos olhos de Patti Smith, na New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/tom-verlaine-pelos-olhos-de-patti-smith-na-new-yorker/)
 - [Um romance em que tudo pode desabar](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-romance-em-que-tudo-pode-desabar/)
-- [Verena Smit em um circuito no centro de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/verena-smit-em-um-circuito-no-centro-de-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
