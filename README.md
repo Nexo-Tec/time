@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lista da Forbes: Elon Musk perde posto de 1° mais rico](https://www.nexojornal.com.br/extra/2023/02/02/Lista-da-Forbes-Elon-Musk-perde-posto-de-1%C2%B0-mais-rico)
-- [Senador diz que foi convidado para plano de golpe de Bolsonaro](https://www.nexojornal.com.br/extra/2023/02/02/Senador-diz-que-foi-convidado-para-plano-de-golpe-de-Bolsonaro)
-- [4 facetas de Glória Maria, pioneira da televisão brasileira](https://www.nexojornal.com.br/expresso/2023/02/02/4-facetas-de-Gl%C3%B3ria-Maria-pioneira-da-televis%C3%A3o-brasileira)
-- [Ex-deputado Daniel Silveira é preso por ordem do Supremo](https://www.nexojornal.com.br/extra/2023/02/02/Ex-deputado-Daniel-Silveira-%C3%A9-preso-por-ordem-do-Supremo)
 - [Glória Maria, ícone do jornalismo brasileiro, morre aos 73 anos](https://www.nexojornal.com.br/extra/2023/02/02/Gl%C3%B3ria-Maria-%C3%ADcone-do-jornalismo-brasileiro-morre-aos-73-anos)
+- [O que a votação de Marinho indica sobre o bolsonarismo](https://www.nexojornal.com.br/expresso/2023/02/02/O-que-a-vota%C3%A7%C3%A3o-de-Marinho-indica-sobre-o-bolsonarismo)
+- [O que esperar dos segundos mandatos de Lira e Pacheco](https://www.nexojornal.com.br/expresso/2023/02/01/O-que-esperar-dos-segundos-mandatos-de-Lira-e-Pacheco)
+- [Os partidos que ficaram mais tempo no comando do Congresso](https://www.nexojornal.com.br/grafico/2023/02/01/Os-partidos-que-ficaram-mais-tempo-no-comando-do-Congresso)
+- [A ida de Mãe Beata de Yemanjá para a Baía de Guanabara](https://www.nexojornal.com.br/ensaio/2023/02/01/A-ida-de-M%C3%A3e-Beata-de-Yemanj%C3%A1-para-a-Ba%C3%ADa-de-Guanabara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
