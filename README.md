@@ -126,10 +126,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Cursos para mandar bem na escrita](https://gamarevista.uol.com.br/achamos-que-vale/fazer/cursos-para-mandar-bem-na-escrita/)
-- [A reportagem sobre tragédia Yanomami](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-reportagem-sobre-tragedia-yanomami/)
 - [Tom Verlaine pelos olhos de Patti Smith, na New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/tom-verlaine-pelos-olhos-de-patti-smith-na-new-yorker/)
 - [Um romance em que tudo pode desabar](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-romance-em-que-tudo-pode-desabar/)
 - [Verena Smit em um circuito no centro de São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/verena-smit-em-um-circuito-no-centro-de-sao-paulo/)
+- [Sabe aquela vontade de um docinho no meio da tarde? Eis a solução: energy ball de damasco](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/energy-ball-de-damasco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
