@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lista da Forbes: Elon Musk perde posto de 1° mais rico](https://www.nexojornal.com.br/extra/2023/02/02/Lista-da-Forbes-Elon-Musk-perde-posto-de-1%C2%B0-mais-rico)
-- [Senador diz que foi convidado para plano de golpe de Bolsonaro](https://www.nexojornal.com.br/extra/2023/02/02/Senador-diz-que-foi-convidado-para-plano-de-golpe-de-Bolsonaro)
-- [4 facetas de Glória Maria, pioneira da televisão brasileira](https://www.nexojornal.com.br/expresso/2023/02/02/4-facetas-de-Gl%C3%B3ria-Maria-pioneira-da-televis%C3%A3o-brasileira)
-- [Ex-deputado Daniel Silveira é preso por ordem do Supremo](https://www.nexojornal.com.br/extra/2023/02/02/Ex-deputado-Daniel-Silveira-%C3%A9-preso-por-ordem-do-Supremo)
-- [Glória Maria, ícone do jornalismo brasileiro, morre aos 73 anos](https://www.nexojornal.com.br/extra/2023/02/02/Gl%C3%B3ria-Maria-%C3%ADcone-do-jornalismo-brasileiro-morre-aos-73-anos)
+- [Alexandre de Moraes fala em ‘operação Tabajara’ para golpe](https://www.nexojornal.com.br/extra/2023/02/03/Alexandre-de-Moraes-fala-em-%E2%80%98opera%C3%A7%C3%A3o-Tabajara%E2%80%99-para-golpe)
+- [Como o golpismo de Bolsonaro afeta seu papel na oposição](https://www.nexojornal.com.br/expresso/2023/02/02/Como-o-golpismo-de-Bolsonaro-afeta-seu-papel-na-oposi%C3%A7%C3%A3o)
+- [Uma imagem é sempre muito mais do que uma imagem](https://www.nexojornal.com.br/colunistas/2023/Uma-imagem-%C3%A9-sempre-muito-mais-do-que-uma-imagem)
+- [O mirabolante plano golpista relatado pelo senador Marcos do Val](https://www.nexojornal.com.br/podcast/2023/02/02/O-mirabolante-plano-golpista-relatado-pelo-senador-Marcos-do-Val)
+- [As conexões de Bolsonaro com radicais americanos](https://www.nexojornal.com.br/expresso/2023/02/02/As-conex%C3%B5es-de-Bolsonaro-com-radicais-americanos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
