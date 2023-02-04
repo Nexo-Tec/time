@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alexandre de Moraes fala em ‘operação Tabajara’ para golpe](https://www.nexojornal.com.br/extra/2023/02/03/Alexandre-de-Moraes-fala-em-%E2%80%98opera%C3%A7%C3%A3o-Tabajara%E2%80%99-para-golpe)
-- [Como o golpismo de Bolsonaro afeta seu papel na oposição](https://www.nexojornal.com.br/expresso/2023/02/02/Como-o-golpismo-de-Bolsonaro-afeta-seu-papel-na-oposi%C3%A7%C3%A3o)
-- [Uma imagem é sempre muito mais do que uma imagem](https://www.nexojornal.com.br/colunistas/2023/Uma-imagem-%C3%A9-sempre-muito-mais-do-que-uma-imagem)
-- [O mirabolante plano golpista relatado pelo senador Marcos do Val](https://www.nexojornal.com.br/podcast/2023/02/02/O-mirabolante-plano-golpista-relatado-pelo-senador-Marcos-do-Val)
-- [As conexões de Bolsonaro com radicais americanos](https://www.nexojornal.com.br/expresso/2023/02/02/As-conex%C3%B5es-de-Bolsonaro-com-radicais-americanos)
+- [Comitê Olímpico suspende Wallace de competições](https://www.nexojornal.com.br/extra/2023/02/03/Comit%C3%AA-Ol%C3%ADmpico-suspende-Wallace-de-competi%C3%A7%C3%B5es)
+- [Moraes manda soltar ex-chefe da Polícia Militar do DF](https://www.nexojornal.com.br/extra/2023/02/03/Moraes-manda-soltar-ex-chefe-da-Pol%C3%ADcia-Militar-do-DF)
+- [O desenvolvimento de transtornos mentais em universitários](https://www.nexojornal.com.br/academico/2023/02/03/O-desenvolvimento-de-transtornos-mentais-em-universit%C3%A1rios)
+- [Morre o estilista espanhol Paco Rabanne aos 88 anos](https://www.nexojornal.com.br/extra/2023/02/03/Morre-o-estilista-espanhol-Paco-Rabanne-aos-88-anos)
+- [Como a musicalização é usada na educação básica](https://www.nexojornal.com.br/expresso/2023/02/03/Como-a-musicaliza%C3%A7%C3%A3o-%C3%A9-usada-na-educa%C3%A7%C3%A3o-b%C3%A1sica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
