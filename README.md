@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo apura denúncia de meninas yanomamis grávidas](https://www.nexojornal.com.br/extra/2023/02/03/Governo-apura-den%C3%BAncia-de-meninas-yanomamis-gr%C3%A1vidas)
-- [Governo dos EUA adia ida à China por detectar ‘balão espião’](https://www.nexojornal.com.br/extra/2023/02/03/Governo-dos-EUA-adia-ida-%C3%A0-China-por-detectar-%E2%80%98bal%C3%A3o-espi%C3%A3o%E2%80%99)
-- [Joenia Wapichana: ‘Tirar Funai do buraco será imenso desafio’](https://www.nexojornal.com.br/externo/2023/02/03/Joenia-Wapichana-%E2%80%98Tirar-Funai-do-buraco-ser%C3%A1-imenso-desafio%E2%80%99)
-- [O adolescente que resolveu um histórico problema matemático](https://www.nexojornal.com.br/expresso/2023/02/03/O-adolescente-que-resolveu-um-hist%C3%B3rico-problema-matem%C3%A1tico)
 - [Comitê Olímpico suspende Wallace de competições](https://www.nexojornal.com.br/extra/2023/02/03/Comit%C3%AA-Ol%C3%ADmpico-suspende-Wallace-de-competi%C3%A7%C3%B5es)
+- [Moraes manda soltar ex-chefe da Polícia Militar do DF](https://www.nexojornal.com.br/extra/2023/02/03/Moraes-manda-soltar-ex-chefe-da-Pol%C3%ADcia-Militar-do-DF)
+- [O desenvolvimento de transtornos mentais em universitários](https://www.nexojornal.com.br/academico/2023/02/03/O-desenvolvimento-de-transtornos-mentais-em-universit%C3%A1rios)
+- [Morre o estilista espanhol Paco Rabanne aos 88 anos](https://www.nexojornal.com.br/extra/2023/02/03/Morre-o-estilista-espanhol-Paco-Rabanne-aos-88-anos)
+- [Como a musicalização é usada na educação básica](https://www.nexojornal.com.br/expresso/2023/02/03/Como-a-musicaliza%C3%A7%C3%A3o-%C3%A9-usada-na-educa%C3%A7%C3%A3o-b%C3%A1sica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
