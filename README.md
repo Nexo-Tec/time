@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo apura denúncia de meninas yanomamis grávidas](https://www.nexojornal.com.br/extra/2023/02/03/Governo-apura-den%C3%BAncia-de-meninas-yanomamis-gr%C3%A1vidas)
-- [Governo dos EUA adia ida à China por detectar ‘balão espião’](https://www.nexojornal.com.br/extra/2023/02/03/Governo-dos-EUA-adia-ida-%C3%A0-China-por-detectar-%E2%80%98bal%C3%A3o-espi%C3%A3o%E2%80%99)
-- [Joenia Wapichana: ‘Tirar Funai do buraco será imenso desafio’](https://www.nexojornal.com.br/externo/2023/02/03/Joenia-Wapichana-%E2%80%98Tirar-Funai-do-buraco-ser%C3%A1-imenso-desafio%E2%80%99)
-- [O adolescente que resolveu um histórico problema matemático](https://www.nexojornal.com.br/expresso/2023/02/03/O-adolescente-que-resolveu-um-hist%C3%B3rico-problema-matem%C3%A1tico)
-- [Comitê Olímpico suspende Wallace de competições](https://www.nexojornal.com.br/extra/2023/02/03/Comit%C3%AA-Ol%C3%ADmpico-suspende-Wallace-de-competi%C3%A7%C3%B5es)
+- [‘Com bolsonarismo na oposição, STF está numa arapuca sem fim’](https://www.nexojornal.com.br/entrevista/2023/02/03/%E2%80%98Com-bolsonarismo-na-oposi%C3%A7%C3%A3o-STF-est%C3%A1-numa-arapuca-sem-fim%E2%80%99)
+- [‘Jet lag’: os poemas de um inspirador da Tropicália](https://www.nexojornal.com.br/estante/trechos/2023/02/03/%E2%80%98Jet-lag%E2%80%99-os-poemas-de-um-inspirador-da-Tropic%C3%A1lia)
+- [4 novos colunistas começam a publicar no ‘Nexo’ em fevereiro](https://www.nexojornal.com.br/expresso/2023/02/03/4-novos-colunistas-come%C3%A7am-a-publicar-no-%E2%80%98Nexo%E2%80%99-em-fevereiro)
+- [A vida no rio Madeira após as hidrelétricas, segundo quem mora lá](https://www.nexojornal.com.br/externo/2023/02/03/A-vida-no-rio-Madeira-ap%C3%B3s-as-hidrel%C3%A9tricas-segundo-quem-mora-l%C3%A1)
+- [O impacto econômico da guinada da política da China com a covid](https://www.nexojornal.com.br/expresso/2023/02/03/O-impacto-econ%C3%B4mico-da-guinada-da-pol%C3%ADtica-da-China-com-a-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
