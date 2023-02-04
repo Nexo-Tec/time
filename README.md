@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Alexandre de Moraes fala em ‘operação Tabajara’ para golpe](https://www.nexojornal.com.br/extra/2023/02/03/Alexandre-de-Moraes-fala-em-%E2%80%98opera%C3%A7%C3%A3o-Tabajara%E2%80%99-para-golpe)
-- [Como o golpismo de Bolsonaro afeta seu papel na oposição](https://www.nexojornal.com.br/expresso/2023/02/02/Como-o-golpismo-de-Bolsonaro-afeta-seu-papel-na-oposi%C3%A7%C3%A3o)
-- [Uma imagem é sempre muito mais do que uma imagem](https://www.nexojornal.com.br/colunistas/2023/Uma-imagem-%C3%A9-sempre-muito-mais-do-que-uma-imagem)
-- [O mirabolante plano golpista relatado pelo senador Marcos do Val](https://www.nexojornal.com.br/podcast/2023/02/02/O-mirabolante-plano-golpista-relatado-pelo-senador-Marcos-do-Val)
-- [As conexões de Bolsonaro com radicais americanos](https://www.nexojornal.com.br/expresso/2023/02/02/As-conex%C3%B5es-de-Bolsonaro-com-radicais-americanos)
+- [Governo apura denúncia de meninas yanomamis grávidas](https://www.nexojornal.com.br/extra/2023/02/03/Governo-apura-den%C3%BAncia-de-meninas-yanomamis-gr%C3%A1vidas)
+- [Governo dos EUA adia ida à China por detectar ‘balão espião’](https://www.nexojornal.com.br/extra/2023/02/03/Governo-dos-EUA-adia-ida-%C3%A0-China-por-detectar-%E2%80%98bal%C3%A3o-espi%C3%A3o%E2%80%99)
+- [Joenia Wapichana: ‘Tirar Funai do buraco será imenso desafio’](https://www.nexojornal.com.br/externo/2023/02/03/Joenia-Wapichana-%E2%80%98Tirar-Funai-do-buraco-ser%C3%A1-imenso-desafio%E2%80%99)
+- [O adolescente que resolveu um histórico problema matemático](https://www.nexojornal.com.br/expresso/2023/02/03/O-adolescente-que-resolveu-um-hist%C3%B3rico-problema-matem%C3%A1tico)
+- [Comitê Olímpico suspende Wallace de competições](https://www.nexojornal.com.br/extra/2023/02/03/Comit%C3%AA-Ol%C3%ADmpico-suspende-Wallace-de-competi%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
