@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Marinha afunda porta-aviões sob protestos por riscos ambientais](https://www.nexojornal.com.br/extra/2023/02/04/Marinha-afunda-porta-avi%C3%B5es-sob-protestos-por-riscos-ambientais)
-- [‘Com bolsonarismo na oposição, STF está numa arapuca sem fim’](https://www.nexojornal.com.br/entrevista/2023/02/03/%E2%80%98Com-bolsonarismo-na-oposi%C3%A7%C3%A3o-STF-est%C3%A1-numa-arapuca-sem-fim%E2%80%99)
-- [‘Jet lag’: os poemas de um inspirador da Tropicália](https://www.nexojornal.com.br/estante/trechos/2023/02/03/%E2%80%98Jet-lag%E2%80%99-os-poemas-de-um-inspirador-da-Tropic%C3%A1lia)
-- [4 novos colunistas começam a publicar no ‘Nexo’ em fevereiro](https://www.nexojornal.com.br/expresso/2023/02/03/4-novos-colunistas-come%C3%A7am-a-publicar-no-%E2%80%98Nexo%E2%80%99-em-fevereiro)
-- [A vida no rio Madeira após as hidrelétricas, segundo quem mora lá](https://www.nexojornal.com.br/externo/2023/02/03/A-vida-no-rio-Madeira-ap%C3%B3s-as-hidrel%C3%A9tricas-segundo-quem-mora-l%C3%A1)
+- [Qual a relevância dos 100 dias iniciais de um governo](https://www.nexojornal.com.br/expresso/2023/02/04/Qual-a-relev%C3%A2ncia-dos-100-dias-iniciais-de-um-governo)
+- [Espanha e Marrocos: do Saara Ocidental à retomada das relações](https://www.nexojornal.com.br/expresso/2023/02/04/Espanha-e-Marrocos-do-Saara-Ocidental-%C3%A0-retomada-das-rela%C3%A7%C3%B5es)
+- [É difícil mudar o mundo: o modernismo de Mário de Andrade](https://www.nexojornal.com.br/ensaio/2023/02/04/%C3%89-dif%C3%ADcil-mudar-o-mundo-o-modernismo-de-M%C3%A1rio-de-Andrade)
+- [5 livros para fazer um jornalismo feminista e antirracista](https://www.nexojornal.com.br/estante/favoritos/2023/02/04/5-livros-para-fazer-um-jornalismo-feminista-e-antirracista)
+- [Os aplausos e críticas à caridade do maior youtuber do mundo](https://www.nexojornal.com.br/expresso/2023/02/04/Os-aplausos-e-cr%C3%ADticas-%C3%A0-caridade-do-maior-youtuber-do-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
