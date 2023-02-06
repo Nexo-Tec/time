@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Política Nacional de Saúde da População Negra deve ser prioridade no novo governo](https://pp.nexojornal.com.br/opiniao/2023/Pol%C3%ADtica-Nacional-de-Sa%C3%BAde-da-Popula%C3%A7%C3%A3o-Negra-deve-ser-prioridade-no-novo-governo)
-- [Como as políticas públicas podem reduzir os riscos vivenciados pelas mães adolescentes](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-as-pol%C3%ADticas-p%C3%BAblicas-podem-reduzir-os-riscos-vivenciados-pelas-m%C3%A3es-adolescentes)
 - [Um mapa da identidade religiosa dos deputados e deputadas federais empossados](https://pp.nexojornal.com.br/opiniao/2023/Um-mapa-da-identidade-religiosa-dos-deputados-e-deputadas-federais-empossados)
 - [Desigualdades socioeconômicas e acesso a cuidados de saúde e a medicamentos no Brasil](https://pp.nexojornal.com.br/academico/2023/Desigualdades-socioecon%C3%B4micas-e-acesso-a-cuidados-de-sa%C3%BAde-e-a-medicamentos-no-Brasil)
 - [A cota de solidariedade no Plano Diretor de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cota-de-solidariedade-no-Plano-Diretor-de-S%C3%A3o-Paulo)
+- [Evasão de cotistas e não cotistas nas universidades federais brasileiras](https://pp.nexojornal.com.br/opiniao/2023/Evas%C3%A3o-de-cotistas-e-n%C3%A3o-cotistas-nas-universidades-federais-brasileiras)
+- [Pluralismo e dissenso: por que a liberdade acadêmica importa para a democracia e incomoda líderes autoritários?](https://pp.nexojornal.com.br/opiniao/2023/Pluralismo-e-dissenso-por-que-a-liberdade-acad%C3%AAmica-importa-para-a-democracia-e-incomoda-l%C3%ADderes-autorit%C3%A1rios)
 <!-- PP_LIST:END -->
 
