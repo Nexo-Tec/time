@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o lugar do governo de Roraima na crise yanomami](https://www.nexojornal.com.br/expresso/2023/02/05/Qual-o-lugar-do-governo-de-Roraima-na-crise-yanomami)
-- [As críticas de Lula aos juros altos. E o debate por trás delas](https://www.nexojornal.com.br/expresso/2023/02/05/As-cr%C3%ADticas-de-Lula-aos-juros-altos.-E-o-debate-por-tr%C3%A1s-delas)
-- [Incêndios florestais no Chile deixam pelo menos 24 mortos](https://www.nexojornal.com.br/extra/2023/02/05/Inc%C3%AAndios-florestais-no-Chile-deixam-pelo-menos-24-mortos)
 - [Rayssa Leal é campeã em torneio mundial de skate street](https://www.nexojornal.com.br/extra/2023/02/05/Rayssa-Leal-%C3%A9-campe%C3%A3-em-torneio-mundial-de-skate-street)
 - [Qual a relevância dos 100 dias iniciais de um governo](https://www.nexojornal.com.br/expresso/2023/02/04/Qual-a-relev%C3%A2ncia-dos-100-dias-iniciais-de-um-governo)
+- [Espanha e Marrocos: do Saara Ocidental à retomada das relações](https://www.nexojornal.com.br/expresso/2023/02/04/Espanha-e-Marrocos-do-Saara-Ocidental-%C3%A0-retomada-das-rela%C3%A7%C3%B5es)
+- [É difícil mudar o mundo: o modernismo de Mário de Andrade](https://www.nexojornal.com.br/ensaio/2023/02/04/%C3%89-dif%C3%ADcil-mudar-o-mundo-o-modernismo-de-M%C3%A1rio-de-Andrade)
+- [5 livros para fazer um jornalismo feminista e antirracista](https://www.nexojornal.com.br/estante/favoritos/2023/02/04/5-livros-para-fazer-um-jornalismo-feminista-e-antirracista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
