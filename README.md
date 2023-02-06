@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vereadora cassada por acusar grupo de nazismo vai recorrer](https://www.nexojornal.com.br/extra/2023/02/06/Vereadora-cassada-por-acusar-grupo-de-nazismo-vai-recorrer)
-- [Garimpeiros mataram 3 jovens yanomami, diz liderança](https://www.nexojornal.com.br/extra/2023/02/06/Garimpeiros-mataram-3-jovens-yanomami-diz-lideran%C3%A7a)
-- [Bombeiros encontram 6 mortos em naufrágio na Baía de Guanabara](https://www.nexojornal.com.br/extra/2023/02/06/Bombeiros-encontram-6-mortos-em-naufr%C3%A1gio-na-Ba%C3%ADa-de-Guanabara)
-- [Como ninhos artificiais ajudam a recuperar araras-azuis](https://www.nexojornal.com.br/externo/2023/02/06/Como-ninhos-artificiais-ajudam-a-recuperar-araras-azuis)
-- [Terremoto mata mais de 2.350 pessoas na Turquia e na Síria](https://www.nexojornal.com.br/extra/2023/02/06/Terremoto-mata-mais-de-2.350-pessoas-na-Turquia-e-na-S%C3%ADria)
+- [Qual o lugar do governo de Roraima na crise yanomami](https://www.nexojornal.com.br/expresso/2023/02/05/Qual-o-lugar-do-governo-de-Roraima-na-crise-yanomami)
+- [As críticas de Lula aos juros altos. E o debate por trás delas](https://www.nexojornal.com.br/expresso/2023/02/05/As-cr%C3%ADticas-de-Lula-aos-juros-altos.-E-o-debate-por-tr%C3%A1s-delas)
+- [Incêndios florestais no Chile deixam pelo menos 24 mortos](https://www.nexojornal.com.br/extra/2023/02/05/Inc%C3%AAndios-florestais-no-Chile-deixam-pelo-menos-24-mortos)
+- [Rayssa Leal é campeã em torneio mundial de skate street](https://www.nexojornal.com.br/extra/2023/02/05/Rayssa-Leal-%C3%A9-campe%C3%A3-em-torneio-mundial-de-skate-street)
+- [Qual a relevância dos 100 dias iniciais de um governo](https://www.nexojornal.com.br/expresso/2023/02/04/Qual-a-relev%C3%A2ncia-dos-100-dias-iniciais-de-um-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
