@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes determina reativação de perfis de Carla Zambelli](https://www.nexojornal.com.br/extra/2023/02/06/Moraes-determina-reativa%C3%A7%C3%A3o-de-perfis-de-Carla-Zambelli)
+- [Lula chama atos golpistas de ‘revolta dos ricos’](https://www.nexojornal.com.br/extra/2023/02/06/Lula-chama-atos-golpistas-de-%E2%80%98revolta-dos-ricos%E2%80%99)
+- [Monogamia: das origens aos novos questionamentos](https://www.nexojornal.com.br/explicado/2023/02/06/Monogamia-das-origens-aos-novos-questionamentos)
 - [Vereadora cassada por acusar grupo de nazismo vai recorrer](https://www.nexojornal.com.br/extra/2023/02/06/Vereadora-cassada-por-acusar-grupo-de-nazismo-vai-recorrer)
 - [Garimpeiros mataram 3 jovens yanomami, diz liderança](https://www.nexojornal.com.br/extra/2023/02/06/Garimpeiros-mataram-3-jovens-yanomami-diz-lideran%C3%A7a)
-- [Bombeiros encontram 6 mortos em naufrágio na Baía de Guanabara](https://www.nexojornal.com.br/extra/2023/02/06/Bombeiros-encontram-6-mortos-em-naufr%C3%A1gio-na-Ba%C3%ADa-de-Guanabara)
-- [Como ninhos artificiais ajudam a recuperar araras-azuis](https://www.nexojornal.com.br/externo/2023/02/06/Como-ninhos-artificiais-ajudam-a-recuperar-araras-azuis)
-- [Terremoto mata mais de 2.350 pessoas na Turquia e na Síria](https://www.nexojornal.com.br/extra/2023/02/06/Terremoto-mata-mais-de-2.350-pessoas-na-Turquia-e-na-S%C3%ADria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
