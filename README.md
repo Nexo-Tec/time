@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os impactos do desequilíbrio de gênero na música](https://www.nexojornal.com.br/externo/2023/02/06/Os-impactos-do-desequil%C3%ADbrio-de-g%C3%AAnero-na-m%C3%BAsica)
-- [Google anuncia inteligência artificial semelhante ao ChatGPT](https://www.nexojornal.com.br/extra/2023/02/06/Google-anuncia-intelig%C3%AAncia-artificial-semelhante-ao-ChatGPT)
-- [O que deve mudar no BNDES com Mercadante no comando](https://www.nexojornal.com.br/expresso/2023/02/06/O-que-deve-mudar-no-BNDES-com-Mercadante-no-comando)
-- [Os impactos da saída dos garimpeiros da área Yanomami](https://www.nexojornal.com.br/expresso/2023/02/06/Os-impactos-da-sa%C3%ADda-dos-garimpeiros-da-%C3%A1rea-Yanomami)
-- [A destruição causada pelo terremoto na Turquia e na Síria](https://www.nexojornal.com.br/podcast/2023/02/06/A-destrui%C3%A7%C3%A3o-causada-pelo-terremoto-na-Turquia-e-na-S%C3%ADria)
+- [Vereadora cassada por acusar grupo de nazismo vai recorrer](https://www.nexojornal.com.br/extra/2023/02/06/Vereadora-cassada-por-acusar-grupo-de-nazismo-vai-recorrer)
+- [Garimpeiros mataram 3 jovens yanomami, diz liderança](https://www.nexojornal.com.br/extra/2023/02/06/Garimpeiros-mataram-3-jovens-yanomami-diz-lideran%C3%A7a)
+- [Bombeiros encontram 6 mortos em naufrágio na Baía de Guanabara](https://www.nexojornal.com.br/extra/2023/02/06/Bombeiros-encontram-6-mortos-em-naufr%C3%A1gio-na-Ba%C3%ADa-de-Guanabara)
+- [Como ninhos artificiais ajudam a recuperar araras-azuis](https://www.nexojornal.com.br/externo/2023/02/06/Como-ninhos-artificiais-ajudam-a-recuperar-araras-azuis)
+- [Terremoto mata mais de 2.350 pessoas na Turquia e na Síria](https://www.nexojornal.com.br/extra/2023/02/06/Terremoto-mata-mais-de-2.350-pessoas-na-Turquia-e-na-S%C3%ADria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
