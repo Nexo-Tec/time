@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A suposta agressividade de Tina e as dinâmicas do policiamento de tom](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-suposta-agressividade-de-tina-e-as-dinamicas-do-policiamento-de-tom/)
 - [Como encontrar seu estilo na moda](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-encontrar-seu-estilo-na-moda/)
 - [@zoe_poulis](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/zoe_poulis/)
 - [Jamila Jorge Ferrari: “Os crimes contra mulher envolvem muita violência”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jamila-jorge-ferrari-os-crimes-contra-mulher-envolvem-muita-violencia/)
 - [Friday Black](https://gamarevista.uol.com.br/cultura/trecho-de-livro/friday-black/)
-- [De repente 13](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/de-repente-13/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
