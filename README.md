@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Biden defende política econômica em discurso sobre o Estado da União](https://www.nexojornal.com.br/extra/2023/02/08/Biden-defende-pol%C3%ADtica-econ%C3%B4mica-em-discurso-sobre-o-Estado-da-Uni%C3%A3o)
+- [LeBron James se torna o maior pontuador da história da NBA](https://www.nexojornal.com.br/extra/2023/02/08/LeBron-James-se-torna-o-maior-pontuador-da-hist%C3%B3ria-da-NBA)
 - [Como o Bolsa Família pode ajudar a melhorar a vacinação infantil](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-Bolsa-Fam%C3%ADlia-pode-ajudar-a-melhorar-a-vacina%C3%A7%C3%A3o-infantil)
 - [Como o terremoto se soma ao cenário de crises na Turquia](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-terremoto-se-soma-ao-cen%C3%A1rio-de-crises-na-Turquia)
 - [Quais os cálculos políticos da pressão sobre o Banco Central](https://www.nexojornal.com.br/expresso/2023/02/07/Quais-os-c%C3%A1lculos-pol%C3%ADticos-da-press%C3%A3o-sobre-o-Banco-Central)
-- [Do mar, de dor e de Glória: as mãos negras nas festas da Bahia](https://www.nexojornal.com.br/colunistas/2023/Do-mar-de-dor-e-de-Gl%C3%B3ria-as-m%C3%A3os-negras-nas-festas-da-Bahia)
-- [Lula cobra vigilância de ministros e Senado sobre Campos Neto](https://www.nexojornal.com.br/extra/2023/02/07/Lula-cobra-vigil%C3%A2ncia-de-ministros-e-Senado-sobre-Campos-Neto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
