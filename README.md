@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os impactos do desequilíbrio de gênero na música](https://www.nexojornal.com.br/externo/2023/02/06/Os-impactos-do-desequil%C3%ADbrio-de-g%C3%AAnero-na-m%C3%BAsica)
-- [Google anuncia inteligência artificial semelhante ao ChatGPT](https://www.nexojornal.com.br/extra/2023/02/06/Google-anuncia-intelig%C3%AAncia-artificial-semelhante-ao-ChatGPT)
-- [O que deve mudar no BNDES com Mercadante no comando](https://www.nexojornal.com.br/expresso/2023/02/06/O-que-deve-mudar-no-BNDES-com-Mercadante-no-comando)
-- [Os impactos da saída dos garimpeiros da área Yanomami](https://www.nexojornal.com.br/expresso/2023/02/06/Os-impactos-da-sa%C3%ADda-dos-garimpeiros-da-%C3%A1rea-Yanomami)
-- [A destruição causada pelo terremoto na Turquia e na Síria](https://www.nexojornal.com.br/podcast/2023/02/06/A-destrui%C3%A7%C3%A3o-causada-pelo-terremoto-na-Turquia-e-na-S%C3%ADria)
+- [Como o Bolsa Família pode ajudar a melhorar a vacinação infantil](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-Bolsa-Fam%C3%ADlia-pode-ajudar-a-melhorar-a-vacina%C3%A7%C3%A3o-infantil)
+- [Como o terremoto se soma ao cenário de crises na Turquia](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-terremoto-se-soma-ao-cen%C3%A1rio-de-crises-na-Turquia)
+- [Quais os cálculos políticos da pressão sobre o Banco Central](https://www.nexojornal.com.br/expresso/2023/02/07/Quais-os-c%C3%A1lculos-pol%C3%ADticos-da-press%C3%A3o-sobre-o-Banco-Central)
+- [Do mar, de dor e de Glória: as mãos negras nas festas da Bahia](https://www.nexojornal.com.br/colunistas/2023/Do-mar-de-dor-e-de-Gl%C3%B3ria-as-m%C3%A3os-negras-nas-festas-da-Bahia)
+- [Lula cobra vigilância de ministros e Senado sobre Campos Neto](https://www.nexojornal.com.br/extra/2023/02/07/Lula-cobra-vigil%C3%A2ncia-de-ministros-e-Senado-sobre-Campos-Neto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
