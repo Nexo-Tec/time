@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Pearl”, o terror que virou xodó dos cinéfilos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pearl-o-terror-que-virou-xodo-dos-cinefilos/)
+- [Salman Rushdie fala após ataque](https://gamarevista.uol.com.br/achamos-que-vale/ler/salman-rushdie-fala-apos-ataque/)
+- [As memórias de Ai Weiwei](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-ai-weiwei/)
+- [O novo espaço da galeria HOA, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-espaco-da-galeria-hoa-em-sp/)
 - [A suposta agressividade de Tina e as dinâmicas do policiamento de tom](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-suposta-agressividade-de-tina-e-as-dinamicas-do-policiamento-de-tom/)
-- [Como encontrar seu estilo na moda](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-encontrar-seu-estilo-na-moda/)
-- [@zoe_poulis](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/zoe_poulis/)
-- [Jamila Jorge Ferrari: “Os crimes contra mulher envolvem muita violência”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jamila-jorge-ferrari-os-crimes-contra-mulher-envolvem-muita-violencia/)
-- [Friday Black](https://gamarevista.uol.com.br/cultura/trecho-de-livro/friday-black/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
