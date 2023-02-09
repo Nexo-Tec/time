@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A participação da agricultura familiar na produção agrícola brasileira](https://pp.nexojornal.com.br/Dados/2023/02/08/A-participa%C3%A7%C3%A3o-da-agricultura-familiar-na-produ%C3%A7%C3%A3o-agr%C3%ADcola-brasileira)
+- [Programas de parentalidade no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/08/Programas-de-parentalidade-no-Brasil)
 - [Alimentação saudável e sustentável: qual o seu paradigma?](https://pp.nexojornal.com.br/opiniao/2023/Alimenta%C3%A7%C3%A3o-saud%C3%A1vel-e-sustent%C3%A1vel-qual-o-seu-paradigma)
 - [Os impactos da estatística no protagonismo discente e na interdisciplinaridade na escola](https://pp.nexojornal.com.br/ponto-de-vista/2023/Os-impactos-da-estat%C3%ADstica-no-protagonismo-discente-e-na-interdisciplinaridade-na-escola)
 - [Política Nacional de Saúde da População Negra deve ser prioridade no novo governo](https://pp.nexojornal.com.br/opiniao/2023/Pol%C3%ADtica-Nacional-de-Sa%C3%BAde-da-Popula%C3%A7%C3%A3o-Negra-deve-ser-prioridade-no-novo-governo)
-- [Como as políticas públicas podem reduzir os riscos vivenciados pelas mães adolescentes](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-as-pol%C3%ADticas-p%C3%BAblicas-podem-reduzir-os-riscos-vivenciados-pelas-m%C3%A3es-adolescentes)
-- [Um mapa da identidade religiosa dos deputados e deputadas federais empossados](https://pp.nexojornal.com.br/opiniao/2023/Um-mapa-da-identidade-religiosa-dos-deputados-e-deputadas-federais-empossados)
 <!-- PP_LIST:END -->
 
