@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Bolsa Família pode ajudar a melhorar a vacinação infantil](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-Bolsa-Fam%C3%ADlia-pode-ajudar-a-melhorar-a-vacina%C3%A7%C3%A3o-infantil)
-- [Como o terremoto se soma ao cenário de crises na Turquia](https://www.nexojornal.com.br/expresso/2023/02/07/Como-o-terremoto-se-soma-ao-cen%C3%A1rio-de-crises-na-Turquia)
-- [Quais os cálculos políticos da pressão sobre o Banco Central](https://www.nexojornal.com.br/expresso/2023/02/07/Quais-os-c%C3%A1lculos-pol%C3%ADticos-da-press%C3%A3o-sobre-o-Banco-Central)
-- [Do mar, de dor e de Glória: as mãos negras nas festas da Bahia](https://www.nexojornal.com.br/colunistas/2023/Do-mar-de-dor-e-de-Gl%C3%B3ria-as-m%C3%A3os-negras-nas-festas-da-Bahia)
-- [Lula cobra vigilância de ministros e Senado sobre Campos Neto](https://www.nexojornal.com.br/extra/2023/02/07/Lula-cobra-vigil%C3%A2ncia-de-ministros-e-Senado-sobre-Campos-Neto)
+- [Derrota do Flamengo é 10ª seguida da América do Sul em Mundiais](https://www.nexojornal.com.br/grafico/2023/02/08/Derrota-do-Flamengo-%C3%A9-10%C2%AA-seguida-da-Am%C3%A9rica-do-Sul-em-Mundiais)
+- [Como é formada a cadeia do garimpo na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/02/08/Como-%C3%A9-formada-a-cadeia-do-garimpo-na-terra-Yanomami)
+- [O potencial da planta brasileira que ajuda a tratar o glaucoma](https://www.nexojornal.com.br/expresso/2023/02/08/O-potencial-da-planta-brasileira-que-ajuda-a-tratar-o-glaucoma)
+- [Devemos temer os hormônios na carne? E na soja?](https://www.nexojornal.com.br/colunistas/2023/Devemos-temer-os-horm%C3%B4nios-na-carne-E-na-soja)
+- [A onda de demissões. E o futuro das empresas de tecnologia](https://www.nexojornal.com.br/podcast/2023/02/08/A-onda-de-demiss%C3%B5es.-E-o-futuro-das-empresas-de-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
