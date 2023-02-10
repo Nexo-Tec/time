@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sob Efeito de Plantas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sob-efeito-de-plantas/)
 - [“Pearl”, o terror que virou xodó dos cinéfilos](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pearl-o-terror-que-virou-xodo-dos-cinefilos/)
 - [Salman Rushdie fala após ataque](https://gamarevista.uol.com.br/achamos-que-vale/ler/salman-rushdie-fala-apos-ataque/)
 - [Novo single de Jessie Ware e seu podcast](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novo-single-de-jessie-ware-e-seu-podcast/)
 - [As memórias de Ai Weiwei](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-ai-weiwei/)
-- [O novo espaço da galeria HOA, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-espaco-da-galeria-hoa-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
