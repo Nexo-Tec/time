@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Derrota do Flamengo é 10ª seguida da América do Sul em Mundiais](https://www.nexojornal.com.br/grafico/2023/02/08/Derrota-do-Flamengo-%C3%A9-10%C2%AA-seguida-da-Am%C3%A9rica-do-Sul-em-Mundiais)
-- [Como é formada a cadeia do garimpo na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/02/08/Como-%C3%A9-formada-a-cadeia-do-garimpo-na-terra-Yanomami)
-- [O potencial da planta brasileira que ajuda a tratar o glaucoma](https://www.nexojornal.com.br/expresso/2023/02/08/O-potencial-da-planta-brasileira-que-ajuda-a-tratar-o-glaucoma)
-- [Devemos temer os hormônios na carne? E na soja?](https://www.nexojornal.com.br/colunistas/2023/Devemos-temer-os-horm%C3%B4nios-na-carne-E-na-soja)
-- [A onda de demissões. E o futuro das empresas de tecnologia](https://www.nexojornal.com.br/podcast/2023/02/08/A-onda-de-demiss%C3%B5es.-E-o-futuro-das-empresas-de-tecnologia)
+- [Justiça revoga última prisão domiciliar de Sérgio Cabral](https://www.nexojornal.com.br/extra/2023/02/09/Justi%C3%A7a-revoga-%C3%BAltima-pris%C3%A3o-domiciliar-de-S%C3%A9rgio-Cabral)
+- [A tensão diplomática na ajuda humanitária a Turquia e Síria](https://www.nexojornal.com.br/expresso/2023/02/09/A-tens%C3%A3o-diplom%C3%A1tica-na-ajuda-humanit%C3%A1ria-a-Turquia-e-S%C3%ADria)
+- [Madonna, a velha natural e a pressão pelo ‘padrão’](https://www.nexojornal.com.br/colunistas/2023/Madonna-a-velha-natural-e-a-press%C3%A3o-pelo-%E2%80%98padr%C3%A3o%E2%80%99)
+- [A queda de braço em torno da taxa básica de juros da economia](https://www.nexojornal.com.br/podcast/2023/02/09/A-queda-de-bra%C3%A7o-em-torno-da-taxa-b%C3%A1sica-de-juros-da-economia)
+- [Nicarágua deporta 222 presos políticos para os EUA](https://www.nexojornal.com.br/extra/2023/02/09/Nicar%C3%A1gua-deporta-222-presos-pol%C3%ADticos-para-os-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
