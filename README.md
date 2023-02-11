@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A construção da cidadania indígena no país, na lei e na prática](https://www.nexojornal.com.br/expresso/2023/02/09/A-constru%C3%A7%C3%A3o-da-cidadania-ind%C3%ADgena-no-pa%C3%ADs-na-lei-e-na-pr%C3%A1tica)
-- [A proposta do Senado para regular a inteligência artificial](https://www.nexojornal.com.br/expresso/2023/02/09/A-proposta-do-Senado-para-regular-a-intelig%C3%AAncia-artificial)
-- [Justiça revoga última prisão domiciliar de Sérgio Cabral](https://www.nexojornal.com.br/extra/2023/02/09/Justi%C3%A7a-revoga-%C3%BAltima-pris%C3%A3o-domiciliar-de-S%C3%A9rgio-Cabral)
-- [A tensão diplomática na ajuda humanitária a Turquia e Síria](https://www.nexojornal.com.br/expresso/2023/02/09/A-tens%C3%A3o-diplom%C3%A1tica-na-ajuda-humanit%C3%A1ria-a-Turquia-e-S%C3%ADria)
-- [Madonna, a velha natural e a pressão pelo ‘padrão’](https://www.nexojornal.com.br/colunistas/2023/Madonna-a-velha-natural-e-a-press%C3%A3o-pelo-%E2%80%98padr%C3%A3o%E2%80%99)
+- [A onda de filmes e séries que põem super ricos na berlinda](https://www.nexojornal.com.br/expresso/2023/02/10/A-onda-de-filmes-e-s%C3%A9ries-que-p%C3%B5em-super-ricos-na-berlinda)
+- [Como os aplicativos de apostas incentivam cada vez mais jogos](https://www.nexojornal.com.br/externo/2023/02/10/Como-os-aplicativos-de-apostas-incentivam-cada-vez-mais-jogos)
+- [‘Departamento da especulação’: crise matrimonial em cartas](https://www.nexojornal.com.br/estante/trechos/2023/02/10/%E2%80%98Departamento-da-especula%C3%A7%C3%A3o%E2%80%99-crise-matrimonial-em-cartas)
+- [Em crise energética, África do Sul decreta estado de calamidade](https://www.nexojornal.com.br/extra/2023/02/10/Em-crise-energ%C3%A9tica-%C3%81frica-do-Sul-decreta-estado-de-calamidade)
+- [Por que a taxa básica de juros é tão alta no Brasil](https://www.nexojornal.com.br/expresso/2023/02/10/Por-que-a-taxa-b%C3%A1sica-de-juros-%C3%A9-t%C3%A3o-alta-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
