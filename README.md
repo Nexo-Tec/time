@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O desfile de moda afrofuturista criado com IA](https://www.nexojornal.com.br/expresso/2023/02/11/O-desfile-de-moda-afrofuturista-criado-com-IA)
-- [5 livros para conhecer a picaretagem religiosa](https://www.nexojornal.com.br/estante/favoritos/2023/02/11/5-livros-para-conhecer-a-picaretagem-religiosa)
-- [A perda de habitat que ameaça os macacos brasileiros](https://www.nexojornal.com.br/externo/2023/02/11/A-perda-de-habitat-que-amea%C3%A7a-os-macacos-brasileiros)
-- [‘Mussum deu ao samba uma identidade mais moderna’](https://www.nexojornal.com.br/entrevista/2023/02/11/%E2%80%98Mussum-deu-ao-samba-uma-identidade-mais-moderna%E2%80%99)
-- [A lei paulista contra assédio na balada. E as propostas na Câmara](https://www.nexojornal.com.br/expresso/2023/02/11/A-lei-paulista-contra-ass%C3%A9dio-na-balada.-E-as-propostas-na-C%C3%A2mara)
+- [A onda de filmes e séries que põem super ricos na berlinda](https://www.nexojornal.com.br/expresso/2023/02/10/A-onda-de-filmes-e-s%C3%A9ries-que-p%C3%B5em-super-ricos-na-berlinda)
+- [Como os aplicativos de apostas incentivam cada vez mais jogos](https://www.nexojornal.com.br/externo/2023/02/10/Como-os-aplicativos-de-apostas-incentivam-cada-vez-mais-jogos)
+- [‘Departamento da especulação’: crise matrimonial em cartas](https://www.nexojornal.com.br/estante/trechos/2023/02/10/%E2%80%98Departamento-da-especula%C3%A7%C3%A3o%E2%80%99-crise-matrimonial-em-cartas)
+- [Em crise energética, África do Sul decreta estado de calamidade](https://www.nexojornal.com.br/extra/2023/02/10/Em-crise-energ%C3%A9tica-%C3%81frica-do-Sul-decreta-estado-de-calamidade)
+- [Por que a taxa básica de juros é tão alta no Brasil](https://www.nexojornal.com.br/expresso/2023/02/10/Por-que-a-taxa-b%C3%A1sica-de-juros-%C3%A9-t%C3%A3o-alta-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
