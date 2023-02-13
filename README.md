@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Justiça climática no Brasil: a importância de falar o óbvio e a retomada da força ancestral](https://pp.nexojornal.com.br/opiniao/2023/Justi%C3%A7a-clim%C3%A1tica-no-Brasil-a-import%C3%A2ncia-de-falar-o-%C3%B3bvio-e-a-retomada-da-for%C3%A7a-ancestral)
 - [Somos Amazônia: saberes, desafios e visão de futuro dos povos da floresta](https://pp.nexojornal.com.br/ponto-de-vista/2023/Somos-Amaz%C3%B4nia-saberes-desafios-e-vis%C3%A3o-de-futuro-dos-povos-da-floresta)
 - [A participação da agricultura familiar na produção agrícola brasileira](https://pp.nexojornal.com.br/Dados/2023/02/08/A-participa%C3%A7%C3%A3o-da-agricultura-familiar-na-produ%C3%A7%C3%A3o-agr%C3%ADcola-brasileira)
 - [Programas de parentalidade no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/08/Programas-de-parentalidade-no-Brasil)
 - [Alimentação saudável e sustentável: qual o seu paradigma?](https://pp.nexojornal.com.br/opiniao/2023/Alimenta%C3%A7%C3%A3o-saud%C3%A1vel-e-sustent%C3%A1vel-qual-o-seu-paradigma)
+- [Os impactos da estatística no protagonismo discente e na interdisciplinaridade na escola](https://pp.nexojornal.com.br/ponto-de-vista/2023/Os-impactos-da-estat%C3%ADstica-no-protagonismo-discente-e-na-interdisciplinaridade-na-escola)
 <!-- PP_LIST:END -->
 
