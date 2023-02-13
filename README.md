@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O desfile de moda afrofuturista criado com IA](https://www.nexojornal.com.br/expresso/2023/02/11/O-desfile-de-moda-afrofuturista-criado-com-IA)
-- [5 livros para conhecer a picaretagem religiosa](https://www.nexojornal.com.br/estante/favoritos/2023/02/11/5-livros-para-conhecer-a-picaretagem-religiosa)
-- [A perda de habitat que ameaça os macacos brasileiros](https://www.nexojornal.com.br/externo/2023/02/11/A-perda-de-habitat-que-amea%C3%A7a-os-macacos-brasileiros)
-- [‘Mussum deu ao samba uma identidade mais moderna’](https://www.nexojornal.com.br/entrevista/2023/02/11/%E2%80%98Mussum-deu-ao-samba-uma-identidade-mais-moderna%E2%80%99)
-- [A lei paulista contra assédio na balada. E as propostas na Câmara](https://www.nexojornal.com.br/expresso/2023/02/11/A-lei-paulista-contra-ass%C3%A9dio-na-balada.-E-as-propostas-na-C%C3%A2mara)
+- [Empresa de chocolates Pan pede autofalência à Justiça](https://www.nexojornal.com.br/extra/2023/02/13/Empresa-de-chocolates-Pan-pede-autofal%C3%AAncia-%C3%A0-Justi%C3%A7a)
+- [Americanas revisa lista de credoras e dívida vai a R$ 41,2 bi](https://www.nexojornal.com.br/extra/2023/02/13/Americanas-revisa-lista-de-credoras-e-d%C3%ADvida-vai-a-R-412-bi)
+- [Brasileiros descobrem anel ‘fora do lugar’ em torno de objeto distante do Sistema Solar](https://www.nexojornal.com.br/externo/2023/02/12/Brasileiros-descobrem-anel-%E2%80%98fora-do-lugar%E2%80%99-em-torno-de-objeto-distante-do-Sistema-Solar)
+- [Como as leis de incentivos fiscais ajudam o Brasil](https://www.nexojornal.com.br/ensaio/2023/02/12/Como-as-leis-de-incentivos-fiscais-ajudam-o-Brasil)
+- [Secretaria do Calor: quem lida com o clima das cidades](https://www.nexojornal.com.br/expresso/2023/02/12/Secretaria-do-Calor-quem-lida-com-o-clima-das-cidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
