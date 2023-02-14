@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Campos Neto diz ser contra mudar meta de inflação](https://www.nexojornal.com.br/extra/2023/02/13/Campos-Neto-diz-ser-contra-mudar-meta-de-infla%C3%A7%C3%A3o)
-- [Classe média lidera perda de renda no Brasil durante a pandemia](https://www.nexojornal.com.br/extra/2023/02/13/Classe-m%C3%A9dia-lidera-perda-de-renda-no-Brasil-durante-a-pandemia)
-- [A proposta petista para barrar a ação política dos militares](https://www.nexojornal.com.br/podcast/2023/02/13/A-proposta-petista-para-barrar-a-a%C3%A7%C3%A3o-pol%C3%ADtica-dos-militares)
-- [Pátria ou patriotada: sobre a atualidade de Lima Barreto](https://www.nexojornal.com.br/colunistas/2023/P%C3%A1tria-ou-patriotada-sobre-a-atualidade-de-Lima-Barreto)
-- [Como os ovnis viraram uma questão de segurança nacional](https://www.nexojornal.com.br/expresso/2023/02/13/Como-os-ovnis-viraram-uma-quest%C3%A3o-de-seguran%C3%A7a-nacional)
+- [País registrou 14 milhões de crianças sem renda familiar para comer](https://www.nexojornal.com.br/extra/2023/02/14/Pa%C3%ADs-registrou-14-milh%C3%B5es-de-crian%C3%A7as-sem-renda-familiar-para-comer)
+- [O projeto da ONU para disseminar sistemas de alerta do clima](https://www.nexojornal.com.br/expresso/2023/02/14/O-projeto-da-ONU-para-disseminar-sistemas-de-alerta-do-clima)
+- [Garimpo: grupo é suspeito de movimentar R$ 422 milhões em 5 anos](https://www.nexojornal.com.br/extra/2023/02/14/Garimpo-grupo-%C3%A9-suspeito-de-movimentar-R-422-milh%C3%B5es-em-5-anos)
+- [A redução de emissões de gases estufa pela reciclagem](https://www.nexojornal.com.br/grafico/2023/02/14/A-redu%C3%A7%C3%A3o-de-emiss%C3%B5es-de-gases-estufa-pela-reciclagem)
+- [Invasão dos Poderes: polícia cumpre mais ordens de prisão](https://www.nexojornal.com.br/extra/2023/02/14/Invas%C3%A3o-dos-Poderes-pol%C3%ADcia-cumpre-mais-ordens-de-pris%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
