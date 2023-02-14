@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasileiros descobrem anel ‘fora do lugar’ em torno de objeto distante do Sistema Solar](https://www.nexojornal.com.br/externo/2023/02/12/Brasileiros-descobrem-anel-%E2%80%98fora-do-lugar%E2%80%99-em-torno-de-objeto-distante-do-Sistema-Solar)
-- [Como as leis de incentivos fiscais ajudam o Brasil](https://www.nexojornal.com.br/ensaio/2023/02/12/Como-as-leis-de-incentivos-fiscais-ajudam-o-Brasil)
-- [Secretaria do Calor: quem lida com o clima das cidades](https://www.nexojornal.com.br/expresso/2023/02/12/Secretaria-do-Calor-quem-lida-com-o-clima-das-cidades)
-- [Qual é o tamanho do atraso da discussão tributária brasileira](https://www.nexojornal.com.br/expresso/2023/02/12/Qual-%C3%A9-o-tamanho-do-atraso-da-discuss%C3%A3o-tribut%C3%A1ria-brasileira)
-- [Governo libera acesso de barcos para saída de garimpeiros](https://www.nexojornal.com.br/extra/2023/02/12/Governo-libera-acesso-de-barcos-para-sa%C3%ADda-de-garimpeiros)
+- [Classe média lidera perda de renda no Brasil durante a pandemia](https://www.nexojornal.com.br/extra/2023/02/13/Classe-m%C3%A9dia-lidera-perda-de-renda-no-Brasil-durante-a-pandemia)
+- [A proposta petista para barrar a ação política dos militares](https://www.nexojornal.com.br/podcast/2023/02/13/A-proposta-petista-para-barrar-a-a%C3%A7%C3%A3o-pol%C3%ADtica-dos-militares)
+- [Pátria ou patriotada: sobre a atualidade de Lima Barreto](https://www.nexojornal.com.br/colunistas/2023/P%C3%A1tria-ou-patriotada-sobre-a-atualidade-de-Lima-Barreto)
+- [Como os ovnis viraram uma questão de segurança nacional](https://www.nexojornal.com.br/expresso/2023/02/13/Como-os-ovnis-viraram-uma-quest%C3%A3o-de-seguran%C3%A7a-nacional)
+- [Como funciona o sistema de metas de inflação no Brasil](https://www.nexojornal.com.br/expresso/2023/02/13/Como-funciona-o-sistema-de-metas-de-infla%C3%A7%C3%A3o-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
