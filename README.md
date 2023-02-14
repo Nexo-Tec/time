@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Empresa de chocolates Pan pede autofalência à Justiça](https://www.nexojornal.com.br/extra/2023/02/13/Empresa-de-chocolates-Pan-pede-autofal%C3%AAncia-%C3%A0-Justi%C3%A7a)
+- [Americanas revisa lista de credoras e dívida vai a R$ 41,2 bi](https://www.nexojornal.com.br/extra/2023/02/13/Americanas-revisa-lista-de-credoras-e-d%C3%ADvida-vai-a-R-412-bi)
 - [Brasileiros descobrem anel ‘fora do lugar’ em torno de objeto distante do Sistema Solar](https://www.nexojornal.com.br/externo/2023/02/12/Brasileiros-descobrem-anel-%E2%80%98fora-do-lugar%E2%80%99-em-torno-de-objeto-distante-do-Sistema-Solar)
 - [Como as leis de incentivos fiscais ajudam o Brasil](https://www.nexojornal.com.br/ensaio/2023/02/12/Como-as-leis-de-incentivos-fiscais-ajudam-o-Brasil)
 - [Secretaria do Calor: quem lida com o clima das cidades](https://www.nexojornal.com.br/expresso/2023/02/12/Secretaria-do-Calor-quem-lida-com-o-clima-das-cidades)
-- [Qual é o tamanho do atraso da discussão tributária brasileira](https://www.nexojornal.com.br/expresso/2023/02/12/Qual-%C3%A9-o-tamanho-do-atraso-da-discuss%C3%A3o-tribut%C3%A1ria-brasileira)
-- [Governo libera acesso de barcos para saída de garimpeiros](https://www.nexojornal.com.br/extra/2023/02/12/Governo-libera-acesso-de-barcos-para-sa%C3%ADda-de-garimpeiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
