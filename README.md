@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Classe média lidera perda de renda no Brasil durante a pandemia](https://www.nexojornal.com.br/extra/2023/02/13/Classe-m%C3%A9dia-lidera-perda-de-renda-no-Brasil-durante-a-pandemia)
-- [A proposta petista para barrar a ação política dos militares](https://www.nexojornal.com.br/podcast/2023/02/13/A-proposta-petista-para-barrar-a-a%C3%A7%C3%A3o-pol%C3%ADtica-dos-militares)
-- [Pátria ou patriotada: sobre a atualidade de Lima Barreto](https://www.nexojornal.com.br/colunistas/2023/P%C3%A1tria-ou-patriotada-sobre-a-atualidade-de-Lima-Barreto)
-- [Como os ovnis viraram uma questão de segurança nacional](https://www.nexojornal.com.br/expresso/2023/02/13/Como-os-ovnis-viraram-uma-quest%C3%A3o-de-seguran%C3%A7a-nacional)
-- [Como funciona o sistema de metas de inflação no Brasil](https://www.nexojornal.com.br/expresso/2023/02/13/Como-funciona-o-sistema-de-metas-de-infla%C3%A7%C3%A3o-no-Brasil)
+- [Empresa de chocolates Pan pede autofalência à Justiça](https://www.nexojornal.com.br/extra/2023/02/13/Empresa-de-chocolates-Pan-pede-autofal%C3%AAncia-%C3%A0-Justi%C3%A7a)
+- [Americanas revisa lista de credoras e dívida vai a R$ 41,2 bi](https://www.nexojornal.com.br/extra/2023/02/13/Americanas-revisa-lista-de-credoras-e-d%C3%ADvida-vai-a-R-412-bi)
+- [Brasileiros descobrem anel ‘fora do lugar’ em torno de objeto distante do Sistema Solar](https://www.nexojornal.com.br/externo/2023/02/12/Brasileiros-descobrem-anel-%E2%80%98fora-do-lugar%E2%80%99-em-torno-de-objeto-distante-do-Sistema-Solar)
+- [Como as leis de incentivos fiscais ajudam o Brasil](https://www.nexojornal.com.br/ensaio/2023/02/12/Como-as-leis-de-incentivos-fiscais-ajudam-o-Brasil)
+- [Secretaria do Calor: quem lida com o clima das cidades](https://www.nexojornal.com.br/expresso/2023/02/12/Secretaria-do-Calor-quem-lida-com-o-clima-das-cidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
