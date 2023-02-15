@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [País registrou 14 milhões de crianças sem renda familiar para comer](https://www.nexojornal.com.br/extra/2023/02/14/Pa%C3%ADs-registrou-14-milh%C3%B5es-de-crian%C3%A7as-sem-renda-familiar-para-comer)
-- [O projeto da ONU para disseminar sistemas de alerta do clima](https://www.nexojornal.com.br/expresso/2023/02/14/O-projeto-da-ONU-para-disseminar-sistemas-de-alerta-do-clima)
-- [Garimpo: grupo é suspeito de movimentar R$ 422 milhões em 5 anos](https://www.nexojornal.com.br/extra/2023/02/14/Garimpo-grupo-%C3%A9-suspeito-de-movimentar-R-422-milh%C3%B5es-em-5-anos)
-- [A redução de emissões de gases estufa pela reciclagem](https://www.nexojornal.com.br/grafico/2023/02/14/A-redu%C3%A7%C3%A3o-de-emiss%C3%B5es-de-gases-estufa-pela-reciclagem)
-- [Invasão dos Poderes: polícia cumpre mais ordens de prisão](https://www.nexojornal.com.br/extra/2023/02/14/Invas%C3%A3o-dos-Poderes-pol%C3%ADcia-cumpre-mais-ordens-de-pris%C3%A3o)
+- [Por que russas grávidas estão indo à Argentina para parir](https://www.nexojornal.com.br/expresso/2023/02/14/Por-que-russas-gr%C3%A1vidas-est%C3%A3o-indo-%C3%A0-Argentina-para-parir)
+- [O novo ranking Qualis, ou o retorno da múmia](https://www.nexojornal.com.br/colunistas/2023/O-novo-ranking-Qualis-ou-o-retorno-da-m%C3%BAmia)
+- [Promotores investigam suspeita de fraude em jogos da série B](https://www.nexojornal.com.br/extra/2023/02/14/Promotores-investigam-suspeita-de-fraude-em-jogos-da-s%C3%A9rie-B)
+- [A volta do Minha Casa Minha Vida e a política habitacional no Brasil](https://www.nexojornal.com.br/podcast/2023/02/14/A-volta-do-Minha-Casa-Minha-Vida-e-a-pol%C3%ADtica-habitacional-no-Brasil)
+- [Minha Casa Minha Vida mira famílias com renda de até R$ 2.640](https://www.nexojornal.com.br/extra/2023/02/14/Minha-Casa-Minha-Vida-mira-fam%C3%ADlias-com-renda-de-at%C3%A9-R-2.640)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
