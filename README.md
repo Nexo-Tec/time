@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [CBF estabelece punição por racismo em competições](https://www.nexojornal.com.br/extra/2023/02/15/CBF-estabelece-puni%C3%A7%C3%A3o-por-racismo-em-competi%C3%A7%C3%B5es)
-- [Fux envia à Justiça Eleitoral notícia-crime contra Bolsonaro](https://www.nexojornal.com.br/extra/2023/02/15/Fux-envia-%C3%A0-Justi%C3%A7a-Eleitoral-not%C3%ADcia-crime-contra-Bolsonaro)
-- [Em 2023, imposto de renda completa oito anos sem reajuste](https://www.nexojornal.com.br/grafico/2023/02/15/Em-2023-imposto-de-renda-completa-oito-anos-sem-reajuste)
-- [Qual é o perfil dos maiores bilionários brasileiros](https://www.nexojornal.com.br/expresso/2023/02/15/Qual-%C3%A9-o-perfil-dos-maiores-bilion%C3%A1rios-brasileiros)
-- [Nicola Sturgeon renuncia ao cargo de primeira-ministra da Escócia](https://www.nexojornal.com.br/extra/2023/02/15/Nicola-Sturgeon-renuncia-ao-cargo-de-primeira-ministra-da-Esc%C3%B3cia)
+- [País registrou 14 milhões de crianças sem renda familiar para comer](https://www.nexojornal.com.br/extra/2023/02/14/Pa%C3%ADs-registrou-14-milh%C3%B5es-de-crian%C3%A7as-sem-renda-familiar-para-comer)
+- [O projeto da ONU para disseminar sistemas de alerta do clima](https://www.nexojornal.com.br/expresso/2023/02/14/O-projeto-da-ONU-para-disseminar-sistemas-de-alerta-do-clima)
+- [Garimpo: grupo é suspeito de movimentar R$ 422 milhões em 5 anos](https://www.nexojornal.com.br/extra/2023/02/14/Garimpo-grupo-%C3%A9-suspeito-de-movimentar-R-422-milh%C3%B5es-em-5-anos)
+- [A redução de emissões de gases estufa pela reciclagem](https://www.nexojornal.com.br/grafico/2023/02/14/A-redu%C3%A7%C3%A3o-de-emiss%C3%B5es-de-gases-estufa-pela-reciclagem)
+- [Invasão dos Poderes: polícia cumpre mais ordens de prisão](https://www.nexojornal.com.br/extra/2023/02/14/Invas%C3%A3o-dos-Poderes-pol%C3%ADcia-cumpre-mais-ordens-de-pris%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
