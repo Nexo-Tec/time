@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que russas grávidas estão indo à Argentina para parir](https://www.nexojornal.com.br/expresso/2023/02/14/Por-que-russas-gr%C3%A1vidas-est%C3%A3o-indo-%C3%A0-Argentina-para-parir)
-- [O novo ranking Qualis, ou o retorno da múmia](https://www.nexojornal.com.br/colunistas/2023/O-novo-ranking-Qualis-ou-o-retorno-da-m%C3%BAmia)
-- [Promotores investigam suspeita de fraude em jogos da série B](https://www.nexojornal.com.br/extra/2023/02/14/Promotores-investigam-suspeita-de-fraude-em-jogos-da-s%C3%A9rie-B)
-- [A volta do Minha Casa Minha Vida e a política habitacional no Brasil](https://www.nexojornal.com.br/podcast/2023/02/14/A-volta-do-Minha-Casa-Minha-Vida-e-a-pol%C3%ADtica-habitacional-no-Brasil)
-- [Minha Casa Minha Vida mira famílias com renda de até R$ 2.640](https://www.nexojornal.com.br/extra/2023/02/14/Minha-Casa-Minha-Vida-mira-fam%C3%ADlias-com-renda-de-at%C3%A9-R-2.640)
+- [CBF estabelece punição por racismo em competições](https://www.nexojornal.com.br/extra/2023/02/15/CBF-estabelece-puni%C3%A7%C3%A3o-por-racismo-em-competi%C3%A7%C3%B5es)
+- [Fux envia à Justiça Eleitoral notícia-crime contra Bolsonaro](https://www.nexojornal.com.br/extra/2023/02/15/Fux-envia-%C3%A0-Justi%C3%A7a-Eleitoral-not%C3%ADcia-crime-contra-Bolsonaro)
+- [Em 2023, imposto de renda completa oito anos sem reajuste](https://www.nexojornal.com.br/grafico/2023/02/15/Em-2023-imposto-de-renda-completa-oito-anos-sem-reajuste)
+- [Qual é o perfil dos maiores bilionários brasileiros](https://www.nexojornal.com.br/expresso/2023/02/15/Qual-%C3%A9-o-perfil-dos-maiores-bilion%C3%A1rios-brasileiros)
+- [Nicola Sturgeon renuncia ao cargo de primeira-ministra da Escócia](https://www.nexojornal.com.br/extra/2023/02/15/Nicola-Sturgeon-renuncia-ao-cargo-de-primeira-ministra-da-Esc%C3%B3cia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
