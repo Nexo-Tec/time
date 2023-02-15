@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Veronica Stigger](https://gamarevista.uol.com.br/pessoas/questionario-proust/veronica-stigger/)
 - [Paetê](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/paete/)
 - [@paollaoliveirareal](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/paollaoliveirareal/)
 - [Thyago Nogueira: “A imagem ainda tem um papel político de visibilidade muito forte”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thyago-nogueira-a-imagem-ainda-tem-um-papel-politico-de-visibilidade-muito-forte/)
 - [Um novo rosto](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-novo-rosto/)
-- [Sob Efeito de Plantas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sob-efeito-de-plantas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
