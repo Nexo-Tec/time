@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Campos Neto diz ser contra mudar meta de inflação](https://www.nexojornal.com.br/extra/2023/02/13/Campos-Neto-diz-ser-contra-mudar-meta-de-infla%C3%A7%C3%A3o)
-- [Classe média lidera perda de renda no Brasil durante a pandemia](https://www.nexojornal.com.br/extra/2023/02/13/Classe-m%C3%A9dia-lidera-perda-de-renda-no-Brasil-durante-a-pandemia)
-- [A proposta petista para barrar a ação política dos militares](https://www.nexojornal.com.br/podcast/2023/02/13/A-proposta-petista-para-barrar-a-a%C3%A7%C3%A3o-pol%C3%ADtica-dos-militares)
-- [Pátria ou patriotada: sobre a atualidade de Lima Barreto](https://www.nexojornal.com.br/colunistas/2023/P%C3%A1tria-ou-patriotada-sobre-a-atualidade-de-Lima-Barreto)
-- [Como os ovnis viraram uma questão de segurança nacional](https://www.nexojornal.com.br/expresso/2023/02/13/Como-os-ovnis-viraram-uma-quest%C3%A3o-de-seguran%C3%A7a-nacional)
+- [Por que russas grávidas estão indo à Argentina para parir](https://www.nexojornal.com.br/expresso/2023/02/14/Por-que-russas-gr%C3%A1vidas-est%C3%A3o-indo-%C3%A0-Argentina-para-parir)
+- [O novo ranking Qualis, ou o retorno da múmia](https://www.nexojornal.com.br/colunistas/2023/O-novo-ranking-Qualis-ou-o-retorno-da-m%C3%BAmia)
+- [Promotores investigam suspeita de fraude em jogos da série B](https://www.nexojornal.com.br/extra/2023/02/14/Promotores-investigam-suspeita-de-fraude-em-jogos-da-s%C3%A9rie-B)
+- [A volta do Minha Casa Minha Vida e a política habitacional no Brasil](https://www.nexojornal.com.br/podcast/2023/02/14/A-volta-do-Minha-Casa-Minha-Vida-e-a-pol%C3%ADtica-habitacional-no-Brasil)
+- [Minha Casa Minha Vida mira famílias com renda de até R$ 2.640](https://www.nexojornal.com.br/extra/2023/02/14/Minha-Casa-Minha-Vida-mira-fam%C3%ADlias-com-renda-de-at%C3%A9-R-2.640)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
