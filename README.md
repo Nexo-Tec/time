@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Veronica Stigger](https://gamarevista.uol.com.br/pessoas/questionario-proust/veronica-stigger/)
-- [Paetê](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/paete/)
-- [@paollaoliveirareal](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/paollaoliveirareal/)
-- [Thyago Nogueira: “A imagem ainda tem um papel político de visibilidade muito forte”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thyago-nogueira-a-imagem-ainda-tem-um-papel-politico-de-visibilidade-muito-forte/)
-- [Um novo rosto](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-novo-rosto/)
+- [Beth Carvalho em dose dupla](https://gamarevista.uol.com.br/achamos-que-vale/ler/beth-carvalho-em-dose-dupla/)
+- [Petiscos carnavalescos do Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/petiscos-carnavalescos-do-panelinha/)
+- [Playlists para esquentar os tamborins](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlists-para-esquentar-os-tamborins/)
+- [A difícil realidade de quem pega transporte público no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-dificil-realidade-de-quem-pega-transporte-publico-no-brasil/)
+- [Nova temporada de “Ancestrais do Futuro”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nova-temporada-de-ancestrais-do-futuro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
