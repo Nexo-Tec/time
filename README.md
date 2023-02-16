@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [‘A gente cuida do universo, para que o céu não caia outra vez’](https://pp.nexojornal.com.br/topico/2023/02/15/%E2%80%98A-gente-cuida-do-universo-para-que-o-c%C3%A9u-n%C3%A3o-caia-outra-vez%E2%80%99)
-- [Gustavo Moraes: educação profissional e tecnológica](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/02/15/Gustavo-Moraes-educa%C3%A7%C3%A3o-profissional-e-tecnol%C3%B3gica)
 - [Legislações de enfrentamento à violência política de gênero na América Latina](https://pp.nexojornal.com.br/linha-do-tempo/2023/Legisla%C3%A7%C3%B5es-de-enfrentamento-%C3%A0-viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero-na-Am%C3%A9rica-Latina)
 - [Justiça climática no Brasil: a importância de falar o óbvio e a retomada da força ancestral](https://pp.nexojornal.com.br/opiniao/2023/Justi%C3%A7a-clim%C3%A1tica-no-Brasil-a-import%C3%A2ncia-de-falar-o-%C3%B3bvio-e-a-retomada-da-for%C3%A7a-ancestral)
 - [Somos Amazônia: saberes, desafios e visão de futuro dos povos da floresta](https://pp.nexojornal.com.br/ponto-de-vista/2023/Somos-Amaz%C3%B4nia-saberes-desafios-e-vis%C3%A3o-de-futuro-dos-povos-da-floresta)
+- [A participação da agricultura familiar na produção agrícola brasileira](https://pp.nexojornal.com.br/Dados/2023/02/08/A-participa%C3%A7%C3%A3o-da-agricultura-familiar-na-produ%C3%A7%C3%A3o-agr%C3%ADcola-brasileira)
+- [Programas de parentalidade no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/08/Programas-de-parentalidade-no-Brasil)
 <!-- PP_LIST:END -->
 
