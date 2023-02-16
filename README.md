@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo autoriza apreensão de passaporte e CNH por dívidas](https://www.nexojornal.com.br/extra/2023/02/16/Supremo-autoriza-apreens%C3%A3o-de-passaporte-e-CNH-por-d%C3%ADvidas)
-- [Como as igrejas pentecostais influenciam seus fiéis](https://www.nexojornal.com.br/academico/2023/02/15/Como-as-igrejas-pentecostais-influenciam-seus-fi%C3%A9is)
-- [Proteja-se, este filme pode ganhar alguns Oscar](https://www.nexojornal.com.br/colunistas/2023/Proteja-se-este-filme-pode-ganhar-alguns-Oscar)
-- [Quais as lacunas na implementação do novo ensino médio](https://www.nexojornal.com.br/expresso/2023/02/15/Quais-as-lacunas-na-implementa%C3%A7%C3%A3o-do-novo-ensino-m%C3%A9dio)
-- [Fundo Amazônia: o que a retomada pode fazer pela floresta](https://www.nexojornal.com.br/podcast/2023/02/15/Fundo-Amaz%C3%B4nia-o-que-a-retomada-pode-fazer-pela-floresta)
+- [Haddad diz que nova regra fiscal será anunciada em março](https://www.nexojornal.com.br/extra/2023/02/15/Haddad-diz-que-nova-regra-fiscal-ser%C3%A1-anunciada-em-mar%C3%A7o)
+- [Justiça bloqueia R$ 2 bilhões por contrabando de ouro](https://www.nexojornal.com.br/extra/2023/02/15/Justi%C3%A7a-bloqueia-R-2-bilh%C3%B5es-por-contrabando-de-ouro)
+- [CBF estabelece punição por racismo em competições](https://www.nexojornal.com.br/extra/2023/02/15/CBF-estabelece-puni%C3%A7%C3%A3o-por-racismo-em-competi%C3%A7%C3%B5es)
+- [Fux envia à Justiça Eleitoral notícia-crime contra Bolsonaro](https://www.nexojornal.com.br/extra/2023/02/15/Fux-envia-%C3%A0-Justi%C3%A7a-Eleitoral-not%C3%ADcia-crime-contra-Bolsonaro)
+- [Em 2023, imposto de renda completa oito anos sem reajuste](https://www.nexojornal.com.br/grafico/2023/02/15/Em-2023-imposto-de-renda-completa-oito-anos-sem-reajuste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
