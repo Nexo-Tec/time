@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cura pelas Palavras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cura-pelas-palavras/)
 - [Beth Carvalho em dose dupla](https://gamarevista.uol.com.br/achamos-que-vale/ler/beth-carvalho-em-dose-dupla/)
 - [Petiscos carnavalescos do Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/petiscos-carnavalescos-do-panelinha/)
 - [Playlists para esquentar os tamborins](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlists-para-esquentar-os-tamborins/)
 - [A difícil realidade de quem pega transporte público no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-dificil-realidade-de-quem-pega-transporte-publico-no-brasil/)
-- [Nova temporada de “Ancestrais do Futuro”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nova-temporada-de-ancestrais-do-futuro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
