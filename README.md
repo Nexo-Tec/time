@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os guias que tentam ensinar ‘como se pula Carnaval’](https://www.nexojornal.com.br/expresso/2023/02/17/Os-guias-que-tentam-ensinar-%E2%80%98como-se-pula-Carnaval%E2%80%99)
-- [Ministério da Saúde vai parar de divulgar dados diários da covid-19](https://www.nexojornal.com.br/extra/2023/02/17/Minist%C3%A9rio-da-Sa%C3%BAde-vai-parar-de-divulgar-dados-di%C3%A1rios-da-covid-19)
-- [Portugal acaba com visto gold para frear especulação imobiliária](https://www.nexojornal.com.br/extra/2023/02/17/Portugal-acaba-com-visto-gold-para-frear-especula%C3%A7%C3%A3o-imobili%C3%A1ria)
 - [A manobra de Ortega para tornar seus opositores apátridas](https://www.nexojornal.com.br/expresso/2023/02/16/A-manobra-de-Ortega-para-tornar-seus-opositores-ap%C3%A1tridas)
 - [Biden diz que ovnis abatidos por EUA não eram para espionagem](https://www.nexojornal.com.br/extra/2023/02/16/Biden-diz-que-ovnis-abatidos-por-EUA-n%C3%A3o-eram-para-espionagem)
+- [Estamos enredados: como tornar as redes mais seguras?](https://www.nexojornal.com.br/colunistas/2023/Estamos-enredados-como-tornar-as-redes-mais-seguras)
+- [A tecnologia que quer popularizar carros elétricos](https://www.nexojornal.com.br/expresso/2023/02/16/A-tecnologia-que-quer-popularizar-carros-el%C3%A9tricos)
+- [Congresso espanhol aprova lei que cria licença menstrual](https://www.nexojornal.com.br/extra/2023/02/16/Congresso-espanhol-aprova-lei-que-cria-licen%C3%A7a-menstrual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
