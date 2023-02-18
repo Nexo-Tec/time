@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A manobra de Ortega para tornar seus opositores apátridas](https://www.nexojornal.com.br/expresso/2023/02/16/A-manobra-de-Ortega-para-tornar-seus-opositores-ap%C3%A1tridas)
-- [Biden diz que ovnis abatidos por EUA não eram para espionagem](https://www.nexojornal.com.br/extra/2023/02/16/Biden-diz-que-ovnis-abatidos-por-EUA-n%C3%A3o-eram-para-espionagem)
-- [Estamos enredados: como tornar as redes mais seguras?](https://www.nexojornal.com.br/colunistas/2023/Estamos-enredados-como-tornar-as-redes-mais-seguras)
-- [A tecnologia que quer popularizar carros elétricos](https://www.nexojornal.com.br/expresso/2023/02/16/A-tecnologia-que-quer-popularizar-carros-el%C3%A9tricos)
-- [Congresso espanhol aprova lei que cria licença menstrual](https://www.nexojornal.com.br/extra/2023/02/16/Congresso-espanhol-aprova-lei-que-cria-licen%C3%A7a-menstrual)
+- [Os planos europeus para canalizar energia diretamente do Sol](https://www.nexojornal.com.br/expresso/2023/02/17/Os-planos-europeus-para-canalizar-energia-diretamente-do-Sol)
+- [‘Eleições 2022’: ensaios sobre a reconstrução do Brasil](https://www.nexojornal.com.br/estante/trechos/2023/02/17/%E2%80%98Elei%C3%A7%C3%B5es-2022%E2%80%99-ensaios-sobre-a-reconstru%C3%A7%C3%A3o-do-Brasil)
+- [100 anos da Portela: as temáticas dos sambas da escola carioca](https://www.nexojornal.com.br/expresso/2023/02/17/100-anos-da-Portela-as-tem%C3%A1ticas-dos-sambas-da-escola-carioca)
+- [Escolas de samba apostam em homenagens e temas sociais](https://www.nexojornal.com.br/extra/2023/02/17/Escolas-de-samba-apostam-em-homenagens-e-temas-sociais)
+- [Risco fiscal no Brasil de 2023: exagero ou realidade?](https://www.nexojornal.com.br/expresso/2023/02/17/Risco-fiscal-no-Brasil-de-2023-exagero-ou-realidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
