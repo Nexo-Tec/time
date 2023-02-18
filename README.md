@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os planos europeus para canalizar energia diretamente do Sol](https://www.nexojornal.com.br/expresso/2023/02/17/Os-planos-europeus-para-canalizar-energia-diretamente-do-Sol)
-- [‘Eleições 2022’: ensaios sobre a reconstrução do Brasil](https://www.nexojornal.com.br/estante/trechos/2023/02/17/%E2%80%98Elei%C3%A7%C3%B5es-2022%E2%80%99-ensaios-sobre-a-reconstru%C3%A7%C3%A3o-do-Brasil)
-- [100 anos da Portela: as temáticas dos sambas da escola carioca](https://www.nexojornal.com.br/expresso/2023/02/17/100-anos-da-Portela-as-tem%C3%A1ticas-dos-sambas-da-escola-carioca)
-- [Escolas de samba apostam em homenagens e temas sociais](https://www.nexojornal.com.br/extra/2023/02/17/Escolas-de-samba-apostam-em-homenagens-e-temas-sociais)
-- [Risco fiscal no Brasil de 2023: exagero ou realidade?](https://www.nexojornal.com.br/expresso/2023/02/17/Risco-fiscal-no-Brasil-de-2023-exagero-ou-realidade)
+- [Os guias que tentam ensinar ‘como se pula Carnaval’](https://www.nexojornal.com.br/expresso/2023/02/17/Os-guias-que-tentam-ensinar-%E2%80%98como-se-pula-Carnaval%E2%80%99)
+- [Ministério da Saúde vai parar de divulgar dados diários da covid-19](https://www.nexojornal.com.br/extra/2023/02/17/Minist%C3%A9rio-da-Sa%C3%BAde-vai-parar-de-divulgar-dados-di%C3%A1rios-da-covid-19)
+- [Portugal acaba com visto gold para frear especulação imobiliária](https://www.nexojornal.com.br/extra/2023/02/17/Portugal-acaba-com-visto-gold-para-frear-especula%C3%A7%C3%A3o-imobili%C3%A1ria)
+- [A manobra de Ortega para tornar seus opositores apátridas](https://www.nexojornal.com.br/expresso/2023/02/16/A-manobra-de-Ortega-para-tornar-seus-opositores-ap%C3%A1tridas)
+- [Biden diz que ovnis abatidos por EUA não eram para espionagem](https://www.nexojornal.com.br/extra/2023/02/16/Biden-diz-que-ovnis-abatidos-por-EUA-n%C3%A3o-eram-para-espionagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
