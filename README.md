@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministro do Supremo encerra investigações contra Lula](https://www.nexojornal.com.br/extra/2023/02/18/Ministro-do-Supremo-encerra-investiga%C3%A7%C3%B5es-contra-Lula)
-- [Como uma Amazônia armada agrava a insegurança na região](https://www.nexojornal.com.br/expresso/2023/02/17/Como-uma-Amaz%C3%B4nia-armada-agrava-a-inseguran%C3%A7a-na-regi%C3%A3o1)
 - [Os planos europeus para canalizar energia diretamente do Sol](https://www.nexojornal.com.br/expresso/2023/02/17/Os-planos-europeus-para-canalizar-energia-diretamente-do-Sol)
 - [‘Eleições 2022’: ensaios sobre a reconstrução do Brasil](https://www.nexojornal.com.br/estante/trechos/2023/02/17/%E2%80%98Elei%C3%A7%C3%B5es-2022%E2%80%99-ensaios-sobre-a-reconstru%C3%A7%C3%A3o-do-Brasil)
 - [100 anos da Portela: as temáticas dos sambas da escola carioca](https://www.nexojornal.com.br/expresso/2023/02/17/100-anos-da-Portela-as-tem%C3%A1ticas-dos-sambas-da-escola-carioca)
+- [Escolas de samba apostam em homenagens e temas sociais](https://www.nexojornal.com.br/extra/2023/02/17/Escolas-de-samba-apostam-em-homenagens-e-temas-sociais)
+- [Risco fiscal no Brasil de 2023: exagero ou realidade?](https://www.nexojornal.com.br/expresso/2023/02/17/Risco-fiscal-no-Brasil-de-2023-exagero-ou-realidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
