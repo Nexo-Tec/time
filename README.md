@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ministro do Supremo encerra investigações contra Lula](https://www.nexojornal.com.br/extra/2023/02/18/Ministro-do-Supremo-encerra-investiga%C3%A7%C3%B5es-contra-Lula)
-- [Como uma Amazônia armada agrava a insegurança na região](https://www.nexojornal.com.br/expresso/2023/02/17/Como-uma-Amaz%C3%B4nia-armada-agrava-a-inseguran%C3%A7a-na-regi%C3%A3o1)
-- [Os planos europeus para canalizar energia diretamente do Sol](https://www.nexojornal.com.br/expresso/2023/02/17/Os-planos-europeus-para-canalizar-energia-diretamente-do-Sol)
-- [‘Eleições 2022’: ensaios sobre a reconstrução do Brasil](https://www.nexojornal.com.br/estante/trechos/2023/02/17/%E2%80%98Elei%C3%A7%C3%B5es-2022%E2%80%99-ensaios-sobre-a-reconstru%C3%A7%C3%A3o-do-Brasil)
-- [100 anos da Portela: as temáticas dos sambas da escola carioca](https://www.nexojornal.com.br/expresso/2023/02/17/100-anos-da-Portela-as-tem%C3%A1ticas-dos-sambas-da-escola-carioca)
+- [5 livros para entender as desigualdades brasileiras](https://www.nexojornal.com.br/estante/favoritos/2023/02/18/5-livros-para-entender-as-desigualdades-brasileiras)
+- [As cidades nos EUA que buscam reduzir o número de garagens](https://www.nexojornal.com.br/externo/2023/02/18/As-cidades-nos-EUA-que-buscam-reduzir-o-n%C3%BAmero-de-garagens)
+- [O que diz a nova legislação de direitos trans da Espanha](https://www.nexojornal.com.br/expresso/2023/02/18/O-que-diz-a-nova-legisla%C3%A7%C3%A3o-de-direitos-trans-da-Espanha)
+- [Publicidade e poder público: novas diretrizes para o setor](https://www.nexojornal.com.br/ensaio/2023/02/18/Publicidade-e-poder-p%C3%BAblico-novas-diretrizes-para-o-setor)
+- [A violência contra indígenas no Brasil, de FHC a Bolsonaro](https://www.nexojornal.com.br/expresso/2023/02/18/A-viol%C3%AAncia-contra-ind%C3%ADgenas-no-Brasil-de-FHC-a-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
