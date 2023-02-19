@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Temporais causam mortes e interdições no litoral norte paulista](https://www.nexojornal.com.br/extra/2023/02/19/Temporais-causam-mortes-e-interdi%C3%A7%C3%B5es-no-litoral-norte-paulista)
 - [5 livros para entender as desigualdades brasileiras](https://www.nexojornal.com.br/estante/favoritos/2023/02/18/5-livros-para-entender-as-desigualdades-brasileiras)
 - [As cidades nos EUA que buscam reduzir o número de garagens](https://www.nexojornal.com.br/externo/2023/02/18/As-cidades-nos-EUA-que-buscam-reduzir-o-n%C3%BAmero-de-garagens)
 - [O que diz a nova legislação de direitos trans da Espanha](https://www.nexojornal.com.br/expresso/2023/02/18/O-que-diz-a-nova-legisla%C3%A7%C3%A3o-de-direitos-trans-da-Espanha)
 - [Publicidade e poder público: novas diretrizes para o setor](https://www.nexojornal.com.br/ensaio/2023/02/18/Publicidade-e-poder-p%C3%BAblico-novas-diretrizes-para-o-setor)
-- [A violência contra indígenas no Brasil, de FHC a Bolsonaro](https://www.nexojornal.com.br/expresso/2023/02/18/A-viol%C3%AAncia-contra-ind%C3%ADgenas-no-Brasil-de-FHC-a-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
