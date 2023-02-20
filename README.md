@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para entender as desigualdades brasileiras](https://www.nexojornal.com.br/estante/favoritos/2023/02/18/5-livros-para-entender-as-desigualdades-brasileiras)
-- [As cidades nos EUA que buscam reduzir o número de garagens](https://www.nexojornal.com.br/externo/2023/02/18/As-cidades-nos-EUA-que-buscam-reduzir-o-n%C3%BAmero-de-garagens)
-- [O que diz a nova legislação de direitos trans da Espanha](https://www.nexojornal.com.br/expresso/2023/02/18/O-que-diz-a-nova-legisla%C3%A7%C3%A3o-de-direitos-trans-da-Espanha)
-- [Publicidade e poder público: novas diretrizes para o setor](https://www.nexojornal.com.br/ensaio/2023/02/18/Publicidade-e-poder-p%C3%BAblico-novas-diretrizes-para-o-setor)
-- [A violência contra indígenas no Brasil, de FHC a Bolsonaro](https://www.nexojornal.com.br/expresso/2023/02/18/A-viol%C3%AAncia-contra-ind%C3%ADgenas-no-Brasil-de-FHC-a-Bolsonaro)
+- [A intermitência de uma ilusão: o Ocidente e a guerra na Ucrânia](https://www.nexojornal.com.br/ensaio/2023/02/19/A-intermit%C3%AAncia-de-uma-ilus%C3%A3o-o-Ocidente-e-a-guerra-na-Ucr%C3%A2nia)
+- [Yanomami: origem, história, práticas e visões de mundo](https://www.nexojornal.com.br/expresso/2023/02/19/Yanomami-origem-hist%C3%B3ria-pr%C3%A1ticas-e-vis%C3%B5es-de-mundo)
+- [O que explica a tensão entre setores do agronegócio e Lula](https://www.nexojornal.com.br/expresso/2023/02/19/O-que-explica-a-tens%C3%A3o-entre-setores-do-agroneg%C3%B3cio-e-Lula)
+- [Tragédia no litoral norte de SP: por que as chuvas são tão mortais](https://www.nexojornal.com.br/expresso/2023/02/19/Trag%C3%A9dia-no-litoral-norte-de-SP-por-que-as-chuvas-s%C3%A3o-t%C3%A3o-mortais)
+- [Chuvas intensas no litoral norte deixam ao menos 36 mortos](https://www.nexojornal.com.br/extra/2023/02/19/Chuvas-intensas-no-litoral-norte-deixam-ao-menos-36-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
