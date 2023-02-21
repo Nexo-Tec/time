@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A intermitência de uma ilusão: o Ocidente e a guerra na Ucrânia](https://www.nexojornal.com.br/ensaio/2023/02/19/A-intermit%C3%AAncia-de-uma-ilus%C3%A3o-o-Ocidente-e-a-guerra-na-Ucr%C3%A2nia)
-- [Yanomami: origem, história, práticas e visões de mundo](https://www.nexojornal.com.br/expresso/2023/02/19/Yanomami-origem-hist%C3%B3ria-pr%C3%A1ticas-e-vis%C3%B5es-de-mundo)
-- [O que explica a tensão entre setores do agronegócio e Lula](https://www.nexojornal.com.br/expresso/2023/02/19/O-que-explica-a-tens%C3%A3o-entre-setores-do-agroneg%C3%B3cio-e-Lula)
-- [Tragédia no litoral norte de SP: por que as chuvas são tão mortais](https://www.nexojornal.com.br/expresso/2023/02/19/Trag%C3%A9dia-no-litoral-norte-de-SP-por-que-as-chuvas-s%C3%A3o-t%C3%A3o-mortais)
-- [Chuvas intensas no litoral norte deixam ao menos 36 mortos](https://www.nexojornal.com.br/extra/2023/02/19/Chuvas-intensas-no-litoral-norte-deixam-ao-menos-36-mortos)
+- [‘Trabalho precisa ser feito antes da chegada da chuva’](https://www.nexojornal.com.br/entrevista/2023/02/20/%E2%80%98Trabalho-precisa-ser-feito-antes-da-chegada-da-chuva%E2%80%99)
+- [Como o retrofuturismo aparece em ‘Hello Tomorrow’](https://www.nexojornal.com.br/expresso/2023/02/20/Como-o-retrofuturismo-aparece-em-%E2%80%98Hello-Tomorrow%E2%80%99)
+- [A expedição para entender o sumiço de antas na Caatinga](https://www.nexojornal.com.br/externo/2023/02/20/A-expedi%C3%A7%C3%A3o-para-entender-o-sumi%C3%A7o-de-antas-na-Caatinga)
+- [Um site para saber quais substâncias não podem se misturar](https://www.nexojornal.com.br/expresso/2023/02/20/Um-site-para-saber-quais-subst%C3%A2ncias-n%C3%A3o-podem-se-misturar)
+- [As cotas e nós: os impactos da política para o Brasil](https://www.nexojornal.com.br/colunistas/2023/As-cotas-e-n%C3%B3s-os-impactos-da-pol%C3%ADtica-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
