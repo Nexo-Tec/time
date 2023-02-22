@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Menor’: uma expressão extinta que reapareceu na Câmara](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Menor%E2%80%99-uma-express%C3%A3o-extinta-que-reapareceu-na-C%C3%A2mara)
-- [Um ano de guerra na Ucrânia. E a pressão sobre o Brasil](https://www.nexojornal.com.br/expresso/2023/02/21/Um-ano-de-guerra-na-Ucr%C3%A2nia.-E-a-press%C3%A3o-sobre-o-Brasil)
-- [Mocidade Alegre vence Carnaval de São Paulo e é campeã pela 11ª vez](https://www.nexojornal.com.br/extra/2023/02/21/Mocidade-Alegre-vence-Carnaval-de-S%C3%A3o-Paulo-e-%C3%A9-campe%C3%A3-pela-11%C2%AA-vez)
-- [Putin suspende acordo nuclear e culpa ‘elites ocidentais’ pela guerra](https://www.nexojornal.com.br/extra/2023/02/21/Putin-suspende-acordo-nuclear-e-culpa-%E2%80%98elites-ocidentais%E2%80%99-pela-guerra)
 - [‘Trabalho precisa ser feito antes da chegada da chuva’](https://www.nexojornal.com.br/entrevista/2023/02/20/%E2%80%98Trabalho-precisa-ser-feito-antes-da-chegada-da-chuva%E2%80%99)
+- [Como o retrofuturismo aparece em ‘Hello Tomorrow’](https://www.nexojornal.com.br/expresso/2023/02/20/Como-o-retrofuturismo-aparece-em-%E2%80%98Hello-Tomorrow%E2%80%99)
+- [A expedição para entender o sumiço de antas na Caatinga](https://www.nexojornal.com.br/externo/2023/02/20/A-expedi%C3%A7%C3%A3o-para-entender-o-sumi%C3%A7o-de-antas-na-Caatinga)
+- [Um site para saber quais substâncias não podem se misturar](https://www.nexojornal.com.br/expresso/2023/02/20/Um-site-para-saber-quais-subst%C3%A2ncias-n%C3%A3o-podem-se-misturar)
+- [As cotas e nós: os impactos da política para o Brasil](https://www.nexojornal.com.br/colunistas/2023/As-cotas-e-n%C3%B3s-os-impactos-da-pol%C3%ADtica-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
