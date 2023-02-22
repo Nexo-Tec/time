@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sabe aquela comida que é um abraço? Lasanha de cebola roxa e gorgonzola](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/receita-vegetariana-lasanha-de-cebola-roxa-e-gorgonzola/)
 - [@mstmarkinhos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mstmarkinhos/)
 - [André Alves: “As redes sociais mostram momentos idealizados ao máximo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andre-alves-as-midias-sociais-sao-incubadoras-da-inveja/)
 - [Cura pelas Palavras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cura-pelas-palavras/)
 - [Beth Carvalho em dose dupla](https://gamarevista.uol.com.br/achamos-que-vale/ler/beth-carvalho-em-dose-dupla/)
-- [Petiscos carnavalescos do Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/petiscos-carnavalescos-do-panelinha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
