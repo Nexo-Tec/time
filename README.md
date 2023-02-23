@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Sabe aquela comida que é um abraço? Lasanha de cebola roxa e gorgonzola](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/receita-vegetariana-lasanha-de-cebola-roxa-e-gorgonzola/)
-- [@mstmarkinhos](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/mstmarkinhos/)
-- [André Alves: “As redes sociais mostram momentos idealizados ao máximo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andre-alves-as-midias-sociais-sao-incubadoras-da-inveja/)
-- [Cura pelas Palavras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cura-pelas-palavras/)
-- [Beth Carvalho em dose dupla](https://gamarevista.uol.com.br/achamos-que-vale/ler/beth-carvalho-em-dose-dupla/)
+- [Fantasia futurista e política nacional nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fantasia-futurista-e-politica-nacional-nos-cinemas/)
+- [A nova balada folk-trap de Lana del Rey](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-balada-folk-trap-de-lana-del-rey/)
+- [Museus que tratam da escravidão e do legado do povo negro](https://gamarevista.uol.com.br/achamos-que-vale/ir/museus-que-tratam-da-escravidao-e-do-legado-do-povo-negro/)
+- [Precisamos falar de merda](https://gamarevista.uol.com.br/colunistas/marcello-dantas/precisamos-falar-de-merda/)
+- [O retorno de Brendan Fraser em ‘A Baleia’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-retorno-de-brendan-fraser-em-a-baleia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
