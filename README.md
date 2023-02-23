@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que move as eleições da Nigéria, país mais populoso da África](https://www.nexojornal.com.br/expresso/2023/02/22/O-que-move-as-elei%C3%A7%C3%B5es-da-Nig%C3%A9ria-pa%C3%ADs-mais-populoso-da-%C3%81frica)
-- [Como Lula se apoia na PEC da Transição no início do governo](https://www.nexojornal.com.br/expresso/2023/02/22/Como-Lula-se-apoia-na-PEC-da-Transi%C3%A7%C3%A3o-no-in%C3%ADcio-do-governo)
-- [4 milhões vivem em área de alto risco de deslizamento](https://www.nexojornal.com.br/extra/2023/02/22/4-milh%C3%B5es-vivem-em-%C3%A1rea-de-alto-risco-de-deslizamento)
-- [Como luto, amparo e ganância se misturam no litoral norte de SP](https://www.nexojornal.com.br/podcast/2023/02/22/Como-luto-amparo-e-gan%C3%A2ncia-se-misturam-no-litoral-norte-de-SP)
-- [Esfera metálica achada em praia do Japão continua um mistério](https://www.nexojornal.com.br/extra/2023/02/22/Esfera-met%C3%A1lica-achada-em-praia-do-Jap%C3%A3o-continua-um-mist%C3%A9rio)
+- [‘Menor’: uma expressão extinta que reapareceu na Câmara](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Menor%E2%80%99-uma-express%C3%A3o-extinta-que-reapareceu-na-C%C3%A2mara)
+- [Um ano de guerra na Ucrânia. E a pressão sobre o Brasil](https://www.nexojornal.com.br/expresso/2023/02/21/Um-ano-de-guerra-na-Ucr%C3%A2nia.-E-a-press%C3%A3o-sobre-o-Brasil)
+- [Mocidade Alegre vence Carnaval de São Paulo e é campeã pela 11ª vez](https://www.nexojornal.com.br/extra/2023/02/21/Mocidade-Alegre-vence-Carnaval-de-S%C3%A3o-Paulo-e-%C3%A9-campe%C3%A3-pela-11%C2%AA-vez)
+- [Putin suspende acordo nuclear e culpa ‘elites ocidentais’ pela guerra](https://www.nexojornal.com.br/extra/2023/02/21/Putin-suspende-acordo-nuclear-e-culpa-%E2%80%98elites-ocidentais%E2%80%99-pela-guerra)
+- [‘Trabalho precisa ser feito antes da chegada da chuva’](https://www.nexojornal.com.br/entrevista/2023/02/20/%E2%80%98Trabalho-precisa-ser-feito-antes-da-chegada-da-chuva%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
