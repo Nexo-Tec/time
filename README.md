@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Fortalecimento ambiental e da sustentabilidade no Brasil: o papel do BNDES](https://pp.nexojornal.com.br/opiniao/2023/Fortalecimento-ambiental-e-da-sustentabilidade-no-Brasil-o-papel-do-BNDES)
 - [Pesquisadores analisam vulnerabilidades do estado de São Paulo causadas pelas mudanças climáticas](https://pp.nexojornal.com.br/topico/2023/02/17/Pesquisadores-analisam-vulnerabilidades-do-estado-de-S%C3%A3o-Paulo-causadas-pelas-mudan%C3%A7as-clim%C3%A1ticas)
 - [Gentrificação verde](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/17/Gentrifica%C3%A7%C3%A3o-verde)
 - [A paz como ideologia: crítica da violência em W. E. B. Du Bois](https://pp.nexojornal.com.br/opiniao/2023/A-paz-como-ideologia-cr%C3%ADtica-da-viol%C3%AAncia-em-W.-E.-B.-Du-Bois)
 - [Carnaval e espaço público](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/17/Carnaval-e-espa%C3%A7o-p%C3%BAblico)
+- [‘A gente cuida do universo, para que o céu não caia outra vez’](https://pp.nexojornal.com.br/topico/2023/02/15/%E2%80%98A-gente-cuida-do-universo-para-que-o-c%C3%A9u-n%C3%A3o-caia-outra-vez%E2%80%99)
 <!-- PP_LIST:END -->
 
