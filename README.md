@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Base federal no território Yanomami é alvo de atentado](https://www.nexojornal.com.br/extra/2023/02/24/Base-federal-no-territ%C3%B3rio-Yanomami-%C3%A9-alvo-de-atentado)
 - [Por que a tragédia no litoral paulista era evitável](https://www.nexojornal.com.br/expresso/2023/02/23/Por-que-a-trag%C3%A9dia-no-litoral-paulista-era-evit%C3%A1vel)
 - [Os tipos de carne mais produzidos e os maiores produtores](https://www.nexojornal.com.br/grafico/2023/02/23/Os-tipos-de-carne-mais-produzidos-e-os-maiores-produtores)
 - [Reparação para evitar tragédias como a do litoral norte](https://www.nexojornal.com.br/colunistas/2023/Repara%C3%A7%C3%A3o-para-evitar-trag%C3%A9dias-como-a-do-litoral-norte)
 - [Como a Guerra na Ucrânia expõe urgências do século 21](https://www.nexojornal.com.br/podcast/2023/02/23/Como-a-Guerra-na-Ucr%C3%A2nia-exp%C3%B5e-urg%C3%AAncias-do-s%C3%A9culo-21)
-- [Oscar 2023: Academia cria ‘comitê de crise’ para cerimônia](https://www.nexojornal.com.br/extra/2023/02/23/Oscar-2023-Academia-cria-%E2%80%98comit%C3%AA-de-crise%E2%80%99-para-cerim%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
