@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que ainda não dá para dizer que Neruda foi envenenado](https://www.nexojornal.com.br/expresso/2023/02/23/Por-que-ainda-n%C3%A3o-d%C3%A1-para-dizer-que-Neruda-foi-envenenado)
+- [Agência autoriza trem-bala ligando Rio e São Paulo](https://www.nexojornal.com.br/extra/2023/02/23/Ag%C3%AAncia-autoriza-trem-bala-ligando-Rio-e-S%C3%A3o-Paulo)
+- [Brasil suspende exportação de carne à China por caso de vaca louca](https://www.nexojornal.com.br/extra/2023/02/23/Brasil-suspende-exporta%C3%A7%C3%A3o-de-carne-%C3%A0-China-por-caso-de-vaca-louca)
 - [O que move as eleições da Nigéria, país mais populoso da África](https://www.nexojornal.com.br/expresso/2023/02/22/O-que-move-as-elei%C3%A7%C3%B5es-da-Nig%C3%A9ria-pa%C3%ADs-mais-populoso-da-%C3%81frica)
 - [Como Lula se apoia na PEC da Transição no início do governo](https://www.nexojornal.com.br/expresso/2023/02/22/Como-Lula-se-apoia-na-PEC-da-Transi%C3%A7%C3%A3o-no-in%C3%ADcio-do-governo)
-- [4 milhões vivem em área de alto risco de deslizamento](https://www.nexojornal.com.br/extra/2023/02/22/4-milh%C3%B5es-vivem-em-%C3%A1rea-de-alto-risco-de-deslizamento)
-- [Como luto, amparo e ganância se misturam no litoral norte de SP](https://www.nexojornal.com.br/podcast/2023/02/22/Como-luto-amparo-e-gan%C3%A2ncia-se-misturam-no-litoral-norte-de-SP)
-- [Esfera metálica achada em praia do Japão continua um mistério](https://www.nexojornal.com.br/extra/2023/02/22/Esfera-met%C3%A1lica-achada-em-praia-do-Jap%C3%A3o-continua-um-mist%C3%A9rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
