@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Vida Secreta das Emoções](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vida-secreta-das-emocoes/)
 - [Fantasia futurista e política nacional nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fantasia-futurista-e-politica-nacional-nos-cinemas/)
 - [A nova balada folk-trap de Lana del Rey](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-balada-folk-trap-de-lana-del-rey/)
 - [Museus que tratam da escravidão e do legado do povo negro](https://gamarevista.uol.com.br/achamos-que-vale/ir/museus-que-tratam-da-escravidao-e-do-legado-do-povo-negro/)
 - [Precisamos falar de merda](https://gamarevista.uol.com.br/colunistas/marcello-dantas/precisamos-falar-de-merda/)
-- [O retorno de Brendan Fraser em ‘A Baleia’](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-retorno-de-brendan-fraser-em-a-baleia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
