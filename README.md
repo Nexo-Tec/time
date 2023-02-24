@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Ô, abram alas ao cordão dos excluídos: racismo ambiental e as tragédias anunciadas do litoral norte de São Paulo](https://pp.nexojornal.com.br/opiniao/2023/%C3%94-abram-alas-ao-cord%C3%A3o-dos-exclu%C3%ADdos-racismo-ambiental-e-as-trag%C3%A9dias-anunciadas-do-litoral-norte-de-S%C3%A3o-Paulo)
 - [Fortalecimento ambiental e da sustentabilidade no Brasil: o papel do BNDES](https://pp.nexojornal.com.br/opiniao/2023/Fortalecimento-ambiental-e-da-sustentabilidade-no-Brasil-o-papel-do-BNDES)
 - [Pesquisadores analisam vulnerabilidades do estado de São Paulo causadas pelas mudanças climáticas](https://pp.nexojornal.com.br/topico/2023/02/17/Pesquisadores-analisam-vulnerabilidades-do-estado-de-S%C3%A3o-Paulo-causadas-pelas-mudan%C3%A7as-clim%C3%A1ticas)
 - [Gentrificação verde](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/17/Gentrifica%C3%A7%C3%A3o-verde)
 - [A paz como ideologia: crítica da violência em W. E. B. Du Bois](https://pp.nexojornal.com.br/opiniao/2023/A-paz-como-ideologia-cr%C3%ADtica-da-viol%C3%AAncia-em-W.-E.-B.-Du-Bois)
-- [Carnaval e espaço público](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/17/Carnaval-e-espa%C3%A7o-p%C3%BAblico)
 <!-- PP_LIST:END -->
 
