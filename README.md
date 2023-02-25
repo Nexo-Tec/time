@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Grupo de moradores se opôs a habitações populares em Maresias](https://www.nexojornal.com.br/extra/2023/02/25/Grupo-de-moradores-se-op%C3%B4s-a-habita%C3%A7%C3%B5es-populares-em-Maresias)
 - [O que o governo federal propõe para evitar novos desastres](https://www.nexojornal.com.br/expresso/2023/02/24/O-que-o-governo-federal-prop%C3%B5e-para-evitar-novos-desastres)
 - [Quais são as chances de Robinho cumprir pena no Brasil](https://www.nexojornal.com.br/expresso/2023/02/24/Quais-s%C3%A3o-as-chances-de-Robinho-cumprir-pena-no-Brasil)
 - [7 canais de jornalismo produzido diretamente da Amazônia](https://www.nexojornal.com.br/expresso/2023/02/24/7-canais-de-jornalismo-produzido-diretamente-da-Amaz%C3%B4nia)
 - [O locutor de rádio personalizado de inteligência artificial](https://www.nexojornal.com.br/expresso/2023/02/24/O-locutor-de-r%C3%A1dio-personalizado-de-intelig%C3%AAncia-artificial)
+- [‘A fronteira’: uma viagem ao redor da Rússia](https://www.nexojornal.com.br/estante/trechos/2023/02/24/%E2%80%98A-fronteira%E2%80%99-uma-viagem-ao-redor-da-R%C3%BAssia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
