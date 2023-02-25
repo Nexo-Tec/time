@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 1,5 milhão serão excluídos do Bolsa Família](https://www.nexojornal.com.br/extra/2023/02/24/Mais-de-15-milh%C3%A3o-ser%C3%A3o-exclu%C3%ADdos-do-Bolsa-Fam%C3%ADlia)
-- [Londres é escolhida a melhor cidade do mundo para viver](https://www.nexojornal.com.br/extra/2023/02/24/Londres-%C3%A9-escolhida-a-melhor-cidade-do-mundo-para-viver)
-- [Uma rara descoberta de pau-brasil selvagem numa trilha carioca](https://www.nexojornal.com.br/externo/2023/02/24/Uma-rara-descoberta-de-pau-brasil-selvagem-numa-trilha-carioca)
-- [Número de mortos no litoral norte de SP chega a 54](https://www.nexojornal.com.br/extra/2023/02/24/N%C3%BAmero-de-mortos-no-litoral-norte-de-SP-chega-a-54)
-- [Amazônia tem recorde de alertas de desmate em fevereiro](https://www.nexojornal.com.br/extra/2023/02/24/Amaz%C3%B4nia-tem-recorde-de-alertas-de-desmate-em-fevereiro)
+- [O que o governo federal propõe para evitar novos desastres](https://www.nexojornal.com.br/expresso/2023/02/24/O-que-o-governo-federal-prop%C3%B5e-para-evitar-novos-desastres)
+- [Quais são as chances de Robinho cumprir pena no Brasil](https://www.nexojornal.com.br/expresso/2023/02/24/Quais-s%C3%A3o-as-chances-de-Robinho-cumprir-pena-no-Brasil)
+- [7 canais de jornalismo produzido diretamente da Amazônia](https://www.nexojornal.com.br/expresso/2023/02/24/7-canais-de-jornalismo-produzido-diretamente-da-Amaz%C3%B4nia)
+- [O locutor de rádio personalizado de inteligência artificial](https://www.nexojornal.com.br/expresso/2023/02/24/O-locutor-de-r%C3%A1dio-personalizado-de-intelig%C3%AAncia-artificial)
+- [‘A fronteira’: uma viagem ao redor da Rússia](https://www.nexojornal.com.br/estante/trechos/2023/02/24/%E2%80%98A-fronteira%E2%80%99-uma-viagem-ao-redor-da-R%C3%BAssia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
