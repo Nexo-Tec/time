@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Para onde vai a política de saúde mental no novo governo?](https://pp.nexojornal.com.br/opiniao/2023/Para-onde-vai-a-pol%C3%ADtica-de-sa%C3%BAde-mental-no-novo-governo)
+- [A religião e a confessionalidade da Câmara eleita em 2022](https://pp.nexojornal.com.br/Dados/2023/02/23/A-religi%C3%A3o-e-a-confessionalidade-da-C%C3%A2mara-eleita-em-2022)
 - [Cabe ao Estado liderar a transformação dos sistemas alimentares](https://pp.nexojornal.com.br/opiniao/2023/Cabe-ao-Estado-liderar-a-transforma%C3%A7%C3%A3o-dos-sistemas-alimentares)
 - [Emergência de políticas públicas para mulheres: desafios das novas gestões](https://pp.nexojornal.com.br/ponto-de-vista/2023/Emerg%C3%AAncia-de-pol%C3%ADticas-p%C3%BAblicas-para-mulheres-desafios-das-novas-gest%C3%B5es)
 - [O que dizem evidências científicas sobre a eficácia da bonificação de professores](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-dizem-evid%C3%AAncias-cient%C3%ADficas-sobre-a-efic%C3%A1cia-da-bonifica%C3%A7%C3%A3o-de-professores)
-- [Ô, abram alas ao cordão dos excluídos: racismo ambiental e as tragédias anunciadas do litoral norte de São Paulo](https://pp.nexojornal.com.br/opiniao/2023/%C3%94-abram-alas-ao-cord%C3%A3o-dos-exclu%C3%ADdos-racismo-ambiental-e-as-trag%C3%A9dias-anunciadas-do-litoral-norte-de-S%C3%A3o-Paulo)
-- [Fortalecimento ambiental e da sustentabilidade no Brasil: o papel do BNDES](https://pp.nexojornal.com.br/opiniao/2023/Fortalecimento-ambiental-e-da-sustentabilidade-no-Brasil-o-papel-do-BNDES)
 <!-- PP_LIST:END -->
 
