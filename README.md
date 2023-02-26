@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ibama multa Torres após encontrar 60 aves silvestres em sua casa](https://www.nexojornal.com.br/extra/2023/02/25/Ibama-multa-Torres-ap%C3%B3s-encontrar-60-aves-silvestres-em-sua-casa)
-- [Grupo de moradores se opôs a habitações populares em Maresias](https://www.nexojornal.com.br/extra/2023/02/25/Grupo-de-moradores-se-op%C3%B4s-a-habita%C3%A7%C3%B5es-populares-em-Maresias)
-- [O que o governo federal propõe para evitar novos desastres](https://www.nexojornal.com.br/expresso/2023/02/24/O-que-o-governo-federal-prop%C3%B5e-para-evitar-novos-desastres)
-- [Quais são as chances de Robinho cumprir pena no Brasil](https://www.nexojornal.com.br/expresso/2023/02/24/Quais-s%C3%A3o-as-chances-de-Robinho-cumprir-pena-no-Brasil)
-- [7 canais de jornalismo produzido diretamente da Amazônia](https://www.nexojornal.com.br/expresso/2023/02/24/7-canais-de-jornalismo-produzido-diretamente-da-Amaz%C3%B4nia)
+- [A volta de Bill Watterson após 28 anos fora das HQs](https://www.nexojornal.com.br/expresso/2023/02/26/A-volta-de-Bill-Watterson-ap%C3%B3s-28-anos-fora-das-HQs)
+- [5 livros para repensar o capitalismo, da produção ao consumo](https://www.nexojornal.com.br/estante/favoritos/2023/02/26/5-livros-para-repensar-o-capitalismo-da-produ%C3%A7%C3%A3o-ao-consumo)
+- [O papel da Fox News na conspiração eleitoral de Trump](https://www.nexojornal.com.br/expresso/2023/02/26/O-papel-da-Fox-News-na-conspira%C3%A7%C3%A3o-eleitoral-de-Trump)
+- [Democracia defensiva: o mecanismo contra golpistas](https://www.nexojornal.com.br/ensaio/2023/02/26/Democracia-defensiva-o-mecanismo-contra-golpistas)
+- [A Terra Yanomami um mês após o decreto de emergência sanitária](https://www.nexojornal.com.br/externo/2023/02/26/A-Terra-Yanomami-um-m%C3%AAs-ap%C3%B3s-o-decreto-de-emerg%C3%AAncia-sanit%C3%A1ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
