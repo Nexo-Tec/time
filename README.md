@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A volta de Bill Watterson após 28 anos fora das HQs](https://www.nexojornal.com.br/expresso/2023/02/26/A-volta-de-Bill-Watterson-ap%C3%B3s-28-anos-fora-das-HQs)
-- [5 livros para repensar o capitalismo, da produção ao consumo](https://www.nexojornal.com.br/estante/favoritos/2023/02/26/5-livros-para-repensar-o-capitalismo-da-produ%C3%A7%C3%A3o-ao-consumo)
-- [O papel da Fox News na conspiração eleitoral de Trump](https://www.nexojornal.com.br/expresso/2023/02/26/O-papel-da-Fox-News-na-conspira%C3%A7%C3%A3o-eleitoral-de-Trump)
-- [Democracia defensiva: o mecanismo contra golpistas](https://www.nexojornal.com.br/ensaio/2023/02/26/Democracia-defensiva-o-mecanismo-contra-golpistas)
-- [A Terra Yanomami um mês após o decreto de emergência sanitária](https://www.nexojornal.com.br/externo/2023/02/26/A-Terra-Yanomami-um-m%C3%AAs-ap%C3%B3s-o-decreto-de-emerg%C3%AAncia-sanit%C3%A1ria)
+- [O que o governo federal propõe para evitar novos desastres](https://www.nexojornal.com.br/expresso/2023/02/24/O-que-o-governo-federal-prop%C3%B5e-para-evitar-novos-desastres)
+- [Quais são as chances de Robinho cumprir pena no Brasil](https://www.nexojornal.com.br/expresso/2023/02/24/Quais-s%C3%A3o-as-chances-de-Robinho-cumprir-pena-no-Brasil)
+- [7 canais de jornalismo produzido diretamente da Amazônia](https://www.nexojornal.com.br/expresso/2023/02/24/7-canais-de-jornalismo-produzido-diretamente-da-Amaz%C3%B4nia)
+- [O locutor de rádio personalizado de inteligência artificial](https://www.nexojornal.com.br/expresso/2023/02/24/O-locutor-de-r%C3%A1dio-personalizado-de-intelig%C3%AAncia-artificial)
+- [‘A fronteira’: uma viagem ao redor da Rússia](https://www.nexojornal.com.br/estante/trechos/2023/02/24/%E2%80%98A-fronteira%E2%80%99-uma-viagem-ao-redor-da-R%C3%BAssia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
