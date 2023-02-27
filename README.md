@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Não se faz mais tempo como antigamente](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-se-faz-mais-tempo-como-antigamente/)
+- [@pedronapolinario](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pedronapolinario/)
 - [Denise Fraga: “A arte existe para nos libertar da mediocridade da vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/denise-fraga-fala-do-poder-de-contar-uma-historia-de-vida/)
 - [Como ler um rótulo de vinho &lpar;e parar de sofrer no supermercado&rpar;](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-ler-um-rotulo-de-vinho-e-parar-de-sofrer-no-supermercado/)
 - [A Vida Secreta das Emoções](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vida-secreta-das-emocoes/)
-- [Fantasia futurista e política nacional nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fantasia-futurista-e-politica-nacional-nos-cinemas/)
-- [A nova balada folk-trap de Lana del Rey](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-balada-folk-trap-de-lana-del-rey/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
