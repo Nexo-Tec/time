@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Receita divulga regras do Imposto de Renda 2023](https://www.nexojornal.com.br/extra/2023/02/27/Receita-divulga-regras-do-Imposto-de-Renda-2023)
-- [Vacina bivalente contra a covid-19 começa a ser aplicada](https://www.nexojornal.com.br/extra/2023/02/27/Vacina-bivalente-contra-a-covid-19-come%C3%A7a-a-ser-aplicada)
-- [Expedições a regiões profundas do mar brasileiro revelam novos ambientes e espécies](https://www.nexojornal.com.br/externo/2023/02/26/Expedi%C3%A7%C3%B5es-a-regi%C3%B5es-profundas-do-mar-brasileiro-revelam-novos-ambientes-e-esp%C3%A9cies)
-- [A tragédia Yanomami e a falta de uma economia da floresta](https://www.nexojornal.com.br/colunistas/2023/A-trag%C3%A9dia-Yanomami-e-a-falta-de-uma-economia-da-floresta)
-- [Por que mercado e governo temem uma crise de crédito no país](https://www.nexojornal.com.br/expresso/2023/02/26/Por-que-mercado-e-governo-temem-uma-crise-de-cr%C3%A9dito-no-pa%C3%ADs)
+- [Naufrágio mata dezenas de migrantes que rumavam à Itália](https://www.nexojornal.com.br/extra/2023/02/26/Naufr%C3%A1gio-mata-dezenas-de-migrantes-que-rumavam-%C3%A0-It%C3%A1lia)
+- [A volta de Bill Watterson após 28 anos fora das HQs](https://www.nexojornal.com.br/expresso/2023/02/26/A-volta-de-Bill-Watterson-ap%C3%B3s-28-anos-fora-das-HQs)
+- [5 livros para repensar o capitalismo, da produção ao consumo](https://www.nexojornal.com.br/estante/favoritos/2023/02/26/5-livros-para-repensar-o-capitalismo-da-produ%C3%A7%C3%A3o-ao-consumo)
+- [O papel da Fox News na conspiração eleitoral de Trump](https://www.nexojornal.com.br/expresso/2023/02/26/O-papel-da-Fox-News-na-conspira%C3%A7%C3%A3o-eleitoral-de-Trump)
+- [Democracia defensiva: o mecanismo contra golpistas](https://www.nexojornal.com.br/ensaio/2023/02/26/Democracia-defensiva-o-mecanismo-contra-golpistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
