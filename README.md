@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Receita divulga regras do Imposto de Renda 2023](https://www.nexojornal.com.br/extra/2023/02/27/Receita-divulga-regras-do-Imposto-de-Renda-2023)
+- [Vacina bivalente contra a covid-19 começa a ser aplicada](https://www.nexojornal.com.br/extra/2023/02/27/Vacina-bivalente-contra-a-covid-19-come%C3%A7a-a-ser-aplicada)
 - [Expedições a regiões profundas do mar brasileiro revelam novos ambientes e espécies](https://www.nexojornal.com.br/externo/2023/02/26/Expedi%C3%A7%C3%B5es-a-regi%C3%B5es-profundas-do-mar-brasileiro-revelam-novos-ambientes-e-esp%C3%A9cies)
 - [A tragédia Yanomami e a falta de uma economia da floresta](https://www.nexojornal.com.br/colunistas/2023/A-trag%C3%A9dia-Yanomami-e-a-falta-de-uma-economia-da-floresta)
 - [Por que mercado e governo temem uma crise de crédito no país](https://www.nexojornal.com.br/expresso/2023/02/26/Por-que-mercado-e-governo-temem-uma-crise-de-cr%C3%A9dito-no-pa%C3%ADs)
-- [Chega a 65 o número de vítimas das chuvas no litoral norte paulista](https://www.nexojornal.com.br/extra/2023/02/26/Chega-a-65-o-n%C3%BAmero-de-v%C3%ADtimas-das-chuvas-no-litoral-norte-paulista)
-- [Naufrágio mata dezenas de migrantes que rumavam à Itália](https://www.nexojornal.com.br/extra/2023/02/26/Naufr%C3%A1gio-mata-dezenas-de-migrantes-que-rumavam-%C3%A0-It%C3%A1lia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
