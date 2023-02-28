@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Caminhos para um agricultura sustentável](https://pp.nexojornal.com.br/opiniao/2023/Caminhos-para-um-agricultura-sustent%C3%A1vel)
+- [Violência política de gênero: conceitualização e tipificações](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/27/Viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero-conceitualiza%C3%A7%C3%A3o-e-tipifica%C3%A7%C3%B5es)
+- [O desafio da reconstrução do Estado brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-desafio-da-reconstru%C3%A7%C3%A3o-do-Estado-brasileiro)
+- [Da evidência à ação: gargalos na implementação dos resultados de avaliação de políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Da-evid%C3%AAncia-%C3%A0-a%C3%A7%C3%A3o-gargalos-na-implementa%C3%A7%C3%A3o-dos-resultados-de-avalia%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas)
 - [Para onde vai a política de saúde mental no novo governo?](https://pp.nexojornal.com.br/opiniao/2023/Para-onde-vai-a-pol%C3%ADtica-de-sa%C3%BAde-mental-no-novo-governo)
-- [A religião e a confessionalidade da Câmara eleita em 2022](https://pp.nexojornal.com.br/Dados/2023/02/23/A-religi%C3%A3o-e-a-confessionalidade-da-C%C3%A2mara-eleita-em-2022)
-- [Cabe ao Estado liderar a transformação dos sistemas alimentares](https://pp.nexojornal.com.br/opiniao/2023/Cabe-ao-Estado-liderar-a-transforma%C3%A7%C3%A3o-dos-sistemas-alimentares)
-- [Emergência de políticas públicas para mulheres: desafios das novas gestões](https://pp.nexojornal.com.br/ponto-de-vista/2023/Emerg%C3%AAncia-de-pol%C3%ADticas-p%C3%BAblicas-para-mulheres-desafios-das-novas-gest%C3%B5es)
-- [O que dizem evidências científicas sobre a eficácia da bonificação de professores](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-dizem-evid%C3%AAncias-cient%C3%ADficas-sobre-a-efic%C3%A1cia-da-bonifica%C3%A7%C3%A3o-de-professores)
 <!-- PP_LIST:END -->
 
