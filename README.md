@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O papel e o histórico de punições da Justiça Militar brasileira](https://www.nexojornal.com.br/explicado/2023/02/28/O-papel-e-o-hist%C3%B3rico-de-puni%C3%A7%C3%B5es-da-Justi%C3%A7a-Militar-brasileira)
 - [Como lidar com empresas suspeitas de trabalho escravo](https://www.nexojornal.com.br/expresso/2023/02/27/Como-lidar-com-empresas-suspeitas-de-trabalho-escravo)
 - [Quais os impactos da reoneração dos combustíveis em 2023](https://www.nexojornal.com.br/expresso/2023/02/27/Quais-os-impactos-da-reonera%C3%A7%C3%A3o-dos-combust%C3%ADveis-em-2023)
 - [Messi ganha prêmio Fifa de melhor jogador do mundo de 2022](https://www.nexojornal.com.br/extra/2023/02/27/Messi-ganha-pr%C3%AAmio-Fifa-de-melhor-jogador-do-mundo-de-2022)
 - [O Carnaval celebrou o fim da pandemia e do autoritarismo](https://www.nexojornal.com.br/colunistas/2023/O-Carnaval-celebrou-o-fim-da-pandemia-e-do-autoritarismo)
+- [STF julgará militares suspeitos de golpismo, decide Moraes](https://www.nexojornal.com.br/extra/2023/02/27/STF-julgar%C3%A1-militares-suspeitos-de-golpismo-decide-Moraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
