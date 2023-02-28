@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Das chuvas de fevereiro, ficou um mar de lágrimas](https://gamarevista.uol.com.br/colunistas/marilene-felinto/das-chuvas-de-fevereiro-ficou-um-mar-de-lagrimas/)
 - [Não se faz mais tempo como antigamente](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-se-faz-mais-tempo-como-antigamente/)
 - [@pedronapolinario](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pedronapolinario/)
 - [Denise Fraga: “A arte existe para nos libertar da mediocridade da vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/denise-fraga-fala-do-poder-de-contar-uma-historia-de-vida/)
 - [Como ler um rótulo de vinho &lpar;e parar de sofrer no supermercado&rpar;](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-ler-um-rotulo-de-vinho-e-parar-de-sofrer-no-supermercado/)
-- [A Vida Secreta das Emoções](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vida-secreta-das-emocoes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
