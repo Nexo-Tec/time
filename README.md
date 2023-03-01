@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O desejo nos tempos de quaresma](https://gamarevista.uol.com.br/maria-homem/o-desejo-nos-tempos-de-quaresma/)
 - [A Grande Bota Vermelha](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/a-grande-bota-vermelha/)
 - [Das chuvas de fevereiro, ficou um mar de lágrimas](https://gamarevista.uol.com.br/colunistas/marilene-felinto/das-chuvas-de-fevereiro-ficou-um-mar-de-lagrimas/)
 - [Não se faz mais tempo como antigamente](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-se-faz-mais-tempo-como-antigamente/)
 - [@pedronapolinario](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pedronapolinario/)
-- [Denise Fraga: “A arte existe para nos libertar da mediocridade da vida”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/denise-fraga-fala-do-poder-de-contar-uma-historia-de-vida/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
