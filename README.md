@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como lidar com empresas suspeitas de trabalho escravo](https://www.nexojornal.com.br/expresso/2023/02/27/Como-lidar-com-empresas-suspeitas-de-trabalho-escravo)
-- [Quais os impactos da reoneração dos combustíveis em 2023](https://www.nexojornal.com.br/expresso/2023/02/27/Quais-os-impactos-da-reonera%C3%A7%C3%A3o-dos-combust%C3%ADveis-em-2023)
-- [Messi ganha prêmio Fifa de melhor jogador do mundo de 2022](https://www.nexojornal.com.br/extra/2023/02/27/Messi-ganha-pr%C3%AAmio-Fifa-de-melhor-jogador-do-mundo-de-2022)
-- [O Carnaval celebrou o fim da pandemia e do autoritarismo](https://www.nexojornal.com.br/colunistas/2023/O-Carnaval-celebrou-o-fim-da-pandemia-e-do-autoritarismo)
-- [STF julgará militares suspeitos de golpismo, decide Moraes](https://www.nexojornal.com.br/extra/2023/02/27/STF-julgar%C3%A1-militares-suspeitos-de-golpismo-decide-Moraes)
+- [A trajetória de Bretas na Lava Jato do Rio até seu afastamento](https://www.nexojornal.com.br/expresso/2023/02/28/A-trajet%C3%B3ria-de-Bretas-na-Lava-Jato-do-Rio-at%C3%A9-seu-afastamento)
+- [A dimensão das chuvas no litoral paulista em fevereiro de 2023](https://www.nexojornal.com.br/grafico/2023/02/28/A-dimens%C3%A3o-das-chuvas-no-litoral-paulista-em-fevereiro-de-2023)
+- [Torres e os pássaros: o histórico como criador e o lobby no governo](https://www.nexojornal.com.br/externo/2023/02/28/Torres-e-os-p%C3%A1ssaros-o-hist%C3%B3rico-como-criador-e-o-lobby-no-governo)
+- [Qual a viabilidade das promessas de Lula para o trabalho](https://www.nexojornal.com.br/expresso/2023/02/28/Qual-a-viabilidade-das-promessas-de-Lula-para-o-trabalho)
+- [Grupo associa trabalho escravo a efeito de ‘assistencialismo’](https://www.nexojornal.com.br/extra/2023/02/28/Grupo-associa-trabalho-escravo-a-efeito-de-%E2%80%98assistencialismo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
