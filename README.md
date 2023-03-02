@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula lança novo Bolsa Família com pagamentos de R$ 600](https://www.nexojornal.com.br/extra/2023/03/02/Lula-lan%C3%A7a-novo-Bolsa-Fam%C3%ADlia-com-pagamentos-de-R-600)
+- [Violência contra mulheres cresceu em 2022, diz pesquisa](https://www.nexojornal.com.br/extra/2023/03/02/Viol%C3%AAncia-contra-mulheres-cresceu-em-2022-diz-pesquisa)
+- [Anielle Franco é eleita uma das Mulheres do Ano da revista Time](https://www.nexojornal.com.br/extra/2023/03/02/Anielle-Franco-%C3%A9-eleita-uma-das-Mulheres-do-Ano-da-revista-Time)
 - [Governo remove Abin do GSI e a transfere para Casa Civil](https://www.nexojornal.com.br/extra/2023/03/02/Governo-remove-Abin-do-GSI-e-a-transfere-para-Casa-Civil)
 - [PIB cresce 2,9% em 2022, mas tem queda no último trimestre](https://www.nexojornal.com.br/extra/2023/03/02/PIB-cresce-29-em-2022-mas-tem-queda-no-%C3%BAltimo-trimestre)
-- [Petrobras registra maior lucro da história da empresa em 2022](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-registra-maior-lucro-da-hist%C3%B3ria-da-empresa-em-2022)
-- [As transformações do Novo até o abraço ao fundo partidário](https://www.nexojornal.com.br/expresso/2023/03/01/As-transforma%C3%A7%C3%B5es-do-Novo-at%C3%A9-o-abra%C3%A7o-ao-fundo-partid%C3%A1rio)
-- [Por que bolsonaristas querem uma CPI para investigar 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/03/01/Por-que-bolsonaristas-querem-uma-CPI-para-investigar-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
