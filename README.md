@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O espírito das ações afirmativas na era pré-cotas](https://pp.nexojornal.com.br/opiniao/2023/O-esp%C3%ADrito-das-a%C3%A7%C3%B5es-afirmativas-na-era-pr%C3%A9-cotas)
 - [Quais as melhores estratégias da agropecuária para reduzir emissões de gases de efeito estufa](https://pp.nexojornal.com.br/academico/2023/Quais-as-melhores-estrat%C3%A9gias-da-agropecu%C3%A1ria-para-reduzir-emiss%C3%B5es-de-gases-de-efeito-estufa)
 - [A relação entre religião e política no espaço público norte-americano](https://pp.nexojornal.com.br/academico/2023/A-rela%C3%A7%C3%A3o-entre-religi%C3%A3o-e-pol%C3%ADtica-no-espa%C3%A7o-p%C3%BAblico-norte-americano)
 - [Caminhos para uma agricultura sustentável](https://pp.nexojornal.com.br/opiniao/2023/Caminhos-para-uma-agricultura-sustent%C3%A1vel)
 - [Violência política de gênero: conceitualização e tipificações](https://pp.nexojornal.com.br/bibliografia-basica/2023/02/27/Viol%C3%AAncia-pol%C3%ADtica-de-g%C3%AAnero-conceitualiza%C3%A7%C3%A3o-e-tipifica%C3%A7%C3%B5es)
+- [O desafio da reconstrução do Estado brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-desafio-da-reconstru%C3%A7%C3%A3o-do-Estado-brasileiro)
 <!-- PP_LIST:END -->
 
