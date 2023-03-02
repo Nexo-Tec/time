@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre Just Fontaine, maior artilheiro de uma única Copa do Mundo](https://www.nexojornal.com.br/extra/2023/03/01/Morre-Just-Fontaine-maior-artilheiro-de-uma-%C3%BAnica-Copa-do-Mundo)
 - [Governista vence na Nigéria em eleição contestada pela oposição](https://www.nexojornal.com.br/extra/2023/03/01/Governista-vence-na-Nig%C3%A9ria-em-elei%C3%A7%C3%A3o-contestada-pela-oposi%C3%A7%C3%A3o)
 - [A trajetória de Bretas na Lava Jato do Rio até seu afastamento](https://www.nexojornal.com.br/expresso/2023/02/28/A-trajet%C3%B3ria-de-Bretas-na-Lava-Jato-do-Rio-at%C3%A9-seu-afastamento)
 - [A dimensão das chuvas no litoral paulista em fevereiro de 2023](https://www.nexojornal.com.br/grafico/2023/02/28/A-dimens%C3%A3o-das-chuvas-no-litoral-paulista-em-fevereiro-de-2023)
 - [Torres e os pássaros: o histórico como criador e o lobby no governo](https://www.nexojornal.com.br/externo/2023/02/28/Torres-e-os-p%C3%A1ssaros-o-hist%C3%B3rico-como-criador-e-o-lobby-no-governo)
-- [Qual a viabilidade das promessas de Lula para o trabalho](https://www.nexojornal.com.br/expresso/2023/02/28/Qual-a-viabilidade-das-promessas-de-Lula-para-o-trabalho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
