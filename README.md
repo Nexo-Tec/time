@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O desejo nos tempos de quaresma](https://gamarevista.uol.com.br/maria-homem/o-desejo-nos-tempos-de-quaresma/)
-- [A Grande Bota Vermelha](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/a-grande-bota-vermelha/)
-- [Das chuvas de fevereiro, ficou um mar de lágrimas](https://gamarevista.uol.com.br/colunistas/marilene-felinto/das-chuvas-de-fevereiro-ficou-um-mar-de-lagrimas/)
-- [Não se faz mais tempo como antigamente](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-se-faz-mais-tempo-como-antigamente/)
-- [@pedronapolinario](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pedronapolinario/)
+- [Malcom Ferdinand e o racismo ambiental](https://gamarevista.uol.com.br/achamos-que-vale/ir/malcom-ferdinand-fala-sobre-ecologia-decolonial-pelo-brasil/)
+- [A participação negra na formação do Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-participacao-negra-na-formacao-do-rio/)
+- [Drama belga emocionante e indicado ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/drama-belga-emocionante-e-indicado-ao-oscar/)
+- [Uma excelente leva de newsletters](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-excelente-leva-de-newsletters/)
+- [Um podcast para quem sente dor](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-para-quem-sente-dor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
