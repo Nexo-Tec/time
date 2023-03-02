@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Just Fontaine, maior artilheiro de uma única Copa do Mundo](https://www.nexojornal.com.br/extra/2023/03/01/Morre-Just-Fontaine-maior-artilheiro-de-uma-%C3%BAnica-Copa-do-Mundo)
-- [Governista vence na Nigéria em eleição contestada pela oposição](https://www.nexojornal.com.br/extra/2023/03/01/Governista-vence-na-Nig%C3%A9ria-em-elei%C3%A7%C3%A3o-contestada-pela-oposi%C3%A7%C3%A3o)
-- [A trajetória de Bretas na Lava Jato do Rio até seu afastamento](https://www.nexojornal.com.br/expresso/2023/02/28/A-trajet%C3%B3ria-de-Bretas-na-Lava-Jato-do-Rio-at%C3%A9-seu-afastamento)
-- [A dimensão das chuvas no litoral paulista em fevereiro de 2023](https://www.nexojornal.com.br/grafico/2023/02/28/A-dimens%C3%A3o-das-chuvas-no-litoral-paulista-em-fevereiro-de-2023)
-- [Torres e os pássaros: o histórico como criador e o lobby no governo](https://www.nexojornal.com.br/externo/2023/02/28/Torres-e-os-p%C3%A1ssaros-o-hist%C3%B3rico-como-criador-e-o-lobby-no-governo)
+- [As transformações do Novo até o abraço ao fundo partidário](https://www.nexojornal.com.br/expresso/2023/03/01/As-transforma%C3%A7%C3%B5es-do-Novo-at%C3%A9-o-abra%C3%A7o-ao-fundo-partid%C3%A1rio)
+- [Por que bolsonaristas querem uma CPI para investigar 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/03/01/Por-que-bolsonaristas-querem-uma-CPI-para-investigar-8-de-janeiro)
+- [‘Exploração do trabalho constituiu sociedade brasileira’](https://www.nexojornal.com.br/entrevista/2023/03/01/%E2%80%98Explora%C3%A7%C3%A3o-do-trabalho-constituiu-sociedade-brasileira%E2%80%99)
+- [Reoneração dos combustíveis: dever de casa ou tiro no pé?](https://www.nexojornal.com.br/podcast/2023/03/01/Reonera%C3%A7%C3%A3o-dos-combust%C3%ADveis-dever-de-casa-ou-tiro-no-p%C3%A9)
+- [Previsões para a morte da inteligência artificial](https://www.nexojornal.com.br/colunistas/2023/Previs%C3%B5es-para-a-morte-da-intelig%C3%AAncia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
