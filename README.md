@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [ChatGPT: os riscos e as oportunidades do uso com crianças](https://www.nexojornal.com.br/externo/2023/03/03/ChatGPT-os-riscos-e-as-oportunidades-do-uso-com-crian%C3%A7as)
-- [Justiça de Belarus condena vencedor do Nobel da Paz à prisão](https://www.nexojornal.com.br/extra/2023/03/03/Justi%C3%A7a-de-Belarus-condena-vencedor-do-Nobel-da-Paz-%C3%A0-pris%C3%A3o)
-- [Anvisa aprova vacina contra a dengue com 80% de eficácia](https://www.nexojornal.com.br/extra/2023/03/03/Anvisa-aprova-vacina-contra-a-dengue-com-80-de-efic%C3%A1cia)
 - [Por que o governador da Flórida declarou guerra à Disney](https://www.nexojornal.com.br/expresso/2023/03/02/Por-que-o-governador-da-Fl%C3%B3rida-declarou-guerra-%C3%A0-Disney)
 - [Qual a qualidade da recuperação do crescimento brasileiro](https://www.nexojornal.com.br/expresso/2023/03/02/Qual-a-qualidade-da-recupera%C3%A7%C3%A3o-do-crescimento-brasileiro)
+- [Petrobras vai definir preços ‘como achar melhor’, diz Prates](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-vai-definir-pre%C3%A7os-%E2%80%98como-achar-melhor%E2%80%99-diz-Prates)
+- [Como Jorge Amado auxiliou a luta pela liberdade religiosa](https://www.nexojornal.com.br/expresso/2023/03/02/Como-Jorge-Amado-auxiliou-a-luta-pela-liberdade-religiosa)
+- [Por uma internet que seja confiável para todos](https://www.nexojornal.com.br/colunistas/2023/Por-uma-internet-que-seja-confi%C3%A1vel-para-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
