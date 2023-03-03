@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo remove Abin do GSI e a transfere para Casa Civil](https://www.nexojornal.com.br/extra/2023/03/02/Governo-remove-Abin-do-GSI-e-a-transfere-para-Casa-Civil)
-- [PIB cresce 2,9% em 2022, mas tem queda no último trimestre](https://www.nexojornal.com.br/extra/2023/03/02/PIB-cresce-29-em-2022-mas-tem-queda-no-%C3%BAltimo-trimestre)
-- [Petrobras registra maior lucro da história da empresa em 2022](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-registra-maior-lucro-da-hist%C3%B3ria-da-empresa-em-2022)
-- [As transformações do Novo até o abraço ao fundo partidário](https://www.nexojornal.com.br/expresso/2023/03/01/As-transforma%C3%A7%C3%B5es-do-Novo-at%C3%A9-o-abra%C3%A7o-ao-fundo-partid%C3%A1rio)
-- [Por que bolsonaristas querem uma CPI para investigar 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/03/01/Por-que-bolsonaristas-querem-uma-CPI-para-investigar-8-de-janeiro)
+- [Por que o governador da Flórida declarou guerra à Disney](https://www.nexojornal.com.br/expresso/2023/03/02/Por-que-o-governador-da-Fl%C3%B3rida-declarou-guerra-%C3%A0-Disney)
+- [Qual a qualidade da recuperação do crescimento brasileiro](https://www.nexojornal.com.br/expresso/2023/03/02/Qual-a-qualidade-da-recupera%C3%A7%C3%A3o-do-crescimento-brasileiro)
+- [Petrobras vai definir preços ‘como achar melhor’, diz Prates](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-vai-definir-pre%C3%A7os-%E2%80%98como-achar-melhor%E2%80%99-diz-Prates)
+- [Como Jorge Amado auxiliou a luta pela liberdade religiosa](https://www.nexojornal.com.br/expresso/2023/03/02/Como-Jorge-Amado-auxiliou-a-luta-pela-liberdade-religiosa)
+- [Por uma internet que seja confiável para todos](https://www.nexojornal.com.br/colunistas/2023/Por-uma-internet-que-seja-confi%C3%A1vel-para-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
