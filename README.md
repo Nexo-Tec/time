@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PIB cresce 2,9% em 2022, mas tem queda no último trimestre](https://www.nexojornal.com.br/extra/2023/03/02/PIB-cresce-29-em-2022-mas-tem-queda-no-%C3%BAltimo-trimestre)
+- [Petrobras registra maior lucro da história da empresa em 2022](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-registra-maior-lucro-da-hist%C3%B3ria-da-empresa-em-2022)
 - [As transformações do Novo até o abraço ao fundo partidário](https://www.nexojornal.com.br/expresso/2023/03/01/As-transforma%C3%A7%C3%B5es-do-Novo-at%C3%A9-o-abra%C3%A7o-ao-fundo-partid%C3%A1rio)
 - [Por que bolsonaristas querem uma CPI para investigar 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/03/01/Por-que-bolsonaristas-querem-uma-CPI-para-investigar-8-de-janeiro)
 - [‘Exploração do trabalho constituiu sociedade brasileira’](https://www.nexojornal.com.br/entrevista/2023/03/01/%E2%80%98Explora%C3%A7%C3%A3o-do-trabalho-constituiu-sociedade-brasileira%E2%80%99)
-- [Reoneração dos combustíveis: dever de casa ou tiro no pé?](https://www.nexojornal.com.br/podcast/2023/03/01/Reonera%C3%A7%C3%A3o-dos-combust%C3%ADveis-dever-de-casa-ou-tiro-no-p%C3%A9)
-- [Previsões para a morte da inteligência artificial](https://www.nexojornal.com.br/colunistas/2023/Previs%C3%B5es-para-a-morte-da-intelig%C3%AAncia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
