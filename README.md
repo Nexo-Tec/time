@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula lança novo Bolsa Família com pagamentos de R$ 600](https://www.nexojornal.com.br/extra/2023/03/02/Lula-lan%C3%A7a-novo-Bolsa-Fam%C3%ADlia-com-pagamentos-de-R-600)
-- [Violência contra mulheres cresceu em 2022, diz pesquisa](https://www.nexojornal.com.br/extra/2023/03/02/Viol%C3%AAncia-contra-mulheres-cresceu-em-2022-diz-pesquisa)
-- [Anielle Franco é eleita uma das Mulheres do Ano da revista Time](https://www.nexojornal.com.br/extra/2023/03/02/Anielle-Franco-%C3%A9-eleita-uma-das-Mulheres-do-Ano-da-revista-Time)
-- [Governo remove Abin do GSI e a transfere para Casa Civil](https://www.nexojornal.com.br/extra/2023/03/02/Governo-remove-Abin-do-GSI-e-a-transfere-para-Casa-Civil)
-- [PIB cresce 2,9% em 2022, mas tem queda no último trimestre](https://www.nexojornal.com.br/extra/2023/03/02/PIB-cresce-29-em-2022-mas-tem-queda-no-%C3%BAltimo-trimestre)
+- [Por que o governador da Flórida declarou guerra à Disney](https://www.nexojornal.com.br/expresso/2023/03/02/Por-que-o-governador-da-Fl%C3%B3rida-declarou-guerra-%C3%A0-Disney)
+- [Qual a qualidade da recuperação do crescimento brasileiro](https://www.nexojornal.com.br/expresso/2023/03/02/Qual-a-qualidade-da-recupera%C3%A7%C3%A3o-do-crescimento-brasileiro)
+- [Petrobras vai definir preços ‘como achar melhor’, diz Prates](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-vai-definir-pre%C3%A7os-%E2%80%98como-achar-melhor%E2%80%99-diz-Prates)
+- [Como Jorge Amado auxiliou a luta pela liberdade religiosa](https://www.nexojornal.com.br/expresso/2023/03/02/Como-Jorge-Amado-auxiliou-a-luta-pela-liberdade-religiosa)
+- [Por uma internet que seja confiável para todos](https://www.nexojornal.com.br/colunistas/2023/Por-uma-internet-que-seja-confi%C3%A1vel-para-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
