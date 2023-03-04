@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [4 de cada 10 cidades do país têm áreas de risco para chuvas](https://www.nexojornal.com.br/extra/2023/03/03/4-de-cada-10-cidades-do-pa%C3%ADs-t%C3%AAm-%C3%A1reas-de-risco-para-chuvas)
+- [Presidente da Câmara de Juazeiro do Norte é encontrada morta](https://www.nexojornal.com.br/extra/2023/03/03/Presidente-da-C%C3%A2mara-de-Juazeiro-do-Norte-%C3%A9-encontrada-morta)
+- [Por que Sylvester Stallone não está no novo ‘Creed’](https://www.nexojornal.com.br/expresso/2023/03/03/Por-que-Sylvester-Stallone-n%C3%A3o-est%C3%A1-no-novo-%E2%80%98Creed%E2%80%99)
 - [ChatGPT: os riscos e as oportunidades do uso com crianças](https://www.nexojornal.com.br/externo/2023/03/03/ChatGPT-os-riscos-e-as-oportunidades-do-uso-com-crian%C3%A7as)
 - [Justiça de Belarus condena vencedor do Nobel da Paz à prisão](https://www.nexojornal.com.br/extra/2023/03/03/Justi%C3%A7a-de-Belarus-condena-vencedor-do-Nobel-da-Paz-%C3%A0-pris%C3%A3o)
-- [Anvisa aprova vacina contra a dengue com 80% de eficácia](https://www.nexojornal.com.br/extra/2023/03/03/Anvisa-aprova-vacina-contra-a-dengue-com-80-de-efic%C3%A1cia)
-- [Por que o governador da Flórida declarou guerra à Disney](https://www.nexojornal.com.br/expresso/2023/03/02/Por-que-o-governador-da-Fl%C3%B3rida-declarou-guerra-%C3%A0-Disney)
-- [Qual a qualidade da recuperação do crescimento brasileiro](https://www.nexojornal.com.br/expresso/2023/03/02/Qual-a-qualidade-da-recupera%C3%A7%C3%A3o-do-crescimento-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
