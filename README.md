@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Supremo forma maioria para ampliar audiência de custódia](https://www.nexojornal.com.br/extra/2023/03/03/Supremo-forma-maioria-para-ampliar-audi%C3%AAncia-de-cust%C3%B3dia)
+- [Streamings no Brasil têm pouco conteúdo nacional, diz Ancine](https://www.nexojornal.com.br/extra/2023/03/03/Streamings-no-Brasil-t%C3%AAm-pouco-conte%C3%BAdo-nacional-diz-Ancine)
+- [Ministério confirma que caso de vaca louca no Pará não traz risco](https://www.nexojornal.com.br/extra/2023/03/03/Minist%C3%A9rio-confirma-que-caso-de-vaca-louca-no-Par%C3%A1-n%C3%A3o-traz-risco)
+- [Receita anuncia ações para coibir acesso indevido de servidores](https://www.nexojornal.com.br/extra/2023/03/03/Receita-anuncia-a%C3%A7%C3%B5es-para-coibir-acesso-indevido-de-servidores)
 - [4 de cada 10 cidades do país têm áreas de risco para chuvas](https://www.nexojornal.com.br/extra/2023/03/03/4-de-cada-10-cidades-do-pa%C3%ADs-t%C3%AAm-%C3%A1reas-de-risco-para-chuvas)
-- [Presidente da Câmara de Juazeiro do Norte é encontrada morta](https://www.nexojornal.com.br/extra/2023/03/03/Presidente-da-C%C3%A2mara-de-Juazeiro-do-Norte-%C3%A9-encontrada-morta)
-- [Por que Sylvester Stallone não está no novo ‘Creed’](https://www.nexojornal.com.br/expresso/2023/03/03/Por-que-Sylvester-Stallone-n%C3%A3o-est%C3%A1-no-novo-%E2%80%98Creed%E2%80%99)
-- [ChatGPT: os riscos e as oportunidades do uso com crianças](https://www.nexojornal.com.br/externo/2023/03/03/ChatGPT-os-riscos-e-as-oportunidades-do-uso-com-crian%C3%A7as)
-- [Justiça de Belarus condena vencedor do Nobel da Paz à prisão](https://www.nexojornal.com.br/extra/2023/03/03/Justi%C3%A7a-de-Belarus-condena-vencedor-do-Nobel-da-Paz-%C3%A0-pris%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
