@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que este museu britânico faz vídeos de ASMR com seu acervo](https://www.nexojornal.com.br/expresso/2023/03/03/Por-que-este-museu-brit%C3%A2nico-faz-v%C3%ADdeos-de-ASMR-com-seu-acervo)
-- [O limite da sobrevivência de um sapinho admirável](https://www.nexojornal.com.br/externo/2023/03/03/O-limite-da-sobreviv%C3%AAncia-de-um-sapinho-admir%C3%A1vel)
-- [‘O que é meu’: o Brasil de um caminhoneiro aos olhos do filho](https://www.nexojornal.com.br/estante/trechos/2023/03/03/%E2%80%98O-que-%C3%A9-meu%E2%80%99-o-Brasil-de-um-caminhoneiro-aos-olhos-do-filho)
-- [Alva Rosa Lana Vieira: ‘Educação indígena precisa ser prioridade’](https://www.nexojornal.com.br/entrevista/2023/03/03/Alva-Rosa-Lana-Vieira-%E2%80%98Educa%C3%A7%C3%A3o-ind%C3%ADgena-precisa-ser-prioridade%E2%80%99)
-- [Como a falta de dados dificulta o combate à desnutrição infantil](https://www.nexojornal.com.br/expresso/2023/03/03/Como-a-falta-de-dados-dificulta-o-combate-%C3%A0-desnutri%C3%A7%C3%A3o-infantil)
+- [4 de cada 10 cidades do país têm áreas de risco para chuvas](https://www.nexojornal.com.br/extra/2023/03/03/4-de-cada-10-cidades-do-pa%C3%ADs-t%C3%AAm-%C3%A1reas-de-risco-para-chuvas)
+- [Presidente da Câmara de Juazeiro do Norte é encontrada morta](https://www.nexojornal.com.br/extra/2023/03/03/Presidente-da-C%C3%A2mara-de-Juazeiro-do-Norte-%C3%A9-encontrada-morta)
+- [Por que Sylvester Stallone não está no novo ‘Creed’](https://www.nexojornal.com.br/expresso/2023/03/03/Por-que-Sylvester-Stallone-n%C3%A3o-est%C3%A1-no-novo-%E2%80%98Creed%E2%80%99)
+- [ChatGPT: os riscos e as oportunidades do uso com crianças](https://www.nexojornal.com.br/externo/2023/03/03/ChatGPT-os-riscos-e-as-oportunidades-do-uso-com-crian%C3%A7as)
+- [Justiça de Belarus condena vencedor do Nobel da Paz à prisão](https://www.nexojornal.com.br/extra/2023/03/03/Justi%C3%A7a-de-Belarus-condena-vencedor-do-Nobel-da-Paz-%C3%A0-pris%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
