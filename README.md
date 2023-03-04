@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo forma maioria para ampliar audiência de custódia](https://www.nexojornal.com.br/extra/2023/03/03/Supremo-forma-maioria-para-ampliar-audi%C3%AAncia-de-cust%C3%B3dia)
-- [Streamings no Brasil têm pouco conteúdo nacional, diz Ancine](https://www.nexojornal.com.br/extra/2023/03/03/Streamings-no-Brasil-t%C3%AAm-pouco-conte%C3%BAdo-nacional-diz-Ancine)
-- [Ministério confirma que caso de vaca louca no Pará não traz risco](https://www.nexojornal.com.br/extra/2023/03/03/Minist%C3%A9rio-confirma-que-caso-de-vaca-louca-no-Par%C3%A1-n%C3%A3o-traz-risco)
-- [Receita anuncia ações para coibir acesso indevido de servidores](https://www.nexojornal.com.br/extra/2023/03/03/Receita-anuncia-a%C3%A7%C3%B5es-para-coibir-acesso-indevido-de-servidores)
-- [4 de cada 10 cidades do país têm áreas de risco para chuvas](https://www.nexojornal.com.br/extra/2023/03/03/4-de-cada-10-cidades-do-pa%C3%ADs-t%C3%AAm-%C3%A1reas-de-risco-para-chuvas)
+- [Por que o governador da Flórida declarou guerra à Disney](https://www.nexojornal.com.br/expresso/2023/03/02/Por-que-o-governador-da-Fl%C3%B3rida-declarou-guerra-%C3%A0-Disney)
+- [Qual a qualidade da recuperação do crescimento brasileiro](https://www.nexojornal.com.br/expresso/2023/03/02/Qual-a-qualidade-da-recupera%C3%A7%C3%A3o-do-crescimento-brasileiro)
+- [Petrobras vai definir preços ‘como achar melhor’, diz Prates](https://www.nexojornal.com.br/extra/2023/03/02/Petrobras-vai-definir-pre%C3%A7os-%E2%80%98como-achar-melhor%E2%80%99-diz-Prates)
+- [Como Jorge Amado auxiliou a luta pela liberdade religiosa](https://www.nexojornal.com.br/expresso/2023/03/02/Como-Jorge-Amado-auxiliou-a-luta-pela-liberdade-religiosa)
+- [Por uma internet que seja confiável para todos](https://www.nexojornal.com.br/colunistas/2023/Por-uma-internet-que-seja-confi%C3%A1vel-para-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
