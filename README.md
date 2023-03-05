@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro atuou em tentativas de reaver joias, diz jornal](https://www.nexojornal.com.br/extra/2023/03/04/Bolsonaro-atuou-em-tentativas-de-reaver-joias-diz-jornal)
-- [Morre Paulo Caruso, um dos maiores cartunistas do Brasil](https://www.nexojornal.com.br/extra/2023/03/04/Morre-Paulo-Caruso-um-dos-maiores-cartunistas-do-Brasil)
 - [Por que este museu britânico faz vídeos de ASMR com seu acervo](https://www.nexojornal.com.br/expresso/2023/03/03/Por-que-este-museu-brit%C3%A2nico-faz-v%C3%ADdeos-de-ASMR-com-seu-acervo)
 - [O limite da sobrevivência de um sapinho admirável](https://www.nexojornal.com.br/externo/2023/03/03/O-limite-da-sobreviv%C3%AAncia-de-um-sapinho-admir%C3%A1vel)
 - [‘O que é meu’: o Brasil de um caminhoneiro aos olhos do filho](https://www.nexojornal.com.br/estante/trechos/2023/03/03/%E2%80%98O-que-%C3%A9-meu%E2%80%99-o-Brasil-de-um-caminhoneiro-aos-olhos-do-filho)
+- [Alva Rosa Lana Vieira: ‘Educação indígena precisa ser prioridade’](https://www.nexojornal.com.br/entrevista/2023/03/03/Alva-Rosa-Lana-Vieira-%E2%80%98Educa%C3%A7%C3%A3o-ind%C3%ADgena-precisa-ser-prioridade%E2%80%99)
+- [Como a falta de dados dificulta o combate à desnutrição infantil](https://www.nexojornal.com.br/expresso/2023/03/03/Como-a-falta-de-dados-dificulta-o-combate-%C3%A0-desnutri%C3%A7%C3%A3o-infantil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
