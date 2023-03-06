@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com produção fora da Suíça, Toblerone vai precisar mudar de logo](https://www.nexojornal.com.br/extra/2023/03/06/Com-produ%C3%A7%C3%A3o-fora-da-Su%C3%AD%C3%A7a-Toblerone-vai-precisar-mudar-de-logo)
-- [Morre torcedor ferido em briga antes de Flamengo x Vasco](https://www.nexojornal.com.br/extra/2023/03/06/Morre-torcedor-ferido-em-briga-antes-de-Flamengo-x-Vasco)
-- [Novas regras para laqueadura e vasectomia começam a valer](https://www.nexojornal.com.br/extra/2023/03/06/Novas-regras-para-laqueadura-e-vasectomia-come%C3%A7am-a-valer)
-- [Chefe da Receita foi nomeado para Paris após tentar reaver joias](https://www.nexojornal.com.br/extra/2023/03/06/Chefe-da-Receita-foi-nomeado-para-Paris-ap%C3%B3s-tentar-reaver-joias)
-- [Eureca em baixa?](https://www.nexojornal.com.br/externo/2023/03/06/Eureca-em-baixa)
+- [O que o Brasil ganha com seu ‘clube da paz’ para a Ucrânia](https://www.nexojornal.com.br/expresso/2023/03/05/O-que-o-Brasil-ganha-com-seu-%E2%80%98clube-da-paz%E2%80%99-para-a-Ucr%C3%A2nia)
+- [Bolsonaro e o presente do pretérito com povos indígenas](https://www.nexojornal.com.br/ensaio/2023/03/05/Bolsonaro-e-o-presente-do-pret%C3%A9rito-com-povos-ind%C3%ADgenas)
+- [‘Universidade precisa voltar a ser projeto de vida’](https://www.nexojornal.com.br/entrevista/2023/03/05/%E2%80%98Universidade-precisa-voltar-a-ser-projeto-de-vida%E2%80%99)
+- [Tratado de alto-mar: acordo histórico é alcançado na ONU](https://www.nexojornal.com.br/extra/2023/03/05/Tratado-de-alto-mar-acordo-hist%C3%B3rico-%C3%A9-alcan%C3%A7ado-na-ONU)
+- [Grécia: manifestantes e policiais entram em confronto](https://www.nexojornal.com.br/extra/2023/03/05/Gr%C3%A9cia-manifestantes-e-policiais-entram-em-confronto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
