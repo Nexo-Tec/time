@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A resistência do governo Lula em condenar as ações de Ortega](https://www.nexojornal.com.br/expresso/2023/03/06/A-resist%C3%AAncia-do-governo-Lula-em-condenar-as-a%C3%A7%C3%B5es-de-Ortega)
+- [Joias da Arábia: o público e o privado nas ações de Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/06/Joias-da-Ar%C3%A1bia-o-p%C3%BAblico-e-o-privado-nas-a%C3%A7%C3%B5es-de-Bolsonaro)
+- [Comissão vai analisar uso de voo da FAB por Juscelino Filho](https://www.nexojornal.com.br/extra/2023/03/06/Comiss%C3%A3o-vai-analisar-uso-de-voo-da-FAB-por-Juscelino-Filho)
 - [Quais as perspectivas para o consumo de carne no Brasil](https://www.nexojornal.com.br/expresso/2023/03/06/Quais-as-perspectivas-para-o-consumo-de-carne-no-Brasil)
 - [Baterias de lítio ionizado explodem e causam incêndios em Nova York](https://www.nexojornal.com.br/extra/2023/03/06/Baterias-de-l%C3%ADtio-ionizado-explodem-e-causam-inc%C3%AAndios-em-Nova-York)
-- [Um site que publica diários de pessoas notáveis](https://www.nexojornal.com.br/expresso/2023/03/06/Um-site-que-publica-di%C3%A1rios-de-pessoas-not%C3%A1veis)
-- [Praia na Grande Recife registra 2 ataques de tubarão em 2 dias](https://www.nexojornal.com.br/extra/2023/03/06/Praia-na-Grande-Recife-registra-2-ataques-de-tubar%C3%A3o-em-2-dias)
-- [Com produção fora da Suíça, Toblerone vai precisar mudar de logo](https://www.nexojornal.com.br/extra/2023/03/06/Com-produ%C3%A7%C3%A3o-fora-da-Su%C3%AD%C3%A7a-Toblerone-vai-precisar-mudar-de-logo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
