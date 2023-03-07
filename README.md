@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Por que não separar artista e obra?](https://gamarevista.uol.com.br/artigo/por-que-nao-separar-artista-e-obra/)
 - [@alanoliveiraoofc](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alanoliveiraoofc/)
 - [Olivia Byington: “A maternidade pode ser um momento de profunda solidão”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/olivia-byington-fala-sobre-solidao-e-maternidade/)
 - [Múltipla escolha](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/mulheres-impedidas-justica-red-pill/)
 - [Luz del Fuego](https://gamarevista.uol.com.br/cultura/trecho-de-livro/luz-del-fuego/)
-- [Malcom Ferdinand e o racismo ambiental](https://gamarevista.uol.com.br/achamos-que-vale/ir/malcom-ferdinand-fala-sobre-ecologia-decolonial-pelo-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
