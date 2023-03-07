@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as perspectivas para o consumo de carne no Brasil](https://www.nexojornal.com.br/expresso/2023/03/06/Quais-as-perspectivas-para-o-consumo-de-carne-no-Brasil)
-- [Baterias de lítio ionizado explodem e causam incêndios em Nova York](https://www.nexojornal.com.br/extra/2023/03/06/Baterias-de-l%C3%ADtio-ionizado-explodem-e-causam-inc%C3%AAndios-em-Nova-York)
-- [Um site que publica diários de pessoas notáveis](https://www.nexojornal.com.br/expresso/2023/03/06/Um-site-que-publica-di%C3%A1rios-de-pessoas-not%C3%A1veis)
-- [Praia na Grande Recife registra 2 ataques de tubarão em 2 dias](https://www.nexojornal.com.br/extra/2023/03/06/Praia-na-Grande-Recife-registra-2-ataques-de-tubar%C3%A3o-em-2-dias)
-- [Com produção fora da Suíça, Toblerone vai precisar mudar de logo](https://www.nexojornal.com.br/extra/2023/03/06/Com-produ%C3%A7%C3%A3o-fora-da-Su%C3%AD%C3%A7a-Toblerone-vai-precisar-mudar-de-logo)
+- [O que o Brasil ganha com seu ‘clube da paz’ para a Ucrânia](https://www.nexojornal.com.br/expresso/2023/03/05/O-que-o-Brasil-ganha-com-seu-%E2%80%98clube-da-paz%E2%80%99-para-a-Ucr%C3%A2nia)
+- [Bolsonaro e o presente do pretérito com povos indígenas](https://www.nexojornal.com.br/ensaio/2023/03/05/Bolsonaro-e-o-presente-do-pret%C3%A9rito-com-povos-ind%C3%ADgenas)
+- [‘Universidade precisa voltar a ser projeto de vida’](https://www.nexojornal.com.br/entrevista/2023/03/05/%E2%80%98Universidade-precisa-voltar-a-ser-projeto-de-vida%E2%80%99)
+- [Tratado de alto-mar: acordo histórico é alcançado na ONU](https://www.nexojornal.com.br/extra/2023/03/05/Tratado-de-alto-mar-acordo-hist%C3%B3rico-%C3%A9-alcan%C3%A7ado-na-ONU)
+- [Grécia: manifestantes e policiais entram em confronto](https://www.nexojornal.com.br/extra/2023/03/05/Gr%C3%A9cia-manifestantes-e-policiais-entram-em-confronto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
