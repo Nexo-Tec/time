@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A resistência do governo Lula em condenar as ações de Ortega](https://www.nexojornal.com.br/expresso/2023/03/06/A-resist%C3%AAncia-do-governo-Lula-em-condenar-as-a%C3%A7%C3%B5es-de-Ortega)
-- [Joias da Arábia: o público e o privado nas ações de Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/06/Joias-da-Ar%C3%A1bia-o-p%C3%BAblico-e-o-privado-nas-a%C3%A7%C3%B5es-de-Bolsonaro)
-- [Comissão vai analisar uso de voo da FAB por Juscelino Filho](https://www.nexojornal.com.br/extra/2023/03/06/Comiss%C3%A3o-vai-analisar-uso-de-voo-da-FAB-por-Juscelino-Filho)
-- [Quais as perspectivas para o consumo de carne no Brasil](https://www.nexojornal.com.br/expresso/2023/03/06/Quais-as-perspectivas-para-o-consumo-de-carne-no-Brasil)
-- [Baterias de lítio ionizado explodem e causam incêndios em Nova York](https://www.nexojornal.com.br/extra/2023/03/06/Baterias-de-l%C3%ADtio-ionizado-explodem-e-causam-inc%C3%AAndios-em-Nova-York)
+- [Com produção fora da Suíça, Toblerone vai precisar mudar de logo](https://www.nexojornal.com.br/extra/2023/03/06/Com-produ%C3%A7%C3%A3o-fora-da-Su%C3%AD%C3%A7a-Toblerone-vai-precisar-mudar-de-logo)
+- [Morre torcedor ferido em briga antes de Flamengo x Vasco](https://www.nexojornal.com.br/extra/2023/03/06/Morre-torcedor-ferido-em-briga-antes-de-Flamengo-x-Vasco)
+- [Novas regras para laqueadura e vasectomia começam a valer](https://www.nexojornal.com.br/extra/2023/03/06/Novas-regras-para-laqueadura-e-vasectomia-come%C3%A7am-a-valer)
+- [Chefe da Receita foi nomeado para Paris após tentar reaver joias](https://www.nexojornal.com.br/extra/2023/03/06/Chefe-da-Receita-foi-nomeado-para-Paris-ap%C3%B3s-tentar-reaver-joias)
+- [Eureca em baixa?](https://www.nexojornal.com.br/externo/2023/03/06/Eureca-em-baixa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
