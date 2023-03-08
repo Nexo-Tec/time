@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Liberdade acadêmica e autonomia universitária](https://pp.nexojornal.com.br/bibliografia-basica/2023/03/07/Liberdade-acad%C3%AAmica-e-autonomia-universit%C3%A1ria)
+- [Pobreza energética: os desafios da inclusão social e igualdade de gênero](https://pp.nexojornal.com.br/opiniao/2023/Pobreza-energ%C3%A9tica-os-desafios-da-inclus%C3%A3o-social-e-igualdade-de-g%C3%AAnero)
+- [Inteligência Artificial e regulação: por que é fundamental que as Big Techs sejam ouvidas?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Intelig%C3%AAncia-Artificial-e-regula%C3%A7%C3%A3o-por-que-%C3%A9-fundamental-que-as-Big-Techs-sejam-ouvidas)
+- [Relações raciais na educação infantil brasileira](https://pp.nexojornal.com.br/bibliografia-basica/2023/03/07/Rela%C3%A7%C3%B5es-raciais-na-educa%C3%A7%C3%A3o-infantil-brasileira)
 - [Agenda antiaborto no Judiciário: estratégias jurídicas das políticas antigênero](https://pp.nexojornal.com.br/opiniao/2023/Agenda-antiaborto-no-Judici%C3%A1rio-estrat%C3%A9gias-jur%C3%ADdicas-das-pol%C3%ADticas-antig%C3%AAnero)
-- [O espírito das ações afirmativas na era pré-cotas](https://pp.nexojornal.com.br/opiniao/2023/O-esp%C3%ADrito-das-a%C3%A7%C3%B5es-afirmativas-na-era-pr%C3%A9-cotas)
-- [Quais as melhores estratégias da agropecuária para reduzir emissões de gases de efeito estufa](https://pp.nexojornal.com.br/academico/2023/Quais-as-melhores-estrat%C3%A9gias-da-agropecu%C3%A1ria-para-reduzir-emiss%C3%B5es-de-gases-de-efeito-estufa)
-- [A relação entre religião e política no espaço público norte-americano](https://pp.nexojornal.com.br/academico/2023/A-rela%C3%A7%C3%A3o-entre-religi%C3%A3o-e-pol%C3%ADtica-no-espa%C3%A7o-p%C3%BAblico-norte-americano)
-- [Caminhos para uma agricultura sustentável](https://pp.nexojornal.com.br/opiniao/2023/Caminhos-para-uma-agricultura-sustent%C3%A1vel)
 <!-- PP_LIST:END -->
 
