@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os baianos, 200 anos depois: racismo e escravidão em 2023](https://www.nexojornal.com.br/colunistas/2023/Os-baianos-200-anos-depois-racismo-e-escravid%C3%A3o-em-2023)
-- [TCU quer ressarcimento por desperdício de vacinas de covid](https://www.nexojornal.com.br/extra/2023/03/07/TCU-quer-ressarcimento-por-desperd%C3%ADcio-de-vacinas-de-covid)
-- [David Alan Chipperfield vence Prêmio Pritzker de 2023](https://www.nexojornal.com.br/extra/2023/03/07/David-Alan-Chipperfield-vence-Pr%C3%AAmio-Pritzker-de-2023)
-- [Qual a proposta da nova rede social do criador do Twitter](https://www.nexojornal.com.br/expresso/2023/03/07/Qual-a-proposta-da-nova-rede-social-do-criador-do-Twitter)
-- [A mescla de terror e crítica social nos mangás de Junji Ito](https://www.nexojornal.com.br/expresso/2023/03/07/A-mescla-de-terror-e-cr%C3%ADtica-social-nos-mang%C3%A1s-de-Junji-Ito)
+- [A resistência do governo Lula em condenar as ações de Ortega](https://www.nexojornal.com.br/expresso/2023/03/06/A-resist%C3%AAncia-do-governo-Lula-em-condenar-as-a%C3%A7%C3%B5es-de-Ortega)
+- [Joias da Arábia: o público e o privado nas ações de Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/06/Joias-da-Ar%C3%A1bia-o-p%C3%BAblico-e-o-privado-nas-a%C3%A7%C3%B5es-de-Bolsonaro)
+- [Comissão vai analisar uso de voo da FAB por Juscelino Filho](https://www.nexojornal.com.br/extra/2023/03/06/Comiss%C3%A3o-vai-analisar-uso-de-voo-da-FAB-por-Juscelino-Filho)
+- [Quais as perspectivas para o consumo de carne no Brasil](https://www.nexojornal.com.br/expresso/2023/03/06/Quais-as-perspectivas-para-o-consumo-de-carne-no-Brasil)
+- [Baterias de lítio ionizado explodem e causam incêndios em Nova York](https://www.nexojornal.com.br/extra/2023/03/06/Baterias-de-l%C3%ADtio-ionizado-explodem-e-causam-inc%C3%AAndios-em-Nova-York)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
