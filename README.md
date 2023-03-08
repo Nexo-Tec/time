@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o Congresso nunca foi presidido por uma mulher](https://www.nexojornal.com.br/expresso/2023/03/07/Por-que-o-Congresso-nunca-foi-presidido-por-uma-mulher)
-- [Como a atitude diante da Nicarágua afeta Lula e a esquerda](https://www.nexojornal.com.br/expresso/2023/03/07/Como-a-atitude-diante-da-Nicar%C3%A1gua-afeta-Lula-e-a-esquerda)
-- [Ministro defende descriminalização das drogas no Brasil](https://www.nexojornal.com.br/extra/2023/03/07/Ministro-defende-descriminaliza%C3%A7%C3%A3o-das-drogas-no-Brasil)
-- [A prática que rendeu prêmio de turismo sustentável a SC](https://www.nexojornal.com.br/expresso/2023/03/07/A-pr%C3%A1tica-que-rendeu-pr%C3%AAmio-de-turismo-sustent%C3%A1vel-a-SC)
-- [Mulheres são a maioria entre novos mestres e doutores no Brasil](https://www.nexojornal.com.br/grafico/2023/03/07/Mulheres-s%C3%A3o-a-maioria-entre-novos-mestres-e-doutores-no-Brasil)
+- [Lula anuncia projeto que pune empresa por desigualdade salarial](https://www.nexojornal.com.br/extra/2023/03/08/Lula-anuncia-projeto-que-pune-empresa-por-desigualdade-salarial)
+- [Sem nunca ter funcionado, VLT de Cuiabá é desmontado](https://www.nexojornal.com.br/extra/2023/Sem-nunca-ter-funcionado-VLT-de-Cuiab%C3%A1-%C3%A9-desmontado)
+- [Os filmes favoritos nas principais categorias do Oscar 2023](https://www.nexojornal.com.br/expresso/2023/03/08/Os-filmes-favoritos-nas-principais-categorias-do-Oscar-2023)
+- [MEC encerra Enem digital após baixa adesão de estudantes](https://www.nexojornal.com.br/extra/2023/03/08/MEC-encerra-Enem-digital-ap%C3%B3s-baixa-ades%C3%A3o-de-estudantes)
+- [Pesquisa mapeia políticas de igualdade de gênero na indústria](https://www.nexojornal.com.br/extra/2023/03/08/Pesquisa-mapeia-pol%C3%ADticas-de-igualdade-de-g%C3%AAnero-na-ind%C3%BAstria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
