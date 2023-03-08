@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os baianos, 200 anos depois: racismo e escravidão em 2023](https://www.nexojornal.com.br/colunistas/2023/Os-baianos-200-anos-depois-racismo-e-escravid%C3%A3o-em-2023)
-- [TCU quer ressarcimento por desperdício de vacinas de covid](https://www.nexojornal.com.br/extra/2023/03/07/TCU-quer-ressarcimento-por-desperd%C3%ADcio-de-vacinas-de-covid)
-- [David Alan Chipperfield vence Prêmio Pritzker de 2023](https://www.nexojornal.com.br/extra/2023/03/07/David-Alan-Chipperfield-vence-Pr%C3%AAmio-Pritzker-de-2023)
-- [Qual a proposta da nova rede social do criador do Twitter](https://www.nexojornal.com.br/expresso/2023/03/07/Qual-a-proposta-da-nova-rede-social-do-criador-do-Twitter)
-- [A mescla de terror e crítica social nos mangás de Junji Ito](https://www.nexojornal.com.br/expresso/2023/03/07/A-mescla-de-terror-e-cr%C3%ADtica-social-nos-mang%C3%A1s-de-Junji-Ito)
+- [Por que o Congresso nunca foi presidido por uma mulher](https://www.nexojornal.com.br/expresso/2023/03/07/Por-que-o-Congresso-nunca-foi-presidido-por-uma-mulher)
+- [Como a atitude diante da Nicarágua afeta Lula e a esquerda](https://www.nexojornal.com.br/expresso/2023/03/07/Como-a-atitude-diante-da-Nicar%C3%A1gua-afeta-Lula-e-a-esquerda)
+- [Ministro defende descriminalização das drogas no Brasil](https://www.nexojornal.com.br/extra/2023/03/07/Ministro-defende-descriminaliza%C3%A7%C3%A3o-das-drogas-no-Brasil)
+- [A prática que rendeu prêmio de turismo sustentável a SC](https://www.nexojornal.com.br/expresso/2023/03/07/A-pr%C3%A1tica-que-rendeu-pr%C3%AAmio-de-turismo-sustent%C3%A1vel-a-SC)
+- [Mulheres são a maioria entre novos mestres e doutores no Brasil](https://www.nexojornal.com.br/grafico/2023/03/07/Mulheres-s%C3%A3o-a-maioria-entre-novos-mestres-e-doutores-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
