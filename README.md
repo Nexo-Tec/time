@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os desafios para implementar a paridade salarial entre gêneros](https://www.nexojornal.com.br/expresso/2023/03/08/Os-desafios-para-implementar-a-paridade-salarial-entre-g%C3%AAneros)
-- [Perfilamento racial: quando a polícia aborda alguém pela cor](https://www.nexojornal.com.br/expresso/2023/03/08/Perfilamento-racial-quando-a-pol%C3%ADcia-aborda-algu%C3%A9m-pela-cor)
-- [Oposição fica sem comando de comissões do Senado](https://www.nexojornal.com.br/extra/2023/03/08/Oposi%C3%A7%C3%A3o-fica-sem-comando-de-comiss%C3%B5es-do-Senado)
-- [Venda de refinaria e joias: quais as lacunas dessa associação](https://www.nexojornal.com.br/expresso/2023/03/08/Venda-de-refinaria-e-joias-quais-as-lacunas-dessa-associa%C3%A7%C3%A3o)
-- [Violência doméstica: vítimas não precisam afirmar acusação a juiz](https://www.nexojornal.com.br/extra/2023/03/08/Viol%C3%AAncia-dom%C3%A9stica-v%C3%ADtimas-n%C3%A3o-precisam-afirmar-acusa%C3%A7%C3%A3o-a-juiz)
+- [Lula anuncia projeto que pune empresa por desigualdade salarial](https://www.nexojornal.com.br/extra/2023/03/08/Lula-anuncia-projeto-que-pune-empresa-por-desigualdade-salarial)
+- [Sem nunca ter funcionado, VLT de Cuiabá é desmontado](https://www.nexojornal.com.br/extra/2023/Sem-nunca-ter-funcionado-VLT-de-Cuiab%C3%A1-%C3%A9-desmontado)
+- [Os filmes favoritos nas principais categorias do Oscar 2023](https://www.nexojornal.com.br/expresso/2023/03/08/Os-filmes-favoritos-nas-principais-categorias-do-Oscar-2023)
+- [MEC encerra Enem digital após baixa adesão de estudantes](https://www.nexojornal.com.br/extra/2023/03/08/MEC-encerra-Enem-digital-ap%C3%B3s-baixa-ades%C3%A3o-de-estudantes)
+- [Pesquisa mapeia políticas de igualdade de gênero na indústria](https://www.nexojornal.com.br/extra/2023/03/08/Pesquisa-mapeia-pol%C3%ADticas-de-igualdade-de-g%C3%AAnero-na-ind%C3%BAstria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
