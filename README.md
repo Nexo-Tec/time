@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes solta 149 mulheres presas por invasão dos Três Poderes](https://www.nexojornal.com.br/extra/2023/03/08/Moraes-solta-149-mulheres-presas-por-invas%C3%A3o-dos-Tr%C3%AAs-Poderes)
+- [Nikolas Ferreira faz discurso transfóbico e machista na Câmara](https://www.nexojornal.com.br/extra/2023/03/08/Nikolas-Ferreira-faz-discurso-transf%C3%B3bico-e-machista-na-C%C3%A2mara)
 - [Lula anuncia projeto que pune empresa por desigualdade salarial](https://www.nexojornal.com.br/extra/2023/03/08/Lula-anuncia-projeto-que-pune-empresa-por-desigualdade-salarial)
 - [Sem nunca ter funcionado, VLT de Cuiabá é desmontado](https://www.nexojornal.com.br/extra/2023/Sem-nunca-ter-funcionado-VLT-de-Cuiab%C3%A1-%C3%A9-desmontado)
 - [Os filmes favoritos nas principais categorias do Oscar 2023](https://www.nexojornal.com.br/expresso/2023/03/08/Os-filmes-favoritos-nas-principais-categorias-do-Oscar-2023)
-- [MEC encerra Enem digital após baixa adesão de estudantes](https://www.nexojornal.com.br/extra/2023/03/08/MEC-encerra-Enem-digital-ap%C3%B3s-baixa-ades%C3%A3o-de-estudantes)
-- [Pesquisa mapeia políticas de igualdade de gênero na indústria](https://www.nexojornal.com.br/extra/2023/03/08/Pesquisa-mapeia-pol%C3%ADticas-de-igualdade-de-g%C3%AAnero-na-ind%C3%BAstria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
