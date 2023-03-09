@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A nova Pinacoteca Contemporânea em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-pinacoteca-contemporanea-em-sp/)
+- [Livro adentra mente da vencedora do Nobel Olga Tokarczuk](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-adentra-mente-da-vencedora-do-nobel-olga-tokarczuk/)
 - [‘Falas Femininas – Histórias Impossíveis’ no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/falas-femininas-historias-impossiveis-no-globoplay/)
 - [A vida de Che Guevara em quadrinhos](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-vida-de-che-guevara-em-quadrinhos/)
 - [Exposição homenageia Angeli e cinema stop motion](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-homenageia-angeli-e-cinema-stop-motion/)
-- [Quem tem medo de Hilton Als?](https://gamarevista.uol.com.br/artigo/quem-tem-medo-de-hilton-als/)
-- [Por um feminismo do coletivo](https://gamarevista.uol.com.br/colunistas/winnie-bueno/por-um-feminismo-do-coletivo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
