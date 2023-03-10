@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Joias sauditas: TCU determina depoimento de Bolsonaro](https://www.nexojornal.com.br/extra/2023/03/09/Joias-sauditas-TCU-determina-depoimento-de-Bolsonaro)
-- [Por que a Câmara é tão leniente com a falta de decoro](https://www.nexojornal.com.br/expresso/2023/03/09/Por-que-a-C%C3%A2mara-%C3%A9-t%C3%A3o-leniente-com-a-falta-de-decoro)
-- [As versões sobre a explosão de gasodutos da Rússia](https://www.nexojornal.com.br/expresso/2023/03/09/As-vers%C3%B5es-sobre-a-explos%C3%A3o-de-gasodutos-da-R%C3%BAssia)
-- [Brasil vai retomar exigência de visto de turistas de 4 países](https://www.nexojornal.com.br/extra/2023/03/09/Brasil-vai-retomar-exig%C3%AAncia-de-visto-de-turistas-de-4-pa%C3%ADses)
-- [Incels, pílulas vermelhas e a opressão ao desejo sexual](https://www.nexojornal.com.br/colunistas/2023/Incels-p%C3%ADlulas-vermelhas-e-a-opress%C3%A3o-ao-desejo-sexual)
+- [Os desafios para implementar a paridade salarial entre gêneros](https://www.nexojornal.com.br/expresso/2023/03/08/Os-desafios-para-implementar-a-paridade-salarial-entre-g%C3%AAneros)
+- [Perfilamento racial: quando a polícia aborda alguém pela cor](https://www.nexojornal.com.br/expresso/2023/03/08/Perfilamento-racial-quando-a-pol%C3%ADcia-aborda-algu%C3%A9m-pela-cor)
+- [Oposição fica sem comando de comissões do Senado](https://www.nexojornal.com.br/extra/2023/03/08/Oposi%C3%A7%C3%A3o-fica-sem-comando-de-comiss%C3%B5es-do-Senado)
+- [Venda de refinaria e joias: quais as lacunas dessa associação](https://www.nexojornal.com.br/expresso/2023/03/08/Venda-de-refinaria-e-joias-quais-as-lacunas-dessa-associa%C3%A7%C3%A3o)
+- [Violência doméstica: vítimas não precisam afirmar acusação a juiz](https://www.nexojornal.com.br/extra/2023/03/08/Viol%C3%AAncia-dom%C3%A9stica-v%C3%ADtimas-n%C3%A3o-precisam-afirmar-acusa%C3%A7%C3%A3o-a-juiz)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
