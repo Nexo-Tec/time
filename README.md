@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A persistência das desigualdades educacionais no Brasil, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-persist%C3%AAncia-das-desigualdades-educacionais-no-Brasil-em-4-pontos)
-- [‘É preciso deixar a floresta em pé e viva. É por isso que os Yanomami começaram a desenhar’](https://pp.nexojornal.com.br/topico/2023/03/10/%E2%80%98%C3%89-preciso-deixar-a-floresta-em-p%C3%A9-e-viva.-%C3%89-por-isso-que-os-Yanomami-come%C3%A7aram-a-desenhar%E2%80%99)
-- [8 pontos sobre pobreza e insegurança alimentar no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/8-pontos-sobre-pobreza-e-inseguran%C3%A7a-alimentar-no-Brasil)
 - [Hijab e o direito de ser muçulmana no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Hijab-e-o-direito-de-ser-mu%C3%A7ulmana-no-Brasil)
 - [Liberdade acadêmica e autonomia universitária](https://pp.nexojornal.com.br/bibliografia-basica/2023/03/07/Liberdade-acad%C3%AAmica-e-autonomia-universit%C3%A1ria)
+- [Pobreza energética: os desafios da inclusão social e igualdade de gênero](https://pp.nexojornal.com.br/opiniao/2023/Pobreza-energ%C3%A9tica-os-desafios-da-inclus%C3%A3o-social-e-igualdade-de-g%C3%AAnero)
+- [Inteligência Artificial e regulação: por que é fundamental que as Big Techs sejam ouvidas?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Intelig%C3%AAncia-Artificial-e-regula%C3%A7%C3%A3o-por-que-%C3%A9-fundamental-que-as-Big-Techs-sejam-ouvidas)
+- [Relações raciais na educação infantil brasileira](https://pp.nexojornal.com.br/bibliografia-basica/2023/03/07/Rela%C3%A7%C3%B5es-raciais-na-educa%C3%A7%C3%A3o-infantil-brasileira)
 <!-- PP_LIST:END -->
 
