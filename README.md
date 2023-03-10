@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Joias sauditas: TCU determina depoimento de Bolsonaro](https://www.nexojornal.com.br/extra/2023/03/09/Joias-sauditas-TCU-determina-depoimento-de-Bolsonaro)
-- [Por que a Câmara é tão leniente com a falta de decoro](https://www.nexojornal.com.br/expresso/2023/03/09/Por-que-a-C%C3%A2mara-%C3%A9-t%C3%A3o-leniente-com-a-falta-de-decoro)
-- [As versões sobre a explosão de gasodutos da Rússia](https://www.nexojornal.com.br/expresso/2023/03/09/As-vers%C3%B5es-sobre-a-explos%C3%A3o-de-gasodutos-da-R%C3%BAssia)
-- [Brasil vai retomar exigência de visto de turistas de 4 países](https://www.nexojornal.com.br/extra/2023/03/09/Brasil-vai-retomar-exig%C3%AAncia-de-visto-de-turistas-de-4-pa%C3%ADses)
-- [Incels, pílulas vermelhas e a opressão ao desejo sexual](https://www.nexojornal.com.br/colunistas/2023/Incels-p%C3%ADlulas-vermelhas-e-a-opress%C3%A3o-ao-desejo-sexual)
+- [Os primeiros passos no Congresso dos ícones do lavajatismo](https://www.nexojornal.com.br/podcast/2023/03/09/Os-primeiros-passos-no-Congresso-dos-%C3%ADcones-do-lavajatismo)
+- [‘Dólar Malbec’: Argentina cria cotação para setor de vinhos](https://www.nexojornal.com.br/extra/2023/03/09/%E2%80%98D%C3%B3lar-Malbec%E2%80%99-Argentina-cria-cota%C3%A7%C3%A3o-para-setor-de-vinhos)
+- [Como o espaço urbano molda a vida da população negra](https://www.nexojornal.com.br/academico/2023/03/09/Como-o-espa%C3%A7o-urbano-molda-a-vida-da-popula%C3%A7%C3%A3o-negra)
+- [Líder do PP na Câmara protocola pedido de CPI da Americanas](https://www.nexojornal.com.br/extra/2023/03/09/L%C3%ADder-do-PP-na-C%C3%A2mara-protocola-pedido-de-CPI-da-Americanas)
+- [O processo de verticalização da cidade do Rio de Janeiro](https://www.nexojornal.com.br/grafico/2023/03/09/O-processo-de-verticaliza%C3%A7%C3%A3o-da-cidade-do-Rio-de-Janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
