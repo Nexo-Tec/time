@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Vinicius Calderoni](https://gamarevista.uol.com.br/pessoas/questionario-proust/vinicius-calderoni/)
 - [A nova Pinacoteca Contemporânea em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-pinacoteca-contemporanea-em-sp/)
 - [Livro adentra mente da vencedora do Nobel Olga Tokarczuk](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-adentra-mente-da-vencedora-do-nobel-olga-tokarczuk/)
 - [‘Falas Femininas – Histórias Impossíveis’ no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/falas-femininas-historias-impossiveis-no-globoplay/)
 - [A vida de Che Guevara em quadrinhos](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-vida-de-che-guevara-em-quadrinhos/)
-- [Exposição homenageia Angeli e cinema stop motion](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-homenageia-angeli-e-cinema-stop-motion/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
