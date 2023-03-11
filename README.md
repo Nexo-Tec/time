@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O papel das roupas de trabalho na percepção sobre as mulheres](https://www.nexojornal.com.br/externo/2023/03/10/O-papel-das-roupas-de-trabalho-na-percep%C3%A7%C3%A3o-sobre-as-mulheres)
-- [O experimento japonês que busca criar um ‘leitor de mentes’](https://www.nexojornal.com.br/expresso/2023/03/10/O-experimento-japon%C3%AAs-que-busca-criar-um-%E2%80%98leitor-de-mentes%E2%80%99)
-- [‘Império da dor’: uma empresa sustentada pelo vício](https://www.nexojornal.com.br/estante/trechos/2023/03/10/%E2%80%98Imp%C3%A9rio-da-dor%E2%80%99-uma-empresa-sustentada-pelo-v%C3%ADcio)
-- [A falta de tratamento no SUS para quem tem covid longa e sequelas](https://www.nexojornal.com.br/externo/2023/03/10/A-falta-de-tratamento-no-SUS-para-quem-tem-covid-longa-e-sequelas)
-- [Covid: por que o mundo ainda está em estado de pandemia](https://www.nexojornal.com.br/expresso/2023/03/10/Covid-por-que-o-mundo-ainda-est%C3%A1-em-estado-de-pandemia)
+- [Joias sauditas: TCU determina depoimento de Bolsonaro](https://www.nexojornal.com.br/extra/2023/03/09/Joias-sauditas-TCU-determina-depoimento-de-Bolsonaro)
+- [Por que a Câmara é tão leniente com a falta de decoro](https://www.nexojornal.com.br/expresso/2023/03/09/Por-que-a-C%C3%A2mara-%C3%A9-t%C3%A3o-leniente-com-a-falta-de-decoro)
+- [As versões sobre a explosão de gasodutos da Rússia](https://www.nexojornal.com.br/expresso/2023/03/09/As-vers%C3%B5es-sobre-a-explos%C3%A3o-de-gasodutos-da-R%C3%BAssia)
+- [Brasil vai retomar exigência de visto de turistas de 4 países](https://www.nexojornal.com.br/extra/2023/03/09/Brasil-vai-retomar-exig%C3%AAncia-de-visto-de-turistas-de-4-pa%C3%ADses)
+- [Incels, pílulas vermelhas e a opressão ao desejo sexual](https://www.nexojornal.com.br/colunistas/2023/Incels-p%C3%ADlulas-vermelhas-e-a-opress%C3%A3o-ao-desejo-sexual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
