@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As mochilas solares que ajudam estudantes de Botsuana](https://www.nexojornal.com.br/expresso/2023/03/12/As-mochilas-solares-que-ajudam-estudantes-de-Botsuana)
-- [5 livros para conhecer o pensamento crítico de mulheres negras](https://www.nexojornal.com.br/estante/favoritos/2023/03/12/5-livros-para-conhecer-o-pensamento-cr%C3%ADtico-de-mulheres-negras)
-- [A importância do tratado de alto-mar. E as críticas a ele](https://www.nexojornal.com.br/expresso/2023/03/12/A-import%C3%A2ncia-do-tratado-de-alto-mar.-E-as-cr%C3%ADticas-a-ele)
-- [Uma cidade riscada do mapa](https://www.nexojornal.com.br/ensaio/2023/03/12/Uma-cidade-riscada-do-mapa)
-- [Quais as disputas na comissão Yanomami no Senado](https://www.nexojornal.com.br/expresso/2023/03/12/Quais-as-disputas-na-comiss%C3%A3o-Yanomami-no-Senado)
+- [O papel das roupas de trabalho na percepção sobre as mulheres](https://www.nexojornal.com.br/externo/2023/03/10/O-papel-das-roupas-de-trabalho-na-percep%C3%A7%C3%A3o-sobre-as-mulheres)
+- [O experimento japonês que busca criar um ‘leitor de mentes’](https://www.nexojornal.com.br/expresso/2023/03/10/O-experimento-japon%C3%AAs-que-busca-criar-um-%E2%80%98leitor-de-mentes%E2%80%99)
+- [‘Império da dor’: uma empresa sustentada pelo vício](https://www.nexojornal.com.br/estante/trechos/2023/03/10/%E2%80%98Imp%C3%A9rio-da-dor%E2%80%99-uma-empresa-sustentada-pelo-v%C3%ADcio)
+- [A falta de tratamento no SUS para quem tem covid longa e sequelas](https://www.nexojornal.com.br/externo/2023/03/10/A-falta-de-tratamento-no-SUS-para-quem-tem-covid-longa-e-sequelas)
+- [Covid: por que o mundo ainda está em estado de pandemia](https://www.nexojornal.com.br/expresso/2023/03/10/Covid-por-que-o-mundo-ainda-est%C3%A1-em-estado-de-pandemia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
