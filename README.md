@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Maria Homem: “Em grupo, abrimos mão da realidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-homem-fala-sobre-a-busca-para-se-encaixar-em-um-grupo/)
 - [Essa tecnologia audaciosa](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/essa-tecnologia-audaciosa/)
 - [Vinicius Calderoni](https://gamarevista.uol.com.br/pessoas/questionario-proust/vinicius-calderoni/)
 - [A nova Pinacoteca Contemporânea em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-pinacoteca-contemporanea-em-sp/)
 - [Livro adentra mente da vencedora do Nobel Olga Tokarczuk](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-adentra-mente-da-vencedora-do-nobel-olga-tokarczuk/)
-- [‘Falas Femininas – Histórias Impossíveis’ no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/falas-femininas-historias-impossiveis-no-globoplay/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
