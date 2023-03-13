@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Tudo em todo lugar ao mesmo tempo’ se consagra no Oscar 2023](https://www.nexojornal.com.br/extra/2023/03/13/%E2%80%98Tudo-em-todo-lugar-ao-mesmo-tempo%E2%80%99-se-consagra-no-Oscar-2023)
 - [Como artistas contribuíram para o fim da escravidão no Brasil](https://www.nexojornal.com.br/externo/2023/03/12/Como-artistas-contribu%C3%ADram-para-o-fim-da-escravid%C3%A3o-no-Brasil)
 - [O legado de Marielle Franco na história das mulheres brasileiras](https://www.nexojornal.com.br/ensaio/2023/03/12/O-legado-de-Marielle-Franco-na-hist%C3%B3ria-das-mulheres-brasileiras)
 - [Como o desmatamento de florestas afeta o regime de chuvas](https://www.nexojornal.com.br/expresso/2023/03/12/Como-o-desmatamento-de-florestas-afeta-o-regime-de-chuvas)
 - [Qual a viabilidade de um orçamento participativo federal](https://www.nexojornal.com.br/expresso/2023/03/12/Qual-a-viabilidade-de-um-or%C3%A7amento-participativo-federal)
+- [Senado francês aprova reforma da Previdência](https://www.nexojornal.com.br/extra/2023/03/12/Senado-franc%C3%AAs-aprova-reforma-da-Previd%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
