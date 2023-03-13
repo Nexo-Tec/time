@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As mochilas solares que ajudam estudantes de Botsuana](https://www.nexojornal.com.br/expresso/2023/03/12/As-mochilas-solares-que-ajudam-estudantes-de-Botsuana)
-- [5 livros para conhecer o pensamento crítico de mulheres negras](https://www.nexojornal.com.br/estante/favoritos/2023/03/12/5-livros-para-conhecer-o-pensamento-cr%C3%ADtico-de-mulheres-negras)
-- [A importância do tratado de alto-mar. E as críticas a ele](https://www.nexojornal.com.br/expresso/2023/03/12/A-import%C3%A2ncia-do-tratado-de-alto-mar.-E-as-cr%C3%ADticas-a-ele)
-- [Uma cidade riscada do mapa](https://www.nexojornal.com.br/ensaio/2023/03/12/Uma-cidade-riscada-do-mapa)
-- [Quais as disputas na comissão Yanomami no Senado](https://www.nexojornal.com.br/expresso/2023/03/12/Quais-as-disputas-na-comiss%C3%A3o-Yanomami-no-Senado)
+- [Como artistas contribuíram para o fim da escravidão no Brasil](https://www.nexojornal.com.br/externo/2023/03/12/Como-artistas-contribu%C3%ADram-para-o-fim-da-escravid%C3%A3o-no-Brasil)
+- [O legado de Marielle Franco na história das mulheres brasileiras](https://www.nexojornal.com.br/ensaio/2023/03/12/O-legado-de-Marielle-Franco-na-hist%C3%B3ria-das-mulheres-brasileiras)
+- [Como o desmatamento de florestas afeta o regime de chuvas](https://www.nexojornal.com.br/expresso/2023/03/12/Como-o-desmatamento-de-florestas-afeta-o-regime-de-chuvas)
+- [Qual a viabilidade de um orçamento participativo federal](https://www.nexojornal.com.br/expresso/2023/03/12/Qual-a-viabilidade-de-um-or%C3%A7amento-participativo-federal)
+- [Senado francês aprova reforma da Previdência](https://www.nexojornal.com.br/extra/2023/03/12/Senado-franc%C3%AAs-aprova-reforma-da-Previd%C3%AAncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
