@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Maria Homem: “Em grupo, abrimos mão da realidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-homem-fala-sobre-a-busca-para-se-encaixar-em-um-grupo/)
+- [Maria Homem: “Em grupo, podemos abrir mão da realidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-homem-fala-sobre-a-busca-para-se-encaixar-em-um-grupo/)
 - [Essa tecnologia audaciosa](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/essa-tecnologia-audaciosa/)
 - [Vinicius Calderoni](https://gamarevista.uol.com.br/pessoas/questionario-proust/vinicius-calderoni/)
 - [A nova Pinacoteca Contemporânea em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-pinacoteca-contemporanea-em-sp/)
