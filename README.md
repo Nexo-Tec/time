@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Televisão de cachorro](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/televisao-de-cachorro/)
 - [@kehuyquan](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/kehuyquan/)
 - [Maria Homem: “Em grupo, podemos abrir mão da realidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-homem-fala-sobre-a-busca-para-se-encaixar-em-um-grupo/)
 - [Essa tecnologia audaciosa](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/essa-tecnologia-audaciosa/)
 - [Vinicius Calderoni](https://gamarevista.uol.com.br/pessoas/questionario-proust/vinicius-calderoni/)
-- [A nova Pinacoteca Contemporânea em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-nova-pinacoteca-contemporanea-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
