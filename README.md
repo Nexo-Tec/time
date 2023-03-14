@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como estão os projetos de Marielle Franco 5 anos após sua morte](https://www.nexojornal.com.br/expresso/2023/03/13/Como-est%C3%A3o-os-projetos-de-Marielle-Franco-5-anos-ap%C3%B3s-sua-morte)
-- [Até logo mais ou te encontro lá na próxima esquina](https://www.nexojornal.com.br/colunistas/2023/At%C3%A9-logo-mais-ou-te-encontro-l%C3%A1-na-pr%C3%B3xima-esquina)
-- [Advogados de Bolsonaro dizem que ele devolverá joias](https://www.nexojornal.com.br/extra/2023/03/13/Advogados-de-Bolsonaro-dizem-que-ele-devolver%C3%A1-joias)
-- [As brechas na busca por punição dos invasores dos Poderes](https://www.nexojornal.com.br/podcast/2023/03/13/As-brechas-na-busca-por-puni%C3%A7%C3%A3o-dos-invasores-dos-Poderes)
-- [Brasil inicia primeira fase da vacinação contra a mpox](https://www.nexojornal.com.br/extra/2023/03/13/Brasil-inicia-primeira-fase-da-vacina%C3%A7%C3%A3o-contra-a-mpox)
+- [Silicon Valley Bank: quais as ramificações da quebra do banco](https://www.nexojornal.com.br/expresso/2023/03/13/Silicon-Valley-Bank-quais-as-ramifica%C3%A7%C3%B5es-da-quebra-do-banco)
+- [Moraes solta mais 130 detidos por atos antidemocráticos](https://www.nexojornal.com.br/extra/2023/03/13/Moraes-solta-mais-130-detidos-por-atos-antidemocr%C3%A1ticos)
+- [Desabamento causado por chuva deixa 8 mortos em Manaus](https://www.nexojornal.com.br/extra/2023/03/13/Desabamento-causado-por-chuva-deixa-8-mortos-em-Manaus)
+- [‘Tudo em todo lugar ao mesmo tempo’ se consagra no Oscar 2023](https://www.nexojornal.com.br/extra/2023/03/13/%E2%80%98Tudo-em-todo-lugar-ao-mesmo-tempo%E2%80%99-se-consagra-no-Oscar-2023)
+- [Como artistas contribuíram para o fim da escravidão no Brasil](https://www.nexojornal.com.br/externo/2023/03/12/Como-artistas-contribu%C3%ADram-para-o-fim-da-escravid%C3%A3o-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
