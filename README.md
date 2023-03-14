@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como artistas contribuíram para o fim da escravidão no Brasil](https://www.nexojornal.com.br/externo/2023/03/12/Como-artistas-contribu%C3%ADram-para-o-fim-da-escravid%C3%A3o-no-Brasil)
-- [O legado de Marielle Franco na história das mulheres brasileiras](https://www.nexojornal.com.br/ensaio/2023/03/12/O-legado-de-Marielle-Franco-na-hist%C3%B3ria-das-mulheres-brasileiras)
-- [Como o desmatamento de florestas afeta o regime de chuvas](https://www.nexojornal.com.br/expresso/2023/03/12/Como-o-desmatamento-de-florestas-afeta-o-regime-de-chuvas)
-- [Qual a viabilidade de um orçamento participativo federal](https://www.nexojornal.com.br/expresso/2023/03/12/Qual-a-viabilidade-de-um-or%C3%A7amento-participativo-federal)
-- [Senado francês aprova reforma da Previdência](https://www.nexojornal.com.br/extra/2023/03/12/Senado-franc%C3%AAs-aprova-reforma-da-Previd%C3%AAncia)
+- [Como estão os projetos de Marielle Franco 5 anos após sua morte](https://www.nexojornal.com.br/expresso/2023/03/13/Como-est%C3%A3o-os-projetos-de-Marielle-Franco-5-anos-ap%C3%B3s-sua-morte)
+- [Até logo mais ou te encontro lá na próxima esquina](https://www.nexojornal.com.br/colunistas/2023/At%C3%A9-logo-mais-ou-te-encontro-l%C3%A1-na-pr%C3%B3xima-esquina)
+- [Advogados de Bolsonaro dizem que ele devolverá joias](https://www.nexojornal.com.br/extra/2023/03/13/Advogados-de-Bolsonaro-dizem-que-ele-devolver%C3%A1-joias)
+- [As brechas na busca por punição dos invasores dos Poderes](https://www.nexojornal.com.br/podcast/2023/03/13/As-brechas-na-busca-por-puni%C3%A7%C3%A3o-dos-invasores-dos-Poderes)
+- [Brasil inicia primeira fase da vacinação contra a mpox](https://www.nexojornal.com.br/extra/2023/03/13/Brasil-inicia-primeira-fase-da-vacina%C3%A7%C3%A3o-contra-a-mpox)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
