@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os municípios que mais recebem royalties de petróleo e gás](https://www.nexojornal.com.br/grafico/2023/03/14/Os-munic%C3%ADpios-que-mais-recebem-royalties-de-petr%C3%B3leo-e-g%C3%A1s1)
-- [Cidades potiguares têm madrugada  de vandalismo](https://www.nexojornal.com.br/extra/2023/03/14/Cidades-potiguares-t%C3%AAm-madrugada-de-vandalismo)
-- [Eliseu Padilha, ex-ministro de 3 governos, morre aos 77 anos](https://www.nexojornal.com.br/extra/2023/03/14/Eliseu-Padilha-ex-ministro-de-3-governos-morre-aos-77-anos)
-- [Como estão os projetos de Marielle Franco 5 anos após sua morte](https://www.nexojornal.com.br/expresso/2023/03/13/Como-est%C3%A3o-os-projetos-de-Marielle-Franco-5-anos-ap%C3%B3s-sua-morte)
-- [Até logo mais ou te encontro lá na próxima esquina](https://www.nexojornal.com.br/colunistas/2023/At%C3%A9-logo-mais-ou-te-encontro-l%C3%A1-na-pr%C3%B3xima-esquina)
+- [A estação do Metrô que foi de Paulo Freire a Fernão Dias](https://www.nexojornal.com.br/expresso/2023/03/14/A-esta%C3%A7%C3%A3o-do-Metr%C3%B4-que-foi-de-Paulo-Freire-a-Fern%C3%A3o-Dias)
+- [Por que governos agem para evitar a quebra de bancos privados](https://www.nexojornal.com.br/expresso/2023/03/14/Por-que-governos-agem-para-evitar-a-quebra-de-bancos-privados)
+- [O Brasil precisa de mais mulheres à frente das políticas públicas](https://www.nexojornal.com.br/colunistas/2023/O-Brasil-precisa-de-mais-mulheres-%C3%A0-frente-das-pol%C3%ADticas-p%C3%BAblicas)
+- [A nova vaga do STF e a desigualdade no Judiciário brasileiro](https://www.nexojornal.com.br/podcast/2023/03/14/A-nova-vaga-do-STF-e-a-desigualdade-no-Judici%C3%A1rio-brasileiro)
+- [Em novo corte, Meta fala em demitir 10 mil funcionários](https://www.nexojornal.com.br/extra/2023/03/14/Em-novo-corte-Meta-fala-em-demitir-10-mil-funcion%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
