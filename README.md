@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Receita começa a receber declarações do Imposto de Renda](https://www.nexojornal.com.br/extra/2023/03/15/Receita-come%C3%A7a-a-receber-declara%C3%A7%C3%B5es-do-Imposto-de-Renda)
-- [A estação do Metrô que foi de Paulo Freire a Fernão Dias](https://www.nexojornal.com.br/expresso/2023/03/14/A-esta%C3%A7%C3%A3o-do-Metr%C3%B4-que-foi-de-Paulo-Freire-a-Fern%C3%A3o-Dias)
-- [Por que governos agem para evitar a quebra de bancos privados](https://www.nexojornal.com.br/expresso/2023/03/14/Por-que-governos-agem-para-evitar-a-quebra-de-bancos-privados)
-- [O Brasil precisa de mais mulheres à frente das políticas públicas](https://www.nexojornal.com.br/colunistas/2023/O-Brasil-precisa-de-mais-mulheres-%C3%A0-frente-das-pol%C3%ADticas-p%C3%BAblicas)
-- [A nova vaga do STF e a desigualdade no Judiciário brasileiro](https://www.nexojornal.com.br/podcast/2023/03/14/A-nova-vaga-do-STF-e-a-desigualdade-no-Judici%C3%A1rio-brasileiro)
+- [A cruzada da Anatel contra a TV a cabo pirata no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/A-cruzada-da-Anatel-contra-a-TV-a-cabo-pirata-no-Brasil)
+- [Qual o histórico e os resultados das regras fiscais no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/Qual-o-hist%C3%B3rico-e-os-resultados-das-regras-fiscais-no-Brasil)
+- [Camara elege líderes de comissões. Saiba quem são](https://www.nexojornal.com.br/extra/2023/03/15/Camara-elege-l%C3%ADderes-de-comiss%C3%B5es.-Saiba-quem-s%C3%A3o)
+- [Da Abin à Receita: a máquina de espionar do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/15/Da-Abin-%C3%A0-Receita-a-m%C3%A1quina-de-espionar-do-governo-Bolsonaro)
+- [Nasa apresenta novo traje de astronautas da Artemis 3](https://www.nexojornal.com.br/extra/2023/03/15/Nasa-apresenta-novo-traje-de-astronautas-da-Artemis-3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
