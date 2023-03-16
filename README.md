@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Fome e democracia](https://pp.nexojornal.com.br/opiniao/2023/Fome-e-democracia)
-- [O percurso por uma nova Constituinte Chilena, desde a ditadura militar](https://pp.nexojornal.com.br/linha-do-tempo/2023/O-percurso-por-uma-nova-Constituinte-Chilena-desde-a-ditadura-militar)
-- [O papel das instituições na construção da resiliência para prevenção e enfrentamento de desastres naturais](https://pp.nexojornal.com.br/opiniao/2023/O-papel-das-institui%C3%A7%C3%B5es-na-constru%C3%A7%C3%A3o-da-resili%C3%AAncia-para-preven%C3%A7%C3%A3o-e-enfrentamento-de-desastres-naturais)
-- [Cinco anos de um crime socioambiental em Maceió](https://pp.nexojornal.com.br/opiniao/2023/Cinco-anos-de-um-crime-socioambiental-em-Macei%C3%B3)
-- [É hora de finalmente descriminalizar a prostituição no Brasil](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-hora-de-finalmente-descriminalizar-a-prostitui%C3%A7%C3%A3o-no-Brasil)
+- [Favela também desenha, monitora e avalia política pública](https://pp.nexojornal.com.br/opiniao/2023/Favela-tamb%C3%A9m-desenha-monitora-e-avalia-pol%C3%ADtica-p%C3%BAblica)
+- [A persistência das desigualdades educacionais no Brasil, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-persist%C3%AAncia-das-desigualdades-educacionais-no-Brasil-em-4-pontos)
+- [‘É preciso deixar a floresta em pé e viva. É por isso que os Yanomami começaram a desenhar’](https://pp.nexojornal.com.br/topico/2023/03/10/%E2%80%98%C3%89-preciso-deixar-a-floresta-em-p%C3%A9-e-viva.-%C3%89-por-isso-que-os-Yanomami-come%C3%A7aram-a-desenhar%E2%80%99)
+- [8 pontos sobre pobreza e insegurança alimentar no Brasil](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/8-pontos-sobre-pobreza-e-inseguran%C3%A7a-alimentar-no-Brasil)
+- [Hijab e o direito de ser muçulmana no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Hijab-e-o-direito-de-ser-mu%C3%A7ulmana-no-Brasil)
 <!-- PP_LIST:END -->
 
