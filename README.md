@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [A cruzada da Anatel contra a TV a cabo pirata no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/A-cruzada-da-Anatel-contra-a-TV-a-cabo-pirata-no-Brasil)
 - [Qual o histórico e os resultados das regras fiscais no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/Qual-o-hist%C3%B3rico-e-os-resultados-das-regras-fiscais-no-Brasil)
-- [Câmara elege líderes de comissões. Saiba quem são](https://www.nexojornal.com.br/extra/2023/03/15/C%C3%A2mara-elege-l%C3%ADderes-de-comiss%C3%B5es.-Saiba-quem-s%C3%A3o)
+- [Camara elege líderes de comissões. Saiba quem são](https://www.nexojornal.com.br/extra/2023/03/15/Camara-elege-l%C3%ADderes-de-comiss%C3%B5es.-Saiba-quem-s%C3%A3o)
 - [Da Abin à Receita: a máquina de espionar do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/15/Da-Abin-%C3%A0-Receita-a-m%C3%A1quina-de-espionar-do-governo-Bolsonaro)
 - [Nasa apresenta novo traje de astronautas da Artemis 3](https://www.nexojornal.com.br/extra/2023/03/15/Nasa-apresenta-novo-traje-de-astronautas-da-Artemis-3)
 <!-- NEXO_LIST:END -->
