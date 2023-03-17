@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A cruzada da Anatel contra a TV a cabo pirata no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/A-cruzada-da-Anatel-contra-a-TV-a-cabo-pirata-no-Brasil)
-- [Qual o histórico e os resultados das regras fiscais no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/Qual-o-hist%C3%B3rico-e-os-resultados-das-regras-fiscais-no-Brasil)
-- [Câmara elege líderes de comissões. Saiba quem são](https://www.nexojornal.com.br/extra/2023/03/15/C%C3%A2mara-elege-l%C3%ADderes-de-comiss%C3%B5es.-Saiba-quem-s%C3%A3o)
-- [Da Abin à Receita: a máquina de espionar do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/15/Da-Abin-%C3%A0-Receita-a-m%C3%A1quina-de-espionar-do-governo-Bolsonaro)
-- [Nasa apresenta novo traje de astronautas da Artemis 3](https://www.nexojornal.com.br/extra/2023/03/15/Nasa-apresenta-novo-traje-de-astronautas-da-Artemis-3)
+- [Como o TikTok protagoniza a tensão entre potências](https://www.nexojornal.com.br/expresso/2023/03/16/Como-o-TikTok-protagoniza-a-tens%C3%A3o-entre-pot%C3%AAncias)
+- [Como a violência no Rio Grande do Norte expõe a ação de facções](https://www.nexojornal.com.br/expresso/2023/03/16/Como-a-viol%C3%AAncia-no-Rio-Grande-do-Norte-exp%C3%B5e-a-a%C3%A7%C3%A3o-de-fac%C3%A7%C3%B5es)
+- [Como o gerenciamento de fotos se relaciona com regimes de poder](https://www.nexojornal.com.br/academico/2023/03/16/Como-o-gerenciamento-de-fotos-se-relaciona-com-regimes-de-poder)
+- [A reforma da Previdência na França imposta por canetada](https://www.nexojornal.com.br/podcast/2023/03/16/A-reforma-da-Previd%C3%AAncia-na-Fran%C3%A7a-imposta-por-canetada)
+- [Produção e tráfico de cocaína atinge nível recorde, diz ONU](https://www.nexojornal.com.br/extra/2023/03/16/Produ%C3%A7%C3%A3o-e-tr%C3%A1fico-de-coca%C3%ADna-atinge-n%C3%ADvel-recorde-diz-ONU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
