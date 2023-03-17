@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o TikTok protagoniza a tensão entre potências](https://www.nexojornal.com.br/expresso/2023/03/16/Como-o-TikTok-protagoniza-a-tens%C3%A3o-entre-pot%C3%AAncias)
-- [Como a violência no Rio Grande do Norte expõe a ação de facções](https://www.nexojornal.com.br/expresso/2023/03/16/Como-a-viol%C3%AAncia-no-Rio-Grande-do-Norte-exp%C3%B5e-a-a%C3%A7%C3%A3o-de-fac%C3%A7%C3%B5es)
-- [Como o gerenciamento de fotos se relaciona com regimes de poder](https://www.nexojornal.com.br/academico/2023/03/16/Como-o-gerenciamento-de-fotos-se-relaciona-com-regimes-de-poder)
-- [A reforma da Previdência na França imposta por canetada](https://www.nexojornal.com.br/podcast/2023/03/16/A-reforma-da-Previd%C3%AAncia-na-Fran%C3%A7a-imposta-por-canetada)
-- [Produção e tráfico de cocaína atinge nível recorde, diz ONU](https://www.nexojornal.com.br/extra/2023/03/16/Produ%C3%A7%C3%A3o-e-tr%C3%A1fico-de-coca%C3%ADna-atinge-n%C3%ADvel-recorde-diz-ONU)
+- [Ibaneis diz que 8 de janeiro foi ‘apagão’ e exime Torres de culpa](https://www.nexojornal.com.br/extra/2023/03/16/Ibaneis-diz-que-8-de-janeiro-foi-%E2%80%98apag%C3%A3o%E2%80%99-e-exime-Torres-de-culpa)
+- [Casos de assédio no BBB levantam discussão nas redes sociais](https://www.nexojornal.com.br/extra/2023/03/16/Casos-de-ass%C3%A9dio-no-BBB-levantam-discuss%C3%A3o-nas-redes-sociais)
+- [O debate sobre o horário ideal para o início da escola](https://www.nexojornal.com.br/externo/2023/03/16/O-debate-sobre-o-hor%C3%A1rio-ideal-para-o-in%C3%ADcio-da-escola)
+- [Macron faz manobra para aprovar reforma sem voto de deputados](https://www.nexojornal.com.br/extra/2023/03/16/Macron-faz-manobra-para-aprovar-reforma-sem-voto-de-deputados)
+- [Ações do Credit Suisse sobem após socorro do banco central do país](https://www.nexojornal.com.br/extra/2023/03/16/A%C3%A7%C3%B5es-do-Credit-Suisse-sobem-ap%C3%B3s-socorro-do-banco-central-do-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
