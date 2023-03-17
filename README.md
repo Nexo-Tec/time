@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ibaneis diz que 8 de janeiro foi ‘apagão’ e exime Torres de culpa](https://www.nexojornal.com.br/extra/2023/03/16/Ibaneis-diz-que-8-de-janeiro-foi-%E2%80%98apag%C3%A3o%E2%80%99-e-exime-Torres-de-culpa)
-- [Casos de assédio no BBB levantam discussão nas redes sociais](https://www.nexojornal.com.br/extra/2023/03/16/Casos-de-ass%C3%A9dio-no-BBB-levantam-discuss%C3%A3o-nas-redes-sociais)
-- [O debate sobre o horário ideal para o início da escola](https://www.nexojornal.com.br/externo/2023/03/16/O-debate-sobre-o-hor%C3%A1rio-ideal-para-o-in%C3%ADcio-da-escola)
-- [Macron faz manobra para aprovar reforma sem voto de deputados](https://www.nexojornal.com.br/extra/2023/03/16/Macron-faz-manobra-para-aprovar-reforma-sem-voto-de-deputados)
-- [Ações do Credit Suisse sobem após socorro do banco central do país](https://www.nexojornal.com.br/extra/2023/03/16/A%C3%A7%C3%B5es-do-Credit-Suisse-sobem-ap%C3%B3s-socorro-do-banco-central-do-pa%C3%ADs)
+- [Os casos de importunação sexual no BBB. E o que diz a lei](https://www.nexojornal.com.br/expresso/2023/03/17/Os-casos-de-importuna%C3%A7%C3%A3o-sexual-no-BBB.-E-o-que-diz-a-lei)
+- [Interesse por mercado de carbono ressuscita conflitos agrários](https://www.nexojornal.com.br/externo/2023/03/17/Interesse-por-mercado-de-carbono-ressuscita-conflitos-agr%C3%A1rios)
+- [Tribunal Penal Internacional pede prisão de Putin](https://www.nexojornal.com.br/extra/2023/03/17/Tribunal-Penal-Internacional-pede-pris%C3%A3o-de-Putin)
+- [Polícia prende mulher que pichou estátua da Justiça](https://www.nexojornal.com.br/extra/2023/03/17/Pol%C3%ADcia-prende-mulher-que-pichou-est%C3%A1tua-da-Justi%C3%A7a)
+- [Desemprego sobe e vai a 8,4% no trimestre encerrado em janeiro](https://www.nexojornal.com.br/extra/2023/03/17/Desemprego-sobe-e-vai-a-84-no-trimestre-encerrado-em-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
