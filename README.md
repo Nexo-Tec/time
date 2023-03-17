@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A favor ou contra a maré: para onde vai a gestão costeira nos próximos quatro anos?](https://pp.nexojornal.com.br/opiniao/2023/A-favor-ou-contra-a-mar%C3%A9-para-onde-vai-a-gest%C3%A3o-costeira-nos-pr%C3%B3ximos-quatro-anos)
 - [Fome e democracia](https://pp.nexojornal.com.br/opiniao/2023/Fome-e-democracia)
 - [O percurso por uma nova Constituinte Chilena, desde a ditadura militar](https://pp.nexojornal.com.br/linha-do-tempo/2023/O-percurso-por-uma-nova-Constituinte-Chilena-desde-a-ditadura-militar)
 - [O papel das instituições na construção da resiliência para prevenção e enfrentamento de desastres naturais](https://pp.nexojornal.com.br/opiniao/2023/O-papel-das-institui%C3%A7%C3%B5es-na-constru%C3%A7%C3%A3o-da-resili%C3%AAncia-para-preven%C3%A7%C3%A3o-e-enfrentamento-de-desastres-naturais)
 - [Cinco anos de um crime socioambiental em Maceió](https://pp.nexojornal.com.br/opiniao/2023/Cinco-anos-de-um-crime-socioambiental-em-Macei%C3%B3)
+- [É hora de finalmente descriminalizar a prostituição no Brasil](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-hora-de-finalmente-descriminalizar-a-prostitui%C3%A7%C3%A3o-no-Brasil)
 <!-- PP_LIST:END -->
 
