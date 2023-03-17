@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ibaneis diz que 8 de janeiro foi ‘apagão’ e exime Torres de culpa](https://www.nexojornal.com.br/extra/2023/03/16/Ibaneis-diz-que-8-de-janeiro-foi-%E2%80%98apag%C3%A3o%E2%80%99-e-exime-Torres-de-culpa)
-- [Casos de assédio no BBB levantam discussão nas redes sociais](https://www.nexojornal.com.br/extra/2023/03/16/Casos-de-ass%C3%A9dio-no-BBB-levantam-discuss%C3%A3o-nas-redes-sociais)
-- [O debate sobre o horário ideal para o início da escola](https://www.nexojornal.com.br/externo/2023/03/16/O-debate-sobre-o-hor%C3%A1rio-ideal-para-o-in%C3%ADcio-da-escola)
-- [Macron faz manobra para aprovar reforma sem voto de deputados](https://www.nexojornal.com.br/extra/2023/03/16/Macron-faz-manobra-para-aprovar-reforma-sem-voto-de-deputados)
-- [Ações do Credit Suisse sobem após socorro do banco central do país](https://www.nexojornal.com.br/extra/2023/03/16/A%C3%A7%C3%B5es-do-Credit-Suisse-sobem-ap%C3%B3s-socorro-do-banco-central-do-pa%C3%ADs)
+- [A cruzada da Anatel contra a TV a cabo pirata no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/A-cruzada-da-Anatel-contra-a-TV-a-cabo-pirata-no-Brasil)
+- [Qual o histórico e os resultados das regras fiscais no Brasil](https://www.nexojornal.com.br/expresso/2023/03/15/Qual-o-hist%C3%B3rico-e-os-resultados-das-regras-fiscais-no-Brasil)
+- [Câmara elege líderes de comissões. Saiba quem são](https://www.nexojornal.com.br/extra/2023/03/15/C%C3%A2mara-elege-l%C3%ADderes-de-comiss%C3%B5es.-Saiba-quem-s%C3%A3o)
+- [Da Abin à Receita: a máquina de espionar do governo Bolsonaro](https://www.nexojornal.com.br/podcast/2023/03/15/Da-Abin-%C3%A0-Receita-a-m%C3%A1quina-de-espionar-do-governo-Bolsonaro)
+- [Nasa apresenta novo traje de astronautas da Artemis 3](https://www.nexojornal.com.br/extra/2023/03/15/Nasa-apresenta-novo-traje-de-astronautas-da-Artemis-3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
