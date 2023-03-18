@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Espírito da Floresta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-espirito-da-floresta/)
 - [Documentário mostra a amizade e a relação de Bono e The Edge com a Irlanda](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-mostra-a-amizade-e-a-relacao-de-bono-e-the-edge-com-a-irlanda/)
 - [Um podcast sobre a era do pornô brasileiro com celebridades](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-a-era-do-porno-brasileiro-com-celebridades/)
 - [Um ensaio biográfico sensível de um filho sobre o pai](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-ensaio-biografico-sensivel-de-um-filho-sobre-o-pai/)
 - [“Medusa”, filme de terror brasileiro que fez bonito em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/ir/medusa-filme-de-terror-brasileiro-que-fez-bonito-em-cannes/)
-- [Velhas Guardas do samba paulista homenageiam o compositor Talismã](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/velhas-guardas-do-samba-paulista-homenageiam-o-compositor-talisma/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
