@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os casos de importunação sexual no BBB. E o que diz a lei](https://www.nexojornal.com.br/expresso/2023/03/17/Os-casos-de-importuna%C3%A7%C3%A3o-sexual-no-BBB.-E-o-que-diz-a-lei)
+- [Interesse por mercado de carbono ressuscita conflitos agrários](https://www.nexojornal.com.br/externo/2023/03/17/Interesse-por-mercado-de-carbono-ressuscita-conflitos-agr%C3%A1rios)
+- [Tribunal Penal Internacional pede prisão de Putin](https://www.nexojornal.com.br/extra/2023/03/17/Tribunal-Penal-Internacional-pede-pris%C3%A3o-de-Putin)
+- [Polícia prende mulher que pichou estátua da Justiça](https://www.nexojornal.com.br/extra/2023/03/17/Pol%C3%ADcia-prende-mulher-que-pichou-est%C3%A1tua-da-Justi%C3%A7a)
 - [Desemprego sobe e vai a 8,4% no trimestre encerrado em janeiro](https://www.nexojornal.com.br/extra/2023/03/17/Desemprego-sobe-e-vai-a-84-no-trimestre-encerrado-em-janeiro)
-- [Como o TikTok protagoniza a tensão entre potências](https://www.nexojornal.com.br/expresso/2023/03/16/Como-o-TikTok-protagoniza-a-tens%C3%A3o-entre-pot%C3%AAncias)
-- [Como a violência no Rio Grande do Norte expõe a ação de facções](https://www.nexojornal.com.br/expresso/2023/03/16/Como-a-viol%C3%AAncia-no-Rio-Grande-do-Norte-exp%C3%B5e-a-a%C3%A7%C3%A3o-de-fac%C3%A7%C3%B5es)
-- [Como o gerenciamento de fotos se relaciona com regimes de poder](https://www.nexojornal.com.br/academico/2023/03/16/Como-o-gerenciamento-de-fotos-se-relaciona-com-regimes-de-poder)
-- [A reforma da Previdência na França imposta por canetada](https://www.nexojornal.com.br/podcast/2023/03/16/A-reforma-da-Previd%C3%AAncia-na-Fran%C3%A7a-imposta-por-canetada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
