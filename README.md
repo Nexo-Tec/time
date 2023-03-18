@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o TikTok protagoniza a tensão entre potências](https://www.nexojornal.com.br/expresso/2023/03/16/Como-o-TikTok-protagoniza-a-tens%C3%A3o-entre-pot%C3%AAncias)
-- [Como a violência no Rio Grande do Norte expõe a ação de facções](https://www.nexojornal.com.br/expresso/2023/03/16/Como-a-viol%C3%AAncia-no-Rio-Grande-do-Norte-exp%C3%B5e-a-a%C3%A7%C3%A3o-de-fac%C3%A7%C3%B5es)
-- [Como o gerenciamento de fotos se relaciona com regimes de poder](https://www.nexojornal.com.br/academico/2023/03/16/Como-o-gerenciamento-de-fotos-se-relaciona-com-regimes-de-poder)
-- [A reforma da Previdência na França imposta por canetada](https://www.nexojornal.com.br/podcast/2023/03/16/A-reforma-da-Previd%C3%AAncia-na-Fran%C3%A7a-imposta-por-canetada)
-- [Produção e tráfico de cocaína atinge nível recorde, diz ONU](https://www.nexojornal.com.br/extra/2023/03/16/Produ%C3%A7%C3%A3o-e-tr%C3%A1fico-de-coca%C3%ADna-atinge-n%C3%ADvel-recorde-diz-ONU)
+- [Teto dos juros deixa 37 milhões com acesso restrito ao consignado](https://www.nexojornal.com.br/extra/2023/03/17/Teto-dos-juros-deixa-37-milh%C3%B5es-com-acesso-restrito-ao-consignado)
+- [O efeito da quebra de bancos na já combalida economia global](https://www.nexojornal.com.br/expresso/2023/03/17/O-efeito-da-quebra-de-bancos-na-j%C3%A1-combalida-economia-global)
+- [Como insetos podem ser usados para combater a ‘praga verde’](https://www.nexojornal.com.br/expresso/2023/03/17/Como-insetos-podem-ser-usados-para-combater-a-%E2%80%98praga-verde%E2%80%99)
+- [Por que a música é capaz de evocar lembranças](https://www.nexojornal.com.br/externo/2023/03/17/Por-que-a-m%C3%BAsica-%C3%A9-capaz-de-evocar-lembran%C3%A7as)
+- [‘Os parceiros do Rio Bonito’: como viviam os caipiras](https://www.nexojornal.com.br/estante/trechos/2023/03/17/%E2%80%98Os-parceiros-do-Rio-Bonito%E2%80%99-como-viviam-os-caipiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
