@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Teto dos juros deixa 37 milhões com acesso restrito ao consignado](https://www.nexojornal.com.br/extra/2023/03/17/Teto-dos-juros-deixa-37-milh%C3%B5es-com-acesso-restrito-ao-consignado)
-- [O efeito da quebra de bancos na já combalida economia global](https://www.nexojornal.com.br/expresso/2023/03/17/O-efeito-da-quebra-de-bancos-na-j%C3%A1-combalida-economia-global)
-- [Como insetos podem ser usados para combater a ‘praga verde’](https://www.nexojornal.com.br/expresso/2023/03/17/Como-insetos-podem-ser-usados-para-combater-a-%E2%80%98praga-verde%E2%80%99)
-- [Por que a música é capaz de evocar lembranças](https://www.nexojornal.com.br/externo/2023/03/17/Por-que-a-m%C3%BAsica-%C3%A9-capaz-de-evocar-lembran%C3%A7as)
-- [‘Os parceiros do Rio Bonito’: como viviam os caipiras](https://www.nexojornal.com.br/estante/trechos/2023/03/17/%E2%80%98Os-parceiros-do-Rio-Bonito%E2%80%99-como-viviam-os-caipiras)
+- [Ciência na Amazônia: Patrícia Alves-Melo](https://www.nexojornal.com.br/externo/2023/03/18/Ci%C3%AAncia-na-Amaz%C3%B4nia-Patr%C3%ADcia-Alves-Melo)
+- [5 livros para entender o que estuda a psicologia política](https://www.nexojornal.com.br/estante/favoritos/2023/03/18/5-livros-para-entender-o-que-estuda-a-psicologia-pol%C3%ADtica)
+- [A transformação digital da governança pública](https://www.nexojornal.com.br/ensaio/2023/03/18/A-transforma%C3%A7%C3%A3o-digital-da-governan%C3%A7a-p%C3%BAblica)
+- [Reservas: para que serve esse dinheiro guardado pelo governo](https://www.nexojornal.com.br/expresso/2023/03/18/Reservas-para-que-serve-esse-dinheiro-guardado-pelo-governo)
+- [Como a Fox News age para amenizar a invasão do Capitólio](https://www.nexojornal.com.br/expresso/2023/03/18/Como-a-Fox-News-age-para-amenizar-a-invas%C3%A3o-do-Capit%C3%B3lio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
