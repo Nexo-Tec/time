@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Fábio Kushner: Alergia respiratória hoje](https://gamarevista.uol.com.br/podcast/podcast-da-semana/medico-explica-como-nascem-as-alergias-respiratorias/)
+- [Fábio Kushner: “Alergicos têm predisposição para outras alergias”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/medico-explica-como-nascem-as-alergias-respiratorias/)
 - [O Espírito da Floresta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-espirito-da-floresta/)
 - [Documentário mostra a amizade e a relação de Bono e The Edge com a Irlanda](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-mostra-a-amizade-e-a-relacao-de-bono-e-the-edge-com-a-irlanda/)
 - [Um podcast sobre a era do pornô brasileiro com celebridades](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-a-era-do-porno-brasileiro-com-celebridades/)
