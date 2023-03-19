@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [RN: governo transfere 9 presos para penitenciárias federais](https://www.nexojornal.com.br/extra/2023/03/18/RN-governo-transfere-9-presos-para-penitenci%C3%A1rias-federais)
+- [RN: governo transfere nove presos para penitenciárias federais](https://www.nexojornal.com.br/extra/2023/03/18/RN-governo-transfere-nove-presos-para-penitenci%C3%A1rias-federais)
 - [Teto dos juros deixa 37 milhões com acesso restrito ao consignado](https://www.nexojornal.com.br/extra/2023/03/17/Teto-dos-juros-deixa-37-milh%C3%B5es-com-acesso-restrito-ao-consignado)
 - [O efeito da quebra de bancos na já combalida economia global](https://www.nexojornal.com.br/expresso/2023/03/17/O-efeito-da-quebra-de-bancos-na-j%C3%A1-combalida-economia-global)
 - [Como insetos podem ser usados para combater a ‘praga verde’](https://www.nexojornal.com.br/expresso/2023/03/17/Como-insetos-podem-ser-usados-para-combater-a-%E2%80%98praga-verde%E2%80%99)
