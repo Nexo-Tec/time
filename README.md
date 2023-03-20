@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ciência na Amazônia: Patrícia Alves-Melo](https://www.nexojornal.com.br/externo/2023/03/18/Ci%C3%AAncia-na-Amaz%C3%B4nia-Patr%C3%ADcia-Alves-Melo)
-- [5 livros para entender o que estuda a psicologia política](https://www.nexojornal.com.br/estante/favoritos/2023/03/18/5-livros-para-entender-o-que-estuda-a-psicologia-pol%C3%ADtica)
-- [A transformação digital da governança pública](https://www.nexojornal.com.br/ensaio/2023/03/18/A-transforma%C3%A7%C3%A3o-digital-da-governan%C3%A7a-p%C3%BAblica)
-- [Reservas: para que serve esse dinheiro guardado pelo governo](https://www.nexojornal.com.br/expresso/2023/03/18/Reservas-para-que-serve-esse-dinheiro-guardado-pelo-governo)
-- [Como a Fox News age para amenizar a invasão do Capitólio](https://www.nexojornal.com.br/expresso/2023/03/18/Como-a-Fox-News-age-para-amenizar-a-invas%C3%A3o-do-Capit%C3%B3lio)
+- [Defesa natural contra Chagas](https://www.nexojornal.com.br/externo/2023/03/19/Defesa-natural-contra-Chagas)
+- [Cannabis: pauta precisa avançar na esfera federal](https://www.nexojornal.com.br/ensaio/2023/03/19/Cannabis-pauta-precisa-avan%C3%A7ar-na-esfera-federal)
+- [O que está em jogo no Projeto de Lei das Fake News](https://www.nexojornal.com.br/expresso/2023/03/19/O-que-est%C3%A1-em-jogo-no-Projeto-de-Lei-das-Fake-News)
+- [UBS comprará Credit Suisse em acordo articulado por governo](https://www.nexojornal.com.br/extra/2023/03/19/UBS-comprar%C3%A1-Credit-Suisse-em-acordo-articulado-por-governo)
+- [Teatro, TV e cinema: o legado de ‘O Auto da Compadecida’](https://www.nexojornal.com.br/expresso/2023/03/19/Teatro-TV-e-cinema-o-legado-de-%E2%80%98O-Auto-da-Compadecida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
