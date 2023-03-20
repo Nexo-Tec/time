@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais Médicos é relançado sem convênio com Cuba e com Revalida](https://www.nexojornal.com.br/extra/2023/03/20/Mais-M%C3%A9dicos-%C3%A9-relan%C3%A7ado-sem-conv%C3%AAnio-com-Cuba-e-com-Revalida1)
-- [‘Futuro habitável’ na Terra depende de ações urgentes, diz IPCC](https://www.nexojornal.com.br/extra/2023/03/20/%E2%80%98Futuro-habit%C3%A1vel%E2%80%99-na-Terra-depende-de-a%C3%A7%C3%B5es-urgentes-diz-IPCC)
-- [Bolsa Família começa a ser pago com extra de R$ 150 por criança](https://www.nexojornal.com.br/extra/2023/03/20/Bolsa-Fam%C3%ADlia-come%C3%A7a-a-ser-pago-com-extra-de-R-150-por-crian%C3%A7a)
-- [‘Políticas públicas precisam integrar comunidades’](https://www.nexojornal.com.br/entrevista/2023/03/20/%E2%80%98Pol%C3%ADticas-p%C3%BAblicas-precisam-integrar-comunidades%E2%80%99)
-- [Defesa natural contra Chagas](https://www.nexojornal.com.br/externo/2023/03/19/Defesa-natural-contra-Chagas)
+- [Teatro, TV e cinema: o legado de ‘O Auto da Compadecida’](https://www.nexojornal.com.br/expresso/2023/03/19/Teatro-TV-e-cinema-o-legado-de-%E2%80%98O-Auto-da-Compadecida%E2%80%99)
+- [Pesquisa Ipec: 41% avaliam governo Lula como ótimo ou bom](https://www.nexojornal.com.br/extra/2023/03/19/Pesquisa-Ipec-41-avaliam-governo-Lula-como-%C3%B3timo-ou-bom)
+- [Ciência na Amazônia: Patrícia Alves-Melo](https://www.nexojornal.com.br/externo/2023/03/18/Ci%C3%AAncia-na-Amaz%C3%B4nia-Patr%C3%ADcia-Alves-Melo)
+- [5 livros para entender o que estuda a psicologia política](https://www.nexojornal.com.br/estante/favoritos/2023/03/18/5-livros-para-entender-o-que-estuda-a-psicologia-pol%C3%ADtica)
+- [A transformação digital da governança pública](https://www.nexojornal.com.br/ensaio/2023/03/18/A-transforma%C3%A7%C3%A3o-digital-da-governan%C3%A7a-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
