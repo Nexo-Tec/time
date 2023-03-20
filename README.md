@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mais Médicos é relançado sem convênio com Cuba e com Revalida](https://www.nexojornal.com.br/extra/2023/03/20/Mais-M%C3%A9dicos-%C3%A9-relan%C3%A7ado-sem-conv%C3%AAnio-com-Cuba-e-com-Revalida1)
+- [‘Futuro habitável’ na Terra depende de ações urgentes, diz IPCC](https://www.nexojornal.com.br/extra/2023/03/20/%E2%80%98Futuro-habit%C3%A1vel%E2%80%99-na-Terra-depende-de-a%C3%A7%C3%B5es-urgentes-diz-IPCC)
+- [Bolsa Família começa a ser pago com extra de R$ 150 por criança](https://www.nexojornal.com.br/extra/2023/03/20/Bolsa-Fam%C3%ADlia-come%C3%A7a-a-ser-pago-com-extra-de-R-150-por-crian%C3%A7a)
+- [‘Políticas públicas precisam integrar comunidades’](https://www.nexojornal.com.br/entrevista/2023/03/20/%E2%80%98Pol%C3%ADticas-p%C3%BAblicas-precisam-integrar-comunidades%E2%80%99)
 - [Defesa natural contra Chagas](https://www.nexojornal.com.br/externo/2023/03/19/Defesa-natural-contra-Chagas)
-- [Cannabis: pauta precisa avançar na esfera federal](https://www.nexojornal.com.br/ensaio/2023/03/19/Cannabis-pauta-precisa-avan%C3%A7ar-na-esfera-federal)
-- [O que está em jogo no Projeto de Lei das Fake News](https://www.nexojornal.com.br/expresso/2023/03/19/O-que-est%C3%A1-em-jogo-no-Projeto-de-Lei-das-Fake-News)
-- [UBS comprará Credit Suisse em acordo articulado por governo](https://www.nexojornal.com.br/extra/2023/03/19/UBS-comprar%C3%A1-Credit-Suisse-em-acordo-articulado-por-governo)
-- [Teatro, TV e cinema: o legado de ‘O Auto da Compadecida’](https://www.nexojornal.com.br/expresso/2023/03/19/Teatro-TV-e-cinema-o-legado-de-%E2%80%98O-Auto-da-Compadecida%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
