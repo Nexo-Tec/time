@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A função normativa do direito](https://pp.nexojornal.com.br/academico/2023/A-fun%C3%A7%C3%A3o-normativa-do-direito)
+- [Ideias pretas para laboratórios brancos](https://pp.nexojornal.com.br/opiniao/2023/Ideias-pretas-para-laborat%C3%B3rios-brancos)
+- [Raça como casta, raça como potência: a força da ciência no combate à discriminação racial](https://pp.nexojornal.com.br/ponto-de-vista/2023/Ra%C3%A7a-como-casta-ra%C3%A7a-como-pot%C3%AAncia-a-for%C3%A7a-da-ci%C3%AAncia-no-combate-%C3%A0-discrimina%C3%A7%C3%A3o-racial)
 - [A favor ou contra a maré: para onde vai a gestão costeira nos próximos quatro anos?](https://pp.nexojornal.com.br/opiniao/2023/A-favor-ou-contra-a-mar%C3%A9-para-onde-vai-a-gest%C3%A3o-costeira-nos-pr%C3%B3ximos-quatro-anos)
 - [Fome e democracia](https://pp.nexojornal.com.br/opiniao/2023/Fome-e-democracia)
-- [O percurso por uma nova Constituinte Chilena, desde a ditadura militar](https://pp.nexojornal.com.br/linha-do-tempo/2023/O-percurso-por-uma-nova-Constituinte-Chilena-desde-a-ditadura-militar)
-- [O papel das instituições na construção da resiliência para prevenção e enfrentamento de desastres naturais](https://pp.nexojornal.com.br/opiniao/2023/O-papel-das-institui%C3%A7%C3%B5es-na-constru%C3%A7%C3%A3o-da-resili%C3%AAncia-para-preven%C3%A7%C3%A3o-e-enfrentamento-de-desastres-naturais)
-- [Cinco anos de um crime socioambiental em Maceió](https://pp.nexojornal.com.br/opiniao/2023/Cinco-anos-de-um-crime-socioambiental-em-Macei%C3%B3)
 <!-- PP_LIST:END -->
 
