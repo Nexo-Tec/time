@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Rei Arthur’: a ação do presidente da Câmara para acumular poderes](https://www.nexojornal.com.br/expresso/2023/03/20/%E2%80%98Rei-Arthur%E2%80%99-a-a%C3%A7%C3%A3o-do-presidente-da-C%C3%A2mara-para-acumular-poderes)
-- [Qual o tamanho e a função do consignado do INSS](https://www.nexojornal.com.br/expresso/2023/03/20/Qual-o-tamanho-e-a-fun%C3%A7%C3%A3o-do-consignado-do-INSS)
-- [Ministro Paulo Pimenta omitiu casa de luxo ao TSE, diz jornal](https://www.nexojornal.com.br/extra/2023/03/20/Ministro-Paulo-Pimenta-omitiu-casa-de-luxo-ao-TSE-diz-jornal)
-- [China e Rússia: a aliança que se contrapõe ao Ocidente](https://www.nexojornal.com.br/podcast/2023/03/20/China-e-R%C3%BAssia-a-alian%C3%A7a-que-se-contrap%C3%B5e-ao-Ocidente)
-- [Razões ‘técnicas’ para a indicação de uma ministra negra no STF](https://www.nexojornal.com.br/colunistas/2023/Raz%C3%B5es-%E2%80%98t%C3%A9cnicas%E2%80%99-para-a-indica%C3%A7%C3%A3o-de-uma-ministra-negra-no-STF)
+- [Mais Médicos é relançado sem convênio com Cuba e com Revalida](https://www.nexojornal.com.br/extra/2023/03/20/Mais-M%C3%A9dicos-%C3%A9-relan%C3%A7ado-sem-conv%C3%AAnio-com-Cuba-e-com-Revalida1)
+- [‘Futuro habitável’ na Terra depende de ações urgentes, diz IPCC](https://www.nexojornal.com.br/extra/2023/03/20/%E2%80%98Futuro-habit%C3%A1vel%E2%80%99-na-Terra-depende-de-a%C3%A7%C3%B5es-urgentes-diz-IPCC)
+- [Bolsa Família começa a ser pago com extra de R$ 150 por criança](https://www.nexojornal.com.br/extra/2023/03/20/Bolsa-Fam%C3%ADlia-come%C3%A7a-a-ser-pago-com-extra-de-R-150-por-crian%C3%A7a)
+- [‘Políticas públicas precisam integrar comunidades’](https://www.nexojornal.com.br/entrevista/2023/03/20/%E2%80%98Pol%C3%ADticas-p%C3%BAblicas-precisam-integrar-comunidades%E2%80%99)
+- [Defesa natural contra Chagas](https://www.nexojornal.com.br/externo/2023/03/19/Defesa-natural-contra-Chagas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
