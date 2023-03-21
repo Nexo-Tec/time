@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Rei Arthur’: a ação do presidente da Câmara para acumular poderes](https://www.nexojornal.com.br/expresso/2023/03/20/%E2%80%98Rei-Arthur%E2%80%99-a-a%C3%A7%C3%A3o-do-presidente-da-C%C3%A2mara-para-acumular-poderes)
 - [Qual o tamanho e a função do consignado do INSS](https://www.nexojornal.com.br/expresso/2023/03/20/Qual-o-tamanho-e-a-fun%C3%A7%C3%A3o-do-consignado-do-INSS)
 - [Ministro Paulo Pimenta omitiu casa de luxo ao TSE, diz jornal](https://www.nexojornal.com.br/extra/2023/03/20/Ministro-Paulo-Pimenta-omitiu-casa-de-luxo-ao-TSE-diz-jornal)
 - [China e Rússia: a aliança que se contrapõe ao Ocidente](https://www.nexojornal.com.br/podcast/2023/03/20/China-e-R%C3%BAssia-a-alian%C3%A7a-que-se-contrap%C3%B5e-ao-Ocidente)
 - [Razões ‘técnicas’ para a indicação de uma ministra negra no STF](https://www.nexojornal.com.br/colunistas/2023/Raz%C3%B5es-%E2%80%98t%C3%A9cnicas%E2%80%99-para-a-indica%C3%A7%C3%A3o-de-uma-ministra-negra-no-STF)
+- [Novas demissões na Amazon vão atingir 9.000 funcionários](https://www.nexojornal.com.br/extra/2023/03/20/Novas-demiss%C3%B5es-na-Amazon-v%C3%A3o-atingir-9.000-funcion%C3%A1rios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
