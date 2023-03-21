@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Delator da Lava Jato, Youssef enfrenta vaivém de prisões](https://www.nexojornal.com.br/extra/2023/03/21/Delator-da-Lava-Jato-Youssef-enfrenta-vaiv%C3%A9m-de-pris%C3%B5es)
-- [Vaga no Supremo: Lula diz não ter ‘compromisso com ninguém’](https://www.nexojornal.com.br/extra/2023/03/21/Vaga-no-Supremo-Lula-diz-n%C3%A3o-ter-%E2%80%98compromisso-com-ningu%C3%A9m%E2%80%99)
-- [Amazônia Legal concentra 80% do valor de multas ambientais](https://www.nexojornal.com.br/grafico/2023/03/21/Amaz%C3%B4nia-Legal-concentra-80-do-valor-de-multas-ambientais)
-- [Comitiva de Lula em viagem à China inclui irmãos Batista](https://www.nexojornal.com.br/extra/2023/03/21/Comitiva-de-Lula-em-viagem-%C3%A0-China-inclui-irm%C3%A3os-Batista)
-- [Americanas apresenta plano de recuperação judicial](https://www.nexojornal.com.br/extra/2023/03/21/Americanas-apresenta-plano-de-recupera%C3%A7%C3%A3o-judicial)
+- [‘Rei Arthur’: a ação do presidente da Câmara para acumular poderes](https://www.nexojornal.com.br/expresso/2023/03/20/%E2%80%98Rei-Arthur%E2%80%99-a-a%C3%A7%C3%A3o-do-presidente-da-C%C3%A2mara-para-acumular-poderes)
+- [Qual o tamanho e a função do consignado do INSS](https://www.nexojornal.com.br/expresso/2023/03/20/Qual-o-tamanho-e-a-fun%C3%A7%C3%A3o-do-consignado-do-INSS)
+- [Ministro Paulo Pimenta omitiu casa de luxo ao TSE, diz jornal](https://www.nexojornal.com.br/extra/2023/03/20/Ministro-Paulo-Pimenta-omitiu-casa-de-luxo-ao-TSE-diz-jornal)
+- [China e Rússia: a aliança que se contrapõe ao Ocidente](https://www.nexojornal.com.br/podcast/2023/03/20/China-e-R%C3%BAssia-a-alian%C3%A7a-que-se-contrap%C3%B5e-ao-Ocidente)
+- [Razões ‘técnicas’ para a indicação de uma ministra negra no STF](https://www.nexojornal.com.br/colunistas/2023/Raz%C3%B5es-%E2%80%98t%C3%A9cnicas%E2%80%99-para-a-indica%C3%A7%C3%A3o-de-uma-ministra-negra-no-STF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
