@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O fotojornalismo resiste, ninguém vai derrubá-lo’](https://www.nexojornal.com.br/entrevista/2023/03/21/%E2%80%98O-fotojornalismo-resiste-ningu%C3%A9m-vai-derrub%C3%A1-lo%E2%80%99)
-- [O que move as decisões de juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2023/03/21/O-que-move-as-decis%C3%B5es-de-juros-no-Brasil-e-nos-EUA)
-- [Ação pela água: a importância de um encontro global](https://www.nexojornal.com.br/ensaio/2023/03/21/A%C3%A7%C3%A3o-pela-%C3%A1gua-a-import%C3%A2ncia-de-um-encontro-global)
-- [Decreto prevê 30% de vagas para negros na administração pública](https://www.nexojornal.com.br/extra/2023/03/21/Decreto-prev%C3%AA-30-de-vagas-para-negros-na-administra%C3%A7%C3%A3o-p%C3%BAblica)
-- [Quando a ciência vira anúncio](https://www.nexojornal.com.br/colunistas/2023/Quando-a-ci%C3%AAncia-vira-an%C3%BAncio)
+- [Delator da Lava Jato, Youssef enfrenta vaivém de prisões](https://www.nexojornal.com.br/extra/2023/03/21/Delator-da-Lava-Jato-Youssef-enfrenta-vaiv%C3%A9m-de-pris%C3%B5es)
+- [Vaga no Supremo: Lula diz não ter ‘compromisso com ninguém’](https://www.nexojornal.com.br/extra/2023/03/21/Vaga-no-Supremo-Lula-diz-n%C3%A3o-ter-%E2%80%98compromisso-com-ningu%C3%A9m%E2%80%99)
+- [Amazônia Legal concentra 80% do valor de multas ambientais](https://www.nexojornal.com.br/grafico/2023/03/21/Amaz%C3%B4nia-Legal-concentra-80-do-valor-de-multas-ambientais)
+- [Comitiva de Lula em viagem à China inclui irmãos Batista](https://www.nexojornal.com.br/extra/2023/03/21/Comitiva-de-Lula-em-viagem-%C3%A0-China-inclui-irm%C3%A3os-Batista)
+- [Americanas apresenta plano de recuperação judicial](https://www.nexojornal.com.br/extra/2023/03/21/Americanas-apresenta-plano-de-recupera%C3%A7%C3%A3o-judicial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
