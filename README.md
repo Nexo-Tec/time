@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Rei Arthur’: a ação do presidente da Câmara para acumular poderes](https://www.nexojornal.com.br/expresso/2023/03/20/%E2%80%98Rei-Arthur%E2%80%99-a-a%C3%A7%C3%A3o-do-presidente-da-C%C3%A2mara-para-acumular-poderes)
-- [Qual o tamanho e a função do consignado do INSS](https://www.nexojornal.com.br/expresso/2023/03/20/Qual-o-tamanho-e-a-fun%C3%A7%C3%A3o-do-consignado-do-INSS)
-- [Ministro Paulo Pimenta omitiu casa de luxo ao TSE, diz jornal](https://www.nexojornal.com.br/extra/2023/03/20/Ministro-Paulo-Pimenta-omitiu-casa-de-luxo-ao-TSE-diz-jornal)
-- [China e Rússia: a aliança que se contrapõe ao Ocidente](https://www.nexojornal.com.br/podcast/2023/03/20/China-e-R%C3%BAssia-a-alian%C3%A7a-que-se-contrap%C3%B5e-ao-Ocidente)
-- [Razões ‘técnicas’ para a indicação de uma ministra negra no STF](https://www.nexojornal.com.br/colunistas/2023/Raz%C3%B5es-%E2%80%98t%C3%A9cnicas%E2%80%99-para-a-indica%C3%A7%C3%A3o-de-uma-ministra-negra-no-STF)
+- [‘O fotojornalismo resiste, ninguém vai derrubá-lo’](https://www.nexojornal.com.br/entrevista/2023/03/21/%E2%80%98O-fotojornalismo-resiste-ningu%C3%A9m-vai-derrub%C3%A1-lo%E2%80%99)
+- [O que move as decisões de juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2023/03/21/O-que-move-as-decis%C3%B5es-de-juros-no-Brasil-e-nos-EUA)
+- [Ação pela água: a importância de um encontro global](https://www.nexojornal.com.br/ensaio/2023/03/21/A%C3%A7%C3%A3o-pela-%C3%A1gua-a-import%C3%A2ncia-de-um-encontro-global)
+- [Decreto prevê 30% de vagas para negros na administração pública](https://www.nexojornal.com.br/extra/2023/03/21/Decreto-prev%C3%AA-30-de-vagas-para-negros-na-administra%C3%A7%C3%A3o-p%C3%BAblica)
+- [Quando a ciência vira anúncio](https://www.nexojornal.com.br/colunistas/2023/Quando-a-ci%C3%AAncia-vira-an%C3%BAncio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
