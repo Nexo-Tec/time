@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz operação contra facção que planejava atentado contra Moro](https://www.nexojornal.com.br/extra/2023/03/22/PF-faz-opera%C3%A7%C3%A3o-contra-fac%C3%A7%C3%A3o-que-planejava-atentado-contra-Moro)
-- [‘O fotojornalismo resiste, ninguém vai derrubá-lo’](https://www.nexojornal.com.br/entrevista/2023/03/21/%E2%80%98O-fotojornalismo-resiste-ningu%C3%A9m-vai-derrub%C3%A1-lo%E2%80%99)
-- [O que move as decisões de juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2023/03/21/O-que-move-as-decis%C3%B5es-de-juros-no-Brasil-e-nos-EUA)
-- [Ação pela água: a importância de um encontro global](https://www.nexojornal.com.br/ensaio/2023/03/21/A%C3%A7%C3%A3o-pela-%C3%A1gua-a-import%C3%A2ncia-de-um-encontro-global)
-- [Decreto prevê 30% de vagas para negros na administração pública](https://www.nexojornal.com.br/extra/2023/03/21/Decreto-prev%C3%AA-30-de-vagas-para-negros-na-administra%C3%A7%C3%A3o-p%C3%BAblica)
+- [Por que Moro virou alvo do PCC. E as investidas da facção](https://www.nexojornal.com.br/expresso/2023/03/22/Por-que-Moro-virou-alvo-do-PCC.-E-as-investidas-da-fac%C3%A7%C3%A3o)
+- [Economia, gênero e a ascensão da extrema direita](https://www.nexojornal.com.br/colunistas/2023/Economia-g%C3%AAnero-e-a-ascens%C3%A3o-da-extrema-direita)
+- [A ascensão do bet: o aumento das apostas online no Brasil](https://www.nexojornal.com.br/expresso/2023/03/22/A-ascens%C3%A3o-do-bet-o-aumento-das-apostas-online-no-Brasil)
+- [Uganda aprova lei que proíbe a identificação como LGBTI+](https://www.nexojornal.com.br/extra/2023/03/22/Uganda-aprova-lei-que-pro%C3%ADbe-a-identifica%C3%A7%C3%A3o-como-LGBTI)
+- [Descarte de vacina e remédio: o prejuízo da falta de planejamento](https://www.nexojornal.com.br/podcast/2023/03/22/Descarte-de-vacina-e-rem%C3%A9dio-o-preju%C3%ADzo-da-falta-de-planejamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
