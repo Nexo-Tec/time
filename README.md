@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz operação contra facção que planejava atentado contra Moro](https://www.nexojornal.com.br/extra/2023/03/22/PF-faz-opera%C3%A7%C3%A3o-contra-fac%C3%A7%C3%A3o-que-planejava-atentado-contra-Moro)
 - [‘O fotojornalismo resiste, ninguém vai derrubá-lo’](https://www.nexojornal.com.br/entrevista/2023/03/21/%E2%80%98O-fotojornalismo-resiste-ningu%C3%A9m-vai-derrub%C3%A1-lo%E2%80%99)
 - [O que move as decisões de juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2023/03/21/O-que-move-as-decis%C3%B5es-de-juros-no-Brasil-e-nos-EUA)
 - [Ação pela água: a importância de um encontro global](https://www.nexojornal.com.br/ensaio/2023/03/21/A%C3%A7%C3%A3o-pela-%C3%A1gua-a-import%C3%A2ncia-de-um-encontro-global)
 - [Decreto prevê 30% de vagas para negros na administração pública](https://www.nexojornal.com.br/extra/2023/03/21/Decreto-prev%C3%AA-30-de-vagas-para-negros-na-administra%C3%A7%C3%A3o-p%C3%BAblica)
+- [Quando a ciência vira anúncio](https://www.nexojornal.com.br/colunistas/2023/Quando-a-ci%C3%AAncia-vira-an%C3%BAncio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
