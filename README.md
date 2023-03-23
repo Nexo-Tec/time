@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como anda a inclusão de mulheres na ciência brasileira? Três modos de observar os dados](https://pp.nexojornal.com.br/opiniao/2023/Como-anda-a-inclus%C3%A3o-de-mulheres-na-ci%C3%AAncia-brasileira-Tr%C3%AAs-modos-de-observar-os-dados1)
-- [Remoção de dióxido de carbono](https://pp.nexojornal.com.br/glossario/Remo%C3%A7%C3%A3o-de-di%C3%B3xido-de-carbono)
-- [Mortes prematuras associadas ao consumo de alimentos ultraprocessados no Brasil](https://pp.nexojornal.com.br/academico/2023/Mortes-prematuras-associadas-ao-consumo-de-alimentos-ultraprocessados-no-Brasil)
-- [Gênero no serviço público: um convite à reflexão sobre a desigualdade dentro do Estado](https://pp.nexojornal.com.br/ponto-de-vista/2023/G%C3%AAnero-no-servi%C3%A7o-p%C3%BAblico-um-convite-%C3%A0-reflex%C3%A3o-sobre-a-desigualdade-dentro-do-Estado)
-- [O discurso anticomunista e a Ação Democrática Parlamentar nos anos 1960](https://pp.nexojornal.com.br/academico/2023/O-discurso-anticomunista-e-a-A%C3%A7%C3%A3o-Democr%C3%A1tica-Parlamentar-nos-anos-1960)
+- [Reconstrução nacional e os novos caminhos para as finanças públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Reconstru%C3%A7%C3%A3o-nacional-e-os-novos-caminhos-para-as-finan%C3%A7as-p%C3%BAblicas)
+- [A função normativa do direito](https://pp.nexojornal.com.br/academico/2023/A-fun%C3%A7%C3%A3o-normativa-do-direito)
+- [Ideias pretas para laboratórios brancos](https://pp.nexojornal.com.br/opiniao/2023/Ideias-pretas-para-laborat%C3%B3rios-brancos)
+- [Raça como casta, raça como potência: a força da ciência no combate à discriminação racial](https://pp.nexojornal.com.br/ponto-de-vista/2023/Ra%C3%A7a-como-casta-ra%C3%A7a-como-pot%C3%AAncia-a-for%C3%A7a-da-ci%C3%AAncia-no-combate-%C3%A0-discrimina%C3%A7%C3%A3o-racial)
+- [A favor ou contra a maré: para onde vai a gestão costeira nos próximos quatro anos?](https://pp.nexojornal.com.br/opiniao/2023/A-favor-ou-contra-a-mar%C3%A9-para-onde-vai-a-gest%C3%A3o-costeira-nos-pr%C3%B3ximos-quatro-anos)
 <!-- PP_LIST:END -->
 
