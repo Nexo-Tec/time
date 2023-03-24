@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Dilma Rousseff é eleita presidente do banco dos Brics](https://www.nexojornal.com.br/extra/2023/03/24/Dilma-Rousseff-%C3%A9-eleita-presidente-do-banco-dos-Brics)
+- [Dilma Rousseff é confirmada como presidente do banco dos Brics](https://www.nexojornal.com.br/extra/2023/03/24/Dilma-Rousseff-%C3%A9-confirmada-como-presidente-do-banco-dos-Brics)
 - [Metroviários aceitam acordo e encerram greve em São Paulo](https://www.nexojornal.com.br/extra/2023/03/24/Metrovi%C3%A1rios-aceitam-acordo-e-encerram-greve-em-S%C3%A3o-Paulo)
 - [Lula é diagnosticado com pneumonia e adia viagem à China](https://www.nexojornal.com.br/extra/2023/03/24/Lula-%C3%A9-diagnosticado-com-pneumonia-e-adia-viagem-%C3%A0-China)
 - [Palavrão e ‘armação’: como Lula queima capital político](https://www.nexojornal.com.br/expresso/2023/03/23/Palavr%C3%A3o-e-%E2%80%98arma%C3%A7%C3%A3o%E2%80%99-como-Lula-queima-capital-pol%C3%ADtico)
