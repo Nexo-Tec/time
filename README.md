@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Eduardo Neves: arqueologia amazônica e o futuro da floresta](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/03/24/Eduardo-Neves-arqueologia-amaz%C3%B4nica-e-o-futuro-da-floresta)
 - [Como anda a inclusão de mulheres na ciência brasileira? Três modos de observar os dados](https://pp.nexojornal.com.br/opiniao/2023/Como-anda-a-inclus%C3%A3o-de-mulheres-na-ci%C3%AAncia-brasileira-Tr%C3%AAs-modos-de-observar-os-dados1)
 - [Remoção de dióxido de carbono](https://pp.nexojornal.com.br/glossario/Remo%C3%A7%C3%A3o-de-di%C3%B3xido-de-carbono)
 - [Mortes prematuras associadas ao consumo de alimentos ultraprocessados no Brasil](https://pp.nexojornal.com.br/academico/2023/Mortes-prematuras-associadas-ao-consumo-de-alimentos-ultraprocessados-no-Brasil)
 - [Gênero no serviço público: um convite à reflexão sobre a desigualdade dentro do Estado](https://pp.nexojornal.com.br/ponto-de-vista/2023/G%C3%AAnero-no-servi%C3%A7o-p%C3%BAblico-um-convite-%C3%A0-reflex%C3%A3o-sobre-a-desigualdade-dentro-do-Estado)
-- [O discurso anticomunista e a Ação Democrática Parlamentar nos anos 1960](https://pp.nexojornal.com.br/academico/2023/O-discurso-anticomunista-e-a-A%C3%A7%C3%A3o-Democr%C3%A1tica-Parlamentar-nos-anos-1960)
 <!-- PP_LIST:END -->
 
