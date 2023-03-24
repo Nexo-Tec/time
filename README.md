@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [5 x 5 dicas para viver melhor](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/5-x-5-dicas-para-viver-melhor/)
-- [@shusakutakaoka](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/shusakutakaoka/)
-- [Fábio Kuschnir: “Alergicos têm predisposição para outras alergias”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/medico-explica-como-nascem-as-alergias-respiratorias/)
-- [O Espírito da Floresta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-espirito-da-floresta/)
-- [Documentário mostra a amizade e a relação de Bono e The Edge com a Irlanda](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-mostra-a-amizade-e-a-relacao-de-bono-e-the-edge-com-a-irlanda/)
+- [A quarta e última temporada de “Succession”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-quarta-e-ultima-temporada-de-succession/)
+- [Ditaduras brasileira e chilena são tema de mostra no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/ditaduras-brasileira-e-chilena-sao-tema-de-mostra-no-ims/)
+- [Jia Tolentino escreve sobre a Era Ozempic](https://gamarevista.uol.com.br/achamos-que-vale/ler/jia-tolentino-escreve-sobre-a-era-ozempic/)
+- [Peça em SP reflete sobre as dores da maternidade](https://gamarevista.uol.com.br/achamos-que-vale/ir/peca-em-sp-reflete-sobre-as-dores-da-maternidade/)
+- [“Swarm”, série de Donald Glover com Billie Eilish](https://gamarevista.uol.com.br/achamos-que-vale/assistir/swarm-serie-de-donald-glover-com-billie-eilish/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
