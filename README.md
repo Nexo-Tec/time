@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil teve em 2021 maior aumento de emissões em 18 anos](https://www.nexojornal.com.br/extra/2023/03/23/Brasil-teve-em-2021-maior-aumento-de-emiss%C3%B5es-em-18-anos)
-- [China retira embargo e volta a importar carne brasileira](https://www.nexojornal.com.br/extra/2023/03/23/China-retira-embargo-e-volta-a-importar-carne-brasileira)
 - [Por que Moro virou alvo do PCC. E as investidas da facção](https://www.nexojornal.com.br/expresso/2023/03/22/Por-que-Moro-virou-alvo-do-PCC.-E-as-investidas-da-fac%C3%A7%C3%A3o)
 - [Economia, gênero e a ascensão da extrema direita](https://www.nexojornal.com.br/colunistas/2023/Economia-g%C3%AAnero-e-a-ascens%C3%A3o-da-extrema-direita)
 - [A ascensão do bet: o aumento das apostas online no Brasil](https://www.nexojornal.com.br/expresso/2023/03/22/A-ascens%C3%A3o-do-bet-o-aumento-das-apostas-online-no-Brasil)
+- [Uganda aprova lei que proíbe a identificação como LGBTI+](https://www.nexojornal.com.br/extra/2023/03/22/Uganda-aprova-lei-que-pro%C3%ADbe-a-identifica%C3%A7%C3%A3o-como-LGBTI)
+- [Descarte de vacina e remédio: o prejuízo da falta de planejamento](https://www.nexojornal.com.br/podcast/2023/03/22/Descarte-de-vacina-e-rem%C3%A9dio-o-preju%C3%ADzo-da-falta-de-planejamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
