@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula cancela viagem à China por causa de pneumonia](https://www.nexojornal.com.br/extra/2023/03/25/Lula-cancela-viagem-%C3%A0-China-por-causa-de-pneumonia)
 - [Como um líder religioso reaviva o separatismo na Índia](https://www.nexojornal.com.br/expresso/2023/03/24/Como-um-l%C3%ADder-religioso-reaviva-o-separatismo-na-%C3%8Dndia)
 - [Suspeito assume participação na morte de presidente do Haiti](https://www.nexojornal.com.br/extra/2023/03/24/Suspeito-assume-participa%C3%A7%C3%A3o-na-morte-de-presidente-do-Haiti)
 - [Este site conta histórias da comunidade LGBTI+ pelo mundo](https://www.nexojornal.com.br/expresso/2023/03/24/Este-site-conta-hist%C3%B3rias-da-comunidade-LGBTI-pelo-mundo)
 - [‘Geontologias’: sonhos que transformam territórios em seres](https://www.nexojornal.com.br/estante/trechos/2023/03/24/%E2%80%98Geontologias%E2%80%99-sonhos-que-transformam-territ%C3%B3rios-em-seres)
-- [O antissemitismo no Twitter após a chegada de Elon Musk](https://www.nexojornal.com.br/externo/2023/03/24/O-antissemitismo-no-Twitter-ap%C3%B3s-a-chegada-de-Elon-Musk)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
