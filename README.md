@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dilma Rousseff é confirmada como presidente do banco dos Brics](https://www.nexojornal.com.br/extra/2023/03/24/Dilma-Rousseff-%C3%A9-confirmada-como-presidente-do-banco-dos-Brics)
+- [Metroviários aceitam acordo e encerram greve em São Paulo](https://www.nexojornal.com.br/extra/2023/03/24/Metrovi%C3%A1rios-aceitam-acordo-e-encerram-greve-em-S%C3%A3o-Paulo)
+- [Lula é diagnosticado com pneumonia e adia viagem à China](https://www.nexojornal.com.br/extra/2023/03/24/Lula-%C3%A9-diagnosticado-com-pneumonia-e-adia-viagem-%C3%A0-China)
 - [Palavrão e ‘armação’: como Lula queima capital político](https://www.nexojornal.com.br/expresso/2023/03/23/Palavr%C3%A3o-e-%E2%80%98arma%C3%A7%C3%A3o%E2%80%99-como-Lula-queima-capital-pol%C3%ADtico)
 - [A preservação da vegetação nativa por povos tradicionais](https://www.nexojornal.com.br/academico/2023/03/23/A-preserva%C3%A7%C3%A3o-da-vegeta%C3%A7%C3%A3o-nativa-por-povos-tradicionais)
-- [O que é combate à crise climática na prática, em 6 áreas](https://www.nexojornal.com.br/expresso/2023/03/23/O-que-%C3%A9-combate-%C3%A0-crise-clim%C3%A1tica-na-pr%C3%A1tica-em-6-%C3%A1reas)
-- [Novo protesto reúne mais de 1 milhão na França](https://www.nexojornal.com.br/extra/2023/03/23/Novo-protesto-re%C3%BAne-mais-de-1-milh%C3%A3o-na-Fran%C3%A7a)
-- [A última do caso Daniel Alves](https://www.nexojornal.com.br/colunistas/2023/A-%C3%BAltima-do-caso-Daniel-Alves)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
