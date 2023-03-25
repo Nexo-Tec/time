@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como um líder religioso reaviva o separatismo na Índia](https://www.nexojornal.com.br/expresso/2023/03/24/Como-um-l%C3%ADder-religioso-reaviva-o-separatismo-na-%C3%8Dndia)
-- [Suspeito assume participação na morte de presidente do Haiti](https://www.nexojornal.com.br/extra/2023/03/24/Suspeito-assume-participa%C3%A7%C3%A3o-na-morte-de-presidente-do-Haiti)
-- [Este site conta histórias da comunidade LGBTI+ pelo mundo](https://www.nexojornal.com.br/expresso/2023/03/24/Este-site-conta-hist%C3%B3rias-da-comunidade-LGBTI-pelo-mundo)
-- [‘Geontologias’: sonhos que transformam territórios em seres](https://www.nexojornal.com.br/estante/trechos/2023/03/24/%E2%80%98Geontologias%E2%80%99-sonhos-que-transformam-territ%C3%B3rios-em-seres)
-- [O antissemitismo no Twitter após a chegada de Elon Musk](https://www.nexojornal.com.br/externo/2023/03/24/O-antissemitismo-no-Twitter-ap%C3%B3s-a-chegada-de-Elon-Musk)
+- [Dilma Rousseff é eleita presidente do banco dos Brics](https://www.nexojornal.com.br/extra/2023/03/24/Dilma-Rousseff-%C3%A9-eleita-presidente-do-banco-dos-Brics)
+- [Metroviários aceitam acordo e encerram greve em São Paulo](https://www.nexojornal.com.br/extra/2023/03/24/Metrovi%C3%A1rios-aceitam-acordo-e-encerram-greve-em-S%C3%A3o-Paulo)
+- [Lula é diagnosticado com pneumonia e adia viagem à China](https://www.nexojornal.com.br/extra/2023/03/24/Lula-%C3%A9-diagnosticado-com-pneumonia-e-adia-viagem-%C3%A0-China)
+- [Palavrão e ‘armação’: como Lula queima capital político](https://www.nexojornal.com.br/expresso/2023/03/23/Palavr%C3%A3o-e-%E2%80%98arma%C3%A7%C3%A3o%E2%80%99-como-Lula-queima-capital-pol%C3%ADtico)
+- [A preservação da vegetação nativa por povos tradicionais](https://www.nexojornal.com.br/academico/2023/03/23/A-preserva%C3%A7%C3%A3o-da-vegeta%C3%A7%C3%A3o-nativa-por-povos-tradicionais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
