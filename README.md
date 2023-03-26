@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bárbara Paz: “Não tem coisa melhor do que estar apaixonado”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/barbara-paz-fala-do-poder-da-paixao-na-sua-vida/)
 - [A quarta e última temporada de “Succession”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-quarta-e-ultima-temporada-de-succession/)
 - [Ditaduras brasileira e chilena são tema de mostra no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/ditaduras-brasileira-e-chilena-sao-tema-de-mostra-no-ims/)
 - [Jia Tolentino escreve sobre a Era Ozempic](https://gamarevista.uol.com.br/achamos-que-vale/ler/jia-tolentino-escreve-sobre-a-era-ozempic/)
 - [Peça em SP reflete sobre as dores da maternidade](https://gamarevista.uol.com.br/achamos-que-vale/ir/peca-em-sp-reflete-sobre-as-dores-da-maternidade/)
-- [“Swarm”, série de Donald Glover com Billie Eilish](https://gamarevista.uol.com.br/achamos-que-vale/assistir/swarm-serie-de-donald-glover-com-billie-eilish/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
