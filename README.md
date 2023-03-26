@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre Lampião e seus companheiros de cangaço](https://www.nexojornal.com.br/estante/favoritos/2023/03/26/5-livros-sobre-Lampi%C3%A3o-e-seus-companheiros-de-canga%C3%A7o)
-- [Drones: a nova fronteira tecnológica para o monitoramento da fauna](https://www.nexojornal.com.br/externo/2023/03/26/Drones-a-nova-fronteira-tecnol%C3%B3gica-para-o-monitoramento-da-fauna)
-- [As entrelinhas dos conteúdos produzidos pelo ChatGPT](https://www.nexojornal.com.br/ensaio/2023/03/26/As-entrelinhas-dos-conte%C3%BAdos-produzidos-pelo-ChatGPT)
-- [‘Ensino afro-brasileiro ainda não é do interesse da maioria’](https://www.nexojornal.com.br/entrevista/2023/03/26/%E2%80%98Ensino-afro-brasileiro-ainda-n%C3%A3o-%C3%A9-do-interesse-da-maioria%E2%80%99)
-- [O que Lula deixa de lado se indicar seu advogado para o STF](https://www.nexojornal.com.br/expresso/2023/03/26/O-que-Lula-deixa-de-lado-se-indicar-seu-advogado-para-o-STF)
+- [Lula cancela viagem à China por causa de pneumonia](https://www.nexojornal.com.br/extra/2023/03/25/Lula-cancela-viagem-%C3%A0-China-por-causa-de-pneumonia)
+- [Como um líder religioso reaviva o separatismo na Índia](https://www.nexojornal.com.br/expresso/2023/03/24/Como-um-l%C3%ADder-religioso-reaviva-o-separatismo-na-%C3%8Dndia)
+- [Suspeito assume participação na morte de presidente do Haiti](https://www.nexojornal.com.br/extra/2023/03/24/Suspeito-assume-participa%C3%A7%C3%A3o-na-morte-de-presidente-do-Haiti)
+- [Este site conta histórias da comunidade LGBTI+ pelo mundo](https://www.nexojornal.com.br/expresso/2023/03/24/Este-site-conta-hist%C3%B3rias-da-comunidade-LGBTI-pelo-mundo)
+- [‘Geontologias’: sonhos que transformam territórios em seres](https://www.nexojornal.com.br/estante/trechos/2023/03/24/%E2%80%98Geontologias%E2%80%99-sonhos-que-transformam-territ%C3%B3rios-em-seres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
