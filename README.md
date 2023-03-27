@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De onde vem o açaí e onde ele é produzido](https://www.nexojornal.com.br/grafico/2023/03/27/De-onde-vem-o-a%C3%A7a%C3%AD-e-onde-ele-%C3%A9-produzido)
 - [Como Zema segue a cartilha bolsonarista no meio ambiente](https://www.nexojornal.com.br/externo/2023/03/26/Como-Zema-segue-a-cartilha-bolsonarista-no-meio-ambiente)
 - [Salton, Carrefour e Shein: o ESG está além dos próprios muros](https://www.nexojornal.com.br/colunistas/2023/Salton-Carrefour-e-Shein-o-ESG-est%C3%A1-al%C3%A9m-dos-pr%C3%B3prios-muros)
 - [Por que ambientalistas protestam contra alguns parques eólicos](https://www.nexojornal.com.br/expresso/2023/03/26/Por-que-ambientalistas-protestam-contra-alguns-parques-e%C3%B3licos)
 - [Ausência de Drake no Lollapalooza revolta fãs e artistas](https://www.nexojornal.com.br/extra/2023/03/26/Aus%C3%AAncia-de-Drake-no-Lollapalooza-revolta-f%C3%A3s-e-artistas)
+- [Morre aos 84 anos o cantor e humorista Juca Chaves](https://www.nexojornal.com.br/extra/2023/03/26/Morre-aos-84-anos-o-cantor-e-humorista-Juca-Chaves)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
