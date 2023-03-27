@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre Lampião e seus companheiros de cangaço](https://www.nexojornal.com.br/estante/favoritos/2023/03/26/5-livros-sobre-Lampi%C3%A3o-e-seus-companheiros-de-canga%C3%A7o)
-- [Drones: a nova fronteira tecnológica para o monitoramento da fauna](https://www.nexojornal.com.br/externo/2023/03/26/Drones-a-nova-fronteira-tecnol%C3%B3gica-para-o-monitoramento-da-fauna)
-- [As entrelinhas dos conteúdos produzidos pelo ChatGPT](https://www.nexojornal.com.br/ensaio/2023/03/26/As-entrelinhas-dos-conte%C3%BAdos-produzidos-pelo-ChatGPT)
-- [‘Ensino afro-brasileiro ainda não é do interesse da maioria’](https://www.nexojornal.com.br/entrevista/2023/03/26/%E2%80%98Ensino-afro-brasileiro-ainda-n%C3%A3o-%C3%A9-do-interesse-da-maioria%E2%80%99)
-- [O que Lula deixa de lado se indicar seu advogado para o STF](https://www.nexojornal.com.br/expresso/2023/03/26/O-que-Lula-deixa-de-lado-se-indicar-seu-advogado-para-o-STF)
+- [Como Zema segue a cartilha bolsonarista no meio ambiente](https://www.nexojornal.com.br/externo/2023/03/26/Como-Zema-segue-a-cartilha-bolsonarista-no-meio-ambiente)
+- [Salton, Carrefour e Shein: o ESG está além dos próprios muros](https://www.nexojornal.com.br/colunistas/2023/Salton-Carrefour-e-Shein-o-ESG-est%C3%A1-al%C3%A9m-dos-pr%C3%B3prios-muros)
+- [Por que ambientalistas protestam contra alguns parques eólicos](https://www.nexojornal.com.br/expresso/2023/03/26/Por-que-ambientalistas-protestam-contra-alguns-parques-e%C3%B3licos)
+- [Ausência de Drake no Lollapalooza revolta fãs e artistas](https://www.nexojornal.com.br/extra/2023/03/26/Aus%C3%AAncia-de-Drake-no-Lollapalooza-revolta-f%C3%A3s-e-artistas)
+- [Morre aos 84 anos o cantor e humorista Juca Chaves](https://www.nexojornal.com.br/extra/2023/03/26/Morre-aos-84-anos-o-cantor-e-humorista-Juca-Chaves)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
