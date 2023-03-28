@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crateras de até 70 metros ameaçam casas no Maranhão](https://www.nexojornal.com.br/extra/2023/03/27/Crateras-de-at%C3%A9-70-metros-amea%C3%A7am-casas-no-Maranh%C3%A3o)
-- [Netanyahu recua e suspende reforma após protestos em Israel](https://www.nexojornal.com.br/extra/2023/03/27/Netanyahu-recua-e-suspende-reforma-ap%C3%B3s-protestos-em-Israel)
-- [Mulher mata 6 pessoas em escola de Nashville, nos EUA](https://www.nexojornal.com.br/extra/2023/03/27/Mulher-mata-6-pessoas-em-escola-de-Nashville-nos-EUA)
-- [Marina propõe criar ‘estado de emergência climática permanente’](https://www.nexojornal.com.br/extra/2023/03/27/Marina-prop%C3%B5e-criar-%E2%80%98estado-de-emerg%C3%AAncia-clim%C3%A1tica-permanente%E2%80%99)
-- [Com faca, aluno de 13 anos mata professora e fere quatro pessoas](https://www.nexojornal.com.br/extra/2023/03/27/Com-faca-aluno-de-13-anos-mata-professora-e-fere-quatro-pessoas)
+- [Qual o tamanho do arsenal nuclear dos países atualmente](https://www.nexojornal.com.br/grafico/2023/03/27/Qual-o-tamanho-do-arsenal-nuclear-dos-pa%C3%ADses-atualmente)
+- [A aposta de Lula na reedição do PAC. Agora em outro cenário](https://www.nexojornal.com.br/expresso/2023/03/27/A-aposta-de-Lula-na-reedi%C3%A7%C3%A3o-do-PAC.-Agora-em-outro-cen%C3%A1rio)
+- [Como a reforma do Judiciário ameaça a democracia em Israel](https://www.nexojornal.com.br/expresso/2023/03/27/Como-a-reforma-do-Judici%C3%A1rio-amea%C3%A7a-a-democracia-em-Israel)
+- [Twitter tira selo azul de contas grátis a partir do dia 1° de abril](https://www.nexojornal.com.br/extra/2023/03/27/Twitter-tira-selo-azul-de-contas-gr%C3%A1tis-a-partir-do-dia-1%C2%B0-de-abril)
+- [Advogado lança suspeitas sobre Moro e Dallagnol ao falar à Justiça](https://www.nexojornal.com.br/extra/2023/03/27/Advogado-lan%C3%A7a-suspeitas-sobre-Moro-e-Dallagnol-ao-falar-%C3%A0-Justi%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
