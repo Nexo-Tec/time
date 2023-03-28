@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De onde vem o açaí e onde ele é produzido](https://www.nexojornal.com.br/grafico/2023/03/27/De-onde-vem-o-a%C3%A7a%C3%AD-e-onde-ele-%C3%A9-produzido)
-- [Como Zema segue a cartilha bolsonarista no meio ambiente](https://www.nexojornal.com.br/externo/2023/03/26/Como-Zema-segue-a-cartilha-bolsonarista-no-meio-ambiente)
-- [Salton, Carrefour e Shein: o ESG está além dos próprios muros](https://www.nexojornal.com.br/colunistas/2023/Salton-Carrefour-e-Shein-o-ESG-est%C3%A1-al%C3%A9m-dos-pr%C3%B3prios-muros)
-- [Por que ambientalistas protestam contra alguns parques eólicos](https://www.nexojornal.com.br/expresso/2023/03/26/Por-que-ambientalistas-protestam-contra-alguns-parques-e%C3%B3licos)
-- [Ausência de Drake no Lollapalooza revolta fãs e artistas](https://www.nexojornal.com.br/extra/2023/03/26/Aus%C3%AAncia-de-Drake-no-Lollapalooza-revolta-f%C3%A3s-e-artistas)
+- [Qual o tamanho do arsenal nuclear dos países atualmente](https://www.nexojornal.com.br/grafico/2023/03/27/Qual-o-tamanho-do-arsenal-nuclear-dos-pa%C3%ADses-atualmente)
+- [A aposta de Lula na reedição do PAC. Agora em outro cenário](https://www.nexojornal.com.br/expresso/2023/03/27/A-aposta-de-Lula-na-reedi%C3%A7%C3%A3o-do-PAC.-Agora-em-outro-cen%C3%A1rio)
+- [Como a reforma do Judiciário ameaça a democracia em Israel](https://www.nexojornal.com.br/expresso/2023/03/27/Como-a-reforma-do-Judici%C3%A1rio-amea%C3%A7a-a-democracia-em-Israel)
+- [Twitter tira selo azul de contas grátis a partir do dia 1° de abril](https://www.nexojornal.com.br/extra/2023/03/27/Twitter-tira-selo-azul-de-contas-gr%C3%A1tis-a-partir-do-dia-1%C2%B0-de-abril)
+- [Advogado lança suspeitas sobre Moro e Dallagnol ao falar à Justiça](https://www.nexojornal.com.br/extra/2023/03/27/Advogado-lan%C3%A7a-suspeitas-sobre-Moro-e-Dallagnol-ao-falar-%C3%A0-Justi%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
