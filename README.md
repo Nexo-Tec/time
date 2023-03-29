@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procurador quer que Bolsonaro devolva 3º estojo de joias da Arábia](https://www.nexojornal.com.br/extra/2023/03/28/Procurador-quer-que-Bolsonaro-devolva-3%C2%BA-estojo-de-joias-da-Ar%C3%A1bia)
-- [A vulnerabilidade das cidades da Amazônia quando chove forte](https://www.nexojornal.com.br/expresso/2023/03/28/A-vulnerabilidade-das-cidades-da-Amaz%C3%B4nia-quando-chove-forte)
-- [Qual o tamanho do arsenal nuclear dos países atualmente](https://www.nexojornal.com.br/grafico/2023/03/27/Qual-o-tamanho-do-arsenal-nuclear-dos-pa%C3%ADses-atualmente)
-- [A aposta de Lula na reedição do PAC. Agora em outro cenário](https://www.nexojornal.com.br/expresso/2023/03/27/A-aposta-de-Lula-na-reedi%C3%A7%C3%A3o-do-PAC.-Agora-em-outro-cen%C3%A1rio)
-- [Como a reforma do Judiciário ameaça a democracia em Israel](https://www.nexojornal.com.br/expresso/2023/03/27/Como-a-reforma-do-Judici%C3%A1rio-amea%C3%A7a-a-democracia-em-Israel)
+- [A ação de grupos para restringir acesso a livros nos EUA](https://www.nexojornal.com.br/expresso/2023/03/28/A-a%C3%A7%C3%A3o-de-grupos-para-restringir-acesso-a-livros-nos-EUA)
+- [As muitas ameaças à infância indígena no Brasil](https://www.nexojornal.com.br/colunistas/2023/As-muitas-amea%C3%A7as-%C3%A0-inf%C3%A2ncia-ind%C3%ADgena-no-Brasil)
+- [Como o impasse das medidas provisórias afeta o governo Lula](https://www.nexojornal.com.br/expresso/2023/03/28/Como-o-impasse-das-medidas-provis%C3%B3rias-afeta-o-governo-Lula)
+- [Com teto de juros de 1,97%, bancos retomam consignado do INSS](https://www.nexojornal.com.br/extra/2023/03/28/Com-teto-de-juros-de-197-bancos-retomam-consignado-do-INSS)
+- [A posse de Dilma no banco dos Brics. E os planos de Lula](https://www.nexojornal.com.br/podcast/2023/03/28/A-posse-de-Dilma-no-banco-dos-Brics.-E-os-planos-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
