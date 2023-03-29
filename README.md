@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Banco Central diz que regra fiscal ‘sólida’ pode reduzir inflação](https://www.nexojornal.com.br/extra/2023/03/28/Banco-Central-diz-que-regra-fiscal-%E2%80%98s%C3%B3lida%E2%80%99-pode-reduzir-infla%C3%A7%C3%A3o)
-- [Procurador quer que Bolsonaro devolva 3º estojo de joias da Arábia](https://www.nexojornal.com.br/extra/2023/03/28/Procurador-quer-que-Bolsonaro-devolva-3%C2%BA-estojo-de-joias-da-Ar%C3%A1bia)
-- [A vulnerabilidade das cidades da Amazônia quando chove forte](https://www.nexojornal.com.br/expresso/2023/03/28/A-vulnerabilidade-das-cidades-da-Amaz%C3%B4nia-quando-chove-forte)
-- [Qual o tamanho do arsenal nuclear dos países atualmente](https://www.nexojornal.com.br/grafico/2023/03/27/Qual-o-tamanho-do-arsenal-nuclear-dos-pa%C3%ADses-atualmente)
-- [A aposta de Lula na reedição do PAC. Agora em outro cenário](https://www.nexojornal.com.br/expresso/2023/03/27/A-aposta-de-Lula-na-reedi%C3%A7%C3%A3o-do-PAC.-Agora-em-outro-cen%C3%A1rio)
+- [Como a violação de direitos virou capital político em El Salvador](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-viola%C3%A7%C3%A3o-de-direitos-virou-capital-pol%C3%ADtico-em-El-Salvador)
+- [Ataques em escola: quando a ameaça é anunciada nas redes](https://www.nexojornal.com.br/expresso/2023/03/29/Ataques-em-escola-quando-a-amea%C3%A7a-%C3%A9-anunciada-nas-redes)
+- [PL vai ao Conselho de Ética contra Janones por fala homofóbica](https://www.nexojornal.com.br/extra/2023/03/29/PL-vai-ao-Conselho-de-%C3%89tica-contra-Janones-por-fala-homof%C3%B3bica)
+- [A ação de grupos para restringir acesso a livros nos EUA](https://www.nexojornal.com.br/expresso/2023/03/28/A-a%C3%A7%C3%A3o-de-grupos-para-restringir-acesso-a-livros-nos-EUA)
+- [As muitas ameaças à infância indígena no Brasil](https://www.nexojornal.com.br/colunistas/2023/As-muitas-amea%C3%A7as-%C3%A0-inf%C3%A2ncia-ind%C3%ADgena-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
