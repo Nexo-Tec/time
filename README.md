@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A posse de Dilma no banco dos Brics. E os planos de Lula](https://www.nexojornal.com.br/podcast/2023/03/28/A-posse-de-Dilma-no-banco-dos-Brics.-E-os-planos-de-Lula)
-- [Alinhamento de planetas pode ser visto a olho nu](https://www.nexojornal.com.br/extra/2023/03/28/Alinhamento-de-planetas-pode-ser-visto-a-olho-nu)
-- [Brasil ultrapassa marca de 700 mil mortes por covid-19](https://www.nexojornal.com.br/extra/2023/03/28/Brasil-ultrapassa-marca-de-700-mil-mortes-por-covid-19)
-- [Incêndio mata ao menos 39 em centro de imigração no México](https://www.nexojornal.com.br/extra/2023/03/28/Inc%C3%AAndio-mata-ao-menos-39-em-centro-de-imigra%C3%A7%C3%A3o-no-M%C3%A9xico)
-- [Por que sobram vagas em tecnologia e faltam empregos aos jovens](https://www.nexojornal.com.br/ensaio/2023/03/28/Por-que-sobram-vagas-em-tecnologia-e-faltam-empregos-aos-jovens)
+- [Banco Central diz que regra fiscal ‘sólida’ pode reduzir inflação](https://www.nexojornal.com.br/extra/2023/03/28/Banco-Central-diz-que-regra-fiscal-%E2%80%98s%C3%B3lida%E2%80%99-pode-reduzir-infla%C3%A7%C3%A3o)
+- [Procurador quer que Bolsonaro devolva 3º estojo de joias da Arábia](https://www.nexojornal.com.br/extra/2023/03/28/Procurador-quer-que-Bolsonaro-devolva-3%C2%BA-estojo-de-joias-da-Ar%C3%A1bia)
+- [A vulnerabilidade das cidades da Amazônia quando chove forte](https://www.nexojornal.com.br/expresso/2023/03/28/A-vulnerabilidade-das-cidades-da-Amaz%C3%B4nia-quando-chove-forte)
+- [Qual o tamanho do arsenal nuclear dos países atualmente](https://www.nexojornal.com.br/grafico/2023/03/27/Qual-o-tamanho-do-arsenal-nuclear-dos-pa%C3%ADses-atualmente)
+- [A aposta de Lula na reedição do PAC. Agora em outro cenário](https://www.nexojornal.com.br/expresso/2023/03/27/A-aposta-de-Lula-na-reedi%C3%A7%C3%A3o-do-PAC.-Agora-em-outro-cen%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
