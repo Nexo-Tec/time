@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cientistas produzem almôndega gigante de carne de mamute](https://www.nexojornal.com.br/extra/2023/03/29/Cientistas-produzem-alm%C3%B4ndega-gigante-de-carne-de-mamute)
+- [Como a violação de direitos virou capital político em El Salvador](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-viola%C3%A7%C3%A3o-de-direitos-virou-capital-pol%C3%ADtico-em-El-Salvador)
+- [Ataques em escola: quando a ameaça é anunciada nas redes](https://www.nexojornal.com.br/expresso/2023/03/29/Ataques-em-escola-quando-a-amea%C3%A7a-%C3%A9-anunciada-nas-redes)
+- [PL vai ao Conselho de Ética contra Janones por fala homofóbica](https://www.nexojornal.com.br/extra/2023/03/29/PL-vai-ao-Conselho-de-%C3%89tica-contra-Janones-por-fala-homof%C3%B3bica)
 - [A ação de grupos para restringir acesso a livros nos EUA](https://www.nexojornal.com.br/expresso/2023/03/28/A-a%C3%A7%C3%A3o-de-grupos-para-restringir-acesso-a-livros-nos-EUA)
-- [As muitas ameaças à infância indígena no Brasil](https://www.nexojornal.com.br/colunistas/2023/As-muitas-amea%C3%A7as-%C3%A0-inf%C3%A2ncia-ind%C3%ADgena-no-Brasil)
-- [Como o impasse das medidas provisórias afeta o governo Lula](https://www.nexojornal.com.br/expresso/2023/03/28/Como-o-impasse-das-medidas-provis%C3%B3rias-afeta-o-governo-Lula)
-- [Com teto de juros de 1,97%, bancos retomam consignado do INSS](https://www.nexojornal.com.br/extra/2023/03/28/Com-teto-de-juros-de-197-bancos-retomam-consignado-do-INSS)
-- [A posse de Dilma no banco dos Brics. E os planos de Lula](https://www.nexojornal.com.br/podcast/2023/03/28/A-posse-de-Dilma-no-banco-dos-Brics.-E-os-planos-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
