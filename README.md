@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A ação de grupos para restringir acesso a livros nos EUA](https://www.nexojornal.com.br/expresso/2023/03/28/A-a%C3%A7%C3%A3o-de-grupos-para-restringir-acesso-a-livros-nos-EUA)
-- [As muitas ameaças à infância indígena no Brasil](https://www.nexojornal.com.br/colunistas/2023/As-muitas-amea%C3%A7as-%C3%A0-inf%C3%A2ncia-ind%C3%ADgena-no-Brasil)
-- [Como o impasse das medidas provisórias afeta o governo Lula](https://www.nexojornal.com.br/expresso/2023/03/28/Como-o-impasse-das-medidas-provis%C3%B3rias-afeta-o-governo-Lula)
-- [Com teto de juros de 1,97%, bancos retomam consignado do INSS](https://www.nexojornal.com.br/extra/2023/03/28/Com-teto-de-juros-de-197-bancos-retomam-consignado-do-INSS)
-- [A posse de Dilma no banco dos Brics. E os planos de Lula](https://www.nexojornal.com.br/podcast/2023/03/28/A-posse-de-Dilma-no-banco-dos-Brics.-E-os-planos-de-Lula)
+- [Regra fiscal limita alta na despesa a 70% do aumento da receita](https://www.nexojornal.com.br/extra/2023/03/29/Regra-fiscal-limita-alta-na-despesa-a-70-do-aumento-da-receita)
+- [De volta ao Brasil: qual o lugar de Bolsonaro na oposição](https://www.nexojornal.com.br/expresso/2023/03/29/De-volta-ao-Brasil-qual-o-lugar-de-Bolsonaro-na-oposi%C3%A7%C3%A3o)
+- [Drones farão a guerra, enquanto nos mataremos por tédio](https://www.nexojornal.com.br/colunistas/2023/Drones-far%C3%A3o-a-guerra-enquanto-nos-mataremos-por-t%C3%A9dio)
+- [Ofensa, ameaça, fake news e picuinha: o que há com a Câmara?](https://www.nexojornal.com.br/podcast/2023/03/29/Ofensa-amea%C3%A7a-fake-news-e-picuinha-o-que-h%C3%A1-com-a-C%C3%A2mara)
+- [Como a China tenta alcançar o FMI no papel de credora global](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-China-tenta-alcan%C3%A7ar-o-FMI-no-papel-de-credora-global)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
