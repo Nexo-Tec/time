@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desigualdade racial nas eleições brasileiras](https://pp.nexojornal.com.br/academico/2023/Desigualdade-racial-nas-elei%C3%A7%C3%B5es-brasileiras)
+- [Michael França: meritocracia hereditária](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/03/30/Michael-Fran%C3%A7a-meritocracia-heredit%C3%A1ria)
+- [As desigualdades raciais moldam a desigualdade social no Brasil](https://pp.nexojornal.com.br/opiniao/2023/As-desigualdades-raciais-moldam-a-desigualdade-social-no-Brasil)
 - [Centros de síntese em ecologia e ciências ambientais: produção de dados e novos conhecimentos](https://pp.nexojornal.com.br/linha-do-tempo/2023/Centros-de-s%C3%ADntese-em-ecologia-e-ci%C3%AAncias-ambientais-produ%C3%A7%C3%A3o-de-dados-e-novos-conhecimentos)
 - [Heranças da plantação e o trabalho escravo no Brasil contemporâneo](https://pp.nexojornal.com.br/opiniao/2023/Heran%C3%A7as-da-planta%C3%A7%C3%A3o-e-o-trabalho-escravo-no-Brasil-contempor%C3%A2neo)
-- [“A gente é exótico”: quebra de paradigmas a partir da  trajetória de um estudante cotista da medicina da Uerj](https://pp.nexojornal.com.br/opiniao/2023/%E2%80%9CA-gente-%C3%A9-ex%C3%B3tico%E2%80%9D-quebra-de-paradigmas-a-partir-da-trajet%C3%B3ria-de-um-estudante-cotista-da-medicina-da-Uerj)
-- [Racismo religioso e as imagens que &lpar;não&rpar; queremos na cidade](https://pp.nexojornal.com.br/opiniao/2023/Racismo-religioso-e-as-imagens-que-n%C3%A3o-queremos-na-cidade)
-- [O Novo Ensino Médio é um dos maiores retrocessos da educação brasileira](https://pp.nexojornal.com.br/opiniao/2023/O-Novo-Ensino-M%C3%A9dio-%C3%A9-um-dos-maiores-retrocessos-da-educa%C3%A7%C3%A3o-brasileira)
 <!-- PP_LIST:END -->
 
