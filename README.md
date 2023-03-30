@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Regra fiscal limita alta na despesa a 70% do aumento da receita](https://www.nexojornal.com.br/extra/2023/03/29/Regra-fiscal-limita-alta-na-despesa-a-70-do-aumento-da-receita)
-- [De volta ao Brasil: qual o lugar de Bolsonaro na oposição](https://www.nexojornal.com.br/expresso/2023/03/29/De-volta-ao-Brasil-qual-o-lugar-de-Bolsonaro-na-oposi%C3%A7%C3%A3o)
-- [Drones farão a guerra, enquanto nos mataremos por tédio](https://www.nexojornal.com.br/colunistas/2023/Drones-far%C3%A3o-a-guerra-enquanto-nos-mataremos-por-t%C3%A9dio)
-- [Ofensa, ameaça, fake news e picuinha: o que há com a Câmara?](https://www.nexojornal.com.br/podcast/2023/03/29/Ofensa-amea%C3%A7a-fake-news-e-picuinha-o-que-h%C3%A1-com-a-C%C3%A2mara)
-- [Como a China tenta alcançar o FMI no papel de credora global](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-China-tenta-alcan%C3%A7ar-o-FMI-no-papel-de-credora-global)
+- [Cientistas produzem almôndega gigante de carne de mamute](https://www.nexojornal.com.br/extra/2023/03/29/Cientistas-produzem-alm%C3%B4ndega-gigante-de-carne-de-mamute)
+- [Como a violação de direitos virou capital político em El Salvador](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-viola%C3%A7%C3%A3o-de-direitos-virou-capital-pol%C3%ADtico-em-El-Salvador)
+- [Ataques em escola: quando a ameaça é anunciada nas redes](https://www.nexojornal.com.br/expresso/2023/03/29/Ataques-em-escola-quando-a-amea%C3%A7a-%C3%A9-anunciada-nas-redes)
+- [PL vai ao Conselho de Ética contra Janones por fala homofóbica](https://www.nexojornal.com.br/extra/2023/03/29/PL-vai-ao-Conselho-de-%C3%89tica-contra-Janones-por-fala-homof%C3%B3bica)
+- [A ação de grupos para restringir acesso a livros nos EUA](https://www.nexojornal.com.br/expresso/2023/03/28/A-a%C3%A7%C3%A3o-de-grupos-para-restringir-acesso-a-livros-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
