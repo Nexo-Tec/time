@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Regra fiscal limita alta na despesa a 70% do aumento da receita](https://www.nexojornal.com.br/extra/2023/03/29/Regra-fiscal-limita-alta-na-despesa-a-70-do-aumento-da-receita)
-- [De volta ao Brasil: qual o lugar de Bolsonaro na oposição](https://www.nexojornal.com.br/expresso/2023/03/29/De-volta-ao-Brasil-qual-o-lugar-de-Bolsonaro-na-oposi%C3%A7%C3%A3o)
-- [Drones farão a guerra, enquanto nos mataremos por tédio](https://www.nexojornal.com.br/colunistas/2023/Drones-far%C3%A3o-a-guerra-enquanto-nos-mataremos-por-t%C3%A9dio)
-- [Ofensa, ameaça, fake news e picuinha: o que há com a Câmara?](https://www.nexojornal.com.br/podcast/2023/03/29/Ofensa-amea%C3%A7a-fake-news-e-picuinha-o-que-h%C3%A1-com-a-C%C3%A2mara)
-- [Como a China tenta alcançar o FMI no papel de credora global](https://www.nexojornal.com.br/expresso/2023/03/29/Como-a-China-tenta-alcan%C3%A7ar-o-FMI-no-papel-de-credora-global)
+- [Ai Weiwei recria obra de Monet com peças de Lego](https://www.nexojornal.com.br/extra/2023/03/30/Ai-Weiwei-recria-obra-de-Monet-com-pe%C3%A7as-de-Lego)
+- [Aluna da USP que desviou dinheiro vira ré por estelionato](https://www.nexojornal.com.br/extra/2023/03/30/Aluna-da-USP-que-desviou-dinheiro-vira-r%C3%A9-por-estelionato)
+- [A geração de mulheres que veio para acertar as contas](https://www.nexojornal.com.br/ensaio/2023/03/30/A-gera%C3%A7%C3%A3o-de-mulheres-que-veio-para-acertar-as-contas)
+- [Bolsonaro descarta Michelle candidata e elogia Salles](https://www.nexojornal.com.br/extra/2023/03/30/Bolsonaro-descarta-Michelle-candidata-e-elogia-Salles)
+- [Quantas pessoas com mais de 40 anos entram na faculdade](https://www.nexojornal.com.br/grafico/2023/03/30/Quantas-pessoas-com-mais-de-40-anos-entram-na-faculdade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
