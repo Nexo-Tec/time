@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a linguística explica o efeito das fake news sobre a covid](https://www.nexojornal.com.br/academico/2023/03/31/Como-a-lingu%C3%ADstica-explica-o-efeito-das-fake-news-sobre-a-covid)
-- [Por que magnatas da tecnologia pedem para pausar pesquisas de IA](https://www.nexojornal.com.br/expresso/2023/03/30/Por-que-magnatas-da-tecnologia-pedem-para-pausar-pesquisas-de-IA)
-- [Jovens e violência: como educar para a convivência pacífica?](https://www.nexojornal.com.br/colunistas/2023/Jovens-e-viol%C3%AAncia-como-educar-para-a-conviv%C3%AAncia-pac%C3%ADfica)
-- [O que a proposta fiscal de Lula atende. E o que não atende](https://www.nexojornal.com.br/expresso/2023/03/30/O-que-a-proposta-fiscal-de-Lula-atende.-E-o-que-n%C3%A3o-atende)
-- [IA que gerou imagem falsa do papa encerra gratuidade](https://www.nexojornal.com.br/extra/2023/03/30/IA-que-gerou-imagem-falsa-do-papa-encerra-gratuidade)
+- [Ai Weiwei recria obra de Monet com peças de Lego](https://www.nexojornal.com.br/extra/2023/03/30/Ai-Weiwei-recria-obra-de-Monet-com-pe%C3%A7as-de-Lego)
+- [Aluna da USP que desviou dinheiro vira ré por estelionato](https://www.nexojornal.com.br/extra/2023/03/30/Aluna-da-USP-que-desviou-dinheiro-vira-r%C3%A9-por-estelionato)
+- [A geração de mulheres que veio para acertar as contas](https://www.nexojornal.com.br/ensaio/2023/03/30/A-gera%C3%A7%C3%A3o-de-mulheres-que-veio-para-acertar-as-contas)
+- [Bolsonaro descarta Michelle candidata e elogia Salles](https://www.nexojornal.com.br/extra/2023/03/30/Bolsonaro-descarta-Michelle-candidata-e-elogia-Salles)
+- [Quantas pessoas com mais de 40 anos entram na faculdade](https://www.nexojornal.com.br/grafico/2023/03/30/Quantas-pessoas-com-mais-de-40-anos-entram-na-faculdade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
