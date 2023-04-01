@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a linguística explica o efeito das fake news sobre a covid](https://www.nexojornal.com.br/academico/2023/03/31/Como-a-lingu%C3%ADstica-explica-o-efeito-das-fake-news-sobre-a-covid)
 - [Por que magnatas da tecnologia pedem para pausar pesquisas de IA](https://www.nexojornal.com.br/expresso/2023/03/30/Por-que-magnatas-da-tecnologia-pedem-para-pausar-pesquisas-de-IA)
 - [Jovens e violência: como educar para a convivência pacífica?](https://www.nexojornal.com.br/colunistas/2023/Jovens-e-viol%C3%AAncia-como-educar-para-a-conviv%C3%AAncia-pac%C3%ADfica)
 - [O que a proposta fiscal de Lula atende. E o que não atende](https://www.nexojornal.com.br/expresso/2023/03/30/O-que-a-proposta-fiscal-de-Lula-atende.-E-o-que-n%C3%A3o-atende)
 - [IA que gerou imagem falsa do papa encerra gratuidade](https://www.nexojornal.com.br/extra/2023/03/30/IA-que-gerou-imagem-falsa-do-papa-encerra-gratuidade)
+- [Maioria do STF barra prisão especial para réus com curso superior](https://www.nexojornal.com.br/extra/2023/03/30/Maioria-do-STF-barra-pris%C3%A3o-especial-para-r%C3%A9us-com-curso-superior)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
