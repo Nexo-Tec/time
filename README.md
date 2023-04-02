@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Papa Francisco deixa hospital após tratar bronquite](https://www.nexojornal.com.br/extra/2023/04/01/Papa-Francisco-deixa-hospital-ap%C3%B3s-tratar-bronquite)
 - [‘A encruzilhada’: uma peça sobre a arte e a violência de Estado](https://www.nexojornal.com.br/estante/trechos/2023/03/31/%E2%80%98A-encruzilhada%E2%80%99-uma-pe%C3%A7a-sobre-a-arte-e-a-viol%C3%AAncia-de-Estado)
 - [De onde vem o medo de falar sobre gênero na escola?](https://www.nexojornal.com.br/externo/2023/03/31/De-onde-vem-o-medo-de-falar-sobre-g%C3%AAnero-na-escola)
 - [O site que conta a história da Amazônia como um lar](https://www.nexojornal.com.br/expresso/2023/03/31/O-site-que-conta-a-hist%C3%B3ria-da-Amaz%C3%B4nia-como-um-lar)
 - [A história do primeiro banco comunitário do Brasil](https://www.nexojornal.com.br/extra/2023/03/31/A-hist%C3%B3ria-do-primeiro-banco-comunit%C3%A1rio-do-Brasil)
-- [A onda de podcasts sobre psicanálise e saúde mental](https://www.nexojornal.com.br/expresso/2023/03/31/A-onda-de-podcasts-sobre-psican%C3%A1lise-e-sa%C3%BAde-mental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
