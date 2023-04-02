@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A encruzilhada’: uma peça sobre a arte e a violência de Estado](https://www.nexojornal.com.br/estante/trechos/2023/03/31/%E2%80%98A-encruzilhada%E2%80%99-uma-pe%C3%A7a-sobre-a-arte-e-a-viol%C3%AAncia-de-Estado)
-- [De onde vem o medo de falar sobre gênero na escola?](https://www.nexojornal.com.br/externo/2023/03/31/De-onde-vem-o-medo-de-falar-sobre-g%C3%AAnero-na-escola)
-- [O site que conta a história da Amazônia como um lar](https://www.nexojornal.com.br/expresso/2023/03/31/O-site-que-conta-a-hist%C3%B3ria-da-Amaz%C3%B4nia-como-um-lar)
-- [A história do primeiro banco comunitário do Brasil](https://www.nexojornal.com.br/extra/2023/03/31/A-hist%C3%B3ria-do-primeiro-banco-comunit%C3%A1rio-do-Brasil)
-- [A onda de podcasts sobre psicanálise e saúde mental](https://www.nexojornal.com.br/expresso/2023/03/31/A-onda-de-podcasts-sobre-psican%C3%A1lise-e-sa%C3%BAde-mental)
+- [Trabalho doméstico: direitos tardios num país desigual](https://www.nexojornal.com.br/explicado/2023/04/01/Trabalho-dom%C3%A9stico-direitos-tardios-num-pa%C3%ADs-desigual)
+- [O repique do lavajatismo. E o tamanho de Moro na política](https://www.nexojornal.com.br/expresso/2023/04/01/O-repique-do-lavajatismo.-E-o-tamanho-de-Moro-na-pol%C3%ADtica)
+- [A regulamentação dos sistemas de recomendação de conteúdo](https://www.nexojornal.com.br/ensaio/2023/04/01/A-regulamenta%C3%A7%C3%A3o-dos-sistemas-de-recomenda%C3%A7%C3%A3o-de-conte%C3%BAdo)
+- [Como o The Guardian revelou o próprio passado escravagista](https://www.nexojornal.com.br/expresso/2023/04/01/Como-o-The-Guardian-revelou-o-pr%C3%B3prio-passado-escravagista)
+- [Os apelos por um Ramadã verde e o ambientalismo no Islã](https://www.nexojornal.com.br/externo/2023/04/01/Os-apelos-por-um-Ramad%C3%A3-verde-e-o-ambientalismo-no-Isl%C3%A3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
