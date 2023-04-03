@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@_almeida_paulo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/_almeida_paulo/)
 - [Império da Dor](https://gamarevista.uol.com.br/cultura/trecho-de-livro/imperio-da-dor/)
 - [Que março seja mês das mulheres não é em vão aqui](https://gamarevista.uol.com.br/colunistas/marilene-felinto/que-marco-seja-mes-das-mulheres-nao-e-em-vao-aqui/)
 - [@brisaflow](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/brisaflow/)
 - [Bárbara Paz: “Não tem coisa melhor do que estar apaixonado”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/barbara-paz-fala-do-poder-da-paixao-na-sua-vida/)
-- [A quarta e última temporada de “Succession”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-quarta-e-ultima-temporada-de-succession/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
