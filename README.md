@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trabalho doméstico: direitos tardios num país desigual](https://www.nexojornal.com.br/explicado/2023/04/01/Trabalho-dom%C3%A9stico-direitos-tardios-num-pa%C3%ADs-desigual)
-- [O repique do lavajatismo. E o tamanho de Moro na política](https://www.nexojornal.com.br/expresso/2023/04/01/O-repique-do-lavajatismo.-E-o-tamanho-de-Moro-na-pol%C3%ADtica)
-- [A regulamentação dos sistemas de recomendação de conteúdo](https://www.nexojornal.com.br/ensaio/2023/04/01/A-regulamenta%C3%A7%C3%A3o-dos-sistemas-de-recomenda%C3%A7%C3%A3o-de-conte%C3%BAdo)
-- [Como o The Guardian revelou o próprio passado escravagista](https://www.nexojornal.com.br/expresso/2023/04/01/Como-o-The-Guardian-revelou-o-pr%C3%B3prio-passado-escravagista)
-- [Os apelos por um Ramadã verde e o ambientalismo no Islã](https://www.nexojornal.com.br/externo/2023/04/01/Os-apelos-por-um-Ramad%C3%A3-verde-e-o-ambientalismo-no-Isl%C3%A3)
+- [Preços do petróleo disparam após anúncio de corte-surpresa](https://www.nexojornal.com.br/extra/2023/04/03/Pre%C3%A7os-do-petr%C3%B3leo-disparam-ap%C3%B3s-an%C3%BAncio-de-corte-surpresa)
+- [Oposição vence na Finlândia e põe fim a governo de Marin](https://www.nexojornal.com.br/extra/2023/04/02/Oposi%C3%A7%C3%A3o-vence-na-Finl%C3%A2ndia-e-p%C3%B5e-fim-a-governo-de-Marin)
+- [Os primeiros passos do Congresso na pauta ambiental em 2023](https://www.nexojornal.com.br/expresso/2023/04/02/Os-primeiros-passos-do-Congresso-na-pauta-ambiental-em-2023)
+- [Os impactos eleitorais do indiciamento de Trump nos EUA](https://www.nexojornal.com.br/expresso/2023/04/02/Os-impactos-eleitorais-do-indiciamento-de-Trump-nos-EUA)
+- [Onde está você agora? A vida sob a economia da atenção](https://www.nexojornal.com.br/ensaio/2023/04/02/Onde-est%C3%A1-voc%C3%AA-agora-A-vida-sob-a-economia-da-aten%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
