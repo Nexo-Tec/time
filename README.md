@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Emissão de gases danosos à camada de ozônio bate recorde em 2020](https://www.nexojornal.com.br/extra/2023/04/03/Emiss%C3%A3o-de-gases-danosos-%C3%A0-camada-de-oz%C3%B4nio-bate-recorde-em-2020)
-- [Para continuar](https://www.nexojornal.com.br/especial/2023/04/03/Para-continuar)
-- [Como a síntese científica pode ajudar as políticas públicas](https://www.nexojornal.com.br/expresso/2023/04/03/Como-a-s%C3%ADntese-cient%C3%ADfica-pode-ajudar-as-pol%C3%ADticas-p%C3%BAblicas)
-- [Chuvas extremas com potencial de gerar desastres são cada vez mais comuns em partes do país](https://www.nexojornal.com.br/externo/2023/04/03/Chuvas-extremas-com-potencial-de-gerar-desastres-s%C3%A3o-cada-vez-mais-comuns-em-partes-do-pa%C3%ADs)
-- [Preços do petróleo disparam após anúncio de corte-surpresa](https://www.nexojornal.com.br/extra/2023/04/03/Pre%C3%A7os-do-petr%C3%B3leo-disparam-ap%C3%B3s-an%C3%BAncio-de-corte-surpresa)
+- [Malásia avança na extinção de pena de morte obrigatória](https://www.nexojornal.com.br/extra/2023/04/03/Mal%C3%A1sia-avan%C3%A7a-na-extin%C3%A7%C3%A3o-de-pena-de-morte-obrigat%C3%B3ria)
+- [Qual o perfil dos professores universitários no Brasil](https://www.nexojornal.com.br/grafico/2023/04/03/Qual-o-perfil-dos-professores-universit%C3%A1rios-no-Brasil)
+- [Como as decisões da Opep afetam o mercado de petróleo em 2023](https://www.nexojornal.com.br/expresso/2023/04/03/Como-as-decis%C3%B5es-da-Opep-afetam-o-mercado-de-petr%C3%B3leo-em-2023)
+- [Os novos indícios de um plano bolsonarista de supressão de votos](https://www.nexojornal.com.br/podcast/2023/04/03/Os-novos-ind%C3%ADcios-de-um-plano-bolsonarista-de-supress%C3%A3o-de-votos)
+- [Militares usaram verba da covid com salgadinho e picanha, diz TCU](https://www.nexojornal.com.br/extra/2023/04/03/Militares-usaram-verba-da-covid-com-salgadinho-e-picanha-diz-TCU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
