@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dogecoin dispara após Musk mudar logo do Twitter](https://www.nexojornal.com.br/extra/2023/04/04/Dogecoin-dispara-ap%C3%B3s-Musk-mudar-logo-do-Twitter)
+- [Com entrada da Finlândia, Otan amplia fronteira com a Rússia](https://www.nexojornal.com.br/extra/2023/04/04/Com-entrada-da-Finl%C3%A2ndia-Otan-amplia-fronteira-com-a-R%C3%BAssia)
+- [Delegacias da mulher passam a funcionar 24 horas por dia](https://www.nexojornal.com.br/extra/2023/04/04/Delegacias-da-mulher-passam-a-funcionar-24-horas-por-dia)
+- [A liberação de armas no Equador diante do avanço do narcotráfico](https://www.nexojornal.com.br/expresso/2023/04/03/A-libera%C3%A7%C3%A3o-de-armas-no-Equador-diante-do-avan%C3%A7o-do-narcotr%C3%A1fico)
 - [Malásia avança na extinção de pena de morte obrigatória](https://www.nexojornal.com.br/extra/2023/04/03/Mal%C3%A1sia-avan%C3%A7a-na-extin%C3%A7%C3%A3o-de-pena-de-morte-obrigat%C3%B3ria)
-- [Qual o perfil dos professores universitários no Brasil](https://www.nexojornal.com.br/grafico/2023/04/03/Qual-o-perfil-dos-professores-universit%C3%A1rios-no-Brasil)
-- [Como as decisões da Opep afetam o mercado de petróleo em 2023](https://www.nexojornal.com.br/expresso/2023/04/03/Como-as-decis%C3%B5es-da-Opep-afetam-o-mercado-de-petr%C3%B3leo-em-2023)
-- [Os novos indícios de um plano bolsonarista de supressão de votos](https://www.nexojornal.com.br/podcast/2023/04/03/Os-novos-ind%C3%ADcios-de-um-plano-bolsonarista-de-supress%C3%A3o-de-votos)
-- [Militares usaram verba da covid com salgadinho e picanha, diz TCU](https://www.nexojornal.com.br/extra/2023/04/03/Militares-usaram-verba-da-covid-com-salgadinho-e-picanha-diz-TCU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
