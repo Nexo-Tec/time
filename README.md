@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Preços do petróleo disparam após anúncio de corte-surpresa](https://www.nexojornal.com.br/extra/2023/04/03/Pre%C3%A7os-do-petr%C3%B3leo-disparam-ap%C3%B3s-an%C3%BAncio-de-corte-surpresa)
-- [Oposição vence na Finlândia e põe fim a governo de Marin](https://www.nexojornal.com.br/extra/2023/04/02/Oposi%C3%A7%C3%A3o-vence-na-Finl%C3%A2ndia-e-p%C3%B5e-fim-a-governo-de-Marin)
-- [Os primeiros passos do Congresso na pauta ambiental em 2023](https://www.nexojornal.com.br/expresso/2023/04/02/Os-primeiros-passos-do-Congresso-na-pauta-ambiental-em-2023)
-- [Os impactos eleitorais do indiciamento de Trump nos EUA](https://www.nexojornal.com.br/expresso/2023/04/02/Os-impactos-eleitorais-do-indiciamento-de-Trump-nos-EUA)
-- [Onde está você agora? A vida sob a economia da atenção](https://www.nexojornal.com.br/ensaio/2023/04/02/Onde-est%C3%A1-voc%C3%AA-agora-A-vida-sob-a-economia-da-aten%C3%A7%C3%A3o)
+- [Os novos indícios de um plano bolsonarista de supressão de votos](https://www.nexojornal.com.br/podcast/2023/04/03/Os-novos-ind%C3%ADcios-de-um-plano-bolsonarista-de-supress%C3%A3o-de-votos)
+- [Militares usaram verba da covid com salgadinho e picanha, diz TCU](https://www.nexojornal.com.br/extra/2023/04/03/Militares-usaram-verba-da-covid-com-salgadinho-e-picanha-diz-TCU)
+- [Nasa anuncia astronautas de missão lunar Artemis 2](https://www.nexojornal.com.br/extra/2023/04/03/Nasa-anuncia-astronautas-de-miss%C3%A3o-lunar-Artemis-2)
+- [Novo ensino médio: governo deve suspender reforma](https://www.nexojornal.com.br/extra/2023/04/03/Novo-ensino-m%C3%A9dio-governo-deve-suspender-reforma)
+- [Acúmulo de gases danosos à camada de ozônio bate recorde em 2020](https://www.nexojornal.com.br/extra/2023/04/03/Ac%C3%BAmulo-de-gases-danosos-%C3%A0-camada-de-oz%C3%B4nio-bate-recorde-em-2020)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
