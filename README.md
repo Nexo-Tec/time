@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Emissão de gases danosos à camada de ozônio bate recorde em 2020](https://www.nexojornal.com.br/extra/2023/04/03/Emiss%C3%A3o-de-gases-danosos-%C3%A0-camada-de-oz%C3%B4nio-bate-recorde-em-2020)
-- [Para continuar](https://www.nexojornal.com.br/especial/2023/04/03/Para-continuar)
-- [Como a síntese científica pode ajudar as políticas públicas](https://www.nexojornal.com.br/expresso/2023/04/03/Como-a-s%C3%ADntese-cient%C3%ADfica-pode-ajudar-as-pol%C3%ADticas-p%C3%BAblicas)
-- [Chuvas extremas com potencial de gerar desastres são cada vez mais comuns em partes do país](https://www.nexojornal.com.br/externo/2023/04/03/Chuvas-extremas-com-potencial-de-gerar-desastres-s%C3%A3o-cada-vez-mais-comuns-em-partes-do-pa%C3%ADs)
 - [Preços do petróleo disparam após anúncio de corte-surpresa](https://www.nexojornal.com.br/extra/2023/04/03/Pre%C3%A7os-do-petr%C3%B3leo-disparam-ap%C3%B3s-an%C3%BAncio-de-corte-surpresa)
+- [Oposição vence na Finlândia e põe fim a governo de Marin](https://www.nexojornal.com.br/extra/2023/04/02/Oposi%C3%A7%C3%A3o-vence-na-Finl%C3%A2ndia-e-p%C3%B5e-fim-a-governo-de-Marin)
+- [Os primeiros passos do Congresso na pauta ambiental em 2023](https://www.nexojornal.com.br/expresso/2023/04/02/Os-primeiros-passos-do-Congresso-na-pauta-ambiental-em-2023)
+- [Os impactos eleitorais do indiciamento de Trump nos EUA](https://www.nexojornal.com.br/expresso/2023/04/02/Os-impactos-eleitorais-do-indiciamento-de-Trump-nos-EUA)
+- [Onde está você agora? A vida sob a economia da atenção](https://www.nexojornal.com.br/ensaio/2023/04/02/Onde-est%C3%A1-voc%C3%AA-agora-A-vida-sob-a-economia-da-aten%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
