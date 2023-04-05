@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Homem ataca e mata crianças em creche de Blumenau](https://www.nexojornal.com.br/extra/2023/04/05/Homem-ataca-e-mata-crian%C3%A7as-em-creche-de-Blumenau)
 - [A educação para todas as pessoas e escola pró-vida](https://www.nexojornal.com.br/colunistas/2023/A-educa%C3%A7%C3%A3o-para-todas-as-pessoas-e-escola-pr%C3%B3-vida)
 - [O mapa das áreas de alagamento na periferia paulistana](https://www.nexojornal.com.br/expresso/2023/04/04/O-mapa-das-%C3%A1reas-de-alagamento-na-periferia-paulistana)
 - [Como o freio ao novo ensino médio impacta a educação no país](https://www.nexojornal.com.br/expresso/2023/04/04/Como-o-freio-ao-novo-ensino-m%C3%A9dio-impacta-a-educa%C3%A7%C3%A3o-no-pa%C3%ADs)
 - [Como evolui a parceria militar entre Rússia e Irã](https://www.nexojornal.com.br/expresso/2023/04/04/Como-evolui-a-parceria-militar-entre-R%C3%BAssia-e-Ir%C3%A3)
+- [A tempestade que Trump tenta converter em trunfo eleitoral](https://www.nexojornal.com.br/podcast/2023/04/04/A-tempestade-que-Trump-tenta-converter-em-trunfo-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
