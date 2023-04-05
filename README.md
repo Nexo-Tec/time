@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Dogecoin dispara após Musk mudar logo do Twitter](https://www.nexojornal.com.br/extra/2023/04/04/Dogecoin-dispara-ap%C3%B3s-Musk-mudar-logo-do-Twitter)
-- [Com entrada da Finlândia, Otan amplia fronteira com a Rússia](https://www.nexojornal.com.br/extra/2023/04/04/Com-entrada-da-Finl%C3%A2ndia-Otan-amplia-fronteira-com-a-R%C3%BAssia)
-- [Delegacias da mulher passam a funcionar 24 horas por dia](https://www.nexojornal.com.br/extra/2023/04/04/Delegacias-da-mulher-passam-a-funcionar-24-horas-por-dia)
-- [A liberação de armas no Equador diante do avanço do narcotráfico](https://www.nexojornal.com.br/expresso/2023/04/03/A-libera%C3%A7%C3%A3o-de-armas-no-Equador-diante-do-avan%C3%A7o-do-narcotr%C3%A1fico)
-- [Malásia avança na extinção de pena de morte obrigatória](https://www.nexojornal.com.br/extra/2023/04/03/Mal%C3%A1sia-avan%C3%A7a-na-extin%C3%A7%C3%A3o-de-pena-de-morte-obrigat%C3%B3ria)
+- [A educação para todas as pessoas e escola pró-vida](https://www.nexojornal.com.br/colunistas/2023/A-educa%C3%A7%C3%A3o-para-todas-as-pessoas-e-escola-pr%C3%B3-vida)
+- [O mapa das áreas de alagamento na periferia paulistana](https://www.nexojornal.com.br/expresso/2023/04/04/O-mapa-das-%C3%A1reas-de-alagamento-na-periferia-paulistana)
+- [Como o freio ao novo ensino médio impacta a educação no país](https://www.nexojornal.com.br/expresso/2023/04/04/Como-o-freio-ao-novo-ensino-m%C3%A9dio-impacta-a-educa%C3%A7%C3%A3o-no-pa%C3%ADs)
+- [Como evolui a parceria militar entre Rússia e Irã](https://www.nexojornal.com.br/expresso/2023/04/04/Como-evolui-a-parceria-militar-entre-R%C3%BAssia-e-Ir%C3%A3)
+- [A tempestade que Trump tenta converter em trunfo eleitoral](https://www.nexojornal.com.br/podcast/2023/04/04/A-tempestade-que-Trump-tenta-converter-em-trunfo-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
