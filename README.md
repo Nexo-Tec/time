@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Homem ataca e mata crianças em creche de Blumenau](https://www.nexojornal.com.br/extra/2023/04/05/Homem-ataca-e-mata-crian%C3%A7as-em-creche-de-Blumenau)
-- [A educação para todas as pessoas e escola pró-vida](https://www.nexojornal.com.br/colunistas/2023/A-educa%C3%A7%C3%A3o-para-todas-as-pessoas-e-escola-pr%C3%B3-vida)
-- [O mapa das áreas de alagamento na periferia paulistana](https://www.nexojornal.com.br/expresso/2023/04/04/O-mapa-das-%C3%A1reas-de-alagamento-na-periferia-paulistana)
-- [Como o freio ao novo ensino médio impacta a educação no país](https://www.nexojornal.com.br/expresso/2023/04/04/Como-o-freio-ao-novo-ensino-m%C3%A9dio-impacta-a-educa%C3%A7%C3%A3o-no-pa%C3%ADs)
-- [Como evolui a parceria militar entre Rússia e Irã](https://www.nexojornal.com.br/expresso/2023/04/04/Como-evolui-a-parceria-militar-entre-R%C3%BAssia-e-Ir%C3%A3)
+- [Joias para Bolsonaro: as suspeitas que rondam o caso](https://www.nexojornal.com.br/expresso/2023/04/06/Joias-para-Bolsonaro-as-suspeitas-que-rondam-o-caso)
+- [O que pode ser feito para proteger escolas e creches de ataques](https://www.nexojornal.com.br/expresso/2023/04/05/O-que-pode-ser-feito-para-proteger-escolas-e-creches-de-ataques)
+- [Os erros do ChatGPT. E as questões quanto à inteligência artificial](https://www.nexojornal.com.br/podcast/2023/04/05/Os-erros-do-ChatGPT.-E-as-quest%C3%B5es-quanto-%C3%A0-intelig%C3%AAncia-artificial)
+- [Como cães evoluíram para nos encorajar a lhes dar comida](https://www.nexojornal.com.br/colunistas/2023/Como-c%C3%A3es-evolu%C3%ADram-para-nos-encorajar-a-lhes-dar-comida)
+- [Bolsonaro depõe por três horas sobre joias da Arábia Saudita](https://www.nexojornal.com.br/extra/2023/04/05/Bolsonaro-dep%C3%B5e-por-tr%C3%AAs-horas-sobre-joias-da-Ar%C3%A1bia-Saudita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
