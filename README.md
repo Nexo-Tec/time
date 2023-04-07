@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O feminismo edulcorado de Hollywood](https://www.nexojornal.com.br/colunistas/2023/O-feminismo-edulcorado-de-Hollywood)
-- [Os diferentes objetivos que movem as visitas europeias à China](https://www.nexojornal.com.br/expresso/2023/04/06/Os-diferentes-objetivos-que-movem-as-visitas-europeias-%C3%A0-China)
-- [O jogo que testa conhecimentos a partir de fotografias](https://www.nexojornal.com.br/expresso/2023/04/06/O-jogo-que-testa-conhecimentos-a-partir-de-fotografias)
-- [A relação das crianças com a tradição dos brinquedos miriti](https://www.nexojornal.com.br/externo/2023/04/06/A-rela%C3%A7%C3%A3o-das-crian%C3%A7as-com-a-tradi%C3%A7%C3%A3o-dos-brinquedos-miriti)
-- [Por que Haddad fala em reduzir o patrimonialismo fiscal](https://www.nexojornal.com.br/expresso/2023/04/06/Por-que-Haddad-fala-em-reduzir-o-patrimonialismo-fiscal)
+- [O movimento para tornar o Cerrado patrimônio nacional](https://www.nexojornal.com.br/externo/2023/04/06/O-movimento-para-tornar-o-Cerrado-patrim%C3%B4nio-nacional)
+- [MEC libera vagas de medicina em lugares com poucos médicos](https://www.nexojornal.com.br/extra/2023/04/06/MEC-libera-vagas-de-medicina-em-lugares-com-poucos-m%C3%A9dicos)
+- [‘Fascismo’: o uso do termo para descrever fenômenos atuais](https://www.nexojornal.com.br/academico/2023/04/06/%E2%80%98Fascismo%E2%80%99-o-uso-do-termo-para-descrever-fen%C3%B4menos-atuais)
+- [Cidade no Ceará pede que população deixe área perto de barragem](https://www.nexojornal.com.br/extra/2023/04/06/Cidade-no-Cear%C3%A1-pede-que-popula%C3%A7%C3%A3o-deixe-%C3%A1rea-perto-de-barragem)
+- [Governo pede fim de projeto de lei sobre excludente de ilicitude](https://www.nexojornal.com.br/extra/2023/04/06/Governo-pede-fim-de-projeto-de-lei-sobre-excludente-de-ilicitude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
