@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O movimento para tornar o Cerrado patrimônio nacional](https://www.nexojornal.com.br/externo/2023/04/06/O-movimento-para-tornar-o-Cerrado-patrim%C3%B4nio-nacional)
-- [MEC libera vagas de medicina em lugares com poucos médicos](https://www.nexojornal.com.br/extra/2023/04/06/MEC-libera-vagas-de-medicina-em-lugares-com-poucos-m%C3%A9dicos)
-- [‘Fascismo’: o uso do termo para descrever fenômenos atuais](https://www.nexojornal.com.br/academico/2023/04/06/%E2%80%98Fascismo%E2%80%99-o-uso-do-termo-para-descrever-fen%C3%B4menos-atuais)
-- [Cidade no Ceará pede que população deixe área perto de barragem](https://www.nexojornal.com.br/extra/2023/04/06/Cidade-no-Cear%C3%A1-pede-que-popula%C3%A7%C3%A3o-deixe-%C3%A1rea-perto-de-barragem)
-- [Governo pede fim de projeto de lei sobre excludente de ilicitude](https://www.nexojornal.com.br/extra/2023/04/06/Governo-pede-fim-de-projeto-de-lei-sobre-excludente-de-ilicitude)
+- [Joias para Bolsonaro: as suspeitas que rondam o caso](https://www.nexojornal.com.br/expresso/2023/04/06/Joias-para-Bolsonaro-as-suspeitas-que-rondam-o-caso)
+- [O que pode ser feito para proteger escolas e creches de ataques](https://www.nexojornal.com.br/expresso/2023/04/05/O-que-pode-ser-feito-para-proteger-escolas-e-creches-de-ataques)
+- [Os erros do ChatGPT. E as questões quanto à inteligência artificial](https://www.nexojornal.com.br/podcast/2023/04/05/Os-erros-do-ChatGPT.-E-as-quest%C3%B5es-quanto-%C3%A0-intelig%C3%AAncia-artificial)
+- [Como cães evoluíram para nos encorajar a lhes dar comida](https://www.nexojornal.com.br/colunistas/2023/Como-c%C3%A3es-evolu%C3%ADram-para-nos-encorajar-a-lhes-dar-comida)
+- [Bolsonaro depõe por três horas sobre joias da Arábia Saudita](https://www.nexojornal.com.br/extra/2023/04/05/Bolsonaro-dep%C3%B5e-por-tr%C3%AAs-horas-sobre-joias-da-Ar%C3%A1bia-Saudita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
