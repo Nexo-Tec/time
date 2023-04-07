@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [De Sísifo a Sankofa: o protagonismo afroindígena na retomada de uma Política Nacional de Museus](https://pp.nexojornal.com.br/ponto-de-vista/2023/De-S%C3%ADsifo-a-Sankofa-o-protagonismo-afroind%C3%ADgena-na-retomada-de-uma-Pol%C3%ADtica-Nacional-de-Museus)
 - [Juventude e trabalho](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/04/Juventude-e-trabalho)
 - [Marcos regulatórios da agricultura sustentável no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2023/Marcos-regulat%C3%B3rios-da-agricultura-sustent%C3%A1vel-no-Brasil)
 - [Reformas das leis de financiamento de campanha no Brasil](https://pp.nexojornal.com.br/academico/2023/Reformas-das-leis-de-financiamento-de-campanha-no-Brasil)
 - [Como se formou o sionismo evangélico no Brasil](https://pp.nexojornal.com.br/academico/2023/Como-se-formou-o-sionismo-evang%C3%A9lico-no-Brasil)
+- [O reggae e a transformação da ‘Atenas Brasileira’ em ‘Jamaica Brasileira’](https://pp.nexojornal.com.br/opiniao/2023/O-reggae-e-a-transforma%C3%A7%C3%A3o-da-%E2%80%98Atenas-Brasileira%E2%80%99-em-%E2%80%98Jamaica-Brasileira%E2%80%99)
 <!-- PP_LIST:END -->
 
