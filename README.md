@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Joias para Bolsonaro: as suspeitas que rondam o caso](https://www.nexojornal.com.br/expresso/2023/04/06/Joias-para-Bolsonaro-as-suspeitas-que-rondam-o-caso)
-- [O que pode ser feito para proteger escolas e creches de ataques](https://www.nexojornal.com.br/expresso/2023/04/05/O-que-pode-ser-feito-para-proteger-escolas-e-creches-de-ataques)
-- [Os erros do ChatGPT. E as questões quanto à inteligência artificial](https://www.nexojornal.com.br/podcast/2023/04/05/Os-erros-do-ChatGPT.-E-as-quest%C3%B5es-quanto-%C3%A0-intelig%C3%AAncia-artificial)
-- [Como cães evoluíram para nos encorajar a lhes dar comida](https://www.nexojornal.com.br/colunistas/2023/Como-c%C3%A3es-evolu%C3%ADram-para-nos-encorajar-a-lhes-dar-comida)
-- [Bolsonaro depõe por três horas sobre joias da Arábia Saudita](https://www.nexojornal.com.br/extra/2023/04/05/Bolsonaro-dep%C3%B5e-por-tr%C3%AAs-horas-sobre-joias-da-Ar%C3%A1bia-Saudita)
+- [O feminismo edulcorado de Hollywood](https://www.nexojornal.com.br/colunistas/2023/O-feminismo-edulcorado-de-Hollywood)
+- [Os diferentes objetivos que movem as visitas europeias à China](https://www.nexojornal.com.br/expresso/2023/04/06/Os-diferentes-objetivos-que-movem-as-visitas-europeias-%C3%A0-China)
+- [O jogo que testa conhecimentos a partir de fotografias](https://www.nexojornal.com.br/expresso/2023/04/06/O-jogo-que-testa-conhecimentos-a-partir-de-fotografias)
+- [A relação das crianças com a tradição dos brinquedos miriti](https://www.nexojornal.com.br/externo/2023/04/06/A-rela%C3%A7%C3%A3o-das-crian%C3%A7as-com-a-tradi%C3%A7%C3%A3o-dos-brinquedos-miriti)
+- [Por que Haddad fala em reduzir o patrimonialismo fiscal](https://www.nexojornal.com.br/expresso/2023/04/06/Por-que-Haddad-fala-em-reduzir-o-patrimonialismo-fiscal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
