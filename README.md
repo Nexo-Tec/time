@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula retira Correios e mais 6 de programa de desestatização](https://www.nexojornal.com.br/extra/2023/04/07/Lula-retira-Correios-e-mais-6-de-programa-de-desestatiza%C3%A7%C3%A3o)
 - [Ucrânia responde Lula e diz que não aceita ceder na Crimeia](https://www.nexojornal.com.br/extra/2023/04/07/Ucr%C3%A2nia-responde-Lula-e-diz-que-n%C3%A3o-aceita-ceder-na-Crimeia)
 - [O feminismo edulcorado de Hollywood](https://www.nexojornal.com.br/colunistas/2023/O-feminismo-edulcorado-de-Hollywood)
 - [Os diferentes objetivos que movem as visitas europeias à China](https://www.nexojornal.com.br/expresso/2023/04/06/Os-diferentes-objetivos-que-movem-as-visitas-europeias-%C3%A0-China)
 - [O jogo que testa conhecimentos a partir de fotografias](https://www.nexojornal.com.br/expresso/2023/04/06/O-jogo-que-testa-conhecimentos-a-partir-de-fotografias)
-- [A relação das crianças com a tradição dos brinquedos miriti](https://www.nexojornal.com.br/externo/2023/04/06/A-rela%C3%A7%C3%A3o-das-crian%C3%A7as-com-a-tradi%C3%A7%C3%A3o-dos-brinquedos-miriti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
