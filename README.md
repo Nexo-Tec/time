@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ucrânia responde Lula e diz que não aceita ceder na Crimeia](https://www.nexojornal.com.br/extra/2023/04/07/Ucr%C3%A2nia-responde-Lula-e-diz-que-n%C3%A3o-aceita-ceder-na-Crimeia)
-- [O feminismo edulcorado de Hollywood](https://www.nexojornal.com.br/colunistas/2023/O-feminismo-edulcorado-de-Hollywood)
-- [Os diferentes objetivos que movem as visitas europeias à China](https://www.nexojornal.com.br/expresso/2023/04/06/Os-diferentes-objetivos-que-movem-as-visitas-europeias-%C3%A0-China)
-- [O jogo que testa conhecimentos a partir de fotografias](https://www.nexojornal.com.br/expresso/2023/04/06/O-jogo-que-testa-conhecimentos-a-partir-de-fotografias)
-- [A relação das crianças com a tradição dos brinquedos miriti](https://www.nexojornal.com.br/externo/2023/04/06/A-rela%C3%A7%C3%A3o-das-crian%C3%A7as-com-a-tradi%C3%A7%C3%A3o-dos-brinquedos-miriti)
+- [A evolução dos ovos de páscoa, da galinha ao chocolate](https://www.nexojornal.com.br/externo/2023/04/07/A-evolu%C3%A7%C3%A3o-dos-ovos-de-p%C3%A1scoa-da-galinha-ao-chocolate)
+- [‘Peitos e ovos’: uma história sobre corpos femininos](https://www.nexojornal.com.br/estante/trechos/2023/04/07/%E2%80%98Peitos-e-ovos%E2%80%99-uma-hist%C3%B3ria-sobre-corpos-femininos)
+- [Como a presunção de boa-fé favoreceu o garimpo ilegal](https://www.nexojornal.com.br/expresso/2023/04/07/Como-a-presun%C3%A7%C3%A3o-de-boa-f%C3%A9-favoreceu-o-garimpo-ilegal)
+- [50 anos sem Picasso: os períodos e as cores de suas obras](https://www.nexojornal.com.br/grafico/2023/04/07/50-anos-sem-Picasso-os-per%C3%ADodos-e-as-cores-de-suas-obras)
+- [‘Não lidar com traumas da ditadura só recalca a violência’](https://www.nexojornal.com.br/entrevista/2023/04/07/%E2%80%98N%C3%A3o-lidar-com-traumas-da-ditadura-s%C3%B3-recalca-a-viol%C3%AAncia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
