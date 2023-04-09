@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Aos 63 anos, morre Paulo de Tarso Sanseverino, ministro do STJ](https://www.nexojornal.com.br/extra/2023/04/08/Aos-63-anos-morre-Paulo-de-Tarso-Sanseverino-ministro-do-STJ)
-- [EUA investigam vazamento de dados sigilosos sobre Ucrânia](https://www.nexojornal.com.br/extra/2023/04/08/EUA-investigam-vazamento-de-dados-sigilosos-sobre-Ucr%C3%A2nia)
-- [A evolução dos ovos de páscoa, da galinha ao chocolate](https://www.nexojornal.com.br/externo/2023/04/07/A-evolu%C3%A7%C3%A3o-dos-ovos-de-p%C3%A1scoa-da-galinha-ao-chocolate)
-- [‘Peitos e ovos’: uma história sobre corpos femininos](https://www.nexojornal.com.br/estante/trechos/2023/04/07/%E2%80%98Peitos-e-ovos%E2%80%99-uma-hist%C3%B3ria-sobre-corpos-femininos)
-- [Como a presunção de boa-fé favoreceu o garimpo ilegal](https://www.nexojornal.com.br/expresso/2023/04/07/Como-a-presun%C3%A7%C3%A3o-de-boa-f%C3%A9-favoreceu-o-garimpo-ilegal)
+- [Maranhão tem mais de 60 cidades em estado de emergência](https://www.nexojornal.com.br/extra/2023/04/09/Maranh%C3%A3o-tem-mais-de-60-cidades-em-estado-de-emerg%C3%AAncia)
+- [Qual o balanço da trajetória de Lewandowski no Supremo](https://www.nexojornal.com.br/expresso/2023/04/08/Qual-o-balan%C3%A7o-da-trajet%C3%B3ria-de-Lewandowski-no-Supremo)
+- [5 livros para se apaixonar pela história do teatro brasileiro](https://www.nexojornal.com.br/estante/2023/04/08/5-livros-para-se-apaixonar-pela-hist%C3%B3ria-do-teatro-brasileiro)
+- [Evento vai avaliar os 100 dias do governo Lula](https://www.nexojornal.com.br/expresso/2023/04/08/Evento-vai-avaliar-os-100-dias-do-governo-Lula)
+- [Os termos para lidar com desastres iminentes](https://www.nexojornal.com.br/ensaio/2023/04/08/Os-termos-para-lidar-com-desastres-iminentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
