@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Aos 63 anos, morre Paulo de Tarso Sanseverino, ministro do STJ](https://www.nexojornal.com.br/extra/2023/04/08/Aos-63-anos-morre-Paulo-de-Tarso-Sanseverino-ministro-do-STJ)
+- [EUA investigam vazamento de dados sigilosos sobre Ucrânia](https://www.nexojornal.com.br/extra/2023/04/08/EUA-investigam-vazamento-de-dados-sigilosos-sobre-Ucr%C3%A2nia)
 - [A evolução dos ovos de páscoa, da galinha ao chocolate](https://www.nexojornal.com.br/externo/2023/04/07/A-evolu%C3%A7%C3%A3o-dos-ovos-de-p%C3%A1scoa-da-galinha-ao-chocolate)
 - [‘Peitos e ovos’: uma história sobre corpos femininos](https://www.nexojornal.com.br/estante/trechos/2023/04/07/%E2%80%98Peitos-e-ovos%E2%80%99-uma-hist%C3%B3ria-sobre-corpos-femininos)
 - [Como a presunção de boa-fé favoreceu o garimpo ilegal](https://www.nexojornal.com.br/expresso/2023/04/07/Como-a-presun%C3%A7%C3%A3o-de-boa-f%C3%A9-favoreceu-o-garimpo-ilegal)
-- [50 anos sem Picasso: os períodos e as cores de suas obras](https://www.nexojornal.com.br/grafico/2023/04/07/50-anos-sem-Picasso-os-per%C3%ADodos-e-as-cores-de-suas-obras)
-- [‘Não lidar com traumas da ditadura só recalca a violência’](https://www.nexojornal.com.br/entrevista/2023/04/07/%E2%80%98N%C3%A3o-lidar-com-traumas-da-ditadura-s%C3%B3-recalca-a-viol%C3%AAncia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
