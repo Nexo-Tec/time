@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maranhão tem mais de 60 cidades em estado de emergência](https://www.nexojornal.com.br/extra/2023/04/09/Maranh%C3%A3o-tem-mais-de-60-cidades-em-estado-de-emerg%C3%AAncia)
 - [Qual o balanço da trajetória de Lewandowski no Supremo](https://www.nexojornal.com.br/expresso/2023/04/08/Qual-o-balan%C3%A7o-da-trajet%C3%B3ria-de-Lewandowski-no-Supremo)
 - [5 livros para se apaixonar pela história do teatro brasileiro](https://www.nexojornal.com.br/estante/2023/04/08/5-livros-para-se-apaixonar-pela-hist%C3%B3ria-do-teatro-brasileiro)
 - [Evento vai avaliar os 100 dias do governo Lula](https://www.nexojornal.com.br/expresso/2023/04/08/Evento-vai-avaliar-os-100-dias-do-governo-Lula)
 - [Os termos para lidar com desastres iminentes](https://www.nexojornal.com.br/ensaio/2023/04/08/Os-termos-para-lidar-com-desastres-iminentes)
+- [‘Conhecer Rosa Egipcíaca é resgatar a história afrobrasileira’](https://www.nexojornal.com.br/entrevista/2023/04/08/%E2%80%98Conhecer-Rosa-Egipc%C3%ADaca-%C3%A9-resgatar-a-hist%C3%B3ria-afrobrasileira%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
