@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@coxusa](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/coxusa/)
 - [José Henrique Bortoluci](https://gamarevista.uol.com.br/pessoas/questionario-proust/jose-henrique-bortoluci/)
 - [Sim, a culpa é minha](https://gamarevista.uol.com.br/colunistas/fernando-luna/sim-a-culpa-e-minha/)
 - [@_almeida_paulo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/_almeida_paulo/)
 - [Império da Dor](https://gamarevista.uol.com.br/cultura/trecho-de-livro/imperio-da-dor/)
-- [Que março seja mês das mulheres não é em vão aqui](https://gamarevista.uol.com.br/colunistas/marilene-felinto/que-marco-seja-mes-das-mulheres-nao-e-em-vao-aqui/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
