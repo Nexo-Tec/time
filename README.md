@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mudanças e desafios que pessoas com deficiência trazem para instituições de ensino](https://www.nexojornal.com.br/externo/2023/04/09/Mudan%C3%A7as-e-desafios-que-pessoas-com-defici%C3%AAncia-trazem-para-institui%C3%A7%C3%B5es-de-ensino)
+- [A decolonização da filantropia no combate à desigualdade](https://www.nexojornal.com.br/ensaio/2023/04/09/A-decoloniza%C3%A7%C3%A3o-da-filantropia-no-combate-%C3%A0-desigualdade)
+- [10 eixos para entender os 100 dias do novo governo Lula](https://www.nexojornal.com.br/expresso/2023/04/09/10-eixos-para-entender-os-100-dias-do-novo-governo-Lula)
+- [Em retaliação, China faz exercícios militares em Taiwan](https://www.nexojornal.com.br/extra/2023/04/09/Em-retalia%C3%A7%C3%A3o-China-faz-exerc%C3%ADcios-militares-em-Taiwan)
 - [Maranhão tem mais de 60 cidades em estado de emergência](https://www.nexojornal.com.br/extra/2023/04/09/Maranh%C3%A3o-tem-mais-de-60-cidades-em-estado-de-emerg%C3%AAncia)
-- [Qual o balanço da trajetória de Lewandowski no Supremo](https://www.nexojornal.com.br/expresso/2023/04/08/Qual-o-balan%C3%A7o-da-trajet%C3%B3ria-de-Lewandowski-no-Supremo)
-- [5 livros para se apaixonar pela história do teatro brasileiro](https://www.nexojornal.com.br/estante/2023/04/08/5-livros-para-se-apaixonar-pela-hist%C3%B3ria-do-teatro-brasileiro)
-- [Evento vai avaliar os 100 dias do governo Lula](https://www.nexojornal.com.br/expresso/2023/04/08/Evento-vai-avaliar-os-100-dias-do-governo-Lula)
-- [Os termos para lidar com desastres iminentes](https://www.nexojornal.com.br/ensaio/2023/04/08/Os-termos-para-lidar-com-desastres-iminentes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
