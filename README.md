@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em evento de 100 dias de governo, Lula critica pessimistas](https://www.nexojornal.com.br/extra/2023/04/10/Em-evento-de-100-dias-de-governo-Lula-critica-pessimistas)
-- [Dalai-lama é gravado beijando criança em evento público](https://www.nexojornal.com.br/extra/2023/04/10/Dalai-lama-%C3%A9-gravado-beijando-crian%C3%A7a-em-evento-p%C3%BAblico)
-- [Mudanças e desafios que pessoas com deficiência trazem para instituições de ensino](https://www.nexojornal.com.br/externo/2023/04/09/Mudan%C3%A7as-e-desafios-que-pessoas-com-defici%C3%AAncia-trazem-para-institui%C3%A7%C3%B5es-de-ensino)
-- [A decolonização da filantropia no combate à desigualdade](https://www.nexojornal.com.br/ensaio/2023/04/09/A-decoloniza%C3%A7%C3%A3o-da-filantropia-no-combate-%C3%A0-desigualdade)
-- [10 eixos para entender os 100 dias do novo governo Lula](https://www.nexojornal.com.br/expresso/2023/04/09/10-eixos-para-entender-os-100-dias-do-novo-governo-Lula)
+- [Relação Brasil-China: o que mudou desde o 1º mandato de Lula](https://www.nexojornal.com.br/expresso/2023/04/10/Rela%C3%A7%C3%A3o-Brasil-China-o-que-mudou-desde-o-1%C2%BA-mandato-de-Lula)
+- [Após protestos, Netanyahu recua e readmite ministro da Defesa](https://www.nexojornal.com.br/extra/2023/04/10/Ap%C3%B3s-protestos-Netanyahu-recua-e-readmite-ministro-da-Defesa)
+- [Quem é dalai-lama. E qual seu papel religioso e político](https://www.nexojornal.com.br/expresso/2023/04/10/Quem-%C3%A9-dalai-lama.-E-qual-seu-papel-religioso-e-pol%C3%ADtico)
+- [Por que o desmate está aumentando no governo Lula](https://www.nexojornal.com.br/podcast/2023/04/10/Por-que-o-desmate-est%C3%A1-aumentando-no-governo-Lula)
+- [Especialistas de áreas diversas analisam o início do governo Lula](https://www.nexojornal.com.br/video/Especialistas-de-%C3%A1reas-diversas-analisam-o-in%C3%ADcio-do-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
