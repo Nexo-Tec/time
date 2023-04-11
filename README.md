@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Paixão Simples](https://gamarevista.uol.com.br/sem-categoria/paixao-simples/)
+- [Paixão Simples](https://gamarevista.uol.com.br/cultura/trecho-de-livro/paixao-simples/)
 - [@coxusa](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/coxusa/)
 - [José Henrique Bortoluci](https://gamarevista.uol.com.br/pessoas/questionario-proust/jose-henrique-bortoluci/)
 - [Sim, a culpa é minha](https://gamarevista.uol.com.br/colunistas/fernando-luna/sim-a-culpa-e-minha/)
