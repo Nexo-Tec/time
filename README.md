@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Relação Brasil-China: o que mudou desde o 1º mandato de Lula](https://www.nexojornal.com.br/expresso/2023/04/10/Rela%C3%A7%C3%A3o-Brasil-China-o-que-mudou-desde-o-1%C2%BA-mandato-de-Lula)
-- [Após protestos, Netanyahu recua e readmite ministro da Defesa](https://www.nexojornal.com.br/extra/2023/04/10/Ap%C3%B3s-protestos-Netanyahu-recua-e-readmite-ministro-da-Defesa)
-- [Quem é dalai-lama. E qual seu papel religioso e político](https://www.nexojornal.com.br/expresso/2023/04/10/Quem-%C3%A9-dalai-lama.-E-qual-seu-papel-religioso-e-pol%C3%ADtico)
-- [Por que o desmate está aumentando no governo Lula](https://www.nexojornal.com.br/podcast/2023/04/10/Por-que-o-desmate-est%C3%A1-aumentando-no-governo-Lula)
-- [Especialistas de áreas diversas analisam o início do governo Lula](https://www.nexojornal.com.br/video/Especialistas-de-%C3%A1reas-diversas-analisam-o-in%C3%ADcio-do-governo-Lula)
+- [Brasileiras são soltas na Alemanha após mais de um mês de prisão](https://www.nexojornal.com.br/extra/2023/04/11/Brasileiras-s%C3%A3o-soltas-na-Alemanha-ap%C3%B3s-mais-de-um-m%C3%AAs-de-pris%C3%A3o)
+- [Usuários investem contra Twitter após atitude de advogada](https://www.nexojornal.com.br/extra/2023/04/11/Usu%C3%A1rios-investem-contra-Twitter-ap%C3%B3s-atitude-de-advogada)
+- [Adolescente esfaqueia colegas em escola de Goiás](https://www.nexojornal.com.br/extra/2023/04/11/Adolescente-esfaqueia-colegas-em-escola-de-Goi%C3%A1s)
+- [Mulheres representam 1,8% dos ministros na história do Supremo](https://www.nexojornal.com.br/grafico/2023/04/11/Mulheres-representam-18-dos-ministros-na-hist%C3%B3ria-do-Supremo)
+- [Contrato, doação, joias e carrão: o que une Bolsonaro e Piquet](https://www.nexojornal.com.br/expresso/2023/04/11/Contrato-doa%C3%A7%C3%A3o-joias-e-carr%C3%A3o-o-que-une-Bolsonaro-e-Piquet)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
