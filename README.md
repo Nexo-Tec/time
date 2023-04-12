@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a inflação voltou ao intervalo da meta depois de 2 anos](https://www.nexojornal.com.br/expresso/2023/04/11/Por-que-a-infla%C3%A7%C3%A3o-voltou-ao-intervalo-da-meta-depois-de-2-anos)
-- [O concurso que elegeu um logo sonoro para o Wikimedia](https://www.nexojornal.com.br/expresso/2023/04/11/O-concurso-que-elegeu-um-logo-sonoro-para-o-Wikimedia)
-- [Agressão a entregadores: dos bate-bocas à chicotada](https://www.nexojornal.com.br/podcast/2023/04/11/Agress%C3%A3o-a-entregadores-dos-bate-bocas-%C3%A0-chicotada)
-- [Nexo recebe aporte do International Fund for Public Interest Media](https://www.nexojornal.com.br/expresso/2023/04/11/Nexo-recebe-aporte-do-International-Fund-for-Public-Interest-Media)
-- [Dólar cai a R$ 5 e bolsa tem alta após inflação abaixo do esperado](https://www.nexojornal.com.br/extra/2023/04/11/D%C3%B3lar-cai-a-R-5-e-bolsa-tem-alta-ap%C3%B3s-infla%C3%A7%C3%A3o-abaixo-do-esperado)
+- [Relação Brasil-China: o que mudou desde o 1º mandato de Lula](https://www.nexojornal.com.br/expresso/2023/04/10/Rela%C3%A7%C3%A3o-Brasil-China-o-que-mudou-desde-o-1%C2%BA-mandato-de-Lula)
+- [Após protestos, Netanyahu recua e readmite ministro da Defesa](https://www.nexojornal.com.br/extra/2023/04/10/Ap%C3%B3s-protestos-Netanyahu-recua-e-readmite-ministro-da-Defesa)
+- [Quem é dalai-lama. E qual seu papel religioso e político](https://www.nexojornal.com.br/expresso/2023/04/10/Quem-%C3%A9-dalai-lama.-E-qual-seu-papel-religioso-e-pol%C3%ADtico)
+- [Por que o desmate está aumentando no governo Lula](https://www.nexojornal.com.br/podcast/2023/04/10/Por-que-o-desmate-est%C3%A1-aumentando-no-governo-Lula)
+- [Especialistas de áreas diversas analisam o início do governo Lula](https://www.nexojornal.com.br/video/Especialistas-de-%C3%A1reas-diversas-analisam-o-in%C3%ADcio-do-governo-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
