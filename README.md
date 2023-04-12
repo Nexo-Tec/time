@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Crise econômica argentina: uma brecha para a extrema direita?](https://www.nexojornal.com.br/expresso/2023/04/11/Crise-econ%C3%B4mica-argentina-uma-brecha-para-a-extrema-direita)
 - [Por que a inflação voltou ao intervalo da meta depois de 2 anos](https://www.nexojornal.com.br/expresso/2023/04/11/Por-que-a-infla%C3%A7%C3%A3o-voltou-ao-intervalo-da-meta-depois-de-2-anos)
 - [O concurso que elegeu um logo sonoro para o Wikimedia](https://www.nexojornal.com.br/expresso/2023/04/11/O-concurso-que-elegeu-um-logo-sonoro-para-o-Wikimedia)
 - [Agressão a entregadores: dos bate-bocas à chicotada](https://www.nexojornal.com.br/podcast/2023/04/11/Agress%C3%A3o-a-entregadores-dos-bate-bocas-%C3%A0-chicotada)
 - [Nexo recebe aporte do International Fund for Public Interest Media](https://www.nexojornal.com.br/expresso/2023/04/11/Nexo-recebe-aporte-do-International-Fund-for-Public-Interest-Media)
+- [Dólar cai a R$ 5 e bolsa tem alta após inflação abaixo do esperado](https://www.nexojornal.com.br/extra/2023/04/11/D%C3%B3lar-cai-a-R-5-e-bolsa-tem-alta-ap%C3%B3s-infla%C3%A7%C3%A3o-abaixo-do-esperado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
