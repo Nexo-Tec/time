@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Barbie](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/barbie/)
-- [Paixão Simples](https://gamarevista.uol.com.br/cultura/trecho-de-livro/paixao-simples/)
-- [@coxusa](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/coxusa/)
-- [José Henrique Bortoluci](https://gamarevista.uol.com.br/pessoas/questionario-proust/jose-henrique-bortoluci/)
-- [Sim, a culpa é minha](https://gamarevista.uol.com.br/colunistas/fernando-luna/sim-a-culpa-e-minha/)
+- [Minissérie protagonizada por Jesse Eisenberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/minisserie-protagonizada-por-jesse-eisenberg/)
+- [Poemas que são filmes e viraram quadros](https://gamarevista.uol.com.br/achamos-que-vale/ler/poemas-que-sao-filmes-e-viraram-quadros/)
+- [A sexta edição do Festival Serrote, no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-sexta-edicao-do-festival-serrote-no-ims/)
+- [Uma nova dose de Paul Mescal no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-dose-de-paul-mescal-no-cinema/)
+- [As dinâmicas familiares em livro de Jonathan Franzen](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-dinamicas-familiares-em-livro-de-jonathan-franzen/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
