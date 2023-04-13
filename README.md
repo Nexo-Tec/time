@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os times que disputam o Campeonato Brasileiro em 2023](https://www.nexojornal.com.br/grafico/2023/04/12/Os-times-que-disputam-o-Campeonato-Brasileiro-em-2023)
-- [Qual o perfil dos negócios entre Brasil e China](https://www.nexojornal.com.br/expresso/2023/04/12/Qual-o-perfil-dos-neg%C3%B3cios-entre-Brasil-e-China)
-- [Como orientar e acolher crianças diante do medo de ataques às escolas](https://www.nexojornal.com.br/expresso/2023/04/12/Como-orientar-e-acolher-crian%C3%A7as-diante-do-medo-de-ataques-%C3%A0s-escolas)
-- [Adolescente fere 2 meninas em colégio municipal no Ceará](https://www.nexojornal.com.br/extra/2023/04/12/Adolescente-fere-2-meninas-em-col%C3%A9gio-municipal-no-Cear%C3%A1)
-- [A história do Fies: como o programa virou caso de polícia](https://www.nexojornal.com.br/podcast/2023/04/12/A-hist%C3%B3ria-do-Fies-como-o-programa-virou-caso-de-pol%C3%ADcia)
+- [Crise econômica argentina: uma brecha para a extrema direita?](https://www.nexojornal.com.br/expresso/2023/04/11/Crise-econ%C3%B4mica-argentina-uma-brecha-para-a-extrema-direita)
+- [Por que a inflação voltou ao intervalo da meta depois de 2 anos](https://www.nexojornal.com.br/expresso/2023/04/11/Por-que-a-infla%C3%A7%C3%A3o-voltou-ao-intervalo-da-meta-depois-de-2-anos)
+- [O concurso que elegeu um logo sonoro para o Wikimedia](https://www.nexojornal.com.br/expresso/2023/04/11/O-concurso-que-elegeu-um-logo-sonoro-para-o-Wikimedia)
+- [Agressão a entregadores: dos bate-bocas à chicotada](https://www.nexojornal.com.br/podcast/2023/04/11/Agress%C3%A3o-a-entregadores-dos-bate-bocas-%C3%A0-chicotada)
+- [Nexo recebe aporte do International Fund for Public Interest Media](https://www.nexojornal.com.br/expresso/2023/04/11/Nexo-recebe-aporte-do-International-Fund-for-Public-Interest-Media)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
