@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A política tem que mudar para receber a gente’](https://www.nexojornal.com.br/expresso/2023/04/13/%E2%80%98A-pol%C3%ADtica-tem-que-mudar-para-receber-a-gente%E2%80%99)
-- [Capital paulista terá protocolo contra assédio em baladas](https://www.nexojornal.com.br/extra/2023/04/13/Capital-paulista-ter%C3%A1-protocolo-contra-ass%C3%A9dio-em-baladas)
-- [Procuradoria eleitoral defende que Bolsonaro fique inelegível](https://www.nexojornal.com.br/extra/2023/04/13/Procuradoria-eleitoral-defende-que-Bolsonaro-fique-ineleg%C3%ADvel)
-- [Lula questiona hegemonia do dólar no comércio global](https://www.nexojornal.com.br/extra/2023/04/13/Lula-questiona-hegemonia-do-d%C3%B3lar-no-com%C3%A9rcio-global)
-- [Por que espiões russos usam identidade brasileira](https://www.nexojornal.com.br/expresso/2023/04/13/Por-que-espi%C3%B5es-russos-usam-identidade-brasileira)
+- [A responsabilidade das redes diante de ataques em escolas](https://www.nexojornal.com.br/expresso/2023/04/13/A-responsabilidade-das-redes-diante-de-ataques-em-escolas)
+- [O centro antiaborto apoiado por deputados de extrema direita](https://www.nexojornal.com.br/externo/2023/04/13/O-centro-antiaborto-apoiado-por-deputados-de-extrema-direita)
+- [Como o Brasil entra nos planos da China contra o dólar americano](https://www.nexojornal.com.br/expresso/2023/04/13/Como-o-Brasil-entra-nos-planos-da-China-contra-o-d%C3%B3lar-americano)
+- [O que fazer para combater o discurso de ódio online?](https://www.nexojornal.com.br/colunistas/2023/O-que-fazer-para-combater-o-discurso-de-%C3%B3dio-online)
+- [Governo bate cabeça em anúncio sobre e-commerce e é criticado](https://www.nexojornal.com.br/extra/2023/04/13/Governo-bate-cabe%C3%A7a-em-an%C3%BAncio-sobre-e-commerce-e-%C3%A9-criticado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
