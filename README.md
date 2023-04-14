@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os times que disputam o Campeonato Brasileiro em 2023](https://www.nexojornal.com.br/grafico/2023/04/12/Os-times-que-disputam-o-Campeonato-Brasileiro-em-2023)
-- [Qual o perfil dos negócios entre Brasil e China](https://www.nexojornal.com.br/expresso/2023/04/12/Qual-o-perfil-dos-neg%C3%B3cios-entre-Brasil-e-China)
-- [Como orientar e acolher crianças diante do medo de ataques às escolas](https://www.nexojornal.com.br/expresso/2023/04/12/Como-orientar-e-acolher-crian%C3%A7as-diante-do-medo-de-ataques-%C3%A0s-escolas)
-- [Adolescente fere 2 meninas em colégio municipal no Ceará](https://www.nexojornal.com.br/extra/2023/04/12/Adolescente-fere-2-meninas-em-col%C3%A9gio-municipal-no-Cear%C3%A1)
-- [A história do Fies: como o programa virou caso de polícia](https://www.nexojornal.com.br/podcast/2023/04/12/A-hist%C3%B3ria-do-Fies-como-o-programa-virou-caso-de-pol%C3%ADcia)
+- [A responsabilidade das redes diante de ataques em escolas](https://www.nexojornal.com.br/expresso/2023/04/13/A-responsabilidade-das-redes-diante-de-ataques-em-escolas)
+- [O centro antiaborto apoiado por deputados de extrema direita](https://www.nexojornal.com.br/externo/2023/04/13/O-centro-antiaborto-apoiado-por-deputados-de-extrema-direita)
+- [Como o Brasil entra nos planos da China contra o dólar americano](https://www.nexojornal.com.br/expresso/2023/04/13/Como-o-Brasil-entra-nos-planos-da-China-contra-o-d%C3%B3lar-americano)
+- [O que fazer para combater o discurso de ódio online?](https://www.nexojornal.com.br/colunistas/2023/O-que-fazer-para-combater-o-discurso-de-%C3%B3dio-online)
+- [Governo bate cabeça em anúncio sobre e-commerce e é criticado](https://www.nexojornal.com.br/extra/2023/04/13/Governo-bate-cabe%C3%A7a-em-an%C3%BAncio-sobre-e-commerce-e-%C3%A9-criticado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
