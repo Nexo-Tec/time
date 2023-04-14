@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Magali Cunha: grupos religiosos e a propagação de desinformação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/04/13/Magali-Cunha-grupos-religiosos-e-a-propaga%C3%A7%C3%A3o-de-desinforma%C3%A7%C3%A3o)
+- [Uma nova geração de políticas alimentares](https://pp.nexojornal.com.br/opiniao/2023/Uma-nova-gera%C3%A7%C3%A3o-de-pol%C3%ADticas-alimentares)
+- [Entre o racismo e a injúria racial: uma análise do caso da cantora Ludmilla](https://pp.nexojornal.com.br/opiniao/2023/Entre-o-racismo-e-a-inj%C3%BAria-racial-uma-an%C3%A1lise-do-caso-da-cantora-Ludmilla)
 - [Uma nova era para os estudos afro-latino-americanos](https://pp.nexojornal.com.br/topico/2023/04/11/Uma-nova-era-para-os-estudos-afro-latino-americanos)
 - [Beto Veríssimo: novo governo e a conservação da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/04/10/Beto-Ver%C3%ADssimo-novo-governo-e-a-conserva%C3%A7%C3%A3o-da-Amaz%C3%B4nia)
-- [Ayahuasca, espíritos e extraterrestres: bolsonarismo e a evolução espiritual](https://pp.nexojornal.com.br/ponto-de-vista/2023/Ayahuasca-esp%C3%ADritos-e-extraterrestres-bolsonarismo-e-a-evolu%C3%A7%C3%A3o-espiritual)
-- [De Sísifo a Sankofa: o protagonismo afroindígena na retomada de uma Política Nacional de Museus](https://pp.nexojornal.com.br/ponto-de-vista/2023/De-S%C3%ADsifo-a-Sankofa-o-protagonismo-afroind%C3%ADgena-na-retomada-de-uma-Pol%C3%ADtica-Nacional-de-Museus)
-- [Juventude e trabalho](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/04/Juventude-e-trabalho)
 <!-- PP_LIST:END -->
 
