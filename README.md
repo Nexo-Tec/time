@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A política tem que mudar para receber a gente’](https://www.nexojornal.com.br/expresso/2023/04/13/%E2%80%98A-pol%C3%ADtica-tem-que-mudar-para-receber-a-gente%E2%80%99)
-- [Capital paulista terá protocolo contra assédio em baladas](https://www.nexojornal.com.br/extra/2023/04/13/Capital-paulista-ter%C3%A1-protocolo-contra-ass%C3%A9dio-em-baladas)
-- [Procuradoria eleitoral defende que Bolsonaro fique inelegível](https://www.nexojornal.com.br/extra/2023/04/13/Procuradoria-eleitoral-defende-que-Bolsonaro-fique-ineleg%C3%ADvel)
-- [Lula questiona hegemonia do dólar no comércio global](https://www.nexojornal.com.br/extra/2023/04/13/Lula-questiona-hegemonia-do-d%C3%B3lar-no-com%C3%A9rcio-global)
-- [Por que espiões russos usam identidade brasileira](https://www.nexojornal.com.br/expresso/2023/04/13/Por-que-espi%C3%B5es-russos-usam-identidade-brasileira)
+- [Os times que disputam o Campeonato Brasileiro em 2023](https://www.nexojornal.com.br/grafico/2023/04/12/Os-times-que-disputam-o-Campeonato-Brasileiro-em-2023)
+- [Qual o perfil dos negócios entre Brasil e China](https://www.nexojornal.com.br/expresso/2023/04/12/Qual-o-perfil-dos-neg%C3%B3cios-entre-Brasil-e-China)
+- [Como orientar e acolher crianças diante do medo de ataques às escolas](https://www.nexojornal.com.br/expresso/2023/04/12/Como-orientar-e-acolher-crian%C3%A7as-diante-do-medo-de-ataques-%C3%A0s-escolas)
+- [Adolescente fere 2 meninas em colégio municipal no Ceará](https://www.nexojornal.com.br/extra/2023/04/12/Adolescente-fere-2-meninas-em-col%C3%A9gio-municipal-no-Cear%C3%A1)
+- [A história do Fies: como o programa virou caso de polícia](https://www.nexojornal.com.br/podcast/2023/04/12/A-hist%C3%B3ria-do-Fies-como-o-programa-virou-caso-de-pol%C3%ADcia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
