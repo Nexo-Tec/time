@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Na ONU, água tem destaque em conferência ignorada no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Na-ONU-%C3%A1gua-tem-destaque-em-confer%C3%AAncia-ignorada-no-Brasil)
+- [Como um programa de visitas domiciliares impacta o desenvolvimento na primeira infância](https://pp.nexojornal.com.br/academico/2023/Como-um-programa-de-visitas-domiciliares-impacta-o-desenvolvimento-na-primeira-inf%C3%A2ncia)
+- [Saúde digital no Brasil](https://pp.nexojornal.com.br/glossario/Sa%C3%BAde-digital-no-Brasil)
+- [Agricultura, biodiversidade e serviços ecossistêmicos](https://pp.nexojornal.com.br/glossario/Agricultura-biodiversidade-e-servi%C3%A7os-ecossist%C3%AAmicos)
 - [Magali Cunha: grupos religiosos e a propagação de desinformação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/04/13/Magali-Cunha-grupos-religiosos-e-a-propaga%C3%A7%C3%A3o-de-desinforma%C3%A7%C3%A3o)
-- [Uma nova geração de políticas alimentares](https://pp.nexojornal.com.br/opiniao/2023/Uma-nova-gera%C3%A7%C3%A3o-de-pol%C3%ADticas-alimentares)
-- [Entre o racismo e a injúria racial: uma análise do caso da cantora Ludmilla](https://pp.nexojornal.com.br/opiniao/2023/Entre-o-racismo-e-a-inj%C3%BAria-racial-uma-an%C3%A1lise-do-caso-da-cantora-Ludmilla)
-- [Uma nova era para os estudos afro-latino-americanos](https://pp.nexojornal.com.br/topico/2023/04/11/Uma-nova-era-para-os-estudos-afro-latino-americanos)
-- [Beto Veríssimo: novo governo e a conservação da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/04/10/Beto-Ver%C3%ADssimo-novo-governo-e-a-conserva%C3%A7%C3%A3o-da-Amaz%C3%B4nia)
 <!-- PP_LIST:END -->
 
