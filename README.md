@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A responsabilidade das redes diante de ataques em escolas](https://www.nexojornal.com.br/expresso/2023/04/13/A-responsabilidade-das-redes-diante-de-ataques-em-escolas)
-- [O centro antiaborto apoiado por deputados de extrema direita](https://www.nexojornal.com.br/externo/2023/04/13/O-centro-antiaborto-apoiado-por-deputados-de-extrema-direita)
-- [Como o Brasil entra nos planos da China contra o dólar americano](https://www.nexojornal.com.br/expresso/2023/04/13/Como-o-Brasil-entra-nos-planos-da-China-contra-o-d%C3%B3lar-americano)
-- [O que fazer para combater o discurso de ódio online?](https://www.nexojornal.com.br/colunistas/2023/O-que-fazer-para-combater-o-discurso-de-%C3%B3dio-online)
-- [Governo bate cabeça em anúncio sobre e-commerce e é criticado](https://www.nexojornal.com.br/extra/2023/04/13/Governo-bate-cabe%C3%A7a-em-an%C3%BAncio-sobre-e-commerce-e-%C3%A9-criticado)
+- [O parque de diversões com atrações feitas por Basquiat e Dalí](https://www.nexojornal.com.br/expresso/2023/04/14/O-parque-de-divers%C3%B5es-com-atra%C3%A7%C3%B5es-feitas-por-Basquiat-e-Dal%C3%AD)
+- [‘Negro sou’: reflexões sobre o racismo à brasileira](https://www.nexojornal.com.br/estante/trechos/2023/04/14/%E2%80%98Negro-sou%E2%80%99-reflex%C3%B5es-sobre-o-racismo-%C3%A0-brasileira)
+- [O que é o VSR, vírus que fez internação de bebês disparar](https://www.nexojornal.com.br/expresso/2023/04/14/O-que-%C3%A9-o-VSR-v%C3%ADrus-que-fez-interna%C3%A7%C3%A3o-de-beb%C3%AAs-disparar)
+- [A plataforma que busca ser um LinkedIn para influenciadores](https://www.nexojornal.com.br/expresso/2023/04/14/A-plataforma-que-busca-ser-um-LinkedIn-para-influenciadores)
+- [Deputada brasileira denuncia assédio sexual de Boaventura](https://www.nexojornal.com.br/externo/2023/04/14/Deputada-brasileira-denuncia-ass%C3%A9dio-sexual-de-Boaventura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
