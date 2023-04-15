@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Corte Suprema valida reforma da Previdência na França](https://www.nexojornal.com.br/extra/2023/04/14/Corte-Suprema-valida-reforma-da-Previd%C3%AAncia-na-Fran%C3%A7a)
 - [O parque de diversões com atrações feitas por Basquiat e Dalí](https://www.nexojornal.com.br/expresso/2023/04/14/O-parque-de-divers%C3%B5es-com-atra%C3%A7%C3%B5es-feitas-por-Basquiat-e-Dal%C3%AD)
 - [‘Negro sou’: reflexões sobre o racismo à brasileira](https://www.nexojornal.com.br/estante/trechos/2023/04/14/%E2%80%98Negro-sou%E2%80%99-reflex%C3%B5es-sobre-o-racismo-%C3%A0-brasileira)
 - [O que é o VSR, vírus que fez internação de bebês disparar](https://www.nexojornal.com.br/expresso/2023/04/14/O-que-%C3%A9-o-VSR-v%C3%ADrus-que-fez-interna%C3%A7%C3%A3o-de-beb%C3%AAs-disparar)
 - [A plataforma que busca ser um LinkedIn para influenciadores](https://www.nexojornal.com.br/expresso/2023/04/14/A-plataforma-que-busca-ser-um-LinkedIn-para-influenciadores)
+- [Deputada brasileira denuncia assédio sexual de Boaventura](https://www.nexojornal.com.br/externo/2023/04/14/Deputada-brasileira-denuncia-ass%C3%A9dio-sexual-de-Boaventura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
