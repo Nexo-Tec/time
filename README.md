@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula volta a afirmar que Ucrânia também decidiu pela guerra](https://www.nexojornal.com.br/extra/2023/04/16/Lula-volta-a-afirmar-que-Ucr%C3%A2nia-tamb%C3%A9m-decidiu-pela-guerra)
 - [Por que evangélicos cantam louvores em locais públicos](https://www.nexojornal.com.br/expresso/2023/04/15/Por-que-evang%C3%A9licos-cantam-louvores-em-locais-p%C3%BAblicos)
 - [Nova York tem um novo cargo público: a ‘czarina dos ratos’](https://www.nexojornal.com.br/expresso/2023/04/15/Nova-York-tem-um-novo-cargo-p%C3%BAblico-a-%E2%80%98czarina-dos-ratos%E2%80%99)
 - [5 livros que mostram por que a medicina é uma ciência não exata](https://www.nexojornal.com.br/estante/favoritos/2023/04/15/5-livros-que-mostram-por-que-a-medicina-%C3%A9-uma-ci%C3%AAncia-n%C3%A3o-exata)
 - [A história da primeira roteirista asiática em Hollywood](https://www.nexojornal.com.br/externo/2023/04/15/A-hist%C3%B3ria-da-primeira-roteirista-asi%C3%A1tica-em-Hollywood)
+- [Quando a oferta científica não é demandada](https://www.nexojornal.com.br/ensaio/2023/04/15/Quando-a-oferta-cient%C3%ADfica-n%C3%A3o-%C3%A9-demandada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
