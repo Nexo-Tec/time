@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@ikarokadoshi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ikarokadoshi/)
 - [A Segunda Morte](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-segunda-morte/)
 - [Minissérie protagonizada por Jesse Eisenberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/minisserie-protagonizada-por-jesse-eisenberg/)
 - [Poemas que são filmes e viraram quadros](https://gamarevista.uol.com.br/achamos-que-vale/ler/poemas-que-sao-filmes-e-viraram-quadros/)
 - [A sexta edição do Festival Serrote, no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-sexta-edicao-do-festival-serrote-no-ims/)
-- [Uma nova dose de Paul Mescal no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-dose-de-paul-mescal-no-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
