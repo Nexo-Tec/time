@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A disputa na titulação das terras quilombolas de Alcântara](https://www.nexojornal.com.br/expresso/2023/04/18/A-disputa-na-titula%C3%A7%C3%A3o-das-terras-quilombolas-de-Alc%C3%A2ntara)
-- [Governo anuncia R$ 3 bilhões contra ataques em escolas](https://www.nexojornal.com.br/extra/2023/04/18/Governo-anuncia-R-3-bilh%C3%B5es-contra-ataques-em-escolas)
 - [Como a atitude de Lula impacta as relações com EUA e Europa](https://www.nexojornal.com.br/expresso/2023/04/17/Como-a-atitude-de-Lula-impacta-as-rela%C3%A7%C3%B5es-com-EUA-e-Europa)
 - [Bicicleta com roda quadrada? Este engenheiro construiu uma](https://www.nexojornal.com.br/expresso/2023/Bicicleta-com-roda-quadrada-Este-engenheiro-construiu-uma)
 - [Como o gasto extra do arcabouço se compara aos anos de fura-teto](https://www.nexojornal.com.br/expresso/2023/04/17/Como-o-gasto-extra-do-arcabou%C3%A7o-se-compara-aos-anos-de-fura-teto)
+- [EUA e União Europeia condenam fala de Lula sobre guerra](https://www.nexojornal.com.br/extra/2023/04/17/EUA-e-Uni%C3%A3o-Europeia-condenam-fala-de-Lula-sobre-guerra)
+- [Escola fechada, morte e correria: mais um dia de operação na Maré](https://www.nexojornal.com.br/podcast/2023/04/17/Escola-fechada-morte-e-correria-mais-um-dia-de-opera%C3%A7%C3%A3o-na-Mar%C3%A9)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
