@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ao lado de Lula, comandante defende Exército ‘apolítico’](https://www.nexojornal.com.br/extra/2023/04/19/Ao-lado-de-Lula-comandante-defende-Ex%C3%A9rcito-%E2%80%98apol%C3%ADtico%E2%80%99)
-- [‘O tempo do fim’: vivendo na época das mudanças climáticas](https://www.nexojornal.com.br/academico/2023/04/19/%E2%80%98O-tempo-do-fim%E2%80%99-vivendo-na-%C3%A9poca-das-mudan%C3%A7as-clim%C3%A1ticas)
-- [Sudão: como o histórico de golpes de Estado explica a crise](https://www.nexojornal.com.br/expresso/2023/04/19/Sud%C3%A3o-como-o-hist%C3%B3rico-de-golpes-de-Estado-explica-a-crise)
 - [Guarani-kaiowá: como o conflito volta a se agravar](https://www.nexojornal.com.br/expresso/2023/04/18/Guarani-kaiow%C3%A1-como-o-conflito-volta-a-se-agravar)
 - [Por que a esquerda contesta o arcabouço fiscal do governo](https://www.nexojornal.com.br/expresso/2023/04/18/Por-que-a-esquerda-contesta-o-arcabou%C3%A7o-fiscal-do-governo)
+- [O que o governo fez &lpar;e não fez&rpar; pela gestão pública em 100 dias](https://www.nexojornal.com.br/colunistas/2023/O-que-o-governo-fez-e-n%C3%A3o-fez-pela-gest%C3%A3o-p%C3%BAblica-em-100-dias)
+- [Como os ataques em escolas aceleram a regulação das redes](https://www.nexojornal.com.br/podcast/2023/04/18/Como-os-ataques-em-escolas-aceleram-a-regula%C3%A7%C3%A3o-das-redes)
+- [Historiador Boris Fausto morre aos 92 anos em São Paulo](https://www.nexojornal.com.br/extra/2023/04/18/Historiador-Boris-Fausto-morre-aos-92-anos-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
