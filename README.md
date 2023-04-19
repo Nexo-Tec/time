@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a atitude de Lula impacta as relações com EUA e Europa](https://www.nexojornal.com.br/expresso/2023/04/17/Como-a-atitude-de-Lula-impacta-as-rela%C3%A7%C3%B5es-com-EUA-e-Europa)
-- [Bicicleta com roda quadrada? Este engenheiro construiu uma](https://www.nexojornal.com.br/expresso/2023/Bicicleta-com-roda-quadrada-Este-engenheiro-construiu-uma)
-- [Como o gasto extra do arcabouço se compara aos anos de fura-teto](https://www.nexojornal.com.br/expresso/2023/04/17/Como-o-gasto-extra-do-arcabou%C3%A7o-se-compara-aos-anos-de-fura-teto)
-- [EUA e União Europeia condenam fala de Lula sobre guerra](https://www.nexojornal.com.br/extra/2023/04/17/EUA-e-Uni%C3%A3o-Europeia-condenam-fala-de-Lula-sobre-guerra)
-- [Escola fechada, morte e correria: mais um dia de operação na Maré](https://www.nexojornal.com.br/podcast/2023/04/17/Escola-fechada-morte-e-correria-mais-um-dia-de-opera%C3%A7%C3%A3o-na-Mar%C3%A9)
+- [Guarani-kaiowá: como o conflito volta a se agravar](https://www.nexojornal.com.br/expresso/2023/04/18/Guarani-kaiow%C3%A1-como-o-conflito-volta-a-se-agravar)
+- [Por que a esquerda contesta o arcabouço fiscal do governo](https://www.nexojornal.com.br/expresso/2023/04/18/Por-que-a-esquerda-contesta-o-arcabou%C3%A7o-fiscal-do-governo)
+- [O que o governo fez &lpar;e não fez&rpar; pela gestão pública em 100 dias](https://www.nexojornal.com.br/colunistas/2023/O-que-o-governo-fez-e-n%C3%A3o-fez-pela-gest%C3%A3o-p%C3%BAblica-em-100-dias)
+- [Como os ataques em escolas aceleram a regulação das redes](https://www.nexojornal.com.br/podcast/2023/04/18/Como-os-ataques-em-escolas-aceleram-a-regula%C3%A7%C3%A3o-das-redes)
+- [Historiador Boris Fausto morre aos 92 anos em São Paulo](https://www.nexojornal.com.br/extra/2023/04/18/Historiador-Boris-Fausto-morre-aos-92-anos-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
