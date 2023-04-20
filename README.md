@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como escolas podem sanar conflitos com práticas restaurativas](https://www.nexojornal.com.br/expresso/2023/04/19/Como-escolas-podem-sanar-conflitos-com-pr%C3%A1ticas-restaurativas)
-- [Quais as suspeitas de manipulação do Brasileirão](https://www.nexojornal.com.br/expresso/2023/04/19/Quais-as-suspeitas-de-manipula%C3%A7%C3%A3o-do-Brasileir%C3%A3o)
-- [Como os vídeos de 8 de janeiro põem o governo Lula na defensiva](https://www.nexojornal.com.br/expresso/2023/04/19/Como-os-v%C3%ADdeos-de-8-de-janeiro-p%C3%B5em-o-governo-Lula-na-defensiva)
-- [Precisamos falar sobre política industrial, mas como?](https://www.nexojornal.com.br/colunistas/2023/Precisamos-falar-sobre-pol%C3%ADtica-industrial-mas-como)
-- [GSI tentou manter vídeos do Planalto em 8 de janeiro sob sigilo](https://www.nexojornal.com.br/extra/2023/04/19/GSI-tentou-manter-v%C3%ADdeos-do-Planalto-em-8-de-janeiro-sob-sigilo)
+- [Ao lado de Lula, comandante defende Exército ‘apolítico’](https://www.nexojornal.com.br/extra/2023/04/19/Ao-lado-de-Lula-comandante-defende-Ex%C3%A9rcito-%E2%80%98apol%C3%ADtico%E2%80%99)
+- [‘O tempo do fim’: vivendo na época das mudanças climáticas](https://www.nexojornal.com.br/academico/2023/04/19/%E2%80%98O-tempo-do-fim%E2%80%99-vivendo-na-%C3%A9poca-das-mudan%C3%A7as-clim%C3%A1ticas)
+- [Sudão: como o histórico de golpes de Estado explica a crise](https://www.nexojornal.com.br/expresso/2023/04/19/Sud%C3%A3o-como-o-hist%C3%B3rico-de-golpes-de-Estado-explica-a-crise)
+- [Guarani-kaiowá: como o conflito volta a se agravar](https://www.nexojornal.com.br/expresso/2023/04/18/Guarani-kaiow%C3%A1-como-o-conflito-volta-a-se-agravar)
+- [Por que a esquerda contesta o arcabouço fiscal do governo](https://www.nexojornal.com.br/expresso/2023/04/18/Por-que-a-esquerda-contesta-o-arcabou%C3%A7o-fiscal-do-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
