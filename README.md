@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desmate na Amazônia no 1º trimestre é o maior desde 2008](https://www.nexojornal.com.br/extra/2023/04/20/Desmate-na-Amaz%C3%B4nia-no-1%C2%BA-trimestre-%C3%A9-o-maior-desde-2008)
 - [Os riscos dos cigarros eletrônicos. E o perfil dos usuários no Brasil](https://www.nexojornal.com.br/grafico/2023/04/20/Os-riscos-dos-cigarros-eletr%C3%B4nicos.-E-o-perfil-dos-usu%C3%A1rios-no-Brasil)
 - [Minutos após lançamento, foguete da Space X explode](https://www.nexojornal.com.br/extra/2023/04/20/Minutos-ap%C3%B3s-lan%C3%A7amento-foguete-da-Space-X-explode)
 - [Como escolas podem sanar conflitos com práticas restaurativas](https://www.nexojornal.com.br/expresso/2023/04/19/Como-escolas-podem-sanar-conflitos-com-pr%C3%A1ticas-restaurativas)
 - [Quais as suspeitas de manipulação do Brasileirão](https://www.nexojornal.com.br/expresso/2023/04/19/Quais-as-suspeitas-de-manipula%C3%A7%C3%A3o-do-Brasileir%C3%A3o)
-- [Como os vídeos de 8 de janeiro põem o governo Lula na defensiva](https://www.nexojornal.com.br/expresso/2023/04/19/Como-os-v%C3%ADdeos-de-8-de-janeiro-p%C3%B5em-o-governo-Lula-na-defensiva)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
