@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os riscos dos cigarros eletrônicos. E o perfil dos usuários no Brasil](https://www.nexojornal.com.br/grafico/2023/04/20/Os-riscos-dos-cigarros-eletr%C3%B4nicos.-E-o-perfil-dos-usu%C3%A1rios-no-Brasil)
+- [Minutos após lançamento, foguete da Space X explode](https://www.nexojornal.com.br/extra/2023/04/20/Minutos-ap%C3%B3s-lan%C3%A7amento-foguete-da-Space-X-explode)
 - [Como escolas podem sanar conflitos com práticas restaurativas](https://www.nexojornal.com.br/expresso/2023/04/19/Como-escolas-podem-sanar-conflitos-com-pr%C3%A1ticas-restaurativas)
 - [Quais as suspeitas de manipulação do Brasileirão](https://www.nexojornal.com.br/expresso/2023/04/19/Quais-as-suspeitas-de-manipula%C3%A7%C3%A3o-do-Brasileir%C3%A3o)
 - [Como os vídeos de 8 de janeiro põem o governo Lula na defensiva](https://www.nexojornal.com.br/expresso/2023/04/19/Como-os-v%C3%ADdeos-de-8-de-janeiro-p%C3%B5em-o-governo-Lula-na-defensiva)
-- [Precisamos falar sobre política industrial, mas como?](https://www.nexojornal.com.br/colunistas/2023/Precisamos-falar-sobre-pol%C3%ADtica-industrial-mas-como)
-- [GSI tentou manter vídeos do Planalto em 8 de janeiro sob sigilo](https://www.nexojornal.com.br/extra/2023/04/19/GSI-tentou-manter-v%C3%ADdeos-do-Planalto-em-8-de-janeiro-sob-sigilo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
