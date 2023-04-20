@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Guarani-kaiowá: como o conflito volta a se agravar](https://www.nexojornal.com.br/expresso/2023/04/18/Guarani-kaiow%C3%A1-como-o-conflito-volta-a-se-agravar)
-- [Por que a esquerda contesta o arcabouço fiscal do governo](https://www.nexojornal.com.br/expresso/2023/04/18/Por-que-a-esquerda-contesta-o-arcabou%C3%A7o-fiscal-do-governo)
-- [O que o governo fez &lpar;e não fez&rpar; pela gestão pública em 100 dias](https://www.nexojornal.com.br/colunistas/2023/O-que-o-governo-fez-e-n%C3%A3o-fez-pela-gest%C3%A3o-p%C3%BAblica-em-100-dias)
-- [Como os ataques em escolas aceleram a regulação das redes](https://www.nexojornal.com.br/podcast/2023/04/18/Como-os-ataques-em-escolas-aceleram-a-regula%C3%A7%C3%A3o-das-redes)
-- [Historiador Boris Fausto morre aos 92 anos em São Paulo](https://www.nexojornal.com.br/extra/2023/04/18/Historiador-Boris-Fausto-morre-aos-92-anos-em-S%C3%A3o-Paulo)
+- [Como escolas podem sanar conflitos com práticas restaurativas](https://www.nexojornal.com.br/expresso/2023/04/19/Como-escolas-podem-sanar-conflitos-com-pr%C3%A1ticas-restaurativas)
+- [Quais as suspeitas de manipulação do Brasileirão](https://www.nexojornal.com.br/expresso/2023/04/19/Quais-as-suspeitas-de-manipula%C3%A7%C3%A3o-do-Brasileir%C3%A3o)
+- [Como os vídeos de 8 de janeiro põem o governo Lula na defensiva](https://www.nexojornal.com.br/expresso/2023/04/19/Como-os-v%C3%ADdeos-de-8-de-janeiro-p%C3%B5em-o-governo-Lula-na-defensiva)
+- [Precisamos falar sobre política industrial, mas como?](https://www.nexojornal.com.br/colunistas/2023/Precisamos-falar-sobre-pol%C3%ADtica-industrial-mas-como)
+- [GSI tentou manter vídeos do Planalto em 8 de janeiro sob sigilo](https://www.nexojornal.com.br/extra/2023/04/19/GSI-tentou-manter-v%C3%ADdeos-do-Planalto-em-8-de-janeiro-sob-sigilo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
