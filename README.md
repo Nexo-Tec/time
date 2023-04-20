@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Faça em casa a lula do Charco, um melhores restaurantes da América Latina](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/faca-em-casa-a-lula-do-charco-um-melhores-restaurantes-da-america-latina/)
-- [@ikarokadoshi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ikarokadoshi/)
-- [A Segunda Morte](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-segunda-morte/)
-- [Minissérie protagonizada por Jesse Eisenberg](https://gamarevista.uol.com.br/achamos-que-vale/assistir/minisserie-protagonizada-por-jesse-eisenberg/)
-- [Poemas que são filmes e viraram quadros](https://gamarevista.uol.com.br/achamos-que-vale/ler/poemas-que-sao-filmes-e-viraram-quadros/)
+- [Narrativas indígenas no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/narrativas-indigenas-no-cinema-e-na-tv/)
+- [Feist em disco perfeito para o inverno](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/feist-em-disco-perfeito-para-o-inverno/)
+- [Um duro relato sobre violência doméstica](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-duro-relato-sobre-violencia-domestica/)
+- [Um bolo molhado para chocólatras de carteirinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-bolo-molhado-para-chocolatras-de-carteirinha/)
+- [Uma história de ghosting no “Modern Love”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-historia-de-ghosting-no-modern-love/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
