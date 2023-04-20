@@ -136,9 +136,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- PP_LIST:START -->
 - [O papel do direito no atual processo de erosão democrática](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/17/O-papel-do-direito-no-atual-processo-de-eros%C3%A3o-democr%C3%A1tica)
+- [Termos do Hip-hop](https://pp.nexojornal.com.br/glossario/Termos-do-Hip-hop)
 - [Na ONU, água tem destaque em conferência ignorada no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Na-ONU-%C3%A1gua-tem-destaque-em-confer%C3%AAncia-ignorada-no-Brasil)
 - [Como um programa de visitas domiciliares impacta o desenvolvimento na primeira infância](https://pp.nexojornal.com.br/academico/2023/Como-um-programa-de-visitas-domiciliares-impacta-o-desenvolvimento-na-primeira-inf%C3%A2ncia)
 - [Saúde digital no Brasil](https://pp.nexojornal.com.br/glossario/Sa%C3%BAde-digital-no-Brasil)
-- [Agricultura, biodiversidade e serviços ecossistêmicos](https://pp.nexojornal.com.br/glossario/Agricultura-biodiversidade-e-servi%C3%A7os-ecossist%C3%AAmicos)
 <!-- PP_LIST:END -->
 
