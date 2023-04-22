@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Presidente argentino diz que não vai tentar reeleição](https://www.nexojornal.com.br/extra/2023/04/21/Presidente-argentino-diz-que-n%C3%A3o-vai-tentar-reelei%C3%A7%C3%A3o)
-- [Por que os vídeos de 8 de janeiro podem selar o fim do GSI](https://www.nexojornal.com.br/expresso/2023/04/20/Por-que-os-v%C3%ADdeos-de-8-de-janeiro-podem-selar-o-fim-do-GSI)
-- [Como é o programa da Força Aérea para viajar de graça](https://www.nexojornal.com.br/expresso/2023/04/20/Como-%C3%A9-o-programa-da-For%C3%A7a-A%C3%A9rea-para-viajar-de-gra%C3%A7a)
-- [Como a cannabis pode ser usada na medicina veterinária](https://www.nexojornal.com.br/expresso/2023/04/20/Como-a-cannabis-pode-ser-usada-na-medicina-veterin%C3%A1ria)
-- [Discord: o aplicativo leniente com mensagens de ódio](https://www.nexojornal.com.br/externo/2023/04/20/Discord-o-aplicativo-leniente-com-mensagens-de-%C3%B3dio)
+- [Moraes quebra sigilo de imagens do Planalto em 8 de janeiro](https://www.nexojornal.com.br/extra/2023/04/21/Moraes-quebra-sigilo-de-imagens-do-Planalto-em-8-de-janeiro)
+- [O que prevê a regra fiscal se o governo não cumprir metas](https://www.nexojornal.com.br/expresso/2023/04/21/O-que-prev%C3%AA-a-regra-fiscal-se-o-governo-n%C3%A3o-cumprir-metas)
+- [A nova dinâmica da cracolândia. E a tensão no centro paulistano](https://www.nexojornal.com.br/expresso/2023/04/21/A-nova-din%C3%A2mica-da-cracol%C3%A2ndia.-E-a-tens%C3%A3o-no-centro-paulistano)
+- [Os protestos contra um criadouro de polvos para abate na Espanha](https://www.nexojornal.com.br/expresso/2023/04/21/Os-protestos-contra-um-criadouro-de-polvos-para-abate-na-Espanha)
+- [O fóssil brasileiro que ajuda a entender a origem de dinossauros](https://www.nexojornal.com.br/externo/2023/04/21/O-f%C3%B3ssil-brasileiro-que-ajuda-a-entender-a-origem-de-dinossauros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
