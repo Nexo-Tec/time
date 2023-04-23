@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O caminho ‘verde’ que projetos do BNDES podem seguir](https://www.nexojornal.com.br/ensaio/2023/04/22/O-caminho-%E2%80%98verde%E2%80%99-que-projetos-do-BNDES-podem-seguir)
+- [O que mudou na geopolítica mundial de Lula 1 para Lula 3](https://www.nexojornal.com.br/expresso/2023/04/22/O-que-mudou-na-geopol%C3%ADtica-mundial-de-Lula-1-para-Lula-3)
+- [GSI entrega ao STF imagens do Planalto em 8 de janeiro](https://www.nexojornal.com.br/extra/2023/04/22/GSI-entrega-ao-STF-imagens-do-Planalto-em-8-de-janeiro)
 - [‘O Antropoceno e as humanidades’: a era moldada pela espécie](https://www.nexojornal.com.br/estante/trechos/2023/04/22/%E2%80%98O-Antropoceno-e-as-humanidades%E2%80%99-a-era-moldada-pela-esp%C3%A9cie)
 - [Lula nega igualar Ucrânia e Rússia e diz entender Europa](https://www.nexojornal.com.br/extra/2023/04/22/Lula-nega-igualar-Ucr%C3%A2nia-e-R%C3%BAssia-e-diz-entender-Europa)
-- [Moraes quebra sigilo de imagens do Planalto em 8 de janeiro](https://www.nexojornal.com.br/extra/2023/04/21/Moraes-quebra-sigilo-de-imagens-do-Planalto-em-8-de-janeiro)
-- [O que prevê a regra fiscal se o governo não cumprir metas](https://www.nexojornal.com.br/expresso/2023/04/21/O-que-prev%C3%AA-a-regra-fiscal-se-o-governo-n%C3%A3o-cumprir-metas)
-- [A nova dinâmica da cracolândia. E a tensão no centro paulistano](https://www.nexojornal.com.br/expresso/2023/04/21/A-nova-din%C3%A2mica-da-cracol%C3%A2ndia.-E-a-tens%C3%A3o-no-centro-paulistano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
