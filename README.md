@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Registros trabalhistas terão que incluir declaração de raça](https://www.nexojornal.com.br/extra/2023/04/24/Registros-trabalhistas-ter%C3%A3o-que-incluir-declara%C3%A7%C3%A3o-de-ra%C3%A7a)
-- [O milagre da multiplicação de artigos](https://www.nexojornal.com.br/externo/2023/04/24/O-milagre-da-multiplica%C3%A7%C3%A3o-de-artigos)
-- [O abismo salarial nas empresas e a desigualdade social fora delas](https://www.nexojornal.com.br/colunistas/2023/O-abismo-salarial-nas-empresas-e-a-desigualdade-social-fora-delas)
-- [‘Política sobre drogas com justiça racial é um grande objetivo’](https://www.nexojornal.com.br/entrevista/2023/04/24/%E2%80%98Pol%C3%ADtica-sobre-drogas-com-justi%C3%A7a-racial-%C3%A9-um-grande-objetivo%E2%80%99)
-- [Como o novo arcabouço fiscal trata o investimento público](https://www.nexojornal.com.br/expresso/2023/04/24/Como-o-novo-arcabou%C3%A7o-fiscal-trata-o-investimento-p%C3%BAblico)
+- [Países se mobilizam para repatriar seus cidadãos do Sudão](https://www.nexojornal.com.br/extra/2023/04/23/Pa%C3%ADses-se-mobilizam-para-repatriar-seus-cidad%C3%A3os-do-Sud%C3%A3o)
+- [‘As línguas indígenas estão adormecidas, não foram extintas’](https://www.nexojornal.com.br/externo/2023/04/22/%E2%80%98As-l%C3%ADnguas-ind%C3%ADgenas-est%C3%A3o-adormecidas-n%C3%A3o-foram-extintas%E2%80%99)
+- [5 livros para entender como usamos e somos usados pela tecnologia](https://www.nexojornal.com.br/estante/favoritos/2023/04/22/5-livros-para-entender-como-usamos-e-somos-usados-pela-tecnologia)
+- [Por que estamos tão preocupados em consumir proteínas](https://www.nexojornal.com.br/expresso/2023/04/22/Por-que-estamos-t%C3%A3o-preocupados-em-consumir-prote%C3%ADnas)
+- [Como os novos blocos da Câmara mexem na base aliada de Lula](https://www.nexojornal.com.br/expresso/2023/04/22/Como-os-novos-blocos-da-C%C3%A2mara-mexem-na-base-aliada-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
