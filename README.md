@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caminho ‘verde’ que projetos do BNDES podem seguir](https://www.nexojornal.com.br/ensaio/2023/04/22/O-caminho-%E2%80%98verde%E2%80%99-que-projetos-do-BNDES-podem-seguir)
-- [O que mudou na geopolítica mundial de Lula 1 para Lula 3](https://www.nexojornal.com.br/expresso/2023/04/22/O-que-mudou-na-geopol%C3%ADtica-mundial-de-Lula-1-para-Lula-3)
-- [GSI entrega ao STF imagens do Planalto em 8 de janeiro](https://www.nexojornal.com.br/extra/2023/04/22/GSI-entrega-ao-STF-imagens-do-Planalto-em-8-de-janeiro)
-- [‘O Antropoceno e as humanidades’: a era moldada pela espécie](https://www.nexojornal.com.br/estante/trechos/2023/04/22/%E2%80%98O-Antropoceno-e-as-humanidades%E2%80%99-a-era-moldada-pela-esp%C3%A9cie)
-- [Lula nega igualar Ucrânia e Rússia e diz entender Europa](https://www.nexojornal.com.br/extra/2023/04/22/Lula-nega-igualar-Ucr%C3%A2nia-e-R%C3%BAssia-e-diz-entender-Europa)
+- [Países se mobilizam para repatriar seus cidadãos do Sudão](https://www.nexojornal.com.br/extra/2023/04/23/Pa%C3%ADses-se-mobilizam-para-repatriar-seus-cidad%C3%A3os-do-Sud%C3%A3o)
+- [‘As línguas indígenas estão adormecidas, não foram extintas’](https://www.nexojornal.com.br/externo/2023/04/22/%E2%80%98As-l%C3%ADnguas-ind%C3%ADgenas-est%C3%A3o-adormecidas-n%C3%A3o-foram-extintas%E2%80%99)
+- [5 livros para entender como usamos e somos usados pela tecnologia](https://www.nexojornal.com.br/estante/favoritos/2023/04/22/5-livros-para-entender-como-usamos-e-somos-usados-pela-tecnologia)
+- [Por que estamos tão preocupados em consumir proteínas](https://www.nexojornal.com.br/expresso/2023/04/22/Por-que-estamos-t%C3%A3o-preocupados-em-consumir-prote%C3%ADnas)
+- [Como os novos blocos da Câmara mexem na base aliada de Lula](https://www.nexojornal.com.br/expresso/2023/04/22/Como-os-novos-blocos-da-C%C3%A2mara-mexem-na-base-aliada-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
