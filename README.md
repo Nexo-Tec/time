@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Registros trabalhistas terão que incluir declaração de raça](https://www.nexojornal.com.br/extra/2023/04/24/Registros-trabalhistas-ter%C3%A3o-que-incluir-declara%C3%A7%C3%A3o-de-ra%C3%A7a)
 - [O milagre da multiplicação de artigos](https://www.nexojornal.com.br/externo/2023/04/24/O-milagre-da-multiplica%C3%A7%C3%A3o-de-artigos)
 - [O abismo salarial nas empresas e a desigualdade social fora delas](https://www.nexojornal.com.br/colunistas/2023/O-abismo-salarial-nas-empresas-e-a-desigualdade-social-fora-delas)
 - [‘Política sobre drogas com justiça racial é um grande objetivo’](https://www.nexojornal.com.br/entrevista/2023/04/24/%E2%80%98Pol%C3%ADtica-sobre-drogas-com-justi%C3%A7a-racial-%C3%A9-um-grande-objetivo%E2%80%99)
 - [Como o novo arcabouço fiscal trata o investimento público](https://www.nexojornal.com.br/expresso/2023/04/24/Como-o-novo-arcabou%C3%A7o-fiscal-trata-o-investimento-p%C3%BAblico)
-- [Câmeras do Planalto mostram falhas de segurança em invasão](https://www.nexojornal.com.br/extra/2023/04/24/C%C3%A2meras-do-Planalto-mostram-falhas-de-seguran%C3%A7a-em-invas%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
