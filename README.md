@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O milagre da multiplicação de artigos](https://www.nexojornal.com.br/externo/2023/04/24/O-milagre-da-multiplica%C3%A7%C3%A3o-de-artigos)
-- [O abismo salarial nas empresas e a desigualdade social fora delas](https://www.nexojornal.com.br/colunistas/2023/O-abismo-salarial-nas-empresas-e-a-desigualdade-social-fora-delas)
-- [‘Política sobre drogas com justiça racial é um grande objetivo’](https://www.nexojornal.com.br/entrevista/2023/04/24/%E2%80%98Pol%C3%ADtica-sobre-drogas-com-justi%C3%A7a-racial-%C3%A9-um-grande-objetivo%E2%80%99)
-- [Como o novo arcabouço fiscal trata o investimento público](https://www.nexojornal.com.br/expresso/2023/04/24/Como-o-novo-arcabou%C3%A7o-fiscal-trata-o-investimento-p%C3%BAblico)
-- [Câmeras do Planalto mostram falhas de segurança em invasão](https://www.nexojornal.com.br/extra/2023/04/24/C%C3%A2meras-do-Planalto-mostram-falhas-de-seguran%C3%A7a-em-invas%C3%A3o)
+- [O histórico da produção de carne no Brasil](https://www.nexojornal.com.br/grafico/2023/04/24/O-hist%C3%B3rico-da-produ%C3%A7%C3%A3o-de-carne-no-Brasil)
+- [O que emperra o acordo entre União Europeia e Mercosul](https://www.nexojornal.com.br/expresso/2023/04/24/O-que-emperra-o-acordo-entre-Uni%C3%A3o-Europeia-e-Mercosul)
+- [O que você precisa saber sobre o projeto de lei das fake news](https://www.nexojornal.com.br/podcast/2023/04/24/O-que-voc%C3%AA-precisa-saber-sobre-o-projeto-de-lei-das-fake-news)
+- [Mulheres na política: por que ainda não garantimos o mínimo](https://www.nexojornal.com.br/ensaio/2023/04/24/Mulheres-na-pol%C3%ADtica-por-que-ainda-n%C3%A3o-garantimos-o-m%C3%ADnimo)
+- [Covid: governo amplia vacinação bivalente para todos os adultos](https://www.nexojornal.com.br/extra/2023/04/24/Covid-governo-amplia-vacina%C3%A7%C3%A3o-bivalente-para-todos-os-adultos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
