@@ -126,10 +126,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- GAMA_LIST:START -->
 - [Cuscuzeira individual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cuscuzeira-individual/)
+- [Ofertar palavras como quem oferta flores](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ofertar-palavras-como-quem-oferta-flores/)
 - [@tarqeeb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tarqeeb/)
 - [Entre Sessões](https://gamarevista.uol.com.br/cultura/trecho-de-livro/entre-sessoes/)
 - [Narrativas indígenas no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/narrativas-indigenas-no-cinema-e-na-tv/)
-- [Feist em disco perfeito para o inverno](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/feist-em-disco-perfeito-para-o-inverno/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
