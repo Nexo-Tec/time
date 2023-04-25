@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cuscuzeira individual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cuscuzeira-individual/)
 - [@tarqeeb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tarqeeb/)
 - [Entre Sessões](https://gamarevista.uol.com.br/cultura/trecho-de-livro/entre-sessoes/)
 - [Narrativas indígenas no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/narrativas-indigenas-no-cinema-e-na-tv/)
 - [Feist em disco perfeito para o inverno](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/feist-em-disco-perfeito-para-o-inverno/)
-- [Um duro relato sobre violência doméstica](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-duro-relato-sobre-violencia-domestica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
