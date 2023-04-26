@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Campos Neto diz não ter como prever baixa de juros](https://www.nexojornal.com.br/extra/2023/04/25/Campos-Neto-diz-n%C3%A3o-ter-como-prever-baixa-de-juros)
-- [Ataques em escolas: uma nova pressão sobre os professores](https://www.nexojornal.com.br/expresso/2023/04/25/Ataques-em-escolas-uma-nova-press%C3%A3o-sobre-os-professores)
-- [Lula critica guerra e extremismos no Parlamento português](https://www.nexojornal.com.br/extra/2023/04/25/Lula-critica-guerra-e-extremismos-no-Parlamento-portugu%C3%AAs)
-- [Como Elon Musk usa famosos para vender selo azul no Twitter](https://www.nexojornal.com.br/expresso/2023/04/25/Como-Elon-Musk-usa-famosos-para-vender-selo-azul-no-Twitter)
-- [STF aceita denúncias e torna 100 pessoas rés por 8 de janeiro](https://www.nexojornal.com.br/extra/2023/04/25/STF-aceita-den%C3%BAncias-e-torna-100-pessoas-r%C3%A9s-por-8-de-janeiro)
+- [O histórico da produção de carne no Brasil](https://www.nexojornal.com.br/grafico/2023/04/24/O-hist%C3%B3rico-da-produ%C3%A7%C3%A3o-de-carne-no-Brasil)
+- [O que emperra o acordo entre União Europeia e Mercosul](https://www.nexojornal.com.br/expresso/2023/04/24/O-que-emperra-o-acordo-entre-Uni%C3%A3o-Europeia-e-Mercosul)
+- [O que você precisa saber sobre o projeto de lei das fake news](https://www.nexojornal.com.br/podcast/2023/04/24/O-que-voc%C3%AA-precisa-saber-sobre-o-projeto-de-lei-das-fake-news)
+- [Mulheres na política: por que ainda não garantimos o mínimo](https://www.nexojornal.com.br/ensaio/2023/04/24/Mulheres-na-pol%C3%ADtica-por-que-ainda-n%C3%A3o-garantimos-o-m%C3%ADnimo)
+- [Covid: governo amplia vacinação bivalente para todos os adultos](https://www.nexojornal.com.br/extra/2023/04/24/Covid-governo-amplia-vacina%C3%A7%C3%A3o-bivalente-para-todos-os-adultos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
