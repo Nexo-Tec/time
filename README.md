@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O histórico da produção de carne no Brasil](https://www.nexojornal.com.br/grafico/2023/04/24/O-hist%C3%B3rico-da-produ%C3%A7%C3%A3o-de-carne-no-Brasil)
-- [O que emperra o acordo entre União Europeia e Mercosul](https://www.nexojornal.com.br/expresso/2023/04/24/O-que-emperra-o-acordo-entre-Uni%C3%A3o-Europeia-e-Mercosul)
-- [O que você precisa saber sobre o projeto de lei das fake news](https://www.nexojornal.com.br/podcast/2023/04/24/O-que-voc%C3%AA-precisa-saber-sobre-o-projeto-de-lei-das-fake-news)
-- [Mulheres na política: por que ainda não garantimos o mínimo](https://www.nexojornal.com.br/ensaio/2023/04/24/Mulheres-na-pol%C3%ADtica-por-que-ainda-n%C3%A3o-garantimos-o-m%C3%ADnimo)
-- [Covid: governo amplia vacinação bivalente para todos os adultos](https://www.nexojornal.com.br/extra/2023/04/24/Covid-governo-amplia-vacina%C3%A7%C3%A3o-bivalente-para-todos-os-adultos)
+- [Qual a situação de Bolsonaro na Justiça penal](https://www.nexojornal.com.br/expresso/2023/04/25/Qual-a-situa%C3%A7%C3%A3o-de-Bolsonaro-na-Justi%C3%A7a-penal)
+- [O que uma possível reedição da eleição de 2020 diz sobre os EUA](https://www.nexojornal.com.br/expresso/2023/04/25/O-que-uma-poss%C3%ADvel-reedi%C3%A7%C3%A3o-da-elei%C3%A7%C3%A3o-de-2020-diz-sobre-os-EUA)
+- [O potencial da CPI de 8 de janeiro para espalhar desinformação](https://www.nexojornal.com.br/expresso/2023/04/25/O-potencial-da-CPI-de-8-de-janeiro-para-espalhar-desinforma%C3%A7%C3%A3o)
+- [Inteligência artificial: a ciência rumo à obsolescência?](https://www.nexojornal.com.br/colunistas/2023/Intelig%C3%AAncia-artificial-a-ci%C3%AAncia-rumo-%C3%A0-obsolesc%C3%AAncia)
+- [Câmara aprova pedido de urgência do PL das Fake News](https://www.nexojornal.com.br/extra/2023/04/25/C%C3%A2mara-aprova-pedido-de-urg%C3%AAncia-do-PL-das-Fake-News)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
