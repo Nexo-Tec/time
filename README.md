@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Itamar Vieira Junior](https://gamarevista.uol.com.br/sem-categoria/itamar-vieira-junior/)
 - [Cuscuzeira individual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cuscuzeira-individual/)
 - [Ofertar palavras como quem oferta flores](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ofertar-palavras-como-quem-oferta-flores/)
 - [@tarqeeb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tarqeeb/)
 - [Entre Sessões](https://gamarevista.uol.com.br/cultura/trecho-de-livro/entre-sessoes/)
-- [Narrativas indígenas no cinema e na TV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/narrativas-indigenas-no-cinema-e-na-tv/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
