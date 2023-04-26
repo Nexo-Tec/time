@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aos amores perdidos](https://gamarevista.uol.com.br/colunistas/maria-homem/aos-amores-perdidos/)
 - [Itamar Vieira Junior](https://gamarevista.uol.com.br/sem-categoria/itamar-vieira-junior/)
 - [Cuscuzeira individual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cuscuzeira-individual/)
 - [Ofertar palavras como quem oferta flores](https://gamarevista.uol.com.br/colunistas/winnie-bueno/ofertar-palavras-como-quem-oferta-flores/)
 - [@tarqeeb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/tarqeeb/)
-- [Entre Sessões](https://gamarevista.uol.com.br/cultura/trecho-de-livro/entre-sessoes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
