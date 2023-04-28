@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Paola Carosella no “Café da Manhã”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/paola-carosella-no-cafe-da-manha/)
+- [Os cartuns de Pedro Vinicio](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-cartuns-de-pedro-vinicio/)
+- [Protagonismo negro na Globo e na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/protagonismo-negro-na-globo-e-na-netflix/)
 - [Trabalhadores explorados em agências publicitárias](https://gamarevista.uol.com.br/achamos-que-vale/ler/trabalhadores-explorados-em-agencias-publicitarias/)
 - [Moda, classe e “The Nanny”](https://gamarevista.uol.com.br/achamos-que-vale/ler/moda-classe-e-the-nanny/)
-- [Formas Feitas no Escuro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/formas-feitas-no-escuro/)
-- [A inescapável relação entre branquitude e emergência climática](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/supremacia-branca-na-sala-a-inescapavel-relacao-entre-branquitude-e-emergencia-climatica-e-ambiental/)
-- [O que a porta ao lado pode ensinar?](https://gamarevista.uol.com.br/artigo/o-que-a-porta-ao-lado-pode-ensinar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
