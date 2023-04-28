@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Quais os principais fatores que provocam a falta de professores](https://pp.nexojornal.com.br/ponto-de-vista/2023/Quais-os-principais-fatores-que-provocam-a-falta-de-professores)
-- [O legado de Ana Teberosky para a educação](https://pp.nexojornal.com.br/opiniao/2023/O-legado-de-Ana-Teberosky-para-a-educa%C3%A7%C3%A3o)
 - [Hiato de desempenho educacional entre negros e brancos](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/26/Hiato-de-desempenho-educacional-entre-negros-e-brancos)
 - [O partido e o governo: a história de uma relação tensa](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-partido-e-o-governo-a-hist%C3%B3ria-de-uma-rela%C3%A7%C3%A3o-tensa)
 - [Notas sobre a retomada visual Yanomami](https://pp.nexojornal.com.br/opiniao/2023/Notas-sobre-a-retomada-visual-Yanomami)
+- [O papel do direito no atual processo de erosão democrática](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/17/O-papel-do-direito-no-atual-processo-de-eros%C3%A3o-democr%C3%A1tica)
+- [Na ONU, água tem destaque em conferência ignorada no Brasil](https://pp.nexojornal.com.br/opiniao/2023/Na-ONU-%C3%A1gua-tem-destaque-em-confer%C3%AAncia-ignorada-no-Brasil)
 <!-- PP_LIST:END -->
 
