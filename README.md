@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em que termos Bolsonaro instigou a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/04/28/Em-que-termos-Bolsonaro-instigou-a-invas%C3%A3o-dos-Poderes)
 - [Caixa fecha acordo de R$ 10 milhões por casos de assédio](https://www.nexojornal.com.br/extra/2023/04/27/Caixa-fecha-acordo-de-R-10-milh%C3%B5es-por-casos-de-ass%C3%A9dio)
 - [A gravidade do conflito que causa uma debandada do Sudão](https://www.nexojornal.com.br/podcast/2023/04/27/A-gravidade-do-conflito-que-causa-uma-debandada-do-Sud%C3%A3o)
 - [Brasil quer regular mercado de carbono: como é no exterior](https://www.nexojornal.com.br/expresso/2023/04/27/Brasil-quer-regular-mercado-de-carbono-como-%C3%A9-no-exterior)
 - [O que há no leilão de objetos pessoais de Freddy Mercury](https://www.nexojornal.com.br/expresso/2023/04/27/O-que-h%C3%A1-no-leil%C3%A3o-de-objetos-pessoais-de-Freddy-Mercury)
+- [Tudo junto e misturado: nossa vida on-life](https://www.nexojornal.com.br/colunistas/2023/04/27/Tudo-junto-e-misturado-nossa-vida-on-life)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
