@@ -136,7 +136,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- PP_LIST:START -->
 - [Quais os principais fatores que provocam a falta de professores](https://pp.nexojornal.com.br/ponto-de-vista/2023/Quais-os-principais-fatores-que-provocam-a-falta-de-professores)
-- [O lgado de Ana Teberosky para a educação](https://pp.nexojornal.com.br/opiniao/2023/O-lgado-de-Ana-Teberosky-para-a-educa%C3%A7%C3%A3o)
+- [O legado de Ana Teberosky para a educação](https://pp.nexojornal.com.br/opiniao/2023/O-legado-de-Ana-Teberosky-para-a-educa%C3%A7%C3%A3o)
 - [Hiato de desempenho educacional entre negros e brancos](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/26/Hiato-de-desempenho-educacional-entre-negros-e-brancos)
 - [O partido e o governo: a história de uma relação tensa](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-partido-e-o-governo-a-hist%C3%B3ria-de-uma-rela%C3%A7%C3%A3o-tensa)
 - [Notas sobre a retomada visual Yanomami](https://pp.nexojornal.com.br/opiniao/2023/Notas-sobre-a-retomada-visual-Yanomami)
