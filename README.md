@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quem quer sentimento?](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quem-quer-sentimento/)
 - [Paola Carosella no “Café da Manhã”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/paola-carosella-no-cafe-da-manha/)
 - [Os cartuns de Pedro Vinicio](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-cartuns-de-pedro-vinicio/)
 - [Protagonismo negro na Globo e na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/protagonismo-negro-na-globo-e-na-netflix/)
 - [Trabalhadores explorados em agências publicitárias](https://gamarevista.uol.com.br/achamos-que-vale/ler/trabalhadores-explorados-em-agencias-publicitarias/)
-- [Moda, classe e “The Nanny”](https://gamarevista.uol.com.br/achamos-que-vale/ler/moda-classe-e-the-nanny/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
