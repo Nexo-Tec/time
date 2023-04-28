@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Formas Feitas no Escuro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/formas-feitas-no-escuro/)
 - [A inescapável relação entre branquitude e emergência climática](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/supremacia-branca-na-sala-a-inescapavel-relacao-entre-branquitude-e-emergencia-climatica-e-ambiental/)
 - [O que a porta ao lado pode ensinar?](https://gamarevista.uol.com.br/artigo/o-que-a-porta-ao-lado-pode-ensinar/)
 - [Aos amores perdidos](https://gamarevista.uol.com.br/colunistas/maria-homem/aos-amores-perdidos/)
 - [Itamar Vieira Junior](https://gamarevista.uol.com.br/pessoas/questionario-proust/itamar-vieira-junior/)
-- [Cuscuzeira individual](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cuscuzeira-individual/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
