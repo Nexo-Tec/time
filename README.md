@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Já tem CPI e não é no Congresso: o que ela fez sobre 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/04/26/J%C3%A1-tem-CPI-e-n%C3%A3o-%C3%A9-no-Congresso-o-que-ela-fez-sobre-8-de-janeiro)
-- [Em quatro meses, Lula fez 7 visitas oficiais a outros países](https://www.nexojornal.com.br/grafico/2023/04/26/Em-quatro-meses-Lula-fez-7-visitas-oficiais-a-outros-pa%C3%ADses)
-- [Por que Cuca nunca sofreu tanta pressão como no Corinthians](https://www.nexojornal.com.br/expresso/2023/04/26/Por-que-Cuca-nunca-sofreu-tanta-press%C3%A3o-como-no-Corinthians)
-- [Um exame de nada. E logo aparecem as piadinhas bobas](https://www.nexojornal.com.br/colunistas/2023/Um-exame-de-nada.-E-logo-aparecem-as-piadinhas-bobas)
-- [Como a abertura de CPIs simultâneas pressiona o governo](https://www.nexojornal.com.br/podcast/2023/04/26/Como-a-abertura-de-CPIs-simult%C3%A2neas-pressiona-o-governo)
+- [Em que termos Bolsonaro instigou a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/04/28/Em-que-termos-Bolsonaro-instigou-a-invas%C3%A3o-dos-Poderes)
+- [Caixa fecha acordo de R$ 10 milhões por casos de assédio](https://www.nexojornal.com.br/extra/2023/04/27/Caixa-fecha-acordo-de-R-10-milh%C3%B5es-por-casos-de-ass%C3%A9dio)
+- [A gravidade do conflito que causa uma debandada do Sudão](https://www.nexojornal.com.br/podcast/2023/04/27/A-gravidade-do-conflito-que-causa-uma-debandada-do-Sud%C3%A3o)
+- [Brasil quer regular mercado de carbono: como é no exterior](https://www.nexojornal.com.br/expresso/2023/04/27/Brasil-quer-regular-mercado-de-carbono-como-%C3%A9-no-exterior)
+- [O que há no leilão de objetos pessoais de Freddy Mercury](https://www.nexojornal.com.br/expresso/2023/04/27/O-que-h%C3%A1-no-leil%C3%A3o-de-objetos-pessoais-de-Freddy-Mercury)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
