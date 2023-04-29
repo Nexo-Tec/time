@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A última volta do Rio’: a vida de um carioca do século 20](https://www.nexojornal.com.br/estante/2023/04/28/%E2%80%98A-%C3%BAltima-volta-do-Rio%E2%80%99-a-vida-de-um-carioca-do-s%C3%A9culo-20)
-- [Precisamos falar sobre a morte](https://www.nexojornal.com.br/externo/2023/04/28/Precisamos-falar-sobre-a-morte)
-- [‘Indígenas produzem audiovisual com nada há muito tempo’](https://www.nexojornal.com.br/entrevista/2023/04/28/%E2%80%98Ind%C3%ADgenas-produzem-audiovisual-com-nada-h%C3%A1-muito-tempo%E2%80%99)
-- [Novas terras indígenas demarcadas por Lula: como são e onde ficam](https://www.nexojornal.com.br/expresso/2023/04/28/Novas-terras-ind%C3%ADgenas-demarcadas-por-Lula-como-s%C3%A3o-e-onde-ficam)
-- [No PL das Fake News, regular a monetização pode ser a chave](https://www.nexojornal.com.br/ensaio/2023/04/28/No-PL-das-Fake-News-regular-a-monetiza%C3%A7%C3%A3o-pode-ser-a-chave)
+- [Em que termos Bolsonaro instigou a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/04/28/Em-que-termos-Bolsonaro-instigou-a-invas%C3%A3o-dos-Poderes)
+- [Caixa fecha acordo de R$ 10 milhões por casos de assédio](https://www.nexojornal.com.br/extra/2023/04/27/Caixa-fecha-acordo-de-R-10-milh%C3%B5es-por-casos-de-ass%C3%A9dio)
+- [A gravidade do conflito que causa uma debandada do Sudão](https://www.nexojornal.com.br/podcast/2023/04/27/A-gravidade-do-conflito-que-causa-uma-debandada-do-Sud%C3%A3o)
+- [Brasil quer regular mercado de carbono: como é no exterior](https://www.nexojornal.com.br/expresso/2023/04/27/Brasil-quer-regular-mercado-de-carbono-como-%C3%A9-no-exterior)
+- [O que há no leilão de objetos pessoais de Freddy Mercury](https://www.nexojornal.com.br/expresso/2023/04/27/O-que-h%C3%A1-no-leil%C3%A3o-de-objetos-pessoais-de-Freddy-Mercury)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
