@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula assina demarcação de seis terras indígenas](https://www.nexojornal.com.br/extra/2023/04/28/Lula-assina-demarca%C3%A7%C3%A3o-de-seis-terras-ind%C3%ADgenas)
-- [A tração do populismo de direita na reta final da eleição paraguaia](https://www.nexojornal.com.br/expresso/2023/04/28/A-tra%C3%A7%C3%A3o-do-populismo-de-direita-na-reta-final-da-elei%C3%A7%C3%A3o-paraguaia)
-- [Tudo junto e misturado: nossa vida ‘on-life’](https://www.nexojornal.com.br/colunistas/2023/Tudo-junto-e-misturado-nossa-vida-%E2%80%98on-life%E2%80%99)
-- [Em que termos Bolsonaro instigou a invasão dos Poderes](https://www.nexojornal.com.br/expresso/2023/04/28/Em-que-termos-Bolsonaro-instigou-a-invas%C3%A3o-dos-Poderes)
-- [Caixa fecha acordo de R$ 10 milhões por casos de assédio](https://www.nexojornal.com.br/extra/2023/04/27/Caixa-fecha-acordo-de-R-10-milh%C3%B5es-por-casos-de-ass%C3%A9dio)
+- [‘A última volta do Rio’: a vida de um carioca do século 20](https://www.nexojornal.com.br/estante/2023/04/28/%E2%80%98A-%C3%BAltima-volta-do-Rio%E2%80%99-a-vida-de-um-carioca-do-s%C3%A9culo-20)
+- [Precisamos falar sobre a morte](https://www.nexojornal.com.br/externo/2023/04/28/Precisamos-falar-sobre-a-morte)
+- [‘Indígenas produzem audiovisual com nada há muito tempo’](https://www.nexojornal.com.br/entrevista/2023/04/28/%E2%80%98Ind%C3%ADgenas-produzem-audiovisual-com-nada-h%C3%A1-muito-tempo%E2%80%99)
+- [Novas terras indígenas demarcadas por Lula: como são e onde ficam](https://www.nexojornal.com.br/expresso/2023/04/28/Novas-terras-ind%C3%ADgenas-demarcadas-por-Lula-como-s%C3%A3o-e-onde-ficam)
+- [No PL das Fake News, regular a monetização pode ser a chave](https://www.nexojornal.com.br/ensaio/2023/04/28/No-PL-das-Fake-News-regular-a-monetiza%C3%A7%C3%A3o-pode-ser-a-chave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
