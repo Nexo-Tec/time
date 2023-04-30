@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após extradição e prisão, Thiago Brennand chega ao Brasil](https://www.nexojornal.com.br/extra/2023/04/29/Ap%C3%B3s-extradi%C3%A7%C3%A3o-e-pris%C3%A3o-Thiago-Brennand-chega-ao-Brasil)
-- [Os tiktoks que imitam filmes de Wes Anderson na vida real](https://www.nexojornal.com.br/expresso/2023/04/29/Os-tiktoks-que-imitam-filmes-de-Wes-Anderson-na-vida-real)
-- [5 livros para ler com crianças e entender a Amazônia](https://www.nexojornal.com.br/estante/favoritos/2023/04/29/5-livros-para-ler-com-crian%C3%A7as-e-entender-a-Amaz%C3%B4nia)
-- [As perspectivas sobre a exploração de lítio nos Andes bolivianos](https://www.nexojornal.com.br/externo/2023/04/29/As-perspectivas-sobre-a-explora%C3%A7%C3%A3o-de-l%C3%ADtio-nos-Andes-bolivianos)
-- [Como países regulam o uso de redes sociais por crianças](https://www.nexojornal.com.br/expresso/2023/04/29/Como-pa%C3%ADses-regulam-o-uso-de-redes-sociais-por-crian%C3%A7as)
+- [‘A última volta do Rio’: a vida de um carioca do século 20](https://www.nexojornal.com.br/estante/2023/04/28/%E2%80%98A-%C3%BAltima-volta-do-Rio%E2%80%99-a-vida-de-um-carioca-do-s%C3%A9culo-20)
+- [Precisamos falar sobre a morte](https://www.nexojornal.com.br/externo/2023/04/28/Precisamos-falar-sobre-a-morte)
+- [‘Indígenas produzem audiovisual com nada há muito tempo’](https://www.nexojornal.com.br/entrevista/2023/04/28/%E2%80%98Ind%C3%ADgenas-produzem-audiovisual-com-nada-h%C3%A1-muito-tempo%E2%80%99)
+- [Novas terras indígenas demarcadas por Lula: como são e onde ficam](https://www.nexojornal.com.br/expresso/2023/04/28/Novas-terras-ind%C3%ADgenas-demarcadas-por-Lula-como-s%C3%A3o-e-onde-ficam)
+- [No PL das Fake News, regular a monetização pode ser a chave](https://www.nexojornal.com.br/ensaio/2023/04/28/No-PL-das-Fake-News-regular-a-monetiza%C3%A7%C3%A3o-pode-ser-a-chave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
