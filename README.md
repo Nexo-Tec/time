@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desembargador determina fim de bloqueio do Telegram](https://www.nexojornal.com.br/extra/2023/04/29/Desembargador-determina-fim-de-bloqueio-do-Telegram)
-- [Banco do Brasil vai retirar patrocínio da Agrishow, diz ministro](https://www.nexojornal.com.br/extra/2023/04/29/Banco-do-Brasil-vai-retirar-patroc%C3%ADnio-da-Agrishow-diz-ministro)
 - [‘A última volta do Rio’: a vida de um carioca do século 20](https://www.nexojornal.com.br/estante/2023/04/28/%E2%80%98A-%C3%BAltima-volta-do-Rio%E2%80%99-a-vida-de-um-carioca-do-s%C3%A9culo-20)
 - [Precisamos falar sobre a morte](https://www.nexojornal.com.br/externo/2023/04/28/Precisamos-falar-sobre-a-morte)
 - [‘Indígenas produzem audiovisual com nada há muito tempo’](https://www.nexojornal.com.br/entrevista/2023/04/28/%E2%80%98Ind%C3%ADgenas-produzem-audiovisual-com-nada-h%C3%A1-muito-tempo%E2%80%99)
+- [Novas terras indígenas demarcadas por Lula: como são e onde ficam](https://www.nexojornal.com.br/expresso/2023/04/28/Novas-terras-ind%C3%ADgenas-demarcadas-por-Lula-como-s%C3%A3o-e-onde-ficam)
+- [No PL das Fake News, regular a monetização pode ser a chave](https://www.nexojornal.com.br/ensaio/2023/04/28/No-PL-das-Fake-News-regular-a-monetiza%C3%A7%C3%A3o-pode-ser-a-chave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
