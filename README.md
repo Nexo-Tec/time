@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF abre inquérito para apurar caso de mulher negra expulsa de voo](https://www.nexojornal.com.br/extra/2023/04/30/PF-abre-inqu%C3%A9rito-para-apurar-caso-de-mulher-negra-expulsa-de-voo)
-- [Após extradição e prisão, Thiago Brennand chega ao Brasil](https://www.nexojornal.com.br/extra/2023/04/29/Ap%C3%B3s-extradi%C3%A7%C3%A3o-e-pris%C3%A3o-Thiago-Brennand-chega-ao-Brasil)
-- [Os tiktoks que imitam filmes de Wes Anderson na vida real](https://www.nexojornal.com.br/expresso/2023/04/29/Os-tiktoks-que-imitam-filmes-de-Wes-Anderson-na-vida-real)
-- [5 livros para ler com crianças e entender a Amazônia](https://www.nexojornal.com.br/estante/favoritos/2023/04/29/5-livros-para-ler-com-crian%C3%A7as-e-entender-a-Amaz%C3%B4nia)
-- [As perspectivas sobre a exploração de lítio nos Andes bolivianos](https://www.nexojornal.com.br/externo/2023/04/29/As-perspectivas-sobre-a-explora%C3%A7%C3%A3o-de-l%C3%ADtio-nos-Andes-bolivianos)
+- [Desembargador determina fim de bloqueio do Telegram](https://www.nexojornal.com.br/extra/2023/04/29/Desembargador-determina-fim-de-bloqueio-do-Telegram)
+- [Banco do Brasil vai retirar patrocínio da Agrishow, diz ministro](https://www.nexojornal.com.br/extra/2023/04/29/Banco-do-Brasil-vai-retirar-patroc%C3%ADnio-da-Agrishow-diz-ministro)
+- [‘A última volta do Rio’: a vida de um carioca do século 20](https://www.nexojornal.com.br/estante/2023/04/28/%E2%80%98A-%C3%BAltima-volta-do-Rio%E2%80%99-a-vida-de-um-carioca-do-s%C3%A9culo-20)
+- [Precisamos falar sobre a morte](https://www.nexojornal.com.br/externo/2023/04/28/Precisamos-falar-sobre-a-morte)
+- [‘Indígenas produzem audiovisual com nada há muito tempo’](https://www.nexojornal.com.br/entrevista/2023/04/28/%E2%80%98Ind%C3%ADgenas-produzem-audiovisual-com-nada-h%C3%A1-muito-tempo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
