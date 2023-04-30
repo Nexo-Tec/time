@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF abre inquérito para apurar caso de mulher negra expulsa de voo](https://www.nexojornal.com.br/extra/2023/04/30/PF-abre-inqu%C3%A9rito-para-apurar-caso-de-mulher-negra-expulsa-de-voo)
 - [Após extradição e prisão, Thiago Brennand chega ao Brasil](https://www.nexojornal.com.br/extra/2023/04/29/Ap%C3%B3s-extradi%C3%A7%C3%A3o-e-pris%C3%A3o-Thiago-Brennand-chega-ao-Brasil)
 - [Os tiktoks que imitam filmes de Wes Anderson na vida real](https://www.nexojornal.com.br/expresso/2023/04/29/Os-tiktoks-que-imitam-filmes-de-Wes-Anderson-na-vida-real)
 - [5 livros para ler com crianças e entender a Amazônia](https://www.nexojornal.com.br/estante/favoritos/2023/04/29/5-livros-para-ler-com-crian%C3%A7as-e-entender-a-Amaz%C3%B4nia)
 - [As perspectivas sobre a exploração de lítio nos Andes bolivianos](https://www.nexojornal.com.br/externo/2023/04/29/As-perspectivas-sobre-a-explora%C3%A7%C3%A3o-de-l%C3%ADtio-nos-Andes-bolivianos)
-- [Como países regulam o uso de redes sociais por crianças](https://www.nexojornal.com.br/expresso/2023/04/29/Como-pa%C3%ADses-regulam-o-uso-de-redes-sociais-por-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
