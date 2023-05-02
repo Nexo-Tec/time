@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Qual a graça de odiar um robô?](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/qual-a-graca-de-odiar-um-robo/)
 - [Adoro meu emprego, detesto meu trabalho](https://gamarevista.uol.com.br/colunistas/fernando-luna/adoro-meu-emprego-detesto-meu-trabalho/)
 - [@amarinasena](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amarinasena/)
 - [Quem quer sentimento?](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quem-quer-sentimento/)
 - [Paola Carosella no “Café da Manhã”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/paola-carosella-no-cafe-da-manha/)
-- [Os cartuns de Pedro Vinicio](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-cartuns-de-pedro-vinicio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
