@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação com EUA, Reino Unido e Brasil fecha site da dark web](https://www.nexojornal.com.br/extra/2023/05/02/Opera%C3%A7%C3%A3o-com-EUA-Reino-Unido-e-Brasil-fecha-site-da-dark-web)
-- [Alexandre de Moraes manda PF ouvir chefes de big techs no Brasil](https://www.nexojornal.com.br/extra/2023/05/02/Alexandre-de-Moraes-manda-PF-ouvir-chefes-de-big-techs-no-Brasil)
-- [Roteiristas de Hollywood entram em greve por aumento](https://www.nexojornal.com.br/extra/2023/05/02/Roteiristas-de-Hollywood-entram-em-greve-por-aumento)
-- [O PL das Fake News e o poder das big techs no debate público](https://www.nexojornal.com.br/expresso/2023/05/02/O-PL-das-Fake-News-e-o-poder-das-big-techs-no-debate-p%C3%BAblico)
-- [Ser mulher negra no Brasil: há perigo na esquina](https://www.nexojornal.com.br/colunistas/2023/Ser-mulher-negra-no-Brasil-h%C3%A1-perigo-na-esquina)
+- [Garimpeiros morrem em ação da polícia em terra Yanomami](https://www.nexojornal.com.br/extra/2023/05/01/Garimpeiros-morrem-em-a%C3%A7%C3%A3o-da-pol%C3%ADcia-em-terra-Yanomami)
+- [Paraguai: Peña é eleito e mantém Partido Colorado no poder](https://www.nexojornal.com.br/extra/2023/04/30/Paraguai-Pe%C3%B1a-%C3%A9-eleito-e-mant%C3%A9m-Partido-Colorado-no-poder)
+- [O que Pagu tem a ver com a chegada da soja no Brasil](https://www.nexojornal.com.br/expresso/2023/04/30/O-que-Pagu-tem-a-ver-com-a-chegada-da-soja-no-Brasil)
+- [Como combater a degradação florestal na Amazônia](https://www.nexojornal.com.br/externo/2023/04/30/Como-combater-a-degrada%C3%A7%C3%A3o-florestal-na-Amaz%C3%B4nia)
+- [Como e quando o governo Lula foi alertado sobre o 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/04/30/Como-e-quando-o-governo-Lula-foi-alertado-sobre-o-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
