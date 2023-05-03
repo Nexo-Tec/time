@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação com EUA, Reino Unido e Brasil fecha site da dark web](https://www.nexojornal.com.br/extra/2023/05/02/Opera%C3%A7%C3%A3o-com-EUA-Reino-Unido-e-Brasil-fecha-site-da-dark-web)
-- [Alexandre de Moraes manda PF ouvir chefes de big techs no Brasil](https://www.nexojornal.com.br/extra/2023/05/02/Alexandre-de-Moraes-manda-PF-ouvir-chefes-de-big-techs-no-Brasil)
 - [Roteiristas de Hollywood entram em greve por aumento](https://www.nexojornal.com.br/extra/2023/05/02/Roteiristas-de-Hollywood-entram-em-greve-por-aumento)
 - [O PL das Fake News e o poder das big techs no debate público](https://www.nexojornal.com.br/expresso/2023/05/02/O-PL-das-Fake-News-e-o-poder-das-big-techs-no-debate-p%C3%BAblico)
 - [Ser mulher negra no Brasil: há perigo na esquina](https://www.nexojornal.com.br/colunistas/2023/Ser-mulher-negra-no-Brasil-h%C3%A1-perigo-na-esquina)
+- [PL das Fake News: relator acusa big techs de abuso de poder](https://www.nexojornal.com.br/extra/2023/05/02/PL-das-Fake-News-relator-acusa-big-techs-de-abuso-de-poder)
+- [As ações do Congresso que minam as leis de cotas eleitorais](https://www.nexojornal.com.br/expresso/2023/05/01/As-a%C3%A7%C3%B5es-do-Congresso-que-minam-as-leis-de-cotas-eleitorais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
