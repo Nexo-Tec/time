@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Garimpeiros morrem em ação da polícia em terra Yanomami](https://www.nexojornal.com.br/extra/2023/05/01/Garimpeiros-morrem-em-a%C3%A7%C3%A3o-da-pol%C3%ADcia-em-terra-Yanomami)
-- [Paraguai: Peña é eleito e mantém Partido Colorado no poder](https://www.nexojornal.com.br/extra/2023/04/30/Paraguai-Pe%C3%B1a-%C3%A9-eleito-e-mant%C3%A9m-Partido-Colorado-no-poder)
-- [O que Pagu tem a ver com a chegada da soja no Brasil](https://www.nexojornal.com.br/expresso/2023/04/30/O-que-Pagu-tem-a-ver-com-a-chegada-da-soja-no-Brasil)
-- [Como combater a degradação florestal na Amazônia](https://www.nexojornal.com.br/externo/2023/04/30/Como-combater-a-degrada%C3%A7%C3%A3o-florestal-na-Amaz%C3%B4nia)
-- [Como e quando o governo Lula foi alertado sobre o 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/04/30/Como-e-quando-o-governo-Lula-foi-alertado-sobre-o-8-de-janeiro)
+- [As obras de arte escondidas nas bordas de livros antigos](https://www.nexojornal.com.br/expresso/2023/05/02/As-obras-de-arte-escondidas-nas-bordas-de-livros-antigos)
+- [É hora de fazer mais pela infância e adolescência](https://www.nexojornal.com.br/colunistas/2023/%C3%89-hora-de-fazer-mais-pela-inf%C3%A2ncia-e-adolesc%C3%AAncia)
+- [Ações administrativas e judiciais viram opção ao PL das Fake News](https://www.nexojornal.com.br/extra/2023/05/02/A%C3%A7%C3%B5es-administrativas-e-judiciais-viram-op%C3%A7%C3%A3o-ao-PL-das-Fake-News)
+- [Corpos na floresta: violência e obstáculos na ação antigarimpo](https://www.nexojornal.com.br/podcast/2023/05/02/Corpos-na-floresta-viol%C3%AAncia-e-obst%C3%A1culos-na-a%C3%A7%C3%A3o-antigarimpo)
+- [Operação com EUA, Reino Unido e Brasil fecha site da dark web](https://www.nexojornal.com.br/extra/2023/05/02/Opera%C3%A7%C3%A3o-com-EUA-Reino-Unido-e-Brasil-fecha-site-da-dark-web)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
