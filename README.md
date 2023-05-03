@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como criar um pet ecológico](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-criar-um-pet-ecologico/)
 - [Miá Mello indica dez livros escritos por mulheres](https://gamarevista.uol.com.br/estilo-de-vida/mia-mello-indica-dez-livros-escritos-por-mulheres/)
 - [Qual a graça de odiar um robô?](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/qual-a-graca-de-odiar-um-robo/)
 - [Adoro meu emprego, detesto meu trabalho](https://gamarevista.uol.com.br/colunistas/fernando-luna/adoro-meu-emprego-detesto-meu-trabalho/)
 - [@amarinasena](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amarinasena/)
-- [Quem quer sentimento?](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quem-quer-sentimento/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
