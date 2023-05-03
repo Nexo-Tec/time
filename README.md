@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Novo acordo de biodiversidade visa mudar nossa relação com a natureza](https://pp.nexojornal.com.br/opiniao/2023/Novo-acordo-de-biodiversidade-visa-mudar-nossa-rela%C3%A7%C3%A3o-com-a-natureza)
+- [Por que o volume de trabalho dos professores é tão desigual no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/Por-que-o-volume-de-trabalho-dos-professores-%C3%A9-t%C3%A3o-desigual-no-Brasil)
+- [Patrimônio histórico da humanidade de quem? O caso do Centro Histórico de São Luís](https://pp.nexojornal.com.br/ponto-de-vista/2023/Patrim%C3%B4nio-hist%C3%B3rico-da-humanidade-de-quem-O-caso-do-Centro-Hist%C3%B3rico-de-S%C3%A3o-Lu%C3%ADs)
 - [Quais os principais fatores que provocam a falta de professores](https://pp.nexojornal.com.br/ponto-de-vista/2023/Quais-os-principais-fatores-que-provocam-a-falta-de-professores)
 - [O legado de Ana Teberosky para a educação](https://pp.nexojornal.com.br/opiniao/2023/O-legado-de-Ana-Teberosky-para-a-educa%C3%A7%C3%A3o)
-- [Hiato de desempenho educacional entre negros e brancos](https://pp.nexojornal.com.br/bibliografia-basica/2023/04/26/Hiato-de-desempenho-educacional-entre-negros-e-brancos)
-- [O partido e o governo: a história de uma relação tensa](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-partido-e-o-governo-a-hist%C3%B3ria-de-uma-rela%C3%A7%C3%A3o-tensa)
-- [Notas sobre a retomada visual Yanomami](https://pp.nexojornal.com.br/opiniao/2023/Notas-sobre-a-retomada-visual-Yanomami)
 <!-- PP_LIST:END -->
 
