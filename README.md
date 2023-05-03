@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As obras de arte escondidas nas bordas de livros antigos](https://www.nexojornal.com.br/expresso/2023/05/02/As-obras-de-arte-escondidas-nas-bordas-de-livros-antigos)
-- [É hora de fazer mais pela infância e adolescência](https://www.nexojornal.com.br/colunistas/2023/%C3%89-hora-de-fazer-mais-pela-inf%C3%A2ncia-e-adolesc%C3%AAncia)
-- [Ações administrativas e judiciais viram opção ao PL das Fake News](https://www.nexojornal.com.br/extra/2023/05/02/A%C3%A7%C3%B5es-administrativas-e-judiciais-viram-op%C3%A7%C3%A3o-ao-PL-das-Fake-News)
-- [Corpos na floresta: violência e obstáculos na ação antigarimpo](https://www.nexojornal.com.br/podcast/2023/05/02/Corpos-na-floresta-viol%C3%AAncia-e-obst%C3%A1culos-na-a%C3%A7%C3%A3o-antigarimpo)
-- [Operação com EUA, Reino Unido e Brasil fecha site da dark web](https://www.nexojornal.com.br/extra/2023/05/02/Opera%C3%A7%C3%A3o-com-EUA-Reino-Unido-e-Brasil-fecha-site-da-dark-web)
+- [Roteiristas de Hollywood entram em greve por aumento](https://www.nexojornal.com.br/extra/2023/05/02/Roteiristas-de-Hollywood-entram-em-greve-por-aumento)
+- [O PL das Fake News e o poder das big techs no debate público](https://www.nexojornal.com.br/expresso/2023/05/02/O-PL-das-Fake-News-e-o-poder-das-big-techs-no-debate-p%C3%BAblico)
+- [Ser mulher negra no Brasil: há perigo na esquina](https://www.nexojornal.com.br/colunistas/2023/Ser-mulher-negra-no-Brasil-h%C3%A1-perigo-na-esquina)
+- [PL das Fake News: relator acusa big techs de abuso de poder](https://www.nexojornal.com.br/extra/2023/05/02/PL-das-Fake-News-relator-acusa-big-techs-de-abuso-de-poder)
+- [As ações do Congresso que minam as leis de cotas eleitorais](https://www.nexojornal.com.br/expresso/2023/05/01/As-a%C3%A7%C3%B5es-do-Congresso-que-minam-as-leis-de-cotas-eleitorais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
