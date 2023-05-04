@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto que busca recuperar recifes com obras de arte](https://www.nexojornal.com.br/expresso/2023/05/03/O-projeto-que-busca-recuperar-recifes-com-obras-de-arte)
-- [Mesmo sob pressão, Banco Central mantém juros em 13,75%](https://www.nexojornal.com.br/extra/2023/05/03/Mesmo-sob-press%C3%A3o-Banco-Central-mant%C3%A9m-juros-em-1375)
-- [Brasil volta a exigir visto de turistas dos EUA e de mais 3 países](https://www.nexojornal.com.br/extra/2023/05/03/Brasil-volta-a-exigir-visto-de-turistas-dos-EUA-e-de-mais-3-pa%C3%ADses)
-- [Rússia acusa Ucrânia de ataque com drones ao Kremlin](https://www.nexojornal.com.br/extra/2023/05/03/R%C3%BAssia-acusa-Ucr%C3%A2nia-de-ataque-com-drones-ao-Kremlin)
-- [Supremo confirma suspensão de boa-fé no mercado de ouro](https://www.nexojornal.com.br/extra/2023/05/03/Supremo-confirma-suspens%C3%A3o-de-boa-f%C3%A9-no-mercado-de-ouro)
+- [STF forma maioria para anular perdão a Daniel Silveira](https://www.nexojornal.com.br/extra/2023/05/04/STF-forma-maioria-para-anular-perd%C3%A3o-a-Daniel-Silveira)
+- [Rachadinhas: uma sombra cada vez maior sobre Carlos Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/04/Rachadinhas-uma-sombra-cada-vez-maior-sobre-Carlos-Bolsonaro)
+- [Mendonça recua e valida julgamento que beneficia governo](https://www.nexojornal.com.br/extra/2023/05/04/Mendon%C3%A7a-recua-e-valida-julgamento-que-beneficia-governo)
+- [TSE cassa prefeito de Brusque e torna Hang inelegível](https://www.nexojornal.com.br/extra/2023/05/04/TSE-cassa-prefeito-de-Brusque-e-torna-Hang-ineleg%C3%ADvel)
+- [A importância das obras de Jorge Amado em russo na URSS](https://www.nexojornal.com.br/academico/2023/05/04/A-import%C3%A2ncia-das-obras-de-Jorge-Amado-em-russo-na-URSS)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
