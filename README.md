@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O projeto que busca recuperar recifes com obras de arte](https://www.nexojornal.com.br/expresso/2023/05/03/O-projeto-que-busca-recuperar-recifes-com-obras-de-arte)
-- [Mesmo sob pressão, Banco Central mantém juros em 13,75%](https://www.nexojornal.com.br/extra/2023/05/03/Mesmo-sob-press%C3%A3o-Banco-Central-mant%C3%A9m-juros-em-1375)
-- [Brasil volta a exigir visto de turistas dos EUA e de mais 3 países](https://www.nexojornal.com.br/extra/2023/05/03/Brasil-volta-a-exigir-visto-de-turistas-dos-EUA-e-de-mais-3-pa%C3%ADses)
-- [Rússia acusa Ucrânia de ataque com drones ao Kremlin](https://www.nexojornal.com.br/extra/2023/05/03/R%C3%BAssia-acusa-Ucr%C3%A2nia-de-ataque-com-drones-ao-Kremlin)
-- [Supremo confirma suspensão de boa-fé no mercado de ouro](https://www.nexojornal.com.br/extra/2023/05/03/Supremo-confirma-suspens%C3%A3o-de-boa-f%C3%A9-no-mercado-de-ouro)
+- [As obras de arte escondidas nas bordas de livros antigos](https://www.nexojornal.com.br/expresso/2023/05/02/As-obras-de-arte-escondidas-nas-bordas-de-livros-antigos)
+- [É hora de fazer mais pela infância e adolescência](https://www.nexojornal.com.br/colunistas/2023/%C3%89-hora-de-fazer-mais-pela-inf%C3%A2ncia-e-adolesc%C3%AAncia)
+- [Ações administrativas e judiciais viram opção ao PL das Fake News](https://www.nexojornal.com.br/extra/2023/05/02/A%C3%A7%C3%B5es-administrativas-e-judiciais-viram-op%C3%A7%C3%A3o-ao-PL-das-Fake-News)
+- [Corpos na floresta: violência e obstáculos na ação antigarimpo](https://www.nexojornal.com.br/podcast/2023/05/02/Corpos-na-floresta-viol%C3%AAncia-e-obst%C3%A1culos-na-a%C3%A7%C3%A3o-antigarimpo)
+- [Operação com EUA, Reino Unido e Brasil fecha site da dark web](https://www.nexojornal.com.br/extra/2023/05/02/Opera%C3%A7%C3%A3o-com-EUA-Reino-Unido-e-Brasil-fecha-site-da-dark-web)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
