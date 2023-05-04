@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Como criar um pet ecológico](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-criar-um-pet-ecologico/)
-- [Miá Mello indica dez livros escritos por mulheres](https://gamarevista.uol.com.br/estilo-de-vida/mia-mello-indica-dez-livros-escritos-por-mulheres/)
-- [Qual a graça de odiar um robô?](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/qual-a-graca-de-odiar-um-robo/)
-- [Adoro meu emprego, detesto meu trabalho](https://gamarevista.uol.com.br/colunistas/fernando-luna/adoro-meu-emprego-detesto-meu-trabalho/)
-- [@amarinasena](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amarinasena/)
+- [Drauzio Varella entrevista](https://gamarevista.uol.com.br/achamos-que-vale/assistir/drauzio-varella-entrevista/)
+- [O racismo na seleção para emprego](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-racismo-na-selecao-para-emprego/)
+- [Um perfil de Annie Ernaux por Rachel Cusk](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-de-annie-ernaux-por-rachel-cusk/)
+- [Jessie Ware, a incendiária](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/jessie-ware-a-incendiaria/)
+- [Keri Russell, de espiã a diplomata](https://gamarevista.uol.com.br/achamos-que-vale/assistir/keri-russell-de-espia-a-diplomata/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
