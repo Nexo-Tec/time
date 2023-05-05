@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um camponês, um hippie, um gênio](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-campones-um-hippie-um-genio/)
 - [Meu Irmão, Eu Mesmo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/meu-irmao-eu-mesmo/)
 - [Drauzio Varella entrevista](https://gamarevista.uol.com.br/achamos-que-vale/assistir/drauzio-varella-entrevista/)
 - [O racismo na seleção para emprego](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-racismo-na-selecao-para-emprego/)
 - [Um perfil de Annie Ernaux por Rachel Cusk](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-perfil-de-annie-ernaux-por-rachel-cusk/)
-- [Jessie Ware, a incendiária](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/jessie-ware-a-incendiaria/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
