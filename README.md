@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação contra Bolsonaro: adequação e efeitos sob análise](https://www.nexojornal.com.br/expresso/2023/05/04/Opera%C3%A7%C3%A3o-contra-Bolsonaro-adequa%C3%A7%C3%A3o-e-efeitos-sob-an%C3%A1lise)
 - [Quais os efeitos de manter o GSI nas mãos dos militares](https://www.nexojornal.com.br/expresso/2023/05/03/Quais-os-efeitos-de-manter-o-GSI-nas-m%C3%A3os-dos-militares)
 - [O ponto-chave que divide governo e BC no debate sobre os juros](https://www.nexojornal.com.br/expresso/2023/05/03/O-ponto-chave-que-divide-governo-e-BC-no-debate-sobre-os-juros)
 - [Câmara barra decretos de Lula que mudam marco do saneamento](https://www.nexojornal.com.br/extra/2023/05/03/C%C3%A2mara-barra-decretos-de-Lula-que-mudam-marco-do-saneamento)
 - [O que nos deixa com cabelos brancos](https://www.nexojornal.com.br/colunistas/2023/O-que-nos-deixa-com-cabelos-brancos)
+- [A confusão para fraudar o cartão de vacina, segundo a PF](https://www.nexojornal.com.br/podcast/2023/05/03/A-confus%C3%A3o-para-fraudar-o-cart%C3%A3o-de-vacina-segundo-a-PF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
