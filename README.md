@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Dois anos de políticas públicas no Jacarezinho após a maior chacina policial da história do estado do Rio de Janeiro](https://pp.nexojornal.com.br/ponto-de-vista/2023/Dois-anos-de-pol%C3%ADticas-p%C3%BAblicas-no-Jacarezinho-ap%C3%B3s-a-maior-chacina-policial-da-hist%C3%B3ria-do-estado-do-Rio-de-Janeiro)
 - [A Universidade face aos desafios da fome e da insegurança alimentar](https://pp.nexojornal.com.br/opiniao/2023/A-Universidade-face-aos-desafios-da-fome-e-da-inseguran%C3%A7a-alimentar)
 - [Há correspondência entre professor-aluno de mesma cor/raça?](https://pp.nexojornal.com.br/opiniao/2023/H%C3%A1-correspond%C3%AAncia-entre-professor-aluno-de-mesma-corra%C3%A7a)
 - [Potencialidades, limites e desafios do uso da inteligência artificial nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/05/03/Potencialidades-limites-e-desafios-do-uso-da-intelig%C3%AAncia-artificial-nas-pol%C3%ADticas-p%C3%BAblicas)
 - [Novo acordo de biodiversidade visa mudar nossa relação com a natureza](https://pp.nexojornal.com.br/opiniao/2023/Novo-acordo-de-biodiversidade-visa-mudar-nossa-rela%C3%A7%C3%A3o-com-a-natureza)
+- [Por que o volume de trabalho dos professores é tão desigual no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/Por-que-o-volume-de-trabalho-dos-professores-%C3%A9-t%C3%A3o-desigual-no-Brasil)
 <!-- PP_LIST:END -->
 
