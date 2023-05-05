@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STF forma maioria para anular perdão a Daniel Silveira](https://www.nexojornal.com.br/extra/2023/05/04/STF-forma-maioria-para-anular-perd%C3%A3o-a-Daniel-Silveira)
-- [Rachadinhas: uma sombra cada vez maior sobre Carlos Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/04/Rachadinhas-uma-sombra-cada-vez-maior-sobre-Carlos-Bolsonaro)
-- [Mendonça recua e valida julgamento que beneficia governo](https://www.nexojornal.com.br/extra/2023/05/04/Mendon%C3%A7a-recua-e-valida-julgamento-que-beneficia-governo)
-- [TSE cassa prefeito de Brusque e torna Hang inelegível](https://www.nexojornal.com.br/extra/2023/05/04/TSE-cassa-prefeito-de-Brusque-e-torna-Hang-ineleg%C3%ADvel)
-- [A importância das obras de Jorge Amado em russo na URSS](https://www.nexojornal.com.br/academico/2023/05/04/A-import%C3%A2ncia-das-obras-de-Jorge-Amado-em-russo-na-URSS)
+- [Os personagens da Baixada Fluminense no caso da falsa vacinação](https://www.nexojornal.com.br/expresso/2023/05/04/Os-personagens-da-Baixada-Fluminense-no-caso-da-falsa-vacina%C3%A7%C3%A3o)
+- [Games e infância: dos jogos em si às comunidades tóxicas](https://www.nexojornal.com.br/externo/2023/05/04/Games-e-inf%C3%A2ncia-dos-jogos-em-si-%C3%A0s-comunidades-t%C3%B3xicas)
+- [Como está a articulação do governo Lula no Congresso](https://www.nexojornal.com.br/expresso/2023/05/04/Como-est%C3%A1-a-articula%C3%A7%C3%A3o-do-governo-Lula-no-Congresso)
+- [As espécies de pinguins e as colônias avistadas na Antártida](https://www.nexojornal.com.br/grafico/2023/05/04/As-esp%C3%A9cies-de-pinguins-e-as-col%C3%B4nias-avistadas-na-Ant%C3%A1rtida)
+- [Com preferência por Pix, bancos vão acabar com DOC em 2024](https://www.nexojornal.com.br/extra/2023/05/04/Com-prefer%C3%AAncia-por-Pix-bancos-v%C3%A3o-acabar-com-DOC-em-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
