@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A Universidade face aos desafios da fome e da insegurança alimentar](https://pp.nexojornal.com.br/opiniao/2023/A-Universidade-face-aos-desafios-da-fome-e-da-inseguran%C3%A7a-alimentar)
-- [Há correspondência entre professor-aluno de mesma cor/raça?](https://pp.nexojornal.com.br/opiniao/2023/H%C3%A1-correspond%C3%AAncia-entre-professor-aluno-de-mesma-corra%C3%A7a)
-- [Potencialidades, limites e desafios do uso da inteligência artificial nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/05/03/Potencialidades-limites-e-desafios-do-uso-da-intelig%C3%AAncia-artificial-nas-pol%C3%ADticas-p%C3%BAblicas)
-- [Novo acordo de biodiversidade visa mudar nossa relação com a natureza](https://pp.nexojornal.com.br/opiniao/2023/Novo-acordo-de-biodiversidade-visa-mudar-nossa-rela%C3%A7%C3%A3o-com-a-natureza)
-- [Por que o volume de trabalho dos professores é tão desigual no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/Por-que-o-volume-de-trabalho-dos-professores-%C3%A9-t%C3%A3o-desigual-no-Brasil)
+- [9 pontos sobre como a biodiversidade e a agropecuária estão relacionadas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/9-pontos-sobre-como-a-biodiversidade-e-a-agropecu%C3%A1ria-est%C3%A3o-relacionadas)
+- [A neoliberalização da floresta amazônica no Baixo Tapajós &lpar;Pará&rpar;](https://pp.nexojornal.com.br/academico/2023/A-neoliberaliza%C3%A7%C3%A3o-da-floresta-amaz%C3%B4nica-no-Baixo-Tapaj%C3%B3s-Par%C3%A1)
+- [Sociologia e a trajetória de W. E. B. Du Bois](https://pp.nexojornal.com.br/bibliografia-basica/2023/05/05/Sociologia-e-a-trajet%C3%B3ria-de-W.-E.-B.-Du-Bois)
+- [A presença afro-religiosa na Política Nacional de Promoção da Igualdade Racial](https://pp.nexojornal.com.br/academico/2023/A-presen%C3%A7a-afro-religiosa-na-Pol%C3%ADtica-Nacional-de-Promo%C3%A7%C3%A3o-da-Igualdade-Racial)
+- [O Rap enquanto reorganizador da memória dos sujeitos negros e periféricos](https://pp.nexojornal.com.br/opiniao/2023/O-Rap-enquanto-reorganizador-da-mem%C3%B3ria-dos-sujeitos-negros-e-perif%C3%A9ricos)
 <!-- PP_LIST:END -->
 
