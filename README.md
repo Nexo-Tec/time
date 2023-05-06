@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Carlos Bolsonaro recebeu R$ 91 mil em depósitos sem origem](https://www.nexojornal.com.br/extra/2023/05/05/Carlos-Bolsonaro-recebeu-R-91-mil-em-dep%C3%B3sitos-sem-origem)
-- [O cerco a Bolsonaro. Os reveses de Lula no Congresso. E mais](https://www.nexojornal.com.br/video/extrato/O-cerco-a-Bolsonaro.-Os-reveses-de-Lula-no-Congresso.-E-mais)
-- [Por que os conselhos de Kurt Vonnegut ainda são importantes](https://www.nexojornal.com.br/externo/2023/05/05/Por-que-os-conselhos-de-Kurt-Vonnegut-ainda-s%C3%A3o-importantes)
-- [Como a Anatel aparece no impasse sobre o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/05/Como-a-Anatel-aparece-no-impasse-sobre-o-PL-das-Fake-News)
-- [Reino Unido anuncia doação para Fundo Amazônia](https://www.nexojornal.com.br/extra/2023/05/05/Reino-Unido-anuncia-doa%C3%A7%C3%A3o-para-Fundo-Amaz%C3%B4nia)
+- [A indefinição de Biden com o fim da política migratória de Trump](https://www.nexojornal.com.br/expresso/2023/05/05/A-indefini%C3%A7%C3%A3o-de-Biden-com-o-fim-da-pol%C3%ADtica-migrat%C3%B3ria-de-Trump)
+- [O percentual de apoio dos britânicos à monarquia](https://www.nexojornal.com.br/grafico/2023/05/05/O-percentual-de-apoio-dos-brit%C3%A2nicos-%C3%A0-monarquia)
+- [‘Uma mulher singular’: diários de uma vida urbana](https://www.nexojornal.com.br/estante/trechos/2023/05/05/%E2%80%98Uma-mulher-singular%E2%80%99-di%C3%A1rios-de-uma-vida-urbana)
+- [A ofensiva contra a médica que facilitou o serviço de aborto legal](https://www.nexojornal.com.br/externo/2023/05/05/A-ofensiva-contra-a-m%C3%A9dica-que-facilitou-o-servi%C3%A7o-de-aborto-legal)
+- [Qual a situação dos auxiliares e aliados de Bolsonaro presos](https://www.nexojornal.com.br/expresso/2023/05/05/Qual-a-situa%C3%A7%C3%A3o-dos-auxiliares-e-aliados-de-Bolsonaro-presos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
