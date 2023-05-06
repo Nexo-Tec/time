@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STF forma maioria para anular perdão a Daniel Silveira](https://www.nexojornal.com.br/extra/2023/05/04/STF-forma-maioria-para-anular-perd%C3%A3o-a-Daniel-Silveira)
-- [Rachadinhas: uma sombra cada vez maior sobre Carlos Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/04/Rachadinhas-uma-sombra-cada-vez-maior-sobre-Carlos-Bolsonaro)
-- [Mendonça recua e valida julgamento que beneficia governo](https://www.nexojornal.com.br/extra/2023/05/04/Mendon%C3%A7a-recua-e-valida-julgamento-que-beneficia-governo)
-- [TSE cassa prefeito de Brusque e torna Hang inelegível](https://www.nexojornal.com.br/extra/2023/05/04/TSE-cassa-prefeito-de-Brusque-e-torna-Hang-ineleg%C3%ADvel)
-- [A importância das obras de Jorge Amado em russo na URSS](https://www.nexojornal.com.br/academico/2023/05/04/A-import%C3%A2ncia-das-obras-de-Jorge-Amado-em-russo-na-URSS)
+- [Carlos Bolsonaro recebeu R$ 91 mil em depósitos sem origem](https://www.nexojornal.com.br/extra/2023/05/05/Carlos-Bolsonaro-recebeu-R-91-mil-em-dep%C3%B3sitos-sem-origem)
+- [O cerco a Bolsonaro. Os reveses de Lula no Congresso. E mais](https://www.nexojornal.com.br/video/extrato/O-cerco-a-Bolsonaro.-Os-reveses-de-Lula-no-Congresso.-E-mais)
+- [Por que os conselhos de Kurt Vonnegut ainda são importantes](https://www.nexojornal.com.br/externo/2023/05/05/Por-que-os-conselhos-de-Kurt-Vonnegut-ainda-s%C3%A3o-importantes)
+- [Como a Anatel aparece no impasse sobre o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/05/Como-a-Anatel-aparece-no-impasse-sobre-o-PL-das-Fake-News)
+- [Reino Unido anuncia doação para Fundo Amazônia](https://www.nexojornal.com.br/extra/2023/05/05/Reino-Unido-anuncia-doa%C3%A7%C3%A3o-para-Fundo-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
