@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os personagens da Baixada Fluminense no caso da falsa vacinação](https://www.nexojornal.com.br/expresso/2023/05/04/Os-personagens-da-Baixada-Fluminense-no-caso-da-falsa-vacina%C3%A7%C3%A3o)
-- [Games e infância: dos jogos em si às comunidades tóxicas](https://www.nexojornal.com.br/externo/2023/05/04/Games-e-inf%C3%A2ncia-dos-jogos-em-si-%C3%A0s-comunidades-t%C3%B3xicas)
-- [Como está a articulação do governo Lula no Congresso](https://www.nexojornal.com.br/expresso/2023/05/04/Como-est%C3%A1-a-articula%C3%A7%C3%A3o-do-governo-Lula-no-Congresso)
-- [As espécies de pinguins e as colônias avistadas na Antártida](https://www.nexojornal.com.br/grafico/2023/05/04/As-esp%C3%A9cies-de-pinguins-e-as-col%C3%B4nias-avistadas-na-Ant%C3%A1rtida)
-- [Com preferência por Pix, bancos vão acabar com DOC em 2024](https://www.nexojornal.com.br/extra/2023/05/04/Com-prefer%C3%AAncia-por-Pix-bancos-v%C3%A3o-acabar-com-DOC-em-2024)
+- [A indefinição de Biden com o fim da política migratória de Trump](https://www.nexojornal.com.br/expresso/2023/05/05/A-indefini%C3%A7%C3%A3o-de-Biden-com-o-fim-da-pol%C3%ADtica-migrat%C3%B3ria-de-Trump)
+- [O percentual de apoio dos britânicos à monarquia](https://www.nexojornal.com.br/grafico/2023/05/05/O-percentual-de-apoio-dos-brit%C3%A2nicos-%C3%A0-monarquia)
+- [‘Uma mulher singular’: diários de uma vida urbana](https://www.nexojornal.com.br/estante/trechos/2023/05/05/%E2%80%98Uma-mulher-singular%E2%80%99-di%C3%A1rios-de-uma-vida-urbana)
+- [A ofensiva contra a médica que facilitou o serviço de aborto legal](https://www.nexojornal.com.br/externo/2023/05/05/A-ofensiva-contra-a-m%C3%A9dica-que-facilitou-o-servi%C3%A7o-de-aborto-legal)
+- [Qual a situação dos auxiliares e aliados de Bolsonaro presos](https://www.nexojornal.com.br/expresso/2023/05/05/Qual-a-situa%C3%A7%C3%A3o-dos-auxiliares-e-aliados-de-Bolsonaro-presos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
