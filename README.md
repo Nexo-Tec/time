@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os personagens da Baixada Fluminense no caso da falsa vacinação](https://www.nexojornal.com.br/expresso/2023/05/04/Os-personagens-da-Baixada-Fluminense-no-caso-da-falsa-vacina%C3%A7%C3%A3o)
-- [Games e infância: dos jogos em si às comunidades tóxicas](https://www.nexojornal.com.br/externo/2023/05/04/Games-e-inf%C3%A2ncia-dos-jogos-em-si-%C3%A0s-comunidades-t%C3%B3xicas)
-- [Como está a articulação do governo Lula no Congresso](https://www.nexojornal.com.br/expresso/2023/05/04/Como-est%C3%A1-a-articula%C3%A7%C3%A3o-do-governo-Lula-no-Congresso)
-- [As espécies de pinguins e as colônias avistadas na Antártida](https://www.nexojornal.com.br/grafico/2023/05/04/As-esp%C3%A9cies-de-pinguins-e-as-col%C3%B4nias-avistadas-na-Ant%C3%A1rtida)
-- [Com preferência por Pix, bancos vão acabar com DOC em 2024](https://www.nexojornal.com.br/extra/2023/05/04/Com-prefer%C3%AAncia-por-Pix-bancos-v%C3%A3o-acabar-com-DOC-em-2024)
+- [Carlos Bolsonaro recebeu R$ 91 mil em depósitos sem origem](https://www.nexojornal.com.br/extra/2023/05/05/Carlos-Bolsonaro-recebeu-R-91-mil-em-dep%C3%B3sitos-sem-origem)
+- [O cerco a Bolsonaro. Os reveses de Lula no Congresso. E mais](https://www.nexojornal.com.br/video/extrato/O-cerco-a-Bolsonaro.-Os-reveses-de-Lula-no-Congresso.-E-mais)
+- [Por que os conselhos de Kurt Vonnegut ainda são importantes](https://www.nexojornal.com.br/externo/2023/05/05/Por-que-os-conselhos-de-Kurt-Vonnegut-ainda-s%C3%A3o-importantes)
+- [Como a Anatel aparece no impasse sobre o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/05/Como-a-Anatel-aparece-no-impasse-sobre-o-PL-das-Fake-News)
+- [Reino Unido anuncia doação para Fundo Amazônia](https://www.nexojornal.com.br/extra/2023/05/05/Reino-Unido-anuncia-doa%C3%A7%C3%A3o-para-Fundo-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
