@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A indefinição de Biden com o fim da política migratória de Trump](https://www.nexojornal.com.br/expresso/2023/05/05/A-indefini%C3%A7%C3%A3o-de-Biden-com-o-fim-da-pol%C3%ADtica-migrat%C3%B3ria-de-Trump)
-- [O percentual de apoio dos britânicos à monarquia](https://www.nexojornal.com.br/grafico/2023/05/05/O-percentual-de-apoio-dos-brit%C3%A2nicos-%C3%A0-monarquia)
-- [‘Uma mulher singular’: diários de uma vida urbana](https://www.nexojornal.com.br/estante/trechos/2023/05/05/%E2%80%98Uma-mulher-singular%E2%80%99-di%C3%A1rios-de-uma-vida-urbana)
-- [A ofensiva contra a médica que facilitou o serviço de aborto legal](https://www.nexojornal.com.br/externo/2023/05/05/A-ofensiva-contra-a-m%C3%A9dica-que-facilitou-o-servi%C3%A7o-de-aborto-legal)
-- [Qual a situação dos auxiliares e aliados de Bolsonaro presos](https://www.nexojornal.com.br/expresso/2023/05/05/Qual-a-situa%C3%A7%C3%A3o-dos-auxiliares-e-aliados-de-Bolsonaro-presos)
+- [5 livros para se refletir sobre aspectos linguísticos do Brasil](https://www.nexojornal.com.br/estante/favoritos/2023/05/07/5-livros-para-se-refletir-sobre-aspectos-lingu%C3%ADsticos-do-Brasil)
+- [Integração: palavra-chave para salvar o bugio-ruivo](https://www.nexojornal.com.br/externo/2023/05/07/Integra%C3%A7%C3%A3o-palavra-chave-para-salvar-o-bugio-ruivo)
+- [Qual é o estado da democracia nos países da Ásia Central](https://www.nexojornal.com.br/expresso/2023/05/07/Qual-%C3%A9-o-estado-da-democracia-nos-pa%C3%ADses-da-%C3%81sia-Central)
+- [Por que países querem nacionalizar a exploração de lítio](https://www.nexojornal.com.br/expresso/2023/05/07/Por-que-pa%C3%ADses-querem-nacionalizar-a-explora%C3%A7%C3%A3o-de-l%C3%ADtio)
+- [Gênero neutro: discussão é metáfora para o que vivemos](https://www.nexojornal.com.br/ensaio/2023/05/07/G%C3%AAnero-neutro-discuss%C3%A3o-%C3%A9-met%C3%A1fora-para-o-que-vivemos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
