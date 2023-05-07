@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Corpo é encontrado com sinais de violência em terra Yanomami](https://www.nexojornal.com.br/extra/2023/05/06/Corpo-%C3%A9-encontrado-com-sinais-de-viol%C3%AAncia-em-terra-Yanomami)
+- [Entre atos antimonarquistas, Rei Charles 3° é coroado](https://www.nexojornal.com.br/extra/2023/05/06/Entre-atos-antimonarquistas-Rei-Charles-3%C2%B0-%C3%A9-coroado)
 - [A indefinição de Biden com o fim da política migratória de Trump](https://www.nexojornal.com.br/expresso/2023/05/05/A-indefini%C3%A7%C3%A3o-de-Biden-com-o-fim-da-pol%C3%ADtica-migrat%C3%B3ria-de-Trump)
 - [O percentual de apoio dos britânicos à monarquia](https://www.nexojornal.com.br/grafico/2023/05/05/O-percentual-de-apoio-dos-brit%C3%A2nicos-%C3%A0-monarquia)
 - [‘Uma mulher singular’: diários de uma vida urbana](https://www.nexojornal.com.br/estante/trechos/2023/05/05/%E2%80%98Uma-mulher-singular%E2%80%99-di%C3%A1rios-de-uma-vida-urbana)
-- [A ofensiva contra a médica que facilitou o serviço de aborto legal](https://www.nexojornal.com.br/externo/2023/05/05/A-ofensiva-contra-a-m%C3%A9dica-que-facilitou-o-servi%C3%A7o-de-aborto-legal)
-- [Qual a situação dos auxiliares e aliados de Bolsonaro presos](https://www.nexojornal.com.br/expresso/2023/05/05/Qual-a-situa%C3%A7%C3%A3o-dos-auxiliares-e-aliados-de-Bolsonaro-presos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
