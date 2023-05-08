@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Peru confirma 27 mortes em incêndio em mina de ouro](https://www.nexojornal.com.br/extra/2023/05/08/Peru-confirma-27-mortes-em-inc%C3%AAndio-em-mina-de-ouro)
-- [Extrema direita vence eleição para conselho constituinte no Chile](https://www.nexojornal.com.br/extra/2023/05/08/Extrema-direita-vence-elei%C3%A7%C3%A3o-para-conselho-constituinte-no-Chile)
 - [Limite considerado como consumo moderado de álcool cai no mundo](https://www.nexojornal.com.br/externo/2023/05/07/Limite-considerado-como-consumo-moderado-de-%C3%A1lcool-cai-no-mundo)
 - [O caso que pode mudar os rumos da discussão sobre aborto](https://www.nexojornal.com.br/ensaio/2023/05/07/O-caso-que-pode-mudar-os-rumos-da-discuss%C3%A3o-sobre-aborto)
 - [O que o PL das Fake News prevê sobre apps de mensagens](https://www.nexojornal.com.br/expresso/2023/05/07/O-que-o-PL-das-Fake-News-prev%C3%AA-sobre-apps-de-mensagens)
+- [‘Governo não tem capital político em duas pautas ao mesmo tempo’](https://www.nexojornal.com.br/entrevista/2023/05/07/%E2%80%98Governo-n%C3%A3o-tem-capital-pol%C3%ADtico-em-duas-pautas-ao-mesmo-tempo%E2%80%99)
+- [STF forma maioria para tornar rés mais 250 pessoas pelo 8/1](https://www.nexojornal.com.br/extra/2023/05/07/STF-forma-maioria-para-tornar-r%C3%A9s-mais-250-pessoas-pelo-81)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
