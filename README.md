@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para se refletir sobre aspectos linguísticos do Brasil](https://www.nexojornal.com.br/estante/favoritos/2023/05/07/5-livros-para-se-refletir-sobre-aspectos-lingu%C3%ADsticos-do-Brasil)
-- [Integração: palavra-chave para salvar o bugio-ruivo](https://www.nexojornal.com.br/externo/2023/05/07/Integra%C3%A7%C3%A3o-palavra-chave-para-salvar-o-bugio-ruivo)
-- [Qual é o estado da democracia nos países da Ásia Central](https://www.nexojornal.com.br/expresso/2023/05/07/Qual-%C3%A9-o-estado-da-democracia-nos-pa%C3%ADses-da-%C3%81sia-Central)
-- [Por que países querem nacionalizar a exploração de lítio](https://www.nexojornal.com.br/expresso/2023/05/07/Por-que-pa%C3%ADses-querem-nacionalizar-a-explora%C3%A7%C3%A3o-de-l%C3%ADtio)
-- [Gênero neutro: discussão é metáfora para o que vivemos](https://www.nexojornal.com.br/ensaio/2023/05/07/G%C3%AAnero-neutro-discuss%C3%A3o-%C3%A9-met%C3%A1fora-para-o-que-vivemos)
+- [Limite considerado como consumo moderado de álcool cai no mundo](https://www.nexojornal.com.br/externo/2023/05/07/Limite-considerado-como-consumo-moderado-de-%C3%A1lcool-cai-no-mundo)
+- [O caso que pode mudar os rumos da discussão sobre aborto](https://www.nexojornal.com.br/ensaio/2023/05/07/O-caso-que-pode-mudar-os-rumos-da-discuss%C3%A3o-sobre-aborto)
+- [O que o PL das Fake News prevê sobre apps de mensagens](https://www.nexojornal.com.br/expresso/2023/05/07/O-que-o-PL-das-Fake-News-prev%C3%AA-sobre-apps-de-mensagens)
+- [‘Governo não tem capital político em duas pautas ao mesmo tempo’](https://www.nexojornal.com.br/entrevista/2023/05/07/%E2%80%98Governo-n%C3%A3o-tem-capital-pol%C3%ADtico-em-duas-pautas-ao-mesmo-tempo%E2%80%99)
+- [STF forma maioria para tornar rés mais 250 pessoas pelo 8/1](https://www.nexojornal.com.br/extra/2023/05/07/STF-forma-maioria-para-tornar-r%C3%A9s-mais-250-pessoas-pelo-81)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
