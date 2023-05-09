@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O IPTU como instrumento de arrecadação e equidade tributária nas cidades, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-IPTU-como-instrumento-de-arrecada%C3%A7%C3%A3o-e-equidade-tribut%C3%A1ria-nas-cidades-em-5-pontos)
 - [9 pontos sobre como a biodiversidade e a agropecuária estão relacionadas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/9-pontos-sobre-como-a-biodiversidade-e-a-agropecu%C3%A1ria-est%C3%A3o-relacionadas)
 - [A neoliberalização da floresta amazônica no Baixo Tapajós &lpar;Pará&rpar;](https://pp.nexojornal.com.br/academico/2023/A-neoliberaliza%C3%A7%C3%A3o-da-floresta-amaz%C3%B4nica-no-Baixo-Tapaj%C3%B3s-Par%C3%A1)
 - [Sociologia e a trajetória de W. E. B. Du Bois](https://pp.nexojornal.com.br/bibliografia-basica/2023/05/05/Sociologia-e-a-trajet%C3%B3ria-de-W.-E.-B.-Du-Bois)
 - [A presença afro-religiosa na Política Nacional de Promoção da Igualdade Racial](https://pp.nexojornal.com.br/academico/2023/A-presen%C3%A7a-afro-religiosa-na-Pol%C3%ADtica-Nacional-de-Promo%C3%A7%C3%A3o-da-Igualdade-Racial)
+- [O Rap enquanto reorganizador da memória dos sujeitos negros e periféricos](https://pp.nexojornal.com.br/opiniao/2023/O-Rap-enquanto-reorganizador-da-mem%C3%B3ria-dos-sujeitos-negros-e-perif%C3%A9ricos)
 <!-- PP_LIST:END -->
 
