@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Peru confirma 27 mortes em incêndio em mina de ouro](https://www.nexojornal.com.br/extra/2023/05/08/Peru-confirma-27-mortes-em-inc%C3%AAndio-em-mina-de-ouro)
-- [Extrema direita vence eleição para conselho constituinte no Chile](https://www.nexojornal.com.br/extra/2023/05/08/Extrema-direita-vence-elei%C3%A7%C3%A3o-para-conselho-constituinte-no-Chile)
-- [Limite considerado como consumo moderado de álcool cai no mundo](https://www.nexojornal.com.br/externo/2023/05/07/Limite-considerado-como-consumo-moderado-de-%C3%A1lcool-cai-no-mundo)
-- [O caso que pode mudar os rumos da discussão sobre aborto](https://www.nexojornal.com.br/ensaio/2023/05/07/O-caso-que-pode-mudar-os-rumos-da-discuss%C3%A3o-sobre-aborto)
-- [O que o PL das Fake News prevê sobre apps de mensagens](https://www.nexojornal.com.br/expresso/2023/05/07/O-que-o-PL-das-Fake-News-prev%C3%AA-sobre-apps-de-mensagens)
+- [Morre ex-deputado federal David Miranda aos 37 anos](https://www.nexojornal.com.br/extra/2023/05/09/Morre-ex-deputado-federal-David-Miranda-aos-37-anos)
+- [A tentativa de reabilitar a Síria no mundo árabe](https://www.nexojornal.com.br/expresso/2023/05/08/A-tentativa-de-reabilitar-a-S%C3%ADria-no-mundo-%C3%A1rabe)
+- [O que caracteriza o descontrole da violência na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/05/08/O-que-caracteriza-o-descontrole-da-viol%C3%AAncia-na-terra-Yanomami)
+- [Como softwares que imitam cantores desafiam direitos autorais](https://www.nexojornal.com.br/expresso/2023/05/08/Como-softwares-que-imitam-cantores-desafiam-direitos-autorais)
+- [Rússia faz ofensiva aérea na véspera do Dia da Vitória](https://www.nexojornal.com.br/extra/2023/05/08/R%C3%BAssia-faz-ofensiva-a%C3%A9rea-na-v%C3%A9spera-do-Dia-da-Vit%C3%B3ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
