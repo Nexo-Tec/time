@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A tarefa de reconstruir a participação social nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-tarefa-de-reconstruir-a-participa%C3%A7%C3%A3o-social-nas-pol%C3%ADticas-p%C3%BAblicas)
-- [Responsabilidade geral e jurídica](https://pp.nexojornal.com.br/bibliografia-basica/2023/05/09/Responsabilidade-geral-e-jur%C3%ADdica)
-- [O calendário brasileiro e a legislação sobre feriados civis e religiosos](https://pp.nexojornal.com.br/linha-do-tempo/2023/O-calend%C3%A1rio-brasileiro-e-a-legisla%C3%A7%C3%A3o-sobre-feriados-civis-e-religiosos)
-- [Como usar evidência de avaliações na formulação e adaptação de políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-usar-evid%C3%AAncia-de-avalia%C3%A7%C3%B5es-na-formula%C3%A7%C3%A3o-e-adapta%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas)
 - [O IPTU como instrumento de arrecadação e equidade tributária nas cidades, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-IPTU-como-instrumento-de-arrecada%C3%A7%C3%A3o-e-equidade-tribut%C3%A1ria-nas-cidades-em-5-pontos)
+- [9 pontos sobre como a biodiversidade e a agropecuária estão relacionadas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/9-pontos-sobre-como-a-biodiversidade-e-a-agropecu%C3%A1ria-est%C3%A3o-relacionadas)
+- [A neoliberalização da floresta amazônica no Baixo Tapajós &lpar;Pará&rpar;](https://pp.nexojornal.com.br/academico/2023/A-neoliberaliza%C3%A7%C3%A3o-da-floresta-amaz%C3%B4nica-no-Baixo-Tapaj%C3%B3s-Par%C3%A1)
+- [Sociologia e a trajetória de W. E. B. Du Bois](https://pp.nexojornal.com.br/bibliografia-basica/2023/05/05/Sociologia-e-a-trajet%C3%B3ria-de-W.-E.-B.-Du-Bois)
+- [A presença afro-religiosa na Política Nacional de Promoção da Igualdade Racial](https://pp.nexojornal.com.br/academico/2023/A-presen%C3%A7a-afro-religiosa-na-Pol%C3%ADtica-Nacional-de-Promo%C3%A7%C3%A3o-da-Igualdade-Racial)
 <!-- PP_LIST:END -->
 
