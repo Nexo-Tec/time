@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pela luz dos olhos meus](https://gamarevista.uol.com.br/colunistas/marcello-dantas/pela-luz-dos-olhos-meus/)
 - [Histórias que transbordam na vida do país](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/historias-que-transbordam-na-vida-do-pais/)
 - [Garrafa de água motivacional](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garrafa-de-agua-motivacional/)
 - [@malhassaum](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/malhassaum/)
 - [Lola Aronovich: “O masculinismo é um tipo de fake news”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/lola-aronovich-fala-da-relacao-entre-masculinismo-e-fake-news/)
-- [Um camponês, um hippie, um gênio](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-campones-um-hippie-um-genio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
