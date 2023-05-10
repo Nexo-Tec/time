@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Telegram distorce fatos para atacar o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/10/Como-o-Telegram-distorce-fatos-para-atacar-o-PL-das-Fake-News)
-- [Por que a crise bancária dos EUA divide opiniões](https://www.nexojornal.com.br/expresso/2023/05/09/Por-que-a-crise-banc%C3%A1ria-dos-EUA-divide-opini%C3%B5es)
-- [Como Dino se tornou o ministro de Lula mais popular na internet](https://www.nexojornal.com.br/expresso/2023/05/09/Como-Dino-se-tornou-o-ministro-de-Lula-mais-popular-na-internet)
 - [Remuneração de imprensa e artistas vai para outro projeto](https://www.nexojornal.com.br/extra/2023/05/09/Remunera%C3%A7%C3%A3o-de-imprensa-e-artistas-vai-para-outro-projeto)
 - [‘Rita Lee narrou a história político-social da juventude do Brasil’](https://www.nexojornal.com.br/expresso/2023/05/09/%E2%80%98Rita-Lee-narrou-a-hist%C3%B3ria-pol%C3%ADtico-social-da-juventude-do-Brasil%E2%80%99)
+- [A tentativa de Lula de retomar parte do controle da Eletrobras](https://www.nexojornal.com.br/podcast/2023/05/09/A-tentativa-de-Lula-de-retomar-parte-do-controle-da-Eletrobras)
+- [A produção do censo inédito dos oceanos por cientistas](https://www.nexojornal.com.br/expresso/2023/05/09/A-produ%C3%A7%C3%A3o-do-censo-in%C3%A9dito-dos-oceanos-por-cientistas)
+- [Trump é condenado a indenizar jornalista por abuso sexual](https://www.nexojornal.com.br/extra/2023/05/09/Trump-%C3%A9-condenado-a-indenizar-jornalista-por-abuso-sexual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
