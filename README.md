@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Telegram distorce fatos para atacar o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/10/Como-o-Telegram-distorce-fatos-para-atacar-o-PL-das-Fake-News)
-- [Por que a crise bancária dos EUA divide opiniões](https://www.nexojornal.com.br/expresso/2023/05/09/Por-que-a-crise-banc%C3%A1ria-dos-EUA-divide-opini%C3%B5es)
-- [Como Dino se tornou o ministro de Lula mais popular na internet](https://www.nexojornal.com.br/expresso/2023/05/09/Como-Dino-se-tornou-o-ministro-de-Lula-mais-popular-na-internet)
-- [Remuneração de imprensa e artistas vai para outro projeto](https://www.nexojornal.com.br/extra/2023/05/09/Remunera%C3%A7%C3%A3o-de-imprensa-e-artistas-vai-para-outro-projeto)
-- [‘Rita Lee narrou a história político-social da juventude do Brasil’](https://www.nexojornal.com.br/expresso/2023/05/09/%E2%80%98Rita-Lee-narrou-a-hist%C3%B3ria-pol%C3%ADtico-social-da-juventude-do-Brasil%E2%80%99)
+- [A tentativa de reabilitar a Síria no mundo árabe](https://www.nexojornal.com.br/expresso/2023/05/08/A-tentativa-de-reabilitar-a-S%C3%ADria-no-mundo-%C3%A1rabe)
+- [O que caracteriza o descontrole da violência na terra Yanomami](https://www.nexojornal.com.br/expresso/2023/05/08/O-que-caracteriza-o-descontrole-da-viol%C3%AAncia-na-terra-Yanomami)
+- [Como softwares que imitam cantores desafiam direitos autorais](https://www.nexojornal.com.br/expresso/2023/05/08/Como-softwares-que-imitam-cantores-desafiam-direitos-autorais)
+- [Rússia faz ofensiva aérea na véspera do Dia da Vitória](https://www.nexojornal.com.br/extra/2023/05/08/R%C3%BAssia-faz-ofensiva-a%C3%A9rea-na-v%C3%A9spera-do-Dia-da-Vit%C3%B3ria)
+- [Os avanços e reveses da extrema direita na América do Sul](https://www.nexojornal.com.br/podcast/2023/05/08/Os-avan%C3%A7os-e-reveses-da-extrema-direita-na-Am%C3%A9rica-do-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
