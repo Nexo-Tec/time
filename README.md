@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Centenas de fãs prestam homenagem a Rita Lee em velório](https://www.nexojornal.com.br/extra/2023/05/10/Centenas-de-f%C3%A3s-prestam-homenagem-a-Rita-Lee-em-vel%C3%B3rio)
 - [Como o Telegram distorce fatos para atacar o PL das Fake News](https://www.nexojornal.com.br/expresso/2023/05/10/Como-o-Telegram-distorce-fatos-para-atacar-o-PL-das-Fake-News)
-- [Por que a crise bancária dos EUA divide opiniões](https://www.nexojornal.com.br/expresso/2023/05/09/Por-que-a-crise-banc%C3%A1ria-dos-EUA-divide-opini%C3%B5es)
+- [Por que a gravidade da crise bancária dos EUA divide economistas](https://www.nexojornal.com.br/expresso/2023/05/09/Por-que-a-gravidade-da-crise-banc%C3%A1ria-dos-EUA-divide-economistas)
 - [Como Dino se tornou o ministro de Lula mais popular na internet](https://www.nexojornal.com.br/expresso/2023/05/09/Como-Dino-se-tornou-o-ministro-de-Lula-mais-popular-na-internet)
-- [Remuneração de imprensa e artistas vai para outro projeto](https://www.nexojornal.com.br/extra/2023/05/09/Remunera%C3%A7%C3%A3o-de-imprensa-e-artistas-vai-para-outro-projeto)
-- [‘Rita Lee narrou a história político-social da juventude do Brasil’](https://www.nexojornal.com.br/expresso/2023/05/09/%E2%80%98Rita-Lee-narrou-a-hist%C3%B3ria-pol%C3%ADtico-social-da-juventude-do-Brasil%E2%80%99)
+- [Remuneração de artistas vai ficar fora do PL das Fake News](https://www.nexojornal.com.br/extra/2023/05/09/Remunera%C3%A7%C3%A3o-de-artistas-vai-ficar-fora-do-PL-das-Fake-News)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
