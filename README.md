@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [John Kennedy preto](https://gamarevista.uol.com.br/sociedade/john-kennedy-preto/)
-- [Pela luz dos olhos meus](https://gamarevista.uol.com.br/colunistas/marcello-dantas/pela-luz-dos-olhos-meus/)
-- [Histórias que transbordam na vida do país](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/historias-que-transbordam-na-vida-do-pais/)
-- [Garrafa de água motivacional](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/garrafa-de-agua-motivacional/)
-- [@malhassaum](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/malhassaum/)
+- [Uma entrevista definitiva com a Rita Lee dos anos 1980](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-entrevista-definitiva-com-a-rita-lee-dos-anos-1980/)
+- [As andanças de Vivian Gornick em novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-andancas-de-vivian-gornick-em-novo-livro/)
+- [Wanderléa estreia no choro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/wanderlea-estreia-no-choro/)
+- [Krenak e Baniwa na montagem de “O Guarani”](https://gamarevista.uol.com.br/achamos-que-vale/ir/krenak-e-baniwa-na-montagem-de-o-guarani/)
+- [Mostra “Bará”, de Gustavo Nazareno, celebra Exu](https://gamarevista.uol.com.br/achamos-que-vale/ir/mostra-bara-de-gustavo-nazareno-celebra-exu/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
