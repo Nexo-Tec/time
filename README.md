@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes mandar soltar Torres, suspeito de se omitir em 8 de janeiro](https://www.nexojornal.com.br/extra/2023/05/11/Moraes-mandar-soltar-Torres-suspeito-de-se-omitir-em-8-de-janeiro)
+- [Política migratória adotada por Trump perde validade](https://www.nexojornal.com.br/extra/2023/05/11/Pol%C3%ADtica-migrat%C3%B3ria-adotada-por-Trump-perde-validade)
+- [TSE multa Nikolas e outros bolsonaristas por fake news](https://www.nexojornal.com.br/extra/2023/05/11/TSE-multa-Nikolas-e-outros-bolsonaristas-por-fake-news)
+- [Auxílio e recuperação do emprego reduzem desigualdade no Brasil](https://www.nexojornal.com.br/extra/2023/05/11/Aux%C3%ADlio-e-recupera%C3%A7%C3%A3o-do-emprego-reduzem-desigualdade-no-Brasil)
 - [Procuradoria-Geral quer inquérito contra Google e Telegram](https://www.nexojornal.com.br/extra/2023/05/11/Procuradoria-Geral-quer-inqu%C3%A9rito-contra-Google-e-Telegram)
-- [O que é a Jihad Islâmica, pivô dos bombardeios de Israel](https://www.nexojornal.com.br/expresso/2023/05/11/O-que-%C3%A9-a-Jihad-Isl%C3%A2mica-piv%C3%B4-dos-bombardeios-de-Israel)
-- [Moraes na ofensiva: da contenção do golpismo ao freio nas big techs](https://www.nexojornal.com.br/expresso/2023/05/10/Moraes-na-ofensiva-da-conten%C3%A7%C3%A3o-do-golpismo-ao-freio-nas-big-techs)
-- [A homologação de terras indígenas no Brasil, por governo](https://www.nexojornal.com.br/grafico/2023/05/10/A-homologa%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas-no-Brasil-por-governo)
-- [Como o escândalo das apostas abala a imagem do futebol](https://www.nexojornal.com.br/expresso/2023/05/10/Como-o-esc%C3%A2ndalo-das-apostas-abala-a-imagem-do-futebol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
