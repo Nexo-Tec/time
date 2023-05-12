@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procuradoria-Geral quer inquérito contra Google e Telegram](https://www.nexojornal.com.br/extra/2023/05/11/Procuradoria-Geral-quer-inqu%C3%A9rito-contra-Google-e-Telegram)
-- [O que é a Jihad Islâmica, pivô dos bombardeios de Israel](https://www.nexojornal.com.br/expresso/2023/05/11/O-que-%C3%A9-a-Jihad-Isl%C3%A2mica-piv%C3%B4-dos-bombardeios-de-Israel)
-- [Moraes na ofensiva: da contenção do golpismo ao freio nas big techs](https://www.nexojornal.com.br/expresso/2023/05/10/Moraes-na-ofensiva-da-conten%C3%A7%C3%A3o-do-golpismo-ao-freio-nas-big-techs)
-- [A homologação de terras indígenas no Brasil, por governo](https://www.nexojornal.com.br/grafico/2023/05/10/A-homologa%C3%A7%C3%A3o-de-terras-ind%C3%ADgenas-no-Brasil-por-governo)
-- [Como o escândalo das apostas abala a imagem do futebol](https://www.nexojornal.com.br/expresso/2023/05/10/Como-o-esc%C3%A2ndalo-das-apostas-abala-a-imagem-do-futebol)
+- [Como a oposição ameaça a manutenção de Erdogan no poder](https://www.nexojornal.com.br/expresso/2023/05/11/Como-a-oposi%C3%A7%C3%A3o-amea%C3%A7a-a-manuten%C3%A7%C3%A3o-de-Erdogan-no-poder)
+- [‘Regulamentar apostas é básico para combater manipulação’](https://www.nexojornal.com.br/entrevista/2023/05/11/%E2%80%98Regulamentar-apostas-%C3%A9-b%C3%A1sico-para-combater-manipula%C3%A7%C3%A3o%E2%80%99)
+- [A expressão e a criação das crianças e jovens no universo digital](https://www.nexojornal.com.br/colunistas/2023/A-express%C3%A3o-e-a-cria%C3%A7%C3%A3o-das-crian%C3%A7as-e-jovens-no-universo-digital)
+- [Os caminhos para que big techs remunerem artistas e imprensa](https://www.nexojornal.com.br/expresso/2023/05/11/Os-caminhos-para-que-big-techs-remunerem-artistas-e-imprensa)
+- [O empresariado que ajudou a financiar a invasão dos Poderes](https://www.nexojornal.com.br/podcast/2023/05/11/O-empresariado-que-ajudou-a-financiar-a-invas%C3%A3o-dos-Poderes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
