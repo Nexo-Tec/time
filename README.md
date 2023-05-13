@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Light pede recuperação judicial com dívidas de R$ 11 bi](https://www.nexojornal.com.br/extra/2023/05/12/Light-pede-recupera%C3%A7%C3%A3o-judicial-com-d%C3%ADvidas-de-R-11-bi)
-- [O que há na proposta de uma Comissão da Verdade Indígena](https://www.nexojornal.com.br/expresso/2023/05/12/O-que-h%C3%A1-na-proposta-de-uma-Comiss%C3%A3o-da-Verdade-Ind%C3%ADgena)
-- [PF apreende celular de chefe de presentes de Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/12/PF-apreende-celular-de-chefe-de-presentes-de-Bolsonaro)
-- [Como a oposição ameaça a manutenção de Erdogan no poder](https://www.nexojornal.com.br/expresso/2023/05/11/Como-a-oposi%C3%A7%C3%A3o-amea%C3%A7a-a-manuten%C3%A7%C3%A3o-de-Erdogan-no-poder)
-- [‘Regulamentar apostas é básico para combater manipulação’](https://www.nexojornal.com.br/entrevista/2023/05/11/%E2%80%98Regulamentar-apostas-%C3%A9-b%C3%A1sico-para-combater-manipula%C3%A7%C3%A3o%E2%80%99)
+- [Mensagens indicam esquema para pagar gastos de Michelle, diz portal](https://www.nexojornal.com.br/extra/2023/05/13/Mensagens-indicam-esquema-para-pagar-gastos-de-Michelle-diz-portal)
+- [O que é meta contínua de inflação, defendida por Haddad](https://www.nexojornal.com.br/expresso/2023/05/12/O-que-%C3%A9-meta-cont%C3%ADnua-de-infla%C3%A7%C3%A3o-defendida-por-Haddad)
+- [Quem é a Mãe Beata de Iemanjá, homenageada na Flup](https://www.nexojornal.com.br/expresso/2023/05/12/Quem-%C3%A9-a-M%C3%A3e-Beata-de-Iemanj%C3%A1-homenageada-na-Flup)
+- [As polêmicas do novo embaixador da Ucrânia no Brasil](https://www.nexojornal.com.br/expresso/2023/05/12/As-pol%C3%AAmicas-do-novo-embaixador-da-Ucr%C3%A2nia-no-Brasil)
+- [‘O caminho da autocracia’: o mundo sob ameaça](https://www.nexojornal.com.br/estante/2023/05/12/%E2%80%98O-caminho-da-autocracia%E2%80%99-o-mundo-sob-amea%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
