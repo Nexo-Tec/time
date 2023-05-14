@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Miá Mello: “Ter filhos é perder o controle”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mia-mello-fala-sobre-a-experiencia-de-ser-mae/)
 - [O Sentido da Vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-sentido-da-vida/)
 - [Aline Midlej](https://gamarevista.uol.com.br/pessoas/questionario-proust/aline-midlej/)
 - [Uma entrevista definitiva com a Rita Lee dos anos 1980](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-entrevista-definitiva-com-a-rita-lee-dos-anos-1980/)
 - [As andanças de Vivian Gornick em novo livro](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-andancas-de-vivian-gornick-em-novo-livro/)
-- [Wanderléa estreia no choro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/wanderlea-estreia-no-choro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
