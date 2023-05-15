@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que mudou na articulação política brasileira](https://www.nexojornal.com.br/expresso/2023/05/13/O-que-mudou-na-articula%C3%A7%C3%A3o-pol%C3%ADtica-brasileira)
-- [5 livros para explorar as possibilidades do romance epistolar](https://www.nexojornal.com.br/estante/favoritos/2023/05/13/5-livros-para-explorar-as-possibilidades-do-romance-epistolar)
-- [Como as ondas de calor na Índia contribuem para a desigualdade](https://www.nexojornal.com.br/externo/2023/05/13/Como-as-ondas-de-calor-na-%C3%8Dndia-contribuem-para-a-desigualdade)
-- [O custo de ser mãe no Brasil: para mulheres negras é mais caro](https://www.nexojornal.com.br/ensaio/2023/05/13/O-custo-de-ser-m%C3%A3e-no-Brasil-para-mulheres-negras-%C3%A9-mais-caro)
-- [O que são redes de apoio a mães. E qual a sua importância](https://www.nexojornal.com.br/expresso/2023/05/13/O-que-s%C3%A3o-redes-de-apoio-a-m%C3%A3es.-E-qual-a-sua-import%C3%A2ncia)
+- [Petrobras discute nova política de preços de combustíveis](https://www.nexojornal.com.br/extra/2023/05/14/Petrobras-discute-nova-pol%C3%ADtica-de-pre%C3%A7os-de-combust%C3%ADveis)
+- [O que mudou na internet desde que o Marco Civil foi aprovado](https://www.nexojornal.com.br/expresso/2023/05/14/O-que-mudou-na-internet-desde-que-o-Marco-Civil-foi-aprovado)
+- [‘Visibilidade de primeiras-damas assusta políticos’](https://www.nexojornal.com.br/entrevista/2023/05/14/%E2%80%98Visibilidade-de-primeiras-damas-assusta-pol%C3%ADticos%E2%80%99)
+- [Mais barreiras para evitar ataques cibernéticos](https://www.nexojornal.com.br/externo/2023/05/14/Mais-barreiras-para-evitar-ataques-cibern%C3%A9ticos)
+- [Já chamou o faraó? A agenda conservadora na Cultura](https://www.nexojornal.com.br/ensaio/2023/05/14/J%C3%A1-chamou-o-fara%C3%B3-A-agenda-conservadora-na-Cultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
