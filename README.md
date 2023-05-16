@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Gaby Benicio](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gaby-benicio/)
 - [@vccachorro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vccachorro/)
 - [Miá Mello: “Ter filhos é perder o controle”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mia-mello-fala-sobre-a-experiencia-de-ser-mae/)
 - [O Sentido da Vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-sentido-da-vida/)
 - [Aline Midlej](https://gamarevista.uol.com.br/pessoas/questionario-proust/aline-midlej/)
-- [Uma entrevista definitiva com a Rita Lee dos anos 1980](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-entrevista-definitiva-com-a-rita-lee-dos-anos-1980/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
