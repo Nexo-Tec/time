@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [9 pontos sobre como a biodiversidade e a agropecuária estão relacionadas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/9-pontos-sobre-como-a-biodiversidade-e-a-agropecu%C3%A1ria-est%C3%A3o-relacionadas1)
+- [O papel das secretarias de educação na redução das desigualdades](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-das-secretarias-de-educa%C3%A7%C3%A3o-na-redu%C3%A7%C3%A3o-das-desigualdades)
+- [Du Bois e o feminismo negro](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-e-o-feminismo-negro)
 - [Gênero e ciência](https://pp.nexojornal.com.br/glossario/G%C3%AAnero-e-ci%C3%AAncia)
 - [A Comissão Interamericana de Direitos Humanos e o enfrentamento da violência policial no Brasil](https://pp.nexojornal.com.br/academico/2023/A-Comiss%C3%A3o-Interamericana-de-Direitos-Humanos-e-o-enfrentamento-da-viol%C3%AAncia-policial-no-Brasil)
-- [Por que fortalecer a produção de alimentos também nas cidades](https://pp.nexojornal.com.br/opiniao/2023/Por-que-fortalecer-a-produ%C3%A7%C3%A3o-de-alimentos-tamb%C3%A9m-nas-cidades)
-- [Acordo de não persecução penal como alternativa ao sistema carcerário brasileiro?](https://pp.nexojornal.com.br/opiniao/2023/Acordo-de-n%C3%A3o-persecu%C3%A7%C3%A3o-penal-como-alternativa-ao-sistema-carcer%C3%A1rio-brasileiro)
-- [A tarefa de reconstruir a participação social nas políticas públicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-tarefa-de-reconstruir-a-participa%C3%A7%C3%A3o-social-nas-pol%C3%ADticas-p%C3%BAblicas)
 <!-- PP_LIST:END -->
 
