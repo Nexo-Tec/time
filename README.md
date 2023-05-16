@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Petrobras anuncia fim da política de paridade de preços](https://www.nexojornal.com.br/extra/2023/05/16/Petrobras-anuncia-fim-da-pol%C3%ADtica-de-paridade-de-pre%C3%A7os)
 - [Como mercenários viraram um problema para Putin na guerra](https://www.nexojornal.com.br/expresso/2023/05/15/Como-mercen%C3%A1rios-viraram-um-problema-para-Putin-na-guerra)
 - [Mauro Cid, dinheiro vivo e as contas da família Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/15/Mauro-Cid-dinheiro-vivo-e-as-contas-da-fam%C3%ADlia-Bolsonaro)
 - [O repositório do Iphan que reúne bens culturais imateriais](https://www.nexojornal.com.br/expresso/2023/05/15/O-reposit%C3%B3rio-do-Iphan-que-re%C3%BAne-bens-culturais-imateriais)
 - [Dólar fecha a R$ 4,88, menor valor desde junho de 2022](https://www.nexojornal.com.br/extra/2023/05/15/D%C3%B3lar-fecha-a-R-488-menor-valor-desde-junho-de-2022)
-- [Violência nas escolas: se o afeto é causa, também é solução](https://www.nexojornal.com.br/ensaio/2023/05/15/Viol%C3%AAncia-nas-escolas-se-o-afeto-%C3%A9-causa-tamb%C3%A9m-%C3%A9-solu%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
