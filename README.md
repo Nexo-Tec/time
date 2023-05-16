@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vereador gaúcho que atacou baianos se livra de cassação](https://www.nexojornal.com.br/extra/2023/05/16/Vereador-ga%C3%BAcho-que-atacou-baianos-se-livra-de-cassa%C3%A7%C3%A3o)
 - [Ações da Petrobras sobem após fim de paridade de preços](https://www.nexojornal.com.br/extra/2023/05/16/A%C3%A7%C3%B5es-da-Petrobras-sobem-ap%C3%B3s-fim-de-paridade-de-pre%C3%A7os)
 - [36 milhões não acessaram internet no Brasil em 2022](https://www.nexojornal.com.br/extra/2023/05/16/36-milh%C3%B5es-n%C3%A3o-acessaram-internet-no-Brasil-em-2022)
 - [TV e celular estão em quase todos os domicílios brasileiros](https://www.nexojornal.com.br/grafico/2023/05/16/TV-e-celular-est%C3%A3o-em-quase-todos-os-domic%C3%ADlios-brasileiros)
 - [Crianças brasileiras vão mal em teste mundial de leitura](https://www.nexojornal.com.br/extra/2023/05/16/Crian%C3%A7as-brasileiras-v%C3%A3o-mal-em-teste-mundial-de-leitura)
-- [Petrobras encerra política de paridade e reduz preços](https://www.nexojornal.com.br/extra/2023/05/16/Petrobras-encerra-pol%C3%ADtica-de-paridade-e-reduz-pre%C3%A7os)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
