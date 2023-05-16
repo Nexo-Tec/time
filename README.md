@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [STF tem maioria para tornar réus mais 245 pelo 8 de janeiro](https://www.nexojornal.com.br/extra/2023/05/15/STF-tem-maioria-para-tornar-r%C3%A9us-mais-245-pelo-8-de-janeiro)
+- [Motoristas de aplicativos paralisam atividades em capitais](https://www.nexojornal.com.br/extra/2023/05/15/Motoristas-de-aplicativos-paralisam-atividades-em-capitais)
+- [Erdogan e Kilicdaroglu disputam segundo turno na Turquia](https://www.nexojornal.com.br/extra/2023/05/15/Erdogan-e-Kilicdaroglu-disputam-segundo-turno-na-Turquia)
 - [Petrobras discute nova política de preços de combustíveis](https://www.nexojornal.com.br/extra/2023/05/14/Petrobras-discute-nova-pol%C3%ADtica-de-pre%C3%A7os-de-combust%C3%ADveis)
 - [O que mudou na internet desde que o Marco Civil foi aprovado](https://www.nexojornal.com.br/expresso/2023/05/14/O-que-mudou-na-internet-desde-que-o-Marco-Civil-foi-aprovado)
-- [‘Visibilidade de primeiras-damas assusta políticos’](https://www.nexojornal.com.br/entrevista/2023/05/14/%E2%80%98Visibilidade-de-primeiras-damas-assusta-pol%C3%ADticos%E2%80%99)
-- [Mais barreiras para evitar ataques cibernéticos](https://www.nexojornal.com.br/externo/2023/05/14/Mais-barreiras-para-evitar-ataques-cibern%C3%A9ticos)
-- [Já chamou o faraó? A agenda conservadora na Cultura](https://www.nexojornal.com.br/ensaio/2023/05/14/J%C3%A1-chamou-o-fara%C3%B3-A-agenda-conservadora-na-Cultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
