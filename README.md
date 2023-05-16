@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como mercenários viraram um problema para Putin na guerra](https://www.nexojornal.com.br/expresso/2023/05/15/Como-mercen%C3%A1rios-viraram-um-problema-para-Putin-na-guerra)
-- [Mauro Cid, dinheiro vivo e as contas da família Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/15/Mauro-Cid-dinheiro-vivo-e-as-contas-da-fam%C3%ADlia-Bolsonaro)
-- [O repositório do Iphan que reúne bens culturais imateriais](https://www.nexojornal.com.br/expresso/2023/05/15/O-reposit%C3%B3rio-do-Iphan-que-re%C3%BAne-bens-culturais-imateriais)
-- [Dólar fecha a R$ 4,88, menor valor desde junho de 2022](https://www.nexojornal.com.br/extra/2023/05/15/D%C3%B3lar-fecha-a-R-488-menor-valor-desde-junho-de-2022)
-- [Violência nas escolas: se o afeto é causa, também é solução](https://www.nexojornal.com.br/ensaio/2023/05/15/Viol%C3%AAncia-nas-escolas-se-o-afeto-%C3%A9-causa-tamb%C3%A9m-%C3%A9-solu%C3%A7%C3%A3o)
+- [STF tem maioria para tornar réus mais 245 pelo 8 de janeiro](https://www.nexojornal.com.br/extra/2023/05/15/STF-tem-maioria-para-tornar-r%C3%A9us-mais-245-pelo-8-de-janeiro)
+- [Motoristas de aplicativos paralisam atividades em capitais](https://www.nexojornal.com.br/extra/2023/05/15/Motoristas-de-aplicativos-paralisam-atividades-em-capitais)
+- [Erdogan e Kilicdaroglu disputam segundo turno na Turquia](https://www.nexojornal.com.br/extra/2023/05/15/Erdogan-e-Kilicdaroglu-disputam-segundo-turno-na-Turquia)
+- [Petrobras discute nova política de preços de combustíveis](https://www.nexojornal.com.br/extra/2023/05/14/Petrobras-discute-nova-pol%C3%ADtica-de-pre%C3%A7os-de-combust%C3%ADveis)
+- [O que mudou na internet desde que o Marco Civil foi aprovado](https://www.nexojornal.com.br/expresso/2023/05/14/O-que-mudou-na-internet-desde-que-o-Marco-Civil-foi-aprovado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
