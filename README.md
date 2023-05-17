@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Não adianta gritar, não adianta ameaçar](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/nao-adianta-gritar-nao-adianta-ameacar/)
 - [CV: Gaby Benicio](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gaby-benicio/)
 - [@vccachorro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vccachorro/)
 - [Miá Mello: “Ter filhos é perder o controle”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mia-mello-fala-sobre-a-experiencia-de-ser-mae/)
 - [O Sentido da Vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-sentido-da-vida/)
-- [Aline Midlej](https://gamarevista.uol.com.br/pessoas/questionario-proust/aline-midlej/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
