@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras anuncia fim da política de paridade de preços](https://www.nexojornal.com.br/extra/2023/05/16/Petrobras-anuncia-fim-da-pol%C3%ADtica-de-paridade-de-pre%C3%A7os)
-- [Como mercenários viraram um problema para Putin na guerra](https://www.nexojornal.com.br/expresso/2023/05/15/Como-mercen%C3%A1rios-viraram-um-problema-para-Putin-na-guerra)
-- [Mauro Cid, dinheiro vivo e as contas da família Bolsonaro](https://www.nexojornal.com.br/podcast/2023/05/15/Mauro-Cid-dinheiro-vivo-e-as-contas-da-fam%C3%ADlia-Bolsonaro)
-- [O repositório do Iphan que reúne bens culturais imateriais](https://www.nexojornal.com.br/expresso/2023/05/15/O-reposit%C3%B3rio-do-Iphan-que-re%C3%BAne-bens-culturais-imateriais)
-- [Dólar fecha a R$ 4,88, menor valor desde junho de 2022](https://www.nexojornal.com.br/extra/2023/05/15/D%C3%B3lar-fecha-a-R-488-menor-valor-desde-junho-de-2022)
+- [Vereador gaúcho que atacou baianos se livra de cassação](https://www.nexojornal.com.br/extra/2023/05/16/Vereador-ga%C3%BAcho-que-atacou-baianos-se-livra-de-cassa%C3%A7%C3%A3o)
+- [Ações da Petrobras sobem após fim de paridade de preços](https://www.nexojornal.com.br/extra/2023/05/16/A%C3%A7%C3%B5es-da-Petrobras-sobem-ap%C3%B3s-fim-de-paridade-de-pre%C3%A7os)
+- [36 milhões não acessaram internet no Brasil em 2022](https://www.nexojornal.com.br/extra/2023/05/16/36-milh%C3%B5es-n%C3%A3o-acessaram-internet-no-Brasil-em-2022)
+- [TV e celular estão em quase todos os domicílios brasileiros](https://www.nexojornal.com.br/grafico/2023/05/16/TV-e-celular-est%C3%A3o-em-quase-todos-os-domic%C3%ADlios-brasileiros)
+- [Crianças brasileiras vão mal em teste mundial de leitura](https://www.nexojornal.com.br/extra/2023/05/16/Crian%C3%A7as-brasileiras-v%C3%A3o-mal-em-teste-mundial-de-leitura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
