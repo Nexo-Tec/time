@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça manda tirar stand-up de Léo Lins do Youtube](https://www.nexojornal.com.br/extra/2023/05/17/Justi%C3%A7a-manda-tirar-stand-up-de-L%C3%A9o-Lins-do-Youtube)
-- [Os direitos de migrar e de permanecer em meio à crise climática](https://www.nexojornal.com.br/colunistas/2023/Os-direitos-de-migrar-e-de-permanecer-em-meio-%C3%A0-crise-clim%C3%A1tica)
-- [Governo e aliados usam powerpoints contra Dallagnol](https://www.nexojornal.com.br/extra/2023/05/17/Governo-e-aliados-usam-powerpoints-contra-Dallagnol)
-- [A trajetória de Dallagnol, da Lava Jato à cassação pelo TSE](https://www.nexojornal.com.br/expresso/2023/05/17/A-trajet%C3%B3ria-de-Dallagnol-da-Lava-Jato-%C3%A0-cassa%C3%A7%C3%A3o-pelo-TSE)
-- [Presidente do Equador usa ‘morte cruzada’ e dissolve Parlamento](https://www.nexojornal.com.br/extra/2023/05/17/Presidente-do-Equador-usa-%E2%80%98morte-cruzada%E2%80%99-e-dissolve-Parlamento)
+- [Vereador gaúcho que atacou baianos se livra de cassação](https://www.nexojornal.com.br/extra/2023/05/16/Vereador-ga%C3%BAcho-que-atacou-baianos-se-livra-de-cassa%C3%A7%C3%A3o)
+- [Ações da Petrobras sobem após fim de paridade de preços](https://www.nexojornal.com.br/extra/2023/05/16/A%C3%A7%C3%B5es-da-Petrobras-sobem-ap%C3%B3s-fim-de-paridade-de-pre%C3%A7os)
+- [36 milhões não acessaram internet no Brasil em 2022](https://www.nexojornal.com.br/extra/2023/05/16/36-milh%C3%B5es-n%C3%A3o-acessaram-internet-no-Brasil-em-2022)
+- [TV e celular estão em quase todos os domicílios brasileiros](https://www.nexojornal.com.br/grafico/2023/05/16/TV-e-celular-est%C3%A3o-em-quase-todos-os-domic%C3%ADlios-brasileiros)
+- [Crianças brasileiras vão mal em teste mundial de leitura](https://www.nexojornal.com.br/extra/2023/05/16/Crian%C3%A7as-brasileiras-v%C3%A3o-mal-em-teste-mundial-de-leitura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
