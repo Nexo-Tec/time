@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O novo álbum de Amanda Magalhães](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-amanda-magalhaes/)
+- [Julia Louis-Dreyfus contra o etarismo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/julia-louis-dreyfus-contra-o-etarismo/)
+- [Vinho e suspense em “Gotas Divinas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/vinho-e-suspense-em-gotas-divinas/)
+- [Fajardo e Nazareno expõem em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/fajardo-e-nazareno-expoem-em-sao-paulo/)
 - [Dicas de Transpreta para aprender mais sobre a luta contra a LGBTfobia](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dicas-de-transpreta-para-aprender-mais-sobre-a-luta-contra-a-lgbtfobia/)
-- [Não adianta gritar, não adianta ameaçar](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/nao-adianta-gritar-nao-adianta-ameacar/)
-- [CV: Gaby Benicio](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gaby-benicio/)
-- [@vccachorro](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vccachorro/)
-- [Miá Mello: “Ter filhos é perder o controle”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mia-mello-fala-sobre-a-experiencia-de-ser-mae/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
