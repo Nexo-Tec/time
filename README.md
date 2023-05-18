@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o orçamento do Sistema S é disputado pela Embratur](https://www.nexojornal.com.br/expresso/2023/05/16/Por-que-o-or%C3%A7amento-do-Sistema-S-%C3%A9-disputado-pela-Embratur)
-- [O impacto de anistiar partidos que atropelam regras eleitorais](https://www.nexojornal.com.br/expresso/2023/05/16/O-impacto-de-anistiar-partidos-que-atropelam-regras-eleitorais)
-- [Por que o resultado da eleição na Tailândia depende dos militares](https://www.nexojornal.com.br/expresso/2023/05/16/Por-que-o-resultado-da-elei%C3%A7%C3%A3o-na-Tail%C3%A2ndia-depende-dos-militares)
-- [Quais os impactos do fim da política de paridade da Petrobras](https://www.nexojornal.com.br/expresso/2023/05/16/Quais-os-impactos-do-fim-da-pol%C3%ADtica-de-paridade-da-Petrobras)
-- [Em depoimento, Bolsonaro nega participação em fraude](https://www.nexojornal.com.br/extra/2023/05/16/Em-depoimento-Bolsonaro-nega-participa%C3%A7%C3%A3o-em-fraude)
+- [A mobilização que criou o dia de combate à exploração infantil](https://www.nexojornal.com.br/expresso/2023/05/18/A-mobiliza%C3%A7%C3%A3o-que-criou-o-dia-de-combate-%C3%A0-explora%C3%A7%C3%A3o-infantil)
+- [Votos, pendências e fraude: o que pesa na cassação de Dallagnol](https://www.nexojornal.com.br/expresso/2023/05/18/Votos-pend%C3%AAncias-e-fraude-o-que-pesa-na-cassa%C3%A7%C3%A3o-de-Dallagnol)
+- [A crise que solapa o parlamento e o presidente do Equador](https://www.nexojornal.com.br/expresso/2023/05/17/A-crise-que-solapa-o-parlamento-e-o-presidente-do-Equador)
+- [Suprema Corte, polarização e a qualidade das instituições](https://www.nexojornal.com.br/colunistas/2023/Suprema-Corte-polariza%C3%A7%C3%A3o-e-a-qualidade-das-institui%C3%A7%C3%B5es)
+- [Regulação das redes: como o STF dá uma chance ao Congresso](https://www.nexojornal.com.br/podcast/2023/05/17/Regula%C3%A7%C3%A3o-das-redes-como-o-STF-d%C3%A1-uma-chance-ao-Congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
