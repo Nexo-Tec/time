@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Educação, mercado de trabalho e desigualdade racial](https://pp.nexojornal.com.br/glossario/Educa%C3%A7%C3%A3o-mercado-de-trabalho-e-desigualdade-racial)
-- [Os sentidos da ressocialização em decisões no Superior Tribunal de Justiça](https://pp.nexojornal.com.br/academico/2023/Os-sentidos-da-ressocializa%C3%A7%C3%A3o-em-decis%C3%B5es-no-Superior-Tribunal-de-Justi%C3%A7a)
-- [Garimpo e desnutrição dos Yanomami na perspectiva da pesca](https://pp.nexojornal.com.br/opiniao/2023/Garimpo-e-desnutri%C3%A7%C3%A3o-dos-Yanomami-na-perspectiva-da-pesca)
-- [O gargalo dos dados raciais para a educação infantil no Censo Escolar](https://pp.nexojornal.com.br/opiniao/2023/O-gargalo-dos-dados-raciais-para-a-educa%C3%A7%C3%A3o-infantil-no-Censo-Escolar)
-- [Du Bois no Gueto de Varsóvia: a questão judaica numa perspectiva negra](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-no-Gueto-de-Vars%C3%B3via-a-quest%C3%A3o-judaica-numa-perspectiva-negra)
+- [9 pontos sobre como a biodiversidade e a agropecuária estão relacionadas](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/9-pontos-sobre-como-a-biodiversidade-e-a-agropecu%C3%A1ria-est%C3%A3o-relacionadas1)
+- [O papel das secretarias de educação na redução das desigualdades](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-das-secretarias-de-educa%C3%A7%C3%A3o-na-redu%C3%A7%C3%A3o-das-desigualdades)
+- [Du Bois e o feminismo negro](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-e-o-feminismo-negro)
+- [Gênero e ciência](https://pp.nexojornal.com.br/glossario/G%C3%AAnero-e-ci%C3%AAncia)
+- [A Comissão Interamericana de Direitos Humanos e o enfrentamento da violência policial no Brasil](https://pp.nexojornal.com.br/academico/2023/A-Comiss%C3%A3o-Interamericana-de-Direitos-Humanos-e-o-enfrentamento-da-viol%C3%AAncia-policial-no-Brasil)
 <!-- PP_LIST:END -->
 
