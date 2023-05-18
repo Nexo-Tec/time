@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A mobilização que criou o dia de combate à exploração infantil](https://www.nexojornal.com.br/expresso/2023/05/18/A-mobiliza%C3%A7%C3%A3o-que-criou-o-dia-de-combate-%C3%A0-explora%C3%A7%C3%A3o-infantil)
-- [Votos, pendências e fraude: o que pesa na cassação de Dallagnol](https://www.nexojornal.com.br/expresso/2023/05/18/Votos-pend%C3%AAncias-e-fraude-o-que-pesa-na-cassa%C3%A7%C3%A3o-de-Dallagnol)
-- [A crise que solapa o parlamento e o presidente do Equador](https://www.nexojornal.com.br/expresso/2023/05/17/A-crise-que-solapa-o-parlamento-e-o-presidente-do-Equador)
-- [Suprema Corte, polarização e a qualidade das instituições](https://www.nexojornal.com.br/colunistas/2023/Suprema-Corte-polariza%C3%A7%C3%A3o-e-a-qualidade-das-institui%C3%A7%C3%B5es)
-- [Regulação das redes: como o STF dá uma chance ao Congresso](https://www.nexojornal.com.br/podcast/2023/05/17/Regula%C3%A7%C3%A3o-das-redes-como-o-STF-d%C3%A1-uma-chance-ao-Congresso)
+- [Abdellah Taïa: ‘Escrever livros não te salva na vida real’](https://www.nexojornal.com.br/entrevista/2023/05/17/Abdellah-Ta%C3%AFa-%E2%80%98Escrever-livros-n%C3%A3o-te-salva-na-vida-real%E2%80%99)
+- [Câmara instala CPI do MST com Ricardo Salles na relatoria](https://www.nexojornal.com.br/extra/2023/05/17/C%C3%A2mara-instala-CPI-do-MST-com-Ricardo-Salles-na-relatoria)
+- [Justiça manda tirar stand-up de Léo Lins das redes sociais](https://www.nexojornal.com.br/extra/2023/05/17/Justi%C3%A7a-manda-tirar-stand-up-de-L%C3%A9o-Lins-das-redes-sociais)
+- [Os direitos de migrar e de permanecer em meio à crise climática](https://www.nexojornal.com.br/colunistas/2023/Os-direitos-de-migrar-e-de-permanecer-em-meio-%C3%A0-crise-clim%C3%A1tica)
+- [Governo e aliados usam powerpoints contra Dallagnol](https://www.nexojornal.com.br/extra/2023/05/17/Governo-e-aliados-usam-powerpoints-contra-Dallagnol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
