@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os direitos de migrar e de permanecer em meio à crise climática](https://www.nexojornal.com.br/colunistas/2023/Os-direitos-de-migrar-e-de-permanecer-em-meio-%C3%A0-crise-clim%C3%A1tica)
-- [Governo e aliados usam powerpoints contra Dallagnol](https://www.nexojornal.com.br/extra/2023/05/17/Governo-e-aliados-usam-powerpoints-contra-Dallagnol)
-- [A trajetória de Dallagnol, da Lava Jato à cassação pelo TSE](https://www.nexojornal.com.br/expresso/2023/05/17/A-trajet%C3%B3ria-de-Dallagnol-da-Lava-Jato-%C3%A0-cassa%C3%A7%C3%A3o-pelo-TSE)
-- [Presidente do Equador usa ‘morte cruzada’ e dissolve Parlamento](https://www.nexojornal.com.br/extra/2023/05/17/Presidente-do-Equador-usa-%E2%80%98morte-cruzada%E2%80%99-e-dissolve-Parlamento)
 - [Por que o orçamento do Sistema S é disputado pela Embratur](https://www.nexojornal.com.br/expresso/2023/05/16/Por-que-o-or%C3%A7amento-do-Sistema-S-%C3%A9-disputado-pela-Embratur)
+- [O impacto de anistiar partidos que atropelam regras eleitorais](https://www.nexojornal.com.br/expresso/2023/05/16/O-impacto-de-anistiar-partidos-que-atropelam-regras-eleitorais)
+- [Por que o resultado da eleição na Tailândia depende dos militares](https://www.nexojornal.com.br/expresso/2023/05/16/Por-que-o-resultado-da-elei%C3%A7%C3%A3o-na-Tail%C3%A2ndia-depende-dos-militares)
+- [Quais os impactos do fim da política de paridade da Petrobras](https://www.nexojornal.com.br/expresso/2023/05/16/Quais-os-impactos-do-fim-da-pol%C3%ADtica-de-paridade-da-Petrobras)
+- [Em depoimento, Bolsonaro nega participação em fraude](https://www.nexojornal.com.br/extra/2023/05/16/Em-depoimento-Bolsonaro-nega-participa%C3%A7%C3%A3o-em-fraude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
