@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE multa Gabrilli e mais dois por fake news sobre Lula](https://www.nexojornal.com.br/extra/2023/05/18/TSE-multa-Gabrilli-e-mais-dois-por-fake-news-sobre-Lula)
-- [Mauro Cid fica em silêncio durante depoimento à PF](https://www.nexojornal.com.br/extra/2023/05/18/Mauro-Cid-fica-em-sil%C3%AAncio-durante-depoimento-%C3%A0-PF)
-- [Enchentes no norte da Itália deixam ao menos 13 mortos](https://www.nexojornal.com.br/extra/2023/05/18/Enchentes-no-norte-da-It%C3%A1lia-deixam-ao-menos-13-mortos)
-- [Como o impasse do teto da dívida ameaça a credibilidade dos EUA](https://www.nexojornal.com.br/expresso/2023/05/18/Como-o-impasse-do-teto-da-d%C3%ADvida-amea%C3%A7a-a-credibilidade-dos-EUA)
-- [Montana se torna 1º estado americano a banir o TikTok](https://www.nexojornal.com.br/extra/2023/05/18/Montana-se-torna-1%C2%BA-estado-americano-a-banir-o-TikTok)
+- [A mobilização que criou o dia de combate à exploração infantil](https://www.nexojornal.com.br/expresso/2023/05/18/A-mobiliza%C3%A7%C3%A3o-que-criou-o-dia-de-combate-%C3%A0-explora%C3%A7%C3%A3o-infantil)
+- [Votos, pendências e fraude: o que pesa na cassação de Dallagnol](https://www.nexojornal.com.br/expresso/2023/05/18/Votos-pend%C3%AAncias-e-fraude-o-que-pesa-na-cassa%C3%A7%C3%A3o-de-Dallagnol)
+- [A crise que solapa o parlamento e o presidente do Equador](https://www.nexojornal.com.br/expresso/2023/05/17/A-crise-que-solapa-o-parlamento-e-o-presidente-do-Equador)
+- [Suprema Corte, polarização e a qualidade das instituições](https://www.nexojornal.com.br/colunistas/2023/Suprema-Corte-polariza%C3%A7%C3%A3o-e-a-qualidade-das-institui%C3%A7%C3%B5es)
+- [Regulação das redes: como o STF dá uma chance ao Congresso](https://www.nexojornal.com.br/podcast/2023/05/17/Regula%C3%A7%C3%A3o-das-redes-como-o-STF-d%C3%A1-uma-chance-ao-Congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
