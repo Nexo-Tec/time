@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que o relator apertou e afrouxou no arcabouço fiscal](https://www.nexojornal.com.br/expresso/2023/05/18/O-que-o-relator-apertou-e-afrouxou-no-arcabou%C3%A7o-fiscal)
-- [Como o  Brasil comprou recrutas para lutar no Paraguai](https://www.nexojornal.com.br/academico/2023/05/18/Como-o-Brasil-comprou-recrutas-para-lutar-no-Paraguai)
-- [Kraftwerk, Underworld e um festival para chamar de meu](https://www.nexojornal.com.br/colunistas/2023/Kraftwerk-Underworld-e-um-festival-para-chamar-de-meu)
-- [O videogame em que o objetivo é restaurar a natureza](https://www.nexojornal.com.br/expresso/2023/05/18/O-videogame-em-que-o-objetivo-%C3%A9-restaurar-a-natureza)
-- [EUA isentam big techs de responsabilidade por publicações](https://www.nexojornal.com.br/extra/2023/05/18/EUA-isentam-big-techs-de-responsabilidade-por-publica%C3%A7%C3%B5es)
+- [A mobilização que criou o dia de combate à exploração infantil](https://www.nexojornal.com.br/expresso/2023/05/18/A-mobiliza%C3%A7%C3%A3o-que-criou-o-dia-de-combate-%C3%A0-explora%C3%A7%C3%A3o-infantil)
+- [Votos, pendências e fraude: o que pesa na cassação de Dallagnol](https://www.nexojornal.com.br/expresso/2023/05/18/Votos-pend%C3%AAncias-e-fraude-o-que-pesa-na-cassa%C3%A7%C3%A3o-de-Dallagnol)
+- [A crise que solapa o parlamento e o presidente do Equador](https://www.nexojornal.com.br/expresso/2023/05/17/A-crise-que-solapa-o-parlamento-e-o-presidente-do-Equador)
+- [Suprema Corte, polarização e a qualidade das instituições](https://www.nexojornal.com.br/colunistas/2023/Suprema-Corte-polariza%C3%A7%C3%A3o-e-a-qualidade-das-institui%C3%A7%C3%B5es)
+- [Regulação das redes: como o STF dá uma chance ao Congresso](https://www.nexojornal.com.br/podcast/2023/05/17/Regula%C3%A7%C3%A3o-das-redes-como-o-STF-d%C3%A1-uma-chance-ao-Congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
