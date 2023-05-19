@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Segredo da Força Sobre-Humana](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-segredo-da-forca-sobre-humana/)
 - [Série com Obama aborda desafios do trabalho](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-com-obama-aborda-desafios-do-trabalho/)
 - [O novo álbum de Amanda Magalhães](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-amanda-magalhaes/)
 - [Julia Louis-Dreyfus contra o etarismo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/julia-louis-dreyfus-contra-o-etarismo/)
 - [Vinho e suspense em “Gotas Divinas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/vinho-e-suspense-em-gotas-divinas/)
-- [Fajardo e Nazareno expõem em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/fajardo-e-nazareno-expoem-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
