@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que diz a lei brasileira sobre as piadas de Léo Lins](https://www.nexojornal.com.br/expresso/2023/05/19/O-que-diz-a-lei-brasileira-sobre-as-piadas-de-L%C3%A9o-Lins)
-- [O que o relator apertou e afrouxou no arcabouço fiscal](https://www.nexojornal.com.br/expresso/2023/05/18/O-que-o-relator-apertou-e-afrouxou-no-arcabou%C3%A7o-fiscal)
-- [Como o  Brasil comprou recrutas para lutar no Paraguai](https://www.nexojornal.com.br/academico/2023/05/18/Como-o-Brasil-comprou-recrutas-para-lutar-no-Paraguai)
-- [Kraftwerk, Underworld e um festival para chamar de meu](https://www.nexojornal.com.br/colunistas/2023/Kraftwerk-Underworld-e-um-festival-para-chamar-de-meu)
-- [O videogame em que o objetivo é restaurar a natureza](https://www.nexojornal.com.br/expresso/2023/05/18/O-videogame-em-que-o-objetivo-%C3%A9-restaurar-a-natureza)
+- [Hadna Abreu: ‘Chegar ao futuro é algo imaginário’](https://www.nexojornal.com.br/entrevista/2023/05/19/Hadna-Abreu-%E2%80%98Chegar-ao-futuro-%C3%A9-algo-imagin%C3%A1rio%E2%80%99)
+- [‘Submundo’: um ativista negro no Carandiru](https://www.nexojornal.com.br/estante/trechos/2023/05/19/%E2%80%98Submundo%E2%80%99-um-ativista-negro-no-Carandiru)
+- [Uma trégua para sonhar e reconstruir a democracia](https://www.nexojornal.com.br/ensaio/2023/05/19/Uma-tr%C3%A9gua-para-sonhar-e-reconstruir-a-democracia)
+- [As visitas de parlamentares a golpistas presos](https://www.nexojornal.com.br/externo/2023/05/19/As-visitas-de-parlamentares-a-golpistas-presos)
+- [Caso Bruno e Dom: ex-presidente da Funai é indiciado por mortes](https://www.nexojornal.com.br/extra/2023/05/19/Caso-Bruno-e-Dom-ex-presidente-da-Funai-%C3%A9-indiciado-por-mortes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
