@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que diz a lei brasileira sobre as piadas de Léo Lins](https://www.nexojornal.com.br/expresso/2023/05/19/O-que-diz-a-lei-brasileira-sobre-as-piadas-de-L%C3%A9o-Lins)
 - [O que o relator apertou e afrouxou no arcabouço fiscal](https://www.nexojornal.com.br/expresso/2023/05/18/O-que-o-relator-apertou-e-afrouxou-no-arcabou%C3%A7o-fiscal)
 - [Como o  Brasil comprou recrutas para lutar no Paraguai](https://www.nexojornal.com.br/academico/2023/05/18/Como-o-Brasil-comprou-recrutas-para-lutar-no-Paraguai)
 - [Kraftwerk, Underworld e um festival para chamar de meu](https://www.nexojornal.com.br/colunistas/2023/Kraftwerk-Underworld-e-um-festival-para-chamar-de-meu)
 - [O videogame em que o objetivo é restaurar a natureza](https://www.nexojornal.com.br/expresso/2023/05/18/O-videogame-em-que-o-objetivo-%C3%A9-restaurar-a-natureza)
-- [EUA isentam big techs de responsabilidade por publicações](https://www.nexojornal.com.br/extra/2023/05/18/EUA-isentam-big-techs-de-responsabilidade-por-publica%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
