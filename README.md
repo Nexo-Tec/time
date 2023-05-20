@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A biblioteca digital sobre indígenas sul-americanos](https://www.nexojornal.com.br/expresso/2023/05/19/A-biblioteca-digital-sobre-ind%C3%ADgenas-sul-americanos)
-- [O fim da paridade na Petrobras. A cassação de Dallagnol. E mais](https://www.nexojornal.com.br/video/extrato/O-fim-da-paridade-na-Petrobras.-A-cassa%C3%A7%C3%A3o-de-Dallagnol.-E-mais)
-- [TCU investiga Petrobras por dar gás e cesta básica em ano eleitoral](https://www.nexojornal.com.br/extra/2023/05/19/TCU-investiga-Petrobras-por-dar-g%C3%A1s-e-cesta-b%C3%A1sica-em-ano-eleitoral)
-- [Aeroporto potiguar é arrematado por R$ 320 milhões em leilão](https://www.nexojornal.com.br/extra/2023/05/19/Aeroporto-potiguar-%C3%A9-arrematado-por-R-320-milh%C3%B5es-em-leil%C3%A3o)
-- [Novo RG não informará sexo e vai mostrar só nome social](https://www.nexojornal.com.br/extra/2023/05/19/Novo-RG-n%C3%A3o-informar%C3%A1-sexo-e-vai-mostrar-s%C3%B3-nome-social)
+- [Hadna Abreu: ‘Chegar ao futuro é algo imaginário’](https://www.nexojornal.com.br/entrevista/2023/05/19/Hadna-Abreu-%E2%80%98Chegar-ao-futuro-%C3%A9-algo-imagin%C3%A1rio%E2%80%99)
+- [‘Submundo’: um ativista negro no Carandiru](https://www.nexojornal.com.br/estante/trechos/2023/05/19/%E2%80%98Submundo%E2%80%99-um-ativista-negro-no-Carandiru)
+- [Uma trégua para sonhar e reconstruir a democracia](https://www.nexojornal.com.br/ensaio/2023/05/19/Uma-tr%C3%A9gua-para-sonhar-e-reconstruir-a-democracia)
+- [As visitas de parlamentares a golpistas presos](https://www.nexojornal.com.br/externo/2023/05/19/As-visitas-de-parlamentares-a-golpistas-presos)
+- [Caso Bruno e Dom: ex-presidente da Funai é indiciado por mortes](https://www.nexojornal.com.br/extra/2023/05/19/Caso-Bruno-e-Dom-ex-presidente-da-Funai-%C3%A9-indiciado-por-mortes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
