@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A biblioteca digital sobre indígenas sul-americanos](https://www.nexojornal.com.br/expresso/2023/05/19/A-biblioteca-digital-sobre-ind%C3%ADgenas-sul-americanos)
-- [O fim da paridade na Petrobras. A cassação de Dallagnol. E mais](https://www.nexojornal.com.br/video/extrato/O-fim-da-paridade-na-Petrobras.-A-cassa%C3%A7%C3%A3o-de-Dallagnol.-E-mais)
-- [TCU investiga Petrobras por dar gás e cesta básica em ano eleitoral](https://www.nexojornal.com.br/extra/2023/05/19/TCU-investiga-Petrobras-por-dar-g%C3%A1s-e-cesta-b%C3%A1sica-em-ano-eleitoral)
-- [Aeroporto potiguar é arrematado por R$ 320 milhões em leilão](https://www.nexojornal.com.br/extra/2023/05/19/Aeroporto-potiguar-%C3%A9-arrematado-por-R-320-milh%C3%B5es-em-leil%C3%A3o)
 - [Novo RG não informará sexo e vai mostrar só nome social](https://www.nexojornal.com.br/extra/2023/05/19/Novo-RG-n%C3%A3o-informar%C3%A1-sexo-e-vai-mostrar-s%C3%B3-nome-social)
+- [Como a China tenta reverter o seu declínio populacional](https://www.nexojornal.com.br/expresso/2023/05/19/Como-a-China-tenta-reverter-o-seu-decl%C3%ADnio-populacional)
+- [O que diz a lei brasileira sobre as piadas de Léo Lins](https://www.nexojornal.com.br/expresso/2023/05/19/O-que-diz-a-lei-brasileira-sobre-as-piadas-de-L%C3%A9o-Lins)
+- [O que o relator apertou e afrouxou no arcabouço fiscal](https://www.nexojornal.com.br/expresso/2023/05/18/O-que-o-relator-apertou-e-afrouxou-no-arcabou%C3%A7o-fiscal)
+- [Como o  Brasil comprou recrutas para lutar no Paraguai](https://www.nexojornal.com.br/academico/2023/05/18/Como-o-Brasil-comprou-recrutas-para-lutar-no-Paraguai)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
