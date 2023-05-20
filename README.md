@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A alfabetização e o analfabetismo funcional no Brasil](https://pp.nexojornal.com.br/Dados/2023/05/19/A-alfabetiza%C3%A7%C3%A3o-e-o-analfabetismo-funcional-no-Brasil)
+- [Como a escolaridade de cuidadores pode influenciar o desenvolvimento infantil](https://pp.nexojornal.com.br/academico/2023/Como-a-escolaridade-de-cuidadores-pode-influenciar-o-desenvolvimento-infantil)
+- [O papel e os desafios da presidência no novo governo](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-e-os-desafios-da-presid%C3%AAncia-no-novo-governo)
 - [Educação, mercado de trabalho e desigualdade racial](https://pp.nexojornal.com.br/glossario/Educa%C3%A7%C3%A3o-mercado-de-trabalho-e-desigualdade-racial)
 - [Os sentidos da ressocialização em decisões no Superior Tribunal de Justiça](https://pp.nexojornal.com.br/academico/2023/Os-sentidos-da-ressocializa%C3%A7%C3%A3o-em-decis%C3%B5es-no-Superior-Tribunal-de-Justi%C3%A7a)
-- [Garimpo e desnutrição dos Yanomami na perspectiva da pesca](https://pp.nexojornal.com.br/opiniao/2023/Garimpo-e-desnutri%C3%A7%C3%A3o-dos-Yanomami-na-perspectiva-da-pesca)
-- [O gargalo dos dados raciais para a educação infantil no Censo Escolar](https://pp.nexojornal.com.br/opiniao/2023/O-gargalo-dos-dados-raciais-para-a-educa%C3%A7%C3%A3o-infantil-no-Censo-Escolar)
-- [Du Bois no Gueto de Varsóvia: a questão judaica numa perspectiva negra](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-no-Gueto-de-Vars%C3%B3via-a-quest%C3%A3o-judaica-numa-perspectiva-negra)
 <!-- PP_LIST:END -->
 
