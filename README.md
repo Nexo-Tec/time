@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula defende ordem multipolar em encontro do G7](https://www.nexojornal.com.br/extra/2023/05/20/Lula-defende-ordem-multipolar-em-encontro-do-G7)
-- [Morre aos 73 anos o escritor britânico Martin Amis](https://www.nexojornal.com.br/extra/2023/05/20/Morre-aos-73-anos-o-escritor-brit%C3%A2nico-Martin-Amis)
 - [Hadna Abreu: ‘Chegar ao futuro é algo imaginário’](https://www.nexojornal.com.br/entrevista/2023/05/19/Hadna-Abreu-%E2%80%98Chegar-ao-futuro-%C3%A9-algo-imagin%C3%A1rio%E2%80%99)
 - [‘Submundo’: um ativista negro no Carandiru](https://www.nexojornal.com.br/estante/trechos/2023/05/19/%E2%80%98Submundo%E2%80%99-um-ativista-negro-no-Carandiru)
 - [Uma trégua para sonhar e reconstruir a democracia](https://www.nexojornal.com.br/ensaio/2023/05/19/Uma-tr%C3%A9gua-para-sonhar-e-reconstruir-a-democracia)
+- [As visitas de parlamentares a golpistas presos](https://www.nexojornal.com.br/externo/2023/05/19/As-visitas-de-parlamentares-a-golpistas-presos)
+- [Caso Bruno e Dom: ex-presidente da Funai é indiciado por mortes](https://www.nexojornal.com.br/extra/2023/05/19/Caso-Bruno-e-Dom-ex-presidente-da-Funai-%C3%A9-indiciado-por-mortes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
