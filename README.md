@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula e Zelensky deixam cúpula do G7 sem se encontrar](https://www.nexojornal.com.br/extra/2023/05/21/Lula-e-Zelensky-deixam-c%C3%BApula-do-G7-sem-se-encontrar)
-- [O apoio recebido por chef nigeriana que cozinhou por 100 horas](https://www.nexojornal.com.br/expresso/2023/05/21/O-apoio-recebido-por-chef-nigeriana-que-cozinhou-por-100-horas)
-- [5 livros que mostram que a ditadura não agiu pela pátria](https://www.nexojornal.com.br/estante/favoritos/2023/05/21/5-livros-que-mostram-que-a-ditadura-n%C3%A3o-agiu-pela-p%C3%A1tria)
-- [De onde vem o guaraná. E onde ele é produzido](https://www.nexojornal.com.br/grafico/2023/05/21/De-onde-vem-o-guaran%C3%A1.-E-onde-ele-%C3%A9-produzido)
-- [Inteligência artificial: por um novo consenso universal](https://www.nexojornal.com.br/ensaio/2023/05/21/Intelig%C3%AAncia-artificial-por-um-novo-consenso-universal)
+- [O pleito de palestinos pelo reconhecimento de sua diáspora](https://www.nexojornal.com.br/externo/2023/05/21/O-pleito-de-palestinos-pelo-reconhecimento-de-sua-di%C3%A1spora)
+- [O que determina a qualidade de um governo](https://www.nexojornal.com.br/ensaio/2023/05/21/O-que-determina-a-qualidade-de-um-governo)
+- [‘Nas exatas, mulheres ainda são minoria, mas menos intimidadas’](https://www.nexojornal.com.br/entrevista/2023/05/21/%E2%80%98Nas-exatas-mulheres-ainda-s%C3%A3o-minoria-mas-menos-intimidadas%E2%80%99)
+- [Por que Lula insiste no incentivo à indústria automotiva](https://www.nexojornal.com.br/expresso/2023/05/21/Por-que-Lula-insiste-no-incentivo-%C3%A0-ind%C3%BAstria-automotiva)
+- [Pela 10ª vez, Vinicius Jr sofre racismo em jogo na Espanha](https://www.nexojornal.com.br/extra/2023/05/21/Pela-10%C2%AA-vez-Vinicius-Jr-sofre-racismo-em-jogo-na-Espanha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
