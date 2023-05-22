@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula e Zelensky deixam cúpula do G7 sem se encontrar](https://www.nexojornal.com.br/extra/2023/05/21/Lula-e-Zelensky-deixam-c%C3%BApula-do-G7-sem-se-encontrar)
 - [O apoio recebido por chef nigeriana que cozinhou por 100 horas](https://www.nexojornal.com.br/expresso/2023/05/21/O-apoio-recebido-por-chef-nigeriana-que-cozinhou-por-100-horas)
 - [5 livros que mostram que a ditadura não agiu pela pátria](https://www.nexojornal.com.br/estante/favoritos/2023/05/21/5-livros-que-mostram-que-a-ditadura-n%C3%A3o-agiu-pela-p%C3%A1tria)
 - [De onde vem o guaraná. E onde ele é produzido](https://www.nexojornal.com.br/grafico/2023/05/21/De-onde-vem-o-guaran%C3%A1.-E-onde-ele-%C3%A9-produzido)
 - [Inteligência artificial: por um novo consenso universal](https://www.nexojornal.com.br/ensaio/2023/05/21/Intelig%C3%AAncia-artificial-por-um-novo-consenso-universal)
-- [7 respostas sobre a responsabilização das plataformas digitais](https://www.nexojornal.com.br/expresso/2023/05/21/7-respostas-sobre-a-responsabiliza%C3%A7%C3%A3o-das-plataformas-digitais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
