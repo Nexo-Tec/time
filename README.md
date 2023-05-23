@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O pleito de palestinos pelo reconhecimento de sua diáspora](https://www.nexojornal.com.br/externo/2023/05/21/O-pleito-de-palestinos-pelo-reconhecimento-de-sua-di%C3%A1spora)
-- [O que determina a qualidade de um governo](https://www.nexojornal.com.br/ensaio/2023/05/21/O-que-determina-a-qualidade-de-um-governo)
-- [‘Nas exatas, mulheres ainda são minoria, mas menos intimidadas’](https://www.nexojornal.com.br/entrevista/2023/05/21/%E2%80%98Nas-exatas-mulheres-ainda-s%C3%A3o-minoria-mas-menos-intimidadas%E2%80%99)
-- [Por que Lula insiste no incentivo à indústria automotiva](https://www.nexojornal.com.br/expresso/2023/05/21/Por-que-Lula-insiste-no-incentivo-%C3%A0-ind%C3%BAstria-automotiva)
-- [Pela 10ª vez, Vinicius Jr sofre racismo em jogo na Espanha](https://www.nexojornal.com.br/extra/2023/05/21/Pela-10%C2%AA-vez-Vinicius-Jr-sofre-racismo-em-jogo-na-Espanha)
+- [A tradução da Constituição para a língua geral da Amazônia](https://www.nexojornal.com.br/expresso/2023/05/22/A-tradu%C3%A7%C3%A3o-da-Constitui%C3%A7%C3%A3o-para-a-l%C3%ADngua-geral-da-Amaz%C3%B4nia)
+- [Como o racismo tomou a liga espanhola. E o que será feito agora](https://www.nexojornal.com.br/expresso/2023/05/22/Como-o-racismo-tomou-a-liga-espanhola.-E-o-que-ser%C3%A1-feito-agora)
+- [WhatsApp anuncia opção de editar mensagens enviadas](https://www.nexojornal.com.br/extra/2023/05/22/WhatsApp-anuncia-op%C3%A7%C3%A3o-de-editar-mensagens-enviadas)
+- [75% dos trabalhadores de apps não querem CLT, diz Datafolha](https://www.nexojornal.com.br/extra/2023/05/22/75-dos-trabalhadores-de-apps-n%C3%A3o-querem-CLT-diz-Datafolha)
+- [Incêndio em dormitório deixa 20 mortos na Guiana](https://www.nexojornal.com.br/extra/2023/05/22/Inc%C3%AAndio-em-dormit%C3%B3rio-deixa-20-mortos-na-Guiana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
