@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Gripe aviária: governo decreta emergência zoossanitária](https://www.nexojornal.com.br/extra/2023/05/23/Gripe-avi%C3%A1ria-governo-decreta-emerg%C3%AAncia-zoossanit%C3%A1ria)
-- [Polícia espanhola prende 7 por racismo contra Vinicius Junior](https://www.nexojornal.com.br/extra/2023/05/23/Pol%C3%ADcia-espanhola-prende-7-por-racismo-contra-Vinicius-Junior)
-- [Suspeito de ameaçar desembargador, juiz da Lava Jato é afastado](https://www.nexojornal.com.br/extra/2023/05/23/Suspeito-de-amea%C3%A7ar-desembargador-juiz-da-Lava-Jato-%C3%A9-afastado)
-- [Juíza fixa prazo para presidente da Apex comprovar inglês](https://www.nexojornal.com.br/extra/2023/05/22/Ju%C3%ADza-fixa-prazo-para-presidente-da-Apex-comprovar-ingl%C3%AAs)
-- [Pós-graduandos: a resposta para um Brasil do século 21](https://www.nexojornal.com.br/ensaio/2023/05/22/P%C3%B3s-graduandos-a-resposta-para-um-Brasil-do-s%C3%A9culo-21)
+- [A tradução da Constituição para a língua geral da Amazônia](https://www.nexojornal.com.br/expresso/2023/05/22/A-tradu%C3%A7%C3%A3o-da-Constitui%C3%A7%C3%A3o-para-a-l%C3%ADngua-geral-da-Amaz%C3%B4nia)
+- [Como o racismo tomou a liga espanhola. E o que será feito agora](https://www.nexojornal.com.br/expresso/2023/05/22/Como-o-racismo-tomou-a-liga-espanhola.-E-o-que-ser%C3%A1-feito-agora)
+- [WhatsApp anuncia opção de editar mensagens enviadas](https://www.nexojornal.com.br/extra/2023/05/22/WhatsApp-anuncia-op%C3%A7%C3%A3o-de-editar-mensagens-enviadas)
+- [75% dos trabalhadores de apps não querem CLT, diz Datafolha](https://www.nexojornal.com.br/extra/2023/05/22/75-dos-trabalhadores-de-apps-n%C3%A3o-querem-CLT-diz-Datafolha)
+- [Incêndio em dormitório deixa 20 mortos na Guiana](https://www.nexojornal.com.br/extra/2023/05/22/Inc%C3%AAndio-em-dormit%C3%B3rio-deixa-20-mortos-na-Guiana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
