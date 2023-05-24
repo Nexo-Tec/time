@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Petrobras pedirá para Ibama rever decisão sobre rio Amazonas](https://www.nexojornal.com.br/extra/2023/05/24/Petrobras-pedir%C3%A1-para-Ibama-rever-decis%C3%A3o-sobre-rio-Amazonas)
-- [A nomeação de esposas de governadores em tribunais de contas](https://www.nexojornal.com.br/expresso/2023/05/24/A-nomea%C3%A7%C3%A3o-de-esposas-de-governadores-em-tribunais-de-contas)
 - [Feira do Livro de São Paulo receberá mais de 60 autores](https://www.nexojornal.com.br/extra/2023/05/24/Feira-do-Livro-de-S%C3%A3o-Paulo-receber%C3%A1-mais-de-60-autores)
 - [Arcabouço fiscal é aprovado com larga margem na Câmara](https://www.nexojornal.com.br/extra/2023/05/24/Arcabou%C3%A7o-fiscal-%C3%A9-aprovado-com-larga-margem-na-C%C3%A2mara)
 - [Quem é o dirigente que atacou Vinicius Jr após os casos de racismo](https://www.nexojornal.com.br/expresso/2023/05/23/Quem-%C3%A9-o-dirigente-que-atacou-Vinicius-Jr-ap%C3%B3s-os-casos-de-racismo)
+- [A descriminalização da maconha e outras possibilidades no STF](https://www.nexojornal.com.br/expresso/2023/05/23/A-descriminaliza%C3%A7%C3%A3o-da-maconha-e-outras-possibilidades-no-STF)
+- [Emendas: o uso por Bolsonaro e Lula nas estreias na Câmara](https://www.nexojornal.com.br/expresso/2023/05/23/Emendas-o-uso-por-Bolsonaro-e-Lula-nas-estreias-na-C%C3%A2mara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
