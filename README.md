@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O livro do século 16 que defende mulheres acusadas de bruxaria](https://www.nexojornal.com.br/expresso/2023/05/23/O-livro-do-s%C3%A9culo-16-que-defende-mulheres-acusadas-de-bruxaria)
-- [13ª Vara em Curitiba: prisões, parcialidade e suspeita de ameaça](https://www.nexojornal.com.br/podcast/2023/05/23/13%C2%AA-Vara-em-Curitiba-pris%C3%B5es-parcialidade-e-suspeita-de-amea%C3%A7a)
-- [CPI do MST começa com seu presidente sob investigação](https://www.nexojornal.com.br/extra/2023/05/23/CPI-do-MST-come%C3%A7a-com-seu-presidente-sob-investiga%C3%A7%C3%A3o)
-- [PM responsável por praça dos Três Poderes em 8 de janeiro é preso](https://www.nexojornal.com.br/extra/2023/05/23/PM-respons%C3%A1vel-por-pra%C3%A7a-dos-Tr%C3%AAs-Poderes-em-8-de-janeiro-%C3%A9-preso)
-- [A economia da observação de aves na Mata Atlântica](https://www.nexojornal.com.br/externo/2023/05/23/A-economia-da-observa%C3%A7%C3%A3o-de-aves-na-Mata-Atl%C3%A2ntica)
+- [Suspeito de ameaçar desembargador, juiz da Lava Jato é afastado](https://www.nexojornal.com.br/extra/2023/05/23/Suspeito-de-amea%C3%A7ar-desembargador-juiz-da-Lava-Jato-%C3%A9-afastado)
+- [Juíza fixa prazo para presidente da Apex comprovar inglês](https://www.nexojornal.com.br/extra/2023/05/22/Ju%C3%ADza-fixa-prazo-para-presidente-da-Apex-comprovar-ingl%C3%AAs)
+- [Pós-graduandos: a resposta para um Brasil do século 21](https://www.nexojornal.com.br/ensaio/2023/05/22/P%C3%B3s-graduandos-a-resposta-para-um-Brasil-do-s%C3%A9culo-21)
+- [Guerra na Ucrânia: o chega para lá em Lula no encontro do G7](https://www.nexojornal.com.br/podcast/2023/05/22/Guerra-na-Ucr%C3%A2nia-o-chega-para-l%C3%A1-em-Lula-no-encontro-do-G7)
+- [Quais os partidos mais alinhados a Lula na Câmara dos Deputados](https://www.nexojornal.com.br/grafico/2023/05/22/Quais-os-partidos-mais-alinhados-a-Lula-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
