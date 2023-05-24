@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Feira do Livro de São Paulo receberá mais de 60 autores](https://www.nexojornal.com.br/extra/2023/05/24/Feira-do-Livro-de-S%C3%A3o-Paulo-receber%C3%A1-mais-de-60-autores)
-- [Arcabouço fiscal é aprovado com larga margem na Câmara](https://www.nexojornal.com.br/extra/2023/05/24/Arcabou%C3%A7o-fiscal-%C3%A9-aprovado-com-larga-margem-na-C%C3%A2mara)
-- [Quem é o dirigente que atacou Vinicius Jr após os casos de racismo](https://www.nexojornal.com.br/expresso/2023/05/23/Quem-%C3%A9-o-dirigente-que-atacou-Vinicius-Jr-ap%C3%B3s-os-casos-de-racismo)
-- [A descriminalização da maconha e outras possibilidades no STF](https://www.nexojornal.com.br/expresso/2023/05/23/A-descriminaliza%C3%A7%C3%A3o-da-maconha-e-outras-possibilidades-no-STF)
-- [Emendas: o uso por Bolsonaro e Lula nas estreias na Câmara](https://www.nexojornal.com.br/expresso/2023/05/23/Emendas-o-uso-por-Bolsonaro-e-Lula-nas-estreias-na-C%C3%A2mara)
+- [Suspeito de ameaçar desembargador, juiz da Lava Jato é afastado](https://www.nexojornal.com.br/extra/2023/05/23/Suspeito-de-amea%C3%A7ar-desembargador-juiz-da-Lava-Jato-%C3%A9-afastado)
+- [Juíza fixa prazo para presidente da Apex comprovar inglês](https://www.nexojornal.com.br/extra/2023/05/22/Ju%C3%ADza-fixa-prazo-para-presidente-da-Apex-comprovar-ingl%C3%AAs)
+- [Pós-graduandos: a resposta para um Brasil do século 21](https://www.nexojornal.com.br/ensaio/2023/05/22/P%C3%B3s-graduandos-a-resposta-para-um-Brasil-do-s%C3%A9culo-21)
+- [Guerra na Ucrânia: o chega para lá em Lula no encontro do G7](https://www.nexojornal.com.br/podcast/2023/05/22/Guerra-na-Ucr%C3%A2nia-o-chega-para-l%C3%A1-em-Lula-no-encontro-do-G7)
+- [Quais os partidos mais alinhados a Lula na Câmara dos Deputados](https://www.nexojornal.com.br/grafico/2023/05/22/Quais-os-partidos-mais-alinhados-a-Lula-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
