@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A alfabetização e o analfabetismo funcional no Brasil](https://pp.nexojornal.com.br/Dados/2023/05/19/A-alfabetiza%C3%A7%C3%A3o-e-o-analfabetismo-funcional-no-Brasil)
-- [Como a escolaridade de cuidadores pode influenciar o desenvolvimento infantil](https://pp.nexojornal.com.br/academico/2023/Como-a-escolaridade-de-cuidadores-pode-influenciar-o-desenvolvimento-infantil)
-- [O papel e os desafios da presidência no novo governo](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-e-os-desafios-da-presid%C3%AAncia-no-novo-governo)
-- [Educação, mercado de trabalho e desigualdade racial](https://pp.nexojornal.com.br/glossario/Educa%C3%A7%C3%A3o-mercado-de-trabalho-e-desigualdade-racial)
-- [Os sentidos da ressocialização em decisões no Superior Tribunal de Justiça](https://pp.nexojornal.com.br/academico/2023/Os-sentidos-da-ressocializa%C3%A7%C3%A3o-em-decis%C3%B5es-no-Superior-Tribunal-de-Justi%C3%A7a)
+- [Desigualdades na primeira infância](https://pp.nexojornal.com.br/ponto-de-vista/2023/Desigualdades-na-primeira-inf%C3%A2ncia)
+- [O uso de Inteligência Artificial na saúde, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-uso-de-Intelig%C3%AAncia-Artificial-na-sa%C3%BAde-em-6-pontos)
+- [Páginas em branco: raça e gênero nos principais jornais do país](https://pp.nexojornal.com.br/opiniao/2023/P%C3%A1ginas-em-branco-ra%C3%A7a-e-g%C3%AAnero-nos-principais-jornais-do-pa%C3%ADs)
+- [O caminho para consolidar o Sistema Nacional de Cultura](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-caminho-para-consolidar-o-Sistema-Nacional-de-Cultura)
+- [Recomposição das aprendizagens e desigualdades educacionais após a pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2023/Recomposi%C3%A7%C3%A3o-das-aprendizagens-e-desigualdades-educacionais-ap%C3%B3s-a-pandemia)
 <!-- PP_LIST:END -->
 
