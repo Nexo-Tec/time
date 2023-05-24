@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Tem arroz na geladeira? Faça o bolinho do Ritz, o mais célebre de São Paulo](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/tem-arroz-na-geladeira-faca-o-bolinho-do-ritz-o-mais-celebre-de-sao-paulo/)
 - [Do outro lado do espelho](https://gamarevista.uol.com.br/colunistas/maria-homem/do-outro-lado-do-espelho/)
 - [Globo espelhado](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/globo-espelhado/)
 - [Micaela Góes: “Com organização você tem uma vida com mais liberdade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/micaela-goes-fala-sobre-organizacao-e-qualidade-de-vida/)
 - [O Segredo da Força Sobre-Humana](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-segredo-da-forca-sobre-humana/)
-- [Série com Obama aborda desafios do trabalho](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-com-obama-aborda-desafios-do-trabalho/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
