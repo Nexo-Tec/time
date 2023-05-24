@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gripe aviária: governo decreta emergência zoossanitária](https://www.nexojornal.com.br/extra/2023/05/23/Gripe-avi%C3%A1ria-governo-decreta-emerg%C3%AAncia-zoossanit%C3%A1ria)
+- [Polícia espanhola prende 7 por racismo contra Vinicius Junior](https://www.nexojornal.com.br/extra/2023/05/23/Pol%C3%ADcia-espanhola-prende-7-por-racismo-contra-Vinicius-Junior)
 - [Suspeito de ameaçar desembargador, juiz da Lava Jato é afastado](https://www.nexojornal.com.br/extra/2023/05/23/Suspeito-de-amea%C3%A7ar-desembargador-juiz-da-Lava-Jato-%C3%A9-afastado)
 - [Juíza fixa prazo para presidente da Apex comprovar inglês](https://www.nexojornal.com.br/extra/2023/05/22/Ju%C3%ADza-fixa-prazo-para-presidente-da-Apex-comprovar-ingl%C3%AAs)
 - [Pós-graduandos: a resposta para um Brasil do século 21](https://www.nexojornal.com.br/ensaio/2023/05/22/P%C3%B3s-graduandos-a-resposta-para-um-Brasil-do-s%C3%A9culo-21)
-- [Guerra na Ucrânia: o chega para lá em Lula no encontro do G7](https://www.nexojornal.com.br/podcast/2023/05/22/Guerra-na-Ucr%C3%A2nia-o-chega-para-l%C3%A1-em-Lula-no-encontro-do-G7)
-- [Quais os partidos mais alinhados a Lula na Câmara dos Deputados](https://www.nexojornal.com.br/grafico/2023/05/22/Quais-os-partidos-mais-alinhados-a-Lula-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
