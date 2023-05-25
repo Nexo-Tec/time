@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A mãe preta e o enfrentamento ao racismo cotidiano](https://gamarevista.uol.com.br/colunistas/winnie-bueno/a-mae-preta-e-o-enfrentamento-ao-racismo-cotidiano/)
-- [Tem arroz na geladeira? Faça o bolinho do Ritz, o mais célebre de São Paulo](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/tem-arroz-na-geladeira-faca-o-bolinho-do-ritz-o-mais-celebre-de-sao-paulo/)
-- [Do outro lado do espelho](https://gamarevista.uol.com.br/colunistas/maria-homem/do-outro-lado-do-espelho/)
-- [Globo espelhado](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/globo-espelhado/)
-- [Micaela Góes: “Com organização você tem uma vida com mais liberdade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/micaela-goes-fala-sobre-organizacao-e-qualidade-de-vida/)
+- [O poder elétrico das adolescentes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poder-eletrico-das-adolescentes/)
+- [O revisionismo em livros de Monteiro Lobato a Agatha Christie](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-revisionismo-em-livros-de-monteiro-lobato-a-agatha-christie/)
+- [Um podcast em tributo à Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-em-tributo-a-rita-lee/)
+- [Curso sobre a obra de Nina Horta com degustação](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-sobre-a-obra-de-nina-horta-com-degustacao/)
+- [Grandes nomes da arte brasileira na Casa de Vidro, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/grandes-nomes-da-arte-brasileira-na-casa-de-vidro-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
