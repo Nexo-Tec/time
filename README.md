@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os times brasileiros patrocinados por sites de apostas](https://www.nexojornal.com.br/grafico/2023/05/24/Os-times-brasileiros-patrocinados-por-sites-de-apostas)
-- [As investidas para desidratar a área ambiental do governo](https://www.nexojornal.com.br/expresso/2023/05/24/As-investidas-para-desidratar-a-%C3%A1rea-ambiental-do-governo)
-- [Lula escolhe ministros do TSE que vão julgar caso de Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/24/Lula-escolhe-ministros-do-TSE-que-v%C3%A3o-julgar-caso-de-Bolsonaro)
-- [No futuro, nossos computadores serão mais lentos; eu vou gostar](https://www.nexojornal.com.br/colunistas/2023/No-futuro-nossos-computadores-ser%C3%A3o-mais-lentos-eu-vou-gostar)
-- [O que é a ‘ilha flutuante’. E quais críticas ela recebe](https://www.nexojornal.com.br/expresso/2023/05/24/O-que-%C3%A9-a-%E2%80%98ilha-flutuante%E2%80%99.-E-quais-cr%C3%ADticas-ela-recebe)
+- [Feira do Livro de São Paulo receberá mais de 60 autores](https://www.nexojornal.com.br/extra/2023/05/24/Feira-do-Livro-de-S%C3%A3o-Paulo-receber%C3%A1-mais-de-60-autores)
+- [Arcabouço fiscal é aprovado com larga margem na Câmara](https://www.nexojornal.com.br/extra/2023/05/24/Arcabou%C3%A7o-fiscal-%C3%A9-aprovado-com-larga-margem-na-C%C3%A2mara)
+- [Quem é o dirigente que atacou Vinicius Jr após os casos de racismo](https://www.nexojornal.com.br/expresso/2023/05/23/Quem-%C3%A9-o-dirigente-que-atacou-Vinicius-Jr-ap%C3%B3s-os-casos-de-racismo)
+- [A descriminalização da maconha e outras possibilidades no STF](https://www.nexojornal.com.br/expresso/2023/05/23/A-descriminaliza%C3%A7%C3%A3o-da-maconha-e-outras-possibilidades-no-STF)
+- [Emendas: o uso por Bolsonaro e Lula nas estreias na Câmara](https://www.nexojornal.com.br/expresso/2023/05/23/Emendas-o-uso-por-Bolsonaro-e-Lula-nas-estreias-na-C%C3%A2mara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
