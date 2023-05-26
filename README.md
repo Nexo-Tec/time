@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Congresso instala CPI mista de 8 de janeiro com mais governistas](https://www.nexojornal.com.br/extra/2023/05/25/Congresso-instala-CPI-mista-de-8-de-janeiro-com-mais-governistas)
-- [Os times brasileiros patrocinados por sites de apostas](https://www.nexojornal.com.br/grafico/2023/05/24/Os-times-brasileiros-patrocinados-por-sites-de-apostas)
-- [As investidas para desidratar a área ambiental do governo](https://www.nexojornal.com.br/expresso/2023/05/24/As-investidas-para-desidratar-a-%C3%A1rea-ambiental-do-governo)
-- [Lula escolhe ministros do TSE que vão julgar caso de Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/24/Lula-escolhe-ministros-do-TSE-que-v%C3%A3o-julgar-caso-de-Bolsonaro)
-- [No futuro, nossos computadores serão mais lentos; eu vou gostar](https://www.nexojornal.com.br/colunistas/2023/No-futuro-nossos-computadores-ser%C3%A3o-mais-lentos-eu-vou-gostar)
+- [Lula diz a Putin que não pode ir à Rússia ‘nesse momento’](https://www.nexojornal.com.br/extra/2023/05/26/Lula-diz-a-Putin-que-n%C3%A3o-pode-ir-%C3%A0-R%C3%BAssia-%E2%80%98nesse-momento%E2%80%99)
+- [Grupo que defendeu ‘kit covid’ é condenado a pagar R$ 55 milhões](https://www.nexojornal.com.br/extra/2023/05/26/Grupo-que-defendeu-%E2%80%98kit-covid%E2%80%99-%C3%A9-condenado-a-pagar-R-55-milh%C3%B5es)
+- [A decisão francesa de proibir voos de curta distância](https://www.nexojornal.com.br/expresso/2023/05/26/A-decis%C3%A3o-francesa-de-proibir-voos-de-curta-dist%C3%A2ncia)
+- [O que as decisões do Congresso revelam sobre a força do governo](https://www.nexojornal.com.br/expresso/2023/05/25/O-que-as-decis%C3%B5es-do-Congresso-revelam-sobre-a-for%C3%A7a-do-governo)
+- [Racismo: como Vinicius Junior pôs um país inteiro no divã](https://www.nexojornal.com.br/expresso/2023/05/25/Racismo-como-Vinicius-Junior-p%C3%B4s-um-pa%C3%ADs-inteiro-no-div%C3%A3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
