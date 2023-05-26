@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo vai tentar reverter mudanças em desenho de ministérios](https://www.nexojornal.com.br/extra/2023/05/26/Governo-vai-tentar-reverter-mudan%C3%A7as-em-desenho-de-minist%C3%A9rios)
-- [Brasil vai sediar conferência do clima da ONU em 2025](https://www.nexojornal.com.br/extra/2023/05/26/Brasil-vai-sediar-confer%C3%AAncia-do-clima-da-ONU-em-2025)
-- [Lula diz a Putin que não pode ir à Rússia ‘nesse momento’](https://www.nexojornal.com.br/extra/2023/05/26/Lula-diz-a-Putin-que-n%C3%A3o-pode-ir-%C3%A0-R%C3%BAssia-%E2%80%98nesse-momento%E2%80%99)
-- [Grupo que defendeu ‘kit covid’ é condenado a pagar R$ 55 milhões](https://www.nexojornal.com.br/extra/2023/05/26/Grupo-que-defendeu-%E2%80%98kit-covid%E2%80%99-%C3%A9-condenado-a-pagar-R-55-milh%C3%B5es)
-- [A decisão francesa de proibir voos de curta distância](https://www.nexojornal.com.br/expresso/2023/05/26/A-decis%C3%A3o-francesa-de-proibir-voos-de-curta-dist%C3%A2ncia)
+- [O que as decisões do Congresso revelam sobre a força do governo](https://www.nexojornal.com.br/expresso/2023/05/25/O-que-as-decis%C3%B5es-do-Congresso-revelam-sobre-a-for%C3%A7a-do-governo)
+- [Racismo: como Vinicius Junior pôs um país inteiro no divã](https://www.nexojornal.com.br/expresso/2023/05/25/Racismo-como-Vinicius-Junior-p%C3%B4s-um-pa%C3%ADs-inteiro-no-div%C3%A3)
+- [Como a Guiana Francesa vê o plano da Petrobras no Amapá](https://www.nexojornal.com.br/externo/2023/05/25/Como-a-Guiana-Francesa-v%C3%AA-o-plano-da-Petrobras-no-Amap%C3%A1)
+- [CPI de 8 de janeiro é instalada: o jogo de forças na apuração](https://www.nexojornal.com.br/podcast/2023/05/25/CPI-de-8-de-janeiro-%C3%A9-instalada-o-jogo-de-for%C3%A7as-na-apura%C3%A7%C3%A3o)
+- [Educação Midiática: limites e possibilidades](https://www.nexojornal.com.br/colunistas/2023/Educa%C3%A7%C3%A3o-Midi%C3%A1tica-limites-e-possibilidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
