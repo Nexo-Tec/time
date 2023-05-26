@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Congresso instala CPI mista de 8 de janeiro com mais governistas](https://www.nexojornal.com.br/extra/2023/05/25/Congresso-instala-CPI-mista-de-8-de-janeiro-com-mais-governistas)
 - [Os times brasileiros patrocinados por sites de apostas](https://www.nexojornal.com.br/grafico/2023/05/24/Os-times-brasileiros-patrocinados-por-sites-de-apostas)
 - [As investidas para desidratar a área ambiental do governo](https://www.nexojornal.com.br/expresso/2023/05/24/As-investidas-para-desidratar-a-%C3%A1rea-ambiental-do-governo)
 - [Lula escolhe ministros do TSE que vão julgar caso de Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/24/Lula-escolhe-ministros-do-TSE-que-v%C3%A3o-julgar-caso-de-Bolsonaro)
 - [No futuro, nossos computadores serão mais lentos; eu vou gostar](https://www.nexojornal.com.br/colunistas/2023/No-futuro-nossos-computadores-ser%C3%A3o-mais-lentos-eu-vou-gostar)
-- [O que é a ‘ilha flutuante’. E quais críticas ela recebe](https://www.nexojornal.com.br/expresso/2023/05/24/O-que-%C3%A9-a-%E2%80%98ilha-flutuante%E2%80%99.-E-quais-cr%C3%ADticas-ela-recebe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
