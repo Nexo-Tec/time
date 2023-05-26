@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que as decisões do Congresso revelam sobre a força do governo](https://www.nexojornal.com.br/expresso/2023/05/25/O-que-as-decis%C3%B5es-do-Congresso-revelam-sobre-a-for%C3%A7a-do-governo)
-- [Racismo: como Vinicius Junior pôs um país inteiro no divã](https://www.nexojornal.com.br/expresso/2023/05/25/Racismo-como-Vinicius-Junior-p%C3%B4s-um-pa%C3%ADs-inteiro-no-div%C3%A3)
-- [Como a Guiana Francesa vê o plano da Petrobras no Amapá](https://www.nexojornal.com.br/externo/2023/05/25/Como-a-Guiana-Francesa-v%C3%AA-o-plano-da-Petrobras-no-Amap%C3%A1)
-- [CPI de 8 de janeiro é instalada: o jogo de forças na apuração](https://www.nexojornal.com.br/podcast/2023/05/25/CPI-de-8-de-janeiro-%C3%A9-instalada-o-jogo-de-for%C3%A7as-na-apura%C3%A7%C3%A3o)
-- [Educação Midiática: limites e possibilidades](https://www.nexojornal.com.br/colunistas/2023/Educa%C3%A7%C3%A3o-Midi%C3%A1tica-limites-e-possibilidades)
+- [Congresso instala CPI mista de 8 de janeiro com mais governistas](https://www.nexojornal.com.br/extra/2023/05/25/Congresso-instala-CPI-mista-de-8-de-janeiro-com-mais-governistas)
+- [Os times brasileiros patrocinados por sites de apostas](https://www.nexojornal.com.br/grafico/2023/05/24/Os-times-brasileiros-patrocinados-por-sites-de-apostas)
+- [As investidas para desidratar a área ambiental do governo](https://www.nexojornal.com.br/expresso/2023/05/24/As-investidas-para-desidratar-a-%C3%A1rea-ambiental-do-governo)
+- [Lula escolhe ministros do TSE que vão julgar caso de Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/24/Lula-escolhe-ministros-do-TSE-que-v%C3%A3o-julgar-caso-de-Bolsonaro)
+- [No futuro, nossos computadores serão mais lentos; eu vou gostar](https://www.nexojornal.com.br/colunistas/2023/No-futuro-nossos-computadores-ser%C3%A3o-mais-lentos-eu-vou-gostar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
