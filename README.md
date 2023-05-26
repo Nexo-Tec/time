@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um espetáculo macabro](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-espetaculo-macabro/)
+- [Rita Lee: outra autobiografia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/rita-lee-outra-autobiografia/)
 - [O poder elétrico das adolescentes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poder-eletrico-das-adolescentes/)
 - [O revisionismo em livros de Monteiro Lobato a Agatha Christie](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-revisionismo-em-livros-de-monteiro-lobato-a-agatha-christie/)
 - [Um podcast em tributo à Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-em-tributo-a-rita-lee/)
-- [Curso sobre a obra de Nina Horta com degustação](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-sobre-a-obra-de-nina-horta-com-degustacao/)
-- [Grandes nomes da arte brasileira na Casa de Vidro, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/grandes-nomes-da-arte-brasileira-na-casa-de-vidro-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
