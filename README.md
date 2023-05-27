@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo vai tentar reverter mudanças em desenho de ministérios](https://www.nexojornal.com.br/extra/2023/05/26/Governo-vai-tentar-reverter-mudan%C3%A7as-em-desenho-de-minist%C3%A9rios)
-- [Brasil vai sediar conferência do clima da ONU em 2025](https://www.nexojornal.com.br/extra/2023/05/26/Brasil-vai-sediar-confer%C3%AAncia-do-clima-da-ONU-em-2025)
-- [Lula diz a Putin que não pode ir à Rússia ‘nesse momento’](https://www.nexojornal.com.br/extra/2023/05/26/Lula-diz-a-Putin-que-n%C3%A3o-pode-ir-%C3%A0-R%C3%BAssia-%E2%80%98nesse-momento%E2%80%99)
-- [Grupo que defendeu ‘kit covid’ é condenado a pagar R$ 55 milhões](https://www.nexojornal.com.br/extra/2023/05/26/Grupo-que-defendeu-%E2%80%98kit-covid%E2%80%99-%C3%A9-condenado-a-pagar-R-55-milh%C3%B5es)
-- [A decisão francesa de proibir voos de curta distância](https://www.nexojornal.com.br/expresso/2023/05/26/A-decis%C3%A3o-francesa-de-proibir-voos-de-curta-dist%C3%A2ncia)
+- [Por que clubes descumprem licença-maternidade para atletas](https://www.nexojornal.com.br/expresso/2023/05/26/Por-que-clubes-descumprem-licen%C3%A7a-maternidade-para-atletas)
+- [‘Uma crise chamada Brasil’: a década em que a política colapsou](https://www.nexojornal.com.br/estante/trechos/2023/05/26/%E2%80%98Uma-crise-chamada-Brasil%E2%80%99-a-d%C3%A9cada-em-que-a-pol%C3%ADtica-colapsou)
+- [O pedido por justiça pela chacina do rio Abacaxis](https://www.nexojornal.com.br/externo/2023/05/26/O-pedido-por-justi%C3%A7a-pela-chacina-do-rio-Abacaxis)
+- [A urgência da democratização da segurança pública](https://www.nexojornal.com.br/ensaio/2023/05/26/A-urg%C3%AAncia-da-democratiza%C3%A7%C3%A3o-da-seguran%C3%A7a-p%C3%BAblica)
+- [3 Gifs e 1 gráfico para entender a regra fiscal e sua importância](https://www.nexojornal.com.br/expresso/2023/05/26/3-Gifs-e-1-gr%C3%A1fico-para-entender-a-regra-fiscal-e-sua-import%C3%A2ncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
