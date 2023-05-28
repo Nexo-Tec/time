@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que clubes descumprem licença-maternidade para atletas](https://www.nexojornal.com.br/expresso/2023/05/26/Por-que-clubes-descumprem-licen%C3%A7a-maternidade-para-atletas)
-- [‘Uma crise chamada Brasil’: a década em que a política colapsou](https://www.nexojornal.com.br/estante/trechos/2023/05/26/%E2%80%98Uma-crise-chamada-Brasil%E2%80%99-a-d%C3%A9cada-em-que-a-pol%C3%ADtica-colapsou)
-- [O pedido por justiça pela chacina do rio Abacaxis](https://www.nexojornal.com.br/externo/2023/05/26/O-pedido-por-justi%C3%A7a-pela-chacina-do-rio-Abacaxis)
-- [A urgência da democratização da segurança pública](https://www.nexojornal.com.br/ensaio/2023/05/26/A-urg%C3%AAncia-da-democratiza%C3%A7%C3%A3o-da-seguran%C3%A7a-p%C3%BAblica)
-- [3 Gifs e 1 gráfico para entender a regra fiscal e sua importância](https://www.nexojornal.com.br/expresso/2023/05/26/3-Gifs-e-1-gr%C3%A1fico-para-entender-a-regra-fiscal-e-sua-import%C3%A2ncia)
+- [Supremo mantém regras sobre demissão sem justa causa](https://www.nexojornal.com.br/extra/2023/05/27/Supremo-mant%C3%A9m-regras-sobre-demiss%C3%A3o-sem-justa-causa)
+- [5 livros para se deliciar com a prosa em português](https://www.nexojornal.com.br/estante/favoritos/2023/05/27/5-livros-para-se-deliciar-com-a-prosa-em-portugu%C3%AAs)
+- [Estudo estima quantos anos duram as colaborações científicas no Brasil](https://www.nexojornal.com.br/externo/2023/05/27/Estudo-estima-quantos-anos-duram-as-colabora%C3%A7%C3%B5es-cient%C3%ADficas-no-Brasil)
+- [Como a avaliação de leitura escancara desigualdade do Brasil](https://www.nexojornal.com.br/ensaio/2023/05/27/Como-a-avalia%C3%A7%C3%A3o-de-leitura-escancara-desigualdade-do-Brasil)
+- [Por que a maior potência da Europa entrou em recessão](https://www.nexojornal.com.br/expresso/2023/05/27/Por-que-a-maior-pot%C3%AAncia-da-Europa-entrou-em-recess%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
