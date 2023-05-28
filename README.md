@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Longa brasileiro sobre resistência indígena é premiado em Cannes](https://www.nexojornal.com.br/extra/2023/05/27/Longa-brasileiro-sobre-resist%C3%AAncia-ind%C3%ADgena-%C3%A9-premiado-em-Cannes)
 - [Por que clubes descumprem licença-maternidade para atletas](https://www.nexojornal.com.br/expresso/2023/05/26/Por-que-clubes-descumprem-licen%C3%A7a-maternidade-para-atletas)
 - [‘Uma crise chamada Brasil’: a década em que a política colapsou](https://www.nexojornal.com.br/estante/trechos/2023/05/26/%E2%80%98Uma-crise-chamada-Brasil%E2%80%99-a-d%C3%A9cada-em-que-a-pol%C3%ADtica-colapsou)
 - [O pedido por justiça pela chacina do rio Abacaxis](https://www.nexojornal.com.br/externo/2023/05/26/O-pedido-por-justi%C3%A7a-pela-chacina-do-rio-Abacaxis)
 - [A urgência da democratização da segurança pública](https://www.nexojornal.com.br/ensaio/2023/05/26/A-urg%C3%AAncia-da-democratiza%C3%A7%C3%A3o-da-seguran%C3%A7a-p%C3%BAblica)
+- [3 Gifs e 1 gráfico para entender a regra fiscal e sua importância](https://www.nexojornal.com.br/expresso/2023/05/26/3-Gifs-e-1-gr%C3%A1fico-para-entender-a-regra-fiscal-e-sua-import%C3%A2ncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
