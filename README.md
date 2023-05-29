@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Primeiro-ministro da Espanha antecipa eleições gerais](https://www.nexojornal.com.br/extra/2023/05/29/Primeiro-ministro-da-Espanha-antecipa-elei%C3%A7%C3%B5es-gerais)
 - [Erro e excepcionalismo na decisão do TSE sobre o caso Deltan](https://www.nexojornal.com.br/ensaio/2023/05/28/Erro-e-excepcionalismo-na-decis%C3%A3o-do-TSE-sobre-o-caso-Deltan)
 - [O que a CPI do MST promete além de tumulto](https://www.nexojornal.com.br/expresso/2023/05/28/O-que-a-CPI-do-MST-promete-al%C3%A9m-de-tumulto)
 - [O potencial do Brasil para capturar carbono](https://www.nexojornal.com.br/expresso/2023/05/28/O-potencial-do-Brasil-para-capturar-carbono)
 - [Justiça cassa mandato de deputado de Marcelo Crivella](https://www.nexojornal.com.br/extra/2023/05/28/Justi%C3%A7a-cassa-mandato-de-deputado-de-Marcelo-Crivella)
+- [Erdogan é reeleito presidente da Turquia no segundo turno](https://www.nexojornal.com.br/extra/2023/05/28/Erdogan-%C3%A9-reeleito-presidente-da-Turquia-no-segundo-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
