@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@martasalogni](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/martasalogni/)
 - [Tainá Müller: “O humor é nossa grande ferramenta para sobreviver neste mundo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/taina-muller-fala-sobre-humor-e-leveza/)
 - [Um espetáculo macabro](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-espetaculo-macabro/)
 - [Rita Lee: outra autobiografia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/rita-lee-outra-autobiografia/)
 - [O poder elétrico das adolescentes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-poder-eletrico-das-adolescentes/)
-- [O revisionismo em livros de Monteiro Lobato a Agatha Christie](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-revisionismo-em-livros-de-monteiro-lobato-a-agatha-christie/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
