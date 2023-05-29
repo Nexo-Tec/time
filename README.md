@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Erro e excepcionalismo na decisão do TSE sobre o caso Deltan](https://www.nexojornal.com.br/ensaio/2023/05/28/Erro-e-excepcionalismo-na-decis%C3%A3o-do-TSE-sobre-o-caso-Deltan)
+- [O que a CPI do MST promete além de tumulto](https://www.nexojornal.com.br/expresso/2023/05/28/O-que-a-CPI-do-MST-promete-al%C3%A9m-de-tumulto)
+- [O potencial do Brasil para capturar carbono](https://www.nexojornal.com.br/expresso/2023/05/28/O-potencial-do-Brasil-para-capturar-carbono)
+- [Justiça cassa mandato de deputado de Marcelo Crivella](https://www.nexojornal.com.br/extra/2023/05/28/Justi%C3%A7a-cassa-mandato-de-deputado-de-Marcelo-Crivella)
 - [Erdogan é reeleito presidente da Turquia no segundo turno](https://www.nexojornal.com.br/extra/2023/05/28/Erdogan-%C3%A9-reeleito-presidente-da-Turquia-no-segundo-turno)
-- [Supremo mantém regras sobre demissão sem justa causa](https://www.nexojornal.com.br/extra/2023/05/27/Supremo-mant%C3%A9m-regras-sobre-demiss%C3%A3o-sem-justa-causa)
-- [5 livros para se deliciar com a prosa em português](https://www.nexojornal.com.br/estante/favoritos/2023/05/27/5-livros-para-se-deliciar-com-a-prosa-em-portugu%C3%AAs)
-- [Estudo estima quantos anos duram as colaborações científicas no Brasil](https://www.nexojornal.com.br/externo/2023/05/27/Estudo-estima-quantos-anos-duram-as-colabora%C3%A7%C3%B5es-cient%C3%ADficas-no-Brasil)
-- [Como a avaliação de leitura escancara desigualdade do Brasil](https://www.nexojornal.com.br/ensaio/2023/05/27/Como-a-avalia%C3%A7%C3%A3o-de-leitura-escancara-desigualdade-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
