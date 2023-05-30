@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deltan diz que ‘não pensa duas vezes’ em defender Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/30/Deltan-diz-que-%E2%80%98n%C3%A3o-pensa-duas-vezes%E2%80%99-em-defender-Bolsonaro)
-- [PM usa bombas para dispersar ato indígena contra marco temporal](https://www.nexojornal.com.br/extra/2023/05/30/PM-usa-bombas-para-dispersar-ato-ind%C3%ADgena-contra-marco-temporal)
-- [O que fez o Quênia desconfiar que a China hackeou seu sistema](https://www.nexojornal.com.br/expresso/2023/05/29/O-que-fez-o-Qu%C3%AAnia-desconfiar-que-a-China-hackeou-seu-sistema)
-- [Imposto de renda: o que pode mudar para a próxima declaração](https://www.nexojornal.com.br/expresso/2023/05/29/Imposto-de-renda-o-que-pode-mudar-para-a-pr%C3%B3xima-declara%C3%A7%C3%A3o)
-- [Como 2023 virou um dos anos com mais mortes no Everest](https://www.nexojornal.com.br/expresso/2023/05/29/Como-2023-virou-um-dos-anos-com-mais-mortes-no-Everest)
+- [Volante que atuou no Vila Nova é banido do futebol](https://www.nexojornal.com.br/extra/2023/05/29/Volante-que-atuou-no-Vila-Nova-%C3%A9-banido-do-futebol)
+- [Supremo anula condenação de Eduardo Cunha na Lava Jato](https://www.nexojornal.com.br/extra/2023/05/29/Supremo-anula-condena%C3%A7%C3%A3o-de-Eduardo-Cunha-na-Lava-Jato)
+- [Ao lado de Maduro, Lula defende entrada da Venezuela nos Brics](https://www.nexojornal.com.br/extra/2023/05/29/Ao-lado-de-Maduro-Lula-defende-entrada-da-Venezuela-nos-Brics)
+- [Bolsonaro provocou calote bilionário na Caixa, diz portal](https://www.nexojornal.com.br/extra/2023/05/29/Bolsonaro-provocou-calote-bilion%C3%A1rio-na-Caixa-diz-portal)
+- [Primeiro-ministro da Espanha antecipa eleições gerais](https://www.nexojornal.com.br/extra/2023/05/29/Primeiro-ministro-da-Espanha-antecipa-elei%C3%A7%C3%B5es-gerais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
