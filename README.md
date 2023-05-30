@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Volante que atuou no Vila Nova é banido do futebol](https://www.nexojornal.com.br/extra/2023/05/29/Volante-que-atuou-no-Vila-Nova-%C3%A9-banido-do-futebol)
-- [Supremo anula condenação de Eduardo Cunha na Lava Jato](https://www.nexojornal.com.br/extra/2023/05/29/Supremo-anula-condena%C3%A7%C3%A3o-de-Eduardo-Cunha-na-Lava-Jato)
-- [Ao lado de Maduro, Lula defende entrada da Venezuela nos Brics](https://www.nexojornal.com.br/extra/2023/05/29/Ao-lado-de-Maduro-Lula-defende-entrada-da-Venezuela-nos-Brics)
-- [Bolsonaro provocou calote bilionário na Caixa, diz portal](https://www.nexojornal.com.br/extra/2023/05/29/Bolsonaro-provocou-calote-bilion%C3%A1rio-na-Caixa-diz-portal)
 - [Primeiro-ministro da Espanha antecipa eleições gerais](https://www.nexojornal.com.br/extra/2023/05/29/Primeiro-ministro-da-Espanha-antecipa-elei%C3%A7%C3%B5es-gerais)
+- [Erro e excepcionalismo na decisão do TSE sobre o caso Deltan](https://www.nexojornal.com.br/ensaio/2023/05/28/Erro-e-excepcionalismo-na-decis%C3%A3o-do-TSE-sobre-o-caso-Deltan)
+- [O que a CPI do MST promete além de tumulto](https://www.nexojornal.com.br/expresso/2023/05/28/O-que-a-CPI-do-MST-promete-al%C3%A9m-de-tumulto)
+- [O potencial do Brasil para capturar carbono](https://www.nexojornal.com.br/expresso/2023/05/28/O-potencial-do-Brasil-para-capturar-carbono)
+- [Justiça cassa mandato de deputado de Marcelo Crivella](https://www.nexojornal.com.br/extra/2023/05/28/Justi%C3%A7a-cassa-mandato-de-deputado-de-Marcelo-Crivella)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
