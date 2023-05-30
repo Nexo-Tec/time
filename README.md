@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que fez o Quênia desconfiar que a China hackeou seu sistema](https://www.nexojornal.com.br/expresso/2023/05/29/O-que-fez-o-Qu%C3%AAnia-desconfiar-que-a-China-hackeou-seu-sistema)
-- [Imposto de renda: o que pode mudar para a próxima declaração](https://www.nexojornal.com.br/expresso/2023/05/29/Imposto-de-renda-o-que-pode-mudar-para-a-pr%C3%B3xima-declara%C3%A7%C3%A3o)
-- [Como 2023 virou um dos anos com mais mortes no Everest](https://www.nexojornal.com.br/expresso/2023/05/29/Como-2023-virou-um-dos-anos-com-mais-mortes-no-Everest)
-- [CACs registraram 1,3 milhão de armas em sistema](https://www.nexojornal.com.br/grafico/2023/05/29/CACs-registraram-13-milh%C3%A3o-de-armas-em-sistema)
-- [Os esforços de Lula para redimir Maduro na cena internacional](https://www.nexojornal.com.br/podcast/2023/05/29/Os-esfor%C3%A7os-de-Lula-para-redimir-Maduro-na-cena-internacional)
+- [O caso da lista tríplice. E a disputa pela sucessão de Aras](https://www.nexojornal.com.br/podcast/2023/05/30/O-caso-da-lista-tr%C3%ADplice.-E-a-disputa-pela-sucess%C3%A3o-de-Aras)
+- [Lacalle Pou e Boric criticam fala de Lula sobre Venezuela](https://www.nexojornal.com.br/extra/2023/05/30/Lacalle-Pou-e-Boric-criticam-fala-de-Lula-sobre-Venezuela)
+- [O site que usa IA para ajudar a comunicação de crianças autistas](https://www.nexojornal.com.br/expresso/2023/05/30/O-site-que-usa-IA-para-ajudar-a-comunica%C3%A7%C3%A3o-de-crian%C3%A7as-autistas)
+- [O caso dos racistas: reflexões para não desumanizar Vini Jr](https://www.nexojornal.com.br/colunistas/2023/O-caso-dos-racistas-reflex%C3%B5es-para-n%C3%A3o-desumanizar-Vini-Jr)
+- [Inspeção vai apurar irregularidades na 13ª Vara de Curitiba](https://www.nexojornal.com.br/extra/2023/05/30/Inspe%C3%A7%C3%A3o-vai-apurar-irregularidades-na-13%C2%AA-Vara-de-Curitiba)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
