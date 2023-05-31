@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob risco de derrota, governo libera R$ 1,7 bilhão em emendas](https://www.nexojornal.com.br/extra/2023/05/31/Sob-risco-de-derrota-governo-libera-R-17-bilh%C3%A3o-em-emendas)
-- [Ciência sem partido?](https://www.nexojornal.com.br/colunistas/2023/Ci%C3%AAncia-sem-partido)
-- [6 entre 10 crianças brasileiras não estão alfabetizadas, diz MEC](https://www.nexojornal.com.br/extra/2023/05/31/6-entre-10-crian%C3%A7as-brasileiras-n%C3%A3o-est%C3%A3o-alfabetizadas-diz-MEC)
-- [Como quebrar os tabus da 1ª menstruação com as crianças?](https://www.nexojornal.com.br/externo/2023/05/31/Como-quebrar-os-tabus-da-1%C2%AA-menstrua%C3%A7%C3%A3o-com-as-crian%C3%A7as)
-- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Arthur Lira diz que falta articulação política ao governo Lula](https://www.nexojornal.com.br/extra/2023/05/31/Arthur-Lira-diz-que-falta-articula%C3%A7%C3%A3o-pol%C3%ADtica-ao-governo-Lula)
+- [Quando o racismo recreativo é usado para gerar engajamento](https://www.nexojornal.com.br/podcast/2023/05/31/Quando-o-racismo-recreativo-%C3%A9-usado-para-gerar-engajamento)
+- [O que diz a ONU sobre a violação de direitos humanos na Venezuela](https://www.nexojornal.com.br/expresso/2023/05/31/O-que-diz-a-ONU-sobre-a-viola%C3%A7%C3%A3o-de-direitos-humanos-na-Venezuela)
+- [Supremo define pena de 8 anos e 10 meses de prisão para Collor](https://www.nexojornal.com.br/extra/2023/05/31/Supremo-define-pena-de-8-anos-e-10-meses-de-pris%C3%A3o-para-Collor)
+- [Entidades repudiam agressão a jornalistas em saída de Maduro](https://www.nexojornal.com.br/extra/2023/05/31/Entidades-repudiam-agress%C3%A3o-a-jornalistas-em-sa%C3%ADda-de-Maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
