@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Deltan diz que ‘não pensa duas vezes’ em defender Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/30/Deltan-diz-que-%E2%80%98n%C3%A3o-pensa-duas-vezes%E2%80%99-em-defender-Bolsonaro)
+- [PM usa bombas para dispersar ato indígena contra marco temporal](https://www.nexojornal.com.br/extra/2023/05/30/PM-usa-bombas-para-dispersar-ato-ind%C3%ADgena-contra-marco-temporal)
 - [O que fez o Quênia desconfiar que a China hackeou seu sistema](https://www.nexojornal.com.br/expresso/2023/05/29/O-que-fez-o-Qu%C3%AAnia-desconfiar-que-a-China-hackeou-seu-sistema)
 - [Imposto de renda: o que pode mudar para a próxima declaração](https://www.nexojornal.com.br/expresso/2023/05/29/Imposto-de-renda-o-que-pode-mudar-para-a-pr%C3%B3xima-declara%C3%A7%C3%A3o)
 - [Como 2023 virou um dos anos com mais mortes no Everest](https://www.nexojornal.com.br/expresso/2023/05/29/Como-2023-virou-um-dos-anos-com-mais-mortes-no-Everest)
-- [CACs registraram 1,3 milhão de armas em sistema](https://www.nexojornal.com.br/grafico/2023/05/29/CACs-registraram-13-milh%C3%A3o-de-armas-em-sistema)
-- [Os esforços de Lula para redimir Maduro na cena internacional](https://www.nexojornal.com.br/podcast/2023/05/29/Os-esfor%C3%A7os-de-Lula-para-redimir-Maduro-na-cena-internacional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
