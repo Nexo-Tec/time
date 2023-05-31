@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caso da lista tríplice. E a disputa pela sucessão de Aras](https://www.nexojornal.com.br/podcast/2023/05/30/O-caso-da-lista-tr%C3%ADplice.-E-a-disputa-pela-sucess%C3%A3o-de-Aras)
-- [Lacalle Pou e Boric criticam fala de Lula sobre Venezuela](https://www.nexojornal.com.br/extra/2023/05/30/Lacalle-Pou-e-Boric-criticam-fala-de-Lula-sobre-Venezuela)
-- [O site que usa IA para ajudar a comunicação de crianças autistas](https://www.nexojornal.com.br/expresso/2023/05/30/O-site-que-usa-IA-para-ajudar-a-comunica%C3%A7%C3%A3o-de-crian%C3%A7as-autistas)
-- [O caso dos racistas: reflexões para não desumanizar Vini Jr](https://www.nexojornal.com.br/colunistas/2023/O-caso-dos-racistas-reflex%C3%B5es-para-n%C3%A3o-desumanizar-Vini-Jr)
-- [Inspeção vai apurar irregularidades na 13ª Vara de Curitiba](https://www.nexojornal.com.br/extra/2023/05/30/Inspe%C3%A7%C3%A3o-vai-apurar-irregularidades-na-13%C2%AA-Vara-de-Curitiba)
+- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Quem disse isso: Ted Lasso ou um técnico brasileiro? Faça o teste](https://www.nexojornal.com.br/interativo/2023/05/30/Quem-disse-isso-Ted-Lasso-ou-um-t%C3%A9cnico-brasileiro-Fa%C3%A7a-o-teste)
+- [No que Lula aposta ao promover a integração da América do Sul](https://www.nexojornal.com.br/expresso/2023/05/30/No-que-Lula-aposta-ao-promover-a-integra%C3%A7%C3%A3o-da-Am%C3%A9rica-do-Sul)
+- [Adaptação climática: por que SP precisa priorizar recursos](https://www.nexojornal.com.br/ensaio/2023/05/30/Adapta%C3%A7%C3%A3o-clim%C3%A1tica-por-que-SP-precisa-priorizar-recursos)
+- [Marco temporal é aprovado na Câmara dos Deputados](https://www.nexojornal.com.br/extra/2023/05/30/Marco-temporal-%C3%A9-aprovado-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
