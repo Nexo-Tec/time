@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deltan diz que ‘não pensa duas vezes’ em defender Bolsonaro](https://www.nexojornal.com.br/extra/2023/05/30/Deltan-diz-que-%E2%80%98n%C3%A3o-pensa-duas-vezes%E2%80%99-em-defender-Bolsonaro)
-- [PM usa bombas para dispersar ato indígena contra marco temporal](https://www.nexojornal.com.br/extra/2023/05/30/PM-usa-bombas-para-dispersar-ato-ind%C3%ADgena-contra-marco-temporal)
-- [O que fez o Quênia desconfiar que a China hackeou seu sistema](https://www.nexojornal.com.br/expresso/2023/05/29/O-que-fez-o-Qu%C3%AAnia-desconfiar-que-a-China-hackeou-seu-sistema)
-- [Imposto de renda: o que pode mudar para a próxima declaração](https://www.nexojornal.com.br/expresso/2023/05/29/Imposto-de-renda-o-que-pode-mudar-para-a-pr%C3%B3xima-declara%C3%A7%C3%A3o)
-- [Como 2023 virou um dos anos com mais mortes no Everest](https://www.nexojornal.com.br/expresso/2023/05/29/Como-2023-virou-um-dos-anos-com-mais-mortes-no-Everest)
+- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Quem disse isso: Ted Lasso ou um técnico brasileiro? Faça o teste](https://www.nexojornal.com.br/interativo/2023/05/30/Quem-disse-isso-Ted-Lasso-ou-um-t%C3%A9cnico-brasileiro-Fa%C3%A7a-o-teste)
+- [No que Lula aposta ao promover a integração da América do Sul](https://www.nexojornal.com.br/expresso/2023/05/30/No-que-Lula-aposta-ao-promover-a-integra%C3%A7%C3%A3o-da-Am%C3%A9rica-do-Sul)
+- [Adaptação climática: por que SP precisa priorizar recursos](https://www.nexojornal.com.br/ensaio/2023/05/30/Adapta%C3%A7%C3%A3o-clim%C3%A1tica-por-que-SP-precisa-priorizar-recursos)
+- [Marco temporal é aprovado na Câmara dos Deputados](https://www.nexojornal.com.br/extra/2023/05/30/Marco-temporal-%C3%A9-aprovado-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
