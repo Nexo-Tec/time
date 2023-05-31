@@ -138,7 +138,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Tecnologias no sistema alimentar](https://pp.nexojornal.com.br/glossario/Tecnologias-no-sistema-alimentar)
 - [A intensa luta por leis de proteção à cidadania na internet chegou, mas a educação ainda está sendo vigiada](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-intensa-luta-por-leis-de-prote%C3%A7%C3%A3o-%C3%A0-cidadania-na-internet-chegou-mas-a-educa%C3%A7%C3%A3o-ainda-est%C3%A1-sendo-vigiada)
 - [O “casamento homoafetivo”, 10 anos depois](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-%E2%80%9Ccasamento-homoafetivo%E2%80%9D-10-anos-depois)
-- [Brasileiros&lpar;as&rpar; em Chicago: hierarquias transnacionais no jogo entre raça e etnia](https://pp.nexojornal.com.br/opiniao/2023/Brasileirosas-em-Chicago-hierarquias-transnacionais-no-jogo-entre-ra%C3%A7a-e-etnia)
+- [Brasileiros&lpar;s&rpar; em Chicago: hierarquias transnacionais no jogo entre raça e etnia](https://pp.nexojornal.com.br/opiniao/2023/Brasileiross-em-Chicago-hierarquias-transnacionais-no-jogo-entre-ra%C3%A7a-e-etnia)
 - [Do “criminoso negro” à criminalização das populações negras: Du Bois e a sociologia do crime e da violência](https://pp.nexojornal.com.br/opiniao/2023/Do-%E2%80%9Ccriminoso-negro%E2%80%9D-%C3%A0-criminaliza%C3%A7%C3%A3o-das-popula%C3%A7%C3%B5es-negras-Du-Bois-e-a-sociologia-do-crime-e-da-viol%C3%AAncia)
 <!-- PP_LIST:END -->
 
