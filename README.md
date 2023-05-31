@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O caso da lista tríplice. E a disputa pela sucessão de Aras](https://www.nexojornal.com.br/podcast/2023/05/30/O-caso-da-lista-tr%C3%ADplice.-E-a-disputa-pela-sucess%C3%A3o-de-Aras)
-- [Lacalle Pou e Boric criticam fala de Lula sobre Venezuela](https://www.nexojornal.com.br/extra/2023/05/30/Lacalle-Pou-e-Boric-criticam-fala-de-Lula-sobre-Venezuela)
-- [O site que usa IA para ajudar a comunicação de crianças autistas](https://www.nexojornal.com.br/expresso/2023/05/30/O-site-que-usa-IA-para-ajudar-a-comunica%C3%A7%C3%A3o-de-crian%C3%A7as-autistas)
-- [O caso dos racistas: reflexões para não desumanizar Vini Jr](https://www.nexojornal.com.br/colunistas/2023/O-caso-dos-racistas-reflex%C3%B5es-para-n%C3%A3o-desumanizar-Vini-Jr)
-- [Inspeção vai apurar irregularidades na 13ª Vara de Curitiba](https://www.nexojornal.com.br/extra/2023/05/30/Inspe%C3%A7%C3%A3o-vai-apurar-irregularidades-na-13%C2%AA-Vara-de-Curitiba)
+- [Sob risco de derrota, governo libera R$ 1,7 bilhão em emendas](https://www.nexojornal.com.br/extra/2023/05/31/Sob-risco-de-derrota-governo-libera-R-17-bilh%C3%A3o-em-emendas)
+- [Ciência sem partido?](https://www.nexojornal.com.br/colunistas/2023/Ci%C3%AAncia-sem-partido)
+- [6 entre 10 crianças brasileiras não estão alfabetizadas, diz MEC](https://www.nexojornal.com.br/extra/2023/05/31/6-entre-10-crian%C3%A7as-brasileiras-n%C3%A3o-est%C3%A3o-alfabetizadas-diz-MEC)
+- [Como quebrar os tabus da 1ª menstruação com as crianças?](https://www.nexojornal.com.br/externo/2023/05/31/Como-quebrar-os-tabus-da-1%C2%AA-menstrua%C3%A7%C3%A3o-com-as-crian%C3%A7as)
+- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
