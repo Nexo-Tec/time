@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Tecnologias no sistema alimentar](https://pp.nexojornal.com.br/glossario/Tecnologias-no-sistema-alimentar)
-- [A intensa luta por leis de proteção à cidadania na internet chegou, mas a educação ainda está sendo vigiada](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-intensa-luta-por-leis-de-prote%C3%A7%C3%A3o-%C3%A0-cidadania-na-internet-chegou-mas-a-educa%C3%A7%C3%A3o-ainda-est%C3%A1-sendo-vigiada)
-- [O “casamento homoafetivo”, 10 anos depois](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-%E2%80%9Ccasamento-homoafetivo%E2%80%9D-10-anos-depois)
-- [Brasileiros&lpar;s&rpar; em Chicago: hierarquias transnacionais no jogo entre raça e etnia](https://pp.nexojornal.com.br/opiniao/2023/Brasileiross-em-Chicago-hierarquias-transnacionais-no-jogo-entre-ra%C3%A7a-e-etnia)
-- [Do “criminoso negro” à criminalização das populações negras: Du Bois e a sociologia do crime e da violência](https://pp.nexojornal.com.br/opiniao/2023/Do-%E2%80%9Ccriminoso-negro%E2%80%9D-%C3%A0-criminaliza%C3%A7%C3%A3o-das-popula%C3%A7%C3%B5es-negras-Du-Bois-e-a-sociologia-do-crime-e-da-viol%C3%AAncia)
+- [Desigualdades na primeira infância](https://pp.nexojornal.com.br/ponto-de-vista/2023/Desigualdades-na-primeira-inf%C3%A2ncia)
+- [O uso de Inteligência Artificial na saúde, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-uso-de-Intelig%C3%AAncia-Artificial-na-sa%C3%BAde-em-6-pontos)
+- [Páginas em branco: raça e gênero nos principais jornais do país](https://pp.nexojornal.com.br/opiniao/2023/P%C3%A1ginas-em-branco-ra%C3%A7a-e-g%C3%AAnero-nos-principais-jornais-do-pa%C3%ADs)
+- [O caminho para consolidar o Sistema Nacional de Cultura](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-caminho-para-consolidar-o-Sistema-Nacional-de-Cultura)
+- [Recomposição das aprendizagens e desigualdades educacionais após a pandemia](https://pp.nexojornal.com.br/ponto-de-vista/2023/Recomposi%C3%A7%C3%A3o-das-aprendizagens-e-desigualdades-educacionais-ap%C3%B3s-a-pandemia)
 <!-- PP_LIST:END -->
 
