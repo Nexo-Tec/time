@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob risco de derrota, governo libera R$ 1,7 bilhão em emendas](https://www.nexojornal.com.br/extra/2023/05/31/Sob-risco-de-derrota-governo-libera-R-17-bilh%C3%A3o-em-emendas)
-- [Ciência sem partido?](https://www.nexojornal.com.br/colunistas/2023/Ci%C3%AAncia-sem-partido)
-- [6 entre 10 crianças brasileiras não estão alfabetizadas, diz MEC](https://www.nexojornal.com.br/extra/2023/05/31/6-entre-10-crian%C3%A7as-brasileiras-n%C3%A3o-est%C3%A3o-alfabetizadas-diz-MEC)
-- [Como quebrar os tabus da 1ª menstruação com as crianças?](https://www.nexojornal.com.br/externo/2023/05/31/Como-quebrar-os-tabus-da-1%C2%AA-menstrua%C3%A7%C3%A3o-com-as-crian%C3%A7as)
-- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Juíza manda Intercept tirar do ar série sobre alienação parental](https://www.nexojornal.com.br/extra/2023/06/01/Ju%C3%ADza-manda-Intercept-tirar-do-ar-s%C3%A9rie-sobre-aliena%C3%A7%C3%A3o-parental)
+- [Drones na Rússia: a guerra ultrapassou o território ucraniano?](https://www.nexojornal.com.br/expresso/2023/06/01/Drones-na-R%C3%BAssia-a-guerra-ultrapassou-o-territ%C3%B3rio-ucraniano)
+- [Corregedor pede data para TSE julgar Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/01/Corregedor-pede-data-para-TSE-julgar-Bolsonaro)
+- [Senado aprova MP da Esplanada horas antes de prazo final](https://www.nexojornal.com.br/extra/2023/06/01/Senado-aprova-MP-da-Esplanada-horas-antes-de-prazo-final)
+- [Lula confirma indicação de Zanin para vaga no Supremo](https://www.nexojornal.com.br/extra/2023/06/01/Lula-confirma-indica%C3%A7%C3%A3o-de-Zanin-para-vaga-no-Supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
