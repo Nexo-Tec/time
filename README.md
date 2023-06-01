@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob risco de derrota, governo libera R$ 1,7 bilhão em emendas](https://www.nexojornal.com.br/extra/2023/05/31/Sob-risco-de-derrota-governo-libera-R-17-bilh%C3%A3o-em-emendas)
-- [Ciência sem partido?](https://www.nexojornal.com.br/colunistas/2023/Ci%C3%AAncia-sem-partido)
-- [6 entre 10 crianças brasileiras não estão alfabetizadas, diz MEC](https://www.nexojornal.com.br/extra/2023/05/31/6-entre-10-crian%C3%A7as-brasileiras-n%C3%A3o-est%C3%A3o-alfabetizadas-diz-MEC)
-- [Como quebrar os tabus da 1ª menstruação com as crianças?](https://www.nexojornal.com.br/externo/2023/05/31/Como-quebrar-os-tabus-da-1%C2%AA-menstrua%C3%A7%C3%A3o-com-as-crian%C3%A7as)
-- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [‘Jogo é mais difícil do que aquele jogado por Lula no passado’](https://www.nexojornal.com.br/expresso/2023/05/31/%E2%80%98Jogo-%C3%A9-mais-dif%C3%ADcil-do-que-aquele-jogado-por-Lula-no-passado%E2%80%99)
+- [Câmara aprova MP da Esplanada com recados ao governo](https://www.nexojornal.com.br/extra/2023/05/31/C%C3%A2mara-aprova-MP-da-Esplanada-com-recados-ao-governo)
+- [A redução do número de acidentes fatais na aviação brasileira](https://www.nexojornal.com.br/grafico/2023/05/31/A-redu%C3%A7%C3%A3o-do-n%C3%BAmero-de-acidentes-fatais-na-avia%C3%A7%C3%A3o-brasileira)
+- [Adoçante faz mal pra saúde? Ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2023/Ado%C3%A7ante-faz-mal-pra-sa%C3%BAde-Ajuda-a-emagrecer)
+- [O vaivém do preço da gasolina explicado em 10 passos](https://www.nexojornal.com.br/expresso/2023/05/31/O-vaiv%C3%A9m-do-pre%C3%A7o-da-gasolina-explicado-em-10-passos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
