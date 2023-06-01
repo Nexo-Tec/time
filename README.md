@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Jogo é mais difícil do que aquele jogado por Lula no passado’](https://www.nexojornal.com.br/expresso/2023/05/31/%E2%80%98Jogo-%C3%A9-mais-dif%C3%ADcil-do-que-aquele-jogado-por-Lula-no-passado%E2%80%99)
-- [Câmara aprova MP da Esplanada com recados ao governo](https://www.nexojornal.com.br/extra/2023/05/31/C%C3%A2mara-aprova-MP-da-Esplanada-com-recados-ao-governo)
-- [A redução do número de acidentes fatais na aviação brasileira](https://www.nexojornal.com.br/grafico/2023/05/31/A-redu%C3%A7%C3%A3o-do-n%C3%BAmero-de-acidentes-fatais-na-avia%C3%A7%C3%A3o-brasileira)
-- [Adoçante faz mal pra saúde? Ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2023/Ado%C3%A7ante-faz-mal-pra-sa%C3%BAde-Ajuda-a-emagrecer)
-- [O vaivém do preço da gasolina explicado em 10 passos](https://www.nexojornal.com.br/expresso/2023/05/31/O-vaiv%C3%A9m-do-pre%C3%A7o-da-gasolina-explicado-em-10-passos)
+- [Arthur Lira diz que falta articulação política ao governo Lula](https://www.nexojornal.com.br/extra/2023/05/31/Arthur-Lira-diz-que-falta-articula%C3%A7%C3%A3o-pol%C3%ADtica-ao-governo-Lula)
+- [Quando o racismo recreativo é usado para gerar engajamento](https://www.nexojornal.com.br/podcast/2023/05/31/Quando-o-racismo-recreativo-%C3%A9-usado-para-gerar-engajamento)
+- [O que diz a ONU sobre a violação de direitos humanos na Venezuela](https://www.nexojornal.com.br/expresso/2023/05/31/O-que-diz-a-ONU-sobre-a-viola%C3%A7%C3%A3o-de-direitos-humanos-na-Venezuela)
+- [Supremo define pena de 8 anos e 10 meses de prisão para Collor](https://www.nexojornal.com.br/extra/2023/05/31/Supremo-define-pena-de-8-anos-e-10-meses-de-pris%C3%A3o-para-Collor)
+- [Entidades repudiam agressão a jornalistas em saída de Maduro](https://www.nexojornal.com.br/extra/2023/05/31/Entidades-repudiam-agress%C3%A3o-a-jornalistas-em-sa%C3%ADda-de-Maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
