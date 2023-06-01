@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arthur Lira diz que falta articulação política ao governo Lula](https://www.nexojornal.com.br/extra/2023/05/31/Arthur-Lira-diz-que-falta-articula%C3%A7%C3%A3o-pol%C3%ADtica-ao-governo-Lula)
-- [Quando o racismo recreativo é usado para gerar engajamento](https://www.nexojornal.com.br/podcast/2023/05/31/Quando-o-racismo-recreativo-%C3%A9-usado-para-gerar-engajamento)
-- [O que diz a ONU sobre a violação de direitos humanos na Venezuela](https://www.nexojornal.com.br/expresso/2023/05/31/O-que-diz-a-ONU-sobre-a-viola%C3%A7%C3%A3o-de-direitos-humanos-na-Venezuela)
-- [Supremo define pena de 8 anos e 10 meses de prisão para Collor](https://www.nexojornal.com.br/extra/2023/05/31/Supremo-define-pena-de-8-anos-e-10-meses-de-pris%C3%A3o-para-Collor)
-- [Entidades repudiam agressão a jornalistas em saída de Maduro](https://www.nexojornal.com.br/extra/2023/05/31/Entidades-repudiam-agress%C3%A3o-a-jornalistas-em-sa%C3%ADda-de-Maduro)
+- [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Quem disse isso: Ted Lasso ou um técnico brasileiro? Faça o teste](https://www.nexojornal.com.br/interativo/2023/05/30/Quem-disse-isso-Ted-Lasso-ou-um-t%C3%A9cnico-brasileiro-Fa%C3%A7a-o-teste)
+- [No que Lula aposta ao promover a integração da América do Sul](https://www.nexojornal.com.br/expresso/2023/05/30/No-que-Lula-aposta-ao-promover-a-integra%C3%A7%C3%A3o-da-Am%C3%A9rica-do-Sul)
+- [Adaptação climática: por que SP precisa priorizar recursos](https://www.nexojornal.com.br/ensaio/2023/05/30/Adapta%C3%A7%C3%A3o-clim%C3%A1tica-por-que-SP-precisa-priorizar-recursos)
+- [Marco temporal é aprovado na Câmara dos Deputados](https://www.nexojornal.com.br/extra/2023/05/30/Marco-temporal-%C3%A9-aprovado-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
