@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sob risco de derrota, governo libera R$ 1,7 bilhão em emendas](https://www.nexojornal.com.br/extra/2023/05/31/Sob-risco-de-derrota-governo-libera-R-17-bilh%C3%A3o-em-emendas)
-- [Ciência sem partido?](https://www.nexojornal.com.br/colunistas/2023/Ci%C3%AAncia-sem-partido)
-- [6 entre 10 crianças brasileiras não estão alfabetizadas, diz MEC](https://www.nexojornal.com.br/extra/2023/05/31/6-entre-10-crian%C3%A7as-brasileiras-n%C3%A3o-est%C3%A3o-alfabetizadas-diz-MEC)
-- [Como quebrar os tabus da 1ª menstruação com as crianças?](https://www.nexojornal.com.br/externo/2023/05/31/Como-quebrar-os-tabus-da-1%C2%AA-menstrua%C3%A7%C3%A3o-com-as-crian%C3%A7as)
 - [O poder da frente parlamentar por trás do desmonte ambiental](https://www.nexojornal.com.br/expresso/2023/05/31/O-poder-da-frente-parlamentar-por-tr%C3%A1s-do-desmonte-ambiental)
+- [Quem disse isso: Ted Lasso ou um técnico brasileiro? Faça o teste](https://www.nexojornal.com.br/interativo/2023/05/30/Quem-disse-isso-Ted-Lasso-ou-um-t%C3%A9cnico-brasileiro-Fa%C3%A7a-o-teste)
+- [No que Lula aposta ao promover a integração da América do Sul](https://www.nexojornal.com.br/expresso/2023/05/30/No-que-Lula-aposta-ao-promover-a-integra%C3%A7%C3%A3o-da-Am%C3%A9rica-do-Sul)
+- [Adaptação climática: por que SP precisa priorizar recursos](https://www.nexojornal.com.br/ensaio/2023/05/30/Adapta%C3%A7%C3%A3o-clim%C3%A1tica-por-que-SP-precisa-priorizar-recursos)
+- [Marco temporal é aprovado na Câmara dos Deputados](https://www.nexojornal.com.br/extra/2023/05/30/Marco-temporal-%C3%A9-aprovado-na-C%C3%A2mara-dos-Deputados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
