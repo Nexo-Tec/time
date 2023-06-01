@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Juíza manda Intercept tirar do ar série sobre alienação parental](https://www.nexojornal.com.br/extra/2023/06/01/Ju%C3%ADza-manda-Intercept-tirar-do-ar-s%C3%A9rie-sobre-aliena%C3%A7%C3%A3o-parental)
-- [Drones na Rússia: a guerra ultrapassou o território ucraniano?](https://www.nexojornal.com.br/expresso/2023/06/01/Drones-na-R%C3%BAssia-a-guerra-ultrapassou-o-territ%C3%B3rio-ucraniano)
-- [Corregedor pede data para TSE julgar Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/01/Corregedor-pede-data-para-TSE-julgar-Bolsonaro)
-- [Senado aprova MP da Esplanada horas antes de prazo final](https://www.nexojornal.com.br/extra/2023/06/01/Senado-aprova-MP-da-Esplanada-horas-antes-de-prazo-final)
-- [Lula confirma indicação de Zanin para vaga no Supremo](https://www.nexojornal.com.br/extra/2023/06/01/Lula-confirma-indica%C3%A7%C3%A3o-de-Zanin-para-vaga-no-Supremo)
+- [Arthur Lira diz que falta articulação política ao governo Lula](https://www.nexojornal.com.br/extra/2023/05/31/Arthur-Lira-diz-que-falta-articula%C3%A7%C3%A3o-pol%C3%ADtica-ao-governo-Lula)
+- [Quando o racismo recreativo é usado para gerar engajamento](https://www.nexojornal.com.br/podcast/2023/05/31/Quando-o-racismo-recreativo-%C3%A9-usado-para-gerar-engajamento)
+- [O que diz a ONU sobre a violação de direitos humanos na Venezuela](https://www.nexojornal.com.br/expresso/2023/05/31/O-que-diz-a-ONU-sobre-a-viola%C3%A7%C3%A3o-de-direitos-humanos-na-Venezuela)
+- [Supremo define pena de 8 anos e 10 meses de prisão para Collor](https://www.nexojornal.com.br/extra/2023/05/31/Supremo-define-pena-de-8-anos-e-10-meses-de-pris%C3%A3o-para-Collor)
+- [Entidades repudiam agressão a jornalistas em saída de Maduro](https://www.nexojornal.com.br/extra/2023/05/31/Entidades-repudiam-agress%C3%A3o-a-jornalistas-em-sa%C3%ADda-de-Maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
