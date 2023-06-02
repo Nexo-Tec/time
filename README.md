@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A proposta de revisão do Plano Diretor de SP sob análise](https://www.nexojornal.com.br/expresso/2023/06/01/A-proposta-de-revis%C3%A3o-do-Plano-Diretor-de-SP-sob-an%C3%A1lise)
-- [3 fatores que ajudam a explicar o PIB do primeiro trimestre](https://www.nexojornal.com.br/expresso/2023/06/01/3-fatores-que-ajudam-a-explicar-o-PIB-do-primeiro-trimestre)
-- [A relação histórica entre a milícia e o jogo do bicho](https://www.nexojornal.com.br/academico/2023/06/01/A-rela%C3%A7%C3%A3o-hist%C3%B3rica-entre-a-mil%C3%ADcia-e-o-jogo-do-bicho)
-- [Testemunhas da revolução: travestis por todo canto](https://www.nexojornal.com.br/colunistas/2023/Testemunhas-da-revolu%C3%A7%C3%A3o-travestis-por-todo-canto)
-- [Lira: entre ações da PF, denúncia no STF e embates no Congresso](https://www.nexojornal.com.br/podcast/2023/06/01/Lira-entre-a%C3%A7%C3%B5es-da-PF-den%C3%BAncia-no-STF-e-embates-no-Congresso)
+- [‘Jogo é mais difícil do que aquele jogado por Lula no passado’](https://www.nexojornal.com.br/expresso/2023/05/31/%E2%80%98Jogo-%C3%A9-mais-dif%C3%ADcil-do-que-aquele-jogado-por-Lula-no-passado%E2%80%99)
+- [Câmara aprova MP da Esplanada com recados ao governo](https://www.nexojornal.com.br/extra/2023/05/31/C%C3%A2mara-aprova-MP-da-Esplanada-com-recados-ao-governo)
+- [A redução do número de acidentes fatais na aviação brasileira](https://www.nexojornal.com.br/grafico/2023/05/31/A-redu%C3%A7%C3%A3o-do-n%C3%BAmero-de-acidentes-fatais-na-avia%C3%A7%C3%A3o-brasileira)
+- [Adoçante faz mal pra saúde? Ajuda a emagrecer?](https://www.nexojornal.com.br/colunistas/2023/Ado%C3%A7ante-faz-mal-pra-sa%C3%BAde-Ajuda-a-emagrecer)
+- [O vaivém do preço da gasolina explicado em 10 passos](https://www.nexojornal.com.br/expresso/2023/05/31/O-vaiv%C3%A9m-do-pre%C3%A7o-da-gasolina-explicado-em-10-passos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
