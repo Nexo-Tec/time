@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Juíza manda Intercept tirar do ar série sobre alienação parental](https://www.nexojornal.com.br/extra/2023/06/01/Ju%C3%ADza-manda-Intercept-tirar-do-ar-s%C3%A9rie-sobre-aliena%C3%A7%C3%A3o-parental)
-- [Drones na Rússia: a guerra ultrapassou o território ucraniano?](https://www.nexojornal.com.br/expresso/2023/06/01/Drones-na-R%C3%BAssia-a-guerra-ultrapassou-o-territ%C3%B3rio-ucraniano)
-- [Corregedor pede data para TSE julgar Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/01/Corregedor-pede-data-para-TSE-julgar-Bolsonaro)
-- [Senado aprova MP da Esplanada horas antes de prazo final](https://www.nexojornal.com.br/extra/2023/06/01/Senado-aprova-MP-da-Esplanada-horas-antes-de-prazo-final)
-- [Lula confirma indicação de Zanin para vaga no Supremo](https://www.nexojornal.com.br/extra/2023/06/01/Lula-confirma-indica%C3%A7%C3%A3o-de-Zanin-para-vaga-no-Supremo)
+- [O que esperar de Cristiano Zanin, indicado por Lula ao Supremo](https://www.nexojornal.com.br/expresso/2023/06/02/O-que-esperar-de-Cristiano-Zanin-indicado-por-Lula-ao-Supremo)
+- [A proposta de revisão do Plano Diretor de SP sob análise](https://www.nexojornal.com.br/expresso/2023/06/01/A-proposta-de-revis%C3%A3o-do-Plano-Diretor-de-SP-sob-an%C3%A1lise)
+- [3 fatores que ajudam a explicar o PIB do primeiro trimestre](https://www.nexojornal.com.br/expresso/2023/06/01/3-fatores-que-ajudam-a-explicar-o-PIB-do-primeiro-trimestre)
+- [A relação histórica entre a milícia e o jogo do bicho](https://www.nexojornal.com.br/academico/2023/06/01/A-rela%C3%A7%C3%A3o-hist%C3%B3rica-entre-a-mil%C3%ADcia-e-o-jogo-do-bicho)
+- [Testemunhas da revolução: travestis por todo canto](https://www.nexojornal.com.br/colunistas/2023/Testemunhas-da-revolu%C3%A7%C3%A3o-travestis-por-todo-canto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
