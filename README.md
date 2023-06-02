@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sucession, um ritual de rebelião](https://gamarevista.uol.com.br/artigo/sucession-um-ritual-de-rebeliao/)
 - [“Succession” e a selvageria da condição humana](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/succession-e-a-selvageria-da-condicao-humana/)
 - [Eles te fodem, teus queridos pais](https://gamarevista.uol.com.br/colunistas/fernando-luna/eles-te-fodem-teus-queridos-pais/)
 - [@martasalogni](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/martasalogni/)
 - [Tainá Müller: “O humor é nossa grande ferramenta para sobreviver neste mundo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/taina-muller-fala-sobre-humor-e-leveza/)
-- [Um espetáculo macabro](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-espetaculo-macabro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
