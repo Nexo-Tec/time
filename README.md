@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Submundo: Cadernos de um penitenciário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/submundo-cadernos-de-um-penitenciario/)
+- [De volta ao Aranhaverso](https://gamarevista.uol.com.br/achamos-que-vale/assistir/de-volta-ao-aranhaverso/)
+- [Série com Adriana Esteves e inspirada em “Parasita”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-com-adriana-esteves-e-inspirada-em-parasita/)
 - [Uma investigação sobre gênero](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-investigacao-sobre-genero/)
 - [O novo disco de Arlo Parks, revelação do festival C6](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-disco-de-arlo-parks-revelacao-do-festival-c6/)
-- [Arte contemporânea no Pacaembu](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-no-pacaembu/)
-- [Sucession, um ritual de rebelião](https://gamarevista.uol.com.br/artigo/sucession-um-ritual-de-rebeliao/)
-- [“Succession” e a selvageria da condição humana](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/succession-e-a-selvageria-da-condicao-humana/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
