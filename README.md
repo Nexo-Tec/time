@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [4 pontos sobre as desigualdades raciais no Enem](https://www.nexojornal.com.br/expresso/2023/06/02/4-pontos-sobre-as-desigualdades-raciais-no-Enem)
-- [Covid: Brasil deixa de exigir documentos para entrada no país](https://www.nexojornal.com.br/extra/2023/06/02/Covid-Brasil-deixa-de-exigir-documentos-para-entrada-no-pa%C3%ADs)
-- [CGU detecta pagamento indevido de auxílios no ano eleitoral](https://www.nexojornal.com.br/extra/2023/06/02/CGU-detecta-pagamento-indevido-de-aux%C3%ADlios-no-ano-eleitoral)
-- [Senado americano aprova medida que evita calote dos EUA](https://www.nexojornal.com.br/extra/2023/06/02/Senado-americano-aprova-medida-que-evita-calote-dos-EUA)
-- [O hotel sul-africano que foi construído com cânhamo](https://www.nexojornal.com.br/expresso/2023/06/02/O-hotel-sul-africano-que-foi-constru%C3%ADdo-com-c%C3%A2nhamo)
+- [O que esperar de Cristiano Zanin, indicado por Lula ao Supremo](https://www.nexojornal.com.br/expresso/2023/06/02/O-que-esperar-de-Cristiano-Zanin-indicado-por-Lula-ao-Supremo)
+- [A proposta de revisão do Plano Diretor de SP sob análise](https://www.nexojornal.com.br/expresso/2023/06/01/A-proposta-de-revis%C3%A3o-do-Plano-Diretor-de-SP-sob-an%C3%A1lise)
+- [3 fatores que ajudam a explicar o PIB do primeiro trimestre](https://www.nexojornal.com.br/expresso/2023/06/01/3-fatores-que-ajudam-a-explicar-o-PIB-do-primeiro-trimestre)
+- [A relação histórica entre a milícia e o jogo do bicho](https://www.nexojornal.com.br/academico/2023/06/01/A-rela%C3%A7%C3%A3o-hist%C3%B3rica-entre-a-mil%C3%ADcia-e-o-jogo-do-bicho)
+- [Testemunhas da revolução: travestis por todo canto](https://www.nexojornal.com.br/colunistas/2023/Testemunhas-da-revolu%C3%A7%C3%A3o-travestis-por-todo-canto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
