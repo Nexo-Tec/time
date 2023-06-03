@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Caminhos do retorno: o Brasil de volta a qual América Latina?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Caminhos-do-retorno-o-Brasil-de-volta-a-qual-Am%C3%A9rica-Latina)
-- [A &lpar;re&rpar;construção de uma política educacional democrática, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-reconstru%C3%A7%C3%A3o-de-uma-pol%C3%ADtica-educacional-democr%C3%A1tica-em-5-pontos)
-- [Mineração, energia e clima: uma equação global e brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/Minera%C3%A7%C3%A3o-energia-e-clima-uma-equa%C3%A7%C3%A3o-global-e-brasileira)
-- [Bonecas negras na escola: do estereótipo de assombração à práticas  emancipatórias](https://pp.nexojornal.com.br/opiniao/2023/Bonecas-negras-na-escola-do-estere%C3%B3tipo-de-assombra%C3%A7%C3%A3o-%C3%A0-pr%C3%A1ticas-emancipat%C3%B3rias)
 - [Como a quantidade de drogas pode funcionar como critério de distinção das condutas de uso e tráfico](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-a-quantidade-de-drogas-pode-funcionar-como-crit%C3%A9rio-de-distin%C3%A7%C3%A3o-das-condutas-de-uso-e-tr%C3%A1fico)
+- [Tecnologias no sistema alimentar](https://pp.nexojornal.com.br/glossario/Tecnologias-no-sistema-alimentar)
+- [A intensa luta por leis de proteção à cidadania na internet chegou, mas a educação ainda está sendo vigiada](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-intensa-luta-por-leis-de-prote%C3%A7%C3%A3o-%C3%A0-cidadania-na-internet-chegou-mas-a-educa%C3%A7%C3%A3o-ainda-est%C3%A1-sendo-vigiada)
+- [O “casamento homoafetivo”, 10 anos depois](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-%E2%80%9Ccasamento-homoafetivo%E2%80%9D-10-anos-depois)
+- [Brasileiros&lpar;as&rpar; em Chicago: hierarquias transnacionais no jogo entre raça e etnia](https://pp.nexojornal.com.br/opiniao/2023/Brasileirosas-em-Chicago-hierarquias-transnacionais-no-jogo-entre-ra%C3%A7a-e-etnia)
 <!-- PP_LIST:END -->
 
