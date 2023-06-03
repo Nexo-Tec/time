@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [4 pontos sobre as desigualdades raciais no Enem](https://www.nexojornal.com.br/expresso/2023/06/02/4-pontos-sobre-as-desigualdades-raciais-no-Enem)
-- [Covid: Brasil deixa de exigir documentos para entrada no país](https://www.nexojornal.com.br/extra/2023/06/02/Covid-Brasil-deixa-de-exigir-documentos-para-entrada-no-pa%C3%ADs)
-- [CGU detecta pagamento indevido de auxílios no ano eleitoral](https://www.nexojornal.com.br/extra/2023/06/02/CGU-detecta-pagamento-indevido-de-aux%C3%ADlios-no-ano-eleitoral)
-- [Senado americano aprova medida que evita calote dos EUA](https://www.nexojornal.com.br/extra/2023/06/02/Senado-americano-aprova-medida-que-evita-calote-dos-EUA)
-- [O hotel sul-africano que foi construído com cânhamo](https://www.nexojornal.com.br/expresso/2023/06/02/O-hotel-sul-africano-que-foi-constru%C3%ADdo-com-c%C3%A2nhamo)
+- [Quais são as raízes da política anti-LGBTI+ de Uganda](https://www.nexojornal.com.br/expresso/2023/06/02/Quais-s%C3%A3o-as-ra%C3%ADzes-da-pol%C3%ADtica-anti-LGBTI-de-Uganda)
+- [Junho de 2013: a revolta de um mês que marcou uma década](https://www.nexojornal.com.br/explicado/2023/06/02/Junho-de-2013-a-revolta-de-um-m%C3%AAs-que-marcou-uma-d%C3%A9cada)
+- [Como a proteção de tigres na Índia diminuiu o desmatamento](https://www.nexojornal.com.br/externo/2023/06/02/Como-a-prote%C3%A7%C3%A3o-de-tigres-na-%C3%8Dndia-diminuiu-o-desmatamento)
+- [‘Ventos do apocalipse’: os horrores da guerra em Moçambique](https://www.nexojornal.com.br/estante/trechos/2023/06/02/%E2%80%98Ventos-do-apocalipse%E2%80%99-os-horrores-da-guerra-em-Mo%C3%A7ambique)
+- [A indicação de Zanin ao STF. A tensão na Câmara. E mais](https://www.nexojornal.com.br/video/extrato/A-indica%C3%A7%C3%A3o-de-Zanin-ao-STF.-A-tens%C3%A3o-na-C%C3%A2mara.-E-mais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
