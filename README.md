@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Julia Rezende: “Há uma indignação que uma história real provoca”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/julia-rezende-boate-kiss-netflix/)
 - [Em louvor da acidez](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/em-louvor-da-acidez/)
 - [Submundo: Cadernos de um penitenciário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/submundo-cadernos-de-um-penitenciario/)
 - [De volta ao Aranhaverso](https://gamarevista.uol.com.br/achamos-que-vale/assistir/de-volta-ao-aranhaverso/)
 - [Série com Adriana Esteves e inspirada em “Parasita”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/serie-com-adriana-esteves-e-inspirada-em-parasita/)
-- [Uma investigação sobre gênero](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-investigacao-sobre-genero/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
