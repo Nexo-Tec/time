@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais são as raízes da política anti-LGBTI+ de Uganda](https://www.nexojornal.com.br/expresso/2023/06/02/Quais-s%C3%A3o-as-ra%C3%ADzes-da-pol%C3%ADtica-anti-LGBTI-de-Uganda)
-- [Junho de 2013: a revolta de um mês que marcou uma década](https://www.nexojornal.com.br/explicado/2023/06/02/Junho-de-2013-a-revolta-de-um-m%C3%AAs-que-marcou-uma-d%C3%A9cada)
-- [Como a proteção de tigres na Índia diminuiu o desmatamento](https://www.nexojornal.com.br/externo/2023/06/02/Como-a-prote%C3%A7%C3%A3o-de-tigres-na-%C3%8Dndia-diminuiu-o-desmatamento)
-- [‘Ventos do apocalipse’: os horrores da guerra em Moçambique](https://www.nexojornal.com.br/estante/trechos/2023/06/02/%E2%80%98Ventos-do-apocalipse%E2%80%99-os-horrores-da-guerra-em-Mo%C3%A7ambique)
-- [A indicação de Zanin ao STF. A tensão na Câmara. E mais](https://www.nexojornal.com.br/video/extrato/A-indica%C3%A7%C3%A3o-de-Zanin-ao-STF.-A-tens%C3%A3o-na-C%C3%A2mara.-E-mais)
+- [O que a icônica foto de Oscar Wilde revela sobre direitos autorais](https://www.nexojornal.com.br/expresso/2023/06/03/O-que-a-ic%C3%B4nica-foto-de-Oscar-Wilde-revela-sobre-direitos-autorais)
+- [5 livros para pensar como será o mundo no futuro](https://www.nexojornal.com.br/estante/favoritos/2023/06/03/5-livros-para-pensar-como-ser%C3%A1-o-mundo-no-futuro)
+- [Como uma viagem internacional selou a saída de Messi do PSG](https://www.nexojornal.com.br/expresso/2023/06/03/Como-uma-viagem-internacional-selou-a-sa%C3%ADda-de-Messi-do-PSG)
+- [Tortura, repressão e vigilância: a Petrobras na ditadura militar](https://www.nexojornal.com.br/externo/2023/06/03/Tortura-repress%C3%A3o-e-vigil%C3%A2ncia-a-Petrobras-na-ditadura-militar)
+- [120 anos de Pedro Nava: uma imaginação brasileira cosmopolita](https://www.nexojornal.com.br/ensaio/2023/06/03/120-anos-de-Pedro-Nava-uma-imagina%C3%A7%C3%A3o-brasileira-cosmopolita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
