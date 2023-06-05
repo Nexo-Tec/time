@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que a icônica foto de Oscar Wilde revela sobre direitos autorais](https://www.nexojornal.com.br/expresso/2023/06/03/O-que-a-ic%C3%B4nica-foto-de-Oscar-Wilde-revela-sobre-direitos-autorais)
-- [5 livros para pensar como será o mundo no futuro](https://www.nexojornal.com.br/estante/favoritos/2023/06/03/5-livros-para-pensar-como-ser%C3%A1-o-mundo-no-futuro)
-- [Como uma viagem internacional selou a saída de Messi do PSG](https://www.nexojornal.com.br/expresso/2023/06/03/Como-uma-viagem-internacional-selou-a-sa%C3%ADda-de-Messi-do-PSG)
-- [Tortura, repressão e vigilância: a Petrobras na ditadura militar](https://www.nexojornal.com.br/externo/2023/06/03/Tortura-repress%C3%A3o-e-vigil%C3%A2ncia-a-Petrobras-na-ditadura-militar)
-- [120 anos de Pedro Nava: uma imaginação brasileira cosmopolita](https://www.nexojornal.com.br/ensaio/2023/06/03/120-anos-de-Pedro-Nava-uma-imagina%C3%A7%C3%A3o-brasileira-cosmopolita)
+- [Oferta de alimentos condiciona reprodução de águias brasileiras](https://www.nexojornal.com.br/externo/2023/06/04/Oferta-de-alimentos-condiciona-reprodu%C3%A7%C3%A3o-de-%C3%A1guias-brasileiras)
+- [300 anos de Adam Smith: a moral capitalista](https://www.nexojornal.com.br/ensaio/2023/06/04/300-anos-de-Adam-Smith-a-moral-capitalista)
+- [O que o STF perde com a falta de diversidade de raça e gênero](https://www.nexojornal.com.br/expresso/2023/06/04/O-que-o-STF-perde-com-a-falta-de-diversidade-de-ra%C3%A7a-e-g%C3%AAnero)
+- [Um glossário para acompanhar o debate da reforma tributária](https://www.nexojornal.com.br/expresso/2023/06/04/Um-gloss%C3%A1rio-para-acompanhar-o-debate-da-reforma-tribut%C3%A1ria)
+- [China diz que confronto com EUA representaria ‘desastre’](https://www.nexojornal.com.br/extra/2023/06/04/China-diz-que-confronto-com-EUA-representaria-%E2%80%98desastre%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
