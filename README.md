@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desoneração ou cashback: como lidar com os impostos da cesta básica](https://www.nexojornal.com.br/expresso/2023/06/05/Desonera%C3%A7%C3%A3o-ou-cashback-como-lidar-com-os-impostos-da-cesta-b%C3%A1sica)
-- [Por que a Mata Atlântica ainda é alvo de investidas](https://www.nexojornal.com.br/expresso/2023/06/05/Por-que-a-Mata-Atl%C3%A2ntica-ainda-%C3%A9-alvo-de-investidas)
-- [Dia do Meio Ambiente: as contradições e desafios do Brasil](https://www.nexojornal.com.br/podcast/2023/06/05/Dia-do-Meio-Ambiente-as-contradi%C3%A7%C3%B5es-e-desafios-do-Brasil)
-- [A repatriação do fóssil do novo dinossauro brasileiro](https://www.nexojornal.com.br/expresso/2023/06/05/A-repatria%C3%A7%C3%A3o-do-f%C3%B3ssil-do-novo-dinossauro-brasileiro)
-- [Arthur Lira demite aliado investigado por fraudes na educação](https://www.nexojornal.com.br/extra/2023/06/05/Arthur-Lira-demite-aliado-investigado-por-fraudes-na-educa%C3%A7%C3%A3o)
+- [Oferta de alimentos condiciona reprodução de águias brasileiras](https://www.nexojornal.com.br/externo/2023/06/04/Oferta-de-alimentos-condiciona-reprodu%C3%A7%C3%A3o-de-%C3%A1guias-brasileiras)
+- [300 anos de Adam Smith: a moral capitalista](https://www.nexojornal.com.br/ensaio/2023/06/04/300-anos-de-Adam-Smith-a-moral-capitalista)
+- [O que o STF perde com a falta de diversidade de raça e gênero](https://www.nexojornal.com.br/expresso/2023/06/04/O-que-o-STF-perde-com-a-falta-de-diversidade-de-ra%C3%A7a-e-g%C3%AAnero)
+- [Um glossário para acompanhar o debate da reforma tributária](https://www.nexojornal.com.br/expresso/2023/06/04/Um-gloss%C3%A1rio-para-acompanhar-o-debate-da-reforma-tribut%C3%A1ria)
+- [China diz que confronto com EUA representaria ‘desastre’](https://www.nexojornal.com.br/extra/2023/06/04/China-diz-que-confronto-com-EUA-representaria-%E2%80%98desastre%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
