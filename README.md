@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Políticas públicas para as juventudes: panorama e possíveis direções](https://pp.nexojornal.com.br/ponto-de-vista/2023/Pol%C3%ADticas-p%C3%BAblicas-para-as-juventudes-panorama-e-poss%C3%ADveis-dire%C3%A7%C3%B5es)
+- [Mais um elemento para coordenar: o Senado e a sua relação com o governo](https://pp.nexojornal.com.br/ponto-de-vista/2023/Mais-um-elemento-para-coordenar-o-Senado-e-a-sua-rela%C3%A7%C3%A3o-com-o-governo)
 - [Caminhos do retorno: o Brasil de volta a qual América Latina?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Caminhos-do-retorno-o-Brasil-de-volta-a-qual-Am%C3%A9rica-Latina)
 - [A &lpar;re&rpar;construção de uma política educacional democrática, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-reconstru%C3%A7%C3%A3o-de-uma-pol%C3%ADtica-educacional-democr%C3%A1tica-em-5-pontos)
 - [Mineração, energia e clima: uma equação global e brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/Minera%C3%A7%C3%A3o-energia-e-clima-uma-equa%C3%A7%C3%A3o-global-e-brasileira)
-- [Bonecas negras na escola: do estereótipo de assombração à práticas  emancipatórias](https://pp.nexojornal.com.br/opiniao/2023/Bonecas-negras-na-escola-do-estere%C3%B3tipo-de-assombra%C3%A7%C3%A3o-%C3%A0-pr%C3%A1ticas-emancipat%C3%B3rias)
-- [Como a quantidade de drogas pode funcionar como critério de distinção das condutas de uso e tráfico](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-a-quantidade-de-drogas-pode-funcionar-como-crit%C3%A9rio-de-distin%C3%A7%C3%A3o-das-condutas-de-uso-e-tr%C3%A1fico)
 <!-- PP_LIST:END -->
 
