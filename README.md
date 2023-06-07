@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Homem negro é amarrado por policiais após flagrante de furto](https://www.nexojornal.com.br/extra/2023/06/07/Homem-negro-%C3%A9-amarrado-por-policiais-ap%C3%B3s-flagrante-de-furto)
 - [A militarização na Indonésia às vésperas do ano de eleição](https://www.nexojornal.com.br/expresso/2023/06/06/A-militariza%C3%A7%C3%A3o-na-Indon%C3%A9sia-%C3%A0s-v%C3%A9speras-do-ano-de-elei%C3%A7%C3%A3o)
 - [O quanto preocupa a gripe aviária que chega ao Brasil](https://www.nexojornal.com.br/expresso/2023/06/06/O-quanto-preocupa-a-gripe-avi%C3%A1ria-que-chega-ao-Brasil)
 - [Como a inação do STF elevou a pressão sobre a população indígena](https://www.nexojornal.com.br/expresso/2023/06/06/Como-a-ina%C3%A7%C3%A3o-do-STF-elevou-a-press%C3%A3o-sobre-a-popula%C3%A7%C3%A3o-ind%C3%ADgena)
 - [Imprensa livre é pilar para proteger a democracia](https://www.nexojornal.com.br/ensaio/2023/06/06/Imprensa-livre-%C3%A9-pilar-para-proteger-a-democracia)
+- [Gosta de sequências matemáticas? Veja aqui esta enciclopédia](https://www.nexojornal.com.br/expresso/2023/06/06/Gosta-de-sequ%C3%AAncias-matem%C3%A1ticas-Veja-aqui-esta-enciclop%C3%A9dia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
