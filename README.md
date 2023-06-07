@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desoneração ou cashback: como lidar com os impostos da cesta básica](https://www.nexojornal.com.br/expresso/2023/06/05/Desonera%C3%A7%C3%A3o-ou-cashback-como-lidar-com-os-impostos-da-cesta-b%C3%A1sica)
-- [Por que a Mata Atlântica ainda é alvo de investidas](https://www.nexojornal.com.br/expresso/2023/06/05/Por-que-a-Mata-Atl%C3%A2ntica-ainda-%C3%A9-alvo-de-investidas)
-- [Dia do Meio Ambiente: as contradições e desafios do Brasil](https://www.nexojornal.com.br/podcast/2023/06/05/Dia-do-Meio-Ambiente-as-contradi%C3%A7%C3%B5es-e-desafios-do-Brasil)
-- [A repatriação do fóssil do novo dinossauro brasileiro](https://www.nexojornal.com.br/expresso/2023/06/05/A-repatria%C3%A7%C3%A3o-do-f%C3%B3ssil-do-novo-dinossauro-brasileiro)
-- [Arthur Lira demite aliado investigado por fraudes na educação](https://www.nexojornal.com.br/extra/2023/06/05/Arthur-Lira-demite-aliado-investigado-por-fraudes-na-educa%C3%A7%C3%A3o)
+- [Homem negro é amarrado por policiais após flagrante de furto](https://www.nexojornal.com.br/extra/2023/06/07/Homem-negro-%C3%A9-amarrado-por-policiais-ap%C3%B3s-flagrante-de-furto)
+- [A militarização na Indonésia às vésperas do ano de eleição](https://www.nexojornal.com.br/expresso/2023/06/06/A-militariza%C3%A7%C3%A3o-na-Indon%C3%A9sia-%C3%A0s-v%C3%A9speras-do-ano-de-elei%C3%A7%C3%A3o)
+- [O quanto preocupa a gripe aviária que chega ao Brasil](https://www.nexojornal.com.br/expresso/2023/06/06/O-quanto-preocupa-a-gripe-avi%C3%A1ria-que-chega-ao-Brasil)
+- [Como a inação do STF elevou a pressão sobre a população indígena](https://www.nexojornal.com.br/expresso/2023/06/06/Como-a-ina%C3%A7%C3%A3o-do-STF-elevou-a-press%C3%A3o-sobre-a-popula%C3%A7%C3%A3o-ind%C3%ADgena)
+- [Imprensa livre é pilar para proteger a democracia](https://www.nexojornal.com.br/ensaio/2023/06/06/Imprensa-livre-%C3%A9-pilar-para-proteger-a-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
