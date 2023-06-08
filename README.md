@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os sinais de reaproximação de Lula com evangélicos](https://www.nexojornal.com.br/expresso/2023/06/07/Quais-os-sinais-de-reaproxima%C3%A7%C3%A3o-de-Lula-com-evang%C3%A9licos)
-- [Concessões, tensões e definições: o relatório da reforma tributária](https://www.nexojornal.com.br/expresso/2023/06/07/Concess%C3%B5es-tens%C3%B5es-e-defini%C3%A7%C3%B5es-o-relat%C3%B3rio-da-reforma-tribut%C3%A1ria)
 - [O projeto que propõe usar baleias como crédito de carbono](https://www.nexojornal.com.br/expresso/2023/06/07/O-projeto-que-prop%C3%B5e-usar-baleias-como-cr%C3%A9dito-de-carbono)
 - [Motorista, prepare a buzina: a velha Kombi está de volta](https://www.nexojornal.com.br/colunistas/2023/Motorista-prepare-a-buzina-a-velha-Kombi-est%C3%A1-de-volta)
 - [O site que é um Google Maps com estradas do Império Romano](https://www.nexojornal.com.br/expresso/2023/06/07/O-site-que-%C3%A9-um-Google-Maps-com-estradas-do-Imp%C3%A9rio-Romano)
+- [O grupo empresarial suspeito de atacar posseiros na ditadura](https://www.nexojornal.com.br/externo/2023/06/07/O-grupo-empresarial-suspeito-de-atacar-posseiros-na-ditadura)
+- [As mobilizações de rua e de gabinete em torno do marco temporal](https://www.nexojornal.com.br/podcast/2023/06/07/As-mobiliza%C3%A7%C3%B5es-de-rua-e-de-gabinete-em-torno-do-marco-temporal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
