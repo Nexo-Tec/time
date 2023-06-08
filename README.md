@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Homem negro é amarrado por policiais após flagrante de furto](https://www.nexojornal.com.br/extra/2023/06/07/Homem-negro-%C3%A9-amarrado-por-policiais-ap%C3%B3s-flagrante-de-furto)
-- [A militarização na Indonésia às vésperas do ano de eleição](https://www.nexojornal.com.br/expresso/2023/06/06/A-militariza%C3%A7%C3%A3o-na-Indon%C3%A9sia-%C3%A0s-v%C3%A9speras-do-ano-de-elei%C3%A7%C3%A3o)
-- [O quanto preocupa a gripe aviária que chega ao Brasil](https://www.nexojornal.com.br/expresso/2023/06/06/O-quanto-preocupa-a-gripe-avi%C3%A1ria-que-chega-ao-Brasil)
-- [Como a inação do STF elevou a pressão sobre a população indígena](https://www.nexojornal.com.br/expresso/2023/06/06/Como-a-ina%C3%A7%C3%A3o-do-STF-elevou-a-press%C3%A3o-sobre-a-popula%C3%A7%C3%A3o-ind%C3%ADgena)
-- [Imprensa livre é pilar para proteger a democracia](https://www.nexojornal.com.br/ensaio/2023/06/06/Imprensa-livre-%C3%A9-pilar-para-proteger-a-democracia)
+- [Quais os sinais de reaproximação de Lula com evangélicos](https://www.nexojornal.com.br/expresso/2023/06/07/Quais-os-sinais-de-reaproxima%C3%A7%C3%A3o-de-Lula-com-evang%C3%A9licos)
+- [Concessões, tensões e definições: o relatório da reforma tributária](https://www.nexojornal.com.br/expresso/2023/06/07/Concess%C3%B5es-tens%C3%B5es-e-defini%C3%A7%C3%B5es-o-relat%C3%B3rio-da-reforma-tribut%C3%A1ria)
+- [O projeto que propõe usar baleias como crédito de carbono](https://www.nexojornal.com.br/expresso/2023/06/07/O-projeto-que-prop%C3%B5e-usar-baleias-como-cr%C3%A9dito-de-carbono)
+- [Motorista, prepare a buzina: a velha Kombi está de volta](https://www.nexojornal.com.br/colunistas/2023/Motorista-prepare-a-buzina-a-velha-Kombi-est%C3%A1-de-volta)
+- [O site que é um Google Maps com estradas do Império Romano](https://www.nexojornal.com.br/expresso/2023/06/07/O-site-que-%C3%A9-um-Google-Maps-com-estradas-do-Imp%C3%A9rio-Romano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
