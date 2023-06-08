@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Crise na articulação política do governo?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Crise-na-articula%C3%A7%C3%A3o-pol%C3%ADtica-do-governo)
+- [Matias Spektor: críticas ambientais estrangeiras, opinião pública e seus impactos para políticas públicas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/07/Matias-Spektor-cr%C3%ADticas-ambientais-estrangeiras-opini%C3%A3o-p%C3%BAblica-e-seus-impactos-para-pol%C3%ADticas-p%C3%BAblicas)
+- [Políticas educacionais à nível municipal: o caso do Rio de Janeiro](https://pp.nexojornal.com.br/opiniao/2023/Pol%C3%ADticas-educacionais-%C3%A0-n%C3%ADvel-municipal-o-caso-do-Rio-de-Janeiro1)
+- [O que queremos dizer quando falamos de Habitação de Interesse Social?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-queremos-dizer-quando-falamos-de-Habita%C3%A7%C3%A3o-de-Interesse-Social)
 - [Políticas públicas para as juventudes: panorama e possíveis direções](https://pp.nexojornal.com.br/ponto-de-vista/2023/Pol%C3%ADticas-p%C3%BAblicas-para-as-juventudes-panorama-e-poss%C3%ADveis-dire%C3%A7%C3%B5es)
-- [Mais um elemento para coordenar: o Senado e a sua relação com o governo](https://pp.nexojornal.com.br/ponto-de-vista/2023/Mais-um-elemento-para-coordenar-o-Senado-e-a-sua-rela%C3%A7%C3%A3o-com-o-governo)
-- [Caminhos do retorno: o Brasil de volta a qual América Latina?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Caminhos-do-retorno-o-Brasil-de-volta-a-qual-Am%C3%A9rica-Latina)
-- [A &lpar;re&rpar;construção de uma política educacional democrática, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-reconstru%C3%A7%C3%A3o-de-uma-pol%C3%ADtica-educacional-democr%C3%A1tica-em-5-pontos)
-- [Mineração, energia e clima: uma equação global e brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/Minera%C3%A7%C3%A3o-energia-e-clima-uma-equa%C3%A7%C3%A3o-global-e-brasileira)
 <!-- PP_LIST:END -->
 
