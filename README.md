@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pageboy](https://gamarevista.uol.com.br/cultura/trecho-de-livro/pageboy/)
 - [Bola de tênis](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-de-tenis/)
 - [Como deixar a DR mais eficiente](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-deixar-a-dr-mais-eficiente/)
 - [Julia Rezende: “Há uma indignação que uma história real provoca”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/julia-rezende-boate-kiss-netflix/)
 - [Em louvor da acidez](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/em-louvor-da-acidez/)
-- [Submundo: Cadernos de um penitenciário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/submundo-cadernos-de-um-penitenciario/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
