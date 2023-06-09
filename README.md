@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Pageboy](https://gamarevista.uol.com.br/cultura/trecho-de-livro/pageboy/)
-- [Bola de tênis](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bola-de-tenis/)
-- [Como deixar a DR mais eficiente](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-deixar-a-dr-mais-eficiente/)
-- [Julia Rezende: “Há uma indignação que uma história real provoca”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/julia-rezende-boate-kiss-netflix/)
-- [Em louvor da acidez](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/em-louvor-da-acidez/)
+- [Livros ao ar livre](https://gamarevista.uol.com.br/achamos-que-vale/ir/livros-ao-ar-livre/)
+- [Filme refaz últimos passos de Bruno e Dom](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-refaz-ultimos-passos-de-bruno-e-dom/)
+- [Contos de Murakami](https://gamarevista.uol.com.br/achamos-que-vale/ler/contos-de-murakami/)
+- [Debates sobre o clima em novo podcast](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/debates-sobre-o-clima-em-novo-podcast/)
+- [James Baldwin na Mostra Ecofalante](https://gamarevista.uol.com.br/achamos-que-vale/assistir/james-baldwin-na-mostra-ecofalante/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
