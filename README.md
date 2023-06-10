@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Supremo decide que Podemos herda vaga de Dallagnol](https://www.nexojornal.com.br/extra/2023/06/10/Supremo-decide-que-Podemos-herda-vaga-de-Dallagnol)
-- [Colômbia: crianças são resgatadas com vida após 40 dias na floresta](https://www.nexojornal.com.br/extra/2023/06/09/Col%C3%B4mbia-crian%C3%A7as-s%C3%A3o-resgatadas-com-vida-ap%C3%B3s-40-dias-na-floresta)
-- [Por que partidos que integram o governo não votam com ele](https://www.nexojornal.com.br/expresso/2023/06/09/Por-que-partidos-que-integram-o-governo-n%C3%A3o-votam-com-ele)
-- [O projeto com dados da flora brasileira ameaçada de extinção](https://www.nexojornal.com.br/expresso/2023/06/09/O-projeto-com-dados-da-flora-brasileira-amea%C3%A7ada-de-extin%C3%A7%C3%A3o)
-- [‘Farejador de águas’: cem anos de história no Centro-Oeste](https://www.nexojornal.com.br/estante/trechos/2023/06/09/%E2%80%98Farejador-de-%C3%A1guas%E2%80%99-cem-anos-de-hist%C3%B3ria-no-Centro-Oeste)
+- [PF avalia estojo de joias dado a Bolsonaro em R$ 5 milhões](https://www.nexojornal.com.br/extra/2023/06/09/PF-avalia-estojo-de-joias-dado-a-Bolsonaro-em-R-5-milh%C3%B5es)
+- [Donald Trump é indiciado em caso de documentos secretos](https://www.nexojornal.com.br/extra/2023/06/09/Donald-Trump-%C3%A9-indiciado-em-caso-de-documentos-secretos)
+- [Fome pelo ouro: como age o garimpo no rio Madeira](https://www.nexojornal.com.br/externo/2023/06/09/Fome-pelo-ouro-como-age-o-garimpo-no-rio-Madeira)
+- [‘Os acordos ambientais hoje são inviáveis e irrealistas’](https://www.nexojornal.com.br/entrevista/2023/06/09/%E2%80%98Os-acordos-ambientais-hoje-s%C3%A3o-invi%C3%A1veis-e-irrealistas%E2%80%99)
+- [Gestão Lula é aprovada por 37% e reprovada por 28%, segundo Ipec](https://www.nexojornal.com.br/extra/2023/06/09/Gest%C3%A3o-Lula-%C3%A9-aprovada-por-37-e-reprovada-por-28-segundo-Ipec)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
