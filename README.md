@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF avalia estojo de joias dado a Bolsonaro em R$ 5 milhões](https://www.nexojornal.com.br/extra/2023/06/09/PF-avalia-estojo-de-joias-dado-a-Bolsonaro-em-R-5-milh%C3%B5es)
-- [Donald Trump é indiciado em caso de documentos secretos](https://www.nexojornal.com.br/extra/2023/06/09/Donald-Trump-%C3%A9-indiciado-em-caso-de-documentos-secretos)
-- [Fome pelo ouro: como age o garimpo no rio Madeira](https://www.nexojornal.com.br/externo/2023/06/09/Fome-pelo-ouro-como-age-o-garimpo-no-rio-Madeira)
-- [‘Os acordos ambientais hoje são inviáveis e irrealistas’](https://www.nexojornal.com.br/entrevista/2023/06/09/%E2%80%98Os-acordos-ambientais-hoje-s%C3%A3o-invi%C3%A1veis-e-irrealistas%E2%80%99)
-- [Gestão Lula é aprovada por 37% e reprovada por 28%, segundo Ipec](https://www.nexojornal.com.br/extra/2023/06/09/Gest%C3%A3o-Lula-%C3%A9-aprovada-por-37-e-reprovada-por-28-segundo-Ipec)
+- [As evidências de que o bolsonarismo tramou mesmo um golpe](https://www.nexojornal.com.br/expresso/2023/06/08/As-evid%C3%AAncias-de-que-o-bolsonarismo-tramou-mesmo-um-golpe)
+- [Como a Polônia usa a Rússia como desculpa para rifar opositores](https://www.nexojornal.com.br/expresso/2023/06/08/Como-a-Pol%C3%B4nia-usa-a-R%C3%BAssia-como-desculpa-para-rifar-opositores)
+- [Quando se preocupar com a alfabetização da criança](https://www.nexojornal.com.br/externo/2023/06/08/Quando-se-preocupar-com-a-alfabetiza%C3%A7%C3%A3o-da-crian%C3%A7a)
+- [Por que precisamos reaprender a perguntar](https://www.nexojornal.com.br/colunistas/2023/Por-que-precisamos-reaprender-a-perguntar)
+- [Fumaça de incêndios no Canadá se alastra pelo mundo](https://www.nexojornal.com.br/extra/2023/06/08/Fuma%C3%A7a-de-inc%C3%AAndios-no-Canad%C3%A1-se-alastra-pelo-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
