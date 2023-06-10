@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As evidências de que o bolsonarismo tramou mesmo um golpe](https://www.nexojornal.com.br/expresso/2023/06/08/As-evid%C3%AAncias-de-que-o-bolsonarismo-tramou-mesmo-um-golpe)
-- [Como a Polônia usa a Rússia como desculpa para rifar opositores](https://www.nexojornal.com.br/expresso/2023/06/08/Como-a-Pol%C3%B4nia-usa-a-R%C3%BAssia-como-desculpa-para-rifar-opositores)
-- [Quando se preocupar com a alfabetização da criança](https://www.nexojornal.com.br/externo/2023/06/08/Quando-se-preocupar-com-a-alfabetiza%C3%A7%C3%A3o-da-crian%C3%A7a)
-- [Por que precisamos reaprender a perguntar](https://www.nexojornal.com.br/colunistas/2023/Por-que-precisamos-reaprender-a-perguntar)
-- [Fumaça de incêndios no Canadá se alastra pelo mundo](https://www.nexojornal.com.br/extra/2023/06/08/Fuma%C3%A7a-de-inc%C3%AAndios-no-Canad%C3%A1-se-alastra-pelo-mundo)
+- [Colômbia: crianças são resgatadas com vida após 40 dias na floresta](https://www.nexojornal.com.br/extra/2023/06/09/Col%C3%B4mbia-crian%C3%A7as-s%C3%A3o-resgatadas-com-vida-ap%C3%B3s-40-dias-na-floresta)
+- [Por que partidos que integram o governo não votam com ele](https://www.nexojornal.com.br/expresso/2023/06/09/Por-que-partidos-que-integram-o-governo-n%C3%A3o-votam-com-ele)
+- [O projeto com dados da flora brasileira ameaçada de extinção](https://www.nexojornal.com.br/expresso/2023/06/09/O-projeto-com-dados-da-flora-brasileira-amea%C3%A7ada-de-extin%C3%A7%C3%A3o)
+- [‘Farejador de águas’: cem anos de história no Centro-Oeste](https://www.nexojornal.com.br/estante/trechos/2023/06/09/%E2%80%98Farejador-de-%C3%A1guas%E2%80%99-cem-anos-de-hist%C3%B3ria-no-Centro-Oeste)
+- [O papel dos bancos para a transição energética](https://www.nexojornal.com.br/ensaio/2023/06/09/O-papel-dos-bancos-para-a-transi%C3%A7%C3%A3o-energ%C3%A9tica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
