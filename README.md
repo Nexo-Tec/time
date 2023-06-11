@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Rita Lobo: “Quem não sabe cozinhar vira presa da indústria de ultraprocessados e cai em modismos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/rita-lobo-cozinha-alimentos-ultraprocessados-panelinha/)
 - [Livros ao ar livre](https://gamarevista.uol.com.br/achamos-que-vale/ir/livros-ao-ar-livre/)
 - [Filme refaz últimos passos de Bruno e Dom](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-refaz-ultimos-passos-de-bruno-e-dom/)
 - [Contos de Murakami](https://gamarevista.uol.com.br/achamos-que-vale/ler/contos-de-murakami/)
 - [Debates sobre o clima em novo podcast](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/debates-sobre-o-clima-em-novo-podcast/)
-- [James Baldwin na Mostra Ecofalante](https://gamarevista.uol.com.br/achamos-que-vale/assistir/james-baldwin-na-mostra-ecofalante/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
