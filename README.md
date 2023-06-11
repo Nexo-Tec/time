@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil aprova uso de injeção que previne contra o HIV](https://www.nexojornal.com.br/extra/2023/06/10/Brasil-aprova-uso-de-inje%C3%A7%C3%A3o-que-previne-contra-o-HIV)
-- [O papel do Congresso Nacional no início do governo](https://www.nexojornal.com.br/ensaio/2023/06/10/O-papel-do-Congresso-Nacional-no-in%C3%ADcio-do-governo)
-- [Como era a vida dos atletas na Grécia e Roma antigas](https://www.nexojornal.com.br/externo/2023/06/10/Como-era-a-vida-dos-atletas-na-Gr%C3%A9cia-e-Roma-antigas)
-- [‘Elizabeth Bishop viveu luta  bem-sucedida da fala contra o silêncio’](https://www.nexojornal.com.br/entrevista/2023/06/10/%E2%80%98Elizabeth-Bishop-viveu-luta-bem-sucedida-da-fala-contra-o-sil%C3%AAncio%E2%80%99)
-- [5 livros para humanos pararem de olhar para o próprio umbigo](https://www.nexojornal.com.br/estante/favoritos/2023/06/10/5-livros-para-humanos-pararem-de-olhar-para-o-pr%C3%B3prio-umbigo)
+- [Supremo decide que Podemos herda vaga de Dallagnol](https://www.nexojornal.com.br/extra/2023/06/10/Supremo-decide-que-Podemos-herda-vaga-de-Dallagnol)
+- [Colômbia: crianças são resgatadas com vida após 40 dias na floresta](https://www.nexojornal.com.br/extra/2023/06/09/Col%C3%B4mbia-crian%C3%A7as-s%C3%A3o-resgatadas-com-vida-ap%C3%B3s-40-dias-na-floresta)
+- [Por que partidos que integram o governo não votam com ele](https://www.nexojornal.com.br/expresso/2023/06/09/Por-que-partidos-que-integram-o-governo-n%C3%A3o-votam-com-ele)
+- [O projeto com dados da flora brasileira ameaçada de extinção](https://www.nexojornal.com.br/expresso/2023/06/09/O-projeto-com-dados-da-flora-brasileira-amea%C3%A7ada-de-extin%C3%A7%C3%A3o)
+- [‘Farejador de águas’: cem anos de história no Centro-Oeste](https://www.nexojornal.com.br/estante/trechos/2023/06/09/%E2%80%98Farejador-de-%C3%A1guas%E2%80%99-cem-anos-de-hist%C3%B3ria-no-Centro-Oeste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
