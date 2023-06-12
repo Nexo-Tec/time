@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil aprova uso de injeção que previne contra o HIV](https://www.nexojornal.com.br/extra/2023/06/10/Brasil-aprova-uso-de-inje%C3%A7%C3%A3o-que-previne-contra-o-HIV)
-- [O papel do Congresso Nacional no início do governo](https://www.nexojornal.com.br/ensaio/2023/06/10/O-papel-do-Congresso-Nacional-no-in%C3%ADcio-do-governo)
-- [Como era a vida dos atletas na Grécia e Roma antigas](https://www.nexojornal.com.br/externo/2023/06/10/Como-era-a-vida-dos-atletas-na-Gr%C3%A9cia-e-Roma-antigas)
-- [‘Elizabeth Bishop viveu luta  bem-sucedida da fala contra o silêncio’](https://www.nexojornal.com.br/entrevista/2023/06/10/%E2%80%98Elizabeth-Bishop-viveu-luta-bem-sucedida-da-fala-contra-o-sil%C3%AAncio%E2%80%99)
-- [5 livros para humanos pararem de olhar para o próprio umbigo](https://www.nexojornal.com.br/estante/favoritos/2023/06/10/5-livros-para-humanos-pararem-de-olhar-para-o-pr%C3%B3prio-umbigo)
+- [Fora da caverna, o Brasil é muito maior do que parece](https://www.nexojornal.com.br/ensaio/2023/06/11/Fora-da-caverna-o-Brasil-%C3%A9-muito-maior-do-que-parece)
+- [Material genético de primatas pode contribuir para a medicina de precisão](https://www.nexojornal.com.br/externo/2023/06/11/Material-gen%C3%A9tico-de-primatas-pode-contribuir-para-a-medicina-de-precis%C3%A3o)
+- [Por que Rui Costa e Padilha se tornaram alvos do centrão](https://www.nexojornal.com.br/expresso/2023/06/11/Por-que-Rui-Costa-e-Padilha-se-tornaram-alvos-do-centr%C3%A3o)
+- [Os rumos da CPI mista de 8 de janeiro em 7 pontos-chave](https://www.nexojornal.com.br/expresso/2023/06/11/Os-rumos-da-CPI-mista-de-8-de-janeiro-em-7-pontos-chave)
+- [Ex-primeira-ministra da Escócia é presa e solta horas depois](https://www.nexojornal.com.br/extra/2023/06/11/Ex-primeira-ministra-da-Esc%C3%B3cia-%C3%A9-presa-e-solta-horas-depois)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
