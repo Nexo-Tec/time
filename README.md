@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Plano de saúde individual terá reajuste de até 9,63%](https://www.nexojornal.com.br/extra/2023/06/12/Plano-de-sa%C3%BAde-individual-ter%C3%A1-reajuste-de-at%C3%A9-963)
+- [Morre ex-primeiro-ministro italiano Silvio Berlusconi](https://www.nexojornal.com.br/extra/2023/06/12/Morre-ex-primeiro-ministro-italiano-Silvio-Berlusconi)
+- [Parada LGBTI+ reúne milhões de pessoas em São Paulo](https://www.nexojornal.com.br/extra/2023/06/12/Parada-LGBTI-re%C3%BAne-milh%C3%B5es-de-pessoas-em-S%C3%A3o-Paulo)
 - [Fora da caverna, o Brasil é muito maior do que parece](https://www.nexojornal.com.br/ensaio/2023/06/11/Fora-da-caverna-o-Brasil-%C3%A9-muito-maior-do-que-parece)
 - [Material genético de primatas pode contribuir para a medicina de precisão](https://www.nexojornal.com.br/externo/2023/06/11/Material-gen%C3%A9tico-de-primatas-pode-contribuir-para-a-medicina-de-precis%C3%A3o)
-- [Por que Rui Costa e Padilha se tornaram alvos do centrão](https://www.nexojornal.com.br/expresso/2023/06/11/Por-que-Rui-Costa-e-Padilha-se-tornaram-alvos-do-centr%C3%A3o)
-- [Os rumos da CPI mista de 8 de janeiro em 7 pontos-chave](https://www.nexojornal.com.br/expresso/2023/06/11/Os-rumos-da-CPI-mista-de-8-de-janeiro-em-7-pontos-chave)
-- [Ex-primeira-ministra da Escócia é presa e solta horas depois](https://www.nexojornal.com.br/extra/2023/06/11/Ex-primeira-ministra-da-Esc%C3%B3cia-%C3%A9-presa-e-solta-horas-depois)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
