@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que a inteligência artificial fala sobre a mulher ideal](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/inteligencia-artificial-padrao-beleza-mulher-ideal/)
 - [Um brinde aos mortos – e feliz dia do amor finito](https://gamarevista.uol.com.br/artigo/um-brinde-aos-mortos-e-feliz-dia-do-amor-finito/)
 - [Rita Lobo: “Quem não sabe cozinhar vira presa da indústria de ultraprocessados e cai em modismos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/rita-lobo-cozinha-alimentos-ultraprocessados-panelinha/)
 - [Livros ao ar livre](https://gamarevista.uol.com.br/achamos-que-vale/ir/livros-ao-ar-livre/)
 - [Filme refaz últimos passos de Bruno e Dom](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-refaz-ultimos-passos-de-bruno-e-dom/)
-- [Contos de Murakami](https://gamarevista.uol.com.br/achamos-que-vale/ler/contos-de-murakami/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
