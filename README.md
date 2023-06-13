@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo se retrata por post de 2020 que exaltava Major Curió](https://www.nexojornal.com.br/extra/2023/06/12/Governo-se-retrata-por-post-de-2020-que-exaltava-Major-Curi%C3%B3)
-- [5 pontos para entender a trajetória de Silvio Berlusconi na Itália](https://www.nexojornal.com.br/expresso/2023/06/12/5-pontos-para-entender-a-trajet%C3%B3ria-de-Silvio-Berlusconi-na-It%C3%A1lia)
-- [Luiza Trajano critica juros altos: ‘vai ter muita gente quebrada’](https://www.nexojornal.com.br/extra/2023/06/12/Luiza-Trajano-critica-juros-altos-%E2%80%98vai-ter-muita-gente-quebrada%E2%80%99)
-- [Por que tantas varejistas entraram em crise em 2023](https://www.nexojornal.com.br/expresso/2023/06/12/Por-que-tantas-varejistas-entraram-em-crise-em-2023)
-- [Os embates em torno dos shows de Roger Waters no Brasil](https://www.nexojornal.com.br/podcast/2023/06/12/Os-embates-em-torno-dos-shows-de-Roger-Waters-no-Brasil)
+- [Plano de saúde individual terá reajuste de até 9,63%](https://www.nexojornal.com.br/extra/2023/06/12/Plano-de-sa%C3%BAde-individual-ter%C3%A1-reajuste-de-at%C3%A9-963)
+- [Morre ex-primeiro-ministro italiano Silvio Berlusconi](https://www.nexojornal.com.br/extra/2023/06/12/Morre-ex-primeiro-ministro-italiano-Silvio-Berlusconi)
+- [Parada LGBTI+ reúne milhões de pessoas em São Paulo](https://www.nexojornal.com.br/extra/2023/06/12/Parada-LGBTI-re%C3%BAne-milh%C3%B5es-de-pessoas-em-S%C3%A3o-Paulo)
+- [Fora da caverna, o Brasil é muito maior do que parece](https://www.nexojornal.com.br/ensaio/2023/06/11/Fora-da-caverna-o-Brasil-%C3%A9-muito-maior-do-que-parece)
+- [Material genético de primatas pode contribuir para a medicina de precisão](https://www.nexojornal.com.br/externo/2023/06/11/Material-gen%C3%A9tico-de-primatas-pode-contribuir-para-a-medicina-de-precis%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
