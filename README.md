@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os horizontes do presidencialismo de coalizão](https://www.nexojornal.com.br/colunistas/2023/Os-horizontes-do-presidencialismo-de-coaliz%C3%A3o)
 - [Governo se retrata por post de 2020 que exaltava Major Curió](https://www.nexojornal.com.br/extra/2023/06/12/Governo-se-retrata-por-post-de-2020-que-exaltava-Major-Curi%C3%B3)
 - [5 pontos para entender a trajetória de Silvio Berlusconi na Itália](https://www.nexojornal.com.br/expresso/2023/06/12/5-pontos-para-entender-a-trajet%C3%B3ria-de-Silvio-Berlusconi-na-It%C3%A1lia)
 - [Luiza Trajano critica juros altos: ‘vai ter muita gente quebrada’](https://www.nexojornal.com.br/extra/2023/06/12/Luiza-Trajano-critica-juros-altos-%E2%80%98vai-ter-muita-gente-quebrada%E2%80%99)
 - [Por que tantas varejistas entraram em crise em 2023](https://www.nexojornal.com.br/expresso/2023/06/12/Por-que-tantas-varejistas-entraram-em-crise-em-2023)
+- [Os embates em torno dos shows de Roger Waters no Brasil](https://www.nexojornal.com.br/podcast/2023/06/12/Os-embates-em-torno-dos-shows-de-Roger-Waters-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
