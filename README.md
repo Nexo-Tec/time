@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deputadas apontam machismo em ação do Conselho de Ética](https://www.nexojornal.com.br/extra/2023/06/14/Deputadas-apontam-machismo-em-a%C3%A7%C3%A3o-do-Conselho-de-%C3%89tica)
-- [9 montadoras aderem a programa de carro popular do governo](https://www.nexojornal.com.br/extra/2023/06/14/9-montadoras-aderem-a-programa-de-carro-popular-do-governo)
 - [Quais documentos oficiais Trump guardava em casa](https://www.nexojornal.com.br/expresso/2023/06/13/Quais-documentos-oficiais-Trump-guardava-em-casa)
 - [A luta de mães LGBTI+ não gestantes por licença-maternidade](https://www.nexojornal.com.br/externo/2023/06/13/A-luta-de-m%C3%A3es-LGBTI-n%C3%A3o-gestantes-por-licen%C3%A7a-maternidade)
 - [Após Roland Garros, Bia Haddad entra no top 10 do tênis](https://www.nexojornal.com.br/grafico/2023/06/13/Ap%C3%B3s-Roland-Garros-Bia-Haddad-entra-no-top-10-do-t%C3%AAnis)
+- [O legado de Ama Ata Aidoo para a literatura e as mulheres da África](https://www.nexojornal.com.br/externo/2023/06/13/O-legado-de-Ama-Ata-Aidoo-para-a-literatura-e-as-mulheres-da-%C3%81frica)
+- [Quais os embates em torno dos planos de saúde individuais](https://www.nexojornal.com.br/expresso/2023/06/13/Quais-os-embates-em-torno-dos-planos-de-sa%C3%BAde-individuais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
