@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Crise na articulação política do governo?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Crise-na-articula%C3%A7%C3%A3o-pol%C3%ADtica-do-governo)
-- [Matias Spektor: críticas ambientais estrangeiras, opinião pública e seus impactos para políticas públicas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/07/Matias-Spektor-cr%C3%ADticas-ambientais-estrangeiras-opini%C3%A3o-p%C3%BAblica-e-seus-impactos-para-pol%C3%ADticas-p%C3%BAblicas)
-- [Políticas educacionais à nível municipal: o caso do Rio de Janeiro](https://pp.nexojornal.com.br/opiniao/2023/Pol%C3%ADticas-educacionais-%C3%A0-n%C3%ADvel-municipal-o-caso-do-Rio-de-Janeiro1)
-- [O que queremos dizer quando falamos de Habitação de Interesse Social?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-queremos-dizer-quando-falamos-de-Habita%C3%A7%C3%A3o-de-Interesse-Social)
-- [Políticas públicas para as juventudes: panorama e possíveis direções](https://pp.nexojornal.com.br/ponto-de-vista/2023/Pol%C3%ADticas-p%C3%BAblicas-para-as-juventudes-panorama-e-poss%C3%ADveis-dire%C3%A7%C3%B5es)
+- [Qual a credibilidade das metas de neutralidade climática](https://pp.nexojornal.com.br/academico/2023/Qual-a-credibilidade-das-metas-de-neutralidade-clim%C3%A1tica)
+- [Armas de fogo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/13/Armas-de-fogo-no-Brasil)
+- [Tecendo uma rede de comunicação sobre o oceano](https://pp.nexojornal.com.br/opiniao/2023/Tecendo-uma-rede-de-comunica%C3%A7%C3%A3o-sobre-o-oceano)
+- [Desafios na implementação ameaçam mecanismo inovador de equidade no Fundeb](https://pp.nexojornal.com.br/ponto-de-vista/2023/Desafios-na-implementa%C3%A7%C3%A3o-amea%C3%A7am-mecanismo-inovador-de-equidade-no-Fundeb)
+- [Quem tem o direito de viver no país da necroinfância?](https://pp.nexojornal.com.br/opiniao/2023/Quem-tem-o-direito-de-viver-no-pa%C3%ADs-da-necroinf%C3%A2ncia)
 <!-- PP_LIST:END -->
 
