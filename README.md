@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Alice Wegmann](https://gamarevista.uol.com.br/pessoas/questionario-proust/alice-wegmann/)
-- [O que a inteligência artificial fala sobre a mulher ideal](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/inteligencia-artificial-padrao-beleza-mulher-ideal/)
-- [Um brinde aos mortos – e feliz dia do amor finito](https://gamarevista.uol.com.br/artigo/um-brinde-aos-mortos-e-feliz-dia-do-amor-finito/)
-- [Rita Lobo: “Quem não sabe cozinhar vira presa da indústria de ultraprocessados e cai em modismos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/rita-lobo-cozinha-alimentos-ultraprocessados-panelinha/)
-- [Livros ao ar livre](https://gamarevista.uol.com.br/achamos-que-vale/ir/livros-ao-ar-livre/)
+- [Conceição Evaristo conversa com Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/conceicao-evaristo-conversa-com-mano-brown/)
+- [Assassinato e penteados extravagantes no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assassinato-e-penteados-extravagantes-no-cinema/)
+- [O retorno de HQs clássicas e esquecidas por anos](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-retorno-de-hqs-classicas-e-esquecidas-por-anos/)
+- [Os debates d’A Feria do Livro no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-debates-da-feria-do-livro-no-youtube/)
+- [In-Edit Brasil – Festival Internacional do Documentário Musical](https://gamarevista.uol.com.br/achamos-que-vale/ir/in-edit-brasil-festival-internacional-do-documentario-musical/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
