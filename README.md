@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Um glossário para acompanhar o debate sobre o Plano Diretor](https://www.nexojornal.com.br/expresso/2023/06/14/Um-gloss%C3%A1rio-para-acompanhar-o-debate-sobre-o-Plano-Diretor)
-- [Brasília é uma ‘ilha da fantasia’?](https://www.nexojornal.com.br/colunistas/2023/Bras%C3%ADlia-%C3%A9-uma-%E2%80%98ilha-da-fantasia%E2%80%99)
-- [Agência de risco vê futuro ‘positivo’ para economia do Brasil](https://www.nexojornal.com.br/extra/2023/06/14/Ag%C3%AAncia-de-risco-v%C3%AA-futuro-%E2%80%98positivo%E2%80%99-para-economia-do-Brasil)
-- [A crise de moradia em Portugal. E a restrição aos turistas](https://www.nexojornal.com.br/expresso/2023/06/14/A-crise-de-moradia-em-Portugal.-E-a-restri%C3%A7%C3%A3o-aos-turistas)
-- [Quais as pressões que elevam deslocamentos forçados no mundo](https://www.nexojornal.com.br/podcast/2023/06/14/Quais-as-press%C3%B5es-que-elevam-deslocamentos-for%C3%A7ados-no-mundo)
+- [Como Nath Finanças gerou uma corrida por reembolso nos bancos](https://www.nexojornal.com.br/expresso/2023/06/15/Como-Nath-Finan%C3%A7as-gerou-uma-corrida-por-reembolso-nos-bancos)
+- [Petrobras diminui preço da gasolina para as distribuidoras](https://www.nexojornal.com.br/extra/2023/06/15/Petrobras-diminui-pre%C3%A7o-da-gasolina-para-as-distribuidoras)
+- [Como o teatro pode ajudar na educação de crianças surdas](https://www.nexojornal.com.br/expresso/2023/06/15/Como-o-teatro-pode-ajudar-na-educa%C3%A7%C3%A3o-de-crian%C3%A7as-surdas)
+- [Câmara aprova projeto contra discriminação de políticos](https://www.nexojornal.com.br/extra/2023/06/15/C%C3%A2mara-aprova-projeto-contra-discrimina%C3%A7%C3%A3o-de-pol%C3%ADticos)
+- [Como é a proposta que prevê reparação racial pela ‘guerra às drogas’](https://www.nexojornal.com.br/expresso/2023/06/15/Como-%C3%A9-a-proposta-que-prev%C3%AA-repara%C3%A7%C3%A3o-racial-pela-%E2%80%98guerra-%C3%A0s-drogas%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
