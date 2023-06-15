@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deputadas apontam machismo em ação do Conselho de Ética](https://www.nexojornal.com.br/extra/2023/06/14/Deputadas-apontam-machismo-em-a%C3%A7%C3%A3o-do-Conselho-de-%C3%89tica)
-- [9 montadoras aderem a programa de carro popular do governo](https://www.nexojornal.com.br/extra/2023/06/14/9-montadoras-aderem-a-programa-de-carro-popular-do-governo)
-- [Quais documentos oficiais Trump guardava em casa](https://www.nexojornal.com.br/expresso/2023/06/13/Quais-documentos-oficiais-Trump-guardava-em-casa)
-- [A luta de mães LGBTI+ não gestantes por licença-maternidade](https://www.nexojornal.com.br/externo/2023/06/13/A-luta-de-m%C3%A3es-LGBTI-n%C3%A3o-gestantes-por-licen%C3%A7a-maternidade)
-- [Após Roland Garros, Bia Haddad entra no top 10 do tênis](https://www.nexojornal.com.br/grafico/2023/06/13/Ap%C3%B3s-Roland-Garros-Bia-Haddad-entra-no-top-10-do-t%C3%AAnis)
+- [Um glossário para acompanhar o debate sobre o Plano Diretor](https://www.nexojornal.com.br/expresso/2023/06/14/Um-gloss%C3%A1rio-para-acompanhar-o-debate-sobre-o-Plano-Diretor)
+- [Brasília é uma ‘ilha da fantasia’?](https://www.nexojornal.com.br/colunistas/2023/Bras%C3%ADlia-%C3%A9-uma-%E2%80%98ilha-da-fantasia%E2%80%99)
+- [Agência de risco vê futuro ‘positivo’ para economia do Brasil](https://www.nexojornal.com.br/extra/2023/06/14/Ag%C3%AAncia-de-risco-v%C3%AA-futuro-%E2%80%98positivo%E2%80%99-para-economia-do-Brasil)
+- [A crise de moradia em Portugal. E a restrição aos turistas](https://www.nexojornal.com.br/expresso/2023/06/14/A-crise-de-moradia-em-Portugal.-E-a-restri%C3%A7%C3%A3o-aos-turistas)
+- [Quais as pressões que elevam deslocamentos forçados no mundo](https://www.nexojornal.com.br/podcast/2023/06/14/Quais-as-press%C3%B5es-que-elevam-deslocamentos-for%C3%A7ados-no-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
