@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é a proposta que prevê reparação racial pela ‘guerra às drogas’](https://www.nexojornal.com.br/expresso/2023/06/15/Como-%C3%A9-a-proposta-que-prev%C3%AA-repara%C3%A7%C3%A3o-racial-pela-%E2%80%98guerra-%C3%A0s-drogas%E2%80%99)
-- [Um glossário para acompanhar o debate sobre o Plano Diretor](https://www.nexojornal.com.br/expresso/2023/06/14/Um-gloss%C3%A1rio-para-acompanhar-o-debate-sobre-o-Plano-Diretor)
-- [Brasília é uma ‘ilha da fantasia’?](https://www.nexojornal.com.br/colunistas/2023/Bras%C3%ADlia-%C3%A9-uma-%E2%80%98ilha-da-fantasia%E2%80%99)
-- [Agência de risco vê futuro ‘positivo’ para economia do Brasil](https://www.nexojornal.com.br/extra/2023/06/14/Ag%C3%AAncia-de-risco-v%C3%AA-futuro-%E2%80%98positivo%E2%80%99-para-economia-do-Brasil)
-- [A crise de moradia em Portugal. E a restrição aos turistas](https://www.nexojornal.com.br/expresso/2023/06/14/A-crise-de-moradia-em-Portugal.-E-a-restri%C3%A7%C3%A3o-aos-turistas)
+- [As falas de Robinho e a cultura do estupro](https://www.nexojornal.com.br/colunistas/2023/As-falas-de-Robinho-e-a-cultura-do-estupro)
+- [O papel das redes sociais no consumo de notícias em 2023](https://www.nexojornal.com.br/expresso/2023/06/15/O-papel-das-redes-sociais-no-consumo-de-not%C3%ADcias-em-2023)
+- [O placar das indicações de ministros do STF no Senado](https://www.nexojornal.com.br/grafico/2023/06/15/O-placar-das-indica%C3%A7%C3%B5es-de-ministros-do-STF-no-Senado)
+- [Os rumos da apuração da fraude na Americanas](https://www.nexojornal.com.br/expresso/2023/06/15/Os-rumos-da-apura%C3%A7%C3%A3o-da-fraude-na-Americanas)
+- [Como a gestão municipal impacta a expansão territorial](https://www.nexojornal.com.br/academico/2023/06/15/Como-a-gest%C3%A3o-municipal-impacta-a-expans%C3%A3o-territorial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
