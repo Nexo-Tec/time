@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Nath Finanças gerou uma corrida por reembolso nos bancos](https://www.nexojornal.com.br/expresso/2023/06/15/Como-Nath-Finan%C3%A7as-gerou-uma-corrida-por-reembolso-nos-bancos)
-- [Petrobras diminui preço da gasolina para as distribuidoras](https://www.nexojornal.com.br/extra/2023/06/15/Petrobras-diminui-pre%C3%A7o-da-gasolina-para-as-distribuidoras)
-- [Como o teatro pode ajudar na educação de crianças surdas](https://www.nexojornal.com.br/expresso/2023/06/15/Como-o-teatro-pode-ajudar-na-educa%C3%A7%C3%A3o-de-crian%C3%A7as-surdas)
-- [Câmara aprova projeto contra discriminação de políticos](https://www.nexojornal.com.br/extra/2023/06/15/C%C3%A2mara-aprova-projeto-contra-discrimina%C3%A7%C3%A3o-de-pol%C3%ADticos)
-- [Como é a proposta que prevê reparação racial pela ‘guerra às drogas’](https://www.nexojornal.com.br/expresso/2023/06/15/Como-%C3%A9-a-proposta-que-prev%C3%AA-repara%C3%A7%C3%A3o-racial-pela-%E2%80%98guerra-%C3%A0s-drogas%E2%80%99)
+- [As falas de Robinho e a cultura do estupro](https://www.nexojornal.com.br/colunistas/2023/As-falas-de-Robinho-e-a-cultura-do-estupro)
+- [O papel das redes sociais no consumo de notícias em 2023](https://www.nexojornal.com.br/expresso/2023/06/15/O-papel-das-redes-sociais-no-consumo-de-not%C3%ADcias-em-2023)
+- [O placar das indicações de ministros do STF no Senado](https://www.nexojornal.com.br/grafico/2023/06/15/O-placar-das-indica%C3%A7%C3%B5es-de-ministros-do-STF-no-Senado)
+- [Os rumos da apuração da fraude na Americanas](https://www.nexojornal.com.br/expresso/2023/06/15/Os-rumos-da-apura%C3%A7%C3%A3o-da-fraude-na-Americanas)
+- [Como a gestão municipal impacta a expansão territorial](https://www.nexojornal.com.br/academico/2023/06/15/Como-a-gest%C3%A3o-municipal-impacta-a-expans%C3%A3o-territorial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
