@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Nath Finanças gerou uma corrida por reembolso nos bancos](https://www.nexojornal.com.br/expresso/2023/06/15/Como-Nath-Finan%C3%A7as-gerou-uma-corrida-por-reembolso-nos-bancos)
-- [Petrobras diminui preço da gasolina para as distribuidoras](https://www.nexojornal.com.br/extra/2023/06/15/Petrobras-diminui-pre%C3%A7o-da-gasolina-para-as-distribuidoras)
-- [Como o teatro pode ajudar na educação de crianças surdas](https://www.nexojornal.com.br/expresso/2023/06/15/Como-o-teatro-pode-ajudar-na-educa%C3%A7%C3%A3o-de-crian%C3%A7as-surdas)
-- [Câmara aprova projeto contra discriminação de políticos](https://www.nexojornal.com.br/extra/2023/06/15/C%C3%A2mara-aprova-projeto-contra-discrimina%C3%A7%C3%A3o-de-pol%C3%ADticos)
-- [Como é a proposta que prevê reparação racial pela ‘guerra às drogas’](https://www.nexojornal.com.br/expresso/2023/06/15/Como-%C3%A9-a-proposta-que-prev%C3%AA-repara%C3%A7%C3%A3o-racial-pela-%E2%80%98guerra-%C3%A0s-drogas%E2%80%99)
+- [Por que a participação é chave para ter escolas sustentáveis](https://www.nexojornal.com.br/externo/2023/06/16/Por-que-a-participa%C3%A7%C3%A3o-%C3%A9-chave-para-ter-escolas-sustent%C3%A1veis)
+- [Japão aumenta idade de consentimento sexual](https://www.nexojornal.com.br/extra/2023/06/16/Jap%C3%A3o-aumenta-idade-de-consentimento-sexual)
+- [5 vezes em que a seleção do Brasil jogou sem suas cores oficiais](https://www.nexojornal.com.br/expresso/2023/06/16/5-vezes-em-que-a-sele%C3%A7%C3%A3o-do-Brasil-jogou-sem-suas-cores-oficiais)
+- [PF encontra passo a passo de golpe no celular de Cid, diz Veja](https://www.nexojornal.com.br/extra/2023/06/16/PF-encontra-passo-a-passo-de-golpe-no-celular-de-Cid-diz-Veja)
+- [Os candidatos tirados da corrida presidencial na Guatemala](https://www.nexojornal.com.br/expresso/2023/06/16/Os-candidatos-tirados-da-corrida-presidencial-na-Guatemala)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
