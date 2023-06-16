@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A relação entre raça e política institucional no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/15/A-rela%C3%A7%C3%A3o-entre-ra%C3%A7a-e-pol%C3%ADtica-institucional-no-Brasil)
-- [Isaac Palma Brandão: Du Bois e a sociologia da religião](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/15/Isaac-Palma-Brand%C3%A3o-Du-Bois-e-a-sociologia-da-religi%C3%A3o)
 - [Qual a credibilidade das metas de neutralidade climática](https://pp.nexojornal.com.br/academico/2023/Qual-a-credibilidade-das-metas-de-neutralidade-clim%C3%A1tica)
 - [Armas de fogo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/13/Armas-de-fogo-no-Brasil)
 - [Tecendo uma rede de comunicação sobre o oceano](https://pp.nexojornal.com.br/opiniao/2023/Tecendo-uma-rede-de-comunica%C3%A7%C3%A3o-sobre-o-oceano)
+- [Desafios na implementação ameaçam mecanismo inovador de equidade no Fundeb](https://pp.nexojornal.com.br/ponto-de-vista/2023/Desafios-na-implementa%C3%A7%C3%A3o-amea%C3%A7am-mecanismo-inovador-de-equidade-no-Fundeb)
+- [Quem tem o direito de viver no país da necroinfância?](https://pp.nexojornal.com.br/opiniao/2023/Quem-tem-o-direito-de-viver-no-pa%C3%ADs-da-necroinf%C3%A2ncia)
 <!-- PP_LIST:END -->
 
