@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As falas de Robinho e a cultura do estupro](https://www.nexojornal.com.br/colunistas/2023/As-falas-de-Robinho-e-a-cultura-do-estupro)
-- [O papel das redes sociais no consumo de notícias em 2023](https://www.nexojornal.com.br/expresso/2023/06/15/O-papel-das-redes-sociais-no-consumo-de-not%C3%ADcias-em-2023)
-- [O placar das indicações de ministros do STF no Senado](https://www.nexojornal.com.br/grafico/2023/06/15/O-placar-das-indica%C3%A7%C3%B5es-de-ministros-do-STF-no-Senado)
-- [Os rumos da apuração da fraude na Americanas](https://www.nexojornal.com.br/expresso/2023/06/15/Os-rumos-da-apura%C3%A7%C3%A3o-da-fraude-na-Americanas)
-- [Como a gestão municipal impacta a expansão territorial](https://www.nexojornal.com.br/academico/2023/06/15/Como-a-gest%C3%A3o-municipal-impacta-a-expans%C3%A3o-territorial)
+- [A pressão de fãs da Taylor Swift por ações contra cambistas](https://www.nexojornal.com.br/expresso/2023/06/16/A-press%C3%A3o-de-f%C3%A3s-da-Taylor-Swift-por-a%C3%A7%C3%B5es-contra-cambistas)
+- [‘Colonialismo digital’: a dominação no ambiente virtual](https://www.nexojornal.com.br/estante/trechos/2023/06/16/%E2%80%98Colonialismo-digital%E2%80%99-a-domina%C3%A7%C3%A3o-no-ambiente-virtual)
+- [Como começar a ouvir Maria Bethânia](https://www.nexojornal.com.br/podcast/2023/06/16/Como-come%C3%A7ar-a-ouvir-Maria-Beth%C3%A2nia)
+- [Por uma democracia com mulheres negras na liderança](https://www.nexojornal.com.br/ensaio/2023/06/16/Por-uma-democracia-com-mulheres-negras-na-lideran%C3%A7a)
+- [As suspeitas que envolvem um ex-assessor e um filho e Lira](https://www.nexojornal.com.br/expresso/2023/06/16/As-suspeitas-que-envolvem-um-ex-assessor-e-um-filho-e-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
