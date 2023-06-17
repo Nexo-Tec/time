@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a participação é chave para ter escolas sustentáveis](https://www.nexojornal.com.br/externo/2023/06/16/Por-que-a-participa%C3%A7%C3%A3o-%C3%A9-chave-para-ter-escolas-sustent%C3%A1veis)
-- [Japão aumenta idade de consentimento sexual](https://www.nexojornal.com.br/extra/2023/06/16/Jap%C3%A3o-aumenta-idade-de-consentimento-sexual)
-- [5 vezes em que a seleção do Brasil jogou sem suas cores oficiais](https://www.nexojornal.com.br/expresso/2023/06/16/5-vezes-em-que-a-sele%C3%A7%C3%A3o-do-Brasil-jogou-sem-suas-cores-oficiais)
-- [PF encontra passo a passo de golpe no celular de Cid, diz Veja](https://www.nexojornal.com.br/extra/2023/06/16/PF-encontra-passo-a-passo-de-golpe-no-celular-de-Cid-diz-Veja)
-- [Os candidatos tirados da corrida presidencial na Guatemala](https://www.nexojornal.com.br/expresso/2023/06/16/Os-candidatos-tirados-da-corrida-presidencial-na-Guatemala)
+- [As falas de Robinho e a cultura do estupro](https://www.nexojornal.com.br/colunistas/2023/As-falas-de-Robinho-e-a-cultura-do-estupro)
+- [O papel das redes sociais no consumo de notícias em 2023](https://www.nexojornal.com.br/expresso/2023/06/15/O-papel-das-redes-sociais-no-consumo-de-not%C3%ADcias-em-2023)
+- [O placar das indicações de ministros do STF no Senado](https://www.nexojornal.com.br/grafico/2023/06/15/O-placar-das-indica%C3%A7%C3%B5es-de-ministros-do-STF-no-Senado)
+- [Os rumos da apuração da fraude na Americanas](https://www.nexojornal.com.br/expresso/2023/06/15/Os-rumos-da-apura%C3%A7%C3%A3o-da-fraude-na-Americanas)
+- [Como a gestão municipal impacta a expansão territorial](https://www.nexojornal.com.br/academico/2023/06/15/Como-a-gest%C3%A3o-municipal-impacta-a-expans%C3%A3o-territorial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
