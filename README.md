@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a participação é chave para ter escolas sustentáveis](https://www.nexojornal.com.br/externo/2023/06/16/Por-que-a-participa%C3%A7%C3%A3o-%C3%A9-chave-para-ter-escolas-sustent%C3%A1veis)
-- [Japão aumenta idade de consentimento sexual](https://www.nexojornal.com.br/extra/2023/06/16/Jap%C3%A3o-aumenta-idade-de-consentimento-sexual)
-- [5 vezes em que a seleção do Brasil jogou sem suas cores oficiais](https://www.nexojornal.com.br/expresso/2023/06/16/5-vezes-em-que-a-sele%C3%A7%C3%A3o-do-Brasil-jogou-sem-suas-cores-oficiais)
-- [PF encontra passo a passo de golpe no celular de Cid, diz Veja](https://www.nexojornal.com.br/extra/2023/06/16/PF-encontra-passo-a-passo-de-golpe-no-celular-de-Cid-diz-Veja)
-- [Os candidatos tirados da corrida presidencial na Guatemala](https://www.nexojornal.com.br/expresso/2023/06/16/Os-candidatos-tirados-da-corrida-presidencial-na-Guatemala)
+- [A pressão de fãs da Taylor Swift por ações contra cambistas](https://www.nexojornal.com.br/expresso/2023/06/16/A-press%C3%A3o-de-f%C3%A3s-da-Taylor-Swift-por-a%C3%A7%C3%B5es-contra-cambistas)
+- [‘Colonialismo digital’: a dominação no ambiente virtual](https://www.nexojornal.com.br/estante/trechos/2023/06/16/%E2%80%98Colonialismo-digital%E2%80%99-a-domina%C3%A7%C3%A3o-no-ambiente-virtual)
+- [Como começar a ouvir Maria Bethânia](https://www.nexojornal.com.br/podcast/2023/06/16/Como-come%C3%A7ar-a-ouvir-Maria-Beth%C3%A2nia)
+- [Por uma democracia com mulheres negras na liderança](https://www.nexojornal.com.br/ensaio/2023/06/16/Por-uma-democracia-com-mulheres-negras-na-lideran%C3%A7a)
+- [As suspeitas que envolvem um ex-assessor e um filho e Lira](https://www.nexojornal.com.br/expresso/2023/06/16/As-suspeitas-que-envolvem-um-ex-assessor-e-um-filho-e-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
