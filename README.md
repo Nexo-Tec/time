@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [De preto contra o racismo, Brasil vence Guiné por 4 a 1](https://www.nexojornal.com.br/extra/2023/06/17/De-preto-contra-o-racismo-Brasil-vence-Guin%C3%A9-por-4-a-1)
-- [Ciclone deixa mais de dez mortos no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2023/06/17/Ciclone-deixa-mais-de-dez-mortos-no-Rio-Grande-do-Sul)
 - [A pressão de fãs da Taylor Swift por ações contra cambistas](https://www.nexojornal.com.br/expresso/2023/06/16/A-press%C3%A3o-de-f%C3%A3s-da-Taylor-Swift-por-a%C3%A7%C3%B5es-contra-cambistas)
 - [‘Colonialismo digital’: a dominação no ambiente virtual](https://www.nexojornal.com.br/estante/trechos/2023/06/16/%E2%80%98Colonialismo-digital%E2%80%99-a-domina%C3%A7%C3%A3o-no-ambiente-virtual)
 - [Como começar a ouvir Maria Bethânia](https://www.nexojornal.com.br/podcast/2023/06/16/Como-come%C3%A7ar-a-ouvir-Maria-Beth%C3%A2nia)
+- [Por uma democracia com mulheres negras na liderança](https://www.nexojornal.com.br/ensaio/2023/06/16/Por-uma-democracia-com-mulheres-negras-na-lideran%C3%A7a)
+- [As suspeitas que envolvem um ex-assessor e um filho e Lira](https://www.nexojornal.com.br/expresso/2023/06/16/As-suspeitas-que-envolvem-um-ex-assessor-e-um-filho-e-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
