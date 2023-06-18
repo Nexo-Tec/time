@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros brasileiros de ciências sociais sobre o mundo digital](https://www.nexojornal.com.br/estante/favoritos/2023/06/18/5-livros-brasileiros-de-ci%C3%AAncias-sociais-sobre-o-mundo-digital)
-- [Quem é Antonio Bispo, quilombola que propõe a contracolonização](https://www.nexojornal.com.br/expresso/2023/06/18/Quem-%C3%A9-Antonio-Bispo-quilombola-que-prop%C3%B5e-a-contracoloniza%C3%A7%C3%A3o)
-- [A missão de paz de líderes africanos na Ucrânia e na Rússia](https://www.nexojornal.com.br/expresso/2023/06/18/A-miss%C3%A3o-de-paz-de-l%C3%ADderes-africanos-na-Ucr%C3%A2nia-e-na-R%C3%BAssia)
-- [O que é agricultura de baixo carbono. E quais seus entraves](https://www.nexojornal.com.br/expresso/2023/06/18/O-que-%C3%A9-agricultura-de-baixo-carbono.-E-quais-seus-entraves)
-- [A voz da juventude no enfrentamento da letalidade policial](https://www.nexojornal.com.br/ensaio/2023/06/18/A-voz-da-juventude-no-enfrentamento-da-letalidade-policial)
+- [De preto contra o racismo, Brasil vence Guiné por 4 a 1](https://www.nexojornal.com.br/extra/2023/06/17/De-preto-contra-o-racismo-Brasil-vence-Guin%C3%A9-por-4-a-1)
+- [Ciclone deixa mais de dez mortos no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2023/06/17/Ciclone-deixa-mais-de-dez-mortos-no-Rio-Grande-do-Sul)
+- [A pressão de fãs da Taylor Swift por ações contra cambistas](https://www.nexojornal.com.br/expresso/2023/06/16/A-press%C3%A3o-de-f%C3%A3s-da-Taylor-Swift-por-a%C3%A7%C3%B5es-contra-cambistas)
+- [‘Colonialismo digital’: a dominação no ambiente virtual](https://www.nexojornal.com.br/estante/trechos/2023/06/16/%E2%80%98Colonialismo-digital%E2%80%99-a-domina%C3%A7%C3%A3o-no-ambiente-virtual)
+- [Como começar a ouvir Maria Bethânia](https://www.nexojornal.com.br/podcast/2023/06/16/Como-come%C3%A7ar-a-ouvir-Maria-Beth%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
