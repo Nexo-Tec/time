@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cauana Mestre: “Está cada vez mais difícil identificar o que é do coletivo e o que é singular”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-cauana-mestre-elena-ferrante-liberdade-sexual/)
 - [Conceição Evaristo conversa com Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/conceicao-evaristo-conversa-com-mano-brown/)
 - [Assassinato e penteados extravagantes no cinema](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assassinato-e-penteados-extravagantes-no-cinema/)
 - [O retorno de HQs clássicas e esquecidas por anos](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-retorno-de-hqs-classicas-e-esquecidas-por-anos/)
 - [Os debates d’A Feria do Livro no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-debates-da-feria-do-livro-no-youtube/)
-- [In-Edit Brasil – Festival Internacional do Documentário Musical](https://gamarevista.uol.com.br/achamos-que-vale/ir/in-edit-brasil-festival-internacional-do-documentario-musical/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
