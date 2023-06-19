@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ex-aluno mata estudante a tiros em escola no Paraná](https://www.nexojornal.com.br/extra/2023/06/19/Ex-aluno-mata-estudante-a-tiros-em-escola-no-Paran%C3%A1)
 - [Quantos ex-detentos voltam a cometer crimes?](https://www.nexojornal.com.br/externo/2023/06/18/Quantos-ex-detentos-voltam-a-cometer-crimes)
 - [Dois lados da mesma moeda: economia e desmatamento](https://www.nexojornal.com.br/ensaio/2023/06/18/Dois-lados-da-mesma-moeda-economia-e-desmatamento)
 - [Lavajatistas na berlinda: dos reveses judiciais aos políticos](https://www.nexojornal.com.br/expresso/2023/06/18/Lavajatistas-na-berlinda-dos-reveses-judiciais-aos-pol%C3%ADticos)
 - [O que norteia as propostas de regular a inteligência artificial](https://www.nexojornal.com.br/expresso/2023/06/18/O-que-norteia-as-propostas-de-regular-a-intelig%C3%AAncia-artificial)
-- [Frio mata mais de 1.500 bois no Mato Grosso do Sul](https://www.nexojornal.com.br/extra/2023/06/18/Frio-mata-mais-de-1.500-bois-no-Mato-Grosso-do-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
