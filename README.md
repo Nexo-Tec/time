@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros brasileiros de ciências sociais sobre o mundo digital](https://www.nexojornal.com.br/estante/favoritos/2023/06/18/5-livros-brasileiros-de-ci%C3%AAncias-sociais-sobre-o-mundo-digital)
-- [Quem é Antonio Bispo, quilombola que propõe a contracolonização](https://www.nexojornal.com.br/expresso/2023/06/18/Quem-%C3%A9-Antonio-Bispo-quilombola-que-prop%C3%B5e-a-contracoloniza%C3%A7%C3%A3o)
-- [A missão de paz de líderes africanos na Ucrânia e na Rússia](https://www.nexojornal.com.br/expresso/2023/06/18/A-miss%C3%A3o-de-paz-de-l%C3%ADderes-africanos-na-Ucr%C3%A2nia-e-na-R%C3%BAssia)
-- [O que é agricultura de baixo carbono. E quais seus entraves](https://www.nexojornal.com.br/expresso/2023/06/18/O-que-%C3%A9-agricultura-de-baixo-carbono.-E-quais-seus-entraves)
-- [A voz da juventude no enfrentamento da letalidade policial](https://www.nexojornal.com.br/ensaio/2023/06/18/A-voz-da-juventude-no-enfrentamento-da-letalidade-policial)
+- [Quantos ex-detentos voltam a cometer crimes?](https://www.nexojornal.com.br/externo/2023/06/18/Quantos-ex-detentos-voltam-a-cometer-crimes)
+- [Dois lados da mesma moeda: economia e desmatamento](https://www.nexojornal.com.br/ensaio/2023/06/18/Dois-lados-da-mesma-moeda-economia-e-desmatamento)
+- [Lavajatistas na berlinda: dos reveses judiciais aos políticos](https://www.nexojornal.com.br/expresso/2023/06/18/Lavajatistas-na-berlinda-dos-reveses-judiciais-aos-pol%C3%ADticos)
+- [O que norteia as propostas de regular a inteligência artificial](https://www.nexojornal.com.br/expresso/2023/06/18/O-que-norteia-as-propostas-de-regular-a-intelig%C3%AAncia-artificial)
+- [Frio mata mais de 1.500 bois no Mato Grosso do Sul](https://www.nexojornal.com.br/extra/2023/06/18/Frio-mata-mais-de-1.500-bois-no-Mato-Grosso-do-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
