@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O ataque na escola em Cambé. E a sequência violenta de 2023](https://www.nexojornal.com.br/expresso/2023/06/19/O-ataque-na-escola-em-Camb%C3%A9.-E-a-sequ%C3%AAncia-violenta-de-2023)
-- [Como a Arábia Saudita amplia seu soft power com games e esportes](https://www.nexojornal.com.br/expresso/2023/06/19/Como-a-Ar%C3%A1bia-Saudita-amplia-seu-soft-power-com-games-e-esportes)
-- [Junho de 2013: uma jornada rumo ao esquisito](https://www.nexojornal.com.br/ensaio/2023/06/19/Junho-de-2013-uma-jornada-rumo-ao-esquisito)
-- [Dois novos juízes assumem vara da Lava Jato em Curitiba](https://www.nexojornal.com.br/extra/2023/06/19/Dois-novos-ju%C3%ADzes-assumem-vara-da-Lava-Jato-em-Curitiba)
-- [O que prevê a nova CPI das ONGs. E o que saiu de outras comissões](https://www.nexojornal.com.br/expresso/2023/06/19/O-que-prev%C3%AA-a-nova-CPI-das-ONGs.-E-o-que-saiu-de-outras-comiss%C3%B5es)
+- [Ex-aluno mata estudante a tiros em escola no Paraná](https://www.nexojornal.com.br/extra/2023/06/19/Ex-aluno-mata-estudante-a-tiros-em-escola-no-Paran%C3%A1)
+- [Quantos ex-detentos voltam a cometer crimes?](https://www.nexojornal.com.br/externo/2023/06/18/Quantos-ex-detentos-voltam-a-cometer-crimes)
+- [Dois lados da mesma moeda: economia e desmatamento](https://www.nexojornal.com.br/ensaio/2023/06/18/Dois-lados-da-mesma-moeda-economia-e-desmatamento)
+- [Lavajatistas na berlinda: dos reveses judiciais aos políticos](https://www.nexojornal.com.br/expresso/2023/06/18/Lavajatistas-na-berlinda-dos-reveses-judiciais-aos-pol%C3%ADticos)
+- [O que norteia as propostas de regular a inteligência artificial](https://www.nexojornal.com.br/expresso/2023/06/18/O-que-norteia-as-propostas-de-regular-a-intelig%C3%AAncia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
