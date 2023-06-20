@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Esplanada: Lula impõe vetos a mudanças feitas pelo Congresso](https://www.nexojornal.com.br/extra/2023/06/20/Esplanada-Lula-imp%C3%B5e-vetos-a-mudan%C3%A7as-feitas-pelo-Congresso)
 - [O ataque na escola em Cambé. E a sequência violenta de 2023](https://www.nexojornal.com.br/expresso/2023/06/19/O-ataque-na-escola-em-Camb%C3%A9.-E-a-sequ%C3%AAncia-violenta-de-2023)
 - [Como a Arábia Saudita amplia seu soft power com games e esportes](https://www.nexojornal.com.br/expresso/2023/06/19/Como-a-Ar%C3%A1bia-Saudita-amplia-seu-soft-power-com-games-e-esportes)
 - [Junho de 2013: uma jornada rumo ao esquisito](https://www.nexojornal.com.br/ensaio/2023/06/19/Junho-de-2013-uma-jornada-rumo-ao-esquisito)
 - [Dois novos juízes assumem vara da Lava Jato em Curitiba](https://www.nexojornal.com.br/extra/2023/06/19/Dois-novos-ju%C3%ADzes-assumem-vara-da-Lava-Jato-em-Curitiba)
-- [O que prevê a nova CPI das ONGs. E o que saiu de outras comissões](https://www.nexojornal.com.br/expresso/2023/06/19/O-que-prev%C3%AA-a-nova-CPI-das-ONGs.-E-o-que-saiu-de-outras-comiss%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
