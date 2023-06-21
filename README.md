@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Catolicismo jurídico antidireitos, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Catolicismo-jur%C3%ADdico-antidireitos-em-4-pontos)
-- [Os desafios à diversidade na composição da magistratura brasileira](https://pp.nexojornal.com.br/opiniao/2023/Os-desafios-%C3%A0-diversidade-na-composi%C3%A7%C3%A3o-da-magistratura-brasileira)
-- [O papel da participação social para a construção de políticas públicas mais eficientes: da periferia para o centro](https://pp.nexojornal.com.br/opiniao/2023/O-papel-da-participa%C3%A7%C3%A3o-social-para-a-constru%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas-mais-eficientes-da-periferia-para-o-centro)
-- [Boyd Swinburn: a sindemia global e a classificação NOVA](https://pp.nexojornal.com.br/topico/2023/06/20/Boyd-Swinburn-a-sindemia-global-e-a-classifica%C3%A7%C3%A3o-NOVA)
-- [Quem tem direito a ter direito? Ações afirmativas para as adolescências negras](https://pp.nexojornal.com.br/opiniao/2023/Quem-tem-direito-a-ter-direito-A%C3%A7%C3%B5es-afirmativas-para-as-adolesc%C3%AAncias-negras)
+- [A relação entre raça e política institucional no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/15/A-rela%C3%A7%C3%A3o-entre-ra%C3%A7a-e-pol%C3%ADtica-institucional-no-Brasil)
+- [Isaac Palma Brandão: Du Bois e a sociologia da religião](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/15/Isaac-Palma-Brand%C3%A3o-Du-Bois-e-a-sociologia-da-religi%C3%A3o)
+- [Qual a credibilidade das metas de neutralidade climática](https://pp.nexojornal.com.br/academico/2023/Qual-a-credibilidade-das-metas-de-neutralidade-clim%C3%A1tica)
+- [Armas de fogo no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/13/Armas-de-fogo-no-Brasil)
+- [Tecendo uma rede de comunicação sobre o oceano](https://pp.nexojornal.com.br/opiniao/2023/Tecendo-uma-rede-de-comunica%C3%A7%C3%A3o-sobre-o-oceano)
 <!-- PP_LIST:END -->
 
