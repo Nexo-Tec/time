@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 pontos para saber como será a atuação de Zanin no Supremo](https://www.nexojornal.com.br/expresso/2023/06/21/5-pontos-para-saber-como-ser%C3%A1-a-atua%C3%A7%C3%A3o-de-Zanin-no-Supremo)
-- [Os movimentos do papa para mediar a guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/06/20/Os-movimentos-do-papa-para-mediar-a-guerra-da-Ucr%C3%A2nia)
-- [Sorte? Por que a economia vai melhor que o esperado em 2023](https://www.nexojornal.com.br/expresso/2023/06/20/Sorte-Por-que-a-economia-vai-melhor-que-o-esperado-em-2023)
-- [Por que o fósforo é determinante para a vida extraterrestre](https://www.nexojornal.com.br/expresso/2023/06/20/Por-que-o-f%C3%B3sforo-%C3%A9-determinante-para-a-vida-extraterrestre)
-- [GSI vai voltar a coordenar segurança de Lula, diz Rui Costa](https://www.nexojornal.com.br/extra/2023/06/20/GSI-vai-voltar-a-coordenar-seguran%C3%A7a-de-Lula-diz-Rui-Costa)
+- [Esplanada: Lula impõe vetos a mudanças feitas pelo Congresso](https://www.nexojornal.com.br/extra/2023/06/20/Esplanada-Lula-imp%C3%B5e-vetos-a-mudan%C3%A7as-feitas-pelo-Congresso)
+- [O ataque na escola em Cambé. E a sequência violenta de 2023](https://www.nexojornal.com.br/expresso/2023/06/19/O-ataque-na-escola-em-Camb%C3%A9.-E-a-sequ%C3%AAncia-violenta-de-2023)
+- [Como a Arábia Saudita amplia seu soft power com games e esportes](https://www.nexojornal.com.br/expresso/2023/06/19/Como-a-Ar%C3%A1bia-Saudita-amplia-seu-soft-power-com-games-e-esportes)
+- [Junho de 2013: uma jornada rumo ao esquisito](https://www.nexojornal.com.br/ensaio/2023/06/19/Junho-de-2013-uma-jornada-rumo-ao-esquisito)
+- [Dois novos juízes assumem vara da Lava Jato em Curitiba](https://www.nexojornal.com.br/extra/2023/06/19/Dois-novos-ju%C3%ADzes-assumem-vara-da-Lava-Jato-em-Curitiba)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
