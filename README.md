@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O começo de um julgamento que define o futuro de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/06/21/O-come%C3%A7o-de-um-julgamento-que-define-o-futuro-de-Bolsonaro)
-- [As propostas na mesa da cúpula econômico-climática em Paris](https://www.nexojornal.com.br/expresso/2023/06/21/As-propostas-na-mesa-da-c%C3%BApula-econ%C3%B4mico-clim%C3%A1tica-em-Paris)
-- [Queda de juros adiada: o que está na agenda até a próxima reunião](https://www.nexojornal.com.br/expresso/2023/06/21/Queda-de-juros-adiada-o-que-est%C3%A1-na-agenda-at%C3%A9-a-pr%C3%B3xima-reuni%C3%A3o)
-- [Extravagância e miséria das formas de vida bilionárias](https://www.nexojornal.com.br/colunistas/2023/Extravag%C3%A2ncia-e-mis%C3%A9ria-das-formas-de-vida-bilion%C3%A1rias)
-- [‘O ponto mais baixo’ da relação diplomática entre EUA e China](https://www.nexojornal.com.br/podcast/2023/06/21/%E2%80%98O-ponto-mais-baixo%E2%80%99-da-rela%C3%A7%C3%A3o-diplom%C3%A1tica-entre-EUA-e-China)
+- [Regra fiscal vai a voto no Senado com mais áreas fora do limite](https://www.nexojornal.com.br/extra/2023/06/21/Regra-fiscal-vai-a-voto-no-Senado-com-mais-%C3%A1reas-fora-do-limite)
+- [Atirador de escola de Cambé aparece morto na prisão](https://www.nexojornal.com.br/extra/2023/06/21/Atirador-de-escola-de-Camb%C3%A9-aparece-morto-na-pris%C3%A3o)
+- [Bolsonaro faz apelo ao TSE na véspera de seu julgamento](https://www.nexojornal.com.br/extra/2023/06/21/Bolsonaro-faz-apelo-ao-TSE-na-v%C3%A9spera-de-seu-julgamento)
+- [5 pontos para saber como será a atuação de Zanin no Supremo](https://www.nexojornal.com.br/expresso/2023/06/21/5-pontos-para-saber-como-ser%C3%A1-a-atua%C3%A7%C3%A3o-de-Zanin-no-Supremo)
+- [Os movimentos do papa para mediar a guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/06/20/Os-movimentos-do-papa-para-mediar-a-guerra-da-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
