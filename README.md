@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O medo dos ventos uivantes](https://gamarevista.uol.com.br/colunistas/winnie-bueno/o-medo-dos-ventos-uivantes/)
-- [Até que ponto falar o que o outro quer ouvir?](https://gamarevista.uol.com.br/colunistas/maria-homem/ate-que-ponto-falar-o-que-o-outro-quer-ouvir/)
-- [@nathfinancas](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/nathfinancas/)
-- [Cauana Mestre: “Está cada vez mais difícil identificar o que é do coletivo e o que é singular”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-cauana-mestre-elena-ferrante-liberdade-sexual/)
-- [Conceição Evaristo conversa com Mano Brown](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/conceicao-evaristo-conversa-com-mano-brown/)
+- [“Retratistas do Morro”, no Sesc Pinheiros &lpar;SP&rpar;](https://gamarevista.uol.com.br/achamos-que-vale/ir/retratistas-do-morro-no-sesc-pinheiros-sp/)
+- [A bióloga e o jacaré](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-biologa-e-o-jacare/)
+- [Receitas juninas de família para aquecer](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-juninas-de-familia-para-aquecer/)
+- [Festival regado a cafeína em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-regado-a-cafeina-em-sao-paulo/)
+- [Língua portuguesa, escrita e edição](https://gamarevista.uol.com.br/achamos-que-vale/ler/lingua-portuguesa-escrita-e-edicao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
