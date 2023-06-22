@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Regra fiscal vai a voto no Senado com mais áreas fora do limite](https://www.nexojornal.com.br/extra/2023/06/21/Regra-fiscal-vai-a-voto-no-Senado-com-mais-%C3%A1reas-fora-do-limite)
-- [Atirador de escola de Cambé aparece morto na prisão](https://www.nexojornal.com.br/extra/2023/06/21/Atirador-de-escola-de-Camb%C3%A9-aparece-morto-na-pris%C3%A3o)
-- [Bolsonaro faz apelo ao TSE na véspera de seu julgamento](https://www.nexojornal.com.br/extra/2023/06/21/Bolsonaro-faz-apelo-ao-TSE-na-v%C3%A9spera-de-seu-julgamento)
 - [5 pontos para saber como será a atuação de Zanin no Supremo](https://www.nexojornal.com.br/expresso/2023/06/21/5-pontos-para-saber-como-ser%C3%A1-a-atua%C3%A7%C3%A3o-de-Zanin-no-Supremo)
 - [Os movimentos do papa para mediar a guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2023/06/20/Os-movimentos-do-papa-para-mediar-a-guerra-da-Ucr%C3%A2nia)
+- [Sorte? Por que a economia vai melhor que o esperado em 2023](https://www.nexojornal.com.br/expresso/2023/06/20/Sorte-Por-que-a-economia-vai-melhor-que-o-esperado-em-2023)
+- [Por que o fósforo é determinante para a vida extraterrestre](https://www.nexojornal.com.br/expresso/2023/06/20/Por-que-o-f%C3%B3sforo-%C3%A9-determinante-para-a-vida-extraterrestre)
+- [GSI vai voltar a coordenar segurança de Lula, diz Rui Costa](https://www.nexojornal.com.br/extra/2023/06/20/GSI-vai-voltar-a-coordenar-seguran%C3%A7a-de-Lula-diz-Rui-Costa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
