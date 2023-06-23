@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A pressão redobrada sobre o Banco Central para reduzir os juros](https://www.nexojornal.com.br/podcast/2023/06/22/A-press%C3%A3o-redobrada-sobre-o-Banco-Central-para-reduzir-os-juros)
-- [Ex-GSI diz que Abin errou ao citar alertas sobre 8 de janeiro](https://www.nexojornal.com.br/extra/2023/06/22/Ex-GSI-diz-que-Abin-errou-ao-citar-alertas-sobre-8-de-janeiro)
-- [Ex-esposa acusa Arthur Lira de violência sexual](https://www.nexojornal.com.br/externo/2023/06/22/Ex-esposa-acusa-Arthur-Lira-de-viol%C3%AAncia-sexual)
-- [Guarda Costeira diz que tripulantes de submersível morreram](https://www.nexojornal.com.br/extra/2023/06/22/Guarda-Costeira-diz-que-tripulantes-de-submers%C3%ADvel-morreram)
-- [Ministério Público Eleitoral defende Bolsonaro inelegível](https://www.nexojornal.com.br/extra/2023/06/22/Minist%C3%A9rio-P%C3%BAblico-Eleitoral-defende-Bolsonaro-ineleg%C3%ADvel)
+- [O começo de um julgamento que define o futuro de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/06/21/O-come%C3%A7o-de-um-julgamento-que-define-o-futuro-de-Bolsonaro)
+- [As propostas na mesa da cúpula econômico-climática em Paris](https://www.nexojornal.com.br/expresso/2023/06/21/As-propostas-na-mesa-da-c%C3%BApula-econ%C3%B4mico-clim%C3%A1tica-em-Paris)
+- [Queda de juros adiada: o que está na agenda até a próxima reunião](https://www.nexojornal.com.br/expresso/2023/06/21/Queda-de-juros-adiada-o-que-est%C3%A1-na-agenda-at%C3%A9-a-pr%C3%B3xima-reuni%C3%A3o)
+- [Extravagância e miséria das formas de vida bilionárias](https://www.nexojornal.com.br/colunistas/2023/Extravag%C3%A2ncia-e-mis%C3%A9ria-das-formas-de-vida-bilion%C3%A1rias)
+- [‘O ponto mais baixo’ da relação diplomática entre EUA e China](https://www.nexojornal.com.br/podcast/2023/06/21/%E2%80%98O-ponto-mais-baixo%E2%80%99-da-rela%C3%A7%C3%A3o-diplom%C3%A1tica-entre-EUA-e-China)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
