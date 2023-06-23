@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bandeirinhas de festa junina](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bandeirinhas-de-festa-junina/)
 - [“Retratistas do Morro”, no Sesc Pinheiros &lpar;SP&rpar;](https://gamarevista.uol.com.br/achamos-que-vale/ir/retratistas-do-morro-no-sesc-pinheiros-sp/)
 - [A bióloga e o jacaré](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-biologa-e-o-jacare/)
 - [Receitas juninas de família para aquecer](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-juninas-de-familia-para-aquecer/)
 - [Festival regado a cafeína em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-regado-a-cafeina-em-sao-paulo/)
-- [Língua portuguesa, escrita e edição](https://gamarevista.uol.com.br/achamos-que-vale/ler/lingua-portuguesa-escrita-e-edicao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
