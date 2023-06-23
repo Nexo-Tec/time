@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A pressão redobrada sobre o Banco Central para reduzir os juros](https://www.nexojornal.com.br/podcast/2023/06/22/A-press%C3%A3o-redobrada-sobre-o-Banco-Central-para-reduzir-os-juros)
-- [Ex-GSI diz que Abin errou ao citar alertas sobre 8 de janeiro](https://www.nexojornal.com.br/extra/2023/06/22/Ex-GSI-diz-que-Abin-errou-ao-citar-alertas-sobre-8-de-janeiro)
-- [Ex-esposa acusa Arthur Lira de violência sexual](https://www.nexojornal.com.br/externo/2023/06/22/Ex-esposa-acusa-Arthur-Lira-de-viol%C3%AAncia-sexual)
-- [Guarda Costeira diz que tripulantes de submersível morreram](https://www.nexojornal.com.br/extra/2023/06/22/Guarda-Costeira-diz-que-tripulantes-de-submers%C3%ADvel-morreram)
-- [Ministério Público Eleitoral defende Bolsonaro inelegível](https://www.nexojornal.com.br/extra/2023/06/22/Minist%C3%A9rio-P%C3%BAblico-Eleitoral-defende-Bolsonaro-ineleg%C3%ADvel)
+- [Por que o TSE decidiu julgar Bolsonaro pelo ‘conjunto da obra’](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-o-TSE-decidiu-julgar-Bolsonaro-pelo-%E2%80%98conjunto-da-obra%E2%80%99)
+- [Por que a reforma tributária é sensível para governadores](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-a-reforma-tribut%C3%A1ria-%C3%A9-sens%C3%ADvel-para-governadores)
+- [Quem é Mia Mottley, voz de impacto na crise do clima](https://www.nexojornal.com.br/expresso/2023/06/22/Quem-%C3%A9-Mia-Mottley-voz-de-impacto-na-crise-do-clima)
+- [Interesse por notícias cai. Mas afinal, para que elas servem?](https://www.nexojornal.com.br/colunistas/2023/Interesse-por-not%C3%ADcias-cai.-Mas-afinal-para-que-elas-servem)
+- [Rússia acusa Ucrânia de usar mísseis da Otan na Crimeia](https://www.nexojornal.com.br/extra/2023/06/22/R%C3%BAssia-acusa-Ucr%C3%A2nia-de-usar-m%C3%ADsseis-da-Otan-na-Crimeia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
