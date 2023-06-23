@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O começo de um julgamento que define o futuro de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/06/21/O-come%C3%A7o-de-um-julgamento-que-define-o-futuro-de-Bolsonaro)
-- [As propostas na mesa da cúpula econômico-climática em Paris](https://www.nexojornal.com.br/expresso/2023/06/21/As-propostas-na-mesa-da-c%C3%BApula-econ%C3%B4mico-clim%C3%A1tica-em-Paris)
-- [Queda de juros adiada: o que está na agenda até a próxima reunião](https://www.nexojornal.com.br/expresso/2023/06/21/Queda-de-juros-adiada-o-que-est%C3%A1-na-agenda-at%C3%A9-a-pr%C3%B3xima-reuni%C3%A3o)
-- [Extravagância e miséria das formas de vida bilionárias](https://www.nexojornal.com.br/colunistas/2023/Extravag%C3%A2ncia-e-mis%C3%A9ria-das-formas-de-vida-bilion%C3%A1rias)
-- [‘O ponto mais baixo’ da relação diplomática entre EUA e China](https://www.nexojornal.com.br/podcast/2023/06/21/%E2%80%98O-ponto-mais-baixo%E2%80%99-da-rela%C3%A7%C3%A3o-diplom%C3%A1tica-entre-EUA-e-China)
+- [Por que o TSE decidiu julgar Bolsonaro pelo ‘conjunto da obra’](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-o-TSE-decidiu-julgar-Bolsonaro-pelo-%E2%80%98conjunto-da-obra%E2%80%99)
+- [Por que a reforma tributária é sensível para governadores](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-a-reforma-tribut%C3%A1ria-%C3%A9-sens%C3%ADvel-para-governadores)
+- [Quem é Mia Mottley, voz de impacto na crise do clima](https://www.nexojornal.com.br/expresso/2023/06/22/Quem-%C3%A9-Mia-Mottley-voz-de-impacto-na-crise-do-clima)
+- [Interesse por notícias cai. Mas afinal, para que elas servem?](https://www.nexojornal.com.br/colunistas/2023/Interesse-por-not%C3%ADcias-cai.-Mas-afinal-para-que-elas-servem)
+- [Rússia acusa Ucrânia de usar mísseis da Otan na Crimeia](https://www.nexojornal.com.br/extra/2023/06/22/R%C3%BAssia-acusa-Ucr%C3%A2nia-de-usar-m%C3%ADsseis-da-Otan-na-Crimeia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
