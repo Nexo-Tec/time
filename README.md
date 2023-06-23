@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Segurança alimentar e nutricional e primeira infância](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/21/Seguran%C3%A7a-alimentar-e-nutricional-e-primeira-inf%C3%A2ncia)
-- [Catolicismo jurídico antidireitos, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Catolicismo-jur%C3%ADdico-antidireitos-em-4-pontos)
-- [Os desafios à diversidade na composição da magistratura brasileira](https://pp.nexojornal.com.br/opiniao/2023/Os-desafios-%C3%A0-diversidade-na-composi%C3%A7%C3%A3o-da-magistratura-brasileira)
-- [O papel da participação social para a construção de políticas públicas mais eficientes: da periferia para o centro](https://pp.nexojornal.com.br/opiniao/2023/O-papel-da-participa%C3%A7%C3%A3o-social-para-a-constru%C3%A7%C3%A3o-de-pol%C3%ADticas-p%C3%BAblicas-mais-eficientes-da-periferia-para-o-centro)
-- [Boyd Swinburn: a sindemia global e a classificação NOVA](https://pp.nexojornal.com.br/topico/2023/06/20/Boyd-Swinburn-a-sindemia-global-e-a-classifica%C3%A7%C3%A3o-NOVA)
+- [Como o glifosato pode afetar a saúde humana em contextos rurais, no Brasil](https://pp.nexojornal.com.br/academico/2023/Como-o-glifosato-pode-afetar-a-sa%C3%BAde-humana-em-contextos-rurais-no-Brasil)
+- [Rui Harayama: universidade e a escassez de profissionais da saúde em áreas remotas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/22/Rui-Harayama-universidade-e-a-escassez-de-profissionais-da-sa%C3%BAde-em-%C3%A1reas-remotas)
+- [Qual a relação entre o meu pedido online e as mudanças climáticas globais?](https://pp.nexojornal.com.br/opiniao/2023/Qual-a-rela%C3%A7%C3%A3o-entre-o-meu-pedido-online-e-as-mudan%C3%A7as-clim%C3%A1ticas-globais)
+- [É preciso repensar o modelo brasileiro de produção de dados criminais das abordagens policiais](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-preciso-repensar-o-modelo-brasileiro-de-produ%C3%A7%C3%A3o-de-dados-criminais-das-abordagens-policiais)
+- [Du Bois e o giro decolonial](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-e-o-giro-decolonial)
 <!-- PP_LIST:END -->
 
