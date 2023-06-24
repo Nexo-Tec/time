@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o TSE decidiu julgar Bolsonaro pelo ‘conjunto da obra’](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-o-TSE-decidiu-julgar-Bolsonaro-pelo-%E2%80%98conjunto-da-obra%E2%80%99)
-- [Por que a reforma tributária é sensível para governadores](https://www.nexojornal.com.br/expresso/2023/06/22/Por-que-a-reforma-tribut%C3%A1ria-%C3%A9-sens%C3%ADvel-para-governadores)
-- [Quem é Mia Mottley, voz de impacto na crise do clima](https://www.nexojornal.com.br/expresso/2023/06/22/Quem-%C3%A9-Mia-Mottley-voz-de-impacto-na-crise-do-clima)
-- [Interesse por notícias cai. Mas afinal, para que elas servem?](https://www.nexojornal.com.br/colunistas/2023/Interesse-por-not%C3%ADcias-cai.-Mas-afinal-para-que-elas-servem)
-- [Rússia acusa Ucrânia de usar mísseis da Otan na Crimeia](https://www.nexojornal.com.br/extra/2023/06/22/R%C3%BAssia-acusa-Ucr%C3%A2nia-de-usar-m%C3%ADsseis-da-Otan-na-Crimeia)
+- [‘A vida de Robbert Oppenheimer’: por trás da bomba atômica](https://www.nexojornal.com.br/estante/trechos/2023/06/23/%E2%80%98A-vida-de-Robbert-Oppenheimer%E2%80%99-por-tr%C3%A1s-da-bomba-at%C3%B4mica)
+- [O raro mausoléu romano encontrado no centro de Londres](https://www.nexojornal.com.br/expresso/2023/06/23/O-raro-mausol%C3%A9u-romano-encontrado-no-centro-de-Londres)
+- [‘Lira vai operar em modo de tensão permanente com Lula’](https://www.nexojornal.com.br/entrevista/2023/06/23/%E2%80%98Lira-vai-operar-em-modo-de-tens%C3%A3o-permanente-com-Lula%E2%80%99)
+- [Por uma democracia sem balas de borracha ou bombas de gás](https://www.nexojornal.com.br/ensaio/2023/Por-uma-democracia-sem-balas-de-borracha-ou-bombas-de-g%C3%A1s)
+- [Como os EUA agiram durante a investida golpista bolsonarista](https://www.nexojornal.com.br/expresso/2023/06/23/Como-os-EUA-agiram-durante-a-investida-golpista-bolsonarista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
