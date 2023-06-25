@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A vida de Robbert Oppenheimer’: por trás da bomba atômica](https://www.nexojornal.com.br/estante/trechos/2023/06/23/%E2%80%98A-vida-de-Robbert-Oppenheimer%E2%80%99-por-tr%C3%A1s-da-bomba-at%C3%B4mica)
-- [O raro mausoléu romano encontrado no centro de Londres](https://www.nexojornal.com.br/expresso/2023/06/23/O-raro-mausol%C3%A9u-romano-encontrado-no-centro-de-Londres)
-- [‘Lira vai operar em modo de tensão permanente com Lula’](https://www.nexojornal.com.br/entrevista/2023/06/23/%E2%80%98Lira-vai-operar-em-modo-de-tens%C3%A3o-permanente-com-Lula%E2%80%99)
-- [Por uma democracia sem balas de borracha ou bombas de gás](https://www.nexojornal.com.br/ensaio/2023/Por-uma-democracia-sem-balas-de-borracha-ou-bombas-de-g%C3%A1s)
-- [Como os EUA agiram durante a investida golpista bolsonarista](https://www.nexojornal.com.br/expresso/2023/06/23/Como-os-EUA-agiram-durante-a-investida-golpista-bolsonarista)
+- [Lanceirinhos Negros recontam a Revolução Farroupilha a crianças](https://www.nexojornal.com.br/externo/2023/06/24/Lanceirinhos-Negros-recontam-a-Revolu%C3%A7%C3%A3o-Farroupilha-a-crian%C3%A7as)
+- [5 livros de quadrinhos LGBTI+ feitos por autores brasileiros](https://www.nexojornal.com.br/estante/favoritos/2023/06/24/5-livros-de-quadrinhos-LGBTI-feitos-por-autores-brasileiros)
+- [Os indígenas que ‘autodemarcaram’ sua terra cobiçada](https://www.nexojornal.com.br/expresso/2023/06/24/Os-ind%C3%ADgenas-que-%E2%80%98autodemarcaram%E2%80%99-sua-terra-cobi%C3%A7ada)
+- [‘Lei nenhuma resolve falta de apoio do povo à democracia’](https://www.nexojornal.com.br/entrevista/2023/06/24/%E2%80%98Lei-nenhuma-resolve-falta-de-apoio-do-povo-%C3%A0-democracia%E2%80%99)
+- [Qual o discurso obscuro da série documental ‘Trabalho’](https://www.nexojornal.com.br/ensaio/2023/Qual-o-discurso-obscuro-da-s%C3%A9rie-documental-%E2%80%98Trabalho%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
