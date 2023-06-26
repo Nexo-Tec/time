@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasileiro é eleito melhor barista do mundo](https://www.nexojornal.com.br/extra/2023/06/25/Brasileiro-%C3%A9-eleito-melhor-barista-do-mundo)
-- [Lanceirinhos Negros recontam a Revolução Farroupilha a crianças](https://www.nexojornal.com.br/externo/2023/06/24/Lanceirinhos-Negros-recontam-a-Revolu%C3%A7%C3%A3o-Farroupilha-a-crian%C3%A7as)
-- [5 livros de quadrinhos LGBTI+ feitos por autores brasileiros](https://www.nexojornal.com.br/estante/favoritos/2023/06/24/5-livros-de-quadrinhos-LGBTI-feitos-por-autores-brasileiros)
-- [Os indígenas que ‘autodemarcaram’ sua terra cobiçada](https://www.nexojornal.com.br/expresso/2023/06/24/Os-ind%C3%ADgenas-que-%E2%80%98autodemarcaram%E2%80%99-sua-terra-cobi%C3%A7ada)
-- [‘Lei nenhuma resolve falta de apoio do povo à democracia’](https://www.nexojornal.com.br/entrevista/2023/06/24/%E2%80%98Lei-nenhuma-resolve-falta-de-apoio-do-povo-%C3%A0-democracia%E2%80%99)
+- [Operação da PM da Rocinha fecha escolas e deixa jovem ferido](https://www.nexojornal.com.br/extra/2023/06/26/Opera%C3%A7%C3%A3o-da-PM-da-Rocinha-fecha-escolas-e-deixa-jovem-ferido)
+- [Supremo tem maioria para autorizar delação em ações civis](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-tem-maioria-para-autorizar-dela%C3%A7%C3%A3o-em-a%C3%A7%C3%B5es-civis)
+- [7 pontos para entender o perfil da fome no Brasil](https://www.nexojornal.com.br/expresso/2023/06/26/7-pontos-para-entender-o-perfil-da-fome-no-Brasil)
+- [Como peixes-leão se espalharam pela costa brasileira](https://www.nexojornal.com.br/externo/2023/06/25/Como-peixes-le%C3%A3o-se-espalharam-pela-costa-brasileira)
+- [O que aconteceu com as contas públicas dos Estados Unidos](https://www.nexojornal.com.br/ensaio/2023/O-que-aconteceu-com-as-contas-p%C3%BAblicas-dos-Estados-Unidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
