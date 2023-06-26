@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [James Webb detecta carbono no espaço pela 1ª vez](https://www.nexojornal.com.br/extra/2023/06/26/James-Webb-detecta-carbono-no-espa%C3%A7o-pela-1%C2%AA-vez)
 - [Operação da PM da Rocinha fecha escolas e deixa jovem ferido](https://www.nexojornal.com.br/extra/2023/06/26/Opera%C3%A7%C3%A3o-da-PM-da-Rocinha-fecha-escolas-e-deixa-jovem-ferido)
 - [Supremo tem maioria para autorizar delação em ações civis](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-tem-maioria-para-autorizar-dela%C3%A7%C3%A3o-em-a%C3%A7%C3%B5es-civis)
 - [7 pontos para entender o perfil da fome no Brasil](https://www.nexojornal.com.br/expresso/2023/06/26/7-pontos-para-entender-o-perfil-da-fome-no-Brasil)
 - [Como peixes-leão se espalharam pela costa brasileira](https://www.nexojornal.com.br/externo/2023/06/25/Como-peixes-le%C3%A3o-se-espalharam-pela-costa-brasileira)
-- [O que aconteceu com as contas públicas dos Estados Unidos](https://www.nexojornal.com.br/ensaio/2023/O-que-aconteceu-com-as-contas-p%C3%BAblicas-dos-Estados-Unidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
