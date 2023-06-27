@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro: por que o ato com embaixadores já é grave por si só](https://www.nexojornal.com.br/expresso/2023/06/26/Bolsonaro-por-que-o-ato-com-embaixadores-j%C3%A1-%C3%A9-grave-por-si-s%C3%B3)
-- [Como a rebelião mercenária afeta a Rússia na guerra](https://www.nexojornal.com.br/expresso/2023/06/26/Como-a-rebeli%C3%A3o-mercen%C3%A1ria-afeta-a-R%C3%BAssia-na-guerra)
-- [Supremo valida redução de pensão por morte do INSS](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-valida-redu%C3%A7%C3%A3o-de-pens%C3%A3o-por-morte-do-INSS)
-- [Por que Lula dá tanta atenção à crise da Argentina](https://www.nexojornal.com.br/expresso/2023/06/26/Por-que-Lula-d%C3%A1-tanta-aten%C3%A7%C3%A3o-%C3%A0-crise-da-Argentina)
 - [Yevgeny Prigozhin: o mercenário que pôs Putin na parede](https://www.nexojornal.com.br/podcast/2023/06/26/Yevgeny-Prigozhin-o-mercen%C3%A1rio-que-p%C3%B4s-Putin-na-parede)
+- [A influência cultural dos imigrantes da geração Windrush](https://www.nexojornal.com.br/expresso/2023/06/26/A-influ%C3%AAncia-cultural-dos-imigrantes-da-gera%C3%A7%C3%A3o-Windrush)
+- [Como a cor das borboletas-monarcas afeta seus voos](https://www.nexojornal.com.br/expresso/2023/06/26/Como-a-cor-das-borboletas-monarcas-afeta-seus-voos)
+- [PF envia investigação ao STF após achar pagamentos a ‘Arthur’](https://www.nexojornal.com.br/extra/2023/06/26/PF-envia-investiga%C3%A7%C3%A3o-ao-STF-ap%C3%B3s-achar-pagamentos-a-%E2%80%98Arthur%E2%80%99)
+- [James Webb detecta carbono no espaço pela 1ª vez](https://www.nexojornal.com.br/extra/2023/06/26/James-Webb-detecta-carbono-no-espa%C3%A7o-pela-1%C2%AA-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
