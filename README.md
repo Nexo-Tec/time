@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Yevgeny Prigozhin: o mercenário que pôs Putin na parede](https://www.nexojornal.com.br/podcast/2023/06/26/Yevgeny-Prigozhin-o-mercen%C3%A1rio-que-p%C3%B4s-Putin-na-parede)
-- [A influência cultural dos imigrantes da geração Windrush](https://www.nexojornal.com.br/expresso/2023/06/26/A-influ%C3%AAncia-cultural-dos-imigrantes-da-gera%C3%A7%C3%A3o-Windrush)
-- [Como a cor das borboletas-monarcas afeta seus voos](https://www.nexojornal.com.br/expresso/2023/06/26/Como-a-cor-das-borboletas-monarcas-afeta-seus-voos)
-- [PF envia investigação ao STF após achar pagamentos a ‘Arthur’](https://www.nexojornal.com.br/extra/2023/06/26/PF-envia-investiga%C3%A7%C3%A3o-ao-STF-ap%C3%B3s-achar-pagamentos-a-%E2%80%98Arthur%E2%80%99)
 - [James Webb detecta carbono no espaço pela 1ª vez](https://www.nexojornal.com.br/extra/2023/06/26/James-Webb-detecta-carbono-no-espa%C3%A7o-pela-1%C2%AA-vez)
+- [Operação da PM da Rocinha fecha escolas e deixa jovem ferido](https://www.nexojornal.com.br/extra/2023/06/26/Opera%C3%A7%C3%A3o-da-PM-da-Rocinha-fecha-escolas-e-deixa-jovem-ferido)
+- [Supremo tem maioria para autorizar delação em ações civis](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-tem-maioria-para-autorizar-dela%C3%A7%C3%A3o-em-a%C3%A7%C3%B5es-civis)
+- [7 pontos para entender o perfil da fome no Brasil](https://www.nexojornal.com.br/expresso/2023/06/26/7-pontos-para-entender-o-perfil-da-fome-no-Brasil)
+- [Como peixes-leão se espalharam pela costa brasileira](https://www.nexojornal.com.br/externo/2023/06/25/Como-peixes-le%C3%A3o-se-espalharam-pela-costa-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
