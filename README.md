@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação da PM da Rocinha fecha escolas e deixa jovem ferido](https://www.nexojornal.com.br/extra/2023/06/26/Opera%C3%A7%C3%A3o-da-PM-da-Rocinha-fecha-escolas-e-deixa-jovem-ferido)
-- [Supremo tem maioria para autorizar delação em ações civis](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-tem-maioria-para-autorizar-dela%C3%A7%C3%A3o-em-a%C3%A7%C3%B5es-civis)
-- [7 pontos para entender o perfil da fome no Brasil](https://www.nexojornal.com.br/expresso/2023/06/26/7-pontos-para-entender-o-perfil-da-fome-no-Brasil)
-- [Como peixes-leão se espalharam pela costa brasileira](https://www.nexojornal.com.br/externo/2023/06/25/Como-peixes-le%C3%A3o-se-espalharam-pela-costa-brasileira)
-- [O que aconteceu com as contas públicas dos Estados Unidos](https://www.nexojornal.com.br/ensaio/2023/O-que-aconteceu-com-as-contas-p%C3%BAblicas-dos-Estados-Unidos)
+- [Bolsonaro: por que o ato com embaixadores já é grave por si só](https://www.nexojornal.com.br/expresso/2023/06/26/Bolsonaro-por-que-o-ato-com-embaixadores-j%C3%A1-%C3%A9-grave-por-si-s%C3%B3)
+- [Como a rebelião mercenária afeta a Rússia na guerra](https://www.nexojornal.com.br/expresso/2023/06/26/Como-a-rebeli%C3%A3o-mercen%C3%A1ria-afeta-a-R%C3%BAssia-na-guerra)
+- [Supremo valida redução de pensão por morte do INSS](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-valida-redu%C3%A7%C3%A3o-de-pens%C3%A3o-por-morte-do-INSS)
+- [Por que Lula dá tanta atenção à crise da Argentina](https://www.nexojornal.com.br/expresso/2023/06/26/Por-que-Lula-d%C3%A1-tanta-aten%C3%A7%C3%A3o-%C3%A0-crise-da-Argentina)
+- [Yevgeny Prigozhin: o mercenário que pôs Putin na parede](https://www.nexojornal.com.br/podcast/2023/06/26/Yevgeny-Prigozhin-o-mercen%C3%A1rio-que-p%C3%B4s-Putin-na-parede)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
