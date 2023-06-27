@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro: por que o ato com embaixadores já é grave por si só](https://www.nexojornal.com.br/expresso/2023/06/26/Bolsonaro-por-que-o-ato-com-embaixadores-j%C3%A1-%C3%A9-grave-por-si-s%C3%B3)
-- [Como a rebelião mercenária afeta a Rússia na guerra](https://www.nexojornal.com.br/expresso/2023/06/26/Como-a-rebeli%C3%A3o-mercen%C3%A1ria-afeta-a-R%C3%BAssia-na-guerra)
-- [Supremo valida redução de pensão por morte do INSS](https://www.nexojornal.com.br/extra/2023/06/26/Supremo-valida-redu%C3%A7%C3%A3o-de-pens%C3%A3o-por-morte-do-INSS)
-- [Por que Lula dá tanta atenção à crise da Argentina](https://www.nexojornal.com.br/expresso/2023/06/26/Por-que-Lula-d%C3%A1-tanta-aten%C3%A7%C3%A3o-%C3%A0-crise-da-Argentina)
-- [Yevgeny Prigozhin: o mercenário que pôs Putin na parede](https://www.nexojornal.com.br/podcast/2023/06/26/Yevgeny-Prigozhin-o-mercen%C3%A1rio-que-p%C3%B4s-Putin-na-parede)
+- [Os depoimentos iniciais de uma CPI que ainda é incógnita](https://www.nexojornal.com.br/podcast/2023/06/27/Os-depoimentos-iniciais-de-uma-CPI-que-ainda-%C3%A9-inc%C3%B3gnita)
+- [Veja as 23 jogadoras convocadas para a Copa do Mundo feminina](https://www.nexojornal.com.br/extra/2023/06/27/Veja-as-23-jogadoras-convocadas-para-a-Copa-do-Mundo-feminina)
+- [Jovem Pan: Ministério Público pede cassação de concessões](https://www.nexojornal.com.br/extra/2023/06/27/Jovem-Pan-Minist%C3%A9rio-P%C3%BAblico-pede-cassa%C3%A7%C3%A3o-de-concess%C3%B5es)
+- [Quantas cidades têm tarifa zero, 10 anos após junho de 2013](https://www.nexojornal.com.br/grafico/2023/06/27/Quantas-cidades-t%C3%AAm-tarifa-zero-10-anos-ap%C3%B3s-junho-de-2013)
+- [Plano Safra: governo anuncia R$ 364 bi a produtores rurais](https://www.nexojornal.com.br/extra/2023/06/27/Plano-Safra-governo-anuncia-R-364-bi-a-produtores-rurais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
