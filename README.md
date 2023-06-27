@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Nando Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/nando-reis/)
 - [Não há saídas](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-ha-saidas/)
 - [@jaciradoce](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jaciradoce/)
 - [Marcelo Rubens Paiva: “Perdoar faz muito mal ao país”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcelo-rubens-paiva-perdoar-faz-muito-mal-ao-pais-ditadura-militar-brasil-tortura/)
 - [Um Grande Dia para as Escritoras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-grande-dia-para-as-escritoras/)
-- [Bandeirinhas de festa junina](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bandeirinhas-de-festa-junina/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
