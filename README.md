@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As preocupações de pais não brancos com a educação dos filhos](https://www.nexojornal.com.br/externo/2023/06/27/As-preocupa%C3%A7%C3%B5es-de-pais-n%C3%A3o-brancos-com-a-educa%C3%A7%C3%A3o-dos-filhos)
-- [Relator de ação no TSE vota pela inelegibilidade de Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/27/Relator-de-a%C3%A7%C3%A3o-no-TSE-vota-pela-inelegibilidade-de-Bolsonaro)
-- [O advogado antivacina que ganhou espaço entre democratas](https://www.nexojornal.com.br/expresso/2023/06/27/O-advogado-antivacina-que-ganhou-espa%C3%A7o-entre-democratas)
-- [Presidente de Serra Leoa é reeleito e oposição contesta resultado](https://www.nexojornal.com.br/extra/2023/06/27/Presidente-de-Serra-Leoa-%C3%A9-reeleito-e-oposi%C3%A7%C3%A3o-contesta-resultado)
-- [A tecnologia que pode popularizar os supercomputadores](https://www.nexojornal.com.br/expresso/2023/06/27/A-tecnologia-que-pode-popularizar-os-supercomputadores)
+- [PF faz operação contra empresário que disse ter bancado o 8/1](https://www.nexojornal.com.br/extra/2023/06/27/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rio-que-disse-ter-bancado-o-81)
+- [Quantas cidades têm tarifa zero, 10 anos após junho de 2013](https://www.nexojornal.com.br/grafico/2023/06/27/Quantas-cidades-t%C3%AAm-tarifa-zero-10-anos-ap%C3%B3s-junho-de-2013)
+- [Plano Safra: governo anuncia R$ 364 bi a produtores rurais](https://www.nexojornal.com.br/extra/2023/06/27/Plano-Safra-governo-anuncia-R-364-bi-a-produtores-rurais)
+- [Em ata, Copom sinaliza possível queda dos juros em agosto](https://www.nexojornal.com.br/extra/2023/06/27/Em-ata-Copom-sinaliza-poss%C3%ADvel-queda-dos-juros-em-agosto)
+- [Bolsonaro: por que o ato com embaixadores já é grave por si só](https://www.nexojornal.com.br/expresso/2023/06/26/Bolsonaro-por-que-o-ato-com-embaixadores-j%C3%A1-%C3%A9-grave-por-si-s%C3%B3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
