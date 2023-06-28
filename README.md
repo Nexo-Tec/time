@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A desinformação em saúde reprodutiva ajuda a explicar baixa adesão ao DIU pelas mulheres no Brasil](https://pp.nexojornal.com.br/opiniao/2023/A-desinforma%C3%A7%C3%A3o-em-sa%C3%BAde-reprodutiva-ajuda-a-explicar-baixa-ades%C3%A3o-ao-DIU-pelas-mulheres-no-Brasil)
 - [Como o glifosato pode afetar a saúde humana em contextos rurais, no Brasil](https://pp.nexojornal.com.br/academico/2023/Como-o-glifosato-pode-afetar-a-sa%C3%BAde-humana-em-contextos-rurais-no-Brasil)
 - [Rui Harayama: universidade e a escassez de profissionais da saúde em áreas remotas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/06/22/Rui-Harayama-universidade-e-a-escassez-de-profissionais-da-sa%C3%BAde-em-%C3%A1reas-remotas)
 - [Qual a relação entre o meu pedido online e as mudanças climáticas globais?](https://pp.nexojornal.com.br/opiniao/2023/Qual-a-rela%C3%A7%C3%A3o-entre-o-meu-pedido-online-e-as-mudan%C3%A7as-clim%C3%A1ticas-globais)
 - [É preciso repensar o modelo brasileiro de produção de dados criminais das abordagens policiais](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-preciso-repensar-o-modelo-brasileiro-de-produ%C3%A7%C3%A3o-de-dados-criminais-das-abordagens-policiais)
-- [Du Bois e o giro decolonial](https://pp.nexojornal.com.br/opiniao/2023/Du-Bois-e-o-giro-decolonial)
 <!-- PP_LIST:END -->
 
