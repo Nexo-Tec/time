@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz operação contra empresário que disse ter bancado o 8/1](https://www.nexojornal.com.br/extra/2023/06/27/PF-faz-opera%C3%A7%C3%A3o-contra-empres%C3%A1rio-que-disse-ter-bancado-o-81)
-- [Quantas cidades têm tarifa zero, 10 anos após junho de 2013](https://www.nexojornal.com.br/grafico/2023/06/27/Quantas-cidades-t%C3%AAm-tarifa-zero-10-anos-ap%C3%B3s-junho-de-2013)
-- [Plano Safra: governo anuncia R$ 364 bi a produtores rurais](https://www.nexojornal.com.br/extra/2023/06/27/Plano-Safra-governo-anuncia-R-364-bi-a-produtores-rurais)
-- [Em ata, Copom sinaliza possível queda dos juros em agosto](https://www.nexojornal.com.br/extra/2023/06/27/Em-ata-Copom-sinaliza-poss%C3%ADvel-queda-dos-juros-em-agosto)
-- [Bolsonaro: por que o ato com embaixadores já é grave por si só](https://www.nexojornal.com.br/expresso/2023/06/26/Bolsonaro-por-que-o-ato-com-embaixadores-j%C3%A1-%C3%A9-grave-por-si-s%C3%B3)
+- [Número de imóveis vazios explode em 12 anos no país](https://www.nexojornal.com.br/extra/2023/06/28/N%C3%BAmero-de-im%C3%B3veis-vazios-explode-em-12-anos-no-pa%C3%ADs)
+- [Deputada pede cassação de bolsonarista por fala racista](https://www.nexojornal.com.br/extra/2023/06/28/Deputada-pede-cassa%C3%A7%C3%A3o-de-bolsonarista-por-fala-racista)
+- [População do Brasil cresce mais devagar e chega a 203 milhões](https://www.nexojornal.com.br/extra/2023/06/28/Popula%C3%A7%C3%A3o-do-Brasil-cresce-mais-devagar-e-chega-a-203-milh%C3%B5es)
+- [O voto do relator pela inelegibilidade de Bolsonaro em 4 eixos](https://www.nexojornal.com.br/expresso/2023/06/28/O-voto-do-relator-pela-inelegibilidade-de-Bolsonaro-em-4-eixos)
+- [As preocupações de pais não brancos com a educação dos filhos](https://www.nexojornal.com.br/externo/2023/06/27/As-preocupa%C3%A7%C3%B5es-de-pais-n%C3%A3o-brancos-com-a-educa%C3%A7%C3%A3o-dos-filhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
