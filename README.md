@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A cultura da cura](https://gamarevista.uol.com.br/colunistas/a-cultura-da-cura/)
+- [A cultura da cura](https://gamarevista.uol.com.br/colunistas/marcello-dantas/a-cultura-da-cura/)
 - [Maia Kobabe, de “Gênero Queer”: “Queria que me vissem como sou”](https://gamarevista.uol.com.br/formato/conversas/maia-kobabe-de-genero-queer-nao-binario-livro-banido/)
 - [Nando Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/nando-reis/)
 - [Não há saídas](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-ha-saidas/)
