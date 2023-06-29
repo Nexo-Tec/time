@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Número de imóveis vazios explode em 12 anos no país](https://www.nexojornal.com.br/extra/2023/06/28/N%C3%BAmero-de-im%C3%B3veis-vazios-explode-em-12-anos-no-pa%C3%ADs)
-- [Deputada pede cassação de bolsonarista por fala racista](https://www.nexojornal.com.br/extra/2023/06/28/Deputada-pede-cassa%C3%A7%C3%A3o-de-bolsonarista-por-fala-racista)
-- [População do Brasil cresce mais devagar e chega a 203 milhões](https://www.nexojornal.com.br/extra/2023/06/28/Popula%C3%A7%C3%A3o-do-Brasil-cresce-mais-devagar-e-chega-a-203-milh%C3%B5es)
-- [O voto do relator pela inelegibilidade de Bolsonaro em 4 eixos](https://www.nexojornal.com.br/expresso/2023/06/28/O-voto-do-relator-pela-inelegibilidade-de-Bolsonaro-em-4-eixos)
 - [As preocupações de pais não brancos com a educação dos filhos](https://www.nexojornal.com.br/externo/2023/06/27/As-preocupa%C3%A7%C3%B5es-de-pais-n%C3%A3o-brancos-com-a-educa%C3%A7%C3%A3o-dos-filhos)
+- [Relator de ação no TSE vota pela inelegibilidade de Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/27/Relator-de-a%C3%A7%C3%A3o-no-TSE-vota-pela-inelegibilidade-de-Bolsonaro)
+- [O advogado antivacina que ganhou espaço entre democratas](https://www.nexojornal.com.br/expresso/2023/06/27/O-advogado-antivacina-que-ganhou-espa%C3%A7o-entre-democratas)
+- [Presidente de Serra Leoa é reeleito e oposição contesta resultado](https://www.nexojornal.com.br/extra/2023/06/27/Presidente-de-Serra-Leoa-%C3%A9-reeleito-e-oposi%C3%A7%C3%A3o-contesta-resultado)
+- [A tecnologia que pode popularizar os supercomputadores](https://www.nexojornal.com.br/expresso/2023/06/27/A-tecnologia-que-pode-popularizar-os-supercomputadores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
