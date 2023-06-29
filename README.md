@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As preocupações de pais não brancos com a educação dos filhos](https://www.nexojornal.com.br/externo/2023/06/27/As-preocupa%C3%A7%C3%B5es-de-pais-n%C3%A3o-brancos-com-a-educa%C3%A7%C3%A3o-dos-filhos)
-- [Relator de ação no TSE vota pela inelegibilidade de Bolsonaro](https://www.nexojornal.com.br/extra/2023/06/27/Relator-de-a%C3%A7%C3%A3o-no-TSE-vota-pela-inelegibilidade-de-Bolsonaro)
-- [O advogado antivacina que ganhou espaço entre democratas](https://www.nexojornal.com.br/expresso/2023/06/27/O-advogado-antivacina-que-ganhou-espa%C3%A7o-entre-democratas)
-- [Presidente de Serra Leoa é reeleito e oposição contesta resultado](https://www.nexojornal.com.br/extra/2023/06/27/Presidente-de-Serra-Leoa-%C3%A9-reeleito-e-oposi%C3%A7%C3%A3o-contesta-resultado)
-- [A tecnologia que pode popularizar os supercomputadores](https://www.nexojornal.com.br/expresso/2023/06/27/A-tecnologia-que-pode-popularizar-os-supercomputadores)
+- [Como raça, classe e gênero impactam a experiência menstrual](https://www.nexojornal.com.br/academico/2023/06/28/Como-ra%C3%A7a-classe-e-g%C3%AAnero-impactam-a-experi%C3%AAncia-menstrual)
+- [O que é o Foro de SP além de bicho-papão da extrema direita](https://www.nexojornal.com.br/expresso/2023/06/28/O-que-%C3%A9-o-Foro-de-SP-al%C3%A9m-de-bicho-pap%C3%A3o-da-extrema-direita)
+- [Ainda bem que a água não tem memória!](https://www.nexojornal.com.br/colunistas/2023/Ainda-bem-que-a-%C3%A1gua-n%C3%A3o-tem-mem%C3%B3ria)
+- [7 gráficos para você entender as novidades do Censo](https://www.nexojornal.com.br/expresso/2023/06/28/7-gr%C3%A1ficos-para-voc%C3%AA-entender-as-novidades-do-Censo)
+- [O tortuoso caminho até a divulgação do Censo 2022](https://www.nexojornal.com.br/podcast/2023/06/28/O-tortuoso-caminho-at%C3%A9-a-divulga%C3%A7%C3%A3o-do-Censo-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
