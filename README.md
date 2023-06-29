@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como raça, classe e gênero impactam a experiência menstrual](https://www.nexojornal.com.br/academico/2023/06/28/Como-ra%C3%A7a-classe-e-g%C3%AAnero-impactam-a-experi%C3%AAncia-menstrual)
-- [O que é o Foro de SP além de bicho-papão da extrema direita](https://www.nexojornal.com.br/expresso/2023/06/28/O-que-%C3%A9-o-Foro-de-SP-al%C3%A9m-de-bicho-pap%C3%A3o-da-extrema-direita)
-- [Ainda bem que a água não tem memória!](https://www.nexojornal.com.br/colunistas/2023/Ainda-bem-que-a-%C3%A1gua-n%C3%A3o-tem-mem%C3%B3ria)
-- [7 gráficos para você entender as novidades do Censo](https://www.nexojornal.com.br/expresso/2023/06/28/7-gr%C3%A1ficos-para-voc%C3%AA-entender-as-novidades-do-Censo)
-- [O tortuoso caminho até a divulgação do Censo 2022](https://www.nexojornal.com.br/podcast/2023/06/28/O-tortuoso-caminho-at%C3%A9-a-divulga%C3%A7%C3%A3o-do-Censo-2022)
+- [Número de imóveis vazios explode em 12 anos no país](https://www.nexojornal.com.br/extra/2023/06/28/N%C3%BAmero-de-im%C3%B3veis-vazios-explode-em-12-anos-no-pa%C3%ADs)
+- [Deputada pede cassação de bolsonarista por fala racista](https://www.nexojornal.com.br/extra/2023/06/28/Deputada-pede-cassa%C3%A7%C3%A3o-de-bolsonarista-por-fala-racista)
+- [População do Brasil cresce mais devagar e chega a 203 milhões](https://www.nexojornal.com.br/extra/2023/06/28/Popula%C3%A7%C3%A3o-do-Brasil-cresce-mais-devagar-e-chega-a-203-milh%C3%B5es)
+- [O voto do relator pela inelegibilidade de Bolsonaro em 4 eixos](https://www.nexojornal.com.br/expresso/2023/06/28/O-voto-do-relator-pela-inelegibilidade-de-Bolsonaro-em-4-eixos)
+- [As preocupações de pais não brancos com a educação dos filhos](https://www.nexojornal.com.br/externo/2023/06/27/As-preocupa%C3%A7%C3%B5es-de-pais-n%C3%A3o-brancos-com-a-educa%C3%A7%C3%A3o-dos-filhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
