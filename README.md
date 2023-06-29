@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A cultura da cura](https://gamarevista.uol.com.br/colunistas/marcello-dantas/a-cultura-da-cura/)
-- [Maia Kobabe, de “Gênero Queer”: “Queria que me vissem como sou”](https://gamarevista.uol.com.br/formato/conversas/maia-kobabe-de-genero-queer-nao-binario-livro-banido/)
-- [Nando Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/nando-reis/)
-- [Não há saídas](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-ha-saidas/)
-- [@jaciradoce](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jaciradoce/)
+- [A adolescência como ela é](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-adolescencia-como-ela-e/)
+- [Novas edições e ficção celebram a escrita de Sylvia Plath](https://gamarevista.uol.com.br/achamos-que-vale/ler/novas-edicoes-e-ficcao-celebram-a-escrita-de-sylvia-plath/)
+- [A arte de mulheres em tempos como estes](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-de-mulheres-em-tempos-como-estes/)
+- [Aulas com grandes nomes da cozinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/aulas-com-grandes-nomes-da-cozinha/)
+- [Um depoimento sobre desistir da política](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-depoimento-sobre-desistir-da-politica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
