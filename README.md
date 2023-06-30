@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conselho monetário muda sistema de metas de inflação](https://www.nexojornal.com.br/extra/2023/06/29/Conselho-monet%C3%A1rio-muda-sistema-de-metas-de-infla%C3%A7%C3%A3o)
+- [Juiz pró-Bolsonaro no TSE tentou censurar Lollapalooza](https://www.nexojornal.com.br/extra/2023/06/29/Juiz-pr%C3%B3-Bolsonaro-no-TSE-tentou-censurar-Lollapalooza)
+- [Suprema Corte veta ação afirmativa em universidades dos EUA](https://www.nexojornal.com.br/extra/2023/06/29/Suprema-Corte-veta-a%C3%A7%C3%A3o-afirmativa-em-universidades-dos-EUA)
+- [Bolsonaro no TSE: placar por inelegibilidade está em 3 a 1](https://www.nexojornal.com.br/extra/2023/06/29/Bolsonaro-no-TSE-placar-por-inelegibilidade-est%C3%A1-em-3-a-1)
 - [Como raça, classe e gênero impactam a experiência menstrual](https://www.nexojornal.com.br/academico/2023/06/28/Como-ra%C3%A7a-classe-e-g%C3%AAnero-impactam-a-experi%C3%AAncia-menstrual)
-- [O que é o Foro de SP além de bicho-papão da extrema direita](https://www.nexojornal.com.br/expresso/2023/06/28/O-que-%C3%A9-o-Foro-de-SP-al%C3%A9m-de-bicho-pap%C3%A3o-da-extrema-direita)
-- [Ainda bem que a água não tem memória!](https://www.nexojornal.com.br/colunistas/2023/Ainda-bem-que-a-%C3%A1gua-n%C3%A3o-tem-mem%C3%B3ria)
-- [7 gráficos para você entender as novidades do Censo](https://www.nexojornal.com.br/expresso/2023/06/28/7-gr%C3%A1ficos-para-voc%C3%AA-entender-as-novidades-do-Censo)
-- [O tortuoso caminho até a divulgação do Censo 2022](https://www.nexojornal.com.br/podcast/2023/06/28/O-tortuoso-caminho-at%C3%A9-a-divulga%C3%A7%C3%A3o-do-Censo-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
