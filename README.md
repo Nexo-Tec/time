@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho monetário muda sistema de metas de inflação](https://www.nexojornal.com.br/extra/2023/06/29/Conselho-monet%C3%A1rio-muda-sistema-de-metas-de-infla%C3%A7%C3%A3o)
-- [Juiz pró-Bolsonaro no TSE tentou censurar Lollapalooza](https://www.nexojornal.com.br/extra/2023/06/29/Juiz-pr%C3%B3-Bolsonaro-no-TSE-tentou-censurar-Lollapalooza)
-- [Suprema Corte veta ação afirmativa em universidades dos EUA](https://www.nexojornal.com.br/extra/2023/06/29/Suprema-Corte-veta-a%C3%A7%C3%A3o-afirmativa-em-universidades-dos-EUA)
-- [Bolsonaro no TSE: placar por inelegibilidade está em 3 a 1](https://www.nexojornal.com.br/extra/2023/06/29/Bolsonaro-no-TSE-placar-por-inelegibilidade-est%C3%A1-em-3-a-1)
-- [Como raça, classe e gênero impactam a experiência menstrual](https://www.nexojornal.com.br/academico/2023/06/28/Como-ra%C3%A7a-classe-e-g%C3%AAnero-impactam-a-experi%C3%AAncia-menstrual)
+- [População crescendo menos: o Brasil tem que se preocupar?](https://www.nexojornal.com.br/expresso/2023/06/29/Popula%C3%A7%C3%A3o-crescendo-menos-o-Brasil-tem-que-se-preocupar)
+- [Por que o índice de referência cai e mesmo assim o aluguel sobe](https://www.nexojornal.com.br/expresso/2023/06/29/Por-que-o-%C3%ADndice-de-refer%C3%AAncia-cai-e-mesmo-assim-o-aluguel-sobe)
+- [Misandria: e se mulheres defendessem o ódio aos homens?](https://www.nexojornal.com.br/colunistas/2023/Misandria-e-se-mulheres-defendessem-o-%C3%B3dio-aos-homens)
+- [O mistério da palmeira que floresce e frutifica debaixo da terra](https://www.nexojornal.com.br/expresso/2023/06/29/O-mist%C3%A9rio-da-palmeira-que-floresce-e-frutifica-debaixo-da-terra)
+- [Os recuos da Suprema Corte com maioria conservadora nos EUA](https://www.nexojornal.com.br/podcast/2023/06/29/Os-recuos-da-Suprema-Corte-com-maioria-conservadora-nos-EUA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
