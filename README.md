@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Morte de Jesus](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-jesus/)
 - [Ilusionismo de informação](https://gamarevista.uol.com.br/colunistas/marilene-felinto/ilusionismo-de-informacao/)
 - [A adolescência como ela é](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-adolescencia-como-ela-e/)
 - [Novas edições e ficção celebram a escrita de Sylvia Plath](https://gamarevista.uol.com.br/achamos-que-vale/ler/novas-edicoes-e-ficcao-celebram-a-escrita-de-sylvia-plath/)
 - [A arte de mulheres em tempos como estes](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-de-mulheres-em-tempos-como-estes/)
-- [Aulas com grandes nomes da cozinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/aulas-com-grandes-nomes-da-cozinha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
