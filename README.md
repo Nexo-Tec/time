@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [População crescendo menos: o Brasil tem que se preocupar?](https://www.nexojornal.com.br/expresso/2023/06/29/Popula%C3%A7%C3%A3o-crescendo-menos-o-Brasil-tem-que-se-preocupar)
-- [Por que o índice de referência cai e mesmo assim o aluguel sobe](https://www.nexojornal.com.br/expresso/2023/06/29/Por-que-o-%C3%ADndice-de-refer%C3%AAncia-cai-e-mesmo-assim-o-aluguel-sobe)
-- [Misandria: e se mulheres defendessem o ódio aos homens?](https://www.nexojornal.com.br/colunistas/2023/Misandria-e-se-mulheres-defendessem-o-%C3%B3dio-aos-homens)
-- [O mistério da palmeira que floresce e frutifica debaixo da terra](https://www.nexojornal.com.br/expresso/2023/06/29/O-mist%C3%A9rio-da-palmeira-que-floresce-e-frutifica-debaixo-da-terra)
-- [Os recuos da Suprema Corte com maioria conservadora nos EUA](https://www.nexojornal.com.br/podcast/2023/06/29/Os-recuos-da-Suprema-Corte-com-maioria-conservadora-nos-EUA)
+- [Como raça, classe e gênero impactam a experiência menstrual](https://www.nexojornal.com.br/academico/2023/06/28/Como-ra%C3%A7a-classe-e-g%C3%AAnero-impactam-a-experi%C3%AAncia-menstrual)
+- [O que é o Foro de SP além de bicho-papão da extrema direita](https://www.nexojornal.com.br/expresso/2023/06/28/O-que-%C3%A9-o-Foro-de-SP-al%C3%A9m-de-bicho-pap%C3%A3o-da-extrema-direita)
+- [Ainda bem que a água não tem memória!](https://www.nexojornal.com.br/colunistas/2023/Ainda-bem-que-a-%C3%A1gua-n%C3%A3o-tem-mem%C3%B3ria)
+- [7 gráficos para você entender as novidades do Censo](https://www.nexojornal.com.br/expresso/2023/06/28/7-gr%C3%A1ficos-para-voc%C3%AA-entender-as-novidades-do-Censo)
+- [O tortuoso caminho até a divulgação do Censo 2022](https://www.nexojornal.com.br/podcast/2023/06/28/O-tortuoso-caminho-at%C3%A9-a-divulga%C3%A7%C3%A3o-do-Censo-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
