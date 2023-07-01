@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cada pantera no seu galho: por que onças sobem em árvores?](https://www.nexojornal.com.br/externo/2023/06/30/Cada-pantera-no-seu-galho-por-que-on%C3%A7as-sobem-em-%C3%A1rvores)
-- [‘Onde pastam os minotauros’: a selva da realidade social](https://www.nexojornal.com.br/estante/trechos/2023/06/30/%E2%80%98Onde-pastam-os-minotauros%E2%80%99-a-selva-da-realidade-social)
-- [O que é biocarvão. E qual seu potencial para o clima](https://www.nexojornal.com.br/expresso/2023/06/30/O-que-%C3%A9-biocarv%C3%A3o.-E-qual-seu-potencial-para-o-clima)
-- [Como as cidades podem fortalecer a democracia](https://www.nexojornal.com.br/ensaio/2023/06/30/Como-as-cidades-podem-fortalecer-a-democracia)
-- [Junho de 2013 na capa dos principais jornais do país](https://www.nexojornal.com.br/grafico/2023/06/30/Junho-de-2013-na-capa-dos-principais-jornais-do-pa%C3%ADs)
+- [Bolsonaro diz que condenação do TSE é ‘facada nas costas’](https://www.nexojornal.com.br/extra/2023/06/30/Bolsonaro-diz-que-condena%C3%A7%C3%A3o-do-TSE-%C3%A9-%E2%80%98facada-nas-costas%E2%80%99)
+- [Por que a violência policial recrudesce na França](https://www.nexojornal.com.br/expresso/2023/06/30/Por-que-a-viol%C3%AAncia-policial-recrudesce-na-Fran%C3%A7a)
+- [TSE torna Bolsonaro inelegível: o que acontece agora com ele](https://www.nexojornal.com.br/expresso/2023/06/30/TSE-torna-Bolsonaro-ineleg%C3%ADvel-o-que-acontece-agora-com-ele)
+- [Acompanhe ao vivo: TSE julga inelegibilidade do ex-presidente](https://www.nexojornal.com.br/extra/2023/06/30/Acompanhe-ao-vivo-TSE-julga-inelegibilidade-do-ex-presidente)
+- [População crescendo menos: o Brasil tem que se preocupar?](https://www.nexojornal.com.br/expresso/2023/06/29/Popula%C3%A7%C3%A3o-crescendo-menos-o-Brasil-tem-que-se-preocupar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
