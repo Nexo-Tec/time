@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [População crescendo menos: o Brasil tem que se preocupar?](https://www.nexojornal.com.br/expresso/2023/06/29/Popula%C3%A7%C3%A3o-crescendo-menos-o-Brasil-tem-que-se-preocupar)
-- [Por que o índice de referência cai e mesmo assim o aluguel sobe](https://www.nexojornal.com.br/expresso/2023/06/29/Por-que-o-%C3%ADndice-de-refer%C3%AAncia-cai-e-mesmo-assim-o-aluguel-sobe)
-- [Misandria: e se mulheres defendessem o ódio aos homens?](https://www.nexojornal.com.br/colunistas/2023/Misandria-e-se-mulheres-defendessem-o-%C3%B3dio-aos-homens)
-- [O mistério da palmeira que floresce e frutifica debaixo da terra](https://www.nexojornal.com.br/expresso/2023/06/29/O-mist%C3%A9rio-da-palmeira-que-floresce-e-frutifica-debaixo-da-terra)
-- [Os recuos da Suprema Corte com maioria conservadora nos EUA](https://www.nexojornal.com.br/podcast/2023/06/29/Os-recuos-da-Suprema-Corte-com-maioria-conservadora-nos-EUA)
+- [Cada pantera no seu galho: por que onças sobem em árvores?](https://www.nexojornal.com.br/externo/2023/06/30/Cada-pantera-no-seu-galho-por-que-on%C3%A7as-sobem-em-%C3%A1rvores)
+- [‘Onde pastam os minotauros’: a selva da realidade social](https://www.nexojornal.com.br/estante/trechos/2023/06/30/%E2%80%98Onde-pastam-os-minotauros%E2%80%99-a-selva-da-realidade-social)
+- [O que é biocarvão. E qual seu potencial para o clima](https://www.nexojornal.com.br/expresso/2023/06/30/O-que-%C3%A9-biocarv%C3%A3o.-E-qual-seu-potencial-para-o-clima)
+- [Como as cidades podem fortalecer a democracia](https://www.nexojornal.com.br/ensaio/2023/06/30/Como-as-cidades-podem-fortalecer-a-democracia)
+- [Junho de 2013 na capa dos principais jornais do país](https://www.nexojornal.com.br/grafico/2023/06/30/Junho-de-2013-na-capa-dos-principais-jornais-do-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
