@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Apoiadores não desaparecem com Bolsonaro inelegível’](https://www.nexojornal.com.br/entrevista/2023/06/30/%E2%80%98Apoiadores-n%C3%A3o-desaparecem-com-Bolsonaro-ineleg%C3%ADvel%E2%80%99)
 - [Cada pantera no seu galho: por que onças sobem em árvores?](https://www.nexojornal.com.br/externo/2023/06/30/Cada-pantera-no-seu-galho-por-que-on%C3%A7as-sobem-em-%C3%A1rvores)
 - [‘Onde pastam os minotauros’: a selva da realidade social](https://www.nexojornal.com.br/estante/trechos/2023/06/30/%E2%80%98Onde-pastam-os-minotauros%E2%80%99-a-selva-da-realidade-social)
 - [O que é biocarvão. E qual seu potencial para o clima](https://www.nexojornal.com.br/expresso/2023/06/30/O-que-%C3%A9-biocarv%C3%A3o.-E-qual-seu-potencial-para-o-clima)
 - [Como as cidades podem fortalecer a democracia](https://www.nexojornal.com.br/ensaio/2023/06/30/Como-as-cidades-podem-fortalecer-a-democracia)
+- [Junho de 2013 na capa dos principais jornais do país](https://www.nexojornal.com.br/grafico/2023/06/30/Junho-de-2013-na-capa-dos-principais-jornais-do-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
