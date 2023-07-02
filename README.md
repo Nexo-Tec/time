@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os manuscritos e desenhos das aulas de Paul Klee na Bauhaus](https://www.nexojornal.com.br/expresso/2023/07/01/Os-manuscritos-e-desenhos-das-aulas-de-Paul-Klee-na-Bauhaus)
-- [5 livros para compreender o fenômeno evangélico](https://www.nexojornal.com.br/estante/favoritos/2023/07/01/5-livros-para-compreender-o-fen%C3%B4meno-evang%C3%A9lico)
-- [Como a crise do clima impacta os ribeirinhos na Amazônia](https://www.nexojornal.com.br/externo/2023/07/01/Como-a-crise-do-clima-impacta-os-ribeirinhos-na-Amaz%C3%B4nia)
-- [Por que 19 eleições em 20 anos não fazem a Venezuela democrática](https://www.nexojornal.com.br/expresso/2023/07/01/Por-que-19-elei%C3%A7%C3%B5es-em-20-anos-n%C3%A3o-fazem-a-Venezuela-democr%C3%A1tica)
-- [Onde está o retrofit no Plano Diretor de São Paulo](https://www.nexojornal.com.br/ensaio/2023/07/01/Onde-est%C3%A1-o-retrofit-no-Plano-Diretor-de-S%C3%A3o-Paulo)
+- [‘Apoiadores não desaparecem com Bolsonaro inelegível’](https://www.nexojornal.com.br/entrevista/2023/06/30/%E2%80%98Apoiadores-n%C3%A3o-desaparecem-com-Bolsonaro-ineleg%C3%ADvel%E2%80%99)
+- [Cada pantera no seu galho: por que onças sobem em árvores?](https://www.nexojornal.com.br/externo/2023/06/30/Cada-pantera-no-seu-galho-por-que-on%C3%A7as-sobem-em-%C3%A1rvores)
+- [‘Onde pastam os minotauros’: a selva da realidade social](https://www.nexojornal.com.br/estante/trechos/2023/06/30/%E2%80%98Onde-pastam-os-minotauros%E2%80%99-a-selva-da-realidade-social)
+- [O que é biocarvão. E qual seu potencial para o clima](https://www.nexojornal.com.br/expresso/2023/06/30/O-que-%C3%A9-biocarv%C3%A3o.-E-qual-seu-potencial-para-o-clima)
+- [Como as cidades podem fortalecer a democracia](https://www.nexojornal.com.br/ensaio/2023/06/30/Como-as-cidades-podem-fortalecer-a-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
