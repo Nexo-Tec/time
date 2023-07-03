@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [​​Como a inelegibilidade de Bolsonaro afeta a direita brasileira](https://www.nexojornal.com.br/expresso/2023/07/02/%E2%80%8B%E2%80%8BComo-a-inelegibilidade-de-Bolsonaro-afeta-a-direita-brasileira)
-- [Guia traz orientações sobre uso de animais em pesquisa e ensino no Brasil](https://www.nexojornal.com.br/externo/2023/07/02/Guia-traz-orienta%C3%A7%C3%B5es-sobre-uso-de-animais-em-pesquisa-e-ensino-no-Brasil)
-- [Cirurgia robótica: uma porta para a nova era na medicina](https://www.nexojornal.com.br/ensaio/2023/07/02/Cirurgia-rob%C3%B3tica-uma-porta-para-a-nova-era-na-medicina)
-- [Qual o saldo das medidas econômicas do governo em 6 meses](https://www.nexojornal.com.br/expresso/2023/07/02/Qual-o-saldo-das-medidas-econ%C3%B4micas-do-governo-em-6-meses)
-- [Justiça da Guatemala suspende resultado das eleições](https://www.nexojornal.com.br/extra/2023/07/02/Justi%C3%A7a-da-Guatemala-suspende-resultado-das-elei%C3%A7%C3%B5es)
+- [Os manuscritos e desenhos das aulas de Paul Klee na Bauhaus](https://www.nexojornal.com.br/expresso/2023/07/01/Os-manuscritos-e-desenhos-das-aulas-de-Paul-Klee-na-Bauhaus)
+- [5 livros para compreender o fenômeno evangélico](https://www.nexojornal.com.br/estante/favoritos/2023/07/01/5-livros-para-compreender-o-fen%C3%B4meno-evang%C3%A9lico)
+- [Como a crise do clima impacta os ribeirinhos na Amazônia](https://www.nexojornal.com.br/externo/2023/07/01/Como-a-crise-do-clima-impacta-os-ribeirinhos-na-Amaz%C3%B4nia)
+- [Por que 19 eleições em 20 anos não fazem a Venezuela democrática](https://www.nexojornal.com.br/expresso/2023/07/01/Por-que-19-elei%C3%A7%C3%B5es-em-20-anos-n%C3%A3o-fazem-a-Venezuela-democr%C3%A1tica)
+- [Onde está o retrofit no Plano Diretor de São Paulo](https://www.nexojornal.com.br/ensaio/2023/07/01/Onde-est%C3%A1-o-retrofit-no-Plano-Diretor-de-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
