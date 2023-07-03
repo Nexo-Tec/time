@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O silêncio privilegiado do branco](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-silencio-privilegiado-do-branco/)
 - [@rachelbrosnahan](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rachelbrosnahan/)
 - [A Morte de Jesus](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-jesus/)
 - [Ilusionismo de informação](https://gamarevista.uol.com.br/colunistas/marilene-felinto/ilusionismo-de-informacao/)
 - [A adolescência como ela é](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-adolescencia-como-ela-e/)
-- [Novas edições e ficção celebram a escrita de Sylvia Plath](https://gamarevista.uol.com.br/achamos-que-vale/ler/novas-edicoes-e-ficcao-celebram-a-escrita-de-sylvia-plath/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
