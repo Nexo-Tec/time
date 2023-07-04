@@ -135,7 +135,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Consumo alimentar dos brasileiros de acordo com categorias de raça/cor](https://pp.nexojornal.com.br/academico/2023/Consumo-alimentar-dos-brasileiros-de-acordo-com-categorias-de-ra%C3%A7acor)
+- [Há diferença no consumo alimentar dos brasileiros de acordo com categorias de raça/cor](https://pp.nexojornal.com.br/academico/2023/H%C3%A1-diferen%C3%A7a-no-consumo-alimentar-dos-brasileiros-de-acordo-com-categorias-de-ra%C3%A7acor)
 - [Assistência social no Lula 3: retomada ou avanço?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Assist%C3%AAncia-social-no-Lula-3-retomada-ou-avan%C3%A7o)
 - [O ChatGPT e as inteligências artificiais tendem a terceirizar as principais escolhas acadêmicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-ChatGPT-e-as-intelig%C3%AAncias-artificiais-tendem-a-terceirizar-as-principais-escolhas-acad%C3%AAmicas)
 - [Sociologia da religião em W. E. B. Du Bois](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/28/Sociologia-da-religi%C3%A3o-em-W.-E.-B.-Du-Bois)
