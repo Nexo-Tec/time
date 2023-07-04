@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [​​Como a inelegibilidade de Bolsonaro afeta a direita brasileira](https://www.nexojornal.com.br/expresso/2023/07/02/%E2%80%8B%E2%80%8BComo-a-inelegibilidade-de-Bolsonaro-afeta-a-direita-brasileira)
-- [Guia traz orientações sobre uso de animais em pesquisa e ensino no Brasil](https://www.nexojornal.com.br/externo/2023/07/02/Guia-traz-orienta%C3%A7%C3%B5es-sobre-uso-de-animais-em-pesquisa-e-ensino-no-Brasil)
-- [Cirurgia robótica: uma porta para a nova era na medicina](https://www.nexojornal.com.br/ensaio/2023/07/02/Cirurgia-rob%C3%B3tica-uma-porta-para-a-nova-era-na-medicina)
-- [Qual o saldo das medidas econômicas do governo em 6 meses](https://www.nexojornal.com.br/expresso/2023/07/02/Qual-o-saldo-das-medidas-econ%C3%B4micas-do-governo-em-6-meses)
-- [Justiça da Guatemala suspende resultado das eleições](https://www.nexojornal.com.br/extra/2023/07/02/Justi%C3%A7a-da-Guatemala-suspende-resultado-das-elei%C3%A7%C3%B5es)
+- [Quais os entraves que o Mercosul tem agora pela frente](https://www.nexojornal.com.br/expresso/2023/07/03/Quais-os-entraves-que-o-Mercosul-tem-agora-pela-frente)
+- [Os ataques à população LGBTI+ em discursos religiosos](https://www.nexojornal.com.br/podcast/2023/07/03/Os-ataques-%C3%A0-popula%C3%A7%C3%A3o-LGBTI-em-discursos-religiosos)
+- [O que é a mineração em alto-mar. E quais os seus impactos](https://www.nexojornal.com.br/expresso/2023/07/03/O-que-%C3%A9-a-minera%C3%A7%C3%A3o-em-alto-mar.-E-quais-os-seus-impactos)
+- [Lei que pune empresa por desigualdade salarial é sancionada](https://www.nexojornal.com.br/extra/2023/07/03/Lei-que-pune-empresa-por-desigualdade-salarial-%C3%A9-sancionada)
+- [A blitz econômica do governo Lula antes do recesso na Câmara](https://www.nexojornal.com.br/expresso/2023/07/03/A-blitz-econ%C3%B4mica-do-governo-Lula-antes-do-recesso-na-C%C3%A2mara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
