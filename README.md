@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Consumo alimentar dos brasileiros de acordo com categorias de raça/cor](https://pp.nexojornal.com.br/academico/2023/Consumo-alimentar-dos-brasileiros-de-acordo-com-categorias-de-ra%C3%A7acor)
-- [Assistência social no Lula 3: retomada ou avanço?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Assist%C3%AAncia-social-no-Lula-3-retomada-ou-avan%C3%A7o)
-- [O ChatGPT e as inteligências artificiais tendem a terceirizar as principais escolhas acadêmicas](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-ChatGPT-e-as-intelig%C3%AAncias-artificiais-tendem-a-terceirizar-as-principais-escolhas-acad%C3%AAmicas)
-- [Sociologia da religião em W. E. B. Du Bois](https://pp.nexojornal.com.br/bibliografia-basica/2023/06/28/Sociologia-da-religi%C3%A3o-em-W.-E.-B.-Du-Bois)
-- [Termos do Hip-hop](https://pp.nexojornal.com.br/glossario/Termos-do-Hip-hop1)
+- [Aline Soterroni: o futuro da agricultura e a biodiversidade e serviços ecossistêmicos no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/07/04/Aline-Soterroni-o-futuro-da-agricultura-e-a-biodiversidade-e-servi%C3%A7os-ecossist%C3%AAmicos-no-Brasil)
+- [Precisamos falar sobre reposição florestal!](https://pp.nexojornal.com.br/opiniao/2023/Precisamos-falar-sobre-reposi%C3%A7%C3%A3o-florestal)
+- [Os Korubo do Vale do Javari: uma etnografia sobre contato na Amazônia ocidental](https://pp.nexojornal.com.br/academico/2023/Os-Korubo-do-Vale-do-Javari-uma-etnografia-sobre-contato-na-Amaz%C3%B4nia-ocidental)
+- [Um passeio sobre aspirações: da capacidade de aspirar aos efeitos conhecidos sobre os mais vulneráveis](https://pp.nexojornal.com.br/bibliografia-basica/2023/07/04/Um-passeio-sobre-aspira%C3%A7%C3%B5es-da-capacidade-de-aspirar-aos-efeitos-conhecidos-sobre-os-mais-vulner%C3%A1veis)
+- [Discriminação racial e saúde mental: o que mostram as evidências empíricas?](https://pp.nexojornal.com.br/opiniao/2023/Discrimina%C3%A7%C3%A3o-racial-e-sa%C3%BAde-mental-o-que-mostram-as-evid%C3%AAncias-emp%C3%ADricas)
 <!-- PP_LIST:END -->
 
