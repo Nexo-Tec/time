@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Torcedores do Corinthians agridem jogador em motel](https://www.nexojornal.com.br/extra/2023/07/04/Torcedores-do-Corinthians-agridem-jogador-em-motel)
-- [EUA têm tiroteios com mortos e feridos na véspera de 4 de julho](https://www.nexojornal.com.br/extra/2023/07/04/EUA-t%C3%AAm-tiroteios-com-mortos-e-feridos-na-v%C3%A9spera-de-4-de-julho)
-- [Quais os entraves que o Mercosul tem agora pela frente](https://www.nexojornal.com.br/expresso/2023/07/03/Quais-os-entraves-que-o-Mercosul-tem-agora-pela-frente)
-- [Os ataques à população LGBTI+ em discursos religiosos](https://www.nexojornal.com.br/podcast/2023/07/03/Os-ataques-%C3%A0-popula%C3%A7%C3%A3o-LGBTI-em-discursos-religiosos)
-- [O que é a mineração em alto-mar. E quais os seus impactos](https://www.nexojornal.com.br/expresso/2023/07/03/O-que-%C3%A9-a-minera%C3%A7%C3%A3o-em-alto-mar.-E-quais-os-seus-impactos)
+- [Por pacote econômico, Lula libera emendas em quantia recorde](https://www.nexojornal.com.br/extra/2023/07/05/Por-pacote-econ%C3%B4mico-Lula-libera-emendas-em-quantia-recorde)
+- [Por que nossa voz muda quando envelhecemos](https://www.nexojornal.com.br/externo/2023/07/05/Por-que-nossa-voz-muda-quando-envelhecemos)
+- [Coach Pablo Marçal é alvo de operação da Polícia Federal](https://www.nexojornal.com.br/extra/2023/07/05/Coach-Pablo-Mar%C3%A7al-%C3%A9-alvo-de-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal)
+- [Como a violência israelense radicaliza palestinos em Jenin](https://www.nexojornal.com.br/expresso/2023/07/04/Como-a-viol%C3%AAncia-israelense-radicaliza-palestinos-em-Jenin)
+- [Por que o SUS ainda não vai aplicar a vacina contra a dengue](https://www.nexojornal.com.br/expresso/2023/07/04/Por-que-o-SUS-ainda-n%C3%A3o-vai-aplicar-a-vacina-contra-a-dengue)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
