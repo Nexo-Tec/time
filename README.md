@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [EUA têm tiroteios com mortos e feridos na véspera de 4 de julho](https://www.nexojornal.com.br/extra/2023/07/04/EUA-t%C3%AAm-tiroteios-com-mortos-e-feridos-na-v%C3%A9spera-de-4-de-julho)
-- [Quais os entraves que o Mercosul tem agora pela frente](https://www.nexojornal.com.br/expresso/2023/07/03/Quais-os-entraves-que-o-Mercosul-tem-agora-pela-frente)
-- [Os ataques à população LGBTI+ em discursos religiosos](https://www.nexojornal.com.br/podcast/2023/07/03/Os-ataques-%C3%A0-popula%C3%A7%C3%A3o-LGBTI-em-discursos-religiosos)
-- [O que é a mineração em alto-mar. E quais os seus impactos](https://www.nexojornal.com.br/expresso/2023/07/03/O-que-%C3%A9-a-minera%C3%A7%C3%A3o-em-alto-mar.-E-quais-os-seus-impactos)
-- [Lei que pune empresa por desigualdade salarial é sancionada](https://www.nexojornal.com.br/extra/2023/07/03/Lei-que-pune-empresa-por-desigualdade-salarial-%C3%A9-sancionada)
+- [Como a violência israelense radicaliza palestinos em Jenin](https://www.nexojornal.com.br/expresso/2023/07/04/Como-a-viol%C3%AAncia-israelense-radicaliza-palestinos-em-Jenin)
+- [Por que o SUS ainda não vai aplicar a vacina contra a dengue](https://www.nexojornal.com.br/expresso/2023/07/04/Por-que-o-SUS-ainda-n%C3%A3o-vai-aplicar-a-vacina-contra-a-dengue)
+- [O potencial da reforma tributária para atacar a regressividade](https://www.nexojornal.com.br/expresso/2023/07/04/O-potencial-da-reforma-tribut%C3%A1ria-para-atacar-a-regressividade)
+- [Doutorado, pra que te quero?](https://www.nexojornal.com.br/colunistas/2023/Doutorado-pra-que-te-quero)
+- [Elis de volta num comercial. E as portas abertas pela tecnologia](https://www.nexojornal.com.br/podcast/2023/07/04/Elis-de-volta-num-comercial.-E-as-portas-abertas-pela-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
