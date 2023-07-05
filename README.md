@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Israel encerra operação no campo de refugiados de Jenin](https://www.nexojornal.com.br/extra/2023/07/05/Israel-encerra-opera%C3%A7%C3%A3o-no-campo-de-refugiados-de-Jenin)
-- [Troca no comando do INSS tenta reduzir a fila por benefícios](https://www.nexojornal.com.br/extra/2023/07/05/Troca-no-comando-do-INSS-tenta-reduzir-a-fila-por-benef%C3%ADcios)
-- [Por pacote econômico, Lula libera emendas em quantia recorde](https://www.nexojornal.com.br/extra/2023/07/05/Por-pacote-econ%C3%B4mico-Lula-libera-emendas-em-quantia-recorde)
-- [Por que nossa voz muda quando envelhecemos](https://www.nexojornal.com.br/externo/2023/07/05/Por-que-nossa-voz-muda-quando-envelhecemos)
-- [Coach Pablo Marçal é alvo de operação da Polícia Federal](https://www.nexojornal.com.br/extra/2023/07/05/Coach-Pablo-Mar%C3%A7al-%C3%A9-alvo-de-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal)
+- [Como a violência israelense radicaliza palestinos em Jenin](https://www.nexojornal.com.br/expresso/2023/07/04/Como-a-viol%C3%AAncia-israelense-radicaliza-palestinos-em-Jenin)
+- [Por que o SUS ainda não vai aplicar a vacina contra a dengue](https://www.nexojornal.com.br/expresso/2023/07/04/Por-que-o-SUS-ainda-n%C3%A3o-vai-aplicar-a-vacina-contra-a-dengue)
+- [O potencial da reforma tributária para atacar a regressividade](https://www.nexojornal.com.br/expresso/2023/07/04/O-potencial-da-reforma-tribut%C3%A1ria-para-atacar-a-regressividade)
+- [Doutorado, pra que te quero?](https://www.nexojornal.com.br/colunistas/2023/Doutorado-pra-que-te-quero)
+- [Elis de volta num comercial. E as portas abertas pela tecnologia](https://www.nexojornal.com.br/podcast/2023/07/04/Elis-de-volta-num-comercial.-E-as-portas-abertas-pela-tecnologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
