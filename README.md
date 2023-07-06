@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Faça em casa a melhor empanada da Argentina, de carne ou de milho](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/faca-em-casa-a-melhor-empanada-da-argentina-de-carne-ou-de-milho/)
-- [Katsukazan rolinho primavera](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/katsukazan-rolinho-primavera/)
-- [O silêncio privilegiado do branco](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-silencio-privilegiado-do-branco/)
-- [@rachelbrosnahan](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/rachelbrosnahan/)
-- [A Morte de Jesus](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-jesus/)
+- [Os últimos contos de Tchékhov](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-ultimos-contos-de-tchekhov/)
+- [Peça pra cantar junto](https://gamarevista.uol.com.br/achamos-que-vale/ir/peca-pra-cantar-junto/)
+- [O som e os penteados incríveis do Wham!](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-som-e-os-penteados-incriveis-do-wham/)
+- [Festival celebra Dia da Mulher Negra Latino-Americana](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-celebra-dia-da-mulher-negra-latino-americana/)
+- [Os áudios de Robinho](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-audios-de-robinho/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
