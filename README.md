@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem é quem no debate da reforma tributária](https://www.nexojornal.com.br/expresso/2023/07/05/Quem-%C3%A9-quem-no-debate-da-reforma-tribut%C3%A1ria)
-- [A ferrovia que relança o PAC no governo Lula. E as críticas à obra](https://www.nexojornal.com.br/expresso/2023/07/05/A-ferrovia-que-relan%C3%A7a-o-PAC-no-governo-Lula.-E-as-cr%C3%ADticas-%C3%A0-obra)
-- [Como é o processo de decisão sobre a guarda dos filhos](https://www.nexojornal.com.br/academico/2023/07/05/Como-%C3%A9-o-processo-de-decis%C3%A3o-sobre-a-guarda-dos-filhos)
-- [Proposta de Olimpíada ganha medalha do extremismo neoliberal](https://www.nexojornal.com.br/colunistas/2023/Proposta-de-Olimp%C3%ADada-ganha-medalha-do-extremismo-neoliberal)
-- [‘Barbieheimer’: como Hollywood decide datas de lançamentos](https://www.nexojornal.com.br/expresso/2023/07/05/%E2%80%98Barbieheimer%E2%80%99-como-Hollywood-decide-datas-de-lan%C3%A7amentos)
+- [Israel encerra operação no campo de refugiados de Jenin](https://www.nexojornal.com.br/extra/2023/07/05/Israel-encerra-opera%C3%A7%C3%A3o-no-campo-de-refugiados-de-Jenin)
+- [Troca no comando do INSS tenta reduzir a fila por benefícios](https://www.nexojornal.com.br/extra/2023/07/05/Troca-no-comando-do-INSS-tenta-reduzir-a-fila-por-benef%C3%ADcios)
+- [Por pacote econômico, Lula libera emendas em quantia recorde](https://www.nexojornal.com.br/extra/2023/07/05/Por-pacote-econ%C3%B4mico-Lula-libera-emendas-em-quantia-recorde)
+- [Por que nossa voz muda quando envelhecemos](https://www.nexojornal.com.br/externo/2023/07/05/Por-que-nossa-voz-muda-quando-envelhecemos)
+- [Coach Pablo Marçal é alvo de operação da Polícia Federal](https://www.nexojornal.com.br/extra/2023/07/05/Coach-Pablo-Mar%C3%A7al-%C3%A9-alvo-de-opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
