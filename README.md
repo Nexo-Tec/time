@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bebemos como nossos pais?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/bebemos-como-nossos-pais/)
 - [Quem Matou Meu Pai](https://gamarevista.uol.com.br/cultura/trecho-de-livro/quem-matou-meu-pai/)
 - [Os últimos contos de Tchékhov](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-ultimos-contos-de-tchekhov/)
 - [Peça pra cantar junto](https://gamarevista.uol.com.br/achamos-que-vale/ir/peca-pra-cantar-junto/)
 - [O som e os penteados incríveis do Wham!](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-som-e-os-penteados-incriveis-do-wham/)
-- [Festival celebra Dia da Mulher Negra Latino-Americana](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-celebra-dia-da-mulher-negra-latino-americana/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
