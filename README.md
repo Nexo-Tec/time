@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que muda na base aliada com a troca no Ministério do Turismo](https://www.nexojornal.com.br/expresso/2023/07/07/O-que-muda-na-base-aliada-com-a-troca-no-Minist%C3%A9rio-do-Turismo)
 - [Como a Meta entra na disputa por usuários do Twitter](https://www.nexojornal.com.br/expresso/2023/07/06/Como-a-Meta-entra-na-disputa-por-usu%C3%A1rios-do-Twitter)
-- [Reforma tributária passa em 1° turno. Veja os principais pontos](https://www.nexojornal.com.br/expresso/2023/07/06/Reforma-tribut%C3%A1ria-passa-em-1%C2%B0-turno.-Veja-os-principais-pontos)
+- [Câmara aprova reforma tributária. Veja principais pontos](https://www.nexojornal.com.br/expresso/2023/07/06/C%C3%A2mara-aprova-reforma-tribut%C3%A1ria.-Veja-principais-pontos)
 - [A densidade dos municípios brasileiros, segundo o Censo](https://www.nexojornal.com.br/grafico/2023/07/06/A-densidade-dos-munic%C3%ADpios-brasileiros-segundo-o-Censo)
 - [Desmate cai na Amazônia e sobe no Cerrado no 1º semestre](https://www.nexojornal.com.br/extra/2023/07/06/Desmate-cai-na-Amaz%C3%B4nia-e-sobe-no-Cerrado-no-1%C2%BA-semestre)
-- [O combate ao discurso de ódio não aceita termos e condições](https://www.nexojornal.com.br/colunistas/2023/O-combate-ao-discurso-de-%C3%B3dio-n%C3%A3o-aceita-termos-e-condi%C3%A7%C3%B5es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
