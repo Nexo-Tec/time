@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Aline Soterroni: o futuro da agricultura e a biodiversidade e serviços ecossistêmicos no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/07/04/Aline-Soterroni-o-futuro-da-agricultura-e-a-biodiversidade-e-servi%C3%A7os-ecossist%C3%AAmicos-no-Brasil)
-- [Precisamos falar sobre reposição florestal!](https://pp.nexojornal.com.br/opiniao/2023/Precisamos-falar-sobre-reposi%C3%A7%C3%A3o-florestal)
-- [Os Korubo do Vale do Javari: uma etnografia sobre contato na Amazônia ocidental](https://pp.nexojornal.com.br/academico/2023/Os-Korubo-do-Vale-do-Javari-uma-etnografia-sobre-contato-na-Amaz%C3%B4nia-ocidental)
-- [Um passeio sobre aspirações: da capacidade de aspirar aos efeitos conhecidos sobre os mais vulneráveis](https://pp.nexojornal.com.br/bibliografia-basica/2023/07/04/Um-passeio-sobre-aspira%C3%A7%C3%B5es-da-capacidade-de-aspirar-aos-efeitos-conhecidos-sobre-os-mais-vulner%C3%A1veis)
-- [Discriminação racial e saúde mental: o que mostram as evidências empíricas?](https://pp.nexojornal.com.br/opiniao/2023/Discrimina%C3%A7%C3%A3o-racial-e-sa%C3%BAde-mental-o-que-mostram-as-evid%C3%AAncias-emp%C3%ADricas)
+- [A desigualdade racial no mercado de trabalho desde 2012](https://pp.nexojornal.com.br/Dados/2023/07/07/A-desigualdade-racial-no-mercado-de-trabalho-desde-2012)
+- [A resistência antimicrobiana, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-resist%C3%AAncia-antimicrobiana-em-12-pontos)
+- [Queda nas vagas de cotas das universidades públicas brasileiras, em 2021](https://pp.nexojornal.com.br/opiniao/2023/Queda-nas-vagas-de-cotas-das-universidades-p%C3%BAblicas-brasileiras-em-2021)
+- [O que é, afinal, jornalismo ambiental?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-%C3%A9-afinal-jornalismo-ambiental1)
+- [Microempreendedor individual: riscos e precarização do mercado de trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2023/Microempreendedor-individual-riscos-e-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho)
 <!-- PP_LIST:END -->
 
