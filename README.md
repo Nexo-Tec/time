@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que muda na base aliada com a troca no Ministério do Turismo](https://www.nexojornal.com.br/expresso/2023/07/07/O-que-muda-na-base-aliada-com-a-troca-no-Minist%C3%A9rio-do-Turismo)
-- [Como a Meta entra na disputa por usuários do Twitter](https://www.nexojornal.com.br/expresso/2023/07/06/Como-a-Meta-entra-na-disputa-por-usu%C3%A1rios-do-Twitter)
-- [Câmara aprova reforma tributária. Veja principais pontos](https://www.nexojornal.com.br/expresso/2023/07/06/C%C3%A2mara-aprova-reforma-tribut%C3%A1ria.-Veja-principais-pontos)
-- [A densidade dos municípios brasileiros, segundo o Censo](https://www.nexojornal.com.br/grafico/2023/07/06/A-densidade-dos-munic%C3%ADpios-brasileiros-segundo-o-Censo)
-- [Desmate cai na Amazônia e sobe no Cerrado no 1º semestre](https://www.nexojornal.com.br/extra/2023/07/06/Desmate-cai-na-Amaz%C3%B4nia-e-sobe-no-Cerrado-no-1%C2%BA-semestre)
+- [Abolir a lição de casa: o que está por trás dessa discussão?](https://www.nexojornal.com.br/externo/2023/07/07/Abolir-a-li%C3%A7%C3%A3o-de-casa-o-que-est%C3%A1-por-tr%C3%A1s-dessa-discuss%C3%A3o)
+- [‘Cena de um crime’: atravessando o labirinto da memória](https://www.nexojornal.com.br/estante/trechos/2023/07/07/%E2%80%98Cena-de-um-crime%E2%80%99-atravessando-o-labirinto-da-mem%C3%B3ria)
+- [A representatividade e participação como cultura democrática](https://www.nexojornal.com.br/ensaio/2023/07/07/A-representatividade-e-participa%C3%A7%C3%A3o-como-cultura-democr%C3%A1tica)
+- [Os efeitos da reforma tributária aprovada na Câmara sob análise](https://www.nexojornal.com.br/expresso/2023/07/07/Os-efeitos-da-reforma-tribut%C3%A1ria-aprovada-na-C%C3%A2mara-sob-an%C3%A1lise)
+- [6 meses após 8 de janeiro, 1.290 viraram réus no Supremo](https://www.nexojornal.com.br/extra/2023/07/07/6-meses-ap%C3%B3s-8-de-janeiro-1.290-viraram-r%C3%A9us-no-Supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
