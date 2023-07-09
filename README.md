@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para refletir sobre moralidade política e ‘rule of law’](https://www.nexojornal.com.br/estante/favoritos/2023/07/08/5-livros-para-refletir-sobre-moralidade-pol%C3%ADtica-e-%E2%80%98rule-of-law%E2%80%99)
-- [‘Reconstrução do Haiti passa por reparação histórica’](https://www.nexojornal.com.br/entrevista/2023/07/08/%E2%80%98Reconstru%C3%A7%C3%A3o-do-Haiti-passa-por-repara%C3%A7%C3%A3o-hist%C3%B3rica%E2%80%99)
-- [Quais os novos mecanismos para fazer valer a igualdade salarial](https://www.nexojornal.com.br/expresso/2023/07/08/Quais-os-novos-mecanismos-para-fazer-valer-a-igualdade-salarial)
-- [A urgência de apoiar e formar adolescentes para um mundo distópico](https://www.nexojornal.com.br/ensaio/2023/07/08/A-urg%C3%AAncia-de-apoiar-e-formar-adolescentes-para-um-mundo-dist%C3%B3pico)
-- [O que a reforma tributária revela sobre os rumos da direita](https://www.nexojornal.com.br/expresso/2023/07/08/O-que-a-reforma-tribut%C3%A1ria-revela-sobre-os-rumos-da-direita)
+- [Abolir a lição de casa: o que está por trás dessa discussão?](https://www.nexojornal.com.br/externo/2023/07/07/Abolir-a-li%C3%A7%C3%A3o-de-casa-o-que-est%C3%A1-por-tr%C3%A1s-dessa-discuss%C3%A3o)
+- [‘Cena de um crime’: atravessando o labirinto da memória](https://www.nexojornal.com.br/estante/trechos/2023/07/07/%E2%80%98Cena-de-um-crime%E2%80%99-atravessando-o-labirinto-da-mem%C3%B3ria)
+- [A representatividade e participação como cultura democrática](https://www.nexojornal.com.br/ensaio/2023/07/07/A-representatividade-e-participa%C3%A7%C3%A3o-como-cultura-democr%C3%A1tica)
+- [Os efeitos da reforma tributária aprovada na Câmara sob análise](https://www.nexojornal.com.br/expresso/2023/07/07/Os-efeitos-da-reforma-tribut%C3%A1ria-aprovada-na-C%C3%A2mara-sob-an%C3%A1lise)
+- [6 meses após 8 de janeiro, 1.290 viraram réus no Supremo](https://www.nexojornal.com.br/extra/2023/07/07/6-meses-ap%C3%B3s-8-de-janeiro-1.290-viraram-r%C3%A9us-no-Supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
