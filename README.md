@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para refletir sobre moralidade política e ‘rule of law’](https://www.nexojornal.com.br/estante/favoritos/2023/07/08/5-livros-para-refletir-sobre-moralidade-pol%C3%ADtica-e-%E2%80%98rule-of-law%E2%80%99)
-- [‘Reconstrução do Haiti passa por reparação histórica’](https://www.nexojornal.com.br/entrevista/2023/07/08/%E2%80%98Reconstru%C3%A7%C3%A3o-do-Haiti-passa-por-repara%C3%A7%C3%A3o-hist%C3%B3rica%E2%80%99)
-- [Quais os novos mecanismos para fazer valer a igualdade salarial](https://www.nexojornal.com.br/expresso/2023/07/08/Quais-os-novos-mecanismos-para-fazer-valer-a-igualdade-salarial)
-- [A urgência de apoiar e formar adolescentes para um mundo distópico](https://www.nexojornal.com.br/ensaio/2023/07/08/A-urg%C3%AAncia-de-apoiar-e-formar-adolescentes-para-um-mundo-dist%C3%B3pico)
-- [O que a reforma tributária revela sobre os rumos da direita](https://www.nexojornal.com.br/expresso/2023/07/08/O-que-a-reforma-tribut%C3%A1ria-revela-sobre-os-rumos-da-direita)
+- [Ao menos 1,76 milhão de pessoas têm alguma forma de demência no Brasil](https://www.nexojornal.com.br/externo/2023/07/09/Ao-menos-176-milh%C3%A3o-de-pessoas-t%C3%AAm-alguma-forma-de-dem%C3%AAncia-no-Brasil)
+- [Empresas fora do armário: o futuro com diversidade LGBTI+](https://www.nexojornal.com.br/ensaio/2023/07/09/Empresas-fora-do-arm%C3%A1rio-o-futuro-com-diversidade-LGBTI)
+- [Por que o desmatamento cai na Amazônia e cresce no Cerrado](https://www.nexojornal.com.br/expresso/2023/07/09/Por-que-o-desmatamento-cai-na-Amaz%C3%B4nia-e-cresce-no-Cerrado)
+- [‘Diferente de Eduardo Cunha, Arthur Lira vai devagar e sempre’](https://www.nexojornal.com.br/entrevista/2023/07/09/%E2%80%98Diferente-de-Eduardo-Cunha-Arthur-Lira-vai-devagar-e-sempre%E2%80%99)
+- [Chuvas tiram mais de 20 mil pessoas de casa em Alagoas](https://www.nexojornal.com.br/extra/2023/07/09/Chuvas-tiram-mais-de-20-mil-pessoas-de-casa-em-Alagoas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
