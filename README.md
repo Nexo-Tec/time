@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ao menos 1,76 milhão de pessoas têm alguma forma de demência no Brasil](https://www.nexojornal.com.br/externo/2023/07/09/Ao-menos-176-milh%C3%A3o-de-pessoas-t%C3%AAm-alguma-forma-de-dem%C3%AAncia-no-Brasil)
-- [Empresas fora do armário: o futuro com diversidade LGBTI+](https://www.nexojornal.com.br/ensaio/2023/07/09/Empresas-fora-do-arm%C3%A1rio-o-futuro-com-diversidade-LGBTI)
-- [Por que o desmatamento cai na Amazônia e cresce no Cerrado](https://www.nexojornal.com.br/expresso/2023/07/09/Por-que-o-desmatamento-cai-na-Amaz%C3%B4nia-e-cresce-no-Cerrado)
-- [‘Diferente de Eduardo Cunha, Arthur Lira vai devagar e sempre’](https://www.nexojornal.com.br/entrevista/2023/07/09/%E2%80%98Diferente-de-Eduardo-Cunha-Arthur-Lira-vai-devagar-e-sempre%E2%80%99)
-- [Chuvas tiram mais de 20 mil pessoas de casa em Alagoas](https://www.nexojornal.com.br/extra/2023/07/09/Chuvas-tiram-mais-de-20-mil-pessoas-de-casa-em-Alagoas)
+- [Entre extremistas e ‘melancias’: as brigas no WhatsApp do PL](https://www.nexojornal.com.br/podcast/2023/07/10/Entre-extremistas-e-%E2%80%98melancias%E2%80%99-as-brigas-no-WhatsApp-do-PL)
+- [Técnico da seleção da Zâmbia é acusado de abuso sexual](https://www.nexojornal.com.br/extra/2023/07/10/T%C3%A9cnico-da-sele%C3%A7%C3%A3o-da-Z%C3%A2mbia-%C3%A9-acusado-de-abuso-sexual)
+- [Pandemia: apuração contra governo Bolsonaro é reaberta](https://www.nexojornal.com.br/extra/2023/07/10/Pandemia-apura%C3%A7%C3%A3o-contra-governo-Bolsonaro-%C3%A9-reaberta)
+- [Gelo no mar da Antártica tem menor nível já registrado](https://www.nexojornal.com.br/extra/2023/07/10/Gelo-no-mar-da-Ant%C3%A1rtica-tem-menor-n%C3%ADvel-j%C3%A1-registrado)
+- [Primeiro-ministro da Holanda anuncia que vai deixar política](https://www.nexojornal.com.br/extra/2023/07/10/Primeiro-ministro-da-Holanda-anuncia-que-vai-deixar-pol%C3%ADtica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
