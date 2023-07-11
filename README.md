@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Entre extremistas e ‘melancias’: as brigas no WhatsApp do PL](https://www.nexojornal.com.br/podcast/2023/07/10/Entre-extremistas-e-%E2%80%98melancias%E2%80%99-as-brigas-no-WhatsApp-do-PL)
-- [Técnico da seleção da Zâmbia é acusado de abuso sexual](https://www.nexojornal.com.br/extra/2023/07/10/T%C3%A9cnico-da-sele%C3%A7%C3%A3o-da-Z%C3%A2mbia-%C3%A9-acusado-de-abuso-sexual)
-- [Pandemia: apuração contra governo Bolsonaro é reaberta](https://www.nexojornal.com.br/extra/2023/07/10/Pandemia-apura%C3%A7%C3%A3o-contra-governo-Bolsonaro-%C3%A9-reaberta)
-- [Gelo no mar da Antártica tem menor nível já registrado](https://www.nexojornal.com.br/extra/2023/07/10/Gelo-no-mar-da-Ant%C3%A1rtica-tem-menor-n%C3%ADvel-j%C3%A1-registrado)
-- [Primeiro-ministro da Holanda anuncia que vai deixar política](https://www.nexojornal.com.br/extra/2023/07/10/Primeiro-ministro-da-Holanda-anuncia-que-vai-deixar-pol%C3%ADtica)
+- [Como as escolas podem lidar com crianças no celular](https://www.nexojornal.com.br/expresso/2023/07/10/Como-as-escolas-podem-lidar-com-crian%C3%A7as-no-celular)
+- [Antes e depois do motim: a relação entre Putin e Prigozhin](https://www.nexojornal.com.br/expresso/2023/07/10/Antes-e-depois-do-motim-a-rela%C3%A7%C3%A3o-entre-Putin-e-Prigozhin)
+- [Como a reforma amplia a imunidade tributária das igrejas](https://www.nexojornal.com.br/expresso/2023/07/10/Como-a-reforma-amplia-a-imunidade-tribut%C3%A1ria-das-igrejas)
+- [Conar abre processo contra Volks por propaganda com Elis](https://www.nexojornal.com.br/extra/2023/07/10/Conar-abre-processo-contra-Volks-por-propaganda-com-Elis)
+- [5 imagens que marcam um ano de revelações do James Webb](https://www.nexojornal.com.br/expresso/2023/07/10/5-imagens-que-marcam-um-ano-de-revela%C3%A7%C3%B5es-do-James-Webb)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
