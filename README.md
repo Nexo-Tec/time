@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mauro Cid vai fardado à CPI e não responde a perguntas](https://www.nexojornal.com.br/extra/2023/07/11/Mauro-Cid-vai-fardado-%C3%A0-CPI-e-n%C3%A3o-responde-a-perguntas)
-- [Preços têm leve queda em junho, e inflação é a menor desde 2020](https://www.nexojornal.com.br/extra/2023/07/11/Pre%C3%A7os-t%C3%AAm-leve-queda-em-junho-e-infla%C3%A7%C3%A3o-%C3%A9-a-menor-desde-2020)
 - [Como as escolas podem lidar com crianças no celular](https://www.nexojornal.com.br/expresso/2023/07/10/Como-as-escolas-podem-lidar-com-crian%C3%A7as-no-celular)
 - [Antes e depois do motim: a relação entre Putin e Prigozhin](https://www.nexojornal.com.br/expresso/2023/07/10/Antes-e-depois-do-motim-a-rela%C3%A7%C3%A3o-entre-Putin-e-Prigozhin)
 - [Como a reforma amplia a imunidade tributária das igrejas](https://www.nexojornal.com.br/expresso/2023/07/10/Como-a-reforma-amplia-a-imunidade-tribut%C3%A1ria-das-igrejas)
+- [Conar abre processo contra Volks por propaganda com Elis](https://www.nexojornal.com.br/extra/2023/07/10/Conar-abre-processo-contra-Volks-por-propaganda-com-Elis)
+- [5 imagens que marcam um ano de revelações do James Webb](https://www.nexojornal.com.br/expresso/2023/07/10/5-imagens-que-marcam-um-ano-de-revela%C3%A7%C3%B5es-do-James-Webb)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
