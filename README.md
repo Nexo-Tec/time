@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A expansão da influência da Otan na Europa e no Pacífico](https://www.nexojornal.com.br/expresso/2023/07/11/A-expans%C3%A3o-da-influ%C3%AAncia-da-Otan-na-Europa-e-no-Pac%C3%ADfico)
-- [Lira em alto-mar: da reforma tributária ao cruzeiro do Safadão](https://www.nexojornal.com.br/podcast/2023/07/11/Lira-em-alto-mar-da-reforma-tribut%C3%A1ria-ao-cruzeiro-do-Safad%C3%A3o)
-- [Por que a inflação veio baixa de novo. E qual ciclo ela encerra](https://www.nexojornal.com.br/expresso/2023/07/11/Por-que-a-infla%C3%A7%C3%A3o-veio-baixa-de-novo.-E-qual-ciclo-ela-encerra)
-- [O feminismo abolicionista no novo livro de Angela Davis](https://www.nexojornal.com.br/externo/2023/07/11/O-feminismo-abolicionista-no-novo-livro-de-Angela-Davis)
-- [O local escolhido para simbolizar o antropoceno](https://www.nexojornal.com.br/expresso/2023/07/11/O-local-escolhido-para-simbolizar-o-antropoceno)
+- [Mauro Cid vai fardado à CPI e não responde a perguntas](https://www.nexojornal.com.br/extra/2023/07/11/Mauro-Cid-vai-fardado-%C3%A0-CPI-e-n%C3%A3o-responde-a-perguntas)
+- [Preços têm leve queda em junho, e inflação é a menor desde 2020](https://www.nexojornal.com.br/extra/2023/07/11/Pre%C3%A7os-t%C3%AAm-leve-queda-em-junho-e-infla%C3%A7%C3%A3o-%C3%A9-a-menor-desde-2020)
+- [Como as escolas podem lidar com crianças no celular](https://www.nexojornal.com.br/expresso/2023/07/10/Como-as-escolas-podem-lidar-com-crian%C3%A7as-no-celular)
+- [Antes e depois do motim: a relação entre Putin e Prigozhin](https://www.nexojornal.com.br/expresso/2023/07/10/Antes-e-depois-do-motim-a-rela%C3%A7%C3%A3o-entre-Putin-e-Prigozhin)
+- [Como a reforma amplia a imunidade tributária das igrejas](https://www.nexojornal.com.br/expresso/2023/07/10/Como-a-reforma-amplia-a-imunidade-tribut%C3%A1ria-das-igrejas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
