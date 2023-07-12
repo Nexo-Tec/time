@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Arnoldo de Campos: por que a comida saudável está longe da mesa dos brasileiros](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/07/12/Arnoldo-de-Campos-por-que-a-comida-saud%C3%A1vel-est%C3%A1-longe-da-mesa-dos-brasileiros)
 - [A desigualdade racial no mercado de trabalho desde 2012](https://pp.nexojornal.com.br/Dados/2023/07/07/A-desigualdade-racial-no-mercado-de-trabalho-desde-2012)
 - [A resistência antimicrobiana, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-resist%C3%AAncia-antimicrobiana-em-12-pontos)
 - [Queda nas vagas de cotas das universidades públicas brasileiras, em 2021](https://pp.nexojornal.com.br/opiniao/2023/Queda-nas-vagas-de-cotas-das-universidades-p%C3%BAblicas-brasileiras-em-2021)
 - [O que é, afinal, jornalismo ambiental?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-%C3%A9-afinal-jornalismo-ambiental1)
+- [Microempreendedor individual: riscos e precarização do mercado de trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2023/Microempreendedor-individual-riscos-e-precariza%C3%A7%C3%A3o-do-mercado-de-trabalho)
 <!-- PP_LIST:END -->
 
