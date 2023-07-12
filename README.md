@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma garota Barbie](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/uma-garota-barbie/)
 - [Falta a eles sentir o sofrimento dos outros](https://gamarevista.uol.com.br/colunistas/marilene-felinto/falta-a-eles-sentir-o-sofrimento-dos-outros-como-se-fosse-o-deles/)
 - [Diogo Defante](https://gamarevista.uol.com.br/pessoas/questionario-proust/diogo-defante/)
 - [@deborafalabellaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/deborafalabellaoficial/)
 - [Uma partida inviável](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-partida-inviavel/)
-- [Bebemos como nossos pais?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/bebemos-como-nossos-pais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
