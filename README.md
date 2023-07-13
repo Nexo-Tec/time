@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Uma garota Barbie](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/uma-garota-barbie/)
-- [Falta a eles sentir o sofrimento dos outros](https://gamarevista.uol.com.br/colunistas/marilene-felinto/falta-a-eles-sentir-o-sofrimento-dos-outros-como-se-fosse-o-deles/)
-- [Diogo Defante](https://gamarevista.uol.com.br/pessoas/questionario-proust/diogo-defante/)
-- [@deborafalabellaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/deborafalabellaoficial/)
-- [Uma partida inviável](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-partida-inviavel/)
+- [Ensaios inéditos de Anne Carson](https://gamarevista.uol.com.br/achamos-que-vale/ler/ensaios-ineditos-de-anne-carson/)
+- [Xuxa documental](https://gamarevista.uol.com.br/achamos-que-vale/assistir/xuxa-documental/)
+- [Tacos mexicanos autênticos e deliciosos em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/tacos-mexicanos-autenticos-e-deliciosos-em-sp/)
+- [Comédia e crítica social em série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/comedia-e-critica-social-em-serie/)
+- [O homem branco em desalento](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-homem-branco-em-desalento/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
