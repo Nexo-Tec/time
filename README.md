@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A insegurança alimentar no Brasil, segundo agências da ONU](https://www.nexojornal.com.br/expresso/2023/07/12/A-inseguran%C3%A7a-alimentar-no-Brasil-segundo-ag%C3%AAncias-da-ONU)
-- [Por que o Uruguai passa pela pior crise hídrica em décadas](https://www.nexojornal.com.br/expresso/2023/07/12/Por-que-o-Uruguai-passa-pela-pior-crise-h%C3%ADdrica-em-d%C3%A9cadas)
-- [‘A seleção da Copa é resultado da luta das gerações anteriores’](https://www.nexojornal.com.br/entrevista/2023/07/12/%E2%80%98A-sele%C3%A7%C3%A3o-da-Copa-%C3%A9-resultado-da-luta-das-gera%C3%A7%C3%B5es-anteriores%E2%80%99)
-- [Inteligência artificial: revolução para o bem ou para o mal?](https://www.nexojornal.com.br/colunistas/2023/Intelig%C3%AAncia-artificial-revolu%C3%A7%C3%A3o-para-o-bem-ou-para-o-mal)
-- [Parlamento Europeu aprova lei de restauração ambiental](https://www.nexojornal.com.br/extra/2023/07/12/Parlamento-Europeu-aprova-lei-de-restaura%C3%A7%C3%A3o-ambiental)
+- [Capes passa a permitir acúmulo de bolsas e emprego na pós](https://www.nexojornal.com.br/extra/2023/07/12/Capes-passa-a-permitir-ac%C3%BAmulo-de-bolsas-e-emprego-na-p%C3%B3s)
+- [Os passos das divisões de base do futebol feminino brasileiro](https://www.nexojornal.com.br/expresso/2023/07/12/Os-passos-das-divis%C3%B5es-de-base-do-futebol-feminino-brasileiro)
+- [Governo Lula encerra programa de escolas cívico-militares](https://www.nexojornal.com.br/extra/2023/07/12/Governo-Lula-encerra-programa-de-escolas-c%C3%ADvico-militares)
+- [Morre aos 94 anos o escritor tcheco Milan Kundera](https://www.nexojornal.com.br/extra/2023/07/12/Morre-aos-94-anos-o-escritor-tcheco-Milan-Kundera)
+- [O que Mauro Cid fardado na CPI diz sobre os militares hoje](https://www.nexojornal.com.br/expresso/2023/07/11/O-que-Mauro-Cid-fardado-na-CPI-diz-sobre-os-militares-hoje)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
