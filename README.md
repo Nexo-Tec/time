@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre aos 94 anos o escritor tcheco Milan Kundera](https://www.nexojornal.com.br/extra/2023/07/12/Morre-aos-94-anos-o-escritor-tcheco-Milan-Kundera)
-- [O que Mauro Cid fardado na CPI diz sobre os militares hoje](https://www.nexojornal.com.br/expresso/2023/07/11/O-que-Mauro-Cid-fardado-na-CPI-diz-sobre-os-militares-hoje)
-- [A expansão da influência da Otan na Europa e no Pacífico](https://www.nexojornal.com.br/expresso/2023/07/11/A-expans%C3%A3o-da-influ%C3%AAncia-da-Otan-na-Europa-e-no-Pac%C3%ADfico)
-- [Lira em alto-mar: da reforma tributária ao cruzeiro do Safadão](https://www.nexojornal.com.br/podcast/2023/07/11/Lira-em-alto-mar-da-reforma-tribut%C3%A1ria-ao-cruzeiro-do-Safad%C3%A3o)
-- [Por que a inflação veio baixa de novo. E qual ciclo ela encerra](https://www.nexojornal.com.br/expresso/2023/07/11/Por-que-a-infla%C3%A7%C3%A3o-veio-baixa-de-novo.-E-qual-ciclo-ela-encerra)
+- [STF tenta explicar fala de Barroso sobre bolsonarismo](https://www.nexojornal.com.br/extra/2023/07/13/STF-tenta-explicar-fala-de-Barroso-sobre-bolsonarismo)
+- [Com ventos de 140 km/h, ciclone deixa um morto no Sul](https://www.nexojornal.com.br/extra/2023/07/13/Com-ventos-de-140-kmh-ciclone-deixa-um-morto-no-Sul)
+- [A insegurança alimentar no Brasil, segundo agências da ONU](https://www.nexojornal.com.br/expresso/2023/07/12/A-inseguran%C3%A7a-alimentar-no-Brasil-segundo-ag%C3%AAncias-da-ONU)
+- [Por que o Uruguai passa pela pior crise hídrica em décadas](https://www.nexojornal.com.br/expresso/2023/07/12/Por-que-o-Uruguai-passa-pela-pior-crise-h%C3%ADdrica-em-d%C3%A9cadas)
+- [‘A seleção da Copa é resultado da luta das gerações anteriores’](https://www.nexojornal.com.br/entrevista/2023/07/12/%E2%80%98A-sele%C3%A7%C3%A3o-da-Copa-%C3%A9-resultado-da-luta-das-gera%C3%A7%C3%B5es-anteriores%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
