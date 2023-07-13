@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A expansão da influência da Otan na Europa e no Pacífico](https://www.nexojornal.com.br/expresso/2023/07/11/A-expans%C3%A3o-da-influ%C3%AAncia-da-Otan-na-Europa-e-no-Pac%C3%ADfico)
-- [Lira em alto-mar: da reforma tributária ao cruzeiro do Safadão](https://www.nexojornal.com.br/podcast/2023/07/11/Lira-em-alto-mar-da-reforma-tribut%C3%A1ria-ao-cruzeiro-do-Safad%C3%A3o)
-- [Por que a inflação veio baixa de novo. E qual ciclo ela encerra](https://www.nexojornal.com.br/expresso/2023/07/11/Por-que-a-infla%C3%A7%C3%A3o-veio-baixa-de-novo.-E-qual-ciclo-ela-encerra)
-- [O feminismo abolicionista no novo livro de Angela Davis](https://www.nexojornal.com.br/externo/2023/07/11/O-feminismo-abolicionista-no-novo-livro-de-Angela-Davis)
-- [O local escolhido para simbolizar o antropoceno](https://www.nexojornal.com.br/expresso/2023/07/11/O-local-escolhido-para-simbolizar-o-antropoceno)
+- [Capes passa a permitir acúmulo de bolsas e emprego na pós](https://www.nexojornal.com.br/extra/2023/07/12/Capes-passa-a-permitir-ac%C3%BAmulo-de-bolsas-e-emprego-na-p%C3%B3s)
+- [Os passos das divisões de base do futebol feminino brasileiro](https://www.nexojornal.com.br/expresso/2023/07/12/Os-passos-das-divis%C3%B5es-de-base-do-futebol-feminino-brasileiro)
+- [Governo Lula encerra programa de escolas cívico-militares](https://www.nexojornal.com.br/extra/2023/07/12/Governo-Lula-encerra-programa-de-escolas-c%C3%ADvico-militares)
+- [Morre aos 94 anos o escritor tcheco Milan Kundera](https://www.nexojornal.com.br/extra/2023/07/12/Morre-aos-94-anos-o-escritor-tcheco-Milan-Kundera)
+- [O que Mauro Cid fardado na CPI diz sobre os militares hoje](https://www.nexojornal.com.br/expresso/2023/07/11/O-que-Mauro-Cid-fardado-na-CPI-diz-sobre-os-militares-hoje)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
