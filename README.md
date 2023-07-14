@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Diferentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/diferentes-frans-waal/)
 - [Ensaios inéditos de Anne Carson](https://gamarevista.uol.com.br/achamos-que-vale/ler/ensaios-ineditos-de-anne-carson/)
 - [Xuxa documental](https://gamarevista.uol.com.br/achamos-que-vale/assistir/xuxa-documental/)
 - [Tacos mexicanos autênticos e deliciosos em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/tacos-mexicanos-autenticos-e-deliciosos-em-sp/)
 - [Comédia e crítica social em série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/comedia-e-critica-social-em-serie/)
-- [O homem branco em desalento](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-homem-branco-em-desalento/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
