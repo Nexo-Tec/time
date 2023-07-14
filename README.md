@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STF tenta explicar fala de Barroso sobre bolsonarismo](https://www.nexojornal.com.br/extra/2023/07/13/STF-tenta-explicar-fala-de-Barroso-sobre-bolsonarismo)
-- [Com ventos de 140 km/h, ciclone deixa um morto no Sul](https://www.nexojornal.com.br/extra/2023/07/13/Com-ventos-de-140-kmh-ciclone-deixa-um-morto-no-Sul)
-- [A insegurança alimentar no Brasil, segundo agências da ONU](https://www.nexojornal.com.br/expresso/2023/07/12/A-inseguran%C3%A7a-alimentar-no-Brasil-segundo-ag%C3%AAncias-da-ONU)
-- [Por que o Uruguai passa pela pior crise hídrica em décadas](https://www.nexojornal.com.br/expresso/2023/07/12/Por-que-o-Uruguai-passa-pela-pior-crise-h%C3%ADdrica-em-d%C3%A9cadas)
-- [‘A seleção da Copa é resultado da luta das gerações anteriores’](https://www.nexojornal.com.br/entrevista/2023/07/12/%E2%80%98A-sele%C3%A7%C3%A3o-da-Copa-%C3%A9-resultado-da-luta-das-gera%C3%A7%C3%B5es-anteriores%E2%80%99)
+- [Por que a União Europeia investiga o Ozempic](https://www.nexojornal.com.br/expresso/2023/07/14/Por-que-a-Uni%C3%A3o-Europeia-investiga-o-Ozempic)
+- [Morre o diplomata Sergio Amaral aos 79 anos](https://www.nexojornal.com.br/extra/2023/07/14/Morre-o-diplomata-Sergio-Amaral-aos-79-anos)
+- [Hollywood em greve: os impactos da crise trabalhista](https://www.nexojornal.com.br/expresso/2023/07/13/Hollywood-em-greve-os-impactos-da-crise-trabalhista)
+- [Como Lula se alinha de novo à indústria em seu terceiro mandato](https://www.nexojornal.com.br/expresso/2023/07/13/Como-Lula-se-alinha-de-novo-%C3%A0-ind%C3%BAstria-em-seu-terceiro-mandato)
+- [O movimento para proteger a Serra da Chapadinha, na Bahia](https://www.nexojornal.com.br/externo/2023/07/13/O-movimento-para-proteger-a-Serra-da-Chapadinha-na-Bahia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
