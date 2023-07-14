@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Hollywood em greve: os impactos da crise trabalhista](https://www.nexojornal.com.br/expresso/2023/07/13/Hollywood-em-greve-os-impactos-da-crise-trabalhista)
-- [Como Lula se alinha de novo à indústria em seu terceiro mandato](https://www.nexojornal.com.br/expresso/2023/07/13/Como-Lula-se-alinha-de-novo-%C3%A0-ind%C3%BAstria-em-seu-terceiro-mandato)
-- [O movimento para proteger a Serra da Chapadinha, na Bahia](https://www.nexojornal.com.br/externo/2023/07/13/O-movimento-para-proteger-a-Serra-da-Chapadinha-na-Bahia)
-- [Menopausa: horror ou libertação?](https://www.nexojornal.com.br/colunistas/2023/Menopausa-horror-ou-liberta%C3%A7%C3%A3o)
-- [ONU diz ter achado vala com vítimas de conflito no Sudão](https://www.nexojornal.com.br/extra/2023/07/13/ONU-diz-ter-achado-vala-com-v%C3%ADtimas-de-conflito-no-Sud%C3%A3o)
+- [Petrobras confirma 10 casos de assédio sexual entre 2019 e 2022](https://www.nexojornal.com.br/extra/2023/07/13/Petrobras-confirma-10-casos-de-ass%C3%A9dio-sexual-entre-2019-e-2022)
+- [Qual o papel de Arto Lindsay na transformação da arte](https://www.nexojornal.com.br/academico/2023/07/13/Qual-o-papel-de-Arto-Lindsay-na-transforma%C3%A7%C3%A3o-da-arte)
+- [STF tenta explicar fala de Barroso sobre bolsonarismo](https://www.nexojornal.com.br/extra/2023/07/13/STF-tenta-explicar-fala-de-Barroso-sobre-bolsonarismo)
+- [Com ventos de 140 km/h, ciclone deixa um morto no Sul](https://www.nexojornal.com.br/extra/2023/07/13/Com-ventos-de-140-kmh-ciclone-deixa-um-morto-no-Sul)
+- [A insegurança alimentar no Brasil, segundo agências da ONU](https://www.nexojornal.com.br/expresso/2023/07/12/A-inseguran%C3%A7a-alimentar-no-Brasil-segundo-ag%C3%AAncias-da-ONU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
