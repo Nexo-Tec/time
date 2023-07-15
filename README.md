@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a União Europeia investiga o Ozempic](https://www.nexojornal.com.br/expresso/2023/07/14/Por-que-a-Uni%C3%A3o-Europeia-investiga-o-Ozempic)
+- [Morre o diplomata Sergio Amaral aos 79 anos](https://www.nexojornal.com.br/extra/2023/07/14/Morre-o-diplomata-Sergio-Amaral-aos-79-anos)
 - [Hollywood em greve: os impactos da crise trabalhista](https://www.nexojornal.com.br/expresso/2023/07/13/Hollywood-em-greve-os-impactos-da-crise-trabalhista)
 - [Como Lula se alinha de novo à indústria em seu terceiro mandato](https://www.nexojornal.com.br/expresso/2023/07/13/Como-Lula-se-alinha-de-novo-%C3%A0-ind%C3%BAstria-em-seu-terceiro-mandato)
 - [O movimento para proteger a Serra da Chapadinha, na Bahia](https://www.nexojornal.com.br/externo/2023/07/13/O-movimento-para-proteger-a-Serra-da-Chapadinha-na-Bahia)
-- [Menopausa: horror ou libertação?](https://www.nexojornal.com.br/colunistas/2023/Menopausa-horror-ou-liberta%C3%A7%C3%A3o)
-- [ONU diz ter achado vala com vítimas de conflito no Sudão](https://www.nexojornal.com.br/extra/2023/07/13/ONU-diz-ter-achado-vala-com-v%C3%ADtimas-de-conflito-no-Sud%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
