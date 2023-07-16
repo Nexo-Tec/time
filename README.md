@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os segredos mantidos no Orçamento. E o que cabe a Lula fazer](https://www.nexojornal.com.br/expresso/2023/07/15/Os-segredos-mantidos-no-Or%C3%A7amento.-E-o-que-cabe-a-Lula-fazer)
-- [Ser ou não ser negro: os conceitos e preconceitos de raça](https://www.nexojornal.com.br/ensaio/2023/07/15/Ser-ou-n%C3%A3o-ser-negro-os-conceitos-e-preconceitos-de-ra%C3%A7a)
-- [A lei antitrans na Rússia. E a ofensiva contra pessoas LGBTI+](https://www.nexojornal.com.br/expresso/2023/07/15/A-lei-antitrans-na-R%C3%BAssia.-E-a-ofensiva-contra-pessoas-LGBTI)
-- [‘África é essencial para o empoderamento negro no Brasil’](https://www.nexojornal.com.br/entrevista/2023/07/15/%E2%80%98%C3%81frica-%C3%A9-essencial-para-o-empoderamento-negro-no-Brasil%E2%80%99)
-- [5 livros que abordam as drogas sem hipocrisia](https://www.nexojornal.com.br/estante/favoritos/2023/07/15/5-livros-que-abordam-as-drogas-sem-hipocrisia)
+- [Quais os limites de comentários políticos de ministros do STF](https://www.nexojornal.com.br/expresso/2023/07/14/Quais-os-limites-de-coment%C3%A1rios-pol%C3%ADticos-de-ministros-do-STF)
+- [Preços de gasolina e etanol recuam nos postos de combustíveis](https://www.nexojornal.com.br/extra/2023/07/14/Pre%C3%A7os-de-gasolina-e-etanol-recuam-nos-postos-de-combust%C3%ADveis)
+- [Por uma sociedade civil organizada e articulada com a cena internacional](https://www.nexojornal.com.br/ensaio/2023/07/14/Por-uma-sociedade-civil-organizada-e-articulada-com-a-cena-internacional)
+- [A pequena ilha no Pacífico que virou laboratório ecológico](https://www.nexojornal.com.br/expresso/2023/07/14/A-pequena-ilha-no-Pac%C3%ADfico-que-virou-laborat%C3%B3rio-ecol%C3%B3gico)
+- [‘Perdeu vontade de espiar cotidianos’: devaneios existenciais](https://www.nexojornal.com.br/estante/trechos/2023/07/14/%E2%80%98Perdeu-vontade-de-espiar-cotidianos%E2%80%99-devaneios-existenciais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
