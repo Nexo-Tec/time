@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Atriz e cantora Jane Birkin morre aos 76 anos](https://www.nexojornal.com.br/extra/2023/07/16/Atriz-e-cantora-Jane-Birkin-morre-aos-76-anos)
 - [Os segredos mantidos no Orçamento. E o que cabe a Lula fazer](https://www.nexojornal.com.br/expresso/2023/07/15/Os-segredos-mantidos-no-Or%C3%A7amento.-E-o-que-cabe-a-Lula-fazer)
 - [Ser ou não ser negro: os conceitos e preconceitos de raça](https://www.nexojornal.com.br/ensaio/2023/07/15/Ser-ou-n%C3%A3o-ser-negro-os-conceitos-e-preconceitos-de-ra%C3%A7a)
 - [A lei antitrans na Rússia. E a ofensiva contra pessoas LGBTI+](https://www.nexojornal.com.br/expresso/2023/07/15/A-lei-antitrans-na-R%C3%BAssia.-E-a-ofensiva-contra-pessoas-LGBTI)
 - [‘África é essencial para o empoderamento negro no Brasil’](https://www.nexojornal.com.br/entrevista/2023/07/15/%E2%80%98%C3%81frica-%C3%A9-essencial-para-o-empoderamento-negro-no-Brasil%E2%80%99)
+- [5 livros que abordam as drogas sem hipocrisia](https://www.nexojornal.com.br/estante/favoritos/2023/07/15/5-livros-que-abordam-as-drogas-sem-hipocrisia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
