@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A história do zoológico humano que expõe o racismo suíço](https://www.nexojornal.com.br/externo/2023/07/17/A-hist%C3%B3ria-do-zool%C3%B3gico-humano-que-exp%C3%B5e-o-racismo-su%C3%AD%C3%A7o)
+- [‘Novo normal’: a reação no hemisfério norte ao calor extremo](https://www.nexojornal.com.br/expresso/2023/07/17/%E2%80%98Novo-normal%E2%80%99-a-rea%C3%A7%C3%A3o-no-hemisf%C3%A9rio-norte-ao-calor-extremo)
+- [Transportadoras e garimpo atuaram no 8 de janeiro, diz Abin](https://www.nexojornal.com.br/extra/2023/07/17/Transportadoras-e-garimpo-atuaram-no-8-de-janeiro-diz-Abin)
+- [Os nós da economia chinesa. E os impactos no resto do mundo](https://www.nexojornal.com.br/expresso/2023/07/17/Os-n%C3%B3s-da-economia-chinesa.-E-os-impactos-no-resto-do-mundo)
 - [João Donato: o pioneiro da bossa nova que gostava era de jazz](https://www.nexojornal.com.br/podcast/2023/07/17/Jo%C3%A3o-Donato-o-pioneiro-da-bossa-nova-que-gostava-era-de-jazz)
-- [O filme de 2013 que antecipou os medos dos atores em greve](https://www.nexojornal.com.br/expresso/2023/07/17/O-filme-de-2013-que-antecipou-os-medos-dos-atores-em-greve)
-- [Emoji ‘derretendo’ é pela 2ª vez o mais representativo do ano](https://www.nexojornal.com.br/extra/2023/07/17/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-pela-2%C2%AA-vez-o-mais-representativo-do-ano)
-- [Haddad atribui queda na ‘prévia do PIB’ a juros altos](https://www.nexojornal.com.br/extra/2023/07/17/Haddad-atribui-queda-na-%E2%80%98pr%C3%A9via-do-PIB%E2%80%99-a-juros-altos)
-- [Rússia suspende acordo com Ucrânia de exportação de grãos](https://www.nexojornal.com.br/extra/2023/07/17/R%C3%BAssia-suspende-acordo-com-Ucr%C3%A2nia-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
