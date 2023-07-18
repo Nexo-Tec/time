@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [João Donato: o pioneiro da bossa nova que gostava era de jazz](https://www.nexojornal.com.br/podcast/2023/07/17/Jo%C3%A3o-Donato-o-pioneiro-da-bossa-nova-que-gostava-era-de-jazz)
-- [O filme de 2013 que antecipou os medos dos atores em greve](https://www.nexojornal.com.br/expresso/2023/07/17/O-filme-de-2013-que-antecipou-os-medos-dos-atores-em-greve)
-- [Emoji ‘derretendo’ é pela 2ª vez o mais representativo do ano](https://www.nexojornal.com.br/extra/2023/07/17/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-pela-2%C2%AA-vez-o-mais-representativo-do-ano)
-- [Haddad atribui queda na ‘prévia do PIB’ a juros altos](https://www.nexojornal.com.br/extra/2023/07/17/Haddad-atribui-queda-na-%E2%80%98pr%C3%A9via-do-PIB%E2%80%99-a-juros-altos)
-- [Rússia suspende acordo com Ucrânia de exportação de grãos](https://www.nexojornal.com.br/extra/2023/07/17/R%C3%BAssia-suspende-acordo-com-Ucr%C3%A2nia-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os)
+- [Os avanços e entraves de pensar o país junto a 1 milhão de cidadãos](https://www.nexojornal.com.br/expresso/2023/07/16/Os-avan%C3%A7os-e-entraves-de-pensar-o-pa%C3%ADs-junto-a-1-milh%C3%A3o-de-cidad%C3%A3os)
+- [Reforma tributária: o que pesa no tamanho do novo imposto](https://www.nexojornal.com.br/expresso/2023/07/16/Reforma-tribut%C3%A1ria-o-que-pesa-no-tamanho-do-novo-imposto)
+- [Sinos, para o sagrado e o profano](https://www.nexojornal.com.br/externo/2023/07/16/Sinos-para-o-sagrado-e-o-profano)
+- [Economistas: a chave para o deficit na área de ciência de dados](https://www.nexojornal.com.br/ensaio/2023/07/16/Economistas-a-chave-para-o-deficit-na-%C3%A1rea-de-ci%C3%AAncia-de-dados)
+- [Começo do Desenrola vai perdoar dívidas bancárias de até R$ 100](https://www.nexojornal.com.br/extra/2023/07/16/Come%C3%A7o-do-Desenrola-vai-perdoar-d%C3%ADvidas-banc%C3%A1rias-de-at%C3%A9-R-100)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
