@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [João Donato: o pioneiro da bossa nova que gostava era de jazz](https://www.nexojornal.com.br/podcast/2023/07/17/Jo%C3%A3o-Donato-o-pioneiro-da-bossa-nova-que-gostava-era-de-jazz)
-- [O filme de 2013 que antecipou os medos dos atores em greve](https://www.nexojornal.com.br/expresso/2023/07/17/O-filme-de-2013-que-antecipou-os-medos-dos-atores-em-greve)
-- [Emoji ‘derretendo’ é pela 2ª vez o mais representativo do ano](https://www.nexojornal.com.br/extra/2023/07/17/Emoji-%E2%80%98derretendo%E2%80%99-%C3%A9-pela-2%C2%AA-vez-o-mais-representativo-do-ano)
-- [Haddad atribui queda na ‘prévia do PIB’ a juros altos](https://www.nexojornal.com.br/extra/2023/07/17/Haddad-atribui-queda-na-%E2%80%98pr%C3%A9via-do-PIB%E2%80%99-a-juros-altos)
-- [Rússia suspende acordo com Ucrânia de exportação de grãos](https://www.nexojornal.com.br/extra/2023/07/17/R%C3%BAssia-suspende-acordo-com-Ucr%C3%A2nia-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os)
+- [Presidentes pedem acordo na Venezuela para eleições ‘justas’](https://www.nexojornal.com.br/extra/2023/07/18/Presidentes-pedem-acordo-na-Venezuela-para-elei%C3%A7%C3%B5es-%E2%80%98justas%E2%80%99)
+- [O gênero dos técnicos na Copa do Mundo de futebol feminino](https://www.nexojornal.com.br/grafico/2023/07/18/O-g%C3%AAnero-dos-t%C3%A9cnicos-na-Copa-do-Mundo-de-futebol-feminino)
+- [Governo abre 2.480 vagas em concurso. Veja em quais órgãos](https://www.nexojornal.com.br/extra/2023/07/18/Governo-abre-2.480-vagas-em-concurso.-Veja-em-quais-%C3%B3rg%C3%A3os)
+- [PF prende suspeitos em esquema de troca de etiqueta de bagagem](https://www.nexojornal.com.br/extra/2023/07/18/PF-prende-suspeitos-em-esquema-de-troca-de-etiqueta-de-bagagem)
+- [O que pesa contra Sergio Moro na Justiça Eleitoral](https://www.nexojornal.com.br/expresso/2023/07/18/O-que-pesa-contra-Sergio-Moro-na-Justi%C3%A7a-Eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
