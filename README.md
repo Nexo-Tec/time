@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@pierreemilelv](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pierreemilelv/)
 - [Valdecir Nascimento: “Como um médico pode decidir que uma mulher negra pode sentir mais dor que uma branca?”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/valdecir-nascimento-instituto-odara-bahia-racismo-direitos-sexuais-reprodutivos/)
 - [Diferentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/diferentes-frans-waal/)
 - [Ensaios inéditos de Anne Carson](https://gamarevista.uol.com.br/achamos-que-vale/ler/ensaios-ineditos-de-anne-carson/)
 - [Xuxa documental](https://gamarevista.uol.com.br/achamos-que-vale/assistir/xuxa-documental/)
-- [Tacos mexicanos autênticos e deliciosos em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/tacos-mexicanos-autenticos-e-deliciosos-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
