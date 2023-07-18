@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia suspende acordo com Ucrânia de exportação de grãos](https://www.nexojornal.com.br/extra/2023/07/17/R%C3%BAssia-suspende-acordo-com-Ucr%C3%A2nia-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os)
-- [Músico João Donato morre aos 88 anos no Rio de Janeiro](https://www.nexojornal.com.br/extra/2023/07/17/M%C3%BAsico-Jo%C3%A3o-Donato-morre-aos-88-anos-no-Rio-de-Janeiro)
-- [Os avanços e entraves de pensar o país junto a 1 milhão de cidadãos](https://www.nexojornal.com.br/expresso/2023/07/16/Os-avan%C3%A7os-e-entraves-de-pensar-o-pa%C3%ADs-junto-a-1-milh%C3%A3o-de-cidad%C3%A3os)
-- [Reforma tributária: o que pesa no tamanho do novo imposto](https://www.nexojornal.com.br/expresso/2023/07/16/Reforma-tribut%C3%A1ria-o-que-pesa-no-tamanho-do-novo-imposto)
-- [Sinos, para o sagrado e o profano](https://www.nexojornal.com.br/externo/2023/07/16/Sinos-para-o-sagrado-e-o-profano)
+- [O que pesa contra Sergio Moro na Justiça Eleitoral](https://www.nexojornal.com.br/expresso/2023/07/18/O-que-pesa-contra-Sergio-Moro-na-Justi%C3%A7a-Eleitoral)
+- [A história do zoológico humano que expõe o racismo suíço](https://www.nexojornal.com.br/externo/2023/07/17/A-hist%C3%B3ria-do-zool%C3%B3gico-humano-que-exp%C3%B5e-o-racismo-su%C3%AD%C3%A7o)
+- [‘Novo normal’: a reação no hemisfério norte ao calor extremo](https://www.nexojornal.com.br/expresso/2023/07/17/%E2%80%98Novo-normal%E2%80%99-a-rea%C3%A7%C3%A3o-no-hemisf%C3%A9rio-norte-ao-calor-extremo)
+- [Transportadoras e garimpo atuaram no 8 de janeiro, diz Abin](https://www.nexojornal.com.br/extra/2023/07/17/Transportadoras-e-garimpo-atuaram-no-8-de-janeiro-diz-Abin)
+- [Os nós da economia chinesa. E os impactos no resto do mundo](https://www.nexojornal.com.br/expresso/2023/07/17/Os-n%C3%B3s-da-economia-chinesa.-E-os-impactos-no-resto-do-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
