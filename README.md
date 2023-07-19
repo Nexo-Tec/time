@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A nova galeria de Yayoi Kusama no Inhotim](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-nova-galeria-de-yayoi-kusama-no-inhotim/)
 - [Como fazer um churrasco vegano](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-fazer-churrasco-vegano/)
 - [Boneco Ken](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/boneco-ken/)
 - [@pierreemilelv](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pierreemilelv/)
 - [Valdecir Nascimento: “Como um médico pode decidir que uma mulher negra pode sentir mais dor que uma branca?”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/valdecir-nascimento-instituto-odara-bahia-racismo-direitos-sexuais-reprodutivos/)
-- [Diferentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/diferentes-frans-waal/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
