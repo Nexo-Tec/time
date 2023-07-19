@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Cessar o extermínio da juventude negra deve ser a principal meta’](https://www.nexojornal.com.br/entrevista/2023/07/18/%E2%80%98Cessar-o-exterm%C3%ADnio-da-juventude-negra-deve-ser-a-principal-meta%E2%80%99)
 - [Os riscos do freio ao acordo de exportação de grãos via Mar Negro](https://www.nexojornal.com.br/expresso/2023/07/18/Os-riscos-do-freio-ao-acordo-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os-via-Mar-Negro)
 - [A crise no território Yanomami, 6 meses após a missão oficial](https://www.nexojornal.com.br/expresso/2023/07/18/A-crise-no-territ%C3%B3rio-Yanomami-6-meses-ap%C3%B3s-a-miss%C3%A3o-oficial)
 - [CNPq reajusta bolsas de extensão e fomento tecnológico em até 94%](https://www.nexojornal.com.br/extra/2023/07/18/CNPq-reajusta-bolsas-de-extens%C3%A3o-e-fomento-tecnol%C3%B3gico-em-at%C3%A9-94)
 - [Como a indústria da Barbie se reinventa para manter relevância](https://www.nexojornal.com.br/expresso/2023/07/18/Como-a-ind%C3%BAstria-da-Barbie-se-reinventa-para-manter-relev%C3%A2ncia)
-- [Eleições para conselheiros tutelares: por que participar?](https://www.nexojornal.com.br/colunistas/2023/Elei%C3%A7%C3%B5es-para-conselheiros-tutelares-por-que-participar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
