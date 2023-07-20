@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Em depoimento inédito, Zé Celso fala de envelhecimento e finitude](https://gamarevista.uol.com.br/formato/depoimento/em-depoimento-inedito-ze-celso-fala-de-envelhecimento-e-finitude/)
-- [A nova galeria de Yayoi Kusama no Inhotim](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-nova-galeria-de-yayoi-kusama-no-inhotim/)
-- [Como fazer um churrasco vegano](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-fazer-churrasco-vegano/)
-- [Boneco Ken](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/boneco-ken/)
-- [@pierreemilelv](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pierreemilelv/)
+- [O rapper e o “orixá”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-rapper-e-o-orixa/)
+- [A superfantástica trajetória do Balão Mágico](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-superfantastica-trajetoria-do-balao-magico/)
+- [Um livro sobre o ato criativo](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-livro-sobre-o-ato-criativo/)
+- [Homenagem ao Blaxploitation na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/homenagem-ao-blaxploitation-na-netflix/)
+- [A alteridade na nova Granta em português](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-alteridade-na-nova-granta-em-portugues/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
