@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como foi o torneio precursor das Copas de futebol feminino](https://www.nexojornal.com.br/expresso/2023/07/19/Como-foi-o-torneio-precursor-das-Copas-de-futebol-feminino)
-- [Petrobras reduz preço do gás natural para distribuidoras em 7,1%](https://www.nexojornal.com.br/extra/2023/07/19/Petrobras-reduz-pre%C3%A7o-do-g%C3%A1s-natural-para-distribuidoras-em-71)
-- [Mandado de prisão impede ida de Putin a cúpula dos Brics](https://www.nexojornal.com.br/extra/2023/07/19/Mandado-de-pris%C3%A3o-impede-ida-de-Putin-a-c%C3%BApula-dos-Brics)
-- [‘Cessar o extermínio da juventude negra deve ser a principal meta’](https://www.nexojornal.com.br/entrevista/2023/07/18/%E2%80%98Cessar-o-exterm%C3%ADnio-da-juventude-negra-deve-ser-a-principal-meta%E2%80%99)
-- [Os riscos do freio ao acordo de exportação de grãos via Mar Negro](https://www.nexojornal.com.br/expresso/2023/07/18/Os-riscos-do-freio-ao-acordo-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os-via-Mar-Negro)
+- [O que há de excesso na reação do STF aos ataques contra Moraes](https://www.nexojornal.com.br/expresso/2023/07/19/O-que-h%C3%A1-de-excesso-na-rea%C3%A7%C3%A3o-do-STF-aos-ataques-contra-Moraes)
+- [Qual o efeito de tentar deslocar o fluxo da cracolândia](https://www.nexojornal.com.br/expresso/2023/07/19/Qual-o-efeito-de-tentar-deslocar-o-fluxo-da-cracol%C3%A2ndia)
+- [‘Barbieheimer’, um capítulo surrealista da estratégia publicitária](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Barbieheimer%E2%80%99-um-cap%C3%ADtulo-surrealista-da-estrat%C3%A9gia-publicit%C3%A1ria)
+- [Ministério Público investiga golpes online que usam Desenrola](https://www.nexojornal.com.br/extra/2023/07/19/Minist%C3%A9rio-P%C3%BAblico-investiga-golpes-online-que-usam-Desenrola)
+- [Atirador mata dois em Auckland horas antes de abertura da Copa](https://www.nexojornal.com.br/extra/2023/07/19/Atirador-mata-dois-em-Auckland-horas-antes-de-abertura-da-Copa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
