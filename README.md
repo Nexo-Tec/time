@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há de excesso na reação do STF aos ataques contra Moraes](https://www.nexojornal.com.br/expresso/2023/07/19/O-que-h%C3%A1-de-excesso-na-rea%C3%A7%C3%A3o-do-STF-aos-ataques-contra-Moraes)
-- [Qual o efeito de tentar deslocar o fluxo da cracolândia](https://www.nexojornal.com.br/expresso/2023/07/19/Qual-o-efeito-de-tentar-deslocar-o-fluxo-da-cracol%C3%A2ndia)
-- [‘Barbieheimer’, um capítulo surrealista da estratégia publicitária](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Barbieheimer%E2%80%99-um-cap%C3%ADtulo-surrealista-da-estrat%C3%A9gia-publicit%C3%A1ria)
-- [Ministério Público investiga golpes online que usam Desenrola](https://www.nexojornal.com.br/extra/2023/07/19/Minist%C3%A9rio-P%C3%BAblico-investiga-golpes-online-que-usam-Desenrola)
-- [Atirador mata dois em Auckland horas antes de abertura da Copa](https://www.nexojornal.com.br/extra/2023/07/19/Atirador-mata-dois-em-Auckland-horas-antes-de-abertura-da-Copa)
+- [‘Cessar o extermínio da juventude negra deve ser a principal meta’](https://www.nexojornal.com.br/entrevista/2023/07/18/%E2%80%98Cessar-o-exterm%C3%ADnio-da-juventude-negra-deve-ser-a-principal-meta%E2%80%99)
+- [Os riscos do freio ao acordo de exportação de grãos via Mar Negro](https://www.nexojornal.com.br/expresso/2023/07/18/Os-riscos-do-freio-ao-acordo-de-exporta%C3%A7%C3%A3o-de-gr%C3%A3os-via-Mar-Negro)
+- [A crise no território Yanomami, 6 meses após a missão oficial](https://www.nexojornal.com.br/expresso/2023/07/18/A-crise-no-territ%C3%B3rio-Yanomami-6-meses-ap%C3%B3s-a-miss%C3%A3o-oficial)
+- [CNPq reajusta bolsas de extensão e fomento tecnológico em até 94%](https://www.nexojornal.com.br/extra/2023/07/18/CNPq-reajusta-bolsas-de-extens%C3%A3o-e-fomento-tecnol%C3%B3gico-em-at%C3%A9-94)
+- [Como a indústria da Barbie se reinventa para manter relevância](https://www.nexojornal.com.br/expresso/2023/07/18/Como-a-ind%C3%BAstria-da-Barbie-se-reinventa-para-manter-relev%C3%A2ncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
