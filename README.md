@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [De Uma a Outra Ilha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/de-uma-a-outra-ilha/)
 - [O rapper e o “orixá”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-rapper-e-o-orixa/)
 - [A superfantástica trajetória do Balão Mágico](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-superfantastica-trajetoria-do-balao-magico/)
 - [Um livro sobre o ato criativo](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-livro-sobre-o-ato-criativo/)
 - [Homenagem ao Blaxploitation na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/homenagem-ao-blaxploitation-na-netflix/)
-- [A alteridade na nova Granta em português](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-alteridade-na-nova-granta-em-portugues/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
