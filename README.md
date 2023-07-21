@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há de excesso na reação do STF aos ataques contra Moraes](https://www.nexojornal.com.br/expresso/2023/07/19/O-que-h%C3%A1-de-excesso-na-rea%C3%A7%C3%A3o-do-STF-aos-ataques-contra-Moraes)
-- [Qual o efeito de tentar deslocar o fluxo da cracolândia](https://www.nexojornal.com.br/expresso/2023/07/19/Qual-o-efeito-de-tentar-deslocar-o-fluxo-da-cracol%C3%A2ndia)
-- [‘Barbieheimer’, um capítulo surrealista da estratégia publicitária](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Barbieheimer%E2%80%99-um-cap%C3%ADtulo-surrealista-da-estrat%C3%A9gia-publicit%C3%A1ria)
-- [Ministério Público investiga golpes online que usam Desenrola](https://www.nexojornal.com.br/extra/2023/07/19/Minist%C3%A9rio-P%C3%BAblico-investiga-golpes-online-que-usam-Desenrola)
-- [Atirador mata dois em Auckland horas antes de abertura da Copa](https://www.nexojornal.com.br/extra/2023/07/19/Atirador-mata-dois-em-Auckland-horas-antes-de-abertura-da-Copa)
+- [Como a popularidade do ‘caviar brasileiro’ ameaça as tainhas](https://www.nexojornal.com.br/externo/2023/07/20/Como-a-popularidade-do-%E2%80%98caviar-brasileiro%E2%80%99-amea%C3%A7a-as-tainhas)
+- [As pressões sobre o ministério que Lula vê como vitrine](https://www.nexojornal.com.br/expresso/2023/07/20/As-press%C3%B5es-sobre-o-minist%C3%A9rio-que-Lula-v%C3%AA-como-vitrine)
+- [‘Cor da pele está ligada à distribuição de afetos na família’](https://www.nexojornal.com.br/entrevista/2023/07/20/%E2%80%98Cor-da-pele-est%C3%A1-ligada-%C3%A0-distribui%C3%A7%C3%A3o-de-afetos-na-fam%C3%ADlia%E2%80%99)
+- [Somo todos bardos: contar histórias na era da IA](https://www.nexojornal.com.br/colunistas/2023/Somo-todos-bardos-contar-hist%C3%B3rias-na-era-da-IA)
+- [Protestos tomam Índia após vídeo de violência sexual viralizar](https://www.nexojornal.com.br/extra/2023/07/20/Protestos-tomam-%C3%8Dndia-ap%C3%B3s-v%C3%ADdeo-de-viol%C3%AAncia-sexual-viralizar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
