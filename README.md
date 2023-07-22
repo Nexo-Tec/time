@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Armas: o quanto do legado bolsonarista Lula reverte](https://www.nexojornal.com.br/expresso/2023/07/21/Armas-o-quanto-do-legado-bolsonarista-Lula-reverte)
-- [7 respostas sobre os rumos das escolas cívico-militares](https://www.nexojornal.com.br/expresso/2023/07/21/7-respostas-sobre-os-rumos-das-escolas-c%C3%ADvico-militares)
-- [‘O abismo de São Sebastião’: a arte como elo de amizade](https://www.nexojornal.com.br/estante/trechos/2023/07/21/%E2%80%98O-abismo-de-S%C3%A3o-Sebasti%C3%A3o%E2%80%99-a-arte-como-elo-de-amizade)
-- [Quem é Mãe Beth de Oxum, patrimônio vivo de Pernambuco](https://www.nexojornal.com.br/externo/2023/07/21/Quem-%C3%A9-M%C3%A3e-Beth-de-Oxum-patrim%C3%B4nio-vivo-de-Pernambuco)
-- [Lembrar, responsabilizar e reparar: imperativos democráticos](https://www.nexojornal.com.br/ensaio/2023/07/21/Lembrar-responsabilizar-e-reparar-imperativos-democr%C3%A1ticos)
+- [Morre o cantor americano Tony Bennett aos 96 anos](https://www.nexojornal.com.br/extra/2023/07/21/Morre-o-cantor-americano-Tony-Bennett-aos-96-anos)
+- [Qual é o espaço de diálogo entre governo e oposição na Venezuela](https://www.nexojornal.com.br/expresso/2023/07/21/Qual-%C3%A9-o-espa%C3%A7o-de-di%C3%A1logo-entre-governo-e-oposi%C3%A7%C3%A3o-na-Venezuela)
+- [Como a popularidade do ‘caviar brasileiro’ ameaça as tainhas](https://www.nexojornal.com.br/externo/2023/07/20/Como-a-popularidade-do-%E2%80%98caviar-brasileiro%E2%80%99-amea%C3%A7a-as-tainhas)
+- [As pressões sobre o ministério que Lula vê como vitrine](https://www.nexojornal.com.br/expresso/2023/07/20/As-press%C3%B5es-sobre-o-minist%C3%A9rio-que-Lula-v%C3%AA-como-vitrine)
+- [‘Cor da pele está ligada à distribuição de afetos na família’](https://www.nexojornal.com.br/entrevista/2023/07/20/%E2%80%98Cor-da-pele-est%C3%A1-ligada-%C3%A0-distribui%C3%A7%C3%A3o-de-afetos-na-fam%C3%ADlia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
