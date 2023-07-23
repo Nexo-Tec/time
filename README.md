@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para penetrar na história tragicômica do Brasil](https://www.nexojornal.com.br/estante/favoritos/2023/07/22/5-livros-para-penetrar-na-hist%C3%B3ria-tragic%C3%B4mica-do-Brasil)
-- [A aliança para se opor a Modi em 2024. E a força do líder indiano](https://www.nexojornal.com.br/expresso/2023/07/22/A-alian%C3%A7a-para-se-opor-a-Modi-em-2024.-E-a-for%C3%A7a-do-l%C3%ADder-indiano)
-- [Aras em campanha: qual seria o impacto de reconduzi-lo](https://www.nexojornal.com.br/expresso/2023/07/22/Aras-em-campanha-qual-seria-o-impacto-de-reconduzi-lo)
-- [Ensino integral no Brasil: como recuperar a aprendizagem](https://www.nexojornal.com.br/ensaio/2023/07/22/Ensino-integral-no-Brasil-como-recuperar-a-aprendizagem)
-- [‘Indústrias não têm interesse em minorar danos ao clima’](https://www.nexojornal.com.br/entrevista/2023/07/22/%E2%80%98Ind%C3%BAstrias-n%C3%A3o-t%C3%AAm-interesse-em-minorar-danos-ao-clima%E2%80%99)
+- [Armas: o quanto do legado bolsonarista Lula reverte](https://www.nexojornal.com.br/expresso/2023/07/21/Armas-o-quanto-do-legado-bolsonarista-Lula-reverte)
+- [7 respostas sobre os rumos das escolas cívico-militares](https://www.nexojornal.com.br/expresso/2023/07/21/7-respostas-sobre-os-rumos-das-escolas-c%C3%ADvico-militares)
+- [‘O abismo de São Sebastião’: a arte como elo de amizade](https://www.nexojornal.com.br/estante/trechos/2023/07/21/%E2%80%98O-abismo-de-S%C3%A3o-Sebasti%C3%A3o%E2%80%99-a-arte-como-elo-de-amizade)
+- [Quem é Mãe Beth de Oxum, patrimônio vivo de Pernambuco](https://www.nexojornal.com.br/externo/2023/07/21/Quem-%C3%A9-M%C3%A3e-Beth-de-Oxum-patrim%C3%B4nio-vivo-de-Pernambuco)
+- [Lembrar, responsabilizar e reparar: imperativos democráticos](https://www.nexojornal.com.br/ensaio/2023/07/21/Lembrar-responsabilizar-e-reparar-imperativos-democr%C3%A1ticos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
