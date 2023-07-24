@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil goleia Panamá na estreia da Copa do Mundo Feminina](https://www.nexojornal.com.br/extra/2023/07/24/Brasil-goleia-Panam%C3%A1-na-estreia-da-Copa-do-Mundo-Feminina)
 - [Direita cresce mas não alcança maioria em eleição espanhola](https://www.nexojornal.com.br/extra/2023/07/23/Direita-cresce-mas-n%C3%A3o-alcan%C3%A7a-maioria-em-elei%C3%A7%C3%A3o-espanhola)
 - [A necessária cooperação tributária na América Latina](https://www.nexojornal.com.br/ensaio/2023/07/23/A-necess%C3%A1ria-coopera%C3%A7%C3%A3o-tribut%C3%A1ria-na-Am%C3%A9rica-Latina)
 - [As perguntas que movem estes 5 jovens cientistas brasileiros](https://www.nexojornal.com.br/expresso/2023/07/23/As-perguntas-que-movem-estes-5-jovens-cientistas-brasileiros)
 - [Qual é o peso político da Caixa na máquina pública federal](https://www.nexojornal.com.br/expresso/2023/07/23/Qual-%C3%A9-o-peso-pol%C3%ADtico-da-Caixa-na-m%C3%A1quina-p%C3%BAblica-federal)
-- [Atos no Rio relembram 30 anos da chacina da Candelária](https://www.nexojornal.com.br/extra/2023/07/23/Atos-no-Rio-relembram-30-anos-da-chacina-da-Candel%C3%A1ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
