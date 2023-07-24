@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Direita cresce mas não alcança maioria em eleição espanhola](https://www.nexojornal.com.br/extra/2023/07/23/Direita-cresce-mas-n%C3%A3o-alcan%C3%A7a-maioria-em-elei%C3%A7%C3%A3o-espanhola)
-- [A necessária cooperação tributária na América Latina](https://www.nexojornal.com.br/ensaio/2023/07/23/A-necess%C3%A1ria-coopera%C3%A7%C3%A3o-tribut%C3%A1ria-na-Am%C3%A9rica-Latina)
-- [As perguntas que movem estes 5 jovens cientistas brasileiros](https://www.nexojornal.com.br/expresso/2023/07/23/As-perguntas-que-movem-estes-5-jovens-cientistas-brasileiros)
-- [Qual é o peso político da Caixa na máquina pública federal](https://www.nexojornal.com.br/expresso/2023/07/23/Qual-%C3%A9-o-peso-pol%C3%ADtico-da-Caixa-na-m%C3%A1quina-p%C3%BAblica-federal)
-- [Atos no Rio relembram 30 anos da chacina da Candelária](https://www.nexojornal.com.br/extra/2023/07/23/Atos-no-Rio-relembram-30-anos-da-chacina-da-Candel%C3%A1ria)
+- [5 livros para penetrar na história tragicômica do Brasil](https://www.nexojornal.com.br/estante/favoritos/2023/07/22/5-livros-para-penetrar-na-hist%C3%B3ria-tragic%C3%B4mica-do-Brasil)
+- [A aliança para se opor a Modi em 2024. E a força do líder indiano](https://www.nexojornal.com.br/expresso/2023/07/22/A-alian%C3%A7a-para-se-opor-a-Modi-em-2024.-E-a-for%C3%A7a-do-l%C3%ADder-indiano)
+- [Aras em campanha: qual seria o impacto de reconduzi-lo](https://www.nexojornal.com.br/expresso/2023/07/22/Aras-em-campanha-qual-seria-o-impacto-de-reconduzi-lo)
+- [Ensino integral no Brasil: como recuperar a aprendizagem](https://www.nexojornal.com.br/ensaio/2023/07/22/Ensino-integral-no-Brasil-como-recuperar-a-aprendizagem)
+- [‘Indústrias não têm interesse em minorar danos ao clima’](https://www.nexojornal.com.br/entrevista/2023/07/22/%E2%80%98Ind%C3%BAstrias-n%C3%A3o-t%C3%AAm-interesse-em-minorar-danos-ao-clima%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
