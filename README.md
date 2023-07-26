@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [#JustiçaporMiguel: privilégio da branquitude vai da exploração de mão de obra à morte de crianças](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/justicapormiguel-privilegio-da-branquitude-vai-da-exploracao-de-mao-de-obra-a-morte-de-criancas/)
 - [Barbárie contra Barbie](https://gamarevista.uol.com.br/artigo/barbarie-contra-barbie/)
 - [A rosa da rosa de Hiroshima](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-rosa-da-rosa-de-hiroshima/)
 - [@_aryborges](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/_aryborges/)
 - [Flávia Oliveira: “Ter um neto dá a sensação de permanência, mas também de finitude”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jornalista-flavia-oliveira-neto-sensacao-de-permanencia-e-finitude-avo-envelhecimento/)
-- [Na estrada](https://gamarevista.uol.com.br/colunistas/maria-homem/na-estrada/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
