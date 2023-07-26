@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Barbárie contra Barbie](https://gamarevista.uol.com.br/artigo/barbarie-contra-barbie/)
 - [A rosa da rosa de Hiroshima](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-rosa-da-rosa-de-hiroshima/)
 - [@_aryborges](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/_aryborges/)
 - [Flávia Oliveira: “Ter um neto dá a sensação de permanência, mas também de finitude”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jornalista-flavia-oliveira-neto-sensacao-de-permanencia-e-finitude-avo-envelhecimento/)
 - [Na estrada](https://gamarevista.uol.com.br/colunistas/maria-homem/na-estrada/)
-- [De Uma a Outra Ilha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/de-uma-a-outra-ilha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
