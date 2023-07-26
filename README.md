@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo publica MP das apostas esportivas e taxa bets em 18%](https://www.nexojornal.com.br/extra/2023/07/25/Governo-publica-MP-das-apostas-esportivas-e-taxa-bets-em-18)
 - [O que explica o fracasso do Vox nas eleições espanholas](https://www.nexojornal.com.br/expresso/2023/07/24/O-que-explica-o-fracasso-do-Vox-nas-elei%C3%A7%C3%B5es-espanholas)
 - [Por que o ‘Bidenomics’ é a principal aposta do presidente americano](https://www.nexojornal.com.br/expresso/2023/07/24/Por-que-o-%E2%80%98Bidenomics%E2%80%99-%C3%A9-a-principal-aposta-do-presidente-americano)
 - [Uma potencial vacina contra a cocaína](https://www.nexojornal.com.br/externo/2023/07/24/Uma-potencial-vacina-contra-a-coca%C3%ADna)
 - [O que muda no caso Marielle com a delação de um dos envolvidos](https://www.nexojornal.com.br/expresso/2023/07/24/O-que-muda-no-caso-Marielle-com-a-dela%C3%A7%C3%A3o-de-um-dos-envolvidos)
-- [A queda inédita na produção científica brasileira](https://www.nexojornal.com.br/podcast/2023/07/24/A-queda-in%C3%A9dita-na-produ%C3%A7%C3%A3o-cient%C3%ADfica-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
