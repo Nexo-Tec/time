@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brics: Dilma e Putin defendem transações em moedas locais](https://www.nexojornal.com.br/extra/2023/07/26/Brics-Dilma-e-Putin-defendem-transa%C3%A7%C3%B5es-em-moedas-locais)
-- [Um coquetel capaz de reverter o envelhecimento](https://www.nexojornal.com.br/colunistas/2023/Um-coquetel-capaz-de-reverter-o-envelhecimento)
-- [As medidas do governo Lula para limitar os clubes de tiro](https://www.nexojornal.com.br/podcast/2023/07/26/As-medidas-do-governo-Lula-para-limitar-os-clubes-de-tiro)
-- [Juros nos EUA atingem maior nível desde 2001 após aumento do Fed](https://www.nexojornal.com.br/extra/2023/07/26/Juros-nos-EUA-atingem-maior-n%C3%ADvel-desde-2001-ap%C3%B3s-aumento-do-Fed)
-- [O rastro de mortes de indígenas durante o governo Bolsonaro](https://www.nexojornal.com.br/externo/2023/07/26/O-rastro-de-mortes-de-ind%C3%ADgenas-durante-o-governo-Bolsonaro)
+- [Por que o filme da Barbie virou alvo de grupos conservadores](https://www.nexojornal.com.br/expresso/2023/07/25/Por-que-o-filme-da-Barbie-virou-alvo-de-grupos-conservadores)
+- [Israel: o que mudou no Judiciário e o que ainda pode mudar](https://www.nexojornal.com.br/expresso/2023/07/25/Israel-o-que-mudou-no-Judici%C3%A1rio-e-o-que-ainda-pode-mudar)
+- [Maioria dos órgãos oferecidos aos estados para transplante não foi aproveitada](https://www.nexojornal.com.br/externo/2023/07/25/Maioria-dos-%C3%B3rg%C3%A3os-oferecidos-aos-estados-para-transplante-n%C3%A3o-foi-aproveitada)
+- [5 eixos da regulação das apostas esportivas no Brasil](https://www.nexojornal.com.br/expresso/2023/07/25/5-eixos-da-regula%C3%A7%C3%A3o-das-apostas-esportivas-no-Brasil)
+- [Área queimada na Amazônia em 6 meses aumentou 14%](https://www.nexojornal.com.br/extra/2023/07/25/%C3%81rea-queimada-na-Amaz%C3%B4nia-em-6-meses-aumentou-14)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
