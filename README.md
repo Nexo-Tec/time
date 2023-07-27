@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [#JustiçaporMiguel: privilégio da branquitude vai da exploração de mão de obra à morte de crianças](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/justicapormiguel-privilegio-da-branquitude-vai-da-exploracao-de-mao-de-obra-a-morte-de-criancas/)
-- [Barbárie contra Barbie](https://gamarevista.uol.com.br/artigo/barbarie-contra-barbie/)
-- [A rosa da rosa de Hiroshima](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-rosa-da-rosa-de-hiroshima/)
-- [@_aryborges](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/_aryborges/)
-- [Flávia Oliveira: “Ter um neto dá a sensação de permanência, mas também de finitude”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jornalista-flavia-oliveira-neto-sensacao-de-permanencia-e-finitude-avo-envelhecimento/)
+- [Laços &lpar;cortados&rpar; de família](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/lacos-cortados-de-familia/)
+- [Feminismos na tela grande](https://gamarevista.uol.com.br/achamos-que-vale/ir/feminismos-na-tela-grande/)
+- [O inédito trajeto da velejadora Tamara Klink](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-inedito-trajeto-da-velejadora-tamara-klink/)
+- [O Rei do Blues no MIS](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-rei-do-blues-no-mis/)
+- [Adeus às andanças de John Wilson por NY](https://gamarevista.uol.com.br/achamos-que-vale/assistir/adeus-as-andancas-de-john-wilson-por-ny/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
