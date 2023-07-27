@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brics: Dilma e Putin defendem transações em moedas locais](https://www.nexojornal.com.br/extra/2023/07/26/Brics-Dilma-e-Putin-defendem-transa%C3%A7%C3%B5es-em-moedas-locais)
-- [Um coquetel capaz de reverter o envelhecimento](https://www.nexojornal.com.br/colunistas/2023/Um-coquetel-capaz-de-reverter-o-envelhecimento)
-- [As medidas do governo Lula para limitar os clubes de tiro](https://www.nexojornal.com.br/podcast/2023/07/26/As-medidas-do-governo-Lula-para-limitar-os-clubes-de-tiro)
-- [Juros nos EUA atingem maior nível desde 2001 após aumento do Fed](https://www.nexojornal.com.br/extra/2023/07/26/Juros-nos-EUA-atingem-maior-n%C3%ADvel-desde-2001-ap%C3%B3s-aumento-do-Fed)
-- [O rastro de mortes de indígenas durante o governo Bolsonaro](https://www.nexojornal.com.br/externo/2023/07/26/O-rastro-de-mortes-de-ind%C3%ADgenas-durante-o-governo-Bolsonaro)
+- [Apenas 12,6% dos quilombolas vivem em terras delimitadas](https://www.nexojornal.com.br/grafico/2023/07/27/Apenas-126-dos-quilombolas-vivem-em-terras-delimitadas)
+- [O que o Censo mostra sobre os 1,3 milhão de quilombolas no Brasil](https://www.nexojornal.com.br/expresso/2023/07/27/O-que-o-Censo-mostra-sobre-os-13-milh%C3%A3o-de-quilombolas-no-Brasil)
+- [Governo anuncia Marcio Pochmann no comando do IBGE](https://www.nexojornal.com.br/extra/2023/07/27/Governo-anuncia-Marcio-Pochmann-no-comando-do-IBGE)
+- [Por que o Equador vive sucessivas ondas de violência carcerária](https://www.nexojornal.com.br/expresso/2023/07/26/Por-que-o-Equador-vive-sucessivas-ondas-de-viol%C3%AAncia-carcer%C3%A1ria)
+- [O quanto do bom momento da bolsa pode se atribuir a Lula](https://www.nexojornal.com.br/expresso/2023/07/26/O-quanto-do-bom-momento-da-bolsa-pode-se-atribuir-a-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
