@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Julho das Pretas](https://pp.nexojornal.com.br/opiniao/2023/Julho-das-Pretas)
 - [O hibridismo racial no discurso oficial do Estado Novo](https://pp.nexojornal.com.br/academico/2023/O-hibridismo-racial-no-discurso-oficial-do-Estado-Novo)
 - [Arnoldo de Campos: por que a comida saudável está longe da mesa dos brasileiros](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/07/12/Arnoldo-de-Campos-por-que-a-comida-saud%C3%A1vel-est%C3%A1-longe-da-mesa-dos-brasileiros)
 - [A desigualdade racial no mercado de trabalho desde 2012](https://pp.nexojornal.com.br/Dados/2023/07/07/A-desigualdade-racial-no-mercado-de-trabalho-desde-2012)
 - [A resistência antimicrobiana, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-resist%C3%AAncia-antimicrobiana-em-12-pontos)
+- [Queda nas vagas de cotas das universidades públicas brasileiras, em 2021](https://pp.nexojornal.com.br/opiniao/2023/Queda-nas-vagas-de-cotas-das-universidades-p%C3%BAblicas-brasileiras-em-2021)
 <!-- PP_LIST:END -->
 
