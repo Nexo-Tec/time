@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Apenas 12,6% dos quilombolas vivem em terras delimitadas](https://www.nexojornal.com.br/grafico/2023/07/27/Apenas-126-dos-quilombolas-vivem-em-terras-delimitadas)
-- [O que o Censo mostra sobre os 1,3 milhão de quilombolas no Brasil](https://www.nexojornal.com.br/expresso/2023/07/27/O-que-o-Censo-mostra-sobre-os-13-milh%C3%A3o-de-quilombolas-no-Brasil)
-- [Governo anuncia Marcio Pochmann no comando do IBGE](https://www.nexojornal.com.br/extra/2023/07/27/Governo-anuncia-Marcio-Pochmann-no-comando-do-IBGE)
-- [Por que o Equador vive sucessivas ondas de violência carcerária](https://www.nexojornal.com.br/expresso/2023/07/26/Por-que-o-Equador-vive-sucessivas-ondas-de-viol%C3%AAncia-carcer%C3%A1ria)
-- [O quanto do bom momento da bolsa pode se atribuir a Lula](https://www.nexojornal.com.br/expresso/2023/07/26/O-quanto-do-bom-momento-da-bolsa-pode-se-atribuir-a-Lula)
+- [Bolsonaro recebeu R$ 17,2 milhões via Pix no 1º semestre, diz Coaf](https://www.nexojornal.com.br/extra/2023/07/27/Bolsonaro-recebeu-R-172-milh%C3%B5es-via-Pix-no-1%C2%BA-semestre-diz-Coaf)
+- [Por que a indicação do novo presidente do IBGE gera apreensão](https://www.nexojornal.com.br/expresso/2023/07/27/Por-que-a-indica%C3%A7%C3%A3o-do-novo-presidente-do-IBGE-gera-apreens%C3%A3o)
+- [Os clubes das jogadoras da Copa do Mundo de 2023](https://www.nexojornal.com.br/grafico/2023/07/27/Os-clubes-das-jogadoras-da-Copa-do-Mundo-de-2023)
+- [Por que o golpe no Níger pode beneficiar a Rússia na África](https://www.nexojornal.com.br/expresso/2023/07/27/Por-que-o-golpe-no-N%C3%ADger-pode-beneficiar-a-R%C3%BAssia-na-%C3%81frica)
+- [Aécio Neves é absolvido em processo da Lava Jato](https://www.nexojornal.com.br/extra/2023/07/27/A%C3%A9cio-Neves-%C3%A9-absolvido-em-processo-da-Lava-Jato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
