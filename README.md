@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Domingo é tempo para as piores conclusões](https://gamarevista.uol.com.br/colunistas/marilene-felinto/domingo-e-tempo-para-as-piores-conclusoes/)
 - [Laços &lpar;cortados&rpar; de família](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/lacos-cortados-de-familia/)
 - [Feminismos na tela grande](https://gamarevista.uol.com.br/achamos-que-vale/ir/feminismos-na-tela-grande/)
 - [O inédito trajeto da velejadora Tamara Klink](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-inedito-trajeto-da-velejadora-tamara-klink/)
 - [O Rei do Blues no MIS](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-rei-do-blues-no-mis/)
-- [Adeus às andanças de John Wilson por NY](https://gamarevista.uol.com.br/achamos-que-vale/assistir/adeus-as-andancas-de-john-wilson-por-ny/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
