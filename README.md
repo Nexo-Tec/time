@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE cobra Bolsonaro sobre uso eleitoral de atos de 7 de setembro](https://www.nexojornal.com.br/extra/2023/07/28/TSE-cobra-Bolsonaro-sobre-uso-eleitoral-de-atos-de-7-de-setembro)
-- [Com a palavra, as mulheres pretas](https://www.nexojornal.com.br/colunistas/2023/Com-a-palavra-as-mulheres-pretas)
-- [Saltador Thiago Braz é suspenso após teste antidoping](https://www.nexojornal.com.br/extra/2023/07/28/Saltador-Thiago-Braz-%C3%A9-suspenso-ap%C3%B3s-teste-antidoping)
-- [Natural ou ‘fake natty’? A explosão dos bodybuilders nas redes](https://www.nexojornal.com.br/expresso/2023/07/28/Natural-ou-%E2%80%98fake-natty%E2%80%99-A-explos%C3%A3o-dos-bodybuilders-nas-redes)
-- [Amazônia: por que o desmate cai, mas as queimadas crescem](https://www.nexojornal.com.br/expresso/2023/07/28/Amaz%C3%B4nia-por-que-o-desmate-cai-mas-as-queimadas-crescem)
+- [França vence Brasil por 2x1 em partida da Copa Feminina](https://www.nexojornal.com.br/extra/2023/07/29/Fran%C3%A7a-vence-Brasil-por-2x1-em-partida-da-Copa-Feminina)
+- [A apuração de responsabilidades pela explosão no Paraná](https://www.nexojornal.com.br/expresso/2023/07/28/A-apura%C3%A7%C3%A3o-de-responsabilidades-pela-explos%C3%A3o-no-Paran%C3%A1)
+- [O que pode mudar para a população de rua com a decisão do STF](https://www.nexojornal.com.br/expresso/2023/07/28/O-que-pode-mudar-para-a-popula%C3%A7%C3%A3o-de-rua-com-a-decis%C3%A3o-do-STF)
+- [‘Falar da Amazônia como território único reduz possibilidades’](https://www.nexojornal.com.br/entrevista/2023/07/28/%E2%80%98Falar-da-Amaz%C3%B4nia-como-territ%C3%B3rio-%C3%BAnico-reduz-possibilidades%E2%80%99)
+- [A luta anticorrupção no Brasil não pode ser um tabu](https://www.nexojornal.com.br/ensaio/2023/07/28/A-luta-anticorrup%C3%A7%C3%A3o-no-Brasil-n%C3%A3o-pode-ser-um-tabu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
