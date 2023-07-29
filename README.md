@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [TSE cobra Bolsonaro sobre uso eleitoral de atos de 7 de setembro](https://www.nexojornal.com.br/extra/2023/07/28/TSE-cobra-Bolsonaro-sobre-uso-eleitoral-de-atos-de-7-de-setembro)
-- [Com a palavra, as mulheres pretas](https://www.nexojornal.com.br/colunistas/2023/Com-a-palavra-as-mulheres-pretas)
-- [Saltador Thiago Braz é suspenso após teste antidoping](https://www.nexojornal.com.br/extra/2023/07/28/Saltador-Thiago-Braz-%C3%A9-suspenso-ap%C3%B3s-teste-antidoping)
-- [Natural ou ‘fake natty’? A explosão dos bodybuilders nas redes](https://www.nexojornal.com.br/expresso/2023/07/28/Natural-ou-%E2%80%98fake-natty%E2%80%99-A-explos%C3%A3o-dos-bodybuilders-nas-redes)
-- [Amazônia: por que o desmate cai, mas as queimadas crescem](https://www.nexojornal.com.br/expresso/2023/07/28/Amaz%C3%B4nia-por-que-o-desmate-cai-mas-as-queimadas-crescem)
+- [Desemprego no 2º trimestre cai a menor nível desde 2014](https://www.nexojornal.com.br/extra/2023/07/28/Desemprego-no-2%C2%BA-trimestre-cai-a-menor-n%C3%ADvel-desde-2014)
+- [Bolsonaro recebeu R$ 17,2 milhões via Pix no 1º semestre, diz Coaf](https://www.nexojornal.com.br/extra/2023/07/27/Bolsonaro-recebeu-R-172-milh%C3%B5es-via-Pix-no-1%C2%BA-semestre-diz-Coaf)
+- [Por que a indicação do novo presidente do IBGE gera apreensão](https://www.nexojornal.com.br/expresso/2023/07/27/Por-que-a-indica%C3%A7%C3%A3o-do-novo-presidente-do-IBGE-gera-apreens%C3%A3o)
+- [Os clubes das jogadoras da Copa do Mundo de 2023](https://www.nexojornal.com.br/grafico/2023/07/27/Os-clubes-das-jogadoras-da-Copa-do-Mundo-de-2023)
+- [Por que o golpe no Níger pode beneficiar a Rússia na África](https://www.nexojornal.com.br/expresso/2023/07/27/Por-que-o-golpe-no-N%C3%ADger-pode-beneficiar-a-R%C3%BAssia-na-%C3%81frica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
