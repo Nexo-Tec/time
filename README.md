@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Explosão de bomba no Paquistão deixa ao menos 42 mortos](https://www.nexojornal.com.br/extra/2023/07/30/Explos%C3%A3o-de-bomba-no-Paquist%C3%A3o-deixa-ao-menos-42-mortos)
 - [União Europeia corta apoio ao Níger após golpe de Estado](https://www.nexojornal.com.br/extra/2023/07/29/Uni%C3%A3o-Europeia-corta-apoio-ao-N%C3%ADger-ap%C3%B3s-golpe-de-Estado)
 - [5 livros para mapear a poesia contemporânea brasileira](https://www.nexojornal.com.br/estante/favoritos/2023/07/29/5-livros-para-mapear-a-poesia-contempor%C3%A2nea-brasileira)
 - [A rede que busca impulsionar grupos de coletores de sementes](https://www.nexojornal.com.br/expresso/2023/07/29/A-rede-que-busca-impulsionar-grupos-de-coletores-de-sementes)
 - [O imbróglio sobre o destino do espião russo preso no Brasil](https://www.nexojornal.com.br/expresso/2023/07/29/O-imbr%C3%B3glio-sobre-o-destino-do-espi%C3%A3o-russo-preso-no-Brasil)
-- [‘Brasileiros ainda não conseguem admitir discriminação’](https://www.nexojornal.com.br/entrevista/2023/07/29/%E2%80%98Brasileiros-ainda-n%C3%A3o-conseguem-admitir-discrimina%C3%A7%C3%A3o%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
