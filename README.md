@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Barbienheimer’: dois mundos que deveriam se conectar](https://www.nexojornal.com.br/ensaio/2023/07/29/%E2%80%98Barbienheimer%E2%80%99-dois-mundos-que-deveriam-se-conectar)
-- [Quais as formas de taxar os mais ricos. E os entraves para elas](https://www.nexojornal.com.br/expresso/2023/07/29/Quais-as-formas-de-taxar-os-mais-ricos.-E-os-entraves-para-elas)
-- [França vence Brasil por 2x1 em partida da Copa Feminina](https://www.nexojornal.com.br/extra/2023/07/29/Fran%C3%A7a-vence-Brasil-por-2x1-em-partida-da-Copa-Feminina)
-- [A apuração de responsabilidades pela explosão no Paraná](https://www.nexojornal.com.br/expresso/2023/07/28/A-apura%C3%A7%C3%A3o-de-responsabilidades-pela-explos%C3%A3o-no-Paran%C3%A1)
-- [O que pode mudar para a população de rua com a decisão do STF](https://www.nexojornal.com.br/expresso/2023/07/28/O-que-pode-mudar-para-a-popula%C3%A7%C3%A3o-de-rua-com-a-decis%C3%A3o-do-STF)
+- [Explosão de bomba no Paquistão deixa ao menos 42 mortos](https://www.nexojornal.com.br/extra/2023/07/30/Explos%C3%A3o-de-bomba-no-Paquist%C3%A3o-deixa-ao-menos-42-mortos)
+- [União Europeia corta apoio ao Níger após golpe de Estado](https://www.nexojornal.com.br/extra/2023/07/29/Uni%C3%A3o-Europeia-corta-apoio-ao-N%C3%ADger-ap%C3%B3s-golpe-de-Estado)
+- [5 livros para mapear a poesia contemporânea brasileira](https://www.nexojornal.com.br/estante/favoritos/2023/07/29/5-livros-para-mapear-a-poesia-contempor%C3%A2nea-brasileira)
+- [A rede que busca impulsionar grupos de coletores de sementes](https://www.nexojornal.com.br/expresso/2023/07/29/A-rede-que-busca-impulsionar-grupos-de-coletores-de-sementes)
+- [O imbróglio sobre o destino do espião russo preso no Brasil](https://www.nexojornal.com.br/expresso/2023/07/29/O-imbr%C3%B3glio-sobre-o-destino-do-espi%C3%A3o-russo-preso-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
