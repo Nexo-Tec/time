@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Explosão de bomba no Paquistão deixa ao menos 42 mortos](https://www.nexojornal.com.br/extra/2023/07/30/Explos%C3%A3o-de-bomba-no-Paquist%C3%A3o-deixa-ao-menos-42-mortos)
-- [União Europeia corta apoio ao Níger após golpe de Estado](https://www.nexojornal.com.br/extra/2023/07/29/Uni%C3%A3o-Europeia-corta-apoio-ao-N%C3%ADger-ap%C3%B3s-golpe-de-Estado)
-- [5 livros para mapear a poesia contemporânea brasileira](https://www.nexojornal.com.br/estante/favoritos/2023/07/29/5-livros-para-mapear-a-poesia-contempor%C3%A2nea-brasileira)
-- [A rede que busca impulsionar grupos de coletores de sementes](https://www.nexojornal.com.br/expresso/2023/07/29/A-rede-que-busca-impulsionar-grupos-de-coletores-de-sementes)
-- [O imbróglio sobre o destino do espião russo preso no Brasil](https://www.nexojornal.com.br/expresso/2023/07/29/O-imbr%C3%B3glio-sobre-o-destino-do-espi%C3%A3o-russo-preso-no-Brasil)
+- [Rede alemã embute custo sanitário e ambiental em alimentos](https://www.nexojornal.com.br/extra/2023/07/31/Rede-alem%C3%A3-embute-custo-sanit%C3%A1rio-e-ambiental-em-alimentos)
+- [MST volta a invadir área da Embrapa em Pernambuco](https://www.nexojornal.com.br/extra/2023/07/31/MST-volta-a-invadir-%C3%A1rea-da-Embrapa-em-Pernambuco)
+- [Tarcísio contraria Ouvidoria e diz que 8 morreram em Guarujá](https://www.nexojornal.com.br/extra/2023/07/31/Tarc%C3%ADsio-contraria-Ouvidoria-e-diz-que-8-morreram-em-Guaruj%C3%A1)
+- [O protagonismo e as urgências da infância no século 21](https://www.nexojornal.com.br/explicado/2023/07/30/O-protagonismo-e-as-urg%C3%AAncias-da-inf%C3%A2ncia-no-s%C3%A9culo-21)
+- [Como desfazer o ‘manicômio tributário’ dos combustíveis](https://www.nexojornal.com.br/ensaio/2023/07/30/Como-desfazer-o-%E2%80%98manic%C3%B4mio-tribut%C3%A1rio%E2%80%99-dos-combust%C3%ADveis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
