@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O protagonismo e as urgências da infância no século 21](https://www.nexojornal.com.br/explicado/2023/07/30/O-protagonismo-e-as-urg%C3%AAncias-da-inf%C3%A2ncia-no-s%C3%A9culo-21)
-- [Como desfazer o ‘manicômio tributário’ dos combustíveis](https://www.nexojornal.com.br/ensaio/2023/07/30/Como-desfazer-o-%E2%80%98manic%C3%B4mio-tribut%C3%A1rio%E2%80%99-dos-combust%C3%ADveis)
-- [O que são salas de uso. E qual seu papel na reabilitação das drogas](https://www.nexojornal.com.br/expresso/2023/07/30/O-que-s%C3%A3o-salas-de-uso.-E-qual-seu-papel-na-reabilita%C3%A7%C3%A3o-das-drogas)
-- [Lei Anticorrupção: o balanço entre punir e colaborar em 10 anos](https://www.nexojornal.com.br/expresso/2023/07/30/Lei-Anticorrup%C3%A7%C3%A3o-o-balan%C3%A7o-entre-punir-e-colaborar-em-10-anos)
-- [Como a crise climática ameaça o cultivo do açaí](https://www.nexojornal.com.br/externo/2023/07/30/Como-a-crise-clim%C3%A1tica-amea%C3%A7a-o-cultivo-do-a%C3%A7a%C3%AD)
+- [Explosão de bomba no Paquistão deixa ao menos 42 mortos](https://www.nexojornal.com.br/extra/2023/07/30/Explos%C3%A3o-de-bomba-no-Paquist%C3%A3o-deixa-ao-menos-42-mortos)
+- [União Europeia corta apoio ao Níger após golpe de Estado](https://www.nexojornal.com.br/extra/2023/07/29/Uni%C3%A3o-Europeia-corta-apoio-ao-N%C3%ADger-ap%C3%B3s-golpe-de-Estado)
+- [5 livros para mapear a poesia contemporânea brasileira](https://www.nexojornal.com.br/estante/favoritos/2023/07/29/5-livros-para-mapear-a-poesia-contempor%C3%A2nea-brasileira)
+- [A rede que busca impulsionar grupos de coletores de sementes](https://www.nexojornal.com.br/expresso/2023/07/29/A-rede-que-busca-impulsionar-grupos-de-coletores-de-sementes)
+- [O imbróglio sobre o destino do espião russo preso no Brasil](https://www.nexojornal.com.br/expresso/2023/07/29/O-imbr%C3%B3glio-sobre-o-destino-do-espi%C3%A3o-russo-preso-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
