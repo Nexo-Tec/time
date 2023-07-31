@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rede alemã embute custo sanitário e ambiental em alimentos](https://www.nexojornal.com.br/extra/2023/07/31/Rede-alem%C3%A3-embute-custo-sanit%C3%A1rio-e-ambiental-em-alimentos)
-- [MST volta a invadir área da Embrapa em Pernambuco](https://www.nexojornal.com.br/extra/2023/07/31/MST-volta-a-invadir-%C3%A1rea-da-Embrapa-em-Pernambuco)
-- [Tarcísio contraria Ouvidoria e diz que 8 morreram em Guarujá](https://www.nexojornal.com.br/extra/2023/07/31/Tarc%C3%ADsio-contraria-Ouvidoria-e-diz-que-8-morreram-em-Guaruj%C3%A1)
 - [O protagonismo e as urgências da infância no século 21](https://www.nexojornal.com.br/explicado/2023/07/30/O-protagonismo-e-as-urg%C3%AAncias-da-inf%C3%A2ncia-no-s%C3%A9culo-21)
 - [Como desfazer o ‘manicômio tributário’ dos combustíveis](https://www.nexojornal.com.br/ensaio/2023/07/30/Como-desfazer-o-%E2%80%98manic%C3%B4mio-tribut%C3%A1rio%E2%80%99-dos-combust%C3%ADveis)
+- [O que são salas de uso. E qual seu papel na reabilitação das drogas](https://www.nexojornal.com.br/expresso/2023/07/30/O-que-s%C3%A3o-salas-de-uso.-E-qual-seu-papel-na-reabilita%C3%A7%C3%A3o-das-drogas)
+- [Lei Anticorrupção: o balanço entre punir e colaborar em 10 anos](https://www.nexojornal.com.br/expresso/2023/07/30/Lei-Anticorrup%C3%A7%C3%A3o-o-balan%C3%A7o-entre-punir-e-colaborar-em-10-anos)
+- [Como a crise climática ameaça o cultivo do açaí](https://www.nexojornal.com.br/externo/2023/07/30/Como-a-crise-clim%C3%A1tica-amea%C3%A7a-o-cultivo-do-a%C3%A7a%C3%AD)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
