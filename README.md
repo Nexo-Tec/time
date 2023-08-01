@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As suspeitas contra o filho do presidente da Colômbia](https://www.nexojornal.com.br/expresso/2023/07/31/As-suspeitas-contra-o-filho-do-presidente-da-Col%C3%B4mbia)
-- [Santo Graal da energia: a corrida pelos supercondutores](https://www.nexojornal.com.br/expresso/2023/07/31/Santo-Graal-da-energia-a-corrida-pelos-supercondutores)
 - [Por que menos gente procura emprego depois da pandemia](https://www.nexojornal.com.br/expresso/2023/07/31/Por-que-menos-gente-procura-emprego-depois-da-pandemia)
 - [Franuí: o disputado doce argentino que viralizou no TikTok](https://www.nexojornal.com.br/expresso/2023/07/31/Franu%C3%AD-o-disputado-doce-argentino-que-viralizou-no-TikTok)
 - [Policiais da Bahia matam 15 pessoas em duas operações](https://www.nexojornal.com.br/extra/2023/07/31/Policiais-da-Bahia-matam-15-pessoas-em-duas-opera%C3%A7%C3%B5es)
+- [Um governador muito ‘satisfeito’ com a ação letal da PM no litoral](https://www.nexojornal.com.br/podcast/2023/07/31/Um-governador-muito-%E2%80%98satisfeito%E2%80%99-com-a-a%C3%A7%C3%A3o-letal-da-PM-no-litoral)
+- [O anel que Tupac desenhou inspirado em Maquiavel](https://www.nexojornal.com.br/expresso/2023/07/31/O-anel-que-Tupac-desenhou-inspirado-em-Maquiavel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
