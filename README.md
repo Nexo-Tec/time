@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rede alemã embute custo sanitário e ambiental em alimentos](https://www.nexojornal.com.br/extra/2023/07/31/Rede-alem%C3%A3-embute-custo-sanit%C3%A1rio-e-ambiental-em-alimentos)
-- [MST volta a invadir área da Embrapa em Pernambuco](https://www.nexojornal.com.br/extra/2023/07/31/MST-volta-a-invadir-%C3%A1rea-da-Embrapa-em-Pernambuco)
-- [Tarcísio contraria Ouvidoria e diz que 8 morreram em Guarujá](https://www.nexojornal.com.br/extra/2023/07/31/Tarc%C3%ADsio-contraria-Ouvidoria-e-diz-que-8-morreram-em-Guaruj%C3%A1)
-- [O protagonismo e as urgências da infância no século 21](https://www.nexojornal.com.br/explicado/2023/07/30/O-protagonismo-e-as-urg%C3%AAncias-da-inf%C3%A2ncia-no-s%C3%A9culo-21)
-- [Como desfazer o ‘manicômio tributário’ dos combustíveis](https://www.nexojornal.com.br/ensaio/2023/07/30/Como-desfazer-o-%E2%80%98manic%C3%B4mio-tribut%C3%A1rio%E2%80%99-dos-combust%C3%ADveis)
+- [Por que menos gente procura emprego depois da pandemia](https://www.nexojornal.com.br/expresso/2023/07/31/Por-que-menos-gente-procura-emprego-depois-da-pandemia)
+- [Franuí: o disputado doce argentino que viralizou no TikTok](https://www.nexojornal.com.br/expresso/2023/07/31/Franu%C3%AD-o-disputado-doce-argentino-que-viralizou-no-TikTok)
+- [Policiais da Bahia matam 15 pessoas em duas operações](https://www.nexojornal.com.br/extra/2023/07/31/Policiais-da-Bahia-matam-15-pessoas-em-duas-opera%C3%A7%C3%B5es)
+- [Um governador muito ‘satisfeito’ com a ação letal da PM no litoral](https://www.nexojornal.com.br/podcast/2023/07/31/Um-governador-muito-%E2%80%98satisfeito%E2%80%99-com-a-a%C3%A7%C3%A3o-letal-da-PM-no-litoral)
+- [O anel que Tupac desenhou inspirado em Maquiavel](https://www.nexojornal.com.br/expresso/2023/07/31/O-anel-que-Tupac-desenhou-inspirado-em-Maquiavel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
