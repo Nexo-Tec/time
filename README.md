@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lira adia votação de regra fiscal à espera de ministérios](https://www.nexojornal.com.br/extra/2023/08/01/Lira-adia-vota%C3%A7%C3%A3o-de-regra-fiscal-%C3%A0-espera-de-minist%C3%A9rios)
-- [Procurador acusa Trump de conspiração para fraudar eleição](https://www.nexojornal.com.br/extra/2023/08/01/Procurador-acusa-Trump-de-conspira%C3%A7%C3%A3o-para-fraudar-elei%C3%A7%C3%A3o)
-- [Santos e Corinthians são os clubes com mais jogadoras na Copa](https://www.nexojornal.com.br/grafico/2023/08/01/Santos-e-Corinthians-s%C3%A3o-os-clubes-com-mais-jogadoras-na-Copa)
-- [Supremo é unânime ao vetar tese de ‘legítima defesa da honra’](https://www.nexojornal.com.br/extra/2023/08/01/Supremo-%C3%A9-un%C3%A2nime-ao-vetar-tese-de-%E2%80%98leg%C3%ADtima-defesa-da-honra%E2%80%99)
-- [A cidade nigeriana que prosperou por mil anos](https://www.nexojornal.com.br/externo/2023/08/01/A-cidade-nigeriana-que-prosperou-por-mil-anos)
+- [PF faz buscas na casa de Zambelli e prende hacker da Vaza Jato](https://www.nexojornal.com.br/extra/2023/08/02/PF-faz-buscas-na-casa-de-Zambelli-e-prende-hacker-da-Vaza-Jato)
+- [Brasil empata com a Jamaica e é eliminado da Copa Feminina](https://www.nexojornal.com.br/extra/2023/08/02/Brasil-empata-com-a-Jamaica-e-%C3%A9-eliminado-da-Copa-Feminina)
+- [Batata-quente: o que cada órgão diz sobre o 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/08/02/Batata-quente-o-que-cada-%C3%B3rg%C3%A3o-diz-sobre-o-8-de-janeiro)
+- [Como a queima de Alcorões mobiliza países escandinavos](https://www.nexojornal.com.br/expresso/2023/08/01/Como-a-queima-de-Alcor%C3%B5es-mobiliza-pa%C3%ADses-escandinavos)
+- [Coalizões para impulsionar mudanças sociais positivas](https://www.nexojornal.com.br/colunistas/2023/Coaliz%C3%B5es-para-impulsionar-mudan%C3%A7as-sociais-positivas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
