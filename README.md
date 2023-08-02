@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dira Paes](https://gamarevista.uol.com.br/pessoas/questionario-proust/dira-paes/)
 - [Panela elétrica de arroz Micom](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-eletrica-de-arroz-micom/)
 - [Maria Stockler Carvalhosa e Daniela Thomas: “O audiolivro dá foco de presente”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-stockler-carvalhosa-e-daniela-thomas-audiolivro-supersonica-literatura/)
 - [CV: Renata Mendonça](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renata-mendonca/)
 - [As Pequenas Doenças da Eternidade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-pequenas-doencas-da-eternidade/)
-- [Domingo é tempo para as piores conclusões](https://gamarevista.uol.com.br/colunistas/marilene-felinto/domingo-e-tempo-para-as-piores-conclusoes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
