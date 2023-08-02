@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As suspeitas contra o filho do presidente da Colômbia](https://www.nexojornal.com.br/expresso/2023/07/31/As-suspeitas-contra-o-filho-do-presidente-da-Col%C3%B4mbia)
-- [Santo Graal da energia: a corrida pelos supercondutores](https://www.nexojornal.com.br/expresso/2023/07/31/Santo-Graal-da-energia-a-corrida-pelos-supercondutores)
-- [Por que menos gente procura emprego depois da pandemia](https://www.nexojornal.com.br/expresso/2023/07/31/Por-que-menos-gente-procura-emprego-depois-da-pandemia)
-- [Franuí: o disputado doce argentino que viralizou no TikTok](https://www.nexojornal.com.br/expresso/2023/07/31/Franu%C3%AD-o-disputado-doce-argentino-que-viralizou-no-TikTok)
-- [Policiais da Bahia matam 15 pessoas em duas operações](https://www.nexojornal.com.br/extra/2023/07/31/Policiais-da-Bahia-matam-15-pessoas-em-duas-opera%C3%A7%C3%B5es)
+- [Coalizões para impulsionar mudanças sociais positivas](https://www.nexojornal.com.br/colunistas/2023/Coaliz%C3%B5es-para-impulsionar-mudan%C3%A7as-sociais-positivas)
+- [A tentativa de privatizar a Sabesp. E os entraves históricos](https://www.nexojornal.com.br/expresso/2023/08/01/A-tentativa-de-privatizar-a-Sabesp.-E-os-entraves-hist%C3%B3ricos)
+- [Shein, Shopee e AliExpress: as novas regras de importação](https://www.nexojornal.com.br/podcast/2023/08/01/Shein-Shopee-e-AliExpress-as-novas-regras-de-importa%C3%A7%C3%A3o)
+- [Lira adia votação de regra fiscal à espera de ministérios](https://www.nexojornal.com.br/extra/2023/08/01/Lira-adia-vota%C3%A7%C3%A3o-de-regra-fiscal-%C3%A0-espera-de-minist%C3%A9rios)
+- [Procurador acusa Trump de conspiração para fraudar eleição](https://www.nexojornal.com.br/extra/2023/08/01/Procurador-acusa-Trump-de-conspira%C3%A7%C3%A3o-para-fraudar-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
