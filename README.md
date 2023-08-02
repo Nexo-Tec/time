@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Seiji Isotani: inteligência artificial aplicada à educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/01/Seiji-Isotani-intelig%C3%AAncia-artificial-aplicada-%C3%A0-educa%C3%A7%C3%A3o)
+- [Desigualdades e participação](https://pp.nexojornal.com.br/bibliografia-basica/2023/08/01/Desigualdades-e-participa%C3%A7%C3%A3o)
+- [Eventos extremos: a quem clamar?](https://pp.nexojornal.com.br/opiniao/2023/Eventos-extremos-a-quem-clamar)
 - [Julho das Pretas](https://pp.nexojornal.com.br/opiniao/2023/Julho-das-Pretas)
 - [O hibridismo racial no discurso oficial do Estado Novo](https://pp.nexojornal.com.br/academico/2023/O-hibridismo-racial-no-discurso-oficial-do-Estado-Novo)
-- [Arnoldo de Campos: por que a comida saudável está longe da mesa dos brasileiros](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/07/12/Arnoldo-de-Campos-por-que-a-comida-saud%C3%A1vel-est%C3%A1-longe-da-mesa-dos-brasileiros)
-- [A desigualdade racial no mercado de trabalho desde 2012](https://pp.nexojornal.com.br/Dados/2023/07/07/A-desigualdade-racial-no-mercado-de-trabalho-desde-2012)
-- [A resistência antimicrobiana, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/A-resist%C3%AAncia-antimicrobiana-em-12-pontos)
 <!-- PP_LIST:END -->
 
