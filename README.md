@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF faz buscas na casa de Zambelli e prende hacker da Vaza Jato](https://www.nexojornal.com.br/extra/2023/08/02/PF-faz-buscas-na-casa-de-Zambelli-e-prende-hacker-da-Vaza-Jato)
+- [Brasil empata com a Jamaica e é eliminado da Copa Feminina](https://www.nexojornal.com.br/extra/2023/08/02/Brasil-empata-com-a-Jamaica-e-%C3%A9-eliminado-da-Copa-Feminina)
+- [Batata-quente: o que cada órgão diz sobre o 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/08/02/Batata-quente-o-que-cada-%C3%B3rg%C3%A3o-diz-sobre-o-8-de-janeiro)
+- [Como a queima de Alcorões mobiliza países escandinavos](https://www.nexojornal.com.br/expresso/2023/08/01/Como-a-queima-de-Alcor%C3%B5es-mobiliza-pa%C3%ADses-escandinavos)
 - [Coalizões para impulsionar mudanças sociais positivas](https://www.nexojornal.com.br/colunistas/2023/Coaliz%C3%B5es-para-impulsionar-mudan%C3%A7as-sociais-positivas)
-- [A tentativa de privatizar a Sabesp. E os entraves históricos](https://www.nexojornal.com.br/expresso/2023/08/01/A-tentativa-de-privatizar-a-Sabesp.-E-os-entraves-hist%C3%B3ricos)
-- [Shein, Shopee e AliExpress: as novas regras de importação](https://www.nexojornal.com.br/podcast/2023/08/01/Shein-Shopee-e-AliExpress-as-novas-regras-de-importa%C3%A7%C3%A3o)
-- [Lira adia votação de regra fiscal à espera de ministérios](https://www.nexojornal.com.br/extra/2023/08/01/Lira-adia-vota%C3%A7%C3%A3o-de-regra-fiscal-%C3%A0-espera-de-minist%C3%A9rios)
-- [Procurador acusa Trump de conspiração para fraudar eleição](https://www.nexojornal.com.br/extra/2023/08/01/Procurador-acusa-Trump-de-conspira%C3%A7%C3%A3o-para-fraudar-elei%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
