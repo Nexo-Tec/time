@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Coalizões para impulsionar mudanças sociais positivas](https://www.nexojornal.com.br/colunistas/2023/Coaliz%C3%B5es-para-impulsionar-mudan%C3%A7as-sociais-positivas)
+- [A tentativa de privatizar a Sabesp. E os entraves históricos](https://www.nexojornal.com.br/expresso/2023/08/01/A-tentativa-de-privatizar-a-Sabesp.-E-os-entraves-hist%C3%B3ricos)
+- [Shein, Shopee e AliExpress: as novas regras de importação](https://www.nexojornal.com.br/podcast/2023/08/01/Shein-Shopee-e-AliExpress-as-novas-regras-de-importa%C3%A7%C3%A3o)
 - [Lira adia votação de regra fiscal à espera de ministérios](https://www.nexojornal.com.br/extra/2023/08/01/Lira-adia-vota%C3%A7%C3%A3o-de-regra-fiscal-%C3%A0-espera-de-minist%C3%A9rios)
 - [Procurador acusa Trump de conspiração para fraudar eleição](https://www.nexojornal.com.br/extra/2023/08/01/Procurador-acusa-Trump-de-conspira%C3%A7%C3%A3o-para-fraudar-elei%C3%A7%C3%A3o)
-- [Santos e Corinthians são os clubes com mais jogadoras na Copa](https://www.nexojornal.com.br/grafico/2023/08/01/Santos-e-Corinthians-s%C3%A3o-os-clubes-com-mais-jogadoras-na-Copa)
-- [Supremo é unânime ao vetar tese de ‘legítima defesa da honra’](https://www.nexojornal.com.br/extra/2023/08/01/Supremo-%C3%A9-un%C3%A2nime-ao-vetar-tese-de-%E2%80%98leg%C3%ADtima-defesa-da-honra%E2%80%99)
-- [A cidade nigeriana que prosperou por mil anos](https://www.nexojornal.com.br/externo/2023/08/01/A-cidade-nigeriana-que-prosperou-por-mil-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
