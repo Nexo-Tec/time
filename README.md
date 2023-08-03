@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF faz buscas na casa de Zambelli e prende hacker da Vaza Jato](https://www.nexojornal.com.br/extra/2023/08/02/PF-faz-buscas-na-casa-de-Zambelli-e-prende-hacker-da-Vaza-Jato)
-- [Brasil empata com a Jamaica e é eliminado da Copa Feminina](https://www.nexojornal.com.br/extra/2023/08/02/Brasil-empata-com-a-Jamaica-e-%C3%A9-eliminado-da-Copa-Feminina)
-- [Batata-quente: o que cada órgão diz sobre o 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/08/02/Batata-quente-o-que-cada-%C3%B3rg%C3%A3o-diz-sobre-o-8-de-janeiro)
-- [Como a queima de Alcorões mobiliza países escandinavos](https://www.nexojornal.com.br/expresso/2023/08/01/Como-a-queima-de-Alcor%C3%B5es-mobiliza-pa%C3%ADses-escandinavos)
-- [Coalizões para impulsionar mudanças sociais positivas](https://www.nexojornal.com.br/colunistas/2023/Coaliz%C3%B5es-para-impulsionar-mudan%C3%A7as-sociais-positivas)
+- [Os discos voadores estão de volta, e há razões para comemorar](https://www.nexojornal.com.br/colunistas/2023/Os-discos-voadores-est%C3%A3o-de-volta-e-h%C3%A1-raz%C3%B5es-para-comemorar)
+- [Moraes multa Monark e determina abertura de investigação](https://www.nexojornal.com.br/extra/2023/08/02/Moraes-multa-Monark-e-determina-abertura-de-investiga%C3%A7%C3%A3o)
+- [Fotos de gatos eram comuns antigamente. Não como você pensa](https://www.nexojornal.com.br/expresso/2023/08/02/Fotos-de-gatos-eram-comuns-antigamente.-N%C3%A3o-como-voc%C3%AA-pensa)
+- [O campeão de boliche que joga a bola com as duas mãos](https://www.nexojornal.com.br/expresso/2023/08/02/O-campe%C3%A3o-de-boliche-que-joga-a-bola-com-as-duas-m%C3%A3os)
+- [Após um ano, Banco Central corta taxa de juros para 13,25%](https://www.nexojornal.com.br/extra/2023/08/02/Ap%C3%B3s-um-ano-Banco-Central-corta-taxa-de-juros-para-1325)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
