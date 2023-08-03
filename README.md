@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Dira Paes](https://gamarevista.uol.com.br/pessoas/questionario-proust/dira-paes/)
-- [Panela elétrica de arroz Micom](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-eletrica-de-arroz-micom/)
-- [Maria Stockler Carvalhosa e Daniela Thomas: “O audiolivro dá foco de presente”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/maria-stockler-carvalhosa-e-daniela-thomas-audiolivro-supersonica-literatura/)
-- [CV: Renata Mendonça](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renata-mendonca/)
-- [As Pequenas Doenças da Eternidade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-pequenas-doencas-da-eternidade/)
+- [Podcast com histórias de leitores, escritores e livreiros](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-livraria-megafauna/)
+- [FBC e seu novo álbum &lpar;já&rpar; mítico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/fbc-album-mitico/)
+- [Quem é Alexandre de Moraes em seis episódios](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-alexandre-de-moraes/)
+- [Uma revolta literária no centro do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ler/ondem-pastam-os-minotauros/)
+- [Dilemas na segunda temporada de “Heartstopper”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segunda-temporada-heartstopper/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
