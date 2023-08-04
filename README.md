@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual é o lugar do material didático digital no ensino](https://www.nexojornal.com.br/expresso/2023/08/03/Qual-%C3%A9-o-lugar-do-material-did%C3%A1tico-digital-no-ensino)
-- [Como formar leitores capazes de fazer perguntas inquietas?](https://www.nexojornal.com.br/colunistas/2023/Como-formar-leitores-capazes-de-fazer-perguntas-inquietas)
-- [Quais os indícios de excesso da polícia na Baixada Santista](https://www.nexojornal.com.br/expresso/2023/08/03/Quais-os-ind%C3%ADcios-de-excesso-da-pol%C3%ADcia-na-Baixada-Santista)
-- [A reforma tributária está no Senado. O que pode mudar](https://www.nexojornal.com.br/expresso/2023/08/03/A-reforma-tribut%C3%A1ria-est%C3%A1-no-Senado.-O-que-pode-mudar)
-- [PF prende suspeito de ser um dos maiores grileiros da Amazônia](https://www.nexojornal.com.br/extra/2023/08/03/PF-prende-suspeito-de-ser-um-dos-maiores-grileiros-da-Amaz%C3%B4nia)
+- [A coleção de arte digital assinada por indígenas Yawanawá](https://www.nexojornal.com.br/expresso/2023/08/03/A-cole%C3%A7%C3%A3o-de-arte-digital-assinada-por-ind%C3%ADgenas-Yawanaw%C3%A1)
+- [População de micos-leões-dourados cresceu 30% desde 2013](https://www.nexojornal.com.br/externo/2023/08/03/Popula%C3%A7%C3%A3o-de-micos-le%C3%B5es-dourados-cresceu-30-desde-2013)
+- [Zanin no Supremo: próximo de Lula, longe da Lava Jato](https://www.nexojornal.com.br/podcast/2023/08/03/Zanin-no-Supremo-pr%C3%B3ximo-de-Lula-longe-da-Lava-Jato)
+- [CPI do 8 de janeiro quebra sigilo de Cid, Torres e militares](https://www.nexojornal.com.br/extra/2023/08/03/CPI-do-8-de-janeiro-quebra-sigilo-de-Cid-Torres-e-militares)
+- [Deputado faz comentário machista e gordofóbico em CPI](https://www.nexojornal.com.br/extra/2023/08/03/Deputado-faz-coment%C3%A1rio-machista-e-gordof%C3%B3bico-em-CPI)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
