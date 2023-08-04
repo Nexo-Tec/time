@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Os Perigos de Fumar na Cama](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-perigos-de-fumar-na-cama/)
 - [Podcast com histórias de leitores, escritores e livreiros](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-livraria-megafauna/)
 - [FBC e seu novo álbum &lpar;já&rpar; mítico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/fbc-album-mitico/)
 - [Quem é Alexandre de Moraes em seis episódios](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-alexandre-de-moraes/)
 - [Uma revolta literária no centro do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ler/ondem-pastam-os-minotauros/)
-- [Dilemas na segunda temporada de “Heartstopper”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segunda-temporada-heartstopper/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
