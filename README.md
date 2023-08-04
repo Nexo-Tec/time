@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os ‘caveirões’ do narcotráfico na guerra de cartéis no México](https://www.nexojornal.com.br/expresso/2023/08/02/Os-%E2%80%98caveir%C3%B5es%E2%80%99-do-narcotr%C3%A1fico-na-guerra-de-cart%C3%A9is-no-M%C3%A9xico)
-- [Quais os efeitos de baixar os juros só depois de um ano](https://www.nexojornal.com.br/expresso/2023/08/02/Quais-os-efeitos-de-baixar-os-juros-s%C3%B3-depois-de-um-ano)
-- [Por que a Copa Feminina deu errado para o Brasil](https://www.nexojornal.com.br/expresso/2023/08/02/Por-que-a-Copa-Feminina-deu-errado-para-o-Brasil)
-- [Os discos voadores estão de volta, e há razões para comemorar](https://www.nexojornal.com.br/colunistas/2023/Os-discos-voadores-est%C3%A3o-de-volta-e-h%C3%A1-raz%C3%B5es-para-comemorar)
-- [Moraes multa Monark e determina abertura de investigação](https://www.nexojornal.com.br/extra/2023/08/02/Moraes-multa-Monark-e-determina-abertura-de-investiga%C3%A7%C3%A3o)
+- [Qual é o lugar do material didático digital no ensino](https://www.nexojornal.com.br/expresso/2023/08/03/Qual-%C3%A9-o-lugar-do-material-did%C3%A1tico-digital-no-ensino)
+- [Como formar leitores capazes de fazer perguntas inquietas?](https://www.nexojornal.com.br/colunistas/2023/Como-formar-leitores-capazes-de-fazer-perguntas-inquietas)
+- [Quais os indícios de excesso da polícia na Baixada Santista](https://www.nexojornal.com.br/expresso/2023/08/03/Quais-os-ind%C3%ADcios-de-excesso-da-pol%C3%ADcia-na-Baixada-Santista)
+- [A reforma tributária está no Senado. O que pode mudar](https://www.nexojornal.com.br/expresso/2023/08/03/A-reforma-tribut%C3%A1ria-est%C3%A1-no-Senado.-O-que-pode-mudar)
+- [PF prende suspeito de ser um dos maiores grileiros da Amazônia](https://www.nexojornal.com.br/extra/2023/08/03/PF-prende-suspeito-de-ser-um-dos-maiores-grileiros-da-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
