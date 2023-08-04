@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A coleção de arte digital assinada por indígenas Yawanawá](https://www.nexojornal.com.br/expresso/2023/08/03/A-cole%C3%A7%C3%A3o-de-arte-digital-assinada-por-ind%C3%ADgenas-Yawanaw%C3%A1)
-- [População de micos-leões-dourados cresceu 30% desde 2013](https://www.nexojornal.com.br/externo/2023/08/03/Popula%C3%A7%C3%A3o-de-micos-le%C3%B5es-dourados-cresceu-30-desde-2013)
-- [Zanin no Supremo: próximo de Lula, longe da Lava Jato](https://www.nexojornal.com.br/podcast/2023/08/03/Zanin-no-Supremo-pr%C3%B3ximo-de-Lula-longe-da-Lava-Jato)
-- [CPI do 8 de janeiro quebra sigilo de Cid, Torres e militares](https://www.nexojornal.com.br/extra/2023/08/03/CPI-do-8-de-janeiro-quebra-sigilo-de-Cid-Torres-e-militares)
-- [Deputado faz comentário machista e gordofóbico em CPI](https://www.nexojornal.com.br/extra/2023/08/03/Deputado-faz-coment%C3%A1rio-machista-e-gordof%C3%B3bico-em-CPI)
+- [Os ‘caveirões’ do narcotráfico na guerra de cartéis no México](https://www.nexojornal.com.br/expresso/2023/08/02/Os-%E2%80%98caveir%C3%B5es%E2%80%99-do-narcotr%C3%A1fico-na-guerra-de-cart%C3%A9is-no-M%C3%A9xico)
+- [Quais os efeitos de baixar os juros só depois de um ano](https://www.nexojornal.com.br/expresso/2023/08/02/Quais-os-efeitos-de-baixar-os-juros-s%C3%B3-depois-de-um-ano)
+- [Por que a Copa Feminina deu errado para o Brasil](https://www.nexojornal.com.br/expresso/2023/08/02/Por-que-a-Copa-Feminina-deu-errado-para-o-Brasil)
+- [Os discos voadores estão de volta, e há razões para comemorar](https://www.nexojornal.com.br/colunistas/2023/Os-discos-voadores-est%C3%A3o-de-volta-e-h%C3%A1-raz%C3%B5es-para-comemorar)
+- [Moraes multa Monark e determina abertura de investigação](https://www.nexojornal.com.br/extra/2023/08/02/Moraes-multa-Monark-e-determina-abertura-de-investiga%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
