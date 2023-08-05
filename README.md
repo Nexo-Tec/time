@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A incursão do ‘executivo mais odiado do mundo’ na IA](https://www.nexojornal.com.br/expresso/2023/08/04/A-incurs%C3%A3o-do-%E2%80%98executivo-mais-odiado-do-mundo%E2%80%99-na-IA)
-- [‘A canção da célula’: história da estrutura elementar da vida](https://www.nexojornal.com.br/estante/trechos/2023/08/04/%E2%80%98A-can%C3%A7%C3%A3o-da-c%C3%A9lula%E2%80%99-hist%C3%B3ria-da-estrutura-elementar-da-vida)
-- [Como mudar o curso da conservação ambiental no Brasil](https://www.nexojornal.com.br/ensaio/2023/08/04/Como-mudar-o-curso-da-conserva%C3%A7%C3%A3o-ambiental-no-Brasil)
-- [Quais as principais frentes judiciais contra Trump](https://www.nexojornal.com.br/expresso/2023/08/04/Quais-as-principais-frentes-judiciais-contra-Trump)
-- [Como viabilizar o ensino em tempo integral em todo o país](https://www.nexojornal.com.br/expresso/2023/08/04/Como-viabilizar-o-ensino-em-tempo-integral-em-todo-o-pa%C3%ADs)
+- [Qual é o lugar do material didático digital no ensino](https://www.nexojornal.com.br/expresso/2023/08/03/Qual-%C3%A9-o-lugar-do-material-did%C3%A1tico-digital-no-ensino)
+- [Como formar leitores capazes de fazer perguntas inquietas?](https://www.nexojornal.com.br/colunistas/2023/Como-formar-leitores-capazes-de-fazer-perguntas-inquietas)
+- [Quais os indícios de excesso da polícia na Baixada Santista](https://www.nexojornal.com.br/expresso/2023/08/03/Quais-os-ind%C3%ADcios-de-excesso-da-pol%C3%ADcia-na-Baixada-Santista)
+- [A reforma tributária está no Senado. O que pode mudar](https://www.nexojornal.com.br/expresso/2023/08/03/A-reforma-tribut%C3%A1ria-est%C3%A1-no-Senado.-O-que-pode-mudar)
+- [PF prende suspeito de ser um dos maiores grileiros da Amazônia](https://www.nexojornal.com.br/extra/2023/08/03/PF-prende-suspeito-de-ser-um-dos-maiores-grileiros-da-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
