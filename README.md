@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as fases da vida da mulher podem afetar a saúde mental](https://www.nexojornal.com.br/ensaio/2023/08/05/Como-as-fases-da-vida-da-mulher-podem-afetar-a-sa%C3%BAde-mental)
-- [5 livros escritos por mulheres que adorei ler em 2023](https://www.nexojornal.com.br/estante/favoritos/2023/08/05/5-livros-escritos-por-mulheres-que-adorei-ler-em-2023)
-- [O destino da estátua nos EUA defendida por supremacistas brancos](https://www.nexojornal.com.br/expresso/2023/08/05/O-destino-da-est%C3%A1tua-nos-EUA-defendida-por-supremacistas-brancos)
-- [Por que o Reino Unido pode deixar de ser uma liderança climática](https://www.nexojornal.com.br/expresso/2023/08/05/Por-que-o-Reino-Unido-pode-deixar-de-ser-uma-lideran%C3%A7a-clim%C3%A1tica)
-- [O que uma possível expansão pode significar para os Brics](https://www.nexojornal.com.br/expresso/2023/08/05/O-que-uma-poss%C3%ADvel-expans%C3%A3o-pode-significar-para-os-Brics)
+- [A incursão do ‘executivo mais odiado do mundo’ na IA](https://www.nexojornal.com.br/expresso/2023/08/04/A-incurs%C3%A3o-do-%E2%80%98executivo-mais-odiado-do-mundo%E2%80%99-na-IA)
+- [‘A canção da célula’: história da estrutura elementar da vida](https://www.nexojornal.com.br/estante/trechos/2023/08/04/%E2%80%98A-can%C3%A7%C3%A3o-da-c%C3%A9lula%E2%80%99-hist%C3%B3ria-da-estrutura-elementar-da-vida)
+- [Como mudar o curso da conservação ambiental no Brasil](https://www.nexojornal.com.br/ensaio/2023/08/04/Como-mudar-o-curso-da-conserva%C3%A7%C3%A3o-ambiental-no-Brasil)
+- [Quais as principais frentes judiciais contra Trump](https://www.nexojornal.com.br/expresso/2023/08/04/Quais-as-principais-frentes-judiciais-contra-Trump)
+- [Como viabilizar o ensino em tempo integral em todo o país](https://www.nexojornal.com.br/expresso/2023/08/04/Como-viabilizar-o-ensino-em-tempo-integral-em-todo-o-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
