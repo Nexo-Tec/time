@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as fases da vida da mulher podem afetar a saúde mental](https://www.nexojornal.com.br/ensaio/2023/08/05/Como-as-fases-da-vida-da-mulher-podem-afetar-a-sa%C3%BAde-mental)
-- [5 livros escritos por mulheres que adorei ler em 2023](https://www.nexojornal.com.br/estante/favoritos/2023/08/05/5-livros-escritos-por-mulheres-que-adorei-ler-em-2023)
-- [O destino da estátua nos EUA defendida por supremacistas brancos](https://www.nexojornal.com.br/expresso/2023/08/05/O-destino-da-est%C3%A1tua-nos-EUA-defendida-por-supremacistas-brancos)
-- [Por que o Reino Unido pode deixar de ser uma liderança climática](https://www.nexojornal.com.br/expresso/2023/08/05/Por-que-o-Reino-Unido-pode-deixar-de-ser-uma-lideran%C3%A7a-clim%C3%A1tica)
-- [O que uma possível expansão pode significar para os Brics](https://www.nexojornal.com.br/expresso/2023/08/05/O-que-uma-poss%C3%ADvel-expans%C3%A3o-pode-significar-para-os-Brics)
+- [Por que ação da PM paulista pode ser estéril no combate ao tráfico](https://www.nexojornal.com.br/expresso/2023/08/06/Por-que-a%C3%A7%C3%A3o-da-PM-paulista-pode-ser-est%C3%A9ril-no-combate-ao-tr%C3%A1fico)
+- [As ambições e os limites do mercado de produtos de base vegetal](https://www.nexojornal.com.br/expresso/2023/08/06/As-ambi%C3%A7%C3%B5es-e-os-limites-do-mercado-de-produtos-de-base-vegetal)
+- [Cúpula da Amazônia: oportunidade que não pode ser perdida](https://www.nexojornal.com.br/ensaio/2023/08/06/C%C3%BApula-da-Amaz%C3%B4nia-oportunidade-que-n%C3%A3o-pode-ser-perdida)
+- [‘Lampejo separatista’: Consórcio Nordeste critica falas de Zema](https://www.nexojornal.com.br/extra/2023/08/06/%E2%80%98Lampejo-separatista%E2%80%99-Cons%C3%B3rcio-Nordeste-critica-falas-de-Zema)
+- [Rússia faz ataque aéreo massivo em retaliação às ações ucranianas](https://www.nexojornal.com.br/extra/2023/08/06/R%C3%BAssia-faz-ataque-a%C3%A9reo-massivo-em-retalia%C3%A7%C3%A3o-%C3%A0s-a%C3%A7%C3%B5es-ucranianas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
