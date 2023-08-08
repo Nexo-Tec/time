@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A PEC da Anistia e o retorno dos que não foram](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-PEC-da-Anistia-e-o-retorno-dos-que-n%C3%A3o-foram)
 - [A materialidade da transição energética, uma ópera em duas perguntas](https://pp.nexojornal.com.br/opiniao/2023/A-materialidade-da-transi%C3%A7%C3%A3o-energ%C3%A9tica-uma-%C3%B3pera-em-duas-perguntas)
 - [A 17ª Conferência Nacional de Saúde, a participação popular e a garantia de direitos](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-17%C2%AA-Confer%C3%AAncia-Nacional-de-Sa%C3%BAde-a-participa%C3%A7%C3%A3o-popular-e-a-garantia-de-direitos)
 - [Seiji Isotani: inteligência artificial aplicada à educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/01/Seiji-Isotani-intelig%C3%AAncia-artificial-aplicada-%C3%A0-educa%C3%A7%C3%A3o)
 - [Desigualdades e participação](https://pp.nexojornal.com.br/bibliografia-basica/2023/08/01/Desigualdades-e-participa%C3%A7%C3%A3o)
-- [Eventos extremos: a quem clamar?](https://pp.nexojornal.com.br/opiniao/2023/Eventos-extremos-a-quem-clamar)
 <!-- PP_LIST:END -->
 
