@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que ação da PM paulista pode ser estéril no combate ao tráfico](https://www.nexojornal.com.br/expresso/2023/08/06/Por-que-a%C3%A7%C3%A3o-da-PM-paulista-pode-ser-est%C3%A9ril-no-combate-ao-tr%C3%A1fico)
-- [As ambições e os limites do mercado de produtos de base vegetal](https://www.nexojornal.com.br/expresso/2023/08/06/As-ambi%C3%A7%C3%B5es-e-os-limites-do-mercado-de-produtos-de-base-vegetal)
-- [Cúpula da Amazônia: oportunidade que não pode ser perdida](https://www.nexojornal.com.br/ensaio/2023/08/06/C%C3%BApula-da-Amaz%C3%B4nia-oportunidade-que-n%C3%A3o-pode-ser-perdida)
-- [‘Lampejo separatista’: Consórcio Nordeste critica falas de Zema](https://www.nexojornal.com.br/extra/2023/08/06/%E2%80%98Lampejo-separatista%E2%80%99-Cons%C3%B3rcio-Nordeste-critica-falas-de-Zema)
-- [Rússia faz ataque aéreo massivo em retaliação às ações ucranianas](https://www.nexojornal.com.br/extra/2023/08/06/R%C3%BAssia-faz-ataque-a%C3%A9reo-massivo-em-retalia%C3%A7%C3%A3o-%C3%A0s-a%C3%A7%C3%B5es-ucranianas)
+- [‘Sound of Freedom’: o filme abraçado pelo extremismo dos EUA](https://www.nexojornal.com.br/expresso/2023/08/07/%E2%80%98Sound-of-Freedom%E2%80%99-o-filme-abra%C3%A7ado-pelo-extremismo-dos-EUA)
+- [Precatórios: o problema antigo das contas do governo](https://www.nexojornal.com.br/expresso/2023/08/07/Precat%C3%B3rios-o-problema-antigo-das-contas-do-governo)
+- [Os acertos e desacertos na Cúpula da Amazônia em Belém](https://www.nexojornal.com.br/expresso/2023/08/07/Os-acertos-e-desacertos-na-C%C3%BApula-da-Amaz%C3%B4nia-em-Bel%C3%A9m)
+- [A disputa entre regiões nas declarações do governador de Minas](https://www.nexojornal.com.br/podcast/2023/08/07/A-disputa-entre-regi%C3%B5es-nas-declara%C3%A7%C3%B5es-do-governador-de-Minas)
+- [Níger rejeita prazo de bloco e líderes vão debater resposta](https://www.nexojornal.com.br/extra/2023/08/07/N%C3%ADger-rejeita-prazo-de-bloco-e-l%C3%ADderes-v%C3%A3o-debater-resposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
