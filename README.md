@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@di_egomartins](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/di_egomartins/)
 - [Ana Suy: “Traição: não dá pra fingir que nada aconteceu”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-suy-traicao-nao-da-pra-fingir-que-nada-aconteceu/)
 - [Os Perigos de Fumar na Cama](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-perigos-de-fumar-na-cama/)
 - [Podcast com histórias de leitores, escritores e livreiros](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-livraria-megafauna/)
 - [FBC e seu novo álbum &lpar;já&rpar; mítico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/fbc-album-mitico/)
-- [Quem é Alexandre de Moraes em seis episódios](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-alexandre-de-moraes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
