@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Sound of Freedom’: o filme abraçado pelo extremismo dos EUA](https://www.nexojornal.com.br/expresso/2023/08/07/%E2%80%98Sound-of-Freedom%E2%80%99-o-filme-abra%C3%A7ado-pelo-extremismo-dos-EUA)
-- [Precatórios: o problema antigo das contas do governo](https://www.nexojornal.com.br/expresso/2023/08/07/Precat%C3%B3rios-o-problema-antigo-das-contas-do-governo)
-- [Os acertos e desacertos na Cúpula da Amazônia em Belém](https://www.nexojornal.com.br/expresso/2023/08/07/Os-acertos-e-desacertos-na-C%C3%BApula-da-Amaz%C3%B4nia-em-Bel%C3%A9m)
-- [A disputa entre regiões nas declarações do governador de Minas](https://www.nexojornal.com.br/podcast/2023/08/07/A-disputa-entre-regi%C3%B5es-nas-declara%C3%A7%C3%B5es-do-governador-de-Minas)
-- [Níger rejeita prazo de bloco e líderes vão debater resposta](https://www.nexojornal.com.br/extra/2023/08/07/N%C3%ADger-rejeita-prazo-de-bloco-e-l%C3%ADderes-v%C3%A3o-debater-resposta)
+- [Como líderes de países amazônicos abordam desafios da região](https://www.nexojornal.com.br/expresso/2023/08/08/Como-l%C3%ADderes-de-pa%C3%ADses-amaz%C3%B4nicos-abordam-desafios-da-regi%C3%A3o)
+- [‘Verão das greves’: o panorama sindical dos EUA em 2023](https://www.nexojornal.com.br/expresso/2023/08/08/%E2%80%98Ver%C3%A3o-das-greves%E2%80%99-o-panorama-sindical-dos-EUA-em-2023)
+- [5 barreiras para a adesão da moeda digital nigeriana](https://www.nexojornal.com.br/externo/2023/08/08/5-barreiras-para-a-ades%C3%A3o-da-moeda-digital-nigeriana)
+- [Heurísticas selvagens e mercados de apostas](https://www.nexojornal.com.br/colunistas/2023/Heur%C3%ADsticas-selvagens-e-mercados-de-apostas)
+- [O resgate do PAC. E as apostas na nova versão do programa](https://www.nexojornal.com.br/podcast/2023/08/08/O-resgate-do-PAC.-E-as-apostas-na-nova-vers%C3%A3o-do-programa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
