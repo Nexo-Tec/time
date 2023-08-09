@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como imitações de personagens de games tomaram o TikTok](https://www.nexojornal.com.br/expresso/2023/08/08/Como-imita%C3%A7%C3%B5es-de-personagens-de-games-tomaram-o-TikTok)
 - [‘Sound of Freedom’: o filme abraçado pelo extremismo dos EUA](https://www.nexojornal.com.br/expresso/2023/08/07/%E2%80%98Sound-of-Freedom%E2%80%99-o-filme-abra%C3%A7ado-pelo-extremismo-dos-EUA)
 - [Precatórios: o problema antigo das contas do governo](https://www.nexojornal.com.br/expresso/2023/08/07/Precat%C3%B3rios-o-problema-antigo-das-contas-do-governo)
 - [Os acertos e desacertos na Cúpula da Amazônia em Belém](https://www.nexojornal.com.br/expresso/2023/08/07/Os-acertos-e-desacertos-na-C%C3%BApula-da-Amaz%C3%B4nia-em-Bel%C3%A9m)
 - [A disputa entre regiões nas declarações do governador de Minas](https://www.nexojornal.com.br/podcast/2023/08/07/A-disputa-entre-regi%C3%B5es-nas-declara%C3%A7%C3%B5es-do-governador-de-Minas)
+- [Níger rejeita prazo de bloco e líderes vão debater resposta](https://www.nexojornal.com.br/extra/2023/08/07/N%C3%ADger-rejeita-prazo-de-bloco-e-l%C3%ADderes-v%C3%A3o-debater-resposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
