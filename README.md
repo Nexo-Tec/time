@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que há no projeto que obriga big techs a pagar por notícias](https://www.nexojornal.com.br/expresso/2023/08/09/O-que-h%C3%A1-no-projeto-que-obriga-big-techs-a-pagar-por-not%C3%ADcias)
-- [PF prende Silvinei Vasques, que ordenou blitze no dia da eleição](https://www.nexojornal.com.br/extra/2023/08/09/PF-prende-Silvinei-Vasques-que-ordenou-blitze-no-dia-da-elei%C3%A7%C3%A3o)
 - [Como líderes de países amazônicos abordam desafios da região](https://www.nexojornal.com.br/expresso/2023/08/08/Como-l%C3%ADderes-de-pa%C3%ADses-amaz%C3%B4nicos-abordam-desafios-da-regi%C3%A3o)
 - [‘Verão das greves’: o panorama sindical dos EUA em 2023](https://www.nexojornal.com.br/expresso/2023/08/08/%E2%80%98Ver%C3%A3o-das-greves%E2%80%99-o-panorama-sindical-dos-EUA-em-2023)
-- [Por que a moeda digital custa a emplacar na Nigéria](https://www.nexojornal.com.br/externo/2023/08/08/Por-que-a-moeda-digital-custa-a-emplacar-na-Nig%C3%A9ria)
+- [5 barreiras para a adesão da moeda digital nigeriana](https://www.nexojornal.com.br/externo/2023/08/08/5-barreiras-para-a-ades%C3%A3o-da-moeda-digital-nigeriana)
+- [Heurísticas selvagens e mercados de apostas](https://www.nexojornal.com.br/colunistas/2023/Heur%C3%ADsticas-selvagens-e-mercados-de-apostas)
+- [O resgate do PAC. E as apostas na nova versão do programa](https://www.nexojornal.com.br/podcast/2023/08/08/O-resgate-do-PAC.-E-as-apostas-na-nova-vers%C3%A3o-do-programa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
