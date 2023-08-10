@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF prende Silvinei Vasques, que ordenou blitze no dia da eleição](https://www.nexojornal.com.br/extra/2023/08/09/PF-prende-Silvinei-Vasques-que-ordenou-blitze-no-dia-da-elei%C3%A7%C3%A3o)
-- [Como líderes de países amazônicos abordam desafios da região](https://www.nexojornal.com.br/expresso/2023/08/08/Como-l%C3%ADderes-de-pa%C3%ADses-amaz%C3%B4nicos-abordam-desafios-da-regi%C3%A3o)
-- [‘Verão das greves’: o panorama sindical dos EUA em 2023](https://www.nexojornal.com.br/expresso/2023/08/08/%E2%80%98Ver%C3%A3o-das-greves%E2%80%99-o-panorama-sindical-dos-EUA-em-2023)
-- [5 barreiras para a adesão da moeda digital nigeriana](https://www.nexojornal.com.br/externo/2023/08/08/5-barreiras-para-a-ades%C3%A3o-da-moeda-digital-nigeriana)
-- [Heurísticas selvagens e mercados de apostas](https://www.nexojornal.com.br/colunistas/2023/Heur%C3%ADsticas-selvagens-e-mercados-de-apostas)
+- [GSI afasta militares que enviaram dados de Lula a Mauro Cid](https://www.nexojornal.com.br/extra/2023/08/09/GSI-afasta-militares-que-enviaram-dados-de-Lula-a-Mauro-Cid)
+- [‘Indígenas mudaram minha percepção de musicalidade’](https://www.nexojornal.com.br/entrevista/2023/08/09/%E2%80%98Ind%C3%ADgenas-mudaram-minha-percep%C3%A7%C3%A3o-de-musicalidade%E2%80%99)
+- [Auxiliares do golpe: as prisões no entorno de Bolsonaro](https://www.nexojornal.com.br/podcast/2023/08/09/Auxiliares-do-golpe-as-pris%C3%B5es-no-entorno-de-Bolsonaro)
+- [Salles indica fim da CPI do MST, após derrotas da oposição](https://www.nexojornal.com.br/extra/2023/08/09/Salles-indica-fim-da-CPI-do-MST-ap%C3%B3s-derrotas-da-oposi%C3%A7%C3%A3o)
+- [Marcius Melhem vira réu acusado de assédio sexual contra três](https://www.nexojornal.com.br/extra/2023/08/09/Marcius-Melhem-vira-r%C3%A9u-acusado-de-ass%C3%A9dio-sexual-contra-tr%C3%AAs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
