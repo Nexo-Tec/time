@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como líderes de países amazônicos abordam desafios da região](https://www.nexojornal.com.br/expresso/2023/08/08/Como-l%C3%ADderes-de-pa%C3%ADses-amaz%C3%B4nicos-abordam-desafios-da-regi%C3%A3o)
-- [‘Verão das greves’: o panorama sindical dos EUA em 2023](https://www.nexojornal.com.br/expresso/2023/08/08/%E2%80%98Ver%C3%A3o-das-greves%E2%80%99-o-panorama-sindical-dos-EUA-em-2023)
-- [5 barreiras para a adesão da moeda digital nigeriana](https://www.nexojornal.com.br/externo/2023/08/08/5-barreiras-para-a-ades%C3%A3o-da-moeda-digital-nigeriana)
-- [Heurísticas selvagens e mercados de apostas](https://www.nexojornal.com.br/colunistas/2023/Heur%C3%ADsticas-selvagens-e-mercados-de-apostas)
-- [O resgate do PAC. E as apostas na nova versão do programa](https://www.nexojornal.com.br/podcast/2023/08/08/O-resgate-do-PAC.-E-as-apostas-na-nova-vers%C3%A3o-do-programa)
+- [Quais os ingredientes da crise política no Paquistão](https://www.nexojornal.com.br/expresso/2023/08/09/Quais-os-ingredientes-da-crise-pol%C3%ADtica-no-Paquist%C3%A3o)
+- [O risco de instabilidade política na China](https://www.nexojornal.com.br/colunistas/2023/O-risco-de-instabilidade-pol%C3%ADtica-na-China)
+- [Candidato à Presidência do Equador é assassinado](https://www.nexojornal.com.br/extra/2023/08/09/Candidato-%C3%A0-Presid%C3%AAncia-do-Equador-%C3%A9-assassinado)
+- [GSI afasta militares que enviaram dados de Lula a Mauro Cid](https://www.nexojornal.com.br/extra/2023/08/09/GSI-afasta-militares-que-enviaram-dados-de-Lula-a-Mauro-Cid)
+- [‘Indígenas mudaram minha percepção de musicalidade’](https://www.nexojornal.com.br/entrevista/2023/08/09/%E2%80%98Ind%C3%ADgenas-mudaram-minha-percep%C3%A7%C3%A3o-de-musicalidade%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
