@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Um doce que reúne unanimidades: tapioca, café, doce de leite e chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-doce-que-reune-unanimidades-tapioca-cafe-doce-de-leite-e-chocolate/)
-- [Remedinho, hambúrguer e Justiça](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/remedinho-hamburguer-e-justica/)
-- [@di_egomartins](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/di_egomartins/)
-- [Ana Suy: “Traição: não dá pra fingir que nada aconteceu”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-suy-traicao-nao-da-pra-fingir-que-nada-aconteceu/)
-- [Os Perigos de Fumar na Cama](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-perigos-de-fumar-na-cama/)
+- [Xande de Pilares traduz Caetano como nem o próprio faz](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/xande-de-pilares-traduz-caetano/)
+- [A crise dos opioides no centro de uma nova série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-crise-dos-opioides-no-centro-de-uma-nova-serie/)
+- [50 anos da exuberância de Secos e Molhados](https://gamarevista.uol.com.br/achamos-que-vale/ler/50-anos-da-exuberancia-de-secos-e-molhados/)
+- [Festival gastronômico com pitadas de música no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-gastronomico-com-pitadas-de-musica-no-rio/)
+- [Leonilson na Almeida &amp; Dale, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/leonilson-na-almeida-dale-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
