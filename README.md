@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/10/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
 - [Quais os ingredientes da crise política no Paquistão](https://www.nexojornal.com.br/expresso/2023/08/09/Quais-os-ingredientes-da-crise-pol%C3%ADtica-no-Paquist%C3%A3o)
 - [O risco de instabilidade política na China](https://www.nexojornal.com.br/colunistas/2023/O-risco-de-instabilidade-pol%C3%ADtica-na-China)
-- [Candidato à Presidência do Equador é assassinado](https://www.nexojornal.com.br/extra/2023/08/09/Candidato-%C3%A0-Presid%C3%AAncia-do-Equador-%C3%A9-assassinado)
+- [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/09/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
