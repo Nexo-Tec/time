@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A economia global está viciada em explorar a natureza’](https://www.nexojornal.com.br/entrevista/2023/08/10/%E2%80%98A-economia-global-est%C3%A1-viciada-em-explorar-a-natureza%E2%80%99)
-- [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/10/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
-- [Quais os ingredientes da crise política no Paquistão](https://www.nexojornal.com.br/expresso/2023/08/09/Quais-os-ingredientes-da-crise-pol%C3%ADtica-no-Paquist%C3%A3o)
-- [O risco de instabilidade política na China](https://www.nexojornal.com.br/colunistas/2023/O-risco-de-instabilidade-pol%C3%ADtica-na-China)
-- [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/09/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
+- [Assassinato na eleição: como o Equador chegou a esse ponto](https://www.nexojornal.com.br/expresso/2023/08/10/Assassinato-na-elei%C3%A7%C3%A3o-como-o-Equador-chegou-a-esse-ponto)
+- [Maria da Penha e a ideia de outro lado no jornalismo](https://www.nexojornal.com.br/colunistas/2023/Maria-da-Penha-e-a-ideia-de-outro-lado-no-jornalismo)
+- [A pílula para depressão pós-parto. E a situação da doença](https://www.nexojornal.com.br/expresso/2023/08/10/A-p%C3%ADlula-para-depress%C3%A3o-p%C3%B3s-parto.-E-a-situa%C3%A7%C3%A3o-da-doen%C3%A7a)
+- [PT lança canal de TV disponível via satélite digital](https://www.nexojornal.com.br/extra/2023/08/10/PT-lan%C3%A7a-canal-de-TV-dispon%C3%ADvel-via-sat%C3%A9lite-digital)
+- [Gilmar Mendes anula provas de investigação contra Lira](https://www.nexojornal.com.br/extra/2023/08/10/Gilmar-Mendes-anula-provas-de-investiga%C3%A7%C3%A3o-contra-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
