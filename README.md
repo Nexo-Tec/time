@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘A economia global está viciada em explorar a natureza’](https://www.nexojornal.com.br/entrevista/2023/08/10/%E2%80%98A-economia-global-est%C3%A1-viciada-em-explorar-a-natureza%E2%80%99)
+- [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/10/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
 - [Quais os ingredientes da crise política no Paquistão](https://www.nexojornal.com.br/expresso/2023/08/09/Quais-os-ingredientes-da-crise-pol%C3%ADtica-no-Paquist%C3%A3o)
 - [O risco de instabilidade política na China](https://www.nexojornal.com.br/colunistas/2023/O-risco-de-instabilidade-pol%C3%ADtica-na-China)
-- [Candidato à Presidência do Equador é assassinado](https://www.nexojornal.com.br/extra/2023/08/09/Candidato-%C3%A0-Presid%C3%AAncia-do-Equador-%C3%A9-assassinado)
-- [GSI afasta militares que enviaram dados de Lula a Mauro Cid](https://www.nexojornal.com.br/extra/2023/08/09/GSI-afasta-militares-que-enviaram-dados-de-Lula-a-Mauro-Cid)
-- [‘Indígenas mudaram minha percepção de musicalidade’](https://www.nexojornal.com.br/entrevista/2023/08/09/%E2%80%98Ind%C3%ADgenas-mudaram-minha-percep%C3%A7%C3%A3o-de-musicalidade%E2%80%99)
+- [Equador mantém eleição após morte de candidato](https://www.nexojornal.com.br/extra/2023/08/09/Equador-mant%C3%A9m-elei%C3%A7%C3%A3o-ap%C3%B3s-morte-de-candidato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
