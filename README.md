@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Nayara Bazzoli: injustiças estruturais e as oportunidades para as juventudes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/10/Nayara-Bazzoli-injusti%C3%A7as-estruturais-e-as-oportunidades-para-as-juventudes)
-- [Políticas agropecuárias para a transição de baixo carbono](https://pp.nexojornal.com.br/academico/2023/Pol%C3%ADticas-agropecu%C3%A1rias-para-a-transi%C3%A7%C3%A3o-de-baixo-carbono)
-- [Desempenho dos cotistas na UFSC: uma política de sucesso escolar](https://pp.nexojornal.com.br/opiniao/2023/Desempenho-dos-cotistas-na-UFSC-uma-pol%C3%ADtica-de-sucesso-escolar)
-- [O modelo de propriedades sem fins lucrativos como alternativa para garantir o direito à moradia](https://pp.nexojornal.com.br/ponto-de-vista/2023/08/10/O-modelo-de-propriedades-sem-fins-lucrativos-como-alternativa-para-garantir-o-direito-%C3%A0-moradia)
-- [Negros e brancos têm o mesmo acesso às oportunidades de empreender? Evidências empíricas e o cenário brasileiro](https://pp.nexojornal.com.br/opiniao/2023/Negros-e-brancos-t%C3%AAm-o-mesmo-acesso-%C3%A0s-oportunidades-de-empreender-Evid%C3%AAncias-emp%C3%ADricas-e-o-cen%C3%A1rio-brasileiro)
+- [A PEC da Anistia e o retorno dos que não foram](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-PEC-da-Anistia-e-o-retorno-dos-que-n%C3%A3o-foram)
+- [A materialidade da transição energética, uma ópera em duas perguntas](https://pp.nexojornal.com.br/opiniao/2023/A-materialidade-da-transi%C3%A7%C3%A3o-energ%C3%A9tica-uma-%C3%B3pera-em-duas-perguntas)
+- [A 17ª Conferência Nacional de Saúde, a participação popular e a garantia de direitos](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-17%C2%AA-Confer%C3%AAncia-Nacional-de-Sa%C3%BAde-a-participa%C3%A7%C3%A3o-popular-e-a-garantia-de-direitos)
+- [Seiji Isotani: inteligência artificial aplicada à educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/01/Seiji-Isotani-intelig%C3%AAncia-artificial-aplicada-%C3%A0-educa%C3%A7%C3%A3o)
+- [Desigualdades e participação](https://pp.nexojornal.com.br/bibliografia-basica/2023/08/01/Desigualdades-e-participa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
