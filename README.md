@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As Pequenas Chances](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-pequenas-chances/)
+- [Um detalhe jurídico autoritário e obsoleto](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-detalhe-juridico-autoritario-e-obsoleto/)
 - [Xande de Pilares traduz Caetano como nem o próprio faz](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/xande-de-pilares-traduz-caetano/)
 - [A crise dos opioides no centro de uma nova série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-crise-dos-opioides-no-centro-de-uma-nova-serie/)
 - [50 anos da exuberância de Secos e Molhados](https://gamarevista.uol.com.br/achamos-que-vale/ler/50-anos-da-exuberancia-de-secos-e-molhados/)
-- [Festival gastronômico com pitadas de música no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-gastronomico-com-pitadas-de-musica-no-rio/)
-- [Leonilson na Almeida &amp; Dale, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/leonilson-na-almeida-dale-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
