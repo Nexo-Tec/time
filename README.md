@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula lança novo PAC com investimento previsto de R$ 1,7 tri](https://www.nexojornal.com.br/extra/2023/08/11/Lula-lan%C3%A7a-novo-PAC-com-investimento-previsto-de-R-17-tri)
-- [O impacto da pandemia na saúde mental da comunidade acadêmica](https://www.nexojornal.com.br/academico/2023/08/11/O-impacto-da-pandemia-na-sa%C3%BAde-mental-da-comunidade-acad%C3%AAmica)
-- [PF faz operação contra Wassef e pai de Mauro Cid em caso do Rolex](https://www.nexojornal.com.br/extra/2023/08/11/PF-faz-opera%C3%A7%C3%A3o-contra-Wassef-e-pai-de-Mauro-Cid-em-caso-do-Rolex)
-- [Por que a Nintendo é amada e odiada por público e indústria](https://www.nexojornal.com.br/expresso/2023/08/11/Por-que-a-Nintendo-%C3%A9-amada-e-odiada-por-p%C3%BAblico-e-ind%C3%BAstria)
 - [Assassinato na eleição: como o Equador chegou a esse ponto](https://www.nexojornal.com.br/expresso/2023/08/10/Assassinato-na-elei%C3%A7%C3%A3o-como-o-Equador-chegou-a-esse-ponto)
+- [Maria da Penha e a ideia de outro lado no jornalismo](https://www.nexojornal.com.br/colunistas/2023/Maria-da-Penha-e-a-ideia-de-outro-lado-no-jornalismo)
+- [A pílula para depressão pós-parto. E a situação da doença](https://www.nexojornal.com.br/expresso/2023/08/10/A-p%C3%ADlula-para-depress%C3%A3o-p%C3%B3s-parto.-E-a-situa%C3%A7%C3%A3o-da-doen%C3%A7a)
+- [PT lança canal de TV disponível via satélite digital](https://www.nexojornal.com.br/extra/2023/08/10/PT-lan%C3%A7a-canal-de-TV-dispon%C3%ADvel-via-sat%C3%A9lite-digital)
+- [Gilmar Mendes anula provas de investigação contra Lira](https://www.nexojornal.com.br/extra/2023/08/10/Gilmar-Mendes-anula-provas-de-investiga%C3%A7%C3%A3o-contra-Lira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
