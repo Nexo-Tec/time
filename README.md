@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro, militares e joias: dos desvios aos indícios de lavagem](https://www.nexojornal.com.br/expresso/2023/08/12/Bolsonaro-militares-e-joias-dos-desvios-aos-ind%C3%ADcios-de-lavagem)
-- [Exército diz não compactuar com ‘desvios de conduta’](https://www.nexojornal.com.br/extra/2023/08/11/Ex%C3%A9rcito-diz-n%C3%A3o-compactuar-com-%E2%80%98desvios-de-conduta%E2%80%99)
-- [PF pede quebra de sigilos bancário e fiscal de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/11/PF-pede-quebra-de-sigilos-banc%C3%A1rio-e-fiscal-de-Bolsonaro)
-- [Bolsonaro, militares e joias à venda. A prisão de Silvinei. E mais](https://www.nexojornal.com.br/video/extrato/Bolsonaro-militares-e-joias-%C3%A0-venda.-A-pris%C3%A3o-de-Silvinei.-E-mais)
-- [Os desafios para um ambiente de mídia democrático](https://www.nexojornal.com.br/ensaio/2023/08/11/Os-desafios-para-um-ambiente-de-m%C3%ADdia-democr%C3%A1tico)
+- [O impacto da pandemia na saúde mental da comunidade acadêmica](https://www.nexojornal.com.br/academico/2023/08/11/O-impacto-da-pandemia-na-sa%C3%BAde-mental-da-comunidade-acad%C3%AAmica)
+- [PF faz operação contra Wassef e pai de Mauro Cid em caso do Rolex](https://www.nexojornal.com.br/extra/2023/08/11/PF-faz-opera%C3%A7%C3%A3o-contra-Wassef-e-pai-de-Mauro-Cid-em-caso-do-Rolex)
+- [Por que a Nintendo é amada e odiada por público e indústria](https://www.nexojornal.com.br/expresso/2023/08/11/Por-que-a-Nintendo-%C3%A9-amada-e-odiada-por-p%C3%BAblico-e-ind%C3%BAstria)
+- [Assassinato na eleição: como o Equador chegou a esse ponto](https://www.nexojornal.com.br/expresso/2023/08/10/Assassinato-na-elei%C3%A7%C3%A3o-como-o-Equador-chegou-a-esse-ponto)
+- [Maria da Penha e a ideia de outro lado no jornalismo](https://www.nexojornal.com.br/colunistas/2023/Maria-da-Penha-e-a-ideia-de-outro-lado-no-jornalismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
