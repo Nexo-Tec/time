@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Três tendências do orçamento federal da saúde desde 2013](https://pp.nexojornal.com.br/Dados/2023/08/11/Tr%C3%AAs-tend%C3%AAncias-do-or%C3%A7amento-federal-da-sa%C3%BAde-desde-2013)
-- [André Valadão, Igreja da Lagoinha e o ativismo evangélico conservador](https://pp.nexojornal.com.br/opiniao/2023/Andr%C3%A9-Valad%C3%A3o-Igreja-da-Lagoinha-e-o-ativismo-evang%C3%A9lico-conservador)
 - [Nayara Bazzoli: injustiças estruturais e as oportunidades para as juventudes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/10/Nayara-Bazzoli-injusti%C3%A7as-estruturais-e-as-oportunidades-para-as-juventudes)
 - [Políticas agropecuárias para a transição de baixo carbono](https://pp.nexojornal.com.br/academico/2023/Pol%C3%ADticas-agropecu%C3%A1rias-para-a-transi%C3%A7%C3%A3o-de-baixo-carbono)
 - [Desempenho dos cotistas na UFSC: uma política de sucesso escolar](https://pp.nexojornal.com.br/opiniao/2023/Desempenho-dos-cotistas-na-UFSC-uma-pol%C3%ADtica-de-sucesso-escolar)
+- [O modelo de propriedades sem fins lucrativos como alternativa para garantir o direito à moradia](https://pp.nexojornal.com.br/ponto-de-vista/2023/08/10/O-modelo-de-propriedades-sem-fins-lucrativos-como-alternativa-para-garantir-o-direito-%C3%A0-moradia)
+- [Negros e brancos têm o mesmo acesso às oportunidades de empreender? Evidências empíricas e o cenário brasileiro](https://pp.nexojornal.com.br/opiniao/2023/Negros-e-brancos-t%C3%AAm-o-mesmo-acesso-%C3%A0s-oportunidades-de-empreender-Evid%C3%AAncias-emp%C3%ADricas-e-o-cen%C3%A1rio-brasileiro)
 <!-- PP_LIST:END -->
 
