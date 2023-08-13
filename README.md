@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Bolsonaro, militares e joias: dos desvios aos indícios de lavagem](https://www.nexojornal.com.br/expresso/2023/08/12/Bolsonaro-militares-e-joias-dos-desvios-aos-ind%C3%ADcios-de-lavagem)
-- [Exército diz não compactuar com ‘desvios de conduta’](https://www.nexojornal.com.br/extra/2023/08/11/Ex%C3%A9rcito-diz-n%C3%A3o-compactuar-com-%E2%80%98desvios-de-conduta%E2%80%99)
-- [PF pede quebra de sigilos bancário e fiscal de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/11/PF-pede-quebra-de-sigilos-banc%C3%A1rio-e-fiscal-de-Bolsonaro)
-- [Bolsonaro, militares e joias à venda. A prisão de Silvinei. E mais](https://www.nexojornal.com.br/video/extrato/Bolsonaro-militares-e-joias-%C3%A0-venda.-A-pris%C3%A3o-de-Silvinei.-E-mais)
-- [Os desafios para um ambiente de mídia democrático](https://www.nexojornal.com.br/ensaio/2023/08/11/Os-desafios-para-um-ambiente-de-m%C3%ADdia-democr%C3%A1tico)
+- [Vice de candidato morto no Equador vai disputar eleição](https://www.nexojornal.com.br/extra/2023/08/12/Vice-de-candidato-morto-no-Equador-vai-disputar-elei%C3%A7%C3%A3o)
+- [Diversidade pautou movimento punk dos anos 1980](https://www.nexojornal.com.br/externo/2023/08/12/Diversidade-pautou-movimento-punk-dos-anos-1980)
+- [5 livros importantes para a formação do pensamento negro](https://www.nexojornal.com.br/estante/favoritos/2023/08/12/5-livros-importantes-para-a-forma%C3%A7%C3%A3o-do-pensamento-negro)
+- [Como o Níger à beira da guerra mobiliza forças externas](https://www.nexojornal.com.br/expresso/2023/08/12/Como-o-N%C3%ADger-%C3%A0-beira-da-guerra-mobiliza-for%C3%A7as-externas)
+- [A boneca Barbie e a comuna lúdica das crianças](https://www.nexojornal.com.br/ensaio/2023/08/12/A-boneca-Barbie-e-a-comuna-l%C3%BAdica-das-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
