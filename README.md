@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Criança e adolescente morrem durante ações da PM no Rio](https://www.nexojornal.com.br/extra/2023/08/12/Crian%C3%A7a-e-adolescente-morrem-durante-a%C3%A7%C3%B5es-da-PM-no-Rio)
 - [Bolsonaro, militares e joias: dos desvios aos indícios de lavagem](https://www.nexojornal.com.br/expresso/2023/08/12/Bolsonaro-militares-e-joias-dos-desvios-aos-ind%C3%ADcios-de-lavagem)
 - [Exército diz não compactuar com ‘desvios de conduta’](https://www.nexojornal.com.br/extra/2023/08/11/Ex%C3%A9rcito-diz-n%C3%A3o-compactuar-com-%E2%80%98desvios-de-conduta%E2%80%99)
 - [PF pede quebra de sigilos bancário e fiscal de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/11/PF-pede-quebra-de-sigilos-banc%C3%A1rio-e-fiscal-de-Bolsonaro)
 - [Bolsonaro, militares e joias à venda. A prisão de Silvinei. E mais](https://www.nexojornal.com.br/video/extrato/Bolsonaro-militares-e-joias-%C3%A0-venda.-A-pris%C3%A3o-de-Silvinei.-E-mais)
-- [Os desafios para um ambiente de mídia democrático](https://www.nexojornal.com.br/ensaio/2023/08/11/Os-desafios-para-um-ambiente-de-m%C3%ADdia-democr%C3%A1tico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
