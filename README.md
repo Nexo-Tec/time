@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [José Henrique Bortoluci: “A busca da história de um pai é uma busca sobre quem nós somos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jose-henrique-bortoluci-pai-caminhoneiro-livro-o-que-e-meu/)
 - [As Pequenas Chances](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-pequenas-chances/)
 - [Um detalhe jurídico autoritário e obsoleto](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-detalhe-juridico-autoritario-e-obsoleto/)
 - [Xande de Pilares traduz Caetano como nem o próprio faz](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/xande-de-pilares-traduz-caetano/)
 - [A crise dos opioides no centro de uma nova série](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-crise-dos-opioides-no-centro-de-uma-nova-serie/)
-- [50 anos da exuberância de Secos e Molhados](https://gamarevista.uol.com.br/achamos-que-vale/ler/50-anos-da-exuberancia-de-secos-e-molhados/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
