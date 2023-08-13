@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Vice de candidato morto no Equador vai disputar eleição](https://www.nexojornal.com.br/extra/2023/08/12/Vice-de-candidato-morto-no-Equador-vai-disputar-elei%C3%A7%C3%A3o)
 - [Diversidade pautou movimento punk dos anos 1980](https://www.nexojornal.com.br/externo/2023/08/12/Diversidade-pautou-movimento-punk-dos-anos-1980)
 - [5 livros importantes para a formação do pensamento negro](https://www.nexojornal.com.br/estante/favoritos/2023/08/12/5-livros-importantes-para-a-forma%C3%A7%C3%A3o-do-pensamento-negro)
 - [Como o Níger à beira da guerra mobiliza forças externas](https://www.nexojornal.com.br/expresso/2023/08/12/Como-o-N%C3%ADger-%C3%A0-beira-da-guerra-mobiliza-for%C3%A7as-externas)
 - [A boneca Barbie e a comuna lúdica das crianças](https://www.nexojornal.com.br/ensaio/2023/08/12/A-boneca-Barbie-e-a-comuna-l%C3%BAdica-das-crian%C3%A7as)
+- [Do velho ao novo PAC: o que une e o que separa os programas](https://www.nexojornal.com.br/expresso/2023/08/12/Do-velho-ao-novo-PAC-o-que-une-e-o-que-separa-os-programas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
