@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lei de Cotas: os principais desafios dos próximos 10 anos](https://www.nexojornal.com.br/expresso/2023/08/13/Lei-de-Cotas-os-principais-desafios-dos-pr%C3%B3ximos-10-anos)
-- [Advogado deixa a defesa de Mauro Cid, ex-assessor de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/13/Advogado-deixa-a-defesa-de-Mauro-Cid-ex-assessor-de-Bolsonaro)
 - [A categoria que busca incentivar a entrada de mulheres na Fórmula 1](https://www.nexojornal.com.br/expresso/2023/08/13/A-categoria-que-busca-incentivar-a-entrada-de-mulheres-na-F%C3%B3rmula-1)
 - [O café e as mudanças climáticas: problema ou oportunidade?](https://www.nexojornal.com.br/ensaio/2023/08/13/O-caf%C3%A9-e-as-mudan%C3%A7as-clim%C3%A1ticas-problema-ou-oportunidade)
 - [As áreas ‘invisíveis’ de conservação da Mata Atlântica](https://www.nexojornal.com.br/externo/2023/08/13/As-%C3%A1reas-%E2%80%98invis%C3%ADveis%E2%80%99-de-conserva%C3%A7%C3%A3o-da-Mata-Atl%C3%A2ntica)
+- [No Equador, partido de Villavicencio anuncia novo candidato](https://www.nexojornal.com.br/extra/2023/08/13/No-Equador-partido-de-Villavicencio-anuncia-novo-candidato)
+- [Morre aos 83 anos historiador José Murilo de Carvalho](https://www.nexojornal.com.br/extra/2023/08/13/Morre-aos-83-anos-historiador-Jos%C3%A9-Murilo-de-Carvalho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
