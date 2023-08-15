@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Neymar assina contrato com o Al-Hilal, time da Arábia Saudita](https://www.nexojornal.com.br/extra/2023/08/14/Neymar-assina-contrato-com-o-Al-Hilal-time-da-Ar%C3%A1bia-Saudita)
-- [Como a coalizão ameaça a diversidade do governo Lula](https://www.nexojornal.com.br/expresso/2023/08/14/Como-a-coaliz%C3%A3o-amea%C3%A7a-a-diversidade-do-governo-Lula)
-- [O que as primárias argentinas projetam para a eleição](https://www.nexojornal.com.br/expresso/2023/08/14/O-que-as-prim%C3%A1rias-argentinas-projetam-para-a-elei%C3%A7%C3%A3o)
-- [Por que o escândalo das joias preocupa tanto o bolsonarismo](https://www.nexojornal.com.br/podcast/2023/08/14/Por-que-o-esc%C3%A2ndalo-das-joias-preocupa-tanto-o-bolsonarismo)
-- [Jogar videogame não torna ninguém violento](https://www.nexojornal.com.br/ensaio/2023/08/14/Jogar-videogame-n%C3%A3o-torna-ningu%C3%A9m-violento)
+- [Após seis horas, governo diz que energia foi retomada](https://www.nexojornal.com.br/extra/2023/08/15/Ap%C3%B3s-seis-horas-governo-diz-que-energia-foi-retomada)
+- [Por tentar interferir em urnas na Geórgia, Trump é réu pela 4ª vez](https://www.nexojornal.com.br/extra/2023/08/15/Por-tentar-interferir-em-urnas-na-Ge%C3%B3rgia-Trump-%C3%A9-r%C3%A9u-pela-4%C2%AA-vez)
+- [Mais violência no Equador: dirigente político é assassinado](https://www.nexojornal.com.br/extra/2023/08/15/Mais-viol%C3%AAncia-no-Equador-dirigente-pol%C3%ADtico-%C3%A9-assassinado)
+- [Programa federal limpa nome de 5 milhões de endividados](https://www.nexojornal.com.br/extra/2023/08/14/Programa-federal-limpa-nome-de-5-milh%C3%B5es-de-endividados)
+- [Al-Hilal, da Arábia Saudita, anuncia contratação de Neymar](https://www.nexojornal.com.br/extra/2023/08/14/Al-Hilal-da-Ar%C3%A1bia-Saudita-anuncia-contrata%C3%A7%C3%A3o-de-Neymar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
