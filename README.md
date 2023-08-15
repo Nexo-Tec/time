@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Relógio Casio G-Shock](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-casio-g-shock/)
 - [@canaldothiagson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/canaldothiagson/)
 - [José Henrique Bortoluci: “A busca da história de um pai é uma busca sobre quem nós somos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jose-henrique-bortoluci-pai-caminhoneiro-livro-o-que-e-meu/)
 - [As Pequenas Chances](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-pequenas-chances/)
 - [Um detalhe jurídico autoritário e obsoleto](https://gamarevista.uol.com.br/colunistas/marilene-felinto/um-detalhe-juridico-autoritario-e-obsoleto/)
-- [Xande de Pilares traduz Caetano como nem o próprio faz](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/xande-de-pilares-traduz-caetano/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
