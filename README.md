@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Metrópoles brasileiras e política climática: o momento da ação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Metr%C3%B3poles-brasileiras-e-pol%C3%ADtica-clim%C3%A1tica-o-momento-da-a%C3%A7%C3%A3o)
 - [Três tendências do orçamento federal da saúde desde 2013](https://pp.nexojornal.com.br/Dados/2023/08/11/Tr%C3%AAs-tend%C3%AAncias-do-or%C3%A7amento-federal-da-sa%C3%BAde-desde-2013)
 - [André Valadão, Igreja da Lagoinha e o ativismo evangélico conservador](https://pp.nexojornal.com.br/opiniao/2023/Andr%C3%A9-Valad%C3%A3o-Igreja-da-Lagoinha-e-o-ativismo-evang%C3%A9lico-conservador)
 - [Nayara Bazzoli: injustiças estruturais e as oportunidades para as juventudes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/10/Nayara-Bazzoli-injusti%C3%A7as-estruturais-e-as-oportunidades-para-as-juventudes)
 - [Políticas agropecuárias para a transição de baixo carbono](https://pp.nexojornal.com.br/academico/2023/Pol%C3%ADticas-agropecu%C3%A1rias-para-a-transi%C3%A7%C3%A3o-de-baixo-carbono)
+- [Desempenho dos cotistas na UFSC: uma política de sucesso escolar](https://pp.nexojornal.com.br/opiniao/2023/Desempenho-dos-cotistas-na-UFSC-uma-pol%C3%ADtica-de-sucesso-escolar)
 <!-- PP_LIST:END -->
 
