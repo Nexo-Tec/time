@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Extremo leste de SP, onde o aluguel sobe mais do que no centro](https://www.nexojornal.com.br/externo/2023/08/15/Extremo-leste-de-SP-onde-o-aluguel-sobe-mais-do-que-no-centro)
-- [Quais temores o sucesso de Milei traz para o governo Lula](https://www.nexojornal.com.br/expresso/2023/08/15/Quais-temores-o-sucesso-de-Milei-traz-para-o-governo-Lula)
-- [Como jogadores de futebol passaram a ter contratos bilionários](https://www.nexojornal.com.br/expresso/2023/08/15/Como-jogadores-de-futebol-passaram-a-ter-contratos-bilion%C3%A1rios)
-- [Brasil é país que mais ganhou milionários em 2022](https://www.nexojornal.com.br/extra/2023/08/15/Brasil-%C3%A9-pa%C3%ADs-que-mais-ganhou-milion%C3%A1rios-em-2022)
-- [O streamer que joga videogame com controles inusitados](https://www.nexojornal.com.br/expresso/2023/08/15/O-streamer-que-joga-videogame-com-controles-inusitados)
+- [O rastro de morte e destruição deixado pelo fogo no Havaí](https://www.nexojornal.com.br/podcast/2023/08/15/O-rastro-de-morte-e-destrui%C3%A7%C3%A3o-deixado-pelo-fogo-no-Hava%C3%AD)
+- [Petrobras aumenta preço de gasolina e diesel nas refinarias](https://www.nexojornal.com.br/extra/2023/08/15/Petrobras-aumenta-pre%C3%A7o-de-gasolina-e-diesel-nas-refinarias)
+- [Quem fica com o dinheiro de uma celebridade infantil](https://www.nexojornal.com.br/expresso/2023/08/15/Quem-fica-com-o-dinheiro-de-uma-celebridade-infantil)
+- [Após seis horas, governo diz que energia foi retomada](https://www.nexojornal.com.br/extra/2023/08/15/Ap%C3%B3s-seis-horas-governo-diz-que-energia-foi-retomada)
+- [Por tentar interferir em urnas na Geórgia, Trump é réu pela 4ª vez](https://www.nexojornal.com.br/extra/2023/08/15/Por-tentar-interferir-em-urnas-na-Ge%C3%B3rgia-Trump-%C3%A9-r%C3%A9u-pela-4%C2%AA-vez)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
