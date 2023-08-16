@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Programa federal limpa nome de 5 milhões de endividados](https://www.nexojornal.com.br/extra/2023/08/14/Programa-federal-limpa-nome-de-5-milh%C3%B5es-de-endividados)
-- [Neymar assina contrato com o Al-Hilal, time da Arábia Saudita](https://www.nexojornal.com.br/extra/2023/08/14/Neymar-assina-contrato-com-o-Al-Hilal-time-da-Ar%C3%A1bia-Saudita)
-- [Como a coalizão ameaça a diversidade do governo Lula](https://www.nexojornal.com.br/expresso/2023/08/14/Como-a-coaliz%C3%A3o-amea%C3%A7a-a-diversidade-do-governo-Lula)
-- [O que as primárias argentinas projetam para a eleição](https://www.nexojornal.com.br/expresso/2023/08/14/O-que-as-prim%C3%A1rias-argentinas-projetam-para-a-elei%C3%A7%C3%A3o)
-- [Por que o escândalo das joias preocupa tanto o bolsonarismo](https://www.nexojornal.com.br/podcast/2023/08/14/Por-que-o-esc%C3%A2ndalo-das-joias-preocupa-tanto-o-bolsonarismo)
+- [Extremo leste de SP, onde o aluguel sobe mais do que no centro](https://www.nexojornal.com.br/externo/2023/08/15/Extremo-leste-de-SP-onde-o-aluguel-sobe-mais-do-que-no-centro)
+- [Quais temores o sucesso de Milei traz para o governo Lula](https://www.nexojornal.com.br/expresso/2023/08/15/Quais-temores-o-sucesso-de-Milei-traz-para-o-governo-Lula)
+- [Como jogadores de futebol passaram a ter contratos bilionários](https://www.nexojornal.com.br/expresso/2023/08/15/Como-jogadores-de-futebol-passaram-a-ter-contratos-bilion%C3%A1rios)
+- [Brasil é país que mais ganhou milionários em 2022](https://www.nexojornal.com.br/extra/2023/08/15/Brasil-%C3%A9-pa%C3%ADs-que-mais-ganhou-milion%C3%A1rios-em-2022)
+- [O streamer que joga videogame com controles inusitados](https://www.nexojornal.com.br/expresso/2023/08/15/O-streamer-que-joga-videogame-com-controles-inusitados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
