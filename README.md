@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Superior Tribunal de Justiça rejeita pedido da defesa de Robinho](https://www.nexojornal.com.br/extra/2023/08/16/Superior-Tribunal-de-Justi%C3%A7a-rejeita-pedido-da-defesa-de-Robinho)
-- [Como os grupos subalternos romanos utilizavam as domus](https://www.nexojornal.com.br/academico/2023/08/16/Como-os-grupos-subalternos-romanos-utilizavam-as-domus)
-- [Tarcísio quer anistiar multas que Bolsonaro tomou na pandemia](https://www.nexojornal.com.br/extra/2023/08/16/Tarc%C3%ADsio-quer-anistiar-multas-que-Bolsonaro-tomou-na-pandemia)
-- [O que pesa contra o secretário de Educação de São Paulo](https://www.nexojornal.com.br/expresso/2023/08/16/O-que-pesa-contra-o-secret%C3%A1rio-de-Educa%C3%A7%C3%A3o-de-S%C3%A3o-Paulo)
-- [Novo advogado de Mauro Cid diz que ele só cumpriu ordens](https://www.nexojornal.com.br/extra/2023/08/16/Novo-advogado-de-Mauro-Cid-diz-que-ele-s%C3%B3-cumpriu-ordens)
+- [Qual a origem da seringueira da borracha. E onde  é produzida](https://www.nexojornal.com.br/grafico/2023/08/16/Qual-a-origem-da-seringueira-da-borracha.-E-onde-%C3%A9-produzida)
+- [Retratos de comportamento abusivo](https://www.nexojornal.com.br/externo/2023/08/16/Retratos-de-comportamento-abusivo)
+- [Polícia, processo, Xandão – fora isso, não sobra mais nada](https://www.nexojornal.com.br/colunistas/2023/Pol%C3%ADcia-processo-Xand%C3%A3o-%E2%80%93-fora-isso-n%C3%A3o-sobra-mais-nada)
+- [Como o Dia da Batalha expõe a tensão entre Polônia e Rússia](https://www.nexojornal.com.br/expresso/2023/08/16/Como-o-Dia-da-Batalha-exp%C3%B5e-a-tens%C3%A3o-entre-Pol%C3%B4nia-e-R%C3%BAssia)
+- [Hacker da Vaza Jato diz que recebeu R$ 40 mil de Zambelli](https://www.nexojornal.com.br/extra/2023/08/16/Hacker-da-Vaza-Jato-diz-que-recebeu-R-40-mil-de-Zambelli)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
