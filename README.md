@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Clayton Nascimento](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-clayton-nascimento/)
 - [João Camarero: “A música é o elemento mais humanizador possível”](https://gamarevista.uol.com.br/pessoas/joao-camarero-a-musica-e-o-elemento-mais-humanizador-possivel/)
 - [“Motivações Genuínas” mostra o que move as pessoas a realizar seus projetos de vida](https://gamarevista.uol.com.br/especial/motivacoes-genuinas-mostra-o-que-move-as-pessoas-a-realizar-seus-projetos-de-vida/)
 - [Relógio Casio G-Shock](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-casio-g-shock/)
 - [@canaldothiagson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/canaldothiagson/)
-- [José Henrique Bortoluci: “A busca da história de um pai é uma busca sobre quem nós somos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jose-henrique-bortoluci-pai-caminhoneiro-livro-o-que-e-meu/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
