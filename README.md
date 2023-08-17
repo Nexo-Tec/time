@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Superior Tribunal de Justiça rejeita pedido da defesa de Robinho](https://www.nexojornal.com.br/extra/2023/08/16/Superior-Tribunal-de-Justi%C3%A7a-rejeita-pedido-da-defesa-de-Robinho)
-- [Como os grupos subalternos romanos utilizavam as domus](https://www.nexojornal.com.br/academico/2023/08/16/Como-os-grupos-subalternos-romanos-utilizavam-as-domus)
-- [Tarcísio quer anistiar multas que Bolsonaro tomou na pandemia](https://www.nexojornal.com.br/extra/2023/08/16/Tarc%C3%ADsio-quer-anistiar-multas-que-Bolsonaro-tomou-na-pandemia)
-- [O que pesa contra o secretário de Educação de São Paulo](https://www.nexojornal.com.br/expresso/2023/08/16/O-que-pesa-contra-o-secret%C3%A1rio-de-Educa%C3%A7%C3%A3o-de-S%C3%A3o-Paulo)
-- [Novo advogado de Mauro Cid diz que ele só cumpriu ordens](https://www.nexojornal.com.br/extra/2023/08/16/Novo-advogado-de-Mauro-Cid-diz-que-ele-s%C3%B3-cumpriu-ordens)
+- [Extremo leste de SP, onde o aluguel sobe mais do que no centro](https://www.nexojornal.com.br/externo/2023/08/15/Extremo-leste-de-SP-onde-o-aluguel-sobe-mais-do-que-no-centro)
+- [Quais temores o sucesso de Milei traz para o governo Lula](https://www.nexojornal.com.br/expresso/2023/08/15/Quais-temores-o-sucesso-de-Milei-traz-para-o-governo-Lula)
+- [Como jogadores de futebol passaram a ter contratos bilionários](https://www.nexojornal.com.br/expresso/2023/08/15/Como-jogadores-de-futebol-passaram-a-ter-contratos-bilion%C3%A1rios)
+- [Brasil é país que mais ganhou milionários em 2022](https://www.nexojornal.com.br/extra/2023/08/15/Brasil-%C3%A9-pa%C3%ADs-que-mais-ganhou-milion%C3%A1rios-em-2022)
+- [O streamer que joga videogame com controles inusitados](https://www.nexojornal.com.br/expresso/2023/08/15/O-streamer-que-joga-videogame-com-controles-inusitados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
