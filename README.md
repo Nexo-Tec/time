@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o iMac mudou a história dos dispositivos digitais](https://www.nexojornal.com.br/expresso/2023/08/17/Como-o-iMac-mudou-a-hist%C3%B3ria-dos-dispositivos-digitais)
-- [O que é uma economia dolarizada, como quer Milei na Argentina](https://www.nexojornal.com.br/expresso/2023/08/17/O-que-%C3%A9-uma-economia-dolarizada-como-quer-Milei-na-Argentina)
-- [Supremo forma maioria para criação de juiz de garantias](https://www.nexojornal.com.br/extra/2023/08/17/Supremo-forma-maioria-para-cria%C3%A7%C3%A3o-de-juiz-de-garantias)
-- [O peso da palavra do hacker na trama contra as urnas](https://www.nexojornal.com.br/podcast/2023/08/17/O-peso-da-palavra-do-hacker-na-trama-contra-as-urnas)
-- [A aposta de países da África na restauração de florestas](https://www.nexojornal.com.br/pontofuturo/2023/08/17/A-aposta-de-pa%C3%ADses-da-%C3%81frica-na-restaura%C3%A7%C3%A3o-de-florestas)
+- [Qual a origem da seringueira da borracha. E onde  é produzida](https://www.nexojornal.com.br/grafico/2023/08/16/Qual-a-origem-da-seringueira-da-borracha.-E-onde-%C3%A9-produzida)
+- [Retratos de comportamento abusivo](https://www.nexojornal.com.br/externo/2023/08/16/Retratos-de-comportamento-abusivo)
+- [Polícia, processo, Xandão – fora isso, não sobra mais nada](https://www.nexojornal.com.br/colunistas/2023/Pol%C3%ADcia-processo-Xand%C3%A3o-%E2%80%93-fora-isso-n%C3%A3o-sobra-mais-nada)
+- [Como o Dia da Batalha expõe a tensão entre Polônia e Rússia](https://www.nexojornal.com.br/expresso/2023/08/16/Como-o-Dia-da-Batalha-exp%C3%B5e-a-tens%C3%A3o-entre-Pol%C3%B4nia-e-R%C3%BAssia)
+- [Hacker da Vaza Jato diz que recebeu R$ 40 mil de Zambelli](https://www.nexojornal.com.br/extra/2023/08/16/Hacker-da-Vaza-Jato-diz-que-recebeu-R-40-mil-de-Zambelli)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
