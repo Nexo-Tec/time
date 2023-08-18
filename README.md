@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes quebra sigilos bancário e fiscal de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/17/Moraes-quebra-sigilos-banc%C3%A1rio-e-fiscal-de-Bolsonaro)
 - [Como o iMac mudou a história dos dispositivos digitais](https://www.nexojornal.com.br/expresso/2023/08/17/Como-o-iMac-mudou-a-hist%C3%B3ria-dos-dispositivos-digitais)
 - [O que é uma economia dolarizada, como quer Milei na Argentina](https://www.nexojornal.com.br/expresso/2023/08/17/O-que-%C3%A9-uma-economia-dolarizada-como-quer-Milei-na-Argentina)
 - [Supremo forma maioria para criação de juiz de garantias](https://www.nexojornal.com.br/extra/2023/08/17/Supremo-forma-maioria-para-cria%C3%A7%C3%A3o-de-juiz-de-garantias)
 - [O peso da palavra do hacker na trama contra as urnas](https://www.nexojornal.com.br/podcast/2023/08/17/O-peso-da-palavra-do-hacker-na-trama-contra-as-urnas)
-- [A aposta de países da África na restauração de florestas](https://www.nexojornal.com.br/pontofuturo/2023/08/17/A-aposta-de-pa%C3%ADses-da-%C3%81frica-na-restaura%C3%A7%C3%A3o-de-florestas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
