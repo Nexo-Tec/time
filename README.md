@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Trinta Segundos Sem Pensar no Medo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trinta-segundos-sem-pensar-no-medo/)
 - [CV: Clayton Nascimento](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-clayton-nascimento/)
 - [João Camarero: “A música é o elemento mais humanizador possível”](https://gamarevista.uol.com.br/pessoas/joao-camarero-a-musica-e-o-elemento-mais-humanizador-possivel/)
 - [“Motivações Genuínas” mostra o que move as pessoas a realizar seus projetos de vida](https://gamarevista.uol.com.br/especial/motivacoes-genuinas-mostra-o-que-move-as-pessoas-a-realizar-seus-projetos-de-vida/)
 - [Relógio Casio G-Shock](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/relogio-casio-g-shock/)
-- [@canaldothiagson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/canaldothiagson/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
