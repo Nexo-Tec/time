@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Combustíveis humanos](https://gamarevista.uol.com.br/colunistas/marcello-dantas/combustiveis-humanos/)
-- [Trinta Segundos Sem Pensar no Medo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/trinta-segundos-sem-pensar-no-medo/)
-- [CV: Clayton Nascimento](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-clayton-nascimento/)
-- [João Camarero: “A música é o elemento mais humanizador possível”](https://gamarevista.uol.com.br/pessoas/joao-camarero-a-musica-e-o-elemento-mais-humanizador-possivel/)
-- [“Motivações Genuínas” mostra o que move as pessoas a realizar seus projetos de vida](https://gamarevista.uol.com.br/especial/motivacoes-genuinas-mostra-o-que-move-as-pessoas-a-realizar-seus-projetos-de-vida/)
+- [Meryl Streep em “Only Murders in the Building”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/meryl-streep-em-only-murders-in-the-building/)
+- [A gênese do preconceito contra o Nordeste na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-genese-do-preconceito-contra-o-nordeste-na-piaui/)
+- [A arte da diáspora japonesa na América Latina](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-da-diaspora-japonesa-na-america-latina/)
+- [Um guia de SP como os de jornal, mas online](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-guia-de-sp-como-os-de-jornal-mas-online/)
+- [Laboratório afro-ameríndio de narrativas gamificadas](https://gamarevista.uol.com.br/achamos-que-vale/fazer/laboratorio-afro-amerindio-de-narrativas-gamificadas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
