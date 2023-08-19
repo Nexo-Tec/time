@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Campos magnéticos’: arte, política e o papel dos museus](https://www.nexojornal.com.br/estante/trechos/2023/08/18/%E2%80%98Campos-magn%C3%A9ticos%E2%80%99-arte-pol%C3%ADtica-e-o-papel-dos-museus)
-- [Miúcha e João Gilberto: uma história de amor e desamor](https://www.nexojornal.com.br/ensaio/2023/08/18/Mi%C3%BAcha-e-Jo%C3%A3o-Gilberto-uma-hist%C3%B3ria-de-amor-e-desamor)
-- [Quem é quem nas eleições presidenciais do Equador](https://www.nexojornal.com.br/expresso/2023/08/18/Quem-%C3%A9-quem-nas-elei%C3%A7%C3%B5es-presidenciais-do-Equador)
-- [Como o cerco se fecha contra Bolsonaro no caso das joias](https://www.nexojornal.com.br/expresso/2023/08/18/Como-o-cerco-se-fecha-contra-Bolsonaro-no-caso-das-joias)
-- [As investigações que pressionam Bolsonaro. O apagão. E mais](https://www.nexojornal.com.br/video/extrato/As-investiga%C3%A7%C3%B5es-que-pressionam-Bolsonaro.-O-apag%C3%A3o.-E-mais)
+- [Moraes quebra sigilos bancário e fiscal de Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/17/Moraes-quebra-sigilos-banc%C3%A1rio-e-fiscal-de-Bolsonaro)
+- [Como o iMac mudou a história dos dispositivos digitais](https://www.nexojornal.com.br/expresso/2023/08/17/Como-o-iMac-mudou-a-hist%C3%B3ria-dos-dispositivos-digitais)
+- [O que é uma economia dolarizada, como quer Milei na Argentina](https://www.nexojornal.com.br/expresso/2023/08/17/O-que-%C3%A9-uma-economia-dolarizada-como-quer-Milei-na-Argentina)
+- [Supremo forma maioria para criação de juiz de garantias](https://www.nexojornal.com.br/extra/2023/08/17/Supremo-forma-maioria-para-cria%C3%A7%C3%A3o-de-juiz-de-garantias)
+- [O peso da palavra do hacker na trama contra as urnas](https://www.nexojornal.com.br/podcast/2023/08/17/O-peso-da-palavra-do-hacker-na-trama-contra-as-urnas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
