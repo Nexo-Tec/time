@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Espanha ganha Copa do Mundo Feminina pela 1ª vez](https://www.nexojornal.com.br/grafico/2023/08/20/Espanha-ganha-Copa-do-Mundo-Feminina-pela-1%C2%AA-vez)
 - [5 livros para entender a dança contemporânea](https://www.nexojornal.com.br/estante/favoritos/2023/08/20/5-livros-para-entender-a-dan%C3%A7a-contempor%C3%A2nea)
 - [As confusões conceituais sobre ética e compliance](https://www.nexojornal.com.br/ensaio/2023/08/20/As-confus%C3%B5es-conceituais-sobre-%C3%A9tica-e-compliance)
 - [Por que a maioria dos casos de mortes pela polícia é arquivada](https://www.nexojornal.com.br/expresso/2023/08/20/Por-que-a-maioria-dos-casos-de-mortes-pela-pol%C3%ADcia-%C3%A9-arquivada1)
 - [Líder quilombola Mãe Bernadete é enterrada em Salvador](https://www.nexojornal.com.br/extra/2023/08/20/L%C3%ADder-quilombola-M%C3%A3e-Bernadete-%C3%A9-enterrada-em-Salvador)
-- [Como quilombolas são apagados de decisões políticas no Brasil](https://www.nexojornal.com.br/externo/2023/08/19/Como-quilombolas-s%C3%A3o-apagados-de-decis%C3%B5es-pol%C3%ADticas-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
