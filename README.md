@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para entender a dança contemporânea](https://www.nexojornal.com.br/estante/favoritos/2023/08/20/5-livros-para-entender-a-dan%C3%A7a-contempor%C3%A2nea)
-- [As confusões conceituais sobre ética e compliance](https://www.nexojornal.com.br/ensaio/2023/08/20/As-confus%C3%B5es-conceituais-sobre-%C3%A9tica-e-compliance)
-- [Por que a maioria dos casos de mortes pela polícia é arquivada](https://www.nexojornal.com.br/expresso/2023/08/20/Por-que-a-maioria-dos-casos-de-mortes-pela-pol%C3%ADcia-%C3%A9-arquivada1)
-- [Líder quilombola Mãe Bernadete é enterrada em Salvador](https://www.nexojornal.com.br/extra/2023/08/20/L%C3%ADder-quilombola-M%C3%A3e-Bernadete-%C3%A9-enterrada-em-Salvador)
 - [Como quilombolas são apagados de decisões políticas no Brasil](https://www.nexojornal.com.br/externo/2023/08/19/Como-quilombolas-s%C3%A3o-apagados-de-decis%C3%B5es-pol%C3%ADticas-no-Brasil)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Brasil confirma 1° caso da subvariante Éris de covid-19](https://www.nexojornal.com.br/extra/2023/08/18/Brasil-confirma-1%C2%B0-caso-da-subvariante-%C3%89ris-de-covid-19)
+- [‘Campos magnéticos’: arte, política e o papel dos museus](https://www.nexojornal.com.br/estante/trechos/2023/08/18/%E2%80%98Campos-magn%C3%A9ticos%E2%80%99-arte-pol%C3%ADtica-e-o-papel-dos-museus)
+- [Miúcha e João Gilberto: uma história de amor e desamor](https://www.nexojornal.com.br/ensaio/2023/08/18/Mi%C3%BAcha-e-Jo%C3%A3o-Gilberto-uma-hist%C3%B3ria-de-amor-e-desamor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
