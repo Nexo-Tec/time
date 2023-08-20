@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mariana Valente: “Não é sua culpa se os nudes caem na rede”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mariana-valente-internetlab-machismo-online/)
 - [“O livro é a única fonte confiável de saber que o estudante mais pobre tem”](https://gamarevista.uol.com.br/formato/conversas/o-livro-e-a-unica-fonte-confiavel-de-saber-que-o-estudante-mais-pobre-tem/)
 - [Meryl Streep em “Only Murders in the Building”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/meryl-streep-em-only-murders-in-the-building/)
 - [A gênese do preconceito contra o Nordeste na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-genese-do-preconceito-contra-o-nordeste-na-piaui/)
 - [A arte da diáspora japonesa na América Latina](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-arte-da-diaspora-japonesa-na-america-latina/)
-- [Um guia de SP como os de jornal, mas online](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-guia-de-sp-como-os-de-jornal-mas-online/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
