@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como quilombolas são apagados de decisões políticas no Brasil](https://www.nexojornal.com.br/externo/2023/08/19/Como-quilombolas-s%C3%A3o-apagados-de-decis%C3%B5es-pol%C3%ADticas-no-Brasil)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/18/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [Brasil confirma 1° caso da subvariante Éris de covid-19](https://www.nexojornal.com.br/extra/2023/08/18/Brasil-confirma-1%C2%B0-caso-da-subvariante-%C3%89ris-de-covid-19)
 - [‘Campos magnéticos’: arte, política e o papel dos museus](https://www.nexojornal.com.br/estante/trechos/2023/08/18/%E2%80%98Campos-magn%C3%A9ticos%E2%80%99-arte-pol%C3%ADtica-e-o-papel-dos-museus)
 - [Miúcha e João Gilberto: uma história de amor e desamor](https://www.nexojornal.com.br/ensaio/2023/08/18/Mi%C3%BAcha-e-Jo%C3%A3o-Gilberto-uma-hist%C3%B3ria-de-amor-e-desamor)
+- [Quem é quem nas eleições presidenciais do Equador](https://www.nexojornal.com.br/expresso/2023/08/18/Quem-%C3%A9-quem-nas-elei%C3%A7%C3%B5es-presidenciais-do-Equador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
