@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Azarão de esquerda vence conturbada eleição da Guatemala](https://www.nexojornal.com.br/extra/2023/08/21/Azar%C3%A3o-de-esquerda-vence-conturbada-elei%C3%A7%C3%A3o-da-Guatemala)
-- [Ônibus da torcida do Corinthians capota e 7 morrem em Minas](https://www.nexojornal.com.br/extra/2023/08/20/%C3%94nibus-da-torcida-do-Corinthians-capota-e-7-morrem-em-Minas)
-- [Espanha ganha Copa do Mundo Feminina pela 1ª vez](https://www.nexojornal.com.br/grafico/2023/08/20/Espanha-ganha-Copa-do-Mundo-Feminina-pela-1%C2%AA-vez)
 - [5 livros para entender a dança contemporânea](https://www.nexojornal.com.br/estante/favoritos/2023/08/20/5-livros-para-entender-a-dan%C3%A7a-contempor%C3%A2nea)
 - [As confusões conceituais sobre ética e compliance](https://www.nexojornal.com.br/ensaio/2023/08/20/As-confus%C3%B5es-conceituais-sobre-%C3%A9tica-e-compliance)
+- [Por que a maioria dos casos de mortes pela polícia é arquivada](https://www.nexojornal.com.br/expresso/2023/08/20/Por-que-a-maioria-dos-casos-de-mortes-pela-pol%C3%ADcia-%C3%A9-arquivada1)
+- [Líder quilombola Mãe Bernadete é enterrada em Salvador](https://www.nexojornal.com.br/extra/2023/08/20/L%C3%ADder-quilombola-M%C3%A3e-Bernadete-%C3%A9-enterrada-em-Salvador)
+- [Como quilombolas são apagados de decisões políticas no Brasil](https://www.nexojornal.com.br/externo/2023/08/19/Como-quilombolas-s%C3%A3o-apagados-de-decis%C3%B5es-pol%C3%ADticas-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
