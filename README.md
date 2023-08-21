@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pesquisa aponta queda de confiança nas Forças Armadas](https://www.nexojornal.com.br/extra/2023/08/21/Pesquisa-aponta-queda-de-confian%C3%A7a-nas-For%C3%A7as-Armadas)
-- [A liberdade cognitiva na era da Inteligência Artificial](https://www.nexojornal.com.br/expresso/2023/08/21/A-liberdade-cognitiva-na-era-da-Intelig%C3%AAncia-Artificial)
-- [Equador tem 2º turno entre Luísa González e Daniel Noboa](https://www.nexojornal.com.br/extra/2023/08/21/Equador-tem-2%C2%BA-turno-entre-Lu%C3%ADsa-Gonz%C3%A1lez-e-Daniel-Noboa)
-- [STF torna Carla Zambelli ré por perseguição armada](https://www.nexojornal.com.br/extra/2023/08/21/STF-torna-Carla-Zambelli-r%C3%A9-por-persegui%C3%A7%C3%A3o-armada1)
 - [O que os homens conversam sobre filhos em grupos de pais](https://www.nexojornal.com.br/externo/2023/08/21/O-que-os-homens-conversam-sobre-filhos-em-grupos-de-pais)
+- [Qual o melhor modelo para fiscalizar plataformas digitais?](https://www.nexojornal.com.br/ensaio/2023/08/21/Qual-o-melhor-modelo-para-fiscalizar-plataformas-digitais)
+- [As peculiaridades e interesses em torno da eleição em Singapura](https://www.nexojornal.com.br/expresso/2023/08/21/As-peculiaridades-e-interesses-em-torno-da-elei%C3%A7%C3%A3o-em-Singapura)
+- [ʽComissão tiraria das sombras escolhas presidenciais para o STFʼ](https://www.nexojornal.com.br/entrevista/2023/08/21/%CA%BDComiss%C3%A3o-tiraria-das-sombras-escolhas-presidenciais-para-o-STF%CA%BC)
+- [Azarão de esquerda vence conturbada eleição da Guatemala](https://www.nexojornal.com.br/extra/2023/08/21/Azar%C3%A3o-de-esquerda-vence-conturbada-elei%C3%A7%C3%A3o-da-Guatemala)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
