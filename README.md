@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que os homens conversam sobre filhos em grupos de pais](https://www.nexojornal.com.br/externo/2023/08/21/O-que-os-homens-conversam-sobre-filhos-em-grupos-de-pais)
-- [Qual o melhor modelo para fiscalizar plataformas digitais?](https://www.nexojornal.com.br/ensaio/2023/08/21/Qual-o-melhor-modelo-para-fiscalizar-plataformas-digitais)
-- [As peculiaridades e interesses em torno da eleição em Singapura](https://www.nexojornal.com.br/expresso/2023/08/21/As-peculiaridades-e-interesses-em-torno-da-elei%C3%A7%C3%A3o-em-Singapura)
-- [ʽComissão tiraria das sombras escolhas presidenciais para o STFʼ](https://www.nexojornal.com.br/entrevista/2023/08/21/%CA%BDComiss%C3%A3o-tiraria-das-sombras-escolhas-presidenciais-para-o-STF%CA%BC)
 - [Azarão de esquerda vence conturbada eleição da Guatemala](https://www.nexojornal.com.br/extra/2023/08/21/Azar%C3%A3o-de-esquerda-vence-conturbada-elei%C3%A7%C3%A3o-da-Guatemala)
+- [Ônibus da torcida do Corinthians capota e 7 morrem em Minas](https://www.nexojornal.com.br/extra/2023/08/20/%C3%94nibus-da-torcida-do-Corinthians-capota-e-7-morrem-em-Minas)
+- [Espanha ganha Copa do Mundo Feminina pela 1ª vez](https://www.nexojornal.com.br/grafico/2023/08/20/Espanha-ganha-Copa-do-Mundo-Feminina-pela-1%C2%AA-vez)
+- [5 livros para entender a dança contemporânea](https://www.nexojornal.com.br/estante/favoritos/2023/08/20/5-livros-para-entender-a-dan%C3%A7a-contempor%C3%A2nea)
+- [As confusões conceituais sobre ética e compliance](https://www.nexojornal.com.br/ensaio/2023/08/20/As-confus%C3%B5es-conceituais-sobre-%C3%A9tica-e-compliance)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
