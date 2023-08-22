@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como as imaginações católicas informam os ativismos socioambientais](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-as-imagina%C3%A7%C3%B5es-cat%C3%B3licas-informam-os-ativismos-socioambientais)
-- [Agosto, mês da primeira infância: caminhos para uma educação infantil antirracista](https://pp.nexojornal.com.br/opiniao/2023/Agosto-m%C3%AAs-da-primeira-inf%C3%A2ncia-caminhos-para-uma-educa%C3%A7%C3%A3o-infantil-antirracista)
-- [Entre a escola e o trabalho: a vida nada fácil dos jovens brasileiros, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Entre-a-escola-e-o-trabalho-a-vida-nada-f%C3%A1cil-dos-jovens-brasileiros-em-6-pontos)
+- [Entre a escola e o trabalho, a vida nada fácil dos jovens brasileiros, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Entre-a-escola-e-o-trabalho-a-vida-nada-f%C3%A1cil-dos-jovens-brasileiros-em-6-pontos)
 - [O presidencialismo de coalizão desde uma perspectiva feminista](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-presidencialismo-de-coaliz%C3%A3o-desde-uma-perspectiva-feminista)
 - [Insegurança hídrica urbana e periurbana: desafios e caminhos de reflexão e ação](https://pp.nexojornal.com.br/opiniao/2023/Inseguran%C3%A7a-h%C3%ADdrica-urbana-e-periurbana-desafios-e-caminhos-de-reflex%C3%A3o-e-a%C3%A7%C3%A3o)
+- [Metrópoles brasileiras e política climática: o momento da ação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Metr%C3%B3poles-brasileiras-e-pol%C3%ADtica-clim%C3%A1tica-o-momento-da-a%C3%A7%C3%A3o)
+- [Três tendências do orçamento federal da saúde desde 2013](https://pp.nexojornal.com.br/Dados/2023/08/11/Tr%C3%AAs-tend%C3%AAncias-do-or%C3%A7amento-federal-da-sa%C3%BAde-desde-2013)
 <!-- PP_LIST:END -->
 
