@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um backlash silencioso](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-backlash-silencioso/)
 - [Diamantes tem à vontade](https://gamarevista.uol.com.br/colunistas/fernando-luna/diamantes-tem-a-vontade/)
 - [Mariana Valente: “Não é sua culpa se os nudes caem na rede”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mariana-valente-internetlab-machismo-online/)
 - [“O livro é a única fonte confiável de saber que o estudante mais pobre tem”](https://gamarevista.uol.com.br/formato/conversas/o-livro-e-a-unica-fonte-confiavel-de-saber-que-o-estudante-mais-pobre-tem/)
 - [Meryl Streep em “Only Murders in the Building”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/meryl-streep-em-only-murders-in-the-building/)
-- [A gênese do preconceito contra o Nordeste na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-genese-do-preconceito-contra-o-nordeste-na-piaui/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
