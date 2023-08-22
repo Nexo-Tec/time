@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que os homens conversam sobre filhos em grupos de pais](https://www.nexojornal.com.br/externo/2023/08/21/O-que-os-homens-conversam-sobre-filhos-em-grupos-de-pais)
-- [Qual o melhor modelo para fiscalizar plataformas digitais?](https://www.nexojornal.com.br/ensaio/2023/08/21/Qual-o-melhor-modelo-para-fiscalizar-plataformas-digitais)
-- [As peculiaridades e interesses em torno da eleição em Singapura](https://www.nexojornal.com.br/expresso/2023/08/21/As-peculiaridades-e-interesses-em-torno-da-elei%C3%A7%C3%A3o-em-Singapura)
-- [ʽComissão tiraria das sombras escolhas presidenciais para o STFʼ](https://www.nexojornal.com.br/entrevista/2023/08/21/%CA%BDComiss%C3%A3o-tiraria-das-sombras-escolhas-presidenciais-para-o-STF%CA%BC)
-- [Azarão de esquerda vence conturbada eleição da Guatemala](https://www.nexojornal.com.br/extra/2023/08/21/Azar%C3%A3o-de-esquerda-vence-conturbada-elei%C3%A7%C3%A3o-da-Guatemala)
+- [Por que o transplante de órgãos só pode ser feito via SUS](https://www.nexojornal.com.br/expresso/2023/08/21/Por-que-o-transplante-de-%C3%B3rg%C3%A3os-s%C3%B3-pode-ser-feito-via-SUS)
+- [123milhas: como o modelo de pacotes flexíveis se esgotou](https://www.nexojornal.com.br/expresso/2023/08/21/123milhas-como-o-modelo-de-pacotes-flex%C3%ADveis-se-esgotou)
+- [Hacker pega 20 anos de prisão por invadir app de autoridades](https://www.nexojornal.com.br/extra/2023/08/21/Hacker-pega-20-anos-de-pris%C3%A3o-por-invadir-app-de-autoridades)
+- [Reeditando o passado de um Brasil que jamais existiu](https://www.nexojornal.com.br/ensaio/2023/08/21/Reeditando-o-passado-de-um-Brasil-que-jamais-existiu)
+- [As obras que misturam Pokémon e técnicas de artesanato](https://www.nexojornal.com.br/expresso/2023/08/21/As-obras-que-misturam-Pok%C3%A9mon-e-t%C3%A9cnicas-de-artesanato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
