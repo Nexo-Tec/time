@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Investigação aponta pedido de Bolsonaro para enviar fake news](https://www.nexojornal.com.br/extra/2023/08/22/Investiga%C3%A7%C3%A3o-aponta-pedido-de-Bolsonaro-para-enviar-fake-news)
-- [O que se perde quando a memória coletiva depende das redes](https://www.nexojornal.com.br/expresso/2023/08/22/O-que-se-perde-quando-a-mem%C3%B3ria-coletiva-depende-das-redes)
-- [Lula atua para que Brics não seja força anti-Ocidente](https://www.nexojornal.com.br/extra/2023/08/22/Lula-atua-para-que-Brics-n%C3%A3o-seja-for%C3%A7a-anti-Ocidente)
 - [Por que o transplante de órgãos só pode ser feito via SUS](https://www.nexojornal.com.br/expresso/2023/08/21/Por-que-o-transplante-de-%C3%B3rg%C3%A3os-s%C3%B3-pode-ser-feito-via-SUS)
 - [123milhas: como o modelo de pacotes flexíveis se esgotou](https://www.nexojornal.com.br/expresso/2023/08/21/123milhas-como-o-modelo-de-pacotes-flex%C3%ADveis-se-esgotou)
+- [Hacker pega 20 anos de prisão por invadir app de autoridades](https://www.nexojornal.com.br/extra/2023/08/21/Hacker-pega-20-anos-de-pris%C3%A3o-por-invadir-app-de-autoridades)
+- [Reeditando o passado de um Brasil que jamais existiu](https://www.nexojornal.com.br/ensaio/2023/08/21/Reeditando-o-passado-de-um-Brasil-que-jamais-existiu)
+- [As obras que misturam Pokémon e técnicas de artesanato](https://www.nexojornal.com.br/expresso/2023/08/21/As-obras-que-misturam-Pok%C3%A9mon-e-t%C3%A9cnicas-de-artesanato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
