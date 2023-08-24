@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nome de Prigozhin está em lista de avião que caiu na Rússia](https://www.nexojornal.com.br/extra/2023/08/23/Nome-de-Prigozhin-est%C3%A1-em-lista-de-avi%C3%A3o-que-caiu-na-R%C3%BAssia)
-- [Como as pirâmides de criptomoedas dominaram o futebol](https://www.nexojornal.com.br/expresso/2023/08/23/Como-as-pir%C3%A2mides-de-criptomoedas-dominaram-o-futebol)
-- [Marina critica parecer da AGU sobre petróleo no Amazonas](https://www.nexojornal.com.br/extra/2023/08/23/Marina-critica-parecer-da-AGU-sobre-petr%C3%B3leo-no-Amazonas)
 - [Uma guinada política na Tailândia: do exílio à aliança com militares](https://www.nexojornal.com.br/expresso/2023/08/22/Uma-guinada-pol%C3%ADtica-na-Tail%C3%A2ndia-do-ex%C3%ADlio-%C3%A0-alian%C3%A7a-com-militares)
 - [O papel da observação eleitoral na qualidade da democracia](https://www.nexojornal.com.br/ensaio/2023/08/22/O-papel-da-observa%C3%A7%C3%A3o-eleitoral-na-qualidade-da-democracia)
+- [Por que líderes quilombolas são tão vulneráveis à violência](https://www.nexojornal.com.br/expresso/2023/08/22/Por-que-l%C3%ADderes-quilombolas-s%C3%A3o-t%C3%A3o-vulner%C3%A1veis-%C3%A0-viol%C3%AAncia)
+- [Como Lula tenta cumprir a meta fiscal do arcabouço em 2024](https://www.nexojornal.com.br/expresso/2023/08/22/Como-Lula-tenta-cumprir-a-meta-fiscal-do-arcabou%C3%A7o-em-2024)
+- [Alckmin destaca empenho de Lira para votar nova regra fiscal](https://www.nexojornal.com.br/extra/2023/08/22/Alckmin-destaca-empenho-de-Lira-para-votar-nova-regra-fiscal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
