@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brics anuncia a entrada de 6 novos países no bloco](https://www.nexojornal.com.br/extra/2023/08/24/Brics-anuncia-a-entrada-de-6-novos-pa%C3%ADses-no-bloco)
-- [Câmara aprova aumento do salário mínimo e correção do IR](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-aprova-aumento-do-sal%C3%A1rio-m%C3%ADnimo-e-corre%C3%A7%C3%A3o-do-IR)
-- [Polícia do DF faz operação contra Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/24/Pol%C3%ADcia-do-DF-faz-opera%C3%A7%C3%A3o-contra-Jair-Renan-Bolsonaro)
 - [Parentes e processos: o vínculo de ministros do STF com advogados](https://www.nexojornal.com.br/expresso/2023/08/23/Parentes-e-processos-o-v%C3%ADnculo-de-ministros-do-STF-com-advogados)
 - [Argentina tem onda de saques a comércios e supermercados](https://www.nexojornal.com.br/extra/2023/08/23/Argentina-tem-onda-de-saques-a-com%C3%A9rcios-e-supermercados)
+- [Supremo conclui julgamento e valida juiz de garantias](https://www.nexojornal.com.br/extra/2023/08/23/Supremo-conclui-julgamento-e-valida-juiz-de-garantias)
+- [Bolsonaro, um vetor de fake news: ‘mandei, qual o problema?’](https://www.nexojornal.com.br/podcast/2023/08/23/Bolsonaro-um-vetor-de-fake-news-%E2%80%98mandei-qual-o-problema%E2%80%99)
+- [Ética: uma área em que as universidades deveriam ser exemplo](https://www.nexojornal.com.br/colunistas/2023/%C3%89tica-uma-%C3%A1rea-em-que-as-universidades-deveriam-ser-exemplo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
