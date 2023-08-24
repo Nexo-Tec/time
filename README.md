@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Parentes e processos: o vínculo de ministros do STF com advogados](https://www.nexojornal.com.br/expresso/2023/08/23/Parentes-e-processos-o-v%C3%ADnculo-de-ministros-do-STF-com-advogados)
-- [Argentina tem onda de saques a comércios e supermercados](https://www.nexojornal.com.br/extra/2023/08/23/Argentina-tem-onda-de-saques-a-com%C3%A9rcios-e-supermercados)
-- [Supremo conclui julgamento e valida juiz de garantias](https://www.nexojornal.com.br/extra/2023/08/23/Supremo-conclui-julgamento-e-valida-juiz-de-garantias)
-- [Bolsonaro, um vetor de fake news: ‘mandei, qual o problema?’](https://www.nexojornal.com.br/podcast/2023/08/23/Bolsonaro-um-vetor-de-fake-news-%E2%80%98mandei-qual-o-problema%E2%80%99)
-- [Ética: uma área em que as universidades deveriam ser exemplo](https://www.nexojornal.com.br/colunistas/2023/%C3%89tica-uma-%C3%A1rea-em-que-as-universidades-deveriam-ser-exemplo)
+- [Nome de Prigozhin está em lista de avião que caiu na Rússia](https://www.nexojornal.com.br/extra/2023/08/23/Nome-de-Prigozhin-est%C3%A1-em-lista-de-avi%C3%A3o-que-caiu-na-R%C3%BAssia)
+- [Como as pirâmides de criptomoedas dominaram o futebol](https://www.nexojornal.com.br/expresso/2023/08/23/Como-as-pir%C3%A2mides-de-criptomoedas-dominaram-o-futebol)
+- [Marina critica parecer da AGU sobre petróleo no Amazonas](https://www.nexojornal.com.br/extra/2023/08/23/Marina-critica-parecer-da-AGU-sobre-petr%C3%B3leo-no-Amazonas)
+- [Uma guinada política na Tailândia: do exílio à aliança com militares](https://www.nexojornal.com.br/expresso/2023/08/22/Uma-guinada-pol%C3%ADtica-na-Tail%C3%A2ndia-do-ex%C3%ADlio-%C3%A0-alian%C3%A7a-com-militares)
+- [O papel da observação eleitoral na qualidade da democracia](https://www.nexojornal.com.br/ensaio/2023/08/22/O-papel-da-observa%C3%A7%C3%A3o-eleitoral-na-qualidade-da-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
