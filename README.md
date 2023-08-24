@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [DNA ladrão](https://gamarevista.uol.com.br/colunistas/maria-homem/dna-ladrao/)
 - [Uma mulher negra no STF](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/uma-mulher-negra-no-stf/)
 - [Rosamaria Montibeller](https://gamarevista.uol.com.br/pessoas/questionario-proust/rosamaria-montibeller/)
 - [Beth Beli: “O tambor me empoderou e me levou a tantos lugares do mundo”](https://gamarevista.uol.com.br/pessoas/beth-beli-o-tambor-me-empoderou-e-me-levou-a-tantos-lugares-do-mundo/)
 - [Um backlash silencioso](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-backlash-silencioso/)
-- [Diamantes tem à vontade](https://gamarevista.uol.com.br/colunistas/fernando-luna/diamantes-tem-a-vontade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
