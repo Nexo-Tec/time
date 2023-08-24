@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nome de Prigozhin está em lista de avião que caiu na Rússia](https://www.nexojornal.com.br/extra/2023/08/23/Nome-de-Prigozhin-est%C3%A1-em-lista-de-avi%C3%A3o-que-caiu-na-R%C3%BAssia)
-- [Como as pirâmides de criptomoedas dominaram o futebol](https://www.nexojornal.com.br/expresso/2023/08/23/Como-as-pir%C3%A2mides-de-criptomoedas-dominaram-o-futebol)
-- [Marina critica parecer da AGU sobre petróleo no Amazonas](https://www.nexojornal.com.br/extra/2023/08/23/Marina-critica-parecer-da-AGU-sobre-petr%C3%B3leo-no-Amazonas)
-- [Uma guinada política na Tailândia: do exílio à aliança com militares](https://www.nexojornal.com.br/expresso/2023/08/22/Uma-guinada-pol%C3%ADtica-na-Tail%C3%A2ndia-do-ex%C3%ADlio-%C3%A0-alian%C3%A7a-com-militares)
-- [O papel da observação eleitoral na qualidade da democracia](https://www.nexojornal.com.br/ensaio/2023/08/22/O-papel-da-observa%C3%A7%C3%A3o-eleitoral-na-qualidade-da-democracia)
+- [Câmara Municipal de SP inicia processo de cassação por racismo](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-Municipal-de-SP-inicia-processo-de-cassa%C3%A7%C3%A3o-por-racismo)
+- [O novo doc de Kleber Mendonça. E o cenário dos cinemas de rua](https://www.nexojornal.com.br/expresso/2023/08/24/O-novo-doc-de-Kleber-Mendon%C3%A7a.-E-o-cen%C3%A1rio-dos-cinemas-de-rua)
+- [Fifa abre processo contra dirigente por beijo em jogadora](https://www.nexojornal.com.br/extra/2023/08/24/Fifa-abre-processo-contra-dirigente-por-beijo-em-jogadora)
+- [A passagem de poder político de pai para filho no Camboja](https://www.nexojornal.com.br/expresso/2023/08/24/A-passagem-de-poder-pol%C3%ADtico-de-pai-para-filho-no-Camboja)
+- [Brics anuncia a entrada de 6 novos países no bloco](https://www.nexojornal.com.br/extra/2023/08/24/Brics-anuncia-a-entrada-de-6-novos-pa%C3%ADses-no-bloco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
