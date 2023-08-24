@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [DNA ladrão](https://gamarevista.uol.com.br/colunistas/maria-homem/dna-ladrao/)
-- [Uma mulher negra no STF](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/uma-mulher-negra-no-stf/)
-- [Rosamaria Montibeller](https://gamarevista.uol.com.br/pessoas/questionario-proust/rosamaria-montibeller/)
-- [Beth Beli: “O tambor me empoderou e me levou a tantos lugares do mundo”](https://gamarevista.uol.com.br/pessoas/beth-beli-o-tambor-me-empoderou-e-me-levou-a-tantos-lugares-do-mundo/)
-- [Um backlash silencioso](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/um-backlash-silencioso/)
+- [O legado de Léa Garcia](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-legado-de-lea-garcia/)
+- [A segunda temporada de “The Bear”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-the-bear/)
+- [O novo filme de Kléber Mendonça Filho](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-novo-filme-de-kleber-mendonca-filho/)
+- [João Camarero e Arthur Nestrovski juntos e ao vivo em SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/joao-camarero-e-arthur-nestrovski-juntos-e-ao-vivo/)
+- [Um fotógrafo alemão e a industrialização paulistana, no IMS-SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-fotografo-alemao-e-a-industrializacao-paulistana-no-ims-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
