@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara Municipal de SP inicia processo de cassação por racismo](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-Municipal-de-SP-inicia-processo-de-cassa%C3%A7%C3%A3o-por-racismo)
-- [O novo doc de Kleber Mendonça. E o cenário dos cinemas de rua](https://www.nexojornal.com.br/expresso/2023/08/24/O-novo-doc-de-Kleber-Mendon%C3%A7a.-E-o-cen%C3%A1rio-dos-cinemas-de-rua)
-- [Fifa abre processo contra dirigente por beijo em jogadora](https://www.nexojornal.com.br/extra/2023/08/24/Fifa-abre-processo-contra-dirigente-por-beijo-em-jogadora)
-- [A passagem de poder político de pai para filho no Camboja](https://www.nexojornal.com.br/expresso/2023/08/24/A-passagem-de-poder-pol%C3%ADtico-de-pai-para-filho-no-Camboja)
 - [Brics anuncia a entrada de 6 novos países no bloco](https://www.nexojornal.com.br/extra/2023/08/24/Brics-anuncia-a-entrada-de-6-novos-pa%C3%ADses-no-bloco)
+- [Câmara aprova aumento do salário mínimo e correção do IR](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-aprova-aumento-do-sal%C3%A1rio-m%C3%ADnimo-e-corre%C3%A7%C3%A3o-do-IR)
+- [Polícia do DF faz operação contra Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/24/Pol%C3%ADcia-do-DF-faz-opera%C3%A7%C3%A3o-contra-Jair-Renan-Bolsonaro)
+- [Parentes e processos: o vínculo de ministros do STF com advogados](https://www.nexojornal.com.br/expresso/2023/08/23/Parentes-e-processos-o-v%C3%ADnculo-de-ministros-do-STF-com-advogados)
+- [Argentina tem onda de saques a comércios e supermercados](https://www.nexojornal.com.br/extra/2023/08/23/Argentina-tem-onda-de-saques-a-com%C3%A9rcios-e-supermercados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
