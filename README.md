@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o bônus por fuzil impacta o trabalho da polícia](https://www.nexojornal.com.br/expresso/2023/08/24/Como-o-b%C3%B4nus-por-fuzil-impacta-o-trabalho-da-pol%C3%ADcia)
-- [Preto é tudo igual?](https://www.nexojornal.com.br/colunistas/2023/Preto-%C3%A9-tudo-igual)
-- [Como a expansão do Brics afeta a posição do Brasil no mundo](https://www.nexojornal.com.br/expresso/2023/08/24/Como-a-expans%C3%A3o-do-Brics-afeta-a-posi%C3%A7%C3%A3o-do-Brasil-no-mundo)
-- [Como os saques engrossam o caos econômico argentino](https://www.nexojornal.com.br/expresso/2023/08/24/Como-os-saques-engrossam-o-caos-econ%C3%B4mico-argentino)
-- [A possibilidade da descoberta de uma 5ª força da natureza](https://www.nexojornal.com.br/expresso/2023/08/24/A-possibilidade-da-descoberta-de-uma-5%C2%AA-for%C3%A7a-da-natureza)
+- [Brics anuncia a entrada de 6 novos países no bloco](https://www.nexojornal.com.br/extra/2023/08/24/Brics-anuncia-a-entrada-de-6-novos-pa%C3%ADses-no-bloco)
+- [Câmara aprova aumento do salário mínimo e correção do IR](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-aprova-aumento-do-sal%C3%A1rio-m%C3%ADnimo-e-corre%C3%A7%C3%A3o-do-IR)
+- [Polícia do DF faz operação contra Jair Renan Bolsonaro](https://www.nexojornal.com.br/extra/2023/08/24/Pol%C3%ADcia-do-DF-faz-opera%C3%A7%C3%A3o-contra-Jair-Renan-Bolsonaro)
+- [Parentes e processos: o vínculo de ministros do STF com advogados](https://www.nexojornal.com.br/expresso/2023/08/23/Parentes-e-processos-o-v%C3%ADnculo-de-ministros-do-STF-com-advogados)
+- [Argentina tem onda de saques a comércios e supermercados](https://www.nexojornal.com.br/extra/2023/08/23/Argentina-tem-onda-de-saques-a-com%C3%A9rcios-e-supermercados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
