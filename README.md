@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Seleção feminina se recusa a jogar até saída de dirigente espanhol](https://www.nexojornal.com.br/extra/2023/08/25/Sele%C3%A7%C3%A3o-feminina-se-recusa-a-jogar-at%C3%A9-sa%C3%ADda-de-dirigente-espanhol)
+- [Heineken completa venda de operação na Rússia por 1 euro](https://www.nexojornal.com.br/extra/2023/08/25/Heineken-completa-venda-de-opera%C3%A7%C3%A3o-na-R%C3%BAssia-por-1-euro)
+- [O que você sabe sobre a história do hip-hop? Faça o teste](https://www.nexojornal.com.br/interativo/2023/08/25/O-que-voc%C3%AA-sabe-sobre-a-hist%C3%B3ria-do-hip-hop-Fa%C3%A7a-o-teste)
+- [8 de janeiro vira ‘Dia do Patriota’ em Porto Alegre](https://www.nexojornal.com.br/extra/2023/08/25/8-de-janeiro-vira-%E2%80%98Dia-do-Patriota%E2%80%99-em-Porto-Alegre)
 - [Prévia da inflação avança em agosto após 2 meses estagnada](https://www.nexojornal.com.br/extra/2023/08/25/Pr%C3%A9via-da-infla%C3%A7%C3%A3o-avan%C3%A7a-em-agosto-ap%C3%B3s-2-meses-estagnada)
-- [Réu pela 4ª vez, Donald Trump é fichado em prisão da Geórgia](https://www.nexojornal.com.br/extra/2023/08/24/R%C3%A9u-pela-4%C2%AA-vez-Donald-Trump-%C3%A9-fichado-em-pris%C3%A3o-da-Ge%C3%B3rgia)
-- [Como o bônus por fuzil impacta o trabalho da polícia](https://www.nexojornal.com.br/expresso/2023/08/24/Como-o-b%C3%B4nus-por-fuzil-impacta-o-trabalho-da-pol%C3%ADcia)
-- [Preto é tudo igual?](https://www.nexojornal.com.br/colunistas/2023/Preto-%C3%A9-tudo-igual)
-- [Como a expansão do Brics afeta a posição do Brasil no mundo](https://www.nexojornal.com.br/expresso/2023/08/24/Como-a-expans%C3%A3o-do-Brics-afeta-a-posi%C3%A7%C3%A3o-do-Brasil-no-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
