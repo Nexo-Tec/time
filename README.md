@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Prévia da inflação avança em agosto após 2 meses estagnada](https://www.nexojornal.com.br/extra/2023/08/25/Pr%C3%A9via-da-infla%C3%A7%C3%A3o-avan%C3%A7a-em-agosto-ap%C3%B3s-2-meses-estagnada)
-- [Réu pela 4ª vez, Donald Trump é fichado em prisão da Geórgia](https://www.nexojornal.com.br/extra/2023/08/24/R%C3%A9u-pela-4%C2%AA-vez-Donald-Trump-%C3%A9-fichado-em-pris%C3%A3o-da-Ge%C3%B3rgia)
 - [Como o bônus por fuzil impacta o trabalho da polícia](https://www.nexojornal.com.br/expresso/2023/08/24/Como-o-b%C3%B4nus-por-fuzil-impacta-o-trabalho-da-pol%C3%ADcia)
 - [Preto é tudo igual?](https://www.nexojornal.com.br/colunistas/2023/Preto-%C3%A9-tudo-igual)
 - [Como a expansão do Brics afeta a posição do Brasil no mundo](https://www.nexojornal.com.br/expresso/2023/08/24/Como-a-expans%C3%A3o-do-Brics-afeta-a-posi%C3%A7%C3%A3o-do-Brasil-no-mundo)
+- [Como os saques engrossam o caos econômico argentino](https://www.nexojornal.com.br/expresso/2023/08/24/Como-os-saques-engrossam-o-caos-econ%C3%B4mico-argentino)
+- [A possibilidade da descoberta de uma 5ª força da natureza](https://www.nexojornal.com.br/expresso/2023/08/24/A-possibilidade-da-descoberta-de-uma-5%C2%AA-for%C3%A7a-da-natureza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
