@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara Municipal de SP inicia processo de cassação por racismo](https://www.nexojornal.com.br/extra/2023/08/24/C%C3%A2mara-Municipal-de-SP-inicia-processo-de-cassa%C3%A7%C3%A3o-por-racismo)
-- [O novo doc de Kleber Mendonça. E o cenário dos cinemas de rua](https://www.nexojornal.com.br/expresso/2023/08/24/O-novo-doc-de-Kleber-Mendon%C3%A7a.-E-o-cen%C3%A1rio-dos-cinemas-de-rua)
-- [Fifa abre processo contra dirigente por beijo em jogadora](https://www.nexojornal.com.br/extra/2023/08/24/Fifa-abre-processo-contra-dirigente-por-beijo-em-jogadora)
-- [A passagem de poder político de pai para filho no Camboja](https://www.nexojornal.com.br/expresso/2023/08/24/A-passagem-de-poder-pol%C3%ADtico-de-pai-para-filho-no-Camboja)
-- [Brics anuncia a entrada de 6 novos países no bloco](https://www.nexojornal.com.br/extra/2023/08/24/Brics-anuncia-a-entrada-de-6-novos-pa%C3%ADses-no-bloco)
+- [Como o bônus por fuzil impacta o trabalho da polícia](https://www.nexojornal.com.br/expresso/2023/08/24/Como-o-b%C3%B4nus-por-fuzil-impacta-o-trabalho-da-pol%C3%ADcia)
+- [Preto é tudo igual?](https://www.nexojornal.com.br/colunistas/2023/Preto-%C3%A9-tudo-igual)
+- [Como a expansão do Brics afeta a posição do Brasil no mundo](https://www.nexojornal.com.br/expresso/2023/08/24/Como-a-expans%C3%A3o-do-Brics-afeta-a-posi%C3%A7%C3%A3o-do-Brasil-no-mundo)
+- [Como os saques engrossam o caos econômico argentino](https://www.nexojornal.com.br/expresso/2023/08/24/Como-os-saques-engrossam-o-caos-econ%C3%B4mico-argentino)
+- [A possibilidade da descoberta de uma 5ª força da natureza](https://www.nexojornal.com.br/expresso/2023/08/24/A-possibilidade-da-descoberta-de-uma-5%C2%AA-for%C3%A7a-da-natureza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
