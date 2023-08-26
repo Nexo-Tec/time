@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Como as imaginações católicas informam os ativismos socioambientais](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-as-imagina%C3%A7%C3%B5es-cat%C3%B3licas-informam-os-ativismos-socioambientais)
-- [Agosto, mês da primeira infância: caminhos para uma educação infantil antirracista](https://pp.nexojornal.com.br/opiniao/2023/Agosto-m%C3%AAs-da-primeira-inf%C3%A2ncia-caminhos-para-uma-educa%C3%A7%C3%A3o-infantil-antirracista)
-- [Entre a escola e o trabalho: a vida nada fácil dos jovens brasileiros, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Entre-a-escola-e-o-trabalho-a-vida-nada-f%C3%A1cil-dos-jovens-brasileiros-em-6-pontos)
-- [O presidencialismo de coalizão desde uma perspectiva feminista](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-presidencialismo-de-coaliz%C3%A3o-desde-uma-perspectiva-feminista)
-- [Insegurança hídrica urbana e periurbana: desafios e caminhos de reflexão e ação](https://pp.nexojornal.com.br/opiniao/2023/Inseguran%C3%A7a-h%C3%ADdrica-urbana-e-periurbana-desafios-e-caminhos-de-reflex%C3%A3o-e-a%C3%A7%C3%A3o)
+- [Jelson Oliveira: princípios éticos no uso de novas tecnologias para a alimentação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/25/Jelson-Oliveira-princ%C3%ADpios-%C3%A9ticos-no-uso-de-novas-tecnologias-para-a-alimenta%C3%A7%C3%A3o)
+- [Como a emissão de gases de efeito estufa afeta a biodiversidade terrestre brasileira](https://pp.nexojornal.com.br/academico/2023/Como-a-emiss%C3%A3o-de-gases-de-efeito-estufa-afeta-a-biodiversidade-terrestre-brasileira)
+- [É preciso fortalecer a coprodução entre cientistas e gestores públicos](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-preciso-fortalecer-a-coprodu%C3%A7%C3%A3o-entre-cientistas-e-gestores-p%C3%BAblicos)
+- [Decrescimento: uma alternativa para o Brasil?](https://pp.nexojornal.com.br/opiniao/2023/Decrescimento-uma-alternativa-para-o-Brasil)
+- [Saúde mental materna na pandemia de covid-19: desenvolvimento infantil e práticas parentais](https://pp.nexojornal.com.br/academico/2023/Sa%C3%BAde-mental-materna-na-pandemia-de-covid-19-desenvolvimento-infantil-e-pr%C3%A1ticas-parentais)
 <!-- PP_LIST:END -->
 
