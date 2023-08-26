@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Prévia da inflação avança em agosto após 2 meses estagnada](https://www.nexojornal.com.br/extra/2023/08/25/Pr%C3%A9via-da-infla%C3%A7%C3%A3o-avan%C3%A7a-em-agosto-ap%C3%B3s-2-meses-estagnada)
-- [Réu pela 4ª vez, Donald Trump é fichado em prisão da Geórgia](https://www.nexojornal.com.br/extra/2023/08/24/R%C3%A9u-pela-4%C2%AA-vez-Donald-Trump-%C3%A9-fichado-em-pris%C3%A3o-da-Ge%C3%B3rgia)
-- [Como o bônus por fuzil impacta o trabalho da polícia](https://www.nexojornal.com.br/expresso/2023/08/24/Como-o-b%C3%B4nus-por-fuzil-impacta-o-trabalho-da-pol%C3%ADcia)
-- [Preto é tudo igual?](https://www.nexojornal.com.br/colunistas/2023/Preto-%C3%A9-tudo-igual)
-- [Como a expansão do Brics afeta a posição do Brasil no mundo](https://www.nexojornal.com.br/expresso/2023/08/24/Como-a-expans%C3%A3o-do-Brics-afeta-a-posi%C3%A7%C3%A3o-do-Brasil-no-mundo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/25/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Bem-vindos à Livraria Hyunam-dong’: uma ficção de cura](https://www.nexojornal.com.br/estante/trechos/2023/08/25/%E2%80%98Bem-vindos-%C3%A0-Livraria-Hyunam-dong%E2%80%99-uma-fic%C3%A7%C3%A3o-de-cura)
+- [Nvidia: a empresa de games que saiu na frente na corrida da IA](https://www.nexojornal.com.br/expresso/2023/08/25/Nvidia-a-empresa-de-games-que-saiu-na-frente-na-corrida-da-IA)
+- [A retomada das relações do Brasil com o continente africano](https://www.nexojornal.com.br/expresso/2023/08/25/A-retomada-das-rela%C3%A7%C3%B5es-do-Brasil-com-o-continente-africano)
+- [Os novos membros do Brics. A morte de Prigozhin. E mais](https://www.nexojornal.com.br/video/extrato/Os-novos-membros-do-Brics.-A-morte-de-Prigozhin.-E-mais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
