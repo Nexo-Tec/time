@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A consolidação da estética de HQ nas telas do cinema](https://www.nexojornal.com.br/expresso/2023/08/26/A-consolida%C3%A7%C3%A3o-da-est%C3%A9tica-de-HQ-nas-telas-do-cinema)
-- [5 livros para começar a entender o fenômeno da corrupção](https://www.nexojornal.com.br/estante/favoritos/2023/08/26/5-livros-para-come%C3%A7ar-a-entender-o-fen%C3%B4meno-da-corrup%C3%A7%C3%A3o)
-- [A violência contra imigrantes na Tunísia. E o estímulo da Europa](https://www.nexojornal.com.br/expresso/2023/08/26/A-viol%C3%AAncia-contra-imigrantes-na-Tun%C3%ADsia.-E-o-est%C3%ADmulo-da-Europa)
-- [Como a lesbofobia se manifesta na violência política](https://www.nexojornal.com.br/expresso/2023/08/26/Como-a-lesbofobia-se-manifesta-na-viol%C3%AAncia-pol%C3%ADtica)
-- [A greve em Hollywood e os olhos atentos do Brasil](https://www.nexojornal.com.br/ensaio/2023/08/26/A-greve-em-Hollywood-e-os-olhos-atentos-do-Brasil)
+- [Como é a exploração de petróleo nos países da Amazônia](https://www.nexojornal.com.br/expresso/2023/08/26/Como-%C3%A9-a-explora%C3%A7%C3%A3o-de-petr%C3%B3leo-nos-pa%C3%ADses-da-Amaz%C3%B4nia)
+- [Fifa anuncia suspensão provisória de dirigente espanhol](https://www.nexojornal.com.br/extra/2023/08/26/Fifa-anuncia-suspens%C3%A3o-provis%C3%B3ria-de-dirigente-espanhol)
+- [Aos 45 anos, morre MC Marcinho, ícone do funk carioca](https://www.nexojornal.com.br/extra/2023/08/26/Aos-45-anos-morre-MC-Marcinho-%C3%ADcone-do-funk-carioca)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/25/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Bem-vindos à Livraria Hyunam-dong’: uma ficção de cura](https://www.nexojornal.com.br/estante/trechos/2023/08/25/%E2%80%98Bem-vindos-%C3%A0-Livraria-Hyunam-dong%E2%80%99-uma-fic%C3%A7%C3%A3o-de-cura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
