@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/25/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Bem-vindos à Livraria Hyunam-dong’: uma ficção de cura](https://www.nexojornal.com.br/estante/trechos/2023/08/25/%E2%80%98Bem-vindos-%C3%A0-Livraria-Hyunam-dong%E2%80%99-uma-fic%C3%A7%C3%A3o-de-cura)
-- [Nvidia: a empresa de games que saiu na frente na corrida da IA](https://www.nexojornal.com.br/expresso/2023/08/25/Nvidia-a-empresa-de-games-que-saiu-na-frente-na-corrida-da-IA)
-- [A retomada das relações do Brasil com o continente africano](https://www.nexojornal.com.br/expresso/2023/08/25/A-retomada-das-rela%C3%A7%C3%B5es-do-Brasil-com-o-continente-africano)
-- [Os novos membros do Brics. A morte de Prigozhin. E mais](https://www.nexojornal.com.br/video/extrato/Os-novos-membros-do-Brics.-A-morte-de-Prigozhin.-E-mais)
+- [A consolidação da estética de HQ nas telas do cinema](https://www.nexojornal.com.br/expresso/2023/08/26/A-consolida%C3%A7%C3%A3o-da-est%C3%A9tica-de-HQ-nas-telas-do-cinema)
+- [5 livros para começar a entender o fenômeno da corrupção](https://www.nexojornal.com.br/estante/favoritos/2023/08/26/5-livros-para-come%C3%A7ar-a-entender-o-fen%C3%B4meno-da-corrup%C3%A7%C3%A3o)
+- [A violência contra imigrantes na Tunísia. E o estímulo da Europa](https://www.nexojornal.com.br/expresso/2023/08/26/A-viol%C3%AAncia-contra-imigrantes-na-Tun%C3%ADsia.-E-o-est%C3%ADmulo-da-Europa)
+- [Como a lesbofobia se manifesta na violência política](https://www.nexojornal.com.br/expresso/2023/08/26/Como-a-lesbofobia-se-manifesta-na-viol%C3%AAncia-pol%C3%ADtica)
+- [A greve em Hollywood e os olhos atentos do Brasil](https://www.nexojornal.com.br/ensaio/2023/08/26/A-greve-em-Hollywood-e-os-olhos-atentos-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
