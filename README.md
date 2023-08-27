@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é a exploração de petróleo nos países da Amazônia](https://www.nexojornal.com.br/expresso/2023/08/26/Como-%C3%A9-a-explora%C3%A7%C3%A3o-de-petr%C3%B3leo-nos-pa%C3%ADses-da-Amaz%C3%B4nia)
-- [Fifa anuncia suspensão provisória de dirigente espanhol](https://www.nexojornal.com.br/extra/2023/08/26/Fifa-anuncia-suspens%C3%A3o-provis%C3%B3ria-de-dirigente-espanhol)
-- [Aos 45 anos, morre MC Marcinho, ícone do funk carioca](https://www.nexojornal.com.br/extra/2023/08/26/Aos-45-anos-morre-MC-Marcinho-%C3%ADcone-do-funk-carioca)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/08/25/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [‘Bem-vindos à Livraria Hyunam-dong’: uma ficção de cura](https://www.nexojornal.com.br/estante/trechos/2023/08/25/%E2%80%98Bem-vindos-%C3%A0-Livraria-Hyunam-dong%E2%80%99-uma-fic%C3%A7%C3%A3o-de-cura)
+- [Nvidia: a empresa de games que saiu na frente na corrida da IA](https://www.nexojornal.com.br/expresso/2023/08/25/Nvidia-a-empresa-de-games-que-saiu-na-frente-na-corrida-da-IA)
+- [A retomada das relações do Brasil com o continente africano](https://www.nexojornal.com.br/expresso/2023/08/25/A-retomada-das-rela%C3%A7%C3%B5es-do-Brasil-com-o-continente-africano)
+- [Os novos membros do Brics. A morte de Prigozhin. E mais](https://www.nexojornal.com.br/video/extrato/Os-novos-membros-do-Brics.-A-morte-de-Prigozhin.-E-mais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
