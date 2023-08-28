@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Debate público sobre mudança climática tem se qualificado’](https://www.nexojornal.com.br/entrevista/2023/08/27/%E2%80%98Debate-p%C3%BAblico-sobre-mudan%C3%A7a-clim%C3%A1tica-tem-se-qualificado%E2%80%99)
-- [Ciência na Amazônia: João Paulo Barreto](https://www.nexojornal.com.br/externo/2023/08/27/Ci%C3%AAncia-na-Amaz%C3%B4nia-Jo%C3%A3o-Paulo-Barreto)
-- [Afinal, qual é mesmo o futuro das moedas digitais?](https://www.nexojornal.com.br/ensaio/2023/08/27/Afinal-qual-%C3%A9-mesmo-o-futuro-das-moedas-digitais)
-- [China em apuros: o modelo de crescimento se esgotou?](https://www.nexojornal.com.br/expresso/2023/08/27/China-em-apuros-o-modelo-de-crescimento-se-esgotou)
-- [A implementação do juiz das garantias em 7 pontos-chave](https://www.nexojornal.com.br/expresso/2023/08/27/A-implementa%C3%A7%C3%A3o-do-juiz-das-garantias-em-7-pontos-chave)
+- [A consolidação da estética de HQ nas telas do cinema](https://www.nexojornal.com.br/expresso/2023/08/26/A-consolida%C3%A7%C3%A3o-da-est%C3%A9tica-de-HQ-nas-telas-do-cinema)
+- [5 livros para começar a entender o fenômeno da corrupção](https://www.nexojornal.com.br/estante/favoritos/2023/08/26/5-livros-para-come%C3%A7ar-a-entender-o-fen%C3%B4meno-da-corrup%C3%A7%C3%A3o)
+- [A violência contra imigrantes na Tunísia. E o estímulo da Europa](https://www.nexojornal.com.br/expresso/2023/08/26/A-viol%C3%AAncia-contra-imigrantes-na-Tun%C3%ADsia.-E-o-est%C3%ADmulo-da-Europa)
+- [Como a lesbofobia se manifesta na violência política](https://www.nexojornal.com.br/expresso/2023/08/26/Como-a-lesbofobia-se-manifesta-na-viol%C3%AAncia-pol%C3%ADtica)
+- [A greve em Hollywood e os olhos atentos do Brasil](https://www.nexojornal.com.br/ensaio/2023/08/26/A-greve-em-Hollywood-e-os-olhos-atentos-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
