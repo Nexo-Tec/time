@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [André Alves e Lucas Liedke: “Há uma libertação em falar sobre o que é negativo”](https://gamarevista.uol.com.br/pessoas/andre-alves-e-lucas-liedke-ha-uma-libertacao-em-falar-sobre-o-que-e-negativo/)
 - [@artecomste](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/artecomste/)
 - [Boneca Bratz](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/boneca-bratz/)
 - [Gabriela Amaral Almeida: “O terror é um gênero que se alimenta da ansiedade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gabriela-amaral-almeida-terror-e-um-genero-que-se-alimenta-da-ansiedade-cinema/)
 - [@xolo_mariduena](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/xolo_mariduena/)
-- [De Mãe Bernadete e Rosa Weber](https://gamarevista.uol.com.br/colunistas/marilene-felinto/de-mae-bernadete-e-rosa-weber/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
