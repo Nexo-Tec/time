@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como uma reunião diplomática deflagrou protestos na Líbia](https://www.nexojornal.com.br/expresso/2023/08/28/Como-uma-reuni%C3%A3o-diplom%C3%A1tica-deflagrou-protestos-na-L%C3%ADbia)
-- [‘Tecnologia tenta substituir política sem que percebamos’](https://www.nexojornal.com.br/entrevista/2023/08/28/%E2%80%98Tecnologia-tenta-substituir-pol%C3%ADtica-sem-que-percebamos%E2%80%99)
-- [Qual o ritmo de liberação de emendas do governo Lula](https://www.nexojornal.com.br/expresso/2023/08/28/Qual-o-ritmo-de-libera%C3%A7%C3%A3o-de-emendas-do-governo-Lula)
-- [Medida assinada por Lula tributa fundos de super-ricos](https://www.nexojornal.com.br/extra/2023/08/28/Medida-assinada-por-Lula-tributa-fundos-de-super-ricos)
-- [Um site para conectar curadores e artistas independentes](https://www.nexojornal.com.br/expresso/2023/08/28/Um-site-para-conectar-curadores-e-artistas-independentes)
+- [‘Debate público sobre mudança climática tem se qualificado’](https://www.nexojornal.com.br/entrevista/2023/08/27/%E2%80%98Debate-p%C3%BAblico-sobre-mudan%C3%A7a-clim%C3%A1tica-tem-se-qualificado%E2%80%99)
+- [Ciência na Amazônia: João Paulo Barreto](https://www.nexojornal.com.br/externo/2023/08/27/Ci%C3%AAncia-na-Amaz%C3%B4nia-Jo%C3%A3o-Paulo-Barreto)
+- [Afinal, qual é mesmo o futuro das moedas digitais?](https://www.nexojornal.com.br/ensaio/2023/08/27/Afinal-qual-%C3%A9-mesmo-o-futuro-das-moedas-digitais)
+- [China em apuros: o modelo de crescimento se esgotou?](https://www.nexojornal.com.br/expresso/2023/08/27/China-em-apuros-o-modelo-de-crescimento-se-esgotou)
+- [A implementação do juiz das garantias em 7 pontos-chave](https://www.nexojornal.com.br/expresso/2023/08/27/A-implementa%C3%A7%C3%A3o-do-juiz-das-garantias-em-7-pontos-chave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
