@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [4 faces da desigualdade no Brasil, segundo este relatório](https://www.nexojornal.com.br/expresso/2023/08/30/4-faces-da-desigualdade-no-Brasil-segundo-este-relat%C3%B3rio)
 - [Marco temporal: o que a Constituição diz sobre terras indígenas](https://www.nexojornal.com.br/expresso/2023/08/29/Marco-temporal-o-que-a-Constitui%C3%A7%C3%A3o-diz-sobre-terras-ind%C3%ADgenas)
 - [Por que o filho de Biden entrou na mira dos republicanos](https://www.nexojornal.com.br/expresso/2023/08/29/Por-que-o-filho-de-Biden-entrou-na-mira-dos-republicanos)
 - [Alquimias urbanas para a transformação na agenda do clima](https://www.nexojornal.com.br/colunistas/2023/Alquimias-urbanas-para-a-transforma%C3%A7%C3%A3o-na-agenda-do-clima)
 - [Novos recortes buscam expandir o debate sobre a questão LGBTI+ no Brasil](https://www.nexojornal.com.br/externo/2023/08/29/Novos-recortes-buscam-expandir-o-debate-sobre-a-quest%C3%A3o-LGBTI-no-Brasil)
+- [Dinamarca quer doar R$ 100 milhões para Fundo Amazônia](https://www.nexojornal.com.br/extra/2023/08/29/Dinamarca-quer-doar-R-100-milh%C3%B5es-para-Fundo-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
