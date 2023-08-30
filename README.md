@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A cômoda posição da direita brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-c%C3%B4moda-posi%C3%A7%C3%A3o-da-direita-brasileira)
 - [Jelson Oliveira: princípios éticos no uso de novas tecnologias para a alimentação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/25/Jelson-Oliveira-princ%C3%ADpios-%C3%A9ticos-no-uso-de-novas-tecnologias-para-a-alimenta%C3%A7%C3%A3o)
 - [Investigando as tendências da biodiversidade em diferentes cenários climáticos no Brasil](https://pp.nexojornal.com.br/academico/2023/Investigando-as-tend%C3%AAncias-da-biodiversidade-em-diferentes-cen%C3%A1rios-clim%C3%A1ticos-no-Brasil)
 - [É preciso fortalecer a coprodução entre cientistas e gestores públicos](https://pp.nexojornal.com.br/opiniao/2023/%C3%89-preciso-fortalecer-a-coprodu%C3%A7%C3%A3o-entre-cientistas-e-gestores-p%C3%BAblicos)
 - [Decrescimento: uma alternativa para o Brasil?](https://pp.nexojornal.com.br/opiniao/2023/Decrescimento-uma-alternativa-para-o-Brasil)
-- [Saúde mental materna na pandemia de covid-19: desenvolvimento infantil e práticas parentais](https://pp.nexojornal.com.br/academico/2023/Sa%C3%BAde-mental-materna-na-pandemia-de-covid-19-desenvolvimento-infantil-e-pr%C3%A1ticas-parentais)
 <!-- PP_LIST:END -->
 
