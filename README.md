@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Luísa Sonza: amada ou cancelada, por que ela é sempre trending topic?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/luisa-sonza-amada-ou-cancelada-por-que-ela-e-sempre-trending-topic/)
+- [Amada e cancelada, Luisa Sonza bate recordes no streaming](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/luisa-sonza-amada-ou-cancelada-por-que-ela-e-sempre-trending-topic/)
 - [CV: Renato Cymbalista](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renato-cymbalista/)
 - [André Alves e Lucas Liedke: “Há uma libertação em falar sobre o que é negativo”](https://gamarevista.uol.com.br/pessoas/andre-alves-e-lucas-liedke-ha-uma-libertacao-em-falar-sobre-o-que-e-negativo/)
 - [@artecomste](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/artecomste/)
