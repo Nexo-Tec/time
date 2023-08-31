@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Luísa Sonza: amada ou cancelada, por que ela é sempre trending topic?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/luisa-sonza-amada-ou-cancelada-por-que-ela-e-sempre-trending-topic/)
 - [CV: Renato Cymbalista](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renato-cymbalista/)
 - [André Alves e Lucas Liedke: “Há uma libertação em falar sobre o que é negativo”](https://gamarevista.uol.com.br/pessoas/andre-alves-e-lucas-liedke-ha-uma-libertacao-em-falar-sobre-o-que-e-negativo/)
 - [@artecomste](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/artecomste/)
 - [Boneca Bratz](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/boneca-bratz/)
-- [Gabriela Amaral Almeida: “O terror é um gênero que se alimenta da ansiedade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gabriela-amaral-almeida-terror-e-um-genero-que-se-alimenta-da-ansiedade-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
