@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PCC: origem e consolidação da maior facção do Brasil](https://www.nexojornal.com.br/expresso/2023/08/30/PCC-origem-e-consolida%C3%A7%C3%A3o-da-maior-fac%C3%A7%C3%A3o-do-Brasil)
-- [O que é o ‘consórcio da morte’ e por que ele persiste no Xingu](https://www.nexojornal.com.br/externo/2023/08/30/O-que-%C3%A9-o-%E2%80%98cons%C3%B3rcio-da-morte%E2%80%99-e-por-que-ele-persiste-no-Xingu)
-- [Por que há ceticismo sobre o deficit zero nas contas em 2024](https://www.nexojornal.com.br/expresso/2023/08/30/Por-que-h%C3%A1-ceticismo-sobre-o-deficit-zero-nas-contas-em-2024)
-- [Cuidado: até a quiche integral de abobrinha pode te levar à UTI](https://www.nexojornal.com.br/colunistas/2023/Cuidado-at%C3%A9-a-quiche-integral-de-abobrinha-pode-te-levar-%C3%A0-UTI)
-- [Senado aprova projeto que dá vantagem ao governo no Carf](https://www.nexojornal.com.br/extra/2023/08/30/Senado-aprova-projeto-que-d%C3%A1-vantagem-ao-governo-no-Carf)
+- [4 faces da desigualdade no Brasil, segundo este relatório](https://www.nexojornal.com.br/expresso/2023/08/30/4-faces-da-desigualdade-no-Brasil-segundo-este-relat%C3%B3rio)
+- [Marco temporal: o que a Constituição diz sobre terras indígenas](https://www.nexojornal.com.br/expresso/2023/08/29/Marco-temporal-o-que-a-Constitui%C3%A7%C3%A3o-diz-sobre-terras-ind%C3%ADgenas)
+- [Por que o filho de Biden entrou na mira dos republicanos](https://www.nexojornal.com.br/expresso/2023/08/29/Por-que-o-filho-de-Biden-entrou-na-mira-dos-republicanos)
+- [Alquimias urbanas para a transformação na agenda do clima](https://www.nexojornal.com.br/colunistas/2023/Alquimias-urbanas-para-a-transforma%C3%A7%C3%A3o-na-agenda-do-clima)
+- [Novos recortes buscam expandir o debate sobre a questão LGBTI+ no Brasil](https://www.nexojornal.com.br/externo/2023/08/29/Novos-recortes-buscam-expandir-o-debate-sobre-a-quest%C3%A3o-LGBTI-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
