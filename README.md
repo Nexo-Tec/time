@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Incêndio deixa mais de 70 mortos em prédio de Joanesburgo](https://www.nexojornal.com.br/extra/2023/08/31/Inc%C3%AAndio-deixa-mais-de-70-mortos-em-pr%C3%A9dio-de-Joanesburgo)
-- [Onde ficam e quantas são as embaixadas brasileiras no exterior](https://www.nexojornal.com.br/grafico/2023/08/31/Onde-ficam-e-quantas-s%C3%A3o-as-embaixadas-brasileiras-no-exterior)
-- [Desemprego fica em 7,9% no trimestre encerrado em julho](https://www.nexojornal.com.br/extra/2023/08/31/Desemprego-fica-em-79-no-trimestre-encerrado-em-julho)
 - [PCC: origem e consolidação da maior facção do Brasil](https://www.nexojornal.com.br/expresso/2023/08/30/PCC-origem-e-consolida%C3%A7%C3%A3o-da-maior-fac%C3%A7%C3%A3o-do-Brasil)
 - [O que é o ‘consórcio da morte’ e por que ele persiste no Xingu](https://www.nexojornal.com.br/externo/2023/08/30/O-que-%C3%A9-o-%E2%80%98cons%C3%B3rcio-da-morte%E2%80%99-e-por-que-ele-persiste-no-Xingu)
+- [Por que há ceticismo sobre o deficit zero nas contas em 2024](https://www.nexojornal.com.br/expresso/2023/08/30/Por-que-h%C3%A1-ceticismo-sobre-o-deficit-zero-nas-contas-em-2024)
+- [Cuidado: até a quiche integral de abobrinha pode te levar à UTI](https://www.nexojornal.com.br/colunistas/2023/Cuidado-at%C3%A9-a-quiche-integral-de-abobrinha-pode-te-levar-%C3%A0-UTI)
+- [Senado aprova projeto que dá vantagem ao governo no Carf](https://www.nexojornal.com.br/extra/2023/08/30/Senado-aprova-projeto-que-d%C3%A1-vantagem-ao-governo-no-Carf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
