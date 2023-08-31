@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Amada e cancelada, Luísa Sonza bate recordes no streaming](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/luisa-sonza-amada-ou-cancelada-por-que-ela-e-sempre-trending-topic/)
-- [CV: Renato Cymbalista](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renato-cymbalista/)
-- [André Alves e Lucas Liedke: “Há uma libertação em falar sobre o que é negativo”](https://gamarevista.uol.com.br/pessoas/andre-alves-e-lucas-liedke-ha-uma-libertacao-em-falar-sobre-o-que-e-negativo/)
-- [@artecomste](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/artecomste/)
-- [Boneca Bratz](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/boneca-bratz/)
+- [O funk de “Alexandre”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-funk-de-alexandre/)
+- [O gênero Nordestern de “Cangaço Novo”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-genero-nordestern-de-cangaco-novo/)
+- [O depoimento do filho de Mãe Bernadete](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-depoimento-do-filho-de-mae-bernadete/)
+- [O emocionante “As Oito Montanhas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-emocionante-as-oito-montanhas/)
+- [“O Caso das 10 Mil” sobre o aborto no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-caso-das-10-mil-sobre-o-aborto-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
