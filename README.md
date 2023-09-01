@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Quilombos e acesso à justiça: Mãe Bernadete nos deixou alguns recados](https://pp.nexojornal.com.br/opiniao/2023/Quilombos-e-acesso-%C3%A0-justi%C3%A7a-M%C3%A3e-Bernadete-nos-deixou-alguns-recados)
+- [Endogamia: padrões de casamento e participação feminina no mercado de trabalho, há relação?](https://pp.nexojornal.com.br/opiniao/2023/Endogamia-padr%C3%B5es-de-casamento-e-participa%C3%A7%C3%A3o-feminina-no-mercado-de-trabalho-h%C3%A1-rela%C3%A7%C3%A3o)
 - [Claudio de Oliveira Ribeiro: o pluralismo religioso no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/30/Claudio-de-Oliveira-Ribeiro-o-pluralismo-religioso-no-Brasil)
 - [A política criminal dos governos FHC &lpar;1995-2002&rpar; e Lula &lpar;2003-2010&rpar;](https://pp.nexojornal.com.br/academico/2023/A-pol%C3%ADtica-criminal-dos-governos-FHC-1995-2002-e-Lula-2003-2010)
 - [Injustiças estruturais entre jovens da cidade de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2023/Injusti%C3%A7as-estruturais-entre-jovens-da-cidade-de-S%C3%A3o-Paulo)
-- [A cômoda posição da direita brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-c%C3%B4moda-posi%C3%A7%C3%A3o-da-direita-brasileira)
-- [Jelson Oliveira: princípios éticos no uso de novas tecnologias para a alimentação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/25/Jelson-Oliveira-princ%C3%ADpios-%C3%A9ticos-no-uso-de-novas-tecnologias-para-a-alimenta%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
