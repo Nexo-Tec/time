@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Incêndio deixa mais de 70 mortos em prédio de Joanesburgo](https://www.nexojornal.com.br/extra/2023/08/31/Inc%C3%AAndio-deixa-mais-de-70-mortos-em-pr%C3%A9dio-de-Joanesburgo)
-- [Onde ficam e quantas são as embaixadas brasileiras no exterior](https://www.nexojornal.com.br/grafico/2023/08/31/Onde-ficam-e-quantas-s%C3%A3o-as-embaixadas-brasileiras-no-exterior)
-- [Desemprego fica em 7,9% no trimestre encerrado em julho](https://www.nexojornal.com.br/extra/2023/08/31/Desemprego-fica-em-79-no-trimestre-encerrado-em-julho)
-- [PCC: origem e consolidação da maior facção do Brasil](https://www.nexojornal.com.br/expresso/2023/08/30/PCC-origem-e-consolida%C3%A7%C3%A3o-da-maior-fac%C3%A7%C3%A3o-do-Brasil)
-- [O que é o ‘consórcio da morte’ e por que ele persiste no Xingu](https://www.nexojornal.com.br/externo/2023/08/30/O-que-%C3%A9-o-%E2%80%98cons%C3%B3rcio-da-morte%E2%80%99-e-por-que-ele-persiste-no-Xingu)
+- [Economia brasileira cresce 0,9% no segundo trimestre](https://www.nexojornal.com.br/extra/2023/09/01/Economia-brasileira-cresce-09-no-segundo-trimestre)
+- [O que o Chile já fez para prestar contas sobre sua ditadura](https://www.nexojornal.com.br/expresso/2023/08/31/O-que-o-Chile-j%C3%A1-fez-para-prestar-contas-sobre-sua-ditadura)
+- [Como os mais ricos são taxados no Brasil. E o que pode mudar](https://www.nexojornal.com.br/expresso/2023/08/31/Como-os-mais-ricos-s%C3%A3o-taxados-no-Brasil.-E-o-que-pode-mudar)
+- [Qual o papel da energia nuclear na transição do setor no Brasil](https://www.nexojornal.com.br/externo/2023/08/31/Qual-o-papel-da-energia-nuclear-na-transi%C3%A7%C3%A3o-do-setor-no-Brasil)
+- [‘Afinal de contas, o que pode a Educação Midiática?’](https://www.nexojornal.com.br/colunistas/2023/%E2%80%98Afinal-de-contas-o-que-pode-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
