@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Vergonha É um Sentimento Revolucionário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vergonha-e-um-sentimento-revolucionario/)
 - [O funk de “Alexandre”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-funk-de-alexandre/)
 - [O gênero Nordestern de “Cangaço Novo”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-genero-nordestern-de-cangaco-novo/)
 - [O depoimento do filho de Mãe Bernadete](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-depoimento-do-filho-de-mae-bernadete/)
 - [O emocionante “As Oito Montanhas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-emocionante-as-oito-montanhas/)
-- [“Caso das 10 Mil” sobre o aborto no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-caso-das-10-mil-sobre-o-aborto-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
