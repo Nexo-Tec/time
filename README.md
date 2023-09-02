@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A contribuição de Maura Lopes Cançado para a literatura](https://www.nexojornal.com.br/academico/2023/09/01/A-contribui%C3%A7%C3%A3o-de-Maura-Lopes-Can%C3%A7ado-para-a-literatura)
 - [Operação da Polícia Federal mira entorno de Juscelino Filho](https://www.nexojornal.com.br/extra/2023/09/01/Opera%C3%A7%C3%A3o-da-Pol%C3%ADcia-Federal-mira-entorno-de-Juscelino-Filho)
 - [Economia brasileira cresce 0,9% no segundo trimestre](https://www.nexojornal.com.br/extra/2023/09/01/Economia-brasileira-cresce-09-no-segundo-trimestre)
 - [O que o Chile já fez para prestar contas sobre sua ditadura](https://www.nexojornal.com.br/expresso/2023/08/31/O-que-o-Chile-j%C3%A1-fez-para-prestar-contas-sobre-sua-ditadura)
 - [Como os mais ricos são taxados no Brasil. E o que pode mudar](https://www.nexojornal.com.br/expresso/2023/08/31/Como-os-mais-ricos-s%C3%A3o-taxados-no-Brasil.-E-o-que-pode-mudar)
-- [Qual o papel da energia nuclear na transição do setor no Brasil](https://www.nexojornal.com.br/externo/2023/08/31/Qual-o-papel-da-energia-nuclear-na-transi%C3%A7%C3%A3o-do-setor-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
