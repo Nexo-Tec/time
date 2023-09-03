@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Operação resgata mais de 200 trabalhadores no Pará](https://www.nexojornal.com.br/extra/2023/09/02/Opera%C3%A7%C3%A3o-resgata-mais-de-200-trabalhadores-no-Par%C3%A1)
 - [Como The Town consolida o festival de música e marcas](https://www.nexojornal.com.br/expresso/2023/09/02/Como-The-Town-consolida-o-festival-de-m%C3%BAsica-e-marcas)
 - [5 anos após incêndio, Museu Nacional promove festival](https://www.nexojornal.com.br/extra/2023/09/01/5-anos-ap%C3%B3s-inc%C3%AAndio-Museu-Nacional-promove-festival)
 - [‘Vou mudar a cozinha’: contos sobre  a fragilidade humana](https://www.nexojornal.com.br/estante/trechos/2023/09/01/%E2%80%98Vou-mudar-a-cozinha%E2%80%99-contos-sobre-a-fragilidade-humana)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/01/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [O acervo fotográfico do Museu da Cidade de Recife, agora online](https://www.nexojornal.com.br/externo/2023/09/01/O-acervo-fotogr%C3%A1fico-do-Museu-da-Cidade-de-Recife-agora-online)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
