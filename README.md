@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação resgata mais de 200 trabalhadores no Pará](https://www.nexojornal.com.br/extra/2023/09/02/Opera%C3%A7%C3%A3o-resgata-mais-de-200-trabalhadores-no-Par%C3%A1)
-- [Como The Town consolida o festival de música e marcas](https://www.nexojornal.com.br/expresso/2023/09/02/Como-The-Town-consolida-o-festival-de-m%C3%BAsica-e-marcas)
-- [5 anos após incêndio, Museu Nacional promove festival](https://www.nexojornal.com.br/extra/2023/09/01/5-anos-ap%C3%B3s-inc%C3%AAndio-Museu-Nacional-promove-festival)
-- [‘Vou mudar a cozinha’: contos sobre  a fragilidade humana](https://www.nexojornal.com.br/estante/trechos/2023/09/01/%E2%80%98Vou-mudar-a-cozinha%E2%80%99-contos-sobre-a-fragilidade-humana)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/01/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Polícia divulga vídeo da morte de mulher negra grávida nos EUA](https://www.nexojornal.com.br/extra/2023/09/03/Pol%C3%ADcia-divulga-v%C3%ADdeo-da-morte-de-mulher-negra-gr%C3%A1vida-nos-EUA)
+- [As lições que a nova política industrial dos EUA pode dar ao Brasil](https://www.nexojornal.com.br/ensaio/2023/09/02/As-li%C3%A7%C3%B5es-que-a-nova-pol%C3%ADtica-industrial-dos-EUA-pode-dar-ao-Brasil)
+- [Como cientistas estão tentando se comunicar com baleias](https://www.nexojornal.com.br/expresso/2023/09/02/Como-cientistas-est%C3%A3o-tentando-se-comunicar-com-baleias)
+- [5 livros para refletir sobre o que é e como age o colorismo](https://www.nexojornal.com.br/estante/favoritos/2023/09/02/5-livros-para-refletir-sobre-o-que-%C3%A9-e-como-age-o-colorismo)
+- [Como o hip-hop fortalece a autoestima das crianças](https://www.nexojornal.com.br/externo/2023/09/02/Como-o-hip-hop-fortalece-a-autoestima-das-crian%C3%A7as)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
