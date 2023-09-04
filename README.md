@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@somos.madrastas](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/somos-madrastas/)
 - [João Moreira Salles: “A nossa ocupação da Amazônia sempre foi desinteressada”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/joao-moreira-salles-a-nossa-ocupacao-da-amazonia-sempre-foi-desinteressada/)
 - [Como escrever sobre comida e falar sobre tudo](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-escrever-sobre-comida-e-falar-sobre-tudo/)
 - [A Vergonha É um Sentimento Revolucionário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vergonha-e-um-sentimento-revolucionario/)
 - [O funk de “Alexandre”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-funk-de-alexandre/)
+- [O gênero Nordestern de “Cangaço Novo”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-genero-nordestern-de-cangaco-novo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
