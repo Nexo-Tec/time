@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Polícia divulga vídeo da morte de mulher negra grávida nos EUA](https://www.nexojornal.com.br/extra/2023/09/03/Pol%C3%ADcia-divulga-v%C3%ADdeo-da-morte-de-mulher-negra-gr%C3%A1vida-nos-EUA)
-- [As lições que a nova política industrial dos EUA pode dar ao Brasil](https://www.nexojornal.com.br/ensaio/2023/09/02/As-li%C3%A7%C3%B5es-que-a-nova-pol%C3%ADtica-industrial-dos-EUA-pode-dar-ao-Brasil)
-- [Como cientistas estão tentando se comunicar com baleias](https://www.nexojornal.com.br/expresso/2023/09/02/Como-cientistas-est%C3%A3o-tentando-se-comunicar-com-baleias)
-- [5 livros para refletir sobre o que é e como age o colorismo](https://www.nexojornal.com.br/estante/favoritos/2023/09/02/5-livros-para-refletir-sobre-o-que-%C3%A9-e-como-age-o-colorismo)
-- [Como o hip-hop fortalece a autoestima das crianças](https://www.nexojornal.com.br/externo/2023/09/02/Como-o-hip-hop-fortalece-a-autoestima-das-crian%C3%A7as)
+- [O que defendem os que pedem mais do STF no debate das drogas](https://www.nexojornal.com.br/expresso/2023/09/03/O-que-defendem-os-que-pedem-mais-do-STF-no-debate-das-drogas)
+- [Acesso à universidade pela trilha olímpica](https://www.nexojornal.com.br/externo/2023/09/03/Acesso-%C3%A0-universidade-pela-trilha-ol%C3%ADmpica)
+- [PPA participativo: um novo patamar de participação?](https://www.nexojornal.com.br/ensaio/2023/09/03/PPA-participativo-um-novo-patamar-de-participa%C3%A7%C3%A3o)
+- [Como militares atuam na política para além dos cargos eletivos](https://www.nexojornal.com.br/expresso/2023/09/03/Como-militares-atuam-na-pol%C3%ADtica-para-al%C3%A9m-dos-cargos-eletivos)
+- [Zelensky demite ministro da Defesa da Ucrânia](https://www.nexojornal.com.br/extra/2023/09/03/Zelensky-demite-ministro-da-Defesa-da-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
