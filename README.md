@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia prende 3 em investigação da morte de Mãe Bernadete](https://www.nexojornal.com.br/extra/2023/09/04/Pol%C3%ADcia-prende-3-em-investiga%C3%A7%C3%A3o-da-morte-de-M%C3%A3e-Bernadete)
+- [Maior Pix já feito foi de R$ 1,2 bilhão. Maioria manda até R$ 100](https://www.nexojornal.com.br/extra/2023/09/04/Maior-Pix-j%C3%A1-feito-foi-de-R-12-bilh%C3%A3o.-Maioria-manda-at%C3%A9-R-100)
+- [Setores com folha desonerada fecharam vagas formais, diz Ipea](https://www.nexojornal.com.br/extra/2023/09/04/Setores-com-folha-desonerada-fecharam-vagas-formais-diz-Ipea)
 - [O que defendem os que pedem mais do STF no debate das drogas](https://www.nexojornal.com.br/expresso/2023/09/03/O-que-defendem-os-que-pedem-mais-do-STF-no-debate-das-drogas)
 - [Acesso à universidade pela trilha olímpica](https://www.nexojornal.com.br/externo/2023/09/03/Acesso-%C3%A0-universidade-pela-trilha-ol%C3%ADmpica)
-- [PPA participativo: um novo patamar de participação?](https://www.nexojornal.com.br/ensaio/2023/09/03/PPA-participativo-um-novo-patamar-de-participa%C3%A7%C3%A3o)
-- [Como militares atuam na política para além dos cargos eletivos](https://www.nexojornal.com.br/expresso/2023/09/03/Como-militares-atuam-na-pol%C3%ADtica-para-al%C3%A9m-dos-cargos-eletivos)
-- [Zelensky demite ministro da Defesa da Ucrânia](https://www.nexojornal.com.br/extra/2023/09/03/Zelensky-demite-ministro-da-Defesa-da-Ucr%C3%A2nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
