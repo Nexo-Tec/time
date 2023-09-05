@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@somos.madrastas](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/somos-madrastas/)
+- [Kalaf Epalanga](https://gamarevista.uol.com.br/pessoas/questionario-proust/kalaf-epalanga/)
 - [João Moreira Salles: “A nossa ocupação da Amazônia sempre foi desinteressada”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/joao-moreira-salles-a-nossa-ocupacao-da-amazonia-sempre-foi-desinteressada/)
 - [Como escrever sobre comida e falar sobre tudo](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-escrever-sobre-comida-e-falar-sobre-tudo/)
 - [A Vergonha É um Sentimento Revolucionário](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vergonha-e-um-sentimento-revolucionario/)
