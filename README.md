@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que mobiliza países africanos no debate climático global](https://www.nexojornal.com.br/expresso/2023/09/04/O-que-mobiliza-pa%C3%ADses-africanos-no-debate-clim%C3%A1tico-global)
-- [Como o Brasil virou o maior exportador mundial de milho](https://www.nexojornal.com.br/expresso/2023/09/04/Como-o-Brasil-virou-o-maior-exportador-mundial-de-milho)
-- [Antony é cortado da seleção após relatos de agressão](https://www.nexojornal.com.br/extra/2023/09/04/Antony-%C3%A9-cortado-da-sele%C3%A7%C3%A3o-ap%C3%B3s-relatos-de-agress%C3%A3o)
-- [O 7 de Setembro de Lula. E os planos dos bolsonaristas](https://www.nexojornal.com.br/expresso/2023/09/04/O-7-de-Setembro-de-Lula.-E-os-planos-dos-bolsonaristas)
-- [Como o Burning Man foi de festival hipster a caso de polícia](https://www.nexojornal.com.br/expresso/2023/09/04/Como-o-Burning-Man-foi-de-festival-hipster-a-caso-de-pol%C3%ADcia)
+- [Polícia prende 3 em investigação da morte de Mãe Bernadete](https://www.nexojornal.com.br/extra/2023/09/04/Pol%C3%ADcia-prende-3-em-investiga%C3%A7%C3%A3o-da-morte-de-M%C3%A3e-Bernadete)
+- [Maior Pix já feito foi de R$ 1,2 bilhão. Maioria manda até R$ 100](https://www.nexojornal.com.br/extra/2023/09/04/Maior-Pix-j%C3%A1-feito-foi-de-R-12-bilh%C3%A3o.-Maioria-manda-at%C3%A9-R-100)
+- [Setores com folha desonerada fecharam vagas formais, diz Ipea](https://www.nexojornal.com.br/extra/2023/09/04/Setores-com-folha-desonerada-fecharam-vagas-formais-diz-Ipea)
+- [O que defendem os que pedem mais do STF no debate das drogas](https://www.nexojornal.com.br/expresso/2023/09/03/O-que-defendem-os-que-pedem-mais-do-STF-no-debate-das-drogas)
+- [Acesso à universidade pela trilha olímpica](https://www.nexojornal.com.br/externo/2023/09/03/Acesso-%C3%A0-universidade-pela-trilha-ol%C3%ADmpica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
