@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@somos.madrastas](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/somos-madrastas/)
-- [Roni Hirsch: “Meu sonho é transformar a realidade da criança do século 21”](https://gamarevista.uol.com.br/pessoas/roni-hirsch-meu-sonho-e-transformar-a-realidade-da-crianca-do-seculo-21/)
-- [Kalaf Epalanga](https://gamarevista.uol.com.br/pessoas/questionario-proust/kalaf-epalanga/)
-- [João Moreira Salles: “A nossa ocupação da Amazônia sempre foi desinteressada”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/joao-moreira-salles-a-nossa-ocupacao-da-amazonia-sempre-foi-desinteressada/)
-- [Como escrever sobre comida e falar sobre tudo](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/como-escrever-sobre-comida-e-falar-sobre-tudo/)
+- [A 35ª Bienal de São Paulo, “Coreografias do Impossível”](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-de-arte-coreografias/)
+- [Um relato pessoal sobre o golpe do Chile](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-pessoal-sobre-o-golpe-do-chile/)
+- [Playlists do Kizomba Design Museum](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlists-do-kizomba-design-museum/)
+- [“Bioy &amp; Borges”, uma história de amizade e literatura](https://gamarevista.uol.com.br/achamos-que-vale/ler/bioy-borges-uma-historia-de-amizade-e-literatura/)
+- [“França e o Labirinto”, um podcast narrativo de suspense](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/franca-e-o-labirinto-um-podcast-narrativo-de-suspense/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
