@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [STJ mantém anulação de condenações por incêndio da boate Kiss](https://www.nexojornal.com.br/extra/2023/09/05/STJ-mant%C3%A9m-anula%C3%A7%C3%A3o-de-condena%C3%A7%C3%B5es-por-inc%C3%AAndio-da-boate-Kiss)
-- [ICQ: do reinado dos chats ao bloqueio por pornografia infantil](https://www.nexojornal.com.br/expresso/2023/09/05/ICQ-do-reinado-dos-chats-ao-bloqueio-por-pornografia-infantil)
-- [PF mira suspeitos de financiar caravanas para 8 de janeiro](https://www.nexojornal.com.br/extra/2023/09/05/PF-mira-suspeitos-de-financiar-caravanas-para-8-de-janeiro)
-- [Lula diz que sociedade não deveria saber voto de ministro do STF](https://www.nexojornal.com.br/extra/2023/09/05/Lula-diz-que-sociedade-n%C3%A3o-deveria-saber-voto-de-ministro-do-STF)
-- [Como o conceito do ‘impossível’ guia a 35ª Bienal de São Paulo](https://www.nexojornal.com.br/expresso/2023/09/05/Como-o-conceito-do-%E2%80%98imposs%C3%ADvel%E2%80%99-guia-a-35%C2%AA-Bienal-de-S%C3%A3o-Paulo)
+- [Qual o melhor modelo para o Supremo apresentar seus votos](https://www.nexojornal.com.br/expresso/2023/09/05/Qual-o-melhor-modelo-para-o-Supremo-apresentar-seus-votos)
+- [Por que a interdição do estádio do Vasco gera debate sobre elitismo](https://www.nexojornal.com.br/expresso/2023/09/05/Por-que-a-interdi%C3%A7%C3%A3o-do-est%C3%A1dio-do-Vasco-gera-debate-sobre-elitismo)
+- [Câmara aprova projeto que limita juros do rotativo do cartão](https://www.nexojornal.com.br/extra/2023/09/05/C%C3%A2mara-aprova-projeto-que-limita-juros-do-rotativo-do-cart%C3%A3o)
+- [Por uma cultura de gestão de desempenho no Brasil](https://www.nexojornal.com.br/colunistas/2023/Por-uma-cultura-de-gest%C3%A3o-de-desempenho-no-Brasil)
+- [O quanto da população de cada estado vive na capital](https://www.nexojornal.com.br/grafico/2023/09/05/O-quanto-da-popula%C3%A7%C3%A3o-de-cada-estado-vive-na-capital)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
