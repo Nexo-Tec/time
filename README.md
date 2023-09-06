@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual o melhor modelo para o Supremo apresentar seus votos](https://www.nexojornal.com.br/expresso/2023/09/05/Qual-o-melhor-modelo-para-o-Supremo-apresentar-seus-votos)
-- [Por que a interdição do estádio do Vasco gera debate sobre elitismo](https://www.nexojornal.com.br/expresso/2023/09/05/Por-que-a-interdi%C3%A7%C3%A3o-do-est%C3%A1dio-do-Vasco-gera-debate-sobre-elitismo)
-- [Câmara aprova projeto que limita juros do rotativo do cartão](https://www.nexojornal.com.br/extra/2023/09/05/C%C3%A2mara-aprova-projeto-que-limita-juros-do-rotativo-do-cart%C3%A3o)
-- [Por uma cultura de gestão de desempenho no Brasil](https://www.nexojornal.com.br/colunistas/2023/Por-uma-cultura-de-gest%C3%A3o-de-desempenho-no-Brasil)
-- [O quanto da população de cada estado vive na capital](https://www.nexojornal.com.br/grafico/2023/09/05/O-quanto-da-popula%C3%A7%C3%A3o-de-cada-estado-vive-na-capital)
+- [Lula indica Afrânio Vilela e Teodoro Santos para STJ](https://www.nexojornal.com.br/extra/2023/09/06/Lula-indica-Afr%C3%A2nio-Vilela-e-Teodoro-Santos-para-STJ)
+- [Por que um Nobel da Paz pode ser preso em Bangladesh](https://www.nexojornal.com.br/expresso/2023/09/06/Por-que-um-Nobel-da-Paz-pode-ser-preso-em-Bangladesh)
+- [Responsável por material escolar com erros é demitido em SP](https://www.nexojornal.com.br/extra/2023/09/06/Respons%C3%A1vel-por-material-escolar-com-erros-%C3%A9-demitido-em-SP)
+- [O que é aconselhável fazer ao reformar um apartamento alugado](https://www.nexojornal.com.br/expresso/2023/09/06/O-que-%C3%A9-aconselh%C3%A1vel-fazer-ao-reformar-um-apartamento-alugado)
+- [Toffoli anula provas da Odebrecht e chama prisão de Lula de erro](https://www.nexojornal.com.br/extra/2023/09/06/Toffoli-anula-provas-da-Odebrecht-e-chama-pris%C3%A3o-de-Lula-de-erro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
