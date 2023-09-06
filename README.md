@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara aprova projeto que limita juros rotativo do cartão](https://www.nexojornal.com.br/extra/2023/09/05/C%C3%A2mara-aprova-projeto-que-limita-juros-rotativo-do-cart%C3%A3o)
-- [Por uma cultura de gestão de desempenho no Brasil](https://www.nexojornal.com.br/colunistas/2023/Por-uma-cultura-de-gest%C3%A3o-de-desempenho-no-Brasil)
-- [O quanto da população de cada estado vive na capital](https://www.nexojornal.com.br/grafico/2023/09/05/O-quanto-da-popula%C3%A7%C3%A3o-de-cada-estado-vive-na-capital)
-- [Lula assina demarcação de duas terras indígenas](https://www.nexojornal.com.br/extra/2023/09/05/Lula-assina-demarca%C3%A7%C3%A3o-de-duas-terras-ind%C3%ADgenas)
-- [Quais os benefícios de discutir gênero nas salas de aula](https://www.nexojornal.com.br/externo/2023/09/05/Quais-os-benef%C3%ADcios-de-discutir-g%C3%AAnero-nas-salas-de-aula)
+- [Como o Brasil virou o maior exportador mundial de milho](https://www.nexojornal.com.br/expresso/2023/09/04/Como-o-Brasil-virou-o-maior-exportador-mundial-de-milho)
+- [Antony é cortado da seleção após relatos de agressão](https://www.nexojornal.com.br/extra/2023/09/04/Antony-%C3%A9-cortado-da-sele%C3%A7%C3%A3o-ap%C3%B3s-relatos-de-agress%C3%A3o)
+- [O 7 de Setembro de Lula. E os planos dos bolsonaristas](https://www.nexojornal.com.br/expresso/2023/09/04/O-7-de-Setembro-de-Lula.-E-os-planos-dos-bolsonaristas)
+- [Como o Burning Man foi de festival hipster a caso de polícia](https://www.nexojornal.com.br/expresso/2023/09/04/Como-o-Burning-Man-foi-de-festival-hipster-a-caso-de-pol%C3%ADcia)
+- [As reações à tentativa de taxar os super-ricos no Brasil](https://www.nexojornal.com.br/podcast/2023/09/04/As-rea%C3%A7%C3%B5es-%C3%A0-tentativa-de-taxar-os-super-ricos-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
