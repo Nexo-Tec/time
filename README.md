@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Quilombos e acesso à justiça: Mãe Bernadete nos deixou alguns recados](https://pp.nexojornal.com.br/opiniao/2023/Quilombos-e-acesso-%C3%A0-justi%C3%A7a-M%C3%A3e-Bernadete-nos-deixou-alguns-recados)
-- [Endogamia: padrões de casamento e participação feminina no mercado de trabalho, há relação?](https://pp.nexojornal.com.br/opiniao/2023/Endogamia-padr%C3%B5es-de-casamento-e-participa%C3%A7%C3%A3o-feminina-no-mercado-de-trabalho-h%C3%A1-rela%C3%A7%C3%A3o)
-- [Claudio de Oliveira Ribeiro: o pluralismo religioso no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/08/30/Claudio-de-Oliveira-Ribeiro-o-pluralismo-religioso-no-Brasil)
-- [A política criminal dos governos FHC &lpar;1995-2002&rpar; e Lula &lpar;2003-2010&rpar;](https://pp.nexojornal.com.br/academico/2023/A-pol%C3%ADtica-criminal-dos-governos-FHC-1995-2002-e-Lula-2003-2010)
-- [Injustiças estruturais entre jovens da cidade de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2023/Injusti%C3%A7as-estruturais-entre-jovens-da-cidade-de-S%C3%A3o-Paulo)
+- [Contratos de trabalho intermitente](https://pp.nexojornal.com.br/bibliografia-basica/2023/09/06/Contratos-de-trabalho-intermitente)
+- [A centralidade periférica, economia popular e melhoria habitacional](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-centralidade-perif%C3%A9rica-economia-popular-e-melhoria-habitacional)
+- [A batalha regulatória das armas de fogo](https://pp.nexojornal.com.br/opiniao/2023/A-batalha-regulat%C3%B3ria-das-armas-de-fogo)
+- [Brasil tem poucas evidências sobre como políticas públicas podem atuar sobre as desigualdades na educação básica em prol da equidade](https://pp.nexojornal.com.br/ponto-de-vista/2023/Brasil-tem-poucas-evid%C3%AAncias-sobre-como-pol%C3%ADticas-p%C3%BAblicas-podem-atuar-sobre-as-desigualdades-na-educa%C3%A7%C3%A3o-b%C3%A1sica-em-prol-da-equidade)
+- [Violência racial e novo movimento negro contemporâneo: marcos, agentes, léxico e agendas](https://pp.nexojornal.com.br/opiniao/2023/Viol%C3%AAncia-racial-e-novo-movimento-negro-contempor%C3%A2neo-marcos-agentes-l%C3%A9xico-e-agendas1)
 <!-- PP_LIST:END -->
 
