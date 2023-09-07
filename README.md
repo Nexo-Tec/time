@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula e autoridades participam do desfile de 7 de setembro](https://www.nexojornal.com.br/extra/2023/09/07/Lula-e-autoridades-participam-do-desfile-de-7-de-setembro)
-- [Como responder às crianças de onde vêm os bebês](https://www.nexojornal.com.br/externo/2023/09/06/Como-responder-%C3%A0s-crian%C3%A7as-de-onde-v%C3%AAm-os-beb%C3%AAs)
-- [Lula e o BC: a autonomia mostra a que veio](https://www.nexojornal.com.br/colunistas/2023/Lula-e-o-BC-a-autonomia-mostra-a-que-veio)
-- [A votação que decidiu a forma e o sistema de governo do Brasil](https://www.nexojornal.com.br/grafico/2023/09/06/A-vota%C3%A7%C3%A3o-que-decidiu-a-forma-e-o-sistema-de-governo-do-Brasil)
-- [Qual a influência do Visconde de Cairu na independência](https://www.nexojornal.com.br/academico/2023/09/06/Qual-a-influ%C3%AAncia-do-Visconde-de-Cairu-na-independ%C3%AAncia)
+- [Lula indica Afrânio Vilela e Teodoro Santos para STJ](https://www.nexojornal.com.br/extra/2023/09/06/Lula-indica-Afr%C3%A2nio-Vilela-e-Teodoro-Santos-para-STJ)
+- [Por que um Nobel da Paz pode ser preso em Bangladesh](https://www.nexojornal.com.br/expresso/2023/09/06/Por-que-um-Nobel-da-Paz-pode-ser-preso-em-Bangladesh)
+- [Responsável por material escolar com erros é demitido em SP](https://www.nexojornal.com.br/extra/2023/09/06/Respons%C3%A1vel-por-material-escolar-com-erros-%C3%A9-demitido-em-SP)
+- [O que é aconselhável fazer ao reformar um apartamento alugado](https://www.nexojornal.com.br/expresso/2023/09/06/O-que-%C3%A9-aconselh%C3%A1vel-fazer-ao-reformar-um-apartamento-alugado)
+- [Toffoli anula provas da Odebrecht e chama prisão de Lula de erro](https://www.nexojornal.com.br/extra/2023/09/06/Toffoli-anula-provas-da-Odebrecht-e-chama-pris%C3%A3o-de-Lula-de-erro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
