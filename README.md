@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Autocuidado de Verdade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/autocuidado-de-verdade/)
 - [Sorte do Oscar se tiver “Pedágio”](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/sorte-do-oscar-se-tiver-pedagio/)
 - [A 35ª Bienal de São Paulo, “Coreografias do Impossível”](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-de-arte-coreografias/)
 - [Um relato pessoal sobre o golpe do Chile](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-pessoal-sobre-o-golpe-do-chile/)
 - [Playlists do Kizomba Design Museum](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlists-do-kizomba-design-museum/)
-- [“Bioy &amp; Borges”, uma história de amizade e literatura](https://gamarevista.uol.com.br/achamos-que-vale/ler/bioy-borges-uma-historia-de-amizade-e-literatura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
