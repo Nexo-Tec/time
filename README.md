@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Nexo usa o R para visualização de dados](https://www.nexojornal.com.br/grafico/2023/09/08/Como-o-Nexo-usa-o-R-para-visualiza%C3%A7%C3%A3o-de-dados)
+- [Policiais rodoviários baleiam menina de 3 anos no Rio](https://www.nexojornal.com.br/extra/2023/09/08/Policiais-rodovi%C3%A1rios-baleiam-menina-de-3-anos-no-Rio)
 - [Um laboratório para pensar inovação no setor público](https://www.nexojornal.com.br/entrevista/2023/09/07/Um-laborat%C3%B3rio-para-pensar-inova%C3%A7%C3%A3o-no-setor-p%C3%BAblico)
 - [Americanas: a CPI que deve acabar sem ouvir os maiores acionistas](https://www.nexojornal.com.br/expresso/2023/09/07/Americanas-a-CPI-que-deve-acabar-sem-ouvir-os-maiores-acionistas)
 - [Qual é o lugar de gênero e raça nas prioridades de Lula](https://www.nexojornal.com.br/expresso/2023/09/07/Qual-%C3%A9-o-lugar-de-g%C3%AAnero-e-ra%C3%A7a-nas-prioridades-de-Lula)
-- [Brasileiras estão exaustas e miseráveis](https://www.nexojornal.com.br/colunistas/2023/Brasileiras-est%C3%A3o-exaustas-e-miser%C3%A1veis)
-- [Cid entrega ao STF termo de intenção de delação premiada](https://www.nexojornal.com.br/extra/2023/09/07/Cid-entrega-ao-STF-termo-de-inten%C3%A7%C3%A3o-de-dela%C3%A7%C3%A3o-premiada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
