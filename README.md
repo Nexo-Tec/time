@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula indica Afrânio Vilela e Teodoro Santos para STJ](https://www.nexojornal.com.br/extra/2023/09/06/Lula-indica-Afr%C3%A2nio-Vilela-e-Teodoro-Santos-para-STJ)
-- [Por que um Nobel da Paz pode ser preso em Bangladesh](https://www.nexojornal.com.br/expresso/2023/09/06/Por-que-um-Nobel-da-Paz-pode-ser-preso-em-Bangladesh)
-- [Responsável por material escolar com erros é demitido em SP](https://www.nexojornal.com.br/extra/2023/09/06/Respons%C3%A1vel-por-material-escolar-com-erros-%C3%A9-demitido-em-SP)
-- [O que é aconselhável fazer ao reformar um apartamento alugado](https://www.nexojornal.com.br/expresso/2023/09/06/O-que-%C3%A9-aconselh%C3%A1vel-fazer-ao-reformar-um-apartamento-alugado)
-- [Toffoli anula provas da Odebrecht e chama prisão de Lula de erro](https://www.nexojornal.com.br/extra/2023/09/06/Toffoli-anula-provas-da-Odebrecht-e-chama-pris%C3%A3o-de-Lula-de-erro)
+- [Um laboratório para pensar inovação no setor público](https://www.nexojornal.com.br/entrevista/2023/09/07/Um-laborat%C3%B3rio-para-pensar-inova%C3%A7%C3%A3o-no-setor-p%C3%BAblico)
+- [Americanas: a CPI que deve acabar sem ouvir os maiores acionistas](https://www.nexojornal.com.br/expresso/2023/09/07/Americanas-a-CPI-que-deve-acabar-sem-ouvir-os-maiores-acionistas)
+- [Qual é o lugar de gênero e raça nas prioridades de Lula](https://www.nexojornal.com.br/expresso/2023/09/07/Qual-%C3%A9-o-lugar-de-g%C3%AAnero-e-ra%C3%A7a-nas-prioridades-de-Lula)
+- [Brasileiras estão exaustas e miseráveis](https://www.nexojornal.com.br/colunistas/2023/Brasileiras-est%C3%A3o-exaustas-e-miser%C3%A1veis)
+- [Cid entrega ao STF termo de intenção de delação premiada](https://www.nexojornal.com.br/extra/2023/09/07/Cid-entrega-ao-STF-termo-de-inten%C3%A7%C3%A3o-de-dela%C3%A7%C3%A3o-premiada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
