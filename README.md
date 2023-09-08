@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Um laboratório para pensar inovação no setor público](https://www.nexojornal.com.br/entrevista/2023/09/07/Um-laborat%C3%B3rio-para-pensar-inova%C3%A7%C3%A3o-no-setor-p%C3%BAblico)
-- [Americanas: a CPI que deve acabar sem ouvir os maiores acionistas](https://www.nexojornal.com.br/expresso/2023/09/07/Americanas-a-CPI-que-deve-acabar-sem-ouvir-os-maiores-acionistas)
-- [Qual é o lugar de gênero e raça nas prioridades de Lula](https://www.nexojornal.com.br/expresso/2023/09/07/Qual-%C3%A9-o-lugar-de-g%C3%AAnero-e-ra%C3%A7a-nas-prioridades-de-Lula)
-- [Brasileiras estão exaustas e miseráveis](https://www.nexojornal.com.br/colunistas/2023/Brasileiras-est%C3%A3o-exaustas-e-miser%C3%A1veis)
-- [Cid entrega ao STF termo de intenção de delação premiada](https://www.nexojornal.com.br/extra/2023/09/07/Cid-entrega-ao-STF-termo-de-inten%C3%A7%C3%A3o-de-dela%C3%A7%C3%A3o-premiada)
+- [Como responder às crianças de onde vêm os bebês](https://www.nexojornal.com.br/externo/2023/09/06/Como-responder-%C3%A0s-crian%C3%A7as-de-onde-v%C3%AAm-os-beb%C3%AAs)
+- [Lula e o BC: a autonomia mostra a que veio](https://www.nexojornal.com.br/colunistas/2023/Lula-e-o-BC-a-autonomia-mostra-a-que-veio)
+- [A votação que decidiu a forma e o sistema de governo do Brasil](https://www.nexojornal.com.br/grafico/2023/09/06/A-vota%C3%A7%C3%A3o-que-decidiu-a-forma-e-o-sistema-de-governo-do-Brasil)
+- [Qual a influência do Visconde de Cairu na independência](https://www.nexojornal.com.br/academico/2023/09/06/Qual-a-influ%C3%AAncia-do-Visconde-de-Cairu-na-independ%C3%AAncia)
+- [O que há de particular e de recorrente na tragédia no Sul](https://www.nexojornal.com.br/expresso/2023/09/06/O-que-h%C3%A1-de-particular-e-de-recorrente-na-trag%C3%A9dia-no-Sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
