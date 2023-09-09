@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ao menos 46 estão desaparecidos no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2023/09/08/Ao-menos-46-est%C3%A3o-desaparecidos-no-Rio-Grande-do-Sul)
-- [Como os caroços do açaí movem economias na Amazônia](https://www.nexojornal.com.br/externo/2023/09/08/Como-os-caro%C3%A7os-do-a%C3%A7a%C3%AD-movem-economias-na-Amaz%C3%B4nia)
-- [‘Nação tarja preta’: a medicina diante da dependência química](https://www.nexojornal.com.br/estante/trechos/2023/09/08/%E2%80%98Na%C3%A7%C3%A3o-tarja-preta%E2%80%99-a-medicina-diante-da-depend%C3%AAncia-qu%C3%ADmica)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Quais os impactos de limitar os juros do rotativo do cartão](https://www.nexojornal.com.br/expresso/2023/09/08/Quais-os-impactos-de-limitar-os-juros-do-rotativo-do-cart%C3%A3o)
+- [Como o Nexo usa o R para visualização de dados](https://www.nexojornal.com.br/grafico/2023/09/08/Como-o-Nexo-usa-o-R-para-visualiza%C3%A7%C3%A3o-de-dados)
+- [Policiais rodoviários baleiam menina de 3 anos no Rio](https://www.nexojornal.com.br/extra/2023/09/08/Policiais-rodovi%C3%A1rios-baleiam-menina-de-3-anos-no-Rio)
+- [Um laboratório para pensar inovação no setor público](https://www.nexojornal.com.br/entrevista/2023/09/07/Um-laborat%C3%B3rio-para-pensar-inova%C3%A7%C3%A3o-no-setor-p%C3%BAblico)
+- [Americanas: a CPI que deve acabar sem ouvir os maiores acionistas](https://www.nexojornal.com.br/expresso/2023/09/07/Americanas-a-CPI-que-deve-acabar-sem-ouvir-os-maiores-acionistas)
+- [Qual é o lugar de gênero e raça nas prioridades de Lula](https://www.nexojornal.com.br/expresso/2023/09/07/Qual-%C3%A9-o-lugar-de-g%C3%AAnero-e-ra%C3%A7a-nas-prioridades-de-Lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
