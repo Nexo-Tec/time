@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre aos 85 anos o sociólogo Domenico De Masi](https://www.nexojornal.com.br/extra/2023/09/09/Morre-aos-85-anos-o-soci%C3%B3logo-Domenico-De-Masi)
+- [Terremoto deixa mais de mil mortos no Marrocos](https://www.nexojornal.com.br/extra/2023/09/09/Terremoto-deixa-mais-de-mil-mortos-no-Marrocos)
+- [Qual o caminho de uma delação. E como Cid pode colaborar](https://www.nexojornal.com.br/expresso/2023/09/09/Qual-o-caminho-de-uma-dela%C3%A7%C3%A3o.-E-como-Cid-pode-colaborar)
 - [Ao menos 46 estão desaparecidos no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2023/09/08/Ao-menos-46-est%C3%A3o-desaparecidos-no-Rio-Grande-do-Sul)
 - [Como os caroços do açaí movem economias na Amazônia](https://www.nexojornal.com.br/externo/2023/09/08/Como-os-caro%C3%A7os-do-a%C3%A7a%C3%AD-movem-economias-na-Amaz%C3%B4nia)
-- [‘Nação tarja preta’: a medicina diante da dependência química](https://www.nexojornal.com.br/estante/trechos/2023/09/08/%E2%80%98Na%C3%A7%C3%A3o-tarja-preta%E2%80%99-a-medicina-diante-da-depend%C3%AAncia-qu%C3%ADmica)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/08/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Quais os impactos de limitar os juros do rotativo do cartão](https://www.nexojornal.com.br/expresso/2023/09/08/Quais-os-impactos-de-limitar-os-juros-do-rotativo-do-cart%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
