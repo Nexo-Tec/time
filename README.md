@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Qual é o tamanho de Bruno Mars?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/qual-e-o-tamanho-de-bruno-mars/)
 - [Mizuno Wave Prophecy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mizuno-wave-prophecy/)
 - [Tássia Magalhães: “Encaro premiações sem pirar”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tassia-magalhaes-chef-nelita-estrela-michelin/)
 - [Autocuidado de Verdade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/autocuidado-de-verdade/)
 - [Sorte do Oscar se tiver “Pedágio”](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/sorte-do-oscar-se-tiver-pedagio/)
-- [A 35ª Bienal de São Paulo, “Coreografias do Impossível”](https://gamarevista.uol.com.br/achamos-que-vale/ir/bienal-de-arte-coreografias/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
