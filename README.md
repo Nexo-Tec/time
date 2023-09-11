@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Mizuno Wave Profecy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mizuno-wave-profecy/)
+- [Mizuno Wave Prophecy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mizuno-wave-prophecy/)
 - [Tássia Magalhães: “Encaro premiações sem pirar”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tassia-magalhaes-chef-nelita-estrela-michelin/)
 - [Autocuidado de Verdade](https://gamarevista.uol.com.br/cultura/trecho-de-livro/autocuidado-de-verdade/)
 - [Sorte do Oscar se tiver “Pedágio”](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/sorte-do-oscar-se-tiver-pedagio/)
