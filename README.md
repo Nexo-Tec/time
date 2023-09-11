@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que Nova York começa a ter um roteiro turístico de ratos](https://www.nexojornal.com.br/expresso/2023/09/09/Por-que-Nova-York-come%C3%A7a-a-ter-um-roteiro-tur%C3%ADstico-de-ratos)
-- [5 livros para conhecer melhor a literatura infantil brasileira](https://www.nexojornal.com.br/estante/favoritos/2023/09/09/5-livros-para-conhecer-melhor-a-literatura-infantil-brasileira)
-- [Os desafios para regulamentar o uso da inteligência artificial](https://www.nexojornal.com.br/externo/2023/09/09/Os-desafios-para-regulamentar-o-uso-da-intelige%CC%82ncia-artificial)
-- [O sonho americano de Gatsby e o sonho dos millennials](https://www.nexojornal.com.br/ensaio/2023/09/09/O-sonho-americano-de-Gatsby-e-o-sonho-dos-millennials)
-- [O trajeto do Ministério do Esporte desde a redemocratização](https://www.nexojornal.com.br/expresso/2023/09/09/O-trajeto-do-Minist%C3%A9rio-do-Esporte-desde-a-redemocratiza%C3%A7%C3%A3o)
+- [Quem são e como atuam as defensoras da Amazônia](https://www.nexojornal.com.br/expresso/2023/09/10/Quem-s%C3%A3o-e-como-atuam-as-defensoras-da-Amaz%C3%B4nia)
+- [A educação financeira deve estar dentro de cada um](https://www.nexojornal.com.br/ensaio/2023/09/10/A-educa%C3%A7%C3%A3o-financeira-deve-estar-dentro-de-cada-um)
+- [Como a tentativa de criar um ‘Dia da Boa Notícia’ fracassou](https://www.nexojornal.com.br/expresso/2023/09/10/Como-a-tentativa-de-criar-um-%E2%80%98Dia-da-Boa-Not%C3%ADcia%E2%80%99-fracassou)
+- [Por que Lira pressiona tanto por uma reforma administrativa](https://www.nexojornal.com.br/expresso/2023/09/10/Por-que-Lira-pressiona-tanto-por-uma-reforma-administrativa)
+- [‘Ditadura Pinochet afetou compreensão do coletivo no Chile’](https://www.nexojornal.com.br/entrevista/2023/09/10/%E2%80%98Ditadura-Pinochet-afetou-compreens%C3%A3o-do-coletivo-no-Chile%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
