@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Líbia tem 2.000 mortos e 10 mil desaparecidos após tempestade](https://www.nexojornal.com.br/extra/2023/09/12/L%C3%ADbia-tem-2.000-mortos-e-10-mil-desaparecidos-ap%C3%B3s-tempestade)
 - [As barreiras da inclusão política em sociedades desiguais](https://www.nexojornal.com.br/ensaio/2023/09/11/As-barreiras-da-inclus%C3%A3o-pol%C3%ADtica-em-sociedades-desiguais)
 - [A contradição de Lula ao falar do Tribunal Penal Internacional](https://www.nexojornal.com.br/expresso/2023/09/11/A-contradi%C3%A7%C3%A3o-de-Lula-ao-falar-do-Tribunal-Penal-Internacional)
 - [Chuvas no Sul: quais cobranças políticas emergem da tragédia](https://www.nexojornal.com.br/expresso/2023/09/11/Chuvas-no-Sul-quais-cobran%C3%A7as-pol%C3%ADticas-emergem-da-trag%C3%A9dia)
 - [Cientista criador da ovelha Dolly morre aos 79 anos](https://www.nexojornal.com.br/extra/2023/09/11/Cientista-criador-da-ovelha-Dolly-morre-aos-79-anos)
+- [Americanas: as trocas de acusações num caso em aberto](https://www.nexojornal.com.br/podcast/2023/09/11/Americanas-as-trocas-de-acusa%C3%A7%C3%B5es-num-caso-em-aberto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
