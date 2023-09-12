@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem são e como atuam as defensoras da Amazônia](https://www.nexojornal.com.br/expresso/2023/09/10/Quem-s%C3%A3o-e-como-atuam-as-defensoras-da-Amaz%C3%B4nia)
-- [A educação financeira deve estar dentro de cada um](https://www.nexojornal.com.br/ensaio/2023/09/10/A-educa%C3%A7%C3%A3o-financeira-deve-estar-dentro-de-cada-um)
-- [Como a tentativa de criar um ‘Dia da Boa Notícia’ fracassou](https://www.nexojornal.com.br/expresso/2023/09/10/Como-a-tentativa-de-criar-um-%E2%80%98Dia-da-Boa-Not%C3%ADcia%E2%80%99-fracassou)
-- [Por que Lira pressiona tanto por uma reforma administrativa](https://www.nexojornal.com.br/expresso/2023/09/10/Por-que-Lira-pressiona-tanto-por-uma-reforma-administrativa)
-- [‘Ditadura Pinochet afetou compreensão do coletivo no Chile’](https://www.nexojornal.com.br/entrevista/2023/09/10/%E2%80%98Ditadura-Pinochet-afetou-compreens%C3%A3o-do-coletivo-no-Chile%E2%80%99)
+- [As barreiras da inclusão política em sociedades desiguais](https://www.nexojornal.com.br/ensaio/2023/09/11/As-barreiras-da-inclus%C3%A3o-pol%C3%ADtica-em-sociedades-desiguais)
+- [A contradição de Lula ao falar do Tribunal Penal Internacional](https://www.nexojornal.com.br/expresso/2023/09/11/A-contradi%C3%A7%C3%A3o-de-Lula-ao-falar-do-Tribunal-Penal-Internacional)
+- [Chuvas no Sul: quais cobranças políticas emergem da tragédia](https://www.nexojornal.com.br/expresso/2023/09/11/Chuvas-no-Sul-quais-cobran%C3%A7as-pol%C3%ADticas-emergem-da-trag%C3%A9dia)
+- [Cientista criador da ovelha Dolly morre aos 79 anos](https://www.nexojornal.com.br/extra/2023/09/11/Cientista-criador-da-ovelha-Dolly-morre-aos-79-anos)
+- [Americanas: as trocas de acusações num caso em aberto](https://www.nexojornal.com.br/podcast/2023/09/11/Americanas-as-trocas-de-acusa%C3%A7%C3%B5es-num-caso-em-aberto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
