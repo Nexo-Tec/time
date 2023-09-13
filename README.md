@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cauã Reymond](https://gamarevista.uol.com.br/pessoas/questionario-proust/caua-reymond/)
 - [Rubens Amatto: “Queremos celebrar o que é mais valioso na cultura do país”](https://gamarevista.uol.com.br/pessoas/rubens-amatto-queremos-celebrar-o-que-e-mais-valioso-na-cultura-do-pais/)
 - [@filipegrimaldi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/filipe-grimaldi/)
 - [Qual é o tamanho de Bruno Mars?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/qual-e-o-tamanho-de-bruno-mars/)
 - [Mizuno Wave Prophecy](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/mizuno-wave-prophecy/)
-- [Tássia Magalhães: “Encaro premiações sem pirar”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tassia-magalhaes-chef-nelita-estrela-michelin/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
