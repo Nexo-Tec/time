@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As barreiras da inclusão política em sociedades desiguais](https://www.nexojornal.com.br/ensaio/2023/09/11/As-barreiras-da-inclus%C3%A3o-pol%C3%ADtica-em-sociedades-desiguais)
-- [A contradição de Lula ao falar do Tribunal Penal Internacional](https://www.nexojornal.com.br/expresso/2023/09/11/A-contradi%C3%A7%C3%A3o-de-Lula-ao-falar-do-Tribunal-Penal-Internacional)
-- [Chuvas no Sul: quais cobranças políticas emergem da tragédia](https://www.nexojornal.com.br/expresso/2023/09/11/Chuvas-no-Sul-quais-cobran%C3%A7as-pol%C3%ADticas-emergem-da-trag%C3%A9dia)
-- [Cientista criador da ovelha Dolly morre aos 79 anos](https://www.nexojornal.com.br/extra/2023/09/11/Cientista-criador-da-ovelha-Dolly-morre-aos-79-anos)
-- [Americanas: as trocas de acusações num caso em aberto](https://www.nexojornal.com.br/podcast/2023/09/11/Americanas-as-trocas-de-acusa%C3%A7%C3%B5es-num-caso-em-aberto)
+- [Como a Justiça pune indivíduos por crimes cometidos em turba](https://www.nexojornal.com.br/expresso/2023/09/12/Como-a-Justi%C3%A7a-pune-indiv%C3%ADduos-por-crimes-cometidos-em-turba)
+- [O pacote do Congresso com anistias e vantagens aos partidos](https://www.nexojornal.com.br/expresso/2023/09/12/O-pacote-do-Congresso-com-anistias-e-vantagens-aos-partidos)
+- [Como entidades jurídicas católicas atuam contra o aborto](https://www.nexojornal.com.br/externo/2023/09/12/Como-entidades-jur%C3%ADdicas-cat%C3%B3licas-atuam-contra-o-aborto)
+- [As conexões suspeitas de Braga Netto entre Haiti, Rio e Brasília](https://www.nexojornal.com.br/podcast/2023/09/12/As-conex%C3%B5es-suspeitas-de-Braga-Netto-entre-Haiti-Rio-e-Bras%C3%ADlia)
+- [Disputas verbais e outras bobagens](https://www.nexojornal.com.br/colunistas/2023/Disputas-verbais-e-outras-bobagens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
