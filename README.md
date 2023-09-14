@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasileiro que fugiu da prisão nos EUA é capturado após 14 dias](https://www.nexojornal.com.br/extra/2023/09/13/Brasileiro-que-fugiu-da-pris%C3%A3o-nos-EUA-%C3%A9-capturado-ap%C3%B3s-14-dias)
+- [O encontro entre Putin e Kim Jong-un em meio à guerra](https://www.nexojornal.com.br/expresso/2023/09/13/O-encontro-entre-Putin-e-Kim-Jong-un-em-meio-%C3%A0-guerra)
 - [Como a Justiça pune indivíduos por crimes cometidos em turba](https://www.nexojornal.com.br/expresso/2023/09/12/Como-a-Justi%C3%A7a-pune-indiv%C3%ADduos-por-crimes-cometidos-em-turba)
 - [O pacote do Congresso com anistias e vantagens aos partidos](https://www.nexojornal.com.br/expresso/2023/09/12/O-pacote-do-Congresso-com-anistias-e-vantagens-aos-partidos)
 - [Como entidades jurídicas católicas atuam contra o aborto](https://www.nexojornal.com.br/externo/2023/09/12/Como-entidades-jur%C3%ADdicas-cat%C3%B3licas-atuam-contra-o-aborto)
-- [As conexões suspeitas de Braga Netto entre Haiti, Rio e Brasília](https://www.nexojornal.com.br/podcast/2023/09/12/As-conex%C3%B5es-suspeitas-de-Braga-Netto-entre-Haiti-Rio-e-Bras%C3%ADlia)
-- [Disputas verbais e outras bobagens](https://www.nexojornal.com.br/colunistas/2023/Disputas-verbais-e-outras-bobagens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
