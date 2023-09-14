@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a Justiça pune indivíduos por crimes cometidos em turba](https://www.nexojornal.com.br/expresso/2023/09/12/Como-a-Justi%C3%A7a-pune-indiv%C3%ADduos-por-crimes-cometidos-em-turba)
-- [O pacote do Congresso com anistias e vantagens aos partidos](https://www.nexojornal.com.br/expresso/2023/09/12/O-pacote-do-Congresso-com-anistias-e-vantagens-aos-partidos)
-- [Como entidades jurídicas católicas atuam contra o aborto](https://www.nexojornal.com.br/externo/2023/09/12/Como-entidades-jur%C3%ADdicas-cat%C3%B3licas-atuam-contra-o-aborto)
-- [As conexões suspeitas de Braga Netto entre Haiti, Rio e Brasília](https://www.nexojornal.com.br/podcast/2023/09/12/As-conex%C3%B5es-suspeitas-de-Braga-Netto-entre-Haiti-Rio-e-Bras%C3%ADlia)
-- [Disputas verbais e outras bobagens](https://www.nexojornal.com.br/colunistas/2023/Disputas-verbais-e-outras-bobagens)
+- [Os sinais do Supremo no 1º julgamento do 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/09/13/Os-sinais-do-Supremo-no-1%C2%BA-julgamento-do-8-de-janeiro)
+- [Quem são as mulheres que disputam a presidência do México](https://www.nexojornal.com.br/expresso/2023/09/13/Quem-s%C3%A3o-as-mulheres-que-disputam-a-presid%C3%AAncia-do-M%C3%A9xico)
+- [Chileno Pablo Larraín revive Pinochet em filme bizarro](https://www.nexojornal.com.br/colunistas/2023/Chileno-Pablo-Larra%C3%ADn-revive-Pinochet-em-filme-bizarro)
+- [Tomou a bivalente? Como está a vacinação contra a covid hoje](https://www.nexojornal.com.br/expresso/2023/09/13/Tomou-a-bivalente-Como-est%C3%A1-a-vacina%C3%A7%C3%A3o-contra-a-covid-hoje)
+- [Deputados aprovam regulamentação de apostas esportivas](https://www.nexojornal.com.br/extra/2023/09/13/Deputados-aprovam-regulamenta%C3%A7%C3%A3o-de-apostas-esportivas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
