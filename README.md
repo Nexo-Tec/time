@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Al ku hul – Vinho tinto de sangue](https://gamarevista.uol.com.br/colunistas/marcello-dantas/al-ku-hul-vinho-tinto-de-sangue/)
-- [Cauã Reymond](https://gamarevista.uol.com.br/pessoas/questionario-proust/caua-reymond/)
-- [Rubens Amatto: “Queremos celebrar o que é mais valioso na cultura do país”](https://gamarevista.uol.com.br/pessoas/rubens-amatto-queremos-celebrar-o-que-e-mais-valioso-na-cultura-do-pais/)
-- [@filipegrimaldi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/filipe-grimaldi/)
-- [Qual é o tamanho de Bruno Mars?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/qual-e-o-tamanho-de-bruno-mars/)
+- [O curta de Almodóvar com Pedro Pascal](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-curta-de-almodovar-com-pedro-pascal/)
+- [Coala, uma celebração da música brasileira](https://gamarevista.uol.com.br/achamos-que-vale/ir/coala-uma-celebracao-da-musica-brasileira/)
+- [A angústia juvenil no novo disco de Olivia Rodrigo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-angustia-juvenil-no-novo-disco-de-olivia-rodrigo/)
+- [Pensadores, músicos e escritores na FLIM](https://gamarevista.uol.com.br/achamos-que-vale/ir/pensadores-musicos-e-escritores-na-flim/)
+- [O mundo do mergulho livre em “De Tirar o Fôlego”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-mundo-do-mergulho-livre-em-de-tirar-o-folego/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
