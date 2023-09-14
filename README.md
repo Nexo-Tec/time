@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os sinais do Supremo no 1º julgamento do 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/09/13/Os-sinais-do-Supremo-no-1%C2%BA-julgamento-do-8-de-janeiro)
-- [Quem são as mulheres que disputam a presidência do México](https://www.nexojornal.com.br/expresso/2023/09/13/Quem-s%C3%A3o-as-mulheres-que-disputam-a-presid%C3%AAncia-do-M%C3%A9xico)
-- [Chileno Pablo Larraín revive Pinochet em filme bizarro](https://www.nexojornal.com.br/colunistas/2023/Chileno-Pablo-Larra%C3%ADn-revive-Pinochet-em-filme-bizarro)
-- [Tomou a bivalente? Como está a vacinação contra a covid hoje](https://www.nexojornal.com.br/expresso/2023/09/13/Tomou-a-bivalente-Como-est%C3%A1-a-vacina%C3%A7%C3%A3o-contra-a-covid-hoje)
-- [Deputados aprovam regulamentação de apostas esportivas](https://www.nexojornal.com.br/extra/2023/09/13/Deputados-aprovam-regulamenta%C3%A7%C3%A3o-de-apostas-esportivas)
+- [Brasileiro que fugiu da prisão nos EUA é capturado após 14 dias](https://www.nexojornal.com.br/extra/2023/09/13/Brasileiro-que-fugiu-da-pris%C3%A3o-nos-EUA-%C3%A9-capturado-ap%C3%B3s-14-dias)
+- [O encontro entre Putin e Kim Jong-un em meio à guerra](https://www.nexojornal.com.br/expresso/2023/09/13/O-encontro-entre-Putin-e-Kim-Jong-un-em-meio-%C3%A0-guerra)
+- [Como a Justiça pune indivíduos por crimes cometidos em turba](https://www.nexojornal.com.br/expresso/2023/09/12/Como-a-Justi%C3%A7a-pune-indiv%C3%ADduos-por-crimes-cometidos-em-turba)
+- [O pacote do Congresso com anistias e vantagens aos partidos](https://www.nexojornal.com.br/expresso/2023/09/12/O-pacote-do-Congresso-com-anistias-e-vantagens-aos-partidos)
+- [Como entidades jurídicas católicas atuam contra o aborto](https://www.nexojornal.com.br/externo/2023/09/12/Como-entidades-jur%C3%ADdicas-cat%C3%B3licas-atuam-contra-o-aborto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
