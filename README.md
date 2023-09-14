@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Contratos de trabalho intermitente](https://pp.nexojornal.com.br/bibliografia-basica/2023/09/06/Contratos-de-trabalho-intermitente)
-- [A centralidade periférica, economia popular e melhoria habitacional](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-centralidade-perif%C3%A9rica-economia-popular-e-melhoria-habitacional)
-- [A batalha regulatória das armas de fogo](https://pp.nexojornal.com.br/opiniao/2023/A-batalha-regulat%C3%B3ria-das-armas-de-fogo)
-- [Brasil tem poucas evidências sobre como políticas públicas podem atuar sobre as desigualdades na educação básica em prol da equidade](https://pp.nexojornal.com.br/ponto-de-vista/2023/Brasil-tem-poucas-evid%C3%AAncias-sobre-como-pol%C3%ADticas-p%C3%BAblicas-podem-atuar-sobre-as-desigualdades-na-educa%C3%A7%C3%A3o-b%C3%A1sica-em-prol-da-equidade)
-- [Violência racial e novo movimento negro contemporâneo: marcos, agentes, léxico e agendas](https://pp.nexojornal.com.br/opiniao/2023/Viol%C3%AAncia-racial-e-novo-movimento-negro-contempor%C3%A2neo-marcos-agentes-l%C3%A9xico-e-agendas1)
+- [Enfrentando os desafios do mercado de trabalho no Brasil com evidências](https://pp.nexojornal.com.br/topico/2023/09/13/Enfrentando-os-desafios-do-mercado-de-trabalho-no-Brasil-com-evid%C3%AAncias)
+- [Representatividade de raça no serviço público: o que já foi feito e desafios pela frente](https://pp.nexojornal.com.br/ponto-de-vista/2023/Representatividade-de-ra%C3%A7a-no-servi%C3%A7o-p%C3%BAblico-o-que-j%C3%A1-foi-feito-e-desafios-pela-frente)
+- [Como se constrói o “tipo social” do inimputável nos processos de execução criminal](https://pp.nexojornal.com.br/academico/2023/Como-se-constr%C3%B3i-o-%E2%80%9Ctipo-social%E2%80%9D-do-inimput%C3%A1vel-nos-processos-de-execu%C3%A7%C3%A3o-criminal)
+- [Grandes mineradoras: chantagens socioeconômicas e famílias em movimento no interior do Brasil](https://pp.nexojornal.com.br/opiniao/2023/Grandes-mineradoras-chantagens-socioecon%C3%B4micas-e-fam%C3%ADlias-em-movimento-no-interior-do-Brasil)
+- [A incidência pública do campo evangélico na América Latina](https://pp.nexojornal.com.br/academico/2023/A-incid%C3%AAncia-p%C3%BAblica-do-campo-evang%C3%A9lico-na-Am%C3%A9rica-Latina)
 <!-- PP_LIST:END -->
 
