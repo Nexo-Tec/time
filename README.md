@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os nós no esvaziamento do acordo da Odebrecht com a Lava Jato](https://www.nexojornal.com.br/expresso/2023/09/15/Os-n%C3%B3s-no-esvaziamento-do-acordo-da-Odebrecht-com-a-Lava-Jato)
-- [Tecnologias digitais na escola: regular é melhor que proibir](https://www.nexojornal.com.br/colunistas/2023/Tecnologias-digitais-na-escola-regular-%C3%A9-melhor-que-proibir)
-- [Condenado por tentar estourar bomba em Brasília é preso](https://www.nexojornal.com.br/extra/2023/09/14/Condenado-por-tentar-estourar-bomba-em-Bras%C3%ADlia-%C3%A9-preso)
-- [O discurso dos coaches nas redes sociais durante a pandemia](https://www.nexojornal.com.br/academico/2023/09/14/O-discurso-dos-coaches-nas-redes-sociais-durante-a-pandemia)
-- [O dinheiro da taxação das apostas esportivas nas mãos do centrão](https://www.nexojornal.com.br/podcast/2023/09/14/O-dinheiro-da-taxa%C3%A7%C3%A3o-das-apostas-esportivas-nas-m%C3%A3os-do-centr%C3%A3o)
+- [Promotor acusa filho de Biden de porte ilegal de armas](https://www.nexojornal.com.br/extra/2023/09/14/Promotor-acusa-filho-de-Biden-de-porte-ilegal-de-armas)
+- [Acampamento no QG do Exército não era golpista, diz general](https://www.nexojornal.com.br/extra/2023/09/14/Acampamento-no-QG-do-Ex%C3%A9rcito-n%C3%A3o-era-golpista-diz-general)
+- [Como a fala de um CEO sobre home office ecoa a luta de classes](https://www.nexojornal.com.br/expresso/2023/09/14/Como-a-fala-de-um-CEO-sobre-home-office-ecoa-a-luta-de-classes)
+- [STF condena primeiro réu de 8 de janeiro, com pena de 17 anos](https://www.nexojornal.com.br/extra/2023/09/14/STF-condena-primeiro-r%C3%A9u-de-8-de-janeiro-com-pena-de-17-anos)
+- [Os sinais do Supremo no 1º julgamento do 8 de janeiro](https://www.nexojornal.com.br/expresso/2023/09/13/Os-sinais-do-Supremo-no-1%C2%BA-julgamento-do-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
