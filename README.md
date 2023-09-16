@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Tecnologias digitais na escola: regular é melhor que proibir](https://www.nexojornal.com.br/colunistas/2023/Tecnologias-digitais-na-escola-regular-%C3%A9-melhor-que-proibir)
-- [Condenado por tentar estourar bomba em Brasília é preso](https://www.nexojornal.com.br/extra/2023/09/14/Condenado-por-tentar-estourar-bomba-em-Bras%C3%ADlia-%C3%A9-preso)
-- [O discurso dos coaches nas redes sociais durante a pandemia](https://www.nexojornal.com.br/academico/2023/09/14/O-discurso-dos-coaches-nas-redes-sociais-durante-a-pandemia)
-- [O dinheiro da taxação das apostas esportivas nas mãos do centrão](https://www.nexojornal.com.br/podcast/2023/09/14/O-dinheiro-da-taxa%C3%A7%C3%A3o-das-apostas-esportivas-nas-m%C3%A3os-do-centr%C3%A3o)
-- [O que dizem países que não estão no Tribunal Penal Internacional](https://www.nexojornal.com.br/expresso/2023/09/14/O-que-dizem-pa%C3%ADses-que-n%C3%A3o-est%C3%A3o-no-Tribunal-Penal-Internacional)
+- [Após morte de PMs, familiares de suspeito são assassinados](https://www.nexojornal.com.br/extra/2023/09/15/Ap%C3%B3s-morte-de-PMs-familiares-de-suspeito-s%C3%A3o-assassinados)
+- [As sentenças iniciais de 8 de janeiro. A delação de Cid. E mais](https://www.nexojornal.com.br/video/extrato/As-senten%C3%A7as-iniciais-de-8-de-janeiro.-A-dela%C3%A7%C3%A3o-de-Cid.-E-mais)
+- [‘Minha pátria é a língua pretuguesa’: os idiomas em um povo](https://www.nexojornal.com.br/estante/trechos/2023/09/15/%E2%80%98Minha-p%C3%A1tria-%C3%A9-a-l%C3%ADngua-pretuguesa%E2%80%99-os-idiomas-em-um-povo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/15/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Jorge Ben é uma das maiores influências do rap nacional’](https://www.nexojornal.com.br/entrevista/2023/09/15/%E2%80%98Jorge-Ben-%C3%A9-uma-das-maiores-influ%C3%AAncias-do-rap-nacional%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
