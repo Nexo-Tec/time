@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após morte de PMs, familiares de suspeito são assassinados](https://www.nexojornal.com.br/extra/2023/09/15/Ap%C3%B3s-morte-de-PMs-familiares-de-suspeito-s%C3%A3o-assassinados)
-- [As sentenças iniciais de 8 de janeiro. A delação de Cid. E mais](https://www.nexojornal.com.br/video/extrato/As-senten%C3%A7as-iniciais-de-8-de-janeiro.-A-dela%C3%A7%C3%A3o-de-Cid.-E-mais)
-- [‘Minha pátria é a língua pretuguesa’: os idiomas em um povo](https://www.nexojornal.com.br/estante/trechos/2023/09/15/%E2%80%98Minha-p%C3%A1tria-%C3%A9-a-l%C3%ADngua-pretuguesa%E2%80%99-os-idiomas-em-um-povo)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/15/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Jorge Ben é uma das maiores influências do rap nacional’](https://www.nexojornal.com.br/entrevista/2023/09/15/%E2%80%98Jorge-Ben-%C3%A9-uma-das-maiores-influ%C3%AAncias-do-rap-nacional%E2%80%99)
+- [Avião com turistas cai no Amazonas e 14 morrem](https://www.nexojornal.com.br/extra/2023/09/16/Avi%C3%A3o-com-turistas-cai-no-Amazonas-e-14-morrem)
+- [5 livros que abordam a música pop internacional](https://www.nexojornal.com.br/estante/favoritos/2023/09/16/5-livros-que-abordam-a-m%C3%BAsica-pop-internacional)
+- [‘Não quero carne’: quando a criança decide ser vegetariana](https://www.nexojornal.com.br/externo/2023/09/16/%E2%80%98N%C3%A3o-quero-carne%E2%80%99-quando-a-crian%C3%A7a-decide-ser-vegetariana)
+- [‘Quem matou?’: como o mistério voltou a ser aposta de filmes e TV](https://www.nexojornal.com.br/expresso/2023/09/16/%E2%80%98Quem-matou%E2%80%99-como-o-mist%C3%A9rio-voltou-a-ser-aposta-de-filmes-e-TV)
+- [O caso da doméstica e do desembargador em Santa Catarina](https://www.nexojornal.com.br/expresso/2023/09/16/O-caso-da-dom%C3%A9stica-e-do-desembargador-em-Santa-Catarina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
