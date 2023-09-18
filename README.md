@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O impacto da guerra às drogas no orçamento de comunidades no Rio](https://www.nexojornal.com.br/expresso/2023/09/18/O-impacto-da-guerra-%C3%A0s-drogas-no-or%C3%A7amento-de-comunidades-no-Rio)
 - [Partido expulsa prefeito que sugeriu ‘castrar meninas’](https://www.nexojornal.com.br/extra/2023/09/17/Partido-expulsa-prefeito-que-sugeriu-%E2%80%98castrar-meninas%E2%80%99)
 - [‘STF age com a coragem que não teve contra a Lei de Anistia’](https://www.nexojornal.com.br/entrevista/2023/09/17/%E2%80%98STF-age-com-a-coragem-que-n%C3%A3o-teve-contra-a-Lei-de-Anistia%E2%80%99)
 - [Atuação do Supremo: continuamos a assistir à ciranda da história](https://www.nexojornal.com.br/ensaio/2023/09/17/Atua%C3%A7%C3%A3o-do-Supremo-continuamos-a-assistir-%C3%A0-ciranda-da-hist%C3%B3ria)
 - [Em tempos de digitalização e diversidade, FGV CPDOC completa 50 anos](https://www.nexojornal.com.br/externo/2023/09/17/Em-tempos-de-digitaliza%C3%A7%C3%A3o-e-diversidade-FGV-CPDOC-completa-50-anos)
-- [Drew Barrymore recua de retomar talk show na greve após críticas](https://www.nexojornal.com.br/extra/2023/09/17/Drew-Barrymore-recua-de-retomar-talk-show-na-greve-ap%C3%B3s-cr%C3%ADticas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
