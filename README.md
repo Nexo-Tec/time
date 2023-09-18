@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Avião com turistas cai no Amazonas e 14 morrem](https://www.nexojornal.com.br/extra/2023/09/16/Avi%C3%A3o-com-turistas-cai-no-Amazonas-e-14-morrem)
-- [5 livros que abordam a música pop internacional](https://www.nexojornal.com.br/estante/favoritos/2023/09/16/5-livros-que-abordam-a-m%C3%BAsica-pop-internacional)
-- [‘Não quero carne’: quando a criança decide ser vegetariana](https://www.nexojornal.com.br/externo/2023/09/16/%E2%80%98N%C3%A3o-quero-carne%E2%80%99-quando-a-crian%C3%A7a-decide-ser-vegetariana)
-- [‘Quem matou?’: como o mistério voltou a ser aposta de filmes e TV](https://www.nexojornal.com.br/expresso/2023/09/16/%E2%80%98Quem-matou%E2%80%99-como-o-mist%C3%A9rio-voltou-a-ser-aposta-de-filmes-e-TV)
-- [O caso da doméstica e do desembargador em Santa Catarina](https://www.nexojornal.com.br/expresso/2023/09/16/O-caso-da-dom%C3%A9stica-e-do-desembargador-em-Santa-Catarina)
+- [O impacto da guerra às drogas no orçamento de comunidades no Rio](https://www.nexojornal.com.br/expresso/2023/09/18/O-impacto-da-guerra-%C3%A0s-drogas-no-or%C3%A7amento-de-comunidades-no-Rio)
+- [Partido expulsa prefeito que sugeriu ‘castrar meninas’](https://www.nexojornal.com.br/extra/2023/09/17/Partido-expulsa-prefeito-que-sugeriu-%E2%80%98castrar-meninas%E2%80%99)
+- [‘STF age com a coragem que não teve contra a Lei de Anistia’](https://www.nexojornal.com.br/entrevista/2023/09/17/%E2%80%98STF-age-com-a-coragem-que-n%C3%A3o-teve-contra-a-Lei-de-Anistia%E2%80%99)
+- [Atuação do Supremo: continuamos a assistir à ciranda da história](https://www.nexojornal.com.br/ensaio/2023/09/17/Atua%C3%A7%C3%A3o-do-Supremo-continuamos-a-assistir-%C3%A0-ciranda-da-hist%C3%B3ria)
+- [Em tempos de digitalização e diversidade, FGV CPDOC completa 50 anos](https://www.nexojornal.com.br/externo/2023/09/17/Em-tempos-de-digitaliza%C3%A7%C3%A3o-e-diversidade-FGV-CPDOC-completa-50-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
