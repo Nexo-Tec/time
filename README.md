@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasil vive onda de calor intenso na última semana do inverno](https://www.nexojornal.com.br/extra/2023/09/18/Brasil-vive-onda-de-calor-intenso-na-%C3%BAltima-semana-do-inverno)
-- [O impacto da guerra às drogas no orçamento de comunidades no Rio](https://www.nexojornal.com.br/expresso/2023/09/18/O-impacto-da-guerra-%C3%A0s-drogas-no-or%C3%A7amento-de-comunidades-no-Rio)
-- [Partido expulsa prefeito que sugeriu ‘castrar meninas’](https://www.nexojornal.com.br/extra/2023/09/17/Partido-expulsa-prefeito-que-sugeriu-%E2%80%98castrar-meninas%E2%80%99)
-- [‘STF age com a coragem que não teve contra a Lei de Anistia’](https://www.nexojornal.com.br/entrevista/2023/09/17/%E2%80%98STF-age-com-a-coragem-que-n%C3%A3o-teve-contra-a-Lei-de-Anistia%E2%80%99)
-- [Atuação do Supremo: continuamos a assistir à ciranda da história](https://www.nexojornal.com.br/ensaio/2023/09/17/Atua%C3%A7%C3%A3o-do-Supremo-continuamos-a-assistir-%C3%A0-ciranda-da-hist%C3%B3ria)
+- [Por que o Tik Tok começou a proibir lives de NPC](https://www.nexojornal.com.br/expresso/2023/09/19/Por-que-o-Tik-Tok-come%C3%A7ou-a-proibir-lives-de-NPC)
+- [Toffoli anula suspeição de Eduardo Appio na Lava Jato](https://www.nexojornal.com.br/extra/2023/09/19/Toffoli-anula-suspei%C3%A7%C3%A3o-de-Eduardo-Appio-na-Lava-Jato)
+- [Quais são as frentes parlamentares mais alinhadas ao governo](https://www.nexojornal.com.br/grafico/2023/09/19/Quais-s%C3%A3o-as-frentes-parlamentares-mais-alinhadas-ao-governo)
+- [Clima, desigualdade e geopolítica: o discurso de Lula na ONU](https://www.nexojornal.com.br/expresso/2023/09/19/Clima-desigualdade-e-geopol%C3%ADtica-o-discurso-de-Lula-na-ONU)
+- [Calor no inverno: o verão também vai ser escaldante?](https://www.nexojornal.com.br/expresso/2023/09/18/Calor-no-inverno-o-ver%C3%A3o-tamb%C3%A9m-vai-ser-escaldante)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
