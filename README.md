@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A campanha por uma ministra negra no STF](https://gamarevista.uol.com.br/formato/reportagem/a-campanha-por-uma-ministra-negra-no-stf/)
 - [Se você me ama, por que não se concentra?](https://gamarevista.uol.com.br/colunistas/fernando-luna/se-voce-me-ama-por-que-nao-se-concentra/)
 - [CV: Áurea Carolina](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-aurea-carolina/)
 - [Felipe Vassão: “A música pop vai ser engolida pela IA, mas o artista pop é mais que a música”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/felipe-vassao-tiktok-musica-pop-inteligencia-artificial/)
 - [Marilene Felinto: “O ataque que sofri era não apenas racista como também misógino”](https://gamarevista.uol.com.br/sociedade/marilene-felinto-o-ataque-que-sofri-era-nao-apenas-racista-como-tambem-misogino/)
-- [Manifesto Antimaternalista](https://gamarevista.uol.com.br/cultura/trecho-de-livro/manifesto-antimaternalista/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
