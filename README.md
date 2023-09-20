@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Azerbaijão volta a atacar área disputada com Armênia](https://www.nexojornal.com.br/extra/2023/09/19/Azerbaij%C3%A3o-volta-a-atacar-%C3%A1rea-disputada-com-Arm%C3%AAnia)
-- [Por que o Tik Tok começou a proibir lives de NPC](https://www.nexojornal.com.br/expresso/2023/09/19/Por-que-o-Tik-Tok-come%C3%A7ou-a-proibir-lives-de-NPC)
-- [Toffoli anula suspeição de Eduardo Appio na Lava Jato](https://www.nexojornal.com.br/extra/2023/09/19/Toffoli-anula-suspei%C3%A7%C3%A3o-de-Eduardo-Appio-na-Lava-Jato)
-- [Quais são as frentes parlamentares mais alinhadas ao governo](https://www.nexojornal.com.br/grafico/2023/09/19/Quais-s%C3%A3o-as-frentes-parlamentares-mais-alinhadas-ao-governo)
-- [Clima, desigualdade e geopolítica: o discurso de Lula na ONU](https://www.nexojornal.com.br/expresso/2023/09/19/Clima-desigualdade-e-geopol%C3%ADtica-o-discurso-de-Lula-na-ONU)
+- [Rosa Weber pauta ação da descriminalização do aborto no Supremo](https://www.nexojornal.com.br/extra/2023/09/20/Rosa-Weber-pauta-a%C3%A7%C3%A3o-da-descriminaliza%C3%A7%C3%A3o-do-aborto-no-Supremo)
+- [Juíza negra no STF: a saga que reafirma o racismo e o sexismo](https://www.nexojornal.com.br/colunistas/2023/Ju%C3%ADza-negra-no-STF-a-saga-que-reafirma-o-racismo-e-o-sexismo)
+- [PF faz operações contra contrabando de ouro da Venezuela](https://www.nexojornal.com.br/extra/2023/09/20/PF-faz-opera%C3%A7%C3%B5es-contra-contrabando-de-ouro-da-Venezuela)
+- [Câmara Municipal de São Paulo cassa vereador por racismo](https://www.nexojornal.com.br/extra/2023/09/20/C%C3%A2mara-Municipal-de-S%C3%A3o-Paulo-cassa-vereador-por-racismo)
+- [Lula na ONU: o balanço do ano de reinserção internacional do Brasil](https://www.nexojornal.com.br/podcast/2023/09/19/Lula-na-ONU-o-balan%C3%A7o-do-ano-de-reinser%C3%A7%C3%A3o-internacional-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
