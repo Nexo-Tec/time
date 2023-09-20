@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Azerbaijão volta a atacar área disputada com Armênia](https://www.nexojornal.com.br/extra/2023/09/19/Azerbaij%C3%A3o-volta-a-atacar-%C3%A1rea-disputada-com-Arm%C3%AAnia)
 - [Por que o Tik Tok começou a proibir lives de NPC](https://www.nexojornal.com.br/expresso/2023/09/19/Por-que-o-Tik-Tok-come%C3%A7ou-a-proibir-lives-de-NPC)
 - [Toffoli anula suspeição de Eduardo Appio na Lava Jato](https://www.nexojornal.com.br/extra/2023/09/19/Toffoli-anula-suspei%C3%A7%C3%A3o-de-Eduardo-Appio-na-Lava-Jato)
 - [Quais são as frentes parlamentares mais alinhadas ao governo](https://www.nexojornal.com.br/grafico/2023/09/19/Quais-s%C3%A3o-as-frentes-parlamentares-mais-alinhadas-ao-governo)
 - [Clima, desigualdade e geopolítica: o discurso de Lula na ONU](https://www.nexojornal.com.br/expresso/2023/09/19/Clima-desigualdade-e-geopol%C3%ADtica-o-discurso-de-Lula-na-ONU)
+- [Calor no inverno: o verão também vai ser escaldante?](https://www.nexojornal.com.br/expresso/2023/09/18/Calor-no-inverno-o-ver%C3%A3o-tamb%C3%A9m-vai-ser-escaldante)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
