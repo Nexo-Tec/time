@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um potão de chocolate belga cremoso que vai te deixar muito feliz](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-potao-de-chocolate-belga-cremoso-que-vai-te-deixar-muito-feliz/)
 - [@sirihustvedt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sirihustvedt/)
 - [A campanha por uma ministra negra no STF](https://gamarevista.uol.com.br/formato/reportagem/a-campanha-por-uma-ministra-negra-no-stf/)
 - [Se você me ama, por que não se concentra?](https://gamarevista.uol.com.br/colunistas/fernando-luna/se-voce-me-ama-por-que-nao-se-concentra/)
 - [CV: Áurea Carolina](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-aurea-carolina/)
-- [Felipe Vassão: “A música pop vai ser engolida pela IA, mas o artista pop é mais que a música”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/felipe-vassao-tiktok-musica-pop-inteligencia-artificial/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
