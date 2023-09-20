@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [O impacto das dietas ultraprocessadas em nosso planeta](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-impacto-das-dietas-ultraprocessadas-em-nosso-planeta)
-- [Encarceramento feminino e tortura: o contexto do Rio de Janeiro](https://pp.nexojornal.com.br/opiniao/2023/Encarceramento-feminino-e-tortura-o-contexto-do-Rio-de-Janeiro)
-- [O que é o urbano na Amazônia contemporânea? Implicações para a vigilância em saúde no bioma](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-%C3%A9-o-urbano-na-Amaz%C3%B4nia-contempor%C3%A2nea-Implica%C3%A7%C3%B5es-para-a-vigil%C3%A2ncia-em-sa%C3%BAde-no-bioma)
 - [Escola Interdisciplinar Fapesp 2023, Ciências Exatas e Naturais, Engenharias e Medicina recebe inscrições](https://pp.nexojornal.com.br/topico/2023/09/19/Escola-Interdisciplinar-Fapesp-2023-Ci%C3%AAncias-Exatas-e-Naturais-Engenharias-e-Medicina-recebe-inscri%C3%A7%C3%B5es)
 - [Arthur Aguillar: regionalização do SUS e o acesso aos serviços de saúde](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/09/18/Arthur-Aguillar-regionaliza%C3%A7%C3%A3o-do-SUS-e-o-acesso-aos-servi%C3%A7os-de-sa%C3%BAde)
+- [Releituras das memórias da escravidão no Museu da História e da Cultura Afro-Brasileira](https://pp.nexojornal.com.br/opiniao/2023/Releituras-das-mem%C3%B3rias-da-escravid%C3%A3o-no-Museu-da-Hist%C3%B3ria-e-da-Cultura-Afro-Brasileira)
+- [O papel do ativismo na produção do jornalismo ambiental](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-do-ativismo-na-produ%C3%A7%C3%A3o-do-jornalismo-ambiental)
+- [Quando velhos personagens entram em cena – a esquerda evangélica](https://pp.nexojornal.com.br/ponto-de-vista/2023/Quando-velhos-personagens-entram-em-cena-%E2%80%93-a-esquerda-evang%C3%A9lica)
 <!-- PP_LIST:END -->
 
