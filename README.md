@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Escola Interdisciplinar Fapesp 2023, Ciências Exatas e Naturais, Engenharias e Medicina recebe inscrições](https://pp.nexojornal.com.br/topico/2023/09/19/Escola-Interdisciplinar-Fapesp-2023-Ci%C3%AAncias-Exatas-e-Naturais-Engenharias-e-Medicina-recebe-inscri%C3%A7%C3%B5es)
 - [Arthur Aguillar: regionalização do SUS e o acesso aos serviços de saúde](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/09/18/Arthur-Aguillar-regionaliza%C3%A7%C3%A3o-do-SUS-e-o-acesso-aos-servi%C3%A7os-de-sa%C3%BAde)
 - [Releituras das memórias da escravidão no Museu da História e da Cultura Afro-Brasileira](https://pp.nexojornal.com.br/opiniao/2023/Releituras-das-mem%C3%B3rias-da-escravid%C3%A3o-no-Museu-da-Hist%C3%B3ria-e-da-Cultura-Afro-Brasileira)
 - [O papel do ativismo na produção do jornalismo ambiental](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-papel-do-ativismo-na-produ%C3%A7%C3%A3o-do-jornalismo-ambiental)
 - [Quando velhos personagens entram em cena – a esquerda evangélica](https://pp.nexojornal.com.br/ponto-de-vista/2023/Quando-velhos-personagens-entram-em-cena-%E2%80%93-a-esquerda-evang%C3%A9lica)
-- [Rumo à equidade em saúde: por uma agenda de pesquisa e desenvolvimento e produção local orientada pelas múltiplas necessidades do Sistema Único de Saúde](https://pp.nexojornal.com.br/ponto-de-vista/2023/Rumo-%C3%A0-equidade-em-sa%C3%BAde-por-uma-agenda-de-pesquisa-e-desenvolvimento-e-produ%C3%A7%C3%A3o-local-orientada-pelas-m%C3%BAltiplas-necessidades-do-Sistema-%C3%9Anico-de-Sa%C3%BAde)
 <!-- PP_LIST:END -->
 
