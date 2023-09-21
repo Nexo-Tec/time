@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Judiciário e governo colocam a Lava Jato sob revisão](https://www.nexojornal.com.br/expresso/2023/09/20/Como-Judici%C3%A1rio-e-governo-colocam-a-Lava-Jato-sob-revis%C3%A3o)
+- [Toffoli vota contra marco temporal: placar está em 5 a 2](https://www.nexojornal.com.br/extra/2023/09/20/Toffoli-vota-contra-marco-temporal-placar-est%C3%A1-em-5-a-2)
+- [Lula e Biden lançam manifesto contra trabalho precarizado](https://www.nexojornal.com.br/extra/2023/09/20/Lula-e-Biden-lan%C3%A7am-manifesto-contra-trabalho-precarizado)
 - [Rosa Weber pauta ação da descriminalização do aborto no Supremo](https://www.nexojornal.com.br/extra/2023/09/20/Rosa-Weber-pauta-a%C3%A7%C3%A3o-da-descriminaliza%C3%A7%C3%A3o-do-aborto-no-Supremo)
 - [Juíza negra no STF: a saga que reafirma o racismo e o sexismo](https://www.nexojornal.com.br/colunistas/2023/Ju%C3%ADza-negra-no-STF-a-saga-que-reafirma-o-racismo-e-o-sexismo)
-- [PF faz operações contra contrabando de ouro da Venezuela](https://www.nexojornal.com.br/extra/2023/09/20/PF-faz-opera%C3%A7%C3%B5es-contra-contrabando-de-ouro-da-Venezuela)
-- [Câmara Municipal de São Paulo cassa vereador por racismo](https://www.nexojornal.com.br/extra/2023/09/20/C%C3%A2mara-Municipal-de-S%C3%A3o-Paulo-cassa-vereador-por-racismo)
-- [Lula na ONU: o balanço do ano de reinserção internacional do Brasil](https://www.nexojornal.com.br/podcast/2023/09/19/Lula-na-ONU-o-balan%C3%A7o-do-ano-de-reinser%C3%A7%C3%A3o-internacional-do-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
