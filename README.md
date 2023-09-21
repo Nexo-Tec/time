@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Odeio meu plano de saúde](https://gamarevista.uol.com.br/colunistas/marilene-felinto/odeio-meu-plano-de-saude/)
 - [O reflexo do corpo](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-reflexo-do-corpo/)
 - [Um potão de chocolate belga cremoso que vai te deixar muito feliz](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-potao-de-chocolate-belga-cremoso-que-vai-te-deixar-muito-feliz/)
 - [@sirihustvedt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sirihustvedt/)
 - [A campanha por uma ministra negra no STF](https://gamarevista.uol.com.br/formato/reportagem/a-campanha-por-uma-ministra-negra-no-stf/)
-- [Se você me ama, por que não se concentra?](https://gamarevista.uol.com.br/colunistas/fernando-luna/se-voce-me-ama-por-que-nao-se-concentra/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
