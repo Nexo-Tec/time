@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Odeio meu plano de saúde](https://gamarevista.uol.com.br/colunistas/marilene-felinto/odeio-meu-plano-de-saude/)
-- [O reflexo do corpo](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-reflexo-do-corpo/)
-- [Um potão de chocolate belga cremoso que vai te deixar muito feliz](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-potao-de-chocolate-belga-cremoso-que-vai-te-deixar-muito-feliz/)
-- [@sirihustvedt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sirihustvedt/)
-- [A campanha por uma ministra negra no STF](https://gamarevista.uol.com.br/formato/reportagem/a-campanha-por-uma-ministra-negra-no-stf/)
+- [“Nosso Sonho”, cinebiografia de Claudinho &amp; Buchecha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nosso-sonho-cinebiografia-de-claudinho-buchecha/)
+- [O fim de “Sex Education”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-fim-de-sex-education/)
+- [A religião que transforma o crime em “A Fé e o Fuzil”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-religiao-que-transforma-o-crime-em-a-fe-e-o-fuzil/)
+- [“Elis &amp; Tom” no cinema, cinco décadas depois](https://gamarevista.uol.com.br/achamos-que-vale/assistir/elis-tom-no-cinema-cinco-decadas-depois/)
+- [A classe média da música pop](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-classe-media-da-musica-pop/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
