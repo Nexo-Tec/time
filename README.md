@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Judiciário e governo colocam a Lava Jato sob revisão](https://www.nexojornal.com.br/expresso/2023/09/20/Como-Judici%C3%A1rio-e-governo-colocam-a-Lava-Jato-sob-revis%C3%A3o)
-- [Toffoli vota contra marco temporal: placar está em 5 a 2](https://www.nexojornal.com.br/extra/2023/09/20/Toffoli-vota-contra-marco-temporal-placar-est%C3%A1-em-5-a-2)
-- [Lula e Biden lançam manifesto contra trabalho precarizado](https://www.nexojornal.com.br/extra/2023/09/20/Lula-e-Biden-lan%C3%A7am-manifesto-contra-trabalho-precarizado)
-- [Rosa Weber pauta ação da descriminalização do aborto no Supremo](https://www.nexojornal.com.br/extra/2023/09/20/Rosa-Weber-pauta-a%C3%A7%C3%A3o-da-descriminaliza%C3%A7%C3%A3o-do-aborto-no-Supremo)
-- [Juíza negra no STF: a saga que reafirma o racismo e o sexismo](https://www.nexojornal.com.br/colunistas/2023/Ju%C3%ADza-negra-no-STF-a-saga-que-reafirma-o-racismo-e-o-sexismo)
+- [Como vida íntima e obra alimentam uma à outra no pop atual](https://www.nexojornal.com.br/expresso/2023/09/21/Como-vida-%C3%ADntima-e-obra-alimentam-uma-%C3%A0-outra-no-pop-atual)
+- [Além do veto ao marco temporal: o que falta para demarcar](https://www.nexojornal.com.br/expresso/2023/09/21/Al%C3%A9m-do-veto-ao-marco-temporal-o-que-falta-para-demarcar)
+- [Polônia anuncia que deixará de fornecer armas à Ucrânia](https://www.nexojornal.com.br/extra/2023/09/21/Pol%C3%B4nia-anuncia-que-deixar%C3%A1-de-fornecer-armas-%C3%A0-Ucr%C3%A2nia)
+- [Cid fala que Bolsonaro consultou militares sobre golpe](https://www.nexojornal.com.br/extra/2023/09/21/Cid-fala-que-Bolsonaro-consultou-militares-sobre-golpe)
+- [O impacto do gênero na percepção sobre os meios de transporte](https://www.nexojornal.com.br/academico/2023/09/20/O-impacto-do-g%C3%AAnero-na-percep%C3%A7%C3%A3o-sobre-os-meios-de-transporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
