@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Rasgaram as minhas roupas, cuspiram na minha cara”](https://gamarevista.uol.com.br/formato/depoimento/rasgaram-as-minhas-roupas-cuspiram-na-minha-cara/)
 - [Do Vinil ao Streaming](https://gamarevista.uol.com.br/cultura/trecho-de-livro/do-vinil-ao-streaming/)
 - [O fumo de negro que virou cannabis de branco](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-fumo-de-negro-que-virou-cannabis-de-branco/)
 - [“Nosso Sonho”, cinebiografia de Claudinho &amp; Buchecha](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nosso-sonho-cinebiografia-de-claudinho-buchecha/)
 - [O fim de “Sex Education”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-fim-de-sex-education/)
-- [A religião que transforma o crime em “A Fé e o Fuzil”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-religiao-que-transforma-o-crime-em-a-fe-e-o-fuzil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
