@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operação policial na Bahia deixa 6 mortos e 15 presos](https://www.nexojornal.com.br/extra/2023/09/22/Opera%C3%A7%C3%A3o-policial-na-Bahia-deixa-6-mortos-e-15-presos)
-- [Como a seca deixa cidades isoladas e sem alimento no Amazonas](https://www.nexojornal.com.br/externo/2023/09/22/Como-a-seca-deixa-cidades-isoladas-e-sem-alimento-no-Amazonas)
-- [‘Fomos silenciadas’, diz Weber em voto sobre aborto](https://www.nexojornal.com.br/extra/2023/09/22/%E2%80%98Fomos-silenciadas%E2%80%99-diz-Weber-em-voto-sobre-aborto)
-- [Walewska, campeã olímpica de vôlei, morre aos 43 anos](https://www.nexojornal.com.br/extra/2023/09/22/Walewska-campe%C3%A3-ol%C3%ADmpica-de-v%C3%B4lei-morre-aos-43-anos)
-- [Como planos podem configurar crime no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/09/22/Como-planos-podem-configurar-crime-no-golpismo-de-Bolsonaro)
+- [Mais boi do que gente: o que isso diz sobre o Brasil de 2023](https://www.nexojornal.com.br/podcast/2023/09/21/Mais-boi-do-que-gente-o-que-isso-diz-sobre-o-Brasil-de-2023)
+- [Rupert Murdoch anuncia saída da presidência da Fox News](https://www.nexojornal.com.br/extra/2023/09/21/Rupert-Murdoch-anuncia-sa%C3%ADda-da-presid%C3%AAncia-da-Fox-News)
+- [Em despedida, Aras diz ter sido alvo de ‘falsas narrativas’](https://www.nexojornal.com.br/extra/2023/09/21/Em-despedida-Aras-diz-ter-sido-alvo-de-%E2%80%98falsas-narrativas%E2%80%99)
+- [Como vida íntima e obra alimentam uma à outra no pop atual](https://www.nexojornal.com.br/expresso/2023/09/21/Como-vida-%C3%ADntima-e-obra-alimentam-uma-%C3%A0-outra-no-pop-atual)
+- [Além do veto ao marco temporal: o que falta para demarcar](https://www.nexojornal.com.br/expresso/2023/09/21/Al%C3%A9m-do-veto-ao-marco-temporal-o-que-falta-para-demarcar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
