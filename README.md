@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais boi do que gente: o que isso diz sobre o Brasil de 2023](https://www.nexojornal.com.br/podcast/2023/09/21/Mais-boi-do-que-gente-o-que-isso-diz-sobre-o-Brasil-de-2023)
-- [Rupert Murdoch anuncia saída da presidência da Fox News](https://www.nexojornal.com.br/extra/2023/09/21/Rupert-Murdoch-anuncia-sa%C3%ADda-da-presid%C3%AAncia-da-Fox-News)
-- [Em despedida, Aras diz ter sido alvo de ‘falsas narrativas’](https://www.nexojornal.com.br/extra/2023/09/21/Em-despedida-Aras-diz-ter-sido-alvo-de-%E2%80%98falsas-narrativas%E2%80%99)
 - [Como vida íntima e obra alimentam uma à outra no pop atual](https://www.nexojornal.com.br/expresso/2023/09/21/Como-vida-%C3%ADntima-e-obra-alimentam-uma-%C3%A0-outra-no-pop-atual)
 - [Além do veto ao marco temporal: o que falta para demarcar](https://www.nexojornal.com.br/expresso/2023/09/21/Al%C3%A9m-do-veto-ao-marco-temporal-o-que-falta-para-demarcar)
+- [Polônia anuncia que deixará de fornecer armas à Ucrânia](https://www.nexojornal.com.br/extra/2023/09/21/Pol%C3%B4nia-anuncia-que-deixar%C3%A1-de-fornecer-armas-%C3%A0-Ucr%C3%A2nia)
+- [Cid fala que Bolsonaro consultou militares sobre golpe](https://www.nexojornal.com.br/extra/2023/09/21/Cid-fala-que-Bolsonaro-consultou-militares-sobre-golpe)
+- [O impacto do gênero na percepção sobre os meios de transporte](https://www.nexojornal.com.br/academico/2023/09/20/O-impacto-do-g%C3%AAnero-na-percep%C3%A7%C3%A3o-sobre-os-meios-de-transporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
