@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maioria do TSE rejeita recurso e Bolsonaro continua inelegível](https://www.nexojornal.com.br/extra/2023/09/22/Maioria-do-TSE-rejeita-recurso-e-Bolsonaro-continua-ineleg%C3%ADvel)
-- [O projeto de aumentar os poderes da PM que avança no Congresso](https://www.nexojornal.com.br/externo/2023/09/22/O-projeto-de-aumentar-os-poderes-da-PM-que-avan%C3%A7a-no-Congresso)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/22/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Kwaidan’: contos fantásticos do Japão antigo](https://www.nexojornal.com.br/estante/trechos/2023/09/22/%E2%80%98Kwaidan%E2%80%99-contos-fant%C3%A1sticos-do-Jap%C3%A3o-antigo)
-- [‘Efeito He-Man’: o ciclo entre infância, consumo e nostalgia](https://www.nexojornal.com.br/expresso/2023/09/22/%E2%80%98Efeito-He-Man%E2%80%99-o-ciclo-entre-inf%C3%A2ncia-consumo-e-nostalgia)
+- [Operação policial na Bahia deixa 6 mortos e 15 presos](https://www.nexojornal.com.br/extra/2023/09/22/Opera%C3%A7%C3%A3o-policial-na-Bahia-deixa-6-mortos-e-15-presos)
+- [Como a seca deixa cidades isoladas e sem alimento no Amazonas](https://www.nexojornal.com.br/externo/2023/09/22/Como-a-seca-deixa-cidades-isoladas-e-sem-alimento-no-Amazonas)
+- [‘Fomos silenciadas’, diz Weber em voto sobre aborto](https://www.nexojornal.com.br/extra/2023/09/22/%E2%80%98Fomos-silenciadas%E2%80%99-diz-Weber-em-voto-sobre-aborto)
+- [Walewska, campeã olímpica de vôlei, morre aos 43 anos](https://www.nexojornal.com.br/extra/2023/09/22/Walewska-campe%C3%A3-ol%C3%ADmpica-de-v%C3%B4lei-morre-aos-43-anos)
+- [Como planos podem configurar crime no golpismo de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/09/22/Como-planos-podem-configurar-crime-no-golpismo-de-Bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
