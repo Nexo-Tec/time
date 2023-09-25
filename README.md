@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maior amostra de asteroide já coletada chega aos EUA](https://www.nexojornal.com.br/extra/2023/09/24/Maior-amostra-de-asteroide-j%C3%A1-coletada-chega-aos-EUA)
 - [Borboleta-guerreira-das-pedras: espécie nova na serra mineira](https://www.nexojornal.com.br/externo/2023/09/23/Borboleta-guerreira-das-pedras-esp%C3%A9cie-nova-na-serra-mineira)
 - [5 livros de introdução ao pensamento negro contemporâneo](https://www.nexojornal.com.br/estante/favoritos/2023/09/23/5-livros-de-introdu%C3%A7%C3%A3o-ao-pensamento-negro-contempor%C3%A2neo)
 - [As políticas públicas para primeira infância na Boa Vista](https://www.nexojornal.com.br/expresso/2023/09/23/As-pol%C3%ADticas-p%C3%BAblicas-para-primeira-inf%C3%A2ncia-na-Boa-Vista)
 - [CBD, THC e drogas K: desvendando a sopa de letrinhas](https://www.nexojornal.com.br/ensaio/2023/09/23/CBD-THC-e-drogas-K-desvendando-a-sopa-de-letrinhas)
+- [‘Iniciativa Lula-Biden pode ser arma contra populismo’](https://www.nexojornal.com.br/entrevista/2023/09/23/%E2%80%98Iniciativa-Lula-Biden-pode-ser-arma-contra-populismo%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
