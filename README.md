@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais fatores norteiam a sucessão de Augusto Aras](https://www.nexojornal.com.br/expresso/2023/09/24/Quais-fatores-norteiam-a-sucess%C3%A3o-de-Augusto-Aras)
-- [Má conduta exposta na vitrine](https://www.nexojornal.com.br/externo/2023/09/24/M%C3%A1-conduta-exposta-na-vitrine)
-- [Cuidados necessários às reportagens sobre segurança pública](https://www.nexojornal.com.br/ensaio/2023/09/24/Cuidados-necess%C3%A1rios-%C3%A0s-reportagens-sobre-seguran%C3%A7a-p%C3%BAblica)
-- [Um programa que usa neurociência para melhorar o ensino](https://www.nexojornal.com.br/entrevista/2023/09/24/Um-programa-que-usa-neuroci%C3%AAncia-para-melhorar-o-ensino)
-- [Como o cansaço de aliados prejudica a Ucrânia na guerra](https://www.nexojornal.com.br/expresso/2023/09/24/Como-o-cansa%C3%A7o-de-aliados-prejudica-a-Ucr%C3%A2nia-na-guerra)
+- [Maior amostra de asteroide já coletada chega aos EUA](https://www.nexojornal.com.br/extra/2023/09/24/Maior-amostra-de-asteroide-j%C3%A1-coletada-chega-aos-EUA)
+- [Borboleta-guerreira-das-pedras: espécie nova na serra mineira](https://www.nexojornal.com.br/externo/2023/09/23/Borboleta-guerreira-das-pedras-esp%C3%A9cie-nova-na-serra-mineira)
+- [5 livros de introdução ao pensamento negro contemporâneo](https://www.nexojornal.com.br/estante/favoritos/2023/09/23/5-livros-de-introdu%C3%A7%C3%A3o-ao-pensamento-negro-contempor%C3%A2neo)
+- [As políticas públicas para primeira infância na Boa Vista](https://www.nexojornal.com.br/expresso/2023/09/23/As-pol%C3%ADticas-p%C3%BAblicas-para-primeira-inf%C3%A2ncia-na-Boa-Vista)
+- [CBD, THC e drogas K: desvendando a sopa de letrinhas](https://www.nexojornal.com.br/ensaio/2023/09/23/CBD-THC-e-drogas-K-desvendando-a-sopa-de-letrinhas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
