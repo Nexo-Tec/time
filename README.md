@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Calor extremo: a desigualdade do acesso ao lazer nas cidades](https://www.nexojornal.com.br/expresso/2023/09/25/Calor-extremo-a-desigualdade-do-acesso-ao-lazer-nas-cidades)
-- [Qual o papel de tribunais eleitorais em democracias](https://www.nexojornal.com.br/expresso/2023/09/25/Qual-o-papel-de-tribunais-eleitorais-em-democracias)
-- [Relatos da 1ª expedição científica do Brasil ao Polo Norte](https://www.nexojornal.com.br/externo/2023/09/25/Relatos-da-1%C2%AA-expedi%C3%A7%C3%A3o-cient%C3%ADfica-do-Brasil-ao-Polo-Norte)
-- [Militares voltam a adiar eleições no Mali por ‘razões técnicas’](https://www.nexojornal.com.br/extra/2023/09/25/Militares-voltam-a-adiar-elei%C3%A7%C3%B5es-no-Mali-por-%E2%80%98raz%C3%B5es-t%C3%A9cnicas%E2%80%99)
-- [A violência urbana e a matança em operações policiais na Bahia](https://www.nexojornal.com.br/podcast/2023/09/25/A-viol%C3%AAncia-urbana-e-a-matan%C3%A7a-em-opera%C3%A7%C3%B5es-policiais-na-Bahia)
+- [Quais fatores norteiam a sucessão de Augusto Aras](https://www.nexojornal.com.br/expresso/2023/09/24/Quais-fatores-norteiam-a-sucess%C3%A3o-de-Augusto-Aras)
+- [Má conduta exposta na vitrine](https://www.nexojornal.com.br/externo/2023/09/24/M%C3%A1-conduta-exposta-na-vitrine)
+- [Cuidados necessários às reportagens sobre segurança pública](https://www.nexojornal.com.br/ensaio/2023/09/24/Cuidados-necess%C3%A1rios-%C3%A0s-reportagens-sobre-seguran%C3%A7a-p%C3%BAblica)
+- [Um programa que usa neurociência para melhorar o ensino](https://www.nexojornal.com.br/entrevista/2023/09/24/Um-programa-que-usa-neuroci%C3%AAncia-para-melhorar-o-ensino)
+- [Como o cansaço de aliados prejudica a Ucrânia na guerra](https://www.nexojornal.com.br/expresso/2023/09/24/Como-o-cansa%C3%A7o-de-aliados-prejudica-a-Ucr%C3%A2nia-na-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
