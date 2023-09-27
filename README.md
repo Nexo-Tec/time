@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Do ciclo de formulação e avaliação de políticas à espiral de implementação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Do-ciclo-de-formula%C3%A7%C3%A3o-e-avalia%C3%A7%C3%A3o-de-pol%C3%ADticas-%C3%A0-espiral-de-implementa%C3%A7%C3%A3o)
-- [A desigualdade racial no acesso à creches no Brasil](https://pp.nexojornal.com.br/Dados/2023/09/27/A-desigualdade-racial-no-acesso-%C3%A0-creches-no-Brasil)
 - [O uso de energia limpa na frota de ônibus urbana, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-uso-de-energia-limpa-na-frota-de-%C3%B4nibus-urbana-em-9-pontos)
 - [Pecuária bovina regenerativa na América Latina e no Caribe](https://pp.nexojornal.com.br/glossario/Pecu%C3%A1ria-bovina-regenerativa-na-Am%C3%A9rica-Latina-e-no-Caribe)
 - [Envelhecimento e desigualdades raciais](https://pp.nexojornal.com.br/bibliografia-basica/2023/09/26/Envelhecimento-e-desigualdades-raciais)
+- [Violência urbana e desenvolvimento infantil no Brasil](https://pp.nexojornal.com.br/academico/2023/Viol%C3%AAncia-urbana-e-desenvolvimento-infantil-no-Brasil)
+- [Militarização do ensino público brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2023/Militariza%C3%A7%C3%A3o-do-ensino-p%C3%BAblico-brasileiro)
 <!-- PP_LIST:END -->
 
