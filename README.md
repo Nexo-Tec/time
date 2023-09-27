@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Patrícia Morellato: mudanças climáticas e biodiversidade](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/09/20/Patr%C3%ADcia-Morellato-mudan%C3%A7as-clim%C3%A1ticas-e-biodiversidade)
-- [O impacto das dietas ultraprocessadas em nosso planeta](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-impacto-das-dietas-ultraprocessadas-em-nosso-planeta)
-- [Encarceramento feminino e tortura: o contexto do Rio de Janeiro](https://pp.nexojornal.com.br/opiniao/2023/Encarceramento-feminino-e-tortura-o-contexto-do-Rio-de-Janeiro)
-- [O que é o urbano na Amazônia contemporânea? Implicações para a vigilância em saúde no bioma](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-%C3%A9-o-urbano-na-Amaz%C3%B4nia-contempor%C3%A2nea-Implica%C3%A7%C3%B5es-para-a-vigil%C3%A2ncia-em-sa%C3%BAde-no-bioma)
-- [Escola Interdisciplinar Fapesp 2023, Ciências Exatas e Naturais, Engenharias e Medicina recebe inscrições](https://pp.nexojornal.com.br/topico/2023/09/19/Escola-Interdisciplinar-Fapesp-2023-Ci%C3%AAncias-Exatas-e-Naturais-Engenharias-e-Medicina-recebe-inscri%C3%A7%C3%B5es)
+- [O uso de energia limpa na frota de ônibus urbana, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/O-uso-de-energia-limpa-na-frota-de-%C3%B4nibus-urbana-em-9-pontos)
+- [Pecuária bovina regenerativa na América Latina e no Caribe](https://pp.nexojornal.com.br/glossario/Pecu%C3%A1ria-bovina-regenerativa-na-Am%C3%A9rica-Latina-e-no-Caribe)
+- [Envelhecimento e desigualdades raciais](https://pp.nexojornal.com.br/bibliografia-basica/2023/09/26/Envelhecimento-e-desigualdades-raciais)
+- [Violência urbana e desenvolvimento infantil no Brasil](https://pp.nexojornal.com.br/academico/2023/Viol%C3%AAncia-urbana-e-desenvolvimento-infantil-no-Brasil)
+- [Militarização do ensino público brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2023/Militariza%C3%A7%C3%A3o-do-ensino-p%C3%BAblico-brasileiro)
 <!-- PP_LIST:END -->
 
