@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Alice Carvalho](https://gamarevista.uol.com.br/pessoas/questionario-proust/alice-carvalho/)
 - [Espaço Sonoro](https://gamarevista.uol.com.br/colunistas/maria-homem/espaco-sonoro/)
 - [Mirian Goldenberg: “As pessoas acham que a velhice é uma morte”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mirian-goldenberg-etarismo-bela-velhice-reforma-da-previdencia/)
 - [“Rasgaram as minhas roupas, cuspiram na minha cara”](https://gamarevista.uol.com.br/formato/depoimento/rasgaram-as-minhas-roupas-cuspiram-na-minha-cara/)
 - [Do Vinil ao Streaming](https://gamarevista.uol.com.br/cultura/trecho-de-livro/do-vinil-ao-streaming/)
-- [O fumo de negro que virou cannabis de branco](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-fumo-de-negro-que-virou-cannabis-de-branco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
