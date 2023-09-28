@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Marco temporal: o que vem depois da reação do Congresso](https://www.nexojornal.com.br/expresso/2023/09/27/Marco-temporal-o-que-vem-depois-da-rea%C3%A7%C3%A3o-do-Congresso)
-- [O impacto do racismo na preservação da memória](https://www.nexojornal.com.br/academico/2023/09/27/O-impacto-do-racismo-na-preserva%C3%A7%C3%A3o-da-mem%C3%B3ria)
-- [Um pouco de Agatha Christie não vai mal na hora do chá](https://www.nexojornal.com.br/colunistas/2023/Um-pouco-de-Agatha-Christie-n%C3%A3o-vai-mal-na-hora-do-ch%C3%A1)
-- [Quais as frentes da crise econômica na Nigéria](https://www.nexojornal.com.br/expresso/2023/09/27/Quais-as-frentes-da-crise-econ%C3%B4mica-na-Nig%C3%A9ria)
-- [Weber destaca em despedida que STF só teve 3 ministras](https://www.nexojornal.com.br/extra/2023/09/27/Weber-destaca-em-despedida-que-STF-s%C3%B3-teve-3-ministras)
+- [A participação de mulheres nos parlamentos em 2023](https://www.nexojornal.com.br/grafico/2023/09/26/A-participa%C3%A7%C3%A3o-de-mulheres-nos-parlamentos-em-2023)
+- [Quais as fontes de custeio de sindicatos. E quem paga por isso](https://www.nexojornal.com.br/expresso/2023/09/26/Quais-as-fontes-de-custeio-de-sindicatos.-E-quem-paga-por-isso)
+- [Como estão os líderes da ‘onda rosa’ 20 anos depois](https://www.nexojornal.com.br/expresso/2023/09/26/Como-est%C3%A3o-os-l%C3%ADderes-da-%E2%80%98onda-rosa%E2%80%99-20-anos-depois)
+- [Como os conselhos tutelares mobilizam de religiosos a partidos](https://www.nexojornal.com.br/expresso/2023/09/26/Como-os-conselhos-tutelares-mobilizam-de-religiosos-a-partidos)
+- [O êxodo de Nagorno-Karabakh após décadas de conflito](https://www.nexojornal.com.br/podcast/2023/09/26/O-%C3%AAxodo-de-Nagorno-Karabakh-ap%C3%B3s-d%C3%A9cadas-de-conflito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
