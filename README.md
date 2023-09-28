@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Dicionário pulou verbete  “A causa negra segundo os brancos”…](https://gamarevista.uol.com.br/colunistas/marilene-felinto/dicionario-pulou-verbete-a-causa-negra-segundo-os-brancos/)
-- [Cartas sobre uma história de amor — e do Brasil](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/cartas-sobre-uma-historia-de-amor-e-do-brasil/)
-- [Alice Carvalho](https://gamarevista.uol.com.br/pessoas/questionario-proust/alice-carvalho/)
-- [Espaço Sonoro](https://gamarevista.uol.com.br/colunistas/maria-homem/espaco-sonoro/)
-- [Mirian Goldenberg: “As pessoas acham que a velhice é uma morte”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mirian-goldenberg-etarismo-bela-velhice-reforma-da-previdencia/)
+- [“A Coach”, o novo podcast de Chico Felitti](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-coach-o-novo-podcast-de-chico-felitti/)
+- [Martin Scorsese fala sobre mortalidade, solidão e Marvel](https://gamarevista.uol.com.br/achamos-que-vale/ler/martin-scorsese-fala-sobre-mortalidade-solidao-e-marvel/)
+- [Baile funk no MAR](https://gamarevista.uol.com.br/achamos-que-vale/ir/baile-funk-no-mar/)
+- [Festival de Finos Filmes traz curtas a SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-de-finos-filmes-traz-curtas-a-sp/)
+- [Um relato de uma prisioneira da Guerra do Paraguai](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-de-uma-prisioneira-da-guerra-do-paraguai/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
