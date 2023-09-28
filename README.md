@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Operações policiais na Bahia já mataram mais de 50 em setembro](https://www.nexojornal.com.br/extra/2023/09/27/Opera%C3%A7%C3%B5es-policiais-na-Bahia-j%C3%A1-mataram-mais-de-50-em-setembro)
-- [Roteiristas de Hollywood encerram greve após acordo](https://www.nexojornal.com.br/extra/2023/09/27/Roteiristas-de-Hollywood-encerram-greve-ap%C3%B3s-acordo)
 - [A participação de mulheres nos parlamentos em 2023](https://www.nexojornal.com.br/grafico/2023/09/26/A-participa%C3%A7%C3%A3o-de-mulheres-nos-parlamentos-em-2023)
 - [Quais as fontes de custeio de sindicatos. E quem paga por isso](https://www.nexojornal.com.br/expresso/2023/09/26/Quais-as-fontes-de-custeio-de-sindicatos.-E-quem-paga-por-isso)
 - [Como estão os líderes da ‘onda rosa’ 20 anos depois](https://www.nexojornal.com.br/expresso/2023/09/26/Como-est%C3%A3o-os-l%C3%ADderes-da-%E2%80%98onda-rosa%E2%80%99-20-anos-depois)
+- [Como os conselhos tutelares mobilizam de religiosos a partidos](https://www.nexojornal.com.br/expresso/2023/09/26/Como-os-conselhos-tutelares-mobilizam-de-religiosos-a-partidos)
+- [O êxodo de Nagorno-Karabakh após décadas de conflito](https://www.nexojornal.com.br/podcast/2023/09/26/O-%C3%AAxodo-de-Nagorno-Karabakh-ap%C3%B3s-d%C3%A9cadas-de-conflito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
