@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dicionário pulou verbete  “A causa negra segundo os brancos”…](https://gamarevista.uol.com.br/colunistas/marilene-felinto/dicionario-pulou-verbete-a-causa-negra-segundo-os-brancos/)
 - [Cartas sobre uma história de amor — e do Brasil](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/cartas-sobre-uma-historia-de-amor-e-do-brasil/)
 - [Alice Carvalho](https://gamarevista.uol.com.br/pessoas/questionario-proust/alice-carvalho/)
 - [Espaço Sonoro](https://gamarevista.uol.com.br/colunistas/maria-homem/espaco-sonoro/)
 - [Mirian Goldenberg: “As pessoas acham que a velhice é uma morte”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mirian-goldenberg-etarismo-bela-velhice-reforma-da-previdencia/)
-- [“Rasgaram as minhas roupas, cuspiram na minha cara”](https://gamarevista.uol.com.br/formato/depoimento/rasgaram-as-minhas-roupas-cuspiram-na-minha-cara/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
