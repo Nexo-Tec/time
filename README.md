@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procuradoria investiga papel do Banco do Brasil na escravidão](https://www.nexojornal.com.br/extra/2023/09/28/Procuradoria-investiga-papel-do-Banco-do-Brasil-na-escravid%C3%A3o)
-- [Os interesses do encontro de Lula com Campos Neto](https://www.nexojornal.com.br/expresso/2023/09/28/Os-interesses-do-encontro-de-Lula-com-Campos-Neto)
-- [Uma rede para auxiliar UTIs respiratórias e obstétricas](https://www.nexojornal.com.br/entrevista/2023/09/28/Uma-rede-para-auxiliar-UTIs-respirat%C3%B3rias-e-obst%C3%A9tricas)
-- [A queda da vacinação infantil no Brasil a partir de 2019](https://www.nexojornal.com.br/grafico/2023/09/28/A-queda-da-vacina%C3%A7%C3%A3o-infantil-no-Brasil-a-partir-de-2019)
-- [Como a Educação Midiática pode apoiar a saúde mental](https://www.nexojornal.com.br/colunistas/2023/Como-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-pode-apoiar-a-sa%C3%BAde-mental)
+- [Marco temporal: o que vem depois da reação do Congresso](https://www.nexojornal.com.br/expresso/2023/09/27/Marco-temporal-o-que-vem-depois-da-rea%C3%A7%C3%A3o-do-Congresso)
+- [O impacto do racismo na preservação da memória](https://www.nexojornal.com.br/academico/2023/09/27/O-impacto-do-racismo-na-preserva%C3%A7%C3%A3o-da-mem%C3%B3ria)
+- [Um pouco de Agatha Christie não vai mal na hora do chá](https://www.nexojornal.com.br/colunistas/2023/Um-pouco-de-Agatha-Christie-n%C3%A3o-vai-mal-na-hora-do-ch%C3%A1)
+- [Quais as frentes da crise econômica na Nigéria](https://www.nexojornal.com.br/expresso/2023/09/27/Quais-as-frentes-da-crise-econ%C3%B4mica-na-Nig%C3%A9ria)
+- [Weber destaca em despedida que STF só teve 3 ministras](https://www.nexojornal.com.br/extra/2023/09/27/Weber-destaca-em-despedida-que-STF-s%C3%B3-teve-3-ministras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
