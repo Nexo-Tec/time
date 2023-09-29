@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [General da reserva é alvo de operação e tem celular apreendido](https://www.nexojornal.com.br/extra/2023/09/29/General-da-reserva-%C3%A9-alvo-de-opera%C3%A7%C3%A3o-e-tem-celular-apreendido)
-- [Governo oficializa concurso unificado para servidores](https://www.nexojornal.com.br/extra/2023/09/29/Governo-oficializa-concurso-unificado-para-servidores)
-- [Os planos para o clima extremo engavetados pelo governo gaúcho](https://www.nexojornal.com.br/externo/2023/09/29/Os-planos-para-o-clima-extremo-engavetados-pelo-governo-ga%C3%BAcho)
-- [Anielle pede proteção policial após sofrer ameaças nas redes](https://www.nexojornal.com.br/extra/2023/09/29/Anielle-pede-prote%C3%A7%C3%A3o-policial-ap%C3%B3s-sofrer-amea%C3%A7as-nas-redes)
-- [Desemprego fica em 7,8% no trimestre encerrado em agosto](https://www.nexojornal.com.br/extra/2023/09/29/Desemprego-fica-em-78-no-trimestre-encerrado-em-agosto)
+- [Procuradoria investiga papel do Banco do Brasil na escravidão](https://www.nexojornal.com.br/extra/2023/09/28/Procuradoria-investiga-papel-do-Banco-do-Brasil-na-escravid%C3%A3o)
+- [Os interesses do encontro de Lula com Campos Neto](https://www.nexojornal.com.br/expresso/2023/09/28/Os-interesses-do-encontro-de-Lula-com-Campos-Neto)
+- [Uma rede para auxiliar UTIs respiratórias e obstétricas](https://www.nexojornal.com.br/entrevista/2023/09/28/Uma-rede-para-auxiliar-UTIs-respirat%C3%B3rias-e-obst%C3%A9tricas)
+- [A queda da vacinação infantil no Brasil a partir de 2019](https://www.nexojornal.com.br/grafico/2023/09/28/A-queda-da-vacina%C3%A7%C3%A3o-infantil-no-Brasil-a-partir-de-2019)
+- [Como a Educação Midiática pode apoiar a saúde mental](https://www.nexojornal.com.br/colunistas/2023/Como-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-pode-apoiar-a-sa%C3%BAde-mental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
