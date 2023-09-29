@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Outlive](https://gamarevista.uol.com.br/cultura/trecho-de-livro/outlive/)
 - [“A Coach”, o novo podcast de Chico Felitti](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-coach-o-novo-podcast-de-chico-felitti/)
 - [Martin Scorsese fala sobre mortalidade, solidão e Marvel](https://gamarevista.uol.com.br/achamos-que-vale/ler/martin-scorsese-fala-sobre-mortalidade-solidao-e-marvel/)
 - [Baile funk no MAR](https://gamarevista.uol.com.br/achamos-que-vale/ir/baile-funk-no-mar/)
 - [Festival de Finos Filmes traz curtas a SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-de-finos-filmes-traz-curtas-a-sp/)
-- [Um relato de uma prisioneira da Guerra do Paraguai](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-de-uma-prisioneira-da-guerra-do-paraguai/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
