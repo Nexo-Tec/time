@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [General da reserva é alvo de operação e tem celular apreendido](https://www.nexojornal.com.br/extra/2023/09/29/General-da-reserva-%C3%A9-alvo-de-opera%C3%A7%C3%A3o-e-tem-celular-apreendido)
-- [Governo oficializa concurso unificado para servidores](https://www.nexojornal.com.br/extra/2023/09/29/Governo-oficializa-concurso-unificado-para-servidores)
-- [Os planos para o clima extremo engavetados pelo governo gaúcho](https://www.nexojornal.com.br/externo/2023/09/29/Os-planos-para-o-clima-extremo-engavetados-pelo-governo-ga%C3%BAcho)
-- [Anielle pede proteção policial após sofrer ameaças nas redes](https://www.nexojornal.com.br/extra/2023/09/29/Anielle-pede-prote%C3%A7%C3%A3o-policial-ap%C3%B3s-sofrer-amea%C3%A7as-nas-redes)
-- [Desemprego fica em 7,8% no trimestre encerrado em agosto](https://www.nexojornal.com.br/extra/2023/09/29/Desemprego-fica-em-78-no-trimestre-encerrado-em-agosto)
+- [O computador mais antigo do mundo recriado com Lego](https://www.nexojornal.com.br/expresso/2023/09/29/O-computador-mais-antigo-do-mundo-recriado-com-Lego)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Três’: quando amizades não resistem ao tempo](https://www.nexojornal.com.br/estante/trechos/2023/09/29/%E2%80%98Tr%C3%AAs%E2%80%99-quando-amizades-n%C3%A3o-resistem-ao-tempo)
+- [As ações contra a seca prolongada na Amazônia](https://www.nexojornal.com.br/expresso/2023/09/29/As-a%C3%A7%C3%B5es-contra-a-seca-prolongada-na-Amaz%C3%B4nia)
+- [Por que os resultados das contas públicas têm sido tão negativos](https://www.nexojornal.com.br/expresso/2023/09/29/Por-que-os-resultados-das-contas-p%C3%BAblicas-t%C3%AAm-sido-t%C3%A3o-negativos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
