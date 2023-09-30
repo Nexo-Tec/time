@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Procuradoria investiga papel do Banco do Brasil na escravidão](https://www.nexojornal.com.br/extra/2023/09/28/Procuradoria-investiga-papel-do-Banco-do-Brasil-na-escravid%C3%A3o)
-- [Os interesses do encontro de Lula com Campos Neto](https://www.nexojornal.com.br/expresso/2023/09/28/Os-interesses-do-encontro-de-Lula-com-Campos-Neto)
-- [Uma rede para auxiliar UTIs respiratórias e obstétricas](https://www.nexojornal.com.br/entrevista/2023/09/28/Uma-rede-para-auxiliar-UTIs-respirat%C3%B3rias-e-obst%C3%A9tricas)
-- [A queda da vacinação infantil no Brasil a partir de 2019](https://www.nexojornal.com.br/grafico/2023/09/28/A-queda-da-vacina%C3%A7%C3%A3o-infantil-no-Brasil-a-partir-de-2019)
-- [Como a Educação Midiática pode apoiar a saúde mental](https://www.nexojornal.com.br/colunistas/2023/Como-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-pode-apoiar-a-sa%C3%BAde-mental)
+- [O computador mais antigo do mundo recriado com Lego](https://www.nexojornal.com.br/expresso/2023/09/29/O-computador-mais-antigo-do-mundo-recriado-com-Lego)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Três’: quando amizades não resistem ao tempo](https://www.nexojornal.com.br/estante/trechos/2023/09/29/%E2%80%98Tr%C3%AAs%E2%80%99-quando-amizades-n%C3%A3o-resistem-ao-tempo)
+- [As ações contra a seca prolongada na Amazônia](https://www.nexojornal.com.br/expresso/2023/09/29/As-a%C3%A7%C3%B5es-contra-a-seca-prolongada-na-Amaz%C3%B4nia)
+- [Por que os resultados das contas públicas têm sido tão negativos](https://www.nexojornal.com.br/expresso/2023/09/29/Por-que-os-resultados-das-contas-p%C3%BAblicas-t%C3%AAm-sido-t%C3%A3o-negativos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
