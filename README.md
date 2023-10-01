@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que uma infestação de formigas na Sicília preocupa a Europa](https://www.nexojornal.com.br/expresso/2023/09/30/Por-que-uma-infesta%C3%A7%C3%A3o-de-formigas-na-Sic%C3%ADlia-preocupa-a-Europa)
-- [5 romances de formação bem contemporâneos](https://www.nexojornal.com.br/estante/favoritos/2023/09/30/5-romances-de-forma%C3%A7%C3%A3o-bem-contempor%C3%A2neos)
-- [‘Debret criticava o passado para falar sobre o futuro’](https://www.nexojornal.com.br/entrevista/2023/09/30/%E2%80%98Debret-criticava-o-passado-para-falar-sobre-o-futuro%E2%80%99)
-- [O escândalo de arbitragem envolvendo o Barcelona](https://www.nexojornal.com.br/expresso/2023/09/30/O-esc%C3%A2ndalo-de-arbitragem-envolvendo-o-Barcelona)
-- [Como coibir a grilagem de terras na Amazônia](https://www.nexojornal.com.br/ensaio/2023/09/30/Como-coibir-a-grilagem-de-terras-na-Amaz%C3%B4nia)
+- [O computador mais antigo do mundo recriado com Lego](https://www.nexojornal.com.br/expresso/2023/09/29/O-computador-mais-antigo-do-mundo-recriado-com-Lego)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/09/29/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [‘Três’: quando amizades não resistem ao tempo](https://www.nexojornal.com.br/estante/trechos/2023/09/29/%E2%80%98Tr%C3%AAs%E2%80%99-quando-amizades-n%C3%A3o-resistem-ao-tempo)
+- [As ações contra a seca prolongada na Amazônia](https://www.nexojornal.com.br/expresso/2023/09/29/As-a%C3%A7%C3%B5es-contra-a-seca-prolongada-na-Amaz%C3%B4nia)
+- [Por que os resultados das contas públicas têm sido tão negativos](https://www.nexojornal.com.br/expresso/2023/09/29/Por-que-os-resultados-das-contas-p%C3%BAblicas-t%C3%AAm-sido-t%C3%A3o-negativos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
