@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que uma infestação de formigas na Sicília preocupa a Europa](https://www.nexojornal.com.br/expresso/2023/09/30/Por-que-uma-infesta%C3%A7%C3%A3o-de-formigas-na-Sic%C3%ADlia-preocupa-a-Europa)
-- [5 romances de formação bem contemporâneos](https://www.nexojornal.com.br/estante/favoritos/2023/09/30/5-romances-de-forma%C3%A7%C3%A3o-bem-contempor%C3%A2neos)
-- [‘Debret criticava o passado para falar sobre o futuro’](https://www.nexojornal.com.br/entrevista/2023/09/30/%E2%80%98Debret-criticava-o-passado-para-falar-sobre-o-futuro%E2%80%99)
-- [O escândalo de arbitragem envolvendo o Barcelona](https://www.nexojornal.com.br/expresso/2023/09/30/O-esc%C3%A2ndalo-de-arbitragem-envolvendo-o-Barcelona)
-- [Como coibir a grilagem de terras na Amazônia](https://www.nexojornal.com.br/ensaio/2023/09/30/Como-coibir-a-grilagem-de-terras-na-Amaz%C3%B4nia)
+- [Constituinte também foi palco para a extrema direita](https://www.nexojornal.com.br/ensaio/2023/10/01/Constituinte-tamb%C3%A9m-foi-palco-para-a-extrema-direita)
+- [Por que os EUA são tão suscetíveis às crises de opioides](https://www.nexojornal.com.br/expresso/2023/10/01/Por-que-os-EUA-s%C3%A3o-t%C3%A3o-suscet%C3%ADveis-%C3%A0s-crises-de-opioides)
+- [Como as ministras encararam a questão de gênero no Supremo](https://www.nexojornal.com.br/expresso/2023/10/01/Como-as-ministras-encararam-a-quest%C3%A3o-de-g%C3%AAnero-no-Supremo)
+- [Os riscos dos casamentos entre primos](https://www.nexojornal.com.br/externo/2023/10/01/Os-riscos-dos-casamentos-entre-primos)
+- [Maioria do STF condena mais 5 pelos ataques de 8 de janeiro](https://www.nexojornal.com.br/extra/2023/10/01/Maioria-do-STF-condena-mais-5-pelos-ataques-de-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
