@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Constituinte também foi palco para a extrema direita](https://www.nexojornal.com.br/ensaio/2023/10/01/Constituinte-tamb%C3%A9m-foi-palco-para-a-extrema-direita)
-- [Por que os EUA são tão suscetíveis às crises de opioides](https://www.nexojornal.com.br/expresso/2023/10/01/Por-que-os-EUA-s%C3%A3o-t%C3%A3o-suscet%C3%ADveis-%C3%A0s-crises-de-opioides)
-- [Como as ministras encararam a questão de gênero no Supremo](https://www.nexojornal.com.br/expresso/2023/10/01/Como-as-ministras-encararam-a-quest%C3%A3o-de-g%C3%AAnero-no-Supremo)
-- [Os riscos dos casamentos entre primos](https://www.nexojornal.com.br/externo/2023/10/01/Os-riscos-dos-casamentos-entre-primos)
-- [Maioria do STF condena mais 5 pelos ataques de 8 de janeiro](https://www.nexojornal.com.br/extra/2023/10/01/Maioria-do-STF-condena-mais-5-pelos-ataques-de-8-de-janeiro)
+- [Onde afinal está Javier Milei no espectro político](https://www.nexojornal.com.br/expresso/2023/10/02/Onde-afinal-est%C3%A1-Javier-Milei-no-espectro-pol%C3%ADtico)
+- [Como a segurança pública pressiona o governo Lula](https://www.nexojornal.com.br/expresso/2023/10/02/Como-a-seguran%C3%A7a-p%C3%BAblica-pressiona-o-governo-Lula)
+- [Os melhores lugares para observar o eclipse solar no Brasil em 2023](https://www.nexojornal.com.br/grafico/2023/10/02/Os-melhores-lugares-para-observar-o-eclipse-solar-no-Brasil-em-2023)
+- [Com, contra e para além do ‘identitarismo’](https://www.nexojornal.com.br/colunistas/2023/Com-contra-e-para-al%C3%A9m-do-%E2%80%98identitarismo%E2%80%99)
+- [Conselho de Segurança aprova envio de missão ao Haiti](https://www.nexojornal.com.br/extra/2023/10/02/Conselho-de-Seguran%C3%A7a-aprova-envio-de-miss%C3%A3o-ao-Haiti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
