@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Onde afinal está Javier Milei no espectro político](https://www.nexojornal.com.br/expresso/2023/10/02/Onde-afinal-est%C3%A1-Javier-Milei-no-espectro-pol%C3%ADtico)
-- [Como a segurança pública pressiona o governo Lula](https://www.nexojornal.com.br/expresso/2023/10/02/Como-a-seguran%C3%A7a-p%C3%BAblica-pressiona-o-governo-Lula)
-- [Os melhores lugares para observar o eclipse solar no Brasil em 2023](https://www.nexojornal.com.br/grafico/2023/10/02/Os-melhores-lugares-para-observar-o-eclipse-solar-no-Brasil-em-2023)
-- [Com, contra e para além do ‘identitarismo’](https://www.nexojornal.com.br/colunistas/2023/Com-contra-e-para-al%C3%A9m-do-%E2%80%98identitarismo%E2%80%99)
-- [Conselho de Segurança aprova envio de missão ao Haiti](https://www.nexojornal.com.br/extra/2023/10/02/Conselho-de-Seguran%C3%A7a-aprova-envio-de-miss%C3%A3o-ao-Haiti)
+- [Como é o plano de privatizações de Tarcísio para São Paulo](https://www.nexojornal.com.br/expresso/2023/10/03/Como-%C3%A9-o-plano-de-privatiza%C3%A7%C3%B5es-de-Tarc%C3%ADsio-para-S%C3%A3o-Paulo)
+- [A nova missão externa num Haiti assolado pela violência](https://www.nexojornal.com.br/expresso/2023/10/03/A-nova-miss%C3%A3o-externa-num-Haiti-assolado-pela-viol%C3%AAncia)
+- [Passaporte brasileiro ganha mais elementos de segurança](https://www.nexojornal.com.br/extra/2023/10/03/Passaporte-brasileiro-ganha-mais-elementos-de-seguran%C3%A7a)
+- [‘Nexo’ lança cobertura sobre educação na era das transições](https://www.nexojornal.com.br/expresso/2023/10/03/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-cobertura-sobre-educa%C3%A7%C3%A3o-na-era-das-transi%C3%A7%C3%B5es)
+- [Câmara dos EUA destitui seu presidente pela 1ª vez na história](https://www.nexojornal.com.br/extra/2023/10/03/C%C3%A2mara-dos-EUA-destitui-seu-presidente-pela-1%C2%AA-vez-na-hist%C3%B3ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
