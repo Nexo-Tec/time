@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Karim Aïnouz documenta a Argélia em retrato tão íntimo quanto político](https://gamarevista.uol.com.br/formato/conversas/karim-ainouz-documenta-a-argelia-em-retrato-tao-intimo-quanto-politico/)
 - [@2girls1bottl3](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/2girls1bottl3/)
 - [Claudia Assef: “O mercado da música é muito desigual para cantoras e outras profissionais”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/claudia-assef-desigualdade-mercado-da-musica-brasil/)
 - [Camiseta World branca da Hering](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/camiseta-world-branca-da-hering/)
 - [Outlive](https://gamarevista.uol.com.br/cultura/trecho-de-livro/outlive/)
-- [“A Coach”, o novo podcast de Chico Felitti](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-coach-o-novo-podcast-de-chico-felitti/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
