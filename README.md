@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como é o plano de privatizações de Tarcísio para São Paulo](https://www.nexojornal.com.br/expresso/2023/10/03/Como-%C3%A9-o-plano-de-privatiza%C3%A7%C3%B5es-de-Tarc%C3%ADsio-para-S%C3%A3o-Paulo)
-- [A nova missão externa num Haiti assolado pela violência](https://www.nexojornal.com.br/expresso/2023/10/03/A-nova-miss%C3%A3o-externa-num-Haiti-assolado-pela-viol%C3%AAncia)
-- [Passaporte brasileiro ganha mais elementos de segurança](https://www.nexojornal.com.br/extra/2023/10/03/Passaporte-brasileiro-ganha-mais-elementos-de-seguran%C3%A7a)
-- [‘Nexo’ lança cobertura sobre educação na era das transições](https://www.nexojornal.com.br/expresso/2023/10/03/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-cobertura-sobre-educa%C3%A7%C3%A3o-na-era-das-transi%C3%A7%C3%B5es)
-- [Câmara dos EUA destitui seu presidente pela 1ª vez na história](https://www.nexojornal.com.br/extra/2023/10/03/C%C3%A2mara-dos-EUA-destitui-seu-presidente-pela-1%C2%AA-vez-na-hist%C3%B3ria)
+- [‘Poderes têm momento delicado, mas Constituição é resiliente’](https://www.nexojornal.com.br/entrevista/2023/10/05/%E2%80%98Poderes-t%C3%AAm-momento-delicado-mas-Constitui%C3%A7%C3%A3o-%C3%A9-resiliente%E2%80%99)
+- [O que a destituição de McCarthy representa para a política dos EUA](https://www.nexojornal.com.br/expresso/2023/10/04/O-que-a-destitui%C3%A7%C3%A3o-de-McCarthy-representa-para-a-pol%C3%ADtica-dos-EUA)
+- [O que é a PEC do Plasma. E quais debates ela mobiliza](https://www.nexojornal.com.br/expresso/2023/10/04/O-que-%C3%A9-a-PEC-do-Plasma.-E-quais-debates-ela-mobiliza)
+- [A fraqueza dos partidos salvou nossa democracia](https://www.nexojornal.com.br/colunistas/2023/A-fraqueza-dos-partidos-salvou-nossa-democracia)
+- [O público e o privado no transporte sobre trilhos em São Paulo](https://www.nexojornal.com.br/podcast/2023/10/04/O-p%C3%BAblico-e-o-privado-no-transporte-sobre-trilhos-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
