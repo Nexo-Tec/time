@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Parece elogio, mas é xenofobia](https://gamarevista.uol.com.br/artigo/parece-elogio-mas-e-xenofobia/)
 - [A Morte de Ivan Ilitch](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-ivan-ilitch/)
 - [Agora somos outras](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/agora-somos-outras/)
 - [A série-pegadinha “Na Mira do Júri”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-serie-pegadinha-na-mira-do-juri/)
 - [“Javelin”, o novo álbum de Sufjan Stevens](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/javelin-o-novo-album-de-sufjan-stevens/)
-- [Os livros infantis do selo Baião e de Maurice Sendak](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-livros-infantis-do-selo-baiao-e-de-maurice-sendak/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
