@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Poderes têm momento delicado, mas Constituição é resiliente’](https://www.nexojornal.com.br/entrevista/2023/10/05/%E2%80%98Poderes-t%C3%AAm-momento-delicado-mas-Constitui%C3%A7%C3%A3o-%C3%A9-resiliente%E2%80%99)
-- [O que a destituição de McCarthy representa para a política dos EUA](https://www.nexojornal.com.br/expresso/2023/10/04/O-que-a-destitui%C3%A7%C3%A3o-de-McCarthy-representa-para-a-pol%C3%ADtica-dos-EUA)
-- [O que é a PEC do Plasma. E quais debates ela mobiliza](https://www.nexojornal.com.br/expresso/2023/10/04/O-que-%C3%A9-a-PEC-do-Plasma.-E-quais-debates-ela-mobiliza)
-- [A fraqueza dos partidos salvou nossa democracia](https://www.nexojornal.com.br/colunistas/2023/A-fraqueza-dos-partidos-salvou-nossa-democracia)
-- [O público e o privado no transporte sobre trilhos em São Paulo](https://www.nexojornal.com.br/podcast/2023/10/04/O-p%C3%BAblico-e-o-privado-no-transporte-sobre-trilhos-em-S%C3%A3o-Paulo)
+- [Quais os limites das propostas para frear o Supremo e o governo](https://www.nexojornal.com.br/expresso/2023/10/05/Quais-os-limites-das-propostas-para-frear-o-Supremo-e-o-governo)
+- [O impacto da greve contra privatizações na eleição paulistana](https://www.nexojornal.com.br/expresso/2023/10/05/O-impacto-da-greve-contra-privatiza%C3%A7%C3%B5es-na-elei%C3%A7%C3%A3o-paulistana)
+- [Como é a vida de refugiadas que migram para o Brasil](https://www.nexojornal.com.br/academico/2023/10/05/Como-%C3%A9-a-vida-de-refugiadas-que-migram-para-o-Brasil)
+- [Mulheres dominam a temporada de festas literárias](https://www.nexojornal.com.br/colunistas/2023/Mulheres-dominam-a-temporada-de-festas-liter%C3%A1rias)
+- [Governo Biden diz que vai expandir muro criado por Trump](https://www.nexojornal.com.br/extra/2023/10/05/Governo-Biden-diz-que-vai-expandir-muro-criado-por-Trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
