@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Estamos em guerra’, diz Netanyahu após Hamas atacar Israel](https://www.nexojornal.com.br/extra/2023/10/07/%E2%80%98Estamos-em-guerra%E2%80%99-diz-Netanyahu-ap%C3%B3s-Hamas-atacar-Israel)
-- [‘O livro branco’: o luto por aquilo que não se conhece](https://www.nexojornal.com.br/estante/trechos/2023/10/06/%E2%80%98O-livro-branco%E2%80%99-o-luto-por-aquilo-que-n%C3%A3o-se-conhece)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/06/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Quais os efeitos colaterais de uma viagem espacial](https://www.nexojornal.com.br/expresso/2023/10/06/Quais-os-efeitos-colaterais-de-uma-viagem-espacial)
-- [Quais os impactos atuais e passados do El Niño no Brasil](https://www.nexojornal.com.br/expresso/2023/10/06/Quais-os-impactos-atuais-e-passados-do-El-Ni%C3%B1o-no-Brasil)
+- [Ativista iraniana Narges Mohammadi ganha o Nobel da Paz](https://www.nexojornal.com.br/extra/2023/10/06/Ativista-iraniana-Narges-Mohammadi-ganha-o-Nobel-da-Paz)
+- [Polícia encontra corpos de suspeitos de assassinar médicos](https://www.nexojornal.com.br/extra/2023/10/06/Pol%C3%ADcia-encontra-corpos-de-suspeitos-de-assassinar-m%C3%A9dicos)
+- [Quais os limites das propostas para frear o Supremo e o governo](https://www.nexojornal.com.br/expresso/2023/10/05/Quais-os-limites-das-propostas-para-frear-o-Supremo-e-o-governo)
+- [O impacto da greve contra privatizações na eleição paulistana](https://www.nexojornal.com.br/expresso/2023/10/05/O-impacto-da-greve-contra-privatiza%C3%A7%C3%B5es-na-elei%C3%A7%C3%A3o-paulistana)
+- [Como é a vida de refugiadas que migram para o Brasil](https://www.nexojornal.com.br/academico/2023/10/05/Como-%C3%A9-a-vida-de-refugiadas-que-migram-para-o-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
