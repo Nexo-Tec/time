@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ativista iraniana Narges Mohammadi ganha o Nobel da Paz](https://www.nexojornal.com.br/extra/2023/10/06/Ativista-iraniana-Narges-Mohammadi-ganha-o-Nobel-da-Paz)
-- [Polícia encontra corpos de suspeitos de assassinar médicos](https://www.nexojornal.com.br/extra/2023/10/06/Pol%C3%ADcia-encontra-corpos-de-suspeitos-de-assassinar-m%C3%A9dicos)
-- [Quais os limites das propostas para frear o Supremo e o governo](https://www.nexojornal.com.br/expresso/2023/10/05/Quais-os-limites-das-propostas-para-frear-o-Supremo-e-o-governo)
-- [O impacto da greve contra privatizações na eleição paulistana](https://www.nexojornal.com.br/expresso/2023/10/05/O-impacto-da-greve-contra-privatiza%C3%A7%C3%B5es-na-elei%C3%A7%C3%A3o-paulistana)
-- [Como é a vida de refugiadas que migram para o Brasil](https://www.nexojornal.com.br/academico/2023/10/05/Como-%C3%A9-a-vida-de-refugiadas-que-migram-para-o-Brasil)
+- [Como países reagem à guerra iminente no Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/07/Como-pa%C3%ADses-reagem-%C3%A0-guerra-iminente-no-Oriente-M%C3%A9dio)
+- [O que faz cair a vacinação de crianças e adolescentes](https://www.nexojornal.com.br/expresso/2023/10/07/O-que-faz-cair-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes)
+- [‘Estamos em guerra’, diz Netanyahu após Hamas atacar Israel](https://www.nexojornal.com.br/extra/2023/10/07/%E2%80%98Estamos-em-guerra%E2%80%99-diz-Netanyahu-ap%C3%B3s-Hamas-atacar-Israel)
+- [‘O livro branco’: o luto por aquilo que não se conhece](https://www.nexojornal.com.br/estante/trechos/2023/10/06/%E2%80%98O-livro-branco%E2%80%99-o-luto-por-aquilo-que-n%C3%A3o-se-conhece)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/06/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
