@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Terremoto deixa mais de 2.000 mortos no Afeganistão](https://www.nexojornal.com.br/extra/2023/10/08/Terremoto-deixa-mais-de-2.000-mortos-no-Afeganist%C3%A3o)
-- [A série que traz Edgar Allan Poe para o século 21](https://www.nexojornal.com.br/expresso/2023/10/07/A-s%C3%A9rie-que-traz-Edgar-Allan-Poe-para-o-s%C3%A9culo-21)
-- [5 clássicos da literatura com grandes personagens femininas](https://www.nexojornal.com.br/estante/favoritos/2023/10/07/5-cl%C3%A1ssicos-da-literatura-com-grandes-personagens-femininas)
-- [Por que a produção brasileira de leite entrou em crise](https://www.nexojornal.com.br/expresso/2023/10/07/Por-que-a-produ%C3%A7%C3%A3o-brasileira-de-leite-entrou-em-crise)
-- [‘Morte dos médicos é microcosmo do universo criminoso no Rio’](https://www.nexojornal.com.br/entrevista/2023/10/07/%E2%80%98Morte-dos-m%C3%A9dicos-%C3%A9-microcosmo-do-universo-criminoso-no-Rio%E2%80%99)
+- [Como países reagem à guerra iminente no Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/07/Como-pa%C3%ADses-reagem-%C3%A0-guerra-iminente-no-Oriente-M%C3%A9dio)
+- [O que faz cair a vacinação de crianças e adolescentes](https://www.nexojornal.com.br/expresso/2023/10/07/O-que-faz-cair-a-vacina%C3%A7%C3%A3o-de-crian%C3%A7as-e-adolescentes)
+- [‘Em guerra’: Hamas ataca Israel, que bombardeia a Faixa de Gaza](https://www.nexojornal.com.br/extra/2023/10/07/%E2%80%98Em-guerra%E2%80%99-Hamas-ataca-Israel-que-bombardeia-a-Faixa-de-Gaza)
+- [‘O livro branco’: o luto por aquilo que não se conhece](https://www.nexojornal.com.br/estante/trechos/2023/10/06/%E2%80%98O-livro-branco%E2%80%99-o-luto-por-aquilo-que-n%C3%A3o-se-conhece)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/06/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
