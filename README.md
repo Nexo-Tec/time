@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@isabellarossellini](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/isabella-rossellini/)
 - [Alexandre Rossi: “O luto vai além do animal. Você questiona a vida como um todo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dr-pet-estopinha-cachorra-influenciadora-morte-luto/)
 - [Parece inocente, mas é xenofobia](https://gamarevista.uol.com.br/artigo/parece-elogio-mas-e-xenofobia/)
 - [A Morte de Ivan Ilitch](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-ivan-ilitch/)
 - [Agora somos outras](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/agora-somos-outras/)
-- [A série-pegadinha “Na Mira do Júri”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-serie-pegadinha-na-mira-do-juri/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
