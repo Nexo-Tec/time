@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Terremoto deixa mais de 2.000 mortos no Afeganistão](https://www.nexojornal.com.br/extra/2023/10/08/Terremoto-deixa-mais-de-2.000-mortos-no-Afeganist%C3%A3o)
-- [A série que traz Edgar Allan Poe para o século 21](https://www.nexojornal.com.br/expresso/2023/10/07/A-s%C3%A9rie-que-traz-Edgar-Allan-Poe-para-o-s%C3%A9culo-21)
-- [5 clássicos da literatura com grandes personagens femininas](https://www.nexojornal.com.br/estante/favoritos/2023/10/07/5-cl%C3%A1ssicos-da-literatura-com-grandes-personagens-femininas)
-- [Por que a produção brasileira de leite entrou em crise](https://www.nexojornal.com.br/expresso/2023/10/07/Por-que-a-produ%C3%A7%C3%A3o-brasileira-de-leite-entrou-em-crise)
-- [‘Morte dos médicos é microcosmo do universo criminoso no Rio’](https://www.nexojornal.com.br/entrevista/2023/10/07/%E2%80%98Morte-dos-m%C3%A9dicos-%C3%A9-microcosmo-do-universo-criminoso-no-Rio%E2%80%99)
+- [IBGE inclui pela 1ª vez gênero e sexualidade em pesquisa](https://www.nexojornal.com.br/extra/2023/10/09/IBGE-inclui-pela-1%C2%AA-vez-g%C3%AAnero-e-sexualidade-em-pesquisa)
+- [‘Estamos apenas começando’, diz Netanyahu sobre conflito](https://www.nexojornal.com.br/extra/2023/10/09/%E2%80%98Estamos-apenas-come%C3%A7ando%E2%80%99-diz-Netanyahu-sobre-conflito)
+- [Policiais fazem operação que mira Comando Vermelho no Rio](https://www.nexojornal.com.br/extra/2023/10/09/Policiais-fazem-opera%C3%A7%C3%A3o-que-mira-Comando-Vermelho-no-Rio)
+- [Nobel premia economista que estuda disparidade de gênero](https://www.nexojornal.com.br/extra/2023/10/09/Nobel-premia-economista-que-estuda-disparidade-de-g%C3%AAnero)
+- [Conflito entre Hamas e Israel mata ao menos 1.500](https://www.nexojornal.com.br/extra/2023/10/08/Conflito-entre-Hamas-e-Israel-mata-ao-menos-1.500)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
