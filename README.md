@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [IBGE inclui pela 1ª vez gênero e sexualidade em pesquisa](https://www.nexojornal.com.br/extra/2023/10/09/IBGE-inclui-pela-1%C2%AA-vez-g%C3%AAnero-e-sexualidade-em-pesquisa)
-- [‘Estamos apenas começando’, diz Netanyahu sobre conflito](https://www.nexojornal.com.br/extra/2023/10/09/%E2%80%98Estamos-apenas-come%C3%A7ando%E2%80%99-diz-Netanyahu-sobre-conflito)
 - [Policiais fazem operação que mira Comando Vermelho no Rio](https://www.nexojornal.com.br/extra/2023/10/09/Policiais-fazem-opera%C3%A7%C3%A3o-que-mira-Comando-Vermelho-no-Rio)
 - [Nobel premia economista que estuda disparidade de gênero](https://www.nexojornal.com.br/extra/2023/10/09/Nobel-premia-economista-que-estuda-disparidade-de-g%C3%AAnero)
-- [Conflito entre Hamas e Israel mata ao menos 1.500](https://www.nexojornal.com.br/extra/2023/10/08/Conflito-entre-Hamas-e-Israel-mata-ao-menos-1.500)
+- [Conflito entre Israel e Hamas mata o menos 1.300](https://www.nexojornal.com.br/extra/2023/10/08/Conflito-entre-Israel-e-Hamas-mata-o-menos-1.300)
+- [Como pensar a educação na era das transições](https://www.nexojornal.com.br/expresso/2023/10/08/Como-pensar-a-educa%C3%A7%C3%A3o-na-era-das-transi%C3%A7%C3%B5es)
+- [Crise nos programas de licenciatura](https://www.nexojornal.com.br/externo/2023/10/08/Crise-nos-programas-de-licenciatura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
