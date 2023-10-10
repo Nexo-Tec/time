@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um terroir em processo de lapidação](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/um-terroir-em-processo-de-lapidacao/)
 - [Bracelete da amizade](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bracelete-da-amizade/)
 - [@isabellarossellini](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/isabella-rossellini/)
 - [Alexandre Rossi: “O luto vai além do animal. Você questiona a vida como um todo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dr-pet-estopinha-cachorra-influenciadora-morte-luto/)
 - [Parece inocente, mas é xenofobia](https://gamarevista.uol.com.br/artigo/parece-elogio-mas-e-xenofobia/)
-- [A Morte de Ivan Ilitch](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-morte-de-ivan-ilitch/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
