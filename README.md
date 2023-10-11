@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que revelam os estudos da ganhadora do Nobel de Economia](https://www.nexojornal.com.br/externo/2023/10/10/O-que-revelam-os-estudos-da-ganhadora-do-Nobel-de-Economia)
+- [Graduação a distância concentrou 65% dos novos alunos em 2022](https://www.nexojornal.com.br/extra/2023/10/10/Gradua%C3%A7%C3%A3o-a-dist%C3%A2ncia-concentrou-65-dos-novos-alunos-em-2022)
+- [Português João Barrento vence prêmio Camões em 2023](https://www.nexojornal.com.br/extra/2023/10/10/Portugu%C3%AAs-Jo%C3%A3o-Barrento-vence-pr%C3%AAmio-Cam%C3%B5es-em-2023)
+- [Fronteira entre Líbano e Israel registra ataques aéreos](https://www.nexojornal.com.br/extra/2023/10/10/Fronteira-entre-L%C3%ADbano-e-Israel-registra-ataques-a%C3%A9reos)
 - [Por que o X desinforma tanto sobre o conflito no Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/10/Por-que-o-X-desinforma-tanto-sobre-o-conflito-no-Oriente-M%C3%A9dio)
-- [Morte de 2 brasileiros que estavam em rave em Israel é confirmada](https://www.nexojornal.com.br/extra/2023/10/10/Morte-de-2-brasileiros-que-estavam-em-rave-em-Israel-%C3%A9-confirmada)
-- [O cerco de Israel à Faixa de Gaza controlada pelo Hamas](https://www.nexojornal.com.br/expresso/2023/10/09/O-cerco-de-Israel-%C3%A0-Faixa-de-Gaza-controlada-pelo-Hamas)
-- [Quais os interesses do Irã nos ataques do grupo Hamas](https://www.nexojornal.com.br/expresso/2023/10/09/Quais-os-interesses-do-Ir%C3%A3-nos-ataques-do-grupo-Hamas)
-- [77 cidades de SC decretam emergência por causa de chuvas](https://www.nexojornal.com.br/extra/2023/10/09/77-cidades-de-SC-decretam-emerg%C3%AAncia-por-causa-de-chuvas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
