@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O cerco de Israel à Faixa de Gaza controlada pelo Hamas](https://www.nexojornal.com.br/expresso/2023/10/09/O-cerco-de-Israel-%C3%A0-Faixa-de-Gaza-controlada-pelo-Hamas)
-- [Quais os interesses do Irã nos ataques do grupo Hamas](https://www.nexojornal.com.br/expresso/2023/10/09/Quais-os-interesses-do-Ir%C3%A3-nos-ataques-do-grupo-Hamas)
-- [77 cidades de SC decretam emergência por causa de chuvas](https://www.nexojornal.com.br/extra/2023/10/09/77-cidades-de-SC-decretam-emerg%C3%AAncia-por-causa-de-chuvas)
-- [Como a saúde mental pode impactar o lucro das empresas](https://www.nexojornal.com.br/ensaio/2023/10/09/Como-a-sa%C3%BAde-mental-pode-impactar-o-lucro-das-empresas)
-- [A origem e o fortalecimento do grupo Hamas](https://www.nexojornal.com.br/podcast/2023/10/09/A-origem-e-o-fortalecimento-do-grupo-Hamas)
+- [Como o conflito Israel-Hamas expõe rotina de crimes de guerra](https://www.nexojornal.com.br/podcast/2023/10/10/Como-o-conflito-Israel-Hamas-exp%C3%B5e-rotina-de-crimes-de-guerra)
+- [Como a seca piora os danos à saúde por queimadas no Norte](https://www.nexojornal.com.br/expresso/2023/10/10/Como-a-seca-piora-os-danos-%C3%A0-sa%C3%BAde-por-queimadas-no-Norte)
+- [Qual o papel de Netanyahu no conflito do Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/10/Qual-o-papel-de-Netanyahu-no-conflito-do-Oriente-M%C3%A9dio)
+- [Adolescente morre esfaqueado em escola em Poços de Caldas](https://www.nexojornal.com.br/extra/2023/10/10/Adolescente-morre-esfaqueado-em-escola-em-Po%C3%A7os-de-Caldas)
+- [Diversidade e democracia no serviço público](https://www.nexojornal.com.br/colunistas/2023/Diversidade-e-democracia-no-servi%C3%A7o-p%C3%BAblico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
