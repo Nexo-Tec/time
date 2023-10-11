@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que revelam os estudos da ganhadora do Nobel de Economia](https://www.nexojornal.com.br/externo/2023/10/10/O-que-revelam-os-estudos-da-ganhadora-do-Nobel-de-Economia)
-- [Graduação a distância concentrou 65% dos novos alunos em 2022](https://www.nexojornal.com.br/extra/2023/10/10/Gradua%C3%A7%C3%A3o-a-dist%C3%A2ncia-concentrou-65-dos-novos-alunos-em-2022)
-- [Português João Barrento vence prêmio Camões em 2023](https://www.nexojornal.com.br/extra/2023/10/10/Portugu%C3%AAs-Jo%C3%A3o-Barrento-vence-pr%C3%AAmio-Cam%C3%B5es-em-2023)
-- [Fronteira entre Líbano e Israel registra ataques aéreos](https://www.nexojornal.com.br/extra/2023/10/10/Fronteira-entre-L%C3%ADbano-e-Israel-registra-ataques-a%C3%A9reos)
-- [Por que o X desinforma tanto sobre o conflito no Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/10/Por-que-o-X-desinforma-tanto-sobre-o-conflito-no-Oriente-M%C3%A9dio)
+- [Como o conflito Israel-Hamas expõe rotina de crimes de guerra](https://www.nexojornal.com.br/podcast/2023/10/10/Como-o-conflito-Israel-Hamas-exp%C3%B5e-rotina-de-crimes-de-guerra)
+- [Como a seca piora os danos à saúde por queimadas no Norte](https://www.nexojornal.com.br/expresso/2023/10/10/Como-a-seca-piora-os-danos-%C3%A0-sa%C3%BAde-por-queimadas-no-Norte)
+- [Qual o papel de Netanyahu no conflito do Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/10/Qual-o-papel-de-Netanyahu-no-conflito-do-Oriente-M%C3%A9dio)
+- [Adolescente morre esfaqueado em escola em Poços de Caldas](https://www.nexojornal.com.br/extra/2023/10/10/Adolescente-morre-esfaqueado-em-escola-em-Po%C3%A7os-de-Caldas)
+- [Diversidade e democracia no serviço público](https://www.nexojornal.com.br/colunistas/2023/Diversidade-e-democracia-no-servi%C3%A7o-p%C3%BAblico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
