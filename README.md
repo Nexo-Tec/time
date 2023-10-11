@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que revelam os estudos da ganhadora do Nobel de Economia](https://www.nexojornal.com.br/externo/2023/10/10/O-que-revelam-os-estudos-da-ganhadora-do-Nobel-de-Economia)
-- [Graduação a distância concentrou 65% dos novos alunos em 2022](https://www.nexojornal.com.br/extra/2023/10/10/Gradua%C3%A7%C3%A3o-a-dist%C3%A2ncia-concentrou-65-dos-novos-alunos-em-2022)
-- [Português João Barrento vence prêmio Camões em 2023](https://www.nexojornal.com.br/extra/2023/10/10/Portugu%C3%AAs-Jo%C3%A3o-Barrento-vence-pr%C3%AAmio-Cam%C3%B5es-em-2023)
-- [Fronteira entre Líbano e Israel registra ataques aéreos](https://www.nexojornal.com.br/extra/2023/10/10/Fronteira-entre-L%C3%ADbano-e-Israel-registra-ataques-a%C3%A9reos)
-- [Por que o X desinforma tanto sobre o conflito no Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/10/Por-que-o-X-desinforma-tanto-sobre-o-conflito-no-Oriente-M%C3%A9dio)
+- [O governo de emergência de Israel contra o Hamas](https://www.nexojornal.com.br/podcast/2023/10/11/O-governo-de-emerg%C3%AAncia-de-Israel-contra-o-Hamas)
+- [Brennand é condenado a mais de 10 anos de prisão por estupro](https://www.nexojornal.com.br/extra/2023/10/11/Brennand-%C3%A9-condenado-a-mais-de-10-anos-de-pris%C3%A3o-por-estupro)
+- [Preços têm leve alta em setembro, e inflação vai a 0,26%](https://www.nexojornal.com.br/extra/2023/10/11/Pre%C3%A7os-t%C3%AAm-leve-alta-em-setembro-e-infla%C3%A7%C3%A3o-vai-a-026)
+- [Quatro mapas atuais sobre o conflito entre Hamas e Israel](https://www.nexojornal.com.br/grafico/2023/10/11/Quatro-mapas-atuais-sobre-o-conflito-entre-Hamas-e-Israel)
+- [Onze funcionários das Nações Unidas são mortos em Gaza](https://www.nexojornal.com.br/extra/2023/10/11/Onze-funcion%C3%A1rios-das-Na%C3%A7%C3%B5es-Unidas-s%C3%A3o-mortos-em-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
