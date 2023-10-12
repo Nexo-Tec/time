@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As memórias que a música inspira desde a infância](https://www.nexojornal.com.br/externo/2023/10/11/As-mem%C3%B3rias-que-a-m%C3%BAsica-inspira-desde-a-inf%C3%A2ncia)
 - [O governo de emergência de Israel contra o Hamas](https://www.nexojornal.com.br/podcast/2023/10/11/O-governo-de-emerg%C3%AAncia-de-Israel-contra-o-Hamas)
 - [Brennand é condenado a mais de 10 anos de prisão por estupro](https://www.nexojornal.com.br/extra/2023/10/11/Brennand-%C3%A9-condenado-a-mais-de-10-anos-de-pris%C3%A3o-por-estupro)
 - [Preços têm leve alta em setembro, e inflação vai a 0,26%](https://www.nexojornal.com.br/extra/2023/10/11/Pre%C3%A7os-t%C3%AAm-leve-alta-em-setembro-e-infla%C3%A7%C3%A3o-vai-a-026)
 - [Quatro mapas atuais sobre o conflito entre Hamas e Israel](https://www.nexojornal.com.br/grafico/2023/10/11/Quatro-mapas-atuais-sobre-o-conflito-entre-Hamas-e-Israel)
+- [Onze funcionários das Nações Unidas são mortos em Gaza](https://www.nexojornal.com.br/extra/2023/10/11/Onze-funcion%C3%A1rios-das-Na%C3%A7%C3%B5es-Unidas-s%C3%A3o-mortos-em-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
