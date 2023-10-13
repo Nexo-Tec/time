@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel ordena evacuação no norte de Gaza em até 24 horas](https://www.nexojornal.com.br/extra/2023/10/13/Israel-ordena-evacua%C3%A7%C3%A3o-no-norte-de-Gaza-em-at%C3%A9-24-horas)
+- [As diferenças entre Python ou R para trabalhar com dados](https://www.nexojornal.com.br/grafico/2023/10/13/As-diferen%C3%A7as-entre-Python-ou-R-para-trabalhar-com-dados)
 - [Como os poemas de Safo foram recebidos ao longo do tempo](https://www.nexojornal.com.br/academico/2023/10/12/Como-os-poemas-de-Safo-foram-recebidos-ao-longo-do-tempo)
 - [Como as chuvas reavivam demandas dos indígenas Xokleng](https://www.nexojornal.com.br/expresso/2023/10/12/Como-as-chuvas-reavivam-demandas-dos-ind%C3%ADgenas-Xokleng)
 - [Quais foram as tentativas de paz entre Israel e palestinos](https://www.nexojornal.com.br/expresso/2023/10/12/Quais-foram-as-tentativas-de-paz-entre-Israel-e-palestinos)
-- [Lula pede corredor humanitário a presidente de Israel](https://www.nexojornal.com.br/extra/2023/10/12/Lula-pede-corredor-humanit%C3%A1rio-a-presidente-de-Israel)
-- [ONU diz que bloqueio colocou Gaza à beira de desastre humanitário](https://www.nexojornal.com.br/extra/2023/10/12/ONU-diz-que-bloqueio-colocou-Gaza-%C3%A0-beira-de-desastre-humanit%C3%A1rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
