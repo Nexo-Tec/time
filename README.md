@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Solidariedade aos israelenses e palestinos que hoje choram a vida da família e dos amigos](https://gamarevista.uol.com.br/artigo/choram-os-alienados-as-maes-palestinas-e-as-maes-judias/)
+- [Quem comemora mortes?](https://gamarevista.uol.com.br/artigo/choram-os-alienados-as-maes-palestinas-e-as-maes-judias/)
 - [Brancura](https://gamarevista.uol.com.br/cultura/trecho-de-livro/brancura/)
 - [Quis ver a Faixa de Gaza](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quis-ver-a-faixa-de-gaza/)
 - [Gal Costa por Filipe Catto](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/gal-costa-por-filipe-catto/)
