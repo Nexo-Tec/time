@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quis ver a Faixa de Gaza](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quis-ver-a-faixa-de-gaza/)
 - [Gal Costa por Filipe Catto](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/gal-costa-por-filipe-catto/)
 - [“Meu Nome É Gal”, com Sophie Charlotte](https://gamarevista.uol.com.br/achamos-que-vale/assistir/meu-nome-e-gal-com-sophie-charlotte/)
 - [“A Segunda Mãe”, de Karin Hueck](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-segunda-mae-de-karin-hueck/)
 - [Os 40 anos do Videobrasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/os-40-anos-do-videobrasil/)
-- [O novo show de Livia La Gatto e Renata Maciel](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-show-de-livia-la-gatto-e-renata-maciel/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
