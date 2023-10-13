@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As memórias que a música inspira desde a infância](https://www.nexojornal.com.br/externo/2023/10/11/As-mem%C3%B3rias-que-a-m%C3%BAsica-inspira-desde-a-inf%C3%A2ncia)
-- [O governo de emergência de Israel contra o Hamas](https://www.nexojornal.com.br/podcast/2023/10/11/O-governo-de-emerg%C3%AAncia-de-Israel-contra-o-Hamas)
-- [Brennand é condenado a mais de 10 anos de prisão por estupro](https://www.nexojornal.com.br/extra/2023/10/11/Brennand-%C3%A9-condenado-a-mais-de-10-anos-de-pris%C3%A3o-por-estupro)
-- [Preços têm leve alta em setembro, e inflação vai a 0,26%](https://www.nexojornal.com.br/extra/2023/10/11/Pre%C3%A7os-t%C3%AAm-leve-alta-em-setembro-e-infla%C3%A7%C3%A3o-vai-a-026)
-- [Quatro mapas atuais sobre o conflito entre Hamas e Israel](https://www.nexojornal.com.br/grafico/2023/10/11/Quatro-mapas-atuais-sobre-o-conflito-entre-Hamas-e-Israel)
+- [ONU diz que bloqueio colocou Gaza à beira de desastre humanitário](https://www.nexojornal.com.br/extra/2023/10/12/ONU-diz-que-bloqueio-colocou-Gaza-%C3%A0-beira-de-desastre-humanit%C3%A1rio)
+- [Os reféns do Hamas como mais um horror de guerra](https://www.nexojornal.com.br/expresso/2023/10/11/Os-ref%C3%A9ns-do-Hamas-como-mais-um-horror-de-guerra)
+- [Fechamento de barragem inunda aldeias indígenas em SC](https://www.nexojornal.com.br/extra/2023/10/11/Fechamento-de-barragem-inunda-aldeias-ind%C3%ADgenas-em-SC)
+- [O que a ciência diz sobre a importância de brincar na infância](https://www.nexojornal.com.br/expresso/2023/10/11/O-que-a-ci%C3%AAncia-diz-sobre-a-import%C3%A2ncia-de-brincar-na-inf%C3%A2ncia)
+- [Não me falem em contexto nem venham com ‘por outro lado’](https://www.nexojornal.com.br/colunistas/2023/N%C3%A3o-me-falem-em-contexto-nem-venham-com-%E2%80%98por-outro-lado%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
