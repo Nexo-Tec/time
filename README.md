@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como os poemas de Safo foram recebidos ao longo do tempo](https://www.nexojornal.com.br/academico/2023/10/12/Como-os-poemas-de-Safo-foram-recebidos-ao-longo-do-tempo)
-- [Como as chuvas reavivam demandas dos indígenas Xokleng](https://www.nexojornal.com.br/expresso/2023/10/12/Como-as-chuvas-reavivam-demandas-dos-ind%C3%ADgenas-Xokleng)
-- [Quais foram as tentativas de paz entre Israel e palestinos](https://www.nexojornal.com.br/expresso/2023/10/12/Quais-foram-as-tentativas-de-paz-entre-Israel-e-palestinos)
-- [Lula pede corredor humanitário a presidente de Israel](https://www.nexojornal.com.br/extra/2023/10/12/Lula-pede-corredor-humanit%C3%A1rio-a-presidente-de-Israel)
 - [ONU diz que bloqueio colocou Gaza à beira de desastre humanitário](https://www.nexojornal.com.br/extra/2023/10/12/ONU-diz-que-bloqueio-colocou-Gaza-%C3%A0-beira-de-desastre-humanit%C3%A1rio)
+- [Os reféns do Hamas como mais um horror de guerra](https://www.nexojornal.com.br/expresso/2023/10/11/Os-ref%C3%A9ns-do-Hamas-como-mais-um-horror-de-guerra)
+- [Fechamento de barragem inunda aldeias indígenas em SC](https://www.nexojornal.com.br/extra/2023/10/11/Fechamento-de-barragem-inunda-aldeias-ind%C3%ADgenas-em-SC)
+- [O que a ciência diz sobre a importância de brincar na infância](https://www.nexojornal.com.br/expresso/2023/10/11/O-que-a-ci%C3%AAncia-diz-sobre-a-import%C3%A2ncia-de-brincar-na-inf%C3%A2ncia)
+- [Não me falem em contexto nem venham com ‘por outro lado’](https://www.nexojornal.com.br/colunistas/2023/N%C3%A3o-me-falem-em-contexto-nem-venham-com-%E2%80%98por-outro-lado%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
