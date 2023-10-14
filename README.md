@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que caracteriza as ofensivas terrestres de Israel em Gaza](https://www.nexojornal.com.br/expresso/2023/10/13/O-que-caracteriza-as-ofensivas-terrestres-de-Israel-em-Gaza)
-- [Como o Brasil se tornou protagonista na ginástica artística](https://www.nexojornal.com.br/expresso/2023/10/13/Como-o-Brasil-se-tornou-protagonista-na-gin%C3%A1stica-art%C3%ADstica)
-- [Por que o azeite de oliva está tão caro no Brasil](https://www.nexojornal.com.br/expresso/2023/10/13/Por-que-o-azeite-de-oliva-est%C3%A1-t%C3%A3o-caro-no-Brasil)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/13/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Sempre Paris’: relatos de uma carioca na cidade das luzes](https://www.nexojornal.com.br/estante/trechos/2023/10/13/%E2%80%98Sempre-Paris%E2%80%99-relatos-de-uma-carioca-na-cidade-das-luzes)
+- [Israel ordena evacuação no norte de Gaza em até 24 horas](https://www.nexojornal.com.br/extra/2023/10/13/Israel-ordena-evacua%C3%A7%C3%A3o-no-norte-de-Gaza-em-at%C3%A9-24-horas)
+- [As diferenças entre Python ou R para trabalhar com dados](https://www.nexojornal.com.br/grafico/2023/10/13/As-diferen%C3%A7as-entre-Python-ou-R-para-trabalhar-com-dados)
+- [Como os poemas de Safo foram recebidos ao longo do tempo](https://www.nexojornal.com.br/academico/2023/10/12/Como-os-poemas-de-Safo-foram-recebidos-ao-longo-do-tempo)
+- [Como as chuvas reavivam demandas dos indígenas Xokleng](https://www.nexojornal.com.br/expresso/2023/10/12/Como-as-chuvas-reavivam-demandas-dos-ind%C3%ADgenas-Xokleng)
+- [Quais foram as tentativas de paz entre Israel e palestinos](https://www.nexojornal.com.br/expresso/2023/10/12/Quais-foram-as-tentativas-de-paz-entre-Israel-e-palestinos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
