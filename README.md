@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que caracteriza as ofensivas terrestres de Israel em Gaza](https://www.nexojornal.com.br/expresso/2023/10/13/O-que-caracteriza-as-ofensivas-terrestres-de-Israel-em-Gaza)
-- [Como o Brasil se tornou protagonista na ginástica artística](https://www.nexojornal.com.br/expresso/2023/10/13/Como-o-Brasil-se-tornou-protagonista-na-gin%C3%A1stica-art%C3%ADstica)
-- [Por que o azeite de oliva está tão caro no Brasil](https://www.nexojornal.com.br/expresso/2023/10/13/Por-que-o-azeite-de-oliva-est%C3%A1-t%C3%A3o-caro-no-Brasil)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/13/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [‘Sempre Paris’: relatos de uma carioca na cidade das luzes](https://www.nexojornal.com.br/estante/trechos/2023/10/13/%E2%80%98Sempre-Paris%E2%80%99-relatos-de-uma-carioca-na-cidade-das-luzes)
+- [Como se posicionam países-chave no conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/14/Como-se-posicionam-pa%C3%ADses-chave-no-conflito-Hamas-Israel)
+- [O que faz do Amapá recordista na taxa de mortes violentas](https://www.nexojornal.com.br/expresso/2023/10/14/O-que-faz-do-Amap%C3%A1-recordista-na-taxa-de-mortes-violentas)
+- [Enquanto houver sol: das amizades às bandas &lpar;e vice-versa&rpar;](https://www.nexojornal.com.br/ensaio/2023/10/14/Enquanto-houver-sol-das-amizades-%C3%A0s-bandas-e-vice-versa)
+- [5 livros para entender a individualização feminina no século 20](https://www.nexojornal.com.br/estante/favoritos/2023/10/14/5-livros-para-entender-a-individualiza%C3%A7%C3%A3o-feminina-no-s%C3%A9culo-20)
+- [A homenagem na 2ª versão do Oscar de Hattie McDaniel](https://www.nexojornal.com.br/expresso/2023/10/14/A-homenagem-na-2%C2%AA-vers%C3%A3o-do-Oscar-de-Hattie-McDaniel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
