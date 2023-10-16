@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como se posicionam países-chave no conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/14/Como-se-posicionam-pa%C3%ADses-chave-no-conflito-Hamas-Israel)
-- [O que faz do Amapá recordista na taxa de mortes violentas](https://www.nexojornal.com.br/expresso/2023/10/14/O-que-faz-do-Amap%C3%A1-recordista-na-taxa-de-mortes-violentas)
-- [Enquanto houver sol: das amizades às bandas &lpar;e vice-versa&rpar;](https://www.nexojornal.com.br/ensaio/2023/10/14/Enquanto-houver-sol-das-amizades-%C3%A0s-bandas-e-vice-versa)
-- [5 livros para entender a individualização feminina no século 20](https://www.nexojornal.com.br/estante/favoritos/2023/10/14/5-livros-para-entender-a-individualiza%C3%A7%C3%A3o-feminina-no-s%C3%A9culo-20)
-- [A homenagem na 2ª versão do Oscar de Hattie McDaniel](https://www.nexojornal.com.br/expresso/2023/10/14/A-homenagem-na-2%C2%AA-vers%C3%A3o-do-Oscar-de-Hattie-McDaniel)
+- [Qual o papel da ONU no conflito entre Israel e palestinos](https://www.nexojornal.com.br/expresso/2023/10/15/Qual-o-papel-da-ONU-no-conflito-entre-Israel-e-palestinos)
+- [Empresário Daniel Noboa é eleito presidente do Equador](https://www.nexojornal.com.br/extra/2023/10/15/Empres%C3%A1rio-Daniel-Noboa-%C3%A9-eleito-presidente-do-Equador)
+- [Um curso que forma agentes agroflorestais indígenas](https://www.nexojornal.com.br/entrevista/2023/10/15/Um-curso-que-forma-agentes-agroflorestais-ind%C3%ADgenas)
+- [Exército e política: o que mudou na relação sob o governo atual](https://www.nexojornal.com.br/expresso/2023/10/15/Ex%C3%A9rcito-e-pol%C3%ADtica-o-que-mudou-na-rela%C3%A7%C3%A3o-sob-o-governo-atual)
+- [Exército apura sumiço de 21 metralhadoras em São Paulo](https://www.nexojornal.com.br/extra/2023/10/15/Ex%C3%A9rcito-apura-sumi%C3%A7o-de-21-metralhadoras-em-S%C3%A3o-Paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
