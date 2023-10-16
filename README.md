@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Instruções para viver uma vida](https://gamarevista.uol.com.br/colunistas/fernando-luna/instrucoes-para-viver-uma-vida/)
 - [@michelllearaujo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/michelllearaujo/)
 - [Jéssika de Oliveira: “O Clube de Leitura Preta potencializou a autoestima dos alunos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jessika-de-oliveira-clube-de-leitura-preta-autoestima-dos-alunos-literatura-antirracista/)
 - [Quem comemora mortes?](https://gamarevista.uol.com.br/artigo/choram-os-alienados-as-maes-palestinas-e-as-maes-judias/)
 - [Brancura](https://gamarevista.uol.com.br/cultura/trecho-de-livro/brancura/)
-- [Quis ver a Faixa de Gaza](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quis-ver-a-faixa-de-gaza/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
