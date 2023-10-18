@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Chefes de Estado reagem à tragédia em hospital de Gaza](https://www.nexojornal.com.br/extra/2023/10/17/Chefes-de-Estado-reagem-%C3%A0-trag%C3%A9dia-em-hospital-de-Gaza)
-- [A pressão sobre Netanyahu numa Israel em guerra com o Hamas](https://www.nexojornal.com.br/expresso/2023/10/17/A-press%C3%A3o-sobre-Netanyahu-numa-Israel-em-guerra-com-o-Hamas)
-- [A corrida eleitoral em uma Argentina afundada na crise](https://www.nexojornal.com.br/podcast/2023/10/17/A-corrida-eleitoral-em-uma-Argentina-afundada-na-crise)
-- [Explosão em hospital na Faixa de Gaza deixa centenas de mortos](https://www.nexojornal.com.br/extra/2023/10/17/Explos%C3%A3o-em-hospital-na-Faixa-de-Gaza-deixa-centenas-de-mortos)
-- [Quais esportes passam a ser olímpicos nos Jogos de 2028](https://www.nexojornal.com.br/expresso/2023/10/17/Quais-esportes-passam-a-ser-ol%C3%ADmpicos-nos-Jogos-de-2028)
+- [10 respostas de um professor judeu sobre antissemitismo](https://www.nexojornal.com.br/entrevista/2023/10/18/10-respostas-de-um-professor-judeu-sobre-antissemitismo)
+- [Gravadora terá de indenizar herdeiros de João Gilberto](https://www.nexojornal.com.br/extra/2023/10/18/Gravadora-ter%C3%A1-de-indenizar-herdeiros-de-Jo%C3%A3o-Gilberto)
+- [Barragem contra o dilúvio](https://www.nexojornal.com.br/colunistas/2023/Barragem-contra-o-dil%C3%BAvio)
+- [O que foi a Nakba. E por que palestinos dizem que ela continua](https://www.nexojornal.com.br/expresso/2023/10/18/O-que-foi-a-Nakba.-E-por-que-palestinos-dizem-que-ela-continua)
+- [Israel libera ajuda a Gaza após EUA vetarem plano na ONU](https://www.nexojornal.com.br/extra/2023/10/18/Israel-libera-ajuda-a-Gaza-ap%C3%B3s-EUA-vetarem-plano-na-ONU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
