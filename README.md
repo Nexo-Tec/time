@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Chefes de Estado reagem à tragédia em hospital de Gaza](https://www.nexojornal.com.br/extra/2023/10/17/Chefes-de-Estado-reagem-%C3%A0-trag%C3%A9dia-em-hospital-de-Gaza)
-- [A pressão sobre Netanyahu numa Israel em guerra com o Hamas](https://www.nexojornal.com.br/expresso/2023/10/17/A-press%C3%A3o-sobre-Netanyahu-numa-Israel-em-guerra-com-o-Hamas)
-- [A corrida eleitoral em uma Argentina afundada na crise](https://www.nexojornal.com.br/podcast/2023/10/17/A-corrida-eleitoral-em-uma-Argentina-afundada-na-crise)
-- [Explosão em hospital na Faixa de Gaza deixa centenas de mortos](https://www.nexojornal.com.br/extra/2023/10/17/Explos%C3%A3o-em-hospital-na-Faixa-de-Gaza-deixa-centenas-de-mortos)
-- [Quais esportes passam a ser olímpicos nos Jogos de 2028](https://www.nexojornal.com.br/expresso/2023/10/17/Quais-esportes-passam-a-ser-ol%C3%ADmpicos-nos-Jogos-de-2028)
+- [Conselho de Segurança rejeita proposta para conflito Hamas-Israel](https://www.nexojornal.com.br/extra/2023/10/16/Conselho-de-Seguran%C3%A7a-rejeita-proposta-para-conflito-Hamas-Israel)
+- [O assédio de empresas de turismo a uma comunidade potiguar](https://www.nexojornal.com.br/externo/2023/10/16/O-ass%C3%A9dio-de-empresas-de-turismo-a-uma-comunidade-potiguar)
+- [O impasse para abrir a fronteira da Faixa de Gaza com o Egito](https://www.nexojornal.com.br/expresso/2023/10/16/O-impasse-para-abrir-a-fronteira-da-Faixa-de-Gaza-com-o-Egito)
+- [Atirador mata 2 suecos na Bélgica, que eleva alerta de terrorismo](https://www.nexojornal.com.br/extra/2023/10/16/Atirador-mata-2-suecos-na-B%C3%A9lgica-que-eleva-alerta-de-terrorismo)
+- [O rio Negro em seu nível mais baixo em 120 anos de medição](https://www.nexojornal.com.br/podcast/2023/10/16/O-rio-Negro-em-seu-n%C3%ADvel-mais-baixo-em-120-anos-de-medi%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
