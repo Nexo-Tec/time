@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Por que o Brasil deixou de ser um exemplo em vacinação?](https://gamarevista.uol.com.br/especial/por-que-o-brasil-deixou-de-ser-um-exemplo-em-vacinacao/)
 - [Paradoxos a oferecer](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/paradoxos-a-oferecer/)
 - [Como começar a assistir aos filmes de Martin Scorsese](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comecar-a-assistir-aos-filmes-de-martin-scorsese/)
 - [João Côrtes](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-cortes/)
 - [Instruções para viver uma vida](https://gamarevista.uol.com.br/colunistas/fernando-luna/instrucoes-para-viver-uma-vida/)
-- [@michelllearaujo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/michelllearaujo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
