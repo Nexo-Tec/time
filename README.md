@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sobre fibras: as moléculas em que mais é menos](https://www.nexojornal.com.br/colunistas/2023/Sobre-fibras-as-mol%C3%A9culas-em-que-mais-%C3%A9-menos)
-- [Qual o histórico do apoio dos Estados Unidos a Israel](https://www.nexojornal.com.br/expresso/2023/10/18/Qual-o-hist%C3%B3rico-do-apoio-dos-Estados-Unidos-a-Israel)
-- [EUA e Rússia enviam aparato militar para área de conflito](https://www.nexojornal.com.br/extra/2023/10/18/EUA-e-R%C3%BAssia-enviam-aparato-militar-para-%C3%A1rea-de-conflito)
-- [Hamas-Israel na ONU: as propostas e vetos no Conselho de Segurança](https://www.nexojornal.com.br/podcast/2023/10/18/Hamas-Israel-na-ONU-as-propostas-e-vetos-no-Conselho-de-Seguran%C3%A7a)
-- [A publicação do primeiro dicionário Kaiowá-Português](https://www.nexojornal.com.br/expresso/2023/10/18/A-publica%C3%A7%C3%A3o-do-primeiro-dicion%C3%A1rio-Kaiow%C3%A1-Portugu%C3%AAs)
+- [10 respostas de um professor judeu sobre antissemitismo](https://www.nexojornal.com.br/entrevista/2023/10/18/10-respostas-de-um-professor-judeu-sobre-antissemitismo)
+- [Gravadora terá de indenizar herdeiros de João Gilberto](https://www.nexojornal.com.br/extra/2023/10/18/Gravadora-ter%C3%A1-de-indenizar-herdeiros-de-Jo%C3%A3o-Gilberto)
+- [Barragem contra o dilúvio](https://www.nexojornal.com.br/colunistas/2023/Barragem-contra-o-dil%C3%BAvio)
+- [O que foi a Nakba. E por que palestinos dizem que ela continua](https://www.nexojornal.com.br/expresso/2023/10/18/O-que-foi-a-Nakba.-E-por-que-palestinos-dizem-que-ela-continua)
+- [Israel libera ajuda a Gaza após EUA vetarem plano na ONU](https://www.nexojornal.com.br/extra/2023/10/18/Israel-libera-ajuda-a-Gaza-ap%C3%B3s-EUA-vetarem-plano-na-ONU)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
