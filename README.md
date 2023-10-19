@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Por que o Brasil deixou de ser um exemplo em vacinação?](https://gamarevista.uol.com.br/especial/por-que-o-brasil-deixou-de-ser-um-exemplo-em-vacinacao/)
-- [Paradoxos a oferecer](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/paradoxos-a-oferecer/)
-- [Como começar a assistir aos filmes de Martin Scorsese](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-comecar-a-assistir-aos-filmes-de-martin-scorsese/)
-- [João Côrtes](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-cortes/)
-- [Instruções para viver uma vida](https://gamarevista.uol.com.br/colunistas/fernando-luna/instrucoes-para-viver-uma-vida/)
+- [O novo álbum de Bad Bunny](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-bad-bunny/)
+- [“A Queda da Casa de Usher”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-queda-da-casa-de-usher/)
+- [Histórias indígenas ocupam o MASP](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-indigenas-ocupam-o-masp/)
+- [35 anos da Mão Afro-Brasileira em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/35-anos-da-mao-afro-brasileira-em-sp/)
+- [A reedição de “Em Busca do Prato Perfeito”, de Anthony Bourdain](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-reedicao-de-em-busca-do-prato-perfeito-de-anthony-bourdain/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
