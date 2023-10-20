@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jogos Pan-Americanos começam dia 20 de outubro em Santiago](https://www.nexojornal.com.br/grafico/2023/10/19/Jogos-Pan-Americanos-come%C3%A7am-dia-20-de-outubro-em-Santiago)
-- [Greve em Hollywood afeta até fantasias de Halloween de atores](https://www.nexojornal.com.br/extra/2023/10/19/Greve-em-Hollywood-afeta-at%C3%A9-fantasias-de-Halloween-de-atores)
-- [Como são as relações de pessoas LGBTI+ com familiares](https://www.nexojornal.com.br/academico/2023/10/19/Como-s%C3%A3o-as-rela%C3%A7%C3%B5es-de-pessoas-LGBTI-com-familiares)
-- [ONU pede entrada permanente de ajuda humanitária em Gaza](https://www.nexojornal.com.br/extra/2023/10/19/ONU-pede-entrada-permanente-de-ajuda-humanit%C3%A1ria-em-Gaza)
-- [O comediante que viralizou ao falar do conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/19/O-comediante-que-viralizou-ao-falar-do-conflito-Hamas-Israel)
+- [A crise humanitária em Gaza. O fim da CPI de 8 de janeiro. E mais](https://www.nexojornal.com.br/video/extrato/A-crise-humanit%C3%A1ria-em-Gaza.-O-fim-da-CPI-de-8-de-janeiro.-E-mais)
+- [Relatora da CPI de 8 de janeiro pede escolta após ameaça](https://www.nexojornal.com.br/extra/2023/10/20/Relatora-da-CPI-de-8-de-janeiro-pede-escolta-ap%C3%B3s-amea%C3%A7a)
+- [A homofobia contra os filhos mais novos de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/10/20/A-homofobia-contra-os-filhos-mais-novos-de-Bolsonaro)
+- [Hamas liberta 2 reféns americanas sequestradas em Israel](https://www.nexojornal.com.br/extra/2023/10/20/Hamas-liberta-2-ref%C3%A9ns-americanas-sequestradas-em-Israel)
+- [O autor que arrecadou US$ 42 milhões para publicar sua obra](https://www.nexojornal.com.br/expresso/2023/10/20/O-autor-que-arrecadou-US-42-milh%C3%B5es-para-publicar-sua-obra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
