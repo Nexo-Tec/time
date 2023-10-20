@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jogos Pan-Americanos começam dia 20 de outubro em Santiago](https://www.nexojornal.com.br/grafico/2023/10/19/Jogos-Pan-Americanos-come%C3%A7am-dia-20-de-outubro-em-Santiago)
-- [Greve em Hollywood afeta até fantasias de Halloween de atores](https://www.nexojornal.com.br/extra/2023/10/19/Greve-em-Hollywood-afeta-at%C3%A9-fantasias-de-Halloween-de-atores)
-- [Como são as relações de pessoas LGBTI+ com familiares](https://www.nexojornal.com.br/academico/2023/10/19/Como-s%C3%A3o-as-rela%C3%A7%C3%B5es-de-pessoas-LGBTI-com-familiares)
-- [ONU pede entrada permanente de ajuda humanitária em Gaza](https://www.nexojornal.com.br/extra/2023/10/19/ONU-pede-entrada-permanente-de-ajuda-humanit%C3%A1ria-em-Gaza)
-- [O comediante que viralizou ao falar do conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/19/O-comediante-que-viralizou-ao-falar-do-conflito-Hamas-Israel)
+- [O que sumiço de armas em quartel diz sobre os desvios no Exército](https://www.nexojornal.com.br/expresso/2023/10/19/O-que-sumi%C3%A7o-de-armas-em-quartel-diz-sobre-os-desvios-no-Ex%C3%A9rcito)
+- [Como o relatório da CPI afeta as relações civis-militares](https://www.nexojornal.com.br/expresso/2023/10/19/Como-o-relat%C3%B3rio-da-CPI-afeta-as-rela%C3%A7%C3%B5es-civis-militares)
+- [Como o conflito Hamas-Israel se irradia na Cisjordânia](https://www.nexojornal.com.br/expresso/2023/10/19/Como-o-conflito-Hamas-Israel-se-irradia-na-Cisjord%C3%A2nia)
+- [Literatura em tempos de guerra](https://www.nexojornal.com.br/colunistas/2023/Literatura-em-tempos-de-guerra)
+- [Polícia do Rio acha 8 metralhadoras levadas do Exército em SP](https://www.nexojornal.com.br/extra/2023/10/19/Pol%C3%ADcia-do-Rio-acha-8-metralhadoras-levadas-do-Ex%C3%A9rcito-em-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
