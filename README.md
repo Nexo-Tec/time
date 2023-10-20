@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Jogos Pan-Americanos começam dia 20 de outubro em Santiago](https://www.nexojornal.com.br/grafico/2023/10/19/Jogos-Pan-Americanos-come%C3%A7am-dia-20-de-outubro-em-Santiago)
-- [Greve em Hollywood afeta até fantasias de Halloween de atores](https://www.nexojornal.com.br/extra/2023/10/19/Greve-em-Hollywood-afeta-at%C3%A9-fantasias-de-Halloween-de-atores)
-- [Como são as relações de pessoas LGBTI+ com familiares](https://www.nexojornal.com.br/academico/2023/10/19/Como-s%C3%A3o-as-rela%C3%A7%C3%B5es-de-pessoas-LGBTI-com-familiares)
-- [ONU pede entrada permanente de ajuda humanitária em Gaza](https://www.nexojornal.com.br/extra/2023/10/19/ONU-pede-entrada-permanente-de-ajuda-humanit%C3%A1ria-em-Gaza)
-- [O comediante que viralizou ao falar do conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/19/O-comediante-que-viralizou-ao-falar-do-conflito-Hamas-Israel)
+- [Sobre fibras: as moléculas em que mais é menos](https://www.nexojornal.com.br/colunistas/2023/Sobre-fibras-as-mol%C3%A9culas-em-que-mais-%C3%A9-menos)
+- [Qual o histórico do apoio dos Estados Unidos a Israel](https://www.nexojornal.com.br/expresso/2023/10/18/Qual-o-hist%C3%B3rico-do-apoio-dos-Estados-Unidos-a-Israel)
+- [EUA e Rússia enviam aparato militar para área de conflito](https://www.nexojornal.com.br/extra/2023/10/18/EUA-e-R%C3%BAssia-enviam-aparato-militar-para-%C3%A1rea-de-conflito)
+- [Hamas-Israel na ONU: as propostas e vetos no Conselho de Segurança](https://www.nexojornal.com.br/podcast/2023/10/18/Hamas-Israel-na-ONU-as-propostas-e-vetos-no-Conselho-de-Seguran%C3%A7a)
+- [A publicação do primeiro dicionário Kaiowá-Português](https://www.nexojornal.com.br/expresso/2023/10/18/A-publica%C3%A7%C3%A3o-do-primeiro-dicion%C3%A1rio-Kaiow%C3%A1-Portugu%C3%AAs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
