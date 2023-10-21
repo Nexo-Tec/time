@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mata Doce](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mata-doce/)
 - [A emergência climática desfocada pela miopia branca](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-emergencia-climatica-desfocada-pela-miopia-branca/)
 - [Awon Baba](https://gamarevista.uol.com.br/cultura/trecho-de-livro/awon-baba/)
 - [O novo álbum de Bad Bunny](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-bad-bunny/)
 - [“A Queda da Casa de Usher”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-queda-da-casa-de-usher/)
-- [Histórias indígenas ocupam o MASP](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-indigenas-ocupam-o-masp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
