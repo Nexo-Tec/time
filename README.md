@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A crise humanitária em Gaza. O fim da CPI de 8 de janeiro. E mais](https://www.nexojornal.com.br/video/extrato/A-crise-humanit%C3%A1ria-em-Gaza.-O-fim-da-CPI-de-8-de-janeiro.-E-mais)
-- [Relatora da CPI de 8 de janeiro pede escolta após ameaça](https://www.nexojornal.com.br/extra/2023/10/20/Relatora-da-CPI-de-8-de-janeiro-pede-escolta-ap%C3%B3s-amea%C3%A7a)
-- [A homofobia contra os filhos mais novos de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/10/20/A-homofobia-contra-os-filhos-mais-novos-de-Bolsonaro)
-- [Hamas liberta 2 reféns americanas sequestradas em Israel](https://www.nexojornal.com.br/extra/2023/10/20/Hamas-liberta-2-ref%C3%A9ns-americanas-sequestradas-em-Israel)
-- [O autor que arrecadou US$ 42 milhões para publicar sua obra](https://www.nexojornal.com.br/expresso/2023/10/20/O-autor-que-arrecadou-US-42-milh%C3%B5es-para-publicar-sua-obra)
+- [O que sumiço de armas em quartel diz sobre os desvios no Exército](https://www.nexojornal.com.br/expresso/2023/10/19/O-que-sumi%C3%A7o-de-armas-em-quartel-diz-sobre-os-desvios-no-Ex%C3%A9rcito)
+- [Como o relatório da CPI afeta as relações civis-militares](https://www.nexojornal.com.br/expresso/2023/10/19/Como-o-relat%C3%B3rio-da-CPI-afeta-as-rela%C3%A7%C3%B5es-civis-militares)
+- [Como o conflito Hamas-Israel irradia na Cisjordânia](https://www.nexojornal.com.br/expresso/2023/10/19/Como-o-conflito-Hamas-Israel-irradia-na-Cisjord%C3%A2nia)
+- [Literatura em tempos de guerra](https://www.nexojornal.com.br/colunistas/2023/Literatura-em-tempos-de-guerra)
+- [Polícia do Rio acha 8 metralhadoras levadas do Exército em SP](https://www.nexojornal.com.br/extra/2023/10/19/Pol%C3%ADcia-do-Rio-acha-8-metralhadoras-levadas-do-Ex%C3%A9rcito-em-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
