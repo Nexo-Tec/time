@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Caminhões com água, remédios e comida entram em Gaza](https://www.nexojornal.com.br/extra/2023/10/21/Caminh%C3%B5es-com-%C3%A1gua-rem%C3%A9dios-e-comida-entram-em-Gaza)
-- [Espionagem política: as suspeitas sobre a Abin de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/10/21/Espionagem-pol%C3%ADtica-as-suspeitas-sobre-a-Abin-de-Bolsonaro)
-- [‘Pixel’: cenas que compõem uma imagem de leste europeu](https://www.nexojornal.com.br/estante/trechos/2023/10/20/%E2%80%98Pixel%E2%80%99-cenas-que-comp%C3%B5em-uma-imagem-de-leste-europeu)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/20/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Como o setor elétrico afeta os planos de um Brasil descarbonizado](https://www.nexojornal.com.br/externo/2023/10/20/Como-o-setor-el%C3%A9trico-afeta-os-planos-de-um-Brasil-descarbonizado)
+- [Corinthians é tetracampeão da Libertadores feminina](https://www.nexojornal.com.br/extra/2023/10/21/Corinthians-%C3%A9-tetracampe%C3%A3o-da-Libertadores-feminina)
+- [Qual a importância da gestão municipal para a vacinação infantil](https://www.nexojornal.com.br/expresso/2023/10/21/Qual-a-import%C3%A2ncia-da-gest%C3%A3o-municipal-para-a-vacina%C3%A7%C3%A3o-infantil)
+- [‘Preservar a memória digital da guerra é humanitário’](https://www.nexojornal.com.br/expresso/2023/10/21/%E2%80%98Preservar-a-mem%C3%B3ria-digital-da-guerra-%C3%A9-humanit%C3%A1rio%E2%80%99)
+- [O que é o Susp. E o que é preciso para implementá-lo](https://www.nexojornal.com.br/expresso/2023/10/21/O-que-%C3%A9-o-Susp.-E-o-que-%C3%A9-preciso-para-implement%C3%A1-lo)
+- [5 livros com distopias imaginadas por mulheres](https://www.nexojornal.com.br/estante/favoritos/2023/10/21/5-livros-com-distopias-imaginadas-por-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
