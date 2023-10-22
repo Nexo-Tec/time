@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Caminhões com água, remédios e comida entram em Gaza](https://www.nexojornal.com.br/extra/2023/10/21/Caminh%C3%B5es-com-%C3%A1gua-rem%C3%A9dios-e-comida-entram-em-Gaza)
 - [Espionagem política: as suspeitas sobre a Abin de Bolsonaro](https://www.nexojornal.com.br/expresso/2023/10/21/Espionagem-pol%C3%ADtica-as-suspeitas-sobre-a-Abin-de-Bolsonaro)
 - [‘Pixel’: cenas que compõem uma imagem de leste europeu](https://www.nexojornal.com.br/estante/trechos/2023/10/20/%E2%80%98Pixel%E2%80%99-cenas-que-comp%C3%B5em-uma-imagem-de-leste-europeu)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/10/20/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
 - [Como o setor elétrico afeta os planos de um Brasil descarbonizado](https://www.nexojornal.com.br/externo/2023/10/20/Como-o-setor-el%C3%A9trico-afeta-os-planos-de-um-Brasil-descarbonizado)
+- [Como o Hezbollah aparece no conflito do Oriente Médio](https://www.nexojornal.com.br/expresso/2023/10/20/Como-o-Hezbollah-aparece-no-conflito-do-Oriente-M%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
