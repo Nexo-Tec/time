@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Iraniana tem ‘morte cerebral’ após suposta agressão policial](https://www.nexojornal.com.br/extra/2023/10/22/Iraniana-tem-%E2%80%98morte-cerebral%E2%80%99-ap%C3%B3s-suposta-agress%C3%A3o-policial)
 - [Corinthians é tetracampeão da Libertadores feminina](https://www.nexojornal.com.br/extra/2023/10/21/Corinthians-%C3%A9-tetracampe%C3%A3o-da-Libertadores-feminina)
 - [Qual a importância da gestão municipal para a vacinação infantil](https://www.nexojornal.com.br/expresso/2023/10/21/Qual-a-import%C3%A2ncia-da-gest%C3%A3o-municipal-para-a-vacina%C3%A7%C3%A3o-infantil)
 - [‘Preservar a memória digital da guerra é humanitário’](https://www.nexojornal.com.br/expresso/2023/10/21/%E2%80%98Preservar-a-mem%C3%B3ria-digital-da-guerra-%C3%A9-humanit%C3%A1rio%E2%80%99)
 - [O que é o Susp. E o que é preciso para implementá-lo](https://www.nexojornal.com.br/expresso/2023/10/21/O-que-%C3%A9-o-Susp.-E-o-que-%C3%A9-preciso-para-implement%C3%A1-lo)
+- [5 livros com distopias imaginadas por mulheres](https://www.nexojornal.com.br/estante/favoritos/2023/10/21/5-livros-com-distopias-imaginadas-por-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
