@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As fantasias em jogo na guerra: um storytelling ancestral](https://gamarevista.uol.com.br/colunistas/maria-homem/as-fantasias-em-jogo-na-guerra-um-storytelling-ancestral/)
 - [@atrizlauracardoso](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/atrizlauracardoso/)
 - [A Palavra que Resta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-palavra-que-resta/)
 - [Esper Kallás: “A queda histórica da vacinação é reversível”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/diretor-do-butantan-usp-esper-kallas-a-queda-historica-da-vacinacao-e-reversivel/)
 - [Mata Doce](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mata-doce/)
-- [A emergência climática desfocada pela miopia branca](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-emergencia-climatica-desfocada-pela-miopia-branca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
