@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sergio Massa e Javier Milei vão disputar 2º turno na Argentina](https://www.nexojornal.com.br/extra/2023/10/22/Sergio-Massa-e-Javier-Milei-v%C3%A3o-disputar-2%C2%BA-turno-na-Argentina)
-- [A desinformação na guerra. E como ocorrem as checagens](https://www.nexojornal.com.br/expresso/2023/10/22/A-desinforma%C3%A7%C3%A3o-na-guerra.-E-como-ocorrem-as-checagens)
-- [‘Desigualdade deve pautar todo debate sobre políticas no país’](https://www.nexojornal.com.br/entrevista/2023/10/22/%E2%80%98Desigualdade-deve-pautar-todo-debate-sobre-pol%C3%ADticas-no-pa%C3%ADs%E2%80%99)
-- [Mamãe, o que é papai? Sobre feminismo e guerra](https://www.nexojornal.com.br/ensaio/2023/10/22/Mam%C3%A3e-o-que-%C3%A9-papai-Sobre-feminismo-e-guerra)
-- [Microplásticos se espalham pela costa brasileira](https://www.nexojornal.com.br/externo/2023/10/22/Micropl%C3%A1sticos-se-espalham-pela-costa-brasileira)
+- [Qual a força do peronismo na atual política da Argentina](https://www.nexojornal.com.br/expresso/2023/10/23/Qual-a-for%C3%A7a-do-peronismo-na-atual-pol%C3%ADtica-da-Argentina)
+- [Como a inteligência artificial pode ser usada na educação](https://www.nexojornal.com.br/expresso/2023/10/23/Como-a-intelig%C3%AAncia-artificial-pode-ser-usada-na-educa%C3%A7%C3%A3o)
+- [Lembra dela? Em que pé está a reforma tributária](https://www.nexojornal.com.br/expresso/2023/10/23/Lembra-dela-Em-que-p%C3%A9-est%C3%A1-a-reforma-tribut%C3%A1ria)
+- [7 militares são suspeitos por furto de armas, diz Exército](https://www.nexojornal.com.br/extra/2023/10/23/7-militares-s%C3%A3o-suspeitos-por-furto-de-armas-diz-Ex%C3%A9rcito)
+- [O legado de Mário Pedrosa numa exposição com 300 itens](https://www.nexojornal.com.br/expresso/2023/10/23/O-legado-de-M%C3%A1rio-Pedrosa-numa-exposi%C3%A7%C3%A3o-com-300-itens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
