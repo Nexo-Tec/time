@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Candidata derrotada da direita argentina declara apoio a Milei](https://www.nexojornal.com.br/extra/2023/10/25/Candidata-derrotada-da-direita-argentina-declara-apoio-a-Milei)
+- [A libertação do museu: uma entrevista com Françoise Vergès](https://www.nexojornal.com.br/video/A-liberta%C3%A7%C3%A3o-do-museu-uma-entrevista-com-Fran%C3%A7oise-Verg%C3%A8s)
 - [Academia Brasileira de Letras inclui ‘dorama’ no dicionário](https://www.nexojornal.com.br/extra/2023/10/25/Academia-Brasileira-de-Letras-inclui-%E2%80%98dorama%E2%80%99-no-dicion%C3%A1rio)
 - [Autismo: outra forma de ser, ver, sentir e estar no mundo](https://www.nexojornal.com.br/explicado/2023/10/25/Autismo-outra-forma-de-ser-ver-sentir-e-estar-no-mundo)
 - [7 gráficos para entender o trabalho por aplicativo no Brasil](https://www.nexojornal.com.br/expresso/2023/10/25/7-gr%C3%A1ficos-para-entender-o-trabalho-por-aplicativo-no-Brasil)
-- [Por que o conflito Hamas-Israel afeta a França](https://www.nexojornal.com.br/expresso/2023/10/25/Por-que-o-conflito-Hamas-Israel-afeta-a-Fran%C3%A7a)
-- [Como a política brasileira aparece na eleição argentina](https://www.nexojornal.com.br/expresso/2023/10/24/Como-a-pol%C3%ADtica-brasileira-aparece-na-elei%C3%A7%C3%A3o-argentina1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
