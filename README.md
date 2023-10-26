@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Luciana Brito: “A imaginação, o sonho, a fantasia do povo brasileiro continua e floresce”](https://gamarevista.uol.com.br/formato/conversas/luciana-brito-a-imaginacao-o-sonho-a-fantasia-do-povo-brasileiro-continua-e-floresce/)
+- [Luciana Brito: “A imaginação, o sonho, a fantasia do povo brasileiro floresce”](https://gamarevista.uol.com.br/formato/conversas/luciana-brito-a-imaginacao-o-sonho-a-fantasia-do-povo-brasileiro-floresce/)
 - [Flica, dia 1: narrativas afroindígenas, calor e um robô dançarino](https://gamarevista.uol.com.br/cultura/flica-narrativas-afroindigenas-calor-e-a-independencia-da-mulher-baiana/)
 - [Eliana Alves Cruz](https://gamarevista.uol.com.br/pessoas/questionario-proust/eliana-alves-cruz/)
 - [Eu, a rodovia e meu pênis de uma tonelada](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/eu-a-rodovia-e-meu-penis-de-uma-tonelada/)
