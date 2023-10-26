@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Flica, dia 1: narrativas afroindígenas, calor e um robô dançarino](https://gamarevista.uol.com.br/cultura/flica-narrativas-afroindigenas-calor-e-a-independencia-da-mulher-baiana/)
 - [Eliana Alves Cruz](https://gamarevista.uol.com.br/pessoas/questionario-proust/eliana-alves-cruz/)
 - [Eu, a rodovia e meu pênis de uma tonelada](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/eu-a-rodovia-e-meu-penis-de-uma-tonelada/)
 - [As fantasias em jogo na guerra: um storytelling ancestral](https://gamarevista.uol.com.br/colunistas/maria-homem/as-fantasias-em-jogo-na-guerra-um-storytelling-ancestral/)
 - [@atrizlauracardoso](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/atrizlauracardoso/)
-- [A Palavra que Resta](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-palavra-que-resta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
