@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Academia Brasileira de Letras inclui ‘dorama’ no dicionário](https://www.nexojornal.com.br/extra/2023/10/25/Academia-Brasileira-de-Letras-inclui-%E2%80%98dorama%E2%80%99-no-dicion%C3%A1rio)
-- [Autismo: outra forma de ser, ver, sentir e estar no mundo](https://www.nexojornal.com.br/explicado/2023/10/25/Autismo-outra-forma-de-ser-ver-sentir-e-estar-no-mundo)
-- [7 gráficos para entender o trabalho por aplicativo no Brasil](https://www.nexojornal.com.br/expresso/2023/10/25/7-gr%C3%A1ficos-para-entender-o-trabalho-por-aplicativo-no-Brasil)
-- [Por que o conflito Hamas-Israel afeta a França](https://www.nexojornal.com.br/expresso/2023/10/25/Por-que-o-conflito-Hamas-Israel-afeta-a-Fran%C3%A7a)
-- [Como a política brasileira aparece na eleição argentina](https://www.nexojornal.com.br/expresso/2023/10/24/Como-a-pol%C3%ADtica-brasileira-aparece-na-elei%C3%A7%C3%A3o-argentina1)
+- [Qual é a proposta do governo Lula para o novo ensino médio](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-proposta-do-governo-Lula-para-o-novo-ensino-m%C3%A9dio)
+- [Como a poesia popular ajuda a enriquecer o ensino de biologia](https://www.nexojornal.com.br/academico/2023/10/25/Como-a-poesia-popular-ajuda-a-enriquecer-o-ensino-de-biologia)
+- [O tempo das torcidas passou: reza e mandinga é o que resta](https://www.nexojornal.com.br/colunistas/2023/O-tempo-das-torcidas-passou-reza-e-mandinga-%C3%A9-o-que-resta)
+- [Qual é a dimensão da crise na ONU no conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-dimens%C3%A3o-da-crise-na-ONU-no-conflito-Hamas-Israel)
+- [Quem são os neoluditas. E o que eles reivindicam](https://www.nexojornal.com.br/expresso/2023/10/25/Quem-s%C3%A3o-os-neoluditas.-E-o-que-eles-reivindicam)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
