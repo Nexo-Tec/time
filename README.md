@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Marina Hirota: ponto de não retorno e sua relação com a Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/10/25/Marina-Hirota-ponto-de-n%C3%A3o-retorno-e-sua-rela%C3%A7%C3%A3o-com-a-Amaz%C3%B4nia)
+- [As ações afirmativas no ensino superior deram certo? O que as pesquisas dizem](https://pp.nexojornal.com.br/opiniao/2023/As-a%C3%A7%C3%B5es-afirmativas-no-ensino-superior-deram-certo-O-que-as-pesquisas-dizem)
 - [Os rios da Amazônia, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Os-rios-da-Amaz%C3%B4nia-em-7-pontos)
 - [Ausência de saneamento básico: uma violência contra as crianças no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/Aus%C3%AAncia-de-saneamento-b%C3%A1sico-uma-viol%C3%AAncia-contra-as-crian%C3%A7as-no-Brasil1)
 - [Contribuições da agricultura urbana para o estado de saúde](https://pp.nexojornal.com.br/opiniao/2023/Contribui%C3%A7%C3%B5es-da-agricultura-urbana-para-o-estado-de-sa%C3%BAde)
-- [A saúde da população negra segue na ponta do SUS](https://pp.nexojornal.com.br/opiniao/2023/A-sa%C3%BAde-da-popula%C3%A7%C3%A3o-negra-segue-na-ponta-do-SUS)
-- [A experiência de Canudos e a memória nacional: por uma disputa pelo sentido do passado](https://pp.nexojornal.com.br/opiniao/2023/A-experi%C3%AAncia-de-Canudos-e-a-mem%C3%B3ria-nacional-por-uma-disputa-pelo-sentido-do-passado)
 <!-- PP_LIST:END -->
 
