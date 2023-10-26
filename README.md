@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Luciana Brito: “A imaginação, o sonho, a fantasia do povo brasileiro floresce”](https://gamarevista.uol.com.br/formato/conversas/luciana-brito-a-imaginacao-o-sonho-a-fantasia-do-povo-brasileiro-floresce/)
-- [Flica, dia 1: narrativas afroindígenas, calor e um robô dançarino](https://gamarevista.uol.com.br/cultura/flica-narrativas-afroindigenas-calor-e-a-independencia-da-mulher-baiana/)
-- [Eliana Alves Cruz](https://gamarevista.uol.com.br/pessoas/questionario-proust/eliana-alves-cruz/)
-- [Eu, a rodovia e meu pênis de uma tonelada](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/eu-a-rodovia-e-meu-penis-de-uma-tonelada/)
-- [As fantasias em jogo na guerra: um storytelling ancestral](https://gamarevista.uol.com.br/colunistas/maria-homem/as-fantasias-em-jogo-na-guerra-um-storytelling-ancestral/)
+- [A nova fase de Ana Frango Elétrico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-ana-frango-eletrico/)
+- [O samba que moldou o Rio de Janeiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-samba-que-moldou-o-rio-de-janeiro/)
+- [“A Metade de Nós”, na 47ª Mostra](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-metade-de-nos-na-47a-mostra/)
+- [“Hackney Diamonds” dos Rolling Stones](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/hackney-diamonds-dos-rolling-stones/)
+- [Albert Adrià fala no Mesa São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/albert-adria-fala-no-mesa-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
