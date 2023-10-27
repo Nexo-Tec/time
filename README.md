@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A Amazônia na visão de Hiromi Nagakura e Ailton Krenak](https://www.nexojornal.com.br/expresso/2023/10/26/A-Amaz%C3%B4nia-na-vis%C3%A3o-de-Hiromi-Nagakura-e-Ailton-Krenak)
+- [Exército pede prisão de 6 militares por furto de metralhadoras](https://www.nexojornal.com.br/extra/2023/10/26/Ex%C3%A9rcito-pede-pris%C3%A3o-de-6-militares-por-furto-de-metralhadoras)
+- [Atirador abre fogo em clube de boliche e mata ao menos 18 nos EUA](https://www.nexojornal.com.br/extra/2023/10/26/Atirador-abre-fogo-em-clube-de-boliche-e-mata-ao-menos-18-nos-EUA)
+- [Câmara aprova taxação de offshores e fundos exclusivos](https://www.nexojornal.com.br/extra/2023/10/26/C%C3%A2mara-aprova-taxa%C3%A7%C3%A3o-de-offshores-e-fundos-exclusivos)
 - [Qual é a proposta do governo Lula para o novo ensino médio](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-proposta-do-governo-Lula-para-o-novo-ensino-m%C3%A9dio)
-- [Como a poesia popular ajuda a enriquecer o ensino de biologia](https://www.nexojornal.com.br/academico/2023/10/25/Como-a-poesia-popular-ajuda-a-enriquecer-o-ensino-de-biologia)
-- [O tempo das torcidas passou: reza e mandinga é o que resta](https://www.nexojornal.com.br/colunistas/2023/O-tempo-das-torcidas-passou-reza-e-mandinga-%C3%A9-o-que-resta)
-- [Qual é a dimensão da crise na ONU no conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-dimens%C3%A3o-da-crise-na-ONU-no-conflito-Hamas-Israel)
-- [Quem são os neoluditas. E o que eles reivindicam](https://www.nexojornal.com.br/expresso/2023/10/25/Quem-s%C3%A3o-os-neoluditas.-E-o-que-eles-reivindicam)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
