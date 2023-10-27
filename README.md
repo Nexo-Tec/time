@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Senado tenta evitar aumento de imposto na reforma](https://www.nexojornal.com.br/expresso/2023/10/26/Como-o-Senado-tenta-evitar-aumento-de-imposto-na-reforma)
-- [Educação Midiática e leitura do mundo: ‘trouxeste a chave’?](https://www.nexojornal.com.br/colunistas/2023/Educa%C3%A7%C3%A3o-Midi%C3%A1tica-e-leitura-do-mundo-%E2%80%98trouxeste-a-chave%E2%80%99)
-- [Gaza divulga lista com nomes de mais de 7.000 palestinos mortos](https://www.nexojornal.com.br/extra/2023/10/26/Gaza-divulga-lista-com-nomes-de-mais-de-7.000-palestinos-mortos)
-- [O apetite do centrão: ministérios, Caixa Econômica e não é só](https://www.nexojornal.com.br/podcast/2023/10/26/O-apetite-do-centr%C3%A3o-minist%C3%A9rios-Caixa-Econ%C3%B4mica-e-n%C3%A3o-%C3%A9-s%C3%B3)
-- [Plataforma digital traça conexões culturais entre países do Atlântico](https://www.nexojornal.com.br/externo/2023/10/26/Plataforma-digital-tra%C3%A7a-conex%C3%B5es-culturais-entre-pa%C3%ADses-do-Atl%C3%A2ntico)
+- [A Amazônia na visão de Hiromi Nagakura e Ailton Krenak](https://www.nexojornal.com.br/expresso/2023/10/26/A-Amaz%C3%B4nia-na-vis%C3%A3o-de-Hiromi-Nagakura-e-Ailton-Krenak)
+- [Exército pede prisão de 6 militares por furto de metralhadoras](https://www.nexojornal.com.br/extra/2023/10/26/Ex%C3%A9rcito-pede-pris%C3%A3o-de-6-militares-por-furto-de-metralhadoras)
+- [Atirador abre fogo em clube de boliche e mata ao menos 18 nos EUA](https://www.nexojornal.com.br/extra/2023/10/26/Atirador-abre-fogo-em-clube-de-boliche-e-mata-ao-menos-18-nos-EUA)
+- [Câmara aprova taxação de offshores e fundos exclusivos](https://www.nexojornal.com.br/extra/2023/10/26/C%C3%A2mara-aprova-taxa%C3%A7%C3%A3o-de-offshores-e-fundos-exclusivos)
+- [Qual é a proposta do governo Lula para o novo ensino médio](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-proposta-do-governo-Lula-para-o-novo-ensino-m%C3%A9dio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
