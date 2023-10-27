@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A Amazônia na visão de Hiromi Nagakura e Ailton Krenak](https://www.nexojornal.com.br/expresso/2023/10/26/A-Amaz%C3%B4nia-na-vis%C3%A3o-de-Hiromi-Nagakura-e-Ailton-Krenak)
-- [Exército pede prisão de 6 militares por furto de metralhadoras](https://www.nexojornal.com.br/extra/2023/10/26/Ex%C3%A9rcito-pede-pris%C3%A3o-de-6-militares-por-furto-de-metralhadoras)
-- [Atirador abre fogo em clube de boliche e mata ao menos 18 nos EUA](https://www.nexojornal.com.br/extra/2023/10/26/Atirador-abre-fogo-em-clube-de-boliche-e-mata-ao-menos-18-nos-EUA)
-- [Câmara aprova taxação de offshores e fundos exclusivos](https://www.nexojornal.com.br/extra/2023/10/26/C%C3%A2mara-aprova-taxa%C3%A7%C3%A3o-de-offshores-e-fundos-exclusivos)
-- [Qual é a proposta do governo Lula para o novo ensino médio](https://www.nexojornal.com.br/expresso/2023/10/25/Qual-%C3%A9-a-proposta-do-governo-Lula-para-o-novo-ensino-m%C3%A9dio)
+- [Lula descarta uso de Forças Armadas no policiamento do Rio](https://www.nexojornal.com.br/extra/2023/10/27/Lula-descarta-uso-de-For%C3%A7as-Armadas-no-policiamento-do-Rio)
+- [Carro de embaixada brasileira é parado com 55kg de cocaína](https://www.nexojornal.com.br/extra/2023/10/27/Carro-de-embaixada-brasileira-%C3%A9-parado-com-55kg-de-coca%C3%ADna)
+- [Antes e depois: o tamanho da destruição na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2023/10/27/Antes-e-depois-o-tamanho-da-destrui%C3%A7%C3%A3o-na-Faixa-de-Gaza)
+- [A idade mediana da população dos estados e municípios em 2022](https://www.nexojornal.com.br/grafico/2023/10/27/A-idade-mediana-da-popula%C3%A7%C3%A3o-dos-estados-e-munic%C3%ADpios-em-2022)
+- [A pirâmide etária do Brasil, segundo o Censo do IBGE](https://www.nexojornal.com.br/grafico/2023/10/27/A-pir%C3%A2mide-et%C3%A1ria-do-Brasil-segundo-o-Censo-do-IBGE)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
