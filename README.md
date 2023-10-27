@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Erva Brava](https://gamarevista.uol.com.br/cultura/trecho-de-livro/erva-brava/)
 - [A nova fase de Ana Frango Elétrico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-ana-frango-eletrico/)
 - [O samba que moldou o Rio de Janeiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-samba-que-moldou-o-rio-de-janeiro/)
 - [“A Metade de Nós”, na 47ª Mostra](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-metade-de-nos-na-47a-mostra/)
 - [“Hackney Diamonds” dos Rolling Stones](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/hackney-diamonds-dos-rolling-stones/)
-- [Albert Adrià fala no Mesa São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/albert-adria-fala-no-mesa-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
