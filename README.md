@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula descarta uso de Forças Armadas no policiamento do Rio](https://www.nexojornal.com.br/extra/2023/10/27/Lula-descarta-uso-de-For%C3%A7as-Armadas-no-policiamento-do-Rio)
-- [Carro de embaixada brasileira é parado com 55kg de cocaína](https://www.nexojornal.com.br/extra/2023/10/27/Carro-de-embaixada-brasileira-%C3%A9-parado-com-55kg-de-coca%C3%ADna)
-- [Antes e depois: o tamanho da destruição na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2023/10/27/Antes-e-depois-o-tamanho-da-destrui%C3%A7%C3%A3o-na-Faixa-de-Gaza)
-- [A idade mediana da população dos estados e municípios em 2022](https://www.nexojornal.com.br/grafico/2023/10/27/A-idade-mediana-da-popula%C3%A7%C3%A3o-dos-estados-e-munic%C3%ADpios-em-2022)
-- [A pirâmide etária do Brasil, segundo o Censo do IBGE](https://www.nexojornal.com.br/grafico/2023/10/27/A-pir%C3%A2mide-et%C3%A1ria-do-Brasil-segundo-o-Censo-do-IBGE)
+- [Como o Senado tenta evitar aumento de imposto na reforma](https://www.nexojornal.com.br/expresso/2023/10/26/Como-o-Senado-tenta-evitar-aumento-de-imposto-na-reforma)
+- [Educação Midiática e leitura do mundo: ‘trouxeste a chave’?](https://www.nexojornal.com.br/colunistas/2023/Educa%C3%A7%C3%A3o-Midi%C3%A1tica-e-leitura-do-mundo-%E2%80%98trouxeste-a-chave%E2%80%99)
+- [Gaza divulga lista com nomes de mais de 7.000 palestinos mortos](https://www.nexojornal.com.br/extra/2023/10/26/Gaza-divulga-lista-com-nomes-de-mais-de-7.000-palestinos-mortos)
+- [O apetite do centrão: ministérios, Caixa Econômica e não é só](https://www.nexojornal.com.br/podcast/2023/10/26/O-apetite-do-centr%C3%A3o-minist%C3%A9rios-Caixa-Econ%C3%B4mica-e-n%C3%A3o-%C3%A9-s%C3%B3)
+- [Plataforma digital traça conexões culturais entre países do Atlântico](https://www.nexojornal.com.br/externo/2023/10/26/Plataforma-digital-tra%C3%A7a-conex%C3%B5es-culturais-entre-pa%C3%ADses-do-Atl%C3%A2ntico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
