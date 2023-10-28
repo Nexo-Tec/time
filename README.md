@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Celia Tupinambá](https://gamarevista.uol.com.br/pessoas/questionario-proust/celia-tupinamba/)
+- [O futuro do Brasil é afroindígena?](https://gamarevista.uol.com.br/cultura/o-futuro-do-brasil-e-afroindigena/)
 - [Flica, dia 2: Nego Bispo, Jean Wyllys, Leda Maria Martins e corpos dissidentes](https://gamarevista.uol.com.br/cultura/flica-nego-bispo-jean-wyllis-leda-maria-martins-e-corpos-dissidentes/)
 - [Erva Brava](https://gamarevista.uol.com.br/cultura/trecho-de-livro/erva-brava/)
 - [A nova fase de Ana Frango Elétrico](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-nova-fase-de-ana-frango-eletrico/)
-- [O samba que moldou o Rio de Janeiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-samba-que-moldou-o-rio-de-janeiro/)
-- [“A Metade de Nós”, na 47ª Mostra](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-metade-de-nos-na-47a-mostra/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
