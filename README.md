@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Vanessa Rozan: “Autocuidado pra mim é tempo e terapia”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/vanessa-rozan-autocuidado-pra-mim-e-tempo-e-terapia/)
 - [Flica, dia 3: Ximena Santaolalla, Eliane Marques e muita arte](https://gamarevista.uol.com.br/cultura/flica-dia-3-ximena-santaolalla-eliane-marques-e-muita-arte/)
 - [Celia Tupinambá](https://gamarevista.uol.com.br/pessoas/questionario-proust/celia-tupinamba/)
 - [O futuro do Brasil é afroindígena?](https://gamarevista.uol.com.br/cultura/o-futuro-do-brasil-e-afroindigena/)
 - [Flica, dia 2: Nego Bispo, Jean Wyllys, Leda Maria Martins e corpos dissidentes](https://gamarevista.uol.com.br/cultura/flica-nego-bispo-jean-wyllis-leda-maria-martins-e-corpos-dissidentes/)
-- [Erva Brava](https://gamarevista.uol.com.br/cultura/trecho-de-livro/erva-brava/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
