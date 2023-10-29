@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Assembleia-Geral da ONU aprova trégua entre Hamas e Israel](https://www.nexojornal.com.br/extra/2023/10/27/Assembleia-Geral-da-ONU-aprova-tr%C3%A9gua-entre-Hamas-e-Israel)
-- [Os ataques da milícia no Rio. O 1º turno na Argentina. E mais](https://www.nexojornal.com.br/video/extrato/Os-ataques-da-mil%C3%ADcia-no-Rio.-O-1%C2%BA-turno-na-Argentina.-E-mais)
-- [Qual o impacto da pirâmide etária sobre a Previdência](https://www.nexojornal.com.br/expresso/2023/10/27/Qual-o-impacto-da-pir%C3%A2mide-et%C3%A1ria-sobre-a-Previd%C3%AAncia)
-- [O que megafusões do petróleo dizem sobre transição energética](https://www.nexojornal.com.br/expresso/2023/10/27/O-que-megafus%C3%B5es-do-petr%C3%B3leo-dizem-sobre-transi%C3%A7%C3%A3o-energ%C3%A9tica)
-- [Quais são as empresas que dominam o uso da água no Brasil](https://www.nexojornal.com.br/externo/2023/10/27/Quais-s%C3%A3o-as-empresas-que-dominam-o-uso-da-%C3%A1gua-no-Brasil)
+- [Qual a capacidade de segurança do Rio. E qual o papel federal](https://www.nexojornal.com.br/expresso/2023/10/28/Qual-a-capacidade-de-seguran%C3%A7a-do-Rio.-E-qual-o-papel-federal)
+- [Participação social pode ser mais diversa, dialógica e educativa?](https://www.nexojornal.com.br/ensaio/2023/10/28/Participa%C3%A7%C3%A3o-social-pode-ser-mais-diversa-dial%C3%B3gica-e-educativa)
+- [As ações de cooperação entre israelenses e palestinos](https://www.nexojornal.com.br/expresso/2023/10/28/As-a%C3%A7%C3%B5es-de-coopera%C3%A7%C3%A3o-entre-israelenses-e-palestinos)
+- [Quando denunciar ameaças de alunos em escolas](https://www.nexojornal.com.br/externo/2023/10/28/Quando-denunciar-amea%C3%A7as-de-alunos-em-escolas)
+- [5 livros para pensar sobre como vivem os escritores](https://www.nexojornal.com.br/estante/favoritos/2023/10/28/5-livros-para-pensar-sobre-como-vivem-os-escritores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
