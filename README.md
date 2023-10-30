@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual a capacidade de segurança do Rio. E qual o papel federal](https://www.nexojornal.com.br/expresso/2023/10/28/Qual-a-capacidade-de-seguran%C3%A7a-do-Rio.-E-qual-o-papel-federal)
-- [Participação social pode ser mais diversa, dialógica e educativa?](https://www.nexojornal.com.br/ensaio/2023/10/28/Participa%C3%A7%C3%A3o-social-pode-ser-mais-diversa-dial%C3%B3gica-e-educativa)
-- [As ações de cooperação entre israelenses e palestinos](https://www.nexojornal.com.br/expresso/2023/10/28/As-a%C3%A7%C3%B5es-de-coopera%C3%A7%C3%A3o-entre-israelenses-e-palestinos)
-- [Quando denunciar ameaças de alunos em escolas](https://www.nexojornal.com.br/externo/2023/10/28/Quando-denunciar-amea%C3%A7as-de-alunos-em-escolas)
-- [5 livros para pensar sobre como vivem os escritores](https://www.nexojornal.com.br/estante/favoritos/2023/10/28/5-livros-para-pensar-sobre-como-vivem-os-escritores)
+- [O presidencialismo de coalizão acabou?](https://www.nexojornal.com.br/expresso/2023/10/29/O-presidencialismo-de-coaliz%C3%A3o-acabou)
+- [Menos dúvidas sobre a origem da terra preta amazônica](https://www.nexojornal.com.br/externo/2023/10/29/Menos-d%C3%BAvidas-sobre-a-origem-da-terra-preta-amaz%C3%B4nica)
+- [As regras fiscais e a busca por normas sustentáveis](https://www.nexojornal.com.br/ensaio/2023/10/29/As-regras-fiscais-e-a-busca-por-normas-sustent%C3%A1veis)
+- [Queda de avião de pequeno porte deixa 12 mortos no Acre](https://www.nexojornal.com.br/extra/2023/10/29/Queda-de-avi%C3%A3o-de-pequeno-porte-deixa-12-mortos-no-Acre)
+- [Moradores de Gaza invadem galpões da ONU atrás de comida](https://www.nexojornal.com.br/extra/2023/10/29/Moradores-de-Gaza-invadem-galp%C3%B5es-da-ONU-atr%C3%A1s-de-comida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
