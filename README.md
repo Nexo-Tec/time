@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dúvida sobre deficit zero é constatação, não sabotagem, diz Haddad](https://www.nexojornal.com.br/extra/2023/10/30/D%C3%BAvida-sobre-deficit-zero-%C3%A9-constata%C3%A7%C3%A3o-n%C3%A3o-sabotagem-diz-Haddad)
+- [‘Nexo’ lança série especial sobre políticas afirmativas](https://www.nexojornal.com.br/expresso/2023/10/30/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-s%C3%A9rie-especial-sobre-pol%C3%ADticas-afirmativas)
+- [Morre aos 80 anos o gestor cultural Danilo Santos de Miranda](https://www.nexojornal.com.br/extra/2023/10/30/Morre-aos-80-anos-o-gestor-cultural-Danilo-Santos-de-Miranda)
 - [O presidencialismo de coalizão acabou?](https://www.nexojornal.com.br/expresso/2023/10/29/O-presidencialismo-de-coaliz%C3%A3o-acabou)
 - [Menos dúvidas sobre a origem da terra preta amazônica](https://www.nexojornal.com.br/externo/2023/10/29/Menos-d%C3%BAvidas-sobre-a-origem-da-terra-preta-amaz%C3%B4nica)
-- [As regras fiscais e a busca por normas sustentáveis](https://www.nexojornal.com.br/ensaio/2023/10/29/As-regras-fiscais-e-a-busca-por-normas-sustent%C3%A1veis)
-- [Queda de avião de pequeno porte deixa 12 mortos no Acre](https://www.nexojornal.com.br/extra/2023/10/29/Queda-de-avi%C3%A3o-de-pequeno-porte-deixa-12-mortos-no-Acre)
-- [Moradores de Gaza invadem galpões da ONU atrás de comida](https://www.nexojornal.com.br/extra/2023/10/29/Moradores-de-Gaza-invadem-galp%C3%B5es-da-ONU-atr%C3%A1s-de-comida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
