@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que um estudante pode fazer a poucos dias da prova do Enem](https://www.nexojornal.com.br/expresso/2023/10/30/O-que-um-estudante-pode-fazer-a-poucos-dias-da-prova-do-Enem)
-- [Por que a inflação de alimentos está em queda no Brasil](https://www.nexojornal.com.br/expresso/2023/10/30/Por-que-a-infla%C3%A7%C3%A3o-de-alimentos-est%C3%A1-em-queda-no-Brasil)
-- [A invasão de Gaza por terra. E as incursões de Israel no passado](https://www.nexojornal.com.br/podcast/2023/10/30/A-invas%C3%A3o-de-Gaza-por-terra.-E-as-incurs%C3%B5es-de-Israel-no-passado)
-- [4 líderes quilombolas já foram assassinados em 2023](https://www.nexojornal.com.br/extra/2023/10/30/4-l%C3%ADderes-quilombolas-j%C3%A1-foram-assassinados-em-2023)
-- [Queimadas e seca fazem fumaça tomar de novo céu de Manaus](https://www.nexojornal.com.br/extra/2023/10/30/Queimadas-e-seca-fazem-fuma%C3%A7a-tomar-de-novo-c%C3%A9u-de-Manaus)
+- [Dúvida sobre deficit zero é constatação, não sabotagem, diz Haddad](https://www.nexojornal.com.br/extra/2023/10/30/D%C3%BAvida-sobre-deficit-zero-%C3%A9-constata%C3%A7%C3%A3o-n%C3%A3o-sabotagem-diz-Haddad)
+- [‘Nexo’ lança série especial sobre políticas afirmativas](https://www.nexojornal.com.br/expresso/2023/10/30/%E2%80%98Nexo%E2%80%99-lan%C3%A7a-s%C3%A9rie-especial-sobre-pol%C3%ADticas-afirmativas)
+- [Morre aos 80 anos o gestor cultural Danilo Santos de Miranda](https://www.nexojornal.com.br/extra/2023/10/30/Morre-aos-80-anos-o-gestor-cultural-Danilo-Santos-de-Miranda)
+- [O presidencialismo de coalizão acabou?](https://www.nexojornal.com.br/expresso/2023/10/29/O-presidencialismo-de-coaliz%C3%A3o-acabou)
+- [Menos dúvidas sobre a origem da terra preta amazônica](https://www.nexojornal.com.br/externo/2023/10/29/Menos-d%C3%BAvidas-sobre-a-origem-da-terra-preta-amaz%C3%B4nica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
