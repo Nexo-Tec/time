@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o número alto de crianças acentua a tragédia em Gaza](https://www.nexojornal.com.br/expresso/2023/10/30/Como-o-n%C3%BAmero-alto-de-crian%C3%A7as-acentua-a-trag%C3%A9dia-em-Gaza)
 - [O que um estudante pode fazer a poucos dias da prova do Enem](https://www.nexojornal.com.br/expresso/2023/10/30/O-que-um-estudante-pode-fazer-a-poucos-dias-da-prova-do-Enem)
 - [Por que a inflação de alimentos está em queda no Brasil](https://www.nexojornal.com.br/expresso/2023/10/30/Por-que-a-infla%C3%A7%C3%A3o-de-alimentos-est%C3%A1-em-queda-no-Brasil)
 - [A invasão de Gaza por terra. E as incursões de Israel no passado](https://www.nexojornal.com.br/podcast/2023/10/30/A-invas%C3%A3o-de-Gaza-por-terra.-E-as-incurs%C3%B5es-de-Israel-no-passado)
 - [4 líderes quilombolas já foram assassinados em 2023](https://www.nexojornal.com.br/extra/2023/10/30/4-l%C3%ADderes-quilombolas-j%C3%A1-foram-assassinados-em-2023)
-- [Queimadas e seca fazem fumaça tomar de novo céu de Manaus](https://www.nexojornal.com.br/extra/2023/10/30/Queimadas-e-seca-fazem-fuma%C3%A7a-tomar-de-novo-c%C3%A9u-de-Manaus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
