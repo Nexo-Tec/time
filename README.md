@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Ouvir e olhar nos olhos são os maiores atributos do médico’](https://www.nexojornal.com.br/profissoes/2023/10/31/%E2%80%98Ouvir-e-olhar-nos-olhos-s%C3%A3o-os-maiores-atributos-do-m%C3%A9dico%E2%80%99)
-- [Como podemos identificar os limites da guerra](https://www.nexojornal.com.br/ensaio/2023/10/31/Como-podemos-identificar-os-limites-da-guerra)
-- [Qual o papel do Qatar na intermediação entre Hamas e Israel](https://www.nexojornal.com.br/expresso/2023/10/31/Qual-o-papel-do-Qatar-na-intermedia%C3%A7%C3%A3o-entre-Hamas-e-Israel)
-- [Vacina contra a covid será anual para grupos prioritários](https://www.nexojornal.com.br/extra/2023/10/31/Vacina-contra-a-covid-ser%C3%A1-anual-para-grupos-priorit%C3%A1rios)
-- [De onde vem a pressão em torno do deficit zero de Haddad](https://www.nexojornal.com.br/expresso/2023/10/31/De-onde-vem-a-press%C3%A3o-em-torno-do-deficit-zero-de-Haddad)
+- [Novembro negro: o que há para ser comemorado?](https://www.nexojornal.com.br/colunistas/2023/Novembro-negro-o-que-h%C3%A1-para-ser-comemorado)
+- [Taxa de desemprego cai e população ocupada bate recorde](https://www.nexojornal.com.br/extra/2023/10/31/Taxa-de-desemprego-cai-e-popula%C3%A7%C3%A3o-ocupada-bate-recorde)
+- [Ex-senador suspeito de mandar matar mãe da própria filha é preso](https://www.nexojornal.com.br/extra/2023/10/31/Ex-senador-suspeito-de-mandar-matar-m%C3%A3e-da-pr%C3%B3pria-filha-%C3%A9-preso)
+- [6 aspectos da comunicação política em apps de mensagem](https://www.nexojornal.com.br/expresso/2023/10/31/6-aspectos-da-comunica%C3%A7%C3%A3o-pol%C3%ADtica-em-apps-de-mensagem)
+- [Como o número alto de crianças acentua a tragédia em Gaza](https://www.nexojornal.com.br/expresso/2023/10/30/Como-o-n%C3%BAmero-alto-de-crian%C3%A7as-acentua-a-trag%C3%A9dia-em-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
