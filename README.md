@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que um estudante pode fazer a poucos dias da prova do Enem](https://www.nexojornal.com.br/expresso/2023/10/30/O-que-um-estudante-pode-fazer-a-poucos-dias-da-prova-do-Enem)
-- [Por que a inflação de alimentos está em queda no Brasil](https://www.nexojornal.com.br/expresso/2023/10/30/Por-que-a-infla%C3%A7%C3%A3o-de-alimentos-est%C3%A1-em-queda-no-Brasil)
-- [A invasão de Gaza por terra. E as incursões de Israel no passado](https://www.nexojornal.com.br/podcast/2023/10/30/A-invas%C3%A3o-de-Gaza-por-terra.-E-as-incurs%C3%B5es-de-Israel-no-passado)
-- [4 líderes quilombolas já foram assassinados em 2023](https://www.nexojornal.com.br/extra/2023/10/30/4-l%C3%ADderes-quilombolas-j%C3%A1-foram-assassinados-em-2023)
-- [Queimadas e seca fazem fumaça tomar de novo céu de Manaus](https://www.nexojornal.com.br/extra/2023/10/30/Queimadas-e-seca-fazem-fuma%C3%A7a-tomar-de-novo-c%C3%A9u-de-Manaus)
+- [Novembro negro: o que há para ser comemorado?](https://www.nexojornal.com.br/colunistas/2023/Novembro-negro-o-que-h%C3%A1-para-ser-comemorado)
+- [Taxa de desemprego cai e população ocupada bate recorde](https://www.nexojornal.com.br/extra/2023/10/31/Taxa-de-desemprego-cai-e-popula%C3%A7%C3%A3o-ocupada-bate-recorde)
+- [Ex-senador suspeito de mandar matar mãe da própria filha é preso](https://www.nexojornal.com.br/extra/2023/10/31/Ex-senador-suspeito-de-mandar-matar-m%C3%A3e-da-pr%C3%B3pria-filha-%C3%A9-preso)
+- [6 aspectos da comunicação política em apps de mensagem](https://www.nexojornal.com.br/expresso/2023/10/31/6-aspectos-da-comunica%C3%A7%C3%A3o-pol%C3%ADtica-em-apps-de-mensagem)
+- [Como o número alto de crianças acentua a tragédia em Gaza](https://www.nexojornal.com.br/expresso/2023/10/30/Como-o-n%C3%BAmero-alto-de-crian%C3%A7as-acentua-a-trag%C3%A9dia-em-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
