@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Ouvir e olhar nos olhos são os maiores atributos do médico’](https://www.nexojornal.com.br/profissoes/2023/10/31/%E2%80%98Ouvir-e-olhar-nos-olhos-s%C3%A3o-os-maiores-atributos-do-m%C3%A9dico%E2%80%99)
-- [Como podemos identificar os limites da guerra](https://www.nexojornal.com.br/ensaio/2023/10/31/Como-podemos-identificar-os-limites-da-guerra)
-- [Qual o papel do Qatar na intermediação entre Hamas e Israel](https://www.nexojornal.com.br/expresso/2023/10/31/Qual-o-papel-do-Qatar-na-intermedia%C3%A7%C3%A3o-entre-Hamas-e-Israel)
-- [Vacina contra a covid será anual para grupos prioritários](https://www.nexojornal.com.br/extra/2023/10/31/Vacina-contra-a-covid-ser%C3%A1-anual-para-grupos-priorit%C3%A1rios)
-- [De onde vem a pressão em torno do deficit zero de Haddad](https://www.nexojornal.com.br/expresso/2023/10/31/De-onde-vem-a-press%C3%A3o-em-torno-do-deficit-zero-de-Haddad)
+- [Lula anuncia GLO para reforçar segurança no Rio e em São Paulo](https://www.nexojornal.com.br/extra/2023/11/01/Lula-anuncia-GLO-para-refor%C3%A7ar-seguran%C3%A7a-no-Rio-e-em-S%C3%A3o-Paulo)
+- [Fuga de Gaza: a corrida de civis para deixar a zona de guerra](https://www.nexojornal.com.br/podcast/2023/11/01/Fuga-de-Gaza-a-corrida-de-civis-para-deixar-a-zona-de-guerra)
+- [Banco Central corta taxa básica de juros para 12,25% ao ano](https://www.nexojornal.com.br/extra/2023/11/01/Banco-Central-corta-taxa-b%C3%A1sica-de-juros-para-1225-ao-ano)
+- [As pesquisas em busca de reparação histórica da escravidão](https://www.nexojornal.com.br/externo/2023/11/01/As-pesquisas-em-busca-de-repara%C3%A7%C3%A3o-hist%C3%B3rica-da-escravid%C3%A3o)
+- [Câmara dos Deputados aprova criação de bancada negra](https://www.nexojornal.com.br/extra/2023/11/01/C%C3%A2mara-dos-Deputados-aprova-cria%C3%A7%C3%A3o-de-bancada-negra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
