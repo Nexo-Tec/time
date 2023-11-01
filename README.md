@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Animais no Direito: transformações morais e marcos regulatórios](https://pp.nexojornal.com.br/linha-do-tempo/2023/Animais-no-Direito-transforma%C3%A7%C3%B5es-morais-e-marcos-regulat%C3%B3rios)
 - [Como lidar com o desmatamento em assentamentos rurais na Amazônia, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Como-lidar-com-o-desmatamento-em-assentamentos-rurais-na-Amaz%C3%B4nia-em-5-pontos)
 - [Marina Hirota: ponto de não retorno e sua relação com a Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/10/25/Marina-Hirota-ponto-de-n%C3%A3o-retorno-e-sua-rela%C3%A7%C3%A3o-com-a-Amaz%C3%B4nia)
 - [As ações afirmativas no ensino superior deram certo? O que as pesquisas dizem](https://pp.nexojornal.com.br/opiniao/2023/As-a%C3%A7%C3%B5es-afirmativas-no-ensino-superior-deram-certo-O-que-as-pesquisas-dizem)
 - [Os rios da Amazônia, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Os-rios-da-Amaz%C3%B4nia-em-7-pontos)
+- [Ausência de saneamento básico: uma violência contra as crianças no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/Aus%C3%AAncia-de-saneamento-b%C3%A1sico-uma-viol%C3%AAncia-contra-as-crian%C3%A7as-no-Brasil1)
 <!-- PP_LIST:END -->
 
