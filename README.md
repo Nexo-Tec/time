@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Câmara dos Deputados aprova criação de bancada negra](https://www.nexojornal.com.br/extra/2023/11/01/C%C3%A2mara-dos-Deputados-aprova-cria%C3%A7%C3%A3o-de-bancada-negra)
-- [Controladora da Starbucks no Brasil pede recuperação judicial](https://www.nexojornal.com.br/extra/2023/11/01/Controladora-da-Starbucks-no-Brasil-pede-recupera%C3%A7%C3%A3o-judicial)
-- [TSE torna Bolsonaro e Braga Netto inelegíveis por 7 de setembro](https://www.nexojornal.com.br/extra/2023/11/01/TSE-torna-Bolsonaro-e-Braga-Netto-ineleg%C3%ADveis-por-7-de-setembro)
-- [Primeiros civis deixam Gaza pela fronteira com Egito](https://www.nexojornal.com.br/extra/2023/11/01/Primeiros-civis-deixam-Gaza-pela-fronteira-com-Egito)
 - [‘Ouvir e olhar nos olhos são os maiores atributos do médico’](https://www.nexojornal.com.br/profissoes/2023/10/31/%E2%80%98Ouvir-e-olhar-nos-olhos-s%C3%A3o-os-maiores-atributos-do-m%C3%A9dico%E2%80%99)
+- [Como podemos identificar os limites da guerra](https://www.nexojornal.com.br/ensaio/2023/10/31/Como-podemos-identificar-os-limites-da-guerra)
+- [Qual o papel do Qatar na intermediação entre Hamas e Israel](https://www.nexojornal.com.br/expresso/2023/10/31/Qual-o-papel-do-Qatar-na-intermedia%C3%A7%C3%A3o-entre-Hamas-e-Israel)
+- [Vacina contra a covid será anual para grupos prioritários](https://www.nexojornal.com.br/extra/2023/10/31/Vacina-contra-a-covid-ser%C3%A1-anual-para-grupos-priorit%C3%A1rios)
+- [De onde vem a pressão em torno do deficit zero de Haddad](https://www.nexojornal.com.br/expresso/2023/10/31/De-onde-vem-a-press%C3%A3o-em-torno-do-deficit-zero-de-Haddad)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
