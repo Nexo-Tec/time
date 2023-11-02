@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula anuncia GLO para reforçar segurança no Rio e em São Paulo](https://www.nexojornal.com.br/extra/2023/11/01/Lula-anuncia-GLO-para-refor%C3%A7ar-seguran%C3%A7a-no-Rio-e-em-S%C3%A3o-Paulo)
-- [Fuga de Gaza: a corrida de civis para deixar a zona de guerra](https://www.nexojornal.com.br/podcast/2023/11/01/Fuga-de-Gaza-a-corrida-de-civis-para-deixar-a-zona-de-guerra)
-- [Banco Central corta taxa básica de juros para 12,25% ao ano](https://www.nexojornal.com.br/extra/2023/11/01/Banco-Central-corta-taxa-b%C3%A1sica-de-juros-para-1225-ao-ano)
-- [As pesquisas em busca de reparação histórica da escravidão](https://www.nexojornal.com.br/externo/2023/11/01/As-pesquisas-em-busca-de-repara%C3%A7%C3%A3o-hist%C3%B3rica-da-escravid%C3%A3o)
 - [Câmara dos Deputados aprova criação de bancada negra](https://www.nexojornal.com.br/extra/2023/11/01/C%C3%A2mara-dos-Deputados-aprova-cria%C3%A7%C3%A3o-de-bancada-negra)
+- [Controladora da Starbucks no Brasil pede recuperação judicial](https://www.nexojornal.com.br/extra/2023/11/01/Controladora-da-Starbucks-no-Brasil-pede-recupera%C3%A7%C3%A3o-judicial)
+- [TSE torna Bolsonaro e Braga Netto inelegíveis por 7 de setembro](https://www.nexojornal.com.br/extra/2023/11/01/TSE-torna-Bolsonaro-e-Braga-Netto-ineleg%C3%ADveis-por-7-de-setembro)
+- [Primeiros civis deixam Gaza pela fronteira com Egito](https://www.nexojornal.com.br/extra/2023/11/01/Primeiros-civis-deixam-Gaza-pela-fronteira-com-Egito)
+- [‘Ouvir e olhar nos olhos são os maiores atributos do médico’](https://www.nexojornal.com.br/profissoes/2023/10/31/%E2%80%98Ouvir-e-olhar-nos-olhos-s%C3%A3o-os-maiores-atributos-do-m%C3%A9dico%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
