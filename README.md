@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula anuncia GLO para reforçar segurança no Rio e em São Paulo](https://www.nexojornal.com.br/extra/2023/11/01/Lula-anuncia-GLO-para-refor%C3%A7ar-seguran%C3%A7a-no-Rio-e-em-S%C3%A3o-Paulo)
-- [Fuga de Gaza: a corrida de civis para deixar a zona de guerra](https://www.nexojornal.com.br/podcast/2023/11/01/Fuga-de-Gaza-a-corrida-de-civis-para-deixar-a-zona-de-guerra)
-- [Banco Central corta taxa básica de juros para 12,25% ao ano](https://www.nexojornal.com.br/extra/2023/11/01/Banco-Central-corta-taxa-b%C3%A1sica-de-juros-para-1225-ao-ano)
-- [As pesquisas em busca de reparação histórica da escravidão](https://www.nexojornal.com.br/externo/2023/11/01/As-pesquisas-em-busca-de-repara%C3%A7%C3%A3o-hist%C3%B3rica-da-escravid%C3%A3o)
-- [Câmara dos Deputados aprova criação de bancada negra](https://www.nexojornal.com.br/extra/2023/11/01/C%C3%A2mara-dos-Deputados-aprova-cria%C3%A7%C3%A3o-de-bancada-negra)
+- [Brasileiros que estavam na Cisjordânia são repatriados](https://www.nexojornal.com.br/extra/2023/11/02/Brasileiros-que-estavam-na-Cisjord%C3%A2nia-s%C3%A3o-repatriados)
+- [3 fatores que podem afetar o ritmo de queda dos juros](https://www.nexojornal.com.br/expresso/2023/11/01/3-fatores-que-podem-afetar-o-ritmo-de-queda-dos-juros)
+- [Por que o Brasil não é a Argentina?](https://www.nexojornal.com.br/colunistas/2023/Por-que-o-Brasil-n%C3%A3o-%C3%A9-a-Argentina)
+- [Braga Netto está inelegível: o que mais pesa contra o general](https://www.nexojornal.com.br/expresso/2023/11/01/Braga-Netto-est%C3%A1-ineleg%C3%ADvel-o-que-mais-pesa-contra-o-general)
+- [Houtis: quem é o grupo iemenita que declarou guerra a Israel](https://www.nexojornal.com.br/expresso/2023/11/01/Houtis-quem-%C3%A9-o-grupo-iemenita-que-declarou-guerra-a-Israel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
