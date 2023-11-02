@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [3 fatores que podem afetar o ritmo de queda dos juros](https://www.nexojornal.com.br/expresso/2023/11/01/3-fatores-que-podem-afetar-o-ritmo-de-queda-dos-juros)
-- [Por que o Brasil não é a Argentina?](https://www.nexojornal.com.br/colunistas/2023/Por-que-o-Brasil-n%C3%A3o-%C3%A9-a-Argentina)
-- [Braga Netto está inelegível: o que mais pesa contra o general](https://www.nexojornal.com.br/expresso/2023/11/01/Braga-Netto-est%C3%A1-ineleg%C3%ADvel-o-que-mais-pesa-contra-o-general)
-- [Houtis: quem é o grupo iemenita que declarou guerra a Israel](https://www.nexojornal.com.br/expresso/2023/11/01/Houtis-quem-%C3%A9-o-grupo-iemenita-que-declarou-guerra-a-Israel)
-- [Como o gênero é tratado nas Políticas Externas Feministas](https://www.nexojornal.com.br/academico/2023/11/01/Como-o-g%C3%AAnero-%C3%A9-tratado-nas-Pol%C3%ADticas-Externas-Feministas)
+- [Câmara dos Deputados aprova criação de bancada negra](https://www.nexojornal.com.br/extra/2023/11/01/C%C3%A2mara-dos-Deputados-aprova-cria%C3%A7%C3%A3o-de-bancada-negra)
+- [Controladora da Starbucks no Brasil pede recuperação judicial](https://www.nexojornal.com.br/extra/2023/11/01/Controladora-da-Starbucks-no-Brasil-pede-recupera%C3%A7%C3%A3o-judicial)
+- [TSE torna Bolsonaro e Braga Netto inelegíveis por 7 de setembro](https://www.nexojornal.com.br/extra/2023/11/01/TSE-torna-Bolsonaro-e-Braga-Netto-ineleg%C3%ADveis-por-7-de-setembro)
+- [Primeiros civis deixam Gaza pela fronteira com Egito](https://www.nexojornal.com.br/extra/2023/11/01/Primeiros-civis-deixam-Gaza-pela-fronteira-com-Egito)
+- [‘Ouvir e olhar nos olhos são os maiores atributos do médico’](https://www.nexojornal.com.br/profissoes/2023/10/31/%E2%80%98Ouvir-e-olhar-nos-olhos-s%C3%A3o-os-maiores-atributos-do-m%C3%A9dico%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
