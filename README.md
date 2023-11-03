@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Brasileiros que estavam na Cisjordânia são repatriados](https://www.nexojornal.com.br/extra/2023/11/02/Brasileiros-que-estavam-na-Cisjord%C3%A2nia-s%C3%A3o-repatriados)
-- [3 fatores que podem afetar o ritmo de queda dos juros](https://www.nexojornal.com.br/expresso/2023/11/01/3-fatores-que-podem-afetar-o-ritmo-de-queda-dos-juros)
-- [Por que o Brasil não é a Argentina?](https://www.nexojornal.com.br/colunistas/2023/Por-que-o-Brasil-n%C3%A3o-%C3%A9-a-Argentina)
-- [Braga Netto está inelegível: o que mais pesa contra o general](https://www.nexojornal.com.br/expresso/2023/11/01/Braga-Netto-est%C3%A1-ineleg%C3%ADvel-o-que-mais-pesa-contra-o-general)
-- [Houtis: quem é o grupo iemenita que declarou guerra a Israel](https://www.nexojornal.com.br/expresso/2023/11/01/Houtis-quem-%C3%A9-o-grupo-iemenita-que-declarou-guerra-a-Israel)
+- [3 caminhos para ensinar sobre as mudanças do clima](https://www.nexojornal.com.br/expresso/2023/11/02/3-caminhos-para-ensinar-sobre-as-mudan%C3%A7as-do-clima)
+- [A segregação da cidade por Joice Berth e Lilia Guerra](https://www.nexojornal.com.br/colunistas/2023/A-segrega%C3%A7%C3%A3o-da-cidade-por-Joice-Berth-e-Lilia-Guerra)
+- [O fratricídio político dos irmãos Gomes. E os rumos do PDT](https://www.nexojornal.com.br/expresso/2023/11/02/O-fratric%C3%ADdio-pol%C3%ADtico-dos-irm%C3%A3os-Gomes.-E-os-rumos-do-PDT)
+- [‘Polícias do Rio criam agentes para organizações criminosas’](https://www.nexojornal.com.br/entrevista/2023/11/02/%E2%80%98Pol%C3%ADcias-do-Rio-criam-agentes-para-organiza%C3%A7%C3%B5es-criminosas%E2%80%99)
+- [Tropas israelenses cercam cidade mais populosa de Gaza](https://www.nexojornal.com.br/extra/2023/11/02/Tropas-israelenses-cercam-cidade-mais-populosa-de-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
