@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Mulher em Mim](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-mulher-em-mim/)
 - [“Fim”, nova série do Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fim-nova-serie-do-globoplay/)
 - [“Café com Dona Jacira”, o podcast da mãe de Emicida e Fióti](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/cafe-com-dona-jacira-o-podcast-da-mae-de-emicida-e-fioti/)
 - [“Mussum, o Filmis”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/mussum-o-filmis/)
 - [As imagens da Amazônia por Hiromi Nagakura com Ailton Krenak](https://gamarevista.uol.com.br/achamos-que-vale/ir/as-imagens-da-amazonia-por-hiromi-nagakura-com-ailton-krenak/)
-- [Seminário sobre branquitude e clima](https://gamarevista.uol.com.br/achamos-que-vale/ir/seminario-sobre-branquitude-e-clima/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
