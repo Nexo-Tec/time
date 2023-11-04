@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A invasão terrestre em Gaza. O ciclo de corte nos juros. E mais](https://www.nexojornal.com.br/video/extrato/A-invas%C3%A3o-terrestre-em-Gaza.-O-ciclo-de-corte-nos-juros.-E-mais)
-- [Israel bombardeia comboio de ambulâncias em Gaza](https://www.nexojornal.com.br/extra/2023/11/03/Israel-bombardeia-comboio-de-ambul%C3%A2ncias-em-Gaza)
-- [‘As flores do bem’: sobre descriminalizar a maconha](https://www.nexojornal.com.br/estante/trechos/2023/11/03/%E2%80%98As-flores-do-bem%E2%80%99-sobre-descriminalizar-a-maconha)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/11/03/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
-- [Marco Lucchesi: o poeta de fronteiras](https://www.nexojornal.com.br/externo/2023/11/03/Marco-Lucchesi-o-poeta-de-fronteiras)
+- [3 caminhos para ensinar sobre as mudanças do clima](https://www.nexojornal.com.br/expresso/2023/11/02/3-caminhos-para-ensinar-sobre-as-mudan%C3%A7as-do-clima)
+- [A segregação da cidade por Joice Berth e Lilia Guerra](https://www.nexojornal.com.br/colunistas/2023/A-segrega%C3%A7%C3%A3o-da-cidade-por-Joice-Berth-e-Lilia-Guerra)
+- [O fratricídio político dos irmãos Gomes. E os rumos do PDT](https://www.nexojornal.com.br/expresso/2023/11/02/O-fratric%C3%ADdio-pol%C3%ADtico-dos-irm%C3%A3os-Gomes.-E-os-rumos-do-PDT)
+- [‘Polícias do Rio criam agentes para organizações criminosas’](https://www.nexojornal.com.br/entrevista/2023/11/02/%E2%80%98Pol%C3%ADcias-do-Rio-criam-agentes-para-organiza%C3%A7%C3%B5es-criminosas%E2%80%99)
+- [Tropas israelenses cercam cidade mais populosa de Gaza](https://www.nexojornal.com.br/extra/2023/11/02/Tropas-israelenses-cercam-cidade-mais-populosa-de-Gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
