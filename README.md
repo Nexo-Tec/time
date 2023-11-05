@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fluminense bate Boca Juniors e conquista 1ª Copa Libertadores](https://www.nexojornal.com.br/extra/2023/11/04/Fluminense-bate-Boca-Juniors-e-conquista-1%C2%AA-Copa-Libertadores)
-- [Chuvas matam 6 em São Paulo e derrubam luz na capital](https://www.nexojornal.com.br/extra/2023/11/04/Chuvas-matam-6-em-S%C3%A3o-Paulo-e-derrubam-luz-na-capital)
 - [A invasão terrestre em Gaza. O ciclo de corte nos juros. E mais](https://www.nexojornal.com.br/video/extrato/A-invas%C3%A3o-terrestre-em-Gaza.-O-ciclo-de-corte-nos-juros.-E-mais)
 - [Israel bombardeia comboio de ambulâncias em Gaza](https://www.nexojornal.com.br/extra/2023/11/03/Israel-bombardeia-comboio-de-ambul%C3%A2ncias-em-Gaza)
 - [‘As flores do bem’: sobre descriminalizar a maconha](https://www.nexojornal.com.br/estante/trechos/2023/11/03/%E2%80%98As-flores-do-bem%E2%80%99-sobre-descriminalizar-a-maconha)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2023/11/03/3-boatos-verificados-esta-semana-para-voc%C3%AA-ficar-de-olho)
+- [Marco Lucchesi: o poeta de fronteiras](https://www.nexojornal.com.br/externo/2023/11/03/Marco-Lucchesi-o-poeta-de-fronteiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
