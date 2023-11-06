@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como lidar com crianças que só dizem ‘não’](https://www.nexojornal.com.br/externo/2023/11/05/Como-lidar-com-crian%C3%A7as-que-s%C3%B3-dizem-%E2%80%98n%C3%A3o%E2%80%99)
-- [5 livros de contos latino-americanos contemporâneos](https://www.nexojornal.com.br/estante/favoritos/2023/11/05/5-livros-de-contos-latino-americanos-contempor%C3%A2neos)
-- [O potencial e os riscos da aposta de São Paulo no retrofit](https://www.nexojornal.com.br/expresso/2023/11/05/O-potencial-e-os-riscos-da-aposta-de-S%C3%A3o-Paulo-no-retrofit)
-- [Albert Camus, jornalista: chave de reinterpretação](https://www.nexojornal.com.br/ensaio/2023/11/05/Albert-Camus-jornalista-chave-de-reinterpreta%C3%A7%C3%A3o)
-- [Como o conflito no Oriente Médio impacta a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2023/11/05/Como-o-conflito-no-Oriente-M%C3%A9dio-impacta-a-guerra-na-Ucr%C3%A2nia)
+- [A valorização de professores, das palavras à ação](https://www.nexojornal.com.br/ensaio/2023/11/05/A-valoriza%C3%A7%C3%A3o-de-professores-das-palavras-%C3%A0-a%C3%A7%C3%A3o)
+- [‘Sempre amei estar em contato com natureza, gente e histórias’](https://www.nexojornal.com.br/profissoes/2023/11/05/%E2%80%98Sempre-amei-estar-em-contato-com-natureza-gente-e-hist%C3%B3rias%E2%80%99)
+- [A atuação de Rodrigo Pacheco no comando do Senado em 2023](https://www.nexojornal.com.br/expresso/2023/11/05/A-atua%C3%A7%C3%A3o-de-Rodrigo-Pacheco-no-comando-do-Senado-em-2023)
+- [Invisibilidade do trabalho feminino pauta redação do Enem](https://www.nexojornal.com.br/extra/2023/11/05/Invisibilidade-do-trabalho-feminino-pauta-reda%C3%A7%C3%A3o-do-Enem)
+- [Egito suspende saídas de Gaza. Brasileiros continuam lá](https://www.nexojornal.com.br/extra/2023/11/05/Egito-suspende-sa%C3%ADdas-de-Gaza.-Brasileiros-continuam-l%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
