@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como lidar com crianças que só dizem ‘não’](https://www.nexojornal.com.br/externo/2023/11/05/Como-lidar-com-crian%C3%A7as-que-s%C3%B3-dizem-%E2%80%98n%C3%A3o%E2%80%99)
-- [5 livros de contos latino-americanos contemporâneos](https://www.nexojornal.com.br/estante/favoritos/2023/11/05/5-livros-de-contos-latino-americanos-contempor%C3%A2neos)
-- [O potencial e os riscos da aposta de São Paulo no retrofit](https://www.nexojornal.com.br/expresso/2023/11/05/O-potencial-e-os-riscos-da-aposta-de-S%C3%A3o-Paulo-no-retrofit)
-- [Albert Camus, jornalista: chave de reinterpretação](https://www.nexojornal.com.br/ensaio/2023/11/05/Albert-Camus-jornalista-chave-de-reinterpreta%C3%A7%C3%A3o)
-- [Como o conflito no Oriente Médio impacta a guerra na Ucrânia](https://www.nexojornal.com.br/expresso/2023/11/05/Como-o-conflito-no-Oriente-M%C3%A9dio-impacta-a-guerra-na-Ucr%C3%A2nia)
+- [Fluminense bate Boca Juniors e conquista 1ª Copa Libertadores](https://www.nexojornal.com.br/extra/2023/11/04/Fluminense-bate-Boca-Juniors-e-conquista-1%C2%AA-Copa-Libertadores)
+- [Chuvas matam 6 em São Paulo e derrubam luz na capital](https://www.nexojornal.com.br/extra/2023/11/04/Chuvas-matam-6-em-S%C3%A3o-Paulo-e-derrubam-luz-na-capital)
+- [A invasão terrestre em Gaza. O ciclo de corte nos juros. E mais](https://www.nexojornal.com.br/video/extrato/A-invas%C3%A3o-terrestre-em-Gaza.-O-ciclo-de-corte-nos-juros.-E-mais)
+- [Israel bombardeia comboio de ambulâncias em Gaza](https://www.nexojornal.com.br/extra/2023/11/03/Israel-bombardeia-comboio-de-ambul%C3%A2ncias-em-Gaza)
+- [‘As flores do bem’: sobre descriminalizar a maconha](https://www.nexojornal.com.br/estante/trechos/2023/11/03/%E2%80%98As-flores-do-bem%E2%80%99-sobre-descriminalizar-a-maconha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
