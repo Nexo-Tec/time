@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dizer “frutado” é dizer pouco](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/dizer-frutado-e-dizer-pouco/)
 - [@blogueirinha](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/blogueirinha/)
 - [Helena Rizzo: “Como as pessoas constroem a tua imagem diz mais respeito a elas do que a ti”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/helena-rizzo-masterchef-mani-imagem-publica/)
 - [Um protesto nada tímido](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/um-protesto-nada-timido/)
 - [A Mulher em Mim](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-mulher-em-mim/)
-- [“Fim”, nova série do Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fim-nova-serie-do-globoplay/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
