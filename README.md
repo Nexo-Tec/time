@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como IA e as redes sociais podem ajudar a preservar corais](https://www.nexojornal.com.br/expresso/2023/11/06/Como-IA-e-as-redes-sociais-podem-ajudar-a-preservar-corais)
-- [A valorização de professores, das palavras à ação](https://www.nexojornal.com.br/ensaio/2023/11/05/A-valoriza%C3%A7%C3%A3o-de-professores-das-palavras-%C3%A0-a%C3%A7%C3%A3o)
-- [‘Sempre amei estar em contato com natureza, gente e histórias’](https://www.nexojornal.com.br/profissoes/2023/11/05/%E2%80%98Sempre-amei-estar-em-contato-com-natureza-gente-e-hist%C3%B3rias%E2%80%99)
-- [A atuação de Rodrigo Pacheco no comando do Senado em 2023](https://www.nexojornal.com.br/expresso/2023/11/05/A-atua%C3%A7%C3%A3o-de-Rodrigo-Pacheco-no-comando-do-Senado-em-2023)
-- [Invisibilidade do trabalho feminino pauta redação do Enem](https://www.nexojornal.com.br/extra/2023/11/05/Invisibilidade-do-trabalho-feminino-pauta-reda%C3%A7%C3%A3o-do-Enem)
+- [A redação do Enem e a sobrecarga que pesa sobre as mulheres](https://www.nexojornal.com.br/expresso/2023/11/06/A-reda%C3%A7%C3%A3o-do-Enem-e-a-sobrecarga-que-pesa-sobre-as-mulheres)
+- [Os desdobramentos políticos da crise de energia em São Paulo](https://www.nexojornal.com.br/expresso/2023/11/06/Os-desdobramentos-pol%C3%ADticos-da-crise-de-energia-em-S%C3%A3o-Paulo)
+- [Qual o balanço de um mês do conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/11/06/Qual-o-balan%C3%A7o-de-um-m%C3%AAs-do-conflito-Hamas-Israel)
+- [Zelensky descarta realizar eleições enquanto guerra durar](https://www.nexojornal.com.br/extra/2023/11/06/Zelensky-descarta-realizar-elei%C3%A7%C3%B5es-enquanto-guerra-durar)
+- [A volta parcial das Forças Armadas à segurança pública](https://www.nexojornal.com.br/podcast/2023/11/06/A-volta-parcial-das-For%C3%A7as-Armadas-%C3%A0-seguran%C3%A7a-p%C3%BAblica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
