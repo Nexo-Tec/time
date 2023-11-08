@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Mais de 10 mil chegam ao sexto dia sem luz em São Paulo](https://www.nexojornal.com.br/extra/2023/11/08/Mais-de-10-mil-chegam-ao-sexto-dia-sem-luz-em-S%C3%A3o-Paulo)
-- [Nova lista frustra Itamaraty e brasileiros continuam em Gaza](https://www.nexojornal.com.br/extra/2023/11/08/Nova-lista-frustra-Itamaraty-e-brasileiros-continuam-em-Gaza)
-- [Como adaptar a estrutura das cidades ao clima extremo](https://www.nexojornal.com.br/expresso/2023/11/07/Como-adaptar-a-estrutura-das-cidades-ao-clima-extremo)
-- [Os 10 anos de ‘Sapiens’, entre o sucesso e as críticas](https://www.nexojornal.com.br/expresso/2023/11/07/Os-10-anos-de-%E2%80%98Sapiens%E2%80%99-entre-o-sucesso-e-as-cr%C3%ADticas)
-- [As suspeitas que derrubaram o primeiro-ministro de Portugal](https://www.nexojornal.com.br/expresso/2023/11/07/As-suspeitas-que-derrubaram-o-primeiro-ministro-de-Portugal)
+- [Alvo de investigação, primeiro-ministro de Portugal renuncia](https://www.nexojornal.com.br/extra/2023/11/07/Alvo-de-investiga%C3%A7%C3%A3o-primeiro-ministro-de-Portugal-renuncia)
+- [‘As redes sociais alimentam o pior do ser humano por lucro’](https://www.nexojornal.com.br/entrevista/2023/11/07/%E2%80%98As-redes-sociais-alimentam-o-pior-do-ser-humano-por-lucro%E2%80%99)
+- [A redação do Enem e a sobrecarga que pesa sobre as mulheres](https://www.nexojornal.com.br/expresso/2023/11/06/A-reda%C3%A7%C3%A3o-do-Enem-e-a-sobrecarga-que-pesa-sobre-as-mulheres)
+- [Os desdobramentos políticos da crise de energia em São Paulo](https://www.nexojornal.com.br/expresso/2023/11/06/Os-desdobramentos-pol%C3%ADticos-da-crise-de-energia-em-S%C3%A3o-Paulo)
+- [Qual o balanço de um mês do conflito Hamas-Israel](https://www.nexojornal.com.br/expresso/2023/11/06/Qual-o-balan%C3%A7o-de-um-m%C3%AAs-do-conflito-Hamas-Israel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
