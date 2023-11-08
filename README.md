@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Produção de carnes e bem-estar animal](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/07/Produ%C3%A7%C3%A3o-de-carnes-e-bem-estar-animal)
+- [A cobertura das políticas públicas ambientais e as pautas de urgência](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cobertura-das-pol%C3%ADticas-p%C3%BAblicas-ambientais-e-as-pautas-de-urg%C3%AAncia)
+- [Equipes multiprofissionais &lpar;eMulti&rpar;: potencialidades e desafios para a ampliação da atenção primária à saúde no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/11/07/Equipes-multiprofissionais-eMulti-potencialidades-e-desafios-para-a-amplia%C3%A7%C3%A3o-da-aten%C3%A7%C3%A3o-prim%C3%A1ria-%C3%A0-sa%C3%BAde-no-Brasil)
+- [Agosto sanguinário: mortes de crianças e adolescentes no Rio de Janeiro aumentam exponencialmente entre 2022 e 2023](https://pp.nexojornal.com.br/opiniao/2023/Agosto-sanguin%C3%A1rio-mortes-de-crian%C3%A7as-e-adolescentes-no-Rio-de-Janeiro-aumentam-exponencialmente-entre-2022-e-2023)
 - [Pensamento negro brasileiro](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/02/Pensamento-negro-brasileiro)
-- [Antropologia e Direitos Humanos](https://pp.nexojornal.com.br/bibliografia-basica/2023/10/31/Antropologia-e-Direitos-Humanos)
-- [Animais no Direito: transformações morais e marcos regulatórios](https://pp.nexojornal.com.br/linha-do-tempo/2023/Animais-no-Direito-transforma%C3%A7%C3%B5es-morais-e-marcos-regulat%C3%B3rios)
-- [Como lidar com o desmatamento em assentamentos rurais na Amazônia, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Como-lidar-com-o-desmatamento-em-assentamentos-rurais-na-Amaz%C3%B4nia-em-5-pontos)
-- [Marina Hirota: ponto de não retorno e sua relação com a Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/10/25/Marina-Hirota-ponto-de-n%C3%A3o-retorno-e-sua-rela%C3%A7%C3%A3o-com-a-Amaz%C3%B4nia)
 <!-- PP_LIST:END -->
 
