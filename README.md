@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Carolina Levis: conhecimentos ecológicos indígenas e a sustentabilidade florestal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/11/08/Carolina-Levis-conhecimentos-ecol%C3%B3gicos-ind%C3%ADgenas-e-a-sustentabilidade-florestal)
 - [Produção de carnes e bem-estar animal](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/07/Produ%C3%A7%C3%A3o-de-carnes-e-bem-estar-animal)
 - [A cobertura das políticas públicas ambientais e as pautas de urgência](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cobertura-das-pol%C3%ADticas-p%C3%BAblicas-ambientais-e-as-pautas-de-urg%C3%AAncia)
 - [Equipes multiprofissionais &lpar;eMulti&rpar;: potencialidades e desafios para a ampliação da atenção primária à saúde no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/11/07/Equipes-multiprofissionais-eMulti-potencialidades-e-desafios-para-a-amplia%C3%A7%C3%A3o-da-aten%C3%A7%C3%A3o-prim%C3%A1ria-%C3%A0-sa%C3%BAde-no-Brasil)
 - [Agosto sanguinário: mortes de crianças e adolescentes no Rio de Janeiro aumentam exponencialmente entre 2022 e 2023](https://pp.nexojornal.com.br/opiniao/2023/Agosto-sanguin%C3%A1rio-mortes-de-crian%C3%A7as-e-adolescentes-no-Rio-de-Janeiro-aumentam-exponencialmente-entre-2022-e-2023)
+- [Pensamento negro brasileiro](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/02/Pensamento-negro-brasileiro)
 <!-- PP_LIST:END -->
 
