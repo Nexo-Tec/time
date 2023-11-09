@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Eu respiro fundo e clico no ícone de imagem sensível](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/eu-respiro-fundo-e-clico-no-icone-de-imagem-sensivel/)
 - [Como se iniciar no mundo dos vinhos de Jerez](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-se-iniciar-no-mundo-dos-vinhos-de-jerez/)
 - [Marko Brajovic: “O meu trabalho é trazer a natureza de volta para as grandes capitais”](https://gamarevista.uol.com.br/pessoas/marko-brajovic-o-meu-trabalho-e-trazer-a-natureza-de-volta-para-as-grandes-capitais/)
 - [Mapeando o ensino superior no Brasil](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/mapeando-o-ensino-superior-no-brasil/)
 - [Dizer “frutado” é dizer pouco](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/dizer-frutado-e-dizer-pouco/)
-- [@blogueirinha](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/blogueirinha/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
