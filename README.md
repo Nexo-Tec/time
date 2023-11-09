@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A discriminação e desigualdades na primeira infância](https://www.nexojornal.com.br/expresso/2023/11/08/A-discrimina%C3%A7%C3%A3o-e-desigualdades-na-primeira-inf%C3%A2ncia)
 - [Mais de 10 mil chegam ao sexto dia sem luz em São Paulo](https://www.nexojornal.com.br/extra/2023/11/08/Mais-de-10-mil-chegam-ao-sexto-dia-sem-luz-em-S%C3%A3o-Paulo)
 - [Nova lista frustra Itamaraty e brasileiros continuam em Gaza](https://www.nexojornal.com.br/extra/2023/11/08/Nova-lista-frustra-Itamaraty-e-brasileiros-continuam-em-Gaza)
 - [Como adaptar a estrutura das cidades ao clima extremo](https://www.nexojornal.com.br/expresso/2023/11/07/Como-adaptar-a-estrutura-das-cidades-ao-clima-extremo)
 - [Os 10 anos de ‘Sapiens’, entre o sucesso e as críticas](https://www.nexojornal.com.br/expresso/2023/11/07/Os-10-anos-de-%E2%80%98Sapiens%E2%80%99-entre-o-sucesso-e-as-cr%C3%ADticas)
-- [As suspeitas que derrubaram o primeiro-ministro de Portugal](https://www.nexojornal.com.br/expresso/2023/11/07/As-suspeitas-que-derrubaram-o-primeiro-ministro-de-Portugal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
