@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reforma passa no Senado. Qual o papel de Lula na aprovação](https://www.nexojornal.com.br/expresso/2023/11/08/Reforma-passa-no-Senado.-Qual-o-papel-de-Lula-na-aprova%C3%A7%C3%A3o)
-- [Senado aprova reforma tributária, que volta para Câmara](https://www.nexojornal.com.br/extra/2023/11/08/Senado-aprova-reforma-tribut%C3%A1ria-que-volta-para-C%C3%A2mara)
-- [‘Informação é a melhor forma de combater preconceitos’](https://www.nexojornal.com.br/profissoes/2023/11/08/%E2%80%98Informa%C3%A7%C3%A3o-%C3%A9-a-melhor-forma-de-combater-preconceitos%E2%80%99)
-- [O que é a Autoridade Palestina. E como ela se insere no conflito](https://www.nexojornal.com.br/expresso/2023/11/08/O-que-%C3%A9-a-Autoridade-Palestina.-E-como-ela-se-insere-no-conflito)
-- [Quais são as mudanças transformativas necessárias no Brasil](https://www.nexojornal.com.br/expresso/2023/11/08/Quais-s%C3%A3o-as-mudan%C3%A7as-transformativas-necess%C3%A1rias-no-Brasil)
+- [Mais de 10 mil chegam ao sexto dia sem luz em São Paulo](https://www.nexojornal.com.br/extra/2023/11/08/Mais-de-10-mil-chegam-ao-sexto-dia-sem-luz-em-S%C3%A3o-Paulo)
+- [Nova lista frustra Itamaraty e brasileiros continuam em Gaza](https://www.nexojornal.com.br/extra/2023/11/08/Nova-lista-frustra-Itamaraty-e-brasileiros-continuam-em-Gaza)
+- [Como adaptar a estrutura das cidades ao clima extremo](https://www.nexojornal.com.br/expresso/2023/11/07/Como-adaptar-a-estrutura-das-cidades-ao-clima-extremo)
+- [Os 10 anos de ‘Sapiens’, entre o sucesso e as críticas](https://www.nexojornal.com.br/expresso/2023/11/07/Os-10-anos-de-%E2%80%98Sapiens%E2%80%99-entre-o-sucesso-e-as-cr%C3%ADticas)
+- [As suspeitas que derrubaram o primeiro-ministro de Portugal](https://www.nexojornal.com.br/expresso/2023/11/07/As-suspeitas-que-derrubaram-o-primeiro-ministro-de-Portugal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
