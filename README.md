@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Eu respiro fundo e clico no ícone de imagem sensível](https://gamarevista.uol.com.br/colunistas/luara-calvi-anic-colunistas/eu-respiro-fundo-e-clico-no-icone-de-imagem-sensivel/)
-- [Como se iniciar no mundo dos vinhos de Jerez](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-se-iniciar-no-mundo-dos-vinhos-de-jerez/)
-- [Marko Brajovic: “O meu trabalho é trazer a natureza de volta para as grandes capitais”](https://gamarevista.uol.com.br/pessoas/marko-brajovic-o-meu-trabalho-e-trazer-a-natureza-de-volta-para-as-grandes-capitais/)
-- [Mapeando o ensino superior no Brasil](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/mapeando-o-ensino-superior-no-brasil/)
-- [Dizer “frutado” é dizer pouco](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/dizer-frutado-e-dizer-pouco/)
+- [O show de Vera Holtz em “Tia Virginia”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-de-vera-holtz-em-tia-virginia/)
+- [“Escute as Feras” no teatro](https://gamarevista.uol.com.br/achamos-que-vale/assistir/escute-as-feras-no-teatro/)
+- [“Não Trocaria a Minha Jornada por Nada”, de Maya Angelou](https://gamarevista.uol.com.br/achamos-que-vale/ler/nao-trocaria-a-minha-jornada-por-nada-de-maya-angelou/)
+- [Feira do livro da USP](https://gamarevista.uol.com.br/achamos-que-vale/ir/feira-do-livro-da-usp/)
+- [Três festivais de cinema](https://gamarevista.uol.com.br/achamos-que-vale/ir/tres-festivais-de-cinema/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
