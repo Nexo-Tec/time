@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Celso Amorim chama de genocídio mortes de civis palestinos](https://www.nexojornal.com.br/extra/2023/11/09/Celso-Amorim-chama-de-genoc%C3%ADdio-mortes-de-civis-palestinos)
-- [Meu pet também é contra o aumento de impostos](https://www.nexojornal.com.br/colunistas/2023/Meu-pet-tamb%C3%A9m-%C3%A9-contra-o-aumento-de-impostos)
-- [Como o Brasil pode aproveitar a corrida da inteligência artificial](https://www.nexojornal.com.br/expresso/2023/11/09/Como-o-Brasil-pode-aproveitar-a-corrida-da-intelig%C3%AAncia-artificial)
-- [Atores de Hollywood encerram greve após 118 dias](https://www.nexojornal.com.br/extra/2023/11/09/Atores-de-Hollywood-encerram-greve-ap%C3%B3s-118-dias)
-- [Reforma passa no Senado. Qual o papel de Lula na aprovação](https://www.nexojornal.com.br/expresso/2023/11/08/Reforma-passa-no-Senado.-Qual-o-papel-de-Lula-na-aprova%C3%A7%C3%A3o)
+- [A discriminação e desigualdades na primeira infância](https://www.nexojornal.com.br/expresso/2023/11/08/A-discrimina%C3%A7%C3%A3o-e-desigualdades-na-primeira-inf%C3%A2ncia)
+- [Mais de 10 mil chegam ao sexto dia sem luz em São Paulo](https://www.nexojornal.com.br/extra/2023/11/08/Mais-de-10-mil-chegam-ao-sexto-dia-sem-luz-em-S%C3%A3o-Paulo)
+- [Nova lista frustra Itamaraty e brasileiros continuam em Gaza](https://www.nexojornal.com.br/extra/2023/11/08/Nova-lista-frustra-Itamaraty-e-brasileiros-continuam-em-Gaza)
+- [Como adaptar a estrutura das cidades ao clima extremo](https://www.nexojornal.com.br/expresso/2023/11/07/Como-adaptar-a-estrutura-das-cidades-ao-clima-extremo)
+- [Os 10 anos de ‘Sapiens’, entre o sucesso e as críticas](https://www.nexojornal.com.br/expresso/2023/11/07/Os-10-anos-de-%E2%80%98Sapiens%E2%80%99-entre-o-sucesso-e-as-cr%C3%ADticas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
