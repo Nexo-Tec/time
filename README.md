@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Apagão, descaso e “questão arbórea”](https://gamarevista.uol.com.br/colunistas/marilene-felinto/apagao-descaso-e-questao-arborea/)
 - [Os Invisíveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-invisiveis/)
 - [O show de Vera Holtz em “Tia Virginia”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-de-vera-holtz-em-tia-virginia/)
 - [“Escute as Feras” no teatro](https://gamarevista.uol.com.br/achamos-que-vale/assistir/escute-as-feras-no-teatro/)
 - [“Não Trocaria a Minha Jornada por Nada”, de Maya Angelou](https://gamarevista.uol.com.br/achamos-que-vale/ler/nao-trocaria-a-minha-jornada-por-nada-de-maya-angelou/)
-- [Feira do livro da USP](https://gamarevista.uol.com.br/achamos-que-vale/ir/feira-do-livro-da-usp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
