@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reforma passa no Senado. Qual o papel de Lula na aprovação](https://www.nexojornal.com.br/expresso/2023/11/08/Reforma-passa-no-Senado.-Qual-o-papel-de-Lula-na-aprova%C3%A7%C3%A3o)
-- [Senado aprova reforma tributária, que volta para Câmara](https://www.nexojornal.com.br/extra/2023/11/08/Senado-aprova-reforma-tribut%C3%A1ria-que-volta-para-C%C3%A2mara)
-- [‘Informação é a melhor forma de combater preconceitos’](https://www.nexojornal.com.br/profissoes/2023/11/08/%E2%80%98Informa%C3%A7%C3%A3o-%C3%A9-a-melhor-forma-de-combater-preconceitos%E2%80%99)
-- [O que é a Autoridade Palestina. E como ela se insere no conflito](https://www.nexojornal.com.br/expresso/2023/11/08/O-que-%C3%A9-a-Autoridade-Palestina.-E-como-ela-se-insere-no-conflito)
-- [Quais são as mudanças transformativas necessárias no Brasil](https://www.nexojornal.com.br/expresso/2023/11/08/Quais-s%C3%A3o-as-mudan%C3%A7as-transformativas-necess%C3%A1rias-no-Brasil)
+- [O acordo do governo espanhol com separatistas catalães](https://www.nexojornal.com.br/expresso/2023/11/09/O-acordo-do-governo-espanhol-com-separatistas-catal%C3%A3es)
+- [Um guia para entender a reforma tributária visualmente](https://www.nexojornal.com.br/grafico/2023/11/09/Um-guia-para-entender-a-reforma-tribut%C3%A1ria-visualmente)
+- [As características do documentário militante brasileiro](https://www.nexojornal.com.br/academico/2023/11/09/As-caracter%C3%ADsticas-do-document%C3%A1rio-militante-brasileiro)
+- [A guerra do Oriente Médio na disputa política do Brasil](https://www.nexojornal.com.br/podcast/2023/11/09/A-guerra-do-Oriente-M%C3%A9dio-na-disputa-pol%C3%ADtica-do-Brasil)
+- [Presidente de Portugal anuncia dissolução do parlamento](https://www.nexojornal.com.br/extra/2023/11/09/Presidente-de-Portugal-anuncia-dissolu%C3%A7%C3%A3o-do-parlamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
