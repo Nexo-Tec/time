@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Nexo utiliza o Adobe Illustrator em seus gráficos](https://www.nexojornal.com.br/grafico/2023/11/10/Como-o-Nexo-utiliza-o-Adobe-Illustrator-em-seus-gr%C3%A1ficos)
-- [Ex-sócio diz que Flávio ficou com R$ 619 mil em dinheiro vivo](https://www.nexojornal.com.br/extra/2023/11/10/Ex-s%C3%B3cio-diz-que-Fl%C3%A1vio-ficou-com-R-619-mil-em-dinheiro-vivo)
-- [Como um podcast reverteu condenações criminais no Paraná](https://www.nexojornal.com.br/expresso/2023/11/10/Como-um-podcast-reverteu-condena%C3%A7%C3%B5es-criminais-no-Paran%C3%A1)
 - [Prêmio Jabuti barra obra com capa criada com ajuda de IA](https://www.nexojornal.com.br/extra/2023/11/10/Pr%C3%AAmio-Jabuti-barra-obra-com-capa-criada-com-ajuda-de-IA)
 - [Como a reforma tributária pode reduzir desigualdades](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-reforma-tribut%C3%A1ria-pode-reduzir-desigualdades)
+- [Puxada por passagens aéreas, inflação sobe 0,24% em outubro](https://www.nexojornal.com.br/extra/2023/11/10/Puxada-por-passagens-a%C3%A9reas-infla%C3%A7%C3%A3o-sobe-024-em-outubro)
+- [Após incluir brasileiros em lista, Egito fecha fronteira](https://www.nexojornal.com.br/extra/2023/11/10/Ap%C3%B3s-incluir-brasileiros-em-lista-Egito-fecha-fronteira1)
+- [O acordo do governo espanhol com separatistas catalães](https://www.nexojornal.com.br/expresso/2023/11/09/O-acordo-do-governo-espanhol-com-separatistas-catal%C3%A3es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
