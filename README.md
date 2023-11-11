@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A ordem do capital’: os mecanismos de coerção do sistema](https://www.nexojornal.com.br/estante/trechos/2023/11/10/%E2%80%98A-ordem-do-capital%E2%80%99-os-mecanismos-de-coer%C3%A7%C3%A3o-do-sistema)
-- [‘Pessoas negras são posicionadas como imunes à dor’](https://www.nexojornal.com.br/entrevista/2023/11/10/%E2%80%98Pessoas-negras-s%C3%A3o-posicionadas-como-imunes-%C3%A0-dor%E2%80%99)
-- [Como a IA ajudou a decifrar pergaminhos carbonizados](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-IA-ajudou-a-decifrar-pergaminhos-carbonizados)
-- [As mães acusadas de sequestro ao fugirem de abusos no exterior](https://www.nexojornal.com.br/externo/2023/11/10/As-m%C3%A3es-acusadas-de-sequestro-ao-fugirem-de-abusos-no-exterior)
-- [Exceções: a reforma tributária entre o lobby e a viabilidade](https://www.nexojornal.com.br/expresso/2023/11/10/Exce%C3%A7%C3%B5es-a-reforma-tribut%C3%A1ria-entre-o-lobby-e-a-viabilidade)
+- [Prêmio Jabuti barra obra com capa criada com ajuda de IA](https://www.nexojornal.com.br/extra/2023/11/10/Pr%C3%AAmio-Jabuti-barra-obra-com-capa-criada-com-ajuda-de-IA)
+- [Como a reforma tributária pode reduzir desigualdades](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-reforma-tribut%C3%A1ria-pode-reduzir-desigualdades)
+- [Puxada por passagens aéreas, inflação sobe 0,24% em outubro](https://www.nexojornal.com.br/extra/2023/11/10/Puxada-por-passagens-a%C3%A9reas-infla%C3%A7%C3%A3o-sobe-024-em-outubro)
+- [Após incluir brasileiros em lista, Egito fecha fronteira](https://www.nexojornal.com.br/extra/2023/11/10/Ap%C3%B3s-incluir-brasileiros-em-lista-Egito-fecha-fronteira1)
+- [O acordo do governo espanhol com separatistas catalães](https://www.nexojornal.com.br/expresso/2023/11/09/O-acordo-do-governo-espanhol-com-separatistas-catal%C3%A3es)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
