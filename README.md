@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Prêmio Jabuti barra obra com capa criada com ajuda de IA](https://www.nexojornal.com.br/extra/2023/11/10/Pr%C3%AAmio-Jabuti-barra-obra-com-capa-criada-com-ajuda-de-IA)
+- [Como a reforma tributária pode reduzir desigualdades](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-reforma-tribut%C3%A1ria-pode-reduzir-desigualdades)
+- [Puxada por passagens aéreas, inflação sobe 0,24% em outubro](https://www.nexojornal.com.br/extra/2023/11/10/Puxada-por-passagens-a%C3%A9reas-infla%C3%A7%C3%A3o-sobe-024-em-outubro)
+- [Após incluir brasileiros em lista, Egito fecha fronteira](https://www.nexojornal.com.br/extra/2023/11/10/Ap%C3%B3s-incluir-brasileiros-em-lista-Egito-fecha-fronteira1)
 - [O acordo do governo espanhol com separatistas catalães](https://www.nexojornal.com.br/expresso/2023/11/09/O-acordo-do-governo-espanhol-com-separatistas-catal%C3%A3es)
-- [Um guia para entender a reforma tributária visualmente](https://www.nexojornal.com.br/grafico/2023/11/09/Um-guia-para-entender-a-reforma-tribut%C3%A1ria-visualmente)
-- [As características do documentário militante brasileiro](https://www.nexojornal.com.br/academico/2023/11/09/As-caracter%C3%ADsticas-do-document%C3%A1rio-militante-brasileiro)
-- [A guerra do Oriente Médio na disputa política do Brasil](https://www.nexojornal.com.br/podcast/2023/11/09/A-guerra-do-Oriente-M%C3%A9dio-na-disputa-pol%C3%ADtica-do-Brasil)
-- [Presidente de Portugal anuncia dissolução do parlamento](https://www.nexojornal.com.br/extra/2023/11/09/Presidente-de-Portugal-anuncia-dissolu%C3%A7%C3%A3o-do-parlamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
