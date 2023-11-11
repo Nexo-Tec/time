@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Bom diagnóstico é o primeiro passo para combater desigualdades raciais na educação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Bom-diagn%C3%B3stico-%C3%A9-o-primeiro-passo-para-combater-desigualdades-raciais-na-educa%C3%A7%C3%A3o)
 - [Em seca histórica no Amazonas, a vida aquática dos rios entra em colapso](https://pp.nexojornal.com.br/ponto-de-vista/2023/11/08/Em-seca-hist%C3%B3rica-no-Amazonas-a-vida-aqu%C3%A1tica-dos-rios-entra-em-colapso)
 - [Carolina Levis: conhecimentos ecológicos indígenas e a sustentabilidade florestal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/11/08/Carolina-Levis-conhecimentos-ecol%C3%B3gicos-ind%C3%ADgenas-e-a-sustentabilidade-florestal)
 - [Produção de carnes e bem-estar animal](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/07/Produ%C3%A7%C3%A3o-de-carnes-e-bem-estar-animal)
 - [A cobertura das políticas públicas ambientais e as pautas de urgência](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cobertura-das-pol%C3%ADticas-p%C3%BAblicas-ambientais-e-as-pautas-de-urg%C3%AAncia)
+- [Equipes multiprofissionais &lpar;eMulti&rpar;: potencialidades e desafios para a ampliação da atenção primária à saúde no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2023/11/07/Equipes-multiprofissionais-eMulti-potencialidades-e-desafios-para-a-amplia%C3%A7%C3%A3o-da-aten%C3%A7%C3%A3o-prim%C3%A1ria-%C3%A0-sa%C3%BAde-no-Brasil)
 <!-- PP_LIST:END -->
 
