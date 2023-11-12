@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Organizações denunciam cerco a hospitais em Gaza](https://www.nexojornal.com.br/extra/2023/11/11/Organiza%C3%A7%C3%B5es-denunciam-cerco-a-hospitais-em-Gaza)
-- [Instituto Nacional de Meteorologia alerta para perigo por calor](https://www.nexojornal.com.br/extra/2023/11/11/Instituto-Nacional-de-Meteorologia-alerta-para-perigo-por-calor)
-- [‘A ordem do capital’: os mecanismos de coerção do sistema](https://www.nexojornal.com.br/estante/trechos/2023/11/10/%E2%80%98A-ordem-do-capital%E2%80%99-os-mecanismos-de-coer%C3%A7%C3%A3o-do-sistema)
-- [‘Pessoas negras são posicionadas como imunes à dor’](https://www.nexojornal.com.br/entrevista/2023/11/10/%E2%80%98Pessoas-negras-s%C3%A3o-posicionadas-como-imunes-%C3%A0-dor%E2%80%99)
-- [Como a IA ajudou a decifrar pergaminhos carbonizados](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-IA-ajudou-a-decifrar-pergaminhos-carbonizados)
+- [Qual a origem do fogo que toma o Norte. E como combatê-lo](https://www.nexojornal.com.br/expresso/2023/11/12/Qual-a-origem-do-fogo-que-toma-o-Norte.-E-como-combat%C3%AA-lo)
+- [‘Ouvia em casa sobre os negros, mas na escola, não’](https://www.nexojornal.com.br/profissoes/2023/11/12/%E2%80%98Ouvia-em-casa-sobre-os-negros-mas-na-escola-n%C3%A3o%E2%80%99)
+- [‘Perdemos a chance de deixar o Hamas mais moderado’](https://www.nexojornal.com.br/entrevista/2023/11/12/%E2%80%98Perdemos-a-chance-de-deixar-o-Hamas-mais-moderado%E2%80%99)
+- [A importância da comunicação pública para a democracia](https://www.nexojornal.com.br/ensaio/2023/11/12/A-import%C3%A2ncia-da-comunica%C3%A7%C3%A3o-p%C3%BAblica-para-a-democracia)
+- [Grupo de brasileiros deixa Gaza após um mês de espera](https://www.nexojornal.com.br/extra/2023/11/12/Grupo-de-brasileiros-deixa-Gaza-ap%C3%B3s-um-m%C3%AAs-de-espera)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
