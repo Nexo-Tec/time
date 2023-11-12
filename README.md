@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Instituto Nacional de Meteorologia alerta para perigo por calor](https://www.nexojornal.com.br/extra/2023/11/11/Instituto-Nacional-de-Meteorologia-alerta-para-perigo-por-calor)
-- [‘A ordem do capital’: os mecanismos de coerção do sistema](https://www.nexojornal.com.br/estante/trechos/2023/11/10/%E2%80%98A-ordem-do-capital%E2%80%99-os-mecanismos-de-coer%C3%A7%C3%A3o-do-sistema)
-- [‘Pessoas negras são posicionadas como imunes à dor’](https://www.nexojornal.com.br/entrevista/2023/11/10/%E2%80%98Pessoas-negras-s%C3%A3o-posicionadas-como-imunes-%C3%A0-dor%E2%80%99)
-- [Como a IA ajudou a decifrar pergaminhos carbonizados](https://www.nexojornal.com.br/expresso/2023/11/10/Como-a-IA-ajudou-a-decifrar-pergaminhos-carbonizados)
-- [As mães acusadas de sequestro ao fugirem de abusos no exterior](https://www.nexojornal.com.br/externo/2023/11/10/As-m%C3%A3es-acusadas-de-sequestro-ao-fugirem-de-abusos-no-exterior)
+- [5 livros do afrofuturismo brasileiro](https://www.nexojornal.com.br/estante/favoritos/2023/11/12/5-livros-do-afrofuturismo-brasileiro)
+- [Número de pessoas superdotadas é subnotificado no Brasil](https://www.nexojornal.com.br/externo/2023/11/12/N%C3%BAmero-de-pessoas-superdotadas-%C3%A9-subnotificado-no-Brasil)
+- [Por que os gramados sintéticos são alvos de críticas](https://www.nexojornal.com.br/expresso/2023/11/12/Por-que-os-gramados-sint%C3%A9ticos-s%C3%A3o-alvos-de-cr%C3%ADticas)
+- [‘Crimes são de Israel e Hamas, não de judeus e muçulmanos’](https://www.nexojornal.com.br/entrevista/2023/11/11/%E2%80%98Crimes-s%C3%A3o-de-Israel-e-Hamas-n%C3%A3o-de-judeus-e-mu%C3%A7ulmanos%E2%80%99)
+- [As omissões de um plano plurianual nada transparente](https://www.nexojornal.com.br/ensaio/2023/11/11/As-omiss%C3%B5es-de-um-plano-plurianual-nada-transparente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
