@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros do afrofuturismo brasileiro](https://www.nexojornal.com.br/estante/favoritos/2023/11/12/5-livros-do-afrofuturismo-brasileiro)
-- [Número de pessoas superdotadas é subnotificado no Brasil](https://www.nexojornal.com.br/externo/2023/11/12/N%C3%BAmero-de-pessoas-superdotadas-%C3%A9-subnotificado-no-Brasil)
-- [Por que os gramados sintéticos são alvos de críticas](https://www.nexojornal.com.br/expresso/2023/11/12/Por-que-os-gramados-sint%C3%A9ticos-s%C3%A3o-alvos-de-cr%C3%ADticas)
-- [‘Crimes são de Israel e Hamas, não de judeus e muçulmanos’](https://www.nexojornal.com.br/entrevista/2023/11/11/%E2%80%98Crimes-s%C3%A3o-de-Israel-e-Hamas-n%C3%A3o-de-judeus-e-mu%C3%A7ulmanos%E2%80%99)
-- [As omissões de um plano plurianual nada transparente](https://www.nexojornal.com.br/ensaio/2023/11/11/As-omiss%C3%B5es-de-um-plano-plurianual-nada-transparente)
+- [Qual a origem do fogo que toma o Norte. E como combatê-lo](https://www.nexojornal.com.br/expresso/2023/11/12/Qual-a-origem-do-fogo-que-toma-o-Norte.-E-como-combat%C3%AA-lo)
+- [‘Ouvia em casa sobre os negros, mas na escola, não’](https://www.nexojornal.com.br/profissoes/2023/11/12/%E2%80%98Ouvia-em-casa-sobre-os-negros-mas-na-escola-n%C3%A3o%E2%80%99)
+- [‘Perdemos a chance de deixar o Hamas mais moderado’](https://www.nexojornal.com.br/entrevista/2023/11/12/%E2%80%98Perdemos-a-chance-de-deixar-o-Hamas-mais-moderado%E2%80%99)
+- [A importância da comunicação pública para a democracia](https://www.nexojornal.com.br/ensaio/2023/11/12/A-import%C3%A2ncia-da-comunica%C3%A7%C3%A3o-p%C3%BAblica-para-a-democracia)
+- [Grupo de brasileiros deixa Gaza após um mês de espera](https://www.nexojornal.com.br/extra/2023/11/12/Grupo-de-brasileiros-deixa-Gaza-ap%C3%B3s-um-m%C3%AAs-de-espera)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
