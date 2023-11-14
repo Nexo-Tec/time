@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os bombardeios e o cerco de Israel a hospitais de Gaza](https://www.nexojornal.com.br/expresso/2023/11/13/Os-bombardeios-e-o-cerco-de-Israel-a-hospitais-de-Gaza)
-- [Como se proteger do calor que toma conta do Brasil](https://www.nexojornal.com.br/expresso/2023/11/13/Como-se-proteger-do-calor-que-toma-conta-do-Brasil)
-- [Ondas de calor aumentaram de 7 para 52 dias no Brasil](https://www.nexojornal.com.br/extra/2023/11/13/Ondas-de-calor-aumentaram-de-7-para-52-dias-no-Brasil)
-- [48 dias de Brasil sem procurador-geral da República](https://www.nexojornal.com.br/podcast/2023/11/13/48-dias-de-Brasil-sem-procurador-geral-da-Rep%C3%BAblica)
-- [Abstenção do Enem 2023 fica próxima ao percentual de 2022](https://www.nexojornal.com.br/grafico/2023/11/13/Absten%C3%A7%C3%A3o-do-Enem-2023-fica-pr%C3%B3xima-ao-percentual-de-2022)
+- [Quais são as oportunidades e desafios da juventude brasileira](https://www.nexojornal.com.br/expresso/2023/11/13/Quais-s%C3%A3o-as-oportunidades-e-desafios-da-juventude-brasileira)
+- [ONU faz homenagem a 100 funcionários mortos em Gaza](https://www.nexojornal.com.br/extra/2023/11/13/ONU-faz-homenagem-a-100-funcion%C3%A1rios-mortos-em-Gaza)
+- [Como a filantropia pode ser ferramenta de mudança social](https://www.nexojornal.com.br/expresso/2023/11/13/Como-a-filantropia-pode-ser-ferramenta-de-mudan%C3%A7a-social)
+- [Estupros crescem 15% no Brasil no primeiro semestre de 2023](https://www.nexojornal.com.br/extra/2023/11/13/Estupros-crescem-15-no-Brasil-no-primeiro-semestre-de-2023)
+- [Esposa de líder de facção foi recebida no Ministério da Justiça](https://www.nexojornal.com.br/extra/2023/11/13/Esposa-de-l%C3%ADder-de-fac%C3%A7%C3%A3o-foi-recebida-no-Minist%C3%A9rio-da-Justi%C3%A7a)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
