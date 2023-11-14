@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais são as oportunidades e desafios da juventude brasileira](https://www.nexojornal.com.br/expresso/2023/11/13/Quais-s%C3%A3o-as-oportunidades-e-desafios-da-juventude-brasileira)
-- [ONU faz homenagem a 100 funcionários mortos em Gaza](https://www.nexojornal.com.br/extra/2023/11/13/ONU-faz-homenagem-a-100-funcion%C3%A1rios-mortos-em-Gaza)
-- [Como a filantropia pode ser ferramenta de mudança social](https://www.nexojornal.com.br/expresso/2023/11/13/Como-a-filantropia-pode-ser-ferramenta-de-mudan%C3%A7a-social)
-- [Estupros crescem 15% no Brasil no primeiro semestre de 2023](https://www.nexojornal.com.br/extra/2023/11/13/Estupros-crescem-15-no-Brasil-no-primeiro-semestre-de-2023)
-- [Esposa de líder de facção foi recebida no Ministério da Justiça](https://www.nexojornal.com.br/extra/2023/11/13/Esposa-de-l%C3%ADder-de-fac%C3%A7%C3%A3o-foi-recebida-no-Minist%C3%A9rio-da-Justi%C3%A7a)
+- [Qual a origem do fogo que toma o Norte. E como combatê-lo](https://www.nexojornal.com.br/expresso/2023/11/12/Qual-a-origem-do-fogo-que-toma-o-Norte.-E-como-combat%C3%AA-lo)
+- [‘Ouvia em casa sobre os negros, mas na escola, não’](https://www.nexojornal.com.br/profissoes/2023/11/12/%E2%80%98Ouvia-em-casa-sobre-os-negros-mas-na-escola-n%C3%A3o%E2%80%99)
+- [‘Perdemos a chance de deixar o Hamas mais moderado’](https://www.nexojornal.com.br/entrevista/2023/11/12/%E2%80%98Perdemos-a-chance-de-deixar-o-Hamas-mais-moderado%E2%80%99)
+- [A importância da comunicação pública para a democracia](https://www.nexojornal.com.br/ensaio/2023/11/12/A-import%C3%A2ncia-da-comunica%C3%A7%C3%A3o-p%C3%BAblica-para-a-democracia)
+- [Grupo de brasileiros deixa Gaza após um mês de espera](https://www.nexojornal.com.br/extra/2023/11/12/Grupo-de-brasileiros-deixa-Gaza-ap%C3%B3s-um-m%C3%AAs-de-espera)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
