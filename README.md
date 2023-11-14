@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual a origem do fogo que toma o Norte. E como combatê-lo](https://www.nexojornal.com.br/expresso/2023/11/12/Qual-a-origem-do-fogo-que-toma-o-Norte.-E-como-combat%C3%AA-lo)
-- [‘Ouvia em casa sobre os negros, mas na escola, não’](https://www.nexojornal.com.br/profissoes/2023/11/12/%E2%80%98Ouvia-em-casa-sobre-os-negros-mas-na-escola-n%C3%A3o%E2%80%99)
-- [‘Perdemos a chance de deixar o Hamas mais moderado’](https://www.nexojornal.com.br/entrevista/2023/11/12/%E2%80%98Perdemos-a-chance-de-deixar-o-Hamas-mais-moderado%E2%80%99)
-- [A importância da comunicação pública para a democracia](https://www.nexojornal.com.br/ensaio/2023/11/12/A-import%C3%A2ncia-da-comunica%C3%A7%C3%A3o-p%C3%BAblica-para-a-democracia)
-- [Grupo de brasileiros deixa Gaza após um mês de espera](https://www.nexojornal.com.br/extra/2023/11/12/Grupo-de-brasileiros-deixa-Gaza-ap%C3%B3s-um-m%C3%AAs-de-espera)
+- [Os bombardeios e o cerco de Israel a hospitais de Gaza](https://www.nexojornal.com.br/expresso/2023/11/13/Os-bombardeios-e-o-cerco-de-Israel-a-hospitais-de-Gaza)
+- [Como se proteger do calor que toma conta do Brasil](https://www.nexojornal.com.br/expresso/2023/11/13/Como-se-proteger-do-calor-que-toma-conta-do-Brasil)
+- [Ondas de calor aumentaram de 7 para 52 dias no Brasil](https://www.nexojornal.com.br/extra/2023/11/13/Ondas-de-calor-aumentaram-de-7-para-52-dias-no-Brasil)
+- [48 dias de Brasil sem procurador-geral da República](https://www.nexojornal.com.br/podcast/2023/11/13/48-dias-de-Brasil-sem-procurador-geral-da-Rep%C3%BAblica)
+- [Abstenção do Enem 2023 fica próxima ao percentual de 2022](https://www.nexojornal.com.br/grafico/2023/11/13/Absten%C3%A7%C3%A3o-do-Enem-2023-fica-pr%C3%B3xima-ao-percentual-de-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
