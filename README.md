@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Panela Fika](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-fika/)
 - [@francesca.scorsese](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/francesca-scorsese/)
 - [Fê Lopes: “É preciso não colocar a criança de escudo na briga que é dos adultos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fe-lopes-separacao-amigavel-filhos-criancas-trauma-divorcio/)
 - [Apagão, descaso e “questão arbórea”](https://gamarevista.uol.com.br/colunistas/marilene-felinto/apagao-descaso-e-questao-arborea/)
 - [Os Invisíveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-invisiveis/)
-- [O show de Vera Holtz em “Tia Virginia”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-show-de-vera-holtz-em-tia-virginia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
