@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lilia Schwarcz: “A minha dor é uma porta aberta para pensar na dor do outro”](https://gamarevista.uol.com.br/pessoas/lilia-schwarcz-a-minha-dor-e-uma-porta-aberta-para-pensar-na-dor-do-outro/)
 - [Panela Fika](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-fika/)
 - [@francesca.scorsese](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/francesca-scorsese/)
 - [Fê Lopes: “É preciso não colocar a criança de escudo na briga que é dos adultos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fe-lopes-separacao-amigavel-filhos-criancas-trauma-divorcio/)
 - [Apagão, descaso e “questão arbórea”](https://gamarevista.uol.com.br/colunistas/marilene-felinto/apagao-descaso-e-questao-arborea/)
-- [Os Invisíveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/os-invisiveis/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
