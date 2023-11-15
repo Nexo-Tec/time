@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os bombardeios e o cerco de Israel a hospitais de Gaza](https://www.nexojornal.com.br/expresso/2023/11/13/Os-bombardeios-e-o-cerco-de-Israel-a-hospitais-de-Gaza)
-- [Como se proteger do calor que toma conta do Brasil](https://www.nexojornal.com.br/expresso/2023/11/13/Como-se-proteger-do-calor-que-toma-conta-do-Brasil)
-- [Ondas de calor aumentaram de 7 para 52 dias no Brasil](https://www.nexojornal.com.br/extra/2023/11/13/Ondas-de-calor-aumentaram-de-7-para-52-dias-no-Brasil)
-- [48 dias de Brasil sem procurador-geral da República](https://www.nexojornal.com.br/podcast/2023/11/13/48-dias-de-Brasil-sem-procurador-geral-da-Rep%C3%BAblica)
-- [Abstenção do Enem 2023 fica próxima ao percentual de 2022](https://www.nexojornal.com.br/grafico/2023/11/13/Absten%C3%A7%C3%A3o-do-Enem-2023-fica-pr%C3%B3xima-ao-percentual-de-2022)
+- [Como fungos amazônicos podem combater o aedes aegypti](https://www.nexojornal.com.br/expresso/2023/11/14/Como-fungos-amaz%C3%B4nicos-podem-combater-o-aedes-aegypti)
+- [Como o comércio de peles de animais saiu de moda](https://www.nexojornal.com.br/externo/2023/11/14/Como-o-com%C3%A9rcio-de-peles-de-animais-saiu-de-moda)
+- [Dignidade no trabalho por apps: uma causa de toda a sociedade](https://www.nexojornal.com.br/ensaio/2023/11/14/Dignidade-no-trabalho-por-apps-uma-causa-de-toda-a-sociedade)
+- [CNJ dá sanção mínima a juiz de audiência de Mariana Ferrer](https://www.nexojornal.com.br/extra/2023/11/14/CNJ-d%C3%A1-san%C3%A7%C3%A3o-m%C3%ADnima-a-juiz-de-audi%C3%AAncia-de-Mariana-Ferrer)
+- [Da ideia à abrangência do identitarismo no debate público](https://www.nexojornal.com.br/expresso/2023/11/14/Da-ideia-%C3%A0-abrang%C3%AAncia-do-identitarismo-no-debate-p%C3%BAblico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
