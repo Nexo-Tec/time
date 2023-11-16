@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Lilia Schwarcz: “A minha dor é uma porta aberta para pensar na dor do outro”](https://gamarevista.uol.com.br/pessoas/lilia-schwarcz-a-minha-dor-e-uma-porta-aberta-para-pensar-na-dor-do-outro/)
-- [Panela Fika](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/panela-fika/)
-- [@francesca.scorsese](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/francesca-scorsese/)
-- [Fê Lopes: “É preciso não colocar a criança de escudo na briga que é dos adultos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fe-lopes-separacao-amigavel-filhos-criancas-trauma-divorcio/)
-- [Apagão, descaso e “questão arbórea”](https://gamarevista.uol.com.br/colunistas/marilene-felinto/apagao-descaso-e-questao-arborea/)
+- [O Rio de Janeiro de “Vale o Escrito”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-rio-de-janeiro-de-vale-o-escrito/)
+- [Uma promessa do Brasil no Oscar, “Incompatível com a Vida”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-promessa-do-brasil-no-oscar-incompativel-com-a-vida/)
+- [Receitas fresquinhas para os dias mais quentes](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-fresquinhas-para-os-dias-mais-quentes/)
+- [“Teoria King Kong” no teatro](https://gamarevista.uol.com.br/achamos-que-vale/assistir/teoria-king-kong-no-teatro/)
+- [A BienalSur e o trabalho de Rochelle Costi](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-bienalsur-e-o-trabalho-de-rochelle-costi/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
