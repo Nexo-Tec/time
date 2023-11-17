@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Escolas de São Paulo terão mais matemática e português](https://www.nexojornal.com.br/extra/2023/11/17/Escolas-de-S%C3%A3o-Paulo-ter%C3%A3o-mais-matem%C3%A1tica-e-portugu%C3%AAs)
-- [Como a educação pode atingir seu papel de transformação](https://www.nexojornal.com.br/expresso/2023/11/17/Como-a-educa%C3%A7%C3%A3o-pode-atingir-seu-papel-de-transforma%C3%A7%C3%A3o)
-- [Chuvas causam mortes e destruição em Santa Catarina](https://www.nexojornal.com.br/extra/2023/11/17/Chuvas-causam-mortes-e-destrui%C3%A7%C3%A3o-em-Santa-Catarina)
-- [O racismo empobrece pessoas pretas e brancas](https://www.nexojornal.com.br/colunistas/2023/O-racismo-empobrece-pessoas-pretas-e-brancas)
 - [Que efeito pode ter a pressão diplomática sobre Israel](https://www.nexojornal.com.br/expresso/2023/11/16/Que-efeito-pode-ter-a-press%C3%A3o-diplom%C3%A1tica-sobre-Israel)
+- [A insegurança alimentar por raça e gênero no Brasil](https://www.nexojornal.com.br/grafico/2023/11/16/A-inseguran%C3%A7a-alimentar-por-ra%C3%A7a-e-g%C3%AAnero-no-Brasil)
+- [Prefeito de São Paulo diz que pediu fim de contrato com Enel](https://www.nexojornal.com.br/extra/2023/11/16/Prefeito-de-S%C3%A3o-Paulo-diz-que-pediu-fim-de-contrato-com-Enel)
+- [A educação política como freio para a radicalização](https://www.nexojornal.com.br/expresso/2023/11/16/A-educa%C3%A7%C3%A3o-pol%C3%ADtica-como-freio-para-a-radicaliza%C3%A7%C3%A3o)
+- [Deficit zero: meta de Haddad é mantida, ao menos no papel](https://www.nexojornal.com.br/podcast/2023/11/16/Deficit-zero-meta-de-Haddad-%C3%A9-mantida-ao-menos-no-papel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
