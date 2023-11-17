@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho de Segurança da ONU aprova 1ª resolução sobre Gaza](https://www.nexojornal.com.br/extra/2023/11/15/Conselho-de-Seguran%C3%A7a-da-ONU-aprova-1%C2%AA-resolu%C3%A7%C3%A3o-sobre-Gaza)
-- [A barreira do idioma na comunicação científica](https://www.nexojornal.com.br/externo/2023/11/15/A-barreira-do-idioma-na-comunica%C3%A7%C3%A3o-cient%C3%ADfica)
-- [Qual a capacidade do sistema elétrico de lidar com o calor](https://www.nexojornal.com.br/expresso/2023/11/15/Qual-a-capacidade-do-sistema-el%C3%A9trico-de-lidar-com-o-calor)
-- [Cientistas precisam pensar: não nos burocratize!](https://www.nexojornal.com.br/colunistas/2023/Cientistas-precisam-pensar-n%C3%A3o-nos-burocratize)
-- [Exército de Israel faz operação em maior hospital de Gaza](https://www.nexojornal.com.br/extra/2023/11/15/Ex%C3%A9rcito-de-Israel-faz-opera%C3%A7%C3%A3o-em-maior-hospital-de-Gaza)
+- [Que efeito pode ter a pressão diplomática sobre Israel](https://www.nexojornal.com.br/expresso/2023/11/16/Que-efeito-pode-ter-a-press%C3%A3o-diplom%C3%A1tica-sobre-Israel)
+- [A insegurança alimentar por raça e gênero no Brasil](https://www.nexojornal.com.br/grafico/2023/11/16/A-inseguran%C3%A7a-alimentar-por-ra%C3%A7a-e-g%C3%AAnero-no-Brasil)
+- [Prefeito de São Paulo diz que pediu fim de contrato com Enel](https://www.nexojornal.com.br/extra/2023/11/16/Prefeito-de-S%C3%A3o-Paulo-diz-que-pediu-fim-de-contrato-com-Enel)
+- [A educação política como freio para a radicalização](https://www.nexojornal.com.br/expresso/2023/11/16/A-educa%C3%A7%C3%A3o-pol%C3%ADtica-como-freio-para-a-radicaliza%C3%A7%C3%A3o)
+- [Deficit zero: meta de Haddad é mantida, ao menos no papel](https://www.nexojornal.com.br/podcast/2023/11/16/Deficit-zero-meta-de-Haddad-%C3%A9-mantida-ao-menos-no-papel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
