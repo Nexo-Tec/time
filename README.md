@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carta ao Fagundes](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/carta-ao-fagundes/)
+- [Belezas são coisas acesas por dentro](https://gamarevista.uol.com.br/colunistas/fernando-luna/belezas-sao-coisas-acesas-por-dentro/)
 - [O fenômeno Taylor Swift: por que a cantora faz tanto sucesso?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-fenomeno-taylor-swift-entenda-o-porque-a-cantora-faz-tanto-sucesso/)
 - [Compaixão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/compaixao/)
 - [O Rio de Janeiro de “Vale o Escrito”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-rio-de-janeiro-de-vale-o-escrito/)
-- [Uma promessa do Brasil no Oscar, “Incompatível com a Vida”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-promessa-do-brasil-no-oscar-incompativel-com-a-vida/)
-- [Receitas fresquinhas para os dias mais quentes](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-fresquinhas-para-os-dias-mais-quentes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
