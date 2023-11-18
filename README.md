@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [A pecuária bovina de baixa emissão, rastreada e certificada é possível](https://pp.nexojornal.com.br/opiniao/2023/A-pecu%C3%A1ria-bovina-de-baixa-emiss%C3%A3o-rastreada-e-certificada-%C3%A9-poss%C3%ADvel)
-- [O que uma nova pesquisa revela sobre desigualdades invisíveis no Ensino Básico brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-uma-nova-pesquisa-revela-sobre-desigualdades-invis%C3%ADveis-no-Ensino-B%C3%A1sico-brasileiro)
-- [Na Amazônia sem chuva, a aridez semeia prejuízos perenes na educação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Na-Amaz%C3%B4nia-sem-chuva-a-aridez-semeia-preju%C3%ADzos-perenes-na-educa%C3%A7%C3%A3o)
 - [Daniela Canella: como saber se um alimento é ultraprocessado](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/11/16/Daniela-Canella-como-saber-se-um-alimento-%C3%A9-ultraprocessado)
 - [Bom diagnóstico é o primeiro passo para combater desigualdades raciais na educação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Bom-diagn%C3%B3stico-%C3%A9-o-primeiro-passo-para-combater-desigualdades-raciais-na-educa%C3%A7%C3%A3o)
+- [Em seca histórica no Amazonas, a vida aquática dos rios entra em colapso](https://pp.nexojornal.com.br/ponto-de-vista/2023/11/08/Em-seca-hist%C3%B3rica-no-Amazonas-a-vida-aqu%C3%A1tica-dos-rios-entra-em-colapso)
+- [Carolina Levis: conhecimentos ecológicos indígenas e a sustentabilidade florestal](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/11/08/Carolina-Levis-conhecimentos-ecol%C3%B3gicos-ind%C3%ADgenas-e-a-sustentabilidade-florestal)
+- [Produção de carnes e bem-estar animal](https://pp.nexojornal.com.br/bibliografia-basica/2023/11/07/Produ%C3%A7%C3%A3o-de-carnes-e-bem-estar-animal)
 <!-- PP_LIST:END -->
 
