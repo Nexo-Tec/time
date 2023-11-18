@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Que efeito pode ter a pressão diplomática sobre Israel](https://www.nexojornal.com.br/expresso/2023/11/16/Que-efeito-pode-ter-a-press%C3%A3o-diplom%C3%A1tica-sobre-Israel)
-- [A insegurança alimentar por raça e gênero no Brasil](https://www.nexojornal.com.br/grafico/2023/11/16/A-inseguran%C3%A7a-alimentar-por-ra%C3%A7a-e-g%C3%AAnero-no-Brasil)
-- [Prefeito de São Paulo diz que pediu fim de contrato com Enel](https://www.nexojornal.com.br/extra/2023/11/16/Prefeito-de-S%C3%A3o-Paulo-diz-que-pediu-fim-de-contrato-com-Enel)
-- [A educação política como freio para a radicalização](https://www.nexojornal.com.br/expresso/2023/11/16/A-educa%C3%A7%C3%A3o-pol%C3%ADtica-como-freio-para-a-radicaliza%C3%A7%C3%A3o)
-- [Deficit zero: meta de Haddad é mantida, ao menos no papel](https://www.nexojornal.com.br/podcast/2023/11/16/Deficit-zero-meta-de-Haddad-%C3%A9-mantida-ao-menos-no-papel)
+- [As cartas não entregues durante a Guerra dos Sete Anos](https://www.nexojornal.com.br/expresso/2023/11/17/As-cartas-n%C3%A3o-entregues-durante-a-Guerra-dos-Sete-Anos)
+- [‘Tupac Shakur’: nascido na política, criado na arte](https://www.nexojornal.com.br/estante/trechos/2023/11/17/%E2%80%98Tupac-Shakur%E2%80%99-nascido-na-pol%C3%ADtica-criado-na-arte)
+- [Os mutirões para a gestão compartilhada de territórios](https://www.nexojornal.com.br/ensaio/2023/11/17/Os-mutir%C3%B5es-para-a-gest%C3%A3o-compartilhada-de-territ%C3%B3rios)
+- [‘Considero que a minha primeira soft skill foi a curiosidade’](https://www.nexojornal.com.br/profissoes/2023/11/17/%E2%80%98Considero-que-a-minha-primeira-soft-skill-foi-a-curiosidade%E2%80%99)
+- [As falhas do Estado na proteção de meninas e mulheres](https://www.nexojornal.com.br/expresso/2023/11/17/As-falhas-do-Estado-na-prote%C3%A7%C3%A3o-de-meninas-e-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
