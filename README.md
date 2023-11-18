@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fã de Taylor Swift morre após passar mal durante show](https://www.nexojornal.com.br/extra/2023/11/18/F%C3%A3-de-Taylor-Swift-morre-ap%C3%B3s-passar-mal-durante-show)
-- [As cartas não entregues durante a Guerra dos Sete Anos](https://www.nexojornal.com.br/expresso/2023/11/17/As-cartas-n%C3%A3o-entregues-durante-a-Guerra-dos-Sete-Anos)
-- [‘Tupac Shakur’: nascido na política, criado na arte](https://www.nexojornal.com.br/estante/trechos/2023/11/17/%E2%80%98Tupac-Shakur%E2%80%99-nascido-na-pol%C3%ADtica-criado-na-arte)
-- [Os mutirões para a gestão compartilhada de territórios](https://www.nexojornal.com.br/ensaio/2023/11/17/Os-mutir%C3%B5es-para-a-gest%C3%A3o-compartilhada-de-territ%C3%B3rios)
-- [‘Considero que a minha primeira soft skill foi a curiosidade’](https://www.nexojornal.com.br/profissoes/2023/11/17/%E2%80%98Considero-que-a-minha-primeira-soft-skill-foi-a-curiosidade%E2%80%99)
+- [Escolas de São Paulo terão mais matemática e português](https://www.nexojornal.com.br/extra/2023/11/17/Escolas-de-S%C3%A3o-Paulo-ter%C3%A3o-mais-matem%C3%A1tica-e-portugu%C3%AAs)
+- [Como a educação pode atingir seu papel de transformação](https://www.nexojornal.com.br/expresso/2023/11/17/Como-a-educa%C3%A7%C3%A3o-pode-atingir-seu-papel-de-transforma%C3%A7%C3%A3o)
+- [Chuvas causam mortes e destruição em Santa Catarina](https://www.nexojornal.com.br/extra/2023/11/17/Chuvas-causam-mortes-e-destrui%C3%A7%C3%A3o-em-Santa-Catarina)
+- [O racismo empobrece pessoas pretas e brancas](https://www.nexojornal.com.br/colunistas/2023/O-racismo-empobrece-pessoas-pretas-e-brancas)
+- [Que efeito pode ter a pressão diplomática sobre Israel](https://www.nexojornal.com.br/expresso/2023/11/16/Que-efeito-pode-ter-a-press%C3%A3o-diplom%C3%A1tica-sobre-Israel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
