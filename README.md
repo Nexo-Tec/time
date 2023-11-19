@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentinos vão às urnas decidir entre Massa e Milei](https://www.nexojornal.com.br/extra/2023/11/18/Argentinos-v%C3%A3o-%C3%A0s-urnas-decidir-entre-Massa-e-Milei)
-- [‘Ninguém pode ser condenado por opiniões emitidas’](https://www.nexojornal.com.br/entrevista/2023/11/18/%E2%80%98Ningu%C3%A9m-pode-ser-condenado-por-opini%C3%B5es-emitidas%E2%80%99)
-- [5 livros para conhecer Pagu, homenageada da Flip](https://www.nexojornal.com.br/estante/favoritos/2023/11/18/5-livros-para-conhecer-Pagu-homenageada-da-Flip)
-- [O retorno de garimpeiros à terra indígena Yanomami](https://www.nexojornal.com.br/externo/2023/11/18/O-retorno-de-garimpeiros-%C3%A0-terra-ind%C3%ADgena-Yanomami)
-- [Por que o Pantanal está de novo ardendo em chamas](https://www.nexojornal.com.br/expresso/2023/11/18/Por-que-o-Pantanal-est%C3%A1-de-novo-ardendo-em-chamas)
+- [Fã de Taylor Swift morre após passar mal durante show](https://www.nexojornal.com.br/extra/2023/11/18/F%C3%A3-de-Taylor-Swift-morre-ap%C3%B3s-passar-mal-durante-show)
+- [As cartas não entregues durante a Guerra dos Sete Anos](https://www.nexojornal.com.br/expresso/2023/11/17/As-cartas-n%C3%A3o-entregues-durante-a-Guerra-dos-Sete-Anos)
+- [‘Tupac Shakur’: nascido na política, criado na arte](https://www.nexojornal.com.br/estante/trechos/2023/11/17/%E2%80%98Tupac-Shakur%E2%80%99-nascido-na-pol%C3%ADtica-criado-na-arte)
+- [Os mutirões para a gestão compartilhada de territórios](https://www.nexojornal.com.br/ensaio/2023/11/17/Os-mutir%C3%B5es-para-a-gest%C3%A3o-compartilhada-de-territ%C3%B3rios)
+- [‘Considero que a minha primeira soft skill foi a curiosidade’](https://www.nexojornal.com.br/profissoes/2023/11/17/%E2%80%98Considero-que-a-minha-primeira-soft-skill-foi-a-curiosidade%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
