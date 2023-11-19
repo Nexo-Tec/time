@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fã de Taylor Swift morre após passar mal durante show](https://www.nexojornal.com.br/extra/2023/11/18/F%C3%A3-de-Taylor-Swift-morre-ap%C3%B3s-passar-mal-durante-show)
 - [As cartas não entregues durante a Guerra dos Sete Anos](https://www.nexojornal.com.br/expresso/2023/11/17/As-cartas-n%C3%A3o-entregues-durante-a-Guerra-dos-Sete-Anos)
 - [‘Tupac Shakur’: nascido na política, criado na arte](https://www.nexojornal.com.br/estante/trechos/2023/11/17/%E2%80%98Tupac-Shakur%E2%80%99-nascido-na-pol%C3%ADtica-criado-na-arte)
 - [Os mutirões para a gestão compartilhada de territórios](https://www.nexojornal.com.br/ensaio/2023/11/17/Os-mutir%C3%B5es-para-a-gest%C3%A3o-compartilhada-de-territ%C3%B3rios)
 - [‘Considero que a minha primeira soft skill foi a curiosidade’](https://www.nexojornal.com.br/profissoes/2023/11/17/%E2%80%98Considero-que-a-minha-primeira-soft-skill-foi-a-curiosidade%E2%80%99)
+- [As falhas do Estado na proteção de meninas e mulheres](https://www.nexojornal.com.br/expresso/2023/11/17/As-falhas-do-Estado-na-prote%C3%A7%C3%A3o-de-meninas-e-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
