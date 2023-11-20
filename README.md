@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dia da Consciência Negra: a realidade das mulheres](https://gamarevista.uol.com.br/sociedade/dia-da-consciencia-negra-falas-importantes-de-mulheres/)
 - [Bruna Beber: “Nunca vivi um momento tão bom da poesia para as mulheres”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/poeta-bruna-beber-poesia-brasileira-contemporanea/)
 - [Carta ao Fagundes](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/carta-ao-fagundes/)
 - [Belezas são coisas acesas por dentro](https://gamarevista.uol.com.br/colunistas/fernando-luna/belezas-sao-coisas-acesas-por-dentro/)
 - [O fenômeno Taylor Swift: por que a cantora faz tanto sucesso?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/o-fenomeno-taylor-swift-entenda-o-porque-a-cantora-faz-tanto-sucesso/)
-- [Compaixão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/compaixao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
