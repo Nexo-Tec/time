@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 histórias de profissionais que foram cotistas](https://www.nexojornal.com.br/serie/2023/11/19/5-hist%C3%B3rias-de-profissionais-que-foram-cotistas)
 - [Argentinos vão às urnas decidir entre Massa e Milei](https://www.nexojornal.com.br/extra/2023/11/18/Argentinos-v%C3%A3o-%C3%A0s-urnas-decidir-entre-Massa-e-Milei)
 - [‘Ninguém pode ser condenado por opiniões emitidas’](https://www.nexojornal.com.br/entrevista/2023/11/18/%E2%80%98Ningu%C3%A9m-pode-ser-condenado-por-opini%C3%B5es-emitidas%E2%80%99)
 - [5 livros para conhecer Pagu, homenageada da Flip](https://www.nexojornal.com.br/estante/favoritos/2023/11/18/5-livros-para-conhecer-Pagu-homenageada-da-Flip)
 - [O retorno de garimpeiros à terra indígena Yanomami](https://www.nexojornal.com.br/externo/2023/11/18/O-retorno-de-garimpeiros-%C3%A0-terra-ind%C3%ADgena-Yanomami)
+- [Por que o Pantanal está de novo ardendo em chamas](https://www.nexojornal.com.br/expresso/2023/11/18/Por-que-o-Pantanal-est%C3%A1-de-novo-ardendo-em-chamas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
