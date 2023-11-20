@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Argentinos vão às urnas decidir entre Massa e Milei](https://www.nexojornal.com.br/extra/2023/11/18/Argentinos-v%C3%A3o-%C3%A0s-urnas-decidir-entre-Massa-e-Milei)
-- [‘Ninguém pode ser condenado por opiniões emitidas’](https://www.nexojornal.com.br/entrevista/2023/11/18/%E2%80%98Ningu%C3%A9m-pode-ser-condenado-por-opini%C3%B5es-emitidas%E2%80%99)
-- [5 livros para conhecer Pagu, homenageada da Flip](https://www.nexojornal.com.br/estante/favoritos/2023/11/18/5-livros-para-conhecer-Pagu-homenageada-da-Flip)
-- [O retorno de garimpeiros à terra indígena Yanomami](https://www.nexojornal.com.br/externo/2023/11/18/O-retorno-de-garimpeiros-%C3%A0-terra-ind%C3%ADgena-Yanomami)
-- [Por que o Pantanal está de novo ardendo em chamas](https://www.nexojornal.com.br/expresso/2023/11/18/Por-que-o-Pantanal-est%C3%A1-de-novo-ardendo-em-chamas)
+- [Qual é a música? O trecho indecifrável para os internautas](https://www.nexojornal.com.br/expresso/2023/11/19/Qual-%C3%A9-a-m%C3%BAsica-O-trecho-indecifr%C3%A1vel-para-os-internautas)
+- [Os 100 anos do esquecimento de Canudos](https://www.nexojornal.com.br/ensaio/2023/11/19/Os-100-anos-do-esquecimento-de-Canudos)
+- [Os atritos entre Casa Civil e Fazenda nos governos de Lula](https://www.nexojornal.com.br/expresso/2023/11/19/Os-atritos-entre-Casa-Civil-e-Fazenda-nos-governos-de-Lula)
+- [Dia da Consciência Negra é feriado em 6 estados brasileiros](https://www.nexojornal.com.br/grafico/2023/11/19/Dia-da-Consci%C3%AAncia-Negra-%C3%A9-feriado-em-6-estados-brasileiros)
+- [Quem pode e quem não pode frequentar gabinetes oficiais](https://www.nexojornal.com.br/expresso/2023/11/19/Quem-pode-e-quem-n%C3%A3o-pode-frequentar-gabinetes-oficiais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
