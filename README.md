@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a direita tradicional se rende ao extremismo](https://www.nexojornal.com.br/expresso/2023/11/20/Por-que-a-direita-tradicional-se-rende-ao-extremismo)
-- [Como o rock pode ajudar no tratamento do diabetes](https://www.nexojornal.com.br/externo/2023/11/20/Como-o-rock-pode-ajudar-no-tratamento-do-diabetes)
-- [Mundo tem temperatura 2ºC acima da era pré-industrial pela 1ª vez](https://www.nexojornal.com.br/extra/2023/11/20/Mundo-tem-temperatura-2%C2%BAC-acima-da-era-pr%C3%A9-industrial-pela-1%C2%AA-vez)
-- [Como as emendas parlamentares entram no debate da meta fiscal](https://www.nexojornal.com.br/expresso/2023/11/20/Como-as-emendas-parlamentares-entram-no-debate-da-meta-fiscal)
 - [Líderes e celebridades parabenizam Milei por vitória na Argentina](https://www.nexojornal.com.br/extra/2023/11/20/L%C3%ADderes-e-celebridades-parabenizam-Milei-por-vit%C3%B3ria-na-Argentina)
+- [Qual é a música? O trecho indecifrável para os internautas](https://www.nexojornal.com.br/expresso/2023/11/19/Qual-%C3%A9-a-m%C3%BAsica-O-trecho-indecifr%C3%A1vel-para-os-internautas)
+- [Os 100 anos do esquecimento de Canudos](https://www.nexojornal.com.br/ensaio/2023/11/19/Os-100-anos-do-esquecimento-de-Canudos)
+- [Os atritos entre Casa Civil e Fazenda nos governos de Lula](https://www.nexojornal.com.br/expresso/2023/11/19/Os-atritos-entre-Casa-Civil-e-Fazenda-nos-governos-de-Lula)
+- [Dia da Consciência Negra é feriado em 6 estados brasileiros](https://www.nexojornal.com.br/grafico/2023/11/19/Dia-da-Consci%C3%AAncia-Negra-%C3%A9-feriado-em-6-estados-brasileiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
