@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A verdadeira integração das fontes eólica e solar na matriz elétrica brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-verdadeira-integra%C3%A7%C3%A3o-das-fontes-e%C3%B3lica-e-solar-na-matriz-el%C3%A9trica-brasileira)
 - [Avanços e desafios na trajetória da regulamentação das políticas de valorização da carreira docente no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2023/Avan%C3%A7os-e-desafios-na-trajet%C3%B3ria-da-regulamenta%C3%A7%C3%A3o-das-pol%C3%ADticas-de-valoriza%C3%A7%C3%A3o-da-carreira-docente-no-Brasil)
 - [Transição escola-trabalho](https://pp.nexojornal.com.br/glossario/Transi%C3%A7%C3%A3o-escola-trabalho)
 - [A pecuária bovina de baixa emissão, rastreada e certificada é possível](https://pp.nexojornal.com.br/opiniao/2023/A-pecu%C3%A1ria-bovina-de-baixa-emiss%C3%A3o-rastreada-e-certificada-%C3%A9-poss%C3%ADvel)
 - [O que uma nova pesquisa revela sobre desigualdades invisíveis no Ensino Básico brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-uma-nova-pesquisa-revela-sobre-desigualdades-invis%C3%ADveis-no-Ensino-B%C3%A1sico-brasileiro)
-- [Na Amazônia sem chuva, a aridez semeia prejuízos perenes na educação](https://pp.nexojornal.com.br/ponto-de-vista/2023/Na-Amaz%C3%B4nia-sem-chuva-a-aridez-semeia-preju%C3%ADzos-perenes-na-educa%C3%A7%C3%A3o)
 <!-- PP_LIST:END -->
 
