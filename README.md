@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Rafaela Azevedo](https://gamarevista.uol.com.br/pessoas/questionario-proust/rafaela-azevedo/)
 - [Ciclo Gama de Debates: confira a programação das mesas na Flip](https://gamarevista.uol.com.br/cultura/ciclo-gama-de-debates-confira-a-programacao-das-mesas-na-flip/)
 - [Arqueologia do corpo](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/arqueologia-do-corpo/)
 - [Dia da Consciência Negra: a realidade das mulheres](https://gamarevista.uol.com.br/sociedade/dia-da-consciencia-negra-falas-importantes-de-mulheres/)
 - [Bruna Beber: “Nunca vivi um momento tão bom da poesia para as mulheres”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/poeta-bruna-beber-poesia-brasileira-contemporanea/)
-- [Carta ao Fagundes](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/carta-ao-fagundes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
