@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a direita tradicional se rende ao extremismo](https://www.nexojornal.com.br/expresso/2023/11/20/Por-que-a-direita-tradicional-se-rende-ao-extremismo)
-- [Como o rock pode ajudar no tratamento do diabetes](https://www.nexojornal.com.br/externo/2023/11/20/Como-o-rock-pode-ajudar-no-tratamento-do-diabetes)
-- [Mundo tem temperatura 2ºC acima da era pré-industrial pela 1ª vez](https://www.nexojornal.com.br/extra/2023/11/20/Mundo-tem-temperatura-2%C2%BAC-acima-da-era-pr%C3%A9-industrial-pela-1%C2%AA-vez)
-- [Como as emendas parlamentares entram no debate da meta fiscal](https://www.nexojornal.com.br/expresso/2023/11/20/Como-as-emendas-parlamentares-entram-no-debate-da-meta-fiscal)
-- [Líderes e celebridades parabenizam Milei por vitória na Argentina](https://www.nexojornal.com.br/extra/2023/11/20/L%C3%ADderes-e-celebridades-parabenizam-Milei-por-vit%C3%B3ria-na-Argentina)
+- [As margens de Milei na Argentina diante de um Congresso opositor](https://www.nexojornal.com.br/expresso/2023/11/21/As-margens-de-Milei-na-Argentina-diante-de-um-Congresso-opositor)
+- [Como o fandom de Taylor Swift consegue tanta mobilização](https://www.nexojornal.com.br/expresso/2023/11/21/Como-o-fandom-de-Taylor-Swift-consegue-tanta-mobiliza%C3%A7%C3%A3o)
+- [Quebrando o oligopólio da publicação científica](https://www.nexojornal.com.br/colunistas/2023/Quebrando-o-oligop%C3%B3lio-da-publica%C3%A7%C3%A3o-cient%C3%ADfica)
+- [A crise da OpenAI e os dilemas da inteligência artificial](https://www.nexojornal.com.br/expresso/2023/11/21/A-crise-da-OpenAI-e-os-dilemas-da-intelig%C3%AAncia-artificial)
+- [Conflito Hamas-Israel é o mais mortal para jornalistas em 30 anos](https://www.nexojornal.com.br/extra/2023/11/21/Conflito-Hamas-Israel-%C3%A9-o-mais-mortal-para-jornalistas-em-30-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
