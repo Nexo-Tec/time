@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo publica regras para oferta gratuita de água em eventos](https://www.nexojornal.com.br/extra/2023/11/22/Governo-publica-regras-para-oferta-gratuita-de-%C3%A1gua-em-eventos)
-- [Comissão do Senado aprova taxação de super-ricos e offshores](https://www.nexojornal.com.br/extra/2023/11/22/Comiss%C3%A3o-do-Senado-aprova-taxa%C3%A7%C3%A3o-de-super-ricos-e-offshores)
-- [Taxa de desemprego recua no Brasil no 3º trimestre](https://www.nexojornal.com.br/extra/2023/11/22/Taxa-de-desemprego-recua-no-Brasil-no-3%C2%BA-trimestre)
-- [Hamas e Israel selam acordo para liberação de reféns](https://www.nexojornal.com.br/extra/2023/11/22/Hamas-e-Israel-selam-acordo-para-libera%C3%A7%C3%A3o-de-ref%C3%A9ns)
-- [As margens de Milei na Argentina diante de um Congresso opositor](https://www.nexojornal.com.br/expresso/2023/11/21/As-margens-de-Milei-na-Argentina-diante-de-um-Congresso-opositor)
+- [Justiça Militar condena coronel da reserva por 8 de janeiro](https://www.nexojornal.com.br/extra/2023/11/23/Justi%C3%A7a-Militar-condena-coronel-da-reserva-por-8-de-janeiro)
+- [Quais países reconhecem Israel e Palestina como Estado](https://www.nexojornal.com.br/grafico/2023/11/23/Quais-pa%C3%ADses-reconhecem-Israel-e-Palestina-como-Estado)
+- [Primeiro grupo de reféns que serão soltos tem 13 nomes](https://www.nexojornal.com.br/extra/2023/11/23/Primeiro-grupo-de-ref%C3%A9ns-que-ser%C3%A3o-soltos-tem-13-nomes)
+- [Qual o potencial das zonas marinhas do país. E o que as ameaça](https://www.nexojornal.com.br/expresso/2023/11/23/Qual-o-potencial-das-zonas-marinhas-do-pa%C3%ADs.-E-o-que-as-amea%C3%A7a)
+- [Quais os impactos do acordo firmado entre Israel e Hamas](https://www.nexojornal.com.br/expresso/2023/11/22/Quais-os-impactos-do-acordo-firmado-entre-Israel-e-Hamas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
