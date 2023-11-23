@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça Militar condena coronel da reserva por 8 de janeiro](https://www.nexojornal.com.br/extra/2023/11/23/Justi%C3%A7a-Militar-condena-coronel-da-reserva-por-8-de-janeiro)
-- [Quais países reconhecem Israel e Palestina como Estado](https://www.nexojornal.com.br/grafico/2023/11/23/Quais-pa%C3%ADses-reconhecem-Israel-e-Palestina-como-Estado)
-- [Primeiro grupo de reféns que serão soltos tem 13 nomes](https://www.nexojornal.com.br/extra/2023/11/23/Primeiro-grupo-de-ref%C3%A9ns-que-ser%C3%A3o-soltos-tem-13-nomes)
-- [Qual o potencial das zonas marinhas do país. E o que as ameaça](https://www.nexojornal.com.br/expresso/2023/11/23/Qual-o-potencial-das-zonas-marinhas-do-pa%C3%ADs.-E-o-que-as-amea%C3%A7a)
 - [Quais os impactos do acordo firmado entre Israel e Hamas](https://www.nexojornal.com.br/expresso/2023/11/22/Quais-os-impactos-do-acordo-firmado-entre-Israel-e-Hamas)
+- [Preço e investimentos: as disputas sobre o futuro da Petrobras](https://www.nexojornal.com.br/expresso/2023/11/22/Pre%C3%A7o-e-investimentos-as-disputas-sobre-o-futuro-da-Petrobras)
+- [Com atraso, o machismo na música erudita recebe uma lição](https://www.nexojornal.com.br/colunistas/2023/Com-atraso-o-machismo-na-m%C3%BAsica-erudita-recebe-uma-li%C3%A7%C3%A3o)
+- [Moraes manda soltar 4 réus de ataques de 8/1 após morte na Papuda](https://www.nexojornal.com.br/extra/2023/11/22/Moraes-manda-soltar-4-r%C3%A9us-de-ataques-de-81-ap%C3%B3s-morte-na-Papuda)
+- [Proibições e prazos: o que há na PEC do STF aprovada no Senado](https://www.nexojornal.com.br/expresso/2023/11/22/Proibi%C3%A7%C3%B5es-e-prazos-o-que-h%C3%A1-na-PEC-do-STF-aprovada-no-Senado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
