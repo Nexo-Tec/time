@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [As Flores do Bem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-flores-do-bem/)
-- [E aquele garoto que ia mudar o mundo agora vive à base de clonazepam](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/e-aquele-garoto-que-ia-mudar-o-mundo-agora-vive-a-base-de-clonazepam/)
-- [Beto Pandiani: “Para sobreviver, você tem de aprender a ser responsável”](https://gamarevista.uol.com.br/pessoas/beto-pandiani-para-sobreviver-voce-tem-de-aprender-a-ser-responsavel/)
-- [Rafaela Azevedo](https://gamarevista.uol.com.br/pessoas/questionario-proust/rafaela-azevedo/)
-- [Ciclo Gama de Debates: confira a programação das mesas na Flip](https://gamarevista.uol.com.br/cultura/ciclo-gama-de-debates-confira-a-programacao-das-mesas-na-flip/)
+- [Ciclo de Debates Gama na Flip](https://gamarevista.uol.com.br/achamos-que-vale/ir/ciclo-de-debates-gama-na-flip/)
+- [O Napoleão Bonaparte de Joaquin Phoenix e Ridley Scott](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-napoleao-bonaparte-de-joaquin-phoenix-e-ridley-scott/)
+- [Os novos ares de André 3000](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-novos-ares-de-andre-3000/)
+- [O festival ZUM](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-festival-zum/)
+- [A voz das crianças em “O Mundo que Sei”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-voz-das-criancas-em-o-mundo-que-sei/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
