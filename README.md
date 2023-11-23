@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os impactos do acordo firmado entre Israel e Hamas](https://www.nexojornal.com.br/expresso/2023/11/22/Quais-os-impactos-do-acordo-firmado-entre-Israel-e-Hamas)
-- [Preço e investimentos: as disputas sobre o futuro da Petrobras](https://www.nexojornal.com.br/expresso/2023/11/22/Pre%C3%A7o-e-investimentos-as-disputas-sobre-o-futuro-da-Petrobras)
-- [Com atraso, o machismo na música erudita recebe uma lição](https://www.nexojornal.com.br/colunistas/2023/Com-atraso-o-machismo-na-m%C3%BAsica-erudita-recebe-uma-li%C3%A7%C3%A3o)
-- [Moraes manda soltar 4 réus de ataques de 8/1 após morte na Papuda](https://www.nexojornal.com.br/extra/2023/11/22/Moraes-manda-soltar-4-r%C3%A9us-de-ataques-de-81-ap%C3%B3s-morte-na-Papuda)
-- [Proibições e prazos: o que há na PEC do STF aprovada no Senado](https://www.nexojornal.com.br/expresso/2023/11/22/Proibi%C3%A7%C3%B5es-e-prazos-o-que-h%C3%A1-na-PEC-do-STF-aprovada-no-Senado)
+- [Governo publica regras para oferta gratuita de água em eventos](https://www.nexojornal.com.br/extra/2023/11/22/Governo-publica-regras-para-oferta-gratuita-de-%C3%A1gua-em-eventos)
+- [Comissão do Senado aprova taxação de super-ricos e offshores](https://www.nexojornal.com.br/extra/2023/11/22/Comiss%C3%A3o-do-Senado-aprova-taxa%C3%A7%C3%A3o-de-super-ricos-e-offshores)
+- [Taxa de desemprego recua no Brasil no 3º trimestre](https://www.nexojornal.com.br/extra/2023/11/22/Taxa-de-desemprego-recua-no-Brasil-no-3%C2%BA-trimestre)
+- [Hamas e Israel selam acordo para liberação de reféns](https://www.nexojornal.com.br/extra/2023/11/22/Hamas-e-Israel-selam-acordo-para-libera%C3%A7%C3%A3o-de-ref%C3%A9ns)
+- [As margens de Milei na Argentina diante de um Congresso opositor](https://www.nexojornal.com.br/expresso/2023/11/21/As-margens-de-Milei-na-Argentina-diante-de-um-Congresso-opositor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
