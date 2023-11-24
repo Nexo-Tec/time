@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Resenha de “A Fuga da Sibéria”, de Liev Trótski](https://gamarevista.uol.com.br/colunistas/marilene-felinto/resenha-de-a-fuga-da-siberia-de-liev-trotski/)
 - [Ciclo de Debates Gama na Flip](https://gamarevista.uol.com.br/achamos-que-vale/ir/ciclo-de-debates-gama-na-flip/)
 - [O Napoleão Bonaparte de Joaquin Phoenix e Ridley Scott](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-napoleao-bonaparte-de-joaquin-phoenix-e-ridley-scott/)
 - [Os novos ares de André 3000](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-novos-ares-de-andre-3000/)
 - [O festival ZUM](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-festival-zum/)
-- [A voz das crianças em “O Mundo que Sei”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-voz-das-criancas-em-o-mundo-que-sei/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
