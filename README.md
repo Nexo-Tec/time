@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Justiça Militar condena coronel da reserva por 8 de janeiro](https://www.nexojornal.com.br/extra/2023/11/23/Justi%C3%A7a-Militar-condena-coronel-da-reserva-por-8-de-janeiro)
-- [Quais países reconhecem Israel e Palestina como Estado](https://www.nexojornal.com.br/grafico/2023/11/23/Quais-pa%C3%ADses-reconhecem-Israel-e-Palestina-como-Estado)
-- [Primeiro grupo de reféns que serão soltos tem 13 nomes](https://www.nexojornal.com.br/extra/2023/11/23/Primeiro-grupo-de-ref%C3%A9ns-que-ser%C3%A3o-soltos-tem-13-nomes)
-- [Qual o potencial das zonas marinhas do país. E o que as ameaça](https://www.nexojornal.com.br/expresso/2023/11/23/Qual-o-potencial-das-zonas-marinhas-do-pa%C3%ADs.-E-o-que-as-amea%C3%A7a)
-- [Quais os impactos do acordo firmado entre Israel e Hamas](https://www.nexojornal.com.br/expresso/2023/11/22/Quais-os-impactos-do-acordo-firmado-entre-Israel-e-Hamas)
+- [Quem são os palestinos presos em Israel. E do que eles são acusados](https://www.nexojornal.com.br/expresso/2023/11/24/Quem-s%C3%A3o-os-palestinos-presos-em-Israel.-E-do-que-eles-s%C3%A3o-acusados)
+- [Programa destina R$ 6,5 bilhões a pessoas com deficiência](https://www.nexojornal.com.br/extra/2023/11/23/Programa-destina-R-65-bilh%C3%B5es-a-pessoas-com-defici%C3%AAncia)
+- [O que torna a Educação Midiática tão urgente](https://www.nexojornal.com.br/colunistas/2023/O-que-torna-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-t%C3%A3o-urgente)
+- [Como um mundo mais quente afeta a saúde humana](https://www.nexojornal.com.br/expresso/2023/11/23/Como-um-mundo-mais-quente-afeta-a-sa%C3%BAde-humana)
+- [A manobra de estados para elevar imposto antes da reforma](https://www.nexojornal.com.br/podcast/2023/11/23/A-manobra-de-estados-para-elevar-imposto-antes-da-reforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
