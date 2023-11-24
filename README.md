@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quem são os palestinos presos em Israel. E do que eles são acusados](https://www.nexojornal.com.br/expresso/2023/11/24/Quem-s%C3%A3o-os-palestinos-presos-em-Israel.-E-do-que-eles-s%C3%A3o-acusados)
-- [Programa destina R$ 6,5 bilhões a pessoas com deficiência](https://www.nexojornal.com.br/extra/2023/11/23/Programa-destina-R-65-bilh%C3%B5es-a-pessoas-com-defici%C3%AAncia)
-- [O que torna a Educação Midiática tão urgente](https://www.nexojornal.com.br/colunistas/2023/O-que-torna-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-t%C3%A3o-urgente)
-- [Como um mundo mais quente afeta a saúde humana](https://www.nexojornal.com.br/expresso/2023/11/23/Como-um-mundo-mais-quente-afeta-a-sa%C3%BAde-humana)
-- [A manobra de estados para elevar imposto antes da reforma](https://www.nexojornal.com.br/podcast/2023/11/23/A-manobra-de-estados-para-elevar-imposto-antes-da-reforma)
+- [Extrema direita usa ataque para promover caos na Irlanda](https://www.nexojornal.com.br/extra/2023/11/24/Extrema-direita-usa-ataque-para-promover-caos-na-Irlanda)
+- [Haddad promete alternativa à desoneração da folha de pagamentos](https://www.nexojornal.com.br/extra/2023/11/24/Haddad-promete-alternativa-%C3%A0-desonera%C3%A7%C3%A3o-da-folha-de-pagamentos)
+- [A privação de água em prisões paulistas em meio ao calor](https://www.nexojornal.com.br/externo/2023/11/24/A-priva%C3%A7%C3%A3o-de-%C3%A1gua-em-pris%C3%B5es-paulistas-em-meio-ao-calor)
+- [Qual é o perfil do mercado de alimentos orgânicos no Brasil](https://www.nexojornal.com.br/expresso/2023/11/24/Qual-%C3%A9-o-perfil-do-mercado-de-alimentos-org%C3%A2nicos-no-Brasil)
+- [Primeiro grupo de reféns libertados pelo Hamas chega ao Egito](https://www.nexojornal.com.br/extra/2023/11/24/Primeiro-grupo-de-ref%C3%A9ns-libertados-pelo-Hamas-chega-ao-Egito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
