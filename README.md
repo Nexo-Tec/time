@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sindicatos, empresários e prefeituras defendem desoneração](https://www.nexojornal.com.br/extra/2023/11/24/Sindicatos-empres%C3%A1rios-e-prefeituras-defendem-desonera%C3%A7%C3%A3o)
-- [Conheça movimentos que se contrapõem à Black Friday](https://www.nexojornal.com.br/expresso/2023/11/24/Conhe%C3%A7a-movimentos-que-se-contrap%C3%B5em-%C3%A0-Black-Friday)
-- [O jogo educativo que permite explorar a Amazônia em 3D](https://www.nexojornal.com.br/expresso/2023/11/24/O-jogo-educativo-que-permite-explorar-a-Amaz%C3%B4nia-em-3D)
-- [‘Estilista coração de galinha’: entrevistas com Ronaldo Fraga](https://www.nexojornal.com.br/estante/trechos/2023/11/24/%E2%80%98Estilista-cora%C3%A7%C3%A3o-de-galinha%E2%80%99-entrevistas-com-Ronaldo-Fraga)
-- [Como as mulheres são capazes de impactar as guerras](https://www.nexojornal.com.br/ensaio/2023/11/24/Como-as-mulheres-s%C3%A3o-capazes-de-impactar-as-guerras)
+- [Quem são os palestinos presos em Israel. E do que eles são acusados](https://www.nexojornal.com.br/expresso/2023/11/24/Quem-s%C3%A3o-os-palestinos-presos-em-Israel.-E-do-que-eles-s%C3%A3o-acusados)
+- [Programa destina R$ 6,5 bilhões a pessoas com deficiência](https://www.nexojornal.com.br/extra/2023/11/23/Programa-destina-R-65-bilh%C3%B5es-a-pessoas-com-defici%C3%AAncia)
+- [O que torna a Educação Midiática tão urgente](https://www.nexojornal.com.br/colunistas/2023/O-que-torna-a-Educa%C3%A7%C3%A3o-Midi%C3%A1tica-t%C3%A3o-urgente)
+- [Como um mundo mais quente afeta a saúde humana](https://www.nexojornal.com.br/expresso/2023/11/23/Como-um-mundo-mais-quente-afeta-a-sa%C3%BAde-humana)
+- [A manobra de estados para elevar imposto antes da reforma](https://www.nexojornal.com.br/podcast/2023/11/23/A-manobra-de-estados-para-elevar-imposto-antes-da-reforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
