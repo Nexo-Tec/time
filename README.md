@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sindicatos, empresários e prefeituras defendem desoneração](https://www.nexojornal.com.br/extra/2023/11/24/Sindicatos-empres%C3%A1rios-e-prefeituras-defendem-desonera%C3%A7%C3%A3o)
-- [Conheça movimentos que se contrapõem à Black Friday](https://www.nexojornal.com.br/expresso/2023/11/24/Conhe%C3%A7a-movimentos-que-se-contrap%C3%B5em-%C3%A0-Black-Friday)
-- [O jogo educativo que permite explorar a Amazônia em 3D](https://www.nexojornal.com.br/expresso/2023/11/24/O-jogo-educativo-que-permite-explorar-a-Amaz%C3%B4nia-em-3D)
-- [‘Estilista coração de galinha’: entrevistas com Ronaldo Fraga](https://www.nexojornal.com.br/estante/trechos/2023/11/24/%E2%80%98Estilista-cora%C3%A7%C3%A3o-de-galinha%E2%80%99-entrevistas-com-Ronaldo-Fraga)
-- [Como as mulheres são capazes de impactar as guerras](https://www.nexojornal.com.br/ensaio/2023/11/24/Como-as-mulheres-s%C3%A3o-capazes-de-impactar-as-guerras)
+- [Extrema direita usa ataque para promover caos na Irlanda](https://www.nexojornal.com.br/extra/2023/11/24/Extrema-direita-usa-ataque-para-promover-caos-na-Irlanda)
+- [Haddad promete alternativa à desoneração da folha de pagamentos](https://www.nexojornal.com.br/extra/2023/11/24/Haddad-promete-alternativa-%C3%A0-desonera%C3%A7%C3%A3o-da-folha-de-pagamentos)
+- [A privação de água em prisões paulistas em meio ao calor](https://www.nexojornal.com.br/externo/2023/11/24/A-priva%C3%A7%C3%A3o-de-%C3%A1gua-em-pris%C3%B5es-paulistas-em-meio-ao-calor)
+- [Qual é o perfil do mercado de alimentos orgânicos no Brasil](https://www.nexojornal.com.br/expresso/2023/11/24/Qual-%C3%A9-o-perfil-do-mercado-de-alimentos-org%C3%A2nicos-no-Brasil)
+- [Primeiro grupo de reféns libertados pelo Hamas chega ao Egito](https://www.nexojornal.com.br/extra/2023/11/24/Primeiro-grupo-de-ref%C3%A9ns-libertados-pelo-Hamas-chega-ao-Egito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
