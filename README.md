@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morte de PM pode ter relação com milícia, diz governador](https://www.nexojornal.com.br/extra/2023/11/26/Morte-de-PM-pode-ter-rela%C3%A7%C3%A3o-com-mil%C3%ADcia-diz-governador)
-- [O acervo com alguns dos mapas mais antigos e bonitos do mundo](https://www.nexojornal.com.br/expresso/2023/11/26/O-acervo-com-alguns-dos-mapas-mais-antigos-e-bonitos-do-mundo)
-- [5 livros que humanizam personagens negros](https://www.nexojornal.com.br/estante/favoritos/2023/11/26/5-livros-que-humanizam-personagens-negros)
-- [O que fazer para acabar com a hierarquia racial entre as crianças](https://www.nexojornal.com.br/externo/2023/11/26/O-que-fazer-para-acabar-com-a-hierarquia-racial-entre-as-crian%C3%A7as)
-- [‘Rigidez na escola não dá conta de relações complexas’](https://www.nexojornal.com.br/entrevista/2023/11/26/%E2%80%98Rigidez-na-escola-n%C3%A3o-d%C3%A1-conta-de-rela%C3%A7%C3%B5es-complexas%E2%80%99)
+- [Hamas recua e decide libertar reféns de Israel](https://www.nexojornal.com.br/extra/2023/11/25/Hamas-recua-e-decide-libertar-ref%C3%A9ns-de-Israel)
+- [Sindicatos, empresários e prefeituras defendem desoneração](https://www.nexojornal.com.br/extra/2023/11/24/Sindicatos-empres%C3%A1rios-e-prefeituras-defendem-desonera%C3%A7%C3%A3o)
+- [Conheça movimentos que se contrapõem à Black Friday](https://www.nexojornal.com.br/expresso/2023/11/24/Conhe%C3%A7a-movimentos-que-se-contrap%C3%B5em-%C3%A0-Black-Friday)
+- [O jogo educativo que permite explorar a Amazônia em 3D](https://www.nexojornal.com.br/expresso/2023/11/24/O-jogo-educativo-que-permite-explorar-a-Amaz%C3%B4nia-em-3D)
+- [‘Estilista coração de galinha’: entrevistas com Ronaldo Fraga](https://www.nexojornal.com.br/estante/trechos/2023/11/24/%E2%80%98Estilista-cora%C3%A7%C3%A3o-de-galinha%E2%80%99-entrevistas-com-Ronaldo-Fraga)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
