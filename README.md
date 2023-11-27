@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morte de PM pode ter relação com milícia, diz governador](https://www.nexojornal.com.br/extra/2023/11/26/Morte-de-PM-pode-ter-rela%C3%A7%C3%A3o-com-mil%C3%ADcia-diz-governador)
-- [O acervo com alguns dos mapas mais antigos e bonitos do mundo](https://www.nexojornal.com.br/expresso/2023/11/26/O-acervo-com-alguns-dos-mapas-mais-antigos-e-bonitos-do-mundo)
-- [5 livros que humanizam personagens negros](https://www.nexojornal.com.br/estante/favoritos/2023/11/26/5-livros-que-humanizam-personagens-negros)
-- [O que fazer para acabar com a hierarquia racial entre as crianças](https://www.nexojornal.com.br/externo/2023/11/26/O-que-fazer-para-acabar-com-a-hierarquia-racial-entre-as-crian%C3%A7as)
-- [‘Rigidez na escola não dá conta de relações complexas’](https://www.nexojornal.com.br/entrevista/2023/11/26/%E2%80%98Rigidez-na-escola-n%C3%A3o-d%C3%A1-conta-de-rela%C3%A7%C3%B5es-complexas%E2%80%99)
+- [A restrição peruana ao casamento infantil. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2023/11/26/A-restri%C3%A7%C3%A3o-peruana-ao-casamento-infantil.-E-o-cen%C3%A1rio-no-Brasil)
+- [Carnaúba, um supermicroscópio de raios X](https://www.nexojornal.com.br/externo/2023/11/26/Carna%C3%BAba-um-supermicrosc%C3%B3pio-de-raios-X)
+- [O que esperar do Brasil na próxima Conferência do Clima](https://www.nexojornal.com.br/ensaio/2023/11/26/O-que-esperar-do-Brasil-na-pr%C3%B3xima-Confer%C3%AAncia-do-Clima)
+- [Contas públicas: o que o deficit fiscal muda na sua vida](https://www.nexojornal.com.br/expresso/2023/11/26/Contas-p%C3%BAblicas-o-que-o-deficit-fiscal-muda-na-sua-vida)
+- [Milei manda carta cordial convidando Lula para sua posse](https://www.nexojornal.com.br/extra/2023/11/26/Milei-manda-carta-cordial-convidando-Lula-para-sua-posse)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
