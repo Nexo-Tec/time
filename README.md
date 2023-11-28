@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A opção de Lula por um conservador na Procuradoria-Geral](https://www.nexojornal.com.br/expresso/2023/11/27/A-op%C3%A7%C3%A3o-de-Lula-por-um-conservador-na-Procuradoria-Geral)
-- [7 chaves da indicação de Flavio Dino para o Supremo](https://www.nexojornal.com.br/expresso/2023/11/27/7-chaves-da-indica%C3%A7%C3%A3o-de-Flavio-Dino-para-o-Supremo)
-- [Por que Milei está abandonando o discurso de campanha](https://www.nexojornal.com.br/expresso/2023/11/27/Por-que-Milei-est%C3%A1-abandonando-o-discurso-de-campanha)
-- [A disputa política em torno das privatizações paulistas](https://www.nexojornal.com.br/podcast/2023/11/27/A-disputa-pol%C3%ADtica-em-torno-das-privatiza%C3%A7%C3%B5es-paulistas)
-- [X ‘destrói democracia’, diz prefeita de Paris ao deixar a rede social](https://www.nexojornal.com.br/extra/2023/11/27/X-%E2%80%98destr%C3%B3i-democracia%E2%80%99-diz-prefeita-de-Paris-ao-deixar-a-rede-social)
+- [A restrição peruana ao casamento infantil. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2023/11/26/A-restri%C3%A7%C3%A3o-peruana-ao-casamento-infantil.-E-o-cen%C3%A1rio-no-Brasil)
+- [Carnaúba, um supermicroscópio de raios X](https://www.nexojornal.com.br/externo/2023/11/26/Carna%C3%BAba-um-supermicrosc%C3%B3pio-de-raios-X)
+- [O que esperar do Brasil na próxima Conferência do Clima](https://www.nexojornal.com.br/ensaio/2023/11/26/O-que-esperar-do-Brasil-na-pr%C3%B3xima-Confer%C3%AAncia-do-Clima)
+- [Contas públicas: o que o deficit fiscal muda na sua vida](https://www.nexojornal.com.br/expresso/2023/11/26/Contas-p%C3%BAblicas-o-que-o-deficit-fiscal-muda-na-sua-vida)
+- [Milei manda carta cordial convidando Lula para sua posse](https://www.nexojornal.com.br/extra/2023/11/26/Milei-manda-carta-cordial-convidando-Lula-para-sua-posse)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
