@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Gargantilha](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/gargantilha/)
 - [“Achei que ao sair do meu emprego seria feliz. Não fui, mas encontrei o que amo”](https://gamarevista.uol.com.br/pessoas/roger-evangelista-achei-que-ao-sair-do-meu-emprego-seria-feliz-nao-fui-mas-encontrei-o-que-amo/)
 - [Prepare o spaghetti Cacio e Pepe, cremoso e com séculos de história](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/prepare-o-spaghetti-cacio-e-pepe-cremoso-e-com-seculos-de-historia/)
 - [Tudo o que você precisa saber sobre o 50 Best Latin America no Rio](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/tudo-o-que-voce-precisa-saber-sobre-o-50-best-latin-america-no-rio/)
 - [@baddiebony](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/baddiebony/)
-- [Astrid Fontenelle: “O Brasil precisa se emocionar com histórias de amor”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/astrid-fontenelle-chegadas-e-partidas-gnt-historias-de-amor-fantastico-globo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
