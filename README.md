@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A opção de Lula por um conservador na Procuradoria-Geral](https://www.nexojornal.com.br/expresso/2023/11/27/A-op%C3%A7%C3%A3o-de-Lula-por-um-conservador-na-Procuradoria-Geral)
-- [7 chaves da indicação de Flavio Dino para o Supremo](https://www.nexojornal.com.br/expresso/2023/11/27/7-chaves-da-indica%C3%A7%C3%A3o-de-Flavio-Dino-para-o-Supremo)
-- [Por que Milei está abandonando o discurso de campanha](https://www.nexojornal.com.br/expresso/2023/11/27/Por-que-Milei-est%C3%A1-abandonando-o-discurso-de-campanha)
-- [A disputa política em torno das privatizações paulistas](https://www.nexojornal.com.br/podcast/2023/11/27/A-disputa-pol%C3%ADtica-em-torno-das-privatiza%C3%A7%C3%B5es-paulistas)
-- [X ‘destrói democracia’, diz prefeita de Paris ao deixar a rede social](https://www.nexojornal.com.br/extra/2023/11/27/X-%E2%80%98destr%C3%B3i-democracia%E2%80%99-diz-prefeita-de-Paris-ao-deixar-a-rede-social)
+- [Como ministros da ultradireita de Israel influenciam a guerra](https://www.nexojornal.com.br/expresso/2023/11/28/Como-ministros-da-ultradireita-de-Israel-influenciam-a-guerra)
+- [Ter ou não ter filhos? Como a crise do clima afeta a questão](https://www.nexojornal.com.br/expresso/2023/11/28/Ter-ou-n%C3%A3o-ter-filhos-Como-a-crise-do-clima-afeta-a-quest%C3%A3o)
+- [Por que é importante conservar a vegetação do Cerrado](https://www.nexojornal.com.br/expresso/2023/11/28/Por-que-%C3%A9-importante-conservar-a-vegeta%C3%A7%C3%A3o-do-Cerrado)
+- [Os desafios do novo ministro da Justiça e da Segurança Pública](https://www.nexojornal.com.br/podcast/2023/11/28/Os-desafios-do-novo-ministro-da-Justi%C3%A7a-e-da-Seguran%C3%A7a-P%C3%BAblica)
+- [Senado aprova projeto que facilita liberação de agrotóxicos](https://www.nexojornal.com.br/extra/2023/11/28/Senado-aprova-projeto-que-facilita-libera%C3%A7%C3%A3o-de-agrot%C3%B3xicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
