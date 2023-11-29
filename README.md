@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Prepare o spaghetti Cacio e Pepe, cremoso e com séculos de história](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/prepare-o-spaghetti-cacio-e-pepe-cremoso-e-com-seculos-de-historia/)
 - [Tudo o que você precisa saber sobre o 50 Best Latin America no Rio](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/tudo-o-que-voce-precisa-saber-sobre-o-50-best-latin-america-no-rio/)
 - [@baddiebony](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/baddiebony/)
 - [Astrid Fontenelle: “O Brasil precisa se emocionar com histórias de amor”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/astrid-fontenelle-chegadas-e-partidas-gnt-historias-de-amor-fantastico-globo/)
 - [Resenha de “A Fuga da Sibéria”, de Liev Trótski](https://gamarevista.uol.com.br/colunistas/marilene-felinto/resenha-de-a-fuga-da-siberia-de-liev-trotski/)
-- [Ciclo de Debates Gama na Flip](https://gamarevista.uol.com.br/achamos-que-vale/ir/ciclo-de-debates-gama-na-flip/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
