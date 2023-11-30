@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como ministros da ultradireita de Israel influenciam a guerra](https://www.nexojornal.com.br/expresso/2023/11/28/Como-ministros-da-ultradireita-de-Israel-influenciam-a-guerra)
-- [Ter ou não ter filhos? Como a crise do clima afeta a questão](https://www.nexojornal.com.br/expresso/2023/11/28/Ter-ou-n%C3%A3o-ter-filhos-Como-a-crise-do-clima-afeta-a-quest%C3%A3o)
-- [Por que é importante conservar a vegetação do Cerrado](https://www.nexojornal.com.br/expresso/2023/11/28/Por-que-%C3%A9-importante-conservar-a-vegeta%C3%A7%C3%A3o-do-Cerrado)
-- [Os desafios do novo ministro da Justiça e da Segurança Pública](https://www.nexojornal.com.br/podcast/2023/11/28/Os-desafios-do-novo-ministro-da-Justi%C3%A7a-e-da-Seguran%C3%A7a-P%C3%BAblica)
-- [Senado aprova projeto que facilita liberação de agrotóxicos](https://www.nexojornal.com.br/extra/2023/11/28/Senado-aprova-projeto-que-facilita-libera%C3%A7%C3%A3o-de-agrot%C3%B3xicos)
+- [Aos 100 anos, morre Henry Kissinger, diplomata americano](https://www.nexojornal.com.br/extra/2023/11/30/Aos-100-anos-morre-Henry-Kissinger-diplomata-americano)
+- [As peculiares reviravoltas na trajetória de Janones](https://www.nexojornal.com.br/expresso/2023/11/29/As-peculiares-reviravoltas-na-trajet%C3%B3ria-de-Janones)
+- [Qual o status das principais metas definidas em COPs](https://www.nexojornal.com.br/expresso/2023/11/29/Qual-o-status-das-principais-metas-definidas-em-COPs)
+- [Senado aprova taxação de fundos de super-ricos e offshores](https://www.nexojornal.com.br/extra/2023/11/29/Senado-aprova-taxa%C3%A7%C3%A3o-de-fundos-de-super-ricos-e-offshores)
+- [Os berros da juíza que queria ser chamada de ‘vossa excelência’](https://www.nexojornal.com.br/podcast/2023/11/29/Os-berros-da-ju%C3%ADza-que-queria-ser-chamada-de-%E2%80%98vossa-excel%C3%AAncia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
