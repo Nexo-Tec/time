@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funciona a lista suja de trabalho escravo no Brasil](https://www.nexojornal.com.br/incoming/2023/11/30/Como-funciona-a-lista-suja-de-trabalho-escravo-no-Brasil)
-- [Procuradoria pede afastamento de governador do Acre](https://www.nexojornal.com.br/extra/2023/11/30/Procuradoria-pede-afastamento-de-governador-do-Acre)
-- [Crime organizado cresce na Amazônia Legal, aponta estudo](https://www.nexojornal.com.br/extra/2023/11/30/Crime-organizado-cresce-na-Amaz%C3%B4nia-Legal-aponta-estudo)
 - [Aos 100 anos, morre Henry Kissinger, diplomata americano](https://www.nexojornal.com.br/extra/2023/11/30/Aos-100-anos-morre-Henry-Kissinger-diplomata-americano)
 - [As peculiares reviravoltas na trajetória de Janones](https://www.nexojornal.com.br/expresso/2023/11/29/As-peculiares-reviravoltas-na-trajet%C3%B3ria-de-Janones)
+- [Qual o status das principais metas definidas em COPs](https://www.nexojornal.com.br/expresso/2023/11/29/Qual-o-status-das-principais-metas-definidas-em-COPs)
+- [Senado aprova taxação de fundos de super-ricos e offshores](https://www.nexojornal.com.br/extra/2023/11/29/Senado-aprova-taxa%C3%A7%C3%A3o-de-fundos-de-super-ricos-e-offshores)
+- [Os berros da juíza que queria ser chamada de ‘vossa excelência’](https://www.nexojornal.com.br/podcast/2023/11/29/Os-berros-da-ju%C3%ADza-que-queria-ser-chamada-de-%E2%80%98vossa-excel%C3%AAncia%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
