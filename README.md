@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Na Trilha do Pop](https://gamarevista.uol.com.br/cultura/trecho-de-livro/na-trilha-do-pop/)
-- [Gargantilha](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/gargantilha/)
-- [“Achei que ao sair do meu emprego seria feliz. Não fui, mas encontrei o que amo”](https://gamarevista.uol.com.br/pessoas/roger-evangelista-achei-que-ao-sair-do-meu-emprego-seria-feliz-nao-fui-mas-encontrei-o-que-amo/)
-- [Prepare o spaghetti Cacio e Pepe, cremoso e com séculos de história](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/prepare-o-spaghetti-cacio-e-pepe-cremoso-e-com-seculos-de-historia/)
-- [Tudo o que você precisa saber sobre o 50 Best Latin America no Rio](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/tudo-o-que-voce-precisa-saber-sobre-o-50-best-latin-america-no-rio/)
+- [Estreias de cinema premiadas em festivais mundo afora](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreias-de-cinema-premiadas-em-festivais-mundo-afora/)
+- [Festival literário com debates sobre memória judaica no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-literario-com-debates-sobre-memoria-judaica-no-brasil/)
+- [A cozinha mágica dos vegetais para crianças em “Primeiro Nutrir”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-cozinha-magica-dos-vegetais-para-criancas-em-primeiro-nutrir/)
+- [Lembranças de um dia histórico para as escritoras do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/lembrancas-de-um-dia-historico-para-as-escritoras-do-brasil/)
+- [Angélica como você nunca viu antes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/angelica-como-voce-nunca-viu-antes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
