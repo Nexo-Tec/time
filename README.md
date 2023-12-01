@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funciona a lista suja de trabalho escravo no Brasil](https://www.nexojornal.com.br/incoming/2023/11/30/Como-funciona-a-lista-suja-de-trabalho-escravo-no-Brasil)
-- [Procuradoria pede afastamento de governador do Acre](https://www.nexojornal.com.br/extra/2023/11/30/Procuradoria-pede-afastamento-de-governador-do-Acre)
-- [Crime organizado cresce na Amazônia Legal, aponta estudo](https://www.nexojornal.com.br/extra/2023/11/30/Crime-organizado-cresce-na-Amaz%C3%B4nia-Legal-aponta-estudo)
-- [Aos 100 anos, morre Henry Kissinger, diplomata americano](https://www.nexojornal.com.br/extra/2023/11/30/Aos-100-anos-morre-Henry-Kissinger-diplomata-americano)
-- [As peculiares reviravoltas na trajetória de Janones](https://www.nexojornal.com.br/expresso/2023/11/29/As-peculiares-reviravoltas-na-trajet%C3%B3ria-de-Janones)
+- [Trégua termina e Hamas e Israel retomam ataques](https://www.nexojornal.com.br/extra/2023/12/01/Tr%C3%A9gua-termina-e-Hamas-e-Israel-retomam-ataques)
+- [Como o risco de afundamento se agrava em Maceió](https://www.nexojornal.com.br/expresso/2023/11/30/Como-o-risco-de-afundamento-se-agrava-em-Macei%C3%B3)
+- [O que o Congresso mudou na liberação de agrotóxicos](https://www.nexojornal.com.br/expresso/2023/11/30/O-que-o-Congresso-mudou-na-libera%C3%A7%C3%A3o-de-agrot%C3%B3xicos)
+- [Governo brasileiro recebe convite para integrar a Opep+](https://www.nexojornal.com.br/extra/2023/11/30/Governo-brasileiro-recebe-convite-para-integrar-a-Opep)
+- [O poder de Henry Kissinger na definição dos rumos do século 20](https://www.nexojornal.com.br/podcast/2023/11/30/O-poder-de-Henry-Kissinger-na-defini%C3%A7%C3%A3o-dos-rumos-do-s%C3%A9culo-20)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
