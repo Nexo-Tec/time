@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trégua termina e Hamas e Israel retomam ataques](https://www.nexojornal.com.br/extra/2023/12/01/Tr%C3%A9gua-termina-e-Hamas-e-Israel-retomam-ataques)
+- [Corte de Haia diz que Venezuela não pode anexar parte da Guiana](https://www.nexojornal.com.br/extra/2023/12/01/Corte-de-Haia-diz-que-Venezuela-n%C3%A3o-pode-anexar-parte-da-Guiana)
+- [Congresso dos EUA cassa mandato de George Santos](https://www.nexojornal.com.br/extra/2023/12/01/Congresso-dos-EUA-cassa-mandato-de-George-Santos)
+- [A pesquisa que mapeou o perfil dos geeks brasileiros em 2023](https://www.nexojornal.com.br/expresso/2023/12/01/A-pesquisa-que-mapeou-o-perfil-dos-geeks-brasileiros-em-2023)
+- [Trégua termina, e Hamas e Israel retomam ataques](https://www.nexojornal.com.br/extra/2023/12/01/Tr%C3%A9gua-termina-e-Hamas-e-Israel-retomam-ataques)
 - [Como o risco de afundamento se agrava em Maceió](https://www.nexojornal.com.br/expresso/2023/11/30/Como-o-risco-de-afundamento-se-agrava-em-Macei%C3%B3)
-- [O que o Congresso mudou na liberação de agrotóxicos](https://www.nexojornal.com.br/expresso/2023/11/30/O-que-o-Congresso-mudou-na-libera%C3%A7%C3%A3o-de-agrot%C3%B3xicos)
-- [Governo brasileiro recebe convite para integrar a Opep+](https://www.nexojornal.com.br/extra/2023/11/30/Governo-brasileiro-recebe-convite-para-integrar-a-Opep)
-- [O poder de Henry Kissinger na definição dos rumos do século 20](https://www.nexojornal.com.br/podcast/2023/11/30/O-poder-de-Henry-Kissinger-na-defini%C3%A7%C3%A3o-dos-rumos-do-s%C3%A9culo-20)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
