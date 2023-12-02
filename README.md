@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Corte de Haia diz que Venezuela não pode anexar parte da Guiana](https://www.nexojornal.com.br/extra/2023/12/01/Corte-de-Haia-diz-que-Venezuela-n%C3%A3o-pode-anexar-parte-da-Guiana)
-- [Congresso dos EUA cassa mandato de George Santos](https://www.nexojornal.com.br/extra/2023/12/01/Congresso-dos-EUA-cassa-mandato-de-George-Santos)
-- [A pesquisa que mapeou o perfil dos geeks brasileiros em 2023](https://www.nexojornal.com.br/expresso/2023/12/01/A-pesquisa-que-mapeou-o-perfil-dos-geeks-brasileiros-em-2023)
-- [Trégua termina, e Hamas e Israel retomam ataques](https://www.nexojornal.com.br/extra/2023/12/01/Tr%C3%A9gua-termina-e-Hamas-e-Israel-retomam-ataques)
-- [Como o risco de afundamento se agrava em Maceió](https://www.nexojornal.com.br/expresso/2023/11/30/Como-o-risco-de-afundamento-se-agrava-em-Macei%C3%B3)
+- [O petróleo ainda como aposta dos países em desenvolvimento](https://www.nexojornal.com.br/expresso/2023/12/02/O-petr%C3%B3leo-ainda-como-aposta-dos-pa%C3%ADses-em-desenvolvimento)
+- [Qual é o lugar de pessoas idosas na fila da moradia digna?](https://www.nexojornal.com.br/ensaio/2023/12/02/Qual-%C3%A9-o-lugar-de-pessoas-idosas-na-fila-da-moradia-digna)
+- [Como a opinião sobre o conflito Hamas-Israel afeta Hollywood](https://www.nexojornal.com.br/expresso/2023/12/02/Como-a-opini%C3%A3o-sobre-o-conflito-Hamas-Israel-afeta-Hollywood)
+- [5 livros para se organizar para dentro e para fora](https://www.nexojornal.com.br/estante/favoritos/2023/12/02/5-livros-para-se-organizar-para-dentro-e-para-fora)
+- [Meninas lutam para superar as marcas da Fundação Casa](https://www.nexojornal.com.br/externo/2023/12/02/Meninas-lutam-para-superar-as-marcas-da-Funda%C3%A7%C3%A3o-Casa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
