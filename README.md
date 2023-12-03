@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aline Donati: “Não existe tratamento novo melhor que os antigos para calvície”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-donati-transplante-capilar-calvice-tricologia/)
 - [Estreias de cinema premiadas em festivais mundo afora](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreias-de-cinema-premiadas-em-festivais-mundo-afora/)
 - [Festival literário com debates sobre memória judaica no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-literario-com-debates-sobre-memoria-judaica-no-brasil/)
 - [A cozinha mágica dos vegetais para crianças em “Primeiro Nutrir”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-cozinha-magica-dos-vegetais-para-criancas-em-primeiro-nutrir/)
 - [Lembranças de um dia histórico para as escritoras do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/lembrancas-de-um-dia-historico-para-as-escritoras-do-brasil/)
-- [Angélica como você nunca viu antes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/angelica-como-voce-nunca-viu-antes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
