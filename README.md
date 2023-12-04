@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Solo de mina da Braskem em Maceió já cedeu 1,61 metro](https://www.nexojornal.com.br/extra/2023/12/02/Solo-de-mina-da-Braskem-em-Macei%C3%B3-j%C3%A1-cedeu-161-metro)
-- [O petróleo ainda como aposta dos países em desenvolvimento](https://www.nexojornal.com.br/expresso/2023/12/02/O-petr%C3%B3leo-ainda-como-aposta-dos-pa%C3%ADses-em-desenvolvimento)
-- [Qual é o lugar de pessoas idosas na fila da moradia digna?](https://www.nexojornal.com.br/ensaio/2023/12/02/Qual-%C3%A9-o-lugar-de-pessoas-idosas-na-fila-da-moradia-digna)
-- [Como a opinião sobre o conflito Hamas-Israel afeta Hollywood](https://www.nexojornal.com.br/expresso/2023/12/02/Como-a-opini%C3%A3o-sobre-o-conflito-Hamas-Israel-afeta-Hollywood)
-- [5 livros para se organizar para dentro e para fora](https://www.nexojornal.com.br/estante/favoritos/2023/12/02/5-livros-para-se-organizar-para-dentro-e-para-fora)
+- [Morre aos 63 anos o filósofo quilombola Antonio Bispo](https://www.nexojornal.com.br/extra/2023/12/03/Morre-aos-63-anos-o-fil%C3%B3sofo-quilombola-Antonio-Bispo)
+- [Os parasitas que transformam aranhas em zumbis](https://www.nexojornal.com.br/externo/2023/12/03/Os-parasitas-que-transformam-aranhas-em-zumbis)
+- [A violência política e a desinformação de gênero no Brasil](https://www.nexojornal.com.br/ensaio/2023/12/03/A-viol%C3%AAncia-pol%C3%ADtica-e-a-desinforma%C3%A7%C3%A3o-de-g%C3%AAnero-no-Brasil)
+- [Como é a economia da Irlanda, referência para Javier Milei](https://www.nexojornal.com.br/expresso/2023/12/03/Como-%C3%A9-a-economia-da-Irlanda-refer%C3%AAncia-para-Javier-Milei)
+- [Punição de jornais por entrevistas: as críticas à decisão do STF](https://www.nexojornal.com.br/expresso/2023/12/03/Puni%C3%A7%C3%A3o-de-jornais-por-entrevistas-as-cr%C3%ADticas-%C3%A0-decis%C3%A3o-do-STF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
