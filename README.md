@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Que melancolia, que nada. Vou mais é organizar protesto](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/que-melancolia-que-nada-vou-mais-e-organizar-protesto/)
 - [“Nêgo Bispo ousou apresentar uma solução comunitária para um mundo individualista”](https://gamarevista.uol.com.br/sociedade/nego-bispo-ousou-apresentar-uma-solucao-comunitaria-para-um-mundo-individualista/)
 - [Aline Donati: “Não existe tratamento novo melhor que os antigos para calvície”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-donati-transplante-capilar-calvice-tricologia/)
 - [Estreias de cinema premiadas em festivais mundo afora](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreias-de-cinema-premiadas-em-festivais-mundo-afora/)
 - [Festival literário com debates sobre memória judaica no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-literario-com-debates-sobre-memoria-judaica-no-brasil/)
-- [A cozinha mágica dos vegetais para crianças em “Primeiro Nutrir”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-cozinha-magica-dos-vegetais-para-criancas-em-primeiro-nutrir/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
