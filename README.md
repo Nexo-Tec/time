@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As possibilidades e limites do estado numa Sabesp privatizada](https://www.nexojornal.com.br/expresso/2023/12/04/As-possibilidades-e-limites-do-estado-numa-Sabesp-privatizada)
-- [O impacto da transição demográfica nas escolas brasileiras](https://www.nexojornal.com.br/grafico/2023/12/04/O-impacto-da-transi%C3%A7%C3%A3o-demogr%C3%A1fica-nas-escolas-brasileiras)
-- [Os efeitos da votação venezuelana para anexar parte da Guiana](https://www.nexojornal.com.br/podcast/2023/12/04/Os-efeitos-da-vota%C3%A7%C3%A3o-venezuelana-para-anexar-parte-da-Guiana)
-- [Como a lei de alienação parental pode ser usada contra mulheres](https://www.nexojornal.com.br/expresso/2023/12/04/Como-a-lei-de-aliena%C3%A7%C3%A3o-parental-pode-ser-usada-contra-mulheres)
-- [A inteligência artificial chamada de ‘ChatGPT da química’](https://www.nexojornal.com.br/expresso/2023/12/04/A-intelig%C3%AAncia-artificial-chamada-de-%E2%80%98ChatGPT-da-qu%C3%ADmica%E2%80%99)
+- [Morre aos 63 anos o filósofo quilombola Antonio Bispo](https://www.nexojornal.com.br/extra/2023/12/03/Morre-aos-63-anos-o-fil%C3%B3sofo-quilombola-Antonio-Bispo)
+- [Os parasitas que transformam aranhas em zumbis](https://www.nexojornal.com.br/externo/2023/12/03/Os-parasitas-que-transformam-aranhas-em-zumbis)
+- [A violência política e a desinformação de gênero no Brasil](https://www.nexojornal.com.br/ensaio/2023/12/03/A-viol%C3%AAncia-pol%C3%ADtica-e-a-desinforma%C3%A7%C3%A3o-de-g%C3%AAnero-no-Brasil)
+- [Como é a economia da Irlanda, referência para Javier Milei](https://www.nexojornal.com.br/expresso/2023/12/03/Como-%C3%A9-a-economia-da-Irlanda-refer%C3%AAncia-para-Javier-Milei)
+- [Punição de jornais por entrevistas: as críticas à decisão do STF](https://www.nexojornal.com.br/expresso/2023/12/03/Puni%C3%A7%C3%A3o-de-jornais-por-entrevistas-as-cr%C3%ADticas-%C3%A0-decis%C3%A3o-do-STF)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
