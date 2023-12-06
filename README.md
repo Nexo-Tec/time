@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maceió afundando: quais frentes tentam punir a Braskem](https://www.nexojornal.com.br/expresso/2023/12/05/Macei%C3%B3-afundando-quais-frentes-tentam-punir-a-Braskem)
-- [Por que a nota dos alunos de países ricos está em queda no Pisa](https://www.nexojornal.com.br/expresso/2023/12/05/Por-que-a-nota-dos-alunos-de-pa%C3%ADses-ricos-est%C3%A1-em-queda-no-Pisa)
-- [O acordo entre União Europeia e Mercosul fracassou?](https://www.nexojornal.com.br/expresso/2023/12/05/O-acordo-entre-Uni%C3%A3o-Europeia-e-Mercosul-fracassou)
-- [Supremo nega vínculo empregatício entre motorista e aplicativo](https://www.nexojornal.com.br/extra/2023/12/05/Supremo-nega-v%C3%ADnculo-empregat%C3%ADcio-entre-motorista-e-aplicativo)
-- [Israel avança sobre sul de Gaza e palestinos não têm para onde ir](https://www.nexojornal.com.br/extra/2023/12/05/Israel-avan%C3%A7a-sobre-sul-de-Gaza-e-palestinos-n%C3%A3o-t%C3%AAm-para-onde-ir)
+- [As possibilidades e limites do estado numa Sabesp privatizada](https://www.nexojornal.com.br/expresso/2023/12/04/As-possibilidades-e-limites-do-estado-numa-Sabesp-privatizada)
+- [O impacto da transição demográfica nas escolas brasileiras](https://www.nexojornal.com.br/grafico/2023/12/04/O-impacto-da-transi%C3%A7%C3%A3o-demogr%C3%A1fica-nas-escolas-brasileiras)
+- [Os efeitos da votação venezuelana para anexar parte da Guiana](https://www.nexojornal.com.br/podcast/2023/12/04/Os-efeitos-da-vota%C3%A7%C3%A3o-venezuelana-para-anexar-parte-da-Guiana)
+- [Como a lei de alienação parental pode ser usada contra mulheres](https://www.nexojornal.com.br/expresso/2023/12/04/Como-a-lei-de-aliena%C3%A7%C3%A3o-parental-pode-ser-usada-contra-mulheres)
+- [A inteligência artificial chamada de ‘ChatGPT da química’](https://www.nexojornal.com.br/expresso/2023/12/04/A-intelig%C3%AAncia-artificial-chamada-de-%E2%80%98ChatGPT-da-qu%C3%ADmica%E2%80%99)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
