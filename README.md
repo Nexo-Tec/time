@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Loucura tem cura?](https://gamarevista.uol.com.br/colunistas/maria-homem/loucura-tem-cura/)
 - [Nina Silva: “Investir nos nossos iguais é uma estratégia ancestral de sobrevivência”](https://gamarevista.uol.com.br/pessoas/nina-silva-investir-nos-nossos-iguais-e-uma-estrategia-ancestral-de-sobrevivencia/)
 - [Que melancolia, que nada. Vou mais é organizar protesto](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/que-melancolia-que-nada-vou-mais-e-organizar-protesto/)
 - [“Nêgo Bispo ousou apresentar uma solução comunitária para um mundo individualista”](https://gamarevista.uol.com.br/sociedade/nego-bispo-ousou-apresentar-uma-solucao-comunitaria-para-um-mundo-individualista/)
 - [Aline Donati: “Não existe tratamento novo melhor que os antigos para calvície”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-donati-transplante-capilar-calvice-tricologia/)
-- [Estreias de cinema premiadas em festivais mundo afora](https://gamarevista.uol.com.br/achamos-que-vale/assistir/estreias-de-cinema-premiadas-em-festivais-mundo-afora/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
