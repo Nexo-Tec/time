@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como a obra de Roberto Schwarz contribui para o pensamento social brasileiro](https://pp.nexojornal.com.br/academico/2023/Como-a-obra-de-Roberto-Schwarz-contribui-para-o-pensamento-social-brasileiro)
+- [Enfrentamento das mudanças climáticas](https://pp.nexojornal.com.br/glossario/Enfrentamento-das-mudan%C3%A7as-clim%C3%A1ticas)
 - [Possibilidades de integração entre as políticas de Ingresso &lpar;Lei de Cotas&rpar; e de permanência &lpar;Lei da PNAES&rpar;](https://pp.nexojornal.com.br/opiniao/2023/Possibilidades-de-integra%C3%A7%C3%A3o-entre-as-pol%C3%ADticas-de-Ingresso-Lei-de-Cotas-e-de-perman%C3%AAncia-Lei-da-PNAES)
 - [Como as evidências podem impulsionar políticas públicas para a primeira infância?](https://pp.nexojornal.com.br/ponto-de-vista/2023/Como-as-evid%C3%AAncias-podem-impulsionar-pol%C3%ADticas-p%C3%BAblicas-para-a-primeira-inf%C3%A2ncia)
 - [Modificando a trajetória de degradação do garimpo em Terras Indígenas](https://pp.nexojornal.com.br/ponto-de-vista/2023/Modificando-a-trajet%C3%B3ria-de-degrada%C3%A7%C3%A3o-do-garimpo-em-Terras-Ind%C3%ADgenas)
-- [Atuação da Defensoria Pública na Cracolândia para a proteção de direitos](https://pp.nexojornal.com.br/linha-do-tempo/2023/Atua%C3%A7%C3%A3o-da-Defensoria-P%C3%BAblica-na-Cracol%C3%A2ndia-para-a-prote%C3%A7%C3%A3o-de-direitos)
-- [Modelo de deliberação do Supremo Tribunal Federal, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/Modelo-de-delibera%C3%A7%C3%A3o-do-Supremo-Tribunal-Federal-em-5-pontos)
 <!-- PP_LIST:END -->
 
