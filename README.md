@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Analfabeto em emojis](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/analfabeto-em-emojis/)
-- [Loucura tem cura?](https://gamarevista.uol.com.br/colunistas/maria-homem/loucura-tem-cura/)
-- [Nina Silva: “Investir nos nossos iguais é uma estratégia ancestral de sobrevivência”](https://gamarevista.uol.com.br/pessoas/nina-silva-investir-nos-nossos-iguais-e-uma-estrategia-ancestral-de-sobrevivencia/)
-- [Que melancolia, que nada. Vou mais é organizar protesto](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/que-melancolia-que-nada-vou-mais-e-organizar-protesto/)
-- [“Nêgo Bispo ousou apresentar uma solução comunitária para um mundo individualista”](https://gamarevista.uol.com.br/sociedade/nego-bispo-ousou-apresentar-uma-solucao-comunitaria-para-um-mundo-individualista/)
+- [A incrível história de Lourenço Mutarelli](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-incrivel-historia-de-lourenco-mutarelli/)
+- [O valor do arroz e feijão na nova série de Rita Lobo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-valor-do-arroz-e-feijao-na-nova-serie-de-rita-lobo/)
+- [Livro de cineasta simboliza morte da mulher “boa”](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-de-cineasta-simboliza-morte-da-mulher-boa/)
+- [Filmes de diretoras que marcaram o cinema, na Cinemateca](https://gamarevista.uol.com.br/achamos-que-vale/ir/filmes-de-diretoras-que-marcaram-o-cinema-na-cinemateca/)
+- [Novo programa de entrevistas de Antonio Tabet, o Kibe Loco](https://gamarevista.uol.com.br/achamos-que-vale/assistir/novo-programa-de-entrevistas-de-antonio-tabet-o-kibe-loco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
