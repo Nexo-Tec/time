@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O passado de Willy Wonka em mais um resgate da obra de Dahl](https://www.nexojornal.com.br/expresso/2023/12/07/O-passado-de-Willy-Wonka-em-mais-um-resgate-da-obra-de-Dahl)
-- [Detidos em tumulto na Assembleia paulista são indiciados](https://www.nexojornal.com.br/extra/2023/12/07/Detidos-em-tumulto-na-Assembleia-paulista-s%C3%A3o-indiciados)
-- [Com Santos rebaixado, cidade tem quebra-quebra na madrugada](https://www.nexojornal.com.br/extra/2023/12/07/Com-Santos-rebaixado-cidade-tem-quebra-quebra-na-madrugada)
 - [Como a comunidade internacional reage à disputa em Essequibo](https://www.nexojornal.com.br/expresso/2023/12/06/Como-a-comunidade-internacional-reage-%C3%A0-disputa-em-Essequibo)
 - [Os conteúdos pagos pela indústria do tabaco na imprensa](https://www.nexojornal.com.br/externo/2023/12/06/Os-conte%C3%BAdos-pagos-pela-ind%C3%BAstria-do-tabaco-na-imprensa)
+- [Jon Fosse, um prêmio Nobel que não vai muito longe](https://www.nexojornal.com.br/colunistas/2023/Jon-Fosse-um-pr%C3%AAmio-Nobel-que-n%C3%A3o-vai-muito-longe)
+- [Assembleia autoriza privatizar a Sabesp. O que vem agora](https://www.nexojornal.com.br/expresso/2023/12/06/Assembleia-autoriza-privatizar-a-Sabesp.-O-que-vem-agora)
+- [Assembleia aprova privatização do saneamento em SP](https://www.nexojornal.com.br/extra/2023/12/06/Assembleia-aprova-privatiza%C3%A7%C3%A3o-do-saneamento-em-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
