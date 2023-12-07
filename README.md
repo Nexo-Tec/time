@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maceió afundando: quais frentes tentam punir a Braskem](https://www.nexojornal.com.br/expresso/2023/12/05/Macei%C3%B3-afundando-quais-frentes-tentam-punir-a-Braskem)
-- [Por que a nota dos alunos de países ricos está em queda no Pisa](https://www.nexojornal.com.br/expresso/2023/12/05/Por-que-a-nota-dos-alunos-de-pa%C3%ADses-ricos-est%C3%A1-em-queda-no-Pisa)
-- [O acordo entre União Europeia e Mercosul fracassou?](https://www.nexojornal.com.br/expresso/2023/12/05/O-acordo-entre-Uni%C3%A3o-Europeia-e-Mercosul-fracassou)
-- [Supremo nega vínculo empregatício entre motorista e aplicativo](https://www.nexojornal.com.br/extra/2023/12/05/Supremo-nega-v%C3%ADnculo-empregat%C3%ADcio-entre-motorista-e-aplicativo)
-- [Israel avança sobre sul de Gaza e palestinos não têm para onde ir](https://www.nexojornal.com.br/extra/2023/12/05/Israel-avan%C3%A7a-sobre-sul-de-Gaza-e-palestinos-n%C3%A3o-t%C3%AAm-para-onde-ir)
+- [Como a comunidade internacional reage à disputa em Essequibo](https://www.nexojornal.com.br/expresso/2023/12/06/Como-a-comunidade-internacional-reage-%C3%A0-disputa-em-Essequibo)
+- [Os conteúdos pagos pela indústria do tabaco na imprensa](https://www.nexojornal.com.br/externo/2023/12/06/Os-conte%C3%BAdos-pagos-pela-ind%C3%BAstria-do-tabaco-na-imprensa)
+- [Jon Fosse, um prêmio Nobel que não vai muito longe](https://www.nexojornal.com.br/colunistas/2023/Jon-Fosse-um-pr%C3%AAmio-Nobel-que-n%C3%A3o-vai-muito-longe)
+- [Assembleia autoriza privatizar a Sabesp. O que vem agora](https://www.nexojornal.com.br/expresso/2023/12/06/Assembleia-autoriza-privatizar-a-Sabesp.-O-que-vem-agora)
+- [Assembleia aprova privatização do saneamento em SP](https://www.nexojornal.com.br/extra/2023/12/06/Assembleia-aprova-privatiza%C3%A7%C3%A3o-do-saneamento-em-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
