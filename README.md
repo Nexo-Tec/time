@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como zerar o desmatamento na Amazônia Brasileira](https://pp.nexojornal.com.br/academico/2023/Como-zerar-o-desmatamento-na-Amaz%C3%B4nia-Brasileira)
 - [COP28 e o enfrentamento da crise climática, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/COP28-e-o-enfrentamento-da-crise-clim%C3%A1tica-em-7-pontos)
 - [Antropologia e políticas públicas](https://pp.nexojornal.com.br/bibliografia-basica/2023/12/06/Antropologia-e-pol%C3%ADticas-p%C3%BAblicas)
 - [A cobertura do agronegócio ainda é insuficiente para enfrentar os desafios climáticos](https://pp.nexojornal.com.br/ponto-de-vista/2023/A-cobertura-do-agroneg%C3%B3cio-ainda-%C3%A9-insuficiente-para-enfrentar-os-desafios-clim%C3%A1ticos)
 - [20 anos depois, o que os governos estão fazendo para promover uma educação com equidade étnico-racial?](https://pp.nexojornal.com.br/ponto-de-vista/2023/20-anos-depois-o-que-os-governos-est%C3%A3o-fazendo-para-promover-uma-educa%C3%A7%C3%A3o-com-equidade-%C3%A9tnico-racial)
-- [O Ministério da Igualdade Racial e o direito à memória da população negra no Brasil](https://pp.nexojornal.com.br/opiniao/2023/O-Minist%C3%A9rio-da-Igualdade-Racial-e-o-direito-%C3%A0-mem%C3%B3ria-da-popula%C3%A7%C3%A3o-negra-no-Brasil)
 <!-- PP_LIST:END -->
 
