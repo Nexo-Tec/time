@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A aprovação da venda da Sabesp. A tensão em Essequibo. E mais](https://www.nexojornal.com.br/video/extrato/A-aprova%C3%A7%C3%A3o-da-venda-da-Sabesp.-A-tens%C3%A3o-em-Essequibo.-E-mais)
-- [Bolívia é integrada ao Mercosul e vira 5º membro efetivo](https://www.nexojornal.com.br/extra/2023/12/08/Bol%C3%ADvia-%C3%A9-integrada-ao-Mercosul-e-vira-5%C2%BA-membro-efetivo)
-- [Milei encontra Bolsonaro às vésperas da posse presidencial](https://www.nexojornal.com.br/extra/2023/12/08/Milei-encontra-Bolsonaro-%C3%A0s-v%C3%A9speras-da-posse-presidencial)
-- [‘Peach Fuzz’ é eleita a cor do ano de 2024 da Pantone](https://www.nexojornal.com.br/extra/2023/12/08/%E2%80%98Peach-Fuzz%E2%80%99-%C3%A9-eleita-a-cor-do-ano-de-2024-da-Pantone)
-- [Sepultura anuncia fim da banda após 40 anos na estrada](https://www.nexojornal.com.br/extra/2023/12/08/Sepultura-anuncia-fim-da-banda-ap%C3%B3s-40-anos-na-estrada)
+- [Como as remoções da Braskem afetam a moradia em Maceió](https://www.nexojornal.com.br/expresso/2023/12/07/Como-as-remo%C3%A7%C3%B5es-da-Braskem-afetam-a-moradia-em-Macei%C3%B3)
+- [A súplica por Gaza do chefe da ONU ao Conselho de Segurança](https://www.nexojornal.com.br/expresso/2023/12/07/A-s%C3%BAplica-por-Gaza-do-chefe-da-ONU-ao-Conselho-de-Seguran%C3%A7a)
+- [Qual o papel de casas de acolhimento para pessoas LGBTI+](https://www.nexojornal.com.br/expresso/2023/12/07/Qual-o-papel-de-casas-de-acolhimento-para-pessoas-LGBTI)
+- [O senhor aparecido e o que ele tem a ver conosco](https://www.nexojornal.com.br/colunistas/2023/O-senhor-aparecido-e-o-que-ele-tem-a-ver-conosco)
+- [Câmara aprova projeto que criminaliza de nudes feitos com IA](https://www.nexojornal.com.br/extra/2023/12/07/C%C3%A2mara-aprova-projeto-que-criminaliza-de-nudes-feitos-com-IA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
