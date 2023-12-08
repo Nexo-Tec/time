@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ciência Pouca É Bobagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ciencia-pouca-e-bobagem/)
 - [A incrível história de Lourenço Mutarelli](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-incrivel-historia-de-lourenco-mutarelli/)
 - [O valor do arroz e feijão na nova série de Rita Lobo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-valor-do-arroz-e-feijao-na-nova-serie-de-rita-lobo/)
 - [Livro de cineasta simboliza morte da mulher “boa”](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-de-cineasta-simboliza-morte-da-mulher-boa/)
 - [Filmes de diretoras que marcaram o cinema, na Cinemateca](https://gamarevista.uol.com.br/achamos-que-vale/ir/filmes-de-diretoras-que-marcaram-o-cinema-na-cinemateca/)
-- [Novo programa de entrevistas de Antonio Tabet, o Kibe Loco](https://gamarevista.uol.com.br/achamos-que-vale/assistir/novo-programa-de-entrevistas-de-antonio-tabet-o-kibe-loco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
