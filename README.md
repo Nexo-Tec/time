@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como as remoções da Braskem afetam a moradia em Maceió](https://www.nexojornal.com.br/expresso/2023/12/07/Como-as-remo%C3%A7%C3%B5es-da-Braskem-afetam-a-moradia-em-Macei%C3%B3)
-- [A súplica por Gaza do chefe da ONU ao Conselho de Segurança](https://www.nexojornal.com.br/expresso/2023/12/07/A-s%C3%BAplica-por-Gaza-do-chefe-da-ONU-ao-Conselho-de-Seguran%C3%A7a)
-- [Qual o papel de casas de acolhimento para pessoas LGBTI+](https://www.nexojornal.com.br/expresso/2023/12/07/Qual-o-papel-de-casas-de-acolhimento-para-pessoas-LGBTI)
-- [O senhor aparecido e o que ele tem a ver conosco](https://www.nexojornal.com.br/colunistas/2023/O-senhor-aparecido-e-o-que-ele-tem-a-ver-conosco)
-- [Câmara aprova projeto que criminaliza de nudes feitos com IA](https://www.nexojornal.com.br/extra/2023/12/07/C%C3%A2mara-aprova-projeto-que-criminaliza-de-nudes-feitos-com-IA)
+- [Como a comunidade internacional reage à disputa em Essequibo](https://www.nexojornal.com.br/expresso/2023/12/06/Como-a-comunidade-internacional-reage-%C3%A0-disputa-em-Essequibo)
+- [Os conteúdos pagos pela indústria do tabaco na imprensa](https://www.nexojornal.com.br/externo/2023/12/06/Os-conte%C3%BAdos-pagos-pela-ind%C3%BAstria-do-tabaco-na-imprensa)
+- [Jon Fosse, um prêmio Nobel que não vai muito longe](https://www.nexojornal.com.br/colunistas/2023/Jon-Fosse-um-pr%C3%AAmio-Nobel-que-n%C3%A3o-vai-muito-longe)
+- [Assembleia autoriza privatizar a Sabesp. O que vem agora](https://www.nexojornal.com.br/expresso/2023/12/06/Assembleia-autoriza-privatizar-a-Sabesp.-O-que-vem-agora)
+- [Assembleia aprova privatização do saneamento em SP](https://www.nexojornal.com.br/extra/2023/12/06/Assembleia-aprova-privatiza%C3%A7%C3%A3o-do-saneamento-em-SP)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
