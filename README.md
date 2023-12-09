@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O lado social e afetivo da gastronomia na nova HQ da Magali](https://www.nexojornal.com.br/expresso/2023/12/08/O-lado-social-e-afetivo-da-gastronomia-na-nova-HQ-da-Magali)
-- [Como o Nexo exporta os gráficos no Adobe Illustrator para o site](https://www.nexojornal.com.br/grafico/2023/12/08/Como-o-Nexo-exporta-os-gr%C3%A1ficos-no-Adobe-Illustrator-para-o-site)
 - [Como as remoções da Braskem afetam a moradia em Maceió](https://www.nexojornal.com.br/expresso/2023/12/07/Como-as-remo%C3%A7%C3%B5es-da-Braskem-afetam-a-moradia-em-Macei%C3%B3)
 - [A súplica por Gaza do chefe da ONU ao Conselho de Segurança](https://www.nexojornal.com.br/expresso/2023/12/07/A-s%C3%BAplica-por-Gaza-do-chefe-da-ONU-ao-Conselho-de-Seguran%C3%A7a)
 - [Qual o papel de casas de acolhimento para pessoas LGBTI+](https://www.nexojornal.com.br/expresso/2023/12/07/Qual-o-papel-de-casas-de-acolhimento-para-pessoas-LGBTI)
+- [O senhor aparecido e o que ele tem a ver conosco](https://www.nexojornal.com.br/colunistas/2023/O-senhor-aparecido-e-o-que-ele-tem-a-ver-conosco)
+- [Câmara aprova projeto que criminaliza de nudes feitos com IA](https://www.nexojornal.com.br/extra/2023/12/07/C%C3%A2mara-aprova-projeto-que-criminaliza-de-nudes-feitos-com-IA)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
