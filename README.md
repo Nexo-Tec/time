@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O jogo de tabuleiro que estimula reflexão sobre o espaço urbano](https://www.nexojornal.com.br/expresso/2023/12/08/O-jogo-de-tabuleiro-que-estimula-reflex%C3%A3o-sobre-o-espa%C3%A7o-urbano)
-- [‘Precificar trabalho doméstico é desafio para reduzir nem nem’](https://www.nexojornal.com.br/entrevista/2023/12/08/%E2%80%98Precificar-trabalho-dom%C3%A9stico-%C3%A9-desafio-para-reduzir-nem-nem%E2%80%99)
-- [‘Sobre o que não falamos’: em busca dos pais](https://www.nexojornal.com.br/estante/trechos/2023/12/08/%E2%80%98Sobre-o-que-n%C3%A3o-falamos%E2%80%99-em-busca-dos-pais)
-- [A proporção de mortes de homens, mulheres e crianças em Gaza](https://www.nexojornal.com.br/grafico/2023/12/08/A-propor%C3%A7%C3%A3o-de-mortes-de-homens-mulheres-e-crian%C3%A7as-em-Gaza)
-- [A primeira ball indígena realizada na Amazônia](https://www.nexojornal.com.br/externo/2023/12/08/A-primeira-ball-ind%C3%ADgena-realizada-na-Amaz%C3%B4nia)
+- [A aprovação da venda da Sabesp. A tensão em Essequibo. E mais](https://www.nexojornal.com.br/video/extrato/A-aprova%C3%A7%C3%A3o-da-venda-da-Sabesp.-A-tens%C3%A3o-em-Essequibo.-E-mais)
+- [Bolívia é integrada ao Mercosul e vira 5º membro efetivo](https://www.nexojornal.com.br/extra/2023/12/08/Bol%C3%ADvia-%C3%A9-integrada-ao-Mercosul-e-vira-5%C2%BA-membro-efetivo)
+- [Milei encontra Bolsonaro às vésperas da posse presidencial](https://www.nexojornal.com.br/extra/2023/12/08/Milei-encontra-Bolsonaro-%C3%A0s-v%C3%A9speras-da-posse-presidencial)
+- [‘Peach Fuzz’ é eleita a cor do ano de 2024 da Pantone](https://www.nexojornal.com.br/extra/2023/12/08/%E2%80%98Peach-Fuzz%E2%80%99-%C3%A9-eleita-a-cor-do-ano-de-2024-da-Pantone)
+- [Sepultura anuncia fim da banda após 40 anos na estrada](https://www.nexojornal.com.br/extra/2023/12/08/Sepultura-anuncia-fim-da-banda-ap%C3%B3s-40-anos-na-estrada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
