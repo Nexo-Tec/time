@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O passado carvoeiro das florestas urbanas do Rio de Janeiro](https://www.nexojornal.com.br/externo/2023/12/10/O-passado-carvoeiro-das-florestas-urbanas-do-Rio-de-Janeiro)
-- [5 livros de ficção para conhecer grandes cidades](https://www.nexojornal.com.br/estante/favoritos/2023/12/10/5-livros-de-fic%C3%A7%C3%A3o-para-conhecer-grandes-cidades)
-- [A empreitada de Jordan Peele no mundo dos games](https://www.nexojornal.com.br/expresso/2023/12/10/A-empreitada-de-Jordan-Peele-no-mundo-dos-games)
-- [Agenda urbana e as melhorias habitacionais](https://www.nexojornal.com.br/ensaio/2023/12/10/Agenda-urbana-e-as-melhorias-habitacionais)
-- [O que mostram os índices de aprovação do 1º ano de Lula 3](https://www.nexojornal.com.br/expresso/2023/12/10/O-que-mostram-os-%C3%ADndices-de-aprova%C3%A7%C3%A3o-do-1%C2%BA-ano-de-Lula-3)
+- [O jogo de tabuleiro que estimula reflexão sobre o espaço urbano](https://www.nexojornal.com.br/expresso/2023/12/08/O-jogo-de-tabuleiro-que-estimula-reflex%C3%A3o-sobre-o-espa%C3%A7o-urbano)
+- [‘Precificar trabalho doméstico é desafio para reduzir nem nem’](https://www.nexojornal.com.br/entrevista/2023/12/08/%E2%80%98Precificar-trabalho-dom%C3%A9stico-%C3%A9-desafio-para-reduzir-nem-nem%E2%80%99)
+- [‘Sobre o que não falamos’: em busca dos pais](https://www.nexojornal.com.br/estante/trechos/2023/12/08/%E2%80%98Sobre-o-que-n%C3%A3o-falamos%E2%80%99-em-busca-dos-pais)
+- [A proporção de mortes de homens, mulheres e crianças em Gaza](https://www.nexojornal.com.br/grafico/2023/12/08/A-propor%C3%A7%C3%A3o-de-mortes-de-homens-mulheres-e-crian%C3%A7as-em-Gaza)
+- [A primeira ball indígena realizada na Amazônia](https://www.nexojornal.com.br/externo/2023/12/08/A-primeira-ball-ind%C3%ADgena-realizada-na-Amaz%C3%B4nia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
