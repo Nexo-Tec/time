@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A melhor saída é sempre atravessar](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-melhor-saida-e-sempre-atravessar/)
 - [@valmota29](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/valmota29/)
 - [Daniela Cachich: “Tenha claro aonde você quer chegar na carreira”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniela-cachich-ambev-carreira-trabalho-profissao-lideranca/)
 - [Ciência Pouca É Bobagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ciencia-pouca-e-bobagem/)
 - [A incrível história de Lourenço Mutarelli](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-incrivel-historia-de-lourenco-mutarelli/)
-- [O valor do arroz e feijão na nova série de Rita Lobo](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-valor-do-arroz-e-feijao-na-nova-serie-de-rita-lobo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
