@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Milei altera decreto para nomear irmã para governo](https://www.nexojornal.com.br/extra/2023/12/11/Milei-altera-decreto-para-nomear-irm%C3%A3-para-governo)
 - [Desprezada pela crítica, literatura de horror ganha a atenção de pesquisadores](https://www.nexojornal.com.br/externo/2023/12/10/Desprezada-pela-cr%C3%ADtica-literatura-de-horror-ganha-a-aten%C3%A7%C3%A3o-de-pesquisadores)
 - [A regulação da IA no ambiente de trabalho](https://www.nexojornal.com.br/ensaio/2023/12/10/A-regula%C3%A7%C3%A3o-da-IA-no-ambiente-de-trabalho)
 - [O leilão de petróleo do Brasil um dia depois da COP28](https://www.nexojornal.com.br/expresso/2023/12/10/O-leil%C3%A3o-de-petr%C3%B3leo-do-Brasil-um-dia-depois-da-COP28)
 - [Antena desaba e mata 9 em acampamento do MST no Pará](https://www.nexojornal.com.br/extra/2023/12/10/Antena-desaba-e-mata-9-em-acampamento-do-MST-no-Par%C3%A1)
-- [Mina de sal da Braskem se rompe sob laguna em Maceió](https://www.nexojornal.com.br/extra/2023/12/10/Mina-de-sal-da-Braskem-se-rompe-sob-laguna-em-Macei%C3%B3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
