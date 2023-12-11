@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desprezada pela crítica, literatura de horror ganha a atenção de pesquisadores](https://www.nexojornal.com.br/externo/2023/12/10/Desprezada-pela-cr%C3%ADtica-literatura-de-horror-ganha-a-aten%C3%A7%C3%A3o-de-pesquisadores)
-- [A regulação da IA no ambiente de trabalho](https://www.nexojornal.com.br/ensaio/2023/12/10/A-regula%C3%A7%C3%A3o-da-IA-no-ambiente-de-trabalho)
-- [O leilão de petróleo do Brasil um dia depois da COP28](https://www.nexojornal.com.br/expresso/2023/12/10/O-leil%C3%A3o-de-petr%C3%B3leo-do-Brasil-um-dia-depois-da-COP28)
-- [Antena desaba e mata 9 em acampamento do MST no Pará](https://www.nexojornal.com.br/extra/2023/12/10/Antena-desaba-e-mata-9-em-acampamento-do-MST-no-Par%C3%A1)
-- [Mina de sal da Braskem se rompe sob laguna em Maceió](https://www.nexojornal.com.br/extra/2023/12/10/Mina-de-sal-da-Braskem-se-rompe-sob-laguna-em-Macei%C3%B3)
+- [O passado carvoeiro das florestas urbanas do Rio de Janeiro](https://www.nexojornal.com.br/externo/2023/12/10/O-passado-carvoeiro-das-florestas-urbanas-do-Rio-de-Janeiro)
+- [5 livros de ficção para conhecer grandes cidades](https://www.nexojornal.com.br/estante/favoritos/2023/12/10/5-livros-de-fic%C3%A7%C3%A3o-para-conhecer-grandes-cidades)
+- [A empreitada de Jordan Peele no mundo dos games](https://www.nexojornal.com.br/expresso/2023/12/10/A-empreitada-de-Jordan-Peele-no-mundo-dos-games)
+- [Agenda urbana e as melhorias habitacionais](https://www.nexojornal.com.br/ensaio/2023/12/10/Agenda-urbana-e-as-melhorias-habitacionais)
+- [O que mostram os índices de aprovação do 1º ano de Lula 3](https://www.nexojornal.com.br/expresso/2023/12/10/O-que-mostram-os-%C3%ADndices-de-aprova%C3%A7%C3%A3o-do-1%C2%BA-ano-de-Lula-3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
