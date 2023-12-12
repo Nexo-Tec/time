@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Cidade de São Paulo terá ônibus gratuito aos domingos](https://www.nexojornal.com.br/extra/2023/12/11/Cidade-de-S%C3%A3o-Paulo-ter%C3%A1-%C3%B4nibus-gratuito-aos-domingos)
-- [Por que mães cientistas precisam de incentivo à pesquisa](https://www.nexojornal.com.br/expresso/2023/12/11/Por-que-m%C3%A3es-cientistas-precisam-de-incentivo-%C3%A0-pesquisa)
-- [Como é o plano federal para pessoas em situação de rua](https://www.nexojornal.com.br/expresso/2023/12/11/Como-%C3%A9-o-plano-federal-para-pessoas-em-situa%C3%A7%C3%A3o-de-rua)
-- [Extrema direita deixa poder na Polônia após 8 anos](https://www.nexojornal.com.br/extra/2023/12/11/Extrema-direita-deixa-poder-na-Pol%C3%B4nia-ap%C3%B3s-8-anos)
-- [‘COP do petróleo’: o crescente lobby dos combustíveis fósseis](https://www.nexojornal.com.br/podcast/2023/12/11/%E2%80%98COP-do-petr%C3%B3leo%E2%80%99-o-crescente-lobby-dos-combust%C3%ADveis-f%C3%B3sseis)
+- [Milei altera decreto para nomear irmã para governo](https://www.nexojornal.com.br/extra/2023/12/11/Milei-altera-decreto-para-nomear-irm%C3%A3-para-governo)
+- [Desprezada pela crítica, literatura de horror ganha a atenção de pesquisadores](https://www.nexojornal.com.br/externo/2023/12/10/Desprezada-pela-cr%C3%ADtica-literatura-de-horror-ganha-a-aten%C3%A7%C3%A3o-de-pesquisadores)
+- [A regulação da IA no ambiente de trabalho](https://www.nexojornal.com.br/ensaio/2023/12/10/A-regula%C3%A7%C3%A3o-da-IA-no-ambiente-de-trabalho)
+- [O leilão de petróleo do Brasil um dia depois da COP28](https://www.nexojornal.com.br/expresso/2023/12/10/O-leil%C3%A3o-de-petr%C3%B3leo-do-Brasil-um-dia-depois-da-COP28)
+- [Antena desaba e mata 9 em acampamento do MST no Pará](https://www.nexojornal.com.br/extra/2023/12/10/Antena-desaba-e-mata-9-em-acampamento-do-MST-no-Par%C3%A1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
