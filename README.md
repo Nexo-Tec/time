@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tarcísio admite que tarifa pode subir com Sabesp privatizada](https://www.nexojornal.com.br/extra/2023/12/12/Tarc%C3%ADsio-admite-que-tarifa-pode-subir-com-Sabesp-privatizada)
+- [Influencer é suspeito de integrar esquema de fabricação de drogas](https://www.nexojornal.com.br/extra/2023/12/12/Influencer-%C3%A9-suspeito-de-integrar-esquema-de-fabrica%C3%A7%C3%A3o-de-drogas)
 - [Cidade de São Paulo terá ônibus gratuito aos domingos](https://www.nexojornal.com.br/extra/2023/12/11/Cidade-de-S%C3%A3o-Paulo-ter%C3%A1-%C3%B4nibus-gratuito-aos-domingos)
 - [Por que mães cientistas precisam de incentivo à pesquisa](https://www.nexojornal.com.br/expresso/2023/12/11/Por-que-m%C3%A3es-cientistas-precisam-de-incentivo-%C3%A0-pesquisa)
 - [Como é o plano federal para pessoas em situação de rua](https://www.nexojornal.com.br/expresso/2023/12/11/Como-%C3%A9-o-plano-federal-para-pessoas-em-situa%C3%A7%C3%A3o-de-rua)
-- [Extrema direita deixa poder na Polônia após 8 anos](https://www.nexojornal.com.br/extra/2023/12/11/Extrema-direita-deixa-poder-na-Pol%C3%B4nia-ap%C3%B3s-8-anos)
-- [‘COP do petróleo’: o crescente lobby dos combustíveis fósseis](https://www.nexojornal.com.br/podcast/2023/12/11/%E2%80%98COP-do-petr%C3%B3leo%E2%80%99-o-crescente-lobby-dos-combust%C3%ADveis-f%C3%B3sseis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
