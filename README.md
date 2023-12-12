@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carol Ito: “Pensar que masturbação ainda é tabu me gerava broxadas imensas”](https://gamarevista.uol.com.br/formato/conversas/carol-ito-pensar-que-masturbacao-ainda-e-tabu-me-gerava-broxadas-imensas/)
 - [A melhor saída é sempre atravessar](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-melhor-saida-e-sempre-atravessar/)
 - [@valmota29](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/valmota29/)
 - [Daniela Cachich: “Tenha claro aonde você quer chegar na carreira”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniela-cachich-ambev-carreira-trabalho-profissao-lideranca/)
 - [Ciência Pouca É Bobagem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ciencia-pouca-e-bobagem/)
-- [A incrível história de Lourenço Mutarelli](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-incrivel-historia-de-lourenco-mutarelli/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
