@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais os efeitos de uma sabatina dupla no Senado](https://www.nexojornal.com.br/expresso/2023/12/12/Quais-os-efeitos-de-uma-sabatina-dupla-no-Senado)
-- [Os impactos urbano, social e econômico do passe livre de domingo](https://www.nexojornal.com.br/expresso/2023/12/12/Os-impactos-urbano-social-e-econ%C3%B4mico-do-passe-livre-de-domingo)
-- [A cartografia e teatralidade que marcaram a COP28](https://www.nexojornal.com.br/colunistas/2023/A-cartografia-e-teatralidade-que-marcaram-a-COP28)
-- [A distribuição geográfica dos alertas climáticos no Brasil](https://www.nexojornal.com.br/grafico/2023/12/12/A-distribui%C3%A7%C3%A3o-geogr%C3%A1fica-dos-alertas-clim%C3%A1ticos-no-Brasil)
-- [Como o caso Braskem movimenta a política nacional](https://www.nexojornal.com.br/podcast/2023/12/12/Como-o-caso-Braskem-movimenta-a-pol%C3%ADtica-nacional)
+- [Tarcísio admite que tarifa pode subir com Sabesp privatizada](https://www.nexojornal.com.br/extra/2023/12/12/Tarc%C3%ADsio-admite-que-tarifa-pode-subir-com-Sabesp-privatizada)
+- [Influencer é suspeito de integrar esquema de fabricação de drogas](https://www.nexojornal.com.br/extra/2023/12/12/Influencer-%C3%A9-suspeito-de-integrar-esquema-de-fabrica%C3%A7%C3%A3o-de-drogas)
+- [Cidade de São Paulo terá ônibus gratuito aos domingos](https://www.nexojornal.com.br/extra/2023/12/11/Cidade-de-S%C3%A3o-Paulo-ter%C3%A1-%C3%B4nibus-gratuito-aos-domingos)
+- [Por que mães cientistas precisam de incentivo à pesquisa](https://www.nexojornal.com.br/expresso/2023/12/11/Por-que-m%C3%A3es-cientistas-precisam-de-incentivo-%C3%A0-pesquisa)
+- [Como é o plano federal para pessoas em situação de rua](https://www.nexojornal.com.br/expresso/2023/12/11/Como-%C3%A9-o-plano-federal-para-pessoas-em-situa%C3%A7%C3%A3o-de-rua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
