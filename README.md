@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho de Ética abre processo de cassação contra Janones](https://www.nexojornal.com.br/extra/2023/12/13/Conselho-de-%C3%89tica-abre-processo-de-cassa%C3%A7%C3%A3o-contra-Janones)
-- [A pressão sobre presidentes de universidades nos EUA](https://www.nexojornal.com.br/expresso/2023/12/13/A-press%C3%A3o-sobre-presidentes-de-universidades-nos-EUA)
-- [Acompanhe a sabatina dupla de Dino e Gonet no Senado](https://www.nexojornal.com.br/extra/2023/12/13/Acompanhe-a-sabatina-dupla-de-Dino-e-Gonet-no-Senado)
-- [Pela 1ª vez, COP fala em ‘transição’ dos combustíveis fósseis](https://www.nexojornal.com.br/extra/2023/12/13/Pela-1%C2%AA-vez-COP-fala-em-%E2%80%98transi%C3%A7%C3%A3o%E2%80%99-dos-combust%C3%ADveis-f%C3%B3sseis)
-- [Quais os efeitos de uma sabatina dupla no Senado](https://www.nexojornal.com.br/expresso/2023/12/12/Quais-os-efeitos-de-uma-sabatina-dupla-no-Senado)
+- [Putin diz que guerra na Ucrânia só acaba com vitória russa](https://www.nexojornal.com.br/extra/2023/12/14/Putin-diz-que-guerra-na-Ucr%C3%A2nia-s%C3%B3-acaba-com-vit%C3%B3ria-russa)
+- [‘Fiscalizadores tiveram compadrio com a Braskem’](https://www.nexojornal.com.br/entrevista/2023/12/14/%E2%80%98Fiscalizadores-tiveram-compadrio-com-a-Braskem%E2%80%99)
+- [Dino e Gonet no Senado: tom ameno e aval sem surpresa](https://www.nexojornal.com.br/expresso/2023/12/14/Dino-e-Gonet-no-Senado-tom-ameno-e-aval-sem-surpresa)
+- [Devo dar um celular de presente de Natal para uma criança?](https://www.nexojornal.com.br/externo/2023/12/13/Devo-dar-um-celular-de-presente-de-Natal-para-uma-crian%C3%A7a)
+- [7 chaves para entender o acordo do clima da COP de Dubai](https://www.nexojornal.com.br/expresso/2023/12/13/7-chaves-para-entender-o-acordo-do-clima-da-COP-de-Dubai)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
