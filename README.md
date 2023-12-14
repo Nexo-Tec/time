@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Assim Como a Gente”, de Fátima Bernardes, no GNT](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assim-como-a-gente-de-fatima-bernardes-no-gnt/)
+- [“Tornar-se Orlan” no Sesc Avenida Paulista](https://gamarevista.uol.com.br/achamos-que-vale/ir/tornar-se-orlan-no-sesc-avenida-paulista/)
 - [CV: Renata Vanzetto](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renata-vanzetto/)
 - [O Divo das Libras ressignifica a linguagem inclusiva](https://gamarevista.uol.com.br/cultura/divo-das-libras/)
 - [Globo de neve](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/globo-de-neve/)
-- [Carol Ito: “Pensar que masturbação ainda é tabu me gerava broxadas imensas”](https://gamarevista.uol.com.br/formato/conversas/carol-ito-pensar-que-masturbacao-ainda-e-tabu-me-gerava-broxadas-imensas/)
-- [A melhor saída é sempre atravessar](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-melhor-saida-e-sempre-atravessar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
