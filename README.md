@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conselho de Ética abre processo de cassação contra Janones](https://www.nexojornal.com.br/extra/2023/12/13/Conselho-de-%C3%89tica-abre-processo-de-cassa%C3%A7%C3%A3o-contra-Janones)
+- [A pressão sobre presidentes de universidades nos EUA](https://www.nexojornal.com.br/expresso/2023/12/13/A-press%C3%A3o-sobre-presidentes-de-universidades-nos-EUA)
+- [Acompanhe a sabatina dupla de Dino e Gonet no Senado](https://www.nexojornal.com.br/extra/2023/12/13/Acompanhe-a-sabatina-dupla-de-Dino-e-Gonet-no-Senado)
 - [Pela 1ª vez, COP fala em ‘transição’ dos combustíveis fósseis](https://www.nexojornal.com.br/extra/2023/12/13/Pela-1%C2%AA-vez-COP-fala-em-%E2%80%98transi%C3%A7%C3%A3o%E2%80%99-dos-combust%C3%ADveis-f%C3%B3sseis)
 - [Quais os efeitos de uma sabatina dupla no Senado](https://www.nexojornal.com.br/expresso/2023/12/12/Quais-os-efeitos-de-uma-sabatina-dupla-no-Senado)
-- [Os impactos urbano, social e econômico do passe livre de domingo](https://www.nexojornal.com.br/expresso/2023/12/12/Os-impactos-urbano-social-e-econ%C3%B4mico-do-passe-livre-de-domingo)
-- [A cartografia e teatralidade que marcaram a COP28](https://www.nexojornal.com.br/colunistas/2023/A-cartografia-e-teatralidade-que-marcaram-a-COP28)
-- [A distribuição geográfica dos alertas climáticos no Brasil](https://www.nexojornal.com.br/grafico/2023/12/12/A-distribui%C3%A7%C3%A3o-geogr%C3%A1fica-dos-alertas-clim%C3%A1ticos-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
