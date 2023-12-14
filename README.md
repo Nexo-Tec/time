@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Dino e Gonet no Senado: tom ameno e aval sem surpresa](https://www.nexojornal.com.br/expresso/2023/12/14/Dino-e-Gonet-no-Senado-tom-ameno-e-aval-sem-surpresa)
-- [Devo dar um celular de presente de Natal para uma criança?](https://www.nexojornal.com.br/externo/2023/12/13/Devo-dar-um-celular-de-presente-de-Natal-para-uma-crian%C3%A7a)
-- [7 chaves para entender o acordo do clima da COP de Dubai](https://www.nexojornal.com.br/expresso/2023/12/13/7-chaves-para-entender-o-acordo-do-clima-da-COP-de-Dubai)
-- [O pacote econômico de Milei para combater a crise na Argentina](https://www.nexojornal.com.br/expresso/2023/12/13/O-pacote-econ%C3%B4mico-de-Milei-para-combater-a-crise-na-Argentina)
-- [Jovens cientistas precisam ser formados, e não usados](https://www.nexojornal.com.br/colunistas/2023/Jovens-cientistas-precisam-ser-formados-e-n%C3%A3o-usados)
+- [Conselho de Ética abre processo de cassação contra Janones](https://www.nexojornal.com.br/extra/2023/12/13/Conselho-de-%C3%89tica-abre-processo-de-cassa%C3%A7%C3%A3o-contra-Janones)
+- [A pressão sobre presidentes de universidades nos EUA](https://www.nexojornal.com.br/expresso/2023/12/13/A-press%C3%A3o-sobre-presidentes-de-universidades-nos-EUA)
+- [Acompanhe a sabatina dupla de Dino e Gonet no Senado](https://www.nexojornal.com.br/extra/2023/12/13/Acompanhe-a-sabatina-dupla-de-Dino-e-Gonet-no-Senado)
+- [Pela 1ª vez, COP fala em ‘transição’ dos combustíveis fósseis](https://www.nexojornal.com.br/extra/2023/12/13/Pela-1%C2%AA-vez-COP-fala-em-%E2%80%98transi%C3%A7%C3%A3o%E2%80%99-dos-combust%C3%ADveis-f%C3%B3sseis)
+- [Quais os efeitos de uma sabatina dupla no Senado](https://www.nexojornal.com.br/expresso/2023/12/12/Quais-os-efeitos-de-uma-sabatina-dupla-no-Senado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
