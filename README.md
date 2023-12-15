@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Minha Liberdade Não te Serve](https://gamarevista.uol.com.br/cultura/trecho-de-livro/minha-liberdade-nao-te-serve/)
 - [“O Mundo Depois de Nós”, com Julia Roberts e Mahershala Ali](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-mundo-depois-de-nos-com-julia-roberts/)
 - [Romances de Annie Ernaux para escutar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/romances-de-annie-ernaux-para-escutar/)
 - [O fim de “The Crown”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-fim-de-the-crown/)
 - [“Assim Como a Gente”, de Fátima Bernardes, no GNT](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assim-como-a-gente-de-fatima-bernardes-no-gnt/)
-- [“Tornar-se Orlan” no Sesc Avenida Paulista](https://gamarevista.uol.com.br/achamos-que-vale/ir/tornar-se-orlan-no-sesc-avenida-paulista/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
