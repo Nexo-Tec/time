@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Dino e Gonet no Senado: tom ameno e aval sem surpresa](https://www.nexojornal.com.br/expresso/2023/12/14/Dino-e-Gonet-no-Senado-tom-ameno-e-aval-sem-surpresa)
-- [Devo dar um celular de presente de Natal para uma criança?](https://www.nexojornal.com.br/externo/2023/12/13/Devo-dar-um-celular-de-presente-de-Natal-para-uma-crian%C3%A7a)
-- [7 chaves para entender o acordo do clima da COP de Dubai](https://www.nexojornal.com.br/expresso/2023/12/13/7-chaves-para-entender-o-acordo-do-clima-da-COP-de-Dubai)
-- [O pacote econômico de Milei para combater a crise na Argentina](https://www.nexojornal.com.br/expresso/2023/12/13/O-pacote-econ%C3%B4mico-de-Milei-para-combater-a-crise-na-Argentina)
-- [Jovens cientistas precisam ser formados, e não usados](https://www.nexojornal.com.br/colunistas/2023/Jovens-cientistas-precisam-ser-formados-e-n%C3%A3o-usados)
+- [Como o preço da tarifa opõe Tarcísio e Nunes em São Paulo](https://www.nexojornal.com.br/expresso/2023/12/14/Como-o-pre%C3%A7o-da-tarifa-op%C3%B5e-Tarc%C3%ADsio-e-Nunes-em-S%C3%A3o-Paulo)
+- [As redes sociais mais usadas por crianças e adolescentes](https://www.nexojornal.com.br/grafico/2023/12/14/As-redes-sociais-mais-usadas-por-crian%C3%A7as-e-adolescentes)
+- [Críticas à Fuvest expõem ensino feito por e para branquitude](https://www.nexojornal.com.br/colunistas/2023/Cr%C3%ADticas-%C3%A0-Fuvest-exp%C3%B5em-ensino-feito-por-e-para-branquitude)
+- [O que o impeachment contra Biden diz sobre a política americana](https://www.nexojornal.com.br/expresso/2023/12/14/O-que-o-impeachment-contra-Biden-diz-sobre-a-pol%C3%ADtica-americana)
+- [Qual é o pensamento político da bancada evangélica](https://www.nexojornal.com.br/academico/2023/12/14/Qual-%C3%A9-o-pensamento-pol%C3%ADtico-da-bancada-evang%C3%A9lica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
