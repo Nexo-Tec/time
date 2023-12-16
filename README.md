@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Juliana Silva: os Korubo do Vale do Javari, isolamento e contato no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/15/Juliana-Silva-os-Korubo-do-Vale-do-Javari-isolamento-e-contato-no-Brasil)
 - [Trabalho infantil: repensando políticas e enfrentando desafios](https://pp.nexojornal.com.br/ponto-de-vista/2023/Trabalho-infantil-repensando-pol%C3%ADticas-e-enfrentando-desafios)
 - [Uma base curricular em Monitoramento e Avaliação &lpar;M&amp;A&rpar; para apoiar políticas públicas no enfrentamento às desigualdades sociais no Nordeste](https://pp.nexojornal.com.br/ponto-de-vista/2023/Uma-base-curricular-em-Monitoramento-e-Avalia%C3%A7%C3%A3o-MA-para-apoiar-pol%C3%ADticas-p%C3%BAblicas-no-enfrentamento-%C3%A0s-desigualdades-sociais-no-Nordeste)
 - [A PEC 08/2021 e a limitação de decisões monocráticas do STF](https://pp.nexojornal.com.br/bibliografia-basica/2023/12/13/A-PEC-082021-e-a-limita%C3%A7%C3%A3o-de-decis%C3%B5es-monocr%C3%A1ticas-do-STF)
 - [As cotas na Uerj: desafios de um caso pioneiro](https://pp.nexojornal.com.br/opiniao/2023/As-cotas-na-Uerj-desafios-de-um-caso-pioneiro)
+- [Sinal verde: por que já é hora de descriminalizar a maconha no Brasil?](https://pp.nexojornal.com.br/opiniao/2023/Sinal-verde-por-que-j%C3%A1-%C3%A9-hora-de-descriminalizar-a-maconha-no-Brasil)
 <!-- PP_LIST:END -->
 
