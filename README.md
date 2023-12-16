@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que Tetê Espíndola estourou no Spotify e no TikTok](https://www.nexojornal.com.br/expresso/2023/12/15/Por-que-Tet%C3%AA-Esp%C3%ADndola-estourou-no-Spotify-e-no-TikTok)
-- [Câmara aprova medida que altera tributação de benefícios fiscais](https://www.nexojornal.com.br/extra/2023/12/15/C%C3%A2mara-aprova-medida-que-altera-tributa%C3%A7%C3%A3o-de-benef%C3%ADcios-fiscais)
-- [Empresa chinesa leva maior bloco de leilão de energia](https://www.nexojornal.com.br/extra/2023/12/15/Empresa-chinesa-leva-maior-bloco-de-leil%C3%A3o-de-energia)
-- [Como o preço da tarifa opõe Tarcísio e Nunes em São Paulo](https://www.nexojornal.com.br/expresso/2023/12/14/Como-o-pre%C3%A7o-da-tarifa-op%C3%B5e-Tarc%C3%ADsio-e-Nunes-em-S%C3%A3o-Paulo)
-- [As redes sociais mais usadas por crianças e adolescentes](https://www.nexojornal.com.br/grafico/2023/12/14/As-redes-sociais-mais-usadas-por-crian%C3%A7as-e-adolescentes)
+- [Morre Carlos Lyra, cantor e compositor da bossa nova](https://www.nexojornal.com.br/extra/2023/12/16/Morre-Carlos-Lyra-cantor-e-compositor-da-bossa-nova)
+- [O que há na nova proposta constitucional sob referendo no Chile](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-h%C3%A1-na-nova-proposta-constitucional-sob-referendo-no-Chile)
+- [O que houve de avanço e frustração na política indigenista em 2023](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-houve-de-avan%C3%A7o-e-frustra%C3%A7%C3%A3o-na-pol%C3%ADtica-indigenista-em-2023)
+- [Sylvia Serafim: escritora esquecida, assassina famosa](https://www.nexojornal.com.br/ensaio/2023/12/15/Sylvia-Serafim-escritora-esquecida-assassina-famosa)
+- [Como países atuam na formação de diretores escolares](https://www.nexojornal.com.br/expresso/2023/12/15/Como-pa%C3%ADses-atuam-na-forma%C3%A7%C3%A3o-de-diretores-escolares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
