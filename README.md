@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as falhas e distorções na orientação acadêmica](https://www.nexojornal.com.br/expresso/2023/12/16/Quais-as-falhas-e-distor%C3%A7%C3%B5es-na-orienta%C3%A7%C3%A3o-acad%C3%AAmica)
-- [Passe livre para ônibus aos domingos começa a valer em São Paulo](https://www.nexojornal.com.br/extra/2023/12/16/Passe-livre-para-%C3%B4nibus-aos-domingos-come%C3%A7a-a-valer-em-S%C3%A3o-Paulo)
-- [O que as cartas de Tolkien dizem sobre a Terra-média](https://www.nexojornal.com.br/expresso/2023/12/16/O-que-as-cartas-de-Tolkien-dizem-sobre-a-Terra-m%C3%A9dia)
-- [5 romances lusófonos que pensam os limites da linguagem](https://www.nexojornal.com.br/estante/favoritos/2023/12/16/5-romances-lus%C3%B3fonos-que-pensam-os-limites-da-linguagem)
-- [Hip hop começa a se consolidar como campo de estudos acadêmicos](https://www.nexojornal.com.br/externo/2023/12/16/Hip-hop-come%C3%A7a-a-se-consolidar-como-campo-de-estudos-acad%C3%AAmicos)
+- [Morre Carlos Lyra, cantor e compositor da bossa nova](https://www.nexojornal.com.br/extra/2023/12/16/Morre-Carlos-Lyra-cantor-e-compositor-da-bossa-nova)
+- [O que há na nova proposta constitucional sob referendo no Chile](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-h%C3%A1-na-nova-proposta-constitucional-sob-referendo-no-Chile)
+- [O que houve de avanço e frustração na política indigenista em 2023](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-houve-de-avan%C3%A7o-e-frustra%C3%A7%C3%A3o-na-pol%C3%ADtica-indigenista-em-2023)
+- [Sylvia Serafim: escritora esquecida, assassina famosa](https://www.nexojornal.com.br/ensaio/2023/12/15/Sylvia-Serafim-escritora-esquecida-assassina-famosa)
+- [Como países atuam na formação de diretores escolares](https://www.nexojornal.com.br/expresso/2023/12/15/Como-pa%C3%ADses-atuam-na-forma%C3%A7%C3%A3o-de-diretores-escolares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
