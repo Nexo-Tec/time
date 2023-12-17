@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre Carlos Lyra, cantor e compositor da bossa nova](https://www.nexojornal.com.br/extra/2023/12/16/Morre-Carlos-Lyra-cantor-e-compositor-da-bossa-nova)
 - [O que há na nova proposta constitucional sob referendo no Chile](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-h%C3%A1-na-nova-proposta-constitucional-sob-referendo-no-Chile)
 - [O que houve de avanço e frustração na política indigenista em 2023](https://www.nexojornal.com.br/expresso/2023/12/15/O-que-houve-de-avan%C3%A7o-e-frustra%C3%A7%C3%A3o-na-pol%C3%ADtica-indigenista-em-2023)
 - [Sylvia Serafim: escritora esquecida, assassina famosa](https://www.nexojornal.com.br/ensaio/2023/12/15/Sylvia-Serafim-escritora-esquecida-assassina-famosa)
 - [Como países atuam na formação de diretores escolares](https://www.nexojornal.com.br/expresso/2023/12/15/Como-pa%C3%ADses-atuam-na-forma%C3%A7%C3%A3o-de-diretores-escolares)
+- [Após décadas, Congresso aprova reforma tributária](https://www.nexojornal.com.br/extra/2023/12/15/Ap%C3%B3s-d%C3%A9cadas-Congresso-aprova-reforma-tribut%C3%A1ria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
