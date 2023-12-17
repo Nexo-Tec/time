@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Marcela Ceribelli: “As mulheres não estão infelizes, elas estão exaustas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcela-ceribelli-as-mulheres-nao-estao-infelizes-elas-estao-exaustas/)
 - [Não sei como a USP pode ser considerada a melhor universidade da América Latina](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-sei-como-a-usp-pode-ser-considerada-a-melhor-universidade-da-america-latina/)
 - [Minha Liberdade Não te Serve](https://gamarevista.uol.com.br/cultura/trecho-de-livro/minha-liberdade-nao-te-serve/)
 - [“O Mundo Depois de Nós”, com Julia Roberts e Mahershala Ali](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-mundo-depois-de-nos-com-julia-roberts/)
 - [Romances de Annie Ernaux para escutar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/romances-de-annie-ernaux-para-escutar/)
-- [O fim de “The Crown”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-fim-de-the-crown/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
