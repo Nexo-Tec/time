@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais as falhas e distorções na orientação acadêmica](https://www.nexojornal.com.br/expresso/2023/12/16/Quais-as-falhas-e-distor%C3%A7%C3%B5es-na-orienta%C3%A7%C3%A3o-acad%C3%AAmica)
-- [Passe livre para ônibus aos domingos começa a valer em São Paulo](https://www.nexojornal.com.br/extra/2023/12/16/Passe-livre-para-%C3%B4nibus-aos-domingos-come%C3%A7a-a-valer-em-S%C3%A3o-Paulo)
-- [O que as cartas de Tolkien dizem sobre a Terra-média](https://www.nexojornal.com.br/expresso/2023/12/16/O-que-as-cartas-de-Tolkien-dizem-sobre-a-Terra-m%C3%A9dia)
-- [5 romances lusófonos que pensam os limites da linguagem](https://www.nexojornal.com.br/estante/favoritos/2023/12/16/5-romances-lus%C3%B3fonos-que-pensam-os-limites-da-linguagem)
-- [Hip hop começa a se consolidar como campo de estudos acadêmicos](https://www.nexojornal.com.br/externo/2023/12/16/Hip-hop-come%C3%A7a-a-se-consolidar-como-campo-de-estudos-acad%C3%AAmicos)
+- [Investigação contra ‘jogo do tigrinho’ prende influencers no Pará](https://www.nexojornal.com.br/extra/2023/12/18/Investiga%C3%A7%C3%A3o-contra-%E2%80%98jogo-do-tigrinho%E2%80%99-prende-influencers-no-Par%C3%A1)
+- [Empresário que matou policial em São Paulo era CAC](https://www.nexojornal.com.br/extra/2023/12/18/Empres%C3%A1rio-que-matou-policial-em-S%C3%A3o-Paulo-era-CAC)
+- [Sem CPF nem título de eleitor: o estigma da vida depois da prisão](https://www.nexojornal.com.br/externo/2023/12/17/Sem-CPF-nem-t%C3%ADtulo-de-eleitor-o-estigma-da-vida-depois-da-pris%C3%A3o)
+- [Educação em transição para uma convivência democrática](https://www.nexojornal.com.br/ensaio/debate/2023/Educa%C3%A7%C3%A3o-em-transi%C3%A7%C3%A3o-para-uma-conviv%C3%AAncia-democr%C3%A1tica)
+- [Por que até os mais ricos compram poucos livros no Brasil](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-at%C3%A9-os-mais-ricos-compram-poucos-livros-no-Brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
