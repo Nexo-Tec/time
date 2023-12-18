@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sem CPF nem título de eleitor: o estigma da vida depois da prisão](https://www.nexojornal.com.br/externo/2023/12/17/Sem-CPF-nem-t%C3%ADtulo-de-eleitor-o-estigma-da-vida-depois-da-pris%C3%A3o)
-- [Educação em transição para uma convivência democrática](https://www.nexojornal.com.br/ensaio/debate/2023/Educa%C3%A7%C3%A3o-em-transi%C3%A7%C3%A3o-para-uma-conviv%C3%AAncia-democr%C3%A1tica)
-- [Por que até os mais ricos compram poucos livros no Brasil](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-at%C3%A9-os-mais-ricos-compram-poucos-livros-no-Brasil)
-- [Por que a população de rua aumentou se a pobreza diminuiu?](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-a-popula%C3%A7%C3%A3o-de-rua-aumentou-se-a-pobreza-diminuiu)
-- [Pela segunda vez, Chile rejeita nova Constituição](https://www.nexojornal.com.br/extra/2023/12/17/Pela-segunda-vez-Chile-rejeita-nova-Constitui%C3%A7%C3%A3o)
+- [Chuva deixa ao menos 15 mortos na província de Buenos Aires](https://www.nexojornal.com.br/extra/2023/12/17/Chuva-deixa-ao-menos-15-mortos-na-prov%C3%ADncia-de-Buenos-Aires)
+- [Quais as falhas e distorções na orientação acadêmica](https://www.nexojornal.com.br/expresso/2023/12/16/Quais-as-falhas-e-distor%C3%A7%C3%B5es-na-orienta%C3%A7%C3%A3o-acad%C3%AAmica)
+- [Passe livre para ônibus aos domingos começa a valer em São Paulo](https://www.nexojornal.com.br/extra/2023/12/16/Passe-livre-para-%C3%B4nibus-aos-domingos-come%C3%A7a-a-valer-em-S%C3%A3o-Paulo)
+- [O que as cartas de Tolkien dizem sobre a Terra-média](https://www.nexojornal.com.br/expresso/2023/12/16/O-que-as-cartas-de-Tolkien-dizem-sobre-a-Terra-m%C3%A9dia)
+- [5 romances lusófonos que pensam os limites da linguagem](https://www.nexojornal.com.br/estante/favoritos/2023/12/16/5-romances-lus%C3%B3fonos-que-pensam-os-limites-da-linguagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
