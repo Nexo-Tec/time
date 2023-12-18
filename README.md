@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Investigação contra ‘jogo do tigrinho’ prende influencers no Pará](https://www.nexojornal.com.br/extra/2023/12/18/Investiga%C3%A7%C3%A3o-contra-%E2%80%98jogo-do-tigrinho%E2%80%99-prende-influencers-no-Par%C3%A1)
-- [Empresário que matou policial em São Paulo era CAC](https://www.nexojornal.com.br/extra/2023/12/18/Empres%C3%A1rio-que-matou-policial-em-S%C3%A3o-Paulo-era-CAC)
 - [Sem CPF nem título de eleitor: o estigma da vida depois da prisão](https://www.nexojornal.com.br/externo/2023/12/17/Sem-CPF-nem-t%C3%ADtulo-de-eleitor-o-estigma-da-vida-depois-da-pris%C3%A3o)
 - [Educação em transição para uma convivência democrática](https://www.nexojornal.com.br/ensaio/debate/2023/Educa%C3%A7%C3%A3o-em-transi%C3%A7%C3%A3o-para-uma-conviv%C3%AAncia-democr%C3%A1tica)
 - [Por que até os mais ricos compram poucos livros no Brasil](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-at%C3%A9-os-mais-ricos-compram-poucos-livros-no-Brasil)
+- [Por que a população de rua aumentou se a pobreza diminuiu?](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-a-popula%C3%A7%C3%A3o-de-rua-aumentou-se-a-pobreza-diminuiu)
+- [Pela segunda vez, Chile rejeita nova Constituição](https://www.nexojornal.com.br/extra/2023/12/17/Pela-segunda-vez-Chile-rejeita-nova-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
