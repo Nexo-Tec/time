@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo Milei ameaça cortar benefício social de quem protestar](https://www.nexojornal.com.br/extra/2023/12/18/Governo-Milei-amea%C3%A7a-cortar-benef%C3%ADcio-social-de-quem-protestar)
-- [Quais os nomes mais dados aos bebês no Brasil em 2023](https://www.nexojornal.com.br/expresso/2023/12/18/Quais-os-nomes-mais-dados-aos-beb%C3%AAs-no-Brasil-em-2023)
-- [Casos desengavetados? Contenção do STF? O que muda com Gonet](https://www.nexojornal.com.br/expresso/2023/12/18/Casos-desengavetados-Conten%C3%A7%C3%A3o-do-STF-O-que-muda-com-Gonet)
-- [O aumento da pressão sobre Israel diante dos ataques a Gaza](https://www.nexojornal.com.br/expresso/2023/12/18/O-aumento-da-press%C3%A3o-sobre-Israel-diante-dos-ataques-a-Gaza)
-- [Como preparar a educação para o uso de inteligência artificial](https://www.nexojornal.com.br/ensaio/debate/2023/Como-preparar-a-educa%C3%A7%C3%A3o-para-o-uso-de-intelig%C3%AAncia-artificial)
+- [5 memes que marcaram as redes brasileiras em 2023](https://www.nexojornal.com.br/expresso/2023/12/19/5-memes-que-marcaram-as-redes-brasileiras-em-2023)
+- [A ação de Milei para barrar protestos de rua na Argentina](https://www.nexojornal.com.br/podcast/2023/12/19/A-a%C3%A7%C3%A3o-de-Milei-para-barrar-protestos-de-rua-na-Argentina)
+- [Standard &amp; Poor’s eleva nota de crédito do Brasil no mercado](https://www.nexojornal.com.br/extra/2023/12/19/Standard-Poor%E2%80%99s-eleva-nota-de-cr%C3%A9dito-do-Brasil-no-mercado)
+- [Congresso aprova LDO com deficit zero e emendas turbinadas](https://www.nexojornal.com.br/extra/2023/12/19/Congresso-aprova-LDO-com-deficit-zero-e-emendas-turbinadas)
+- [Datena ensaia candidatura mais uma vez, agora como vice](https://www.nexojornal.com.br/extra/2023/12/19/Datena-ensaia-candidatura-mais-uma-vez-agora-como-vice)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
