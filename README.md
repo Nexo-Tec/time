@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo Milei ameaça cortar benefício social de quem protestar](https://www.nexojornal.com.br/extra/2023/12/18/Governo-Milei-amea%C3%A7a-cortar-benef%C3%ADcio-social-de-quem-protestar)
-- [Quais os nomes mais dados aos bebês no Brasil em 2023](https://www.nexojornal.com.br/expresso/2023/12/18/Quais-os-nomes-mais-dados-aos-beb%C3%AAs-no-Brasil-em-2023)
-- [Casos desengavetados? Contenção do STF? O que muda com Gonet](https://www.nexojornal.com.br/expresso/2023/12/18/Casos-desengavetados-Conten%C3%A7%C3%A3o-do-STF-O-que-muda-com-Gonet)
-- [O aumento da pressão sobre Israel diante dos ataques a Gaza](https://www.nexojornal.com.br/expresso/2023/12/18/O-aumento-da-press%C3%A3o-sobre-Israel-diante-dos-ataques-a-Gaza)
-- [Como preparar a educação para o uso de inteligência artificial](https://www.nexojornal.com.br/ensaio/debate/2023/Como-preparar-a-educa%C3%A7%C3%A3o-para-o-uso-de-intelig%C3%AAncia-artificial)
+- [Sem CPF nem título de eleitor: o estigma da vida depois da prisão](https://www.nexojornal.com.br/externo/2023/12/17/Sem-CPF-nem-t%C3%ADtulo-de-eleitor-o-estigma-da-vida-depois-da-pris%C3%A3o)
+- [Educação em transição para uma convivência democrática](https://www.nexojornal.com.br/ensaio/debate/2023/Educa%C3%A7%C3%A3o-em-transi%C3%A7%C3%A3o-para-uma-conviv%C3%AAncia-democr%C3%A1tica)
+- [Por que até os mais ricos compram poucos livros no Brasil](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-at%C3%A9-os-mais-ricos-compram-poucos-livros-no-Brasil)
+- [Por que a população de rua aumentou se a pobreza diminuiu?](https://www.nexojornal.com.br/expresso/2023/12/17/Por-que-a-popula%C3%A7%C3%A3o-de-rua-aumentou-se-a-pobreza-diminuiu)
+- [Pela segunda vez, Chile rejeita nova Constituição](https://www.nexojornal.com.br/extra/2023/12/17/Pela-segunda-vez-Chile-rejeita-nova-Constitui%C3%A7%C3%A3o)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
