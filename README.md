@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo Milei ameaça cortar benefício social de quem protestar](https://www.nexojornal.com.br/extra/2023/12/18/Governo-Milei-amea%C3%A7a-cortar-benef%C3%ADcio-social-de-quem-protestar)
-- [Quais os nomes mais dados aos bebês no Brasil em 2023](https://www.nexojornal.com.br/expresso/2023/12/18/Quais-os-nomes-mais-dados-aos-beb%C3%AAs-no-Brasil-em-2023)
-- [Casos desengavetados? Contenção do STF? O que muda com Gonet](https://www.nexojornal.com.br/expresso/2023/12/18/Casos-desengavetados-Conten%C3%A7%C3%A3o-do-STF-O-que-muda-com-Gonet)
-- [O aumento da pressão sobre Israel diante dos ataques a Gaza](https://www.nexojornal.com.br/expresso/2023/12/18/O-aumento-da-press%C3%A3o-sobre-Israel-diante-dos-ataques-a-Gaza)
-- [Como preparar a educação para o uso de inteligência artificial](https://www.nexojornal.com.br/ensaio/debate/2023/Como-preparar-a-educa%C3%A7%C3%A3o-para-o-uso-de-intelig%C3%AAncia-artificial)
+- [Veja fotos da erupção do vulcão que evacuou uma cidade na Islândia](https://www.nexojornal.com.br/extra/2023/12/19/Veja-fotos-da-erup%C3%A7%C3%A3o-do-vulc%C3%A3o-que-evacuou-uma-cidade-na-Isl%C3%A2ndia)
+- [Como a guerra em Gaza se esparrama pelo Mar Vermelho](https://www.nexojornal.com.br/expresso/2023/12/19/Como-a-guerra-em-Gaza-se-esparrama-pelo-Mar-Vermelho)
+- [Qual a parcela de gás carbônico emitida pelos mais ricos](https://www.nexojornal.com.br/grafico/2023/12/19/Qual-a-parcela-de-g%C3%A1s-carb%C3%B4nico-emitida-pelos-mais-ricos)
+- [Uma reforma para melhorar a gestão e os serviços públicos](https://www.nexojornal.com.br/colunistas/2023/Uma-reforma-para-melhorar-a-gest%C3%A3o-e-os-servi%C3%A7os-p%C3%BAblicos)
+- [5 memes que marcaram as redes brasileiras em 2023](https://www.nexojornal.com.br/expresso/2023/12/19/5-memes-que-marcaram-as-redes-brasileiras-em-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
