@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Promulgada, reforma tributária aguarda regulamentação](https://www.nexojornal.com.br/extra/2023/12/20/Promulgada-reforma-tribut%C3%A1ria-aguarda-regulamenta%C3%A7%C3%A3o)
-- [Toffoli suspende multa de R$ 10 bilhões aplicada à J&amp;F](https://www.nexojornal.com.br/extra/2023/12/20/Toffoli-suspende-multa-de-R-10-bilh%C3%B5es-aplicada-%C3%A0-JF)
-- [Brasil muda curva e aumenta cobertura vacinal em 2023](https://www.nexojornal.com.br/extra/2023/12/20/Brasil-muda-curva-e-aumenta-cobertura-vacinal-em-2023)
-- [Como o novo ‘Godzilla’ virou um sucesso de baixo orçamento](https://www.nexojornal.com.br/expresso/2023/12/20/Como-o-novo-%E2%80%98Godzilla%E2%80%99-virou-um-sucesso-de-baixo-or%C3%A7amento)
-- [STJ quebra sigilos de governador do Rio de Janeiro](https://www.nexojornal.com.br/extra/2023/12/20/STJ-quebra-sigilos-de-governador-do-Rio-de-Janeiro)
+- [5 memes que marcaram as redes brasileiras em 2023](https://www.nexojornal.com.br/expresso/2023/12/19/5-memes-que-marcaram-as-redes-brasileiras-em-2023)
+- [A ação de Milei para barrar protestos de rua na Argentina](https://www.nexojornal.com.br/podcast/2023/12/19/A-a%C3%A7%C3%A3o-de-Milei-para-barrar-protestos-de-rua-na-Argentina)
+- [Standard &amp; Poor’s eleva nota de crédito do Brasil no mercado](https://www.nexojornal.com.br/extra/2023/12/19/Standard-Poor%E2%80%99s-eleva-nota-de-cr%C3%A9dito-do-Brasil-no-mercado)
+- [Congresso aprova LDO com deficit zero e emendas turbinadas](https://www.nexojornal.com.br/extra/2023/12/19/Congresso-aprova-LDO-com-deficit-zero-e-emendas-turbinadas)
+- [Datena ensaia candidatura mais uma vez, agora como vice](https://www.nexojornal.com.br/extra/2023/12/19/Datena-ensaia-candidatura-mais-uma-vez-agora-como-vice)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
