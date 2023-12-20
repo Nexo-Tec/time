@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Veja fotos da erupção do vulcão que evacuou uma cidade na Islândia](https://www.nexojornal.com.br/extra/2023/12/19/Veja-fotos-da-erup%C3%A7%C3%A3o-do-vulc%C3%A3o-que-evacuou-uma-cidade-na-Isl%C3%A2ndia)
-- [Como a guerra em Gaza se esparrama pelo Mar Vermelho](https://www.nexojornal.com.br/expresso/2023/12/19/Como-a-guerra-em-Gaza-se-esparrama-pelo-Mar-Vermelho)
-- [Qual a parcela de gás carbônico emitida pelos mais ricos](https://www.nexojornal.com.br/grafico/2023/12/19/Qual-a-parcela-de-g%C3%A1s-carb%C3%B4nico-emitida-pelos-mais-ricos)
-- [Uma reforma para melhorar a gestão e os serviços públicos](https://www.nexojornal.com.br/colunistas/2023/Uma-reforma-para-melhorar-a-gest%C3%A3o-e-os-servi%C3%A7os-p%C3%BAblicos)
-- [5 memes que marcaram as redes brasileiras em 2023](https://www.nexojornal.com.br/expresso/2023/12/19/5-memes-que-marcaram-as-redes-brasileiras-em-2023)
+- [Promulgada, reforma tributária aguarda regulamentação](https://www.nexojornal.com.br/extra/2023/12/20/Promulgada-reforma-tribut%C3%A1ria-aguarda-regulamenta%C3%A7%C3%A3o)
+- [Toffoli suspende multa de R$ 10 bilhões aplicada à J&amp;F](https://www.nexojornal.com.br/extra/2023/12/20/Toffoli-suspende-multa-de-R-10-bilh%C3%B5es-aplicada-%C3%A0-JF)
+- [Brasil muda curva e aumenta cobertura vacinal em 2023](https://www.nexojornal.com.br/extra/2023/12/20/Brasil-muda-curva-e-aumenta-cobertura-vacinal-em-2023)
+- [Como o novo ‘Godzilla’ virou um sucesso de baixo orçamento](https://www.nexojornal.com.br/expresso/2023/12/20/Como-o-novo-%E2%80%98Godzilla%E2%80%99-virou-um-sucesso-de-baixo-or%C3%A7amento)
+- [STJ quebra sigilos de governador do Rio de Janeiro](https://www.nexojornal.com.br/extra/2023/12/20/STJ-quebra-sigilos-de-governador-do-Rio-de-Janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
