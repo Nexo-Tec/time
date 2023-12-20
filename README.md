@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 memes que marcaram as redes brasileiras em 2023](https://www.nexojornal.com.br/expresso/2023/12/19/5-memes-que-marcaram-as-redes-brasileiras-em-2023)
-- [A ação de Milei para barrar protestos de rua na Argentina](https://www.nexojornal.com.br/podcast/2023/12/19/A-a%C3%A7%C3%A3o-de-Milei-para-barrar-protestos-de-rua-na-Argentina)
-- [Standard &amp; Poor’s eleva nota de crédito do Brasil no mercado](https://www.nexojornal.com.br/extra/2023/12/19/Standard-Poor%E2%80%99s-eleva-nota-de-cr%C3%A9dito-do-Brasil-no-mercado)
-- [Congresso aprova LDO com deficit zero e emendas turbinadas](https://www.nexojornal.com.br/extra/2023/12/19/Congresso-aprova-LDO-com-deficit-zero-e-emendas-turbinadas)
-- [Datena ensaia candidatura mais uma vez, agora como vice](https://www.nexojornal.com.br/extra/2023/12/19/Datena-ensaia-candidatura-mais-uma-vez-agora-como-vice)
+- [O que é a cetamina, droga que levou Matthew Perry à morte](https://www.nexojornal.com.br/externo/2023/12/20/O-que-%C3%A9-a-cetamina-droga-que-levou-Matthew-Perry-%C3%A0-morte)
+- [A estrada que mobiliza o Congresso e alarma ambientalistas](https://www.nexojornal.com.br/podcast/2023/12/20/A-estrada-que-mobiliza-o-Congresso-e-alarma-ambientalistas)
+- [Promulgada, reforma tributária aguarda regulamentação](https://www.nexojornal.com.br/extra/2023/12/20/Promulgada-reforma-tribut%C3%A1ria-aguarda-regulamenta%C3%A7%C3%A3o)
+- [Toffoli suspende multa de R$ 10 bilhões aplicada à J&amp;F](https://www.nexojornal.com.br/extra/2023/12/20/Toffoli-suspende-multa-de-R-10-bilh%C3%B5es-aplicada-%C3%A0-JF)
+- [Brasil muda curva e aumenta cobertura vacinal em 2023](https://www.nexojornal.com.br/extra/2023/12/20/Brasil-muda-curva-e-aumenta-cobertura-vacinal-em-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
