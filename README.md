@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O peso positivo da raça branca na escolarização](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-peso-positivo-da-raca-branca-na-escolarizacao/)
 - [Esta é a rabanada mais deliciosa que você vai comer no Natal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/essa-e-a-rabanada-mais-deliciosa-que-voce-vai-comer-no-natal/)
 - [Como reatar relações familiares?](https://gamarevista.uol.com.br/estilo-de-vida/5-dicas/como-reatar-relacoes-familiares/)
 - [@marceloadnet0](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/marceloadnet0/)
 - [Marcela Ceribelli: “As mulheres não estão infelizes, elas estão exaustas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcela-ceribelli-as-mulheres-nao-estao-infelizes-elas-estao-exaustas/)
-- [Não sei como a USP pode ser considerada a melhor universidade da América Latina](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-sei-como-a-usp-pode-ser-considerada-a-melhor-universidade-da-america-latina/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
