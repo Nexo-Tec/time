@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é a cetamina, droga que levou Matthew Perry à morte](https://www.nexojornal.com.br/externo/2023/12/20/O-que-%C3%A9-a-cetamina-droga-que-levou-Matthew-Perry-%C3%A0-morte)
+- [A estrada que mobiliza o Congresso e alarma ambientalistas](https://www.nexojornal.com.br/podcast/2023/12/20/A-estrada-que-mobiliza-o-Congresso-e-alarma-ambientalistas)
 - [Promulgada, reforma tributária aguarda regulamentação](https://www.nexojornal.com.br/extra/2023/12/20/Promulgada-reforma-tribut%C3%A1ria-aguarda-regulamenta%C3%A7%C3%A3o)
 - [Toffoli suspende multa de R$ 10 bilhões aplicada à J&amp;F](https://www.nexojornal.com.br/extra/2023/12/20/Toffoli-suspende-multa-de-R-10-bilh%C3%B5es-aplicada-%C3%A0-JF)
 - [Brasil muda curva e aumenta cobertura vacinal em 2023](https://www.nexojornal.com.br/extra/2023/12/20/Brasil-muda-curva-e-aumenta-cobertura-vacinal-em-2023)
-- [Como o novo ‘Godzilla’ virou um sucesso de baixo orçamento](https://www.nexojornal.com.br/expresso/2023/12/20/Como-o-novo-%E2%80%98Godzilla%E2%80%99-virou-um-sucesso-de-baixo-or%C3%A7amento)
-- [STJ quebra sigilos de governador do Rio de Janeiro](https://www.nexojornal.com.br/extra/2023/12/20/STJ-quebra-sigilos-de-governador-do-Rio-de-Janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
