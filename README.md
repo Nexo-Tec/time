@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Renaissance: A film by Beyoncé”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/renaissance-a-film-by-beyonce/)
+- [A retrospectiva 2023 do New York Times](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-retrospectiva-2023-do-new-york-times/)
 - [“Godzilla Minus One” e o trauma pós-guerra japonês](https://gamarevista.uol.com.br/achamos-que-vale/assistir/godzilla-minus-one-e-o-trauma-pos-guerra-japones/)
 - [Livro inédito de Carolina Maria de Jesus](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-inedito-de-carolina-maria-de-jesus/)
 - [“Ritmo de Natal”, uma comédia romântica natalina tipicamente brasileira](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ritmo-de-natal-uma-comedia-romantica-natalina-tipicamente-brasileira/)
-- [O peso positivo da raça branca na escolarização](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-peso-positivo-da-raca-branca-na-escolarizacao/)
-- [Esta é a rabanada mais deliciosa que você vai comer no Natal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/essa-e-a-rabanada-mais-deliciosa-que-voce-vai-comer-no-natal/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
