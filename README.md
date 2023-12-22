@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Estudante mata ao menos 14 em universidade de Praga](https://www.nexojornal.com.br/extra/2023/12/21/Estudante-mata-ao-menos-14-em-universidade-de-Praga)
-- [Ministério da Saúde incorpora vacina contra dengue no SUS](https://www.nexojornal.com.br/extra/2023/12/21/Minist%C3%A9rio-da-Sa%C3%BAde-incorpora-vacina-contra-dengue-no-SUS)
-- [A suspensão da multa da J&amp;F e o desmonte do lavajatismo](https://www.nexojornal.com.br/podcast/2023/12/21/A-suspens%C3%A3o-da-multa-da-JF-e-o-desmonte-do-lavajatismo)
-- [Somos seres que leem, escrevem e contam histórias](https://www.nexojornal.com.br/colunistas/2023/Somos-seres-que-leem-escrevem-e-contam-hist%C3%B3rias)
-- [Como não deixar a leitura de lado depois da infância?](https://www.nexojornal.com.br/externo/2023/12/21/Como-n%C3%A3o-deixar-a-leitura-de-lado-depois-da-inf%C3%A2ncia)
+- [O que Lula entregou de diversidade após a foto simbólica da posse](https://www.nexojornal.com.br/expresso/2023/12/20/O-que-Lula-entregou-de-diversidade-ap%C3%B3s-a-foto-simb%C3%B3lica-da-posse)
+- [Como a inelegibilidade no Colorado afeta a campanha de Trump](https://www.nexojornal.com.br/expresso/2023/12/20/Como-a-inelegibilidade-no-Colorado-afeta-a-campanha-de-Trump)
+- [O posicionamento da CNI no processo de impeachment de Dilma](https://www.nexojornal.com.br/academico/2023/12/20/O-posicionamento-da-CNI-no-processo-de-impeachment-de-Dilma)
+- [Onde é que foram parar as paletas mexicanas? E os food trucks?](https://www.nexojornal.com.br/colunistas/2023/Onde-%C3%A9-que-foram-parar-as-paletas-mexicanas-E-os-food-trucks)
+- [O que é a cetamina, droga que levou Matthew Perry à morte](https://www.nexojornal.com.br/externo/2023/12/20/O-que-%C3%A9-a-cetamina-droga-que-levou-Matthew-Perry-%C3%A0-morte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
