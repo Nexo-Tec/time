@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Impactos do uso de agrotóxicos na bacia do rio Amazonas](https://pp.nexojornal.com.br/academico/2023/Impactos-do-uso-de-agrot%C3%B3xicos-na-bacia-do-rio-Amazonas)
+- [Injúria racial: do reconhecimento à equiparação ao racismo](https://pp.nexojornal.com.br/linha-do-tempo/2023/Inj%C3%BAria-racial-do-reconhecimento-%C3%A0-equipara%C3%A7%C3%A3o-ao-racismo)
+- [O que dizem os números sobre a desigualdade de gênero no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-dizem-os-n%C3%BAmeros-sobre-a-desigualdade-de-g%C3%AAnero-no-Brasil)
+- [Sistemas alimentares e crise climática: transformações necessárias](https://pp.nexojornal.com.br/opiniao/2023/Sistemas-alimentares-e-crise-clim%C3%A1tica-transforma%C3%A7%C3%B5es-necess%C3%A1rias)
 - [Os buracos mais caros do Brasil: o impacto da má pavimentação das estradas no consumo de óleo diesel](https://pp.nexojornal.com.br/opiniao/2023/Os-buracos-mais-caros-do-Brasil-o-impacto-da-m%C3%A1-pavimenta%C3%A7%C3%A3o-das-estradas-no-consumo-de-%C3%B3leo-diesel1)
-- [Três visões sobre a transição energética: rapidez, lentidão e adição](https://pp.nexojornal.com.br/opiniao/2023/Tr%C3%AAs-vis%C3%B5es-sobre-a-transi%C3%A7%C3%A3o-energ%C3%A9tica-rapidez-lentid%C3%A3o-e-adi%C3%A7%C3%A3o)
-- [Amazônia: entre devastação, violência e fios de esperança](https://pp.nexojornal.com.br/ponto-de-vista/2023/Amaz%C3%B4nia-entre-devasta%C3%A7%C3%A3o-viol%C3%AAncia-e-fios-de-esperan%C3%A7a)
-- [Juliana Silva: os Korubo do Vale do Javari, isolamento e contato no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/15/Juliana-Silva-os-Korubo-do-Vale-do-Javari-isolamento-e-contato-no-Brasil)
-- [Trabalho infantil: repensando políticas e enfrentando desafios](https://pp.nexojornal.com.br/ponto-de-vista/2023/Trabalho-infantil-repensando-pol%C3%ADticas-e-enfrentando-desafios)
 <!-- PP_LIST:END -->
 
