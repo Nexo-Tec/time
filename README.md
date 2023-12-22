@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o novo zoneamento de SP diz sobre o modelo de cidades](https://www.nexojornal.com.br/expresso/2023/12/21/O-que-o-novo-zoneamento-de-SP-diz-sobre-o-modelo-de-cidades)
+- [A lei migratória que une Macron e a extrema direita](https://www.nexojornal.com.br/expresso/2023/12/21/A-lei-migrat%C3%B3ria-que-une-Macron-e-a-extrema-direita)
+- [Comissão aprova Orçamento com R$ 53 bilhões para emendas](https://www.nexojornal.com.br/extra/2023/12/21/Comiss%C3%A3o-aprova-Or%C3%A7amento-com-R-53-bilh%C3%B5es-para-emendas)
 - [Estudante mata ao menos 14 em universidade de Praga](https://www.nexojornal.com.br/extra/2023/12/21/Estudante-mata-ao-menos-14-em-universidade-de-Praga)
 - [Ministério da Saúde incorpora vacina contra dengue no SUS](https://www.nexojornal.com.br/extra/2023/12/21/Minist%C3%A9rio-da-Sa%C3%BAde-incorpora-vacina-contra-dengue-no-SUS)
-- [A suspensão da multa da J&amp;F e o desmonte do lavajatismo](https://www.nexojornal.com.br/podcast/2023/12/21/A-suspens%C3%A3o-da-multa-da-JF-e-o-desmonte-do-lavajatismo)
-- [Somos seres que leem, escrevem e contam histórias](https://www.nexojornal.com.br/colunistas/2023/Somos-seres-que-leem-escrevem-e-contam-hist%C3%B3rias)
-- [Como não deixar a leitura de lado depois da infância?](https://www.nexojornal.com.br/externo/2023/12/21/Como-n%C3%A3o-deixar-a-leitura-de-lado-depois-da-inf%C3%A2ncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
