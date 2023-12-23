@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [PL das Fake News e disputas sobre a liberdade de expressão, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/PL-das-Fake-News-e-disputas-sobre-a-liberdade-de-express%C3%A3o-em-5-pontos)
+- [Angela Alonso: os protestos de 2013 no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/22/Angela-Alonso-os-protestos-de-2013-no-Brasil)
 - [Impactos do uso de agrotóxicos na bacia do rio Amazonas](https://pp.nexojornal.com.br/academico/2023/Impactos-do-uso-de-agrot%C3%B3xicos-na-bacia-do-rio-Amazonas)
 - [Injúria racial: do reconhecimento à equiparação ao racismo](https://pp.nexojornal.com.br/linha-do-tempo/2023/Inj%C3%BAria-racial-do-reconhecimento-%C3%A0-equipara%C3%A7%C3%A3o-ao-racismo)
 - [O que dizem os números sobre a desigualdade de gênero no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-dizem-os-n%C3%BAmeros-sobre-a-desigualdade-de-g%C3%AAnero-no-Brasil)
-- [Sistemas alimentares e crise climática: transformações necessárias](https://pp.nexojornal.com.br/opiniao/2023/Sistemas-alimentares-e-crise-clim%C3%A1tica-transforma%C3%A7%C3%B5es-necess%C3%A1rias)
-- [Os buracos mais caros do Brasil: o impacto da má pavimentação das estradas no consumo de óleo diesel](https://pp.nexojornal.com.br/opiniao/2023/Os-buracos-mais-caros-do-Brasil-o-impacto-da-m%C3%A1-pavimenta%C3%A7%C3%A3o-das-estradas-no-consumo-de-%C3%B3leo-diesel1)
 <!-- PP_LIST:END -->
 
