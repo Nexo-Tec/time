@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre a vida e a obra de Gilberto Freyre](https://www.nexojornal.com.br/estante/favoritos/2023/12/23/5-livros-sobre-a-vida-e-a-obra-de-Gilberto-Freyre)
-- [Qual o nome deste filme natalino? Faça o teste](https://www.nexojornal.com.br/interativo/2023/12/23/Qual-o-nome-deste-filme-natalino-Fa%C3%A7a-o-teste)
-- [A máquina brasileira de produção de superendividados](https://www.nexojornal.com.br/ensaio/2023/12/23/A-m%C3%A1quina-brasileira-de-produ%C3%A7%C3%A3o-de-superendividados)
-- [A incursão de Lula num multilateralismo em baixa](https://www.nexojornal.com.br/expresso/2023/12/23/A-incurs%C3%A3o-de-Lula-num-multilateralismo-em-baixa)
-- [Ataque israelense mata funcionário da ONU e 75 familiares](https://www.nexojornal.com.br/extra/2023/12/23/Ataque-israelense-mata-funcion%C3%A1rio-da-ONU-e-75-familiares)
+- [Por que o Rio tem tantos governadores investigados](https://www.nexojornal.com.br/expresso/2023/12/22/Por-que-o-Rio-tem-tantos-governadores-investigados)
+- [O artista que desenhou um mapa com mais de 1.600 espécies animais](https://www.nexojornal.com.br/expresso/2023/12/22/O-artista-que-desenhou-um-mapa-com-mais-de-1.600-esp%C3%A9cies-animais)
+- [‘Darwin no Brasil’: diários da expedição na América do Sul](https://www.nexojornal.com.br/estante/trechos/2023/12/22/%E2%80%98Darwin-no-Brasil%E2%80%99-di%C3%A1rios-da-expedi%C3%A7%C3%A3o-na-Am%C3%A9rica-do-Sul)
+- [A ambivalência brasileira diante das questões ambientais](https://www.nexojornal.com.br/expresso/2023/12/22/A-ambival%C3%AAncia-brasileira-diante-das-quest%C3%B5es-ambientais)
+- [Cuba autoriza procedimento de eutanásia no país](https://www.nexojornal.com.br/extra/2023/12/22/Cuba-autoriza-procedimento-de-eutan%C3%A1sia-no-pa%C3%ADs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
