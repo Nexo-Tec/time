@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Celebridades brasileiras que nos marcaram em 2023](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celebridades-brasileiras-que-nos-marcaram-em-2023/)
+- [As melhores séries de 2023 pela redação da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/as-melhores-series-de-2023-segundo-gama/)
 - [Pandora e a sedução da esperança](https://gamarevista.uol.com.br/colunistas/maria-homem/pandora-e-a-seducao-da-esperanca/)
 - [Especulações Cinematográficas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/especulacoes-cinematograficas/)
 - [“Renaissance: A film by Beyoncé”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/renaissance-a-film-by-beyonce/)
-- [A retrospectiva 2023 do New York Times](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-retrospectiva-2023-do-new-york-times/)
-- [“Godzilla Minus One” e o trauma pós-guerra japonês](https://gamarevista.uol.com.br/achamos-que-vale/assistir/godzilla-minus-one-e-o-trauma-pos-guerra-japones/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
