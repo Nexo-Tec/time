@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros sobre a vida e a obra de Gilberto Freyre](https://www.nexojornal.com.br/estante/favoritos/2023/12/23/5-livros-sobre-a-vida-e-a-obra-de-Gilberto-Freyre)
-- [Qual o nome deste filme natalino? Faça o teste](https://www.nexojornal.com.br/interativo/2023/12/23/Qual-o-nome-deste-filme-natalino-Fa%C3%A7a-o-teste)
-- [A máquina brasileira de produção de superendividados](https://www.nexojornal.com.br/ensaio/2023/12/23/A-m%C3%A1quina-brasileira-de-produ%C3%A7%C3%A3o-de-superendividados)
-- [A incursão de Lula num multilateralismo em baixa](https://www.nexojornal.com.br/expresso/2023/12/23/A-incurs%C3%A3o-de-Lula-num-multilateralismo-em-baixa)
-- [Ataque israelense mata funcionário da ONU e 75 familiares](https://www.nexojornal.com.br/extra/2023/12/23/Ataque-israelense-mata-funcion%C3%A1rio-da-ONU-e-75-familiares)
+- [O que é a tradição do Boxing Day no futebol inglês](https://www.nexojornal.com.br/expresso/2023/12/24/O-que-%C3%A9-a-tradi%C3%A7%C3%A3o-do-Boxing-Day-no-futebol-ingl%C3%AAs)
+- [O centro audiovisual indígena feito com madeira apreendida](https://www.nexojornal.com.br/expresso/2023/12/24/O-centro-audiovisual-ind%C3%ADgena-feito-com-madeira-apreendida)
+- [Como as árvores se tornaram um ícone de Natal](https://www.nexojornal.com.br/expresso/2023/12/24/Como-as-%C3%A1rvores-se-tornaram-um-%C3%ADcone-de-Natal)
+- [Primeiro as cidades precisam garantir o básico à moradia](https://www.nexojornal.com.br/ensaio/2023/12/24/Primeiro-as-cidades-precisam-garantir-o-b%C3%A1sico-%C3%A0-moradia)
+- [Como a covid-19 ainda impacta a saúde pública brasileira](https://www.nexojornal.com.br/expresso/2023/12/24/Como-a-covid-19-ainda-impacta-a-sa%C3%BAde-p%C3%BAblica-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
