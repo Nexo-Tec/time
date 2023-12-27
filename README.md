@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Dez episódios imperdíveis do Podcast da Semana em 2023](https://gamarevista.uol.com.br/podcast/podcast-da-semana/dez-episodios-imperdiveis-do-podcast-da-semana-de-2023/)
+- [Dez episódios imperdíveis do Podcast da Semana em 2023](https://gamarevista.uol.com.br/pessoas/dez-episodios-imperdiveis-do-podcast-da-semana-de-2023/)
 - [Objetos que bombaram em 2023](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-bombaram-em-2023/)
 - [Os álbuns de 2023 que não saíram dos headphones da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-albuns-de-2023-que-nao-sairam-dos-headphones-da-gama/)
 - [Celebridades brasileiras que nos marcaram em 2023](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celebridades-brasileiras-que-nos-marcaram-em-2023/)
