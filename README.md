@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Waldir Heinrichs Caldas: mudanças climáticas e os organismos aquáticos da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/26/Waldir-Heinrichs-Caldas-mudan%C3%A7as-clim%C3%A1ticas-e-os-organismos-aqu%C3%A1ticos-da-Amaz%C3%B4nia)
 - [PL das Fake News e disputas sobre a liberdade de expressão, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/PL-das-Fake-News-e-disputas-sobre-a-liberdade-de-express%C3%A3o-em-5-pontos)
 - [Angela Alonso: os protestos de 2013 no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/22/Angela-Alonso-os-protestos-de-2013-no-Brasil)
 - [Impactos do uso de agrotóxicos na bacia do rio Amazonas](https://pp.nexojornal.com.br/academico/2023/Impactos-do-uso-de-agrot%C3%B3xicos-na-bacia-do-rio-Amazonas)
 - [Injúria racial: do reconhecimento à equiparação ao racismo](https://pp.nexojornal.com.br/linha-do-tempo/2023/Inj%C3%BAria-racial-do-reconhecimento-%C3%A0-equipara%C3%A7%C3%A3o-ao-racismo)
+- [O que dizem os números sobre a desigualdade de gênero no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2023/O-que-dizem-os-n%C3%BAmeros-sobre-a-desigualdade-de-g%C3%AAnero-no-Brasil)
 <!-- PP_LIST:END -->
 
