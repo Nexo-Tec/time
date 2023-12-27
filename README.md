@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O dicionário que explica termos do debate político atual](https://www.nexojornal.com.br/expresso/2023/12/26/O-dicion%C3%A1rio-que-explica-termos-do-debate-pol%C3%ADtico-atual)
-- [Quem é pardo no Brasil? Uma história plural e controversa](https://www.nexojornal.com.br/colunistas/2023/Quem-%C3%A9-pardo-no-Brasil-Uma-hist%C3%B3ria-plural-e-controversa)
-- [Como o Supremo entrou no cálculo da governabilidade](https://www.nexojornal.com.br/expresso/2023/12/26/Como-o-Supremo-entrou-no-c%C3%A1lculo-da-governabilidade)
-- [O debate sobre responsabilização nas redes no caso Choquei](https://www.nexojornal.com.br/expresso/2023/12/25/O-debate-sobre-responsabiliza%C3%A7%C3%A3o-nas-redes-no-caso-Choquei)
-- [Chefe da maior milícia do Rio se entrega à Polícia Federal](https://www.nexojornal.com.br/extra/2023/12/25/Chefe-da-maior-mil%C3%ADcia-do-Rio-se-entrega-%C3%A0-Pol%C3%ADcia-Federal)
+- [O cerco à maior milícia do Rio e seu possível braço político](https://www.nexojornal.com.br/expresso/2023/12/26/O-cerco-%C3%A0-maior-mil%C3%ADcia-do-Rio-e-seu-poss%C3%ADvel-bra%C3%A7o-pol%C3%ADtico)
+- [As habilidades digitais de adolescentes no Brasil](https://www.nexojornal.com.br/grafico/2023/12/26/As-habilidades-digitais-de-adolescentes-no-Brasil)
+- [7 pontos-chave para entender a política econômica de 2023](https://www.nexojornal.com.br/expresso/2023/12/26/7-pontos-chave-para-entender-a-pol%C3%ADtica-econ%C3%B4mica-de-2023)
+- [Diesel será reonerado em janeiro de 2024. Petrobras corta preço](https://www.nexojornal.com.br/extra/2023/12/26/Diesel-ser%C3%A1-reonerado-em-janeiro-de-2024.-Petrobras-corta-pre%C3%A7o)
+- [A leniência do Substack com nazismo na plataforma](https://www.nexojornal.com.br/expresso/2023/12/26/A-leni%C3%AAncia-do-Substack-com-nazismo-na-plataforma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
