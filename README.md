@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O cerco à maior milícia do Rio e seu possível braço político](https://www.nexojornal.com.br/expresso/2023/12/26/O-cerco-%C3%A0-maior-mil%C3%ADcia-do-Rio-e-seu-poss%C3%ADvel-bra%C3%A7o-pol%C3%ADtico)
-- [As habilidades digitais de adolescentes no Brasil](https://www.nexojornal.com.br/grafico/2023/12/26/As-habilidades-digitais-de-adolescentes-no-Brasil)
-- [7 pontos-chave para entender a política econômica de 2023](https://www.nexojornal.com.br/expresso/2023/12/26/7-pontos-chave-para-entender-a-pol%C3%ADtica-econ%C3%B4mica-de-2023)
-- [Diesel será reonerado em janeiro de 2024. Petrobras corta preço](https://www.nexojornal.com.br/extra/2023/12/26/Diesel-ser%C3%A1-reonerado-em-janeiro-de-2024.-Petrobras-corta-pre%C3%A7o)
-- [A leniência do Substack com nazismo na plataforma](https://www.nexojornal.com.br/expresso/2023/12/26/A-leni%C3%AAncia-do-Substack-com-nazismo-na-plataforma)
+- [Donald Trump é o maior risco para 2024 &lpar;e 2026&rpar;](https://www.nexojornal.com.br/colunistas/2023/Donald-Trump-%C3%A9-o-maior-risco-para-2024-e-2026)
+- [O que falta ser regulamentado na reforma tributária](https://www.nexojornal.com.br/expresso/2023/12/27/O-que-falta-ser-regulamentado-na-reforma-tribut%C3%A1ria)
+- [Milei entrega pacote a Congresso argentino para reformar Estado](https://www.nexojornal.com.br/extra/2023/12/27/Milei-entrega-pacote-a-Congresso-argentino-para-reformar-Estado)
+- [6 marcos que animam o Brasil para a Olimpíada de Paris](https://www.nexojornal.com.br/expresso/2023/12/27/6-marcos-que-animam-o-Brasil-para-a-Olimp%C3%ADada-de-Paris)
+- [A insustentável falta de leveza do mundo acadêmico](https://www.nexojornal.com.br/colunistas/2023/A-insustent%C3%A1vel-falta-de-leveza-do-mundo-acad%C3%AAmico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
