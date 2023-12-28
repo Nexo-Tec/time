@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PC Siqueira é o exemplo trágico de uma geração sem paz](https://www.nexojornal.com.br/ensaio/2023/PC-Siqueira-%C3%A9-o-exemplo-tr%C3%A1gico-de-uma-gera%C3%A7%C3%A3o-sem-paz)
-- [Morre o youtuber e influenciador PC Siqueira, aos 37 anos](https://www.nexojornal.com.br/extra/2023/12/28/Morre-o-youtuber-e-influenciador-PC-Siqueira-aos-37-anos)
-- [Donald Trump é o maior risco para 2024 &lpar;e 2026&rpar;](https://www.nexojornal.com.br/colunistas/2023/Donald-Trump-%C3%A9-o-maior-risco-para-2024-e-2026)
-- [O que falta ser regulamentado na reforma tributária](https://www.nexojornal.com.br/expresso/2023/12/27/O-que-falta-ser-regulamentado-na-reforma-tribut%C3%A1ria)
-- [Milei pede mais poder ao Congresso para reformar Estado](https://www.nexojornal.com.br/extra/2023/12/27/Milei-pede-mais-poder-ao-Congresso-para-reformar-Estado)
+- [6 marcos que animam o Brasil para a Olimpíada de Paris](https://www.nexojornal.com.br/expresso/2023/12/27/6-marcos-que-animam-o-Brasil-para-a-Olimp%C3%ADada-de-Paris)
+- [A insustentável falta de leveza do mundo acadêmico](https://www.nexojornal.com.br/colunistas/2023/A-insustent%C3%A1vel-falta-de-leveza-do-mundo-acad%C3%AAmico)
+- [Como a morte de um ator expõe a guerra às drogas na Coreia do Sul](https://www.nexojornal.com.br/expresso/2023/12/27/Como-a-morte-de-um-ator-exp%C3%B5e-a-guerra-%C3%A0s-drogas-na-Coreia-do-Sul)
+- [Morre aos 91 anos Jacob Barata, ‘rei do ônibus’ do Rio](https://www.nexojornal.com.br/extra/2023/12/27/Morre-aos-91-anos-Jacob-Barata-%E2%80%98rei-do-%C3%B4nibus%E2%80%99-do-Rio)
+- [O cerco à maior milícia do Rio e seu possível braço político](https://www.nexojornal.com.br/expresso/2023/12/26/O-cerco-%C3%A0-maior-mil%C3%ADcia-do-Rio-e-seu-poss%C3%ADvel-bra%C3%A7o-pol%C3%ADtico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
