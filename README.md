@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Morte às vidas severinas na universidade](https://gamarevista.uol.com.br/colunistas/marilene-felinto/morte-as-vidas-severinas-na-universidade/)
 - [Dez livros biográficos que marcaram 2023](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-biograficos-que-marcaram-2023/)
 - [Ei, Christina Aguilera, ajuda Fred a continuar a estudar?](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/ei-christina-aguilera-ajuda-fred-a-continuar-a-estudar/)
 - [Dez episódios imperdíveis do Podcast da Semana em 2023](https://gamarevista.uol.com.br/pessoas/dez-episodios-imperdiveis-do-podcast-da-semana-de-2023/)
 - [Objetos que bombaram em 2023](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-bombaram-em-2023/)
-- [Os álbuns de 2023 que não saíram dos headphones da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-albuns-de-2023-que-nao-sairam-dos-headphones-da-gama/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
