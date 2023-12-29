@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nas mortes de Jéssica Canedo e PC Siqueira, ninguém é inocente](https://www.nexojornal.com.br/colunistas/2023/Nas-mortes-de-J%C3%A9ssica-Canedo-e-PC-Siqueira-ningu%C3%A9m-%C3%A9-inocente)
-- [Os passos de Milei para desregular a economia e concentrar poder](https://www.nexojornal.com.br/expresso/2023/12/28/Os-passos-de-Milei-para-desregular-a-economia-e-concentrar-poder)
-- [Ibovespa encerra ano com maior alta acumulada desde 2019](https://www.nexojornal.com.br/extra/2023/12/28/Ibovespa-encerra-ano-com-maior-alta-acumulada-desde-2019)
-- [Haddad anuncia plano para ampliar arrecadação em 2024](https://www.nexojornal.com.br/extra/2023/12/28/Haddad-anuncia-plano-para-ampliar-arrecada%C3%A7%C3%A3o-em-2024)
-- [PC Siqueira é o exemplo trágico de uma geração sem paz](https://www.nexojornal.com.br/ensaio/2023/PC-Siqueira-%C3%A9-o-exemplo-tr%C3%A1gico-de-uma-gera%C3%A7%C3%A3o-sem-paz)
+- [Donald Trump é o maior risco para 2024 &lpar;e 2026&rpar;](https://www.nexojornal.com.br/colunistas/2023/Donald-Trump-%C3%A9-o-maior-risco-para-2024-e-2026)
+- [O que falta ser regulamentado na reforma tributária](https://www.nexojornal.com.br/expresso/2023/12/27/O-que-falta-ser-regulamentado-na-reforma-tribut%C3%A1ria)
+- [Milei entrega pacote a Congresso argentino para reformar Estado](https://www.nexojornal.com.br/extra/2023/12/27/Milei-entrega-pacote-a-Congresso-argentino-para-reformar-Estado)
+- [6 marcos que animam o Brasil para a Olimpíada de Paris](https://www.nexojornal.com.br/expresso/2023/12/27/6-marcos-que-animam-o-Brasil-para-a-Olimp%C3%ADada-de-Paris)
+- [A insustentável falta de leveza do mundo acadêmico](https://www.nexojornal.com.br/colunistas/2023/A-insustent%C3%A1vel-falta-de-leveza-do-mundo-acad%C3%AAmico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
