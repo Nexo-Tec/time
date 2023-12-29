@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Morte às vidas severinas na universidade](https://gamarevista.uol.com.br/colunistas/marilene-felinto/morte-as-vidas-severinas-na-universidade/)
-- [Dez livros biográficos que marcaram 2023](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-biograficos-que-marcaram-2023/)
-- [Ei, Christina Aguilera, ajuda Fred a continuar a estudar?](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/ei-christina-aguilera-ajuda-fred-a-continuar-a-estudar/)
-- [Dez episódios imperdíveis do Podcast da Semana em 2023](https://gamarevista.uol.com.br/pessoas/dez-episodios-imperdiveis-do-podcast-da-semana-de-2023/)
-- [Objetos que bombaram em 2023](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/objetos-que-bombaram-em-2023/)
+- [“The Last of Us”, nova série distópica da HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-last-of-us-nova-serie-distopica-da-hbo-max/)
+- [Um romance em que tudo pode desabar](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-romance-em-que-tudo-pode-desabar/)
+- [As memórias de Ai Weiwei](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-ai-weiwei/)
+- [Um bolo molhado para chocólatras de carteirinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-bolo-molhado-para-chocolatras-de-carteirinha/)
+- [Um podcast em tributo à Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-em-tributo-a-rita-lee/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
