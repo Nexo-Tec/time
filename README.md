@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Os melhores filmes de 2023 escolhidos pela redação da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-melhores-filmes-de-2023-segundo-gama/)
 - [“The Last of Us”, nova série distópica da HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-last-of-us-nova-serie-distopica-da-hbo-max/)
 - [Um romance em que tudo pode desabar](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-romance-em-que-tudo-pode-desabar/)
 - [As memórias de Ai Weiwei](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-ai-weiwei/)
 - [Um bolo molhado para chocólatras de carteirinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-bolo-molhado-para-chocolatras-de-carteirinha/)
-- [Um podcast em tributo à Rita Lee](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-em-tributo-a-rita-lee/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
