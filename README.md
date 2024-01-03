@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Qual a sua maior extravagância em 2023?](https://gamarevista.uol.com.br/pessoas/qual-a-sua-maior-extravagancia-em-2023/)
+- [Os conteúdos mais lidos da Gama em 2023](https://gamarevista.uol.com.br/sem-categoria/os-conteudos-mais-lidos-da-gama-em-2023/)
 - [Dez grandes conversas da Gama em 2023](https://gamarevista.uol.com.br/formato/conversas/dez-grandes-conversas-da-gama-em-2023/)
 - [Cinco pratos perfeitos para as suas férias](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/cinco-pratos-perfeitos-para-as-suas-ferias/)
 - [A seleção da Gama dos melhores livros de 2023](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/a-selecao-da-gama-dos-melhores-livros-de-2023/)
-- [Os melhores filmes de 2023 escolhidos pela redação da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-melhores-filmes-de-2023-segundo-gama/)
-- [“The Last of Us”, nova série distópica da HBO Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/the-last-of-us-nova-serie-distopica-da-hbo-max/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
