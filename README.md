@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Alanis Guillen](https://gamarevista.uol.com.br/pessoas/questionario-proust/alanis-guillen/)
 - [Por que o BBB ainda faz sucesso após 22 anos?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/por-que-o-bbb-ainda-faz-sucesso-apos-22-anos/)
 - [@cauaadrianoo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cauaadrianoo/)
 - [Alê D’Agostino: “O drink de verão perfeito tem que ser leve, refrescante e ter pouco açúcar”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bartender-ale-dagostino-drink-de-verao-perfeito-tem-que-ser-leve-refrescante-e-ter-pouco-acucar/)
 - [Histórias profissionais inspiradoras que Gama contou em 2023](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/licoes-para-repensar-a-carreira/)
-- [Qual a sua maior extravagância em 2023?](https://gamarevista.uol.com.br/pessoas/qual-a-sua-maior-extravagancia-em-2023/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
