@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Panchakarma no Sri Lanka e o elixir da imortalidade](https://gamarevista.uol.com.br/colunistas/marcello-dantas/panchakarma-no-sri-lanka-e-o-elixir-da-imortalidade/)
-- [Sunga](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/sunga/)
-- [“Saltburn” e o consumo da imagem](https://gamarevista.uol.com.br/artigo/saltburn-e-o-consumo-da-imagem/)
-- [Alanis Guillen](https://gamarevista.uol.com.br/pessoas/questionario-proust/alanis-guillen/)
-- [Por que o BBB ainda faz sucesso após 22 anos?](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/por-que-o-bbb-ainda-faz-sucesso-apos-22-anos/)
+- [Os 50 álbuns mais esperados de 2024, segundo a Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-50-albuns-mais-esperados-de-2024-segundo-a-pitchfork/)
+- [“Os Rejeitados”, dramédia de Alexander Payne, com Paul Giamatti](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-rejeitados-dramedia-de-alexander-payne-com-paul-giamatti/)
+- [Duas receitas fáceis e deliciosas de peixe da chef Renata Vanzetto](https://gamarevista.uol.com.br/achamos-que-vale/fazer/duas-receitas-faceis-e-deliciosas-de-peixe-da-chef-renata-vanzetto/)
+- [A nova temporada de “True Detective”, com Jodie Foster](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-true-detective-com-jodie-foster/)
+- [Leonilson e seus contemporâneos na Pinacoteca do CE](https://gamarevista.uol.com.br/achamos-que-vale/ir/leonilson-e-seus-contemporaneos-na-pinacoteca-do-ce/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
