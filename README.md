@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Os 50 álbuns mais esperados de 2024, segundo a Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-50-albuns-mais-esperados-de-2024-segundo-a-pitchfork/)
+- [Os 50 álbuns mais esperados de 2024, segundo o Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-50-albuns-mais-esperados-de-2024-segundo-a-pitchfork/)
 - [“Os Rejeitados”, dramédia de Alexander Payne, com Paul Giamatti](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-rejeitados-dramedia-de-alexander-payne-com-paul-giamatti/)
 - [Duas receitas fáceis e deliciosas de peixe da chef Renata Vanzetto](https://gamarevista.uol.com.br/achamos-que-vale/fazer/duas-receitas-faceis-e-deliciosas-de-peixe-da-chef-renata-vanzetto/)
 - [A nova temporada de “True Detective”, com Jodie Foster](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-true-detective-com-jodie-foster/)
