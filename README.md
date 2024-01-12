@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Aplicativo de relacionamento agita vida de mulher da roça](https://gamarevista.uol.com.br/colunistas/marilene-felinto/aplicativo-de-relacionamento-agita-vida-de-mulher-da-roca/)
+- [Angústia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/angustia/)
 - [Os 50 álbuns mais esperados de 2024, segundo o Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-50-albuns-mais-esperados-de-2024-segundo-a-pitchfork/)
 - [“Os Rejeitados”, dramédia de Alexander Payne, com Paul Giamatti](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-rejeitados-dramedia-de-alexander-payne-com-paul-giamatti/)
 - [Duas receitas fáceis e deliciosas de peixe da chef Renata Vanzetto](https://gamarevista.uol.com.br/achamos-que-vale/fazer/duas-receitas-faceis-e-deliciosas-de-peixe-da-chef-renata-vanzetto/)
-- [A nova temporada de “True Detective”, com Jodie Foster](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-true-detective-com-jodie-foster/)
-- [Leonilson e seus contemporâneos na Pinacoteca do CE](https://gamarevista.uol.com.br/achamos-que-vale/ir/leonilson-e-seus-contemporaneos-na-pinacoteca-do-ce/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
