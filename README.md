@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Marcio Atalla: “Construir hábitos saudáveis requer paciência”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcio-atalla-como-comecar-a-praticar-atividades-fisicas-esportes/)
 - [Aplicativo de relacionamento agita vida de mulher da roça](https://gamarevista.uol.com.br/colunistas/marilene-felinto/aplicativo-de-relacionamento-agita-vida-de-mulher-da-roca/)
 - [Angústia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/angustia/)
 - [Os 50 álbuns mais esperados de 2024, segundo o Pitchfork](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-50-albuns-mais-esperados-de-2024-segundo-a-pitchfork/)
 - [“Os Rejeitados”, dramédia de Alexander Payne, com Paul Giamatti](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-rejeitados-dramedia-de-alexander-payne-com-paul-giamatti/)
-- [Duas receitas fáceis e deliciosas de peixe da chef Renata Vanzetto](https://gamarevista.uol.com.br/achamos-que-vale/fazer/duas-receitas-faceis-e-deliciosas-de-peixe-da-chef-renata-vanzetto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
