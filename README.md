@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Até quando a culpa será sempre da mulher?](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/ate-quando-a-culpa-sera-sempre-da-mulher/)
 - [CV: Gabriele Leite](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gabriele-leite/)
 - [@chefedequebrada](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/chefedequebrada/)
 - [Marcio Atalla: “Construir hábitos saudáveis requer paciência”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcio-atalla-como-comecar-a-praticar-atividades-fisicas-esportes/)
 - [Aplicativo de relacionamento agita vida de mulher da roça](https://gamarevista.uol.com.br/colunistas/marilene-felinto/aplicativo-de-relacionamento-agita-vida-de-mulher-da-roca/)
-- [Angústia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/angustia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
