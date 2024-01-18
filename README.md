@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Até quando a culpa será sempre da mulher?](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/ate-quando-a-culpa-sera-sempre-da-mulher/)
-- [CV: Gabriele Leite](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-gabriele-leite/)
-- [@chefedequebrada](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/chefedequebrada/)
-- [Marcio Atalla: “Construir hábitos saudáveis requer paciência”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcio-atalla-como-comecar-a-praticar-atividades-fisicas-esportes/)
-- [Aplicativo de relacionamento agita vida de mulher da roça](https://gamarevista.uol.com.br/colunistas/marilene-felinto/aplicativo-de-relacionamento-agita-vida-de-mulher-da-roca/)
+- [“Segredos de um Escândalo”, com Natalie Portman e Julianne Moore](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segredos-de-um-escandalo-com-natalie-portman/)
+- [Single novo da Pabllo Vittar com sample de dupla sueca](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/single-novo-da-pabllo-vittar-com-sample-de-dupla-sueca/)
+- [“Meditações”, os conselhos sempre atuais de um imperador romano](https://gamarevista.uol.com.br/achamos-que-vale/ler/meditacoes-os-conselhos-sempre-atuais-de-um-imperador-romano/)
+- [Nanni Moretti volta em “O Melhor Está por Vir”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nanni-moretti-volta-em-o-melhor-esta-por-vir/)
+- [Nihoncha: Introdução ao chá japonês, na Japan House São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/nihoncha-introducao-ao-cha-japones-na-japan-house/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
