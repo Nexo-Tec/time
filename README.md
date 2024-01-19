@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Japão pousa sonda na Lua e torna-se 5º a chegar no satélite](https://www.nexojornal.com.br/extra/2024/01/19/japao-pousa-sonda-na-lua-e-torna-se-5o-a-chegar-no-satelite)
 - [A chuva no Rio. A ação da Polícia Federal contra Jordy. E mais](https://www.nexojornal.com.br/video/2024/01/19/resumo-noticias-chuva-rio-acao-pf-jordy-ataques-ira-e-mais)
 - [Brasil reitera apoio a ‘uma só China’, sem mencionar Taiwan](https://www.nexojornal.com.br/extra/2024/01/19/brasil-reitera-apoio-a-uma-so-china-sem-mencionar-taiwan)
 - [Como lidar com o trauma através da escrita](https://www.nexojornal.com.br/academico/2024/01/19/como-processar-o-trauma-atraves-da-escrita)
 - [Por que caem tantas árvores quando chove em São Paulo](https://www.nexojornal.com.br/expresso/2024/01/19/por-que-cai-tanta-arvore-em-sao-paulo)
-- [A desinformação nos anúncios da bancada ruralista nas redes](https://www.nexojornal.com.br/externo/2024/01/19/a-desinformacao-nos-anuncios-da-bancada-ruralista-nas-redes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
