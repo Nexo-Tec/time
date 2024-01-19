@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Nas mortes de Jéssica Canedo e PC Siqueira, ninguém é inocente](https://www.nexojornal.com.br/colunistas/2023/Nas-mortes-de-J%C3%A9ssica-Canedo-e-PC-Siqueira-ningu%C3%A9m-%C3%A9-inocente)
-- [Os passos de Milei para desregular a economia e concentrar poder](https://www.nexojornal.com.br/expresso/2023/12/28/Os-passos-de-Milei-para-desregular-a-economia-e-concentrar-poder)
-- [Ibovespa encerra ano com maior alta acumulada desde 2019](https://www.nexojornal.com.br/extra/2023/12/28/Ibovespa-encerra-ano-com-maior-alta-acumulada-desde-2019)
-- [Haddad anuncia plano para ampliar arrecadação em 2024](https://www.nexojornal.com.br/extra/2023/12/28/Haddad-anuncia-plano-para-ampliar-arrecada%C3%A7%C3%A3o-em-2024)
-- [PC Siqueira é o exemplo trágico de uma geração sem paz](https://www.nexojornal.com.br/ensaio/2023/PC-Siqueira-%C3%A9-o-exemplo-tr%C3%A1gico-de-uma-gera%C3%A7%C3%A3o-sem-paz)
+- [A desinformação nos anúncios da bancada ruralista nas redes](https://www.nexojornal.com.br/externo/2024/01/19/a-desinformacao-nos-anuncios-da-bancada-ruralista-nas-redes)
+- [A desinformação é o maior risco global: como lidar com ela?](https://www.nexojornal.com.br/colunistas/2024/01/18/como-lidar-com-desinformacao-risco-global)
+- [Qual efeito a bolsa ensino médio pode ter contra a evasão escolar](https://www.nexojornal.com.br/expresso/2024/01/18/efeito-bolsa-poupanca-ensino-medio-evasao-escolar)
+- [Por que Lula aposta na refinaria que foi foco da Lava Jato](https://www.nexojornal.com.br/expresso/2024/01/18/lula-refinaria-abreu-e-lima-lava-jato)
+- [PF prende suspeito de envolvimento em caso Bruno e Dom](https://www.nexojornal.com.br/extra/2024/01/18/prisao-de-suspeito-em-assassinato-de-bruno-e-dom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
