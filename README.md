@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que caem tantas árvores quando chove em São Paulo](https://www.nexojornal.com.br/expresso/2024/01/19/por-que-cai-tanta-arvore-em-sao-paulo)
 - [A desinformação nos anúncios da bancada ruralista nas redes](https://www.nexojornal.com.br/externo/2024/01/19/a-desinformacao-nos-anuncios-da-bancada-ruralista-nas-redes)
 - [A desinformação é o maior risco global: como lidar com ela?](https://www.nexojornal.com.br/colunistas/2024/01/18/como-lidar-com-desinformacao-risco-global)
 - [Qual efeito a bolsa ensino médio pode ter contra a evasão escolar](https://www.nexojornal.com.br/expresso/2024/01/18/efeito-bolsa-poupanca-ensino-medio-evasao-escolar)
 - [Por que Lula aposta na refinaria que foi foco da Lava Jato](https://www.nexojornal.com.br/expresso/2024/01/18/lula-refinaria-abreu-e-lima-lava-jato)
-- [PF prende suspeito de envolvimento em caso Bruno e Dom](https://www.nexojornal.com.br/extra/2024/01/18/prisao-de-suspeito-em-assassinato-de-bruno-e-dom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
