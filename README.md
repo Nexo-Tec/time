@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dá muita sede prever o tempo](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/da-muita-sede-prever-o-tempo/)
 - [O Gaucho Insofrível](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-gaucho-insofrivel/)
 - [“Segredos de um Escândalo”, com Natalie Portman e Julianne Moore](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segredos-de-um-escandalo-com-natalie-portman/)
 - [Single novo da Pabllo Vittar com sample de dupla sueca](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/single-novo-da-pabllo-vittar-com-sample-de-dupla-sueca/)
 - [“Meditações”, os conselhos sempre atuais de um imperador romano](https://gamarevista.uol.com.br/achamos-que-vale/ler/meditacoes-os-conselhos-sempre-atuais-de-um-imperador-romano/)
-- [Nanni Moretti volta em “O Melhor Está por Vir”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/nanni-moretti-volta-em-o-melhor-esta-por-vir/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
