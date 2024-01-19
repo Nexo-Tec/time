@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil reitera apoio a ‘uma só China’, sem mencionar Taiwan](https://www.nexojornal.com.br/extra/2024/01/19/brasil-reitera-apoio-a-uma-so-china-sem-mencionar-taiwan)
+- [Como lidar com o trauma através da escrita](https://www.nexojornal.com.br/academico/2024/01/19/como-processar-o-trauma-atraves-da-escrita)
 - [Por que caem tantas árvores quando chove em São Paulo](https://www.nexojornal.com.br/expresso/2024/01/19/por-que-cai-tanta-arvore-em-sao-paulo)
 - [A desinformação nos anúncios da bancada ruralista nas redes](https://www.nexojornal.com.br/externo/2024/01/19/a-desinformacao-nos-anuncios-da-bancada-ruralista-nas-redes)
 - [A desinformação é o maior risco global: como lidar com ela?](https://www.nexojornal.com.br/colunistas/2024/01/18/como-lidar-com-desinformacao-risco-global)
-- [Qual efeito a bolsa ensino médio pode ter contra a evasão escolar](https://www.nexojornal.com.br/expresso/2024/01/18/efeito-bolsa-poupanca-ensino-medio-evasao-escolar)
-- [Por que Lula aposta na refinaria que foi foco da Lava Jato](https://www.nexojornal.com.br/expresso/2024/01/18/lula-refinaria-abreu-e-lima-lava-jato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
