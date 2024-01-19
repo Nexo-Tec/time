@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Waldir Heinrichs Caldas: mudanças climáticas e os organismos aquáticos da Amazônia](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/26/Waldir-Heinrichs-Caldas-mudan%C3%A7as-clim%C3%A1ticas-e-os-organismos-aqu%C3%A1ticos-da-Amaz%C3%B4nia)
-- [PL das Fake News e disputas sobre a liberdade de expressão, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2023/PL-das-Fake-News-e-disputas-sobre-a-liberdade-de-express%C3%A3o-em-5-pontos)
-- [Angela Alonso: os protestos de 2013 no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2023/12/22/Angela-Alonso-os-protestos-de-2013-no-Brasil)
-- [Impactos do uso de agrotóxicos na bacia do rio Amazonas](https://pp.nexojornal.com.br/academico/2023/Impactos-do-uso-de-agrot%C3%B3xicos-na-bacia-do-rio-Amazonas)
-- [Injúria racial: do reconhecimento à equiparação ao racismo](https://pp.nexojornal.com.br/linha-do-tempo/2023/Inj%C3%BAria-racial-do-reconhecimento-%C3%A0-equipara%C3%A7%C3%A3o-ao-racismo)
+- [Os impactos de não estudar e não exercer atividade remunerada na juventude brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2024/01/09/os-impactos-de-nao-estudar-e-nao-exercer-atividade-remunerada-na-juventude-brasileira/)
+- [Quais são as contribuições de Claudia Goldin para a ciência econômica](https://pp.nexojornal.com.br/academico/2024/01/09/quais-sao-as-contribuicoes-de-claudia-goldin-para-a-ciencia-economica/)
+- [Escassez de dados na segurança pública: particularidades do caso brasileiro](https://pp.nexojornal.com.br/opiniao/2024/01/09/escassez-de-dados-na-seguranca-publica-particularidades-do-caso-brasileiro/)
+- [Inclusão, acesso e permanência de estudantes indígenas na Universidade do Estado do Amazonas](https://pp.nexojornal.com.br/academico/2024/01/09/inclusao-acesso-e-permanencia-de-estudantes-indigenas-na-universidade-do-estado-do-amazonas/)
+- [Transformações na Amazônia: um relato de 14 dias de expedição científica rios adentro](https://pp.nexojornal.com.br/ponto-de-vista/2024/01/09/transformacoes-na-amazonia-um-relato-de-14-dias-de-expedicao-cientifica-rios-adentro/)
 <!-- PP_LIST:END -->
 
