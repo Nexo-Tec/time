@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é o peso das críticas do PT à política econômica](https://www.nexojornal.com.br/expresso/2024/01/19/qual-e-o-peso-das-criticas-do-pt-a-politica-economica)
+- [Como ‘True Detective’ tenta recuperar o prestígio de seu início](https://www.nexojornal.com.br/expresso/2024/01/19/como-true-detective-tenta-recuperar-o-prestigio-de-seu-inicio)
+- [‘Democracia para quem?’: palestras sobre o nosso tempo](https://www.nexojornal.com.br/estante-trechos/2024/01/19/democracia-para-quem-palestras-sobre-o-nosso-tempo)
+- [Arqueologia histórica investiga da colonização à ditadura](https://www.nexojornal.com.br/externo/2024/01/19/arqueologia-historica-investiga-da-colonizacao-a-ditadura)
 - [‘A principal dúvida é se o 8 de janeiro foi premeditado’](https://www.nexojornal.com.br/entrevista/2024/01/19/entrevista-carlos-jordy-alvo-da-operacao-lesa-patria-8-de-janeiro)
-- [Madonna é processada por fãs após atraso em show em NY](https://www.nexojornal.com.br/extra/2024/01/19/madonna-e-processada-por-fas-apos-atraso-em-show-em-ny)
-- [Japão pousa sonda na Lua e torna-se 5º a chegar no satélite](https://www.nexojornal.com.br/extra/2024/01/19/japao-pousa-sonda-na-lua-e-torna-se-5o-a-chegar-no-satelite)
-- [A chuva no Rio. A ação da Polícia Federal contra Jordy. E mais](https://www.nexojornal.com.br/video/2024/01/19/resumo-noticias-chuva-rio-acao-pf-jordy-ataques-ira-e-mais)
-- [Brasil reitera apoio a ‘uma só China’, sem mencionar Taiwan](https://www.nexojornal.com.br/extra/2024/01/19/brasil-reitera-apoio-a-uma-so-china-sem-mencionar-taiwan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
