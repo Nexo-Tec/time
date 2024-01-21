@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cálculo do Iraque ao sair da coalizão contra o Estado Islâmico](https://www.nexojornal.com.br/expresso/2024/01/20/o-calculo-do-iraque-ao-sair-da-coalizao-contra-o-estado-islamico)
+- [Guerra às drogas: por que a justiça de transição é urgente](https://www.nexojornal.com.br/ensaio/2024/01/20/guerra-as-drogas-por-que-a-justica-de-transicao-e-urgente)
+- [As escolhas de Lewandowski para dois cargos-chave na Justiça](https://www.nexojornal.com.br/expresso/2024/01/20/escolhas-de-lewandowski-na-seguranca-publica)
 - [Brasil conquista 1ª medalha em jogos Olímpicos de Inverno](https://www.nexojornal.com.br/extra/2024/01/20/brasil-conquista-1a-medalha-em-jogos-olimpicos-de-inverno)
 - [Qual é o peso das críticas do PT à política econômica](https://www.nexojornal.com.br/expresso/2024/01/19/qual-e-o-peso-das-criticas-do-pt-a-politica-economica)
-- [Como ‘True Detective’ tenta recuperar o prestígio de seu início](https://www.nexojornal.com.br/expresso/2024/01/19/como-true-detective-tenta-recuperar-o-prestigio-de-seu-inicio)
-- [‘Democracia para quem?’: palestras sobre o nosso tempo](https://www.nexojornal.com.br/estante-trechos/2024/01/19/democracia-para-quem-palestras-sobre-o-nosso-tempo)
-- [Arqueologia histórica investiga da colonização à ditadura](https://www.nexojornal.com.br/externo/2024/01/19/arqueologia-historica-investiga-da-colonizacao-a-ditadura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
