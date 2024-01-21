@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mulher morre após ser atingida por raio no litoral de SP](https://www.nexojornal.com.br/extra/2024/01/20/mulher-morre-apos-ser-atingida-por-raio-no-litoral-de-sp)
 - [Quais as implicações da 1ª clonagem de um macaco rhesus](https://www.nexojornal.com.br/expresso/2024/01/20/quais-as-implicacoes-da-1a-clonagem-de-um-macaco-rhesus)
 - [O que faz um embaixador para os direitos LGBTI+](https://www.nexojornal.com.br/expresso/2024/01/20/o-que-faz-um-embaixador-para-os-direitos-lgbti)
 - [O cálculo do Iraque ao pedir a saída de tropas estrangeiras do país](https://www.nexojornal.com.br/expresso/2024/01/20/o-calculo-do-iraque-ao-sair-da-coalizao-contra-o-estado-islamico)
 - [Guerra às drogas: por que a justiça de transição é urgente](https://www.nexojornal.com.br/ensaio/2024/01/20/guerra-as-drogas-por-que-a-justica-de-transicao-e-urgente)
-- [As escolhas de Lewandowski para dois cargos-chave na Justiça](https://www.nexojornal.com.br/expresso/2024/01/20/escolhas-de-lewandowski-na-seguranca-publica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
