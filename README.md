@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Presidente do STM: orientação era tolerar acampamento golpista](https://www.nexojornal.com.br/externo/2024/01/22/presidente-do-stm-orientacao-era-tolerar-acampamento-golpista)
 - [MST protesta contra assassinato de indígena no sul da Bahia](https://www.nexojornal.com.br/extra/2024/01/22/mst-protesta-contra-assassinato-de-indigena-no-sul-da-bahia)
 - [São Paulo faz novas operações Escudo após morte de policiais](https://www.nexojornal.com.br/extra/2024/01/22/novas-operacoes-escudo-sao-paulo-mortes-policiais)
 - [Pelo menos 6 morrem em naufrágio na Baía de Todos-os-Santos](https://www.nexojornal.com.br/extra/2024/01/22/naufragio-mortes-baia-de-todos-os-santos-bahia-salvador)
 - [Alemães vão às ruas contra pauta anti-imigração](https://www.nexojornal.com.br/extra/2024/01/21/alemaes-vao-as-ruas-contra-pauta-anti-imigracao)
-- [A medida para superar traumas e injustiças da escravidão no Brasil](https://www.nexojornal.com.br/ensaio/2024/01/21/a-medida-para-superar-traumas-e-injusticas-da-escravidao-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
