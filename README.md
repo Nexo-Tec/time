@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pelo menos 6 morrem em naufrágio na baía de Todos-os-Santos](https://www.nexojornal.com.br/extra/2024/01/22/naufragio-mortes-baia-de-todos-os-santos-bahia-salvador)
 - [Alemães vão às ruas contra pauta anti-imigração](https://www.nexojornal.com.br/extra/2024/01/21/alemaes-vao-as-ruas-contra-pauta-anti-imigracao)
 - [A medida para superar traumas e injustiças da escravidão no Brasil](https://www.nexojornal.com.br/ensaio/2024/01/21/a-medida-para-superar-traumas-e-injusticas-da-escravidao-no-brasil)
 - [Como o negacionismo climático se renova nas plataformas](https://www.nexojornal.com.br/expresso/2024/01/21/como-o-negacionismo-climatico-se-renova-nas-plataformas)
 - [O que é sério e o que não é na busca por vida extraterrestre](https://www.nexojornal.com.br/expresso/2024/01/21/o-que-e-serio-e-o-que-nao-e-na-busca-por-vida-extraterrestre)
-- [Quais os desafios da agenda do deficit zero no Congresso](https://www.nexojornal.com.br/expresso/2024/01/21/quais-os-desafios-da-agenda-do-deficit-zero-no-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
