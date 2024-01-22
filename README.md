@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ron DeSantis desiste de campanha e declara apoio a Trump](https://www.nexojornal.com.br/extra/2024/01/21/ron-desantis-desiste-de-campanha-e-declara-apoio-a-trump)
-- [5 livros sobre diplomacia e política externa](https://www.nexojornal.com.br/estante-favoritos/2024/01/21/5-livros-sobre-diplomacia-e-politica-externa)
-- [Mulher morre após ser atingida por raio no litoral de SP](https://www.nexojornal.com.br/extra/2024/01/20/mulher-morre-apos-ser-atingida-por-raio-no-litoral-de-sp)
-- [Quais as implicações da 1ª clonagem de um macaco rhesus](https://www.nexojornal.com.br/expresso/2024/01/20/quais-as-implicacoes-da-1a-clonagem-de-um-macaco-rhesus)
-- [O que faz um embaixador para os direitos LGBTI+](https://www.nexojornal.com.br/expresso/2024/01/20/o-que-faz-um-embaixador-para-os-direitos-lgbti)
+- [Alemães vão às ruas contra pauta anti-imigração](https://www.nexojornal.com.br/extra/2024/01/21/alemaes-vao-as-ruas-contra-pauta-anti-imigracao)
+- [A medida para superar traumas e injustiças da escravidão no Brasil](https://www.nexojornal.com.br/ensaio/2024/01/21/a-medida-para-superar-traumas-e-injusticas-da-escravidao-no-brasil)
+- [Como o negacionismo climático se renova nas plataformas](https://www.nexojornal.com.br/expresso/2024/01/21/como-o-negacionismo-climatico-se-renova-nas-plataformas)
+- [O que é sério e o que não é na busca por vida extraterrestre](https://www.nexojornal.com.br/expresso/2024/01/21/o-que-e-serio-e-o-que-nao-e-na-busca-por-vida-extraterrestre)
+- [Quais os desafios da agenda do deficit zero no Congresso](https://www.nexojornal.com.br/expresso/2024/01/21/quais-os-desafios-da-agenda-do-deficit-zero-no-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
