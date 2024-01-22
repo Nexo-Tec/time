@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Stanley Quencher H2.0 Flowstate Tumbler](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/stanley-quencher-h2-0-flowstate-tumbler/)
 - [Regina Rodrigues: “O aquecimento dos oceanos piora eventos climáticos extremos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/regina-rodrigues-o-aquecimento-dos-oceanos/)
 - [Dá muita sede prever o tempo](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/da-muita-sede-prever-o-tempo/)
 - [O Gaucho Insofrível](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-gaucho-insofrivel/)
 - [“Segredos de um Escândalo”, com Natalie Portman e Julianne Moore](https://gamarevista.uol.com.br/achamos-que-vale/assistir/segredos-de-um-escandalo-com-natalie-portman/)
-- [Single novo da Pabllo Vittar com sample de dupla sueca](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/single-novo-da-pabllo-vittar-com-sample-de-dupla-sueca/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
