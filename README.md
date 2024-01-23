@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que há de novo na nova política industrial de Lula](https://www.nexojornal.com.br/expresso/2024/01/22/o-que-ha-de-novo-na-nova-politica-industrial-de-lula)
+- [Lula sanciona Orçamento com veto de R$ 5,6 bi a emendas](https://www.nexojornal.com.br/extra/2024/01/22/lula-sanciona-orcamento-com-veto-de-r-56-bi-a-emendas)
+- [O papel da vacina diante da crise de dengue no Brasil](https://www.nexojornal.com.br/podcast/2024/01/22/qdenga-vacina-dengue-sus-durma-com-essa)
 - [Projeto disponibiliza arquivos de novelas incompletas](https://www.nexojornal.com.br/extra/2024/01/22/globoplay-disponibiliza-arquivos-de-novelas-incompletas)
 - [Presidente do STM: orientação era tolerar acampamento golpista](https://www.nexojornal.com.br/externo/2024/01/22/presidente-do-stm-orientacao-era-tolerar-acampamento-golpista)
-- [MST protesta contra assassinato de indígena no sul da Bahia](https://www.nexojornal.com.br/extra/2024/01/22/mst-protesta-contra-assassinato-de-indigena-no-sul-da-bahia)
-- [São Paulo faz novas operações Escudo após morte de policiais](https://www.nexojornal.com.br/extra/2024/01/22/novas-operacoes-escudo-sao-paulo-mortes-policiais)
-- [Pelo menos 6 morrem em naufrágio na Baía de Todos-os-Santos](https://www.nexojornal.com.br/extra/2024/01/22/naufragio-mortes-baia-de-todos-os-santos-bahia-salvador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
