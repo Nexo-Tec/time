@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [IBGE vai voltar a usar termo ‘favela’ nos censos](https://www.nexojornal.com.br/extra/2024/01/23/ibge-uso-termo-favela-censos)
 - [Lessa delata Domingos Brazão no caso Marielle, diz site](https://www.nexojornal.com.br/extra/2024/01/23/delacao-ronnie-lessa-domingos-brazao-mandou-matar-marielle-diz-site)
 - [A reativação da Operação Escudo após ataques a policiais](https://www.nexojornal.com.br/expresso/2024/01/23/reativacao-operacao-escudo-sao-paulo)
 - [Oscar 2024: ‘Oppenheimer’ lidera indicações. Veja lista](https://www.nexojornal.com.br/extra/2024/01/23/indicados-oscar-2024)
 - [Qual o espaço da extrema direita na Alemanha atual](https://www.nexojornal.com.br/expresso/2024/01/22/qual-o-espaco-da-extrema-direita-na-alemanha-atual)
-- [O que há de novo na nova política industrial de Lula](https://www.nexojornal.com.br/expresso/2024/01/22/o-que-ha-de-novo-na-nova-politica-industrial-de-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
