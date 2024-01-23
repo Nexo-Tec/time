@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lessa delata Domingos Brazão no caso Marielle, diz site](https://www.nexojornal.com.br/extra/2024/01/23/delacao-ronnie-lessa-domingos-brazao-mandou-matar-marielle-diz-site)
+- [A reativação da Operação Escudo após ataques a policiais](https://www.nexojornal.com.br/expresso/2024/01/23/reativacao-operacao-escudo-sao-paulo)
 - [Oscar 2024: ‘Oppenheimer’ lidera indicações. Veja lista](https://www.nexojornal.com.br/extra/2024/01/23/indicados-oscar-2024)
 - [Qual o espaço da extrema direita na Alemanha atual](https://www.nexojornal.com.br/expresso/2024/01/22/qual-o-espaco-da-extrema-direita-na-alemanha-atual)
 - [O que há de novo na nova política industrial de Lula](https://www.nexojornal.com.br/expresso/2024/01/22/o-que-ha-de-novo-na-nova-politica-industrial-de-lula)
-- [Lula sanciona Orçamento com veto de R$ 5,6 bi a emendas](https://www.nexojornal.com.br/extra/2024/01/22/lula-sanciona-orcamento-com-veto-de-r-56-bi-a-emendas)
-- [O papel da vacina diante da crise de dengue no Brasil](https://www.nexojornal.com.br/podcast/2024/01/22/qdenga-vacina-dengue-sus-durma-com-essa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
