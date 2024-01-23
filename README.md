@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cultivo de azeitona no mundo. E os passos para produzir azeite](https://www.nexojornal.com.br/grafico/2024/01/23/azeite-oliva-como-produz-brasil-producao-azeitona)
 - [IBGE vai voltar a usar termo ‘favela’ nos censos](https://www.nexojornal.com.br/extra/2024/01/23/ibge-uso-termo-favela-censos)
 - [Lessa delata Domingos Brazão no caso Marielle, diz site](https://www.nexojornal.com.br/extra/2024/01/23/delacao-ronnie-lessa-domingos-brazao-mandou-matar-marielle-diz-site)
 - [A reativação da Operação Escudo após ataques a policiais](https://www.nexojornal.com.br/expresso/2024/01/23/reativacao-operacao-escudo-sao-paulo)
 - [Oscar 2024: ‘Oppenheimer’ lidera indicações. Veja lista](https://www.nexojornal.com.br/extra/2024/01/23/indicados-oscar-2024)
-- [Qual o espaço da extrema direita na Alemanha atual](https://www.nexojornal.com.br/expresso/2024/01/22/qual-o-espaco-da-extrema-direita-na-alemanha-atual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
