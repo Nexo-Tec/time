@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Seca na Amazônia foi causada por mudanças climáticas, diz estudo](https://www.nexojornal.com.br/extra/2024/01/24/seca-na-amazonia-foi-causada-por-mudancas-climaticas-diz-estudo)
 - [O que o frio extremo nos EUA tem a ver com o aquecimento global](https://www.nexojornal.com.br/expresso/2024/01/24/o-que-o-frio-extremo-nos-eua-tem-a-ver-com-o-aquecimento-global)
 - [Rússia acusa Ucrânia de derrubar avião com 74 passageiros](https://www.nexojornal.com.br/extra/2024/01/24/queda-de-aviao-na-russia-mata-74-passageiros)
 - [Trump vence em New Hampshire e se aproxima de nomeação](https://www.nexojornal.com.br/extra/2024/01/24/trump-vence-new-hampshire)
 - [Qual o papel das emendas de comissão pós-orçamento secreto](https://www.nexojornal.com.br/expresso/2024/01/23/emendas-de-comissao-diferenca-orcamento-secreto)
-- [Os efeitos políticos da suspensão da isenção tributária a pastores](https://www.nexojornal.com.br/expresso/2024/01/23/efeitos-politicos-suspensao-isencao-tributaria-evangelicos-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
