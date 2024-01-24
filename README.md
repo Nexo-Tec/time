@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O poder latino em “Orquídeas”, de Kali Uchis](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-poder-latino-em-orquideas-de-kali-uchis/)
 - [“Anatomia de uma Queda”, premiado em Cannes e indicado ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anatomia-de-uma-queda-premiado-em-cannes-e-indicado-ao-oscar/)
 - [Romance de Agualusa sobre uma grande rainha africana](https://gamarevista.uol.com.br/achamos-que-vale/ler/romance-de-agualusa-sobre-uma-grande-rainha-africana/)
 - [O romance melancólico “Vidas Passadas”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-romance-melancolico-vidas-passadas/)
 - [Emanoel Araújo, Brennand, Tunga e outros na nova Galeria Galatea, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/emanoel-araujo-brennand-tunga-e-outros-na-nova-galeria-galatea-em-salvador/)
-- [Uma salada crocante e agridoce para tirar seu churrasco da mesmice](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/uma-salada-crocante-e-agridoce-para-tirar-seu-churrasco-da-mesmice/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
