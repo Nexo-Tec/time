@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Trump vence em New Hampshire e se aproxima de nomeação](https://www.nexojornal.com.br/extra/2024/01/24/trump-vence-new-hampshire)
 - [Qual o papel das emendas de comissão pós-orçamento secreto](https://www.nexojornal.com.br/expresso/2024/01/23/emendas-de-comissao-diferenca-orcamento-secreto)
 - [Os efeitos políticos da suspensão da isenção tributária a pastores](https://www.nexojornal.com.br/expresso/2024/01/23/efeitos-politicos-suspensao-isencao-tributaria-evangelicos-lula)
 - [Psiquiatras, professores e o paradoxo de Moravec](https://www.nexojornal.com.br/colunistas/2024/01/23/psiquiatras-professores-paradoxo-moravec-inteligencia-artificial)
 - [Aneel projeta aumento acima da inflação nas contas de luz](https://www.nexojornal.com.br/extra/2024/01/23/contas-de-luz-devem-subir-acima-da-inflacao-diz-aneel)
-- [As ferramentas que tentam confundir IAs que criam imagens](https://www.nexojornal.com.br/expresso/2024/01/23/ferramentas-imagens-confundir-inteligencia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
