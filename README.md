@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Emanoel Araújo, Brennand, Tunga e outros na nova Galeria Galatea, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/emanoel-araujo-brennand-tunga-e-outros-na-nova-galeria-galatea-em-salvador/)
 - [Uma salada crocante e agridoce para tirar seu churrasco da mesmice](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/uma-salada-crocante-e-agridoce-para-tirar-seu-churrasco-da-mesmice/)
 - [@jao](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jao/)
 - [A fantasia messiânica do ano novo](https://gamarevista.uol.com.br/colunistas/maria-homem/a-fantasia-messianica-do-ano-novo/)
 - [Stanley Quencher H2.0 Flowstate Tumbler](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/stanley-quencher-h2-0-flowstate-tumbler/)
-- [Regina Rodrigues: “O aquecimento dos oceanos piora eventos climáticos extremos”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/regina-rodrigues-o-aquecimento-dos-oceanos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
