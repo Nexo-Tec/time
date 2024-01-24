@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Arma de filho de fazendeiro matou indígena na Bahia](https://www.nexojornal.com.br/extra/2024/01/24/arma-de-filho-de-fazendeiro-matou-indigena-na-bahia)
 - [Quais medidas de Milei motivaram uma greve geral](https://www.nexojornal.com.br/podcast/2024/01/24/greve-geral-argentina-contra-medidas-javier-milei)
 - [Agora você pode acompanhar o ‘Nexo’ também no WhatsApp](https://www.nexojornal.com.br/expresso/2024/01/24/canal-nexo-whatsapp)
 - [Seca na Amazônia foi causada por mudanças climáticas, diz estudo](https://www.nexojornal.com.br/extra/2024/01/24/seca-na-amazonia-foi-causada-por-mudancas-climaticas-diz-estudo)
 - [O que o frio extremo nos EUA tem a ver com o aquecimento global](https://www.nexojornal.com.br/expresso/2024/01/24/o-que-o-frio-extremo-nos-eua-tem-a-ver-com-o-aquecimento-global)
-- [Rússia acusa Ucrânia de derrubar avião com 74 passageiros](https://www.nexojornal.com.br/extra/2024/01/24/queda-de-aviao-na-russia-mata-74-passageiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
