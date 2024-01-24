@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que é o Relógio do Juízo Final. E que horas ele marca](https://www.nexojornal.com.br/podcast/2024/01/23/o-que-e-o-relogio-do-juizo-final-e-que-horas-ele-marca)
-- [O cultivo de azeitona no mundo. E os passos para produzir azeite](https://www.nexojornal.com.br/grafico/2024/01/23/azeite-oliva-como-produz-brasil-producao-azeitona)
-- [IBGE vai voltar a usar termo ‘favela’ nos censos](https://www.nexojornal.com.br/extra/2024/01/23/ibge-uso-termo-favela-censos)
-- [Lessa delata Domingos Brazão no caso Marielle, diz site](https://www.nexojornal.com.br/extra/2024/01/23/delacao-ronnie-lessa-domingos-brazao-mandou-matar-marielle-diz-site)
-- [A reativação da Operação Escudo após ataques a policiais](https://www.nexojornal.com.br/expresso/2024/01/23/reativacao-operacao-escudo-sao-paulo)
+- [Qual o papel das emendas de comissão pós-orçamento secreto](https://www.nexojornal.com.br/expresso/2024/01/23/emendas-de-comissao-diferenca-orcamento-secreto)
+- [Os efeitos políticos da suspensão da isenção tributária a pastores](https://www.nexojornal.com.br/expresso/2024/01/23/efeitos-politicos-suspensao-isencao-tributaria-evangelicos-lula)
+- [Psiquiatras, professores e o paradoxo de Moravec](https://www.nexojornal.com.br/colunistas/2024/01/23/psiquiatras-professores-paradoxo-moravec-inteligencia-artificial)
+- [Aneel projeta aumento acima da inflação nas contas de luz](https://www.nexojornal.com.br/extra/2024/01/23/contas-de-luz-devem-subir-acima-da-inflacao-diz-aneel)
+- [As ferramentas que tentam confundir IAs que criam imagens](https://www.nexojornal.com.br/expresso/2024/01/23/ferramentas-imagens-confundir-inteligencia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
