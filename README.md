@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF faz operação contra Ramagem, chefe da Abin sob Bolsonaro](https://www.nexojornal.com.br/extra/2024/01/25/operacao-federal-ramagem-abin-espionagem)
 - [A responsabilização por Brumadinho 5 anos após a tragédia](https://www.nexojornal.com.br/expresso/2024/01/24/brumadinho-5-anos-responsabilizacao-tragedia)
 - [Por que a democracia é mais frágil do que parece](https://www.nexojornal.com.br/colunistas/2024/01/24/por-que-a-democracia-e-mais-fragil-do-que-parece)
 - [Como a Hungria virou um entrave para a expansão da Otan](https://www.nexojornal.com.br/expresso/2024/01/24/hungria-entrave-para-expansao-otan)
 - [Você sabe se esta música fala sobre São Paulo? Faça o teste](https://www.nexojornal.com.br/interativo/2024/01/24/musica-sobre-sao-paulo-faca-teste)
-- [‘Novo normal’, diz prefeito sobre chuvas que alagaram BH](https://www.nexojornal.com.br/extra/2024/01/24/novo-normal-diz-prefeito-sobre-chuvas-que-alagaram-bh)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
