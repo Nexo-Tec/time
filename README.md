@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gol entra com pedido de recuperação judicial nos EUA](https://www.nexojornal.com.br/extra/2024/01/25/gol-pedido-de-recuperacao-judicial-eua)
+- [O livro experimental de horror comparado a grandes clássicos](https://www.nexojornal.com.br/expresso/2024/01/25/casa-de-folhas-livro-horror-experimental)
 - [Um suspeito de espionagem que quer ser prefeito do Rio](https://www.nexojornal.com.br/podcast/2024/01/25/um-suspeito-de-espionagem-que-quer-ser-prefeito-do-rio)
 - [Microsoft demite 1,9 mil funcionários da área de games](https://www.nexojornal.com.br/extra/2024/01/25/microsoft-demite-19-mil-funcionarios-games)
 - [Como a comunidade LGBTI+ ocupa o centro do Rio de Janeiro](https://www.nexojornal.com.br/academico/2024/01/25/pesquisa-comunidade-lgbti-ocupacao-centro-rio-de-janeiro)
-- [Governo define cidades para vacinação contra dengue](https://www.nexojornal.com.br/extra/2024/01/25/governo-define-cidades-para-vacinacao-contra-dengue)
-- [Iêmen: a situação de um país que vive guerras simultâneas](https://www.nexojornal.com.br/expresso/2024/01/25/iemen-guerra-civil-dez-anos-houtis)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
