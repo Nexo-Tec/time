@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que hospitais podem e não podem se recusar a fazer](https://www.nexojornal.com.br/expresso/2024/01/25/diu-sao-camilo-religiao-o-que-hospitais-podem-se-recusar-fazer)
+- [A arte de Samuel Fosso me tirou do detox digital](https://www.nexojornal.com.br/colunistas/2024/01/25/arte-samuel-fosso-me-tirou-do-detox-digital)
+- [Passagens caras, prejuízos e socorro: o setor aéreo em 2024](https://www.nexojornal.com.br/expresso/2024/01/25/passagens-caras-crise-companhias-aereas-2024)
+- [Como um órgão dentro da Abin virou pivô de caso de espionagem](https://www.nexojornal.com.br/expresso/2024/01/25/orgao-abin-espionagem-governo-bolsonaro)
 - [Gol entra com pedido de recuperação judicial nos EUA](https://www.nexojornal.com.br/extra/2024/01/25/gol-pedido-de-recuperacao-judicial-eua)
-- [O livro experimental de horror comparado a grandes clássicos](https://www.nexojornal.com.br/expresso/2024/01/25/casa-de-folhas-livro-horror-experimental)
-- [Um suspeito de espionagem que quer ser prefeito do Rio](https://www.nexojornal.com.br/podcast/2024/01/25/um-suspeito-de-espionagem-que-quer-ser-prefeito-do-rio)
-- [Microsoft demite 1,9 mil funcionários da área de games](https://www.nexojornal.com.br/extra/2024/01/25/microsoft-demite-19-mil-funcionarios-games)
-- [Como a comunidade LGBTI+ ocupa o centro do Rio de Janeiro](https://www.nexojornal.com.br/academico/2024/01/25/pesquisa-comunidade-lgbti-ocupacao-centro-rio-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
