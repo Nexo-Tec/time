@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Corte ordena medidas de Israel para prevenir genocídio em Gaza](https://www.nexojornal.com.br/extra/2024/01/26/tribunal-haia-ordena-medidas-israel-prevenir-genocidio-gaza)
 - [O que hospitais podem e não podem se recusar a fazer](https://www.nexojornal.com.br/expresso/2024/01/25/diu-sao-camilo-religiao-o-que-hospitais-podem-se-recusar-fazer)
 - [A arte de Samuel Fosso me tirou do detox digital](https://www.nexojornal.com.br/colunistas/2024/01/25/arte-samuel-fosso-me-tirou-do-detox-digital)
 - [Passagens caras, prejuízos e socorro: o setor aéreo em 2024](https://www.nexojornal.com.br/expresso/2024/01/25/passagens-caras-crise-companhias-aereas-2024)
 - [Como um órgão dentro da Abin virou pivô de caso de espionagem](https://www.nexojornal.com.br/expresso/2024/01/25/orgao-abin-espionagem-governo-bolsonaro)
-- [Gol entra com pedido de recuperação judicial nos EUA](https://www.nexojornal.com.br/extra/2024/01/25/gol-pedido-de-recuperacao-judicial-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
