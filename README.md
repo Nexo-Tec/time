@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o fundo eleitoral recorde pode impactar a eleição](https://www.nexojornal.com.br/expresso/2024/01/26/fundo-eleitoral-recorde-pode-impactar-eleicao)
+- [‘No rastro de Enayat’: o peso sobre a vida de uma artista egípcia](https://www.nexojornal.com.br/estante-trechos/2024/01/26/no-rastro-de-enayat-peso-sobre-vida-artista-egipcia)
+- [O que Jürgen Klopp trouxe de novo ao tradicional Liverpool](https://www.nexojornal.com.br/expresso/2024/01/26/jurgen-klopp-trouxe-tradicional-liverpool)
+- [A execução que levou a pena de morte a outro patamar nos EUA](https://www.nexojornal.com.br/expresso/2024/01/26/pena-de-morte-eua-execucao-levou-outro-patamar)
+- [Como o fundo eleitoral recorde pode impactar as eleições municipais](https://www.nexojornal.com.br/expresso/2024/01/26/fundo-eleitoral-recorde-pode-impactar-eleicao)
 - [Quais as distorções do ensino superior a distância no Brasil](https://www.nexojornal.com.br/expresso/2024/01/26/distorcoes-ensino-superior-distancia-brasil)
-- [Júri ordena que Trump pague mais de US$ 80 milhões a escritora](https://www.nexojornal.com.br/extra/2024/01/26/trump-condenado-caso-difamacao-jean-carroll)
-- [Por que celebridades estão mergulhando em águas geladas](https://www.nexojornal.com.br/expresso/2024/01/26/celebridades-aguas-geladas-mergulho)
-- [Arnault volta a ser o homem mais rico do mundo, diz Forbes](https://www.nexojornal.com.br/extra/2024/01/26/arnault-homem-mais-rico-do-mundo-forbes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
