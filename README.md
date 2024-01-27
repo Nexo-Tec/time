@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o fundo eleitoral recorde pode impactar a eleição](https://www.nexojornal.com.br/expresso/2024/01/26/fundo-eleitoral-recorde-pode-impactar-eleicao)
+- [Quais as distorções do ensino superior a distância no Brasil](https://www.nexojornal.com.br/expresso/2024/01/26/distorcoes-ensino-superior-distancia-brasil)
+- [Júri ordena que Trump pague mais de US$ 80 milhões a escritora](https://www.nexojornal.com.br/extra/2024/01/26/trump-condenado-caso-difamacao-jean-carroll)
 - [Por que celebridades estão mergulhando em águas geladas](https://www.nexojornal.com.br/expresso/2024/01/26/celebridades-aguas-geladas-mergulho)
 - [Arnault volta a ser o homem mais rico do mundo, diz Forbes](https://www.nexojornal.com.br/extra/2024/01/26/arnault-homem-mais-rico-do-mundo-forbes)
-- [A apuração sobre espionagem da Abin. O veto a emendas. E mais](https://www.nexojornal.com.br/video/2024/01/26/resumo-de-noticias-espionagem-abin-veto-emendas-e-mais)
-- [Governo vai pagar R$ 2 mil por ano a alunos do ensino médio](https://www.nexojornal.com.br/extra/2024/01/26/programa-bolsas-estudantes-baixa-renda-valor-anual)
-- [O filme francês que pode levar o Oscar sem concorrer por seu país](https://www.nexojornal.com.br/expresso/2024/01/26/anatomia-de-uma-queda-oscar-filme-frances)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
