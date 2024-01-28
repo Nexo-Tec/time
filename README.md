@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros recomendados para quem gosta de escrever](https://www.nexojornal.com.br/estante-favoritos/2024/01/28/5-livros-recomendados-para-quem-gosta-de-escrever)
+- [O que fazer quando se é alvo de deepfakes pornográficos](https://www.nexojornal.com.br/expresso/2024/01/28/o-que-fazer-quando-se-e-alvo-de-deepfakes-pornograficos)
+- [O governador que foi cassado três vezes e continua no cargo](https://www.nexojornal.com.br/expresso/2024/01/28/o-governador-que-foi-cassado-tres-vezes-e-continua-no-cargo)
+- [Qual o desempenho da economia dos EUA sob Biden e sob Trump](https://www.nexojornal.com.br/expresso/2024/01/28/economia-eua-biden-trump-eleicoes-2024)
 - [Cadastro Único: dois ditados e o nome das coisas](https://www.nexojornal.com.br/ensaio/2024/01/28/o-cadastro-unico-dois-ditados-e-o-nome-das-coisas)
-- [Minas Gerais decreta emergência após alta de casos de dengue](https://www.nexojornal.com.br/extra/2024/01/28/minas-gerais-decreta-emergencia-apos-alta-de-casos-de-dengue)
-- [As mudanças da Abin sob Lula. E as suspeitas de conluio](https://www.nexojornal.com.br/expresso/2024/01/28/as-mudancas-da-abin-sob-lula-e-suspeitas-de-conluio)
-- [Países suspendem ajuda a agência da ONU em Gaza](https://www.nexojornal.com.br/extra/2024/01/27/paises-suspendem-ajuda-a-agencia-da-onu-em-gaza)
-- [‘No rastro de Enayat’: o peso sobre a vida de uma artista egípcia](https://www.nexojornal.com.br/estante-trechos/2024/01/26/no-rastro-de-enayat-peso-sobre-vida-artista-egipcia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
