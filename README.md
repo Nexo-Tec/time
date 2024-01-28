@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataque na Jordânia mata 3 soldados americanos](https://www.nexojornal.com.br/extra/2024/01/28/ataque-na-jordania-mata-3-soldados-americanos)
 - [5 livros recomendados para quem gosta de escrever](https://www.nexojornal.com.br/estante-favoritos/2024/01/28/5-livros-recomendados-para-quem-gosta-de-escrever)
 - [O que fazer quando se é alvo de deepfakes pornográficos](https://www.nexojornal.com.br/expresso/2024/01/28/o-que-fazer-quando-se-e-alvo-de-deepfakes-pornograficos)
 - [O governador que foi cassado três vezes e continua no cargo](https://www.nexojornal.com.br/expresso/2024/01/28/o-governador-que-foi-cassado-tres-vezes-e-continua-no-cargo)
 - [Qual o desempenho da economia dos EUA sob Biden e sob Trump](https://www.nexojornal.com.br/expresso/2024/01/28/economia-eua-biden-trump-eleicoes-2024)
-- [Cadastro Único: dois ditados e o nome das coisas](https://www.nexojornal.com.br/ensaio/2024/01/28/o-cadastro-unico-dois-ditados-e-o-nome-das-coisas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
