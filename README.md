@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Brasil aderiu ao maior centro de física do mundo](https://www.nexojornal.com.br/expresso/2024/01/28/por-que-o-brasil-aderiu-ao-cern-maior-centro-de-fisica-do-mundo)
+- [Os protestos de agricultores europeus como cartada eleitoral](https://www.nexojornal.com.br/expresso/2024/01/28/os-protestos-de-agricultores-europeus-como-cartada-eleitoral)
+- [Os impactos da reforma tributária para os negócios sociais](https://www.nexojornal.com.br/ensaio/2024/01/28/os-impactos-da-reforma-tributaria-para-os-negocios-sociais)
+- [Finlândia terá 2º turno em primeira eleição após adesão à Otan](https://www.nexojornal.com.br/extra/2024/01/28/segundo-turno-eleicoes-na-finlandia-otan)
 - [Ataque na Jordânia mata 3 soldados americanos](https://www.nexojornal.com.br/extra/2024/01/28/ataque-na-jordania-mata-3-soldados-americanos)
-- [5 livros recomendados para quem gosta de escrever](https://www.nexojornal.com.br/estante-favoritos/2024/01/28/5-livros-recomendados-para-quem-gosta-de-escrever)
-- [O que fazer quando se é alvo de deepfakes pornográficos](https://www.nexojornal.com.br/expresso/2024/01/28/o-que-fazer-quando-se-e-alvo-de-deepfakes-pornograficos)
-- [O governador que foi cassado três vezes e continua no cargo](https://www.nexojornal.com.br/expresso/2024/01/28/o-governador-que-foi-cassado-tres-vezes-e-continua-no-cargo)
-- [Qual o desempenho da economia dos EUA sob Biden e sob Trump](https://www.nexojornal.com.br/expresso/2024/01/28/economia-eua-biden-trump-eleicoes-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
