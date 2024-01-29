@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cerco à família Bolsonaro na apuração sobre a ‘Abin paralela’](https://www.nexojornal.com.br/podcast/2024/01/29/carlos-bolsonaro-cerco-familia-bolsonaro-abin-paralela)
+- [Post do governo faz ironia em referência a Carlos Bolsonaro](https://www.nexojornal.com.br/extra/2024/01/29/post-governo-lula-meme-toc-toc-operacao-carlos-bolsonaro)
 - [Número de pessoas trans assassinadas no Brasil cresce em 2023](https://www.nexojornal.com.br/extra/2024/01/29/numero-assassinatos-pessoas-trans-travestis-brasil-2023)
 - [Onde assistir aos filmes indicados ao Oscar em 2024](https://www.nexojornal.com.br/servico/2024/01/29/filmes-oscar-2024-onde-assistir)
 - [Contas públicas registram rombo de R$ 230,5 bilhões em 2023](https://www.nexojornal.com.br/extra/2024/01/29/contas-publicas-deficit-rombo-de-r-230-bilhoes-em-2023)
-- [Justiça de Hong Kong decreta falência da Evergrande](https://www.nexojornal.com.br/extra/2024/01/29/evergrande-falencia-hong-kong)
-- [Carlos Bolsonaro é alvo da PF em caso de espionagem na Abin](https://www.nexojornal.com.br/extra/2024/01/29/carlos-bolsonaro-operacao-pf-abin-paralela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
