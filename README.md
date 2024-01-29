@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Contas públicas registram rombo de R$ 230,5 bilhões em 2023](https://www.nexojornal.com.br/extra/2024/01/29/contas-publicas-deficit-rombo-de-r-230-bilhoes-em-2023)
 - [Justiça de Hong Kong decreta falência da Evergrande](https://www.nexojornal.com.br/extra/2024/01/29/evergrande-falencia-hong-kong)
 - [Carlos Bolsonaro é alvo da PF em caso de espionagem na Abin](https://www.nexojornal.com.br/extra/2024/01/29/carlos-bolsonaro-operacao-pf-abin-paralela)
 - [3 gráficos que mostram como os ricos pagam menos impostos](https://www.nexojornal.com.br/grafico/2024/01/28/tres-graficos-que-mostram-como-os-ricos-pagam-menos-impostos-no-brasil)
 - [Por que o Brasil aderiu ao maior centro de física do mundo](https://www.nexojornal.com.br/expresso/2024/01/28/por-que-o-brasil-aderiu-ao-cern-maior-centro-de-fisica-do-mundo)
-- [Os protestos de agricultores europeus como cartada eleitoral](https://www.nexojornal.com.br/expresso/2024/01/28/os-protestos-de-agricultores-europeus-como-cartada-eleitoral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
