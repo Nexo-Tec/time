@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [3 gráficos que mostram como os ricos pagam menos impostos](https://www.nexojornal.com.br/grafico/2024/01/28/tres-graficos-que-mostram-como-os-ricos-pagam-menos-impostos-no-brasil)
 - [Por que o Brasil aderiu ao maior centro de física do mundo](https://www.nexojornal.com.br/expresso/2024/01/28/por-que-o-brasil-aderiu-ao-cern-maior-centro-de-fisica-do-mundo)
 - [Os protestos de agricultores europeus como cartada eleitoral](https://www.nexojornal.com.br/expresso/2024/01/28/os-protestos-de-agricultores-europeus-como-cartada-eleitoral)
 - [Os impactos da reforma tributária para os negócios sociais](https://www.nexojornal.com.br/ensaio/2024/01/28/os-impactos-da-reforma-tributaria-para-os-negocios-sociais)
 - [Finlândia terá 2º turno em primeira eleição após adesão à Otan](https://www.nexojornal.com.br/extra/2024/01/28/segundo-turno-eleicoes-na-finlandia-otan)
-- [Ataque na Jordânia mata 3 soldados americanos](https://www.nexojornal.com.br/extra/2024/01/28/ataque-na-jordania-mata-3-soldados-americanos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
