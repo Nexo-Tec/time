@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula diz que apurações põem diretor-adjunto da Abin sob risco](https://www.nexojornal.com.br/extra/2024/01/30/lula-nao-ha-clima-alessandro-moretti-diretor-adjunto-abin)
 - [Os grupos que promovem ‘terapias’ de conversão sexual](https://www.nexojornal.com.br/externo/2024/01/29/grupos-terapias-conversao-sexual-cura-gay)
 - [O corte de recursos e as acusações à agência da ONU em Gaza](https://www.nexojornal.com.br/expresso/2024/01/29/unrwa-o-que-e-acusacoes-contra-onu-em-gaza)
 - [O que marca a década de crise fiscal brasileira](https://www.nexojornal.com.br/expresso/2024/01/29/deficit-2023-brasil-decada-crise-fiscal)
 - [O que é o modo ‘roguelike’ disponível em ‘The Last of Us 2’](https://www.nexojornal.com.br/expresso/2024/01/29/o-que-e-o-modo-roguelike-disponivel-em-the-last-of-us-2)
-- [O cerco à família Bolsonaro na apuração sobre a ‘Abin paralela’](https://www.nexojornal.com.br/podcast/2024/01/29/carlos-bolsonaro-cerco-familia-bolsonaro-abin-paralela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
