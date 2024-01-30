@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que fez o Brasil piorar no ranking mundial de corrupção](https://www.nexojornal.com.br/podcast/2024/01/30/brasil-no-ranking-mundial-de-corrupcao)
 - [Joinville, em SC, tem emergência por vazamento de ácido](https://www.nexojornal.com.br/extra/2024/01/30/joinvile-entra-em-emergencia-apos-vazamento-de-acido-sulfonico)
 - [Por que o chip cerebral de Elon Musk é visto com ceticismo](https://www.nexojornal.com.br/expresso/2024/01/30/chip-cerebral-elon-musk-neuralink-ceticismo)
 - [EUA voltam a impor sanções à Venezuela após pena à opositora](https://www.nexojornal.com.br/extra/2024/01/30/eua-sancoes-venezuela-maria-corina-machado)
 - [A distribuição das vagas do Sisu 2024 por unidade federativa](https://www.nexojornal.com.br/grafico/2024/01/30/resultado-sisu-2024-vagas-por-estado)
-- [Militares israelenses disfarçados matam palestinos em hospital](https://www.nexojornal.com.br/extra/2024/01/30/militares-disfarcados-medicos-matam-palestinos-hospital-cisjordania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
