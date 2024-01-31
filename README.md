@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Pedro Tourinho](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-pedro-tourinho/)
 - [“Priscilla” e as memórias coletivas das mulheres](https://gamarevista.uol.com.br/artigo/priscilla-e-as-memorias-coletivas-das-mulheres/)
 - [Não há mais nada para ser adiado](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-ha-mais-nada-para-ser-adiado/)
 - [Gustavo Estanislau: “O bullying pode fazer com que a criança acredite que merece sofrer”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bullying-na-escola-qual-o-papel-da-familia-pais/)
 - [Viagem de turismo tem sempre algo de ridículo e ilusório](https://gamarevista.uol.com.br/colunistas/marilene-felinto/viagem-de-turismo-tem-sempre-algo-de-ridiculo-e-ilusorio/)
-- [Mudar: Método](https://gamarevista.uol.com.br/cultura/trecho-de-livro/mudar-metodo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
