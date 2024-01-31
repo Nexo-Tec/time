@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desemprego em 2023 foi de 7,8%, menor taxa desde 2014](https://www.nexojornal.com.br/extra/2024/01/31/taxa-desemprego-2023-ibge-indice-anual)
 - [A mensagem dada pelo governo ao provocar Bolsonaro nas redes](https://www.nexojornal.com.br/expresso/2024/01/30/comunicacao-oficial-governo-lula-meme-ironia-bolsonaro-redes-sociais)
 - [A política econômica brasileira num mundo mais protecionista](https://www.nexojornal.com.br/expresso/2024/01/30/o-que-e-protecionismo-que-papel-deve-ter-na-economia-do-brasil)
 - [Por que 18 prefeitos foram presos em Santa Catarina](https://www.nexojornal.com.br/expresso/2024/01/30/prefeitos-presos-santa-catarina-corrupcao)
 - [PF pede quebra de sigilos de Janones por indício de rachadinha](https://www.nexojornal.com.br/extra/2024/01/30/pf-ve-indicios-de-rachadinha-e-pede-quebra-de-sigilos-de-janones)
-- [Lula demite número 2 da Abin em meio a caso de espionagem ilegal](https://www.nexojornal.com.br/extra/2024/01/30/lula-demite-numero-2-da-abin-em-meio-a-caso-de-espionagem-ilegal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
