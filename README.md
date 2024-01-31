@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Banco Central corta taxa de juros para 11,25% ao ano](https://www.nexojornal.com.br/extra/2024/01/31/banco-central-corta-taxa-de-juros-selic-1125)
 - [Juiz multa Havan em R$ 85 milhões por intimidar funcionários](https://www.nexojornal.com.br/extra/2024/01/31/multa-havan-intimidacao-funcionarios-eleicao-bolsonaro)
 - [O sucesso de ‘O mal que nos habita’. E o terror como espelho social](https://www.nexojornal.com.br/expresso/2024/01/31/sobre-o-que-e-o-filme-o-mal-que-nos-habita)
 - [Mercado Livre faz acordo para nomear estádio do Pacaembu](https://www.nexojornal.com.br/extra/2024/01/31/estadio-pacaembu-mercado-livre-naming-rights)
 - [As propostas locais para reduzir os danos de energias renováveis](https://www.nexojornal.com.br/expresso/2024/01/31/as-propostas-locais-para-reduzir-os-danos-de-energias-renovaveis)
-- [Desemprego em 2023 foi de 7,8%, menor taxa desde 2014](https://www.nexojornal.com.br/extra/2024/01/31/taxa-desemprego-2023-ibge-indice-anual)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
