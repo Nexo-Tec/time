@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem fiscaliza a Abin. E como funciona a supervisão da agência](https://www.nexojornal.com.br/expresso/2024/01/31/quem-fiscaliza-a-abin-e-como-funciona-supervisao-da-agencia)
 - [O aumento da pressão sobre dissidentes em Hong Kong](https://www.nexojornal.com.br/expresso/2024/01/31/o-aumento-da-pressao-sobre-dissidentes-em-hong-kong)
 - [No filme ‘Pobres Criaturas’, o bizarro não passa de um truque](https://www.nexojornal.com.br/colunistas/2024/01/31/critica-o-bizarro-no-filme-pobres-criaturas-de-yorgos-lanthimos)
 - [Como a seca assola um Nordeste cada vez mais árido](https://www.nexojornal.com.br/expresso/2024/01/31/como-a-seca-assola-um-nordeste-cada-vez-mais-arido)
 - [O histórico da relação da humanidade com o canibalismo](https://www.nexojornal.com.br/externo/2024/01/31/o-historico-da-relacao-da-humanidade-com-o-canibalismo)
-- [O que os dados de desemprego de 2023 sinalizam para 2024](https://www.nexojornal.com.br/podcast/2024/01/31/taxa-desemprego-2023-previsao-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
