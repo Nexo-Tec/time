@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [União Europeia aprova pacote de € 50 bilhões para Ucrânia](https://www.nexojornal.com.br/extra/2024/02/01/uniao-europeia-pacote-ajuda-ucrania-guerra-russia)
 - [Quem fiscaliza a Abin. E como funciona a supervisão da agência](https://www.nexojornal.com.br/expresso/2024/01/31/quem-fiscaliza-a-abin-e-como-funciona-supervisao-da-agencia)
 - [O aumento da pressão sobre dissidentes em Hong Kong](https://www.nexojornal.com.br/expresso/2024/01/31/o-aumento-da-pressao-sobre-dissidentes-em-hong-kong)
 - [No filme ‘Pobres criaturas’, o bizarro não passa de um truque](https://www.nexojornal.com.br/colunistas/2024/01/31/critica-o-bizarro-no-filme-pobres-criaturas-de-yorgos-lanthimos)
 - [Como a seca assola um Nordeste cada vez mais árido](https://www.nexojornal.com.br/expresso/2024/01/31/como-a-seca-assola-um-nordeste-cada-vez-mais-arido)
-- [O histórico da relação da humanidade com o canibalismo](https://www.nexojornal.com.br/externo/2024/01/31/o-historico-da-relacao-da-humanidade-com-o-canibalismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
