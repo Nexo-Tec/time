@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Toffoli suspende pagamento de multas da Odebrecht](https://www.nexojornal.com.br/extra/2024/02/01/odebrecht-toffoli-multas-supremo-lava-jato)
 - [Quais os benefícios de escrever à mão, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/02/01/quais-os-beneficios-de-escrever-a-mao)
 - [‘O Carnaval deixou de ser uma política de cultura em São Paulo’](https://www.nexojornal.com.br/entrevista/2024/02/01/o-carnaval-deixou-de-ser-uma-politica-de-cultura-em-sao-paulo)
 - [União Europeia aprova pacote de € 50 bilhões para Ucrânia](https://www.nexojornal.com.br/extra/2024/02/01/uniao-europeia-pacote-ajuda-ucrania-guerra-russia)
 - [Quem fiscaliza a Abin. E como funciona a supervisão da agência](https://www.nexojornal.com.br/expresso/2024/01/31/quem-fiscaliza-a-abin-e-como-funciona-supervisao-da-agencia)
-- [O aumento da pressão sobre dissidentes em Hong Kong](https://www.nexojornal.com.br/expresso/2024/01/31/o-aumento-da-pressao-sobre-dissidentes-em-hong-kong)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
