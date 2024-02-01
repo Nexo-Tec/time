@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Acre tem índices de feminicídio tão altos](https://www.nexojornal.com.br/academico/2024/02/01/por-que-o-acre-tem-indices-de-feminicidio-tao-altos)
+- [Lewis Hamilton vai deixar Mercedes e ir para Ferrari em 2025](https://www.nexojornal.com.br/extra/2024/02/01/lewis-hamilton-troca-mercedes-por-ferrari-formula-1)
 - [Os rumos da gestão de Lewandowski no Ministério da Justiça](https://www.nexojornal.com.br/podcast/2024/02/01/o-que-lewandowski-vai-fazer-no-ministerio-da-justica)
 - [Toffoli suspende pagamento de multas da Odebrecht](https://www.nexojornal.com.br/extra/2024/02/01/odebrecht-toffoli-multas-supremo-lava-jato)
 - [Quais os benefícios de escrever à mão, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/02/01/quais-os-beneficios-de-escrever-a-mao)
-- [‘O Carnaval deixou de ser uma política de cultura em São Paulo’](https://www.nexojornal.com.br/entrevista/2024/02/01/o-carnaval-deixou-de-ser-uma-politica-de-cultura-em-sao-paulo)
-- [União Europeia aprova pacote de € 50 bilhões para Ucrânia](https://www.nexojornal.com.br/extra/2024/02/01/uniao-europeia-pacote-ajuda-ucrania-guerra-russia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
