@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As áreas ocupadas e as áreas vazias no Brasil em 2022](https://www.nexojornal.com.br/grafico/2024/02/02/areas-ocupadas-ibge-censo-2022-domicilios)
 - [Qual é a agenda do governo Lula no Congresso em 2024](https://www.nexojornal.com.br/expresso/2024/02/01/qual-e-a-agenda-governo-lula-no-congresso-2024)
 - [Por que o mundo entrou em um período de queda da inflação](https://www.nexojornal.com.br/expresso/2024/02/01/por-que-o-mundo-entrou-em-um-periodo-de-queda-da-inflacao)
 - [Como a desinformação acelera o Relógio do Juízo Final](https://www.nexojornal.com.br/colunistas/2024/02/01/como-a-desinformacao-acelera-o-relogio-do-juizo-final)
 - [Juiz nega liminar para obrigar Hospital São Camilo a inserir DIU](https://www.nexojornal.com.br/extra/2024/02/01/hospital-sao-camilo-diu-juiz-nega-liminar)
-- [Por que o Acre tem índices de feminicídio tão altos](https://www.nexojornal.com.br/academico/2024/02/01/por-que-o-acre-tem-indices-de-feminicidio-tao-altos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
