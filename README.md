@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é a agenda do governo Lula no Congresso em 2024](https://www.nexojornal.com.br/expresso/2024/02/01/qual-e-a-agenda-governo-lula-no-congresso-2024)
+- [Por que o mundo entrou em um período de queda da inflação](https://www.nexojornal.com.br/expresso/2024/02/01/por-que-o-mundo-entrou-em-um-periodo-de-queda-da-inflacao)
 - [Como a desinformação acelera o Relógio do Juízo Final](https://www.nexojornal.com.br/colunistas/2024/02/01/como-a-desinformacao-acelera-o-relogio-do-juizo-final)
 - [Juiz nega liminar para obrigar Hospital São Camilo a inserir DIU](https://www.nexojornal.com.br/extra/2024/02/01/hospital-sao-camilo-diu-juiz-nega-liminar)
 - [Por que o Acre tem índices de feminicídio tão altos](https://www.nexojornal.com.br/academico/2024/02/01/por-que-o-acre-tem-indices-de-feminicidio-tao-altos)
-- [Lewis Hamilton vai deixar Mercedes e ir para Ferrari em 2025](https://www.nexojornal.com.br/extra/2024/02/01/lewis-hamilton-troca-mercedes-por-ferrari-formula-1)
-- [Os rumos da gestão de Lewandowski no Ministério da Justiça](https://www.nexojornal.com.br/podcast/2024/02/01/o-que-lewandowski-vai-fazer-no-ministerio-da-justica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
