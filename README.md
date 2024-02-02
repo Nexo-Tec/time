@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Guia da Grávida Bem Informada](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-guia-da-gravida-bem-informada/)
 - [A primeira fase do novelão “Renascer” em maratona](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-primeira-fase-do-novelao-renascer-em-maratona/)
 - [Paramore e o álbum tributo a “Stop Making Sense”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/paramore-e-o-album-tributo-a-stop-making-sense/)
 - [A temporada final de “Curb Your Enthusiasm”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-temporada-final-de-curb-your-enthusiasm/)
 - [Uma reportagem da revista Piauí sobre plantas com raízes na escravidão](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-reportagem-da-revista-piaui-sobre-plantas-com-raizes-na-escravidao/)
-- [“Enquanto Você Voava, Eu Criava Raízes” em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/enquanto-voce-voava-eu-criava-raizes-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
