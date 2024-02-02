@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Carlos Bolsonaro na mira da PF. O emprego em alta. E mais](https://www.nexojornal.com.br/video/2024/02/02/resumo-semana-carlos-bolsonaro-emprego-em-alta-e-mais)
 - [MEC admite erro em divulgação de resultados do Sisu](https://www.nexojornal.com.br/extra/2024/02/02/erro-do-ministerio-da-educacao-lista-de-resultados-do-sisu)
 - [Grupo aciona Supremo contra medida antiaborto de Goiás](https://www.nexojornal.com.br/extra/2024/02/02/acao-stf-lei-batimentos-feto-goias)
 - [O livro de moda do século 16 que cataloga roupas de vários países](https://www.nexojornal.com.br/expresso/2024/02/02/livro-de-moda-do-seculo-16)
 - [A política por trás da invasão a uma terra indígena em Rondônia](https://www.nexojornal.com.br/externo/2024/02/02/invasao-terra-indigena-uru-eu-wau-wau-rondonia)
-- [As áreas ocupadas e as áreas vazias no Brasil em 2022](https://www.nexojornal.com.br/grafico/2024/02/02/areas-ocupadas-ibge-censo-2022-domicilios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
