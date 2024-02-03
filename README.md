@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maré vermelha pode ter intoxicado mais de 500 em dois estados](https://www.nexojornal.com.br/extra/2024/02/02/casos-suspeitos-de-mare-vermelha-em-pernambuco-e-alagoas)
-- [Carlos Bolsonaro na mira da PF. O emprego em alta. E mais](https://www.nexojornal.com.br/video/2024/02/02/resumo-semana-carlos-bolsonaro-emprego-em-alta-e-mais)
-- [MEC admite erro em divulgação de resultados do Sisu](https://www.nexojornal.com.br/extra/2024/02/02/erro-do-ministerio-da-educacao-lista-de-resultados-do-sisu)
-- [Grupo aciona Supremo contra medida antiaborto de Goiás](https://www.nexojornal.com.br/extra/2024/02/02/acao-stf-lei-batimentos-feto-goias)
-- [O livro de moda do século 16 que cataloga roupas de vários países](https://www.nexojornal.com.br/expresso/2024/02/02/livro-de-moda-do-seculo-16)
+- [Como vai funcionar a 1ª edição do Prêmio Jabuti Acadêmico](https://www.nexojornal.com.br/expresso/2024/02/02/como-vai-funcionar-a-1a-edicao-do-premio-jabuti-academico)
+- [‘Índice, uma história do’: o aperfeiçoamento da indexação](https://www.nexojornal.com.br/estante-trechos/2024/02/02/indice-uma-historia-do-o-aperfeicoamento-da-indexacao)
+- [A falta de planos sobre o futuro energético do Brasil](https://www.nexojornal.com.br/externo/2024/02/02/a-falta-de-planos-sobre-o-futuro-energetico-do-brasil)
+- [Câmara argentina aprova versão geral da ‘lei ônibus’ de Milei](https://www.nexojornal.com.br/extra/2024/02/02/camara-argentina-aprova-versao-geral-da-lei-onibus-de-milei)
+- [O que está em jogo na reeleição de Bukele em El Salvador](https://www.nexojornal.com.br/expresso/2024/02/02/quais-os-riscos-da-reeleicao-de-bukele-em-el-salvador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
