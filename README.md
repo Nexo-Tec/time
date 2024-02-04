@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Qual a situação da Meta 20 anos após a criação do Facebook](https://www.nexojornal.com.br/expresso/2024/02/03/qual-a-situacao-da-meta-20-anos-apos-a-criacao-do-facebook)
-- [‘Afrodescendente assim gosta de batuque’, diz Lula a jovem negra](https://www.nexojornal.com.br/extra/2024/02/03/afrodescendente-gosta-de-batuque-diz-lula)
-- [Como vai funcionar a 1ª edição do Prêmio Jabuti Acadêmico](https://www.nexojornal.com.br/expresso/2024/02/02/como-vai-funcionar-a-1a-edicao-do-premio-jabuti-academico)
-- [‘Índice, uma história do’: o aperfeiçoamento da indexação](https://www.nexojornal.com.br/estante-trechos/2024/02/02/indice-uma-historia-do-o-aperfeicoamento-da-indexacao)
-- [A falta de planos sobre o futuro energético do Brasil](https://www.nexojornal.com.br/externo/2024/02/02/a-falta-de-planos-sobre-o-futuro-energetico-do-brasil)
+- [Desfralde em casa ou desfralde coletivo na escola?](https://www.nexojornal.com.br/externo/2024/02/03/desfralde-em-casa-ou-desfralde-coletivo-na-escola)
+- [5 livros com textos complementares que valem a leitura](https://www.nexojornal.com.br/estante-favoritos/2024/02/03/5-livros-com-prefacio-e-posfacio-que-valem-a-leitura)
+- [25 anos da Lei de Crimes Ambientais: o que pode melhorar?](https://www.nexojornal.com.br/ensaio/2024/02/03/25-anos-da-lei-de-crimes-ambientais-o-que-pode-melhorar)
+- [O grupo do TSE que pretende monitorar ameaças golpistas](https://www.nexojornal.com.br/expresso/2024/02/03/grupo-tse-contra-ameacas-golpistas)
+- [Por que montadoras estão colocando mais dinheiro no Brasil](https://www.nexojornal.com.br/expresso/2024/02/03/investimentos-montadoras-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
