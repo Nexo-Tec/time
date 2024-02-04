@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mauricio Stycer: “Puxar assunto sobre novela sempre dá certo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mauricio-stycer-novelas-brasileiras-mercado-entretenimento-gilberto-braga/)
 - [Já sabe que vinho vai pedir?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sabe-que-vinho-vai-pedir/)
 - [O Guia da Grávida Bem Informada](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-guia-da-gravida-bem-informada/)
 - [A primeira fase do novelão “Renascer” em maratona](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-primeira-fase-do-novelao-renascer-em-maratona/)
 - [Paramore e o álbum tributo a “Stop Making Sense”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/paramore-e-o-album-tributo-a-stop-making-sense/)
-- [A temporada final de “Curb Your Enthusiasm”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-temporada-final-de-curb-your-enthusiasm/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
