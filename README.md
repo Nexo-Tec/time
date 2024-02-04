@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Ataques israelenses matam 127 pessoas no sul da Faixa de Gaza](https://www.nexojornal.com.br/extra/2024/02/04/ataques-israel-rafah-sul-de-gaza)
-- [Incêndios florestais matam mais de 60 no Chile](https://www.nexojornal.com.br/extra/2024/02/04/incendios-florestais-chile-valparaiso-vina-del-mar)
+- [Incêndios florestais deixam 99 mortos no Chile](https://www.nexojornal.com.br/extra/2024/02/04/incendios-florestais-chile-valparaiso-vina-del-mar)
 - [Desfralde em casa ou desfralde coletivo na escola?](https://www.nexojornal.com.br/externo/2024/02/03/desfralde-em-casa-ou-desfralde-coletivo-na-escola)
 - [5 livros com textos complementares que valem a leitura](https://www.nexojornal.com.br/estante-favoritos/2024/02/03/5-livros-com-prefacio-e-posfacio-que-valem-a-leitura)
 - [25 anos da Lei de Crimes Ambientais: o que pode melhorar?](https://www.nexojornal.com.br/ensaio/2024/02/03/25-anos-da-lei-de-crimes-ambientais-o-que-pode-melhorar)
