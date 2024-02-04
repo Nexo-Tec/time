@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Afrodescendente assim gosta de batuque’, diz Lula a jovem negra](https://www.nexojornal.com.br/extra/2024/02/03/afrodescendente-gosta-de-batuque-diz-lula)
 - [Como vai funcionar a 1ª edição do Prêmio Jabuti Acadêmico](https://www.nexojornal.com.br/expresso/2024/02/02/como-vai-funcionar-a-1a-edicao-do-premio-jabuti-academico)
 - [‘Índice, uma história do’: o aperfeiçoamento da indexação](https://www.nexojornal.com.br/estante-trechos/2024/02/02/indice-uma-historia-do-o-aperfeicoamento-da-indexacao)
 - [A falta de planos sobre o futuro energético do Brasil](https://www.nexojornal.com.br/externo/2024/02/02/a-falta-de-planos-sobre-o-futuro-energetico-do-brasil)
 - [Câmara argentina aprova versão geral da ‘lei ônibus’ de Milei](https://www.nexojornal.com.br/extra/2024/02/02/camara-argentina-aprova-versao-geral-da-lei-onibus-de-milei)
-- [O que está em jogo na reeleição de Bukele em El Salvador](https://www.nexojornal.com.br/expresso/2024/02/02/quais-os-riscos-da-reeleicao-de-bukele-em-el-salvador)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
