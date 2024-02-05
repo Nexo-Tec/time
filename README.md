@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os vetos a celulares e redes sociais nas escolas](https://www.nexojornal.com.br/podcast/2024/02/05/veto-celular-internet-redes-sociais-na-escola)
 - [Coroa britânica afirma que rei Charles 3º está com câncer](https://www.nexojornal.com.br/extra/2024/02/05/reino-unido-diz-que-rei-charles-tem-cancer)
 - [Toffoli manda investigar parceria de ONG com procuradores](https://www.nexojornal.com.br/extra/2024/02/05/toffoli-manda-investigar-transparencia-internacional)
 - [Taylor Swift se torna a primeira tetracampeã do Grammy](https://www.nexojornal.com.br/extra/2024/02/05/taylor-swift-grammy-primeira-tetracampea)
 - [Inteligência artificial pode melhorar a previsão do tempo](https://www.nexojornal.com.br/externo/2024/02/04/inteligencia-artificial-pode-melhorar-a-previsao-do-tempo)
-- [Por que o combate ao bullying se tornou urgente no Brasil](https://www.nexojornal.com.br/ensaio/2024/02/04/por-que-o-combate-ao-bullying-se-tornou-urgente-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
