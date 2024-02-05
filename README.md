@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Toffoli manda investigar parceria de ONG com procuradores](https://www.nexojornal.com.br/extra/2024/02/05/toffoli-manda-investigar-transparencia-internacional)
 - [Taylor Swift se torna a primeira tetracampeã do Grammy](https://www.nexojornal.com.br/extra/2024/02/05/taylor-swift-grammy-primeira-tetracampea)
 - [Inteligência artificial pode melhorar a previsão do tempo](https://www.nexojornal.com.br/externo/2024/02/04/inteligencia-artificial-pode-melhorar-a-previsao-do-tempo)
 - [Por que o combate ao bullying se tornou urgente no Brasil](https://www.nexojornal.com.br/ensaio/2024/02/04/por-que-o-combate-ao-bullying-se-tornou-urgente-no-brasil)
 - [O novo plano de túnel entre Santos e Guarujá. Agora vai?](https://www.nexojornal.com.br/expresso/2024/02/04/o-novo-plano-de-tunel-entre-santos-e-guaruja-agora-vai)
-- [Como a vacina do Butantan pode ajudar a combater a dengue](https://www.nexojornal.com.br/expresso/2024/02/04/como-a-vacina-do-butantan-pode-ajudar-a-combater-a-dengue)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
