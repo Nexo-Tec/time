@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As lives de Bolsonaro e Lula. E o impacto delas para o debate público](https://www.nexojornal.com.br/expresso/2024/02/06/as-lives-de-bolsonaro-e-lula-e-o-impacto-delas-para-o-debate-publico)
 - [Como senegaleses reagem à tentativa de autocratização](https://www.nexojornal.com.br/expresso/2024/02/05/como-senegaleses-reagem-a-tentativa-de-autocratizacao)
 - [Confira as principais datas do calendário das eleições de 2024](https://www.nexojornal.com.br/grafico/2024/02/05/calendario-das-eleicoes-de-2024)
 - [O que é o Perse, programa que Haddad quer encerrar](https://www.nexojornal.com.br/expresso/2024/02/05/o-que-e-o-perse-programa-que-haddad-quer-encerrar)
 - [Lira expõe disputa com Planalto em abertura do ano legislativo](https://www.nexojornal.com.br/extra/2024/02/05/arthur-lira-em-disputa-com-lula-na-camara-em-2024)
-- [Por que pesquisadores acham que a internet foi ‘esmerdalhada’](https://www.nexojornal.com.br/expresso/2024/02/05/por-que-pesquisadores-acham-que-a-internet-foi-esmerdalhada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
