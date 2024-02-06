@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@beyonce](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/beyonce/)
 - [O maior cruzeiro do mundo](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/o-maior-cruzeiro-do-mundo/)
 - [Mauricio Stycer: “Puxar assunto sobre novela sempre dá certo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mauricio-stycer-novelas-brasileiras-mercado-entretenimento-gilberto-braga/)
 - [Já sabe que vinho vai pedir?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sabe-que-vinho-vai-pedir/)
 - [O Guia da Grávida Bem Informada](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-guia-da-gravida-bem-informada/)
-- [A primeira fase do novelão “Renascer” em maratona](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-primeira-fase-do-novelao-renascer-em-maratona/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
