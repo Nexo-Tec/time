@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os pontos de atrito entre Congresso e governo](https://www.nexojornal.com.br/podcast/2024/02/06/pontos-atrito-entre-congresso-e-governo)
 - [O livro que se propõe a explicar a ciência da felicidade](https://www.nexojornal.com.br/expresso/2024/02/06/o-livro-que-se-propoe-a-explicar-a-ciencia-da-felicidade)
 - [Sebastián Piñera, ex-presidente do Chile, morre em acidente](https://www.nexojornal.com.br/undefined/2024/02/06/sebastian-pinera-ex-presidente-do-chile-morre-em-acidente)
 - [Meta vai identificar conteúdo criado por inteligência artificial](https://www.nexojornal.com.br/extra/2024/02/06/meta-vai-identificar-conteudo-criado-por-inteligencia-artificial)
 - [Como o cachorro de ‘Anatomia de uma queda’ foi treinado](https://www.nexojornal.com.br/expresso/2024/02/06/cachorro-filme-anatomia-de-uma-queda)
-- [Denúncias de imagens de abuso sexual infantil batem recorde](https://www.nexojornal.com.br/extra/2024/02/06/denuncias-imagens-de-abuso-sexual-infantil-internet-recorde-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
