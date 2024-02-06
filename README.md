@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Qualificação docente é ponto crucial no debate sobre Educação Profissional e Tecnológica](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/qualificacao-docente-e-ponto-crucial-no-debate-sobre-educacao-profissional-e-tecnologica/)
 - [Violência contra a mulher](https://pp.nexojornal.com.br/glossario/2024/02/06/violencia-contra-a-mulher/)
 - [A diversidade urbana na Amazônia e agendas de sustentabilidade](https://pp.nexojornal.com.br/academico/2024/02/06/a-diversidade-urbana-na-amazonia-e-agendas-de-sustentabilidade/)
 - [Relatos da pandemia: a necessidade de pensar medidas voltadas às periferias em situações emergenciais](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/relatos-da-pandemia-a-necessidade-de-pensar-medidas-voltadas-as-periferias-em-situacoes-emergenciais/)
 - [A reforma da governança e a provisão de serviços públicos: resiliência institucional e sinergia entre Estado e sociedade civil](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/a-reforma-da-governanca-e-a-provisao-de-servicos-publicos-resiliencia-institucional-e-sinergia-entre-estado-e-sociedade-civil/)
-- [Por que a educação brasileira não inclui a todos com equidade?](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/05/por-que-a-educacao-brasileira-nao-inclui-a-todos-com-equidade/)
 <!-- PP_LIST:END -->
 
