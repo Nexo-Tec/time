@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Relatos da pandemia: a necessidade de pensar medidas voltadas às periferias em situações emergenciais](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/relatos-da-pandemia-a-necessidade-de-pensar-medidas-voltadas-as-periferias-em-situacoes-emergenciais/)
+- [A reforma da governança e a provisão de serviços públicos: resiliência institucional e sinergia entre Estado e sociedade civil](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/a-reforma-da-governanca-e-a-provisao-de-servicos-publicos-resiliencia-institucional-e-sinergia-entre-estado-e-sociedade-civil/)
 - [Por que a educação brasileira não inclui a todos com equidade?](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/05/por-que-a-educacao-brasileira-nao-inclui-a-todos-com-equidade/)
 - [Os impactos de não estudar e não exercer atividade remunerada na juventude brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2024/01/09/os-impactos-de-nao-estudar-e-nao-exercer-atividade-remunerada-na-juventude-brasileira/)
 - [Quais são as contribuições de Claudia Goldin para a ciência econômica](https://pp.nexojornal.com.br/academico/2024/01/09/quais-sao-as-contribuicoes-de-claudia-goldin-para-a-ciencia-economica/)
-- [Escassez de dados na segurança pública: particularidades do caso brasileiro](https://pp.nexojornal.com.br/opiniao/2024/01/09/escassez-de-dados-na-seguranca-publica-particularidades-do-caso-brasileiro/)
-- [Inclusão, acesso e permanência de estudantes indígenas na Universidade do Estado do Amazonas](https://pp.nexojornal.com.br/academico/2024/01/09/inclusao-acesso-e-permanencia-de-estudantes-indigenas-na-universidade-do-estado-do-amazonas/)
 <!-- PP_LIST:END -->
 
