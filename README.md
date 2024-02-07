@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Violência na Baixada Santista já deixou 10 mortos em 2024](https://www.nexojornal.com.br/extra/2024/02/07/pms-mortos-na-baixada-santista)
 - [Sonhos antirracistas de um Carnaval em Salvador](https://www.nexojornal.com.br/colunistas/2024/02/07/sonhos-antirracistas-de-um-carnaval-em-salvador)
 - [As decisões de Toffoli sobre Odebrecht e J&amp;F sob análise](https://www.nexojornal.com.br/expresso/2024/02/06/as-decisoes-de-toffoli-sobre-odebrecht-e-jf-sob-analise)
 - [Quais os efeitos do clima amistoso entre Tarcísio e Lula](https://www.nexojornal.com.br/expresso/2024/02/06/quais-os-efeitos-do-clima-amistoso-entre-tarcisio-e-lula)
 - [Quem foi Sebastián Piñera, milionário e ex-presidente do Chile](https://www.nexojornal.com.br/expresso/2024/02/06/quem-foi-sebastian-pinera-milionario-e-ex-presidente-do-chile)
-- [Ação pede R$ 940 milhões da Prevent Senior por kit covid](https://www.nexojornal.com.br/extra/2024/02/06/acao-pede-r-940-milhoes-da-prevent-senior-por-kit-covid)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
