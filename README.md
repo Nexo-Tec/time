@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pedro Neschling](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedro-neschling/)
+- [Eu sei que te machuca, mas preciso te dizer](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/eu-sei-que-te-machuca-mas-preciso-te-dizer/)
 - [A invasão de crianças e adolescentes no consumo de beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-invasao-de-criancas-e-adolescentes-no-consumo-de-beleza/)
 - [@beyonce](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/beyonce/)
 - [O maior cruzeiro do mundo](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/o-maior-cruzeiro-do-mundo/)
-- [Mauricio Stycer: “Puxar assunto sobre novela sempre dá certo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/mauricio-stycer-novelas-brasileiras-mercado-entretenimento-gilberto-braga/)
-- [Já sabe que vinho vai pedir?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/ja-sabe-que-vinho-vai-pedir/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
