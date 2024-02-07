@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rio de Janeiro confirma 1ª morte por dengue em 2024](https://www.nexojornal.com.br/extra/2024/02/07/dengue-rio-primeira-morte-2024)
 - [CGU manda Unifesp demitir ex-ministro da Educação](https://www.nexojornal.com.br/extra/2024/02/07/weintraub-demitido-da-unifesp-por-faltar-demais)
 - [Por qual razão os insetos são atraídos pela luz à noite](https://www.nexojornal.com.br/externo/2024/02/07/por-que-insetos-sao-atraidos-pela-luz-noite)
 - [Violência na Baixada Santista já deixou 10 mortos em 2024](https://www.nexojornal.com.br/extra/2024/02/07/pms-mortos-na-baixada-santista)
 - [Sonhos antirracistas de um Carnaval em Salvador](https://www.nexojornal.com.br/colunistas/2024/02/07/sonhos-antirracistas-de-um-carnaval-em-salvador)
-- [As decisões de Toffoli sobre Odebrecht e J&amp;F sob análise](https://www.nexojornal.com.br/expresso/2024/02/06/as-decisoes-de-toffoli-sobre-odebrecht-e-jf-sob-analise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
