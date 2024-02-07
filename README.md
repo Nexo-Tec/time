@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As decisões de Toffoli sobre Odebrecht e J&amp;F sob análise](https://www.nexojornal.com.br/expresso/2024/02/06/as-decisoes-de-toffoli-sobre-odebrecht-e-jf-sob-analise)
 - [Quais os efeitos do clima amistoso entre Tarcísio e Lula](https://www.nexojornal.com.br/expresso/2024/02/06/quais-os-efeitos-do-clima-amistoso-entre-tarcisio-e-lula)
 - [Quem foi Sebastián Piñera, milionário e ex-presidente do Chile](https://www.nexojornal.com.br/expresso/2024/02/06/quem-foi-sebastian-pinera-milionario-e-ex-presidente-do-chile)
 - [Ação pede R$ 940 milhões da Prevent Senior por kit covid](https://www.nexojornal.com.br/extra/2024/02/06/acao-pede-r-940-milhoes-da-prevent-senior-por-kit-covid)
 - [Os pontos de atrito entre Congresso e governo](https://www.nexojornal.com.br/podcast/2024/02/06/pontos-atrito-entre-congresso-e-governo)
-- [O livro que se propõe a explicar a ciência da felicidade](https://www.nexojornal.com.br/expresso/2024/02/06/o-livro-que-se-propoe-a-explicar-a-ciencia-da-felicidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
