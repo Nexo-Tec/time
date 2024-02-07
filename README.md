@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Quais são os hábitos culturais dos brasileiros em 2023](https://pp.nexojornal.com.br/dados/2024/02/07/habitos-culturais-brasileiros-2023/)
+- [Fernando Limongi: o impeachment em 2016 e suas consequências para as instituições e a democracia brasileira](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/02/07/fernando-limongi-o-impeachment-em-2016-e-suas-consequencias-para-as-instituicoes-e-a-democracia-brasileira/)
 - [Qualificação docente é ponto crucial no debate sobre Educação Profissional e Tecnológica](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/qualificacao-docente-e-ponto-crucial-no-debate-sobre-educacao-profissional-e-tecnologica/)
 - [Violência contra a mulher](https://pp.nexojornal.com.br/glossario/2024/02/06/violencia-contra-a-mulher/)
 - [A diversidade urbana na Amazônia e agendas de sustentabilidade](https://pp.nexojornal.com.br/academico/2024/02/06/a-diversidade-urbana-na-amazonia-e-agendas-de-sustentabilidade/)
-- [Relatos da pandemia: a necessidade de pensar medidas voltadas às periferias em situações emergenciais](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/relatos-da-pandemia-a-necessidade-de-pensar-medidas-voltadas-as-periferias-em-situacoes-emergenciais/)
-- [A reforma da governança e a provisão de serviços públicos: resiliência institucional e sinergia entre Estado e sociedade civil](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/a-reforma-da-governanca-e-a-provisao-de-servicos-publicos-resiliencia-institucional-e-sinergia-entre-estado-e-sociedade-civil/)
 <!-- PP_LIST:END -->
 
