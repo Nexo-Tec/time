@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O uso das tecnologias de vigilância nas Olimpíadas de Paris](https://www.nexojornal.com.br/academico/2024/02/07/o-uso-das-tecnologias-de-vigilancia-nas-olimpiadas-de-paris)
+- [Qual é a diferença da política externa de Biden e Trump](https://www.nexojornal.com.br/expresso/2024/02/07/diferenca-politica-externa-trump-biden)
+- [Quem ganha com o aumento da isenção do Imposto de Renda](https://www.nexojornal.com.br/expresso/2024/02/07/imposto-de-renda-2-salarios-minimos-isencao)
+- [‘Nenhuma mulher quer namorar ajudante geral’, diz Lula](https://www.nexojornal.com.br/extra/2024/02/07/lula-ajudante-geral-mulher-namorar)
 - [Qual a perspectiva de trégua no conflito entre Hamas e Israel](https://www.nexojornal.com.br/podcast/2024/02/07/guerra-israel-e-hamas-perspectiva-de-tregua)
-- [Rio de Janeiro confirma 1ª morte por dengue em 2024](https://www.nexojornal.com.br/extra/2024/02/07/dengue-rio-primeira-morte-2024)
-- [CGU manda Unifesp demitir ex-ministro da Educação](https://www.nexojornal.com.br/extra/2024/02/07/weintraub-demitido-da-unifesp-por-faltar-demais)
-- [Por qual razão os insetos são atraídos pela luz à noite](https://www.nexojornal.com.br/externo/2024/02/07/por-que-insetos-sao-atraidos-pela-luz-noite)
-- [Violência na Baixada Santista já deixou 10 mortos em 2024](https://www.nexojornal.com.br/extra/2024/02/07/pms-mortos-na-baixada-santista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
