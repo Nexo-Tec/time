@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Valdemar Costa Neto é preso em flagrante por porte ilegal de arma](https://www.nexojornal.com.br/extra/2024/02/08/valdemar-costa-neto-e-preso-em-flagrante-por-porte-ilegal-de-arma)
 - [PF faz operação contra Bolsonaro por tentativa de golpe](https://www.nexojornal.com.br/extra/2024/02/08/operacao-pf-bolsonaro-ministros-militares-golpe)
 - [O uso das tecnologias de vigilância nas Olimpíadas de Paris](https://www.nexojornal.com.br/academico/2024/02/07/o-uso-das-tecnologias-de-vigilancia-nas-olimpiadas-de-paris)
 - [Qual é a diferença da política externa de Biden e Trump](https://www.nexojornal.com.br/expresso/2024/02/07/diferenca-politica-externa-trump-biden)
 - [Quem ganha com o aumento da isenção do Imposto de Renda](https://www.nexojornal.com.br/expresso/2024/02/07/imposto-de-renda-2-salarios-minimos-isencao)
-- [‘Nenhuma mulher quer namorar ajudante geral’, diz Lula](https://www.nexojornal.com.br/extra/2024/02/07/lula-ajudante-geral-mulher-namorar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
