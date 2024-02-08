@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Policial mata homem que participava de protesto na Maré](https://www.nexojornal.com.br/extra/2024/02/08/policia-mata-homem-a-queima-roupa-no-rio-de-janeiro)
 - [O que você sabe sobre os sambas-enredo do Carnaval de 2024?](https://www.nexojornal.com.br/interativo/2024/02/08/teste-samba-enredo-carnaval-2024)
 - [Valdemar Costa Neto é preso em flagrante por porte ilegal de arma](https://www.nexojornal.com.br/extra/2024/02/08/valdemar-costa-neto-e-preso-em-flagrante-por-porte-ilegal-de-arma)
 - [PF faz operação contra Bolsonaro por tentativa de golpe](https://www.nexojornal.com.br/extra/2024/02/08/operacao-pf-bolsonaro-ministros-militares-golpe)
 - [O uso das tecnologias de vigilância nas Olimpíadas de Paris](https://www.nexojornal.com.br/academico/2024/02/07/o-uso-das-tecnologias-de-vigilancia-nas-olimpiadas-de-paris)
-- [Qual é a diferença da política externa de Biden e Trump](https://www.nexojornal.com.br/expresso/2024/02/07/diferenca-politica-externa-trump-biden)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
