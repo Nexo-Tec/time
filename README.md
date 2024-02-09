@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Não se nasce “musa” do Carnaval, compra-se a vaga na passarela](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-se-nasce-musa-do-carnaval-compra-se-a-vaga-na-passarela/)
 - [Você Lembrará Seus Nomes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/voce-lembrara-seus-nomes/)
 - [O acidente que chocou o mundo em “Sociedade da Neve”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-acidente-que-chocou-o-mundo-em-sociedade-da-neve/)
 - [O retrato de um personagem incomum em “Sr. Loverman”](https://gamarevista.uol.com.br/sem-categoria/o-retrato-de-um-personagem-incomum-em-sr-loverman/)
 - [Cineastas indicados ao Oscar no streaming](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cineastas-indicados-ao-oscar-no-streaming/)
-- [“Garrafas ao Mar”, da Rádio Novelo Apresenta](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/garrafas-ao-mar-da-radio-novelo-apresenta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
