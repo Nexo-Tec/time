@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a CPI contra o padre Julio Lancellotti ecoa nas eleições de SP](https://www.nexojornal.com.br/expresso/2024/02/09/eleicoes-sp-cpi-padre-julio-lancellotti)
+- [Alertas de desmatamento caem no Cerrado em janeiro](https://www.nexojornal.com.br/extra/2024/02/09/desmatamento-cerrado-alertas-caem-janeiro-2024)
 - [Quem são os nomes cotados para suceder Lira na Câmara](https://www.nexojornal.com.br/expresso/2024/02/08/quem-vai-substituir-arthur-lira-presidente-da-camara)
 - [2024 pode se tornar o ano com maior número de casos de dengue](https://www.nexojornal.com.br/externo/2024/02/08/2024-pode-se-tornar-o-ano-com-maior-numero-de-casos-de-dengue)
 - [Qual o peso histórico da operação contra Bolsonaro e militares](https://www.nexojornal.com.br/expresso/2024/02/08/o-peso-da-operacao-da-pf-contra-bolsonaro-e-militares)
-- [Medalhas olímpicas de Paris terão fragmento da Torre Eiffel](https://www.nexojornal.com.br/extra/2024/02/08/medalhas-olimpicas-de-paris-terao-fragmento-da-torre-eiffel)
-- [Carnaval da bunda de fora: #NãoéNão pra quem?](https://www.nexojornal.com.br/colunistas/2024/02/08/carnaval-da-bunda-de-fora-naoenao-pra-quem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
