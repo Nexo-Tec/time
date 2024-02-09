@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Você Lembrará Seus Nomes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/voce-lembrara-seus-nomes/)
 - [O acidente que chocou o mundo em “Sociedade da Neve”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-acidente-que-chocou-o-mundo-em-sociedade-da-neve/)
 - [O retrato de um personagem incomum em “Sr. Loverman”](https://gamarevista.uol.com.br/sem-categoria/o-retrato-de-um-personagem-incomum-em-sr-loverman/)
 - [Cineastas indicados ao Oscar no streaming](https://gamarevista.uol.com.br/achamos-que-vale/assistir/cineastas-indicados-ao-oscar-no-streaming/)
 - [“Garrafas ao Mar”, da Rádio Novelo Apresenta](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/garrafas-ao-mar-da-radio-novelo-apresenta/)
-- [A segunda temporada de “Machos Alfa”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-machos-alfa-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
