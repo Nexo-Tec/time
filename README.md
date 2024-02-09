@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os núcleos do grupo que tentou dar um golpe, segundo a PF](https://www.nexojornal.com.br/expresso/2024/02/08/aliados-de-bolsonaro-que-tentaram-golpe-de-estado)
 - [A chegada da PF aos suspeitos de comandar a trama golpista](https://www.nexojornal.com.br/podcast/2024/02/08/operacao-bolsonaro-militares-golpe)
 - [TSE multa Bolsonaro por propaganda que associa Lula ao PCC](https://www.nexojornal.com.br/extra/2024/02/08/tse-multa-bolsonaro-propaganda-lula-pcc)
 - [Policial mata homem que participava de protesto na Maré](https://www.nexojornal.com.br/extra/2024/02/08/policia-mata-homem-a-queima-roupa-no-rio-de-janeiro)
 - [O que você sabe sobre os sambas-enredo do Carnaval de 2024?](https://www.nexojornal.com.br/interativo/2024/02/08/teste-samba-enredo-carnaval-2024)
-- [Valdemar Costa Neto é preso em flagrante por porte ilegal de arma](https://www.nexojornal.com.br/extra/2024/02/08/valdemar-costa-neto-e-preso-em-flagrante-por-porte-ilegal-de-arma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
