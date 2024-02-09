@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gil ganha título de doutor honoris causa pela UFRJ](https://www.nexojornal.com.br/extra/2024/02/09/gil-doutor-honoris-causa-pela-ufrj)
 - [O guia visual do Nexo para a cobertura do Censo 2022](https://www.nexojornal.com.br/grafico/2024/02/09/censo-2022-guia-visual-grafico-nexo)
 - [O que fazer para aproveitar o Carnaval com segurança](https://www.nexojornal.com.br/servico/2024/02/09/carnaval-com-seguranca-dicas)
 - [Como a CPI contra o padre Julio Lancellotti ecoa nas eleições de SP](https://www.nexojornal.com.br/expresso/2024/02/09/eleicoes-sp-cpi-padre-julio-lancellotti)
 - [Alertas de desmatamento caem no Cerrado em janeiro](https://www.nexojornal.com.br/extra/2024/02/09/desmatamento-cerrado-alertas-caem-janeiro-2024)
-- [Quem são os nomes cotados para suceder Lira na Câmara](https://www.nexojornal.com.br/expresso/2024/02/08/quem-vai-substituir-arthur-lira-presidente-da-camara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
