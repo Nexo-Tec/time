@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que fazer para aproveitar o Carnaval com segurança](https://www.nexojornal.com.br/servico/2024/02/09/carnaval-com-seguranca-dicas)
 - [Como a CPI contra o padre Julio Lancellotti ecoa nas eleições de SP](https://www.nexojornal.com.br/expresso/2024/02/09/eleicoes-sp-cpi-padre-julio-lancellotti)
 - [Alertas de desmatamento caem no Cerrado em janeiro](https://www.nexojornal.com.br/extra/2024/02/09/desmatamento-cerrado-alertas-caem-janeiro-2024)
 - [Quem são os nomes cotados para suceder Lira na Câmara](https://www.nexojornal.com.br/expresso/2024/02/08/quem-vai-substituir-arthur-lira-presidente-da-camara)
 - [2024 pode se tornar o ano com maior número de casos de dengue](https://www.nexojornal.com.br/externo/2024/02/08/2024-pode-se-tornar-o-ano-com-maior-numero-de-casos-de-dengue)
-- [Qual o peso histórico da operação contra Bolsonaro e militares](https://www.nexojornal.com.br/expresso/2024/02/08/o-peso-da-operacao-da-pf-contra-bolsonaro-e-militares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
