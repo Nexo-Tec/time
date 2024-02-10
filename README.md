@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Presidente da Hungria renuncia após indulto em caso de abuso](https://www.nexojornal.com.br/extra/2024/02/10/presidente-da-hungria-renuncia-indulto-caso-abuso)
-- [Perfil da Câmara no X é invadido e publica contra Lula e Moraes](https://www.nexojornal.com.br/extra/2024/02/10/camara-x-invadido-publica-contra-lula-moraes)
-- [Qual o impacto da Operação Veritatis no discurso bolsonarista](https://www.nexojornal.com.br/expresso/2024/02/09/qual-o-impacto-da-operacao-veritatis-no-discurso-bolsonarista)
-- [‘A vingança é minha’: um thriller sobre a memória](https://www.nexojornal.com.br/estante-trechos/2024/02/09/a-vinganca-e-minha-um-thriller-sobre-a-memoria)
-- [Como atuam as maiores máfias italianas no século 21](https://www.nexojornal.com.br/expresso/2024/02/09/quais-as-maiores-mafias-italianas-no-seculo-21)
+- [Como o Carnaval é comemorado em outros países](https://www.nexojornal.com.br/expresso/2024/02/10/carnaval-em-outros-paises)
+- [5 livros para refletir sobre meritocracia e cotas raciais no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/10/livros-5-refletir-sobre-meritocracia-cotas-raciais-brasil)
+- [O game da vez é promover a internet segura no Brasil](https://www.nexojornal.com.br/ensaio/2024/02/10/o-game-da-vez-e-promover-a-internet-segura-no-brasil)
+- [10 chaves para entender a operação sobre a trama do golpe](https://www.nexojornal.com.br/expresso/2024/02/10/alexandre-de-moraes-decisoes-contra-golpe-de-estado)
+- [É hora de declarar a meta de 1,5ºC do clima como perdida?](https://www.nexojornal.com.br/expresso/2024/02/10/meta-15oc-acordo-de-paris-perdida-aquecimento-global)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
