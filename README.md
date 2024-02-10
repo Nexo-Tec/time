@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Perfil da Câmara no X é invadido e publica contra Lula e Moraes](https://www.nexojornal.com.br/extra/2024/02/10/camara-x-invadido-publica-contra-lula-moraes)
 - [Qual o impacto da Operação Veritatis no discurso bolsonarista](https://www.nexojornal.com.br/expresso/2024/02/09/qual-o-impacto-da-operacao-veritatis-no-discurso-bolsonarista)
 - [‘A vingança é minha’: um thriller sobre a memória](https://www.nexojornal.com.br/estante-trechos/2024/02/09/a-vinganca-e-minha-um-thriller-sobre-a-memoria)
 - [Como atuam as maiores máfias italianas no século 21](https://www.nexojornal.com.br/expresso/2024/02/09/quais-as-maiores-mafias-italianas-no-seculo-21)
 - [Como são avaliados os desfiles de escolas de samba de SP e Rio](https://www.nexojornal.com.br/grafico/2024/02/09/desfile-de-escolas-de-samba-como-sao-avaliados)
-- [Netanyahu pede ao Exército plano para evacuar Rafah](https://www.nexojornal.com.br/extra/2024/02/09/netanyahu-pede-exercito-plano-evacuar-rafah)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
