@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘A vingança é minha’: um thriller sobre a memória](https://www.nexojornal.com.br/estante-trechos/2024/02/09/a-vinganca-e-minha-um-thriller-sobre-a-memoria)
+- [Como atual as maiores máfias italianas no século 21](https://www.nexojornal.com.br/expresso/2024/02/09/quais-as-maiores-mafias-italianas-no-seculo-21)
+- [Como são avaliados os desfiles de escolas de samba de SP e Rio](https://www.nexojornal.com.br/grafico/2024/02/09/desfile-de-escolas-de-samba-como-sao-avaliados)
+- [Netanyahu pede ao Exército plano para evacuar Rafah](https://www.nexojornal.com.br/extra/2024/02/09/netanyahu-pede-exercito-plano-evacuar-rafah)
 - [O alto escalão da trama do golpe. As multas da leniência. E mais](https://www.nexojornal.com.br/video/2024/02/09/o-alto-escalao-da-trama-do-golpe-as-multas-da-leniencia-e-mais)
-- [OAB pede liberação de contato entre defesa de bolsonaristas](https://www.nexojornal.com.br/extra/2024/02/09/oab-pede-liberacao-contato-defesa-bolsonaristas)
-- [Quem foi Paulo Marubo, líder indígena do Vale do Javari](https://www.nexojornal.com.br/externo/2024/02/09/quem-foi-paulo-marubo-lider-indigena-do-vale-do-javari)
-- [Gil ganha título de doutor honoris causa pela UFRJ](https://www.nexojornal.com.br/extra/2024/02/09/gil-doutor-honoris-causa-pela-ufrj)
-- [O guia visual do Nexo para a cobertura do Censo 2022](https://www.nexojornal.com.br/grafico/2024/02/09/censo-2022-guia-visual-grafico-nexo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
