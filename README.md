@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Após ataque massivo, Israel liberta 2 reféns em Rafah](https://www.nexojornal.com.br/extra/2024/02/12/israel-ataca-rafah-e-liberta-refens)
 - [O que o Brasil precisa fazer para enfrentar a dengue](https://www.nexojornal.com.br/expresso/2024/02/11/acoes-governo-politicas-publicas-brasil-dengue)
 - [O que muda se o Banco Central for autônomo financeiramente](https://www.nexojornal.com.br/expresso/2024/02/11/banco-central-autonomia-financeira)
 - [As questões sobre diversidade e inclusão nas escolas](https://www.nexojornal.com.br/ensaio/2024/02/11/as-questoes-sobre-diversidade-e-inclusao-nas-escolas)
 - [Alexander Stubb é eleito novo presidente da Finlândia](https://www.nexojornal.com.br/extra/2024/02/11/stubb-eleito-novo-presidente-da-finlandia)
-- [Militar investigado em plano golpista é preso ao chegar ao Brasil](https://www.nexojornal.com.br/extra/2024/02/11/militar-investigado-plano-golpista-preso-chegar-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
