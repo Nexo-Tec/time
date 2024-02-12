@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@miltoncunhaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/miltoncunhaoficial/)
 - [Teresa Cristina: “O Carnaval renova as minhas energias para o ano inteiro”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/teresa-cristina-carnaval-samba-mulheres-pagode-preta/)
 - [Não se nasce “musa” do Carnaval, compra-se a vaga na passarela](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-se-nasce-musa-do-carnaval-compra-se-a-vaga-na-passarela/)
 - [Você Lembrará Seus Nomes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/voce-lembrara-seus-nomes/)
 - [O acidente que chocou o mundo em “Sociedade da Neve”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-acidente-que-chocou-o-mundo-em-sociedade-da-neve/)
-- [O retrato de um personagem incomum em “Sr. Loverman”](https://gamarevista.uol.com.br/sem-categoria/o-retrato-de-um-personagem-incomum-em-sr-loverman/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
