@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o Brasil precisa fazer para enfrentar a dengue](https://www.nexojornal.com.br/expresso/2024/02/11/acoes-governo-politicas-publicas-brasil-dengue)
+- [O que muda se o Banco Central for autônomo financeiramente](https://www.nexojornal.com.br/expresso/2024/02/11/banco-central-autonomia-financeira)
+- [As questões sobre diversidade e inclusão nas escolas](https://www.nexojornal.com.br/ensaio/2024/02/11/as-questoes-sobre-diversidade-e-inclusao-nas-escolas)
+- [Alexander Stubb é eleito novo presidente da Finlândia](https://www.nexojornal.com.br/extra/2024/02/11/stubb-eleito-novo-presidente-da-finlandia)
 - [Militar investigado em plano golpista é preso ao chegar ao Brasil](https://www.nexojornal.com.br/extra/2024/02/11/militar-investigado-plano-golpista-preso-chegar-brasil)
-- [Como o Carnaval é comemorado em outros países](https://www.nexojornal.com.br/expresso/2024/02/10/carnaval-em-outros-paises)
-- [5 livros para refletir sobre meritocracia e cotas raciais no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/10/livros-5-refletir-sobre-meritocracia-cotas-raciais-brasil)
-- [O game da vez é promover a internet segura no Brasil](https://www.nexojornal.com.br/ensaio/2024/02/10/o-game-da-vez-e-promover-a-internet-segura-no-brasil)
-- [10 chaves para entender a operação sobre a trama do golpe](https://www.nexojornal.com.br/expresso/2024/02/10/alexandre-de-moraes-decisoes-contra-golpe-de-estado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
