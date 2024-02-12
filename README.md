@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ex-primeiro-ministro da Holanda e esposa fazem eutanásia dupla](https://www.nexojornal.com.br/extra/2024/02/12/casal-eutanasia-dupla-holanda)
+- [As máscaras assustadoras do Carnaval suíço](https://www.nexojornal.com.br/expresso/2024/02/12/as-mascaras-assustadoras-do-carnaval-suico)
 - [A visão estereotipada que as potências mundiais têm do Brasil](https://www.nexojornal.com.br/externo/2024/02/12/a-visao-estereotipada-que-as-potencias-mundiais-tem-do-brasil)
 - [Após ataque massivo, Israel liberta 2 reféns em Rafah](https://www.nexojornal.com.br/extra/2024/02/12/israel-ataca-rafah-e-liberta-refens)
 - [O que o Brasil precisa fazer para enfrentar a dengue](https://www.nexojornal.com.br/expresso/2024/02/11/acoes-governo-politicas-publicas-brasil-dengue)
-- [O que muda se o Banco Central for autônomo financeiramente](https://www.nexojornal.com.br/expresso/2024/02/11/banco-central-autonomia-financeira)
-- [As questões sobre diversidade e inclusão nas escolas](https://www.nexojornal.com.br/ensaio/2024/02/11/as-questoes-sobre-diversidade-e-inclusao-nas-escolas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
