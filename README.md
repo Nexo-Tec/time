@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Maceta o apocalipse: como a folia absorveu o climão Baby-Ivete](https://www.nexojornal.com.br/expresso/2024/02/12/macetando-ivete-baby-do-brasil-apocalipse)
 - [Sapucaí: comida em banheiro de camarote acaba em prisão](https://www.nexojornal.com.br/extra/2024/02/12/comida-guardada-camarote-banheiro-sapucai)
 - [Ex-primeiro-ministro da Holanda e esposa fazem eutanásia dupla](https://www.nexojornal.com.br/extra/2024/02/12/casal-eutanasia-dupla-holanda)
 - [As máscaras assustadoras do Carnaval suíço](https://www.nexojornal.com.br/expresso/2024/02/12/as-mascaras-assustadoras-do-carnaval-suico)
 - [A visão estereotipada que as potências mundiais têm do Brasil](https://www.nexojornal.com.br/externo/2024/02/12/a-visao-estereotipada-que-as-potencias-mundiais-tem-do-brasil)
-- [Após ataque massivo, Israel liberta 2 reféns em Rafah](https://www.nexojornal.com.br/extra/2024/02/12/israel-ataca-rafah-e-liberta-refens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
