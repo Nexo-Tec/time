@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Delegados divulgam nota de repúdio contra desfile da Vai-Vai](https://www.nexojornal.com.br/extra/2024/02/13/delegados-divulgam-nota-de-repudio-contra-desfile-da-vai-vai)
+- [Delegados divulgam nota de repúdio ao desfile da Vai-Vai](https://www.nexojornal.com.br/extra/2024/02/13/delegados-divulgam-nota-de-repudio-contra-desfile-da-vai-vai)
 - [Por que o agro deve perder espaço no PIB de 2024](https://www.nexojornal.com.br/expresso/2024/02/12/economia-agro-pib-2024)
 - [A tentativa de regular anúncios concorrentes do leite materno](https://www.nexojornal.com.br/expresso/2024/02/12/a-tentativa-de-regular-anuncios-concorrentes-do-leite-materno)
 - [‘Sua mãe tá presa’: a vida das crianças filhas de encarcerados](https://www.nexojornal.com.br/externo/2024/02/12/sua-mae-ta-presa-a-vida-das-criancas-filhas-de-encarcerados)
