@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Maceta o apocalipse: como a folia absorveu o climão Baby-Ivete](https://www.nexojornal.com.br/expresso/2024/02/12/macetando-ivete-baby-do-brasil-apocalipse)
-- [Sapucaí: comida em banheiro de camarote acaba em prisão](https://www.nexojornal.com.br/extra/2024/02/12/comida-guardada-camarote-banheiro-sapucai)
-- [Ex-primeiro-ministro da Holanda e esposa fazem eutanásia dupla](https://www.nexojornal.com.br/extra/2024/02/12/casal-eutanasia-dupla-holanda)
-- [As máscaras assustadoras do Carnaval suíço](https://www.nexojornal.com.br/expresso/2024/02/12/as-mascaras-assustadoras-do-carnaval-suico)
-- [A visão estereotipada que as potências mundiais têm do Brasil](https://www.nexojornal.com.br/externo/2024/02/12/a-visao-estereotipada-que-as-potencias-mundiais-tem-do-brasil)
+- [Por que o agro deve perder espaço no PIB de 2024](https://www.nexojornal.com.br/expresso/2024/02/12/economia-agro-pib-2024)
+- [A tentativa de regular anúncios concorrentes do leite materno](https://www.nexojornal.com.br/expresso/2024/02/12/a-tentativa-de-regular-anuncios-concorrentes-do-leite-materno)
+- [‘Sua mãe tá presa’: a vida das crianças filhas de encarcerados](https://www.nexojornal.com.br/externo/2024/02/12/sua-mae-ta-presa-a-vida-das-criancas-filhas-de-encarcerados)
+- [Por que Hollywood está camuflando seus musicais](https://www.nexojornal.com.br/expresso/2024/02/12/por-que-hollywood-esta-camuflando-seus-musicais)
+- [O resgate das fotos do ativista antirracismo Januário Garcia](https://www.nexojornal.com.br/expresso/2024/02/12/januario-garcia-resgate-fotos-ativista-antirracismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
