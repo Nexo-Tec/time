@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como evitar o ‘ponto de não retorno’ na Amazônia](https://www.nexojornal.com.br/expresso/2024/02/14/meio-ambiente-como-evitar-ponto-de-nao-retorno-amazonia-estudo-nature)
 - [O futuro da Lei de Cotas no serviço público](https://www.nexojornal.com.br/colunistas/2024/02/13/futuro-da-lei-de-cotas-no-servico-publico)
 - [Por que mais de um terço dos brasileiros apoia um golpe](https://www.nexojornal.com.br/expresso/2024/02/13/brasileiros-que-apoiam-golpe-de-estado)
 - [Brasil registra mais de meio milhão de casos de dengue em 2024](https://www.nexojornal.com.br/extra/2024/02/13/brasil-tem-500-mil-de-casos-de-dengue-em-2024)
 - [Delegados divulgam nota de repúdio ao desfile da Vai-Vai](https://www.nexojornal.com.br/extra/2024/02/13/delegados-divulgam-nota-de-repudio-contra-desfile-da-vai-vai)
-- [Por que o agro deve perder espaço no PIB de 2024](https://www.nexojornal.com.br/expresso/2024/02/12/economia-agro-pib-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
