@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O futuro da Lei de Cotas no serviço público](https://www.nexojornal.com.br/colunistas/2024/02/13/futuro-da-lei-de-cotas-no-servico-publico)
+- [Por que mais de um terço dos brasileiros apoia um golpe](https://www.nexojornal.com.br/expresso/2024/02/13/brasileiros-que-apoiam-golpe-de-estado)
+- [Brasil registra mais de meio milhão de casos de dengue em 2024](https://www.nexojornal.com.br/extra/2024/02/13/brasil-tem-500-mil-de-casos-de-dengue-em-2024)
 - [Delegados divulgam nota de repúdio ao desfile da Vai-Vai](https://www.nexojornal.com.br/extra/2024/02/13/delegados-divulgam-nota-de-repudio-contra-desfile-da-vai-vai)
 - [Por que o agro deve perder espaço no PIB de 2024](https://www.nexojornal.com.br/expresso/2024/02/12/economia-agro-pib-2024)
-- [A tentativa de regular anúncios concorrentes do leite materno](https://www.nexojornal.com.br/expresso/2024/02/12/a-tentativa-de-regular-anuncios-concorrentes-do-leite-materno)
-- [‘Sua mãe tá presa’: a vida das crianças filhas de encarcerados](https://www.nexojornal.com.br/externo/2024/02/12/sua-mae-ta-presa-a-vida-das-criancas-filhas-de-encarcerados)
-- [Por que Hollywood está camuflando seus musicais](https://www.nexojornal.com.br/expresso/2024/02/12/por-que-hollywood-esta-camuflando-seus-musicais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
