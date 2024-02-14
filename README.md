@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Boca de urna na Indonésia dá vitória a ex-general da ditadura](https://www.nexojornal.com.br/extra/2024/02/14/ex-general-ditadura-vence-eleicao-indonesia)
 - [Presídio federal de segurança máxima tem fuga inédita](https://www.nexojornal.com.br/extra/2024/02/14/fuga-inedita-presidio-federal)
 - [As viagens de Mário de Andrade que embalam a escola campeã de SP](https://www.nexojornal.com.br/expresso/2024/02/14/mocidade-alegre-e-o-samba-enredo-sobre-mario-de-andrade)
 - [Como evitar o ‘ponto de não retorno’ na Amazônia](https://www.nexojornal.com.br/expresso/2024/02/14/meio-ambiente-como-evitar-ponto-de-nao-retorno-amazonia-estudo-nature)
 - [O futuro da Lei de Cotas no serviço público brasileiro](https://www.nexojornal.com.br/colunistas/2024/02/13/futuro-da-lei-de-cotas-no-servico-publico)
-- [Por que mais de um terço dos brasileiros apoia um golpe](https://www.nexojornal.com.br/expresso/2024/02/13/brasileiros-que-apoiam-golpe-de-estado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
