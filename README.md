@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A falta de confiança na Educação Superior &lpar;e em outras instituições&rpar; nos EUA](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/a-falta-de-confianca-na-educacao-superior-e-em-outras-instituicoes-nos-eua/)
 - [CV: Bárbara Brito](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-barbara-brito/)
 - [@miltoncunhaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/miltoncunhaoficial/)
 - [Teresa Cristina: “O Carnaval renova as minhas energias para o ano inteiro”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/teresa-cristina-carnaval-samba-mulheres-pagode-preta/)
 - [Não se nasce “musa” do Carnaval, compra-se a vaga na passarela](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-se-nasce-musa-do-carnaval-compra-se-a-vaga-na-passarela/)
-- [Você Lembrará Seus Nomes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/voce-lembrara-seus-nomes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
