@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A falta de confiança na Educação Superior &lpar;e em outras instituições&rpar; nos EUA](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/a-falta-de-confianca-na-educacao-superior-e-em-outras-instituicoes-nos-eua/)
-- [CV: Bárbara Brito](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-barbara-brito/)
-- [@miltoncunhaoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/miltoncunhaoficial/)
-- [Teresa Cristina: “O Carnaval renova as minhas energias para o ano inteiro”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/teresa-cristina-carnaval-samba-mulheres-pagode-preta/)
-- [Não se nasce “musa” do Carnaval, compra-se a vaga na passarela](https://gamarevista.uol.com.br/colunistas/marilene-felinto/nao-se-nasce-musa-do-carnaval-compra-se-a-vaga-na-passarela/)
+- [A temporada final de “Bom Dia, Verônica”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-temporada-final-de-bom-dia-veronica/)
+- [Os sambas-enredos das escolas do Rio e de SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-sambas-enredos-das-escolas-do-rio-e-de-sp/)
+- [“Um Defeito de Cor”, livro que virou samba da Portela](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-defeito-de-cor-livro-que-virou-samba-da-portela/)
+- [“Karaokê Infinito”, no Museu da Língua Portuguesa em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/karaoke-infinito-no-museu-da-lingua-portuguesa-em-sp/)
+- [Caroline Polachek e Weyes Blood cantando juntas](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/caroline-polachek-e-weyes-blood-cantando-juntas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
