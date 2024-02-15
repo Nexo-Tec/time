@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Exército tira militares suspeitos de golpismo de cargos de comando](https://www.nexojornal.com.br/extra/2024/02/14/exercito-exonera-oficiais-cargos-comando)
+- [A fantasia da Vai-Vai que irritou a polícia e mobiliza a política](https://www.nexojornal.com.br/podcast/2024/02/14/fantasia-carnaval-vai-vai-irrita-policia)
 - [Viradouro é campeã do Carnaval do Rio com enredo de culto vodu](https://www.nexojornal.com.br/extra/2024/02/14/viradouro-campea-carnaval-rio-2024)
 - [Boca de urna na Indonésia dá vitória a ex-general da ditadura](https://www.nexojornal.com.br/extra/2024/02/14/ex-general-ditadura-vence-eleicao-indonesia)
 - [Presídio federal de segurança máxima tem fuga inédita](https://www.nexojornal.com.br/extra/2024/02/14/fuga-inedita-presidio-federal)
-- [As viagens de Mário de Andrade que embalam a escola campeã de SP](https://www.nexojornal.com.br/expresso/2024/02/14/mocidade-alegre-e-o-samba-enredo-sobre-mario-de-andrade)
-- [Como evitar o ‘ponto de não retorno’ na Amazônia](https://www.nexojornal.com.br/expresso/2024/02/14/meio-ambiente-como-evitar-ponto-de-nao-retorno-amazonia-estudo-nature)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
