@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como funciona o sistema penitenciário federal](https://www.nexojornal.com.br/expresso/2024/02/14/como-funciona-o-sistema-penitenciario)
 - [Como ‘Um defeito de cor’ mudou a memória afro-brasileira](https://www.nexojornal.com.br/expresso/2024/02/14/livro-um-defeito-de-cor-e-a-memoria-afro-brasileira)
 - [Como republicanos usam o tema da migração contra Biden](https://www.nexojornal.com.br/expresso/2024/02/14/como-republicanos-usam-o-tema-da-migracao-contra-biden)
 - [Contra o Coringa, americanos mobilizam o mordomo Alfred](https://www.nexojornal.com.br/colunistas/2024/02/14/contra-o-coringa-americanos-mobilizam-o-mordomo-alfred)
 - [Exército tira militares suspeitos de golpismo de cargos de comando](https://www.nexojornal.com.br/extra/2024/02/14/exercito-exonera-oficiais-cargos-comando)
-- [A fantasia da Vai-Vai que irritou a polícia e mobiliza a política](https://www.nexojornal.com.br/podcast/2024/02/14/fantasia-carnaval-vai-vai-irrita-policia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
