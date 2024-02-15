@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Venezuela expulsa escritório da ONU para direitos humanos](https://www.nexojornal.com.br/extra/2024/02/15/venezuela-expulsa-escritorio-da-onu-para-direitos-humanos)
 - [Por que ‘Madame Teia’ é considerado um filme desastroso](https://www.nexojornal.com.br/expresso/2024/02/15/filme-madame-teia-mulher-aranha-critica)
 - [Israel invade maior hospital ainda ativo em Gaza](https://www.nexojornal.com.br/extra/2024/02/15/israel-invade-maior-hospital-ainda-ativo-em-gaza)
 - [A relação comercial do Brasil com os países do Mercosul](https://www.nexojornal.com.br/grafico/2024/02/15/brasil-mercosul-relacao-comercial)
 - [Como funciona o sistema penitenciário federal](https://www.nexojornal.com.br/expresso/2024/02/14/como-funciona-o-sistema-penitenciario)
-- [Como ‘Um defeito de cor’ mudou a memória afro-brasileira](https://www.nexojornal.com.br/expresso/2024/02/14/livro-um-defeito-de-cor-e-a-memoria-afro-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
