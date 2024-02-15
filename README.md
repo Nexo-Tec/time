@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel invade maior hospital ainda ativo em Gaza](https://www.nexojornal.com.br/extra/2024/02/15/israel-invade-maior-hospital-ainda-ativo-em-gaza)
 - [A relação comercial do Brasil com os países do Mercosul](https://www.nexojornal.com.br/grafico/2024/02/15/brasil-mercosul-relacao-comercial)
 - [Como funciona o sistema penitenciário federal](https://www.nexojornal.com.br/expresso/2024/02/14/como-funciona-o-sistema-penitenciario)
 - [Como ‘Um defeito de cor’ mudou a memória afro-brasileira](https://www.nexojornal.com.br/expresso/2024/02/14/livro-um-defeito-de-cor-e-a-memoria-afro-brasileira)
 - [Como republicanos usam o tema da migração contra Biden](https://www.nexojornal.com.br/expresso/2024/02/14/como-republicanos-usam-o-tema-da-migracao-contra-biden)
-- [Contra o Coringa, americanos mobilizam o mordomo Alfred](https://www.nexojornal.com.br/colunistas/2024/02/14/contra-o-coringa-americanos-mobilizam-o-mordomo-alfred)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
