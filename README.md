@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mudança radical na comunicação científica](https://www.nexojornal.com.br/externo/2024/02/16/mudanca-radical-na-comunicacao-cientifica)
+- [O aumento dos casos de dengue nas primeiras semanas de 2024](https://www.nexojornal.com.br/grafico/2024/02/16/dengue-aumento-casos-2024-grafico)
 - [Autoridades de vários países criticam Putin por morte de Navalny](https://www.nexojornal.com.br/extra/2024/02/16/autoridades-repercutem-morte-de-alexei-navalny)
 - [Alexei Navalny, crítico de Putin, morre em prisão, diz mídia russa](https://www.nexojornal.com.br/extra/2024/02/16/morre-alexei-navalny-critico-de-putin)
 - [Qual a eficácia das prisões federais contra o crime organizado](https://www.nexojornal.com.br/expresso/2024/02/15/eficacia-prisoes-federais-crime-organizado)
-- [Todos juntos por uma internet mais positiva e segura](https://www.nexojornal.com.br/colunistas/2024/02/15/todos-juntos-por-uma-internet-mais-positiva-e-segura)
-- [O que esperar de uma vitória do ex-general Subianto na Indonésia](https://www.nexojornal.com.br/expresso/2024/02/15/o-que-esperar-de-uma-vitoria-do-ex-general-subianto-na-indonesia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
