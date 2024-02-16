@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Advogados só não podem combinar versões, diz Moraes](https://www.nexojornal.com.br/extra/2024/02/16/moraes-comunicacao-advogados-suspeitos-golpe)
 - [Mudança radical na comunicação científica](https://www.nexojornal.com.br/externo/2024/02/16/mudanca-radical-na-comunicacao-cientifica)
 - [O aumento dos casos de dengue nas primeiras semanas de 2024](https://www.nexojornal.com.br/grafico/2024/02/16/dengue-aumento-casos-2024-grafico)
 - [Autoridades de vários países criticam Putin por morte de Navalny](https://www.nexojornal.com.br/extra/2024/02/16/autoridades-repercutem-morte-de-alexei-navalny)
 - [Alexei Navalny, principal opositor de Putin, morre em prisão](https://www.nexojornal.com.br/extra/2024/02/16/morre-alexei-navalny-critico-de-putin)
-- [Qual a eficácia das prisões federais contra o crime organizado](https://www.nexojornal.com.br/expresso/2024/02/15/eficacia-prisoes-federais-crime-organizado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
