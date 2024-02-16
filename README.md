@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O impacto da tecnologia digital em políticas públicas educacionais](https://pp.nexojornal.com.br/linha-do-tempo/2024/02/16/o-impacto-da-tecnologia-digital-em-politicas-publicas-educacionais/)
 - [Saúde e trabalho: novos tempos, novos paradigmas](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/16/saude-e-trabalho-novos-tempos-novos-paradigmas/)
 - [Segregação ocupacional](https://pp.nexojornal.com.br/bibliografia-basica/2024/02/16/segregacao-ocupacional/)
 - [Ideias e movimentos sociais dos espiritismos em 166 anos](https://pp.nexojornal.com.br/glossario/2024/02/16/ideias-e-movimentos-sociais-dos-espiritismos-em-166-anos/)
 - [Quais os efeitos da educação técnica na empregabilidade e na renda, segundo este estudo](https://pp.nexojornal.com.br/topico/2024/02/09/quais-os-efeitos-da-educacao-tecnica-na-empregabilidade-e-na-renda-segundo-este-estudo/)
-- [Oportunidade de melhoria no financiamento de instalações portuárias públicas de pequeno porte](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/08/oportunidade-de-melhoria-no-financiamento-de-instalacoes-portuarias-publicas-de-pequeno-porte/)
 <!-- PP_LIST:END -->
 
