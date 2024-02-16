@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Todos juntos por uma internet mais positiva e segura](https://www.nexojornal.com.br/colunistas/2024/02/15/todos-juntos-por-uma-internet-mais-positiva-e-segura)
+- [O que esperar de uma vitória do ex-general Subianto na Indonésia](https://www.nexojornal.com.br/expresso/2024/02/15/o-que-esperar-de-uma-vitoria-do-ex-general-subianto-na-indonesia)
+- [Qual a viabilidade de o Brasil refinar todo seu combustível](https://www.nexojornal.com.br/expresso/2024/02/15/qual-a-viabilidade-de-o-brasil-refinar-todo-seu-combustivel)
 - [Como o projeto Dune pretende desvendar mistérios do universo](https://www.nexojornal.com.br/expresso/2024/02/15/projeto-dune-desvendar-misterios-do-universo)
 - [Os velhos e novos personagens da exploração espacial](https://www.nexojornal.com.br/podcast/2024/02/15/personagens-que-exploram-espaco)
-- [Bolsonaro transferiu poupança para EUA no fim do mandato](https://www.nexojornal.com.br/extra/2024/02/15/bolsonaro-transferencia-poupanca-eua-mandato-golpe)
-- [As desigualdades de acesso de negros à pós-graduação](https://www.nexojornal.com.br/academico/2024/02/15/as-desigualdades-de-acesso-de-negros-a-pos-graduacao)
-- [Venezuela expulsa escritório da ONU para direitos humanos](https://www.nexojornal.com.br/extra/2024/02/15/venezuela-expulsa-escritorio-da-onu-para-direitos-humanos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
