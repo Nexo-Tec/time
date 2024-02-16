@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Ideias e movimentos sociais dos espiritismos em 166 anos](https://pp.nexojornal.com.br/glossario/2024/02/16/ideias-e-movimentos-sociais-dos-espiritismos-em-166-anos/)
 - [Quais os efeitos da educação técnica na empregabilidade e na renda, segundo este estudo](https://pp.nexojornal.com.br/topico/2024/02/09/quais-os-efeitos-da-educacao-tecnica-na-empregabilidade-e-na-renda-segundo-este-estudo/)
 - [Oportunidade de melhoria no financiamento de instalações portuárias públicas de pequeno porte](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/08/oportunidade-de-melhoria-no-financiamento-de-instalacoes-portuarias-publicas-de-pequeno-porte/)
 - [Quais são os hábitos culturais dos brasileiros em 2023](https://pp.nexojornal.com.br/dados/2024/02/07/habitos-culturais-brasileiros-2023/)
 - [Fernando Limongi: o impeachment em 2016 e suas consequências para as instituições e a democracia brasileira](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/02/07/fernando-limongi-o-impeachment-em-2016-e-suas-consequencias-para-as-instituicoes-e-a-democracia-brasileira/)
-- [Qualificação docente é ponto crucial no debate sobre Educação Profissional e Tecnológica](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/06/qualificacao-docente-e-ponto-crucial-no-debate-sobre-educacao-profissional-e-tecnologica/)
 <!-- PP_LIST:END -->
 
