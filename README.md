@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Motoboy negro é agredido por morador branco e acaba detido](https://www.nexojornal.com.br/extra/2024/02/17/motoboy-negro-agredido-faca-porto-alegre-preso)
 - [Belo Horizonte decreta emergência em saúde devido a dengue](https://www.nexojornal.com.br/extra/2024/02/17/dengue-belo-horizonte-decreta-estado-emergencia-saude)
 - [Qual é o registro mais antigo do beijo na boca](https://www.nexojornal.com.br/expresso/2024/02/16/registro-primeiro-beijo-na-boca)
 - [‘Estrela da manhã’: um romance sobre o que não entendemos](https://www.nexojornal.com.br/estante-trechos/2024/02/16/estrela-da-manha-um-romance-sobre-o-que-nao-entendemos)
 - [O estudo que usou IA para reduzir erros de árbitros de tênis](https://www.nexojornal.com.br/expresso/2024/02/16/inteligencia-artificial-partidas-tenis)
-- [Dengue, Mercosul, penitenciárias federais: os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/02/16/dengue-mercosul-presidios-federais-graficos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
