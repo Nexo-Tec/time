@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Paul McCartney reencontra baixo furtado em 1972](https://www.nexojornal.com.br/extra/2024/02/16/paul-mccartney-reencontra-baixo-perdido-ha-mais-de-50-anos)
-- [Como funciona a IA de vídeo dos criadores do ChatGPT](https://www.nexojornal.com.br/expresso/2024/02/16/como-funciona-a-ia-de-video-dos-criadores-do-chatgpt)
-- [A 1ª fuga de presídios federais. A morte de Navalny. E mais](https://www.nexojornal.com.br/video/2024/02/16/a-1a-fuga-de-presidios-federais-a-morte-de-navalny-e-mais)
-- [Advogados só não podem combinar versões, diz Moraes](https://www.nexojornal.com.br/extra/2024/02/16/moraes-comunicacao-advogados-suspeitos-golpe)
-- [Mudança radical na comunicação científica](https://www.nexojornal.com.br/externo/2024/02/16/mudanca-radical-na-comunicacao-cientifica)
+- [Qual é o registro mais antigo do beijo na boca](https://www.nexojornal.com.br/expresso/2024/02/16/registro-primeiro-beijo-na-boca)
+- [‘Estrela da manhã’: um romance sobre o que não entendemos](https://www.nexojornal.com.br/estante-trechos/2024/02/16/estrela-da-manha-um-romance-sobre-o-que-nao-entendemos)
+- [O estudo que usou IA para reduzir erros de árbitros de tênis](https://www.nexojornal.com.br/expresso/2024/02/16/inteligencia-artificial-partidas-tenis)
+- [Dengue, Mercosul, penitenciárias federais: os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/02/16/dengue-mercosul-presidios-federais-graficos)
+- [Como Navalny se tornou o principal opositor de Putin](https://www.nexojornal.com.br/expresso/2024/02/16/como-navalny-se-tornou-o-principal-opositor-de-putin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
