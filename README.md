@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel repreende fala de Lula que compara ação em Gaza a Hitler](https://www.nexojornal.com.br/extra/2024/02/18/comparacao-lula-gaza-israel-hitler-reprimenda)
 - [O arquivo digital criado para registrar grafites da Inglaterra](https://www.nexojornal.com.br/expresso/2024/02/17/arquivo-digital-de-grafites-inglaterra)
 - [5 livros com histórias de personagens acamados](https://www.nexojornal.com.br/estante-favoritos/2024/02/17/5-livros-com-historias-de-personagens-acamados)
 - [Por que Balneário Camboriú tem tantos prédios altíssimos](https://www.nexojornal.com.br/expresso/2024/02/17/por-que-balneario-camboriu-tem-predios-altos)
 - [7 pontos-chave para prevenir e se proteger da dengue](https://www.nexojornal.com.br/expresso/2024/02/17/dengue-como-se-proteger)
-- [Como incertezas econômicas afetam profissionais LGBTI+](https://www.nexojornal.com.br/ensaio/2024/02/17/como-incertezas-economicas-afetam-profissionais-lgbti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
