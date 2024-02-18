@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é protecionismo verde, que o Brasil quer combater](https://www.nexojornal.com.br/expresso/2024/02/18/protecionismo-verde-o-que-e)
+- [A singularidade do sistema de escrita da Ilha de Páscoa](https://www.nexojornal.com.br/expresso/2024/02/18/como-e-o-sistema-de-escrita-da-ilha-de-pascoa)
+- [O futuro dos Objetivos de Desenvolvimento Sustentável](https://www.nexojornal.com.br/ensaio/2024/02/18/o-futuro-dos-objetivos-de-desenvolvimento-sustentavel)
+- [Crianças ainda precisam se vacinar contra a covid em 2024?](https://www.nexojornal.com.br/expresso/2024/02/18/vacina-covid-infantil-crianca-recomendacao-2024)
 - [A reação das Forças Armadas às revelações da trama golpista](https://www.nexojornal.com.br/expresso/2024/02/18/reacao-das-forcas-armadas-operacao-pf-tempus-veritatis)
-- [Israel repreende fala de Lula que compara ação em Gaza a Hitler](https://www.nexojornal.com.br/extra/2024/02/18/comparacao-lula-gaza-israel-hitler-reprimenda)
-- [O arquivo digital criado para registrar grafites da Inglaterra](https://www.nexojornal.com.br/expresso/2024/02/17/arquivo-digital-de-grafites-inglaterra)
-- [5 livros com histórias de personagens acamados](https://www.nexojornal.com.br/estante-favoritos/2024/02/17/5-livros-com-historias-de-personagens-acamados)
-- [Por que Balneário Camboriú tem tantos prédios altíssimos](https://www.nexojornal.com.br/expresso/2024/02/17/por-que-balneario-camboriu-tem-predios-altos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
