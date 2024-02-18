@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lucas Bulamah: “O desejo é uma fonte permanente de crise”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-lucas-bulamah-o-desejo-e-uma-fonte-permanente-de-crise-ciumes-relacionamento-aberto/)
 - [A Vingança É Minha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vinganca-e-minha/)
 - [As cinzas do meu pai](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-cinzas-do-meu-pai/)
 - [A temporada final de “Bom Dia, Verônica”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-temporada-final-de-bom-dia-veronica/)
 - [Os sambas-enredos das escolas do Rio e de SP](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-sambas-enredos-das-escolas-do-rio-e-de-sp/)
-- [“Um Defeito de Cor”, livro que virou samba da Portela](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-defeito-de-cor-livro-que-virou-samba-da-portela/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
