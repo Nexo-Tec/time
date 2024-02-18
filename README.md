@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Motoboy negro é agredido por morador branco e acaba detido](https://www.nexojornal.com.br/extra/2024/02/17/motoboy-negro-agredido-faca-porto-alegre-preso)
-- [Belo Horizonte decreta emergência em saúde devido a dengue](https://www.nexojornal.com.br/extra/2024/02/17/dengue-belo-horizonte-decreta-estado-emergencia-saude)
-- [Qual é o registro mais antigo do beijo na boca](https://www.nexojornal.com.br/expresso/2024/02/16/registro-primeiro-beijo-na-boca)
-- [‘Estrela da manhã’: um romance sobre o que não entendemos](https://www.nexojornal.com.br/estante-trechos/2024/02/16/estrela-da-manha-um-romance-sobre-o-que-nao-entendemos)
-- [O estudo que usou IA para reduzir erros de árbitros de tênis](https://www.nexojornal.com.br/expresso/2024/02/16/inteligencia-artificial-partidas-tenis)
+- [O arquivo digital criado para registrar grafites da Inglaterra](https://www.nexojornal.com.br/expresso/2024/02/17/arquivo-digital-de-grafites-inglaterra)
+- [5 livros com histórias de personagens acamados](https://www.nexojornal.com.br/estante-favoritos/2024/02/17/5-livros-com-historias-de-personagens-acamados)
+- [Por que Balneário Camboriú tem tantos prédios altíssimos](https://www.nexojornal.com.br/expresso/2024/02/17/por-que-balneario-camboriu-tem-predios-altos)
+- [7 pontos-chave para prevenir e se proteger da dengue](https://www.nexojornal.com.br/expresso/2024/02/17/dengue-como-se-proteger)
+- [Como incertezas econômicas afetam profissionais LGBTI+](https://www.nexojornal.com.br/ensaio/2024/02/17/como-incertezas-economicas-afetam-profissionais-lgbti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
