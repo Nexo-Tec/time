@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um ano depois da tragédia: os riscos em São Sebastião](https://www.nexojornal.com.br/podcast/2024/02/19/um-ano-depois-da-tragedia-os-riscos-em-sao-sebastiao)
 - [Como Abilio Diniz ajudou a moldar o varejo brasileiro](https://www.nexojornal.com.br/expresso/2024/02/19/abilio-diniz-e-o-varejo-brasileiro)
 - [Lula chama de volta embaixador brasileiro em Israel](https://www.nexojornal.com.br/extra/2024/02/19/lula-embaixador-israel-convocado)
 - [PF intima Bolsonaro a depor sobre trama do golpe](https://www.nexojornal.com.br/extra/2024/02/19/depoimento-bolsonaro-golpe)
 - [Corpo de Abilio Diniz é velado no estádio Morumbis](https://www.nexojornal.com.br/extra/2024/02/19/abilio-diniz-velado-sao-paulo-morumbis)
-- [500 agentes buscam fugitivos de Mossoró, diz Lewandowski](https://www.nexojornal.com.br/extra/2024/02/18/500-agentes-buscam-fugitivos-de-mossoro-diz-lewandowski)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
