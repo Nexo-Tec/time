@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O que é protecionismo verde, que o Brasil quer combater](https://www.nexojornal.com.br/expresso/2024/02/18/protecionismo-verde-o-que-e)
 - [A singularidade do sistema de escrita da Ilha de Páscoa](https://www.nexojornal.com.br/expresso/2024/02/18/como-e-o-sistema-de-escrita-da-ilha-de-pascoa)
 - [O futuro dos Objetivos de Desenvolvimento Sustentável](https://www.nexojornal.com.br/ensaio/2024/02/18/o-futuro-dos-objetivos-de-desenvolvimento-sustentavel)
-- [Crianças ainda precisam se vacinar contra a covid em 2024?](https://www.nexojornal.com.br/expresso/2024/02/18/vacina-covid-infantil-crianca-recomendacao-2024)
+- [Crianças ainda precisam se vacinar contra covid em 2024?](https://www.nexojornal.com.br/expresso/2024/02/18/vacina-covid-infantil-crianca-recomendacao-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
