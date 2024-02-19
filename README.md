@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula chama de volta embaixador brasileiro em Israel](https://www.nexojornal.com.br/extra/2024/02/19/lula-embaixador-israel-convocado)
 - [PF intima Bolsonaro a depor sobre trama do golpe](https://www.nexojornal.com.br/extra/2024/02/19/depoimento-bolsonaro-golpe)
 - [Corpo de Abilio Diniz é velado no estádio Morumbis](https://www.nexojornal.com.br/extra/2024/02/19/abilio-diniz-velado-sao-paulo-morumbis)
 - [500 agentes buscam fugitivos de Mossoró, diz Lewandowski](https://www.nexojornal.com.br/extra/2024/02/18/500-agentes-buscam-fugitivos-de-mossoro-diz-lewandowski)
 - [O que é protecionismo verde, que o Brasil quer combater](https://www.nexojornal.com.br/expresso/2024/02/18/protecionismo-verde-o-que-e)
-- [A singularidade do sistema de escrita da Ilha de Páscoa](https://www.nexojornal.com.br/expresso/2024/02/18/como-e-o-sistema-de-escrita-da-ilha-de-pascoa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
