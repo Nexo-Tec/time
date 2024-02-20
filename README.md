@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sony anuncia quatro filmes sobre a vida dos Beatles](https://www.nexojornal.com.br/extra/2024/02/20/quatro-filmes-novos-sobre-a-vida-dos-beatles)
 - [Justiça britânica analisa último recurso de Julian Assange](https://www.nexojornal.com.br/extra/2024/02/20/justica-britanica-analisa-ultimo-recurso-julian-assange)
 - [Como a fala sobre Israel impacta Lula interna e externamente](https://www.nexojornal.com.br/expresso/2024/02/19/lula-persona-non-grata-israel-impacto-brasil)
 - [Quantos municípios brasileiros têm mais de 1 milhão de habitantes](https://www.nexojornal.com.br/grafico/2024/02/19/municipios-brasil-milhao-de-habitantes)
 - [Por que alguns autores foram excluídos do Hugo Awards 2023](https://www.nexojornal.com.br/expresso/2024/02/19/hugo-awards-2023-autores-excluidos)
-- [A polícia e seu preconceito em não ter preconceito](https://www.nexojornal.com.br/colunistas/2024/02/19/a-policia-e-seu-preconceito-em-nao-ter-preconceito)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
