@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A animação indicada ao Oscar 2024 disponível no YouTube](https://www.nexojornal.com.br/expresso/2024/02/20/animacao-indicada-ao-oscar-2024-disponivel-youtube)
 - [Quais países fazem parte do G20, que se reúne no Brasil em 2024](https://www.nexojornal.com.br/grafico/2024/02/20/rio-g20-2024-paises)
 - [Vídeo flagra PMs destruindo câmeras de rua em Guarujá](https://www.nexojornal.com.br/extra/2024/02/20/video-policiais-destruindo-cameras-em-guaruja)
 - [Nasa busca candidatos para simulação de missão em Marte](https://www.nexojornal.com.br/extra/2024/02/20/nasa-busca-candidatos-para-simulacao-de-missao-em-marte)
 - [Por que este é o buraco negro mais ‘faminto’ já descoberto](https://www.nexojornal.com.br/expresso/2024/02/20/maior-buraco-negro-descoberta-nasa)
-- [Sony anuncia quatro filmes sobre a vida dos Beatles](https://www.nexojornal.com.br/extra/2024/02/20/quatro-filmes-novos-sobre-a-vida-dos-beatles)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
