@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a fala sobre Israel impacta Lula interna e externamente](https://www.nexojornal.com.br/expresso/2024/02/19/lula-persona-non-grata-israel-impacto-brasil)
+- [Quantos municípios brasileiros têm mais de 1 milhão de habitantes](https://www.nexojornal.com.br/grafico/2024/02/19/municipios-brasil-milhao-de-habitantes)
+- [Por que alguns autores foram excluídos do Hugo Awards 2023](https://www.nexojornal.com.br/expresso/2024/02/19/hugo-awards-2023-autores-excluidos)
 - [A polícia e seu preconceito em não ter preconceito](https://www.nexojornal.com.br/colunistas/2024/02/19/a-policia-e-seu-preconceito-em-nao-ter-preconceito)
 - [EUA propõem resolução com pedido de cessar-fogo em Gaza](https://www.nexojornal.com.br/extra/2024/02/19/eua-resolucao-onu-cessar-fogo)
-- [Dino apresenta projeto no Senado e se desfilia do PSB](https://www.nexojornal.com.br/extra/2024/02/19/dino-projeto-psb-supremo)
-- [Um ano depois da tragédia: os riscos em São Sebastião](https://www.nexojornal.com.br/podcast/2024/02/19/um-ano-depois-da-tragedia-os-riscos-em-sao-sebastiao)
-- [Como Abilio Diniz ajudou a moldar o varejo brasileiro](https://www.nexojornal.com.br/expresso/2024/02/19/abilio-diniz-e-o-varejo-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
