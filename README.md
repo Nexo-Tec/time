@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre economista Affonso Celso Pastore, aos 84 anos](https://www.nexojornal.com.br/extra/2024/02/21/morre-economista-affonso-celso-pastore-aos-84-anos)
 - [Como a paleontologia moderna desmascara fósseis falsos](https://www.nexojornal.com.br/externo/2024/02/20/como-a-paleontologia-moderna-desmascara-fosseis-falsos)
 - [Qual o efeito de incentivar a ‘boca suja’ das crianças](https://www.nexojornal.com.br/expresso/2024/02/20/trend-palavrao-tiktok-efeitos)
 - [Quais temas mobilizam o G20 sob a presidência do Brasil](https://www.nexojornal.com.br/expresso/2024/02/20/temas-reuniao-g20-brasil)
 - [Senado restringe ‘saidinhas’ e devolve projeto à Câmara](https://www.nexojornal.com.br/extra/2024/02/20/senado-restringe-saidinha-presos)
-- [Pacheco cobra retratação de Lula por fala sobre Holocausto](https://www.nexojornal.com.br/extra/2024/02/20/pacheco-cobra-retratacao-de-lula-por-fala-sobre-holocausto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
