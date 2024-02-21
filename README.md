@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Theodoro, Soneca e outras onças-pintadas das matas paulistas](https://www.nexojornal.com.br/externo/2024/02/21/guia-de-oncas-pintadas-em-sao-paulo)
+- [Mauro Vieira critica Conselho de Segurança em reunião do G20](https://www.nexojornal.com.br/extra/2024/02/21/mauro-vieira-critica-conselho-seguranca-onu-reuniao-g20)
 - [Corte chilena manda reabrir investigação sobre morte de Neruda](https://www.nexojornal.com.br/extra/2024/02/21/corte-reabre-investigacao-morte-neruda)
 - [Como o uso do Ozempic pode impactar a economia](https://www.nexojornal.com.br/expresso/2024/02/21/ozempic-efeito-na-economia)
 - [Beyoncé é 1ª mulher negra no topo das paradas de country](https://www.nexojornal.com.br/extra/2024/02/21/beyonce-texas-hold-country-topo-paradas)
-- [Não continue a nadar](https://www.nexojornal.com.br/colunistas/2024/02/21/financiamento-cientifico-nao-continue-a-nadar)
-- [Morre economista Affonso Celso Pastore, aos 84 anos](https://www.nexojornal.com.br/extra/2024/02/21/morre-economista-affonso-celso-pastore-aos-84-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
