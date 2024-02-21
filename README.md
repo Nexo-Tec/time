@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o uso do Ozempic pode impactar a economia](https://www.nexojornal.com.br/expresso/2024/02/21/ozempic-efeito-na-economia)
 - [Beyonce é 1ª mulher negra no topo das paradas de country](https://www.nexojornal.com.br/extra/2024/02/21/beyonce-texas-hold-country-topo-paradas)
 - [Não continue a nadar](https://www.nexojornal.com.br/colunistas/2024/02/21/financiamento-cientifico-nao-continue-a-nadar)
 - [Morre economista Affonso Celso Pastore, aos 84 anos](https://www.nexojornal.com.br/extra/2024/02/21/morre-economista-affonso-celso-pastore-aos-84-anos)
 - [Como a paleontologia moderna desmascara fósseis falsos](https://www.nexojornal.com.br/externo/2024/02/20/como-a-paleontologia-moderna-desmascara-fosseis-falsos)
-- [Qual o efeito de incentivar a ‘boca suja’ das crianças](https://www.nexojornal.com.br/expresso/2024/02/20/trend-palavrao-tiktok-efeitos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
