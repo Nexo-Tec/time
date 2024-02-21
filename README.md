@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Fim das ‘saidinhas’: o efeito nas prisões e o uso político do tema](https://www.nexojornal.com.br/podcast/2024/02/21/fim-das-saidinhas-efeito)
 - [Theodoro, Soneca e outras onças-pintadas das matas paulistas](https://www.nexojornal.com.br/externo/2024/02/21/guia-de-oncas-pintadas-em-sao-paulo)
 - [Mauro Vieira critica Conselho de Segurança em reunião do G20](https://www.nexojornal.com.br/extra/2024/02/21/mauro-vieira-critica-conselho-seguranca-onu-reuniao-g20)
 - [Corte chilena manda reabrir investigação sobre morte de Neruda](https://www.nexojornal.com.br/extra/2024/02/21/corte-reabre-investigacao-morte-neruda)
 - [Como o uso do Ozempic pode impactar a economia](https://www.nexojornal.com.br/expresso/2024/02/21/ozempic-efeito-na-economia)
-- [Beyoncé é 1ª mulher negra no topo das paradas de country](https://www.nexojornal.com.br/extra/2024/02/21/beyonce-texas-hold-country-topo-paradas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
