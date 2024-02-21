@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Antártica: uma viagem-travessia](https://gamarevista.uol.com.br/colunistas/maria-homem/antartica-uma-viagem-travessia/)
 - [@gabb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabb/)
 - [Caneta quatro cores BIC](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneta-quatro-cores-bic/)
 - [Lucas Bulamah: “O desejo é uma fonte permanente de crise”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-lucas-bulamah-o-desejo-e-uma-fonte-permanente-de-crise-ciumes-relacionamento-aberto/)
 - [A Vingança É Minha](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-vinganca-e-minha/)
-- [As cinzas do meu pai](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-cinzas-do-meu-pai/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
