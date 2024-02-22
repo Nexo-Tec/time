@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A fala desastrosa de Lula e dois desafios importantes para judias e judeus brasileiros](https://gamarevista.uol.com.br/opiniao/a-fala-desastrosa-de-lula-e-dois-desafios-importantes-para-judias-e-judeus-brasileiros/)
-- [Antártica: uma viagem-travessia](https://gamarevista.uol.com.br/colunistas/maria-homem/antartica-uma-viagem-travessia/)
-- [@gabb](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gabb/)
-- [Caneta quatro cores BIC](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/caneta-quatro-cores-bic/)
-- [Lucas Bulamah: “O desejo é uma fonte permanente de crise”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/psicanalista-lucas-bulamah-o-desejo-e-uma-fonte-permanente-de-crise-ciumes-relacionamento-aberto/)
+- [“Levante”, filme nacional sobre aborto, premiado em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/levante-filme-nacional-sobre-aborto-premiado-em-cannes/)
+- [Histórias da diversidade LGBTQIA+ no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-da-diversidade-lgbtqia-no-masp/)
+- [Encontros ruins no novo single de Dua Lipa](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/encontros-ruins-no-novo-single-de-dua-lipa/)
+- [A animação “O Menino e a Garça”, de Hayao Miyazaki](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-animacao-o-menino-e-a-garca-de-hayao-miyazaki/)
+- [O livro “Um Dia”, para morrer de chorar](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-livro-um-dia-para-morrer-de-chorar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
