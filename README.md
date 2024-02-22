@@ -115,9 +115,9 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que Jair Bolsonaro precisa ser punido de forma rigorosa](https://www.nexojornal.com.br/colunistas/2024/02/22/punicao-a-jair-bolsonaro-coluna)
 - [Quais as brechas de segurança no presídio federal de Mossoró](https://www.nexojornal.com.br/expresso/2024/02/21/mossoro-presidio-brechas-seguranca)
 - [O acesso à saúde no sistema prisional brasileiro](https://www.nexojornal.com.br/academico/2024/02/21/o-acesso-a-saude-no-sistema-prisional-brasileiro)
-- [Por que Jair Bolsonaro precisa ser punido de forma rigorosa](https://www.nexojornal.com.br/colunistas/2024/02/21/punicao-a-jair-bolsonaro)
 - [Identidade racial: quando uma criança se reconhece negra?](https://www.nexojornal.com.br/externo/2024/02/21/identidade-racial-quando-uma-crianca-se-reconhece-negra)
 - [Quais direitos a lei prevê para advogados e clientes](https://www.nexojornal.com.br/expresso/2024/02/21/lei-direitos-advogado-cliente)
 <!-- NEXO_LIST:END -->
