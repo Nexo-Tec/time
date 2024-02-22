@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Deslizamentos durante chuvas no Rio deixam 3 mortos](https://www.nexojornal.com.br/extra/2024/02/22/deslizamentos-chuvas-rio-de-janeiro-mortos)
-- [Daniel Alves é condenado a prisão em caso de estupro](https://www.nexojornal.com.br/extra/2024/02/22/daniel-alves-condenado-prisao-estupro)
-- [Por que Jair Bolsonaro precisa ser punido de forma rigorosa](https://www.nexojornal.com.br/colunistas/2024/02/22/punicao-a-jair-bolsonaro-coluna)
-- [Quais as brechas de segurança no presídio federal de Mossoró](https://www.nexojornal.com.br/expresso/2024/02/21/mossoro-presidio-brechas-seguranca)
-- [O acesso à saúde no sistema prisional brasileiro](https://www.nexojornal.com.br/academico/2024/02/21/o-acesso-a-saude-no-sistema-prisional-brasileiro)
+- [O caminho de ‘Avatar’ dos desenhos ao novo live-action](https://www.nexojornal.com.br/expresso/2024/02/22/desenho-avatar-serie-live-action-netflix)
+- [Bolsonaro fica em silêncio durante depoimento à PF](https://www.nexojornal.com.br/extra/2024/02/22/bolsonaro-silencio-depoimento-a-pf)
+- [O peso da condenação de Daniel Alves para a cultura do futebol](https://www.nexojornal.com.br/expresso/2024/02/22/condenacao-daniel-alves-impacto-futebol)
+- [Deslizamentos durante chuvas no Rio deixam 5 mortos](https://www.nexojornal.com.br/extra/2024/02/22/deslizamentos-chuvas-rio-de-janeiro-mortos)
+- [Daniel Alves é condenado à prisão em caso de estupro](https://www.nexojornal.com.br/extra/2024/02/22/daniel-alves-condenado-prisao-estupro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
