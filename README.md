@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘A lógica do STF exige certa distância dos interesses da política’](https://www.nexojornal.com.br/expresso/2024/02/21/dino-no-stf-eloisa-machado)
-- [Governo do Rio de Janeiro decreta epidemia de dengue](https://www.nexojornal.com.br/extra/2024/02/21/rio-de-janeiro-decreta-epidemia-dengue)
-- [O retorno de Michael Mann a Hollywood com ‘Ferrari’](https://www.nexojornal.com.br/expresso/2024/02/21/hollywood-michael-mann-filme-ferrari)
-- [Fim das ‘saidinhas’: o efeito nas prisões e o uso político do tema](https://www.nexojornal.com.br/podcast/2024/02/21/fim-das-saidinhas-efeito)
-- [Theodoro, Soneca e outras onças-pintadas das matas paulistas](https://www.nexojornal.com.br/externo/2024/02/21/guia-de-oncas-pintadas-em-sao-paulo)
+- [Quais as brechas de segurança no presídio federal de Mossoró](https://www.nexojornal.com.br/expresso/2024/02/21/mossoro-presidio-brechas-seguranca)
+- [O acesso à saúde no sistema prisional brasileiro](https://www.nexojornal.com.br/academico/2024/02/21/o-acesso-a-saude-no-sistema-prisional-brasileiro)
+- [Por que Jair Bolsonaro precisa ser punido de forma rigorosa](https://www.nexojornal.com.br/colunistas/2024/02/21/punicao-a-jair-bolsonaro)
+- [Identidade racial: quando uma criança se reconhece negra?](https://www.nexojornal.com.br/externo/2024/02/21/identidade-racial-quando-uma-crianca-se-reconhece-negra)
+- [Quais direitos a lei prevê para advogados e clientes](https://www.nexojornal.com.br/expresso/2024/02/21/lei-direitos-advogado-cliente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
