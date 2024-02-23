@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [8 dados sobre a educação brasileira pós-pandemia](https://www.nexojornal.com.br/expresso/2024/02/22/8-dados-sobre-a-educacao-brasileira-pos-pandemia)
+- [Como Penha atropela a lei ambiental para ser a ‘Orlando brasileira’](https://www.nexojornal.com.br/externo/2024/02/22/como-penha-atropela-a-lei-ambiental-para-ser-a-orlando-brasileira)
+- [As vítimas da trama sórdida do jogador Daniel Alves](https://www.nexojornal.com.br/colunistas/2024/02/22/as-vitimas-da-trama-sordida-do-jogador-daniel-alves)
+- [Israel realiza novos bombardeios em Rafah](https://www.nexojornal.com.br/extra/2024/02/22/israel-promove-novos-bombardeios-em-rafah)
 - [O bolsonarismo paulista contra os coronéis da PM](https://www.nexojornal.com.br/podcast/2024/02/22/sp-bolsonarismo-contra-coroneis-da-pm)
-- [Biden xinga Putin e Kremlin retruca: ‘cowboy de Hollywood’](https://www.nexojornal.com.br/extra/2024/02/22/biden-xinga-putin-e-kremlin-retruca-cowboy-de-hollywood)
-- [Lei do Pantanal entra em vigor no Mato Grosso do Sul](https://www.nexojornal.com.br/externo/2024/02/22/lei-do-pantanal-entra-em-vigor-no-mato-grosso-do-sul)
-- [O caminho de ‘Avatar’ dos desenhos ao novo live-action](https://www.nexojornal.com.br/expresso/2024/02/22/desenho-avatar-serie-live-action-netflix)
-- [Bolsonaro fica em silêncio durante depoimento à PF](https://www.nexojornal.com.br/extra/2024/02/22/bolsonaro-silencio-depoimento-a-pf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
