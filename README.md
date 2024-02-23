@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mãe de suposto bandido se apresenta como “mamãe” para o filho, em público, desafiando a farsa dos direitos humanos](https://gamarevista.uol.com.br/colunistas/marilene-felinto/mae-de-suposto-bandido-se-apresenta-como-mamae-para-o-filho-em-publico-desafiando-a-farsa-dos-direitos-humanos/)
 - [Estrela da Manhã](https://gamarevista.uol.com.br/cultura/trecho-de-livro/estrela-da-manha/)
 - [“Levante”, filme nacional sobre aborto, premiado em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/levante-filme-nacional-sobre-aborto-premiado-em-cannes/)
 - [Histórias da diversidade LGBTQIA+ no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-da-diversidade-lgbtqia-no-masp/)
 - [Encontros ruins no novo single de Dua Lipa](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/encontros-ruins-no-novo-single-de-dua-lipa/)
-- [A animação “O Menino e a Garça”, de Hayao Miyazaki](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-animacao-o-menino-e-a-garca-de-hayao-miyazaki/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
