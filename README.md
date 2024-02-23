@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Estrela da Manhã](https://gamarevista.uol.com.br/cultura/trecho-de-livro/estrela-da-manha/)
 - [“Levante”, filme nacional sobre aborto, premiado em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/levante-filme-nacional-sobre-aborto-premiado-em-cannes/)
 - [Histórias da diversidade LGBTQIA+ no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-da-diversidade-lgbtqia-no-masp/)
 - [Encontros ruins no novo single de Dua Lipa](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/encontros-ruins-no-novo-single-de-dua-lipa/)
 - [A animação “O Menino e a Garça”, de Hayao Miyazaki](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-animacao-o-menino-e-a-garca-de-hayao-miyazaki/)
-- [O livro “Um Dia”, para morrer de chorar](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-livro-um-dia-para-morrer-de-chorar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
