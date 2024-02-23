@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A crise entre Brasil e Israel. Bolsonaro e militares na PF. E mais](https://www.nexojornal.com.br/video/2024/02/23/a-crise-entre-brasil-e-israel-bolsonaro-e-militares-na-pf-e-mais)
+- [Alemanha aprova lei que libera uso restrito de maconha](https://www.nexojornal.com.br/extra/2024/02/23/alemanha-aprova-lei-que-libera-uso-restrito-de-maconha)
 - [Como o caos eleitoral amplia a crise no Paquistão](https://www.nexojornal.com.br/expresso/2024/02/23/como-o-caos-eleitoral-amplia-a-crise-no-paquistao)
 - [Auditoria nacional](https://www.nexojornal.com.br/externo/2024/02/23/auditoria-nacional)
 - [Biden anuncia mais de 500 novas sanções contra a Rússia](https://www.nexojornal.com.br/extra/2024/02/23/biden-anuncia-500-sancoes-contra-russia-navalny)
-- [Como é o acesso a água, esgoto e lixo nos estados brasileiros](https://www.nexojornal.com.br/grafico/2024/02/23/acesso-a-agua-lixo-e-esgoto-no-brasil)
-- [Os estados e cidades em que mais pessoas vivem em apartamentos](https://www.nexojornal.com.br/grafico/2024/02/23/pessoas-em-apartamento-por-estado-e-cidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
