@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como é o acesso a água, esgoto e lixo nos estados brasileiros](https://www.nexojornal.com.br/grafico/2024/02/23/acesso-a-agua-lixo-e-esgoto-no-brasil)
 - [Os estados e cidades em que mais pessoas vivem em apartamentos](https://www.nexojornal.com.br/grafico/2024/02/23/pessoas-em-apartamento-por-estado-e-cidade)
 - [8 dados sobre a educação brasileira pós-pandemia](https://www.nexojornal.com.br/expresso/2024/02/22/8-dados-sobre-a-educacao-brasileira-pos-pandemia)
 - [Como Penha atropela a lei ambiental para ser a ‘Orlando brasileira’](https://www.nexojornal.com.br/externo/2024/02/22/como-penha-atropela-a-lei-ambiental-para-ser-a-orlando-brasileira)
 - [As vítimas da trama sórdida do jogador Daniel Alves](https://www.nexojornal.com.br/colunistas/2024/02/22/as-vitimas-da-trama-sordida-do-jogador-daniel-alves)
-- [Israel realiza novos bombardeios em Rafah](https://www.nexojornal.com.br/extra/2024/02/22/israel-promove-novos-bombardeios-em-rafah)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
