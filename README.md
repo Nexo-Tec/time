@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Linha de Lula afasta chance de concessões ao Sul Global’](https://www.nexojornal.com.br/entrevista/2024/02/23/lula-perde-chance-de-criar-ponte-entre-ocidente-e-sul-global)
-- [Motoboy agredido é indiciado por lesão e desobediência](https://www.nexojornal.com.br/extra/2024/02/23/motoboy-agredido-e-indiciado-por-lesao-e-desobediencia)
-- [‘Enem dos Concursos’ tem mais de 2 milhões de inscritos](https://www.nexojornal.com.br/extra/2024/02/23/enem-dos-concursos-tem-mais-de-2-milhoes-de-inscritos)
-- [Como foi a simulação de uma cirurgia feita por um robô no espaço](https://www.nexojornal.com.br/expresso/2024/02/23/operacao-robo-espaco)
-- [A crise entre Brasil e Israel. Bolsonaro e militares na PF. E mais](https://www.nexojornal.com.br/video/2024/02/23/a-crise-entre-brasil-e-israel-bolsonaro-e-militares-na-pf-e-mais)
+- [‘A arte de driblar destinos’: o prélio de uma família  paranaense](https://www.nexojornal.com.br/estante-trechos/2024/02/24/a-arte-de-driblar-destinos-o-prelio-de-uma-familia-paranaense)
+- [Políticos pagam campanhas nas redes para ato pró-Bolsonaro](https://www.nexojornal.com.br/externo/2024/02/23/politicos-pagam-campanhas-nas-redes-para-ato-pro-bolsonaro)
+- [Como estão Ucrânia e Rússia após dois anos de guerra](https://www.nexojornal.com.br/expresso/2024/02/23/como-estao-ucrania-e-russia-apos-dois-anos-de-guerra)
+- [Serviços básicos, apartamentos e G20: os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/02/23/graficos-da-semana-do-nexo-fim-de-fevereiro)
+- [Qual é o quadro de exploração infantil na Ilha de Marajó](https://www.nexojornal.com.br/expresso/2024/02/23/qual-o-quadro-de-exploracao-infantil-na-ilha-de-marajo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
