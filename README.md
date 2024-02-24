@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Linha de Lula afasta chance de concessões ao Sul Global’](https://www.nexojornal.com.br/entrevista/2024/02/23/lula-perde-chance-de-criar-ponte-entre-ocidente-e-sul-global)
+- [Motoboy agredido é indiciado por lesão e desobediência](https://www.nexojornal.com.br/extra/2024/02/23/motoboy-agredido-e-indiciado-por-lesao-e-desobediencia)
+- [‘Enem dos Concursos’ tem mais de 2 milhões de inscritos](https://www.nexojornal.com.br/extra/2024/02/23/enem-dos-concursos-tem-mais-de-2-milhoes-de-inscritos)
 - [Como foi a simulação de uma cirurgia feita por um robô no espaço](https://www.nexojornal.com.br/expresso/2024/02/23/operacao-robo-espaco)
 - [A crise entre Brasil e Israel. Bolsonaro e militares na PF. E mais](https://www.nexojornal.com.br/video/2024/02/23/a-crise-entre-brasil-e-israel-bolsonaro-e-militares-na-pf-e-mais)
-- [Alemanha aprova lei que libera uso restrito de maconha](https://www.nexojornal.com.br/extra/2024/02/23/alemanha-aprova-lei-que-libera-uso-restrito-de-maconha)
-- [Como o caos eleitoral amplia a crise no Paquistão](https://www.nexojornal.com.br/expresso/2024/02/23/como-o-caos-eleitoral-amplia-a-crise-no-paquistao)
-- [Auditoria nacional](https://www.nexojornal.com.br/externo/2024/02/23/auditoria-nacional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
