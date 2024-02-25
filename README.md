@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Manifestantes se reúnem em São Paulo em ato pró-Bolsonaro](https://www.nexojornal.com.br/extra/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
+- [Em ato, Bolsonaro nega golpismo e pede anistia a presos de 8/1](https://www.nexojornal.com.br/extra/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
 - [O que o explica o superavit das contas da Argentina com Milei](https://www.nexojornal.com.br/expresso/2024/02/24/economia-argentina-milei-superavit)
 - [Como os podcasts ganharam esse nome 20 anos atrás](https://www.nexojornal.com.br/expresso/2024/02/24/como-podcasts-ganharam-esse-nome-20-anos-atras)
 - [5 obras de autoria de quadrinistas do Norte do Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/24/5-obras-de-autoria-de-quadrinistas-do-norte-do-brasil)
