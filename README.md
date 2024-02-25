@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Em ato, Bolsonaro nega golpismo e pede anistia a presos de 8/1](https://www.nexojornal.com.br/extra/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
+- [Zelensky diz que guerra matou 31 mil soldados ucranianos](https://www.nexojornal.com.br/extra/2024/02/25/zelensky-diz-que-guerra-matou-31-mil-soldados-ucranianos)
+- [Em ato, Bolsonaro nega golpismo e pede anistia a presos de 8/1](https://www.nexojornal.com.br/expresso/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
 - [O que o explica o superavit das contas da Argentina com Milei](https://www.nexojornal.com.br/expresso/2024/02/24/economia-argentina-milei-superavit)
 - [Como os podcasts ganharam esse nome 20 anos atrás](https://www.nexojornal.com.br/expresso/2024/02/24/como-podcasts-ganharam-esse-nome-20-anos-atras)
 - [5 obras de autoria de quadrinistas do Norte do Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/24/5-obras-de-autoria-de-quadrinistas-do-norte-do-brasil)
-- [A moral na literatura: uma entrevista com Bernardo Carvalho](https://www.nexojornal.com.br/video/2024/02/24/escritor-de-nove-noites-bernardo-carvalho-fala-sobre-moral-na-literatura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
