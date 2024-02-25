@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Manifestantes se reúnem em São Paulo em ato pró-Bolsonaro](https://www.nexojornal.com.br/extra/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
 - [O que o explica o superavit das contas da Argentina com Milei](https://www.nexojornal.com.br/expresso/2024/02/24/economia-argentina-milei-superavit)
 - [Como os podcasts ganharam esse nome 20 anos atrás](https://www.nexojornal.com.br/expresso/2024/02/24/como-podcasts-ganharam-esse-nome-20-anos-atras)
 - [5 obras de autoria de quadrinistas do Norte do Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/24/5-obras-de-autoria-de-quadrinistas-do-norte-do-brasil)
 - [A moral na literatura: uma entrevista com Bernardo Carvalho](https://www.nexojornal.com.br/video/2024/02/24/escritor-de-nove-noites-bernardo-carvalho-fala-sobre-moral-na-literatura)
-- [A síndrome de Lulu da Pomerânia e a revolução carnavalesca](https://www.nexojornal.com.br/ensaio/2024/02/24/a-sindrome-de-lulu-da-pomerania-e-a-revolucao-carnavalesca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
