@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Motorista que tentou acessar Alvorada errou caminho de casa, diz PF](https://www.nexojornal.com.br/extra/2024/02/24/motorista-que-tentou-acessar-alvorada-errou-caminho-de-casa-diz-pf)
-- [O histórico das manifestações bolsonaristas](https://www.nexojornal.com.br/expresso/2024/02/24/o-historico-das-manifestacoes-bolsonaristas)
-- [Filme sobre arte saqueada leva maior prêmio de Berlim](https://www.nexojornal.com.br/extra/2024/02/24/dahomey-festival-de-berlim-arte-roubada-africa)
-- [Como Hayao Miyazaki mantém a animação 2D viva no cinema](https://www.nexojornal.com.br/expresso/2024/02/24/como-hayao-miyazaki-mantem-a-animacao-2d-viva-no-cinema)
-- [‘A arte de driblar destinos’: o prélio de uma família paranaense](https://www.nexojornal.com.br/estante-trechos/2024/02/24/a-arte-de-driblar-destinos-o-prelio-de-uma-familia-paranaense)
+- [O que o explica o superavit das contas da Argentina com Milei](https://www.nexojornal.com.br/expresso/2024/02/24/economia-argentina-milei-superavit)
+- [Como os podcasts ganharam esse nome 20 anos atrás](https://www.nexojornal.com.br/expresso/2024/02/24/como-podcasts-ganharam-esse-nome-20-anos-atras)
+- [5 obras de autoria de quadrinistas do Norte do Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/24/5-obras-de-autoria-de-quadrinistas-do-norte-do-brasil)
+- [A moral na literatura: uma entrevista com Bernardo Carvalho](https://www.nexojornal.com.br/video/2024/02/24/escritor-de-nove-noites-bernardo-carvalho-fala-sobre-moral-na-literatura)
+- [A síndrome de Lulu da Pomerânia e a revolução carnavalesca](https://www.nexojornal.com.br/ensaio/2024/02/24/a-sindrome-de-lulu-da-pomerania-e-a-revolucao-carnavalesca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
