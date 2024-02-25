@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Motorista que tentou acessar Alvorada errou caminho de casa, diz PF](https://www.nexojornal.com.br/extra/2024/02/24/motorista-que-tentou-acessar-alvorada-errou-caminho-de-casa-diz-pf)
+- [O histórico das manifestações bolsonaristas](https://www.nexojornal.com.br/expresso/2024/02/24/o-historico-das-manifestacoes-bolsonaristas)
 - [Filme sobre arte saqueada leva maior prêmio de Berlim](https://www.nexojornal.com.br/extra/2024/02/24/dahomey-festival-de-berlim-arte-roubada-africa)
 - [Como Hayao Miyazaki mantém a animação 2D viva no cinema](https://www.nexojornal.com.br/expresso/2024/02/24/como-hayao-miyazaki-mantem-a-animacao-2d-viva-no-cinema)
 - [‘A arte de driblar destinos’: o prélio de uma família paranaense](https://www.nexojornal.com.br/estante-trechos/2024/02/24/a-arte-de-driblar-destinos-o-prelio-de-uma-familia-paranaense)
-- [Políticos pagam campanhas nas redes para ato pró-Bolsonaro](https://www.nexojornal.com.br/externo/2024/02/23/politicos-pagam-campanhas-nas-redes-para-ato-pro-bolsonaro)
-- [Como estão Ucrânia e Rússia após dois anos de guerra](https://www.nexojornal.com.br/expresso/2024/02/23/como-estao-ucrania-e-russia-apos-dois-anos-de-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
