@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Zelensky diz que guerra matou 31 mil soldados ucranianos](https://www.nexojornal.com.br/extra/2024/02/25/zelensky-diz-que-guerra-matou-31-mil-soldados-ucranianos)
-- [Em ato, Bolsonaro nega golpismo e pede anistia a presos de 8/1](https://www.nexojornal.com.br/expresso/2024/02/25/manifestacao-de-jair-bolsonaro-em-sao-paulo)
-- [O que o explica o superavit das contas da Argentina com Milei](https://www.nexojornal.com.br/expresso/2024/02/24/economia-argentina-milei-superavit)
-- [Como os podcasts ganharam esse nome 20 anos atrás](https://www.nexojornal.com.br/expresso/2024/02/24/como-podcasts-ganharam-esse-nome-20-anos-atras)
-- [5 obras de autoria de quadrinistas do Norte do Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/02/24/5-obras-de-autoria-de-quadrinistas-do-norte-do-brasil)
+- [Como o sionismo se insere na definição de nacionalismo](https://www.nexojornal.com.br/ensaio/2024/02/25/como-o-sionismo-se-insere-na-definicao-de-nacionalismo)
+- [As iniciativas que levam o slam para escolas](https://www.nexojornal.com.br/externo/2024/02/25/as-iniciativas-que-levam-o-slam-para-escolas)
+- [Os influenciadores que mostram como é a vida com doenças terminais](https://www.nexojornal.com.br/expresso/2024/02/25/os-influenciadores-que-mostram-como-e-a-vida-com-doencas-terminais)
+- [O que o Supremo pode decidir sobre a uberização do trabalho](https://www.nexojornal.com.br/expresso/2024/02/25/o-que-o-supremo-pode-decidir-sobre-a-uberizacao-do-trabalho)
+- [Como frear a alta de mortes no território Yanomami](https://www.nexojornal.com.br/expresso/2024/02/25/mortes-yanomami-como-frear)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
