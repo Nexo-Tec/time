@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Primeiro-ministro da Autoridade Palestina renuncia ao cargo](https://www.nexojornal.com.br/extra/2024/02/26/primeiro-ministro-da-autoridade-palestina-renuncia)
 - [Como o sionismo se insere na definição de nacionalismo](https://www.nexojornal.com.br/ensaio/2024/02/25/como-o-sionismo-se-insere-na-definicao-de-nacionalismo)
 - [As iniciativas que levam o slam para escolas](https://www.nexojornal.com.br/externo/2024/02/25/as-iniciativas-que-levam-o-slam-para-escolas)
 - [Os influenciadores que mostram como é a vida com doenças terminais](https://www.nexojornal.com.br/expresso/2024/02/25/os-influenciadores-que-mostram-como-e-a-vida-com-doencas-terminais)
 - [O que o Supremo pode decidir sobre a uberização do trabalho](https://www.nexojornal.com.br/expresso/2024/02/25/o-que-o-supremo-pode-decidir-sobre-a-uberizacao-do-trabalho)
-- [Como frear a alta de mortes no território Yanomami](https://www.nexojornal.com.br/expresso/2024/02/25/mortes-yanomami-como-frear)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
