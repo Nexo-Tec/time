@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que a avaliação de políticas públicas deveria estar mais presente no debate eleitoral](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/26/por-que-a-avaliacao-de-politicas-publicas-deveria-estar-presente-no-debate-eleitoral/)
 - [Como avançar de verdade no próximo Plano Nacional de Educação](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/21/avancar-proximo-plano-nacional-de-educacao/)
 - [Quantos estabelecimentos religiosos existem no Brasil? O tamanho institucional da religião no Censo do IBGE](https://pp.nexojornal.com.br/opiniao/2024/02/21/quantos-estabelecimentos-religiosos-existem-no-brasil-religiao-censo-ibge/)
 - [Novas tecnologias, antigos interesses: sistema de reconhecimento facial e genocídio negro na Bahia](https://pp.nexojornal.com.br/opiniao/2024/02/16/novas-tecnologias-antigos-interesses-sistema-de-reconhecimento-facial-e-genocidio-negro-na-bahia/)
 - [O impacto da tecnologia digital em políticas públicas educacionais](https://pp.nexojornal.com.br/linha-do-tempo/2024/02/16/o-impacto-da-tecnologia-digital-em-politicas-publicas-educacionais/)
-- [Saúde e trabalho: novos tempos, novos paradigmas](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/16/saude-e-trabalho-novos-tempos-novos-paradigmas/)
 <!-- PP_LIST:END -->
 
