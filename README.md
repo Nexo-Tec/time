@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Acre entra em estado de emergência após enchentes](https://www.nexojornal.com.br/extra/2024/02/26/acre-entra-em-estado-de-emergencia-apos-enchentes)
 - [Como o ato de defesa de Bolsonaro repercutiu no exterior](https://www.nexojornal.com.br/expresso/2024/02/26/manifestacao-pro-bolsonaro-repercussao-internacional)
 - [Programa federal tenta aproveitar prédios públicos abandonados](https://www.nexojornal.com.br/extra/2024/02/26/governo-federal-anuncia-programa-para-aproveitar-predios-publicos-abandonados)
 - [Primeiro-ministro da Autoridade Palestina renuncia ao cargo](https://www.nexojornal.com.br/extra/2024/02/26/primeiro-ministro-da-autoridade-palestina-renuncia)
 - [Como o sionismo se insere na definição de nacionalismo](https://www.nexojornal.com.br/ensaio/2024/02/25/como-o-sionismo-se-insere-na-definicao-de-nacionalismo)
-- [As iniciativas que levam o slam para escolas](https://www.nexojornal.com.br/externo/2024/02/25/as-iniciativas-que-levam-o-slam-para-escolas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
