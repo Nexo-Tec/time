@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Raça e racismo](https://pp.nexojornal.com.br/bibliografia-basica/2024/02/26/raca-e-racismo/)
 - [Tecnologia e disparidades salariais](https://pp.nexojornal.com.br/bibliografia-basica/2024/02/26/tecnologia-e-disparidades-salariais/)
 - [Canção para ninar menino grande, uma história sobre masculinidade?](https://pp.nexojornal.com.br/opiniao/2024/02/26/conceicao-evaristo-cancao-para-ninar-menino-grande-uma-historia-sobre-masculinidade/)
 - [Por que a avaliação de políticas públicas deveria estar mais presente no debate eleitoral](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/26/por-que-a-avaliacao-de-politicas-publicas-deveria-estar-presente-no-debate-eleitoral/)
 - [Como avançar de verdade no próximo Plano Nacional de Educação](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/21/avancar-proximo-plano-nacional-de-educacao/)
-- [Quantos estabelecimentos religiosos existem no Brasil? O tamanho institucional da religião no Censo do IBGE](https://pp.nexojornal.com.br/opiniao/2024/02/21/quantos-estabelecimentos-religiosos-existem-no-brasil-religiao-censo-ibge/)
 <!-- PP_LIST:END -->
 
