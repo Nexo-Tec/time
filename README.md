@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Megaoperação policial em comunidades do Rio deixa 7 mortos](https://www.nexojornal.com.br/extra/2024/02/27/operacao-policial-no-rio-de-janeiro-mira-comando-vermelho)
+- [Faustão passa por transplante de rim em São Paulo](https://www.nexojornal.com.br/extra/2024/02/27/faustao-transplante-de-rim)
+- [Megaoperação policial em comunidades do Rio deixa 9 mortos](https://www.nexojornal.com.br/extra/2024/02/27/operacao-policial-no-rio-de-janeiro-mira-comando-vermelho)
 - [Antas ‘avisam’ sobre contaminação humana por agrotóxicos](https://www.nexojornal.com.br/externo/2024/02/26/antas-avisam-sobre-contaminacao-humana-por-agrotoxicos)
 - [As fraudes acadêmicas na China. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2024/02/26/fraude-pesquisa-academica-china-e-brasil)
 - [Qual o espaço para uma direita moderada no Brasil](https://www.nexojornal.com.br/expresso/2024/02/26/politica-brasil-direita-moderada)
-- [Da URV ao real: você conhece o dinheiro que usa?](https://www.nexojornal.com.br/interativo/2024/02/26/teste-dinheiro-da-urv-ao-real)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
