@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Antas ‘avisam’ sobre contaminação humana por agrotóxicos](https://www.nexojornal.com.br/externo/2024/02/26/antas-avisam-sobre-contaminacao-humana-por-agrotoxicos)
+- [As fraudes acadêmicas na China. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2024/02/26/fraude-pesquisa-academica-china-e-brasil)
+- [Qual o espaço para uma direita moderada no Brasil](https://www.nexojornal.com.br/expresso/2024/02/26/politica-brasil-direita-moderada)
+- [Da URV ao real: você conhece o dinheiro que usa?](https://www.nexojornal.com.br/interativo/2024/02/26/teste-dinheiro-da-urv-ao-real)
 - [Suécia entra na Otan. Veja o tamanho do bloco na Europa](https://www.nexojornal.com.br/grafico/2024/02/26/otan-paises-membros-suecia)
-- [STF dá prazo para renegociação de acordos da Lava Jato](https://www.nexojornal.com.br/extra/2024/02/26/supremo-da-60-dias-para-renegociacao-de-acordos-de-leniencia-da-lava-jato)
-- [É hora de discutir o impacto da ação humana na Lua](https://www.nexojornal.com.br/externo/2024/02/26/e-hora-de-discutir-o-impacto-da-acao-humana-na-lua)
-- [O destino de Julian Assange nas mãos da Justiça britânica](https://www.nexojornal.com.br/podcast/2024/02/26/julian-assange-julgamento-justica-britanica)
-- [A digitalização da biblioteca completa de Charles Darwin](https://www.nexojornal.com.br/expresso/2024/02/26/a-digitalizacao-da-biblioteca-completa-de-charles-darwin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
