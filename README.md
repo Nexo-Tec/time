@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carol Biazin](https://gamarevista.uol.com.br/pessoas/questionario-proust/carol-biazin/)
+- [@lilygladstone](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lilygladstone/)
 - [Luciana Saddi: “Procure saber quando você está realmente com vontade de beber”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luciana-saddi-procure-saber-quando-voce-esta-realmente-com-vontade-de-beber/)
 - [Mãe de suposto bandido se apresenta como “mamãe” para o filho, em público, desafiando a farsa dos direitos humanos](https://gamarevista.uol.com.br/colunistas/marilene-felinto/mae-de-suposto-bandido-se-apresenta-como-mamae-para-o-filho-em-publico-desafiando-a-farsa-dos-direitos-humanos/)
 - [Estrela da Manhã](https://gamarevista.uol.com.br/cultura/trecho-de-livro/estrela-da-manha/)
-- [“Levante”, filme nacional sobre aborto, premiado em Cannes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/levante-filme-nacional-sobre-aborto-premiado-em-cannes/)
-- [Histórias da diversidade LGBTQIA+ no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-da-diversidade-lgbtqia-no-masp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
