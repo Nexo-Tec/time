@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como David Zaslav se tornou o ‘grande vilão’ de Hollywood](https://www.nexojornal.com.br/expresso/2024/02/27/como-david-zaslav-se-tornou-o-grande-vilao-de-hollywood)
 - [Por que bancos russos lucram tanto mesmo sob sanções](https://www.nexojornal.com.br/expresso/2024/02/27/bancos-russos-lucro-recorde)
 - [A escola os ensinou sobre crise do clima. Eles salvaram vidas](https://www.nexojornal.com.br/externo/2024/02/27/a-escola-os-ensinou-sobre-crise-do-clima-eles-salvaram-vidas)
 - [Faustão passa por transplante de rim em São Paulo](https://www.nexojornal.com.br/extra/2024/02/27/faustao-transplante-de-rim)
 - [Megaoperação policial em comunidades do Rio deixa 9 mortos](https://www.nexojornal.com.br/extra/2024/02/27/operacao-policial-no-rio-de-janeiro-mira-comando-vermelho)
-- [Antas ‘avisam’ sobre contaminação humana por agrotóxicos](https://www.nexojornal.com.br/externo/2024/02/26/antas-avisam-sobre-contaminacao-humana-por-agrotoxicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
