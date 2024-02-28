@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Uma taxa global para bilionários? A ideia de Haddad para o G20](https://www.nexojornal.com.br/podcast/2024/02/28/g20-proposta-haddad-taxar-bilionarios)
 - [Lula evita crítica frontal a golpe de 64. Entidades reagem](https://www.nexojornal.com.br/extra/2024/02/28/lula-evita-criticar-militares)
 - [Por que existe ano bissexto. E por que ele afeta fevereiro](https://www.nexojornal.com.br/expresso/2024/02/28/2024-e-ano-bissexto-significado)
 - [Maranhão é estado com menor renda per capita. Veja lista](https://www.nexojornal.com.br/extra/2024/02/28/ranking-renda-per-capita-por-estado-brasil)
 - [Brasil se prepara para produzir combustível sustentável de aviação](https://www.nexojornal.com.br/externo/2024/02/28/brasil-se-prepara-para-produzir-combustivel-sustentavel-de-aviacao)
-- [Operação na Baixada Santista deixa 38 mortos só em fevereiro](https://www.nexojornal.com.br/extra/2024/02/28/mortos-operacao-policia-baixada-santista-fevereiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
