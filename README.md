@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sonda japonesa acorda inesperadamente e envia imagem da Lua](https://www.nexojornal.com.br/extra/2024/02/27/sonda-japonesa-acorda-inesperadamente-e-envia-imagem-da-lua)
+- [Como a altitude afeta o desempenho esportivo](https://www.nexojornal.com.br/expresso/2024/02/27/como-altitude-afeta-desempenho-esportivo)
 - [Como as ações policiais interrompem o cotidiano escolar](https://www.nexojornal.com.br/podcast/2024/02/27/efeitos-acoes-policiais-no-cotidiano-das-escolas)
 - [Como David Zaslav se tornou o ‘grande vilão’ de Hollywood](https://www.nexojornal.com.br/expresso/2024/02/27/como-david-zaslav-se-tornou-o-grande-vilao-de-hollywood)
 - [Por que bancos russos lucram tanto mesmo sob sanções](https://www.nexojornal.com.br/expresso/2024/02/27/bancos-russos-lucro-recorde)
-- [A escola os ensinou sobre crise do clima. Eles salvaram vidas](https://www.nexojornal.com.br/externo/2024/02/27/a-escola-os-ensinou-sobre-crise-do-clima-eles-salvaram-vidas)
-- [Faustão passa por transplante de rim em São Paulo](https://www.nexojornal.com.br/extra/2024/02/27/faustao-transplante-de-rim)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
