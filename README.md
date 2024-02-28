@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil se prepara para produzir combustível sustentável de aviação](https://www.nexojornal.com.br/externo/2024/02/28/brasil-se-prepara-para-produzir-combustivel-sustentavel-de-aviacao)
 - [Operação na Baixada Santista deixa 38 mortos só em fevereiro](https://www.nexojornal.com.br/extra/2024/02/28/mortos-operacao-policia-baixada-santista-fevereiro)
 - [Condenado por morte de Chico Mendes comanda PL em cidade](https://www.nexojornal.com.br/externo/2024/02/28/condenado-assassinato-chico-mendes-presidencia-pl-para)
 - [Como o deficit de polícia impacta a segurança pública](https://www.nexojornal.com.br/expresso/2024/02/27/como-deficit-de-policia-impacta-a-seguranca-publica)
 - [Lula recua e mantém benefício fiscal na folha de empresas](https://www.nexojornal.com.br/extra/2024/02/27/lula-revoga-reoneracao-folha-pagamento-empresas)
-- [O que são sobras eleitorais, tema de julgamento no STF](https://www.nexojornal.com.br/expresso/2024/02/27/o-que-sao-sobras-eleitorais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
