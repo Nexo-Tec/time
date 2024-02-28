@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que são sobras eleitorais, tema de julgamento no STF](https://www.nexojornal.com.br/expresso/2024/02/27/o-que-sao-sobras-eleitorais)
+- [Como soldados israelenses usam as redes na invasão de Gaza](https://www.nexojornal.com.br/expresso/2024/02/27/como-soldados-israelenses-usam-as-redes-na-invasao-de-gaza)
+- [6 estados e DF decretam emergência por causa da dengue](https://www.nexojornal.com.br/extra/2024/02/27/estados-emergencia-dengue)
 - [Sonda japonesa acorda inesperadamente e envia imagem da Lua](https://www.nexojornal.com.br/extra/2024/02/27/sonda-japonesa-acorda-inesperadamente-e-envia-imagem-da-lua)
 - [Como a altitude afeta o desempenho esportivo](https://www.nexojornal.com.br/expresso/2024/02/27/como-altitude-afeta-desempenho-esportivo)
-- [Como as ações policiais interrompem o cotidiano escolar](https://www.nexojornal.com.br/podcast/2024/02/27/efeitos-acoes-policiais-no-cotidiano-das-escolas)
-- [Como David Zaslav se tornou o ‘grande vilão’ de Hollywood](https://www.nexojornal.com.br/expresso/2024/02/27/como-david-zaslav-se-tornou-o-grande-vilao-de-hollywood)
-- [Por que bancos russos lucram tanto mesmo sob sanções](https://www.nexojornal.com.br/expresso/2024/02/27/bancos-russos-lucro-recorde)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
