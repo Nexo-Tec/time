@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Condenado por morte de Chico Mendes comanda PL em cidade](https://www.nexojornal.com.br/externo/2024/02/28/condenado-assassinato-chico-mendes-presidencia-pl-para)
 - [Como o deficit de polícia impacta a segurança pública](https://www.nexojornal.com.br/expresso/2024/02/27/como-deficit-de-policia-impacta-a-seguranca-publica)
 - [Lula recua e mantém benefício fiscal na folha de empresas](https://www.nexojornal.com.br/extra/2024/02/27/lula-revoga-reoneracao-folha-pagamento-empresas)
 - [O que são sobras eleitorais, tema de julgamento no STF](https://www.nexojornal.com.br/expresso/2024/02/27/o-que-sao-sobras-eleitorais)
 - [Como soldados israelenses usam as redes na invasão de Gaza](https://www.nexojornal.com.br/expresso/2024/02/27/como-soldados-israelenses-usam-as-redes-na-invasao-de-gaza)
-- [6 estados e DF decretam emergência por causa da dengue](https://www.nexojornal.com.br/extra/2024/02/27/estados-emergencia-dengue)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
