@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Brasil recebeu o ato de Bolsonaro na Paulista](https://www.nexojornal.com.br/expresso/2024/02/28/como-brasil-recebeu-ato-bolsonaro-na-paulista)
+- [Por que é tão difícil acabar com a desoneração da folha](https://www.nexojornal.com.br/expresso/2024/02/28/como-funciona-a-desoneracao-da-folha)
 - [Viva Oppenheimer! Pobre Oppenheimer! Força, Oppenheimer!](https://www.nexojornal.com.br/colunistas/2024/02/28/oppenheimer-zona-de-interesse-oscar-2024)
 - [Como o extremismo religioso conduz a história de ‘Duna 2’](https://www.nexojornal.com.br/expresso/2024/02/28/filme-duna-2-e-o-extremismo-religioso)
 - [Uma taxa global para bilionários? A ideia de Haddad para o G20](https://www.nexojornal.com.br/podcast/2024/02/28/g20-proposta-haddad-taxar-bilionarios)
-- [Lula evita crítica frontal a golpe de 64. Entidades reagem](https://www.nexojornal.com.br/extra/2024/02/28/lula-evita-criticar-militares)
-- [Por que existe ano bissexto. E por que ele afeta fevereiro](https://www.nexojornal.com.br/expresso/2024/02/28/2024-e-ano-bissexto-significado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
