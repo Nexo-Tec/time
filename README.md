@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Stênio Gardel](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-stenio-gardel/)
-- [Carol Biazin](https://gamarevista.uol.com.br/pessoas/questionario-proust/carol-biazin/)
-- [@lilygladstone](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lilygladstone/)
-- [Luciana Saddi, sobre álcool: “Procure saber quando você está realmente com vontade de beber”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luciana-saddi-procure-saber-quando-voce-esta-realmente-com-vontade-de-beber/)
-- [Mãe de suposto bandido se apresenta como “mamãe” para o filho, em público, desafiando a farsa dos direitos humanos](https://gamarevista.uol.com.br/colunistas/marilene-felinto/mae-de-suposto-bandido-se-apresenta-como-mamae-para-o-filho-em-publico-desafiando-a-farsa-dos-direitos-humanos/)
+- [Branca Vianna faz a “Anatomia de uma Outra Queda”](https://gamarevista.uol.com.br/achamos-que-vale/ler/branca-vianna-faz-a-anatomia-de-uma-outra-queda/)
+- [Camila Fremder e Bookster em “E os Namoradinhos?”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/camila-fremder-e-bookster-em-e-os-namoradinhos/)
+- [Playlist de Caetano em Outras Línguas](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlist-de-caetano-em-outras-linguas/)
+- [Chalamet e Zendaya em “Duna 2”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/chalamet-e-zendaya-em-duna-2/)
+- [“Negros na Piscina”, raça e arte contemporânea](https://gamarevista.uol.com.br/achamos-que-vale/ler/negros-na-piscina-raca-e-arte-contemporanea/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
