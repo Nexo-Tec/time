@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cerco a empresários suspeitos de bancar a trama golpista](https://www.nexojornal.com.br/expresso/2024/02/29/o-cerco-empresarios-suspeitos-de-bancar-trama-golpista)
 - [Casos de dengue no Brasil chegam a 1 milhão em 2024](https://www.nexojornal.com.br/extra/2024/02/29/casos-de-dengue-no-brasil-chegam-a-1-milhao-em-2024)
 - [O perigo de ver tudo enquadrado &lpar;ou em quadrados&rpar;](https://www.nexojornal.com.br/colunistas/2024/02/29/o-perigo-de-ver-tudo-enquadrado-ou-em-quadrados)
 - [Por que está difícil reverter o viés autocrático na Polônia](https://www.nexojornal.com.br/expresso/2024/02/29/politica-na-polonia-periodo-autocratico)
 - [Os partidos dos deputados do pedido de impeachment de Lula](https://www.nexojornal.com.br/grafico/2024/02/29/lula-impeachment-partido-dos-deputados)
-- [Como games violentos ajudam a desestressar, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/02/29/como-games-violentos-ajudam-a-desestressar-segundo-este-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
