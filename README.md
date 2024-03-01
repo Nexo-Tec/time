@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel promove ‘situação intolerável’ em Gaza, diz Itamaraty](https://www.nexojornal.com.br/extra/2024/03/01/israel-promove-situacao-intoleravel-em-gaza-diz-itamaraty)
 - [Agro bate recorde e economia brasileira cresce 2,9% em 2023](https://www.nexojornal.com.br/extra/2024/03/01/pib-brasil-2023-agro)
 - [O que é PIB, o Produto Interno Bruto de um país](https://www.nexojornal.com.br/index/2024/03/01/pib-o-que-e)
 - [O cerco a empresários suspeitos de bancar a trama golpista](https://www.nexojornal.com.br/expresso/2024/02/29/o-cerco-empresarios-suspeitos-de-bancar-trama-golpista)
 - [Casos de dengue no Brasil chegam a 1 milhão em 2024](https://www.nexojornal.com.br/extra/2024/02/29/casos-de-dengue-no-brasil-chegam-a-1-milhao-em-2024)
-- [O perigo de ver tudo enquadrado &lpar;ou em quadrados&rpar;](https://www.nexojornal.com.br/colunistas/2024/02/29/o-perigo-de-ver-tudo-enquadrado-ou-em-quadrados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
