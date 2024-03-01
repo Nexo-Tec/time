@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Relator vota para absolver militares por morte de Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/03/01/relator-vota-para-absolver-militares-por-morte-de-evaldo-rosa)
 - [As características do trabalho terceirizado de mulheres no Brasil](https://www.nexojornal.com.br/academico/2024/03/01/as-caracteristicas-do-trabalho-terceirizado-de-mulheres-no-brasil)
 - [Israel promove ‘situação intolerável’ em Gaza, diz Itamaraty](https://www.nexojornal.com.br/extra/2024/03/01/israel-promove-situacao-intoleravel-em-gaza-diz-itamaraty)
 - [Agro bate recorde e economia brasileira cresce 2,9% em 2023](https://www.nexojornal.com.br/extra/2024/03/01/pib-brasil-2023-agro)
 - [O que é PIB, o Produto Interno Bruto de um país](https://www.nexojornal.com.br/index/2024/03/01/pib-o-que-e)
-- [O cerco a empresários suspeitos de bancar a trama golpista](https://www.nexojornal.com.br/expresso/2024/02/29/o-cerco-empresarios-suspeitos-de-bancar-trama-golpista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
