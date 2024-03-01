@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Casos de dengue no Brasil chegam a 1 milhão em 2024](https://www.nexojornal.com.br/extra/2024/02/29/casos-de-dengue-no-brasil-chegam-a-1-milhao-em-2024)
+- [O perigo de ver tudo enquadrado &lpar;ou em quadrados&rpar;](https://www.nexojornal.com.br/colunistas/2024/02/29/o-perigo-de-ver-tudo-enquadrado-ou-em-quadrados)
+- [Por que está difícil reverter o viés autocrático na Polônia](https://www.nexojornal.com.br/expresso/2024/02/29/politica-na-polonia-periodo-autocratico)
+- [Os partidos dos deputados do pedido de impeachment de Lula](https://www.nexojornal.com.br/grafico/2024/02/29/lula-impeachment-partido-dos-deputados)
 - [Como games violentos ajudam a desestressar, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/02/29/como-games-violentos-ajudam-a-desestressar-segundo-este-estudo)
-- [A ameaça nuclear de Putin. E os riscos de um armageddon](https://www.nexojornal.com.br/podcast/2024/02/29/putin-russia-ameaca-nuclear)
-- [Hamas acusa Israel de disparar contra civis em fila de comida](https://www.nexojornal.com.br/extra/2024/02/29/mais-de-100-morrem-em-gaza-em-fila-de-comida)
-- [A mutação genética que tirou a cauda dos humanos](https://www.nexojornal.com.br/externo/2024/02/29/mutacao-genetica-que-tirou-cauda-humanos)
-- [PF prende 3 em ação contra suspeitos de financiar 8 de janeiro](https://www.nexojornal.com.br/extra/2024/02/29/operacao-lesa-patria-pf-financiar-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
