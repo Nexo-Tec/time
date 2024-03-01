@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que os carros de Fórmula 1 estão perdendo a cor](https://www.nexojornal.com.br/expresso/2024/03/01/por-que-os-carros-de-formula-1-estao-perdendo-a-cor)
+- [Qual foi o papel do governo Lula na alta do PIB em 2023](https://www.nexojornal.com.br/expresso/2024/03/01/pib-brasil-2023-governo-lula)
+- [Musk processa OpenAI e Sam Altman por aliança com Microsoft](https://www.nexojornal.com.br/extra/2024/03/01/musk-processa-openai-e-sam-altman-por-alianca-com-microsoft)
+- [O ato de Bolsonaro. Os 30 mil mortos na Faixa de Gaza. E mais](https://www.nexojornal.com.br/video/2024/03/01/bolsonaro-25-02-e-mortes-na-faixa-de-gaza)
 - [Relator vota para absolver militares por morte de Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/03/01/relator-vota-para-absolver-militares-por-morte-de-evaldo-rosa)
-- [As características do trabalho terceirizado de mulheres no Brasil](https://www.nexojornal.com.br/academico/2024/03/01/as-caracteristicas-do-trabalho-terceirizado-de-mulheres-no-brasil)
-- [Israel promove ‘situação intolerável’ em Gaza, diz Itamaraty](https://www.nexojornal.com.br/extra/2024/03/01/israel-promove-situacao-intoleravel-em-gaza-diz-itamaraty)
-- [Agro bate recorde e economia brasileira cresce 2,9% em 2023](https://www.nexojornal.com.br/extra/2024/03/01/pib-brasil-2023-agro)
-- [O que é PIB, o Produto Interno Bruto de um país](https://www.nexojornal.com.br/index/2024/03/01/pib-o-que-e)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
