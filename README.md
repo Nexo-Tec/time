@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Belos Fracassados](https://gamarevista.uol.com.br/cultura/trecho-de-livro/belos-fracassados/)
 - [Branca Vianna faz a “Anatomia de uma Outra Queda”](https://gamarevista.uol.com.br/achamos-que-vale/ler/branca-vianna-faz-a-anatomia-de-uma-outra-queda/)
 - [Camila Fremder e Bookster em “E os Namoradinhos?”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/camila-fremder-e-bookster-em-e-os-namoradinhos/)
 - [Playlist de Caetano em Outras Línguas](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/playlist-de-caetano-em-outras-linguas/)
 - [Chalamet e Zendaya em “Duna 2”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/chalamet-e-zendaya-em-duna-2/)
-- [“Negros na Piscina”, raça e arte contemporânea](https://gamarevista.uol.com.br/achamos-que-vale/ler/negros-na-piscina-raca-e-arte-contemporanea/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
