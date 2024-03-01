@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como games violentos ajudam a desestressar, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/02/29/como-games-violentos-ajudam-a-desestressar-segundo-este-estudo)
+- [A ameaça nuclear de Putin. E os riscos de um armageddon](https://www.nexojornal.com.br/podcast/2024/02/29/putin-russia-ameaca-nuclear)
 - [Hamas acusa Israel de disparar contra civis em fila de comida](https://www.nexojornal.com.br/extra/2024/02/29/mais-de-100-morrem-em-gaza-em-fila-de-comida)
 - [A mutação genética que tirou a cauda dos humanos](https://www.nexojornal.com.br/externo/2024/02/29/mutacao-genetica-que-tirou-cauda-humanos)
 - [PF prende 3 em ação contra suspeitos de financiar 8 de janeiro](https://www.nexojornal.com.br/extra/2024/02/29/operacao-lesa-patria-pf-financiar-8-de-janeiro)
-- [‘A justiça ainda não foi feita’, diz viúva do músico Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/02/29/a-justica-ainda-nao-foi-feita-diz-viuva-do-musico-evaldo-rosa)
-- [Como o Brasil recebeu o ato de Bolsonaro na Paulista](https://www.nexojornal.com.br/expresso/2024/02/28/como-brasil-recebeu-ato-bolsonaro-na-paulista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
