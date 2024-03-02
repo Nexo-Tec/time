@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O playground de gatos à espera de adoção na China](https://www.nexojornal.com.br/expresso/2024/03/01/playground-gatos-china)
+- [‘Novas cartas portuguesas’: um pontapé nos ditadores](https://www.nexojornal.com.br/estante-trechos/2024/03/01/novas-cartas-portuguesas-um-pontape-nos-ditadores)
+- [Rio confirma primeiro caso de febre oropouche no estado](https://www.nexojornal.com.br/extra/2024/03/01/febre-oropouchee-no-rio-de-janeiro)
+- [A trajetória de mulheres que criaram artefatos têxteis no país](https://www.nexojornal.com.br/externo/2024/03/01/a-trajetoria-de-mulheres-que-criaram-artefatos-texteis-no-pais)
 - [Por que os carros de Fórmula 1 estão perdendo a cor](https://www.nexojornal.com.br/expresso/2024/03/01/por-que-os-carros-de-formula-1-estao-perdendo-a-cor)
-- [Qual foi o papel do governo Lula na alta do PIB em 2023](https://www.nexojornal.com.br/expresso/2024/03/01/pib-brasil-2023-governo-lula)
-- [Musk processa OpenAI e Sam Altman por aliança com Microsoft](https://www.nexojornal.com.br/extra/2024/03/01/musk-processa-openai-e-sam-altman-por-alianca-com-microsoft)
-- [O ato de Bolsonaro. Os 30 mil mortos na Faixa de Gaza. E mais](https://www.nexojornal.com.br/video/2024/03/01/bolsonaro-25-02-e-mortes-na-faixa-de-gaza)
-- [Relator vota para absolver militares por morte de Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/03/01/relator-vota-para-absolver-militares-por-morte-de-evaldo-rosa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
