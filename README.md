@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Sul Global não pode abrir mão de pressão por mudança’](https://www.nexojornal.com.br/entrevista/2024/03/02/sul-global-nao-pode-abrir-mao-de-pressionar-por-mudancas)
 - [O playground de gatos à espera de adoção na China](https://www.nexojornal.com.br/expresso/2024/03/01/playground-gatos-china)
 - [‘Novas cartas portuguesas’: um pontapé nos ditadores](https://www.nexojornal.com.br/estante-trechos/2024/03/01/novas-cartas-portuguesas-um-pontape-nos-ditadores)
 - [Rio confirma primeiro caso de febre oropouche no estado](https://www.nexojornal.com.br/extra/2024/03/01/febre-oropouchee-no-rio-de-janeiro)
 - [A trajetória de mulheres que criaram artefatos têxteis no país](https://www.nexojornal.com.br/externo/2024/03/01/a-trajetoria-de-mulheres-que-criaram-artefatos-texteis-no-pais)
-- [Por que os carros de Fórmula 1 estão perdendo a cor](https://www.nexojornal.com.br/expresso/2024/03/01/por-que-os-carros-de-formula-1-estao-perdendo-a-cor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
