@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Globo desclassifica Wanessa Camargo do BBB24](https://www.nexojornal.com.br/extra/2024/03/02/wanessa-camargo-expulsa-bbb24)
 - [‘Piores medos viraram realidade’ com fome em Gaza, diz ONU](https://www.nexojornal.com.br/extra/2024/03/02/gaza-quadro-fome-desnutricao-onu)
 - [‘Sul Global não pode abrir mão de pressão por mudança’](https://www.nexojornal.com.br/entrevista/2024/03/02/sul-global-nao-pode-abrir-mao-de-pressionar-por-mudancas)
 - [O playground de gatos à espera de adoção na China](https://www.nexojornal.com.br/expresso/2024/03/01/playground-gatos-china)
 - [‘Novas cartas portuguesas’: um pontapé nos ditadores](https://www.nexojornal.com.br/estante-trechos/2024/03/01/novas-cartas-portuguesas-um-pontape-nos-ditadores)
-- [Rio confirma primeiro caso de febre oropouche no estado](https://www.nexojornal.com.br/extra/2024/03/01/febre-oropouchee-no-rio-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
