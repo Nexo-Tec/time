@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o interesse russo na Transnístria, região da Moldávia](https://www.nexojornal.com.br/expresso/2024/03/03/transnistria-regiao-na-moldavia-russia)
+- [‘Só entra autoajuda e Bíblia’: prisões barram livros para detentos](https://www.nexojornal.com.br/externo/2024/03/03/proibicao-livros-prisoes-detentos)
 - [Como o combate às desigualdades raciais pode mudar a educação](https://www.nexojornal.com.br/ensaio/2024/03/03/como-o-combate-as-desigualdades-raciais-pode-mudar-a-educacao)
 - [Como se faz café sem cafeína](https://www.nexojornal.com.br/expresso/2024/03/03/cafe-sem-cafeina-como-fazer-descafeinado)
 - [Quais filmes mais passaram em 50 anos de Sessão da Tarde](https://www.nexojornal.com.br/expresso/2024/03/03/filme-sessao-da-tarde)
-- [Turista brasileira é vítima de estupro coletivo na Índia](https://www.nexojornal.com.br/extra/2024/03/03/turista-brasileira-estupro-coletivo-india)
-- [5 obras de escritoras de dimensões pluriversais](https://www.nexojornal.com.br/estante-favoritos/2024/03/02/5-obras-de-escritoras-de-dimensoes-pluriversais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
