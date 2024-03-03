@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o combate às desigualdades raciais pode mudar a educação](https://www.nexojornal.com.br/ensaio/2024/03/03/como-o-combate-as-desigualdades-raciais-pode-mudar-a-educacao)
+- [Como se faz café sem cafeína](https://www.nexojornal.com.br/expresso/2024/03/03/cafe-sem-cafeina-como-fazer-descafeinado)
 - [Quais filmes mais passaram em 50 anos de Sessão da Tarde](https://www.nexojornal.com.br/expresso/2024/03/03/filme-sessao-da-tarde)
 - [Turista brasileira é vítima de estupro coletivo na Índia](https://www.nexojornal.com.br/extra/2024/03/03/turista-brasileira-estupro-coletivo-india)
 - [5 obras de escritoras de dimensões pluriversais](https://www.nexojornal.com.br/estante-favoritos/2024/03/02/5-obras-de-escritoras-de-dimensoes-pluriversais)
-- [Como o ataque a Israel e a invasão de Gaza afetam eventos de arte](https://www.nexojornal.com.br/expresso/2024/03/02/efeito-da-guerra-oriente-medio-na-cultura-gaza-israel)
-- [O menosprezo a quem participou do ato de Bolsonaro](https://www.nexojornal.com.br/ensaio/2024/03/02/o-menosprezo-a-quem-participou-do-ato-de-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
