@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Turista brasileira é vítima de estupro coletivo na Índia](https://www.nexojornal.com.br/extra/2024/03/03/turista-brasileira-estupro-coletivo-india)
 - [5 obras de escritoras de dimensões pluriversais](https://www.nexojornal.com.br/estante-favoritos/2024/03/02/5-obras-de-escritoras-de-dimensoes-pluriversais)
 - [Como o ataque a Israel e a invasão de Gaza afetam eventos de arte](https://www.nexojornal.com.br/expresso/2024/03/02/efeito-da-guerra-oriente-medio-na-cultura-gaza-israel)
 - [O menosprezo a quem participou do ato de Bolsonaro](https://www.nexojornal.com.br/ensaio/2024/03/02/o-menosprezo-a-quem-participou-do-ato-de-bolsonaro)
 - [‘Comissões que averiguam raça têm de agir de forma tolerante’](https://www.nexojornal.com.br/entrevista/2024/03/02/banca-de-heteroidentificacao-usp-alunos-cota-racial)
-- [Globo desclassifica Wanessa Camargo do BBB24](https://www.nexojornal.com.br/extra/2024/03/02/wanessa-camargo-expulsa-bbb24)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
