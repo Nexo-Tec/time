@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Haiti entra em emergência após ataque a presídio](https://www.nexojornal.com.br/extra/2024/03/04/haiti-estado-emergencia-ataque-gangues-presidio)
 - [Ouvidor diz que PM intimida moradores na Baixada Santista](https://www.nexojornal.com.br/extra/2024/03/03/ouvidor-pm-intimidacao-moradores-baixada-santista-operacao-verao)
 - [De casas a escritórios: o risco de novo crash de imóveis nos EUA](https://www.nexojornal.com.br/expresso/2024/03/03/setor-imobiliario-eua-crise)
 - [Qual o interesse russo na Transnístria, região da Moldávia](https://www.nexojornal.com.br/expresso/2024/03/03/transnistria-regiao-na-moldavia-russia)
 - [‘Só entra autoajuda e Bíblia’: prisões barram livros para detentos](https://www.nexojornal.com.br/externo/2024/03/03/proibicao-livros-prisoes-detentos)
-- [Como o combate às desigualdades raciais pode mudar a educação](https://www.nexojornal.com.br/ensaio/2024/03/03/como-o-combate-as-desigualdades-raciais-pode-mudar-a-educacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
