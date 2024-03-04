@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Colete de alfaiataria](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/colete-de-alfaiataria/)
 - [Alessandra Montagne: “Muita coisa deu errado antes de eu chegar até aqui”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/chef-brasileira-alessandra-montagne-mulher-na-cozinha-trabalho-alain-ducasse/)
 - [Pelo direito à poesia](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/pelo-direito-a-poesia/)
 - [Belos Fracassados](https://gamarevista.uol.com.br/cultura/trecho-de-livro/belos-fracassados/)
 - [Branca Vianna faz a “Anatomia de uma Outra Queda”](https://gamarevista.uol.com.br/achamos-que-vale/ler/branca-vianna-faz-a-anatomia-de-uma-outra-queda/)
-- [Camila Fremder e Bookster em “E os Namoradinhos?”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/camila-fremder-e-bookster-em-e-os-namoradinhos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
