@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [França se torna único país a ter direito ao aborto na Constituição](https://www.nexojornal.com.br/extra/2024/03/04/franca-aborto-direito-constitucional)
 - [Como mapas ajudam a moldar a nossa vida social e cultural](https://www.nexojornal.com.br/externo/2024/03/04/como-mapas-ajudam-a-moldar-a-nossa-vida-social-e-cultural)
 - [Suprema Corte dos EUA decide que Trump pode disputar eleições](https://www.nexojornal.com.br/extra/2024/03/04/suprema-corte-eua-trump-pode-disputar-eleicoes)
 - [Fernandinho Beira-Mar é transferido de presídio de Mossoró](https://www.nexojornal.com.br/extra/2024/03/04/fernandinho-beira-mar-transferido-presidio-mossoro)
 - [Haiti entra em emergência após ataque a presídio](https://www.nexojornal.com.br/extra/2024/03/04/haiti-estado-emergencia-ataque-gangues-presidio)
-- [Ouvidor diz que PM intimida moradores na Baixada Santista](https://www.nexojornal.com.br/extra/2024/03/03/ouvidor-pm-intimidacao-moradores-baixada-santista-operacao-verao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
