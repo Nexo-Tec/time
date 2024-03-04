@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Laura Machado: educação profissional e tecnológica no ensino médio, empregabilidade e remuneração dos jovens](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/04/laura-machado-educacao-profissional-e-tecnologica-no-ensino-medio-empregabilidade-e-remuneracao-dos-jovens/)
 - [Espécies exóticas invasoras e a ameaça que representam para a biodiversidade](https://pp.nexojornal.com.br/opiniao/2024/03/01/especies-exoticas-invasoras-e-a-ameaca-que-representam-para-a-biodiversidade/)
 - [Tecnologia e disparidades salariais](https://pp.nexojornal.com.br/bibliografia-basica/2024/02/27/tecnologia-e-disparidades-salariais/)
 - [Raça e racismo](https://pp.nexojornal.com.br/bibliografia-basica/2024/02/26/raca-e-racismo/)
 - [Canção para ninar menino grande, uma história sobre masculinidade?](https://pp.nexojornal.com.br/opiniao/2024/02/26/conceicao-evaristo-cancao-para-ninar-menino-grande-uma-historia-sobre-masculinidade/)
-- [Por que a avaliação de políticas públicas deveria estar mais presente no debate eleitoral](https://pp.nexojornal.com.br/ponto-de-vista/2024/02/26/por-que-a-avaliacao-de-politicas-publicas-deveria-estar-presente-no-debate-eleitoral/)
 <!-- PP_LIST:END -->
 
