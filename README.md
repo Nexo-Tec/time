@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Canal americano CNBC vai ganhar versão brasileira](https://www.nexojornal.com.br/extra/2024/03/05/canal-americano-cnbc-vai-ganhar-versao-brasileira)
+- [Os feromônios humanos existem de verdade?](https://www.nexojornal.com.br/externo/2024/03/05/os-feromonios-humanos-existem-de-verdade)
+- [O sapinho brasileiro que é o menor vertebrado do mundo](https://www.nexojornal.com.br/expresso/2024/03/05/sapinho-brasileiro-menor-vertebrado-do-mundo)
+- [Como o surto de dengue reforça desigualdades sociais](https://www.nexojornal.com.br/podcast/2024/03/05/dengue-2024-desigualdade-social)
 - [Como é feito o ranking das pessoas mais ricas do mundo](https://www.nexojornal.com.br/expresso/2024/03/05/musk-gates-e-bezos-homem-mais-rico-do-mundo)
-- [PM se recusa a buscar pedido em portaria e atira em entregador](https://www.nexojornal.com.br/extra/2024/03/05/pm-atira-entregador-que-nao-subiu)
-- [Riken Yamamoto vence Prêmio Pritzker de 2024](https://www.nexojornal.com.br/extra/2024/03/05/premio-pritzker-vencedor-2024-riken-yamamoto)
-- [Como falar sobre deficiências com as crianças](https://www.nexojornal.com.br/externo/2024/03/04/como-falar-sobre-deficiencias-com-as-criancas)
-- [Como a violência sexual assombra as mulheres na Índia](https://www.nexojornal.com.br/expresso/2024/03/04/como-a-violencia-sexual-assombra-as-mulheres-na-india)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
