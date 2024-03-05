@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como falar sobre deficiências com as crianças](https://www.nexojornal.com.br/externo/2024/03/04/como-falar-sobre-deficiencias-com-as-criancas)
+- [Como a violência sexual assombra as mulheres na Índia](https://www.nexojornal.com.br/expresso/2024/03/04/como-a-violencia-sexual-assombra-as-mulheres-na-india)
+- [Por que a Super Terça americana perdeu importância em 2024](https://www.nexojornal.com.br/expresso/2024/03/04/por-que-a-super-terca-americana-perdeu-importancia)
+- [O que muda se a PEC da Blindagem for aprovada no Congresso](https://www.nexojornal.com.br/expresso/2024/03/04/o-que-muda-pec-da-blindagem-for-aprovada-no-congresso)
 - [O projeto do governo para trabalhadores de apps de transporte](https://www.nexojornal.com.br/podcast/2024/03/04/trabalhador-app-de-transporte-politicas-publicas)
-- [Milei faz cerco policial a agência pública de mídia e tira site do ar](https://www.nexojornal.com.br/extra/2024/03/04/milei-fecha-agencia-publica-noticias)
-- [Por que a dipirona é liberada no Brasil e proibida nos EUA](https://www.nexojornal.com.br/expresso/2024/03/04/por-que-a-dipirona-e-liberada-no-brasil-e-proibida-nos-eua)
-- [França se torna único país a ter direito ao aborto na Constituição](https://www.nexojornal.com.br/extra/2024/03/04/franca-aborto-direito-constitucional)
-- [Como mapas ajudam a moldar a nossa vida social e cultural](https://www.nexojornal.com.br/externo/2024/03/04/como-mapas-ajudam-a-moldar-a-nossa-vida-social-e-cultural)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
