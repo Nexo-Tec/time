@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O projeto do governo para trabalhadores de apps de transporte](https://www.nexojornal.com.br/podcast/2024/03/04/trabalhador-app-de-transporte-politicas-publicas)
 - [Milei faz cerco policial a agência pública de mídia e tira site do ar](https://www.nexojornal.com.br/extra/2024/03/04/milei-fecha-agencia-publica-noticias)
 - [Por que a dipirona é liberada no Brasil e proibida nos EUA](https://www.nexojornal.com.br/expresso/2024/03/04/por-que-a-dipirona-e-liberada-no-brasil-e-proibida-nos-eua)
 - [França se torna único país a ter direito ao aborto na Constituição](https://www.nexojornal.com.br/extra/2024/03/04/franca-aborto-direito-constitucional)
 - [Como mapas ajudam a moldar a nossa vida social e cultural](https://www.nexojornal.com.br/externo/2024/03/04/como-mapas-ajudam-a-moldar-a-nossa-vida-social-e-cultural)
-- [Suprema Corte dos EUA decide que Trump pode disputar eleições](https://www.nexojornal.com.br/extra/2024/03/04/suprema-corte-eua-trump-pode-disputar-eleicoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
