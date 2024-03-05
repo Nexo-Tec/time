@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PM se recusa a buscar pedido em portaria e atira em entregador](https://www.nexojornal.com.br/extra/2024/03/05/pm-atira-entregador-que-nao-subiu)
 - [Riken Yamamoto vence Prêmio Pritzker de 2024](https://www.nexojornal.com.br/extra/2024/03/05/premio-pritzker-vencedor-2024-riken-yamamoto)
 - [Como falar sobre deficiências com as crianças](https://www.nexojornal.com.br/externo/2024/03/04/como-falar-sobre-deficiencias-com-as-criancas)
 - [Como a violência sexual assombra as mulheres na Índia](https://www.nexojornal.com.br/expresso/2024/03/04/como-a-violencia-sexual-assombra-as-mulheres-na-india)
 - [Por que a Super Terça americana perdeu importância em 2024](https://www.nexojornal.com.br/expresso/2024/03/04/por-que-a-super-terca-americana-perdeu-importancia)
-- [O que muda se a PEC da Blindagem for aprovada no Congresso](https://www.nexojornal.com.br/expresso/2024/03/04/o-que-muda-pec-da-blindagem-for-aprovada-no-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
