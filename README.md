@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como foi a atuação de Freire Gomes no comando do Exército](https://www.nexojornal.com.br/expresso/2024/03/05/exercito-general-freire-gomes-comando)
+- [O retorno da música e da estética emo, com antigos e novos fãs](https://www.nexojornal.com.br/expresso/2024/03/05/a-retomada-do-emo-na-musica-com-fas-antigos-e-novos)
 - [Canal americano CNBC vai ganhar versão brasileira](https://www.nexojornal.com.br/extra/2024/03/05/canal-americano-cnbc-vai-ganhar-versao-brasileira)
 - [Os feromônios humanos existem de verdade?](https://www.nexojornal.com.br/externo/2024/03/05/os-feromonios-humanos-existem-de-verdade)
 - [O sapinho brasileiro que é o menor vertebrado do mundo](https://www.nexojornal.com.br/expresso/2024/03/05/sapinho-brasileiro-menor-vertebrado-do-mundo)
-- [Como o surto de dengue reforça desigualdades sociais](https://www.nexojornal.com.br/podcast/2024/03/05/dengue-2024-desigualdade-social)
-- [Como é feito o ranking das pessoas mais ricas do mundo](https://www.nexojornal.com.br/expresso/2024/03/05/musk-gates-e-bezos-homem-mais-rico-do-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
