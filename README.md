@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [De García Márquez a Machado: a vida póstuma de autores](https://www.nexojornal.com.br/podcast/2024/03/06/de-machado-de-assis-a-garcia-marquez-a-vida-postuma-de-autores)
 - [Policiais federais morrem em queda de monomotor em BH](https://www.nexojornal.com.br/extra/2024/03/06/policiais-federais-morrem-em-queda-de-monomotor-em-bh)
 - [O que aconteceu com o homem que se vacinou contra covid 217 vezes](https://www.nexojornal.com.br/expresso/2024/03/06/homem-toma-vacina-covid-muitas-vezes)
 - [O que Trump sinaliza de autocrático para um segundo mandato](https://www.nexojornal.com.br/expresso/2024/03/06/eua-donald-trump-governo-autocratico)
 - [Maduro tira canal da Deutsche Welle do ar na Venezuela](https://www.nexojornal.com.br/extra/2024/03/06/maduro-tira-canal-deutsche-welle-do-ar-na-venezuela)
-- [Cai aprovação do trabalho de Lula, segundo Quaest](https://www.nexojornal.com.br/extra/2024/03/06/aprovacao-trabalho-lula-cai-pesquisa-quaest)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
