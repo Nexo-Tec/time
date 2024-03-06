@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Maduro tira canal da Deutsche Welle do ar na Venezuela](https://www.nexojornal.com.br/extra/2024/03/06/maduro-tira-canal-deutsche-welle-do-ar-na-venezuela)
 - [Cai aprovação do trabalho de Lula, segundo Quaest](https://www.nexojornal.com.br/extra/2024/03/06/aprovacao-trabalho-lula-cai-pesquisa-quaest)
 - [Trump domina Super Terça das primárias eleitorais dos EUA](https://www.nexojornal.com.br/extra/2024/03/06/trump-vence-super-terca)
 - [Cheia no Acre, seca em Roraima: os extremos na Amazônia](https://www.nexojornal.com.br/expresso/2024/03/05/cheia-no-acre-seca-em-roraima-extremos-amazonia)
 - [Ação do garimpo acende alerta no maior parque nacional do país](https://www.nexojornal.com.br/externo/2024/03/05/avanco-do-garimpo-acende-alerta-no-maior-parque-nacional-do-pais)
-- [Como agem as gangues que tentam derrubar o governo no Haiti](https://www.nexojornal.com.br/expresso/2024/03/05/como-agem-as-gangues-que-tentam-derrubar-o-governo-no-haiti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
