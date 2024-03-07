@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Receita publica novas regras para IR 2024. Confira quais são](https://www.nexojornal.com.br/extra/2024/03/06/receita-publica-novas-regras-para-ir-2024-confira-quais-sao)
+- [Com placar de 5 a 3, STF adia julgamento sobre porte de drogas](https://www.nexojornal.com.br/extra/2024/03/06/stf-adia-julgamento-porte-drogas-maconha)
+- [Quem é Ugo Gattoni, ilustrador dos pôsteres das Olimpíadas 2024](https://www.nexojornal.com.br/expresso/2024/03/06/paris-2024-poster-olimpiadas-ugo-gattoni)
 - [De García Márquez a Machado: a vida póstuma de autores](https://www.nexojornal.com.br/podcast/2024/03/06/de-machado-de-assis-a-garcia-marquez-a-vida-postuma-de-autores)
 - [Policiais federais morrem em queda de monomotor em BH](https://www.nexojornal.com.br/extra/2024/03/06/policiais-federais-morrem-em-queda-de-monomotor-em-bh)
-- [O que aconteceu com o homem que se vacinou contra covid 217 vezes](https://www.nexojornal.com.br/expresso/2024/03/06/homem-toma-vacina-covid-muitas-vezes)
-- [O que Trump sinaliza de autocrático para um segundo mandato](https://www.nexojornal.com.br/expresso/2024/03/06/eua-donald-trump-governo-autocratico)
-- [Maduro tira canal da Deutsche Welle do ar na Venezuela](https://www.nexojornal.com.br/extra/2024/03/06/maduro-tira-canal-deutsche-welle-do-ar-na-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
