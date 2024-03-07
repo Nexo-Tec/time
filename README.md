@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [“Eu não só vou olhar. Eu quero que meu olhar mude a realidade”](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/eu-nao-so-vou-olhar-eu-quero-que-meu-olhar-mude-a-realidade/)
-- [@vinijr](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/vinijr/)
-- [Arte é como um incêndio](https://gamarevista.uol.com.br/colunistas/fernando-luna/arte-e-como-um-incendio/)
-- [Colete de alfaiataria](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/colete-de-alfaiataria/)
-- [Alessandra Montagne: “Muita coisa deu errado antes de eu chegar até aqui”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/chef-brasileira-alessandra-montagne-mulher-na-cozinha-trabalho-alain-ducasse/)
+- [“Lygia Clark: Projeto para um planeta”, na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/lygia-clark-projeto-para-um-planeta-na-pinacoteca/)
+- [A sátira “Ficção Americana”, que disputa cinco estatuetas do Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-satira-ficcao-americana-que-disputa-cinco-estatuetas-do-oscar/)
+- [“Dias Perfeitos”, de Wim Wenders](https://gamarevista.uol.com.br/achamos-que-vale/assistir/dias-perfeitos-de-wim-wenders/)
+- [Curso sobre educação e arte antirracista no Masp](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-sobre-educacao-e-arte-antirracista-no-masp/)
+- [Marilene Felinto e Eliana Alves Cruz no CCBB do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/marilene-felinto-e-eliana-alves-cruz-no-ccbb-do-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
