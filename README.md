@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Narcotráfico e garimpo ilegal na Amazônia: até onde &lpar;e como&rpar; vai o Estado?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/07/narcotrafico-e-garimpo-ilegal-na-amazonia-ate-onde-e-como-vai-o-estado/)
 - [Uma década do Guia Alimentar para a População Brasileira](https://pp.nexojornal.com.br/opiniao/2024/03/06/uma-decada-do-guia-alimentar-para-a-populacao-brasileira/)
 - [Políticas de memória, verdade e justiça no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/03/06/politicas-de-memoria-verdade-e-justica-no-brasil/)
 - [ICMS educacional: como os estados abordam a equidade em seus normativos?](https://pp.nexojornal.com.br/opiniao/2024/03/06/icms-educacional-como-os-estados-abordam-a-equidade-em-seus-normativos/)
 - [“Epidemia” de violência nas escolas brasileiras e os efeitos na saúde dos sobreviventes: uma perspectiva a partir das experiências adversas na infância](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/06/epidemia-de-violencia-nas-escolas-brasileiras-e-os-efeitos-na-saude-dos-sobreviventes-uma-perspectiva-a-partir-das-experiencias-adversas-na-infancia/)
-- [Direitas católicas no Brasil: um projeto de longa duração](https://pp.nexojornal.com.br/opiniao/2024/03/06/direitas-catolicas-no-brasil-um-projeto-de-longa-duracao/)
 <!-- PP_LIST:END -->
 
