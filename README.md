@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PL preside comissões estratégicas da Câmara dos Deputados](https://www.nexojornal.com.br/extra/2024/03/07/pl-presidencia-ccj-comissoes-camara-deputados)
 - [‘Manuel, Rita, Flor…’: a velhice através dos olhos das crianças](https://www.nexojornal.com.br/estante-trechos/2024/03/06/manuel-rita-flor-a-velhice-atraves-dos-olhos-das-criancas)
 - [O recuo de Haddad diante da resistência ao fim do Perse](https://www.nexojornal.com.br/expresso/2024/03/06/o-recuo-de-haddad-diante-da-resistencia-ao-fim-do-perse)
 - [A incoerente percepção popular sobre a pesquisa animal](https://www.nexojornal.com.br/colunistas/2024/03/06/a-incoerente-percepcao-popular-sobre-a-pesquisa-animal)
 - [O pente-fino do governo para abrir espaço nas contas públicas](https://www.nexojornal.com.br/expresso/2024/03/06/brasil-economia-governo-arrecadacao-federal)
-- [De onde vem o tomate e onde ele é produzido](https://www.nexojornal.com.br/grafico/2024/03/06/origem-do-tomate-producao-e-cultivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
