@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Receita publica novas regras para IR 2024. Confira quais são](https://www.nexojornal.com.br/extra/2024/03/06/receita-publica-novas-regras-para-ir-2024-confira-quais-sao)
-- [Com placar de 5 a 3, STF adia julgamento sobre porte de drogas](https://www.nexojornal.com.br/extra/2024/03/06/stf-adia-julgamento-porte-drogas-maconha)
-- [Quem é Ugo Gattoni, ilustrador dos pôsteres das Olimpíadas 2024](https://www.nexojornal.com.br/expresso/2024/03/06/paris-2024-poster-olimpiadas-ugo-gattoni)
-- [De García Márquez a Machado: a vida póstuma de autores](https://www.nexojornal.com.br/podcast/2024/03/06/de-machado-de-assis-a-garcia-marquez-a-vida-postuma-de-autores)
-- [Policiais federais morrem em queda de monomotor em BH](https://www.nexojornal.com.br/extra/2024/03/06/policiais-federais-morrem-em-queda-de-monomotor-em-bh)
+- [‘Manuel, Rita, Flor…’: a velhice através dos olhos das crianças](https://www.nexojornal.com.br/estante-trechos/2024/03/06/manuel-rita-flor-a-velhice-atraves-dos-olhos-das-criancas)
+- [O recuo de Haddad diante da resistência ao fim do Perse](https://www.nexojornal.com.br/expresso/2024/03/06/o-recuo-de-haddad-diante-da-resistencia-ao-fim-do-perse)
+- [A incoerente percepção popular sobre a pesquisa animal](https://www.nexojornal.com.br/colunistas/2024/03/06/a-incoerente-percepcao-popular-sobre-a-pesquisa-animal)
+- [O pente-fino do governo para abrir espaço na arrecadação](https://www.nexojornal.com.br/expresso/2024/03/06/brasil-economia-governo-arrecadacao-federal)
+- [De onde vem o tomate e onde ele é produzido](https://www.nexojornal.com.br/grafico/2024/03/06/origem-do-tomate-producao-e-cultivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
