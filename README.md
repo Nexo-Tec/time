@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como jornais de Brasil e Portugal retratam a cultura um do outro](https://www.nexojornal.com.br/academico/2024/03/07/como-jornais-de-brasil-e-portugal-retratam-a-cultura-um-do-outro)
+- [A disputa judicial da Vale consigo mesma por danos em Mariana](https://www.nexojornal.com.br/externo/2024/03/07/a-disputa-judicial-da-vale-consigo-mesma-por-danos-em-mariana)
 - [Depois do Paraná, Goiás manda recolher livro ‘O avesso da pele’](https://www.nexojornal.com.br/extra/2024/03/07/goias-manda-recolher-livro-o-avesso-da-pele)
 - [PL preside comissões estratégicas da Câmara dos Deputados](https://www.nexojornal.com.br/extra/2024/03/07/pl-presidencia-ccj-comissoes-camara-deputados)
 - [‘Manuel, Rita, Flor…’: a velhice através dos olhos das crianças](https://www.nexojornal.com.br/estante-trechos/2024/03/06/manuel-rita-flor-a-velhice-atraves-dos-olhos-das-criancas)
-- [O recuo de Haddad diante da resistência ao fim do Perse](https://www.nexojornal.com.br/expresso/2024/03/06/o-recuo-de-haddad-diante-da-resistencia-ao-fim-do-perse)
-- [A incoerente percepção popular sobre a pesquisa animal](https://www.nexojornal.com.br/colunistas/2024/03/06/a-incoerente-percepcao-popular-sobre-a-pesquisa-animal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
