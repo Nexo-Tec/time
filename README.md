@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lilia Schwarcz é eleita imortal da Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2024/03/07/lilia-schwarcz-eleita-imortal-academia-brasileira-de-letras)
 - [Como jornais de Brasil e Portugal retratam a cultura um do outro](https://www.nexojornal.com.br/academico/2024/03/07/como-jornais-de-brasil-e-portugal-retratam-a-cultura-um-do-outro)
 - [A disputa judicial da Vale consigo mesma por danos em Mariana](https://www.nexojornal.com.br/externo/2024/03/07/a-disputa-judicial-da-vale-consigo-mesma-por-danos-em-mariana)
 - [Depois do Paraná, Goiás manda recolher livro ‘O avesso da pele’](https://www.nexojornal.com.br/extra/2024/03/07/goias-manda-recolher-livro-o-avesso-da-pele)
 - [PL preside comissões estratégicas da Câmara dos Deputados](https://www.nexojornal.com.br/extra/2024/03/07/pl-presidencia-ccj-comissoes-camara-deputados)
-- [‘Manuel, Rita, Flor…’: a velhice através dos olhos das crianças](https://www.nexojornal.com.br/estante-trechos/2024/03/06/manuel-rita-flor-a-velhice-atraves-dos-olhos-das-criancas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
