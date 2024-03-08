@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Centenas de estudantes são raptados na Nigéria](https://www.nexojornal.com.br/extra/2024/03/08/estudantes-raptados-na-nigeria)
+- [A saga de uma vítima de violência para conseguir o aborto legal](https://www.nexojornal.com.br/externo/2024/03/08/a-saga-de-uma-vitima-de-violencia-para-conseguir-o-aborto-legal)
 - [Morre Akira Toriyama, criador de ‘Dragon Ball’, aos 68 anos](https://www.nexojornal.com.br/extra/2024/03/08/akira-toriyama-criador-dragon-ball-morre)
 - [Qual a participação de mulheres em cargos de gerência no Brasil](https://www.nexojornal.com.br/grafico/2024/03/08/mulher-e-trabalho-no-brasil-cargo-de-gerente)
 - [2023 foi ano com maior número de feminicídios no Brasil](https://www.nexojornal.com.br/extra/2024/03/07/2023-foi-ano-com-maior-numero-de-feminicidios-no-brasil)
-- [O que você sabe sobre a participação feminina na política? Faça o quiz](https://www.nexojornal.com.br/interativo/2024/03/07/teste-participacao-feminina-na-politica)
-- [Parte da esquerda já desembarcou: até onde Lula vai com Maduro?](https://www.nexojornal.com.br/podcast/2024/03/07/lula-brasil-e-maduro-venezuela-relacao-esquerda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
