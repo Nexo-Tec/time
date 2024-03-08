@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Oscar se chama Oscar? Nem a Academia sabe](https://www.nexojornal.com.br/expresso/2024/03/08/por-que-o-oscar-se-chama-oscar-nem-a-academia-sabe)
 - [‘Não estou nem aí’, diz Tarcísio sobre denúncias de abuso policial](https://www.nexojornal.com.br/extra/2024/03/08/tarcisio-minimiza-denuncias-contra-operacao-verao-da-pm)
 - [Quais os eixos da campanha de Biden à reeleição nos EUA](https://www.nexojornal.com.br/expresso/2024/03/08/eua-discurso-de-biden-campanha-2024)
 - [Centenas de estudantes são raptados na Nigéria](https://www.nexojornal.com.br/extra/2024/03/08/estudantes-raptados-na-nigeria)
 - [A saga de uma vítima de violência para conseguir o aborto legal](https://www.nexojornal.com.br/externo/2024/03/08/a-saga-de-uma-vitima-de-violencia-para-conseguir-o-aborto-legal)
-- [Morre Akira Toriyama, criador de ‘Dragon Ball’, aos 68 anos](https://www.nexojornal.com.br/extra/2024/03/08/akira-toriyama-criador-dragon-ball-morre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
