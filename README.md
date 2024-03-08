@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A Casa dos Significados Ocultos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-casa-dos-significados-ocultos/)
 - [“Lygia Clark: Projeto para um planeta”, na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/lygia-clark-projeto-para-um-planeta-na-pinacoteca/)
 - [A sátira “Ficção Americana”, que disputa cinco estatuetas do Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-satira-ficcao-americana-que-disputa-cinco-estatuetas-do-oscar/)
 - [“Dias Perfeitos”, de Wim Wenders](https://gamarevista.uol.com.br/achamos-que-vale/assistir/dias-perfeitos-de-wim-wenders/)
 - [Curso sobre educação e arte antirracista no Masp](https://gamarevista.uol.com.br/achamos-que-vale/fazer/curso-sobre-educacao-e-arte-antirracista-no-masp/)
-- [Marilene Felinto e Eliana Alves Cruz no CCBB do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/marilene-felinto-e-eliana-alves-cruz-no-ccbb-do-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
