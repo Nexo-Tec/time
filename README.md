@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Parte da esquerda já desembarcou: até onde Lula vai com Maduro?](https://www.nexojornal.com.br/podcast/2024/03/07/lula-brasil-e-maduro-venezuela-relacao-esquerda)
+- [8 de março: nós, pobres criaturas, e o direito ao aborto](https://www.nexojornal.com.br/colunistas/2024/03/07/8-de-marco-nos-pobres-criaturas-e-o-direito-ao-aborto)
+- [Por que o lago Paranoá, em Brasília, é uma salada biológica](https://www.nexojornal.com.br/externo/2024/03/07/por-que-o-lago-paranoa-em-brasilia-e-uma-salada-biologica)
 - [A disputa pelo controle da imagem de Frida Kahlo](https://www.nexojornal.com.br/expresso/2024/03/07/a-disputa-pelo-controle-da-imagem-de-frida-kahlo)
 - [Por que a economia forte não se traduz em aprovação para Lula](https://www.nexojornal.com.br/expresso/2024/03/07/por-que-a-economia-forte-nao-se-traduz-em-aprovacao-para-lula)
-- [Lilia Schwarcz é eleita imortal da Academia Brasileira de Letras](https://www.nexojornal.com.br/extra/2024/03/07/lilia-schwarcz-eleita-imortal-academia-brasileira-de-letras)
-- [Como jornais de Brasil e Portugal retratam a cultura um do outro](https://www.nexojornal.com.br/academico/2024/03/07/como-jornais-de-brasil-e-portugal-retratam-a-cultura-um-do-outro)
-- [A disputa judicial da Vale consigo mesma por danos em Mariana](https://www.nexojornal.com.br/externo/2024/03/07/a-disputa-judicial-da-vale-consigo-mesma-por-danos-em-mariana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
