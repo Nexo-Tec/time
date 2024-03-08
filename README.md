@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [A saga de uma vítima de violência para conseguir o aborto legal](https://www.nexojornal.com.br/externo/2024/03/08/a-saga-de-uma-vitima-de-violencia-para-conseguir-o-aborto-legal)
 - [Morre Akira Toriyama, criador de ‘Dragon Ball’, aos 68 anos](https://www.nexojornal.com.br/extra/2024/03/08/akira-toriyama-criador-dragon-ball-morre)
 - [Qual a participação de mulheres em cargos de gerência no Brasil](https://www.nexojornal.com.br/grafico/2024/03/08/mulher-e-trabalho-no-brasil-cargo-de-gerente)
-- [2023 foi ano com maior número de feminicídios no Brasil](https://www.nexojornal.com.br/extra/2024/03/07/2023-foi-ano-com-maior-numero-de-feminicidios-no-brasil)
+- [2023 foi o ano com maior número de feminicídios no Brasil](https://www.nexojornal.com.br/extra/2024/03/07/2023-foi-ano-com-maior-numero-de-feminicidios-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
