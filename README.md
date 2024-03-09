@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que cientistas ainda não acham que estamos no antropoceno](https://www.nexojornal.com.br/expresso/2024/03/08/por-que-cientistas-ainda-nao-acham-que-estamos-no-antropoceno)
-- [Os bastidores da produção de gráficos do Nexo](https://www.nexojornal.com.br/grafico/2024/03/08/grafico-e-infografico-como-faz-nexo-jornal)
-- [Como o Nexo fez uma mapa de altitude do Brasil](https://www.nexojornal.com.br/grafico/2024/03/08/mapa-altitude-brasil-como-fazer)
-- [A alteração da Lei de Drogas adiada de novo. As falas de Lula. E mais](https://www.nexojornal.com.br/video/2024/03/08/a-alteracao-da-lei-de-drogas-adiada-de-novo-as-falas-de-lula-e-mais)
-- [Por que o Oscar se chama Oscar? Nem a Academia sabe](https://www.nexojornal.com.br/expresso/2024/03/08/por-que-o-oscar-se-chama-oscar-nem-a-academia-sabe)
+- [Como a Pixar se rendeu à aposta segura das continuações](https://www.nexojornal.com.br/expresso/2024/03/08/filme-de-animacao-pixar-continuacao)
+- [‘Terra Viva’: uma vida de luta pela preservação ambiental](https://www.nexojornal.com.br/estante-trechos/2024/03/08/terra-viva-uma-vida-de-luta-pela-preservacao-ambiental)
+- [Por que abelhas têm rainhas? A estrutura social das colmeias](https://www.nexojornal.com.br/externo/2024/03/08/por-que-abelhas-tem-rainhas-a-estrutura-social-das-colmeias)
+- [Por que igrejas não pagam impostos no Brasil](https://www.nexojornal.com.br/expresso/2024/03/08/por-que-igrejas-nao-pagam-impostos-no-brasil)
+- [Como ministros usam pedidos de vista em julgamentos do STF](https://www.nexojornal.com.br/expresso/2024/03/08/por-que-ministros-do-supremo-fazem-tantos-pedidos-de-vista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
