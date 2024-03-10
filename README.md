@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes proíbe Bolsonaro de participar de eventos militares](https://www.nexojornal.com.br/extra/2024/03/09/moraes-proibe-bolsonaro-de-participar-de-eventos-militares)
-- [Israel ataca torre residencial em Rafah às vésperas do Ramadã](https://www.nexojornal.com.br/extra/2024/03/09/israel-ataca-torre-residencial-em-rafah-as-vesperas-do-ramada)
-- [Como a Pixar se rendeu à aposta segura das continuações](https://www.nexojornal.com.br/expresso/2024/03/08/filme-de-animacao-pixar-continuacao)
-- [‘Terra Viva’: uma vida de luta pela preservação ambiental](https://www.nexojornal.com.br/estante-trechos/2024/03/08/terra-viva-uma-vida-de-luta-pela-preservacao-ambiental)
-- [Por que abelhas têm rainhas? A estrutura social das colmeias](https://www.nexojornal.com.br/externo/2024/03/08/por-que-abelhas-tem-rainhas-a-estrutura-social-das-colmeias)
+- [O que havia de diferente no gosto do vinho na Roma antiga](https://www.nexojornal.com.br/expresso/2024/03/09/o-que-havia-de-diferente-no-gosto-do-vinho-na-roma-antiga)
+- [5 obras criadas entre escritores e artistas visuais](https://www.nexojornal.com.br/estante-favoritos/2024/03/09/5-obras-criadas-entre-escritores-e-artistas-visuais)
+- [As dificuldades de tradução e a esperança da compreensão](https://www.nexojornal.com.br/ensaio/2024/03/09/as-dificuldades-de-traducao-e-a-esperanca-da-compreensao)
+- [O relatório que expõe o sexismo na indústria da música](https://www.nexojornal.com.br/externo/2024/03/09/o-relatorio-que-expoe-o-sexismo-na-industria-da-musica)
+- [‘Maconha é alvo de pânico moral recente e criminoso’](https://www.nexojornal.com.br/entrevista/2024/03/09/ciencia-da-maconha-entrevista-sidarta-ribeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
