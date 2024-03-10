@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Renata Ceribelli: “O prazer sempre foi proibido para a mulher”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renata-ceribelli-prazer-renata-tesao-mulher-liberdade-sexual-prazer-proibido/)
 - [Aparentemente tudo passa, menos o nordestino de folhetim](https://gamarevista.uol.com.br/opiniao/aparentemente-tudo-passa-menos-o-nordestino-de-folhetim/)
 - [A Casa dos Significados Ocultos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-casa-dos-significados-ocultos/)
 - [“Lygia Clark: Projeto para um planeta”, na Pinacoteca](https://gamarevista.uol.com.br/achamos-que-vale/ir/lygia-clark-projeto-para-um-planeta-na-pinacoteca/)
 - [A sátira “Ficção Americana”, que disputa cinco estatuetas do Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-satira-ficcao-americana-que-disputa-cinco-estatuetas-do-oscar/)
-- [“Dias Perfeitos”, de Wim Wenders](https://gamarevista.uol.com.br/achamos-que-vale/assistir/dias-perfeitos-de-wim-wenders/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
