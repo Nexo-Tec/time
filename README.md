@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Após aumentar o próprio salário, Milei recua e revoga decreto](https://www.nexojornal.com.br/extra/2024/03/10/apos-aumentar-o-proprio-salario-milei-recua-e-revoga-decreto)
-- [O que havia de diferente no gosto do vinho na Roma antiga](https://www.nexojornal.com.br/expresso/2024/03/09/o-que-havia-de-diferente-no-gosto-do-vinho-na-roma-antiga)
-- [5 obras criadas entre escritores e artistas visuais](https://www.nexojornal.com.br/estante-favoritos/2024/03/09/5-obras-criadas-entre-escritores-e-artistas-visuais)
-- [As dificuldades de tradução e a esperança da compreensão](https://www.nexojornal.com.br/ensaio/2024/03/09/as-dificuldades-de-traducao-e-a-esperanca-da-compreensao)
-- [O relatório que expõe o sexismo na indústria da música](https://www.nexojornal.com.br/externo/2024/03/09/o-relatorio-que-expoe-o-sexismo-na-industria-da-musica)
+- [O que é bitcoin, a primeira criptomoeda do mundo](https://www.nexojornal.com.br/index/2024/03/10/o-que-e-bitcoin)
+- [Como Lula monta em 2024 o seu arcabouço político para 2026](https://www.nexojornal.com.br/ensaio/2024/03/10/como-lula-monta-em-2024-o-seu-arcabouco-politico-para-2026)
+- [Brasil aprimora infraestrutura de supercomputadores](https://www.nexojornal.com.br/externo/2024/03/10/brasil-aprimora-infraestrutura-de-supercomputadores)
+- [A investida contra ‘O avesso da pele’. E o debate sobre o ‘adequado’](https://www.nexojornal.com.br/expresso/2024/03/10/a-investida-contra-o-avesso-da-pele)
+- [Quais os usos de IA mais temidos na eleição municipal](https://www.nexojornal.com.br/expresso/2024/03/10/ia-na-politica-o-uso-em-eleicoes-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
