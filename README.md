@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A ascensão da extrema direita a força política chave em Portugal](https://www.nexojornal.com.br/expresso/2024/03/11/portugal-politica-ascensao-extrema-direita)
 - [Marta é mais citada em pesquisa sobre melhor prefeito de São Paulo](https://www.nexojornal.com.br/extra/2024/03/11/melhor-prefeito-sao-paulo-datafolha)
 - [Boatos e memes sobre família real britânica tomam as redes](https://www.nexojornal.com.br/extra/2024/03/11/paradeiro-kate-middleton-gera-boatos-memes)
 - [Brasileiro é eleito deputado em Portugal por partido extremista](https://www.nexojornal.com.br/extra/2024/03/11/brasileiro-deputado-portugal)
 - [8 momentos do Oscar que consagrou o ano de ‘Barbieheimer’](https://www.nexojornal.com.br/expresso/2024/03/11/oscar-2024-vencedores-cerimonia-oppenheimer-barbie)
-- [Aliança Democrática vence eleições em Portugal](https://www.nexojornal.com.br/extra/2024/03/10/alianca-democratica-vence-eleicoes-em-portugal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
