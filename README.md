@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Boatos e memes sobre família real britânica tomam as redes](https://www.nexojornal.com.br/extra/2024/03/11/paradeiro-kate-middleton-gera-boatos-memes)
 - [Brasileiro é eleito deputado em Portugal por partido extremista](https://www.nexojornal.com.br/extra/2024/03/11/brasileiro-deputado-portugal)
 - [8 momentos do Oscar que consagrou o ano de ‘Barbieheimer’](https://www.nexojornal.com.br/expresso/2024/03/11/oscar-2024-vencedores-cerimonia-oppenheimer-barbie)
 - [Aliança Democrática vence eleições em Portugal](https://www.nexojornal.com.br/extra/2024/03/10/alianca-democratica-vence-eleicoes-em-portugal)
 - [O que é bitcoin, a primeira criptomoeda do mundo](https://www.nexojornal.com.br/index/2024/03/10/o-que-e-bitcoin)
-- [Como Lula monta em 2024 o seu arcabouço político para 2026](https://www.nexojornal.com.br/ensaio/2024/03/10/como-lula-monta-em-2024-o-seu-arcabouco-politico-para-2026)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
