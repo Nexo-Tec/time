@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Haiti não elege um presidente desde 2016](https://www.nexojornal.com.br/expresso/2024/03/12/por-que-o-haiti-nao-elege-um-presidente-desde-2016)
+- [Incêndios e acusações marcam sucessão no União Brasil](https://www.nexojornal.com.br/extra/2024/03/12/incendios-atingem-casas-do-novo-lider-do-uniao-brasil)
 - [Airbnb proíbe instalação de câmeras dentro de hospedagens](https://www.nexojornal.com.br/extra/2024/03/12/airbnb-proibe-cameras-dentro-hospedagens)
 - [Quem tem direito a liberdade, anistia e democracia no Brasil?](https://www.nexojornal.com.br/colunistas/2024/03/12/quem-tem-direito-a-liberdade-anistia-e-democracia-no-brasil)
 - [O jogo de criação ilimitada que expõe o lógico e o bizarro da IA](https://www.nexojornal.com.br/expresso/2024/03/12/infinite-craft-jogo-de-criacao-ia-inteligencia-artificial)
-- [Puxada pela educação, inflação sobe para 0,83% em fevereiro](https://www.nexojornal.com.br/extra/2024/03/12/inflacao-fevereiro-2024)
-- [Grupo leva caso de tortura em prisão feminina de MG à ONU](https://www.nexojornal.com.br/externo/2024/03/12/grupo-leva-caso-de-tortura-em-prisao-feminina-de-mg-a-onu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
