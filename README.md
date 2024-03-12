@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Puxada pela educação, inflação sobe para 0,83% em fevereiro](https://www.nexojornal.com.br/extra/2024/03/12/inflacao-fevereiro-2024)
 - [Grupo leva caso de tortura em prisão feminina de MG à ONU](https://www.nexojornal.com.br/externo/2024/03/12/grupo-leva-caso-de-tortura-em-prisao-feminina-de-mg-a-onu)
 - [Quais os interesses na disputa pelos lucros da Petrobras](https://www.nexojornal.com.br/expresso/2024/03/11/quais-os-interesses-na-disputa-pelos-lucros-da-petrobras)
 - [O que afeta a baixa vacinação infantil contra covid no Brasil](https://www.nexojornal.com.br/externo/2024/03/11/o-que-afeta-a-baixa-vacinacao-infantil-contra-covid-no-brasil)
 - [A convergência de TV e internet na novela ‘Cheias de charme’](https://www.nexojornal.com.br/expresso/2024/03/11/transmidia-tv-e-internet-novela-cheias-de-charme)
-- [Juízes mandam USP matricular jovens aprovados por cota](https://www.nexojornal.com.br/extra/2024/03/11/justica-manda-usp-matricular-cotistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
