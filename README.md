@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O peso de abafar as marcas da ditadura nos 60 anos do golpe](https://www.nexojornal.com.br/expresso/2024/03/12/ditadura-militar-brasil-60-anos-memoria)
+- [Dia a dia do golpe: o comício de Jango na Central do Brasil](https://www.nexojornal.com.br/serie/2024/03/12/comicio-jango-central-do-brasil)
 - [O novo morticínio na Baixada e as suspeitas sobre a PM paulista](https://www.nexojornal.com.br/podcast/2024/03/12/mortes-na-baixada-santista-operacao-pm-sp)
 - [Homem é preso após fazer 17 reféns em rodoviária no Rio](https://www.nexojornal.com.br/extra/2024/03/12/homem-e-preso-apos-fazer-17-refens-em-rodoviaria-no-rio)
 - [Por que o Haiti não elege um presidente desde 2016](https://www.nexojornal.com.br/expresso/2024/03/12/por-que-o-haiti-nao-elege-um-presidente-desde-2016)
-- [Incêndios e acusações marcam sucessão no União Brasil](https://www.nexojornal.com.br/extra/2024/03/12/incendios-atingem-casas-do-novo-lider-do-uniao-brasil)
-- [Airbnb proíbe instalação de câmeras dentro de hospedagens](https://www.nexojornal.com.br/extra/2024/03/12/airbnb-proibe-cameras-dentro-hospedagens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
