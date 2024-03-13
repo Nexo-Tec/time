@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A corrida por São Paulo a menos de 7 meses das eleições](https://www.nexojornal.com.br/expresso/2024/03/13/sao-paulo-contexto-politico-eleicoes-2024)
+- [Neil Young encerra boicote e vai recolocar catálogo no Spotify](https://www.nexojornal.com.br/extra/2024/03/13/neil-young-spotify)
 - [A desigualdade na ascensão de mulheres no setor público](https://www.nexojornal.com.br/colunistas/2024/03/12/desigualdade-genero-mulheres-gestao-publica)
 - [Por que 2024 tem sido um ano de alta nas bolsas internacionais](https://www.nexojornal.com.br/expresso/2024/03/12/por-que-2024-tem-sido-um-ano-de-alta-nas-bolsas-internacionais)
 - [O peso de abafar as marcas da ditadura nos 60 anos do golpe](https://www.nexojornal.com.br/expresso/2024/03/12/ditadura-militar-brasil-60-anos-memoria)
-- [Dia a dia do golpe: o comício de Jango na Central do Brasil](https://www.nexojornal.com.br/serie/2024/03/12/comicio-jango-central-do-brasil)
-- [O novo morticínio na Baixada e as suspeitas sobre a PM paulista](https://www.nexojornal.com.br/podcast/2024/03/12/mortes-na-baixada-santista-operacao-pm-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
