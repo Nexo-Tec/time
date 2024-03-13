@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Comissão do Senado aprova PEC antidrogas em reação ao STF](https://www.nexojornal.com.br/extra/2024/03/13/comissao-do-senado-aprova-pec-antidrogas-em-reacao-a-stf)
 - [IDH do Brasil sobe, mas país cai duas posições no ranking](https://www.nexojornal.com.br/extra/2024/03/13/idh-do-brasil-em-2022)
 - [O veneno produzido pelo Butantan para a ditadura chilena](https://www.nexojornal.com.br/externo/2024/03/13/o-veneno-produzido-pelo-butantan-para-a-ditadura-chilena)
 - [A corrida por São Paulo a menos de 7 meses das eleições](https://www.nexojornal.com.br/expresso/2024/03/13/sao-paulo-contexto-politico-eleicoes-2024)
 - [Neil Young encerra boicote e vai recolocar catálogo no Spotify](https://www.nexojornal.com.br/extra/2024/03/13/neil-young-spotify)
-- [A desigualdade na ascensão de mulheres no setor público](https://www.nexojornal.com.br/colunistas/2024/03/12/desigualdade-genero-mulheres-gestao-publica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
