@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Nina Santos](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-nina-santos/)
+- [A complexidade escondida em um prato de cereais matinais](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/a-complexidade-escondida-em-um-prato-de-cereais-matinais/)
 - [A queda do bodypositive?](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-queda-do-bodypositive/)
 - [@larissadonapuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/larissadonapuma/)
 - [Renata Ceribelli: “O prazer sempre foi proibido para a mulher”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renata-ceribelli-prazer-renata-tesao-mulher-liberdade-sexual-prazer-proibido/)
-- [Aparentemente tudo passa, menos o nordestino de folhetim](https://gamarevista.uol.com.br/opiniao/aparentemente-tudo-passa-menos-o-nordestino-de-folhetim/)
-- [A Casa dos Significados Ocultos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-casa-dos-significados-ocultos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
