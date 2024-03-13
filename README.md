@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [STF valida licença-maternidade à mãe não gestante](https://www.nexojornal.com.br/extra/2024/03/13/stf-da-licenca-maternidade-a-mae-nao-gestante)
 - [No Japão, para ver Vênus](https://www.nexojornal.com.br/externo/2024/03/13/no-japao-para-ver-venus)
 - [Como funcionam os ‘carros voadores’ da Embraer](https://www.nexojornal.com.br/expresso/2024/03/13/como-funcionam-os-carros-voadores-da-embraer)
 - [Briga, fogo e furto: entenda a crise do União Brasil](https://www.nexojornal.com.br/podcast/2024/03/13/politica-crise-partido-uniao-brasil)
 - [Comissão do Senado aprova PEC antidrogas em reação ao STF](https://www.nexojornal.com.br/extra/2024/03/13/comissao-do-senado-aprova-pec-antidrogas-em-reacao-a-stf)
-- [IDH do Brasil sobe, mas país cai duas posições no ranking](https://www.nexojornal.com.br/extra/2024/03/13/idh-do-brasil-em-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
