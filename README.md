@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por uma Defensoria Pública Afro-Indígena](https://pp.nexojornal.com.br/opiniao/2024/03/13/por-uma-defensoria-publica-afro-indigena/)
 - [Cultura e política no município](https://pp.nexojornal.com.br/opiniao/2024/03/08/cultura-e-politica-no-municipio/)
 - [As mudanças climáticas](https://pp.nexojornal.com.br/glossario/2024/03/08/as-mudancas-climaticas/)
 - [Narcotráfico e garimpo ilegal na Amazônia: até onde &lpar;e como&rpar; vai o Estado?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/07/narcotrafico-e-garimpo-ilegal-na-amazonia-ate-onde-e-como-vai-o-estado/)
 - [Uma década do Guia Alimentar para a População Brasileira](https://pp.nexojornal.com.br/opiniao/2024/03/06/uma-decada-do-guia-alimentar-para-a-populacao-brasileira/)
-- [Políticas de memória, verdade e justiça no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/03/06/politicas-de-memoria-verdade-e-justica-no-brasil/)
 <!-- PP_LIST:END -->
 
