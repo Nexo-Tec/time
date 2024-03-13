@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Vacinação de crianças no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/03/13/vacinacao-das-criancas-no-brasil/)
 - [Eloá Davanzo: juventudes, aspirações e desigualdades](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/13/eloa-davanzo-juventudes-aspiracoes-e-desigualdades/)
 - [Por uma Defensoria Pública Afro-Indígena](https://pp.nexojornal.com.br/opiniao/2024/03/13/por-uma-defensoria-publica-afro-indigena/)
 - [Cultura e política no município](https://pp.nexojornal.com.br/opiniao/2024/03/08/cultura-e-politica-no-municipio/)
 - [As mudanças climáticas](https://pp.nexojornal.com.br/glossario/2024/03/08/as-mudancas-climaticas/)
-- [Narcotráfico e garimpo ilegal na Amazônia: até onde &lpar;e como&rpar; vai o Estado?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/07/narcotrafico-e-garimpo-ilegal-na-amazonia-ate-onde-e-como-vai-o-estado/)
 <!-- PP_LIST:END -->
 
