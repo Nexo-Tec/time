@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Você reconhece o país pelos produtos exportados? Faça o teste](https://www.nexojornal.com.br/interativo/2024/03/14/teste-produto-exportacao-de-cada-pais)
 - [Atos marcam 6 anos do assassinato de Marielle e Anderson](https://www.nexojornal.com.br/extra/2024/03/14/marielle-anderson-assassinato-seis-anos)
 - [Como a sucessão da Vale acirra a tensão entre Lula e o mercado](https://www.nexojornal.com.br/expresso/2024/03/13/presidente-da-vale-sucessor-lula)
 - [A onda de violência que paralisa a 3ª maior cidade da Argentina](https://www.nexojornal.com.br/expresso/2024/03/13/argentina-violencia-em-rosario)
 - [O olhar amoroso de Wim Wenders em ‘Dias perfeitos’](https://www.nexojornal.com.br/colunistas/2024/03/13/o-olhar-amoroso-de-wim-wenders-em-dias-perfeitos)
-- [Como o artigo ‘Trump e o Ocidente’ contribuiu para o bolsonarismo](https://www.nexojornal.com.br/academico/2024/03/13/como-o-artigo-trump-e-o-ocidente-contribuiu-para-o-bolsonarismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
