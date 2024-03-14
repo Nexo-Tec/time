@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A mensagem que a Nasa vai enviar para a lua de Júpiter](https://www.nexojornal.com.br/expresso/2024/03/14/lua-nasa-mensagem-de-jupiter)
+- [Por que republicanos e democratas querem banir o TikTok nos EUA](https://www.nexojornal.com.br/podcast/2024/03/14/por-que-tiktok-banido-eua)
 - [O martírio do touro antes de morrer em uma tourada](https://www.nexojornal.com.br/externo/2024/03/14/o-martirio-do-touro-antes-de-morrer-em-uma-tourada)
 - [Corte Interamericana condena Brasil em 2 ações por abuso da PM](https://www.nexojornal.com.br/extra/2024/03/14/brasil-condenado-corte-interamericana-direitos-humanos)
 - [Como agem os repelentes. E qual seu papel contra dengue](https://www.nexojornal.com.br/expresso/2024/03/14/dengue-como-funciona-repelente)
-- [Você reconhece o país pelos produtos exportados? Faça o teste](https://www.nexojornal.com.br/interativo/2024/03/14/teste-produto-exportacao-de-cada-pais)
-- [Atos marcam 6 anos do assassinato de Marielle e Anderson](https://www.nexojornal.com.br/extra/2024/03/14/marielle-anderson-assassinato-seis-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
