@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Nina Santos](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-nina-santos/)
-- [A complexidade escondida em um prato de cereais matinais](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/a-complexidade-escondida-em-um-prato-de-cereais-matinais/)
-- [A queda do bodypositive?](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-queda-do-bodypositive/)
-- [@larissadonapuma](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/larissadonapuma/)
-- [Renata Ceribelli: “O prazer sempre foi proibido para a mulher”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/renata-ceribelli-prazer-renata-tesao-mulher-liberdade-sexual-prazer-proibido/)
+- [A versão para TV de “Mr. and Mrs. Smith”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-versao-para-tv-de-mr-and-mrs-smith/)
+- [“Bem-Comportadas”: mulheres e as amarradas do pecado](https://gamarevista.uol.com.br/achamos-que-vale/ler/bem-comportadas-mulheres-e-as-amarradas-do-pecado/)
+- [A volta do podcast “Foro de Teresina”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-volta-do-podcast-foro-de-teresina/)
+- [Paul Mescal e Andrew Scott em “Todos Nós Desconhecidos”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/paul-mescal-e-andrew-scott-em-todos-nos-desconhecidos/)
+- [“Água Pantanal Fogo”, no Instituto Tomie Ohtake](https://gamarevista.uol.com.br/achamos-que-vale/ir/agua-pantanal-fogo-no-instituto-tomie-ohtake/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
