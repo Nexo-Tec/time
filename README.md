@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O olhar amoroso de Wim Wenders em ‘Dias perfeitos’](https://www.nexojornal.com.br/colunistas/2024/03/13/o-olhar-amoroso-de-wim-wenders-em-dias-perfeitos)
+- [Como o artigo ‘Trump e o Ocidente’ contribuiu para o bolsonarismo](https://www.nexojornal.com.br/academico/2024/03/13/como-o-artigo-trump-e-o-ocidente-contribuiu-para-o-bolsonarismo)
+- [Câmara dos EUA aprova projeto que pode banir TikTok](https://www.nexojornal.com.br/extra/2024/03/13/camara-dos-eua-aprova-projeto-que-pode-banir-tiktok)
 - [STF valida licença-maternidade à mãe não gestante](https://www.nexojornal.com.br/extra/2024/03/13/stf-da-licenca-maternidade-a-mae-nao-gestante)
 - [No Japão, para ver Vênus](https://www.nexojornal.com.br/externo/2024/03/13/no-japao-para-ver-venus)
-- [Como funcionam os ‘carros voadores’ da Embraer](https://www.nexojornal.com.br/expresso/2024/03/13/como-funcionam-os-carros-voadores-da-embraer)
-- [Briga, fogo e furto: entenda a crise do União Brasil](https://www.nexojornal.com.br/podcast/2024/03/13/politica-crise-partido-uniao-brasil)
-- [Comissão do Senado aprova PEC antidrogas em reação ao STF](https://www.nexojornal.com.br/extra/2024/03/13/comissao-do-senado-aprova-pec-antidrogas-em-reacao-a-stf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
