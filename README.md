@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O martírio do touro antes de morrer em uma tourada](https://www.nexojornal.com.br/externo/2024/03/14/o-martirio-do-touro-antes-de-morrer-em-uma-tourada)
 - [Corte Interamericana condena Brasil em 2 ações por abuso da PM](https://www.nexojornal.com.br/extra/2024/03/14/brasil-condenado-corte-interamericana-direitos-humanos)
 - [Como agem os repelentes. E qual seu papel contra dengue](https://www.nexojornal.com.br/expresso/2024/03/14/dengue-como-funciona-repelente)
 - [Você reconhece o país pelos produtos exportados? Faça o teste](https://www.nexojornal.com.br/interativo/2024/03/14/teste-produto-exportacao-de-cada-pais)
 - [Atos marcam 6 anos do assassinato de Marielle e Anderson](https://www.nexojornal.com.br/extra/2024/03/14/marielle-anderson-assassinato-seis-anos)
-- [Como a sucessão da Vale acirra a tensão entre Lula e o mercado](https://www.nexojornal.com.br/expresso/2024/03/13/presidente-da-vale-sucessor-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
