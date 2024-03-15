@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a regulação europeia de IA pode inspirar outros países](https://www.nexojornal.com.br/expresso/2024/03/15/regulacao-europa-inteligencia-artificial)
 - [Comandantes apontam trama golpista em reunião com Bolsonaro](https://www.nexojornal.com.br/extra/2024/03/15/comandantes-forcas-reuniao-trama-golpista-bolsonaro)
 - [Morador de rua é primeiro absolvido por invasão dos Poderes](https://www.nexojornal.com.br/extra/2024/03/15/morador-de-rua-absolvido-8-de-janeiro)
 - [Investigação sobre morte de Marielle e Anderson vai ao STF](https://www.nexojornal.com.br/extra/2024/03/15/caso-marielle-stf)
 - [O efeito de uma oposição extrema em comissões da Câmara](https://www.nexojornal.com.br/expresso/2024/03/14/efeito-oposicao-comissoes-da-camara)
-- [Como são as eleições que darão mais um mandato para Putin](https://www.nexojornal.com.br/expresso/2024/03/14/eleicao-presidente-russia-vladimir-putin)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
