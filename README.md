@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A busca inglória por um pardo legítimo](https://gamarevista.uol.com.br/colunistas/marilene-felinto/a-busca-ingloria-por-um-pardo-legitimo/)
+- [As Abandonadoras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-abandonadoras/)
 - [A versão para TV de “Mr. and Mrs. Smith”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-versao-para-tv-de-mr-and-mrs-smith/)
 - [“Bem-Comportadas”: mulheres e as amarradas do pecado](https://gamarevista.uol.com.br/achamos-que-vale/ler/bem-comportadas-mulheres-e-as-amarradas-do-pecado/)
 - [A volta do podcast “Foro de Teresina”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-volta-do-podcast-foro-de-teresina/)
-- [Paul Mescal e Andrew Scott em “Todos Nós Desconhecidos”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/paul-mescal-e-andrew-scott-em-todos-nos-desconhecidos/)
-- [“Água Pantanal Fogo”, no Instituto Tomie Ohtake](https://gamarevista.uol.com.br/achamos-que-vale/ir/agua-pantanal-fogo-no-instituto-tomie-ohtake/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
