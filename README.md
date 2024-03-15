@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Investigação sobre morte de Marielle e Anderson vai ao STF](https://www.nexojornal.com.br/extra/2024/03/15/caso-marielle-stf)
 - [O efeito de uma oposição extrema em comissões da Câmara](https://www.nexojornal.com.br/expresso/2024/03/14/efeito-oposicao-comissoes-da-camara)
 - [Como são as eleições que darão mais um mandato para Putin](https://www.nexojornal.com.br/expresso/2024/03/14/eleicao-presidente-russia-vladimir-putin)
 - [A mortalidade infantil em anos eleitorais, segundo este estudo](https://www.nexojornal.com.br/externo/2024/03/14/a-mortalidade-infantil-em-anos-eleitorais-segundo-este-estudo)
 - [O avesso do avesso do avesso: a censura aos livros no Brasil](https://www.nexojornal.com.br/colunistas/2024/03/14/o-avesso-do-avesso-do-avesso-a-censura-aos-livros-no-brasil)
-- [Filho de Gal Costa pede exumação do corpo da cantora](https://www.nexojornal.com.br/extra/2024/03/14/gal-costa-filho-pede-exumacao-corpo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
