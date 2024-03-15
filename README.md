@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Exército israelense aprova plano de invasão a Rafah](https://www.nexojornal.com.br/extra/2024/03/15/exercito-israelense-aprova-plano-de-invasao-a-rafah)
+- [A cidade francesa que proibiu o uso de celulares em público](https://www.nexojornal.com.br/expresso/2024/03/15/a-cidade-francesa-que-proibiu-o-uso-de-celulares-em-publico)
+- [A distribuição de cigarros de palha em festas universitárias](https://www.nexojornal.com.br/externo/2024/03/15/a-distribuicao-de-cigarros-de-palha-em-festas-universitarias)
 - [Como a regulação europeia de IA pode inspirar outros países](https://www.nexojornal.com.br/expresso/2024/03/15/regulacao-europa-inteligencia-artificial)
 - [Comandantes apontam trama golpista em reunião com Bolsonaro](https://www.nexojornal.com.br/extra/2024/03/15/comandantes-forcas-reuniao-trama-golpista-bolsonaro)
-- [Morador de rua é primeiro absolvido por invasão dos Poderes](https://www.nexojornal.com.br/extra/2024/03/15/morador-de-rua-absolvido-8-de-janeiro)
-- [Investigação sobre morte de Marielle e Anderson vai ao STF](https://www.nexojornal.com.br/extra/2024/03/15/caso-marielle-stf)
-- [O efeito de uma oposição extrema em comissões da Câmara](https://www.nexojornal.com.br/expresso/2024/03/14/efeito-oposicao-comissoes-da-camara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
