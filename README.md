@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como são as eleições que darão mais um mandato para Putin](https://www.nexojornal.com.br/expresso/2024/03/14/eleicao-presidente-russia-vladimir-putin)
+- [A mortalidade infantil em anos eleitorais, segundo este estudo](https://www.nexojornal.com.br/externo/2024/03/14/a-mortalidade-infantil-em-anos-eleitorais-segundo-este-estudo)
+- [O avesso do avesso do avesso: a censura aos livros no Brasil](https://www.nexojornal.com.br/colunistas/2024/03/14/o-avesso-do-avesso-do-avesso-a-censura-aos-livros-no-brasil)
 - [Filho de Gal Costa pede exumação do corpo da cantora](https://www.nexojornal.com.br/extra/2024/03/14/gal-costa-filho-pede-exumacao-corpo)
 - [A mensagem que a Nasa vai enviar para a lua de Júpiter](https://www.nexojornal.com.br/expresso/2024/03/14/lua-nasa-mensagem-de-jupiter)
-- [Por que republicanos e democratas querem banir o TikTok nos EUA](https://www.nexojornal.com.br/podcast/2024/03/14/por-que-tiktok-banido-eua)
-- [O martírio do touro antes de morrer em uma tourada](https://www.nexojornal.com.br/externo/2024/03/14/o-martirio-do-touro-antes-de-morrer-em-uma-tourada)
-- [Corte Interamericana condena Brasil em 2 ações por abuso da PM](https://www.nexojornal.com.br/extra/2024/03/14/brasil-condenado-corte-interamericana-direitos-humanos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
