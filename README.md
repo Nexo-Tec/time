@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O golpe na fala de comandantes. O caso Marielle no STF. E mais](https://www.nexojornal.com.br/video/2024/03/15/semana-bolsonaro-tentativa-de-golpe-e-lula-influencia-governo-petrobras)
+- [Brasil supera total de casos de dengue registrados em 2023](https://www.nexojornal.com.br/extra/2024/03/15/brasil-supera-casos-de-dengue-de-2023)
 - [Exército israelense aprova plano de invasão a Rafah](https://www.nexojornal.com.br/extra/2024/03/15/exercito-israelense-aprova-plano-de-invasao-a-rafah)
 - [A cidade francesa que proibiu o uso de celulares em público](https://www.nexojornal.com.br/expresso/2024/03/15/a-cidade-francesa-que-proibiu-o-uso-de-celulares-em-publico)
 - [A distribuição de cigarros de palha em festas universitárias](https://www.nexojornal.com.br/externo/2024/03/15/a-distribuicao-de-cigarros-de-palha-em-festas-universitarias)
-- [Como a regulação europeia de IA pode inspirar outros países](https://www.nexojornal.com.br/expresso/2024/03/15/regulacao-europa-inteligencia-artificial)
-- [Comandantes apontam trama golpista em reunião com Bolsonaro](https://www.nexojornal.com.br/extra/2024/03/15/comandantes-forcas-reuniao-trama-golpista-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
