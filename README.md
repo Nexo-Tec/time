@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sem citar conspiração, Bolsonaro diz não temer julgamento](https://www.nexojornal.com.br/extra/2024/03/16/bolsonaro-resposta-militares-golpe)
 - [Quiz da exportação. Prêmios do Oscar. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/16/quiz-produtos-exportados-e-ganhadores-do-oscar-graficos)
 - [Por que línguas distantes podem soar parecidas](https://www.nexojornal.com.br/expresso/2024/03/15/por-que-linguas-distantes-podem-soar-parecidas)
 - [‘O colibri’: quatro gerações de uma família italiana](https://www.nexojornal.com.br/estante-trechos/2024/03/15/o-colibri-quatro-geracoes-de-uma-familia-italiana)
 - [Como começar a ouvir Kraftwerk](https://www.nexojornal.com.br/podcast/2024/03/15/banda-kraftwerk-musica-eletronica-historia)
-- [Por que os acordos de leniência vêm dando tanto problema](https://www.nexojornal.com.br/expresso/2024/03/15/acordo-de-leniencia-o-que-deu-errado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
