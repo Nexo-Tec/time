@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Na Cisjordânia, chanceler brasileiro critica Israel](https://www.nexojornal.com.br/extra/2024/03/17/mauro-vieira-critica-israel)
 - [Putin vence eleição e superará longevidade de Stalin na Rússia](https://www.nexojornal.com.br/extra/2024/03/17/putin-eleito-presidente-russia-2030)
 - [Onda de calor causa sensação térmica recorde no Rio](https://www.nexojornal.com.br/extra/2024/03/17/sensacao-termica-calor-rio)
 - [5 livros brasileiros de fantasia que desafiam convenções do gênero](https://www.nexojornal.com.br/estante-favoritos/2024/03/17/5-livros-brasileiros-de-fantasia-que-desafiam-convencoes-do-genero)
 - [O instituto de cinema que se tornou alvo de Javier Milei](https://www.nexojornal.com.br/expresso/2024/03/17/argentina-milei-cortes-cinema-incaa)
-- [A política de segurança alimentar no ensino superior](https://www.nexojornal.com.br/externo/2024/03/17/a-politica-de-seguranca-alimentar-no-ensino-superior)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
