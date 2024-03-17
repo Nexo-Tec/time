@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Sem citar conspiração, Bolsonaro diz não temer julgamento](https://www.nexojornal.com.br/extra/2024/03/16/bolsonaro-resposta-militares-golpe)
-- [Quiz da exportação. Prêmios do Oscar. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/16/quiz-produtos-exportados-e-ganhadores-do-oscar-graficos)
-- [Por que línguas distantes podem soar parecidas](https://www.nexojornal.com.br/expresso/2024/03/15/por-que-linguas-distantes-podem-soar-parecidas)
-- [‘O colibri’: quatro gerações de uma família italiana](https://www.nexojornal.com.br/estante-trechos/2024/03/15/o-colibri-quatro-geracoes-de-uma-familia-italiana)
-- [Como começar a ouvir Kraftwerk](https://www.nexojornal.com.br/podcast/2024/03/15/banda-kraftwerk-musica-eletronica-historia)
+- [5 livros brasileiros de fantasia que desafiam convenções do gênero](https://www.nexojornal.com.br/estante-favoritos/2024/03/17/5-livros-brasileiros-de-fantasia-que-desafiam-convencoes-do-genero)
+- [O instituto de cinema que se tornou alvo de Javier Milei](https://www.nexojornal.com.br/expresso/2024/03/17/argentina-milei-cortes-cinema-incaa)
+- [A política de segurança alimentar no ensino superior](https://www.nexojornal.com.br/externo/2024/03/17/a-politica-de-seguranca-alimentar-no-ensino-superior)
+- [O que é teologia do domínio. E como ela aparece no Brasil](https://www.nexojornal.com.br/expresso/2024/03/17/teologia-do-dominio-o-que-e)
+- [A culinária paraense na COP30: alimentação e justiça climática](https://www.nexojornal.com.br/ensaio/2024/03/17/a-culinaria-paraense-na-cop30-alimentacao-e-justica-climatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
