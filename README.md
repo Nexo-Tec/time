@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bruna Dantas Lobato: “A tradução de um livro é sempre um trabalho autoral”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruna-dantas-lobato-traducao-livro-brasileiro-national-book-award-a-palavra-que-resta/)
 - [A busca inglória por um pardo legítimo](https://gamarevista.uol.com.br/colunistas/marilene-felinto/a-busca-ingloria-por-um-pardo-legitimo/)
 - [As Abandonadoras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-abandonadoras/)
 - [A versão para TV de “Mr. and Mrs. Smith”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-versao-para-tv-de-mr-and-mrs-smith/)
 - [“Bem-Comportadas”: mulheres e as amarradas do pecado](https://gamarevista.uol.com.br/achamos-que-vale/ler/bem-comportadas-mulheres-e-as-amarradas-do-pecado/)
-- [A volta do podcast “Foro de Teresina”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-volta-do-podcast-foro-de-teresina/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
