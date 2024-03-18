@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A crise que afeta o mercado de papéis reciclados](https://www.nexojornal.com.br/externo/2024/03/17/a-crise-que-afeta-o-mercado-de-papeis-reciclados)
+- [Como as novas políticas da Meta reforçam a polarização](https://www.nexojornal.com.br/ensaio/2024/03/17/como-as-novas-politicas-da-meta-reforcam-a-polarizacao)
+- [Como o calor extremo reconfigura modos de trabalho](https://www.nexojornal.com.br/expresso/2024/03/17/efeito-do-calor-extremo-no-trabalho)
+- [O que é possível fazer para baixar os preços dos alimentos](https://www.nexojornal.com.br/expresso/2024/03/17/inflacao-como-baixar-preco-alimentos)
 - [Na Cisjordânia, chanceler brasileiro critica Israel](https://www.nexojornal.com.br/extra/2024/03/17/mauro-vieira-critica-israel)
-- [Putin vence eleição e superará longevidade de Stalin na Rússia](https://www.nexojornal.com.br/extra/2024/03/17/putin-eleito-presidente-russia-2030)
-- [Onda de calor causa sensação térmica recorde no Rio](https://www.nexojornal.com.br/extra/2024/03/17/sensacao-termica-calor-rio)
-- [5 livros brasileiros de fantasia que desafiam convenções do gênero](https://www.nexojornal.com.br/estante-favoritos/2024/03/17/5-livros-brasileiros-de-fantasia-que-desafiam-convencoes-do-genero)
-- [O instituto de cinema que se tornou alvo de Javier Milei](https://www.nexojornal.com.br/expresso/2024/03/17/argentina-milei-cortes-cinema-incaa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
