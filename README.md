@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A reação bolsonarista aos ex-chefes das Forças Armadas](https://www.nexojornal.com.br/podcast/2024/03/18/bolsonaristas-contra-forcas-armadas-comandantes-depoimento)
 - [O que cientistas esperam da passagem do asteroide Apophis](https://www.nexojornal.com.br/externo/2024/03/18/o-que-cientistas-esperam-da-passagem-do-asteroide-apophis)
 - [Nike anuncia nova camisa da seleção brasileira de futebol](https://www.nexojornal.com.br/extra/2024/03/18/nova-camisa-da-selecao-brasileira)
 - [Por que a Netflix aposta em produções fora dos EUA](https://www.nexojornal.com.br/expresso/2024/03/18/netflix-producao-audiovisual-fora-dos-eua)
 - [Rússia nega fraude em eleição que deu 87% de votos a Putin](https://www.nexojornal.com.br/extra/2024/03/18/russia-nega-fraude-eleicao-putin)
-- [Vídeo mostra ameaças de deputado federal a ex-companheira](https://www.nexojornal.com.br/extra/2024/03/18/video-mostra-delegado-da-cunha-fazendo-ameaca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
