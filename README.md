@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rússia nega fraude em eleição que deu 87% de votos a Putin](https://www.nexojornal.com.br/extra/2024/03/18/russia-nega-fraude-eleicao-putin)
+- [Vídeo mostra ameaças de deputado federal a ex-companheira](https://www.nexojornal.com.br/extra/2024/03/18/video-mostra-delegado-da-cunha-fazendo-ameaca)
 - [A crise que afeta o mercado de papéis reciclados](https://www.nexojornal.com.br/externo/2024/03/17/a-crise-que-afeta-o-mercado-de-papeis-reciclados)
 - [Como as novas políticas da Meta reforçam a polarização](https://www.nexojornal.com.br/ensaio/2024/03/17/como-as-novas-politicas-da-meta-reforcam-a-polarizacao)
 - [Como o calor extremo reconfigura modos de trabalho](https://www.nexojornal.com.br/expresso/2024/03/17/efeito-do-calor-extremo-no-trabalho)
-- [O que é possível fazer para baixar os preços dos alimentos](https://www.nexojornal.com.br/expresso/2024/03/17/inflacao-como-baixar-preco-alimentos)
-- [Na Cisjordânia, chanceler brasileiro critica Israel](https://www.nexojornal.com.br/extra/2024/03/17/mauro-vieira-critica-israel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
