@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Hong Kong aprova lei de segurança nacional em vitória da China](https://www.nexojornal.com.br/extra/2024/03/19/hong-kong-aprova-lei-de-seguranca-nacional)
 - [Pedro Herz, fundador da Livraria Cultura, morre aos 83 anos](https://www.nexojornal.com.br/extra/2024/03/19/pedro-herz-livraria-cultura-morreu)
 - [PF indicia Bolsonaro por fraude em cartão de vacina de covid](https://www.nexojornal.com.br/extra/2024/03/19/bolsonaro-indiciado-fraude-vacina)
 - [Por que governadores bolsonaristas foram para Israel](https://www.nexojornal.com.br/expresso/2024/03/18/por-que-governadores-bolsonaristas-foram-para-israel)
 - [Dia a dia do golpe: a marcha da família com Deus pela liberdade](https://www.nexojornal.com.br/serie/2024/03/18/marcha-familia-deus-liberdade)
-- [Com 5º mandato, Putin pode superar Stalin em tempo no poder](https://www.nexojornal.com.br/grafico/2024/03/18/russia-putin-e-stalin-tempo-no-poder)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
