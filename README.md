@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que governadores bolsonaristas foram para Israel](https://www.nexojornal.com.br/expresso/2024/03/18/por-que-governadores-bolsonaristas-foram-para-israel)
+- [Dia a dia do golpe: a marcha da família com Deus pela liberdade](https://www.nexojornal.com.br/serie/2024/03/18/marcha-familia-deus-liberdade)
+- [Com 5º mandato, Putin pode superar Stalin em tempo no poder](https://www.nexojornal.com.br/grafico/2024/03/18/russia-putin-e-stalin-tempo-no-poder)
 - [Por que a reforma tributária da renda ficou em segundo plano](https://www.nexojornal.com.br/expresso/2024/03/18/reforma-tributaria-imposto-de-renda-lula)
 - [Comissões de heteroclassificação racial: modos de usar](https://www.nexojornal.com.br/colunistas/2024/03/18/comissoes-de-heteroclassificacao-racial-modos-de-usar)
-- [A reação bolsonarista aos ex-chefes das Forças Armadas](https://www.nexojornal.com.br/podcast/2024/03/18/bolsonaristas-contra-forcas-armadas-comandantes-depoimento)
-- [O que cientistas esperam da passagem do asteroide Apophis](https://www.nexojornal.com.br/externo/2024/03/18/o-que-cientistas-esperam-da-passagem-do-asteroide-apophis)
-- [Nike anuncia nova camisa da seleção brasileira de futebol](https://www.nexojornal.com.br/extra/2024/03/18/nova-camisa-da-selecao-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
