@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mark Z. Danielewski, de “Casa de Folhas”: “O livro é meu pequeno monstro que cresceu”](https://gamarevista.uol.com.br/formato/conversas/mark-z-danielewski-de-casa-de-folhas-o-livro-e-meu-pequeno-monstro-que-cresceu/)
 - [@0800tete0001](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/0800tete0001/)
 - [A receita perfeita para fazer o bolinho crocante, molhadinho e mais democrático que existe](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-receita-perfeita-para-fazer-o-bolinho-crocante-molhadinho-e-mais-democratico-que-existe/)
 - [Bruna Dantas Lobato: “A tradução de um livro é sempre um trabalho autoral”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruna-dantas-lobato-traducao-livro-brasileiro-national-book-award-a-palavra-que-resta/)
 - [A busca inglória por um pardo legítimo](https://gamarevista.uol.com.br/colunistas/marilene-felinto/a-busca-ingloria-por-um-pardo-legitimo/)
-- [As Abandonadoras](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-abandonadoras/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
