@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [SP e Paraná têm mais cidades com melhor saneamento. Veja lista](https://www.nexojornal.com.br/extra/2024/03/20/cidades-melhor-saneamento-basico-brasil)
 - [Espanha dá liberdade provisória sob fiança a Daniel Alves](https://www.nexojornal.com.br/extra/2024/03/20/daniel-alves-liberdade-condicional)
 - [Qual é a lógica de cobrar mais impostos dos ultraprocessados](https://www.nexojornal.com.br/expresso/2024/03/19/qual-e-a-logica-de-cobrar-mais-impostos-dos-ultraprocessados)
 - [Nazistas negros, elfos domésticos e o futuro da espécie](https://www.nexojornal.com.br/colunistas/2024/03/19/nazistas-negros-elfos-domesticos-e-o-futuro-da-especie)
 - [STF homologa delação de Ronnie Lessa, diz Lewandowski](https://www.nexojornal.com.br/extra/2024/03/19/stf-homologa-delacao-de-ronnie-lessa-diz-lewandowski)
-- [Qual o caminho até a resolução dos casos criminais de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/03/19/quais-caminhos-para-que-o-caso-trama-golpista-seja-encerrado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
