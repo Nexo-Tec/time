@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Construindo políticas de segurança alimentar efetivas e duradouras](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/construindo-politicas-de-seguranca-alimentar-efetivas-e-duradouras/)
+- [Controle externo, orçamento e equidade de gênero: um estudo de caso do Tribunal de Contas do Município de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/controle-externo-orcamento-e-equidade-de-genero-um-estudo-de-caso-do-tribunal-de-contas-do-municipio-de-sao-paulo/)
 - [Hesitação vacinal infantil e covid-19](https://pp.nexojornal.com.br/academico/2024/03/13/hesitacao-vacinal-infantil-e-covid-19/)
 - [Vacinação de crianças no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/03/13/vacinacao-das-criancas-no-brasil/)
 - [Eloá Davanzo: juventudes, aspirações e desigualdades](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/13/eloa-davanzo-juventudes-aspiracoes-e-desigualdades/)
-- [Por uma Defensoria Pública Afro-Indígena](https://pp.nexojornal.com.br/opiniao/2024/03/13/por-uma-defensoria-publica-afro-indigena/)
-- [Cultura e política no município](https://pp.nexojornal.com.br/opiniao/2024/03/08/cultura-e-politica-no-municipio/)
 <!-- PP_LIST:END -->
 
