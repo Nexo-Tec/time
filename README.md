@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é a lógica de cobrar mais impostos dos ultraprocessados](https://www.nexojornal.com.br/expresso/2024/03/19/qual-e-a-logica-de-cobrar-mais-impostos-dos-ultraprocessados)
+- [Nazistas negros, elfos domésticos e o futuro da espécie](https://www.nexojornal.com.br/colunistas/2024/03/19/nazistas-negros-elfos-domesticos-e-o-futuro-da-especie)
+- [STF homologa delação de Ronnie Lessa, diz Lewandowski](https://www.nexojornal.com.br/extra/2024/03/19/stf-homologa-delacao-de-ronnie-lessa-diz-lewandowski)
+- [Qual o caminho até a resolução dos casos criminas de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/03/19/quais-caminhos-para-que-o-caso-trama-golpista-seja-encerrado)
 - [A reparação do Museu Picasso à artista que o espanhol boicotou](https://www.nexojornal.com.br/expresso/2024/03/19/como-museu-pretende-reparar-artista-que-picasso-boicotou)
-- [Em sua 3ª edição, Feira do Livro divulga primeiros convidados](https://www.nexojornal.com.br/extra/2024/03/19/feira-do-livro-2024-divulga-primeiros-convidados)
-- [Quais os eixos da crise que leva cubanos às ruas em 2024](https://www.nexojornal.com.br/expresso/2024/03/19/quais-os-eixos-da-crise-que-leva-cubanos-as-ruas-em-2024)
-- [Como a fraude na vacina liga golpismo a negacionismo](https://www.nexojornal.com.br/podcast/2024/03/19/bolsonaro-indiciado-em-fraude-na-vacina-de-covid-19)
-- [Duas mães: nova licença-maternidade vê não-gestante como pai](https://www.nexojornal.com.br/externo/2024/03/19/duas-maes-nova-licenca-maternidade-ve-nao-gestante-como-pai)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
