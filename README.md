@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A reparação do Museu Picasso à artista que o espanhol boicotou](https://www.nexojornal.com.br/expresso/2024/03/19/como-museu-pretende-reparar-artista-que-picasso-boicotou)
+- [Em sua 3ª edição, Feira do Livro divulga primeiros convidados](https://www.nexojornal.com.br/extra/2024/03/19/feira-do-livro-2024-divulga-primeiros-convidados)
 - [Quais os eixos da crise que leva cubanos às ruas em 2024](https://www.nexojornal.com.br/expresso/2024/03/19/quais-os-eixos-da-crise-que-leva-cubanos-as-ruas-em-2024)
 - [Como a fraude na vacina liga golpismo a negacionismo](https://www.nexojornal.com.br/podcast/2024/03/19/bolsonaro-indiciado-em-fraude-na-vacina-de-covid-19)
 - [Duas mães: nova licença-maternidade vê não-gestante como pai](https://www.nexojornal.com.br/externo/2024/03/19/duas-maes-nova-licenca-maternidade-ve-nao-gestante-como-pai)
-- [Hong Kong aprova lei de segurança nacional em vitória da China](https://www.nexojornal.com.br/extra/2024/03/19/hong-kong-aprova-lei-de-seguranca-nacional)
-- [Pedro Herz, fundador da Livraria Cultura, morre aos 83 anos](https://www.nexojornal.com.br/extra/2024/03/19/pedro-herz-livraria-cultura-morreu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
