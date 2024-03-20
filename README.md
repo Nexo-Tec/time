@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Encontre os erros](https://www.nexojornal.com.br/externo/2024/03/20/encontre-os-erros)
+- [STJ decide que Robinho cumpra pena por estupro no Brasil](https://www.nexojornal.com.br/extra/2024/03/20/robinho-estupro-prisao-brasil-julgamento)
+- [Caso Marielle perto do desfecho? O foco nos irmãos Brazão](https://www.nexojornal.com.br/podcast/2024/03/20/caso-marielle-suspeitas-irmaos-brazao)
 - [Bairros centrais de São Paulo enfrentam nova queda de energia](https://www.nexojornal.com.br/extra/2024/03/20/apagao-sao-paulo-centro-consolacao-santa-cecilia-higienopolis)
 - [Por que o Google foi multado por produto para universidades](https://www.nexojornal.com.br/expresso/2024/03/20/google-workspace-for-education-multa-procon-ufjf)
-- [Israel afirma que matou 90 em invasão a hospital em Gaza](https://www.nexojornal.com.br/extra/2024/03/20/israel-invasao-hospital-gaza)
-- [SP e Paraná têm mais cidades com melhor saneamento. Veja lista](https://www.nexojornal.com.br/extra/2024/03/20/cidades-melhor-saneamento-basico-brasil)
-- [Espanha dá liberdade provisória sob fiança a Daniel Alves](https://www.nexojornal.com.br/extra/2024/03/20/daniel-alves-liberdade-condicional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
