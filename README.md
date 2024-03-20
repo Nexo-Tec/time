@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Após 8 anos, o Japão saiu do juro negativo. O que isso significa?](https://www.nexojornal.com.br/expresso/2024/03/20/economia-japao-juro-negativo)
+- [BC reduz Selic para 10,75% ao ano e pode mudar ritmo de cortes](https://www.nexojornal.com.br/extra/2024/03/20/banco-central-reduz-selic-para-1075-ao-ano)
 - [Encontre os erros](https://www.nexojornal.com.br/externo/2024/03/20/encontre-os-erros)
 - [STJ decide que Robinho cumpra pena por estupro no Brasil](https://www.nexojornal.com.br/extra/2024/03/20/robinho-estupro-prisao-brasil-julgamento)
 - [Caso Marielle perto do desfecho? O foco nos irmãos Brazão](https://www.nexojornal.com.br/podcast/2024/03/20/caso-marielle-suspeitas-irmaos-brazao)
-- [Bairros centrais de São Paulo enfrentam nova queda de energia](https://www.nexojornal.com.br/extra/2024/03/20/apagao-sao-paulo-centro-consolacao-santa-cecilia-higienopolis)
-- [Por que o Google foi multado por produto para universidades](https://www.nexojornal.com.br/expresso/2024/03/20/google-workspace-for-education-multa-procon-ufjf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
