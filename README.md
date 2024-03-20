@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel afirma que matou 90 em invasão a hospital em Gaza](https://www.nexojornal.com.br/extra/2024/03/20/israel-invasao-hospital-gaza)
 - [SP e Paraná têm mais cidades com melhor saneamento. Veja lista](https://www.nexojornal.com.br/extra/2024/03/20/cidades-melhor-saneamento-basico-brasil)
 - [Espanha dá liberdade provisória sob fiança a Daniel Alves](https://www.nexojornal.com.br/extra/2024/03/20/daniel-alves-liberdade-condicional)
 - [Qual é a lógica de cobrar mais impostos dos ultraprocessados](https://www.nexojornal.com.br/expresso/2024/03/19/qual-e-a-logica-de-cobrar-mais-impostos-dos-ultraprocessados)
 - [Nazistas negros, elfos domésticos e o futuro da espécie](https://www.nexojornal.com.br/colunistas/2024/03/19/nazistas-negros-elfos-domesticos-e-o-futuro-da-especie)
-- [STF homologa delação de Ronnie Lessa, diz Lewandowski](https://www.nexojornal.com.br/extra/2024/03/19/stf-homologa-delacao-de-ronnie-lessa-diz-lewandowski)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
