@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bairros centrais de São Paulo enfrentam nova queda de energia](https://www.nexojornal.com.br/extra/2024/03/20/apagao-sao-paulo-centro-consolacao-santa-cecilia-higienopolis)
 - [Por que o Google foi multado por produto para universidades](https://www.nexojornal.com.br/expresso/2024/03/20/google-workspace-for-education-multa-procon-ufjf)
 - [Israel afirma que matou 90 em invasão a hospital em Gaza](https://www.nexojornal.com.br/extra/2024/03/20/israel-invasao-hospital-gaza)
 - [SP e Paraná têm mais cidades com melhor saneamento. Veja lista](https://www.nexojornal.com.br/extra/2024/03/20/cidades-melhor-saneamento-basico-brasil)
 - [Espanha dá liberdade provisória sob fiança a Daniel Alves](https://www.nexojornal.com.br/extra/2024/03/20/daniel-alves-liberdade-condicional)
-- [Qual é a lógica de cobrar mais impostos dos ultraprocessados](https://www.nexojornal.com.br/expresso/2024/03/19/qual-e-a-logica-de-cobrar-mais-impostos-dos-ultraprocessados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
