@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Dario Costa quer acabar com o nosso “complexo de vira-latas marinho”](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/dario-costa-quer-acabar-com-o-nosso-complexo-de-vira-latas-marinho/)
-- [Mark Z. Danielewski, de “Casa de Folhas”: “O livro é meu pequeno monstro que cresceu”](https://gamarevista.uol.com.br/formato/conversas/mark-z-danielewski-de-casa-de-folhas-o-livro-e-meu-pequeno-monstro-que-cresceu/)
-- [@0800tete0001](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/0800tete0001/)
-- [A receita perfeita para fazer o bolinho crocante, molhadinho e mais democrático que existe](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/a-receita-perfeita-para-fazer-o-bolinho-crocante-molhadinho-e-mais-democratico-que-existe/)
-- [Bruna Dantas Lobato: “A tradução de um livro é sempre um trabalho autoral”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruna-dantas-lobato-traducao-livro-brasileiro-national-book-award-a-palavra-que-resta/)
+- [O podcast “Clodovil do Avesso”, da Elle Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-clodovil-do-avesso-da-elle-brasil/)
+- [Clarice Lispector pelo olhar de outros autores](https://gamarevista.uol.com.br/achamos-que-vale/ler/clarice-lispector-pelo-olhar-de-outros-autores/)
+- [A verve queer de Francis Bacon no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-verve-queer-de-francis-bacon-no-masp/)
+- [O legado de Liana Padilha, do NoPorn](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-legado-de-liana-padilha-do-noporn/)
+- [Colagens de Zé Vicente no Espaço Caboco, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/colagens-de-ze-vicente-no-espaco-caboco-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
