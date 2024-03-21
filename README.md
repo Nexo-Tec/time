@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Câmara aprova projeto que reestrutura o novo ensino médio](https://www.nexojornal.com.br/extra/2024/03/21/novo-ensino-medio-projeto-camara)
 - [As pressões sobre o governo diante do descontrole da dengue](https://www.nexojornal.com.br/expresso/2024/03/20/governo-federal-descontrole-dengue)
 - [Por que a mutilação genital feminina volta a assombrar a Gâmbia](https://www.nexojornal.com.br/expresso/2024/03/20/por-que-a-mutilacao-genital-feminina-volta-a-assombrar-a-gambia)
 - [O petróleo não é a chave para o desenvolvimento](https://www.nexojornal.com.br/colunistas/2024/03/20/o-petroleo-nao-e-a-chave-para-o-desenvolvimento)
 - [Câmara aprova restrição da ‘saidinha’. Texto vai à sanção](https://www.nexojornal.com.br/extra/2024/03/20/saidinha-presos-aprovacao-camara)
-- [Após 8 anos, o Japão saiu do juro negativo. O que isso significa?](https://www.nexojornal.com.br/expresso/2024/03/20/economia-japao-juro-negativo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
