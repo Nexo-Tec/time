@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que avaliar políticas públicas dos municípios é urgente](https://pp.nexojornal.com.br/topico/2024/03/20/por-que-avaliar-politicas-publicas-dos-municipios-e-urgente/)
+- [Percepção de residentes de favelas brasileiras sobre o ambiente alimentar](https://pp.nexojornal.com.br/academico/2024/03/20/percepcao-de-residentes-de-favelas-brasileiras-sobre-o-ambiente-alimentar/)
 - [Construindo políticas de segurança alimentar efetivas e duradouras](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/construindo-politicas-de-seguranca-alimentar-efetivas-e-duradouras/)
 - [Controle externo, orçamento e equidade de gênero: um estudo de caso do Tribunal de Contas do Município de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/controle-externo-orcamento-e-equidade-de-genero-um-estudo-de-caso-do-tribunal-de-contas-do-municipio-de-sao-paulo/)
 - [Hesitação vacinal infantil e covid-19](https://pp.nexojornal.com.br/academico/2024/03/13/hesitacao-vacinal-infantil-e-covid-19/)
-- [Vacinação de crianças no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/03/13/vacinacao-das-criancas-no-brasil/)
-- [Eloá Davanzo: juventudes, aspirações e desigualdades](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/13/eloa-davanzo-juventudes-aspiracoes-e-desigualdades/)
 <!-- PP_LIST:END -->
 
