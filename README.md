@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é o setor censitário, unidade territorial do Censo](https://www.nexojornal.com.br/grafico/2024/03/21/setor-censitario-menor-unidade-territorial-censo)
+- [Zona oeste é a mais populosa da cidade do Rio de Janeiro](https://www.nexojornal.com.br/grafico/2024/03/21/rio-de-janeiro-populacao-zona-oeste-zona-mais-populosa)
+- [Zona leste é a mais populosa da cidade de São Paulo](https://www.nexojornal.com.br/grafico/2024/03/21/sao-paulo-populacao-zona-leste-zona-mais-populosa)
+- [Reconhece a metrópole pela densidade demográfica?](https://www.nexojornal.com.br/interativo/2024/03/21/teste-metropole-densidade-demografica)
 - [Câmara aprova projeto que reestrutura o novo ensino médio](https://www.nexojornal.com.br/extra/2024/03/21/novo-ensino-medio-projeto-camara)
-- [As pressões sobre o governo diante do descontrole da dengue](https://www.nexojornal.com.br/expresso/2024/03/20/governo-federal-descontrole-dengue)
-- [Por que a mutilação genital feminina volta a assombrar a Gâmbia](https://www.nexojornal.com.br/expresso/2024/03/20/por-que-a-mutilacao-genital-feminina-volta-a-assombrar-a-gambia)
-- [O petróleo não é a chave para o desenvolvimento](https://www.nexojornal.com.br/colunistas/2024/03/20/o-petroleo-nao-e-a-chave-para-o-desenvolvimento)
-- [Câmara aprova restrição da ‘saidinha’. Texto vai à sanção](https://www.nexojornal.com.br/extra/2024/03/20/saidinha-presos-aprovacao-camara)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
