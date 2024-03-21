@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vinil supera CD e é mídia física que mais fatura no Brasil](https://www.nexojornal.com.br/extra/2024/03/21/vendas-vinil-cds-musica-brasil)
 - [Equipe de médico brasileiro transplanta rim de porco em pessoa](https://www.nexojornal.com.br/extra/2024/03/21/transplante-rim-porco-medico-brasileiro)
 - [O que é o setor censitário, unidade territorial do Censo](https://www.nexojornal.com.br/grafico/2024/03/21/setor-censitario-menor-unidade-territorial-censo)
 - [Zona oeste é a mais populosa da cidade do Rio de Janeiro](https://www.nexojornal.com.br/grafico/2024/03/21/rio-de-janeiro-populacao-zona-oeste-zona-mais-populosa)
 - [Zona leste é a mais populosa da cidade de São Paulo](https://www.nexojornal.com.br/grafico/2024/03/21/sao-paulo-populacao-zona-leste-zona-mais-populosa)
-- [Reconhece a metrópole pela densidade demográfica?](https://www.nexojornal.com.br/interativo/2024/03/21/teste-metropole-densidade-demografica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
