@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Kate Middleton diz que está em tratamento de câncer](https://www.nexojornal.com.br/extra/2024/03/22/kate-middleton-esta-com-cancer)
+- [Mauro Cid volta a ser preso após vazamento de áudios](https://www.nexojornal.com.br/extra/2024/03/22/mauro-cid-e-preso-apos-vazamento-de-audios)
 - [Os sítios arqueológicos descobertos no Tocantins](https://www.nexojornal.com.br/expresso/2024/03/22/os-sitios-arqueologicos-descobertos-no-tocantins)
 - [Jogadoras criticam silêncio masculino sobre casos de estupro](https://www.nexojornal.com.br/extra/2024/03/22/jogadoras-silencio-estupro-daniel-alves-e-robinho)
 - [A responsabilidade de patrões contrários à igualdade salarial](https://www.nexojornal.com.br/colunistas/2024/03/22/a-responsabilidade-de-patroes-contrarios-a-igualdade-salarial)
-- [A mudança dos EUA sobre Gaza até propor um cessar-fogo](https://www.nexojornal.com.br/expresso/2024/03/21/a-mudanca-dos-eua-sobre-gaza-ate-propor-um-cessar-fogo)
-- [Frear ou manter? O debate sobre o ritmo da queda dos juros](https://www.nexojornal.com.br/expresso/2024/03/21/frear-ou-manter-o-debate-sobre-o-ritmo-da-queda-dos-juros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
