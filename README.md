@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Lembro todo dia de você’: uma peça sobre a vida soropositiva](https://www.nexojornal.com.br/estante-trechos/2024/03/22/trecho-livro-lembro-todo-dia-de-voce-fernanda-maia-rafael-miranda)
 - [Os gastos inesperados para familiares de vítimas da covid em SP](https://www.nexojornal.com.br/externo/2024/03/22/cemiterios-privatizacao-sp-covid)
 - [A prisão de Robinho. O indiciamento de Bolsonaro. E mais](https://www.nexojornal.com.br/video/2024/03/22/prisao-robinho-indiciamento-bolsonaro-resumo-semana)
 - [Ataque a casa de shows perto de Moscou deixa ao menos 40 mortos](https://www.nexojornal.com.br/extra/2024/03/22/ataque-terrorista-em-show-moscou)
 - [Kate Middleton diz que está em tratamento de câncer](https://www.nexojornal.com.br/extra/2024/03/22/kate-middleton-esta-com-cancer)
-- [Mauro Cid volta a ser preso após vazamento de áudios](https://www.nexojornal.com.br/extra/2024/03/22/mauro-cid-e-preso-apos-vazamento-de-audios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
