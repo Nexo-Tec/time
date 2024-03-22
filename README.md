@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os gastos inesperados para familiares de vítimas da covid em SP](https://www.nexojornal.com.br/externo/2024/03/22/cemiterios-privatizacao-sp-covid)
+- [A prisão de Robinho. O indiciamento de Bolsonaro. E mais](https://www.nexojornal.com.br/video/2024/03/22/prisao-robinho-indiciamento-bolsonaro-resumo-semana)
+- [Ataque a casa de shows perto de Moscou deixa ao menos 40 mortos](https://www.nexojornal.com.br/extra/2024/03/22/ataque-terrorista-em-show-moscou)
 - [Kate Middleton diz que está em tratamento de câncer](https://www.nexojornal.com.br/extra/2024/03/22/kate-middleton-esta-com-cancer)
 - [Mauro Cid volta a ser preso após vazamento de áudios](https://www.nexojornal.com.br/extra/2024/03/22/mauro-cid-e-preso-apos-vazamento-de-audios)
-- [Os sítios arqueológicos descobertos no Tocantins](https://www.nexojornal.com.br/expresso/2024/03/22/os-sitios-arqueologicos-descobertos-no-tocantins)
-- [Jogadoras criticam silêncio masculino sobre casos de estupro](https://www.nexojornal.com.br/extra/2024/03/22/jogadoras-silencio-estupro-daniel-alves-e-robinho)
-- [A responsabilidade de patrões contrários à igualdade salarial](https://www.nexojornal.com.br/colunistas/2024/03/22/a-responsabilidade-de-patroes-contrarios-a-igualdade-salarial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
