@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que dizer quando te perguntam para que serve o jornalismo?](https://www.nexojornal.com.br/externo/2024/03/22/o-que-dizer-quando-te-perguntam-para-que-serve-o-jornalismo)
+- [Robinho e Dani Alves: como Itália e Espanha chegaram às sentenças](https://www.nexojornal.com.br/expresso/2024/03/22/caso-robinho-daniel-alves-condenacao-estupro-espanha-e-italia)
+- [Como o vazamento dos áudios de Mauro Cid afeta sua delação](https://www.nexojornal.com.br/expresso/2024/03/22/vazamento-audios-cid-delacao)
+- [Temporais deixam mortos e causam deslizamentos no Rio](https://www.nexojornal.com.br/extra/2024/03/22/chuvas-intensas-no-rio-de-janeiro-frente-fria)
 - [‘Lembro todo dia de você’: uma peça sobre a vida soropositiva](https://www.nexojornal.com.br/estante-trechos/2024/03/22/trecho-livro-lembro-todo-dia-de-voce-fernanda-maia-rafael-miranda)
-- [Os gastos inesperados para familiares de vítimas da covid em SP](https://www.nexojornal.com.br/externo/2024/03/22/cemiterios-privatizacao-sp-covid)
-- [A prisão de Robinho. O indiciamento de Bolsonaro. E mais](https://www.nexojornal.com.br/video/2024/03/22/prisao-robinho-indiciamento-bolsonaro-resumo-semana)
-- [Ataque a casa de shows perto de Moscou deixa ao menos 40 mortos](https://www.nexojornal.com.br/extra/2024/03/22/ataque-terrorista-em-show-moscou)
-- [Kate Middleton diz que está em tratamento de câncer](https://www.nexojornal.com.br/extra/2024/03/22/kate-middleton-esta-com-cancer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
