@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dados do Censo. Tempo de Putin no poder. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/23/setores-censitarios-e-tempo-de-putin-no-poder-graficos)
 - [O que dizer quando te perguntam para que serve o jornalismo?](https://www.nexojornal.com.br/externo/2024/03/22/o-que-dizer-quando-te-perguntam-para-que-serve-o-jornalismo)
 - [Robinho e Dani Alves: como Itália e Espanha chegaram às sentenças](https://www.nexojornal.com.br/expresso/2024/03/22/caso-robinho-daniel-alves-condenacao-estupro-espanha-e-italia)
 - [Como o vazamento dos áudios de Mauro Cid afeta sua delação](https://www.nexojornal.com.br/expresso/2024/03/22/vazamento-audios-cid-delacao)
 - [Chuva deixa mortos e causa deslizamentos no Rio](https://www.nexojornal.com.br/extra/2024/03/22/chuvas-intensas-no-rio-de-janeiro-frente-fria)
-- [‘Lembro todo dia de você’: uma peça sobre a vida soropositiva](https://www.nexojornal.com.br/estante-trechos/2024/03/22/trecho-livro-lembro-todo-dia-de-voce-fernanda-maia-rafael-miranda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
