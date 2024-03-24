@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Suspeitos de mandar matar Marielle e Anderson são presos](https://www.nexojornal.com.br/extra/2024/03/24/suspeitos-de-mandar-matar-marielle-e-anderson-sao-presos)
 - [5 livros que mostram a relação entre poder e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/03/24/5-livros-que-mostram-a-relacao-entre-poder-e-cultura)
 - [Síndrome de Down: do diagnóstico às terapias para pais e filhos](https://www.nexojornal.com.br/externo/2024/03/24/sindrome-de-down-do-diagnostico-as-terapias-para-pais-e-filhos)
 - [Como a ONU decide qual o país mais feliz do mundo](https://www.nexojornal.com.br/expresso/2024/03/24/como-a-onu-decide-qual-o-pais-mais-feliz-do-mundo)
 - [Entre erros e polêmicas… a defesa das cotas raciais](https://www.nexojornal.com.br/ensaio/2024/03/24/entre-erros-e-polemicas-a-defesa-das-cotas-raciais)
-- [O que eram as reformas de base, centrais no golpe de 64](https://www.nexojornal.com.br/expresso/2024/03/24/o-que-eram-as-reformas-de-base-centrais-no-golpe-de-64)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
