@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Liliana Emparan: “O problema não é a separação, mas o que as pessoas dizem nesse momento”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/liliana-emparan-como-lidar-com-a-separacao-o-divorcio-casamento/)
 - [Irmãos](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/irmaos/)
 - [Quem Tem Medo do Gênero?](https://gamarevista.uol.com.br/cultura/trecho-de-livro/quem-tem-medo-do-genero/)
 - [O podcast “Clodovil do Avesso”, da Elle Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-clodovil-do-avesso-da-elle-brasil/)
 - [Clarice Lispector pelo olhar de outros autores](https://gamarevista.uol.com.br/achamos-que-vale/ler/clarice-lispector-pelo-olhar-de-outros-autores/)
-- [A verve queer de Francis Bacon no Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-verve-queer-de-francis-bacon-no-masp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
