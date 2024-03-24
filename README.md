@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Rússia capturou atiradores que mataram 133, diz Putin](https://www.nexojornal.com.br/extra/2024/03/23/putin-sobre-atentado-em-moscou)
-- [Dados do Censo. Tempo de Putin no poder. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/23/setores-censitarios-e-tempo-de-putin-no-poder-graficos)
-- [O que dizer quando te perguntam para que serve o jornalismo?](https://www.nexojornal.com.br/externo/2024/03/22/o-que-dizer-quando-te-perguntam-para-que-serve-o-jornalismo)
-- [Robinho e Dani Alves: como Itália e Espanha chegaram às sentenças](https://www.nexojornal.com.br/expresso/2024/03/22/caso-robinho-daniel-alves-condenacao-estupro-espanha-e-italia)
-- [Como o vazamento dos áudios de Mauro Cid afeta sua delação](https://www.nexojornal.com.br/expresso/2024/03/22/vazamento-audios-cid-delacao)
+- [5 livros que mostram a relação entre poder e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/03/24/5-livros-que-mostram-a-relacao-entre-poder-e-cultura)
+- [Síndrome de Down: do diagnóstico às terapias para pais e filhos](https://www.nexojornal.com.br/externo/2024/03/24/sindrome-de-down-do-diagnostico-as-terapias-para-pais-e-filhos)
+- [Como a ONU decide qual o país mais feliz do mundo](https://www.nexojornal.com.br/expresso/2024/03/24/como-a-onu-decide-qual-o-pais-mais-feliz-do-mundo)
+- [Entre erros e polêmicas… a defesa das cotas raciais](https://www.nexojornal.com.br/ensaio/2024/03/24/entre-erros-e-polemicas-a-defesa-das-cotas-raciais)
+- [O que eram as reformas de base, centrais no golpe de 64](https://www.nexojornal.com.br/expresso/2024/03/24/o-que-eram-as-reformas-de-base-centrais-no-golpe-de-64)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
