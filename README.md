@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conselho de Segurança da ONU aprova 1º cessar-fogo em Gaza](https://www.nexojornal.com.br/extra/2024/03/25/conselho-seguranca-aprova-cessar-fogo-gaza)
 - [‘Escravidão foi a primeira grande aposta do Estado brasileiro’](https://www.nexojornal.com.br/entrevista/2024/03/24/brasil-e-estado-escravista-por-opcao-politica)
 - [O que é preciso fazer para votar nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/03/24/o-que-e-preciso-fazer-para-votar-nas-eleicoes-de-2024)
 - [Dia a dia do golpe: a revolta dos marinheiros](https://www.nexojornal.com.br/serie/2024/03/24/revolta-marinheiros-1964)
 - [O plano de criar corredores ecológicos no Pantanal](https://www.nexojornal.com.br/externo/2024/03/24/o-plano-de-criar-corredores-ecologicos-no-pantanal)
-- [A Constituição de 1824 sob a ótica política contemporânea](https://www.nexojornal.com.br/ensaio/2024/03/24/a-constituicao-de-1824-sob-a-otica-politica-contemporanea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
