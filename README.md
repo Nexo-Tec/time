@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Bases para pensar o futuro da educação brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/bases-para-pensar-o-futuro-da-educacao-brasileira/)
+- [A Política Nacional de Saúde Mental nas escolas foi criada, mas e agora?](https://pp.nexojornal.com.br/opiniao/2024/03/25/a-politica-nacional-de-saude-mental-nas-escolas-foi-criada-mas-e-agora/)
+- [O mapa da “terra sem males”: rotas para promoção da biodiversidade alimentar](https://pp.nexojornal.com.br/opiniao/2024/03/25/o-mapa-da-terra-sem-males-rotas-para-promocao-da-biodiversidade-alimentar/)
+- [Um retrato da Câmara dos Deputados pelas lentes dos Projetos de Lei relevantes para o campo religioso](https://pp.nexojornal.com.br/opiniao/2024/03/25/um-retrato-da-camara-dos-deputados-pelas-lentes-dos-projetos-de-lei-relevantes-para-o-campo-religioso/)
 - [Como a exigência da mobilidade afeta a vida de trabalhadoras motogirls](https://pp.nexojornal.com.br/academico/2024/03/25/como-a-exigencia-da-mobilidade-afeta-a-vida-de-trabalhadoras-motogirls/)
-- [A piscicultura da Amazônia e o uso de bioflocos: um exemplo de investimento em ciência e tecnologia estratégico para a região](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/a-piscicultura-da-amazonia-e-a-aplicacao-de-bioflocos-um-exemplo-do-por-que-o-investimento-em-ciencia-e-tecnologia-e-estrategico-para-a-regiao/)
-- [Dez anos depois de Cláudia ser assassinada e arrastada por policiais, o Estado brasileiro a violenta mais uma vez](https://pp.nexojornal.com.br/opiniao/2024/03/25/dez-anos-depois-de-claudia-ser-assassinada-e-arrastada-por-policiais-o-estado-brasileiro-a-violenta-mais-uma-vez/)
-- [Mães em luta: o caso Johnatha e a busca por justiça](https://pp.nexojornal.com.br/opiniao/2024/03/25/maes-em-luta-o-caso-johnatha-e-a-busca-por-justica/)
-- [Por que avaliar políticas públicas dos municípios é urgente](https://pp.nexojornal.com.br/topico/2024/03/20/por-que-avaliar-politicas-publicas-dos-municipios-e-urgente/)
 <!-- PP_LIST:END -->
 
