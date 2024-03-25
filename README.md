@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF diz que Marielle era obstáculo às atividades criminosas dos Brazão](https://www.nexojornal.com.br/extra/2024/03/24/por-que-marielle-franco-foi-morta)
 - [Chuvas fortes matam 17 pessoas no Espírito Santo](https://www.nexojornal.com.br/extra/2024/03/24/chuvas-fortes-matam-17-pessoas-no-espirito-santo)
 - [Quem são os irmãos presos na reta final do caso Marielle](https://www.nexojornal.com.br/expresso/2024/03/24/irmaos-brazao-suspeitos-de-mandar-matar-marielle)
 - [Suspeitos de mandar matar Marielle e Anderson são presos](https://www.nexojornal.com.br/extra/2024/03/24/suspeitos-de-mandar-matar-marielle-e-anderson-sao-presos)
 - [5 livros que mostram a relação entre poder e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/03/24/5-livros-que-mostram-a-relacao-entre-poder-e-cultura)
-- [Síndrome de Down: do diagnóstico às terapias para pais e filhos](https://www.nexojornal.com.br/externo/2024/03/24/sindrome-de-down-do-diagnostico-as-terapias-para-pais-e-filhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
