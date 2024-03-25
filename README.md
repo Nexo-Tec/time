@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os impactos da mudança do clima no sistema energético brasileiro, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/03/25/os-impactos-da-mudanca-do-clima-no-sistema-energetico-brasileiro-em-7-pontos/)
 - [Ana Paula Bortoletto: rotulagem nutricional e escolhas alimentares](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/25/ana-paula-bortoletto-rotulagem-nutricional-e-escolhas-alimentares/)
 - [Integralidade de práticas do cuidado: caminhos para ampliar debates em alimentação e nutrição](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/integralidade-de-praticas-do-cuidado-caminhos-para-ampliar-debates-em-alimentacao-e-nutricao/)
 - [Bases para pensar o futuro da educação brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/bases-para-pensar-o-futuro-da-educacao-brasileira/)
 - [A Política Nacional de Saúde Mental nas escolas foi criada, mas e agora?](https://pp.nexojornal.com.br/opiniao/2024/03/25/a-politica-nacional-de-saude-mental-nas-escolas-foi-criada-mas-e-agora/)
-- [O mapa da “terra sem males”: rotas para promoção da biodiversidade alimentar](https://pp.nexojornal.com.br/opiniao/2024/03/25/o-mapa-da-terra-sem-males-rotas-para-promocao-da-biodiversidade-alimentar/)
 <!-- PP_LIST:END -->
 
