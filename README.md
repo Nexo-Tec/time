@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF diz que Marielle era obstáculo às atividades criminosas dos Brazão](https://www.nexojornal.com.br/extra/2024/03/24/por-que-marielle-franco-foi-morta)
-- [Chuvas fortes matam 17 pessoas no Espírito Santo](https://www.nexojornal.com.br/extra/2024/03/24/chuvas-fortes-matam-17-pessoas-no-espirito-santo)
-- [Quem são os irmãos presos na reta final do caso Marielle](https://www.nexojornal.com.br/expresso/2024/03/24/irmaos-brazao-suspeitos-de-mandar-matar-marielle)
-- [Suspeitos de mandar matar Marielle e Anderson são presos](https://www.nexojornal.com.br/extra/2024/03/24/suspeitos-de-mandar-matar-marielle-e-anderson-sao-presos)
-- [5 livros que mostram a relação entre poder e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/03/24/5-livros-que-mostram-a-relacao-entre-poder-e-cultura)
+- [‘O Brasil é um Estado escravista por opção política’](https://www.nexojornal.com.br/entrevista/2024/03/24/brasil-e-estado-escravista-por-opcao-politica)
+- [O que é preciso fazer para votar nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/03/24/o-que-e-preciso-fazer-para-votar-nas-eleicoes-de-2024)
+- [Dia a dia do golpe: a revolta dos marinheiros](https://www.nexojornal.com.br/serie/2024/03/24/revolta-marinheiros-1964)
+- [O plano de criar corredores ecológicos no Pantanal](https://www.nexojornal.com.br/externo/2024/03/24/o-plano-de-criar-corredores-ecologicos-no-pantanal)
+- [A Constituição de 1824 sob a ótica política contemporânea](https://www.nexojornal.com.br/ensaio/2024/03/24/a-constituicao-de-1824-sob-a-otica-politica-contemporanea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
