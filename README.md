@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que algumas pessoas acordam de noite para urinar](https://www.nexojornal.com.br/externo/2024/03/25/acordar-a-noite-para-fazer-xixi-urinar)
 - [Dias após operação da PF, Bolsonaro foi para embaixada da Hungria](https://www.nexojornal.com.br/extra/2024/03/25/bolsonaro-embaixada-hungria)
 - [Daniel Alves deixa prisão em Barcelona após pagar fiança](https://www.nexojornal.com.br/extra/2024/03/25/daniel-alves-sai-da-cadeia)
 - [Conselho de Segurança da ONU aprova 1º cessar-fogo em Gaza](https://www.nexojornal.com.br/extra/2024/03/25/conselho-seguranca-aprova-cessar-fogo-gaza)
 - [‘Escravidão foi a primeira grande aposta do Estado brasileiro’](https://www.nexojornal.com.br/entrevista/2024/03/24/brasil-e-estado-escravista-por-opcao-politica)
-- [O que é preciso fazer para votar nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/03/24/o-que-e-preciso-fazer-para-votar-nas-eleicoes-de-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
