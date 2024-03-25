@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como a exigência da mobilidade afeta a vida de trabalhadoras motogirls](https://pp.nexojornal.com.br/academico/2024/03/25/como-a-exigencia-da-mobilidade-afeta-a-vida-de-trabalhadoras-motogirls/)
+- [A piscicultura da Amazônia e o uso de bioflocos: um exemplo de investimento em ciência e tecnologia estratégico para a região](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/a-piscicultura-da-amazonia-e-a-aplicacao-de-bioflocos-um-exemplo-do-por-que-o-investimento-em-ciencia-e-tecnologia-e-estrategico-para-a-regiao/)
+- [Dez anos depois de Cláudia ser assassinada e arrastada por policiais, o Estado brasileiro a violenta mais uma vez](https://pp.nexojornal.com.br/opiniao/2024/03/25/dez-anos-depois-de-claudia-ser-assassinada-e-arrastada-por-policiais-o-estado-brasileiro-a-violenta-mais-uma-vez/)
+- [Mães em luta: o caso Johnatha e a busca por justiça](https://pp.nexojornal.com.br/opiniao/2024/03/25/maes-em-luta-o-caso-johnatha-e-a-busca-por-justica/)
 - [Por que avaliar políticas públicas dos municípios é urgente](https://pp.nexojornal.com.br/topico/2024/03/20/por-que-avaliar-politicas-publicas-dos-municipios-e-urgente/)
-- [Percepção de residentes de favelas brasileiras sobre o ambiente alimentar](https://pp.nexojornal.com.br/academico/2024/03/20/percepcao-de-residentes-de-favelas-brasileiras-sobre-o-ambiente-alimentar/)
-- [Construindo políticas de segurança alimentar efetivas e duradouras](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/construindo-politicas-de-seguranca-alimentar-efetivas-e-duradouras/)
-- [Controle externo, orçamento e equidade de gênero: um estudo de caso do Tribunal de Contas do Município de São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/20/controle-externo-orcamento-e-equidade-de-genero-um-estudo-de-caso-do-tribunal-de-contas-do-municipio-de-sao-paulo/)
-- [Hesitação vacinal infantil e covid-19](https://pp.nexojornal.com.br/academico/2024/03/13/hesitacao-vacinal-infantil-e-covid-19/)
 <!-- PP_LIST:END -->
 
