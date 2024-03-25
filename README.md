@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘O Brasil é um Estado escravista por opção política’](https://www.nexojornal.com.br/entrevista/2024/03/24/brasil-e-estado-escravista-por-opcao-politica)
+- [‘Escravidão foi a primeira grande aposta do Estado brasileiro’](https://www.nexojornal.com.br/entrevista/2024/03/24/brasil-e-estado-escravista-por-opcao-politica)
 - [O que é preciso fazer para votar nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/03/24/o-que-e-preciso-fazer-para-votar-nas-eleicoes-de-2024)
 - [Dia a dia do golpe: a revolta dos marinheiros](https://www.nexojornal.com.br/serie/2024/03/24/revolta-marinheiros-1964)
 - [O plano de criar corredores ecológicos no Pantanal](https://www.nexojornal.com.br/externo/2024/03/24/o-plano-de-criar-corredores-ecologicos-no-pantanal)
