@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o governo Putin trata o atentado à casa de shows em Moscou](https://www.nexojornal.com.br/podcast/2024/03/26/ataque-na-russia-atitude-governo-putin)
 - [Quais os filmes mais bem avaliados no IMDB até 2024](https://www.nexojornal.com.br/grafico/2024/03/26/melhores-filmes-imdb-2024)
 - [Levantamento aponta Curitiba como capital menos desigual do país](https://www.nexojornal.com.br/extra/2024/03/26/curitiba-capital-menos-desigual)
 - [Madonna no Brasil: como foram os shows da cantora no país](https://www.nexojornal.com.br/expresso/2024/03/26/madonna-show-brasil-historico)
-- [Itamaraty diz observar com ‘preocupação’ eleições venezuelanas](https://www.nexojornal.com.br/extra/2024/03/26/itamaraty-eleicoes-venezuela-opositora-impedida)
-- [A seca nos rios e igarapés da terra Yanomami](https://www.nexojornal.com.br/externo/2024/03/26/a-seca-nos-rios-e-igarapes-da-terra-yanomami)
+- [Itamaraty cita ‘preocupação’ com eleições da Venezuela](https://www.nexojornal.com.br/extra/2024/03/26/itamaraty-eleicoes-venezuela-opositora-impedida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
