@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@ryota_togishi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ryota_togishi/)
 - [Any Gabrielly](https://gamarevista.uol.com.br/pessoas/questionario-proust/any-gabrielly/)
 - [Liliana Emparan: “O problema não é a separação, mas o que as pessoas dizem nesse momento”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/liliana-emparan-como-lidar-com-a-separacao-o-divorcio-casamento/)
 - [Irmãos](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/irmaos/)
 - [Quem Tem Medo do Gênero?](https://gamarevista.uol.com.br/cultura/trecho-de-livro/quem-tem-medo-do-genero/)
-- [O podcast “Clodovil do Avesso”, da Elle Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-clodovil-do-avesso-da-elle-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
