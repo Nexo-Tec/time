@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Levantamento aponta Curitiba como capital menos desigual do país](https://www.nexojornal.com.br/extra/2024/03/26/curitiba-capital-menos-desigual)
 - [Madonna no Brasil: como foram os shows da cantora no país](https://www.nexojornal.com.br/expresso/2024/03/26/madonna-show-brasil-historico)
 - [Itamaraty diz observar com ‘preocupação’ eleições venezuelanas](https://www.nexojornal.com.br/extra/2024/03/26/itamaraty-eleicoes-venezuela-opositora-impedida)
 - [A seca nos rios e igarapés da terra Yanomami](https://www.nexojornal.com.br/externo/2024/03/26/a-seca-nos-rios-e-igarapes-da-terra-yanomami)
 - [Navio colide com ponte nos EUA e deixa desaparecidos](https://www.nexojornal.com.br/extra/2024/03/26/ponte-desaba-baltimore-colisao-navio-eua)
-- [Como foi a atuação da Polícia Federal no caso Marielle Franco](https://www.nexojornal.com.br/expresso/2024/03/26/como-foi-atuacao-policia-federal-caso-marielle)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
