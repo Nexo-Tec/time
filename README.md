@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gabigol é suspenso até abril de 2025 por resistir a antidoping](https://www.nexojornal.com.br/extra/2024/03/25/gabigol-suspenso-antidoping)
+- [A conexão policial no brutal assassinato de Marielle Franco](https://www.nexojornal.com.br/podcast/2024/03/25/caso-marielle-franco-delegado-envolvido-rivaldo-barbosa)
 - [Como é a primeira lei americana contra deepfakes musicais](https://www.nexojornal.com.br/expresso/2024/03/25/inteligencia-artificial-deepfake-musical-lei-tennessee)
 - [Por que algumas pessoas acordam de noite para urinar](https://www.nexojornal.com.br/externo/2024/03/25/acordar-a-noite-para-fazer-xixi-urinar)
 - [Dias após operação da PF, Bolsonaro foi para embaixada da Hungria](https://www.nexojornal.com.br/extra/2024/03/25/bolsonaro-embaixada-hungria)
-- [Daniel Alves deixa prisão em Barcelona após pagar fiança](https://www.nexojornal.com.br/extra/2024/03/25/daniel-alves-sai-da-cadeia)
-- [Conselho de Segurança da ONU aprova 1º cessar-fogo em Gaza](https://www.nexojornal.com.br/extra/2024/03/25/conselho-seguranca-aprova-cessar-fogo-gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
