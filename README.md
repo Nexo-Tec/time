@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A seca nos rios e igarapés da terra Yanomami](https://www.nexojornal.com.br/externo/2024/03/26/a-seca-nos-rios-e-igarapes-da-terra-yanomami)
 - [Navio colide com ponte nos EUA e deixa desaparecidos](https://www.nexojornal.com.br/extra/2024/03/26/ponte-desaba-baltimore-colisao-navio-eua)
 - [Como foi a atuação da Polícia Federal no caso Marielle Franco](https://www.nexojornal.com.br/expresso/2024/03/26/como-foi-atuacao-policia-federal-caso-marielle)
 - [Por que ‘O problema dos 3 corpos’ desperta críticas na China](https://www.nexojornal.com.br/expresso/2024/03/25/serie-o-problema-dos-tres-corpos-critica-china)
 - [Como a crise do cacau na África afeta o preço do seu ovo de Páscoa](https://www.nexojornal.com.br/expresso/2024/03/25/chocolate-ovo-de-pascoa-preco-crise-cacau-africa)
-- [Gabigol é suspenso até abril de 2025 por resistir a antidoping](https://www.nexojornal.com.br/extra/2024/03/25/gabigol-suspenso-antidoping)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
