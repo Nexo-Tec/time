@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que entrar na casa dos outros me ensinou](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/o-que-entrar-na-casa-dos-outros-me-ensinou/)
 - [Marielle e Bolsonaro: roteiro de filme &lpar;blockbuster&rpar;](https://gamarevista.uol.com.br/colunistas/maria-homem/marielle-e-bolsonaro-roteiro-de-filme-blockbuster/)
 - [@ryota_togishi](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ryota_togishi/)
 - [Any Gabrielly](https://gamarevista.uol.com.br/pessoas/questionario-proust/any-gabrielly/)
 - [Liliana Emparan: “O problema não é a separação, mas o que as pessoas dizem nesse momento”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/liliana-emparan-como-lidar-com-a-separacao-o-divorcio-casamento/)
-- [Irmãos](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/irmaos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
