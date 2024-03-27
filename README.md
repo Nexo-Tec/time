@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [O que acontece se Israel ignorar o Conselho de Segurança](https://www.nexojornal.com.br/expresso/2024/03/26/o-que-acontece-se-israel-ignorar-o-conselho-de-seguranca)
-- [Como estão os projetos de Marielle Franco 6 anos após sua morte](https://www.nexojornal.com.br/expresso/2024/03/26/como-estao-os-projetos-de-marielle-franco-5-anos-apos-sua-morte-2)
+- [Como estão os projetos de Marielle 6 anos após sua morte](https://www.nexojornal.com.br/expresso/2024/03/26/como-estao-os-projetos-de-marielle-franco-5-anos-apos-sua-morte-2)
 - [Tarcísio tira nome de Che Guevara de assentamento do MST](https://www.nexojornal.com.br/extra/2024/03/26/governo-tarcisio-muda-nome-de-assentamento-do-mst)
 - [Como grileiros regularizam terrenos na zona oeste do Rio](https://www.nexojornal.com.br/expresso/2024/03/26/rio-de-janeiro-vereador-grilagem-de-terra)
 - [Como o governo Putin trata o atentado à casa de shows em Moscou](https://www.nexojornal.com.br/podcast/2024/03/26/ataque-na-russia-atitude-governo-putin)
