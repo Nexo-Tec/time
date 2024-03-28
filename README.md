@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A antropologia e os povos indígenas](https://pp.nexojornal.com.br/bibliografia-basica/2024/03/28/a-antropologia-e-os-povos-indigenas/)
+- [As políticas parentais do Programa Primeira Infância Melhor no Brasil](https://pp.nexojornal.com.br/academico/2024/03/28/as-politicas-parentais-do-programa-primeira-infancia-melhor-no-brasil/)
+- [O aporte orçamentário federal em assistência social para povos indígenas em 2023](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/o-aporte-orcamentario-federal-em-assistencia-social-para-povos-indigenas-em-2023/)
+- [Apagão docente: O que está acontecendo com as licenciaturas no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/apagao-docente-o-que-esta-acontecendo-com-as-licenciaturas-no-brasil/)
 - [Os impactos da mudança do clima no sistema energético brasileiro, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/03/25/os-impactos-da-mudanca-do-clima-no-sistema-energetico-brasileiro-em-7-pontos/)
-- [Ana Paula Bortoletto: rotulagem nutricional e escolhas alimentares](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/03/25/ana-paula-bortoletto-rotulagem-nutricional-e-escolhas-alimentares/)
-- [Integralidade de práticas do cuidado: caminhos para ampliar debates em alimentação e nutrição](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/integralidade-de-praticas-do-cuidado-caminhos-para-ampliar-debates-em-alimentacao-e-nutricao/)
-- [Bases para pensar o futuro da educação brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/25/bases-para-pensar-o-futuro-da-educacao-brasileira/)
-- [A Política Nacional de Saúde Mental nas escolas foi criada, mas e agora?](https://pp.nexojornal.com.br/opiniao/2024/03/25/a-politica-nacional-de-saude-mental-nas-escolas-foi-criada-mas-e-agora/)
 <!-- PP_LIST:END -->
 
