@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [7 marcos da história negra do country até o álbum de Beyoncé](https://www.nexojornal.com.br/expresso/2024/03/28/historia-negra-musica-country-beyonce-cowboy-carter)
+- [Harvard retira pele humana de capa de livro do século 19](https://www.nexojornal.com.br/extra/2024/03/28/capa-com-pele-humana-em-harvard)
 - [Qual o impacto dos correios para a comunicação no Brasil](https://www.nexojornal.com.br/academico/2024/03/28/qual-o-impacto-dos-correios-para-a-comunicacao-no-brasil)
 - [Desemprego sobe em trimestre encerrado em fevereiro](https://www.nexojornal.com.br/extra/2024/03/28/taxa-de-desemprego-brasil-fevereiro-de-2024)
 - [Os elementos que mais aparecem nos brasões de cidades brasileiras](https://www.nexojornal.com.br/expresso/2024/03/28/brasao-cidade-brasil)
-- [Colômbia expulsa diplomatas argentinos após falas de Milei](https://www.nexojornal.com.br/extra/2024/03/28/crise-diplomatica-petro-e-milei)
-- [Por que a ilusão de uma eleição justa durou pouco na Venezuela](https://www.nexojornal.com.br/expresso/2024/03/27/politica-eleicao-presidente-venezuela-2024-oposicao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
