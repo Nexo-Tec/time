@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Passeio com o Gigante](https://gamarevista.uol.com.br/cultura/trecho-de-livro/passeio-com-o-gigante/)
 - [A trajetória do Clube da Esquina](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-trajetoria-do-clube-da-esquina/)
 - [O podcast “A Ditadura Recontada” da CBN](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-a-ditadura-recontada-da-cbn/)
 - [O encontro da obra de Carmela Gross com a arquitetura de Lina Bo Bardi](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-encontro-da-obra-de-carmela-gross-com-a-arquitetura-de-lina-bo-bardi/)
 - [O novo álbum de Tierra Whack](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-tierra-whack/)
-- [A primeira mulher a dirigir um filme no Mubi](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-primeira-mulher-a-dirigir-um-filme-no-mubi/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
