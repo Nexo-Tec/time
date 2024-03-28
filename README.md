@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As dúvidas sobre os riscos do jejum intermitente](https://www.nexojornal.com.br/externo/2024/03/28/jejum-intermitente-riscos)
+- [A sentença para o maior fraudador das criptomoedas](https://www.nexojornal.com.br/podcast/2024/03/28/criptomoeda-fraude-prisao-sam-bankman-fried)
 - [7 marcos da história negra do country até o álbum de Beyoncé](https://www.nexojornal.com.br/expresso/2024/03/28/historia-negra-musica-country-beyonce-cowboy-carter)
 - [Harvard retira pele humana de capa de livro do século 19](https://www.nexojornal.com.br/extra/2024/03/28/capa-com-pele-humana-em-harvard)
 - [Qual o impacto dos correios para a comunicação no Brasil](https://www.nexojornal.com.br/academico/2024/03/28/qual-o-impacto-dos-correios-para-a-comunicacao-no-brasil)
-- [Desemprego sobe em trimestre encerrado em fevereiro](https://www.nexojornal.com.br/extra/2024/03/28/taxa-de-desemprego-brasil-fevereiro-de-2024)
-- [Os elementos que mais aparecem nos brasões de cidades brasileiras](https://www.nexojornal.com.br/expresso/2024/03/28/brasao-cidade-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
