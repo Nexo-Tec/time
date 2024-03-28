@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os elementos que mais aparecem nos brasões de cidades brasileiras](https://www.nexojornal.com.br/expresso/2024/03/28/brasao-cidade-brasil)
+- [Colômbia expulsa diplomatas argentinos após falas de Milei](https://www.nexojornal.com.br/extra/2024/03/28/crise-diplomatica-petro-e-milei)
 - [Por que a ilusão de uma eleição justa durou pouco na Venezuela](https://www.nexojornal.com.br/expresso/2024/03/27/politica-eleicao-presidente-venezuela-2024-oposicao)
 - [Como o jogo do bicho foi citado no relatório do caso Marielle](https://www.nexojornal.com.br/expresso/2024/03/27/jogo-do-bicho-relacao-caso-marielle)
 - [Por que Felipe Massa está processando a Fórmula 1](https://www.nexojornal.com.br/expresso/2024/03/27/f1-formula-1-felipe-massa-processo)
-- [Bolsonaro diz a Moraes que não buscou asilo ao ficar em embaixada](https://www.nexojornal.com.br/extra/2024/03/27/bolsonaro-defesa-moraes-embaixada-hungria)
-- [É um oficial militar que repete: ‘comunismo não existe no Brasil’](https://www.nexojornal.com.br/podcast/2024/03/27/comunismo-nao-existe-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
