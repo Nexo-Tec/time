@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bolsonaro diz a Moraes que não buscou asilo ao ficar em embaixada](https://www.nexojornal.com.br/extra/2024/03/27/bolsonaro-defesa-moraes-embaixada-hungria)
 - [É um oficial militar que repete: ‘comunismo não existe no Brasil’](https://www.nexojornal.com.br/podcast/2024/03/27/comunismo-nao-existe-no-brasil)
-- [5 esculturas icônicas do ‘poeta de ferro’ Richard Serra](https://www.nexojornal.com.br/expresso/2024/03/27/arte-escultura-richard-serra-obras)
+- [5 esculturas icônicas do ‘poeta do ferro’ Richard Serra](https://www.nexojornal.com.br/expresso/2024/03/27/arte-escultura-richard-serra-obras)
 - [Acordo no Congresso une centro-direita e esquerda em Portugal](https://www.nexojornal.com.br/extra/2024/03/27/portugal-parlamento-centro-direita-esquerda-acordo)
 - [Inteligência artificial decifra parte de papiro da Antiguidade](https://www.nexojornal.com.br/externo/2024/03/27/inteligencia-artificial-decifra-parte-de-papiro-da-antiguidade)
-- [Prefeitura de São Paulo é multada por evento de homenagem a Michelle](https://www.nexojornal.com.br/extra/2024/03/27/multa-prefeitura-sao-paulo-homenagem-michelle-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
