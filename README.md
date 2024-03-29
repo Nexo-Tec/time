@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Julgamento sobre foro privilegiado é suspenso no STF](https://www.nexojornal.com.br/extra/2024/03/29/julgamento-sobre-foro-privilegiado-e-suspenso-no-stf)
 - [Como países do Golfo tentam aumentar influência na África](https://www.nexojornal.com.br/expresso/2024/03/28/como-paises-do-golfo-tentam-aumentar-influencia-na-africa)
 - [O perfil dos motoristas que têm carteira de habilitação no Brasil](https://www.nexojornal.com.br/grafico/2024/03/28/cnh-perfil-motorista-brasil)
 - [Por que a inteligência não repele teorias da conspiração](https://www.nexojornal.com.br/externo/2024/03/28/por-que-a-inteligencia-nao-repele-teorias-da-conspiracao)
 - [Como um acidente escancarou a penúria no ICMBio](https://www.nexojornal.com.br/externo/2024/03/28/como-um-acidente-escancarou-a-penuria-no-icmbio)
-- [Por que o crédito ainda é uma preocupação central de Lula](https://www.nexojornal.com.br/expresso/2024/03/28/economia-credito-preocupacao-governo-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
