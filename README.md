@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Melhores filmes no IMDB. Perfil dos motoristas. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/30/filmes-imdb-perfil-motoristas-graficos)
 - [A pesquisa que aponta carne de cobra como opção sustentável](https://www.nexojornal.com.br/expresso/2024/03/29/a-pesquisa-que-aponta-carne-de-cobra-como-opcao-sustentavel)
 - [‘O país dos outros’: a vida de uma francesa no Marrocos](https://www.nexojornal.com.br/estante-trechos/2024/03/29/o-pais-dos-outros-a-vida-de-uma-francesa-no-marrocos)
 - [A atuação de Chiquinho Brazão na Câmara dos Deputados](https://www.nexojornal.com.br/externo/2024/03/29/a-atuacao-de-chiquinho-brazao-na-camara-dos-deputados)
 - [Linhagem de fóssil encontrado no Rio Grande do Sul sobreviveu à maior extinção do planeta](https://www.nexojornal.com.br/externo/2024/03/29/linhagem-de-fossil-encontrado-no-rio-grande-do-sul-sobreviveu-a-maior-extincao-do-planeta)
-- [Dia a dia do golpe: o discurso de Jango no Automóvel Clube](https://www.nexojornal.com.br/serie/2024/03/29/discurso-jango-automovel-clube)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
