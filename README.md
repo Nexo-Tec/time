@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dilma: ‘manter a memória sobre o golpe de 64 é crucial’](https://www.nexojornal.com.br/extra/2024/03/31/dilma-golpe-64-60-anos)
 - [Israelenses protestam contra governo Netanyahu](https://www.nexojornal.com.br/extra/2024/03/31/israel-protestos-fora-netanyahu)
 - [Como falar com adolescentes sobre cigarros eletrônicos](https://www.nexojornal.com.br/externo/2024/03/30/como-falar-com-adolescentes-sobre-cigarros-eletronicos)
 - [5 livros para entender por que o seu cérebro pode ser racista](https://www.nexojornal.com.br/estante-favoritos/2024/03/30/5-livros-para-entender-por-que-o-seu-cerebro-pode-ser-racista)
 - [‘Há um público descobrindo histórias de suspense do Brasil’](https://www.nexojornal.com.br/entrevista/2024/03/30/livro-historia-de-suspense-brasil-raphael-montes-entrevista)
-- [A evolução do índice de democracia na América Latina desde 1950](https://www.nexojornal.com.br/grafico/2024/03/30/democracia-ditadura-america-latina-golpe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
