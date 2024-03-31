@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Filmes no IMDB. Perfil dos motoristas. Veja os gráficos da semana](https://www.nexojornal.com.br/grafico/2024/03/30/filmes-imdb-perfil-motoristas-graficos)
-- [A pesquisa que aponta carne de cobra como opção sustentável](https://www.nexojornal.com.br/expresso/2024/03/29/a-pesquisa-que-aponta-carne-de-cobra-como-opcao-sustentavel)
-- [‘O país dos outros’: a vida de uma francesa no Marrocos](https://www.nexojornal.com.br/estante-trechos/2024/03/29/o-pais-dos-outros-a-vida-de-uma-francesa-no-marrocos)
-- [A atuação de Chiquinho Brazão na Câmara dos Deputados](https://www.nexojornal.com.br/externo/2024/03/29/a-atuacao-de-chiquinho-brazao-na-camara-dos-deputados)
-- [Linhagem de fóssil encontrado no Rio Grande do Sul sobreviveu à maior extinção do planeta](https://www.nexojornal.com.br/externo/2024/03/29/linhagem-de-fossil-encontrado-no-rio-grande-do-sul-sobreviveu-a-maior-extincao-do-planeta)
+- [Como falar com adolescentes sobre cigarros eletrônicos](https://www.nexojornal.com.br/externo/2024/03/30/como-falar-com-adolescentes-sobre-cigarros-eletronicos)
+- [5 livros para entender por que o seu cérebro pode ser racista](https://www.nexojornal.com.br/estante-favoritos/2024/03/30/5-livros-para-entender-por-que-o-seu-cerebro-pode-ser-racista)
+- [‘Há um público descobrindo histórias de suspense do Brasil’](https://www.nexojornal.com.br/entrevista/2024/03/30/livro-historia-de-suspense-brasil-raphael-montes-entrevista)
+- [A evolução do índice de democracia na América Latina desde 1950](https://www.nexojornal.com.br/grafico/2024/03/30/democracia-ditadura-america-latina-golpe)
+- [A experiência da renda básica no exterior e no Brasil](https://www.nexojornal.com.br/expresso/2024/03/30/a-experiencia-da-renda-basica-no-exterior-e-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
