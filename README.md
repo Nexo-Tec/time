@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ex-juiz, ex-ministro, ex-senador? Moro no banco dos réus do TRE](https://www.nexojornal.com.br/podcast/2024/04/01/sergio-moro-julgamento-tre)
 - [Manifestantes comemoram nova lei alemã da maconha](https://www.nexojornal.com.br/extra/2024/04/01/maconha-liberada-alemanha)
 - [Quem inventou o orelhão? E onde eles foram parar?](https://www.nexojornal.com.br/expresso/2024/04/01/quem-inventou-o-orelhao-e-onde-eles-foram-parar)
 - [Israel aprova lei que permite fechamento da Al Jazeera](https://www.nexojornal.com.br/extra/2024/04/01/israel-fechamento-al-jazeera)
 - [Entra em vigor lei que beneficia brasileiros em Portugal](https://www.nexojornal.com.br/extra/2024/04/01/lei-beneficia-brasileiros-portugal)
-- [Poderia existir um transplante cerebral à la ‘Pobres Criaturas’?](https://www.nexojornal.com.br/externo/2024/04/01/poderia-existir-um-transplante-cerebral-a-la-pobres-criaturas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
