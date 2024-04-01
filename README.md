@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Manejo comunitário e familiar na Amazônia: a floresta em pé](https://www.nexojornal.com.br/ensaio/2024/03/31/manejo-comunitario-e-familiar-na-amazonia-a-floresta-em-pe)
 - [Por que a dengue é mais grave em crianças pequenas](https://www.nexojornal.com.br/expresso/2024/03/31/dengue-grave-crianca-pequena)
 - [Jade Barbosa conquista ouro no solo no Mundial de Ginástica](https://www.nexojornal.com.br/extra/2024/03/31/jade-barbosa-ouro-copa-do-mundo-ginastica)
 - [Dia a dia do golpe: o momento em que a ruptura se firmou](https://www.nexojornal.com.br/serie/2024/03/31/golpe-militar-1o-abril-1964)
 - [Dilma: ‘manter a memória sobre o golpe de 64 é crucial’](https://www.nexojornal.com.br/extra/2024/03/31/dilma-golpe-64-60-anos)
-- [Israelenses protestam contra governo Netanyahu](https://www.nexojornal.com.br/extra/2024/03/31/israel-protestos-fora-netanyahu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
