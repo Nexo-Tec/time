@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Entra em vigor lei que beneficia brasileiros em Portugal](https://www.nexojornal.com.br/extra/2024/04/01/lei-beneficia-brasileiros-portugal)
+- [Poderia existir um transplante cerebral à la ‘Pobres Criaturas’?](https://www.nexojornal.com.br/externo/2024/04/01/poderia-existir-um-transplante-cerebral-a-la-pobres-criaturas)
 - [Ministro anuncia processo contra a Enel por apagões em SP](https://www.nexojornal.com.br/extra/2024/04/01/processo-disciplinar-enel)
 - [Dia a dia do golpe: como o Brasil virou uma ditadura militar](https://www.nexojornal.com.br/especial/2024/04/01/historia-do-golpe-de-1964)
 - [Manejo comunitário e familiar na Amazônia: a floresta em pé](https://www.nexojornal.com.br/ensaio/2024/03/31/manejo-comunitario-e-familiar-na-amazonia-a-floresta-em-pe)
-- [Por que a dengue é mais grave em crianças pequenas](https://www.nexojornal.com.br/expresso/2024/03/31/dengue-grave-crianca-pequena)
-- [Jade Barbosa conquista ouro no solo no Mundial de Ginástica](https://www.nexojornal.com.br/extra/2024/03/31/jade-barbosa-ouro-copa-do-mundo-ginastica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
