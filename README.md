@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dia a dia do golpe: Ranieri Mazzilli assume lugar de Jango](https://www.nexojornal.com.br/serie/2024/04/01/mazzilli-assume-lugar-jango)
+- [A homenagem a Sócrates &lpar;o jogador&rpar; numa rua francesa](https://www.nexojornal.com.br/expresso/2024/04/01/jogador-socrates-homenagem-franca)
+- [O novo escândalo de corrupção envolvendo um presidente do Peru](https://www.nexojornal.com.br/expresso/2024/04/01/corrupcao-peru-presidente-dina-boluarte)
 - [A história interrompida de dois irmãos mortos pela polícia nas operações Escudo e Verão](https://www.nexojornal.com.br/externo/2024/04/01/a-historia-interrompida-de-dois-irmaos-mortos-pela-policia-nas-operacoes-escudo-e-verao)
-- [Por que a alta do ouro está surpreendendo economistas](https://www.nexojornal.com.br/expresso/2024/04/01/por-que-a-alta-do-ouro-esta-surpreendendo-economistas)
-- [Ex-juiz, ex-ministro, ex-senador? Moro no banco dos réus do TRE](https://www.nexojornal.com.br/podcast/2024/04/01/sergio-moro-julgamento-tre)
-- [Manifestantes comemoram nova lei alemã da maconha](https://www.nexojornal.com.br/extra/2024/04/01/maconha-liberada-alemanha)
-- [Quem inventou o orelhão? E onde eles foram parar?](https://www.nexojornal.com.br/expresso/2024/04/01/quem-inventou-o-orelhao-e-onde-eles-foram-parar)
+- [Por que a alta do ouro está surpreendendo economistas](https://www.nexojornal.com.br/expresso/2024/04/01/economia-ouro-em-alta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
