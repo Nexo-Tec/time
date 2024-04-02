@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@raquelneryof](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/raquelneryof/)
 - [O ano inteiro é primeiro de abril](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-ano-inteiro-e-primeiro-de-abril/)
 - [Luiza Villaméa: “A Torre foi o espaço prisional que mais abrigou presas políticas do Brasil”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luiza-villamea-a-torre-prisao-presas-politicas-do-brasil-mulheres-ditadura-militar-golpe-1964/)
 - [Passeio com o Gigante](https://gamarevista.uol.com.br/cultura/trecho-de-livro/passeio-com-o-gigante/)
 - [A trajetória do Clube da Esquina](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-trajetoria-do-clube-da-esquina/)
-- [O podcast “A Ditadura Recontada” da CBN](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-a-ditadura-recontada-da-cbn/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
