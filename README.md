@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Israel usa a fome como arma de guerra na Faixa de Gaza](https://www.nexojornal.com.br/podcast/2024/04/02/guerra-israel-hamas-faixa-de-gaza-fome)
 - [Comissão de Anistia concede reparação inédita a indígenas](https://www.nexojornal.com.br/extra/2024/04/02/comissao-de-anistia-concede-reparacao-inedita-a-indigenas)
 - [‘Não ficará sem resposta’, diz Irã sobre ataque em embaixada](https://www.nexojornal.com.br/extra/2024/04/02/nao-ficara-sem-resposta-diz-ira-sobre-acao-de-israel-na-siria)
 - [O rechaço do STF ao ‘poder moderador’ das Forças Armadas](https://www.nexojornal.com.br/expresso/2024/04/02/stf-discute-militar-forca-moderadora)
 - [Israel mata 7 membros de ONG que fornece comida em Gaza](https://www.nexojornal.com.br/extra/2024/04/02/ataque-israel-ong-alimentos-faixa-de-gaza)
-- [Dia a dia do golpe: Ranieri Mazzilli assume lugar de Jango](https://www.nexojornal.com.br/serie/2024/04/01/mazzilli-assume-lugar-jango)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
