@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Emendas parlamentares e o financiamento municipal da atenção primária à saúde do SUS](https://pp.nexojornal.com.br/academico/2024/04/02/emendas-parlamentares-e-o-financiamento-municipal-da-atencao-primaria-a-saude-do-sus/)
 - [A antropologia e os povos indígenas](https://pp.nexojornal.com.br/bibliografia-basica/2024/03/28/a-antropologia-e-os-povos-indigenas/)
 - [As políticas parentais do Programa Primeira Infância Melhor no Brasil](https://pp.nexojornal.com.br/academico/2024/03/28/as-politicas-parentais-do-programa-primeira-infancia-melhor-no-brasil/)
 - [O aporte orçamentário federal em assistência social para povos indígenas em 2023](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/o-aporte-orcamentario-federal-em-assistencia-social-para-povos-indigenas-em-2023/)
 - [Apagão docente: O que está acontecendo com as licenciaturas no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/apagao-docente-o-que-esta-acontecendo-com-as-licenciaturas-no-brasil/)
-- [Os impactos da mudança do clima no sistema energético brasileiro, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/03/25/os-impactos-da-mudanca-do-clima-no-sistema-energetico-brasileiro-em-7-pontos/)
 <!-- PP_LIST:END -->
 
