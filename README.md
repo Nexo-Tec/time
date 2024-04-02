@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [As atividades que os brasileiros procuram para melhorar a saúde mental](https://pp.nexojornal.com.br/dados/2024/04/02/brasil-atividade-melhorar-saude-mental/)
+- [Juventudes e eleições municipais: qual a importância da participação juvenil neste momento?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/02/juventudes-e-eleicoes-municipais-qual-a-importancia-da-participacao-juvenil-neste-momento/)
 - [Emendas parlamentares e o financiamento municipal da atenção primária à saúde do SUS](https://pp.nexojornal.com.br/academico/2024/04/02/emendas-parlamentares-e-o-financiamento-municipal-da-atencao-primaria-a-saude-do-sus/)
 - [A antropologia e os povos indígenas](https://pp.nexojornal.com.br/bibliografia-basica/2024/03/28/a-antropologia-e-os-povos-indigenas/)
 - [As políticas parentais do Programa Primeira Infância Melhor no Brasil](https://pp.nexojornal.com.br/academico/2024/03/28/as-politicas-parentais-do-programa-primeira-infancia-melhor-no-brasil/)
-- [O aporte orçamentário federal em assistência social para povos indígenas em 2023](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/o-aporte-orcamentario-federal-em-assistencia-social-para-povos-indigenas-em-2023/)
-- [Apagão docente: O que está acontecendo com as licenciaturas no Brasil?](https://pp.nexojornal.com.br/ponto-de-vista/2024/03/28/apagao-docente-o-que-esta-acontecendo-com-as-licenciaturas-no-brasil/)
 <!-- PP_LIST:END -->
 
