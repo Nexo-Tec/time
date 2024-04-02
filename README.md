@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O rechaço do STF ao ‘poder moderador’ das Forças Armadas](https://www.nexojornal.com.br/expresso/2024/04/02/stf-discute-militar-forca-moderadora)
+- [Israel mata 7 membros de ONG que fornece comida em Gaza](https://www.nexojornal.com.br/extra/2024/04/02/ataque-israel-ong-alimentos-faixa-de-gaza)
 - [Dia a dia do golpe: Ranieri Mazzilli assume lugar de Jango](https://www.nexojornal.com.br/serie/2024/04/01/mazzilli-assume-lugar-jango)
 - [A homenagem a Sócrates &lpar;o jogador&rpar; numa rua francesa](https://www.nexojornal.com.br/expresso/2024/04/01/jogador-socrates-homenagem-franca)
 - [O novo escândalo de corrupção envolvendo um presidente do Peru](https://www.nexojornal.com.br/expresso/2024/04/01/corrupcao-peru-presidente-dina-boluarte)
-- [A história interrompida de dois irmãos mortos pela polícia nas operações Escudo e Verão](https://www.nexojornal.com.br/externo/2024/04/01/a-historia-interrompida-de-dois-irmaos-mortos-pela-policia-nas-operacoes-escudo-e-verao)
-- [Por que a alta do ouro está surpreendendo economistas](https://www.nexojornal.com.br/expresso/2024/04/01/economia-ouro-em-alta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
