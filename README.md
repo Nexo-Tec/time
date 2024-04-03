@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Todos os bilionários com menos de 30 anos são herdeiros](https://www.nexojornal.com.br/extra/2024/04/03/bilionarios-herdeiros-em-2024)
 - [Embaixada da Hungria demite 2 após vídeo de Bolsonaro vazar](https://www.nexojornal.com.br/extra/2024/04/03/demissao-na-embaixada-que-abrigou-bolsonaro)
 - [Terremoto mais forte de Taiwan em 25 anos mata 9 e fere centenas](https://www.nexojornal.com.br/extra/2024/04/03/terremoto-em-taiwan)
 - [‘Nexo’ lança novo ciclo de apoio a alunos de cursinhos populares](https://www.nexojornal.com.br/expresso/2024/04/02/programa-de-apoio-estudantes-cursinho-popular)
 - [Ex-namorada de caçula de Lula presta queixa por violência](https://www.nexojornal.com.br/extra/2024/04/02/ex-de-filho-cacula-de-lula-presta-queixa-por-violencia)
-- [Como e por que o BC intervém no mercado de câmbio](https://www.nexojornal.com.br/expresso/2024/04/02/como-e-por-que-o-banco-central-intervem-no-mercado-de-cambio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
