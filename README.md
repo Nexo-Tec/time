@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Israel usa a fome como arma de guerra na Faixa de Gaza](https://www.nexojornal.com.br/podcast/2024/04/02/guerra-israel-hamas-faixa-de-gaza-fome)
-- [Comissão de Anistia concede reparação inédita a indígenas](https://www.nexojornal.com.br/extra/2024/04/02/comissao-de-anistia-concede-reparacao-inedita-a-indigenas)
-- [‘Não ficará sem resposta’, diz Irã sobre ataque em embaixada](https://www.nexojornal.com.br/extra/2024/04/02/nao-ficara-sem-resposta-diz-ira-sobre-acao-de-israel-na-siria)
-- [O rechaço do STF ao ‘poder moderador’ das Forças Armadas](https://www.nexojornal.com.br/expresso/2024/04/02/stf-discute-militar-forca-moderadora)
-- [Israel mata 7 membros de ONG que fornece comida em Gaza](https://www.nexojornal.com.br/extra/2024/04/02/ataque-israel-ong-alimentos-faixa-de-gaza)
+- [Como e por que o Banco Central intervém no mercado de câmbio](https://www.nexojornal.com.br/expresso/2024/04/02/como-e-por-que-o-banco-central-intervem-no-mercado-de-cambio)
+- [O aumento da pressão das ruas contra Netanyahu em Israel](https://www.nexojornal.com.br/expresso/2024/04/02/o-aumento-da-pressao-das-ruas-contra-netanyahu-em-israel)
+- [A invasão de terras de indígenas isolados no Vale do Javari](https://www.nexojornal.com.br/externo/2024/04/02/a-invasao-de-terras-de-indigenas-isolados-no-vale-do-javari)
+- [Pra frente, Brasil? Democracia racial, racismo e ditadura](https://www.nexojornal.com.br/colunistas/2024/04/02/pra-frente-brasil)
+- [O primeiro cabo telegráfico transatlântico no Brasil](https://www.nexojornal.com.br/externo/2024/04/02/o-primeiro-cabo-telegrafico-transatlantico-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
