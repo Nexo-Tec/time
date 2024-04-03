@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A janela partidária vai fechar. E os políticos estão correndo](https://www.nexojornal.com.br/podcast/2024/04/03/politica-eleicoes-2024-janela-partidaria)
 - [O que é Oubapo, técnica narrativa usada nos quadrinhos](https://www.nexojornal.com.br/expresso/2024/04/03/o-que-e-oubapo-tecnica-narrativa-usada-nos-quadrinhos)
 - [Todos os bilionários com menos de 30 anos são herdeiros](https://www.nexojornal.com.br/extra/2024/04/03/bilionarios-herdeiros-em-2024)
 - [Embaixada da Hungria demite 2 após vídeo de Bolsonaro vazar](https://www.nexojornal.com.br/extra/2024/04/03/demissao-na-embaixada-que-abrigou-bolsonaro)
 - [Terremoto mais forte de Taiwan em 25 anos mata 9 e fere centenas](https://www.nexojornal.com.br/extra/2024/04/03/terremoto-em-taiwan)
-- [‘Nexo’ lança novo ciclo de apoio a alunos de cursinhos populares](https://www.nexojornal.com.br/expresso/2024/04/02/programa-de-apoio-estudantes-cursinho-popular)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
