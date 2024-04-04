@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que pode mudar no foro privilegiado para políticos](https://www.nexojornal.com.br/expresso/2024/04/03/foro-privilegiado-votacao-stf)
+- [Crise na Tesla: por que os números da empresa estão caindo](https://www.nexojornal.com.br/expresso/2024/04/03/economia-crise-tesla-elon-musk)
 - [Duas realezas com câncer e uma dúzia de desinformantes](https://www.nexojornal.com.br/colunistas/2024/04/03/kate-middleton-cancer-rei-charles-desinformacao)
 - [Por que a carência de vitamina D aumenta a depressão entre idosos](https://www.nexojornal.com.br/externo/2024/04/03/por-que-a-carencia-de-vitamina-d-aumenta-a-depressao-entre-idosos)
 - [Lojas ‘automatizadas’ da Amazon dependem de 1.000 funcionários](https://www.nexojornal.com.br/extra/2024/04/03/amazon-fresh-depende-de-funcionarios-indianos)
-- [Por que Botsuana ameaçou enviar elefantes à Alemanha](https://www.nexojornal.com.br/expresso/2024/04/03/animal-elefante-alemanha-botsuana)
-- [A janela partidária vai fechar. E os políticos estão correndo](https://www.nexojornal.com.br/podcast/2024/04/03/politica-eleicoes-2024-janela-partidaria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
