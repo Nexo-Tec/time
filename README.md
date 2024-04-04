@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Duas realezas com câncer e uma dúzia de desinformantes](https://www.nexojornal.com.br/colunistas/2024/04/03/kate-middleton-cancer-rei-charles-desinformacao)
+- [Por que a carência de vitamina D aumenta a depressão entre idosos](https://www.nexojornal.com.br/externo/2024/04/03/por-que-a-carencia-de-vitamina-d-aumenta-a-depressao-entre-idosos)
+- [Lojas ‘automatizadas’ da Amazon dependem de 1.000 funcionários](https://www.nexojornal.com.br/extra/2024/04/03/amazon-fresh-depende-de-funcionarios-indianos)
+- [Por que Botsuana ameaçou enviar elefantes à Alemanha](https://www.nexojornal.com.br/expresso/2024/04/03/animal-elefante-alemanha-botsuana)
 - [A janela partidária vai fechar. E os políticos estão correndo](https://www.nexojornal.com.br/podcast/2024/04/03/politica-eleicoes-2024-janela-partidaria)
-- [O que é Oubapo, técnica narrativa usada nos quadrinhos](https://www.nexojornal.com.br/expresso/2024/04/03/o-que-e-oubapo-tecnica-narrativa-usada-nos-quadrinhos)
-- [Todos os bilionários com menos de 30 anos são herdeiros](https://www.nexojornal.com.br/extra/2024/04/03/bilionarios-herdeiros-em-2024)
-- [Embaixada da Hungria demite 2 após vídeo de Bolsonaro vazar](https://www.nexojornal.com.br/extra/2024/04/03/demissao-na-embaixada-que-abrigou-bolsonaro)
-- [Terremoto mais forte de Taiwan em 25 anos mata 9 e fere centenas](https://www.nexojornal.com.br/extra/2024/04/03/terremoto-em-taiwan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
