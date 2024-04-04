@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Fiji se tornou um grande exportador de água](https://www.nexojornal.com.br/grafico/2024/04/04/exportacao-agua-fiji)
+- [Maduro sanciona lei que cria estado de Essequibo](https://www.nexojornal.com.br/extra/2024/04/04/maduro-venezuela-essequibo-guiana-lei)
+- [Como o dono do Botafogo tumultua o futebol brasileiro](https://www.nexojornal.com.br/expresso/2024/04/04/futebol-campeonato-brasileiro-textor-arbitragem)
 - [O que pode mudar no foro privilegiado para políticos](https://www.nexojornal.com.br/expresso/2024/04/03/foro-privilegiado-votacao-stf)
 - [Crise na Tesla: por que os números da empresa estão caindo](https://www.nexojornal.com.br/expresso/2024/04/03/economia-crise-tesla-elon-musk)
-- [Duas realezas com câncer e uma dúzia de desinformantes](https://www.nexojornal.com.br/colunistas/2024/04/03/kate-middleton-cancer-rei-charles-desinformacao)
-- [Por que a carência de vitamina D aumenta a depressão entre idosos](https://www.nexojornal.com.br/externo/2024/04/03/por-que-a-carencia-de-vitamina-d-aumenta-a-depressao-entre-idosos)
-- [Lojas ‘automatizadas’ da Amazon dependem de 1.000 funcionários](https://www.nexojornal.com.br/extra/2024/04/03/amazon-fresh-depende-de-funcionarios-indianos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
