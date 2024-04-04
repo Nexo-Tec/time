@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A branquitude se reinventa](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-branquitude-se-reinventa/)
-- [CV: Chica Andrade](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-chica-andrade/)
-- [@raquelneryof](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/raquelneryof/)
-- [O ano inteiro é primeiro de abril](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-ano-inteiro-e-primeiro-de-abril/)
-- [Luiza Villaméa: “A Torre foi o espaço prisional que mais abrigou presas políticas do Brasil”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luiza-villamea-a-torre-prisao-presas-politicas-do-brasil-mulheres-ditadura-militar-golpe-1964/)
+- [Uma nova adaptação de “O Talentoso Ripley” com Andrew Scott](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-adaptacao-de-o-talentoso-ripley-com-andrew-scott/)
+- [Novas versões de clássicos do rap em “Sabotage 50”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novas-versoes-de-classicos-do-rap-em-sabotage-50/)
+- [Receitas para a cesta básica, no Youtube do Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-para-a-cesta-basica-no-youtube-do-panelinha/)
+- [A visão de Heloisa Starling sobre o golpe de 1964 no “Roda Viva”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-visao-de-heloisa-starling-sobre-o-golpe-de-1964-no-roda-viva/)
+- [Uma comédia feminista sobre carreira, sexo e amor](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-comedia-feminista-sobre-carreira-sexo-e-amor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
