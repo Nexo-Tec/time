@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Amazon Fresh: quando a IA não é tão automatizada assim](https://www.nexojornal.com.br/podcast/2024/04/04/ia-inteligencia-artificial-amazon-fresh-just-walk-out)
+- [Biden pede cessar-fogo e diz que pode mudar política sobre Israel](https://www.nexojornal.com.br/extra/2024/04/04/biden-telefonema-netanyahu-israel-gaza-cessar-fogo)
 - [‘Eu devia estar na escola’: o livro escrito por crianças da Maré](https://www.nexojornal.com.br/externo/2024/04/04/eu-devia-estar-na-escola-o-livro-escrito-por-criancas-da-mare)
 - [Policiais recapturam presos de Mossoró 50 dias após fuga](https://www.nexojornal.com.br/extra/2024/04/04/mossoro-presos-foragidos-encontrados-maraba)
 - [Como Fiji se tornou um grande exportador de água](https://www.nexojornal.com.br/grafico/2024/04/04/exportacao-agua-fiji)
-- [Maduro sanciona lei que cria estado de Essequibo](https://www.nexojornal.com.br/extra/2024/04/04/maduro-venezuela-essequibo-guiana-lei)
-- [Como o dono do Botafogo tumultua o futebol brasileiro](https://www.nexojornal.com.br/expresso/2024/04/04/futebol-campeonato-brasileiro-textor-arbitragem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
