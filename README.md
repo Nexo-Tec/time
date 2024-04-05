@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As suspeitas sobre a compra de armadilhas de mosquito em SP](https://www.nexojornal.com.br/externo/2024/04/05/as-suspeitas-sobre-a-compra-de-armadilhas-de-mosquito-em-sp)
+- [O que é a Assembleia-Geral das Nações Unidas](https://www.nexojornal.com.br/index/2024/04/05/qual-e-a-funcao-da-assembleia-geral-onu)
 - [CVM abre investigação sobre comunicação da Petrobras](https://www.nexojornal.com.br/extra/2024/04/05/cvm-abre-processo-para-apurar-noticias-sobre-petrobras)
 - [Os planos de Putin para desenvolver um videogame russo](https://www.nexojornal.com.br/expresso/2024/04/04/game-russia-videogame-console)
 - [Quais são as disputas territoriais entre China e Índia](https://www.nexojornal.com.br/expresso/2024/04/04/china-india-disputa-de-territorio)
-- [Como fica o serviço de energia se a Enel perder a concessão](https://www.nexojornal.com.br/expresso/2024/04/04/enel-concessao-energia-sao-paulo)
-- [O direito à cidade e os movimentos sociais por moradia](https://www.nexojornal.com.br/academico/2024/04/04/o-direito-a-cidade-e-os-movimentos-sociais-por-moradia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
