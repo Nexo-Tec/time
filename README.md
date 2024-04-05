@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ciência e educação em redes sociais: o bom, o mau e o feio](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/ciencia-e-educacao-em-redes-sociais-o-bom-o-mau-e-o-feio/)
 - [Uma nova adaptação de “O Talentoso Ripley” com Andrew Scott](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-adaptacao-de-o-talentoso-ripley-com-andrew-scott/)
 - [Novas versões de clássicos do rap em “Sabotage 50”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/novas-versoes-de-classicos-do-rap-em-sabotage-50/)
 - [Receitas para a cesta básica, no Youtube do Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/receitas-para-a-cesta-basica-no-youtube-do-panelinha/)
 - [A visão de Heloisa Starling sobre o golpe de 1964 no “Roda Viva”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-visao-de-heloisa-starling-sobre-o-golpe-de-1964-no-roda-viva/)
-- [Uma comédia feminista sobre carreira, sexo e amor](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-comedia-feminista-sobre-carreira-sexo-e-amor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
