@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A recaptura de presos. O ataque de Israel a uma ONG. E mais](https://www.nexojornal.com.br/video/2024/04/05/presos-fugitivos-mossoro-israel-ataque-ong)
-- [O que faz uma música dar vontade de dançar, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/04/05/por-que-certas-musicas-dao-vontade-de-dancar-segundo-este-estudo)
-- [Lista suja do trabalho tem 654 empregadores e bate recorde](https://www.nexojornal.com.br/extra/2024/04/05/lista-suja-do-trabalho-tem-654-empregadores-e-bate-recorde-historico)
-- [As suspeitas na compra de armadilhas de mosquito em SP](https://www.nexojornal.com.br/externo/2024/04/05/as-suspeitas-sobre-a-compra-de-armadilhas-de-mosquito-em-sp)
-- [O que é a Assembleia-Geral das Nações Unidas](https://www.nexojornal.com.br/index/2024/04/05/qual-e-a-funcao-da-assembleia-geral-onu)
+- [‘Os superstars da cadeia’: um espetáculo distópico no cárcere](https://www.nexojornal.com.br/estante-trechos/2024/04/05/os-superstars-da-cadeia-um-espetaculo-distopico-no-carcere)
+- [Vinicius Júnior e a nova fronteira do racismo no esporte](https://www.nexojornal.com.br/externo/2024/04/05/vinicius-junior-e-a-nova-fronteira-do-racismo-no-esporte)
+- [Por que a Áustria tem o maior acervo indígena brasileiro](https://www.nexojornal.com.br/expresso/2024/04/05/por-que-a-austria-tem-o-maior-acervo-indigena-brasileiro)
+- [Além das curtidas: como os jovens se veem na internet](https://www.nexojornal.com.br/colunistas/2024/04/05/como-os-jovens-se-veem-na-internet)
+- [Como a urbanização brasileira aumenta a incidência de dengue](https://www.nexojornal.com.br/expresso/2024/04/05/cidades-urbanizacao-dengue)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
