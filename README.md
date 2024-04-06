@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Escritor e desenhista Ziraldo morre aos 91 anos](https://www.nexojornal.com.br/extra/2024/04/06/ziraldo-morre-menino-maluquinho)
-- [México rompe relações com Equador após invasão a embaixada](https://www.nexojornal.com.br/extra/2024/04/06/mexico-equador-invasao-embaixada-relacoes-diplomaticas)
-- [‘Os superstars da cadeia’: um espetáculo distópico no cárcere](https://www.nexojornal.com.br/estante-trechos/2024/04/05/os-superstars-da-cadeia-um-espetaculo-distopico-no-carcere)
-- [Vinicius Júnior e a nova fronteira do racismo no esporte](https://www.nexojornal.com.br/externo/2024/04/05/vinicius-junior-e-a-nova-fronteira-do-racismo-no-esporte)
-- [Por que a Áustria tem o maior acervo indígena brasileiro](https://www.nexojornal.com.br/expresso/2024/04/05/por-que-a-austria-tem-o-maior-acervo-indigena-brasileiro)
+- [O jogo que testa seus conhecimentos sobre cores](https://www.nexojornal.com.br/expresso/2024/04/06/jogo-sobre-cores-colorfle)
+- [5 livros para repensar a relação entre crime e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/04/06/livros-sobre-relacao-entre-crime-e-cultura)
+- [O que é o Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/index/2024/04/06/conselho-de-seguranca-onu-o-que-e)
+- [A montanha-russa na carreira de Nicolas Cage no cinema](https://www.nexojornal.com.br/expresso/2024/04/06/nicolas-cage-carreira-no-cinema)
+- [Do ativismo de sofá ao voluntariado: a criação de um bem comum](https://www.nexojornal.com.br/ensaio/2024/04/06/ativismo-de-sofa-voluntariado-juventude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
