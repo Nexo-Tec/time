@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Musk faz posts contra Moraes e ameaça descumprir decisões](https://www.nexojornal.com.br/extra/2024/04/07/elon-musk-alexandre-de-moraes-twitter-x)
 - [O jogo que testa seus conhecimentos sobre cores](https://www.nexojornal.com.br/expresso/2024/04/06/jogo-sobre-cores-colorfle)
 - [5 livros para repensar a relação entre crime e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/04/06/livros-sobre-relacao-entre-crime-e-cultura)
 - [O que é o Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/index/2024/04/06/conselho-de-seguranca-onu-o-que-e)
 - [A montanha-russa na carreira de Nicolas Cage no cinema](https://www.nexojornal.com.br/expresso/2024/04/06/nicolas-cage-carreira-no-cinema)
-- [Do ativismo de sofá ao voluntariado: a criação de um bem comum](https://www.nexojornal.com.br/ensaio/2024/04/06/ativismo-de-sofa-voluntariado-juventude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
