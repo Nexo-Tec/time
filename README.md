@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como é a tentativa de reabilitação pública de Dirceu pós-escândalos](https://www.nexojornal.com.br/expresso/2024/04/07/politica-jose-dirceu-volta-discurso-senado)
+- [O que está em jogo na ida da sede do governo de SP para o centro](https://www.nexojornal.com.br/expresso/2024/04/07/sede-governo-sp-centro-da-cidade-de-sao-paulo)
 - [Musk faz posts contra Moraes e ameaça descumprir decisões](https://www.nexojornal.com.br/extra/2024/04/07/elon-musk-alexandre-de-moraes-twitter-x)
 - [O jogo que testa seus conhecimentos sobre cores](https://www.nexojornal.com.br/expresso/2024/04/06/jogo-sobre-cores-colorfle)
 - [5 livros para repensar a relação entre crime e cultura](https://www.nexojornal.com.br/estante-favoritos/2024/04/06/livros-sobre-relacao-entre-crime-e-cultura)
-- [O que é o Conselho de Segurança das Nações Unidas](https://www.nexojornal.com.br/index/2024/04/06/conselho-de-seguranca-onu-o-que-e)
-- [A montanha-russa na carreira de Nicolas Cage no cinema](https://www.nexojornal.com.br/expresso/2024/04/06/nicolas-cage-carreira-no-cinema)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
