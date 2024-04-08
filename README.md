@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Palestinos voltam para Khan Yunis após saída de tropas de Israel](https://www.nexojornal.com.br/extra/2024/04/08/palestinos-em-khan-yunis-apos-retirada-de-tropas-de-israel)
+- [A proporcionalidade da decisão de Moraes em investigar Musk](https://www.nexojornal.com.br/expresso/2024/04/08/moraes-manda-investigar-musk-x-twitter-anatel)
+- [Como eram as tatuagens inglesas na Era Vitoriana](https://www.nexojornal.com.br/expresso/2024/04/08/como-eram-as-tatuagens-inglesas-na-era-vitoriana)
 - [Por que os homo sapiens substituíram os neandertais](https://www.nexojornal.com.br/externo/2024/04/08/por-que-os-humanos-modernos-substituiram-os-neandertais)
 - [Comando da PM afasta policial que agrediu mulher no Metrô de SP](https://www.nexojornal.com.br/extra/2024/04/08/pm-afasta-policial-que-agrediu-mulher-no-metro)
-- [Pix bate recorde com mais de 200 milhões de transações em um dia](https://www.nexojornal.com.br/extra/2024/04/08/recorde-de-transacoes-via-pix)
-- [Canais transmitem ao vivo eclipse total do Sol](https://www.nexojornal.com.br/extra/2024/04/08/onde-ver-eclipse-do-sol)
-- [Moraes inclui Musk em inquérito das milícias digitais](https://www.nexojornal.com.br/extra/2024/04/07/moraes-elon-musk-inquerito-milicias-digitais-twitter)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
