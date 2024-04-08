@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Canais transmitem ao vivo eclipse total do Sol](https://www.nexojornal.com.br/extra/2024/04/08/onde-ver-eclipse-do-sol)
 - [Moraes inclui Musk em inquérito das milícias digitais](https://www.nexojornal.com.br/extra/2024/04/07/moraes-elon-musk-inquerito-milicias-digitais-twitter)
 - [A normalização equivocada da violência entre irmãos](https://www.nexojornal.com.br/ensaio/2024/04/07/violencia-entre-irmaos-normalizacao-equivocada)
 - [Como as queimadas da Chapada Diamantina viraram um romance](https://www.nexojornal.com.br/externo/2024/04/07/livro-contra-fogo-pablo-casella-chapada-diamantina)
 - [Como é a tentativa de reabilitação pública de Dirceu pós-escândalos](https://www.nexojornal.com.br/expresso/2024/04/07/politica-jose-dirceu-volta-discurso-senado)
-- [O que está em jogo na ida da sede do governo de SP para o centro](https://www.nexojornal.com.br/expresso/2024/04/07/sede-governo-sp-centro-da-cidade-de-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
