@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@kamilla_cardoso](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/kamilla_cardoso/)
 - [Marcos Veras](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcos-veras/)
 - [André Alves: “É a insatisfação que nos move”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/por-que-e-tao-dificil-nos-sentirmos-satisfeitos-andre-alves-e-a-insatisfacao-que-nos-move-floatvibes-podcast/)
 - [O Púlpito](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-pulpito/)
 - [Ciência e educação em redes sociais: o bom, o mau e o feio](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/ciencia-e-educacao-em-redes-sociais-o-bom-o-mau-e-o-feio/)
-- [Uma nova adaptação de “O Talentoso Ripley” com Andrew Scott](https://gamarevista.uol.com.br/achamos-que-vale/assistir/uma-nova-adaptacao-de-o-talentoso-ripley-com-andrew-scott/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
