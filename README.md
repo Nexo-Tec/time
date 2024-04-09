@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Mandatos coletivos](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/mandatos-coletivos/)
+- [Desigualdades raciais, cuidado em saúde mental e mortalidade no Rio de Janeiro](https://pp.nexojornal.com.br/academico/2024/04/09/desigualdades-raciais-cuidado-em-saude-mental-e-mortalidade-no-rio-de-janeiro/)
+- [Justiça ambiental e raça](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/justica-ambiental-e-raca/)
 - [Políticas de inclusão de mulheres na pós-graduação](https://pp.nexojornal.com.br/opiniao/2024/04/09/politicas-de-inclusao-de-mulheres-na-pos-graduacao/)
 - [A importância do diálogo qualificado na formulação de políticas educacionais](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/a-importancia-do-dialogo-qualificado-na-formulacao-de-politicas-educacionais/)
-- [Juventude e conservadorismo: qual a contradição?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/juventude-e-conservadorismo-qual-a-contradicao/)
-- [A violência armada impacta o direito à educação](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/a-violencia-armada-impacta-o-direito-a-educacao/)
-- [Problemáticas de segurança nas Fronteiras do Brasil: violência, narcotráfico e mobilidade humana](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/problematicas-de-seguranca-nas-fronteiras-do-brasil-violencia-narcotrafico-e-mobilidade-humana/)
 <!-- PP_LIST:END -->
 
