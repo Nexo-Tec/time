@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [As atividades que os brasileiros procuram para melhorar a saúde mental](https://pp.nexojornal.com.br/dados/2024/04/02/brasil-atividade-melhorar-saude-mental/)
-- [Juventudes e eleições municipais: qual a importância da participação juvenil neste momento?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/02/juventudes-e-eleicoes-municipais-qual-a-importancia-da-participacao-juvenil-neste-momento/)
-- [Emendas parlamentares e o financiamento municipal da atenção primária à saúde do SUS](https://pp.nexojornal.com.br/academico/2024/04/02/emendas-parlamentares-e-o-financiamento-municipal-da-atencao-primaria-a-saude-do-sus/)
-- [A antropologia e os povos indígenas](https://pp.nexojornal.com.br/bibliografia-basica/2024/03/28/a-antropologia-e-os-povos-indigenas/)
-- [As políticas parentais do Programa Primeira Infância Melhor no Brasil](https://pp.nexojornal.com.br/academico/2024/03/28/as-politicas-parentais-do-programa-primeira-infancia-melhor-no-brasil/)
+- [Políticas de inclusão de mulheres na pós-graduação](https://pp.nexojornal.com.br/opiniao/2024/04/09/politicas-de-inclusao-de-mulheres-na-pos-graduacao/)
+- [A importância do diálogo qualificado na formulação de políticas educacionais](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/a-importancia-do-dialogo-qualificado-na-formulacao-de-politicas-educacionais/)
+- [Juventude e conservadorismo: qual a contradição?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/juventude-e-conservadorismo-qual-a-contradicao/)
+- [A violência armada impacta o direito à educação](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/a-violencia-armada-impacta-o-direito-a-educacao/)
+- [Problemáticas de segurança nas Fronteiras do Brasil: violência, narcotráfico e mobilidade humana](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/problematicas-de-seguranca-nas-fronteiras-do-brasil-violencia-narcotrafico-e-mobilidade-humana/)
 <!-- PP_LIST:END -->
 
