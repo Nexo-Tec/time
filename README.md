@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A derrocada do PSDB nas capitais durante a janela partidária](https://www.nexojornal.com.br/expresso/2024/04/09/eleicoes-2024-psdb-janela-partidaria)
 - [Donos de empresas de ônibus são presos em operação contra PCC](https://www.nexojornal.com.br/extra/2024/04/09/donos-empresas-onibus-presos-pcc)
 - [Os reflexos políticos da decisão de Moraes de investigar Musk](https://www.nexojornal.com.br/podcast/2024/04/08/alexandre-de-moraes-investiga-elon-musk-dono-do-x-twitter)
 - [O que a ciência no Brasil perdeu com a repressão da ditadura](https://www.nexojornal.com.br/externo/2024/04/08/o-que-a-ciencia-no-brasil-perdeu-com-a-repressao-da-ditadura)
 - [Dia a dia do golpe: o 1º Ato Institucional do novo regime](https://www.nexojornal.com.br/serie/2024/04/08/ai-1-ato-institucional-n-1)
-- [A inviolabilidade das embaixadas e a crise México-Equador](https://www.nexojornal.com.br/expresso/2024/04/08/equador-embaixada-mexico-crise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
