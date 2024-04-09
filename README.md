@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os reflexos políticos da decisão de Moraes de investigar Musk](https://www.nexojornal.com.br/podcast/2024/04/08/alexandre-de-moraes-investiga-elon-musk-dono-do-x-twitter)
+- [O que a ciência no Brasil perdeu com a repressão da ditadura](https://www.nexojornal.com.br/externo/2024/04/08/o-que-a-ciencia-no-brasil-perdeu-com-a-repressao-da-ditadura)
+- [Dia a dia do golpe: o 1º Ato Institucional do novo regime](https://www.nexojornal.com.br/serie/2024/04/08/ai-1-ato-institucional-n-1)
+- [A inviolabilidade das embaixadas e a crise México-Equador](https://www.nexojornal.com.br/expresso/2024/04/08/equador-embaixada-mexico-crise)
 - [Palestinos voltam para Khan Yunis após saída de tropas de Israel](https://www.nexojornal.com.br/extra/2024/04/08/palestinos-em-khan-yunis-apos-retirada-de-tropas-de-israel)
-- [A proporcionalidade da decisão de Moraes em investigar Musk](https://www.nexojornal.com.br/expresso/2024/04/08/moraes-manda-investigar-musk-x-twitter-anatel)
-- [Como eram as tatuagens inglesas na Era Vitoriana](https://www.nexojornal.com.br/expresso/2024/04/08/como-eram-as-tatuagens-inglesas-na-era-vitoriana)
-- [Por que os homo sapiens substituíram os neandertais](https://www.nexojornal.com.br/externo/2024/04/08/por-que-os-humanos-modernos-substituiram-os-neandertais)
-- [Comando da PM afasta policial que agrediu mulher no Metrô de SP](https://www.nexojornal.com.br/extra/2024/04/08/pm-afasta-policial-que-agrediu-mulher-no-metro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
