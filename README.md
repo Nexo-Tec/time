@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desafio dos dados na gestão de pessoas do setor público](https://www.nexojornal.com.br/colunistas/2024/04/09/dados-gestao-de-pessoas-setor-publico-transparencia)
+- [Por que o presidente da Petrobras está sob forte pressão](https://www.nexojornal.com.br/expresso/2024/04/09/por-que-ha-tanta-pressao-sobre-o-presidente-da-petrobras)
+- [Como Elon Musk se relaciona com autoridades estrangeiras](https://www.nexojornal.com.br/expresso/2024/04/09/como-elon-musk-se-relaciona-com-autoridades-estrangeiras)
 - [Dia a dia do golpe: mandatos cassados, direitos suspensos](https://www.nexojornal.com.br/serie/2024/04/09/golpe-1964-cassacoes)
-- [TRE do Paraná absolve Moro de pedido de cassação](https://www.nexojornal.com.br/extra/2024/04/09/tre-do-parana-forma-maioria-contra-cassacao-de-moro)
-- [A arquitetura e as paisagens do sertão nas lentes de Anna Mariani](https://www.nexojornal.com.br/expresso/2024/04/09/a-arquitetura-e-as-paisagens-do-sertao-nas-lentes-de-anna-mariani)
-- [‘Vovós pelo clima’: as idosas que processaram a Suíça](https://www.nexojornal.com.br/podcast/2024/04/09/idosas-processam-governo-suica-mudancas-climaticas-tribunal-europeu-dos-direitos-humanos)
-- [Moraes nega pedido do X do Brasil de se isentar de ordens](https://www.nexojornal.com.br/extra/2024/04/09/moraes-nega-pedido-do-x-do-brasil-de-se-isentar-de-ordens)
+- [TRE do Paraná absolve Moro em pedido de cassação](https://www.nexojornal.com.br/extra/2024/04/09/tre-do-parana-forma-maioria-contra-cassacao-de-moro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
