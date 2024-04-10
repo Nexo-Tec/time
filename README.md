@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como é o 1º game cubano disponível para outros países](https://www.nexojornal.com.br/expresso/2024/04/10/saviorless-jogo-de-videogame-cuba-primeiro-lancamento-internacional)
+- [Câmara abre processo para cassar mandato de Chiquinho Brazão](https://www.nexojornal.com.br/extra/2024/04/10/camara-pode-cassar-mandato-de-chiquinho-brazao-marielle)
 - [Inflação perde força em março e fica abaixo das projeções](https://www.nexojornal.com.br/extra/2024/04/10/inflacao-desacelera-em-marco)
 - [Os desafios sobre dados de gestão de pessoas no setor público](https://www.nexojornal.com.br/colunistas/2024/04/09/dados-gestao-de-pessoas-setor-publico-transparencia)
 - [Por que o presidente da Petrobras está sob forte pressão](https://www.nexojornal.com.br/expresso/2024/04/09/por-que-ha-tanta-pressao-sobre-o-presidente-da-petrobras)
-- [Como Elon Musk se relaciona com autoridades estrangeiras](https://www.nexojornal.com.br/expresso/2024/04/09/como-elon-musk-se-relaciona-com-autoridades-estrangeiras)
-- [Dia a dia do golpe: mandatos cassados, direitos suspensos](https://www.nexojornal.com.br/serie/2024/04/09/golpe-1964-cassacoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
