@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel mata filhos e netos de líder do Hamas](https://www.nexojornal.com.br/extra/2024/04/10/israel-mata-filhos-e-netos-de-lider-do-hamas)
+- [O sequestro de Silvio Santos virou filme. Lembre como foi](https://www.nexojornal.com.br/expresso/2024/04/10/filme-sequestro-silvio-santos)
 - [Executivos ricos, operários pobres: o abismo salarial na JBS](https://www.nexojornal.com.br/externo/2024/04/10/executivos-ricos-operarios-pobres-o-abismo-salarial-na-jbs)
 - [Packers x Eagles será o primeiro jogo da NFL no Brasil](https://www.nexojornal.com.br/extra/2024/04/10/packers-eagles-primeiro-jogo-da-nfl-no-brasil)
 - [Como é o 1º game cubano disponível para outros países](https://www.nexojornal.com.br/expresso/2024/04/10/saviorless-jogo-de-videogame-cuba-primeiro-lancamento-internacional)
-- [Câmara abre processo para cassar mandato de Chiquinho Brazão](https://www.nexojornal.com.br/extra/2024/04/10/camara-pode-cassar-mandato-de-chiquinho-brazao-marielle)
-- [Inflação perde força em março e fica abaixo das projeções](https://www.nexojornal.com.br/extra/2024/04/10/inflacao-desacelera-em-marco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
