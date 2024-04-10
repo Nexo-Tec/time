@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Executivos ricos, operários pobres: o abismo salarial na JBS](https://www.nexojornal.com.br/externo/2024/04/10/executivos-ricos-operarios-pobres-o-abismo-salarial-na-jbs)
+- [Packers x Eagles será o primeiro jogo da NFL no Brasil](https://www.nexojornal.com.br/extra/2024/04/10/packers-eagles-primeiro-jogo-da-nfl-no-brasil)
 - [Como é o 1º game cubano disponível para outros países](https://www.nexojornal.com.br/expresso/2024/04/10/saviorless-jogo-de-videogame-cuba-primeiro-lancamento-internacional)
 - [Câmara abre processo para cassar mandato de Chiquinho Brazão](https://www.nexojornal.com.br/extra/2024/04/10/camara-pode-cassar-mandato-de-chiquinho-brazao-marielle)
 - [Inflação perde força em março e fica abaixo das projeções](https://www.nexojornal.com.br/extra/2024/04/10/inflacao-desacelera-em-marco)
-- [Os desafios sobre dados de gestão de pessoas no setor público](https://www.nexojornal.com.br/colunistas/2024/04/09/dados-gestao-de-pessoas-setor-publico-transparencia)
-- [Por que o presidente da Petrobras está sob forte pressão](https://www.nexojornal.com.br/expresso/2024/04/09/por-que-ha-tanta-pressao-sobre-o-presidente-da-petrobras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
