@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dia a dia do golpe: mandatos cassados, direitos suspensos](https://www.nexojornal.com.br/serie/2024/04/09/golpe-1964-cassacoes)
+- [TRE do Paraná absolve Moro de pedido de cassação](https://www.nexojornal.com.br/extra/2024/04/09/tre-do-parana-forma-maioria-contra-cassacao-de-moro)
+- [A arquitetura e as paisagens do sertão nas lentes de Anna Mariani](https://www.nexojornal.com.br/expresso/2024/04/09/a-arquitetura-e-as-paisagens-do-sertao-nas-lentes-de-anna-mariani)
 - [‘Vovós pelo clima’: as idosas que processaram a Suíça](https://www.nexojornal.com.br/podcast/2024/04/09/idosas-processam-governo-suica-mudancas-climaticas-tribunal-europeu-dos-direitos-humanos)
 - [Moraes nega pedido do X do Brasil de se isentar de ordens](https://www.nexojornal.com.br/extra/2024/04/09/moraes-nega-pedido-do-x-do-brasil-de-se-isentar-de-ordens)
-- [Por que não tem tanta gente expondo no Louvre quanto parece](https://www.nexojornal.com.br/expresso/2024/04/09/por-que-nao-tem-tanta-gente-expondo-no-louvre-quanto-parece)
-- [Chechênia bane músicas muito ‘rápidas’ e muito ‘lentas’](https://www.nexojornal.com.br/extra/2024/04/09/chechenia-bane-musicas-muito-rapidas-ou-lentas)
-- [A derrocada do PSDB nas capitais durante a janela partidária](https://www.nexojornal.com.br/expresso/2024/04/09/eleicoes-2024-psdb-janela-partidaria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
