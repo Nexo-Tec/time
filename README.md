@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Wall Ball](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/wall-ball/)
 - [Uma pele suave para agradar](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/uma-mulher-agradavel/)
 - [Diplomacia em tempos de guerra](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/diplomacia-em-tempos-de-guerra/)
 - [@kamilla_cardoso](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/kamilla_cardoso/)
 - [Marcos Veras](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcos-veras/)
-- [André Alves: “É a insatisfação que nos move”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/por-que-e-tao-dificil-nos-sentirmos-satisfeitos-andre-alves-e-a-insatisfacao-que-nos-move-floatvibes-podcast/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
