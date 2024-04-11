@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As políticas da ditadura militar voltadas à juventude](https://www.nexojornal.com.br/academico/2024/04/11/as-politicas-da-ditadura-militar-voltadas-a-juventude)
+- [Morre OJ Simpson, um dos réus mais célebres da história dos EUA](https://www.nexojornal.com.br/extra/2024/04/11/oj-simpson-morreu-julgamento-morte-esposa)
 - [A decisão da Câmara de manter a prisão de Chiquinho Brazão](https://www.nexojornal.com.br/expresso/2024/04/10/caso-marielle-chiquinho-brazao-prisao-camara)
 - [Dia a dia do golpe: Congresso elege Castelo Branco](https://www.nexojornal.com.br/serie/2024/04/10/eleicao-castelo-branco-1964)
 - [Como Lula quer usar a conta de luz para ampliar sua aprovação](https://www.nexojornal.com.br/expresso/2024/04/10/como-lula-quer-usar-a-conta-de-luz-para-ampliar-sua-aprovacao)
-- [Você é sempre livre para desistir quando quiser](https://www.nexojornal.com.br/colunistas/2024/04/10/ideia-ultraliberal-de-liberdade-caso-do-reality-show-japones-tomoaki-hamatsu)
-- [Câmara dos Deputados decide manter prisão de Chiquinho Brazão](https://www.nexojornal.com.br/extra/2024/04/10/decisao-da-camara-chiquinho-brazao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
