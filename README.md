@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Wall Ball](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/wall-ball/)
-- [Uma pele suave para agradar](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/uma-mulher-agradavel/)
-- [Diplomacia em tempos de guerra](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/diplomacia-em-tempos-de-guerra/)
-- [@kamilla_cardoso](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/kamilla_cardoso/)
-- [Marcos Veras](https://gamarevista.uol.com.br/pessoas/questionario-proust/marcos-veras/)
+- [O retorno do podcast “Vinte Mil Léguas”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-podcast-vinte-mil-leguas/)
+- [A juventude de Chico Buarque pelos olhos da irmã](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-juventude-de-chico-buarque-pelos-olhos-da-irma/)
+- [A segunda temporada de “Justiça”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-justica/)
+- [A Amazônia e os povos indígenas por Claudia Andujar e George Love](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-amazonia-e-os-povos-indigenas-por-claudia-andujar-e-george-love/)
+- [Festival Sesc Melhores Filmes](https://gamarevista.uol.com.br/achamos-que-vale/assistir/festival-sesc-melhores-filmes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
