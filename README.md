@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia de SP apura sumiço de 26 armas da Guarda de Cajamar](https://www.nexojornal.com.br/extra/2024/04/11/cajamar-sumico-armas-guarda-civil-municipal-sao-paulo)
 - [As políticas da ditadura militar voltadas à juventude](https://www.nexojornal.com.br/academico/2024/04/11/as-politicas-da-ditadura-militar-voltadas-a-juventude)
 - [Morre OJ Simpson, um dos réus mais célebres da história dos EUA](https://www.nexojornal.com.br/extra/2024/04/11/oj-simpson-morreu-julgamento-morte-esposa)
 - [A decisão da Câmara de manter a prisão de Chiquinho Brazão](https://www.nexojornal.com.br/expresso/2024/04/10/caso-marielle-chiquinho-brazao-prisao-camara)
 - [Dia a dia do golpe: Congresso elege Castelo Branco](https://www.nexojornal.com.br/serie/2024/04/10/eleicao-castelo-branco-1964)
-- [Como Lula quer usar a conta de luz para ampliar sua aprovação](https://www.nexojornal.com.br/expresso/2024/04/10/como-lula-quer-usar-a-conta-de-luz-para-ampliar-sua-aprovacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
