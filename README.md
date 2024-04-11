@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A decisão da Câmara de manter a prisão de Chiquinho Brazão](https://www.nexojornal.com.br/expresso/2024/04/10/caso-marielle-chiquinho-brazao-prisao-camara)
+- [Dia a dia do golpe: Congresso elege Castelo Branco](https://www.nexojornal.com.br/serie/2024/04/10/eleicao-castelo-branco-1964)
+- [Como Lula quer usar a conta de luz para ampliar sua aprovação](https://www.nexojornal.com.br/expresso/2024/04/10/como-lula-quer-usar-a-conta-de-luz-para-ampliar-sua-aprovacao)
+- [Você é sempre livre para desistir quando quiser](https://www.nexojornal.com.br/colunistas/2024/04/10/ideia-ultraliberal-de-liberdade-caso-do-reality-show-japones-tomoaki-hamatsu)
 - [Câmara dos Deputados decide manter prisão de Chiquinho Brazão](https://www.nexojornal.com.br/extra/2024/04/10/decisao-da-camara-chiquinho-brazao)
-- [A Câmara deixou para lá. E o Supremo agora quer regular as redes](https://www.nexojornal.com.br/podcast/2024/04/10/pl-regulacao-das-redes-sociais-camara-stf)
-- [Israel mata filhos e netos de líder do Hamas](https://www.nexojornal.com.br/extra/2024/04/10/israel-mata-filhos-e-netos-de-lider-do-hamas)
-- [O sequestro de Silvio Santos virou filme. Lembre como foi](https://www.nexojornal.com.br/expresso/2024/04/10/filme-sequestro-silvio-santos)
-- [Executivos ricos, operários pobres: o abismo salarial na JBS](https://www.nexojornal.com.br/externo/2024/04/10/executivos-ricos-operarios-pobres-o-abismo-salarial-na-jbs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
