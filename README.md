@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Helena Arruda: transição de governos municipais e impactos na saúde infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/04/12/helena-arruda-transicao-de-governos-municipais-e-impactos-na-saude-infantil/)
+- [Do desenvolvimento da neurociência ao reconhecimento dos neurodireitos](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/12/do-desenvolvimento-da-neurociencia-ao-reconhecimento-dos-neurodireitos/)
 - [Mandatos coletivos](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/mandatos-coletivos/)
 - [Desigualdades raciais, cuidado em saúde mental e mortalidade no Rio de Janeiro](https://pp.nexojornal.com.br/academico/2024/04/09/desigualdades-raciais-cuidado-em-saude-mental-e-mortalidade-no-rio-de-janeiro/)
 - [Justiça ambiental e raça](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/justica-ambiental-e-raca/)
-- [Políticas de inclusão de mulheres na pós-graduação](https://pp.nexojornal.com.br/opiniao/2024/04/09/politicas-de-inclusao-de-mulheres-na-pos-graduacao/)
-- [A importância do diálogo qualificado na formulação de políticas educacionais](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/09/a-importancia-do-dialogo-qualificado-na-formulacao-de-politicas-educacionais/)
 <!-- PP_LIST:END -->
 
