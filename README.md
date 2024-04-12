@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Arnaldo Antunes e Marisa Monte ganham ação contra Doria](https://www.nexojornal.com.br/extra/2024/04/12/joao-doria-e-condenado-a-indenizar-marisa-monte)
 - [Como blogs criam ‘álbuns famosos’ que nunca foram gravados](https://www.nexojornal.com.br/expresso/2024/04/12/como-blogs-criam-albuns-famosos-que-nunca-foram-gravados)
 - [O lobby de Eduardo nos EUA sobre a falsa ‘ditadura’ no Brasil](https://www.nexojornal.com.br/externo/2024/04/12/eduardo-bolsonaro-e-o-lobby-nos-eua-sobre-a-ditadura-no-brasil)
 - [Após ser chamado de ‘incompetente’, Padilha rebate Lira](https://www.nexojornal.com.br/extra/2024/04/12/apos-ser-chamado-de-incompetente-padilha-rebate-lira)
 - [A desinformação nos Twitter Files. E a ação do Supremo no caso X](https://www.nexojornal.com.br/expresso/2024/04/11/x-antigo-twitter-transparencia-fake-news)
-- [O que muda com a lei de asilo aprovada pelo Parlamento Europeu](https://www.nexojornal.com.br/expresso/2024/04/11/europa-parlamento-aprova-lei-de-asilo-migracao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
