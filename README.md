@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que muda com a lei de asilo aprovada pelo Parlamento Europeu](https://www.nexojornal.com.br/expresso/2024/04/11/europa-parlamento-aprova-lei-de-asilo-migracao)
 - [Lula veta trecho de lei e mantém ‘saidinha’ para visitar família](https://www.nexojornal.com.br/extra/2024/04/11/lula-veta-projeto-de-lei-saidinha-presos)
 - [Como O.J. Simpson mexeu no debate racial americano](https://www.nexojornal.com.br/podcast/2024/04/11/o-j-simpson-e-o-debate-racial-americano)
 - [Para STF, Estado deve indenizar vítimas de tiro durante operações](https://www.nexojornal.com.br/extra/2024/04/11/stf-indenizacao-bala-perdida-operacao-policial)
 - [‘Megalopolis’: o épico futurista que fez Coppola ir a Curitiba](https://www.nexojornal.com.br/expresso/2024/04/11/megalopolis-o-epico-futurista-que-fez-coppola-ir-a-curitiba)
-- [Polícia de SP apura sumiço de 26 armas da Guarda de Cajamar](https://www.nexojornal.com.br/extra/2024/04/11/cajamar-sumico-armas-guarda-civil-municipal-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
