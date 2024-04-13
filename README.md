@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Irã lança drones em direção a território de Israel, diz governo de Tel Aviv](https://www.nexojornal.com.br/extra/2024/04/13/ira-lanca-drones-em-direcao-a-israel-diz-governo-de-tel-aviv)
-- [‘Há um lugar para mim na casa do meu pai’: a vida de refugiado](https://www.nexojornal.com.br/estante-trechos/2024/04/12/ha-um-lugar-para-mim-na-casa-do-meu-pai-a-vida-de-refugiado)
-- [Como respeitar o relógio interno do organismo](https://www.nexojornal.com.br/externo/2024/04/12/respeitar-o-relogio-interno-do-organismo-um-segredo-para-melhorar-a-saude)
-- [O preconceito contra mulheres com fadiga crônica](https://www.nexojornal.com.br/externo/2024/04/12/o-preconceito-contra-mulheres-com-fadiga-cronica)
-- [O que falta para que a Palestina seja vista como Estado](https://www.nexojornal.com.br/expresso/2024/04/12/palestina-e-um-estado)
+- [O que a investigação em ônibus em SP revela sobre o PCC](https://www.nexojornal.com.br/expresso/2024/04/13/pcc-onibus-lavagem-dinheiro)
+- [Os músicos ingleses que ajudam a reerguer seus times de infância](https://www.nexojornal.com.br/expresso/2024/04/13/os-musicos-ingleses-que-ajudam-a-reerguer-seus-times-de-infancia)
+- [Avatares mulheres e o machismo nas redes sociais](https://www.nexojornal.com.br/ensaio/2024/04/13/avatares-mulheres-e-o-machismo-nas-redes-sociais)
+- [Mário Pedrosa destacou a produção artística de grupos marginalizados](https://www.nexojornal.com.br/externo/2024/04/13/mario-pedrosa-destacou-a-producao-artistica-de-grupos-marginalizados)
+- [5 livros para a hora de dormir, segundo minha filha de 6 anos](https://www.nexojornal.com.br/estante-favoritos/2024/04/13/5-livros-para-a-hora-de-dormir-segundo-minha-filha-de-6-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
