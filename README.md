@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A carga do X contra o STF. A Câmara diante de Brazão. E mais](https://www.nexojornal.com.br/video/2024/04/12/elon-musk-e-alexandre-de-moraes-resumo-investigacao)
-- [Como o Nexo trabalha com dados geográficos para fazer mapas](https://www.nexojornal.com.br/grafico/2024/04/12/como-fazer-mapa-com-dados-geograficos)
-- [Milei oferece apoio a Musk em investigação no Brasil](https://www.nexojornal.com.br/extra/2024/04/12/milei-oferece-apoio-a-musk-em-investigacao-no-brasil)
-- [Arnaldo Antunes e Marisa Monte ganham ação contra Doria](https://www.nexojornal.com.br/extra/2024/04/12/joao-doria-e-condenado-a-indenizar-marisa-monte)
-- [Como blogs criam ‘álbuns famosos’ que nunca foram gravados](https://www.nexojornal.com.br/expresso/2024/04/12/como-blogs-criam-albuns-famosos-que-nunca-foram-gravados)
+- [‘Há um lugar para mim na casa do meu pai’: a vida de refugiado](https://www.nexojornal.com.br/estante-trechos/2024/04/12/ha-um-lugar-para-mim-na-casa-do-meu-pai-a-vida-de-refugiado)
+- [Como respeitar o relógio interno do organismo](https://www.nexojornal.com.br/externo/2024/04/12/respeitar-o-relogio-interno-do-organismo-um-segredo-para-melhorar-a-saude)
+- [O preconceito contra mulheres com fadiga crônica](https://www.nexojornal.com.br/externo/2024/04/12/o-preconceito-contra-mulheres-com-fadiga-cronica)
+- [O que falta para que a Palestina seja vista como Estado](https://www.nexojornal.com.br/expresso/2024/04/12/palestina-e-um-estado)
+- [Aos 83 anos, morre estilista italiano Roberto Cavalli](https://www.nexojornal.com.br/extra/2024/04/12/aos-83-anos-morre-estilista-italiano-roberto-cavalli)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
