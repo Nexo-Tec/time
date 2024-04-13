@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Irã lança drones em direção à Israel, diz governo de Tel Aviv](https://www.nexojornal.com.br/extra/2024/04/13/ira-lanca-drones-em-direcao-a-israel-diz-governo-de-tel-aviv)
+- [Irã lança drones em direção a território de Israel, diz governo de Tel Aviv](https://www.nexojornal.com.br/extra/2024/04/13/ira-lanca-drones-em-direcao-a-israel-diz-governo-de-tel-aviv)
 - [‘Há um lugar para mim na casa do meu pai’: a vida de refugiado](https://www.nexojornal.com.br/estante-trechos/2024/04/12/ha-um-lugar-para-mim-na-casa-do-meu-pai-a-vida-de-refugiado)
 - [Como respeitar o relógio interno do organismo](https://www.nexojornal.com.br/externo/2024/04/12/respeitar-o-relogio-interno-do-organismo-um-segredo-para-melhorar-a-saude)
 - [O preconceito contra mulheres com fadiga crônica](https://www.nexojornal.com.br/externo/2024/04/12/o-preconceito-contra-mulheres-com-fadiga-cronica)
