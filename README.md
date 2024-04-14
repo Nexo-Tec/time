@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Jerá Guarani: “Tem Guarani muito seguro de que tem que viver todos os dias como se fosse o último, com um agradecimento”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jera-guarani-luta-indigena-brasil-sao-paulo-cultura/)
 - [A formação de crianças com deficiência e transtorno de aprendizagem no Brasil](https://gamarevista.uol.com.br/formato/reportagem/a-formacao-de-criancas-com-deficiencia-e-transtorno-de-aprendizagem-no-brasil/)
 - [Atravessando o Deserto Emocional](https://gamarevista.uol.com.br/cultura/trecho-de-livro/atravessando-o-deserto-emocional/)
 - [O retorno do podcast “Vinte Mil Léguas”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-podcast-vinte-mil-leguas/)
 - [A juventude de Chico Buarque pelos olhos da irmã](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-juventude-de-chico-buarque-pelos-olhos-da-irma/)
-- [A segunda temporada de “Justiça”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-segunda-temporada-de-justica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
