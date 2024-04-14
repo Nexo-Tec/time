@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [EUA anunciam apoio ‘inabalável’ a Israel após ataques iranianos](https://www.nexojornal.com.br/extra/2024/04/14/eua-anuncia-apoio-inabalavel-a-israel-apos-ataques-iranianos)
 - [O que a investigação em ônibus em SP revela sobre o PCC](https://www.nexojornal.com.br/expresso/2024/04/13/pcc-onibus-lavagem-dinheiro)
 - [Os músicos ingleses que ajudam a reerguer seus times de infância](https://www.nexojornal.com.br/expresso/2024/04/13/os-musicos-ingleses-que-ajudam-a-reerguer-seus-times-de-infancia)
 - [Avatares mulheres e o machismo nas redes sociais](https://www.nexojornal.com.br/ensaio/2024/04/13/avatares-mulheres-e-o-machismo-nas-redes-sociais)
 - [Mário Pedrosa destacou a produção artística de grupos marginalizados](https://www.nexojornal.com.br/externo/2024/04/13/mario-pedrosa-destacou-a-producao-artistica-de-grupos-marginalizados)
-- [5 livros para a hora de dormir, segundo minha filha de 6 anos](https://www.nexojornal.com.br/estante-favoritos/2024/04/13/5-livros-para-a-hora-de-dormir-segundo-minha-filha-de-6-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
