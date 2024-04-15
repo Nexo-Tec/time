@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que você sabe sobre as formas de produzir um mapa? Faça o teste](https://www.nexojornal.com.br/interativo/2024/04/15/teste-origem-mapa-mundial-novo-mapa-mundi-ibge)
 - [Projeto de LDO do governo prevê ajuste fiscal mais lento](https://www.nexojornal.com.br/extra/2024/04/15/governo-afrouxa-meta-fiscal)
 - [CNJ afasta sucessores de Moro na Lava Jato e desembargadores](https://www.nexojornal.com.br/extra/2024/04/15/cnj-afasta-juizes-lava-jato)
 - [Funmilayo: o som de Fela Kuti em uma orquestra sem homens](https://www.nexojornal.com.br/expresso/2024/04/15/funmilayo-afrobeat-orquestra-toca-fela-kuti)
 - [EUA dão início a 1º julgamento criminal de um ex-presidente](https://www.nexojornal.com.br/extra/2024/04/15/trump-julgamento-caso-atriz-porno)
-- [Por que o governo pena para regular motoristas de apps](https://www.nexojornal.com.br/expresso/2024/04/14/por-que-o-governo-pena-para-regular-motoristas-de-apps)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
