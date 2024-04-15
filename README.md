@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [CNJ afasta sucessores de Moro na Lava Jato e desembargadores](https://www.nexojornal.com.br/extra/2024/04/15/cnj-afasta-juizes-lava-jato)
+- [Funmilayo: o som de Fela Kuti em uma orquestra sem homens](https://www.nexojornal.com.br/expresso/2024/04/15/funmilayo-afrobeat-orquestra-toca-fela-kuti)
 - [EUA dão início a 1º julgamento criminal de um ex-presidente](https://www.nexojornal.com.br/extra/2024/04/15/trump-julgamento-caso-atriz-porno)
 - [Por que o governo pena para regular motoristas de apps](https://www.nexojornal.com.br/expresso/2024/04/14/por-que-o-governo-pena-para-regular-motoristas-de-apps)
 - [‘Com IA, o que importa para ilustradores é ideia e emoção’](https://www.nexojornal.com.br/entrevista/2024/04/14/com-ia-o-que-importa-para-ilustradores-e-ideia-e-emocao)
-- [Navegando pelas tempestades do clima e dos negócios](https://www.nexojornal.com.br/ensaio/2024/04/14/navegando-pelas-tempestades-do-clima-e-dos-negocios)
-- [Em reunião na ONU, Israel e Irã trocam acusações](https://www.nexojornal.com.br/extra/2024/04/14/em-reuniao-na-onu-israel-e-ira-trocam-acusacoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
