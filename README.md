@@ -116,10 +116,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Você reconhece o país pelo passaporte? Faça o teste](https://www.nexojornal.com.br/grafico/2024/04/16/teste-como-e-o-passaporte-de-cada-pais)
+- [A operação em São Paulo que mira os elos entre o PCC e a política](https://www.nexojornal.com.br/podcast/2024/04/16/politica-pcc-operacao-munditia)
 - [Deputado expulsa integrante do MBL da Câmara a pontapé](https://www.nexojornal.com.br/extra/2024/04/16/glauber-braga-expulsa-integrante-do-mbl-da-camara)
 - [Sergipe suspende reconhecimento facial após falha em estádio](https://www.nexojornal.com.br/extra/2024/04/16/sergipe-suspende-reconhecimento-facial-apos-falha-em-partida)
 - [O respeito à diversidade na hora de celebrar a formatura](https://www.nexojornal.com.br/expresso/2024/04/16/formatura-candomble-matriz-africana-beca-branca)
-- [Operação prende vereadores e outros 10 por ligação com PCC](https://www.nexojornal.com.br/extra/2024/04/16/operacao-prende-vereadores-e-outros-10-por-ligacao-com-pcc)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
