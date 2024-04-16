@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Deputado expulsa integrante do MBL da Câmara com chute](https://www.nexojornal.com.br/extra/2024/04/16/glauber-braga-expulsa-integrante-do-mbl-da-camara)
 - [Sergipe suspende reconhecimento facial após falha em estádio](https://www.nexojornal.com.br/extra/2024/04/16/sergipe-suspende-reconhecimento-facial-apos-falha-em-partida)
 - [O respeito à diversidade na hora de celebrar a formatura](https://www.nexojornal.com.br/expresso/2024/04/16/formatura-candomble-matriz-africana-beca-branca)
 - [Operação prende vereadores e outros 10 por ligação com PCC](https://www.nexojornal.com.br/extra/2024/04/16/operacao-prende-vereadores-e-outros-10-por-ligacao-com-pcc)
 - [O poder multiplicador das cotas nos concursos públicos](https://www.nexojornal.com.br/colunistas/2024/04/15/o-poder-multiplicador-das-cotas-nos-concursos-publicos)
-- [7 pontos-chave para entender os ataques entre Israel e Irã](https://www.nexojornal.com.br/expresso/2024/04/15/ira-israel-drones-motivo-ataque)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
