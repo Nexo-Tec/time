@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Irã-Israel: um conflito histórico, agora escancarado](https://www.nexojornal.com.br/podcast/2024/04/15/relacao-ira-israel-historico)
+- [Israel-Irã: um conflito histórico, agora escancarado](https://www.nexojornal.com.br/podcast/2024/04/15/relacao-ira-israel-historico)
 - [Como Djuena Tikuna leva música indígena ao mundo](https://www.nexojornal.com.br/externo/2024/04/15/como-djuena-tikuna-leva-musica-indigena-ao-mundo)
 - [Brasil ‘condena atos de violência’, afirma chanceler sobre Irã](https://www.nexojornal.com.br/extra/2024/04/15/brasil-condena-ataque-ira)
 - [O que você sabe sobre as formas de produzir um mapa? Faça o teste](https://www.nexojornal.com.br/interativo/2024/04/15/teste-origem-mapa-mundial-novo-mapa-mundi-ibge)
