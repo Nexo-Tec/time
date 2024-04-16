@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [7 pontos-chave para entender os ataques entre Israel e Irã](https://www.nexojornal.com.br/expresso/2024/04/15/ira-israel-drones-motivo-ataque)
+- [iFood quer entregadores gerando créditos de carbono](https://www.nexojornal.com.br/externo/2024/04/15/ifood-quer-entregadores-gerando-creditos-de-carbono)
+- [O que move as greves das universidades federais](https://www.nexojornal.com.br/expresso/2024/04/15/educacao-greve-federais-2024-universidade)
 - [Israel-Irã: um conflito histórico, agora escancarado](https://www.nexojornal.com.br/podcast/2024/04/15/relacao-ira-israel-historico)
 - [Como Djuena Tikuna leva música indígena ao mundo](https://www.nexojornal.com.br/externo/2024/04/15/como-djuena-tikuna-leva-musica-indigena-ao-mundo)
-- [Brasil ‘condena atos de violência’, afirma chanceler sobre Irã](https://www.nexojornal.com.br/extra/2024/04/15/brasil-condena-ataque-ira)
-- [O que você sabe sobre as formas de produzir um mapa? Faça o teste](https://www.nexojornal.com.br/interativo/2024/04/15/teste-origem-mapa-mundial-novo-mapa-mundi-ibge)
-- [Projeto de LDO do governo prevê ajuste fiscal mais lento](https://www.nexojornal.com.br/extra/2024/04/15/governo-afrouxa-meta-fiscal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
