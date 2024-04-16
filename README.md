@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que o financiamento climático é urgente para as cidades](https://pp.nexojornal.com.br/topico/2024/04/16/por-que-o-financiamento-climatico-e-urgente-para-cidades/)
+- [Transições críticas no sistema florestal amazônico](https://pp.nexojornal.com.br/academico/2024/04/16/transicoes-criticas-no-sistema-florestal-amazonico/)
+- [O Guia Alimentar para a População Brasileira e a melhora na qualidade da alimentação](https://pp.nexojornal.com.br/academico/2024/04/16/o-guia-alimentar-para-a-populacao-brasileira-e-a-melhora-na-qualidade-da-alimentacao/)
 - [Ações afirmativas para mulheres na política eleitoral brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/16/acoes-afirmativas-para-mulheres-na-politica-eleitoral-brasileira/)
 - [Políticas públicas: questão de sobrevivência para jovens de periferia](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/16/politicas-publicas-questao-de-sobrevivencia-para-jovens-de-periferia/)
-- [Letalidade prisional, justiça e saúde](https://pp.nexojornal.com.br/academico/2024/04/16/letalidade-prisional-justica-e-saude/)
-- [Podemos evitar um futuro distópico: por uma nova agenda global](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/16/podemos-evitar-um-futuro-distopico-por-uma-nova-agenda-global/)
-- [Os casos eleitorais de Bolsonaro e Trump têm semelhanças, exceto pelas decisões judiciais](https://pp.nexojornal.com.br/topico/2024/04/16/os-casos-eleitorais-de-bolsonaro-e-trump-tem-semelhancas-exceto-pelas-decisoes-judiciais/)
 <!-- PP_LIST:END -->
 
