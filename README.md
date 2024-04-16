@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Helena Arruda: transição de governos municipais e impactos na saúde infantil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/04/12/helena-arruda-transicao-de-governos-municipais-e-impactos-na-saude-infantil/)
-- [Do desenvolvimento da neurociência ao reconhecimento dos neurodireitos](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/12/do-desenvolvimento-da-neurociencia-ao-reconhecimento-dos-neurodireitos/)
-- [Mandatos coletivos](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/mandatos-coletivos/)
-- [Desigualdades raciais, cuidado em saúde mental e mortalidade no Rio de Janeiro](https://pp.nexojornal.com.br/academico/2024/04/09/desigualdades-raciais-cuidado-em-saude-mental-e-mortalidade-no-rio-de-janeiro/)
-- [Justiça ambiental e raça](https://pp.nexojornal.com.br/bibliografia-basica/2024/04/09/justica-ambiental-e-raca/)
+- [Ações afirmativas para mulheres na política eleitoral brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/16/acoes-afirmativas-para-mulheres-na-politica-eleitoral-brasileira/)
+- [Políticas públicas: questão de sobrevivência para jovens de periferia](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/16/politicas-publicas-questao-de-sobrevivencia-para-jovens-de-periferia/)
+- [Letalidade prisional, justiça e saúde](https://pp.nexojornal.com.br/academico/2024/04/16/letalidade-prisional-justica-e-saude/)
+- [Podemos evitar um futuro distópico: por uma nova agenda global](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/16/podemos-evitar-um-futuro-distopico-por-uma-nova-agenda-global/)
+- [Os casos eleitorais de Bolsonaro e Trump têm semelhanças, exceto pelas decisões judiciais](https://pp.nexojornal.com.br/topico/2024/04/16/os-casos-eleitorais-de-bolsonaro-e-trump-tem-semelhancas-exceto-pelas-decisoes-judiciais/)
 <!-- PP_LIST:END -->
 
