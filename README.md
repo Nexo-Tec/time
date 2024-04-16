@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O poder multiplicador das cotas nos concursos públicos](https://www.nexojornal.com.br/colunistas/2024/04/15/o-poder-multiplicador-das-cotas-nos-concursos-publicos)
 - [7 pontos-chave para entender os ataques entre Israel e Irã](https://www.nexojornal.com.br/expresso/2024/04/15/ira-israel-drones-motivo-ataque)
 - [iFood quer entregadores gerando créditos de carbono](https://www.nexojornal.com.br/externo/2024/04/15/ifood-quer-entregadores-gerando-creditos-de-carbono)
 - [O que move as greves das universidades federais](https://www.nexojornal.com.br/expresso/2024/04/15/educacao-greve-federais-2024-universidade)
 - [Israel-Irã: um conflito histórico, agora escancarado](https://www.nexojornal.com.br/podcast/2024/04/15/relacao-ira-israel-historico)
-- [Como Djuena Tikuna leva música indígena ao mundo](https://www.nexojornal.com.br/externo/2024/04/15/como-djuena-tikuna-leva-musica-indigena-ao-mundo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
