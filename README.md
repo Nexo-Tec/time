@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Além da cannabis: o potencial brasileiro nas plantas medicinais](https://www.nexojornal.com.br/externo/2024/04/16/alem-da-cannabis-o-potencial-brasileiro-nas-plantas-medicinais)
+- [O que muda com o atraso no ajuste fiscal do governo Lula](https://www.nexojornal.com.br/expresso/2024/04/16/o-que-muda-com-o-atraso-no-ajuste-fiscal-do-governo-lula)
+- [Como a Guarda Revolucionária opera dentro e fora do Irã](https://www.nexojornal.com.br/expresso/2024/04/16/ira-guarda-revolucionaria-o-que-e)
 - [A ivermectina é comprovadamente inefica… ops](https://www.nexojornal.com.br/colunistas/2024/04/16/ivermectina-estudo-eficacia-covid)
 - [CNJ reverte decisão que afastou sucessores de Moro na Lava Jato](https://www.nexojornal.com.br/extra/2024/04/16/cnj-reverte-suspensao-juizes-lava-jato)
-- [Senado aprova PEC das Drogas para se contrapor ao Supremo](https://www.nexojornal.com.br/extra/2024/04/16/pec-das-drogas-aprovada-senado)
-- [Você reconhece o país pelo passaporte? Faça o teste](https://www.nexojornal.com.br/grafico/2024/04/16/teste-como-e-o-passaporte-de-cada-pais)
-- [A operação em São Paulo que mira os elos entre o PCC e a política](https://www.nexojornal.com.br/podcast/2024/04/16/politica-pcc-operacao-munditia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
