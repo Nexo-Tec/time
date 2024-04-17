@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Até ‘Guerra civil’: 8 papéis internacionais de Wagner Moura](https://www.nexojornal.com.br/expresso/2024/04/17/cinema-carreira-internacional-wagner-moura-guerra-civil)
+- [A aposta do Congresso na política de guerra às drogas](https://www.nexojornal.com.br/podcast/2024/04/17/criminalizacao-das-drogas-congresso)
 - [Crise do clima deve causar queda de 19% da renda global até 2050](https://www.nexojornal.com.br/extra/2024/04/17/impactos-da-crise-do-clima-para-economia-mundial)
 - [Como dissipar a raiva com um papel e uma caneta](https://www.nexojornal.com.br/expresso/2024/04/17/escrever-raiva-estudo)
 - [CGU pune Sérgio Camargo por assédio moral na Palmares](https://www.nexojornal.com.br/extra/2024/04/17/punicao-sergio-camargo-fundacao-palmares)
-- [‘O lado sombrio da TV infantil’: os excessos na vida de estrela mirim](https://www.nexojornal.com.br/expresso/2024/04/17/quiet-on-set-o-lado-sombrio-da-tv-infantil-trabalho)
-- [PMs recolhem objetos em local de ação com criança ferida em SP](https://www.nexojornal.com.br/extra/2024/04/17/menino-ferido-paraisopolis-pm-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
