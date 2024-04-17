@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A ivermectina é comprovadamente inefica… ops](https://www.nexojornal.com.br/colunistas/2024/04/16/ivermectina-estudo-eficacia-covid)
+- [CNJ reverte decisão que afastou sucessores de Moro na Lava Jato](https://www.nexojornal.com.br/extra/2024/04/16/cnj-reverte-suspensao-juizes-lava-jato)
 - [Senado aprova PEC das Drogas para se contrapor ao Supremo](https://www.nexojornal.com.br/extra/2024/04/16/pec-das-drogas-aprovada-senado)
 - [Você reconhece o país pelo passaporte? Faça o teste](https://www.nexojornal.com.br/grafico/2024/04/16/teste-como-e-o-passaporte-de-cada-pais)
 - [A operação em São Paulo que mira os elos entre o PCC e a política](https://www.nexojornal.com.br/podcast/2024/04/16/politica-pcc-operacao-munditia)
-- [Deputado expulsa integrante do MBL da Câmara a pontapé](https://www.nexojornal.com.br/extra/2024/04/16/glauber-braga-expulsa-integrante-do-mbl-da-camara)
-- [Sergipe suspende reconhecimento facial após falha em estádio](https://www.nexojornal.com.br/extra/2024/04/16/sergipe-suspende-reconhecimento-facial-apos-falha-em-partida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
