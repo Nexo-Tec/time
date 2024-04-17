@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [CGU pune Sérgio Camargo por assédio moral na Palmares](https://www.nexojornal.com.br/extra/2024/04/17/punicao-sergio-camargo-fundacao-palmares)
 - [‘O lado sombrio da TV infantil’: os excessos na vida de estrela mirim](https://www.nexojornal.com.br/expresso/2024/04/17/quiet-on-set-o-lado-sombrio-da-tv-infantil-trabalho)
 - [PMs recolhem objetos em local de ação com criança ferida em SP](https://www.nexojornal.com.br/extra/2024/04/17/menino-ferido-paraisopolis-pm-sao-paulo)
 - [Além da cannabis: o potencial brasileiro nas plantas medicinais](https://www.nexojornal.com.br/externo/2024/04/16/alem-da-cannabis-o-potencial-brasileiro-nas-plantas-medicinais)
 - [O que muda com o atraso no ajuste fiscal do governo Lula](https://www.nexojornal.com.br/expresso/2024/04/16/o-que-muda-com-o-atraso-no-ajuste-fiscal-do-governo-lula)
-- [Como a Guarda Revolucionária opera dentro e fora do Irã](https://www.nexojornal.com.br/expresso/2024/04/16/ira-guarda-revolucionaria-o-que-e)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
