@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desenhos de tribunal: quando surgiram e como são feitos](https://www.nexojornal.com.br/expresso/2024/04/18/donald-trump-julgamento-desenhos-de-tribunal-courtroom-sketchs)
 - [Supremo responde a relatório americano sobre bloqueios no X](https://www.nexojornal.com.br/extra/2024/04/18/stf-relatorio-comissao-congresso-eua-moraes-censura-twitter)
 - [O uso dos serviços de saúde bucal por ribeirinhos](https://www.nexojornal.com.br/academico/2024/04/18/o-uso-dos-servicos-de-saude-bucal-por-ribeirinhos)
 - [Governo amplia idade da vacina da dengue para não perder doses](https://www.nexojornal.com.br/extra/2024/04/18/vacina-dengue-ampliacao-idade)
 - [Da Mauritânia ao Pará: corpos à deriva e a crise dos refugiados](https://www.nexojornal.com.br/expresso/2024/04/17/corpos-em-barco-a-deriva-crise-refugiados)
-- [Qual é a gravidade do branqueamento massivo de corais](https://www.nexojornal.com.br/expresso/2024/04/17/branqueamento-global-recifes-corais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
