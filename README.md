@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é a gravidade do branqueamento massivo de corais](https://www.nexojornal.com.br/expresso/2024/04/17/branqueamento-global-recifes-corais)
+- [O risco de ‘riodejaneirização’ do Brasil é real](https://www.nexojornal.com.br/colunistas/2024/04/17/o-risco-de-riodejaneirizacao-do-brasil-e-real)
+- [A liberdade de expressão está sob ameaça no Brasil?](https://www.nexojornal.com.br/expresso/2024/04/17/bloqueio-perfis-redes-sociais-supremo)
+- [Processo eleitoral da Venezuela faz EUA retomar sanções](https://www.nexojornal.com.br/extra/2024/04/17/eua-retomam-sancoes-contra-venezuela)
 - [Até ‘Guerra civil’: 8 papéis internacionais de Wagner Moura](https://www.nexojornal.com.br/expresso/2024/04/17/cinema-carreira-internacional-wagner-moura-guerra-civil)
-- [A aposta do Congresso na política de guerra às drogas](https://www.nexojornal.com.br/podcast/2024/04/17/criminalizacao-das-drogas-congresso)
-- [Crise do clima deve causar queda de 19% da renda global até 2050](https://www.nexojornal.com.br/extra/2024/04/17/impactos-da-crise-do-clima-para-economia-mundial)
-- [Como dissipar a raiva com um papel e uma caneta](https://www.nexojornal.com.br/expresso/2024/04/17/escrever-raiva-estudo)
-- [CGU pune Sérgio Camargo por assédio moral na Palmares](https://www.nexojornal.com.br/extra/2024/04/17/punicao-sergio-camargo-fundacao-palmares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
