@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Exposição e ilusão do empreendedorismo na favela](https://gamarevista.uol.com.br/colunistas/marilene-felinto/exposicao-e-ilusao-do-empreendedorismo-na-favela/)
-- [CV: Renan Costa Lima](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-renan-costa-lima/)
-- [@weena_tikuna](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/weena_tikuna/)
-- [Jerá Guarani: “Tem Guarani muito seguro de que tem que viver todos os dias como se fosse o último, com um agradecimento”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/jera-guarani-luta-indigena-brasil-sao-paulo-cultura/)
-- [A formação de crianças com deficiência e transtorno de aprendizagem no Brasil](https://gamarevista.uol.com.br/formato/reportagem/a-formacao-de-criancas-com-deficiencia-e-transtorno-de-aprendizagem-no-brasil/)
+- [A nova minissérie de Park Chan-wook com Robert Downey Jr.](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-minisserie-de-park-chan-wook-com-robert-downey-jr/)
+- [Lauryn Hill, YG Marley, Wyclef Jean e outros nos 50 anos do Chic Show](https://gamarevista.uol.com.br/achamos-que-vale/ir/lauryn-hill-yg-marley-wyclef-jean-e-outros-nos-50-anos-do-chic-show/)
+- [O novo livro de Valter Hugo Mãe](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-livro-de-valter-hugo-mae/)
+- [Os abusos nos bastidores da Nickelodeon](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-abusos-nos-bastidores-da-nickelodeon/)
+- [Thiago Honório na Biblioteca Mário de Andrade](https://gamarevista.uol.com.br/achamos-que-vale/ir/thiago-honorio-na-biblioteca-mario-de-andrade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
