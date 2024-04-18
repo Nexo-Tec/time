@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O uso dos serviços de saúde bucal por ribeirinhos](https://www.nexojornal.com.br/academico/2024/04/18/o-uso-dos-servicos-de-saude-bucal-por-ribeirinhos)
+- [Governo amplia idade da vacina da dengue para não perder doses](https://www.nexojornal.com.br/extra/2024/04/18/vacina-dengue-ampliacao-idade)
 - [Da Mauritânia ao Pará: corpos à deriva e a crise dos refugiados](https://www.nexojornal.com.br/expresso/2024/04/17/corpos-em-barco-a-deriva-crise-refugiados)
 - [Qual é a gravidade do branqueamento massivo de corais](https://www.nexojornal.com.br/expresso/2024/04/17/branqueamento-global-recifes-corais)
 - [O risco de ‘riodejaneirização’ do Brasil é real](https://www.nexojornal.com.br/colunistas/2024/04/17/o-risco-de-riodejaneirizacao-do-brasil-e-real)
-- [A liberdade de expressão está sob ameaça no Brasil?](https://www.nexojornal.com.br/expresso/2024/04/17/bloqueio-perfis-redes-sociais-supremo)
-- [Processo eleitoral da Venezuela faz EUA retomar sanções](https://www.nexojornal.com.br/extra/2024/04/17/eua-retomam-sancoes-contra-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
