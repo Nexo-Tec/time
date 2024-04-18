@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O papel da criatividade na ciência, segundo 3 ganhadores do Nobel](https://www.nexojornal.com.br/expresso/2024/04/18/ganhadores-premio-nobel-david-macmillan-may-britt-moser-serge-haroche)
 - [Desenhos de tribunal: quando surgiram e como são feitos](https://www.nexojornal.com.br/expresso/2024/04/18/donald-trump-julgamento-desenhos-de-tribunal-courtroom-sketchs)
 - [Supremo responde a relatório americano sobre bloqueios no X](https://www.nexojornal.com.br/extra/2024/04/18/stf-relatorio-comissao-congresso-eua-moraes-censura-twitter)
 - [O uso dos serviços de saúde bucal por ribeirinhos](https://www.nexojornal.com.br/academico/2024/04/18/o-uso-dos-servicos-de-saude-bucal-por-ribeirinhos)
 - [Governo amplia idade da vacina da dengue para não perder doses](https://www.nexojornal.com.br/extra/2024/04/18/vacina-dengue-ampliacao-idade)
-- [Da Mauritânia ao Pará: corpos à deriva e a crise dos refugiados](https://www.nexojornal.com.br/expresso/2024/04/17/corpos-em-barco-a-deriva-crise-refugiados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
