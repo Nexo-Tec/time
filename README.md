@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Renda do brasileiro: o peso do Bolsa Família e da aposentadoria](https://www.nexojornal.com.br/expresso/2024/04/19/renda-do-brasileiro-o-peso-do-bolsa-familia-e-da-aposentadoria)
+- [Israel ataca base militar no Irã, diz imprensa americana](https://www.nexojornal.com.br/extra/2024/04/19/israel-ataca-base-militar-no-ira-diz-imprensa-americana)
 - [Por que os estados vivem renegociando dívidas com a União](https://www.nexojornal.com.br/expresso/2024/04/18/divida-dos-estados-com-a-uniao-de-onde-vem)
 - [O que trava o avanço das políticas indígenas sob Lula](https://www.nexojornal.com.br/externo/2024/04/18/o-que-trava-o-avanco-das-politicas-indigenas-sob-lula)
 - [Como são as eleições na Índia, a maior democracia do mundo](https://www.nexojornal.com.br/expresso/2024/04/18/politica-eleicoes-india-maior-democracia-do-mundo)
-- [Como funciona a técnica de ‘chuva artificial’ de Dubai](https://www.nexojornal.com.br/expresso/2024/04/18/chuva-em-dubai-artificial-como-funciona)
-- [As paralisações que pressionam Lula no serviço público](https://www.nexojornal.com.br/podcast/2024/04/18/greve-servico-publico-governo-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
