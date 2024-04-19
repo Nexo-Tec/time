@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma presença forte, enérgica, doce e atenta](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-presenca-forte-energica-doce-e-atenta/)
 - [Uma Mulher](https://gamarevista.uol.com.br/cultura/trecho-de-livro/uma-mulher/)
 - [A nova minissérie de Park Chan-wook com Robert Downey Jr.](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-minisserie-de-park-chan-wook-com-robert-downey-jr/)
 - [Lauryn Hill, YG Marley, Wyclef Jean e outros nos 50 anos do Chic Show](https://gamarevista.uol.com.br/achamos-que-vale/ir/lauryn-hill-yg-marley-wyclef-jean-e-outros-nos-50-anos-do-chic-show/)
 - [O novo livro de Valter Hugo Mãe](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-livro-de-valter-hugo-mae/)
-- [Os abusos nos bastidores da Nickelodeon](https://gamarevista.uol.com.br/achamos-que-vale/assistir/os-abusos-nos-bastidores-da-nickelodeon/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
