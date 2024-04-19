@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O livro que mostra o impacto da flora na canção popular](https://www.nexojornal.com.br/externo/2024/04/19/o-livro-que-mostra-o-impacto-da-flora-na-cancao-popular)
 - [Grada Kilomba e suas muitas lições de negritude a Inhotim](https://www.nexojornal.com.br/colunistas/2024/04/19/grada-kilomba-e-suas-muitas-licoes-de-negritude-a-inhotim)
 - [Renda do brasileiro: o peso do Bolsa Família e da aposentadoria](https://www.nexojornal.com.br/expresso/2024/04/19/renda-do-brasileiro-o-peso-do-bolsa-familia-e-da-aposentadoria)
 - [Israel ataca base militar no Irã, diz imprensa americana](https://www.nexojornal.com.br/extra/2024/04/19/israel-ataca-base-militar-no-ira-diz-imprensa-americana)
 - [Por que os estados vivem renegociando dívidas com a União](https://www.nexojornal.com.br/expresso/2024/04/18/divida-dos-estados-com-a-uniao-de-onde-vem)
-- [O que trava o avanço das políticas indígenas sob Lula](https://www.nexojornal.com.br/externo/2024/04/18/o-que-trava-o-avanco-das-politicas-indigenas-sob-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
