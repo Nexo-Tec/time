@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros que revelam um Brasil real e invisível](https://www.nexojornal.com.br/estante-favoritos/2024/04/19/5-livros-que-revelam-um-brasil-real-e-invisivel)
-- [Como Sade virou ícone fashion 40 anos após ‘Smooth Operator’](https://www.nexojornal.com.br/expresso/2024/04/19/como-sade-virou-icone-fashion-40-anos-apos-smooth-operator)
-- [Como começar a jogar a franquia de games Mario](https://www.nexojornal.com.br/podcast/2024/04/19/como-jogar-jogos-do-mario-franquia-nintendo)
-- [A natureza agora é artista. E seus sons podem ser creditados](https://www.nexojornal.com.br/expresso/2024/04/19/a-natureza-agora-e-artista-e-seus-sons-podem-ser-creditados)
-- [A PEC das drogas no Senado. Os ataques de Irã e Israel. E mais](https://www.nexojornal.com.br/video/2024/04/19/pec-drogas-ira-israel-resumo-noticias)
+- [‘Uma saída honrosa’: a derrota francesa na Guerra da Indochina](https://www.nexojornal.com.br/estante-trechos/2024/04/19/uma-saida-honrosa-a-derrota-francesa-na-guerra-da-indochina)
+- [O robô que se aposentou depois de 11 anos de atividade](https://www.nexojornal.com.br/expresso/2024/04/19/robo-atlas-boston-dynamics)
+- [The Anxious Generation: o livro que tira o sono dos pais](https://www.nexojornal.com.br/expresso/2024/04/19/livro-the-anxious-generation-jonathan-haidt)
+- [Além da ‘publi’: os desafios no acesso ao salário-maternidade](https://www.nexojornal.com.br/expresso/2024/04/19/salario-maternidade-como-ter-acesso)
+- [Anvisa mantém proibição de cigarros eletrônicos no país](https://www.nexojornal.com.br/extra/2024/04/19/cigarros-eletronicos-vapes-proibidos-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
