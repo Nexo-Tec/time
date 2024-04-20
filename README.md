@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [‘Uma saída honrosa’: a derrota francesa na Guerra da Indochina](https://www.nexojornal.com.br/estante-trechos/2024/04/19/uma-saida-honrosa-a-derrota-francesa-na-guerra-da-indochina)
 - [O robô que se aposentou depois de 11 anos de atividade](https://www.nexojornal.com.br/expresso/2024/04/19/robo-atlas-boston-dynamics)
-- [The Anxious Generation: o livro que tira o sono dos pais](https://www.nexojornal.com.br/expresso/2024/04/19/livro-the-anxious-generation-jonathan-haidt)
+- [‘The Anxious Generation’: o livro que tira o sono dos pais](https://www.nexojornal.com.br/expresso/2024/04/19/livro-the-anxious-generation-jonathan-haidt)
 - [Além da ‘publi’: os desafios no acesso ao salário-maternidade](https://www.nexojornal.com.br/expresso/2024/04/19/salario-maternidade-como-ter-acesso)
 - [Anvisa mantém proibição de cigarros eletrônicos no país](https://www.nexojornal.com.br/extra/2024/04/19/cigarros-eletronicos-vapes-proibidos-no-brasil)
 <!-- NEXO_LIST:END -->
