@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Computadores podem ajudar no aprendizado?](https://pp.nexojornal.com.br/opiniao/2024/04/19/computadores-podem-ajudar-no-aprendizado/)
+- [O ponto de vista do candidato: discriminação esperada e procura por emprego](https://pp.nexojornal.com.br/opiniao/2024/04/19/o-ponto-de-vista-do-candidato-discriminacao-esperada-e-procura-por-emprego/)
+- [Parentalidade positiva e políticas públicas](https://pp.nexojornal.com.br/opiniao/2024/04/19/parentalidade-positiva-e-politicas-publicas/)
 - [A importância de políticas públicas para o enfrentamento da insegurança alimentar e nutricional no mundo](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/19/a-importancia-de-politicas-publicas-para-o-enfrentamento-da-inseguranca-alimentar-e-nutricional-no-mundo/)
 - [Quais são os efeitos das mudanças climáticas e de pesticidas, combinados, para peixes da Amazônia?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/19/quais-sao-os-efeitos-das-mudancas-climaticas-e-de-pesticidas-combinados-para-peixes-da-amazonia/)
-- [Por que o financiamento climático é urgente para as cidades](https://pp.nexojornal.com.br/topico/2024/04/16/por-que-o-financiamento-climatico-e-urgente-para-cidades/)
-- [Transições críticas no sistema florestal amazônico](https://pp.nexojornal.com.br/academico/2024/04/16/transicoes-criticas-no-sistema-florestal-amazonico/)
-- [O Guia Alimentar para a População Brasileira e a melhora na qualidade da alimentação](https://pp.nexojornal.com.br/academico/2024/04/16/o-guia-alimentar-para-a-populacao-brasileira-e-a-melhora-na-qualidade-da-alimentacao/)
 <!-- PP_LIST:END -->
 
