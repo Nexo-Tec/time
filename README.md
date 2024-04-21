@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é o espaço do Bluesky diante das turbulências do X](https://www.nexojornal.com.br/expresso/2024/04/20/rede-social-blue-sky-twitter-x)
+- [Os impactos da liderança feminina na saúde e na ciência](https://www.nexojornal.com.br/ensaio/2024/04/20/os-impactos-da-lideranca-feminina-na-saude-e-na-ciencia)
+- [Quem é ataque e quem é defesa no espólio da Lava Jato](https://www.nexojornal.com.br/expresso/2024/04/20/operacao-lava-jato-quem-defende-e-quem-e-contra)
+- [Câmara dos EUA aprova verba a Israel, Taiwan e Ucrânia](https://www.nexojornal.com.br/extra/2024/04/20/camara-aprova-dinheiro-a-israel-ucrania-e-taiwan)
 - [Ministério Público investiga prefeita que jogou livros no lixo](https://www.nexojornal.com.br/extra/2024/04/20/prefeita-de-sc-joga-livros-no-lixo)
-- [‘Uma saída honrosa’: a derrota francesa na Guerra da Indochina](https://www.nexojornal.com.br/estante-trechos/2024/04/19/uma-saida-honrosa-a-derrota-francesa-na-guerra-da-indochina)
-- [O robô que se aposentou depois de 11 anos de atividade](https://www.nexojornal.com.br/expresso/2024/04/19/robo-atlas-boston-dynamics)
-- [‘The Anxious Generation’: o livro que tira o sono dos pais](https://www.nexojornal.com.br/expresso/2024/04/19/livro-the-anxious-generation-jonathan-haidt)
-- [Além da ‘publi’: os desafios no acesso ao salário-maternidade](https://www.nexojornal.com.br/expresso/2024/04/19/salario-maternidade-como-ter-acesso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
