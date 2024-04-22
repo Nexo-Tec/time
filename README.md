@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [‘É falsa a oposição entre crescimento e mais igualdade’](https://www.nexojornal.com.br/entrevista/2024/04/21/e-falsa-a-oposicao-entre-crescimento-e-mais-igualdade)
-- [Luis Bahamondes: Os paradoxos da saúde da mulher](https://www.nexojornal.com.br/externo/2024/04/21/luis-bahamondes-os-paradoxos-da-saude-da-mulher)
+- [Luis Bahamondes: os paradoxos da saúde da mulher](https://www.nexojornal.com.br/externo/2024/04/21/luis-bahamondes-os-paradoxos-da-saude-da-mulher)
 - [As coalizões contra o desperdício de alimentos](https://www.nexojornal.com.br/ensaio/2024/04/21/as-coalizoes-contra-o-desperdicio-de-alimentos)
 - [As finanças dos estados à beira de mais uma renegociação](https://www.nexojornal.com.br/grafico/2024/04/21/orcamento-e-divida-de-cada-estado-brasil-grafico)
 - [Ex-diplomata aceita enfrentar Maduro nas eleições venezuelanas](https://www.nexojornal.com.br/extra/2024/04/21/candidato-da-oposicao-contra-maduro-na-venezuela)
