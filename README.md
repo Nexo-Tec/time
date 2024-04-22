@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ato pró-Bolsonaro tem exaltação a Musk e ataques a Moraes](https://www.nexojornal.com.br/extra/2024/04/21/ato-de-jair-bolsonaro-no-rio)
-- [Anatomia matemática de uma queda: como um casal se separa?](https://www.nexojornal.com.br/externo/2024/04/20/anatomia-matematica-de-uma-queda-como-um-casal-se-separa)
-- [Qual é o espaço do Bluesky diante das turbulências do X](https://www.nexojornal.com.br/expresso/2024/04/20/rede-social-blue-sky-twitter-x)
-- [Os impactos da liderança feminina na saúde e na ciência](https://www.nexojornal.com.br/ensaio/2024/04/20/os-impactos-da-lideranca-feminina-na-saude-e-na-ciencia)
-- [Quem é ataque e quem é defesa no espólio da Lava Jato](https://www.nexojornal.com.br/expresso/2024/04/20/operacao-lava-jato-quem-defende-e-quem-e-contra)
+- [‘É falsa a oposição entre crescimento e mais igualdade’](https://www.nexojornal.com.br/entrevista/2024/04/21/e-falsa-a-oposicao-entre-crescimento-e-mais-igualdade)
+- [Luis Bahamondes: Os paradoxos da saúde da mulher](https://www.nexojornal.com.br/externo/2024/04/21/luis-bahamondes-os-paradoxos-da-saude-da-mulher)
+- [As coalizões contra o desperdício de alimentos](https://www.nexojornal.com.br/ensaio/2024/04/21/as-coalizoes-contra-o-desperdicio-de-alimentos)
+- [As finanças dos estados à beira de mais uma renegociação](https://www.nexojornal.com.br/grafico/2024/04/21/orcamento-e-divida-de-cada-estado-brasil-grafico)
+- [Ex-diplomata aceita enfrentar Maduro nas eleições venezuelanas](https://www.nexojornal.com.br/extra/2024/04/21/candidato-da-oposicao-contra-maduro-na-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
