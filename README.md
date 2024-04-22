@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo lança pacote para MEIs e microempresários](https://www.nexojornal.com.br/extra/2024/04/22/governo-federal-desenrola-microempresarios)
 - [Levantamento revela que anta não está extinta na Caatinga](https://www.nexojornal.com.br/externo/2024/04/22/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga)
 - [Ludmilla se defende de acusação de intolerância religiosa no Coachella](https://www.nexojornal.com.br/extra/2024/04/22/ludmilla-intolerancia-religiosa-coachella)
 - [Conflitos no campo batem recorde em 2023, diz Pastoral da Terra](https://www.nexojornal.com.br/extra/2024/04/22/conflitos-campo-recorde-2023)
 - [‘Reduzir desigualdade é fazer a economia do mais pobre crescer’](https://www.nexojornal.com.br/entrevista/2024/04/21/e-falsa-a-oposicao-entre-crescimento-e-mais-igualdade)
-- [Luis Bahamondes: os paradoxos da saúde da mulher](https://www.nexojornal.com.br/externo/2024/04/21/luis-bahamondes-os-paradoxos-da-saude-da-mulher)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
