@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Reino Unido terceiriza para Ruanda análises de refúgio e asilo](https://www.nexojornal.com.br/extra/2024/04/23/reino-unido-deportacao-imigrantes-ruanda)
-- [Pesquisa ajuda a identificar filme perdido sobre a Amazônia](https://www.nexojornal.com.br/externo/2024/04/23/pesquisa-ajuda-a-identificar-filme-perdido-sobre-a-amazonia)
-- [Empresário dirigia Porsche a mais de 150 km/h, mostra laudo](https://www.nexojornal.com.br/extra/2024/04/23/motorista-porsche-alta-velocidade-laudo)
-- [Quais vacinas você precisa tomar depois de adulto?](https://www.nexojornal.com.br/servico/2024/04/22/vacinas-para-adulto-carteira-de-vacinacao)
-- [O recorde de conflitos no campo na volta de Lula à Presidência](https://www.nexojornal.com.br/podcast/2024/04/22/conflitos-no-campo-interior-brasil-2023-recorde)
+- [‘Frase em show de Ludmilla referenda supremacia religiosa’](https://www.nexojornal.com.br/entrevista/2024/04/23/ludmilla-coachella-intolerancia-religiosa-entrevista-babalao-ivanir-dos-santos)
+- [Por que as ‘diss tracks’ fazem tanto sucesso no hip-hop](https://www.nexojornal.com.br/expresso/2024/04/23/por-que-as-diss-tracks-fazem-tanto-sucesso-no-hip-hop)
+- [Como Zuma foi de expoente a oponente do partido de Mandela](https://www.nexojornal.com.br/expresso/2024/04/23/politica-internacional-ex-presidente-africa-do-sul-jacob-zuma-oposicao-congresso-nacional-africano)
+- [Quais brechas revela a invasão ao sistema federal de pagamentos](https://www.nexojornal.com.br/expresso/2024/04/23/quais-brechas-revela-a-invasao-ao-sistema-federal-de-pagamentos)
+- [Procuradoria-geral denuncia Zambelli por invasão de site do CNJ](https://www.nexojornal.com.br/extra/2024/04/23/carla-zambelli-denuncia-pgr-hacker)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
