@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O recorde de conflitos no campo na volta de Lula à Presidência](https://www.nexojornal.com.br/podcast/2024/04/22/conflitos-no-campo-interior-brasil-2023-recorde)
+- [Entrada de turistas estrangeiros no Brasil é recorde em março](https://www.nexojornal.com.br/extra/2024/04/22/turistas-estrangeiros-brasil-recorde)
 - [Quem é responsável por danos causados pelo lixo espacial](https://www.nexojornal.com.br/externo/2024/04/22/quem-e-responsavel-por-danos-causados-pelo-lixo-espacial)
 - [A PEC do quinquênio e os supersalários no Judiciário brasileiro](https://www.nexojornal.com.br/expresso/2024/04/22/salario-juizes-judiciario-pec-do-quinquenio)
 - [Centenas de corpos são achados em vala comum em Gaza](https://www.nexojornal.com.br/extra/2024/04/22/gaza-200-corpos-vala-comum)
-- [O game criado por um ator para lidar com o luto por seu pai](https://www.nexojornal.com.br/expresso/2024/04/22/jogo-do-ator-abubakar-salim-para-lidar-com-luto-tales-of-kenzera-zau)
-- [Governo lança pacote para MEIs e microempresários](https://www.nexojornal.com.br/extra/2024/04/22/governo-federal-desenrola-microempresarios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
