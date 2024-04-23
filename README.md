@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Reino Unido terceiriza para Ruanda análises de refúgio e asilo](https://www.nexojornal.com.br/extra/2024/04/23/reino-unido-deportacao-imigrantes-ruanda)
 - [Pesquisa ajuda a identificar filme perdido sobre a Amazônia](https://www.nexojornal.com.br/externo/2024/04/23/pesquisa-ajuda-a-identificar-filme-perdido-sobre-a-amazonia)
 - [Empresário dirigia Porsche a mais de 150 km/h, mostra laudo](https://www.nexojornal.com.br/extra/2024/04/23/motorista-porsche-alta-velocidade-laudo)
 - [Quais vacinas você precisa tomar depois de adulto?](https://www.nexojornal.com.br/servico/2024/04/22/vacinas-para-adulto-carteira-de-vacinacao)
 - [O recorde de conflitos no campo na volta de Lula à Presidência](https://www.nexojornal.com.br/podcast/2024/04/22/conflitos-no-campo-interior-brasil-2023-recorde)
-- [Entrada de turistas estrangeiros no Brasil é recorde em março](https://www.nexojornal.com.br/extra/2024/04/22/turistas-estrangeiros-brasil-recorde)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
