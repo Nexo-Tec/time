@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Cultura do estupro](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/cultura-do-estupro/)
+- [Violência sexual contra a mulher](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/cultura-do-estupro/)
 - [@treinadorpp](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/treinadorpp/)
 - [João Anzanello Carrascoza](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-anzanello-carrascoza/)
 - [Ana Lima Cecilio: “É um momento muito rico para a poesia, eu consigo ver uma geração de poetas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-lima-cecilio-nova-geracao-de-poetas-flip-poesia-contemporanea-brasileira/)
