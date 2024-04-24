@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Moraes arquiva ação sobre ida de Bolsonaro a embaixada](https://www.nexojornal.com.br/extra/2024/04/24/decisao-moraes-jair-bolsonaro-em-embaixada-da-hungria)
+- [Moraes arquiva petição sobre ida de Bolsonaro a embaixada](https://www.nexojornal.com.br/extra/2024/04/24/decisao-moraes-jair-bolsonaro-em-embaixada-da-hungria)
 - [Portugal reconhece culpa por crimes da era colonial pela 1ª vez](https://www.nexojornal.com.br/extra/2024/04/24/portugal-crimes-no-brasil-escravidao-massacre-de-indigenas)
 - [O drama de cuidadores em famílias de baixa renda no Brasil](https://www.nexojornal.com.br/expresso/2024/04/24/cuidadores-familiares-idosos)
 - [A homenagem do STM a bolsonaristas radicais](https://www.nexojornal.com.br/externo/2024/04/24/a-homenagem-do-stm-a-bolsonaristas-que-atacam-o-judiciario)
