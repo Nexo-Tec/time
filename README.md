@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gol suspende transporte de animais em porão de aviões](https://www.nexojornal.com.br/extra/2024/04/24/cao-joca-morre-em-aeronave-da-gol)
 - [10 anos de Marco Civil da Internet: por que o Brasil repensa a lei](https://www.nexojornal.com.br/podcast/2024/04/23/marco-civil-da-internet-lei-10-anos-revisao)
 - [‘Frase em show de Ludmilla referenda supremacia religiosa’](https://www.nexojornal.com.br/entrevista/2024/04/23/ludmilla-coachella-intolerancia-religiosa-entrevista-babalao-ivanir-dos-santos)
 - [Por que as ‘diss tracks’ fazem tanto sucesso no hip-hop](https://www.nexojornal.com.br/expresso/2024/04/23/por-que-as-diss-tracks-fazem-tanto-sucesso-no-hip-hop)
 - [Como Zuma foi de expoente a oponente do partido de Mandela](https://www.nexojornal.com.br/expresso/2024/04/23/politica-internacional-ex-presidente-africa-do-sul-jacob-zuma-oposicao-congresso-nacional-africano)
-- [Quais brechas revela a invasão ao sistema federal de pagamentos](https://www.nexojornal.com.br/expresso/2024/04/23/quais-brechas-revela-a-invasao-ao-sistema-federal-de-pagamentos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
