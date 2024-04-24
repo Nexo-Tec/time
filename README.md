@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Do quinquênio à calçada da fama: como é o Brasil dos juízes](https://www.nexojornal.com.br/podcast/2024/04/24/judiciario-brasileiro-juizes-do-brasil-pec-do-quinquenio)
 - [Moraes arquiva petição sobre ida de Bolsonaro a embaixada](https://www.nexojornal.com.br/extra/2024/04/24/decisao-moraes-jair-bolsonaro-em-embaixada-da-hungria)
 - [Portugal reconhece culpa por crimes da era colonial pela 1ª vez](https://www.nexojornal.com.br/extra/2024/04/24/portugal-crimes-no-brasil-escravidao-massacre-de-indigenas)
 - [O drama de cuidadores em famílias de baixa renda no Brasil](https://www.nexojornal.com.br/expresso/2024/04/24/cuidadores-familiares-idosos)
 - [A homenagem do STM a bolsonaristas radicais](https://www.nexojornal.com.br/externo/2024/04/24/a-homenagem-do-stm-a-bolsonaristas-que-atacam-o-judiciario)
-- [Gol suspende transporte de animais em porão de aviões](https://www.nexojornal.com.br/extra/2024/04/24/cao-joca-morre-em-aeronave-da-gol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
