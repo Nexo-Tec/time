@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Bebê Rena”, a série do momento na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bebe-rena-a-serie-do-momento-na-netflix/)
+- [“Cadernos Negros”, do coletivo cultural Quilombhoje Literatura](https://gamarevista.uol.com.br/achamos-que-vale/ler/cadernos-negros-do-coletivo-cultural-quilombhoje-literatura/)
 - [A melancolia fantástica de “La Chimera”, de Alice Rohrwacher](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-melancolia-fantastica-de-la-chimera-de-alice-rohrwacher/)
 - [O novo álbum de St. Vincent](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-st-vincent/)
 - [Obras do gaúcho João Bez Batti ganham mostra em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/obras-do-gaucho-joao-bez-batti-ganham-mostra-em-sao-paulo/)
-- [Violência sexual contra a mulher](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/cultura-do-estupro/)
-- [@treinadorpp](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/treinadorpp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
