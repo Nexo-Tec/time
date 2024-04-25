@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Se alguma coisa está acontecendo, é porque é má notícia](https://www.nexojornal.com.br/colunistas/2024/04/24/jornalismo-importancia-da-noticia-ruim-negativa)
+- [Os acampamentos pró-Palestina nas universidades dos EUA](https://www.nexojornal.com.br/expresso/2024/04/24/protesto-palestina-universidade-dos-eua)
 - [Revolução dos Cravos: a ação militar que deu fim ao salazarismo](https://www.nexojornal.com.br/explicado/2024/04/24/revolucao-dos-cravos-o-que-foi)
 - [CCJ aprova projeto que libera estados a legislarem sobre armas](https://www.nexojornal.com.br/extra/2024/04/24/projeto-de-lei-estados-arma-de-fogo)
 - [‘Caso Ludmilla é mais algorítmico do que sobre intolerância’](https://www.nexojornal.com.br/entrevista/2024/04/24/ludmilla-coachella-intolerancia-religiosa-tranca-rua-entrevista-acauam-oliveira)
-- [Haddad entrega projeto para regulamentar reforma tributária](https://www.nexojornal.com.br/extra/2024/04/24/haddad-reforma-tributaria-regulamentacao)
-- [Do quinquênio à calçada da fama: como é o Brasil dos juízes](https://www.nexojornal.com.br/podcast/2024/04/24/judiciario-brasileiro-juizes-do-brasil-pec-do-quinquenio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
