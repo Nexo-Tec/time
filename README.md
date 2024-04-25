@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A ascensão de Zendaya até seu primeiro papel principal no cinema](https://www.nexojornal.com.br/expresso/2024/04/25/cinema-carreira-zendaya-filme-rivais)
 - [O perfil dos lares que enfrentam fome e insegurança alimentar](https://www.nexojornal.com.br/podcast/2024/04/25/dados-sobre-a-fome-no-brasil)
 - [Petrobras aprova pagar 50% de dividendos extraordinários](https://www.nexojornal.com.br/extra/2024/04/25/petrobras-50-dividendos-extraordinarios)
 - [A arte indígena no pavilhão brasileiro da Bienal de Veneza](https://www.nexojornal.com.br/expresso/2024/04/25/pavilhao-do-brasil-bienal-de-veneza-arte-indigena)
 - [O histórico dos times do Campeonato Brasileiro de 2024](https://www.nexojornal.com.br/grafico/2024/04/25/campeonato-brasileiro-brasileirao-2024-historico-clubes)
-- [Condenação de Harvey Weinstein por crimes sexuais é anulada](https://www.nexojornal.com.br/extra/2024/04/25/justica-anula-condenacao-harvey-weinstein)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
