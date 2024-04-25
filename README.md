@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A melancolia fantástica de “La Chimera”, de Alice Rohrwacher](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-melancolia-fantastica-de-la-chimera-de-alice-rohrwacher/)
+- [O novo álbum de St. Vincent](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-st-vincent/)
+- [Obras do gaúcho João Bez Batti ganham mostra em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/obras-do-gaucho-joao-bez-batti-ganham-mostra-em-sao-paulo/)
 - [Violência sexual contra a mulher](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/cultura-do-estupro/)
 - [@treinadorpp](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/treinadorpp/)
-- [João Anzanello Carrascoza](https://gamarevista.uol.com.br/pessoas/questionario-proust/joao-anzanello-carrascoza/)
-- [Ana Lima Cecilio: “É um momento muito rico para a poesia, eu consigo ver uma geração de poetas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/ana-lima-cecilio-nova-geracao-de-poetas-flip-poesia-contemporanea-brasileira/)
-- [Uma presença forte, enérgica, doce e atenta](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-presenca-forte-energica-doce-e-atenta/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
