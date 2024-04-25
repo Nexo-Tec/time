@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Revolução dos Cravos: a ação militar que deu fim ao salazarismo](https://www.nexojornal.com.br/explicado/2024/04/24/revolucao-dos-cravos-o-que-foi)
+- [CCJ aprova projeto que libera estados a legislarem sobre armas](https://www.nexojornal.com.br/extra/2024/04/24/projeto-de-lei-estados-arma-de-fogo)
+- [‘Caso Ludmilla é mais algorítmico do que sobre intolerância’](https://www.nexojornal.com.br/entrevista/2024/04/24/ludmilla-coachella-intolerancia-religiosa-tranca-rua-entrevista-acauam-oliveira)
+- [Haddad entrega projeto para regulamentar reforma tributária](https://www.nexojornal.com.br/extra/2024/04/24/haddad-reforma-tributaria-regulamentacao)
 - [Do quinquênio à calçada da fama: como é o Brasil dos juízes](https://www.nexojornal.com.br/podcast/2024/04/24/judiciario-brasileiro-juizes-do-brasil-pec-do-quinquenio)
-- [Moraes arquiva petição sobre ida de Bolsonaro a embaixada](https://www.nexojornal.com.br/extra/2024/04/24/decisao-moraes-jair-bolsonaro-em-embaixada-da-hungria)
-- [Portugal reconhece culpa por crimes da era colonial pela 1ª vez](https://www.nexojornal.com.br/extra/2024/04/24/portugal-crimes-no-brasil-escravidao-massacre-de-indigenas)
-- [O drama de cuidadores em famílias de baixa renda no Brasil](https://www.nexojornal.com.br/expresso/2024/04/24/cuidadores-familiares-idosos)
-- [A homenagem do STM a bolsonaristas radicais](https://www.nexojornal.com.br/externo/2024/04/24/a-homenagem-do-stm-a-bolsonaristas-que-atacam-o-judiciario)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
