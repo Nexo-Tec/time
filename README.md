@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O histórico dos times do Campeonato Brasileiro de 2024](https://www.nexojornal.com.br/grafico/2024/04/25/campeonato-brasileiro-brasileirao-2024-historico-clubes)
+- [Condenação de Harvey Weinstein por crimes sexuais é anulada](https://www.nexojornal.com.br/extra/2024/04/25/justica-anula-condenacao-harvey-weinstein)
 - [Por que há tanta diferença nos dados sobre a fome no Brasil](https://www.nexojornal.com.br/expresso/2024/04/25/por-que-ha-tanta-diferenca-nos-dados-sobre-a-fome-no-brasil)
 - [Por que as Diretas Já foram derrotadas no Congresso em 1984](https://www.nexojornal.com.br/expresso/2024/04/24/movimento-diretas-ja-resumo-ditadura-militar-brasil)
 - [Se alguma coisa está acontecendo, é porque é má notícia](https://www.nexojornal.com.br/colunistas/2024/04/24/jornalismo-importancia-da-noticia-ruim-negativa)
-- [Os acampamentos pró-Palestina nas universidades dos EUA](https://www.nexojornal.com.br/expresso/2024/04/24/protesto-palestina-universidade-dos-eua)
-- [Revolução dos Cravos: a ação militar que deu fim ao salazarismo](https://www.nexojornal.com.br/explicado/2024/04/24/revolucao-dos-cravos-o-que-foi)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
