@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Petrobras aprova pagar 50% de dividendos extraordinários](https://www.nexojornal.com.br/extra/2024/04/25/petrobras-50-dividendos-extraordinarios)
 - [A arte indígena no pavilhão brasileiro da Bienal de Veneza](https://www.nexojornal.com.br/expresso/2024/04/25/pavilhao-do-brasil-bienal-de-veneza-arte-indigena)
 - [O histórico dos times do Campeonato Brasileiro de 2024](https://www.nexojornal.com.br/grafico/2024/04/25/campeonato-brasileiro-brasileirao-2024-historico-clubes)
 - [Condenação de Harvey Weinstein por crimes sexuais é anulada](https://www.nexojornal.com.br/extra/2024/04/25/justica-anula-condenacao-harvey-weinstein)
 - [Por que há tanta diferença nos dados sobre a fome no Brasil](https://www.nexojornal.com.br/expresso/2024/04/25/por-que-ha-tanta-diferenca-nos-dados-sobre-a-fome-no-brasil)
-- [Por que as Diretas Já foram derrotadas no Congresso em 1984](https://www.nexojornal.com.br/expresso/2024/04/24/movimento-diretas-ja-resumo-ditadura-militar-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
