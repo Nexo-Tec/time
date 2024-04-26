@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A calçada da fama de uma Justiça que habita o Olimpo](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/a-calcada-da-fama-justica-pernambuco/)
 - [Faca: Reflexões sobre um atentado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/faca-reflexoes-sobre-um-atentado/)
 - [“Bebê Rena”, a série do momento na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bebe-rena-a-serie-do-momento-na-netflix/)
 - [“Cadernos Negros”, do coletivo cultural Quilombhoje Literatura](https://gamarevista.uol.com.br/achamos-que-vale/ler/cadernos-negros-do-coletivo-cultural-quilombhoje-literatura/)
 - [A melancolia fantástica de “La Chimera”, de Alice Rohrwacher](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-melancolia-fantastica-de-la-chimera-de-alice-rohrwacher/)
-- [O novo álbum de St. Vincent](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-st-vincent/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
