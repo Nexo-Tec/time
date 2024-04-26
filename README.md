@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Comunidades Eclesiais de Base](https://pp.nexojornal.com.br/glossario/2024/04/26/comunidades-eclesiais-de-base-fe-e-vida-caminham-juntas/)
+- [“Nunca mais o Brasil sem nós”: povos indígenas no Censo Demográfico 2022](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/26/nunca-mais-o-brasil-sem-nos-povos-indigenas-no-censo-demografico-2022/)
+- [O apagão docente: Apaga a inclusão, os pingos e os “is”](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/26/o-apagao-docente-apaga-a-inclusao-os-pingos-e-os-is/)
 - [Computadores podem ajudar no aprendizado?](https://pp.nexojornal.com.br/opiniao/2024/04/19/computadores-podem-ajudar-no-aprendizado/)
 - [O ponto de vista do candidato: discriminação esperada e procura por emprego](https://pp.nexojornal.com.br/opiniao/2024/04/19/o-ponto-de-vista-do-candidato-discriminacao-esperada-e-procura-por-emprego/)
-- [Parentalidade positiva e políticas públicas](https://pp.nexojornal.com.br/opiniao/2024/04/19/parentalidade-positiva-e-politicas-publicas/)
-- [A importância de políticas públicas para o enfrentamento da insegurança alimentar e nutricional no mundo](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/19/a-importancia-de-politicas-publicas-para-o-enfrentamento-da-inseguranca-alimentar-e-nutricional-no-mundo/)
-- [Quais são os efeitos das mudanças climáticas e de pesticidas, combinados, para peixes da Amazônia?](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/19/quais-sao-os-efeitos-das-mudancas-climaticas-e-de-pesticidas-combinados-para-peixes-da-amazonia/)
 <!-- PP_LIST:END -->
 
