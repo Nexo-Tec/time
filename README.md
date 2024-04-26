@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cesta básica e imposto seletivo: a 1ª regulamentação da reforma](https://www.nexojornal.com.br/expresso/2024/04/25/imposto-a-primeira-regulamentacao-da-reforma-tributaria)
+- [Zanin atende a pedido do governo e suspende desonerações](https://www.nexojornal.com.br/extra/2024/04/25/zanin-suspende-desoneracoes)
 - [Como o gênero aparece no pensamento filosófico iorubá](https://www.nexojornal.com.br/academico/2024/04/25/como-o-genero-aparece-no-pensamento-filosofico-ioruba)
 - [Como os ‘vilões’ de Amy Winehouse afetaram sua vida](https://www.nexojornal.com.br/expresso/2024/04/25/amy-winehouse-back-to-black-filme-cinebiografia)
 - [Mais 625 cidades vão receber vacinas contra a dengue](https://www.nexojornal.com.br/extra/2024/04/25/625-cidades-vacina-dengue)
-- [A ascensão de Zendaya até seu primeiro papel principal no cinema](https://www.nexojornal.com.br/expresso/2024/04/25/cinema-carreira-zendaya-filme-rivais)
-- [O perfil dos lares que enfrentam fome e insegurança alimentar](https://www.nexojornal.com.br/podcast/2024/04/25/dados-sobre-a-fome-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
