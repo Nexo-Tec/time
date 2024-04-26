@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Incêndio em pensão deixa 10 mortos em Porto Alegre](https://www.nexojornal.com.br/extra/2024/04/26/incendio-mata-10-pessoas-em-porto-alegre)
 - [Como a alta de docentes temporários afeta a educação](https://www.nexojornal.com.br/expresso/2024/04/25/educacao-efeito-aumento-professor-temporario)
 - [Cesta básica e imposto seletivo: a 1ª regulamentação da reforma](https://www.nexojornal.com.br/expresso/2024/04/25/imposto-a-primeira-regulamentacao-da-reforma-tributaria)
 - [Zanin atende a pedido do governo e suspende desonerações](https://www.nexojornal.com.br/extra/2024/04/25/zanin-suspende-desoneracoes)
 - [Como o gênero aparece no pensamento filosófico iorubá](https://www.nexojornal.com.br/academico/2024/04/25/como-o-genero-aparece-no-pensamento-filosofico-ioruba)
-- [Como os ‘vilões’ de Amy Winehouse afetaram sua vida](https://www.nexojornal.com.br/expresso/2024/04/25/amy-winehouse-back-to-black-filme-cinebiografia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
