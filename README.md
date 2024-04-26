@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Proteínas alternativas, tecnologia e o futuro da alimentação, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/04/26/proteinas-alternativas-tecnologia-e-o-futuro-da-alimentacao-em-7-pontos/)
+- [O papel das eleições municipais e do controle social no enfrentamento da crise climática](https://pp.nexojornal.com.br/opiniao/2024/04/26/o-papel-das-eleicoes-municipais-e-do-controle-social-no-enfrentamento-da-crise-climatica/)
+- [As ações afirmativas na educação básica profissionalizante: cotas no Ensino Médio Integrado do IFFluminense e a necessidade de ampliação da agenda de pesquisa](https://pp.nexojornal.com.br/opiniao/2024/04/26/as-acoes-afirmativas-na-educacao-basica-profissionalizante-as-cotas-no-ensino-medio-integrado-do-iffluminense-e-a-necessidade-de-ampliacao-da-agenda-de-pesquisa/)
 - [Comunidades Eclesiais de Base](https://pp.nexojornal.com.br/glossario/2024/04/26/comunidades-eclesiais-de-base-fe-e-vida-caminham-juntas/)
 - [“Nunca mais o Brasil sem nós”: povos indígenas no Censo Demográfico 2022](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/26/nunca-mais-o-brasil-sem-nos-povos-indigenas-no-censo-demografico-2022/)
-- [O apagão docente: Apaga a inclusão, os pingos e os “is”](https://pp.nexojornal.com.br/ponto-de-vista/2024/04/26/o-apagao-docente-apaga-a-inclusao-os-pingos-e-os-is/)
-- [Computadores podem ajudar no aprendizado?](https://pp.nexojornal.com.br/opiniao/2024/04/19/computadores-podem-ajudar-no-aprendizado/)
-- [O ponto de vista do candidato: discriminação esperada e procura por emprego](https://pp.nexojornal.com.br/opiniao/2024/04/19/o-ponto-de-vista-do-candidato-discriminacao-esperada-e-procura-por-emprego/)
 <!-- PP_LIST:END -->
 
