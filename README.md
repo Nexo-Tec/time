@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Funk Generation’: o passado e o presente no álbum de Anitta](https://www.nexojornal.com.br/expresso/2024/04/26/funk-generation-o-passado-e-o-presente-no-album-de-anitta)
 - [5 livros para conhecer a obra de Julio Cortázar](https://www.nexojornal.com.br/estante-favoritos/2024/04/26/5-livros-para-conhecer-a-obra-de-julio-cortazar)
 - [As regras da reforma tributária. O veto dos EUA ao TikTok. E mais](https://www.nexojornal.com.br/video/2024/04/26/resumo-noticias-imposto-e-reforma-tributaria-regulamentacao)
 - [Anderson Leonardo, vocalista do Molejo, morre aos 51 anos](https://www.nexojornal.com.br/extra/2024/04/26/morre-anderson-leonardo-do-molejo)
 - [O imposto sobre refrigerantes nas regras do governo](https://www.nexojornal.com.br/externo/2024/04/26/o-imposto-sobre-refrigerantes-nas-regras-do-governo)
-- [Incêndio em pensão deixa 10 mortos em Porto Alegre](https://www.nexojornal.com.br/extra/2024/04/26/incendio-mata-10-pessoas-em-porto-alegre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
