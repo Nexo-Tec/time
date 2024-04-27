@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pluralismo religioso e direitos no Brasil pós-Constituinte](https://www.nexojornal.com.br/ensaio/2024/04/26/pluralismo-religioso-e-direitos-no-brasil-pos-constituinte)
-- [Homem negro morre após ser imobilizado por policial nos EUA](https://www.nexojornal.com.br/extra/2024/04/26/frank-tyson-violencia-policial-nao-consigo-respirar)
-- [Os paradoxos da nacionalização do TikTok pelos EUA](https://www.nexojornal.com.br/expresso/2024/04/26/os-paradoxos-da-nacionalizacao-do-tiktok-pelos-eua)
-- [Como a dengue paralisou uma pequena cidade em Minas Gerais](https://www.nexojornal.com.br/externo/2024/04/26/como-a-dengue-paralisou-uma-pequena-cidade-em-minas-gerais)
-- [‘Boulder’: da solidão em um navio aos dilemas de um relacionamento](https://www.nexojornal.com.br/estante-trechos/2024/04/26/boulder-da-solidao-em-um-navio-aos-dilemas-de-um-relacionamento)
+- [O movimento que conecta o Brasil à sua latinidade](https://www.nexojornal.com.br/ensaio/2024/04/27/movimento-fica-espanhol-ensino-medio)
+- [Cidades brasileiras estão mais verticais](https://www.nexojornal.com.br/externo/2024/04/27/cidades-brasileiras-estao-mais-verticais)
+- [‘Existe uma disputa pelo modelo de ordem pós-neoliberal’](https://www.nexojornal.com.br/entrevista/2024/04/27/periodo-neoliberal-como-superar-o-neoliberalismo-entrevista-marcos-nobre)
+- [O que dizem as cartas do alpinista que morreu no Everest há 100 anos](https://www.nexojornal.com.br/expresso/2024/04/27/cartas-do-alpinista-george-mallory-que-morreu-no-everest)
+- [Chuvas deixam dezenas de mortos em países da África Oriental](https://www.nexojornal.com.br/extra/2024/04/27/chuvas-africa-oriental-quenia-tanzania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
