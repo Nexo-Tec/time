@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como governos podem fazer reparação do período colonial](https://www.nexojornal.com.br/expresso/2024/04/27/reparacao-crimes-periodo-colonial)
 - [O movimento que conecta o Brasil à sua latinidade](https://www.nexojornal.com.br/ensaio/2024/04/27/movimento-fica-espanhol-ensino-medio)
 - [Cidades brasileiras estão mais verticais](https://www.nexojornal.com.br/externo/2024/04/27/cidades-brasileiras-estao-mais-verticais)
 - [‘Existe uma disputa pelo modelo de ordem pós-neoliberal’](https://www.nexojornal.com.br/entrevista/2024/04/27/periodo-neoliberal-como-superar-o-neoliberalismo-entrevista-marcos-nobre)
 - [O que dizem as cartas do alpinista que morreu no Everest há 100 anos](https://www.nexojornal.com.br/expresso/2024/04/27/cartas-do-alpinista-george-mallory-que-morreu-no-everest)
-- [Chuvas deixam dezenas de mortos em países da África Oriental](https://www.nexojornal.com.br/extra/2024/04/27/chuvas-africa-oriental-quenia-tanzania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
