@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Não há democracia em Estado que mantém genocídio indígena’](https://www.nexojornal.com.br/entrevista/2024/04/28/questao-indigena-marco-temporal-brasil-2024-entrevista-mauricio-terena-apib)
 - [Taylor Swift lidera parada de álbuns e bate recorde em streaming](https://www.nexojornal.com.br/extra/2024/04/28/taylor-swift-album-recorde-the-tortured-poets-department)
 - [6 estados brasileiros têm alerta de perigo por onda de calor](https://www.nexojornal.com.br/extra/2024/04/27/onda-de-calor-estados-alerta-previsao)
 - [Como governos podem fazer reparação do período colonial](https://www.nexojornal.com.br/expresso/2024/04/27/reparacao-crimes-periodo-colonial)
 - [O movimento que conecta o Brasil à sua latinidade](https://www.nexojornal.com.br/ensaio/2024/04/27/movimento-fica-espanhol-ensino-medio)
-- [Cidades brasileiras estão mais verticais](https://www.nexojornal.com.br/externo/2024/04/27/cidades-brasileiras-estao-mais-verticais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
