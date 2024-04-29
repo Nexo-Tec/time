@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Gérard Depardieu é preso por suspeita de agressões sexuais](https://www.nexojornal.com.br/extra/2024/04/29/gerard-depardieu-preso-agressoes-sexuais)
 - [Governo acena a agro com anúncio de crédito em feira](https://www.nexojornal.com.br/extra/2024/04/28/governo-lula-agrishow-credito-agronegocio)
 - [Por que o interesse em mestrado e doutorado está caindo no Brasil](https://www.nexojornal.com.br/externo/2024/04/28/fuga-de-cerebros-mestrado-doutorado)
 - [Afinal, o governo Lula está mais à esquerda ou mais à direita?](https://www.nexojornal.com.br/expresso/2024/04/28/governo-lula-esquerda-ou-direita)
 - [‘Não há democracia em Estado que mantém genocídio indígena’](https://www.nexojornal.com.br/entrevista/2024/04/28/questao-indigena-marco-temporal-brasil-2024-entrevista-mauricio-terena-apib)
-- [Taylor Swift lidera parada de álbuns e bate recorde em streaming](https://www.nexojornal.com.br/extra/2024/04/28/taylor-swift-album-recorde-the-tortured-poets-department)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
