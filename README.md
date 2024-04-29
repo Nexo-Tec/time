@@ -136,7 +136,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- PP_LIST:START -->
 - [Eleições municipais 2024](https://pp.nexojornal.com.br/index/2024/04/26/eleicoes-municipais-2024/)
-- [Ações afirmativas raciais na política](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/26/acoes-afirmativas-raciais-na-politica/)
+- [Ações afirmativas raciais na política eleitoral brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/26/acoes-afirmativas-raciais-na-politica-eleitoral-brasileira/)
 - [Luiz Augusto T. Machado: como proteger a floresta amazônica](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/04/26/luiz-augusto-t-machado-como-proteger-a-floresta-amazonica/)
 - [Proteínas alternativas, tecnologia e o futuro da alimentação, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/04/26/proteinas-alternativas-tecnologia-e-o-futuro-da-alimentacao-em-7-pontos/)
 - [O papel das eleições municipais e do controle social no enfrentamento da crise climática](https://pp.nexojornal.com.br/opiniao/2024/04/26/o-papel-das-eleicoes-municipais-e-do-controle-social-no-enfrentamento-da-crise-climatica/)
