@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sobremesa de caqui com chocolate no pote](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/sobremesa-de-caqui-com-chocolate-no-pote/)
 - [Tatiana Roque: “O governo está emparedado, com restrições, mas a comunidade científica está precisando de alguns gestos a mais”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tatiana-roque-governo-restricoes-comunidade-cientifica-incentivo-desafio/)
 - [A calçada da fama de uma Justiça que habita o Olimpo](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/a-calcada-da-fama-justica-pernambuco/)
 - [Faca: Reflexões sobre um atentado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/faca-reflexoes-sobre-um-atentado/)
 - [“Bebê Rena”, a série do momento na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bebe-rena-a-serie-do-momento-na-netflix/)
-- [“Cadernos Negros”, do coletivo cultural Quilombhoje Literatura](https://gamarevista.uol.com.br/achamos-que-vale/ler/cadernos-negros-do-coletivo-cultural-quilombhoje-literatura/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
