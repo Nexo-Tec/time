@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pepe Mujica anuncia que está com tumor no esôfago](https://www.nexojornal.com.br/extra/2024/04/29/pepe-mujica-anuncia-tumor-esofago)
 - [Além de ‘Bebê rena’: o que fazer quando você é vítima de stalking](https://www.nexojornal.com.br/expresso/2024/04/29/bebe-rena-netflix-stalking)
 - [A máquina de IA que comanda bombardeios de Israel em Gaza](https://www.nexojornal.com.br/externo/2024/04/29/lavender-ia-israel-ataques-gaza)
 - [Gérard Depardieu é preso por suspeita de agressões sexuais](https://www.nexojornal.com.br/extra/2024/04/29/gerard-depardieu-preso-agressoes-sexuais)
 - [Governo acena a agro com anúncio de crédito em feira](https://www.nexojornal.com.br/extra/2024/04/28/governo-lula-agrishow-credito-agronegocio)
-- [Por que o interesse em mestrado e doutorado está caindo no Brasil](https://www.nexojornal.com.br/externo/2024/04/28/fuga-de-cerebros-mestrado-doutorado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
