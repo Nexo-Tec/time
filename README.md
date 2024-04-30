@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual foi a importância do jazz na luta por direitos civis nos EUA](https://www.nexojornal.com.br/expresso/2024/04/29/musica-historia-do-jazz-direitos-civis-eua)
+- [O aplicativo que ensina nheengatu, língua geral da Amazônia](https://www.nexojornal.com.br/expresso/2024/04/29/nheengatu-aplicativo-lingua-amazonia)
+- [Como uma virada na economia americana pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/04/29/economia-eua-2024-impacto-no-brasil)
 - [A evolução explosiva das serpentes](https://www.nexojornal.com.br/externo/2024/04/29/a-evolucao-explosiva-das-serpentes)
 - [Mineradoras oferecem mais R$ 90 bilhões em acordo por Mariana](https://www.nexojornal.com.br/extra/2024/04/29/mineradoras-r-90-bilhoes-novo-acordo-mariana)
-- [O apelo dos vinis de colecionador na era do streaming](https://www.nexojornal.com.br/expresso/2024/04/29/artistas-apostam-em-disco-de-vinil-para-colecionador)
-- [De onde vem a mandioca e onde ela é produzida](https://www.nexojornal.com.br/grafico/2024/04/29/mandioca-origem-e-producao)
-- [O caso da filha de Samara Felippo. E o racismo nas escolas](https://www.nexojornal.com.br/podcast/2024/04/29/racismo-escola-sao-paulo-vera-cruz)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
