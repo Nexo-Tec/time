@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Estudantes ocupam prédio de Columbia em protesto contra guerra](https://www.nexojornal.com.br/extra/2024/04/30/protesto-estudantes-universidade-columbia-palestina)
 - [Os personagens de Ziraldo que abraçaram a diversidade](https://www.nexojornal.com.br/externo/2024/04/30/os-personagens-de-ziraldo-que-abracaram-a-diversidade)
 - [Deputados aprovam pacote de reformas econômicas de Milei](https://www.nexojornal.com.br/extra/2024/04/30/argentina-deputados-aprovam-treformas-economicas-javier-milei)
 - [Para repatriar cérebros, respeite os cientistas](https://www.nexojornal.com.br/colunistas/2024/04/30/para-repatriar-cerebros-respeite-os-cientistas-nacionais)
 - [Desemprego atinge 8,6 milhões no primeiro trimestre de 2024](https://www.nexojornal.com.br/extra/2024/04/30/desemprego-2024-brasil-primeiro-trimestre-ibge)
-- [Qual foi a importância do jazz na luta por direitos civis nos EUA](https://www.nexojornal.com.br/expresso/2024/04/29/musica-historia-do-jazz-direitos-civis-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
