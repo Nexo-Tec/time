@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A evolução explosiva das serpentes](https://www.nexojornal.com.br/externo/2024/04/29/a-evolucao-explosiva-das-serpentes)
+- [Mineradoras oferecem mais R$ 90 bilhões em acordo por Mariana](https://www.nexojornal.com.br/extra/2024/04/29/mineradoras-r-90-bilhoes-novo-acordo-mariana)
+- [O apelo dos vinis de colecionador na era do streaming](https://www.nexojornal.com.br/expresso/2024/04/29/artistas-apostam-em-disco-de-vinil-para-colecionador)
 - [De onde vem a mandioca e onde ela é produzida](https://www.nexojornal.com.br/grafico/2024/04/29/mandioca-origem-e-producao)
 - [O caso da filha de Samara Felippo. E o racismo nas escolas](https://www.nexojornal.com.br/podcast/2024/04/29/racismo-escola-sao-paulo-vera-cruz)
-- [Brasil registra quase 2.000 mortes por dengue em 2024](https://www.nexojornal.com.br/extra/2024/04/29/brasil-2000-mortes-dengue-2024)
-- [Pepe Mujica anuncia que está com tumor no esôfago](https://www.nexojornal.com.br/extra/2024/04/29/pepe-mujica-anuncia-tumor-esofago)
-- [Além de ‘Bebê rena’: o que fazer quando você é vítima de stalking](https://www.nexojornal.com.br/expresso/2024/04/29/bebe-rena-netflix-stalking)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
