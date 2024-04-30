@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Deputados aprovam pacote de reformas econômicas de Milei](https://www.nexojornal.com.br/extra/2024/04/30/argentina-deputados-aprovam-treformas-economicas-javier-milei)
 - [Para repatriar cérebros, respeite os cientistas](https://www.nexojornal.com.br/colunistas/2024/04/30/para-repatriar-cerebros-respeite-os-cientistas-nacionais)
 - [Desemprego atinge 8,6 milhões no primeiro trimestre de 2024](https://www.nexojornal.com.br/extra/2024/04/30/desemprego-2024-brasil-primeiro-trimestre-ibge)
 - [Qual foi a importância do jazz na luta por direitos civis nos EUA](https://www.nexojornal.com.br/expresso/2024/04/29/musica-historia-do-jazz-direitos-civis-eua)
 - [O aplicativo que ensina nheengatu, língua geral da Amazônia](https://www.nexojornal.com.br/expresso/2024/04/29/nheengatu-aplicativo-lingua-amazonia)
-- [Como uma virada na economia americana pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/04/29/economia-eua-2024-impacto-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
