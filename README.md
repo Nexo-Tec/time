@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre o escritor americano Paul Aster, aos 77 anos](https://www.nexojornal.com.br/extra/2024/05/01/paul-aster-escritor-morre)
 - [Como socorristas arriscam a vida para salvar baleias](https://www.nexojornal.com.br/externo/2024/04/30/como-socorristas-arriscam-a-vida-para-salvar-baleias)
 - [A derrubada de estátuas de um dos fundadores de Taiwan](https://www.nexojornal.com.br/expresso/2024/04/30/governo-de-taiwan-tenta-apagar-memoria-do-ex-presidente-chiang-kai-shek)
 - [Os cargos de liderança no governo Lula, por cor e gênero](https://www.nexojornal.com.br/grafico/2024/04/30/governo-lula-cargos-de-lideranca-por-cor-e-genero-grafico)
 - [30 anos sem Ayrton Senna: você conhece a carreira do piloto?](https://www.nexojornal.com.br/interativo/2024/04/30/teste-quiz-sobre-a-historia-de-ayrton-senna)
-- [O governo tem razão em cobrar deveres fiscais do Congresso?](https://www.nexojornal.com.br/expresso/2024/04/30/politica-e-economia-brasil-qual-a-responsabilidade-fiscal-do-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
