@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senado aprova ajuda de R$ 15 bilhões a setor de eventos até 2026](https://www.nexojornal.com.br/extra/2024/04/30/perse-programa-setor-eventos-senado)
-- [Como é a árvore genealógica das plantas angiospermas](https://www.nexojornal.com.br/expresso/2024/04/30/como-e-a-arvore-genealogica-das-plantas)
-- [As dívidas das Casas Bahia. E a crise no varejo brasileiro](https://www.nexojornal.com.br/podcast/2024/04/30/recuperacao-extrajudicial-casas-bahia-crise-no-varejo)
-- [Estudantes ocupam prédio de Columbia em protesto contra guerra](https://www.nexojornal.com.br/extra/2024/04/30/protesto-estudantes-universidade-columbia-palestina)
-- [Os personagens de Ziraldo que abraçaram a diversidade](https://www.nexojornal.com.br/externo/2024/04/30/os-personagens-de-ziraldo-que-abracaram-a-diversidade)
+- [Como socorristas arriscam a vida para salvar baleias](https://www.nexojornal.com.br/externo/2024/04/30/como-socorristas-arriscam-a-vida-para-salvar-baleias)
+- [A derrubada de estátuas de um dos fundadores de Taiwan](https://www.nexojornal.com.br/expresso/2024/04/30/governo-de-taiwan-tenta-apagar-memoria-do-ex-presidente-chiang-kai-shek)
+- [Os cargos de liderança no governo Lula, por cor e gênero](https://www.nexojornal.com.br/grafico/2024/04/30/governo-lula-cargos-de-lideranca-por-cor-e-genero-grafico)
+- [30 anos sem Ayrton Senna: você conhece a carreira do piloto?](https://www.nexojornal.com.br/interativo/2024/04/30/teste-quiz-sobre-a-historia-de-ayrton-senna)
+- [O governo tem razão em cobrar deveres fiscais do Congresso?](https://www.nexojornal.com.br/expresso/2024/04/30/politica-e-economia-brasil-qual-a-responsabilidade-fiscal-do-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
