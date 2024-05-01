@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula pede voto para Boulos e adversários acionam Justiça](https://www.nexojornal.com.br/extra/2024/05/01/lula-pedido-voto-boulos-1-de-maio)
 - [Como o breakdancing se tornou o mais novo esporte olímpico](https://www.nexojornal.com.br/externo/2024/05/01/por-que-breakdancing-e-esporte-olimpico)
 - [‘Ações para enfrentar racismo nas escolas têm de ser estruturais’](https://www.nexojornal.com.br/entrevista/2024/05/01/racismo-escolas-samara-felippo-entrevista)
 - [Por que o governo não declarou emergência na epidemia de dengue](https://www.nexojornal.com.br/expresso/2024/05/01/dengue-2024-brasil-decreto-epidemia)
 - [Morre o escritor americano Paul Aster, aos 77 anos](https://www.nexojornal.com.br/extra/2024/05/01/paul-aster-escritor-morre)
-- [Como socorristas arriscam a vida para salvar baleias](https://www.nexojornal.com.br/externo/2024/04/30/como-socorristas-arriscam-a-vida-para-salvar-baleias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
