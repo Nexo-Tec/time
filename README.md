@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A perspectiva de uma nova seca extrema no Pantanal](https://www.nexojornal.com.br/externo/2024/05/02/a-perspectiva-de-uma-nova-seca-extrema-no-pantanal)
 - [Brasileiro responde por assassinato com espada em Londres](https://www.nexojornal.com.br/extra/2024/05/02/ataque-espada-londres-brasileiro-preso)
 - [Temporais matam 13 no RS. Governo decreta calamidade](https://www.nexojornal.com.br/extra/2024/05/02/chuvas-rio-grande-do-sul-calamidade-mortes)
-- [Lula pede voto para Boulos e adversários acionam Justiça](https://www.nexojornal.com.br/extra/2024/05/01/lula-pedido-voto-boulos-1-de-maio)
+- [Juiz eleitoral manda apagar vídeo de Lula pedindo voto em Boulos](https://www.nexojornal.com.br/extra/2024/05/01/lula-pedido-voto-boulos-1-de-maio)
 - [Como o breakdancing se tornou o mais novo esporte olímpico](https://www.nexojornal.com.br/externo/2024/05/01/por-que-breakdancing-e-esporte-olimpico)
-- [‘Ações para enfrentar racismo nas escolas têm de ser estruturais’](https://www.nexojornal.com.br/entrevista/2024/05/01/racismo-escolas-samara-felippo-entrevista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
