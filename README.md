@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A eficácia de instituições participativas](https://www.nexojornal.com.br/academico/2024/05/02/a-eficacia-de-instituicoes-participativas)
 - [A perspectiva de uma nova seca extrema no Pantanal](https://www.nexojornal.com.br/externo/2024/05/02/a-perspectiva-de-uma-nova-seca-extrema-no-pantanal)
 - [Brasileiro responde por assassinato com espada em Londres](https://www.nexojornal.com.br/extra/2024/05/02/ataque-espada-londres-brasileiro-preso)
 - [Temporais matam 13 no RS. Governo decreta calamidade](https://www.nexojornal.com.br/extra/2024/05/02/chuvas-rio-grande-do-sul-calamidade-mortes)
 - [Juiz eleitoral manda apagar vídeo de Lula pedindo voto em Boulos](https://www.nexojornal.com.br/extra/2024/05/01/lula-pedido-voto-boulos-1-de-maio)
-- [Como o breakdancing se tornou o mais novo esporte olímpico](https://www.nexojornal.com.br/externo/2024/05/01/por-que-breakdancing-e-esporte-olimpico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
