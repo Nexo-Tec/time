@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Tanto mar](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/tanto-mar/)
-- [Você tem uma relação aberta?](https://gamarevista.uol.com.br/colunistas/maria-homem/voce-tem-uma-relacao-aberta/)
-- [@navamau](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/navamau/)
-- [A vida não te visita duas vezes](https://gamarevista.uol.com.br/colunistas/fernando-luna/a-vida-nao-te-visita-duas-vezes/)
-- [Sobremesa de caqui com chocolate no pote](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/sobremesa-de-caqui-com-chocolate-no-pote/)
+- [Alejandro Zambra no Festival Serrote, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/alejandro-zambra-no-festival-serrote-em-sp/)
+- [“Um Defeito de Cor”, no Sesc Pinheiros, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-defeito-de-cor-no-sesc-pinheiros-em-sp/)
+- [Uma crítica à violência midiática em “Os Superstars da Cadeia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-critica-a-violencia-midiatica-em-os-superstars-da-cadeia/)
+- [Oito décadas em “Verissimo”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/oito-decadas-em-verissimo/)
+- [Mistérios a serem desvendados em “Murdle”](https://gamarevista.uol.com.br/achamos-que-vale/fazer/misterios-a-serem-desvendados-em-murdle/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
