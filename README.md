@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Cheia se aproxima de recorde e Porto Alegre esvazia centro](https://www.nexojornal.com.br/extra/2024/05/03/porto-alegre-inundacao-cheia-rio-guaiba)
 - [O perfil da população quilombola no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/brasil-populacao-quilombola-censo-2022)
 - [O perfil da população indígena no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/populacao-indigena-brasil-censo-2022)
-- [Governo mantém concurso nacional em meio às chuvas no RS](https://www.nexojornal.com.br/extra/2024/05/03/cnu-concurso-nacional-unificado-data-rio-grande-do-sul)
+- [Governo recua e adia concurso nacional em meio às chuvas no RS](https://www.nexojornal.com.br/extra/2024/05/03/cnu-concurso-nacional-unificado-adia-rio-grande-do-sul)
 - [STF define parâmetros para apurações do Ministério Público](https://www.nexojornal.com.br/extra/2024/05/02/stf-investigacoes-ministerio-publico-autonomia)
 <!-- NEXO_LIST:END -->
 
