@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Maquiavel e os desafios da ciência política como profissão](https://www.nexojornal.com.br/ensaio/2024/05/02/ciencia-politica-maquiavale-formacao-academica)
+- [O impacto do humor de Verissimo na literatura brasileira](https://www.nexojornal.com.br/expresso/2024/05/02/filme-luis-fernando-verissimo-literatura-brasileira)
 - [De novo: o desastre climático no Rio Grande do Sul](https://www.nexojornal.com.br/podcast/2024/05/02/desastre-no-rio-grande-do-sul-chuva)
 - [Presença de sexo em filmes de Hollywood cai 40% desde 2000](https://www.nexojornal.com.br/extra/2024/05/02/menos-cenas-de-sexo-cinema-hollywood)
 - [A eficácia de instituições participativas](https://www.nexojornal.com.br/academico/2024/05/02/a-eficacia-de-instituicoes-participativas)
-- [A perspectiva de uma nova seca extrema no Pantanal](https://www.nexojornal.com.br/externo/2024/05/02/a-perspectiva-de-uma-nova-seca-extrema-no-pantanal)
-- [Brasileiro responde por assassinato com espada em Londres](https://www.nexojornal.com.br/extra/2024/05/02/ataque-espada-londres-brasileiro-preso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
