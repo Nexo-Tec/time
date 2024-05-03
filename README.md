@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O perfil da população quilombola no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/brasil-populacao-quilombola-censo-2022)
+- [O perfil da população indígena no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/populacao-indigena-brasil-censo-2022)
+- [Governo mantém concurso nacional em meio às chuvas no RS](https://www.nexojornal.com.br/extra/2024/05/03/cnu-concurso-nacional-unificado-data-rio-grande-do-sul)
 - [STF define parâmetros para apurações do Ministério Público](https://www.nexojornal.com.br/extra/2024/05/02/stf-investigacoes-ministerio-publico-autonomia)
 - [Como se preparar na véspera do Concurso Nacional Unificado](https://www.nexojornal.com.br/expresso/2024/05/02/como-se-preparar-concurso-publico-nacional-unificado-cnu)
-- [O que agências de risco dizem ao melhorar a visão sobre o Brasil](https://www.nexojornal.com.br/expresso/2024/05/02/economia-brasil-agencia-de-risco-avaliacao-positiva-investimento)
-- [Câmara de SP aprova privatização da Sabesp e prefeito sanciona lei](https://www.nexojornal.com.br/extra/2024/05/02/vereadores-aprovam-privatizacao-da-sabesp)
-- [Maquiavel e os desafios da ciência política como profissão](https://www.nexojornal.com.br/ensaio/2024/05/02/ciencia-politica-maquiavale-formacao-academica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
