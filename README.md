@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O estudo argentino que transformou sonhos de pássaros em sons](https://www.nexojornal.com.br/expresso/2024/05/03/som-dos-sonho-dos-passaros)
+- [Como a mineração pauta a eleição no Panamá](https://www.nexojornal.com.br/externo/2024/05/03/como-a-mineracao-pauta-a-eleicao-no-panama)
 - [Cheia se aproxima de recorde e Porto Alegre esvazia centro](https://www.nexojornal.com.br/extra/2024/05/03/porto-alegre-inundacao-cheia-rio-guaiba)
 - [O perfil da população quilombola no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/brasil-populacao-quilombola-censo-2022)
 - [O perfil da população indígena no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/populacao-indigena-brasil-censo-2022)
-- [Governo recua e adia concurso nacional em meio às chuvas no RS](https://www.nexojornal.com.br/extra/2024/05/03/cnu-concurso-nacional-unificado-adia-rio-grande-do-sul)
-- [STF define parâmetros para apurações do Ministério Público](https://www.nexojornal.com.br/extra/2024/05/02/stf-investigacoes-ministerio-publico-autonomia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
