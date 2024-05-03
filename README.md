@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros sobre depressão e outros transtornos mentais](https://www.nexojornal.com.br/estante-favoritos/2024/05/03/5-livros-sobre-depressao-e-outros-transtornos-mentais)
+- [A tragédia das chuvas no Sul. O embate fiscal em Brasília. E mais](https://www.nexojornal.com.br/video/2024/05/03/a-tragedia-das-chuvas-no-sul-o-embate-fiscal-em-brasilia-e-mais)
+- [‘Sobre desistir’: a vida entre sacrifícios e concessões](https://www.nexojornal.com.br/estante-trechos/2024/05/03/sobre-desistir-a-vida-entre-sacrificios-e-concessoes)
 - [Moraes manda soltar Mauro Cid e mantém acordo de delação](https://www.nexojornal.com.br/extra/2024/05/03/alenxadre-de-moraes-solta-mauro-cid-bolsonaro)
 - [O estudo argentino que transformou sonhos de pássaros em sons](https://www.nexojornal.com.br/expresso/2024/05/03/som-dos-sonho-dos-passaros)
-- [Como a mineração pauta a eleição no Panamá](https://www.nexojornal.com.br/externo/2024/05/03/como-a-mineracao-pauta-a-eleicao-no-panama)
-- [Cheia se aproxima de recorde e Porto Alegre esvazia centro](https://www.nexojornal.com.br/extra/2024/05/03/porto-alegre-inundacao-cheia-rio-guaiba)
-- [O perfil da população quilombola no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/brasil-populacao-quilombola-censo-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
