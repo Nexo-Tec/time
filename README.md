@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes manda soltar Mauro Cid e mantém acordo de delação](https://www.nexojornal.com.br/extra/2024/05/03/alenxadre-de-moraes-solta-mauro-cid-bolsonaro)
 - [O estudo argentino que transformou sonhos de pássaros em sons](https://www.nexojornal.com.br/expresso/2024/05/03/som-dos-sonho-dos-passaros)
 - [Como a mineração pauta a eleição no Panamá](https://www.nexojornal.com.br/externo/2024/05/03/como-a-mineracao-pauta-a-eleicao-no-panama)
 - [Cheia se aproxima de recorde e Porto Alegre esvazia centro](https://www.nexojornal.com.br/extra/2024/05/03/porto-alegre-inundacao-cheia-rio-guaiba)
 - [O perfil da população quilombola no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/brasil-populacao-quilombola-censo-2022)
-- [O perfil da população indígena no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/05/03/populacao-indigena-brasil-censo-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
