@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Evento preparatório do G20 discute imprensa e democracia](https://gamarevista.uol.com.br/sociedade/evento-preparatorio-do-g20-discute-imprensa-e-democracia/)
+- [A Invenção da Solidão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-invencao-da-solidao/)
 - [Alejandro Zambra no Festival Serrote, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/alejandro-zambra-no-festival-serrote-em-sp/)
 - [“Um Defeito de Cor”, no Sesc Pinheiros, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/um-defeito-de-cor-no-sesc-pinheiros-em-sp/)
 - [Uma crítica à violência midiática em “Os Superstars da Cadeia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/uma-critica-a-violencia-midiatica-em-os-superstars-da-cadeia/)
-- [Oito décadas em “Verissimo”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/oito-decadas-em-verissimo/)
-- [Mistérios a serem desvendados em “Murdle”](https://gamarevista.uol.com.br/achamos-que-vale/fazer/misterios-a-serem-desvendados-em-murdle/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
