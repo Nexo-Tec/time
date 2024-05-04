@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o cérebro reage a notificações do celular e outros estímulos](https://www.nexojornal.com.br/externo/2024/05/03/como-o-cerebro-reage-a-notificacoes-do-celular-e-outros-estimulos)
+- [Os norte-coreanos por trás do pescado consumido no mundo](https://www.nexojornal.com.br/externo/2024/05/03/os-norte-coreanos-por-tras-do-pescado-consumido-no-mundo)
+- [Como os protestos estudantis mexem na política americana](https://www.nexojornal.com.br/expresso/2024/05/03/como-os-protestos-estudantis-mexem-na-politica-americana)
+- [Como uma cheia histórica mudou Porto Alegre há 83 anos](https://www.nexojornal.com.br/expresso/2024/05/03/enchente-porto-alegre-1941)
 - [5 livros sobre depressão e outros transtornos mentais](https://www.nexojornal.com.br/estante-favoritos/2024/05/03/5-livros-sobre-depressao-e-outros-transtornos-mentais)
-- [A tragédia das chuvas no Sul. O embate fiscal em Brasília. E mais](https://www.nexojornal.com.br/video/2024/05/03/a-tragedia-das-chuvas-no-sul-o-embate-fiscal-em-brasilia-e-mais)
-- [‘Sobre desistir’: a vida entre sacrifícios e concessões](https://www.nexojornal.com.br/estante-trechos/2024/05/03/sobre-desistir-a-vida-entre-sacrificios-e-concessoes)
-- [Moraes manda soltar Mauro Cid e mantém acordo de delação](https://www.nexojornal.com.br/extra/2024/05/03/alenxadre-de-moraes-solta-mauro-cid-bolsonaro)
-- [O estudo argentino que transformou sonhos de pássaros em sons](https://www.nexojornal.com.br/expresso/2024/05/03/som-dos-sonho-dos-passaros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
