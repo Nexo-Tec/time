@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Número de mortos por chuvas no Rio Grande do Sul sobe para 56](https://www.nexojornal.com.br/extra/2024/05/04/chuvas-no-rio-grande-do-sul)
+- [Número de mortos por chuvas no Rio Grande do Sul sobe para 57](https://www.nexojornal.com.br/extra/2024/05/04/chuvas-no-rio-grande-do-sul)
 - [Como o cérebro reage a notificações do celular e outros estímulos](https://www.nexojornal.com.br/externo/2024/05/03/como-o-cerebro-reage-a-notificacoes-do-celular-e-outros-estimulos)
 - [Os norte-coreanos por trás do pescado consumido no mundo](https://www.nexojornal.com.br/externo/2024/05/03/os-norte-coreanos-por-tras-do-pescado-consumido-no-mundo)
 - [Como os protestos estudantis mexem na política americana](https://www.nexojornal.com.br/expresso/2024/05/03/como-os-protestos-estudantis-mexem-na-politica-americana)
