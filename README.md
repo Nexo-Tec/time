@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Número de mortos por chuvas no Rio Grande do Sul sobe para 57](https://www.nexojornal.com.br/extra/2024/05/04/chuvas-no-rio-grande-do-sul)
-- [Como o cérebro reage a notificações do celular e outros estímulos](https://www.nexojornal.com.br/externo/2024/05/03/como-o-cerebro-reage-a-notificacoes-do-celular-e-outros-estimulos)
-- [Os norte-coreanos por trás do pescado consumido no mundo](https://www.nexojornal.com.br/externo/2024/05/03/os-norte-coreanos-por-tras-do-pescado-consumido-no-mundo)
-- [Como os protestos estudantis mexem na política americana](https://www.nexojornal.com.br/expresso/2024/05/03/como-os-protestos-estudantis-mexem-na-politica-americana)
-- [Como uma cheia histórica mudou Porto Alegre há 83 anos](https://www.nexojornal.com.br/expresso/2024/05/03/enchente-porto-alegre-1941)
+- [A HQ sobre a trajetória do maior nadador paralímpico do Brasil](https://www.nexojornal.com.br/expresso/2024/05/04/hq-sobre-a-historia-do-maior-nadador-paralimpico-do-brasil)
+- [A tendência global de remunicipalização do saneamento básico](https://www.nexojornal.com.br/externo/2024/05/04/a-tendencia-global-de-remunicipalizacao-do-saneamento-basico)
+- [O trauma da pobreza e o processo de ascensão social pela educação](https://www.nexojornal.com.br/ensaio/2024/05/04/o-trauma-da-pobreza-e-o-processo-de-ascensao-social-pela-educacao)
+- [O peso de um independente nas eleições dos EUA](https://www.nexojornal.com.br/expresso/2024/05/04/eleicoes-presidente-eua-candidato-sem-partido)
+- [Os limites das regras contra a propaganda eleitoral antecipada](https://www.nexojornal.com.br/expresso/2024/05/04/limites-propaganda-eleitoral-antecipada-boulos-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
