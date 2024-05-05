@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Renata Silveira: “A pessoa nunca ouviu uma narração sua, mas só porque é mulher fala mal e abaixa o volume”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/narradora-de-futebol-renata-silveira-preconceito/)
+- [Renata Silveira: “Minha rotina ficou mais pesada, tinha menos tempo para ficar com meu filho. Ter rede de apoio fez toda a diferença”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/narradora-de-futebol-renata-silveira-preconceito/)
 - [Evento preparatório do G20 discute imprensa e democracia](https://gamarevista.uol.com.br/sociedade/evento-preparatorio-do-g20-discute-imprensa-e-democracia/)
 - [A Invenção da Solidão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-invencao-da-solidao/)
 - [Alejandro Zambra no Festival Serrote, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/alejandro-zambra-no-festival-serrote-em-sp/)
