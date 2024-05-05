@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Enchente histórica já afeta mais de 700 mil pessoas no RS](https://www.nexojornal.com.br/extra/2024/05/05/enchente-historica-no-rio-grande-do-sul)
 - [A HQ sobre a trajetória do maior nadador paralímpico do Brasil](https://www.nexojornal.com.br/expresso/2024/05/04/hq-sobre-a-historia-do-maior-nadador-paralimpico-do-brasil)
 - [A tendência global de remunicipalização do saneamento básico](https://www.nexojornal.com.br/externo/2024/05/04/a-tendencia-global-de-remunicipalizacao-do-saneamento-basico)
 - [O trauma da pobreza e o processo de ascensão social pela educação](https://www.nexojornal.com.br/ensaio/2024/05/04/o-trauma-da-pobreza-e-o-processo-de-ascensao-social-pela-educacao)
 - [O peso de um independente nas eleições dos EUA](https://www.nexojornal.com.br/expresso/2024/05/04/eleicoes-presidente-eua-candidato-sem-partido)
-- [Os limites das regras contra a propaganda eleitoral antecipada](https://www.nexojornal.com.br/expresso/2024/05/04/limites-propaganda-eleitoral-antecipada-boulos-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
