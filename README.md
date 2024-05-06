@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os números malditos de ‘Lost’ que quase saíram na Mega-Sena](https://www.nexojornal.com.br/expresso/2024/05/06/os-numeros-malditos-de-lost-que-quase-sairam-na-mega-sena)
+- [Veja cidades gaúchas antes e depois da tragédia das chuvas](https://www.nexojornal.com.br/extra/2024/05/06/antes-e-depois-cidades-chuva-rs)
+- [Quais são as disputas em torno da memória de João Cândido](https://www.nexojornal.com.br/expresso/2024/05/06/joao-candido-revolta-da-chibata-historia)
 - [Israel ordena esvaziamento de Rafah, no sul de Gaza](https://www.nexojornal.com.br/extra/2024/05/06/israel-ordena-esvaziamento-rafah)
 - [A gripe H5N1 pode ser a próxima pandemia?](https://www.nexojornal.com.br/externo/2024/05/05/a-gripe-h5n1-pode-ser-a-proxima-pandemia)
-- [A importância do controle de armas pela vida das mulheres](https://www.nexojornal.com.br/ensaio/2024/05/05/a-importancia-do-controle-de-armas-pela-vida-das-mulheres)
-- [O desemprego baixo atual pode impactar os preços, como diz o BC?](https://www.nexojornal.com.br/expresso/2024/05/05/desemprego-baixo-precos-bc)
-- [Saiba como doar para vítimas das chuvas no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2024/05/05/doacao-para-vitimas-chuvas-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
