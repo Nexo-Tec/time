@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A gripe H5N1 pode ser a próxima pandemia?](https://www.nexojornal.com.br/externo/2024/05/05/a-gripe-h5n1-pode-ser-a-proxima-pandemia)
+- [A importância do controle de armas pela vida das mulheres](https://www.nexojornal.com.br/ensaio/2024/05/05/a-importancia-do-controle-de-armas-pela-vida-das-mulheres)
+- [O desemprego baixo atual pode impactar os preços, como diz o BC?](https://www.nexojornal.com.br/expresso/2024/05/05/desemprego-baixo-precos-bc)
 - [Saiba como doar para vítimas das chuvas no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2024/05/05/doacao-para-vitimas-chuvas-rio-grande-do-sul)
 - [Madonna reuniu 1,6 milhão de pessoas em Copacabana](https://www.nexojornal.com.br/extra/2024/05/05/show-da-madonna-no-rio-de-janeiro)
-- [Enchente histórica já afeta mais de 700 mil pessoas no RS](https://www.nexojornal.com.br/extra/2024/05/05/enchente-historica-no-rio-grande-do-sul)
-- [A HQ sobre a trajetória do maior nadador paralímpico do Brasil](https://www.nexojornal.com.br/expresso/2024/05/04/hq-sobre-a-historia-do-maior-nadador-paralimpico-do-brasil)
-- [A tendência global de remunicipalização do saneamento básico](https://www.nexojornal.com.br/externo/2024/05/04/a-tendencia-global-de-remunicipalizacao-do-saneamento-basico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
