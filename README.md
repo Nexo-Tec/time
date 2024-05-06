@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel ordena esvaziamento de Rafah, no sul de Gaza](https://www.nexojornal.com.br/extra/2024/05/06/israel-ordena-esvaziamento-rafah)
 - [A gripe H5N1 pode ser a próxima pandemia?](https://www.nexojornal.com.br/externo/2024/05/05/a-gripe-h5n1-pode-ser-a-proxima-pandemia)
 - [A importância do controle de armas pela vida das mulheres](https://www.nexojornal.com.br/ensaio/2024/05/05/a-importancia-do-controle-de-armas-pela-vida-das-mulheres)
 - [O desemprego baixo atual pode impactar os preços, como diz o BC?](https://www.nexojornal.com.br/expresso/2024/05/05/desemprego-baixo-precos-bc)
 - [Saiba como doar para vítimas das chuvas no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2024/05/05/doacao-para-vitimas-chuvas-rio-grande-do-sul)
-- [Madonna reuniu 1,6 milhão de pessoas em Copacabana](https://www.nexojornal.com.br/extra/2024/05/05/show-da-madonna-no-rio-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
