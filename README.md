@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O conceito de ‘racialização’](https://pp.nexojornal.com.br/bibliografia-basica/2024/05/07/5-textos-para-saber-mais-sobre-o-conceito-de-racializacao/)
+- [Os sobre-educados no mercado de trabalho brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/07/os-sobre-educados-no-mercado-de-trabalho-brasileiro/)
 - [Sindemia global da má nutrição e mudanças do clima](https://pp.nexojornal.com.br/glossario/2024/05/07/sindemia-global-da-ma-nutricao-e-mudancas-do-clima/)
 - [Desafios à paz nas fronteiras brasileiras: tensões entre Estado e criminalidade na Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/06/desafios-a-paz-nas-fronteiras-brasileiras-tensoes-entre-estado-e-criminalidade-na-amazonia/)
 - [Dar voz e vez para a primeira infância da Amazônia para o Brasil a ela escutar](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/06/dar-voz-e-vez-para-a-primeira-infancia-da-amazonia-para-o-brasil-nos-escutar/)
-- [Sobre a formação de professores quilombolas](https://pp.nexojornal.com.br/opiniao/2024/05/06/sobre-a-formacao-de-professores-quilombolas/)
-- [Reflexões sobre o novo financiamento da Atenção Primária à Saúde](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/06/reflexoes-sobre-o-novo-financiamento-da-atencao-primaria-a-saude/)
 <!-- PP_LIST:END -->
 
