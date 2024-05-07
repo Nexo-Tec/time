@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Dar voz e vez para a primeira infância da Amazônia para o Brasil as escutar](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/06/dar-voz-e-vez-para-a-primeira-infancia-da-amazonia-para-o-brasil-nos-escutar/)
 - [Sobre a formação de professores quilombolas](https://pp.nexojornal.com.br/opiniao/2024/05/06/sobre-a-formacao-de-professores-quilombolas/)
 - [Reflexões sobre o novo financiamento da Atenção Primária à Saúde](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/06/reflexoes-sobre-o-novo-financiamento-da-atencao-primaria-a-saude/)
 - [A violência da polícia paulista condenada pela Corte Interamericana de Direitos Humanos](https://pp.nexojornal.com.br/opiniao/2024/05/03/a-violencia-da-policia-paulista-condenada-pela-corte-interamericana-de-direitos-humanos/)
 - [Eleições municipais 2024](https://pp.nexojornal.com.br/index/2024/04/26/eleicoes-municipais-2024/)
-- [Ações afirmativas raciais na política eleitoral brasileira](https://pp.nexojornal.com.br/linha-do-tempo/2024/04/26/acoes-afirmativas-raciais-na-politica-eleitoral-brasileira/)
 <!-- PP_LIST:END -->
 
