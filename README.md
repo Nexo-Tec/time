@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Uruguai e Argentina tentam se adaptar às enchentes](https://www.nexojornal.com.br/externo/2024/05/07/como-uruguai-e-argentina-tentam-se-adaptar-as-enchentes)
 - [Governo gaúcho emite alerta de tempestades no sul do estado](https://www.nexojornal.com.br/extra/2024/05/07/governo-emite-alerta-de-nova-tempestade-para-regiao-sul-do-rs)
 - [Tragédia gaúcha: o poder público, outra vez, apenas reagindo](https://www.nexojornal.com.br/expresso/2024/05/06/tragedia-gaucha-o-poder-publico-outra-vez-apenas-reagindo)
 - [Sem luz, sem água, sem casa: o drama dos gaúchos nas enchentes](https://www.nexojornal.com.br/podcast/2024/05/06/situacao-tragedia-rio-grande-do-sul-agua-luz-e-moradia)
 - [Como a ciência do esporte explica pessoas muito velozes](https://www.nexojornal.com.br/externo/2024/05/06/como-a-ciencia-do-esporte-explica-pessoas-muito-velozes)
-- [Um país essencial para alta tecnologia, mas afundado em guerra](https://www.nexojornal.com.br/expresso/2024/05/06/um-pais-essencial-para-alta-tecnologia-mas-afundado-em-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
