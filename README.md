@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por uma política nacional de lideranças do setor público](https://www.nexojornal.com.br/colunistas/2024/05/07/por-uma-politica-nacional-de-liderancas-do-setor-publico)
+- [A onda de mentiras que mina ações de ajuda aos gaúchos](https://www.nexojornal.com.br/expresso/2024/05/07/chuvas-rio-grande-do-sul-geram-desinformacao-fake-news)
+- [Como Israel encurrala Rafah sob a pressão de um cessar-fogo](https://www.nexojornal.com.br/expresso/2024/05/07/guerra-israel-encurrala-rafah)
+- [Democracia do Brasil é alvo de audiência do Congresso americano](https://www.nexojornal.com.br/extra/2024/05/07/brasil-e-tema-em-audiencia-no-congresso-dos-eua)
 - [As responsabilidades dos governos diante da tragédia gaúcha](https://www.nexojornal.com.br/expresso/2024/05/07/responsabilidade-governos-tragedia-rio-grande-do-sul)
-- [Eurovision: um festival musical entre hits e política](https://www.nexojornal.com.br/expresso/2024/05/07/festival-musical-eurovision-2024)
-- [O ‘dia a dia do golpe’ agora é minissérie do podcast ‘Politiquês’](https://www.nexojornal.com.br/podcast/2024/05/07/podcast-politiques-golpe-1964)
-- [Como os saques e a violência agravam a calamidade no RS](https://www.nexojornal.com.br/podcast/2024/05/07/chuvas-rio-grande-do-sul-violencia-e-saques)
-- [Por que museus estão repensando exposições de múmias](https://www.nexojornal.com.br/expresso/2024/05/07/por-que-museus-estao-repensando-exposicoes-de-mumias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
