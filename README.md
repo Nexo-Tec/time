@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Uma década de emergência ambiental no Rio Grande do Sul](https://www.nexojornal.com.br/externo/2024/05/08/uma-decada-de-emergencia-ambiental-no-rio-grande-do-sul)
 - [Por que a alta de casos de gripe aviária em mamíferos preocupa](https://www.nexojornal.com.br/expresso/2024/05/08/aumento-gripe-aviaria-em-mamiferos)
 - [Por uma política nacional de lideranças do setor público](https://www.nexojornal.com.br/colunistas/2024/05/07/por-uma-politica-nacional-de-liderancas-do-setor-publico)
 - [A onda de mentiras que mina ações de ajuda aos gaúchos](https://www.nexojornal.com.br/expresso/2024/05/07/chuvas-rio-grande-do-sul-geram-desinformacao-fake-news)
 - [Como Israel encurrala Rafah sob a pressão de um cessar-fogo](https://www.nexojornal.com.br/expresso/2024/05/07/guerra-israel-encurrala-rafah)
-- [Democracia do Brasil é alvo de audiência do Congresso americano](https://www.nexojornal.com.br/extra/2024/05/07/brasil-e-tema-em-audiencia-no-congresso-dos-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
