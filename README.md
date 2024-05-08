@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os atingidos pelas chuvas no RS são refugiados climáticos?](https://www.nexojornal.com.br/expresso/2024/05/08/refugiados-climaticos-rio-grande-do-sul)
+- [A geografia da tragédia no Rio Grande do Sul em mapas](https://www.nexojornal.com.br/grafico/2024/05/08/chuva-rio-grande-do-sul-enchente-tragedia-em-mapas)
 - [Dia a dia do golpe #1: da Central do Brasil à praça da Sé](https://www.nexojornal.com.br/podcast/2024/05/08/dia-a-dia-do-golpe-1-da-central-do-brasil-a-praca-da-se)
 - [Diante de todo o caos, aqui uma breve palavra final](https://www.nexojornal.com.br/colunistas/2024/05/08/diante-de-todo-o-caos-aqui-uma-breve-palavra-final)
 - [Como deputados do RS podem ajudar a piorar a crise do clima](https://www.nexojornal.com.br/externo/2024/05/08/como-deputados-do-rs-podem-ajudar-a-piorar-a-crise-do-clima)
-- [Uma década de emergência ambiental no Rio Grande do Sul](https://www.nexojornal.com.br/externo/2024/05/08/uma-decada-de-emergencia-ambiental-no-rio-grande-do-sul)
-- [Por que a alta de casos de gripe aviária em mamíferos preocupa](https://www.nexojornal.com.br/expresso/2024/05/08/aumento-gripe-aviaria-em-mamiferos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
