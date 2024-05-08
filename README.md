@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Irene Vida Gala](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-irene-vida-gala/)
 - [O caso do Porsche: medidas e suas incertezas](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/o-caso-do-porsche-medidas-e-suas-incertezas/)
 - [@jaljoshua](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jaljoshua/)
 - [Renata Silveira: “Minha rotina ficou mais pesada, tinha menos tempo para ficar com meu filho. Ter rede de apoio fez toda a diferença”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/narradora-de-futebol-renata-silveira-preconceito/)
 - [Evento preparatório do G20 discute imprensa e democracia](https://gamarevista.uol.com.br/sociedade/evento-preparatorio-do-g20-discute-imprensa-e-democracia/)
-- [A Invenção da Solidão](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-invencao-da-solidao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
