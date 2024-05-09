@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que as dark kitchens não pegaram nos EUA](https://www.nexojornal.com.br/expresso/2024/05/09/por-que-as-dark-kitchens-nao-pegaram-nos-eua)
 - [Produtora suspende venda de ingressos de Bruno Mars no Rio](https://www.nexojornal.com.br/extra/2024/05/09/produtora-bruno-mars-suspende-ingressos-rj)
 - [Número de mortos nas enchentes chega a 107 no Rio Grande do Sul](https://www.nexojornal.com.br/extra/2024/05/09/mortes-107-rio-grande-do-sul)
 - [Como Hungria e Sérvia se tornaram aliados europeus da China](https://www.nexojornal.com.br/expresso/2024/05/08/como-hungria-e-servia-se-tornaram-aliados-europeus-da-china)
 - [A influência do sorriso de políticos, segundo esta pesquisa](https://www.nexojornal.com.br/expresso/2024/05/08/a-influencia-do-sorriso-de-politicos-segundo-esta-pesquisa)
-- [Constelações de todas as cores surgem numa noite só](https://www.nexojornal.com.br/colunistas/2024/05/08/constelacoes-de-todas-as-cores-surgem-numa-noite-so)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
