@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carol Duarte](https://gamarevista.uol.com.br/pessoas/questionario-proust/carol-duarte/)
 - [Nas piores condições, o melhor da humanidade](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/nas-piores-condicoes-o-melhor-da-humanidade/)
 - [CV: Irene Vida Gala](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-irene-vida-gala/)
 - [O caso do Porsche: medidas e suas incertezas](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/o-caso-do-porsche-medidas-e-suas-incertezas/)
 - [@jaljoshua](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jaljoshua/)
-- [Renata Silveira: “Minha rotina ficou mais pesada, tinha menos tempo para ficar com meu filho. Ter rede de apoio fez toda a diferença”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/narradora-de-futebol-renata-silveira-preconceito/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
