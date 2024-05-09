@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Carol Duarte](https://gamarevista.uol.com.br/pessoas/questionario-proust/carol-duarte/)
-- [Nas piores condições, o melhor da humanidade](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/nas-piores-condicoes-o-melhor-da-humanidade/)
-- [CV: Irene Vida Gala](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-irene-vida-gala/)
-- [O caso do Porsche: medidas e suas incertezas](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/o-caso-do-porsche-medidas-e-suas-incertezas/)
-- [@jaljoshua](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jaljoshua/)
+- [Um papo profundo e bem-humorado com Fernanda Torres](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-papo-profundo-e-bem-humorado-com-fernanda-torres/)
+- [A reprise do show de Madonna no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-reprise-do-show-de-madonna-no-rio/)
+- [“Hasta El Final”, a despedida de Francisco, El Hombre](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/hasta-el-final-a-despedida-de-francisco-el-hombre/)
+- [Os efeitos do perfeccionismo em “A Armadilha da Perfeição”](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-efeitos-do-perfeccionismo-em-a-armadilha-da-perfeicao/)
+- [Teatro de Brasília nos palcos do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/teatro-de-brasilia-nos-palcos-do-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
