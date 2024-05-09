@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Hungria e Sérvia se tornaram aliados europeus da China](https://www.nexojornal.com.br/expresso/2024/05/08/como-hungria-e-servia-se-tornaram-aliados-europeus-da-china)
+- [A influência do sorriso de políticos, segundo esta pesquisa](https://www.nexojornal.com.br/expresso/2024/05/08/a-influencia-do-sorriso-de-politicos-segundo-esta-pesquisa)
+- [Constelações de todas as cores surgem numa noite só](https://www.nexojornal.com.br/undefined/2024/05/08/constelacoes-de-todas-as-cores-surgem-numa-noite-so)
 - [Fuga de Porto Alegre: a busca por água potável no colapso da cidade](https://www.nexojornal.com.br/podcast/2024/05/08/chuva-rio-grande-do-sul-porto-alegre-falta-agua-potavel)
 - [O que indica o corte menor de juros pelo Banco Central](https://www.nexojornal.com.br/expresso/2024/05/08/o-que-indica-o-corte-menor-de-juros-pelo-banco-central)
-- [Os atingidos pelas chuvas no RS são refugiados climáticos?](https://www.nexojornal.com.br/expresso/2024/05/08/refugiados-climaticos-rio-grande-do-sul)
-- [A geografia da tragédia no Rio Grande do Sul em mapas](https://www.nexojornal.com.br/grafico/2024/05/08/chuva-rio-grande-do-sul-enchente-tragedia-em-mapas)
-- [Dia a dia do golpe #1: da Central do Brasil à praça da Sé](https://www.nexojornal.com.br/podcast/2024/05/08/dia-a-dia-do-golpe-1-da-central-do-brasil-a-praca-da-se)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
