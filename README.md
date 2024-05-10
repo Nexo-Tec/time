@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Um mundo imenso’: como os animais percebem a realidade](https://www.nexojornal.com.br/estante-trechos/2024/05/10/um-mundo-imenso-como-os-animais-percebem-a-realidade)
 - [Para onde vai o dinheiro do Pix do governo gaúcho?](https://www.nexojornal.com.br/externo/2024/05/10/para-onde-vai-o-dinheiro-do-pix-do-governo-gaucho)
 - [Para além da mera vaidade](https://www.nexojornal.com.br/externo/2024/05/10/biopolitica-da-beleza)
 - [Um time que não perde: o recorde europeu do Bayer Leverkusen](https://www.nexojornal.com.br/expresso/2024/05/10/esporte-time-bayer-leverkusen-roma-bate-recorde-no-futebol-europeu)
 - [Quais medidas concretas foram tomadas contra Israel](https://www.nexojornal.com.br/expresso/2024/05/09/medidas-contra-israel-guerra)
-- [Maioria liga tragédia no Sul com crise climática, diz pesquisa](https://www.nexojornal.com.br/extra/2024/05/09/maioria-liga-tragedia-sul-crise-climatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
