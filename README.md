@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O impacto do estigma para a saúde mental de crianças e adolescentes](https://gamarevista.uol.com.br/formato/reportagem/o-impacto-do-estigma-para-a-saude-mental-de-criancas-e-adolescentes/)
 - [Assim Nasceu uma Língua](https://gamarevista.uol.com.br/cultura/trecho-de-livro/assim-nasceu-uma-lingua/)
 - [A esposa tradicional é uma trend e isso é um problema](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-esposa-tradicional-e-uma-trend-e-isso-e-um-problema/)
 - [Um papo profundo e bem-humorado com Fernanda Torres](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-papo-profundo-e-bem-humorado-com-fernanda-torres/)
 - [A reprise do show de Madonna no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-reprise-do-show-de-madonna-no-rio/)
-- [“Hasta El Final”, a despedida de Francisco, El Hombre](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/hasta-el-final-a-despedida-de-francisco-el-hombre/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
