@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [‘Um mundo imenso’: como os animais percebem a realidade](https://www.nexojornal.com.br/estante-trechos/2024/05/10/um-mundo-imenso-como-os-animais-percebem-a-realidade)
-- [Para onde vai o dinheiro do Pix do governo gaúcho?](https://www.nexojornal.com.br/externo/2024/05/10/para-onde-vai-o-dinheiro-do-pix-do-governo-gaucho)
-- [Para além da mera vaidade](https://www.nexojornal.com.br/externo/2024/05/10/biopolitica-da-beleza)
-- [Um time que não perde: o recorde europeu do Bayer Leverkusen](https://www.nexojornal.com.br/expresso/2024/05/10/esporte-time-bayer-leverkusen-roma-bate-recorde-no-futebol-europeu)
-- [Quais medidas concretas foram tomadas contra Israel](https://www.nexojornal.com.br/expresso/2024/05/09/medidas-contra-israel-guerra)
+- [A dimensão do desastre gaúcho. O cerco a Rafah. E mais](https://www.nexojornal.com.br/video/2024/05/10/chuva-rio-grande-do-sul-enchente-resumo-da-semana)
+- [Marcélia Cartaxo: ‘Eu estava fresquinha assim como Macabéa’](https://www.nexojornal.com.br/entrevista/2024/05/10/marcelia-cartaxo-eu-estava-fresquinha-assim-como-macabea)
+- [Chuvas voltam e número de mortos no RS chega a 116](https://www.nexojornal.com.br/extra/2024/05/10/novas-chuvas-no-rio-grande-do-sul)
+- [As diferenças entre R e QGIS para trabalhar com mapas](https://www.nexojornal.com.br/grafico/2024/05/10/diferencas-r-qgis-mapas)
+- [5 livros para se guiar na gravidez e na maternidade](https://www.nexojornal.com.br/estante-favoritos/2024/05/10/5-livros-para-se-guiar-na-gravidez-e-na-maternidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
