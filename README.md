@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Assim Nasceu uma Língua](https://gamarevista.uol.com.br/cultura/trecho-de-livro/assim-nasceu-uma-lingua/)
+- [A esposa tradicional é uma trend e isso é um problema](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/a-esposa-tradicional-e-uma-trend-e-isso-e-um-problema/)
 - [Um papo profundo e bem-humorado com Fernanda Torres](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-papo-profundo-e-bem-humorado-com-fernanda-torres/)
 - [A reprise do show de Madonna no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-reprise-do-show-de-madonna-no-rio/)
 - [“Hasta El Final”, a despedida de Francisco, El Hombre](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/hasta-el-final-a-despedida-de-francisco-el-hombre/)
-- [Os efeitos do perfeccionismo em “A Armadilha da Perfeição”](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-efeitos-do-perfeccionismo-em-a-armadilha-da-perfeicao/)
-- [Teatro de Brasília nos palcos do Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/teatro-de-brasilia-nos-palcos-do-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
