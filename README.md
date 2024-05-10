@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais medidas concretas foram tomadas contra Israel](https://www.nexojornal.com.br/expresso/2024/05/09/medidas-contra-israel-guerra)
+- [Maioria liga tragédia no Sul com crise climática, diz pesquisa](https://www.nexojornal.com.br/extra/2024/05/09/maioria-liga-tragedia-sul-crise-climatica)
 - [O papel das mulheres no combate à covid-19 na zona rural](https://www.nexojornal.com.br/academico/2024/05/09/o-papel-das-mulheres-no-combate-a-covid-19-na-zona-rural)
 - [A crise sanitária que pode vir das cheias no Rio Grande do Sul](https://www.nexojornal.com.br/expresso/2024/05/09/problemas-saude-enchentes-rio-grande-do-sul)
 - [Seres humanos e inteligência artificial: quem está no controle?](https://www.nexojornal.com.br/colunistas/2024/05/09/seres-humanos-e-inteligencia-artificial-quem-esta-no-controle)
-- [Por que o resgate de animais em tragédias causa comoção](https://www.nexojornal.com.br/expresso/2024/05/09/resgate-de-pets-e-animais-enchente-rio-grande-do-sul)
-- [O descaso político com a prevenção de desastres no Brasil](https://www.nexojornal.com.br/podcast/2024/05/09/brasil-prevencao-de-desastres-naturais-descaso-na-politica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
