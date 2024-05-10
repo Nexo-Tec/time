@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um time que não perde: o recorde europeu do Bayer Leverkusen](https://www.nexojornal.com.br/expresso/2024/05/10/esporte-time-bayer-leverkusen-roma-bate-recorde-no-futebol-europeu)
 - [Quais medidas concretas foram tomadas contra Israel](https://www.nexojornal.com.br/expresso/2024/05/09/medidas-contra-israel-guerra)
 - [Maioria liga tragédia no Sul com crise climática, diz pesquisa](https://www.nexojornal.com.br/extra/2024/05/09/maioria-liga-tragedia-sul-crise-climatica)
 - [O papel das mulheres no combate à covid-19 na zona rural](https://www.nexojornal.com.br/academico/2024/05/09/o-papel-das-mulheres-no-combate-a-covid-19-na-zona-rural)
 - [A crise sanitária que pode vir das cheias no Rio Grande do Sul](https://www.nexojornal.com.br/expresso/2024/05/09/problemas-saude-enchentes-rio-grande-do-sul)
-- [Seres humanos e inteligência artificial: quem está no controle?](https://www.nexojornal.com.br/colunistas/2024/05/09/seres-humanos-e-inteligencia-artificial-quem-esta-no-controle)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
