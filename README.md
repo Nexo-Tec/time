@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tempestade solar provoca auroras que viralizam nas redes](https://www.nexojornal.com.br/extra/2024/05/11/tempestade-solar-provoca-auroras-que-viralizam-nas-redes)
 - [Por que animal selvagem não é animal de estimação](https://www.nexojornal.com.br/externo/2024/05/10/por-que-animal-selvagem-nao-e-animal-de-estimacao)
 - [O que se sabe sobre multas e restrições a caminhões de ajuda](https://www.nexojornal.com.br/externo/2024/05/10/o-que-se-sabe-sobre-multas-e-restricoes-a-caminhoes-no-rs)
 - [A devastação na economia do RS. E as ações para reerguê-la](https://www.nexojornal.com.br/expresso/2024/05/10/economia-rio-grande-do-sul-apos-enchente)
 - [Assembleia-Geral da ONU concede novos direitos à Palestina](https://www.nexojornal.com.br/extra/2024/05/10/onu-da-direitos-para-a-palestina)
-- [A dimensão do desastre gaúcho. O cerco a Rafah. E mais](https://www.nexojornal.com.br/video/2024/05/10/chuva-rio-grande-do-sul-enchente-resumo-da-semana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
