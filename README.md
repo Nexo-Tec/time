@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com mais chuva, sobe para 143 o número de mortos no RS](https://www.nexojornal.com.br/extra/2024/05/12/com-mais-chuva-sobe-para-143-o-numero-de-mortos-no-rs)
 - [Os relatos de gaúchos que vivem a tragédia climática](https://www.nexojornal.com.br/expresso/2024/05/11/gauchos-tragedia-climatica)
 - [Qual cidade será a próxima? Grandes e pequenos desastres](https://www.nexojornal.com.br/ensaio/2024/05/11/grandes-e-pequenos-desastres-urbanos)
 - [‘Ideia de Brasil como República de Bananas tem eco nos EUA’](https://www.nexojornal.com.br/expresso/2024/05/11/fabio-sa-e-silva-fala-do-lobby-da-extrema-direita-americana-sobre-brasil)
 - [O que mudou nas letras das músicas em inglês em 50 anos](https://www.nexojornal.com.br/expresso/2024/05/11/o-que-mudou-nas-letras-das-musicas-em-ingles-em-50-anos)
-- [Um transplante de órgão pode mudar a sua personalidade?](https://www.nexojornal.com.br/externo/2024/05/11/um-transplante-de-orgao-pode-mudar-a-sua-personalidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
