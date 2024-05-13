@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bom, mas não ideal: os gastos públicos federais em 2023](https://www.nexojornal.com.br/ensaio/2024/05/12/gastos-publicos-federais-em-2023)
+- [Acordo à vista: o histórico de discórdia sobre a usina de Itaipu](https://www.nexojornal.com.br/externo/2024/05/12/acordo-a-vista-o-historico-de-discordia-sobre-a-usina-de-itaipu)
+- [Os paralelos entre o Furacão Katrina e a tragédia no Sul](https://www.nexojornal.com.br/expresso/2024/05/12/furacao-katrina-chuvas-rio-grande-do-sul)
+- [Nível do Guaíba pode bater novo recorde e chegar a 5,5 metros](https://www.nexojornal.com.br/extra/2024/05/12/nivel-do-guaiba-pode-bater-novo-recorde-e-chegar-a-55-metros)
 - [Aos 39 anos morre Amália Barros, deputada federal do PL](https://www.nexojornal.com.br/extra/2024/05/12/aos-39-anos-morre-amalia-barros-deputada-federal-do-pl)
-- [Com mais chuva, sobe para 143 o número de mortos no RS](https://www.nexojornal.com.br/extra/2024/05/12/com-mais-chuva-sobe-para-143-o-numero-de-mortos-no-rs)
-- [Os relatos de gaúchos que vivem a tragédia climática](https://www.nexojornal.com.br/expresso/2024/05/11/gauchos-tragedia-climatica)
-- [Qual cidade será a próxima? Grandes e pequenos desastres](https://www.nexojornal.com.br/ensaio/2024/05/11/grandes-e-pequenos-desastres-urbanos)
-- [‘Ideia de Brasil como República de Bananas tem eco nos EUA’](https://www.nexojornal.com.br/expresso/2024/05/11/fabio-sa-e-silva-fala-do-lobby-da-extrema-direita-americana-sobre-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
