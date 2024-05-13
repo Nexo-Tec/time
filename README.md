@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desenvolvimento urbano sustentável: uma agenda que conecta o global ao local](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/13/desenvolvimento-urbano-sustentavel-uma-agenda-que-conecta-o-global-ao-local/)
+- [Qualidade na Atenção Primária à Saúde](https://pp.nexojornal.com.br/glossario/2024/05/13/qualidade-na-atencao-primaria-a-saude/)
+- [Métodos para o estudo da discriminação, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/13/metodos-para-o-estudo-da-discriminacao-em-6-pontos/)
+- [Da biopolítica à necrogovernamentalidade](https://pp.nexojornal.com.br/glossario/2024/05/13/da-biopolitica-a-necrogovernamentalidade/)
 - [Sistemas alimentares no centro da agenda municipal](https://pp.nexojornal.com.br/opiniao/2024/05/10/sistemas-alimentares-no-centro-da-agenda-municipal/)
-- [O papel dos territórios na gestão e experiência do envelhecimento no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/08/o-papel-dos-territorios-na-gestao-e-experiencia-do-envelhecimento-no-brasil/)
-- [Saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/glossario/2024/05/07/saude-mental-de-criancas-e-adolescentes/)
-- [O conceito de ‘racialização’](https://pp.nexojornal.com.br/bibliografia-basica/2024/05/07/5-textos-para-saber-mais-sobre-o-conceito-de-racializacao/)
-- [Os sobre-educados no mercado de trabalho brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/07/os-sobre-educados-no-mercado-de-trabalho-brasileiro/)
 <!-- PP_LIST:END -->
 
