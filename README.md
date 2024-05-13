@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Anitta perde milhares de seguidores por clipe sobre candomblé](https://www.nexojornal.com.br/extra/2024/05/13/anitta-perde-seguidores-candomble)
 - [Estas são 6 facetas da carreira de Paulo César Pereio](https://www.nexojornal.com.br/expresso/2024/05/13/estas-sao-6-facetas-da-carreira-de-paulo-cesar-pereio)
 - [Sob alerta de chuva, Caxias do Sul registra tremores de terra](https://www.nexojornal.com.br/extra/2024/05/13/tremor-caxias-do-sul)
 - [55% acham que Lula não merece reeleição, segundo Quaest](https://www.nexojornal.com.br/extra/2024/05/13/quaest-lula-reeleicao)
 - [Bom, mas não ideal: os gastos públicos federais em 2023](https://www.nexojornal.com.br/ensaio/2024/05/12/gastos-publicos-federais-em-2023)
-- [Acordo à vista: o histórico de discórdia sobre a usina de Itaipu](https://www.nexojornal.com.br/externo/2024/05/12/acordo-a-vista-o-historico-de-discordia-sobre-a-usina-de-itaipu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
