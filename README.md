@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a língua portuguesa veio do galego, não do latim](https://www.nexojornal.com.br/expresso/2024/05/14/por-que-o-portugues-nasceu-do-galego)
+- [Os laços da Brasil Paralelo com o vice de Porto Alegre](https://www.nexojornal.com.br/externo/2024/05/14/os-lacos-da-brasil-paralelo-com-o-vice-de-porto-alegre)
 - [Escritora Alice Munro, ganhadora do Nobel, morre aos 92 anos](https://www.nexojornal.com.br/extra/2024/05/14/morre-escritora-alice-munro)
 - [Alicia Kowaltowski vai receber prêmio ‘Para Mulheres na Ciência’](https://www.nexojornal.com.br/extra/2024/05/14/alicia-kowaltowski-mulheres-na-ciencia)
 - [A principal lição de um desastre está na própria política](https://www.nexojornal.com.br/colunistas/2024/05/14/a-principal-licao-de-um-desastre-esta-na-propria-politica)
-- [Como a natureza pode ajudar a combater extremos do clima](https://www.nexojornal.com.br/expresso/2024/05/14/natureza-combate-eventos-extremos)
-- [Troca no comando: o momento da Rússia na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/05/13/putin-troca-ministro-defesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
