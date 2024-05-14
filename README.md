@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Projeto Du Bois/Núcleo Afro-Cebrap](https://pp.nexojornal.com.br/index/2024/05/14/projeto-du-bois-nucleo-afro-cebrap/)
 - [Desenvolvimento urbano sustentável: uma agenda que conecta o global ao local](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/13/desenvolvimento-urbano-sustentavel-uma-agenda-que-conecta-o-global-ao-local/)
 - [Qualidade na Atenção Primária à Saúde](https://pp.nexojornal.com.br/glossario/2024/05/13/qualidade-na-atencao-primaria-a-saude/)
 - [Métodos para o estudo da discriminação, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/13/metodos-para-o-estudo-da-discriminacao-em-6-pontos/)
 - [Da biopolítica à necrogovernamentalidade](https://pp.nexojornal.com.br/glossario/2024/05/13/da-biopolitica-a-necrogovernamentalidade/)
-- [Sistemas alimentares no centro da agenda municipal](https://pp.nexojornal.com.br/opiniao/2024/05/10/sistemas-alimentares-no-centro-da-agenda-municipal/)
 <!-- PP_LIST:END -->
 
