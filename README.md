@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Troca no comando: o momento da Rússia na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/05/13/putin-troca-ministro-defesa)
+- [MEC divulga calendário do Enem 2024. Veja datas](https://www.nexojornal.com.br/extra/2024/05/13/calendario-enem-2024)
 - [A suspensão do pagamento da dívida do Rio Grande do Sul](https://www.nexojornal.com.br/podcast/2024/05/13/divida-do-rs-com-a-uniao-suspensao)
 - [Carlos Augusto Monteiro: o excesso de peso como o novo normal](https://www.nexojornal.com.br/externo/2024/05/13/carlos-augusto-monteiro-o-excesso-de-peso-como-o-novo-normal)
 - [Como Gaza impulsiona um blockout contra celebridades nas redes](https://www.nexojornal.com.br/expresso/2024/05/13/blockout-celebridades-gaza)
-- [Anitta perde milhares de seguidores por clipe sobre candomblé](https://www.nexojornal.com.br/extra/2024/05/13/anitta-perde-seguidores-candomble)
-- [Estas são 6 facetas da carreira de Paulo César Pereio](https://www.nexojornal.com.br/expresso/2024/05/13/estas-sao-6-facetas-da-carreira-de-paulo-cesar-pereio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
