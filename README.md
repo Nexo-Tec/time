@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Alicia Kowaltowski vai receber prêmio ‘Para Mulheres na Ciência’](https://www.nexojornal.com.br/extra/2024/05/14/alicia-kowaltowski-mulheres-na-ciencia)
 - [A principal lição de um desastre está na própria política](https://www.nexojornal.com.br/colunistas/2024/05/14/a-principal-licao-de-um-desastre-esta-na-propria-politica)
 - [Como a natureza pode ajudar a combater extremos do clima](https://www.nexojornal.com.br/expresso/2024/05/14/natureza-combate-eventos-extremos)
 - [Troca no comando: o momento da Rússia na guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/05/13/putin-troca-ministro-defesa)
 - [MEC divulga calendário do Enem 2024. Veja datas](https://www.nexojornal.com.br/extra/2024/05/13/calendario-enem-2024)
-- [A suspensão do pagamento da dívida do Rio Grande do Sul](https://www.nexojornal.com.br/podcast/2024/05/13/divida-do-rs-com-a-uniao-suspensao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
