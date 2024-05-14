@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As propostas para os desabrigados pelas cheias gaúchas](https://www.nexojornal.com.br/podcast/2024/05/14/rio-grande-do-sul-enchente-desabrigados-solucao)
 - [Veja a variação de nível do lago Guaíba em Porto Alegre](https://www.nexojornal.com.br/grafico/2024/05/14/nivel-guaiba-porto-alegre)
 - [Por que a língua portuguesa veio do galego, não do latim](https://www.nexojornal.com.br/expresso/2024/05/14/por-que-o-portugues-nasceu-do-galego)
 - [Os laços da Brasil Paralelo com o vice de Porto Alegre](https://www.nexojornal.com.br/externo/2024/05/14/os-lacos-da-brasil-paralelo-com-o-vice-de-porto-alegre)
 - [Escritora Alice Munro, ganhadora do Nobel, morre aos 92 anos](https://www.nexojornal.com.br/extra/2024/05/14/morre-escritora-alice-munro)
-- [Alicia Kowaltowski vai receber prêmio ‘Para Mulheres na Ciência’](https://www.nexojornal.com.br/extra/2024/05/14/alicia-kowaltowski-mulheres-na-ciencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
