@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rio Grande do Sul tem frio recorde após recuo das chuvas](https://www.nexojornal.com.br/extra/2024/05/15/rio-grande-do-sul-frio-recorde-chuvas)
 - [Dia a dia do golpe #2: marinheiros nas fileiras de Jango](https://www.nexojornal.com.br/podcast/2024/05/15/ditadura-militar-brasil-1964-revolta-dos-marinheiros)
 - [Primeiro-ministro da Eslováquia é baleado em ataque na rua](https://www.nexojornal.com.br/extra/2024/05/15/primeiro-ministro-eslovaquia-baleado)
 - [Como estudantes percebem o oceano, segundo esta pesquisa](https://www.nexojornal.com.br/expresso/2024/05/15/estudantes-oceano-pesquisa)
 - [Lula demite Jean Paul Prates da presidência da Petrobras](https://www.nexojornal.com.br/extra/2024/05/14/lula-demite-jean-paul-prates-da-presidencia-da-petrobras)
-- [Hiroo Onoda e as pandemias sem fim](https://www.nexojornal.com.br/colunistas/2024/05/14/hiroo-onoda-e-as-pandemias-sem-fim)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
