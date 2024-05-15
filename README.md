@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sobre Desistir](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sobre-desistir/)
 - [@maze_txt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/maze_txt/)
 - [Doce à base de merengue com frutas cítricas](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/doce-a-base-de-merengue-com-frutas-citricas/)
 - [Felipe Fortes: “O abuso de telas é o grande tema da parentalidade contemporânea”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/felipe-fortes-hebiatra-abuso-de-telas-adolescentes/)
 - [O impacto do estigma para a saúde mental de crianças e adolescentes](https://gamarevista.uol.com.br/formato/reportagem/o-impacto-do-estigma-para-a-saude-mental-de-criancas-e-adolescentes/)
-- [Assim Nasceu uma Língua](https://gamarevista.uol.com.br/cultura/trecho-de-livro/assim-nasceu-uma-lingua/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
