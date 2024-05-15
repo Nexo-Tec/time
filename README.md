@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Comunicação ruim: quando governantes confundem o público](https://www.nexojornal.com.br/podcast/2024/05/15/enchente-rio-grande-do-sul-posicionamento-confuso-governo)
 - [A carreira de John Krasinski e Steve Carell após ‘The Office’](https://www.nexojornal.com.br/expresso/2024/05/15/steve-carell-e-john-krasinski-carreira-apos-the-office)
 - [Governo Lula anuncia Pix de R$ 5.100 para famílias gaúchas](https://www.nexojornal.com.br/extra/2024/05/15/lula-pix-r-5-100-familias-rs)
 - [Como rótulos podem afetar a personalidade de crianças](https://www.nexojornal.com.br/externo/2024/05/15/como-rotulos-podem-afetar-a-personalidade-de-criancas)
 - [Rio Grande do Sul tem frio recorde após recuo das chuvas](https://www.nexojornal.com.br/extra/2024/05/15/rio-grande-do-sul-frio-recorde-chuvas)
-- [Dia a dia do golpe #2: marinheiros nas fileiras de Jango](https://www.nexojornal.com.br/podcast/2024/05/15/ditadura-militar-brasil-1964-revolta-dos-marinheiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
