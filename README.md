@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Hiroo Onoda e as pandemias sem fim](https://www.nexojornal.com.br/colunistas/2024/05/14/hiroo-onoda-e-as-pandemias-sem-fim)
+- [O que a cisão do Banco Central projeta para o futuro](https://www.nexojornal.com.br/expresso/2024/05/14/o-que-a-cisao-do-banco-central-projeta-para-o-futuro)
+- [Como a Geórgia cerca ONGs e mídia para se alinhar à Rússia](https://www.nexojornal.com.br/expresso/2024/05/14/protestos-na-georgia-populacao-contra-projeto-de-lei-sobre-influencia-estrangeira)
+- [Vítimas da tragédia em Brumadinho doam R$ 2,2 milhões ao RS](https://www.nexojornal.com.br/extra/2024/05/14/vitimas-de-brumadinho-doam-para-rio-grande-do-sul)
 - [As propostas para os desabrigados pelas cheias gaúchas](https://www.nexojornal.com.br/podcast/2024/05/14/rio-grande-do-sul-enchente-desabrigados-solucao)
-- [Veja a variação de nível do lago Guaíba em Porto Alegre](https://www.nexojornal.com.br/grafico/2024/05/14/nivel-guaiba-porto-alegre)
-- [Por que a língua portuguesa veio do galego, não do latim](https://www.nexojornal.com.br/expresso/2024/05/14/por-que-o-portugues-nasceu-do-galego)
-- [Os laços da Brasil Paralelo com o vice de Porto Alegre](https://www.nexojornal.com.br/externo/2024/05/14/os-lacos-da-brasil-paralelo-com-o-vice-de-porto-alegre)
-- [Escritora Alice Munro, ganhadora do Nobel, morre aos 92 anos](https://www.nexojornal.com.br/extra/2024/05/14/morre-escritora-alice-munro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
