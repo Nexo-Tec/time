@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como estudantes percebem o oceano, segundo esta pesquisa](https://www.nexojornal.com.br/expresso/2024/05/15/estudantes-oceano-pesquisa)
 - [Lula demite Jean Paul Prates da presidência da Petrobras](https://www.nexojornal.com.br/extra/2024/05/14/lula-demite-jean-paul-prates-da-presidencia-da-petrobras)
 - [Hiroo Onoda e as pandemias sem fim](https://www.nexojornal.com.br/colunistas/2024/05/14/hiroo-onoda-e-as-pandemias-sem-fim)
 - [O que a cisão do Banco Central projeta para o futuro](https://www.nexojornal.com.br/expresso/2024/05/14/o-que-a-cisao-do-banco-central-projeta-para-o-futuro)
 - [Como a Geórgia cerca ONGs e mídia para se alinhar à Rússia](https://www.nexojornal.com.br/expresso/2024/05/14/protestos-na-georgia-populacao-contra-projeto-de-lei-sobre-influencia-estrangeira)
-- [Vítimas da tragédia em Brumadinho doam R$ 2,2 milhões ao RS](https://www.nexojornal.com.br/extra/2024/05/14/vitimas-de-brumadinho-doam-para-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
