@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Sobre Desistir](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sobre-desistir/)
-- [@maze_txt](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/maze_txt/)
-- [Doce à base de merengue com frutas cítricas](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/doce-a-base-de-merengue-com-frutas-citricas/)
-- [Felipe Fortes: “O abuso de telas é o grande tema da parentalidade contemporânea”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/felipe-fortes-hebiatra-abuso-de-telas-adolescentes/)
-- [O impacto do estigma para a saúde mental de crianças e adolescentes](https://gamarevista.uol.com.br/formato/reportagem/o-impacto-do-estigma-para-a-saude-mental-de-criancas-e-adolescentes/)
+- [Débora Falabella em “Prima Facie”, no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debora-falabella-em-prima-facie-no-rio/)
+- [Cat Power e Pavement no C6 e Léo Santana na Virada Cultural, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cat-power-e-pavement-no-c6-e-leo-santana-na-virada-cultural-em-sp/)
+- [Cotidiano e intimidade nas telas de Marina Quintanilha](https://gamarevista.uol.com.br/achamos-que-vale/ir/cotidiano-e-intimidade-nas-telas-de-marina-quintanilha/)
+- [Um relato impactante sobre ver a casa inundada](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-impactante-sobre-ver-a-casa-inundada/)
+- [Festival gastronômico e cursos em prol de jovens com câncer em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-gastronomico-e-cursos-em-prol-de-jovens-com-cancer-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
