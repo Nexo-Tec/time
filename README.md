@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Destruição, sujeira e doenças: o cenário depois de a água baixar](https://www.nexojornal.com.br/podcast/2024/05/16/destruicao-sujeira-e-doencas-enchente-rio-grande-do-sul-o-que-sobrou)
+- [Anvisa endurece regras para prescrição de zolpidem](https://www.nexojornal.com.br/extra/2024/05/16/anvisa-regras-zolpidem)
 - [Chegaram os cursos de gráficos do Nexo](https://www.nexojornal.com.br/cursos/2024/05/16/curso-grafico-como-fazer)
 - [Como o ativismo ambiental permeia os passos de Billie Eilish](https://www.nexojornal.com.br/expresso/2024/05/16/como-o-ativismo-ambiental-permeia-os-passos-de-billie-eilish)
 - [Nível da Lagoa dos Patos sobe e causa mais danos no RS](https://www.nexojornal.com.br/extra/2024/05/16/nivel-lagoa-dos-patos-danos)
-- [A visão da filosofia sobre o que é um trabalho significativo](https://www.nexojornal.com.br/externo/2024/05/16/a-visao-da-filosofia-sobre-o-que-e-um-trabalho-significativo)
-- [O código de conduta da Suprema Corte dos EUA. E o caso do Brasil](https://www.nexojornal.com.br/expresso/2024/05/16/o-codigo-de-conduta-da-suprema-corte-dos-eua-e-o-caso-do-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
