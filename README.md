@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Chegaram os cursos de gráficos do Nexo](https://www.nexojornal.com.br/cursos/2024/05/16/curso-grafico-como-fazer)
+- [Como o ativismo ambiental permeia os passos de Billie Eilish](https://www.nexojornal.com.br/expresso/2024/05/16/como-o-ativismo-ambiental-permeia-os-passos-de-billie-eilish)
+- [Nível da Lagoa dos Patos sobe e causa mais danos no RS](https://www.nexojornal.com.br/extra/2024/05/16/nivel-lagoa-dos-patos-danos)
 - [A visão da filosofia sobre o que é um trabalho significativo](https://www.nexojornal.com.br/externo/2024/05/16/a-visao-da-filosofia-sobre-o-que-e-um-trabalho-significativo)
 - [O código de conduta da Suprema Corte dos EUA. E o caso do Brasil](https://www.nexojornal.com.br/expresso/2024/05/16/o-codigo-de-conduta-da-suprema-corte-dos-eua-e-o-caso-do-brasil)
-- [Em menos de 24 horas, morrem três ícones da imprensa esportiva](https://www.nexojornal.com.br/extra/2024/05/16/antero-greco-silvio-luiz-apolinho-morreu)
-- [Qual a situação do Pampa, bioma típico do Rio Grande do Sul](https://www.nexojornal.com.br/expresso/2024/05/15/pampa-bioma-rio-grande-do-sul-situacao-enchente)
-- [Quem é a nova chefe da Petrobras. E o que a troca sinaliza](https://www.nexojornal.com.br/expresso/2024/05/15/quem-e-magda-chambriard-a-nova-presidente-da-petrobras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
