@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Em menos de 24 horas, morrem três ícones da imprensa esportiva](https://www.nexojornal.com.br/extra/2024/05/16/antero-greco-silvio-luiz-apolinho-morreu)
 - [Qual a situação do Pampa, bioma típico do Rio Grande do Sul](https://www.nexojornal.com.br/expresso/2024/05/15/pampa-bioma-rio-grande-do-sul-situacao-enchente)
 - [Quem é a nova chefe da Petrobras. E o que a troca sinaliza](https://www.nexojornal.com.br/expresso/2024/05/15/quem-e-magda-chambriard-a-nova-presidente-da-petrobras)
 - [STJ torna governador do Acre réu por corrupção](https://www.nexojornal.com.br/extra/2024/05/15/stj-governador-acre-corrupcao)
 - [Por que não haverá ‘bolsonarismo moderado’](https://www.nexojornal.com.br/colunistas/2024/05/15/por-que-nao-havera-bolsonarismo-moderado)
-- [O impacto da Lei do Feminicídio nas redes sociais](https://www.nexojornal.com.br/academico/2024/05/15/o-impacto-da-lei-do-feminicidio-nas-redes-sociais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
