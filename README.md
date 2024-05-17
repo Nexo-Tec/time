@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Brasil não consegue reduzir o abuso infantil](https://www.nexojornal.com.br/expresso/2024/05/17/politicas-publicas-contra-abuso-infantil-no-brasil)
+- [O sentido político e social do cabelo nesta exposição australiana](https://www.nexojornal.com.br/expresso/2024/05/17/o-sentido-politico-e-social-do-cabelo-nesta-exposicao-australiana)
+- [O auxílio para os desabrigados. A troca na Petrobras. E mais](https://www.nexojornal.com.br/video/2024/05/17/enchente-rio-grande-do-sul-resposta-do-governo)
 - [‘Respeito ao povo do garimpo’: a comissão Yanomami na Câmara](https://www.nexojornal.com.br/externo/2024/05/17/respeito-ao-povo-do-garimpo-a-comissao-yanomami-na-camara)
 - [5 livros imprescindíveis da poesia contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/05/17/5-livros-imprescindiveis-da-poesia-contemporanea)
-- [‘O homem não existe’: a construção do masculino na literatura](https://www.nexojornal.com.br/estante-trechos/2024/05/17/o-homem-nao-existe-a-construcao-do-masculino-na-literatura)
-- [Tenniscore: a tendência de moda promovida por ‘Rivais’](https://www.nexojornal.com.br/expresso/2024/05/17/moda-filme-rivais-cria-tendencia-tenniscore)
-- [Leite anuncia auxílio de R$ 2.500 a famílias em pobreza extrema](https://www.nexojornal.com.br/extra/2024/05/17/familias-do-rio-grande-do-sul-auxilio-2500)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
