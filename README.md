@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A situação do analfabetismo no Brasil em 6 gráficos](https://www.nexojornal.com.br/grafico/2024/05/17/analfabetismo-no-brasil-grafico)
 - [A segurança pública e as mudanças climáticas](https://www.nexojornal.com.br/debate/2024/05/17/a-seguranca-publica-e-as-mudancas-climaticas)
 - [Brasil vai sediar Copa do Mundo Feminina de futebol em 2027](https://www.nexojornal.com.br/extra/2024/05/17/brasil-sede-da-copa-do-mundo-feminina-de-futebol-2027)
 - [Megacachês e pouca divulgação: a Virada Cultural em 2024](https://www.nexojornal.com.br/expresso/2024/05/17/virada-cultural-2024-sao-paulo-critica)
 - [O que há e o que não há na nova secretaria de Paulo Pimenta](https://www.nexojornal.com.br/expresso/2024/05/16/rio-grande-do-sul-novo-ministerio-paulo-pimenta-ministro-extraordinario)
-- [Por que a França decretou emergência na Nova Caledônia](https://www.nexojornal.com.br/expresso/2024/05/16/nova-caledonia-franca-estado-de-emergencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
