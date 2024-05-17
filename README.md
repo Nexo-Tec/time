@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Respeito ao povo do garimpo’: a comissão Yanomami na Câmara](https://www.nexojornal.com.br/externo/2024/05/17/respeito-ao-povo-do-garimpo-a-comissao-yanomami-na-camara)
+- [5 livros imprescindíveis da poesia contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/05/17/5-livros-imprescindiveis-da-poesia-contemporanea)
+- [‘O homem não existe’: a construção do masculino na literatura](https://www.nexojornal.com.br/estante-trechos/2024/05/17/o-homem-nao-existe-a-construcao-do-masculino-na-literatura)
+- [Tenniscore: a tendência de moda promovida por ‘Rivais’](https://www.nexojornal.com.br/expresso/2024/05/17/moda-filme-rivais-cria-tendencia-tenniscore)
 - [Leite anuncia auxílio de R$ 2.500 a famílias em pobreza extrema](https://www.nexojornal.com.br/extra/2024/05/17/familias-do-rio-grande-do-sul-auxilio-2500)
-- [A situação do analfabetismo no Brasil em 6 gráficos](https://www.nexojornal.com.br/grafico/2024/05/17/analfabetismo-no-brasil-grafico)
-- [O que realmente aconteceu nas chuvas do Maranhão](https://www.nexojornal.com.br/externo/2024/05/17/o-que-realmente-aconteceu-nas-chuvas-do-maranhao)
-- [Brasil vai sediar Copa do Mundo Feminina de futebol em 2027](https://www.nexojornal.com.br/extra/2024/05/17/brasil-sede-da-copa-do-mundo-feminina-de-futebol-2027)
-- [Megacachês e pouca divulgação: a Virada Cultural em 2024](https://www.nexojornal.com.br/expresso/2024/05/17/virada-cultural-2024-sao-paulo-critica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
