@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que há e o que não há na nova secretaria de Paulo Pimenta](https://www.nexojornal.com.br/expresso/2024/05/16/rio-grande-do-sul-novo-ministerio-paulo-pimenta-ministro-extraordinario)
+- [Por que a França decretou emergência na Nova Caledônia](https://www.nexojornal.com.br/expresso/2024/05/16/nova-caledonia-franca-estado-de-emergencia)
 - [André Mendonça é eleito para vaga no TSE e elogia Moraes](https://www.nexojornal.com.br/extra/2024/05/16/andre-mendonca-tse-alexandre-de-moraes)
 - [Destruição, sujeira e doenças: o cenário depois de a água baixar](https://www.nexojornal.com.br/podcast/2024/05/16/destruicao-sujeira-e-doencas-enchente-rio-grande-do-sul-o-que-sobrou)
 - [Anvisa endurece regras para prescrição de zolpidem](https://www.nexojornal.com.br/extra/2024/05/16/anvisa-regras-zolpidem)
-- [Chegaram os cursos de gráficos do Nexo](https://www.nexojornal.com.br/cursos/2024/05/16/curso-grafico-como-fazer)
-- [Como o ativismo ambiental permeia os passos de Billie Eilish](https://www.nexojornal.com.br/expresso/2024/05/16/como-o-ativismo-ambiental-permeia-os-passos-de-billie-eilish)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
