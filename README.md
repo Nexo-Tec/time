@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como melhorar prescrições de medicamentos para idosos na Atenção Primária à Saúde](https://pp.nexojornal.com.br/academico/2024/05/17/como-melhorar-prescricoes-de-medicamentos-para-idosos-na-atencao-primaria-a-saude/)
 - [Projeto Du Bois/Núcleo Afro-Cebrap](https://pp.nexojornal.com.br/index/2024/05/14/projeto-du-bois-nucleo-afro-cebrap/)
 - [Desenvolvimento urbano sustentável: uma agenda que conecta o global ao local](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/13/desenvolvimento-urbano-sustentavel-uma-agenda-que-conecta-o-global-ao-local/)
 - [Qualidade na Atenção Primária à Saúde](https://pp.nexojornal.com.br/glossario/2024/05/13/qualidade-na-atencao-primaria-a-saude/)
 - [Métodos para o estudo da discriminação, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/13/metodos-para-o-estudo-da-discriminacao-em-6-pontos/)
-- [Da biopolítica à necrogovernamentalidade](https://pp.nexojornal.com.br/glossario/2024/05/13/da-biopolitica-a-necrogovernamentalidade/)
 <!-- PP_LIST:END -->
 
