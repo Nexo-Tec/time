@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que acontece quando eu paro de tomar Ozempic?](https://www.nexojornal.com.br/externo/2024/05/17/o-que-acontece-quando-eu-paro-de-tomar-ozempic)
+- [Zanin suspende decisão que reonerou folha de pagamentos](https://www.nexojornal.com.br/extra/2024/05/17/desoneracao-da-folha-de-pagamentos-cristiano-zanin)
+- [A iniciativa que quer reduzir o impacto ambiental de festivais](https://www.nexojornal.com.br/expresso/2024/05/17/a-iniciativa-que-quer-reduzir-o-impacto-ambiental-de-festivais)
+- [O efeito das tragédias climáticas na imagem dos governantes](https://www.nexojornal.com.br/expresso/2024/05/17/impacto-tragedias-climaticas-governantes)
 - [Por que o Brasil não consegue reduzir o abuso infantil](https://www.nexojornal.com.br/expresso/2024/05/17/politicas-publicas-contra-abuso-infantil-no-brasil)
-- [O sentido político e social do cabelo nesta exposição australiana](https://www.nexojornal.com.br/expresso/2024/05/17/o-sentido-politico-e-social-do-cabelo-nesta-exposicao-australiana)
-- [O auxílio para os desabrigados. A troca na Petrobras. E mais](https://www.nexojornal.com.br/video/2024/05/17/enchente-rio-grande-do-sul-resposta-do-governo)
-- [‘Respeito ao povo do garimpo’: a comissão Yanomami na Câmara](https://www.nexojornal.com.br/externo/2024/05/17/respeito-ao-povo-do-garimpo-a-comissao-yanomami-na-camara)
-- [5 livros imprescindíveis da poesia contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/05/17/5-livros-imprescindiveis-da-poesia-contemporanea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
