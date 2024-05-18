@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Comissões de heteroidentificação nas universidades públicas brasileiras em 2021](https://pp.nexojornal.com.br/opiniao/2024/05/17/comissoes-de-heteroidentificacao-nas-universidades-publicas-brasileiras-em-2021/)
+- [Saúde mental de adolescentes brasileiros e o consumo de ultraprocessados no ambiente escolar](https://pp.nexojornal.com.br/academico/2024/05/17/saude-mental-de-adolescentes-brasileiros-e-o-consumo-de-ultraprocessados-no-ambiente-escolar/)
 - [Como melhorar prescrições de medicamentos para idosos na Atenção Primária à Saúde](https://pp.nexojornal.com.br/academico/2024/05/17/como-melhorar-prescricoes-de-medicamentos-para-idosos-na-atencao-primaria-a-saude/)
 - [Projeto Du Bois/Núcleo Afro-Cebrap](https://pp.nexojornal.com.br/index/2024/05/14/projeto-du-bois-nucleo-afro-cebrap/)
 - [Desenvolvimento urbano sustentável: uma agenda que conecta o global ao local](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/13/desenvolvimento-urbano-sustentavel-uma-agenda-que-conecta-o-global-ao-local/)
-- [Qualidade na Atenção Primária à Saúde](https://pp.nexojornal.com.br/glossario/2024/05/13/qualidade-na-atencao-primaria-a-saude/)
-- [Métodos para o estudo da discriminação, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/13/metodos-para-o-estudo-da-discriminacao-em-6-pontos/)
 <!-- PP_LIST:END -->
 
