@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sem aeroporto, Porto Alegre lida com alternativas](https://www.nexojornal.com.br/extra/2024/05/19/salgado-filho-porto-alegre-inundado)
 - [Milei ataca primeira-dama espanhola e abre crise diplomática](https://www.nexojornal.com.br/extra/2024/05/19/milei-chama-primeira-dama-da-espanha-de-corrupta)
 - [Presidente do Irã sofre acidente de helicóptero](https://www.nexojornal.com.br/extra/2024/05/19/presidente-ira-helicoptero)
 - [O efeito dos desenhos de alto estímulo entre as crianças](https://www.nexojornal.com.br/externo/2024/05/19/o-efeito-dos-desenhos-de-alto-estimulo-entre-as-criancas)
 - [St. Pauli: o time alemão que é referência da esquerda](https://www.nexojornal.com.br/expresso/2024/05/19/futebol-historia-time-alemao-st-pauli-bundesliga)
-- [O que Biden traz de novo para a guerra comercial com a China](https://www.nexojornal.com.br/expresso/2024/05/19/relacao-comercial-china-e-eua-governo-biden)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
