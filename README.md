@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Luciano Ramos: “A prática antirracista é necessária para a paternidade negra”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/paternidade-negra/)
 - [Minha primeira psicanalista foi a rua de terra](https://gamarevista.uol.com.br/colunistas/marilene-felinto/minha-primeira-psicanalista-foi-a-rua-de-terra/)
 - [Débora Falabella em “Prima Facie”, no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debora-falabella-em-prima-facie-no-rio/)
 - [Cat Power e Pavement no C6 e Léo Santana na Virada Cultural, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cat-power-e-pavement-no-c6-e-leo-santana-na-virada-cultural-em-sp/)
 - [Cotidiano e intimidade nas telas de Marina Quintanilha](https://gamarevista.uol.com.br/achamos-que-vale/ir/cotidiano-e-intimidade-nas-telas-de-marina-quintanilha/)
-- [Um relato impactante sobre ver a casa inundada](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-impactante-sobre-ver-a-casa-inundada/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
