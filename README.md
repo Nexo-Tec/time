@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que acontece quando eu paro de tomar Ozempic?](https://www.nexojornal.com.br/externo/2024/05/17/o-que-acontece-quando-eu-paro-de-tomar-ozempic)
-- [Zanin suspende decisão que reonerou folha de pagamentos](https://www.nexojornal.com.br/extra/2024/05/17/desoneracao-da-folha-de-pagamentos-cristiano-zanin)
-- [A iniciativa que quer reduzir o impacto ambiental de festivais](https://www.nexojornal.com.br/expresso/2024/05/17/a-iniciativa-que-quer-reduzir-o-impacto-ambiental-de-festivais)
-- [O efeito das tragédias climáticas na imagem dos governantes](https://www.nexojornal.com.br/expresso/2024/05/17/impacto-tragedias-climaticas-governantes)
-- [Por que o Brasil não consegue reduzir o abuso infantil](https://www.nexojornal.com.br/expresso/2024/05/17/politicas-publicas-contra-abuso-infantil-no-brasil)
+- [O efeito dos desenhos de alto estímulo entre as crianças](https://www.nexojornal.com.br/externo/2024/05/19/o-efeito-dos-desenhos-de-alto-estimulo-entre-as-criancas)
+- [St. Pauli: o time alemão que é referência da esquerda](https://www.nexojornal.com.br/expresso/2024/05/19/futebol-historia-time-alemao-st-pauli-bundesliga)
+- [O que Biden traz de novo para a guerra comercial com a China](https://www.nexojornal.com.br/expresso/2024/05/19/relacao-comercial-china-e-eua-governo-biden)
+- [Mobilidade urbana e a oportunidade das eleições](https://www.nexojornal.com.br/ensaio/2024/05/19/mobilidade-crise-climatica-e-a-oportunidade-das-eleicoes)
+- [‘Cidades provisórias’: de onde vem o projeto pensado no RS](https://www.nexojornal.com.br/expresso/2024/05/18/cidades-provisorias-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
