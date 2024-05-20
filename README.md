@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A relação entre o tráfico de pessoas e a degradação ambiental](https://www.nexojornal.com.br/externo/2024/05/19/a-relacao-entre-o-trafico-de-pessoas-e-a-degradacao-ambiental)
+- [Triplicar capacidade das renováveis com justiça climática](https://www.nexojornal.com.br/ensaio/2024/05/19/triplicar-capacidade-das-renovaveis-com-justica-climatica)
+- [‘CBF tem de abraçar pauta antipreconceito na Copa feminina’](https://www.nexojornal.com.br/entrevista/2024/05/19/brasil-copa-do-mundo-feminina-2027-entrevista-lu-castro)
 - [Como adaptar o Orçamento para prevenir desastres](https://www.nexojornal.com.br/expresso/2024/05/19/orcamento-uniao-e-a-prevencao-a-desastres-naturais)
 - [Sem aeroporto, Porto Alegre lida com alternativas](https://www.nexojornal.com.br/extra/2024/05/19/salgado-filho-porto-alegre-inundado)
-- [Milei ataca primeira-dama espanhola e abre crise diplomática](https://www.nexojornal.com.br/extra/2024/05/19/milei-chama-primeira-dama-da-espanha-de-corrupta)
-- [Presidente do Irã sofre acidente de helicóptero](https://www.nexojornal.com.br/extra/2024/05/19/presidente-ira-helicoptero)
-- [O efeito dos desenhos de alto estímulo entre as crianças](https://www.nexojornal.com.br/externo/2024/05/19/o-efeito-dos-desenhos-de-alto-estimulo-entre-as-criancas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
