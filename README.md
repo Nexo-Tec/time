@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Orangotango, coala, panda: a ‘diplomacia dos animais’](https://www.nexojornal.com.br/expresso/2024/05/20/diplomacia-dos-animais-por-que-paises-presenteiam-outras-nacoes-com-bichos)
+- [O pedido prisão de líderes do Hamas e de Netanyahu](https://www.nexojornal.com.br/podcast/2024/05/20/guerra-israel-hamas-pedido-de-prisao-lideres)
 - [Como metáforas de espaço nos ajudam a entender o tempo](https://www.nexojornal.com.br/externo/2024/05/20/como-metaforas-de-espaco-nos-ajudam-a-entender-o-tempo)
 - [8 cidades de SC decretam emergência após chuvas](https://www.nexojornal.com.br/extra/2024/05/20/chuva-santa-catarina-emergencia)
 - [TPI pede mandado de prisão para Netanyahu e líderes do Hamas](https://www.nexojornal.com.br/extra/2024/05/20/tpi-mandado-prisao-netanyahu-hamas)
-- [A relação entre o tráfico de pessoas e a degradação ambiental](https://www.nexojornal.com.br/externo/2024/05/19/a-relacao-entre-o-trafico-de-pessoas-e-a-degradacao-ambiental)
-- [Triplicar capacidade das renováveis com justiça climática](https://www.nexojornal.com.br/ensaio/2024/05/19/triplicar-capacidade-das-renovaveis-com-justica-climatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
