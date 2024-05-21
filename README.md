@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que os sistemas alimentares são importantes nas cidades](https://pp.nexojornal.com.br/topico/2024/05/21/por-que-os-sistemas-alimentares-sao-importantes-nas-cidades/)
 - [Maria Carmen Lemos: conhecimento científico acionável e a crise climática](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/05/17/maria-carmen-lemos-conhecimento-cientifico-acionavel-e-a-crise-climatica/)
 - [Entraves da participação das mulheres na política brasileira: uma corrida de obstáculos?](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/17/entraves-da-participacao-das-mulheres-na-politica-brasileira-uma-corrida-de-obstaculos/)
 - [Eventos climáticos extremos cada vez mais frequentes e perigosos: realidade no Brasil e no mundo](https://pp.nexojornal.com.br/topico/2024/05/17/eventos-climaticos-extremos-cada-vez-mais-frequentes-e-perigosos-realidade-no-brasil-e-no-mundo/)
 - [Ações afirmativas](https://pp.nexojornal.com.br/bibliografia-basica/2024/05/17/acoes-afirmativas-2/)
-- [Comissões de heteroidentificação nas universidades públicas brasileiras em 2021](https://pp.nexojornal.com.br/opiniao/2024/05/17/comissoes-de-heteroidentificacao-nas-universidades-publicas-brasileiras-em-2021/)
 <!-- PP_LIST:END -->
 
