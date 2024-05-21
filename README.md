@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um fotógrafo americano no Brasil dos anos 1970](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/um-fotografo-americano-no-brasil-dos-anos-1970/)
 - [@billieeilish](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/billieeilish/)
 - [Luciano Ramos: “A prática antirracista é necessária para a paternidade negra”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/paternidade-negra/)
 - [Minha primeira psicanalista foi a rua de terra](https://gamarevista.uol.com.br/colunistas/marilene-felinto/minha-primeira-psicanalista-foi-a-rua-de-terra/)
 - [Débora Falabella em “Prima Facie”, no Rio](https://gamarevista.uol.com.br/achamos-que-vale/assistir/debora-falabella-em-prima-facie-no-rio/)
-- [Cat Power e Pavement no C6 e Léo Santana na Virada Cultural, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cat-power-e-pavement-no-c6-e-leo-santana-na-virada-cultural-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
