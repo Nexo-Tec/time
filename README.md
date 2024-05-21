@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil é país que mais avança em ranking de liberdade de expressão](https://www.nexojornal.com.br/extra/2024/05/21/brasil-ranking-da-liberdade-de-expressao-2023)
 - [A proposta de construir um canivete suíço sem lâminas](https://www.nexojornal.com.br/expresso/2024/05/21/canivete-suico-sem-lamina)
 - [Brasil ultrapassa mais de 5 milhões de casos de dengue em 2024](https://www.nexojornal.com.br/extra/2024/05/21/casos-de-dengue-no-brasil-2024)
 - [STF abre processo contra Zambelli por invasão de site do CNJ](https://www.nexojornal.com.br/extra/2024/05/21/stf-abre-processo-contra-zambelli-por-invasao-de-site-do-cnj)
 - [Crianças pobres nascem com alguns gramas a mais e se tornam obesas cedo no Brasil](https://www.nexojornal.com.br/externo/2024/05/21/criancas-pobres-nascem-com-alguns-gramas-a-mais-e-se-tornam-obesas-cedo-no-brasil)
-- [Forte turbulência em voo mata uma pessoa e deixa 68 feridas](https://www.nexojornal.com.br/extra/2024/05/21/voo-singapore-airlines-turbulencia-grave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
