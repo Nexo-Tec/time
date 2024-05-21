@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O condomínio de luxo que avança contra um quilombo em SP](https://www.nexojornal.com.br/externo/2024/05/20/o-condominio-de-luxo-que-avanca-contra-um-quilombo-em-sp)
+- [Exército reduz acesso de agentes a armas de uso restrito](https://www.nexojornal.com.br/extra/2024/05/20/exercito-reduz-compra-armas)
 - [Orangotango, coala, panda: a ‘diplomacia dos animais’](https://www.nexojornal.com.br/expresso/2024/05/20/diplomacia-dos-animais-por-que-paises-presenteiam-outras-nacoes-com-bichos)
 - [O pedido prisão de líderes do Hamas e de Netanyahu](https://www.nexojornal.com.br/podcast/2024/05/20/guerra-israel-hamas-pedido-de-prisao-lideres)
 - [Como metáforas de espaço nos ajudam a entender o tempo](https://www.nexojornal.com.br/externo/2024/05/20/como-metaforas-de-espaco-nos-ajudam-a-entender-o-tempo)
-- [8 cidades de SC decretam emergência após chuvas](https://www.nexojornal.com.br/extra/2024/05/20/chuva-santa-catarina-emergencia)
-- [TPI pede mandado de prisão para Netanyahu e líderes do Hamas](https://www.nexojornal.com.br/extra/2024/05/20/tpi-mandado-prisao-netanyahu-hamas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
