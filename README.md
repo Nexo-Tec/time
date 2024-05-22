@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Espanha, Irlanda e Noruega reconhecem Estado palestino](https://www.nexojornal.com.br/extra/2024/05/22/espanha-irlanda-noruega-estado-palestina)
 - [TSE rejeita cassação de mandato de Sergio Moro no Senado](https://www.nexojornal.com.br/extra/2024/05/22/tse-rejeita-cassacao-de-mandato-de-sergio-moro-no-senado)
 - [Como lidar com os mais vulneráveis nos abrigos do Sul](https://www.nexojornal.com.br/expresso/2024/05/21/enchente-rio-grande-do-sul-trauma-crianca)
 - [Onde se concentram os desabrigados das cheias gaúchas](https://www.nexojornal.com.br/grafico/2024/05/21/desabrigados-rio-grande-do-sul)
 - [Os longas que retratam o Brasil no Festival de Cannes](https://www.nexojornal.com.br/expresso/2024/05/21/brasil-no-festival-cannes-2024)
-- [Toffoli anula decisões da Lava Jato contra Marcelo Odebrecht](https://www.nexojornal.com.br/extra/2024/05/21/toffoli-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
