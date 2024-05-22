@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rishi Sunak convoca eleições antecipadas e dissolve Parlamento](https://www.nexojornal.com.br/extra/2024/05/22/rishi-sunak-eleicoes-antecipadas)
 - [Rio Grande do Sul confirma segunda morte por leptospirose](https://www.nexojornal.com.br/extra/2024/05/22/rio-grande-do-sul-morte-leptospirose)
 - [Dia a dia do golpe #3: Forças Armadas contra a democracia](https://www.nexojornal.com.br/podcast/2024/05/22/ditadura-militar-brasil-1964-forcas-armadas-golpe-contra-democracia)
 - [Espanha, Irlanda e Noruega reconhecem Estado palestino](https://www.nexojornal.com.br/extra/2024/05/22/espanha-irlanda-noruega-estado-palestina)
 - [TSE rejeita cassação de mandato de Sergio Moro no Senado](https://www.nexojornal.com.br/extra/2024/05/22/tse-rejeita-cassacao-de-mandato-de-sergio-moro-no-senado)
-- [Como lidar com os mais vulneráveis nos abrigos do Sul](https://www.nexojornal.com.br/expresso/2024/05/21/enchente-rio-grande-do-sul-trauma-crianca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
