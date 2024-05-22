@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dia a dia do golpe #3: Forças Armadas contra a democracia](https://www.nexojornal.com.br/podcast/2024/05/22/ditadura-militar-brasil-1964-forcas-armadas-golpe-contra-democracia)
 - [Espanha, Irlanda e Noruega reconhecem Estado palestino](https://www.nexojornal.com.br/extra/2024/05/22/espanha-irlanda-noruega-estado-palestina)
 - [TSE rejeita cassação de mandato de Sergio Moro no Senado](https://www.nexojornal.com.br/extra/2024/05/22/tse-rejeita-cassacao-de-mandato-de-sergio-moro-no-senado)
 - [Como lidar com os mais vulneráveis nos abrigos do Sul](https://www.nexojornal.com.br/expresso/2024/05/21/enchente-rio-grande-do-sul-trauma-crianca)
 - [Onde se concentram os desabrigados das cheias gaúchas](https://www.nexojornal.com.br/grafico/2024/05/21/desabrigados-rio-grande-do-sul)
-- [Os longas que retratam o Brasil no Festival de Cannes](https://www.nexojornal.com.br/expresso/2024/05/21/brasil-no-festival-cannes-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
