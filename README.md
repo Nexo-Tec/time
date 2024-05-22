@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A relação entre as palavras e as coisas, segundo este filósofo](https://www.nexojornal.com.br/academico/2024/05/22/a-relacao-entre-as-palavras-e-as-coisas-filosofo)
+- [Venda de livros cai pelo segundo ano seguido no Brasil](https://www.nexojornal.com.br/extra/2024/05/22/venda-livros-cai-brasil)
+- [Os livros do desafio que fez ‘Brás Cubas’ virar febre nos EUA](https://www.nexojornal.com.br/expresso/2024/05/22/courtney-novak-livros-bras-cubas-machado-de-assis)
+- [O reconhecimento do Estado palestino por países europeus](https://www.nexojornal.com.br/podcast/2024/05/22/paises-europeus-reconhecem-estado-palestino)
 - [Desembargadora que fez posts falsos contra Marielle é afastada](https://www.nexojornal.com.br/extra/2024/05/22/cnj-desembargadora-posts-falsos-marielle)
-- [Rishi Sunak convoca eleições antecipadas e dissolve Parlamento](https://www.nexojornal.com.br/extra/2024/05/22/rishi-sunak-eleicoes-antecipadas)
-- [Rio Grande do Sul confirma segunda morte por leptospirose](https://www.nexojornal.com.br/extra/2024/05/22/rio-grande-do-sul-morte-leptospirose)
-- [Dia a dia do golpe #3: Forças Armadas contra a democracia](https://www.nexojornal.com.br/podcast/2024/05/22/ditadura-militar-brasil-1964-forcas-armadas-golpe-contra-democracia)
-- [Espanha, Irlanda e Noruega reconhecem Estado palestino](https://www.nexojornal.com.br/extra/2024/05/22/espanha-irlanda-noruega-estado-palestina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
