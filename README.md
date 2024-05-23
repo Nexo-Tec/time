@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Às mulheres, um leão por minuto](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-mulheres-um-leao-por-minuto/)
 - [Carta de Recife para Porto Alegre](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/carta-de-recife-para-porto-alegre/)
 - [Um fotógrafo americano no Brasil dos anos 1970](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/um-fotografo-americano-no-brasil-dos-anos-1970/)
 - [@billieeilish](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/billieeilish/)
 - [Luciano Ramos: “A prática antirracista é necessária para a paternidade negra”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/paternidade-negra/)
-- [Minha primeira psicanalista foi a rua de terra](https://gamarevista.uol.com.br/colunistas/marilene-felinto/minha-primeira-psicanalista-foi-a-rua-de-terra/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
