@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Às mulheres, um leão por minuto](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/as-mulheres-um-leao-por-minuto/)
-- [Carta de Recife para Porto Alegre](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/carta-de-recife-para-porto-alegre/)
-- [Um fotógrafo americano no Brasil dos anos 1970](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/um-fotografo-americano-no-brasil-dos-anos-1970/)
-- [@billieeilish](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/billieeilish/)
-- [Luciano Ramos: “A prática antirracista é necessária para a paternidade negra”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/paternidade-negra/)
+- [Novo romance do autor de livro que inspirou “American Fiction”](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-romance-do-autor-de-livro-que-inspirou-american-fiction/)
+- [A obra de Léa Garcia em mostra no CCBB-SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-obra-de-lea-garcia-em-mostra-no-ccbb-sp/)
+- [Ritmos africanos no Festival Musiques D’Afrique, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/ritmos-africanos-no-festival-musiques-dafrique-em-sp/)
+- [Exposição “Koudelka: Ciganos, Praga 1968, Exílios”, no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-koudelka-ciganos-praga-1968-exilios-no-ims/)
+- [“Okê — Dança como herança” no Sesc Culturas Negras, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/oke-danca-como-heranca-no-sesc-culturas-negras-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
