@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ao som de Black Pumas, falar de arte, pois a vida não basta](https://www.nexojornal.com.br/colunistas/2024/05/23/ao-som-de-black-pumas-falar-de-arte-pois-a-vida-nao-basta)
+- [Quem inspirou o samurai negro do novo ‘Assassin’s Creed’](https://www.nexojornal.com.br/expresso/2024/05/23/quem-inspirou-o-samurai-negro-do-novo-assassins-creed)
+- [O histórico e os dados de abuso infantil no Brasil](https://www.nexojornal.com.br/durma-com-essa/2024/05/23/abuso-infantil-no-brasil-dados-e-historico)
 - [O colapso dos botos e tucuxis como efeito da seca na Amazônia](https://www.nexojornal.com.br/externo/2024/05/23/o-colapso-dos-botos-e-tucuxis-como-efeito-da-seca-na-amazonia)
 - [Com mais chuva em Porto Alegre, cheias voltam a tomar áreas](https://www.nexojornal.com.br/extra/2024/05/23/induncao-volta-a-porto-alegre-com-mais-chuvas)
-- [Os algoritmos e a autoimagem dos adolescentes](https://www.nexojornal.com.br/externo/2024/05/23/os-algoritmos-e-a-autoimagem-dos-adolescentes)
-- [Governo federal marca nova data para ‘Enem dos concursos’](https://www.nexojornal.com.br/extra/2024/05/23/cnu-concurso-nacional-unificado-nova-data)
-- [8 países reconheceram a Palestina desde o começo da guerra](https://www.nexojornal.com.br/grafico/2024/05/23/paises-que-reconheceram-palestina-pos-guerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
