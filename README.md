@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com mais chuva em Porto Alegre, cheias voltam a tomar áreas](https://www.nexojornal.com.br/extra/2024/05/23/induncao-volta-a-porto-alegre-com-mais-chuvas)
 - [Os algoritmos e a autoimagem dos adolescentes](https://www.nexojornal.com.br/externo/2024/05/23/os-algoritmos-e-a-autoimagem-dos-adolescentes)
 - [Governo federal marca nova data para ‘Enem dos concursos’](https://www.nexojornal.com.br/extra/2024/05/23/cnu-concurso-nacional-unificado-nova-data)
 - [8 países reconheceram a Palestina desde o começo da guerra](https://www.nexojornal.com.br/grafico/2024/05/23/paises-que-reconheceram-palestina-pos-guerra)
 - [Sobre que filme Caetano Veloso está opinando? Faça o teste](https://www.nexojornal.com.br/interativo/2024/05/22/sobre-que-filme-caetano-veloso-esta-opinando-faca-o-teste)
-- [Desenrola: qual o saldo do programa de renegociação de Lula](https://www.nexojornal.com.br/expresso/2024/05/22/programa-desenrola-brasil-renegociacao-governo-lula-resultado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
