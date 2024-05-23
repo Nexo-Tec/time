@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sobre que filme Caetano Veloso está opinando? Faça o teste](https://www.nexojornal.com.br/interativo/2024/05/22/sobre-que-filme-caetano-veloso-esta-opinando-faca-o-teste)
+- [Desenrola: qual o saldo do programa de renegociação de Lula](https://www.nexojornal.com.br/expresso/2024/05/22/programa-desenrola-brasil-renegociacao-governo-lula-resultado)
+- [Como ajudar crianças a lidar com o trauma da tragédia no Sul](https://www.nexojornal.com.br/expresso/2024/05/22/enchente-rio-grande-do-sul-trauma-crianca)
 - [A relação entre as palavras e as coisas, segundo este filósofo](https://www.nexojornal.com.br/academico/2024/05/22/a-relacao-entre-as-palavras-e-as-coisas-filosofo)
 - [Venda de livros cai pelo segundo ano seguido no Brasil](https://www.nexojornal.com.br/extra/2024/05/22/venda-livros-cai-brasil)
-- [Os livros do desafio que fez ‘Brás Cubas’ virar febre nos EUA](https://www.nexojornal.com.br/expresso/2024/05/22/courtney-novak-livros-bras-cubas-machado-de-assis)
-- [O reconhecimento do Estado palestino por países europeus](https://www.nexojornal.com.br/podcast/2024/05/22/paises-europeus-reconhecem-estado-palestino)
-- [Desembargadora que fez posts falsos contra Marielle é afastada](https://www.nexojornal.com.br/extra/2024/05/22/cnj-desembargadora-posts-falsos-marielle)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
