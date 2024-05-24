@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Violência contra a juventude negra: da mobilização social ao Plano Juventude Negra Viva](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/24/violencia-contra-a-juventude-negra-da-mobilizacao-social-ao-plano-juventude-negra-viva/)
+- [A evolução do ‘município’ no arranjo federativo brasileiro, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/24/a-evolucao-do-municipio-no-arranjo-federativo-brasileiro-em-5-pontos/)
+- [Políticas para diversidade de raça e gênero no cinema brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/24/politicas-para-diversidade-de-raca-e-genero-no-cinema-brasileiro/)
 - [O verbo ‘cuidar’ está em crise](https://pp.nexojornal.com.br/opiniao/2024/05/24/o-verbo-cuidar-esta-em-crise/)
 - [O impacto do apagão docente nas políticas de ação afirmativa: notas sobre um fenômeno excludente](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/24/o-impacto-do-apagao-docente-nas-politicas-de-acao-afirmativa-notas-sobre-um-fenomeno-excludente/)
-- [Mulheres negras e o mercado de trabalho: um estudo sobre as trabalhadoras domésticas no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/23/mulheres-negras-e-o-mercado-de-trabalho-um-estudo-sobre-as-trabalhadoras-domesticas-no-brasil/)
-- [Por que os sistemas alimentares são importantes nas cidades](https://pp.nexojornal.com.br/topico/2024/05/21/por-que-os-sistemas-alimentares-sao-importantes-nas-cidades/)
-- [Maria Carmen Lemos: conhecimento científico acionável e a crise climática](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/05/17/maria-carmen-lemos-conhecimento-cientifico-acionavel-e-a-crise-climatica/)
 <!-- PP_LIST:END -->
 
