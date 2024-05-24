@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a crise do petróleo de 1973 inspirou ‘Mad Max’](https://www.nexojornal.com.br/expresso/2024/05/23/filme-mad-max-se-inspira-na-crise-do-petroleo-de-1973)
+- [Reino Unido: os conservadores na berlinda após 14 anos](https://www.nexojornal.com.br/expresso/2024/05/23/politica-internacional-ministro-do-reino-unido-rishi-sunak-antecipa-eleicao)
+- [Câmera de uniforme da PM paulista vai deixar de gravar tudo](https://www.nexojornal.com.br/extra/2024/05/23/camera-de-uniforme-da-pm-paulista-vai-deixar-de-gravar-tudo)
+- [TRE do Rio decide contra cassação de Cláudio Castro](https://www.nexojornal.com.br/extra/2024/05/23/tre-do-rio-decide-contra-cassacao-de-claudio-castro)
 - [Oportunidades e ameaças na regulação do streaming](https://www.nexojornal.com.br/ensaio/2024/05/23/oportunidades-e-ameacas-na-regulacao-do-streaming)
-- [Ao som de Black Pumas, falar de arte, pois a vida não basta](https://www.nexojornal.com.br/colunistas/2024/05/23/ao-som-de-black-pumas-falar-de-arte-pois-a-vida-nao-basta)
-- [Quem inspirou o samurai negro do novo ‘Assassin’s Creed’](https://www.nexojornal.com.br/expresso/2024/05/23/quem-inspirou-o-samurai-negro-do-novo-assassins-creed)
-- [O histórico e os dados de abuso infantil no Brasil](https://www.nexojornal.com.br/durma-com-essa/2024/05/23/abuso-infantil-no-brasil-dados-e-historico)
-- [O colapso dos botos e tucuxis como efeito da seca na Amazônia](https://www.nexojornal.com.br/externo/2024/05/23/o-colapso-dos-botos-e-tucuxis-como-efeito-da-seca-na-amazonia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
