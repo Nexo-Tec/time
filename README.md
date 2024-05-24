@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A literatura latino-americana vive um novo boom?](https://www.nexojornal.com.br/expresso/2024/05/24/a-literatura-latino-americana-vive-um-novo-boom)
+- [Refém brasileiro do Hamas é encontrado morto em Gaza](https://www.nexojornal.com.br/extra/2024/05/24/brasileiro-morto-por-hamas-encontrado-na-faixa-de-gaza)
 - [Como a crise do petróleo de 1973 inspirou ‘Mad Max’](https://www.nexojornal.com.br/expresso/2024/05/23/filme-mad-max-se-inspira-na-crise-do-petroleo-de-1973)
 - [Reino Unido: os conservadores na berlinda após 14 anos](https://www.nexojornal.com.br/expresso/2024/05/23/politica-internacional-ministro-do-reino-unido-rishi-sunak-antecipa-eleicao)
 - [Câmera de uniforme da PM paulista vai deixar de gravar tudo](https://www.nexojornal.com.br/extra/2024/05/23/camera-de-uniforme-da-pm-paulista-vai-deixar-de-gravar-tudo)
-- [TRE do Rio decide contra cassação de Cláudio Castro](https://www.nexojornal.com.br/extra/2024/05/23/tre-do-rio-decide-contra-cassacao-de-claudio-castro)
-- [Oportunidades e ameaças na regulação do streaming](https://www.nexojornal.com.br/ensaio/2024/05/23/oportunidades-e-ameacas-na-regulacao-do-streaming)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
