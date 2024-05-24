@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O verbo ‘cuidar’ está em crise](https://pp.nexojornal.com.br/opiniao/2024/05/24/o-verbo-cuidar-esta-em-crise/)
 - [O impacto do apagão docente nas políticas de ação afirmativa: notas sobre um fenômeno excludente](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/24/o-impacto-do-apagao-docente-nas-politicas-de-acao-afirmativa-notas-sobre-um-fenomeno-excludente/)
 - [Mulheres negras e o mercado de trabalho: um estudo sobre as trabalhadoras domésticas no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/23/mulheres-negras-e-o-mercado-de-trabalho-um-estudo-sobre-as-trabalhadoras-domesticas-no-brasil/)
 - [Por que os sistemas alimentares são importantes nas cidades](https://pp.nexojornal.com.br/topico/2024/05/21/por-que-os-sistemas-alimentares-sao-importantes-nas-cidades/)
 - [Maria Carmen Lemos: conhecimento científico acionável e a crise climática](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/05/17/maria-carmen-lemos-conhecimento-cientifico-acionavel-e-a-crise-climatica/)
-- [Entraves da participação das mulheres na política brasileira: uma corrida de obstáculos?](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/17/entraves-da-participacao-das-mulheres-na-politica-brasileira-uma-corrida-de-obstaculos/)
 <!-- PP_LIST:END -->
 
