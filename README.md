@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Conselho aprova Magda Chambriard à frente da Petrobras](https://www.nexojornal.com.br/extra/2024/05/24/magda-chambriard-e-nova-presidente-da-petrobras)
-- [A literatura latino-americana vive um novo boom?](https://www.nexojornal.com.br/expresso/2024/05/24/a-literatura-latino-americana-vive-um-novo-boom)
-- [Refém brasileiro do Hamas é encontrado morto em Gaza](https://www.nexojornal.com.br/extra/2024/05/24/brasileiro-morto-por-hamas-encontrado-na-faixa-de-gaza)
-- [Como a crise do petróleo de 1973 inspirou ‘Mad Max’](https://www.nexojornal.com.br/expresso/2024/05/23/filme-mad-max-se-inspira-na-crise-do-petroleo-de-1973)
-- [Reino Unido: os conservadores na berlinda após 14 anos](https://www.nexojornal.com.br/expresso/2024/05/23/politica-internacional-ministro-do-reino-unido-rishi-sunak-antecipa-eleicao)
+- [Da ficção à realidade: a voz de Scarlett Johansson e a IA](https://www.nexojornal.com.br/expresso/2024/05/24/inteligencia-artificial-assistente-digital-sky-voz-scarlett-johansson)
+- [A morte do presidente do Irã. A Palestina como Estado. E mais](https://www.nexojornal.com.br/video/2024/05/24/noticias-da-semana-resumo-morte-presidente-do-ira)
+- [7 livros infantis indicados por um portal especializado](https://www.nexojornal.com.br/externo/2024/05/24/7-livros-infantis-indicados-por-um-portal-especializado)
+- [5 livros que mostram a importância de uma boa capa](https://www.nexojornal.com.br/estante-favoritos/2024/05/24/5-livros-que-mostram-a-importancia-de-uma-boa-capa)
+- [‘Ressuscitar mamutes’: inventar futuros a partir do passado](https://www.nexojornal.com.br/estante-trechos/2024/05/24/ressuscitar-mamutes-inventar-futuros-a-partir-do-passado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
