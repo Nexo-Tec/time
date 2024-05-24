@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Netflix aumenta preços de assinaturas para novos usuários](https://www.nexojornal.com.br/extra/2024/05/24/netflix-aumenta-precos-de-assinaturas)
 - [Antenas HAARP: o negacionismo sobre as chuvas gaúchas](https://www.nexojornal.com.br/externo/2024/05/24/antenas-haarp-o-negacionismo-sobre-as-chuvas-gauchas)
 - [O avanço das escolas cívico-militares em São Paulo e no Paraná](https://www.nexojornal.com.br/externo/2024/05/24/o-avanco-das-escolas-civico-militares-em-sao-paulo-e-no-parana)
 - [Cooperação em clima pode ser a nova ponte sobre o Atlântico](https://www.nexojornal.com.br/ensaio/2024/05/24/cooperacao-em-clima-pode-ser-a-nova-ponte-sobre-o-atlantico)
 - [Como as inundações em Porto Alegre expõem a gestão Melo](https://www.nexojornal.com.br/expresso/2024/05/24/como-as-inundacoes-em-porto-alegre-expoem-a-gestao-melo)
-- [Da ficção à realidade: a voz de Scarlett Johansson e a IA](https://www.nexojornal.com.br/expresso/2024/05/24/inteligencia-artificial-assistente-digital-sky-voz-scarlett-johansson)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
