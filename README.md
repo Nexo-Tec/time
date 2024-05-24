@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Eva](https://gamarevista.uol.com.br/cultura/trecho-de-livro/eva/)
 - [Novo romance do autor de livro que inspirou “American Fiction”](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-romance-do-autor-de-livro-que-inspirou-american-fiction/)
 - [A obra de Léa Garcia em mostra no CCBB-SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-obra-de-lea-garcia-em-mostra-no-ccbb-sp/)
 - [Ritmos africanos no Festival Musiques D’Afrique, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/ritmos-africanos-no-festival-musiques-dafrique-em-sp/)
 - [Exposição “Koudelka: Ciganos, Praga 1968, Exílios”, no IMS](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-koudelka-ciganos-praga-1968-exilios-no-ims/)
-- [“Okê — Dança como herança” no Sesc Culturas Negras, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/oke-danca-como-heranca-no-sesc-culturas-negras-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
