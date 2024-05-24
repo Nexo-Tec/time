@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Antenas HAARP: o negacionismo sobre as chuvas gaúchas](https://www.nexojornal.com.br/externo/2024/05/24/antenas-haarp-o-negacionismo-sobre-as-chuvas-gauchas)
+- [O avanço das escolas cívico-militares em São Paulo e no Paraná](https://www.nexojornal.com.br/externo/2024/05/24/o-avanco-das-escolas-civico-militares-em-sao-paulo-e-no-parana)
+- [Cooperação em clima pode ser a nova ponte sobre o Atlântico](https://www.nexojornal.com.br/ensaio/2024/05/24/cooperacao-em-clima-pode-ser-a-nova-ponte-sobre-o-atlantico)
+- [Como as inundações em Porto Alegre expõem a gestão Melo](https://www.nexojornal.com.br/expresso/2024/05/24/como-as-inundacoes-em-porto-alegre-expoem-a-gestao-melo)
 - [Da ficção à realidade: a voz de Scarlett Johansson e a IA](https://www.nexojornal.com.br/expresso/2024/05/24/inteligencia-artificial-assistente-digital-sky-voz-scarlett-johansson)
-- [A morte do presidente do Irã. A Palestina como Estado. E mais](https://www.nexojornal.com.br/video/2024/05/24/noticias-da-semana-resumo-morte-presidente-do-ira)
-- [7 livros infantis indicados por um portal especializado](https://www.nexojornal.com.br/externo/2024/05/24/7-livros-infantis-indicados-por-um-portal-especializado)
-- [5 livros que mostram a importância de uma boa capa](https://www.nexojornal.com.br/estante-favoritos/2024/05/24/5-livros-que-mostram-a-importancia-de-uma-boa-capa)
-- [‘Ressuscitar mamutes’: inventar futuros a partir do passado](https://www.nexojornal.com.br/estante-trechos/2024/05/24/ressuscitar-mamutes-inventar-futuros-a-partir-do-passado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
