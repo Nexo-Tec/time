@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Netflix aumenta preços de assinaturas para novos usuários](https://www.nexojornal.com.br/extra/2024/05/24/netflix-aumenta-precos-de-assinaturas)
-- [Antenas HAARP: o negacionismo sobre as chuvas gaúchas](https://www.nexojornal.com.br/externo/2024/05/24/antenas-haarp-o-negacionismo-sobre-as-chuvas-gauchas)
-- [O avanço das escolas cívico-militares em São Paulo e no Paraná](https://www.nexojornal.com.br/externo/2024/05/24/o-avanco-das-escolas-civico-militares-em-sao-paulo-e-no-parana)
-- [Cooperação em clima pode ser a nova ponte sobre o Atlântico](https://www.nexojornal.com.br/ensaio/2024/05/24/cooperacao-em-clima-pode-ser-a-nova-ponte-sobre-o-atlantico)
-- [Como as inundações em Porto Alegre expõem a gestão Melo](https://www.nexojornal.com.br/expresso/2024/05/24/como-as-inundacoes-em-porto-alegre-expoem-a-gestao-melo)
+- [Câmeras nas PMs: os impactos das mudanças de Tarcísio](https://www.nexojornal.com.br/expresso/2024/05/25/mudancas-cameras-corporais-policiais-sao-paulo)
+- [O fenômeno que mudou o consumo de música eletrônica](https://www.nexojornal.com.br/expresso/2024/05/25/o-fenomeno-que-mudou-o-consumo-de-musica-eletronica)
+- [A fuga de cérebros do Brasil para o Brasil e a greve dos professores](https://www.nexojornal.com.br/ensaio/2024/05/25/a-fuga-de-cerebros-do-brasil-para-o-brasil-e-a-greve-dos-professores)
+- [O que são limites planetários. E quais já foram cruzados](https://www.nexojornal.com.br/expresso/2024/05/25/limites-planetarios-o-que-sao)
+- [Como teias de aranha inspiraram um protótipo de microfone](https://www.nexojornal.com.br/expresso/2024/05/25/como-teias-de-aranha-inspiraram-um-prototipo-de-microfone)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
