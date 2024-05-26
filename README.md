@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com mais chuva, Porto Alegre mantém suspensão de aulas](https://www.nexojornal.com.br/extra/2024/05/26/com-mais-chuva-porto-alegre-mantem-suspensao-de-aulas)
-- [Deslizamento de terra em Papua-Nova Guiné deixa 670 mortos](https://www.nexojornal.com.br/extra/2024/05/26/deslizamento-de-terra-em-papua-nova-guine-deixa-670-mortos)
-- [Câmeras nas PMs: os impactos das mudanças de Tarcísio](https://www.nexojornal.com.br/expresso/2024/05/25/mudancas-cameras-corporais-policiais-sao-paulo)
-- [O fenômeno que mudou o consumo de música eletrônica](https://www.nexojornal.com.br/expresso/2024/05/25/o-fenomeno-que-mudou-o-consumo-de-musica-eletronica)
-- [A fuga de cérebros do Brasil para o Brasil e a greve dos professores](https://www.nexojornal.com.br/ensaio/2024/05/25/a-fuga-de-cerebros-do-brasil-para-o-brasil-e-a-greve-dos-professores)
+- [O impulso ao desenvolvimento educacional brasileiro](https://www.nexojornal.com.br/ensaio/2024/05/26/o-impulso-ao-desenvolvimento-educacional-brasileiro)
+- [Como a proliferação do siri-capeta afeta o litoral brasileiro](https://www.nexojornal.com.br/externo/2024/05/26/como-a-proliferacao-do-siri-capeta-afeta-o-litoral-brasileiro)
+- [Como funciona a ‘castração química’ defendida no Senado](https://www.nexojornal.com.br/expresso/2024/05/26/castracao-quimica-como-funciona)
+- [‘A área de energia é a grande contradição ambiental de Lula’](https://www.nexojornal.com.br/entrevista/2024/05/26/a-area-de-energia-e-a-grande-contradicao-ambiental-de-lula)
+- [Ataques aéreos em Rafah deixam pelo menos 35 mortos](https://www.nexojornal.com.br/extra/2024/05/26/ataques-aereos-em-rafah-deixam-pelo-menos-35-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
