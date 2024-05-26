@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com mais chuva, Porto Alegre mantém suspensão de aulas](https://www.nexojornal.com.br/extra/2024/05/26/com-mais-chuva-porto-alegre-mantem-suspensao-de-aulas)
 - [Deslizamento de terra em Papua-Nova Guiné deixa 670 mortos](https://www.nexojornal.com.br/extra/2024/05/26/deslizamento-de-terra-em-papua-nova-guine-deixa-670-mortos)
 - [Câmeras nas PMs: os impactos das mudanças de Tarcísio](https://www.nexojornal.com.br/expresso/2024/05/25/mudancas-cameras-corporais-policiais-sao-paulo)
 - [O fenômeno que mudou o consumo de música eletrônica](https://www.nexojornal.com.br/expresso/2024/05/25/o-fenomeno-que-mudou-o-consumo-de-musica-eletronica)
 - [A fuga de cérebros do Brasil para o Brasil e a greve dos professores](https://www.nexojornal.com.br/ensaio/2024/05/25/a-fuga-de-cerebros-do-brasil-para-o-brasil-e-a-greve-dos-professores)
-- [O que são limites planetários. E quais já foram cruzados](https://www.nexojornal.com.br/expresso/2024/05/25/limites-planetarios-o-que-sao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
