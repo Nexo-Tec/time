@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Netanyahu cita ‘erro trágico’ em ataque a refugiados de Rafah](https://www.nexojornal.com.br/extra/2024/05/27/netanyahu-cita-erro-tragico-em-ataque-a-refugiados-de-rafah)
 - [O que diz a PEC que abre caminho para privatizar praias](https://www.nexojornal.com.br/expresso/2024/05/27/privatizacao-das-praias)
 - [Do Congresso ao STF: o dress code machista em Brasília](https://www.nexojornal.com.br/externo/2024/05/27/dress-code-machista-orgaos-brasilia-congresso-stf)
 - [Enem abre inscrições, com isenção de taxa para gaúchos](https://www.nexojornal.com.br/extra/2024/05/27/enem-2024-inscricoes-abertas-isencao-taxa-gauchos)
 - [O impulso ao desenvolvimento educacional brasileiro](https://www.nexojornal.com.br/ensaio/2024/05/26/o-impulso-ao-desenvolvimento-educacional-brasileiro)
-- [Como a proliferação do siri-capeta afeta o litoral brasileiro](https://www.nexojornal.com.br/externo/2024/05/26/como-a-proliferacao-do-siri-capeta-afeta-o-litoral-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
