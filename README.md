@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O programa de escolas cívico-militares de Tarcísio em São Paulo](https://www.nexojornal.com.br/podcast/2024/05/27/escolas-civico-militares-sao-paulo-tarcisio)
+- [Os benefícios e dificuldades de ter um animal de estimação](https://www.nexojornal.com.br/externo/2024/05/27/os-beneficios-e-dificuldades-de-ter-um-animal-de-estimacao)
+- [Exército afasta militares por falso alarme em Canoas](https://www.nexojornal.com.br/extra/2024/05/27/exercito-afasta-militares-por-falso-alarme-em-canoas)
+- [Por que o Facebook virou exemplo de internet zumbi](https://www.nexojornal.com.br/expresso/2024/05/27/facebook-queda-de-usuarios-internet-zumbi)
 - [Netanyahu cita ‘erro trágico’ em ataque a refugiados de Rafah](https://www.nexojornal.com.br/extra/2024/05/27/netanyahu-cita-erro-tragico-em-ataque-a-refugiados-de-rafah)
-- [O que diz a PEC que abre caminho para privatizar praias](https://www.nexojornal.com.br/expresso/2024/05/27/privatizacao-das-praias)
-- [Do Congresso ao STF: o dress code machista em Brasília](https://www.nexojornal.com.br/externo/2024/05/27/dress-code-machista-orgaos-brasilia-congresso-stf)
-- [Enem abre inscrições, com isenção de taxa para gaúchos](https://www.nexojornal.com.br/extra/2024/05/27/enem-2024-inscricoes-abertas-isencao-taxa-gauchos)
-- [O impulso ao desenvolvimento educacional brasileiro](https://www.nexojornal.com.br/ensaio/2024/05/26/o-impulso-ao-desenvolvimento-educacional-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
