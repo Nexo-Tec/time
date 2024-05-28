@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Domésticas se organizaram de várias formas por direitos’](https://www.nexojornal.com.br/entrevista/2024/05/27/domesticas-organizacao-direitos)
+- [As pressões sobre o governo na taxação de importados online](https://www.nexojornal.com.br/expresso/2024/05/27/imposto-sobre-importados-online-shein-shopee-aliexpress)
 - [O programa de escolas cívico-militares de Tarcísio em São Paulo](https://www.nexojornal.com.br/podcast/2024/05/27/escolas-civico-militares-sao-paulo-tarcisio)
 - [Os benefícios e dificuldades de ter um animal de estimação](https://www.nexojornal.com.br/externo/2024/05/27/os-beneficios-e-dificuldades-de-ter-um-animal-de-estimacao)
 - [Exército afasta militares por falso alarme em Canoas](https://www.nexojornal.com.br/extra/2024/05/27/exercito-afasta-militares-por-falso-alarme-em-canoas)
-- [Por que o Facebook virou exemplo de internet zumbi](https://www.nexojornal.com.br/expresso/2024/05/27/facebook-queda-de-usuarios-internet-zumbi)
-- [Netanyahu cita ‘erro trágico’ em ataque a refugiados de Rafah](https://www.nexojornal.com.br/extra/2024/05/27/netanyahu-cita-erro-tragico-em-ataque-a-refugiados-de-rafah)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
