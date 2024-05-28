@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O estudo que testou a eficiência de uma armadura da Grécia antiga](https://www.nexojornal.com.br/expresso/2024/05/28/armadura-da-grecia-antiga)
 - [Por que o Cerrado voltou a ser o bioma mais desmatado](https://www.nexojornal.com.br/podcast/2024/05/28/desmatamento-no-cerrado-ultrapassa-o-da-amazonia)
 - [Ciência versus arte](https://www.nexojornal.com.br/externo/2024/05/28/ciencia-versus-arte)
 - [Governo federal lança diretrizes para uso de câmeras policiais](https://www.nexojornal.com.br/extra/2024/05/28/governo-federal-lanca-diretrizes-para-uso-de-cameras-policiais)
 - [‘Santo millennial’: o italiano que pode virar padroeiro da internet](https://www.nexojornal.com.br/expresso/2024/05/28/carlo-acutis-santo-millennial-padroeiro-internet-canonizacao)
-- [Thiago Braz é suspenso por doping e fica fora da Olimpíada](https://www.nexojornal.com.br/extra/2024/05/28/thiago-braz-doping)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
