@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ciência versus arte](https://www.nexojornal.com.br/externo/2024/05/28/ciencia-versus-arte)
+- [Governo federal lança diretrizes para uso de câmeras policiais](https://www.nexojornal.com.br/extra/2024/05/28/governo-federal-lanca-diretrizes-para-uso-de-cameras-policiais)
 - [‘Santo millennial’: o italiano que pode virar padroeiro da internet](https://www.nexojornal.com.br/expresso/2024/05/28/carlo-acutis-santo-millennial-padroeiro-internet-canonizacao)
 - [Thiago Braz é suspenso por doping e fica fora da Olimpíada](https://www.nexojornal.com.br/extra/2024/05/28/thiago-braz-doping)
 - [Papa Francisco pede desculpas após fala homofóbica](https://www.nexojornal.com.br/extra/2024/05/28/papa-francisco-desculpas-viadagem)
-- [‘Domésticas se organizaram de várias formas por direitos’](https://www.nexojornal.com.br/entrevista/2024/05/27/domesticas-organizacao-direitos)
-- [As pressões sobre o governo na taxação de importados online](https://www.nexojornal.com.br/expresso/2024/05/27/imposto-sobre-importados-online-shein-shopee-aliexpress)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
