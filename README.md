@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@zahodesagazan](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/zahodesagazan/)
 - [CV: Daniel Kondo](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-daniel-kondo/)
 - [Luciana Paes: “A primeira coisa que se diz é que os homens são mais engraçados que as mulheres”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luciana-paes-homens-mulheres-comedia/)
 - [Eva](https://gamarevista.uol.com.br/cultura/trecho-de-livro/eva/)
 - [Novo romance do autor de livro que inspirou “American Fiction”](https://gamarevista.uol.com.br/achamos-que-vale/ler/novo-romance-do-autor-de-livro-que-inspirou-american-fiction/)
-- [A obra de Léa Garcia em mostra no CCBB-SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-obra-de-lea-garcia-em-mostra-no-ccbb-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
