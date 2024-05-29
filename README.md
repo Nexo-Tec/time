@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O medo branco de pretos letrados](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-medo-branco-de-pretos-letrados/)
 - [A importância das políticas climáticas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/politicas-climaticas/)
 - [@zahodesagazan](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/zahodesagazan/)
 - [CV: Daniel Kondo](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-daniel-kondo/)
 - [Luciana Paes: “A primeira coisa que se diz é que os homens são mais engraçados que as mulheres”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luciana-paes-homens-mulheres-comedia/)
-- [Eva](https://gamarevista.uol.com.br/cultura/trecho-de-livro/eva/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
