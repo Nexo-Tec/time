@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Recuperação de cursos d’água urbanos poluídos, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/29/recuperacao-de-cursos-dagua-urbanos-poluidos-em-6-pontos/)
+- [Acesso e desempenho acadêmico dos cotistas no Ensino Médio Integrado do IFFluminense campus Campos Centro](https://pp.nexojornal.com.br/opiniao/2024/05/29/acesso-e-desempenho-academico-dos-cotistas-no-ensino-medio-integrado-do-iffluminense-campus-campos-centro/)
+- [Por que devemos falar de qualidade de gasto público?](https://pp.nexojornal.com.br/ponto-de-vista/2024/05/29/por-que-devemos-falar-de-qualidade-de-gasto-publico/)
 - [Vacinação](https://pp.nexojornal.com.br/glossario/2024/05/28/vacinacao/)
 - [Violência contra a juventude negra: da mobilização social ao Plano Juventude Negra Viva](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/24/violencia-contra-a-juventude-negra-da-mobilizacao-social-ao-plano-juventude-negra-viva/)
-- [A evolução do ‘município’ no arranjo federativo brasileiro, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/24/a-evolucao-do-municipio-no-arranjo-federativo-brasileiro-em-5-pontos/)
-- [Políticas para diversidade de raça e gênero no cinema brasileiro](https://pp.nexojornal.com.br/linha-do-tempo/2024/05/24/politicas-para-diversidade-de-raca-e-genero-no-cinema-brasileiro/)
-- [O verbo ‘cuidar’ está em crise](https://pp.nexojornal.com.br/opiniao/2024/05/24/o-verbo-cuidar-esta-em-crise/)
 <!-- PP_LIST:END -->
 
