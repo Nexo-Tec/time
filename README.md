@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que você come pode alterar os genes dos seus filhos e netos](https://www.nexojornal.com.br/externo/2024/05/29/o-que-voce-come-pode-alterar-os-genes-dos-seus-filhos-e-netos)
 - [Câmara aprova taxa de 20% sobre importados online de até US$ 50](https://www.nexojornal.com.br/extra/2024/05/28/camara-aprova-taxa-de-20-sobre-importados-online-de-ate-us-50)
 - [Quem tem direito à cidadania italiana. E por que há fraudes](https://www.nexojornal.com.br/expresso/2024/05/28/tirar-cidadania-italiana-quem-tem-direito)
 - [Congresso restabelece restrição à saída temporária de presos](https://www.nexojornal.com.br/extra/2024/05/28/congresso-derruba-veto-de-lula-a-saidinha-de-presos)
 - [Cheias têm endereço: os mais pobres de Porto Alegre e entorno](https://www.nexojornal.com.br/grafico/2024/05/28/rio-grande-do-sul-enchente-areas-mais-pobres-e-precarias)
-- [Qual a eficiência de uma armadura da Grécia antiga](https://www.nexojornal.com.br/expresso/2024/05/28/armadura-da-grecia-antiga)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
