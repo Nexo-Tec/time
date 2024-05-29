@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como os esportes são retratados nos animes e mangás](https://www.nexojornal.com.br/expresso/2024/05/29/esporte-em-anime-e-manga)
-- [Coreia do Norte lança balões com lixo, fezes e propaganda ao Sul](https://www.nexojornal.com.br/extra/2024/05/29/coreia-do-norte-lanca-baloes-com-lixo-fezes-e-propaganda-ao-sul)
-- [Lula anuncia R$ 15 bilhões em crédito para empresas gaúchas](https://www.nexojornal.com.br/extra/2024/05/29/lula-anuncia-pacote-a-empresas-do-rs)
-- [Dia a dia do golpe #4: ‘declaro vaga a Presidência’](https://www.nexojornal.com.br/podcast/2024/05/29/ditadura-militar-brasil-1964-ai-1-e-papel-do-congresso)
-- [Brasil retira embaixador em Israel de forma definitiva](https://www.nexojornal.com.br/extra/2024/05/29/brasil-israel-crise-diplomatica)
+- [Como foi o mandato de Alexandre de Moraes à frente do TSE](https://www.nexojornal.com.br/podcast/2024/05/29/mandato-de-alexandre-de-moraes-no-tse)
+- [Como a fotografia ajuda a entender a Revolta de 1924](https://www.nexojornal.com.br/academico/2024/05/29/como-a-fotografia-ajuda-a-entender-a-revolta-de-1924)
+- [Dez anos depois do Fuleco: um refúgio de tatus-bolas sem gestão](https://www.nexojornal.com.br/externo/2024/05/29/dez-anos-depois-do-fuleco-um-refugio-de-tatus-bolas-sem-gestao)
+- [As táticas de Luciano Hang para construir sua identidade online](https://www.nexojornal.com.br/externo/2024/05/29/luciano-hang-taticas-identidade-online)
+- [Senado aprova reajuste para parte de servidores federais](https://www.nexojornal.com.br/extra/2024/05/29/aumento-de-salario-de-pf-prf-ppf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
