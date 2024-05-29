@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O estudo que testou a eficiência de uma armadura da Grécia antiga](https://www.nexojornal.com.br/expresso/2024/05/28/armadura-da-grecia-antiga)
+- [Quem tem direito à cidadania italiana. E por que há tanta fraude](https://www.nexojornal.com.br/expresso/2024/05/28/tirar-cidadania-italiana-quem-tem-direito)
+- [Congresso restabelece restrição à saída temporária de presos](https://www.nexojornal.com.br/extra/2024/05/28/congresso-derruba-veto-de-lula-a-saidinha-de-presos)
+- [Cheias têm endereço: os mais pobres de Porto Alegre e entorno](https://www.nexojornal.com.br/grafico/2024/05/28/rio-grande-do-sul-enchente-areas-mais-pobres-e-precarias)
+- [Qual a eficiência de uma armadura da Grécia antiga](https://www.nexojornal.com.br/expresso/2024/05/28/armadura-da-grecia-antiga)
 - [Por que o Cerrado voltou a ser o bioma mais desmatado](https://www.nexojornal.com.br/podcast/2024/05/28/desmatamento-no-cerrado-ultrapassa-o-da-amazonia)
-- [Ciência versus arte](https://www.nexojornal.com.br/externo/2024/05/28/ciencia-versus-arte)
-- [Governo federal lança diretrizes para uso de câmeras policiais](https://www.nexojornal.com.br/extra/2024/05/28/governo-federal-lanca-diretrizes-para-uso-de-cameras-policiais)
-- [‘Santo millennial’: o italiano que pode virar padroeiro da internet](https://www.nexojornal.com.br/expresso/2024/05/28/carlo-acutis-santo-millennial-padroeiro-internet-canonizacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
