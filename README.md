@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Exame criminológico e fim da ‘saidinha’: a ordem penal endurece](https://www.nexojornal.com.br/expresso/2024/05/29/exame-criminologico-saidinha)
+- [O impacto da tragédia das chuvas na saúde menstrual](https://www.nexojornal.com.br/expresso/2024/05/29/saude-menstrual-impacto-tragedia-rio-grande-do-sul)
 - [Como foi o mandato de Alexandre de Moraes à frente do TSE](https://www.nexojornal.com.br/podcast/2024/05/29/mandato-de-alexandre-de-moraes-no-tse)
 - [Como a fotografia ajuda a entender a Revolta de 1924](https://www.nexojornal.com.br/academico/2024/05/29/como-a-fotografia-ajuda-a-entender-a-revolta-de-1924)
 - [Dez anos depois do Fuleco: um refúgio de tatus-bolas sem gestão](https://www.nexojornal.com.br/externo/2024/05/29/dez-anos-depois-do-fuleco-um-refugio-de-tatus-bolas-sem-gestao)
-- [As táticas de Luciano Hang para construir sua identidade online](https://www.nexojornal.com.br/externo/2024/05/29/luciano-hang-taticas-identidade-online)
-- [Senado aprova reajuste para parte de servidores federais](https://www.nexojornal.com.br/extra/2024/05/29/aumento-de-salario-de-pf-prf-ppf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
