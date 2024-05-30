@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As incertezas do VAR: uma análise técnica e quase desapaixonada](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/as-incertezas-do-var-uma-analise-tecnica-e-quase-desapaixonada/)
 - [Maternidade, saúde mental e mitologia no romance de Vanessa Barbara](https://gamarevista.uol.com.br/achamos-que-vale/ler/maternidade-saude-mental-e-mitologia-no-romance-de-vanessa-barbara/)
 - [Anitta no Museu da Língua Portuguesa](https://gamarevista.uol.com.br/achamos-que-vale/ir/anitta-no-museu-da-lingua-portuguesa/)
 - [“Jardim dos Desejos”, do roteirista de “Taxi Driver”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/jardim-dos-desejos-do-roteirista-de-taxi-driver/)
 - [A coluna de Ailton Krenak na Folha de S.Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-coluna-de-ailton-krenak-na-folha-de-s-paulo/)
-- [A fofoca glamourosa de “Feud: Capote vs. The Swans” no Star+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-fofoca-glamourosa-de-feud-capote-vs-the-swans-no-star/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
