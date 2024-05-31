@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [8 aspectos de um filme para você entender o que assiste](https://www.nexojornal.com.br/servico/2024/05/31/cinema-direcao-fotografia-som-roteiro-e-outros-aspectos-para-entender-melhor-um-filme)
 - [Como um satélite de madeira pode diminuir o lixo espacial](https://www.nexojornal.com.br/expresso/2024/05/31/satelite-de-madeira-diminuir-lixo-espacial)
 - [De chef a triatleta: a vida autônoma de brasileiros com Down](https://www.nexojornal.com.br/externo/2024/05/31/de-chef-a-triatleta-a-vida-autonoma-de-brasileiros-com-down)
 - [Por que a Oktoberfest proibiu uma música de Gigi D’Agostino](https://www.nexojornal.com.br/expresso/2024/05/31/oktoberfest-gigi-dagostino-lamour-toujours-ill-fly-with-you)
 - [‘Dói não conseguir levar notícias boas sobre o clima’](https://www.nexojornal.com.br/profissoes/2024/05/31/estael-sias-meteorologista-linha-de-frente-rio-grande-do-sul)
-- [O engajamento de Robert De Niro na campanha de Biden](https://www.nexojornal.com.br/expresso/2024/05/31/robert-de-niro-trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
