@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros ilustrados para leituras antirracistas com as crianças](https://www.nexojornal.com.br/estante-favoritos/2024/05/31/5-livros-ilustrados-para-leituras-antirracistas-com-as-criancas)
+- [Você reconhece o time pelo desempenho no Brasileirão?](https://www.nexojornal.com.br/interativo/2024/05/31/historico-desempenho-times-brasileirao-campeonato-brasileiro-quiz-teste)
 - [A insegurança da comunidade LGBTI+ na noite paulistana](https://www.nexojornal.com.br/externo/2024/05/30/a-inseguranca-da-comunidade-lgbti-na-noite-paulistana)
 - [O impacto das enchentes gaúchas no mercado de seguros](https://www.nexojornal.com.br/expresso/2024/05/30/mudancas-climaticas-rio-grande-do-sul-impacto-clausula-seguro)
 - [Trump se torna 1º ex-presidente dos EUA condenado por crime](https://www.nexojornal.com.br/extra/2024/05/30/donald-trump-condenado-julgamento-atriz-porno-eua)
-- [Justiça suspende acordo do governo em greve de professores](https://www.nexojornal.com.br/extra/2024/05/30/justica-decisao-acordo-governo-greve-professores-federais)
-- [Exame criminológico e fim da ‘saidinha’: a ordem penal endurece](https://www.nexojornal.com.br/expresso/2024/05/29/exame-criminologico-saidinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
