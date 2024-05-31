@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O engajamento de Robert De Niro na campanha de Biden](https://www.nexojornal.com.br/expresso/2024/05/31/robert-de-niro-trump)
 - [5 livros ilustrados para leituras antirracistas com as crianças](https://www.nexojornal.com.br/estante-favoritos/2024/05/31/5-livros-ilustrados-para-leituras-antirracistas-com-as-criancas)
 - [Você reconhece o time pelo desempenho no Brasileirão?](https://www.nexojornal.com.br/interativo/2024/05/31/historico-desempenho-times-brasileirao-campeonato-brasileiro-quiz-teste)
 - [A insegurança da comunidade LGBTI+ na noite paulistana](https://www.nexojornal.com.br/externo/2024/05/30/a-inseguranca-da-comunidade-lgbti-na-noite-paulistana)
 - [O impacto das enchentes gaúchas no mercado de seguros](https://www.nexojornal.com.br/expresso/2024/05/30/mudancas-climaticas-rio-grande-do-sul-impacto-clausula-seguro)
-- [Trump se torna 1º ex-presidente dos EUA condenado por crime](https://www.nexojornal.com.br/extra/2024/05/30/donald-trump-condenado-julgamento-atriz-porno-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
