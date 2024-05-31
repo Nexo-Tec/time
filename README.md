@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A insegurança da comunidade LGBTI+ na noite paulistana](https://www.nexojornal.com.br/externo/2024/05/30/a-inseguranca-da-comunidade-lgbti-na-noite-paulistana)
+- [O impacto das enchentes gaúchas no mercado de seguros](https://www.nexojornal.com.br/expresso/2024/05/30/mudancas-climaticas-rio-grande-do-sul-impacto-clausula-seguro)
 - [Trump se torna 1º ex-presidente dos EUA condenado por crime](https://www.nexojornal.com.br/extra/2024/05/30/donald-trump-condenado-julgamento-atriz-porno-eua)
 - [Justiça suspende acordo do governo em greve de professores](https://www.nexojornal.com.br/extra/2024/05/30/justica-decisao-acordo-governo-greve-professores-federais)
 - [Exame criminológico e fim da ‘saidinha’: a ordem penal endurece](https://www.nexojornal.com.br/expresso/2024/05/29/exame-criminologico-saidinha)
-- [O impacto da tragédia das chuvas na saúde menstrual](https://www.nexojornal.com.br/expresso/2024/05/29/saude-menstrual-impacto-tragedia-rio-grande-do-sul)
-- [Como foi o mandato de Alexandre de Moraes à frente do TSE](https://www.nexojornal.com.br/podcast/2024/05/29/mandato-de-alexandre-de-moraes-no-tse)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
