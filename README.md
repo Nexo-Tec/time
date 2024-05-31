@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a Oktoberfest proibiu uma música de Gigi D’Agostino](https://www.nexojornal.com.br/expresso/2024/05/31/oktoberfest-gigi-dagostino-lamour-toujours-ill-fly-with-you)
+- [‘Dói não conseguir levar notícias boas sobre o clima’](https://www.nexojornal.com.br/profissoes/2024/05/31/estael-sias-meteorologista-linha-de-frente-rio-grande-do-sul)
 - [O engajamento de Robert De Niro na campanha de Biden](https://www.nexojornal.com.br/expresso/2024/05/31/robert-de-niro-trump)
 - [5 livros ilustrados para leituras antirracistas com as crianças](https://www.nexojornal.com.br/estante-favoritos/2024/05/31/5-livros-ilustrados-para-leituras-antirracistas-com-as-criancas)
 - [Você reconhece o time pelo desempenho no Brasileirão?](https://www.nexojornal.com.br/interativo/2024/05/31/historico-desempenho-times-brasileirao-campeonato-brasileiro-quiz-teste)
-- [A insegurança da comunidade LGBTI+ na noite paulistana](https://www.nexojornal.com.br/externo/2024/05/30/a-inseguranca-da-comunidade-lgbti-na-noite-paulistana)
-- [O impacto das enchentes gaúchas no mercado de seguros](https://www.nexojornal.com.br/expresso/2024/05/30/mudancas-climaticas-rio-grande-do-sul-impacto-clausula-seguro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
