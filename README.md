@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que fazer com os rejeitos gerados pela exploração mineral](https://www.nexojornal.com.br/externo/2024/06/02/o-que-fazer-com-os-rejeitos-gerados-pela-exploracao-mineral)
+- [Omí que alimenta: a água como fundamento da sobrevivência](https://www.nexojornal.com.br/ensaio/2024/06/01/omi-que-alimenta-a-agua-como-fundamento-da-sobrevivencia)
+- [O que faz alertas de desastre por celulares serem eficazes](https://www.nexojornal.com.br/expresso/2024/06/01/alertas-desastres-celulares)
 - [Real Madrid bate Borussia e vence 15ª Champions League](https://www.nexojornal.com.br/extra/2024/06/01/real-madrid-borussia-dortmund-champions-league)
 - [‘Ursa-menor’: entre nascimentos e padecimentos](https://www.nexojornal.com.br/estante-trechos/2024/05/31/ursa-menor-carla-kinzo-livro-trecho)
-- [A falta de rótulos de advertência em bebidas alcóolicas](https://www.nexojornal.com.br/externo/2024/05/31/a-falta-de-rotulos-de-advertencia-em-bebidas-alcoolicas)
-- [Ataques químicos: os agrotóxicos que caem do céu no Maranhão](https://www.nexojornal.com.br/externo/2024/05/31/ataques-quimicos-os-agrotoxicos-que-caem-do-ceu-no-maranhao)
-- [PF prende 2 suspeitos de ameaçar Moraes e sua família](https://www.nexojornal.com.br/extra/2024/05/31/pf-prende-2-suspeitos-de-ameacar-moraes-e-sua-familia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
