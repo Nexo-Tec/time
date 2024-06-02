@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Partido de Mandela tem seu pior resultado em eleições](https://www.nexojornal.com.br/extra/2024/06/02/eleicoes-africa-do-sul-congresso-nacional-africano)
 - [O que fazer com os rejeitos gerados pela exploração mineral](https://www.nexojornal.com.br/externo/2024/06/02/o-que-fazer-com-os-rejeitos-gerados-pela-exploracao-mineral)
 - [Omí que alimenta: a água como fundamento da sobrevivência](https://www.nexojornal.com.br/ensaio/2024/06/01/omi-que-alimenta-a-agua-como-fundamento-da-sobrevivencia)
 - [O que faz alertas de desastre por celulares serem eficazes](https://www.nexojornal.com.br/expresso/2024/06/01/alertas-desastres-celulares)
 - [Real Madrid bate Borussia e vence 15ª Champions League](https://www.nexojornal.com.br/extra/2024/06/01/real-madrid-borussia-dortmund-champions-league)
-- [‘Ursa-menor’: entre nascimentos e padecimentos](https://www.nexojornal.com.br/estante-trechos/2024/05/31/ursa-menor-carla-kinzo-livro-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
