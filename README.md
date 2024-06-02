@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Danrley Ferreira: “A maratona é uma prova que te leva ao extremo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/danrley-ferreira-maratona-prova-que-leva-ao-extremo/)
 - [SideChat, TikTok, IA…: tecnologias para fugir de si mesmo?](https://gamarevista.uol.com.br/colunistas/maria-homem/sidechat-tiktok-ia-tecnologias-para-fugir-de-si-mesmo/)
 - [Esquizofrenias Reunidas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/esquizofrenias-reunidas/)
 - [As incertezas do VAR: uma análise técnica e quase desapaixonada](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/as-incertezas-do-var-uma-analise-tecnica-e-quase-desapaixonada/)
 - [Maternidade, saúde mental e mitologia no romance de Vanessa Barbara](https://gamarevista.uol.com.br/achamos-que-vale/ler/maternidade-saude-mental-e-mitologia-no-romance-de-vanessa-barbara/)
-- [Anitta no Museu da Língua Portuguesa](https://gamarevista.uol.com.br/achamos-que-vale/ir/anitta-no-museu-da-lingua-portuguesa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
