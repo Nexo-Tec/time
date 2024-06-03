@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que tantas empresas estão pedindo recuperação judicial](https://www.nexojornal.com.br/expresso/2024/06/03/por-que-tantas-empresas-estao-pedindo-recuperacao-judicial)
 - [Quem é a primeira mulher eleita para a presidência do México](https://www.nexojornal.com.br/podcast/2024/06/03/presidente-mexico-claudia-sheinbaum-primeira-mulher)
 - [Paraná aprova projeto que privatiza gestão de 200 colégios estaduais](https://www.nexojornal.com.br/extra/2024/06/03/invasao-assembleia-parana)
 - [Como os aplicativos de relacionamento podem afetar a saúde mental](https://www.nexojornal.com.br/externo/2024/06/03/como-os-aplicativos-de-relacionamento-podem-afetar-a-saude-mental)
 - [Cármen Lúcia assume TSE e vai comandar eleições municipais](https://www.nexojornal.com.br/extra/2024/06/03/carmen-lucia-presidente-do-tse)
-- [Aeroporto Salgado Filho, de Porto Alegre, reabre só em dezembro](https://www.nexojornal.com.br/extra/2024/06/03/reabertura-do-aeroporto-salgado-filho-em-porto-alegre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
