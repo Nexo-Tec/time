@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem é a primeira mulher eleita para a presidência do México](https://www.nexojornal.com.br/podcast/2024/06/03/presidente-mexico-claudia-sheinbaum-primeira-mulher)
+- [Paraná aprova projeto que privatiza gestão de 200 colégios estaduais](https://www.nexojornal.com.br/extra/2024/06/03/invasao-assembleia-parana)
+- [Como os aplicativos de relacionamento podem afetar a saúde mental](https://www.nexojornal.com.br/externo/2024/06/03/como-os-aplicativos-de-relacionamento-podem-afetar-a-saude-mental)
 - [Cármen Lúcia assume TSE e vai comandar eleições municipais](https://www.nexojornal.com.br/extra/2024/06/03/carmen-lucia-presidente-do-tse)
 - [Aeroporto Salgado Filho, de Porto Alegre, reabre só em dezembro](https://www.nexojornal.com.br/extra/2024/06/03/reabertura-do-aeroporto-salgado-filho-em-porto-alegre)
-- [Claudia Sheinbaum é 1ª mulher eleita presidente do México](https://www.nexojornal.com.br/extra/2024/06/03/claudia-sheinbaum-e-1a-mulher-eleita-presidente-do-mexico)
-- [Os movimentos da China para reduzir o desmate da Amazônia](https://www.nexojornal.com.br/externo/2024/06/02/a-pressao-da-china-para-reduzir-o-desmate-da-amazonia)
-- [A perda da biodiversidade é problema de todos](https://www.nexojornal.com.br/ensaio/2024/06/02/a-perda-da-biodiversidade-e-problema-de-todos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
