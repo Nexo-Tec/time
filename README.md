@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataque israelense no Líbano fere mãe e filhos brasileiros](https://www.nexojornal.com.br/extra/2024/06/02/ataque-israel-libano-mae-filhos-brasileiros)
 - [Parada LGBTI+ reúne 73 mil pessoas em SP, segundo pesquisa](https://www.nexojornal.com.br/extra/2024/06/02/quantas-pessoas-foram-na-parada-lgbt-2024)
 - [Partido de Mandela tem pior resultado em eleições](https://www.nexojornal.com.br/extra/2024/06/02/eleicoes-africa-do-sul-congresso-nacional-africano)
 - [O que fazer com os rejeitos gerados pela exploração mineral](https://www.nexojornal.com.br/externo/2024/06/02/o-que-fazer-com-os-rejeitos-gerados-pela-exploracao-mineral)
 - [Omí que alimenta: a água como fundamento da sobrevivência](https://www.nexojornal.com.br/ensaio/2024/06/01/omi-que-alimenta-a-agua-como-fundamento-da-sobrevivencia)
-- [O que faz alertas de desastre por celulares serem eficazes](https://www.nexojornal.com.br/expresso/2024/06/01/alertas-desastres-celulares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
