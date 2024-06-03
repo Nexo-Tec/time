@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Shoulder bag Round Mini Uniqlo](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/shoulder-bag-round-mini-uniqlo/)
+- [Melly](https://gamarevista.uol.com.br/pessoas/questionario-proust/melly/)
 - [Danrley Ferreira: “A maratona é uma prova que te leva ao extremo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/danrley-ferreira-maratona-prova-que-leva-ao-extremo/)
 - [SideChat, TikTok, IA…: tecnologias para fugir de si mesmo?](https://gamarevista.uol.com.br/colunistas/maria-homem/sidechat-tiktok-ia-tecnologias-para-fugir-de-si-mesmo/)
 - [Esquizofrenias Reunidas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/esquizofrenias-reunidas/)
