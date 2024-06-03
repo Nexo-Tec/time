@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Claudia Sheinbaum é 1ª mulher eleita presidente do México](https://www.nexojornal.com.br/extra/2024/06/03/claudia-sheinbaum-e-1a-mulher-eleita-presidente-do-mexico)
 - [Os movimentos da China para reduzir o desmate da Amazônia](https://www.nexojornal.com.br/externo/2024/06/02/a-pressao-da-china-para-reduzir-o-desmate-da-amazonia)
 - [A perda da biodiversidade é problema de todos](https://www.nexojornal.com.br/ensaio/2024/06/02/a-perda-da-biodiversidade-e-problema-de-todos)
 - [‘Busco me fortalecer e fortalecer quem também foi atingido’](https://www.nexojornal.com.br/profissoes/2024/06/02/ana-lucia-magalhaes-assistente-social-linha-de-frente-rio-grande-do-sul)
 - [‘Não faz sentido esperar até 2040 para discutir a Previdência’](https://www.nexojornal.com.br/entrevista/2024/06/02/nao-faz-sentido-esperar-ate-2040-para-discutir-a-previdencia)
-- [Ataque israelense no Líbano fere mãe e filhos brasileiros](https://www.nexojornal.com.br/extra/2024/06/02/ataque-israel-libano-mae-filhos-brasileiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
