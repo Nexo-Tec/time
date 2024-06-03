@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Digamos desde já que nos amamos](https://gamarevista.uol.com.br/colunistas/fernando-luna/digamos-desde-ja-que-nos-amamos/)
 - [Melly](https://gamarevista.uol.com.br/pessoas/questionario-proust/melly/)
 - [Danrley Ferreira: “A maratona é uma prova que te leva ao extremo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/danrley-ferreira-maratona-prova-que-leva-ao-extremo/)
 - [SideChat, TikTok, IA…: tecnologias para fugir de si mesmo?](https://gamarevista.uol.com.br/colunistas/maria-homem/sidechat-tiktok-ia-tecnologias-para-fugir-de-si-mesmo/)
 - [Esquizofrenias Reunidas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/esquizofrenias-reunidas/)
-- [As incertezas do VAR: uma análise técnica e quase desapaixonada](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/as-incertezas-do-var-uma-analise-tecnica-e-quase-desapaixonada/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
