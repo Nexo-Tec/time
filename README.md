@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo propõe ações para compensar desoneração da folha](https://www.nexojornal.com.br/extra/2024/06/04/governo-propoe-acoes-para-compensar-desoneracao-da-folha)
 - [Serviços puxam crescimento de 0,8% do PIB no 1º trimestre](https://www.nexojornal.com.br/extra/2024/06/04/pib-primeiro-trimestre-2024-brasil-ibge-economia)
 - [Como a Reino Church explicita a expansão das igrejas evangélicas](https://www.nexojornal.com.br/expresso/2024/06/03/religiao-reino-church-megaigrejas-evangelicas)
 - [Pesquisadores querem reduzir mortes de morcegos nos parques eólicos](https://www.nexojornal.com.br/externo/2024/06/03/pesquisadores-querem-reduzir-mortes-de-morcegos-nos-parques-eolicos)
 - [A volta de Will Smith aos cinemas após o tapa no Oscar](https://www.nexojornal.com.br/expresso/2024/06/03/a-volta-de-will-smith-bad-boys)
-- [Por que tantas empresas estão pedindo recuperação judicial](https://www.nexojornal.com.br/expresso/2024/06/03/recuperacao-judicial-de-empresas-motivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
