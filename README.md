@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Planos de saúde: mais caros e sob risco de cancelamento](https://www.nexojornal.com.br/podcast/2024/06/04/saude-no-brasil-o-aumento-dos-planos-de-saude)
 - [4 descobertas científicas recentes sobre o sono](https://www.nexojornal.com.br/externo/2024/06/04/4-descobertas-cientificas-recentes-sobre-o-sono)
 - [Relação entre pessoas do mesmo sexo ainda é crime em 64 países](https://www.nexojornal.com.br/grafico/2024/06/04/paises-em-que-a-homossexualidade-e-crime-criminalizacao-de-relacoes-homossexuais)
 - [Supremo torna Sergio Moro réu por calúnia contra Gilmar Mendes](https://www.nexojornal.com.br/extra/2024/06/04/supremo-torna-sergio-moro-reu-por-calunia-contra-gilmar-mendes)
 - [Biden anuncia regras que preveem fronteira fechada com México](https://www.nexojornal.com.br/extra/2024/06/04/biden-anuncia-regras-de-fronteira-fechada-com-mexico)
-- [Governo propõe ações para compensar desoneração da folha](https://www.nexojornal.com.br/extra/2024/06/04/governo-propoe-acoes-para-compensar-desoneracao-da-folha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
