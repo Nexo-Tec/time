@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Lei n. 12.990/2014: a reparação que tardou, falhou!](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/04/lei-no-12-990-2014-a-reparacao-que-tardou-falhou/)
 - [Educação de qualidade e crescimento econômico](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/04/educacao-de-qualidade-e-crescimento-economico/)
 - [Conservação da natureza e a reconstrução do Rio Grande do Sul: uma solução dupla para a crise climática](https://pp.nexojornal.com.br/opiniao/2024/06/04/conservacao-da-natureza-e-a-reconstrucao-do-rio-grande-do-sul-uma-solucao-dupla-para-a-crise-climatica/)
 - [Política Nacional de Saúde Mental nas Escolas, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/05/29/politica-nacional-de-saude-mental-nas-escolas-em-5-pontos/)
 - [Bruno Kawaoka Komatsu: juventudes e políticas públicas](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/05/29/bruno-kawaoka-komatsu-juventudes-e-politicas-publicas/)
-- [Entre a água e a lama: vidas, casas e negócios no Rio Grande do Sul](https://pp.nexojornal.com.br/opiniao/2024/05/29/entre-a-agua-e-a-lama-vidas-casas-e-negocios-no-rio-grande-do-sul/)
 <!-- PP_LIST:END -->
 
