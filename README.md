@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Reconstrução deve se dar a partir da adaptação climática’](https://www.nexojornal.com.br/profissoes/2024/06/05/ipora-possantti-hidrologo-linha-de-frente-rio-grande-do-sul)
 - [Brasil perde quase 40% da água tratada, mostra estudo](https://www.nexojornal.com.br/extra/2024/06/05/desperdicio-agua-tratada-brasil-estudo)
 - [Dia a dia do golpe #5: Congresso dilapidado, general no poder](https://www.nexojornal.com.br/podcast/2024/06/05/ditadura-militar-brasil-1964-eleicao-indireta-castelo-branco)
 - [Modi se reelege na Índia mas perde apoio no Congresso](https://www.nexojornal.com.br/extra/2024/06/05/narendra-modi-eleicao-india-2024)
 - [A situação das escolas gaúchas com um mês de tragédia climática](https://www.nexojornal.com.br/externo/2024/06/04/a-situacao-das-escolas-gauchas-com-um-mes-de-tragedia-climatica)
-- [Equidade de gênero nas lideranças públicas para avançar os ODS](https://www.nexojornal.com.br/colunistas/2024/06/04/genero-liderancas-publicas-ods)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
