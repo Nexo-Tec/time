@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Direitos quilombolas](https://pp.nexojornal.com.br/linha-do-tempo/2024/06/04/direitos-quilombolas/)
+- [Desmatamento e clima: colonizações e a tragédia das inundações no Rio Grande do Sul](https://pp.nexojornal.com.br/opiniao/2024/06/04/desmatamento-e-clima-colonizacoes-e-a-tragedia-das-inundacoes-no-rio-grande-do-sul/)
 - [Estudos sobre raça e eleição](https://pp.nexojornal.com.br/bibliografia-basica/2024/06/04/estudos-sobre-raca-e-eleicao/)
 - [Uma etnografia sobre usos evangélicos do WhatsApp](https://pp.nexojornal.com.br/academico/2024/06/04/uma-etnografia-sobre-usos-evangelicos-do-whatsapp/)
 - [Lidando com as consequências: efeitos do desmantelamento subnacional nas enchentes no Rio Grande do Sul](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/04/lidando-com-as-consequencias-efeitos-do-desmantelamento-subnacional-nas-enchentes-no-rio-grande-do-sul/)
-- [Lei n. 12.990/2014: a reparação que tardou, falhou!](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/04/lei-no-12-990-2014-a-reparacao-que-tardou-falhou/)
-- [Educação de qualidade e crescimento econômico](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/04/educacao-de-qualidade-e-crescimento-economico/)
 <!-- PP_LIST:END -->
 
