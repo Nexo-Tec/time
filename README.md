@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A situação das escolas gaúchas com um mês de tragédia climática](https://www.nexojornal.com.br/externo/2024/06/04/a-situacao-das-escolas-gauchas-com-um-mes-de-tragedia-climatica)
+- [Equidade de gênero nas lideranças públicas para avançar os ODS](https://www.nexojornal.com.br/colunistas/2024/06/04/genero-liderancas-publicas-ods)
+- [Relator tira taxação de importados de projeto, e Senado adia votação](https://www.nexojornal.com.br/extra/2024/06/04/apos-relator-tirar-taxacao-de-importados-senado-adia-votacao)
+- [O PIB cresceu no início de 2024. Mas como fica até o fim do ano?](https://www.nexojornal.com.br/expresso/2024/06/04/o-pib-cresceu-no-inicio-de-2024-mas-como-fica-ate-o-fim-do-ano)
 - [Planos de saúde: mais caros e sob risco de cancelamento](https://www.nexojornal.com.br/podcast/2024/06/04/saude-no-brasil-o-aumento-dos-planos-de-saude)
-- [4 descobertas científicas recentes sobre o sono](https://www.nexojornal.com.br/externo/2024/06/04/4-descobertas-cientificas-recentes-sobre-o-sono)
-- [Relação entre pessoas do mesmo sexo ainda é crime em 64 países](https://www.nexojornal.com.br/grafico/2024/06/04/paises-em-que-a-homossexualidade-e-crime-criminalizacao-de-relacoes-homossexuais)
-- [Supremo torna Sergio Moro réu por calúnia contra Gilmar Mendes](https://www.nexojornal.com.br/extra/2024/06/04/supremo-torna-sergio-moro-reu-por-calunia-contra-gilmar-mendes)
-- [Biden anuncia regras que preveem fronteira fechada com México](https://www.nexojornal.com.br/extra/2024/06/04/biden-anuncia-regras-de-fronteira-fechada-com-mexico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
