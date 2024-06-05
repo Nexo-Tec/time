@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os planos de Lula para o meio ambiente em meio à greve do setor](https://www.nexojornal.com.br/podcast/2024/06/05/governo-lula-politica-ambiental-meio-ambiente-setor-em-greve)
+- [Os questionamentos ao leilão milionário de um fóssil jurássico](https://www.nexojornal.com.br/expresso/2024/06/05/os-questionamentos-ao-leilao-milionario-de-um-fossil-jurassico)
 - [Inovações enobrecem o café brasileiro](https://www.nexojornal.com.br/externo/2024/06/05/inovacoes-enobrecem-o-cafe-brasileiro)
 - [Conselho de ética livra Janones e sessão termina em tumulto](https://www.nexojornal.com.br/extra/2024/06/05/conselho-etica-janones)
 - [‘Reconstrução deve se dar a partir da adaptação climática’](https://www.nexojornal.com.br/profissoes/2024/06/05/ipora-possantti-hidrologo-linha-de-frente-rio-grande-do-sul)
-- [Brasil perde quase 40% da água tratada, mostra estudo](https://www.nexojornal.com.br/extra/2024/06/05/desperdicio-agua-tratada-brasil-estudo)
-- [Dia a dia do golpe #5: Congresso dilapidado, general no poder](https://www.nexojornal.com.br/podcast/2024/06/05/ditadura-militar-brasil-1964-eleicao-indireta-castelo-branco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
