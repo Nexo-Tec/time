@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Modi se reelege na Índia mas perde apoio no Congresso](https://www.nexojornal.com.br/extra/2024/06/05/narendra-modi-eleicao-india-2024)
 - [A situação das escolas gaúchas com um mês de tragédia climática](https://www.nexojornal.com.br/externo/2024/06/04/a-situacao-das-escolas-gauchas-com-um-mes-de-tragedia-climatica)
 - [Equidade de gênero nas lideranças públicas para avançar os ODS](https://www.nexojornal.com.br/colunistas/2024/06/04/genero-liderancas-publicas-ods)
 - [Relator tira taxação de importados de projeto, e Senado adia votação](https://www.nexojornal.com.br/extra/2024/06/04/apos-relator-tirar-taxacao-de-importados-senado-adia-votacao)
 - [O PIB cresceu no início de 2024. Mas como fica até o fim do ano?](https://www.nexojornal.com.br/expresso/2024/06/04/o-pib-cresceu-no-inicio-de-2024-mas-como-fica-ate-o-fim-do-ano)
-- [Planos de saúde: mais caros e sob risco de cancelamento](https://www.nexojornal.com.br/podcast/2024/06/04/saude-no-brasil-o-aumento-dos-planos-de-saude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
