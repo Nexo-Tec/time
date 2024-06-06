@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo compra 236 mil toneladas de arroz importado](https://www.nexojornal.com.br/extra/2024/06/06/leilao-do-arroz-rio-grande-do-sul)
+- [Quais temas movem as campanhas para o Parlamento Europeu](https://www.nexojornal.com.br/externo/2024/06/06/quais-temas-movem-as-campanhas-para-o-parlamento-europeu)
+- [Governo compra 263 mil toneladas de arroz importado](https://www.nexojornal.com.br/extra/2024/06/06/leilao-do-arroz-rio-grande-do-sul)
 - [Quais os principais produtos agrícolas que vêm do Rio Grande do Sul](https://www.nexojornal.com.br/grafico/2024/06/06/producao-agricolas-agricultura-rio-grande-do-sul)
 - [Polícia Federal tenta capturar foragidos de 8 de janeiro](https://www.nexojornal.com.br/extra/2024/06/06/policia-federal-operacao-foragidos-8-de-janeiro)
 - [Ataque aéreo de Israel atinge escola da ONU na Faixa de Gaza](https://www.nexojornal.com.br/extra/2024/06/06/ataque-israel-escola-onu-faixa-de-gaza)
-- [Quais as limitações de comparar o PIB de diferentes países](https://www.nexojornal.com.br/expresso/2024/06/05/quais-as-limitacoes-de-comparar-o-pib-de-diferentes-paises)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
