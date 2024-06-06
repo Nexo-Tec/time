@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia Federal tenta capturar foragidos de 8 de janeiro](https://www.nexojornal.com.br/extra/2024/06/06/policia-federal-operacao-foragidos-8-de-janeiro)
 - [Ataque aéreo de Israel atinge escola da ONU na Faixa de Gaza](https://www.nexojornal.com.br/extra/2024/06/06/ataque-israel-escola-onu-faixa-de-gaza)
 - [Quais as limitações de comparar o PIB de diferentes países](https://www.nexojornal.com.br/expresso/2024/06/05/quais-as-limitacoes-de-comparar-o-pib-de-diferentes-paises)
 - [Os desafios de adaptar ‘Grande Sertão: Veredas’ nas telas](https://www.nexojornal.com.br/expresso/2024/06/05/os-desafios-de-adaptar-grande-sertao-veredas-nas-telas)
 - [O temor de indígenas pelos seus territórios no Rio Grande do Sul](https://www.nexojornal.com.br/externo/2024/06/05/o-temor-de-indigenas-pelos-seus-territorios-no-rio-grande-do-sul)
-- [Como os discursos sobre o meio ambiente afetam as leis no Brasil](https://www.nexojornal.com.br/academico/2024/06/05/como-os-discursos-sobre-o-meio-ambiente-afetam-as-leis-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
