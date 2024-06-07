@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A proposta que iguala aborto a homicídio. E a ofensiva conservadora](https://www.nexojornal.com.br/expresso/2024/06/06/proposta-de-lei-brasil-aborto-homicidio)
-- [Educar e proteger na internet &lpar;e não da internet&rpar;](https://www.nexojornal.com.br/colunistas/2024/06/06/educar-e-proteger-na-internet-e-nao-da-internet)
-- [A rede de observação de pássaros que reúne milhares de brasileiros](https://www.nexojornal.com.br/externo/2024/06/06/a-rede-de-observacao-de-passaros-que-reune-milhares-de-brasileiros)
-- [O que muda com o novo projeto de planos de adaptação ao clima](https://www.nexojornal.com.br/expresso/2024/06/06/como-vai-funcionar-o-plano-de-adaptacao-as-mudancas-climaticas)
-- [Como influenciadores atraem seguidores para rifas ilegais](https://www.nexojornal.com.br/expresso/2024/06/06/influenciadores-rifa-ilegal-proibido)
+- [A origem indígena de um dos primeiros óculos de sol](https://www.nexojornal.com.br/expresso/2024/06/07/a-origem-indigena-de-um-dos-primeiros-oculos-de-sol)
+- [Como este concerto sinfônico utiliza celulares a seu favor](https://www.nexojornal.com.br/expresso/2024/06/07/concerto-sinfonico-celulares)
+- [5 livros lusófonos que se apropriam da história](https://www.nexojornal.com.br/estante-favoritos/2024/06/07/5-livros-lusofonos-que-se-apropriam-da-historia)
+- [‘Eu vou, tu vais, ele vai’: a vida do imigrante moderno](https://www.nexojornal.com.br/estante-trechos/2024/06/07/eu-vou-tu-vais-ele-vai-a-vida-do-imigrante-moderno)
+- [PF vai pedir a Milei extradição de foragidos de 8/1](https://www.nexojornal.com.br/extra/2024/06/07/extradicao-de-foragidos-de-8-de-janeiro-argentina-javier-milei)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
