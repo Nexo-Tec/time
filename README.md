@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Keffiyeh: os muitos significados do lenço palestino](https://www.nexojornal.com.br/expresso/2024/06/07/keffiyeh-significado-lenco-palestino)
 - [Como a saga ‘Jogos Vorazes’ se renovou após a trilogia original](https://www.nexojornal.com.br/expresso/2024/06/07/jogos-vorazes-haymitch-cantiga)
 - [ONU inclui Israel em lista dos que cometem crimes contra crianças](https://www.nexojornal.com.br/extra/2024/06/07/onu-lista-da-vergonha-israel-criancas-hamas)
 - [O crescimento do PIB. As eleições no México e na Índia. E mais](https://www.nexojornal.com.br/video/2024/06/07/o-crescimento-do-pib-as-eleicoes-no-mexico-e-na-india-e-mais)
 - [Artistas ajudaram a criar linguagem visual do livro moderno no país](https://www.nexojornal.com.br/externo/2024/06/07/capas-de-livros-design-brasil-historico)
-- [Como gamers ajudaram a sequenciar o DNA do intestino](https://www.nexojornal.com.br/expresso/2024/06/07/dna-do-intestino-videogame-borderlands)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
