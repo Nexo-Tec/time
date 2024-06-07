@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Vitória da Victoria](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/vitoria-da-victoria/)
 - [A Viagem Inútil: trans/escrita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-viagem-inutil-trans-escrita/)
 - [Um “Grande Sertão: Veredas” futurista, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-grande-sertao-veredas-futurista-nos-cinemas/)
 - [As memórias de Werner Herzog](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-werner-herzog/)
 - [O suspense fantástico “Eric”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-suspense-fantastico-eric-na-netflix/)
-- [As receitas de “Tá no Forno!”, de Carla Pernambuco](https://gamarevista.uol.com.br/achamos-que-vale/fazer/as-receitas-de-ta-no-forno-de-carla-pernambuco/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
