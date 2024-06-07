@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A proposta que iguala aborto a homicídio. E a ofensiva conservadora](https://www.nexojornal.com.br/expresso/2024/06/06/proposta-de-lei-brasil-aborto-homicidio)
+- [Educar e proteger na internet &lpar;e não da internet&rpar;](https://www.nexojornal.com.br/colunistas/2024/06/06/educar-e-proteger-na-internet-e-nao-da-internet)
+- [A rede de observação de pássaros que reúne milhares de brasileiros](https://www.nexojornal.com.br/externo/2024/06/06/a-rede-de-observacao-de-passaros-que-reune-milhares-de-brasileiros)
+- [O que muda com o novo projeto de planos de adaptação ao clima](https://www.nexojornal.com.br/expresso/2024/06/06/como-vai-funcionar-o-plano-de-adaptacao-as-mudancas-climaticas)
 - [Como influenciadores atraem seguidores para rifas ilegais](https://www.nexojornal.com.br/expresso/2024/06/06/influenciadores-rifa-ilegal-proibido)
-- [A primeira vitória em 11 anos da pior seleção do mundo](https://www.nexojornal.com.br/expresso/2024/06/06/pior-selecao-de-futebol-do-mundo-san-marino)
-- [Como a taxa de importação online virou um problema](https://www.nexojornal.com.br/podcast/2024/06/06/shein-shopee-e-aliexpress-taxa-de-importacao-online-debate)
-- [Quais temas movem as campanhas para o Parlamento Europeu](https://www.nexojornal.com.br/externo/2024/06/06/quais-temas-movem-as-campanhas-para-o-parlamento-europeu)
-- [Governo compra 263 mil toneladas de arroz importado](https://www.nexojornal.com.br/extra/2024/06/06/leilao-do-arroz-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
