@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Saúde mental dos mais jovens: de quem é a responsabilidade?](https://gamarevista.uol.com.br/formato/reportagem/saude-mental-dos-mais-jovens-de-quem-e-a-responsabilidade/)
 - [Vitória da Victoria](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/vitoria-da-victoria/)
 - [A Viagem Inútil: trans/escrita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-viagem-inutil-trans-escrita/)
 - [Um “Grande Sertão: Veredas” futurista, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-grande-sertao-veredas-futurista-nos-cinemas/)
 - [As memórias de Werner Herzog](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-memorias-de-werner-herzog/)
-- [O suspense fantástico “Eric”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-suspense-fantastico-eric-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
