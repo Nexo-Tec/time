@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Artistas ajudaram a criar linguagem visual do livro moderno no país](https://www.nexojornal.com.br/externo/2024/06/07/capas-de-livros-design-brasil-historico)
 - [Como gamers ajudaram a sequenciar o DNA do intestino](https://www.nexojornal.com.br/expresso/2024/06/07/dna-do-intestino-videogame-borderlands)
 - [A origem indígena de um dos primeiros óculos de sol](https://www.nexojornal.com.br/expresso/2024/06/07/a-origem-indigena-de-um-dos-primeiros-oculos-de-sol)
 - [Como este concerto sinfônico utiliza celulares a seu favor](https://www.nexojornal.com.br/expresso/2024/06/07/concerto-sinfonico-celulares)
 - [5 livros lusófonos que se apropriam da história](https://www.nexojornal.com.br/estante-favoritos/2024/06/07/5-livros-lusofonos-que-se-apropriam-da-historia)
-- [‘Eu vou, tu vais, ele vai’: a vida do imigrante moderno](https://www.nexojornal.com.br/estante-trechos/2024/06/07/eu-vou-tu-vais-ele-vai-a-vida-do-imigrante-moderno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
