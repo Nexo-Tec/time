@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Morre economista Maria da Conceição Tavares, aos 94 anos](https://www.nexojornal.com.br/extra/2024/06/08/maria-da-conceicao-tavares-economista-morre)
+- [Morre a economista Maria da Conceição Tavares, aos 94 anos](https://www.nexojornal.com.br/extra/2024/06/08/maria-da-conceicao-tavares-economista-morre)
 - [As influências da genética e do ambiente na depressão](https://www.nexojornal.com.br/externo/2024/06/07/as-influencias-da-genetica-e-do-ambiente-na-depressao)
 - [Por que o mundo falha em se preparar para a próxima pandemia](https://www.nexojornal.com.br/expresso/2024/06/07/risco-de-nova-pandemia-o-que-fazer-e-como-se-preparar)
 - [‘Política pública trava quando a preocupação é com a rede social’](https://www.nexojornal.com.br/entrevista/2024/06/07/congresso-rede-social)
