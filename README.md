@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Trabalhamos mesmo quando não tínhamos água para nós mesmos’](https://www.nexojornal.com.br/profissoes/2024/06/08/marcos-calvete-quimico-dmae-linha-de-frente-rio-grande-do-sul)
+- [Meta-narrativas: como big techs disputam a soberania de Estados](https://www.nexojornal.com.br/ensaio/2024/06/08/tecnologia-big-techs-disputam-a-soberania-de-estados)
+- [Meio ano de Milei: o que vem depois do choque econômico?](https://www.nexojornal.com.br/expresso/2024/06/08/economia-argentina-seis-meses-apos-javier-milei)
+- [Israel resgata 4 reféns em ação que deixa 200 palestinos mortos](https://www.nexojornal.com.br/extra/2024/06/08/israel-refens-resgate-operacao-militar-faixa-de-gaza)
 - [Morre a economista Maria da Conceição Tavares, aos 94 anos](https://www.nexojornal.com.br/extra/2024/06/08/maria-da-conceicao-tavares-economista-morre)
-- [As influências da genética e do ambiente na depressão](https://www.nexojornal.com.br/externo/2024/06/07/as-influencias-da-genetica-e-do-ambiente-na-depressao)
-- [Por que o mundo falha em se preparar para a próxima pandemia](https://www.nexojornal.com.br/expresso/2024/06/07/risco-de-nova-pandemia-o-que-fazer-e-como-se-preparar)
-- [‘Política pública trava quando a preocupação é com a rede social’](https://www.nexojornal.com.br/entrevista/2024/06/07/congresso-rede-social)
-- [CNJ abre processos disciplinares contra juízes da Lava Jato](https://www.nexojornal.com.br/extra/2024/06/07/gabriela-hardt-investigacao-lava-jato-vara-de-curitiba)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
