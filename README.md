@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Keffiyeh: os muitos significados do lenço palestino](https://www.nexojornal.com.br/expresso/2024/06/07/keffiyeh-significado-lenco-palestino)
-- [Como a saga ‘Jogos Vorazes’ se renovou após a trilogia original](https://www.nexojornal.com.br/expresso/2024/06/07/jogos-vorazes-haymitch-cantiga)
-- [ONU inclui Israel em lista dos que cometem crimes contra crianças](https://www.nexojornal.com.br/extra/2024/06/07/onu-lista-da-vergonha-israel-criancas-hamas)
-- [O crescimento do PIB. As eleições no México e na Índia. E mais](https://www.nexojornal.com.br/video/2024/06/07/o-crescimento-do-pib-as-eleicoes-no-mexico-e-na-india-e-mais)
-- [Artistas ajudaram a criar linguagem visual do livro moderno no país](https://www.nexojornal.com.br/externo/2024/06/07/capas-de-livros-design-brasil-historico)
+- [As influências da genética e do ambiente na depressão](https://www.nexojornal.com.br/externo/2024/06/07/as-influencias-da-genetica-e-do-ambiente-na-depressao)
+- [Por que o mundo falha em se preparar para a próxima pandemia](https://www.nexojornal.com.br/expresso/2024/06/07/risco-de-nova-pandemia-o-que-fazer-e-como-se-preparar)
+- [‘Política pública trava quando a preocupação é com a rede social’](https://www.nexojornal.com.br/entrevista/2024/06/07/congresso-rede-social)
+- [CNJ abre processos disciplinares contra juízes da Lava Jato](https://www.nexojornal.com.br/extra/2024/06/07/gabriela-hardt-investigacao-lava-jato-vara-de-curitiba)
+- [Keffiyeh: os significados do lenço que virou símbolo da Palestina](https://www.nexojornal.com.br/expresso/2024/06/07/keffiyeh-significado-lenco-palestino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
