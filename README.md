@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como trabalhar o protagonismo infantil nas escolas](https://www.nexojornal.com.br/externo/2024/06/09/protagonismo-infantil-nas-escolas)
+- [Os riscos climáticos nas estradas brasileiras, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/06/09/estradas-brasileiras-e-riscos-climaticos)
+- [Como a inteligência artificial acelera descobertas científicas](https://www.nexojornal.com.br/expresso/2024/06/09/inteligencia-artificial-ciencia-descobertas-cientificas)
+- [Como a participação popular transforma a segurança pública](https://www.nexojornal.com.br/ensaio/2024/06/09/participacao-popular-seguranca-publica)
 - [Macron convoca eleição na França após derrota em votação europeia](https://www.nexojornal.com.br/extra/2024/06/09/macron-franca-parlamento-europeu-extrema-direita)
-- [Como a fotografia selvagem vai além da beleza e da reflexão](https://www.nexojornal.com.br/externo/2024/06/09/fotografia-selvagem-conservacao-preservacao-meio-ambiente)
-- [‘Trabalhamos mesmo quando não tínhamos água para nós mesmos’](https://www.nexojornal.com.br/profissoes/2024/06/08/marcos-calvete-quimico-dmae-linha-de-frente-rio-grande-do-sul)
-- [Meta-narrativas: como big techs disputam a soberania de Estados](https://www.nexojornal.com.br/ensaio/2024/06/08/tecnologia-big-techs-disputam-a-soberania-de-estados)
-- [Meio ano de Milei: o que vem depois do choque econômico?](https://www.nexojornal.com.br/expresso/2024/06/08/economia-argentina-seis-meses-apos-javier-milei)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
