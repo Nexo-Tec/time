@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a fotografia selvagem vai além da beleza e da reflexão](https://www.nexojornal.com.br/externo/2024/06/09/fotografia-selvagem-conservacao-preservacao-meio-ambiente)
 - [‘Trabalhamos mesmo quando não tínhamos água para nós mesmos’](https://www.nexojornal.com.br/profissoes/2024/06/08/marcos-calvete-quimico-dmae-linha-de-frente-rio-grande-do-sul)
 - [Meta-narrativas: como big techs disputam a soberania de Estados](https://www.nexojornal.com.br/ensaio/2024/06/08/tecnologia-big-techs-disputam-a-soberania-de-estados)
 - [Meio ano de Milei: o que vem depois do choque econômico?](https://www.nexojornal.com.br/expresso/2024/06/08/economia-argentina-seis-meses-apos-javier-milei)
 - [Israel resgata 4 reféns em ação que deixa 200 palestinos mortos](https://www.nexojornal.com.br/extra/2024/06/08/israel-refens-resgate-operacao-militar-faixa-de-gaza)
-- [Morre a economista Maria da Conceição Tavares, aos 94 anos](https://www.nexojornal.com.br/extra/2024/06/08/maria-da-conceicao-tavares-economista-morre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
