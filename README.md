@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Panamá realoca 300 famílias ‘expulsas’ de ilha por avanço do mar](https://www.nexojornal.com.br/extra/2024/06/09/ilha-panama-ameacada-avanco-nivel-do-mar)
 - [Como trabalhar o protagonismo infantil nas escolas](https://www.nexojornal.com.br/externo/2024/06/09/protagonismo-infantil-nas-escolas)
 - [Os riscos climáticos nas estradas brasileiras, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/06/09/estradas-brasileiras-e-riscos-climaticos)
 - [Como a inteligência artificial acelera descobertas científicas](https://www.nexojornal.com.br/expresso/2024/06/09/inteligencia-artificial-ciencia-descobertas-cientificas)
 - [Como a participação popular transforma a segurança pública](https://www.nexojornal.com.br/ensaio/2024/06/09/participacao-popular-seguranca-publica)
-- [Macron convoca eleição na França após derrota em votação europeia](https://www.nexojornal.com.br/extra/2024/06/09/macron-franca-parlamento-europeu-extrema-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
