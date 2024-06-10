@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que aconteceu com os sobreviventes de Pompeia](https://www.nexojornal.com.br/externo/2024/06/10/o-que-aconteceu-com-os-sobreviventes-de-pompeia)
+- [Avião com vice-presidente do Malawi está desaparecido](https://www.nexojornal.com.br/extra/2024/06/10/aviao-vice-presidente-malawi-desaparece)
 - [O site que mostra as decisões municipais sobre clima](https://www.nexojornal.com.br/expresso/2024/06/10/plataforma-diarios-oficiais-clima-meio-ambiente)
 - [Governo lança PAC para universidades em meio à greve](https://www.nexojornal.com.br/extra/2024/06/10/pac-universidades-greve)
 - [Justiça espanhola condena torcedores que atacaram Vini Jr.](https://www.nexojornal.com.br/extra/2024/06/10/justica-espanha-racismo-vinicius-jr)
-- [Panamá realoca 300 famílias ‘expulsas’ de ilha por avanço do mar](https://www.nexojornal.com.br/extra/2024/06/09/ilha-panama-ameacada-avanco-nivel-do-mar)
-- [Como trabalhar o protagonismo infantil nas escolas](https://www.nexojornal.com.br/externo/2024/06/09/protagonismo-infantil-nas-escolas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
