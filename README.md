@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O site que mostra as decisões municipais sobre clima](https://www.nexojornal.com.br/expresso/2024/06/10/plataforma-diarios-oficiais-clima-meio-ambiente)
 - [Governo lança PAC para universidades em meio à greve](https://www.nexojornal.com.br/extra/2024/06/10/pac-universidades-greve)
 - [Justiça espanhola condena torcedores que atacaram Vini Jr.](https://www.nexojornal.com.br/extra/2024/06/10/justica-espanha-racismo-vinicius-jr)
 - [Panamá realoca 300 famílias ‘expulsas’ de ilha por avanço do mar](https://www.nexojornal.com.br/extra/2024/06/09/ilha-panama-ameacada-avanco-nivel-do-mar)
 - [Como trabalhar o protagonismo infantil nas escolas](https://www.nexojornal.com.br/externo/2024/06/09/protagonismo-infantil-nas-escolas)
-- [Os riscos climáticos nas estradas brasileiras, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/06/09/estradas-brasileiras-e-riscos-climaticos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
