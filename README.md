@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo anula leilão de arroz importado após suspeitas](https://www.nexojornal.com.br/extra/2024/06/11/governo-suspende-leilao-arroz-importado)
+- [Na criação de novo partido, MBL lida com velhas fraudes](https://www.nexojornal.com.br/reportagem/2024/06/11/missao-mbl-fraude)
 - [PF reitera pela terceira vez que Adélio Bispo agiu sozinho](https://www.nexojornal.com.br/extra/2024/06/11/pf-adelio-bispo-agiu-sozinho)
 - [Inflação sobe 0,46% em maio puxada por alta nos alimentos](https://www.nexojornal.com.br/extra/2024/06/11/inflacao-maio-sobe-puxada-alta-nos-alimentos)
 - [As apostas cinematográficas de jogadores de basquete](https://www.nexojornal.com.br/expresso/2024/06/10/jogadores-de-basquete-investem-em-cinema)
-- [Como uma renúncia-chave mexe com o jogo político israelense](https://www.nexojornal.com.br/expresso/2024/06/10/israel-renuncia-ministro-de-guerra-benny-gantz)
-- [Uma impressionante diversidade de plantas vive sobre rochas](https://www.nexojornal.com.br/externo/2024/06/10/uma-impressionante-diversidade-de-plantas-vive-sobre-rochas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
