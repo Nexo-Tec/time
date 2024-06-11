@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Governo anula leilão de arroz importado após suspeitas](https://www.nexojornal.com.br/extra/2024/06/11/governo-suspende-leilao-arroz-importado)
-- [Na criação de novo partido, MBL lida com velhas fraudes](https://www.nexojornal.com.br/reportagem/2024/06/11/missao-mbl-fraude)
-- [PF reitera pela terceira vez que Adélio Bispo agiu sozinho](https://www.nexojornal.com.br/extra/2024/06/11/pf-adelio-bispo-agiu-sozinho)
-- [Inflação sobe 0,46% em maio puxada por alta nos alimentos](https://www.nexojornal.com.br/extra/2024/06/11/inflacao-maio-sobe-puxada-alta-nos-alimentos)
-- [As apostas cinematográficas de jogadores de basquete](https://www.nexojornal.com.br/expresso/2024/06/10/jogadores-de-basquete-investem-em-cinema)
+- [‘Negar reajuste em universidades é rota iníqua de ajuste fiscal’](https://www.nexojornal.com.br/entrevista/2024/06/11/educacao-no-brasil-greve-universidades-federais-2024)
+- [Hamas diz aceitar termos de proposta de cessar-fogo dos EUA](https://www.nexojornal.com.br/extra/2024/06/11/hamas-aceita-termos-de-proposta-de-cessar-fogo-eua)
+- [A nova derrota do governo, agora com o PIS/Cofins](https://www.nexojornal.com.br/expresso/2024/06/11/por-que-a-medida-provisoria-do-pis-cofins-fez-tanto-barulho)
+- [O sucesso de um jogador congolês com tuiteiros brasileiros](https://www.nexojornal.com.br/expresso/2024/06/11/jogador-de-futebol-criciuma-yannick-bolasie-twitter)
+- [O crescimento da direita populista nas eleições europeias](https://www.nexojornal.com.br/grafico/2024/06/11/crescimento-da-direita-europa-eleicao-politica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
