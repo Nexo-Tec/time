@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que aconteceu com os sobreviventes de Pompeia](https://www.nexojornal.com.br/externo/2024/06/10/o-que-aconteceu-com-os-sobreviventes-de-pompeia)
-- [Avião com vice-presidente do Malawi está desaparecido](https://www.nexojornal.com.br/extra/2024/06/10/aviao-vice-presidente-malawi-desaparece)
-- [O site que mostra as decisões municipais sobre clima](https://www.nexojornal.com.br/expresso/2024/06/10/plataforma-diarios-oficiais-clima-meio-ambiente)
-- [Governo lança PAC para universidades em meio à greve](https://www.nexojornal.com.br/extra/2024/06/10/pac-universidades-greve)
-- [Justiça espanhola condena torcedores que atacaram Vini Jr.](https://www.nexojornal.com.br/extra/2024/06/10/justica-espanha-racismo-vinicius-jr)
+- [As apostas cinematográficas de jogadores de basquete](https://www.nexojornal.com.br/expresso/2024/06/10/jogadores-de-basquete-investem-em-cinema)
+- [Como uma renúncia-chave mexe com o jogo político israelense](https://www.nexojornal.com.br/expresso/2024/06/10/israel-renuncia-ministro-de-guerra-benny-gantz)
+- [Uma impressionante diversidade de plantas vive sobre rochas](https://www.nexojornal.com.br/externo/2024/06/10/uma-impressionante-diversidade-de-plantas-vive-sobre-rochas)
+- [A crise de legitimidade da universidade brasileira](https://www.nexojornal.com.br/colunistas/2024/06/10/a-crise-de-legitimidade-da-universidade-brasileira)
+- [Como as eleições europeias inflam a extrema direita](https://www.nexojornal.com.br/podcast/2024/06/10/eleicoes-na-europa-e-extrema-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
