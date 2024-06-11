@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Inflação sobe 0,46% em maio puxada por alta nos alimentos](https://www.nexojornal.com.br/extra/2024/06/11/inflacao-maio-sobe-puxada-alta-nos-alimentos)
 - [As apostas cinematográficas de jogadores de basquete](https://www.nexojornal.com.br/expresso/2024/06/10/jogadores-de-basquete-investem-em-cinema)
 - [Como uma renúncia-chave mexe com o jogo político israelense](https://www.nexojornal.com.br/expresso/2024/06/10/israel-renuncia-ministro-de-guerra-benny-gantz)
 - [Uma impressionante diversidade de plantas vive sobre rochas](https://www.nexojornal.com.br/externo/2024/06/10/uma-impressionante-diversidade-de-plantas-vive-sobre-rochas)
 - [A crise de legitimidade da universidade brasileira](https://www.nexojornal.com.br/colunistas/2024/06/10/a-crise-de-legitimidade-da-universidade-brasileira)
-- [Como as eleições europeias inflam a extrema direita](https://www.nexojornal.com.br/podcast/2024/06/10/eleicoes-na-europa-e-extrema-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
