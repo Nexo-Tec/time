@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@duquesa](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/duquesa/)
 - [Filipe Bragança](https://gamarevista.uol.com.br/pessoas/questionario-proust/filipe-braganca/)
 - [Camila Fremder: “Para o date ser bom, a gente pode ser mais sincero, ser mais real”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/camila-fremder-dates-prazerosos/)
 - [Saúde mental dos mais jovens: de quem é a responsabilidade?](https://gamarevista.uol.com.br/formato/reportagem/saude-mental-dos-mais-jovens-de-quem-e-a-responsabilidade/)
 - [Vitória da Victoria](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/vitoria-da-victoria/)
-- [A Viagem Inútil: trans/escrita](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-viagem-inutil-trans-escrita/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
