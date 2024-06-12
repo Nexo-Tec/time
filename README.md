@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [TCU aprova contas de Lula com ressalvas e critica isenções fiscais](https://www.nexojornal.com.br/extra/2024/06/12/tcu-aprova-contas-lula-2023-ressalvas)
 - [Como evitar o burnout se você faz trabalhos criativos](https://www.nexojornal.com.br/externo/2024/06/12/como-evitar-o-burnout-se-voce-faz-trabalhos-criativos)
 - [PF apura suspeita de desvio de fundo eleitoral do Pros](https://www.nexojornal.com.br/extra/2024/06/12/operacao-policia-federal-euripedes-junior-pros-solidariedade)
 - [Como o gás natural compromete a transição energética](https://www.nexojornal.com.br/expresso/2024/06/12/gas-natural-transicao-energetica)
 - [O aborto como cartada recorrente da direita no Congresso](https://www.nexojornal.com.br/podcast/2024/06/11/pl-1904-aborto-relacao-com-a-direita-politica)
-- [O aquecimento global é uma cortina de fumaça para nos distrair do trânsito?](https://www.nexojornal.com.br/colunistas/2024/06/11/inteligencia-artificial-riscos-debate)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
