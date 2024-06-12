@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O aborto como cartada recorrente da direita no Congresso](https://www.nexojornal.com.br/podcast/2024/06/11/pl-1904-aborto-relacao-com-a-direita-politica)
+- [O aquecimento global é uma cortina de fumaça para nos distrair do trânsito?](https://www.nexojornal.com.br/colunistas/2024/06/11/inteligencia-artificial-riscos-debate)
 - [‘Negar reajuste em universidades é rota iníqua de ajuste fiscal’](https://www.nexojornal.com.br/entrevista/2024/06/11/educacao-no-brasil-greve-universidades-federais-2024)
-- [Hamas diz aceitar termos de proposta de cessar-fogo dos EUA](https://www.nexojornal.com.br/extra/2024/06/11/hamas-aceita-termos-de-proposta-de-cessar-fogo-eua)
+- [Hamas diz aceitar proposta de cessar-fogo dos EUA](https://www.nexojornal.com.br/extra/2024/06/11/hamas-aceita-termos-de-proposta-de-cessar-fogo-eua)
 - [A nova derrota do governo, agora com o PIS/Cofins](https://www.nexojornal.com.br/expresso/2024/06/11/por-que-a-medida-provisoria-do-pis-cofins-fez-tanto-barulho)
-- [O sucesso de um jogador congolês com tuiteiros brasileiros](https://www.nexojornal.com.br/expresso/2024/06/11/jogador-de-futebol-criciuma-yannick-bolasie-twitter)
-- [O crescimento da direita populista nas eleições europeias](https://www.nexojornal.com.br/grafico/2024/06/11/crescimento-da-direita-europa-eleicao-politica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
