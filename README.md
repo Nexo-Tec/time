@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Masculinidade negra na literatura ficcional](https://pp.nexojornal.com.br/bibliografia-basica/2024/06/12/5-livros-ficcionais-que-discutem-masculinidade-negra/)
 - [Da pandemia de covid-19 à catástrofe climática do Rio Grande do Sul: fatalidades ou violências?](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/12/da-pandemia-de-covid-19-a-catastrofe-climatica-do-rio-grande-do-sul-fatalidades-ou-violencias/)
 - [Tragédia socioambiental no RS: revelando pobres e negros](https://pp.nexojornal.com.br/opiniao/2024/06/07/tragedia-socioambiental-no-rs-revelando-pobres-e-negros/)
 - [Direitos quilombolas](https://pp.nexojornal.com.br/linha-do-tempo/2024/06/04/direitos-quilombolas/)
 - [Desmatamento e clima: colonizações e a tragédia das inundações no Rio Grande do Sul](https://pp.nexojornal.com.br/opiniao/2024/06/04/desmatamento-e-clima-colonizacoes-e-a-tragedia-das-inundacoes-no-rio-grande-do-sul/)
-- [Estudos sobre raça e eleição](https://pp.nexojornal.com.br/bibliografia-basica/2024/06/04/estudos-sobre-raca-e-eleicao/)
 <!-- PP_LIST:END -->
 
