@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Chegaram os cursos de escrita do Nexo](https://www.nexojornal.com.br/cursos/2024/06/12/chegaram-os-cursos-de-graficos-do-nexo)
 - [CCJ da Câmara aprova PEC que criminaliza todo porte de drogas](https://www.nexojornal.com.br/extra/2024/06/12/ccj-camara-aprova-pec-das-drogas)
 - [TCU aprova contas de Lula com ressalvas e critica isenções fiscais](https://www.nexojornal.com.br/extra/2024/06/12/tcu-aprova-contas-lula-2023-ressalvas)
 - [Como evitar o burnout se você faz trabalhos criativos](https://www.nexojornal.com.br/externo/2024/06/12/como-evitar-o-burnout-se-voce-faz-trabalhos-criativos)
 - [PF apura suspeita de desvio de fundo eleitoral do Pros](https://www.nexojornal.com.br/extra/2024/06/12/operacao-policia-federal-euripedes-junior-pros-solidariedade)
-- [Como o gás natural compromete a transição energética](https://www.nexojornal.com.br/expresso/2024/06/12/gas-natural-transicao-energetica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
