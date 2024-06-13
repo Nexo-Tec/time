@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Boiada do eucalipto’: a desregulação na silvicultura](https://www.nexojornal.com.br/externo/2024/06/12/boiada-do-eucalipto-a-desregulacao-na-silvicultura)
+- [Donald Trump, a Lava Jato e a ‘república das bananas’](https://www.nexojornal.com.br/colunistas/2024/06/12/donald-trump-a-lava-jato-e-a-republica-das-bananas)
+- [‘Fotografar uma tragédia é mais do que ver. É preciso sentir’](https://www.nexojornal.com.br/profissoes/2024/06/12/daniel-marenco-fotografo-linha-de-frente-rio-grande-do-sul)
+- [Encurralado: o plano fiscal de Haddad entre Lula e o Congresso](https://www.nexojornal.com.br/expresso/2024/06/12/encurralado-o-plano-fiscal-de-haddad-entre-lula-e-o-congresso)
 - [Supremo decide que FGTS deve ser corrigido pela inflação](https://www.nexojornal.com.br/extra/2024/06/12/fgts-calculo-inflacao-supremo-decisao)
-- [O ministro indiciado por corrupção e organização criminosa](https://www.nexojornal.com.br/podcast/2024/06/12/juscelino-filho-ministro-indiciado-corrupcao-organizacao-criminosa)
-- [‘Wallace e Gromit’: a animação usada para provocar o rei Charles](https://www.nexojornal.com.br/expresso/2024/06/12/rei-charles-animacao-wallace-e-gromit)
-- [Chegaram os cursos de escrita do Nexo](https://www.nexojornal.com.br/cursos/2024/06/12/chegaram-os-cursos-de-graficos-do-nexo)
-- [CCJ da Câmara aprova PEC que criminaliza todo porte de drogas](https://www.nexojornal.com.br/extra/2024/06/12/ccj-camara-aprova-pec-das-drogas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
