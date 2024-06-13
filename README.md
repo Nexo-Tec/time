@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Se comfort food existe, deve ser italiana](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/se-comfort-food-existe-deve-ser-italiana/)
-- [@duquesa](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/duquesa/)
-- [Filipe Bragança](https://gamarevista.uol.com.br/pessoas/questionario-proust/filipe-braganca/)
-- [Camila Fremder: “Para o date ser bom, a gente pode ser mais sincero, ser mais real”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/camila-fremder-dates-prazerosos/)
-- [Saúde mental dos mais jovens: de quem é a responsabilidade?](https://gamarevista.uol.com.br/formato/reportagem/saude-mental-dos-mais-jovens-de-quem-e-a-responsabilidade/)
+- [“Assassino por Acaso”, a nova comédia de Richard Linklater](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assassino-por-acaso-a-nova-comedia-de-richard-linklater/)
+- [A genial Chaka Khan no “Tiny Desk”, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-genial-chaka-khan-no-tiny-desk-no-youtube/)
+- [“Tá Todo Mundo Tentando”, novo livro de Gaía Passarelli](https://gamarevista.uol.com.br/achamos-que-vale/ler/ta-todo-mundo-tentando-novo-livro-de-gaia-passarelli/)
+- [“Guerra Civil” com Wagner Moura, no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/guerra-civil-com-wagner-moura-no-prime-video/)
+- [“In-Edit Brasil 2024”, o festival de documentários musicais, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/in-edit-brasil-2024-o-festival-de-documentarios-musicais-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
