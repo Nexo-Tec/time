@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Haddad aponta agenda de corte de gastos para 2025](https://www.nexojornal.com.br/extra/2024/06/13/haddad-aponta-agenda-de-corte-de-gastos-para-2025)
 - [O uso de fotos de crianças brasileiras por plataformas de IA](https://www.nexojornal.com.br/externo/2024/06/13/o-uso-de-fotos-de-criancas-brasileiras-por-plataformas-de-ia)
 - [Por que é tão difícil acabar com a pobreza no Brasil](https://www.nexojornal.com.br/academico/2024/06/13/por-que-e-tao-dificil-acabar-com-a-pobreza-no-brasil)
 - [Lula diz que ministro indiciado ‘tem direito de provar inocência’](https://www.nexojornal.com.br/extra/2024/06/13/lula-demissao-juscelino)
 - [Câmara acelera projetos antiaborto e antidelação](https://www.nexojornal.com.br/extra/2024/06/13/camara-urgencia-projeto-aborto-homicidio-delacao)
-- [‘Boiada do eucalipto’: a desregulação na silvicultura](https://www.nexojornal.com.br/externo/2024/06/12/boiada-do-eucalipto-a-desregulacao-na-silvicultura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
