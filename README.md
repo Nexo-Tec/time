@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula diz que ministro indiciado ‘tem direito de provar inocência’](https://www.nexojornal.com.br/extra/2024/06/13/lula-demissao-juscelino)
 - [Câmara acelera projetos antiaborto e antidelação](https://www.nexojornal.com.br/extra/2024/06/13/camara-urgencia-projeto-aborto-homicidio-delacao)
 - [‘Boiada do eucalipto’: a desregulação na silvicultura](https://www.nexojornal.com.br/externo/2024/06/12/boiada-do-eucalipto-a-desregulacao-na-silvicultura)
 - [Donald Trump, a Lava Jato e a ‘república das bananas’](https://www.nexojornal.com.br/colunistas/2024/06/12/donald-trump-a-lava-jato-e-a-republica-das-bananas)
 - [‘Fotografar uma tragédia é mais do que ver. É preciso sentir’](https://www.nexojornal.com.br/profissoes/2024/06/12/daniel-marenco-fotografo-linha-de-frente-rio-grande-do-sul)
-- [Encurralado: o plano fiscal de Haddad entre Lula e o Congresso](https://www.nexojornal.com.br/expresso/2024/06/12/encurralado-o-plano-fiscal-de-haddad-entre-lula-e-o-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
