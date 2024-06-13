@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O uso de fotos de crianças brasileiras por plataformas de IA](https://www.nexojornal.com.br/externo/2024/06/13/o-uso-de-fotos-de-criancas-brasileiras-por-plataformas-de-ia)
+- [Por que é tão difícil acabar com a pobreza no Brasil](https://www.nexojornal.com.br/academico/2024/06/13/por-que-e-tao-dificil-acabar-com-a-pobreza-no-brasil)
 - [Lula diz que ministro indiciado ‘tem direito de provar inocência’](https://www.nexojornal.com.br/extra/2024/06/13/lula-demissao-juscelino)
 - [Câmara acelera projetos antiaborto e antidelação](https://www.nexojornal.com.br/extra/2024/06/13/camara-urgencia-projeto-aborto-homicidio-delacao)
 - [‘Boiada do eucalipto’: a desregulação na silvicultura](https://www.nexojornal.com.br/externo/2024/06/12/boiada-do-eucalipto-a-desregulacao-na-silvicultura)
-- [Donald Trump, a Lava Jato e a ‘república das bananas’](https://www.nexojornal.com.br/colunistas/2024/06/12/donald-trump-a-lava-jato-e-a-republica-das-bananas)
-- [‘Fotografar uma tragédia é mais do que ver. É preciso sentir’](https://www.nexojornal.com.br/profissoes/2024/06/12/daniel-marenco-fotografo-linha-de-frente-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
