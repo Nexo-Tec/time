@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A encruzilhada de Haddad. O projeto antiaborto. E mais](https://www.nexojornal.com.br/video/2024/06/14/a-encruzilhada-de-haddad-o-projeto-antiaborto-e-mais)
-- [Por que estilistas inspiram tantas obras audiovisuais](https://www.nexojornal.com.br/expresso/2024/06/14/filmes-e-series-sobre-estilistas)
-- [Relações desiguais](https://www.nexojornal.com.br/externo/2024/06/14/relacoes-desiguais)
-- [Líder do Solidariedade é incluído em lista da Interpol](https://www.nexojornal.com.br/extra/2024/06/14/lider-do-solidariedade-e-incluido-em-lista-da-interpol)
-- [Vladimir Putin faz exigências à Ucrânia para cessar-fogo](https://www.nexojornal.com.br/extra/2024/06/14/putin-cessar-fogo-na-ucrania-volodymyr-zelensky)
+- [As fronteiras brasileiras para além da segurança](https://www.nexojornal.com.br/debate/2024/06/14/as-fronteiras-brasileiras-para-alem-da-seguranca)
+- [A mobilização para que o caso Julieta seja visto como feminicídio](https://www.nexojornal.com.br/externo/2024/06/14/a-mobilizacao-para-que-o-caso-julieta-seja-visto-como-feminicidio)
+- [‘Aborto movimenta populismo penal e virou nicho da direita’](https://www.nexojornal.com.br/entrevista/2024/06/14/projeto-aborto-camara-debora-diniz)
+- [5 livros de mulheres que refletem sobre a escrita literária](https://www.nexojornal.com.br/estante-favoritos/2024/06/14/5-livros-de-mulheres-que-refletem-sobre-a-escrita-literaria)
+- [‘O diário de Asheham’: reaprendendo a escrever](https://www.nexojornal.com.br/estante-trechos/2024/06/14/o-diario-de-asheham-reaprendendo-a-escrever)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
