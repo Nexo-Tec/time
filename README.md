@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o papel do presidente na articulação política](https://www.nexojornal.com.br/expresso/2024/06/13/papel-do-presidente-na-articulacao-politica)
+- [A IA pode substituir cobaias de estudos científicos?](https://www.nexojornal.com.br/expresso/2024/06/13/inteligencia-artificial-ia-na-ciencia-experimento-cientifico)
+- [A simbiose da Rádio Fluminense com o rock brasileiro](https://www.nexojornal.com.br/expresso/2024/06/13/relacao-radio-fluminense-rock-brasileiro-filme-aumenta-que-e-rock-n-roll)
 - [A técnica maia que ajudou a idealizar plantações em Marte](https://www.nexojornal.com.br/expresso/2024/06/13/a-tecnica-maia-que-ajudou-a-idealizar-plantacoes-em-marte)
 - [Suprema Corte dos EUA rejeita restrição a pílula abortiva](https://www.nexojornal.com.br/extra/2024/06/13/pilula-abortiva-nos-eua)
-- [O projeto antidelação desengavetado e apressado pela Câmara](https://www.nexojornal.com.br/podcast/2024/06/13/projeto-contra-delacao-premiada-camara-dos-deputados)
-- [Haddad aponta agenda de corte de gastos para 2025](https://www.nexojornal.com.br/extra/2024/06/13/haddad-aponta-agenda-de-corte-de-gastos-para-2025)
-- [O uso de fotos de crianças brasileiras por plataformas de IA](https://www.nexojornal.com.br/externo/2024/06/13/o-uso-de-fotos-de-criancas-brasileiras-por-plataformas-de-ia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
