@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A reconstrução após as enchentes do Rio Grande do Sul e a gestão ambiental](https://pp.nexojornal.com.br/glossario/2024/06/14/a-reconstrucao-apos-as-enchentes-do-rio-grande-do-sul-e-a-gestao-ambiental/)
 - [Avaliação de programas e políticas](https://pp.nexojornal.com.br/glossario/2024/06/12/avaliacao-de-programas-e-politicas/)
 - [Qual o cenário orçamentário que espera os novos prefeitos e prefeitas em 2025?](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/12/qual-o-cenario-orcamentario-que-espera-os-novos-prefeitos-e-prefeitas-em-2025/)
 - [Qualificação profissional e desempenho no mercado de trabalho brasileiro](https://pp.nexojornal.com.br/academico/2024/06/12/qualificacao-profissional-e-desempenho-no-mercado-de-trabalho-brasileiro/)
 - [Leituras para entender a branquitude](https://pp.nexojornal.com.br/bibliografia-basica/2024/06/12/leituras-para-entender-a-branquitude/)
-- [Encontros entre racismo religioso e racismo ambiental](https://pp.nexojornal.com.br/opiniao/2024/06/12/encontros-entre-racismo-religioso-e-racismo-ambiental/)
 <!-- PP_LIST:END -->
 
