@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [1.469 municípios brasileiros têm um único CEP](https://www.nexojornal.com.br/grafico/2024/06/14/municipio-brasileiro-cep-unico-grafico-dados-ibge)
 - [Capitais têm protestos contra projeto antiaborto da Câmara](https://www.nexojornal.com.br/extra/2024/06/14/protestos-pl-aborto)
 - [Qual o papel do presidente na articulação política](https://www.nexojornal.com.br/expresso/2024/06/13/papel-do-presidente-na-articulacao-politica)
 - [A IA pode substituir cobaias de estudos científicos?](https://www.nexojornal.com.br/expresso/2024/06/13/inteligencia-artificial-ia-na-ciencia-experimento-cientifico)
 - [A simbiose da Rádio Fluminense com o rock brasileiro](https://www.nexojornal.com.br/expresso/2024/06/13/relacao-radio-fluminense-rock-brasileiro-filme-aumenta-que-e-rock-n-roll)
-- [A técnica maia que ajudou a idealizar plantações em Marte](https://www.nexojornal.com.br/expresso/2024/06/13/a-tecnica-maia-que-ajudou-a-idealizar-plantacoes-em-marte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
