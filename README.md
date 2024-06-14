@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que são e como o Nexo usa as projeções cartográficas](https://www.nexojornal.com.br/grafico/2024/06/14/projecao-cartografica-em-graficos-o-que-e)
+- [Por que esta biblioteca vai ficar acessível apenas a adultos](https://www.nexojornal.com.br/expresso/2024/06/14/por-que-esta-biblioteca-vai-ficar-acessivel-apenas-a-adultos)
 - [As fronteiras brasileiras para além da segurança](https://www.nexojornal.com.br/debate/2024/06/14/as-fronteiras-brasileiras-para-alem-da-seguranca)
 - [A mobilização para que o caso Julieta seja visto como feminicídio](https://www.nexojornal.com.br/externo/2024/06/14/a-mobilizacao-para-que-o-caso-julieta-seja-visto-como-feminicidio)
 - [‘Aborto movimenta populismo penal e virou nicho da direita’](https://www.nexojornal.com.br/entrevista/2024/06/14/projeto-aborto-camara-debora-diniz)
-- [5 livros de mulheres que refletem sobre a escrita literária](https://www.nexojornal.com.br/estante-favoritos/2024/06/14/5-livros-de-mulheres-que-refletem-sobre-a-escrita-literaria)
-- [‘O diário de Asheham’: reaprendendo a escrever](https://www.nexojornal.com.br/estante-trechos/2024/06/14/o-diario-de-asheham-reaprendendo-a-escrever)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
