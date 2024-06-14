@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A encruzilhada de Haddad. O projeto antiaborto. E mais](https://www.nexojornal.com.br/video/2024/06/14/a-encruzilhada-de-haddad-o-projeto-antiaborto-e-mais)
+- [Por que estilistas inspiram tantas obras audiovisuais](https://www.nexojornal.com.br/expresso/2024/06/14/filmes-e-series-sobre-estilistas)
+- [Relações desiguais](https://www.nexojornal.com.br/externo/2024/06/14/relacoes-desiguais)
 - [Líder do Solidariedade é incluído em lista da Interpol](https://www.nexojornal.com.br/extra/2024/06/14/lider-do-solidariedade-e-incluido-em-lista-da-interpol)
 - [Vladimir Putin faz exigências à Ucrânia para cessar-fogo](https://www.nexojornal.com.br/extra/2024/06/14/putin-cessar-fogo-na-ucrania-volodymyr-zelensky)
-- [1.469 municípios brasileiros têm um único CEP](https://www.nexojornal.com.br/grafico/2024/06/14/municipio-brasileiro-cep-unico-grafico-dados-ibge)
-- [Capitais têm protestos contra projeto antiaborto da Câmara](https://www.nexojornal.com.br/extra/2024/06/14/protestos-pl-aborto)
-- [Qual o papel do presidente na articulação política](https://www.nexojornal.com.br/expresso/2024/06/13/papel-do-presidente-na-articulacao-politica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
