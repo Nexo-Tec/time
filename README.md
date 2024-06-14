@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Líder do Solidariedade é incluído em lista da Interpol](https://www.nexojornal.com.br/extra/2024/06/14/lider-do-solidariedade-e-incluido-em-lista-da-interpol)
 - [Vladimir Putin faz exigências à Ucrânia para cessar-fogo](https://www.nexojornal.com.br/extra/2024/06/14/putin-cessar-fogo-na-ucrania-volodymyr-zelensky)
 - [1.469 municípios brasileiros têm um único CEP](https://www.nexojornal.com.br/grafico/2024/06/14/municipio-brasileiro-cep-unico-grafico-dados-ibge)
 - [Capitais têm protestos contra projeto antiaborto da Câmara](https://www.nexojornal.com.br/extra/2024/06/14/protestos-pl-aborto)
 - [Qual o papel do presidente na articulação política](https://www.nexojornal.com.br/expresso/2024/06/13/papel-do-presidente-na-articulacao-politica)
-- [A IA pode substituir cobaias de estudos científicos?](https://www.nexojornal.com.br/expresso/2024/06/13/inteligencia-artificial-ia-na-ciencia-experimento-cientifico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
