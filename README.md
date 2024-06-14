@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um Romance Russo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-romance-russo/)
+- [Quando morrem as mulheres extraordinárias](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quando-morrem-as-mulheres-extraordinarias/)
 - [“Assassino por Acaso”, a nova comédia de Richard Linklater](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assassino-por-acaso-a-nova-comedia-de-richard-linklater/)
 - [A genial Chaka Khan no “Tiny Desk”, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-genial-chaka-khan-no-tiny-desk-no-youtube/)
 - [“Tá Todo Mundo Tentando”, novo livro de Gaía Passarelli](https://gamarevista.uol.com.br/achamos-que-vale/ler/ta-todo-mundo-tentando-novo-livro-de-gaia-passarelli/)
-- [“Guerra Civil” com Wagner Moura, no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/guerra-civil-com-wagner-moura-no-prime-video/)
-- [“In-Edit Brasil 2024”, o festival de documentários musicais, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/in-edit-brasil-2024-o-festival-de-documentarios-musicais-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
