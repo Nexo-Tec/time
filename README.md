@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Presidente do Solidariedade se entrega à polícia](https://www.nexojornal.com.br/extra/2024/06/15/presidente-do-solidariedade-se-entrega-a-policia-euripedes)
+- [Lula chama projeto de lei antiaborto de ‘insanidade’](https://www.nexojornal.com.br/extra/2024/06/15/lula-chama-pl-antiaborto-de-insanidade)
 - [O que são e como o Nexo usa as projeções cartográficas](https://www.nexojornal.com.br/grafico/2024/06/14/projecao-cartografica-em-graficos-o-que-e)
 - [Por que esta biblioteca vai ficar acessível apenas a adultos](https://www.nexojornal.com.br/expresso/2024/06/14/por-que-esta-biblioteca-vai-ficar-acessivel-apenas-a-adultos)
 - [As fronteiras brasileiras para além da segurança](https://www.nexojornal.com.br/debate/2024/06/14/as-fronteiras-brasileiras-para-alem-da-seguranca)
-- [A mobilização para que o caso Julieta seja visto como feminicídio](https://www.nexojornal.com.br/externo/2024/06/14/a-mobilizacao-para-que-o-caso-julieta-seja-visto-como-feminicidio)
-- [‘Aborto movimenta populismo penal e virou nicho da direita’](https://www.nexojornal.com.br/entrevista/2024/06/14/projeto-aborto-camara-debora-diniz)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
