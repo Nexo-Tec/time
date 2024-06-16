@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Militares de Israel anunciam pausa diária de conflitos em Gaza](https://www.nexojornal.com.br/extra/2024/06/16/pausa-guerra-em-gaza-israel)
 - [O escritor que expôs o sexismo na Lei da Inglaterra vitoriana](https://www.nexojornal.com.br/expresso/2024/06/15/o-escritor-que-expos-o-sexismo-na-lei-da-inglaterra-vitoriana)
 - [‘Enfermagem sempre está na linha de frente dos desastres’](https://www.nexojornal.com.br/profissoes/2024/06/15/graziela-viegas-enfermeira-linha-de-frente-rio-grande-do-sul)
 - [As políticas públicas do livro para além do mercado editorial](https://www.nexojornal.com.br/ensaio/2024/06/15/as-politicas-publicas-do-livro-para-alem-do-mercado-editorial)
 - [Por que o Pantanal voltou a queimar tanto em 2024](https://www.nexojornal.com.br/expresso/2024/06/15/queimadas-no-pantanal-aumentam-em-2024-motivo)
-- [Presidente do Solidariedade se entrega à polícia](https://www.nexojornal.com.br/extra/2024/06/15/presidente-do-solidariedade-se-entrega-a-policia-euripedes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
