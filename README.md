@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Taly Jaia Szwarcfiter: “É preciso saber que você nunca vai completar o check-list de tarefas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/angustia-trabalhar-demais/)
 - [Um Romance Russo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-romance-russo/)
 - [Quando morrem as mulheres extraordinárias](https://gamarevista.uol.com.br/colunistas/marilene-felinto/quando-morrem-as-mulheres-extraordinarias/)
 - [“Assassino por Acaso”, a nova comédia de Richard Linklater](https://gamarevista.uol.com.br/achamos-que-vale/assistir/assassino-por-acaso-a-nova-comedia-de-richard-linklater/)
 - [A genial Chaka Khan no “Tiny Desk”, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-genial-chaka-khan-no-tiny-desk-no-youtube/)
-- [“Tá Todo Mundo Tentando”, novo livro de Gaía Passarelli](https://gamarevista.uol.com.br/achamos-que-vale/ler/ta-todo-mundo-tentando-novo-livro-de-gaia-passarelli/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
