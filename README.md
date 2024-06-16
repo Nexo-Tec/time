@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O escritor que expôs o sexismo na Lei da Inglaterra vitoriana](https://www.nexojornal.com.br/expresso/2024/06/15/o-escritor-que-expos-o-sexismo-na-lei-da-inglaterra-vitoriana)
+- [‘Enfermagem sempre está na linha de frente dos desastres’](https://www.nexojornal.com.br/profissoes/2024/06/15/graziela-viegas-enfermeira-linha-de-frente-rio-grande-do-sul)
+- [As políticas públicas do livro para além do mercado editorial](https://www.nexojornal.com.br/ensaio/2024/06/15/as-politicas-publicas-do-livro-para-alem-do-mercado-editorial)
+- [Por que o Pantanal voltou a queimar tanto em 2024](https://www.nexojornal.com.br/expresso/2024/06/15/queimadas-no-pantanal-aumentam-em-2024-motivo)
 - [Presidente do Solidariedade se entrega à polícia](https://www.nexojornal.com.br/extra/2024/06/15/presidente-do-solidariedade-se-entrega-a-policia-euripedes)
-- [Lula chama projeto de lei antiaborto de ‘insanidade’](https://www.nexojornal.com.br/extra/2024/06/15/lula-chama-pl-antiaborto-de-insanidade)
-- [O que são e como o Nexo usa as projeções cartográficas](https://www.nexojornal.com.br/grafico/2024/06/14/projecao-cartografica-em-graficos-o-que-e)
-- [Por que esta biblioteca vai ficar acessível apenas a adultos](https://www.nexojornal.com.br/expresso/2024/06/14/por-que-esta-biblioteca-vai-ficar-acessivel-apenas-a-adultos)
-- [As fronteiras brasileiras para além da segurança](https://www.nexojornal.com.br/debate/2024/06/14/as-fronteiras-brasileiras-para-alem-da-seguranca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
