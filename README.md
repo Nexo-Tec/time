@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A canção de Frank Sinatra que virou caso de polícia nas Filipinas](https://www.nexojornal.com.br/expresso/2024/06/17/my-way-frank-sinatra-mortes-nas-filipinas)
+- [Como a sucessão de Arthur Lira afeta a pauta da Câmara](https://www.nexojornal.com.br/podcast/2024/06/17/sucessao-de-arthur-lira-impacto-na-camara)
 - [Oposição faz teatro em sessão no Senado contra aborto legal](https://www.nexojornal.com.br/extra/2024/06/17/teatro-sessao-senado-aborto-legal)
 - [Por que esquecer também faz bem para a memória](https://www.nexojornal.com.br/externo/2024/06/17/por-que-esquecer-tambem-faz-bem-para-a-memoria)
 - [Netanyahu dissolve gabinete de guerra após renúncias-chave](https://www.nexojornal.com.br/extra/2024/06/17/israel-netanyahu-dissolve-gabinete-de-guerra-gaza)
-- [O que são os pisos de saúde e educação. E por que podem mudar](https://www.nexojornal.com.br/expresso/2024/06/16/piso-de-saude-educacao-o-que-e)
-- [O nó do financiamento climático antes da COP29](https://www.nexojornal.com.br/externo/2024/06/16/o-no-do-financiamento-climatico-antes-da-cop29)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
