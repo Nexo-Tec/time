@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Oposição faz teatro em sessão no Senado contra aborto legal](https://www.nexojornal.com.br/extra/2024/06/17/teatro-sessao-senado-aborto-legal)
 - [Por que esquecer também faz bem para a memória](https://www.nexojornal.com.br/externo/2024/06/17/por-que-esquecer-tambem-faz-bem-para-a-memoria)
 - [Netanyahu dissolve gabinete de guerra após renúncias-chave](https://www.nexojornal.com.br/extra/2024/06/17/israel-netanyahu-dissolve-gabinete-de-guerra-gaza)
 - [O que são os pisos de saúde e educação. E por que podem mudar](https://www.nexojornal.com.br/expresso/2024/06/16/piso-de-saude-educacao-o-que-e)
 - [O nó do financiamento climático antes da COP29](https://www.nexojornal.com.br/externo/2024/06/16/o-no-do-financiamento-climatico-antes-da-cop29)
-- [As novas percepções dos brasileiros sobre o sexo](https://www.nexojornal.com.br/ensaio/2024/06/16/as-novas-percepcoes-dos-brasileiros-sobre-o-sexo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
