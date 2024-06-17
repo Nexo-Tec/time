@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que são os pisos de saúde e educação. E por que podem mudar](https://www.nexojornal.com.br/expresso/2024/06/16/piso-de-saude-educacao-o-que-e)
+- [O nó do financiamento climático antes da COP29](https://www.nexojornal.com.br/externo/2024/06/16/o-no-do-financiamento-climatico-antes-da-cop29)
+- [As novas percepções dos brasileiros sobre o sexo](https://www.nexojornal.com.br/ensaio/2024/06/16/as-novas-percepcoes-dos-brasileiros-sobre-o-sexo)
+- [80 países assinam texto final de cúpula da paz para a Ucrânia](https://www.nexojornal.com.br/extra/2024/06/16/80-paises-assinam-texto-final-de-cupula-da-paz-para-a-ucrania)
 - [Militares de Israel anunciam pausa diária de conflitos em Gaza](https://www.nexojornal.com.br/extra/2024/06/16/pausa-guerra-em-gaza-israel)
-- [O escritor que expôs o sexismo na Lei da Inglaterra vitoriana](https://www.nexojornal.com.br/expresso/2024/06/15/o-escritor-que-expos-o-sexismo-na-lei-da-inglaterra-vitoriana)
-- [‘Enfermagem sempre está na linha de frente dos desastres’](https://www.nexojornal.com.br/profissoes/2024/06/15/graziela-viegas-enfermeira-linha-de-frente-rio-grande-do-sul)
-- [As políticas públicas do livro para além do mercado editorial](https://www.nexojornal.com.br/ensaio/2024/06/15/as-politicas-publicas-do-livro-para-alem-do-mercado-editorial)
-- [Por que o Pantanal voltou a queimar tanto em 2024](https://www.nexojornal.com.br/expresso/2024/06/15/queimadas-no-pantanal-aumentam-em-2024-motivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
