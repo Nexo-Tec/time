@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Datafolha: 36% aprovam governo Lula e 31% desaprovam](https://www.nexojornal.com.br/extra/2024/06/18/lula-datafolha-junho-2024)
+- [Rótulos de advertência para pais: a proposta para redes nos EUA](https://www.nexojornal.com.br/podcast/2024/06/18/proposta-regulacao-das-redes-sociais-saude-mental-e-infancia-eua-estados-unidos)
 - [Meninas são as que mais sofrem agressão sexual, diz relatório](https://www.nexojornal.com.br/extra/2024/06/18/meninas-agressao-sexual-ipea-atlas-2024)
 - [É possível reduzir as emissões de grandes eventos esportivos?](https://www.nexojornal.com.br/externo/2024/06/18/e-possivel-reduzir-as-emissoes-de-grandes-eventos-esportivos)
 - [Lula diz que Campos Neto tem ‘lado político’](https://www.nexojornal.com.br/extra/2024/06/18/lula-campos-neto)
-- [As dificuldades dos serviços de aborto legal no Brasil](https://www.nexojornal.com.br/expresso/2024/06/18/servicos-aborto-legal-brasil)
-- [6 profissionais na linha de frente da tragédia gaúcha](https://www.nexojornal.com.br/especial/2024/06/17/especial-profissoes-linha-de-frente-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
