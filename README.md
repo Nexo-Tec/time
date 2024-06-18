@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Meninas são as que mais sofrem agressão sexual, diz relatório](https://www.nexojornal.com.br/extra/2024/06/18/meninas-agressao-sexual-ipea-atlas-2024)
 - [É possível reduzir as emissões de grandes eventos esportivos?](https://www.nexojornal.com.br/externo/2024/06/18/e-possivel-reduzir-as-emissoes-de-grandes-eventos-esportivos)
 - [Lula diz que Campos Neto tem ‘lado político’](https://www.nexojornal.com.br/extra/2024/06/18/lula-campos-neto)
 - [As dificuldades dos serviços de aborto legal no Brasil](https://www.nexojornal.com.br/expresso/2024/06/18/servicos-aborto-legal-brasil)
 - [6 profissionais na linha de frente da tragédia gaúcha](https://www.nexojornal.com.br/especial/2024/06/17/especial-profissoes-linha-de-frente-rio-grande-do-sul)
-- [Os confrontos finais da Liga das Nações de vôlei feminino](https://www.nexojornal.com.br/grafico/2024/06/17/final-liga-das-nacoes-volei-feminino-esporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
