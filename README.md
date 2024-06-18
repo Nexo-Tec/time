@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As dificuldades dos serviços de aborto legal no Brasil](https://www.nexojornal.com.br/expresso/2024/06/18/servicos-aborto-legal-brasil)
 - [6 profissionais na linha de frente da tragédia gaúcha](https://www.nexojornal.com.br/especial/2024/06/17/especial-profissoes-linha-de-frente-rio-grande-do-sul)
 - [Os confrontos finais da Liga das Nações de vôlei feminino](https://www.nexojornal.com.br/grafico/2024/06/17/final-liga-das-nacoes-volei-feminino-esporte)
 - [Chuvas voltam a atingir cidades do interior do Rio Grande do Sul](https://www.nexojornal.com.br/extra/2024/06/17/chuvas-interior-rio-grande-do-sul)
 - [10 termos-chave para entender o impasse fiscal do governo Lula](https://www.nexojornal.com.br/expresso/2024/06/17/10-termos-chave-para-entender-o-impasse-fiscal-do-governo-lula)
-- [A canção de Frank Sinatra que virou caso de polícia nas Filipinas](https://www.nexojornal.com.br/expresso/2024/06/17/my-way-frank-sinatra-mortes-nas-filipinas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
