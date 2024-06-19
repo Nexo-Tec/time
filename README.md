@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Nova presidente da Petrobras diz que está alinhada com Lula](https://www.nexojornal.com.br/extra/2024/06/19/magda-chambriard-assume-petrobras-alinhada-com-lula)
+- [Banco Central mantém juros em 10,50% e encerra ciclo de cortes](https://www.nexojornal.com.br/extra/2024/06/19/taxa-selic-juros-banco-central-copom-junho-2024)
 - [O que é o Copom. E como são os mandatos de seus membros](https://www.nexojornal.com.br/index/2024/06/19/o-que-e-o-copom)
 - [Como Joe Sacco volta a desenhar sobre a guerra em Gaza](https://www.nexojornal.com.br/externo/2024/06/19/como-joe-sacco-volta-a-desenhar-sobre-a-guerra-em-gaza)
 - [O fenômeno El Niño chegou ao fim. O que vem depois?](https://www.nexojornal.com.br/expresso/2024/06/18/el-nino-brasil-dia-que-acaba-la-nina)
-- [Quem foram os pioneiros do cinema brasileiro](https://www.nexojornal.com.br/expresso/2024/06/18/dia-do-cinema-brasileiro-19-de-junho)
-- [80 anos de Chico Buarque: você conhece a carreira do cantor?](https://www.nexojornal.com.br/interativo/2024/06/18/chico-buarque-80-anos-quiz-carreira-musica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
