@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Brasil só vai reduzir desigualdades na educação se souber promover cultura de dados](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/19/brasil-so-vai-reduzir-desigualdades-na-educacao-se-souber-promover-cultura-de-dados/)
+- [Por que as empresas privadas também precisam de ações afirmativas?](https://pp.nexojornal.com.br/opiniao/2024/06/19/por-que-as-empresas-privadas-tambem-precisam-de-acoes-afirmativas/)
 - [Quais são as políticas e práticas para atração e retenção do trabalhador mais velho em empresas no Brasil](https://pp.nexojornal.com.br/academico/2024/06/19/quais-sao-as-politicas-e-praticas-para-atracao-e-retencao-do-trabalhador-mais-velho-em-empresas-no-brasil/)
 - [Como marcadores sociais de gênero, raça e nacionalidade se articulam na vida de um imigrante internacional no Brasil](https://pp.nexojornal.com.br/academico/2024/06/19/como-marcadores-sociais-de-genero-raca-e-nacionalidade-se-articulam-na-vida-de-um-imigrante-internacional-no-brasil/)
 - [A reconstrução após as enchentes do Rio Grande do Sul e a gestão ambiental](https://pp.nexojornal.com.br/glossario/2024/06/14/a-reconstrucao-apos-as-enchentes-do-rio-grande-do-sul-e-a-gestao-ambiental/)
-- [Avaliação de programas e políticas](https://pp.nexojornal.com.br/glossario/2024/06/12/avaliacao-de-programas-e-politicas/)
-- [Qual o cenário orçamentário que espera os novos prefeitos e prefeitas em 2025?](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/12/qual-o-cenario-orcamentario-que-espera-os-novos-prefeitos-e-prefeitas-em-2025/)
 <!-- PP_LIST:END -->
 
