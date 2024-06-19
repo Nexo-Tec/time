@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O fenômeno El Niño chegou ao fim. O que vem depois?](https://www.nexojornal.com.br/expresso/2024/06/18/el-nino-brasil-dia-que-acaba-la-nina)
+- [Quem foram os pioneiros do cinema brasileiro](https://www.nexojornal.com.br/expresso/2024/06/18/dia-do-cinema-brasileiro-19-de-junho)
+- [80 anos de Chico Buarque: você conhece a carreira do cantor?](https://www.nexojornal.com.br/interativo/2024/06/18/chico-buarque-80-anos-quiz-carreira-musica)
+- [O que economistas concluíram sobre o acesso ao aborto](https://www.nexojornal.com.br/expresso/2024/06/18/impacto-aborto-na-economia-brasil)
 - [Caso Marielle: STF torna réus irmãos Brazão e delegado](https://www.nexojornal.com.br/extra/2024/06/18/stf-reus-caso-marielle)
-- [Datafolha: 36% aprovam governo Lula e 31% desaprovam](https://www.nexojornal.com.br/extra/2024/06/18/lula-datafolha-junho-2024)
-- [Rótulos de advertência para pais: a proposta para redes nos EUA](https://www.nexojornal.com.br/podcast/2024/06/18/proposta-regulacao-das-redes-sociais-saude-mental-e-infancia-eua-estados-unidos)
-- [Meninas são as que mais sofrem agressão sexual, diz relatório](https://www.nexojornal.com.br/extra/2024/06/18/meninas-agressao-sexual-ipea-atlas-2024)
-- [É possível reduzir as emissões de grandes eventos esportivos?](https://www.nexojornal.com.br/externo/2024/06/18/e-possivel-reduzir-as-emissoes-de-grandes-eventos-esportivos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
