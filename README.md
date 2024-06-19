@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é o Copom. E como são os mandatos de seus membros](https://www.nexojornal.com.br/index/2024/06/19/o-que-e-o-copom)
 - [Como Joe Sacco volta a desenhar sobre a guerra em Gaza](https://www.nexojornal.com.br/externo/2024/06/19/como-joe-sacco-volta-a-desenhar-sobre-a-guerra-em-gaza)
 - [O fenômeno El Niño chegou ao fim. O que vem depois?](https://www.nexojornal.com.br/expresso/2024/06/18/el-nino-brasil-dia-que-acaba-la-nina)
 - [Quem foram os pioneiros do cinema brasileiro](https://www.nexojornal.com.br/expresso/2024/06/18/dia-do-cinema-brasileiro-19-de-junho)
 - [80 anos de Chico Buarque: você conhece a carreira do cantor?](https://www.nexojornal.com.br/interativo/2024/06/18/chico-buarque-80-anos-quiz-carreira-musica)
-- [O que economistas concluíram sobre o acesso ao aborto](https://www.nexojornal.com.br/expresso/2024/06/18/impacto-aborto-na-economia-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
