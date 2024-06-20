@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cartas de Oswald para Mário de Andrade revelam face subterrânea do modernismo](https://www.nexojornal.com.br/externo/2024/06/20/cartas-de-oswald-para-mario-de-andrade-revelam-face-subterranea-do-modernismo)
 - [O início de um inverno atípico em um ano de desastres ambientais](https://www.nexojornal.com.br/podcast/2024/06/20/inverno-2024-clima-mudancas-climaticas)
 - [‘O jogo do bicho é um sintoma das contradições do Brasil’](https://www.nexojornal.com.br/entrevista/2024/06/20/jogo-do-bicho-entrevista-luiz-antonio-simas)
 - [A seca extrema que volta a isolar terras indígenas no Acre](https://www.nexojornal.com.br/externo/2024/06/20/a-seca-extrema-que-volta-a-isolar-terras-indigenas-no-acre)
 - [Calor intenso mata mais de 900 peregrinos da Meca](https://www.nexojornal.com.br/extra/2024/06/20/calor-intenso-mata-mais-de-900-peregrinos-da-meca)
-- [O Banco Central acerta ao parar de cortar os juros?](https://www.nexojornal.com.br/expresso/2024/06/19/juros-selic-banco-central-como-funciona)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
