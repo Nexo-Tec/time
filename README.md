@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘O jogo do bicho é um sintoma das contradições do Brasil’](https://www.nexojornal.com.br/entrevista/2024/06/20/jogo-do-bicho-entrevista-luiz-antonio-simas)
 - [A seca extrema que volta a isolar terras indígenas no Acre](https://www.nexojornal.com.br/externo/2024/06/20/a-seca-extrema-que-volta-a-isolar-terras-indigenas-no-acre)
 - [Calor intenso mata mais de 900 peregrinos da Meca](https://www.nexojornal.com.br/extra/2024/06/20/calor-intenso-mata-mais-de-900-peregrinos-da-meca)
 - [O Banco Central acerta ao parar de cortar os juros?](https://www.nexojornal.com.br/expresso/2024/06/19/juros-selic-banco-central-como-funciona)
 - [A saúde mental de trabalhadores da linha de frente da covid-19](https://www.nexojornal.com.br/academico/2024/06/19/a-saude-mental-de-trabalhadores-da-linha-de-frente-da-covid-19)
-- [Somados, PT e PL vão receber 30% dos R$ 4,9 bi do fundo eleitoral](https://www.nexojornal.com.br/grafico/2024/06/19/politica-fundo-eleitoral-eleicoes-2024-por-partido)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
