@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O mito da beleza](https://gamarevista.uol.com.br/sem-categoria/o-mito-da-beleza/)
+- [O mito da beleza](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/o-mito-da-beleza/)
 - [Para manter a relevância da Educação Superior num mundo em ebulição](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/para-manter-a-relevancia-da-educacao-superior-num-mundo-em-ebulicao/)
 - [@cler_jardim](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cler_jardim/)
 - [CV: Neca Setubal](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-neca-setubal/)
