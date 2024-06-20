@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O mito da beleza](https://gamarevista.uol.com.br/sem-categoria/o-mito-da-beleza/)
 - [Para manter a relevância da Educação Superior num mundo em ebulição](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/para-manter-a-relevancia-da-educacao-superior-num-mundo-em-ebulicao/)
 - [@cler_jardim](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cler_jardim/)
 - [CV: Neca Setubal](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-neca-setubal/)
 - [Taly Jaia Szwarcfiter: “É preciso saber que você nunca vai completar o check-list de tarefas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/angustia-trabalhar-demais/)
-- [Um Romance Russo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/um-romance-russo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
