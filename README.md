@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O Banco Central acerta ao parar de cortar os juros?](https://www.nexojornal.com.br/expresso/2024/06/19/juros-selic-banco-central-como-funciona)
+- [A saúde mental de trabalhadores da linha de frente da covid-19](https://www.nexojornal.com.br/academico/2024/06/19/a-saude-mental-de-trabalhadores-da-linha-de-frente-da-covid-19)
+- [Somados, PT e PL vão receber 30% dos R$ 4,9 bi do fundo eleitoral](https://www.nexojornal.com.br/grafico/2024/06/19/politica-fundo-eleitoral-eleicoes-2024-por-partido)
 - [Como Pablo Marçal embaralha a eleição em São Paulo](https://www.nexojornal.com.br/podcast/2024/06/19/eleicoes-2024-sao-paulo-pablo-marcal)
 - [As emoções infantojuvenis em ‘Divertida mente 2’](https://www.nexojornal.com.br/expresso/2024/06/19/filme-divertida-mente-2-emocoes-infantojuvenis)
-- [Nova presidente da Petrobras diz que está alinhada com Lula](https://www.nexojornal.com.br/extra/2024/06/19/magda-chambriard-assume-petrobras-alinhada-com-lula)
-- [Banco Central mantém juros em 10,50% e encerra ciclo de cortes](https://www.nexojornal.com.br/extra/2024/06/19/taxa-selic-juros-banco-central-copom-junho-2024)
-- [O que é o Copom. E como são os mandatos de seus membros](https://www.nexojornal.com.br/index/2024/06/19/o-que-e-o-copom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
