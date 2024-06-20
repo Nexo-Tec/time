@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O mito da beleza](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/o-mito-da-beleza/)
-- [Para manter a relevância da Educação Superior num mundo em ebulição](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/para-manter-a-relevancia-da-educacao-superior-num-mundo-em-ebulicao/)
-- [@cler_jardim](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cler_jardim/)
-- [CV: Neca Setubal](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-neca-setubal/)
-- [Taly Jaia Szwarcfiter: “É preciso saber que você nunca vai completar o check-list de tarefas”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/angustia-trabalhar-demais/)
+- [Ansiedade, Tédio, Inveja e Vergonha em “Divertida Mente 2”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ansiedade-tedio-inveja-e-vergonha-em-divertida-mente-2/)
+- [Novos poemas para Chico Buarque editados pela Corsário-Satã](https://gamarevista.uol.com.br/achamos-que-vale/ler/novos-poemas-para-chico-buarque-editados-pela-corsario-sata/)
+- [SP Coffee Festival, para os apaixonados por café](https://gamarevista.uol.com.br/achamos-que-vale/ir/sp-coffee-festival-para-os-apaixonados-por-cafe/)
+- [As motos envenenadas de “Clube dos Vândalos”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-motos-envenenadas-de-clube-dos-vandalos/)
+- [Leituras, debates, shows e mais no Festival Casa Sueli Carneiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/leituras-debates-shows-e-mais-no-festival-casa-sueli-carneiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
