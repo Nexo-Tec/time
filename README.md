@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Adeus ICQ: como estão programas que vieram antes do Whatsapp](https://www.nexojornal.com.br/expresso/2024/06/21/adeus-icq-como-estao-programas-que-vieram-antes-do-whatsapp)
+- [5 livros para refletir sobre o que é ser revolucionária](https://www.nexojornal.com.br/estante-favoritos/2024/06/21/5-livros-para-refletir-sobre-o-que-e-ser-revolucionaria)
+- [‘O livro africano sem título’: a concepção de mundo Bantu-Kongo](https://www.nexojornal.com.br/estante-trechos/2024/06/21/o-livro-africano-sem-nome-a-concepcao-de-mundo-bantu-kongo)
 - [Mudanças climáticas: a crise de dengue pode durar o ano todo?](https://www.nexojornal.com.br/externo/2024/06/21/mudancas-climaticas-a-crise-de-dengue-pode-durar-o-ano-todo)
 - [Lula diz que não vai se opor ao Congresso sobre jogos de azar](https://www.nexojornal.com.br/extra/2024/06/21/lula-legalizacao-cassinos-bingos-jogos-de-azar)
-- [A baixa criatividade de estudantes brasileiros, segundo o Pisa](https://www.nexojornal.com.br/externo/2024/06/20/criatividade-estudantes-brasileiros-pisa)
-- [PL do estuprador: a perversão masculina contra mulheres](https://www.nexojornal.com.br/colunistas/2024/06/20/pl-do-estuprador-a-perversao-masculina-contra-mulheres)
-- [O ressurgimento da PEC da Anistia. E o ‘Refis’ aos partidos](https://www.nexojornal.com.br/expresso/2024/06/20/pec-anistia-refis-partidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
