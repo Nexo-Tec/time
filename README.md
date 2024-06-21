@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A baixa criatividade de estudantes brasileiros, segundo o Pisa](https://www.nexojornal.com.br/externo/2024/06/20/criatividade-estudantes-brasileiros-pisa)
+- [PL do estuprador: a perversão masculina contra mulheres](https://www.nexojornal.com.br/colunistas/2024/06/20/pl-do-estuprador-a-perversao-masculina-contra-mulheres)
+- [O ressurgimento da PEC da Anistia. E o ‘Refis’ aos partidos](https://www.nexojornal.com.br/expresso/2024/06/20/pec-anistia-refis-partidos)
+- [Toffoli abre 3ª via em julgamento sobre porte de maconha](https://www.nexojornal.com.br/extra/2024/06/20/supremo-toffoli-voto-julgamento-porte-maconha)
 - [Cartas de Oswald para Mário de Andrade revelam face subterrânea do modernismo](https://www.nexojornal.com.br/externo/2024/06/20/cartas-de-oswald-para-mario-de-andrade-revelam-face-subterranea-do-modernismo)
-- [O início de um inverno atípico em um ano de desastres ambientais](https://www.nexojornal.com.br/podcast/2024/06/20/inverno-2024-clima-mudancas-climaticas)
-- [‘O jogo do bicho é um sintoma das contradições do Brasil’](https://www.nexojornal.com.br/entrevista/2024/06/20/jogo-do-bicho-entrevista-luiz-antonio-simas)
-- [A seca extrema que volta a isolar terras indígenas no Acre](https://www.nexojornal.com.br/externo/2024/06/20/a-seca-extrema-que-volta-a-isolar-terras-indigenas-no-acre)
-- [Calor intenso mata mais de 900 peregrinos da Meca](https://www.nexojornal.com.br/extra/2024/06/20/calor-intenso-mata-mais-de-900-peregrinos-da-meca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
