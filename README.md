@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Balanço do Dia dos Namorados](https://gamarevista.uol.com.br/colunistas/maria-homem/balanco-do-dia-dos-namorados/)
 - [Ansiedade, Tédio, Inveja e Vergonha em “Divertida Mente 2”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/ansiedade-tedio-inveja-e-vergonha-em-divertida-mente-2/)
 - [Novos poemas para Chico Buarque editados pela Corsário-Satã](https://gamarevista.uol.com.br/achamos-que-vale/ler/novos-poemas-para-chico-buarque-editados-pela-corsario-sata/)
 - [SP Coffee Festival, para os apaixonados por café](https://gamarevista.uol.com.br/achamos-que-vale/ir/sp-coffee-festival-para-os-apaixonados-por-cafe/)
 - [As motos envenenadas de “Clube dos Vândalos”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-motos-envenenadas-de-clube-dos-vandalos/)
-- [Leituras, debates, shows e mais no Festival Casa Sueli Carneiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/leituras-debates-shows-e-mais-no-festival-casa-sueli-carneiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
