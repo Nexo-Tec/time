@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula diz que não vai se opor ao Congresso sobre jogos de azar](https://www.nexojornal.com.br/extra/2024/06/21/lula-legalizacao-cassinos-bingos-jogos-de-azar)
 - [A baixa criatividade de estudantes brasileiros, segundo o Pisa](https://www.nexojornal.com.br/externo/2024/06/20/criatividade-estudantes-brasileiros-pisa)
 - [PL do estuprador: a perversão masculina contra mulheres](https://www.nexojornal.com.br/colunistas/2024/06/20/pl-do-estuprador-a-perversao-masculina-contra-mulheres)
 - [O ressurgimento da PEC da Anistia. E o ‘Refis’ aos partidos](https://www.nexojornal.com.br/expresso/2024/06/20/pec-anistia-refis-partidos)
 - [Toffoli abre 3ª via em julgamento sobre porte de maconha](https://www.nexojornal.com.br/extra/2024/06/20/supremo-toffoli-voto-julgamento-porte-maconha)
-- [Cartas de Oswald para Mário de Andrade revelam face subterrânea do modernismo](https://www.nexojornal.com.br/externo/2024/06/20/cartas-de-oswald-para-mario-de-andrade-revelam-face-subterranea-do-modernismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
