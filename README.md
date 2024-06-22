@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Política armamentista freou queda dos homicídios’](https://www.nexojornal.com.br/entrevista/2024/06/21/brasil-seguranca-publica-atlas-da-violencia-2024-daniel-cerqueira-entrevista)
+- [As disputas em torno da estreia de filme escrito por IA](https://www.nexojornal.com.br/expresso/2024/06/21/ia-inteligencia-artificial-filme-o-ultimo-roteirista-de-peter-luisi)
+- [Como se constroem túneis e pontes embaixo d’água?](https://www.nexojornal.com.br/externo/2024/06/21/como-se-constroem-tuneis-e-pontes-embaixo-dagua)
+- [O reduto de onças-pintadas no Sul que inspirou um romance](https://www.nexojornal.com.br/externo/2024/06/21/o-reduto-de-oncas-pintadas-no-sul-que-inspirou-um-romance)
 - [O fim dos cortes de juros. O recuo do PL Antiaborto. E mais](https://www.nexojornal.com.br/video/2024/06/21/resumo-da-semana-noticia-economia-reuniao-do-copom)
-- [Adeus ICQ: como estão programas que vieram antes do Whatsapp](https://www.nexojornal.com.br/expresso/2024/06/21/adeus-icq-como-estao-programas-que-vieram-antes-do-whatsapp)
-- [5 livros para refletir sobre o que é ser revolucionária](https://www.nexojornal.com.br/estante-favoritos/2024/06/21/5-livros-para-refletir-sobre-o-que-e-ser-revolucionaria)
-- [‘O livro africano sem título’: a concepção de mundo Bantu-Kongo](https://www.nexojornal.com.br/estante-trechos/2024/06/21/o-livro-africano-sem-nome-a-concepcao-de-mundo-bantu-kongo)
-- [Mudanças climáticas: a crise de dengue pode durar o ano todo?](https://www.nexojornal.com.br/externo/2024/06/21/mudancas-climaticas-a-crise-de-dengue-pode-durar-o-ano-todo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
