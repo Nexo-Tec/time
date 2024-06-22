@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lula elogia ministro indiciado pela Polícia Federal](https://www.nexojornal.com.br/extra/2024/06/21/lula-elogia-ministro-indiciado-pela-policia-federal)
-- [A vacina que pode mudar o tratamento contra o câncer](https://www.nexojornal.com.br/expresso/2024/06/21/vacina-cancer-tratamento-oncologico)
-- [‘Política armamentista freou queda dos homicídios’](https://www.nexojornal.com.br/entrevista/2024/06/21/brasil-seguranca-publica-atlas-da-violencia-2024-daniel-cerqueira-entrevista)
-- [As disputas em torno da estreia de filme escrito por IA](https://www.nexojornal.com.br/expresso/2024/06/21/ia-inteligencia-artificial-filme-o-ultimo-roteirista-de-peter-luisi)
-- [Como se constroem túneis e pontes embaixo d’água?](https://www.nexojornal.com.br/externo/2024/06/21/como-se-constroem-tuneis-e-pontes-embaixo-dagua)
+- [O boom de IA na bolsa pode repetir a bolha do começo da internet?](https://www.nexojornal.com.br/expresso/2024/06/22/ia-inteligencia-artificial-nvidia-bolha-pontocom)
+- [O fóssil que revela como era o Brasil há 237 milhões de anos](https://www.nexojornal.com.br/expresso/2024/06/22/fossil-reptil-gracilisuchidae-encontrado-no-sul-brasil-periodo-triassico)
+- [O surgimento da identidade das periferias brasileiras](https://www.nexojornal.com.br/ensaio/2024/06/22/o-surgimento-da-identidade-das-periferias-brasileiras)
+- [‘Era uma vez…’: a origem das expressões dos contos de fadas](https://www.nexojornal.com.br/externo/2024/06/22/era-uma-vez-contos-de-fadas-expressao-origem)
+- [Ataques em Fortaleza deixam mortos e crianças feridas](https://www.nexojornal.com.br/extra/2024/06/22/ataques-em-fortaleza-deixam-mortos-e-criancas-feridas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
