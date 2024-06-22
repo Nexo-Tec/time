@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula elogia ministro indiciado pela Polícia Federal](https://www.nexojornal.com.br/extra/2024/06/21/lula-elogia-ministro-indiciado-pela-policia-federal)
+- [A vacina que pode mudar o tratamento contra o câncer](https://www.nexojornal.com.br/expresso/2024/06/21/vacina-cancer-tratamento-oncologico)
 - [‘Política armamentista freou queda dos homicídios’](https://www.nexojornal.com.br/entrevista/2024/06/21/brasil-seguranca-publica-atlas-da-violencia-2024-daniel-cerqueira-entrevista)
 - [As disputas em torno da estreia de filme escrito por IA](https://www.nexojornal.com.br/expresso/2024/06/21/ia-inteligencia-artificial-filme-o-ultimo-roteirista-de-peter-luisi)
 - [Como se constroem túneis e pontes embaixo d’água?](https://www.nexojornal.com.br/externo/2024/06/21/como-se-constroem-tuneis-e-pontes-embaixo-dagua)
-- [O reduto de onças-pintadas no Sul que inspirou um romance](https://www.nexojornal.com.br/externo/2024/06/21/o-reduto-de-oncas-pintadas-no-sul-que-inspirou-um-romance)
-- [O fim dos cortes de juros. O recuo do PL Antiaborto. E mais](https://www.nexojornal.com.br/video/2024/06/21/resumo-da-semana-noticia-economia-reuniao-do-copom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
