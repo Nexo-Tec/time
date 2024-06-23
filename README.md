@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Nexo’ faz evento sobre temas que mobilizam eleições municipais](https://www.nexojornal.com.br/expresso/2024/06/23/evento-nexo-eleicoes-municipais)
 - [O boom de IA na bolsa pode repetir a bolha do começo da internet?](https://www.nexojornal.com.br/expresso/2024/06/22/ia-inteligencia-artificial-nvidia-bolha-pontocom)
 - [O fóssil que revela como era o Brasil há 237 milhões de anos](https://www.nexojornal.com.br/expresso/2024/06/22/fossil-reptil-gracilisuchidae-encontrado-no-sul-brasil-periodo-triassico)
 - [O surgimento da identidade das periferias brasileiras](https://www.nexojornal.com.br/ensaio/2024/06/22/o-surgimento-da-identidade-das-periferias-brasileiras)
 - [‘Era uma vez…’: a origem das expressões dos contos de fadas](https://www.nexojornal.com.br/externo/2024/06/22/era-uma-vez-contos-de-fadas-expressao-origem)
-- [Ataques em Fortaleza deixam mortos e crianças feridas](https://www.nexojornal.com.br/extra/2024/06/22/ataques-em-fortaleza-deixam-mortos-e-criancas-feridas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
