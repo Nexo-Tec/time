@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O risco de propagação da dengue na Olimpíada de Paris](https://www.nexojornal.com.br/externo/2024/06/24/o-risco-de-propagacao-da-dengue-na-olimpiada-de-paris)
+- [Como estas empresas transformam ar em água](https://www.nexojornal.com.br/expresso/2024/06/24/tecnologia-transformam-ar-agua-umidade-condensacao)
 - [Mato Grosso do Sul decreta emergência por incêndios](https://www.nexojornal.com.br/extra/2024/06/24/mato-grosso-do-sul-emergencia-incendios)
 - [Quando a comida é feita para ser postada, importa se ela é boa?](https://www.nexojornal.com.br/externo/2024/06/24/comida-instagram)
 - [A hora da crítica sem medo: as cores do Brasil na Parada](https://www.nexojornal.com.br/ensaio/2024/06/23/a-hora-da-critica-sem-medo-as-cores-do-brasil-na-parada)
-- [Desvinculação de receitas da União: o que é e como mudou](https://www.nexojornal.com.br/expresso/2024/06/23/economia-desvinculacao-de-receitas-da-uniao-o-que-significa)
-- [Professores de federais decidem encerrar greve](https://www.nexojornal.com.br/extra/2024/06/23/professores-universidades-federais-decidem-encerrar-greve)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
