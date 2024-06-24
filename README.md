@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mato Grosso do Sul decreta emergência por incêndios](https://www.nexojornal.com.br/extra/2024/06/24/mato-grosso-do-sul-emergencia-incendios)
 - [Quando a comida é feita para ser postada, importa se ela é boa?](https://www.nexojornal.com.br/externo/2024/06/24/comida-instagram)
 - [A hora da crítica sem medo: as cores do Brasil na Parada](https://www.nexojornal.com.br/ensaio/2024/06/23/a-hora-da-critica-sem-medo-as-cores-do-brasil-na-parada)
 - [Desvinculação de receitas da União: o que é e como mudou](https://www.nexojornal.com.br/expresso/2024/06/23/economia-desvinculacao-de-receitas-da-uniao-o-que-significa)
 - [Professores de federais decidem encerrar greve](https://www.nexojornal.com.br/extra/2024/06/23/professores-universidades-federais-decidem-encerrar-greve)
-- [‘Nexo’ faz evento sobre temas que mobilizam eleições municipais](https://www.nexojornal.com.br/expresso/2024/06/23/evento-nexo-eleicoes-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
