@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [São João e fórum do Gilmar: o pré-recesso em Brasília](https://www.nexojornal.com.br/podcast/2024/06/24/congresso-supremo-sao-joao-forum-lisboa-gilmar)
+- [Não foi só o show: qual o vínculo de Marisa Monte com a USP](https://www.nexojornal.com.br/expresso/2024/06/24/nao-foi-so-o-show-qual-o-vinculo-de-marisa-monte-com-a-usp)
 - [O risco de propagação da dengue na Olimpíada de Paris](https://www.nexojornal.com.br/externo/2024/06/24/o-risco-de-propagacao-da-dengue-na-olimpiada-de-paris)
 - [Como estas empresas transformam ar em água](https://www.nexojornal.com.br/expresso/2024/06/24/tecnologia-transformam-ar-agua-umidade-condensacao)
 - [Mato Grosso do Sul decreta emergência por incêndios](https://www.nexojornal.com.br/extra/2024/06/24/mato-grosso-do-sul-emergencia-incendios)
-- [Quando a comida é feita para ser postada, importa se ela é boa?](https://www.nexojornal.com.br/externo/2024/06/24/comida-instagram)
-- [A hora da crítica sem medo: as cores do Brasil na Parada](https://www.nexojornal.com.br/ensaio/2024/06/23/a-hora-da-critica-sem-medo-as-cores-do-brasil-na-parada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
