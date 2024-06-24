@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A hora da crítica sem medo: as cores do Brasil na Parada](https://www.nexojornal.com.br/ensaio/2024/06/23/a-hora-da-critica-sem-medo-as-cores-do-brasil-na-parada)
+- [Desvinculação de receitas da União: o que é e como mudou](https://www.nexojornal.com.br/expresso/2024/06/23/economia-desvinculacao-de-receitas-da-uniao-o-que-significa)
+- [Professores de federais decidem encerrar greve](https://www.nexojornal.com.br/extra/2024/06/23/professores-universidades-federais-decidem-encerrar-greve)
 - [‘Nexo’ faz evento sobre temas que mobilizam eleições municipais](https://www.nexojornal.com.br/expresso/2024/06/23/evento-nexo-eleicoes-municipais)
 - [O boom de IA na bolsa pode repetir a bolha do começo da internet?](https://www.nexojornal.com.br/expresso/2024/06/22/ia-inteligencia-artificial-nvidia-bolha-pontocom)
-- [O fóssil que revela como era o Brasil há 237 milhões de anos](https://www.nexojornal.com.br/expresso/2024/06/22/fossil-reptil-gracilisuchidae-encontrado-no-sul-brasil-periodo-triassico)
-- [O surgimento da identidade das periferias brasileiras](https://www.nexojornal.com.br/ensaio/2024/06/22/o-surgimento-da-identidade-das-periferias-brasileiras)
-- [‘Era uma vez…’: a origem das expressões dos contos de fadas](https://www.nexojornal.com.br/externo/2024/06/22/era-uma-vez-contos-de-fadas-expressao-origem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
