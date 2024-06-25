@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Paraná virou um laboratório privatizador no ensino](https://www.nexojornal.com.br/expresso/2024/06/24/escola-publica-privada-educacao-privatizada-parana)
+- [5 inovações para lidar com resíduos urbanos na América Latina](https://www.nexojornal.com.br/externo/2024/06/24/5-inovacoes-para-lidar-com-residuos-urbanos-na-america-latina)
+- [O que são, de onde vêm e para onde vão nossas proteínas](https://www.nexojornal.com.br/colunistas/2024/06/24/o-que-sao-de-onde-vem-e-para-onde-vao-nossas-proteinas)
+- [Servidores ambientais de cinco estados começam greve](https://www.nexojornal.com.br/extra/2024/06/24/servidores-ambientais-de-cinco-estados-comecam-greve)
 - [São João e fórum do Gilmar: o pré-recesso em Brasília](https://www.nexojornal.com.br/podcast/2024/06/24/congresso-supremo-sao-joao-forum-lisboa-gilmar)
-- [Não foi só o show: qual o vínculo de Marisa Monte com a USP](https://www.nexojornal.com.br/expresso/2024/06/24/nao-foi-so-o-show-qual-o-vinculo-de-marisa-monte-com-a-usp)
-- [O risco de propagação da dengue na Olimpíada de Paris](https://www.nexojornal.com.br/externo/2024/06/24/o-risco-de-propagacao-da-dengue-na-olimpiada-de-paris)
-- [Como estas empresas transformam ar em água](https://www.nexojornal.com.br/expresso/2024/06/24/tecnologia-transformam-ar-agua-umidade-condensacao)
-- [Mato Grosso do Sul decreta emergência por incêndios](https://www.nexojornal.com.br/extra/2024/06/24/mato-grosso-do-sul-emergencia-incendios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
