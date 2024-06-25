@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@fernandamonte negrooficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fernandamontenegrooficial/)
+- [@fernandamontenegrooficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fernandamontenegrooficial/)
 - [Monique Evelle: “A verdade vende e ajuda a formar comunidades”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/monique-evelle-verdade-vende/)
 - [Ensaio Sobre o Cancelamento](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ensaio-sobre-o-cancelamento/)
 - [Balanço do Dia dos Namorados](https://gamarevista.uol.com.br/colunistas/maria-homem/balanco-do-dia-dos-namorados/)
