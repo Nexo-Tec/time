@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [A campanha pela libertação de Assange até sua saída da prisão](https://www.nexojornal.com.br/podcast/2024/06/25/julian-assange-livre-vazamento-informacoes-sigilosas)
 - [O que você precisa saber sobre o aumento de casos de coqueluche](https://www.nexojornal.com.br/externo/2024/06/25/o-que-voce-precisa-saber-sobre-o-aumento-de-casos-de-coqueluche)
-- [STF tem maioria para descriminalizar porte de maconha](https://www.nexojornal.com.br/extra/2024/06/25/stf-tem-maioria-para-descriminalizar-porte-de-maconha)
+- [Maioria do STF decide descriminalizar porte de maconha](https://www.nexojornal.com.br/extra/2024/06/25/stf-tem-maioria-para-descriminalizar-porte-de-maconha)
 - [Por que incêndios florestais crescem em todo o Brasil](https://www.nexojornal.com.br/expresso/2024/06/25/incendios-queimadas-biomas)
 - [Assange faz acordo com Justiça americana e deixa prisão](https://www.nexojornal.com.br/extra/2024/06/25/assange-livre)
 <!-- NEXO_LIST:END -->
