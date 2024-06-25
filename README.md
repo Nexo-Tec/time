@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que você precisa saber sobre o aumento de casos de coqueluche](https://www.nexojornal.com.br/externo/2024/06/25/o-que-voce-precisa-saber-sobre-o-aumento-de-casos-de-coqueluche)
 - [STF tem maioria para descriminalizar porte de maconha](https://www.nexojornal.com.br/extra/2024/06/25/stf-tem-maioria-para-descriminalizar-porte-de-maconha)
 - [Por que incêndios florestais crescem em todo o Brasil](https://www.nexojornal.com.br/expresso/2024/06/25/incendios-queimadas-biomas)
 - [Assange faz acordo com Justiça americana e deixa prisão](https://www.nexojornal.com.br/extra/2024/06/25/assange-livre)
 - [O papel de quem integra a gestão pública municipal](https://www.nexojornal.com.br/expresso/2024/06/24/politica-como-funciona-a-gestao-de-um-municipio)
-- [Como o Paraná virou um laboratório privatizador no ensino](https://www.nexojornal.com.br/expresso/2024/06/24/escola-publica-privada-educacao-privatizada-parana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
