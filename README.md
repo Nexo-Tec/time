@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A campanha pela libertação de Assange até sua saída da prisão](https://www.nexojornal.com.br/podcast/2024/06/25/julian-assange-livre-vazamento-informacoes-sigilosas)
-- [O que você precisa saber sobre o aumento de casos de coqueluche](https://www.nexojornal.com.br/externo/2024/06/25/o-que-voce-precisa-saber-sobre-o-aumento-de-casos-de-coqueluche)
-- [Maioria do STF decide descriminalizar porte de maconha](https://www.nexojornal.com.br/extra/2024/06/25/stf-tem-maioria-para-descriminalizar-porte-de-maconha)
-- [Por que incêndios florestais crescem em todo o Brasil](https://www.nexojornal.com.br/expresso/2024/06/25/incendios-queimadas-biomas)
-- [Assange faz acordo com Justiça americana e deixa prisão](https://www.nexojornal.com.br/extra/2024/06/25/assange-livre)
+- [Por que a série ‘The Bear’ transmite tanta ansiedade](https://www.nexojornal.com.br/expresso/2024/06/25/serie-the-bear-terceira-temporada-ansiedade)
+- [Kongjian Yu: ‘É possível transformar um município em uma cidade-esponja em cinco anos’](https://www.nexojornal.com.br/externo/2024/06/25/kongjian-yu-e-possivel-transformar-um-municipio-em-uma-cidade-esponja-em-cinco-anos)
+- [As dimensões da primeira infância nas políticas municipais](https://www.nexojornal.com.br/expresso/2024/06/25/primeira-infancia-nas-politicas-municipais)
+- [O Plano Real segundo declarações de 5 dos seus criadores](https://www.nexojornal.com.br/expresso/2024/06/25/economia-plano-real-criadores)
+- [A variação das principais moedas frente ao dólar em 2024](https://www.nexojornal.com.br/grafico/2024/06/25/cambio-dolar-hoje-principais-moedas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
