@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quênia desiste de taxação após tropas matarem mais de 20](https://www.nexojornal.com.br/extra/2024/06/26/protestos-no-quenia-lei-de-aumento-de-impostos)
 - [PM afasta 5 policiais que participaram de vídeo de youtuber](https://www.nexojornal.com.br/extra/2024/06/26/policial-militar-de-sao-paulo-youtuber-americano-gen-kimura)
 - [Por que o Brasil está perdendo água. E o que pode vir pela frente](https://www.nexojornal.com.br/expresso/2024/06/26/agua-brasil-seca-dados-2023)
 - [Por que a série ‘The Bear’ transmite tanta ansiedade](https://www.nexojornal.com.br/expresso/2024/06/25/serie-the-bear-terceira-temporada-ansiedade)
 - [Kongjian Yu: ‘É possível transformar um município em uma cidade-esponja em cinco anos’](https://www.nexojornal.com.br/externo/2024/06/25/kongjian-yu-e-possivel-transformar-um-municipio-em-uma-cidade-esponja-em-cinco-anos)
-- [As dimensões da primeira infância nas políticas municipais](https://www.nexojornal.com.br/expresso/2024/06/25/primeira-infancia-nas-politicas-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
