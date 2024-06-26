@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o Supremo deixa de lado ao decidir sobre maconha](https://www.nexojornal.com.br/podcast/2024/06/26/maconha-stf-decisao-supremo-descriminalizacao)
+- [Militares tentam dar golpe de Estado na Bolívia](https://www.nexojornal.com.br/extra/2024/06/26/golpe-de-estado-na-bolivia)
 - [Escritora mineira Adélia Prado vence Prêmio Camões](https://www.nexojornal.com.br/extra/2024/06/26/adelia-prado-vence-camoes-de-literatura)
 - [A relação entre a escravidão e o início da indústria no Brasil](https://www.nexojornal.com.br/academico/2024/06/26/escravidao-industrializacao-brasil-pesquisa)
 - [Quênia desiste de taxação após tropas matarem mais de 20](https://www.nexojornal.com.br/extra/2024/06/26/protestos-no-quenia-lei-de-aumento-de-impostos)
-- [PM afasta 5 policiais que participaram de vídeo de youtuber](https://www.nexojornal.com.br/extra/2024/06/26/policial-militar-de-sao-paulo-youtuber-americano-gen-kimura)
-- [Por que o Brasil está perdendo água. E o que pode vir pela frente](https://www.nexojornal.com.br/expresso/2024/06/26/agua-brasil-seca-dados-2023)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
