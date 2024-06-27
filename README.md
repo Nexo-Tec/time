@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A instabilidade que permeou o golpe fracassado na Bolívia](https://www.nexojornal.com.br/podcast/2024/06/27/tentativa-de-golpe-bolivia)
 - [Lula diz que quem associou suas falas à alta do dólar é ‘cretino’](https://www.nexojornal.com.br/extra/2024/06/27/lula-chama-comentaristas-de-cretinos)
 - [A plataforma que mapeia a memória negra brasileira](https://www.nexojornal.com.br/expresso/2024/06/27/historia-movimentos-negros-constelacoes-de-memorias-negras-casa-sueli-carneiro)
 - [Lula sanciona taxa de 20% sobre importados online](https://www.nexojornal.com.br/extra/2024/06/27/lula-sanciona-senado-taxa-de-20-sobre-importados-online)
 - [As cidades que têm os pontos cardeais em seus nomes](https://www.nexojornal.com.br/grafico/2024/06/27/grafico-municipios-com-norte-sul-leste-e-oeste-em-seus-nomes)
-- [Justiça manda prender ex-CEO e ex-diretora da Americanas](https://www.nexojornal.com.br/extra/2024/06/27/prisao-diretores-americanas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
