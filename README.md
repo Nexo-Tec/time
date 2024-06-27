@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Um estudo das audiências públicas na revisão da Lei de Zoneamento de São Paulo](https://pp.nexojornal.com.br/academico/2024/06/27/um-estudo-das-audiencias-publicas-na-revisao-da-lei-de-zoneamento-de-sao-paulo/)
+- [A trajetória das medidas para encerramento dos lixões](https://pp.nexojornal.com.br/linha-do-tempo/2024/06/27/a-trajetoria-das-medidas-para-encerramento-dos-lixoes/)
 - [Assembleias de Deus, suas convenções e ministérios](https://pp.nexojornal.com.br/glossario/2024/06/27/assembleias-de-deus-suas-convencoes-e-ministerios/)
-- [Apagão docente: reflexões, contribuições e proposições para enfrentamento](https://pp.nexojornal.com.br/section/2024/06/27/apagao-docente-reflexoes-contribuicoes-e-proposicoes-para-enfrentamento/)
+- [Apagão docente: reflexões, contribuições e proposições para enfrentamento](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/27/apagao-docente-reflexoes-contribuicoes-e-proposicoes-para-enfrentamento/)
 - [Raça e faroeste da autonomia universitária: questão para reflexão sobre a Lei n. 12.990/2014](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/27/raca-e-faroeste-da-autonomia-universitaria-questao-para-reflexao-sobre-a-lei-no-12-990-2014/)
-- [Recomposição das aprendizagens, ação inadiável](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/27/recomposicao-das-aprendizagens-acao-inadiavel/)
-- [Representação política de mulheres: ainda um caminho longo até a equidade](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/26/representacao-politica-de-mulheres-ainda-um-caminho-longo-ate-a-equidade/)
 <!-- PP_LIST:END -->
 
