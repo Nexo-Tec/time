@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que diz o relatório pedido pelo Brasil para taxar bilionários](https://www.nexojornal.com.br/expresso/2024/06/26/economia-brasil-taxacao-de-bilionarios-relatorio)
+- [Como a psicologia explica o fenômeno dos fãs](https://www.nexojornal.com.br/externo/2024/06/26/fas-fandom-explicacao-psicologia-taylor-swift)
+- [No novo ‘Ripley’, charme cede à psicopatia](https://www.nexojornal.com.br/colunistas/2024/06/26/ripley-serie-netflix-charme-psicopatia)
+- [Qual o papel dos municípios na crise climática](https://www.nexojornal.com.br/expresso/2024/06/26/qual-o-papel-dos-municipios-na-crise-climatica)
 - [O que o Supremo deixa de lado ao decidir sobre maconha](https://www.nexojornal.com.br/podcast/2024/06/26/maconha-stf-decisao-supremo-descriminalizacao)
-- [Militares tentam golpe na Bolívia e presidente troca comandantes](https://www.nexojornal.com.br/extra/2024/06/26/golpe-de-estado-na-bolivia)
-- [Escritora mineira Adélia Prado vence Prêmio Camões](https://www.nexojornal.com.br/extra/2024/06/26/adelia-prado-vence-camoes-de-literatura)
-- [A relação entre a escravidão e o início da indústria no Brasil](https://www.nexojornal.com.br/academico/2024/06/26/escravidao-industrializacao-brasil-pesquisa)
-- [Quênia desiste de taxação após tropas matarem mais de 20](https://www.nexojornal.com.br/extra/2024/06/26/protestos-no-quenia-lei-de-aumento-de-impostos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
