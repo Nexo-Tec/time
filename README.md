@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Assembleias de Deus, suas convenções e ministérios](https://pp.nexojornal.com.br/glossario/2024/06/27/assembleias-de-deus-suas-convencoes-e-ministerios/)
+- [Apagão docente: reflexões, contribuições e proposições para enfrentamento](https://pp.nexojornal.com.br/section/2024/06/27/apagao-docente-reflexoes-contribuicoes-e-proposicoes-para-enfrentamento/)
+- [Raça e faroeste da autonomia universitária: questão para reflexão sobre a Lei n. 12.990/2014](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/27/raca-e-faroeste-da-autonomia-universitaria-questao-para-reflexao-sobre-a-lei-no-12-990-2014/)
+- [Recomposição das aprendizagens, ação inadiável](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/27/recomposicao-das-aprendizagens-acao-inadiavel/)
 - [Representação política de mulheres: ainda um caminho longo até a equidade](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/26/representacao-politica-de-mulheres-ainda-um-caminho-longo-ate-a-equidade/)
-- [Giovanni A. Salum: políticas públicas para a saúde mental infantojuvenil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/06/24/giovanni-a-salum-politicas-publicas-para-a-saude-mental-infantojuvenil/)
-- [Brasil só vai reduzir desigualdades na educação se souber promover cultura de dados](https://pp.nexojornal.com.br/ponto-de-vista/2024/06/19/brasil-so-vai-reduzir-desigualdades-na-educacao-se-souber-promover-cultura-de-dados/)
-- [Por que as empresas privadas também precisam de ações afirmativas?](https://pp.nexojornal.com.br/opiniao/2024/06/19/por-que-as-empresas-privadas-tambem-precisam-de-acoes-afirmativas/)
-- [Quais são as políticas e práticas para atração e retenção do trabalhador mais velho em empresas no Brasil](https://pp.nexojornal.com.br/academico/2024/06/19/quais-sao-as-politicas-e-praticas-para-atracao-e-retencao-do-trabalhador-mais-velho-em-empresas-no-brasil/)
 <!-- PP_LIST:END -->
 
