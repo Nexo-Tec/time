@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Um milho tostado, amanteigado e defumado para comer o ano inteiro](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-milho-tostado-amanteigado-e-defumado-para-comer-o-ano-inteiro/)
-- [Marina levou pra casa um troço que sua família ainda não conhecia: autoestima](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/marina-levou-pra-casa-um-troco-que-sua-familia-ainda-nao-conhecia-autoestima/)
-- [Crocs Classic Mega Crush Clog](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs-classic-mega-crush-clog/)
-- [@fernandamontenegrooficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fernandamontenegrooficial/)
-- [Monique Evelle: “A verdade vende e ajuda a formar comunidades”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/monique-evelle-verdade-vende/)
+- [Uma Feira do Livro ainda maior](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-feira-do-livro-ainda-maior/)
+- [A discussão do aborto no longa queer “Levante”, no Telecine](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-discussao-do-aborto-no-longa-queer-levante-no-telecine/)
+- [Artistas brasileiros consagrados no Festival Turá, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/artistas-brasileiros-consagrados-no-festival-tura-em-sp/)
+- [“Querido Babaca”, da francesa Virginie Despentes](https://gamarevista.uol.com.br/achamos-que-vale/ler/querido-babaca-da-francesa-virginie-despentes/)
+- [Arte contemporânea no Pacaembu na ArPa](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-no-pacaembu-na-arpa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
