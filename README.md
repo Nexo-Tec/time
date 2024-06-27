@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Justiça manda prender ex-CEO e ex-diretora da Americanas](https://www.nexojornal.com.br/extra/2024/06/27/prisao-diretores-americanas)
 - [O que diz o relatório pedido pelo Brasil para taxar bilionários](https://www.nexojornal.com.br/expresso/2024/06/26/economia-brasil-taxacao-de-bilionarios-relatorio)
 - [Como a psicologia explica o fenômeno dos fãs](https://www.nexojornal.com.br/externo/2024/06/26/fas-fandom-explicacao-psicologia-taylor-swift)
 - [No novo ‘Ripley’, charme cede à psicopatia](https://www.nexojornal.com.br/colunistas/2024/06/26/ripley-serie-netflix-charme-psicopatia)
 - [Qual o papel dos municípios na crise climática](https://www.nexojornal.com.br/expresso/2024/06/26/qual-o-papel-dos-municipios-na-crise-climatica)
-- [O que o Supremo deixa de lado ao decidir sobre maconha](https://www.nexojornal.com.br/podcast/2024/06/26/maconha-stf-decisao-supremo-descriminalizacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
