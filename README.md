@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um milho tostado, amanteigado e defumado para comer o ano inteiro](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-milho-tostado-amanteigado-e-defumado-para-comer-o-ano-inteiro/)
 - [Marina levou pra casa um troço que sua família ainda não conhecia: autoestima](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/marina-levou-pra-casa-um-troco-que-sua-familia-ainda-nao-conhecia-autoestima/)
 - [Crocs Classic Mega Crush Clog](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs-classic-mega-crush-clog/)
 - [@fernandamontenegrooficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/fernandamontenegrooficial/)
 - [Monique Evelle: “A verdade vende e ajuda a formar comunidades”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/monique-evelle-verdade-vende/)
-- [Ensaio Sobre o Cancelamento](https://gamarevista.uol.com.br/cultura/trecho-de-livro/ensaio-sobre-o-cancelamento/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
