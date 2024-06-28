@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual é a psicologia por trás das grandes viradas no esporte](https://www.nexojornal.com.br/externo/2024/06/28/qual-e-a-psicologia-por-tras-das-grandes-viradas-no-esporte)
+- [O que pode vir das novas eleições legislativas na França](https://www.nexojornal.com.br/expresso/2024/06/28/eleicoes-franca-cenario-politico)
 - [A decisão do STF sobre maconha. O golpismo na Bolívia. E mais](https://www.nexojornal.com.br/video/2024/06/28/resumo-da-semana-discriminalizacao-da-maconha)
 - [Projeto que prevê multa para quem doar comida é suspenso](https://www.nexojornal.com.br/extra/2024/06/28/multa-para-quem-doar-comida)
 - [5 romances de formação para sentir agonia](https://www.nexojornal.com.br/estante-favoritos/2024/06/28/5-livros-em-que-a-gente-sofre-junto-com-as-protagonistas)
-- [‘Tantra e a arte de cortar cebolas’: entre o complexo e o banal](https://www.nexojornal.com.br/estante-trechos/2024/06/28/tantra-e-a-arte-de-cortar-cebolas-entre-o-complexo-e-o-banal)
-- [‘Quem não era visto na literatura, hoje está sendo lembrado’](https://www.nexojornal.com.br/expresso/2024/06/28/poeta-sergio-vaz-feira-do-livro-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
