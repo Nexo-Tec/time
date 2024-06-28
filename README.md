@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como a rotulagem pode melhorar a experiência digital e a saúde](https://pp.nexojornal.com.br/opiniao/2024/06/28/como-a-rotulagem-pode-melhorar-a-experiencia-digital-e-a-saude/)
+- [Desenvolvimento humano e cooperação global: principais pontos do relatório de 2023/2024 do PNUD](https://pp.nexojornal.com.br/opiniao/2024/06/28/desenvolvimento-humano-e-cooperacao-global-principais-pontos-do-relatorio-de-2023-2024-do-pnud/)
 - [Memória e antirracismo](https://pp.nexojornal.com.br/glossario/2024/06/27/memoria-e-antirracismo/)
 - [Du Bois e a questão da liderança negra](https://pp.nexojornal.com.br/opiniao/2024/06/27/du-bois-e-a-questao-da-lideranca-negra/)
 - [Um estudo das audiências públicas na revisão da Lei de Zoneamento de São Paulo](https://pp.nexojornal.com.br/academico/2024/06/27/um-estudo-das-audiencias-publicas-na-revisao-da-lei-de-zoneamento-de-sao-paulo/)
-- [A trajetória das medidas para encerramento dos lixões](https://pp.nexojornal.com.br/linha-do-tempo/2024/06/27/a-trajetoria-das-medidas-para-encerramento-dos-lixoes/)
-- [Assembleias de Deus, suas convenções e ministérios](https://pp.nexojornal.com.br/glossario/2024/06/27/assembleias-de-deus-suas-convencoes-e-ministerios/)
 <!-- PP_LIST:END -->
 
