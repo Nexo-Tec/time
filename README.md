@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 romances de formação para sentir agonia](https://www.nexojornal.com.br/estante-favoritos/2024/06/28/5-livros-em-que-a-gente-sofre-junto-com-as-protagonistas)
+- [‘Tantra e a arte de cortar cebolas’: entre o complexo e o banal](https://www.nexojornal.com.br/estante-trechos/2024/06/28/tantra-e-a-arte-de-cortar-cebolas-entre-o-complexo-e-o-banal)
+- [‘Quem não era visto na literatura, hoje está sendo lembrado’](https://www.nexojornal.com.br/expresso/2024/06/28/poeta-sergio-vaz-feira-do-livro-sao-paulo)
 - [Como bets e jogos de azar atraem crianças e adolescentes](https://www.nexojornal.com.br/externo/2024/06/28/como-bets-e-jogos-de-azar-atraem-criancas-e-adolescentes)
 - [Congresso argentino aprova pacote de reformas econômicas](https://www.nexojornal.com.br/extra/2024/06/28/lei-onibus-de-milei-e-aprovada-na-argentina)
-- [Debate aumenta dúvidas sobre candidatura de Biden](https://www.nexojornal.com.br/extra/2024/06/28/debate-biden-trump)
-- [A resposta dos governos às queimadas no Pantanal](https://www.nexojornal.com.br/expresso/2024/06/27/meio-ambiente-queimadas-pantanal-governo-responsabilidade)
-- [A história, os símbolos e o alcance do Festival de Parintins](https://www.nexojornal.com.br/expresso/2024/06/27/parintins-festival-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
