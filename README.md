@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Meu Passado me Perdoa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/meu-passado-me-perdoa/)
 - [Uma Feira do Livro ainda maior](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-feira-do-livro-ainda-maior/)
 - [A discussão do aborto no longa queer “Levante”, no Telecine](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-discussao-do-aborto-no-longa-queer-levante-no-telecine/)
 - [Artistas brasileiros consagrados no Festival Turá, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/artistas-brasileiros-consagrados-no-festival-tura-em-sp/)
 - [“Querido Babaca”, da francesa Virginie Despentes](https://gamarevista.uol.com.br/achamos-que-vale/ler/querido-babaca-da-francesa-virginie-despentes/)
-- [Arte contemporânea no Pacaembu na ArPa](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-no-pacaembu-na-arpa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
