@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As estratégias para ter mais mulheres na política municipal](https://www.nexojornal.com.br/expresso/2024/06/28/as-estrategias-para-ter-mais-mulheres-na-politica-municipal)
+- [Justiça devolve livro de Ziraldo a escolas de cidade mineira](https://www.nexojornal.com.br/extra/2024/06/28/o-menino-marrom-livro-de-ziraldo-suspenso-em-escolas-de-minas)
+- [A viabilidade da candidatura de Biden sob análise](https://www.nexojornal.com.br/expresso/2024/06/28/politica-eleicoes-presidente-eua-trump-biden-primeiro-debate)
 - [Qual é a psicologia por trás das grandes viradas no esporte](https://www.nexojornal.com.br/externo/2024/06/28/qual-e-a-psicologia-por-tras-das-grandes-viradas-no-esporte)
 - [O que pode vir das novas eleições legislativas na França](https://www.nexojornal.com.br/expresso/2024/06/28/eleicoes-franca-cenario-politico)
-- [A decisão do STF sobre maconha. O golpismo na Bolívia. E mais](https://www.nexojornal.com.br/video/2024/06/28/resumo-da-semana-discriminalizacao-da-maconha)
-- [Projeto que prevê multa para quem doar comida é suspenso](https://www.nexojornal.com.br/extra/2024/06/28/multa-para-quem-doar-comida)
-- [5 romances de formação para sentir agonia](https://www.nexojornal.com.br/estante-favoritos/2024/06/28/5-livros-em-que-a-gente-sofre-junto-com-as-protagonistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
