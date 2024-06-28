@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Envelhecimento e sociedade](https://pp.nexojornal.com.br/glossario/2024/06/28/envelhecimento-e-sociedade/)
 - [Grandes Modelos de Linguagem, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/06/28/grandes-modelos-de-linguagem-em-12-pontos/)
 - [Como a rotulagem pode melhorar a experiência digital e a saúde](https://pp.nexojornal.com.br/opiniao/2024/06/28/como-a-rotulagem-pode-melhorar-a-experiencia-digital-e-a-saude/)
 - [Desenvolvimento humano e cooperação global: principais pontos do relatório de 2023/2024 do PNUD](https://pp.nexojornal.com.br/opiniao/2024/06/28/desenvolvimento-humano-e-cooperacao-global-principais-pontos-do-relatorio-de-2023-2024-do-pnud/)
 - [Memória e antirracismo](https://pp.nexojornal.com.br/glossario/2024/06/27/memoria-e-antirracismo/)
-- [Du Bois e a questão da liderança negra](https://pp.nexojornal.com.br/opiniao/2024/06/27/du-bois-e-a-questao-da-lideranca-negra/)
 <!-- PP_LIST:END -->
 
