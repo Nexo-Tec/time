@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A resposta dos governos às queimadas no Pantanal](https://www.nexojornal.com.br/expresso/2024/06/27/meio-ambiente-queimadas-pantanal-governo-responsabilidade)
+- [A história, os símbolos e o alcance do Festival de Parintins](https://www.nexojornal.com.br/expresso/2024/06/27/parintins-festival-2024)
+- [Como municípios atuam na segurança pública](https://www.nexojornal.com.br/expresso/2024/06/27/como-municipios-podem-atuar-na-seguranca-publica)
 - [A instabilidade que permeou o golpe fracassado na Bolívia](https://www.nexojornal.com.br/podcast/2024/06/27/tentativa-de-golpe-bolivia)
 - [Lula diz que quem associou suas falas à alta do dólar é ‘cretino’](https://www.nexojornal.com.br/extra/2024/06/27/lula-chama-comentaristas-de-cretinos)
-- [A plataforma que mapeia a memória negra brasileira](https://www.nexojornal.com.br/expresso/2024/06/27/historia-movimentos-negros-constelacoes-de-memorias-negras-casa-sueli-carneiro)
-- [Lula sanciona taxa de 20% sobre importados online](https://www.nexojornal.com.br/extra/2024/06/27/lula-sanciona-senado-taxa-de-20-sobre-importados-online)
-- [As cidades que têm os pontos cardeais em seus nomes](https://www.nexojornal.com.br/grafico/2024/06/27/grafico-municipios-com-norte-sul-leste-e-oeste-em-seus-nomes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
