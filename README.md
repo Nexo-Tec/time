@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Congresso argentino aprova pacote de reformas econômicas](https://www.nexojornal.com.br/extra/2024/06/28/lei-onibus-de-milei-e-aprovada-na-argentina)
 - [Debate aumenta dúvidas sobre candidatura de Biden](https://www.nexojornal.com.br/extra/2024/06/28/debate-biden-trump)
 - [A resposta dos governos às queimadas no Pantanal](https://www.nexojornal.com.br/expresso/2024/06/27/meio-ambiente-queimadas-pantanal-governo-responsabilidade)
 - [A história, os símbolos e o alcance do Festival de Parintins](https://www.nexojornal.com.br/expresso/2024/06/27/parintins-festival-2024)
 - [Como municípios atuam na segurança pública](https://www.nexojornal.com.br/expresso/2024/06/27/como-municipios-podem-atuar-na-seguranca-publica)
-- [A instabilidade que permeou o golpe fracassado na Bolívia](https://www.nexojornal.com.br/podcast/2024/06/27/tentativa-de-golpe-bolivia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
