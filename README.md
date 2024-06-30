@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As estratégias para ter mais mulheres na política municipal](https://www.nexojornal.com.br/expresso/2024/06/28/as-estrategias-para-ter-mais-mulheres-na-politica-municipal)
-- [Justiça devolve livro de Ziraldo a escolas de cidade mineira](https://www.nexojornal.com.br/extra/2024/06/28/o-menino-marrom-livro-de-ziraldo-suspenso-em-escolas-de-minas)
-- [A viabilidade da candidatura de Biden sob análise](https://www.nexojornal.com.br/expresso/2024/06/28/politica-eleicoes-presidente-eua-trump-biden-primeiro-debate)
-- [Qual é a psicologia por trás das grandes viradas no esporte](https://www.nexojornal.com.br/externo/2024/06/28/qual-e-a-psicologia-por-tras-das-grandes-viradas-no-esporte)
-- [O que pode vir das novas eleições legislativas na França](https://www.nexojornal.com.br/expresso/2024/06/28/eleicoes-franca-cenario-politico)
+- [A história do cavaleiro esquecido da Távola Redonda](https://www.nexojornal.com.br/expresso/2024/06/29/a-historia-do-cavaleiro-esquecido-da-tavola-redonda)
+- [O legado perverso da pandemia nos cardápios escolares](https://www.nexojornal.com.br/externo/2024/06/29/o-legado-perverso-da-pandemia-nos-cardapios-escolares)
+- [‘Tina’: o tamanho do problema da droga que se popularizou](https://www.nexojornal.com.br/expresso/2024/06/29/droga-tina-metanfetamina)
+- [Adensar no entorno dos eixos: novidade ou continuidade?](https://www.nexojornal.com.br/ensaio/2024/06/29/adensar-no-entorno-dos-eixos-novidade-ou-continuidade)
+- [‘Fracasso do golpe na Bolívia é ilusão de democracia forte’](https://www.nexojornal.com.br/entrevista/2024/06/29/fracasso-do-golpe-na-bolivia-e-ilusao-de-democracia-forte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
