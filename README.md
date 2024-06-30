@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Reformista e preferido do aiatolá vão a 2º turno no Irã](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-ira-primeiro-turno)
 - [A história do cavaleiro esquecido da Távola Redonda](https://www.nexojornal.com.br/expresso/2024/06/29/a-historia-do-cavaleiro-esquecido-da-tavola-redonda)
 - [O legado perverso da pandemia nos cardápios escolares](https://www.nexojornal.com.br/externo/2024/06/29/o-legado-perverso-da-pandemia-nos-cardapios-escolares)
 - [‘Tina’: o tamanho do problema da droga que se popularizou](https://www.nexojornal.com.br/expresso/2024/06/29/droga-tina-metanfetamina)
 - [Adensar no entorno dos eixos: novidade ou continuidade?](https://www.nexojornal.com.br/ensaio/2024/06/29/adensar-no-entorno-dos-eixos-novidade-ou-continuidade)
-- [‘Fracasso do golpe na Bolívia é ilusão de democracia forte’](https://www.nexojornal.com.br/entrevista/2024/06/29/fracasso-do-golpe-na-bolivia-e-ilusao-de-democracia-forte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
