@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Armas nucleares táticas: o que são e por que preocupam](https://www.nexojornal.com.br/grafico/2024/07/01/russia-arma-nuclear-tatica-o-que-e)
+- [As vitórias de Trump em seu plano de voltar à Casa Branca](https://www.nexojornal.com.br/podcast/2024/07/01/vitoria-de-trump)
 - [Boi Caprichoso vence em Parintins pelo 3º ano consecutivo](https://www.nexojornal.com.br/extra/2024/07/01/boi-caprichoso-campeao-parintins-2024)
 - [Por que as turbulências em aviões estão mais fortes](https://www.nexojornal.com.br/expresso/2024/07/01/por-que-as-turbulencias-em-avioes-estao-mais-fortes)
 - [CNJ arquiva pedidos de investigação contra juízes da Lava Jato](https://www.nexojornal.com.br/extra/2024/07/01/cnj-arquiva-pedidos-de-investigacao-contra-juizes-da-lava-jato)
-- [Como a nanotecnologia pode ajudar a conservar alimentos](https://www.nexojornal.com.br/externo/2024/07/01/nanotecnologia-conservante-natural-alimentos)
-- [‘Divertida mente 2’ vira filme mais visto no cinema em 2024](https://www.nexojornal.com.br/extra/2024/07/01/divertida-mente-2-1-bilhao-de-dolares-em-bilheteria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
