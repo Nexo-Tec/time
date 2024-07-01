@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o vidro é o material menos reciclado no Brasil?](https://www.nexojornal.com.br/externo/2024/06/30/por-que-o-vidro-e-o-material-menos-reciclado-no-brasil)
+- [Mutirões na crise do RS: população e políticas públicas](https://www.nexojornal.com.br/ensaio/2024/06/30/mutiroes-na-crise-do-rs-populacao-e-politicas-publicas)
+- [Como o novo Código Civil afeta o direito à herança](https://www.nexojornal.com.br/expresso/2024/06/30/novo-codigo-civil-heranca)
 - [Extrema direita vence 1º turno na França, mostra projeção](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-franca-primeiro-turno-resultado)
 - [Reformista e preferido do aiatolá vão a 2º turno no Irã](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-ira-primeiro-turno)
-- [A história do cavaleiro esquecido da Távola Redonda](https://www.nexojornal.com.br/expresso/2024/06/29/a-historia-do-cavaleiro-esquecido-da-tavola-redonda)
-- [O legado perverso da pandemia nos cardápios escolares](https://www.nexojornal.com.br/externo/2024/06/29/o-legado-perverso-da-pandemia-nos-cardapios-escolares)
-- [‘Tina’: o tamanho do problema da droga que se popularizou](https://www.nexojornal.com.br/expresso/2024/06/29/droga-tina-metanfetamina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
