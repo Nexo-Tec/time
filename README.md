@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Por que o vidro é o material menos reciclado no Brasil?](https://www.nexojornal.com.br/externo/2024/06/30/por-que-o-vidro-e-o-material-menos-reciclado-no-brasil)
 - [Mutirões na crise do RS: população e políticas públicas](https://www.nexojornal.com.br/ensaio/2024/06/30/mutiroes-na-crise-do-rs-populacao-e-politicas-publicas)
 - [Como o novo Código Civil afeta o direito à herança](https://www.nexojornal.com.br/expresso/2024/06/30/novo-codigo-civil-heranca)
-- [Extrema direita vence 1º turno na França, mostra projeção](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-franca-primeiro-turno-resultado)
+- [Extrema direita vence 1º turno de eleições legislativas na França](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-franca-primeiro-turno-resultado)
 - [Reformista e preferido do aiatolá vão a 2º turno no Irã](https://www.nexojornal.com.br/extra/2024/06/30/eleicao-ira-primeiro-turno)
 <!-- NEXO_LIST:END -->
 
