@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pedro Vinicio](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedro-vinicio/)
 - [Katherina Cordás e Ivan Ralston: “A gente viaja para comer”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/katherina-cordas-ivan-ralston-viagem/)
 - [Meu Passado me Perdoa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/meu-passado-me-perdoa/)
 - [Uma Feira do Livro ainda maior](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-feira-do-livro-ainda-maior/)
 - [A discussão do aborto no longa queer “Levante”, no Telecine](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-discussao-do-aborto-no-longa-queer-levante-no-telecine/)
-- [Artistas brasileiros consagrados no Festival Turá, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/artistas-brasileiros-consagrados-no-festival-tura-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
