@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Boi Caprichoso vence em Parintins pelo 3º ano consecutivo](https://www.nexojornal.com.br/extra/2024/07/01/boi-caprichoso-campeao-parintins-2024)
+- [Por que as turbulências em aviões estão mais fortes](https://www.nexojornal.com.br/expresso/2024/07/01/por-que-as-turbulencias-em-avioes-estao-mais-fortes)
 - [CNJ arquiva pedidos de investigação contra juízes da Lava Jato](https://www.nexojornal.com.br/extra/2024/07/01/cnj-arquiva-pedidos-de-investigacao-contra-juizes-da-lava-jato)
 - [Como a nanotecnologia pode ajudar a conservar alimentos](https://www.nexojornal.com.br/externo/2024/07/01/nanotecnologia-conservante-natural-alimentos)
 - [‘Divertida mente 2’ vira filme mais visto no cinema em 2024](https://www.nexojornal.com.br/extra/2024/07/01/divertida-mente-2-1-bilhao-de-dolares-em-bilheteria)
-- [Por que o vidro é o material menos reciclado no Brasil?](https://www.nexojornal.com.br/externo/2024/06/30/por-que-o-vidro-e-o-material-menos-reciclado-no-brasil)
-- [Mutirões na crise do RS: população e políticas públicas](https://www.nexojornal.com.br/ensaio/2024/06/30/mutiroes-na-crise-do-rs-populacao-e-politicas-publicas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
