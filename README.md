@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como foi o rebranding da extrema direita de Marine Le Pen](https://www.nexojornal.com.br/expresso/2024/07/01/como-foi-o-rebranding-da-extrema-direita-de-marine-le-pen)
+- [Dólar fecha em R$ 5,65, maior valor em dois anos e meio](https://www.nexojornal.com.br/extra/2024/07/01/dolar-fecha-em-r-565-maior-valor-em-dois-anos-e-meio)
+- [Neurônios na base do cérebro controlam a busca compulsiva por comida](https://www.nexojornal.com.br/externo/2024/07/01/neuronios-na-base-do-cerebro-controlam-a-busca-compulsiva-por-comida)
 - [Armas nucleares táticas: o que são e por que preocupam](https://www.nexojornal.com.br/grafico/2024/07/01/russia-arma-nuclear-tatica-o-que-e)
 - [As vitórias de Trump em seu plano de voltar à Casa Branca](https://www.nexojornal.com.br/podcast/2024/07/01/vitoria-de-trump)
-- [Boi Caprichoso vence em Parintins pelo 3º ano consecutivo](https://www.nexojornal.com.br/extra/2024/07/01/boi-caprichoso-campeao-parintins-2024)
-- [Por que as turbulências em aviões estão mais fortes](https://www.nexojornal.com.br/expresso/2024/07/01/por-que-as-turbulencias-em-avioes-estao-mais-fortes)
-- [CNJ arquiva pedidos de investigação contra juízes da Lava Jato](https://www.nexojornal.com.br/extra/2024/07/01/cnj-arquiva-pedidos-de-investigacao-contra-juizes-da-lava-jato)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
