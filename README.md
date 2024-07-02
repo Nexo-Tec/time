@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@pabllovittar](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pabllovittar/)
 - [Lutar com palavras é a luta mais vã](https://gamarevista.uol.com.br/colunistas/fernando-luna/lutar-com-palavras-e-a-luta-mais-va/)
 - [Pedro Vinicio](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedro-vinicio/)
 - [Katherina Cordás e Ivan Ralston: “A gente viaja para comer”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/katherina-cordas-ivan-ralston-viagem/)
 - [Meu Passado me Perdoa](https://gamarevista.uol.com.br/cultura/trecho-de-livro/meu-passado-me-perdoa/)
-- [Uma Feira do Livro ainda maior](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-feira-do-livro-ainda-maior/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
