@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula reitera ‘viés político’ de Campos Neto, que cita ‘ruídos’](https://www.nexojornal.com.br/extra/2024/07/02/lula-reitera-vies-politico-de-campos-neto-que-cita-ruidos)
 - [Agência brasileira proíbe Meta de usar dados para treinar IA](https://www.nexojornal.com.br/extra/2024/07/02/agencia-brasileira-proibe-meta-de-usar-dados-para-treinar-ia)
 - [Por que o fogo do Pantanal se concentra numa cidade só](https://www.nexojornal.com.br/expresso/2024/07/01/incendios-pantanal-corumba-ms)
 - [Como foi o rebranding da extrema direita de Marine Le Pen](https://www.nexojornal.com.br/expresso/2024/07/01/como-foi-o-rebranding-da-extrema-direita-de-marine-le-pen)
 - [Dólar fecha em R$ 5,65, maior valor em dois anos e meio](https://www.nexojornal.com.br/extra/2024/07/01/dolar-fecha-em-r-565-maior-valor-em-dois-anos-e-meio)
-- [Neurônios na base do cérebro controlam a busca compulsiva por comida](https://www.nexojornal.com.br/externo/2024/07/01/neuronios-na-base-do-cerebro-controlam-a-busca-compulsiva-por-comida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
