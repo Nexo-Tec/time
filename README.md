@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o fogo do Pantanal se concentra numa cidade só](https://www.nexojornal.com.br/expresso/2024/07/01/incendios-pantanal-corumba-ms)
 - [Como foi o rebranding da extrema direita de Marine Le Pen](https://www.nexojornal.com.br/expresso/2024/07/01/como-foi-o-rebranding-da-extrema-direita-de-marine-le-pen)
 - [Dólar fecha em R$ 5,65, maior valor em dois anos e meio](https://www.nexojornal.com.br/extra/2024/07/01/dolar-fecha-em-r-565-maior-valor-em-dois-anos-e-meio)
 - [Neurônios na base do cérebro controlam a busca compulsiva por comida](https://www.nexojornal.com.br/externo/2024/07/01/neuronios-na-base-do-cerebro-controlam-a-busca-compulsiva-por-comida)
 - [Armas nucleares táticas: o que são e por que preocupam](https://www.nexojornal.com.br/grafico/2024/07/01/russia-arma-nuclear-tatica-o-que-e)
-- [As vitórias de Trump em seu plano de voltar à Casa Branca](https://www.nexojornal.com.br/podcast/2024/07/01/vitoria-de-trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
