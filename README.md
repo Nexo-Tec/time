@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O Pantanal vai acabar? Entenda quais são as ameaças ao bioma](https://www.nexojornal.com.br/podcast/2024/07/02/as-ameacas-ao-pantanal)
 - [Tumulto em ato religioso deixa mais de 100 mortos na Índia](https://www.nexojornal.com.br/extra/2024/07/02/tumulto-em-ato-religioso-deixa-mais-de-100-mortos-na-india)
 - [As dezenas de projetos contra o aborto no Congresso Nacional](https://www.nexojornal.com.br/externo/2024/07/02/as-dezenas-de-projetos-contra-o-aborto-no-congresso-nacional)
 - [Lula reitera ‘viés político’ de Campos Neto, que cita ‘ruídos’](https://www.nexojornal.com.br/extra/2024/07/02/lula-reitera-vies-politico-de-campos-neto-que-cita-ruidos)
 - [Agência brasileira proíbe Meta de usar dados para treinar IA](https://www.nexojornal.com.br/extra/2024/07/02/agencia-brasileira-proibe-meta-de-usar-dados-para-treinar-ia)
-- [Por que o fogo do Pantanal se concentra numa cidade só](https://www.nexojornal.com.br/expresso/2024/07/01/incendios-pantanal-corumba-ms)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
