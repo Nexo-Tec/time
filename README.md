@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula afirma que responsabilidade fiscal é compromisso](https://www.nexojornal.com.br/extra/2024/07/03/lula-afirma-que-responsabilidade-fiscal-e-compromisso)
 - [Ministro diz que Brasil não precisa mais de leilão de arroz](https://www.nexojornal.com.br/extra/2024/07/03/ministro-diz-que-brasil-nao-precisa-mais-de-leilao-de-arroz)
 - [O que é o Plano Safra. E como ele funciona](https://www.nexojornal.com.br/index/2024/07/03/plano-safra-o-que-e)
 - [O desgaste de podcasts com entrevistadores despreparados](https://www.nexojornal.com.br/expresso/2024/07/03/podcast-mesacast-criticas-podpah-wagner-moura)
 - [Quais fatores ajudam a pressionar o dólar em 2024](https://www.nexojornal.com.br/expresso/2024/07/02/quais-fatores-ajudam-a-pressionar-o-dolar-em-2024)
-- [A gestão de pessoas no serviço público precisa ser tema nas eleições](https://www.nexojornal.com.br/colunistas/2024/07/02/gestao-de-pessoas-servico-publico-eleicoes-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
