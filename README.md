@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desgaste de podcasts com entrevistadores despreparados](https://www.nexojornal.com.br/expresso/2024/07/03/podcast-mesacast-criticas-podpah-wagner-moura)
 - [Quais fatores ajudam a pressionar o dólar em 2024](https://www.nexojornal.com.br/expresso/2024/07/02/quais-fatores-ajudam-a-pressionar-o-dolar-em-2024)
 - [A gestão de pessoas no serviço público precisa ser tema nas eleições](https://www.nexojornal.com.br/colunistas/2024/07/02/gestao-de-pessoas-servico-publico-eleicoes-2024)
 - [Por que o Suriname ainda não demarcou reservas](https://www.nexojornal.com.br/externo/2024/07/02/por-que-o-suriname-ainda-nao-demarcou-reservas)
 - [‘Esposas troféu’: o que é o movimento e por que ele está em voga](https://www.nexojornal.com.br/expresso/2024/07/02/esposa-trofeu-o-que-e-movimento-tiktok)
-- [O Pantanal vai acabar? Entenda quais são as ameaças ao bioma](https://www.nexojornal.com.br/podcast/2024/07/02/as-ameacas-ao-pantanal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
