@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mensagens põem chefe da Câmara Municipal de SP sob suspeita](https://www.nexojornal.com.br/extra/2024/07/03/milton-leite-pcc-camara-sp)
+- [‘Nexo’ publica série de textos de opinião sobre papel dos municípios](https://www.nexojornal.com.br/expresso/2024/07/03/opiniao-eleicoes-papel-dos-municipios)
+- [As obras de Banksy em defesa dos direitos de imigrantes](https://www.nexojornal.com.br/expresso/2024/07/03/arte-bansky-direito-imigrantes)
+- [Jogo do tigrinho: propaganda, golpes, vício e dívidas](https://www.nexojornal.com.br/podcast/2024/07/03/jogo-do-tigrinho-polemicas)
 - [Como indianas protegeram florestas abraçando árvores](https://www.nexojornal.com.br/expresso/2024/07/03/movimento-chipko-india)
-- [Lula afirma que responsabilidade fiscal é compromisso](https://www.nexojornal.com.br/extra/2024/07/03/lula-afirma-que-responsabilidade-fiscal-e-compromisso)
-- [Ministro diz que Brasil não precisa mais de leilão de arroz](https://www.nexojornal.com.br/extra/2024/07/03/ministro-diz-que-brasil-nao-precisa-mais-de-leilao-de-arroz)
-- [O que é o Plano Safra. E como ele funciona](https://www.nexojornal.com.br/index/2024/07/03/plano-safra-o-que-e)
-- [O desgaste de podcasts com entrevistadores despreparados](https://www.nexojornal.com.br/expresso/2024/07/03/podcast-mesacast-criticas-podpah-wagner-moura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
