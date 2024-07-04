@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia Federal indicia Bolsonaro e outros 11 em inquérito das joias](https://www.nexojornal.com.br/extra/2024/07/04/policia-federal-indicia-bolsonaro-e-outros-11-em-inquerito-das-joias)
+- [O retorno dos trabalhistas ao comando no Reino Unido](https://www.nexojornal.com.br/expresso/2024/07/04/politica-reino-unido-trabalhistas-no-poder-keir-starmer)
+- [Os movimentos para barrar a regulação de IA no Congresso](https://www.nexojornal.com.br/externo/2024/07/04/os-movimentos-para-barrar-a-regulacao-de-ia-no-congresso)
+- [Os adolescentes, a criatividade, as bolhas e os algoritmos](https://www.nexojornal.com.br/colunistas/2024/07/04/os-adolescentes-a-criatividade-as-bolhas-e-os-algoritmos)
 - [O catálogo que reúne 100 artistas de capas de livros](https://www.nexojornal.com.br/expresso/2024/07/04/o-catalogo-que-reune-100-artistas-de-capas-de-livros)
-- [Rio Grande do Sul inaugura primeira cidade provisória](https://www.nexojornal.com.br/extra/2024/07/04/cidade-provisoria-desabrigados-pelas-chuvas-no-rio-grande-do-sul)
-- [Treinamento que flerta com a má conduta](https://www.nexojornal.com.br/externo/2024/07/04/treinamento-que-flerta-com-a-ma-conduta)
-- [Como alunos negros lutam para acessar a pós-graduação](https://www.nexojornal.com.br/academico/2024/07/04/como-alunos-negros-lutam-para-acessar-a-pos-graduacao)
-- [Os cargos de liderança nos ministérios de Lula por gênero e raça](https://www.nexojornal.com.br/grafico/2024/07/04/cargo-de-lideranca-nos-ministerios-por-raca-e-genero)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
