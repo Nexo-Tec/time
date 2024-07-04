@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Crocs Classic Mega Crush Clog](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/crocs-classic-mega-crush-clog/)
-- [CV: Rodrigo França](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-rodrigo-franca/)
-- [“Supremacia branca: a branquitude organizada”](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/supremacia-branca-a-branquitude-organizada/)
-- [@pabllovittar](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pabllovittar/)
-- [Lutar com palavras é a luta mais vã](https://gamarevista.uol.com.br/colunistas/fernando-luna/lutar-com-palavras-e-a-luta-mais-va/)
+- [A intimidade do rapper Lil Nas X, no Pime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-intimidade-do-rapper-lil-nas-x-no-pime-video/)
+- [O podcast “O Último Plano”, do G1](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-o-ultimo-plano-do-g1/)
+- [Obra de Elena Ferrante no palco do Sesc Bom Retiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/obra-de-elena-ferrante-no-palco-do-sesc-bom-retiro/)
+- [Exposição reflete obra de Lélia Gonzalez, no Sesc Vila Mariana](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-reflete-obra-de-lelia-gonzalez-no-sesc-vila-mariana/)
+- [Os contos de “Tantra e a Arte de Cortar Cebolas”](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-contos-de-tantra-e-a-arte-de-cortar-cebolas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
