@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Reforma tributária: carnes ficam de fora da isenção total](https://www.nexojornal.com.br/extra/2024/07/04/impostos-carnes-reforma-tributaria)
 - [Nova operação mira suspeitos de fraudar vacina de Bolsonaro](https://www.nexojornal.com.br/extra/2024/07/04/pf-fraude-cartao-vacina-bolsonaro)
 - [Como o furacão Beryl mostra os riscos de oceanos mais quentes](https://www.nexojornal.com.br/expresso/2024/07/03/furacao-beryl-oceano-quente)
 - [Equatorial: a empresa que vai levar a Sabesp sem concorrentes](https://www.nexojornal.com.br/expresso/2024/07/03/privatizacao-sabesp-empresa-equatorial)
 - [Mensagens põem chefe da Câmara Municipal de SP sob suspeita](https://www.nexojornal.com.br/extra/2024/07/03/milton-leite-pcc-camara-sp)
-- [‘Nexo’ publica série de textos de opinião sobre papel dos municípios](https://www.nexojornal.com.br/expresso/2024/07/03/opiniao-eleicoes-papel-dos-municipios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
