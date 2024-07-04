@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A intimidade do rapper Lil Nas X, no Pime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-intimidade-do-rapper-lil-nas-x-no-pime-video/)
+- [A intimidade do rapper Lil Nas X, no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-intimidade-do-rapper-lil-nas-x-no-pime-video/)
 - [O podcast “O Último Plano”, do G1](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-o-ultimo-plano-do-g1/)
 - [Obra de Elena Ferrante no palco do Sesc Bom Retiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/obra-de-elena-ferrante-no-palco-do-sesc-bom-retiro/)
 - [Exposição reflete obra de Lélia Gonzalez, no Sesc Vila Mariana](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-reflete-obra-de-lelia-gonzalez-no-sesc-vila-mariana/)
