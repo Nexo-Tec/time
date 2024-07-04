@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O catálogo que reúne 100 artistas de capas de livros](https://www.nexojornal.com.br/expresso/2024/07/04/o-catalogo-que-reune-100-artistas-de-capas-de-livros)
+- [Rio Grande do Sul inaugura primeira cidade provisória](https://www.nexojornal.com.br/extra/2024/07/04/cidade-provisoria-desabrigados-pelas-chuvas-no-rio-grande-do-sul)
 - [Treinamento que flerta com a má conduta](https://www.nexojornal.com.br/externo/2024/07/04/treinamento-que-flerta-com-a-ma-conduta)
 - [Como alunos negros lutam para acessar a pós-graduação](https://www.nexojornal.com.br/academico/2024/07/04/como-alunos-negros-lutam-para-acessar-a-pos-graduacao)
 - [Os cargos de liderança nos ministérios de Lula por gênero e raça](https://www.nexojornal.com.br/grafico/2024/07/04/cargo-de-lideranca-nos-ministerios-por-raca-e-genero)
-- [Reforma tributária: carnes ficam de fora da isenção total](https://www.nexojornal.com.br/extra/2024/07/04/impostos-carnes-reforma-tributaria)
-- [Nova operação mira suspeitos de fraudar vacina de Bolsonaro](https://www.nexojornal.com.br/extra/2024/07/04/pf-fraude-cartao-vacina-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
