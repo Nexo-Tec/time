@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os cargos de liderança nos ministérios de Lula por gênero e raça](https://www.nexojornal.com.br/grafico/2024/07/04/cargo-de-lideranca-nos-ministerios-por-raca-e-genero)
 - [Reforma tributária: carnes ficam de fora da isenção total](https://www.nexojornal.com.br/extra/2024/07/04/impostos-carnes-reforma-tributaria)
 - [Nova operação mira suspeitos de fraudar vacina de Bolsonaro](https://www.nexojornal.com.br/extra/2024/07/04/pf-fraude-cartao-vacina-bolsonaro)
 - [Como o furacão Beryl mostra os riscos de oceanos mais quentes](https://www.nexojornal.com.br/expresso/2024/07/03/furacao-beryl-oceano-quente)
 - [Equatorial: a empresa que vai levar a Sabesp sem concorrentes](https://www.nexojornal.com.br/expresso/2024/07/03/privatizacao-sabesp-empresa-equatorial)
-- [Mensagens põem chefe da Câmara Municipal de SP sob suspeita](https://www.nexojornal.com.br/extra/2024/07/03/milton-leite-pcc-camara-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
