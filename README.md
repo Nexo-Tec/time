@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que tratar da saúde infantil é importante para o bem-estar nas cidades](https://pp.nexojornal.com.br/topico/2024/07/04/por-que-tratar-da-saude-infantil-e-importante-para-o-bem-estar-das-cidades/)
 - [Trabalhadores brasileiros 60+: envelhecimento, aposentadoria e desafios profissionais](https://pp.nexojornal.com.br/academico/2024/07/04/trabalhadores-brasileiros-60-envelhecimento-aposentadoria-e-desafios-profissionais/)
 - [A urgência de priorizar educação infantil na agenda das eleições municipais](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/04/a-urgencia-de-priorizar-educacao-infantil-na-agenda-das-eleicoes-municipais/)
 - [Boi, bala e “Bíblia” avançam no Congresso](https://pp.nexojornal.com.br/opiniao/2024/07/03/boi-bala-e-biblia-avancam-no-congresso/)
 - [Priscilla Negreiros: financiamento climático em cidades](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/06/28/priscilla-negreiros-financiamento-climatico-em-cidades/)
-- [Envelhecimento e sociedade](https://pp.nexojornal.com.br/glossario/2024/06/28/envelhecimento-e-sociedade/)
 <!-- PP_LIST:END -->
 
