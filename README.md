@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Prazer Censurado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-prazer-censurado/)
 - [A intimidade do rapper Lil Nas X, no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-intimidade-do-rapper-lil-nas-x-no-pime-video/)
 - [O podcast “O Último Plano”, do G1](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-o-ultimo-plano-do-g1/)
 - [Obra de Elena Ferrante no palco do Sesc Bom Retiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/obra-de-elena-ferrante-no-palco-do-sesc-bom-retiro/)
 - [Exposição reflete obra de Lélia Gonzalez, no Sesc Vila Mariana](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-reflete-obra-de-lelia-gonzalez-no-sesc-vila-mariana/)
-- [Os contos de “Tantra e a Arte de Cortar Cebolas”](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-contos-de-tantra-e-a-arte-de-cortar-cebolas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
