@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A troca de governo no Reino Unido. As joias e Bolsonaro. E mais](https://www.nexojornal.com.br/video/2024/07/05/noticias-resumo-da-semana-partido-trabalhista-ganha-eleicao-no-reino-unido)
 - [O que os filmes podem dizer sobre nossa relação com a IA](https://www.nexojornal.com.br/externo/2024/07/05/o-que-os-filmes-podem-dizer-sobre-nossa-relacao-com-a-ia)
 - [5 livros lidos por um comentarista entre uma partida e outra](https://www.nexojornal.com.br/estante-favoritos/2024/07/05/5-livros-lidos-por-um-comentarista-entre-uma-partida-e-outra)
 - [‘Juventude sem Deus’: um professor em meio ao nazismo](https://www.nexojornal.com.br/estante-trechos/2024/07/05/juventude-sem-deus-um-professor-em-meio-ao-nazismo)
 - [O que o sangue de centenários diz sobre sua longevidade](https://www.nexojornal.com.br/externo/2024/07/05/o-que-o-sangue-de-centenarios-diz-sobre-sua-longevidade)
-- [A miséria do debate público e a encarnação da decadência](https://www.nexojornal.com.br/ensaio/2024/07/05/a-miseria-do-debate-publico-e-a-encarnacao-da-decadencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
