@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o sangue de centenários diz sobre sua longevidade](https://www.nexojornal.com.br/externo/2024/07/05/o-que-o-sangue-de-centenarios-diz-sobre-sua-longevidade)
+- [A miséria do debate público e a encarnação da decadência](https://www.nexojornal.com.br/ensaio/2024/07/05/a-miseria-do-debate-publico-e-a-encarnacao-da-decadencia)
 - [A fala de um CEO que revela uma cultura de trabalho extrema](https://www.nexojornal.com.br/expresso/2024/07/05/tallis-gomes-g4-educacao-entrevista-trabalho)
 - [Cigarros, bebida, aposta: o ‘imposto do pecado’ na reforma](https://www.nexojornal.com.br/podcast/2024/07/04/reforma-tributaria-imposto-cigarro-bebida-e-aposta)
 - [Polícia Federal indicia Bolsonaro e outros 11 em inquérito das joias](https://www.nexojornal.com.br/extra/2024/07/04/policia-federal-indicia-bolsonaro-e-outros-11-em-inquerito-das-joias)
-- [O retorno dos trabalhistas ao comando no Reino Unido](https://www.nexojornal.com.br/expresso/2024/07/04/politica-reino-unido-trabalhistas-no-poder-keir-starmer)
-- [Os movimentos para barrar a regulação de IA no Congresso](https://www.nexojornal.com.br/externo/2024/07/04/os-movimentos-para-barrar-a-regulacao-de-ia-no-congresso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
