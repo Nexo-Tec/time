@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Keir Starmer cancela plano de deportações para Ruanda](https://www.nexojornal.com.br/extra/2024/07/06/keir-starmer-cancela-plano-de-deportacoes-para-ruanda)
 - [A história do Parque do Bixiga até sua aprovação em São Paulo](https://www.nexojornal.com.br/expresso/2024/07/06/parque-do-rio-bixiga-sao-paulo)
 - [Candidato moderado vence eleições presidenciais no Irã](https://www.nexojornal.com.br/extra/2024/07/06/masoud-pezeshkian-vence-eleicao-no-ira)
 - [A relação entre calor, inteligência e raiva, segundo estes estudos](https://www.nexojornal.com.br/expresso/2024/07/05/a-relacao-entre-calor-inteligencia-e-raiva-estudos)
 - [Cai interesse por programas de pós-graduação no país](https://www.nexojornal.com.br/externo/2024/07/05/cai-interesse-por-programas-de-pos-graduacao-no-pais)
-- [Os ataques contra centros que estudam desinformação](https://www.nexojornal.com.br/expresso/2024/07/05/ataques-centros-desinformacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
