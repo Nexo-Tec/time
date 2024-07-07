@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Eleições municipais: sobrevivência política em cenários distintos](https://www.nexojornal.com.br/debate/2024/07/07/eleicoes-municipais-sobrevivencia-politica-em-cenarios-distintos)
+- [Aconteceu antes ou depois do 7 a 1? Teste aqui sua memória](https://www.nexojornal.com.br/interativo/2024/07/07/copa-do-mundo-2014-brasil-e-alemanha-7-a-1-teste)
+- [Como o poder público pode garantir direitos a quem cuida](https://www.nexojornal.com.br/expresso/2024/07/07/direito-cuidadores-lei-e-politicas-publicas)
 - [Esquerda vence eleições na França, mostra projeção](https://www.nexojornal.com.br/extra/2024/07/07/esquerda-vence-segundo-turno-eleicoes-na-franca)
 - [As preocupações em torno da exploração no ‘Vale do Lítio’](https://www.nexojornal.com.br/externo/2024/07/06/as-preocupacoes-em-torno-da-exploracao-no-vale-do-litio)
-- [Mulheres e clima: vulnerabilidade e resposta à crise atual](https://www.nexojornal.com.br/debate/2024/07/06/mulheres-e-clima-vulnerabilidade-e-resposta-a-crise-atual)
-- [‘Moralidade impede discussão sobre direito de morrer no país’](https://www.nexojornal.com.br/entrevista/2024/07/06/morte-digna-eutanasia-carolina-arruda)
-- [Keir Starmer cancela plano de deportações para Ruanda](https://www.nexojornal.com.br/extra/2024/07/06/keir-starmer-cancela-plano-de-deportacoes-para-ruanda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
