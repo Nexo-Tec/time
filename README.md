@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Controle de Nintendo Wii](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/controle-de-nintendo-wii/)
 - [Daniel Becker: “Há uma crise mental e emocional na infância sem precedentes”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniel-becker-crise-mental-emocional-infancia/)
 - [O Prazer Censurado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-prazer-censurado/)
 - [A intimidade do rapper Lil Nas X, no Prime Video](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-intimidade-do-rapper-lil-nas-x-no-pime-video/)
 - [O podcast “O Último Plano”, do G1](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-o-ultimo-plano-do-g1/)
-- [Obra de Elena Ferrante no palco do Sesc Bom Retiro](https://gamarevista.uol.com.br/achamos-que-vale/ir/obra-de-elena-ferrante-no-palco-do-sesc-bom-retiro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
