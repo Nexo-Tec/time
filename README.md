@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Caso das joias: Polícia Federal aponta desvio de R$ 25 milhões](https://www.nexojornal.com.br/extra/2024/07/08/bolsonaro-joias-policia-federal-aponta-desvio-de-r-25-milhoes)
+- [Os segredos dos centenários saudáveis do Brasil](https://www.nexojornal.com.br/externo/2024/07/08/os-segredos-dos-centenarios-saudaveis-do-brasil)
+- [Caso das joias: Polícia Federal vê esquema de R$ 6,8 milhões](https://www.nexojornal.com.br/extra/2024/07/08/bolsonaro-joias-policia-federal-aponta-desvio-de-r-25-milhoes)
 - [Petrobras eleva preço da gasolina e do gás de cozinha](https://www.nexojornal.com.br/extra/2024/07/08/petrobras-eleva-preco-da-gasolina-e-do-gas-de-cozinha)
 - [10 anos do 7 a 1: como estão as seleções do Brasil e da Alemanha](https://www.nexojornal.com.br/grafico/2024/07/07/futebol-10-anos-do-7-a-1-selecao-brasil-e-alemanha)
 - [Eleições municipais: sobrevivência política em cenários distintos](https://www.nexojornal.com.br/debate/2024/07/07/eleicoes-municipais-sobrevivencia-politica-em-cenarios-distintos)
-- [Aconteceu antes ou depois do 7 a 1? Teste aqui sua memória](https://www.nexojornal.com.br/interativo/2024/07/07/copa-do-mundo-2014-brasil-e-alemanha-7-a-1-teste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
