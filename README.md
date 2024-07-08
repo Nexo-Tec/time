@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Petrobras eleva preço da gasolina e do gás de cozinha](https://www.nexojornal.com.br/extra/2024/07/08/petrobras-eleva-preco-da-gasolina-e-do-gas-de-cozinha)
 - [10 anos do 7 a 1: como estão as seleções do Brasil e da Alemanha](https://www.nexojornal.com.br/grafico/2024/07/07/futebol-10-anos-do-7-a-1-selecao-brasil-e-alemanha)
 - [Eleições municipais: sobrevivência política em cenários distintos](https://www.nexojornal.com.br/debate/2024/07/07/eleicoes-municipais-sobrevivencia-politica-em-cenarios-distintos)
 - [Aconteceu antes ou depois do 7 a 1? Teste aqui sua memória](https://www.nexojornal.com.br/interativo/2024/07/07/copa-do-mundo-2014-brasil-e-alemanha-7-a-1-teste)
 - [Como o poder público pode garantir direitos a quem cuida](https://www.nexojornal.com.br/expresso/2024/07/07/direito-cuidadores-lei-e-politicas-publicas)
-- [Eleições na França têm reviravolta e bloco de esquerda vence](https://www.nexojornal.com.br/extra/2024/07/07/esquerda-vence-segundo-turno-eleicoes-na-franca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
