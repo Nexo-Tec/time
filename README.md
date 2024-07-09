@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pacheco apresenta projeto para dívidas de estados com a União](https://www.nexojornal.com.br/extra/2024/07/09/pacheco-projeto-dividas-estados-com-a-uniao-congresso)
 - [Terapia infantil: um espaço seguro para as crianças fora de casa](https://www.nexojornal.com.br/externo/2024/07/09/terapia-infantil-um-espaco-seguro-para-as-criancas-fora-de-casa)
 - [Ucrânia diz ter provas de que Rússia atacou hospital pediátrico](https://www.nexojornal.com.br/extra/2024/07/09/kiev-e-moscou-trocam-acusacoes-sobre-ataque-em-hospital)
 - [As lições de França e Reino Unido para o futuro da esquerda](https://www.nexojornal.com.br/colunistas/2024/07/09/as-licoes-de-franca-e-reino-unido-para-o-futuro-da-esquerda)
 - [Fósseis extraídos ilegalmente do Ceará voltam ao Brasil](https://www.nexojornal.com.br/externo/2024/07/08/fosseis-extraidos-ilegalmente-do-ceara-voltam-ao-brasil)
-- [Que esquerda é essa? Um perfil dos vitoriosos na França](https://www.nexojornal.com.br/expresso/2024/07/08/eleicoes-franca-perfil-dos-partidos-de-esquerda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
