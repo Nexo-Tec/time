@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Fósseis extraídos ilegalmente do Ceará voltam ao Brasil](https://www.nexojornal.com.br/externo/2024/07/08/fosseis-extraidos-ilegalmente-do-ceara-voltam-ao-brasil)
+- [Que esquerda é essa? Um perfil dos vitoriosos na França](https://www.nexojornal.com.br/expresso/2024/07/08/eleicoes-franca-perfil-dos-partidos-de-esquerda)
 - [O que é família multiespécie. E quais direitos garante](https://www.nexojornal.com.br/expresso/2024/07/08/caso-cachorro-de-rua-rock-familia-multiespecie-o-que-e)
 - [Quais os temas do Mercosul. E o que Milei preferiu discutir](https://www.nexojornal.com.br/podcast/2024/07/08/cupula-do-mercosul-sem-argentina)
 - [Esquerda pede novo governo, mas Macron mantém premiê](https://www.nexojornal.com.br/extra/2024/07/08/franca-macron-governo-esquerda-primeiro-ministro)
-- [A rede social que tenta recriar o ambiente digital sem algoritmos](https://www.nexojornal.com.br/expresso/2024/07/08/noplace-a-rede-social-sem-algoritmos)
-- [Os segredos dos centenários saudáveis do Brasil](https://www.nexojornal.com.br/externo/2024/07/08/os-segredos-dos-centenarios-saudaveis-do-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
