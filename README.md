@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é família multiespécie. E quais direitos garante](https://www.nexojornal.com.br/expresso/2024/07/08/caso-cachorro-de-rua-rock-familia-multiespecie-o-que-e)
+- [Quais os temas do Mercosul. E o que Milei preferiu discutir](https://www.nexojornal.com.br/podcast/2024/07/08/cupula-do-mercosul-sem-argentina)
 - [Esquerda pede novo governo, mas Macron mantém premiê](https://www.nexojornal.com.br/extra/2024/07/08/franca-macron-governo-esquerda-primeiro-ministro)
 - [A rede social que tenta recriar o ambiente digital sem algoritmos](https://www.nexojornal.com.br/expresso/2024/07/08/noplace-a-rede-social-sem-algoritmos)
 - [Os segredos dos centenários saudáveis do Brasil](https://www.nexojornal.com.br/externo/2024/07/08/os-segredos-dos-centenarios-saudaveis-do-brasil)
-- [Caso das joias: Polícia Federal vê esquema de R$ 6,8 milhões](https://www.nexojornal.com.br/extra/2024/07/08/bolsonaro-joias-policia-federal-aponta-desvio-de-r-25-milhoes)
-- [Petrobras eleva preço da gasolina e do gás de cozinha](https://www.nexojornal.com.br/extra/2024/07/08/petrobras-eleva-preco-da-gasolina-e-do-gas-de-cozinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
