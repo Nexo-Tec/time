@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Farmácia Popular amplia lista de itens oferecidos de graça](https://www.nexojornal.com.br/extra/2024/07/10/remedios-de-graca-farmacia-popular-rinite-glaucoma-parkinson-colesterol)
 - [Aprovação de Lula sobe para 54%, segundo Quaest](https://www.nexojornal.com.br/extra/2024/07/10/aprovacao-de-lula-julho-de-2024-quaest)
 - [Justiça do Rio absolve policiais pela morte de João Pedro](https://www.nexojornal.com.br/extra/2024/07/10/absolvicao-policiais-morte-de-adolescente-joao-pedro-no-rio)
 - [Estamos desinformando sobre a desinformação?](https://www.nexojornal.com.br/colunistas/2024/07/10/desinformacao-cientifica-fake-news)
 - [Câmara aprova reforma do ensino médio, que vai à sanção](https://www.nexojornal.com.br/extra/2024/07/09/novo-ensino-medio-mudanca-camara-sancao)
-- [Quais são os impactos ambientais da inteligência artificial](https://www.nexojornal.com.br/expresso/2024/07/09/inteligencia-artificial-ia-impactos-ambientais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
