@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Justiça do Rio absolve policiais pela morte de João Pedro](https://www.nexojornal.com.br/extra/2024/07/10/absolvicao-policiais-morte-de-adolescente-joao-pedro-no-rio)
+- [Estamos desinformando sobre a desinformação?](https://www.nexojornal.com.br/colunistas/2024/07/10/desinformacao-cientifica-fake-news)
 - [Câmara aprova reforma do ensino médio, que vai à sanção](https://www.nexojornal.com.br/extra/2024/07/09/novo-ensino-medio-mudanca-camara-sancao)
 - [Quais são os impactos ambientais da inteligência artificial](https://www.nexojornal.com.br/expresso/2024/07/09/inteligencia-artificial-ia-impactos-ambientais)
 - [Como compreender o que os bichos sentem](https://www.nexojornal.com.br/externo/2024/07/09/animais-tem-sentimentos-pesquisas)
-- [O avanço do caso das joias afeta a força política de Bolsonaro?](https://www.nexojornal.com.br/expresso/2024/07/09/caso-das-joias-impacto-bolsonaro)
-- [Brasileira ‘Pedaço de mim’ chega ao top 3 mundial da Netflix](https://www.nexojornal.com.br/extra/2024/07/09/pedaco-de-mim-netflix-top-mundial-novela-serie)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
