@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Só nascer. Só amar. Só morrer](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/so-nascer-so-amar-so-morrer/)
 - [Assédio contra mulheres ciclistas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/assedio-contra-mulheres-ciclistas/)
 - [@jkeey4](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jkeey4/)
 - [Controle de Nintendo Wii](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/controle-de-nintendo-wii/)
 - [Daniel Becker: “Há uma crise mental e emocional na infância sem precedentes”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniel-becker-crise-mental-emocional-infancia/)
-- [O Prazer Censurado](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-prazer-censurado/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
