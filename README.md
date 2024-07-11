@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Biden e Trump: quando partidos fortes são fracos](https://www.nexojornal.com.br/colunistas/2024/07/10/biden-e-trump-quando-partidos-fortes-sao-fracos)
+- [A misoginia contra a narradora Renata Silveira](https://www.nexojornal.com.br/expresso/2024/07/10/renata-silveira-narradora-sofre-com-misoginia-e-machismo)
+- [Câmara aprova regulamentação da reforma tributária](https://www.nexojornal.com.br/extra/2024/07/10/camara-aprova-regulamentacao-da-reforma-tributaria)
+- [Os Irmãos Batista, da J&amp;F, de volta aos círculos de poder](https://www.nexojornal.com.br/podcast/2024/07/10/joesley-e-wesley-batista-jf-empresa-ambar)
 - [‘Casamento às cegas’: o tema da violência sexual em realities](https://www.nexojornal.com.br/expresso/2024/07/10/casamento-as-cegas-abuso-violencia-sexual-reality-show)
-- [Farmácia Popular amplia lista de itens oferecidos de graça](https://www.nexojornal.com.br/extra/2024/07/10/remedios-de-graca-farmacia-popular-rinite-glaucoma-parkinson-colesterol)
-- [Aprovação de Lula sobe para 54%, segundo Quaest](https://www.nexojornal.com.br/extra/2024/07/10/aprovacao-de-lula-julho-de-2024-quaest)
-- [Justiça do Rio absolve policiais pela morte de João Pedro](https://www.nexojornal.com.br/extra/2024/07/10/absolvicao-policiais-morte-de-adolescente-joao-pedro-no-rio)
-- [Estamos desinformando sobre a desinformação?](https://www.nexojornal.com.br/colunistas/2024/07/10/desinformacao-cientifica-fake-news)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
