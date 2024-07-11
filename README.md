@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Senado quer mais tempo para regulamentar reforma](https://www.nexojornal.com.br/extra/2024/07/11/regulamentacao-da-reforma-tributaria-no-senado)
 - [Como atua a comissão do Congresso que supervisiona a Abin](https://www.nexojornal.com.br/externo/2024/07/11/como-atua-a-comissao-do-congresso-que-supervisiona-a-abin)
 - [As relações de trabalho nas obras de Ana Paula Maia](https://www.nexojornal.com.br/academico/2024/07/11/as-relacoes-de-trabalho-nas-obras-de-ana-paula-maia)
 - [César Lattes, 100: O físico que via além](https://www.nexojornal.com.br/externo/2024/07/11/cesar-lattes-quem-foi)
 - [PF prende suspeitos de integrar a ‘Abin paralela’](https://www.nexojornal.com.br/extra/2024/07/11/pf-operacao-abin-paralela-gabinete-do-odio)
-- [O que muda com a reforma aprovada no novo ensino médio](https://www.nexojornal.com.br/expresso/2024/07/10/educacao-reforma-novo-ensino-medio-o-que-muda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
