@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF prende suspeitos de integrar a ‘Abin paralela’](https://www.nexojornal.com.br/extra/2024/07/11/pf-operacao-abin-paralela-gabinete-do-odio)
 - [O que muda com a reforma aprovada no novo ensino médio](https://www.nexojornal.com.br/expresso/2024/07/10/educacao-reforma-novo-ensino-medio-o-que-muda)
 - [Biden e Trump: quando partidos fortes são fracos](https://www.nexojornal.com.br/colunistas/2024/07/10/biden-e-trump-quando-partidos-fortes-sao-fracos)
 - [A misoginia contra a narradora Renata Silveira](https://www.nexojornal.com.br/expresso/2024/07/10/renata-silveira-narradora-sofre-com-misoginia-e-machismo)
 - [Câmara aprova regulamentação da reforma tributária](https://www.nexojornal.com.br/extra/2024/07/10/camara-aprova-regulamentacao-da-reforma-tributaria)
-- [Os irmãos Batista, da J&amp;F, de volta aos círculos de poder](https://www.nexojornal.com.br/podcast/2024/07/10/joesley-e-wesley-batista-jf-empresa-ambar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
