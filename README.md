@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“Filho Nativo”, clássico da literatura norte-americana](https://gamarevista.uol.com.br/achamos-que-vale/ler/filho-nativo-classico-da-literatura-norte-americana/)
+- [Uma plataforma para não esquecer do Rio Grande do Sul](https://gamarevista.uol.com.br/achamos-que-vale/fazer/uma-plataforma-para-nao-esquecer-do-rio-grande-do-sul/)
 - [Só nascer. Só amar. Só morrer](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/so-nascer-so-amar-so-morrer/)
 - [Assédio contra mulheres ciclistas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/assedio-contra-mulheres-ciclistas/)
 - [@jkeey4](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jkeey4/)
-- [Controle de Nintendo Wii](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/controle-de-nintendo-wii/)
-- [Daniel Becker: “Há uma crise mental e emocional na infância sem precedentes”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/daniel-becker-crise-mental-emocional-infancia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
