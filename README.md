@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O racismo da polícia sob as bênçãos do governador do Rio](https://www.nexojornal.com.br/podcast/2024/07/11/governador-rio-de-janeiro-claudio-castro-racismo-policia)
+- [Câmara aprova PEC da Anistia com perdão a partidos](https://www.nexojornal.com.br/extra/2024/07/11/pec-da-anistia-aprovacao-camara-perdao-partidos)
 - [5 vezes em que jogos de mesa foram adaptados para TV e cinema](https://www.nexojornal.com.br/expresso/2024/07/11/jogo-de-tabuleiro-virou-filme-serie-exploding-kittens)
 - [Senado quer mais tempo para regulamentar reforma](https://www.nexojornal.com.br/extra/2024/07/11/regulamentacao-da-reforma-tributaria-no-senado)
 - [Como atua a comissão do Congresso que supervisiona a Abin](https://www.nexojornal.com.br/externo/2024/07/11/como-atua-a-comissao-do-congresso-que-supervisiona-a-abin)
-- [As relações de trabalho nas obras de Ana Paula Maia](https://www.nexojornal.com.br/academico/2024/07/11/as-relacoes-de-trabalho-nas-obras-de-ana-paula-maia)
-- [César Lattes, 100: O físico que via além](https://www.nexojornal.com.br/externo/2024/07/11/cesar-lattes-quem-foi)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
