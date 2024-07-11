@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que muda com a reforma aprovada no novo ensino médio](https://www.nexojornal.com.br/expresso/2024/07/10/educacao-reforma-novo-ensino-medio-o-que-muda)
 - [Biden e Trump: quando partidos fortes são fracos](https://www.nexojornal.com.br/colunistas/2024/07/10/biden-e-trump-quando-partidos-fortes-sao-fracos)
 - [A misoginia contra a narradora Renata Silveira](https://www.nexojornal.com.br/expresso/2024/07/10/renata-silveira-narradora-sofre-com-misoginia-e-machismo)
 - [Câmara aprova regulamentação da reforma tributária](https://www.nexojornal.com.br/extra/2024/07/10/camara-aprova-regulamentacao-da-reforma-tributaria)
 - [Os Irmãos Batista, da J&amp;F, de volta aos círculos de poder](https://www.nexojornal.com.br/podcast/2024/07/10/joesley-e-wesley-batista-jf-empresa-ambar)
-- [‘Casamento às cegas’: o tema da violência sexual em realities](https://www.nexojornal.com.br/expresso/2024/07/10/casamento-as-cegas-abuso-violencia-sexual-reality-show)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
