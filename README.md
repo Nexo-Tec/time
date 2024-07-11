@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“MaXXXine”, o desfecho da trilogia de terror nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/maxxxine-o-desfecho-da-trilogia-de-terror-nos-cinemas/)
+- [Festival musical Jardim Sonoro, no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-musical-jardim-sonoro-no-inhotim/)
+- [Um podcast sobre fertilização in vitro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-fertilizacao-in-vitro/)
 - [“Filho Nativo”, clássico da literatura norte-americana](https://gamarevista.uol.com.br/achamos-que-vale/ler/filho-nativo-classico-da-literatura-norte-americana/)
 - [Uma plataforma para não esquecer do Rio Grande do Sul](https://gamarevista.uol.com.br/achamos-que-vale/fazer/uma-plataforma-para-nao-esquecer-do-rio-grande-do-sul/)
-- [Só nascer. Só amar. Só morrer](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/so-nascer-so-amar-so-morrer/)
-- [Assédio contra mulheres ciclistas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/assedio-contra-mulheres-ciclistas/)
-- [@jkeey4](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jkeey4/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
