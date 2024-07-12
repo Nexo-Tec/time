@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Livro Africano Sem Título](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-livro-africano-sem-titulo/)
+- [WikiLeaks: em livro, jornalista Natalia Viana conta como participou da divulgação do vazamento no Brasil](https://gamarevista.uol.com.br/colunistas/marilene-felinto/wikileaks-livro-jornalista-natalia-viana/)
 - [“MaXXXine”, o desfecho da trilogia de terror nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/maxxxine-o-desfecho-da-trilogia-de-terror-nos-cinemas/)
 - [Festival musical Jardim Sonoro, no Inhotim](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-musical-jardim-sonoro-no-inhotim/)
 - [Um podcast sobre fertilização in vitro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/um-podcast-sobre-fertilizacao-in-vitro/)
-- [“Filho Nativo”, clássico da literatura norte-americana](https://gamarevista.uol.com.br/achamos-que-vale/ler/filho-nativo-classico-da-literatura-norte-americana/)
-- [Uma plataforma para não esquecer do Rio Grande do Sul](https://gamarevista.uol.com.br/achamos-que-vale/fazer/uma-plataforma-para-nao-esquecer-do-rio-grande-do-sul/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
