@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [É possível tornar a relação das crianças com as telas saudável?](https://www.nexojornal.com.br/externo/2024/07/12/e-possivel-tornar-a-relacao-das-criancas-com-as-telas-saudavel)
+- [Bets terão que fazer avaliação de risco de apostadores](https://www.nexojornal.com.br/extra/2024/07/12/bets-regras-avaliacao-de-risco-de-apostadores-coaf)
 - [Por que casamentos de luxo viraram uma marca na Índia](https://www.nexojornal.com.br/expresso/2024/07/11/casamento-milionario-luxo-india-filho-mukesh-ambani)
 - [Da África para América do sul: o registro de voo recorde de borboletas](https://www.nexojornal.com.br/externo/2024/07/11/da-africa-para-america-do-sul-o-registro-de-voo-recorde-de-borboletas)
 - [Quais os trunfos e armadilhas de isentar a carne de impostos](https://www.nexojornal.com.br/expresso/2024/07/11/reforma-tributaria-imposto-carne)
-- [O racismo da polícia sob as bênçãos do governador do Rio](https://www.nexojornal.com.br/podcast/2024/07/11/governador-rio-de-janeiro-claudio-castro-racismo-policia)
-- [Câmara aprova PEC da Anistia com perdão a partidos](https://www.nexojornal.com.br/extra/2024/07/11/pec-da-anistia-aprovacao-camara-perdao-partidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
