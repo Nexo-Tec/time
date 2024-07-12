@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Nexo identificou os municípios com pontos cardeais no nome](https://www.nexojornal.com.br/grafico/2024/07/12/municipios-brasil-com-pontos-cardeais-no-nome-grafico-nexo)
 - [A isenção da carne na Câmara. As prisões da Abin paralela. E mais](https://www.nexojornal.com.br/video/2024/07/12/resumo-da-semana-noticia-reforma-tributaria)
 - [‘O funil do diabo’: a investigação de um roubo misterioso](https://www.nexojornal.com.br/estante-trechos/2024/07/12/o-funil-do-diabo-a-investigacao-de-um-roubo-misterioso)
 - [5 livros com personagens no limite &lpar;ou além&rpar; da sanidade](https://www.nexojornal.com.br/estante-favoritos/2024/07/12/5-livros-com-personagens-no-limite-ou-alem-da-sanidade)
 - [Defesa Civil diz ter achado 60 corpos na Cidade de Gaza](https://www.nexojornal.com.br/extra/2024/07/12/60-corpos-de-civis-encontrados-na-cidade-de-gaza)
-- [É possível tornar a relação das crianças com as telas saudável?](https://www.nexojornal.com.br/externo/2024/07/12/e-possivel-tornar-a-relacao-das-criancas-com-as-telas-saudavel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
