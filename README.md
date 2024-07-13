@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o Nexo identificou os municípios com pontos cardeais no nome](https://www.nexojornal.com.br/grafico/2024/07/12/municipios-brasil-com-pontos-cardeais-no-nome-grafico-nexo)
-- [A isenção da carne na Câmara. As prisões da Abin paralela. E mais](https://www.nexojornal.com.br/video/2024/07/12/resumo-da-semana-noticia-reforma-tributaria)
-- [‘O funil do diabo’: a investigação de um roubo misterioso](https://www.nexojornal.com.br/estante-trechos/2024/07/12/o-funil-do-diabo-a-investigacao-de-um-roubo-misterioso)
-- [5 livros com personagens no limite &lpar;ou além&rpar; da sanidade](https://www.nexojornal.com.br/estante-favoritos/2024/07/12/5-livros-com-personagens-no-limite-ou-alem-da-sanidade)
-- [Defesa Civil diz ter achado 60 corpos na Cidade de Gaza](https://www.nexojornal.com.br/extra/2024/07/12/60-corpos-de-civis-encontrados-na-cidade-de-gaza)
+- [A disputa pelo manto tupinambá antes e depois da repatriação](https://www.nexojornal.com.br/expresso/2024/07/12/manto-tupinamba-repatriacao-brasil)
+- [7 revelações sobre a espionagem da ‘Abin paralela’ de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/07/12/abin-paralela-espionagem-bolsonaro)
+- [O mapa interativo que prevê o clima de cidades no futuro](https://www.nexojornal.com.br/expresso/2024/07/12/o-mapa-interativo-que-preve-o-clima-de-cidades-no-futuro)
+- [Como os elefantes usam nomes para chamar uns aos outros](https://www.nexojornal.com.br/externo/2024/07/12/como-os-elefantes-usam-nomes-para-chamar-uns-aos-outros)
+- [A morte artística do alter ego maligno de Eminem](https://www.nexojornal.com.br/expresso/2024/07/12/a-morte-artistica-do-alter-ego-maligno-de-eminem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
