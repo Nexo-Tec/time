@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel ataca Khan Yunis em busca de comandante do Hamas](https://www.nexojornal.com.br/extra/2024/07/13/israel-ataca-khan-yunis-em-busca-de-comandante-do-hamas)
 - [A disputa pelo manto tupinambá antes e depois da repatriação](https://www.nexojornal.com.br/expresso/2024/07/12/manto-tupinamba-repatriacao-brasil)
 - [7 revelações sobre a espionagem da ‘Abin paralela’ de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/07/12/abin-paralela-espionagem-bolsonaro)
 - [O mapa interativo que prevê o clima de cidades no futuro](https://www.nexojornal.com.br/expresso/2024/07/12/o-mapa-interativo-que-preve-o-clima-de-cidades-no-futuro)
 - [Como os elefantes usam nomes para chamar uns aos outros](https://www.nexojornal.com.br/externo/2024/07/12/como-os-elefantes-usam-nomes-para-chamar-uns-aos-outros)
-- [A morte artística do alter ego maligno de Eminem](https://www.nexojornal.com.br/expresso/2024/07/12/a-morte-artistica-do-alter-ego-maligno-de-eminem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
