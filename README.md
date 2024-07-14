@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Espanha conquista sua 4ª Eurocopa de futebol masculino](https://www.nexojornal.com.br/grafico/2024/07/14/espanha-e-campea-da-eurocopa-2024)
 - [Qual o sentido do termo ‘extrema direita’ na política atual](https://www.nexojornal.com.br/expresso/2024/07/14/extrema-direita-o-que-e-valores-e-ideais)
 - [A pesquisa que pode tornar diamantes sintéticos mais baratos](https://www.nexojornal.com.br/externo/2024/07/14/a-pesquisa-que-pode-tornar-diamantes-sinteticos-mais-baratos)
 - [‘Elite dos servidores públicos captura Estado internamente’](https://www.nexojornal.com.br/entrevista/2024/07/14/elite-dos-servidores-publicos-captura-estado-internamente)
 - [Os desafios da paternidade: sozinho, com filhos](https://www.nexojornal.com.br/ensaio/2024/07/14/os-desafios-da-paternidade-sozinho-com-filhos)
-- [Trump passa bem após ser ferido em disparo durante comício](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
