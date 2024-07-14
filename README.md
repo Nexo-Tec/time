@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comício de Trump é interrompido após barulho de tiros](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
+- [Comício de Trump é interrompido após disparos](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
 - [Israel ataca Khan Yunis em busca de comandante do Hamas](https://www.nexojornal.com.br/extra/2024/07/13/israel-ataca-khan-yunis-em-busca-de-comandante-do-hamas)
 - [A disputa pelo manto tupinambá antes e depois da repatriação](https://www.nexojornal.com.br/expresso/2024/07/12/manto-tupinamba-repatriacao-brasil)
 - [7 revelações sobre a espionagem da ‘Abin paralela’ de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/07/12/abin-paralela-espionagem-bolsonaro)
