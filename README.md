@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [A pesquisa que pode tornar diamantes sintéticos mais baratos](https://www.nexojornal.com.br/externo/2024/07/14/a-pesquisa-que-pode-tornar-diamantes-sinteticos-mais-baratos)
 - [‘Elite dos servidores públicos captura Estado internamente’](https://www.nexojornal.com.br/entrevista/2024/07/14/elite-dos-servidores-publicos-captura-estado-internamente)
 - [Os desafios da paternidade: sozinho, com filhos](https://www.nexojornal.com.br/ensaio/2024/07/14/os-desafios-da-paternidade-sozinho-com-filhos)
-- [Trump é ferido por disparo durante comício na Pensilvânia](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
+- [Trump passa bem após ser ferido em disparo durante comício](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
