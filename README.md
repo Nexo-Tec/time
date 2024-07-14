@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comício de Trump é interrompido após disparos](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
-- [Israel ataca Khan Yunis em busca de comandante do Hamas](https://www.nexojornal.com.br/extra/2024/07/13/israel-ataca-khan-yunis-em-busca-de-comandante-do-hamas)
-- [A disputa pelo manto tupinambá antes e depois da repatriação](https://www.nexojornal.com.br/expresso/2024/07/12/manto-tupinamba-repatriacao-brasil)
-- [7 revelações sobre a espionagem da ‘Abin paralela’ de Bolsonaro](https://www.nexojornal.com.br/expresso/2024/07/12/abin-paralela-espionagem-bolsonaro)
-- [O mapa interativo que prevê o clima de cidades no futuro](https://www.nexojornal.com.br/expresso/2024/07/12/o-mapa-interativo-que-preve-o-clima-de-cidades-no-futuro)
+- [Qual o sentido do termo ‘extrema direita’ na política atual](https://www.nexojornal.com.br/expresso/2024/07/14/extrema-direita-o-que-e-valores-e-ideais)
+- [A pesquisa que pode tornar diamantes sintéticos mais baratos](https://www.nexojornal.com.br/externo/2024/07/14/a-pesquisa-que-pode-tornar-diamantes-sinteticos-mais-baratos)
+- [‘Elite dos servidores públicos captura Estado internamente’](https://www.nexojornal.com.br/entrevista/2024/07/14/elite-dos-servidores-publicos-captura-estado-internamente)
+- [Os desafios da paternidade: sozinho, com filhos](https://www.nexojornal.com.br/ensaio/2024/07/14/os-desafios-da-paternidade-sozinho-com-filhos)
+- [Trump é ferido por disparo durante comício na Pensilvânia](https://www.nexojornal.com.br/extra/2024/07/13/donald-trump-comicio-tiros-butler-pensilvania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
