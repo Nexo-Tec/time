@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A desinformação e as teorias da conspiração sobre o ataque a Trump](https://www.nexojornal.com.br/podcast/2024/07/15/atentado-trump-teoria-da-conspiracao)
+- [Em áudio de 2020, Bolsonaro aponta chantagem de Witzel](https://www.nexojornal.com.br/extra/2024/07/15/audios-bolsonaro-ramagem-chantagem-witzel)
 - [A carreira de Milton Cunha para além da voz ícone do Carnaval](https://www.nexojornal.com.br/expresso/2024/07/15/carnavalesco-milton-cunha-carreira-cazetv)
 - [Trump escolhe como vice J.D. Vance, senador de Ohio](https://www.nexojornal.com.br/extra/2024/07/15/vice-de-donald-trump-vance)
 - [Brasil chama para consulta embaixador na Argentina](https://www.nexojornal.com.br/extra/2024/07/15/brasil-chama-para-consulta-embaixador-na-argentina)
-- [Brasil deixa lista de países com mais crianças sem vacina](https://www.nexojornal.com.br/extra/2024/07/15/vacinacao-infantil-brasil-lista-oms-unicef)
-- [Trump tem vitória judicial em caso dos documentos secretos](https://www.nexojornal.com.br/extra/2024/07/15/trump-processo-documentos-secretos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
