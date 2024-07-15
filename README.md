@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A carreira de Milton Cunha para além da voz ícone do Carnaval](https://www.nexojornal.com.br/expresso/2024/07/15/carnavalesco-milton-cunha-carreira-cazetv)
 - [Trump escolhe como vice J.D. Vance, senador de Ohio](https://www.nexojornal.com.br/extra/2024/07/15/vice-de-donald-trump-vance)
 - [Brasil chama para consulta embaixador na Argentina](https://www.nexojornal.com.br/extra/2024/07/15/brasil-chama-para-consulta-embaixador-na-argentina)
 - [Brasil deixa lista de países com mais crianças sem vacina](https://www.nexojornal.com.br/extra/2024/07/15/vacinacao-infantil-brasil-lista-oms-unicef)
 - [Trump tem vitória judicial em caso dos documentos secretos](https://www.nexojornal.com.br/extra/2024/07/15/trump-processo-documentos-secretos)
-- [Argentina conquista sua 16ª Copa América de futebol masculino](https://www.nexojornal.com.br/grafico/2024/07/15/argentina-e-campea-da-copa-america)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
