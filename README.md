@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil deixa lista de países com mais crianças sem vacina](https://www.nexojornal.com.br/extra/2024/07/15/vacinacao-infantil-brasil-lista-oms-unicef)
 - [Trump tem vitória judicial em caso dos documentos secretos](https://www.nexojornal.com.br/extra/2024/07/15/trump-processo-documentos-secretos)
 - [Argentina conquista sua 16ª Copa América de futebol masculino](https://www.nexojornal.com.br/grafico/2024/07/15/argentina-e-campea-da-copa-america)
 - [Brasil corre para ter mercado de carbono antes da COP30](https://www.nexojornal.com.br/externo/2024/07/14/brasil-corre-para-ter-mercado-de-carbono-antes-da-cop30)
 - [Como o disparo contra Trump mexe na eleição americana](https://www.nexojornal.com.br/expresso/2024/07/14/disparo-contra-trump-eleicao-americana)
-- [A indispensabilidade do Estado em tempos de crise](https://www.nexojornal.com.br/debate/2024/07/14/a-indispensabilidade-do-estado-em-tempos-de-crise)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
