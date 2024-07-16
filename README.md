@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais medidas o Brasil debate para rastrear a origem da sua carne](https://www.nexojornal.com.br/externo/2024/07/16/quais-medidas-o-brasil-debate-para-rastrear-a-origem-da-sua-carne)
+- [Serviço Secreto sofre questionamentos por atentado a Trump](https://www.nexojornal.com.br/extra/2024/07/16/servico-secreto-questionamentos-atentado-trump)
 - [O que há de novo e de velho na mega-ação policial no Rio](https://www.nexojornal.com.br/expresso/2024/07/15/policia-do-rio-comeca-megaoperacao-contra-comando-vermelho)
 - [Uma orquestra que usa cerâmica como instrumento](https://www.nexojornal.com.br/expresso/2024/07/15/uma-orquestra-que-usa-ceramica-como-instrumento)
 - [Como o tiro contra Trump muda a campanha de Biden](https://www.nexojornal.com.br/expresso/2024/07/15/atentado-trump-impacto-campanha-politica-biden)
-- [A desinformação e as teorias da conspiração sobre o ataque a Trump](https://www.nexojornal.com.br/podcast/2024/07/15/atentado-trump-teoria-da-conspiracao)
-- [Em áudio de 2020, Bolsonaro aponta chantagem de Witzel](https://www.nexojornal.com.br/extra/2024/07/15/audios-bolsonaro-ramagem-chantagem-witzel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
