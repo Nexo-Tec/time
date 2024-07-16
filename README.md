@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Entre ciclovias e viadutos: como saber se meu prefeito está no caminho certo da mobilidade urbana?](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/16/entre-ciclovias-e-viadutos-como-saber-se-meu-prefeito-esta-no-caminho-certo-da-mobilidade-urbana/)
 - [Ensino integral e seus reflexos sobre a desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/07/15/ensino-integral-e-seus-reflexos-sobre-a-desigualdade-racial/)
 - [Pensando as políticas de prevenção da violência: por que o diálogo com jovens estudantes importa](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/15/pensando-as-politicas-de-prevencao-da-violencia-por-que-o-dialogo-com-jovens-estudantes-importa/)
 - [Taylor Aguiar: o coaching em igrejas evangélicas no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/07/11/taylor-aguiar-o-coaching-em-igrejas-evangelicas-no-brasil/)
 - [Raça e eleições: candidaturas negras em partidos de esquerda](https://pp.nexojornal.com.br/academico/2024/07/04/raca-e-eleicoes-candidaturas-negras-em-partidos-de-esquerda/)
-- [Por que tratar da saúde infantil é importante para o bem-estar nas cidades](https://pp.nexojornal.com.br/topico/2024/07/04/por-que-tratar-da-saude-infantil-e-importante-para-o-bem-estar-das-cidades/)
 <!-- PP_LIST:END -->
 
