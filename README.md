@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os riscos das mudanças climáticas ao açaí na Amazônia](https://www.nexojornal.com.br/externo/2024/07/16/os-riscos-das-mudancas-climaticas-ao-acai-na-amazonia)
+- [França aciona Fifa por música racista de jogadores argentinos](https://www.nexojornal.com.br/extra/2024/07/16/franca-aciona-fifa-musica-racista-jogadores-argentina)
 - [Quais medidas o Brasil debate para rastrear a origem da sua carne](https://www.nexojornal.com.br/externo/2024/07/16/quais-medidas-o-brasil-debate-para-rastrear-a-origem-da-sua-carne)
 - [Serviço Secreto sofre questionamentos por atentado a Trump](https://www.nexojornal.com.br/extra/2024/07/16/servico-secreto-questionamentos-atentado-trump)
 - [O que há de novo e de velho na mega-ação policial no Rio](https://www.nexojornal.com.br/expresso/2024/07/15/policia-do-rio-comeca-megaoperacao-contra-comando-vermelho)
-- [Uma orquestra que usa cerâmica como instrumento](https://www.nexojornal.com.br/expresso/2024/07/15/uma-orquestra-que-usa-ceramica-como-instrumento)
-- [Como o tiro contra Trump muda a campanha de Biden](https://www.nexojornal.com.br/expresso/2024/07/15/atentado-trump-impacto-campanha-politica-biden)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
