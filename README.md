@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O boy roedor](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-boy-roedor/)
 - [Emanuelle Araújo](https://gamarevista.uol.com.br/pessoas/questionario-proust/emanuelle-araujo/)
 - [Tuta Aquino: “A crise se iniciou no cacau e vai chegar no chocolate”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tuta-aquino-fim-da-era-do-chocolate/)
 - [O Livro Africano Sem Título](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-livro-africano-sem-titulo/)
 - [WikiLeaks: em livro, jornalista Natalia Viana conta como participou da divulgação do vazamento no Brasil](https://gamarevista.uol.com.br/colunistas/marilene-felinto/wikileaks-livro-jornalista-natalia-viana/)
-- [“MaXXXine”, o desfecho da trilogia de terror nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/maxxxine-o-desfecho-da-trilogia-de-terror-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
