@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ação pede indenização de R$ 1,7 bilhão ao WhatsApp](https://www.nexojornal.com.br/extra/2024/07/16/ministerio-publico-pede-indenizacao-de-r-17-bi-ao-whatsapp)
 - [Aeroporto Salgado Filho terá abertura parcial em outubro](https://www.nexojornal.com.br/extra/2024/07/16/aeroporto-salgado-filho-reaberto-outubro-2024)
 - [Os riscos das mudanças climáticas ao açaí na Amazônia](https://www.nexojornal.com.br/externo/2024/07/16/os-riscos-das-mudancas-climaticas-ao-acai-na-amazonia)
 - [França aciona Fifa por música racista de jogadores argentinos](https://www.nexojornal.com.br/extra/2024/07/16/franca-aciona-fifa-musica-racista-jogadores-argentina)
 - [Quais medidas o Brasil debate para rastrear a origem da sua carne](https://www.nexojornal.com.br/externo/2024/07/16/quais-medidas-o-brasil-debate-para-rastrear-a-origem-da-sua-carne)
-- [Serviço Secreto sofre questionamentos por atentado a Trump](https://www.nexojornal.com.br/extra/2024/07/16/servico-secreto-questionamentos-atentado-trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
