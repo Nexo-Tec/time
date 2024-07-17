@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Nem Dom Pedro 1° foi herói nem monarquia foi benévola’](https://www.nexojornal.com.br/entrevista/2024/07/16/constituicao-de-1824-imperio-brasil-entrevista-ricardo-lessa-o-primeiro-golpe-do-brasil)
 - [Como a onda de memes expõe a estratégia econômica de Haddad](https://www.nexojornal.com.br/expresso/2024/07/16/memes-sobre-a-economia-do-brasil-e-haddad)
 - [Por que os protestos contra turistas estão crescendo na Europa](https://www.nexojornal.com.br/podcast/2024/07/16/protesto-contra-turismo-turistas-na-europa)
 - [Como o best-seller de J.D. Vance se relaciona ao trumpismo](https://www.nexojornal.com.br/expresso/2024/07/16/como-o-best-seller-de-j-d-vance-se-relaciona-ao-trumpismo)
 - [Ação pede indenização de R$ 1,7 bilhão ao WhatsApp](https://www.nexojornal.com.br/extra/2024/07/16/ministerio-publico-pede-indenizacao-de-r-17-bi-ao-whatsapp)
-- [Aeroporto Salgado Filho terá abertura parcial em outubro](https://www.nexojornal.com.br/extra/2024/07/16/aeroporto-salgado-filho-reaberto-outubro-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
