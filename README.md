@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Habilidades e competências necessárias para o futuro](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/habilidades-e-competencias-necessarias-para-o-futuro/)
 - [@elouis7580](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/elouis7580/)
 - [O boy roedor](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-boy-roedor/)
 - [Emanuelle Araújo](https://gamarevista.uol.com.br/pessoas/questionario-proust/emanuelle-araujo/)
 - [Tuta Aquino: “A crise se iniciou no cacau e vai chegar no chocolate”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tuta-aquino-fim-da-era-do-chocolate/)
-- [O Livro Africano Sem Título](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-livro-africano-sem-titulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
