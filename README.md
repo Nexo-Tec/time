@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula faz piada com dado de pesquisa sobre violência doméstica](https://www.nexojornal.com.br/extra/2024/07/17/lula-corintiano-tudo-bem-piada-violencia-domestica-mulher)
+- [A moeda do Museu Britânico roubada por um artista brasileiro](https://www.nexojornal.com.br/expresso/2024/07/17/ile-sartuzi-rouba-moeda-do-museu-britanico)
 - [O vazamento da entrevista de Lula para o mercado financeiro](https://www.nexojornal.com.br/podcast/2024/07/17/entrevista-lula-mercado-financeiro-vazamento)
 - [Homem é condenado por ataques racistas contra Vinicius Jr](https://www.nexojornal.com.br/extra/2024/07/17/racismo-contra-vini-jr-e-antonio-rudiger-real-madrid)
 - [O que são ‘swing states’, peças-chaves da eleição americana](https://www.nexojornal.com.br/expresso/2024/07/17/swing-state-o-que-e-eleicao-americana)
-- [De ‘Xógum’ a ‘The Bear’: os principais indicados ao Emmy](https://www.nexojornal.com.br/extra/2024/07/17/indicados-ao-emmy-2024-tv-serie-o-urso-xogum)
-- [Prefeita de Paris cumpre promessa e nada no rio Sena](https://www.nexojornal.com.br/extra/2024/07/17/anne-hidalgo-prefeita-de-paris-nada-no-sena-antes-de-olimpiadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
