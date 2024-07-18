@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A evolução do número de mulheres em Olimpíadas](https://www.nexojornal.com.br/grafico/2024/07/18/olimpiadas-paris-2024-atletas-por-genero)
+- [Maduro diz que, se não for reeleito, Venezuela terá ‘guerra civil’](https://www.nexojornal.com.br/extra/2024/07/18/maduro-venezuela-guerra-civil-eleicao)
 - [Milei demite auxiliar que criticou racismo da seleção argentina](https://www.nexojornal.com.br/extra/2024/07/18/milei-demite-subsecretario-esporte-musica-racista-argentina)
 - [O que é o Projeto 2025, a agenda radical para uma volta de Trump](https://www.nexojornal.com.br/expresso/2024/07/17/projeto-2025-project-trump)
 - [A nova termelétrica em uma cidade marcada por desastres](https://www.nexojornal.com.br/externo/2024/07/17/nova-termeletrica-barcarena-cidade-para)
-- [Os ativismos quanto à questão migratória em Portugal](https://www.nexojornal.com.br/academico/2024/07/17/ativismos-questao-migratoria-em-portugal)
-- [Lula faz piada com dado de pesquisa sobre violência doméstica](https://www.nexojornal.com.br/extra/2024/07/17/lula-corintiano-tudo-bem-piada-violencia-domestica-mulher)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
