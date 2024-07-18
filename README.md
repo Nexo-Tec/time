@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A jornada de Simone Biles rumo a Paris-2024 na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-jornada-de-simone-biles-rumo-a-paris-2024-na-netflix/)
+- [A exposição “Funkeiros Cult” no Museu das Favelas](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-funkeiros-cult-no-museu-das-favelas/)
+- [Dez novos álbuns para enriquecer sua playlist](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/dez-novos-albuns-para-enriquecer-sua-playlist/)
 - [O encontro de uma repórter com o “bebê do futuro”](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-encontro-de-uma-reporter-com-o-bebe-do-futuro/)
 - [Os melhores livros do século, segundo o NYT](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-melhores-livros-do-seculo-segundo-o-nyt/)
-- [Habilidades e competências necessárias para o futuro](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/habilidades-e-competencias-necessarias-para-o-futuro/)
-- [@elouis7580](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/elouis7580/)
-- [O boy roedor](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-boy-roedor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
