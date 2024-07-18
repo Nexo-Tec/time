@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é o Projeto 2025, a agenda radical para uma volta de Trump](https://www.nexojornal.com.br/expresso/2024/07/17/projeto-2025-project-trump)
 - [A nova termelétrica em uma cidade marcada por desastres](https://www.nexojornal.com.br/externo/2024/07/17/nova-termeletrica-barcarena-cidade-para)
 - [Os ativismos quanto à questão migratória em Portugal](https://www.nexojornal.com.br/academico/2024/07/17/ativismos-questao-migratoria-em-portugal)
 - [Lula faz piada com dado de pesquisa sobre violência doméstica](https://www.nexojornal.com.br/extra/2024/07/17/lula-corintiano-tudo-bem-piada-violencia-domestica-mulher)
 - [A moeda do Museu Britânico roubada por um artista brasileiro](https://www.nexojornal.com.br/expresso/2024/07/17/ile-sartuzi-rouba-moeda-do-museu-britanico)
-- [O vazamento da entrevista de Lula para o mercado financeiro](https://www.nexojornal.com.br/podcast/2024/07/17/entrevista-lula-mercado-financeiro-vazamento)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
