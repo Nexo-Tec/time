@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o apagão cibernético revela fragilidades da economia global](https://www.nexojornal.com.br/expresso/2024/07/19/como-o-apagao-cibernetico-revela-fragilidades-da-economia-global)
+- [Rússia condena jornalista americano a 16 anos de prisão](https://www.nexojornal.com.br/extra/2024/07/19/russia-condena-jornalista-americano-a-16-anos-de-prisao)
 - [Pane global online afeta voos, bancos e emissoras de TV](https://www.nexojornal.com.br/extra/2024/07/19/apagao-cibernetico-global)
 - [Por que os registros de estelionato crescem tanto no Brasil](https://www.nexojornal.com.br/expresso/2024/07/18/cresce-estelionato-no-brasil-motivo)
 - [‘A política pública chega ao cidadão pelo servidor municipal’](https://www.nexojornal.com.br/entrevista/2024/07/18/gestao-de-pessoas-nos-municipios-prefeituras-entrevista)
-- [Insegurança e acúmulo de funções: as queixas de atendentes da Oxxo](https://www.nexojornal.com.br/externo/2024/07/18/inseguranca-e-acumulo-de-funcoes-as-queixas-de-atendentes-da-oxxo)
-- [Haddad anuncia congelamento de R$ 15 bilhões em 2024](https://www.nexojornal.com.br/extra/2024/07/18/economia-haddad-congela-15-bilhoes-orcamento-arcabouco-fiscal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
