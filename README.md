@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Do PSG à tocha olímpica: a ligação de Raí com a França](https://www.nexojornal.com.br/expresso/2024/07/19/ex-jogador-rai-irmao-socrates-relacao-franca)
+- [Corte Internacional ordena que Israel saia de regiões palestinas](https://www.nexojornal.com.br/extra/2024/07/19/corte-internacional-ordena-que-israel-saia-de-regioes-palestinas)
+- [O atentado contra Trump. A pane online global. E mais](https://www.nexojornal.com.br/video/2024/07/19/resumo-noticias-da-semana-atentado-trump-e-apagao-cibernetico-global)
 - [Estudantes invadem prisão em Bangladesh e soltam detentos](https://www.nexojornal.com.br/extra/2024/07/19/estudantes-invadem-prisao-em-bangladesh-e-soltam-detentos)
 - [5 livros sobre mulheres fortes e o tempo](https://www.nexojornal.com.br/estante-favoritos/2024/07/19/5-livros-sobre-mulheres-fortes-e-o-tempo)
-- [‘Querido babaca’: uma correspondência ácida e íntima](https://www.nexojornal.com.br/estante-trechos/2024/07/19/querido-babaca-uma-correspondencia-acida-e-intima)
-- [Como o apagão cibernético revela fragilidades da economia global](https://www.nexojornal.com.br/expresso/2024/07/19/como-o-apagao-cibernetico-revela-fragilidades-da-economia-global)
-- [Rússia condena jornalista americano a 16 anos de prisão](https://www.nexojornal.com.br/extra/2024/07/19/russia-condena-jornalista-americano-a-16-anos-de-prisao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
