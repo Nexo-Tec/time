@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘A política pública chega ao cidadão pelo servidor municipal’](https://www.nexojornal.com.br/entrevista/2024/07/18/gestao-de-pessoas-nos-municipios-prefeituras-entrevista)
+- [Insegurança e acúmulo de funções: as queixas de atendentes da Oxxo](https://www.nexojornal.com.br/externo/2024/07/18/inseguranca-e-acumulo-de-funcoes-as-queixas-de-atendentes-da-oxxo)
 - [Haddad anuncia congelamento de R$ 15 bilhões em 2024](https://www.nexojornal.com.br/extra/2024/07/18/economia-haddad-congela-15-bilhoes-orcamento-arcabouco-fiscal)
 - [Os estados brasileiros na contramão da queda de homicídios](https://www.nexojornal.com.br/podcast/2024/07/18/numero-de-homicidios-estados-brasil-2023-anuario-brasileiro-de-seguranca-publica-2024)
 - [Governo põe sigilo em termo de conflito de interesse de ministro](https://www.nexojornal.com.br/extra/2024/07/18/governo-lula-sigilo-100-anos-ministro-conflito-de-interesse)
-- [Como ciência e arte se uniram para registrar a poluição do ar](https://www.nexojornal.com.br/expresso/2024/07/18/como-ciencia-e-arte-se-uniram-para-registrar-a-poluicao-do-ar)
-- [A evolução do número de mulheres em Olimpíadas](https://www.nexojornal.com.br/grafico/2024/07/18/olimpiadas-paris-2024-atletas-por-genero)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
