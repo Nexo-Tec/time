@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Estudantes invadem prisão em Bangladesh e soltam detentos](https://www.nexojornal.com.br/extra/2024/07/19/estudantes-invadem-prisao-em-bangladesh-e-soltam-detentos)
+- [5 livros sobre mulheres fortes e o tempo](https://www.nexojornal.com.br/estante-favoritos/2024/07/19/5-livros-sobre-mulheres-fortes-e-o-tempo)
+- [‘Querido babaca’: uma correspondência ácida e íntima](https://www.nexojornal.com.br/estante-trechos/2024/07/19/querido-babaca-uma-correspondencia-acida-e-intima)
 - [Como o apagão cibernético revela fragilidades da economia global](https://www.nexojornal.com.br/expresso/2024/07/19/como-o-apagao-cibernetico-revela-fragilidades-da-economia-global)
 - [Rússia condena jornalista americano a 16 anos de prisão](https://www.nexojornal.com.br/extra/2024/07/19/russia-condena-jornalista-americano-a-16-anos-de-prisao)
-- [Pane global online afeta voos, bancos e emissoras de TV](https://www.nexojornal.com.br/extra/2024/07/19/apagao-cibernetico-global)
-- [Por que os registros de estelionato crescem tanto no Brasil](https://www.nexojornal.com.br/expresso/2024/07/18/cresce-estelionato-no-brasil-motivo)
-- [‘A política pública chega ao cidadão pelo servidor municipal’](https://www.nexojornal.com.br/entrevista/2024/07/18/gestao-de-pessoas-nos-municipios-prefeituras-entrevista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
