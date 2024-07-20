@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel bombardeia porto no Iêmen em reação a ataque houti](https://www.nexojornal.com.br/extra/2024/07/20/israel-bombardeia-porto-no-iemen-em-reacao-a-ataque-houti)
 - [Violência de gênero: índices são ruins e devem piorar](https://www.nexojornal.com.br/colunistas/2024/07/19/violencia-de-genero-indices-sao-ruins-e-devem-piorar)
 - [O que são alimentos ultraprocessados](https://www.nexojornal.com.br/index/2024/07/19/alimentos-ultraprocessados-o-que-sao)
 - [Aquecimento da água na Amazônia é generalizado, alertam pesquisadores](https://www.nexojornal.com.br/externo/2024/07/19/aquecimento-da-agua-na-amazonia-e-generalizado-alertam-pesquisadores)
 - [Desafios na transparência dos municípios brasileiros](https://www.nexojornal.com.br/debate/2024/07/19/desafios-na-transparencia-dos-municipios-brasileiros)
-- [Do PSG à tocha olímpica: a ligação de Raí com a França](https://www.nexojornal.com.br/expresso/2024/07/19/ex-jogador-rai-irmao-socrates-relacao-franca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
