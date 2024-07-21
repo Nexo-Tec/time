@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Biden desiste de tentar reeleição nos EUA e apoia Kamala Harris](https://www.nexojornal.com.br/extra/2024/07/21/biden-desiste-eleicao-eua-kamala-harris)
 - [Um conjunto de giz de cera com as cores das florestas japonesas](https://www.nexojornal.com.br/expresso/2024/07/20/forest-crayon-giz-de-cera-floresta-japonesa)
 - [O que fazem agências de risco como Fitch, Moody’s e Standard &amp; Poor’s](https://www.nexojornal.com.br/index/2024/07/20/fitch-e-moodys-agencia-de-classificacao-de-risco-de-credito-o-que-faz)
 - [Ferrovias por lítio: a guinada chinesa na América Latina](https://www.nexojornal.com.br/externo/2024/07/20/ferrovias-por-litio-a-guinada-chinesa-na-america-latina)
 - [Botânicos decidem pela 1ª vez tirar termo racista de espécies](https://www.nexojornal.com.br/extra/2024/07/20/nome-cientifico-racista-mudanca-botanica)
-- [Os millennials e a economia da longevidade](https://www.nexojornal.com.br/ensaio/2024/07/20/os-millennials-e-a-economia-da-longevidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
