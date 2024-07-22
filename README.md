@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Após 12 anos, BNDES abre concurso com salários de R$ 20 mil](https://www.nexojornal.com.br/extra/2024/07/22/apos-12-anos-bndes-abre-concurso-com-salarios-de-r-20-mil)
 - [Por que nós somos tão ruins em perceber mentiras](https://www.nexojornal.com.br/externo/2024/07/21/por-que-nos-somos-tao-ruins-em-perceber-mentiras)
 - [Gestão municipal: os desafios da transformação digital](https://www.nexojornal.com.br/debate/2024/07/21/gestao-municipal-os-desafios-da-transformacao-digital)
 - [Biden está fora: o que vem agora na eleição dos EUA](https://www.nexojornal.com.br/expresso/2024/07/21/biden-desiste-kamala-harris-partido-democrata-eleicao-eua)
 - [Biden desiste de tentar reeleição nos EUA e apoia Kamala Harris](https://www.nexojornal.com.br/extra/2024/07/21/biden-desiste-eleicao-eua-kamala-harris)
-- [Um conjunto de giz de cera com as cores das florestas japonesas](https://www.nexojornal.com.br/expresso/2024/07/20/forest-crayon-giz-de-cera-floresta-japonesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
