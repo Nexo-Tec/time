@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Atual queimada pode mudar para sempre o bioma do Pantanal](https://www.nexojornal.com.br/externo/2024/07/23/atual-queimada-pode-mudar-para-sempre-o-bioma-do-pantanal)
+- [Chefe do Serviço Secreto deixa cargo após falhas em comício](https://www.nexojornal.com.br/extra/2024/07/23/chefe-servico-secreto-americano-renuncia-atentado-trump)
 - [A corrida contra o tempo do Partido Democrata nos EUA](https://www.nexojornal.com.br/expresso/2024/07/22/politica-eua-eleicoes-presidenciais-2024-candidato-partido-democrata)
 - [Por que o número de suicídios cresce entre policiais no Brasil](https://www.nexojornal.com.br/expresso/2024/07/22/aumenta-suicidio-entre-policiais-no-brasil-motivo)
 - [O que a ciência está nos ensinando sobre a náusea e o nojo](https://www.nexojornal.com.br/colunistas/2024/07/22/o-que-a-ciencia-esta-nos-ensinando-sobre-a-nausea-e-o-nojo)
-- [Governo piora projeção de deficit para R$ 28,8 bilhões](https://www.nexojornal.com.br/extra/2024/07/22/governo-piora-projecao-de-deficit-para-r-288-bilhoes)
-- [Os atalhos e barreiras para Kamala Harris na corrida à Casa Branca](https://www.nexojornal.com.br/podcast/2024/07/22/kamala-harris-quem-e-a-favorita-para-substituir-biden-na-corrida-presidencial-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
