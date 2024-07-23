@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A corrida contra o tempo do Partido Democrata nos EUA](https://www.nexojornal.com.br/expresso/2024/07/22/politica-eua-eleicoes-presidenciais-2024-candidato-partido-democrata)
+- [Por que o número de suicídios cresce entre policiais no Brasil](https://www.nexojornal.com.br/expresso/2024/07/22/aumenta-suicidio-entre-policiais-no-brasil-motivo)
+- [O que a ciência está nos ensinando sobre a náusea e o nojo](https://www.nexojornal.com.br/colunistas/2024/07/22/o-que-a-ciencia-esta-nos-ensinando-sobre-a-nausea-e-o-nojo)
+- [Governo piora projeção de deficit para R$ 28,8 bilhões](https://www.nexojornal.com.br/extra/2024/07/22/governo-piora-projecao-de-deficit-para-r-288-bilhoes)
 - [Os atalhos e barreiras para Kamala Harris na corrida à Casa Branca](https://www.nexojornal.com.br/podcast/2024/07/22/kamala-harris-quem-e-a-favorita-para-substituir-biden-na-corrida-presidencial-eua)
-- [7 disputas por medalha para ficar de olho na Olimpíada de Paris](https://www.nexojornal.com.br/expresso/2024/07/22/olimpiadas-paris-2024-chance-de-medalha)
-- [Como os holandeses se tornaram a nação mais alta do mundo](https://www.nexojornal.com.br/externo/2024/07/22/como-os-holandeses-se-tornaram-a-nacao-mais-alta-do-mundo)
-- [Após 12 anos, BNDES abre concurso com salários de R$ 20 mil](https://www.nexojornal.com.br/extra/2024/07/22/apos-12-anos-bndes-abre-concurso-com-salarios-de-r-20-mil)
-- [Por que nós somos tão ruins em perceber mentiras](https://www.nexojornal.com.br/externo/2024/07/21/por-que-nos-somos-tao-ruins-em-perceber-mentiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
