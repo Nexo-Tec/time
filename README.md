@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quase metade dos Jogos de Paris será na manhã brasileira](https://www.nexojornal.com.br/grafico/2024/07/23/horario-jogos-olimpiadas-paris-2024)
 - [Estudo detecta cocaína em tubarões na costa do Rio](https://www.nexojornal.com.br/extra/2024/07/23/cocaina-encontrada-em-tubarao-rio-de-janeiro)
 - [Atual queimada pode mudar para sempre o bioma do Pantanal](https://www.nexojornal.com.br/externo/2024/07/23/atual-queimada-pode-mudar-para-sempre-o-bioma-do-pantanal)
 - [Chefe do Serviço Secreto deixa cargo após falhas em comício](https://www.nexojornal.com.br/extra/2024/07/23/chefe-servico-secreto-americano-renuncia-atentado-trump)
 - [A corrida contra o tempo do Partido Democrata nos EUA](https://www.nexojornal.com.br/expresso/2024/07/22/politica-eua-eleicoes-presidenciais-2024-candidato-partido-democrata)
-- [Por que o número de suicídios cresce entre policiais no Brasil](https://www.nexojornal.com.br/expresso/2024/07/22/aumenta-suicidio-entre-policiais-no-brasil-motivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
