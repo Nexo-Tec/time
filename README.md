@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual a chance de temas nacionais pautarem as eleições municipais](https://www.nexojornal.com.br/expresso/2024/07/23/temas-nacionais-eleicoes-municipais)
+- [A Sabesp foi privatizada. Qual o saldo para Tarcísio](https://www.nexojornal.com.br/expresso/2024/07/23/privatizacao-sabesp-saldo-politico-governador-tarcisio)
+- [Os relatos de violência na Operação Acolhida em Roraima](https://www.nexojornal.com.br/externo/2024/07/23/os-relatos-de-violencia-na-operacao-acolhida-em-roraima)
 - [Macron recusa indicação da esquerda para cargo de premiê](https://www.nexojornal.com.br/extra/2024/07/23/macron-recusa-nome-da-esquerda-para-primeiro-ministro)
 - [A apreensão na reta final da eleição na Venezuela](https://www.nexojornal.com.br/podcast/2024/07/23/eleicao-venezuela-2024-reta-final)
-- [Quase metade dos Jogos de Paris será na manhã brasileira](https://www.nexojornal.com.br/grafico/2024/07/23/horario-jogos-olimpiadas-paris-2024)
-- [Estudo detecta cocaína em tubarões na costa do Rio](https://www.nexojornal.com.br/extra/2024/07/23/cocaina-encontrada-em-tubarao-rio-de-janeiro)
-- [Atual queimada pode mudar para sempre o bioma do Pantanal](https://www.nexojornal.com.br/externo/2024/07/23/atual-queimada-pode-mudar-para-sempre-o-bioma-do-pantanal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
