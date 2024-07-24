@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo apura ataque hacker que afetou 11 órgãos e ministérios](https://www.nexojornal.com.br/extra/2024/07/24/governo-apura-ataque-hacker-que-afetou-11-orgaos-e-ministerios)
+- [Deadpool revê Wolverine: agora, como protagonista](https://www.nexojornal.com.br/expresso/2024/07/24/filme-deadpool-e-wolverine-marvel)
 - [Nos EUA, Netanyahu defende guerra em meio a protestos](https://www.nexojornal.com.br/extra/2024/07/24/eua-e-israel-devem-permanecer-juntos-diz-netanyahu)
 - [Estreia dos Jogos tem invasão de campo e gol anulado após 2 horas](https://www.nexojornal.com.br/extra/2024/07/24/estreia-dos-jogos-tem-invasao-de-campo-e-gol-anulado-apos-2-horas)
 - [Em qual história olímpica este filme se inspirou? Faça o teste](https://www.nexojornal.com.br/interativo/2024/07/24/filme-baseado-olimpiadas-quiz)
-- [Maduro ecoa Bolsonaro ao falar de eleições brasileiras](https://www.nexojornal.com.br/extra/2024/07/24/maduro-questiona-sistema-eleitoral-brasileiro)
-- [Qual a chance de temas nacionais pautarem as eleições municipais](https://www.nexojornal.com.br/expresso/2024/07/23/temas-nacionais-eleicoes-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
