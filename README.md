@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil vence no futebol e handebol femininos em seu 1º dia olímpico](https://www.nexojornal.com.br/extra/2024/07/25/estreia-do-brasil-nas-olimpiadas)
 - [Greve do INSS: STJ determina que 85% das equipes trabalhem](https://www.nexojornal.com.br/extra/2024/07/25/decisao-do-stj-determina-atendimento-durante-greve-do-inss)
 - [Paris recebe os Jogos Olímpicos pela terceira vez](https://www.nexojornal.com.br/grafico/2024/07/25/olimpiadas-jogos-olimpicos-cidade-sede-historico)
 - [Gorro da Revolução Francesa é a mascote das Olimpíadas](https://www.nexojornal.com.br/extra/2024/07/25/phryge-mascote-olimpiadas-paris-2024-revolucao-francesa)
 - [A projeção da moda de um país nos uniformes de abertura olímpica](https://www.nexojornal.com.br/expresso/2024/07/24/roupas-brasil-abertura-olimpiadas-paris-2024-jogos-olimpicos)
-- [Por que os democratas demoraram tanto para tirar Joe Biden?](https://www.nexojornal.com.br/colunistas/2024/07/24/por-que-os-democratas-demoraram-tanto-para-tirar-joe-biden)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
