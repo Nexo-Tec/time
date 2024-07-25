@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As expectativas para o Brasil nos Jogos Olímpicos de Paris](https://www.nexojornal.com.br/podcast/2024/07/25/brasil-olimpiadas-paris-2024-jogos-olimpicos)
+- [Brasil tem 2 mortes por febre oropouche, as primeiras do mundo](https://www.nexojornal.com.br/extra/2024/07/25/brasil-mortes-por-febre-oropouche-primeiras-do-mundo)
+- [Os protetores ancestrais da Raposa Serra do Sol](https://www.nexojornal.com.br/externo/2024/07/25/os-protetores-ancestrais-da-raposa-serra-do-sol)
 - [IAB e ‘Nexo’ sabatinam candidatos à prefeitura de São Paulo](https://www.nexojornal.com.br/expresso/2024/07/25/iab-nexo-sabatinas-candidatos-prefeitura-sao-paulo-clima)
 - [Brasil vence no futebol e handebol femininos em seu 1º dia olímpico](https://www.nexojornal.com.br/extra/2024/07/25/estreia-do-brasil-nas-olimpiadas)
-- [Greve do INSS: STJ determina que 85% das equipes trabalhem](https://www.nexojornal.com.br/extra/2024/07/25/decisao-do-stj-determina-atendimento-durante-greve-do-inss)
-- [Paris recebe os Jogos Olímpicos pela terceira vez](https://www.nexojornal.com.br/grafico/2024/07/25/olimpiadas-jogos-olimpicos-cidade-sede-historico)
-- [Gorro da Revolução Francesa é a mascote das Olimpíadas](https://www.nexojornal.com.br/extra/2024/07/25/phryge-mascote-olimpiadas-paris-2024-revolucao-francesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
