@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A projeção da moda de um país nos uniformes de abertura olímpica](https://www.nexojornal.com.br/expresso/2024/07/24/roupas-brasil-abertura-olimpiadas-paris-2024-jogos-olimpicos)
+- [Por que os democratas demoraram tanto para tirar Joe Biden?](https://www.nexojornal.com.br/colunistas/2024/07/24/por-que-os-democratas-demoraram-tanto-para-tirar-joe-biden)
+- [Como funciona o sistema de doações na eleição americana](https://www.nexojornal.com.br/expresso/2024/07/24/eleicoes-eua-como-funciona-doacao-para-partidos)
 - [A aposta do Brasil numa aliança global para combater a fome](https://www.nexojornal.com.br/podcast/2024/07/24/alianca-global-combate-a-fome-governo-brasil-g20)
 - [Governo apura ataque hacker que afetou 11 órgãos e ministérios](https://www.nexojornal.com.br/extra/2024/07/24/governo-apura-ataque-hacker-que-afetou-11-orgaos-e-ministerios)
-- [Deadpool revê Wolverine: agora, como protagonista](https://www.nexojornal.com.br/expresso/2024/07/24/filme-deadpool-e-wolverine-marvel)
-- [Nos EUA, Netanyahu defende guerra em meio a protestos](https://www.nexojornal.com.br/extra/2024/07/24/eua-e-israel-devem-permanecer-juntos-diz-netanyahu)
-- [Estreia dos Jogos tem invasão de campo e gol anulado após 2 horas](https://www.nexojornal.com.br/extra/2024/07/24/estreia-dos-jogos-tem-invasao-de-campo-e-gol-anulado-apos-2-horas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
