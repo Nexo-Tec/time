@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Construção e desconstrução institucional: principais marcos da história das políticas culturais no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/16/construcao-e-desconstrucao-institucional-principais-marcos-da-historia-das-politicas-culturais-no-brasil/)
-- [Entre ciclovias e viadutos: como saber se meu prefeito está no caminho certo da mobilidade urbana?](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/16/entre-ciclovias-e-viadutos-como-saber-se-meu-prefeito-esta-no-caminho-certo-da-mobilidade-urbana/)
-- [Ensino integral e seus reflexos sobre a desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/07/15/ensino-integral-e-seus-reflexos-sobre-a-desigualdade-racial/)
-- [Pensando as políticas de prevenção da violência: por que o diálogo com jovens estudantes importa](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/15/pensando-as-politicas-de-prevencao-da-violencia-por-que-o-dialogo-com-jovens-estudantes-importa/)
-- [Taylor Aguiar: o coaching em igrejas evangélicas no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/07/11/taylor-aguiar-o-coaching-em-igrejas-evangelicas-no-brasil/)
+- [Políticas de saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/linha-do-tempo/2024/07/25/politicas-de-saude-mental-de-criancas-e-adolescentes/)
+- [Por que raça &lpar;ainda&rpar; importa?](https://pp.nexojornal.com.br/opiniao/2024/07/25/por-que-raca-ainda-importa/)
+- [Mulheres negras, eleições municipais e o gargalo da representação institucional](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/25/mulheres-negras-eleicoes-municipais-e-o-gargalo-da-representacao-institucional/)
+- [Desvendando os desafios da gestão pública para o progresso tecnológico no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/25/desvendando-os-desafios-da-gestao-publica-para-o-progresso-tecnologico-no-brasil/)
+- [150 anos da Guerra Mucker na Fronteira Sul](https://pp.nexojornal.com.br/opiniao/2024/07/25/150-anos-da-guerra-mucker-na-fronteira-sul/)
 <!-- PP_LIST:END -->
 
