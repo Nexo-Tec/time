@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Panorama global do acesso à reprodução assistida e efeitos excludentes no Brasil](https://pp.nexojornal.com.br/academico/2024/07/25/panorama-global-do-acesso-a-reproducao-assistida-e-efeitos-excludentes-no-brasil/)
+- [A origem e a persistência do Auto de Resistência na história do Brasil](https://pp.nexojornal.com.br/academico/2024/07/25/a-origem-e-a-persistencia-do-auto-de-resistencia-na-historia-do-brasil/)
 - [Alysson Portella: desigualdades raciais no mercado de trabalho](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/07/25/alysson-portella-desigualdades-raciais-no-mercado-de-trabalho/)
 - [Naturezar as cidades: uma agenda urgente para lidar com a tripla crise planetária](https://pp.nexojornal.com.br/opiniao/2024/07/25/naturezar-as-cidades-uma-agenda-urgente-para-lidar-com-a-tripla-crise-planetaria/)
 - [Ciclo de política pública: da agenda à avaliação](https://pp.nexojornal.com.br/glossario/2024/07/25/ciclo-de-politica-publica-da-agenda-a-avaliacao/)
-- [Políticas de saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/linha-do-tempo/2024/07/25/politicas-de-saude-mental-de-criancas-e-adolescentes/)
-- [Por que raça &lpar;ainda&rpar; importa?](https://pp.nexojornal.com.br/opiniao/2024/07/25/por-que-raca-ainda-importa/)
 <!-- PP_LIST:END -->
 
