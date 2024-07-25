@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Alguma Vez É Só Sexo?](https://gamarevista.uol.com.br/cultura/trecho-de-livro/alguma-vez-e-so-sexo/)
 - [CV: Carina Mendonça Pimenta](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-carina-mendonca-pimenta/)
 - [@raizanoah](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/raizanoah/)
 - [Coador Origami](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/coador-origami/)
 - [Alexandre Kalache: “Avós ajudam a desenvolver a empatia”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/alexandre-kalache-avos/)
-- [A jornada de Simone Biles rumo a Paris-2024 na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-jornada-de-simone-biles-rumo-a-paris-2024-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
