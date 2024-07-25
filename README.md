@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Naturezar as cidades: uma agenda urgente para lidar com a tripla crise planetária](https://pp.nexojornal.com.br/opiniao/2024/07/25/naturezar-as-cidades-uma-agenda-urgente-para-lidar-com-a-tripla-crise-planetaria/)
 - [Ciclo de política pública: da agenda à avaliação](https://pp.nexojornal.com.br/glossario/2024/07/25/ciclo-de-politica-publica-da-agenda-a-avaliacao/)
 - [Políticas de saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/linha-do-tempo/2024/07/25/politicas-de-saude-mental-de-criancas-e-adolescentes/)
 - [Por que raça &lpar;ainda&rpar; importa?](https://pp.nexojornal.com.br/opiniao/2024/07/25/por-que-raca-ainda-importa/)
 - [Mulheres negras, eleições municipais e o gargalo da representação institucional](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/25/mulheres-negras-eleicoes-municipais-e-o-gargalo-da-representacao-institucional/)
-- [Desvendando os desafios da gestão pública para o progresso tecnológico no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/25/desvendando-os-desafios-da-gestao-publica-para-o-progresso-tecnologico-no-brasil/)
 <!-- PP_LIST:END -->
 
