@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A saída de Biden e o apoio a Harris. O início das Olimpíadas. E mais](https://www.nexojornal.com.br/video/2024/07/26/resumo-da-semana-noticia-desistencia-de-biden-e-candidatura-de-kamala-harris)
+- [7 sambas-enredo da carnavalesca mais vitoriosa do Rio](https://www.nexojornal.com.br/expresso/2024/07/26/sambas-enredo-rosa-magalhaes-morre-carnavalesca-mais-vitoriosa-do-rio)
 - [5 romances brasileiros que tematizam relações de trabalho](https://www.nexojornal.com.br/estante-favoritos/2024/07/26/5-romances-brasileiros-que-tematizam-relacoes-de-trabalho)
 - [‘Os vulneráveis’: amizades improváveis em confinamento](https://www.nexojornal.com.br/estante-trechos/2024/07/26/os-vulneraveis-amizades-improvaveis-em-confinamento)
 - [Cultura alimentar: o que é e como o governo federal a ignora](https://www.nexojornal.com.br/externo/2024/07/26/cultura-alimentar-o-que-e-e-como-o-governo-federal-a-ignora)
-- [O estudo que mapeia a evolução das massas recheadas italianas](https://www.nexojornal.com.br/expresso/2024/07/26/o-estudo-que-mapeia-a-evolucao-das-massas-recheadas-italianas)
-- [Rio Sena abre Olimpíadas em 1ª cerimônia fora de estádios](https://www.nexojornal.com.br/extra/2024/07/26/abertura-das-olimpiadas-paris-2024-cerimonia-no-rio-sena)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
