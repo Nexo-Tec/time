@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Linhas de trem são sabotadas em dia de abertura dos Jogos](https://www.nexojornal.com.br/extra/2024/07/26/sabotagem-trens-olimpiadas-paris-abertura)
+- [Rede de trens é sabotada em dia de abertura olímpica em Paris](https://www.nexojornal.com.br/extra/2024/07/26/sabotagem-trens-olimpiadas-paris-abertura)
 - [A capacidade de resiliência de cidades afetadas pelo clima](https://www.nexojornal.com.br/academico/2024/07/25/a-capacidade-de-resiliencia-de-cidades-afetadas-pelo-clima)
 - [Os achados arqueológicos após as cheias no Sul](https://www.nexojornal.com.br/expresso/2024/07/25/sitio-arqueologicos-rio-grande-do-sul)
 - [Rússia fora de novo: como as Olimpíadas definem seus párias](https://www.nexojornal.com.br/expresso/2024/07/25/russia-fora-das-olimpiadas-paris-2024-guerra-ucrania)
