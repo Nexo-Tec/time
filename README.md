@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A capacidade de resiliência de cidades afetadas pelo clima](https://www.nexojornal.com.br/academico/2024/07/25/a-capacidade-de-resiliencia-de-cidades-afetadas-pelo-clima)
+- [Os achados arqueológicos após as cheias no Sul](https://www.nexojornal.com.br/expresso/2024/07/25/sitio-arqueologicos-rio-grande-do-sul)
+- [Rússia fora de novo: como as Olimpíadas definem seus párias](https://www.nexojornal.com.br/expresso/2024/07/25/russia-fora-das-olimpiadas-paris-2024-guerra-ucrania)
 - [As expectativas para o Brasil nos Jogos Olímpicos de Paris](https://www.nexojornal.com.br/podcast/2024/07/25/brasil-olimpiadas-paris-2024-jogos-olimpicos)
 - [Brasil tem 2 mortes por febre oropouche, as primeiras do mundo](https://www.nexojornal.com.br/extra/2024/07/25/brasil-mortes-por-febre-oropouche-primeiras-do-mundo)
-- [Os protetores ancestrais da Raposa Serra do Sol](https://www.nexojornal.com.br/externo/2024/07/25/os-protetores-ancestrais-da-raposa-serra-do-sol)
-- [IAB e ‘Nexo’ sabatinam candidatos à prefeitura de São Paulo](https://www.nexojornal.com.br/expresso/2024/07/25/iab-nexo-sabatinas-candidatos-prefeitura-sao-paulo-clima)
-- [Brasil vence no futebol e handebol femininos em seu 1º dia olímpico](https://www.nexojornal.com.br/extra/2024/07/25/estreia-do-brasil-nas-olimpiadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
