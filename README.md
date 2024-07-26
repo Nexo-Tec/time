@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como começar a assistir aos filmes do Studio Ghibli](https://www.nexojornal.com.br/podcast/2024/07/26/filme-studio-ghibli-ordem-para-assistir)
 - [A saída de Biden e o apoio a Harris. O início das Olimpíadas. E mais](https://www.nexojornal.com.br/video/2024/07/26/resumo-da-semana-noticia-desistencia-de-biden-e-candidatura-de-kamala-harris)
 - [7 sambas-enredo da carnavalesca mais vitoriosa do Rio](https://www.nexojornal.com.br/expresso/2024/07/26/sambas-enredo-rosa-magalhaes-morre-carnavalesca-mais-vitoriosa-do-rio)
 - [5 romances brasileiros que tematizam relações de trabalho](https://www.nexojornal.com.br/estante-favoritos/2024/07/26/5-romances-brasileiros-que-tematizam-relacoes-de-trabalho)
 - [‘Os vulneráveis’: amizades improváveis em confinamento](https://www.nexojornal.com.br/estante-trechos/2024/07/26/os-vulneraveis-amizades-improvaveis-em-confinamento)
-- [Cultura alimentar: o que é e como o governo federal a ignora](https://www.nexojornal.com.br/externo/2024/07/26/cultura-alimentar-o-que-e-e-como-o-governo-federal-a-ignora)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
