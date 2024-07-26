@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 romances brasileiros que tematizam relações de trabalho](https://www.nexojornal.com.br/estante-favoritos/2024/07/26/5-romances-brasileiros-que-tematizam-relacoes-de-trabalho)
+- [‘Os vulneráveis’: amizades improváveis em confinamento](https://www.nexojornal.com.br/estante-trechos/2024/07/26/os-vulneraveis-amizades-improvaveis-em-confinamento)
+- [Cultura alimentar: o que é e como o governo federal a ignora](https://www.nexojornal.com.br/externo/2024/07/26/cultura-alimentar-o-que-e-e-como-o-governo-federal-a-ignora)
+- [O estudo que mapeia a evolução das massas recheadas italianas](https://www.nexojornal.com.br/expresso/2024/07/26/o-estudo-que-mapeia-a-evolucao-das-massas-recheadas-italianas)
 - [Rio Sena abre Olimpíadas em 1ª cerimônia fora de estádios](https://www.nexojornal.com.br/extra/2024/07/26/abertura-das-olimpiadas-paris-2024-cerimonia-no-rio-sena)
-- [Rede de trens é sabotada em dia de abertura olímpica em Paris](https://www.nexojornal.com.br/extra/2024/07/26/sabotagem-trens-olimpiadas-paris-abertura)
-- [A capacidade de resiliência de cidades afetadas pelo clima](https://www.nexojornal.com.br/academico/2024/07/25/a-capacidade-de-resiliencia-de-cidades-afetadas-pelo-clima)
-- [Os achados arqueológicos após as cheias no Sul](https://www.nexojornal.com.br/expresso/2024/07/25/sitio-arqueologicos-rio-grande-do-sul)
-- [Rússia fora de novo: como as Olimpíadas definem seus párias](https://www.nexojornal.com.br/expresso/2024/07/25/russia-fora-das-olimpiadas-paris-2024-guerra-ucrania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
