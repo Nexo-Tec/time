@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Marcos jurídico-institucionais da área federal de cultura](https://pp.nexojornal.com.br/linha-do-tempo/2024/07/26/marcos-juridico-institucionais-da-area-federal-de-cultura/)
 - [Por que a diversidade é fundamental para a gestão das cidades](https://pp.nexojornal.com.br/topico/2024/07/26/por-que-a-diversidade-e-fundamental-para-a-gestao-das-cidades/)
 - [Agricultura quilombola: tecnologia ancestral para o futuro dos sistemas alimentares](https://pp.nexojornal.com.br/opiniao/2024/07/26/agricultura-quilombola-tecnologia-ancestral-para-o-futuro-dos-sistemas-alimentares/)
 - [Reconhecimento sem relevância: primeira infância e desigualdades étnico-raciais na escola](https://pp.nexojornal.com.br/opiniao/2024/07/26/reconhecimento-sem-relevancia-primeira-infancia-e-desigualdades-etnico-raciais-na-escola/)
 - [Lei 12.990/2014: quando a sorte é para a branquitude](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/26/lei-12-990-2014-quando-a-sorte-e-para-a-branquitude/)
-- [Panorama global do acesso à reprodução assistida e efeitos excludentes no Brasil](https://pp.nexojornal.com.br/academico/2024/07/25/panorama-global-do-acesso-a-reproducao-assistida-e-efeitos-excludentes-no-brasil/)
 <!-- PP_LIST:END -->
 
