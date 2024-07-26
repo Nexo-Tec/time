@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que a diversidade é fundamental para a gestão das cidades](https://pp.nexojornal.com.br/topico/2024/07/26/por-que-a-diversidade-e-fundamental-para-a-gestao-das-cidades/)
+- [Agricultura quilombola: tecnologia ancestral para o futuro dos sistemas alimentares](https://pp.nexojornal.com.br/opiniao/2024/07/26/agricultura-quilombola-tecnologia-ancestral-para-o-futuro-dos-sistemas-alimentares/)
+- [Reconhecimento sem relevância: primeira infância e desigualdades étnico-raciais na escola](https://pp.nexojornal.com.br/opiniao/2024/07/26/reconhecimento-sem-relevancia-primeira-infancia-e-desigualdades-etnico-raciais-na-escola/)
+- [Lei 12.990/2014: quando a sorte é para a branquitude](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/26/lei-12-990-2014-quando-a-sorte-e-para-a-branquitude/)
 - [Panorama global do acesso à reprodução assistida e efeitos excludentes no Brasil](https://pp.nexojornal.com.br/academico/2024/07/25/panorama-global-do-acesso-a-reproducao-assistida-e-efeitos-excludentes-no-brasil/)
-- [A origem e a persistência do Auto de Resistência na história do Brasil](https://pp.nexojornal.com.br/academico/2024/07/25/a-origem-e-a-persistencia-do-auto-de-resistencia-na-historia-do-brasil/)
-- [Alysson Portella: desigualdades raciais no mercado de trabalho](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/07/25/alysson-portella-desigualdades-raciais-no-mercado-de-trabalho/)
-- [Naturezar as cidades: uma agenda urgente para lidar com a tripla crise planetária](https://pp.nexojornal.com.br/opiniao/2024/07/25/naturezar-as-cidades-uma-agenda-urgente-para-lidar-com-a-tripla-crise-planetaria/)
-- [Ciclo de política pública: da agenda à avaliação](https://pp.nexojornal.com.br/glossario/2024/07/25/ciclo-de-politica-publica-da-agenda-a-avaliacao/)
 <!-- PP_LIST:END -->
 
