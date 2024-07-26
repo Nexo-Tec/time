@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Viajamos viajamos, ancoramos ancoramos](https://gamarevista.uol.com.br/colunistas/maria-homem/viajamos-viajamos-ancoramos-ancoramos/)
 - [Uma escritora quase famosa, no Rádio Novelo Apresenta](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/uma-escritora-quase-famosa-no-radio-novelo-apresenta/)
 - [“Um Beijo do Gordo”, sobre a vida e a obra de Jô Soares](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-beijo-do-gordo-sobre-a-vida-e-a-obra-de-jo-soares/)
 - [O novo filme do diretor de “Drive My Car”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-novo-filme-do-diretor-de-drive-my-car/)
 - [A cena eletrônica de SP em “Bate-Estaca”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-cena-eletronica-de-sp-em-bate-estaca/)
-- [O cinema de Paul Thomas Anderson, no Cinesesc](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-cinema-de-paul-thomas-anderson-no-cinesesc/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
