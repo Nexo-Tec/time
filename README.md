@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a mudança climática coloca em risco atletas e esportes](https://www.nexojornal.com.br/externo/2024/07/28/como-a-mudanca-climatica-coloca-em-risco-atletas-e-esportes)
+- [As mulheres no museu, as mulheres em campo: o futebol feminino](https://www.nexojornal.com.br/ensaio/2024/07/28/as-mulheres-no-museu-as-mulheres-em-campo-o-futebol-feminino)
+- [Os contornos do maior teste eleitoral de Maduro na Venezuela](https://www.nexojornal.com.br/expresso/2024/07/28/eleicoes-venezuela-2024-como-funciona)
 - [Como os consórcios  lidam com as carências das cidades](https://www.nexojornal.com.br/ensaio/2024/07/26/como-os-consorcios-lidam-com-as-carencias-das-cidades)
 - [Por que assistir a esportes faz bem para você](https://www.nexojornal.com.br/externo/2024/07/26/por-que-assistir-a-esportes-faz-bem-para-voce)
-- [‘Operações como a Escudo fortalecem o poder de facções’](https://www.nexojornal.com.br/entrevista/2024/07/26/slug-operacao-escudo-sao-paulo-1-anos-entrevista-carolina-diniz)
-- [Como começar a assistir aos filmes do Studio Ghibli](https://www.nexojornal.com.br/podcast/2024/07/26/filme-studio-ghibli-ordem-para-assistir)
-- [A saída de Biden e o apoio a Harris. O início das Olimpíadas. E mais](https://www.nexojornal.com.br/video/2024/07/26/resumo-da-semana-noticia-desistencia-de-biden-e-candidatura-de-kamala-harris)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
