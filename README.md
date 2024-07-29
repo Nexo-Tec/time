@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Japão se destaca tanto no skate](https://www.nexojornal.com.br/expresso/2024/07/29/esporte-skate-japao-olimpiadas)
 - [Porta-voz de Paris diz que não era intenção desrespeitar cristãos](https://www.nexojornal.com.br/extra/2024/07/29/ultima-ceia-drag-queens-resposta-olimpiadas-polemica)
 - [Motorista de Porsche atropela e mata motociclista](https://www.nexojornal.com.br/extra/2024/07/29/motorista-porsche-atropela-motociclista)
 - [A crescente demanda por detectores de textos gerados por IA](https://www.nexojornal.com.br/externo/2024/07/29/detectores-de-textos-gerados-por-inteligencia-artificial)
 - [De saída, Biden propõe reforma na Suprema Corte americana](https://www.nexojornal.com.br/extra/2024/07/29/biden-reforma-suprema-corte)
-- [Órgão eleitoral diz que Maduro venceu. Oposição contesta](https://www.nexojornal.com.br/extra/2024/07/29/orgao-eleitoral-diz-que-maduro-venceu-oposicao-contesta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
