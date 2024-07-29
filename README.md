@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Democracia participativa, crises e reconstrução](https://www.nexojornal.com.br/debate/2024/07/28/democracia-participativa-crises-e-reconstrucao)
+- [Por que há tanta clandestinidade em clínicas de reabilitação](https://www.nexojornal.com.br/expresso/2024/07/28/clandestinidade-clinicas-reabilitacao)
 - [Rayssa Leal conquista medalha de bronze no skate street em Paris](https://www.nexojornal.com.br/extra/2024/07/28/rayssa-leal-bronze-paris)
 - [Judô garante primeiras medalhas do Brasil em Paris](https://www.nexojornal.com.br/extra/2024/07/28/medalhas-brasil-judo-jogos-de-paris)
 - [Como a mudança climática coloca em risco atletas e esportes](https://www.nexojornal.com.br/externo/2024/07/28/como-a-mudanca-climatica-coloca-em-risco-atletas-e-esportes)
-- [As mulheres no museu, as mulheres em campo: o futebol feminino](https://www.nexojornal.com.br/ensaio/2024/07/28/as-mulheres-no-museu-as-mulheres-em-campo-o-futebol-feminino)
-- [Os contornos do maior teste eleitoral de Maduro na Venezuela](https://www.nexojornal.com.br/expresso/2024/07/28/eleicoes-venezuela-2024-como-funciona)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
