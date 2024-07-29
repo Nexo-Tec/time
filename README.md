@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A crescente demanda por detectores de textos gerados por IA](https://www.nexojornal.com.br/externo/2024/07/29/detectores-de-textos-gerados-por-inteligencia-artificial)
 - [De saída, Biden propõe reforma na Suprema Corte americana](https://www.nexojornal.com.br/extra/2024/07/29/biden-reforma-suprema-corte)
 - [Órgão eleitoral diz que Maduro venceu. Oposição contesta](https://www.nexojornal.com.br/extra/2024/07/29/orgao-eleitoral-diz-que-maduro-venceu-oposicao-contesta)
 - [A batalha tecnológica em áreas protegidas da Amazônia](https://www.nexojornal.com.br/externo/2024/07/28/a-batalha-tecnologica-em-areas-protegidas-da-amazonia)
 - [Democracia participativa, crises e reconstrução](https://www.nexojornal.com.br/debate/2024/07/28/democracia-participativa-crises-e-reconstrucao)
-- [Por que há tanta clandestinidade em clínicas de reabilitação](https://www.nexojornal.com.br/expresso/2024/07/28/clandestinidade-clinicas-reabilitacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
