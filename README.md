@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Protestos contra Maduro têm morte e dezena de detidos](https://www.nexojornal.com.br/extra/2024/07/30/atos-contra-maduro-tem-registro-de-morte-e-dezena-de-detidos)
 - [Quem recebe verba da prefeitura tem de ser sustentável, diz Tabata](https://www.nexojornal.com.br/expresso/2024/07/29/tabata-amaral-candidata-prefeita-sao-paulo-mudancas-climaticas-debate)
 - [As falhas no controle de clientes da Starlink na Amazônia](https://www.nexojornal.com.br/externo/2024/07/29/satelites-starlink-amazonia-falhas-elon-musk)
 - [7 perguntas e respostas sobre a febre oropouche](https://www.nexojornal.com.br/expresso/2024/07/29/febre-oropouche-sintomas-duvidas)
 - [Como a pressão externa afeta os rumos da Venezuela](https://www.nexojornal.com.br/expresso/2024/07/29/influencia-externa-politica-venezuela)
-- [Eleição na Venezuela: intimidação, ameaças, manobras e opacidade](https://www.nexojornal.com.br/podcast/2024/07/29/resumo-eleicao-presidente-venezuela-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
