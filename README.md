@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rio Sena: a vitrine que virou vidraça nos Jogos de Paris](https://www.nexojornal.com.br/podcast/2024/07/30/poluicao-rio-sena-atrasa-provas-olimpiadas-paris-2024-jogos-olimpicos)
+- [Como a volta de Downey Jr. expõe os problemas da Marvel](https://www.nexojornal.com.br/expresso/2024/07/30/marvel-anuncia-volta-de-robert-downey-jr-no-filme-doutor-destino-quarteto-fantastico)
 - [O número de medalhas em Paris por esporte olímpico](https://www.nexojornal.com.br/grafico/2024/07/30/olimpiadas-medalha-quantidade-por-esporte)
 - [Com bronze em equipe, Brasil ganha medalha inédita na ginástica](https://www.nexojornal.com.br/extra/2024/07/30/olimpiadas-de-paris-ginastica-bronze-brasil-equipes-feminina)
-- [Protestos contra Maduro têm morte e dezena de detidos](https://www.nexojornal.com.br/extra/2024/07/30/atos-contra-maduro-tem-registro-de-morte-e-dezena-de-detidos)
-- [Quem recebe verba da prefeitura tem de ser sustentável, diz Tabata](https://www.nexojornal.com.br/expresso/2024/07/29/tabata-amaral-candidata-prefeita-sao-paulo-mudancas-climaticas-debate)
-- [As falhas no controle de clientes da Starlink na Amazônia](https://www.nexojornal.com.br/externo/2024/07/29/satelites-starlink-amazonia-falhas-elon-musk)
+- [Protestos contra Maduro têm mortes e centenas de presos](https://www.nexojornal.com.br/extra/2024/07/30/atos-contra-maduro-tem-registro-de-morte-e-dezena-de-detidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
