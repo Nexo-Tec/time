@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o Japão se destaca tanto no skate](https://www.nexojornal.com.br/expresso/2024/07/29/esporte-skate-japao-olimpiadas)
-- [Porta-voz de Paris diz que não era intenção desrespeitar cristãos](https://www.nexojornal.com.br/extra/2024/07/29/ultima-ceia-drag-queens-resposta-olimpiadas-polemica)
-- [Motorista de Porsche atropela e mata motociclista](https://www.nexojornal.com.br/extra/2024/07/29/motorista-porsche-atropela-motociclista)
-- [A crescente demanda por detectores de textos gerados por IA](https://www.nexojornal.com.br/externo/2024/07/29/detectores-de-textos-gerados-por-inteligencia-artificial)
-- [De saída, Biden propõe reforma na Suprema Corte americana](https://www.nexojornal.com.br/extra/2024/07/29/biden-reforma-suprema-corte)
+- [As falhas no controle de clientes da Starlink na Amazônia](https://www.nexojornal.com.br/externo/2024/07/29/satelites-starlink-amazonia-falhas-elon-musk)
+- [7 perguntas e respostas sobre a febre oropouche](https://www.nexojornal.com.br/expresso/2024/07/29/febre-oropouche-sintomas-duvidas)
+- [Como a pressão externa afeta os rumos da Venezuela](https://www.nexojornal.com.br/expresso/2024/07/29/influencia-externa-politica-venezuela)
+- [Eleição na Venezuela: intimidação, ameaças, manobras e opacidade](https://www.nexojornal.com.br/podcast/2024/07/29/resumo-eleicao-presidente-venezuela-2024)
+- [Por que o Japão se destaca tanto no skate nas Olimpíadas](https://www.nexojornal.com.br/expresso/2024/07/29/esporte-skate-japao-olimpiadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
