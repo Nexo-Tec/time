@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Banco Central mantém de novo taxa de juros em 10,50%](https://www.nexojornal.com.br/extra/2024/07/31/banco-central-copom-mantem-taxa-de-juros-selic-1050)
 - [Missão externa diz que vitória de Maduro não foi democrática](https://www.nexojornal.com.br/extra/2024/07/31/centro-carter-observador-internacional-eleicao-venezuela)
 - [Desemprego fica em 6,9%, menor índice para o 2º trimestre](https://www.nexojornal.com.br/extra/2024/07/31/desemprego-fica-em-69-menor-indice-para-o-2o-trimestre)
 - [O que o freio no Orçamento diz sobre o plano fiscal de Lula](https://www.nexojornal.com.br/expresso/2024/07/31/o-que-o-freio-no-orcamento-diz-sobre-o-plano-fiscal-de-lula)
 - [Líder do Hamas é morto no Irã em ação atribuída a Israel](https://www.nexojornal.com.br/extra/2024/07/31/lider-hamas-morto-ira-israel)
-- [A evolução e os desafios da educação especial brasileira](https://www.nexojornal.com.br/externo/2024/07/30/a-evolucao-da-educacao-especial-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
