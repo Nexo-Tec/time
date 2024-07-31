@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A evolução e os desafios da educação especial brasileira](https://www.nexojornal.com.br/externo/2024/07/30/a-evolucao-da-educacao-especial-brasileira)
+- [A maternidade e as políticas de pessoas no serviço público](https://www.nexojornal.com.br/colunistas/2024/07/30/a-maternidade-e-as-politicas-de-pessoas-no-servico-publico)
+- [Lula diz não ver ‘nada de grave’ na eleição da Venezuela](https://www.nexojornal.com.br/extra/2024/07/30/lula-comenta-eleicao-contestada-maduro-nada-de-grave)
 - [Rio Sena: a vitrine que virou vidraça nos Jogos de Paris](https://www.nexojornal.com.br/podcast/2024/07/30/poluicao-rio-sena-atrasa-provas-olimpiadas-paris-2024-jogos-olimpicos)
 - [Como a volta de Downey Jr. expõe os problemas da Marvel](https://www.nexojornal.com.br/expresso/2024/07/30/marvel-anuncia-volta-de-robert-downey-jr-no-filme-doutor-destino-quarteto-fantastico)
-- [O número de medalhas em Paris por esporte olímpico](https://www.nexojornal.com.br/grafico/2024/07/30/olimpiadas-medalha-quantidade-por-esporte)
-- [Com bronze em equipe, Brasil ganha medalha inédita na ginástica](https://www.nexojornal.com.br/extra/2024/07/30/olimpiadas-de-paris-ginastica-bronze-brasil-equipes-feminina)
-- [Protestos contra Maduro têm mortes e centenas de presos](https://www.nexojornal.com.br/extra/2024/07/30/atos-contra-maduro-tem-registro-de-morte-e-dezena-de-detidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
