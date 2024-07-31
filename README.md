@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A zona de conforto da branquitude](https://gamarevista.uol.com.br/sem-categoria/a-zona-de-conforto-da-branquitude/)
+- [A zona de conforto da branquitude](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-zona-de-conforto-da-branquitude/)
 - [@juju_bsoares](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/juju_bsoares/)
 - [Luca Kumahara: “Por que as categorias são separadas em feminino e masculino?”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luca-kumahara-atleta-trans/)
 - [5 episódios do Podcast da Semana: relacionamento](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/5-episodios-do-podcast-da-semana-relacionamento/)
