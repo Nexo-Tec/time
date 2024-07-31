@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Nadine Marques: a indústria de alimentos no Brasil e a Classificação Nova](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/07/31/nadine-marques-a-industria-de-alimentos-no-brasil-e-a-classificacao-nova/)
 - [A urgência do cuidado familiar de pessoas idosas](https://pp.nexojornal.com.br/ponto-de-vista/2024/07/30/a-urgencia-do-cuidado-familiar-de-pessoas-idosas/)
 - [Mapeando áreas periféricas para um desenvolvimento urbano mais justo](https://pp.nexojornal.com.br/opiniao/2024/07/30/mapeando-areas-perifericas-para-um-desenvolvimento-urbano-mais-justo/)
 - [Marcos jurídico-institucionais da área federal de cultura](https://pp.nexojornal.com.br/linha-do-tempo/2024/07/26/marcos-juridico-institucionais-da-area-federal-de-cultura/)
 - [Por que a diversidade é fundamental para a gestão das cidades](https://pp.nexojornal.com.br/topico/2024/07/26/por-que-a-diversidade-e-fundamental-para-a-gestao-das-cidades/)
-- [Agricultura quilombola: tecnologia ancestral para o futuro dos sistemas alimentares](https://pp.nexojornal.com.br/opiniao/2024/07/26/agricultura-quilombola-tecnologia-ancestral-para-o-futuro-dos-sistemas-alimentares/)
 <!-- PP_LIST:END -->
 
