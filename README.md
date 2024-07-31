@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Líder do Hamas é morto no Irã em ação atribuída a Israel](https://www.nexojornal.com.br/extra/2024/07/31/lider-hamas-morto-ira-israel)
 - [A evolução e os desafios da educação especial brasileira](https://www.nexojornal.com.br/externo/2024/07/30/a-evolucao-da-educacao-especial-brasileira)
 - [A maternidade e as políticas de pessoas no serviço público](https://www.nexojornal.com.br/colunistas/2024/07/30/a-maternidade-e-as-politicas-de-pessoas-no-servico-publico)
 - [Lula diz não ver ‘nada de grave’ na eleição da Venezuela](https://www.nexojornal.com.br/extra/2024/07/30/lula-comenta-eleicao-contestada-maduro-nada-de-grave)
 - [Rio Sena: a vitrine que virou vidraça nos Jogos de Paris](https://www.nexojornal.com.br/podcast/2024/07/30/poluicao-rio-sena-atrasa-provas-olimpiadas-paris-2024-jogos-olimpicos)
-- [Como a volta de Downey Jr. expõe os problemas da Marvel](https://www.nexojornal.com.br/expresso/2024/07/30/marvel-anuncia-volta-de-robert-downey-jr-no-filme-doutor-destino-quarteto-fantastico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
