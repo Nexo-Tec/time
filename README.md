@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A origem dos atletas do Brasil nos Jogos Olímpicos de Paris](https://www.nexojornal.com.br/grafico/2024/08/01/estado-de-origem-dos-atletas-brasil-olimpiadas-paris-2024-jogos-olimpicos)
 - [Lula sanciona novo ensino médio, mas veta mudança no Enem](https://www.nexojornal.com.br/extra/2024/08/01/lula-sanciona-novo-ensino-medio-mas-veta-mudanca-no-enem)
 - [Caio Bonfim conquista a prata na marcha atlética em Paris](https://www.nexojornal.com.br/extra/2024/08/01/caio-bonfim-prata-marcha-atletica-olimpiadas-paris)
 - [Prefeitura vai bater meta de reciclagem de lixo, diz Nunes](https://www.nexojornal.com.br/expresso/2024/07/31/prefeitura-vai-bater-meta-de-reciclagem-de-lixo-diz-nunes)
 - [Lula e PT minam seu histórico democrático no caso da Venezuela?](https://www.nexojornal.com.br/expresso/2024/07/31/lula-e-pt-democracia-venezuela-eleicoes)
-- [A atenção às mães e crianças nas Olimpíadas de Paris](https://www.nexojornal.com.br/expresso/2024/07/31/olimpiadas-paris-2024-maternidade-atleta-jogos-olimpicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
