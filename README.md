@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma mostra com mais de 150 obras de J. Borges no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-com-mais-de-150-obras-de-j-borges-no-rio/)
+- [O humor peculiar da série argentina “Meu Querido Zelador”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-humor-peculiar-da-serie-argentina-meu-querido-zelador/)
 - [O segredo da maionese japonesa Kewpie para preparar em casa](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-segredo-da-maionese-japonesa-kewpie-para-preparar-em-casa/)
 - [Livro explora a Itália de Elena Ferrante](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-explora-a-italia-de-elena-ferrante/)
 - [A história da batalha de poesia falada no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-historia-da-batalha-de-poesia-falada-no-brasil/)
-- [Do skate à medalha olímpica: os objetos de Paris 2024](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/do-skate-a-medalha-olimpica-os-objetos-de-paris-2024/)
-- [A zona de conforto da branquitude](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-zona-de-conforto-da-branquitude/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
