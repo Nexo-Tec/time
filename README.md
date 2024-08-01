@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Cotas e educação básica: os efeitos da pandemia de covid-19 no ensino médio integrado](https://pp.nexojornal.com.br/opiniao/2024/08/01/cotas-e-educacao-basica-os-efeitos-da-pandemia-de-covid-19-no-ensino-medio-integrado/)
 - [Fórmulas lácteas comerciais para crianças maiores de um ano: como a indústria molda as pesquisas sobre o tema](https://pp.nexojornal.com.br/academico/2024/08/01/formulas-lacteas-comerciais-para-criancas-maiores-de-um-ano-como-a-industria-molda-as-pesquisas-sobre-o-tema/)
 - [Um estudo dos determinantes de sífilis congênita no Brasil](https://pp.nexojornal.com.br/academico/2024/08/01/um-estudo-dos-determinantes-de-sifilis-congenita-no-brasil/)
 - [Democracia racial no Brasil: da formulação a sua crítica](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/01/democracia-racial-no-brasil-da-formulacao-a-sua-critica/)
 - [Quais os limites da transformação de demandas da sociedade civil em políticas públicas, no Brasil](https://pp.nexojornal.com.br/academico/2024/08/01/quais-os-limites-da-transformacao-de-demandas-da-sociedade-civil-em-politicas-publicas-no-brasil/)
-- [Da discriminação à desigualdade, da desigualdade à discriminação](https://pp.nexojornal.com.br/opiniao/2024/08/01/da-discriminacao-a-desigualdade-da-desigualdade-a-discriminacao-2/)
 <!-- PP_LIST:END -->
 
