@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O segredo da maionese japonesa Kewpie para preparar em casa](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-segredo-da-maionese-japonesa-kewpie-para-preparar-em-casa/)
+- [Livro explora a Itália de Elena Ferrante](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-explora-a-italia-de-elena-ferrante/)
+- [A história da batalha de poesia falada no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-historia-da-batalha-de-poesia-falada-no-brasil/)
 - [Do skate à medalha olímpica: os objetos de Paris 2024](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/do-skate-a-medalha-olimpica-os-objetos-de-paris-2024/)
 - [A zona de conforto da branquitude](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-zona-de-conforto-da-branquitude/)
-- [@juju_bsoares](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/juju_bsoares/)
-- [Luca Kumahara: “Por que as categorias são separadas em feminino e masculino?”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/luca-kumahara-atleta-trans/)
-- [5 episódios do Podcast da Semana: relacionamento](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/5-episodios-do-podcast-da-semana-relacionamento/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
