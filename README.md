@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula e PT minam seu histórico democrático no caso da Venezuela?](https://www.nexojornal.com.br/expresso/2024/07/31/lula-e-pt-democracia-venezuela-eleicoes)
+- [A atenção às mães e crianças nas Olimpíadas de Paris](https://www.nexojornal.com.br/expresso/2024/07/31/olimpiadas-paris-2024-maternidade-atleta-jogos-olimpicos)
 - [As estratégias para mais diversidade na política](https://www.nexojornal.com.br/ensaio/2024/07/31/as-estrategias-para-mais-diversidade-na-politica)
 - [Por que admirar a natureza pode ajudar a saúde mental](https://www.nexojornal.com.br/externo/2024/07/31/por-que-olhar-natureza-pode-ajudar-a-saude-mental)
 - [Os ataques de Israel para além da Palestina](https://www.nexojornal.com.br/podcast/2024/07/31/israel-lider-hamas-ataque-lider-hezbollah)
-- [Banco Central mantém de novo taxa de juros em 10,50%](https://www.nexojornal.com.br/extra/2024/07/31/banco-central-copom-mantem-taxa-de-juros-selic-1050)
-- [Missão externa diz que vitória de Maduro não foi democrática](https://www.nexojornal.com.br/extra/2024/07/31/centro-carter-observador-internacional-eleicao-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
