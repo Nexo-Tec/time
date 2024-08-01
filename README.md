@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais testes de gênero podem barrar atletas nas Olimpíadas](https://www.nexojornal.com.br/podcast/2024/08/01/teste-de-genero-atleta-trans-intersexo-olimpiadas-jogos-olimpicos)
 - [As denúncias de sem-tetos em Balneário Camboriú](https://www.nexojornal.com.br/externo/2024/08/01/as-denuncias-de-sem-tetos-em-balneario-camboriu)
 - [Rebeca Andrade leva prata no individual geral e bate recorde](https://www.nexojornal.com.br/extra/2024/08/01/rebeca-andrade-leva-prata-no-individual-geral-e-bate-recorde)
 - [A origem dos atletas do Brasil nos Jogos Olímpicos de Paris](https://www.nexojornal.com.br/grafico/2024/08/01/estado-de-origem-dos-atletas-brasil-olimpiadas-paris-2024-jogos-olimpicos)
 - [Lula sanciona novo ensino médio, mas veta mudança no Enem](https://www.nexojornal.com.br/extra/2024/08/01/lula-sanciona-novo-ensino-medio-mas-veta-mudanca-no-enem)
-- [Caio Bonfim conquista a prata na marcha atlética em Paris](https://www.nexojornal.com.br/extra/2024/08/01/caio-bonfim-prata-marcha-atletica-olimpiadas-paris)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
