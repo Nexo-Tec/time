@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Judoca Beatriz Souza conquista 1º ouro para o Brasil nos Jogos](https://www.nexojornal.com.br/extra/2024/08/02/beatriz-souza-medalha-de-ouro-judo)
 - [Educação é a chave contra o negacionismo, diz Boulos](https://www.nexojornal.com.br/expresso/2024/08/01/educacao-e-a-chave-contra-o-negacionismo-diz-boulos)
 - [Para lidar com grandes problemas, as pequenas ações](https://www.nexojornal.com.br/colunistas/2024/08/01/para-lidar-com-grandes-problemas-as-pequenas-acoes)
 - [Por que o poder público decidiu liberar o jogo do tigrinho](https://www.nexojornal.com.br/expresso/2024/08/01/governo-libera-jogo-do-tigrinho-motivo)
 - [‘Censura nasce quando há falsa moral num contexto de ignorância’](https://www.nexojornal.com.br/entrevista/2024/08/01/entrevista-henrique-rodrigues-ex-curador-premio-sesc-censura)
-- [As políticas de educação no governo petista de Minas](https://www.nexojornal.com.br/academico/2024/08/01/as-politicas-de-educacao-no-governo-petista-de-minas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
