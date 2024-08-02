@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Fausto Fawcett: ‘Agora você tem que tiktokizar a música’](https://www.nexojornal.com.br/entrevista/2024/08/02/musico-fausto-fawcett-fala-sobre-filme-documentario-biografico)
-- [Produção científica brasileira cai pelo segundo ano consecutivo](https://www.nexojornal.com.br/externo/2024/08/02/producao-cientifica-brasileira-cai-pelo-segundo-ano-consecutivo)
-- [Maduro diz que 1.200 pessoas foram presas em protestos](https://www.nexojornal.com.br/extra/2024/08/02/maduro-diz-que-1-200-pessoas-foram-presas-em-protestos)
-- [Judoca Beatriz Souza conquista 1º ouro para o Brasil nos Jogos](https://www.nexojornal.com.br/extra/2024/08/02/beatriz-souza-medalha-de-ouro-judo)
-- [Educação é a chave contra o negacionismo, diz Boulos](https://www.nexojornal.com.br/expresso/2024/08/01/educacao-e-a-chave-contra-o-negacionismo-diz-boulos)
+- [A eleição contestada na Venezuela. O Brasil no pódio. E mais](https://www.nexojornal.com.br/video/2024/08/02/eleicao-venezuela-2024-resumo)
+- [Gráficos e mapas sobre as Olimpíadas de Paris de 2024](https://www.nexojornal.com.br/grafico/2024/08/02/olimpiadas-paris-2024-jogos-olimpicos-em-graficos)
+- [5 livros que provam que o romance policial não é um gênero menor](https://www.nexojornal.com.br/estante-favoritos/2024/08/02/5-livros-que-provam-que-o-romance-policial-nao-e-um-genero-menor)
+- [‘Misericórdia’: a experiência humana da finitude](https://www.nexojornal.com.br/estante-trechos/2024/08/02/misericordia-a-experiencia-humana-da-finitude)
+- [‘Encontrei meus búzios no portão’: as histórias dos terreiros inundados no Rio Grande do Sul](https://www.nexojornal.com.br/externo/2024/08/02/encontrei-meus-buzios-no-portao-as-historias-dos-terreiros-inundados-no-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
