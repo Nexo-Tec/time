@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais testes de gênero podem barrar atletas nas Olimpíadas](https://www.nexojornal.com.br/podcast/2024/08/01/teste-de-genero-atleta-trans-intersexo-olimpiadas-jogos-olimpicos)
-- [As denúncias de sem-tetos em Balneário Camboriú](https://www.nexojornal.com.br/externo/2024/08/01/as-denuncias-de-sem-tetos-em-balneario-camboriu)
-- [Rebeca Andrade leva prata no individual geral e bate recorde](https://www.nexojornal.com.br/extra/2024/08/01/rebeca-andrade-leva-prata-no-individual-geral-e-bate-recorde)
-- [A origem dos atletas do Brasil nos Jogos Olímpicos de Paris](https://www.nexojornal.com.br/grafico/2024/08/01/estado-de-origem-dos-atletas-brasil-olimpiadas-paris-2024-jogos-olimpicos)
-- [Lula sanciona novo ensino médio, mas veta mudança no Enem](https://www.nexojornal.com.br/extra/2024/08/01/lula-sanciona-novo-ensino-medio-mas-veta-mudanca-no-enem)
+- [Para lidar com grandes problemas, as pequenas ações](https://www.nexojornal.com.br/colunistas/2024/08/01/para-lidar-com-grandes-problemas-as-pequenas-acoes)
+- [Por que o poder público decidiu liberar o jogo do tigrinho](https://www.nexojornal.com.br/expresso/2024/08/01/governo-libera-jogo-do-tigrinho-motivo)
+- [‘Censura nasce quando há falsa moral num contexto de ignorância’](https://www.nexojornal.com.br/entrevista/2024/08/01/entrevista-henrique-rodrigues-ex-curador-premio-sesc-censura)
+- [As políticas de educação no governo petista de Minas](https://www.nexojornal.com.br/academico/2024/08/01/as-politicas-de-educacao-no-governo-petista-de-minas)
+- [Em nota, Brasil, Colômbia e México cobram Venezuela](https://www.nexojornal.com.br/extra/2024/08/01/em-nota-brasil-colombia-e-mexico-cobram-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
