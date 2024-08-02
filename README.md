@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bambino a Roma](https://gamarevista.uol.com.br/cultura/trecho-de-livro/bambino-a-roma/)
+- [Por um jornalismo que mire uma democracia radical](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/por-um-jornalismo-que-mire-uma-democracia-radical/)
 - [Uma mostra com mais de 150 obras de J. Borges no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-com-mais-de-150-obras-de-j-borges-no-rio/)
 - [O humor peculiar da série argentina “Meu Querido Zelador”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-humor-peculiar-da-serie-argentina-meu-querido-zelador/)
 - [O segredo da maionese japonesa Kewpie para preparar em casa](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-segredo-da-maionese-japonesa-kewpie-para-preparar-em-casa/)
-- [Livro explora a Itália de Elena Ferrante](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-explora-a-italia-de-elena-ferrante/)
-- [A história da batalha de poesia falada no Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-historia-da-batalha-de-poesia-falada-no-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
