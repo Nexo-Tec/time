@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PAC vs. meta: o choque entre os principais ministros de Lula](https://www.nexojornal.com.br/expresso/2024/08/02/pac-vs-meta-o-choque-entre-os-principais-ministros-de-lula)
+- [O que a oposição já tem para dizer que venceu Maduro na Venezuela](https://www.nexojornal.com.br/expresso/2024/08/02/o-que-a-oposicao-ja-tem-para-dizer-que-venceu-maduro-na-venezuela)
+- [Líder do Hamas foi morto por bomba plantada meses antes](https://www.nexojornal.com.br/extra/2024/08/02/lider-do-hamas-foi-morto-por-bomba-plantada-ha-meses)
 - [A eleição contestada na Venezuela. O Brasil no pódio. E mais](https://www.nexojornal.com.br/video/2024/08/02/eleicao-venezuela-2024-resumo)
 - [Gráficos e mapas sobre as Olimpíadas de Paris de 2024](https://www.nexojornal.com.br/grafico/2024/08/02/olimpiadas-paris-2024-jogos-olimpicos-em-graficos)
-- [5 livros que provam que o romance policial não é um gênero menor](https://www.nexojornal.com.br/estante-favoritos/2024/08/02/5-livros-que-provam-que-o-romance-policial-nao-e-um-genero-menor)
-- [‘Misericórdia’: a experiência humana da finitude](https://www.nexojornal.com.br/estante-trechos/2024/08/02/misericordia-a-experiencia-humana-da-finitude)
-- [‘Encontrei meus búzios no portão’: as histórias dos terreiros inundados no Rio Grande do Sul](https://www.nexojornal.com.br/externo/2024/08/02/encontrei-meus-buzios-no-portao-as-historias-dos-terreiros-inundados-no-rio-grande-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
