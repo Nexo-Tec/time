@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil conquista bronze na disputa por equipes mistas do judô](https://www.nexojornal.com.br/extra/2024/08/03/brasil-conquista-bronze-na-disputa-por-equipes-mistas-do-judo)
 - [A gestão financeira e o planejamento nos municípios](https://www.nexojornal.com.br/ensaio/2024/08/02/a-gestao-financeira-e-o-planejamento-nos-municipios)
 - [PAC vs. meta: o choque entre os principais ministros de Lula](https://www.nexojornal.com.br/expresso/2024/08/02/pac-vs-meta-o-choque-entre-os-principais-ministros-de-lula)
 - [O que a oposição já tem para dizer que venceu Maduro na Venezuela](https://www.nexojornal.com.br/expresso/2024/08/02/o-que-a-oposicao-ja-tem-para-dizer-que-venceu-maduro-na-venezuela)
 - [Líder do Hamas foi morto por bomba plantada meses antes](https://www.nexojornal.com.br/extra/2024/08/02/lider-do-hamas-foi-morto-por-bomba-plantada-ha-meses)
-- [A eleição contestada na Venezuela. O Brasil no pódio. E mais](https://www.nexojornal.com.br/video/2024/08/02/eleicao-venezuela-2024-resumo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
