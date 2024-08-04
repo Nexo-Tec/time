@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Diante da emergência climática, cabe participação social?](https://www.nexojornal.com.br/ensaio/2024/08/03/diante-da-emergencia-climatica-cabe-participacao-social)
+- [O acordo milionário com creches sob suspeita em São Paulo](https://www.nexojornal.com.br/externo/2024/08/03/o-acordo-milionario-com-creches-sob-suspeita-em-sao-paulo)
+- [Por que nos sentimos tão ‘roubados’ nas Olimpíadas](https://www.nexojornal.com.br/expresso/2024/08/03/por-que-nos-sentimos-tao-roubados-nas-olimpiadas)
 - [Bia Ferreira fica com bronze após derrota para irlandesa](https://www.nexojornal.com.br/extra/2024/08/03/bia-ferreira-fica-com-bronze-apos-derrota-para-irlandesa)
 - [Rebeca Andrade leva prata no salto e bate novo recorde](https://www.nexojornal.com.br/extra/2024/08/03/rebeca-andrade-leva-prata-no-salto-e-bate-novo-recorde)
-- [Brasil conquista bronze na disputa por equipes mistas do judô](https://www.nexojornal.com.br/extra/2024/08/03/brasil-conquista-bronze-na-disputa-por-equipes-mistas-do-judo)
-- [A gestão financeira e o planejamento nos municípios](https://www.nexojornal.com.br/ensaio/2024/08/02/a-gestao-financeira-e-o-planejamento-nos-municipios)
-- [PAC vs. meta: o choque entre os principais ministros de Lula](https://www.nexojornal.com.br/expresso/2024/08/02/pac-vs-meta-o-choque-entre-os-principais-ministros-de-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
