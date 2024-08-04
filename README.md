@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O ambiental e o climático nas políticas municipais](https://www.nexojornal.com.br/ensaio/2024/08/04/o-ambiental-e-o-climatico-nas-politicas-municipais)
+- [Como o Conselho Federal de Medicina se bolsonarizou](https://www.nexojornal.com.br/expresso/2024/08/04/bolsonarismo-no-conselho-federal-de-medicina-cfm)
+- [Brasil e outros países pedem que seus cidadãos deixem o Líbano](https://www.nexojornal.com.br/extra/2024/08/04/brasil-e-outros-paises-pedem-que-cidadaos-deixem-o-libano)
 - [Diante da emergência climática, cabe participação social?](https://www.nexojornal.com.br/ensaio/2024/08/03/diante-da-emergencia-climatica-cabe-participacao-social)
 - [O acordo milionário com creches sob suspeita em São Paulo](https://www.nexojornal.com.br/externo/2024/08/03/o-acordo-milionario-com-creches-sob-suspeita-em-sao-paulo)
-- [Por que nos sentimos tão ‘roubados’ nas Olimpíadas](https://www.nexojornal.com.br/expresso/2024/08/03/por-que-nos-sentimos-tao-roubados-nas-olimpiadas)
-- [Bia Ferreira fica com bronze após derrota para irlandesa](https://www.nexojornal.com.br/extra/2024/08/03/bia-ferreira-fica-com-bronze-apos-derrota-para-irlandesa)
-- [Rebeca Andrade leva prata no salto e bate novo recorde](https://www.nexojornal.com.br/extra/2024/08/03/rebeca-andrade-leva-prata-no-salto-e-bate-novo-recorde)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
