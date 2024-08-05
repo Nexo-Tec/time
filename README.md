@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Premiê deixa cargo após mês de protestos em Bangladesh](https://www.nexojornal.com.br/extra/2024/08/05/bangladesh-protestos-primeira-ministra-renuncia)
 - [Rebeca vence no solo e é a maior medalhista olímpica do Brasil](https://www.nexojornal.com.br/extra/2024/08/05/olimpiadas-rebeca-andrade-maior-medalhista-brasil)
 - [A nova corrida madeireira na Amazônia](https://www.nexojornal.com.br/externo/2024/08/04/a-nova-corrida-madeireira-na-amazonia)
 - [O ambiental e o climático nas políticas municipais](https://www.nexojornal.com.br/ensaio/2024/08/04/o-ambiental-e-o-climatico-nas-politicas-municipais)
 - [Como o Conselho Federal de Medicina se bolsonarizou](https://www.nexojornal.com.br/expresso/2024/08/04/bolsonarismo-no-conselho-federal-de-medicina-cfm)
-- [Brasil e outros países pedem que seus cidadãos deixem o Líbano](https://www.nexojornal.com.br/extra/2024/08/04/brasil-e-outros-paises-pedem-que-cidadaos-deixem-o-libano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
