@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A consagração da maior atleta olímpica da história do Brasil](https://www.nexojornal.com.br/podcast/2024/08/05/carreira-rebeca-andrade-maior-atleta-brasileira-em-olimpiadas)
+- [Juiz diz que Google violou lei dos EUA para dominar buscas](https://www.nexojornal.com.br/extra/2024/08/05/juiz-diz-que-google-violou-lei-dos-eua-para-dominar-buscas)
 - [Indígenas sofrem cerco de fazendeiros em Mato Grosso do Sul](https://www.nexojornal.com.br/extra/2024/08/05/indigenas-sofrem-cerco-de-fazendeiros-em-mato-grosso-do-sul)
 - [Qual é o compromisso ético dos juízes nas Olimpíadas](https://www.nexojornal.com.br/expresso/2024/08/05/qual-e-o-compromisso-etico-dos-juizes-nas-olimpiadas)
 - [Premiê deixa cargo após mês de protestos em Bangladesh](https://www.nexojornal.com.br/extra/2024/08/05/bangladesh-protestos-primeira-ministra-renuncia)
-- [Rebeca vence no solo e é a maior medalhista olímpica do Brasil](https://www.nexojornal.com.br/extra/2024/08/05/olimpiadas-rebeca-andrade-maior-medalhista-brasil)
-- [A nova corrida madeireira na Amazônia](https://www.nexojornal.com.br/externo/2024/08/04/a-nova-corrida-madeireira-na-amazonia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
