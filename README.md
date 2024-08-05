@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Deus existir ou não: o mesmo escândalo](https://gamarevista.uol.com.br/colunistas/fernando-luna/deus-existir-ou-nao-o-mesmo-escandalo/)
 - [Cartas Pókemon](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cartas-pokemon/)
 - [Alexandre Patrício:  “A ansiedade quer controlar tudo, não consegue lidar com a imprevisibilidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/alexandre-patricio-ansiedade-imprevisibilidade/)
 - [Bambino a Roma](https://gamarevista.uol.com.br/cultura/trecho-de-livro/bambino-a-roma/)
 - [Por um jornalismo que mire uma democracia radical](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/por-um-jornalismo-que-mire-uma-democracia-radical/)
-- [Uma mostra com mais de 150 obras de J. Borges no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-mostra-com-mais-de-150-obras-de-j-borges-no-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
