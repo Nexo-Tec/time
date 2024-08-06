@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Promotoria aponta milícia de guardas civis no centro de SP](https://www.nexojornal.com.br/extra/2024/08/06/acao-mira-guarda-municipais-suspeitos-de-integrar-milicia)
 - [Quantos atletas LGBTI+ estão nas Olimpíadas de Paris](https://www.nexojornal.com.br/grafico/2024/08/06/olimpiadas-paris-2024-jogos-olimpicos-atletas-lgbti)
 - [Reino Unido prende mais de 400 por protestos xenofóbicos](https://www.nexojornal.com.br/extra/2024/08/06/reino-unido-chama-6-mil-policiais-para-lidar-com-atos-extremistas)
 - [A ciência no plano de industrialização do governo](https://www.nexojornal.com.br/colunistas/2024/08/06/a-ciencia-no-plano-de-industrializacao-do-governo)
 - [Supremo venezuelano convoca González após ele se declarar eleito](https://www.nexojornal.com.br/extra/2024/08/06/suprema-corte-convoca-gonzalez-para-questionamentos)
-- [Com mar sem ondas, Brasil conquista medalhas no surfe](https://www.nexojornal.com.br/extra/2024/08/06/com-mar-sem-ondas-brasil-conquista-medalhas-no-surfe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
