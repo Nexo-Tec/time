@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Com mar sem ondas, Brasil conquista medalhas no surfe](https://www.nexojornal.com.br/extra/2024/08/06/com-mar-sem-ondas-brasil-conquista-medalhas-no-surfe)
 - [As políticas para aprimorar a inclusão de cientistas mães no país](https://www.nexojornal.com.br/externo/2024/08/05/as-politicas-para-aprimorar-a-inclusao-de-cientistas-maes-no-pais)
 - [Os ‘Dream Teams’ do basquete americano nas Olimpíadas](https://www.nexojornal.com.br/expresso/2024/08/05/dream-team-basquete-eua-estados-unidos-olimpiadas)
 - [Por que o Japão sofreu mais com a queda geral das bolsas](https://www.nexojornal.com.br/expresso/2024/08/05/por-que-o-japao-sofreu-mais-com-a-queda-geral-das-bolsas)
 - [Prisões brasileiras aumentam risco de adoecer e de morrer por causas violentas](https://www.nexojornal.com.br/externo/2024/08/05/prisoes-brasileiras-aumentam-risco-de-adoecer-e-de-morrer-por-causas-violentas)
-- [A consagração da maior atleta olímpica da história do Brasil](https://www.nexojornal.com.br/podcast/2024/08/05/carreira-rebeca-andrade-maior-atleta-brasileira-em-olimpiadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
