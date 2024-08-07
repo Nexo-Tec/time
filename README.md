@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dá para conservar parques nacionais com gente morando neles?](https://www.nexojornal.com.br/externo/2024/08/07/da-para-conservar-parques-nacionais-com-gente-morando-neles)
 - [Augusto Akio leva bronze no skate park nos Jogos de Paris](https://www.nexojornal.com.br/extra/2024/08/07/augusto-akio-olimpiadas-de-paris-skate-park-brasil-bronze)
 - [Como a ‘conciliação’ do marco temporal agrava a crise indígena](https://www.nexojornal.com.br/expresso/2024/08/06/povos-indigenas-guarani-kaiowa-disputa-mato-grosso-do-sul)
 - [A Ordem dos Cientistas do Brasil](https://www.nexojornal.com.br/colunistas/2024/08/06/comite-de-etica-em-pesquisa-regulamentacao-cientistas-brasil)
 - [‘No Brasil, trabalho baseado na violência criou autoritarismo’](https://www.nexojornal.com.br/entrevista/2024/08/06/luiz-felipe-alencastro-livro-ditadura-militar-despotismo-tropical)
-- [O que os vices agregam à campanha nos Estados Unidos](https://www.nexojornal.com.br/podcast/2024/08/06/tim-walz-vice-presidente-papel-nas-eleicoes-eua-estados-unidos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
