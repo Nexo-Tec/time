@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [TCU deixa Lula ficar com relógio e abre brecha para Bolsonaro](https://www.nexojornal.com.br/extra/2024/08/07/tcu-deixa-lula-ficar-com-relogio-e-abre-brecha-para-bolsonaro)
+- [Orçamento secreto: o escândalo insepulto a que o STF tenta dar fim](https://www.nexojornal.com.br/podcast/2024/08/07/fim-do-orcamento-secreto-flavio-dino)
 - [Taxação de prêmio no esporte segue regras do IR, diz Receita](https://www.nexojornal.com.br/extra/2024/08/07/imposto-premiacao-medalhas-olimpiadas-atletas-brasileiros)
 - [Dá para conservar parques nacionais com gente morando neles?](https://www.nexojornal.com.br/externo/2024/08/07/da-para-conservar-parques-nacionais-com-gente-morando-neles)
 - [Augusto Akio leva bronze no skate park nos Jogos de Paris](https://www.nexojornal.com.br/extra/2024/08/07/augusto-akio-olimpiadas-de-paris-skate-park-brasil-bronze)
-- [Como a ‘conciliação’ do marco temporal agrava a crise indígena](https://www.nexojornal.com.br/expresso/2024/08/06/povos-indigenas-guarani-kaiowa-disputa-mato-grosso-do-sul)
-- [A Ordem dos Cientistas do Brasil](https://www.nexojornal.com.br/colunistas/2024/08/06/comite-de-etica-em-pesquisa-regulamentacao-cientistas-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
