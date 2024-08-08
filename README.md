@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Atletas que ganharam a nossa torcida em Paris](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/atletas-que-ganharam-a-nossa-torcida-em-paris/)
 - [Ícaro Silva](https://gamarevista.uol.com.br/pessoas/questionario-proust/icaro-silva/)
 - [Skate feminino](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/skate-feminino/)
 - [Deus existir ou não: o mesmo escândalo](https://gamarevista.uol.com.br/colunistas/fernando-luna/deus-existir-ou-nao-o-mesmo-escandalo/)
 - [Cartas Pókemon](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/cartas-pokemon/)
-- [Alexandre Patrício:  “A ansiedade quer controlar tudo, não consegue lidar com a imprevisibilidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/alexandre-patricio-ansiedade-imprevisibilidade/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
