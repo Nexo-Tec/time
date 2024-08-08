@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes manda soltar ex-chefe da Polícia Rodoviária Federal](https://www.nexojornal.com.br/extra/2024/08/08/moraes-manda-soltar-silvinei)
+- [A idade dos atletas que disputam os Jogos Olímpicos de Paris](https://www.nexojornal.com.br/grafico/2024/08/08/idade-atletas-paris-2024)
 - [O que acontece quando modelos de IA se alimentam de IA](https://www.nexojornal.com.br/expresso/2024/08/07/treinamento-inteligencia-artificial-dados-sinteticos)
 - [O que move a violência da extrema direita no Reino Unido](https://www.nexojornal.com.br/expresso/2024/08/07/o-que-move-a-violencia-da-extrema-direita-no-reino-unido)
 - [Apoiar o bolsonarismo de Maduro é erro estratégico](https://www.nexojornal.com.br/colunistas/2024/08/07/apoiar-o-bolsonarismo-de-maduro-e-erro-estrategico)
-- [Como influenciadores estão cobrindo as Olimpíadas de Paris](https://www.nexojornal.com.br/expresso/2024/08/07/como-influenciadores-estao-cobrindo-as-olimpiadas-de-paris)
-- [TCU deixa Lula ficar com relógio e abre brecha para Bolsonaro](https://www.nexojornal.com.br/extra/2024/08/07/tcu-deixa-lula-ficar-com-relogio-e-abre-brecha-para-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
