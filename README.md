@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O festival de cinema que só exibe filmes de gatinhos](https://www.nexojornal.com.br/expresso/2024/08/09/o-festival-de-cinema-que-so-exibe-filmes-de-gatinhos)
 - [Por que medir a pobreza pode depender da desigualdade](https://www.nexojornal.com.br/academico/2024/08/09/pesquisa-peter-townsend-teoria-da-pobreza-desigualdade)
 - [Alison dos Santos repete Tóquio e fica com bronze em Paris](https://www.nexojornal.com.br/extra/2024/08/09/alison-dos-santos-medalha-olimpiadas-paris)
-- [Avião com 62 pessoas a bordo cai no interior de São Paulo](https://www.nexojornal.com.br/extra/2024/08/09/aviao-cai-em-vinhedo-sp)
+- [Avião com 61 pessoas a bordo cai no interior de São Paulo](https://www.nexojornal.com.br/extra/2024/08/09/aviao-cai-em-vinhedo-sp)
 - [Moraes manda soltar Filipe Martins, ex-assessor de Bolsonaro](https://www.nexojornal.com.br/extra/2024/08/09/alexandre-de-moraes-manda-soltar-filipe-martins-aliado-de-bolsonaro)
-- [Isaquias é prata na canoagem, sua 5ª medalha olímpica](https://www.nexojornal.com.br/extra/2024/08/09/isaquias-prata-canoagem-olimpiadas-paris)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
