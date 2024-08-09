@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 pioneiros da visualização de dados que você precisa conhecer](https://www.nexojornal.com.br/grafico/2024/08/09/cinco-pioneiros-visualizacao-dados)
 - [A queda do avião em Vinhedo. O recorde de Rebeca. E mais](https://www.nexojornal.com.br/video/2024/08/09/a-queda-do-aviao-em-vinhedo-o-recorde-de-rebeca-e-mais)
 - [5 romances contemporâneos com personagens LGBTI+](https://www.nexojornal.com.br/estante-favoritos/2024/08/09/5-romances-contemporaneos-com-personagens-lgbti)
 - [‘Cachorros’: o agente da ditadura militar infiltrado no PCB](https://www.nexojornal.com.br/estante-trechos/2024/08/09/cachorros-o-agente-da-ditadura-militar-infiltrado-no-pcb)
 - [Um homem na estrada](https://www.nexojornal.com.br/externo/2024/08/09/um-homem-na-estrada)
-- [Brasileiras vencem canadenses e levam ouro no vôlei de praia](https://www.nexojornal.com.br/extra/2024/08/09/duda-ana-patricia-volei-de-praia-ouro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
