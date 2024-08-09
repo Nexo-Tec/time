@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Avião com 62 pessoas a bordo cai no interior de São Paulo](https://www.nexojornal.com.br/extra/2024/08/09/aviao-cai-em-vinhedo-sp)
 - [Moraes manda soltar Filipe Martins, ex-assessor de Bolsonaro](https://www.nexojornal.com.br/extra/2024/08/09/alexandre-de-moraes-manda-soltar-filipe-martins-aliado-de-bolsonaro)
 - [Isaquias é prata na canoagem, sua 5ª medalha olímpica](https://www.nexojornal.com.br/extra/2024/08/09/isaquias-prata-canoagem-olimpiadas-paris)
 - [Por que o governo federal quer mexer em suas polícias](https://www.nexojornal.com.br/expresso/2024/08/08/pec-da-seguranca-publica-policia-federal-governo-lula)
 - [‘Nexo’ participa de nova fase do projeto de checagem Comprova](https://www.nexojornal.com.br/expresso/2024/08/08/nexo-participa-de-nova-fase-do-projeto-de-checagem-comprova)
-- [Como as operadoras influenciam o PL dos Planos no Congresso](https://www.nexojornal.com.br/externo/2024/08/08/pl-dos-planos-de-saude-congresso-lobby)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
