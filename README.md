@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Mito do Mito](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-mito-do-mito/)
 - [Milton Nascimento e Esperanza Spalding no “Tiny Desk”, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/milton-nascimento-e-esperanza-spalding-no-tiny-desk-no-youtube/)
 - [Filme com Matheus Nachtergaele premiado em Gramado, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-com-matheus-nachtergaele-premiado-em-gramado-nos-cinemas/)
 - [O podcast feminista “Incomodada Ficava a Sua Avó”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-feminista-incomodada-ficava-a-sua-avo/)
 - [Show, teatro, dança e mais no Festival Sesc Mesa Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/show-teatro-danca-e-mais-no-festival-sesc-mesa-brasil/)
-- [Exposição “A Terra do Mar”, de Poli Pieratti, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-a-terra-do-mar-de-poli-pieratti-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
