@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Políticas públicas relacionadas à longevidade no Brasil e no mundo](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/09/politicas-publicas-relacionadas-a-longevidade-no-brasil/)
+- [Sistema agroalimentar brasileiro e mudanças climáticas](https://pp.nexojornal.com.br/glossario/2024/08/09/sistema-agroalimentar-brasileiro-e-mudancas-climaticas/)
 - [Como terras indígenas contribuem para a conservação e restauração de florestas na Amazônia brasileira](https://pp.nexojornal.com.br/academico/2024/08/08/como-terras-indigenas-contribuem-para-a-conservacao-e-restauracao-de-florestas-na-amazonia-brasileira/)
 - [Qual o legado dos megaeventos esportivos para o controle de manifestações no Brasil](https://pp.nexojornal.com.br/academico/2024/08/08/qual-o-legado-dos-megaeventos-esportivos-para-o-controle-de-manifestacoes-no-brasil/)
 - [Práticas e tradições afrorreligiosas](https://pp.nexojornal.com.br/glossario/2024/08/08/praticas-e-tradicoes-afrorreligiosas/)
-- [Cotas e educação básica: os efeitos da pandemia de covid-19 no ensino médio integrado](https://pp.nexojornal.com.br/opiniao/2024/08/01/cotas-e-educacao-basica-os-efeitos-da-pandemia-de-covid-19-no-ensino-medio-integrado/)
-- [Fórmulas lácteas comerciais para crianças maiores de um ano: como a indústria molda as pesquisas sobre o tema](https://pp.nexojornal.com.br/academico/2024/08/01/formulas-lacteas-comerciais-para-criancas-maiores-de-um-ano-como-a-industria-molda-as-pesquisas-sobre-o-tema/)
 <!-- PP_LIST:END -->
 
