@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O festival de cinema que só exibe filmes de gatinhos](https://www.nexojornal.com.br/expresso/2024/08/09/o-festival-de-cinema-que-so-exibe-filmes-de-gatinhos)
-- [Por que medir a pobreza pode depender da desigualdade](https://www.nexojornal.com.br/academico/2024/08/09/pesquisa-peter-townsend-teoria-da-pobreza-desigualdade)
-- [Alison dos Santos repete Tóquio e fica com bronze em Paris](https://www.nexojornal.com.br/extra/2024/08/09/alison-dos-santos-medalha-olimpiadas-paris)
-- [Avião com 61 pessoas a bordo cai no interior de São Paulo](https://www.nexojornal.com.br/extra/2024/08/09/aviao-cai-em-vinhedo-sp)
-- [Moraes manda soltar Filipe Martins, ex-assessor de Bolsonaro](https://www.nexojornal.com.br/extra/2024/08/09/alexandre-de-moraes-manda-soltar-filipe-martins-aliado-de-bolsonaro)
+- [A queda do avião em Vinhedo. O recorde de Rebeca. E mais](https://www.nexojornal.com.br/video/2024/08/09/a-queda-do-aviao-em-vinhedo-o-recorde-de-rebeca-e-mais)
+- [5 romances contemporâneos com personagens LGBTI+](https://www.nexojornal.com.br/estante-favoritos/2024/08/09/5-romances-contemporaneos-com-personagens-lgbti)
+- [‘Cachorros’: o agente da ditadura militar infiltrado no PCB](https://www.nexojornal.com.br/estante-trechos/2024/08/09/cachorros-o-agente-da-ditadura-militar-infiltrado-no-pcb)
+- [Um homem na estrada](https://www.nexojornal.com.br/externo/2024/08/09/um-homem-na-estrada)
+- [Brasileiras vencem canadenses e levam ouro no vôlei de praia](https://www.nexojornal.com.br/extra/2024/08/09/duda-ana-patricia-volei-de-praia-ouro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
