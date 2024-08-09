@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o governo federal quer mexer em suas polícias](https://www.nexojornal.com.br/expresso/2024/08/08/pec-da-seguranca-publica-policia-federal-governo-lula)
+- [‘Nexo’ participa de nova fase do projeto de checagem Comprova](https://www.nexojornal.com.br/expresso/2024/08/08/nexo-participa-de-nova-fase-do-projeto-de-checagem-comprova)
+- [Como as operadoras influenciam o PL dos Planos no Congresso](https://www.nexojornal.com.br/externo/2024/08/08/pl-dos-planos-de-saude-congresso-lobby)
 - [O custo da inação verde no setor de defesa brasileiro](https://www.nexojornal.com.br/ensaio/2024/08/08/o-custo-da-inacao-verde-no-setor-de-defesa-brasileiro)
 - [O perfil que compara imagens olímpicas a obras de arte](https://www.nexojornal.com.br/expresso/2024/08/08/olimpiadas-obras-de-arte-art-but-make-it-sports)
-- [Por que Brasil e Nicarágua romperam relações diplomáticas](https://www.nexojornal.com.br/podcast/2024/08/08/brasil-nicaragua-crise-diplomatica-relacoes-internacionais)
-- [Edival Pontes conquista bronze no taekwondo em Paris](https://www.nexojornal.com.br/extra/2024/08/08/edival-pontes-bronze-taekwondo-olimpiadas-de-paris)
-- [O que pensa o papa Francisco sobre a literatura](https://www.nexojornal.com.br/expresso/2024/08/08/papa-francisco-literatura-educacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
