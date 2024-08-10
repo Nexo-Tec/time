@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil leva medalha de prata no futebol feminino em Paris](https://www.nexojornal.com.br/extra/2024/08/10/brasil-final-futebol-feminino-olimpiadas-paris)
 - [Novo El Niño? O padrão climático descoberto por cientistas](https://www.nexojornal.com.br/expresso/2024/08/09/clima-cientistas-descobrem-padrao-climatico-similar-ao-el-nino)
 - [Emergências climáticas: nova rotina nas cidades brasileiras](https://www.nexojornal.com.br/debate/2024/08/09/emergencias-climaticas-nova-rotina-nas-cidades-brasileiras)
 - [Por que árvores da Mata Atlântica estão mudando de lugar](https://www.nexojornal.com.br/expresso/2024/08/09/por-que-arvores-da-mata-atlantica-estao-mudando-de-lugar)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/09/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-2)
-- [5 pioneiros da visualização de dados que você precisa conhecer](https://www.nexojornal.com.br/grafico/2024/08/09/cinco-pioneiros-visualizacao-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
