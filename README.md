@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ataque de Israel a escola deixou dezenas de mortos em Gaza](https://www.nexojornal.com.br/extra/2024/08/10/ataque-de-israel-a-escola-deixou-dezenas-de-mortos-em-gaza)
+- [Ataque de Israel a escola deixa dezenas de mortos em Gaza](https://www.nexojornal.com.br/extra/2024/08/10/ataque-de-israel-a-escola-deixou-dezenas-de-mortos-em-gaza)
 - [Time feminino de vôlei conquista medalha de bronze para o Brasil](https://www.nexojornal.com.br/extra/2024/08/10/time-feminino-de-volei-conquista-medalha-de-bronze-para-o-brasil)
 - [Brasil leva medalha de prata no futebol feminino em Paris](https://www.nexojornal.com.br/extra/2024/08/10/brasil-final-futebol-feminino-olimpiadas-paris)
 - [Novo El Niño? O padrão climático descoberto por cientistas](https://www.nexojornal.com.br/expresso/2024/08/09/clima-cientistas-descobrem-padrao-climatico-similar-ao-el-nino)
