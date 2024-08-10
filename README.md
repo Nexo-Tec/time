@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataque de Israel a escola deixou dezenas de mortos em Gaza](https://www.nexojornal.com.br/extra/2024/08/10/ataque-de-israel-a-escola-deixou-dezenas-de-mortos-em-gaza)
 - [Time feminino de vôlei conquista medalha de bronze para o Brasil](https://www.nexojornal.com.br/extra/2024/08/10/time-feminino-de-volei-conquista-medalha-de-bronze-para-o-brasil)
 - [Brasil leva medalha de prata no futebol feminino em Paris](https://www.nexojornal.com.br/extra/2024/08/10/brasil-final-futebol-feminino-olimpiadas-paris)
 - [Novo El Niño? O padrão climático descoberto por cientistas](https://www.nexojornal.com.br/expresso/2024/08/09/clima-cientistas-descobrem-padrao-climatico-similar-ao-el-nino)
 - [Emergências climáticas: nova rotina nas cidades brasileiras](https://www.nexojornal.com.br/debate/2024/08/09/emergencias-climaticas-nova-rotina-nas-cidades-brasileiras)
-- [Por que árvores da Mata Atlântica estão mudando de lugar](https://www.nexojornal.com.br/expresso/2024/08/09/por-que-arvores-da-mata-atlantica-estao-mudando-de-lugar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
