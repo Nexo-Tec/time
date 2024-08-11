@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil termina Olimpíadas de Paris com 20 medalhas](https://www.nexojornal.com.br/extra/2024/08/11/posicao-do-brasil-nas-olimpiadas-de-paris-2024)
 - [O caminho do esporte feminino do Brasil até o recorde em Paris](https://www.nexojornal.com.br/expresso/2024/08/10/o-caminho-do-esporte-feminino-do-brasil-ate-o-recorde-em-paris)
 - [O que as unhas podem nos contar sobre a nossa saúde](https://www.nexojornal.com.br/externo/2024/08/10/o-que-as-unhas-podem-nos-contar-sobre-a-nossa-saude)
 - [O autismo se transformou em um grande negócio?](https://www.nexojornal.com.br/ensaio/2024/08/10/o-autismo-se-transformou-em-um-grande-negocio)
 - [Por que meninos têm dúvidas sobre o amor paterno](https://www.nexojornal.com.br/expresso/2024/08/10/meninos-amor-paterno)
-- [Ataque de Israel a escola deixa dezenas de mortos em Gaza](https://www.nexojornal.com.br/extra/2024/08/10/ataque-de-israel-a-escola-deixou-dezenas-de-mortos-em-gaza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
