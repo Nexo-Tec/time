@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O boicote oficial ao programa de redução de agrotóxicos](https://www.nexojornal.com.br/externo/2024/08/11/o-boicote-oficial-ao-programa-de-reducao-de-agrotoxicos)
+- [Resíduos sólidos no contexto de emergência climática](https://www.nexojornal.com.br/debate/2024/08/11/residuos-solidos-no-contexto-de-emergencia-climatica)
+- [O que marca a atual onda de incêndios florestais no Pantanal](https://www.nexojornal.com.br/expresso/2024/08/11/incendios-pantanal-chuva-agosto)
+- [Polícia Civil abre investigação sobre queda de avião](https://www.nexojornal.com.br/extra/2024/08/11/acidente-de-aviao-em-vinhedo-investigacao)
 - [Brasil termina Olimpíadas de Paris com 20 medalhas](https://www.nexojornal.com.br/extra/2024/08/11/posicao-do-brasil-nas-olimpiadas-de-paris-2024)
-- [O caminho do esporte feminino do Brasil até o recorde em Paris](https://www.nexojornal.com.br/expresso/2024/08/10/o-caminho-do-esporte-feminino-do-brasil-ate-o-recorde-em-paris)
-- [O que as unhas podem nos contar sobre a nossa saúde](https://www.nexojornal.com.br/externo/2024/08/10/o-que-as-unhas-podem-nos-contar-sobre-a-nossa-saude)
-- [O autismo se transformou em um grande negócio?](https://www.nexojornal.com.br/ensaio/2024/08/10/o-autismo-se-transformou-em-um-grande-negocio)
-- [Por que meninos têm dúvidas sobre o amor paterno](https://www.nexojornal.com.br/expresso/2024/08/10/meninos-amor-paterno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
