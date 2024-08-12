@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o alho é uma das plantas mais versáteis do mundo](https://www.nexojornal.com.br/externo/2024/08/12/por-que-o-alho-e-uma-das-plantas-mais-versateis-do-mundo)
 - [Morre economista Delfim Netto aos 96 anos em São Paulo](https://www.nexojornal.com.br/extra/2024/08/12/morre-economista-delfim-netto-aos-96-anos-em-sao-paulo)
 - [O boicote oficial ao programa de redução de agrotóxicos](https://www.nexojornal.com.br/externo/2024/08/11/o-boicote-oficial-ao-programa-de-reducao-de-agrotoxicos)
 - [Resíduos sólidos no contexto de emergência climática](https://www.nexojornal.com.br/debate/2024/08/11/residuos-solidos-no-contexto-de-emergencia-climatica)
 - [O que marca a atual onda de incêndios florestais no Pantanal](https://www.nexojornal.com.br/expresso/2024/08/11/incendios-pantanal-chuva-agosto)
-- [Polícia Civil abre investigação sobre queda de avião](https://www.nexojornal.com.br/extra/2024/08/11/acidente-de-aviao-em-vinhedo-investigacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
