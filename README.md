@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A volta à realidade da política após o fim dos Jogos na França](https://www.nexojornal.com.br/podcast/2024/08/12/pressao-politica-franca-macron-pos-olimpiadas-paris-2024)
 - [A aposta da Globo num reality show de confinamento musical](https://www.nexojornal.com.br/expresso/2024/08/12/reality-musical-globo-estrela-da-casa)
 - [Por que o alho é uma das plantas mais versáteis do mundo](https://www.nexojornal.com.br/externo/2024/08/12/por-que-o-alho-e-uma-das-plantas-mais-versateis-do-mundo)
 - [Morre economista Delfim Netto aos 96 anos em São Paulo](https://www.nexojornal.com.br/extra/2024/08/12/morre-economista-delfim-netto-aos-96-anos-em-sao-paulo)
 - [O boicote oficial ao programa de redução de agrotóxicos](https://www.nexojornal.com.br/externo/2024/08/11/o-boicote-oficial-ao-programa-de-reducao-de-agrotoxicos)
-- [Resíduos sólidos no contexto de emergência climática](https://www.nexojornal.com.br/debate/2024/08/11/residuos-solidos-no-contexto-de-emergencia-climatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
