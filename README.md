@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Incêndio florestal provoca evacuação de cidades na Grécia](https://www.nexojornal.com.br/extra/2024/08/13/incendio-florestal-provoca-evacuacao-de-cidades-na-grecia)
 - [Como a transição energética gera conflitos no Brasil](https://www.nexojornal.com.br/expresso/2024/08/12/transicao-energetica-impacto-meio-ambiente-e-direitos-humanos)
 - [A destruição do santuário das araras azuis no Pantanal](https://www.nexojornal.com.br/externo/2024/08/12/a-destruicao-do-santuario-das-araras-azuis-no-pantanal)
 - [Como funcionam as investigações de acidentes aéreos](https://www.nexojornal.com.br/expresso/2024/08/12/aviao-cai-investigacao-acidente-aereo-como-funciona)
 - [Milhares deixam região russa em que tropas ucranianas avançam](https://www.nexojornal.com.br/extra/2024/08/12/ofensiva-ucraniana-sobre-russia-evacuacoes-kursk)
-- [A volta à realidade da política após o fim dos Jogos na França](https://www.nexojornal.com.br/podcast/2024/08/12/pressao-politica-franca-macron-pos-olimpiadas-paris-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
