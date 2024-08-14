@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Márcia Lima](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-marcia-lima/)
 - [@raygun_aus](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/raygun_aus/)
 - [Julia Konrad](https://gamarevista.uol.com.br/pessoas/questionario-proust/julia-konrad/)
 - [Thiago Queiroz: “Sempre foi muito difícil trazer o homem para a conversa da parentalidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thiago-queiroz-paternidade/)
 - [Na minha Olimpíada ninguém mexe](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/na-minha-olimpiada-ninguem-mexe/)
-- [O Mito do Mito](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-mito-do-mito/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
