@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o lugar de Gramado no circuito de festivais de cinema](https://www.nexojornal.com.br/expresso/2024/08/13/festival-de-gramado-importancia-no-cinema-brasileiro)
+- [Como o Piauí virou referência no combate a roubos de celular](https://www.nexojornal.com.br/expresso/2024/08/13/como-o-piaui-diminuiu-numero-de-roubo-e-furto-de-celular)
+- [Como os juros altos viraram tema nas eleições americanas](https://www.nexojornal.com.br/expresso/2024/08/13/eleicao-eua-fed-federal-reserve-juros-altos)
 - [A profusão de golpes após o desastre aéreo em Vinhedo](https://www.nexojornal.com.br/podcast/2024/08/13/acidente-aviao-vinhedo-golpe)
 - [O fim da greve de servidores ambientais após 11 meses](https://www.nexojornal.com.br/externo/2024/08/13/fim-da-greve-de-servidores-ambientais-acordo-governo)
-- [Recurso dos EUA é negado e ginasta romena leva bronze](https://www.nexojornal.com.br/extra/2024/08/13/recurso-dos-eua-e-negado-e-ginasta-romena-leva-bronze)
-- [O escritor que pôs a Amazônia nas listas de mais vendidos](https://www.nexojornal.com.br/externo/2024/08/13/o-escritor-que-pos-a-amazonia-nas-listas-de-mais-vendidos)
-- [A história das Olimpíadas de Paris em fotos](https://www.nexojornal.com.br/especial/2024/08/13/as-melhores-fotos-das-olimpiadas-paris-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
