@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Mpox volta a ser classificada como emergência global](https://www.nexojornal.com.br/extra/2024/08/14/mpox-emergencia-global-oms)
 - [O que o ciclo menstrual pode sinalizar sobre a sua saúde](https://www.nexojornal.com.br/externo/2024/08/14/o-que-o-ciclo-menstrual-pode-sinalizar-sobre-a-sua-saude)
 - [Primeiro-ministro do Japão anuncia que vai deixar o cargo](https://www.nexojornal.com.br/extra/2024/08/14/fumio-kushida-primeiro-ministro-do-japao-renuncia)
 - [Moraes fez pedidos informais a TSE para usar no STF, diz jornal](https://www.nexojornal.com.br/extra/2024/08/13/moraes-fez-pedidos-informais-a-tse-para-usar-no-stf-diz-jornal)
 - [Qual o lugar de Gramado no circuito de festivais de cinema](https://www.nexojornal.com.br/expresso/2024/08/13/festival-de-gramado-importancia-no-cinema-brasileiro)
-- [Como o Piauí virou referência no combate a roubos de celular](https://www.nexojornal.com.br/expresso/2024/08/13/como-o-piaui-diminuiu-numero-de-roubo-e-furto-de-celular)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
