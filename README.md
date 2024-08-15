@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A colaboração entre ciência e futebol](https://www.nexojornal.com.br/externo/2024/08/15/a-colaboracao-entre-ciencia-e-futebol)
 - [7 meios para ampliar o uso de energias renováveis no Brasil](https://www.nexojornal.com.br/expresso/2024/08/15/solucoes-energia-renovavel-sistema-eletrico)
 - [Quais questões levanta o duto TSE-Supremo usado por Moraes](https://www.nexojornal.com.br/expresso/2024/08/14/alexandre-de-moraes-relacao-tse-supremo)
 - [Ditadura militar: resistência feminina e o poder das imagens](https://www.nexojornal.com.br/academico/2024/08/14/ditadura-militar-resistencia-feminina-e-o-poder-das-imagens)
 - [Brasil não atingiu maioria das metas para educação básica](https://www.nexojornal.com.br/extra/2024/08/14/brasil-nao-atingiu-maioria-das-metas-para-educacao-basica)
-- [O histórico de medalhas olímpicas do Brasil](https://www.nexojornal.com.br/grafico/2024/08/14/desempenho-do-brasil-nas-olimpiadas-historico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
