@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Procuradores acusam 5 pessoas por fornecer droga a Matthew Perry](https://www.nexojornal.com.br/extra/2024/08/15/matthew-perry-morte-presos-denuncia)
 - [Número de mortos na Faixa de Gaza ultrapassa 40 mil](https://www.nexojornal.com.br/extra/2024/08/15/faixa-de-gaza-numero-de-mortos-conflito-israel-40-mil)
 - [O crescimento das decisões pela guarda compartilhada](https://www.nexojornal.com.br/externo/2024/08/15/o-crescimento-das-decisoes-pela-guarda-compartilhada)
 - [Senado aprova PEC da Anistia e texto vai à promulgação](https://www.nexojornal.com.br/extra/2024/08/15/senado-aprova-pec-da-anistia-e-texto-vai-a-promulgacao)
 - [A colaboração entre ciência e futebol](https://www.nexojornal.com.br/externo/2024/08/15/a-colaboracao-entre-ciencia-e-futebol)
-- [7 meios para ampliar o uso de energias renováveis no Brasil](https://www.nexojornal.com.br/expresso/2024/08/15/solucoes-energia-renovavel-sistema-eletrico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
