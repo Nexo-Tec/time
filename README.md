@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ditadura militar: resistência feminina e o poder das imagens](https://www.nexojornal.com.br/academico/2024/08/14/ditadura-militar-resistencia-feminina-e-o-poder-das-imagens)
+- [Brasil não atingiu maioria das metas para educação básica](https://www.nexojornal.com.br/extra/2024/08/14/brasil-nao-atingiu-maioria-das-metas-para-educacao-basica)
+- [O histórico de medalhas olímpicas do Brasil até Paris 2024](https://www.nexojornal.com.br/grafico/2024/08/14/desempenho-do-brasil-nas-olimpiadas-historico)
+- [O inquérito do STF que concentrou poder em Alexandre de Moraes](https://www.nexojornal.com.br/podcast/2024/08/14/alexandre-de-moraes-inquerito-das-fake-news-stf-tse)
 - [Os resultados do teste da semana de 4 dias de trabalho no Brasil](https://www.nexojornal.com.br/expresso/2024/08/14/semana-de-4-dias-de-trabalho-no-brasil-teste)
-- [Mpox volta a ser classificada como emergência global](https://www.nexojornal.com.br/extra/2024/08/14/mpox-emergencia-global-oms)
-- [O que o ciclo menstrual pode sinalizar sobre a sua saúde](https://www.nexojornal.com.br/externo/2024/08/14/o-que-o-ciclo-menstrual-pode-sinalizar-sobre-a-sua-saude)
-- [Primeiro-ministro do Japão anuncia que vai deixar o cargo](https://www.nexojornal.com.br/extra/2024/08/14/fumio-kushida-primeiro-ministro-do-japao-renuncia)
-- [Moraes fez pedidos informais a TSE para usar no STF, diz jornal](https://www.nexojornal.com.br/extra/2024/08/13/moraes-fez-pedidos-informais-a-tse-para-usar-no-stf-diz-jornal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
