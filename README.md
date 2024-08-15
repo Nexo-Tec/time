@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O crescimento das decisões pela guarda compartilhada](https://www.nexojornal.com.br/externo/2024/08/15/o-crescimento-das-decisoes-pela-guarda-compartilhada)
 - [Senado aprova PEC da Anistia e texto vai à promulgação](https://www.nexojornal.com.br/extra/2024/08/15/senado-aprova-pec-da-anistia-e-texto-vai-a-promulgacao)
 - [A colaboração entre ciência e futebol](https://www.nexojornal.com.br/externo/2024/08/15/a-colaboracao-entre-ciencia-e-futebol)
 - [7 meios para ampliar o uso de energias renováveis no Brasil](https://www.nexojornal.com.br/expresso/2024/08/15/solucoes-energia-renovavel-sistema-eletrico)
 - [Quais questões levanta o duto TSE-Supremo usado por Moraes](https://www.nexojornal.com.br/expresso/2024/08/14/alexandre-de-moraes-relacao-tse-supremo)
-- [Ditadura militar: resistência feminina e o poder das imagens](https://www.nexojornal.com.br/academico/2024/08/14/ditadura-militar-resistencia-feminina-e-o-poder-das-imagens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
