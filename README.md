@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Torrando tumores com nanotecnologia magnética](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/torrando-tumores-com-nanotecnologia-magnetica/)
-- [CV: Márcia Lima](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-marcia-lima/)
-- [@raygun_aus](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/raygun_aus/)
-- [Julia Konrad](https://gamarevista.uol.com.br/pessoas/questionario-proust/julia-konrad/)
-- [Thiago Queiroz: “Sempre foi muito difícil trazer o homem para a conversa da parentalidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thiago-queiroz-paternidade/)
+- [Podcast “Zen Vergonha”, de Fernanda Lima](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-zen-vergonha-de-fernanda-lima/)
+- [A nova temporada de “Os Outros”, no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-os-outros-no-globoplay/)
+- [“Portal”, quinto álbum do rapper Rashid](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/portal-quinto-album-do-rapper-rashid/)
+- [Diálogos sobre a emergência climática no Tomie Ohtake, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/dialogos-sobre-a-emergencia-climatica-no-tomie-ohtake-em-sp/)
+- [O episódio “A Era de Ouro do Indie Pop”, do podcast VFSM](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-episodio-a-era-de-ouro-do-indie-pop-do-podcast-vfsm/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
