@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Eleições municipais: a COP30 causará uma saia-justa em Belém?](https://www.nexojornal.com.br/debate/2024/08/15/eleicoes-municipais-a-cop30-causara-uma-saia-justa-em-belem)
+- [Como se preparar na véspera do Concurso Nacional Unificado](https://www.nexojornal.com.br/expresso/2024/08/15/como-se-preparar-concurso-publico-nacional-unificado-cnu)
+- [A proposta de novas eleições para resolver a crise na Venezuela](https://www.nexojornal.com.br/podcast/2024/08/15/venezuela-crise-politica-novas-eleicoes)
 - [Procuradores acusam 5 pessoas por fornecer droga a Matthew Perry](https://www.nexojornal.com.br/extra/2024/08/15/matthew-perry-morte-presos-denuncia)
 - [Número de mortos na Faixa de Gaza ultrapassa 40 mil](https://www.nexojornal.com.br/extra/2024/08/15/faixa-de-gaza-numero-de-mortos-conflito-israel-40-mil)
-- [O crescimento das decisões pela guarda compartilhada](https://www.nexojornal.com.br/externo/2024/08/15/o-crescimento-das-decisoes-pela-guarda-compartilhada)
-- [Senado aprova PEC da Anistia e texto vai à promulgação](https://www.nexojornal.com.br/extra/2024/08/15/senado-aprova-pec-da-anistia-e-texto-vai-a-promulgacao)
-- [A colaboração entre ciência e futebol](https://www.nexojornal.com.br/externo/2024/08/15/a-colaboracao-entre-ciencia-e-futebol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
