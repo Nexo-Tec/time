@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Egídio Dórea: como a educação contribui para as pessoas viverem mais e melhor](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/08/15/egidio-dorea/)
 - [Religiões e Ditadura Militar no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2024/08/13/religioes-e-ditadura-militar-no-brasil/)
 - [A alimentação e a nutrição infantil, em 10 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/08/13/a-alimentacao-e-a-nutricao-infantil-em-10-pontos/)
 - [Políticas públicas relacionadas à longevidade no Brasil e no mundo](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/09/politicas-publicas-relacionadas-a-longevidade-no-brasil/)
 - [Sistema agroalimentar brasileiro e mudanças climáticas](https://pp.nexojornal.com.br/glossario/2024/08/09/sistema-agroalimentar-brasileiro-e-mudancas-climaticas/)
-- [Como terras indígenas contribuem para a conservação e restauração de florestas na Amazônia brasileira](https://pp.nexojornal.com.br/academico/2024/08/08/como-terras-indigenas-contribuem-para-a-conservacao-e-restauracao-de-florestas-na-amazonia-brasileira/)
 <!-- PP_LIST:END -->
 
