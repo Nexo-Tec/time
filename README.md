@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais questões levanta o duto TSE-Supremo usado por Moraes](https://www.nexojornal.com.br/expresso/2024/08/14/alexandre-de-moraes-relacao-tse-supremo)
 - [Ditadura militar: resistência feminina e o poder das imagens](https://www.nexojornal.com.br/academico/2024/08/14/ditadura-militar-resistencia-feminina-e-o-poder-das-imagens)
 - [Brasil não atingiu maioria das metas para educação básica](https://www.nexojornal.com.br/extra/2024/08/14/brasil-nao-atingiu-maioria-das-metas-para-educacao-basica)
 - [O histórico de medalhas olímpicas do Brasil até Paris 2024](https://www.nexojornal.com.br/grafico/2024/08/14/desempenho-do-brasil-nas-olimpiadas-historico)
 - [O inquérito do STF que concentrou poder em Alexandre de Moraes](https://www.nexojornal.com.br/podcast/2024/08/14/alexandre-de-moraes-inquerito-das-fake-news-stf-tse)
-- [Os resultados do teste da semana de 4 dias de trabalho no Brasil](https://www.nexojornal.com.br/expresso/2024/08/14/semana-de-4-dias-de-trabalho-no-brasil-teste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
