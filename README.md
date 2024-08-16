@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os tours para ver os danos do petróleo na Amazônia equatoriana](https://www.nexojornal.com.br/externo/2024/08/16/os-tours-para-ver-os-danos-do-petroleo-na-amazonia-equatoriana)
 - [Homens predominam entre os candidatos mais velhos em 2024](https://www.nexojornal.com.br/grafico/2024/08/16/perfil-dos-candidatos-nas-eleicoes-municipais-de-2024)
 - [Por que as emendas não saem do centro do impasse entre Poderes](https://www.nexojornal.com.br/expresso/2024/08/15/como-emendas-parlamentares-se-tornaram-moeda-de-troca-entre-poderes)
 - [A fortaleza inglesa que pode deixar de ser patrimônio da Unesco](https://www.nexojornal.com.br/expresso/2024/08/15/a-fortaleza-inglesa-que-pode-deixar-de-ser-patrimonio-da-unesco)
 - [Eleições municipais: a COP30 causará uma saia-justa em Belém?](https://www.nexojornal.com.br/debate/2024/08/15/eleicoes-municipais-a-cop30-causara-uma-saia-justa-em-belem)
-- [Como se preparar na véspera do Concurso Nacional Unificado](https://www.nexojornal.com.br/expresso/2024/08/15/como-se-preparar-concurso-publico-nacional-unificado-cnu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
