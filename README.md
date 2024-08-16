@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Entre consumo e tráfico: as disparidades raciais na Lei de Drogas em São Paulo](https://pp.nexojornal.com.br/opiniao/2024/08/16/entre-consumo-e-trafico-as-disparidades-raciais-na-lei-de-drogas-em-sao-paulo/)
 - [A disputa pela regulação do trabalho de motoristas por aplicativo](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/15/a-disputa-pela-regulacao-do-trabalho-de-motoristas-por-aplicativo/)
 - [Egídio Dórea: como a educação contribui para as pessoas viverem mais e melhor](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/08/15/egidio-dorea/)
 - [Religiões e Ditadura Militar no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2024/08/13/religioes-e-ditadura-militar-no-brasil/)
 - [A alimentação e a nutrição infantil, em 10 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/08/13/a-alimentacao-e-a-nutricao-infantil-em-10-pontos/)
-- [Políticas públicas relacionadas à longevidade no Brasil e no mundo](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/09/politicas-publicas-relacionadas-a-longevidade-no-brasil/)
 <!-- PP_LIST:END -->
 
