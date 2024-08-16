@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Filé Wellington: um prato clássico, cheio de história e que impressiona](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/file-wellington-um-prato-classico-cheio-de-historia-e-que-impressiona/)
+- [Gente às Janelas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gente-as-janelas/)
 - [Podcast “Zen Vergonha”, de Fernanda Lima](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-zen-vergonha-de-fernanda-lima/)
 - [A nova temporada de “Os Outros”, no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-os-outros-no-globoplay/)
 - [“Portal”, quinto álbum do rapper Rashid](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/portal-quinto-album-do-rapper-rashid/)
-- [Diálogos sobre a emergência climática no Tomie Ohtake, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/dialogos-sobre-a-emergencia-climatica-no-tomie-ohtake-em-sp/)
-- [O episódio “A Era de Ouro do Indie Pop”, do podcast VFSM](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-episodio-a-era-de-ouro-do-indie-pop-do-podcast-vfsm/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
