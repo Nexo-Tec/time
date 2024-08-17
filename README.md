@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a PEC da Anistia fortalece o racismo cordial](https://www.nexojornal.com.br/ensaio/2024/08/17/por-que-a-pec-da-anistia-fortalece-o-racismo-cordial)
+- [De onde vem o dinheiro da família real britânica](https://www.nexojornal.com.br/expresso/2024/08/17/familia-real-britanica-origem-dinheiro-riqueza)
+- [Como estes artistas subvertem a estética japonesa da fofura](https://www.nexojornal.com.br/expresso/2024/08/17/artistas-subvertem-kawaii-estetica-japonesa-da-fofura)
 - [X, antigo Twitter, fecha escritório no Brasil](https://www.nexojornal.com.br/extra/2024/08/17/x-antigo-twitter-fecha-escritorio-no-brasil)
 - [Do tino comercial à relação com a política: Silvio Santos em 3 atos](https://www.nexojornal.com.br/expresso/2024/08/17/silvio-santos-morreu-carreira-apresentador-empresario-sbt)
-- [Por que a mpox virou &lpar;de novo&rpar; uma emergência global](https://www.nexojornal.com.br/expresso/2024/08/16/oms-emergencia-global-mpox-variola-do-macaco-transmissao)
-- [Planejamento urbano: condição para cidades sustentáveis](https://www.nexojornal.com.br/debate/2024/08/16/planejamento-urbano-condicao-para-cidades-sustentaveis)
-- [O site com os sons das cozinhas solidárias de Porto Alegre](https://www.nexojornal.com.br/expresso/2024/08/16/cozinha-solidaria-porto-alegre-site-sonario-cozinha-territorio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
