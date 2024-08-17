@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Do tino comercial à relação com a política: Silvio Santos em 3 atos](https://www.nexojornal.com.br/expresso/2024/08/17/silvio-santos-morreu-carreira-apresentador-empresario-sbt)
 - [Por que a mpox virou &lpar;de novo&rpar; uma emergência global](https://www.nexojornal.com.br/expresso/2024/08/16/oms-emergencia-global-mpox-variola-do-macaco-transmissao)
 - [Planejamento urbano: condição para cidades sustentáveis](https://www.nexojornal.com.br/debate/2024/08/16/planejamento-urbano-condicao-para-cidades-sustentaveis)
 - [O site com os sons das cozinhas solidárias de Porto Alegre](https://www.nexojornal.com.br/expresso/2024/08/16/cozinha-solidaria-porto-alegre-site-sonario-cozinha-territorio)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/16/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-3)
-- [A trava às emendas. A aprovação da PEC da Anistia. E mais](https://www.nexojornal.com.br/video/2024/08/16/emenda-parlamentar-impositiva-suspensao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
