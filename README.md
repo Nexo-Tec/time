@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A história dos Warao, a mais nova etnia indígena brasileira](https://www.nexojornal.com.br/externo/2024/08/18/warao-nova-etnia-indigena-brasileira-historia)
+- [Desenvolvimento local sustentável: gestão e participação](https://www.nexojornal.com.br/debate/2024/08/18/desenvolvimento-local-sustentavel-gestao-e-participacao)
+- [‘Os espaços da política foram organizados de homens para homens’](https://www.nexojornal.com.br/entrevista/2024/08/18/mulheres-na-politica-participacao-eleicoes-2024)
+- [Quais os impactos para o Brasil de formar menos pesquisadores](https://www.nexojornal.com.br/expresso/2024/08/18/numero-baixo-de-pesquisadores-no-brasil-impacto-na-ciencia)
 - [O que a expansão do Duolingo diz sobre a gamificação do ensino](https://www.nexojornal.com.br/expresso/2024/08/18/duolingo-escola-gamificacao-educacao-ead)
-- [Morre Alain Delon, estrela do cinema francês, aos 88 anos](https://www.nexojornal.com.br/extra/2024/08/18/alain-delon-morre-ator-frances-aos-88-anos)
-- [Como Elon Musk fez do X uma plataforma para a extrema direita](https://www.nexojornal.com.br/expresso/2024/08/17/elon-musk-faz-do-twitter-rede-social-para-extrema-direita)
-- [Por que a PEC da Anistia fortalece o racismo cordial](https://www.nexojornal.com.br/ensaio/2024/08/17/por-que-a-pec-da-anistia-fortalece-o-racismo-cordial)
-- [De onde vem o dinheiro da família real britânica](https://www.nexojornal.com.br/expresso/2024/08/17/familia-real-britanica-origem-dinheiro-riqueza)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
