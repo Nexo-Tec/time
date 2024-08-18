@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Andréa Jotta: “A tecnologia está na rotina das crianças quase que como uma obrigação”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andrea-jotta-tecnologia/)
 - [Filé Wellington: um prato clássico, cheio de história e que impressiona](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/file-wellington-um-prato-classico-cheio-de-historia-e-que-impressiona/)
 - [Gente às Janelas](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gente-as-janelas/)
 - [Podcast “Zen Vergonha”, de Fernanda Lima](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-zen-vergonha-de-fernanda-lima/)
 - [A nova temporada de “Os Outros”, no Globoplay](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-os-outros-no-globoplay/)
-- [“Portal”, quinto álbum do rapper Rashid](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/portal-quinto-album-do-rapper-rashid/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
