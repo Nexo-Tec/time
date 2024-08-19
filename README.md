@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como arqueólogos estudam a Estação Espacial Internacional](https://www.nexojornal.com.br/externo/2024/08/19/como-arqueologos-estudam-a-estacao-espacial-internacional)
 - [Policial que aparece em vídeo ensinando a torturar é demitido](https://www.nexojornal.com.br/extra/2024/08/19/policial-que-aparece-em-video-ensinando-a-torturar-e-demitido)
 - [Menos da metade dos inscritos fez ‘Enem dos concursos’](https://www.nexojornal.com.br/extra/2024/08/18/concurso-nacional-unificado-enem-dos-concursos-abstencao)
 - [A história dos Warao, a mais nova etnia indígena brasileira](https://www.nexojornal.com.br/externo/2024/08/18/warao-nova-etnia-indigena-brasileira-historia)
 - [Desenvolvimento local sustentável: gestão e participação](https://www.nexojornal.com.br/debate/2024/08/18/desenvolvimento-local-sustentavel-gestao-e-participacao)
-- [‘Os espaços da política foram organizados de homens para homens’](https://www.nexojornal.com.br/entrevista/2024/08/18/mulheres-na-politica-participacao-eleicoes-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
