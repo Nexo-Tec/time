@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os ecos de 1968 na Convenção Democrata de Chicago de 2024](https://www.nexojornal.com.br/podcast/2024/08/20/estados-unidos-corrida-presidencial-eua-democratas-convencao-kamala-harris)
 - [Os desafios da lei que reduz penas de presos por meio da leitura](https://www.nexojornal.com.br/externo/2024/08/20/os-desafios-da-lei-que-reduz-penas-de-presos-por-meio-da-leitura)
 - [Supremo e Congresso chegam a acordo sobre emendas](https://www.nexojornal.com.br/extra/2024/08/20/supremo-e-congresso-chegam-a-acordo-sobre-emendas)
 - [Cão aparece como um dos autores em ação contra tutora](https://www.nexojornal.com.br/extra/2024/08/20/cao-aparece-como-um-dos-autores-em-acao-contra-tutora)
 - [‘Dor no coração’: o terreiro de jarê destruído pelo ICMBio na Bahia](https://www.nexojornal.com.br/externo/2024/08/20/terreiro-de-jare-destruido-pelo-icmbio-na-bahia)
-- [‘Não é nova covid’, diz autoridade da OMS sobre mpox](https://www.nexojornal.com.br/extra/2024/08/20/mpox-oms-nao-e-nova-covid-diz-autoridade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
