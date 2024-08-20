@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [George Santos pede desculpas e se declara culpado por fraude](https://www.nexojornal.com.br/extra/2024/08/19/ex-deputado-dos-eua-george-santos-se-declara-culpado)
+- [Como o metabolismo e o nosso sistema imune interagem](https://www.nexojornal.com.br/colunistas/2024/08/19/como-o-metabolismo-e-o-nosso-sistema-imune-interagem)
 - [A rede social X pode ser bloqueada no Brasil?](https://www.nexojornal.com.br/podcast/2024/08/19/twitter-encerra-no-brasil-o-que-isso-significa)
 - [Principal índice da bolsa de São Paulo bate recorde histórico](https://www.nexojornal.com.br/extra/2024/08/19/principal-indice-da-bolsa-de-sp-bate-recorde-historico)
 - [Como arqueólogos estudam a Estação Espacial Internacional](https://www.nexojornal.com.br/externo/2024/08/19/como-arqueologos-estudam-a-estacao-espacial-internacional)
-- [Policial que aparece em vídeo ensinando a torturar é demitido](https://www.nexojornal.com.br/extra/2024/08/19/policial-que-aparece-em-video-ensinando-a-torturar-e-demitido)
-- [Menos da metade dos inscritos fez ‘Enem dos concursos’](https://www.nexojornal.com.br/extra/2024/08/18/concurso-nacional-unificado-enem-dos-concursos-abstencao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
