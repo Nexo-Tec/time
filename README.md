@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Dor no coração’: o terreiro de jarê destruído pelo ICMBio na Bahia](https://www.nexojornal.com.br/externo/2024/08/20/terreiro-de-jare-destruido-pelo-icmbio-na-bahia)
 - [‘Não é nova covid’, diz autoridade da OMS sobre mpox](https://www.nexojornal.com.br/extra/2024/08/20/mpox-oms-nao-e-nova-covid-diz-autoridade)
 - [Como a eleição municipal rachou o funk paulistano](https://www.nexojornal.com.br/expresso/2024/08/20/eleicoes-municipais-2024-sao-paulo-apoio-do-funk-a-candidatos)
 - [Por que o vício em jogos é um problema de saúde pública](https://www.nexojornal.com.br/expresso/2024/08/19/vicio-em-jogos-e-aposta-bets-relacao-saude-publica)
 - [George Santos pede desculpas e se declara culpado por fraude](https://www.nexojornal.com.br/extra/2024/08/19/ex-deputado-dos-eua-george-santos-se-declara-culpado)
-- [Como o metabolismo e o nosso sistema imune interagem](https://www.nexojornal.com.br/colunistas/2024/08/19/como-o-metabolismo-e-o-nosso-sistema-imune-interagem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
