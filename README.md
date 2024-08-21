@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que pesa a favor e contra a regulação dos vapes no Brasil](https://www.nexojornal.com.br/expresso/2024/08/21/regulacao-cigarros-eletronicos)
 - [Governador do Tocantins é alvo de operação da PF](https://www.nexojornal.com.br/extra/2024/08/21/governador-do-tocantins-wanderlei-cardoso-policia-federal)
 - [7 chaves para entender o debate dos Poderes sobre as emendas](https://www.nexojornal.com.br/expresso/2024/08/20/emenda-parlamentar-o-que-e-e-por-que-gera-impasse-entre-politicos)
 - [Os partidos que mais ganharam filiados em 4 anos](https://www.nexojornal.com.br/grafico/2024/08/20/partido-politico-filiado-filiacao-partidaria-2020-a-2024-grafico)
 - [Após questionamentos, tela de Tarsila do Amaral é autenticada](https://www.nexojornal.com.br/extra/2024/08/20/apos-100-anos-nova-obra-de-tarsila-do-amaral-e-descoberta)
-- [Os ecos de 1968 na Convenção Democrata de Chicago de 2024](https://www.nexojornal.com.br/podcast/2024/08/20/estados-unidos-corrida-presidencial-eua-democratas-convencao-kamala-harris)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
