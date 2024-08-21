@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O Supremo virou o tribunal do deixa disso?](https://www.nexojornal.com.br/podcast/2024/08/21/stf-a-interferencia-politica-na-decisao-do-supremo-tribunal-federal-sobre-as-emendas-parlamentares)
 - [O interesse renovado pelo chef Anthony Bourdain](https://www.nexojornal.com.br/expresso/2024/08/21/o-interesse-renovado-pelo-chef-anthony-bourdain)
 - [Pacto dos Poderes pretende agilizar agenda ambiental](https://www.nexojornal.com.br/extra/2024/08/21/pacto-dos-poderes-pretende-agilizar-agenda-ambiental)
 - [Rússia intercepta drones atribuídos a Ucrânia em Moscou](https://www.nexojornal.com.br/extra/2024/08/21/russia-diz-que-ucrania-fez-ataque-com-drones-contra-moscou)
 - [O que pesa a favor e contra a regulação dos vapes no Brasil](https://www.nexojornal.com.br/expresso/2024/08/21/regulacao-cigarros-eletronicos)
-- [Governador do Tocantins é alvo de operação da PF](https://www.nexojornal.com.br/extra/2024/08/21/governador-do-tocantins-wanderlei-cardoso-policia-federal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
