@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Compras públicas de alimentos e o fomento à agricultura familiar no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/22/compras-publicas-de-alimentos-e-o-fomento-a-agricultura-familiar-no-brasil/)
+- [Persistência histórica da desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/08/22/persistencia-historica-da-desigualdade-racial/)
 - [A mobilidade do futuro é ativa](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/22/a-mobilidade-do-futuro-e-ativa/)
 - [A violência política contra as mulheres e as eleições de 2024](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/22/a-violencia-politica-contra-as-mulheres-e-as-eleicoes-de-2024/)
 - [As transformações sociais da escola e o convite a novas redes de colaboração](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/21/as-transformacoes-sociais-da-escola-e-o-convite-a-novas-redes-de-colaboracao/)
-- [O que sabemos sobre como as mudanças climáticas impactam a agricultura no Brasil](https://pp.nexojornal.com.br/academico/2024/08/16/como-as-mudancas-climaticas-estao-impactando-a-agricultura-no-brasil-uma-revisao-sistematica/)
-- [Entre consumo e tráfico: as disparidades raciais na Lei de Drogas em São Paulo](https://pp.nexojornal.com.br/opiniao/2024/08/16/entre-consumo-e-trafico-as-disparidades-raciais-na-lei-de-drogas-em-sao-paulo/)
 <!-- PP_LIST:END -->
 
