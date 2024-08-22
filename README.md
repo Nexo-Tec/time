@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pinguim famoso por união gay morre em Sydney, na Austrália](https://www.nexojornal.com.br/extra/2024/08/22/pinguim-famoso-por-uniao-gay-morre-em-sydney-na-australia)
+- [Sem atas, Supremo da Venezuela valida eleição de Maduro](https://www.nexojornal.com.br/extra/2024/08/22/tribunal-supremo-da-venezuela-vitoria-de-maduro-sem-atas)
 - [População do Brasil começará a diminuir em 2042, aponta IBGE](https://www.nexojornal.com.br/extra/2024/08/22/populacao-do-brasil-comecara-a-diminuir-em-2041-aponta-ibge)
 - [Como a Amazônia voltou a lançar fumaça para o Brasil](https://www.nexojornal.com.br/expresso/2024/08/21/queimadas-na-amazonia-e-no-pantanal-geram-neblinas-em-pelo-menos-10-estados-brasileiros)
 - [Como funcionam os movimentos cristãos progressistas](https://www.nexojornal.com.br/academico/2024/08/21/como-funcionam-os-movimentos-cristaos-progressistas)
-- [Silvio Santos: o homem-sorriso e o homem-trovão](https://www.nexojornal.com.br/colunistas/2024/08/21/silvio-santos-o-homem-sorriso-e-o-homem-trovao)
-- [Corpos de 5 pessoas que estavam em iate de luxo foram achados](https://www.nexojornal.com.br/extra/2024/08/21/corpos-de-5-pessoas-que-estavam-em-iate-de-luxo-foram-achados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
