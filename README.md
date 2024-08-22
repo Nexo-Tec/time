@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Motel Destino fisga espectador com personagens que transbordam tensão e desejo](https://gamarevista.uol.com.br/cultura/motel-destino-tensao-desejo/)
 - [Um cookie cremoso e crocante com sabor bem brasileiro](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-cookie-cremoso-e-crocante-com-sabor-bem-brasileiro/)
 - [6 episódios do Podcast da Semana: saúde mental](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/6-episodios-do-podcast-da-semana-saude-mental/)
 - [@linikeroficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/linikeroficial/)
 - [Dragon barber](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/dragon-barber/)
-- [Andréa Jotta: “A tecnologia está na rotina das crianças quase que como uma obrigação”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andrea-jotta-tecnologia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
