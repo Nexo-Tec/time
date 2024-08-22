@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [População do Brasil começará a diminuir em 2041, aponta IBGE](https://www.nexojornal.com.br/extra/2024/08/22/populacao-do-brasil-comecara-a-diminuir-em-2041-aponta-ibge)
+- [População do Brasil começará a diminuir em 2042, aponta IBGE](https://www.nexojornal.com.br/extra/2024/08/22/populacao-do-brasil-comecara-a-diminuir-em-2041-aponta-ibge)
 - [Como a Amazônia voltou a lançar fumaça para o Brasil](https://www.nexojornal.com.br/expresso/2024/08/21/queimadas-na-amazonia-e-no-pantanal-geram-neblinas-em-pelo-menos-10-estados-brasileiros)
 - [Como funcionam os movimentos cristãos progressistas](https://www.nexojornal.com.br/academico/2024/08/21/como-funcionam-os-movimentos-cristaos-progressistas)
 - [Silvio Santos: o homem-sorriso e o homem-trovão](https://www.nexojornal.com.br/colunistas/2024/08/21/silvio-santos-o-homem-sorriso-e-o-homem-trovao)
