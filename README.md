@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Motel Destino fisga espectador com personagens que transbordam tensão e desejo](https://gamarevista.uol.com.br/cultura/motel-destino-tensao-desejo/)
-- [Um cookie cremoso e crocante com sabor bem brasileiro](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-cookie-cremoso-e-crocante-com-sabor-bem-brasileiro/)
-- [6 episódios do Podcast da Semana: saúde mental](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/6-episodios-do-podcast-da-semana-saude-mental/)
-- [@linikeroficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/linikeroficial/)
-- [Dragon barber](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/dragon-barber/)
+- [A nova série que dá sequência a “Cidade de Deus”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-serie-que-da-sequencia-a-cidade-de-deus/)
+- [Ilú Obá De Min na abertura da nova Megafauna, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/ilu-oba-de-min-na-abertura-da-nova-megafauna-em-sp/)
+- [Curtas de Wim Wenders e Jonathan Glazer no Kinoforum, em SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/curtas-de-wim-wenders-e-jonathan-glazer-no-kinoforum-em-sp/)
+- [Festival de Cultura e Gastronomia de Tiradentes, em MG](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-de-cultura-e-gastronomia-de-tiradentes-em-mg/)
+- [Uma festa de rua da Casa do Povo, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-festa-de-rua-da-casa-do-povo-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
