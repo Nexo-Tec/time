@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a Amazônia voltou a lançar fumaça para o Brasil](https://www.nexojornal.com.br/expresso/2024/08/21/queimadas-na-amazonia-e-no-pantanal-geram-neblinas-em-pelo-menos-10-estados-brasileiros)
 - [Como funcionam os movimentos cristãos progressistas](https://www.nexojornal.com.br/academico/2024/08/21/como-funcionam-os-movimentos-cristaos-progressistas)
 - [Silvio Santos: o homem-sorriso e o homem-trovão](https://www.nexojornal.com.br/colunistas/2024/08/21/silvio-santos-o-homem-sorriso-e-o-homem-trovao)
 - [Corpos de 5 pessoas que estavam em iate de luxo foram achados](https://www.nexojornal.com.br/extra/2024/08/21/corpos-de-5-pessoas-que-estavam-em-iate-de-luxo-foram-achados)
 - [O Supremo virou o tribunal do deixa disso?](https://www.nexojornal.com.br/podcast/2024/08/21/stf-a-interferencia-politica-na-decisao-do-supremo-tribunal-federal-sobre-as-emendas-parlamentares)
-- [O interesse renovado pelo chef Anthony Bourdain](https://www.nexojornal.com.br/expresso/2024/08/21/o-interesse-renovado-pelo-chef-anthony-bourdain)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
