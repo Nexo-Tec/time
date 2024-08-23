@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A potência e a serenidade da música de Liniker](https://www.nexojornal.com.br/expresso/2024/08/23/a-potencia-e-a-serenidade-da-musica-de-liniker)
-- [Presidente do FED diz que ‘chegou a hora’ dos EUA cortar os juros](https://www.nexojornal.com.br/extra/2024/08/23/presidente-do-fed-diz-que-chegou-a-hora-dos-eua-cortar-os-juros)
-- [‘Há 20 anos, chilenos nem sabiam que o país tinha baleias’](https://www.nexojornal.com.br/externo/2024/08/23/ha-20-anos-chilenos-nem-sabiam-que-o-pais-tinha-baleias)
-- [O pigmento venenoso encontrado em antigos livros ingleses](https://www.nexojornal.com.br/expresso/2024/08/23/o-pigmento-venenoso-encontrado-em-livros-antigos-no-reino-unido)
-- [Vulcão entra em erupção pela 6ª vez em 9 meses na Islândia](https://www.nexojornal.com.br/extra/2024/08/23/vulcao-entra-em-erupcao-pela-6a-vez-em-9-meses-na-islandia)
+- [A 1ª semana de campanha. O acordo das emendas. E mais](https://www.nexojornal.com.br/video/2024/08/23/resumo-da-semana-campanha-eleitoral-emendas-parlamentares)
+- [5 livros brasileiros de história que mereciam ser mais conhecidos](https://www.nexojornal.com.br/estante-favoritos/2024/08/23/5-livros-brasileiros-de-historia-que-mereciam-ser-mais-conhecidos)
+- [‘Os bastidores’: as reflexões de um escritor sobre sua vida](https://www.nexojornal.com.br/estante-trechos/2024/08/23/os-bastidores-as-reflexoes-de-um-escritor-sobre-sua-vida)
+- [Butantan suspende desenvolvimento da Butanvac após testes](https://www.nexojornal.com.br/extra/2024/08/23/butantan-suspende-desenvolvimento-da-butanvac-apos-testes)
+- [Os renascimentos do Teatro Cultura Artística](https://www.nexojornal.com.br/expresso/2024/08/23/teatro-cultura-artistica-em-sao-paulo-reabre)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
