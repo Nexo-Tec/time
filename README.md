@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [6 tradições de festas de aniversário infantis pelo mundo](https://www.nexojornal.com.br/externo/2024/08/22/tradicoes-de-festas-de-aniversario-infantis-pelo-mundo)
 - [Como é a rotina da dupla de astronautas presa no espaço](https://www.nexojornal.com.br/podcast/2024/08/22/rotina-astronautas-presos-no-espaco)
 - [O número de pessoas trans concorrendo nas eleições de 2024](https://www.nexojornal.com.br/grafico/2024/08/22/eleicoes-2024-candidaturas-de-pessoas-trans)
 - [Pinguim famoso por união gay morre em Sydney, na Austrália](https://www.nexojornal.com.br/extra/2024/08/22/pinguim-famoso-por-uniao-gay-morre-em-sydney-na-australia)
 - [Sem atas, Supremo da Venezuela valida eleição de Maduro](https://www.nexojornal.com.br/extra/2024/08/22/tribunal-supremo-da-venezuela-vitoria-de-maduro-sem-atas)
-- [População do Brasil começará a diminuir em 2042, aponta IBGE](https://www.nexojornal.com.br/extra/2024/08/22/populacao-do-brasil-comecara-a-diminuir-em-2041-aponta-ibge)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
