@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vulcão entra em erupção pela 6ª vez em 9 meses na Islândia](https://www.nexojornal.com.br/extra/2024/08/23/vulcao-entra-em-erupcao-pela-6a-vez-em-9-meses-na-islandia)
 - [Ministério Público Eleitoral: para além de candidatos e partidos](https://www.nexojornal.com.br/debate/2024/08/23/ministerio-publico-eleitoral-para-alem-de-candidatos-e-partidos)
 - [Como o código de barras transformou o comércio global](https://www.nexojornal.com.br/externo/2024/08/22/codigo-de-barras-mudou-comercio-global)
 - [Quais os danos causados pela campanha de Pablo Marçal](https://www.nexojornal.com.br/expresso/2024/08/22/eleicoes-sao-paulo-campanha-de-pablo-marcal-regras-eleitorais)
 - [6 tradições de festas de aniversário infantis pelo mundo](https://www.nexojornal.com.br/externo/2024/08/22/tradicoes-de-festas-de-aniversario-infantis-pelo-mundo)
-- [Como é a rotina da dupla de astronautas presa no espaço](https://www.nexojornal.com.br/podcast/2024/08/22/rotina-astronautas-presos-no-espaco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
