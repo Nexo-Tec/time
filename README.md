@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a ciência tenta definir o limite do calor suportável](https://www.nexojornal.com.br/expresso/2024/08/23/limite-de-calor-que-um-ser-humano-pode-aguentar)
+- [Políticas públicas de mobilidade: pensando fora da caixa](https://www.nexojornal.com.br/debate/2024/08/23/politicas-publicas-de-mobilidade-pensando-fora-da-caixa)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/23/3-boatos-verificados-bolsonaro-livro-didatico-noruega)
 - [Festival Nexo + Nexo Políticas Públicas 2024: o Brasil em debate](https://www.nexojornal.com.br/eventos/2024/08/23/debate-politicas-publicas-nexo-2024)
 - [SP: incêndios fecham escolas, rodovias e causam evacuações](https://www.nexojornal.com.br/extra/2024/08/23/sp-incendios-fecham-escolas-rodovias-e-causam-evacuacoes)
-- [A 1ª semana de campanha. O acordo das emendas. E mais](https://www.nexojornal.com.br/video/2024/08/23/resumo-da-semana-campanha-eleitoral-emendas-parlamentares)
-- [5 livros brasileiros de história que mereciam ser mais conhecidos](https://www.nexojornal.com.br/estante-favoritos/2024/08/23/5-livros-brasileiros-de-historia-que-mereciam-ser-mais-conhecidos)
-- [‘Os bastidores’: as reflexões de um escritor sobre sua vida](https://www.nexojornal.com.br/estante-trechos/2024/08/23/os-bastidores-as-reflexoes-de-um-escritor-sobre-sua-vida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
