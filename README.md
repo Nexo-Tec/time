@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataques entre Israel e Hezbollah alarmam Oriente Médio](https://www.nexojornal.com.br/extra/2024/08/25/ataques-entre-israel-e-hezbollah-alarmam-oriente-medio)
 - [Como descartar roupas e sapatos corretamente](https://www.nexojornal.com.br/servico/2024/08/25/como-descartar-roupas-sapatos-lingerie)
 - [Resistência civil pode derrubar Maduro?](https://www.nexojornal.com.br/ensaio/2024/08/25/resistencia-civil-pode-derrubar-nicolas-maduro)
 - [‘Escola e família têm dificuldade de identificar bullying’](https://www.nexojornal.com.br/entrevista/2024/08/25/bullying-colegio-bandeirantes)
 - [Justiça Eleitoral manda suspender perfis de Pablo Marçal](https://www.nexojornal.com.br/extra/2024/08/24/justica-eleitoral-manda-suspender-perfis-de-pablo-marcal)
-- [Como a ciência tenta definir o limite do calor suportável](https://www.nexojornal.com.br/expresso/2024/08/23/limite-de-calor-que-um-ser-humano-pode-aguentar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
