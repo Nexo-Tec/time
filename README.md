@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como descartar roupas e sapatos corretamente](https://www.nexojornal.com.br/servico/2024/08/25/como-descartar-roupas-sapatos-lingerie)
+- [Resistência civil pode derrubar Maduro?](https://www.nexojornal.com.br/ensaio/2024/08/25/resistencia-civil-pode-derrubar-nicolas-maduro)
+- [‘Escola e família têm dificuldade de identificar bullying’](https://www.nexojornal.com.br/entrevista/2024/08/25/bullying-colegio-bandeirantes)
 - [Justiça Eleitoral manda suspender perfis de Pablo Marçal](https://www.nexojornal.com.br/extra/2024/08/24/justica-eleitoral-manda-suspender-perfis-de-pablo-marcal)
 - [Como a ciência tenta definir o limite do calor suportável](https://www.nexojornal.com.br/expresso/2024/08/23/limite-de-calor-que-um-ser-humano-pode-aguentar)
-- [Políticas públicas de mobilidade: pensando fora da caixa](https://www.nexojornal.com.br/debate/2024/08/23/politicas-publicas-de-mobilidade-pensando-fora-da-caixa)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/23/3-boatos-verificados-bolsonaro-livro-didatico-noruega)
-- [Festival Nexo + Nexo Políticas Públicas 2024: o Brasil em debate](https://www.nexojornal.com.br/eventos/2024/08/23/debate-politicas-publicas-nexo-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
