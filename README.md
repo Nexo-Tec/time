@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Dono do Telegram é preso na França por não moderar aplicativo](https://www.nexojornal.com.br/extra/2024/08/25/dono-do-telegram-e-preso-na-franca-por-nao-moderar-aplicativo)
 - [Ataques entre Israel e Hezbollah alarmam Oriente Médio](https://www.nexojornal.com.br/extra/2024/08/25/ataques-entre-israel-e-hezbollah-alarmam-oriente-medio)
 - [Como descartar roupas e sapatos corretamente](https://www.nexojornal.com.br/servico/2024/08/25/como-descartar-roupas-sapatos-lingerie)
 - [Resistência civil pode derrubar Maduro?](https://www.nexojornal.com.br/ensaio/2024/08/25/resistencia-civil-pode-derrubar-nicolas-maduro)
 - [‘Escola e família têm dificuldade de identificar bullying’](https://www.nexojornal.com.br/entrevista/2024/08/25/bullying-colegio-bandeirantes)
-- [Justiça Eleitoral manda suspender perfis de Pablo Marçal](https://www.nexojornal.com.br/extra/2024/08/24/justica-eleitoral-manda-suspender-perfis-de-pablo-marcal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
