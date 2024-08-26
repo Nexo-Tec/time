@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como infratores ambientais conseguem dinheiro na bolsa](https://www.nexojornal.com.br/externo/2024/08/25/como-infratores-ambientais-conseguem-dinheiro-na-bolsa)
+- [Os entraves do Sistema Único de Saúde nos municípios](https://www.nexojornal.com.br/debate/2024/08/25/os-entraves-do-sistema-unico-de-saude-nos-municipios)
+- [Como a desigualdade racial afeta a vacinação infantil](https://www.nexojornal.com.br/expresso/2024/08/25/desigualdade-racial-vacinacao-infantil)
 - [PF abre investigações para apurar focos de incêndio no país](https://www.nexojornal.com.br/extra/2024/08/25/pf-abre-investigacoes-para-apurar-focos-de-incendio-no-pais)
 - [Dono do Telegram é preso na França por não moderar aplicativo](https://www.nexojornal.com.br/extra/2024/08/25/dono-do-telegram-e-preso-na-franca-por-nao-moderar-aplicativo)
-- [Ataques entre Israel e Hezbollah alarmam Oriente Médio](https://www.nexojornal.com.br/extra/2024/08/25/ataques-entre-israel-e-hezbollah-alarmam-oriente-medio)
-- [Como descartar roupas e sapatos corretamente](https://www.nexojornal.com.br/servico/2024/08/25/como-descartar-roupas-sapatos-lingerie)
-- [Resistência civil pode derrubar Maduro?](https://www.nexojornal.com.br/ensaio/2024/08/25/resistencia-civil-pode-derrubar-nicolas-maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
