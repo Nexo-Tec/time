@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Do mundo a São Paulo: a política em seu momento Waldo](https://www.nexojornal.com.br/ensaio/2024/08/26/do-mundo-a-sao-paulo-a-politica-em-seu-momento-waldo)
 - [As privatizações de volta à baila no debate nacional](https://www.nexojornal.com.br/podcast/2024/08/26/lula-critica-privatizacao-da-eletrobras-e-tema-volta-ao-debate-nacional)
 - [O vaivém da relação dos irmãos Gallagher no Oasis](https://www.nexojornal.com.br/expresso/2024/08/26/oasis-voltou-o-vaivem-dos-irmaos-gallagher)
 - [Como a geoengenharia do clima influi na justiça intergeracional](https://www.nexojornal.com.br/externo/2024/08/26/como-a-geoengenharia-do-clima-influi-na-justica-intergeracional)
 - [Os cientistas que envenenam crocodilos para salvá-los](https://www.nexojornal.com.br/expresso/2024/08/26/os-cientistas-que-envenenam-crocodilos-para-salva-los)
-- [Terremoto de magnitude 5,4 atinge arredores de Lisboa](https://www.nexojornal.com.br/extra/2024/08/26/terremoto-de-magnitude-54-atinge-arredores-de-lisboa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
