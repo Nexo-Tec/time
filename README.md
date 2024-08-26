@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As privatizações de volta à baila no debate nacional](https://www.nexojornal.com.br/podcast/2024/08/26/lula-critica-privatizacao-da-eletrobras-e-tema-volta-ao-debate-nacional)
+- [O vaivém da relação dos irmãos Gallagher no Oasis](https://www.nexojornal.com.br/expresso/2024/08/26/oasis-voltou-o-vaivem-dos-irmaos-gallagher)
 - [Como a geoengenharia do clima influi na justiça intergeracional](https://www.nexojornal.com.br/externo/2024/08/26/como-a-geoengenharia-do-clima-influi-na-justica-intergeracional)
 - [Os cientistas que envenenam crocodilos para salvá-los](https://www.nexojornal.com.br/expresso/2024/08/26/os-cientistas-que-envenenam-crocodilos-para-salva-los)
 - [Terremoto de magnitude 5,4 atinge arredores de Lisboa](https://www.nexojornal.com.br/extra/2024/08/26/terremoto-de-magnitude-54-atinge-arredores-de-lisboa)
-- [Como infratores ambientais conseguem dinheiro na bolsa](https://www.nexojornal.com.br/externo/2024/08/25/como-infratores-ambientais-conseguem-dinheiro-na-bolsa)
-- [Os entraves do Sistema Único de Saúde nos municípios](https://www.nexojornal.com.br/debate/2024/08/25/os-entraves-do-sistema-unico-de-saude-nos-municipios)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
