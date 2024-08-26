@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Ana Frango Elétrico](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-frango-eletrico/)
 - [Bianca Solléro: “A depressão pode ser invisível”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bianca-sollero-depressao/)
 - [Baumgartner](https://gamarevista.uol.com.br/cultura/trecho-de-livro/baumgartner/)
 - [A nova série que dá sequência a “Cidade de Deus”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-serie-que-da-sequencia-a-cidade-de-deus/)
 - [Ilú Obá De Min na abertura da nova Megafauna, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/ilu-oba-de-min-na-abertura-da-nova-megafauna-em-sp/)
-- [Curtas de Wim Wenders e Jonathan Glazer no Kinoforum, em SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/curtas-de-wim-wenders-e-jonathan-glazer-no-kinoforum-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
