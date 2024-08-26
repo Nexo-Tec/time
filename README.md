@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Terremoto de magnitude 5,4 atinge arredores de Lisboa](https://www.nexojornal.com.br/extra/2024/08/26/terremoto-de-magnitude-54-atinge-arredores-de-lisboa)
 - [Como infratores ambientais conseguem dinheiro na bolsa](https://www.nexojornal.com.br/externo/2024/08/25/como-infratores-ambientais-conseguem-dinheiro-na-bolsa)
 - [Os entraves do Sistema Único de Saúde nos municípios](https://www.nexojornal.com.br/debate/2024/08/25/os-entraves-do-sistema-unico-de-saude-nos-municipios)
 - [Como a desigualdade racial afeta a vacinação infantil](https://www.nexojornal.com.br/expresso/2024/08/25/desigualdade-racial-vacinacao-infantil)
 - [PF abre investigações para apurar focos de incêndio no país](https://www.nexojornal.com.br/extra/2024/08/25/pf-abre-investigacoes-para-apurar-focos-de-incendio-no-pais)
-- [Dono do Telegram é preso na França por não moderar aplicativo](https://www.nexojornal.com.br/extra/2024/08/25/dono-do-telegram-e-preso-na-franca-por-nao-moderar-aplicativo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
