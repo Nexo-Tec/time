@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Incêndios em SP causaram R$ 1 bilhão em prejuízos](https://www.nexojornal.com.br/extra/2024/08/26/incendios-em-sp-causaram-r-1-bilhao-em-prejuizos)
+- [Quais os indícios de que o fogo em São Paulo é criminoso](https://www.nexojornal.com.br/expresso/2024/08/26/incendio-queimada-sao-paulo-indicios-de-crime)
+- [103 municípios podem ter 2º turno para prefeitura em 2024](https://www.nexojornal.com.br/grafico/2024/08/26/municipios-com-chances-de-segundo-turno-nas-eleicoes-municipais-2024)
+- [Como a merenda escolar impacta alunos e filhos de agricultores](https://www.nexojornal.com.br/externo/2024/08/26/como-a-merenda-escolar-impacta-alunos-e-filhos-de-agricultores)
 - [Do mundo a São Paulo: a política em seu momento Waldo](https://www.nexojornal.com.br/ensaio/2024/08/26/do-mundo-a-sao-paulo-a-politica-em-seu-momento-waldo)
-- [As privatizações de volta à baila no debate nacional](https://www.nexojornal.com.br/podcast/2024/08/26/lula-critica-privatizacao-da-eletrobras-e-tema-volta-ao-debate-nacional)
-- [O vaivém da relação dos irmãos Gallagher no Oasis](https://www.nexojornal.com.br/expresso/2024/08/26/oasis-voltou-o-vaivem-dos-irmaos-gallagher)
-- [Como a geoengenharia do clima influi na justiça intergeracional](https://www.nexojornal.com.br/externo/2024/08/26/como-a-geoengenharia-do-clima-influi-na-justica-intergeracional)
-- [Os cientistas que envenenam crocodilos para salvá-los](https://www.nexojornal.com.br/expresso/2024/08/26/os-cientistas-que-envenenam-crocodilos-para-salva-los)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
