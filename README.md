@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Governo da Namíbia vai abater mais de 700 animais selvagens](https://www.nexojornal.com.br/extra/2024/08/27/governo-da-namibia-vai-abater-mais-de-700-animais-selvagens)
 - [Governo prorroga distribuição gratuita de água em eventos](https://www.nexojornal.com.br/extra/2024/08/27/governo-prorroga-distribuicao-gratuita-de-agua-em-eventos)
 - [Conheça os participantes do Festival Nexo + Nexo Políticas Públicas 2024](https://www.nexojornal.com.br/undefined/2024/08/27/festival-brasil-em-debate-minibios)
 - [Incêndios em SP causaram R$ 1 bilhão em prejuízos](https://www.nexojornal.com.br/extra/2024/08/26/incendios-em-sp-causaram-r-1-bilhao-em-prejuizos)
 - [Quais os indícios de que o fogo em São Paulo é criminoso](https://www.nexojornal.com.br/expresso/2024/08/26/incendio-queimada-sao-paulo-indicios-de-crime)
-- [103 municípios podem ter 2º turno para prefeitura em 2024](https://www.nexojornal.com.br/grafico/2024/08/26/municipios-com-chances-de-segundo-turno-nas-eleicoes-municipais-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
