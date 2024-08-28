@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula indica Galípolo para comandar o Banco Central](https://www.nexojornal.com.br/extra/2024/08/28/lula-indica-galipolo-para-comandar-o-banco-central)
 - [O que acontece nas cidades que têm candidato único](https://www.nexojornal.com.br/expresso/2024/08/28/eleicao-candidato-unico)
 - [A gestão de pessoas na educação para uma boa gestão escolar](https://www.nexojornal.com.br/colunistas/2024/08/27/a-gestao-de-pessoas-na-educacao-para-uma-boa-gestao-escolar)
 - [Drones, caças e o estado da guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/08/27/drones-cacas-estado-da-guerra-russia-ucrania)
 - [População em extrema pobreza caiu 40% em um ano, diz relatório](https://www.nexojornal.com.br/extra/2024/08/27/relatorio-sobre-desigualdades-no-brasil)
-- [‘Ciência política sobre emenda parlamentar está sendo ignorada’](https://www.nexojornal.com.br/entrevista/2024/08/27/emendas-parlamentares-entrevista-lara-mesquita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
