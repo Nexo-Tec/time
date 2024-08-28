@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Irmãos Brazão: um vê cassação andar, outro mantêm cargo no TCE](https://www.nexojornal.com.br/extra/2024/08/28/irmaos-brazao-um-ve-cassacao-andar-outro-mantem-cargo-no-tce)
+- [O que clubes devem fazer para evitar que jogadores morram](https://www.nexojornal.com.br/expresso/2024/08/28/o-que-clubes-devem-fazer-para-evitar-que-jogadores-morram)
+- [Como a fase de um câncer virou motivo de polêmica nas redes](https://www.nexojornal.com.br/expresso/2024/08/28/como-a-fase-de-um-cancer-virou-motivo-de-polemica-nas-redes)
 - [Lula indica Galípolo para comandar o Banco Central](https://www.nexojornal.com.br/extra/2024/08/28/lula-indica-galipolo-para-comandar-o-banco-central)
 - [O que acontece nas cidades que têm candidato único](https://www.nexojornal.com.br/expresso/2024/08/28/eleicao-candidato-unico)
-- [A gestão de pessoas na educação para uma boa gestão escolar](https://www.nexojornal.com.br/colunistas/2024/08/27/a-gestao-de-pessoas-na-educacao-para-uma-boa-gestao-escolar)
-- [Drones, caças e o estado da guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/08/27/drones-cacas-estado-da-guerra-russia-ucrania)
-- [População em extrema pobreza caiu 40% em um ano, diz relatório](https://www.nexojornal.com.br/extra/2024/08/27/relatorio-sobre-desigualdades-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
