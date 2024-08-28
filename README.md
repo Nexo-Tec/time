@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como a ‘catástrofe’ climática ameaça ilhas do Pacífico](https://www.nexojornal.com.br/podcast/2024/08/27/aumento-no-nivel-do-mar-ameaca-ilhas-do-pacifico)
-- [Cofundador da Meta é o brasileiro mais rico da história](https://www.nexojornal.com.br/extra/2024/08/27/lista-da-forbes-pessoas-mais-ricas-do-brasil)
-- [Governo da Namíbia vai abater mais de 700 animais selvagens](https://www.nexojornal.com.br/extra/2024/08/27/governo-da-namibia-vai-abater-mais-de-700-animais-selvagens)
-- [Governo prorroga distribuição gratuita de água em eventos](https://www.nexojornal.com.br/extra/2024/08/27/governo-prorroga-distribuicao-gratuita-de-agua-em-eventos)
-- [Conheça os participantes do Festival Nexo + Nexo Políticas Públicas 2024](https://www.nexojornal.com.br/undefined/2024/08/27/festival-brasil-em-debate-minibios)
+- [A gestão de pessoas na educação para uma boa gestão escolar](https://www.nexojornal.com.br/colunistas/2024/08/27/a-gestao-de-pessoas-na-educacao-para-uma-boa-gestao-escolar)
+- [Drones, caças e o estado da guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2024/08/27/drones-cacas-estado-da-guerra-russia-ucrania)
+- [População em extrema pobreza caiu 40% em um ano, diz relatório](https://www.nexojornal.com.br/extra/2024/08/27/relatorio-sobre-desigualdades-no-brasil)
+- [‘Ciência política sobre emenda parlamentar está sendo ignorada’](https://www.nexojornal.com.br/entrevista/2024/08/27/emendas-parlamentares-entrevista-lara-mesquita)
+- [Como é a classificação esportiva das Paralimpíadas](https://www.nexojornal.com.br/expresso/2024/08/27/paralimpiadas-como-funciona-a-classificacao-dos-atletas-por-esporte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
