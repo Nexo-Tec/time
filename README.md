@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Uma pequena revelação para meu amigo morto](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/uma-pequena-revelacao-para-meu-amigo-morto/)
+- [Stefania Bril e a fotografia de rua nos anos 1970](https://gamarevista.uol.com.br/cultura/stefania-bril-e-a-fotografia-de-rua-nos-anos-1970/)
 - [Conheça 12 atletas paralímpicos do Brasil para ficar de olho em Paris](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/conheca-12-atletas-paralimpicos-do-brasil-para-ficar-de-olho-em-paris/)
 - [Ana Frango Elétrico](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-frango-eletrico/)
 - [Bianca Solléro: “A depressão pode ser invisível”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bianca-sollero-depressao/)
-- [Baumgartner](https://gamarevista.uol.com.br/cultura/trecho-de-livro/baumgartner/)
-- [A nova série que dá sequência a “Cidade de Deus”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-serie-que-da-sequencia-a-cidade-de-deus/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
