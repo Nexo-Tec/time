@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Plano Nacional de Educação 2014-2024: qual o significado de seus resultados?](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/28/plano-nacional-de-educacao-2014-2024-qual-o-significado-de-seus-resultados/)
+- [Narrativas do agro: sentidos e dissensos de democracia na argumentação da bancada ruralista](https://pp.nexojornal.com.br/academico/2024/08/28/narrativas-do-agro-sentidos-e-dissensos-de-democracia-na-argumentacao-da-bancada-ruralista/)
+- [Religiões ayahuasqueiras](https://pp.nexojornal.com.br/glossario/2024/08/28/religioes-ayahuasqueiras/)
 - [Compras públicas de alimentos e o fomento à agricultura familiar no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/08/22/compras-publicas-de-alimentos-e-o-fomento-a-agricultura-familiar-no-brasil/)
 - [Persistência histórica da desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/08/22/persistencia-historica-da-desigualdade-racial/)
-- [A mobilidade do futuro é ativa](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/22/a-mobilidade-do-futuro-e-ativa/)
-- [A violência política contra as mulheres e as eleições de 2024](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/22/a-violencia-politica-contra-as-mulheres-e-as-eleicoes-de-2024/)
-- [As transformações sociais da escola e o convite a novas redes de colaboração](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/21/as-transformacoes-sociais-da-escola-e-o-convite-a-novas-redes-de-colaboracao/)
 <!-- PP_LIST:END -->
 
