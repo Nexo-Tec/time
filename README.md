@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que queimadas são problema recorrente na Amazônia](https://www.nexojornal.com.br/podcast/2024/08/29/queimadas-na-amazonia-por-que-o-problema-e-recorrente)
+- [Avanço na segurança alimentar precisa ser mais igualitário](https://www.nexojornal.com.br/ensaio/2024/08/29/avanco-na-seguranca-alimentar-precisa-ser-mais-igualitario)
+- [Quais são as regras para redes sociais operarem no Brasil](https://www.nexojornal.com.br/expresso/2024/08/29/x-musk-quais-sao-as-regras-para-redes-sociais-operarem-no-brasil)
 - [Moraes intima Musk com tuíte e bloqueia contas da Starlink](https://www.nexojornal.com.br/extra/2024/08/29/moraes-intima-musk-com-tuite-e-bloqueia-contas-da-starlink)
 - [‘Pé de chinesa’: como a IA deu cara a uma novela fake da Globo](https://www.nexojornal.com.br/expresso/2024/08/29/pe-de-chinesa-como-a-ia-deu-cara-a-uma-novela-fake-da-globo)
-- [Quais os impactos sociais da seca no rio Madeira](https://www.nexojornal.com.br/expresso/2024/08/28/impactos-seca-rio-madeira-amazonia)
-- [A cidade brasileira que terá sua primeira eleição em 2024](https://www.nexojornal.com.br/expresso/2024/08/28/cidade-brasileira-primeira-eleicao-2024)
-- [Eleições municipais no Rio: o que esperar da direita](https://www.nexojornal.com.br/debate/2024/08/28/eleicoes-municipais-no-rio-o-que-esperar-da-direita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
