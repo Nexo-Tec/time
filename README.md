@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Irmãos Brazão: um vê cassação andar, outro mantêm cargo no TCE](https://www.nexojornal.com.br/extra/2024/08/28/irmaos-brazao-um-ve-cassacao-andar-outro-mantem-cargo-no-tce)
-- [O que clubes devem fazer para evitar que jogadores morram](https://www.nexojornal.com.br/expresso/2024/08/28/o-que-clubes-devem-fazer-para-evitar-que-jogadores-morram)
-- [Como a fase de um câncer virou motivo de polêmica nas redes](https://www.nexojornal.com.br/expresso/2024/08/28/como-a-fase-de-um-cancer-virou-motivo-de-polemica-nas-redes)
-- [Lula indica Galípolo para comandar o Banco Central](https://www.nexojornal.com.br/extra/2024/08/28/lula-indica-galipolo-para-comandar-o-banco-central)
-- [O que acontece nas cidades que têm candidato único](https://www.nexojornal.com.br/expresso/2024/08/28/eleicao-candidato-unico)
+- [Quais os impactos sociais da seca no rio Madeira](https://www.nexojornal.com.br/expresso/2024/08/28/impactos-seca-rio-madeira-amazonia)
+- [A cidade brasileira que terá sua primeira eleição em 2024](https://www.nexojornal.com.br/expresso/2024/08/28/cidade-brasileira-primeira-eleicao-2024)
+- [Eleições municipais no Rio: o que esperar da direita](https://www.nexojornal.com.br/debate/2024/08/28/eleicoes-municipais-no-rio-o-que-esperar-da-direita)
+- [Os novos usos do português pela comunidade LGBTI+](https://www.nexojornal.com.br/academico/2024/08/28/os-novos-usos-do-portugues-pela-comunidade-lgbti)
+- [Como Pablo Marçal desafia a Justiça Eleitoral](https://www.nexojornal.com.br/podcast/2024/08/28/pablo-marcal-justica-eleitoral-prefeitura-de-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
