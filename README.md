@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Pé de chinesa’: como a IA deu cara a uma novela fake da Globo](https://www.nexojornal.com.br/expresso/2024/08/29/pe-de-chinesa-como-a-ia-deu-cara-a-uma-novela-fake-da-globo)
 - [Quais os impactos sociais da seca no rio Madeira](https://www.nexojornal.com.br/expresso/2024/08/28/impactos-seca-rio-madeira-amazonia)
 - [A cidade brasileira que terá sua primeira eleição em 2024](https://www.nexojornal.com.br/expresso/2024/08/28/cidade-brasileira-primeira-eleicao-2024)
 - [Eleições municipais no Rio: o que esperar da direita](https://www.nexojornal.com.br/debate/2024/08/28/eleicoes-municipais-no-rio-o-que-esperar-da-direita)
 - [Os novos usos do português pela comunidade LGBTI+](https://www.nexojornal.com.br/academico/2024/08/28/os-novos-usos-do-portugues-pela-comunidade-lgbti)
-- [Como Pablo Marçal desafia a Justiça Eleitoral](https://www.nexojornal.com.br/podcast/2024/08/28/pablo-marcal-justica-eleitoral-prefeitura-de-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
