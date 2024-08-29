@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A obesidade como um desafio de saúde pública, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/08/29/a-obesidade-como-um-desafio-de-saude-publica-em-6-pontos/)
+- [Efeitos da regulação emocional e comportamental materna nas práticas parentais com os filhos](https://pp.nexojornal.com.br/academico/2024/08/29/efeitos-da-regulacao-emocional-e-comportamental-materna-nas-praticas-parentais-com-os-filhos/)
 - [Ideb não como ranking, mas um orientador de políticas públicas](https://pp.nexojornal.com.br/opiniao/2024/08/29/ideb-nao-como-ranking-mas-um-orientador-de-politicas-publicas/)
 - [O que é o Centrão na política brasileira?](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/28/o-que-e-o-centrao-na-politica-brasileira/)
 - [Plano Nacional de Educação 2014-2024: qual o significado de seus resultados?](https://pp.nexojornal.com.br/ponto-de-vista/2024/08/28/plano-nacional-de-educacao-2014-2024-qual-o-significado-de-seus-resultados/)
-- [Narrativas do agro: sentidos e dissensos de democracia na argumentação da bancada ruralista](https://pp.nexojornal.com.br/academico/2024/08/28/narrativas-do-agro-sentidos-e-dissensos-de-democracia-na-argumentacao-da-bancada-ruralista/)
-- [Religiões ayahuasqueiras](https://pp.nexojornal.com.br/glossario/2024/08/28/religioes-ayahuasqueiras/)
 <!-- PP_LIST:END -->
 
