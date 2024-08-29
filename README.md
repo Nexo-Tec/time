@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Uma pequena revelação para meu amigo morto](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/uma-pequena-revelacao-para-meu-amigo-morto/)
-- [Stefania Bril e a fotografia de rua nos anos 1970](https://gamarevista.uol.com.br/cultura/stefania-bril-e-a-fotografia-de-rua-nos-anos-1970/)
-- [Conheça 12 atletas paralímpicos do Brasil para ficar de olho em Paris](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/conheca-12-atletas-paralimpicos-do-brasil-para-ficar-de-olho-em-paris/)
-- [Ana Frango Elétrico](https://gamarevista.uol.com.br/pessoas/questionario-proust/ana-frango-eletrico/)
-- [Bianca Solléro: “A depressão pode ser invisível”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bianca-sollero-depressao/)
+- [A extraordinária história de João Gomes, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-extraordinaria-historia-de-joao-gomes-na-piaui/)
+- [Arte contemporânea na Casa de Cultura do Parque, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-na-casa-de-cultura-do-parque-em-sao-paulo/)
+- [Documentário sobre vida e obra de Fernanda Young](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-sobre-vida-e-obra-de-fernanda-young/)
+- [“V13: O julgamento dos atentados de Paris”, de Emmanuel Carrère](https://gamarevista.uol.com.br/achamos-que-vale/ler/v13-o-julgamento-dos-atentados-de-paris-de-emmanuel-carrere/)
+- [“Stop Making Sense”, do Talking Heads, nos cinemas do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/stop-making-sense-do-talking-heads-nos-cinemas-do-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
