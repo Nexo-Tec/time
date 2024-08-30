@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Como Ser Artista](https://gamarevista.uol.com.br/cultura/trecho-de-livro/como-ser-artista/)
+- [Por uma filantropia com a cara de Valdecir Nascimento](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/por-uma-filantropia-com-a-cara-de-valdecir-nascimento/)
 - [A extraordinária história de João Gomes, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-extraordinaria-historia-de-joao-gomes-na-piaui/)
 - [Arte contemporânea na Casa de Cultura do Parque, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-na-casa-de-cultura-do-parque-em-sao-paulo/)
 - [Documentário sobre vida e obra de Fernanda Young](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-sobre-vida-e-obra-de-fernanda-young/)
-- [“V13: O julgamento dos atentados de Paris”, de Emmanuel Carrère](https://gamarevista.uol.com.br/achamos-que-vale/ler/v13-o-julgamento-dos-atentados-de-paris-de-emmanuel-carrere/)
-- [“Stop Making Sense”, do Talking Heads, nos cinemas do Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/stop-making-sense-do-talking-heads-nos-cinemas-do-brasil/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
