@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros afroperiféricos para ler com as crianças](https://www.nexojornal.com.br/estante-favoritos/2024/08/30/5-livros-afroperifericos-para-ler-com-as-criancas)
+- [‘O diabo das províncias’: um estranho retorno](https://www.nexojornal.com.br/estante-trechos/2024/08/30/o-diabo-das-provincias-um-estranho-retorno)
+- [Caso Rubens Paiva: da luta política à adaptação para as telas](https://www.nexojornal.com.br/expresso/2024/08/30/caso-rubens-paiva-da-luta-politica-a-adaptacao-para-as-telas)
+- [A ordem para bloquear o X. As queimadas pelo país. E mais](https://www.nexojornal.com.br/video/2024/08/30/o-impasse-do-x-antigo-twitter-no-brasil-extratos-da-semana)
 - [Desemprego cai mais e fica no menor nível do trimestre até julho](https://www.nexojornal.com.br/extra/2024/08/30/desemprego-cai-mais-e-fica-no-menor-nivel-do-trimestre-ate-julho)
-- [Consentimento: não basta dizer sim ou não para evitar o estupro](https://www.nexojornal.com.br/colunistas/2024/08/30/consentimento-nao-basta-dizer-sim-ou-nao-para-evitar-o-estupro)
-- [Agência brasileira libera Meta a usar dados para treinar IA](https://www.nexojornal.com.br/extra/2024/08/30/agencia-brasileira-libera-meta-a-usar-dados-para-treinar-ia)
-- [A exposição que passeia por casas brutalistas em SP](https://www.nexojornal.com.br/expresso/2024/08/30/a-exposicao-que-passeia-por-casas-brutalistas-em-sp)
-- [O que marcou as gestões do Banco Central por indicados do PT](https://www.nexojornal.com.br/expresso/2024/08/29/presidentes-banco-central-pt)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
