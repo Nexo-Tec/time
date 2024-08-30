@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que marcou as gestões do Banco Central por indicados do PT](https://www.nexojornal.com.br/expresso/2024/08/29/presidentes-banco-central-pt)
+- [As redes sociais utilizadas pelos candidatos em 2024](https://www.nexojornal.com.br/grafico/2024/08/29/eleicoes-2024-as-redes-sociais-mais-usadas-em-campanha-eleitoral)
+- [Como o estilo da princesa Diana inspira a geração Z](https://www.nexojornal.com.br/expresso/2024/08/29/icone-pop-do-final-do-seculo-20-usava-modelos-para-se-comunicar-combinacoes-de-roupas-criadas-por-lady-di-continuam-influenciando-jovens)
+- [Brasil tem nova onda de calor no início de setembro](https://www.nexojornal.com.br/extra/2024/08/29/brasil-tem-nova-onda-de-calor-no-inicio-de-setembro)
 - [Por que queimadas são problema recorrente na Amazônia](https://www.nexojornal.com.br/podcast/2024/08/29/queimadas-na-amazonia-por-que-o-problema-e-recorrente)
-- [Avanço na segurança alimentar precisa ser mais igualitário](https://www.nexojornal.com.br/ensaio/2024/08/29/avanco-na-seguranca-alimentar-precisa-ser-mais-igualitario)
-- [Quais são as regras para redes sociais operarem no Brasil](https://www.nexojornal.com.br/expresso/2024/08/29/x-musk-quais-sao-as-regras-para-redes-sociais-operarem-no-brasil)
-- [Moraes intima Musk com tuíte e bloqueia contas da Starlink](https://www.nexojornal.com.br/extra/2024/08/29/moraes-intima-musk-com-tuite-e-bloqueia-contas-da-starlink)
-- [‘Pé de chinesa’: como a IA deu cara a uma novela fake da Globo](https://www.nexojornal.com.br/expresso/2024/08/29/pe-de-chinesa-como-a-ia-deu-cara-a-uma-novela-fake-da-globo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
