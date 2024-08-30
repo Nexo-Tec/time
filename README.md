@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Agência brasileira libera Meta a usar dados para treinar IA](https://www.nexojornal.com.br/extra/2024/08/30/agencia-brasileira-libera-meta-a-usar-dados-para-treinar-ia)
 - [A exposição que passeia por casas brutalistas em SP](https://www.nexojornal.com.br/expresso/2024/08/30/a-exposicao-que-passeia-por-casas-brutalistas-em-sp)
 - [O que marcou as gestões do Banco Central por indicados do PT](https://www.nexojornal.com.br/expresso/2024/08/29/presidentes-banco-central-pt)
 - [As redes sociais utilizadas pelos candidatos em 2024](https://www.nexojornal.com.br/grafico/2024/08/29/eleicoes-2024-as-redes-sociais-mais-usadas-em-campanha-eleitoral)
 - [Como o estilo da princesa Diana inspira a geração Z](https://www.nexojornal.com.br/expresso/2024/08/29/icone-pop-do-final-do-seculo-20-usava-modelos-para-se-comunicar-combinacoes-de-roupas-criadas-por-lady-di-continuam-influenciando-jovens)
-- [Brasil tem nova onda de calor no início de setembro](https://www.nexojornal.com.br/extra/2024/08/29/brasil-tem-nova-onda-de-calor-no-inicio-de-setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
