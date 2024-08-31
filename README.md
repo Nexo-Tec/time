@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros afroperiféricos para ler com as crianças](https://www.nexojornal.com.br/estante-favoritos/2024/08/30/5-livros-afroperifericos-para-ler-com-as-criancas)
-- [‘O diabo das províncias’: um estranho retorno](https://www.nexojornal.com.br/estante-trechos/2024/08/30/o-diabo-das-provincias-um-estranho-retorno)
-- [Caso Rubens Paiva: da luta política à adaptação para as telas](https://www.nexojornal.com.br/expresso/2024/08/30/caso-rubens-paiva-da-luta-politica-a-adaptacao-para-as-telas)
-- [A ordem para bloquear o X. As queimadas pelo país. E mais](https://www.nexojornal.com.br/video/2024/08/30/o-impasse-do-x-antigo-twitter-no-brasil-extratos-da-semana)
-- [Desemprego cai mais e fica no menor nível do trimestre até julho](https://www.nexojornal.com.br/extra/2024/08/30/desemprego-cai-mais-e-fica-no-menor-nivel-do-trimestre-ate-julho)
+- [A camisa que se tornou o item esportivo mais valioso do mundo](https://www.nexojornal.com.br/expresso/2024/08/30/a-camisa-que-se-tornou-o-item-esportivo-mais-valioso-do-mundo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/30/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-4)
+- [Proteção diante de riscos: a assistência social nos municípios](https://www.nexojornal.com.br/debate/2024/08/30/protecao-diante-de-riscos-a-assistencia-social-nos-municipios)
+- [Por que a Rússia agora está ao lado do fundador do Telegram](https://www.nexojornal.com.br/expresso/2024/08/30/russia-defende-liberdade-fundador-do-telegram-pavel-durov-preso-na-franca)
+- [Qual o papel das prefeituras no combate a queimadas](https://www.nexojornal.com.br/expresso/2024/08/30/qual-papel-prefeituras-queimadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
