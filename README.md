@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [OAB pede que multa para acesso ao X com VPN seja revista](https://www.nexojornal.com.br/extra/2024/08/31/oab-pede-que-multa-para-acesso-ao-x-com-vpn-seja-revista)
 - [A camisa que se tornou o item esportivo mais valioso do mundo](https://www.nexojornal.com.br/expresso/2024/08/30/a-camisa-que-se-tornou-o-item-esportivo-mais-valioso-do-mundo)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/08/30/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-4)
 - [Proteção diante de riscos: a assistência social nos municípios](https://www.nexojornal.com.br/debate/2024/08/30/protecao-diante-de-riscos-a-assistencia-social-nos-municipios)
 - [Por que a Rússia agora está ao lado do fundador do Telegram](https://www.nexojornal.com.br/expresso/2024/08/30/russia-defende-liberdade-fundador-do-telegram-pavel-durov-preso-na-franca)
-- [Qual o papel das prefeituras no combate a queimadas](https://www.nexojornal.com.br/expresso/2024/08/30/qual-papel-prefeituras-queimadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
