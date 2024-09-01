@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [CIA monitorou racismo no Brasil durante ditadura](https://www.nexojornal.com.br/externo/2024/08/31/cia-monitorou-racismo-no-brasil-durante-ditadura)
-- [‘Consentimento não é algo dado, mas uma negociação contínua’](https://www.nexojornal.com.br/entrevista/2024/08/31/consentimento-e-violencia-sexual-entrevista-arielle-scarpati)
-- [Os impactos do uso excessivo de telas na infância e adolescência](https://www.nexojornal.com.br/ensaio/2024/08/31/os-impactos-do-uso-excessivo-de-telas-na-infancia-e-adolescencia)
-- [Por que Bolsonaro não emplaca candidatos no Rio e em São Paulo](https://www.nexojornal.com.br/expresso/2024/08/31/bolsonaro-candidatos-rio-sao-paulo)
-- [OAB pede que multa para acesso ao X com VPN seja revista](https://www.nexojornal.com.br/extra/2024/08/31/oab-pede-que-multa-para-acesso-ao-x-com-vpn-seja-revista)
+- [Fumaça de queimadas está longe do foco das campanhas](https://www.nexojornal.com.br/externo/2024/09/01/fumaca-de-queimadas-esta-longe-do-foco-das-campanhas)
+- [Os desafios da política educacional nos municípios](https://www.nexojornal.com.br/debate/2024/09/01/os-desafios-da-politica-educacional-nos-municipios)
+- [O projeto controverso de um coletivo de arte sobre consumo animal](https://www.nexojornal.com.br/expresso/2024/09/01/projeto-controverso-coletivo-arte-consumo-animal-mschf-angus)
+- [‘Não é uma ideia radical que pessoas na prisão devam estudar’](https://www.nexojornal.com.br/entrevista/2024/09/01/baz-dreisinger-educacao-universitaria-prisoes)
+- [1ª turma do STF julga decisão de Moraes de suspender o X](https://www.nexojornal.com.br/extra/2024/09/01/1a-turma-do-stf-analisa-decisao-de-moraes-de-suspender-x)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
