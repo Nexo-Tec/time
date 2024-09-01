@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sônia Bridi: “Não tem imprensa capaz de cobrir todas as nossas tragédias com a intensidade que merecem”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sonia-bridi-imprensa-tragedias/)
 - [Como Ser Artista](https://gamarevista.uol.com.br/cultura/trecho-de-livro/como-ser-artista/)
 - [Por uma filantropia com a cara de Valdecir Nascimento](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/por-uma-filantropia-com-a-cara-de-valdecir-nascimento/)
 - [A extraordinária história de João Gomes, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-extraordinaria-historia-de-joao-gomes-na-piaui/)
 - [Arte contemporânea na Casa de Cultura do Parque, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/arte-contemporanea-na-casa-de-cultura-do-parque-em-sao-paulo/)
-- [Documentário sobre vida e obra de Fernanda Young](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-sobre-vida-e-obra-de-fernanda-young/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
