@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O mundo é melhor depois dos vazamentos do Wikileaks?](https://www.nexojornal.com.br/ensaio/2024/09/02/o-mundo-e-melhor-depois-dos-vazamentos-do-wikileaks)
 - [Milhares vão às ruas de Tel Aviv após reféns serem achados mortos](https://www.nexojornal.com.br/extra/2024/09/01/milhares-vao-as-ruas-de-tel-aviv-apos-refens-serem-achados-mortos)
 - [Fumaça de queimadas está longe do foco das campanhas](https://www.nexojornal.com.br/externo/2024/09/01/fumaca-de-queimadas-esta-longe-do-foco-das-campanhas)
 - [Os desafios da política educacional nos municípios](https://www.nexojornal.com.br/debate/2024/09/01/os-desafios-da-politica-educacional-nos-municipios)
 - [O projeto controverso de um coletivo de arte sobre consumo animal](https://www.nexojornal.com.br/expresso/2024/09/01/projeto-controverso-coletivo-arte-consumo-animal-mschf-angus)
-- [‘Não é uma ideia radical que pessoas na prisão devam estudar’](https://www.nexojornal.com.br/entrevista/2024/09/01/baz-dreisinger-educacao-universitaria-prisoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
