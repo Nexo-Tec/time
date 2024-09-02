@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Maternidade ancestral: a criação de filhos indígenas](https://www.nexojornal.com.br/externo/2024/09/02/maternidade-ancestral-a-criacao-de-filhos-indigenas)
+- [Como os colégios privados matam o nosso futuro](https://www.nexojornal.com.br/colunistas/2024/09/02/como-os-colegios-privados-matam-o-nosso-futuro)
 - [Por que os clubes se unem em ligas para negociar transmissões](https://www.nexojornal.com.br/expresso/2024/09/02/brasileirao-transmissao-record-acordo-com-ligas-de-clubes)
 - [Como o racismo pode levar ao envelhecimento](https://www.nexojornal.com.br/externo/2024/09/02/como-o-racismo-pode-levar-ao-envelhecimento)
 - [Por que os EUA celebram o Dia do Trabalho em setembro](https://www.nexojornal.com.br/expresso/2024/09/02/dia-do-trabalho-nos-eua-data-diferente-razao-labor-day)
-- [O mundo é melhor depois dos vazamentos do Wikileaks?](https://www.nexojornal.com.br/ensaio/2024/09/02/o-mundo-e-melhor-depois-dos-vazamentos-do-wikileaks)
-- [Milhares vão às ruas de Tel Aviv após reféns serem achados mortos](https://www.nexojornal.com.br/extra/2024/09/01/milhares-vao-as-ruas-de-tel-aviv-apos-refens-serem-achados-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
