@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@oficialfernandatorres](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/oficialfernandatorres/)
+- [@oficialfernanda torres](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/oficialfernandatorres/)
 - [Hoje desejo apenas uma coisa](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-desejo-apenas-uma-coisa/)
 - [Boné de crochê](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bone-de-croche/)
 - [Sônia Bridi: “Não tem imprensa capaz de cobrir todas as nossas tragédias com a intensidade que merecem”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sonia-bridi-imprensa-tragedias/)
