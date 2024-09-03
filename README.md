@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Qual a importância da acessibilidade para idosos nas cidades](https://pp.nexojornal.com.br/topico/2024/09/03/qual-a-importancia-da-acessibilidade-para-idosos-nas-cidades/)
 - [A imunização de crianças e adolescentes, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/03/a-imunizacao-de-criancas-e-adolescentes-em-7-pontos/)
 - [O que Josué de Castro diria sobre os alimentos ultraprocessados?](https://pp.nexojornal.com.br/opiniao/2024/09/03/o-que-josue-de-castro-diria-sobre-os-alimentos-ultraprocessados/)
 - [Tecnologia aliada no cuidado: IA e aplicativos no apoio a cuidadores familiares](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/03/tecnologia-aliada-no-cuidado-ia-e-aplicativos-no-apoio-a-cuidadores-familiares/)
 - [A importância dos Agentes Comunitários de Saúde em tempos de violência e políticas em mudança](https://pp.nexojornal.com.br/opiniao/2024/08/29/a-importancia-dos-agentes-comunitarios-de-saude-em-tempos-de-violencia-e-politicas-em-mudanca/)
-- [A obesidade como um desafio de saúde pública, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/08/29/a-obesidade-como-um-desafio-de-saude-publica-em-6-pontos/)
 <!-- PP_LIST:END -->
 
