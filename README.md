@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As ordens judiciais de Moraes sobre o X avançaram o sinal?](https://www.nexojornal.com.br/expresso/2024/09/02/twitter-brasil-caiu-por-abuso-de-poder-de-alexandre-de-moraes)
+- [Por que nem a morte de reféns leva Israel ao cessar-fogo](https://www.nexojornal.com.br/expresso/2024/09/02/guerra-israel-protesto-morte-de-refens-cessar-fogo)
+- [As trincheiras políticas no bloqueio do X no Brasil](https://www.nexojornal.com.br/podcast/2024/09/02/bloqueio-twitter-no-brasil-razao-e-diferenca-politica)
 - [Maternidade ancestral: a criação de filhos indígenas](https://www.nexojornal.com.br/externo/2024/09/02/maternidade-ancestral-a-criacao-de-filhos-indigenas)
 - [Como os colégios privados matam o nosso futuro](https://www.nexojornal.com.br/colunistas/2024/09/02/como-os-colegios-privados-matam-o-nosso-futuro)
-- [Por que os clubes se unem em ligas para negociar transmissões](https://www.nexojornal.com.br/expresso/2024/09/02/brasileirao-transmissao-record-acordo-com-ligas-de-clubes)
-- [Como o racismo pode levar ao envelhecimento](https://www.nexojornal.com.br/externo/2024/09/02/como-o-racismo-pode-levar-ao-envelhecimento)
-- [Por que os EUA celebram o Dia do Trabalho em setembro](https://www.nexojornal.com.br/expresso/2024/09/02/dia-do-trabalho-nos-eua-data-diferente-razao-labor-day)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
