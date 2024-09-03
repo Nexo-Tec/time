@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O rio da Amazônia que virou símbolo da seca no Brasil](https://www.nexojornal.com.br/podcast/2024/09/03/seca-na-amazonia-rio-madeira-atinge-menor-nivel)
+- [Como a alta do PIB pode recalcular a rota na economia](https://www.nexojornal.com.br/expresso/2024/09/03/pib-do-brasil-cresce-14-impacto-na-economia)
+- [Maduro adianta Natal para outubro na Venezuela](https://www.nexojornal.com.br/extra/2024/09/03/maduro-adianta-natal-para-outubro-na-venezuela)
 - [O que cerca o momento histórico de Bia Haddad no US Open](https://www.nexojornal.com.br/expresso/2024/09/03/bia-haddad-quartas-final-us-open-muchova)
 - [PIB do Brasil cresce 1,4% no 2º trimestre, segundo IBGE](https://www.nexojornal.com.br/extra/2024/09/03/pib-do-brasil-cresce-acima-do-esperado)
-- [Justiça da Venezuela manda prender opositor González](https://www.nexojornal.com.br/extra/2024/09/03/justica-da-venezuela-manda-prender-opositor-gonzalez)
-- [As ordens judiciais de Moraes sobre o X avançaram o sinal?](https://www.nexojornal.com.br/expresso/2024/09/02/twitter-brasil-caiu-por-abuso-de-poder-de-alexandre-de-moraes)
-- [Por que nem a morte de reféns leva Israel ao cessar-fogo](https://www.nexojornal.com.br/expresso/2024/09/02/guerra-israel-protesto-morte-de-refens-cessar-fogo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
