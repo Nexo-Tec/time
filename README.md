@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais são as conexões do partido de Marçal com o PCC](https://www.nexojornal.com.br/expresso/2024/09/04/prtb-marcal-pcc)
+- [Deolane Bezerra é presa em operação contra jogos ilegais](https://www.nexojornal.com.br/extra/2024/09/04/deolane-bezerra-presa)
 - [Hackers atacam STF, PF e Anatel em meio a suspensão do X](https://www.nexojornal.com.br/extra/2024/09/03/hackers-atacam-stf-pf-e-anatel-em-meio-a-suspensao-do-x)
 - [Quantos professores estão concorrendo nas eleições de 2024](https://www.nexojornal.com.br/grafico/2024/09/03/eleicoes-2024-candidatos-que-sao-professores)
 - [O rio da Amazônia que virou símbolo da seca no Brasil](https://www.nexojornal.com.br/podcast/2024/09/03/seca-na-amazonia-rio-madeira-atinge-menor-nivel)
-- [Como a alta do PIB pode recalcular a rota na economia](https://www.nexojornal.com.br/expresso/2024/09/03/pib-do-brasil-cresce-14-impacto-na-economia)
-- [Maduro adianta Natal para outubro na Venezuela](https://www.nexojornal.com.br/extra/2024/09/03/maduro-adianta-natal-para-outubro-na-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
