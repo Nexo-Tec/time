@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ucrânia tem apagão de ministros às vésperas de ‘plano da vitória’](https://www.nexojornal.com.br/extra/2024/09/04/ucrania-tem-apagao-de-ministros-as-vesperas-de-plano-da-vitoria)
 - [O que são pontos facultativos. E quem os decreta](https://www.nexojornal.com.br/expresso/2024/09/04/o-que-sao-pontos-facultativos-e-quem-os-decreta)
 - [Make medicine great again](https://www.nexojornal.com.br/colunistas/2024/09/04/make-medicine-great-again)
 - [Quais são as conexões do partido de Marçal com o PCC](https://www.nexojornal.com.br/expresso/2024/09/04/prtb-marcal-pcc)
 - [Deolane Bezerra é presa em operação contra jogos ilegais](https://www.nexojornal.com.br/extra/2024/09/04/deolane-bezerra-presa)
-- [Hackers atacam STF, PF e Anatel em meio a suspensão do X](https://www.nexojornal.com.br/extra/2024/09/03/hackers-atacam-stf-pf-e-anatel-em-meio-a-suspensao-do-x)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
