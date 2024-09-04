@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Senado vota indicação de Galípolo para o BC em 8 de outubro](https://www.nexojornal.com.br/extra/2024/09/04/senado-anuncia-votacao-de-indicacao-de-gabriel-galipolo-ao-bc)
 - [As diferenças entre os maiores prêmios individuais do futebol](https://www.nexojornal.com.br/expresso/2024/09/04/as-diferencas-entre-os-maiores-premios-individuais-do-futebol)
 - [Ucrânia tem apagão de ministros às vésperas de ‘plano da vitória’](https://www.nexojornal.com.br/extra/2024/09/04/ucrania-tem-apagao-de-ministros-as-vesperas-de-plano-da-vitoria)
 - [O que são pontos facultativos. E quem os decreta](https://www.nexojornal.com.br/expresso/2024/09/04/o-que-sao-pontos-facultativos-e-quem-os-decreta)
 - [Make medicine great again](https://www.nexojornal.com.br/colunistas/2024/09/04/make-medicine-great-again)
-- [Quais são as conexões do partido de Marçal com o PCC](https://www.nexojornal.com.br/expresso/2024/09/04/prtb-marcal-pcc)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
