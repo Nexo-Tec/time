@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As trocas no governo da Ucrânia numa fase crítica da guerra](https://www.nexojornal.com.br/podcast/2024/09/05/guerra-ucrania-trocas-no-governo-de-zelensky)
 - [As transmissões de futebol longe dos centros hegemônicos](https://www.nexojornal.com.br/academico/2024/09/05/as-transmissoes-de-futebol-longe-dos-centros-hegemonicos)
 - [Os desafios de Natal para lidar com o avanço do mar](https://www.nexojornal.com.br/externo/2024/09/05/os-desafios-de-natal-para-lidar-com-o-avanco-do-mar)
 - [As manobras de Macron para escolher seu primeiro-ministro](https://www.nexojornal.com.br/expresso/2024/09/05/macron-indica-candidato-de-direita-para-primeiro-ministro-da-franca-michel-barnier)
 - [Por que a promoção da diversidade perde espaço nas big techs](https://www.nexojornal.com.br/expresso/2024/09/05/cortes-dei-diversidade-big-techs)
-- [Por que o Brasil vive a maior seca de sua história](https://www.nexojornal.com.br/expresso/2024/09/04/meio-ambiente-motivo-da-seca-historica-em-2024-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
