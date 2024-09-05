@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o Brasil vive a maior seca de sua história](https://www.nexojornal.com.br/expresso/2024/09/04/meio-ambiente-motivo-da-seca-historica-em-2024-brasil)
+- [O partido de esquerda populista que desponta na Alemanha](https://www.nexojornal.com.br/expresso/2024/09/04/politica-na-alemanha-eleicoes-partido-de-esquerda-bsw)
+- [A volta de Michael Keaton e Winona Ryder em ‘Beetlejuice 2’](https://www.nexojornal.com.br/expresso/2024/09/04/beetlejuice-2-de-tim-burton-marca-o-retorno-de-michael-keaton-e-winona-ryder)
+- [O bolsonarismo morreu, viva o extremismo](https://www.nexojornal.com.br/colunistas/2024/09/04/o-bolsonarismo-morreu-viva-o-extremismo)
 - [Por que o Brasil vai tão bem nas Paralimpíadas de Paris](https://www.nexojornal.com.br/podcast/2024/09/04/por-que-brasil-vai-tao-bem-nas-paralimpiadas)
-- [Senado vota indicação de Galípolo para o BC em 8 de outubro](https://www.nexojornal.com.br/extra/2024/09/04/senado-anuncia-votacao-de-indicacao-de-gabriel-galipolo-ao-bc)
-- [As diferenças entre os maiores prêmios individuais do futebol](https://www.nexojornal.com.br/expresso/2024/09/04/as-diferencas-entre-os-maiores-premios-individuais-do-futebol)
-- [Ucrânia tem apagão de ministros às vésperas de ‘plano da vitória’](https://www.nexojornal.com.br/extra/2024/09/04/ucrania-tem-apagao-de-ministros-as-vesperas-de-plano-da-vitoria)
-- [O que são pontos facultativos. E quem os decreta](https://www.nexojornal.com.br/expresso/2024/09/04/o-que-sao-pontos-facultativos-e-quem-os-decreta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
