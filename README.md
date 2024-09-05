@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a promoção da diversidade perde espaço nas big techs](https://www.nexojornal.com.br/expresso/2024/09/05/cortes-dei-diversidade-big-techs)
 - [Por que o Brasil vive a maior seca de sua história](https://www.nexojornal.com.br/expresso/2024/09/04/meio-ambiente-motivo-da-seca-historica-em-2024-brasil)
 - [O partido de esquerda populista que desponta na Alemanha](https://www.nexojornal.com.br/expresso/2024/09/04/politica-na-alemanha-eleicoes-partido-de-esquerda-bsw)
 - [A volta de Michael Keaton e Winona Ryder em ‘Beetlejuice 2’](https://www.nexojornal.com.br/expresso/2024/09/04/beetlejuice-2-de-tim-burton-marca-o-retorno-de-michael-keaton-e-winona-ryder)
 - [O bolsonarismo morreu, viva o extremismo](https://www.nexojornal.com.br/colunistas/2024/09/04/o-bolsonarismo-morreu-viva-o-extremismo)
-- [Por que o Brasil vai tão bem nas Paralimpíadas de Paris](https://www.nexojornal.com.br/podcast/2024/09/04/por-que-brasil-vai-tao-bem-nas-paralimpiadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
