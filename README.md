@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Os encontros do Coala Festival, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/os-encontros-do-coala-festival-em-sp/)
+- [A sequência do clássico pop “Os Fantasmas se Divertem”, de Tim Burton](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-sequencia-do-classico-pop-os-fantasmas-se-divertem-de-tim-burton/)
 - [“Funk Superação”, novo álbum de MC Hariel](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/funk-superacao-novo-album-de-mc-hariel/)
 - [Um ensaio de Ted Chiang sobre arte e IA na New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-ensaio-de-ted-chiang-sobre-arte-e-ia-na-new-yorker/)
 - [“Uma Vertigem Visionária — Brasil: Nunca Mais”, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-vertigem-visionaria-brasil-nunca-mais-em-sp/)
-- [Rainha indestrutível](https://gamarevista.uol.com.br/colunistas/maria-homem/rainha-indestrutivel/)
-- [Use filtro solar?](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/use-filtro-solar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
