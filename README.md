@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As transmissões de futebol longe dos centros hegemônicos](https://www.nexojornal.com.br/academico/2024/09/05/as-transmissoes-de-futebol-longe-dos-centros-hegemonicos)
+- [Os desafios de Natal para lidar com o avanço do mar](https://www.nexojornal.com.br/externo/2024/09/05/os-desafios-de-natal-para-lidar-com-o-avanco-do-mar)
 - [As manobras de Macron para escolher seu primeiro-ministro](https://www.nexojornal.com.br/expresso/2024/09/05/macron-indica-candidato-de-direita-para-primeiro-ministro-da-franca-michel-barnier)
 - [Por que a promoção da diversidade perde espaço nas big techs](https://www.nexojornal.com.br/expresso/2024/09/05/cortes-dei-diversidade-big-techs)
 - [Por que o Brasil vive a maior seca de sua história](https://www.nexojornal.com.br/expresso/2024/09/04/meio-ambiente-motivo-da-seca-historica-em-2024-brasil)
-- [O partido de esquerda populista que desponta na Alemanha](https://www.nexojornal.com.br/expresso/2024/09/04/politica-na-alemanha-eleicoes-partido-de-esquerda-bsw)
-- [A volta de Michael Keaton e Winona Ryder em ‘Beetlejuice 2’](https://www.nexojornal.com.br/expresso/2024/09/04/beetlejuice-2-de-tim-burton-marca-o-retorno-de-michael-keaton-e-winona-ryder)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
