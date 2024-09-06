@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para apreciar a potência do erotismo na literatura](https://www.nexojornal.com.br/estante-favoritos/2024/09/06/5-livros-para-apreciar-a-potencia-do-erotismo-na-literatura)
+- [A alta além do esperado no PIB. A seca no Brasil. E mais](https://www.nexojornal.com.br/podcast/2024/09/06/a-alta-alem-do-esperado-no-pib-a-seca-no-brasil-e-mais)
+- [4 obras para conhecer a artista cubana Ana Mendieta](https://www.nexojornal.com.br/expresso/2024/09/06/a-arte-de-ana-mendieta)
+- [Qual é o caminho de um filme brasileiro para disputar o Oscar](https://www.nexojornal.com.br/expresso/2024/09/06/como-um-filme-brasileiro-e-selecionado-para-o-oscar)
 - [‘O fim do maxixe’: crônicas sobre a modernização do Rio](https://www.nexojornal.com.br/estante-trechos/2024/09/06/o-fim-do-maxixe-cronicas-sobre-a-modernizacao-do-rio)
-- [Alertas de umidade: o que são e quais as diferenças entre eles](https://www.nexojornal.com.br/index/2024/09/06/alertas-de-umidade-o-que-sao-e-quais-as-diferencas-entre-eles)
-- [Músico brasileiro Sérgio Mendes morre aos 83 anos](https://www.nexojornal.com.br/extra/2024/09/06/sergio-mendes-morreu)
-- [Como o bloqueio do X transformou o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2024/09/06/bloqueio-x-7-de-setembro-bolsonarista)
-- [O número de vagas para as câmaras municipais em 2024](https://www.nexojornal.com.br/grafico/2024/09/05/camara-de-vereadores-numero-de-vagas-eleicao-2024-2)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
