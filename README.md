@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘O fim do maxixe’: crônicas sobre a modernização do Rio](https://www.nexojornal.com.br/estante-trechos/2024/09/06/o-fim-do-maxixe-cronicas-sobre-a-modernizacao-do-rio)
+- [Alertas de umidade: o que são e quais as diferenças entre eles](https://www.nexojornal.com.br/index/2024/09/06/alertas-de-umidade-o-que-sao-e-quais-as-diferencas-entre-eles)
+- [Músico brasileiro Sérgio Mendes morre aos 83 anos](https://www.nexojornal.com.br/extra/2024/09/06/sergio-mendes-morreu)
 - [Como o bloqueio do X transformou o 7 de setembro bolsonarista](https://www.nexojornal.com.br/expresso/2024/09/06/bloqueio-x-7-de-setembro-bolsonarista)
 - [O número de vagas para as câmaras municipais em 2024](https://www.nexojornal.com.br/grafico/2024/09/05/camara-de-vereadores-numero-de-vagas-eleicao-2024-2)
-- [Por que o Brasil mede tão mal sua qualidade do ar](https://www.nexojornal.com.br/expresso/2024/09/05/qualidade-do-ar-brasil-parametro-diferente-da-oms)
-- [Os indícios de que Belo Horizonte virou à direita](https://www.nexojornal.com.br/debate/2024/09/05/os-indicios-de-que-belo-horizonte-virou-a-direita)
-- [Lula diz não aceitar assédio sexual e põe ministro na berlinda](https://www.nexojornal.com.br/extra/2024/09/05/denuncias-de-assedio-contra-silvio-almeida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
