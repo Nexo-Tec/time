@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Além das Guardas Municipais: os municípios e a segurança pública](https://www.nexojornal.com.br/debate/2024/09/06/alem-das-guardas-municipais-os-municipios-e-a-seguranca-publica)
+- [Por que fumar hoje é mais barato do que em 2012](https://www.nexojornal.com.br/externo/2024/09/06/por-que-fumar-hoje-e-mais-barato-do-que-em-2012)
+- [Como o uso de agrotóxicos adoece bebês no campo](https://www.nexojornal.com.br/externo/2024/09/06/como-o-uso-de-agrotoxicos-adoece-bebes-no-campo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/06/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-5)
 - [5 livros para apreciar a potência do erotismo na literatura](https://www.nexojornal.com.br/estante-favoritos/2024/09/06/5-livros-para-apreciar-a-potencia-do-erotismo-na-literatura)
-- [A alta além do esperado no PIB. A seca no Brasil. E mais](https://www.nexojornal.com.br/podcast/2024/09/06/a-alta-alem-do-esperado-no-pib-a-seca-no-brasil-e-mais)
-- [4 obras para conhecer a artista cubana Ana Mendieta](https://www.nexojornal.com.br/expresso/2024/09/06/a-arte-de-ana-mendieta)
-- [Qual é o caminho de um filme brasileiro para disputar o Oscar](https://www.nexojornal.com.br/expresso/2024/09/06/como-um-filme-brasileiro-e-selecionado-para-o-oscar)
-- [‘O fim do maxixe’: crônicas sobre a modernização do Rio](https://www.nexojornal.com.br/estante-trechos/2024/09/06/o-fim-do-maxixe-cronicas-sobre-a-modernizacao-do-rio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
