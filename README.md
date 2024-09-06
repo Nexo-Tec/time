@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O número de vagas para as câmaras municipais em 2024](https://www.nexojornal.com.br/grafico/2024/09/05/camara-de-vereadores-numero-de-vagas-eleicao-2024-2)
 - [Por que o Brasil mede tão mal sua qualidade do ar](https://www.nexojornal.com.br/expresso/2024/09/05/qualidade-do-ar-brasil-parametro-diferente-da-oms)
 - [Os indícios de que Belo Horizonte virou à direita](https://www.nexojornal.com.br/debate/2024/09/05/os-indicios-de-que-belo-horizonte-virou-a-direita)
-- [PF apura conduta de ministro, que interpela Me Too na Justiça](https://www.nexojornal.com.br/extra/2024/09/05/denuncias-de-assedio-contra-silvio-almeida)
+- [Lula diz não aceitar assédio sexual e põe ministro na berlinda](https://www.nexojornal.com.br/extra/2024/09/05/denuncias-de-assedio-contra-silvio-almeida)
 - [As trocas no governo da Ucrânia numa fase crítica da guerra](https://www.nexojornal.com.br/podcast/2024/09/05/guerra-ucrania-trocas-no-governo-de-zelensky)
 <!-- NEXO_LIST:END -->
 
