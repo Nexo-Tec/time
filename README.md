@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a palavra da vítima é central em casos de assédio sexual](https://www.nexojornal.com.br/expresso/2024/09/06/assedio-sexual-silvio-almeida-depoimento-das-vitimas-pode-ser-considerado-prova)
 - [Além das Guardas Municipais: os municípios e a segurança pública](https://www.nexojornal.com.br/debate/2024/09/06/alem-das-guardas-municipais-os-municipios-e-a-seguranca-publica)
 - [Por que fumar hoje é mais barato do que em 2012](https://www.nexojornal.com.br/externo/2024/09/06/por-que-fumar-hoje-e-mais-barato-do-que-em-2012)
 - [Como o uso de agrotóxicos adoece bebês no campo](https://www.nexojornal.com.br/externo/2024/09/06/como-o-uso-de-agrotoxicos-adoece-bebes-no-campo)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/06/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-5)
-- [5 livros para apreciar a potência do erotismo na literatura](https://www.nexojornal.com.br/estante-favoritos/2024/09/06/5-livros-para-apreciar-a-potencia-do-erotismo-na-literatura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
