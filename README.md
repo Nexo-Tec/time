@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os desafios para a conservação das áreas alagáveis dos rios da Amazônia, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/08/os-desafios-para-a-conservacao-das-areas-alagaveis-dos-rios-da-amazonia-em-4-pontos/)
+- [A poética da Tarifa Zero: a expansão da gratuidade e o conflito redistributivo](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/08/a-poetica-da-tarifa-zero-a-expansao-da-gratuidade-e-o-conflito-redistributivo/)
 - [Entre pautas midiáticas e a busca de redução de direitos](https://pp.nexojornal.com.br/opiniao/2024/09/08/entre-pautas-midiaticas-e-a-busca-de-reducao-de-direitos/)
 - [Como funciona a classificação racial?](https://pp.nexojornal.com.br/opiniao/2024/09/08/como-funciona-a-classificacao-racial/)
 - [Notas para pensar o antirracismo no pagode noventista](https://pp.nexojornal.com.br/opiniao/2024/09/08/notas-para-pensar-o-antirracismo-no-pagode-noventista/)
-- [Qual a importância da acessibilidade para idosos nas cidades](https://pp.nexojornal.com.br/topico/2024/09/03/qual-a-importancia-da-acessibilidade-para-idosos-nas-cidades/)
-- [A imunização de crianças e adolescentes, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/03/a-imunizacao-de-criancas-e-adolescentes-em-7-pontos/)
 <!-- PP_LIST:END -->
 
