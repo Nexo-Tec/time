@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Entre pautas midiáticas e a busca de redução de direitos](https://pp.nexojornal.com.br/opiniao/2024/09/08/entre-pautas-midiaticas-e-a-busca-de-reducao-de-direitos/)
+- [Como funciona a classificação racial?](https://pp.nexojornal.com.br/opiniao/2024/09/08/como-funciona-a-classificacao-racial/)
+- [Notas para pensar o antirracismo no pagode noventista](https://pp.nexojornal.com.br/opiniao/2024/09/08/notas-para-pensar-o-antirracismo-no-pagode-noventista/)
 - [Qual a importância da acessibilidade para idosos nas cidades](https://pp.nexojornal.com.br/topico/2024/09/03/qual-a-importancia-da-acessibilidade-para-idosos-nas-cidades/)
 - [A imunização de crianças e adolescentes, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/03/a-imunizacao-de-criancas-e-adolescentes-em-7-pontos/)
-- [O que Josué de Castro diria sobre os alimentos ultraprocessados?](https://pp.nexojornal.com.br/opiniao/2024/09/03/o-que-josue-de-castro-diria-sobre-os-alimentos-ultraprocessados/)
-- [Tecnologia aliada no cuidado: IA e aplicativos no apoio a cuidadores familiares](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/03/tecnologia-aliada-no-cuidado-ia-e-aplicativos-no-apoio-a-cuidadores-familiares/)
-- [A importância dos Agentes Comunitários de Saúde em tempos de violência e políticas em mudança](https://pp.nexojornal.com.br/opiniao/2024/08/29/a-importancia-dos-agentes-comunitarios-de-saude-em-tempos-de-violencia-e-politicas-em-mudanca/)
 <!-- PP_LIST:END -->
 
