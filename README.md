@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como os surrealistas utilizavam o acaso em sua arte](https://www.nexojornal.com.br/externo/2024/09/08/como-os-surrealistas-utilizavam-o-acaso-em-sua-arte)
+- [A disputa feminina na eleição de Aracaju. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2024/09/08/candidatas-mulheres-nas-eleicoes-2024aracaju-tem-numero-recorde)
+- [Para além das ‘saidinhas’: por uma reintegração eficaz](https://www.nexojornal.com.br/ensaio/2024/09/08/para-alem-das-saidinhas-por-uma-reintegracao-eficaz)
+- [Como interpretar as pesquisas eleitorais americanas](https://www.nexojornal.com.br/expresso/2024/09/08/eleicoes-eua-2024-pesquisas-eleitorais-americanas)
 - [Bolsonaro cobra ação do congresso contra Moraes em ato em SP](https://www.nexojornal.com.br/extra/2024/09/07/ato-de-bolsonaro-no-7-de-setembro)
-- [Brasileiro ‘Ainda estou aqui’ é premiado no Festival de Veneza](https://www.nexojornal.com.br/extra/2024/09/07/brasileiro-ainda-estou-aqui-e-premiado-no-festival-de-veneza)
-- [Por que a palavra da vítima é central em casos de assédio sexual](https://www.nexojornal.com.br/expresso/2024/09/06/assedio-sexual-silvio-almeida-depoimento-das-vitimas-pode-ser-considerado-prova)
-- [Além das Guardas Municipais: os municípios e a segurança pública](https://www.nexojornal.com.br/debate/2024/09/06/alem-das-guardas-municipais-os-municipios-e-a-seguranca-publica)
-- [Por que fumar hoje é mais barato do que em 2012](https://www.nexojornal.com.br/externo/2024/09/06/por-que-fumar-hoje-e-mais-barato-do-que-em-2012)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
