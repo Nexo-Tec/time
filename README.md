@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Perseguido na Venezuela, González se asila na Espanha](https://www.nexojornal.com.br/extra/2024/09/08/perseguido-na-venezuela-gonzalez-se-asila-na-espanha)
 - [Como os surrealistas utilizavam o acaso em sua arte](https://www.nexojornal.com.br/externo/2024/09/08/como-os-surrealistas-utilizavam-o-acaso-em-sua-arte)
 - [A disputa feminina na eleição de Aracaju. E o cenário no Brasil](https://www.nexojornal.com.br/expresso/2024/09/08/candidatas-mulheres-nas-eleicoes-2024aracaju-tem-numero-recorde)
 - [Para além das ‘saidinhas’: por uma reintegração eficaz](https://www.nexojornal.com.br/ensaio/2024/09/08/para-alem-das-saidinhas-por-uma-reintegracao-eficaz)
 - [Como interpretar as pesquisas eleitorais americanas](https://www.nexojornal.com.br/expresso/2024/09/08/eleicoes-eua-2024-pesquisas-eleitorais-americanas)
-- [Bolsonaro cobra ação do congresso contra Moraes em ato em SP](https://www.nexojornal.com.br/extra/2024/09/07/ato-de-bolsonaro-no-7-de-setembro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
