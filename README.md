@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desafio dos custos de publicação para pesquisadores](https://www.nexojornal.com.br/externo/2024/09/09/o-desafio-dos-custos-de-publicacao-para-pesquisadores)
 - [Macaé Evaristo é nova ministra dos Direitos Humanos](https://www.nexojornal.com.br/extra/2024/09/09/macae-evaristo-e-nova-ministra-dos-direitos-humanos)
 - [O aplicativo que ajuda cientistas a encontrar buracos negros](https://www.nexojornal.com.br/expresso/2024/09/09/como-achar-buracos-negros)
 - [‘E o do meio?’: como equilibrar a atenção entre os filhos](https://www.nexojornal.com.br/externo/2024/09/08/e-o-do-meio-como-equilibrar-a-atencao-entre-os-filhos)
 - [Passarinhar: o hobby que ajuda cientistas em novas descobertas](https://www.nexojornal.com.br/expresso/2024/09/08/passarinhar-hobby-ajuda-cientistas-em-descobertas)
-- [A &lpar;sub&rpar;representação feminina nos governos municipais](https://www.nexojornal.com.br/debate/2024/09/08/a-subrepresentacao-feminina-nos-governos-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
