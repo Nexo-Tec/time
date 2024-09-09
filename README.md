@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O aplicativo que ajuda cientistas a encontrar buracos negros](https://www.nexojornal.com.br/expresso/2024/09/09/como-achar-buracos-negros)
 - [‘E o do meio?’: como equilibrar a atenção entre os filhos](https://www.nexojornal.com.br/externo/2024/09/08/e-o-do-meio-como-equilibrar-a-atencao-entre-os-filhos)
 - [Passarinhar: o hobby que ajuda cientistas em novas descobertas](https://www.nexojornal.com.br/expresso/2024/09/08/passarinhar-hobby-ajuda-cientistas-em-descobertas)
 - [A &lpar;sub&rpar;representação feminina nos governos municipais](https://www.nexojornal.com.br/debate/2024/09/08/a-subrepresentacao-feminina-nos-governos-municipais)
 - [O quadro das capitais do Norte nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/08/disputa-prefeituras-capitais-norte)
-- [Brasil bate recorde e termina Paralimpíadas entre os 5 melhores](https://www.nexojornal.com.br/extra/2024/09/08/brasil-bate-recorde-e-termina-paralimpiadas-entre-os-5-melhores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
