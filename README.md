@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais os efeitos para a saúde de respirar um ar tão ruim](https://www.nexojornal.com.br/podcast/2024/09/09/poluicao-ar-efeitos-na-saude)
 - [Por que o game ‘Concord’, aposta da Sony, foi um fracasso](https://www.nexojornal.com.br/expresso/2024/09/09/sony-tira-do-ar-jogo-de-videogame-concord)
 - [O desafio dos custos de publicação para pesquisadores](https://www.nexojornal.com.br/externo/2024/09/09/o-desafio-dos-custos-de-publicacao-para-pesquisadores)
 - [Macaé Evaristo é nova ministra dos Direitos Humanos](https://www.nexojornal.com.br/extra/2024/09/09/macae-evaristo-e-nova-ministra-dos-direitos-humanos)
 - [O aplicativo que ajuda cientistas a encontrar buracos negros](https://www.nexojornal.com.br/expresso/2024/09/09/como-achar-buracos-negros)
-- [‘E o do meio?’: como equilibrar a atenção entre os filhos](https://www.nexojornal.com.br/externo/2024/09/08/e-o-do-meio-como-equilibrar-a-atencao-entre-os-filhos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
