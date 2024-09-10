@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Proteínas vegetais aprimoram produção de carne de laboratório](https://www.nexojornal.com.br/externo/2024/09/09/proteinas-vegetais-aprimoram-producao-de-carne-de-laboratorio)
+- [Como o exílio de Edmundo González mexe com a Venezuela](https://www.nexojornal.com.br/expresso/2024/09/09/exilio-edmundo-gonzalez-impacto-venezuela)
+- [O quadro das capitais do Nordeste nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/09/disputa-prefeituras-capitais-nordeste)
 - [Quais os efeitos para a saúde de respirar um ar tão ruim](https://www.nexojornal.com.br/podcast/2024/09/09/poluicao-ar-efeitos-na-saude)
 - [Por que o game ‘Concord’, aposta da Sony, foi um fracasso](https://www.nexojornal.com.br/expresso/2024/09/09/sony-tira-do-ar-jogo-de-videogame-concord)
-- [O desafio dos custos de publicação para pesquisadores](https://www.nexojornal.com.br/externo/2024/09/09/o-desafio-dos-custos-de-publicacao-para-pesquisadores)
-- [Macaé Evaristo é nova ministra dos Direitos Humanos](https://www.nexojornal.com.br/extra/2024/09/09/macae-evaristo-e-nova-ministra-dos-direitos-humanos)
-- [O aplicativo que ajuda cientistas a encontrar buracos negros](https://www.nexojornal.com.br/expresso/2024/09/09/como-achar-buracos-negros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
