@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [@izaaktheo](https://gamarevista.uol.com.br/sem-categoria/izaaktheo/)
+- [@izaaktheo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/izaaktheo/)
 - [Um brigadeiro para comer de colher no copinho de chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-brigadeiro-para-comer-de-colher-no-copinho-de-chocolate/)
 - [É intolerável querer tratar nos bastidores do poder as acusações contra Silvio Almeida](https://gamarevista.uol.com.br/colunistas/marilene-felinto/e-intoleravel-querer-tratar-nos-bastidores-do-poder-as-acusacoes-contra-silvio-almeida/)
 - [Michel Alcoforado: “O sexo perdeu a importância para os mais jovens”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/michel-alcoforado-sexo-jovens/)
