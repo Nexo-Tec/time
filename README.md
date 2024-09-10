@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem são os artistas que vetam uso de suas músicas por Trump](https://www.nexojornal.com.br/expresso/2024/09/10/abba-celine-dion-e-outros-artistas-proibem-trump-de-usar-suas-musicas-em-campanha-politica)
 - [A tradição dos bacamarteiros na cultura brasileira](https://www.nexojornal.com.br/expresso/2024/09/10/a-tradicao-dos-bacamarteiros-na-cultura-brasileira)
 - [IPCA registra deflação de 0,02% em agosto, a primeira em 2024](https://www.nexojornal.com.br/extra/2024/09/10/deflacao-agosto-ipca-inflacao)
 - [Como o caso Silvio Almeida ressoa nos movimentos sociais](https://www.nexojornal.com.br/expresso/2024/09/10/caso-assedio-silvio-almeida-impacto-movimentos-sociais)
 - [Proteínas vegetais aprimoram produção de carne de laboratório](https://www.nexojornal.com.br/externo/2024/09/09/proteinas-vegetais-aprimoram-producao-de-carne-de-laboratorio)
-- [Como o exílio de Edmundo González mexe com a Venezuela](https://www.nexojornal.com.br/expresso/2024/09/09/exilio-edmundo-gonzalez-impacto-venezuela)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
