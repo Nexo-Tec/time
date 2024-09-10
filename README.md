@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Um brigadeiro para comer de colher no copinho de chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-brigadeiro-para-comer-de-colher-no-copinho-de-chocolate/)
 - [É intolerável querer tratar nos bastidores do poder as acusações contra Silvio Almeida](https://gamarevista.uol.com.br/colunistas/marilene-felinto/e-intoleravel-querer-tratar-nos-bastidores-do-poder-as-acusacoes-contra-silvio-almeida/)
 - [Michel Alcoforado: “O sexo perdeu a importância para os mais jovens”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/michel-alcoforado-sexo-jovens/)
 - [Nação Tomada pelo Medo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/nacao-tomada-pelo-medo/)
 - [Os encontros do Coala Festival, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/os-encontros-do-coala-festival-em-sp/)
-- [A sequência do clássico pop “Os Fantasmas se Divertem”, de Tim Burton](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-sequencia-do-classico-pop-os-fantasmas-se-divertem-de-tim-burton/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
