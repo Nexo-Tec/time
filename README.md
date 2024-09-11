@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a anistia de Bolsonaro afeta a sucessão na Câmara](https://www.nexojornal.com.br/podcast/2024/09/11/sucessao-presidente-camara-dos-deputados-influencia-anistia-bolsonaro)
+- [Agência da ONU revisa chances de La Niña surgir até fim de 2024](https://www.nexojornal.com.br/extra/2024/09/11/agencia-da-onu-la-nina-em-2024)
 - [O que considerar sobre crise do clima ao votar na eleição municipal](https://www.nexojornal.com.br/expresso/2024/09/11/a-crise-do-clima-nas-eleicoes-como-mudancas-climaticas-aparecem-no-debate-eleitoral)
 - [O que os pelos ensinam sobre a evolução dos mamíferos](https://www.nexojornal.com.br/externo/2024/09/11/o-que-os-pelos-ensinam-sobre-a-evolucao-dos-mamiferos)
 - [‘Nexo’ lança série especial sobre clima e eleições municipais](https://www.nexojornal.com.br/expresso/2024/09/11/especial-clima-e-eleicoes-municipais)
-- [SP é a metrópole com a pior qualidade do ar do mundo pelo 3º dia](https://www.nexojornal.com.br/extra/2024/09/11/qualidade-do-ar-em-sao-paulo-insalubre)
-- [Com fogo recorde, Lula anuncia criação de Autoridade Climática](https://www.nexojornal.com.br/externo/2024/09/11/autoridade-climatica-anuncio-governo-lula-queimadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
