@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bets na política: quais os efeitos de poder apostar em eleições](https://www.nexojornal.com.br/expresso/2024/09/11/bets-entram-na-politica-brasileira-com-apostas-eleitorais)
 - [Harris põe Trump na defensiva e se sobressai em debate](https://www.nexojornal.com.br/extra/2024/09/11/kamala-harris-donald-trump-debate-eleicao-eua)
 - [O desempenho histórico do Brasil nas Paralimpíadas](https://www.nexojornal.com.br/grafico/2024/09/10/brasil-nas-paralimpiadas-paris-2024)
 - [O quadro das capitais do Centro-Oeste nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/10/eleicoes-2024-disputas-prefeituras-capitais-centro-oeste)
 - [Sem ter para onde ir: os ataques de Israel em ‘áreas seguras’ de Gaza](https://www.nexojornal.com.br/podcast/2024/09/10/israel-ataca-areas-seguras-de-gaza-e-encurrala-populacao)
-- [Dino manda governo federal convocar mais bombeiros](https://www.nexojornal.com.br/extra/2024/09/10/dino-manda-governo-federal-convocar-mais-bombeiros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
