@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desempenho histórico do Brasil nas Paralímpiadas](https://www.nexojornal.com.br/grafico/2024/09/10/brasil-nas-paralimpiadas-paris-2024)
+- [O quadro das capitais do Centro-Oeste nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/10/eleicoes-2024-disputas-prefeituras-capitais-centro-oeste)
 - [Sem ter para onde ir: os ataques de Israel em ‘áreas seguras’ de Gaza](https://www.nexojornal.com.br/podcast/2024/09/10/israel-ataca-areas-seguras-de-gaza-e-encurrala-populacao)
 - [Dino manda governo federal convocar mais bombeiros](https://www.nexojornal.com.br/extra/2024/09/10/dino-manda-governo-federal-convocar-mais-bombeiros)
 - [Quem são os artistas que vetam uso de suas músicas por Trump](https://www.nexojornal.com.br/expresso/2024/09/10/abba-celine-dion-e-outros-artistas-proibem-trump-de-usar-suas-musicas-em-campanha-politica)
-- [A tradição dos bacamarteiros na cultura brasileira](https://www.nexojornal.com.br/expresso/2024/09/10/a-tradicao-dos-bacamarteiros-na-cultura-brasileira)
-- [IPCA registra deflação de 0,02% em agosto, a primeira em 2024](https://www.nexojornal.com.br/extra/2024/09/10/deflacao-agosto-ipca-inflacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
