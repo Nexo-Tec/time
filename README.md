@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Bruna Linzmeyer](https://gamarevista.uol.com.br/pessoas/questionario-proust/bruna-linzmeyer/)
 - [O livro acadêmico como instrumento de disseminação da ciência](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/o-livro-academico-como-instrumento-de-disseminacao-da-ciencia/)
 - [@izaaktheo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/izaaktheo/)
 - [Um brigadeiro para comer de colher no copinho de chocolate](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-brigadeiro-para-comer-de-colher-no-copinho-de-chocolate/)
 - [É intolerável querer tratar nos bastidores do poder as acusações contra Silvio Almeida](https://gamarevista.uol.com.br/colunistas/marilene-felinto/e-intoleravel-querer-tratar-nos-bastidores-do-poder-as-acusacoes-contra-silvio-almeida/)
-- [Michel Alcoforado: “O sexo perdeu a importância para os mais jovens”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/michel-alcoforado-sexo-jovens/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
