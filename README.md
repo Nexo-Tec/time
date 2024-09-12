@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Câmara conclui votação e desoneração da folha vai a sanção](https://www.nexojornal.com.br/extra/2024/09/12/camara-termina-votacao-da-desoneracao-da-folha)
 - [Você lembra dos momentos marcantes do Rock in Rio?](https://www.nexojornal.com.br/interativo/2024/09/12/rock-in-rio-40-anos-melhores-momentos-quiz)
 - [A fazenda em Mato Grosso recordista de queimadas em 2024](https://www.nexojornal.com.br/externo/2024/09/12/a-fazenda-em-mato-grosso-recordista-de-queimadas-em-2024)
 - [Fogo em áreas de floresta da Amazônia cresce 132% em agosto](https://www.nexojornal.com.br/extra/2024/09/12/fogo-cresce-na-amazonia-em-agosto)
 - [Reintegração de posse e direito internacional à moradia](https://www.nexojornal.com.br/academico/2024/09/12/reintegracao-de-posse-e-direito-internacional-a-moradia)
-- [Morre Alberto Fujimori, ex-ditador do Peru, aos 86 anos](https://www.nexojornal.com.br/extra/2024/09/12/alberto-fujimori-morre-peru)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
