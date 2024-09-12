@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Reintegração de posse e direito internacional à moradia](https://www.nexojornal.com.br/academico/2024/09/12/reintegracao-de-posse-e-direito-internacional-a-moradia)
 - [Morre Alberto Fujimori, ex-ditador do Peru, aos 86 anos](https://www.nexojornal.com.br/extra/2024/09/12/alberto-fujimori-morre-peru)
 - [O cenário da litigância climática no Brasil e no mundo](https://www.nexojornal.com.br/debate/2024/09/11/o-cenario-da-litigancia-climatica-no-brasil-e-no-mundo)
 - [A reforma judicial que López Obrador deixa de legado no México](https://www.nexojornal.com.br/expresso/2024/09/11/mexico-reforma-judicial-permite-populacao-escolher-ministro-do-supremo)
 - [O quadro das capitais do Sudeste nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/11/eleicoes-2024-disputas-prefeituras-capitais-sudeste)
-- [Missão alcança maior distância da Terra em mais de 50 anos](https://www.nexojornal.com.br/extra/2024/09/11/polaris-dawn-missao-espacial-privada-spacex-caminhada-no-espaco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
