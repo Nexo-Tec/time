@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cenário da litigância climática no Brasil e no mundo](https://www.nexojornal.com.br/debate/2024/09/11/o-cenario-da-litigancia-climatica-no-brasil-e-no-mundo)
+- [A reforma judicial que López Obrador deixa de legado no México](https://www.nexojornal.com.br/expresso/2024/09/11/mexico-reforma-judicial-permite-populacao-escolher-ministro-do-supremo)
+- [O quadro das capitais do Sudeste nas disputas municipais](https://www.nexojornal.com.br/expresso/2024/09/11/eleicoes-2024-disputas-prefeituras-capitais-sudeste)
+- [Missão alcança maior distância da Terra em mais de 50 anos](https://www.nexojornal.com.br/extra/2024/09/11/polaris-dawn-missao-espacial-privada-spacex-caminhada-no-espaco)
 - [Como a anistia de Bolsonaro afeta a sucessão na Câmara](https://www.nexojornal.com.br/podcast/2024/09/11/sucessao-presidente-camara-dos-deputados-influencia-anistia-bolsonaro)
-- [Agência da ONU revisa chances de La Niña surgir até fim de 2024](https://www.nexojornal.com.br/extra/2024/09/11/agencia-da-onu-la-nina-em-2024)
-- [O que considerar sobre crise do clima ao votar na eleição municipal](https://www.nexojornal.com.br/expresso/2024/09/11/a-crise-do-clima-nas-eleicoes-como-mudancas-climaticas-aparecem-no-debate-eleitoral)
-- [O que os pelos ensinam sobre a evolução dos mamíferos](https://www.nexojornal.com.br/externo/2024/09/11/o-que-os-pelos-ensinam-sobre-a-evolucao-dos-mamiferos)
-- [‘Nexo’ lança série especial sobre clima e eleições municipais](https://www.nexojornal.com.br/expresso/2024/09/11/especial-clima-e-eleicoes-municipais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
