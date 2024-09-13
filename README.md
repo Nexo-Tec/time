@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Doppelgänger](https://gamarevista.uol.com.br/cultura/trecho-de-livro/doppelganger/)
 - [“A Amiga Genial”, na Max, e a minissérie com Nicole Kidman, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-amiga-genial-na-max-e-a-minisserie-com-nicole-kidman-na-netflix/)
 - [O Festival Literário do Museu Judaico, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-festival-literario-do-museu-judaico-em-sp/)
 - [“Gelo e Gim”, de Daniel de Mesquita Benevides](https://gamarevista.uol.com.br/achamos-que-vale/ler/gelo-e-gim-de-daniel-de-mesquita-benevides/)
 - [“Topo da Minha Cabeça”, de Tássia Reis](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/topo-da-minha-cabeca-de-tassia-reis/)
-- [A nova temporada de “Amazônia, Arqueologia da Floresta”, na SescTV](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-nova-temporada-de-amazonia-arqueologia-da-floresta-na-sesctv/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
