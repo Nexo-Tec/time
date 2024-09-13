@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a eleição pelo comando da Câmara divide o centrão](https://www.nexojornal.com.br/expresso/2024/09/13/eleicao-para-presidente-da-camara-dos-deputados-divide-centrao)
+- [Como o Nexo acessa os dados eleitorais do TSE](https://www.nexojornal.com.br/grafico/2024/09/13/graficos-nexo-tse-dados-eleitorais-2024)
+- [Quem vai ser prefeito? O quadro das capitais pelas regiões do Brasil](https://www.nexojornal.com.br/especial/2024/09/13/eleicoes-municipais-capitais)
+- [Moraes manda transferir R$ 18,3 milhões de X e Starlink](https://www.nexojornal.com.br/extra/2024/09/13/moraes-manda-transferir-r-183-milhoes-de-x-e-starlink)
 - [O fogo e a má qualidade do ar. A nova ministra. E mais](https://www.nexojornal.com.br/podcast/2024/09/13/o-fogo-e-a-ma-qualidade-do-ar-a-nova-ministra-e-mais)
-- [O domínio do verde ‘brat’ na música, na internet e na moda](https://www.nexojornal.com.br/expresso/2024/09/13/verde-brat-e-tendencia-na-musica-na-internet-e-na-moda)
-- [5 romances brasileiros que se passam em um único dia](https://www.nexojornal.com.br/estante-favoritos/2024/09/13/5-romances-brasileiros-que-se-passam-em-um-unico-dia)
-- [‘Poemas em coletânea’: os versos de um prêmio Nobel](https://www.nexojornal.com.br/estante-trechos/2024/09/13/poemas-em-coletanea-os-versos-de-um-premio-nobel)
-- [O que torna esta famosa obra japonesa difícil de ser exibida](https://www.nexojornal.com.br/expresso/2024/09/13/o-que-torna-esta-famosa-obra-japonesa-dificil-de-ser-exibida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
