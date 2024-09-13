@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como enfrentamos as doenças tropicais negligenciadas](https://www.nexojornal.com.br/especial/2024/09/12/dengue-doenca-de-chagas-e-outras-doencas-tropicais-como-combater)
+- [Quais os responsáveis pelo fogo que toma o Brasil em 2024](https://www.nexojornal.com.br/expresso/2024/09/12/o-papel-do-governo-lula-nas-queimadas-ambientais)
 - [Por que mais jogadores europeus estão vindo para o Brasil](https://www.nexojornal.com.br/expresso/2024/09/12/memphis-depay-corinthians-jogadores-europeus-no-brasil)
 - [‘O Brasil tem um legado importante no combate às epidemias’](https://www.nexojornal.com.br/entrevista/2024/09/12/brasil-no-combate-as-epidemias-entrevista-jose-moreira)
 - [‘Não existe doença tropical que não seja negligenciada’](https://www.nexojornal.com.br/entrevista/2024/09/12/negligencia-no-combate-as-doencas-tropicais-entrevista-carlos-costa-e-bruno-guedes)
-- [‘Combate a doenças é uma luta contra desigualdades sociais’](https://www.nexojornal.com.br/entrevista/2024/09/12/desigualdade-social-no-combate-a-doencas-entrevista-alexandre-menezes)
-- [‘Ainda temos altos índices de doenças ligadas à pobreza’](https://www.nexojornal.com.br/entrevista/2024/09/12/papel-das-organizacoes-sociais-no-combate-as-doencas-tropicais-entrevista-joao-victor-kersul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
