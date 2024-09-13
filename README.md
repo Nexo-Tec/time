@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O domínio do verde ‘brat’ na música, na internet e na moda](https://www.nexojornal.com.br/expresso/2024/09/13/verde-brat-e-tendencia-na-musica-na-internet-e-na-moda)
 - [5 romances brasileiros que se passam em um único dia](https://www.nexojornal.com.br/estante-favoritos/2024/09/13/5-romances-brasileiros-que-se-passam-em-um-unico-dia)
 - [‘Poemas em coletânea’: os versos de um prêmio Nobel](https://www.nexojornal.com.br/estante-trechos/2024/09/13/poemas-em-coletanea-os-versos-de-um-premio-nobel)
 - [O que torna esta famosa obra japonesa difícil de ser exibida](https://www.nexojornal.com.br/expresso/2024/09/13/o-que-torna-esta-famosa-obra-japonesa-dificil-de-ser-exibida)
 - [O papel das mulheres na origem e na história da cerveja](https://www.nexojornal.com.br/externo/2024/09/13/o-papel-das-mulheres-na-origem-e-na-historia-da-cerveja)
-- [Número de viagens cresce mais de 70% entre 2021 e 2023](https://www.nexojornal.com.br/extra/2024/09/13/turismo-cresce-no-brasil-em-2023-diz-ibge)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
