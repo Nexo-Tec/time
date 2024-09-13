@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os insetos aquáticos nos ensinam: a legislação de proteção da vegetação ripária no Brasil precisa ser fortalecida](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/13/os-insetos-aquaticos-nos-ensinam-a-legislacao-de-protecao-da-vegetacao-riparia-no-brasil-precisa-ser-fortalecida/)
+- [Riscos para a saúde pública da aprovação de medicamentos para o tratamento da obesidade infantil no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/13/riscos-para-a-saude-publica-da-aprovacao-de-medicamentos-para-o-tratamento-da-obesidade-infantil-no-brasil/)
 - [Os desafios para a conservação das áreas alagáveis dos rios da Amazônia, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/08/os-desafios-para-a-conservacao-das-areas-alagaveis-dos-rios-da-amazonia-em-4-pontos/)
 - [A poética da Tarifa Zero: a expansão da gratuidade e o conflito redistributivo](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/08/a-poetica-da-tarifa-zero-a-expansao-da-gratuidade-e-o-conflito-redistributivo/)
 - [Entre pautas midiáticas e a busca de redução de direitos](https://pp.nexojornal.com.br/opiniao/2024/09/08/entre-pautas-midiaticas-e-a-busca-de-reducao-de-direitos/)
-- [Como funciona a classificação racial?](https://pp.nexojornal.com.br/opiniao/2024/09/08/como-funciona-a-classificacao-racial/)
-- [Notas para pensar o antirracismo no pagode noventista](https://pp.nexojornal.com.br/opiniao/2024/09/08/notas-para-pensar-o-antirracismo-no-pagode-noventista/)
 <!-- PP_LIST:END -->
 
