@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como o fujimorismo se manteve vivo na política peruana](https://www.nexojornal.com.br/podcast/2024/09/12/morre-alberto-fujimori-qual-o-papel-do-fujimorismo-na-politica-do-peru)
-- [Polícia Federal indicia Janones em caso de ‘rachadinha’](https://www.nexojornal.com.br/extra/2024/09/12/policia-federal-indicia-janones-em-caso-de-rachadinha)
-- [Câmara conclui votação e desoneração da folha vai a sanção](https://www.nexojornal.com.br/extra/2024/09/12/camara-termina-votacao-da-desoneracao-da-folha)
-- [Você lembra dos momentos marcantes do Rock in Rio?](https://www.nexojornal.com.br/interativo/2024/09/12/rock-in-rio-40-anos-melhores-momentos-quiz)
-- [A fazenda em Mato Grosso recordista de queimadas em 2024](https://www.nexojornal.com.br/externo/2024/09/12/a-fazenda-em-mato-grosso-recordista-de-queimadas-em-2024)
+- [Por que mais jogadores europeus estão vindo para o Brasil](https://www.nexojornal.com.br/expresso/2024/09/12/memphis-depay-corinthians-jogadores-europeus-no-brasil)
+- [‘O Brasil tem um legado importante no combate às epidemias’](https://www.nexojornal.com.br/entrevista/2024/09/12/brasil-no-combate-as-epidemias-entrevista-jose-moreira)
+- [‘Não existe doença tropical que não seja negligenciada’](https://www.nexojornal.com.br/entrevista/2024/09/12/negligencia-no-combate-as-doencas-tropicais-entrevista-carlos-costa-e-bruno-guedes)
+- [‘Combate a doenças é uma luta contra desigualdades sociais’](https://www.nexojornal.com.br/entrevista/2024/09/12/desigualdade-social-no-combate-a-doencas-entrevista-alexandre-menezes)
+- [‘Ainda temos altos índices de doenças ligadas à pobreza’](https://www.nexojornal.com.br/entrevista/2024/09/12/papel-das-organizacoes-sociais-no-combate-as-doencas-tropicais-entrevista-joao-victor-kersul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
