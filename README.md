@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como enfrentamos as doenças tropicais negligenciadas](https://www.nexojornal.com.br/especial/2024/09/12/dengue-doenca-de-chagas-e-outras-doencas-tropicais-como-combater)
-- [Quais os responsáveis pelo fogo que toma o Brasil em 2024](https://www.nexojornal.com.br/expresso/2024/09/12/o-papel-do-governo-lula-nas-queimadas-ambientais)
-- [Por que mais jogadores europeus estão vindo para o Brasil](https://www.nexojornal.com.br/expresso/2024/09/12/memphis-depay-corinthians-jogadores-europeus-no-brasil)
-- [‘O Brasil tem um legado importante no combate às epidemias’](https://www.nexojornal.com.br/entrevista/2024/09/12/brasil-no-combate-as-epidemias-entrevista-jose-moreira)
-- [‘Não existe doença tropical que não seja negligenciada’](https://www.nexojornal.com.br/entrevista/2024/09/12/negligencia-no-combate-as-doencas-tropicais-entrevista-carlos-costa-e-bruno-guedes)
+- [5 romances brasileiros que se passam em um único dia](https://www.nexojornal.com.br/estante-favoritos/2024/09/13/5-romances-brasileiros-que-se-passam-em-um-unico-dia)
+- [‘Poemas em coletânea’: os versos de um prêmio Nobel](https://www.nexojornal.com.br/estante-trechos/2024/09/13/poemas-em-coletanea-os-versos-de-um-premio-nobel)
+- [O que torna esta famosa obra japonesa difícil de ser exibida](https://www.nexojornal.com.br/expresso/2024/09/13/o-que-torna-esta-famosa-obra-japonesa-dificil-de-ser-exibida)
+- [O papel das mulheres na origem e na história da cerveja](https://www.nexojornal.com.br/externo/2024/09/13/o-papel-das-mulheres-na-origem-e-na-historia-da-cerveja)
+- [Número de viagens cresce mais de 70% entre 2021 e 2023](https://www.nexojornal.com.br/extra/2024/09/13/turismo-cresce-no-brasil-em-2023-diz-ibge)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
