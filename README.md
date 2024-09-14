@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem são os eleitores indecisos na disputa entre Harris e Trump](https://www.nexojornal.com.br/expresso/2024/09/14/eleitores-indecisos-eleicao-americana-eua-kamala-harris-donald-trump)
+- [O que aprender sobre o que ninguém está disposto a questionar](https://www.nexojornal.com.br/ensaio/2024/09/14/tecnologia-crowdstrike-microsoft-apagao-monopolizacao-digital)
+- [Gil do Vigor: ‘A grande estrela do Brasil precisa ser a educação’](https://www.nexojornal.com.br/entrevista/2024/09/14/gil-do-vigor-entrevista-projetos-educacao-financeira-matematica)
 - [O novo fone da Apple que também é aparelho auditivo](https://www.nexojornal.com.br/expresso/2024/09/14/apple-airpods-aparelho-auditivo-hearing-aid-feature)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/13/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-6)
-- [Como autistas e não autistas podem se entender melhor](https://www.nexojornal.com.br/externo/2024/09/13/como-autistas-e-nao-autistas-podem-se-entender-melhor)
-- [Pesquisas de intenção de voto: uma questão de justiça](https://www.nexojornal.com.br/debate/2024/09/13/pesquisas-de-intencao-de-voto-uma-questao-de-justica)
-- [Como a seca histórica mexe com os preços e a economia](https://www.nexojornal.com.br/expresso/2024/09/13/seca-historica-meio-ambiente-impacto-na-economia-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
