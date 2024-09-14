@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O novo fone da Apple que também é aparelho auditivo](https://www.nexojornal.com.br/expresso/2024/09/14/apple-airpods-aparelho-auditivo-hearing-aid-feature)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/13/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-6)
 - [Como autistas e não autistas podem se entender melhor](https://www.nexojornal.com.br/externo/2024/09/13/como-autistas-e-nao-autistas-podem-se-entender-melhor)
 - [Pesquisas de intenção de voto: uma questão de justiça](https://www.nexojornal.com.br/debate/2024/09/13/pesquisas-de-intencao-de-voto-uma-questao-de-justica)
 - [Como a seca histórica mexe com os preços e a economia](https://www.nexojornal.com.br/expresso/2024/09/13/seca-historica-meio-ambiente-impacto-na-economia-brasil)
-- [Como a eleição pelo comando da Câmara divide o centrão](https://www.nexojornal.com.br/expresso/2024/09/13/eleicao-para-presidente-da-camara-dos-deputados-divide-centrao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
