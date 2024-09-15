@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cora Fernandes: “O quartinho da bagunça não deve existir”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/cora-fernandes-quartinho-da-bagunca/)
 - [Vida, terror e glória](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/vida-terror-e-gloria/)
 - [Doppelgänger](https://gamarevista.uol.com.br/cultura/trecho-de-livro/doppelganger/)
 - [“A Amiga Genial”, na Max, e a minissérie com Nicole Kidman, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-amiga-genial-na-max-e-a-minisserie-com-nicole-kidman-na-netflix/)
 - [O Festival Literário do Museu Judaico, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-festival-literario-do-museu-judaico-em-sp/)
-- [“Gelo e Gim”, de Daniel de Mesquita Benevides](https://gamarevista.uol.com.br/achamos-que-vale/ler/gelo-e-gim-de-daniel-de-mesquita-benevides/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
