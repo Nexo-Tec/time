@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A responsabilidade dos partidos no episódio Datena-Marçal](https://www.nexojornal.com.br/ensaio/2024/09/16/partidos-cadeirada-datena-marcal)
 - [Datena dá cadeirada em Marçal durante debate em São Paulo](https://www.nexojornal.com.br/extra/2024/09/16/datena-da-cadeirada-em-marcal-durante-debate-em-sao-paulo)
 - [O ‘caso Silvio Almeida’ e a perspectiva Interseccional](https://www.nexojornal.com.br/ensaio/2024/09/15/caso-silvio-almeida-e-a-perspectiva-interseccional)
 - [A recusa religiosa da transfusão de sangue em debate no STF](https://www.nexojornal.com.br/expresso/2024/09/15/religiao-testemunhas-de-jeova-transfusao-de-sangue-decisao-stf)
 - [Como Porto Alegre lida com o clima às vésperas da eleição](https://www.nexojornal.com.br/expresso/2024/09/15/eleicoes-2024-porto-alegre-questao-climatica)
-- [FBI apura possível tentativa de homicídio contra Trump em clube](https://www.nexojornal.com.br/extra/2024/09/15/fbi-apura-possivel-tentativa-de-assassinato-contra-trump-em-clube-de-golfe)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
