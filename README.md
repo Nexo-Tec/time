@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Não há justiça em se dar ganho de causa à pseudociência](https://www.nexojornal.com.br/colunistas/2024/09/16/nao-ha-justica-em-se-dar-ganho-de-causa-a-pseudociencia)
+- [Polícia abre inquérito contra Datena por cadeirada em Marçal](https://www.nexojornal.com.br/extra/2024/09/16/policia-abre-inquerito-contra-datena-por-cadeirada-em-marcal)
+- [Festival reuniu 55 especialistas para pensar futuro do país](https://www.nexojornal.com.br/expresso/2024/09/16/festival-de-debate-nexo-politicas-publicas-2024)
+- [O esforço de Lula para se reaproximar dos evangélicos](https://www.nexojornal.com.br/podcast/2024/09/16/relacao-governo-lula-com-evangelicos)
 - [O projeto que cataloga o design de fitas cassetes](https://www.nexojornal.com.br/expresso/2024/09/16/o-projeto-que-cataloga-o-design-de-fitas-cassetes)
-- [Boeing pagará US$ 150 milhões por romper acordo com Embraer](https://www.nexojornal.com.br/extra/2024/09/16/boeing-pagara-us-150-milhoes-por-romper-acordo-com-embraer)
-- [Entre monstros e guerras: como lidar com o medo infantil](https://www.nexojornal.com.br/externo/2024/09/16/entre-monstros-e-guerras-como-lidar-com-o-medo-infantil)
-- [A responsabilidade dos partidos no episódio Datena-Marçal](https://www.nexojornal.com.br/ensaio/2024/09/16/partidos-cadeirada-datena-marcal)
-- [Datena dá cadeirada em Marçal durante debate em São Paulo](https://www.nexojornal.com.br/extra/2024/09/16/datena-da-cadeirada-em-marcal-durante-debate-em-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
