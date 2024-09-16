@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O ‘caso Silvio Almeida’ e a perspectiva Interseccional](https://www.nexojornal.com.br/ensaio/2024/09/15/caso-silvio-almeida-e-a-perspectiva-interseccional)
+- [A recusa religiosa da transfusão de sangue em debate no STF](https://www.nexojornal.com.br/expresso/2024/09/15/religiao-testemunhas-de-jeova-transfusao-de-sangue-decisao-stf)
+- [Como Porto Alegre lida com o clima às vésperas da eleição](https://www.nexojornal.com.br/expresso/2024/09/15/eleicoes-2024-porto-alegre-questao-climatica)
 - [FBI apura possível tentativa de homicídio contra Trump em clube](https://www.nexojornal.com.br/extra/2024/09/15/fbi-apura-possivel-tentativa-de-assassinato-contra-trump-em-clube-de-golfe)
 - [Dino, do STF, autoriza gasto extra do governo para combater fogo](https://www.nexojornal.com.br/extra/2024/09/15/supremo-flavio-dino-creditos-extraordinarios-incendios)
-- [Marina Silva diz que incêndios são ‘terrorismo climático’](https://www.nexojornal.com.br/extra/2024/09/15/incendios-fogo-terrorismo-climatico-marina-silva)
-- [Quem são os eleitores indecisos na disputa entre Harris e Trump](https://www.nexojornal.com.br/expresso/2024/09/14/eleitores-indecisos-eleicao-americana-eua-kamala-harris-donald-trump)
-- [O que aprender sobre o que ninguém está disposto a questionar](https://www.nexojornal.com.br/ensaio/2024/09/14/tecnologia-crowdstrike-microsoft-apagao-monopolizacao-digital)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
