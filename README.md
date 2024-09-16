@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O projeto que cataloga o design de fitas cassetes](https://www.nexojornal.com.br/expresso/2024/09/16/o-projeto-que-cataloga-o-design-de-fitas-cassetes)
 - [Boeing pagará US$ 150 milhões por romper acordo com Embraer](https://www.nexojornal.com.br/extra/2024/09/16/boeing-pagara-us-150-milhoes-por-romper-acordo-com-embraer)
 - [Entre monstros e guerras: como lidar com o medo infantil](https://www.nexojornal.com.br/externo/2024/09/16/entre-monstros-e-guerras-como-lidar-com-o-medo-infantil)
 - [A responsabilidade dos partidos no episódio Datena-Marçal](https://www.nexojornal.com.br/ensaio/2024/09/16/partidos-cadeirada-datena-marcal)
 - [Datena dá cadeirada em Marçal durante debate em São Paulo](https://www.nexojornal.com.br/extra/2024/09/16/datena-da-cadeirada-em-marcal-durante-debate-em-sao-paulo)
-- [O ‘caso Silvio Almeida’ e a perspectiva Interseccional](https://www.nexojornal.com.br/ensaio/2024/09/15/caso-silvio-almeida-e-a-perspectiva-interseccional)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
