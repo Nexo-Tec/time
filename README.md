@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vai voltar? Os prós e contras do horário de verão no Brasil](https://www.nexojornal.com.br/podcast/2024/09/17/volta-do-horario-de-verao-pros-e-contras)
+- [Explosões de pagers matam 9 e deixam mais de 2,7 mil feridos](https://www.nexojornal.com.br/extra/2024/09/17/explosoes-de-pagers-matam-9-e-deixam-mais-de-27-mil-feridos)
 - [O bicentenário do Senado celebrado em jogos de tabuleiro](https://www.nexojornal.com.br/expresso/2024/09/17/senado-lanca-jogos-de-tabuleiro-em-comemoracao-ao-bicentenario)
-- [O site que mostra mais de um milhão de prints de sites](https://www.nexojornal.com.br/expresso/2024/09/17/o-site-que-mostra-mais-de-um-milhao-de-prints-de-sites)
+- [O projeto que mostra mais de um milhão de prints de sites](https://www.nexojornal.com.br/expresso/2024/09/17/o-site-que-mostra-mais-de-um-milhao-de-prints-de-sites)
 - [Por que desconfiar de dados de centenários, segundo um IgNobel](https://www.nexojornal.com.br/externo/2024/09/17/por-que-desconfiar-de-dados-de-centenarios-segundo-um-ignobel)
-- [Rapper Sean ‘Diddy’ Combs é preso acusado de tráfico sexual](https://www.nexojornal.com.br/extra/2024/09/17/rapper-sean-diddy-combs-e-preso-acusado-de-trafico-sexual)
-- [Como o Supremo assume a dianteira no combate ao fogo](https://www.nexojornal.com.br/expresso/2024/09/16/a-acao-do-supremo-no-combate-ao-fogo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
