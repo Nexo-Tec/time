@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Supremo assume a dianteira no combate ao fogo](https://www.nexojornal.com.br/expresso/2024/09/16/a-acao-do-supremo-no-combate-ao-fogo)
+- [O formato atual de debate com candidatos no Brasil faliu?](https://www.nexojornal.com.br/expresso/2024/09/16/eleicoes-2024-modelo-de-debate-eleitoral)
 - [Não há justiça em se dar ganho de causa à pseudociência](https://www.nexojornal.com.br/colunistas/2024/09/16/nao-ha-justica-em-se-dar-ganho-de-causa-a-pseudociencia)
 - [Polícia abre inquérito contra Datena por cadeirada em Marçal](https://www.nexojornal.com.br/extra/2024/09/16/policia-abre-inquerito-contra-datena-por-cadeirada-em-marcal)
 - [Festival reuniu 55 especialistas para pensar futuro do país](https://www.nexojornal.com.br/expresso/2024/09/16/festival-de-debate-nexo-politicas-publicas-2024)
-- [O esforço de Lula para se reaproximar dos evangélicos](https://www.nexojornal.com.br/podcast/2024/09/16/relacao-governo-lula-com-evangelicos)
-- [O projeto que cataloga o design de fitas cassetes](https://www.nexojornal.com.br/expresso/2024/09/16/o-projeto-que-cataloga-o-design-de-fitas-cassetes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
