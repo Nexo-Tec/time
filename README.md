@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Noruega é o 1º país a ter mais carro elétrico que movido a gasolina](https://www.nexojornal.com.br/extra/2024/09/18/noruega-e-o-1o-pais-a-ter-mais-carro-eletrico-que-movido-a-gasolina)
 - [Após ataque a pagers, walkie-talkies explodem no Líbano](https://www.nexojornal.com.br/extra/2024/09/18/walkie-talkie-explodem-no-libano)
 - [TSE aprova regra que explicita proibição de bets eleitorais](https://www.nexojornal.com.br/extra/2024/09/18/tse-proibe-bets-eleitorais)
 - [Por que o clima é central para resolver a moradia nas cidades](https://www.nexojornal.com.br/expresso/2024/09/17/mudanca-climatica-e-habitacao)
 - [Por que a Ticketmaster é investigada por práticas abusivas](https://www.nexojornal.com.br/expresso/2024/09/17/ingresso-ticketmaster-praticas-abusivas)
-- [A preocupação dos pais diante do sucesso da Roblox](https://www.nexojornal.com.br/expresso/2024/09/17/plataforma-de-jogo-roblox-vira-preocupacao-para-pais-exploracao-infantil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
