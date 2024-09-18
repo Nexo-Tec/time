@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [TSE aprova regra que explicita proibição de bets eleitorais](https://www.nexojornal.com.br/extra/2024/09/18/tse-proibe-bets-eleitorais)
 - [Por que o clima é central para resolver a moradia nas cidades](https://www.nexojornal.com.br/expresso/2024/09/17/mudanca-climatica-e-habitacao)
 - [Por que a Ticketmaster é investigada por práticas abusivas](https://www.nexojornal.com.br/expresso/2024/09/17/ingresso-ticketmaster-praticas-abusivas)
 - [A preocupação dos pais diante do sucesso da Roblox](https://www.nexojornal.com.br/expresso/2024/09/17/plataforma-de-jogo-roblox-vira-preocupacao-para-pais-exploracao-infantil)
 - [Vai voltar? Os prós e contras do horário de verão no Brasil](https://www.nexojornal.com.br/podcast/2024/09/17/volta-do-horario-de-verao-pros-e-contras)
-- [Explosões de pagers matam 11 e deixam mais de 2,7 mil feridos](https://www.nexojornal.com.br/extra/2024/09/17/explosoes-de-pagers-matam-9-e-deixam-mais-de-27-mil-feridos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
