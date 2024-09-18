@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o clima é central para resolver a moradia nas cidades](https://www.nexojornal.com.br/expresso/2024/09/17/mudanca-climatica-e-habitacao)
+- [Por que a Ticketmaster é investigada por práticas abusivas](https://www.nexojornal.com.br/expresso/2024/09/17/ingresso-ticketmaster-praticas-abusivas)
+- [A preocupação dos pais diante do sucesso da Roblox](https://www.nexojornal.com.br/expresso/2024/09/17/plataforma-de-jogo-roblox-vira-preocupacao-para-pais-exploracao-infantil)
 - [Vai voltar? Os prós e contras do horário de verão no Brasil](https://www.nexojornal.com.br/podcast/2024/09/17/volta-do-horario-de-verao-pros-e-contras)
 - [Explosões de pagers matam 9 e deixam mais de 2,7 mil feridos](https://www.nexojornal.com.br/extra/2024/09/17/explosoes-de-pagers-matam-9-e-deixam-mais-de-27-mil-feridos)
-- [O bicentenário do Senado celebrado em jogos de tabuleiro](https://www.nexojornal.com.br/expresso/2024/09/17/senado-lanca-jogos-de-tabuleiro-em-comemoracao-ao-bicentenario)
-- [O projeto que mostra mais de um milhão de prints de sites](https://www.nexojornal.com.br/expresso/2024/09/17/o-site-que-mostra-mais-de-um-milhao-de-prints-de-sites)
-- [Por que desconfiar de dados de centenários, segundo um IgNobel](https://www.nexojornal.com.br/externo/2024/09/17/por-que-desconfiar-de-dados-de-centenarios-segundo-um-ignobel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
