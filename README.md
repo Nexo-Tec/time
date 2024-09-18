@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Vinte anos de cotas na UnB](https://pp.nexojornal.com.br/opiniao/2024/09/18/vinte-anos-de-cotas-na-unb/)
 - [Por que políticas para juventudes são importantes nas cidades](https://pp.nexojornal.com.br/topico/2024/09/18/por-que-politicas-para-juventudes-sao-importantes-nas-cidades/)
 - [Saúde mental de crianças e adolescentes: fatores sociais, desafios e políticas públicas, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/13/saude-mental-de-criancas-e-adolescentes-fatores-sociais-desafios-e-politicas-publicas-em-4-pontos/)
 - [O caso para a formulação de políticas públicas baseadas em evidências nas eleições brasileiras](https://pp.nexojornal.com.br/opiniao/2024/09/13/o-caso-para-a-formulacao-de-politicas-publicas-baseada-em-evidencias-nas-eleicoes-brasileiras/)
 - [Os insetos aquáticos nos ensinam: a legislação de proteção da vegetação ripária no Brasil precisa ser fortalecida](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/13/os-insetos-aquaticos-nos-ensinam-a-legislacao-de-protecao-da-vegetacao-riparia-no-brasil-precisa-ser-fortalecida/)
-- [Riscos para a saúde pública da aprovação de medicamentos para o tratamento da obesidade infantil no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/13/riscos-para-a-saude-publica-da-aprovacao-de-medicamentos-para-o-tratamento-da-obesidade-infantil-no-brasil/)
 <!-- PP_LIST:END -->
 
