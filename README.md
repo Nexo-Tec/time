@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Crime compensa? A pressão para aumentar a punição pelo fogo](https://www.nexojornal.com.br/podcast/2024/09/19/queimadas-no-brasil-punicao-fogo-e-incendio-criminoso)
 - [Quais os efeitos da judicialização na área da educação](https://www.nexojornal.com.br/academico/2024/09/19/como-poder-judiciario-age-sobre-poder-legistativo-em-politicas-publicas-de-educacao)
 - [Como reuniões de mulheres garantiram sucesso à Tupperware](https://www.nexojornal.com.br/expresso/2024/09/19/tupperware-falencia-marca-lancou-tendencia-na-cozinha-decada-de-50)
 - [Estudo expõe riscos de morte por resistência a antibióticos](https://www.nexojornal.com.br/extra/2024/09/19/estudo-expoe-riscos-de-morte-por-resistencia-a-antibioticos)
 - [5 análises sobre o movimento dos juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2024/09/19/economia-os-juros-no-brasil-e-nos-eua)
-- [Moraes multa X por manobra que fez rede voltar no Brasil](https://www.nexojornal.com.br/extra/2024/09/19/moraes-multa-x-por-manobra-que-fez-rede-voltar-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
