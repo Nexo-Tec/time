@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Quando descobriu que você vale muito?](https://gamarevista.uol.com.br/formato/depoimento/quando-descobriu-que-voce-vale-muito/)
-- [@sabrinacarpenter](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sabrinacarpenter/)
-- [Cora Fernandes: “O quartinho da bagunça não deve existir”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/cora-fernandes-quartinho-da-bagunca/)
-- [Vida, terror e glória](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/vida-terror-e-gloria/)
-- [Doppelgänger](https://gamarevista.uol.com.br/cultura/trecho-de-livro/doppelganger/)
+- [“A Substância”, filme de body horror com Demi Moore](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-substancia-filme-de-body-horror-com-demi-moore/)
+- [“Pedra de Selva”, novo álbum de Curumin](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/pedra-de-selva-novo-album-de-curumin/)
+- [A exposição “Qualquer Coisa Animal”, de Esther Faingold](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-qualquer-coisa-animal/)
+- [Especial de 10 anos de “Irmão do Jorel”, na Max e Cartoon Network](https://gamarevista.uol.com.br/achamos-que-vale/assistir/especial-10-anos-irmao-do-jore/)
+- [Festival de comida asiática em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/festival-de-comida-asiatica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
