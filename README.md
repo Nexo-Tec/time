@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Quando descobriu que você vale muito?](https://gamarevista.uol.com.br/formato/depoimento/quando-descobriu-que-voce-vale-muito/)
 - [@sabrinacarpenter](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/sabrinacarpenter/)
 - [Cora Fernandes: “O quartinho da bagunça não deve existir”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/cora-fernandes-quartinho-da-bagunca/)
 - [Vida, terror e glória](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/vida-terror-e-gloria/)
 - [Doppelgänger](https://gamarevista.uol.com.br/cultura/trecho-de-livro/doppelganger/)
-- [“A Amiga Genial”, na Max, e a minissérie com Nicole Kidman, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-amiga-genial-na-max-e-a-minisserie-com-nicole-kidman-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
