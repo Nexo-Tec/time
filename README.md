@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes multa X por manobra que fez rede voltar no Brasil](https://www.nexojornal.com.br/extra/2024/09/19/moraes-multa-x-por-manobra-que-fez-rede-voltar-no-brasil)
+- [O papel do Ministério da Agricultura na crise das queimadas](https://www.nexojornal.com.br/expresso/2024/09/19/crise-das-queimadas-o-papel-do-ministerio-da-agricultura)
 - [O aumento da taxa de juros no Brasil e a queda nos EUA](https://www.nexojornal.com.br/expresso/2024/09/18/economia-taxa-de-juros-brasil-e-eua)
 - [A luta para ensinar o público a tomar champanhe com pipoca](https://www.nexojornal.com.br/colunistas/2024/09/18/viuva-clicquot-critica-filme-a-luta-para-o-publico-tomar-champanhe-com-pipoca)
 - [O processo movido contra o maior youtuber do mundo](https://www.nexojornal.com.br/expresso/2024/09/18/youtuber-mrbeast-e-amazon-sao-processados-por-participantes-de-reality-show)
-- [Caso Pelicot: quanto mais se desdobra, mais horroroso fica](https://www.nexojornal.com.br/expresso/2024/09/18/dominique-pelicot-frances-acusado-de-drogar-e-abusar-da-mulher)
-- [Indígena Guarani-kaiowá é morto em ação policial no MS](https://www.nexojornal.com.br/extra/2024/09/18/indigena-guarani-kaiowa-e-morto-em-acao-policial-no-ms)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
