@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel lança cerca de 70 ataques aéreos contra o sul do Líbano](https://www.nexojornal.com.br/extra/2024/09/19/israel-ataca-libano-hezbollah-apos-promessa-de-retaliacao)
 - [Crime compensa? A pressão para aumentar a punição pelo fogo](https://www.nexojornal.com.br/podcast/2024/09/19/queimadas-no-brasil-punicao-fogo-e-incendio-criminoso)
 - [Quais os efeitos da judicialização na área da educação](https://www.nexojornal.com.br/academico/2024/09/19/como-poder-judiciario-age-sobre-poder-legistativo-em-politicas-publicas-de-educacao)
 - [Como reuniões de mulheres garantiram sucesso à Tupperware](https://www.nexojornal.com.br/expresso/2024/09/19/tupperware-falencia-marca-lancou-tendencia-na-cozinha-decada-de-50)
 - [Estudo expõe riscos de morte por resistência a antibióticos](https://www.nexojornal.com.br/extra/2024/09/19/estudo-expoe-riscos-de-morte-por-resistencia-a-antibioticos)
-- [5 análises sobre o movimento dos juros no Brasil e nos EUA](https://www.nexojornal.com.br/expresso/2024/09/19/economia-os-juros-no-brasil-e-nos-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
