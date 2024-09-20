@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Courtney Novak: “Machado era diferente de tudo que eu já tinha lido”](https://gamarevista.uol.com.br/formato/conversas/courtney-novak-machado-era-diferente-de-tudo-que-eu-ja-tinha-lido/)
 - [Felizes por Enquanto](https://gamarevista.uol.com.br/cultura/trecho-de-livro/felizes-por-enquanto/)
 - [“A Substância”, filme de body horror com Demi Moore](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-substancia-filme-de-body-horror-com-demi-moore/)
 - [“Pedra de Selva”, novo álbum de Curumin](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/pedra-de-selva-novo-album-de-curumin/)
 - [A exposição “Qualquer Coisa Animal”, de Esther Faingold](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-exposicao-qualquer-coisa-animal/)
-- [Especial de 10 anos de “Irmão do Jorel”, na Max e Cartoon Network](https://gamarevista.uol.com.br/achamos-que-vale/assistir/especial-10-anos-irmao-do-jore/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
