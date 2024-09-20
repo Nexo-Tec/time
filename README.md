@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Suicídio por uso de remédios cresceu 2,6 vezes em 20 anos no Brasil](https://www.nexojornal.com.br/externo/2024/09/20/suicidio-por-uso-de-remedios-cresceu-26-vezes-em-20-anos-no-brasil)
+- [Governo cobra marcas de celular por app de bet pré-instalado](https://www.nexojornal.com.br/extra/2024/09/20/bets-aplicativo-pre-instalado-governo-notifica-marcas)
 - [Após repercussão ruim, CEO se desculpa por post machista](https://www.nexojornal.com.br/extra/2024/09/20/tallis-gomes-deus-me-livre-de-mulher-ceo-pede-desculpas)
 - [Como o clima virou uma antipauta na eleição de Porto Velho](https://www.nexojornal.com.br/expresso/2024/09/19/eleicao-2024-em-porto-velho-clima-e-mudancas-climaticas-em-debate)
 - [‘Uso das redes sociais sem mediação parental é muito arriscado’](https://www.nexojornal.com.br/entrevista/2024/09/19/instagram-e-redes-sociais-para-adolescente-controle-parental-entrevista-sofia-sebben)
-- [O perfil dos apostadores online, segundo esta pesquisa](https://www.nexojornal.com.br/grafico/2024/09/19/quem-aposta-online-no-brasil-perfil-apostadores)
-- [Israel lança cerca de 70 ataques aéreos contra o sul do Líbano](https://www.nexojornal.com.br/extra/2024/09/19/israel-ataca-libano-hezbollah-apos-promessa-de-retaliacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
