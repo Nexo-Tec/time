@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Suicídio por uso de remédios cresceu 2,6 vezes em 20 anos no Brasil](https://www.nexojornal.com.br/externo/2024/09/20/suicidio-por-uso-de-remedios-cresceu-26-vezes-em-20-anos-no-brasil)
-- [Governo cobra marcas de celular por app de bet pré-instalado](https://www.nexojornal.com.br/extra/2024/09/20/bets-aplicativo-pre-instalado-governo-notifica-marcas)
-- [Após repercussão ruim, CEO se desculpa por post machista](https://www.nexojornal.com.br/extra/2024/09/20/tallis-gomes-deus-me-livre-de-mulher-ceo-pede-desculpas)
-- [Como o clima virou uma antipauta na eleição de Porto Velho](https://www.nexojornal.com.br/expresso/2024/09/19/eleicao-2024-em-porto-velho-clima-e-mudancas-climaticas-em-debate)
-- [‘Uso das redes sociais sem mediação parental é muito arriscado’](https://www.nexojornal.com.br/entrevista/2024/09/19/instagram-e-redes-sociais-para-adolescente-controle-parental-entrevista-sofia-sebben)
+- [O aumento da taxa de juros no Brasil. O vaivém do X. E mais](https://www.nexojornal.com.br/video/2024/09/20/o-aumento-da-taxa-de-juros-no-brasil-o-vaivem-do-x-e-mais)
+- [O dia em que o sertanejo estreou no Rock in Rio](https://www.nexojornal.com.br/expresso/2024/09/20/como-o-rock-in-rio-abracou-diferentes-generos-musicais)
+- [‘A bancada da Bíblia’: um braço poderoso da política brasileira](https://www.nexojornal.com.br/estante-trechos/2024/09/20/a-bancada-da-biblia-um-braco-poderoso-da-politica-brasileira)
+- [5 livros cujo sucesso ajuda a entender o mercado editorial](https://www.nexojornal.com.br/estante-favoritos/2024/09/20/5-livros-cujo-sucesso-ajuda-a-entender-o-mercado-editorial)
+- [Como livros podem ajudar meninos a lidar com a masculinidade](https://www.nexojornal.com.br/externo/2024/09/20/como-livros-podem-ajudar-meninos-a-lidar-com-a-masculinidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
