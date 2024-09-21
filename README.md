@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um pouco de ufanismo: a Justiça Eleitoral no Brasil](https://www.nexojornal.com.br/debate/2024/09/20/a-justica-eleitoral-no-brasil)
 - [O que prefeitos e vereadores podem fazer pela segurança](https://www.nexojornal.com.br/expresso/2024/09/20/seguranca-publica-o-papel-do-prefeito-e-do-vereador)
 - [Governo deve propor lei para banir celulares nas escolas](https://www.nexojornal.com.br/extra/2024/09/20/celular-escolas-proibicao-governo-deve-propor-lei)
 - [O aumento da taxa de juros no Brasil. O vaivém do X. E mais](https://www.nexojornal.com.br/video/2024/09/20/o-aumento-da-taxa-de-juros-no-brasil-o-vaivem-do-x-e-mais)
 - [O dia em que o sertanejo estreou no Rock in Rio](https://www.nexojornal.com.br/expresso/2024/09/20/como-o-rock-in-rio-abracou-diferentes-generos-musicais)
-- [‘A bancada da Bíblia’: um braço poderoso da política brasileira](https://www.nexojornal.com.br/estante-trechos/2024/09/20/a-bancada-da-biblia-um-braco-poderoso-da-politica-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
