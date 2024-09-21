@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bombardeio de Israel em Beirute deixa 37 mortos](https://www.nexojornal.com.br/extra/2024/09/21/bombardeio-de-israel-em-beirute-deixa-37-mortos)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/20/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-7)
 - [Um pouco de ufanismo: a Justiça Eleitoral no Brasil](https://www.nexojornal.com.br/debate/2024/09/20/a-justica-eleitoral-no-brasil)
 - [O que prefeitos e vereadores podem fazer pela segurança](https://www.nexojornal.com.br/expresso/2024/09/20/seguranca-publica-o-papel-do-prefeito-e-do-vereador)
 - [Governo deve propor lei para banir celulares nas escolas](https://www.nexojornal.com.br/extra/2024/09/20/celular-escolas-proibicao-governo-deve-propor-lei)
-- [O aumento da taxa de juros no Brasil. O vaivém do X. E mais](https://www.nexojornal.com.br/video/2024/09/20/o-aumento-da-taxa-de-juros-no-brasil-o-vaivem-do-x-e-mais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
