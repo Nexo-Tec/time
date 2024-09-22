@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Quais são as dinâmicas do crime ambiental da Amazônia](https://www.nexojornal.com.br/expresso/2024/09/21/amazonia-quais-as-dinamicas-do-crime-ambiental)
 - [As crianças e as telas: uma equação que não fecha](https://www.nexojornal.com.br/ensaio/2024/09/21/as-criancas-e-as-telas-uma-equacao-que-nao-fecha)
 - [Mossad: como opera o serviço secreto israelense](https://www.nexojornal.com.br/expresso/2024/09/21/servico-secreto-israel-mossad)
-- [Bombardeio de Israel em Beirute deixa 37 mortos](https://www.nexojornal.com.br/extra/2024/09/21/bombardeio-de-israel-em-beirute-deixa-37-mortos)
+- [Bombardeio de Israel em Beirute deixa 45 mortos](https://www.nexojornal.com.br/extra/2024/09/21/bombardeio-de-israel-em-beirute-deixa-37-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
