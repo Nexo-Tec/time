@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Quais são as dinâmicas do crime ambiental da Amazônia](https://www.nexojornal.com.br/ponto-futuro/2024/09/21/amazonia-quais-as-dinamicas-do-crime-ambiental)
+- [Quem foi o matemático persa que inventou os algoritmos](https://www.nexojornal.com.br/externo/2024/09/21/quem-foi-o-matematico-persa-que-inventou-os-algoritmos)
+- [Quais são as dinâmicas do crime ambiental da Amazônia](https://www.nexojornal.com.br/expresso/2024/09/21/amazonia-quais-as-dinamicas-do-crime-ambiental)
 - [As crianças e as telas: uma equação que não fecha](https://www.nexojornal.com.br/ensaio/2024/09/21/as-criancas-e-as-telas-uma-equacao-que-nao-fecha)
 - [Mossad: como opera o serviço secreto israelense](https://www.nexojornal.com.br/expresso/2024/09/21/servico-secreto-israel-mossad)
 - [Bombardeio de Israel em Beirute deixa 37 mortos](https://www.nexojornal.com.br/extra/2024/09/21/bombardeio-de-israel-em-beirute-deixa-37-mortos)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/20/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-7)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
