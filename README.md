@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o caso Diddy pode mexer com a indústria musical](https://www.nexojornal.com.br/expresso/2024/09/23/prisao-rapper-diddy-influencia-industria-musical)
+- [Qual papel o grupo extremista Hezbollah ocupa no Líbano](https://www.nexojornal.com.br/index/2024/09/23/hezbollah-grupo-extremista-o-que-e)
 - [Como escolas ajudam na preservação das línguas indígenas](https://www.nexojornal.com.br/externo/2024/09/23/como-escolas-ajudam-na-preservacao-das-linguas-indigenas)
 - [A adoção da tecnologia de reconhecimento facial em estádios](https://www.nexojornal.com.br/externo/2024/09/23/reconhecimento-facial-estadios-futebol-tecnologia)
 - [A controversa aposta em ‘fertilizar’ os oceanos](https://www.nexojornal.com.br/expresso/2024/09/22/a-controversa-aposta-em-fertilizar-os-oceanos)
-- [‘Nexo’ lança cobertura especial sobre saúde mental e escolas](https://www.nexojornal.com.br/expresso/2024/09/22/nexo-lanca-cobertura-especial-sobre-saude-mental-e-escolas)
-- [Serviço público: os privilégios são para quem?](https://www.nexojornal.com.br/ensaio/2024/09/22/servico-publico-os-privilegios-sao-para-quem)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
