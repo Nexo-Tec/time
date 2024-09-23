@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A adoção da tecnologia de reconhecimento facial em estádios](https://www.nexojornal.com.br/externo/2024/09/23/reconhecimento-facial-estadios-futebol-tecnologia)
 - [A controversa aposta em ‘fertilizar’ os oceanos](https://www.nexojornal.com.br/expresso/2024/09/22/a-controversa-aposta-em-fertilizar-os-oceanos)
 - [‘Nexo’ lança cobertura especial sobre saúde mental e escolas](https://www.nexojornal.com.br/expresso/2024/09/22/nexo-lanca-cobertura-especial-sobre-saude-mental-e-escolas)
 - [Serviço público: os privilégios são para quem?](https://www.nexojornal.com.br/ensaio/2024/09/22/servico-publico-os-privilegios-sao-para-quem)
 - [‘Candidato não pode ser só antissistema para ganhar eleição’](https://www.nexojornal.com.br/entrevista/2024/09/22/eleicoes-2024-panorama-geral-por-fernando-abrucio)
-- [Lula cobra ambição de líderes em cúpula enfraquecida da ONU](https://www.nexojornal.com.br/extra/2024/09/22/lula-cobra-ambicao-de-lideres-em-cupula-enfraquecida-da-onu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
