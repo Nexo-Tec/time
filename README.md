@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Infraestruturas híbridas a partir de soluções baseadas na natureza](https://pp.nexojornal.com.br/opiniao/2024/09/23/infraestruturas-hibridas-a-partir-de-solucoes-baseadas-na-natureza/)
+- [Qual o perfil das deputadas e dos deputados do Poder Legislativo estadual](https://pp.nexojornal.com.br/academico/2024/09/23/qual-o-perfil-das-deputadas-e-dos-deputados-do-poder-legislativo-estadual/)
+- [O voto das mulheres evangélicas, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/23/o-voto-das-mulheres-evangelicas-em-7-pontos/)
 - [Bem-estar animal para um sistema agroalimentar saudável e sustentável](https://pp.nexojornal.com.br/academico/2024/09/23/bem-estar-animal-para-um-sistema-agroalimentar-saudavel-e-sustentavel/)
 - [Isenção tributária no país para equipamentos de radioterapia é mais que urgente](https://pp.nexojornal.com.br/ponto-de-vista/2024/09/23/isencao-tributaria-no-pais-para-equipamentos-de-radioterapia-e-mais-que-urgente/)
-- [Vinte anos de cotas na UnB](https://pp.nexojornal.com.br/opiniao/2024/09/18/vinte-anos-de-cotas-na-unb/)
-- [Por que políticas para juventudes são importantes nas cidades](https://pp.nexojornal.com.br/topico/2024/09/18/por-que-politicas-para-juventudes-sao-importantes-nas-cidades/)
-- [Saúde mental de crianças e adolescentes: fatores sociais, desafios e políticas públicas, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/13/saude-mental-de-criancas-e-adolescentes-fatores-sociais-desafios-e-politicas-publicas-em-4-pontos/)
 <!-- PP_LIST:END -->
 
