@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o conflito entre Israel e Hamas se expande para o Líbano](https://www.nexojornal.com.br/expresso/2024/09/23/israel-expande-guerra-para-o-libano-motivo)
-- [Por que o caso Diddy pode mexer com a indústria musical](https://www.nexojornal.com.br/expresso/2024/09/23/prisao-rapper-diddy-influencia-industria-musical)
-- [Como é a atuação do grupo extremista Hezbollah no Líbano](https://www.nexojornal.com.br/index/2024/09/23/hezbollah-grupo-extremista-o-que-e)
-- [Como escolas ajudam na preservação das línguas indígenas](https://www.nexojornal.com.br/externo/2024/09/23/como-escolas-ajudam-na-preservacao-das-linguas-indigenas)
-- [A adoção da tecnologia de reconhecimento facial em estádios](https://www.nexojornal.com.br/externo/2024/09/23/reconhecimento-facial-estadios-futebol-tecnologia)
+- [Qual o quadro da saúde mental de crianças e adolescentes do Brasil](https://www.nexojornal.com.br/expresso/2024/09/23/saude-mental-no-brasil-criancas-e-adolescentes)
+- [Justiça de Pernambuco manda soltar Deolane Bezerra](https://www.nexojornal.com.br/extra/2024/09/23/justica-de-pernambuco-manda-soltar-deolane-bezerra)
+- [A realidade da contratação de professores temporários](https://www.nexojornal.com.br/ensaio/2024/09/23/a-realidade-da-contratacao-de-professores-temporarios)
+- [A esquerda venceu na França. Mas Macron abraçou a direita](https://www.nexojornal.com.br/podcast/2024/09/23/politica-na-franca-esquerda-venceu-mas-macron-prioriza-direita)
+- [Gusttavo Lima tem prisão decretada em apuração sobre bets](https://www.nexojornal.com.br/extra/2024/09/23/gusttavo-lima-prisao-bets-jogos-deolane-bezerra-operacao-integration)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
