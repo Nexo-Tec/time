@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Marçal é expulso de debate e assessor soca marqueteiro de Nunes](https://www.nexojornal.com.br/extra/2024/09/24/marcal-expulso-debate-assessor-soco-agressao-nunes)
 - [Qual o quadro da saúde mental de crianças e adolescentes do Brasil](https://www.nexojornal.com.br/expresso/2024/09/23/saude-mental-no-brasil-criancas-e-adolescentes)
 - [Justiça de Pernambuco manda soltar Deolane Bezerra](https://www.nexojornal.com.br/extra/2024/09/23/justica-de-pernambuco-manda-soltar-deolane-bezerra)
 - [A realidade da contratação de professores temporários](https://www.nexojornal.com.br/ensaio/2024/09/23/a-realidade-da-contratacao-de-professores-temporarios)
 - [A esquerda venceu na França. Mas Macron abraçou a direita](https://www.nexojornal.com.br/podcast/2024/09/23/politica-na-franca-esquerda-venceu-mas-macron-prioriza-direita)
-- [Gusttavo Lima tem prisão decretada em apuração sobre bets](https://www.nexojornal.com.br/extra/2024/09/23/gusttavo-lima-prisao-bets-jogos-deolane-bezerra-operacao-integration)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
