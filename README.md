@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A consolidação de Sally Rooney como fenômeno literário](https://www.nexojornal.com.br/expresso/2024/09/24/sally-rooney-lanca-livro-intermezzo-e-se-consolida-fenomeno-literario)
 - [O site que usa satélites da Nasa para escrever palavras](https://www.nexojornal.com.br/expresso/2024/09/24/satelites-da-nada-landsat-site-escrever-palavras)
 - [Na ONU, Lula defende soberania digital e governança para IA](https://www.nexojornal.com.br/extra/2024/09/24/onu-discurso-lula-tecnologia-crise-climatica-guerras)
 - [Marçal é expulso de debate e assessor soca marqueteiro de Nunes](https://www.nexojornal.com.br/extra/2024/09/24/marcal-expulso-debate-assessor-soco-agressao-nunes)
 - [Qual o quadro da saúde mental de crianças e adolescentes do Brasil](https://www.nexojornal.com.br/expresso/2024/09/23/saude-mental-no-brasil-criancas-e-adolescentes)
-- [Justiça de Pernambuco manda soltar Deolane Bezerra](https://www.nexojornal.com.br/extra/2024/09/23/justica-de-pernambuco-manda-soltar-deolane-bezerra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
