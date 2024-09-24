@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Emergência climática e a universidade: o que é possível fazer nos próximos 5 anos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/24/emergencia-climatica-e-a-universidade-o-que-e-possivel-fazer-nos-proximos-5-anos/)
 - [Fabio Waltenberg: equidade na educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/09/24/fabio-waltenberg-equidade-na-educacao/)
 - [Como entender a febre das apostas na população brasileira](https://pp.nexojornal.com.br/opiniao/2024/09/24/por-que-as-apostas-viraram-um-problema-para-a-populacao-brasileira/)
 - [Infraestruturas híbridas a partir de soluções baseadas na natureza](https://pp.nexojornal.com.br/opiniao/2024/09/23/infraestruturas-hibridas-a-partir-de-solucoes-baseadas-na-natureza/)
 - [Qual o perfil das deputadas e dos deputados do Poder Legislativo estadual](https://pp.nexojornal.com.br/academico/2024/09/23/qual-o-perfil-das-deputadas-e-dos-deputados-do-poder-legislativo-estadual/)
-- [O voto das mulheres evangélicas, em 7 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/23/o-voto-das-mulheres-evangelicas-em-7-pontos/)
 <!-- PP_LIST:END -->
 
