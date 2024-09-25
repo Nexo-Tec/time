@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Equidade de gênero nas eleições municipais 2024: confirma!](https://www.nexojornal.com.br/colunistas/2024/09/25/equidade-de-genero-nas-eleicoes-municipais-2024-confirma)
+- [Como Du Bois ajuda a entender a questão racial dos EUA](https://www.nexojornal.com.br/expresso/2024/09/25/eleicoes-eua-questao-racial-e-du-bois)
 - [Marçal paga R$ 230 mil a produtor que agrediu marqueteiro](https://www.nexojornal.com.br/externo/2024/09/25/marcal-paga-r-230-mil-a-produtor-que-agrediu-marqueteiro)
 - [Como transformar São Paulo numa cidade-esponja](https://www.nexojornal.com.br/expresso/2024/09/24/como-sao-paulo-pode-se-tornar-uma-cidade-esponja)
 - [Como o fogo e o petróleo abalam a liderança climática do Brasil](https://www.nexojornal.com.br/expresso/2024/09/24/onu-discurso-lula-brasil-lideranca-climatica-ameacada)
-- [Beneficiários do Bolsa Família apostaram R$ 3 bilhões em agosto](https://www.nexojornal.com.br/extra/2024/09/24/bolsa-familia-bets-beneficiarios-apostaram-3-bilhoes-em-agosto)
-- [Banco central chinês lança pacote para estimular economia](https://www.nexojornal.com.br/extra/2024/09/24/economia-china-banco-central-lanca-pacote-de-estimulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
