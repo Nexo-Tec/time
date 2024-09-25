@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a empresa dona do TikTok quer criar um chip próprio](https://www.nexojornal.com.br/expresso/2024/09/25/bytedance-tiktok-chip-briga-comercial-eua-e-china)
 - [Como funciona a rede de comunicação silenciosa das plantas](https://www.nexojornal.com.br/externo/2024/09/25/rede-de-comunicacao-das-plantas-como-funciona)
 - [Equidade de gênero nas eleições municipais 2024: confirma!](https://www.nexojornal.com.br/colunistas/2024/09/25/equidade-de-genero-nas-eleicoes-municipais-2024-confirma)
 - [Como Du Bois ajuda a entender a questão racial dos EUA](https://www.nexojornal.com.br/expresso/2024/09/25/eleicoes-eua-questao-racial-e-du-bois)
 - [Marçal paga R$ 230 mil a produtor que agrediu marqueteiro](https://www.nexojornal.com.br/externo/2024/09/25/marcal-paga-r-230-mil-a-produtor-que-agrediu-marqueteiro)
-- [Como transformar São Paulo numa cidade-esponja](https://www.nexojornal.com.br/expresso/2024/09/24/como-sao-paulo-pode-se-tornar-uma-cidade-esponja)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
