@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que a empresa dona do TikTok quer criar um chip próprio](https://www.nexojornal.com.br/expresso/2024/09/25/bytedance-tiktok-chip-briga-comercial-eua-e-china)
-- [Como funciona a rede de comunicação silenciosa das plantas](https://www.nexojornal.com.br/externo/2024/09/25/rede-de-comunicacao-das-plantas-como-funciona)
-- [Equidade de gênero nas eleições municipais 2024: confirma!](https://www.nexojornal.com.br/colunistas/2024/09/25/equidade-de-genero-nas-eleicoes-municipais-2024-confirma)
-- [Como Du Bois ajuda a entender a questão racial dos EUA](https://www.nexojornal.com.br/expresso/2024/09/25/eleicoes-eua-questao-racial-e-du-bois)
-- [Marçal paga R$ 230 mil a produtor que agrediu marqueteiro](https://www.nexojornal.com.br/externo/2024/09/25/marcal-paga-r-230-mil-a-produtor-que-agrediu-marqueteiro)
+- [Bets: quando procurar ajuda e o que fazer para não se perder](https://www.nexojornal.com.br/servico/2024/09/25/bets-apostas-esportivas-vicio-sinais-ajuda)
+- [Como a rotatividade de governos influencia os serviços públicos](https://www.nexojornal.com.br/academico/2024/09/25/rotatividade-governos-influencia-servicos-publicos-pesquisa)
+- [A genealogia e o perfil dos partidos brasileiros](https://www.nexojornal.com.br/especial/2024/09/25/politica-origem-partidos-brasil-genealogia)
+- [Adolescente brasileiro morre em área atacada por Israel no Líbano](https://www.nexojornal.com.br/extra/2024/09/25/adolescente-brasileiro-morre-em-area-atacada-por-israel-no-libano)
+- [O que estudos revelam sobre os danos que as bets causam](https://www.nexojornal.com.br/podcast/2024/09/25/aposta-bet-bolsa-familia-dados-banco-central)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
