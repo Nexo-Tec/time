@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Gama terá edição sobre saúde mental e comunidade escolar](https://gamarevista.uol.com.br/sociedade/gama-tera-edicao-sobre-saude-mental-e-comunidade-escolar/)
-- [Oito episódios de podcasts com mulheres inspiradoras](https://gamarevista.uol.com.br/formato/bloco-de-notas/oito-episodios-de-podcasts-com-mulheres-inspiradoras/)
-- [Eu me vingo me amando](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/eu-me-vingo-me-amando/)
-- [@golloria](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/golloria/)
-- [Atum selado com crosta de gergelim, um clássico do Ráscal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/atum-selado-com-crosta-de-gergelim-um-classico-do-rascal/)
+- [A terceira temporada de “Industry”, na Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/terceira-temporada-de-industry-na-max/)
+- [O álbum “Waves”, de Jamie XX](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/waves-de-jamie-xx/)
+- [O livro do palestino Atef Abu Saif sobre a vida na guerra](https://gamarevista.uol.com.br/achamos-que-vale/ler/livro-do-palestino-atef-abu-saif-vida-na-guerra/)
+- [A ópera “Nabucco”, com direção de Christiane Jatahy, em SP](https://gamarevista.uol.com.br/achamos-que-vale/assistir/opera-nabuco-christiane-jatahy/)
+- [A sétima temporada do Prato Cheio](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/setima-temporada-prato-cheio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
