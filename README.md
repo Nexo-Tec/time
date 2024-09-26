@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Gama terá edição sobre saúde mental e comunidade escolar](https://gamarevista.uol.com.br/sociedade/gama-tera-edicao-sobre-saude-mental-e-comunidade-escolar/)
 - [Oito episódios de podcasts com mulheres inspiradoras](https://gamarevista.uol.com.br/formato/bloco-de-notas/oito-episodios-de-podcasts-com-mulheres-inspiradoras/)
 - [Eu me vingo me amando](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/eu-me-vingo-me-amando/)
 - [@golloria](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/golloria/)
 - [Atum selado com crosta de gergelim, um clássico do Ráscal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/atum-selado-com-crosta-de-gergelim-um-classico-do-rascal/)
-- [Julia Dantas: “A tragédia climática vai acontecer com todo mundo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/julia-dantas-a-tragedia-climatica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
