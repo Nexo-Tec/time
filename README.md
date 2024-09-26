@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As transmissões de futebol longe dos centros hegemônicos](https://www.nexojornal.com.br/academico/2024/09/26/as-transmissoes-de-futebol-longe-dos-centros-hegemonicos-2)
 - [Por que uma nova fundação desperta críticas no IBGE](https://www.nexojornal.com.br/expresso/2024/09/26/fundacao-ibge-desperta-criticas-ibge-paralelo-serpro)
 - [Bets: quando procurar ajuda e o que fazer para não se perder](https://www.nexojornal.com.br/servico/2024/09/25/bets-apostas-esportivas-vicio-sinais-ajuda)
 - [Como a rotatividade de governos influencia os serviços públicos](https://www.nexojornal.com.br/academico/2024/09/25/rotatividade-governos-influencia-servicos-publicos-pesquisa)
 - [A genealogia e o perfil dos partidos brasileiros](https://www.nexojornal.com.br/especial/2024/09/25/politica-origem-partidos-brasil-genealogia)
-- [Adolescente brasileiro morre em área atacada por Israel no Líbano](https://www.nexojornal.com.br/extra/2024/09/25/adolescente-brasileiro-morre-em-area-atacada-por-israel-no-libano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
