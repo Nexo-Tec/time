@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pena de morte: quando execuções se baseiam em provas frágeis](https://www.nexojornal.com.br/podcast/2024/09/26/pena-de-morte-eua-execucao-sem-provas)
+- [X diz ter cumprido exigências do Supremo e pede desbloqueio](https://www.nexojornal.com.br/extra/2024/09/26/x-diz-ter-cumprido-exigencias-do-supremo-e-pede-desbloqueio)
 - [A reconstrução desinformativa do 8/1 nas eleições de 2024](https://www.nexojornal.com.br/debate/2024/09/26/a-reconstrucao-desinformativa-do-8-1-nas-eleicoes-de-2024)
 - [Acordo milionário tira fazendeiros de terra indígena](https://www.nexojornal.com.br/extra/2024/09/26/terra-indigena-acordo-milionario-fazendeiros)
 - [As transmissões de futebol longe dos centros hegemônicos](https://www.nexojornal.com.br/academico/2024/09/26/as-transmissoes-de-futebol-longe-dos-centros-hegemonicos-2)
-- [Por que uma nova fundação desperta críticas no IBGE](https://www.nexojornal.com.br/expresso/2024/09/26/fundacao-ibge-desperta-criticas-ibge-paralelo-serpro)
-- [Bets: quando procurar ajuda e o que fazer para não se perder](https://www.nexojornal.com.br/servico/2024/09/25/bets-apostas-esportivas-vicio-sinais-ajuda)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
