@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Operação Prato’: o caso que entrou para a mitologia dos ufólogos](https://www.nexojornal.com.br/expresso/2024/09/27/podcast-operacao-prato-mito-ufologia)
+- [A história do grito mais usado nos filmes de Hollywood](https://www.nexojornal.com.br/expresso/2024/09/27/cinema-grito-de-wilhem-historia-som-mais-usado-nos-filmes-de-hollywood)
 - [Dormir pouco ou muito? Por que os dois fazem mal para a saúde](https://www.nexojornal.com.br/externo/2024/09/27/dormir-pouco-ou-muito-por-que-fazem-mal-para-a-saude)
 - [Brasil participa de boicote contra Netanyahu na ONU](https://www.nexojornal.com.br/extra/2024/09/27/benjamin-netanyahu-na-onu-boicote-brasil-ataques-contra-o-libano)
 - [Vivências da diáspora africana pautam festivais literários](https://www.nexojornal.com.br/colunistas/2024/09/27/flip-ou-flup)
-- [Morre Maggie Smith, atriz de ‘Harry Potter’ e ‘Downton Abbey’](https://www.nexojornal.com.br/extra/2024/09/27/morre-maggie-smith-atriz-de-harry-potter-e-downtown-abbey)
-- [Quais vírus e bactérias podem causar câncer](https://www.nexojornal.com.br/expresso/2024/09/26/quais-virus-e-bacterias-podem-causar-cancer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
