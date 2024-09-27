@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A escola como campo de disputa nas eleições municipais de 2024](https://pp.nexojornal.com.br/opiniao/2024/09/27/a-escola-como-campo-de-disputa-nas-eleicoes-municipais-de-2024/)
 - [Explorando a fé para lucrar: publicidade, golpes e religião](https://pp.nexojornal.com.br/opiniao/2024/09/25/explorando-a-fe-para-lucrar-publicidade-golpes-e-religiao/)
 - [Emergência climática e a universidade: o que é possível fazer nos próximos 5 anos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/24/emergencia-climatica-e-a-universidade-o-que-e-possivel-fazer-nos-proximos-5-anos/)
 - [Fabio Waltenberg: equidade na educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/09/24/fabio-waltenberg-equidade-na-educacao/)
 - [Como entender a febre das apostas na população brasileira](https://pp.nexojornal.com.br/opiniao/2024/09/24/por-que-as-apostas-viraram-um-problema-para-a-populacao-brasileira/)
-- [Infraestruturas híbridas a partir de soluções baseadas na natureza](https://pp.nexojornal.com.br/opiniao/2024/09/23/infraestruturas-hibridas-a-partir-de-solucoes-baseadas-na-natureza/)
 <!-- PP_LIST:END -->
 
