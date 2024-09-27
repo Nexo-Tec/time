@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os danos das bets. Os ataques israelenses no Líbano. E mais](https://www.nexojornal.com.br/video/2024/09/27/bets-ataques-israel-libano-resumo-da-semana)
+- [‘A ligação’: o choque entre os desejos e o mundo corporativo](https://www.nexojornal.com.br/estante-trechos/2024/09/27/a-ligacao-o-choque-entre-os-desejos-e-o-mundo-corporativo)
+- [Você sabe o significado das siglas dos partidos do Brasil? Faça o teste](https://www.nexojornal.com.br/interativo/2024/09/27/partido-politico-brasil-sigla-significado)
+- [5 livros sobre o horror de ser mulher em um mundo misógino](https://www.nexojornal.com.br/estante-favoritos/2024/09/27/5-livros-sobre-o-horror-de-ser-mulher-em-um-mundo-misogino)
 - [‘Operação Prato’: o caso que entrou para a mitologia dos ufólogos](https://www.nexojornal.com.br/expresso/2024/09/27/podcast-operacao-prato-mito-ufologia)
-- [A história do grito mais usado nos filmes de Hollywood](https://www.nexojornal.com.br/expresso/2024/09/27/cinema-grito-de-wilhem-historia-som-mais-usado-nos-filmes-de-hollywood)
-- [Dormir pouco ou muito? Por que os dois fazem mal para a saúde](https://www.nexojornal.com.br/externo/2024/09/27/dormir-pouco-ou-muito-por-que-fazem-mal-para-a-saude)
-- [Brasil participa de boicote contra Netanyahu na ONU](https://www.nexojornal.com.br/extra/2024/09/27/benjamin-netanyahu-na-onu-boicote-brasil-ataques-contra-o-libano)
-- [Vivências da diáspora africana pautam festivais literários](https://www.nexojornal.com.br/colunistas/2024/09/27/flip-ou-flup)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
