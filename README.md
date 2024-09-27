@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os danos das bets. Os ataques israelenses no Líbano. E mais](https://www.nexojornal.com.br/video/2024/09/27/bets-ataques-israel-libano-resumo-da-semana)
-- [‘A ligação’: o choque entre os desejos e o mundo corporativo](https://www.nexojornal.com.br/estante-trechos/2024/09/27/a-ligacao-o-choque-entre-os-desejos-e-o-mundo-corporativo)
-- [Você sabe o significado das siglas dos partidos do Brasil? Faça o teste](https://www.nexojornal.com.br/interativo/2024/09/27/partido-politico-brasil-sigla-significado)
-- [5 livros sobre o horror de ser mulher em um mundo misógino](https://www.nexojornal.com.br/estante-favoritos/2024/09/27/5-livros-sobre-o-horror-de-ser-mulher-em-um-mundo-misogino)
-- [‘Operação Prato’: o caso que entrou para a mitologia dos ufólogos](https://www.nexojornal.com.br/expresso/2024/09/27/podcast-operacao-prato-mito-ufologia)
+- [Como mais da metade da população da Argentina caiu na pobreza](https://www.nexojornal.com.br/expresso/2024/09/27/populacao-pobreza-argentina)
+- [Seca deixará conta de luz mais cara no Brasil em outubro](https://www.nexojornal.com.br/extra/2024/09/27/bandeira-vermelha-conta-de-luz-mais-cara-outubro)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/27/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-8)
+- [‘Para não repetir’: as memórias da ditadura nos livros infantis](https://www.nexojornal.com.br/externo/2024/09/27/para-nao-repetir-as-memorias-da-ditadura-nos-livros-infantis)
+- [A importância do combate ao bullying lgbtfóbico na educação](https://www.nexojornal.com.br/ensaio/2024/09/27/a-importancia-do-combate-ao-bullying-lgbtfobico-na-educacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
