@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Pena de morte: quando execuções se baseiam em provas frágeis](https://www.nexojornal.com.br/podcast/2024/09/26/pena-de-morte-eua-execucao-sem-provas)
-- [X diz ter cumprido exigências do Supremo e pede desbloqueio](https://www.nexojornal.com.br/extra/2024/09/26/x-diz-ter-cumprido-exigencias-do-supremo-e-pede-desbloqueio)
-- [A reconstrução desinformativa do 8/1 nas eleições de 2024](https://www.nexojornal.com.br/debate/2024/09/26/a-reconstrucao-desinformativa-do-8-1-nas-eleicoes-de-2024)
-- [Acordo milionário tira fazendeiros de terra indígena](https://www.nexojornal.com.br/extra/2024/09/26/terra-indigena-acordo-milionario-fazendeiros)
-- [As transmissões de futebol longe dos centros hegemônicos](https://www.nexojornal.com.br/academico/2024/09/26/as-transmissoes-de-futebol-longe-dos-centros-hegemonicos-2)
+- [Quais vírus e bactérias podem causar câncer](https://www.nexojornal.com.br/expresso/2024/09/26/quais-virus-e-bacterias-podem-causar-cancer)
+- [Líbano: como a guerra afeta um país afundado em crises](https://www.nexojornal.com.br/expresso/2024/09/26/guerra-israel-afeta-crise-libano)
+- [Quais os entraves para eletrificar o transporte público no Brasil](https://www.nexojornal.com.br/expresso/2024/09/26/transporte-publico-eletrico-no-brasil)
+- [Pobreza atinge mais da metade da população da Argentina de Milei](https://www.nexojornal.com.br/extra/2024/09/26/javier-milei-pobreza-na-argentina)
+- [O estilo do início dos anos 2010 revivido pelo ‘indie sleaze’](https://www.nexojornal.com.br/expresso/2024/09/26/tendencias-de-estilo-dos-anos-2010-indie-sleaze)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
