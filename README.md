@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Vivências da diáspora africana pautam festivais literários](https://www.nexojornal.com.br/colunistas/2024/09/27/flip-ou-flup)
-- [Morre Maggie Smith, atriz de ‘Harry Potter’ e ‘Downtown Abbey’](https://www.nexojornal.com.br/extra/2024/09/27/morre-maggie-smith-atriz-de-harry-potter-e-downtown-abbey)
+- [Morre Maggie Smith, atriz de ‘Harry Potter’ e ‘Downton Abbey’](https://www.nexojornal.com.br/extra/2024/09/27/morre-maggie-smith-atriz-de-harry-potter-e-downtown-abbey)
 - [Quais vírus e bactérias podem causar câncer](https://www.nexojornal.com.br/expresso/2024/09/26/quais-virus-e-bacterias-podem-causar-cancer)
 - [Líbano: como a guerra afeta um país afundado em crises](https://www.nexojornal.com.br/expresso/2024/09/26/guerra-israel-afeta-crise-libano)
 - [Quais os entraves para eletrificar o transporte público no Brasil](https://www.nexojornal.com.br/expresso/2024/09/26/transporte-publico-eletrico-no-brasil)
