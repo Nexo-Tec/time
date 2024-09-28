@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Israel mata líder do Hezbollah em ataque a sede do grupo](https://www.nexojornal.com.br/extra/2024/09/28/hezbollah-lider-hassan-nasrallah-morto-ataque-israel-beirute)
 - [Como mais da metade da população da Argentina caiu na pobreza](https://www.nexojornal.com.br/expresso/2024/09/27/populacao-pobreza-argentina)
 - [Seca deixará conta de luz mais cara no Brasil em outubro](https://www.nexojornal.com.br/extra/2024/09/27/bandeira-vermelha-conta-de-luz-mais-cara-outubro)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/09/27/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-8)
 - [‘Para não repetir’: as memórias da ditadura nos livros infantis](https://www.nexojornal.com.br/externo/2024/09/27/para-nao-repetir-as-memorias-da-ditadura-nos-livros-infantis)
-- [A importância do combate ao bullying lgbtfóbico na educação](https://www.nexojornal.com.br/ensaio/2024/09/27/a-importancia-do-combate-ao-bullying-lgbtfobico-na-educacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
