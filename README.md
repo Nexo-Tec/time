@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Elisama Santos: “A escola e a família precisam andar juntas no apoio às crianças”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/elisama-santos-escola-familia/)
 - [Dia Mundial das Notícias 2024: A alegria da verdade compartilhada, o vínculo sagrado e os valores evidentes das democracias](https://gamarevista.uol.com.br/opiniao/dia-mundial-das-noticias-2024-a-alegria-da-verdade-compartilhada-o-vinculo-sagrado-e-os-valores-evidentes-das-democracias/)
 - [O cinismo de Lula diante da supremacia branca](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/o-cinismo-de-lula-diante-da-supremacia-branca/)
 - [Limite de Caracteres](https://gamarevista.uol.com.br/cultura/trecho-de-livro/limite-de-caracteres/)
 - [A terceira temporada de “Industry”, na Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/terceira-temporada-de-industry-na-max/)
-- [O álbum “Waves”, de Jamie XX](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/waves-de-jamie-xx/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
