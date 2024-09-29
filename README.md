@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os papagaios que estão mudando a forma de se comunicar](https://www.nexojornal.com.br/expresso/2024/09/29/papagaios-sotaques-mudam-a-forma-de-se-comunicar)
+- [A igualdade de gênero como prioridade na agenda econômica](https://www.nexojornal.com.br/ensaio/2024/09/29/a-igualdade-de-genero-como-prioridade-na-agenda-economica)
+- [Por que as bets são um terreno propício para a lavagem de dinheiro](https://www.nexojornal.com.br/expresso/2024/09/29/bet-lavagem-de-dinheiro-como-funciona)
 - [Partido de extrema direita é mais votado em eleições na Áustria](https://www.nexojornal.com.br/extra/2024/09/29/austria-eleicoes-parlamento-partido-da-extrema-direita-e-mais-votado)
 - [‘Conflitos de natureza política se infiltraram na relação escolar’](https://www.nexojornal.com.br/entrevista/2024/09/28/saude-mental-de-criancas-e-adolescentes-na-escola-infancia-entrevista-christian-dunker)
-- [A educação digital para a transformação das favelas](https://www.nexojornal.com.br/ensaio/2024/09/28/a-educacao-digital-para-a-transformacao-das-favelas)
-- [O plano frustrado da Juul de vender vapes baratos em botecos](https://www.nexojornal.com.br/externo/2024/09/28/vapes-baratos-em-botecos-juul)
-- [Ataques israelenses matam 7 lideranças do Hezbollah no Líbano](https://www.nexojornal.com.br/extra/2024/09/28/hezbollah-lider-hassan-nasrallah-morto-ataque-israel-beirute)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
