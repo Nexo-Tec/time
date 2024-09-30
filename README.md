@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Israel faz ataque no centro de Beirute e bombardeia Iêmen](https://www.nexojornal.com.br/extra/2024/09/29/israel-faz-ataque-no-centro-de-beirute-e-bombardeia-iemen)
-- [A falta de planos para o clima para a capital da COP no Brasil](https://www.nexojornal.com.br/externo/2024/09/29/a-falta-de-planos-para-o-clima-para-a-capital-da-cop-no-brasil)
+- [A falta de planos para o clima na capital da COP30](https://www.nexojornal.com.br/externo/2024/09/29/a-falta-de-planos-para-o-clima-para-a-capital-da-cop-no-brasil)
 - [Os papagaios que estão mudando a forma de se comunicar](https://www.nexojornal.com.br/expresso/2024/09/29/papagaios-sotaques-mudam-a-forma-de-se-comunicar)
 - [A igualdade de gênero como prioridade na agenda econômica](https://www.nexojornal.com.br/ensaio/2024/09/29/a-igualdade-de-genero-como-prioridade-na-agenda-economica)
 - [Por que as bets são um terreno propício para a lavagem de dinheiro](https://www.nexojornal.com.br/expresso/2024/09/29/bet-lavagem-de-dinheiro-como-funciona)
