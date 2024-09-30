@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como eventos de lutas se tornaram um filão para influenciadores](https://www.nexojornal.com.br/expresso/2024/09/30/luta-entre-influenciadores-fight-music-night-popo)
 - [Água com gás ou sem gás: o que é melhor para você?](https://www.nexojornal.com.br/externo/2024/09/30/agua-com-gas-ou-sem-gas-o-que-e-melhor)
 - [Por que a fabricante de um jogo de cartas processa Elon Musk](https://www.nexojornal.com.br/expresso/2024/09/30/elon-musk-spacex-processo-jogo-cartas-contra-a-humanidade)
 - [‘Fresh frozen’: a harmonização facial em cadáveres frescos](https://www.nexojornal.com.br/expresso/2024/09/30/harmonizacao-facial-em-cadaver-fresh-frozen)
 - [Israel faz ataque no centro de Beirute e bombardeia Iêmen](https://www.nexojornal.com.br/extra/2024/09/29/israel-faz-ataque-no-centro-de-beirute-e-bombardeia-iemen)
-- [A falta de planos para o clima na capital da COP30](https://www.nexojornal.com.br/externo/2024/09/29/a-falta-de-planos-para-o-clima-para-a-capital-da-cop-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
