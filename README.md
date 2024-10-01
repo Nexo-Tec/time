@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@scarparicardo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ricardo-scarpa/)
 - [Dira Paes: “As questões humanitárias estão agora indissociáveis da questão ambiental”](https://gamarevista.uol.com.br/formato/conversas/dira-paes-as-questoes-humanitarias-estao-agora-indissociaveis-da-questao-ambiental/)
 - [Injustiça e veneno](https://gamarevista.uol.com.br/colunistas/fernando-luna/injustica-e-veneno/)
 - [CV: Christiane Jatahy](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-christiane-jatahy/)
 - [Elisama Santos: “A escola e a família precisam andar juntas no apoio às crianças”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/elisama-santos-escola-familia/)
-- [Dia Mundial das Notícias 2024: A alegria da verdade compartilhada, o vínculo sagrado e os valores evidentes das democracias](https://gamarevista.uol.com.br/opiniao/dia-mundial-das-noticias-2024-a-alegria-da-verdade-compartilhada-o-vinculo-sagrado-e-os-valores-evidentes-das-democracias/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
