@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Câmeras na segurança pública](https://pp.nexojornal.com.br/glossario/2024/10/01/cameras-na-seguranca-publica/)
+- [O que falta para os estudantes brasileiros serem mais criativos?](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/o-que-falta-para-os-estudantes-brasileiros-serem-mais-criativos/)
+- [O que é protagonismo indígena e por que ele é tão importante para nós indígenas](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/que-e-protagonismo-indigena-e-por-que-ele-e-tao-importante-para-nos-indigenas/)
 - [Há caminhos para a construção de uma educação pública de qualidade?](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/ha-caminhos-para-a-construcao-de-uma-educacao-publica-de-qualidade/)
 - [A escola como campo de disputa nas eleições municipais de 2024](https://pp.nexojornal.com.br/opiniao/2024/09/27/a-escola-como-campo-de-disputa-nas-eleicoes-municipais-de-2024/)
-- [Explorando a fé para lucrar: publicidade, golpes e religião](https://pp.nexojornal.com.br/opiniao/2024/09/25/explorando-a-fe-para-lucrar-publicidade-golpes-e-religiao/)
-- [Emergência climática e a universidade: o que é possível fazer nos próximos 5 anos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/09/24/emergencia-climatica-e-a-universidade-o-que-e-possivel-fazer-nos-proximos-5-anos/)
-- [Fabio Waltenberg: equidade na educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/09/24/fabio-waltenberg-equidade-na-educacao/)
 <!-- PP_LIST:END -->
 
