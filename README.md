@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Novas perspectivas buscam ampliar o entendimento sobre a Guerra do Paraguai](https://www.nexojornal.com.br/externo/2024/10/01/novas-perspectivas-buscam-ampliar-o-entendimento-sobre-a-guerra-do-paraguai)
 - [Como as escolas brasileiras lidam com o avanço da violência](https://www.nexojornal.com.br/expresso/2024/10/01/brasil-violencia-nas-escolas)
 - [Como Recife lida com a ameaça da mudança do clima](https://www.nexojornal.com.br/expresso/2024/09/30/mudancas-climaticas-politicas-publicas-recife)
 - [A configuração da guerra um ano após o ataque do Hamas](https://www.nexojornal.com.br/expresso/2024/09/30/guerra-israel-libano-hamas-um-ano)
 - [Por que o agro está interessado em produtos biológicos](https://www.nexojornal.com.br/externo/2024/09/30/por-que-o-agro-esta-interessado-em-produtos-biologicos)
-- [Prevenção a desastres: por que olhar para a experiência chinesa?](https://www.nexojornal.com.br/ensaio/2024/09/30/prevencao-a-desastres-por-que-olhar-para-a-experiencia-chinesa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
