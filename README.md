@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A trajetória da expectativa de vida no Brasil em seis décadas](https://www.nexojornal.com.br/grafico/2024/10/01/expectativa-de-vida-brasil-2024-grafico)
 - [Novas perspectivas buscam ampliar o entendimento sobre a Guerra do Paraguai](https://www.nexojornal.com.br/externo/2024/10/01/novas-perspectivas-buscam-ampliar-o-entendimento-sobre-a-guerra-do-paraguai)
 - [Como as escolas brasileiras lidam com o avanço da violência](https://www.nexojornal.com.br/expresso/2024/10/01/brasil-violencia-nas-escolas)
 - [Como Recife lida com a ameaça da mudança do clima](https://www.nexojornal.com.br/expresso/2024/09/30/mudancas-climaticas-politicas-publicas-recife)
 - [A configuração da guerra um ano após o ataque do Hamas](https://www.nexojornal.com.br/expresso/2024/09/30/guerra-israel-libano-hamas-um-ano)
-- [Por que o agro está interessado em produtos biológicos](https://www.nexojornal.com.br/externo/2024/09/30/por-que-o-agro-esta-interessado-em-produtos-biologicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
