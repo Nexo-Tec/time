@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como eventos de lutas se tornaram um filão para influenciadores](https://www.nexojornal.com.br/expresso/2024/09/30/luta-entre-influenciadores-fight-music-night-popo)
-- [Água com gás ou sem gás: o que é melhor para você?](https://www.nexojornal.com.br/externo/2024/09/30/agua-com-gas-ou-sem-gas-o-que-e-melhor)
-- [Por que a fabricante de um jogo de cartas processa Elon Musk](https://www.nexojornal.com.br/expresso/2024/09/30/elon-musk-spacex-processo-jogo-cartas-contra-a-humanidade)
-- [‘Fresh frozen’: a harmonização facial em cadáveres frescos](https://www.nexojornal.com.br/expresso/2024/09/30/harmonizacao-facial-em-cadaver-fresh-frozen)
-- [Israel faz ataque no centro de Beirute e bombardeia Iêmen](https://www.nexojornal.com.br/extra/2024/09/29/israel-faz-ataque-no-centro-de-beirute-e-bombardeia-iemen)
+- [Como Recife lida com a ameaça da mudança do clima](https://www.nexojornal.com.br/expresso/2024/09/30/mudancas-climaticas-politicas-publicas-recife)
+- [A configuração da guerra um ano após o ataque do Hamas](https://www.nexojornal.com.br/expresso/2024/09/30/guerra-israel-libano-hamas-um-ano)
+- [Por que o agro está interessado em produtos biológicos](https://www.nexojornal.com.br/externo/2024/09/30/por-que-o-agro-esta-interessado-em-produtos-biologicos)
+- [Prevenção a desastres: por que olhar para a experiência chinesa?](https://www.nexojornal.com.br/ensaio/2024/09/30/prevencao-a-desastres-por-que-olhar-para-a-experiencia-chinesa)
+- [A potência do bolsonarismo nas eleições municipais](https://www.nexojornal.com.br/podcast/2024/09/30/eleicoes-2024-bolsonarismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
