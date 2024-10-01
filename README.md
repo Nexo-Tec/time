@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A expectativa de vida no Brasil em quatro gráficos](https://pp.nexojornal.com.br/dados/2024/10/01/expectativa-de-vida-brasil-2024-grafico/)
+- [Em quem votam os evangélicos? Reflexões a partir da eleição para a Prefeitura de São Paulo](https://pp.nexojornal.com.br/opiniao/2024/10/01/em-quem-votam-os-evangelicos-reflexoes-a-partir-da-eleicao-para-a-prefeitura-de-sao-paulo/)
 - [O Brasil queimando e adoecendo sua população](https://pp.nexojornal.com.br/opiniao/2024/10/01/o-brasil-queimando-e-adoecendo-sua-populacao/)
 - [Os desafios das mudanças climáticas para o Brasil](https://pp.nexojornal.com.br/topico/2024/10/01/os-desafios-das-mudancas-climaticas-para-o-brasil/)
 - [Câmeras na segurança pública](https://pp.nexojornal.com.br/glossario/2024/10/01/cameras-na-seguranca-publica/)
-- [O que falta para os estudantes brasileiros serem mais criativos?](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/o-que-falta-para-os-estudantes-brasileiros-serem-mais-criativos/)
-- [O que é protagonismo indígena e por que ele é tão importante para nós indígenas](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/que-e-protagonismo-indigena-e-por-que-ele-e-tao-importante-para-nos-indigenas/)
 <!-- PP_LIST:END -->
 
