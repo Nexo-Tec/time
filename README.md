@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O Brasil queimando e adoecendo sua população](https://pp.nexojornal.com.br/opiniao/2024/10/01/o-brasil-queimando-e-adoecendo-sua-populacao/)
+- [Os desafios das mudanças climáticas para o Brasil](https://pp.nexojornal.com.br/topico/2024/10/01/os-desafios-das-mudancas-climaticas-para-o-brasil/)
 - [Câmeras na segurança pública](https://pp.nexojornal.com.br/glossario/2024/10/01/cameras-na-seguranca-publica/)
 - [O que falta para os estudantes brasileiros serem mais criativos?](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/o-que-falta-para-os-estudantes-brasileiros-serem-mais-criativos/)
 - [O que é protagonismo indígena e por que ele é tão importante para nós indígenas](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/que-e-protagonismo-indigena-e-por-que-ele-e-tao-importante-para-nos-indigenas/)
-- [Há caminhos para a construção de uma educação pública de qualidade?](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/01/ha-caminhos-para-a-construcao-de-uma-educacao-publica-de-qualidade/)
-- [A escola como campo de disputa nas eleições municipais de 2024](https://pp.nexojornal.com.br/opiniao/2024/09/27/a-escola-como-campo-de-disputa-nas-eleicoes-municipais-de-2024/)
 <!-- PP_LIST:END -->
 
