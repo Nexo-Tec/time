@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O basilisco de Moraes](https://www.nexojornal.com.br/colunistas/2024/10/01/o-basilisco-de-moraes)
+- [Os avanços da astronomia na detecção de asteroides](https://www.nexojornal.com.br/externo/2024/10/01/os-avancos-da-astronomia-na-deteccao-de-asteroides)
+- [‘Plataformas chegaram quando apostar já fazia parte da cultura’](https://www.nexojornal.com.br/entrevista/2024/10/01/bet-e-a-cultura-das-apostas-no-brasil)
 - [Prosperidade, guerra e crise: um breve histórico do Líbano](https://www.nexojornal.com.br/podcast/2024/10/01/libano-historia-e-origem)
 - [Como Belo Horizonte projetou o funk MTG para o Brasil](https://www.nexojornal.com.br/expresso/2024/10/01/funk-mtg-belo-horizonte)
-- [A trajetória da expectativa de vida no Brasil em seis décadas](https://www.nexojornal.com.br/grafico/2024/10/01/expectativa-de-vida-brasil-2024-grafico)
-- [Novas perspectivas buscam ampliar o entendimento sobre a Guerra do Paraguai](https://www.nexojornal.com.br/externo/2024/10/01/novas-perspectivas-buscam-ampliar-o-entendimento-sobre-a-guerra-do-paraguai)
-- [Como as escolas brasileiras lidam com o avanço da violência](https://www.nexojornal.com.br/expresso/2024/10/01/brasil-violencia-nas-escolas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
