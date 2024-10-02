@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Chega de minar a Política Nacional de Controle do Tabaco](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/02/chega-de-minar-a-politica-nacional-de-controle-do-tabaco/)
 - [Como o setor ferroviário pode se tornar um pilar da economia brasileira, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/10/02/como-o-setor-ferroviario-pode-se-tornar-um-pilar-da-economia-brasileira-em-5-pontos/)
 - [Educação Escolar Quilombola: a trajetória de uma política pública](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/02/educacao-escolar-quilombola-a-trajetoria-de-uma-politica-publica/)
 - [“Sou a imagem e semelhança do Criador”: Pablo Marçal, “governalismo” e novos radicalismos de direita](https://pp.nexojornal.com.br/opiniao/2024/10/02/sou-a-imagem-e-semelhanca-do-criador-pablo-marcal-governalismo-e-novos-radicalismos-de-direita/)
 - [A expectativa de vida no Brasil em quatro gráficos](https://pp.nexojornal.com.br/dados/2024/10/01/expectativa-de-vida-brasil-2024-grafico/)
-- [Em quem votam os evangélicos? Reflexões a partir da eleição para a Prefeitura de São Paulo](https://pp.nexojornal.com.br/opiniao/2024/10/01/em-quem-votam-os-evangelicos-reflexoes-a-partir-da-eleicao-para-a-prefeitura-de-sao-paulo/)
 <!-- PP_LIST:END -->
 
