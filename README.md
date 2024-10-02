@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como o setor ferroviário pode se tornar um pilar da economia brasileira, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/10/02/como-o-setor-ferroviario-pode-se-tornar-um-pilar-da-economia-brasileira-em-5-pontos/)
+- [Educação Escolar Quilombola: a trajetória de uma política pública](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/02/educacao-escolar-quilombola-a-trajetoria-de-uma-politica-publica/)
 - [“Sou a imagem e semelhança do Criador”: Pablo Marçal, “governalismo” e novos radicalismos de direita](https://pp.nexojornal.com.br/opiniao/2024/10/02/sou-a-imagem-e-semelhanca-do-criador-pablo-marcal-governalismo-e-novos-radicalismos-de-direita/)
 - [A expectativa de vida no Brasil em quatro gráficos](https://pp.nexojornal.com.br/dados/2024/10/01/expectativa-de-vida-brasil-2024-grafico/)
 - [Em quem votam os evangélicos? Reflexões a partir da eleição para a Prefeitura de São Paulo](https://pp.nexojornal.com.br/opiniao/2024/10/01/em-quem-votam-os-evangelicos-reflexoes-a-partir-da-eleicao-para-a-prefeitura-de-sao-paulo/)
-- [O Brasil queimando e adoecendo sua população](https://pp.nexojornal.com.br/opiniao/2024/10/01/o-brasil-queimando-e-adoecendo-sua-populacao/)
-- [Os desafios das mudanças climáticas para o Brasil](https://pp.nexojornal.com.br/topico/2024/10/01/os-desafios-das-mudancas-climaticas-para-o-brasil/)
 <!-- PP_LIST:END -->
 
