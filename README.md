@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ataques de Israel mataram mil em duas semanas, diz Líbano](https://www.nexojornal.com.br/extra/2024/10/02/ataques-de-israel-mataram-mil-em-duas-semanas-diz-libano)
 - [Anielle oficializa denúncia de assédio contra Silvio Almeida](https://www.nexojornal.com.br/extra/2024/10/02/anielle-franco-oficializa-denuncia-de-assedio-contra-silvio-almeida)
 - [De Framboesa de Ouro a Arlequina: a carreira de Lady Gaga nas telas](https://www.nexojornal.com.br/expresso/2024/10/02/cinema-carreira-atriz-lady-gaga-coringa-filme)
 - [Algumas razões para não votar em branco nessas eleições](https://www.nexojornal.com.br/colunistas/2024/10/02/algumas-razoes-para-nao-votar-em-branco-nessas-eleicoes)
 - [A apreensão diante da escalada da guerra no Oriente Médio](https://www.nexojornal.com.br/extra/2024/10/02/guerra-oriente-medio)
-- [A saúde mental nas escolas, no Brasil e no mundo](https://www.nexojornal.com.br/grafico/2024/10/02/saude-mental-escola-crianca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
