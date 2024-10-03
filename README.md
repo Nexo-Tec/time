@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Mulheres se inspiram em outras mulheres para descobrir seu valor](https://gamarevista.uol.com.br/formato/reportagem/mulheres-se-inspiram-em-outras-mulheres-para-descobrir-seu-valor/)
 - [@scarparicardo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ricardo-scarpa/)
 - [Dira Paes: “As questões humanitárias estão agora indissociáveis da questão ambiental”](https://gamarevista.uol.com.br/formato/conversas/dira-paes-as-questoes-humanitarias-estao-agora-indissociaveis-da-questao-ambiental/)
 - [Injustiça e veneno](https://gamarevista.uol.com.br/colunistas/fernando-luna/injustica-e-veneno/)
 - [CV: Christiane Jatahy](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-christiane-jatahy/)
-- [Elisama Santos: “A escola e a família precisam andar juntas no apoio às crianças”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/elisama-santos-escola-familia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
