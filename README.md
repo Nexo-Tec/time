@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Economia ficou mais receptiva às outras ciências sociais’](https://www.nexojornal.com.br/entrevista/2024/10/02/economia-desigualdade-de-genero-trabalho-entrevista-marianne-bertrand)
+- [Qual a dimensão e a origem dos arsenais de Israel e Irã](https://www.nexojornal.com.br/expresso/2024/10/02/israel-e-ira-arsenal-tamanho)
+- [Os vetores do debate sobre a saúde mental nas escolas](https://www.nexojornal.com.br/expresso/2024/10/02/saude-mental-escola-infancia-evento-fjles)
 - [Precisamos falar sobre Lula 2026 x Joe Biden 2024](https://www.nexojornal.com.br/colunistas/2024/10/02/precisamos-falar-sobre-lula-2026-x-joe-biden-2024)
 - [Seca e conta de luz: o setor elétrico do Brasil em alerta](https://www.nexojornal.com.br/podcast/2024/10/02/conta-de-luz-aumenta-seca-crise-setor-eletrico)
-- [Ataques de Israel mataram mil em duas semanas, diz Líbano](https://www.nexojornal.com.br/extra/2024/10/02/ataques-de-israel-mataram-mil-em-duas-semanas-diz-libano)
-- [Anielle oficializa denúncia de assédio contra Silvio Almeida](https://www.nexojornal.com.br/extra/2024/10/02/anielle-franco-oficializa-denuncia-de-assedio-contra-silvio-almeida)
-- [De Framboesa de Ouro a Arlequina: a carreira de Lady Gaga nas telas](https://www.nexojornal.com.br/expresso/2024/10/02/cinema-carreira-atriz-lady-gaga-coringa-filme)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
