@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [É Natal na Venezuela: uma data para esquecer as eleições](https://www.nexojornal.com.br/podcast/2024/10/03/venezuela-natal-data-adiantada)
 - [O abismo entre eleitoras e eleitores no apoio a Marçal](https://www.nexojornal.com.br/debate/2024/10/03/o-abismo-entre-eleitoras-e-eleitores-no-apoio-a-marcal)
 - [A desigualdade do espaço fiscal dos estados na pandemia](https://www.nexojornal.com.br/academico/2024/10/03/a-desigualdade-do-espaco-fiscal-dos-estados-na-pandemia)
 - [O que saneamento tem a ver com clima. E como surge na eleição](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-propostas-saneamento-basico)
 - [A trajetória de Cid Moreira, do Jornal Nacional à Bíblia](https://www.nexojornal.com.br/expresso/2024/10/03/cid-moreira-morre-carreira-jornalismo-voz)
-- [‘Economia ficou mais receptiva às outras ciências sociais’](https://www.nexojornal.com.br/entrevista/2024/10/02/economia-desigualdade-de-genero-trabalho-entrevista-marianne-bertrand)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
