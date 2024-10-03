@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O documentário “Will &amp; Harper”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-will-harper-na-netflix/)
+- [“Ter Medo de Quê?: Textos sobre luta e lantejoula”, de Fabiana Moraes](https://gamarevista.uol.com.br/achamos-que-vale/ler/ter-medo-de-que-de-fabiana-moraes/)
+- [Cildo Meireles em duas galerias de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cildo-meireles-em-duas-galerias-de-sp/)
+- [“Coral”, novo álbum de Zé Manoel](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/coral-novo-album-de-ze-manoel/)
 - [Mulheres se inspiram em outras mulheres para descobrir seu valor](https://gamarevista.uol.com.br/formato/reportagem/mulheres-se-inspiram-em-outras-mulheres-para-descobrir-seu-valor/)
-- [@scarparicardo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ricardo-scarpa/)
-- [Dira Paes: “As questões humanitárias estão agora indissociáveis da questão ambiental”](https://gamarevista.uol.com.br/formato/conversas/dira-paes-as-questoes-humanitarias-estao-agora-indissociaveis-da-questao-ambiental/)
-- [Injustiça e veneno](https://gamarevista.uol.com.br/colunistas/fernando-luna/injustica-e-veneno/)
-- [CV: Christiane Jatahy](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-christiane-jatahy/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
