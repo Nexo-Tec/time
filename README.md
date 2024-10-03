@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [True crime na Netflix: “Monsters” e “O Caso Eliza Samúdio”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/true-crime-na-netflix-monsters-e-o-caso-eliza-samudio/)
 - [O documentário “Will &amp; Harper”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-will-harper-na-netflix/)
 - [“Ter Medo de Quê?: Textos sobre luta e lantejoula”, de Fabiana Moraes](https://gamarevista.uol.com.br/achamos-que-vale/ler/ter-medo-de-que-de-fabiana-moraes/)
 - [Cildo Meireles em duas galerias de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cildo-meireles-em-duas-galerias-de-sp/)
 - [“Coral”, novo álbum de Zé Manoel](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/coral-novo-album-de-ze-manoel/)
-- [Mulheres se inspiram em outras mulheres para descobrir seu valor](https://gamarevista.uol.com.br/formato/reportagem/mulheres-se-inspiram-em-outras-mulheres-para-descobrir-seu-valor/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
