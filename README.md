@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O abismo entre eleitoras e eleitores no apoio a Marçal](https://www.nexojornal.com.br/debate/2024/10/03/o-abismo-entre-eleitoras-e-eleitores-no-apoio-a-marcal)
 - [A desigualdade do espaço fiscal dos estados na pandemia](https://www.nexojornal.com.br/academico/2024/10/03/a-desigualdade-do-espaco-fiscal-dos-estados-na-pandemia)
 - [O que saneamento tem a ver com clima. E como surge na eleição](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-propostas-saneamento-basico)
 - [A trajetória de Cid Moreira, do Jornal Nacional à Bíblia](https://www.nexojornal.com.br/expresso/2024/10/03/cid-moreira-morre-carreira-jornalismo-voz)
 - [‘Economia ficou mais receptiva às outras ciências sociais’](https://www.nexojornal.com.br/entrevista/2024/10/02/economia-desigualdade-de-genero-trabalho-entrevista-marianne-bertrand)
-- [Qual a dimensão e a origem dos arsenais de Israel e Irã](https://www.nexojornal.com.br/expresso/2024/10/02/israel-e-ira-arsenal-tamanho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
