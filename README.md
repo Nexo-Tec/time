@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Fillipi Nascimento: métodos para o estudo da discriminação racial](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/04/fillipi-nascimento-metodos-para-o-estudo-da-discriminacao-racial/)
 - [Como a alimentação molda o espaço urbano](https://pp.nexojornal.com.br/academico/2024/10/02/como-a-alimentacao-molda-o-espaco-urbano/)
 - [Emendas parlamentares: o que mudou desde a Constituição de 1988?](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/02/emendas-parlamentares-o-que-mudou-desde-a-constituicao-de-1988/)
 - [Entre a proteção e a liberdade: a regulação do trabalho no século 21](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/02/entre-a-protecao-e-a-liberdade-a-regulacao-do-trabalho-no-seculo-21/)
 - [Chega de minar a Política Nacional de Controle do Tabaco](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/02/chega-de-minar-a-politica-nacional-de-controle-do-tabaco/)
-- [Como o setor ferroviário pode se tornar um pilar da economia brasileira, em 5 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/10/02/como-o-setor-ferroviario-pode-se-tornar-um-pilar-da-economia-brasileira-em-5-pontos/)
 <!-- PP_LIST:END -->
 
