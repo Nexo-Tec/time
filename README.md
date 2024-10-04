@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As cabines telefônicas que podem ajudar a lidar com o luto](https://www.nexojornal.com.br/expresso/2024/10/03/telefone-do-vento-como-falar-ajuda-no-luto)
+- [O aumento da violência política nas eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-episodios-de-violencia-politica)
+- [Como a lei europeia antidesmatamento pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/10/03/meio-ambiente-lei-antidesmatamento-europa-impacto-no-brasil)
+- [Clima e eleições: políticas e propostas contra a crise](https://www.nexojornal.com.br/especial/2024/10/03/eleicoes-2024-as-propostas-para-clima)
 - [Israel bombardeia área próxima a aeroporto de Beirute](https://www.nexojornal.com.br/extra/2024/10/03/israel-libano-bombardeia-area-proxima-a-aeroporto-de-beirute)
-- [É Natal na Venezuela: uma data para esquecer as eleições](https://www.nexojornal.com.br/podcast/2024/10/03/venezuela-natal-data-adiantada)
-- [O abismo entre eleitoras e eleitores no apoio a Marçal](https://www.nexojornal.com.br/debate/2024/10/03/o-abismo-entre-eleitoras-e-eleitores-no-apoio-a-marcal)
-- [A desigualdade do espaço fiscal dos estados na pandemia](https://www.nexojornal.com.br/academico/2024/10/03/a-desigualdade-do-espaco-fiscal-dos-estados-na-pandemia)
-- [O que saneamento tem a ver com clima. E como surge na eleição](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-propostas-saneamento-basico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
