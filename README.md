@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O perfil dos mesários nas eleições municipais de 2024](https://www.nexojornal.com.br/grafico/2024/10/04/eleicoes-2024-perfil-dos-mesarios)
-- [Reitor é acusado de inflar carreira com autocitações](https://www.nexojornal.com.br/extra/2024/10/04/juan-manuel-corchado-reitor-universidade-de-salamanca-fraude)
-- [‘As pessoas não sabiam o que acontecia na Amazônia nos anos 70’](https://www.nexojornal.com.br/entrevista/2024/10/04/amazonia-filme-iracema-entrevista-jorge-bodanzky)
-- [As cabines telefônicas que podem ajudar a lidar com o luto](https://www.nexojornal.com.br/expresso/2024/10/03/telefone-do-vento-como-falar-ajuda-no-luto)
-- [O aumento da violência política nas eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-episodios-de-violencia-politica)
+- [O que você precisa saber diante da urna nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/10/04/eleicoes-2024-como-votar-urna)
+- [Como serviço de acompanhantes entrou no futebol brasileiro](https://www.nexojornal.com.br/expresso/2024/10/04/futebol-brasil-patrocinio-fatal-model-e-servico-de-acompanhantes)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/04/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-9)
+- [‘The Rocky Horror Show’ agora vai virar um game 8-bit](https://www.nexojornal.com.br/expresso/2024/10/04/musical-the-rocky-horror-show-vira-jogo-8-bit)
+- [5 livros que retratam o maior fluxo de imigrantes no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/10/04/imigracao-portugueses-brasil-indicacao-livros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
