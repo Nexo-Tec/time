@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O aumento da violência política nas eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-episodios-de-violencia-politica)
 - [Como a lei europeia antidesmatamento pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/10/03/meio-ambiente-lei-antidesmatamento-europa-impacto-no-brasil)
 - [Clima e eleições: políticas e propostas contra a crise](https://www.nexojornal.com.br/especial/2024/10/03/eleicoes-2024-as-propostas-para-clima)
-- [Israel bombardeia área próxima a aeroporto de Beirute](https://www.nexojornal.com.br/extra/2024/10/03/israel-libano-bombardeia-area-proxima-a-aeroporto-de-beirute)
+- [Brasil adia voo de repatriação por insegurança no Líbano](https://www.nexojornal.com.br/extra/2024/10/03/israel-libano-bombardeia-area-proxima-a-aeroporto-de-beirute)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
