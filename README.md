@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os esforços de Lula e Bolsonaro nas eleições municipais de 2024](https://www.nexojornal.com.br/expresso/2024/10/04/eleicoes-2024-candidatos-apoiados-por-lula-ou-bolsonaro)
+- [A escalada regional da guerra. A reta final da campanha. E mais](https://www.nexojornal.com.br/video/2024/10/04/resumo-da-semana-guerra-oriente-medio-eleicoes-municipais)
+- [Como a nostalgia instrumentaliza  a política autoritária](https://www.nexojornal.com.br/ensaio/2024/10/04/como-a-nostalgia-instrumentaliza-a-politica-autoritaria)
 - [O que você precisa saber diante da urna nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/10/04/eleicoes-2024-como-votar-urna)
 - [Como serviço de acompanhantes entrou no futebol brasileiro](https://www.nexojornal.com.br/expresso/2024/10/04/futebol-brasil-patrocinio-fatal-model-e-servico-de-acompanhantes)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/04/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-9)
-- [‘The Rocky Horror Show’ agora vai virar um game 8-bit](https://www.nexojornal.com.br/expresso/2024/10/04/musical-the-rocky-horror-show-vira-jogo-8-bit)
-- [5 livros que retratam o maior fluxo de imigrantes no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/10/04/imigracao-portugueses-brasil-indicacao-livros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
