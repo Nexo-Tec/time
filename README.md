@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘As pessoas não sabiam o que acontecia na Amazônia nos anos 70’](https://www.nexojornal.com.br/entrevista/2024/10/04/amazonia-filme-iracema-entrevista-jorge-bodanzky)
 - [As cabines telefônicas que podem ajudar a lidar com o luto](https://www.nexojornal.com.br/expresso/2024/10/03/telefone-do-vento-como-falar-ajuda-no-luto)
 - [O aumento da violência política nas eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-episodios-de-violencia-politica)
 - [Como a lei europeia antidesmatamento pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/10/03/meio-ambiente-lei-antidesmatamento-europa-impacto-no-brasil)
 - [Clima e eleições: políticas e propostas contra a crise](https://www.nexojornal.com.br/especial/2024/10/03/eleicoes-2024-as-propostas-para-clima)
-- [Brasil adia voo de repatriação por insegurança no Líbano](https://www.nexojornal.com.br/extra/2024/10/03/israel-libano-bombardeia-area-proxima-a-aeroporto-de-beirute)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
