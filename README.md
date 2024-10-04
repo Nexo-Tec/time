@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O perfil dos mesários nas eleições municipais de 2024](https://www.nexojornal.com.br/grafico/2024/10/04/eleicoes-2024-perfil-dos-mesarios)
 - [Reitor é acusado de inflar carreira com autocitações](https://www.nexojornal.com.br/extra/2024/10/04/juan-manuel-corchado-reitor-universidade-de-salamanca-fraude)
 - [‘As pessoas não sabiam o que acontecia na Amazônia nos anos 70’](https://www.nexojornal.com.br/entrevista/2024/10/04/amazonia-filme-iracema-entrevista-jorge-bodanzky)
 - [As cabines telefônicas que podem ajudar a lidar com o luto](https://www.nexojornal.com.br/expresso/2024/10/03/telefone-do-vento-como-falar-ajuda-no-luto)
 - [O aumento da violência política nas eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/03/eleicoes-2024-episodios-de-violencia-politica)
-- [Como a lei europeia antidesmatamento pode afetar o Brasil](https://www.nexojornal.com.br/expresso/2024/10/03/meio-ambiente-lei-antidesmatamento-europa-impacto-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
