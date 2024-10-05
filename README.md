@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As pesquisas nas capitais do Sudeste antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-sudeste-ultimas-pesquisas-eleicoes-2024)
 - [Polícia investiga Marçal por laudo falso contra Boulos](https://www.nexojornal.com.br/extra/2024/10/05/laudo-falso-marcal-boulos-eleicoes-sp)
 - [Os esforços de Lula e Bolsonaro nas eleições municipais de 2024](https://www.nexojornal.com.br/expresso/2024/10/04/eleicoes-2024-candidatos-apoiados-por-lula-ou-bolsonaro)
 - [A escalada regional da guerra. A reta final da campanha. E mais](https://www.nexojornal.com.br/video/2024/10/04/resumo-da-semana-guerra-oriente-medio-eleicoes-municipais)
 - [Como a nostalgia instrumentaliza  a política autoritária](https://www.nexojornal.com.br/ensaio/2024/10/04/como-a-nostalgia-instrumentaliza-a-politica-autoritaria)
-- [O que você precisa saber diante da urna nas eleições de 2024](https://www.nexojornal.com.br/servico/2024/10/04/eleicoes-2024-como-votar-urna)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
