@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carla Madeira: “A ficção vaza. Imaginar é sempre revelar um pouco de si mesmo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carla-madeira/)
 - [Como tornar uma cadeira &lpar;e um voto&rpar; útil](https://gamarevista.uol.com.br/colunistas/maria-homem/como-tornar-uma-cadeira-e-um-voto-util/)
 - [True crime na Netflix: “Monsters” e “O Caso Eliza Samúdio”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/true-crime-na-netflix-monsters-e-o-caso-eliza-samudio/)
 - [O documentário “Will &amp; Harper”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-will-harper-na-netflix/)
 - [“Ter Medo de Quê?: Textos sobre luta e lantejoula”, de Fabiana Moraes](https://gamarevista.uol.com.br/achamos-que-vale/ler/ter-medo-de-que-de-fabiana-moraes/)
-- [Cildo Meireles em duas galerias de SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/cildo-meireles-em-duas-galerias-de-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
