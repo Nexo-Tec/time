@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As pesquisas nas capitais do Norte antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-norte-ultimas-pesquisas-eleicoes-2024)
-- [As pesquisas nas capitais do Nordeste antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-nordeste-ultimas-pesquisas-eleicoes-2024)
-- [As pesquisas nas capitais do Sul antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-sul-ultimas-pesquisas-eleicoes-2024)
-- [As pesquisas nas capitais do Sudeste antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-sudeste-ultimas-pesquisas-eleicoes-2024)
-- [Polícia investiga Marçal por laudo falso contra Boulos](https://www.nexojornal.com.br/extra/2024/10/05/laudo-falso-marcal-boulos-eleicoes-sp)
+- [As tecnologias da sociedade civil na defesa das eleições](https://www.nexojornal.com.br/ensaio/2024/10/05/as-tecnologias-da-sociedade-civil-na-defesa-das-eleicoes)
+- [As pesquisas nas 26 capitais brasileiras antes do 1º turno](https://www.nexojornal.com.br/especial/2024/10/05/capitais-1o-turno-ultimas-pesquisas)
+- [Que campanha foi esta? 7 chaves das eleições 2024](https://www.nexojornal.com.br/expresso/2024/10/05/eleicoes-2024-campanha-eleitoral-marketing-politico)
+- [Israel expande ataques no Líbano e atinge norte pela 1ª vez](https://www.nexojornal.com.br/extra/2024/10/05/israel-expande-ataques-no-libano-e-atinge-norte-pela-1a-vez)
+- [As pesquisas nas capitais do Centro-Oeste antes do 1º turno](https://www.nexojornal.com.br/expresso/2024/10/05/capitais-centro-oeste-ultimas-pesquisas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
