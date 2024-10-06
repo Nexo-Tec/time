@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [PF prende 56 por crimes eleitorais na manhã da votação](https://www.nexojornal.com.br/extra/2024/10/06/pf-crimes-eleitorais-prisoes-eleicoes-2024)
+- [PF prende 58 por crimes eleitorais na manhã da votação](https://www.nexojornal.com.br/extra/2024/10/06/pf-crimes-eleitorais-prisoes-eleicoes-2024)
 - [Primeira leva de brasileiros é repatriada do Líbano](https://www.nexojornal.com.br/extra/2024/10/06/brasileiros-repatriados-libano-aviao-guerra-israel)
 - [As tecnologias da sociedade civil na defesa das eleições](https://www.nexojornal.com.br/ensaio/2024/10/05/as-tecnologias-da-sociedade-civil-na-defesa-das-eleicoes)
 - [As pesquisas nas 26 capitais brasileiras antes do 1º turno](https://www.nexojornal.com.br/especial/2024/10/05/capitais-1o-turno-ultimas-pesquisas)
