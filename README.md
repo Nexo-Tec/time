@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Extremismo global e extremismo nas cidades](https://www.nexojornal.com.br/ensaio/2024/10/06/extremismo-global-e-extremismo-nas-cidades)
 - [Enfim, o Brasil é hexacampeão. Mas no futsal](https://www.nexojornal.com.br/extra/2024/10/06/brasil-hexa-campeao-futsal)
 - [Polícia prende 108 por crimes eleitorais no dia da votação](https://www.nexojornal.com.br/extra/2024/10/06/pf-crimes-eleitorais-prisoes-eleicoes-2024)
 - [Primeira leva de brasileiros é repatriada do Líbano](https://www.nexojornal.com.br/extra/2024/10/06/brasileiros-repatriados-libano-aviao-guerra-israel)
 - [As tecnologias da sociedade civil na defesa das eleições](https://www.nexojornal.com.br/ensaio/2024/10/05/as-tecnologias-da-sociedade-civil-na-defesa-das-eleicoes)
-- [As pesquisas nas 26 capitais brasileiras antes do 1º turno](https://www.nexojornal.com.br/especial/2024/10/05/capitais-1o-turno-ultimas-pesquisas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
