@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Candidatos apoiados por Bolsonaro predominam no Sul](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sul-regiao)
+- [A guerra no Oriente Médio um ano após o ataque do Hamas](https://www.nexojornal.com.br/expresso/2024/10/06/estado-atual-guerra-oriente-medio-analistas)
+- [Direita e extrema direita lideram nas capitais do Norte](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-norte-regiao)
+- [Surpresas marcaram o 1º turno das eleições no Centro-Oeste](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-centro-oeste-regiao)
 - [Extremismo global e extremismo nas cidades](https://www.nexojornal.com.br/ensaio/2024/10/06/extremismo-global-e-extremismo-nas-cidades)
-- [Enfim, o Brasil é hexacampeão. Mas no futsal](https://www.nexojornal.com.br/extra/2024/10/06/brasil-hexa-campeao-futsal)
-- [Polícia prende 108 por crimes eleitorais no dia da votação](https://www.nexojornal.com.br/extra/2024/10/06/pf-crimes-eleitorais-prisoes-eleicoes-2024)
-- [Primeira leva de brasileiros é repatriada do Líbano](https://www.nexojornal.com.br/extra/2024/10/06/brasileiros-repatriados-libano-aviao-guerra-israel)
-- [As tecnologias da sociedade civil na defesa das eleições](https://www.nexojornal.com.br/ensaio/2024/10/05/as-tecnologias-da-sociedade-civil-na-defesa-das-eleicoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
