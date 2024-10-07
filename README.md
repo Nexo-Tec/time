@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Eduardo Paes é reeleito com folga no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sudeste-regiao)
+- [Nunes e Boulos no 2º turno: um duelo de direita e esquerda em SP](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sao-paulo)
+- [Os partidos que elegeram mais prefeitos nas disputas de 2024](https://www.nexojornal.com.br/grafico/2024/10/06/eleicoes-2024-partido-com-mais-prefeitos-eleitos)
+- [Nordeste tem cinco prefeitos de capitais eleitos em 1º turno](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-nordeste-regiao)
 - [Candidatos apoiados por Bolsonaro predominam no Sul](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sul-regiao)
-- [A guerra no Oriente Médio um ano após o ataque do Hamas](https://www.nexojornal.com.br/expresso/2024/10/06/estado-atual-guerra-oriente-medio-analistas)
-- [Direita e extrema direita lideram nas capitais do Norte](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-norte-regiao)
-- [Surpresas marcaram o 1º turno das eleições no Centro-Oeste](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-centro-oeste-regiao)
-- [Extremismo global e extremismo nas cidades](https://www.nexojornal.com.br/ensaio/2024/10/06/extremismo-global-e-extremismo-nas-cidades)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
