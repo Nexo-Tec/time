@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os partidos que elegeram mais vereadores em 2024](https://www.nexojornal.com.br/grafico/2024/10/07/eleicoes-2024-partido-com-mais-vereadores-eleitos)
+- [Os resultados da eleição para prefeito nas capitais](https://www.nexojornal.com.br/grafico/2024/10/07/eleicoes-2024-prefeitos-eleitos-nas-capitais)
 - [‘Direita está mais articulada para fazer base social’](https://www.nexojornal.com.br/entrevista/2024/10/07/eleicoes-2024-analise-direita)
-- [21,71% dos eleitores deixaram de comparecer às urnas](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-abstencao-e-nao-voto)
+- [21,71% dos eleitores deixaram de comparecer às urnas](https://www.nexojornal.com.br/extra/2024/10/06/eleicoes-2024-abstencao-e-nao-voto)
 - [Eduardo Paes é reeleito com folga no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sudeste-regiao)
-- [Nunes e Boulos no 2º turno em SP: um duelo de direita e esquerda](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sao-paulo)
-- [Os partidos que elegeram mais prefeitos nas disputas de 2024](https://www.nexojornal.com.br/grafico/2024/10/06/eleicoes-2024-partido-com-mais-prefeitos-eleitos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
