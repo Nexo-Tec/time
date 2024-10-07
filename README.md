@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O projeto que revela o arquivo sonoro da Palestina](https://www.nexojornal.com.br/expresso/2024/10/07/musica-palestina-majazz-project-arquivo)
+- [Israel lança ataques contra pelo menos 120 pontos no Líbano](https://www.nexojornal.com.br/extra/2024/10/07/israel-lanca-ataques-contra-pelo-menos-120-pontos-no-libano)
 - [Por que a maioria das pessoas é destra e não canhota?](https://www.nexojornal.com.br/externo/2024/10/07/por-que-a-maioria-das-pessoas-e-destra-e-nao-canhota)
 - [Este é o mapa infravermelho mais detalhado da galáxia](https://www.nexojornal.com.br/expresso/2024/10/07/mapa-infravermelho-mais-detalhado-da-galaxia)
 - [Cantor Leonardo entra para lista suja do trabalho escravo](https://www.nexojornal.com.br/extra/2024/10/07/cantor-leonardo-entra-para-lista-suja-do-trabalho-escravo)
-- [Prefeitos multados por desmate e queimadas são reeleitos](https://www.nexojornal.com.br/externo/2024/10/07/prefeitos-multados-por-desmate-e-queimadas-sao-reeleitos)
-- [Nobel de Medicina vai para dupla que descobriu microRNAs](https://www.nexojornal.com.br/extra/2024/10/07/nobel-de-medicina-vai-para-dupla-que-descobriu-micrornas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
