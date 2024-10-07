@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [21,71% dos eleitores deixaram de comparecer às urnas](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-abstencao-e-nao-voto)
 - [Eduardo Paes é reeleito com folga no Rio de Janeiro](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sudeste-regiao)
 - [Nunes e Boulos no 2º turno: um duelo de direita e esquerda em SP](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sao-paulo)
 - [Os partidos que elegeram mais prefeitos nas disputas de 2024](https://www.nexojornal.com.br/grafico/2024/10/06/eleicoes-2024-partido-com-mais-prefeitos-eleitos)
 - [Nordeste tem cinco prefeitos de capitais eleitos em 1º turno](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-nordeste-regiao)
-- [Candidatos apoiados por Bolsonaro predominam no Sul](https://www.nexojornal.com.br/expresso/2024/10/06/eleicoes-2024-resultado-sul-regiao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
