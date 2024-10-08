@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [E se a ONU tivesse uma Força de Paz para Líbano-Israel?](https://www.nexojornal.com.br/colunistas/2024/10/08/e-se-a-onu-tivesse-uma-forca-de-paz-para-libano-israel)
 - [Alexandre de Moraes autoriza retorno do X no Brasil](https://www.nexojornal.com.br/extra/2024/10/08/desbloqueio-do-x-alexandre-de-moraes)
 - [Senado aprova Galípolo para presidência do BC](https://www.nexojornal.com.br/extra/2024/10/08/sabatina-gabriel-galipolo-banco-central-senado)
 - [Dom Odilo Scherer, arcebispo de São Paulo, renuncia](https://www.nexojornal.com.br/extra/2024/10/08/dom-odilo-scherer-renuncia)
 - [Nobel da Física vai para pioneiros da inteligência artificial](https://www.nexojornal.com.br/extra/2024/10/08/nobel-da-fisica-inteligencia-artificial-aprendizado-de-maquina)
-- [O gato que calculava](https://www.nexojornal.com.br/externo/2024/10/08/o-gato-que-calculava)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
