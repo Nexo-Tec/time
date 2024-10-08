@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O gato que calculava](https://www.nexojornal.com.br/externo/2024/10/08/o-gato-que-calculava)
 - [Qual o perfil dos vereadores mais votados em 2024](https://www.nexojornal.com.br/expresso/2024/10/07/eleicoes-2024-os-vereadores-mais-votados)
 - [O PSD virou o novo MDB? A força do partido de Kassab](https://www.nexojornal.com.br/expresso/2024/10/07/psd-partido-desempenho-nas-eleicoes-2024)
 - [Os investimentos da Arábia Saudita na indústria de games](https://www.nexojornal.com.br/expresso/2024/10/07/games-os-investimentos-da-arabia-saudita-na-industria)
 - [Os tucanos estão em extinção? Entenda a derrocada do PSDB](https://www.nexojornal.com.br/podcast/2024/10/07/eleicoes-2024-partido-psdb-perde-forca)
-- [O projeto que revela o arquivo sonoro da Palestina](https://www.nexojornal.com.br/expresso/2024/10/07/musica-palestina-majazz-project-arquivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
