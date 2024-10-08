@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O cuidado integral da criança](https://pp.nexojornal.com.br/glossario/2024/10/08/o-cuidado-integral-da-crianca/)
+- [Desigualdade de gênero e as camadas da discriminação](https://pp.nexojornal.com.br/opiniao/2024/10/08/desigualdade-de-genero-e-as-camadas-da-discriminacao/)
 - [Hora de reformar](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/08/hora-de-reformar/)
 - [Nomes da transformação: os Nadëb e os outros no Alto Uneiuxi](https://pp.nexojornal.com.br/academico/2024/10/08/nomes-da-transformacao-os-nadeb-e-os-outros-no-alto-uneiuxi/)
 - [Como a gestão e a liderança podem melhorar a educação brasileira, segundo este estudo](https://pp.nexojornal.com.br/topico/2024/10/07/como-a-gestao-e-a-lideranca-podem-melhorar-a-educacao-brasileira-segundo-este-estudo/)
-- [Fillipi Nascimento: métodos para o estudo da discriminação racial](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/04/fillipi-nascimento-metodos-para-o-estudo-da-discriminacao-racial/)
-- [Como a alimentação molda o espaço urbano](https://pp.nexojornal.com.br/academico/2024/10/02/como-a-alimentacao-molda-o-espaco-urbano/)
 <!-- PP_LIST:END -->
 
