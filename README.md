@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Juliana Souza](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-juliana-souza/)
 - [Ciclo Gama de Debates: confira a programação das mesas na 22ª Flip](https://gamarevista.uol.com.br/cultura/ciclo-gama-de-debates-programacao-gama-22a-flip/)
 - [Carla Madeira: “A ficção vaza. Imaginar é sempre revelar um pouco de si mesmo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carla-madeira/)
 - [Como tornar uma cadeira &lpar;e um voto&rpar; útil](https://gamarevista.uol.com.br/colunistas/maria-homem/como-tornar-uma-cadeira-e-um-voto-util/)
 - [True crime na Netflix: “Monsters” e “O Caso Eliza Samúdio”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/true-crime-na-netflix-monsters-e-o-caso-eliza-samudio/)
-- [O documentário “Will &amp; Harper”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-will-harper-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
