@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Comissão do Senado aprova Galípolo para presidência do BC](https://www.nexojornal.com.br/extra/2024/10/08/sabatina-gabriel-galipolo-banco-central-senado)
+- [Alexandre de Moraes autoriza retorno do X no Brasil](https://www.nexojornal.com.br/extra/2024/10/08/desbloqueio-do-x-alexandre-de-moraes)
+- [Senado aprova Galípolo para presidência do BC](https://www.nexojornal.com.br/extra/2024/10/08/sabatina-gabriel-galipolo-banco-central-senado)
 - [Dom Odilo Scherer, arcebispo de São Paulo, renuncia](https://www.nexojornal.com.br/extra/2024/10/08/dom-odilo-scherer-renuncia)
 - [Nobel da Física vai para pioneiros da inteligência artificial](https://www.nexojornal.com.br/extra/2024/10/08/nobel-da-fisica-inteligencia-artificial-aprendizado-de-maquina)
 - [O gato que calculava](https://www.nexojornal.com.br/externo/2024/10/08/o-gato-que-calculava)
-- [Qual o perfil dos vereadores mais votados em 2024](https://www.nexojornal.com.br/expresso/2024/10/07/eleicoes-2024-os-vereadores-mais-votados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
