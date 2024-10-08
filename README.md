@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Nomes da transformação: os Nadëb e os outros no Alto Uneiuxi](https://pp.nexojornal.com.br/academico/2024/10/08/nomes-da-transformacao-os-nadeb-e-os-outros-no-alto-uneiuxi/)
 - [Como a gestão e a liderança podem melhorar a educação brasileira, segundo este estudo](https://pp.nexojornal.com.br/topico/2024/10/07/como-a-gestao-e-a-lideranca-podem-melhorar-a-educacao-brasileira-segundo-este-estudo/)
 - [Fillipi Nascimento: métodos para o estudo da discriminação racial](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/04/fillipi-nascimento-metodos-para-o-estudo-da-discriminacao-racial/)
 - [Como a alimentação molda o espaço urbano](https://pp.nexojornal.com.br/academico/2024/10/02/como-a-alimentacao-molda-o-espaco-urbano/)
 - [Emendas parlamentares: o que mudou desde a Constituição de 1988?](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/02/emendas-parlamentares-o-que-mudou-desde-a-constituicao-de-1988/)
-- [Entre a proteção e a liberdade: a regulação do trabalho no século 21](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/02/entre-a-protecao-e-a-liberdade-a-regulacao-do-trabalho-no-seculo-21/)
 <!-- PP_LIST:END -->
 
