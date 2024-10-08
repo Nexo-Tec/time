@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O PSD virou o novo MDB? A força do partido de Kassab](https://www.nexojornal.com.br/expresso/2024/10/07/psd-partido-desempenho-nas-eleicoes-2024)
+- [Os investimentos da Arábia Saudita na indústria de games](https://www.nexojornal.com.br/expresso/2024/10/07/games-os-investimentos-da-arabia-saudita-na-industria)
+- [Os tucanos estão em extinção? Entenda a derrocada do PSDB](https://www.nexojornal.com.br/podcast/2024/10/07/eleicoes-2024-partido-psdb-perde-forca)
 - [O projeto que revela o arquivo sonoro da Palestina](https://www.nexojornal.com.br/expresso/2024/10/07/musica-palestina-majazz-project-arquivo)
 - [Israel lança ataques contra pelo menos 120 pontos no Líbano](https://www.nexojornal.com.br/extra/2024/10/07/israel-lanca-ataques-contra-pelo-menos-120-pontos-no-libano)
-- [Por que a maioria das pessoas é destra e não canhota?](https://www.nexojornal.com.br/externo/2024/10/07/por-que-a-maioria-das-pessoas-e-destra-e-nao-canhota)
-- [Este é o mapa infravermelho mais detalhado da galáxia](https://www.nexojornal.com.br/expresso/2024/10/07/mapa-infravermelho-mais-detalhado-da-galaxia)
-- [Cantor Leonardo entra para lista suja do trabalho escravo](https://www.nexojornal.com.br/extra/2024/10/07/cantor-leonardo-entra-para-lista-suja-do-trabalho-escravo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
