@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o furacão Milton causa uma fuga em massa na Flórida](https://www.nexojornal.com.br/expresso/2024/10/09/milton-furacao-florida-eua)
 - [Nobel de Química também premia pesquisa ligada à IA](https://www.nexojornal.com.br/extra/2024/10/09/nobel-quimica-quem-ganhou-ia-proteinas-google-deepmind)
 - [Como Mark Zuckerberg entrou no mundo da moda](https://www.nexojornal.com.br/expresso/2024/10/09/mark-zuckerberg-moda-parceria-mike-amiri)
 - [Seca no Rio Negro: o que foi feito e o que não foi desde 2023](https://www.nexojornal.com.br/expresso/2024/10/09/seca-rio-negro-amazonia)
 - [A invasão biológica que ameaça as áreas protegidas brasileiras](https://www.nexojornal.com.br/externo/2024/10/09/a-invasao-biologica-que-ameaca-as-areas-protegidas-brasileiras)
-- [Wesley Barbosa: ‘A literatura periférica é um ato de resistência’](https://www.nexojornal.com.br/expresso/2024/10/09/flip-literatura-periferica-entrevista-wesley-barbosa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
