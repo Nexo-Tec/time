@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Lázaro Ramos](https://gamarevista.uol.com.br/pessoas/questionario-proust/lazaro-ramos/)
 - [@demimoore](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/demimoore/)
 - [CV: Juliana Souza](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-juliana-souza/)
 - [Ciclo Gama de Debates: confira a programação das mesas na 22ª Flip](https://gamarevista.uol.com.br/cultura/ciclo-gama-de-debates-programacao-gama-22a-flip/)
 - [Carla Madeira: “A ficção vaza. Imaginar é sempre revelar um pouco de si mesmo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carla-madeira/)
-- [Como tornar uma cadeira &lpar;e um voto&rpar; útil](https://gamarevista.uol.com.br/colunistas/maria-homem/como-tornar-uma-cadeira-e-um-voto-util/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
