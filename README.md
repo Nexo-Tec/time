@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [CCJ da Câmara aprova pacote que mina poder de ministros do STF](https://www.nexojornal.com.br/extra/2024/10/09/ccj-da-camara-aprova-pacote-que-mina-poder-de-ministros-do-stf)
+- [As descobertas científicas premiadas pelo Nobel](https://www.nexojornal.com.br/podcast/2024/10/09/nobel-2024-descobertas-cientificas-premiadas)
 - [Por que o furacão Milton causa uma fuga em massa na Flórida](https://www.nexojornal.com.br/expresso/2024/10/09/milton-furacao-florida-eua)
 - [Nobel de Química também premia pesquisa ligada à IA](https://www.nexojornal.com.br/extra/2024/10/09/nobel-quimica-quem-ganhou-ia-proteinas-google-deepmind)
 - [Como Mark Zuckerberg entrou no mundo da moda](https://www.nexojornal.com.br/expresso/2024/10/09/mark-zuckerberg-moda-parceria-mike-amiri)
-- [Seca no Rio Negro: o que foi feito e o que não foi desde 2023](https://www.nexojornal.com.br/expresso/2024/10/09/seca-rio-negro-amazonia)
-- [A invasão biológica que ameaça as áreas protegidas brasileiras](https://www.nexojornal.com.br/externo/2024/10/09/a-invasao-biologica-que-ameaca-as-areas-protegidas-brasileiras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
