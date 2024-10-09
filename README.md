@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A reprodução das desigualdades no acesso às estatísticas educacionais](https://pp.nexojornal.com.br/academico/2024/10/09/a-reproducao-das-desigualdades-no-acesso-as-estatisticas-educacionais/)
 - [A crise democrática e a democracia militante](https://pp.nexojornal.com.br/glossario/2024/10/08/a-crise-democratica-e-a-democracia-militante/)
 - [Educação escolar quilombola](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/08/educacao-escolar-quilombola/)
 - [O cuidado integral da criança](https://pp.nexojornal.com.br/glossario/2024/10/08/o-cuidado-integral-da-crianca/)
 - [Desigualdade de gênero e as camadas da discriminação](https://pp.nexojornal.com.br/opiniao/2024/10/08/desigualdade-de-genero-e-as-camadas-da-discriminacao/)
-- [Hora de reformar](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/08/hora-de-reformar/)
 <!-- PP_LIST:END -->
 
