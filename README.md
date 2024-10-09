@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Mark Zuckerberg entrou no mundo da moda](https://www.nexojornal.com.br/expresso/2024/10/09/mark-zuckerberg-moda-parceria-mike-amiri)
+- [Seca no Rio Negro: o que foi feito e o que não foi desde 2023](https://www.nexojornal.com.br/expresso/2024/10/09/seca-rio-negro-amazonia)
+- [A invasão biológica que ameaça as áreas protegidas brasileiras](https://www.nexojornal.com.br/externo/2024/10/09/a-invasao-biologica-que-ameaca-as-areas-protegidas-brasileiras)
 - [Wesley Barbosa: ‘A literatura periférica é um ato de resistência’](https://www.nexojornal.com.br/expresso/2024/10/09/flip-literatura-periferica-entrevista-wesley-barbosa)
 - [O que Gabriel Galípolo projeta para o Banco Central](https://www.nexojornal.com.br/expresso/2024/10/09/banco-central-gestao-gabriel-galipolo)
-- [Por que o PT de Lula vai tão mal em eleições municipais](https://www.nexojornal.com.br/expresso/2024/10/08/eleicoes-2024-pt-elege-menos-prefeitos-e-vereadores)
-- [A ambiguidade de Bolsonaro nas eleições de São Paulo e Curitiba](https://www.nexojornal.com.br/podcast/2024/10/08/bolsonarismo-nas-eleicoes-2024-primeiro-turno-sao-paulo-curitiba)
-- [E se a ONU tivesse uma Força de Paz para Líbano-Israel?](https://www.nexojornal.com.br/colunistas/2024/10/08/e-se-a-onu-tivesse-uma-forca-de-paz-para-libano-israel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
