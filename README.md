@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Wesley Barbosa: ‘A literatura periférica é um ato de resistência’](https://www.nexojornal.com.br/expresso/2024/10/09/flip-literatura-periferica-entrevista-wesley-barbosa)
+- [O que Gabriel Galípolo projeta para o Banco Central](https://www.nexojornal.com.br/expresso/2024/10/09/banco-central-gestao-gabriel-galipolo)
+- [Por que o PT de Lula vai tão mal em eleições municipais](https://www.nexojornal.com.br/expresso/2024/10/08/eleicoes-2024-pt-elege-menos-prefeitos-e-vereadores)
 - [A ambiguidade de Bolsonaro nas eleições de São Paulo e Curitiba](https://www.nexojornal.com.br/podcast/2024/10/08/bolsonarismo-nas-eleicoes-2024-primeiro-turno-sao-paulo-curitiba)
 - [E se a ONU tivesse uma Força de Paz para Líbano-Israel?](https://www.nexojornal.com.br/colunistas/2024/10/08/e-se-a-onu-tivesse-uma-forca-de-paz-para-libano-israel)
-- [Alexandre de Moraes autoriza retorno do X no Brasil](https://www.nexojornal.com.br/extra/2024/10/08/desbloqueio-do-x-alexandre-de-moraes)
-- [Senado aprova Galípolo para presidência do BC](https://www.nexojornal.com.br/extra/2024/10/08/sabatina-gabriel-galipolo-banco-central-senado)
-- [Dom Odilo Scherer, arcebispo de São Paulo, renuncia](https://www.nexojornal.com.br/extra/2024/10/08/dom-odilo-scherer-renuncia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
