@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A recorrência de furacões diante da emergência climática](https://www.nexojornal.com.br/podcast/2024/10/10/mudancas-climaticas-furacao-maior-frequencia)
 - [Um último ‘Vamos!’: o legado de Rafael Nadal no tênis](https://www.nexojornal.com.br/expresso/2024/10/10/rafael-nadal-aposentadoria-carreira-no-tenis)
 - [Nunes falta a 1º debate com Boulos. SP tem mais 5 eventos do tipo](https://www.nexojornal.com.br/extra/2024/10/10/nunes-falta-a-1o-debate-com-boulos-sp-tem-mais-5-eventos-do-tipo)
 - [As ilusões sobre a reversibilidade do aquecimento global](https://www.nexojornal.com.br/externo/2024/10/10/aquecimento-global-acordo-de-paris-overshooting-nature-ciencia-climatica)
 - [Quem foi o pioneiro da física experimental brasileira](https://www.nexojornal.com.br/expresso/2024/10/10/documentario-termodieletrico-historia-do-brasileiro-pioneiro-da-fisica-experimental)
-- [Escritora sul-coreana é premiada com Nobel de Literatura](https://www.nexojornal.com.br/extra/2024/10/10/nobel-literatura-2024-han-kang)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
