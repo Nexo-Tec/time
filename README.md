@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As ilusões sobre a reversibilidade do aquecimento global](https://www.nexojornal.com.br/externo/2024/10/10/aquecimento-global-acordo-de-paris-overshooting-nature-ciencia-climatica)
 - [Quem foi o pioneiro da física experimental brasileira](https://www.nexojornal.com.br/expresso/2024/10/10/documentario-termodieletrico-historia-do-brasileiro-pioneiro-da-fisica-experimental)
 - [Escritora sul-coreana é premiada com Nobel de Literatura](https://www.nexojornal.com.br/extra/2024/10/10/nobel-literatura-2024-han-kang)
 - [Os políticos armados e a violência na Baixada Fluminense](https://www.nexojornal.com.br/externo/2024/10/09/os-politicos-armados-e-a-violencia-na-baixada-fluminense)
 - [O que é ‘nuvem soberana’. E por que o Brasil quer ter uma](https://www.nexojornal.com.br/expresso/2024/10/09/o-que-e-nuvem-soberana-e-por-que-o-brasil-quer-ter-uma)
-- [O que são sinais vitais da Terra. E quais recordes eles bateram](https://www.nexojornal.com.br/expresso/2024/10/09/mudancas-climaticas-sinais-vitais-planeta-terra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
