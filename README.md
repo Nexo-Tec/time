@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Lázaro Ramos](https://gamarevista.uol.com.br/pessoas/questionario-proust/lazaro-ramos/)
-- [@demimoore](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/demimoore/)
-- [CV: Juliana Souza](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-juliana-souza/)
-- [Ciclo Gama de Debates: confira a programação das mesas na 22ª Flip](https://gamarevista.uol.com.br/cultura/ciclo-gama-de-debates-programacao-gama-22a-flip/)
-- [Carla Madeira: “A ficção vaza. Imaginar é sempre revelar um pouco de si mesmo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carla-madeira/)
+- [“Para Todas as Mulheres que Não Têm Coragem”, de Daniela Arrais](https://gamarevista.uol.com.br/achamos-que-vale/ler/para-todas-as-mulheres-que-nao-tem-coragem-de-daniela-arrais/)
+- [A comédia romântica “Ninguém Quer”, da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-comedia-romantica-ninguem-quer-da-netflix/)
+- [“Quem Eu Quero Ser”, o álbum infantil da banda Tuyo](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/quem-eu-quero-ser-o-album-infantil-da-banda-tuyo/)
+- [“A Morte É Assim?”, um livro infantil para todas as idades](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-morte-e-assim-um-livro-infantil-para-todas-as-idades/)
+- [8º “Experimenta! Comida, saúde e cultura”, no Sesc-SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/8o-experimenta-comida-saude-e-cultura-no-sesc-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
