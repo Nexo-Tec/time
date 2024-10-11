@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Estrada para lugar nenhum’: o futuro dos transportes em xeque](https://www.nexojornal.com.br/estante-trechos/2024/10/11/carros-eletricos-problemas-paris-marx-indicacao-livro)
+- [Supremo do Chile destitui uma de suas ministras](https://www.nexojornal.com.br/extra/2024/10/11/ministra-do-supremo-demitida-no-chile)
 - [‘Han Kang é Nobel por suas obras, não por ser mulher asiática’](https://www.nexojornal.com.br/entrevista/2024/10/11/nobel-2024-literatura-han-kang-entrevista-ji-yun-kim)
 - [Ministério Público investiga infecção por HIV de transplantados](https://www.nexojornal.com.br/extra/2024/10/11/transplante-hiv-rio-de-janeiro)
 - [Movimento pelo fim das armas nucleares leva Nobel da Paz](https://www.nexojornal.com.br/extra/2024/10/11/nobel-da-paz-2024-organizacao-japonesa-armas-nucleares-nihon-hidankyo)
-- [As questões em torno das políticas externas feministas](https://www.nexojornal.com.br/academico/2024/10/10/relacoes-internacionais-politica-externa-feminista-criticas-contradicoes)
-- [Para além da proibição: sobre o celular na escola](https://www.nexojornal.com.br/colunistas/2024/10/10/para-alem-da-proibicao-sobre-o-celular-na-escola)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
