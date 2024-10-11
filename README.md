@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Os resultados do 1º turno das eleições. O Nobel de 2024. E mais](https://www.nexojornal.com.br/video/2024/10/11/os-resultados-do-1o-turno-das-eleicoes-o-nobel-de-2024-e-mais)
-- [‘Estrada para lugar nenhum’: o futuro dos transportes em xeque](https://www.nexojornal.com.br/estante-trechos/2024/10/11/carros-eletricos-problemas-paris-marx-indicacao-livro)
-- [Supremo do Chile destitui uma de suas ministras](https://www.nexojornal.com.br/extra/2024/10/11/ministra-do-supremo-demitida-no-chile)
-- [‘Han Kang é Nobel por suas obras, não por ser mulher asiática’](https://www.nexojornal.com.br/entrevista/2024/10/11/nobel-2024-literatura-han-kang-entrevista-ji-yun-kim)
-- [Ministério Público investiga infecção por HIV de transplantados](https://www.nexojornal.com.br/extra/2024/10/11/transplante-hiv-rio-de-janeiro)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/11/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-10)
+- [Agora vai? O que falta para carros autônomos virarem realidade](https://www.nexojornal.com.br/expresso/2024/10/11/carro-autonomo-sem-motorista-cybercap-tesla)
+- [Lula defende imposto mínimo para milionários](https://www.nexojornal.com.br/extra/2024/10/11/imposto-minimo-para-milionarios-no-brasil)
+- [5 livros que levam o leitor para mares distantes](https://www.nexojornal.com.br/estante-favoritos/2024/10/11/5-livros-que-levam-o-leitor-para-mares-distantes)
+- [Como esta exposição mostra os primórdios da mudança climática](https://www.nexojornal.com.br/expresso/2024/10/11/mudancas-climaticas-exposicao-arte-storm-cloud-california)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
