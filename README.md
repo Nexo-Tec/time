@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ministério Público investiga infecção por HIV de transplantados](https://www.nexojornal.com.br/extra/2024/10/11/transplante-hiv-rio-de-janeiro)
 - [Movimento pelo fim das armas nucleares leva Nobel da Paz](https://www.nexojornal.com.br/extra/2024/10/11/nobel-da-paz-2024-organizacao-japonesa-armas-nucleares-nihon-hidankyo)
 - [As questões em torno das políticas externas feministas](https://www.nexojornal.com.br/academico/2024/10/10/relacoes-internacionais-politica-externa-feminista-criticas-contradicoes)
 - [Para além da proibição: sobre o celular na escola](https://www.nexojornal.com.br/colunistas/2024/10/10/para-alem-da-proibicao-sobre-o-celular-na-escola)
 - [O que é o voto ‘empreendedor’ disputado em São Paulo](https://www.nexojornal.com.br/expresso/2024/10/10/eleicoes-2024-sao-paulo-segundo-turno-voto-eleitores-pablo-marcal)
-- [A recorrência de furacões diante da emergência climática](https://www.nexojornal.com.br/podcast/2024/10/10/mudancas-climaticas-furacao-maior-frequencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
