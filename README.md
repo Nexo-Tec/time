@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desastres: ‘é preciso ter memória viva e alertas permanentes’](https://www.nexojornal.com.br/entrevista/2024/10/11/desastre-natural-prevencao-entrevista-ana-karin-nunes)
+- [Aldear a política: os efeitos da mobilização indígena nas urnas](https://www.nexojornal.com.br/debate/2024/10/11/efeitos-da-mobilizacao-indigena-nas-urnas)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/11/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-10)
 - [Agora vai? O que falta para carros autônomos virarem realidade](https://www.nexojornal.com.br/expresso/2024/10/11/carro-autonomo-sem-motorista-cybercap-tesla)
 - [Lula defende imposto mínimo para milionários](https://www.nexojornal.com.br/extra/2024/10/11/imposto-minimo-para-milionarios-no-brasil)
-- [5 livros que levam o leitor para mares distantes](https://www.nexojornal.com.br/estante-favoritos/2024/10/11/5-livros-que-levam-o-leitor-para-mares-distantes)
-- [Como esta exposição mostra os primórdios da mudança climática](https://www.nexojornal.com.br/expresso/2024/10/11/mudancas-climaticas-exposicao-arte-storm-cloud-california)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
