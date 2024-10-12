@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morre aos 87 anos Ary Toledo, humorista da TV brasileira](https://www.nexojornal.com.br/extra/2024/10/12/morre-aos-87-anos-ary-toledo-humorista-da-tv-brasileira)
 - [Como o Nexo faz gráficos interativos](https://www.nexojornal.com.br/grafico/2024/10/11/nexo-como-produzir-graficos-interativos)
 - [Por que reassistir às nossas séries favoritas faz bem à saúde](https://www.nexojornal.com.br/externo/2024/10/11/por-que-reassistir-as-nossas-series-favoritas-faz-bem-a-saude)
 - [Desastres: ‘é preciso ter memória viva e alertas permanentes’](https://www.nexojornal.com.br/entrevista/2024/10/11/desastre-natural-prevencao-entrevista-ana-karin-nunes)
 - [Aldear a política: os efeitos da mobilização indígena nas urnas](https://www.nexojornal.com.br/debate/2024/10/11/efeitos-da-mobilizacao-indigena-nas-urnas)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/11/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-10)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
