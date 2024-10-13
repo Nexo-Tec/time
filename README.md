@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘As corporações têm como alimento o dinheiro’](https://www.nexojornal.com.br/externo/2024/10/13/chris-van-tulleken-livro-gente-ultraprocessada-entrevista)
+- [O que aprendemos com uma escola que busca ser antirracista](https://www.nexojornal.com.br/ensaio/2024/10/13/o-que-aprendemos-com-uma-escola-que-busca-ser-antirracista)
+- [A volta dos investimentos da Petrobras fora do Brasil](https://www.nexojornal.com.br/expresso/2024/10/13/petrobras-explora-petroleo-fora-do-brasil-africa-do-sul-investimento)
+- [Morre aos 73 anos Washington Olivetto, célebre publicitário](https://www.nexojornal.com.br/extra/2024/10/13/morre-aos-73-anos-washington-olivetto-celebre-publicitario)
 - [‘Reduzir poder individual fortalece o STF, e não o contrário’](https://www.nexojornal.com.br/entrevista/2024/10/12/pacote-camara-contra-poderes-stf-entrevista-diego-werneck)
-- [O sistema federal que monitora alvos sem autorização judicial](https://www.nexojornal.com.br/externo/2024/10/12/sem-autorizacao-judicial-sistema-federal-monitora-alvos)
-- [A reabertura da investigação sobre o massacre de Tulsa](https://www.nexojornal.com.br/expresso/2024/10/12/a-reabertura-da-investigacao-sobre-o-massacre-de-tulsa)
-- [O que você sabe sobre a história da vida na Terra?](https://www.nexojornal.com.br/interativo/2024/10/12/historia-e-origem-vida-no-planeta-terra-quiz)
-- [Municípios gaúchos: prioridade deve ser rever Plano Diretor](https://www.nexojornal.com.br/ensaio/2024/10/12/municipios-gauchos-prioridade-deve-ser-rever-plano-diretor)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
