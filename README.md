@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Acemoglu, Johnson e Robinson levam Nobel de Economia](https://www.nexojornal.com.br/extra/2024/10/14/nobel-economia-2024-acemoglu-johnson-robinson-instituicoes)
 - [EUA dizem que enviarão sistema antimísseis para Israel](https://www.nexojornal.com.br/extra/2024/10/13/eua-dizem-que-enviarao-sistema-antimisseis-para-israel)
 - [‘As corporações têm como alimento o dinheiro’](https://www.nexojornal.com.br/externo/2024/10/13/chris-van-tulleken-livro-gente-ultraprocessada-entrevista)
 - [O que aprendemos com uma escola que busca ser antirracista](https://www.nexojornal.com.br/ensaio/2024/10/13/o-que-aprendemos-com-uma-escola-que-busca-ser-antirracista)
 - [A volta dos investimentos da Petrobras fora do Brasil](https://www.nexojornal.com.br/expresso/2024/10/13/petrobras-explora-petroleo-fora-do-brasil-africa-do-sul-investimento)
-- [Morre aos 73 anos Washington Olivetto, célebre publicitário](https://www.nexojornal.com.br/extra/2024/10/13/morre-aos-73-anos-washington-olivetto-celebre-publicitario)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
