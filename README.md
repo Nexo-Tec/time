@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Filmes de montar: as apostas da Lego no cinema](https://www.nexojornal.com.br/expresso/2024/10/14/filme-cinema-lego-pharrell-williams-documentario-piece-by-piece)
+- [Como os moradores da Maré atuam para proteger as crianças](https://www.nexojornal.com.br/externo/2024/10/14/favelas-da-mare-no-rj-criancas-e-operacao-policial)
 - [As responsabilidades sobre o novo apagão em São Paulo](https://www.nexojornal.com.br/expresso/2024/10/14/sao-paulo-sem-luz-responsabilidade-governo-e-enel-energia)
 - [Polícia prende suspeitos no caso de órgãos com HIV](https://www.nexojornal.com.br/extra/2024/10/14/hiv-transplante-suspeitos-presos)
 - [Acemoglu, Johnson e Robinson levam Nobel de Economia](https://www.nexojornal.com.br/extra/2024/10/14/nobel-economia-2024-acemoglu-johnson-robinson-instituicoes)
-- [EUA dizem que enviarão sistema antimísseis para Israel](https://www.nexojornal.com.br/extra/2024/10/13/eua-dizem-que-enviarao-sistema-antimisseis-para-israel)
-- [‘As corporações têm como alimento o dinheiro’](https://www.nexojornal.com.br/externo/2024/10/13/chris-van-tulleken-livro-gente-ultraprocessada-entrevista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
