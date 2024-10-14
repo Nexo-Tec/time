@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quantos prefeitos se elegeram com menos de 50%](https://www.nexojornal.com.br/grafico/2024/10/14/eleicoes-2024-prefeitos-eleitos-com-menos-de-50-dos-votos)
+- [É problema nenhuma cientista ter recebido o Nobel em 2024?](https://www.nexojornal.com.br/colunistas/2024/10/14/mulheres-cientistas-premio-nobel-2024)
+- [Favoráveis e contrários ao horário de verão se equiparam](https://www.nexojornal.com.br/extra/2024/10/14/pesquisa-contra-favor-horario-de-verao)
+- [Os aspectos que caracterizam um sono saudável](https://www.nexojornal.com.br/externo/2024/10/14/os-aspectos-que-caracterizam-um-sono-saudavel)
 - [Podcast ‘Durma com Essa’ agora tem novo formato](https://www.nexojornal.com.br/podcast/2024/10/14/durma-com-essa-semanal)
-- [Filmes de montar: as apostas da Lego no cinema](https://www.nexojornal.com.br/expresso/2024/10/14/filme-cinema-lego-pharrell-williams-documentario-piece-by-piece)
-- [Como os moradores da Maré atuam para proteger as crianças](https://www.nexojornal.com.br/externo/2024/10/14/favelas-da-mare-no-rj-criancas-e-operacao-policial)
-- [As responsabilidades sobre o novo apagão em São Paulo](https://www.nexojornal.com.br/expresso/2024/10/14/sao-paulo-sem-luz-responsabilidade-governo-e-enel-energia)
-- [Polícia prende suspeitos no caso de órgãos com HIV](https://www.nexojornal.com.br/extra/2024/10/14/hiv-transplante-suspeitos-presos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
