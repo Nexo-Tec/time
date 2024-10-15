@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os fatores além das calorias que podem influenciar o seu peso](https://www.nexojornal.com.br/externo/2024/10/15/os-fatores-alem-das-calorias-que-podem-influenciar-o-seu-peso)
+- [Os entraves para a Fifa emplacar seu Super Mundial de Clubes](https://www.nexojornal.com.br/expresso/2024/10/15/futebol-fifa-novo-mundial-de-clubes)
+- [Nova linhagem de covid-19 é detectada em três estados](https://www.nexojornal.com.br/extra/2024/10/15/xec-variante-da-covid-19-no-brasil)
 - [Oito pacientes perdem o olho após infecção em mutirão no RN](https://www.nexojornal.com.br/extra/2024/10/15/pessoas-perdem-o-olho-apos-mutirao-de-cirurgia-de-catarata-no-rn)
 - [O que levou Porto Alegre a ser a capital da abstenção](https://www.nexojornal.com.br/expresso/2024/10/15/eleicoes-2024-porto-alegre-votos-abstencao-primeiro-turno)
-- [A tradição das mergulhadoras da Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/10/15/coreia-do-sul-mergulho-sem-equipamento-mergulhadoras-haenyeo)
-- [Quais as regras para transplante de órgãos no Brasil](https://www.nexojornal.com.br/expresso/2024/10/14/transplante-hiv-regras-no-brasil)
-- [Quantos prefeitos se elegeram com menos de 50%](https://www.nexojornal.com.br/grafico/2024/10/14/eleicoes-2024-prefeitos-eleitos-com-menos-de-50-dos-votos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
