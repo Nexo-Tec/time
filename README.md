@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A tradição das mergulhadoras da Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/10/15/coreia-do-sul-mergulho-sem-equipamento-mergulhadoras-haenyeo)
 - [Quais as regras para transplante de órgãos no Brasil](https://www.nexojornal.com.br/expresso/2024/10/14/transplante-hiv-regras-no-brasil)
 - [Quantos prefeitos se elegeram com menos de 50%](https://www.nexojornal.com.br/grafico/2024/10/14/eleicoes-2024-prefeitos-eleitos-com-menos-de-50-dos-votos)
 - [É problema nenhuma cientista ter recebido o Nobel em 2024?](https://www.nexojornal.com.br/colunistas/2024/10/14/mulheres-cientistas-premio-nobel-2024)
 - [Favoráveis e contrários ao horário de verão se equiparam](https://www.nexojornal.com.br/extra/2024/10/14/pesquisa-contra-favor-horario-de-verao)
-- [Os aspectos que caracterizam um sono saudável](https://www.nexojornal.com.br/externo/2024/10/14/os-aspectos-que-caracterizam-um-sono-saudavel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
