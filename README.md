@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [Pesquisadores planejam adestrar abelhas-sem-ferrão para polinizar cacau](https://www.nexojornal.com.br/externo/2024/10/15/abelhas-sem-ferrao-polonizar-cacau)
 - [Vladimir Putin deve ser preso no Rio de Janeiro](https://www.nexojornal.com.br/colunistas/2024/10/15/vladimir-putin-ordem-de-prisao-rio-de-janeiro-g20)
-- [Como fusão de Gol e Azul expõe crise do setor aéreo](https://www.nexojornal.com.br/expresso/2024/10/15/fusao-gol-e-azul-impacto-mercado-setor-aereo)
+- [Como uma fusão entre Gol e Azul expõe a crise no setor aéreo](https://www.nexojornal.com.br/expresso/2024/10/15/fusao-gol-e-azul-impacto-mercado-setor-aereo)
 - [Colapso dos serviços da Enel vira vetor de governos e eleição](https://www.nexojornal.com.br/extra/2024/10/15/cassacao-concessao-enel)
 - [Os fatores além das calorias que podem influenciar o seu peso](https://www.nexojornal.com.br/externo/2024/10/15/os-fatores-alem-das-calorias-que-podem-influenciar-o-seu-peso)
 <!-- NEXO_LIST:END -->
