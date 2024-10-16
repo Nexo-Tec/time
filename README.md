@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [8 de janeiro: Moraes pede extradição de foragidos na Argentina](https://www.nexojornal.com.br/extra/2024/10/16/8-de-janeiro-brasilia-extradicao-foragidos-na-argentina)
 - [Pesquisadores planejam adestrar abelhas-sem-ferrão para polinizar cacau](https://www.nexojornal.com.br/externo/2024/10/15/abelhas-sem-ferrao-polonizar-cacau)
 - [Vladimir Putin deve ser preso no Rio de Janeiro](https://www.nexojornal.com.br/colunistas/2024/10/15/vladimir-putin-ordem-de-prisao-rio-de-janeiro-g20)
 - [Como uma fusão entre Gol e Azul expõe a crise no setor aéreo](https://www.nexojornal.com.br/expresso/2024/10/15/fusao-gol-e-azul-impacto-mercado-setor-aereo)
 - [Colapso dos serviços da Enel vira vetor de governos e eleição](https://www.nexojornal.com.br/extra/2024/10/15/cassacao-concessao-enel)
-- [Os fatores além das calorias que podem influenciar o seu peso](https://www.nexojornal.com.br/externo/2024/10/15/os-fatores-alem-das-calorias-que-podem-influenciar-o-seu-peso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
