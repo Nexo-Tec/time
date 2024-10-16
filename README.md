@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O fim dos filtros?](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/o-fim-dos-filtros/)
 - [@charli_xcx](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/charli_xcx/)
 - [Vittor Fernando](https://gamarevista.uol.com.br/pessoas/questionario-proust/vittor-fernando/)
 - [Sonia Guimarães: “É o ensino que me dá forças para continuar”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sonia-guimaraes-ensino/)
 - [7 episódios do Podcast da Semana: maternidade](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/7-episodios-do-podcast-da-semana-maternidade/)
-- [“Para Todas as Mulheres que Não Têm Coragem”, de Daniela Arrais](https://gamarevista.uol.com.br/achamos-que-vale/ler/para-todas-as-mulheres-que-nao-tem-coragem-de-daniela-arrais/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
