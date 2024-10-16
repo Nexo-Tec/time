@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Repensando a paz no Brasil e no mundo: reflexões do VI EBEP](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/16/repensando-a-paz-no-brasil-e-no-mundo-reflexoes-do-vi-ebep/)
 - [Cuidado e longevidade](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/14/cuidado-e-longevidade/)
 - [Gestão escolar](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/14/gestao-escolar/)
 - [Inteligência artificial e políticas públicas: um ano depois](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/10/inteligencia-artificial-e-politicas-publicas-um-ano-depois/)
 - [A reprodução das desigualdades no acesso às estatísticas educacionais](https://pp.nexojornal.com.br/academico/2024/10/09/a-reproducao-das-desigualdades-no-acesso-as-estatisticas-educacionais/)
-- [A crise democrática e a democracia militante](https://pp.nexojornal.com.br/glossario/2024/10/08/a-crise-democratica-e-a-democracia-militante/)
 <!-- PP_LIST:END -->
 
