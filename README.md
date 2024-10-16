@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [BR-319: a estrada da discórdia em área sensível da Amazônia](https://www.nexojornal.com.br/externo/2024/10/16/br-319-a-estrada-da-discordia-em-area-sensivel-da-amazonia)
 - [Por que Trump detestou filme que relata sua ascensão](https://www.nexojornal.com.br/expresso/2024/10/16/filme-donald-trump-o-aprendiz)
 - [A empresa privada constrói o seu próprio paraíso](https://www.nexojornal.com.br/colunistas/2024/10/16/a-empresa-privada-constroi-o-seu-proprio-paraiso)
 - [Uso de ônibus como barricada vira rotina no Rio](https://www.nexojornal.com.br/extra/2024/10/16/sequestro-de-onibus-rio-de-janeiro-barricada)
 - [Governo decide não adotar horário de verão em 2024](https://www.nexojornal.com.br/extra/2024/10/16/horario-de-verao-nao-sera-adotado-em-2024)
-- [Como ‘Snoopy’ segue atraindo o interesse de novas gerações](https://www.nexojornal.com.br/expresso/2024/10/16/desenho-snoopy-historia-e-tendencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
