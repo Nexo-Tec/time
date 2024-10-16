@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pesquisadores planejam adestrar abelhas-sem-ferrão para polinizar cacau](https://www.nexojornal.com.br/externo/2024/10/15/abelhas-sem-ferrao-polonizar-cacau)
+- [Vladimir Putin deve ser preso no Rio de Janeiro](https://www.nexojornal.com.br/colunistas/2024/10/15/vladimir-putin-ordem-de-prisao-rio-de-janeiro-g20)
+- [Como fusão de Gol e Azul expõe crise do setor aéreo](https://www.nexojornal.com.br/expresso/2024/10/15/fusao-gol-e-azul-impacto-mercado-setor-aereo)
+- [Colapso dos serviços da Enel vira vetor de governos e eleição](https://www.nexojornal.com.br/extra/2024/10/15/cassacao-concessao-enel)
 - [Os fatores além das calorias que podem influenciar o seu peso](https://www.nexojornal.com.br/externo/2024/10/15/os-fatores-alem-das-calorias-que-podem-influenciar-o-seu-peso)
-- [Os entraves para a Fifa emplacar seu Super Mundial de Clubes](https://www.nexojornal.com.br/expresso/2024/10/15/futebol-fifa-novo-mundial-de-clubes)
-- [Nova linhagem de covid-19 é detectada em três estados](https://www.nexojornal.com.br/extra/2024/10/15/xec-variante-da-covid-19-no-brasil)
-- [Oito pacientes perdem o olho após infecção em mutirão no RN](https://www.nexojornal.com.br/extra/2024/10/15/pessoas-perdem-o-olho-apos-mutirao-de-cirurgia-de-catarata-no-rn)
-- [O que levou Porto Alegre a ser a capital da abstenção](https://www.nexojornal.com.br/expresso/2024/10/15/eleicoes-2024-porto-alegre-votos-abstencao-primeiro-turno)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
