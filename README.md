@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Como a venda de sentenças volta a assombrar o STJ](https://www.nexojornal.com.br/expresso/2024/10/16/stj-venda-de-sentenca-investigacao)
 - [Itália criminaliza pais que buscarem barriga de aluguel no exterior](https://www.nexojornal.com.br/extra/2024/10/16/barriga-de-aluguel-italia-criminalizacao)
 - [BR-319: a estrada da discórdia em área sensível da Amazônia](https://www.nexojornal.com.br/externo/2024/10/16/br-319-a-estrada-da-discordia-em-area-sensivel-da-amazonia)
-- [Por que Trump detestou filme que relata sua ascensão](https://www.nexojornal.com.br/expresso/2024/10/16/filme-donald-trump-o-aprendiz)
+- [Por que Trump detestou o filme que relata sua ascensão](https://www.nexojornal.com.br/expresso/2024/10/16/filme-donald-trump-o-aprendiz)
 - [A empresa privada constrói o seu próprio paraíso](https://www.nexojornal.com.br/colunistas/2024/10/16/a-empresa-privada-constroi-o-seu-proprio-paraiso)
 <!-- NEXO_LIST:END -->
 
