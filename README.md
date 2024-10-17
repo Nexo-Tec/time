@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Édouard Louis, Mohamed Mbougar Sarr e outros no YouTube da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/edouard-louis-mohamed-mbougar-sarr-e-outros-no-youtube-da-flip/)
 - [“Nem Só de Pão”, com Paola Carosella, no Audible](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nem-so-de-pao-com-paola-carosella-no-audible/)
 - [O suspense psicológico “Disclaimer”, com Cate Blanchett e Kevin Kline](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-suspense-psicologico-disclaimer-com-cate-blanchett-e-kevin-kline/)
 - [As crônicas de “Brincadeira Sem Futuro”, de Ricardo Terto](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-cronicas-de-brincadeira-sem-futuro-de-ricardo-terto/)
 - [Novas exposições no Inhotim, MG](https://gamarevista.uol.com.br/achamos-que-vale/ir/novas-exposicoes-no-inhotim-mg/)
-- [As origens da música eletrônica](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/as-origens-da-musica-eletronica/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
