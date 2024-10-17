@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como este escritor tentou dar um golpe de Estado no Japão](https://www.nexojornal.com.br/expresso/2024/10/17/japao-escritor-yukio-mishima-golpe-de-estado-imperio)
+- [Disputa de 2º turno em João Pessoa vira caso de polícia](https://www.nexojornal.com.br/extra/2024/10/17/eleicoes-2024-joao-pessoa-segundo-turno-policia-federal)
 - [Enel diz ter resolvido apagão, mas 36 mil seguem sem luz em SP](https://www.nexojornal.com.br/extra/2024/10/17/enel-sp-sem-luz-apagao-continua)
 - [Como a venda de sentenças volta a assombrar o STJ](https://www.nexojornal.com.br/expresso/2024/10/16/stj-venda-de-sentenca-investigacao)
 - [Itália criminaliza pais que buscarem barriga de aluguel no exterior](https://www.nexojornal.com.br/extra/2024/10/16/barriga-de-aluguel-italia-criminalizacao)
-- [BR-319: a estrada da discórdia em área sensível da Amazônia](https://www.nexojornal.com.br/externo/2024/10/16/br-319-a-estrada-da-discordia-em-area-sensivel-da-amazonia)
-- [Por que Trump detestou o filme que relata sua ascensão](https://www.nexojornal.com.br/expresso/2024/10/16/filme-donald-trump-o-aprendiz)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
