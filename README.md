@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O crescimento explosivo da pesquisa científica atual](https://www.nexojornal.com.br/externo/2024/10/17/crescimento-pesquisa-cientifica-universidades)
 - [Existe psicopatia infantil? O tema após um massacre de pets](https://www.nexojornal.com.br/expresso/2024/10/17/psicopatia-infantil-menino-de-9-anos-mata-animais-no-parana)
 - [Israel diz ter matado líder do Hamas que planejou 7 de outubro](https://www.nexojornal.com.br/extra/2024/10/17/israel-diz-ter-matado-lider-do-hamas-que-planejou-7-de-outubro)
 - [Como este escritor tentou dar um golpe de Estado no Japão](https://www.nexojornal.com.br/expresso/2024/10/17/japao-escritor-yukio-mishima-golpe-de-estado-imperio)
 - [Disputa de 2º turno em João Pessoa vira caso de polícia](https://www.nexojornal.com.br/extra/2024/10/17/eleicoes-2024-joao-pessoa-segundo-turno-policia-federal)
-- [Enel diz ter resolvido apagão, mas 36 mil seguem sem luz em SP](https://www.nexojornal.com.br/extra/2024/10/17/enel-sp-sem-luz-apagao-continua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
