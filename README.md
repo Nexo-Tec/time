@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por quais mudanças o sistema político boliviano passou no início do século 21](https://pp.nexojornal.com.br/academico/2024/10/17/por-quais-mudancas-o-sistema-politico-boliviano-passou-no-inicio-do-seculo-21/)
+- [A urgência de um processo transparente para a infraestrutura de transportes no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/17/a-urgencia-de-um-processo-transparente-para-a-infraestrutura-de-transportes-no-brasil/)
+- [Os dilemas da Amazônia conectada](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/17/os-dilemas-da-amazonia-conectada/)
 - [Repensando a paz no Brasil e no mundo: reflexões do VI EBEP](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/16/repensando-a-paz-no-brasil-e-no-mundo-reflexoes-do-vi-ebep/)
 - [Cuidado e longevidade](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/14/cuidado-e-longevidade/)
-- [Gestão escolar](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/14/gestao-escolar/)
-- [Inteligência artificial e políticas públicas: um ano depois](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/10/inteligencia-artificial-e-politicas-publicas-um-ano-depois/)
-- [A reprodução das desigualdades no acesso às estatísticas educacionais](https://pp.nexojornal.com.br/academico/2024/10/09/a-reproducao-das-desigualdades-no-acesso-as-estatisticas-educacionais/)
 <!-- PP_LIST:END -->
 
