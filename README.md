@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O caminho da música gospel até se tornar um fenômeno no Brasil](https://www.nexojornal.com.br/expresso/2024/10/18/musica-gospel-brasil-tendencia)
 - [A transição energética pode evitar futuras crises de energia?](https://www.nexojornal.com.br/expresso/2024/10/17/transicao-energetica-pode-evitar-crises-de-energia)
 - [A Amazônia na rota das especiarias](https://www.nexojornal.com.br/externo/2024/10/17/a-amazonia-na-rota-das-especiarias)
 - [A gestão neoliberal do mal-estar contemporâneo](https://www.nexojornal.com.br/academico/2024/10/17/a-gestao-neoliberal-do-mal-estar-contemporaneo)
 - [Edouard Louis atualiza literatura como espetáculo](https://www.nexojornal.com.br/colunistas/2024/10/17/edouard-louis-atualiza-literatura-como-espetaculo)
-- [Curso sobre racismo formado por brancos é suspenso em Portugal](https://www.nexojornal.com.br/extra/2024/10/17/em-portugal-curso-sobre-racismo-formado-por-brancos-e-suspenso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
