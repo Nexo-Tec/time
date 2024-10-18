@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Fortalecimento de organizações da sociedade civil no Brasil: o que é, a quem serve e apostas a fazer](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/18/fortalecimento-de-organizacoes-da-sociedade-civil-no-brasil-o-que-e-a-quem-serve-e-apostas-a-fazer/)
 - [Gabriela Lotta: capacidades estatais para a educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/17/gabriela-lotta-capacidades-estatais-para-a-educacao/)
 - [Políticas educacionais de gestão escolar no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/17/politicas-educacionais-de-gestao-escolar-no-brasil/)
 - [Os recados do Nobel de economia de 2024](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/17/os-recados-do-nobel-de-economia-de-2024/)
 - [José Correia Leite e a luta antirracista no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/17/jose-correia-leite-e-a-luta-antirracista-no-brasil/)
-- [Por quais mudanças o sistema político boliviano passou no início do século 21](https://pp.nexojornal.com.br/academico/2024/10/17/por-quais-mudancas-o-sistema-politico-boliviano-passou-no-inicio-do-seculo-21/)
 <!-- PP_LIST:END -->
 
