@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para refletir sobre a sociedade de consumo](https://www.nexojornal.com.br/estante-favoritos/2024/10/18/livros-sobre-sociedade-de-consumo)
 - [Como a guerra tornou a Faixa de Gaza um território de fome](https://www.nexojornal.com.br/expresso/2024/10/18/fome-em-gaza-seguranca-alimentar-na-guerra-israel)
 - [Que horas anoiteceria com o horário de verão](https://www.nexojornal.com.br/grafico/2024/10/18/horario-de-verao-brasil-hora-anoitecer)
 - [Felipe Neto: ‘é raso dizer que a esquerda se comunica mal’](https://www.nexojornal.com.br/video/2024/10/18/livro-felipe-neto-fala-sobre-politica-eleicoes-liberdade-de-expressao-e-esquerda)
 - [‘Stardust’: as experiências de uma jovem mãe imigrante](https://www.nexojornal.com.br/estante-trechos/2024/10/18/stardust-livro-sobre-jovem-mae-imigrante)
-- [A ex-estrela mirim da Disney que virou CEO na área espacial](https://www.nexojornal.com.br/expresso/2024/10/18/ex-estrela-disney-bridgit-mendler-ceo-empresa-aeroespacial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
