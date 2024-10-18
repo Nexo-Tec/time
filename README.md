@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Felipe Neto: ‘é raso dizer que a esquerda se comunica mal’](https://www.nexojornal.com.br/video/2024/10/18/livro-felipe-neto-fala-sobre-politica-eleicoes-liberdade-de-expressao-e-esquerda)
+- [‘Stardust’: as experiências de uma jovem mãe imigrante](https://www.nexojornal.com.br/estante-trechos/2024/10/18/stardust-livro-sobre-jovem-mae-imigrante)
+- [A ex-estrela mirim da Disney que virou CEO na área espacial](https://www.nexojornal.com.br/expresso/2024/10/18/ex-estrela-disney-bridgit-mendler-ceo-empresa-aeroespacial)
+- [SP tem casos suspeitos de transmissão de dengue via transfusão](https://www.nexojornal.com.br/extra/2024/10/18/dengue-transfusao-de-sangue-sp)
 - [Putin descarta viagem ao Brasil após Ucrânia demandar sua prisão](https://www.nexojornal.com.br/extra/2024/10/18/putin-descarta-viagem-ao-brasil-pedido-de-prisao)
-- [O caminho da música gospel até se tornar um fenômeno no Brasil](https://www.nexojornal.com.br/expresso/2024/10/18/musica-gospel-brasil-tendencia)
-- [A transição energética pode evitar futuras crises de energia?](https://www.nexojornal.com.br/expresso/2024/10/17/transicao-energetica-pode-evitar-crises-de-energia)
-- [A Amazônia na rota das especiarias](https://www.nexojornal.com.br/externo/2024/10/17/a-amazonia-na-rota-das-especiarias)
-- [A gestão neoliberal do mal-estar contemporâneo](https://www.nexojornal.com.br/academico/2024/10/17/a-gestao-neoliberal-do-mal-estar-contemporaneo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
