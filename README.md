@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Drone atinge casa vizinha à residência de férias de Netanyahu](https://www.nexojornal.com.br/extra/2024/10/19/casa-netanyahu-ataque-drone)
 - [A relação entre cuidar de pets e menos tempo de telas na infância](https://www.nexojornal.com.br/externo/2024/10/18/a-relacao-entre-cuidar-de-pets-e-menos-tempo-de-telas-na-infancia)
 - [‘The Office’ na Austrália: quais países já adaptaram a série](https://www.nexojornal.com.br/expresso/2024/10/18/serie-the-office-adaptacoes-australia)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/18/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-11)
 - [Como o bolsonarismo se vale da rixa entre PT e PDT no Ceará](https://www.nexojornal.com.br/expresso/2024/10/18/eleicoes-2024-ceara-bolsonarismo-segundo-turno)
-- [5 livros para refletir sobre a sociedade de consumo](https://www.nexojornal.com.br/estante-favoritos/2024/10/18/livros-sobre-sociedade-de-consumo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
