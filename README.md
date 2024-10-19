@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Drone atinge casa vizinha à residência de férias de Netanyahu](https://www.nexojornal.com.br/extra/2024/10/19/casa-netanyahu-ataque-drone)
-- [A relação entre cuidar de pets e menos tempo de telas na infância](https://www.nexojornal.com.br/externo/2024/10/18/a-relacao-entre-cuidar-de-pets-e-menos-tempo-de-telas-na-infancia)
-- [‘The Office’ na Austrália: quais países já adaptaram a série](https://www.nexojornal.com.br/expresso/2024/10/18/serie-the-office-adaptacoes-australia)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/18/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-11)
-- [Como o bolsonarismo se vale da rixa entre PT e PDT no Ceará](https://www.nexojornal.com.br/expresso/2024/10/18/eleicoes-2024-ceara-bolsonarismo-segundo-turno)
+- [Evangelização: a cultura tradicional em risco entre os Kayapó](https://www.nexojornal.com.br/externo/2024/10/19/evangelizacao-indigenas-kayapo)
+- [A reviravolta na vida do Super-Homem mais famoso do cinema](https://www.nexojornal.com.br/expresso/2024/10/19/filme-superman-a-historia-de-christopher-reeve)
+- [Ampliar o acesso ao esporte impacta a saúde mental da população](https://www.nexojornal.com.br/ensaio/2024/10/19/ampliar-o-acesso-ao-esporte-impacta-a-saude-mental-da-populacao)
+- [Como o policialismo virou uma força na política brasileira](https://www.nexojornal.com.br/expresso/2024/10/19/eleicoes-2024-policiais-eleitos)
+- [O que é o ‘chip da beleza’, proibido por Anvisa e CFM](https://www.nexojornal.com.br/index/2024/10/19/chip-da-beleza-o-que-e-proibido-anvisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
