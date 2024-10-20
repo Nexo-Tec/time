@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Emanuel Aragão: “Viver sem culpa é uma fantasia”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/emanuel-aragao-culpa/)
 - [Podcasts sobre uso excessivo de telas](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/podcasts-sobre-uso-excessivo-de-telas/)
 - [Édouard Louis, Mohamed Mbougar Sarr e outros no YouTube da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/edouard-louis-mohamed-mbougar-sarr-e-outros-no-youtube-da-flip/)
 - [“Nem Só de Pão”, com Paola Carosella, no Audible](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nem-so-de-pao-com-paola-carosella-no-audible/)
 - [O suspense psicológico “Disclaimer”, com Cate Blanchett e Kevin Kline](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-suspense-psicologico-disclaimer-com-cate-blanchett-e-kevin-kline/)
-- [As crônicas de “Brincadeira Sem Futuro”, de Ricardo Terto](https://gamarevista.uol.com.br/achamos-que-vale/ler/as-cronicas-de-brincadeira-sem-futuro-de-ricardo-terto/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
