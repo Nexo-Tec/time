@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um novo Estágio Probatório Unificado para o setor público](https://www.nexojornal.com.br/colunistas/2024/10/21/um-novo-estagio-probatorio-unificado-para-o-setor-publico)
 - [O que crianças da etnia Kaingang pensam sobre o futuro](https://www.nexojornal.com.br/externo/2024/10/20/o-que-criancas-da-etnia-kaingang-pensam-sobre-o-futuro)
 - [Os influenciadores maduros e diversos que ocupam as redes](https://www.nexojornal.com.br/ensaio/2024/10/20/os-influenciadores-maduros-e-diversos-que-ocupam-as-redes)
 - [Estamos vivendo a 6ª extinção em massa da história da Terra?](https://www.nexojornal.com.br/expresso/2024/10/20/meio-ambiente-cop-da-biodiversidade-extincao-em-massa)
 - [Acidente doméstico tira Lula da cúpula dos Brics](https://www.nexojornal.com.br/extra/2024/10/20/acidente-lula-cancela-viagem-russia)
-- [Empresária reivindica 80% de Jericoacoara e firma acordo](https://www.nexojornal.com.br/extra/2024/10/20/empresaria-dona-jericoacoara-acordo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
