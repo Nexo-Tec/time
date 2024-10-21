@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como as editoras de HQs se adaptam ao formato digital](https://www.nexojornal.com.br/expresso/2024/10/21/quadrinhos-hq-online-adaptacao-formato-digital)
 - [Quais os riscos da disseminação da IA no Sul Global](https://www.nexojornal.com.br/externo/2024/10/21/riscos-disseminacao-da-ia-no-sul-global)
 - [O que são os Brics?](https://www.nexojornal.com.br/index/2024/10/21/o-que-sao-os-brics)
 - [O que é coronelismo?](https://www.nexojornal.com.br/index/2024/10/21/o-que-e-coronelismo)
 - [Um novo Estágio Probatório Unificado para o setor público](https://www.nexojornal.com.br/colunistas/2024/10/21/um-novo-estagio-probatorio-unificado-para-o-setor-publico)
-- [O que crianças da etnia Kaingang pensam sobre o futuro](https://www.nexojornal.com.br/externo/2024/10/20/o-que-criancas-da-etnia-kaingang-pensam-sobre-o-futuro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
