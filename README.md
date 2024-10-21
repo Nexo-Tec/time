@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A luta por justiça climática em um mundo em chamas](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/a-luta-por-justica-climatica-em-um-mundo-em-chamas/)
 - [Ana C., agora](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/ana-c-agora/)
 - [Fortalecimento de organizações da sociedade civil no Brasil: o que é, a quem serve e apostas a fazer](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/18/fortalecimento-de-organizacoes-da-sociedade-civil-no-brasil-o-que-e-a-quem-serve-e-apostas-a-fazer/)
 - [Gabriela Lotta: capacidades estatais para a educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/17/gabriela-lotta-capacidades-estatais-para-a-educacao/)
 - [Políticas educacionais de gestão escolar no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/10/17/politicas-educacionais-de-gestao-escolar-no-brasil/)
-- [Os recados do Nobel de economia de 2024](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/17/os-recados-do-nobel-de-economia-de-2024/)
 <!-- PP_LIST:END -->
 
