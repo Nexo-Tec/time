@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o sorteio pró-Trump de Musk desafia a lei eleitoral dos EUA](https://www.nexojornal.com.br/expresso/2024/10/22/eleicoes-eua-elon-musk-faz-sorteio-pro-trump)
 - [Como estradas em áreas florestais pioram a crise climática](https://www.nexojornal.com.br/externo/2024/10/22/mudancas-climaticas-estrada-floresta-impacto)
 - [Por que os Brics estão saindo caro demais para o Brasil](https://www.nexojornal.com.br/colunistas/2024/10/22/por-que-os-brics-estao-saindo-caro-demais-para-o-brasil)
 - [Como as escolas devem lidar com as violências contra bolsistas](https://www.nexojornal.com.br/externo/2024/10/22/bullying-na-escola-violencia-contra-bolsistas-como-lidar)
 - [Promotoria denuncia 6 no caso de órgãos infectados com HIV](https://www.nexojornal.com.br/extra/2024/10/22/mp-denuncia-caso-transplantados-infectados-hiv)
-- [Os movimentos que tentam manter o esperanto vivo](https://www.nexojornal.com.br/expresso/2024/10/22/lingua-artificial-idioma-esperanto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
