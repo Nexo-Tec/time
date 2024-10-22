@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Amara Moira defende que pessoas transgênero estejam no meio acadêmico produzindo conhecimento](https://www.nexojornal.com.br/externo/2024/10/21/amara-moira-pessoas-transgenero-meio-academico)
+- [Quais as regras para eventos privados em museus públicos](https://www.nexojornal.com.br/expresso/2024/10/21/aluguel-museu-publico-para-festa-privada)
+- [Como o apagão em SP voltou a pressionar agências reguladoras](https://www.nexojornal.com.br/expresso/2024/10/21/apagao-sp-agencias-reguladoras-enel)
+- [A ação no Reino Unido sobre a tragédia em Mariana](https://www.nexojornal.com.br/expresso/2024/10/21/tragedia-mariana-bhp-samarco-julgamento-londres)
 - [Como as editoras de HQs se adaptam ao formato digital](https://www.nexojornal.com.br/expresso/2024/10/21/quadrinhos-hq-online-adaptacao-formato-digital)
-- [Quais os riscos da disseminação da IA no Sul Global](https://www.nexojornal.com.br/externo/2024/10/21/riscos-disseminacao-da-ia-no-sul-global)
-- [O que são os Brics?](https://www.nexojornal.com.br/index/2024/10/21/o-que-sao-os-brics)
-- [O que é coronelismo?](https://www.nexojornal.com.br/index/2024/10/21/o-que-e-coronelismo)
-- [Um novo Estágio Probatório Unificado para o setor público](https://www.nexojornal.com.br/colunistas/2024/10/21/um-novo-estagio-probatorio-unificado-para-o-setor-publico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
