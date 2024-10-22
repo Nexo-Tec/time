@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os movimentos que tentam manter o esperanto vivo](https://www.nexojornal.com.br/expresso/2024/10/22/lingua-artificial-idioma-esperanto)
 - [Amara Moira defende que pessoas transgênero estejam no meio acadêmico produzindo conhecimento](https://www.nexojornal.com.br/externo/2024/10/21/amara-moira-pessoas-transgenero-meio-academico)
 - [Quais as regras para eventos privados em museus públicos](https://www.nexojornal.com.br/expresso/2024/10/21/aluguel-museu-publico-para-festa-privada)
 - [Como o apagão em SP voltou a pressionar agências reguladoras](https://www.nexojornal.com.br/expresso/2024/10/21/apagao-sp-agencias-reguladoras-enel)
 - [A ação no Reino Unido sobre a tragédia em Mariana](https://www.nexojornal.com.br/expresso/2024/10/21/tragedia-mariana-bhp-samarco-julgamento-londres)
-- [Como as editoras de HQs se adaptam ao formato digital](https://www.nexojornal.com.br/expresso/2024/10/21/quadrinhos-hq-online-adaptacao-formato-digital)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
