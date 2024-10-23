@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Homem mata 3, fere 9 e depois morre na Grande Porto Alegre](https://www.nexojornal.com.br/extra/2024/10/23/novo-hamburgo-ataque-a-tiros-idosos-pai-mae-irmao)
 - [‘Negacionismo soft pode ser mais perigoso que o histérico’](https://www.nexojornal.com.br/entrevista/2024/10/22/publicidade-petroleo-atila-shell-entrevista-alexandre-costa)
 - [A crise política entre Javier Milei e o futebol argentino](https://www.nexojornal.com.br/expresso/2024/10/22/futebol-argentina-crise-politica-milei-e-afa)
 - [Como o sorteio pró-Trump de Musk desafia a lei eleitoral dos EUA](https://www.nexojornal.com.br/expresso/2024/10/22/eleicoes-eua-elon-musk-faz-sorteio-pro-trump)
 - [Como estradas em áreas florestais pioram a crise climática](https://www.nexojornal.com.br/externo/2024/10/22/mudancas-climaticas-estrada-floresta-impacto)
-- [Por que os Brics estão saindo caro demais para o Brasil](https://www.nexojornal.com.br/colunistas/2024/10/22/por-que-os-brics-estao-saindo-caro-demais-para-o-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
