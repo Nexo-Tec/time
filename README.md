@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [São Paulo, túmulo do apoio de Bolsonaro e Lula na eleição de 2024](https://www.nexojornal.com.br/podcast/2024/10/23/eleicao-2024-sao-paulo-segundo-turno-apoio-bolsonaro-e-lula)
 - [Maioria de crianças e adolescentes online usa redes todo dia](https://www.nexojornal.com.br/extra/2024/10/23/criancas-adolescentes-uso-redes-sociais-brasil)
 - [Os jovens quilombolas que lutam por educação na Bahia](https://www.nexojornal.com.br/externo/2024/10/23/os-jovens-quilombolas-que-lutam-por-educacao-na-bahia)
 - [James e James Jr em quadra: o histórico de pais e filhos no esporte](https://www.nexojornal.com.br/expresso/2024/10/23/lebron-james-e-filho-jogam-juntos-na-nba)
 - [Acadêmicos se mobilizam contra bolsonarista na Faperj](https://www.nexojornal.com.br/extra/2024/10/23/bolsonarista-na-faperj)
-- [Um poeta pop: 5 letras de Antonio Cícero que você cantarola](https://www.nexojornal.com.br/expresso/2024/10/23/musicas-do-poeta-antonio-cicero)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
