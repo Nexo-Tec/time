@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um poeta pop: 5 letras de Antonio Cícero que você cantarola](https://www.nexojornal.com.br/expresso/2024/10/23/musicas-do-poeta-antonio-cicero)
 - [Cícero, Godard, Delon: os artistas que optaram pela morte assistida](https://www.nexojornal.com.br/extra/2024/10/23/antonio-cicero-morreu-poeta-eutanasia-carta-despedida)
 - [Homem mata 3, fere 9 e depois morre na Grande Porto Alegre](https://www.nexojornal.com.br/extra/2024/10/23/novo-hamburgo-ataque-a-tiros-idosos-pai-mae-irmao)
 - [‘Negacionismo soft pode ser mais perigoso que o histérico’](https://www.nexojornal.com.br/entrevista/2024/10/22/publicidade-petroleo-atila-shell-entrevista-alexandre-costa)
 - [A crise política entre Javier Milei e o futebol argentino](https://www.nexojornal.com.br/expresso/2024/10/22/futebol-argentina-crise-politica-milei-e-afa)
-- [Como o sorteio pró-Trump de Musk desafia a lei eleitoral dos EUA](https://www.nexojornal.com.br/expresso/2024/10/22/eleicoes-eua-elon-musk-faz-sorteio-pro-trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
