@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lenda do boxe brasileiro, Maguila morre ao 66 anos](https://www.nexojornal.com.br/extra/2024/10/24/maguila-morre)
+- [RJ: tiroteio interdita avenida Brasil, deixa 3 mortos e 3 feridos](https://www.nexojornal.com.br/extra/2024/10/24/rj-tiroteio-avenida-brasil-mortos-feridos)
 - [Como furacões são formados e por que estão mais intensos](https://www.nexojornal.com.br/grafico/2024/10/24/furacao-como-se-forma-ciclone-tropical)
 - [Desembargadores são afastados por suspeita de venda de sentenças](https://www.nexojornal.com.br/extra/2024/10/24/desembargadores-afastados-ms-mato-grosso-do-sul-venda-de-sentencas)
 - [Morte assistida: como é ajudar um ente querido a morrer](https://www.nexojornal.com.br/externo/2024/10/24/morte-assistida-eutanasia-suicidio-assistido-relatos-familiares)
-- [O desgaste da Frelimo após quase 50 anos no poder em Moçambique](https://www.nexojornal.com.br/expresso/2024/10/23/politica-mocambique-frelimo-frente-de-libertacao-de-mocambique)
-- [Os povos tradicionais de Santarém que sofrem com a seca](https://www.nexojornal.com.br/externo/2024/10/23/seca-em-santarem-afeta-povos-tradicionais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
