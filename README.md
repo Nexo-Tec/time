@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desembargadores são afastados por suspeita de venda de sentenças](https://www.nexojornal.com.br/extra/2024/10/24/desembargadores-afastados-ms-mato-grosso-do-sul-venda-de-sentencas)
 - [Morte assistida: como é ajudar um ente querido a morrer](https://www.nexojornal.com.br/externo/2024/10/24/morte-assistida-eutanasia-suicidio-assistido-relatos-familiares)
 - [O desgaste da Frelimo após quase 50 anos no poder em Moçambique](https://www.nexojornal.com.br/expresso/2024/10/23/politica-mocambique-frelimo-frente-de-libertacao-de-mocambique)
 - [Os povos tradicionais de Santarém que sofrem com a seca](https://www.nexojornal.com.br/externo/2024/10/23/seca-em-santarem-afeta-povos-tradicionais)
 - [A trajetória do Teflon, da criação à contaminação](https://www.nexojornal.com.br/expresso/2024/10/23/gripe-do-teflon-revestimento-panela-contaminacao)
-- [Após chuvas, mais de 40 mil seguem sem luz na Grande SP](https://www.nexojornal.com.br/extra/2024/10/23/novas-chuvas-outubro-sem-luz-grande-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
