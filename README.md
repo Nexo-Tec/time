@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Morte assistida: como é ajudar um ente querido a morrer](https://www.nexojornal.com.br/externo/2024/10/24/morte-assistida-eutanasia-suicidio-assistido-relatos-familiares)
 - [O desgaste da Frelimo após quase 50 anos no poder em Moçambique](https://www.nexojornal.com.br/expresso/2024/10/23/politica-mocambique-frelimo-frente-de-libertacao-de-mocambique)
 - [Os povos tradicionais de Santarém que sofrem com a seca](https://www.nexojornal.com.br/externo/2024/10/23/seca-em-santarem-afeta-povos-tradicionais)
 - [A trajetória do Teflon, da criação à contaminação](https://www.nexojornal.com.br/expresso/2024/10/23/gripe-do-teflon-revestimento-panela-contaminacao)
 - [Após chuvas, mais de 40 mil seguem sem luz na Grande SP](https://www.nexojornal.com.br/extra/2024/10/23/novas-chuvas-outubro-sem-luz-grande-sao-paulo)
-- [São Paulo, túmulo do apoio de Bolsonaro e Lula na eleição de 2024](https://www.nexojornal.com.br/podcast/2024/10/23/eleicao-2024-sao-paulo-segundo-turno-apoio-bolsonaro-e-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
