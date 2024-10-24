@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desgaste da Frelimo após quase 50 anos no poder em Moçambique](https://www.nexojornal.com.br/expresso/2024/10/23/politica-mocambique-frelimo-frente-de-libertacao-de-mocambique)
+- [Os povos tradicionais de Santarém que sofrem com a seca](https://www.nexojornal.com.br/externo/2024/10/23/seca-em-santarem-afeta-povos-tradicionais)
+- [A trajetória do Teflon, da criação à contaminação](https://www.nexojornal.com.br/expresso/2024/10/23/gripe-do-teflon-revestimento-panela-contaminacao)
+- [Com novas chuvas, 59 mil ficam sem luz na Grande São Paulo](https://www.nexojornal.com.br/extra/2024/10/23/novas-chuvas-outubro-sem-luz-grande-sao-paulo)
 - [São Paulo, túmulo do apoio de Bolsonaro e Lula na eleição de 2024](https://www.nexojornal.com.br/podcast/2024/10/23/eleicao-2024-sao-paulo-segundo-turno-apoio-bolsonaro-e-lula)
-- [Maioria de crianças e adolescentes online usa redes todo dia](https://www.nexojornal.com.br/extra/2024/10/23/criancas-adolescentes-uso-redes-sociais-brasil)
-- [Os jovens quilombolas que lutam por educação na Bahia](https://www.nexojornal.com.br/externo/2024/10/23/os-jovens-quilombolas-que-lutam-por-educacao-na-bahia)
-- [James e James Jr em quadra: o histórico de pais e filhos no esporte](https://www.nexojornal.com.br/expresso/2024/10/23/lebron-james-e-filho-jogam-juntos-na-nba)
-- [Acadêmicos se mobilizam contra bolsonarista na Faperj](https://www.nexojornal.com.br/extra/2024/10/23/bolsonarista-na-faperj)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
