@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que celebrar na Semana Mundial de Educação Midiática](https://www.nexojornal.com.br/colunistas/2024/10/24/o-que-celebrar-na-semana-mundial-de-educacao-midiatica)
+- [‘GTA: San Andreas’, 20 anos: os marcos da franquia de games](https://www.nexojornal.com.br/expresso/2024/10/24/jogo-gta-san-andreas-20-anos)
+- [Macron critica Israel e anuncia US$ 1 bi em ajuda ao Líbano](https://www.nexojornal.com.br/extra/2024/10/24/macron-critica-israel-e-anuncia-ajuda-ao-libano)
 - [A abrangência da produção orgânica na Bahia](https://www.nexojornal.com.br/academico/2024/10/24/a-abrangencia-da-producao-de-organicos-na-bahia)
 - [Lenda do boxe brasileiro, Maguila morre ao 66 anos](https://www.nexojornal.com.br/extra/2024/10/24/maguila-morre)
-- [RJ: tiroteio interdita avenida Brasil, deixa 3 mortos e 3 feridos](https://www.nexojornal.com.br/extra/2024/10/24/rj-tiroteio-avenida-brasil-mortos-feridos)
-- [Como furacões são formados e por que estão mais intensos](https://www.nexojornal.com.br/grafico/2024/10/24/furacao-como-se-forma-ciclone-tropical)
-- [Desembargadores são afastados por suspeita de venda de sentenças](https://www.nexojornal.com.br/extra/2024/10/24/desembargadores-afastados-ms-mato-grosso-do-sul-venda-de-sentencas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
