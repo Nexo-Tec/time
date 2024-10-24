@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como o Brasil trata o envelhecimento populacional, segundo este mapeamento](https://pp.nexojornal.com.br/section/2024/10/24/como-o-brasil-trata-o-envelhecimento-populacional-segundo-este-mapeamento/)
 - [Desigualdade racial na renda brasileira &lpar;1982-2021&rpar;](https://pp.nexojornal.com.br/opiniao/2024/10/24/desigualdade-racial-na-renda-brasileira-1982-2021/)
 - [José Correia Leite](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/24/jose-correia-leite/)
 - [A luta por justiça climática em um mundo em chamas](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/a-luta-por-justica-climatica-em-um-mundo-em-chamas/)
 - [Ana C., agora](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/ana-c-agora/)
-- [Fortalecimento de organizações da sociedade civil no Brasil: o que é, a quem serve e apostas a fazer](https://pp.nexojornal.com.br/ponto-de-vista/2024/10/18/fortalecimento-de-organizacoes-da-sociedade-civil-no-brasil-o-que-e-a-quem-serve-e-apostas-a-fazer/)
 <!-- PP_LIST:END -->
 
