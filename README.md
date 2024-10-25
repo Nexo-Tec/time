@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Altair Lira: a doença falciforme no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/25/altair-lira-a-doenca-falciforme-no-brasil/)
 - [Como o Brasil trata o envelhecimento populacional, segundo este mapeamento](https://pp.nexojornal.com.br/topico/2024/10/24/como-o-brasil-trata-o-envelhecimento-populacional-segundo-este-mapeamento/)
 - [Desigualdade racial na renda brasileira &lpar;1982-2021&rpar;](https://pp.nexojornal.com.br/opiniao/2024/10/24/desigualdade-racial-na-renda-brasileira-1982-2021/)
 - [José Correia Leite](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/24/jose-correia-leite/)
 - [A luta por justiça climática em um mundo em chamas](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/a-luta-por-justica-climatica-em-um-mundo-em-chamas/)
-- [Ana C., agora](https://pp.nexojornal.com.br/bibliografia-basica/2024/10/21/ana-c-agora/)
 <!-- PP_LIST:END -->
 
