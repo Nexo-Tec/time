@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pagar mais caro pelo café virou o novo normal?](https://www.nexojornal.com.br/externo/2024/10/25/por-que-o-cafe-esta-caro)
 - [As senhas podem estar com seus dias contados na internet?](https://www.nexojornal.com.br/expresso/2024/10/25/internet-seguranca-senha-guia-passkey-central)
 - [Número de mulheres responsáveis pela casa chega a 49%, diz Censo](https://www.nexojornal.com.br/extra/2024/10/25/censo-2022-mulheres-responsaveis-pela-casa)
 - [Quais as propostas econômicas de Donald Trump e Kamala Harris](https://www.nexojornal.com.br/expresso/2024/10/25/eleicoes-eua-trump-e-harris-proposta-economia)
 - [Gustavo Gayer é suspeito de desviar recursos públicos](https://www.nexojornal.com.br/extra/2024/10/25/deputado-gustavo-gayer-pl-operacao-da-policia-federal)
-- [Como o Brasil aparece na COP da biodiversidade](https://www.nexojornal.com.br/expresso/2024/10/24/brasil-cop16-biodiversidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
