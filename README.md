@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Número de mulheres responsáveis pela casa chega a 49%, diz Censo](https://www.nexojornal.com.br/extra/2024/10/25/censo-2022-mulheres-responsaveis-pela-casa)
 - [Quais as propostas econômicas de Donald Trump e Kamala Harris](https://www.nexojornal.com.br/expresso/2024/10/25/eleicoes-eua-trump-e-harris-proposta-economia)
 - [Gustavo Gayer é suspeito de desviar recursos públicos](https://www.nexojornal.com.br/extra/2024/10/25/deputado-gustavo-gayer-pl-operacao-da-policia-federal)
 - [Como o Brasil aparece na COP da biodiversidade](https://www.nexojornal.com.br/expresso/2024/10/24/brasil-cop16-biodiversidade)
 - [Por que a Embrapa está investindo na produção de baunilha](https://www.nexojornal.com.br/externo/2024/10/24/brasil-agricultura-baunilha-embrapa-cultivo)
-- [O que celebrar na Semana Mundial de Educação Midiática](https://www.nexojornal.com.br/colunistas/2024/10/24/o-que-celebrar-na-semana-mundial-de-educacao-midiatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
