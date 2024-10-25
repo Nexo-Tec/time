@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais as propostas econômicas de Donald Trump e Kamala Harris](https://www.nexojornal.com.br/expresso/2024/10/25/eleicoes-eua-trump-e-harris-proposta-economia)
+- [Gustavo Gayer é suspeito de desviar recursos públicos](https://www.nexojornal.com.br/extra/2024/10/25/deputado-gustavo-gayer-pl-operacao-da-policia-federal)
 - [Como o Brasil aparece na COP da biodiversidade](https://www.nexojornal.com.br/expresso/2024/10/24/brasil-cop16-biodiversidade)
 - [Por que a Embrapa está investindo na produção de baunilha](https://www.nexojornal.com.br/externo/2024/10/24/brasil-agricultura-baunilha-embrapa-cultivo)
 - [O que celebrar na Semana Mundial de Educação Midiática](https://www.nexojornal.com.br/colunistas/2024/10/24/o-que-celebrar-na-semana-mundial-de-educacao-midiatica)
-- [‘GTA: San Andreas’, 20 anos: os marcos da franquia de games](https://www.nexojornal.com.br/expresso/2024/10/24/jogo-gta-san-andreas-20-anos)
-- [Macron critica Israel e anuncia US$ 1 bi em ajuda ao Líbano](https://www.nexojornal.com.br/extra/2024/10/24/macron-critica-israel-e-anuncia-ajuda-ao-libano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
