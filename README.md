@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Um refrescante ceviche de aratu](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/um-refrescante-ceviche-de-aratu/)
-- [Emanuel Aragão: “Viver sem culpa é uma fantasia”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/emanuel-aragao-culpa/)
-- [Podcasts sobre uso excessivo de telas](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/podcasts-sobre-uso-excessivo-de-telas/)
-- [Édouard Louis, Mohamed Mbougar Sarr e outros no YouTube da Flip](https://gamarevista.uol.com.br/achamos-que-vale/assistir/edouard-louis-mohamed-mbougar-sarr-e-outros-no-youtube-da-flip/)
-- [“Nem Só de Pão”, com Paola Carosella, no Audible](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/nem-so-de-pao-com-paola-carosella-no-audible/)
+- [A branquitude não para, a branquitude dá um tempo](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-branquitude-nao-para-a-branquitude-da-um-tempo/)
+- [Antonio Cicero nos levou a lugares que, sem ele, não teriam entrado no mapa](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/antonio-cicero/)
+- [“O Quarto ao Lado”, primeiro longa de Almodóvar em inglês](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-quarto-ao-lado-primeiro-longa-de-almodovar-em-ingles/)
+- [Exposição que reúne a arte negra de Brasil e EUA](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-que-reune-a-arte-negra-de-brasil-e-eua/)
+- [O podcast “Portas Fechadas”, sobre os bastidores da Varig](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-portas-fechadas-sobre-os-bastidores-da-varig/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
