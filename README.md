@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A disputa entre a direita tradicional e a extrema direita no 2º turno](https://www.nexojornal.com.br/expresso/2024/10/25/eleicoes-2024-segundo-turno-direita-tradicional-e-extrema-direita)
+- [Israel bombardeia Irã. Explosões são ouvidas em Teerã](https://www.nexojornal.com.br/extra/2024/10/25/israel-ataca-ira-teera)
 - [5 livros que mostram o lado vertiginosamente animal de seus autores](https://www.nexojornal.com.br/estante-favoritos/2024/10/25/livros-sobre-lado-animal-do-humano)
 - [‘A enchente de 24’: os relatos da tragédia em Porto Alegre](https://www.nexojornal.com.br/estante-trechos/2024/10/25/a-enchente-de-24-os-relatos-da-tragedia-em-porto-alegre)
 - [Chuvas levam Aneel a reduzir taxa extra na conta de luz](https://www.nexojornal.com.br/extra/2024/10/25/conta-de-luz-valor-reducao-chuvas-aneel)
-- [A Itália multirracial: uma entrevista com Igiaba Scego](https://www.nexojornal.com.br/video/2024/10/25/italia-entrevista-escritora-igiaba-scego)
-- [Pagar mais caro pelo café virou o novo normal?](https://www.nexojornal.com.br/externo/2024/10/25/por-que-o-cafe-esta-caro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
