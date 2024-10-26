@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Investigação sobre venda de sentenças em MS vai ao Supremo](https://www.nexojornal.com.br/extra/2024/10/26/investigaca-venda-de-sentencas-mato-grosso-do-sul-stf)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/25/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-12)
 - [O plano de passar o Corcovado do Parque da Tijuca para a Igreja](https://www.nexojornal.com.br/externo/2024/10/25/corcovado-parque-da-tijuca-igreja-projeto-de-lei)
 - [O que você precisa saber diante da urna no 2º turno de 2024](https://www.nexojornal.com.br/servico/2024/10/25/eleicoes-2024-como-votar-segundo-turno-urna)
 - [O que é levado em conta quando se decide tombar um imóvel](https://www.nexojornal.com.br/expresso/2024/10/25/imovel-tombado-como-funciona)
-- [Reviravolta eleitoral? O dramático 2º turno em Porto Velho](https://www.nexojornal.com.br/debate/2024/10/25/eleicao-em-porto-velho-reviravolta-no-segundo-turno-em-porto-velho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
