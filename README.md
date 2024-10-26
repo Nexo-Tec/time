@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [A disputa entre a direita tradicional e a extrema direita no 2º turno](https://www.nexojornal.com.br/expresso/2024/10/25/eleicoes-2024-segundo-turno-direita-tradicional-e-extrema-direita)
-- [Israel bombardeia Irã. Explosões são ouvidas em Teerã](https://www.nexojornal.com.br/extra/2024/10/25/israel-ataca-ira-teera)
-- [5 livros que mostram o lado vertiginosamente animal de seus autores](https://www.nexojornal.com.br/estante-favoritos/2024/10/25/livros-sobre-lado-animal-do-humano)
-- [‘A enchente de 24’: os relatos da tragédia em Porto Alegre](https://www.nexojornal.com.br/estante-trechos/2024/10/25/a-enchente-de-24-os-relatos-da-tragedia-em-porto-alegre)
-- [Chuvas levam Aneel a reduzir taxa extra na conta de luz](https://www.nexojornal.com.br/extra/2024/10/25/conta-de-luz-valor-reducao-chuvas-aneel)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/25/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-12)
+- [O plano de passar o Corcovado do Parque da Tijuca para a Igreja](https://www.nexojornal.com.br/externo/2024/10/25/corcovado-parque-da-tijuca-igreja-projeto-de-lei)
+- [O que você precisa saber diante da urna no 2º turno de 2024](https://www.nexojornal.com.br/servico/2024/10/25/eleicoes-2024-como-votar-segundo-turno-urna)
+- [O que é levado em conta quando se decide tombar um imóvel](https://www.nexojornal.com.br/expresso/2024/10/25/imovel-tombado-como-funciona)
+- [Reviravolta eleitoral? O dramático 2º turno em Porto Velho](https://www.nexojornal.com.br/debate/2024/10/25/eleicao-em-porto-velho-reviravolta-no-segundo-turno-em-porto-velho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
