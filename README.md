@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Mudança no trabalho e mídias sociais são desafios para o PT’](https://www.nexojornal.com.br/entrevista/2024/10/26/politica-desempenho-da-esquerda-nas-ultimas-eleicoes-entrevista-fabio-kerche)
+- [À luz das escolhas: como nossas decisões moldam o futuro?](https://www.nexojornal.com.br/ensaio/2024/10/26/como-nossas-decisoes-moldam-o-futuro)
+- [Como é a Copa do Mundo de Sushi anual do Japão](https://www.nexojornal.com.br/expresso/2024/10/26/sushi-copa-do-mundo-comida-japonesa)
 - [Investigação sobre venda de sentenças em MS vai ao Supremo](https://www.nexojornal.com.br/extra/2024/10/26/investigaca-venda-de-sentencas-mato-grosso-do-sul-stf)
 - [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/10/25/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-12)
-- [O plano de passar o Corcovado do Parque da Tijuca para a Igreja](https://www.nexojornal.com.br/externo/2024/10/25/corcovado-parque-da-tijuca-igreja-projeto-de-lei)
-- [O que você precisa saber diante da urna no 2º turno de 2024](https://www.nexojornal.com.br/servico/2024/10/25/eleicoes-2024-como-votar-segundo-turno-urna)
-- [O que é levado em conta quando se decide tombar um imóvel](https://www.nexojornal.com.br/expresso/2024/10/25/imovel-tombado-como-funciona)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
