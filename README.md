@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [As pesquisas nas 15 capitais brasileiras que têm 2º turno](https://www.nexojornal.com.br/expresso/2024/10/27/capitais-2o-turno-ultimas-pesquisas)
-- [‘Mudança no trabalho e mídias sociais são desafios para o PT’](https://www.nexojornal.com.br/entrevista/2024/10/26/politica-desempenho-da-esquerda-nas-ultimas-eleicoes-entrevista-fabio-kerche)
+- [‘Mudanças no trabalho e mídias sociais são desafios para o PT’](https://www.nexojornal.com.br/entrevista/2024/10/26/politica-desempenho-da-esquerda-nas-ultimas-eleicoes-entrevista-fabio-kerche)
 - [À luz das escolhas: como nossas decisões moldam o futuro?](https://www.nexojornal.com.br/ensaio/2024/10/26/como-nossas-decisoes-moldam-o-futuro)
 - [Como é a Copa do Mundo de Sushi anual do Japão](https://www.nexojornal.com.br/expresso/2024/10/26/sushi-copa-do-mundo-comida-japonesa)
 - [Investigação sobre venda de sentenças em MS vai ao Supremo](https://www.nexojornal.com.br/extra/2024/10/26/investigaca-venda-de-sentencas-mato-grosso-do-sul-stf)
