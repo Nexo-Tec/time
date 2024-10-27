@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A volta do PT ao comando de uma capital do país](https://www.nexojornal.com.br/expresso/2024/10/27/eleicoes-2024-resultado-segundo-turno-fortaleza-pt-evandro-leitao)
 - [Ricardo Nunes é reeleito prefeito de São Paulo](https://www.nexojornal.com.br/extra/2024/10/27/ricardo-nunes-e-reeleito-prefeito-de-sao-paulo)
 - [Quais são as diretrizes para diagnosticar pressão alta](https://www.nexojornal.com.br/index/2024/10/27/pressao-alta-12-por-8-hipertensao)
 - [Emboscada de torcida do Palmeiras mata cruzeirense e fere 17](https://www.nexojornal.com.br/extra/2024/10/27/mancha-verde-briga-mafia-azul-emboscada-mairipora-torcida-palmeiras-cruzeiro)
 - [As pesquisas nas 15 capitais brasileiras que têm 2º turno](https://www.nexojornal.com.br/expresso/2024/10/27/capitais-2o-turno-ultimas-pesquisas)
-- [‘Mudanças no trabalho e mídias sociais são desafios para o PT’](https://www.nexojornal.com.br/entrevista/2024/10/26/politica-desempenho-da-esquerda-nas-ultimas-eleicoes-entrevista-fabio-kerche)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
