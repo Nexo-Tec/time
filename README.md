@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Partido governista perde maioria do Parlamento no Japão](https://www.nexojornal.com.br/extra/2024/10/28/resultado-eleicao-japao-2024)
 - [Pupilos de Mujica e Lacalle Pou disputam 2º turno no Uruguai](https://www.nexojornal.com.br/extra/2024/10/28/uruguai-eleicoes-segundo-turno-yamandu-orsi-alvaro-delgado)
 - [7 chaves para entender os resultados das eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/28/eleicoes-20204-7-chaves-para-entender-os-resultados)
 - [MDB e PSD são os que mais elegeram prefeitos nas capitais](https://www.nexojornal.com.br/grafico/2024/10/27/mdb-psd-partido-mais-prefeitos-capital)
 - [As vitórias do centrão contra o bolsonarismo no segundo turno](https://www.nexojornal.com.br/expresso/2024/10/27/eleicoes-2024-centrao-bolsonarismo-segundo-turno)
-- [As mulheres que vivem sem água estão sedentas por justiça](https://www.nexojornal.com.br/ensaio/2024/10/27/as-mulheres-que-vivem-sem-agua-estao-sedentas-por-justica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
