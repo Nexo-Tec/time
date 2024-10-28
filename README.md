@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [MDB e PSD são os que mais elegeram prefeitos nas capitais](https://www.nexojornal.com.br/grafico/2024/10/27/mdb-psd-partido-mais-prefeitos-capital)
-- [As vitórias do centrão contra o bolsonarismo no 2º turno](https://www.nexojornal.com.br/expresso/2024/10/27/eleicoes-2024-centrao-bolsonarismo-segundo-turno)
+- [As vitórias do centrão contra o bolsonarismo no segundo turno](https://www.nexojornal.com.br/expresso/2024/10/27/eleicoes-2024-centrao-bolsonarismo-segundo-turno)
 - [As mulheres que vivem sem água estão sedentas por justiça](https://www.nexojornal.com.br/ensaio/2024/10/27/as-mulheres-que-vivem-sem-agua-estao-sedentas-por-justica)
 - [Confira o resultado das capitais após o segundo turno](https://www.nexojornal.com.br/grafico/2024/10/27/resultado-eleicoes-2024-capitais-segundo-turno)
 - [A volta do PT ao comando de uma capital do país](https://www.nexojornal.com.br/expresso/2024/10/27/eleicoes-2024-resultado-segundo-turno-fortaleza-pt-evandro-leitao)
