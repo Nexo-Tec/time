@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O fungo da Indonésia que reaproveita comida desperdiçada](https://www.nexojornal.com.br/expresso/2024/10/28/fungo-indonesia-neurospora-comida-desperdicada)
+- [Espanhol Rodri supera brasileiro Vini Jr. e leva Bola de Ouro](https://www.nexojornal.com.br/extra/2024/10/28/bola-de-ouro-rodri-vence-vini-jr)
 - [Protestos ambientais radicais funcionam? Estudo diz que sim](https://www.nexojornal.com.br/expresso/2024/10/28/meio-ambiente-protesto-impacto)
 - [Qualis-periódicos será substituído por classificação com foco nos artigos](https://www.nexojornal.com.br/externo/2024/10/28/qualis-periodicos-novo-sistema-capes)
 - [O número de mulheres eleitas em capitais desde 1985](https://www.nexojornal.com.br/grafico/2024/10/28/prefeitas-eleitas-em-capitais-desde-1985)
-- [Partido governista perde maioria do Parlamento no Japão](https://www.nexojornal.com.br/extra/2024/10/28/resultado-eleicao-japao-2024)
-- [Pupilos de Mujica e Lacalle Pou disputam 2º turno no Uruguai](https://www.nexojornal.com.br/extra/2024/10/28/uruguai-eleicoes-segundo-turno-yamandu-orsi-alvaro-delgado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
