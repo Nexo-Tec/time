@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Protestos ambientais radicais funcionam? Estudo diz que sim](https://www.nexojornal.com.br/expresso/2024/10/28/meio-ambiente-protesto-impacto)
 - [Qualis-periódicos será substituído por classificação com foco nos artigos](https://www.nexojornal.com.br/externo/2024/10/28/qualis-periodicos-novo-sistema-capes)
 - [O número de mulheres eleitas em capitais desde 1985](https://www.nexojornal.com.br/grafico/2024/10/28/prefeitas-eleitas-em-capitais-desde-1985)
 - [Partido governista perde maioria do Parlamento no Japão](https://www.nexojornal.com.br/extra/2024/10/28/resultado-eleicao-japao-2024)
 - [Pupilos de Mujica e Lacalle Pou disputam 2º turno no Uruguai](https://www.nexojornal.com.br/extra/2024/10/28/uruguai-eleicoes-segundo-turno-yamandu-orsi-alvaro-delgado)
-- [7 chaves para entender os resultados das eleições de 2024](https://www.nexojornal.com.br/expresso/2024/10/28/eleicoes-20204-7-chaves-para-entender-os-resultados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
