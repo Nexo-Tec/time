@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O filme sobre futebol feminino censurado pela ditadura](https://www.nexojornal.com.br/expresso/2024/10/29/filme-futebol-feminino-censurado-ditadura-militar-onda-nova-gayvotas-futebol-clube)
+- [Arthur Lira oficializa apoio a Hugo Motta na eleição da Câmara](https://www.nexojornal.com.br/extra/2024/10/29/arthur-lira-apoia-hugo-motta-presidente-camara)
 - [Gilmar Mendes anula condenações de José Dirceu na Lava Jato](https://www.nexojornal.com.br/extra/2024/10/29/ze-dirceu-gilmar-mendes-anula-condenacoes-lava-jato-corrupcao)
 - [Bicheiro Rogério de Andrade é preso no Rio de Janeiro](https://www.nexojornal.com.br/extra/2024/10/29/rogerio-de-andrade-bicheiro-preso-fernando-iggnacio)
 - [Antes da Marvel: como romancista do século 19 dominou multiverso](https://www.nexojornal.com.br/externo/2024/10/28/antes-da-marvel-como-romancista-do-seculo-19-dominou-multiverso)
-- [Tarcísio pode ser punido pelo que falou sobre Boulos e o PCC?](https://www.nexojornal.com.br/expresso/2024/10/28/boulos-tarcisio-pcc-declaracao-crime-eleitoral)
-- [Como a vitória de Nunes consolida o centrão paulistano](https://www.nexojornal.com.br/expresso/2024/10/28/quem-ganhou-as-eleicoes-em-sao-paulo-ricardo-nunes-centrao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
