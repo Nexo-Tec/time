@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Antes da Marvel: como romancista do século 19 dominou multiverso](https://www.nexojornal.com.br/externo/2024/10/28/antes-da-marvel-como-romancista-do-seculo-19-dominou-multiverso)
+- [Tarcísio pode ser punido pelo que falou sobre Boulos e o PCC?](https://www.nexojornal.com.br/expresso/2024/10/28/boulos-tarcisio-pcc-declaracao-crime-eleitoral)
+- [Como a vitória de Nunes consolida o centrão paulistano](https://www.nexojornal.com.br/expresso/2024/10/28/quem-ganhou-as-eleicoes-em-sao-paulo-ricardo-nunes-centrao)
 - [O fungo da Indonésia que reaproveita comida desperdiçada](https://www.nexojornal.com.br/expresso/2024/10/28/fungo-indonesia-neurospora-comida-desperdicada)
 - [Espanhol Rodri supera brasileiro Vini Jr. e leva Bola de Ouro](https://www.nexojornal.com.br/extra/2024/10/28/bola-de-ouro-rodri-vence-vini-jr)
-- [Protestos ambientais radicais funcionam? Estudo diz que sim](https://www.nexojornal.com.br/expresso/2024/10/28/meio-ambiente-protesto-impacto)
-- [Qualis-periódicos será substituído por classificação com foco nos artigos](https://www.nexojornal.com.br/externo/2024/10/28/qualis-periodicos-novo-sistema-capes)
-- [O número de mulheres eleitas em capitais desde 1985](https://www.nexojornal.com.br/grafico/2024/10/28/prefeitas-eleitas-em-capitais-desde-1985)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
