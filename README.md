@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O vício em apostas: sinais, consequências, tratamentos e recomendações, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/10/29/o-vicio-em-apostas-sinais-consequencias-tratamentos-e-recomendacoes-em-9-pontos/)
 - [Quais os sentidos do secularismos](https://pp.nexojornal.com.br/opiniao/2024/10/29/quais-os-sentidos-do-secularismos/)
 - [Aborto e movimentos feministas no Brasil e na Argentina](https://pp.nexojornal.com.br/academico/2024/10/29/aborto-e-movimentos-feministas-no-brasil-e-na-argentina/)
 - [Altair Lira: a doença falciforme no Brasil](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/10/25/altair-lira-a-doenca-falciforme-no-brasil/)
 - [Como o Brasil trata o envelhecimento populacional, segundo este mapeamento](https://pp.nexojornal.com.br/topico/2024/10/24/como-o-brasil-trata-o-envelhecimento-populacional-segundo-este-mapeamento/)
-- [Desigualdade racial na renda brasileira &lpar;1982-2021&rpar;](https://pp.nexojornal.com.br/opiniao/2024/10/24/desigualdade-racial-na-renda-brasileira-1982-2021/)
 <!-- PP_LIST:END -->
 
