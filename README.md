@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bicheiro Rogério de Andrade é preso no Rio de Janeiro](https://www.nexojornal.com.br/extra/2024/10/29/rogerio-de-andrade-bicheiro-preso-fernando-iggnacio)
 - [Antes da Marvel: como romancista do século 19 dominou multiverso](https://www.nexojornal.com.br/externo/2024/10/28/antes-da-marvel-como-romancista-do-seculo-19-dominou-multiverso)
 - [Tarcísio pode ser punido pelo que falou sobre Boulos e o PCC?](https://www.nexojornal.com.br/expresso/2024/10/28/boulos-tarcisio-pcc-declaracao-crime-eleitoral)
 - [Como a vitória de Nunes consolida o centrão paulistano](https://www.nexojornal.com.br/expresso/2024/10/28/quem-ganhou-as-eleicoes-em-sao-paulo-ricardo-nunes-centrao)
 - [O fungo da Indonésia que reaproveita comida desperdiçada](https://www.nexojornal.com.br/expresso/2024/10/28/fungo-indonesia-neurospora-comida-desperdicada)
-- [Espanhol Rodri supera brasileiro Vini Jr. e leva Bola de Ouro](https://www.nexojornal.com.br/extra/2024/10/28/bola-de-ouro-rodri-vence-vini-jr)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
