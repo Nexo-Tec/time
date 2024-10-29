@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Muito além de Asterix: quem eram realmente os gauleses](https://www.nexojornal.com.br/externo/2024/10/29/muito-alem-de-asterix-quem-eram-realmente-os-gauleses)
 - [O peso da comunidade de Porto Rico na eleição dos EUA](https://www.nexojornal.com.br/expresso/2024/10/29/eleicoes-presidenciais-nos-estados-unidos-eua-imigrantes-porto-rico)
 - [Para onde caminha o debate sobre raça no Brasil?](https://www.nexojornal.com.br/colunistas/2024/10/29/questao-racial-debate-caminho-no-brasil)
 - [O filme sobre futebol feminino censurado pela ditadura](https://www.nexojornal.com.br/expresso/2024/10/29/filme-futebol-feminino-censurado-ditadura-militar-onda-nova-gayvotas-futebol-clube)
 - [Arthur Lira oficializa apoio a Hugo Motta na eleição da Câmara](https://www.nexojornal.com.br/extra/2024/10/29/arthur-lira-apoia-hugo-motta-presidente-camara)
-- [Gilmar Mendes anula condenações de José Dirceu na Lava Jato](https://www.nexojornal.com.br/extra/2024/10/29/ze-dirceu-gilmar-mendes-anula-condenacoes-lava-jato-corrupcao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
