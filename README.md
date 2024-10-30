@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Emenda parlamentar, eleição municipal e o futuro de Lula](https://www.nexojornal.com.br/podcast/2024/10/30/politica-emenda-parlamentar-impacto-reeleicao-lula)
+- [Venezuela convoca embaixador no Brasil e crítica governo Lula](https://www.nexojornal.com.br/extra/2024/10/30/venezuela-convoca-embaixador-no-brasil-e-critica-governo-lula)
+- [A série sobre as horas que precederam a chacina da Candelária](https://www.nexojornal.com.br/expresso/2024/10/30/a-chacina-da-candelaria-minisserie-netflix)
 - [‘Brasil está na contramão do debate sobre privatização’](https://www.nexojornal.com.br/externo/2024/10/30/privatizacao-no-brasil-debate)
 - [As odisseias de filmes que registraram os crimes da ditadura](https://www.nexojornal.com.br/expresso/2024/10/30/livro-cinema-de-arquivo-crimes-ditadura-militar)
-- [Chuva forte deixa ao menos 92 mortos na região de Valência](https://www.nexojornal.com.br/extra/2024/10/30/tempestade-valencia-espanha-mortes-enchentes)
-- [A revanche silenciosa da cloroquina](https://www.nexojornal.com.br/colunistas/2024/10/29/a-revanche-silenciosa-da-cloroquina)
-- [Burnout parental: nove em cada dez mães estão exaustas](https://www.nexojornal.com.br/externo/2024/10/29/burnout-parental-nove-em-cada-dez-maes-estao-exaustas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
