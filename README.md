@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [As odisseias de filmes que registraram os crimes da ditadura](https://www.nexojornal.com.br/expresso/2024/10/30/livro-cinema-de-arquivo-crimes-ditadura-militar)
-- [Chuva forte deixa ao menos 70 mortos na região de Valência](https://www.nexojornal.com.br/extra/2024/10/30/tempestade-valencia-espanha-mortes-enchentes)
+- [Chuva forte deixa ao menos 92 mortos na região de Valência](https://www.nexojornal.com.br/extra/2024/10/30/tempestade-valencia-espanha-mortes-enchentes)
 - [A revanche silenciosa da cloroquina](https://www.nexojornal.com.br/colunistas/2024/10/29/a-revanche-silenciosa-da-cloroquina)
 - [Burnout parental: nove em cada dez mães estão exaustas](https://www.nexojornal.com.br/externo/2024/10/29/burnout-parental-nove-em-cada-dez-maes-estao-exaustas)
 - [Como jornais dos EUA se posicionam nas eleições](https://www.nexojornal.com.br/expresso/2024/10/29/eleicoes-presidenciais-nos-estados-unidos-eua-jornal-posicionamento)
