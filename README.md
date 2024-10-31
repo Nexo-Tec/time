@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ronnie Lessa e Élcio de Queiroz são condenados a 78 e 59 anos](https://www.nexojornal.com.br/extra/2024/10/31/assassinos-marielle-e-anderson-condenados)
 - [Por que a Igreja Católica criou um personagem de anime](https://www.nexojornal.com.br/expresso/2024/10/31/igreja-catolica-personagem-de-anime-luce)
 - [Caça esportiva: quando matar financia a conservação](https://www.nexojornal.com.br/externo/2024/10/31/caca-esportiva-quando-matar-financia-a-conservacao)
 - [Desemprego cai para 6,4% e tem melhor trimestre desde 2014](https://www.nexojornal.com.br/extra/2024/10/31/desemprego-terceiro-trimestre-2024)
 - [7 performances do pianista Arthur Moreira Lima](https://www.nexojornal.com.br/expresso/2024/10/31/arthur-moreira-lima-morreu-concertos)
-- [Os depoimentos do 1º dia do julgamento do caso Marielle](https://www.nexojornal.com.br/extra/2024/10/31/depoimentos-julgamento-marielle-franco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
