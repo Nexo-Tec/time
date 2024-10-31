@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [7 performances do pianista Arthur Moreira Lima](https://www.nexojornal.com.br/expresso/2024/10/31/arthur-moreira-lima-morreu-concertos)
 - [Os depoimentos do 1º dia do julgamento do caso Marielle](https://www.nexojornal.com.br/extra/2024/10/31/depoimentos-julgamento-marielle-franco)
 - [Como a compostagem ganha protagonismo no Brasil](https://www.nexojornal.com.br/externo/2024/10/30/agricultura-brasil-compostagem-importancia)
 - [A democracia americana corre sério risco](https://www.nexojornal.com.br/colunistas/2024/10/30/a-democracia-americana-corre-serio-risco)
 - [O que você sabe sobre filmes de terror? Faça o teste](https://www.nexojornal.com.br/interativo/2024/10/30/halloween-filme-terror-teste-quiz)
-- [O que acontece se a eleição americana terminar empatada](https://www.nexojornal.com.br/expresso/2024/10/30/eleicoes-presidenciais-nos-estados-unidos-eua-donald-trump-kamala-harris-empate)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
