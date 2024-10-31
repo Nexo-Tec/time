@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A branquitude não para, a branquitude dá um tempo](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-branquitude-nao-para-a-branquitude-da-um-tempo/)
-- [Antonio Cicero nos levou a lugares que, sem ele, não teriam entrado no mapa](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/antonio-cicero/)
-- [“O Quarto ao Lado”, primeiro longa de Almodóvar em inglês](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-quarto-ao-lado-primeiro-longa-de-almodovar-em-ingles/)
-- [Exposição que reúne a arte negra de Brasil e EUA](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-que-reune-a-arte-negra-de-brasil-e-eua/)
-- [O podcast “Portas Fechadas”, sobre os bastidores da Varig](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-portas-fechadas-sobre-os-bastidores-da-varig/)
+- [Larissa Bocchino](https://gamarevista.uol.com.br/pessoas/questionario-proust/larissa-bocchino/)
+- [Alô, Sabino? Quem fala é a menina da sua Última Crônica](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/alo-sabino-quem-fala-e-a-menina-da-sua-ultima-cronica/)
+- [Como formar leitores críticos](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/como-formar-leitores-criticos/)
+- [@shakira](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/shakira/)
+- [Se você saísse à francesa](https://gamarevista.uol.com.br/colunistas/fernando-luna/se-voce-saisse-a-francesa/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
