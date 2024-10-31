@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a compostagem ganha protagonismo no Brasil](https://www.nexojornal.com.br/externo/2024/10/30/agricultura-brasil-compostagem-importancia)
+- [A democracia americana corre sério risco](https://www.nexojornal.com.br/colunistas/2024/10/30/a-democracia-americana-corre-serio-risco)
+- [O que você sabe sobre filmes de terror? Faça o teste](https://www.nexojornal.com.br/interativo/2024/10/30/halloween-filme-terror-teste-quiz)
+- [O que acontece se a eleição americana terminar empatada](https://www.nexojornal.com.br/expresso/2024/10/30/eleicoes-presidenciais-nos-estados-unidos-eua-donald-trump-kamala-harris-empate)
 - [Emenda parlamentar, eleição municipal e o futuro de Lula](https://www.nexojornal.com.br/podcast/2024/10/30/politica-emenda-parlamentar-impacto-reeleicao-lula)
-- [Venezuela convoca embaixador no Brasil e crítica governo Lula](https://www.nexojornal.com.br/extra/2024/10/30/venezuela-convoca-embaixador-no-brasil-e-critica-governo-lula)
-- [A série sobre as horas que precederam a chacina da Candelária](https://www.nexojornal.com.br/expresso/2024/10/30/a-chacina-da-candelaria-minisserie-netflix)
-- [‘Brasil está na contramão do debate sobre privatização’](https://www.nexojornal.com.br/externo/2024/10/30/privatizacao-no-brasil-debate)
-- [As odisseias de filmes que registraram os crimes da ditadura](https://www.nexojornal.com.br/expresso/2024/10/30/livro-cinema-de-arquivo-crimes-ditadura-militar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
