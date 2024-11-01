@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Ronnie Lessa e Élcio de Queiroz são condenados a 78 e 59 anos](https://www.nexojornal.com.br/extra/2024/10/31/assassinos-marielle-e-anderson-condenados)
-- [Por que a Igreja Católica criou um personagem de anime](https://www.nexojornal.com.br/expresso/2024/10/31/igreja-catolica-personagem-de-anime-luce)
-- [Caça esportiva: quando matar financia a conservação](https://www.nexojornal.com.br/externo/2024/10/31/caca-esportiva-quando-matar-financia-a-conservacao)
-- [Desemprego cai para 6,4% e tem melhor trimestre desde 2014](https://www.nexojornal.com.br/extra/2024/10/31/desemprego-terceiro-trimestre-2024)
-- [7 performances do pianista Arthur Moreira Lima](https://www.nexojornal.com.br/expresso/2024/10/31/arthur-moreira-lima-morreu-concertos)
+- [Por que indígenas buscam protagonismo diplomático](https://www.nexojornal.com.br/expresso/2024/10/31/indigenas-protagonismo-diplomatico-g9-da-amazonia-indigena)
+- [Como a ideologia fascista explica a extrema direita atual](https://www.nexojornal.com.br/academico/2024/10/31/como-a-ideologia-fascista-explica-a-extrema-direita-contemporanea)
+- [Por que os EUA ainda mantêm o embargo econômico a Cuba](https://www.nexojornal.com.br/expresso/2024/10/31/eua-cuba-embargo-economico)
+- [Libertadores terá 5ª final consecutiva entre brasileiros](https://www.nexojornal.com.br/grafico/2024/10/31/final-copa-sul-americana-libertadores-2024)
+- [Injúria, IA e redes: um balanço do litígio eleitoral em SP](https://www.nexojornal.com.br/debate/2024/10/31/injuria-ia-e-redes-um-balanco-do-litigio-eleitoral-em-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
