@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para entender o pobre de direita no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/11/01/livro-politica-pobre-de-direita-brasil-jesse-de-souza)
+- [O que o The Cure fez ao longo dos 16 anos sem lançar álbuns](https://www.nexojornal.com.br/expresso/2024/11/01/musica-the-cure-lanca-songs-of-a-lost-world)
 - [‘Um animal selvagem’: um quebra-cabeças de mentiras e obsessões](https://www.nexojornal.com.br/estante-trechos/2024/11/01/livro-um-animal-selvagem-joel-dicker-trecho)
 - [Apoiadores de Evo tomam quartel e fazem reféns na Bolívia](https://www.nexojornal.com.br/extra/2024/11/01/bolivia-evo-morales-apoiadores-quartel-refem)
 - [‘Brat’ é eleita a palavra do ano pelo dicionário Collins](https://www.nexojornal.com.br/extra/2024/11/01/charli-xcx-brat-dicionario-collins-palavra-do-ano)
-- [O grafeno chega ao mercado](https://www.nexojornal.com.br/externo/2024/11/01/o-grafeno-chega-ao-mercado)
-- [Número de mortos em enchentes na Espanha sobe para 205](https://www.nexojornal.com.br/extra/2024/11/01/enchentes-na-espanha-valencia-mortos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
