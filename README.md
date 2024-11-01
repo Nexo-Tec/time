@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Por que indígenas buscam protagonismo diplomático](https://www.nexojornal.com.br/expresso/2024/10/31/indigenas-protagonismo-diplomatico-g9-da-amazonia-indigena)
 - [Como a ideologia fascista explica a extrema direita atual](https://www.nexojornal.com.br/academico/2024/10/31/como-a-ideologia-fascista-explica-a-extrema-direita-contemporanea)
 - [Por que os EUA ainda mantêm o embargo econômico a Cuba](https://www.nexojornal.com.br/expresso/2024/10/31/eua-cuba-embargo-economico)
-- [Libertadores terá 5ª final consecutiva entre brasileiros](https://www.nexojornal.com.br/grafico/2024/10/31/final-copa-sul-americana-libertadores-2024)
+- [Libertadores terá 6ª final entre brasileiros](https://www.nexojornal.com.br/grafico/2024/10/31/final-copa-sul-americana-libertadores-2024)
 - [Injúria, IA e redes: um balanço do litígio eleitoral em SP](https://www.nexojornal.com.br/debate/2024/10/31/injuria-ia-e-redes-um-balanco-do-litigio-eleitoral-em-sp)
 <!-- NEXO_LIST:END -->
 
