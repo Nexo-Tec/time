@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Um animal selvagem’: um quebra-cabeças de mentiras e obsessões](https://www.nexojornal.com.br/estante-trechos/2024/11/01/livro-um-animal-selvagem-joel-dicker-trecho)
+- [Apoiadores de Evo tomam quartel e fazem reféns na Bolívia](https://www.nexojornal.com.br/extra/2024/11/01/bolivia-evo-morales-apoiadores-quartel-refem)
 - [‘Brat’ é eleita a palavra do ano pelo dicionário Collins](https://www.nexojornal.com.br/extra/2024/11/01/charli-xcx-brat-dicionario-collins-palavra-do-ano)
 - [O grafeno chega ao mercado](https://www.nexojornal.com.br/externo/2024/11/01/o-grafeno-chega-ao-mercado)
 - [Número de mortos em enchentes na Espanha sobe para 205](https://www.nexojornal.com.br/extra/2024/11/01/enchentes-na-espanha-valencia-mortos)
-- [Por que indígenas buscam protagonismo diplomático](https://www.nexojornal.com.br/expresso/2024/10/31/indigenas-protagonismo-diplomatico-g9-da-amazonia-indigena)
-- [Como a ideologia fascista explica a extrema direita atual](https://www.nexojornal.com.br/academico/2024/10/31/como-a-ideologia-fascista-explica-a-extrema-direita-contemporanea)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
