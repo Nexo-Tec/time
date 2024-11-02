@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Na Pré-História não usavam lanças do jeito que você pensa](https://www.nexojornal.com.br/expresso/2024/11/02/na-pre-historia-lancas-estudo)
+- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/11/02/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-13)
+- [Por que só agora o Brasil se aproxima da Nova Rota da Seda?](https://www.nexojornal.com.br/externo/2024/11/02/brasil-china-nova-rota-da-seda)
 - [O que faz Lewis Hamilton ser tão adorado no Brasil](https://www.nexojornal.com.br/expresso/2024/11/02/lewis-hamilton-piloto-f1-relacao-brasil)
 - [Como ficam os mandantes após o júri de Marielle Franco](https://www.nexojornal.com.br/expresso/2024/11/02/caso-marielle-julgamento-mandantes-do-crime)
-- [5 livros para entender o pobre de direita no Brasil](https://www.nexojornal.com.br/estante-favoritos/2024/11/01/livro-politica-pobre-de-direita-brasil-jesse-de-souza)
-- [O que o The Cure fez ao longo dos 16 anos sem lançar álbuns](https://www.nexojornal.com.br/expresso/2024/11/01/musica-the-cure-lanca-songs-of-a-lost-world)
-- [‘Um animal selvagem’: um quebra-cabeças de mentiras e obsessões](https://www.nexojornal.com.br/estante-trechos/2024/11/01/livro-um-animal-selvagem-joel-dicker-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
