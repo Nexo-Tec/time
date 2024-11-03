@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os cineclubes que levam filmes a comunidades rurais](https://www.nexojornal.com.br/externo/2024/11/03/cineclubs-cinema-no-interior-do-pais)
+- [Qual é o futuro possível para o Airbnb?](https://www.nexojornal.com.br/ensaio/2024/11/03/airbnb-aluguel-futuro-possivel)
+- [‘Violência estatal é praticada para perpetuar racismo’](https://www.nexojornal.com.br/entrevista/2024/11/03/violencia-policial-movimento-negro-entrevista-paulo-cesar-ramos)
+- [Qual a lógica e o poder do centrão na política nacional do século 21](https://www.nexojornal.com.br/expresso/2024/11/03/politica-centrao-o-que-e-poder)
 - [Harris e Trump vão a ‘swing states’ na reta final da campanha](https://www.nexojornal.com.br/extra/2024/11/02/kamala-harris-donald-trump-swing-states-campanha)
-- [Na Pré-História não usavam lanças do jeito que você pensa](https://www.nexojornal.com.br/expresso/2024/11/02/na-pre-historia-lancas-estudo)
-- [3 boatos verificados esta semana para você ficar de olho](https://www.nexojornal.com.br/expresso/2024/11/02/3-boatos-verificados-esta-semana-para-voce-ficar-de-olho-13)
-- [Por que só agora o Brasil se aproxima da Nova Rota da Seda?](https://www.nexojornal.com.br/externo/2024/11/02/brasil-china-nova-rota-da-seda)
-- [O que faz Lewis Hamilton ser tão adorado no Brasil](https://www.nexojornal.com.br/expresso/2024/11/02/lewis-hamilton-piloto-f1-relacao-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
