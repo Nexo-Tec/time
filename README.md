@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Colômbia’ é indiciado como mandante da morte de Bruno e Dom](https://www.nexojornal.com.br/extra/2024/11/04/mandate-assassinato-bruno-dom)
 - [Os trabalhos de tapeçaria de Roberto Burle Marx](https://www.nexojornal.com.br/expresso/2024/11/03/burle-marx-tapecaria-livro)
 - [O perigo latente das armas de fogo artesanais](https://www.nexojornal.com.br/ensaio/2024/11/03/mortalidade-perigo-armas-de-fogo-artesanais)
 - [Como a eleição americana pode impactar o Brasil](https://www.nexojornal.com.br/expresso/2024/11/03/eleicoes-presidenciais-nos-estados-unidos-eua-impacto-brasil)
 - [Rei e premiê são hostilizados em região de tragédia na Espanha](https://www.nexojornal.com.br/extra/2024/11/03/rei-felipe-espanha-enchentes-valencia)
-- [Haddad desiste de viagem em meio a incerteza sobre ajuste](https://www.nexojornal.com.br/extra/2024/11/03/haddad-desiste-viagem-europa-dolar-corte-de-gastos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
