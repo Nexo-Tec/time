@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Bebê brasileiro de 1 ano morre no Líbano após ataque de Israel](https://www.nexojornal.com.br/extra/2024/11/04/bebe-morre-no-libano)
 - [Romântico e popular, cantor Agnaldo Rayol morre aos 86 anos](https://www.nexojornal.com.br/extra/2024/11/04/agnaldo-rayol-morre)
 - [O legado de Quincy Jones para a história da música pop](https://www.nexojornal.com.br/expresso/2024/11/04/o-legado-de-quincy-jones-para-a-historia-da-musica-pop)
 - [As crenças sobrenaturais dos povos medievais](https://www.nexojornal.com.br/externo/2024/11/04/as-crencas-sobrenaturais-dos-povos-medievais)
 - [‘Colômbia’ é indiciado como mandante da morte de Bruno e Dom](https://www.nexojornal.com.br/extra/2024/11/04/mandate-assassinato-bruno-dom)
-- [Os trabalhos de tapeçaria de Roberto Burle Marx](https://www.nexojornal.com.br/expresso/2024/11/03/burle-marx-tapecaria-livro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
