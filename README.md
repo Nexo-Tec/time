@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual a teia de relações no novo escândalo de venda de sentenças](https://www.nexojornal.com.br/expresso/2024/11/04/qual-a-teia-de-relacoes-no-novo-escandalo-de-venda-de-sentencas)
+- [O mapa que permite explorar abalos sísmicos pelo mundo](https://www.nexojornal.com.br/expresso/2024/11/04/mapa-terremoto-abalo-sismico-mundo-seismic-explorer)
+- [Novo mapeamento expõe diversidade da Caatinga](https://www.nexojornal.com.br/externo/2024/11/04/mapeamento-mostra-diversidade-na-caatinga)
+- [Como o discurso ‘Trump ou fraude’ afeta a democracia dos EUA](https://www.nexojornal.com.br/expresso/2024/11/04/trump-discurso-fraude-eleitoral-democracia-eua)
 - [Bebê brasileiro de 1 ano morre no Líbano após ataque de Israel](https://www.nexojornal.com.br/extra/2024/11/04/bebe-morre-no-libano)
-- [Romântico e popular, cantor Agnaldo Rayol morre aos 86 anos](https://www.nexojornal.com.br/extra/2024/11/04/agnaldo-rayol-morre)
-- [O legado de Quincy Jones para a história da música pop](https://www.nexojornal.com.br/expresso/2024/11/04/o-legado-de-quincy-jones-para-a-historia-da-musica-pop)
-- [As crenças sobrenaturais dos povos medievais](https://www.nexojornal.com.br/externo/2024/11/04/as-crencas-sobrenaturais-dos-povos-medievais)
-- [‘Colômbia’ é indiciado como mandante da morte de Bruno e Dom](https://www.nexojornal.com.br/extra/2024/11/04/mandate-assassinato-bruno-dom)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
