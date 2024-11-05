@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Evento debate o futuro e os desafios da filantropia com participações globais](https://gamarevista.uol.com.br/especial/evento-debate-o-futuro-e-os-desafios-da-filantropia-com-participacoes-globais/)
+- [Maria Beraldo](https://gamarevista.uol.com.br/pessoas/questionario-proust/maria-beraldo/)
+- [@lewishamilton](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/lewishamilton/)
+- [Gama faz parceria com Instituto Beja para discutir visão inovadora da filantropia](https://gamarevista.uol.com.br/apoio-institucional/gama-faz-parceria-com-instituto-beja-para-discutir-visao-inovadora-da-filantropia/)
 - [Eleições americanas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/eleicoes-americanas/)
-- [Sandra Doria: “Não é normal roncar em nenhuma idade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sandra-doria-nao-e-normal-roncar-em-nenhuma-idade/)
-- [Gente Ultraprocessada](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gente-ultraprocessada/)
-- [7 episódios do Podcast da Semana sobre arte e cultura](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/7-episodios-do-podcast-da-semana-sobre-arte-e-cultura/)
-- [Noite de neo-soul, R&amp;B e Hip Hop com Erykah Badu, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/noite-de-neo-soul-rb-e-hip-hop-com-erykah-badu-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
