@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A newsletter que envia trechos de ‘Drácula’ seguindo datas da obra](https://www.nexojornal.com.br/expresso/2024/11/05/dracula-newsletter-trechos-daily)
+- [Atacante do Flamengo é alvo de operação da Polícia Federal](https://www.nexojornal.com.br/extra/2024/11/05/bruno-henrique-atacante-flamengo-alvo-operacao-pf)
 - [Mudar de escola: o que é mais importante para crianças e pais](https://www.nexojornal.com.br/externo/2024/11/05/como-mudar-de-escola-criancas-pais)
 - [Voto a voto nos EUA: resultado da 1ª urna é empatado](https://www.nexojornal.com.br/extra/2024/11/05/resultado-urna-dixville-notch-empatado-eleicao-eua)
 - [Qual a teia de relações no novo escândalo de venda de sentenças](https://www.nexojornal.com.br/expresso/2024/11/04/qual-a-teia-de-relacoes-no-novo-escandalo-de-venda-de-sentencas)
-- [O mapa que permite explorar abalos sísmicos pelo mundo](https://www.nexojornal.com.br/expresso/2024/11/04/mapa-terremoto-abalo-sismico-mundo-seismic-explorer)
-- [Novo mapeamento expõe diversidade da Caatinga](https://www.nexojornal.com.br/externo/2024/11/04/mapeamento-mostra-diversidade-na-caatinga)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
