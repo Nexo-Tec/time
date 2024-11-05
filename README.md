@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Voto a voto nos EUA: resultado da 1ª urna é empatado](https://www.nexojornal.com.br/extra/2024/11/05/resultado-urna-dixville-notch-empatado-eleicao-eua)
 - [Qual a teia de relações no novo escândalo de venda de sentenças](https://www.nexojornal.com.br/expresso/2024/11/04/qual-a-teia-de-relacoes-no-novo-escandalo-de-venda-de-sentencas)
 - [O mapa que permite explorar abalos sísmicos pelo mundo](https://www.nexojornal.com.br/expresso/2024/11/04/mapa-terremoto-abalo-sismico-mundo-seismic-explorer)
 - [Novo mapeamento expõe diversidade da Caatinga](https://www.nexojornal.com.br/externo/2024/11/04/mapeamento-mostra-diversidade-na-caatinga)
 - [Como o discurso ‘Trump ou fraude’ afeta a democracia dos EUA](https://www.nexojornal.com.br/expresso/2024/11/04/trump-discurso-fraude-eleitoral-democracia-eua)
-- [Bebê brasileiro de 1 ano morre no Líbano após ataque de Israel](https://www.nexojornal.com.br/extra/2024/11/04/bebe-morre-no-libano)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
