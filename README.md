@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [André Rebouças](https://pp.nexojornal.com.br/bibliografia-basica/2024/11/05/andre-reboucas/)
 - [5 pontos que pesquisas brasileiras demonstram sobre saúde mental materna e parentalidade](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/04/5-pontos-que-pesquisas-brasileiras-demonstram-sobre-saude-mental-materna-e-parentalidade/)
 - [Saúde suplementar](https://pp.nexojornal.com.br/glossario/2024/11/04/saude-suplementar/)
 - [Uma etnografia do desastre e da reconstrução do Museu Nacional](https://pp.nexojornal.com.br/academico/2024/11/04/uma-etnografia-do-desastre-e-da-reconstrucao-do-museu-nacional/)
 - [Tráfico de drogas: entre as piores formas de trabalho infantil](https://pp.nexojornal.com.br/bibliografia-basica/2024/11/04/trafico-de-drogas-entre-as-piores-formas-de-trabalho-infantil/)
-- [A importância de professores leitores e escritores no ensino de leitura e escrita](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/04/a-importancia-de-professores-leitores-e-escritores-no-ensino-de-leitura-e-escrita/)
 <!-- PP_LIST:END -->
 
