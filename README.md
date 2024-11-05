@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
-- [Um sistema de educação profissional para o Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/04/um-sistema-de-educacao-profissional-para-o-brasil/)
-- [Por que a nova longevidade é um tema central para o Brasil](https://pp.nexojornal.com.br/topico/2024/11/04/por-que-a-nova-longevidade-e-um-tema-central-para-o-brasil/)
-- [O futuro do crédito rural e o respeito à legislação brasileira](https://pp.nexojornal.com.br/opiniao/2024/10/30/o-futuro-do-credito-rural-e-o-respeito-a-legislacao-brasileira/)
-- [O vício em apostas: sinais, consequências, tratamentos e recomendações, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/10/29/o-vicio-em-apostas-sinais-consequencias-tratamentos-e-recomendacoes-em-9-pontos/)
-- [Quais os sentidos do secularismos](https://pp.nexojornal.com.br/opiniao/2024/10/29/quais-os-sentidos-do-secularismos/)
+- [5 pontos que pesquisas brasileiras demonstram sobre saúde mental materna e parentalidade](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/04/5-pontos-que-pesquisas-brasileiras-demonstram-sobre-saude-mental-materna-e-parentalidade/)
+- [Saúde suplementar](https://pp.nexojornal.com.br/glossario/2024/11/04/saude-suplementar/)
+- [Uma etnografia do desastre e da reconstrução do Museu Nacional](https://pp.nexojornal.com.br/academico/2024/11/04/uma-etnografia-do-desastre-e-da-reconstrucao-do-museu-nacional/)
+- [Tráfico de drogas: entre as piores formas de trabalho infantil](https://pp.nexojornal.com.br/bibliografia-basica/2024/11/04/trafico-de-drogas-entre-as-piores-formas-de-trabalho-infantil/)
+- [A importância de professores leitores e escritores no ensino de leitura e escrita](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/04/a-importancia-de-professores-leitores-e-escritores-no-ensino-de-leitura-e-escrita/)
 <!-- PP_LIST:END -->
 
