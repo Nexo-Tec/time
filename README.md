@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que você sabe sobre telescópios? Faça o teste](https://www.nexojornal.com.br/expresso/2024/11/05/telescopio-origem-e-historia-teste-quiz)
+- [A votação nos EUA. E a espera do resultado de uma eleição incerta](https://www.nexojornal.com.br/extra/2024/11/05/eleicao-nos-eua-estados-unidos-espera-resultado)
 - [Como animais reagem às mudanças de fases da lua](https://www.nexojornal.com.br/expresso/2024/11/05/lua-fase-mudanca-impacto-animais)
 - [Como a imigração pauta e transcende as eleições americanas](https://www.nexojornal.com.br/colunistas/2024/11/05/eleicoes-presidenciais-nos-estados-unidos-eua-imigracao)
 - [A newsletter que envia trechos de ‘Drácula’ seguindo datas da obra](https://www.nexojornal.com.br/expresso/2024/11/05/dracula-newsletter-trechos-daily)
-- [Atacante do Flamengo é alvo de operação da Polícia Federal](https://www.nexojornal.com.br/extra/2024/11/05/bruno-henrique-atacante-flamengo-alvo-operacao-pf)
-- [Mudar de escola: o que é mais importante para crianças e pais](https://www.nexojornal.com.br/externo/2024/11/05/como-mudar-de-escola-criancas-pais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
