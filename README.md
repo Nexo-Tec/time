@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A volta da HQ ‘O eternauta’ ao catálogo brasileiro](https://www.nexojornal.com.br/expresso/2024/11/06/hq-quadrinhos-o-eternauta-volta-ao-brasil)
+- [O que explica a vitória esmagadora de Trump](https://www.nexojornal.com.br/expresso/2024/11/06/resultado-eleicoes-presidenciais-nos-eua-diferenca-donald-trump-kamala-harris)
+- [Amazônia tem menor taxa de desmatamento em 9 anos](https://www.nexojornal.com.br/extra/2024/11/06/desmatamento-na-amazonia-e-no-cerrado-prodes)
+- [Como Joana d’Arc foi incorporada à cultura pop](https://www.nexojornal.com.br/expresso/2024/11/06/joana-darc-na-cultura-pop)
 - [Banco Central acelera ritmo de alta e juros vão a 11,25%](https://www.nexojornal.com.br/extra/2024/11/06/taxa-selic-aumento-banco-central)
-- [Pacote de cortes: a batata quente nas mãos de Haddad](https://www.nexojornal.com.br/podcast/2024/11/06/economia-brasil-revisao-de-gastos-governo-lula-2024)
-- [Vitória de Trump faz dólar disparar e bitcoin bater recorde](https://www.nexojornal.com.br/extra/2024/11/06/trump-presidente-alta-do-dolar-e-bitcoin-criptomoeda)
-- [A ‘solução nacional’ dos EUA sob efeito da Hiper-História](https://www.nexojornal.com.br/ensaio/2024/11/06/a-solucao-nacional-dos-eua-sob-efeito-da-hiper-historia)
-- [O sonho que tirou o mico-leão-preto da beira da extinção](https://www.nexojornal.com.br/externo/2024/11/06/mico-leao-preto-extincao-mata-atlantica-sp)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
