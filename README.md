@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Com 267 delegados, Trump declara vitória a apoiadores](https://www.nexojornal.com.br/extra/2024/11/06/trump-declara-vitoria-apoiadores-discurso-eleicao-2024)
+- [Donald Trump vence nos EUA e volta à Casa Branca após 4 anos](https://www.nexojornal.com.br/expresso/2024/11/06/donald-trump-presidente-eua-condenado)
+- [‘Essa vai ser a era de ouro da América’, diz Trump](https://www.nexojornal.com.br/extra/2024/11/06/trump-declara-vitoria-apoiadores-discurso-eleicao-2024)
 - [O que você sabe sobre telescópios? Faça o teste](https://www.nexojornal.com.br/expresso/2024/11/05/telescopio-origem-e-historia-teste-quiz)
 - [A votação nos EUA. E a espera do resultado de uma eleição incerta](https://www.nexojornal.com.br/extra/2024/11/05/eleicao-nos-eua-estados-unidos-espera-resultado)
 - [Como animais reagem às mudanças de fases da lua](https://www.nexojornal.com.br/expresso/2024/11/05/lua-fase-mudanca-impacto-animais)
-- [Como a imigração pauta e transcende as eleições americanas](https://www.nexojornal.com.br/colunistas/2024/11/05/eleicoes-presidenciais-nos-estados-unidos-eua-imigracao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
