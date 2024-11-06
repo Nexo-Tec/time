@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Envelhecer com dignidade: políticas de cuidado e a força das comunidades](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/06/envelhecer-com-dignidade-politicas-de-cuidado-e-a-forca-das-comunidades/)
 - [O perfil dos diretores das escolas brasileiras](https://pp.nexojornal.com.br/dados/2024/11/05/brasil-escola-colegio-direcao-perfil-diretores/)
 - [André Rebouças](https://pp.nexojornal.com.br/bibliografia-basica/2024/11/05/andre-reboucas/)
 - [5 pontos que pesquisas brasileiras demonstram sobre saúde mental materna e parentalidade](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/04/5-pontos-que-pesquisas-brasileiras-demonstram-sobre-saude-mental-materna-e-parentalidade/)
 - [Saúde suplementar](https://pp.nexojornal.com.br/glossario/2024/11/04/saude-suplementar/)
-- [Uma etnografia do desastre e da reconstrução do Museu Nacional](https://pp.nexojornal.com.br/academico/2024/11/04/uma-etnografia-do-desastre-e-da-reconstrucao-do-museu-nacional/)
 <!-- PP_LIST:END -->
 
