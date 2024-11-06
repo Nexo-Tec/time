@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Líderes internacionais parabenizam Trump por volta à presidência](https://www.nexojornal.com.br/extra/2024/11/06/repercussao-internacional-trump-presidente-eleito)
 - [Donald Trump vence nos EUA e volta à Casa Branca após 4 anos](https://www.nexojornal.com.br/expresso/2024/11/06/donald-trump-presidente-eua-condenado)
-- [‘Essa vai ser a era de ouro da América’, diz Trump](https://www.nexojornal.com.br/extra/2024/11/06/trump-declara-vitoria-apoiadores-discurso-eleicao-2024)
+- [‘Essa vai ser a era de ouro da América’, diz Trump após vitória](https://www.nexojornal.com.br/extra/2024/11/06/trump-declara-vitoria-apoiadores-discurso-eleicao-2024)
 - [O que você sabe sobre telescópios? Faça o teste](https://www.nexojornal.com.br/expresso/2024/11/05/telescopio-origem-e-historia-teste-quiz)
 - [A votação nos EUA. E a espera do resultado de uma eleição incerta](https://www.nexojornal.com.br/extra/2024/11/05/eleicao-nos-eua-estados-unidos-espera-resultado)
-- [Como animais reagem às mudanças de fases da lua](https://www.nexojornal.com.br/expresso/2024/11/05/lua-fase-mudanca-impacto-animais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
