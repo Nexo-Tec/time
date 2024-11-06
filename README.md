@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vitória de Trump faz dólar disparar e bitcoin bater recorde](https://www.nexojornal.com.br/extra/2024/11/06/trump-presidente-alta-do-dolar-e-bitcoin-criptomoeda)
+- [A ‘solução nacional’ dos EUA sob efeito da Hiper-História](https://www.nexojornal.com.br/ensaio/2024/11/06/a-solucao-nacional-dos-eua-sob-efeito-da-hiper-historia)
 - [O sonho que tirou o mico-leão-preto da beira da extinção](https://www.nexojornal.com.br/externo/2024/11/06/mico-leao-preto-extincao-mata-atlantica-sp)
 - [Líderes internacionais parabenizam Trump por volta à presidência](https://www.nexojornal.com.br/extra/2024/11/06/repercussao-internacional-trump-presidente-eleito)
 - [Donald Trump vence nos EUA e volta à Casa Branca após 4 anos](https://www.nexojornal.com.br/expresso/2024/11/06/donald-trump-presidente-eua-condenado)
-- [‘Essa vai ser a era de ouro da América’, diz Trump após vitória](https://www.nexojornal.com.br/extra/2024/11/06/trump-declara-vitoria-apoiadores-discurso-eleicao-2024)
-- [O que você sabe sobre telescópios? Faça o teste](https://www.nexojornal.com.br/expresso/2024/11/05/telescopio-origem-e-historia-teste-quiz)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
