@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Com extrema direita, política se alastrou para a vida’](https://www.nexojornal.com.br/entrevista/2024/11/07/trump-presidente-eua-impacto-politica-mundial-entrevista-isabela-kalil)
 - [A volta da HQ ‘O eternauta’ ao catálogo brasileiro](https://www.nexojornal.com.br/expresso/2024/11/06/hq-quadrinhos-o-eternauta-volta-ao-brasil)
 - [O que explica a vitória esmagadora de Trump](https://www.nexojornal.com.br/expresso/2024/11/06/resultado-eleicoes-presidenciais-nos-eua-diferenca-donald-trump-kamala-harris)
 - [Amazônia tem menor taxa de desmatamento em 9 anos](https://www.nexojornal.com.br/extra/2024/11/06/desmatamento-na-amazonia-e-no-cerrado-prodes)
 - [Como Joana d’Arc foi incorporada à cultura pop](https://www.nexojornal.com.br/expresso/2024/11/06/joana-darc-na-cultura-pop)
-- [Banco Central acelera ritmo de alta e juros vão a 11,25%](https://www.nexojornal.com.br/extra/2024/11/06/taxa-selic-aumento-banco-central)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
