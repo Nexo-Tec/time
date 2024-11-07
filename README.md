@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Filme da Netflix sobre o lendário produtor musical Quincy Jones](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-da-netflix-sobre-o-lendario-produtor-musical-quincy-jones/)
-- [“Chromakopia”, o novo álbum de Tyler, the Creator](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/chromakopia-o-novo-album-de-tyler-the-creator/)
-- [Thomaz Farkas no Instituto Moreira Salles, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/thomaz-farkas-no-instituto-moreira-salles-em-sao-paulo/)
-- [A dama brasileira amiga de reis e amante de Getúlio Vargas](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-dama-brasileira-amiga-de-reis-e-amante-de-getulio-vargas/)
-- [26ª Festa do Livro da USP](https://gamarevista.uol.com.br/achamos-que-vale/ir/26a-festa-do-livro-da-usp/)
+- [Eleições americanas](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/eleicoes-americanas/)
+- [Sandra Doria: “Não é normal roncar em nenhuma idade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sandra-doria-nao-e-normal-roncar-em-nenhuma-idade/)
+- [Gente Ultraprocessada](https://gamarevista.uol.com.br/cultura/trecho-de-livro/gente-ultraprocessada/)
+- [7 episódios do Podcast da Semana sobre arte e cultura](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/7-episodios-do-podcast-da-semana-sobre-arte-e-cultura/)
+- [Noite de neo-soul, R&amp;B e Hip Hop com Erykah Badu, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/noite-de-neo-soul-rb-e-hip-hop-com-erykah-badu-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
