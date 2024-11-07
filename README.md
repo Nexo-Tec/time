@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Biden promete ‘transição pacífica’ na volta de Trump](https://www.nexojornal.com.br/extra/2024/11/07/biden-promete-transicao-pacifica-com-trump)
 - [O perfil dos diretores das escolas brasileiras](https://www.nexojornal.com.br/grafico/2024/11/07/brasil-escola-colegio-direcao-perfil-diretores)
 - [Como a indústria farmacêutica cresceu tanto no século 21](https://www.nexojornal.com.br/academico/2024/11/07/industria-farmaceutica-crescimento-seculo-21)
 - [Indígenas criam formas de adaptação à seca na Amazônia](https://www.nexojornal.com.br/externo/2024/11/07/seca-amazonia-adaptacao-indigenas)
 - [‘Com extrema direita, política se alastrou para a vida’](https://www.nexojornal.com.br/entrevista/2024/11/07/trump-presidente-eua-impacto-politica-mundial-entrevista-isabela-kalil)
-- [A volta da HQ ‘O eternauta’ ao catálogo brasileiro](https://www.nexojornal.com.br/expresso/2024/11/06/hq-quadrinhos-o-eternauta-volta-ao-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
