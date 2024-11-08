@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Neurotransmissor com função dupla protege contra a obesidade](https://www.nexojornal.com.br/externo/2024/11/08/neurotransmissor-que-protege-da-obesidade)
 - [Brasil tem 8% da população vivendo em favelas, segundo Censo](https://www.nexojornal.com.br/extra/2024/11/08/numero-de-favelas-do-brasil-censo-2022)
 - [Inflação sobe acima das projeções com carne e luz mais caras](https://www.nexojornal.com.br/extra/2024/11/08/precos-sobem-inflacao-conta-de-luz-e-carne-caras)
 - [Como o Brasil reduziu suas emissões de gases de efeito estufa](https://www.nexojornal.com.br/expresso/2024/11/07/emissoes-gases-efeito-estufa-brasil)
 - [Como a emergência climática afeta a educação pública](https://www.nexojornal.com.br/externo/2024/11/07/mudancas-climaticas-impacto-educacao-publica)
-- [O Brasil de volta ao grid da Fórmula 1 com Gabriel Bortoleto](https://www.nexojornal.com.br/expresso/2024/11/07/formula-1-piloto-novo-brasileiro-gabriel-bortoleto-sauber)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
