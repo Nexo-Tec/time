@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Shirley Pimentel de Souza: educação escolar quilombola](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/11/08/shirley-pimentel-de-souza-educacao-escolar-quilombola/)
 - [De Cali a Belém – os resultados da COP da Biodiversidade e seus impactos para a transição dos sistemas agroalimentares](https://pp.nexojornal.com.br/opiniao/2024/11/07/de-cali-a-belem-os-resultados-da-cop-da-biodiversidade-e-seus-impactos-para-a-transicao-dos-sistemas-agroalimentares/)
 - [O Nobel de Economia e a persistência histórica da desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/11/07/o-nobel-de-economia-e-a-persistencia-historica-da-desigualdade-racial/)
 - [Envelhecer com dignidade: políticas de cuidado e a força das comunidades](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/06/envelhecer-com-dignidade-politicas-de-cuidado-e-a-forca-das-comunidades/)
 - [O perfil dos diretores das escolas brasileiras](https://pp.nexojornal.com.br/dados/2024/11/05/brasil-escola-colegio-direcao-perfil-diretores/)
-- [André Rebouças](https://pp.nexojornal.com.br/bibliografia-basica/2024/11/05/andre-reboucas/)
 <!-- PP_LIST:END -->
 
