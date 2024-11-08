@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a emergência climática afeta a educação pública](https://www.nexojornal.com.br/externo/2024/11/07/mudancas-climaticas-impacto-educacao-publica)
+- [Como o Brasil retorna ao grid da Fórmula 1 com Gabriel Bortoleto](https://www.nexojornal.com.br/expresso/2024/11/07/formula-1-piloto-novo-brasileiro-gabriel-bortoleto-sauber)
+- [Os municípios brasileiros com nomes de santos](https://www.nexojornal.com.br/grafico/2024/11/07/brasil-municipios-nome-de-santo)
+- [Os jogos criados por funcionários em greve do New York Times](https://www.nexojornal.com.br/expresso/2024/11/07/jogos-the-new-york-times-greve-funcionarios-tecnologia)
 - [Biden promete ‘transição pacífica’ na volta de Trump](https://www.nexojornal.com.br/extra/2024/11/07/biden-promete-transicao-pacifica-com-trump)
-- [Qual o perfil dos diretores das escolas brasileiras](https://www.nexojornal.com.br/grafico/2024/11/07/brasil-escola-colegio-direcao-perfil-diretores)
-- [Como a indústria farmacêutica cresceu tanto no século 21](https://www.nexojornal.com.br/academico/2024/11/07/industria-farmaceutica-crescimento-seculo-21)
-- [Indígenas criam formas de adaptação à seca na Amazônia](https://www.nexojornal.com.br/externo/2024/11/07/seca-amazonia-adaptacao-indigenas)
-- [‘Com extrema direita, política se alastrou para a vida’](https://www.nexojornal.com.br/entrevista/2024/11/07/trump-presidente-eua-impacto-politica-mundial-entrevista-isabela-kalil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
