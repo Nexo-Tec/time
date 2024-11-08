@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Polícia indicia Marçal por divulgar documento falso](https://www.nexojornal.com.br/extra/2024/11/08/pablo-marcal-indiciado-pela-pf-laudo-falso-contra-boulos)
+- [5 livros para refletir sobre as violências contra as mulheres](https://www.nexojornal.com.br/estante-favoritos/2024/11/08/violencia-contra-mulher-livro-referencia)
+- [Como o Nexo fez um mapa dos alertas climáticos no Brasil](https://www.nexojornal.com.br/grafico/2024/11/08/mapa-alerta-climatico-como-fazer-grafico-nexo)
+- [‘Autocracia S.A.’: como regimes autoritários se apoiam pelo mundo](https://www.nexojornal.com.br/estante-trechos/2024/11/08/livro-autocracia-sa-anne-applebaum-trecho)
 - [Neurotransmissor com função dupla protege contra a obesidade](https://www.nexojornal.com.br/externo/2024/11/08/neurotransmissor-que-protege-da-obesidade)
-- [Brasil tem 8% da população vivendo em favelas, segundo Censo](https://www.nexojornal.com.br/extra/2024/11/08/numero-de-favelas-do-brasil-censo-2022)
-- [Inflação sobe acima das projeções com carne e luz mais caras](https://www.nexojornal.com.br/extra/2024/11/08/precos-sobem-inflacao-conta-de-luz-e-carne-caras)
-- [Como o Brasil reduziu suas emissões de gases de efeito estufa](https://www.nexojornal.com.br/expresso/2024/11/07/emissoes-gases-efeito-estufa-brasil)
-- [Como a emergência climática afeta a educação pública](https://www.nexojornal.com.br/externo/2024/11/07/mudancas-climaticas-impacto-educacao-publica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
