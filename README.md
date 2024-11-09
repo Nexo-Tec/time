@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [COP16 avança em proteção, mas não em financiamento](https://www.nexojornal.com.br/externo/2024/11/08/meio-ambiente-cop16-protecao-biodiversidade)
 - [Como ‘Arcane’ explica o universo de ‘League of Legends’](https://www.nexojornal.com.br/expresso/2024/11/08/jogo-lol-league-of-legends-serie-netflix-arcane-segunda-temporada)
 - [De Biden para Trump: o que muda na relação com a América do Sul](https://www.nexojornal.com.br/expresso/2024/11/08/trump-presidente-eua-relacao-america-do-sul)
 - [Polícia indicia Marçal por divulgar documento falso](https://www.nexojornal.com.br/extra/2024/11/08/pablo-marcal-indiciado-pela-pf-laudo-falso-contra-boulos)
 - [5 livros para refletir sobre as violências contra as mulheres](https://www.nexojornal.com.br/estante-favoritos/2024/11/08/violencia-contra-mulher-livro-referencia)
-- [Como o Nexo fez um mapa dos alertas climáticos no Brasil](https://www.nexojornal.com.br/grafico/2024/11/08/mapa-alerta-climatico-como-fazer-grafico-nexo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
