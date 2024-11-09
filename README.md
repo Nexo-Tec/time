@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O apelo pelas mais de 46 mil espécies ameaçadas de extinção](https://www.nexojornal.com.br/externo/2024/11/09/especies-ameacadas-extincao)
+- [Como os problemas com IA alcançaram a Wikipédia](https://www.nexojornal.com.br/expresso/2024/11/09/wikipedia-inteligencia-artificial-ai-cleanup)
+- [O concurso para eleger as bonecas mais assustadoras](https://www.nexojornal.com.br/expresso/2024/11/09/bonecas-assustadoras-concurso-eua)
+- [A defesa da presença de mulheres negras aguerridas no G20](https://www.nexojornal.com.br/ensaio/2024/11/09/g20-presenca-de-mulheres-negras-no-encontro)
 - [Como a volta de Trump fortalece a influência de Elon Musk](https://www.nexojornal.com.br/expresso/2024/11/09/trump-presidente-eua-estados-unidos-relacao-elon-musk)
-- [Assassinato de delator do PCC em aeroporto mobiliza autoridades](https://www.nexojornal.com.br/extra/2024/11/09/assassinato-aeroporto-guarulhos)
-- [Por que o Brasil não regulou alimentos ultraprocessados](https://www.nexojornal.com.br/externo/2024/11/09/por-que-o-brasil-nao-regulou-alimentos-ultraprocessados)
-- [Como cientistas estão usando algas para produzir energia](https://www.nexojornal.com.br/expresso/2024/11/09/como-algas-se-transformam-em-energia)
-- [O site que mapeia ataques de corvos ao redor do mundo](https://www.nexojornal.com.br/expresso/2024/11/09/ataque-de-corvo-site-mapeamento-crowtrax)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
