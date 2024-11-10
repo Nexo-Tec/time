@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Fim de apuração nos EUA confirma melhor resultado de Trump](https://www.nexojornal.com.br/extra/2024/11/10/resultado-final-eleicao-eua-2024)
 - [O apelo pelas mais de 46 mil espécies ameaçadas de extinção](https://www.nexojornal.com.br/externo/2024/11/09/especies-ameacadas-extincao)
 - [Como os problemas com IA alcançaram a Wikipédia](https://www.nexojornal.com.br/expresso/2024/11/09/wikipedia-inteligencia-artificial-ai-cleanup)
 - [O concurso para eleger as bonecas mais assustadoras](https://www.nexojornal.com.br/expresso/2024/11/09/bonecas-assustadoras-concurso-eua)
 - [A defesa da presença de mulheres negras aguerridas no G20](https://www.nexojornal.com.br/ensaio/2024/11/09/g20-presenca-de-mulheres-negras-no-encontro)
-- [Como a volta de Trump fortalece a influência de Elon Musk](https://www.nexojornal.com.br/expresso/2024/11/09/trump-presidente-eua-estados-unidos-relacao-elon-musk)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
