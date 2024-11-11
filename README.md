@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [COP29 avança em regras para mercado global de carbono](https://www.nexojornal.com.br/extra/2024/11/11/regras-mercado-carbono)
 - [Estudo procura explicar como a endometriose se agrava e causa dor](https://www.nexojornal.com.br/externo/2024/11/11/pesquisa-sobre-dor-na-menstruacao-endometriose)
 - [COP29 começa com pessimismo quanto ao Acordo de Paris](https://www.nexojornal.com.br/extra/2024/11/11/acordo-de-paris-em-risco)
 - [Suplente de vereadora trans é alvo de crime brutal em Sinop](https://www.nexojornal.com.br/extra/2024/11/11/assassinato-trans-sinop)
 - [O neopopulismo é o novo modelo político-cultural dos EUA?](https://www.nexojornal.com.br/externo/2024/11/10/donald-trump-vitoria-eua-neopopulismo)
-- [As transformações do mercado de viagens aéreas brasileiro](https://www.nexojornal.com.br/ensaio/2024/11/10/viagem-aviao-mudanca-mercado-aereo-brasileiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
