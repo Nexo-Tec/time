@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o futuro da saúde e da ciência dos Estados Unidos](https://www.nexojornal.com.br/colunistas/2024/11/11/saude-e-ciencia-nos-eua-estados-unidos-futuro)
+- [Como jurados selaram a derrota de Vini Jr. na Bola de Ouro de 2024](https://www.nexojornal.com.br/expresso/2024/11/11/vinicius-junior-bola-de-ouro-jurados-que-nao-votaram-justificativa)
 - [COP29 avança em regras para mercado global de carbono](https://www.nexojornal.com.br/extra/2024/11/11/regras-mercado-carbono)
 - [Estudo procura explicar como a endometriose se agrava e causa dor](https://www.nexojornal.com.br/externo/2024/11/11/pesquisa-sobre-dor-na-menstruacao-endometriose)
 - [COP29 começa com pessimismo quanto ao Acordo de Paris](https://www.nexojornal.com.br/extra/2024/11/11/acordo-de-paris-em-risco)
-- [Suplente de vereadora trans é alvo de crime brutal em Sinop](https://www.nexojornal.com.br/extra/2024/11/11/assassinato-trans-sinop)
-- [O neopopulismo é o novo modelo político-cultural dos EUA?](https://www.nexojornal.com.br/externo/2024/11/10/donald-trump-vitoria-eua-neopopulismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
