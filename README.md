@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Suplente de vereadora trans é alvo de crime brutal em Sinop](https://www.nexojornal.com.br/extra/2024/11/11/assassinato-trans-sinop)
 - [O neopopulismo é o novo modelo político-cultural dos EUA?](https://www.nexojornal.com.br/externo/2024/11/10/donald-trump-vitoria-eua-neopopulismo)
 - [As transformações do mercado de viagens aéreas brasileiro](https://www.nexojornal.com.br/ensaio/2024/11/10/viagem-aviao-mudanca-mercado-aereo-brasileiro)
 - [7 chaves para entender o começo da COP29 no Azerbaijão](https://www.nexojornal.com.br/expresso/2024/11/10/meio-ambiente-cop29-o-que-esperar-baku-azerbaijan)
 - [Áudio aponta oferta de R$ 3 milhões por morte de delator do PCC](https://www.nexojornal.com.br/extra/2024/11/10/recompensa-pcc-assassinato-de-delator)
-- [Fim de apuração nos EUA confirma melhor resultado de Trump](https://www.nexojornal.com.br/extra/2024/11/10/resultado-final-eleicao-eua-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
