@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil volta a ganhar certificado de país livre de sarampo](https://www.nexojornal.com.br/extra/2024/11/12/sarampo-brasil-cartificado-da-opas)
 - [O histórico das eleições nos Estados Unidos por estado](https://www.nexojornal.com.br/grafico/2024/11/12/eleicoes-presidenciais-nos-eua-estados-unidos-historico-por-estado-grafico)
 - [Motorista insatisfeito com divórcio atropela e mata 35 na China](https://www.nexojornal.com.br/extra/2024/11/12/motorista-divorcio-atropelamento-mata-35-china)
 - [A movimentação nas redes pelo fim da escala de trabalho 6×1](https://www.nexojornal.com.br/expresso/2024/11/12/trabalho-escala-6x1-fim-debate-redes-sociais)
 - [Como a crise alemã pode alavancar a extrema direita](https://www.nexojornal.com.br/expresso/2024/11/11/alemanha-crise-fortalece-extrema-direita)
-- [Os concursos jocosos de sósias de atores de Hollywood](https://www.nexojornal.com.br/expresso/2024/11/11/concurso-sosia-atores-hollywood-timothee-chalamet)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
