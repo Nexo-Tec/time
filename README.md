@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A movimentação nas redes pelo fim da escala de trabalho 6×1](https://www.nexojornal.com.br/expresso/2024/11/12/trabalho-escala-6x1-fim-debate-redes-sociais)
 - [Como a crise alemã pode alavancar a extrema direita](https://www.nexojornal.com.br/expresso/2024/11/11/alemanha-crise-fortalece-extrema-direita)
 - [Os concursos jocosos de sósias de atores de Hollywood](https://www.nexojornal.com.br/expresso/2024/11/11/concurso-sosia-atores-hollywood-timothee-chalamet)
 - [Os fungos podem realmente causar um apocalipse zumbi?](https://www.nexojornal.com.br/externo/2024/11/11/fungos-apocalipse-zumbi)
 - [Qual o futuro da saúde e da ciência dos Estados Unidos](https://www.nexojornal.com.br/colunistas/2024/11/11/saude-e-ciencia-nos-eua-estados-unidos-futuro)
-- [Como jurados selaram a derrota de Vini Jr. na Bola de Ouro de 2024](https://www.nexojornal.com.br/expresso/2024/11/11/vinicius-junior-bola-de-ouro-jurados-que-nao-votaram-justificativa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
