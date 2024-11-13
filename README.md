@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Microscopia de attosegundos: observando a dança dos elétrons](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/microscopia-de-attosegundos-observando-a-danca-dos-eletrons/)
+- [Tomate beefsteak](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/tomate-beefsteak/)
+- [@ludmilla](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/ludmilla/)
+- [Ferrugem](https://gamarevista.uol.com.br/pessoas/questionario-proust/ferrugem/)
 - [Aline Wolff: “Ficar atento por horas gasta energia física”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/aline-wolff/)
-- [Democracia cansa?](https://gamarevista.uol.com.br/colunistas/maria-homem/democracia-cansa/)
-- [De Quatro](https://gamarevista.uol.com.br/cultura/trecho-de-livro/de-quatro/)
-- [Filme da Netflix sobre o lendário produtor musical Quincy Jones](https://gamarevista.uol.com.br/achamos-que-vale/assistir/filme-da-netflix-sobre-o-lendario-produtor-musical-quincy-jones/)
-- [“Chromakopia”, o novo álbum de Tyler, the Creator](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/chromakopia-o-novo-album-de-tyler-the-creator/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
