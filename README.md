@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A gestão contemporânea da velhice e do envelhecimento, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/13/a-gestao-contemporanea-da-velhice-e-do-envelhecimento-em-4-pontos/)
 - [Uso de câmeras corporais por forças policiais no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/11/11/uso-de-cameras-corporais-por-forcas-policiais-no-brasil/)
 - [Shirley Pimentel de Souza: educação escolar quilombola](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/11/08/shirley-pimentel-de-souza-educacao-escolar-quilombola/)
 - [De Cali a Belém – os resultados da COP da Biodiversidade e seus impactos para a transição dos sistemas agroalimentares](https://pp.nexojornal.com.br/opiniao/2024/11/07/de-cali-a-belem-os-resultados-da-cop-da-biodiversidade-e-seus-impactos-para-a-transicao-dos-sistemas-agroalimentares/)
 - [O Nobel de Economia e a persistência histórica da desigualdade racial](https://pp.nexojornal.com.br/opiniao/2024/11/07/o-nobel-de-economia-e-a-persistencia-historica-da-desigualdade-racial/)
-- [Envelhecer com dignidade: políticas de cuidado e a força das comunidades](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/06/envelhecer-com-dignidade-politicas-de-cuidado-e-a-forca-das-comunidades/)
 <!-- PP_LIST:END -->
 
