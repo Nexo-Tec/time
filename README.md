@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O primeiro jogo da Nintendo em que a Zelda é protagonista](https://www.nexojornal.com.br/expresso/2024/11/13/jogo-nintendo-zelda-protagonista-echoes-of-wisdom)
+- [Entranhas do crime organizado: a morte do delator do PCC](https://www.nexojornal.com.br/podcast/2024/11/13/delator-pcc-morto-aeroporto-poder-da-faccao)
 - [Os 50 anos de carreira da paraibana Cátia de França](https://www.nexojornal.com.br/externo/2024/11/13/musica-carreira-musicista-catia-de-franca-50-anos)
 - [Fux manda governo impedir uso do Bolsa Família em apostas](https://www.nexojornal.com.br/extra/2024/11/13/apostas-bets-bolsa-familia-proibicao)
 - [PEC que acaba com escala 6×1 ganha apoio para tramitar](https://www.nexojornal.com.br/extra/2024/11/13/escala-6x1-erika-hilton-proposta-pode-tramitar-na-camara)
-- [Musk é nomeado para departamento de corte de gastos de Trump](https://www.nexojornal.com.br/extra/2024/11/13/musk-e-nomeado-para-departamento-de-corte-de-gastos-de-trump)
-- [A política externa de Trump não é nada mal para Lula e Amorim](https://www.nexojornal.com.br/colunistas/2024/11/12/eua-trump-presidente-politica-externa-brasil-impacto-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
