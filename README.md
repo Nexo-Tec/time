@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Musk é nomeado para departamento de corte de gastos de Trump](https://www.nexojornal.com.br/extra/2024/11/13/musk-e-nomeado-para-departamento-de-corte-de-gastos-de-trump)
 - [A política externa de Trump não é nada mal para Lula e Amorim](https://www.nexojornal.com.br/colunistas/2024/11/12/eua-trump-presidente-politica-externa-brasil-impacto-lula)
 - [Os maiores medos dos americanos em 2024, segundo este estudo](https://www.nexojornal.com.br/expresso/2024/11/12/medo-eua-2024-pesquisa-chapman-dos-medos-americanos)
 - [Como vitória de Trump reacende a questão da Cisjordânia](https://www.nexojornal.com.br/expresso/2024/11/12/trump-presidente-eua-impacto-cisjordania)
 - [O site que reúne designs de colchas ao redor do mundo](https://www.nexojornal.com.br/expresso/2024/11/12/colcha-cama-design-site-quilt-index)
-- [Brasil volta a ganhar certificado de país livre de sarampo](https://www.nexojornal.com.br/extra/2024/11/12/sarampo-brasil-cartificado-da-opas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
