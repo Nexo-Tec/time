@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As explosões na porta dos Três Poderes e seus impactos](https://www.nexojornal.com.br/expresso/2024/11/14/explosoes-tres-poderes-brasilia-supremo-tribunal-federal-impacto)
+- [Moraes vê ‘gabinete do ódio’ na origem do homem-bomba](https://www.nexojornal.com.br/extra/2024/11/14/moraes-gabinete-do-odio-homem-bomba)
 - [Chegou o curso de Introdução à redação de artigos científicos](https://www.nexojornal.com.br/cursos/2024/11/14/curso-introducao-a-redacao-de-artigos-cientificos)
 - [Por que a nova meta climática brasileira é insuficiente](https://www.nexojornal.com.br/expresso/2024/11/13/brasil-meio-ambiente-meta-climatica-cop29)
 - [Homem detona explosivos em frente ao Supremo e morre](https://www.nexojornal.com.br/extra/2024/11/13/explosoes-praca-dos-tres-poderes)
-- [Quais os impactos da proibição de celulares em escolas no Brasil](https://www.nexojornal.com.br/expresso/2024/11/13/celular-na-escola-impacto-proibicao)
-- [O pior de celulares e redes sociais é que destroem vida social](https://www.nexojornal.com.br/colunistas/2024/11/13/celular-rede-social-impacto-vida-social)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
