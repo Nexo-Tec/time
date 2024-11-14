@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lucas Inutilismo: ‘Sempre teve heavy metal nos meus vídeos’](https://www.nexojornal.com.br/entrevista/2024/11/14/lucas-inutilismo-album-humanamente-youtube-heavy-metal)
+- [Homem-bomba do Supremo deixa rastro de explosivos](https://www.nexojornal.com.br/extra/2024/11/14/explosivos-homem-bomba-supremo)
+- [‘Gladiador 2’ e a reciclagem de histórias em Hollywood](https://www.nexojornal.com.br/expresso/2024/11/14/filme-gladiador-2-cinema)
+- [‘Arca de Noé’ e ‘Os saltimbancos’: o apelo para as novas gerações](https://www.nexojornal.com.br/expresso/2024/11/14/filme-cinema-animacao-arca-de-noe-saltimbancos-nova-adaptacao)
 - [5 romances contemporâneos para pensar sobre o silêncio](https://www.nexojornal.com.br/estante-favoritos/2024/11/14/livro-romance-contemporaneo-silencio-indicacao-bruno-inacio)
-- [‘Inverno’: uma mulher à procura de suas origens](https://www.nexojornal.com.br/estante-trechos/2024/11/14/livro-inverno-veronica-botelho-trecho)
-- [Um Parque Nacional da Tijuca que poucos conhecem](https://www.nexojornal.com.br/externo/2024/11/14/um-parque-nacional-da-tijuca-que-poucos-conhecem)
-- [As explosões na porta dos Três Poderes e seus impactos](https://www.nexojornal.com.br/expresso/2024/11/14/explosoes-tres-poderes-brasilia-supremo-tribunal-federal-impacto)
-- [Moraes vê ‘gabinete do ódio’ na origem do homem-bomba](https://www.nexojornal.com.br/extra/2024/11/14/moraes-gabinete-do-odio-homem-bomba)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
