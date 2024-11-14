@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a nova meta climática brasileira é insuficiente](https://www.nexojornal.com.br/expresso/2024/11/13/brasil-meio-ambiente-meta-climatica-cop29)
+- [Polícia isola Praça dos Três Poderes após explosões](https://www.nexojornal.com.br/extra/2024/11/13/explosoes-praca-dos-tres-poderes)
+- [Quais os impactos da proibição de celulares em escolas no Brasil](https://www.nexojornal.com.br/expresso/2024/11/13/celular-na-escola-impacto-proibicao)
 - [O pior de celulares e redes sociais é que destroem vida social](https://www.nexojornal.com.br/colunistas/2024/11/13/celular-rede-social-impacto-vida-social)
 - [Javier Milei ordena retirada de delegação argentina da COP29](https://www.nexojornal.com.br/extra/2024/11/13/milei-argentina-fora-da-cop-mudancas-climaticas)
-- [O primeiro jogo da Nintendo em que Zelda é protagonista](https://www.nexojornal.com.br/expresso/2024/11/13/jogo-nintendo-zelda-protagonista-echoes-of-wisdom)
-- [Entranhas do crime organizado: a morte do delator do PCC](https://www.nexojornal.com.br/podcast/2024/11/13/delator-pcc-morto-aeroporto-poder-da-faccao)
-- [Os 50 anos de carreira da paraibana Cátia de França](https://www.nexojornal.com.br/externo/2024/11/13/musica-carreira-musicista-catia-de-franca-50-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
