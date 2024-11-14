@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O reconhecimento de uma fonte de cuidados à saúde por adolescentes brasileiros](https://pp.nexojornal.com.br/academico/2024/11/14/qual-a-percepcao-de-adolescentes-sobre-servicos-de-saude-ofertados-no-ambiente-escolar/)
 - [NDC Brasileira anunciada na COP29 em Baku, Azerbaijão](https://pp.nexojornal.com.br/opiniao/2024/11/14/ndc-brasileira-anunciada-na-cop29-em-baku-azerbaijao/)
 - [A gestão contemporânea da velhice e do envelhecimento, em 4 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/13/a-gestao-contemporanea-da-velhice-e-do-envelhecimento-em-4-pontos/)
 - [Uso de câmeras corporais por forças policiais no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/11/11/uso-de-cameras-corporais-por-forcas-policiais-no-brasil/)
 - [Shirley Pimentel de Souza: educação escolar quilombola](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/11/08/shirley-pimentel-de-souza-educacao-escolar-quilombola/)
-- [De Cali a Belém – os resultados da COP da Biodiversidade e seus impactos para a transição dos sistemas agroalimentares](https://pp.nexojornal.com.br/opiniao/2024/11/07/de-cali-a-belem-os-resultados-da-cop-da-biodiversidade-e-seus-impactos-para-a-transicao-dos-sistemas-agroalimentares/)
 <!-- PP_LIST:END -->
 
