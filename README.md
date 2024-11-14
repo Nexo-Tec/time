@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 romances contemporâneos para pensar sobre o silêncio](https://www.nexojornal.com.br/estante-favoritos/2024/11/14/livro-romance-contemporaneo-silencio-indicacao-bruno-inacio)
+- [‘Inverno’: uma mulher à procura de suas origens](https://www.nexojornal.com.br/estante-trechos/2024/11/14/livro-inverno-veronica-botelho-trecho)
+- [Um Parque Nacional da Tijuca que poucos conhecem](https://www.nexojornal.com.br/externo/2024/11/14/um-parque-nacional-da-tijuca-que-poucos-conhecem)
 - [As explosões na porta dos Três Poderes e seus impactos](https://www.nexojornal.com.br/expresso/2024/11/14/explosoes-tres-poderes-brasilia-supremo-tribunal-federal-impacto)
 - [Moraes vê ‘gabinete do ódio’ na origem do homem-bomba](https://www.nexojornal.com.br/extra/2024/11/14/moraes-gabinete-do-odio-homem-bomba)
-- [Chegou o curso de Introdução à redação de artigos científicos](https://www.nexojornal.com.br/cursos/2024/11/14/curso-introducao-a-redacao-de-artigos-cientificos)
-- [Por que a nova meta climática brasileira é insuficiente](https://www.nexojornal.com.br/expresso/2024/11/13/brasil-meio-ambiente-meta-climatica-cop29)
-- [Homem detona explosivos em frente ao Supremo e morre](https://www.nexojornal.com.br/extra/2024/11/13/explosoes-praca-dos-tres-poderes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
