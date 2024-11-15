@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [O que as escolas podem fazer em dias mais quentes e secos](https://www.nexojornal.com.br/externo/2024/11/14/o-que-as-escolas-podem-fazer-em-dias-mais-quentes-e-secos)
-- [A ciência por trás da ansiedade depois de beber](https://www.nexojornal.com.br/externo/2024/11/14/ansiedade-bebida-alcoolica-pesquisa)
-- [COP29: as ações do Azerbaijão contra jornalistas e ativistas](https://www.nexojornal.com.br/externo/2024/11/14/meio-ambiente-cop29-azerbaijao-censura-jornalistas-e-ativistas)
-- [De onde vem o abacate e onde a fruta é produzida](https://www.nexojornal.com.br/grafico/2024/11/14/abacate-origem-plantio-e-producao)
-- [Polícia prende hacker que ameaçou explodir Supremo](https://www.nexojornal.com.br/extra/2024/11/14/hacker-que-ameacou-bomba-no-supremo-stf-e-preso)
+- [Como o ataque em Brasília enfraquece a anistia bolsonarista](https://www.nexojornal.com.br/expresso/2024/11/15/explosoes-tres-poderes-brasilia-anistia-8-de-janeiro-impacto)
+- [Como estes artistas retrataram a Revolução Industrial](https://www.nexojornal.com.br/expresso/2024/11/15/arte-revolucao-industrial-mostra)
+- [Universidades federais enfrentam o desafio de furar a bolha acadêmica](https://www.nexojornal.com.br/externo/2024/11/15/brasil-universidade-pesquisa-cientifica-academica-divulgacao)
+- [Quais os benefícios evolutivos do esquecimento](https://www.nexojornal.com.br/externo/2024/11/15/memoria-fraca-esquecimento-beneficios-para-o-cerebro)
+- [O Programa Fome Zero e a segurança alimentar no Brasil](https://www.nexojornal.com.br/academico/2024/11/15/brasil-seguranca-alimentar-programa-fome-zero-influencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
