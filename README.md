@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que as escolas podem fazer em dias mais quentes e secos](https://www.nexojornal.com.br/externo/2024/11/14/o-que-as-escolas-podem-fazer-em-dias-mais-quentes-e-secos)
+- [A ciência por trás da ansiedade depois de beber](https://www.nexojornal.com.br/externo/2024/11/14/ansiedade-bebida-alcoolica-pesquisa)
+- [COP29: as ações do Azerbaijão contra jornalistas e ativistas](https://www.nexojornal.com.br/externo/2024/11/14/meio-ambiente-cop29-azerbaijao-censura-jornalistas-e-ativistas)
+- [De onde vem o abacate e onde a fruta é produzida](https://www.nexojornal.com.br/grafico/2024/11/14/abacate-origem-plantio-e-producao)
 - [Polícia prende hacker que ameaçou explodir Supremo](https://www.nexojornal.com.br/extra/2024/11/14/hacker-que-ameacou-bomba-no-supremo-stf-e-preso)
-- [Lucas Inutilismo: ‘Sempre teve heavy metal nos meus vídeos’](https://www.nexojornal.com.br/entrevista/2024/11/14/lucas-inutilismo-album-humanamente-youtube-heavy-metal)
-- [Homem-bomba do Supremo deixa rastro de explosivos](https://www.nexojornal.com.br/extra/2024/11/14/explosivos-homem-bomba-supremo)
-- [‘Gladiador 2’ e a reciclagem de histórias em Hollywood](https://www.nexojornal.com.br/expresso/2024/11/14/filme-gladiador-2-cinema)
-- [‘Arca de Noé’ e ‘Os saltimbancos’: o apelo para as novas gerações](https://www.nexojornal.com.br/expresso/2024/11/14/filme-cinema-animacao-arca-de-noe-saltimbancos-nova-adaptacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
