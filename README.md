@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula pede ‘jornadas de trabalho equilibradas’ no G20 Social](https://www.nexojornal.com.br/extra/2024/11/16/lula-g20-escala-6x1)
 - [Como o ataque em Brasília enfraquece a anistia bolsonarista](https://www.nexojornal.com.br/expresso/2024/11/15/explosoes-tres-poderes-brasilia-anistia-8-de-janeiro-impacto)
 - [Como estes artistas retrataram a Revolução Industrial](https://www.nexojornal.com.br/expresso/2024/11/15/arte-revolucao-industrial-mostra)
 - [Universidades federais enfrentam o desafio de furar a bolha acadêmica](https://www.nexojornal.com.br/externo/2024/11/15/brasil-universidade-pesquisa-cientifica-academica-divulgacao)
 - [Quais os benefícios evolutivos do esquecimento](https://www.nexojornal.com.br/externo/2024/11/15/memoria-fraca-esquecimento-beneficios-para-o-cerebro)
-- [O Programa Fome Zero e a segurança alimentar no Brasil](https://www.nexojornal.com.br/academico/2024/11/15/brasil-seguranca-alimentar-programa-fome-zero-influencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
