@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Biden visita Amazônia e promete US$ 50 milhões para floresta](https://www.nexojornal.com.br/extra/2024/11/17/biden-visita-amazonia-e-promete-us-50-milhoes-para-floresta)
 - [Qual a importância de regular o ciclo de vida do plástico](https://www.nexojornal.com.br/externo/2024/11/16/plastico-poluicao-tratado-global-regulacao)
 - [O protagonismo de crianças negras no afrofuturismo](https://www.nexojornal.com.br/externo/2024/11/16/empoderamento-negro-criancas-e-afrofuturismo)
 - [Os efeitos do PL que quer cobrar alunos de universidades públicas](https://www.nexojornal.com.br/ensaio/2024/11/16/cobrar-educacao-publica-universidade-pl)
 - [A teoria sobre o papel das savanas na evolução humana](https://www.nexojornal.com.br/expresso/2024/11/16/hipotese-savana-evolucao-humana)
-- [Lula pede ‘jornadas de trabalho equilibradas’ no G20 Social](https://www.nexojornal.com.br/extra/2024/11/16/lula-g20-escala-6x1)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
