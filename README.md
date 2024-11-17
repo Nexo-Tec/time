@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual a importância de regular o ciclo de vida do plástico](https://www.nexojornal.com.br/externo/2024/11/16/plastico-poluicao-tratado-global-regulacao)
+- [O protagonismo de crianças negras no afrofuturismo](https://www.nexojornal.com.br/externo/2024/11/16/empoderamento-negro-criancas-e-afrofuturismo)
+- [Os efeitos do PL que quer cobrar alunos de universidades públicas](https://www.nexojornal.com.br/ensaio/2024/11/16/cobrar-educacao-publica-universidade-pl)
+- [A teoria sobre o papel das savanas na evolução humana](https://www.nexojornal.com.br/expresso/2024/11/16/hipotese-savana-evolucao-humana)
 - [Lula pede ‘jornadas de trabalho equilibradas’ no G20 Social](https://www.nexojornal.com.br/extra/2024/11/16/lula-g20-escala-6x1)
-- [Como o ataque em Brasília enfraquece a anistia bolsonarista](https://www.nexojornal.com.br/expresso/2024/11/15/explosoes-tres-poderes-brasilia-anistia-8-de-janeiro-impacto)
-- [Como estes artistas retrataram a Revolução Industrial](https://www.nexojornal.com.br/expresso/2024/11/15/arte-revolucao-industrial-mostra)
-- [Universidades federais enfrentam o desafio de furar a bolha acadêmica](https://www.nexojornal.com.br/externo/2024/11/15/brasil-universidade-pesquisa-cientifica-academica-divulgacao)
-- [Quais os benefícios evolutivos do esquecimento](https://www.nexojornal.com.br/externo/2024/11/15/memoria-fraca-esquecimento-beneficios-para-o-cerebro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
