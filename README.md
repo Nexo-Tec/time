@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desigualdades raciais na primeira infância](https://pp.nexojornal.com.br/opiniao/2024/11/18/desigualdades-raciais-na-primeira-infancia/)
+- [André Rebouças e a luta pela abolição no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/11/18/andre-reboucas-e-a-luta-pela-abolicao-no-brasil/)
 - [Por que o orçamento público municipal pode mudar ao longo do ano](https://pp.nexojornal.com.br/academico/2024/11/14/por-que-o-orcamento-publico-municipal-muda-ao-longo-do-ano/)
 - [Usos e abusos: o direito e o poder das plataformas digitais](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/14/usos-e-abusos-o-direito-e-o-poder-das-plataformas-digitais-2/)
 - [A transição para a predominância do câncer como principal causa de morte no Brasil](https://pp.nexojornal.com.br/academico/2024/11/14/transicao-para-a-predominancia-do-cancer-como-principal-causa-de-morte-no-brasil/)
-- [O drama invisível das mulheres atingidas pela seca na Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/14/o-drama-invisivel-das-mulheres-atingidas-pela-seca-na-amazonia/)
-- [O reconhecimento de uma fonte de cuidados à saúde por adolescentes brasileiros](https://pp.nexojornal.com.br/academico/2024/11/14/qual-a-percepcao-de-adolescentes-sobre-servicos-de-saude-ofertados-no-ambiente-escolar/)
 <!-- PP_LIST:END -->
 
