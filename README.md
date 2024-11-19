@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A Procuradoria-Geral da República face a face com Bolsonaro](https://www.nexojornal.com.br/podcast/2024/11/19/papel-da-procuradoria-geral-da-republica-no-caso-bolsonaro)
 - [Qual o histórico da participação de atores negros em novelas](https://www.nexojornal.com.br/expresso/2024/11/19/qual-o-historico-da-participacao-de-atores-negros-em-novelas)
 - [Pesquisa aponta queda do número de leitores no Brasil](https://www.nexojornal.com.br/extra/2024/11/19/indice-de-leitura-no-brasil)
 - [Flávio Bolsonaro diz que pensar em matar não é crime](https://www.nexojornal.com.br/extra/2024/11/19/flavio-pensar-em-matar-nao-e-crime)
 - [10 livros para ler com as crianças no Dia da Consciência Negra](https://www.nexojornal.com.br/externo/2024/11/19/livros-infantis-consciencia-negra-criancas)
-- [PF prende militares suspeitos de planejar assassinato de Lula](https://www.nexojornal.com.br/extra/2024/11/19/pf-prende-militares-suspeitos-de-planejar-assassinato-de-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
