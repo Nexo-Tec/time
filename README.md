@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PF prende militares suspeitos de planejar assassinato de Lula](https://www.nexojornal.com.br/extra/2024/11/19/pf-prende-militares-suspeitos-de-planejar-assassinato-de-lula)
 - [Os temas prioritários do Brasil na declaração final do G20](https://www.nexojornal.com.br/expresso/2024/11/18/brasil-g20-prioridades-balanco-alianca-global-fome)
 - [Como reduzir a pegada de carbono pessoal do uso da internet](https://www.nexojornal.com.br/externo/2024/11/18/pegada-de-carbono-na-internet-como-reduzir)
 - [Senado conclui votação do projeto de lei das emendas](https://www.nexojornal.com.br/extra/2024/11/18/emendas-parlamentares-suspensas-projeto-de-lei-stf)
 - [O que a ciência diz sobre as frequências 741](https://www.nexojornal.com.br/expresso/2024/11/18/frequencias-741-bem-estar-ciencia)
-- [Por que a contagem de mais de 1.000 gols de Pelé é contestada](https://www.nexojornal.com.br/expresso/2024/11/18/contagem-mil-gols-pele-contestada-jogos-oficiais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
