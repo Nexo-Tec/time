@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Flávio Bolsonaro diz que pensar em matar não é crime](https://www.nexojornal.com.br/extra/2024/11/19/flavio-pensar-em-matar-nao-e-crime)
 - [10 livros para ler com as crianças no Dia da Consciência Negra](https://www.nexojornal.com.br/externo/2024/11/19/livros-infantis-consciencia-negra-criancas)
 - [PF prende militares suspeitos de planejar assassinato de Lula](https://www.nexojornal.com.br/extra/2024/11/19/pf-prende-militares-suspeitos-de-planejar-assassinato-de-lula)
 - [Os temas prioritários do Brasil na declaração final do G20](https://www.nexojornal.com.br/expresso/2024/11/18/brasil-g20-prioridades-balanco-alianca-global-fome)
 - [Como reduzir a pegada de carbono pessoal do uso da internet](https://www.nexojornal.com.br/externo/2024/11/18/pegada-de-carbono-na-internet-como-reduzir)
-- [Senado conclui votação do projeto de lei das emendas](https://www.nexojornal.com.br/extra/2024/11/18/emendas-parlamentares-suspensas-projeto-de-lei-stf)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
