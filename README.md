@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Escritoras expandem e alteram a existência de mulheres pretas](https://www.nexojornal.com.br/colunistas/2024/11/20/mulheres-negras-literatura)
 - [O recrudescimento ideológico da política externa de Milei](https://www.nexojornal.com.br/expresso/2024/11/19/politica-externa-ideologico-javier-milei-ultraconservador)
 - [A corrida entre países para enviar pessoas de volta à Lua](https://www.nexojornal.com.br/externo/2024/11/19/corrida-espacial-na-lua-china-e-estados-unidos)
 - [‘O afropessimismo sonha de uma maneira radical’](https://www.nexojornal.com.br/entrevista/2024/11/19/afropessimismo-violencia-racial-frank-wilderson)
 - [Acordo do G20 contra a fome chega tarde, mas não tarde demais](https://www.nexojornal.com.br/colunistas/2024/11/19/g20-acordo-contra-fome)
-- [A Procuradoria-Geral da República face a face com Bolsonaro](https://www.nexojornal.com.br/podcast/2024/11/19/papel-da-procuradoria-geral-da-republica-no-caso-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
