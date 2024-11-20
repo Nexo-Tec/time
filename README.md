@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Resultado de ‘Enem dos concursos’ tem divulgação adiada](https://www.nexojornal.com.br/extra/2024/11/20/cnu-lista-de-aprovados-adiada)
 - [Fazendeiros da França jogam estrume na rua contra Mercosul](https://www.nexojornal.com.br/extra/2024/11/20/fazendeiros-da-franca-contra-acordo-com-mercosul)
 - [Escritoras expandem e alteram a existência de mulheres pretas](https://www.nexojornal.com.br/colunistas/2024/11/20/mulheres-negras-literatura)
 - [O recrudescimento ideológico da política externa de Milei](https://www.nexojornal.com.br/expresso/2024/11/19/politica-externa-ideologico-javier-milei-ultraconservador)
 - [A corrida entre países para enviar pessoas de volta à Lua](https://www.nexojornal.com.br/externo/2024/11/19/corrida-espacial-na-lua-china-e-estados-unidos)
-- [‘O afropessimismo sonha de uma maneira radical’](https://www.nexojornal.com.br/entrevista/2024/11/19/afropessimismo-violencia-racial-frank-wilderson)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
