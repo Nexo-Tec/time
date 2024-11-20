@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O recrudescimento ideológico da política externa de Milei](https://www.nexojornal.com.br/expresso/2024/11/19/politica-externa-ideologico-javier-milei-ultraconservador)
+- [A corrida entre países para enviar pessoas de volta à Lua](https://www.nexojornal.com.br/externo/2024/11/19/corrida-espacial-na-lua-china-e-estados-unidos)
+- [‘O afropessimismo sonha de uma maneira radical’](https://www.nexojornal.com.br/entrevista/2024/11/19/afropessimismo-violencia-racial-frank-wilderson)
+- [Acordo do G20 contra a fome chega tarde, mas não tarde demais](https://www.nexojornal.com.br/colunistas/2024/11/19/g20-acordo-contra-fome)
 - [A Procuradoria-Geral da República face a face com Bolsonaro](https://www.nexojornal.com.br/podcast/2024/11/19/papel-da-procuradoria-geral-da-republica-no-caso-bolsonaro)
-- [Qual o histórico da participação de atores negros em novelas](https://www.nexojornal.com.br/expresso/2024/11/19/qual-o-historico-da-participacao-de-atores-negros-em-novelas)
-- [Pesquisa aponta queda do número de leitores no Brasil](https://www.nexojornal.com.br/extra/2024/11/19/indice-de-leitura-no-brasil)
-- [Flávio Bolsonaro diz que pensar em matar não é crime](https://www.nexojornal.com.br/extra/2024/11/19/flavio-pensar-em-matar-nao-e-crime)
-- [10 livros para ler com as crianças no Dia da Consciência Negra](https://www.nexojornal.com.br/externo/2024/11/19/livros-infantis-consciencia-negra-criancas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
