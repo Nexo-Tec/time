@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tribunal internacional emite ordem de prisão de Netanyahu](https://www.nexojornal.com.br/extra/2024/11/21/ordem-de-prisao-contra-netanyahu)
 - [O brasileiro trabalha muito ou pouco? Veja comparações](https://www.nexojornal.com.br/expresso/2024/11/20/jornada-de-trabalho-comparacao-brasil-mundo)
 - [A população urbana e rural do Brasil no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/11/20/populacao-rural-urbana-censo-ibge)
 - [O grupo de indígenas isolados sem proteção no Amazonas](https://www.nexojornal.com.br/externo/2024/11/20/indigenas-isolados-no-amazonas-funai)
 - [Resultado de ‘Enem dos concursos’ tem divulgação adiada](https://www.nexojornal.com.br/extra/2024/11/20/cnu-lista-de-aprovados-adiada)
-- [Fazendeiros da França jogam estrume na rua contra Mercosul](https://www.nexojornal.com.br/extra/2024/11/20/fazendeiros-da-franca-contra-acordo-com-mercosul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
