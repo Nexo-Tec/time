@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Expandindo programas de desenvolvimento infantil por meio de evidências](https://pp.nexojornal.com.br/opiniao/2024/11/21/expandindo-programas-de-desenvolvimento-infantil-por-meio-de-evidencias/)
 - [A polarização política, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/19/a-polarizacao-politica-em-9-pontos/)
 - [A trajetória antirracista pelas lentes da Memória Negra](https://pp.nexojornal.com.br/opiniao/2024/11/19/a-trajetoria-antirracista-pelas-lentes-da-memoria-negra/)
 - [Como índices do Enem retratam as desigualdades educacionais](https://pp.nexojornal.com.br/topico/2024/11/18/como-indices-do-enem-retratam-as-desigualdades-educacionais/)
 - [Quais os significados e efeitos de se identificar como preto ou pardo no Brasil](https://pp.nexojornal.com.br/academico/2024/11/18/quais-os-significados-e-efeitos-de-se-identificar-como-preto-ou-pardo-no-brasil/)
-- [Desigualdades raciais na primeira infância](https://pp.nexojornal.com.br/opiniao/2024/11/18/desigualdades-raciais-na-primeira-infancia/)
 <!-- PP_LIST:END -->
 
