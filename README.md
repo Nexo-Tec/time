@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O discurso racial e a imprensa brasileira no século 20](https://www.nexojornal.com.br/academico/2024/11/21/discurso-racial-racismo-imprensa-brasil)
+- [Rússia usa novo míssil contra Ucrânia ‘em resposta ao Ocidente’](https://www.nexojornal.com.br/extra/2024/11/21/russia-usa-novo-missil-contra-ucrania)
 - [O livro de Dom Phillips concluído por amigos após seu assassinato](https://www.nexojornal.com.br/externo/2024/11/21/livro-sobre-assassinato-de-dom-phillips-no-brasil)
 - [PF indicia Bolsonaro sob suspeita de tentar golpe de Estado](https://www.nexojornal.com.br/extra/2024/11/21/bolsonaro-indiciado-por-tentar-golpe)
 - [Tribunal internacional emite ordem de prisão de Netanyahu](https://www.nexojornal.com.br/extra/2024/11/21/ordem-de-prisao-contra-netanyahu)
-- [O brasileiro trabalha muito ou pouco? Veja comparações](https://www.nexojornal.com.br/expresso/2024/11/20/jornada-de-trabalho-comparacao-brasil-mundo)
-- [A população urbana e rural do Brasil no Censo de 2022](https://www.nexojornal.com.br/grafico/2024/11/20/populacao-rural-urbana-censo-ibge)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
