@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Se perdeu na trama? Veja o passo a passo do golpismo bolsonarista](https://www.nexojornal.com.br/expresso/2024/11/21/bolsonaro-indiciado-trama-golpismo)
 - [Qual a importância do Saturday Night Live para a comédia](https://www.nexojornal.com.br/expresso/2024/11/21/qual-a-importancia-do-saturday-night-live-para-a-comedia)
 - [Por que Tricia Hersey defende o cochilo como resistência](https://www.nexojornal.com.br/externo/2024/11/21/cochilo-como-resistencia-tricia-hersey)
 - [On e offline: construindo redes de proteção para crianças](https://www.nexojornal.com.br/colunistas/2024/11/21/criancas-e-adolescentes-seguranca-digital)
 - [O discurso racial e a imprensa brasileira no século 20](https://www.nexojornal.com.br/academico/2024/11/21/discurso-racial-racismo-imprensa-brasil)
-- [Rússia usa novo míssil contra Ucrânia ‘em resposta ao Ocidente’](https://www.nexojornal.com.br/extra/2024/11/21/russia-usa-novo-missil-contra-ucrania)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
