@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 autores contemporâneos que escrevem sobre o Pará](https://www.nexojornal.com.br/estante-favoritos/2024/11/22/livro-autores-para-contemporaneo-indicacao-izabella-cristo)
-- [Diretor é afastado após PM fazer alunos cantarem hino de ódio](https://www.nexojornal.com.br/extra/2024/11/22/colegio-militar-musica-sobre-matar)
-- [Como a grilagem e a ditadura tentaram se apoderar da Amazônia](https://www.nexojornal.com.br/externo/2024/11/22/livro-grilagem-na-amazonia-durante-ditadura)
-- [Como o Letterboxd se tornou um espaço para brigas de fãs](https://www.nexojornal.com.br/expresso/2024/11/22/letterboxd-wicked-gladiador-2)
-- [‘Criaturas noturnas’: uma jovem no sombrio universo adulto](https://www.nexojornal.com.br/estante-trechos/2024/11/22/livro-criaturas-noturnas-leila-mottley-trecho)
+- [Congresso da Nicarágua dá poder absoluto a Ortega](https://www.nexojornal.com.br/extra/2024/11/22/daniel-ortega-ormu-constituicao-poder-absoluto)
+- [A luta invisível da maternidade em ‘Ainda estou aqui’](https://www.nexojornal.com.br/externo/2024/11/22/ainda-estou-aqui-filme-maternidade-luto-familia)
+- [Como é feito o combate ao descarte impróprio de óleos no Brasil](https://www.nexojornal.com.br/expresso/2024/11/22/como-descartar-oleo-de-cozinha)
+- [Como abelhas decidem onde vão formar colmeias](https://www.nexojornal.com.br/expresso/2024/11/22/abelhas-votam-como-elas-fazem-colmeias)
+- [O canal esportivo de Whoopi Goldberg para atletas mulheres](https://www.nexojornal.com.br/expresso/2024/11/22/o-canal-esportivo-de-whoopi-goldberg-para-atletas-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
