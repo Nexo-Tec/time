@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual a importância do Saturday Night Live para a comédia](https://www.nexojornal.com.br/expresso/2024/11/21/qual-a-importancia-do-saturday-night-live-para-a-comedia)
+- [Por que Tricia Hersey defende o cochilo como resistência](https://www.nexojornal.com.br/externo/2024/11/21/cochilo-como-resistencia-tricia-hersey)
+- [On e offline: construindo redes de proteção para crianças](https://www.nexojornal.com.br/colunistas/2024/11/21/criancas-e-adolescentes-seguranca-digital)
 - [O discurso racial e a imprensa brasileira no século 20](https://www.nexojornal.com.br/academico/2024/11/21/discurso-racial-racismo-imprensa-brasil)
 - [Rússia usa novo míssil contra Ucrânia ‘em resposta ao Ocidente’](https://www.nexojornal.com.br/extra/2024/11/21/russia-usa-novo-missil-contra-ucrania)
-- [O livro de Dom Phillips concluído por amigos após seu assassinato](https://www.nexojornal.com.br/externo/2024/11/21/livro-sobre-assassinato-de-dom-phillips-no-brasil)
-- [PF indicia Bolsonaro sob suspeita de tentar golpe de Estado](https://www.nexojornal.com.br/extra/2024/11/21/bolsonaro-indiciado-por-tentar-golpe)
-- [Tribunal internacional emite ordem de prisão de Netanyahu](https://www.nexojornal.com.br/extra/2024/11/21/ordem-de-prisao-contra-netanyahu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
