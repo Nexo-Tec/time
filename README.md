@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que os maoris estão protestando na Nova Zelândia](https://www.nexojornal.com.br/expresso/2024/11/23/maoris-protesto-nova-zelandia-tratado-waitangi)
+- [Trama do golpe: como as Forças Armadas tratam seus indiciados](https://www.nexojornal.com.br/expresso/2024/11/23/forcas-armadas-militares-indiciados)
 - [Congresso da Nicarágua dá poder absoluto a Ortega](https://www.nexojornal.com.br/extra/2024/11/22/daniel-ortega-ormu-constituicao-poder-absoluto)
 - [A luta invisível da maternidade em ‘Ainda estou aqui’](https://www.nexojornal.com.br/externo/2024/11/22/ainda-estou-aqui-filme-maternidade-luto-familia)
 - [Como é feito o combate ao descarte impróprio de óleos no Brasil](https://www.nexojornal.com.br/expresso/2024/11/22/como-descartar-oleo-de-cozinha)
-- [Como abelhas decidem onde vão formar colmeias](https://www.nexojornal.com.br/expresso/2024/11/22/abelhas-votam-como-elas-fazem-colmeias)
-- [O canal esportivo de Whoopi Goldberg para atletas mulheres](https://www.nexojornal.com.br/expresso/2024/11/22/o-canal-esportivo-de-whoopi-goldberg-para-atletas-mulheres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
