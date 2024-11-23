@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A relevância de planejar a sucessão em organizações sociais](https://www.nexojornal.com.br/ensaio/2024/11/23/troca-de-lideranca-sucessao-em-organizacoes-sociais)
+- [Como o Shazam alcançou 100 bilhões de canções reconhecidas](https://www.nexojornal.com.br/expresso/2024/11/23/shazam-100-bilhoes-musicas-reconhecidas)
+- [Quais os desafios ambientais do próximo presidente do Uruguai](https://www.nexojornal.com.br/externo/2024/11/23/quais-os-desafios-ambientais-do-proximo-presidente-do-uruguai)
+- [Como o Brasil contribuiu para os estudos sobre evolução](https://www.nexojornal.com.br/expresso/2024/11/23/brasil-cientistas-evolucao-vida)
 - [Por que os maoris estão protestando na Nova Zelândia](https://www.nexojornal.com.br/expresso/2024/11/23/maoris-protesto-nova-zelandia-tratado-waitangi)
-- [Trama do golpe: como as Forças Armadas tratam seus indiciados](https://www.nexojornal.com.br/expresso/2024/11/23/forcas-armadas-militares-indiciados)
-- [Congresso da Nicarágua dá poder absoluto a Ortega](https://www.nexojornal.com.br/extra/2024/11/22/daniel-ortega-ormu-constituicao-poder-absoluto)
-- [A luta invisível da maternidade em ‘Ainda estou aqui’](https://www.nexojornal.com.br/externo/2024/11/22/ainda-estou-aqui-filme-maternidade-luto-familia)
-- [Como é feito o combate ao descarte impróprio de óleos no Brasil](https://www.nexojornal.com.br/expresso/2024/11/22/como-descartar-oleo-de-cozinha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
