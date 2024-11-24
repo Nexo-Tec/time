@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Hezbollah dispara onda de foguetes contra Israel](https://www.nexojornal.com.br/extra/2024/11/24/hezbollah-foguetes-israel-guerra-oriente-medio)
 - [O que foi decidido na COP29. E o que fica para a COP no Brasil](https://www.nexojornal.com.br/expresso/2024/11/23/cop29-acordo-final-baku-azerbaijan-meio-ambiente)
 - [A relevância de planejar a sucessão em organizações sociais](https://www.nexojornal.com.br/ensaio/2024/11/23/troca-de-lideranca-sucessao-em-organizacoes-sociais)
 - [Como o Shazam alcançou 100 bilhões de canções reconhecidas](https://www.nexojornal.com.br/expresso/2024/11/23/shazam-100-bilhoes-musicas-reconhecidas)
 - [Quais os desafios ambientais do próximo presidente do Uruguai](https://www.nexojornal.com.br/externo/2024/11/23/quais-os-desafios-ambientais-do-proximo-presidente-do-uruguai)
-- [Como o Brasil contribuiu para os estudos sobre evolução](https://www.nexojornal.com.br/expresso/2024/11/23/brasil-cientistas-evolucao-vida)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
