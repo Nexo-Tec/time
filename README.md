@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Hezbollah dispara onda de foguetes contra Israel](https://www.nexojornal.com.br/extra/2024/11/24/hezbollah-foguetes-israel-guerra-oriente-medio)
-- [O que foi decidido na COP29. E o que fica para a COP no Brasil](https://www.nexojornal.com.br/expresso/2024/11/23/cop29-acordo-final-baku-azerbaijan-meio-ambiente)
-- [A relevância de planejar a sucessão em organizações sociais](https://www.nexojornal.com.br/ensaio/2024/11/23/troca-de-lideranca-sucessao-em-organizacoes-sociais)
-- [Como o Shazam alcançou 100 bilhões de canções reconhecidas](https://www.nexojornal.com.br/expresso/2024/11/23/shazam-100-bilhoes-musicas-reconhecidas)
-- [Quais os desafios ambientais do próximo presidente do Uruguai](https://www.nexojornal.com.br/externo/2024/11/23/quais-os-desafios-ambientais-do-proximo-presidente-do-uruguai)
+- [Existe mesmo muito ‘chupim’ no Orçamento brasileiro?](https://www.nexojornal.com.br/expresso/2024/11/24/haddad-chupim-orcamento-brasileiro-beneficios-fiscal)
+- [O jogo baseado em Minecraft feito por uma IA generativa](https://www.nexojornal.com.br/expresso/2024/11/24/jogo-minecraft-ia-generativa-versao)
+- [Vantagens econômicas do monitoramento ambiental](https://www.nexojornal.com.br/ensaio/2024/11/24/vantagens-economicas-do-monitoramento-ambiental)
+- [O desgaste da ciência](https://www.nexojornal.com.br/externo/2024/11/24/pesquisadores-param-de-publicar-artigos-cientificos-dez-anos-apos-o-inicio-da-carreira)
+- [Leila Pereira é reeleita para presidência do Palmeiras](https://www.nexojornal.com.br/extra/2024/11/24/leila-pereira-palmeiras-reeleita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
