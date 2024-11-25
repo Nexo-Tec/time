@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O que acontece com os jovens na escola ao longo dos anos finais do ensino fundamental?](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/25/o-que-acontece-com-os-jovens-na-escola-ao-longo-dos-anos-finais-do-ensino-fundamental/)
+- [Ações afirmativas na pós-graduação: nova Lei de Cotas impulsiona a adesão pelas universidades](https://pp.nexojornal.com.br/opiniao/2024/11/25/acoes-afirmativas-na-pos-graduacao-nova-lei-de-cotas-impulsiona-a-adesao-pelas-universidades/)
 - [Expandindo programas de desenvolvimento infantil por meio de evidências](https://pp.nexojornal.com.br/opiniao/2024/11/21/expandindo-programas-de-desenvolvimento-infantil-por-meio-de-evidencias/)
 - [A polarização política, em 9 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2024/11/19/a-polarizacao-politica-em-9-pontos/)
 - [A trajetória antirracista pelas lentes da memória negra](https://pp.nexojornal.com.br/opiniao/2024/11/19/a-trajetoria-antirracista-pelas-lentes-da-memoria-negra/)
-- [Como índices do Enem retratam as desigualdades educacionais](https://pp.nexojornal.com.br/topico/2024/11/18/como-indices-do-enem-retratam-as-desigualdades-educacionais/)
-- [Quais os significados e efeitos de se identificar como preto ou pardo no Brasil](https://pp.nexojornal.com.br/academico/2024/11/18/quais-os-significados-e-efeitos-de-se-identificar-como-preto-ou-pardo-no-brasil/)
 <!-- PP_LIST:END -->
 
