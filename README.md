@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Um futuro sustentável deve incluir pessoas negras](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/um-futuro-sustentavel-deve-incluir-pessoas-negras/)
-- [@jota.peoficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/jota-peoficial/)
-- [Tati Machado](https://gamarevista.uol.com.br/pessoas/questionario-proust/tati-machado/)
-- [Thais Basile: “A criança internaliza a forma como é cuidada e amada”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/thais-basile/)
-- [Neca](https://gamarevista.uol.com.br/cultura/trecho-de-livro/neca/)
+- [Valentina Herszage](https://gamarevista.uol.com.br/pessoas/questionario-proust/valentina-herszage/)
+- [Geni Núñez: “A monogamia traz uma obsessão com a sexualidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/geni-nunez-a-monogamia/)
+- [O que é uma comida comum?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-e-uma-comida-comum/)
+- [Lélia Gonzalez](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lelia-gonzalez/)
+- [O curso online de Sueli Carneiro sobre racismo no Brasil, no Sesc Digital](https://gamarevista.uol.com.br/achamos-que-vale/fazer/o-curso-online-de-sueli-carneiro-sobre-racismo-no-brasil-no-sesc-digital/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
