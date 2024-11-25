@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o custo mental, emocional e físico de reclamar de tudo](https://www.nexojornal.com.br/externo/2024/11/25/impacto-reclamacoes-e-criticas-na-saude)
 - [Gaviões afasta musa do Carnaval após áudio racista](https://www.nexojornal.com.br/extra/2024/11/25/musa-gavioes-suspeita-racismo)
 - [Yamandú Orsi é eleito novo presidente do Uruguai](https://www.nexojornal.com.br/extra/2024/11/25/yamandu-orsi-eleito-presidente-uruguai)
 - [Existe mesmo muito ‘chupim’ no Orçamento brasileiro?](https://www.nexojornal.com.br/expresso/2024/11/24/haddad-chupim-orcamento-brasileiro-beneficios-fiscal)
 - [O jogo baseado em Minecraft feito por uma IA generativa](https://www.nexojornal.com.br/expresso/2024/11/24/jogo-minecraft-ia-generativa-versao)
-- [Vantagens econômicas do monitoramento ambiental](https://www.nexojornal.com.br/ensaio/2024/11/24/vantagens-economicas-do-monitoramento-ambiental)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
