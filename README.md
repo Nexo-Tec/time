@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o destino das exportações de carnes brasileiras](https://www.nexojornal.com.br/grafico/2024/11/26/exportacao-carne-brasil-destino)
 - [Moraes envia relatório sobre trama golpista à Procuradoria-Geral](https://www.nexojornal.com.br/extra/2024/11/26/moraes-relatorio-trama-golpista-pgr-investigacao)
 - [O monopólio de buscas do Google na mira da Justiça dos EUA](https://www.nexojornal.com.br/expresso/2024/11/25/google-monopolio-processo-justica-americana-navegador-chrome)
 - [Os desdobramentos do boicote do Carrefour à carne do Mercosul](https://www.nexojornal.com.br/expresso/2024/11/25/carrefour-carnes-mercosul-boicote)
 - [O desafio para a diplomacia brasileira imposto pela COP29](https://www.nexojornal.com.br/externo/2024/11/25/brasil-meio-ambiente-diplomacia-cop29)
-- [A dificuldade de traçar a genealogia de pessoas negras](https://www.nexojornal.com.br/externo/2024/11/25/ancestralidade-genealogia-dificuldade-pessoas-negras)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
