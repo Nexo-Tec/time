@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por um novo projeto nacional &lpar;e antirracista&rpar;](https://www.nexojornal.com.br/colunistas/2024/11/26/racismo-no-brasil-como-combater-questao-de-raca-e-classe)
 - [Bolsonaro teve domínio de plano golpista, diz Polícia Federal](https://www.nexojornal.com.br/extra/2024/11/26/jair-bolsonaro-golpe-de-estado-investigacao-policia-federal)
 - [Governo de Israel aprova cessar-fogo temporário no Líbano](https://www.nexojornal.com.br/extra/2024/11/26/cessar-fogo-gerra-israel-hezbollah-libano)
 - [Qual o destino das exportações de carnes brasileiras](https://www.nexojornal.com.br/grafico/2024/11/26/exportacao-carne-brasil-destino)
 - [Moraes envia relatório sobre trama golpista à Procuradoria-Geral](https://www.nexojornal.com.br/extra/2024/11/26/moraes-relatorio-trama-golpista-pgr-investigacao)
-- [O monopólio de buscas do Google na mira da Justiça dos EUA](https://www.nexojornal.com.br/expresso/2024/11/25/google-monopolio-processo-justica-americana-navegador-chrome)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
