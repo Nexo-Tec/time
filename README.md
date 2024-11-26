@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Rossano Cabral Lima: os danos do autodiagnóstico para crianças e adolescentes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/11/26/rossano-cabral-lima-danos-autodiagnostico-para-criancas-e-adolescentes/)
 - [COP29: acordo final traz desafios importantes para a COP30](https://pp.nexojornal.com.br/opiniao/2024/11/25/cop29-acordo-final-traz-desafios-importantes-para-cop30/)
 - [Voto das mulheres no Brasil: marcos da conquista do voto feminino](https://pp.nexojornal.com.br/linha-do-tempo/2024/11/25/voto-das-mulheres-no-brasil-marcos-da-conquista-do-voto-feminino/)
 - [O que acontece com os jovens na escola ao longo dos anos finais do ensino fundamental?](https://pp.nexojornal.com.br/ponto-de-vista/2024/11/25/o-que-acontece-com-os-jovens-na-escola-ao-longo-dos-anos-finais-do-ensino-fundamental/)
 - [Ações afirmativas na pós-graduação: nova Lei de Cotas impulsiona a adesão pelas universidades](https://pp.nexojornal.com.br/opiniao/2024/11/25/acoes-afirmativas-na-pos-graduacao-nova-lei-de-cotas-impulsiona-a-adesao-pelas-universidades/)
-- [Expandindo programas de desenvolvimento infantil por meio de evidências](https://pp.nexojornal.com.br/opiniao/2024/11/21/expandindo-programas-de-desenvolvimento-infantil-por-meio-de-evidencias/)
 <!-- PP_LIST:END -->
 
