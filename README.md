@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes envia relatório sobre trama golpista à Procuradoria-Geral](https://www.nexojornal.com.br/extra/2024/11/26/moraes-relatorio-trama-golpista-pgr-investigacao)
 - [O monopólio de buscas do Google na mira da Justiça dos EUA](https://www.nexojornal.com.br/expresso/2024/11/25/google-monopolio-processo-justica-americana-navegador-chrome)
 - [Os desdobramentos do boicote do Carrefour à carne do Mercosul](https://www.nexojornal.com.br/expresso/2024/11/25/carrefour-carnes-mercosul-boicote)
 - [O desafio para a diplomacia brasileira imposto pela COP29](https://www.nexojornal.com.br/externo/2024/11/25/brasil-meio-ambiente-diplomacia-cop29)
 - [A dificuldade de traçar a genealogia de pessoas negras](https://www.nexojornal.com.br/externo/2024/11/25/ancestralidade-genealogia-dificuldade-pessoas-negras)
-- [O projeto que restaurou obras de um ilustrador botânico](https://www.nexojornal.com.br/expresso/2024/11/25/redoute-projeto-lilies-and-roses-restored-illustrations-of-pierre-joseph-redoute)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
