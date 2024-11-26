@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O monopólio de buscas do Google na mira da Justiça dos EUA](https://www.nexojornal.com.br/expresso/2024/11/25/google-monopolio-processo-justica-americana-navegador-chrome)
+- [Os desdobramentos do boicote do Carrefour à carne do Mercosul](https://www.nexojornal.com.br/expresso/2024/11/25/carrefour-carnes-mercosul-boicote)
+- [O desafio para a diplomacia brasileira imposto pela COP29](https://www.nexojornal.com.br/externo/2024/11/25/brasil-meio-ambiente-diplomacia-cop29)
+- [A dificuldade de traçar a genealogia de pessoas negras](https://www.nexojornal.com.br/externo/2024/11/25/ancestralidade-genealogia-dificuldade-pessoas-negras)
 - [O projeto que restaurou obras de um ilustrador botânico](https://www.nexojornal.com.br/expresso/2024/11/25/redoute-projeto-lilies-and-roses-restored-illustrations-of-pierre-joseph-redoute)
-- [Gilberto Kassab: ‘PSD é liberal na economia sem foco em costumes’](https://www.nexojornal.com.br/video/2024/11/25/gilberto-kassab-psd-e-liberal-na-economia-sem-foco-em-costumes)
-- [Frigoríficos deixam de fornecer carne a lojas do Carrefour](https://www.nexojornal.com.br/extra/2024/11/25/boicote-carrefour-carne-brasileira)
-- [Temer diz que trama do golpe não pôs democracia em risco](https://www.nexojornal.com.br/extra/2024/11/25/temer-minimiza-tentativa-de-golpe)
-- [Qual o custo mental, emocional e físico de reclamar de tudo](https://www.nexojornal.com.br/externo/2024/11/25/impacto-reclamacoes-e-criticas-na-saude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
