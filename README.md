@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por um novo projeto nacional &lpar;e antirracista&rpar;](https://www.nexojornal.com.br/colunistas/2024/11/26/racismo-no-brasil-como-combater-questao-de-raca-e-classe)
-- [Bolsonaro teve domínio de plano golpista, diz Polícia Federal](https://www.nexojornal.com.br/extra/2024/11/26/jair-bolsonaro-golpe-de-estado-investigacao-policia-federal)
-- [Governo de Israel aprova cessar-fogo temporário no Líbano](https://www.nexojornal.com.br/extra/2024/11/26/cessar-fogo-gerra-israel-hezbollah-libano)
-- [Qual o destino das exportações de carnes brasileiras](https://www.nexojornal.com.br/grafico/2024/11/26/exportacao-carne-brasil-destino)
-- [Moraes envia relatório sobre trama golpista à Procuradoria-Geral](https://www.nexojornal.com.br/extra/2024/11/26/moraes-relatorio-trama-golpista-pgr-investigacao)
+- [3 frentes de reforma possível para as Forças Armadas](https://www.nexojornal.com.br/expresso/2024/11/26/forcas-armadas-possiveis-reformas-na-estrutura-militar)
+- [A controversa regravação de ‘Do They Know It’s Christmas’](https://www.nexojornal.com.br/expresso/2024/11/26/musica-regravacao-do-they-know-its-christmas-polemica)
+- [O que é o tratado contra o plástico discutido na ONU](https://www.nexojornal.com.br/expresso/2024/11/26/plastico-poluicao-meio-ambiente-tratado-mundial-onu)
+- [Pesquisas indicam novos usos para as microalgas](https://www.nexojornal.com.br/externo/2024/11/26/pesquisa-microalgas-biocombustiveis-e-fertilizante)
+- [Alimentação na COP30: o que o Brasil vai oferecer ao mundo?](https://www.nexojornal.com.br/externo/2024/11/26/cop30-no-brasil-alimentos-agricultura-familiar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
