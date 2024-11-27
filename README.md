@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Supremo julga responsabilidade das redes sociais](https://www.nexojornal.com.br/extra/2024/11/27/redes-sociais-supremo-marco-civil-da-internet)
 - [3 frentes de reforma possível para as Forças Armadas](https://www.nexojornal.com.br/expresso/2024/11/26/forcas-armadas-possiveis-reformas-na-estrutura-militar)
 - [A controversa regravação de ‘Do They Know It’s Christmas’](https://www.nexojornal.com.br/expresso/2024/11/26/musica-regravacao-do-they-know-its-christmas-polemica)
 - [O que é o tratado contra o plástico discutido na ONU](https://www.nexojornal.com.br/expresso/2024/11/26/plastico-poluicao-meio-ambiente-tratado-mundial-onu)
 - [Pesquisas indicam novos usos para as microalgas](https://www.nexojornal.com.br/externo/2024/11/26/pesquisa-microalgas-biocombustiveis-e-fertilizante)
-- [Alimentação na COP30: o que o Brasil vai oferecer ao mundo?](https://www.nexojornal.com.br/externo/2024/11/26/cop30-no-brasil-alimentos-agricultura-familiar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
