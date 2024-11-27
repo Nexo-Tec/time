@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A radicalização democrática da ciência](https://www.nexojornal.com.br/colunistas/2024/11/27/a-radicalizacao-democratica-da-ciencia)
+- [Escolhidos por Trump para novo governo são alvos de ameaças](https://www.nexojornal.com.br/extra/2024/11/27/escolhidos-por-trump-para-novo-governo-sao-alvos-de-ameacas)
 - [Assassinato, lobby e suspeitas de corrupção nos tribunais](https://www.nexojornal.com.br/podcast/2024/11/27/corrupcao-judiciario-venda-de-sentenca-stj)
 - [Como os mapas evoluíram até a criação do GPS](https://www.nexojornal.com.br/expresso/2024/11/27/evolucao-dos-mapas-na-sociedade-da-antiguidade-ate-gps)
 - [Haddad vai anunciar isenção de IR até R$ 5.000](https://www.nexojornal.com.br/extra/2024/11/27/taxa-de-isencao-do-imposto-de-renda-fernando-haddad-corte-de-gastos)
-- [A profusão de casos globais de furtos de queijos](https://www.nexojornal.com.br/expresso/2024/11/27/queijo-alimento-mais-roubado-em-mercado)
-- [Supremo julga responsabilidade das redes sociais](https://www.nexojornal.com.br/extra/2024/11/27/redes-sociais-supremo-marco-civil-da-internet)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
