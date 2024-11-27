@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@cynthiaerivo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cynthiaerivo/)
 - [Não quero faca nem queijo. Quero a fome](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-quero-faca-nem-queijo-quero-a-fome/)
 - [Valentina Herszage](https://gamarevista.uol.com.br/pessoas/questionario-proust/valentina-herszage/)
 - [Geni Núñez: “A monogamia traz uma obsessão com a sexualidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/geni-nunez-a-monogamia/)
 - [O que é uma comida comum?](https://gamarevista.uol.com.br/colunistas/isabelle-moreira-lima/o-que-e-uma-comida-comum/)
-- [Lélia Gonzalez](https://gamarevista.uol.com.br/cultura/trecho-de-livro/lelia-gonzalez/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
