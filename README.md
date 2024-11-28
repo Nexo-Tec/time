@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [COP 29 gera acordos frustrantes e indefinições para o futuro](https://gamarevista.uol.com.br/formato/reportagem/cop-29-gera-acordos-frustrantes-e-indefinicoes-para-o-futuro/)
-- [Sempre Repórter](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sempre-reporter/)
-- [Nada será como antes &lpar;e o governo federal ainda não entendeu isso&rpar;](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/nada-sera-como-antes-e-o-governo-federal-ainda-nao-entendeu-isso/)
-- [@cynthiaerivo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cynthiaerivo/)
-- [Não quero faca nem queijo. Quero a fome](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-quero-faca-nem-queijo-quero-a-fome/)
+- [“Anacrônico”, o novo álbum do brasiliense Jean Tassy](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/anacronico-o-novo-album-do-brasiliense-jean-tassy/)
+- [Lembretes e pensamentos de Christina Sharpe em “Algumas Notas do Dia a Dia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/lembretes-e-pensamentos-de-christina-sharpe-em-algumas-notas-do-dia-a-dia/)
+- [Documentário “Beatles 64”, produzido por Scorsese, no Disney+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-beatles-64-produzido-por-scorsese-no-disney/)
+- [O novo álbum de Kendrick Lamar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-kendrick-lamar/)
+- [O documentário “Bruxas”, na Mubi](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-bruxas-na-mubi/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
