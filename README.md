@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que diz o plano 3/3/3, aposta de Trump para economia](https://www.nexojornal.com.br/expresso/2024/11/27/eua-economia-proposta-donald-trump-plano-3-3-3)
+- [Por que aplicativo de corrida se tornou um perigo de espionagem](https://www.nexojornal.com.br/expresso/2024/11/27/app-corrida-strava-rastreio-e-espionagem)
+- [Anistiar golpistas seria um sinal terrível para o futuro](https://www.nexojornal.com.br/colunistas/2024/11/27/indiciados-golpe-anistia)
 - [A radicalização democrática da ciência](https://www.nexojornal.com.br/colunistas/2024/11/27/a-radicalizacao-democratica-da-ciencia)
 - [Escolhidos por Trump para novo governo são alvos de ameaças](https://www.nexojornal.com.br/extra/2024/11/27/escolhidos-por-trump-para-novo-governo-sao-alvos-de-ameacas)
-- [Assassinato, lobby e suspeitas de corrupção nos tribunais](https://www.nexojornal.com.br/podcast/2024/11/27/corrupcao-judiciario-venda-de-sentenca-stj)
-- [Como os mapas evoluíram até a criação do GPS](https://www.nexojornal.com.br/expresso/2024/11/27/evolucao-dos-mapas-na-sociedade-da-antiguidade-ate-gps)
-- [Haddad vai anunciar isenção de IR até R$ 5.000](https://www.nexojornal.com.br/extra/2024/11/27/taxa-de-isencao-do-imposto-de-renda-fernando-haddad-corte-de-gastos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
