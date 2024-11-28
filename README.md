@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [COP 29 gera acordos frustrantes e indefinições para o futuro](https://gamarevista.uol.com.br/formato/reportagem/cop-29-gera-acordos-frustrantes-e-indefinicoes-para-o-futuro/)
+- [Sempre Repórter](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sempre-reporter/)
 - [Nada será como antes &lpar;e o governo federal ainda não entendeu isso&rpar;](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/nada-sera-como-antes-e-o-governo-federal-ainda-nao-entendeu-isso/)
 - [@cynthiaerivo](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/cynthiaerivo/)
 - [Não quero faca nem queijo. Quero a fome](https://gamarevista.uol.com.br/colunistas/fernando-luna/nao-quero-faca-nem-queijo-quero-a-fome/)
-- [Valentina Herszage](https://gamarevista.uol.com.br/pessoas/questionario-proust/valentina-herszage/)
-- [Geni Núñez: “A monogamia traz uma obsessão com a sexualidade”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/geni-nunez-a-monogamia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
