@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como execuções em massa acontecem e impactam a sociedade](https://www.nexojornal.com.br/externo/2024/11/28/chacina-impacto-psicologico-sociedade-pesquisa)
+- [Ministério Público paulista teve sistema invadido pelo PCC](https://www.nexojornal.com.br/extra/2024/11/28/pcc-invade-processos-sigilosos)
 - [Por que cientistas estão migrando para o Bluesky](https://www.nexojornal.com.br/expresso/2024/11/28/migracao-cientistas-bluesky)
 - [A exploração do trabalho juvenil em redes de restaurantes](https://www.nexojornal.com.br/academico/2024/11/28/trabalho-juvenil-exploracao-restaurante-pesquisa-academica)
 - [Oposição se mobiliza contra pacote de cortes e reforma do IR](https://www.nexojornal.com.br/extra/2024/11/28/bolsonaristas-contra-pacote-de-cortes-e-reforma-do-ir)
-- [Chuva na Bahia deixa rastro de morte e desaparecimentos](https://www.nexojornal.com.br/extra/2024/11/28/chuvas-mortes-bahia-2024)
-- [O que diz o plano 3/3/3, aposta de Trump para economia](https://www.nexojornal.com.br/expresso/2024/11/27/eua-economia-proposta-donald-trump-plano-3-3-3)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
