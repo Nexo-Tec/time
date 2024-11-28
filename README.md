@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que cientistas estão migrando para o Bluesky](https://www.nexojornal.com.br/expresso/2024/11/28/migracao-cientistas-bluesky)
+- [A exploração do trabalho juvenil em redes de restaurantes](https://www.nexojornal.com.br/academico/2024/11/28/trabalho-juvenil-exploracao-restaurante-pesquisa-academica)
 - [Oposição se mobiliza contra pacote de cortes e reforma do IR](https://www.nexojornal.com.br/extra/2024/11/28/bolsonaristas-contra-pacote-de-cortes-e-reforma-do-ir)
 - [Chuva na Bahia deixa rastro de morte e desaparecimentos](https://www.nexojornal.com.br/extra/2024/11/28/chuvas-mortes-bahia-2024)
 - [O que diz o plano 3/3/3, aposta de Trump para economia](https://www.nexojornal.com.br/expresso/2024/11/27/eua-economia-proposta-donald-trump-plano-3-3-3)
-- [Por que aplicativo de corrida se tornou um perigo de espionagem](https://www.nexojornal.com.br/expresso/2024/11/27/app-corrida-strava-rastreio-e-espionagem)
-- [Anistiar golpistas seria um sinal terrível para o futuro](https://www.nexojornal.com.br/colunistas/2024/11/27/indiciados-golpe-anistia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
