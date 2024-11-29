@@ -129,7 +129,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Documentário “Beatles 64”, produzido por Scorsese, no Disney+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-beatles-64-produzido-por-scorsese-no-disney/)
 - [O documentário “Bruxas”, na Mubi](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-bruxas-na-mubi/)
 - [Lembretes e pensamentos de Christina Sharpe em “Algumas Notas do Dia a Dia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/lembretes-e-pensamentos-de-christina-sharpe-em-algumas-notas-do-dia-a-dia/)
-- [“Anacrônico”, o novo álbum do brasiliense Jean Tassy](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/anacronico-o-novo-album-do-brasiliense-jean-tassy/)
+- [“Acrônico”, o novo álbum do brasiliense Jean Tassy](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/anacronico-o-novo-album-do-brasiliense-jean-tassy/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
