@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O hiato de um dos mangás shoujo mais vendidos no mundo](https://www.nexojornal.com.br/expresso/2024/11/29/manga-shoujo-mais-vendido-no-mundo-nana-hiato)
+- [5 livros para refletir sobre a maternidade contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/11/29/livros-maternidade-contemporanea-myriam-scotti)
+- [Desemprego cai para 6,2% e atinge menor taxa da série histórica](https://www.nexojornal.com.br/extra/2024/11/29/menor-taxa-de-desemprego-no-brasil)
+- [‘Te dei olhos e olhaste as trevas’: gerações de mulheres sob maldição](https://www.nexojornal.com.br/estante-trechos/2024/11/29/livro-te-dei-olhos-e-olhaste-as-trevas-irene-sola-trecho)
 - [Como ficaria o imposto de renda com a proposta de Haddad](https://www.nexojornal.com.br/grafico/2024/11/29/isencao-ir-imposto-de-renda-proposta-haddad-simulacao-grafico)
-- [Beatlemania: o retrato do início dos fandoms modernos](https://www.nexojornal.com.br/expresso/2024/11/28/documentario-beatles-64-fa-beatlemania-fenomeno-dos-fandoms)
-- [Como a exploração descontrolada ameaça florestas de algas](https://www.nexojornal.com.br/externo/2024/11/28/desmatamento-e-exploracao-floresta-de-algas-marinhas)
-- [O que está em jogo no pacote de cortes e na reforma do IR](https://www.nexojornal.com.br/expresso/2024/11/28/isencao-ir-5000-pronunciamento-haddad-economia-impacto)
-- [Como execuções em massa acontecem e impactam a sociedade](https://www.nexojornal.com.br/externo/2024/11/28/chacina-impacto-psicologico-sociedade-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
