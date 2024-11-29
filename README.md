@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lobistas formam a maior ‘delegação’ do Tratado de Plásticos](https://www.nexojornal.com.br/externo/2024/11/29/meio-ambiente-poluicao-plastico-tratado-onu-lobistas)
 - [O que são os cantores Vocaloid. E como eles lotam shows](https://www.nexojornal.com.br/expresso/2024/11/29/musica-artista-holograma-hatsune-miku-vocaloid)
 - [Austrália se torna o 1º país a proibir redes para menores de 16](https://www.nexojornal.com.br/extra/2024/11/29/redes-sociais-proibidas-para-menores-de-16-australia)
 - [O hiato de um dos mangás shoujo mais vendidos no mundo](https://www.nexojornal.com.br/expresso/2024/11/29/manga-shoujo-mais-vendido-no-mundo-nana-hiato)
 - [5 livros para refletir sobre a maternidade contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/11/29/livros-maternidade-contemporanea-myriam-scotti)
-- [Desemprego cai para 6,2% e atinge menor taxa da série histórica](https://www.nexojornal.com.br/extra/2024/11/29/menor-taxa-de-desemprego-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
