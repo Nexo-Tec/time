@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Lobistas formam a maior ‘delegação’ do Tratado de Plásticos](https://www.nexojornal.com.br/externo/2024/11/29/meio-ambiente-poluicao-plastico-tratado-onu-lobistas)
-- [O que são os cantores Vocaloid. E como eles lotam shows](https://www.nexojornal.com.br/expresso/2024/11/29/musica-artista-holograma-hatsune-miku-vocaloid)
-- [Austrália se torna o 1º país a proibir redes para menores de 16](https://www.nexojornal.com.br/extra/2024/11/29/redes-sociais-proibidas-para-menores-de-16-australia)
-- [O hiato de um dos mangás shoujo mais vendidos no mundo](https://www.nexojornal.com.br/expresso/2024/11/29/manga-shoujo-mais-vendido-no-mundo-nana-hiato)
-- [5 livros para refletir sobre a maternidade contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/11/29/livros-maternidade-contemporanea-myriam-scotti)
+- [A pressão contra os testes para ser pai ou mãe na Groenlândia](https://www.nexojornal.com.br/expresso/2024/11/29/dinamarca-filhos-teste-parentais-critica)
+- [Como a onda dos vapes inundou as escolas](https://www.nexojornal.com.br/externo/2024/11/29/vapes-cigarros-eletronicos-nas-escolas)
+- [Os grupos de admiradores de ônibus pelo Brasil](https://www.nexojornal.com.br/expresso/2024/11/29/onibus-admiradores-busologia-video)
+- [‘Entidades do esporte sempre taparam olhos para violência sexual’](https://www.nexojornal.com.br/entrevista/2024/11/29/esporte-jornalista-breiller-pires-protecao-a-criancas)
+- [Ações, depoimentos e contexto: o que há de fato contra Bolsonaro](https://www.nexojornal.com.br/expresso/2024/11/29/inquerito-do-golpe-provas-contra-bolsonaro-preso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
