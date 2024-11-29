@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como ficaria o imposto de renda com a proposta de Haddad](https://www.nexojornal.com.br/grafico/2024/11/29/isencao-ir-imposto-de-renda-proposta-haddad-simulacao-grafico)
 - [Beatlemania: o retrato do início dos fandoms modernos](https://www.nexojornal.com.br/expresso/2024/11/28/documentario-beatles-64-fa-beatlemania-fenomeno-dos-fandoms)
 - [Como a exploração descontrolada ameaça florestas de algas](https://www.nexojornal.com.br/externo/2024/11/28/desmatamento-e-exploracao-floresta-de-algas-marinhas)
 - [O que está em jogo no pacote de cortes e na reforma do IR](https://www.nexojornal.com.br/expresso/2024/11/28/isencao-ir-5000-pronunciamento-haddad-economia-impacto)
 - [Como execuções em massa acontecem e impactam a sociedade](https://www.nexojornal.com.br/externo/2024/11/28/chacina-impacto-psicologico-sociedade-pesquisa)
-- [Ministério Público paulista teve sistema invadido pelo PCC](https://www.nexojornal.com.br/extra/2024/11/28/pcc-invade-processos-sigilosos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
