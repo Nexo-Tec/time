@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que são os cantores Vocaloid. E como eles lotam shows](https://www.nexojornal.com.br/expresso/2024/11/29/musica-artista-holograma-hatsune-miku-vocaloid)
+- [Austrália se torna o 1º país a proibir redes para menores de 16](https://www.nexojornal.com.br/extra/2024/11/29/redes-sociais-proibidas-para-menores-de-16-australia)
 - [O hiato de um dos mangás shoujo mais vendidos no mundo](https://www.nexojornal.com.br/expresso/2024/11/29/manga-shoujo-mais-vendido-no-mundo-nana-hiato)
 - [5 livros para refletir sobre a maternidade contemporânea](https://www.nexojornal.com.br/estante-favoritos/2024/11/29/livros-maternidade-contemporanea-myriam-scotti)
 - [Desemprego cai para 6,2% e atinge menor taxa da série histórica](https://www.nexojornal.com.br/extra/2024/11/29/menor-taxa-de-desemprego-no-brasil)
-- [‘Te dei olhos e olhaste as trevas’: gerações de mulheres sob maldição](https://www.nexojornal.com.br/estante-trechos/2024/11/29/livro-te-dei-olhos-e-olhaste-as-trevas-irene-sola-trecho)
-- [Como ficaria o imposto de renda com a proposta de Haddad](https://www.nexojornal.com.br/grafico/2024/11/29/isencao-ir-imposto-de-renda-proposta-haddad-simulacao-grafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
