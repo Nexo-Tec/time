@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Beatlemania: o retrato do início dos fandoms modernos](https://www.nexojornal.com.br/expresso/2024/11/28/documentario-beatles-64-fa-beatlemania-fenomeno-dos-fandoms)
+- [Como a exploração descontrolada ameaça florestas de algas](https://www.nexojornal.com.br/externo/2024/11/28/desmatamento-e-exploracao-floresta-de-algas-marinhas)
+- [O que está em jogo no pacote de cortes e na reforma do IR](https://www.nexojornal.com.br/expresso/2024/11/28/isencao-ir-5000-pronunciamento-haddad-economia-impacto)
 - [Como execuções em massa acontecem e impactam a sociedade](https://www.nexojornal.com.br/externo/2024/11/28/chacina-impacto-psicologico-sociedade-pesquisa)
 - [Ministério Público paulista teve sistema invadido pelo PCC](https://www.nexojornal.com.br/extra/2024/11/28/pcc-invade-processos-sigilosos)
-- [Por que cientistas estão migrando para o Bluesky](https://www.nexojornal.com.br/expresso/2024/11/28/migracao-cientistas-bluesky)
-- [A exploração do trabalho juvenil em redes de restaurantes](https://www.nexojornal.com.br/academico/2024/11/28/trabalho-juvenil-exploracao-restaurante-pesquisa-academica)
-- [Oposição se mobiliza contra pacote de cortes e reforma do IR](https://www.nexojornal.com.br/extra/2024/11/28/bolsonaristas-contra-pacote-de-cortes-e-reforma-do-ir)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
