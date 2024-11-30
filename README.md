@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rebeldes tomam Aleppo em reviravolta na guerra na Síria](https://www.nexojornal.com.br/extra/2024/11/30/guerra-na-siria-rebeldes-em-aleppo)
 - [A pressão contra os testes para ser pai ou mãe na Groenlândia](https://www.nexojornal.com.br/expresso/2024/11/29/dinamarca-filhos-teste-parentais-critica)
 - [Como a onda dos vapes inundou as escolas](https://www.nexojornal.com.br/externo/2024/11/29/vapes-cigarros-eletronicos-nas-escolas)
 - [Os grupos de admiradores de ônibus pelo Brasil](https://www.nexojornal.com.br/expresso/2024/11/29/onibus-admiradores-busologia-video)
 - [‘Entidades do esporte sempre taparam olhos para violência sexual’](https://www.nexojornal.com.br/entrevista/2024/11/29/esporte-jornalista-breiller-pires-protecao-a-criancas)
-- [Ações, depoimentos e contexto: o que há de fato contra Bolsonaro](https://www.nexojornal.com.br/expresso/2024/11/29/inquerito-do-golpe-provas-contra-bolsonaro-preso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
