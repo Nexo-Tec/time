@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Figo não é vegano? Entenda o debate sobre o fruto](https://www.nexojornal.com.br/expresso/2024/12/01/fruta-figo-vegana)
+- [Por que sobretaxar armas e ultraprocessados](https://www.nexojornal.com.br/ensaio/2024/12/01/imposto-reforma-tributaria-arma-e-ultraprocessados)
+- [Por que países liberaram o uso de armamentos pesados pela Ucrânia](https://www.nexojornal.com.br/expresso/2024/12/01/guerra-ucrania-russia-arma-e-armamento-liberacao)
 - [Rebeldes tomam Aleppo em reviravolta na guerra na Síria](https://www.nexojornal.com.br/extra/2024/11/30/guerra-na-siria-rebeldes-em-aleppo)
 - [A pressão contra os testes para ser pai ou mãe na Groenlândia](https://www.nexojornal.com.br/expresso/2024/11/29/dinamarca-filhos-teste-parentais-critica)
-- [Como a onda dos vapes inundou as escolas](https://www.nexojornal.com.br/externo/2024/11/29/vapes-cigarros-eletronicos-nas-escolas)
-- [Os grupos de admiradores de ônibus pelo Brasil](https://www.nexojornal.com.br/expresso/2024/11/29/onibus-admiradores-busologia-video)
-- [‘Entidades do esporte sempre taparam olhos para violência sexual’](https://www.nexojornal.com.br/entrevista/2024/11/29/esporte-jornalista-breiller-pires-protecao-a-criancas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
