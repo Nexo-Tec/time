@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [Figo não é vegano? Entenda o debate sobre o fruto](https://www.nexojornal.com.br/expresso/2024/12/01/fruta-figo-vegana)
 - [Por que sobretaxar armas e ultraprocessados](https://www.nexojornal.com.br/ensaio/2024/12/01/imposto-reforma-tributaria-arma-e-ultraprocessados)
-- [Por que países liberaram o uso de armamentos pesados pela Ucrânia](https://www.nexojornal.com.br/expresso/2024/12/01/guerra-ucrania-russia-arma-e-armamento-liberacao)
+- [Por que países liberaram o uso de armas pesadas pela Ucrânia](https://www.nexojornal.com.br/expresso/2024/12/01/guerra-ucrania-russia-arma-e-armamento-liberacao)
 - [Rebeldes tomam Aleppo em reviravolta na guerra na Síria](https://www.nexojornal.com.br/extra/2024/11/30/guerra-na-siria-rebeldes-em-aleppo)
 - [A pressão contra os testes para ser pai ou mãe na Groenlândia](https://www.nexojornal.com.br/expresso/2024/11/29/dinamarca-filhos-teste-parentais-critica)
 <!-- NEXO_LIST:END -->
