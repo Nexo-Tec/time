@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como famílias brancas podem promover uma educação antirracista](https://www.nexojornal.com.br/externo/2024/12/01/educacao-antirracista-familia-pessoas-brancas)
+- [Uma reflexão crítica sobre o uso de VPN e da rede social X](https://www.nexojornal.com.br/ensaio/2024/12/01/twitter-x-rede-social-vpn-e-ilegal)
+- [Como presidenciáveis bolsonaristas reagem ao inquérito do golpe](https://www.nexojornal.com.br/expresso/2024/12/01/bolsonaro-presidencia-2026-brasil)
 - [Quem é a brasileira que mais descobriu vulcões ativos no Universo](https://www.nexojornal.com.br/expresso/2024/12/01/vulcao-ativo-descoberta-brasileira-astronoma-rosaly-lopes)
 - [Figo não é vegano? Entenda o debate sobre o fruto](https://www.nexojornal.com.br/expresso/2024/12/01/fruta-figo-vegana)
-- [Por que sobretaxar armas e ultraprocessados](https://www.nexojornal.com.br/ensaio/2024/12/01/imposto-reforma-tributaria-arma-e-ultraprocessados)
-- [Por que países liberaram o uso de armas pesadas pela Ucrânia](https://www.nexojornal.com.br/expresso/2024/12/01/guerra-ucrania-russia-arma-e-armamento-liberacao)
-- [Rebeldes tomam Aleppo em reviravolta na guerra na Síria](https://www.nexojornal.com.br/extra/2024/11/30/guerra-na-siria-rebeldes-em-aleppo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
