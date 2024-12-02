@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que moveu a reviravolta na guerra da Síria](https://www.nexojornal.com.br/expresso/2024/12/02/guerra-siria-rebeldes-dominam-cidades)
 - [Marinha publica vídeo para negar que tenha privilégios](https://www.nexojornal.com.br/extra/2024/12/02/marinha-video-redes-sociais-privilegio-previdencia)
 - [O acervo de lugares brasileiros que não existem mais](https://www.nexojornal.com.br/expresso/2024/12/02/brasil-acervo-fotos-nostalgia-lugares-parque-turma-da-monica-playcenter-livraria-saraiva)
 - [Dino libera retomada de pagamentos de emendas](https://www.nexojornal.com.br/extra/2024/12/02/dino-libera-retomada-de-pagamentos-de-emendas)
 - [Como famílias brancas podem promover uma educação antirracista](https://www.nexojornal.com.br/externo/2024/12/01/educacao-antirracista-familia-pessoas-brancas)
-- [Uma reflexão crítica sobre o uso de VPN e da rede social X](https://www.nexojornal.com.br/ensaio/2024/12/01/twitter-x-rede-social-vpn-e-ilegal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
