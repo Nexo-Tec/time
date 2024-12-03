@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Conexão de pessoas negras impulsionou personagem Jeremias’](https://www.nexojornal.com.br/entrevista/2024/12/03/turma-da-monica-jeremias-hq-quadrinho-rafael-calca-entrevista)
+- [Parlamento denuncia golpe e barra lei marcial na Coreia do Sul](https://www.nexojornal.com.br/extra/2024/12/03/coreia-lei-marcial-barrada-por-parlamentares)
 - [Economia brasileira cresce 0,9% no terceiro trimestre](https://www.nexojornal.com.br/extra/2024/12/03/pib-terceiro-trimestre-2024)
 - [A IA treinada por ‘Pokémon GO’ para mapear o mundo](https://www.nexojornal.com.br/expresso/2024/12/03/ia-inteligencia-artificial-mapa-mundo-pokemon-go)
 - [A dura escolha de uma profissão por um adolescente](https://www.nexojornal.com.br/ensaio/2024/12/03/escolher-profissao-adolescente-adolescencia)
-- [Como combater o machismo no serviço público federal](https://www.nexojornal.com.br/expresso/2024/12/03/servico-publico-federal-machismo-guia-combate)
-- [Golpismo nas Forças Especiais: vale a pena manter o batalhão?](https://www.nexojornal.com.br/expresso/2024/12/03/kids-pretos-forcas-especiais-reforma-batalhao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
