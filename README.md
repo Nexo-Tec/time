@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A IA treinada por ‘Pokémon GO’ para mapear o mundo](https://www.nexojornal.com.br/expresso/2024/12/03/ia-inteligencia-artificial-mapa-mundo-pokemon-go)
+- [A dura escolha de uma profissão por um adolescente](https://www.nexojornal.com.br/ensaio/2024/12/03/escolher-profissao-adolescente-adolescencia)
+- [Como combater o machismo no serviço público federal](https://www.nexojornal.com.br/expresso/2024/12/03/servico-publico-federal-machismo-guia-combate)
+- [Golpismo nas Forças Especiais: vale a pena manter o batalhão?](https://www.nexojornal.com.br/expresso/2024/12/03/kids-pretos-forcas-especiais-reforma-batalhao)
 - [‘Brain rot’ é eleita a expressão do ano pelo dicionário Oxford](https://www.nexojornal.com.br/extra/2024/12/02/brain-rot-palavra-do-ano-dicionario-oxford-2024)
-- [O que moveu a reviravolta na guerra da Síria](https://www.nexojornal.com.br/expresso/2024/12/02/guerra-siria-rebeldes-dominam-cidades)
-- [Marinha publica vídeo para negar que tenha privilégios](https://www.nexojornal.com.br/extra/2024/12/02/marinha-video-redes-sociais-privilegio-previdencia)
-- [O acervo de lugares brasileiros que não existem mais](https://www.nexojornal.com.br/expresso/2024/12/02/brasil-acervo-fotos-nostalgia-lugares-parque-turma-da-monica-playcenter-livraria-saraiva)
-- [Dino libera retomada de pagamentos de emendas](https://www.nexojornal.com.br/extra/2024/12/02/dino-libera-retomada-de-pagamentos-de-emendas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
