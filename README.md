@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Estamos construindo um país mais generoso?](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/03/estamos-construindo-um-pais-mais-generoso/)
 - [Da participação qualificada à cidadania: o Plano de Bairro do Jardim Pantanal](https://pp.nexojornal.com.br/opiniao/2024/12/03/da-participacao-qualificada-a-cidadania-o-plano-de-bairro-do-jardim-pantanal/)
 - [Avanços e desafios para a verdadeira equidade na sala de aula e os 20 anos da Lei 10.639](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/03/avancos-e-desafios-para-a-verdadeira-equidade-na-sala-de-aula-e-os-20-anos-da-lei-10-639/)
 - [Por que a arte é cada vez mais imprescindível para a formação de crianças e jovens](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/02/por-que-a-arte-e-cada-vez-mais-imprescindivel-para-a-formacao-de-criancas-e-jovens/)
 - [O bullying e a relação escola-família para uma convivência ética](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/02/o-bullying-e-a-relacao-escola-familia-para-uma-convivencia-etica/)
-- [Rossano Cabral Lima: os danos do autodiagnóstico para crianças e adolescentes](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/11/26/rossano-cabral-lima-danos-autodiagnostico-para-criancas-e-adolescentes/)
 <!-- PP_LIST:END -->
 
