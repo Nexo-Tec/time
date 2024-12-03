@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais os municípios mais altos do Brasil](https://www.nexojornal.com.br/grafico/2024/12/03/brasil-municipios-maior-altitude-grafico)
 - [Por que o estresse deixa os cabelos brancos](https://www.nexojornal.com.br/externo/2024/12/03/por-que-o-estresse-deixa-os-cabelos-brancos)
 - [Novos casos expõem escalada da violência da PM paulista](https://www.nexojornal.com.br/extra/2024/12/03/pm-de-sp-homem-ponte-execucao-no-mercado)
 - [‘Conexão de pessoas negras impulsionou personagem Jeremias’](https://www.nexojornal.com.br/entrevista/2024/12/03/turma-da-monica-jeremias-hq-quadrinho-rafael-calca-entrevista)
 - [Presidente da Coreia do Sul recua de lei marcial](https://www.nexojornal.com.br/extra/2024/12/03/coreia-lei-marcial-barrada-por-parlamentares)
-- [Economia brasileira cresce 0,9% no terceiro trimestre](https://www.nexojornal.com.br/extra/2024/12/03/pib-terceiro-trimestre-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
