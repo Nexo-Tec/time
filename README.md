@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@xandedepilares](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/xandedepilares/)
 - [Com apenas cinco ingredientes, tempo e paciência, você vai conseguir fazer o famoso “pão da capa”](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/com-apenas-cinco-ingredientes-tempo-e-paciencia-voce-vai-conseguir-fazer-o-famoso-pao-da-capa/)
 - [Tamara Klink: viver outras realidades](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tamara-klink/)
 - [Ninguém vence na comparação](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/ninguem-vence-na-comparacao/)
 - [O novo álbum de Kendrick Lamar](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-novo-album-de-kendrick-lamar/)
-- [Documentário “Beatles 64”, produzido por Scorsese, no Disney+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/documentario-beatles-64-produzido-por-scorsese-no-disney/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
