@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os percalços da alimentação sustentável na Europa](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/04/os-percalcos-da-alimentacao-sustentavel-na-europa/)
+- [Desigualdades raciais na educação no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/04/desigualdades-raciais-na-educacao-no-brasil/)
 - [Fortalecendo políticas de mercado de trabalho no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/04/fortalecendo-politicas-de-mercado-de-trabalho-no-brasil/)
 - [Cientistas como defensores políticos](https://pp.nexojornal.com.br/opiniao/2024/12/03/cientistas-como-defensores-politicos/)
 - [Quem paga a conta da energia limpa?](https://pp.nexojornal.com.br/opiniao/2024/12/03/quem-paga-a-conta-da-energia-limpa/)
-- [Estamos construindo um país mais generoso?](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/03/estamos-construindo-um-pais-mais-generoso/)
-- [Da participação qualificada à cidadania: o Plano de Bairro do Jardim Pantanal](https://pp.nexojornal.com.br/opiniao/2024/12/03/da-participacao-qualificada-a-cidadania-o-plano-de-bairro-do-jardim-pantanal/)
 <!-- PP_LIST:END -->
 
