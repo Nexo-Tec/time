@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Fortalecendo políticas de mercado de trabalho no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/04/fortalecendo-politicas-de-mercado-de-trabalho-no-brasil/)
 - [Cientistas como defensores políticos](https://pp.nexojornal.com.br/opiniao/2024/12/03/cientistas-como-defensores-politicos/)
 - [Quem paga a conta da energia limpa?](https://pp.nexojornal.com.br/opiniao/2024/12/03/quem-paga-a-conta-da-energia-limpa/)
 - [Estamos construindo um país mais generoso?](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/03/estamos-construindo-um-pais-mais-generoso/)
 - [Da participação qualificada à cidadania: o Plano de Bairro do Jardim Pantanal](https://pp.nexojornal.com.br/opiniao/2024/12/03/da-participacao-qualificada-a-cidadania-o-plano-de-bairro-do-jardim-pantanal/)
-- [Avanços e desafios para a verdadeira equidade na sala de aula e os 20 anos da Lei 10.639](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/03/avancos-e-desafios-para-a-verdadeira-equidade-na-sala-de-aula-e-os-20-anos-da-lei-10-639/)
 <!-- PP_LIST:END -->
 
