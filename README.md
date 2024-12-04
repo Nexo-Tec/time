@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As polêmicas em torno do novo console da TecToy](https://www.nexojornal.com.br/expresso/2024/12/04/tectoy-zeenix-lite-polemica-ceo-valdeni-rodrigues)
 - [O julgamento que pode moldar o futuro da internet no Brasil](https://www.nexojornal.com.br/expresso/2024/12/03/internet-marco-civil-supremo-artigo-19)
 - [Desacelerou, mas segue forte: o que mantém o ritmo do PIB](https://www.nexojornal.com.br/expresso/2024/12/03/economia-pib-brasil-cresce-e-mantem-ritmo)
 - [Quais as queixas de palestinos e israelenses à imprensa](https://www.nexojornal.com.br/colunistas/2024/12/03/guerra-em-gaza-israel-palestina-jornalismo)
 - [Quais os municípios mais altos do Brasil](https://www.nexojornal.com.br/grafico/2024/12/03/brasil-municipios-maior-altitude-grafico)
-- [Por que o estresse deixa os cabelos brancos](https://www.nexojornal.com.br/externo/2024/12/03/por-que-o-estresse-deixa-os-cabelos-brancos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
