@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O julgamento que pode moldar o futuro da internet no Brasil](https://www.nexojornal.com.br/expresso/2024/12/03/internet-marco-civil-supremo-artigo-19)
+- [Desacelerou, mas segue forte: o que mantém o ritmo do PIB](https://www.nexojornal.com.br/expresso/2024/12/03/economia-pib-brasil-cresce-e-mantem-ritmo)
+- [Quais as queixas de palestinos e israelenses à imprensa](https://www.nexojornal.com.br/colunistas/2024/12/03/guerra-em-gaza-israel-palestina-jornalismo)
 - [Quais os municípios mais altos do Brasil](https://www.nexojornal.com.br/grafico/2024/12/03/brasil-municipios-maior-altitude-grafico)
 - [Por que o estresse deixa os cabelos brancos](https://www.nexojornal.com.br/externo/2024/12/03/por-que-o-estresse-deixa-os-cabelos-brancos)
-- [Novos casos expõem escalada da violência da PM paulista](https://www.nexojornal.com.br/extra/2024/12/03/pm-de-sp-homem-ponte-execucao-no-mercado)
-- [‘Conexão de pessoas negras impulsionou personagem Jeremias’](https://www.nexojornal.com.br/entrevista/2024/12/03/turma-da-monica-jeremias-hq-quadrinho-rafael-calca-entrevista)
-- [Presidente da Coreia do Sul recua de lei marcial](https://www.nexojornal.com.br/extra/2024/12/03/coreia-lei-marcial-barrada-por-parlamentares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
