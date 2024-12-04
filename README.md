@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Pobreza no Brasil teve menor nível da série histórica em 2023](https://www.nexojornal.com.br/extra/2024/12/04/brasil-nivel-de-pobreza-2023)
+- [Dona da Pepsi anuncia bônus para empregado que furou greve](https://www.nexojornal.com.br/externo/2024/12/04/pepsi-dona-pepsico-bonus-para-funcionario-que-trabalhou-na-greve)
 - [As polêmicas em torno do novo console da TecToy](https://www.nexojornal.com.br/expresso/2024/12/04/tectoy-zeenix-lite-polemica-ceo-valdeni-rodrigues)
 - [O julgamento que pode moldar o futuro da internet no Brasil](https://www.nexojornal.com.br/expresso/2024/12/03/internet-marco-civil-supremo-artigo-19)
 - [Desacelerou, mas segue forte: o que mantém o ritmo do PIB](https://www.nexojornal.com.br/expresso/2024/12/03/economia-pib-brasil-cresce-e-mantem-ritmo)
-- [Quais as queixas de palestinos e israelenses à imprensa](https://www.nexojornal.com.br/colunistas/2024/12/03/guerra-em-gaza-israel-palestina-jornalismo)
-- [Quais os municípios mais altos do Brasil](https://www.nexojornal.com.br/grafico/2024/12/03/brasil-municipios-maior-altitude-grafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
