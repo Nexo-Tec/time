@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Wicked’: a fanfic de ‘O Mágico de Oz’ que movimenta fortunas](https://www.nexojornal.com.br/expresso/2024/12/04/wicked-filme-musical-adaptacao-o-magico-de-oz)
+- [A lei marcial frustrada e o passado autoritário da Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/12/04/lei-marcial-coreia-do-sul-historia-politica)
+- [Quais artistas a redação do ‘Nexo’ mais escutou em 2024](https://www.nexojornal.com.br/expresso/2024/12/04/musica-artista-mais-ouvido-2024-redacao-nexo)
 - [Parlamento da França derruba primeiro-ministro de Macron](https://www.nexojornal.com.br/extra/2024/12/04/parlamento-da-franca-derruba-primeiro-ministro)
 - [Marinha: onde política e golpismo navegam à vontade](https://www.nexojornal.com.br/podcast/2024/12/04/marinha-forcas-armadas-golpe-golpismo)
-- [Pobreza no Brasil teve menor nível da série histórica em 2023](https://www.nexojornal.com.br/extra/2024/12/04/brasil-nivel-de-pobreza-2023)
-- [Dona da Pepsi anuncia bônus para empregado que furou greve](https://www.nexojornal.com.br/externo/2024/12/04/pepsi-dona-pepsico-bonus-para-funcionario-que-trabalhou-na-greve)
-- [As polêmicas em torno do novo console da TecToy](https://www.nexojornal.com.br/expresso/2024/12/04/tectoy-zeenix-lite-polemica-ceo-valdeni-rodrigues)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
