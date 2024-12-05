@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por uma burocracia verdadeiramente representativa](https://www.nexojornal.com.br/colunistas/2024/12/05/politicas-publicas-representatividade-mulher-cargo-de-lideranca)
 - [Como o funk expõe experiências e desafios das favelas](https://www.nexojornal.com.br/academico/2024/12/05/musica-funk-favela-rio-de-janeiro-estilo-de-vida)
 - [‘Intencionalidade política impulsiona violência policial’](https://www.nexojornal.com.br/entrevista/2024/12/04/pm-policia-sao-paulo-sp-violencia-entrevista-dennis-pacheco)
 - [‘Wicked’: a fanfic de ‘O Mágico de Oz’ que movimenta fortunas](https://www.nexojornal.com.br/expresso/2024/12/04/wicked-filme-musical-adaptacao-o-magico-de-oz)
 - [A lei marcial frustrada e o passado autoritário da Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/12/04/lei-marcial-coreia-do-sul-historia-politica)
-- [Quais artistas a redação do ‘Nexo’ mais escutou em 2024](https://www.nexojornal.com.br/expresso/2024/12/04/musica-artista-mais-ouvido-2024-redacao-nexo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
