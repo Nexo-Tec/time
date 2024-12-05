@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A tentação de ditar](https://gamarevista.uol.com.br/colunistas/maria-homem/a-tentacao-de-ditar/)
 - [Dezembro, ame-o ou deixe-o](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/dezembro-ame-o-ou-deixe-o/)
 - [CV: Luciano Freitas](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-luciano-freitas/)
 - [@xandedepilares](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/xandedepilares/)
 - [Com apenas cinco ingredientes, tempo e paciência, você vai conseguir fazer o famoso “pão da capa”](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/com-apenas-cinco-ingredientes-tempo-e-paciencia-voce-vai-conseguir-fazer-o-famoso-pao-da-capa/)
-- [Tamara Klink: viver outras realidades](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tamara-klink/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
