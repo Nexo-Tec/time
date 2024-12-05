@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Intencionalidade política impulsiona violência policial’](https://www.nexojornal.com.br/entrevista/2024/12/04/pm-policia-sao-paulo-sp-violencia-entrevista-dennis-pacheco)
 - [‘Wicked’: a fanfic de ‘O Mágico de Oz’ que movimenta fortunas](https://www.nexojornal.com.br/expresso/2024/12/04/wicked-filme-musical-adaptacao-o-magico-de-oz)
 - [A lei marcial frustrada e o passado autoritário da Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/12/04/lei-marcial-coreia-do-sul-historia-politica)
 - [Quais artistas a redação do ‘Nexo’ mais escutou em 2024](https://www.nexojornal.com.br/expresso/2024/12/04/musica-artista-mais-ouvido-2024-redacao-nexo)
 - [Parlamento da França derruba primeiro-ministro de Macron](https://www.nexojornal.com.br/extra/2024/12/04/parlamento-da-franca-derruba-primeiro-ministro)
-- [Marinha: onde política e golpismo navegam à vontade](https://www.nexojornal.com.br/podcast/2024/12/04/marinha-forcas-armadas-golpe-golpismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
