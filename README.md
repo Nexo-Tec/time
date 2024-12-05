@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tarcísio diz que estava errado ao criticar câmera corporal da PM](https://www.nexojornal.com.br/extra/2024/12/05/tarcisio-admite-estar-errado-cameras-uniformes-pm)
+- [O site que reúne vídeos postados de iPhones antigos no Youtube](https://www.nexojornal.com.br/expresso/2024/12/05/video-youtube-iphone-antigo-site-img_0001)
+- [As caravanas de drum’n’bass lideradas por DJs em bicicletas](https://www.nexojornal.com.br/expresso/2024/12/05/bicicleta-bike-dj-passeio-com-musica-drumnbass)
 - [As motivações e os desafios do empreendedorismo popular](https://www.nexojornal.com.br/externo/2024/12/05/empreendedorismo-popular-o-que-e-desafios)
 - [Veja como ficaram os grupos do Super Mundial de Clubes](https://www.nexojornal.com.br/extra/2024/12/05/mundial-de-clubes-2025-sorteio-grupos-resultado)
-- [Por uma burocracia verdadeiramente representativa](https://www.nexojornal.com.br/colunistas/2024/12/05/politicas-publicas-representatividade-mulher-cargo-de-lideranca)
-- [Como o funk expõe experiências e desafios das favelas](https://www.nexojornal.com.br/academico/2024/12/05/musica-funk-favela-rio-de-janeiro-estilo-de-vida)
-- [‘Intencionalidade política impulsiona violência policial’](https://www.nexojornal.com.br/entrevista/2024/12/04/pm-policia-sao-paulo-sp-violencia-entrevista-dennis-pacheco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
