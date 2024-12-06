@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘A grande porção de lixo do Pacífico’: o absurdo do progresso](https://www.nexojornal.com.br/estante-trechos/2024/12/06/livro-a-grande-porcao-de-lixo-do-pacifico-vinicius-portella-trecho)
+- [A infestação de morcegos em escolas feitas para compensar Belo Monte](https://www.nexojornal.com.br/expresso/2024/12/06/infestacao-de-morcegos-em-escola-indigena-belo-monte-xingu)
 - [Conheça os sapos translúcidos da América do Sul](https://www.nexojornal.com.br/expresso/2024/12/06/animal-anfibio-sapo-de-vidro-transparente-translucido-america-do-sul)
 - [Quais são as escalas de trabalho no Brasil. E o que pode mudar](https://www.nexojornal.com.br/grafico/2024/12/06/trabalho-brasil-escala-6x1-o-que-pode-mudar)
 - [União Europeia e Mercosul, enfim, anunciam acordo](https://www.nexojornal.com.br/extra/2024/12/06/uniao-europeia-mercosul-acordo-livre-comercio)
-- [O rechaço do mercado a Lula mesmo diante da economia aquecida](https://www.nexojornal.com.br/expresso/2024/12/05/economia-brasil-governo-lula-pesquisa-reprovacao-mercado-financeiro)
-- [Como a pressão por boas notas afeta os estudantes](https://www.nexojornal.com.br/externo/2024/12/05/provas-boas-notas-afetam-estudantes-dicas-para-pais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
