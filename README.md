@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [De Marte à Favela](https://gamarevista.uol.com.br/cultura/trecho-de-livro/de-marte-a-favela/)
 - [Os dez melhores livros de 2024 segundo o New York Times](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-dez-melhores-livros-de-2024-segundo-o-new-york-times/)
 - [A comédia romântica “Sintonia de Natal”, da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-comedia-romantica-sintonia-de-natal-da-netflix/)
 - [Uma tarde dedicada à obra de Tom Jobim](https://gamarevista.uol.com.br/achamos-que-vale/ir/uma-tarde-dedicada-a-obra-de-tom-jobim/)
 - [André Roncaglia e o “fazendão com cassino”, no Ilustríssima Conversa](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/andre-roncaglia-e-o-fazendao-com-cassino-no-ilustrissima-conversa/)
-- [Comida de chefs estrelados na rua, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/comida-de-chefs-estrelados-na-rua-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
