@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O fim dos canais Disney na TV. E o momento do streaming](https://www.nexojornal.com.br/expresso/2024/12/06/canais-disney-encerram-atividades-influencia-do-streaming)
+- [Maioria do Supremo se nega a tirar inquéritos de Moraes](https://www.nexojornal.com.br/extra/2024/12/06/supremo-mantem-moraes)
+- [Como o acordo União Europeia-Mercosul impacta o Brasil](https://www.nexojornal.com.br/expresso/2024/12/06/acordo-ue-uniao-europeia-mercosul-impacto-brasil)
 - [‘A grande porção de lixo do Pacífico’: o absurdo do progresso](https://www.nexojornal.com.br/estante-trechos/2024/12/06/livro-a-grande-porcao-de-lixo-do-pacifico-vinicius-portella-trecho)
 - [A infestação de morcegos em escolas feitas para compensar Belo Monte](https://www.nexojornal.com.br/expresso/2024/12/06/infestacao-de-morcegos-em-escola-indigena-belo-monte-xingu)
-- [Conheça os sapos translúcidos da América do Sul](https://www.nexojornal.com.br/expresso/2024/12/06/animal-anfibio-sapo-de-vidro-transparente-translucido-america-do-sul)
-- [Quais são as escalas de trabalho no Brasil. E o que pode mudar](https://www.nexojornal.com.br/grafico/2024/12/06/trabalho-brasil-escala-6x1-o-que-pode-mudar)
-- [União Europeia e Mercosul, enfim, anunciam acordo](https://www.nexojornal.com.br/extra/2024/12/06/uniao-europeia-mercosul-acordo-livre-comercio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
