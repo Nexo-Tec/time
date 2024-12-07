@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Rebeldes avançam na Síria e se aproximam da capital Damasco](https://www.nexojornal.com.br/extra/2024/12/07/rebeldes-avancam-na-siria-e-se-aproximam-da-capital-damasco)
 - [Renascida das cinzas: a Catedral de Notre Dame em 4 atos](https://www.nexojornal.com.br/expresso/2024/12/06/catedral-de-notre-dame-reforma-depois-de-incendio)
 - [O que foi a Chacina de Acari, pela qual o Brasil foi condenado](https://www.nexojornal.com.br/expresso/2024/12/06/chacina-do-acari-brasil-julgamento-corte-direitos-humanos)
 - [O quanto é preciso se alongar para melhorar a flexibilidade?](https://www.nexojornal.com.br/externo/2024/12/06/alongamento-melhora-flexibilidade)
 - [5 biografias de mulheres essenciais na cultura brasileira](https://www.nexojornal.com.br/estante-favoritos/2024/12/06/biografia-mulheres-cultura-brasileira-gabriela-longman-indicacao)
-- [Qual a influência da bossa nova na música brasileira de hoje](https://www.nexojornal.com.br/expresso/2024/12/06/mpb-atual-musica-brasileira-influencia-bossa-nova)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
