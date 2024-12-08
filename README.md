@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a trama do golpe está no STF, e não na 1ª instância](https://www.nexojornal.com.br/expresso/2024/12/08/brasil-politica-tentativa-de-golpe-julgamento-stf-supremo)
+- [Como o tráfico entre Peru e Brasil coloca indígenas em risco](https://www.nexojornal.com.br/externo/2024/12/08/trafico-brasil-peru-impacto-indigenas)
+- [Como as mudanças climáticas afetam profissionais de saúde](https://www.nexojornal.com.br/ensaio/2024/12/08/mudancas-climaticas-impacto-profissional-saude)
+- [Cidades catarinenses decretam situação de emergência por chuvas](https://www.nexojornal.com.br/extra/2024/12/08/cidades-catarinenses-decretam-situacao-de-emergencia-por-chuvas)
 - [Brasil orienta cidadãos a deixar Síria e pede solução pacífica](https://www.nexojornal.com.br/extra/2024/12/08/brasil-orienta-cidadaos-a-deixar-siria-e-pede-solucao-pacifica)
-- [Por que conferências ambientais naufragaram em 2024](https://www.nexojornal.com.br/expresso/2024/12/07/meio-ambiente-cop-conferencia-ambiental-saldo-2024)
-- [Como a Coca-Cola acabou com a água de 800 famílias em Minas](https://www.nexojornal.com.br/externo/2024/12/07/coca-cola-acaba-agua-familias-minas-gerais)
-- [Como transformar o uso do plástico num círculo virtuoso](https://www.nexojornal.com.br/ensaio/2024/12/07/meio-ambiente-reciclagem-plastico-circulo-virtuoso)
-- [Rebeldes anunciam deposição do governo al-Assad na Síria](https://www.nexojornal.com.br/extra/2024/12/07/rebeldes-avancam-na-siria-e-se-aproximam-da-capital-damasco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
