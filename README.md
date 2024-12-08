@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Brasil orienta cidadãos a deixar Síria e pede solução pacífica](https://www.nexojornal.com.br/extra/2024/12/08/brasil-orienta-cidadaos-a-deixar-siria-e-pede-solucao-pacifica)
 - [Por que conferências ambientais naufragaram em 2024](https://www.nexojornal.com.br/expresso/2024/12/07/meio-ambiente-cop-conferencia-ambiental-saldo-2024)
 - [Como a Coca-Cola acabou com a água de 800 famílias em Minas](https://www.nexojornal.com.br/externo/2024/12/07/coca-cola-acaba-agua-familias-minas-gerais)
 - [Como transformar o uso do plástico num círculo virtuoso](https://www.nexojornal.com.br/ensaio/2024/12/07/meio-ambiente-reciclagem-plastico-circulo-virtuoso)
 - [Rebeldes anunciam deposição do governo al-Assad na Síria](https://www.nexojornal.com.br/extra/2024/12/07/rebeldes-avancam-na-siria-e-se-aproximam-da-capital-damasco)
-- [Renascida das cinzas: a Catedral de Notre Dame em 4 atos](https://www.nexojornal.com.br/expresso/2024/12/06/catedral-de-notre-dame-reforma-depois-de-incendio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
