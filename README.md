@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Globo de Ouro: ‘Ainda estou aqui’ e Fernanda Torres são indicados](https://www.nexojornal.com.br/extra/2024/12/09/ainda-estou-aqui-globo-de-ouro-fernanda-torres)
 - [Por que a trama do golpe está no STF, e não na 1ª instância](https://www.nexojornal.com.br/expresso/2024/12/08/brasil-politica-tentativa-de-golpe-julgamento-stf-supremo)
 - [Como o tráfico entre Peru e Brasil coloca indígenas em risco](https://www.nexojornal.com.br/externo/2024/12/08/trafico-brasil-peru-impacto-indigenas)
 - [Como as mudanças climáticas afetam profissionais de saúde](https://www.nexojornal.com.br/ensaio/2024/12/08/mudancas-climaticas-impacto-profissional-saude)
 - [Cidades catarinenses decretam situação de emergência por chuvas](https://www.nexojornal.com.br/extra/2024/12/08/cidades-catarinenses-decretam-situacao-de-emergencia-por-chuvas)
-- [Brasil orienta cidadãos a deixar Síria e pede solução pacífica](https://www.nexojornal.com.br/extra/2024/12/08/brasil-orienta-cidadaos-a-deixar-siria-e-pede-solucao-pacifica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
