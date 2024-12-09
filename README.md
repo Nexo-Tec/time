@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o matcha virou febre e sumiu das prateleiras no Japão](https://www.nexojornal.com.br/expresso/2024/12/09/japao-matcha-cha-verde-culinaria-japonesa)
+- [Botafogo encerra jejum de quase 30 anos sem título do brasileiro](https://www.nexojornal.com.br/grafico/2024/12/09/botafogo-campeao-brasileirao-futebol-29-anos)
 - [Denúncia liga Jay-Z a abuso sexual no caso Diddy](https://www.nexojornal.com.br/extra/2024/12/09/jay-z-acusado-de-estupro)
 - [Do trauma à glória: as conquistas do Botafogo em 2024](https://www.nexojornal.com.br/expresso/2024/12/09/botafogo-campeao-brasileiro-2024)
 - [Barroso obriga PM paulista a usar câmera na farda em operações](https://www.nexojornal.com.br/extra/2024/12/09/supremo-obriga-pm-a-usar-camera)
-- [Globo de Ouro: ‘Ainda estou aqui’ e Fernanda Torres são indicados](https://www.nexojornal.com.br/extra/2024/12/09/ainda-estou-aqui-globo-de-ouro-fernanda-torres)
-- [Por que a trama do golpe está no STF, e não na 1ª instância](https://www.nexojornal.com.br/expresso/2024/12/08/brasil-politica-tentativa-de-golpe-julgamento-stf-supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
