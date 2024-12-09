@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Do trauma à glória: as conquistas do Botafogo em 2024](https://www.nexojornal.com.br/expresso/2024/12/09/botafogo-campeao-brasileiro-2024)
+- [Barroso obriga PM paulista a usar câmera na farda em operações](https://www.nexojornal.com.br/extra/2024/12/09/supremo-obriga-pm-a-usar-camera)
 - [Globo de Ouro: ‘Ainda estou aqui’ e Fernanda Torres são indicados](https://www.nexojornal.com.br/extra/2024/12/09/ainda-estou-aqui-globo-de-ouro-fernanda-torres)
 - [Por que a trama do golpe está no STF, e não na 1ª instância](https://www.nexojornal.com.br/expresso/2024/12/08/brasil-politica-tentativa-de-golpe-julgamento-stf-supremo)
 - [Como o tráfico entre Peru e Brasil coloca indígenas em risco](https://www.nexojornal.com.br/externo/2024/12/08/trafico-brasil-peru-impacto-indigenas)
-- [Como as mudanças climáticas afetam profissionais de saúde](https://www.nexojornal.com.br/ensaio/2024/12/08/mudancas-climaticas-impacto-profissional-saude)
-- [Cidades catarinenses decretam situação de emergência por chuvas](https://www.nexojornal.com.br/extra/2024/12/08/cidades-catarinenses-decretam-situacao-de-emergencia-por-chuvas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
