@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@doechii](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/doechii/)
 - [Ciência cidadã: um caminho para a transformação e o engajamento com a ciência](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/ciencia-cidada/)
 - [Sandra Sá](https://gamarevista.uol.com.br/pessoas/questionario-proust/sandra-sa/)
 - [Léo Galvão: “Eu gosto de fazer gente feliz”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/leo-galvao/)
 - [O que é uma filantropia ancestral?](https://gamarevista.uol.com.br/formato/conversas/o-que-e-uma-filantropia-ancestral/)
-- [De Marte à Favela](https://gamarevista.uol.com.br/cultura/trecho-de-livro/de-marte-a-favela/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
