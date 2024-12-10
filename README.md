@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a música pode mudar nossas lembranças do passado](https://www.nexojornal.com.br/externo/2024/12/10/ouvir-musica-lembrancas-do-passado)
+- [O culto ao assassino de um executivo de plano de saúde nos EUA](https://www.nexojornal.com.br/expresso/2024/12/10/luigi-mangione-assassino-ceo-plano-de-saude-nova-york)
 - [5 facetas de Dalton Trevisan, o ‘Vampiro de Curitiba’](https://www.nexojornal.com.br/expresso/2024/12/10/dalton-trevisan-morreu-vampiro-de-curitiba)
 - [Inflação desacelera em novembro, mas segue acima do teto da meta](https://www.nexojornal.com.br/extra/2024/12/10/inflacao-novembro-2024)
 - [Lula está consciente e médicos preveem alta após cirurgia no crânio](https://www.nexojornal.com.br/extra/2024/12/10/lula-operado-hemorragia-cerebral)
-- [Boas festas nos laboratórios, onde a ciência nunca para](https://www.nexojornal.com.br/colunistas/2024/12/09/descobertas-da-ciencia-em-2024)
-- [Como regimentos podem ficar menos opacos no Congresso](https://www.nexojornal.com.br/expresso/2024/12/09/regimento-interno-congresso-guia-do-pacto-pela-democracia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
