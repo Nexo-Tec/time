@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula é operado em São Paulo após hemorragia cerebral](https://www.nexojornal.com.br/extra/2024/12/10/lula-operado-hemorragia-cerebral)
 - [Boas festas nos laboratórios, onde a ciência nunca para](https://www.nexojornal.com.br/colunistas/2024/12/09/descobertas-da-ciencia-em-2024)
 - [Como regimentos podem ficar menos opacos no Congresso](https://www.nexojornal.com.br/expresso/2024/12/09/regimento-interno-congresso-guia-do-pacto-pela-democracia)
 - [Como a queda de Assad reconfigura o Oriente Médio](https://www.nexojornal.com.br/expresso/2024/12/09/queda-assad-siria-reconfigura-oriente-medio)
 - [Como o matcha virou febre e sumiu das prateleiras no Japão](https://www.nexojornal.com.br/expresso/2024/12/09/japao-matcha-cha-verde-culinaria-japonesa)
-- [Botafogo encerra jejum de quase 30 anos sem título do brasileiro](https://www.nexojornal.com.br/grafico/2024/12/09/botafogo-campeao-brasileirao-futebol-29-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
