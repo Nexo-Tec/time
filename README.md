@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O documentário interativo que conta a história do ‘Tetris’](https://www.nexojornal.com.br/expresso/2024/12/10/tetris-videogame-documentario-interativo-40-anos)
 - [Por que a música pode mudar nossas lembranças do passado](https://www.nexojornal.com.br/externo/2024/12/10/ouvir-musica-lembrancas-do-passado)
 - [O culto ao assassino de um executivo de plano de saúde nos EUA](https://www.nexojornal.com.br/expresso/2024/12/10/luigi-mangione-assassino-ceo-plano-de-saude-nova-york)
 - [5 facetas de Dalton Trevisan, o ‘Vampiro de Curitiba’](https://www.nexojornal.com.br/expresso/2024/12/10/dalton-trevisan-morreu-vampiro-de-curitiba)
 - [Inflação desacelera em novembro, mas segue acima do teto da meta](https://www.nexojornal.com.br/extra/2024/12/10/inflacao-novembro-2024)
-- [Lula está consciente e médicos preveem alta após cirurgia no crânio](https://www.nexojornal.com.br/extra/2024/12/10/lula-operado-hemorragia-cerebral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
