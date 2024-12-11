@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Evidências além de discursos: música na escola, estudos científicos e o exemplo do Guri](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/evidencias-alem-de-discursos-musica-na-escola-estudos-cientificos-e-o-exemplo-do-guri/)
 - [Lições do G20 para a COP30 em Belém](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/09/licoes-do-g20-para-a-cop30-em-belem/)
 - [Fabro Steibel: regulação e uso da inteligência artificial na saúde](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/12/06/fabro-steibel-regulacao-e-uso-da-inteligencia-artificial-na-saude/)
 - [Os percalços da alimentação sustentável na Europa](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/04/os-percalcos-da-alimentacao-sustentavel-na-europa/)
 - [Desigualdades raciais na educação no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/04/desigualdades-raciais-na-educacao-no-brasil/)
-- [Fortalecendo políticas de mercado de trabalho no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/04/fortalecendo-politicas-de-mercado-de-trabalho-no-brasil/)
 <!-- PP_LIST:END -->
 
