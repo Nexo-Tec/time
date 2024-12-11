@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Chikungunya: um inimigo oculto, mas muito presente](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/chikungunya-um-inimigo-oculto-mas-muito-presente/)
+- [O Fundeb de 2025 será o mais equitativo da nossa história](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/o-fundeb-de-2025-sera-o-mais-equitativo-da-nossa-historia/)
+- [A profissionalização do campo de políticas públicas no Brasil: avanços e desafios](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/a-profissionalizacao-do-campo-de-politicas-publicas-no-brasil-avancos-e-desafios/)
 - [É preciso desnaturalizar o trabalho docente em múltiplas escolas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/e-preciso-desnaturalizar-o-trabalho-docente-em-multiplas-escolas-no-brasil/)
 - [Primeira Infância Melhor, resiliência e efetividade em tempos de crise](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/primeira-infancia-melhor-resiliencia-e-efetividade-em-tempos-de-crise/)
-- [Contribuições de W.E.B Du Bois para as relações internacionais](https://pp.nexojornal.com.br/opiniao/2024/12/11/contribuicoes-de-w-e-b-du-bois-para-as-relacoes-internacionais/)
-- [Desafios do Brasil para incluir as juventudes](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/desafios-do-brasil-para-incluir-as-juventudes/)
-- [Evidências além de discursos: música na escola, estudos científicos e o exemplo do Guri](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/evidencias-alem-de-discursos-musica-na-escola-estudos-cientificos-e-o-exemplo-do-guri/)
 <!-- PP_LIST:END -->
 
