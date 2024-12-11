@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [É preciso desnaturalizar o trabalho docente em múltiplas escolas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/e-preciso-desnaturalizar-o-trabalho-docente-em-multiplas-escolas-no-brasil/)
 - [Primeira Infância Melhor, resiliência e efetividade em tempos de crise](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/primeira-infancia-melhor-resiliencia-e-efetividade-em-tempos-de-crise/)
 - [Contribuições de W.E.B Du Bois para as relações internacionais](https://pp.nexojornal.com.br/opiniao/2024/12/11/contribuicoes-de-w-e-b-du-bois-para-as-relacoes-internacionais/)
 - [Desafios do Brasil para incluir as juventudes](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/desafios-do-brasil-para-incluir-as-juventudes/)
 - [Evidências além de discursos: música na escola, estudos científicos e o exemplo do Guri](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/evidencias-alem-de-discursos-musica-na-escola-estudos-cientificos-e-o-exemplo-do-guri/)
-- [Lições do G20 para a COP30 em Belém](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/09/licoes-do-g20-para-a-cop30-em-belem/)
 <!-- PP_LIST:END -->
 
