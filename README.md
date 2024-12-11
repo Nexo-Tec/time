@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que este violino pode ser o instrumento mais caro do mundo](https://www.nexojornal.com.br/expresso/2024/12/11/violino-leilao-instrumento-stradivarius)
 - [Arábia Saudita vai sediar a Copa do Mundo de 2034](https://www.nexojornal.com.br/extra/2024/12/11/arabia-saudita-copa-do-mundo-2034)
 - [Justiça cassa prefeito eleito de Goiânia e faz de Caiado inelegível](https://www.nexojornal.com.br/extra/2024/12/11/caiado-inelegivel-mabel-cassado-justica-goias)
 - [Como a economia da China se prepara para a política de Trump](https://www.nexojornal.com.br/expresso/2024/12/10/china-economia-ameaca-trump)
 - [A saúde de Lula à frente de um governo pressionado](https://www.nexojornal.com.br/expresso/2024/12/10/lula-internado-hemorragia-cerebral-governo)
-- [A tentação de crer na versão moderada do Isis na Síria](https://www.nexojornal.com.br/colunistas/2024/12/10/isis-versao-moderada-siria-derrubada-poder-bashar-al-assad)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
