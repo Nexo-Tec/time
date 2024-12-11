@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como garantir bons hábitos na introdução alimentar de crianças](https://www.nexojornal.com.br/externo/2024/12/11/alimentacao-de-criancas-bons-habitos-alimentares)
+- [Banco Central acelera ainda mais aumento de juros](https://www.nexojornal.com.br/extra/2024/12/11/banco-central-aumenta-juros)
+- [Violência policial: todos os olhos sobre a PM paulista](https://www.nexojornal.com.br/podcast/2024/12/11/violencia-policial-em-sao-paulo)
 - [Por que este violino pode ser o instrumento mais caro do mundo](https://www.nexojornal.com.br/expresso/2024/12/11/violino-leilao-instrumento-stradivarius)
 - [Arábia Saudita vai sediar a Copa do Mundo de 2034](https://www.nexojornal.com.br/extra/2024/12/11/arabia-saudita-copa-do-mundo-2034)
-- [Justiça cassa prefeito eleito de Goiânia e faz de Caiado inelegível](https://www.nexojornal.com.br/extra/2024/12/11/caiado-inelegivel-mabel-cassado-justica-goias)
-- [Como a economia da China se prepara para a política de Trump](https://www.nexojornal.com.br/expresso/2024/12/10/china-economia-ameaca-trump)
-- [A saúde de Lula à frente de um governo pressionado](https://www.nexojornal.com.br/expresso/2024/12/10/lula-internado-hemorragia-cerebral-governo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
