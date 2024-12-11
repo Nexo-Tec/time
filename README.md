@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Justiça cassa prefeito eleito de Goiânia e faz de Caiado inelegível](https://www.nexojornal.com.br/extra/2024/12/11/caiado-inelegivel-mabel-cassado-justica-goias)
 - [Como a economia da China se prepara para a política de Trump](https://www.nexojornal.com.br/expresso/2024/12/10/china-economia-ameaca-trump)
 - [A saúde de Lula à frente de um governo pressionado](https://www.nexojornal.com.br/expresso/2024/12/10/lula-internado-hemorragia-cerebral-governo)
 - [A tentação de crer na versão moderada do Isis na Síria](https://www.nexojornal.com.br/colunistas/2024/12/10/isis-versao-moderada-siria-derrubada-poder-bashar-al-assad)
 - [Senado aprova projeto que regulamenta uso de IA no Brasil](https://www.nexojornal.com.br/extra/2024/12/10/senado-aprova-projeto-que-regulamenta-uso-de-ia-no-brasil)
-- [O documentário interativo que conta a história do ‘Tetris’](https://www.nexojornal.com.br/expresso/2024/12/10/tetris-videogame-documentario-interativo-40-anos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
