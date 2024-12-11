@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como se dá o engajamento ambiental entre os evangélicos](https://pp.nexojornal.com.br/academico/2024/12/11/como-se-da-o-engajamento-ambiental-entre-os-evangelicos/)
+- [Cotas na Universidade do Estado da Bahia](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/11/cotas-na-universidade-do-estado-da-bahia/)
 - [Como a gestão escolar se relaciona com o desempenho acadêmico dos estudantes](https://pp.nexojornal.com.br/academico/2024/12/11/como-a-gestao-escolar-se-relaciona-com-o-desempenho-academico-dos-estudantes/)
 - [Chikungunya: um inimigo oculto, mas muito presente](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/chikungunya-um-inimigo-oculto-mas-muito-presente/)
 - [O Fundeb de 2025 será o mais equitativo da nossa história](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/o-fundeb-de-2025-sera-o-mais-equitativo-da-nossa-historia/)
-- [A profissionalização do campo de políticas públicas no Brasil: avanços e desafios](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/a-profissionalizacao-do-campo-de-politicas-publicas-no-brasil-avancos-e-desafios/)
-- [É preciso desnaturalizar o trabalho docente em múltiplas escolas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/e-preciso-desnaturalizar-o-trabalho-docente-em-multiplas-escolas-no-brasil/)
 <!-- PP_LIST:END -->
 
