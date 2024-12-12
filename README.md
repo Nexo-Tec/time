@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [86,4% dos domicílios brasileiros têm acesso à internet](https://www.nexojornal.com.br/grafico/2024/12/12/internet-domicilios-populacao-brasileiros-censo)
+- [O tipo mais comum de material dos domicílios brasileiros](https://www.nexojornal.com.br/grafico/2024/12/12/censo-ibge-material-domicilios-brasileiros)
 - [Médico diz que segunda cirurgia de Lula foi bem-sucedida](https://www.nexojornal.com.br/extra/2024/12/12/lula-segunda-cirurgia-cabeca)
 - [O que marcou a gestão de Campos Neto no Banco Central](https://www.nexojornal.com.br/expresso/2024/12/11/balanco-gestao-roberto-campos-neto-banco-central)
 - [Como as obras de García Márquez foram adaptadas para as telas](https://www.nexojornal.com.br/expresso/2024/12/11/gabriel-garcia-marquez-cem-anos-de-solidao-serie-netflix)
-- [Dever fundamental do ser humano: não encher a paciência](https://www.nexojornal.com.br/colunistas/2024/12/11/o-quarto-ao-lado-almodovar-eutanasia-marcelo-coelho)
-- [Como garantir bons hábitos na introdução alimentar de crianças](https://www.nexojornal.com.br/externo/2024/12/11/alimentacao-de-criancas-bons-habitos-alimentares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
