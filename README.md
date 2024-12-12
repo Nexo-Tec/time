@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Alugado, próprio ou cedido: a situação dos domicílios brasileiros](https://www.nexojornal.com.br/grafico/2024/12/12/domicilio-alugado-proprio-censo-ibge)
 - [A Brasil Paralelo e a ascensão da extrema direita no país](https://www.nexojornal.com.br/academico/2024/12/12/brasil-paralelo-extrema-direita-ascensao-pesquisa)
 - [86,4% dos domicílios brasileiros têm acesso à internet](https://www.nexojornal.com.br/grafico/2024/12/12/internet-domicilios-populacao-brasileiros-censo)
 - [O tipo mais comum de material dos domicílios brasileiros](https://www.nexojornal.com.br/grafico/2024/12/12/censo-ibge-material-domicilios-brasileiros)
 - [Médico diz que segunda cirurgia de Lula foi bem-sucedida](https://www.nexojornal.com.br/extra/2024/12/12/lula-segunda-cirurgia-cabeca)
-- [O que marcou a gestão de Campos Neto no Banco Central](https://www.nexojornal.com.br/expresso/2024/12/11/balanco-gestao-roberto-campos-neto-banco-central)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
