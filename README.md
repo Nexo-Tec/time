@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Senado aprova regulamentação da reforma tributária](https://www.nexojornal.com.br/extra/2024/12/12/senado-regulamentacao-reforma-tributaria)
-- [Trump promete perdoar invasores do Capitólio](https://www.nexojornal.com.br/extra/2024/12/12/trump-promete-perdoar-invasores-do-capitolio)
-- [Alugado, próprio ou cedido: a situação dos domicílios brasileiros](https://www.nexojornal.com.br/grafico/2024/12/12/domicilio-alugado-proprio-censo-ibge)
-- [A Brasil Paralelo e a ascensão da extrema direita no país](https://www.nexojornal.com.br/academico/2024/12/12/brasil-paralelo-extrema-direita-ascensao-pesquisa)
-- [86,4% dos domicílios brasileiros têm acesso à internet](https://www.nexojornal.com.br/grafico/2024/12/12/internet-domicilios-populacao-brasileiros-censo)
+- [Os cuidados ao divulgar o quadro de saúde de um governante](https://www.nexojornal.com.br/expresso/2024/12/12/lula-quadro-de-saude-segunda-cirurgia)
+- [Como a ciência pode dialogar com o conhecimento indígena](https://www.nexojornal.com.br/expresso/2024/12/12/artigo-science-ciencia-indigena)
+- [Por que o G20 deve olhar para a crise de dívida da África](https://www.nexojornal.com.br/ensaio/2024/12/12/g20-reuniao-paises-crise-divida-africa)
+- [Por que os vilões do ‘Homem-Aranha’ frustraram a Sony](https://www.nexojornal.com.br/expresso/2024/12/12/viloes-homem-aranha-sony-kraven-o-cacador-marvel)
+- [As alegações de interferência russa na Romênia e na Geórgia](https://www.nexojornal.com.br/expresso/2024/12/12/romenia-georgia-interferencia-russa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
