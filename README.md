@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Tião Carreiro ajudou a popularizar a música caipira](https://www.nexojornal.com.br/expresso/2024/12/13/tiao-carreiro-viola-musica-caipira-sertanejo)
-- [Como os animais mais antigos do mundo lidam com o plástico](https://www.nexojornal.com.br/externo/2024/12/13/esponjas-marinhas-animais-lidam-com-plastico-poluicao-nos-oceanos)
-- [Como o k-pop embala protestos na Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/12/13/into-the-new-world-snsd-girls-generation-kpop-protestos)
-- [Macron indica novo primeiro-ministro da França](https://www.nexojornal.com.br/extra/2024/12/13/novo-primeiro-ministro-da-franca)
-- [Os cuidados ao divulgar o quadro de saúde de um governante](https://www.nexojornal.com.br/expresso/2024/12/12/lula-quadro-de-saude-segunda-cirurgia)
+- [Maioria dos alunos de escolas em áreas de risco são negros](https://www.nexojornal.com.br/externo/2024/12/13/alunos-negros-escolas-em-areas-de-risco-clima-brasil)
+- [5 livros que tratam da construção da memória coletiva](https://www.nexojornal.com.br/estante-favoritos/2024/12/13/livros-memoria-coletiva-lilian-dias-indicacao)
+- [A relação dos gamers com os antigos manuais de instruções](https://www.nexojornal.com.br/expresso/2024/12/13/jogo-game-manual-de-instrucao-dicas-easter-eggs)
+- [Como alimentos nocivos se dão bem na reforma tributária](https://www.nexojornal.com.br/expresso/2024/12/13/imposto-seletivo-refrigerantes-ultraprocessados-reforma-tributaria)
+- [‘A construção’: o baque da desigualdade nos sonhos de futuro](https://www.nexojornal.com.br/estante-trechos/2024/12/13/livro-a-construcao-andressa-marques-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
