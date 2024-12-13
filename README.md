@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A exposição americana que exibe livros que não existem](https://www.nexojornal.com.br/expresso/2024/12/13/exposicao-livros-imaginarios)
 - [O jogo de RPG que se passa na Guerra de Canudos](https://www.nexojornal.com.br/expresso/2024/12/13/rpg-guerra-de-canudos-hell-clock)
 - [A origem do sample mais usado da história da música](https://www.nexojornal.com.br/expresso/2024/12/13/sample-amen-break-musica-mais-usada-historia)
 - [Maioria dos alunos de escolas em áreas de risco são negros](https://www.nexojornal.com.br/externo/2024/12/13/alunos-negros-escolas-em-areas-de-risco-clima-brasil)
 - [5 livros que tratam da construção da memória coletiva](https://www.nexojornal.com.br/estante-favoritos/2024/12/13/livros-memoria-coletiva-lilian-dias-indicacao)
-- [A relação dos gamers com os antigos manuais de instruções](https://www.nexojornal.com.br/expresso/2024/12/13/jogo-game-manual-de-instrucao-dicas-easter-eggs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
