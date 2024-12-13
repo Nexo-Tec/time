@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Macron indica novo primeiro-ministro da França](https://www.nexojornal.com.br/extra/2024/12/13/novo-primeiro-ministro-da-franca)
 - [Os cuidados ao divulgar o quadro de saúde de um governante](https://www.nexojornal.com.br/expresso/2024/12/12/lula-quadro-de-saude-segunda-cirurgia)
 - [Como a ciência pode dialogar com o conhecimento indígena](https://www.nexojornal.com.br/expresso/2024/12/12/artigo-science-ciencia-indigena)
 - [Por que o G20 deve olhar para a crise de dívida da África](https://www.nexojornal.com.br/ensaio/2024/12/12/g20-reuniao-paises-crise-divida-africa)
 - [Por que os vilões do ‘Homem-Aranha’ frustraram a Sony](https://www.nexojornal.com.br/expresso/2024/12/12/viloes-homem-aranha-sony-kraven-o-cacador-marvel)
-- [As alegações de interferência russa na Romênia e na Geórgia](https://www.nexojornal.com.br/expresso/2024/12/12/romenia-georgia-interferencia-russa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
