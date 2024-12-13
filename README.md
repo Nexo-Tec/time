@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O jogo de RPG que se passa na Guerra de Canudos](https://www.nexojornal.com.br/expresso/2024/12/13/rpg-guerra-de-canudos-hell-clock)
+- [A origem do sample mais usado da história da música](https://www.nexojornal.com.br/expresso/2024/12/13/sample-amen-break-musica-mais-usada-historia)
 - [Maioria dos alunos de escolas em áreas de risco são negros](https://www.nexojornal.com.br/externo/2024/12/13/alunos-negros-escolas-em-areas-de-risco-clima-brasil)
 - [5 livros que tratam da construção da memória coletiva](https://www.nexojornal.com.br/estante-favoritos/2024/12/13/livros-memoria-coletiva-lilian-dias-indicacao)
 - [A relação dos gamers com os antigos manuais de instruções](https://www.nexojornal.com.br/expresso/2024/12/13/jogo-game-manual-de-instrucao-dicas-easter-eggs)
-- [Como alimentos nocivos se dão bem na reforma tributária](https://www.nexojornal.com.br/expresso/2024/12/13/imposto-seletivo-refrigerantes-ultraprocessados-reforma-tributaria)
-- [‘A construção’: o baque da desigualdade nos sonhos de futuro](https://www.nexojornal.com.br/estante-trechos/2024/12/13/livro-a-construcao-andressa-marques-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
