@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Tião Carreiro ajudou a popularizar a música caipira](https://www.nexojornal.com.br/expresso/2024/12/13/tiao-carreiro-viola-musica-caipira-sertanejo)
 - [Como os animais mais antigos do mundo lidam com o plástico](https://www.nexojornal.com.br/externo/2024/12/13/esponjas-marinhas-animais-lidam-com-plastico-poluicao-nos-oceanos)
 - [Como o k-pop embala protestos na Coreia do Sul](https://www.nexojornal.com.br/expresso/2024/12/13/into-the-new-world-snsd-girls-generation-kpop-protestos)
 - [Macron indica novo primeiro-ministro da França](https://www.nexojornal.com.br/extra/2024/12/13/novo-primeiro-ministro-da-franca)
 - [Os cuidados ao divulgar o quadro de saúde de um governante](https://www.nexojornal.com.br/expresso/2024/12/12/lula-quadro-de-saude-segunda-cirurgia)
-- [Como a ciência pode dialogar com o conhecimento indígena](https://www.nexojornal.com.br/expresso/2024/12/12/artigo-science-ciencia-indigena)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
