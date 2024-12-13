@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O lugar do risco na filantropia](https://gamarevista.uol.com.br/formato/reportagem/o-lugar-do-risco-na-filantropia/)
 - [O Vampiro de Curitiba](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-vampiro-de-curitiba/)
 - [As estreias do cinema, de Caetano Veloso a Sebastian Stan](https://gamarevista.uol.com.br/achamos-que-vale/assistir/as-estreias-do-cinema-de-caetano-veloso-a-sebastian-stan/)
 - [Podcast sobre a vida e a obra de Clarice Lispector, do IMS](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/podcast-sobre-a-vida-e-a-obra-de-clarice-lispector-do-ims/)
 - [A série documental “A História de uma Planta”, no GNT](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-serie-documental-a-historia-de-uma-planta-no-gnt/)
-- [Os primeiros passos de Djavan em “Origem”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-primeiros-passos-de-djavan-em-origem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
