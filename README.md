@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Presidente da Coreia do Sul cai após tentar impor lei marcial](https://www.nexojornal.com.br/extra/2024/12/14/presidente-coreia-do-sul-impeachment-lei-marcial)
 - [Braga Netto preso: o que diz a PF de sua atuação no plano de golpe](https://www.nexojornal.com.br/expresso/2024/12/14/braga-netto-preso-plano-de-golpe)
 - [A diferença entre os dados do universo e da amostra do Censo](https://www.nexojornal.com.br/grafico/2024/12/13/amostra-universo-censo-ibge-diferenca)
 - [A exposição americana que exibe livros que não existem](https://www.nexojornal.com.br/expresso/2024/12/13/exposicao-livros-imaginarios)
 - [O jogo de RPG que se passa na Guerra de Canudos](https://www.nexojornal.com.br/expresso/2024/12/13/rpg-guerra-de-canudos-hell-clock)
-- [A origem do sample mais usado da história da música](https://www.nexojornal.com.br/expresso/2024/12/13/sample-amen-break-musica-mais-usada-historia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
