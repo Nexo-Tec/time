@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Lula recebe alta após procedimentos na cabeça e deixa hospital](https://www.nexojornal.com.br/extra/2024/12/15/lula-recebe-alta-hospital-sao-paulo)
 - [Como a falta de áreas verdes impacta a educação escolar](https://www.nexojornal.com.br/externo/2024/12/15/falta-de-areas-verdes-impacta-educacao-escolar)
 - [O guia dos anos 70 de plantas amazônicas alucinógenas](https://www.nexojornal.com.br/expresso/2024/12/15/guia-de-plantas-alucinogenas-medicina)
 - [Como a instabilidade de França e Alemanha ameaça a Europa](https://www.nexojornal.com.br/expresso/2024/12/14/crise-franca-alemanha-impacto-uniao-europeia)
 - [O desafio produtivo de uma força de trabalho envelhecida](https://www.nexojornal.com.br/ensaio/2024/12/14/o-desafio-produtivo-de-uma-forca-de-trabalho-envelhecida)
-- [O futuro é um deserto? Como o mundo fica cada vez mais árido](https://www.nexojornal.com.br/expresso/2024/12/14/relatorio-onu-seca-cop16-desertificacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
