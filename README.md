@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Presidente da Coreia do Sul cai após tentar impor lei marcial](https://www.nexojornal.com.br/extra/2024/12/14/presidente-coreia-do-sul-impeachment-lei-marcial)
-- [Braga Netto preso: o que diz a PF de sua atuação no plano de golpe](https://www.nexojornal.com.br/expresso/2024/12/14/braga-netto-preso-plano-de-golpe)
-- [A diferença entre os dados do universo e da amostra do Censo](https://www.nexojornal.com.br/grafico/2024/12/13/amostra-universo-censo-ibge-diferenca)
-- [A exposição americana que exibe livros que não existem](https://www.nexojornal.com.br/expresso/2024/12/13/exposicao-livros-imaginarios)
-- [O jogo de RPG que se passa na Guerra de Canudos](https://www.nexojornal.com.br/expresso/2024/12/13/rpg-guerra-de-canudos-hell-clock)
+- [Como a falta de áreas verdes impacta a educação escolar](https://www.nexojornal.com.br/externo/2024/12/15/falta-de-areas-verdes-impacta-educacao-escolar)
+- [O guia dos anos 70 de plantas amazônicas alucinógenas](https://www.nexojornal.com.br/expresso/2024/12/15/guia-de-plantas-alucinogenas-medicina)
+- [Como a instabilidade de França e Alemanha ameaça a Europa](https://www.nexojornal.com.br/expresso/2024/12/14/crise-franca-alemanha-impacto-uniao-europeia)
+- [O desafio produtivo de uma força de trabalho envelhecida](https://www.nexojornal.com.br/ensaio/2024/12/14/o-desafio-produtivo-de-uma-forca-de-trabalho-envelhecida)
+- [O futuro é um deserto? Como o mundo fica cada vez mais árido](https://www.nexojornal.com.br/expresso/2024/12/14/relatorio-onu-seca-cop16-desertificacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
