@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Sistemas Plurais de Saúde](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/16/sistemas-plurais-de-saude/)
 - [Desafios da avaliação no Brasil: a formação de avaliadores frente às demandas emergentes](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/desafios-da-avaliacao-no-brasil-a-formacao-de-avaliadores-frente-as-demandas-emergentes/)
 - [Como se dá o engajamento ambiental entre os evangélicos](https://pp.nexojornal.com.br/academico/2024/12/11/como-se-da-o-engajamento-ambiental-entre-os-evangelicos/)
 - [Cotas na Universidade do Estado da Bahia](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/11/cotas-na-universidade-do-estado-da-bahia/)
 - [Como a gestão escolar se relaciona com o desempenho acadêmico dos estudantes](https://pp.nexojornal.com.br/academico/2024/12/11/como-a-gestao-escolar-se-relaciona-com-o-desempenho-academico-dos-estudantes/)
-- [Chikungunya: um inimigo oculto, mas muito presente](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/chikungunya-um-inimigo-oculto-mas-muito-presente/)
 <!-- PP_LIST:END -->
 
