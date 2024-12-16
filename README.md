@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem são os cientistas japoneses pioneiros da Inteligência artificial](https://www.nexojornal.com.br/externo/2024/12/16/ia-inteligencia-artificial-japao-ciencia-pioneiros)
+- [É hora de frear a ocupação militar das escolas públicas](https://www.nexojornal.com.br/ensaio/2024/12/16/escola-civico-militar-publica-opiniao-contra)
+- [Qual o interesse de Israel em expandir assentamentos no Golã](https://www.nexojornal.com.br/expresso/2024/12/16/interesse-israel-guerra-siria)
 - [‘Nível secreto’: a homenagem a games na nova série do Prime](https://www.nexojornal.com.br/expresso/2024/12/16/jogo-games-serie-prime-video-nivel-secreto)
 - [Chanceler perde apoio, e Alemanha antecipa eleição](https://www.nexojornal.com.br/extra/2024/12/16/parlamento-retira-apoio-a-olaf-scholz)
-- [O mapa interativo que explora o histórico de fronteiras de países](https://www.nexojornal.com.br/expresso/2024/12/16/o-mapa-interativo-que-explora-o-historico-de-fronteiras-de-paises)
-- [5 maneiras de tornar caminhadas ainda mais proveitosas](https://www.nexojornal.com.br/externo/2024/12/16/5-maneiras-de-tornar-caminhadas-ainda-mais-proveitosas)
-- [Doença de Alzheimer é mais comum em brancos e demência vascular afeta mais negros](https://www.nexojornal.com.br/externo/2024/12/15/doenca-alzheimer-demencia-vascular-brancos-e-negros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
