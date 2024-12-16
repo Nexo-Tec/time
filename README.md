@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 maneiras de tornar caminhadas ainda mais proveitosas](https://www.nexojornal.com.br/externo/2024/12/16/5-maneiras-de-tornar-caminhadas-ainda-mais-proveitosas)
 - [Doença de Alzheimer é mais comum em brancos e demência vascular afeta mais negros](https://www.nexojornal.com.br/externo/2024/12/15/doenca-alzheimer-demencia-vascular-brancos-e-negros)
 - [Os avanços da agenda ambiental e o impacto para a economia](https://www.nexojornal.com.br/ensaio/2024/12/15/os-avancos-da-agenda-ambiental-e-o-impacto-para-a-economia)
 - [Como macacos-prego transmitem tradições entre si](https://www.nexojornal.com.br/expresso/2024/12/15/macaco-prego-animal-tradicao-cultura)
 - [Lula está certo em criticar a comunicação do seu governo?](https://www.nexojornal.com.br/expresso/2024/12/15/lula-comunicacao-governo-criticas)
-- [Israel vai ampliar assentamentos na Síria, diz Netanyahu](https://www.nexojornal.com.br/extra/2024/12/15/israel-siria-colinas-de-gola-assentamentos-ataques)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
