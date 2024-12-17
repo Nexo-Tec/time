@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vini Jr vence prêmio da Fifa e Brasil volta a ter melhor do mundo](https://www.nexojornal.com.br/extra/2024/12/17/vini-jr-melhor-do-mundo-fifa-the-best-2024)
 - [Como políticos e militares reagem à prisão de Braga Netto](https://www.nexojornal.com.br/expresso/2024/12/16/braga-netto-preso-reacao-politicos-e-militares)
 - [Quem são os cientistas japoneses pioneiros da inteligência artificial](https://www.nexojornal.com.br/externo/2024/12/16/ia-inteligencia-artificial-japao-ciencia-pioneiros)
 - [É hora de frear a ocupação militar das escolas públicas](https://www.nexojornal.com.br/ensaio/2024/12/16/escola-civico-militar-publica-opiniao-contra)
 - [Qual o interesse de Israel em expandir assentamentos no Golã](https://www.nexojornal.com.br/expresso/2024/12/16/interesse-israel-guerra-siria)
-- [‘Nível secreto’: a homenagem a games na nova série do Prime](https://www.nexojornal.com.br/expresso/2024/12/16/jogo-games-serie-prime-video-nivel-secreto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
