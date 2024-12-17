@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Câmara aprova regulamentação da reforma tributária](https://www.nexojornal.com.br/extra/2024/12/17/camara-regulamentacao-reforma-tributaria)
 - [O banco de dados que resgata cartas de alforria da Bahia](https://www.nexojornal.com.br/externo/2024/12/17/banco-de-dados-cartas-de-alforria-bahia)
 - [A urgência de olhar para a matemática no ensino fundamental](https://www.nexojornal.com.br/ensaio/2024/12/17/educacao-matematica-ensino-fundamental-desempenho-alunos)
 - [5 filmes marcantes da parceria entre Marisa Paredes e Almodóvar](https://www.nexojornal.com.br/expresso/2024/12/17/filme-marisa-paredes-almodovar)
 - [Vini Jr vence prêmio da Fifa e Brasil volta a ter melhor do mundo](https://www.nexojornal.com.br/extra/2024/12/17/vini-jr-melhor-do-mundo-fifa-the-best-2024)
-- [Como políticos e militares reagem à prisão de Braga Netto](https://www.nexojornal.com.br/expresso/2024/12/16/braga-netto-preso-reacao-politicos-e-militares)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
