@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Voto dos fãs foram decisivos para a vitória de Vini Jr](https://www.nexojornal.com.br/grafico/2024/12/18/vini-jr-votacao-melhor-jogador-fifa-2024)
 - [Por que a Justiça nega a violência de gênero no caso Julieta](https://www.nexojornal.com.br/externo/2024/12/18/violencia-de-genero-caso-julieta-justica)
 - [Os mistérios desvendados em fóruns da internet em 2024](https://www.nexojornal.com.br/expresso/2024/12/18/internet-soluciona-misterios-de-2024)
 - [O que define plágio na música. E quais os casos marcantes](https://www.nexojornal.com.br/expresso/2024/12/17/adele-musica-plagio-o-que-e)
 - [O plano ranzinza da França para impor o silêncio](https://www.nexojornal.com.br/colunistas/2024/12/17/franca-proibe-barulho-de-carro-multa-silencio-ruido-urbano)
-- [Transformar a gestão de pessoas no setor público com dados](https://www.nexojornal.com.br/colunistas/2024/12/17/servico-publico-gestao-de-pessoas-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
