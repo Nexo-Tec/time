@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O que já passou na reforma tributária. E o que falta passar](https://www.nexojornal.com.br/expresso/2024/12/18/reforma-tributaria-sancao-presidente-resumo-proposta)
 - [Brinquedo, não: o celular como pedido de Natal das crianças](https://www.nexojornal.com.br/expresso/2024/12/18/celular-presente-de-natal-crianca)
 - [A expansão de ‘O Rei Leão’ para além da animação clássica](https://www.nexojornal.com.br/expresso/2024/12/18/rei-leao-filme-live-action-mufasa)
-- [Câmara conclui votação de proposta do pacote de Haddad](https://www.nexojornal.com.br/extra/2024/12/18/camara-conclui-votacao-de-proposta-do-pacote-de-haddad)
+- [Câmara afrouxa contenção de gastos do pacote de cortes](https://www.nexojornal.com.br/extra/2024/12/18/camara-conclui-votacao-de-proposta-do-pacote-de-haddad)
 - [O general que virou político e se afundou na trama do golpe](https://www.nexojornal.com.br/podcast/2024/12/18/braga-netto-suspeitas-golpe)
 <!-- NEXO_LIST:END -->
 
