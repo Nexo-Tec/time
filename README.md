@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Revolucionário, Guia Alimentar chega aos dez anos como exemplo para o mundo e apontando contradições](https://gamarevista.uol.com.br/formato/reportagem/revolucionario-guia-alimentar-chega-aos-dez-anos-como-exemplo-para-o-mundo-e-apontando-contradicoes/)
 - [Caco Ciocler](https://gamarevista.uol.com.br/pessoas/questionario-proust/caco-ciocler/)
 - [Fika, com K mesmo](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/fika-com-k-mesmo/)
 - [@paulovieira. oficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/paulovieira-oficial/)
 - [Chocolate com pistache de Dubai](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chocolate-com-pistache-de-dubai/)
-- [Fernanda Queiroz: “O melhor momento para começar a fazer exercício físico é sempre agora”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fernanda-queiroz/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
