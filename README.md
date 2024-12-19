@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o mundo acha que a doninha amazônica é africana](https://www.nexojornal.com.br/externo/2024/12/19/doninha-africana-e-da-amazonia-brasileira)
 - [As trilhas sonoras compostas pela dupla do Nine Inch Nails](https://www.nexojornal.com.br/expresso/2024/12/19/trilha-sonora-queer-nine-inch-nails)
 - [Como alguns peixes escolhem a hora de nascer](https://www.nexojornal.com.br/expresso/2024/12/19/pesquisa-science-peixe-que-escolhe-hora-de-nascer)
 - [A absolvição dos militares que fuzilaram Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/12/19/a-absolvicao-dos-militares-que-fuzilaram-evaldo-rosa)
 - [Dominique Pelicot é condenado por estupros de esposa](https://www.nexojornal.com.br/extra/2024/12/19/dominique-pelicot-condenado-estupro-gisele)
-- [O que já passou na reforma tributária. E o que falta passar](https://www.nexojornal.com.br/expresso/2024/12/18/reforma-tributaria-sancao-presidente-resumo-proposta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
