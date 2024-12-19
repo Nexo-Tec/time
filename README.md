@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Revolucionário, Guia Alimentar chega aos dez anos como exemplo para o mundo e apontando contradições](https://gamarevista.uol.com.br/formato/reportagem/revolucionario-guia-alimentar-chega-aos-dez-anos-como-exemplo-para-o-mundo-e-apontando-contradicoes/)
-- [Caco Ciocler](https://gamarevista.uol.com.br/pessoas/questionario-proust/caco-ciocler/)
-- [Fika, com K mesmo](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/fika-com-k-mesmo/)
-- [@paulovieira. oficial](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/paulovieira-oficial/)
-- [Chocolate com pistache de Dubai](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/chocolate-com-pistache-de-dubai/)
+- [O retorno do podcast de Laurinha Lero](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-podcast-de-laurinha-lero/)
+- [Pré-indicados ao Oscar de filme internacional da Tailândia e do Senegal](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pre-indicados-ao-oscar-de-filme-internacional-da-tailandia-e-do-senegal/)
+- [“Um golpe fracassado, mas ainda assim um golpe”, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-golpe-fracassado-mas-ainda-assim-um-golpe-na-piaui/)
+- [As 50 melhores de 2024, por Daniel Setti](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/as-50-melhores-de-2024-por-daniel-setti/)
+- [“Histórias LGBTQIA+”, no Masp, em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/historias-lgbtqia-no-masp-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
