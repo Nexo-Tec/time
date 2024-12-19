@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que já passou na reforma tributária. E o que falta passar](https://www.nexojornal.com.br/expresso/2024/12/18/reforma-tributaria-sancao-presidente-resumo-proposta)
+- [Brinquedo, não: o celular como pedido de Natal das crianças](https://www.nexojornal.com.br/expresso/2024/12/18/celular-presente-de-natal-crianca)
+- [A expansão de ‘O Rei Leão’ para além da animação clássica](https://www.nexojornal.com.br/expresso/2024/12/18/rei-leao-filme-live-action-mufasa)
+- [Câmara conclui votação de proposta do pacote de Haddad](https://www.nexojornal.com.br/extra/2024/12/18/camara-conclui-votacao-de-proposta-do-pacote-de-haddad)
 - [O general que virou político e se afundou na trama do golpe](https://www.nexojornal.com.br/podcast/2024/12/18/braga-netto-suspeitas-golpe)
-- [Dólar dispara novamente e fecha o dia valendo R$ 6,26](https://www.nexojornal.com.br/extra/2024/12/18/valor-do-dolar)
-- [Voto dos fãs foram decisivos para a vitória de Vini Jr](https://www.nexojornal.com.br/grafico/2024/12/18/vini-jr-votacao-melhor-jogador-fifa-2024)
-- [Por que a Justiça nega a violência de gênero no caso Julieta](https://www.nexojornal.com.br/externo/2024/12/18/violencia-de-genero-caso-julieta-justica)
-- [Os mistérios desvendados em fóruns da internet em 2024](https://www.nexojornal.com.br/expresso/2024/12/18/internet-soluciona-misterios-de-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
