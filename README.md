@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como acontece e quais são os efeitos da punição extraprisional no Brasil](https://pp.nexojornal.com.br/academico/2024/12/19/como-acontece-e-quais-sao-os-feitos-da-punicao-extraprisional-no-brasil/)
+- [Desafios da LC 210/2024 para o fortalecimento do Sistema Único de Saúde](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/19/desafios-da-lc-210-2024-para-o-fortalecimento-do-sistema-unico-de-saude/)
+- [Acabar com a SPTrans não irá melhorar o transporte por ônibus em São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/19/acabar-com-a-sptrans-nao-ira-melhorar-o-transporte-por-onibus-em-sao-paulo/)
 - [Desigualdade e pobreza](https://pp.nexojornal.com.br/glossario/2024/12/17/desigualdade-e-pobreza/)
 - [Sistemas Plurais de Saúde](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/16/sistemas-plurais-de-saude/)
-- [Desafios da avaliação no Brasil: a formação de avaliadores frente às demandas emergentes](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/11/desafios-da-avaliacao-no-brasil-a-formacao-de-avaliadores-frente-as-demandas-emergentes/)
-- [Como se dá o engajamento ambiental entre os evangélicos](https://pp.nexojornal.com.br/academico/2024/12/11/como-se-da-o-engajamento-ambiental-entre-os-evangelicos/)
-- [Cotas na Universidade do Estado da Bahia](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/11/cotas-na-universidade-do-estado-da-bahia/)
 <!-- PP_LIST:END -->
 
