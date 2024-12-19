@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Booker T. Washington versus WEB Du Bois no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/19/booker-t-washington-versus-web-du-bois-no-brasil/)
 - [Beatriz Nascimento](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/19/beatriz-nascimento/)
 - [Beatriz Nascimento e a história negra no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/19/beatriz-nascimento-e-a-historia-negra-no-brasil/)
 - [Como acontece e quais são os efeitos da punição extraprisional no Brasil](https://pp.nexojornal.com.br/academico/2024/12/19/como-acontece-e-quais-sao-os-feitos-da-punicao-extraprisional-no-brasil/)
 - [Desafios da LC 210/2024 para o fortalecimento do Sistema Único de Saúde](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/19/desafios-da-lc-210-2024-para-o-fortalecimento-do-sistema-unico-de-saude/)
-- [Acabar com a SPTrans não irá melhorar o transporte por ônibus em São Paulo](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/19/acabar-com-a-sptrans-nao-ira-melhorar-o-transporte-por-onibus-em-sao-paulo/)
 <!-- PP_LIST:END -->
 
