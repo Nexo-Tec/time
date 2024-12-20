@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Senado limita salário mínimo e conclui votação de pacote](https://www.nexojornal.com.br/extra/2024/12/20/senado-salario-minimo-bpc-pacote-fiscal)
 - [A disputa sobre a autonomia da cidade que usa bitcoins](https://www.nexojornal.com.br/expresso/2024/12/19/honduras-cidade-bitcoins-prospera)
 - [As escritoras que publicaram os melhores livros de 2024](https://www.nexojornal.com.br/colunistas/2024/12/19/livros-2024-escritora-indicacao-adriana-ferreira-silva)
 - [‘Congresso apoia agenda fiscal apenas até a página dois ’](https://www.nexojornal.com.br/entrevista/2024/12/19/economia-corte-de-gastos-proposta-responsabilidade-fiscal-entrevista-beatriz-rey)
 - [Como parlamentares enfraquecem o pacote de cortes](https://www.nexojornal.com.br/expresso/2024/12/19/camara-afrouxa-pacote-de-cortes)
-- [Por que o mundo acha que a doninha amazônica é africana](https://www.nexojornal.com.br/externo/2024/12/19/doninha-africana-e-da-amazonia-brasileira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
