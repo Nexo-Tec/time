@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como deputados enfraquecem o pacote de cortes do governo](https://www.nexojornal.com.br/expresso/2024/12/19/camara-afrouxa-pacote-de-cortes)
+- [A disputa sobre a autonomia da cidade que usa bitcoins](https://www.nexojornal.com.br/expresso/2024/12/19/honduras-cidade-bitcoins-prospera)
+- [As escritoras que publicaram os melhores livros de 2024](https://www.nexojornal.com.br/colunistas/2024/12/19/livros-2024-escritora-indicacao-adriana-ferreira-silva)
+- [‘Congresso apoia agenda fiscal apenas até a página dois ’](https://www.nexojornal.com.br/entrevista/2024/12/19/economia-corte-de-gastos-proposta-responsabilidade-fiscal-entrevista-beatriz-rey)
+- [Como parlamentares enfraquecem o pacote de cortes](https://www.nexojornal.com.br/expresso/2024/12/19/camara-afrouxa-pacote-de-cortes)
 - [Por que o mundo acha que a doninha amazônica é africana](https://www.nexojornal.com.br/externo/2024/12/19/doninha-africana-e-da-amazonia-brasileira)
-- [As trilhas sonoras compostas pela dupla do Nine Inch Nails](https://www.nexojornal.com.br/expresso/2024/12/19/trilha-sonora-queer-nine-inch-nails)
-- [Como alguns peixes escolhem a hora de nascer](https://www.nexojornal.com.br/expresso/2024/12/19/pesquisa-science-peixe-que-escolhe-hora-de-nascer)
-- [A absolvição dos militares que fuzilaram Evaldo Rosa](https://www.nexojornal.com.br/externo/2024/12/19/a-absolvicao-dos-militares-que-fuzilaram-evaldo-rosa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
