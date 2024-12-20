@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Carro atropela multidão em feira natalina alemã](https://www.nexojornal.com.br/extra/2024/12/20/carro-atropela-multidao-em-feira-natalina-alema)
 - [O que é dominância fiscal. E quais problemas isso traz](https://www.nexojornal.com.br/expresso/2024/12/20/dominancia-fiscal-o-que-e-cenario-brasil)
 - [Por que mexicanos e pessoas trans criticam ‘Emilia Pérez’](https://www.nexojornal.com.br/expresso/2024/12/20/filme-musical-emilia-perez-ecoute-critica)
 - [O estudo que sugere uma revisão da história da Lua](https://www.nexojornal.com.br/externo/2024/12/20/lua-idade-cientistas-estudo-revisao)
 - [5 livros sobre desejo, sexualidade e percepção do tempo](https://www.nexojornal.com.br/estante-favoritos/2024/12/20/livro-desejo-sexualidade-tempo-pedro-juca-indicacao)
-- [‘Doppelgänger’: de frente para uma realidade paralela](https://www.nexojornal.com.br/estante-trechos/2024/12/20/livro-doppelganger-naomi-klein-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
