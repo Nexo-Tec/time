@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Ensino integral no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/22/ensino-integral-no-brasil/)
 - [Difusão das comissões de heteroidentificação racial no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/19/difusao-das-comissoes-de-heteroidentificacao-racial-no-brasil/)
 - [Por que fechar os manicômios judiciários e produzir novas éticas de cuidado](https://pp.nexojornal.com.br/academico/2024/12/19/por-que-fechar-os-manicomios-judiciarios-e-produzir-novas-eticas-de-cuidado/)
 - [Uma América Latina para além das mudanças climáticas](https://pp.nexojornal.com.br/opiniao/2024/12/19/uma-america-latina-para-alem-das-mudancas-climaticas/)
 - [Booker T. Washington versus WEB Du Bois no Brasil](https://pp.nexojornal.com.br/opiniao/2024/12/19/booker-t-washington-versus-web-du-bois-no-brasil/)
-- [Beatriz Nascimento](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/19/beatriz-nascimento/)
 <!-- PP_LIST:END -->
 
