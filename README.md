@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Acidente com ônibus mata 38 no norte de Minas Gerais](https://www.nexojornal.com.br/extra/2024/12/21/acidente-onibus-minas-mortos-teofilo-otoni)
-- [Revistas clonadas](https://www.nexojornal.com.br/externo/2024/12/20/revista-cientifica-clonada-fraude-springer-global-publications)
-- [Perimenopausa: o que é e como afeta as pessoas](https://www.nexojornal.com.br/expresso/2024/12/20/perimenopausa-o-que-e-sintomas)
-- [Cadastro Único: o tempo da cozinha e um novo tempo](https://www.nexojornal.com.br/ensaio/2024/12/20/cadastro-unico-o-tempo-da-cozinha-e-um-novo-tempo)
-- [Carro atropela multidão em feira natalina alemã](https://www.nexojornal.com.br/extra/2024/12/20/carro-atropela-multidao-em-feira-natalina-alema)
+- [A jornada de um pajé na Amazônia brasileira](https://www.nexojornal.com.br/externo/2024/12/21/amazonia-tradicao-indigena-ritual-yawanawa)
+- [A gigante japonesa que pode sair de uma fusão entre Honda e Nissan](https://www.nexojornal.com.br/expresso/2024/12/21/honda-nissan-fusao-gigante)
+- [O que dados do Pisa têm a ver com endividamento](https://www.nexojornal.com.br/ensaio/2024/12/21/matematica-escola-dados-do-pisa-impacto-educacao-financeira)
+- [‘La Nada’: por que o fenômeno La Niña ainda não veio em 2024](https://www.nexojornal.com.br/expresso/2024/12/21/mudancas-climaticas-la-nina-2024)
+- [Albânia bane TikTok por 1 ano após morte de adolescente](https://www.nexojornal.com.br/extra/2024/12/21/albania-bane-tiktok)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
