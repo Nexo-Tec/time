@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o mundo saiu do maior ano eleitoral da história](https://www.nexojornal.com.br/expresso/2024/12/23/2024-ano-eleitoral-resultado-democracia)
+- [Suspeito de assassinar CEO se declara inocente nos EUA](https://www.nexojornal.com.br/extra/2024/12/23/luigi-mangione-ceo-inocente)
 - [O garimpo para recuperar séries interativas da Netflix](https://www.nexojornal.com.br/expresso/2024/12/23/series-interativas-netflix-discord)
 - [As consequências mortais da ‘vida espelhada’](https://www.nexojornal.com.br/externo/2024/12/23/as-consequencias-mortais-da-vida-espelhada)
 - [Dino decide suspender pagamento de R$ 4,2 bilhões em emendas](https://www.nexojornal.com.br/extra/2024/12/23/dino-suspende-dinheiro-de-emendas)
-- [A situação da pobreza menstrual nos presídios brasileiros](https://www.nexojornal.com.br/expresso/2024/12/22/menstruacao-pobreza-menstrual-presidio-brasil)
-- [As habilidades para a transformação da educação brasileira](https://www.nexojornal.com.br/ensaio/2024/12/22/educacao-brasil-mudanca-curriculo-escolar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
