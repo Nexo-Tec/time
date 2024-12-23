@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O desafio de fugir de uma canção natalina do Wham!](https://www.nexojornal.com.br/expresso/2024/12/23/desafio-last-christmas-wham)
+- [Como se determina se uma praia é imprópria para banho](https://www.nexojornal.com.br/expresso/2024/12/23/praia-impropria-banho)
+- [As buscas dos brasileiros por panetone no Google](https://www.nexojornal.com.br/grafico/2024/12/23/busca-panetones-natal-google-trends)
 - [Como o mundo saiu do maior ano eleitoral da história](https://www.nexojornal.com.br/expresso/2024/12/23/2024-ano-eleitoral-resultado-democracia)
 - [Suspeito de assassinar CEO se declara inocente nos EUA](https://www.nexojornal.com.br/extra/2024/12/23/luigi-mangione-ceo-inocente)
-- [O garimpo para recuperar séries interativas da Netflix](https://www.nexojornal.com.br/expresso/2024/12/23/series-interativas-netflix-discord)
-- [As consequências mortais da ‘vida espelhada’](https://www.nexojornal.com.br/externo/2024/12/23/as-consequencias-mortais-da-vida-espelhada)
-- [Dino decide suspender pagamento de R$ 4,2 bilhões em emendas](https://www.nexojornal.com.br/extra/2024/12/23/dino-suspende-dinheiro-de-emendas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
