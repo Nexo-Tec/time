@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [A situação da pobreza menstrual nos presídios brasileiros](https://www.nexojornal.com.br/expresso/2024/12/22/menstruacao-pobreza-menstrual-presidio-brasil)
 - [As habilidades para a transformação da educação brasileira](https://www.nexojornal.com.br/ensaio/2024/12/22/educacao-brasil-mudanca-curriculo-escolar)
-- [Ponte entre Maranhão e Tocantins desaba e resulta em morte](https://www.nexojornal.com.br/extra/2024/12/22/ponte-desaba-maranhao-tocantins)
+- [Ponte entre Maranhão e Tocantins desaba e resulta em mortes](https://www.nexojornal.com.br/extra/2024/12/22/ponte-desaba-maranhao-tocantins)
 - [Avião particular cai e deixa 10 mortos na Serra Gaúcha](https://www.nexojornal.com.br/extra/2024/12/22/acidente-aviao-gramado)
 - [A jornada de um pajé na Amazônia brasileira](https://www.nexojornal.com.br/externo/2024/12/21/amazonia-tradicao-indigena-ritual-yawanawa)
 <!-- NEXO_LIST:END -->
