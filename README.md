@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A situação da pobreza menstrual nos presídios brasileiros](https://www.nexojornal.com.br/expresso/2024/12/22/menstruacao-pobreza-menstrual-presidio-brasil)
+- [As habilidades para a transformação da educação brasileira](https://www.nexojornal.com.br/ensaio/2024/12/22/educacao-brasil-mudanca-curriculo-escolar)
+- [Ponte entre Maranhão e Tocantins desaba e resulta em morte](https://www.nexojornal.com.br/extra/2024/12/22/ponte-desaba-maranhao-tocantins)
 - [Avião particular cai e deixa 10 mortos na Serra Gaúcha](https://www.nexojornal.com.br/extra/2024/12/22/acidente-aviao-gramado)
 - [A jornada de um pajé na Amazônia brasileira](https://www.nexojornal.com.br/externo/2024/12/21/amazonia-tradicao-indigena-ritual-yawanawa)
-- [A gigante japonesa que pode sair de uma fusão entre Honda e Nissan](https://www.nexojornal.com.br/expresso/2024/12/21/honda-nissan-fusao-gigante)
-- [O que dados do Pisa têm a ver com endividamento](https://www.nexojornal.com.br/ensaio/2024/12/21/matematica-escola-dados-do-pisa-impacto-educacao-financeira)
-- [‘La Nada’: por que o fenômeno La Niña ainda não veio em 2024](https://www.nexojornal.com.br/expresso/2024/12/21/mudancas-climaticas-la-nina-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
