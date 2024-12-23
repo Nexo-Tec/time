@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Noite de Natal](https://gamarevista.uol.com.br/colunistas/fernando-luna/noite-de-natal/)
 - [Bela Gil: “A alimentação saudável é um direito, está na Constituição”](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/bela-gil-a-alimentacao-saudavel-e-um-direito-esta-na-constituicao/)
 - [Mimos de comer: para fazer e presentear no Natal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/mimos-de-comer-para-fazer-e-presentear-no-natal/)
 - [O retorno do podcast de Laurinha Lero](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-podcast-de-laurinha-lero/)
 - [Pré-indicados ao Oscar de filme internacional da Tailândia e do Senegal](https://gamarevista.uol.com.br/achamos-que-vale/assistir/pre-indicados-ao-oscar-de-filme-internacional-da-tailandia-e-do-senegal/)
-- [“Um golpe fracassado, mas ainda assim um golpe”, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-golpe-fracassado-mas-ainda-assim-um-golpe-na-piaui/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
