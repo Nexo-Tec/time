@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais os riscos para o rio Tocantins após a queda da ponte](https://www.nexojornal.com.br/expresso/2024/12/24/rio-tocantins-contaminacao-queda-ponte-meio-ambiente)
+- [Governo Lula dá diretrizes para uso da força por policiais](https://www.nexojornal.com.br/extra/2024/12/24/decreto-uso-da-forca-policia)
 - [As instituições fracas estão fortes em excesso](https://www.nexojornal.com.br/colunistas/2024/12/24/as-instituicoes-fracas-estao-fortes-em-excesso)
 - [Daniel Silveira volta a ser preso pela Polícia Federal](https://www.nexojornal.com.br/extra/2024/12/24/daniel-silveira-volta-a-ser-preso-pela-policia-federal)
 - [O desafio de fugir de uma canção natalina do Wham!](https://www.nexojornal.com.br/expresso/2024/12/23/desafio-last-christmas-wham)
-- [Como se determina se uma praia é imprópria para banho](https://www.nexojornal.com.br/expresso/2024/12/23/praia-impropria-banho)
-- [As buscas dos brasileiros por panetone no Google](https://www.nexojornal.com.br/grafico/2024/12/23/busca-panetones-natal-google-trends)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
