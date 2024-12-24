@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cerveja gelada por mais tempo](https://www.nexojornal.com.br/externo/2024/12/24/cerveja-gelada-por-mais-tempo-copo-pesquisa)
+- [A série que reacende polêmica sobre a origem étnica de Jesus](https://www.nexojornal.com.br/externo/2024/12/24/virgem-maria-serie-netflix-polemica-origem-jesus)
+- [5 vezes em que a política transformou o Natal](https://www.nexojornal.com.br/expresso/2024/12/24/historia-politica-natal)
 - [Quais os riscos para o rio Tocantins após a queda da ponte](https://www.nexojornal.com.br/expresso/2024/12/24/rio-tocantins-contaminacao-queda-ponte-meio-ambiente)
 - [Governo Lula dá diretrizes para uso da força por policiais](https://www.nexojornal.com.br/extra/2024/12/24/decreto-uso-da-forca-policia)
-- [As instituições fracas estão fortes em excesso](https://www.nexojornal.com.br/colunistas/2024/12/24/as-instituicoes-fracas-estao-fortes-em-excesso)
-- [Daniel Silveira volta a ser preso pela Polícia Federal](https://www.nexojornal.com.br/extra/2024/12/24/daniel-silveira-volta-a-ser-preso-pela-policia-federal)
-- [O desafio de fugir de uma canção natalina do Wham!](https://www.nexojornal.com.br/expresso/2024/12/23/desafio-last-christmas-wham)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
