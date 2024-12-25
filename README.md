@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Entrevistas da Gama que nos preparam para 2025](https://gamarevista.uol.com.br/formato/conversas/entrevistas-da-gama-que-nos-preparam-para-2025/)
+- [Grandes filmes de 2024 para ver e rever](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/grandes-filmes-de-2024-para-ver-e-rever/)
 - [As melhores séries de 2024, segundo a equipe da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/as-melhores-series-de-2024-segundo-a-equipe-da-gama/)
 - [Noite de Natal](https://gamarevista.uol.com.br/colunistas/fernando-luna/noite-de-natal/)
 - [Bela Gil: “A alimentação saudável é um direito, está na Constituição”](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/bela-gil-a-alimentacao-saudavel-e-um-direito-esta-na-constituicao/)
-- [Mimos de comer: para fazer e presentear no Natal](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/mimos-de-comer-para-fazer-e-presentear-no-natal/)
-- [O retorno do podcast de Laurinha Lero](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-retorno-do-podcast-de-laurinha-lero/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
