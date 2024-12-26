@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Canal 100: o cinejornal que revolucionou a cobertura do futebol](https://www.nexojornal.com.br/expresso/2024/12/25/canal-100-futebol-cinemateca-cinejornal-restauracao)
+- [Por que não dá para separar as diferentes crises ambientais](https://www.nexojornal.com.br/expresso/2024/12/25/relatorio-interconexoes-crises-meio-ambiente)
 - [O que o ano de 2024 trouxe para as infâncias](https://www.nexojornal.com.br/externo/2024/12/25/criancas-2024-impacto-debate-publico)
 - [Detalhes da trama do golpe. Trump de volta. Como foi o ano de 2024](https://www.nexojornal.com.br/podcast/2024/12/25/2024-retrospectiva-resumo-noticia)
 - [O ajuste fiscal está à espera de uma crise](https://www.nexojornal.com.br/colunistas/2024/12/25/o-ajuste-fiscal-esta-a-espera-de-uma-crise)
-- [Avião fabricado pela Embraer cai no Cazaquistão](https://www.nexojornal.com.br/extra/2024/12/25/aviao-da-embraer-cai-no-cazaquistao)
-- [Cerveja gelada por mais tempo](https://www.nexojornal.com.br/externo/2024/12/24/cerveja-gelada-por-mais-tempo-copo-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
