@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para entender quem não é homem nem mulher](https://www.nexojornal.com.br/estante-favoritos/2024/12/26/livros-nao-binariedade-diversidade-de-genero-kael-vitorelo)
+- [‘Cesar Lattes’: a biografia do notável físico brasileiro](https://www.nexojornal.com.br/estante-trechos/2024/12/26/cesar-lattes-biografia-fisico-brasil-trecho)
+- [Como atores encenaram ‘Hamlet’ em ‘GTA Online’](https://www.nexojornal.com.br/expresso/2024/12/26/gta-hamlet-shakespeare-documentario)
 - [Como a polícia lidava com a escravidão no século 19](https://www.nexojornal.com.br/academico/2024/12/26/policia-escravidao-seculo-19-pesquisa)
 - [PM dá tiro em homem que filmava ação policial em São Paulo](https://www.nexojornal.com.br/extra/2024/12/26/pm-tiro-pessoa-filmava-acao-sao-paulo)
-- [7 papéis marcantes de Ney Latorraca nos palcos e nas telas](https://www.nexojornal.com.br/expresso/2024/12/26/ney-latorraca-papeis-marcantes-tv-e-teatro)
-- [Canal 100: o cinejornal que revolucionou a cobertura do futebol](https://www.nexojornal.com.br/expresso/2024/12/25/canal-100-futebol-cinemateca-cinejornal-restauracao)
-- [Por que não dá para separar as diferentes crises ambientais](https://www.nexojornal.com.br/expresso/2024/12/25/relatorio-interconexoes-crises-meio-ambiente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
