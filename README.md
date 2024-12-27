@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A aposta da Netflix nas transmissões esportivas](https://www.nexojornal.com.br/expresso/2024/12/27/netflix-esporte-transmissao)
 - [A fama do programa ‘Doctor Who’ ao longo de 61 anos](https://www.nexojornal.com.br/expresso/2024/12/27/doctor-who-serie-programa-disney-plus)
 - [Como o trabalho voluntário desperta empatia em crianças](https://www.nexojornal.com.br/externo/2024/12/27/trabalho-voluntario-crianca-infancia-empatia)
 - [A moda futurista indígena amazônica de Sioduhi](https://www.nexojornal.com.br/externo/2024/12/27/moda-futurista-indigena-amazonica-sioduhi)
 - [Erika Hilton: ‘fim da escala 6×1 quebrou barreiras ideológicas’](https://www.nexojornal.com.br/video/2024/12/27/erika-hilton-entrevista)
-- [Os tesouros arqueológicos da grande Rota dos Incas](https://www.nexojornal.com.br/externo/2024/12/27/rota-dos-incas-tesouro-arqueologico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
