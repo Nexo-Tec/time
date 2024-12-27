@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Novos normais, velhas contradições: da pandemia à crise climática](https://pp.nexojornal.com.br/opiniao/2024/12/27/novos-normais-velhas-contradicoes-da-pandemia-a-crise-climatica/)
+- [Luiz Gama e a luta contra a escravidão no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/27/luiz-gama-e-a-luta-contra-a-escravidao-no-brasil/)
 - [Desafios educacionais pós pandemia](https://pp.nexojornal.com.br/opiniao/2024/12/27/desafios-educacionais-pos-pandemia/)
 - [O perfil racial das prisões brasileiras](https://pp.nexojornal.com.br/opiniao/2024/12/27/o-perfil-racial-das-prisoes-brasileiras/)
 - [Luiz Gonzaga Pinto da Gama](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/22/luiz-gonzaga-pinto-da-gama/)
-- [Trabalhadores das plataformas de logística urbana e entregas](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/22/trabalhadores-das-plataformas-de-logistica-urbana-e-entregas/)
-- [Ensino integral no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2024/12/22/ensino-integral-no-brasil/)
 <!-- PP_LIST:END -->
 
