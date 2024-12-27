@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A rixa entre governo e estados sobre mudanças nas polícias](https://www.nexojornal.com.br/expresso/2024/12/26/decreto-policia-uso-da-forca-governo-lula)
+- [A história do grampo que a Lava Jato instalou em uma cela](https://www.nexojornal.com.br/externo/2024/12/26/lava-jato-grampo-cela-doleiro-alberto-youssef)
 - [Milhares de presos fogem em Moçambique durante rebelião](https://www.nexojornal.com.br/extra/2024/12/26/milhares-de-presos-fogem-em-mocambique-durante-rebeliao)
 - [Google suspende ferramenta de cotação do dólar após erro](https://www.nexojornal.com.br/extra/2024/12/26/google-dolar-errado)
 - [5 livros para entender quem não é homem nem mulher](https://www.nexojornal.com.br/estante-favoritos/2024/12/26/livros-nao-binariedade-diversidade-de-genero-kael-vitorelo)
-- [‘Cesar Lattes’: a biografia do notável físico brasileiro](https://www.nexojornal.com.br/estante-trechos/2024/12/26/cesar-lattes-biografia-fisico-brasil-trecho)
-- [Como atores encenaram ‘Hamlet’ em ‘GTA Online’](https://www.nexojornal.com.br/expresso/2024/12/26/gta-hamlet-shakespeare-documentario)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
