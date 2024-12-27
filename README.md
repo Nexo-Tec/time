@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Dez livros de 2024 sobre memórias &lpar;reais ou inventadas&rpar;](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/dez-livros-de-2024-sobre-memorias-reais-ou-inventadas/)
+- [Celebridades da música que nos marcaram em 2024](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/celebridades-da-musica-que-nos-marcaram-em-2024/)
 - [6 receitas para adoçar as férias](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/6-receitas-para-adocar-as-ferias/)
 - [Entrevistas da Gama que nos preparam para 2025](https://gamarevista.uol.com.br/formato/conversas/entrevistas-da-gama-que-nos-preparam-para-2025/)
 - [Grandes filmes de 2024 para ver e rever](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/grandes-filmes-de-2024-para-ver-e-rever/)
-- [As melhores séries de 2024, segundo a equipe da Gama](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/as-melhores-series-de-2024-segundo-a-equipe-da-gama/)
-- [Noite de Natal](https://gamarevista.uol.com.br/colunistas/fernando-luna/noite-de-natal/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
