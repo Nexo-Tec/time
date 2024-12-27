@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Desemprego cai a 6,1% e renova menor taxa da série histórica](https://www.nexojornal.com.br/extra/2024/12/27/desemprego-menor-taxa-historica)
-- [Coreia do Sul aprova impeachment de presidente interino](https://www.nexojornal.com.br/extra/2024/12/27/coreia-do-sul-aprova-impeachment-de-presidente-interino)
-- [A cobiça de Trump por Groenlândia e Canal do Panamá](https://www.nexojornal.com.br/expresso/2024/12/26/donald-trump-groenlandia-canal-do-panama)
-- [A rixa entre governo e estados sobre mudanças nas polícias](https://www.nexojornal.com.br/expresso/2024/12/26/decreto-policia-uso-da-forca-governo-lula)
-- [A história do grampo que a Lava Jato instalou em uma cela](https://www.nexojornal.com.br/externo/2024/12/26/lava-jato-grampo-cela-doleiro-alberto-youssef)
+- [A fama do programa ‘Doctor Who’ ao longo de 61 anos](https://www.nexojornal.com.br/expresso/2024/12/27/doctor-who-serie-programa-disney-plus)
+- [Como o trabalho voluntário desperta empatia em crianças](https://www.nexojornal.com.br/externo/2024/12/27/trabalho-voluntario-crianca-infancia-empatia)
+- [A moda futurista indígena amazônica de Sioduhi](https://www.nexojornal.com.br/externo/2024/12/27/moda-futurista-indigena-amazonica-sioduhi)
+- [Erika Hilton: ‘fim da escala 6×1 quebrou barreiras ideológicas’](https://www.nexojornal.com.br/video/2024/12/27/erika-hilton-entrevista)
+- [Os tesouros arqueológicos da grande Rota dos Incas](https://www.nexojornal.com.br/externo/2024/12/27/rota-dos-incas-tesouro-arqueologico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
