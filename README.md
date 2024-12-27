@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desemprego cai a 6,1% e renova menor taxa da série histórica](https://www.nexojornal.com.br/extra/2024/12/27/desemprego-menor-taxa-historica)
 - [Coreia do Sul aprova impeachment de presidente interino](https://www.nexojornal.com.br/extra/2024/12/27/coreia-do-sul-aprova-impeachment-de-presidente-interino)
 - [A cobiça de Trump por Groenlândia e Canal do Panamá](https://www.nexojornal.com.br/expresso/2024/12/26/donald-trump-groenlandia-canal-do-panama)
 - [A rixa entre governo e estados sobre mudanças nas polícias](https://www.nexojornal.com.br/expresso/2024/12/26/decreto-policia-uso-da-forca-governo-lula)
 - [A história do grampo que a Lava Jato instalou em uma cela](https://www.nexojornal.com.br/externo/2024/12/26/lava-jato-grampo-cela-doleiro-alberto-youssef)
-- [Milhares de presos fogem em Moçambique durante rebelião](https://www.nexojornal.com.br/extra/2024/12/26/milhares-de-presos-fogem-em-mocambique-durante-rebeliao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
