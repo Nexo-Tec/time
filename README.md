@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Putin pede desculpas por queda de avião no Azerbaijão](https://www.nexojornal.com.br/extra/2024/12/28/putin-desculpas-queda-aviao-azerbaijao)
 - [A difamação da mulher como escudo para denúncias de assédio](https://www.nexojornal.com.br/expresso/2024/12/28/denuncia-assedio-blake-lively)
 - [O ano de 2024 nos gráficos do Nexo](https://www.nexojornal.com.br/especial/2024/12/27/retrospectiva-2024-grafico-nexo)
 - [A aposta da Netflix nas transmissões esportivas](https://www.nexojornal.com.br/expresso/2024/12/27/netflix-esporte-transmissao)
 - [A fama do programa ‘Doctor Who’ ao longo de 61 anos](https://www.nexojornal.com.br/expresso/2024/12/27/doctor-who-serie-programa-disney-plus)
-- [Como o trabalho voluntário desperta empatia em crianças](https://www.nexojornal.com.br/externo/2024/12/27/trabalho-voluntario-crianca-infancia-empatia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
