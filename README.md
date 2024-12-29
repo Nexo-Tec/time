@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ursos-polares mais expostos a patógenos](https://www.nexojornal.com.br/externo/2024/12/28/urso-polar-risco-de-infeccao-patogenos)
+- [Os vídeos com atores e cineastas listando seus filmes favoritos](https://www.nexojornal.com.br/expresso/2024/12/28/filme-favorito-atores-criterion-collection-closet-picks)
+- [Lições para lidar com conflitos e melhorar a saúde mental](https://www.nexojornal.com.br/ensaio/2024/12/28/saude-mental-conflito-convivencia)
+- [As disputas em torno de uma resolução sobre aborto legal](https://www.nexojornal.com.br/expresso/2024/12/28/aborto-legal-brasil-conanda-diretrizes)
 - [Putin pede desculpas por queda de avião no Azerbaijão](https://www.nexojornal.com.br/extra/2024/12/28/putin-desculpas-queda-aviao-azerbaijao)
-- [A difamação da mulher como escudo para denúncias de assédio](https://www.nexojornal.com.br/expresso/2024/12/28/denuncia-assedio-blake-lively)
-- [O ano de 2024 nos gráficos do Nexo](https://www.nexojornal.com.br/especial/2024/12/27/retrospectiva-2024-grafico-nexo)
-- [A aposta da Netflix nas transmissões esportivas](https://www.nexojornal.com.br/expresso/2024/12/27/netflix-esporte-transmissao)
-- [A fama do programa ‘Doctor Who’ ao longo de 61 anos](https://www.nexojornal.com.br/expresso/2024/12/27/doctor-who-serie-programa-disney-plus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
