@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Aos 100 anos, morre Jimmy Carter, ex-presidente dos EUA](https://www.nexojornal.com.br/extra/2024/12/29/aos-100-anos-morre-jimmy-carter-ex-presidente-dos-eua)
 - [Avião sai da pista e explode, matando 179 na Coreia do Sul](https://www.nexojornal.com.br/extra/2024/12/29/aviao-sai-da-pista-e-explode-matando-179-na-coreia-do-sul)
 - [Ursos-polares mais expostos a patógenos](https://www.nexojornal.com.br/externo/2024/12/28/urso-polar-risco-de-infeccao-patogenos)
 - [Os vídeos com atores e cineastas listando seus filmes favoritos](https://www.nexojornal.com.br/expresso/2024/12/28/filme-favorito-atores-criterion-collection-closet-picks)
 - [Lições para lidar com conflitos e melhorar a saúde mental](https://www.nexojornal.com.br/ensaio/2024/12/28/saude-mental-conflito-convivencia)
-- [As disputas em torno de uma resolução sobre aborto legal](https://www.nexojornal.com.br/expresso/2024/12/28/aborto-legal-brasil-conanda-diretrizes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
