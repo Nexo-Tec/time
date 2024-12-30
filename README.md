@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que torcidas jogam bichos de pelúcia em campo](https://www.nexojornal.com.br/expresso/2024/12/30/torcidas-futebol-bichos-de-pelucia)
 - [Uma década do Pretagô, grupo teatral afrocentrado do RS](https://www.nexojornal.com.br/externo/2024/12/30/pretago-grupo-teatral-afro-rs)
 - [Setor público tem deficit de R$ 6 bilhões em novembro, diz BC](https://www.nexojornal.com.br/extra/2024/12/30/setor-publico-tem-deficit-de-r-6-bilhoes-em-novembro-diz-bc)
 - [Quais as adversidades para o biênio final do mandato de Lula](https://www.nexojornal.com.br/expresso/2024/12/29/governo-lula-metade-mandato-expectativas)
 - [3 chaves para guardar informações por longos prazos](https://www.nexojornal.com.br/externo/2024/12/29/dica-para-melhorar-memoria)
-- [O cuidado no centro do futuro da América Latina](https://www.nexojornal.com.br/ensaio/2024/12/29/america-latina-futuro-genero-e-raca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
