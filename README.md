@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A contenda das emendas parlamentares em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/bloqueio-emendas-parlamentares-2024-flavio-dino)
+- [7 memes que marcaram as redes brasileiras em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/memes-brasil-2024)
+- [A obra milionária que ameaça a Chapada dos Guimarães](https://www.nexojornal.com.br/externo/2024/12/30/a-obra-milionaria-que-ameaca-a-chapada-dos-guimaraes)
 - [Por que torcidas jogam bichos de pelúcia em campo](https://www.nexojornal.com.br/expresso/2024/12/30/torcidas-futebol-bichos-de-pelucia)
 - [Uma década do Pretagô, grupo teatral afrocentrado do RS](https://www.nexojornal.com.br/externo/2024/12/30/pretago-grupo-teatral-afro-rs)
-- [Setor público tem deficit de R$ 6 bilhões em novembro, diz BC](https://www.nexojornal.com.br/extra/2024/12/30/setor-publico-tem-deficit-de-r-6-bilhoes-em-novembro-diz-bc)
-- [Quais as adversidades para o biênio final do mandato de Lula](https://www.nexojornal.com.br/expresso/2024/12/29/governo-lula-metade-mandato-expectativas)
-- [3 chaves para guardar informações por longos prazos](https://www.nexojornal.com.br/externo/2024/12/29/dica-para-melhorar-memoria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
