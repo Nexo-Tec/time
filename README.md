@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Uma década do Pretagô, grupo teatral afrocentrado do RS](https://www.nexojornal.com.br/externo/2024/12/30/pretago-grupo-teatral-afro-rs)
+- [Setor público tem deficit de R$ 6 bilhões em novembro, diz BC](https://www.nexojornal.com.br/extra/2024/12/30/setor-publico-tem-deficit-de-r-6-bilhoes-em-novembro-diz-bc)
 - [Quais as adversidades para o biênio final do mandato de Lula](https://www.nexojornal.com.br/expresso/2024/12/29/governo-lula-metade-mandato-expectativas)
 - [3 chaves para guardar informações por longos prazos](https://www.nexojornal.com.br/externo/2024/12/29/dica-para-melhorar-memoria)
 - [O cuidado no centro do futuro da América Latina](https://www.nexojornal.com.br/ensaio/2024/12/29/america-latina-futuro-genero-e-raca)
-- [Aos 100 anos, morre Jimmy Carter, ex-presidente dos EUA](https://www.nexojornal.com.br/extra/2024/12/29/aos-100-anos-morre-jimmy-carter-ex-presidente-dos-eua)
-- [Avião sai da pista e explode, matando 179 na Coreia do Sul](https://www.nexojornal.com.br/extra/2024/12/29/aviao-sai-da-pista-e-explode-matando-179-na-coreia-do-sul)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
