@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Meus dias de bolsa MacArthur](https://www.nexojornal.com.br/colunistas/2024/12/31/meus-dias-de-bolsa-macarthur)
 - [A contenda das emendas parlamentares em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/bloqueio-emendas-parlamentares-2024-flavio-dino)
 - [7 memes que marcaram as redes brasileiras em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/memes-brasil-2024)
 - [A obra milionária que ameaça a Chapada dos Guimarães](https://www.nexojornal.com.br/externo/2024/12/30/a-obra-milionaria-que-ameaca-a-chapada-dos-guimaraes)
 - [Por que torcidas jogam bichos de pelúcia em campo](https://www.nexojornal.com.br/expresso/2024/12/30/torcidas-futebol-bichos-de-pelucia)
-- [Uma década do Pretagô, grupo teatral afrocentrado do RS](https://www.nexojornal.com.br/externo/2024/12/30/pretago-grupo-teatral-afro-rs)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
