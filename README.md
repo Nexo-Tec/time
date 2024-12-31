@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Yoko Ono recuperou um relógio de John Lennon](https://www.nexojornal.com.br/expresso/2024/12/31/john-lennon-relogio-roubado-yoko-ono)
+- [O que o clima tem a ver com a comida mais cara no Brasil](https://www.nexojornal.com.br/externo/2024/12/31/mudanca-clima-comida-mais-cara-brasil)
 - [Justiça sul-coreana pede prisão de presidente afastado](https://www.nexojornal.com.br/extra/2024/12/31/justica-sul-coreana-pede-prisao-de-presidente-afastado)
 - [Meus dias de bolsa MacArthur](https://www.nexojornal.com.br/colunistas/2024/12/31/meus-dias-de-bolsa-macarthur)
 - [A contenda das emendas parlamentares em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/bloqueio-emendas-parlamentares-2024-flavio-dino)
-- [7 memes que marcaram as redes brasileiras em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/memes-brasil-2024)
-- [A obra milionária que ameaça a Chapada dos Guimarães](https://www.nexojornal.com.br/externo/2024/12/30/a-obra-milionaria-que-ameaca-a-chapada-dos-guimaraes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
