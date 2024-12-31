@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como Yoko Ono recuperou um relógio de John Lennon](https://www.nexojornal.com.br/expresso/2024/12/31/john-lennon-relogio-roubado-yoko-ono)
-- [O que o clima tem a ver com a comida mais cara no Brasil](https://www.nexojornal.com.br/externo/2024/12/31/mudanca-clima-comida-mais-cara-brasil)
-- [Justiça sul-coreana pede prisão de presidente afastado](https://www.nexojornal.com.br/extra/2024/12/31/justica-sul-coreana-pede-prisao-de-presidente-afastado)
-- [Meus dias de bolsa MacArthur](https://www.nexojornal.com.br/colunistas/2024/12/31/meus-dias-de-bolsa-macarthur)
-- [A contenda das emendas parlamentares em 2024](https://www.nexojornal.com.br/expresso/2024/12/30/bloqueio-emendas-parlamentares-2024-flavio-dino)
+- [Mudança no IR. Denúncia do golpismo. O que esperar de 2025](https://www.nexojornal.com.br/podcast/2024/12/31/2025-expectativa-brasil-politica-meio-ambiente-economia)
+- [Como uma invenção acidental resultou em globos de neve](https://www.nexojornal.com.br/expresso/2024/12/31/globo-de-neve-natal)
+- [A jornada de um pajé na Amazônia brasileira](https://www.nexojornal.com.br/externo/2024/12/31/indigena-paje-amazonia-brasileira)
+- [Por que alguns animais têm uma rara pigmentação superpreta](https://www.nexojornal.com.br/expresso/2024/12/31/superpreto-pigmentacao-rara-natureza-animais)
+- [5 obras que entram em domínio público em 2025](https://www.nexojornal.com.br/expresso/2024/12/31/obras-dominio-publico-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
