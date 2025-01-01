@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A invisibilidade do envelhecimento LGBT+](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/01/a-invisibilidade-do-envelhecimento-lgbt/)
 - [Luciana Alves: políticas públicas e a equidade racial a partir da educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/12/27/luciana-alves-politicas-publicas-e-a-equidade-racial-a-partir-da-educacao/)
 - [Percepções sobre a intervenção em crises de saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/academico/2024/12/27/academico-saude-mental-infantil-titulo/)
 - [Do que precisamos para conter um populista autoritário?](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario/)
 - [Novos normais, velhas contradições: da pandemia à crise climática](https://pp.nexojornal.com.br/opiniao/2024/12/27/novos-normais-velhas-contradicoes-da-pandemia-a-crise-climatica/)
-- [Luiz Gama e a luta contra a escravidão no Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2024/12/27/luiz-gama-e-a-luta-contra-a-escravidao-no-brasil/)
 <!-- PP_LIST:END -->
 
