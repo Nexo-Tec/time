@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o cérebro humano interpreta a velocidade da internet](https://www.nexojornal.com.br/expresso/2025/01/01/velocidade-cerebro-humano-estudo-internet)
+- [Jornalismo e diáspora: uma entrevista com Gary Younge](https://www.nexojornal.com.br/video/2025/01/01/jornalismo-e-diaspora-uma-entrevista-com-gary-younge)
+- [Como animais têm atuado como espiões ao longo dos tempos](https://www.nexojornal.com.br/externo/2025/01/01/como-animais-tem-atuado-como-espioes-ao-longo-dos-tempos)
+- [‘O PSD é a cara do Brasil, e esse é um modelo batido no país’](https://www.nexojornal.com.br/entrevista/2025/01/01/ideologia-psd-entrevista-bruno-bolognesi)
 - [Mudança no IR. Denúncia do golpismo. O que esperar de 2025](https://www.nexojornal.com.br/podcast/2024/12/31/2025-expectativa-brasil-politica-meio-ambiente-economia)
-- [Como uma invenção acidental resultou em globos de neve](https://www.nexojornal.com.br/expresso/2024/12/31/globo-de-neve-natal)
-- [A jornada de um pajé na Amazônia brasileira](https://www.nexojornal.com.br/externo/2024/12/31/indigena-paje-amazonia-brasileira)
-- [Por que alguns animais têm uma rara pigmentação superpreta](https://www.nexojornal.com.br/expresso/2024/12/31/superpreto-pigmentacao-rara-natureza-animais)
-- [5 obras que entram em domínio público em 2025](https://www.nexojornal.com.br/expresso/2024/12/31/obras-dominio-publico-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
