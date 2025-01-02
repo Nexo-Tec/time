@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os grupos que defendem a educação domiciliar no Brasil](https://www.nexojornal.com.br/academico/2025/01/02/brasil-educacao-domiciliar-em-casa-quem-defende)
 - [EUA registram ataques e explosão no primeiro dia de 2025](https://www.nexojornal.com.br/extra/2025/01/02/ataques-no-ano-novo-dos-eua)
 - [EUA oficializam repatriação de mega-esmeralda brasileira](https://www.nexojornal.com.br/extra/2025/01/02/o-que-e-repatriacao-mega-esmeralda-brasil-eua)
 - [Como o cérebro humano interpreta a velocidade da internet](https://www.nexojornal.com.br/expresso/2025/01/01/velocidade-cerebro-humano-estudo-internet)
 - [Jornalismo e diáspora: uma entrevista com Gary Younge](https://www.nexojornal.com.br/video/2025/01/01/jornalismo-e-diaspora-uma-entrevista-com-gary-younge)
-- [Como animais têm atuado como espiões ao longo dos tempos](https://www.nexojornal.com.br/externo/2025/01/01/como-animais-tem-atuado-como-espioes-ao-longo-dos-tempos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
