@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A promessa de inserir o Ozempic genérico na rede pública do Rio](https://www.nexojornal.com.br/expresso/2025/01/02/ozempic-semaglutida-sus-rio-de-janeiro-proposta-eduardo-paes)
 - [Confira quais são as capitais com reajuste na tarifa de ônibus](https://www.nexojornal.com.br/extra/2025/01/02/capitais-reajuste-tarifa-de-onibus-2025)
 - [Como ataque em Nova Orleans volta a jogar luz no Estado Islâmico](https://www.nexojornal.com.br/expresso/2025/01/02/ataque-nova-orleans-estado-islamico)
 - [Mega da Virada arrecadou quase R$ 2,5 bilhões em 2024](https://www.nexojornal.com.br/grafico/2025/01/02/mega-sena-da-virada-2024-premio-arrecadacao)
 - [Os grupos que defendem a educação domiciliar no Brasil](https://www.nexojornal.com.br/academico/2025/01/02/brasil-educacao-domiciliar-em-casa-quem-defende)
-- [EUA registram ataques e explosão no primeiro dia de 2025](https://www.nexojornal.com.br/extra/2025/01/02/ataques-no-ano-novo-dos-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
