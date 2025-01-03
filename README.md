@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Revelações do Questionário Proust](https://gamarevista.uol.com.br/sem-categoria/revelacoes-do-questionario-proust/)
+- [Revelações do Questionário Proust](https://gamarevista.uol.com.br/pessoas/questionario-proust/revelacoes-do-questionario-proust/)
 - [Uma playlist para embalar este e outros verões](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/uma-playlist-para-embalar-este-e-outros-veroes/)
 - [Ouça essas entrevistas para se inspirar e ter um 2025 pautado pelo bem-estar](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/ouca-essas-entrevistas-para-se-inspirar-e-ter-um-2025-pautado-pelo-bem-estar/)
 - [Os álbuns favoritos da Gama em 2024](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-albuns-favoritos-da-gama-em-2024/)
