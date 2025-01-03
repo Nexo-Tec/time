@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Zona cinza’: como se conscientizar da catástrofe](https://www.nexojornal.com.br/estante-trechos/2025/01/03/zona-cinza-victor-hermann)
 - [Apple vai pagar US$ 95 milhões em ação sobre ‘espionagem’ da Siri](https://www.nexojornal.com.br/extra/2025/01/03/apple-vigilancia-pela-siri-processo-nos-eua)
 - [Operação para prender presidente da Coreia do Sul fracassa](https://www.nexojornal.com.br/extra/2025/01/03/coreia-do-sul-ordem-de-prisao-do-presidente)
 - [Um raio-X da indústria imobiliária do crime no Rio de Janeiro](https://www.nexojornal.com.br/externo/2025/01/02/rio-de-janeiro-crime-mercado-imobiliario)
 - [A influência de ‘Nosferatu’ mais de 100 anos depois do original](https://www.nexojornal.com.br/expresso/2025/01/02/filme-nosferatu-robert-eggers-adaptacao)
-- [A promessa de inserir o Ozempic genérico na rede pública do Rio](https://www.nexojornal.com.br/expresso/2025/01/02/ozempic-semaglutida-sus-rio-de-janeiro-proposta-eduardo-paes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
