@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Operação para prender presidente da Coreia do Sul fracassa](https://www.nexojornal.com.br/extra/2025/01/03/coreia-do-sul-ordem-de-prisao-do-presidente)
 - [Um raio-X da indústria imobiliária do crime no Rio de Janeiro](https://www.nexojornal.com.br/externo/2025/01/02/rio-de-janeiro-crime-mercado-imobiliario)
 - [A influência de ‘Nosferatu’ mais de 100 anos depois do original](https://www.nexojornal.com.br/expresso/2025/01/02/filme-nosferatu-robert-eggers-adaptacao)
 - [A promessa de inserir o Ozempic genérico na rede pública do Rio](https://www.nexojornal.com.br/expresso/2025/01/02/ozempic-semaglutida-sus-rio-de-janeiro-proposta-eduardo-paes)
 - [Confira quais são as capitais com reajuste na tarifa de ônibus](https://www.nexojornal.com.br/extra/2025/01/02/capitais-reajuste-tarifa-de-onibus-2025)
-- [Como ataque em Nova Orleans volta a jogar luz no Estado Islâmico](https://www.nexojornal.com.br/expresso/2025/01/02/ataque-nova-orleans-estado-islamico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
