@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O surfista que conduziu uma onda de mais de 30 metros](https://www.nexojornal.com.br/expresso/2025/01/03/surf-maior-onda-recorde-masculino)
+- [O papel da América Latina na disputa de Trump contra a China](https://www.nexojornal.com.br/externo/2025/01/03/america-latina-trump-china)
 - [As variações das principais moedas do mundo em 2024](https://www.nexojornal.com.br/grafico/2025/01/03/economia-dolar-2024-moeda-cambio-g20)
 - [5 romances que me fizeram titubear o tempo todo](https://www.nexojornal.com.br/estante-favoritos/2025/01/03/livros-dialogo-interno-romance-psicologico-flavia-braz)
 - [‘Zona cinza’: como se conscientizar da catástrofe](https://www.nexojornal.com.br/estante-trechos/2025/01/03/zona-cinza-victor-hermann)
-- [Apple vai pagar US$ 95 milhões em ação sobre ‘espionagem’ da Siri](https://www.nexojornal.com.br/extra/2025/01/03/apple-vigilancia-pela-siri-processo-nos-eua)
-- [Operação para prender presidente da Coreia do Sul fracassa](https://www.nexojornal.com.br/extra/2025/01/03/coreia-do-sul-ordem-de-prisao-do-presidente)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
