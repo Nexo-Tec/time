@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Marcos Valle: “O melhor do verão é poder se divertir mais, juntos, sem elitismo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcos-valle/)
 - [Revelações do Questionário Proust](https://gamarevista.uol.com.br/pessoas/revelacoes-do-questionario-proust/)
 - [Uma playlist para embalar este e outros verões](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/uma-playlist-para-embalar-este-e-outros-veroes/)
 - [Ouça essas entrevistas para se inspirar e ter um 2025 pautado pelo bem-estar](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/ouca-essas-entrevistas-para-se-inspirar-e-ter-um-2025-pautado-pelo-bem-estar/)
 - [Os álbuns favoritos da Gama em 2024](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-albuns-favoritos-da-gama-em-2024/)
-- [Uma salada festiva de grãos com melaço de romã para dar sorte e sabor ao Ano Novo](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/uma-salada-festiva-de-graos-com-melaco-de-roma-para-dar-sorte-e-sabor-ao-ano-novo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
