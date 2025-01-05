@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Chuvas deixam mais de 40 cidades mineiras em emergência](https://www.nexojornal.com.br/extra/2025/01/05/chuvas-em-minas-gerais)
 - [Riqueza psicológica: 3 estratégias para uma vida mais interessante](https://www.nexojornal.com.br/externo/2025/01/04/dicas-para-mudar-a-vida-rotina-interessante)
 - [Os trajetos de corrida pensados para virar desenhos no Strava](https://www.nexojornal.com.br/expresso/2025/01/04/app-corrida-strava-arte-desenho-mapa)
 - [As generalizações perversas do mercado de trabalho](https://www.nexojornal.com.br/ensaio/2025/01/04/mercado-de-trabalho-generalizar-trabalhador)
 - [Como o bloqueio ucraniano ao gás russo pressiona a Europa](https://www.nexojornal.com.br/expresso/2025/01/04/guerra-ucrania-russia-bloqueio-gas-europa)
-- [Polícia investiga ataque contra indígenas no Paraná](https://www.nexojornal.com.br/extra/2025/01/04/ataque-contra-ava-guarani-no-parana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
