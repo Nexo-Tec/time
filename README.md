@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Riqueza psicológica: 3 estratégias para uma vida mais interessante](https://www.nexojornal.com.br/externo/2025/01/04/dicas-para-mudar-a-vida-rotina-interessante)
+- [Os trajetos de corrida pensados para virar desenhos no Strava](https://www.nexojornal.com.br/expresso/2025/01/04/app-corrida-strava-arte-desenho-mapa)
+- [As generalizações perversas do mercado de trabalho](https://www.nexojornal.com.br/ensaio/2025/01/04/mercado-de-trabalho-generalizar-trabalhador)
+- [Como o bloqueio ucraniano ao gás russo pressiona a Europa](https://www.nexojornal.com.br/expresso/2025/01/04/guerra-ucrania-russia-bloqueio-gas-europa)
 - [Polícia investiga ataque contra indígenas no Paraná](https://www.nexojornal.com.br/extra/2025/01/04/ataque-contra-ava-guarani-no-parana)
-- [Pesquisadores escrevem livros para crianças](https://www.nexojornal.com.br/externo/2025/01/03/livro-de-ciencia-para-criancas)
-- [O aplicativo que ajuda deficientes auditivos a consumir música](https://www.nexojornal.com.br/expresso/2025/01/03/musica-deficiente-auditivo-app-timbrasom)
-- [Quais doenças as princesas da Disney teriam se fossem reais](https://www.nexojornal.com.br/expresso/2025/01/03/princesas-disney-doenca-pessoas-reais)
-- [O surfista que conduziu uma onda de mais de 30 metros](https://www.nexojornal.com.br/expresso/2025/01/03/surf-maior-onda-recorde-masculino)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
