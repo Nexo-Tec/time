@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [7 lições de carreira que podemos adotar em 2025](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/7-licoes-de-carreira-que-podemos-adotar-em-2025/)
 - [Marcos Valle: “O melhor do verão é poder se divertir mais, juntos, sem elitismo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcos-valle/)
 - [Revelações do Questionário Proust](https://gamarevista.uol.com.br/pessoas/revelacoes-do-questionario-proust/)
 - [Uma playlist para embalar este e outros verões](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/uma-playlist-para-embalar-este-e-outros-veroes/)
 - [Ouça essas entrevistas para se inspirar e ter um 2025 pautado pelo bem-estar](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/ouca-essas-entrevistas-para-se-inspirar-e-ter-um-2025-pautado-pelo-bem-estar/)
-- [Os álbuns favoritos da Gama em 2024](https://gamarevista.uol.com.br/cultura/ler-ouvir-ver/os-albuns-favoritos-da-gama-em-2024/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
