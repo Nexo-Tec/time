@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o surto em Guarujá diz das praias da Baixada Santista](https://www.nexojornal.com.br/expresso/2025/01/06/virose-no-guaruja-influencia-poluicao-praias-baixada-santista)
+- [O que é jurisdição universal. E como ela se aplica a Israel](https://www.nexojornal.com.br/expresso/2025/01/06/soldado-israel-brasil-jurisdicao-universal-o-que-e)
 - [Probabilidades, possibilidades e precisão em previsões](https://www.nexojornal.com.br/colunistas/2025/01/06/probabilidades-possibilidades-e-precisao-em-previsoes)
 - [Congresso americano certifica Trump com Harris anfitriã](https://www.nexojornal.com.br/extra/2025/01/06/congresso-americano-certifica-trump-harris-anfitria)
 - [‘Globo de Ouro alavanca Fernanda Torres para o Oscar’](https://www.nexojornal.com.br/entrevista/2025/01/06/atriz-fernanda-torres-entrevista-critica-globo-de-ouro-barbara-demerov)
-- [Primeiro-ministro do Canadá renuncia em meio à crise partidária](https://www.nexojornal.com.br/extra/2025/01/06/primeiro-ministro-canada-justin-trudeau-renuncia)
-- [A carreira de Fernanda Torres até a conquista do Globo de Ouro](https://www.nexojornal.com.br/expresso/2025/01/06/fernanda-torres-carreira-globo-de-ouro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
