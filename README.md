@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Probabilidades, possibilidades e precisão em previsões](https://www.nexojornal.com.br/colunistas/2025/01/06/probabilidades-possibilidades-e-precisao-em-previsoes)
 - [Congresso americano certifica Trump com Harris anfitriã](https://www.nexojornal.com.br/extra/2025/01/06/congresso-americano-certifica-trump-harris-anfitria)
 - [‘Globo de Ouro alavanca Fernanda Torres para o Oscar’](https://www.nexojornal.com.br/entrevista/2025/01/06/atriz-fernanda-torres-entrevista-critica-globo-de-ouro-barbara-demerov)
 - [Primeiro-ministro do Canadá renuncia em meio à crise partidária](https://www.nexojornal.com.br/extra/2025/01/06/primeiro-ministro-canada-justin-trudeau-renuncia)
 - [A carreira de Fernanda Torres até a conquista do Globo de Ouro](https://www.nexojornal.com.br/expresso/2025/01/06/fernanda-torres-carreira-globo-de-ouro)
-- [Soldado israelense deixa o Brasil após decisão da Justiça](https://www.nexojornal.com.br/extra/2025/01/06/soldado-israelense-justica-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
