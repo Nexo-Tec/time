@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Soldado israelense deixa o Brasil após decisão da Justiça](https://www.nexojornal.com.br/extra/2025/01/06/soldado-israelense-justica-brasil)
 - [Fernanda Torres ganha Globo de Ouro de Melhor Atriz](https://www.nexojornal.com.br/extra/2025/01/06/fernanda-torres-globo-de-ouro)
 - [Espaços de história e ar puro](https://www.nexojornal.com.br/externo/2025/01/05/cemiterios-monumentos-historia-vegetacao)
 - [A urgência de compromissos com a equidade racial](https://www.nexojornal.com.br/ensaio/2025/01/05/desigualdade-racial-como-combater-equidade-racial)
 - [Os jabutis no projeto de lei sobre eólicas offshore](https://www.nexojornal.com.br/expresso/2025/01/05/projeto-lei-offshore-eolicas-setor-eletrico-emendas-jabutis)
-- [Chuvas deixam mais de 40 cidades mineiras em emergência](https://www.nexojornal.com.br/extra/2025/01/05/chuvas-em-minas-gerais)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
