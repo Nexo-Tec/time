@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A proposta para tornar a natureza sujeito de direitos no Brasil](https://www.nexojornal.com.br/externo/2025/01/07/natureza-meio-ambiente-justica-sujeito-de-acao-e-direito)
+- [O Grande Mestre de xadrez que desafia as convenções do jogo](https://www.nexojornal.com.br/expresso/2025/01/07/melhor-jogador-de-xadrez-do-mundo-magnus-carlsen-polemica)
+- [Lula acerta saída de Pimenta da Secretaria de Comunicação](https://www.nexojornal.com.br/extra/2025/01/07/lula-demite-paulo-pimenta-da-secom)
 - [Sobe para 126 número de mortos em terremoto no Tibete](https://www.nexojornal.com.br/extra/2025/01/07/terremoto-no-tibete-china)
 - [Meta anuncia que vai encerrar programa de checagem de fatos](https://www.nexojornal.com.br/extra/2025/01/07/facebook-instagram-meta-checagem-de-fatos)
-- [O que o surto em Guarujá diz das praias da Baixada Santista](https://www.nexojornal.com.br/expresso/2025/01/06/virose-no-guaruja-influencia-poluicao-praias-baixada-santista)
-- [O que é jurisdição universal. E como ela se aplica a Israel](https://www.nexojornal.com.br/expresso/2025/01/06/soldado-israel-brasil-jurisdicao-universal-o-que-e)
-- [Probabilidades, possibilidades e precisão em previsões](https://www.nexojornal.com.br/colunistas/2025/01/06/probabilidades-possibilidades-e-precisao-em-previsoes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
