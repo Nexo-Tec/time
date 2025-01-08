@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Inteligência artificial nas artes](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/inteligencia-artificial-nas-artes/)
 - [@seltonmello](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/seltonmello/)
 - [Adriane Galisteu](https://gamarevista.uol.com.br/pessoas/questionario-proust/adriane-galisteu/)
 - [7 lições de carreira que podemos adotar em 2025](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/7-licoes-de-carreira-que-podemos-adotar-em-2025/)
 - [Marcos Valle: “O melhor do verão é poder se divertir mais, juntos, sem elitismo”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcos-valle/)
-- [Revelações do Questionário Proust](https://gamarevista.uol.com.br/pessoas/revelacoes-do-questionario-proust/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
