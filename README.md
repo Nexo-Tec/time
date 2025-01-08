@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Um passeio pelo Brasil percorrendo 75 parques nacionais](https://www.nexojornal.com.br/externo/2025/01/08/parque-nacional-brasil-onde-ficam-viagem-turismo)
 - [Maridos amam mais as amantes, diz Lula em fala sobre democracia](https://www.nexojornal.com.br/extra/2025/01/08/maridos-amam-mais-amantes-lula-em-ato-de-8-de-janeiro)
 - [A conturbada relação entre os Três Poderes da República](https://www.nexojornal.com.br/podcast/2025/01/08/politica-brasil-tres-poderes-da-republica-como-funciona-relacao)
 - [Por que os molhos Hot Ones não são picantes como parecem](https://www.nexojornal.com.br/expresso/2025/01/08/video-molho-picante-pimenta-canal-hot-ones-polemica)
 - [Incêndios saem do controle na Califórnia e matam pelo menos 2](https://www.nexojornal.com.br/extra/2025/01/08/incedios-na-california-eua-2025)
-- [Governo publica norma sobre aborto legal em adolescentes](https://www.nexojornal.com.br/extra/2025/01/08/aborto-legal-menores-de-idade-resolucao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
