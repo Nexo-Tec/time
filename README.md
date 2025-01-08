@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Incêndios saem do controle na Califórnia e matam pelo menos 2](https://www.nexojornal.com.br/extra/2025/01/08/incedios-na-california-eua-2025)
 - [Governo publica norma sobre aborto legal em adolescentes](https://www.nexojornal.com.br/extra/2025/01/08/aborto-legal-menores-de-idade-resolucao)
 - [7 obras restauradas após o vandalismo de 8 de janeiro](https://www.nexojornal.com.br/expresso/2025/01/08/obras-restauradas-8-de-janeiro)
 - [Como ressoa a invasão dos Três Poderes dois anos depois](https://www.nexojornal.com.br/expresso/2025/01/07/stf-8-de-janeiro-invasao-tres-poderes-2023)
 - [‘Meta inicia novo capítulo entre a política e a tecnologia’](https://www.nexojornal.com.br/entrevista/2025/01/07/facebook-instagram-meta-fake-news-redes-sociais-checagem-de-fatos-entrevista-carlos-affonso-souza)
-- [A cruzada global de Musk contra as esquerdas](https://www.nexojornal.com.br/colunistas/2025/01/07/elon-musk-contra-a-esquerda-mundial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
