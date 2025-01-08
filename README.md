@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como ressoa a invasão dos Três Poderes dois anos depois](https://www.nexojornal.com.br/expresso/2025/01/07/stf-8-de-janeiro-invasao-tres-poderes-2023)
+- [‘Meta inicia novo capítulo entre a política e a tecnologia’](https://www.nexojornal.com.br/entrevista/2025/01/07/facebook-instagram-meta-fake-news-redes-sociais-checagem-de-fatos-entrevista-carlos-affonso-souza)
+- [A cruzada global de Musk contra as esquerdas](https://www.nexojornal.com.br/colunistas/2025/01/07/elon-musk-contra-a-esquerda-mundial)
+- [A nacionalidade das atrizes vencedoras do Globo de Ouro](https://www.nexojornal.com.br/grafico/2025/01/07/fernanda-torres-globo-de-ouro-melhor-atriz-historico-premio)
 - [A proposta para tornar a natureza sujeito de direitos no Brasil](https://www.nexojornal.com.br/externo/2025/01/07/natureza-meio-ambiente-justica-sujeito-de-acao-e-direito)
-- [O Grande Mestre de xadrez que desafia as convenções do jogo](https://www.nexojornal.com.br/expresso/2025/01/07/melhor-jogador-de-xadrez-do-mundo-magnus-carlsen-polemica)
-- [Lula acerta saída de Pimenta da Secretaria de Comunicação](https://www.nexojornal.com.br/extra/2025/01/07/lula-demite-paulo-pimenta-da-secom)
-- [Sobe para 126 número de mortos em terremoto no Tibete](https://www.nexojornal.com.br/extra/2025/01/07/terremoto-no-tibete-china)
-- [Meta anuncia que vai encerrar programa de checagem de fatos](https://www.nexojornal.com.br/extra/2025/01/07/facebook-instagram-meta-checagem-de-fatos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
