@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Por que há tanta expectativa em torno de João Fonseca](https://www.nexojornal.com.br/expresso/2025/01/09/tenista-brasileiro-joao-fonseca-australian-open)
-- [Líder da oposição é presa em protesto contra Maduro](https://www.nexojornal.com.br/extra/2025/01/09/maria-corina-machado-oposicao-presa-protesto-contra-maduro)
+- [Líder da oposição é solta após detenção em ato contra Maduro](https://www.nexojornal.com.br/extra/2025/01/09/maria-corina-machado-oposicao-presa-protesto-contra-maduro)
 - [Fogo em Los Angeles: as celebridades que deixaram suas casas](https://www.nexojornal.com.br/expresso/2025/01/09/incendios-los-angeles-fogo-desabriga-famosos)
 - [Jatinho ultrapassa pista e explode na praia em Ubatuba](https://www.nexojornal.com.br/extra/2025/01/09/ubatuba-jatinho-ultrapassa-pista-explode-litoral-norte-sp)
 - [Pepe Mujica diz que câncer se espalhou: ‘estou morrendo’](https://www.nexojornal.com.br/extra/2025/01/09/mujica-cancer-estou-morrendo)
