@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [O Eterno Agora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-eterno-agora/)
-- [Que história, Brasil!](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/que-historia-brasil/)
-- [Inteligência artificial nas artes](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/inteligencia-artificial-nas-artes/)
-- [@seltonmello](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/seltonmello/)
-- [Adriane Galisteu](https://gamarevista.uol.com.br/pessoas/questionario-proust/adriane-galisteu/)
+- [O “Roda Viva” com Fernanda Torres sobre vida, morte e carreira, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-roda-viva-com-fernanda-torres/)
+- [Os influencers e a ascensão do tigrinho, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-influencers-e-a-ascensao-do-tigrinho-na-piaui/)
+- [O premiado “Baby”, dirigido por Marcelo Caetano](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-premiado-baby-dirigido-por-marcelo-caetano/)
+- [Oficinas literárias para fortalecer uma livraria LGBTQIA+](https://gamarevista.uol.com.br/achamos-que-vale/fazer/oficinas-literarias-para-fortalecer-uma-livraria-lgbtqia/)
+- [Entrada livre na Pina até o fim de janeiro para quem vai de metrô](https://gamarevista.uol.com.br/achamos-que-vale/ir/entrada-livre-na-pina-ate-o-fim-de-janeiro-para-quem-vai-de-metro/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
