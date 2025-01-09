@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como as big techs podem se beneficiar do alinhamento a Trump](https://www.nexojornal.com.br/expresso/2025/01/08/governo-trump-meta-big-techs-alinhamento)
+- [Quais são as demandas territoriais do Chile na Antártida](https://www.nexojornal.com.br/expresso/2025/01/08/chile-soberania-territorio-antartida-disputa)
 - [Com Ozempic e Xenical, quem é gordo não perde a esperança](https://www.nexojornal.com.br/colunistas/2025/01/08/emagrecer-ozempic-obesidade-rybelsus)
 - [Um passeio pelo Brasil percorrendo 75 parques nacionais](https://www.nexojornal.com.br/externo/2025/01/08/parque-nacional-brasil-onde-ficam-viagem-turismo)
 - [Maridos amam mais as amantes, diz Lula em fala sobre democracia](https://www.nexojornal.com.br/extra/2025/01/08/maridos-amam-mais-amantes-lula-em-ato-de-8-de-janeiro)
-- [A conturbada relação entre os Três Poderes da República](https://www.nexojornal.com.br/podcast/2025/01/08/politica-brasil-tres-poderes-da-republica-como-funciona-relacao)
-- [Por que os molhos Hot Ones não são picantes como parecem](https://www.nexojornal.com.br/expresso/2025/01/08/video-molho-picante-pimenta-canal-hot-ones-polemica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
