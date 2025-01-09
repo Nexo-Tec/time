@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Fogo em Los Angeles: as celebridades que deixaram suas casas](https://www.nexojornal.com.br/expresso/2025/01/09/incendios-los-angeles-fogo-desabriga-famosos)
 - [Jatinho ultrapassa pista e explode na praia em Ubatuba](https://www.nexojornal.com.br/extra/2025/01/09/ubatuba-jatinho-ultrapassa-pista-explode-litoral-norte-sp)
 - [Pepe Mujica diz que câncer se espalhou: ‘estou morrendo’](https://www.nexojornal.com.br/extra/2025/01/09/mujica-cancer-estou-morrendo)
 - [Como as big techs podem se beneficiar do alinhamento a Trump](https://www.nexojornal.com.br/expresso/2025/01/08/governo-trump-meta-big-techs-alinhamento)
 - [Quais são as demandas territoriais do Chile na Antártida](https://www.nexojornal.com.br/expresso/2025/01/08/chile-soberania-territorio-antartida-disputa)
-- [Com Ozempic e Xenical, quem é gordo não perde a esperança](https://www.nexojornal.com.br/colunistas/2025/01/08/emagrecer-ozempic-obesidade-rybelsus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
