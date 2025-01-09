@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Jatinho ultrapassa pista e explode na praia de Ubatuba](https://www.nexojornal.com.br/extra/2025/01/09/ubatuba-jatinho-ultrapassa-pista-explode-litoral-norte-sp)
+- [Pepe Mujica diz que câncer se espalhou: ‘estou morrendo’](https://www.nexojornal.com.br/extra/2025/01/09/mujica-cancer-estou-morrendo)
 - [Como as big techs podem se beneficiar do alinhamento a Trump](https://www.nexojornal.com.br/expresso/2025/01/08/governo-trump-meta-big-techs-alinhamento)
 - [Quais são as demandas territoriais do Chile na Antártida](https://www.nexojornal.com.br/expresso/2025/01/08/chile-soberania-territorio-antartida-disputa)
 - [Com Ozempic e Xenical, quem é gordo não perde a esperança](https://www.nexojornal.com.br/colunistas/2025/01/08/emagrecer-ozempic-obesidade-rybelsus)
-- [Um passeio pelo Brasil percorrendo 75 parques nacionais](https://www.nexojornal.com.br/externo/2025/01/08/parque-nacional-brasil-onde-ficam-viagem-turismo)
-- [Maridos amam mais as amantes, diz Lula em fala sobre democracia](https://www.nexojornal.com.br/extra/2025/01/08/maridos-amam-mais-amantes-lula-em-ato-de-8-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
