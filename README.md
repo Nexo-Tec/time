@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O Eterno Agora](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-eterno-agora/)
 - [Que história, Brasil!](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/que-historia-brasil/)
 - [Inteligência artificial nas artes](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/inteligencia-artificial-nas-artes/)
 - [@seltonmello](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/seltonmello/)
 - [Adriane Galisteu](https://gamarevista.uol.com.br/pessoas/questionario-proust/adriane-galisteu/)
-- [7 lições de carreira que podemos adotar em 2025](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/7-licoes-de-carreira-que-podemos-adotar-em-2025/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
