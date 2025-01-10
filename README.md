@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Sem filtro para a Meta](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/sem-filtro-para-a-meta/)
 - [Tai Nalon: “É urgente deixar claro que checagem de fatos não tem nada a ver com censura”](https://gamarevista.uol.com.br/formato/conversas/tai-nalon-se-existia-uma-percepcao-do-zuckerberg-sobre-censura-era-por-decisao-dele/)
 - [O “Roda Viva” com Fernanda Torres sobre vida, morte e carreira, no YouTube](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-roda-viva-com-fernanda-torres/)
 - [Os influencers e a ascensão do tigrinho, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-influencers-e-a-ascensao-do-tigrinho-na-piaui/)
 - [O premiado “Baby”, dirigido por Marcelo Caetano](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-premiado-baby-dirigido-por-marcelo-caetano/)
-- [Oficinas literárias para fortalecer uma livraria LGBTQIA+](https://gamarevista.uol.com.br/achamos-que-vale/fazer/oficinas-literarias-para-fortalecer-uma-livraria-lgbtqia/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
