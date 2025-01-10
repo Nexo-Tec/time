@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Planeta ultrapassou limite climático crítico em 2024](https://www.nexojornal.com.br/extra/2025/01/10/2024-ano-mais-quente-ja-registrado)
 - [Inflação de 2024 fecha em 4,83%, acima do teto da meta](https://www.nexojornal.com.br/extra/2025/01/10/inflacao-2024-acima-do-teto-da-meta)
 - [A relação entre hortas comunitárias e o direito à alimentação](https://www.nexojornal.com.br/academico/2025/01/09/alimentacao-horta-comunitaria-pesquisa)
 - [Como brasileiros se preparam para uma deportação sob Trump](https://www.nexojornal.com.br/externo/2025/01/09/como-brasileiros-se-preparam-para-uma-deportacao-sob-trump)
 - [Esta banda já tinha desistido. Até que a internet a descobriu](https://www.nexojornal.com.br/expresso/2025/01/09/banda-indie-internet-panchiko)
-- [O que muda com as novas regras da Receita Federal para o Pix](https://www.nexojornal.com.br/expresso/2025/01/09/pix-novas-regras-receita-federal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
