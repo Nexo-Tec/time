@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros que trazem experiências pessoais para o primeiro plano](https://www.nexojornal.com.br/estante-favoritos/2025/01/10/livros-experiencias-pessoais-escritas-autobiograficas-kanucha-barbosa)
+- [‘Mar da tranquilidade’: viagem no tempo e vida fora da terra](https://www.nexojornal.com.br/estante-trechos/2025/01/10/livro-mar-da-tranquilidade-emily-st-john-mandel)
 - [A plataforma de ciência cidadã para mapear o espaço](https://www.nexojornal.com.br/expresso/2025/01/10/splus-plataforma-ciencia-cidada-mapear-espaco)
 - [Maduro toma posse do 3º mandato após vitória contestada](https://www.nexojornal.com.br/extra/2025/01/10/posse-de-nicolas-maduro-na-venezuela)
 - [Planeta ultrapassou limite climático crítico em 2024](https://www.nexojornal.com.br/extra/2025/01/10/2024-ano-mais-quente-ja-registrado)
-- [Inflação de 2024 fecha em 4,83%, acima do teto da meta](https://www.nexojornal.com.br/extra/2025/01/10/inflacao-2024-acima-do-teto-da-meta)
-- [A relação entre hortas comunitárias e o direito à alimentação](https://www.nexojornal.com.br/academico/2025/01/09/alimentacao-horta-comunitaria-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
