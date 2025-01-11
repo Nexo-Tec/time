@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Arte em vez de tiros: passeando por uma galeria em ‘Doom’](https://www.nexojornal.com.br/expresso/2025/01/10/jogo-doom-galeria-de-arte)
-- [5 livros que trazem experiências pessoais para o primeiro plano](https://www.nexojornal.com.br/estante-favoritos/2025/01/10/livros-experiencias-pessoais-escritas-autobiograficas-kanucha-barbosa)
-- [‘Mar da tranquilidade’: viagem no tempo e vida fora da terra](https://www.nexojornal.com.br/estante-trechos/2025/01/10/livro-mar-da-tranquilidade-emily-st-john-mandel)
-- [A plataforma de ciência cidadã para mapear o espaço](https://www.nexojornal.com.br/expresso/2025/01/10/splus-plataforma-ciencia-cidada-mapear-espaco)
-- [Maduro toma posse do 3º mandato após vitória contestada](https://www.nexojornal.com.br/extra/2025/01/10/posse-de-nicolas-maduro-na-venezuela)
+- [6 livros para ler com as crianças durante as férias](https://www.nexojornal.com.br/externo/2025/01/10/livro-infantil-crianca-ferias)
+- [7 avanços tecnológicos que provavelmente veremos em 2025](https://www.nexojornal.com.br/externo/2025/01/10/tendencia-tecnologia-ia-inteligencia-artificial-2025)
+- [Como Balneário Camboriú agita rixas políticas nas redes](https://www.nexojornal.com.br/expresso/2025/01/10/balneario-camboriu-politica-bolsonaro)
+- [Por que a Califórnia é tão suscetível a incêndios florestais](https://www.nexojornal.com.br/expresso/2025/01/10/los-angeles-incendio-california-motivo)
+- [O que a equipe de gráficos do Nexo produz em um mês](https://www.nexojornal.com.br/grafico/2025/01/10/como-funciona-equipe-graficos-nexo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
