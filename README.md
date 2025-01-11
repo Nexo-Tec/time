@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Entre pessoas e algoritmos: como será o RH em 2025](https://www.nexojornal.com.br/ensaio/2025/01/11/tendencia-trabalho-rh-recursos-humanos-2025)
+- [Qual o futuro de uma Venezuela cada vez mais fechada e isolada](https://www.nexojornal.com.br/expresso/2025/01/11/venezuela-maduro-posse-terceiro-mandato)
 - [Brasil condena violações na Venezuela após posse de Maduro](https://www.nexojornal.com.br/extra/2025/01/11/brasil-condena-regime-maduro)
 - [6 livros para ler com as crianças durante as férias](https://www.nexojornal.com.br/externo/2025/01/10/livro-infantil-crianca-ferias)
 - [7 avanços tecnológicos que provavelmente veremos em 2025](https://www.nexojornal.com.br/externo/2025/01/10/tendencia-tecnologia-ia-inteligencia-artificial-2025)
-- [Como Balneário Camboriú agita rixas políticas nas redes](https://www.nexojornal.com.br/expresso/2025/01/10/balneario-camboriu-politica-bolsonaro)
-- [Por que a Califórnia é tão suscetível a incêndios florestais](https://www.nexojornal.com.br/expresso/2025/01/10/los-angeles-incendio-california-motivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
