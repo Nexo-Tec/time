@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [MST aponta para ação de milícias em ataque a assentamento](https://www.nexojornal.com.br/extra/2025/01/12/asssassinatos-assentamento-mst)
 - [Arte é utilizada em tratamentos psiquiátricos no Brasil desde o século 19](https://www.nexojornal.com.br/externo/2025/01/11/arte-como-tratamento-psiquiatrico-no-brasil-origem)
 - [O concurso de invenções para jovens engenheiros de design](https://www.nexojornal.com.br/expresso/2025/01/11/concurso-de-design-engenheiros-james-dyson-award)
 - [Entre pessoas e algoritmos: como será o RH em 2025](https://www.nexojornal.com.br/ensaio/2025/01/11/tendencia-trabalho-rh-recursos-humanos-2025)
 - [Qual o futuro de uma Venezuela cada vez mais fechada e isolada](https://www.nexojornal.com.br/expresso/2025/01/11/venezuela-maduro-posse-terceiro-mandato)
-- [Brasil condena violações na Venezuela após posse de Maduro](https://www.nexojornal.com.br/extra/2025/01/11/brasil-condena-regime-maduro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
