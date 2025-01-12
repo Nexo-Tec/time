@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os ataques a indígenas Avá-Guarani no Paraná](https://www.nexojornal.com.br/externo/2025/01/12/indigenas-ava-guarani-sofrem-ataques)
+- [Financiadores do golpe: como se traça o caminho do dinheiro](https://www.nexojornal.com.br/expresso/2025/01/12/tentativa-de-golpe-lula-2022-quem-financiou)
 - [Um caminho coletivo para reescrevermos as cidades](https://www.nexojornal.com.br/ensaio/2025/01/12/cidade-urbanismo-papel-das-pessoas)
 - [MST aponta para ação de milícias em ataque a assentamento](https://www.nexojornal.com.br/extra/2025/01/12/asssassinatos-assentamento-mst)
 - [Arte é utilizada em tratamentos psiquiátricos no Brasil desde o século 19](https://www.nexojornal.com.br/externo/2025/01/11/arte-como-tratamento-psiquiatrico-no-brasil-origem)
-- [O concurso de invenções para jovens engenheiros de design](https://www.nexojornal.com.br/expresso/2025/01/11/concurso-de-design-engenheiros-james-dyson-award)
-- [Entre pessoas e algoritmos: como será o RH em 2025](https://www.nexojornal.com.br/ensaio/2025/01/11/tendencia-trabalho-rh-recursos-humanos-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
