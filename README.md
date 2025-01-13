@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As reformulações no BBB ao longo de 25 edições do programa](https://www.nexojornal.com.br/expresso/2025/01/13/bbb-25-edicao-reformulacoes-globo)
 - [Lula sanciona lei que proíbe uso de celulares em escolas](https://www.nexojornal.com.br/extra/2025/01/13/celular-proibido-nas-escolas)
 - [Como esta galeria irá expor obras destruídas de Michelangelo](https://www.nexojornal.com.br/expresso/2025/01/13/arte-michelangelo-obras-destruidas-exposicao)
 - [5 campanhas polêmicas de Oliviero Toscani na Benetton](https://www.nexojornal.com.br/expresso/2025/01/13/as-campanhas-polemicas-de-oliviero-toscani-na-benetton)
 - [Chuvas no Vale do Aço deixam 11 mortos em Minas Gerais](https://www.nexojornal.com.br/extra/2025/01/13/mortes-chuvas-vale-do-aco)
-- [Os ataques a indígenas Avá-Guarani no Paraná](https://www.nexojornal.com.br/externo/2025/01/12/indigenas-ava-guarani-sofrem-ataques)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
