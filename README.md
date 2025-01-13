@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como esta galeria irá expor obras destruídas de Michelangelo](https://www.nexojornal.com.br/expresso/2025/01/13/arte-michelangelo-obras-destruidas-exposicao)
+- [5 campanhas polêmicas de Oliviero Toscani na Benetton](https://www.nexojornal.com.br/expresso/2025/01/13/as-campanhas-polemicas-de-oliviero-toscani-na-benetton)
 - [Chuvas no Vale do Aço deixam 11 mortos em Minas Gerais](https://www.nexojornal.com.br/extra/2025/01/13/mortes-chuvas-vale-do-aco)
 - [Os ataques a indígenas Avá-Guarani no Paraná](https://www.nexojornal.com.br/externo/2025/01/12/indigenas-ava-guarani-sofrem-ataques)
 - [Financiadores do golpe: como se traça o caminho do dinheiro](https://www.nexojornal.com.br/expresso/2025/01/12/tentativa-de-golpe-lula-2022-quem-financiou)
-- [Um caminho coletivo para reescrevermos as cidades](https://www.nexojornal.com.br/ensaio/2025/01/12/cidade-urbanismo-papel-das-pessoas)
-- [MST aponta para ação de milícias em ataque a assentamento](https://www.nexojornal.com.br/extra/2025/01/12/asssassinatos-assentamento-mst)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
