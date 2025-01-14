@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@harrisdickinson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/harrisdickinson/)
 - [Bolsa “Wirkin” do Walmart](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bolsa-wirkin-do-walmart/)
 - [Tássia Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/tassia-reis/)
 - [Bruno Gualano: “O mundo fitness é individualizante e egoísta”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruno-gualano/)
 - [Sem filtro para a Meta](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/sem-filtro-para-a-meta/)
-- [Tai Nalon: “É urgente deixar claro que checagem de fatos não tem nada a ver com censura”](https://gamarevista.uol.com.br/formato/conversas/tai-nalon-se-existia-uma-percepcao-do-zuckerberg-sobre-censura-era-por-decisao-dele/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
