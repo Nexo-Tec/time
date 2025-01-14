@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Trabalho surreal’, diz autora de livro sobre plantadores de fumo](https://www.nexojornal.com.br/externo/2025/01/14/livro-a-arvore-mais-sozinha-do-mundo-mariana-salomao-carrara-entrevista)
 - [Lula dá posse a novo secretário de Comunicação Social](https://www.nexojornal.com.br/extra/2025/01/14/novo-secretario-de-comunicacao-social-de-lula)
 - [Quaquá: o prefeito petista que recebeu a família Brazão](https://www.nexojornal.com.br/expresso/2025/01/14/quaqua-familia-brazao)
 - [João Fonseca bate top 10 e avança no Aberto da Austrália](https://www.nexojornal.com.br/extra/2025/01/14/joao-fonseca-rublev-australian)
 - [Os ecos da Doutrina Monroe na política externa de Trump](https://www.nexojornal.com.br/expresso/2025/01/13/donald-trump-doutrina-monroe)
-- [As escolas ficam seguras com policiais armados?](https://www.nexojornal.com.br/externo/2025/01/13/as-escolas-ficam-seguras-com-policiais-armados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
