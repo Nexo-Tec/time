@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [Por que as pessoas estão tendo câncer de intestino mais jovens](https://www.nexojornal.com.br/externo/2025/01/14/cancer-de-intestino-doenca-sintomas-aparece-em-jovens)
 - [Sob Trump, EUA copiam as oligarquias pós-soviéticas](https://www.nexojornal.com.br/colunistas/2025/01/14/trump-oligarcas-sovieticos)
 - [O valor diário movimentado no Pix desde 2024](https://www.nexojornal.com.br/grafico/2025/01/14/valor-movimentado-nova-regra-pix)
-- [Lula anuncia ações de estímulo à carreira de professores](https://www.nexojornal.com.br/undefined/2025/01/14/lula-anuncia-acoes-de-estimulo-a-carreira-de-professores)
+- [Lula anuncia ações de estímulo à carreira de professores](https://www.nexojornal.com.br/extra/2025/01/14/lula-anuncia-acoes-de-estimulo-a-carreira-de-professores)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
