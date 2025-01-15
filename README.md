@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [CV: Batman Zavareze](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-batman-zavareze/)
 - [Afinal, o que os poetas querem dizer?](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/afinal-o-que-os-poetas-querem-dizer/)
 - [@harrisdickinson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/harrisdickinson/)
 - [Bolsa “Wirkin” do Walmart](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bolsa-wirkin-do-walmart/)
 - [Tássia Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/tassia-reis/)
-- [Bruno Gualano: “O mundo fitness é individualizante e egoísta”](https://gamarevista.uol.com.br/podcast/podcast-da-semana/bruno-gualano/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
