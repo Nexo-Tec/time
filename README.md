@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual o cenário do serviço de mototáxi no Brasil](https://www.nexojornal.com.br/expresso/2025/01/15/mototaxi-99-sao-paulo)
 - [Presidente afastado da Coreia do Sul é, enfim, preso](https://www.nexojornal.com.br/extra/2025/01/15/presidente-coreia-do-sul-preso)
 - [Por que o ‘caso Pix’ deixou o governo Lula tão na defensiva](https://www.nexojornal.com.br/expresso/2025/01/14/taxacao-pix-governo-crise)
 - [Por que as pessoas estão tendo câncer de intestino mais jovens](https://www.nexojornal.com.br/externo/2025/01/14/cancer-de-intestino-doenca-sintomas-aparece-em-jovens)
 - [Sob Trump, EUA copiam as oligarquias pós-soviéticas](https://www.nexojornal.com.br/colunistas/2025/01/14/trump-oligarcas-sovieticos)
-- [O valor diário movimentado no Pix desde 2024](https://www.nexojornal.com.br/grafico/2025/01/14/valor-movimentado-nova-regra-pix)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
