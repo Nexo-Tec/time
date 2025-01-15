@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Trump diz que Israel e Hamas pactuaram cessar-fogo em Gaza](https://www.nexojornal.com.br/extra/2025/01/15/cessar-fogo-na-faixa-de-gaza)
+- [Universidades públicas de São Paulo criam modelo flexível na pós-graduação](https://www.nexojornal.com.br/externo/2025/01/15/modelo-flexivel-pos-graduacao-universidades-publicas-de-sao-paulo)
+- [Israel e Hamas fecham acordo de cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/extra/2025/01/15/cessar-fogo-na-faixa-de-gaza)
 - [Qual o cenário do serviço de mototáxi no Brasil](https://www.nexojornal.com.br/expresso/2025/01/15/mototaxi-99-sao-paulo)
 - [Presidente afastado da Coreia do Sul é, enfim, preso](https://www.nexojornal.com.br/extra/2025/01/15/presidente-coreia-do-sul-preso)
 - [Por que o ‘caso Pix’ deixou o governo Lula tão na defensiva](https://www.nexojornal.com.br/expresso/2025/01/14/taxacao-pix-governo-crise)
-- [Por que as pessoas estão tendo câncer de intestino mais jovens](https://www.nexojornal.com.br/externo/2025/01/14/cancer-de-intestino-doenca-sintomas-aparece-em-jovens)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
