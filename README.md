@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Batman Zavareze](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-batman-zavareze/)
-- [Afinal, o que os poetas querem dizer?](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/afinal-o-que-os-poetas-querem-dizer/)
-- [@harrisdickinson](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/harrisdickinson/)
-- [Bolsa “Wirkin” do Walmart](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/bolsa-wirkin-do-walmart/)
-- [Tássia Reis](https://gamarevista.uol.com.br/pessoas/questionario-proust/tassia-reis/)
+- [A aguardada nova temporada de “Ruptura”, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-aguardada-nova-temporada-de-ruptura-na-apple-tv/)
+- [Literatura e humor na newsletter “A Lábia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/literatura-e-humor-na-newsletter-a-labia/)
+- [“Chico Bento e a Goiabeira Maraviósa”, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/chico-bento-e-a-goiabeira-maraviosa-nos-cinemas/)
+- [Dona Fulô e outras joias negras, no MAC-BA, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/dona-fulo-e-outras-joias-negras-no-mac-ba-em-salvador/)
+- [Um retrato íntimo e musical de Luiz Melodia, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-retrato-intimo-e-musical-de-luiz-melodia-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
