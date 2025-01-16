@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A proposta para mudar como diagnosticar obesidade](https://www.nexojornal.com.br/expresso/2025/01/15/obesidade-criterios-diagnostico-the-lancet)
+- [Como os EUA tentam restringir o acesso a sites de pornografia](https://www.nexojornal.com.br/expresso/2025/01/15/conteudo-adulto-pornografia-eua-verificacao-idade)
 - [A expectativa quanto ao novo governo de Trump na Casa Branca](https://www.nexojornal.com.br/podcast/2025/01/15/expectativa-governo-trump-poggio)
 - [Bíblias de ‘Duna’: os storyboards do filme que nunca foi feito](https://www.nexojornal.com.br/expresso/2025/01/15/biblias-de-duna-os-storyboards-do-filme-que-nunca-foi-feito)
 - [Universidades públicas de São Paulo criam modelo flexível na pós-graduação](https://www.nexojornal.com.br/externo/2025/01/15/modelo-flexivel-pos-graduacao-universidades-publicas-de-sao-paulo)
-- [Israel e Hamas fecham acordo de cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/extra/2025/01/15/cessar-fogo-na-faixa-de-gaza)
-- [Qual o cenário do serviço de mototáxi no Brasil](https://www.nexojornal.com.br/expresso/2025/01/15/mototaxi-99-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
