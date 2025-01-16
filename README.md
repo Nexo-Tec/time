@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Moraes nega pedido de Bolsonaro para ir à posse de Trump](https://www.nexojornal.com.br/extra/2025/01/16/moraes-nega-pedido-de-bolsonaro-para-ir-aos-eua)
 - [Operação prende PM suspeito de matar delator do PCC](https://www.nexojornal.com.br/extra/2025/01/16/pm-da-ativa-assassinato-delator-do-pcc)
 - [Os soldados norte-coreanos no front da guerra da Ucrânia](https://www.nexojornal.com.br/expresso/2025/01/16/soldados-coreia-do-norte-guerra-ucrania)
 - [Os avanços e recuos dos direitos humanos no Brasil em 2024](https://www.nexojornal.com.br/expresso/2025/01/16/direitos-humanos-brasil-2024)
 - [A proposta para mudar como diagnosticar obesidade](https://www.nexojornal.com.br/expresso/2025/01/15/obesidade-criterios-diagnostico-the-lancet)
-- [Como os EUA tentam restringir o acesso a sites de pornografia](https://www.nexojornal.com.br/expresso/2025/01/15/conteudo-adulto-pornografia-eua-verificacao-idade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
