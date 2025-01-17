@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [12 horas com Susan Sontag](https://gamarevista.uol.com.br/cultura/trecho-de-livro/12-horas-com-susan-sontag/)
 - [A aguardada nova temporada de “Ruptura”, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-aguardada-nova-temporada-de-ruptura-na-apple-tv/)
 - [Literatura e humor na newsletter “A Lábia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/literatura-e-humor-na-newsletter-a-labia/)
 - [“Chico Bento e a Goiabeira Maraviósa”, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/chico-bento-e-a-goiabeira-maraviosa-nos-cinemas/)
 - [Dona Fulô e outras joias negras, no MAC-BA, em Salvador](https://gamarevista.uol.com.br/achamos-que-vale/ir/dona-fulo-e-outras-joias-negras-no-mac-ba-em-salvador/)
-- [Um retrato íntimo e musical de Luiz Melodia, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-retrato-intimo-e-musical-de-luiz-melodia-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
