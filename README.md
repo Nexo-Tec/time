@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O site que traz mais de 10 mil imagens em domínio público](https://www.nexojornal.com.br/expresso/2025/01/17/public-domain-review)
 - [ChatGPT é de esquerda ou direita? O que dizem estudos](https://www.nexojornal.com.br/expresso/2025/01/16/o-chatgpt-e-de-esquerda-ou-direita-o-que-dizem-estudos)
 - [Quais as dúvidas em torno do cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2025/01/16/acordo-cessar-fogo-israel-hamas-duvidas)
 - [Novas diretrizes da Meta: será o fim da Educação Midiática?](https://www.nexojornal.com.br/colunistas/2025/01/16/novas-diretrizes-da-meta-sera-o-fim-da-educacao-midiatica)
 - [Os desafios do ativismo feminista cristão no Brasil](https://www.nexojornal.com.br/academico/2025/01/16/os-desafios-do-ativismo-feminista-cristao-no-brasil)
-- [O que fez de ‘Ruptura’ uma série de streaming tão cara](https://www.nexojornal.com.br/expresso/2025/01/16/ruptura-serie-cara-apple-tv)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
