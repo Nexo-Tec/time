@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para conhecer antes de o mundo acabar](https://www.nexojornal.com.br/estante-favoritos/2025/01/17/livros-de-artistas-para-ler-antes-do-mundo-acabar-ligia-souto)
 - [Quem disputa com Fernanda Torres uma vaga no Oscar](https://www.nexojornal.com.br/grafico/2025/01/17/fernanda-torres-concorrentes-disputa-oscar)
 - [‘O último dia da infância’: pai e filha crianças no Rio](https://www.nexojornal.com.br/estante-trechos/2025/01/17/livro-o-ultimo-dia-da-infancia-marcelo-moutinho)
 - [Os alinhamentos planetários do início de 2025](https://www.nexojornal.com.br/externo/2025/01/17/universo-planetas-alinhamento-2025)
 - [Suprema Corte dos EUA confirma lei contra Tiktok](https://www.nexojornal.com.br/extra/2025/01/17/suprema-corte-banimento-tiktok)
-- [Os experimentos de David Lynch em design e arquitetura](https://www.nexojornal.com.br/expresso/2025/01/17/david-lynch-design-e-arquitetura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
