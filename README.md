@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [ChatGPT é de esquerda ou direita? O que dizem estudos](https://www.nexojornal.com.br/expresso/2025/01/16/o-chatgpt-e-de-esquerda-ou-direita-o-que-dizem-estudos)
+- [Quais as dúvidas em torno do cessar-fogo na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2025/01/16/acordo-cessar-fogo-israel-hamas-duvidas)
+- [Novas diretrizes da Meta: será o fim da Educação Midiática?](https://www.nexojornal.com.br/colunistas/2025/01/16/novas-diretrizes-da-meta-sera-o-fim-da-educacao-midiatica)
 - [Os desafios do ativismo feminista cristão no Brasil](https://www.nexojornal.com.br/academico/2025/01/16/os-desafios-do-ativismo-feminista-cristao-no-brasil)
 - [O que fez de ‘Ruptura’ uma série de streaming tão cara](https://www.nexojornal.com.br/expresso/2025/01/16/ruptura-serie-cara-apple-tv)
-- [Diretor americano David Lynch morre aos 78 anos](https://www.nexojornal.com.br/extra/2025/01/16/morre-david-lynch-diretor-americano)
-- [Moraes nega pedido de Bolsonaro para ir à posse de Trump](https://www.nexojornal.com.br/extra/2025/01/16/moraes-nega-pedido-de-bolsonaro-para-ir-aos-eua)
-- [Operação prende PM suspeito de matar delator do PCC](https://www.nexojornal.com.br/extra/2025/01/16/pm-da-ativa-assassinato-delator-do-pcc)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
