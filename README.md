@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quem disputa com Fernanda Torres uma vaga no Oscar](https://www.nexojornal.com.br/grafico/2025/01/17/fernanda-torres-concorrentes-disputa-oscar)
+- [‘O último dia da infância’: pai e filha crianças no Rio](https://www.nexojornal.com.br/estante-trechos/2025/01/17/livro-o-ultimo-dia-da-infancia-marcelo-moutinho)
 - [Os alinhamentos planetários do início de 2025](https://www.nexojornal.com.br/externo/2025/01/17/universo-planetas-alinhamento-2025)
 - [Suprema Corte dos EUA confirma lei contra Tiktok](https://www.nexojornal.com.br/extra/2025/01/17/suprema-corte-banimento-tiktok)
 - [Os experimentos de David Lynch em design e arquitetura](https://www.nexojornal.com.br/expresso/2025/01/17/david-lynch-design-e-arquitetura)
-- [O site que traz mais de 10 mil imagens em domínio público](https://www.nexojornal.com.br/expresso/2025/01/17/public-domain-review)
-- [ChatGPT é de esquerda ou direita? O que dizem estudos](https://www.nexojornal.com.br/expresso/2025/01/16/o-chatgpt-e-de-esquerda-ou-direita-o-que-dizem-estudos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
