@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para conhecer antes de o mundo acabar](https://www.nexojornal.com.br/estante-favoritos/2025/01/17/livros-de-artistas-para-ler-antes-do-mundo-acabar-ligia-souto)
-- [Quem disputa com Fernanda Torres uma vaga no Oscar](https://www.nexojornal.com.br/grafico/2025/01/17/fernanda-torres-concorrentes-disputa-oscar)
-- [‘O último dia da infância’: pai e filha crianças no Rio](https://www.nexojornal.com.br/estante-trechos/2025/01/17/livro-o-ultimo-dia-da-infancia-marcelo-moutinho)
-- [Os alinhamentos planetários do início de 2025](https://www.nexojornal.com.br/externo/2025/01/17/universo-planetas-alinhamento-2025)
-- [Suprema Corte dos EUA confirma lei contra Tiktok](https://www.nexojornal.com.br/extra/2025/01/17/suprema-corte-banimento-tiktok)
+- [Os cineastas nortistas que abordam a vida sem estereótipos](https://www.nexojornal.com.br/externo/2025/01/17/os-cineastas-nortistas-que-abordam-a-vida-sem-estereotipos)
+- [A alta mortalidade de muriquis-do-norte em Minas Gerais](https://www.nexojornal.com.br/externo/2025/01/17/a-alta-mortalidade-de-muriquis-do-norte-em-minas-gerais)
+- [Meta e TikTok em transe: a migração para outras redes](https://www.nexojornal.com.br/expresso/2025/01/17/rednote-pixefed-redes-sociais-eua-tik-tok)
+- [Quais são os planos para a nova estatal aeroespacial brasileira](https://www.nexojornal.com.br/expresso/2025/01/17/alada-estatal-aeoespacial-o-que-e)
+- [Caso Pix: ‘oposição percebeu que lida com governo fraco’](https://www.nexojornal.com.br/entrevista/2025/01/17/caso-pix-entrevista-sergio-praca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
