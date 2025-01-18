@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Netanyahu ameaça novamente cessar-fogo na véspera do início](https://www.nexojornal.com.br/extra/2025/01/18/netanyahu-ameaca-cessar-fogo-vespera)
-- [Os cineastas nortistas que abordam a vida sem estereótipos](https://www.nexojornal.com.br/externo/2025/01/17/os-cineastas-nortistas-que-abordam-a-vida-sem-estereotipos)
-- [A alta mortalidade de muriquis-do-norte em Minas Gerais](https://www.nexojornal.com.br/externo/2025/01/17/a-alta-mortalidade-de-muriquis-do-norte-em-minas-gerais)
-- [Meta e TikTok em transe: a migração para outras redes](https://www.nexojornal.com.br/expresso/2025/01/17/rednote-pixefed-redes-sociais-eua-tik-tok)
-- [Quais são os planos para a nova estatal aeroespacial brasileira](https://www.nexojornal.com.br/expresso/2025/01/17/alada-estatal-aeoespacial-o-que-e)
+- [Qual impacto das câmeras digitais nas auroras boreais](https://www.nexojornal.com.br/expresso/2025/01/18/auroras-boreais-e-polares-fotos-celulares)
+- [O desafio de adaptação das empresas num mundo em movimento](https://www.nexojornal.com.br/ensaio/2025/01/18/mercado-de-consultoria-de-empresas-tendencias-2025)
+- [Como será o primeiro ano letivo sem celular nas escolas](https://www.nexojornal.com.br/externo/2025/01/18/lei-proibe-celular-nas-escolas-2025)
+- [A epidemia vai voltar? As projeções para a dengue em 2025](https://www.nexojornal.com.br/expresso/2025/01/18/dengue-casos-mortes-2025)
+- [Mais Professores: o programa diante da falta de incentivos](https://www.nexojornal.com.br/expresso/2025/01/18/programa-mais-professores-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
