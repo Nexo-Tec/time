@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Tik Tok sai do ar nos EUA após decisão da Suprema Corte](https://www.nexojornal.com.br/extra/2025/01/19/tik-tok-sai-do-ar-eua-suprema-corte)
 - [Qual impacto das câmeras digitais nas auroras boreais](https://www.nexojornal.com.br/expresso/2025/01/18/auroras-boreais-e-polares-fotos-celulares)
 - [O desafio de adaptação das empresas num mundo em movimento](https://www.nexojornal.com.br/ensaio/2025/01/18/mercado-de-consultoria-de-empresas-tendencias-2025)
 - [Como será o primeiro ano letivo sem celular nas escolas](https://www.nexojornal.com.br/externo/2025/01/18/lei-proibe-celular-nas-escolas-2025)
 - [A epidemia vai voltar? As projeções para a dengue em 2025](https://www.nexojornal.com.br/expresso/2025/01/18/dengue-casos-mortes-2025)
-- [Mais Professores: o programa diante da falta de incentivos](https://www.nexojornal.com.br/expresso/2025/01/18/programa-mais-professores-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
