@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Nath Finanças: empreender com planejamento](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nath-financas/)
 - [Bons motivos para dizer “até logo”](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/bons-motivos-para-dizer-ate-logo/)
 - [12 horas com Susan Sontag](https://gamarevista.uol.com.br/cultura/trecho-de-livro/12-horas-com-susan-sontag/)
 - [A aguardada nova temporada de “Ruptura”, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-aguardada-nova-temporada-de-ruptura-na-apple-tv/)
 - [Literatura e humor na newsletter “A Lábia”](https://gamarevista.uol.com.br/achamos-que-vale/ler/literatura-e-humor-na-newsletter-a-labia/)
-- [“Chico Bento e a Goiabeira Maraviósa”, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/chico-bento-e-a-goiabeira-maraviosa-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
