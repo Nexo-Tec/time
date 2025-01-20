@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A posse presidencial como um grande negócio nos EUA](https://www.nexojornal.com.br/expresso/2025/01/19/posse-donald-trump-eua)
+- [‘Vamos parar a invasão às nossas fronteiras’, diz Trump](https://www.nexojornal.com.br/extra/2025/01/19/trump-ultimo-discurso-antes-da-posse)
 - [Além do azeite: quais os benefícios das folhas de oliveira](https://www.nexojornal.com.br/externo/2025/01/19/folhas-de-oliveira-beneficios-saude)
 - [A representação e as metamorfoses da esfera pública](https://www.nexojornal.com.br/ensaio/2025/01/19/debates-televisivos-comunicacao-esfera-publica)
 - [Tik Tok volta ao ar nos EUA e agradece a Donald Trump](https://www.nexojornal.com.br/extra/2025/01/19/tik-tok-sai-do-ar-eua-suprema-corte)
-- [Qual impacto das câmeras digitais nas auroras boreais](https://www.nexojornal.com.br/expresso/2025/01/18/auroras-boreais-e-polares-fotos-celulares)
-- [O desafio de adaptação das empresas num mundo em movimento](https://www.nexojornal.com.br/ensaio/2025/01/18/mercado-de-consultoria-de-empresas-tendencias-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
