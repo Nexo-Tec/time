@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O design dos aparelhos que a Nokia nunca lançou](https://www.nexojornal.com.br/expresso/2025/01/20/o-design-dos-aparelhos-que-a-nokia-nunca-lancou)
+- [O que mudou na área esportiva da Globo desde Léo Batista](https://www.nexojornal.com.br/expresso/2025/01/20/leo-batista-jornalismo-esportivo-globo)
 - [Trump toma posse e anuncia emergência na fronteira dos EUA](https://www.nexojornal.com.br/extra/2025/01/20/trump-discurso-posse)
 - [Por que a deportação em massa pode ocorrer silenciosamente](https://www.nexojornal.com.br/externo/2025/01/20/deportacao-em-massa-trump-eua-texas)
 - [A posse presidencial como um grande negócio nos EUA](https://www.nexojornal.com.br/expresso/2025/01/19/posse-donald-trump-eua)
-- [‘Vamos parar a invasão às nossas fronteiras’, diz Trump](https://www.nexojornal.com.br/extra/2025/01/19/trump-ultimo-discurso-antes-da-posse)
-- [Além do azeite: quais os benefícios das folhas de oliveira](https://www.nexojornal.com.br/externo/2025/01/19/folhas-de-oliveira-beneficios-saude)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
