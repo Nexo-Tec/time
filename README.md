@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a volta de Trump aponta para um mundo mais fechado](https://www.nexojornal.com.br/expresso/2025/01/20/posse-trump-eua-isolacionismo-protecionismo)
+- [Como sindicatos enxergam os veículos elétricos no Brasil](https://www.nexojornal.com.br/externo/2025/01/20/veiculos-eletricos-sindicatos-brasil)
+- [Por que o desmonte do Estado pode ser pior no 2º governo Trump](https://www.nexojornal.com.br/ensaio/2025/01/20/trump-assume-segundo-governo-desmonte-do-estado)
 - [O design dos aparelhos que a Nokia nunca lançou](https://www.nexojornal.com.br/expresso/2025/01/20/o-design-dos-aparelhos-que-a-nokia-nunca-lancou)
 - [O que mudou na área esportiva da Globo desde Léo Batista](https://www.nexojornal.com.br/expresso/2025/01/20/leo-batista-jornalismo-esportivo-globo)
-- [Trump toma posse e anuncia emergência na fronteira dos EUA](https://www.nexojornal.com.br/extra/2025/01/20/trump-discurso-posse)
-- [Por que a deportação em massa pode ocorrer silenciosamente](https://www.nexojornal.com.br/externo/2025/01/20/deportacao-em-massa-trump-eua-texas)
-- [A posse presidencial como um grande negócio nos EUA](https://www.nexojornal.com.br/expresso/2025/01/19/posse-donald-trump-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
