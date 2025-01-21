@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A verdade &lpar;sobre o Pix&rpar; não nos libertará](https://www.nexojornal.com.br/colunistas/2025/01/21/pix-comunicacao-opiniao)
 - [Como a volta de Trump aponta para um mundo mais fechado](https://www.nexojornal.com.br/expresso/2025/01/20/posse-trump-eua-isolacionismo-protecionismo)
 - [Como sindicatos enxergam os veículos elétricos no Brasil](https://www.nexojornal.com.br/externo/2025/01/20/veiculos-eletricos-sindicatos-brasil)
 - [Por que o desmonte do Estado pode ser pior no 2º governo Trump](https://www.nexojornal.com.br/ensaio/2025/01/20/trump-assume-segundo-governo-desmonte-do-estado)
 - [O design dos aparelhos que a Nokia nunca lançou](https://www.nexojornal.com.br/expresso/2025/01/20/o-design-dos-aparelhos-que-a-nokia-nunca-lancou)
-- [O que mudou na área esportiva da Globo desde Léo Batista](https://www.nexojornal.com.br/expresso/2025/01/20/leo-batista-jornalismo-esportivo-globo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
