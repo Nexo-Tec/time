@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os livros, os sonetos e as séries compactados em cadeias de DNA](https://www.nexojornal.com.br/expresso/2025/01/21/os-livros-os-sonetos-e-as-series-compactados-em-cadeias-de-dna)
 - [Como o governo do Pará lida com os povos indígenas](https://www.nexojornal.com.br/expresso/2025/01/21/ocupacao-indigena-secretaria-educacao-governo-para)
 - [Após cessar-fogo em Gaza, Israel investe contra Cisjordânia](https://www.nexojornal.com.br/extra/2025/01/21/israel-ataca-cisjordania)
 - [A verdade &lpar;sobre o Pix&rpar; não nos libertará](https://www.nexojornal.com.br/colunistas/2025/01/21/pix-comunicacao-opiniao)
 - [Como a volta de Trump aponta para um mundo mais fechado](https://www.nexojornal.com.br/expresso/2025/01/20/posse-trump-eua-isolacionismo-protecionismo)
-- [Como sindicatos enxergam os veículos elétricos no Brasil](https://www.nexojornal.com.br/externo/2025/01/20/veiculos-eletricos-sindicatos-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
