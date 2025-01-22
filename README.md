@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os efeitos da saída dos EUA da Organização Mundial da Saúde](https://www.nexojornal.com.br/expresso/2025/01/21/impacto-eua-trump-oms-saude)
+- [‘Rei do Lixo’: por que o caso pode expor tanta gente em Brasília](https://www.nexojornal.com.br/expresso/2025/01/21/caso-rei-do-lixo-brasilia)
+- [Matrix e o projeto neocolonial do Vale do Silício](https://www.nexojornal.com.br/ensaio/2025/01/21/matrix-mark-zuckerberg-neocolonialismo)
+- [Trump será o presidente mais velho da história dos EUA](https://www.nexojornal.com.br/grafico/2025/01/21/trump-biden-idade-posse-presidente-eua)
 - [O caderno esquecido de Itamar Assumpção que rendeu um álbum](https://www.nexojornal.com.br/expresso/2025/01/21/itamar-assumpcao-album-guto-belluco)
-- [Os livros, os sonetos e as séries compactados em cadeias de DNA](https://www.nexojornal.com.br/expresso/2025/01/21/os-livros-os-sonetos-e-as-series-compactados-em-cadeias-de-dna)
-- [Como o governo do Pará lida com os povos indígenas](https://www.nexojornal.com.br/expresso/2025/01/21/ocupacao-indigena-secretaria-educacao-governo-para)
-- [Após cessar-fogo em Gaza, Israel investe contra Cisjordânia](https://www.nexojornal.com.br/extra/2025/01/21/israel-ataca-cisjordania)
-- [A verdade &lpar;sobre o Pix&rpar; não nos libertará](https://www.nexojornal.com.br/colunistas/2025/01/21/pix-comunicacao-opiniao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
