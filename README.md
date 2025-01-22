@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [A radicalidade negra perante a branquitude](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-radicalidade-negra-perante-a-branquitude/)
 - [O chapéu de Melania Trump](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/o-chapeu-de-melania-trump/)
 - [O buraco é mais embaixo](https://gamarevista.uol.com.br/colunistas/francisco-brito-cruz/o-buraco-e-mais-embaixo/)
 - [Panquecas para fazer com as crianças e comer com sorvete](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/panquecas-para-fazer-com-as-criancas-e-comer-com-sorvete/)
 - [Nath Finanças: empreender com planejamento](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nath-financas/)
-- [Bons motivos para dizer “até logo”](https://gamarevista.uol.com.br/colunistas/marcelo-knobel/bons-motivos-para-dizer-ate-logo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
