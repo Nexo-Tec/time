@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Empresa vendeu carne submersa em cheias gaúchas, diz polícia](https://www.nexojornal.com.br/extra/2025/01/22/carne-podre-de-enchente-no-rio-grande-do-sul)
 - [Quem está à frente dos ‘Projetos Manhattan’ do século 21](https://www.nexojornal.com.br/externo/2025/01/22/ciencia-de-risco-ia-projetos-manhattan)
 - [Os efeitos da saída dos EUA da Organização Mundial da Saúde](https://www.nexojornal.com.br/expresso/2025/01/21/impacto-eua-trump-oms-saude)
 - [‘Rei do Lixo’: por que o caso pode expor tanta gente em Brasília](https://www.nexojornal.com.br/expresso/2025/01/21/caso-rei-do-lixo-brasilia)
 - [Matrix e o projeto neocolonial do Vale do Silício](https://www.nexojornal.com.br/ensaio/2025/01/21/matrix-mark-zuckerberg-neocolonialismo)
-- [Trump será o presidente mais velho da história dos EUA](https://www.nexojornal.com.br/grafico/2025/01/21/trump-biden-idade-posse-presidente-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
