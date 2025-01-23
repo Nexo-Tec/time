@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Proposta nos EUA quer proibir homens de ejacular sem reproduzir](https://www.nexojornal.com.br/extra/2025/01/23/proposta-eua-proibir-homens-ejacular-reproduzir)
 - [‘Não há vagas’: como garantir creches para todas as crianças](https://www.nexojornal.com.br/externo/2025/01/23/creches-falta-de-vagas-infancia)
 - [Como este autor transformou resenhas da Amazon em livro](https://www.nexojornal.com.br/expresso/2025/01/23/como-este-autor-transformou-resenhas-da-amazon-em-livro)
 - [Por que atletas querem trocar as medalhas que receberam em Paris](https://www.nexojornal.com.br/expresso/2025/01/23/medalhas-olimpiadas-paris-troca-enferrujando)
 - [‘Ainda estou aqui’ no Oscar: os brasileiros que já concorreram](https://www.nexojornal.com.br/expresso/2025/01/23/ainda-estou-aqui-oscar-brasileiros)
-- [Os decretos iniciais como teste da força presidencial de Trump](https://www.nexojornal.com.br/expresso/2025/01/22/decreto-trump-reacao-contrapeso)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
