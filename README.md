@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que atletas querem trocar as medalhas que receberam em Paris](https://www.nexojornal.com.br/expresso/2025/01/23/medalhas-olimpiadas-paris-troca-enferrujando)
+- [‘Ainda estou aqui’ no Oscar: os brasileiros que já concorreram](https://www.nexojornal.com.br/expresso/2025/01/23/ainda-estou-aqui-oscar-brasileiros)
 - [Os decretos iniciais como teste da força presidencial de Trump](https://www.nexojornal.com.br/expresso/2025/01/22/decreto-trump-reacao-contrapeso)
 - [Quem é o presidente da COP30. E qual o seu papel nas negociações](https://www.nexojornal.com.br/expresso/2025/01/22/andre-correa-do-lago-presidente-cop30)
 - [Os problemas do governo vão muito além da comunicação](https://www.nexojornal.com.br/colunistas/2025/01/22/comunicacao-governo-lula-problemas-caso-pix)
-- [O projeto que transcreve milhares de cartas escritas à mão](https://www.nexojornal.com.br/expresso/2025/01/22/projeto-cartas-escritas-a-mao-citizen-archivists)
-- [Especialistas analisam riscos e vantagens de usar inteligência artificial para medir o desempenho de pesquisadores](https://www.nexojornal.com.br/externo/2025/01/22/inteligencia-artificial-avaliar-bolsa-de-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
