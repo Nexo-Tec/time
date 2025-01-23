@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [A radicalidade negra perante a branquitude](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/a-radicalidade-negra-perante-a-branquitude/)
-- [O chapéu de Melania Trump](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/o-chapeu-de-melania-trump/)
-- [O buraco é mais embaixo](https://gamarevista.uol.com.br/colunistas/francisco-brito-cruz/o-buraco-e-mais-embaixo/)
-- [Panquecas para fazer com as crianças e comer com sorvete](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/panquecas-para-fazer-com-as-criancas-e-comer-com-sorvete/)
-- [Nath Finanças: empreender com planejamento](https://gamarevista.uol.com.br/podcast/podcast-da-semana/nath-financas/)
+- [“Anora” e “Conclave”, indicados ao Oscar de melhor filme](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anora-e-conclave-indicados-ao-oscar-de-melhor-filme/)
+- [“O Crematório Frio: Um relato de Auschwitz”, de József Debreczeni](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-crematorio-frio-um-relato-de-auschwitz-de-jozsef-debreczeni/)
+- [A travessia do Panamá com destino aos EUA no “Fantástico”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-travessia-do-panama-com-destino-aos-eua-no-fantastico/)
+- [Ligue para 0800-01-76362 e ouça um poema](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/ligue-para-0800-01-76362-e-ouca-um-poema/)
+- [Coleção audiovisual sobre HQs, no Itaú Cultural Play](https://gamarevista.uol.com.br/achamos-que-vale/assistir/colecao-audiovisual-sobre-hqs-no-itau-cultural-play/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
