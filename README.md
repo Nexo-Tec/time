@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os decretos iniciais como teste da força presidencial de Trump](https://www.nexojornal.com.br/expresso/2025/01/22/decreto-trump-reacao-contrapeso)
+- [Quem é o presidente da COP30. E qual o seu papel nas negociações](https://www.nexojornal.com.br/expresso/2025/01/22/andre-correa-do-lago-presidente-cop30)
+- [Os problemas do governo vão muito além da comunicação](https://www.nexojornal.com.br/colunistas/2025/01/22/comunicacao-governo-lula-problemas-caso-pix)
 - [O projeto que transcreve milhares de cartas escritas à mão](https://www.nexojornal.com.br/expresso/2025/01/22/projeto-cartas-escritas-a-mao-citizen-archivists)
 - [Especialistas analisam riscos e vantagens de usar inteligência artificial para medir o desempenho de pesquisadores](https://www.nexojornal.com.br/externo/2025/01/22/inteligencia-artificial-avaliar-bolsa-de-pesquisa)
-- [O dilema da regulação das redes sociais no Brasil e no mundo](https://www.nexojornal.com.br/podcast/2025/01/22/redes-sociais-no-brasil-regulacao)
-- [Empresa vendeu carne submersa em cheias gaúchas, diz polícia](https://www.nexojornal.com.br/extra/2025/01/22/carne-podre-de-enchente-no-rio-grande-do-sul)
-- [Quem está à frente dos ‘Projetos Manhattan’ do século 21](https://www.nexojornal.com.br/externo/2025/01/22/ciencia-de-risco-ia-projetos-manhattan)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
