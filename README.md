@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Cesar Lattes: Uma vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cesar-lattes-uma-vida/)
 - [“Anora” e “Conclave”, indicados ao Oscar de melhor filme](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anora-e-conclave-indicados-ao-oscar-de-melhor-filme/)
 - [“O Crematório Frio: Um relato de Auschwitz”, de József Debreczeni](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-crematorio-frio-um-relato-de-auschwitz-de-jozsef-debreczeni/)
 - [A travessia do Panamá com destino aos EUA no “Fantástico”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-travessia-do-panama-com-destino-aos-eua-no-fantastico/)
 - [Ligue para 0800-01-76362 e ouça um poema](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/ligue-para-0800-01-76362-e-ouca-um-poema/)
-- [Coleção audiovisual sobre HQs, no Itaú Cultural Play](https://gamarevista.uol.com.br/achamos-que-vale/assistir/colecao-audiovisual-sobre-hqs-no-itau-cultural-play/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
