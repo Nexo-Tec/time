@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Proposta nos EUA quer proibir homens de ejacular sem reproduzir](https://www.nexojornal.com.br/extra/2025/01/23/proposta-eua-proibir-homens-ejacular-reproduzir)
-- [‘Não há vagas’: como garantir creches para todas as crianças](https://www.nexojornal.com.br/externo/2025/01/23/creches-falta-de-vagas-infancia)
-- [Como este autor transformou resenhas da Amazon em livro](https://www.nexojornal.com.br/expresso/2025/01/23/como-este-autor-transformou-resenhas-da-amazon-em-livro)
-- [Por que atletas querem trocar as medalhas que receberam em Paris](https://www.nexojornal.com.br/expresso/2025/01/23/medalhas-olimpiadas-paris-troca-enferrujando)
-- [‘Ainda estou aqui’ no Oscar: os brasileiros que já concorreram](https://www.nexojornal.com.br/expresso/2025/01/23/ainda-estou-aqui-oscar-brasileiros)
+- [Como a anistia aos invasores do Capitólio pode ressoar no Brasil](https://www.nexojornal.com.br/expresso/2025/01/23/anistia-invasores-capitolio-eua-brasil)
+- [Por que a Cisjordânia virou o foco da guerra de Israel](https://www.nexojornal.com.br/expresso/2025/01/23/cisjordania-foco-israel-palestina)
+- [As práticas policiais na guerra às drogas no Rio de Janeiro](https://www.nexojornal.com.br/academico/2025/01/23/guerra-as-drogas-policia-rio-de-janeiro-pesquisa)
+- [Oscar: os prêmios que as rivais de Fernanda Torres já ganharam](https://www.nexojornal.com.br/grafico/2025/01/23/atrizes-indicadas-oscar-fernanda-torres)
+- [Vanessa Barbara, o ex, os parça e os queridos babacas](https://www.nexojornal.com.br/colunistas/2025/01/23/vanessa-barbara-fpc-misoginia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
