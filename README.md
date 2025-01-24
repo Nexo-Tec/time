@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [EUA prendem mais de 500 imigrantes e deportam centenas](https://www.nexojornal.com.br/extra/2025/01/24/trump-estados-unidos-deportacao-e-prisao-de-imigrantes)
 - [O novo boicote de Trump ao Acordo de Paris enterra o tratado?](https://www.nexojornal.com.br/expresso/2025/01/24/saida-donald-trump-estados-unidos-acordo-de-paris)
 - [‘Nihonjin’: uma história da imigração japonesa no Brasil](https://www.nexojornal.com.br/estante-trechos/2025/01/24/nihonjin-oscar-nakasato-imigracao-japonesa-trecho)
 - [Brumadinho: 6 anos depois, responsáveis seguem impunes](https://www.nexojornal.com.br/externo/2025/01/24/brumadinho-6-anos-depois-responsaveis-seguem-impunes)
 - [Como a anistia aos invasores do Capitólio pode ressoar no Brasil](https://www.nexojornal.com.br/expresso/2025/01/23/anistia-invasores-capitolio-eua-brasil)
-- [Por que a Cisjordânia virou o foco da guerra de Israel](https://www.nexojornal.com.br/expresso/2025/01/23/cisjordania-foco-israel-palestina)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
