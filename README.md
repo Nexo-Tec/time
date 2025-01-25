@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para investigar a nossa capacidade de escuta](https://www.nexojornal.com.br/estante-favoritos/2025/01/24/livros-indicacao-escuta-marcela-lordy)
 - [Ligue e receba um poema: o Dial-A-Poem chega ao Brasil](https://www.nexojornal.com.br/expresso/2025/01/24/ligue-e-receba-um-poema-o-dial-a-poem-chega-ao-brasil)
 - [Por que católicos criticam ‘Conclave’, favorito ao Oscar](https://www.nexojornal.com.br/expresso/2025/01/24/conclave-filme-papa-oscar-catolicos)
 - [‘O grande desafio dos homens é romper com a cumplicidade’](https://www.nexojornal.com.br/entrevista/2025/01/24/entrevista-valeska-zanello-unb-casa-dos-homens-vanessa-barbara-radio-novelo)
 - [O número de imigrantes não autorizados nos Estados Unidos](https://www.nexojornal.com.br/grafico/2025/01/24/numero-imigrantes-eua-trump)
-- [EUA prendem mais de 500 imigrantes e deportam centenas](https://www.nexojornal.com.br/extra/2025/01/24/trump-estados-unidos-deportacao-e-prisao-de-imigrantes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
