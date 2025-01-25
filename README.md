@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ligue e receba um poema: o Dial-A-Poem chega ao Brasil](https://www.nexojornal.com.br/expresso/2025/01/24/ligue-e-receba-um-poema-o-dial-a-poem-chega-ao-brasil)
+- [Por que católicos criticam ‘Conclave’, favorito ao Oscar](https://www.nexojornal.com.br/expresso/2025/01/24/conclave-filme-papa-oscar-catolicos)
+- [‘O grande desafio dos homens é romper com a cumplicidade’](https://www.nexojornal.com.br/entrevista/2025/01/24/entrevista-valeska-zanello-unb-casa-dos-homens-vanessa-barbara-radio-novelo)
+- [O número de imigrantes não autorizados nos Estados Unidos](https://www.nexojornal.com.br/grafico/2025/01/24/numero-imigrantes-eua-trump)
 - [EUA prendem mais de 500 imigrantes e deportam centenas](https://www.nexojornal.com.br/extra/2025/01/24/trump-estados-unidos-deportacao-e-prisao-de-imigrantes)
-- [O novo boicote de Trump ao Acordo de Paris enterra o tratado?](https://www.nexojornal.com.br/expresso/2025/01/24/saida-donald-trump-estados-unidos-acordo-de-paris)
-- [‘Nihonjin’: uma história da imigração japonesa no Brasil](https://www.nexojornal.com.br/estante-trechos/2025/01/24/nihonjin-oscar-nakasato-imigracao-japonesa-trecho)
-- [Brumadinho: 6 anos depois, responsáveis seguem impunes](https://www.nexojornal.com.br/externo/2025/01/24/brumadinho-6-anos-depois-responsaveis-seguem-impunes)
-- [Como a anistia aos invasores do Capitólio pode ressoar no Brasil](https://www.nexojornal.com.br/expresso/2025/01/23/anistia-invasores-capitolio-eua-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
