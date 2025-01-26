@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O organograma da tortura na maior penitenciária de MG](https://www.nexojornal.com.br/externo/2025/01/26/penitenciaria-tortura-minas-gerais)
+- [Como se prevenir de lesões ao praticar corrida de rua](https://www.nexojornal.com.br/expresso/2025/01/26/corrida-de-rua-prevencao-lesoes)
 - [Aqui na Ucrânia, a gente não gosta de fevereiros](https://www.nexojornal.com.br/ensaio/2025/01/26/guerra-na-ucrania-viagem-crise-humanitaria-opiniao)
 - [Como a Colômbia lida com o retorno dos conflitos de guerrilha](https://www.nexojornal.com.br/expresso/2025/01/26/colombia-conflito-guerrilha-eln-comocao-interna)
 - [Os chimpanzés que urinam juntos para fazer amigos](https://www.nexojornal.com.br/externo/2025/01/25/chimpanzes-urinam-juntos-amizade-pesquisa)
-- [Renegociação de dívidas: a rixa entre Lula e governadores](https://www.nexojornal.com.br/expresso/2025/01/25/briga-lula-romeu-zema-dividas)
-- [5 livros para investigar a nossa capacidade de escuta](https://www.nexojornal.com.br/estante-favoritos/2025/01/24/livros-indicacao-escuta-marcela-lordy)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
