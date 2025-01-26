@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Aqui na Ucrânia, a gente não gosta de fevereiros](https://www.nexojornal.com.br/ensaio/2025/01/26/guerra-na-ucrania-viagem-crise-humanitaria-opiniao)
+- [Como a Colômbia lida com o retorno dos conflitos de guerrilha](https://www.nexojornal.com.br/expresso/2025/01/26/colombia-conflito-guerrilha-eln-comocao-interna)
 - [Os chimpanzés que urinam juntos para fazer amigos](https://www.nexojornal.com.br/externo/2025/01/25/chimpanzes-urinam-juntos-amizade-pesquisa)
 - [Renegociação de dívidas: a rixa entre Lula e governadores](https://www.nexojornal.com.br/expresso/2025/01/25/briga-lula-romeu-zema-dividas)
 - [5 livros para investigar a nossa capacidade de escuta](https://www.nexojornal.com.br/estante-favoritos/2025/01/24/livros-indicacao-escuta-marcela-lordy)
-- [Ligue e receba um poema: o Dial-A-Poem chega ao Brasil](https://www.nexojornal.com.br/expresso/2025/01/24/ligue-e-receba-um-poema-o-dial-a-poem-chega-ao-brasil)
-- [Por que católicos criticam ‘Conclave’, favorito ao Oscar](https://www.nexojornal.com.br/expresso/2025/01/24/conclave-filme-papa-oscar-catolicos)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
