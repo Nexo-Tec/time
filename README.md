@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o caroço do açaí é um remédio natural poderoso](https://www.nexojornal.com.br/externo/2025/01/27/acai-remedio-natural-caroco-pesquisa)
+- [‘IA na arte possibilita mudar o imaginário colonialista’](https://www.nexojornal.com.br/entrevista/2025/01/27/ia-na-arte-possibilita-mudar-o-imaginario-colonialista)
 - [Relógio biológico de cianobactérias, que vivem um dia, prevê chegada do inverno](https://www.nexojornal.com.br/externo/2025/01/27/relogio-biologico-de-cianobacterias-que-vivem-um-dia-preve-chegada-do-inverno)
 - [Por que os vídeos no Tiny Desk viraram um fenômeno pop](https://www.nexojornal.com.br/expresso/2025/01/27/tiny-desk-videos-musicos-npr)
 - [Transição: uma agenda que também é das prefeituras](https://www.nexojornal.com.br/ensaio/2025/01/26/prefeitura-transicao-energetica-agenda-opiniao)
-- [Como a degradação florestal cresce mesmo sem desmate](https://www.nexojornal.com.br/expresso/2025/01/26/degradacao-desmatamento-amazonia)
-- [As reações de Colômbia e Brasil ao modo Trump de deportar](https://www.nexojornal.com.br/expresso/2025/01/26/tarifas-colombia-eua-deportacao-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
