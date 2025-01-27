@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Transição: uma agenda que também é das prefeituras](https://www.nexojornal.com.br/ensaio/2025/01/26/prefeitura-transicao-energetica-agenda-opiniao)
+- [Como a degradação florestal cresce mesmo sem desmate](https://www.nexojornal.com.br/expresso/2025/01/26/degradacao-desmatamento-amazonia)
+- [As reações de Colômbia e Brasil ao modo Trump de deportar](https://www.nexojornal.com.br/expresso/2025/01/26/tarifas-colombia-eua-deportacao-brasil)
 - [O organograma da tortura na maior penitenciária de MG](https://www.nexojornal.com.br/externo/2025/01/26/penitenciaria-tortura-minas-gerais)
 - [Como se prevenir de lesões ao praticar corrida de rua](https://www.nexojornal.com.br/expresso/2025/01/26/corrida-de-rua-prevencao-lesoes)
-- [Aqui na Ucrânia, a gente não gosta de fevereiros](https://www.nexojornal.com.br/ensaio/2025/01/26/guerra-na-ucrania-viagem-crise-humanitaria-opiniao)
-- [Como a Colômbia lida com o retorno dos conflitos de guerrilha](https://www.nexojornal.com.br/expresso/2025/01/26/colombia-conflito-guerrilha-eln-comocao-interna)
-- [Os chimpanzés que urinam juntos para fazer amigos](https://www.nexojornal.com.br/externo/2025/01/25/chimpanzes-urinam-juntos-amizade-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
