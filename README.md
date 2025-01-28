@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A busca para conservar espécie brasileira de raposa](https://www.nexojornal.com.br/externo/2025/01/28/raposinha-conservacao-especie-brasileira-cerrado)
+- [Neymar cumpriu o que se esperava dele quando saiu do Brasil?](https://www.nexojornal.com.br/expresso/2025/01/28/neymar-santos-carreira)
 - [Quais as críticas à mudança proposta para mamografias](https://www.nexojornal.com.br/expresso/2025/01/28/mamografia-cancer-de-mama-consulta-publica-ans)
 - [A vida e a obra de Marina Colasanti, segundo ela mesma](https://www.nexojornal.com.br/expresso/2025/01/28/marina-colasanti-vida-e-obra)
 - [Como substituir os ultraprocessados da dieta das crianças](https://www.nexojornal.com.br/externo/2025/01/28/como-substituir-os-ultraprocessados-da-dieta-das-criancas)
-- [Como brasileiros trans nos EUA reagem à era Trump](https://www.nexojornal.com.br/externo/2025/01/27/brasileiros-trans-eua-era-trump-agencia-publica)
-- [Por que a desigualdade racial atrasa a pesquisa em economia](https://www.nexojornal.com.br/expresso/2025/01/27/por-que-a-desigualdade-racial-atrasa-a-pesquisa-em-economia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
