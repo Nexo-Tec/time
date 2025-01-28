@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A vida e a obra de Marina Colasanti, segundo ela mesma](https://www.nexojornal.com.br/expresso/2025/01/28/marina-colasanti-vida-e-obra)
 - [Como substituir os ultraprocessados da dieta das crianças](https://www.nexojornal.com.br/externo/2025/01/28/como-substituir-os-ultraprocessados-da-dieta-das-criancas)
 - [Como brasileiros trans nos EUA reagem à era Trump](https://www.nexojornal.com.br/externo/2025/01/27/brasileiros-trans-eua-era-trump-agencia-publica)
 - [Por que a desigualdade racial atrasa a pesquisa em economia](https://www.nexojornal.com.br/expresso/2025/01/27/por-que-a-desigualdade-racial-atrasa-a-pesquisa-em-economia)
 - [O que diz a lei brasileira sobre tratamento dos EUA a deportados](https://www.nexojornal.com.br/expresso/2025/01/27/lei-brasileira-deportacao-tratamento-eua)
-- [A descoberta de que Musk está trapaceando em videogames](https://www.nexojornal.com.br/expresso/2025/01/27/elon-musk-trapaca-diablo-path-of-exile)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
