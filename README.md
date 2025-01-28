@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@karsiagascon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/karsiagascon/)
 - [Sidnei Nogueira: intolerância religiosa](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sidnei-nogueira/)
 - [@amarofreitaspiano](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amarofreitaspiano/)
 - [Cesar Lattes: Uma vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cesar-lattes-uma-vida/)
 - [“Anora” e “Conclave”, indicados ao Oscar de melhor filme](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anora-e-conclave-indicados-ao-oscar-de-melhor-filme/)
-- [“O Crematório Frio: Um relato de Auschwitz”, de József Debreczeni](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-crematorio-frio-um-relato-de-auschwitz-de-jozsef-debreczeni/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
