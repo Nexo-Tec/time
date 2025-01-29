@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Camila Sosa Villada: “A literatura tem a ver com a beleza, assim como ser travesti”](https://gamarevista.uol.com.br/formato/conversas/camila-sosa-villada-a-literatura-tem-a-ver-com-a-beleza-assim-como-ser-travesti/)
 - [@karsiagascon](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/karsiagascon/)
 - [Sidnei Nogueira: intolerância religiosa](https://gamarevista.uol.com.br/podcast/podcast-da-semana/sidnei-nogueira/)
 - [@amarofreitaspiano](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/amarofreitaspiano/)
 - [Cesar Lattes: Uma vida](https://gamarevista.uol.com.br/cultura/trecho-de-livro/cesar-lattes-uma-vida/)
-- [“Anora” e “Conclave”, indicados ao Oscar de melhor filme](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anora-e-conclave-indicados-ao-oscar-de-melhor-filme/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
