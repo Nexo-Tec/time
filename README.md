@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Superquarta: Brasil volta a elevar juros e EUA mantêm taxa](https://www.nexojornal.com.br/expresso/2025/01/29/superquarta-selic-taxa-de-juros-brasil-eua)
 - [A responsabilidade da COP30 num planeta em ebulição](https://www.nexojornal.com.br/podcast/2025/01/29/cop30-belem-para-brasil-paulo-artaxo)
 - [O poder de barganha dos influenciadores diante das marcas](https://www.nexojornal.com.br/expresso/2025/01/29/influenciadores-marcas-estudo-reglab-planilha)
 - [Como grupos lucram com movimento antivacina](https://www.nexojornal.com.br/externo/2025/01/29/antivacina-mercado-lucrativo-pesquisa)
 - [Por que São Paulo tem tantas estações de metrô sob rios](https://www.nexojornal.com.br/expresso/2025/01/28/jardim-sao-paulo-chuva-metro-embaixo-rios)
-- [Como a DeepSeek reposiciona a corrida geopolítica pela IA](https://www.nexojornal.com.br/expresso/2025/01/28/deepseek-inteligencia-artificial-china-geopolitica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
