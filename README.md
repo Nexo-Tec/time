@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Longevidade no Brasil: desafios e oportunidades para uma sociedade que vive mais](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/longevidade-no-brasil-desafios-e-oportunidades-para-uma-sociedade-que-vive-mais/)
+- [Passado perfeito composto](https://pp.nexojornal.com.br/opiniao/2025/01/29/passado-perfeito-composto/)
 - [Caminhos para ampliar acesso à reprodução assistida no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/caminhos-para-ampliar-acesso-a-reproducao-assistida-no-brasil/)
 - [A invisibilidade do envelhecimento LGBT+](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/01/a-invisibilidade-do-envelhecimento-lgbt/)
 - [Luciana Alves: políticas públicas e a equidade racial a partir da educação](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2024/12/27/luciana-alves-politicas-publicas-e-a-equidade-racial-a-partir-da-educacao/)
-- [Percepções sobre a intervenção em crises de saúde mental de crianças e adolescentes](https://pp.nexojornal.com.br/academico/2024/12/27/academico-saude-mental-infantil-titulo/)
-- [Do que precisamos para conter um populista autoritário?](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario/)
 <!-- PP_LIST:END -->
 
