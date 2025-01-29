@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que São Paulo tem tantas estações de metrô sob rios](https://www.nexojornal.com.br/expresso/2025/01/28/jardim-sao-paulo-chuva-metro-embaixo-rios)
+- [Como a DeepSeek reposiciona a corrida geopolítica pela IA](https://www.nexojornal.com.br/expresso/2025/01/28/deepseek-inteligencia-artificial-china-geopolitica)
+- [Por que os latinos não confrontam Trump juntos](https://www.nexojornal.com.br/colunistas/2025/01/28/trump-petro-crise-colombia-e-deportados)
 - [Pesquisadores resgatam filmes perdidos sobre a ditadura militar no Brasil](https://www.nexojornal.com.br/externo/2025/01/28/filmes-perdidos-ditadura-militar-brasil-pesquisa)
 - [A busca para conservar espécie brasileira de raposa](https://www.nexojornal.com.br/externo/2025/01/28/raposinha-conservacao-especie-brasileira-cerrado)
-- [Neymar cumpriu o que se esperava dele quando saiu do Brasil?](https://www.nexojornal.com.br/expresso/2025/01/28/neymar-santos-carreira)
-- [Quais as críticas à mudança proposta para mamografias](https://www.nexojornal.com.br/expresso/2025/01/28/mamografia-cancer-de-mama-consulta-publica-ans)
-- [A vida e a obra de Marina Colasanti, segundo ela mesma](https://www.nexojornal.com.br/expresso/2025/01/28/marina-colasanti-vida-e-obra)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
