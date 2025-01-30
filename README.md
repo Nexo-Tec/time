@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A desinformação sobre os planos oficiais para baratear a comida](https://www.nexojornal.com.br/expresso/2025/01/30/best-before-data-validade-alimentos)
 - [Quanto custa defender a Terra de asteroides](https://www.nexojornal.com.br/externo/2025/01/30/ameacas-asteroides-defesa-planetaria)
 - [O papel de Ruanda no caos na República Democrática do Congo](https://www.nexojornal.com.br/expresso/2025/01/30/papel-ruanda-crise-republica-democratica-congo)
 - [A opinião pública sobre o governo Lula ‘descristalizou’?](https://www.nexojornal.com.br/expresso/2025/01/29/aprovacao-governo-lula-2025-pesquisa-quaest)
 - [Ditadura militar e educação: a trajetória de Maria Laura Lopes](https://www.nexojornal.com.br/academico/2025/01/29/maria-laura-lopes-ditadura-militar-matematica-educacao-pesquisa)
-- [A queda drástica na população de onças-pintadas](https://www.nexojornal.com.br/externo/2025/01/29/oncas-pintadas-desaparecimento-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
