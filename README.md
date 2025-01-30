@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O papel de Ruanda no caos na República Democrática do Congo](https://www.nexojornal.com.br/expresso/2025/01/30/papel-ruanda-crise-republica-democratica-congo)
 - [A opinião pública sobre o governo Lula ‘descristalizou’?](https://www.nexojornal.com.br/expresso/2025/01/29/aprovacao-governo-lula-2025-pesquisa-quaest)
 - [Ditadura militar e educação: a trajetória de Maria Laura Lopes](https://www.nexojornal.com.br/academico/2025/01/29/maria-laura-lopes-ditadura-militar-matematica-educacao-pesquisa)
 - [A queda drástica na população de onças-pintadas](https://www.nexojornal.com.br/externo/2025/01/29/oncas-pintadas-desaparecimento-pesquisa)
 - [Superquarta: Brasil volta a elevar juros e EUA mantêm taxa](https://www.nexojornal.com.br/expresso/2025/01/29/superquarta-selic-taxa-de-juros-brasil-eua)
-- [A responsabilidade da COP30 num planeta em ebulição](https://www.nexojornal.com.br/podcast/2025/01/29/cop30-belem-para-brasil-paulo-artaxo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
