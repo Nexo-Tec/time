@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Indigenizando a ciência da conservação para uma Amazônia sustentável](https://pp.nexojornal.com.br/academico/2025/01/31/indigenizando-a-ciencia-da-conservacao-para-uma-amazonia-sustentavel/)
+- [Consumo de ultraprocessados e o maior risco para desenvolvimento de sintomas depressivos](https://pp.nexojornal.com.br/academico/2025/01/31/consumo-de-ultraprocessados-e-o-maior-risco-para-o-desenvolvimento-de-sintomas-depressivos/)
 - [Trump e a política do fim do mundo](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/31/trump-e-a-politica-do-fim-do-mundo/)
 - [O que já sabemos sobre a qualidade do gasto com emendas parlamentares?](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/o-que-ja-sabemos-sobre-a-qualidade-do-gasto-com-emendas-parlamentares/)
 - [Longevidade no Brasil: desafios e oportunidades para uma sociedade que vive mais](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/longevidade-no-brasil-desafios-e-oportunidades-para-uma-sociedade-que-vive-mais/)
-- [Passado perfeito composto](https://pp.nexojornal.com.br/opiniao/2025/01/29/passado-perfeito-composto/)
-- [Caminhos para ampliar acesso à reprodução assistida no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/caminhos-para-ampliar-acesso-a-reproducao-assistida-no-brasil/)
 <!-- PP_LIST:END -->
 
