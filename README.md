@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Trump e a política do fim do mundo](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/31/trump-e-a-politica-do-fim-do-mundo/)
 - [O que já sabemos sobre a qualidade do gasto com emendas parlamentares?](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/o-que-ja-sabemos-sobre-a-qualidade-do-gasto-com-emendas-parlamentares/)
 - [Longevidade no Brasil: desafios e oportunidades para uma sociedade que vive mais](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/longevidade-no-brasil-desafios-e-oportunidades-para-uma-sociedade-que-vive-mais/)
 - [Passado perfeito composto](https://pp.nexojornal.com.br/opiniao/2025/01/29/passado-perfeito-composto/)
 - [Caminhos para ampliar acesso à reprodução assistida no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/29/caminhos-para-ampliar-acesso-a-reproducao-assistida-no-brasil/)
-- [A invisibilidade do envelhecimento LGBT+](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/01/a-invisibilidade-do-envelhecimento-lgbt/)
 <!-- PP_LIST:END -->
 
