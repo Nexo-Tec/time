@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As câmeras acopladas em pinguins para investigar seus hábitos](https://www.nexojornal.com.br/expresso/2025/01/31/cameras-pinguins-habitos-alimentares-estudo)
+- [Mais estranho que a ficção: a venda de íris por criptomoedas](https://www.nexojornal.com.br/expresso/2025/01/31/venda-iris-criptomoedas-o-que-e)
+- [Seca e incêndios reduzem biodiversidade das matas](https://www.nexojornal.com.br/externo/2025/01/31/seca-e-incendios-reduzem-biodiversidade-das-matas)
 - [Salário digno, segurança alimentar e o preço dos alimentos](https://www.nexojornal.com.br/ensaio/2025/01/30/alimentos-preco-seguranca-salario-opiniao)
 - [O que mostram os dados de feminicídios na Argentina](https://www.nexojornal.com.br/expresso/2025/01/30/dados-feminicidio-argentina)
-- [Como é a relação comercial entre Brasil e Estados Unidos](https://www.nexojornal.com.br/grafico/2025/01/30/relacao-comercial-brasil-eua-exportacoes)
-- [A artista italiana que foi descoberta pelo mundo aos 88 anos](https://www.nexojornal.com.br/expresso/2025/01/30/a-artista-italiana-que-foi-descoberta-pelo-mundo-aos-88-anos)
-- [Quem é o streamer que virou prefeito de Lima por uma hora](https://www.nexojornal.com.br/expresso/2025/01/30/streamer-speed-prefeito-lima)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
