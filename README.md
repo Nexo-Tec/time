@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Hora de Alimentar Serpentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/hora-de-alimentar-serpentes/)
 - [“A Verdadeira Dor”, com Kieran Culkin indicado ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-verdadeira-dor-com-kieran-culkin-indicado-ao-oscar/)
 - [“Diamantes, Lágrimas e Rostos para Esquecer”, de BK’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/diamantes-lagrimas-e-rostos-para-esquecer-de-bk/)
 - [O segundo volume da Coleção César Aira, pela Fósforo](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-segundo-volume-da-colecao-cesar-aira-pela-fosforo/)
 - [Um suflê para Eunice Paiva, no Panelinha](https://gamarevista.uol.com.br/achamos-que-vale/fazer/um-sufle-para-eunice-paiva-no-panelinha/)
-- [Os 20 anos do álbum “LCD Soundsystem”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/os-20-anos-do-album-lcd-soundsystem/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
