@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros importantes para pensar a pós-modernidade](https://www.nexojornal.com.br/estante-favoritos/2025/01/31/livro-pos-modernidade-j-c-marcal-indicacao)
 - [Por que este deve ser o último álbum assinado por The Weeknd](https://www.nexojornal.com.br/expresso/2025/01/31/the-weeknd-abel-tesfaye-hurry-up-tomorrow)
 - [‘A mulher habitada’: o despertar para uma luta social](https://www.nexojornal.com.br/estante-trechos/2025/01/31/gioconda-belli-nicaragua-a-mulher-habitada-trecho)
 - [As denúncias de assédio em órgão do Ministério da Justiça](https://www.nexojornal.com.br/externo/2025/01/31/assedio-denunicia-dicap-ministerio-da-justica)
 - [A menor taxa média de desemprego já registrada pelo IBGE](https://www.nexojornal.com.br/expresso/2025/01/31/taxa-de-desemprego-de-2024)
-- [As câmeras acopladas em pinguins para investigar seus hábitos](https://www.nexojornal.com.br/expresso/2025/01/31/cameras-pinguins-habitos-alimentares-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
