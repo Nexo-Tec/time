@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A ‘limpeza’ proposta por Trump como fim trágico para Gaza](https://www.nexojornal.com.br/expresso/2025/02/01/proposta-trump-limpeza-faixa-de-gaza)
+- [As críticas sociais sob o ponto de vista da elite no cinema](https://www.nexojornal.com.br/externo/2025/02/01/ainda-estou-aqui-elite-critica-social-cinema-pesquisa)
+- [Como o poder interno no Congresso se desequilibrou](https://www.nexojornal.com.br/expresso/2025/02/01/como-o-poder-interno-no-congresso-se-desequilibrou)
 - [5 livros importantes para pensar a pós-modernidade](https://www.nexojornal.com.br/estante-favoritos/2025/01/31/livro-pos-modernidade-j-c-marcal-indicacao)
 - [Por que este deve ser o último álbum assinado por The Weeknd](https://www.nexojornal.com.br/expresso/2025/01/31/the-weeknd-abel-tesfaye-hurry-up-tomorrow)
-- [‘A mulher habitada’: o despertar para uma luta social](https://www.nexojornal.com.br/estante-trechos/2025/01/31/gioconda-belli-nicaragua-a-mulher-habitada-trecho)
-- [As denúncias de assédio em órgão do Ministério da Justiça](https://www.nexojornal.com.br/externo/2025/01/31/assedio-denunicia-dicap-ministerio-da-justica)
-- [A menor taxa média de desemprego já registrada pelo IBGE](https://www.nexojornal.com.br/expresso/2025/01/31/taxa-de-desemprego-de-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
