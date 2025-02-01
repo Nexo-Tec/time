@@ -116,7 +116,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- NEXO_LIST:START -->
 - [Hugo Motta: de pupilo de Cunha a presidente da Câmara](https://www.nexojornal.com.br/expresso/2025/02/01/hugo-motta-quem-e-o-presidente-da-camara)
-- [Os paralelos entre Alcolumbre e lideranças históricas do Senado](https://www.nexojornal.com.br/expresso/2025/02/01/davi-alcolumbre-presidente-senado-2025)
+- [Senado: os paralelos entre Alcolumbre e lideranças históricas](https://www.nexojornal.com.br/expresso/2025/02/01/davi-alcolumbre-presidente-senado-2025)
 - [A ‘limpeza’ proposta por Trump como fim trágico para Gaza](https://www.nexojornal.com.br/expresso/2025/02/01/proposta-trump-limpeza-faixa-de-gaza)
 - [As críticas sociais sob o ponto de vista da elite no cinema](https://www.nexojornal.com.br/externo/2025/02/01/ainda-estou-aqui-elite-critica-social-cinema-pesquisa)
 - [Como o poder interno no Congresso se desequilibrou](https://www.nexojornal.com.br/expresso/2025/02/01/como-o-poder-interno-no-congresso-se-desequilibrou)
