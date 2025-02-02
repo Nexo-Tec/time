@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Hugo Motta: de pupilo de Cunha a presidente da Câmara](https://www.nexojornal.com.br/expresso/2025/02/01/hugo-motta-quem-e-o-presidente-da-camara)
-- [Senado: os paralelos entre Alcolumbre e lideranças históricas](https://www.nexojornal.com.br/expresso/2025/02/01/davi-alcolumbre-presidente-senado-2025)
-- [A ‘limpeza’ proposta por Trump como fim trágico para Gaza](https://www.nexojornal.com.br/expresso/2025/02/01/proposta-trump-limpeza-faixa-de-gaza)
-- [As críticas sociais sob o ponto de vista da elite no cinema](https://www.nexojornal.com.br/externo/2025/02/01/ainda-estou-aqui-elite-critica-social-cinema-pesquisa)
-- [Como o poder interno no Congresso se desequilibrou](https://www.nexojornal.com.br/expresso/2025/02/01/como-o-poder-interno-no-congresso-se-desequilibrou)
+- [Qual o poder dos vínculos sonoros criados na infância](https://www.nexojornal.com.br/externo/2025/02/01/infancia-vinculo-sonoro-memoria-afetiva)
+- [Quais os entraves no descarte dos cigarros eletrônicos](https://www.nexojornal.com.br/externo/2025/02/01/cigarro-eletronico-descarte-problemas)
+- [Como um gasto puxa outro depois que se legaliza as bets](https://www.nexojornal.com.br/expresso/2025/02/01/como-um-gasto-puxa-outro-depois-que-se-legaliza-as-bets)
+- [O labirinto emocional da mobilidade social e econômica](https://www.nexojornal.com.br/ensaio/2025/02/01/ascensao-social-medo-de-perder-tudo-psicologia-opiniao)
+- [O histórico da AfD até sua naturalização na política alemã](https://www.nexojornal.com.br/expresso/2025/02/01/historia-afd-extrema-direita-alemanha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
