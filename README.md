@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os coordenadores de intimidade após o auge do #MeToo](https://www.nexojornal.com.br/expresso/2025/02/03/os-coordenadores-de-intimidade-apos-o-auge-do-metoo)
 - [Qual o papel dos estados contra a mudança climática](https://www.nexojornal.com.br/expresso/2025/02/02/anuario-estados-mudanca-climatica)
 - [O papel do Brasil no mercado internacional de carbono](https://www.nexojornal.com.br/ensaio/2025/02/02/mercado-de-carbono-brasil-internacional-opiniao)
 - [Qual o poder dos vínculos sonoros criados na infância](https://www.nexojornal.com.br/externo/2025/02/01/infancia-vinculo-sonoro-memoria-afetiva)
 - [Quais os entraves no descarte dos cigarros eletrônicos](https://www.nexojornal.com.br/externo/2025/02/01/cigarro-eletronico-descarte-problemas)
-- [Como um gasto puxa outro depois que se legaliza as bets](https://www.nexojornal.com.br/expresso/2025/02/01/como-um-gasto-puxa-outro-depois-que-se-legaliza-as-bets)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
