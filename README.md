@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os primeiros livros para cegos no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/livros-para-cegos-braille-primeiros-brasil)
+- [6 acontecimentos que marcaram o Grammy de 2025](https://www.nexojornal.com.br/expresso/2025/02/03/6-acontecimentos-que-marcaram-o-grammy-de-2025)
 - [O impacto da poluição industrial do ar na mortalidade no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/o-impacto-da-poluicao-industrial-do-ar-na-mortalidade-no-brasil)
 - [Os coordenadores de intimidade após o auge do #MeToo](https://www.nexojornal.com.br/expresso/2025/02/03/os-coordenadores-de-intimidade-apos-o-auge-do-metoo)
 - [Qual o papel dos estados contra a mudança climática](https://www.nexojornal.com.br/expresso/2025/02/02/anuario-estados-mudanca-climatica)
-- [O papel do Brasil no mercado internacional de carbono](https://www.nexojornal.com.br/ensaio/2025/02/02/mercado-de-carbono-brasil-internacional-opiniao)
-- [Qual o poder dos vínculos sonoros criados na infância](https://www.nexojornal.com.br/externo/2025/02/01/infancia-vinculo-sonoro-memoria-afetiva)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
