@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o caso Bocardi expõe os limites éticos do jornalismo](https://www.nexojornal.com.br/expresso/2025/02/03/rodrigo-bocardi-demitido-globo-etica-jornalismo)
 - [Os primeiros livros para cegos no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/livros-para-cegos-braille-primeiros-brasil)
 - [6 acontecimentos que marcaram o Grammy de 2025](https://www.nexojornal.com.br/expresso/2025/02/03/6-acontecimentos-que-marcaram-o-grammy-de-2025)
 - [O impacto da poluição industrial do ar na mortalidade no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/o-impacto-da-poluicao-industrial-do-ar-na-mortalidade-no-brasil)
 - [Os coordenadores de intimidade após o auge do #MeToo](https://www.nexojornal.com.br/expresso/2025/02/03/os-coordenadores-de-intimidade-apos-o-auge-do-metoo)
-- [Qual o papel dos estados contra a mudança climática](https://www.nexojornal.com.br/expresso/2025/02/02/anuario-estados-mudanca-climatica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
