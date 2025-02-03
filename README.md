@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Novos achados científicos sobre a origem da vida](https://www.nexojornal.com.br/colunistas/2025/02/03/origem-da-vida-descobertas)
 - [Como rascunhos do Ursinho Pooh foram parar em um sótão](https://www.nexojornal.com.br/expresso/2025/02/03/como-rascunhos-do-ursinho-pooh-foram-parar-em-um-sotao)
 - [Como o caso Bocardi expõe os limites éticos do jornalismo](https://www.nexojornal.com.br/expresso/2025/02/03/rodrigo-bocardi-demitido-globo-etica-jornalismo)
 - [Os primeiros livros para cegos no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/livros-para-cegos-braille-primeiros-brasil)
 - [6 acontecimentos que marcaram o Grammy de 2025](https://www.nexojornal.com.br/expresso/2025/02/03/6-acontecimentos-que-marcaram-o-grammy-de-2025)
-- [O impacto da poluição industrial do ar na mortalidade no Brasil](https://www.nexojornal.com.br/externo/2025/02/03/o-impacto-da-poluicao-industrial-do-ar-na-mortalidade-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
