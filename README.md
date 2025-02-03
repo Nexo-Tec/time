@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Samanta Alves](https://gamarevista.uol.com.br/pessoas/questionario-proust/samanta-alves/)
 - [Andrea Nasciutti: escola sem celular](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andrea-nasciutti/)
 - [Hora de Alimentar Serpentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/hora-de-alimentar-serpentes/)
 - [“A Verdadeira Dor”, com Kieran Culkin indicado ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-verdadeira-dor-com-kieran-culkin-indicado-ao-oscar/)
 - [“Diamantes, Lágrimas e Rostos para Esquecer”, de BK’](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/diamantes-lagrimas-e-rostos-para-esquecer-de-bk/)
-- [O segundo volume da Coleção César Aira, pela Fósforo](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-segundo-volume-da-colecao-cesar-aira-pela-fosforo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
