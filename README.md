@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Pochete anticelular Yondr](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/pochete-anticelular-yondr/)
 - [@esperanza spalding](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/esperanzaspalding/)
 - [Samanta Alves](https://gamarevista.uol.com.br/pessoas/questionario-proust/samanta-alves/)
 - [Andrea Nasciutti: escola sem celular](https://gamarevista.uol.com.br/podcast/podcast-da-semana/andrea-nasciutti/)
 - [Hora de Alimentar Serpentes](https://gamarevista.uol.com.br/cultura/trecho-de-livro/hora-de-alimentar-serpentes/)
-- [“A Verdadeira Dor”, com Kieran Culkin indicado ao Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-verdadeira-dor-com-kieran-culkin-indicado-ao-oscar/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
