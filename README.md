@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a briga entre EUA e Canadá atrapalha trilheiros](https://www.nexojornal.com.br/externo/2025/02/04/eua-canada-trilha-pacific-crest-trail)
+- [Por que a altitude do Everest cresce ano após ano](https://www.nexojornal.com.br/externo/2025/02/04/everest-montanha-altitude-cresce-pesquisa)
 - [A agência de ajuda humanitária que Musk quer fechar](https://www.nexojornal.com.br/expresso/2025/02/03/usaid-elon-musk-governo-trump)
 - [As prioridades de Lula em um Congresso sob nova direção](https://www.nexojornal.com.br/expresso/2025/02/03/governo-lula-relacao-congresso-2025-hugo-motta-e-alcolumbre)
 - [Novos achados científicos sobre a origem da vida](https://www.nexojornal.com.br/colunistas/2025/02/03/origem-da-vida-descobertas)
-- [Como rascunhos do Ursinho Pooh foram parar em um sótão](https://www.nexojornal.com.br/expresso/2025/02/03/como-rascunhos-do-ursinho-pooh-foram-parar-em-um-sotao)
-- [Como o caso Bocardi expõe os limites éticos do jornalismo](https://www.nexojornal.com.br/expresso/2025/02/03/rodrigo-bocardi-demitido-globo-etica-jornalismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
