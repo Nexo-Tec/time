@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como as brigas de torcida voltam a assombrar Recife](https://www.nexojornal.com.br/expresso/2025/02/05/brigas-de-torcida-assombram-recife)
 - [O senador que assume comprar gado de desmatadores](https://www.nexojornal.com.br/externo/2025/02/05/amazonia-desmatamento-gado-senador-pl-jaime-bagattoli)
 - [O que Trump tem a ganhar com sua guerra comercial?](https://www.nexojornal.com.br/expresso/2025/02/04/eua-donald-trump-guerra-comercial-tarifas)
 - [O trumpismo no lema do boné nacionalista de Lula](https://www.nexojornal.com.br/colunistas/2025/02/04/bone-lula-brasil-e-dos-brasileiros-relacao-trump)
 - [8 artistas que trabalham a sexualidade queer](https://www.nexojornal.com.br/externo/2025/02/04/arte-artistas-queer)
-- [Mais de 70% das exportações de Canadá e México vão para EUA](https://www.nexojornal.com.br/grafico/2025/02/04/eua-exportacao-mexico-canada-tarifa-grafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
