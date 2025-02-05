@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que Trump tem a ganhar com sua guerra comercial?](https://www.nexojornal.com.br/expresso/2025/02/04/eua-donald-trump-guerra-comercial-tarifas)
+- [O trumpismo no lema do boné nacionalista de Lula](https://www.nexojornal.com.br/colunistas/2025/02/04/bone-lula-brasil-e-dos-brasileiros-relacao-trump)
+- [8 artistas que trabalham a sexualidade queer](https://www.nexojornal.com.br/externo/2025/02/04/arte-artistas-queer)
+- [Mais de 70% das exportações de Canadá e México vão para os EUA](https://www.nexojornal.com.br/grafico/2025/02/04/eua-exportacao-mexico-canada-tarifa-grafico)
 - [Como intervir contra o bullying escolar, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/02/04/bullying-escola-o-que-fazer-como-evitar)
-- [O afastamento de Karla Sofía Gascón da campanha do Oscar](https://www.nexojornal.com.br/expresso/2025/02/04/oscar-emilia-perez-karla-sofia-gascon-tweets)
-- [Como a briga entre EUA e Canadá atrapalha trilheiros](https://www.nexojornal.com.br/externo/2025/02/04/eua-canada-trilha-pacific-crest-trail)
-- [Por que a altitude do Everest cresce ano após ano](https://www.nexojornal.com.br/externo/2025/02/04/everest-montanha-altitude-cresce-pesquisa)
-- [A agência de ajuda humanitária que Musk quer fechar](https://www.nexojornal.com.br/expresso/2025/02/03/usaid-elon-musk-governo-trump)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
