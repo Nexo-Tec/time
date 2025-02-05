@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O que Trump tem a ganhar com sua guerra comercial?](https://www.nexojornal.com.br/expresso/2025/02/04/eua-donald-trump-guerra-comercial-tarifas)
 - [O trumpismo no lema do boné nacionalista de Lula](https://www.nexojornal.com.br/colunistas/2025/02/04/bone-lula-brasil-e-dos-brasileiros-relacao-trump)
 - [8 artistas que trabalham a sexualidade queer](https://www.nexojornal.com.br/externo/2025/02/04/arte-artistas-queer)
-- [Mais de 70% das exportações de Canadá e México vão para os EUA](https://www.nexojornal.com.br/grafico/2025/02/04/eua-exportacao-mexico-canada-tarifa-grafico)
+- [Mais de 70% das exportações de Canadá e México vão para EUA](https://www.nexojornal.com.br/grafico/2025/02/04/eua-exportacao-mexico-canada-tarifa-grafico)
 - [Como intervir contra o bullying escolar, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/02/04/bullying-escola-o-que-fazer-como-evitar)
 <!-- NEXO_LIST:END -->
 
