@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Transferências federais para organizações da sociedade civil](https://pp.nexojornal.com.br/opiniao/2025/02/06/transferencias-federais-para-organizacoes-da-sociedade-civil/)
+- [Como as mudanças na regra do Pix foram percebidas pelos seus principais interessados?](https://pp.nexojornal.com.br/opiniao/2025/02/06/como-as-mudancas-na-regra-do-pix-foram-percebidas-pelos-seus-principais-interessados/)
+- [Quais são os itinerários terapêuticos em cidades sem Centros de Atenção Psicossocial Infantojuvenis](https://pp.nexojornal.com.br/academico/2025/02/06/quais-sao-os-itinerarios-terapeuticos-em-cidades-sem-centros-de-atencao-psicossocial-infantojuvenis/)
 - [O “terremoto” e a educação em países da América Latina: estamos preparados?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/06/o-terremoto-e-a-educacao-em-paises-da-america-latina-estamos-preparados/)
 - [Mercantilização da memória negra na zona portuária do Rio](https://pp.nexojornal.com.br/opiniao/2025/02/06/mercantilizacao-da-memoria-negra-na-zona-portuaria-do-rio/)
-- [Do combate ao “mal ideológico” à proteção do “bem biológico”](https://pp.nexojornal.com.br/opiniao/2025/02/06/do-combate-ao-mal-ideologico-a-protecao-do-bem-biologico/)
-- [Desafios dos municípios na adoção de políticas públicas saudáveis](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/04/desafios-dos-municipios-na-adocao-de-politicas-publicas-saudaveis/)
-- [As mudanças recentes no Novo Ensino Médio](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/04/as-mudancas-recentes-no-novo-ensino-medio/)
 <!-- PP_LIST:END -->
 
