@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o preço do café disparou em 2024 no Brasil](https://www.nexojornal.com.br/grafico/2025/02/06/por-que-o-cafe-esta-tao-caro-no-brasil-preco)
+- [6 pontos para entender o mercado de arte pós-pandemia no Brasil](https://www.nexojornal.com.br/expresso/2025/02/06/arte-no-brasil-depois-da-pandemia-pesquisa)
 - [As características da autoconstrução nas favelas brasileiras](https://www.nexojornal.com.br/academico/2025/02/06/favela-autoconstrucao-moradia-pesquisa)
 - [A ‘lei anti-Oruam’ viola a liberdade de expressão?](https://www.nexojornal.com.br/expresso/2025/02/06/liberdade-de-expressao-lei-anti-oruam)
 - [O direito internacional diante do plano de Trump para Gaza](https://www.nexojornal.com.br/expresso/2025/02/05/trump-faixa-de-gaza-direito-internacional)
-- [Quais as principais vacinas para crianças maiores de dez anos](https://www.nexojornal.com.br/externo/2025/02/05/vacina-carteira-vacinacao-crianca-e-adolescente)
-- [Mostra de arte do Brasil em Londres não entusiasma a crítica](https://www.nexojornal.com.br/colunistas/2025/02/05/exposicao-arte-modernismo-brasil-em-londres)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
