@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O direito internacional diante do plano de Trump para Gaza](https://www.nexojornal.com.br/expresso/2025/02/05/trump-faixa-de-gaza-direito-internacional)
+- [Quais as principais vacinas para crianças maiores de dez anos](https://www.nexojornal.com.br/externo/2025/02/05/vacina-carteira-vacinacao-crianca-e-adolescente)
 - [Mostra de arte do Brasil em Londres não entusiasma a crítica](https://www.nexojornal.com.br/colunistas/2025/02/05/exposicao-arte-modernismo-brasil-em-londres)
 - [A popularização da dieta carnívora. E os seus riscos](https://www.nexojornal.com.br/expresso/2025/02/05/carne-dieta-carnivora-impacto-saude)
 - [Pantanal paulistano: as enchentes nos centros urbanos](https://www.nexojornal.com.br/podcast/2025/02/05/jardim-pantanal-enchente-alagamento-ricardo-nunes)
-- [Como as brigas de torcida voltam a assombrar Recife](https://www.nexojornal.com.br/expresso/2025/02/05/brigas-de-torcida-assombram-recife)
-- [O senador que assume comprar gado de desmatadores](https://www.nexojornal.com.br/externo/2025/02/05/amazonia-desmatamento-gado-senador-pl-jaime-bagattoli)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
