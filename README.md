@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [O “terremoto” e a educação em países da América Latina: estamos preparados?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/06/o-terremoto-e-a-educacao-em-paises-da-america-latina-estamos-preparados/)
+- [Mercantilização da memória negra na zona portuária do Rio](https://pp.nexojornal.com.br/opiniao/2025/02/06/mercantilizacao-da-memoria-negra-na-zona-portuaria-do-rio/)
+- [Do combate ao “mal ideológico” à proteção do “bem biológico”](https://pp.nexojornal.com.br/opiniao/2025/02/06/do-combate-ao-mal-ideologico-a-protecao-do-bem-biologico/)
 - [Desafios dos municípios na adoção de políticas públicas saudáveis](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/04/desafios-dos-municipios-na-adocao-de-politicas-publicas-saudaveis/)
 - [As mudanças recentes no Novo Ensino Médio](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/04/as-mudancas-recentes-no-novo-ensino-medio/)
-- [Indigenizando a ciência da conservação para uma Amazônia sustentável](https://pp.nexojornal.com.br/academico/2025/01/31/indigenizando-a-ciencia-da-conservacao-para-uma-amazonia-sustentavel/)
-- [Consumo de ultraprocessados e o maior risco para desenvolvimento de sintomas depressivos](https://pp.nexojornal.com.br/academico/2025/01/31/consumo-de-ultraprocessados-e-o-maior-risco-para-o-desenvolvimento-de-sintomas-depressivos/)
-- [Trump e a política do fim do mundo](https://pp.nexojornal.com.br/ponto-de-vista/2025/01/31/trump-e-a-politica-do-fim-do-mundo/)
 <!-- PP_LIST:END -->
 
