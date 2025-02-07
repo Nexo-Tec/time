@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como canais de água ameaçam a vida selvagem mundial](https://www.nexojornal.com.br/externo/2025/02/07/como-canais-de-agua-ameacam-a-vida-selvagem-mundial)
+- [Os sapatos banidos na Idade Média que agora chegam às passarelas](https://www.nexojornal.com.br/expresso/2025/02/07/desfile-marc-jacobs-sapato-poulaines-historia-moda-idade-media)
 - [A falta de dados sobre alertas de chuvas da Defesa Civil](https://www.nexojornal.com.br/externo/2025/02/07/alertas-de-chuvas-da-defesa-civil)
 - [A história da ‘igreja de ouro’ de Salvador até a queda do teto](https://www.nexojornal.com.br/expresso/2025/02/06/desabamento-teto-igreja-salvador-historia-da-igreja-de-ouro)
 - [‘A primeira questão da responsabilidade da IA é a transparência’](https://www.nexojornal.com.br/entrevista/2025/02/06/ia-inteligencia-artificial-martin-tisne-entrevista)
-- [Por que a educação é a verdadeira oposição à barbárie](https://www.nexojornal.com.br/colunistas/2025/02/06/educacao-como-educar-para-vida)
-- [Bancos comunitários impulsionam o desenvolvimento local](https://www.nexojornal.com.br/externo/2025/02/06/economia-banco-comunitario-impacto-desenvolvimento-local)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
