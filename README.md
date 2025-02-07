@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o mercado de carbono impacta os povos tradicionais](https://www.nexojornal.com.br/externo/2025/02/07/mercado-de-carbono-povos-tradicionais)
+- [O que é sharenting. E como proteger a imagem das crianças](https://www.nexojornal.com.br/externo/2025/02/07/sharenting-crianca-proteger-imagem-internet)
+- [5 livros para desfrutar a arte e cultura periféricas](https://www.nexojornal.com.br/estante-favoritos/2025/02/07/livro-arte-periferica-osmar-paulino-indicacao)
+- [‘Rebeldes primitivos’: o elo entre banditismo e revoltas sociais](https://www.nexojornal.com.br/estante-trechos/2025/02/07/livro-eric-hobsbawn-rebeldes-primitivos-trecho)
 - [O jogo que explica os benefícios de games aconchegantes](https://www.nexojornal.com.br/expresso/2025/02/07/jogo-agencia-reuters-games-aconchegantes)
-- [Como canais de água ameaçam a vida selvagem mundial](https://www.nexojornal.com.br/externo/2025/02/07/como-canais-de-agua-ameacam-a-vida-selvagem-mundial)
-- [Os sapatos banidos na Idade Média que agora chegam às passarelas](https://www.nexojornal.com.br/expresso/2025/02/07/desfile-marc-jacobs-sapato-poulaines-historia-moda-idade-media)
-- [A falta de dados sobre alertas de chuvas da Defesa Civil](https://www.nexojornal.com.br/externo/2025/02/07/alertas-de-chuvas-da-defesa-civil)
-- [A história da ‘igreja de ouro’ de Salvador até a queda do teto](https://www.nexojornal.com.br/expresso/2025/02/06/desabamento-teto-igreja-salvador-historia-da-igreja-de-ouro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
