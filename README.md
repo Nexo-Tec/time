@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A história da ‘igreja de ouro’ de Salvador até a queda do teto](https://www.nexojornal.com.br/expresso/2025/02/06/desabamento-teto-igreja-salvador-historia-da-igreja-de-ouro)
+- [‘A primeira questão da responsabilidade da IA é a transparência’](https://www.nexojornal.com.br/entrevista/2025/02/06/ia-inteligencia-artificial-martin-tisne-entrevista)
+- [Por que a educação é a verdadeira oposição à barbárie](https://www.nexojornal.com.br/colunistas/2025/02/06/educacao-como-educar-para-vida)
 - [Bancos comunitários impulsionam o desenvolvimento local](https://www.nexojornal.com.br/externo/2025/02/06/economia-banco-comunitario-impacto-desenvolvimento-local)
 - [Por que o preço do café disparou em 2024 no Brasil](https://www.nexojornal.com.br/grafico/2025/02/06/por-que-o-cafe-esta-tao-caro-no-brasil-preco)
-- [6 pontos para entender o mercado de arte pós-pandemia no Brasil](https://www.nexojornal.com.br/expresso/2025/02/06/arte-no-brasil-depois-da-pandemia-pesquisa)
-- [As características da autoconstrução nas favelas brasileiras](https://www.nexojornal.com.br/academico/2025/02/06/favela-autoconstrucao-moradia-pesquisa)
-- [A ‘lei anti-Oruam’ viola a liberdade de expressão?](https://www.nexojornal.com.br/expresso/2025/02/06/liberdade-de-expressao-lei-anti-oruam)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
