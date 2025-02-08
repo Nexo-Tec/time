@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como funcionam as fábricas de golpes online em Mianmar](https://www.nexojornal.com.br/expresso/2025/02/07/mianmar-trafico-humano-golpe-online-sudeste-asiatico)
+- [O transporte de mulheres como negócio feminino no Quênia](https://www.nexojornal.com.br/expresso/2025/02/07/transporte-mulheres-no-quenia)
+- [Como o Super Bowl virou uma máquina de publicidade](https://www.nexojornal.com.br/expresso/2025/02/07/super-bowl-nfl-futebol-americano-publicidade)
+- [‘Extrema direita usa pessoas trans como espantalho moral’](https://www.nexojornal.com.br/entrevista/2025/02/07/extrema-direita-contra-populacao-trans-entrevista-renan-quinalha)
 - [Como o mercado de carbono impacta os povos tradicionais](https://www.nexojornal.com.br/externo/2025/02/07/mercado-de-carbono-povos-tradicionais)
-- [O que é sharenting. E como proteger a imagem das crianças](https://www.nexojornal.com.br/externo/2025/02/07/sharenting-crianca-proteger-imagem-internet)
-- [5 livros para desfrutar a arte e cultura periféricas](https://www.nexojornal.com.br/estante-favoritos/2025/02/07/livro-arte-periferica-osmar-paulino-indicacao)
-- [‘Rebeldes primitivos’: o elo entre banditismo e revoltas sociais](https://www.nexojornal.com.br/estante-trechos/2025/02/07/livro-eric-hobsbawn-rebeldes-primitivos-trecho)
-- [O jogo que explica os benefícios de games aconchegantes](https://www.nexojornal.com.br/expresso/2025/02/07/jogo-agencia-reuters-games-aconchegantes)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
