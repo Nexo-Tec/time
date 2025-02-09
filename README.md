@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Como funcionam as fábricas de golpes online em Mianmar](https://www.nexojornal.com.br/expresso/2025/02/07/mianmar-trafico-humano-golpe-online-sudeste-asiatico)
-- [O transporte de mulheres como negócio feminino no Quênia](https://www.nexojornal.com.br/expresso/2025/02/07/transporte-mulheres-no-quenia)
-- [Como o Super Bowl virou uma máquina de publicidade](https://www.nexojornal.com.br/expresso/2025/02/07/super-bowl-nfl-futebol-americano-publicidade)
-- [‘Extrema direita usa pessoas trans como espantalho moral’](https://www.nexojornal.com.br/entrevista/2025/02/07/extrema-direita-contra-populacao-trans-entrevista-renan-quinalha)
-- [Como o mercado de carbono impacta os povos tradicionais](https://www.nexojornal.com.br/externo/2025/02/07/mercado-de-carbono-povos-tradicionais)
+- [Como artigos falsos contaminam a literatura científica](https://www.nexojornal.com.br/externo/2025/02/09/artigos-academicos-falsos-publicacao-literatura-cientifica)
+- [Um telégrafo à portuguesa](https://www.nexojornal.com.br/externo/2025/02/09/telegrafo-em-sao-paulo-seculo-19)
+- [O networking entre algoritmos e conexões reais](https://www.nexojornal.com.br/ensaio/2025/02/09/networking-como-criar-conexoes-reais)
+- [O legado de ‘The Sims’ 25 anos após seu lançamento](https://www.nexojornal.com.br/expresso/2025/02/09/jogo-the-sims-25-anos)
+- [A ação sobre a polícia que opõe o STF a autoridades do Rio](https://www.nexojornal.com.br/expresso/2025/02/09/stf-o-que-e-adpf-das-favelas-operacao-policial-rio-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
