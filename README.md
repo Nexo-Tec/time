@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Fernanda Lima: como viver melhor na perimenopausa](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fernanda-lima/)
 - [Burnout da beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/burnout-da-beleza/)
 - [Viagens a Terras Inimagináveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/viagens-a-terras-inimaginaveis/)
 - [“Beleza Fatal”, o novelão da Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/beleza-fatal-o-novelao-da-max/)
 - [O podcast em que Billy Corgan entrevista estrelas da música](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-podcast-em-que-billy-corgan-entrevista-estrelas-da-musica/)
-- [A saga de uma família de imigrantes japoneses no Brasil em “Nihonjin”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-saga-de-uma-familia-de-imigrantes-japoneses-no-brasil-em-nihonjin/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
