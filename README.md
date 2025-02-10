@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como se mede o trabalho invisível das mulheres](https://www.nexojornal.com.br/expresso/2025/02/09/trabalho-domestico-cuidado-mulher-brasil-pesquisa)
+- [Por que comunidades no Chile lutam contra esta barragem](https://www.nexojornal.com.br/externo/2025/02/09/comunidades-no-chile-lutam-contra-barragem-rucalhue)
+- [Ditadura militar: memória minha, da minha tia e do Brasil](https://www.nexojornal.com.br/ensaio/2025/02/09/ditadura-militar-brasil-memorias)
 - [Como artigos falsos contaminam a literatura científica](https://www.nexojornal.com.br/externo/2025/02/09/artigos-academicos-falsos-publicacao-literatura-cientifica)
 - [Um telégrafo à portuguesa](https://www.nexojornal.com.br/externo/2025/02/09/telegrafo-em-sao-paulo-seculo-19)
-- [O networking entre algoritmos e conexões reais](https://www.nexojornal.com.br/ensaio/2025/02/09/networking-como-criar-conexoes-reais)
-- [O legado de ‘The Sims’ 25 anos após seu lançamento](https://www.nexojornal.com.br/expresso/2025/02/09/jogo-the-sims-25-anos)
-- [A ação sobre a polícia que opõe o STF a autoridades do Rio](https://www.nexojornal.com.br/expresso/2025/02/09/stf-o-que-e-adpf-das-favelas-operacao-policial-rio-de-janeiro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
