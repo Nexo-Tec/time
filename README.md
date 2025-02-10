@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quando levar as meninas pela primeira vez ao ginecologista](https://www.nexojornal.com.br/externo/2025/02/10/ginecologista-quando-levar-meninas)
 - [O que Da Vinci acertou e errou sobre a anatomia humana](https://www.nexojornal.com.br/externo/2025/02/10/da-vinci-anatomia-humana-erros-acertos-pesquisa)
 - [Como funciona o semipresidencialismo](https://www.nexojornal.com.br/index/2025/02/10/o-que-semipresidencialismo-pec)
 - [‘Oswald de Andrade sempre foi um inconformista’](https://www.nexojornal.com.br/entrevista/2025/02/10/livro-oswald-de-andrade-mau-selvagem-entrevista-lira-neto)
 - [‘Nenhum partido resolveria facilmente a sucessão de Lula’](https://www.nexojornal.com.br/entrevista/2025/02/10/pt-partido-dos-trabalhadores-45-anos-historia-jairo-nicolau)
-- [Como se mede o trabalho invisível das mulheres](https://www.nexojornal.com.br/expresso/2025/02/09/trabalho-domestico-cuidado-mulher-brasil-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
