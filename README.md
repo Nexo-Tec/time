@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Nenhum partido resolveria facilmente a sucessão de Lula’](https://www.nexojornal.com.br/entrevista/2025/02/10/pt-partido-dos-trabalhadores-45-anos-historia-jairo-nicolau)
 - [Como se mede o trabalho invisível das mulheres](https://www.nexojornal.com.br/expresso/2025/02/09/trabalho-domestico-cuidado-mulher-brasil-pesquisa)
 - [Por que comunidades no Chile lutam contra esta barragem](https://www.nexojornal.com.br/externo/2025/02/09/comunidades-no-chile-lutam-contra-barragem-rucalhue)
 - [Ditadura militar: memória minha, da minha tia e do Brasil](https://www.nexojornal.com.br/ensaio/2025/02/09/ditadura-militar-brasil-memorias)
 - [Como artigos falsos contaminam a literatura científica](https://www.nexojornal.com.br/externo/2025/02/09/artigos-academicos-falsos-publicacao-literatura-cientifica)
-- [Um telégrafo à portuguesa](https://www.nexojornal.com.br/externo/2025/02/09/telegrafo-em-sao-paulo-seculo-19)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
