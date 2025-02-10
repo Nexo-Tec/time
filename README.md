@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Política de Cotas na Uenf: graduação, pós-graduação e docência](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/10/politica-de-cotas-na-uenf-graduacao-pos-graduacao-e-docencia/)
+- [A agroecologia como solução climática baseada no território](https://pp.nexojornal.com.br/opiniao/2025/02/10/a-agroecologia-como-solucao-climatica-baseada-no-territorio/)
 - [Raça, território e formação docente: dilemas no atendimento à primeira infância](https://pp.nexojornal.com.br/opiniao/2025/02/10/raca-territorio-e-formacao-docente-dilemas-no-atendimento-a-primeira-infancia/)
 - [Transferências federais para organizações da sociedade civil](https://pp.nexojornal.com.br/opiniao/2025/02/06/transferencias-federais-para-organizacoes-da-sociedade-civil/)
 - [Como as mudanças na regra do Pix foram percebidas pelos seus principais interessados?](https://pp.nexojornal.com.br/opiniao/2025/02/06/como-as-mudancas-na-regra-do-pix-foram-percebidas-pelos-seus-principais-interessados/)
-- [Quais são os itinerários terapêuticos em cidades sem Centros de Atenção Psicossocial Infantojuvenis](https://pp.nexojornal.com.br/academico/2025/02/06/quais-sao-os-itinerarios-terapeuticos-em-cidades-sem-centros-de-atencao-psicossocial-infantojuvenis/)
-- [O “terremoto” e a educação em países da América Latina: estamos preparados?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/06/o-terremoto-e-a-educacao-em-paises-da-america-latina-estamos-preparados/)
 <!-- PP_LIST:END -->
 
