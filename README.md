@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os assentamentos apoiados por Dorothy Stang, 20 anos depois](https://www.nexojornal.com.br/externo/2025/02/11/irma-dorothy-stang-legado-20-anos-morte)
 - [As sucessivas crises que marcam o governo de Petro na Colômbia](https://www.nexojornal.com.br/expresso/2025/02/11/colombia-gustavo-petro-governo-crise)
 - [Tania Bulhões: quando a autenticidade de um produto é contestada](https://www.nexojornal.com.br/expresso/2025/02/11/tania-bulhoes-marca-de-luxo-acusada-de-fraude-produto)
 - [O que o Brasil promete no seu compromisso climático junto à ONU](https://www.nexojornal.com.br/externo/2025/02/11/clima-meta-brasil-onu-2035)
 - [Como o tarifaço dos EUA pode impactar a economia mundial](https://www.nexojornal.com.br/expresso/2025/02/10/eua-economia-mundial-impacto-tarifas-trump)
-- [Qual a relação entre baixa escolaridade e declínio cognitivo](https://www.nexojornal.com.br/expresso/2025/02/10/impacto-da-educacao-na-saude-cerebral-demencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
