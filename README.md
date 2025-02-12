@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O peso de não tratar 8 de janeiro como uma tentativa de golpe](https://www.nexojornal.com.br/podcast/2025/02/12/anistia-8-de-janeiro-votacao-tentativa-de-golpe)
+- [Trajetórias de tradutores e intérpretes saem dos bastidores](https://www.nexojornal.com.br/externo/2025/02/12/carreira-tradutor-interprete-historia-origem)
 - [A 1ª pesquisadora negra a atingir o nível mais alto do CNPq](https://www.nexojornal.com.br/externo/2025/02/12/pesquisadora-negra-nivel-mais-alto-cnpq-rosy-isaias)
 - [Por que animais ajudam a controlar a ansiedade](https://www.nexojornal.com.br/expresso/2025/02/12/animais-de-estimacao-impacto-ansiedade)
 - [O crescimento rápido e sustentável da nova direita na Europa](https://www.nexojornal.com.br/colunistas/2025/02/11/europa-politica-ascensao-extrema-direita)
-- [Como a inflação dos alimentos se volta contra Lula](https://www.nexojornal.com.br/expresso/2025/02/11/lula-inflacao-dos-alimentos-picanha-promessa)
-- [Os assentamentos apoiados por Dorothy Stang, 20 anos depois](https://www.nexojornal.com.br/externo/2025/02/11/irma-dorothy-stang-legado-20-anos-morte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
