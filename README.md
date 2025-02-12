@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A 1ª pesquisadora negra a atingir o nível mais alto do CNPq](https://www.nexojornal.com.br/externo/2025/02/12/pesquisadora-negra-nivel-mais-alto-cnpq-rosy-isaias)
+- [Por que animais ajudam a controlar a ansiedade](https://www.nexojornal.com.br/expresso/2025/02/12/animais-de-estimacao-impacto-ansiedade)
 - [O crescimento rápido e sustentável da nova direita na Europa](https://www.nexojornal.com.br/colunistas/2025/02/11/europa-politica-ascensao-extrema-direita)
 - [Como a inflação dos alimentos se volta contra Lula](https://www.nexojornal.com.br/expresso/2025/02/11/lula-inflacao-dos-alimentos-picanha-promessa)
 - [Os assentamentos apoiados por Dorothy Stang, 20 anos depois](https://www.nexojornal.com.br/externo/2025/02/11/irma-dorothy-stang-legado-20-anos-morte)
-- [As sucessivas crises que marcam o governo de Petro na Colômbia](https://www.nexojornal.com.br/expresso/2025/02/11/colombia-gustavo-petro-governo-crise)
-- [Tania Bulhões: quando a autenticidade de um produto é contestada](https://www.nexojornal.com.br/expresso/2025/02/11/tania-bulhoes-marca-de-luxo-acusada-de-fraude-produto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
