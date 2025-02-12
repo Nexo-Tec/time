@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Autismo](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/autismo/)
 - [@serenawilliams](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/serenawilliams/)
 - [Fernanda Lima: como viver melhor na perimenopausa](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fernanda-lima/)
 - [Burnout da beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/burnout-da-beleza/)
 - [Viagens a Terras Inimagináveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/viagens-a-terras-inimaginaveis/)
-- [“Beleza Fatal”, o novelão da Max](https://gamarevista.uol.com.br/achamos-que-vale/assistir/beleza-fatal-o-novelao-da-max/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
