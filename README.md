@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As formas de exploração sofridas por indígenas do Peru](https://www.nexojornal.com.br/expresso/2025/02/13/peru-indigenas-exploracao-pos-colonial)
 - [Como funciona a heteroidentificação racial na UFBA](https://www.nexojornal.com.br/academico/2025/02/13/comissao-heteroidentificacao-racial-ufba-pesquisa)
 - [A disputa entre o Paraná e a União pelas Cataratas do Iguaçu](https://www.nexojornal.com.br/externo/2025/02/13/cataratas-do-iguacu-disputa-parana-uniao-federal)
 - [Por que a USaid é um marco na cooperação mundial](https://www.nexojornal.com.br/ensaio/2025/02/12/o-que-e-usaid-encerramento-impacto-mundial)
 - [Como o Black Sabbath definiu os contornos do heavy metal](https://www.nexojornal.com.br/expresso/2025/02/12/show-black-sabbath-historia-heavy-metal)
-- [Quem é a médica trans brasileira que foi vereadora na França](https://www.nexojornal.com.br/externo/2025/02/12/trans-brasileira-vereadora-franca-anos-2000-camille-cabral)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
