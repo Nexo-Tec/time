@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Autismo](https://gamarevista.uol.com.br/sociedade/entre-no-assunto/autismo/)
-- [@serenawilliams](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/serenawilliams/)
-- [Fernanda Lima: como viver melhor na perimenopausa](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fernanda-lima/)
-- [Burnout da beleza](https://gamarevista.uol.com.br/colunistas/vanessa-rozan/burnout-da-beleza/)
-- [Viagens a Terras Inimagináveis](https://gamarevista.uol.com.br/cultura/trecho-de-livro/viagens-a-terras-inimaginaveis/)
+- [O sarcasmo de “The White Lotus” na Tailândia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-sarcasmo-de-the-white-lotus-na-tailandia/)
+- [Anatomia de uma cena, no New York Times, com Walter Salles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anatomia-de-uma-cena-no-new-york-times-com-walter-salles/)
+- [Um relato sobre a vida em meio à guerra na Ucrânia](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-sobre-a-vida-em-meio-a-guerra-na-ucrania/)
+- [Escuta Festival 5, no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/escuta-festival-5-no-rio/)
+- [Concertos da orquestra de Câmara da USP, no Instituto Tomie Ohtake](https://gamarevista.uol.com.br/achamos-que-vale/ir/concertos-da-orquestra-de-camara-da-usp-no-instituto-tomie-ohtake/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
