@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Financiamento da educação básica no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2025/02/13/fundo-de-manutencao-e-desenvolvimento-da-educacao-basica/)
+- [Os caminhos da participação no governo Lula III](https://pp.nexojornal.com.br/opiniao/2025/02/13/os-caminhos-da-participacao-no-governo-lula-iii/)
+- [As escolas de samba e o encantamento do espaço público](https://pp.nexojornal.com.br/opiniao/2025/02/13/as-escolas-de-samba-e-o-encantamento-do-espaco-publico/)
 - [Política de Cotas na Uenf: graduação, pós-graduação e docência](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/10/politica-de-cotas-na-uenf-graduacao-pos-graduacao-e-docencia/)
 - [A agroecologia como solução climática baseada no território](https://pp.nexojornal.com.br/opiniao/2025/02/10/a-agroecologia-como-solucao-climatica-baseada-no-territorio/)
-- [Raça, território e formação docente: dilemas no atendimento à primeira infância](https://pp.nexojornal.com.br/opiniao/2025/02/10/raca-territorio-e-formacao-docente-dilemas-no-atendimento-a-primeira-infancia/)
-- [Transferências federais para organizações da sociedade civil](https://pp.nexojornal.com.br/opiniao/2025/02/06/transferencias-federais-para-organizacoes-da-sociedade-civil/)
-- [Como as mudanças na regra do Pix foram percebidas pelos seus principais interessados?](https://pp.nexojornal.com.br/opiniao/2025/02/06/como-as-mudancas-na-regra-do-pix-foram-percebidas-pelos-seus-principais-interessados/)
 <!-- PP_LIST:END -->
 
