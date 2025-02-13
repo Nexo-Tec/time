@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como a Educação Profissional e Tecnológica é distribuída no Brasil, segundo este estudo](https://pp.nexojornal.com.br/topico/2025/02/13/como-a-educacao-profissional-e-tecnologica-e-distribuida-no-brasil/)
 - [Financiamento da educação básica no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2025/02/13/fundo-de-manutencao-e-desenvolvimento-da-educacao-basica/)
 - [Os caminhos da participação no governo Lula III](https://pp.nexojornal.com.br/opiniao/2025/02/13/os-caminhos-da-participacao-no-governo-lula-iii/)
 - [As escolas de samba e o encantamento do espaço público](https://pp.nexojornal.com.br/opiniao/2025/02/13/as-escolas-de-samba-e-o-encantamento-do-espaco-publico/)
 - [Política de Cotas na Uenf: graduação, pós-graduação e docência](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/10/politica-de-cotas-na-uenf-graduacao-pos-graduacao-e-docencia/)
-- [A agroecologia como solução climática baseada no território](https://pp.nexojornal.com.br/opiniao/2025/02/10/a-agroecologia-como-solucao-climatica-baseada-no-territorio/)
 <!-- PP_LIST:END -->
 
