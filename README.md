@@ -115,7 +115,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Por que o USaid é um marco na cooperação mundial](https://www.nexojornal.com.br/ensaio/2025/02/12/o-que-e-usaid-encerramento-impacto-mundial)
+- [Por que a USaid é um marco na cooperação mundial](https://www.nexojornal.com.br/ensaio/2025/02/12/o-que-e-usaid-encerramento-impacto-mundial)
 - [Como o Black Sabbath definiu os contornos do heavy metal](https://www.nexojornal.com.br/expresso/2025/02/12/show-black-sabbath-historia-heavy-metal)
 - [Quem é a médica trans brasileira que foi vereadora na França](https://www.nexojornal.com.br/externo/2025/02/12/trans-brasileira-vereadora-franca-anos-2000-camille-cabral)
 - [A trajetória política de Hugo Motta e Davi Alcolumbre](https://www.nexojornal.com.br/grafico/2025/02/12/trajetoria-politica-hugo-motta-davi-alcolumbre-linha-do-tempo)
