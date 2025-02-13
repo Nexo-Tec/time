@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o USaid é um marco na cooperação mundial](https://www.nexojornal.com.br/ensaio/2025/02/12/o-que-e-usaid-encerramento-impacto-mundial)
+- [Como o Black Sabbath definiu os contornos do heavy metal](https://www.nexojornal.com.br/expresso/2025/02/12/show-black-sabbath-historia-heavy-metal)
+- [Quem é a médica trans brasileira que foi vereadora na França](https://www.nexojornal.com.br/externo/2025/02/12/trans-brasileira-vereadora-franca-anos-2000-camille-cabral)
 - [A trajetória política de Hugo Motta e Davi Alcolumbre](https://www.nexojornal.com.br/grafico/2025/02/12/trajetoria-politica-hugo-motta-davi-alcolumbre-linha-do-tempo)
-- [O peso de não tratar 8 de janeiro como uma tentativa de golpe](https://www.nexojornal.com.br/podcast/2025/02/12/anistia-8-de-janeiro-votacao-tentativa-de-golpe)
-- [Trajetórias de tradutores e intérpretes saem dos bastidores](https://www.nexojornal.com.br/externo/2025/02/12/carreira-tradutor-interprete-historia-origem)
-- [A 1ª pesquisadora negra a atingir o nível mais alto do CNPq](https://www.nexojornal.com.br/externo/2025/02/12/pesquisadora-negra-nivel-mais-alto-cnpq-rosy-isaias)
-- [Por que animais ajudam a controlar a ansiedade](https://www.nexojornal.com.br/expresso/2025/02/12/animais-de-estimacao-impacto-ansiedade)
+- [O que pesa contra Paquetá. E o que pode acontecer com ele](https://www.nexojornal.com.br/expresso/2025/02/12/jogador-futebol-paqueta-aposta-bet-manipulacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
