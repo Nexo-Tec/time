@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais filmes brasileiros já concorreram ao Oscar](https://www.nexojornal.com.br/video/2025/02/14/oscar-filmes-brasileiros-indicados-historico)
 - [5 livros para entender a desracialização do contrato social](https://www.nexojornal.com.br/estante-favoritos/2025/02/14/livros-sobre-desracializacao-do-contrato-social-tadeu-cacula)
 - [‘Flor do asfalto’: entrevistas com Claudia Wonder](https://www.nexojornal.com.br/estante-trechos/2025/02/14/livro-claudia-wonder-flor-do-asfalto-trecho)
 - [Como a pesca ilegal atua em áreas de proteção da Amazônia](https://www.nexojornal.com.br/externo/2025/02/14/amazonia-pesca-ilegal-areas-de-protecao-floresta)
 - [7 filmes que marcaram a trajetória de Cacá Diegues](https://www.nexojornal.com.br/expresso/2025/02/14/cinema-caca-diegues-filmes)
-- [Como ‘The White Lotus’ impulsiona a indústria de turismo](https://www.nexojornal.com.br/expresso/2025/02/14/turismo-impacto-serie-white-lotus)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
