@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como ‘The White Lotus’ impulsiona a indústria de turismo](https://www.nexojornal.com.br/expresso/2025/02/14/turismo-impacto-serie-white-lotus)
 - [Como o Spotify pagou por artistas falsos, segundo esta autora](https://www.nexojornal.com.br/entrevista/2025/02/13/spotify-artistas-falsos-entrevista-liz-pelly)
 - [A articulação para coibir o greenwashing no Brasil](https://www.nexojornal.com.br/externo/2025/02/13/meio-ambiente-como-acabar-com-greenwashing)
 - [O que muda na relação dos EUA com a Ucrânia sob Trump](https://www.nexojornal.com.br/expresso/2025/02/13/eua-trump-posicionamento-guerra-ucrania-russia)
 - [As formas de exploração sofridas por indígenas do Peru](https://www.nexojornal.com.br/expresso/2025/02/13/peru-indigenas-exploracao-pos-colonial)
-- [Como funciona a heteroidentificação racial na UFBA](https://www.nexojornal.com.br/academico/2025/02/13/comissao-heteroidentificacao-racial-ufba-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
