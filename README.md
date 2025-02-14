@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Elaboradas cascatas](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/elaboradas-cascatas/)
 - [Sexo e Desorganização](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-e-desorganizacao/)
 - [O sarcasmo de “The White Lotus” na Tailândia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-sarcasmo-de-the-white-lotus-na-tailandia/)
 - [Anatomia de uma cena, no New York Times, com Walter Salles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anatomia-de-uma-cena-no-new-york-times-com-walter-salles/)
 - [Um relato sobre a vida em meio à guerra na Ucrânia](https://gamarevista.uol.com.br/achamos-que-vale/ler/um-relato-sobre-a-vida-em-meio-a-guerra-na-ucrania/)
-- [Escuta Festival 5, no Rio](https://gamarevista.uol.com.br/achamos-que-vale/ir/escuta-festival-5-no-rio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
