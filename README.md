@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Divulgadores científicos na internet discutem limites para fazer campanhas de publicidade](https://www.nexojornal.com.br/externo/2025/02/15/publicidade-influencer-cientistas-etica)
+- [Como o médico nazista Josef Mengele viveu com regalia no Brasil](https://www.nexojornal.com.br/externo/2025/02/15/medico-nazista-josef-mengele-refugio-brasil)
 - [De gestão para gestão: a receita do sucesso na educação](https://www.nexojornal.com.br/ensaio/2025/02/14/educacao-transicao-de-gestao-impacto)
 - [A experiência de ter ‘diálogos nada fáceis’ com as crianças](https://www.nexojornal.com.br/externo/2025/02/14/como-falar-de-assuntos-dificeis-com-criancas)
 - [A vida de Miguel Barros, ativista negro do século 20](https://www.nexojornal.com.br/externo/2025/02/14/miguel-barros-pintor-trajetoria)
-- [A falta de condições das escolas para lidar com o calor extremo](https://www.nexojornal.com.br/expresso/2025/02/14/clima-no-brasil-calor-excessivo-nas-escolas)
-- [A investida bolsonarista contra a Lei da Ficha Limpa](https://www.nexojornal.com.br/expresso/2025/02/14/o-que-e-lei-da-ficha-limpa-bolsonaro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
