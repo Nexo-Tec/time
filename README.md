@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O histórico ambiental da Petrobras justifica o temor do Ibama?](https://www.nexojornal.com.br/expresso/2025/02/16/petroleo-rio-amazonas-petrobras-ibama-impasse)
+- [A confusa relação entre os conceitos de Estado e nação](https://www.nexojornal.com.br/externo/2025/02/16/estado-e-nacao-diferenca)
+- [A crise do clima e o risco à cadeia de frio na área da saúde](https://www.nexojornal.com.br/ensaio/2025/02/16/mudancas-climaticas-impacto-saude-medicamento-protecao-termica)
 - [Divulgadores científicos na internet discutem limites para fazer campanhas de publicidade](https://www.nexojornal.com.br/externo/2025/02/15/publicidade-influencer-cientistas-etica)
 - [Como o médico nazista Josef Mengele viveu com regalia no Brasil](https://www.nexojornal.com.br/externo/2025/02/15/medico-nazista-josef-mengele-refugio-brasil)
-- [De gestão para gestão: a receita do sucesso na educação](https://www.nexojornal.com.br/ensaio/2025/02/14/educacao-transicao-de-gestao-impacto)
-- [A experiência de ter ‘diálogos nada fáceis’ com as crianças](https://www.nexojornal.com.br/externo/2025/02/14/como-falar-de-assuntos-dificeis-com-criancas)
-- [A vida de Miguel Barros, ativista negro do século 20](https://www.nexojornal.com.br/externo/2025/02/14/miguel-barros-pintor-trajetoria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
