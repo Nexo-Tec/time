@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o Brasil virou um mercado para as novelas turcas](https://www.nexojornal.com.br/expresso/2025/02/17/novela-turca-tendencia-no-brasil)
 - [A internacionalização da maior facção da Venezuela](https://www.nexojornal.com.br/expresso/2025/02/17/faccao-venezuela-tren-de-aragua)
 - [O histórico ambiental da Petrobras justifica o temor do Ibama?](https://www.nexojornal.com.br/expresso/2025/02/16/petroleo-rio-amazonas-petrobras-ibama-impasse)
 - [A confusa relação entre os conceitos de Estado e nação](https://www.nexojornal.com.br/externo/2025/02/16/estado-e-nacao-diferenca)
 - [A crise do clima e o risco à cadeia de frio na área da saúde](https://www.nexojornal.com.br/ensaio/2025/02/16/mudancas-climaticas-impacto-saude-medicamento-protecao-termica)
-- [Divulgadores científicos na internet discutem limites para fazer campanhas de publicidade](https://www.nexojornal.com.br/externo/2025/02/15/publicidade-influencer-cientistas-etica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
