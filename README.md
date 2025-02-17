@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Danton Mello](https://gamarevista.uol.com.br/pessoas/questionario-proust/danton-mello/)
 - [Martha Nowill: puerpério e maternidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/martha-nowill/)
 - [Elaboradas cascatas](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/elaboradas-cascatas/)
 - [Sexo e Desorganização](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-e-desorganizacao/)
 - [O sarcasmo de “The White Lotus” na Tailândia](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-sarcasmo-de-the-white-lotus-na-tailandia/)
-- [Anatomia de uma cena, no New York Times, com Walter Salles](https://gamarevista.uol.com.br/achamos-que-vale/assistir/anatomia-de-uma-cena-no-new-york-times-com-walter-salles/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
