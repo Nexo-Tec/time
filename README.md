@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desafios e avanços da diversidade no serviço público](https://www.nexojornal.com.br/debate/2025/02/17/diversidade-servico-publico-desafios)
 - [A psicologia do comportamento humano em aeroportos](https://www.nexojornal.com.br/externo/2025/02/17/aeroporto-ansiedade-comportamento-pessoas)
 - [Como o Brasil virou um mercado para as novelas turcas](https://www.nexojornal.com.br/expresso/2025/02/17/novela-turca-tendencia-no-brasil)
 - [A internacionalização da maior facção da Venezuela](https://www.nexojornal.com.br/expresso/2025/02/17/faccao-venezuela-tren-de-aragua)
 - [O histórico ambiental da Petrobras justifica o temor do Ibama?](https://www.nexojornal.com.br/expresso/2025/02/16/petroleo-rio-amazonas-petrobras-ibama-impasse)
-- [A confusa relação entre os conceitos de Estado e nação](https://www.nexojornal.com.br/externo/2025/02/16/estado-e-nacao-diferenca)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
