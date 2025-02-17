@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Por que as avaliações ainda provocam tanta insegurança nas organizações?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/17/por-que-as-avaliacoes-ainda-provocam-tanta-inseguranca-nas-organizacoes/)
 - [Como evitar a exposição das crianças à poluição do ar nas escolas](https://pp.nexojornal.com.br/glossario/2025/02/14/mitigacao-da-poluicao-do-ar-nas-escolas-e-em-comunidades-locais/)
 - [Como a Educação Profissional e Tecnológica é distribuída no Brasil, segundo este estudo](https://pp.nexojornal.com.br/topico/2025/02/13/como-a-educacao-profissional-e-tecnologica-e-distribuida-no-brasil/)
 - [Financiamento da educação básica no Brasil](https://pp.nexojornal.com.br/bibliografia-basica/2025/02/13/fundo-de-manutencao-e-desenvolvimento-da-educacao-basica/)
 - [Os caminhos da participação no governo Lula III](https://pp.nexojornal.com.br/opiniao/2025/02/13/os-caminhos-da-participacao-no-governo-lula-iii/)
-- [As escolas de samba e o encantamento do espaço público](https://pp.nexojornal.com.br/opiniao/2025/02/13/as-escolas-de-samba-e-o-encantamento-do-espaco-publico/)
 <!-- PP_LIST:END -->
 
