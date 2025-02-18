@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@pretagil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pretagil/)
 - [Hoje não quero salvar o mundo](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-nao-quero-salvar-o-mundo/)
 - [Danton Mello](https://gamarevista.uol.com.br/pessoas/questionario-proust/danton-mello/)
 - [Martha Nowill: puerpério e maternidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/martha-nowill/)
 - [Elaboradas cascatas](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/elaboradas-cascatas/)
-- [Sexo e Desorganização](https://gamarevista.uol.com.br/cultura/trecho-de-livro/sexo-e-desorganizacao/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
