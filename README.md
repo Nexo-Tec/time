@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o ovo está tão caro nos EUA. E como pode ficar no Brasil](https://www.nexojornal.com.br/grafico/2025/02/18/crise-do-ovo-nos-eua-impacto-brasil)
 - [Por que a Pixar demorou para fazer séries para streaming](https://www.nexojornal.com.br/expresso/2025/02/18/animacao-serie-pixar-ganhar-ou-perder)
 - [As pesquisas para transformar bactérias e algas em comida](https://www.nexojornal.com.br/externo/2025/02/18/pode-comer-bacteria-e-alga-pesquisa)
 - [A Europa e a Ucrânia escanteadas nas negociações de paz](https://www.nexojornal.com.br/expresso/2025/02/18/a-europa-e-a-ucrania-escanteadas-nas-negociacoes-de-paz)
 - [Estudos sobre condições de vida no Brasil dos anos 1930 influenciaram debates sobre o salário-mínimo](https://www.nexojornal.com.br/externo/2025/02/17/salario-minimo-origem-brasil-anos-1930)
-- [Como foi a campanha de ‘Ainda estou aqui’ por votos no Oscar](https://www.nexojornal.com.br/expresso/2025/02/17/campanha-oscar-ainda-estou-aqui)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
