@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A Europa e a Ucrânia escanteadas nas negociações de paz](https://www.nexojornal.com.br/expresso/2025/02/18/a-europa-e-a-ucrania-escanteadas-nas-negociacoes-de-paz)
 - [Estudos sobre condições de vida no Brasil dos anos 1930 influenciaram debates sobre o salário-mínimo](https://www.nexojornal.com.br/externo/2025/02/17/salario-minimo-origem-brasil-anos-1930)
 - [Como foi a campanha de ‘Ainda estou aqui’ por votos no Oscar](https://www.nexojornal.com.br/expresso/2025/02/17/campanha-oscar-ainda-estou-aqui)
 - [Para não dizer que não falei de Maria Rita Kehl](https://www.nexojornal.com.br/colunistas/2025/02/17/maria-rita-kehl-identitarismo)
 - [Desafios e avanços da diversidade no serviço público](https://www.nexojornal.com.br/debate/2025/02/17/diversidade-servico-publico-desafios)
-- [A psicologia do comportamento humano em aeroportos](https://www.nexojornal.com.br/externo/2025/02/17/aeroporto-ansiedade-comportamento-pessoas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
