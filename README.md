@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A marca ‘agro’: um projeto de poder para além de um conceito marketing](https://pp.nexojornal.com.br/opiniao/2025/02/19/a-marca-agro-um-projeto-de-poder-para-alem-de-um-conceito-marketing/)
+- [O papel da escola e o protagonismo dos jovens no enfrentamento da crise climática na Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/19/o-papel-da-escola-e-o-protagonismo-dos-jovens-no-enfrentamento-da-crise-climatica-na-amazonia/)
 - [Os Brics e o conflito entre a Rússia e a Ucrânia](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/19/os-brics-e-o-conflito-entre-a-russia-e-a-ucrania/)
 - [A judicialização da saúde: bioética e os desafios da equidade, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2025/02/17/a-judicializacao-da-saude-bioetica-e-os-desafios-da-equidade/)
 - [Jovens universitários/as e os desafios em conciliar estudo e trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/17/jovens-universitarios-as-e-os-desafios-em-conciliar-estudo-e-trabalho/)
-- [Por que as avaliações ainda provocam tanta insegurança nas organizações?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/17/por-que-as-avaliacoes-ainda-provocam-tanta-inseguranca-nas-organizacoes/)
-- [Como evitar a exposição das crianças à poluição do ar nas escolas](https://pp.nexojornal.com.br/glossario/2025/02/14/mitigacao-da-poluicao-do-ar-nas-escolas-e-em-comunidades-locais/)
 <!-- PP_LIST:END -->
 
