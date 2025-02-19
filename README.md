@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Juliette](https://gamarevista.uol.com.br/pessoas/questionario-proust/juliette/)
 - [CV: Pedro Lins](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-pedro-lins/)
 - [@pretagil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pretagil/)
 - [Hoje não quero salvar o mundo](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-nao-quero-salvar-o-mundo/)
 - [Danton Mello](https://gamarevista.uol.com.br/pessoas/questionario-proust/danton-mello/)
-- [Martha Nowill: puerpério e maternidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/martha-nowill/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
