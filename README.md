@@ -125,7 +125,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Pedro Lins](https://gamarevista.uol.com.br/sem-categoria/cv-pedro-lins/)
+- [CV: Pedro Lins](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-pedro-lins/)
 - [@pretagil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pretagil/)
 - [Hoje não quero salvar o mundo](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-nao-quero-salvar-o-mundo/)
 - [Danton Mello](https://gamarevista.uol.com.br/pessoas/questionario-proust/danton-mello/)
