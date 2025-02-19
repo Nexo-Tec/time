@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os Brics e o conflito entre a Rússia e a Ucrânia](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/19/os-brics-e-o-conflito-entre-a-russia-e-a-ucrania/)
 - [A judicialização da saúde: bioética e os desafios da equidade, em 12 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2025/02/17/a-judicializacao-da-saude-bioetica-e-os-desafios-da-equidade/)
 - [Jovens universitários/as e os desafios em conciliar estudo e trabalho](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/17/jovens-universitarios-as-e-os-desafios-em-conciliar-estudo-e-trabalho/)
 - [Por que as avaliações ainda provocam tanta insegurança nas organizações?](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/17/por-que-as-avaliacoes-ainda-provocam-tanta-inseguranca-nas-organizacoes/)
 - [Como evitar a exposição das crianças à poluição do ar nas escolas](https://pp.nexojornal.com.br/glossario/2025/02/14/mitigacao-da-poluicao-do-ar-nas-escolas-e-em-comunidades-locais/)
-- [Como a Educação Profissional e Tecnológica é distribuída no Brasil, segundo este estudo](https://pp.nexojornal.com.br/topico/2025/02/13/como-a-educacao-profissional-e-tecnologica-e-distribuida-no-brasil/)
 <!-- PP_LIST:END -->
 
