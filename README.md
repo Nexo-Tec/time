@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Conciliando desiguais: a mediação do STF no marco temporal](https://www.nexojornal.com.br/podcast/2025/02/19/marco-temporal-stf-votacao)
+- [A percepção sobre a passagem do tempo e a relação com consumo](https://www.nexojornal.com.br/ensaio/2025/02/19/tempo-consumo-neurociencia-comportamento-pesquisa)
 - [Por que o estado de saúde do papa Francisco preocupa](https://www.nexojornal.com.br/expresso/2025/02/19/papa-francisco-saude-pneumonia-bilateral)
 - [A especulação com criptomoedas, agora com apoio oficial](https://www.nexojornal.com.br/expresso/2025/02/19/especulacao-criptomoeda-milei-trump)
 - [A denúncia contra Bolsonaro por tentativa de golpe](https://www.nexojornal.com.br/expresso/2025/02/18/bolsonaro-denuncia-golpe-pgr-supremo)
-- [Estamos perto de uma IA que sonha com ovelhas elétricas?](https://www.nexojornal.com.br/externo/2025/02/18/ia-inteligencia-artificial-futuro-sonho-ovelha-eletrica)
-- [O indígena isolado que apareceu em uma comunidade ribeirinha](https://www.nexojornal.com.br/externo/2025/02/18/indigena-isolado-apareceu-em-comunidade-ribeirinha-rio-purus-amazonas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
