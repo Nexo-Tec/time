@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O ensino de sociologia e as questões de gênero e sexualidade](https://www.nexojornal.com.br/academico/2025/02/20/ideologia-de-genero-sexualidade-educacao-sociologia)
 - [Como o BBB ignora a saúde de fumantes e banaliza o assunto](https://www.nexojornal.com.br/externo/2025/02/20/bbb-fumar-cigarro-tabaco-fumantes-saude)
 - [O movimento de jogadores contra gramados sintéticos](https://www.nexojornal.com.br/expresso/2025/02/20/jogadores-gramados-sinteticos-futebol-brasileiro)
 - [Trama golpista: o que embasa a denúncia contra Bolsonaro](https://www.nexojornal.com.br/expresso/2025/02/19/denuncia-bolsonaro-pgr-provas)
 - [Os 5 filmes indicados ao Oscar de Melhor Animação](https://www.nexojornal.com.br/externo/2025/02/19/oscar-indicados-filme-animacao-2025-onde-assistir)
-- [Como o gatinho de ‘Flow’ se tornou um símbolo da Letônia](https://www.nexojornal.com.br/expresso/2025/02/19/gato-preto-flow-filme-animacao-cinema)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
