@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Juliette](https://gamarevista.uol.com.br/pessoas/questionario-proust/juliette/)
-- [CV: Pedro Lins](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-pedro-lins/)
-- [@pretagil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/pretagil/)
-- [Hoje não quero salvar o mundo](https://gamarevista.uol.com.br/colunistas/fernando-luna/hoje-nao-quero-salvar-o-mundo/)
-- [Danton Mello](https://gamarevista.uol.com.br/pessoas/questionario-proust/danton-mello/)
+- [Exposição “Ney Matogrosso”, no MIS-SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-ney-matogrosso-no-mis-sp/)
+- [O retorno de Charles Cosac, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-retorno-de-charles-cosac-na-piaui/)
+- [A animação letã “Flow”, indicada em duas categorias do Oscar](https://gamarevista.uol.com.br/achamos-que-vale/assistir/a-animacao-leta-flow-indicada-em-duas-categorias-do-oscar/)
+- [“Freshwater”, uma comédia de Virginia Woolf](https://gamarevista.uol.com.br/achamos-que-vale/ler/freshwater-uma-comedia-de-virginia-woolf/)
+- [O corpo na nova temporada de “É Tudo Culpa da Cultura”, de Michel Alcoforado](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-corpo-na-nova-temporada-de-e-tudo-culpa-da-cultura-de-michel-alcoforado/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
