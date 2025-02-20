@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Trama golpista: o que embasa a denúncia contra Bolsonaro](https://www.nexojornal.com.br/expresso/2025/02/19/denuncia-bolsonaro-pgr-provas)
+- [Os 5 filmes indicados ao Oscar de Melhor Animação](https://www.nexojornal.com.br/externo/2025/02/19/oscar-indicados-filme-animacao-2025-onde-assistir)
+- [Como o gatinho de ‘Flow’ se tornou um símbolo da Letônia](https://www.nexojornal.com.br/expresso/2025/02/19/gato-preto-flow-filme-animacao-cinema)
+- [A democracia americana está à beira do colapso](https://www.nexojornal.com.br/colunistas/2025/02/19/democracia-eua-trump-governo-colapso)
 - [Conciliando desiguais: a mediação do STF no marco temporal](https://www.nexojornal.com.br/podcast/2025/02/19/marco-temporal-stf-votacao)
-- [A percepção sobre a passagem do tempo e a relação com consumo](https://www.nexojornal.com.br/ensaio/2025/02/19/tempo-consumo-neurociencia-comportamento-pesquisa)
-- [Por que o estado de saúde do papa Francisco preocupa](https://www.nexojornal.com.br/expresso/2025/02/19/papa-francisco-saude-pneumonia-bilateral)
-- [A especulação com criptomoedas, agora com apoio oficial](https://www.nexojornal.com.br/expresso/2025/02/19/especulacao-criptomoeda-milei-trump)
-- [A denúncia contra Bolsonaro por tentativa de golpe](https://www.nexojornal.com.br/expresso/2025/02/18/bolsonaro-denuncia-golpe-pgr-supremo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
