@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é o brutalismo, arquitetura representada no Oscar](https://www.nexojornal.com.br/expresso/2025/02/21/filme-o-brutalista-arquitetura-brutalismo)
 - [Qual foi o papel dos kids pretos na tentativa de golpe](https://www.nexojornal.com.br/externo/2025/02/21/tentativa-de-golpe-kids-pretos-papel)
 - [O mundo-espelho de Naomi Klein e a era da desinformação](https://www.nexojornal.com.br/colunistas/2025/02/20/o-mundo-espelho-de-naomi-klein-e-a-era-da-desinformacao)
 - [Os EUA como base de ações contra Alexandre de Moraes](https://www.nexojornal.com.br/expresso/2025/02/20/processo-rumble-moraes-nos-eua)
 - [O território ucraniano tomado pela Rússia em 3 anos de guerra](https://www.nexojornal.com.br/grafico/2025/02/20/guerra-na-ucrania-territorios-conquistados-russia)
-- [O ensino de sociologia e as questões de gênero e sexualidade](https://www.nexojornal.com.br/academico/2025/02/20/ideologia-de-genero-sexualidade-educacao-sociologia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
