@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘A década da revolução perdida’: os protestos dos anos 2010](https://www.nexojornal.com.br/estante-trechos/2025/02/21/livro-a-decada-da-revolucao-perdida-vincent-bevins-trecho)
+- [O que já se sabe sobre a relação entre intestino e saúde mental](https://www.nexojornal.com.br/externo/2025/02/21/relacao-intestino-e-saude-mental)
 - [O que é o brutalismo, arquitetura representada no Oscar](https://www.nexojornal.com.br/expresso/2025/02/21/filme-o-brutalista-arquitetura-brutalismo)
 - [Qual foi o papel dos kids pretos na tentativa de golpe](https://www.nexojornal.com.br/externo/2025/02/21/tentativa-de-golpe-kids-pretos-papel)
 - [O mundo-espelho de Naomi Klein e a era da desinformação](https://www.nexojornal.com.br/colunistas/2025/02/20/o-mundo-espelho-de-naomi-klein-e-a-era-da-desinformacao)
-- [Os EUA como base de ações contra Alexandre de Moraes](https://www.nexojornal.com.br/expresso/2025/02/20/processo-rumble-moraes-nos-eua)
-- [O território ucraniano tomado pela Rússia em 3 anos de guerra](https://www.nexojornal.com.br/grafico/2025/02/20/guerra-na-ucrania-territorios-conquistados-russia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
