@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Booktube e Booktok podem ajudar nas salas de aula?](https://www.nexojornal.com.br/expresso/2025/02/21/livro-youtube-tiktok-educacao-aula-booktube-booktok-entrevista-diana-vieira)
-- [‘A década da revolução perdida’: os protestos dos anos 2010](https://www.nexojornal.com.br/estante-trechos/2025/02/21/livro-a-decada-da-revolucao-perdida-vincent-bevins-trecho)
-- [O que já se sabe sobre a relação entre intestino e saúde mental](https://www.nexojornal.com.br/externo/2025/02/21/relacao-intestino-e-saude-mental)
-- [O que é o brutalismo, arquitetura representada no Oscar](https://www.nexojornal.com.br/expresso/2025/02/21/filme-o-brutalista-arquitetura-brutalismo)
-- [Qual foi o papel dos kids pretos na tentativa de golpe](https://www.nexojornal.com.br/externo/2025/02/21/tentativa-de-golpe-kids-pretos-papel)
+- [Levantamentos mostram ampliação e diversificação de temas de interesse de pesquisadores no Brasil](https://www.nexojornal.com.br/externo/2025/02/21/temas-pesquisa-brasil)
+- [Os 90 anos da morte misteriosa de uma estrela de Hollywood](https://www.nexojornal.com.br/expresso/2025/02/21/assassinato-thelma-todd-misterio)
+- [Como criar políticas públicas de saúde mental infantojuvenil](https://www.nexojornal.com.br/ensaio/2025/02/21/politicas-publicas-saude-mental-infancia)
+- [Onde o Supremo pode escorregar ao julgar a trama golpista](https://www.nexojornal.com.br/expresso/2025/02/21/denuncia-bolsonaro-pgr-processo-legal-golpe)
+- [5 livros sobre crimes reais cometidos no Brasil](https://www.nexojornal.com.br/estante-favoritos/2025/02/21/livros-true-crime-brasil-danilo-cymrot-indicacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
