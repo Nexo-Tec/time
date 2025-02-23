@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Gustavo Dias: por que os brasileiros imigram?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gustavo-dias/)
 - [Escolhas e consequências](https://gamarevista.uol.com.br/colunistas/francisco-brito-cruz/escolhas-e-consequencias/)
 - [Homem com Homem](https://gamarevista.uol.com.br/cultura/trecho-de-livro/homem-com-homem/)
 - [Uma crônica-declaração](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-cronica-declaracao/)
 - [Exposição “Ney Matogrosso”, no MIS-SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/exposicao-ney-matogrosso-no-mis-sp/)
-- [O retorno de Charles Cosac, na Piauí](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-retorno-de-charles-cosac-na-piaui/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
