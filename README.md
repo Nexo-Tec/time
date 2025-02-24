@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Soberania ou subordinação? Brasil, DeepSeek e os rumos da IA](https://www.nexojornal.com.br/ensaio/2025/02/24/ia-inteligencia-artificial-brasil-tecnologia)
+- [Como respeitar as novas personalidades de adolescentes](https://www.nexojornal.com.br/externo/2025/02/24/mudanca-comportamento-adolescente-o-que-fazer)
+- [Quais os custos da abordagem de Trump para a Ucrânia](https://www.nexojornal.com.br/expresso/2025/02/24/reuniao-russia-eua-impacto-guerra-ucrania)
 - [A influência da China na produção de alimentos do Caribe](https://www.nexojornal.com.br/externo/2025/02/23/china-investe-caribe-producao-de-alimento)
 - [Crise em Moçambique: chance de mudança ou mais do mesmo?](https://www.nexojornal.com.br/ensaio/2025/02/23/crise-politica-mocambique-frelimo)
-- [Os ataques da extrema direita contra a Wikipedia](https://www.nexojornal.com.br/expresso/2025/02/23/wikipedia-extrema-direita-elon-musk)
-- [O que as cidades podem fazer para lidar com o calor extremo](https://www.nexojornal.com.br/expresso/2025/02/23/clima-calor-extremo-mudancas-climaticas-desigualdade-cidade-solucao)
-- [Levantamentos mostram ampliação e diversificação de temas de interesse de pesquisadores no Brasil](https://www.nexojornal.com.br/externo/2025/02/21/temas-pesquisa-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
