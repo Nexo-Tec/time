@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A maior vitória da extrema direita alemã desde o nazismo](https://www.nexojornal.com.br/expresso/2025/02/24/eleicoes-alemanha-extrema-direita-vitoria)
+- [A crise climática no Carnaval de rua de São Paulo](https://www.nexojornal.com.br/ensaio/2025/02/24/carnaval-crise-climatica-sao-paulo-opiniao)
+- [Por que o veganismo voltou a ser tendência no Japão](https://www.nexojornal.com.br/externo/2025/02/24/veganismo-japao)
 - [A mais completa árvore genealógica dos primatas](https://www.nexojornal.com.br/externo/2025/02/24/arvore-genealogica-primatas-completa)
 - [A influência do desemprego nos casos de violência doméstica](https://www.nexojornal.com.br/expresso/2025/02/24/desemprego-aumenta-violencia-domestica-impacto)
-- [4 pontos para entender o resultado da eleição na Alemanha](https://www.nexojornal.com.br/externo/2025/02/24/eleicao-alemanha-resultado-cenarios)
-- [Soberania ou subordinação? Brasil e os rumos da IA](https://www.nexojornal.com.br/ensaio/2025/02/24/ia-inteligencia-artificial-brasil-tecnologia)
-- [Como respeitar as novas personalidades de adolescentes](https://www.nexojornal.com.br/externo/2025/02/24/mudanca-comportamento-adolescente-o-que-fazer)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
