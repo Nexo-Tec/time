@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A denúncia contra Bolsonaro limpa o terreno para a direita?](https://www.nexojornal.com.br/podcast/2025/02/26/jair-bolsonaro-denuncia-pgr-candidato-direita-eleicoes-2026)
 - [Desaparecidos de Pinochet: as valas que a ditadura deixou](https://www.nexojornal.com.br/externo/2025/02/26/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos)
 - [‘Marketing do terror estimula ações como a de policial reformado’](https://www.nexojornal.com.br/entrevista/2025/02/26/caso-igor-melo-pm-atira-em-passageiro-de-mototaxi-jacqueline-muniz-entrevista)
 - [Por que estes artistas gravaram um álbum silencioso](https://www.nexojornal.com.br/expresso/2025/02/26/musica-protesto-contra-ia-is-this-what-we-want)
 - [O perfil das pessoas com ensino superior no Brasil](https://www.nexojornal.com.br/grafico/2025/02/26/censo-2022-pessoas-com-ensino-superior-perfil)
-- [O percentual de jovens que não estudam no Brasil](https://www.nexojornal.com.br/grafico/2025/02/26/censo-2022-jovens-que-nao-estudam-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
