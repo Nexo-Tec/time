@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que estes artistas gravaram um álbum silencioso](https://www.nexojornal.com.br/expresso/2025/02/26/musica-protesto-contra-ia-is-this-what-we-want)
 - [O perfil das pessoas com ensino superior no Brasil](https://www.nexojornal.com.br/grafico/2025/02/26/censo-2022-pessoas-com-ensino-superior-perfil)
 - [O percentual de jovens que não estudam no Brasil](https://www.nexojornal.com.br/grafico/2025/02/26/censo-2022-jovens-que-nao-estudam-no-brasil)
 - [O que são os minerais raros que despertam cobiça na Ucrânia](https://www.nexojornal.com.br/expresso/2025/02/25/ucrania-minerais-raros-guerra-russia-eua)
 - [Dramas palestino e israelense não se comparam. Coexistem](https://www.nexojornal.com.br/colunistas/2025/02/25/guerra-israel-palestina-situacao-dos-paises)
-- [Troca no ministério: o que marca a gestão Lula na saúde](https://www.nexojornal.com.br/expresso/2025/02/25/ministerio-da-saude-troca-alexandre-padilha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
