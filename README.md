@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que são os minerais raros que despertam cobiça na Ucrânia](https://www.nexojornal.com.br/expresso/2025/02/25/ucrania-minerais-raros-guerra-russia-eua)
+- [Dramas palestino e israelense não se comparam. Coexistem](https://www.nexojornal.com.br/colunistas/2025/02/25/guerra-israel-palestina-situacao-dos-paises)
 - [Troca no ministério: o que marca a gestão Lula na saúde](https://www.nexojornal.com.br/expresso/2025/02/25/ministerio-da-saude-troca-alexandre-padilha)
 - [Como Bob Dylan reinventou o folk com a guitarra elétrica](https://www.nexojornal.com.br/expresso/2025/02/25/musica-bob-dylan-guitarra-eletrica-folk)
 - [A chegada ao Supremo do lobby do potássio na Amazônia](https://www.nexojornal.com.br/externo/2025/02/25/lei-marco-temporal-amazonia-exploracao-potassio)
-- [A exposição que mostra o histórico da transformação do tarô](https://www.nexojornal.com.br/expresso/2025/02/25/cartas-taro-tarot-historia-origem-exposicao)
-- [A maior vitória da extrema direita alemã desde o nazismo](https://www.nexojornal.com.br/expresso/2025/02/24/eleicoes-alemanha-extrema-direita-vitoria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
