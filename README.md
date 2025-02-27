@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desaparecidos de Pinochet: a briga forense](https://www.nexojornal.com.br/externo/2025/02/27/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos-parte-2)
 - [6 filmes para apreciar a atuação de Gene Hackman](https://www.nexojornal.com.br/expresso/2025/02/27/morre-gene-hackman-filmes)
 - [Quem é o carregador de um dos principais bonecos de Olinda](https://www.nexojornal.com.br/externo/2025/02/27/boneco-olinda-homem-da-meia-noite-carregador)
 - [A volta do festival musical que virou sinônimo de trambique](https://www.nexojornal.com.br/expresso/2025/02/27/fyre-festival-2-historia-polemica)
 - [A história do leque: do Oriente antigo a símbolo LGBTI+](https://www.nexojornal.com.br/expresso/2025/02/26/carnaval-leque-historia)
-- [Como a população preta e parda com ensino superior cresceu](https://www.nexojornal.com.br/expresso/2025/02/26/dados-censo-2022-pretos-e-pardos-graduacao-ensino-superior)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
