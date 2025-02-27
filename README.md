@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A volta do festival musical que virou sinônimo de trambique](https://www.nexojornal.com.br/expresso/2025/02/27/fyre-festival-2-historia-polemica)
 - [A história do leque: do Oriente antigo a símbolo LGBTI+](https://www.nexojornal.com.br/expresso/2025/02/26/carnaval-leque-historia)
 - [Como a população preta e parda com ensino superior cresceu](https://www.nexojornal.com.br/expresso/2025/02/26/dados-censo-2022-pretos-e-pardos-graduacao-ensino-superior)
 - [A denúncia contra Bolsonaro limpa o terreno para a direita?](https://www.nexojornal.com.br/podcast/2025/02/26/jair-bolsonaro-denuncia-pgr-candidato-direita-eleicoes-2026)
 - [Desaparecidos de Pinochet: as valas que a ditadura deixou](https://www.nexojornal.com.br/externo/2025/02/26/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos)
-- [‘Marketing do terror estimula ações como a de policial reformado’](https://www.nexojornal.com.br/entrevista/2025/02/26/caso-igor-melo-pm-atira-em-passageiro-de-mototaxi-jacqueline-muniz-entrevista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
