@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Identitários são sempre os outros](https://gamarevista.uol.com.br/colunistas/fabiana-moraes/identitarios-sao-sempre-os-outros/)
-- [@hunterschafer](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/hunterschafer/)
-- [Identitarismo branco e a nostalgia das hierarquias](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/identitarismo-branco-e-a-nostalgia-das-hierarquias/)
-- [Geladinho e nutritivo: um smoothie para se refrescar no calorão](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/geladinho-e-nutritivo-um-smoothie-para-se-refrescar-no-calorao/)
-- [Gustavo Dias: por que os brasileiros imigram?](https://gamarevista.uol.com.br/podcast/podcast-da-semana/gustavo-dias/)
+- [Timothée Chalamet como Bob Dylan em “Um Completo Desconhecido”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/timothee-chalamet-como-bob-dylan-em-um-completo-desconhecido/)
+- [Os 100 anos da revista New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-100-anos-da-revista-new-yorker/)
+- [Um retrato vibrante da cultura do passinho, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/um-retrato-vibrante-da-cultura-do-passinho-na-netflix/)
+- [“Baile à la Baiana”, de Seu Jorge](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/baile-a-la-baiana-de-seu-jorge/)
+- [“O Homem-Cão”, nos cinemas](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-homem-cao-nos-cinemas/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
