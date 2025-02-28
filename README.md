@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Desaparecidos de Pinochet: os erros ao identificar corpos](https://www.nexojornal.com.br/externo/2025/02/28/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos-parte-3)
 - [O que você sabe sobre os sambas-enredo de 2025?](https://www.nexojornal.com.br/interativo/2025/02/28/teste-sambas-enredo-2025)
 - [Os bastidores da trama golpista através do Pingos nos Is](https://www.nexojornal.com.br/externo/2025/02/28/tentativa-golpe-influencia-jovem-pan-programa-pingos-nos-is)
 - [5 livros para conhecer a gastronomia brasileira](https://www.nexojornal.com.br/estante-favoritos/2025/02/28/livros-gastronomia-brasileira-alexandre-staut-indicacao)
 - [‘Ausência de destino’: relatos de um campo de extermínio nazista](https://www.nexojornal.com.br/estante-trechos/2025/02/28/livro-imre-kertesz-ausencia-de-destino-nobel-trecho)
-- [Onde assistir aos filmes indicados ao Oscar de 2025](https://www.nexojornal.com.br/servico/2025/02/28/onde-assistir-aos-filmes-indicados-ao-oscar-de-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
