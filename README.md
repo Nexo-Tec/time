@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que você sabe sobre os sambas-enredo de 2025?](https://www.nexojornal.com.br/interativo/2025/02/28/teste-sambas-enredo-2025)
+- [Os bastidores da trama golpista através do Pingos nos Is](https://www.nexojornal.com.br/externo/2025/02/28/tentativa-golpe-influencia-jovem-pan-programa-pingos-nos-is)
+- [5 livros para conhecer a gastronomia brasileira](https://www.nexojornal.com.br/estante-favoritos/2025/02/28/livros-gastronomia-brasileira-alexandre-staut-indicacao)
+- [‘Ausência de destino’: relatos de um campo de extermínio nazista](https://www.nexojornal.com.br/estante-trechos/2025/02/28/livro-imre-kertesz-ausencia-de-destino-nobel-trecho)
 - [Onde assistir aos filmes indicados ao Oscar de 2025](https://www.nexojornal.com.br/servico/2025/02/28/onde-assistir-aos-filmes-indicados-ao-oscar-de-2025)
-- [Os neologismos em comunidades de jogos online](https://www.nexojornal.com.br/academico/2025/02/28/jogo-online-league-of-legends-girias-neologismos-pesquisa)
-- [Vaivém das emendas: como elas ficam após o aval de Dino](https://www.nexojornal.com.br/expresso/2025/02/27/dino-libera-emendas-parlamentar-como-fica)
-- [O que provocou a disparada no preço do café brasileiro](https://www.nexojornal.com.br/video/2025/02/27/preco-do-cafe-no-brasil)
-- [Como buscar conforto térmico nos blocos de Carnaval](https://www.nexojornal.com.br/servico/2025/02/27/como-amenizar-calor-carnaval-bloco)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
