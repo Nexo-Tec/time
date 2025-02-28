@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como se dão as PPPs habitacionais em São Paulo](https://pp.nexojornal.com.br/academico/2025/02/28/a-falacia-da-eficiencia-as-ppps-habitacionais-em-sao-paulo/)
+- [Explorando a Amazônia: economia, mercados ilegais e políticas públicas](https://pp.nexojornal.com.br/bibliografia-basica/2025/02/28/explorando-a-amazonia-economia-mercados-ilegais-e-politicas-publicas/)
 - [Um século de proibição nas Américas: controle de drogas no México, Colômbia e Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/27/um-seculo-de-proibicao-nas-americas-controle-de-drogas-no-mexico-colombia-e-brasil/)
 - [Como a interseccionalidade molda a insegurança alimentar](https://pp.nexojornal.com.br/academico/2025/02/19/como-a-interseccionalidade-molda-a-inseguranca-alimentar/)
 - [A marca ‘agro’: um projeto de poder para além de um conceito marketing](https://pp.nexojornal.com.br/opiniao/2025/02/19/a-marca-agro-um-projeto-de-poder-para-alem-de-um-conceito-marketing/)
-- [O papel da escola e o protagonismo dos jovens no enfrentamento da crise climática na Amazônia](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/19/o-papel-da-escola-e-o-protagonismo-dos-jovens-no-enfrentamento-da-crise-climatica-na-amazonia/)
-- [Os Brics e o conflito entre a Rússia e a Ucrânia](https://pp.nexojornal.com.br/ponto-de-vista/2025/02/19/os-brics-e-o-conflito-entre-a-russia-e-a-ucrania/)
 <!-- PP_LIST:END -->
 
