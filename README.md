@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como é o Carnaval tradicional nestas 5 cidades brasileiras](https://www.nexojornal.com.br/grafico/2025/03/01/carnaval-brasil-costumes-cidades-do-interior)
 - [Como Trump fez da reunião com Zelensky um reality show](https://www.nexojornal.com.br/expresso/2025/02/28/eua-e-ucrania-reuniao-trump-zelensky-briga)
 - [A história dos conclaves para eleger um novo papa](https://www.nexojornal.com.br/externo/2025/02/28/escolha-papa-como-e-filme-conclave)
 - [Por que o Google vai desativar o envio de códigos por SMS](https://www.nexojornal.com.br/expresso/2025/02/28/google-nao-envia-mais-codigo-por-sms)
 - [Desaparecidos de Pinochet: os erros ao identificar corpos](https://www.nexojornal.com.br/externo/2025/02/28/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos-parte-3)
-- [O que você sabe sobre os sambas-enredo de 2025?](https://www.nexojornal.com.br/interativo/2025/02/28/teste-sambas-enredo-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
