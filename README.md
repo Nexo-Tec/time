@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A homenagem a Xica Manicongo no Carnaval do Rio](https://www.nexojornal.com.br/expresso/2025/03/01/carnaval-rio-xica-manicongo-quem-foi-samba-enredo-paraiso-do-tuiuti)
 - [A busca por África e os processos de reafricanização](https://www.nexojornal.com.br/ensaio/2025/03/01/reencontro-ancestral-africa-ancestralidade-africana)
 - [‘Coalizão frouxa de Lula 3 exibe problemas conhecidos do PT’](https://www.nexojornal.com.br/entrevista/2025/03/01/governo-lula-reforma-ministerial-entrevista-marcus-mello)
 - [Como é o Carnaval tradicional nestas 5 cidades brasileiras](https://www.nexojornal.com.br/grafico/2025/03/01/carnaval-brasil-costumes-cidades-do-interior)
 - [Como Trump fez da reunião com Zelensky um reality show](https://www.nexojornal.com.br/expresso/2025/02/28/eua-e-ucrania-reuniao-trump-zelensky-briga)
-- [A história dos conclaves para eleger um novo papa](https://www.nexojornal.com.br/externo/2025/02/28/escolha-papa-como-e-filme-conclave)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
