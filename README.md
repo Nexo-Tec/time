@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Histórico: ‘Ainda estou aqui’ dá primeiro Oscar ao Brasil](https://www.nexojornal.com.br/expresso/2025/03/03/filme-brasileiro-ainda-estou-aqui-ganha-oscar)
 - [Desaparecidos de Pinochet: a procura continua](https://www.nexojornal.com.br/externo/2025/03/02/ditadura-chile-pinochet-desaparecidos-plano-nacional-de-busca-por-corpos-parte-4)
 - [Como indígenas ajudaram na obra do linhão de Tucuruí](https://www.nexojornal.com.br/externo/2025/03/02/indigenas-ajudam-obra-linhao-de-tucurui)
 - [O estouro da bolha da inteligência artificial nas startups](https://www.nexojornal.com.br/ensaio/2025/03/02/ia-inteligencia-artificial-em-startups)
 - [‘Movimentos sociais de direita são recentes na bibliografia’](https://www.nexojornal.com.br/entrevista/2025/03/02/protesto-de-rua-e-movimentos-sociais-angela-alonso-entrevista)
-- [A homenagem a Xica Manicongo no Carnaval do Rio](https://www.nexojornal.com.br/expresso/2025/03/01/carnaval-rio-xica-manicongo-quem-foi-samba-enredo-paraiso-do-tuiuti)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
