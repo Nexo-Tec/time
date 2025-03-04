@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [MAGA sem liberdade, jornalistas, artistas ou cientistas?](https://www.nexojornal.com.br/colunistas/2025/03/03/liberdade-eua-jornalistas-artistas-cientistas)
+- [5 pontos para entender a violência contra crianças no Brasil](https://www.nexojornal.com.br/expresso/2025/03/03/dados-estudo-violencia-criancas-brasil)
 - [Política no Oscar: 5 manifestações que marcaram a cerimônia](https://www.nexojornal.com.br/expresso/2025/03/03/oscar-manifestacoes-politicas-cerimonia)
 - [A carreira de Sean Baker até a consagração no Oscar](https://www.nexojornal.com.br/expresso/2025/03/03/quem-e-sean-baker-oscar-anora)
 - [13 indicações, 2 prêmios: o saldo de ‘Emilia Pérez’ no Oscar](https://www.nexojornal.com.br/externo/2025/03/03/indicacoes-premios-emilia-perez-oscar)
-- [Os países vencedores do Oscar de Melhor Filme Internacional](https://www.nexojornal.com.br/grafico/2025/03/03/ainda-estou-aqui-numero-oscar-por-pais)
-- [Histórico: ‘Ainda estou aqui’ dá primeiro Oscar ao Brasil](https://www.nexojornal.com.br/expresso/2025/03/03/filme-brasileiro-ainda-estou-aqui-ganha-oscar)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
