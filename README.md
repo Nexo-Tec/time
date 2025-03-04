@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@alceuvalenca](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alceuvalenca/)
 - [Simoninha: Carnaval de rua](https://gamarevista.uol.com.br/podcast/podcast-da-semana/simoninha/)
 - [Leque](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/leque/)
 - [O Ódio pela Poesia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-odio-pela-poesia/)
 - [Timothée Chalamet como Bob Dylan em “Um Completo Desconhecido”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/timothee-chalamet-como-bob-dylan-em-um-completo-desconhecido/)
-- [Os 100 anos da revista New Yorker](https://gamarevista.uol.com.br/achamos-que-vale/ler/os-100-anos-da-revista-new-yorker/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
