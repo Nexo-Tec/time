@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o calor aumenta a infestação de ratos nas cidades](https://www.nexojornal.com.br/externo/2025/03/05/calor-extremo-aumenta-numero-de-ratos-nas-cidades)
 - [Expoente do movimento antirracista, Abdias Nascimento aliou arte e política](https://www.nexojornal.com.br/externo/2025/03/04/antirracista-abdias-nascimento-arte-e-politica)
 - [O time inglês que ensina crianças com Down a jogar futebol](https://www.nexojornal.com.br/expresso/2025/03/04/criancas-down-futebol-brentford)
 - [A devassa de Elon Musk na máquina pública americana](https://www.nexojornal.com.br/expresso/2025/03/04/eua-elon-musk-governo-trump-doge-o-que-e)
 - [MAGA sem liberdade, jornalistas, artistas ou cientistas?](https://www.nexojornal.com.br/colunistas/2025/03/03/liberdade-eua-jornalistas-artistas-cientistas)
-- [5 pontos para entender a violência contra crianças no Brasil](https://www.nexojornal.com.br/expresso/2025/03/03/dados-estudo-violencia-criancas-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
