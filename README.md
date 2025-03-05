@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O resultado do Carnaval de 2025 em São Paulo](https://www.nexojornal.com.br/grafico/2025/03/05/resultado-carnaval-sao-paulo-rosas-de-ouro)
+- [‘A arte da negociação’ aplicada ao governo de Donald Trump](https://www.nexojornal.com.br/podcast/2025/03/05/arte-da-negociacao-donald-trump-governo)
 - [Por que o calor aumenta a infestação de ratos nas cidades](https://www.nexojornal.com.br/externo/2025/03/05/calor-extremo-aumenta-numero-de-ratos-nas-cidades)
 - [Expoente do movimento antirracista, Abdias Nascimento aliou arte e política](https://www.nexojornal.com.br/externo/2025/03/04/antirracista-abdias-nascimento-arte-e-politica)
 - [O time inglês que ensina crianças com Down a jogar futebol](https://www.nexojornal.com.br/expresso/2025/03/04/criancas-down-futebol-brentford)
-- [A devassa de Elon Musk na máquina pública americana](https://www.nexojornal.com.br/expresso/2025/03/04/eua-elon-musk-governo-trump-doge-o-que-e)
-- [MAGA sem liberdade, jornalistas, artistas ou cientistas?](https://www.nexojornal.com.br/colunistas/2025/03/03/liberdade-eua-jornalistas-artistas-cientistas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
