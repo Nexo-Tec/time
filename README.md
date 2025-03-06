@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [As Filhas de Safo](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-filhas-de-safo/)
-- [@alceuvalenca](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/alceuvalenca/)
-- [Simoninha: Carnaval de rua](https://gamarevista.uol.com.br/podcast/podcast-da-semana/simoninha/)
-- [Leque](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/leque/)
-- [O Ódio pela Poesia](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-odio-pela-poesia/)
+- [Despedida do Carnaval 2025 pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/despedida-do-carnaval-2025-pelo-brasil/)
+- [O documentário “Larissa: O Outro Lado de Anitta”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-larissa-o-outro-lado-de-anitta-na-netflix/)
+- [A busca frustrada pela autenticidade no romance “As Perfeições”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-busca-frustrada-pela-autenticidade-no-romance-as-perfeicoes/)
+- [“Luedji Luna canta Sade”, na Casa Natura Musical, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/luedji-luna-canta-sade-na-casa-natura-musical-em-sp/)
+- [A afinidade entre arquitetos em “Lina por Aldo”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-afinidade-entre-arquitetos-em-lina-por-aldo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
