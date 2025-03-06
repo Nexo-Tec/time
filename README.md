@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como é a casa de ‘Ainda estou aqui’ que pode virar museu](https://www.nexojornal.com.br/expresso/2025/03/05/casa-filme-ainda-estou-aqui-urca-rj)
+- [Só dá para entender Trump a partir do conflito com a China](https://www.nexojornal.com.br/colunistas/2025/03/05/so-da-para-entender-trump-a-partir-do-conflito-com-a-china)
 - [A 15ª vitória da Beija-Flor no Carnaval do Rio de Janeiro](https://www.nexojornal.com.br/grafico/2025/03/05/resultados-carnaval-rio-janeiro-beija-flor)
 - [O resultado do Carnaval de 2025 em São Paulo](https://www.nexojornal.com.br/grafico/2025/03/05/resultado-carnaval-sao-paulo-rosas-de-ouro)
 - [‘A arte da negociação’ aplicada ao governo de Donald Trump](https://www.nexojornal.com.br/podcast/2025/03/05/arte-da-negociacao-donald-trump-governo)
-- [Por que o calor aumenta a infestação de ratos nas cidades](https://www.nexojornal.com.br/externo/2025/03/05/calor-extremo-aumenta-numero-de-ratos-nas-cidades)
-- [Expoente do movimento antirracista, Abdias Nascimento aliou arte e política](https://www.nexojornal.com.br/externo/2025/03/04/antirracista-abdias-nascimento-arte-e-politica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
