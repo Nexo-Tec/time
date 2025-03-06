@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [A centralidade da família no debate político brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/a-centralidade-da-familia-no-debate-politico-brasileiro/)
 - [O papel decisivo da liderança escolar na aprendizagem de meninas](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/o-papel-decisivo-da-lideranca-escolar-na-aprendizagem-de-meninas/)
 - [Assédio judicial contra jornalistas em contextos eleitorais, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2025/02/28/assedio-judicial-contra-jornalistas-em-contextos-eleitorais/)
 - [Como se dão as PPPs habitacionais em São Paulo](https://pp.nexojornal.com.br/academico/2025/02/28/a-falacia-da-eficiencia-as-ppps-habitacionais-em-sao-paulo/)
 - [Explorando a Amazônia: economia, mercados ilegais e políticas públicas](https://pp.nexojornal.com.br/bibliografia-basica/2025/02/28/explorando-a-amazonia-economia-mercados-ilegais-e-politicas-publicas/)
-- [Um século de proibição nas Américas: controle de drogas no México, Colômbia e Brasil](https://pp.nexojornal.com.br/linha-do-tempo/2025/02/27/um-seculo-de-proibicao-nas-americas-controle-de-drogas-no-mexico-colombia-e-brasil/)
 <!-- PP_LIST:END -->
 
