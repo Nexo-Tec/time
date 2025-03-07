@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As consequências do encalhe do maior iceberg do mundo](https://www.nexojornal.com.br/expresso/2025/03/07/maior-iceberg-do-mundo-encalhou)
 - [A semana da valorização das mulheres nas escolas](https://www.nexojornal.com.br/externo/2025/03/07/dia-da-mulher-nas-escolas-calendario-escolar-2025)
 - [A opacidade das ações voltadas a mulheres no Orçamento](https://www.nexojornal.com.br/externo/2025/03/07/politicas-publicas-mulher-orcamento)
 - [‘Cadelas de aluguel’: sofrimento, raiva e vingança](https://www.nexojornal.com.br/estante-trechos/2025/03/07/livro-cadelas-de-aluguel-dahlia-de-la-cerda-trecho)
 - [Por que a Conmebol é tão leniente com casos de racismo](https://www.nexojornal.com.br/expresso/2025/03/07/palmeiras-racismo-luighi-posicionamento-conmebol)
-- [Como as projeções do PIB variaram em 2024. E o que esperar de 2025](https://www.nexojornal.com.br/expresso/2025/03/07/economia-pib-brasil-2024-projecao-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
