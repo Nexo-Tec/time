@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O colapso da Technicolor. E seus impactos no cinema](https://www.nexojornal.com.br/expresso/2025/03/06/cinema-edicao-technicolor-falencia-impacto-no-mercado)
+- [O que esperar de Gleisi Hoffmann na articulação política](https://www.nexojornal.com.br/expresso/2025/03/06/governo-lula-o-que-esperar-gleisi-hoffmann-ministra-secretaria-de-relacoes-institucionais)
+- [Entre textos e telas: como educar para um uso seguro e saudável?](https://www.nexojornal.com.br/colunistas/2025/03/06/educacao-midiatica-uso-de-telas-saudavel-infancia)
 - [O time de futebol sergipano que foi à Justiça contra as bets](https://www.nexojornal.com.br/externo/2025/03/06/o-time-de-futebol-sergipano-que-foi-a-justica-contra-as-bets)
 - [O retorno da série que ensaia situações reais com pessoas comuns](https://www.nexojornal.com.br/expresso/2025/03/06/serie-o-ensaio-the-rehearsal-segunda-temporada)
-- [Como Milei expôs a rixa entre economistas brasileiros](https://www.nexojornal.com.br/externo/2025/03/06/economia-milei-premio-economista-do-ano-brasil)
-- [O retorno de Bong Joon-ho como diretor após ‘Parasita’](https://www.nexojornal.com.br/expresso/2025/03/06/parasita-diretor-filme-mickey-17-bong-joon-ho)
-- [O que o Brasil tem a ganhar e perder com a guerra comercial](https://www.nexojornal.com.br/expresso/2025/03/06/brasil-eua-tarifa-guerra-comercial-trump-impacto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
