@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O show do Pink Floyd em Pompeia, de volta aos cinemas](https://www.nexojornal.com.br/expresso/2025/03/07/show-pink-floyd-pompeia-cinema)
+- [5 livros para deixar as crianças mais reflexivas](https://www.nexojornal.com.br/estante-favoritos/2025/03/07/livro-que-estimula-crianca-refletir-tais-fagundes)
+- [A vida secreta das famílias de ursos polares](https://www.nexojornal.com.br/externo/2025/03/07/urso-polar-filhote-vive-na-toca)
+- [Como agem as famílias vítimas da violência do Estado](https://www.nexojornal.com.br/academico/2025/03/07/violencia-de-estado)
 - [Como a Europa tenta se proteger diante do afastamento dos EUA](https://www.nexojornal.com.br/expresso/2025/03/07/relacao-europa-eua-governo-trump-2025)
-- [PIB: o que moveu a atividade econômica do Brasil em 2024](https://www.nexojornal.com.br/expresso/2025/03/07/pib-brasil-2024)
-- [O colapso da Technicolor. E seus impactos no cinema](https://www.nexojornal.com.br/expresso/2025/03/06/cinema-edicao-technicolor-falencia-impacto-no-mercado)
-- [O que esperar de Gleisi Hoffmann na articulação política](https://www.nexojornal.com.br/expresso/2025/03/06/governo-lula-o-que-esperar-gleisi-hoffmann-ministra-secretaria-de-relacoes-institucionais)
-- [Entre textos e telas: como educar para um uso seguro e saudável?](https://www.nexojornal.com.br/colunistas/2025/03/06/educacao-midiatica-uso-de-telas-saudavel-infancia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
