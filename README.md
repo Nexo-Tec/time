@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [PIB: o que moveu a atividade econômica do Brasil em 2024](https://www.nexojornal.com.br/expresso/2025/03/07/pib-brasil-2024)
 - [O colapso da Technicolor. E seus impactos no cinema](https://www.nexojornal.com.br/expresso/2025/03/06/cinema-edicao-technicolor-falencia-impacto-no-mercado)
 - [O que esperar de Gleisi Hoffmann na articulação política](https://www.nexojornal.com.br/expresso/2025/03/06/governo-lula-o-que-esperar-gleisi-hoffmann-ministra-secretaria-de-relacoes-institucionais)
 - [Entre textos e telas: como educar para um uso seguro e saudável?](https://www.nexojornal.com.br/colunistas/2025/03/06/educacao-midiatica-uso-de-telas-saudavel-infancia)
 - [O time de futebol sergipano que foi à Justiça contra as bets](https://www.nexojornal.com.br/externo/2025/03/06/o-time-de-futebol-sergipano-que-foi-a-justica-contra-as-bets)
-- [O retorno da série que ensaia situações reais com pessoas comuns](https://www.nexojornal.com.br/expresso/2025/03/06/serie-o-ensaio-the-rehearsal-segunda-temporada)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
