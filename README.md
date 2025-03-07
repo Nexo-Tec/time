@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Cadelas de aluguel’: sofrimento, raiva e vingança](https://www.nexojornal.com.br/estante-trechos/2025/03/07/livro-cadelas-de-aluguel-dahlia-de-la-cerda-trecho)
+- [Por que a Conmebol é tão leniente com casos de racismo](https://www.nexojornal.com.br/expresso/2025/03/07/palmeiras-racismo-luighi-posicionamento-conmebol)
+- [Como as projeções do PIB variaram em 2024. E o que esperar de 2025](https://www.nexojornal.com.br/expresso/2025/03/07/economia-pib-brasil-2024-projecao-2025)
 - [O show do Pink Floyd em Pompeia, de volta aos cinemas](https://www.nexojornal.com.br/expresso/2025/03/07/show-pink-floyd-pompeia-cinema)
 - [5 livros para deixar as crianças mais reflexivas](https://www.nexojornal.com.br/estante-favoritos/2025/03/07/livro-que-estimula-crianca-refletir-tais-fagundes)
-- [A vida secreta das famílias de ursos polares](https://www.nexojornal.com.br/externo/2025/03/07/urso-polar-filhote-vive-na-toca)
-- [Como agem as famílias vítimas da violência do Estado](https://www.nexojornal.com.br/academico/2025/03/07/violencia-de-estado)
-- [Como a Europa tenta se proteger diante do afastamento dos EUA](https://www.nexojornal.com.br/expresso/2025/03/07/relacao-europa-eua-governo-trump-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
