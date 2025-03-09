@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [As consequências do encalhe do maior iceberg do mundo](https://www.nexojornal.com.br/expresso/2025/03/07/maior-iceberg-do-mundo-encalhou)
-- [A semana da valorização das mulheres nas escolas](https://www.nexojornal.com.br/externo/2025/03/07/dia-da-mulher-nas-escolas-calendario-escolar-2025)
-- [A opacidade das ações voltadas a mulheres no Orçamento](https://www.nexojornal.com.br/externo/2025/03/07/politicas-publicas-mulher-orcamento)
-- [‘Cadelas de aluguel’: sofrimento, raiva e vingança](https://www.nexojornal.com.br/estante-trechos/2025/03/07/livro-cadelas-de-aluguel-dahlia-de-la-cerda-trecho)
-- [Por que a Conmebol é tão leniente com casos de racismo](https://www.nexojornal.com.br/expresso/2025/03/07/palmeiras-racismo-luighi-posicionamento-conmebol)
+- [Estudo busca explicar por que Alzheimer é mais comum em mulheres](https://www.nexojornal.com.br/externo/2025/03/09/mulher-chance-maior-alzheimer-motivo-estudo)
+- [Como o amianto seguiu sendo minerado mesmo banido no país](https://www.nexojornal.com.br/expresso/2025/03/09/stf-votacao-amianto-minerio-banido-lei-goias)
+- [Apagamento pela IA: quem controla nossa memória?](https://www.nexojornal.com.br/ensaio/2025/03/09/ia-apagamento-quem-controla-memoria-opiniao)
+- [Além da COP: as pautas ambientais para olhar em 2025](https://www.nexojornal.com.br/externo/2025/03/09/meio-ambiente-clima-eventos-2025)
+- [O que dizem as defesas do denunciados pela trama golpista](https://www.nexojornal.com.br/expresso/2025/03/09/defesa-bolsonaro-aliados-tentativa-de-golpe-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
