@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Carol Tilkian: o relacionamento amoroso e a crise de atenção](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-tilkian/)
 - [Bruno Fagundes](https://gamarevista.uol.com.br/pessoas/questionario-proust/bruno-fagundes/)
 - [Despedida do Carnaval 2025 pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/despedida-do-carnaval-2025-pelo-brasil/)
 - [O documentário “Larissa: O Outro Lado de Anitta”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-larissa-o-outro-lado-de-anitta-na-netflix/)
 - [A busca frustrada pela autenticidade no romance “As Perfeições”](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-busca-frustrada-pela-autenticidade-no-romance-as-perfeicoes/)
-- [“Luedji Luna canta Sade”, na Casa Natura Musical, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/luedji-luna-canta-sade-na-casa-natura-musical-em-sp/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
