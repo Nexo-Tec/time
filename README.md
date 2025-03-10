@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A ingestão generalizada de álcool por animais](https://www.nexojornal.com.br/externo/2025/03/10/animais-bebados-alcool-frutas-etanol-natural)
+- [A mulher que denunciou o tráfico da janela e virou filme](https://www.nexojornal.com.br/expresso/2025/03/10/filme-vitoria-historia-mulher-denunciou-trafico-da-janela)
+- [Por que estes planetas são comparados a algodão-doce](https://www.nexojornal.com.br/expresso/2025/03/10/planetas-que-parecem-algodao-doce)
 - [O chamado à ação na carta do presidente da COP30](https://www.nexojornal.com.br/externo/2025/03/10/cop30-carta-presidente-andre-correa-do-lago)
 - [Qual a efetividade de zerar o imposto de importação de comida](https://www.nexojornal.com.br/expresso/2025/03/09/governo-zera-imposto-de-alimentos-impacto)
-- [‘Nexo’ lança série especial sobre pessoas no serviço público](https://www.nexojornal.com.br/expresso/2025/03/09/servico-publico-gestao-funcionario-publico-movimento-pessoas-a-frente)
-- [Ensino de direitos humanos e sexualidade protege as escolas](https://www.nexojornal.com.br/ensaio/2025/03/09/educacao-sexual-direitos-humanos-protege-escolas)
-- [Estudo busca explicar por que Alzheimer é mais comum em mulheres](https://www.nexojornal.com.br/externo/2025/03/09/mulher-chance-maior-alzheimer-motivo-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
