@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Qual a efetividade de zerar o imposto de importação de comida](https://www.nexojornal.com.br/expresso/2025/03/09/governo-zera-imposto-de-alimentos-impacto)
+- [‘Nexo’ lança série especial sobre pessoas no serviço público](https://www.nexojornal.com.br/expresso/2025/03/09/servico-publico-gestao-funcionario-publico-movimento-pessoas-a-frente)
 - [Ensino de direitos humanos e sexualidade protege as escolas](https://www.nexojornal.com.br/ensaio/2025/03/09/educacao-sexual-direitos-humanos-protege-escolas)
 - [Estudo busca explicar por que Alzheimer é mais comum em mulheres](https://www.nexojornal.com.br/externo/2025/03/09/mulher-chance-maior-alzheimer-motivo-estudo)
 - [Como o amianto seguiu sendo minerado mesmo banido no país](https://www.nexojornal.com.br/expresso/2025/03/09/stf-votacao-amianto-minerio-banido-lei-goias)
-- [Apagamento pela IA: quem controla nossa memória?](https://www.nexojornal.com.br/ensaio/2025/03/09/ia-apagamento-quem-controla-memoria-opiniao)
-- [Além da COP: as pautas ambientais para olhar em 2025](https://www.nexojornal.com.br/externo/2025/03/09/meio-ambiente-clima-eventos-2025)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
