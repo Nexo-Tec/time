@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Ensino de direitos humanos e sexualidade protege as escolas](https://www.nexojornal.com.br/ensaio/2025/03/09/educacao-sexual-direitos-humanos-protege-escolas)
 - [Estudo busca explicar por que Alzheimer é mais comum em mulheres](https://www.nexojornal.com.br/externo/2025/03/09/mulher-chance-maior-alzheimer-motivo-estudo)
 - [Como o amianto seguiu sendo minerado mesmo banido no país](https://www.nexojornal.com.br/expresso/2025/03/09/stf-votacao-amianto-minerio-banido-lei-goias)
 - [Apagamento pela IA: quem controla nossa memória?](https://www.nexojornal.com.br/ensaio/2025/03/09/ia-apagamento-quem-controla-memoria-opiniao)
 - [Além da COP: as pautas ambientais para olhar em 2025](https://www.nexojornal.com.br/externo/2025/03/09/meio-ambiente-clima-eventos-2025)
-- [O que dizem as defesas do denunciados pela trama golpista](https://www.nexojornal.com.br/expresso/2025/03/09/defesa-bolsonaro-aliados-tentativa-de-golpe-2022)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
