@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 filmes para conhecer a diretora Chantal Akerman](https://www.nexojornal.com.br/expresso/2025/03/10/cinema-diretora-chantal-akerman-filmes)
 - [A ingestão generalizada de álcool por animais](https://www.nexojornal.com.br/externo/2025/03/10/animais-bebados-alcool-frutas-etanol-natural)
 - [A mulher que denunciou o tráfico da janela e virou filme](https://www.nexojornal.com.br/expresso/2025/03/10/filme-vitoria-historia-mulher-denunciou-trafico-da-janela)
 - [Por que estes planetas são comparados a algodão-doce](https://www.nexojornal.com.br/expresso/2025/03/10/planetas-que-parecem-algodao-doce)
 - [O chamado à ação na carta do presidente da COP30](https://www.nexojornal.com.br/externo/2025/03/10/cop30-carta-presidente-andre-correa-do-lago)
-- [Qual a efetividade de zerar o imposto de importação de comida](https://www.nexojornal.com.br/expresso/2025/03/09/governo-zera-imposto-de-alimentos-impacto)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
