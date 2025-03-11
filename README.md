@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Cessar-fogo na Ucrânia? Só falta combinar com os russos](https://www.nexojornal.com.br/expresso/2025/03/11/ucrania-aceita-acordo-cessar-fogo-russia)
 - [A crise relâmpago que derrubou o governo de Portugal](https://www.nexojornal.com.br/expresso/2025/03/11/crise-derrubou-governo-de-portugal-luis-montenegro)
 - [O concurso que elegia as piores frases para começar um livro](https://www.nexojornal.com.br/expresso/2025/03/11/as-piores-frases-para-comecar-um-livro-concurso)
 - [‘Vencemos a covid, mas antivacina ainda é problema’](https://www.nexojornal.com.br/externo/2025/03/11/pandemia-covid-19-5-anos-entrevista-pesquisadora-da-fiocruz-margareth-dalcomo)
 - [A prisão de Rodrigo Duterte por crimes contra a humanidade](https://www.nexojornal.com.br/expresso/2025/03/11/rodrigo-duterte-prisao-crimes-contra-humanidade-filipinas)
-- [Como o futebol de várzea feminino se organiza em São Paulo](https://www.nexojornal.com.br/expresso/2025/03/11/futebol-varzea-feminino-sao-paulo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
