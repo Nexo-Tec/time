@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@racionaiscn](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/racionaiscn/)
 - [Livro de colorir “Cozy Friends”](https://gamarevista.uol.com.br/estilo-de-vida/objeto-de-analise/livro-de-colorir-cozy-friends/)
 - [Carol Tilkian: o relacionamento amoroso e a crise de atenção](https://gamarevista.uol.com.br/podcast/podcast-da-semana/carol-tilkian/)
 - [Bruno Fagundes](https://gamarevista.uol.com.br/pessoas/questionario-proust/bruno-fagundes/)
 - [Despedida do Carnaval 2025 pelo Brasil](https://gamarevista.uol.com.br/achamos-que-vale/ir/despedida-do-carnaval-2025-pelo-brasil/)
-- [O documentário “Larissa: O Outro Lado de Anitta”, na Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-documentario-larissa-o-outro-lado-de-anitta-na-netflix/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
