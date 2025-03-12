@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que fez da inflação de fevereiro a mais alta para o mês desde 2003](https://www.nexojornal.com.br/expresso/2025/03/12/inflacao-fevereiro-2025)
 - [Os riscos morais da obsessão pela longevidade](https://www.nexojornal.com.br/externo/2025/03/11/mito-da-juventude-obsessao-longevidade-bryan-johnson)
 - [Como a Anac define se uma companhia aérea é segura para voar](https://www.nexojornal.com.br/expresso/2025/03/11/voepass-anac-companhia-aerea-segura)
 - [O senador francês que ousou dizer o que ninguém diz](https://www.nexojornal.com.br/colunistas/2025/03/11/claude-malhuret-discurso-critica-governo-trump)
 - [Cessar-fogo na Ucrânia? Só falta combinar com os russos](https://www.nexojornal.com.br/expresso/2025/03/11/ucrania-aceita-acordo-cessar-fogo-russia)
-- [A crise relâmpago que derrubou o governo de Portugal](https://www.nexojornal.com.br/expresso/2025/03/11/crise-derrubou-governo-de-portugal-luis-montenegro)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
