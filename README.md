@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Hospede-se por R$ 1 milhão: os preços da COP30 em Belém](https://www.nexojornal.com.br/podcast/2025/03/12/cop30-belem-hospedagem)
+- [A filantropia como chave para resposta às tragédias anunciadas](https://www.nexojornal.com.br/ensaio/2025/03/12/clima-tragedia-climatica-filantropia)
+- [Os efeitos da pandemia sobre as crianças, 5 anos depois](https://www.nexojornal.com.br/externo/2025/03/12/pandemia-covid-19-5-anos-impacto-criancas)
 - [A relação entre os micróbios e a vida extraterrestre](https://www.nexojornal.com.br/externo/2025/03/12/vida-extraterrestre-microbios-relacao)
 - [O salgadinho em formato de Pokémon vendido por US$ 87 mil](https://www.nexojornal.com.br/expresso/2025/03/12/pokemon-salgadinho-valor-charizard)
-- [O que está em jogo para Brasil e EUA nas tarifas de aço e alumínio](https://www.nexojornal.com.br/expresso/2025/03/12/tarifa-brasil-aco-aluminio-eua)
-- [O que fez da inflação de fevereiro a mais alta para o mês desde 2003](https://www.nexojornal.com.br/expresso/2025/03/12/inflacao-fevereiro-2025)
-- [Os riscos morais da obsessão pela longevidade](https://www.nexojornal.com.br/externo/2025/03/11/mito-da-juventude-obsessao-longevidade-bryan-johnson)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
