@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A relação entre os micróbios e a vida extraterrestre](https://www.nexojornal.com.br/externo/2025/03/12/vida-extraterrestre-microbios-relacao)
 - [O salgadinho em formato de Pokémon vendido por US$ 87 mil](https://www.nexojornal.com.br/expresso/2025/03/12/pokemon-salgadinho-valor-charizard)
 - [O que está em jogo para Brasil e EUA nas tarifas de aço e alumínio](https://www.nexojornal.com.br/expresso/2025/03/12/tarifa-brasil-aco-aluminio-eua)
 - [O que fez da inflação de fevereiro a mais alta para o mês desde 2003](https://www.nexojornal.com.br/expresso/2025/03/12/inflacao-fevereiro-2025)
 - [Os riscos morais da obsessão pela longevidade](https://www.nexojornal.com.br/externo/2025/03/11/mito-da-juventude-obsessao-longevidade-bryan-johnson)
-- [Como a Anac define se uma companhia aérea é segura para voar](https://www.nexojornal.com.br/expresso/2025/03/11/voepass-anac-companhia-aerea-segura)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
