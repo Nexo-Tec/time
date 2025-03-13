@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Racismo, trabalho e discriminação estrutural](https://pp.nexojornal.com.br/opiniao/2025/03/13/racismo-trabalho-e-discriminacao-estrutural/)
 - [Artistas afro-brasileiros que estão estabelecendo novas conexões através do Atlântico](https://pp.nexojornal.com.br/opiniao/2025/03/13/artistas-afro-brasileiros-que-estao-estabelecendo-novas-conexoes-atraves-do-atlantico/)
 - [Por que devemos abolir a revista vexatória nas prisões](https://pp.nexojornal.com.br/opiniao/2025/03/13/por-que-devemos-abolir-a-revista-vexatoria-nas-prisoes/)
 - [É preciso garantir equidade na aprendizagem de matemática](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/e-preciso-garantir-equidade-na-aprendizagem-de-matematica/)
 - [Desafios pedagógicos na implementação das Diretrizes da Educação Infantil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/desafios-pedagogicos-na-implementacao-das-diretrizes-da-educacao-infantil/)
-- [Implementação de políticas públicas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/implementacao-de-politicas-publicas-no-brasil/)
 <!-- PP_LIST:END -->
 
