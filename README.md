@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quais são os hábitos culturais dos brasileiros em 2024](https://www.nexojornal.com.br/grafico/2025/03/13/brasil-cultura-habito-pesquisa-dados-2024)
 - [A pressão sobre a Tesla enquanto Musk passa a motosserra no governo](https://www.nexojornal.com.br/expresso/2025/03/13/acoes-da-tesla-caem-elon-musk-governo-trump)
 - [O relatório que derrubou as ações da XP nas bolsas](https://www.nexojornal.com.br/expresso/2025/03/13/relatorio-xp-esquema-ponzi-bolsas)
 - [A artista que representou o luto da 1ª Guerra Mundial](https://www.nexojornal.com.br/academico/2025/03/13/luto-1-guerra-mundial-kathe-kollwitz-pesquisa)
 - [Presidente do Superior Tribunal Militar: ‘Não fui tolerada’](https://www.nexojornal.com.br/externo/2025/03/13/maria-elizabeth-rocha-primeira-mulher-a-chefiar-stm-entrevista)
-- [A nova série de ‘Harry Potter’. E a constante renovação da saga](https://www.nexojornal.com.br/expresso/2025/03/13/harry-potter-saga-serie-hbo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
