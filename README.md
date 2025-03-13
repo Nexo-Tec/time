@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Desafios pedagógicos na implementação das Diretrizes da Educação Infantil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/desafios-pedagogicos-na-implementacao-das-diretrizes-da-educacao-infantil/)
+- [Implementação de políticas públicas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/implementacao-de-politicas-publicas-no-brasil/)
 - [Assim se constrói uma política pública antirracista consistente](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/07/assim-se-constroi-uma-politica-publica-antirracista-consistente/)
 - [A centralidade da família no debate político brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/a-centralidade-da-familia-no-debate-politico-brasileiro/)
 - [O papel decisivo da liderança escolar na aprendizagem de meninas](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/o-papel-decisivo-da-lideranca-escolar-na-aprendizagem-de-meninas/)
-- [Assédio judicial contra jornalistas em contextos eleitorais, em 6 pontos](https://pp.nexojornal.com.br/perguntas-que-a-ciencia-ja-respondeu/2025/02/28/assedio-judicial-contra-jornalistas-em-contextos-eleitorais/)
-- [Como se dão as PPPs habitacionais em São Paulo](https://pp.nexojornal.com.br/academico/2025/02/28/a-falacia-da-eficiencia-as-ppps-habitacionais-em-sao-paulo/)
 <!-- PP_LIST:END -->
 
