@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [É preciso garantir equidade na aprendizagem de matemática](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/e-preciso-garantir-equidade-na-aprendizagem-de-matematica/)
 - [Desafios pedagógicos na implementação das Diretrizes da Educação Infantil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/desafios-pedagogicos-na-implementacao-das-diretrizes-da-educacao-infantil/)
 - [Implementação de políticas públicas no Brasil](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/13/implementacao-de-politicas-publicas-no-brasil/)
 - [Assim se constrói uma política pública antirracista consistente](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/07/assim-se-constroi-uma-politica-publica-antirracista-consistente/)
 - [A centralidade da família no debate político brasileiro](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/a-centralidade-da-familia-no-debate-politico-brasileiro/)
-- [O papel decisivo da liderança escolar na aprendizagem de meninas](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/06/o-papel-decisivo-da-lideranca-escolar-na-aprendizagem-de-meninas/)
 <!-- PP_LIST:END -->
 
