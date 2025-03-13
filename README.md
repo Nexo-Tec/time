@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os poderes que atuam na cracolândia, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/03/12/cracolandia-sao-paulo-pesquisa-etnografica)
 - [Hospede-se por R$ 1 milhão: os preços da COP30 em Belém](https://www.nexojornal.com.br/podcast/2025/03/12/cop30-belem-hospedagem)
 - [A filantropia como chave para resposta às tragédias anunciadas](https://www.nexojornal.com.br/ensaio/2025/03/12/clima-tragedia-climatica-filantropia)
 - [Os efeitos da pandemia sobre as crianças, 5 anos depois](https://www.nexojornal.com.br/externo/2025/03/12/pandemia-covid-19-5-anos-impacto-criancas)
 - [A relação entre os micróbios e a vida extraterrestre](https://www.nexojornal.com.br/externo/2025/03/12/vida-extraterrestre-microbios-relacao)
-- [O salgadinho em formato de Pokémon vendido por US$ 87 mil](https://www.nexojornal.com.br/expresso/2025/03/12/pokemon-salgadinho-valor-charizard)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
