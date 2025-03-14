@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Avaliação](https://pp.nexojornal.com.br/bibliografia-basica/2025/03/14/avaliacao/)
+- [Como se dá a gestão e prestação de cuidados para covid longa no SUS](https://pp.nexojornal.com.br/academico/2025/03/14/como-se-da-a-gestao-e-prestacao-de-cuidados-para-covid-longa-no-sus/)
 - [Estudos Afro-latino-americanos no Brasil areja disciplinas e demanda investimentos](https://pp.nexojornal.com.br/opiniao/2025/03/14/estudos-afro-latino-americanos-no-brasil-areja-disciplinas-e-demanda-investimentos/)
 - [Quais são os hábitos culturais dos brasileiros em 2024](https://pp.nexojornal.com.br/dados/2025/03/14/brasil-cultura-habito-pesquisa-dados-2024/)
 - [Mudanças climáticas: esse é um inimigo comum e a luta deve ser de todos](https://pp.nexojornal.com.br/topico/2025/03/13/mudancas-climaticas-esse-e-um-inimigo-comum-e-a-luta-deve-ser-de-todos/)
-- [Racismo, trabalho e discriminação estrutural](https://pp.nexojornal.com.br/opiniao/2025/03/13/racismo-trabalho-e-discriminacao-estrutural/)
-- [Artistas afro-brasileiros que estão estabelecendo novas conexões através do Atlântico](https://pp.nexojornal.com.br/opiniao/2025/03/13/artistas-afro-brasileiros-que-estao-estabelecendo-novas-conexoes-atraves-do-atlantico/)
 <!-- PP_LIST:END -->
 
