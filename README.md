@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Nunca mais morder uma maçã vai ser igual](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/nunca-mais-morder-uma-maca-vai-ser-igual/)
 - [“Escute as Mais Velhas”, com Neca Setubal e Sueli Carneiro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/escute-as-mais-velhas-com-neca-setubal-e-sueli-carneiro/)
 - [A voz cristalina de Gal em gravações inéditas de 1972](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-voz-cristalina-de-gal-em-gravacoes-ineditas-de-1972/)
 - [Fernanda Montenegro de volta ao cinema em “Vitória”](https://gamarevista.uol.com.br/achamos-que-vale/assistir/fernanda-montenegro-de-volta-ao-cinema-em-vitoria/)
 - [“Design Como Atitude”, de Alice Rawsthorn](https://gamarevista.uol.com.br/achamos-que-vale/ler/design-como-atitude-de-alice-rawsthorn/)
-- [“O que as Mulheres Querem”, com Tatiana Vasconcellos](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/o-que-as-mulheres-querem-com-tatiana-vasconcellos/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
