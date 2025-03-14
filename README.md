@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para pensar sobre qualidade de vida e morte assistida](https://www.nexojornal.com.br/estante-favoritos/2025/03/14/livro-morte-assistida-qualidade-de-vida-adriano-silva-indicacao)
+- [Como o tarô se transformou ao longo dos anos](https://www.nexojornal.com.br/video/2025/03/14/tarot-cartas-de-taro-historia)
+- [Como ‘Drive to Survive’ aumentou a audiência da Fórmula 1](https://www.nexojornal.com.br/expresso/2025/03/14/formula-1-temporada-2025-serie-drive-to-survive)
+- [‘Beleza fatal’: a repercussão da 1ª novela da Max](https://www.nexojornal.com.br/expresso/2025/03/14/beleza-fatal-novela-brasileira-streaming-max)
 - [A busca de escritoras quilombolas por um lugar na cena literária](https://www.nexojornal.com.br/externo/2025/03/14/literatura-escritoras-quilombolas)
-- [Por que essa metrópole se transformou na cidade do gelo](https://www.nexojornal.com.br/expresso/2025/03/14/cidade-do-gelo-china-harbin)
-- [As falas machistas de Lula, sob análise de 2 cientistas políticas](https://www.nexojornal.com.br/expresso/2025/03/13/lula-falas-machistas-analise)
-- [Por que as mudanças climáticas estimulam o cultivo de mangas](https://www.nexojornal.com.br/externo/2025/03/13/mudancas-climaticas-fruta-manga-cultivo)
-- [Quais são os hábitos culturais dos brasileiros em 2024](https://www.nexojornal.com.br/grafico/2025/03/13/brasil-cultura-habito-pesquisa-dados-2024)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
