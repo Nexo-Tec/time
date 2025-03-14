@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A busca de escritoras quilombolas por um lugar na cena literária](https://www.nexojornal.com.br/externo/2025/03/14/literatura-escritoras-quilombolas)
+- [Por que essa metrópole se transformou na cidade do gelo](https://www.nexojornal.com.br/expresso/2025/03/14/cidade-do-gelo-china-harbin)
 - [As falas machistas de Lula, sob análise de 2 cientistas políticas](https://www.nexojornal.com.br/expresso/2025/03/13/lula-falas-machistas-analise)
 - [Por que as mudanças climáticas estimulam o cultivo de mangas](https://www.nexojornal.com.br/externo/2025/03/13/mudancas-climaticas-fruta-manga-cultivo)
 - [Quais são os hábitos culturais dos brasileiros em 2024](https://www.nexojornal.com.br/grafico/2025/03/13/brasil-cultura-habito-pesquisa-dados-2024)
-- [A pressão sobre a Tesla enquanto Musk passa a motosserra no governo](https://www.nexojornal.com.br/expresso/2025/03/13/acoes-da-tesla-caem-elon-musk-governo-trump)
-- [O relatório que derrubou as ações da XP nas bolsas](https://www.nexojornal.com.br/expresso/2025/03/13/relatorio-xp-esquema-ponzi-bolsas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
