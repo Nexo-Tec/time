@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A desapropriação do palco de uma chacina à reforma agrária](https://www.nexojornal.com.br/expresso/2025/03/14/reforma-agraria-terras-desapropriadas-massacre-pau-darco)
+- [A rotina de trabalhadoras sexuais trans e travestis no Rio](https://www.nexojornal.com.br/externo/2025/03/14/trabalhadoras-sexuais-trans-travesti-rotina-rio-de-janeiro)
+- [Os nordestinos estão mudando seus hábitos alimentares?](https://www.nexojornal.com.br/externo/2025/03/14/nordeste-alimentacao-tradicoes-culinarias)
 - [Por que corrigir os dados pela inflação](https://www.nexojornal.com.br/grafico/2025/03/14/por-que-corrigir-os-dados-pela-inflacao)
 - [O número de brasileiros na Fórmula 1 ao longo dos anos](https://www.nexojornal.com.br/grafico/2025/03/14/formula-1-pilotos-brasileiros-historico)
-- [‘A contagem dos sonhos’: reflexões sobre o amor e as escolhas](https://www.nexojornal.com.br/estante-trechos/2025/03/14/livro-chimamanda-ngozi-adichie-a-contagem-dos-sonhos-trecho)
-- [5 livros para pensar sobre qualidade de vida e morte assistida](https://www.nexojornal.com.br/estante-favoritos/2025/03/14/livro-morte-assistida-qualidade-de-vida-adriano-silva-indicacao)
-- [Como o tarô se transformou ao longo dos anos](https://www.nexojornal.com.br/video/2025/03/14/tarot-cartas-de-taro-historia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
