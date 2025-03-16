@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Centros de pesquisa e empresas do país ampliam o campo de aplicações do nióbio](https://www.nexojornal.com.br/externo/2025/03/15/para-que-niobio-e-usado)
+- [Como avança o tech conservadorismo e qual o seu impacto](https://www.nexojornal.com.br/ensaio/2025/03/15/tecnologia-conservador-movimento-anti-woke-anti-dei)
+- [Como o bolsonarismo comunicou os atos por anistia de 8 de janeiro](https://www.nexojornal.com.br/expresso/2025/03/15/16-de-marco-manifestacao-bolsonarista-anistia-8-de-janeiro)
 - [A desapropriação do palco de uma chacina à reforma agrária](https://www.nexojornal.com.br/expresso/2025/03/14/reforma-agraria-terras-desapropriadas-massacre-pau-darco)
 - [A rotina de trabalhadoras sexuais trans e travestis no Rio](https://www.nexojornal.com.br/externo/2025/03/14/trabalhadoras-sexuais-trans-travesti-rotina-rio-de-janeiro)
-- [Os nordestinos estão mudando seus hábitos alimentares?](https://www.nexojornal.com.br/externo/2025/03/14/nordeste-alimentacao-tradicoes-culinarias)
-- [Por que corrigir os dados pela inflação](https://www.nexojornal.com.br/grafico/2025/03/14/por-que-corrigir-os-dados-pela-inflacao)
-- [O número de brasileiros na Fórmula 1 ao longo dos anos](https://www.nexojornal.com.br/grafico/2025/03/14/formula-1-pilotos-brasileiros-historico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
