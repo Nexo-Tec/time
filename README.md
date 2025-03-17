@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Na minha rua estão cortando árvores](https://gamarevista.uol.com.br/colunistas/fernando-luna/na-minha-rua-estao-cortando-arvores/)
 - [A Contagem dos Sonhos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-contagem-dos-sonhos/)
 - [Marcelo Hessel: fãs brasileiros](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcelo-hessel/)
 - [Nunca mais morder uma maçã vai ser igual](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/nunca-mais-morder-uma-maca-vai-ser-igual/)
 - [“Escute as Mais Velhas”, com Neca Setubal e Sueli Carneiro](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/escute-as-mais-velhas-com-neca-setubal-e-sueli-carneiro/)
-- [A voz cristalina de Gal em gravações inéditas de 1972](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/a-voz-cristalina-de-gal-em-gravacoes-ineditas-de-1972/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
