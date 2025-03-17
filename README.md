@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Carolina Rocha: disputas político-religiosas nos territórios de favela](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2025/03/17/carolina-rocha-disputas-politico-religiosas-nos-territorios-de-favela/)
 - [Avaliação](https://pp.nexojornal.com.br/bibliografia-basica/2025/03/14/avaliacao/)
 - [Como se dá a gestão e prestação de cuidados para covid longa no SUS](https://pp.nexojornal.com.br/academico/2025/03/14/como-se-da-a-gestao-e-prestacao-de-cuidados-para-covid-longa-no-sus/)
 - [Estudos Afro-latino-americanos no Brasil areja disciplinas e demanda investimentos](https://pp.nexojornal.com.br/opiniao/2025/03/14/estudos-afro-latino-americanos-no-brasil-areja-disciplinas-e-demanda-investimentos/)
 - [Quais são os hábitos culturais dos brasileiros em 2024](https://pp.nexojornal.com.br/dados/2025/03/14/brasil-cultura-habito-pesquisa-dados-2024/)
-- [Mudanças climáticas: esse é um inimigo comum e a luta deve ser de todos](https://pp.nexojornal.com.br/topico/2025/03/13/mudancas-climaticas-esse-e-um-inimigo-comum-e-a-luta-deve-ser-de-todos/)
 <!-- PP_LIST:END -->
 
