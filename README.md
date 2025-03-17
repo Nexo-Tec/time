@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como as tarifas de Trump afetam as exportações de soja para a China](https://www.nexojornal.com.br/grafico/2025/03/17/eua-china-trump-tarifa-exportacao-soja-grafico)
 - [As estratégias para prevenir complicações do vírus VSR em bebês](https://www.nexojornal.com.br/externo/2025/03/17/como-prevenir-vsr-virus-bebe)
 - [Como Trump atropela a Justiça para fazer deportações em massa](https://www.nexojornal.com.br/expresso/2025/03/17/eua-trump-deportacao-em-massa-legalidade)
 - [O papel de Portugal na expansão do PCC na Europa](https://www.nexojornal.com.br/externo/2025/03/17/pcc-expansao-para-europa-papel-de-portugal)
 - [Galerias ou templos? A rixa sobre o destino de obras de Hilma af Klint](https://www.nexojornal.com.br/expresso/2025/03/17/arte-hilma-af-klint-espiritualidade-exposicao-templo)
-- [Como laqueadura e vasectomia voltam à pauta do Supremo](https://www.nexojornal.com.br/expresso/2025/03/16/stf-julgamento-laqueadura-vasectomia-esterilizacao-voluntaria)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
