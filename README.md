@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Galerias ou templos? A rixa sobre o destino de obras de Hilma af Klint](https://www.nexojornal.com.br/expresso/2025/03/17/arte-hilma-af-klint-espiritualidade-exposicao-templo)
 - [Como laqueadura e vasectomia voltam à pauta do Supremo](https://www.nexojornal.com.br/expresso/2025/03/16/stf-julgamento-laqueadura-vasectomia-esterilizacao-voluntaria)
 - [Estágio probatório e gestão de desempenho no setor público](https://www.nexojornal.com.br/debate/2025/03/16/servidor-publico-estagio-probatorio-gestao-de-desempenho-opiniao)
 - [O que preciso saber para declarar o Imposto de Renda](https://www.nexojornal.com.br/servico/2025/03/16/imposto-de-renda-2024-como-declarar-duvidas)
 - [O que a forma como cães dormem diz sobre nosso próprio sono](https://www.nexojornal.com.br/externo/2025/03/15/cachorro-sono-influencia-dono-tutor)
-- [Centros de pesquisa e empresas do país ampliam o campo de aplicações do nióbio](https://www.nexojornal.com.br/externo/2025/03/15/para-que-niobio-e-usado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
