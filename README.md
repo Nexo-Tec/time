@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como passar muito tempo no espaço afeta a saúde de astronautas](https://www.nexojornal.com.br/expresso/2025/03/18/astronautas-volta-terra-space-x-saude)
 - [A morte de um dos raros sobreviventes da raiva humana no Brasil](https://www.nexojornal.com.br/externo/2025/03/18/raiva-humana-brasil-sobrevivente-mateus-santos-da-silva)
 - [‘Concursos devem considerar burocracia vocacionada no país’](https://www.nexojornal.com.br/entrevista/2025/03/18/cpnu-concurso-publico-2025-entrevista-fernando-de-souza-coelho)
 - [Como as tarifas dos EUA afetam as exportações de soja](https://www.nexojornal.com.br/grafico/2025/03/17/eua-china-trump-tarifa-exportacao-soja-grafico)
 - [As estratégias para prevenir complicações do vírus VSR em bebês](https://www.nexojornal.com.br/externo/2025/03/17/como-prevenir-vsr-virus-bebe)
-- [Como Trump atropela a Justiça para fazer deportações em massa](https://www.nexojornal.com.br/expresso/2025/03/17/eua-trump-deportacao-em-massa-legalidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
