@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [“A essência da violência de gênero é uma relação de poder construída de forma assimétrica”](https://gamarevista.uol.com.br/formato/conversas/silvia-chakian-violencia-de-genero/)
 - [@gilbertogil](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/gilbertogil/)
 - [Na minha rua estão cortando árvores](https://gamarevista.uol.com.br/colunistas/fernando-luna/na-minha-rua-estao-cortando-arvores/)
 - [A Contagem dos Sonhos](https://gamarevista.uol.com.br/cultura/trecho-de-livro/a-contagem-dos-sonhos/)
 - [Marcelo Hessel: fãs brasileiros](https://gamarevista.uol.com.br/podcast/podcast-da-semana/marcelo-hessel/)
-- [Nunca mais morder uma maçã vai ser igual](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/nunca-mais-morder-uma-maca-vai-ser-igual/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
