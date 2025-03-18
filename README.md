@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a seca e a poluição ameaçam a região do lago Titicaca](https://www.nexojornal.com.br/externo/2025/03/18/mudancas-climaticas-impacto-maior-lago-da-america-do-sul-titicaca)
 - [Por que o cessar-fogo não foi capaz de deter Israel na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2025/03/18/cessar-fogo-ataque-de-israel-faixa-de-gaza)
 - [A aposta do governo Lula na isenção do Imposto de Renda](https://www.nexojornal.com.br/expresso/2025/03/18/imposto-de-renda-isencao-projeto-de-lei-lula)
 - [Como passar muito tempo no espaço afeta a saúde de astronautas](https://www.nexojornal.com.br/expresso/2025/03/18/astronautas-volta-terra-space-x-saude)
 - [A morte de um dos raros sobreviventes da raiva humana no Brasil](https://www.nexojornal.com.br/externo/2025/03/18/raiva-humana-brasil-sobrevivente-mateus-santos-da-silva)
-- [‘Concursos devem considerar burocracia vocacionada no país’](https://www.nexojornal.com.br/entrevista/2025/03/18/cpnu-concurso-publico-2025-entrevista-fernando-de-souza-coelho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
