@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como estava o Brasil na última vez que a Selic superou 14%](https://www.nexojornal.com.br/expresso/2025/03/19/selic-juros-brasil-hoje-dilma)
+- [Como ter conversas difíceis](https://www.nexojornal.com.br/cursos/2025/03/19/como-ter-conversas-dificeis-curso)
 - [O quanto a internet brasileira depende da Starlink](https://www.nexojornal.com.br/podcast/2025/03/19/internet-starlink-brasil-concorrente-mercado)
 - [Como gerenciar a raiva na vida pessoal e no trabalho](https://www.nexojornal.com.br/externo/2025/03/19/raiva-como-controlar-sentimento)
 - [A solução para a polarização está bem longe do meio](https://www.nexojornal.com.br/colunistas/2025/03/19/a-solucao-para-a-polarizacao-esta-bem-longe-do-meio)
-- [Como a radicalização online atravessa a série ‘Adolescência’](https://www.nexojornal.com.br/expresso/2025/03/19/serie-adolescencia-netflix-machismo)
-- [O que a Anvisa pode mudar na venda do Ozempic no Brasil](https://www.nexojornal.com.br/expresso/2025/03/19/ozempic-brasil-posicionamento-anvisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
