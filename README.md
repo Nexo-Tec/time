@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O bullying racial de Trump contra a África do Sul](https://www.nexojornal.com.br/colunistas/2025/03/18/trump-africa-do-sul-questao-racial-refugio-pessoas-brancas)
+- [Como esta pesquisa mediu a pobreza na infância rural](https://www.nexojornal.com.br/expresso/2025/03/18/pobreza-infancia-rural-dados-pesquisa)
 - [A licença de Eduardo Bolsonaro para atacar o Supremo nos EUA](https://www.nexojornal.com.br/expresso/2025/03/18/eduardo-bolsonaro-se-licencia-eua)
 - [A queda da representatividade trans em Hollywood](https://www.nexojornal.com.br/expresso/2025/03/18/hollywood-representatividade-trans-diminuiu)
 - [Como a seca e a poluição ameaçam a região do lago Titicaca](https://www.nexojornal.com.br/externo/2025/03/18/mudancas-climaticas-impacto-maior-lago-da-america-do-sul-titicaca)
-- [Por que o cessar-fogo não foi capaz de deter Israel na Faixa de Gaza](https://www.nexojornal.com.br/expresso/2025/03/18/cessar-fogo-ataque-de-israel-faixa-de-gaza)
-- [A aposta do governo Lula na isenção do Imposto de Renda](https://www.nexojornal.com.br/expresso/2025/03/18/imposto-de-renda-isencao-projeto-de-lei-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
