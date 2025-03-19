@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A solução para a polarização está bem longe do meio](https://www.nexojornal.com.br/colunistas/2025/03/19/a-solucao-para-a-polarizacao-esta-bem-longe-do-meio)
 - [Como a radicalização online atravessa a série ‘Adolescência’](https://www.nexojornal.com.br/expresso/2025/03/19/serie-adolescencia-netflix-machismo)
 - [O que a Anvisa pode mudar na venda do Ozempic no Brasil](https://www.nexojornal.com.br/expresso/2025/03/19/ozempic-brasil-posicionamento-anvisa)
 - [O bullying racial de Trump contra a África do Sul](https://www.nexojornal.com.br/colunistas/2025/03/18/trump-africa-do-sul-questao-racial-refugio-pessoas-brancas)
 - [Como esta pesquisa mediu a pobreza na infância rural](https://www.nexojornal.com.br/expresso/2025/03/18/pobreza-infancia-rural-dados-pesquisa)
-- [A licença de Eduardo Bolsonaro para atacar o Supremo nos EUA](https://www.nexojornal.com.br/expresso/2025/03/18/eduardo-bolsonaro-se-licencia-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
