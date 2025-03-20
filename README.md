@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que o novo ‘Branca de Neve’ está gerando tanta discórdia](https://www.nexojornal.com.br/expresso/2025/03/20/branca-de-neve-filme-2025-live-action-critica)
 - [A rede agroecológica de mulheres do Vale do Ribeira](https://www.nexojornal.com.br/externo/2025/03/20/agricultura-vale-do-ribeira-mulheres-criam-rede-agroecologica)
 - [Os entraves à remoção de estátuas de escravizadores no país](https://www.nexojornal.com.br/externo/2025/03/20/estatuas-escravocratas-brasil-remocao)
 - [Luz de outono: por que o céu fica diferente durante a estação](https://www.nexojornal.com.br/expresso/2025/03/20/outono-ceu-durante-a-estacao)
 - [3 pontos para ficar de olho no Orçamento de 2025](https://www.nexojornal.com.br/expresso/2025/03/20/orcamento-federal-2025-votacao)
-- [‘A dificuldade de acesso a obras facilita a desinformação’](https://www.nexojornal.com.br/entrevista/2025/03/19/wikimedia-brasil-entrevista-chico-venancio)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
