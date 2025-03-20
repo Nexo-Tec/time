@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Já que ainda estamos aqui: os cinco anos desde o início da pandemia de covid-19](https://pp.nexojornal.com.br/opiniao/2025/03/20/ja-que-ainda-estamos-aqui-os-cinco-anos-desde-o-inicio-da-pandemia-de-covid-19/)
 - [O Fundeb em 2025: avanços, desafios e a busca por mais equidade na educação brasileira](https://pp.nexojornal.com.br/opiniao/2025/03/19/o-fundeb-em-2025-avancos-desafios-e-a-busca-por-mais-equidade-na-educacao-brasileira/)
 - [Carolina Rocha: disputas político-religiosas nos territórios de favela](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2025/03/17/carolina-rocha-disputas-politico-religiosas-nos-territorios-de-favela/)
 - [Avaliação](https://pp.nexojornal.com.br/bibliografia-basica/2025/03/14/avaliacao/)
 - [Como se dá a gestão e prestação de cuidados para covid longa no SUS](https://pp.nexojornal.com.br/academico/2025/03/14/como-se-da-a-gestao-e-prestacao-de-cuidados-para-covid-longa-no-sus/)
-- [Estudos Afro-latino-americanos no Brasil areja disciplinas e demanda investimentos](https://pp.nexojornal.com.br/opiniao/2025/03/14/estudos-afro-latino-americanos-no-brasil-areja-disciplinas-e-demanda-investimentos/)
 <!-- PP_LIST:END -->
 
