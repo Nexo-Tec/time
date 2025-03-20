@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Luz de outono: por que o céu fica diferente durante a estação](https://www.nexojornal.com.br/expresso/2025/03/20/outono-ceu-durante-a-estacao)
 - [3 pontos para ficar de olho no Orçamento de 2025](https://www.nexojornal.com.br/expresso/2025/03/20/orcamento-federal-2025-votacao)
 - [‘A dificuldade de acesso a obras facilita a desinformação’](https://www.nexojornal.com.br/entrevista/2025/03/19/wikimedia-brasil-entrevista-chico-venancio)
 - [Os Estados Unidos já estão sob um regime autoritário](https://www.nexojornal.com.br/colunistas/2025/03/19/eua-regime-autoritario-colapso-da-democracia-opiniao)
 - [Os caçadores marroquinos de meteoritos](https://www.nexojornal.com.br/expresso/2025/03/19/marrocos-meteoritos-cacadores)
-- [Como estava o Brasil na última vez que a Selic superou 14%](https://www.nexojornal.com.br/expresso/2025/03/19/selic-juros-brasil-hoje-dilma)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
