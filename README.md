@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A reação em Alcântara após julgamento em tribunal internacional](https://www.nexojornal.com.br/externo/2025/03/21/condenacao-alcantara-tribunal-internacional-quilombolas)
 - [Como ‘Os Goonies’ marcou a cultura pop na década de 1980](https://www.nexojornal.com.br/expresso/2025/03/21/cultura-pop-anos-80-filme-os-goonies)
 - [‘Beleza fatal’: Camila Pitanga faz de Lola a vilã do século](https://www.nexojornal.com.br/colunistas/2025/03/21/beleza-fatal-max-ultimo-capitulo)
 - [Por que Trump quer fechar o Departamento de Educação dos EUA](https://www.nexojornal.com.br/expresso/2025/03/20/eua-trump-departamento-de-educacao)
 - [Como a cultura de jogos universitários reforça violências](https://www.nexojornal.com.br/expresso/2025/03/20/jogos-universitarios-violencia)
-- [Os desafios para a preservação de Ouro Preto](https://www.nexojornal.com.br/academico/2025/03/20/ouro-preto-preservacao-patrimonio-historico-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
