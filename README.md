@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros para entender o fenômeno do bolsonarismo](https://www.nexojornal.com.br/estante-favoritos/2025/03/21/bolsonarismo-livro-indicacao-sergio-schargel)
-- [O tamanho das guardas municipais, segundo dados do IBGE](https://www.nexojornal.com.br/grafico/2025/03/21/guarda-municipal-numero-de-guardas-brasil-ibge)
-- [‘Pequenas coisas como estas’: a história dos asilos de Madalena](https://www.nexojornal.com.br/expresso/2025/03/21/asilo-de-madalena-filme-pequenas-coisas-como-estas)
-- [Os problemas de crianças aderirem à cultura fitness](https://www.nexojornal.com.br/externo/2025/03/21/vida-fitness-crianca-impactos)
-- [‘Membrana’: vestígios do futuro do homem e da tecnologia](https://www.nexojornal.com.br/estante-trechos/2025/03/21/livro-membrana-jorge-carrion-trecho)
+- [Hóquei e pingue-pongue: os esportes na diplomacia dos EUA](https://www.nexojornal.com.br/expresso/2025/03/21/eua-russia-diplomacia-esporte-hoquei-ping-pong)
+- [‘Narrativa bolsonarista pode provocar retaliação dos EUA’](https://www.nexojornal.com.br/entrevista/2025/03/21/narrativa-bolsonarista-retaliacao-eua-entrevista-paulo-abrao)
+- [Por que a seleção embrionária é um privilégio no Brasil](https://www.nexojornal.com.br/reportagem/2025/03/21/selecao-embrionario-privilegio-doencas-geneticas)
+- [Como o clima extremo aumenta apagões na América Latina](https://www.nexojornal.com.br/externo/2025/03/21/meio-ambiente-clima-extremo-aumenta-apagao-luz-america-latina)
+- [O que nos leva a acumular. E como praticar o desapego](https://www.nexojornal.com.br/externo/2025/03/21/acumuladores-psicologia-como-praticar-desapego-material)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
