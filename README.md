@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para entender o fenômeno do bolsonarismo](https://www.nexojornal.com.br/estante-favoritos/2025/03/21/bolsonarismo-livro-indicacao-sergio-schargel)
+- [O tamanho das guardas municipais, segundo dados do IBGE](https://www.nexojornal.com.br/grafico/2025/03/21/guarda-municipal-numero-de-guardas-brasil-ibge)
 - [‘Pequenas coisas como estas’: a história dos asilos de Madalena](https://www.nexojornal.com.br/expresso/2025/03/21/asilo-de-madalena-filme-pequenas-coisas-como-estas)
 - [Os problemas de crianças aderirem à cultura fitness](https://www.nexojornal.com.br/externo/2025/03/21/vida-fitness-crianca-impactos)
 - [‘Membrana’: vestígios do futuro do homem e da tecnologia](https://www.nexojornal.com.br/estante-trechos/2025/03/21/livro-membrana-jorge-carrion-trecho)
-- [A reação em Alcântara após julgamento em tribunal internacional](https://www.nexojornal.com.br/externo/2025/03/21/condenacao-alcantara-tribunal-internacional-quilombolas)
-- [Como ‘Os Goonies’ marcou a cultura pop na década de 1980](https://www.nexojornal.com.br/expresso/2025/03/21/cultura-pop-anos-80-filme-os-goonies)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
