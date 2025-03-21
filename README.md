@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [As Coisas Como Elas São — Uma iniciação ao budismo comum](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-coisas-como-elas-sao-uma-iniciacao-ao-budismo-comum/)
+- [Entre ruínas e reconstruções](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/entre-ruinas-e-reconstrucoes/)
 - [“Adolescência”, novo fenômeno da Netflix](https://gamarevista.uol.com.br/achamos-que-vale/assistir/adolescencia-novo-fenomeno-da-netflix/)
 - [“Quanto Mais Eu Como, Mais Fome eu Sinto”, de Djonga](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/quanto-mais-eu-como-mais-fome-eu-sinto-de-djonga/)
 - [A trilogia inicial de Ripley, em nova edição da Intrínseca](https://gamarevista.uol.com.br/achamos-que-vale/ler/a-trilogia-inicial-de-ripley-em-nova-edicao-da-intrinseca/)
-- [Adolescentes infratores digitais no podcast “Fio da Meada”](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/adolescentes-infratores-digitais-no-podcast-fio-da-meada/)
-- [Concertos gratuitos em São Paulo](https://gamarevista.uol.com.br/achamos-que-vale/ir/concertos-gratuitos-em-sao-paulo/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
