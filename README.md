@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que Trump quer fechar o Departamento de Educação dos EUA](https://www.nexojornal.com.br/expresso/2025/03/20/eua-trump-departamento-de-educacao)
+- [Como a cultura de jogos universitários reforça violências](https://www.nexojornal.com.br/expresso/2025/03/20/jogos-universitarios-violencia)
+- [Os desafios para a preservação de Ouro Preto](https://www.nexojornal.com.br/academico/2025/03/20/ouro-preto-preservacao-patrimonio-historico-pesquisa)
 - [Por que o novo ‘Branca de Neve’ está gerando tanta discórdia](https://www.nexojornal.com.br/expresso/2025/03/20/branca-de-neve-filme-2025-live-action-critica)
 - [A rede agroecológica de mulheres do Vale do Ribeira](https://www.nexojornal.com.br/externo/2025/03/20/agricultura-vale-do-ribeira-mulheres-criam-rede-agroecologica)
-- [Os entraves à remoção de estátuas de escravizadores no país](https://www.nexojornal.com.br/externo/2025/03/20/estatuas-escravocratas-brasil-remocao)
-- [Luz de outono: por que o céu fica diferente durante a estação](https://www.nexojornal.com.br/expresso/2025/03/20/outono-ceu-durante-a-estacao)
-- [3 pontos para ficar de olho no Orçamento de 2025](https://www.nexojornal.com.br/expresso/2025/03/20/orcamento-federal-2025-votacao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
