@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Beleza fatal’: Camila Pitanga faz de Lola a vilã do século](https://www.nexojornal.com.br/colunistas/2025/03/21/beleza-fatal-max-ultimo-capitulo)
 - [Por que Trump quer fechar o Departamento de Educação dos EUA](https://www.nexojornal.com.br/expresso/2025/03/20/eua-trump-departamento-de-educacao)
 - [Como a cultura de jogos universitários reforça violências](https://www.nexojornal.com.br/expresso/2025/03/20/jogos-universitarios-violencia)
 - [Os desafios para a preservação de Ouro Preto](https://www.nexojornal.com.br/academico/2025/03/20/ouro-preto-preservacao-patrimonio-historico-pesquisa)
 - [Por que o novo ‘Branca de Neve’ está gerando tanta discórdia](https://www.nexojornal.com.br/expresso/2025/03/20/branca-de-neve-filme-2025-live-action-critica)
-- [A rede agroecológica de mulheres do Vale do Ribeira](https://www.nexojornal.com.br/externo/2025/03/20/agricultura-vale-do-ribeira-mulheres-criam-rede-agroecologica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
