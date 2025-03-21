@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Pequenas coisas como estas’: a história dos asilos de Madalena](https://www.nexojornal.com.br/expresso/2025/03/21/asilo-de-madalena-filme-pequenas-coisas-como-estas)
+- [Os problemas de crianças aderirem à cultura fitness](https://www.nexojornal.com.br/externo/2025/03/21/vida-fitness-crianca-impactos)
+- [‘Membrana’: vestígios do futuro do homem e da tecnologia](https://www.nexojornal.com.br/estante-trechos/2025/03/21/livro-membrana-jorge-carrion-trecho)
 - [A reação em Alcântara após julgamento em tribunal internacional](https://www.nexojornal.com.br/externo/2025/03/21/condenacao-alcantara-tribunal-internacional-quilombolas)
 - [Como ‘Os Goonies’ marcou a cultura pop na década de 1980](https://www.nexojornal.com.br/expresso/2025/03/21/cultura-pop-anos-80-filme-os-goonies)
-- [‘Beleza fatal’: Camila Pitanga faz de Lola a vilã do século](https://www.nexojornal.com.br/colunistas/2025/03/21/beleza-fatal-max-ultimo-capitulo)
-- [Por que Trump quer fechar o Departamento de Educação dos EUA](https://www.nexojornal.com.br/expresso/2025/03/20/eua-trump-departamento-de-educacao)
-- [Como a cultura de jogos universitários reforça violências](https://www.nexojornal.com.br/expresso/2025/03/20/jogos-universitarios-violencia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
