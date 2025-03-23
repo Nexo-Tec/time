@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Hóquei e pingue-pongue: os esportes na diplomacia dos EUA](https://www.nexojornal.com.br/expresso/2025/03/21/eua-russia-diplomacia-esporte-hoquei-ping-pong)
-- [‘Narrativa bolsonarista pode provocar retaliação dos EUA’](https://www.nexojornal.com.br/entrevista/2025/03/21/narrativa-bolsonarista-retaliacao-eua-entrevista-paulo-abrao)
-- [Por que a seleção embrionária é um privilégio no Brasil](https://www.nexojornal.com.br/reportagem/2025/03/21/selecao-embrionario-privilegio-doencas-geneticas)
-- [Como o clima extremo aumenta apagões na América Latina](https://www.nexojornal.com.br/externo/2025/03/21/meio-ambiente-clima-extremo-aumenta-apagao-luz-america-latina)
-- [O que nos leva a acumular. E como praticar o desapego](https://www.nexojornal.com.br/externo/2025/03/21/acumuladores-psicologia-como-praticar-desapego-material)
+- [Terremotos na Turquia impactaram trajetória de pesquisador brasileiro](https://www.nexojornal.com.br/externo/2025/03/23/terremoto-turquia-relacao-antioquia-e-sao-paulo-estudo)
+- [‘O ambientalismo tem sido um espaço da branquitude’](https://www.nexojornal.com.br/entrevista/2025/03/23/crise-climatica-e-racismo-entrevista-malcom-ferdinand-uma-ecologia-decolonial)
+- [Por que não existe o ‘carvão limpo’ que Trump quer incentivar](https://www.nexojornal.com.br/externo/2025/03/23/trump-fake-news-carvao-limpo-combustivel-fossil)
+- [A resistência das comunidades afetadas pela mineração](https://www.nexojornal.com.br/ensaio/2025/03/23/mineracao-impacto-populacao-atingida)
+- [A proporcionalidade das penas de quem invadiu os Poderes](https://www.nexojornal.com.br/expresso/2025/03/23/8-de-janeiro-invasao-tres-poderes-pena-invasores-proporcionalidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
