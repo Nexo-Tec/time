@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a prisão do prefeito de Istambul fecha mais a Turquia](https://www.nexojornal.com.br/expresso/2025/03/24/politica-turquia-erdogan-opositor-preso-ekrem-imamoglu)
 - [Desconfie de seus óculos de sol](https://www.nexojornal.com.br/externo/2025/03/24/oculos-de-sol-protecao-uv-necessaria)
 - [A cultura do artesanato em comunidades tradicionais](https://www.nexojornal.com.br/externo/2025/03/24/artesanato-cultura-povos-indigenas-e-quilombolas)
 - [O que une as mulheres brasileiras em um contexto polarizado](https://www.nexojornal.com.br/expresso/2025/03/24/mulheres-unidas-contexto-polarizacao)
 - [Por que ‘Assassin’s Creed’ mobiliza o governo do Japão](https://www.nexojornal.com.br/expresso/2025/03/24/jogo-videogame-assassins-creed-japao-critica)
-- [A inflação resistente, o risco fiscal e os juros em alta no Brasil](https://www.nexojornal.com.br/ensaio/2025/03/23/economia-brasil-inflacao-aumento-juros)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
