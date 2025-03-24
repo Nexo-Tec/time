@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A inflação resistente, o risco fiscal e os juros em alta no Brasil](https://www.nexojornal.com.br/ensaio/2025/03/23/economia-brasil-inflacao-aumento-juros)
+- [Supersalários: como resgatar o teto constitucional?](https://www.nexojornal.com.br/expresso/2025/03/23/supersalarios-brasil-servidor-publico-teto-constitucional)
 - [Terremotos na Turquia impactaram trajetória de pesquisador brasileiro](https://www.nexojornal.com.br/externo/2025/03/23/terremoto-turquia-relacao-antioquia-e-sao-paulo-estudo)
 - [‘O ambientalismo tem sido um espaço da branquitude’](https://www.nexojornal.com.br/entrevista/2025/03/23/crise-climatica-e-racismo-entrevista-malcom-ferdinand-uma-ecologia-decolonial)
 - [Por que não existe o ‘carvão limpo’ que Trump quer incentivar](https://www.nexojornal.com.br/externo/2025/03/23/trump-fake-news-carvao-limpo-combustivel-fossil)
-- [A resistência das comunidades afetadas pela mineração](https://www.nexojornal.com.br/ensaio/2025/03/23/mineracao-impacto-populacao-atingida)
-- [A proporcionalidade das penas de quem invadiu os Poderes](https://www.nexojornal.com.br/expresso/2025/03/23/8-de-janeiro-invasao-tres-poderes-pena-invasores-proporcionalidade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
