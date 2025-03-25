@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que a má conduta científica está aumentando?](https://www.nexojornal.com.br/externo/2025/03/24/ciencia-ma-conduta-artigo-cientifico-retratado)
+- [7 pontos do julgamento da denúncia contra Bolsonaro no STF](https://www.nexojornal.com.br/expresso/2025/03/24/jair-bolsonaro-julgamento-stf)
+- [Como Ednaldo Rodrigues se mantém no poder da CBF](https://www.nexojornal.com.br/expresso/2025/03/24/futebol-cbf-presidente-ednaldo-rodrigues-reeleicao)
 - [Como a prisão do prefeito de Istambul fecha mais a Turquia](https://www.nexojornal.com.br/expresso/2025/03/24/politica-turquia-erdogan-opositor-preso-ekrem-imamoglu)
 - [Desconfie de seus óculos de sol](https://www.nexojornal.com.br/externo/2025/03/24/oculos-de-sol-protecao-uv-necessaria)
-- [A cultura do artesanato em comunidades tradicionais](https://www.nexojornal.com.br/externo/2025/03/24/artesanato-cultura-povos-indigenas-e-quilombolas)
-- [O que une as mulheres brasileiras em um contexto polarizado](https://www.nexojornal.com.br/expresso/2025/03/24/mulheres-unidas-contexto-polarizacao)
-- [Por que ‘Assassin’s Creed’ mobiliza o governo do Japão](https://www.nexojornal.com.br/expresso/2025/03/24/jogo-videogame-assassins-creed-japao-critica)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
