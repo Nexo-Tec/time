@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que um grupo de Signal revela sobre o governo Trump](https://www.nexojornal.com.br/expresso/2025/03/25/signal-trump-jornalista-plano-militar)
 - [A rádio que convida DJs para tocar com chefs de cozinha](https://www.nexojornal.com.br/expresso/2025/03/25/musica-dj-toca-enquanto-chef-cozinha-let-him-cook-radio)
 - [Por que a má conduta científica está aumentando?](https://www.nexojornal.com.br/externo/2025/03/24/ciencia-ma-conduta-artigo-cientifico-retratado)
 - [7 pontos do julgamento da denúncia contra Bolsonaro no STF](https://www.nexojornal.com.br/expresso/2025/03/24/jair-bolsonaro-julgamento-stf)
 - [Como Ednaldo Rodrigues se mantém no poder na CBF](https://www.nexojornal.com.br/expresso/2025/03/24/futebol-cbf-presidente-ednaldo-rodrigues-reeleicao)
-- [Como a prisão do prefeito de Istambul fecha mais a Turquia](https://www.nexojornal.com.br/expresso/2025/03/24/politica-turquia-erdogan-opositor-preso-ekrem-imamoglu)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
