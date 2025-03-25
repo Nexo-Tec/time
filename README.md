@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@aimeelouwood](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/aimeelouwood/)
 - [Adanilo](https://gamarevista.uol.com.br/pessoas/questionario-proust/adanilo/)
 - [Fernando Aguzzoli: Alzheimer e identidade](https://gamarevista.uol.com.br/podcast/podcast-da-semana/fernando-aguzzoli/)
 - [O day after do Marco Civil](https://gamarevista.uol.com.br/colunistas/francisco-brito-cruz/o-day-after-do-marco-civil/)
 - [As Coisas Como Elas São — Uma iniciação ao budismo comum](https://gamarevista.uol.com.br/cultura/trecho-de-livro/as-coisas-como-elas-sao-uma-iniciacao-ao-budismo-comum/)
-- [Entre ruínas e reconstruções](https://gamarevista.uol.com.br/colunistas/observatorio-da-branquitude/entre-ruinas-e-reconstrucoes/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
