@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que nem parques nacionais escapam dos agrotóxicos](https://www.nexojornal.com.br/externo/2025/03/25/agrotoxicos-atingem-parques-nacionais-pesquisa)
+- [A opressão nas aldeias palestinas retratadas em ‘Sem chão’](https://www.nexojornal.com.br/expresso/2025/03/25/hamdan-ballal-documentario-sem-chao-no-other-land-aldeias-palestinas-ataques)
 - [O que um grupo de Signal revela sobre o governo Trump](https://www.nexojornal.com.br/expresso/2025/03/25/signal-trump-jornalista-plano-militar)
 - [A rádio que convida DJs para tocar com chefs de cozinha](https://www.nexojornal.com.br/expresso/2025/03/25/musica-dj-toca-enquanto-chef-cozinha-let-him-cook-radio)
 - [Por que a má conduta científica está aumentando?](https://www.nexojornal.com.br/externo/2025/03/24/ciencia-ma-conduta-artigo-cientifico-retratado)
-- [7 pontos do julgamento da denúncia contra Bolsonaro no STF](https://www.nexojornal.com.br/expresso/2025/03/24/jair-bolsonaro-julgamento-stf)
-- [Como Ednaldo Rodrigues se mantém no poder na CBF](https://www.nexojornal.com.br/expresso/2025/03/24/futebol-cbf-presidente-ednaldo-rodrigues-reeleicao)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
