@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O aumento do preço dos alimentos sob Lula e sob Bolsonaro](https://www.nexojornal.com.br/grafico/2025/03/25/inflacao-alimentos-comparativo-governo-lula-e-bolsonaro-grafico)
+- [Faz sentido falar em ultraprocessados menos piores?](https://www.nexojornal.com.br/externo/2025/03/25/alimentos-ultraprocessados-menos-piores)
+- [Celso Amorim está errado sobre a Rússia e a Ucrânia](https://www.nexojornal.com.br/colunistas/2025/03/25/celso-amorim-guerra-russia-ucrania)
+- [Denúncia no STF: o que falta para saber se Bolsonaro é réu](https://www.nexojornal.com.br/expresso/2025/03/25/julgamento-bolsonaro-stf-reu-o-que-falta)
 - [Por que nem parques nacionais escapam dos agrotóxicos](https://www.nexojornal.com.br/externo/2025/03/25/agrotoxicos-atingem-parques-nacionais-pesquisa)
-- [A opressão nas aldeias palestinas retratadas em ‘Sem chão’](https://www.nexojornal.com.br/expresso/2025/03/25/hamdan-ballal-documentario-sem-chao-no-other-land-aldeias-palestinas-ataques)
-- [O que um grupo de Signal revela sobre o governo Trump](https://www.nexojornal.com.br/expresso/2025/03/25/signal-trump-jornalista-plano-militar)
-- [A rádio que convida DJs para tocar com chefs de cozinha](https://www.nexojornal.com.br/expresso/2025/03/25/musica-dj-toca-enquanto-chef-cozinha-let-him-cook-radio)
-- [Por que a má conduta científica está aumentando?](https://www.nexojornal.com.br/externo/2025/03/24/ciencia-ma-conduta-artigo-cientifico-retratado)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
