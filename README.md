@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Milei tenta reescrever a memória da ditadura argentina](https://www.nexojornal.com.br/expresso/2025/03/26/milei-ditadura-argentina-acoes-contra-esquerda)
+- [8 derrotas da seleção que puseram o futebol brasileiro no divã](https://www.nexojornal.com.br/expresso/2025/03/26/derrotas-selecao-brasil-futebol)
 - [O aumento do preço dos alimentos sob Lula e sob Bolsonaro](https://www.nexojornal.com.br/grafico/2025/03/25/inflacao-alimentos-comparativo-governo-lula-e-bolsonaro-grafico)
 - [Faz sentido falar em ultraprocessados menos piores?](https://www.nexojornal.com.br/externo/2025/03/25/alimentos-ultraprocessados-menos-piores)
 - [Celso Amorim está errado sobre a Rússia e a Ucrânia](https://www.nexojornal.com.br/colunistas/2025/03/25/celso-amorim-guerra-russia-ucrania)
-- [Como foi o julgamento que fez de Bolsonaro réu pela trama golpista](https://www.nexojornal.com.br/expresso/2025/03/25/julgamento-bolsonaro-stf-reu-o-que-falta)
-- [Por que nem parques nacionais escapam dos agrotóxicos](https://www.nexojornal.com.br/externo/2025/03/25/agrotoxicos-atingem-parques-nacionais-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
