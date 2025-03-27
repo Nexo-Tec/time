@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os riscos de privacidade nos testes genéticos](https://www.nexojornal.com.br/expresso/2025/03/27/teste-genetico-privacidade-vazamento-dados)
 - [O debate sobre o ‘fim’ das emendas parlamentares](https://www.nexojornal.com.br/ensaio/2025/03/26/fim-das-emendas-parlamentares-debate)
 - [Como os pandas conseguem sobreviver comendo bambus](https://www.nexojornal.com.br/externo/2025/03/26/panda-alimentacao-bambu-saude-animal)
 - [A quem pertencem os presentes recebidos pela Presidência](https://www.nexojornal.com.br/academico/2025/03/26/brasil-presente-presidente-regras)
 - [Bolsonaro réu: as ações penais contra ex-presidentes no Brasil](https://www.nexojornal.com.br/podcast/2025/03/26/julgamento-bolsonaro-reu-historico-acoes-penais-ex-presidentes-brasil)
-- [A morte do prefeito de Belo Horizonte. E os rumos da cidade](https://www.nexojornal.com.br/expresso/2025/03/26/fuad-noman-morreu-vice-assume-prefeitura-belo-horizonte)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
