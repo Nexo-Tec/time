@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Sul, onde há mais projetos de lei antiLGBTI+ do que pró](https://www.nexojornal.com.br/externo/2025/03/27/projeto-de-lei-anti-lgbt-sul-do-brasil)
 - [Uma criança acusada de um crime e o que temos a ver com isso](https://www.nexojornal.com.br/colunistas/2025/03/27/serie-adolescencia-netflix-vida-real-sociedade)
 - [A trajetória da artista autodidata Madalena Reinbolt](https://www.nexojornal.com.br/expresso/2025/03/27/a-trajetoria-da-artista-autodidata-madalena-reinbolt)
 - [Os prós e contras do programa de crédito consignado de Lula](https://www.nexojornal.com.br/expresso/2025/03/27/consignado-clt-programa-credito-ttrabalhador-lula)
 - [As IAs de pesquisa profunda em trabalhos acadêmicos](https://www.nexojornal.com.br/externo/2025/03/27/ia-pesquisa-profunda-trabalho-academico)
-- [Os riscos de privacidade nos testes genéticos](https://www.nexojornal.com.br/expresso/2025/03/27/teste-genetico-privacidade-vazamento-dados)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
