@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A trajetória da artista autodidata Madalena Reinbolt](https://www.nexojornal.com.br/expresso/2025/03/27/a-trajetoria-da-artista-autodidata-madalena-reinbolt)
 - [Os prós e contras do programa de crédito consignado de Lula](https://www.nexojornal.com.br/expresso/2025/03/27/consignado-clt-programa-credito-ttrabalhador-lula)
 - [As IAs de pesquisa profunda em trabalhos acadêmicos](https://www.nexojornal.com.br/externo/2025/03/27/ia-pesquisa-profunda-trabalho-academico)
 - [Os riscos de privacidade nos testes genéticos](https://www.nexojornal.com.br/expresso/2025/03/27/teste-genetico-privacidade-vazamento-dados)
 - [O debate sobre o ‘fim’ das emendas parlamentares](https://www.nexojornal.com.br/ensaio/2025/03/26/fim-das-emendas-parlamentares-debate)
-- [Como os pandas conseguem sobreviver comendo bambus](https://www.nexojornal.com.br/externo/2025/03/26/panda-alimentacao-bambu-saude-animal)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
