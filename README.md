@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Sem trabalho coletivo da comunidade escolar, não há inclusão](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/27/sem-trabalho-coletivo-da-comunidade-escolar-nao-ha-inclusao/)
+- [Desigualdade racial na produtividade brasileira](https://pp.nexojornal.com.br/opiniao/2025/03/27/desigualdade-racial-na-produtividade-brasileira/)
 - [Sistemas de ensino eficazes na gestão da aprendizagem](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/27/sistemas-de-ensino-eficazes-na-gestao-da-aprendizagem/)
 - [Mudanças climáticas e os riscos para o desenvolvimento infantil](https://pp.nexojornal.com.br/opiniao/2025/03/26/mudancas-climaticas-e-os-riscos-para-o-desenvolvimento-infantil/)
 - [Já que ainda estamos aqui: os cinco anos desde o início da pandemia de covid-19](https://pp.nexojornal.com.br/opiniao/2025/03/20/ja-que-ainda-estamos-aqui-os-cinco-anos-desde-o-inicio-da-pandemia-de-covid-19/)
-- [O Fundeb em 2025: avanços, desafios e a busca por mais equidade na educação brasileira](https://pp.nexojornal.com.br/opiniao/2025/03/19/o-fundeb-em-2025-avancos-desafios-e-a-busca-por-mais-equidade-na-educacao-brasileira/)
-- [Carolina Rocha: disputas político-religiosas nos territórios de favela](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2025/03/17/carolina-rocha-disputas-politico-religiosas-nos-territorios-de-favela/)
 <!-- PP_LIST:END -->
 
