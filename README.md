@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O debate sobre o ‘fim’ das emendas parlamentares](https://www.nexojornal.com.br/ensaio/2025/03/26/fim-das-emendas-parlamentares-debate)
+- [Como os pandas conseguem sobreviver comendo bambus](https://www.nexojornal.com.br/externo/2025/03/26/panda-alimentacao-bambu-saude-animal)
+- [A quem pertencem os presentes recebidos pela Presidência](https://www.nexojornal.com.br/academico/2025/03/26/brasil-presente-presidente-regras)
+- [Bolsonaro réu: as ações penais contra ex-presidentes no Brasil](https://www.nexojornal.com.br/podcast/2025/03/26/julgamento-bolsonaro-reu-historico-acoes-penais-ex-presidentes-brasil)
 - [A morte do prefeito de Belo Horizonte. E os rumos da cidade](https://www.nexojornal.com.br/expresso/2025/03/26/fuad-noman-morreu-vice-assume-prefeitura-belo-horizonte)
-- [Como garantir sono de qualidade para as crianças](https://www.nexojornal.com.br/externo/2025/03/26/sono-de-qualidade-crianca-rotina-noturna-saudavel)
-- [Celso Amorim: ‘Multilateralismo não é perfeito, mas é freio’](https://www.nexojornal.com.br/video/2025/03/26/celso-amorim-multilateralismo-nao-e-perfeito-mas-e-freio)
-- [Como Milei tenta reescrever a memória da ditadura argentina](https://www.nexojornal.com.br/expresso/2025/03/26/milei-ditadura-argentina-acoes-contra-esquerda)
-- [8 derrotas da seleção que puseram o futebol brasileiro no divã](https://www.nexojornal.com.br/expresso/2025/03/26/derrotas-selecao-brasil-futebol)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
