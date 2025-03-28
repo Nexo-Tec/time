@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Coisa que Não Edifica Nem Destrói](https://gamarevista.uol.com.br/cultura/trecho-de-livro/coisa-que-nao-edifica-nem-destroi/)
 - [O novo prédio do Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-predio-do-masp/)
 - [“Novo Mundo”, de Arnaldo Antunes](https://gamarevista.uol.com.br/achamos-que-vale/novo-mundo-de-arnaldo-antunes/)
 - [A nova edição da biografia de Elis Regina](https://gamarevista.uol.com.br/achamos-que-vale/a-nova-edicao-da-biografia-de-elis-regina/)
 - [“Parthenope”, novo filme de Paolo Sorrentino](https://gamarevista.uol.com.br/achamos-que-vale/parthenope-novo-filme-de-paolo-sorrentino/)
-- [A sabedoria de Zadie Smith no podcast “Wild Card”](https://gamarevista.uol.com.br/achamos-que-vale/a-sabedoria-de-zadie-smith-no-podcast-wild-card/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
