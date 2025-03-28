@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros para pensar sobre racismo religioso no Brasil](https://www.nexojornal.com.br/estante-favoritos/2025/03/28/racismo-religioso-livros-referencia-indicacao-carolina-rocha)
+- [As adaptações de ‘O morro dos ventos uivantes’ para as telas](https://www.nexojornal.com.br/expresso/2025/03/28/livro-adaptacao-filme-cinema-o-morro-dos-ventos-uivantes)
+- [Noiadance: o ritmo de Porto Velho que ganhou as redes](https://www.nexojornal.com.br/expresso/2025/03/28/musica-genero-noiadance-porto-velho)
+- [Como a morte de Odete Roitman movimentou o Brasil](https://www.nexojornal.com.br/expresso/2025/03/28/novela-vale-tudo-quem-matou-odete-roitman-repercussao)
 - [‘Utopias amazônicas’: novas perspectivas para buscar o amanhã](https://www.nexojornal.com.br/estante-trechos/2025/03/28/livro-utopias-amazonicas-marcos-colon-edna-castro-trecho)
-- [Brasileirão 2025 começa com menor número de estados representados](https://www.nexojornal.com.br/grafico/2025/03/28/futebol-brasileirao-serie-a-2025-times)
-- [8 maneiras de reduzir o risco de AVC, em qualquer idade](https://www.nexojornal.com.br/externo/2025/03/28/avc-derrame-como-prevenir-evitar)
-- [Outro filme de máfia com Robert De Niro tem algo a dizer?](https://www.nexojornal.com.br/expresso/2025/03/28/filme-mafia-italiana-robert-de-niro-the-alto-knights)
-- [A decisão que anulou a condenação de Daniel Alves por estupro](https://www.nexojornal.com.br/expresso/2025/03/28/julgamento-de-daniel-alves-absolvido)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
