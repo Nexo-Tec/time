@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Gênero e as disputas políticas contemporâneas](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/28/genero-e-as-disputas-politicas-contemporaneas/)
+- [Como moradores de periferias urbanas se relacionam com o empreendedorismo](https://pp.nexojornal.com.br/academico/2025/03/28/como-moradores-de-periferias-urbanas-se-relacionam-com-o-empreendedorismo/)
+- [É grave doutor? Baixo grau de literacia digital como problema de saúde pública](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/28/e-grave-doutor-baixo-grau-de-literacia-digital-como-problema-de-saude-publica/)
 - [O desmonte da política de promoção da igualdade racial no Brasil &lpar;2016-2022&rpar;](https://pp.nexojornal.com.br/academico/2025/03/27/o-desmonte-da-politica-de-promocao-da-igualdade-racial-no-brasil-2016-2022/)
 - [Responsabilidades climáticas dos produtores industriais de carnes e laticínios](https://pp.nexojornal.com.br/academico/2025/03/27/responsabilidades-climaticas-dos-produtores-industriais-de-carnes-e-laticinios/)
-- [Sem trabalho coletivo da comunidade escolar, não há inclusão](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/27/sem-trabalho-coletivo-da-comunidade-escolar-nao-ha-inclusao/)
-- [Desigualdade racial na produtividade brasileira](https://pp.nexojornal.com.br/opiniao/2025/03/27/desigualdade-racial-na-produtividade-brasileira/)
-- [Sistemas de ensino eficazes na gestão da aprendizagem](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/27/sistemas-de-ensino-eficazes-na-gestao-da-aprendizagem/)
 <!-- PP_LIST:END -->
 
