@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Utopias amazônicas’: novas perspectivas para buscar o amanhã](https://www.nexojornal.com.br/estante-trechos/2025/03/28/livro-utopias-amazonicas-marcos-colon-edna-castro-trecho)
+- [Brasileirão 2025 começa com menor número de estados representados](https://www.nexojornal.com.br/grafico/2025/03/28/futebol-brasileirao-serie-a-2025-times)
+- [8 maneiras de reduzir o risco de AVC, em qualquer idade](https://www.nexojornal.com.br/externo/2025/03/28/avc-derrame-como-prevenir-evitar)
 - [Outro filme de máfia com Robert De Niro tem algo a dizer?](https://www.nexojornal.com.br/expresso/2025/03/28/filme-mafia-italiana-robert-de-niro-the-alto-knights)
 - [A decisão que anulou a condenação de Daniel Alves por estupro](https://www.nexojornal.com.br/expresso/2025/03/28/julgamento-de-daniel-alves-absolvido)
-- [Quais são os próximos núcleos do golpe julgados pelo STF](https://www.nexojornal.com.br/expresso/2025/03/27/julgamento-bolsonaro-stf-envolvidos-que-serao-julgados)
-- [Sul, onde há mais projetos de lei antiLGBTI+ do que pró](https://www.nexojornal.com.br/externo/2025/03/27/projeto-de-lei-anti-lgbt-sul-do-brasil)
-- [Uma criança acusada de um crime e o que temos a ver com isso](https://www.nexojornal.com.br/colunistas/2025/03/27/serie-adolescencia-netflix-vida-real-sociedade)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
