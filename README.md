@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Por que Wall Street agora vê Trump com desconfiança](https://www.nexojornal.com.br/expresso/2025/03/29/trump-governo-economia-relacao-wall-street)
+- [Como a inteligência artificial afeta as relações corporativas](https://www.nexojornal.com.br/ensaio/2025/03/29/ia-inteligencia-artificial-relacoes-corporativas)
+- [A predominância genética dos inuítes na Groenlândia](https://www.nexojornal.com.br/expresso/2025/03/29/groenlandia-genetica-predominante-inuites-ancestrais-indigenas)
 - [O condomínio que avança sobre uma área de proteção ambiental](https://www.nexojornal.com.br/expresso/2025/03/29/condominio-jacarei-area-protecao-ambiental-acao-ministerio-publico)
 - [A jornada do parto humanizado retratada em uma HQ](https://www.nexojornal.com.br/externo/2025/03/28/parto-humanizado-informacao-hq-debaixo-d-agua)
-- [Estação seca mais quente reduz em 63% taxa de sobrevivência de aves da Amazônia](https://www.nexojornal.com.br/externo/2025/03/28/amazonia-aves-impacto-sobrevivencia-aumento-1o-c)
-- [Alimentos similares: o que a lei diz sobre as opções ao original](https://www.nexojornal.com.br/expresso/2025/03/28/alimentos-similares-aprovacao-anvisa-grau-de-impureza)
-- [‘Julgar Bolsonaro antes da eleição vai rearticular a direita’](https://www.nexojornal.com.br/entrevista/2025/03/28/julgamento-bolsonaro-stf-entrevista-carla-teixeira)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
