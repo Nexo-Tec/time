@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A jornada do parto humanizado retratada em uma HQ](https://www.nexojornal.com.br/externo/2025/03/28/parto-humanizado-informacao-hq-debaixo-d-agua)
+- [Estação seca mais quente reduz em 63% taxa de sobrevivência de aves da Amazônia](https://www.nexojornal.com.br/externo/2025/03/28/amazonia-aves-impacto-sobrevivencia-aumento-1o-c)
+- [Alimentos similares: o que a lei diz sobre as opções ao original](https://www.nexojornal.com.br/expresso/2025/03/28/alimentos-similares-aprovacao-anvisa-grau-de-impureza)
+- [‘Julgar Bolsonaro antes da eleição vai rearticular a direita’](https://www.nexojornal.com.br/entrevista/2025/03/28/julgamento-bolsonaro-stf-entrevista-carla-teixeira)
 - [5 livros para pensar sobre racismo religioso no Brasil](https://www.nexojornal.com.br/estante-favoritos/2025/03/28/racismo-religioso-livros-referencia-indicacao-carolina-rocha)
-- [As adaptações de ‘O morro dos ventos uivantes’ para as telas](https://www.nexojornal.com.br/expresso/2025/03/28/livro-adaptacao-filme-cinema-o-morro-dos-ventos-uivantes)
-- [Noiadance: o ritmo de Porto Velho que ganhou as redes](https://www.nexojornal.com.br/expresso/2025/03/28/musica-genero-noiadance-porto-velho)
-- [Como a morte de Odete Roitman movimentou o Brasil](https://www.nexojornal.com.br/expresso/2025/03/28/novela-vale-tudo-quem-matou-odete-roitman-repercussao)
-- [‘Utopias amazônicas’: novas perspectivas para buscar o amanhã](https://www.nexojornal.com.br/estante-trechos/2025/03/28/livro-utopias-amazonicas-marcos-colon-edna-castro-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
