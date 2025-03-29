@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O condomínio que avança sobre uma área de proteção ambiental](https://www.nexojornal.com.br/expresso/2025/03/29/condominio-jacarei-area-protecao-ambiental-acao-ministerio-publico)
 - [A jornada do parto humanizado retratada em uma HQ](https://www.nexojornal.com.br/externo/2025/03/28/parto-humanizado-informacao-hq-debaixo-d-agua)
 - [Estação seca mais quente reduz em 63% taxa de sobrevivência de aves da Amazônia](https://www.nexojornal.com.br/externo/2025/03/28/amazonia-aves-impacto-sobrevivencia-aumento-1o-c)
 - [Alimentos similares: o que a lei diz sobre as opções ao original](https://www.nexojornal.com.br/expresso/2025/03/28/alimentos-similares-aprovacao-anvisa-grau-de-impureza)
 - [‘Julgar Bolsonaro antes da eleição vai rearticular a direita’](https://www.nexojornal.com.br/entrevista/2025/03/28/julgamento-bolsonaro-stf-entrevista-carla-teixeira)
-- [5 livros para pensar sobre racismo religioso no Brasil](https://www.nexojornal.com.br/estante-favoritos/2025/03/28/racismo-religioso-livros-referencia-indicacao-carolina-rocha)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
