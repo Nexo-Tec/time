@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Debora Terribilli: Emagrecimento e massa muscular](https://gamarevista.uol.com.br/podcast/podcast-da-semana/debora-terribilli/)
 - [Coisa que Não Edifica Nem Destrói](https://gamarevista.uol.com.br/cultura/trecho-de-livro/coisa-que-nao-edifica-nem-destroi/)
 - [O novo prédio do Masp](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-novo-predio-do-masp/)
 - [“Novo Mundo”, de Arnaldo Antunes](https://gamarevista.uol.com.br/achamos-que-vale/novo-mundo-de-arnaldo-antunes/)
 - [A nova edição da biografia de Elis Regina](https://gamarevista.uol.com.br/achamos-que-vale/a-nova-edicao-da-biografia-de-elis-regina/)
-- [“Parthenope”, novo filme de Paolo Sorrentino](https://gamarevista.uol.com.br/achamos-que-vale/parthenope-novo-filme-de-paolo-sorrentino/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
