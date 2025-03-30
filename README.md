@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como as cidades cresceram mais que a população urbana no Brasil](https://www.nexojornal.com.br/expresso/2025/03/30/pesquisa-estudo-cidades-brasil-crescimento-urbano)
+- [Como aplicar emendas parlamentares em políticas públicas?](https://www.nexojornal.com.br/expresso/2025/03/30/emendas-parlamentares-orcamento-2025-politicas-publicas-evento-insper)
+- [O papel ativo da cultura no combate à crise climática](https://www.nexojornal.com.br/externo/2025/03/30/mudancas-climaticas-cultura-como-forma-de-combate-e-protecao)
 - [Por que Wall Street agora vê Trump com desconfiança](https://www.nexojornal.com.br/expresso/2025/03/29/trump-governo-economia-relacao-wall-street)
 - [Como a inteligência artificial afeta as relações corporativas](https://www.nexojornal.com.br/ensaio/2025/03/29/ia-inteligencia-artificial-relacoes-corporativas)
-- [A predominância genética dos inuítes na Groenlândia](https://www.nexojornal.com.br/expresso/2025/03/29/groenlandia-genetica-predominante-inuites-ancestrais-indigenas)
-- [O condomínio que avança sobre uma área de proteção ambiental](https://www.nexojornal.com.br/expresso/2025/03/29/condominio-jacarei-area-protecao-ambiental-acao-ministerio-publico)
-- [A jornada do parto humanizado retratada em uma HQ](https://www.nexojornal.com.br/externo/2025/03/28/parto-humanizado-informacao-hq-debaixo-d-agua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
