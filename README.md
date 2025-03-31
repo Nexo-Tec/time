@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como Trump sufocou quem lida com suas deportações](https://www.nexojornal.com.br/externo/2025/03/31/trump-deportacao-usaid-fluxo-migrantes)
 - [Como o ChatGPT expõe críticas do criador do Studio Ghibli](https://www.nexojornal.com.br/expresso/2025/03/31/chatgpt-ghibli-trend-critica-ia-inteligencia-artificial)
 - [A inelegibilidade de Marine Le Pen na França](https://www.nexojornal.com.br/expresso/2025/03/31/marine-le-pen-inelegivel-franca)
 - [Como grupos mercenários atuam nas guerras](https://www.nexojornal.com.br/externo/2025/03/31/empresa-militar-privada-exercitos-mercenarios-influencia-conflitos)
 - [Como as cidades cresceram mais que a população urbana no Brasil](https://www.nexojornal.com.br/expresso/2025/03/30/pesquisa-estudo-cidades-brasil-crescimento-urbano)
-- [Como aplicar emendas parlamentares em políticas públicas?](https://www.nexojornal.com.br/expresso/2025/03/30/emendas-parlamentares-orcamento-2025-politicas-publicas-evento-insper)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
