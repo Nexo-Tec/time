@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Kings League: o futebol adaptado à era do TikTok](https://www.nexojornal.com.br/expresso/2025/04/01/kings-league-brasil-futebol)
 - [O que fazer agora que crianças estão mais ansiosas que adultos](https://www.nexojornal.com.br/externo/2025/04/01/ansiedade-saude-mental-criancas-sintomas)
 - [Como Juscelino Kubitschek foi tratado pelos EUA na ditadura](https://www.nexojornal.com.br/externo/2025/04/01/ditadura-militar-brasil-juscelino-kubitschek-jk-relacao-eua)
 - [O cerco a rastreadores de jatos particulares de celebridades](https://www.nexojornal.com.br/expresso/2025/04/01/jatinho-celebridade-rastreador-poluicao-jack-sweeney)
 - [Por que a compra do Master mexe com o sistema bancário](https://www.nexojornal.com.br/expresso/2025/04/01/brb-compra-banco-master-impacto-economia-sistema-bancario)
-- [Por que a anistia ao 8 de janeiro coloca pouca gente nas ruas](https://www.nexojornal.com.br/expresso/2025/03/31/manifestacao-anistia-8-de-janeiro-sem-apoio-popular-motivo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
