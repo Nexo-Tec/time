@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O cerco a rastreadores de jatos particulares de celebridades](https://www.nexojornal.com.br/expresso/2025/04/01/jatinho-celebridade-rastreador-poluicao-jack-sweeney)
 - [Por que a compra do Master mexe com o sistema bancário](https://www.nexojornal.com.br/expresso/2025/04/01/brb-compra-banco-master-impacto-economia-sistema-bancario)
 - [Por que a anistia ao 8 de janeiro coloca pouca gente nas ruas](https://www.nexojornal.com.br/expresso/2025/03/31/manifestacao-anistia-8-de-janeiro-sem-apoio-popular-motivo)
 - [5 anos após a pandemia, involuímos cientificamente](https://www.nexojornal.com.br/colunistas/2025/03/31/pandemia-5-anos-involucao-cientifica)
 - [Como Trump sufocou quem lida com suas deportações](https://www.nexojornal.com.br/externo/2025/03/31/trump-deportacao-usaid-fluxo-migrantes)
-- [Como o ChatGPT expõe críticas do criador do Studio Ghibli](https://www.nexojornal.com.br/expresso/2025/03/31/chatgpt-ghibli-trend-critica-ia-inteligencia-artificial)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
