@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Kings League: o futebol adaptado à era do TikTok](https://www.nexojornal.com.br/expresso/2025/04/01/kings-league-brasil-futebol)
-- [O que fazer agora que crianças estão mais ansiosas que adultos](https://www.nexojornal.com.br/externo/2025/04/01/ansiedade-saude-mental-criancas-sintomas)
-- [Como Juscelino Kubitschek foi tratado pelos EUA na ditadura](https://www.nexojornal.com.br/externo/2025/04/01/ditadura-militar-brasil-juscelino-kubitschek-jk-relacao-eua)
-- [O cerco a rastreadores de jatos particulares de celebridades](https://www.nexojornal.com.br/expresso/2025/04/01/jatinho-celebridade-rastreador-poluicao-jack-sweeney)
-- [Por que a compra do Master mexe com o sistema bancário](https://www.nexojornal.com.br/expresso/2025/04/01/brb-compra-banco-master-impacto-economia-sistema-bancario)
+- [Por que desconfiar se um artigo científico for muito surpreendente](https://www.nexojornal.com.br/externo/2025/04/01/ciencia-artigo-cientifico-veracidade-como-descobrir-pesquisa-confiavel)
+- [O auge e a queda da Technicolor](https://www.nexojornal.com.br/video/2025/04/01/o-auge-e-a-queda-da-technicolor)
+- [A tentação de tornar a extrema direita inelegível](https://www.nexojornal.com.br/colunistas/2025/04/01/bolsonaro-marine-le-pen-inelegivel-extrema-direita-democracia)
+- [A lei tarifária que agravou a Depressão nos EUA nos anos 1930](https://www.nexojornal.com.br/expresso/2025/04/01/lei-tarifaria-trump-grande-depressao-eua)
+- [A queda da participação do dólar nas reservas internacionais](https://www.nexojornal.com.br/grafico/2025/04/01/dolar-americano-participacao-reservas-internacionais-grafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
