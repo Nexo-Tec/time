@@ -119,7 +119,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [O auge e a queda da Technicolor](https://www.nexojornal.com.br/video/2025/04/01/o-auge-e-a-queda-da-technicolor)
 - [A tentação de tornar a extrema direita inelegível](https://www.nexojornal.com.br/colunistas/2025/04/01/bolsonaro-marine-le-pen-inelegivel-extrema-direita-democracia)
 - [A lei tarifária que agravou a Depressão nos EUA nos anos 1930](https://www.nexojornal.com.br/expresso/2025/04/01/lei-tarifaria-trump-grande-depressao-eua)
-- [A queda da participação do dólar nas reservas internacionais](https://www.nexojornal.com.br/grafico/2025/04/01/dolar-americano-participacao-reservas-internacionais-grafico)
+- [A queda do dólar nas reservas internacionais](https://www.nexojornal.com.br/grafico/2025/04/01/dolar-americano-participacao-reservas-internacionais-grafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
