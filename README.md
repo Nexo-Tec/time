@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O elo do presidente do Equador com empresa ligada ao narcotráfico](https://www.nexojornal.com.br/externo/2025/04/02/equador-presidente-trafico-de-drogas-exportadora-banana)
 - [Como foi a carreira de Val Kilmer depois de sair dos holofotes](https://www.nexojornal.com.br/expresso/2025/04/02/morre-ator-val-kilmer-carreira)
 - [Por que desconfiar se um artigo científico for muito surpreendente](https://www.nexojornal.com.br/externo/2025/04/01/ciencia-artigo-cientifico-veracidade-como-descobrir-pesquisa-confiavel)
 - [O auge e a queda da Technicolor](https://www.nexojornal.com.br/video/2025/04/01/o-auge-e-a-queda-da-technicolor)
 - [A tentação de tornar a extrema direita inelegível](https://www.nexojornal.com.br/colunistas/2025/04/01/bolsonaro-marine-le-pen-inelegivel-extrema-direita-democracia)
-- [A lei tarifária que agravou a Depressão nos EUA nos anos 1930](https://www.nexojornal.com.br/expresso/2025/04/01/lei-tarifaria-trump-grande-depressao-eua)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
