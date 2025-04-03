@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que é preciso para que uma bandeira vire um emoji](https://www.nexojornal.com.br/expresso/2025/04/03/emoji-de-bandeira-regras-unicode)
 - [O extremismo político começa no xampu e na batata frita](https://www.nexojornal.com.br/colunistas/2025/04/02/o-extremismo-politico-comeca-no-xampu-e-na-batata-frita)
 - [Como a espionagem da Abin perturba as negociações de Itaipu](https://www.nexojornal.com.br/expresso/2025/04/02/abin-espionagem-paraguai-influencia-itaipu-negociacao)
 - [A informalidade dos coletivos de incentivo à leitura](https://www.nexojornal.com.br/externo/2025/04/02/literatura-pesquisa-periferia-brasileira-de-letras-incentivo-leitura)
 - [Como o breque dos apps entra no debate sobre trabalho](https://www.nexojornal.com.br/podcast/2025/04/02/greve-ifood-entregadores-condicao-trabalho)
-- [Quais os caminhos para o Brasil reagir às tarifas dos EUA](https://www.nexojornal.com.br/expresso/2025/04/02/eua-tarifa-brasil-reacao-governo-lula)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
