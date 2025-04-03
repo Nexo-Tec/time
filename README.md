@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [Receita de alface? Sim! Com cebolinhas grelhadas, molho de castanha-de-caju e farofa de pão](https://gamarevista.uol.com.br/estilo-de-vida/comida-bebida/1-receita/receita-de-alface-sim-com-cebolinhas-grelhadas-molho-de-castanha-de-caju-e-farofa-de-pao/)
-- [@evinhaoficial_](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/evinhaoficial_/)
-- [Uma vida inteira de revoluções](https://gamarevista.uol.com.br/colunistas/maria-ribeiro/uma-vida-inteira-de-revolucoes/)
-- [Debora Terribilli: Emagrecimento e massa muscular](https://gamarevista.uol.com.br/podcast/podcast-da-semana/debora-terribilli/)
-- [Coisa que Não Edifica Nem Destrói](https://gamarevista.uol.com.br/cultura/trecho-de-livro/coisa-que-nao-edifica-nem-destroi/)
+- [“Coisas Naturais”, novo álbum de Marina Sena](https://gamarevista.uol.com.br/achamos-que-vale/coisas-naturais-novo-album-de-marina-sena/)
+- [“O Estúdio”, uma comédia ácida com Seth Rogen, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-estudio-uma-comedia-acida-com-seth-rogen-na-apple-tv/)
+- [Sontag e os impactos do sofrimento alheio](https://gamarevista.uol.com.br/sem-categoria/sontag-e-os-impactos-do-sofrimento-alheio/)
+- [O trabalho de Antoni Muntadas no Sesc Pompeia, em SP](https://gamarevista.uol.com.br/achamos-que-vale/ir/o-trabalho-de-antoni-muntadas-no-sesc-pompeia-em-sp/)
+- [Fermenta SP, um festival para quem ama fermentados](https://gamarevista.uol.com.br/achamos-que-vale/fermenta-sp-um-festival-para-quem-ama-fermentados/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
