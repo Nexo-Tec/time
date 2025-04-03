@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a música pode ajudar na concentração](https://www.nexojornal.com.br/expresso/2025/04/03/musica-ajuda-concentracao-motivo)
 - [Por que o skate brasileiro pode ter começado em Caruaru](https://www.nexojornal.com.br/expresso/2025/04/03/skate-brasil-origem-caruaru)
 - [O que o caso da baleia mais sozinha do mundo diz para nós](https://www.nexojornal.com.br/externo/2025/04/03/baleia-dos-52-hertz-mais-solitaria-do-mundo)
 - [A atuação digital de influenciadores na eleição de Bolsonaro](https://www.nexojornal.com.br/academico/2025/04/03/eleicoes-2018-influenciadores-pro-bolsonaro)
 - [O que é preciso para que uma bandeira vire um emoji](https://www.nexojornal.com.br/expresso/2025/04/03/emoji-de-bandeira-regras-unicode)
-- [O extremismo político começa no xampu e na batata frita](https://www.nexojornal.com.br/colunistas/2025/04/02/o-extremismo-politico-comeca-no-xampu-e-na-batata-frita)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
