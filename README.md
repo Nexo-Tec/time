@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O extremismo político começa no xampu e na batata frita](https://www.nexojornal.com.br/colunistas/2025/04/02/o-extremismo-politico-comeca-no-xampu-e-na-batata-frita)
+- [Como a espionagem da Abin perturba as negociações de Itaipu](https://www.nexojornal.com.br/expresso/2025/04/02/abin-espionagem-paraguai-influencia-itaipu-negociacao)
+- [A informalidade dos coletivos de incentivo à leitura](https://www.nexojornal.com.br/externo/2025/04/02/literatura-pesquisa-periferia-brasileira-de-letras-incentivo-leitura)
 - [Como o breque dos apps entra no debate sobre trabalho](https://www.nexojornal.com.br/podcast/2025/04/02/greve-ifood-entregadores-condicao-trabalho)
 - [Quais os caminhos para o Brasil reagir às tarifas dos EUA](https://www.nexojornal.com.br/expresso/2025/04/02/eua-tarifa-brasil-reacao-governo-lula)
-- [O elo do presidente do Equador com empresa ligada ao narcotráfico](https://www.nexojornal.com.br/externo/2025/04/02/equador-presidente-trafico-de-drogas-exportadora-banana)
-- [Como foi a carreira de Val Kilmer depois de sair dos holofotes](https://www.nexojornal.com.br/expresso/2025/04/02/morre-ator-val-kilmer-carreira)
-- [Por que desconfiar se um artigo científico for muito surpreendente](https://www.nexojornal.com.br/externo/2025/04/01/ciencia-artigo-cientifico-veracidade-como-descobrir-pesquisa-confiavel)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
