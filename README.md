@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [5 livros de autoras latino-americanas para pensar o luto](https://www.nexojornal.com.br/estante-favoritos/2025/04/04/livro-sobre-luto-autoras-latino-americanas-indicacao-lilian-sais)
+- [Os artistas cujas obras trazem o olfato como proposta sensorial](https://www.nexojornal.com.br/externo/2025/04/04/arte-artistas-que-exploram-o-olfato-em-suas-obras)
+- [Isso é muito ‘Black Mirror’: aconteceu na série ou na vida real?](https://www.nexojornal.com.br/interativo/2025/04/04/black-mirror-quiz-aconteceu-na-serie-ou-na-vida-real)
+- [‘M, os últimos dias da Europa’: como a Itália entrou na 2ª Guerra](https://www.nexojornal.com.br/estante-trechos/2025/04/04/livro-antonio-scurati-m-os-ultimos-dias-da-europa-trecho)
 - [O que o Supremo decidiu para ações policiais no Rio](https://www.nexojornal.com.br/externo/2025/04/04/stf-adpf-das-favelas-decisao-acoes-policiais-rio-de-janeiro)
-- [Quantos municípios brasileiros têm nomes de presidentes](https://www.nexojornal.com.br/grafico/2025/04/04/brasil-municipios-com-nome-de-presidentes)
-- [Quais os impactos das tarifas de Trump no comércio global](https://www.nexojornal.com.br/expresso/2025/04/03/tabela-de-tarifas-trump-impacto-comercio-global)
-- [A disputa sobre quem pode prescrever medicamentos no Brasil](https://www.nexojornal.com.br/expresso/2025/04/03/farmaceuticos-prescrever-medicamentos-disputa-medicina)
-- [Cochilos diurnos fazem bem ou mal? O que dizem estudos](https://www.nexojornal.com.br/externo/2025/04/03/tirar-um-cochilo-faz-bem-estudo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
