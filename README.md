@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Quantos municípios brasileiros têm nomes de presidentes](https://www.nexojornal.com.br/grafico/2025/04/04/brasil-municipios-com-nome-de-presidentes)
 - [Quais os impactos das tarifas de Trump no comércio global](https://www.nexojornal.com.br/expresso/2025/04/03/tabela-de-tarifas-trump-impacto-comercio-global)
 - [A disputa sobre quem pode prescrever medicamentos no Brasil](https://www.nexojornal.com.br/expresso/2025/04/03/farmaceuticos-prescrever-medicamentos-disputa-medicina)
 - [Cochilos diurnos fazem bem ou mal? O que dizem estudos](https://www.nexojornal.com.br/externo/2025/04/03/tirar-um-cochilo-faz-bem-estudo)
 - [Como a música pode ajudar na concentração](https://www.nexojornal.com.br/expresso/2025/04/03/musica-ajuda-concentracao-motivo)
-- [Por que o skate brasileiro pode ter começado em Caruaru](https://www.nexojornal.com.br/expresso/2025/04/03/skate-brasil-origem-caruaru)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
