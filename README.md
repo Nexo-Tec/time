@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Como um programa de parentalidade pode melhorar o desenvolvimento de crianças em situação de vulnerabilidade](https://pp.nexojornal.com.br/academico/2025/04/04/como-um-programa-de-parentalidade-pode-melhorar-o-desenvolvimento-de-criancas-em-situacao-de-vulnerabilidade/)
+- [Educação Infantil é importante. Mas de qual Educação Infantil estamos falando?](https://pp.nexojornal.com.br/ponto-de-vista/2025/04/04/educacao-infantil-e-importante-mas-de-qual-educacao-infantil-estamos-falando/)
+- [A Rede Global de Cidades Antirracistas e o Indepir: inovações e desafios](https://pp.nexojornal.com.br/opiniao/2025/04/04/a-rede-global-de-cidades-antirracistas-e-o-indepir-inovacoes-e-desafios/)
+- [A sobrecarga invisível: mulheres negras, trabalho e a herança da pandemia](https://pp.nexojornal.com.br/opiniao/2025/04/04/a-sobrecarga-invisivel-mulheres-negras-trabalho-e-a-heranca-da-pandemia/)
 - [Abril Indígena: o que pode o indígena de patins?](https://pp.nexojornal.com.br/ponto-de-vista/2025/04/04/abril-indigena-o-que-pode-o-indigena-de-patins/)
-- [O futuro das mídias sociais é federado](https://pp.nexojornal.com.br/opiniao/2025/04/04/o-futuro-das-midias-sociais-e-federado/)
-- [Educação profissional e tecnológica](https://pp.nexojornal.com.br/bibliografia-basica/2025/04/01/educacao-profissional-e-tecnologica/)
-- [Gênero e as disputas políticas contemporâneas](https://pp.nexojornal.com.br/ponto-de-vista/2025/03/28/genero-e-as-disputas-politicas-contemporaneas/)
-- [Como moradores de periferias urbanas se relacionam com o empreendedorismo](https://pp.nexojornal.com.br/academico/2025/03/28/como-moradores-de-periferias-urbanas-se-relacionam-com-o-empreendedorismo/)
 <!-- PP_LIST:END -->
 
