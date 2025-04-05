@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [5 livros de autoras latino-americanas para pensar o luto](https://www.nexojornal.com.br/estante-favoritos/2025/04/04/livro-sobre-luto-autoras-latino-americanas-indicacao-lilian-sais)
-- [Os artistas cujas obras trazem o olfato como proposta sensorial](https://www.nexojornal.com.br/externo/2025/04/04/arte-artistas-que-exploram-o-olfato-em-suas-obras)
-- [Isso é muito ‘Black Mirror’: aconteceu na série ou na vida real?](https://www.nexojornal.com.br/interativo/2025/04/04/black-mirror-quiz-aconteceu-na-serie-ou-na-vida-real)
-- [‘M, os últimos dias da Europa’: como a Itália entrou na 2ª Guerra](https://www.nexojornal.com.br/estante-trechos/2025/04/04/livro-antonio-scurati-m-os-ultimos-dias-da-europa-trecho)
-- [O que o Supremo decidiu para ações policiais no Rio](https://www.nexojornal.com.br/externo/2025/04/04/stf-adpf-das-favelas-decisao-acoes-policiais-rio-de-janeiro)
+- [Teórica feminista, Heloisa Teixeira buscou democratizar a cultura](https://www.nexojornal.com.br/externo/2025/04/04/heloisa-teixeira-cultura-democracia-e-feminismo)
+- [A nova descoberta científica sobre a energia escura](https://www.nexojornal.com.br/externo/2025/04/04/ciencia-descoberta-cientifica-energia-escura)
+- [Como este estudo propõe aprimorar a imunoterapia](https://www.nexojornal.com.br/expresso/2025/04/04/imunidade-imunoterapia-estudo-pesquisa)
+- [Por que vídeos de rotinas matinais fazem tanto sucesso](https://www.nexojornal.com.br/expresso/2025/04/04/videos-rotina-matinal-viral-ashton-hall)
+- [A erosão da popularidade de Lula no Nordeste](https://www.nexojornal.com.br/expresso/2025/04/04/lula-popularidade-nordeste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
