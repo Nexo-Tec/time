@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Os projetos que ensinam matemática de forma criativa](https://www.nexojornal.com.br/externo/2025/04/06/matematico-aprender-de-forma-criativa)
+- [Qual a relação entre mobilidade urbana e segurança](https://www.nexojornal.com.br/ensaio/2025/04/06/seguranca-relacao-mobilidade-urbana)
 - [Como o tarifaço de Trump ressoa no bolsonarismo](https://www.nexojornal.com.br/expresso/2025/04/05/trump-tarifa-tarifaco-opiniao-bolsonaro-impacto-bolsonarismo)
 - [A prematuridade e os desafios que vão além do nascimento](https://www.nexojornal.com.br/ensaio/2025/04/05/bebe-prematuro-impacto-efeito-prolongado)
 - [Violência escolar aumenta nos últimos 10 anos no Brasil](https://www.nexojornal.com.br/externo/2025/04/05/violencia-na-escola-aumenta-no-brasil)
-- [A reputação do Brasil dentro e fora do país, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/04/05/reputacao-brasil-cenario-internacional-pesquisa)
-- [Teórica feminista, Heloisa Teixeira buscou democratizar a cultura](https://www.nexojornal.com.br/externo/2025/04/04/heloisa-teixeira-cultura-democracia-e-feminismo)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
