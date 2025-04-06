@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘O fim último da área pública é atender bem à população’](https://www.nexojornal.com.br/entrevista/2025/04/06/poupatempo-quem-criou-daniel-annenberg-entrevista)
 - [Os projetos que ensinam matemática de forma criativa](https://www.nexojornal.com.br/externo/2025/04/06/matematico-aprender-de-forma-criativa)
 - [Qual a relação entre mobilidade urbana e segurança](https://www.nexojornal.com.br/ensaio/2025/04/06/seguranca-relacao-mobilidade-urbana)
 - [Como o tarifaço de Trump ressoa no bolsonarismo](https://www.nexojornal.com.br/expresso/2025/04/05/trump-tarifa-tarifaco-opiniao-bolsonaro-impacto-bolsonarismo)
 - [A prematuridade e os desafios que vão além do nascimento](https://www.nexojornal.com.br/ensaio/2025/04/05/bebe-prematuro-impacto-efeito-prolongado)
-- [Violência escolar aumenta nos últimos 10 anos no Brasil](https://www.nexojornal.com.br/externo/2025/04/05/violencia-na-escola-aumenta-no-brasil)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
