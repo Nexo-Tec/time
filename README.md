@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Violência escolar aumenta nos últimos 10 anos no Brasil](https://www.nexojornal.com.br/externo/2025/04/05/violencia-na-escola-aumenta-no-brasil)
+- [A reputação do Brasil dentro e fora do país, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/04/05/reputacao-brasil-cenario-internacional-pesquisa)
 - [Teórica feminista, Heloisa Teixeira buscou democratizar a cultura](https://www.nexojornal.com.br/externo/2025/04/04/heloisa-teixeira-cultura-democracia-e-feminismo)
 - [A nova descoberta científica sobre a energia escura](https://www.nexojornal.com.br/externo/2025/04/04/ciencia-descoberta-cientifica-energia-escura)
 - [Como este estudo propõe aprimorar a imunoterapia](https://www.nexojornal.com.br/expresso/2025/04/04/imunidade-imunoterapia-estudo-pesquisa)
-- [Por que vídeos de rotinas matinais fazem tanto sucesso](https://www.nexojornal.com.br/expresso/2025/04/04/videos-rotina-matinal-viral-ashton-hall)
-- [A erosão da popularidade de Lula no Nordeste](https://www.nexojornal.com.br/expresso/2025/04/04/lula-popularidade-nordeste)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
