@@ -135,10 +135,10 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Políticas Públicas
 
 <!-- PP_LIST:START -->
+- [Os desafios da inteligência artificial no setor de saúde brasileiro](https://pp.nexojornal.com.br/opiniao/2025/04/07/os-desafios-da-inteligencia-artificial-no-setor-de-saude-brasileiro/)
 - [Integrando conservação à política de desenvolvimento no Brasil](https://pp.nexojornal.com.br/opiniao/2025/04/04/integrando-conservacao-a-politica-de-desenvolvimento-no-brasil/)
 - [Como um programa de parentalidade pode melhorar o desenvolvimento de crianças em situação de vulnerabilidade](https://pp.nexojornal.com.br/academico/2025/04/04/como-um-programa-de-parentalidade-pode-melhorar-o-desenvolvimento-de-criancas-em-situacao-de-vulnerabilidade/)
 - [Educação Infantil é importante. Mas de qual Educação Infantil estamos falando?](https://pp.nexojornal.com.br/ponto-de-vista/2025/04/04/educacao-infantil-e-importante-mas-de-qual-educacao-infantil-estamos-falando/)
 - [A Rede Global de Cidades Antirracistas e o Indepir: inovações e desafios](https://pp.nexojornal.com.br/opiniao/2025/04/04/a-rede-global-de-cidades-antirracistas-e-o-indepir-inovacoes-e-desafios/)
-- [A sobrecarga invisível: mulheres negras, trabalho e a herança da pandemia](https://pp.nexojornal.com.br/opiniao/2025/04/04/a-sobrecarga-invisivel-mulheres-negras-trabalho-e-a-heranca-da-pandemia/)
 <!-- PP_LIST:END -->
 
