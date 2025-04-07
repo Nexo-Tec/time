@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Vale tudo pelo espólio? Os governadores no ato de Bolsonaro](https://www.nexojornal.com.br/expresso/2025/04/07/governadores-ato-pl-anistia-espolio-bolsonaro)
+- [É preciso mais mulheres em posições de liderança](https://www.nexojornal.com.br/debate/2025/04/07/mulheres-posicao-de-lideranca-projeto-de-lei)
 - [A rede social que só funciona por 3 horas todos os dias](https://www.nexojornal.com.br/expresso/2025/04/07/rede-social-seven39-funciona-3-horas-por-dia)
 - [‘Bobbie Goods’: a nova febre de livros de colorir](https://www.nexojornal.com.br/expresso/2025/04/07/bobbie-goods-livro-de-colorir)
 - [Pesquisadores dos EUA vivem período de incerteza com cortes e demissões](https://www.nexojornal.com.br/externo/2025/04/07/cortes-pesquisas-eua)
-- [O que é a arte red-chip, impulsionada pelo Vale do Silício](https://www.nexojornal.com.br/expresso/2025/04/07/arte-red-chip-o-que-e)
-- [‘O fim último da área pública é atender bem à população’](https://www.nexojornal.com.br/entrevista/2025/04/06/poupatempo-quem-criou-daniel-annenberg-entrevista)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
