@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Bobbie Goods’: a nova febre de livros de colorir](https://www.nexojornal.com.br/expresso/2025/04/07/bobbie-goods-livro-de-colorir)
 - [Pesquisadores dos EUA vivem período de incerteza com cortes e demissões](https://www.nexojornal.com.br/externo/2025/04/07/cortes-pesquisas-eua)
 - [O que é a arte red-chip, impulsionada pelo Vale do Silício](https://www.nexojornal.com.br/expresso/2025/04/07/arte-red-chip-o-que-e)
 - [‘O fim último da área pública é atender bem à população’](https://www.nexojornal.com.br/entrevista/2025/04/06/poupatempo-quem-criou-daniel-annenberg-entrevista)
 - [Os projetos que ensinam matemática de forma criativa](https://www.nexojornal.com.br/externo/2025/04/06/matematico-aprender-de-forma-criativa)
-- [Qual a relação entre mobilidade urbana e segurança](https://www.nexojornal.com.br/ensaio/2025/04/06/seguranca-relacao-mobilidade-urbana)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
