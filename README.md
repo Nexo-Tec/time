@@ -117,7 +117,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 <!-- NEXO_LIST:START -->
 - [Por que a Apple está tão exposta às tarifas dos Estados Unidos](https://www.nexojornal.com.br/expresso/2025/04/08/tarifaco-trump-eua-impacto-apple)
 - [Por que indígenas querem demarcações como política do clima](https://www.nexojornal.com.br/externo/2025/04/08/demarcacao-terras-indigenas-como-meta-climatica)
-- [Juscelino denunciado: o que pesa contra o ministro de Lula](https://www.nexojornal.com.br/expresso/2025/04/08/juscelino-filho-ministro-governo-lula-denuncia)
+- [O caso que levou o ministro das Comunicações a pedir demissão](https://www.nexojornal.com.br/expresso/2025/04/08/juscelino-filho-ministro-governo-lula-denuncia)
 - [O modelo que simula se as redes mudam o voto bruscamente](https://www.nexojornal.com.br/externo/2025/04/08/impacto-redes-sociais-polarizacao-voto-eleicoes-estudo)
 - [Qual é a validade das decisões de um juiz com identidade falsa](https://www.nexojornal.com.br/expresso/2025/04/07/juiz-com-nome-falso-sentencas)
 <!-- NEXO_LIST:END -->
