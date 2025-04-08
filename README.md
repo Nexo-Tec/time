@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [@bellacampox](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/bellacampox/)
 - [Pedro Novaes](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedro-novaes/)
 - [Tati Bernardi: Se sentir um peixe fora d’água](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tati-bernardi-2/)
 - [“Coisas Naturais”, novo álbum de Marina Sena](https://gamarevista.uol.com.br/achamos-que-vale/coisas-naturais-novo-album-de-marina-sena/)
 - [“O Estúdio”, uma comédia ácida com Seth Rogen, na Apple TV+](https://gamarevista.uol.com.br/achamos-que-vale/assistir/o-estudio-uma-comedia-acida-com-seth-rogen-na-apple-tv/)
-- [Sontag e os impactos do sofrimento alheio](https://gamarevista.uol.com.br/sem-categoria/sontag-e-os-impactos-do-sofrimento-alheio/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
