@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [As comidas brasileiras que são patrimônio cultural](https://www.nexojornal.com.br/externo/2025/04/09/comida-brasil-prato-tipico-brasileiro-patrimonio-cultural)
 - [Como os sons do desmatamento afetam populações](https://www.nexojornal.com.br/expresso/2025/04/09/desmatamento-barulho-impacto-pessoas-estudo-pesquisa)
 - [Como o tarifaço de Trump pode afetar a vida dos brasileiros](https://www.nexojornal.com.br/expresso/2025/04/09/tarifaco-trump-eua-impacto-brasil-brasileiros)
 - [Criado há 40 anos, ministério amplificou ações e políticas públicas de ciência, tecnologia e inovação](https://www.nexojornal.com.br/externo/2025/04/08/ministerio-ciencia-tecnologia-e-inovacao-historia)
 - [A cidade que tornou obrigatório o ‘Pai Nosso’ nas escolas](https://www.nexojornal.com.br/expresso/2025/04/08/oracao-pai-nosso-lei-obriga-escolas-interior-sp)
-- [Ataque a ambulâncias em Gaza é só a ponta do iceberg](https://www.nexojornal.com.br/colunistas/2025/04/08/guerra-gaza-crime-de-guerra-israel-ataca-ambulancias)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
