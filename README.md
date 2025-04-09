@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como o tarifaço de Trump pode afetar a vida dos brasileiros](https://www.nexojornal.com.br/expresso/2025/04/09/tarifaco-trump-eua-impacto-brasil-brasileiros)
 - [Criado há 40 anos, ministério amplificou ações e políticas públicas de ciência, tecnologia e inovação](https://www.nexojornal.com.br/externo/2025/04/08/ministerio-ciencia-tecnologia-e-inovacao-historia)
 - [A cidade que tornou obrigatório o ‘Pai Nosso’ nas escolas](https://www.nexojornal.com.br/expresso/2025/04/08/oracao-pai-nosso-lei-obriga-escolas-interior-sp)
 - [Ataque a ambulâncias em Gaza é só a ponta do iceberg](https://www.nexojornal.com.br/colunistas/2025/04/08/guerra-gaza-crime-de-guerra-israel-ataca-ambulancias)
 - [A variação das bolsas de valores em quase 80 dias de Trump](https://www.nexojornal.com.br/grafico/2025/04/08/bolsa-de-valores-no-mundo-impacto-tarifaco-trump-grafico)
-- [Por que a Apple está tão exposta às tarifas dos Estados Unidos](https://www.nexojornal.com.br/expresso/2025/04/08/tarifaco-trump-eua-impacto-apple)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
