@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A nação fictícia que enganou indígenas bolivianos](https://www.nexojornal.com.br/externo/2025/04/09/religiao-grupo-religioso-enganou-indigenas-bolivia-estados-unidos-de-kailasa)
+- [‘A arquitetura social proporciona dignidade em todos os níveis’](https://www.nexojornal.com.br/entrevista/2025/04/09/arquitetura-social-paraisopolis-arquiteta-ester-carro-entrevista)
 - [Como a extrema direita se apropria de Martin Luther King](https://www.nexojornal.com.br/podcast/2025/04/09/martin-luther-king-citado-discurso-extrema-direita)
 - [As comidas brasileiras que são patrimônio cultural](https://www.nexojornal.com.br/externo/2025/04/09/comida-brasil-prato-tipico-brasileiro-patrimonio-cultural)
 - [Como os sons do desmatamento afetam populações](https://www.nexojornal.com.br/expresso/2025/04/09/desmatamento-barulho-impacto-pessoas-estudo-pesquisa)
-- [Como o tarifaço de Trump pode afetar a vida dos brasileiros](https://www.nexojornal.com.br/expresso/2025/04/09/tarifaco-trump-eua-impacto-brasil-brasileiros)
-- [Criado há 40 anos, ministério amplificou ações e políticas públicas de ciência, tecnologia e inovação](https://www.nexojornal.com.br/externo/2025/04/08/ministerio-ciencia-tecnologia-e-inovacao-historia)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
