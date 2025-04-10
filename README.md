@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
-- [CV: Rita Batista](https://gamarevista.uol.com.br/pessoas/curriculum-vitae/cv-rita-batista/)
-- [@bellacampox](https://gamarevista.uol.com.br/pessoas/quem-estamos-seguindo/bellacampox/)
-- [Pedro Novaes](https://gamarevista.uol.com.br/pessoas/questionario-proust/pedro-novaes/)
-- [Tati Bernardi: Se sentir um peixe fora d’água](https://gamarevista.uol.com.br/podcast/podcast-da-semana/tati-bernardi-2/)
-- [“Coisas Naturais”, novo álbum de Marina Sena](https://gamarevista.uol.com.br/achamos-que-vale/coisas-naturais-novo-album-de-marina-sena/)
+- [“Morrendo por Sexo”, drama e comédia com Michelle Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/morrendo-por-sexo-drama-e-comedia-com-michelle-williams/)
+- [Bad Bunny e sua ode à Porto Rico no Tiny Desk](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bad-bunny-e-sua-ode-a-porto-rico-no-tiny-desk/)
+- [“Movediça”, o EP dançante e envolvente de Enme](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/movedica-o-ep-dancante-e-envolvente-de-enme/)
+- [O novo livro de Dráuzio Varella](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-livro-de-drauzio-varella/)
+- [A vida no Pará pelo fotógrafo Luiz Braga](https://gamarevista.uol.com.br/achamos-que-vale/ir/a-vida-no-para-pelo-fotografo-luiz-braga/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
