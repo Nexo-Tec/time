@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [Como a China se preparou para Trump. E como responde a ele](https://www.nexojornal.com.br/expresso/2025/04/09/china-eua-trump-tarifa-resposta)
 - [A nação fictícia que enganou indígenas bolivianos](https://www.nexojornal.com.br/externo/2025/04/09/religiao-grupo-religioso-enganou-indigenas-bolivia-estados-unidos-de-kailasa)
 - [‘A arquitetura social proporciona dignidade em todos os níveis’](https://www.nexojornal.com.br/entrevista/2025/04/09/arquitetura-social-paraisopolis-arquiteta-ester-carro-entrevista)
 - [Como a extrema direita se apropria de Martin Luther King](https://www.nexojornal.com.br/podcast/2025/04/09/martin-luther-king-citado-discurso-extrema-direita)
 - [As comidas brasileiras que são patrimônio cultural](https://www.nexojornal.com.br/externo/2025/04/09/comida-brasil-prato-tipico-brasileiro-patrimonio-cultural)
-- [Como os sons do desmatamento afetam populações](https://www.nexojornal.com.br/expresso/2025/04/09/desmatamento-barulho-impacto-pessoas-estudo-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
