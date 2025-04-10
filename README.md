@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que o sumiço de uma jovem revela sobre o México](https://www.nexojornal.com.br/externo/2025/04/10/desaparecimento-mexico-trafico)
+- [O crescimento das exportações de petróleo brasileiro](https://www.nexojornal.com.br/externo/2025/04/10/brasil-exportacao-petroleo-cresceu)
+- [O neoliberalismo e a crise democrática na América Latina](https://www.nexojornal.com.br/academico/2025/04/10/america-latina-democracia-neoliberalismo-pesquisa)
 - [Parece estádio, mas é cinema: as reações ao filme de ‘Minecraft’](https://www.nexojornal.com.br/expresso/2025/04/10/minecraft-filme-reacoes-cinema)
 - [Quais são os destinos para a biblioteca de um morto](https://www.nexojornal.com.br/expresso/2025/04/10/livro-acervo-doacao-apos-morte)
-- [O que Glauber Braga diz sobre seu processo de cassação](https://www.nexojornal.com.br/externo/2025/04/10/glauber-braga-cassacao-entrevista-agencia-publica)
-- [Como a China se preparou para Trump. E como responde a ele](https://www.nexojornal.com.br/expresso/2025/04/09/china-eua-trump-tarifa-resposta)
-- [A nação fictícia que enganou indígenas bolivianos](https://www.nexojornal.com.br/externo/2025/04/09/religiao-grupo-religioso-enganou-indigenas-bolivia-estados-unidos-de-kailasa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
