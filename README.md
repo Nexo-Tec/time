@@ -136,7 +136,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 
 <!-- PP_LIST:START -->
 - [Disputa estratégica internacional e os desafios regionais da Inteligência Brasileira](https://pp.nexojornal.com.br/ponto-de-vista/2025/04/10/disputa-estrategica-internacional-e-os-desafios-regionais-da-inteligencia-brasileira/)
-- [A implementação do protocolo de Nagóia no Brasil: lições para a bioeconomia](https://pp.nexojornal.com.br/academico/2025/04/09/a-implementacao-do-protocolo-de-nagoia-no-brasil-licoes-para-a-bioeconomia/)
+- [A implementação do Protocolo de Nagóia no Brasil: lições para a bioeconomia](https://pp.nexojornal.com.br/academico/2025/04/09/a-implementacao-do-protocolo-de-nagoia-no-brasil-licoes-para-a-bioeconomia/)
 - [Os desafios da inteligência artificial no setor de saúde brasileiro](https://pp.nexojornal.com.br/opiniao/2025/04/07/os-desafios-da-inteligencia-artificial-no-setor-de-saude-brasileiro/)
 - [Integrando conservação à política de desenvolvimento no Brasil](https://pp.nexojornal.com.br/opiniao/2025/04/04/integrando-conservacao-a-politica-de-desenvolvimento-no-brasil/)
 - [Como um programa de parentalidade pode melhorar o desenvolvimento de crianças em situação de vulnerabilidade](https://pp.nexojornal.com.br/academico/2025/04/04/como-um-programa-de-parentalidade-pode-melhorar-o-desenvolvimento-de-criancas-em-situacao-de-vulnerabilidade/)
