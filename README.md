@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O haikai é um clique](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/o-haikai-e-um-clique/)
 - [O Que os Psiquiatras Não te Contam](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-que-os-psiquiatras-nao-te-contam/)
 - [“Morrendo por Sexo”, drama e comédia com Michelle Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/morrendo-por-sexo-drama-e-comedia-com-michelle-williams/)
 - [Bad Bunny e sua ode à Porto Rico no Tiny Desk](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bad-bunny-e-sua-ode-a-porto-rico-no-tiny-desk/)
 - [“Movediça”, o EP dançante e envolvente de Enme](https://gamarevista.uol.com.br/achamos-que-vale/ouvir/movedica-o-ep-dancante-e-envolvente-de-enme/)
-- [O novo livro de Dráuzio Varella](https://gamarevista.uol.com.br/achamos-que-vale/ler/o-novo-livro-de-drauzio-varella/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
