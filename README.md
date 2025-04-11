@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [‘Uma história da velhice no Brasil’: passagens pelo tempo](https://www.nexojornal.com.br/estante-trechos/2025/04/11/livro-historia-da-velhice-no-brasil-mary-del-priore-trecho)
 - [O site que conecta movimentos artísticos em uma teia](https://www.nexojornal.com.br/expresso/2025/04/11/arte-movimentos-artisticos-grafico-site-theartgraph)
 - [A pressão do mercado até Trump amenizar o tarifaço](https://www.nexojornal.com.br/expresso/2025/04/11/tarifaco-trump-pausa-tarifas-pressao-mercado)
 - [O que o sumiço de uma jovem revela sobre o México](https://www.nexojornal.com.br/externo/2025/04/10/desaparecimento-mexico-trafico)
 - [O crescimento das exportações de petróleo brasileiro](https://www.nexojornal.com.br/externo/2025/04/10/brasil-exportacao-petroleo-cresceu)
-- [O neoliberalismo e a crise democrática na América Latina](https://www.nexojornal.com.br/academico/2025/04/10/america-latina-democracia-neoliberalismo-pesquisa)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
