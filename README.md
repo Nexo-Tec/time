@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
-- [Derrotas marcantes da seleção brasileira](https://www.nexojornal.com.br/video/2025/04/11/derrotas-marcantes-da-selecao-brasileira)
+- [5 livros de jornalistas sobre a ditadura militar](https://www.nexojornal.com.br/estante-favoritos/2025/04/11/livro-ditadura-militar-escrito-por-jornalistas-indicacao-juliana-dal-piva)
+- [Quais países têm mais bilionários na lista da Forbes](https://www.nexojornal.com.br/grafico/2025/04/11/lista-bilionarios-revista-forbes-mais-ricos-do-mundo)
+- [As derrotas que botaram a seleção em crise existencial](https://www.nexojornal.com.br/video/2025/04/11/derrotas-marcantes-da-selecao-brasileira)
 - [‘Uma história da velhice no Brasil’: passagens pelo tempo](https://www.nexojornal.com.br/estante-trechos/2025/04/11/livro-historia-da-velhice-no-brasil-mary-del-priore-trecho)
 - [O site que conecta movimentos artísticos em uma teia](https://www.nexojornal.com.br/expresso/2025/04/11/arte-movimentos-artisticos-grafico-site-theartgraph)
-- [A pressão do mercado até Trump amenizar o tarifaço](https://www.nexojornal.com.br/expresso/2025/04/11/tarifaco-trump-pausa-tarifas-pressao-mercado)
-- [O que o sumiço de uma jovem revela sobre o México](https://www.nexojornal.com.br/externo/2025/04/10/desaparecimento-mexico-trafico)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
