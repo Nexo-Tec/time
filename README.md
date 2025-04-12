@@ -118,7 +118,7 @@ Estamos contantemente explorando. E aprendendo diariamente.
 - [‘Dano é permanente: americanos não sabem para onde vão’](https://www.nexojornal.com.br/entrevista/2025/04/12/tarifas-trump-recuo-opiniao-economista-jose-francisco-de-lima-goncalves)
 - [6 ideias para levar o patrimônio cultural a sério](https://www.nexojornal.com.br/ensaio/2025/04/12/patrimonio-cultural-como-conservar)
 - [As populações de antas encontradas na Caatinga](https://www.nexojornal.com.br/externo/2025/04/12/caatinga-anta-especie-extinta)
-- [A crise energética no centro do segundo turno no Equador](https://www.nexojornal.com.br/externo/2025/04/12/politica-eleicoes-equador-segundo-turno-crise-energetica)
+- [A crise energética no centro do 2º turno no Equador](https://www.nexojornal.com.br/externo/2025/04/12/politica-eleicoes-equador-segundo-turno-crise-energetica)
 - [O legado de Noel Rosa para o samba, segundo artistas](https://www.nexojornal.com.br/expresso/2025/04/11/musica-noel-rosa-samba-legado)
 <!-- NEXO_LIST:END -->
 
