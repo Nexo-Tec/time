@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [A crise energética no centro do segundo turno no Equador](https://www.nexojornal.com.br/externo/2025/04/12/politica-eleicoes-equador-segundo-turno-crise-energetica)
 - [O legado de Noel Rosa para o samba, segundo artistas](https://www.nexojornal.com.br/expresso/2025/04/11/musica-noel-rosa-samba-legado)
 - [Pesquisadores revisitam a obra do escritor baiano Jorge Amado](https://www.nexojornal.com.br/externo/2025/04/11/jorge-amado-estudo-sobre-a-obra)
 - [Como manter a qualidade do café, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/04/11/como-fazer-cafe-coado-melhor-forma)
 - [A trajetória das línguas africanas no Brasil](https://www.nexojornal.com.br/externo/2025/04/11/linguas-africanas-idioma-brasil-ioruba)
-- [Por que simplificar mapas para visualização de dados](https://www.nexojornal.com.br/grafico/2025/04/11/grafico-ferramenta-mapa-mapshaper)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
