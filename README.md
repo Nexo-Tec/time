@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O legado de Noel Rosa para o samba, segundo artistas](https://www.nexojornal.com.br/expresso/2025/04/11/musica-noel-rosa-samba-legado)
+- [Pesquisadores revisitam a obra do escritor baiano Jorge Amado](https://www.nexojornal.com.br/externo/2025/04/11/jorge-amado-estudo-sobre-a-obra)
+- [Como manter a qualidade do café, segundo este estudo](https://www.nexojornal.com.br/expresso/2025/04/11/como-fazer-cafe-coado-melhor-forma)
+- [A trajetória das línguas africanas no Brasil](https://www.nexojornal.com.br/externo/2025/04/11/linguas-africanas-idioma-brasil-ioruba)
 - [Por que simplificar mapas para visualização de dados](https://www.nexojornal.com.br/grafico/2025/04/11/grafico-ferramenta-mapa-mapshaper)
-- [5 livros de jornalistas sobre a ditadura militar](https://www.nexojornal.com.br/estante-favoritos/2025/04/11/livro-ditadura-militar-escrito-por-jornalistas-indicacao-juliana-dal-piva)
-- [Quais países têm mais bilionários na lista da Forbes](https://www.nexojornal.com.br/grafico/2025/04/11/lista-bilionarios-revista-forbes-mais-ricos-do-mundo)
-- [As derrotas que botaram a seleção em crise existencial](https://www.nexojornal.com.br/video/2025/04/11/derrotas-marcantes-da-selecao-brasileira)
-- [‘Uma história da velhice no Brasil’: passagens pelo tempo](https://www.nexojornal.com.br/estante-trechos/2025/04/11/livro-historia-da-velhice-no-brasil-mary-del-priore-trecho)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
