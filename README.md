@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O que ameaça as comunidades pesqueiras no Brasil](https://www.nexojornal.com.br/expresso/2025/04/13/brasil-pesca-comunidades-pesqueiras-estao-ameacadas)
 - [Uma reflexão sobre a tal da ‘diretoria da felicidade’](https://www.nexojornal.com.br/ensaio/2025/04/13/mercado-de-trabalho-tendencia-diretoria-da-felicidade)
 - [Como os vírus borram as fronteiras da definição do que é vida](https://www.nexojornal.com.br/externo/2025/04/13/virus-e-organismo-vivo)
 - [‘Dano é permanente: americanos não sabem para onde vão’](https://www.nexojornal.com.br/entrevista/2025/04/12/tarifas-trump-recuo-opiniao-economista-jose-francisco-de-lima-goncalves)
 - [6 ideias para levar o patrimônio cultural a sério](https://www.nexojornal.com.br/ensaio/2025/04/12/patrimonio-cultural-como-conservar)
-- [As populações de antas encontradas na Caatinga](https://www.nexojornal.com.br/externo/2025/04/12/caatinga-anta-especie-extinta)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
