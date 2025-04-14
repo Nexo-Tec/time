@@ -115,11 +115,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Nexo Jornal
 
 <!-- NEXO_LIST:START -->
+- [O trabalho de galerias de arte em favelas de São Paulo](https://www.nexojornal.com.br/externo/2025/04/14/galeria-de-arte-espaco-cultural-periferia-favela-sp-sao-paulo)
 - [As acusações de fraude que marcaram a eleição no Equador](https://www.nexojornal.com.br/expresso/2025/04/14/eleicoes-equador-2025-fraude)
 - [A volta de Thomas Pynchon, o misterioso autor americano](https://www.nexojornal.com.br/expresso/2025/04/14/escritor-thomas-pynchon-vida-pessoal-misterio)
 - [Os altos índices de suicídio envolvendo artistas](https://www.nexojornal.com.br/externo/2025/04/14/artista-saude-mental-exposicao-suicidio)
 - [Como foi a eleição que Vargas Llosa perdeu para Fujimori no Peru](https://www.nexojornal.com.br/expresso/2025/04/14/morre-escritor-vargas-llosa-eleicoes-peru)
-- [O que ameaça as comunidades pesqueiras no Brasil](https://www.nexojornal.com.br/expresso/2025/04/13/brasil-pesca-comunidades-pesqueiras-estao-ameacadas)
 <!-- NEXO_LIST:END -->
 
 ### Gama Revista
