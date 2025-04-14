@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [Thainá Duarte](https://gamarevista.uol.com.br/pessoas/questionario-proust/thaina-duarte/)
 - [Cauana Mestre: as mudanças em um relacionamento amoroso](https://gamarevista.uol.com.br/podcast/podcast-da-semana/cauana/)
 - [O haikai é um clique](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/o-haikai-e-um-clique/)
 - [O Que os Psiquiatras Não te Contam](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-que-os-psiquiatras-nao-te-contam/)
 - [“Morrendo por Sexo”, drama e comédia com Michelle Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/morrendo-por-sexo-drama-e-comedia-com-michelle-williams/)
-- [Bad Bunny e sua ode à Porto Rico no Tiny Desk](https://gamarevista.uol.com.br/achamos-que-vale/assistir/bad-bunny-e-sua-ode-a-porto-rico-no-tiny-desk/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
