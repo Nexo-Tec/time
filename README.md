@@ -125,11 +125,11 @@ Estamos contantemente explorando. E aprendendo diariamente.
 ### Gama Revista
 
 <!-- GAMA_LIST:START -->
+- [O que a gente não pode explodirá](https://gamarevista.uol.com.br/colunistas/fernando-luna/o-que-a-gente-nao-pode-explodira/)
 - [Thainá Duarte](https://gamarevista.uol.com.br/pessoas/questionario-proust/thaina-duarte/)
 - [Cauana Mestre: as mudanças em um relacionamento amoroso](https://gamarevista.uol.com.br/podcast/podcast-da-semana/cauana/)
 - [O haikai é um clique](https://gamarevista.uol.com.br/colunistas/circulo-de-poemas/o-haikai-e-um-clique/)
 - [O Que os Psiquiatras Não te Contam](https://gamarevista.uol.com.br/cultura/trecho-de-livro/o-que-os-psiquiatras-nao-te-contam/)
-- [“Morrendo por Sexo”, drama e comédia com Michelle Williams](https://gamarevista.uol.com.br/achamos-que-vale/assistir/morrendo-por-sexo-drama-e-comedia-com-michelle-williams/)
 <!-- GAMA_LIST:END -->
 
 ### Nexo Políticas Públicas
